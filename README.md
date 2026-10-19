@@ -12,6 +12,7 @@
 | PR-02 | 2026-10-19 | 用户裁决落账（Versa=C、档位规则 OK、PDF 价差搁置、「往死里挖」）；**W02 第二批 +25 户**（UK/IE/DE/IT/CZ/HU/SE/NO/FR/PL/CA/US，web_search ≈60 次）+ 4 户既有档补具名 KP（Spectra/Neteon/Paragon/W3CAM）；Mikrotik 仓库 1032 行 grep 去重（命中 BSC=A-532、Jampel=C-031、100MEGA=A-499/C-173） | **40**（A 10 / B 22 / C 8） | errors: 0 |
 | PR-02 · W03 | 2026-10-19 | 用户「继续挖」→ **W03 第三批 +13 户**（HU/IT/NO/ES/FI/UK/PL/CA/FR/CZ，web_search ≈35 次）+ 7 户既有档补证（Direktronik 退信通道更正、Spectra/Exertis/Coel/Connect Data/Compass 补 Mikrotik 对照、BTS/ACTION/100MEGA/Kyma 补品牌站与进口证据）；Mikrotik grep 新增同户 6 组（Young=A-233、Coel=A-191、Connect Data=A-254、Direktronik=A-054、Spectra=C-026/C-149、Compass=C-028、Exertis Azenn=C-185）；W02 pending 9 项全部处置 | **53**（A 13 / B 30 / C 10） | errors: 0 |
 | PR-02 · W04 | 2026-10-19 | 用户「继续挖，着重北美（US/CA）+ 欧洲 + 土耳其」→ **W04 第四批 +13 户**（TR 3 / US 2 / CA 1 / CZ 1 / DE 1 / AT 1 / IT 1 / NL 1 / TRNC 1，web_search ≈30 次 + fetch_page ×2）：PTUSA 官方 Where-to-Buy 下游 Pulse Supply（总裁/销售 VP 直邮 → **A**）与 Platinum Micro；Mikrotik「B下放·无邮箱」4 行补邮箱重评（C-089 / C-085 / C-067 / C-015）；Mikrotik PLANET 关联 A 行并档 4 组（A-497 PROFIcomms 补到 PLANET 线 PM 直邮 → **A**、A-480 Fiber24、A-469 TRIOTRONIK、A-032 Aikom）；**土耳其首批 3 户**（Bimel / Rima / Ergen）；荷兰白牌 Alarmsysteemexpert（Movok VK-SWITCH → OEM 角度）；Akçaba 复核为北塞浦路斯 → C 区域边缘待裁定 | **66**（A 15 / B 40 / C 11） | errors: 0 |
+| PR-02 · W05 | 2026-10-19 | 用户 T06 裁决落账（Akçaba PC-011 → B；5 户同户首触从 Planet 仓发；UL/TAA 第二封前核）→「继续挖吧」**W05 第五批 +5 户**（TR 1 / UK 2 / ES 1 / NL 1，web_search 15 次）：Mikrotik 主表改**全列** grep 后新命中 PLANET 关联行（Nokta A-462、Connectec C-107、Saratota C-116、CiudadWireless A-562、Shop4Power C-259）——两户「无邮箱」C 补邮箱重评 B、一户「自有品牌太难」C 按 OEM 机会重评 B、两户 A 并档；LinITX / Comms Express / Instant Byte / ALLNET 核无 PLANET 证据不并档；土耳其二轮饱和（仅比价站）；hypernet → 马尼拉区域外 | **71**（A 15 / B 46 / C 10） | errors: 0 |
 
 - 主表：`data/客户名单_Planet渠道_2026-10.csv`（26 列，前 22 列与 Mikrotik 仓库一致）
 - 档案：`profile/A|B|C/`，索引 `profile/00-索引.md`
@@ -25,6 +26,9 @@
 - W04 A 类：**PA-014 Pulse Supply（US，PTUSA 官方 USA Reseller 首位；官网 PDF 公开总裁 Salvatore Costantino / 销售 VP Bobby Baine / VP Michael Banschbach 直邮；Mikrotik C-089「无邮箱」→ 本仓补齐升 A；守界：不碰其核电/SMR 线）**、**PA-015 PROFIcomms（CZ，PLANET/ComNet/Microsens 线产品与销售经理 David Matula 直邮，官网品牌页公开；Mikrotik A-497 仅 info@ → 首触从哪个仓发由用户定）**
 - W04 土耳其（T05 新增区域）：PB-031 Bimel（Ankara，80 人，PL- 自有货号全线）、PB-032 Rima Elektronik（İstanbul，监控集成商）、PB-033 Ergen Elektronik（Antalya，Dahua+PLANET）；**Akçaba 实为北塞浦路斯 Lefkoşa → PC-011 区域边缘，用户一句话可升 B**
 - W04 原始证据：`batch/2026-10-19_W04_*.json`（13 条；skipped 12 组、pending 8 项、queries 6 组）
+- T06 裁决：**Akçaba PC-011 升 B**（人工定级 B，编号不改）；**Pulse / PROFIcomms / Platinum / ABP / Globall 首触从 Planet 仓发**（规则 §4.3 T06 例外）
+- W05（+5，全 B）：PB-041 Nokta Elektronik（TR，并档 A-462）、PB-042 Connectec（UK，PLANET 授权分销 + 安装商贸易柜台，补 sales@）、PB-043 Saratota（UK，PLANET 为首位代理线 + planet-direct.co.uk，补 sales@）、PB-044 CiudadWireless（ES，自有品牌 eRize 工业 DIN PoE → OEM 30%，并档 A-562）、PB-045 Shop4Power（NL，「Planet Ethernet Specialist」+ E-Link）
+- W05 原始证据：`batch/2026-10-19_W05_*.json`（5 条；skipped 10 组、pending 7 项、queries 13 组）
 
 ## 作战方案（用户问「看看如何搞」· 2026-10-19 版）
 
@@ -37,7 +41,8 @@
 7. ~~**下一批（W03）计划**~~ **W03 已完成（2026-10-19）**：pending 9 项全处置（Young→A、Microsam→B、Digitx→B、CAPS/Abix/Ropere-Suntech→skip 电商、planet-ca.com→信号源）；北欧 FI 命中 Microdata（B）、NO 命中 Leteng（A）、DK 仍无专业经销；M7 白牌（rebranded/baugleich）两种措辞均为噪音；美国集成商 M3/M4 两种措辞均无命中。原计划：① 美国/加拿大安防与工业集成商（M3 分销商下游：Neteon / M/A Rugged / NSI / iOC 的「客户案例」页；M4 `"Planet" "IGS-" case study`）；② 法国/西班牙/葡萄牙二轮（Abix、accessoires-informatiques、Microsam-CA、Young B.T.S.-HU、CAPS-NL、Digitx-IT 等 pending 9 项逐个核）；③ 北欧 DK/FI 型号反查（丹麦语/芬兰语）；④ M7 白牌反查：以 PLANET 机型外观/固件特征搜欧美自有品牌（Lysora、Norelco、Direktronik、4Net 已是线索）；⑤ 为 W01/W02 的 B 类找具名 KP（FEN、Ballicom、ProVu、WoodComm）；⑥ 用 `fetch_page` 补齐 W02 标「检索摘要/待补证」的原文（Kyma、Absolon、Aspectis、BTS、NSI OEM 页）。
 
 8. ~~**下一批（W04）计划**~~ **W04 已完成（2026-10-19，区域指令：US/CA + 欧洲 + 土耳其）**：③ 美国改走 PTUSA 官方 Where-to-Buy 下游（Pulse Supply→A、Platinum Micro→B）+ Mikrotik「无邮箱」C 行补邮箱（ABP、Globall）——投标/规格书与 rep-firm 措辞均为噪音；② 德国 Systemhaus 二轮无新命中，但连带命中 TRIOTRONIK（AT）；④ NL 安装商角度命中 Alarmsysteemexpert（白牌 Movok），BE Wilcon 无 PLANET 证据，DK 仍只有电商；⑤⑥⑦ 与 ① 首触前硬化顺延 W05。原计划：① **首触前硬化**：对 13 户 A 用 `fetch_page` 逐页核原文（W02/W03 标「检索摘要/待核」处：Young 联系页在职、SIR.tel 团队页、Leteng 总经理页、Jampel 旧站邮箱、Kyma/Absolon/Aspectis/BTS/NSI OEM 页），核毕才进入首触池；② **德国 Systemhaus 二轮**（M3：BTS NETWORK 自述客户群「Ingenieurbüros / Elektrogroßhandel / Systemhäuser」→ 搜其案例页；M10：Moxa/ORing 德国伙伴与 PLANET 重叠）；③ **美国**改走投标/规格书路径（`"Planet" "IGS-" bid tabulation` / IPVM、Reddit 口碑帖反查安装商）与 Neteon/M/A Rugged 案例页；④ **丹麦/荷兰/比利时** M3：Hikvision/UNV/Dahua 安装商名录 × PLANET；⑤ myTelecom（FR）、Tech Plaza（PT）、Coditek（ES）、cctv.net（US）、hypernet/satronel 区域核；⑥ 为 B 类补具名 KP（FEN、Ballicom、ProVu、WoodComm、Microdata、VERSIM）；⑦ 三仓并档：把本仓补到的邮箱（Young pasztor.andras@）回填 Mikrotik 侧需用户在 Mikrotik 仓库操作——本仓只记录。
-9. **下一批（W05）计划**：① **首触前硬化**（顺延）：15 户 A 用 `fetch_page` 逐页核原文，核毕进入首触池；② **土耳其二轮**：Parnet（多款 PLANET 在售，核是否专业经销）、Bimel 的 PLANET 产品经理具名、伊兹密尔/布尔萨安防分销 × PLANET；③ **Mikrotik PLANET 关联 A 行逐一核品牌页**（Instant Byte ES A-564、ELMAT IT A-353、LinITX UK A-059、Comms Express UK A-550）→ 有 PLANET 侧证据即并档；④ **ALLNET GmbH（DE）** 自有品牌交换机 OEM 目标评估（体量偏大，先看是否有 OEM/ODM 采购入口）；⑤ Alarmsysteemexpert 的 Movok/VK-SWITCH 白牌归属核实（若为第三方品牌商则建该品牌商档）；⑥ 美国三户（Pulse / Platinum / ABP）的 UL/TAA 门槛核（Saga 无 UL）——第二封邮件前必核；⑦ B 类补具名 KP（FEN、Ballicom、ProVu、WoodComm、Microdata、VERSIM、Bimel）；⑧ DK/CH/GR/PT/BE 改走 Hikvision/Dahua 伙伴名录 × PLANET 或暂停。
+9. ~~**下一批（W05）计划**~~ **W05 已完成（2026-10-19）**：③ Mikrotik PLANET 关联行核验 → Nokta / CiudadWireless 并档，Connectec / Saratota / Shop4Power 重评 B；LinITX / Comms Express / Instant Byte 无 PLANET 证据；④ ALLNET 无 PLANET 证据（OEM 线索留 Mikrotik 仓）；② 土耳其二轮饱和（Parnet 待取证、Kartal 为电商）；①⑤⑥⑦⑧ 顺延 W06。原计划：① **首触前硬化**（顺延）：15 户 A 用 `fetch_page` 逐页核原文，核毕进入首触池；② **土耳其二轮**：Parnet（多款 PLANET 在售，核是否专业经销）、Bimel 的 PLANET 产品经理具名、伊兹密尔/布尔萨安防分销 × PLANET；③ **Mikrotik PLANET 关联 A 行逐一核品牌页**（Instant Byte ES A-564、ELMAT IT A-353、LinITX UK A-059、Comms Express UK A-550）→ 有 PLANET 侧证据即并档；④ **ALLNET GmbH（DE）** 自有品牌交换机 OEM 目标评估（体量偏大，先看是否有 OEM/ODM 采购入口）；⑤ Alarmsysteemexpert 的 Movok/VK-SWITCH 白牌归属核实（若为第三方品牌商则建该品牌商档）；⑥ 美国三户（Pulse / Platinum / ABP）的 UL/TAA 门槛核（Saga 无 UL）——第二封邮件前必核；⑦ B 类补具名 KP（FEN、Ballicom、ProVu、WoodComm、Microdata、VERSIM、Bimel）；⑧ DK/CH/GR/PT/BE 改走 Hikvision/Dahua 伙伴名录 × PLANET 或暂停。
+10. **下一批（W06）计划**：① **首触前硬化**：15 户 A 用 `fetch_page` 逐页核原文（Young / SIR.tel / Leteng / Jampel / Kyma / Absolon / Aspectis / BTS / NSI / Pulse PDF 在职 / PROFIcomms 联系页），核毕进入首触池——**挖掘已进入收益递减区（W04 +13 → W05 +5），建议 W06 以硬化 + 首触准备为主**；② 取证补缺：CiudadWireless PLANET 产品页、Parnet PLANET 产品页（→ B）、Alarmsysteemexpert Movok 归属、Shop4Power E-Link 归属；③ 美国三户 UL/TAA 核（第二封前）；④ B 类补具名 KP（FEN、Ballicom、ProVu、WoodComm、Microdata、VERSIM、Bimel、Connectec）；⑤ 剩余入口：Hikvision/Dahua 伙伴名录 × PLANET（DK/CH/GR/PT/BE），Mikrotik 全表再过一遍「ORing/EtherWAN/Lantech 授权」行（台厂工业交换机同类渠道，可能同时卖 PLANET）。
 
 ## 目录
 
@@ -52,7 +57,7 @@ docs/reference/                  从Mikrotik仓库继承的规则摘要 / Saga�
 docs/methodology/                Planet客户挖掘方法论 / 死路与死链备案
 docs/audit/全仓审计.md            scripts/audit.py 输出
 data/                            主表 CSV / 价格主表.csv / Mikrotik 对照 CSV
-batch/                           每批原始证据 JSON（W01–W04）
+batch/                           每批原始证据 JSON（W01–W05）
 profile/A|B|C/                   渲染档案（勿手改）
 scripts/                         pricing.py / add_batch.py / render.py / audit.py / common.py
 *.xlsx *.pdf *.docx              用户上传原件（价格表、Saga 背景）

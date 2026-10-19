@@ -124,3 +124,10 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **区域判定教训**：Akçaba 的 +90 区号让 W02 误判为土耳其——实为北塞浦路斯（392 区号）。**+90 ≠ 土耳其本土**，以城市（Lefkoşa/Nicosia）为准；此类「区域边缘」建 C 并保留全量信息，交用户裁定。
 - **美国三户的隐性门槛**：Pulse / Platinum / ABP 都服务政府渠道 → UL / TAA 很可能出现（Saga 无 UL；TAA 产地规则可能排除大陆货源）。首触仍只问需求；**第二封邮件前必核**，命中即按 INH-17 降级。
 - **同户首触归属**：W04 出现两种并档：(a) Mikrotik 侧 A 且已有邮箱（Fiber24 / TRIOTRONIK / Aikom）→ 本仓 B 并档，首触以 Mikrotik 为准；(b) Mikrotik 侧缺邮箱或仅 info@、本仓补到更好 KP（Pulse / PROFIcomms / Platinum / ABP / Globall）→ 本仓定级，**首触从哪个仓发由用户决定**（记在 notes 与对照 CSV）。
+
+### W05（2026-10-19，15 次 web_search，+5 户，全 B；T06 裁决落账）
+
+- **什么有效**：① **Mikrotik 主表全列 grep**（公司名/类型/信号/评级依据/备注/切入点都查「PLANET|Planet」）——W04 只查信号列，漏掉 5 行；全列 grep 一次就把本轮 5 户全部找齐；② **「B下放·无邮箱」行的官网 contact 页/官方社媒/厂商资料页**：Connectec 的 sales@ 在官网 contact 页，Saratota 的 sales@ 不在官网、但在其官方 Facebook 主页与 Patton 官方资料「Distributed in the UK by」——**厂商资料页上的分销商邮箱是合规的第一方/厂商口径来源**；③ **「太难·自有品牌」在本仓是机会而非障碍**（Shop4Power E-Link、CiudadWireless eRize）——Mikrotik 的 C 细分规则与本仓 OEM 目标相反，重评时要按本仓规则。
+- **什么无效**：① 土耳其地名 × PL- 货号 → 只剩比价站；② Mikrotik A 行里的 MikroTik 专营（LinITX / Instant Byte）与多品牌电商（Comms Express）都不卖 PLANET——「卖 MikroTik 的不一定卖 PLANET」，并档前必须核品牌页。
+- **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5。欧洲/北美/土耳其的泛检索与 Mikrotik 交叉都已见底，**W06 起应以 A 类硬化与首触准备为主**，挖掘只做取证补缺（Parnet、CiudadWireless PLANET 页）与新入口试探（ORing/EtherWAN/Lantech 授权渠道 × PLANET）。
+- **T06 规则落地**：同户首触归属 = 「谁手里的 KP 更好谁发」（本仓补到邮箱/PM → Planet 仓发；Mikrotik 侧 A 且有邮箱 → Mikrotik 发）；编号冻结下的升级 = `人工定级` 列 + 评级列同改 + 备注记裁决时刻，档案目录随之移动（PC-011 现在 `profile/B/`）。
