@@ -53,6 +53,15 @@ updated: 2026-10-19
 - **【公司自述】地址与通用邮箱**
   > Corporate Office & Technical Support Center 1 Tower Center Blvd, Suite 1510, East Brunswick, NJ 08816 … sales@neteon.net
   > 来源：https://planet.neteon.net/（抓取 2026-10-19）
+- **【公司自述】PLANET 美国分销伙伴自 2009 年**
+  > We are a proud USA distribution partner for PLANET Technology since 2009.
+  > 来源：https://www.neteon.net/brands/planet（抓取 2026-10-19）
+- **【第三方】规模：16 人，营收约 $7.8M，2002 年成立，总裁 Hubert Yu**
+  > Revenue · $7.8 million Employees · 16 … Founded · 2002 … Hubert Yu is the President of Neteon Technologies Inc.
+  > 来源：https://rocketreach.co/neteon-technologies-inc-profile_b5da5855f42e56fb（抓取 2026-10-19）
+- **【第三方】高级产品经理具名**
+  > Name: Geoffrey Wen Title: Senior Product Manager Company: NETEON TECHNOLOGIES, INC.
+  > 来源：https://www.dnb.com/contact-directory/contact-profile.geoffrey_wen.671f1f7dc7dc8904741f53b12d26290b.html（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -67,6 +76,8 @@ updated: 2026-10-19
 ## 联系方式（已有/猜测分标）
 
 - **—（销售）**（sales & ordering）：sales@neteon.net / +1 732-568-1988 〔公开（planet.neteon.net/contact）；源：https://planet.neteon.net/contact/〕
+- **Hubert Yu**（President）：— / +1 732-568-1988 〔具名无公开直邮（不猜）；源：https://www.cbinsights.com/company/neteon-technologies〕
+- **Geoffrey Wen**（Senior Product Manager）：— / +1 732-568-1988 〔具名无公开直邮（D&B 名录）；源：https://www.dnb.com/contact-directory/contact-profile.geoffrey_wen.671f1f7dc7dc8904741f53b12d26290b.html〕
 - **邮箱纪律**：只记公开找到的地址；未做 SMTP 验证（不可验），MX 状态：未查。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -174,4 +185,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*

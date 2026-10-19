@@ -50,6 +50,12 @@ updated: 2026-10-19
 - **【政府登记】SIREN 483 019 345，NAF 46.43Z 批发，Lorient 总部在营**
   > SIRET : 483 019 345 00055 | Activité (NAF/APE) : Commerce de gros … 3 RUE DU SOUS-MARIN VENUS 56100 LORIENT siège social | État : en activité
   > 来源：https://annuaire-entreprises.data.gouv.fr/entreprise/w3cam-483019345（抓取 2026-10-19）
+- **【工商】3–5 人，2005 年成立，法人 SAS**
+  > Effectif : Entre 3 et 5 salariés (donnée 2023) · Création : 10/06/2005 · Dirigeant : ELECTRON
+  > 来源：https://www.pappers.fr/entreprise/w3cam-483019345（抓取 2026-10-19）
+- **【公司自述】品牌组合：Axis/Hikvision/Dahua/Ajax/Hanwha/Bosch/Milestone/2N**
+  > Distributeur français spécialisé en systèmes de vidéosurveillance IP … Revendeur agréé Axis, Hikvision, Dahua, Ajax, Hanwha, Bosch, Milestone et 2N.
+  > 来源：https://www.w3cam.fr/（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -65,6 +71,7 @@ updated: 2026-10-19
 ## 联系方式（已有/猜测分标）
 
 - **—（联系）**（contact）：contact@w3cam.fr / 0 805 382 522 〔公开（官网 contact 页）；源：https://www.w3cam.fr/content/6-formulaire-de-contact〕
+- **Bertrand Ripoll**（Président（2026-01 至 2026-05；现由控股 ELECTRON 任总裁，Ripoll 为实际经营者，待核））：— / 0 805 382 522 〔具名无公开直邮（不猜）；源：https://www.societe.com/societe/w3cam-483019345.html〕
 - **邮箱纪律**：只记公开找到的地址；未做 SMTP 验证（不可验），MX 状态：未查。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -172,4 +179,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*

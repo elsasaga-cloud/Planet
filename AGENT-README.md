@@ -64,6 +64,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | 日期 (UTC) | 轮 | 动作 | 结果 |
 |---|---|---|---|
 | 2026-10-19 14:31–15:05 | PR-01 | 合并 origin/main 上传件；克隆并通读 Mikrotik 仓库；读价格表/背景；建骨架与规则；pricing.py 生成三档表；W01 挖掘 15 户（web_search ×15、fetch_page ×12）；add_batch/render/audit | CSV 15 行，profile 15 份，audit errors 0 |
+| 2026-10-19 15:05–15:35 | PR-02 | T03 落账（对话全记录 / 总账 PR-02-01…04 / 报价规则档位固化 / PC-005 人工定级 C）；W02 挖掘（web_search ≈60 次，depth 1；Mikrotik 主表 1032 行 grep 去重）；批次 JSON 由 `/home/user/_scratch/build_w02.py`（仓库外 scratch）生成；add_batch（added=25 merged=4）/render（40）/audit；修 3 条 Mikrotik 证据 URL（本地路径 → GitHub blob URL） | CSV 40 行，profile 40 份，audit errors 0 |
 
 ## 5. 已知坑（本仓库）
 

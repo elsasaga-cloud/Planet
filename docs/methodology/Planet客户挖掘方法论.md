@@ -99,3 +99,12 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 
 - 每批：`batch/<YYYY-MM-DD>_<批名>.json` → `scripts/add_batch.py` 入主表 → `scripts/render.py` 出档案 → `scripts/audit.py` → README 进度 → 对话全记录/总账。
 - 每批 JSON 必须有 `skipped`（含原因）与 `queries`（检索词清单，保证可复现）。
+
+## 五 · 实战经验累积（每轮追加）
+
+### W02（2026-10-19，≈60 次 web_search，+25 户，A 7）
+
+- **什么有效**：① M2 品牌页反查在 **UK/IE/CZ/HU/CA** 命中率最高（每国 2–4 户专业经销）；② **安防批发商**（ALARM ABSOLON、NSI、Power Bizt.、Aspectis、W3CAM）普遍在官网 kontakt 页公开具名销售直邮 → A 率高；③ **工商/名录核名**（northdata、nordicnet、pappers、societe.com、ufficiocamerale）一次查询即可拿到规模/年份/负责人，用于「体量可赢」判断；④ **Mikrotik 主表 grep** 必做（本轮 3 组重合：BSC、Jampel、100MEGA），避免重复首触。
+- **什么无效**：① `site:` + 精确型号 = 0 结果；② 「appoints distributor / white label」新闻查询 = 同名噪音；③ AT/CH/BE/NL 的「distributor + PLANET」只出泛电商；④ 美国 WISP 分销商无 PLANET；⑤ 美国集成商直接检索无 PLANET 命中（需改走 M3/M4）。
+- **A 的三种形态（本轮归纳）**：(a) 具名直邮公开的安防/工业分销（Absolon、Aspectis、Jampel）；(b) ≤10 人微型公司，info@/sales@ 即老板（Kyma、iOC Tech）；(c) 已有自有品牌的分销商（NSI/Norelco、Direktronik、BSC/Lysora、BTS）——贴牌切入，30% 档。
+- **证据纪律提醒**：web_search 摘要可作证据但必须标「检索摘要」；凡标「待补证/原文待 fetch 核对」的，下一轮用 `fetch_page` 补原文再首触（Kyma、Absolon、Aspectis、BTS、NSI OEM 页、Jampel 旧站邮箱）。

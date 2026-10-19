@@ -49,6 +49,12 @@ updated: 2026-10-19
 - **【公司自述】法人与地址、通用邮箱**
   > Spectra GmbH & Co. KG Mahdenstr. 3 72768 Reutlingen Germany sales@spectra.de +49 7121 1432-10
   > 来源：https://planet.spectra.de/en/about-us/planet（抓取 2026-10-19）
+- **【公司自述】具名销售直邮公开（W02 补证）**
+  > Nick Friedrichsohn … Nick.Friedrichsohn@spectra.de … +49 7121 1432-239（contact-sales 页，检索摘要）
+  > 来源：https://www.spectra.de/en/contact/contact-sales（抓取 2026-10-19）
+- **【公司自述】产品经理（自动化线）直邮公开；网络线 PM 未找到**
+  > Vincent Schneider Produktmanager … vincent.schneider@spectra.de（检索摘要）
+  > 来源：https://unitronics.spectra.de/kontakt（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -61,6 +67,8 @@ updated: 2026-10-19
 ## 联系方式（已有/猜测分标）
 
 - **—（销售）**（sales）：sales@spectra.de / +49 7121 1432-10 〔公开（PLANET 子站 about 页）；源：https://planet.spectra.de/en/about-us/planet〕
+- **Nick Friedrichsohn**（Sales Region South（销售，南区））：Nick.Friedrichsohn@spectra.de / +49 7121 1432-239 〔公开（官网 contact-sales 页）；源：https://www.spectra.de/en/contact/contact-sales〕
+- **Vincent Schneider**（Produktmanager Automation（非网络线 PM））：vincent.schneider@spectra.de 〔公开（unitronics.spectra.de/kontakt）；源：https://unitronics.spectra.de/kontakt〕
 - **邮箱纪律**：只记公开找到的地址；未做 SMTP 验证（不可验），MX 状态：未查。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -168,4 +176,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*

@@ -22,7 +22,7 @@ updated: 2026-10-19
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：PLANET 北美授权总代（「a division of Versa Technology」）；PLANET 授权北美分销；其 Where-to-buy 页列 Pulse Supply、Black Box、Graybar、Anixter/Wesco、Platinum Micro、AT Logistics
-- **为什么值得跟**：作为 PLANET 北美总代以 PLANET 品牌运营，按宪法第七条视为信号源而非客户；但其母体 Versa Technology 是独立美国公司且有自有品牌，是否可作 OEM 客户待用户裁定（❓）
+- **为什么值得跟**：PLANET 北美授权总代，以 PLANET 品牌运营，视为信号源而非客户；母体 Versa Technology 有自有品牌，用户已裁决维持 C（T03，2026-10-19），不作 OEM 客户推进。
 - **P1（首触唯一主推）**：STC-424XGGPM-280W — 按其在卖的 PLANET 型号对位；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which PoE switch model do you sell most often today, and roughly how many units a year?
 - **最大未知**：采购决策人与年用量未确认；现用 PLANET 型号的毛利与断货痛点未确认

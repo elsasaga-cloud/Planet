@@ -42,6 +42,12 @@ updated: 2026-10-19
 - **【卖方目录】PLANET 工业交换机专区与三款在售价格**
   > Call +44 0208 906 6816 Email enquiries@paragonnetworks.co.uk … £85.00 IGS-801T - Planet Industrial 8-Port 10/100/1000Mbps Gigabit Ethernet Switch … £135.00 IGS-620TF … £190.00 WGS-804HP
   > 来源：https://www.paragonnetworks.co.uk/shop/industrial-ethernet-switches-360-c（抓取 2026-10-19）
+- **【公司自述】两位董事具名；客户从音乐节到国防**
+  > As directors of Paragon Networks … Thomas & Alan … from Festivals to Defence and everything in between
+  > 来源：https://www.paragonnetworks.co.uk/about-us（抓取 2026-10-19）
+- **【第三方】规模 1–10 人**
+  > The company has 1-10 employees.
+  > 来源：https://www.signalhire.com/companies/paragon-networks（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -58,6 +64,7 @@ updated: 2026-10-19
 ## 联系方式（已有/猜测分标）
 
 - **—（咨询）**（enquiries）：enquiries@paragonnetworks.co.uk / +44 208 906 6816 〔公开（网店页眉）；源：https://www.paragonnetworks.co.uk/shop/industrial-ethernet-switches-360-c〕
+- **Thomas Buckingham**（Director（官网关于页署名「Thomas & Alan」））：— / +44 20 8906 6816 〔具名无公开直邮（不猜）；源：https://www.paragonnetworks.co.uk/about-us〕
 - **邮箱纪律**：只记公开找到的地址；未做 SMTP 验证（不可验），MX 状态：未查。
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -165,4 +172,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
