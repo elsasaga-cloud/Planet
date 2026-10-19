@@ -117,3 +117,10 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **集团视角**：Lagercrantz 集团同时拥有 Direktronik（SE）与 Leteng（NO）——子公司各自采购、规模 20–30 人、都在卖 PLANET → 可赢，但两户首触节奏要错开。
 - **A 的第四种形态**：(d) 具名采购经理但无直邮、销售邮箱公开的活跃授权分销（SIR.tel）——以 `Attn:` 走 sales@；若用户要求 A 必须直邮则降 B。
 
+### W04（2026-10-19，≈30 次 web_search + 2 次 fetch_page，+13 户，A 2；T05 区域指令 US/CA + 欧洲 + 土耳其）
+
+- **什么有效**：① **M3 官方下游名单逐名核**：PTUSA Where-to-Buy 的 5 个名字里，巨头之外的 Pulse Supply / Platinum Micro 都没被 W01 建档——回头核一遍，Pulse 官网竟公开整份「Sales Offices and Contacts」PDF（总裁到区域总监直邮）→ 直接 A；② **Mikrotik「B下放·无邮箱」行的重评路径**：C-089 / C-085 / C-067 / C-015 四行全是 PLANET 授权分销、只缺邮箱——官网 contact 页/PDF/新闻稿都能补到，一轮补 4 户；③ **Mikrotik A 行也值得再看**：A-497 PROFIcomms 在 Mikrotik 只有 info@，但其官网 PLANET 品牌页具名 PM（David Matula）——**客户自己站上的「厂商品牌页」常署名该线 PM**，比联系页更准；④ **土耳其**：英文措辞全失效，土耳其语 + 本地货号前缀（Bimel 的 `PL-` 体系）是唯一有效 token；⑤ **安防安装商角度**（NL）挖出白牌（Movok VK-SWITCH）——OEM 角度的客户往往不卖 PLANET 交换机、只卖 PLANET 配件（注入器/延长器）。
+- **什么无效**：① US/CA 六种措辞（line card / rep firm / GSA-TAA / 安防电商品牌名 / 法语魁北克 / 型号比价）全部饱和；② 欧洲 10 国安装商角度二轮只出 1 户；③ 土耳其具名 PM 检索为噪音；④ 美国型号比价只见 Newegg/DigiKey/eBay。
+- **区域判定教训**：Akçaba 的 +90 区号让 W02 误判为土耳其——实为北塞浦路斯（392 区号）。**+90 ≠ 土耳其本土**，以城市（Lefkoşa/Nicosia）为准；此类「区域边缘」建 C 并保留全量信息，交用户裁定。
+- **美国三户的隐性门槛**：Pulse / Platinum / ABP 都服务政府渠道 → UL / TAA 很可能出现（Saga 无 UL；TAA 产地规则可能排除大陆货源）。首触仍只问需求；**第二封邮件前必核**，命中即按 INH-17 降级。
+- **同户首触归属**：W04 出现两种并档：(a) Mikrotik 侧 A 且已有邮箱（Fiber24 / TRIOTRONIK / Aikom）→ 本仓 B 并档，首触以 Mikrotik 为准；(b) Mikrotik 侧缺邮箱或仅 info@、本仓补到更好 KP（Pulse / PROFIcomms / Platinum / ABP / Globall）→ 本仓定级，**首触从哪个仓发由用户决定**（记在 notes 与对照 CSV）。

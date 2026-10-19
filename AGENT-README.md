@@ -57,7 +57,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | `docs/reference/Saga公司画像与边界.md` | 用户背景 docx 的结构化版 |
 | `docs/methodology/Planet客户挖掘方法论.md` | M1–M10 方法与国家顺序 |
 | `docs/methodology/死路与死链备案.md` | 404/登录墙/匿名页 + 信号源名单 + 区域外命中 |
-| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 26 行 |
+| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 38 行（W03 +8 行，W04 改写 8 行说明） |
 
 ## 4. 操作记录
 
@@ -66,6 +66,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | 2026-10-19 14:31–15:05 | PR-01 | 合并 origin/main 上传件；克隆并通读 Mikrotik 仓库；读价格表/背景；建骨架与规则；pricing.py 生成三档表；W01 挖掘 15 户（web_search ×15、fetch_page ×12）；add_batch/render/audit | CSV 15 行，profile 15 份，audit errors 0 |
 | 2026-10-19 15:05–15:35 | PR-02 | T03 落账（对话全记录 / 总账 PR-02-01…04 / 报价规则档位固化 / PC-005 人工定级 C）；W02 挖掘（web_search ≈60 次，depth 1；Mikrotik 主表 1032 行 grep 去重）；批次 JSON 由 `/home/user/_scratch/build_w02.py`（仓库外 scratch）生成；add_batch（added=25 merged=4）/render（40）/audit；修 3 条 Mikrotik 证据 URL（本地路径 → GitHub blob URL） | CSV 40 行，profile 40 份，audit errors 0 |
 | 2026-10-19 15:28–15:46 | PR-02 · W03 | T04「继续挖」落账；W03 挖掘（web_search ≈35 次，depth 1；Mikrotik 主表 grep 含域名 token，新增同户 6 组）；批次 JSON 由 `/home/user/_scratch/build_w03.py` 生成；add_batch（added=13 merged=7）/render（53）/audit；**直接修补**：W01 JSON PB-001 mikrotik_ref、W02 JSON PA-009 contacts/rating_basis（steffo@ 标发不过去 + 新增 fredrik.brunzell@）、CSV PA-009 入口单元格（add_batch 对既有行只填空列，故手改）；README/总账/死路/方法论/对照 CSV 同步 | CSV 53 行，profile 53 份，audit errors 0 |
+| 2026-10-19 15:47–16:05 | PR-02 · W04 | T05「继续挖 着重北美+欧洲+土耳其」落账（总账 PR-02-05、INH-02 注记）；W04 挖掘（web_search ≈30 次 depth 1 + fetch_page ×2：PTUSA where-to-buy、Pulse 联系 PDF）；Mikrotik 主表 grep（土耳其 11 行均非 PLANET；C-089/C-085/C-067/C-015 补邮箱重评；A-497/A-480/A-469/A-032 并档）；批次 JSON 由 `/home/user/_scratch/build_w04.py` 生成；add_batch（added=13 merged=0）/render（66）/audit；README（进度行 + A 类 + 作战方案 8 划掉/9 新增）/总账/死路 §1§3§4/方法论 §五 W04/对照 CSV 8 行「对照说明」改写（不加行）| CSV 66 行，profile 66 份，audit errors 0 |
 
 ## 5. 已知坑（本仓库）
 
