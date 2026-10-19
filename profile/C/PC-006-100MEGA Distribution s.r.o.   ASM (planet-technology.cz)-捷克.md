@@ -47,6 +47,12 @@ updated: 2026-10-19
 - **【Mikrotik 仓库】A-499 / C-173 同集团**
   > 客户名单_反向信号_2026-09.csv 行 A-499（export@i4wifi.eu 退信）、C-173
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【公司自述】W03 补证：planet-technology.cz 自述 ASM 为捷克+斯洛伐克 25 年独家伙伴，已并入 100MEGA**
+  > Exkluzivním partnerem pro oblast Čech a Slovenska je tradičně již 25 let společnost ASM, která se stala součástí skupiny 100MEGA Distribution s.r.o. podpora@asm.cz … info@planet-tech.cz +420 281 040 511
+  > 来源：https://www.planet-technology.cz/（抓取 2026-10-19）
+- **【第三方】斯洛伐克分支 Asm Slovakia spol. s r.o.（Bratislava）自称 PLANET 独家分销**
+  > Asm Slovakia spol.s r.o., Bratislava Estónska 43, 83107 Bratislava Výhradný distribútor Planet Technology, Lexcom a Xtendlan … http://www.asm.sk
+  > 来源：https://www.zoznam.sk/katalog/Pocitace-internet-elektronika/Pocitace-prislusenstvo/Distribucia.html（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -148,4 +154,4 @@ updated: 2026-10-19
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

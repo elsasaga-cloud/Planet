@@ -3,6 +3,8 @@
 > **评级 B**　|　德国 · Reutlingen　|　档案编号 `PB-001`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：工业自动化经销（工业 PC/网络 VAD）+ PLANET 官方分销（子站 planet.spectra.de）　|　**PLANET 关联**：自称 PLANET 官方分销商，运营 PLANET 专卖子站（LAN/PoE/路由/转换器/SFP），面向工业与基础设施　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> ⚠️ **Mikrotik 仓库已有档案 C-026; C-149**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
 
 ```yaml structured_profile
 code: PB-001
@@ -13,7 +15,7 @@ planet_models: []
 p1: STI-488DGGPM
 price_tier: 20%
 stage: 00-未触达
-mikrotik_ref: none
+mikrotik_ref: C-026; C-149
 updated: 2026-10-19
 ```
 
@@ -55,6 +57,9 @@ updated: 2026-10-19
 - **【公司自述】产品经理（自动化线）直邮公开；网络线 PM 未找到**
   > Vincent Schneider Produktmanager … vincent.schneider@spectra.de（检索摘要）
   > 来源：https://unitronics.spectra.de/kontakt（抓取 2026-10-19）
+- **【Mikrotik 仓库】W03 补证：Mikrotik 仓库 C-026（oring.spectra.de，ORing 分销）/ C-149（奥地利分公司）同户**
+  > C-026 Spectra (oring.spectra.de) 德国 分销+网店 ORing（全系，公开欧元价）… C-149 Spectra GmbH (Niederlassung Österreich) 奥地利 分销（ORing 授权）
+  > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -176,4 +181,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

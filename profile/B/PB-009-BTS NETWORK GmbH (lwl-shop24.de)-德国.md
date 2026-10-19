@@ -45,6 +45,12 @@ updated: 2026-10-19
 - **【卖方目录】PLANET 分类存在**
   > lwl-shop24.de › Hersteller › PLANET（W01 检索命中，型号未抓取）
   > 来源：https://www.lwl-shop24.de/（抓取 2026-10-19）
+- **【公司自述】W03 补证：BTS NETWORK 另运营 planet-technology.de，自称「Ihr PLANET Distributor」，客户群含工程/规划事务所、电气批发、系统集成商、能源与网络运营商、安装商**
+  > BTS NETWORK – Ihr PLANET Distributor Als deutscher Lieferant beliefern wir Sie mit allen Produkten der Marke PLANET … Unser kompetentes Vertriebsteam ist 20 Jahren Ihr professioneller Ansprechpartner … Zu unsere Kunden zählen Ingenieur- und Planungsbüros, Elektrogroßhandel, Systemhäuser, Energieversorger, Netzbetreiber und Installateure.
+  > 来源：http://planet-technology.de/（抓取 2026-10-19）
+- **【卖方目录】lwl-shop24 PLANET 厂商页：SGSW-24040P4 €690.70、IGS-624HPT、SFP 模块在售**
+  > PLANET 24-Port Gigabit PoE Managed Stackable Switch, SGSW-24040P4 … 690,70 € PLANET Industrial 4-Port 10/100/1000T 802.3at PoE+ mit 2-Port 100/1000X SFP Ethernet Switch PL.IGS-624HPT
+  > 来源：https://www.lwl-shop24.de/nach-hersteller/planet/（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -173,4 +179,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

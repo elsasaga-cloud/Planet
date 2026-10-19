@@ -742,7 +742,7 @@
    "tier_reason": "分销走量 20%；自有品牌贴牌另按 30%",
    "priority": "★★☆",
    "rating": "A",
-   "rating_basis": "需求面：PLANET 工业 PoE 在售 + 自有品牌；触达：Stefan Sandström steffo@direktronik.se（allbiz.se 名录公开，在职/角色待核）、VD Henrik Ringstedt 具名（新闻稿，info@）；体量 25–28 人、SEK 140M，可赢；区域瑞典（二线；上市母公司 Lagercrantz，但子公司独立运营）",
+   "rating_basis": "需求面：PLANET 工业 PoE 在售 + 自有品牌；触达：Fredrik Brunzell fredrik.brunzell@direktronik.se（Softing 名录公开，经 Mikrotik A-054；W03 更正主通道——原 steffo@ 已退信）、VD Henrik Ringstedt 具名（新闻稿，info@）；体量 25–28 人、SEK 140M，可赢；区域瑞典（二线；上市母公司 Lagercrantz，但子公司独立运营）",
    "source": "M1 型号反查（瑞典 PLANET industriell PoE 检索）→ 官网 + nordicnet/hitta 工商摘要",
    "planet_models": [
     "IPOE-470-12V"
@@ -755,11 +755,19 @@
    },
    "contacts": [
     {
+     "name": "Fredrik Brunzell",
+     "role": "（Softing 伙伴名录公开；Mikrotik 仓库 A-054 主通道）",
+     "email": "fredrik.brunzell@direktronik.se",
+     "phone": "+46 8 52 400 700",
+     "status": "公开（Softing 名录，经 Mikrotik 仓库 A-054 记录）【W03 补】",
+     "source": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv"
+    },
+    {
      "name": "Stefan Sandström",
      "role": "Företagskontakt（allbiz 名录口径，角色待核）",
      "email": "steffo@direktronik.se",
      "phone": "+46 8 524 007 00",
-     "status": "公开（第三方名录 allbiz.se；在职/角色待核）",
+     "status": "发不过去（Mikrotik 仓库 A-054：2026-09-29 退信 blocked；按规则保留不删，改用 fredrik.brunzell@）",
      "source": "https://www.allbiz.se/direktronik-ab-08-524-007-00"
     },
     {
@@ -821,7 +829,7 @@
    "hook": "Direktronik already sells its own-brand industrial network gear alongside PLANET, so adding a Marvell-based DIN PoE switch under the Direktronik label is a short step.",
    "first_question": "For your own-brand line, is an 8-port PoE+ DIN switch with 4 SFP a gap you would fill, or is the 8+2 SFP size enough?",
    "subject": "Own-label industrial 8-port PoE+ DIN switch, Marvell-based, ERPS <20 ms",
-   "biggest_unknown": "自有品牌现有 ODM 供应商（很可能已是台/深厂）；steffo@ 角色",
+   "biggest_unknown": "自有品牌现有 ODM 供应商（很可能已是台/深厂）；Fredrik Brunzell 职务（名录未标）",
    "needs": "工业 DIN PoE、ERPS、宽温、CE/RoHS/REACH；可能要求北欧-40℃ 实测",
    "steps": [
     {
@@ -872,8 +880,8 @@
    ],
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "Svenska kraftnät（国家电网）框架协议属公共/关键基础设施——不作为切入，只谈商用/工业民用场景",
-   "mikrotik_ref": "",
-   "notes": "Mikrotik 仓库无此户。"
+   "mikrotik_ref": "A-054",
+   "notes": "Mikrotik 仓库无此户。 【W03 更正】Mikrotik 仓库 A-054 同户（W02 grep 漏记）：steffo@ 已在 Mikrotik 侧退信，主通道改 fredrik.brunzell@；首触只发一次，以 Mikrotik 仓库为准。"
   },
   {
    "_code": "PA-010",

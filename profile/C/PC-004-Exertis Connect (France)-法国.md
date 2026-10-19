@@ -3,6 +3,8 @@
 > **评级 C**　|　法国 · —　|　档案编号 `PC-004`　|　优先级 —　|　状态：00-未触达
 >
 > **类型**：分销商（Exertis/DCC 集团法国网络批发）　|　**PLANET 关联**：批发目录含 PLANET IGS-801T 等　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> ⚠️ **Mikrotik 仓库已有档案 C-185**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
 
 ```yaml structured_profile
 code: PC-004
@@ -13,7 +15,7 @@ planet_models: ["IGS-801T"]
 p1: STI-080GE
 price_tier: 20%
 stage: 00-未触达
-mikrotik_ref: none
+mikrotik_ref: C-185
 updated: 2026-10-19
 ```
 
@@ -42,6 +44,15 @@ updated: 2026-10-19
 - **【卖方目录】Exertis Connect 批发目录列 PLANET IGS-801T**
   > Planet Switch Indust Gigabit -40/75° - 8 ports 10/100/1000 : Grossiste Switchs. Exertis Connect est le grossiste informatique spécialisé Réseau actif … Part number · IGS-801T
   > 来源：https://www.exertis-connect.fr/fr/314808.html（抓取 2026-10-19）
+- **【第三方】W03 补证：2026-06-01 起 Exertis Connect 与 Azenn 合并为 Azenn Connect（300 人、约 €160M），PLANET 仍在售（FSD-1008HP / IGS-824UPT）**
+  > Depuis le 1er juin, les distributeurs spécialisés … Azenn et Exertis Connect ont fusionné pour donner naissance à Azenn Connect. Cette entité emploie désormais 300 collaborateurs pour un chiffre d'affaires d'environ 160 millions d'euros.
+  > 来源：https://www.distributique.com/actualites/lire-azenn-connect-rassemble-les-activites-d-azenn-et-exertis-connect-37313.html（抓取 2026-06-15）
+- **【卖方目录】Azenn Connect 在售 PLANET**
+  > Planet FSD-1008HP switch 10" 10P 10/100 dont 8 poe+ 120W - Switchs- Azenn Connect, grossiste informatique
+  > 来源：https://www.azenn-connect.fr/fr/411108.html（抓取 2026-10-19）
+- **【Mikrotik 仓库】C-185 Exertis Azenn 同集团**
+  > C-185 Exertis Azenn 法国 分销（ComNet 授权）… 太难·规模过大/决策链长
+  > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -143,4 +154,4 @@ updated: 2026-10-19
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

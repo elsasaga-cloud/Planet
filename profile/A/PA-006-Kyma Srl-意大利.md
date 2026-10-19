@@ -48,6 +48,9 @@ updated: 2026-10-19
 - **【公司自述】联系方式**
   > info@kyma.it · +39 0522 232208 · Via Masaccio 6 / Via Zacchetti 31, 42124 Reggio Emilia
   > 来源：https://www.kyma.it/contatti-2/（抓取 2026-10-19）
+- **【公司自述】W03 补证：自述直接进口并全国分销网络产品（PLANET 官方经销）**
+  > Kyma srl importa direttamente e distribuisce sul territorio nazionale prodotti di networking. … rivenditore autorizzato per il mercato italiano … info@kyma.it … Via Masaccio, 6, 42124 Reggio Emilia
+  > 来源：https://kyma.it/planet-technology-networking-communication/（抓取 2026-01-30）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -182,4 +185,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

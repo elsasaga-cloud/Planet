@@ -42,6 +42,9 @@ updated: 2026-10-19
 - **【公司自述】planet.pl 为 ACTION S.A. 运营，自称独家分销**
   > ACTION S.A. … wyłączny dystrybutor … pomoc.sieci@action.pl（检索摘要）
   > 来源：https://www.planet.pl/（抓取 2026-10-19）
+- **【公司自述】W03 补证：planet.pl 联系页与「Gdzie kupić」均指向 ACTION S.A.；历史公告自称 PLANET 波兰独家分销**
+  > Kontakt … ACTION S.A. Zamienie, ul. Dawidowska 10, 05-500 Piaseczno … Komunikat firmy ACTION S.A. - wyłącznego dystrybutora produktów PLANET Technology Corp. w Polsce
+  > 来源：https://planet.pl/kontakt（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -143,4 +146,4 @@ updated: 2026-10-19
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

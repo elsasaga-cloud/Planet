@@ -10,13 +10,17 @@
 |---|---|---|---|---|
 | PR-01 | 2026-10-19 | 读完 Mikrotik 两仓库规则；读上传价格表/背景；建仓库骨架、规则、价格三档表、PLANET→Saga 对照、方法论；**W01 第一批 15 户**（DE/IT/FR/ES/PL/UK/US） | **15**（A 3 / B 7 / C 5） | errors: 0 |
 | PR-02 | 2026-10-19 | 用户裁决落账（Versa=C、档位规则 OK、PDF 价差搁置、「往死里挖」）；**W02 第二批 +25 户**（UK/IE/DE/IT/CZ/HU/SE/NO/FR/PL/CA/US，web_search ≈60 次）+ 4 户既有档补具名 KP（Spectra/Neteon/Paragon/W3CAM）；Mikrotik 仓库 1032 行 grep 去重（命中 BSC=A-532、Jampel=C-031、100MEGA=A-499/C-173） | **40**（A 10 / B 22 / C 8） | errors: 0 |
+| PR-02 · W03 | 2026-10-19 | 用户「继续挖」→ **W03 第三批 +13 户**（HU/IT/NO/ES/FI/UK/PL/CA/FR/CZ，web_search ≈35 次）+ 7 户既有档补证（Direktronik 退信通道更正、Spectra/Exertis/Coel/Connect Data/Compass 补 Mikrotik 对照、BTS/ACTION/100MEGA/Kyma 补品牌站与进口证据）；Mikrotik grep 新增同户 6 组（Young=A-233、Coel=A-191、Connect Data=A-254、Direktronik=A-054、Spectra=C-026/C-149、Compass=C-028、Exertis Azenn=C-185）；W02 pending 9 项全部处置 | **53**（A 13 / B 30 / C 10） | errors: 0 |
 
 - 主表：`data/客户名单_Planet渠道_2026-10.csv`（26 列，前 22 列与 Mikrotik 仓库一致）
 - 档案：`profile/A|B|C/`，索引 `profile/00-索引.md`
 - 原始证据：`batch/2026-10-19_W01_*.json`
 - W01 A 类：**PA-001 4Power（IT，自有品牌 4Net）**、**PA-002 Cartronic Group（ES，具名 KP 直邮）**、**PA-003 RFOG POLAND（PL，业主直邮）**
-- W02 A 类：**PA-004 NSI Distribution（CA，安防批发 9 分部 + 自有品牌 Norelco，Norm Matinnia 直邮）**、**PA-005 Jampel（IT，PLANET 官方分销 + Moxa，PM Stefano Cinti 直邮·待核）**、**PA-006 Kyma（IT，30 年进口 PLANET + 已进口中国 3onedata，3 人家族企业业主直达）**、**PA-007 ALARM ABSOLON（CZ，1989 年起安防批发，销售 Tikovský 直邮）**、**PA-008 Aspectis（HU，IP 安防 VAD，总经理 Laczkó 直邮）**、**PA-009 Direktronik（SE，自有品牌分销商，steffo@ 直邮·角色待核）**、**PA-010 iOC Tech（CA，PLANET 授权分销 2–10 人，Director 具名）**
+- W02 A 类：**PA-004 NSI Distribution（CA，安防批发 9 分部 + 自有品牌 Norelco，Norm Matinnia 直邮）**、**PA-005 Jampel（IT，PLANET 官方分销 + Moxa，PM Stefano Cinti 直邮·待核）**、**PA-006 Kyma（IT，30 年进口 PLANET + 已进口中国 3onedata，3 人家族企业业主直达）**、**PA-007 ALARM ABSOLON（CZ，1989 年起安防批发，销售 Tikovský 直邮）**、**PA-008 Aspectis（HU，IP 安防 VAD，总经理 Laczkó 直邮）**、**PA-009 Direktronik（SE，自有品牌分销商；~~steffo@~~ 已退信 → W03 更正为 fredrik.brunzell@ 主通道，Mikrotik A-054）**、**PA-010 iOC Tech（CA，PLANET 授权分销 2–10 人，Director 具名）**
 - W02 原始证据：`batch/2026-10-19_W02_*.json`（29 条：25 新户 + 4 补证；skipped 15 组、pending 9 项、queries 14 组）
+- W03 A 类：**PA-011 Young B.T.S.（HU，PLANET 线产品经理 Pásztor András 直邮；Mikrotik A-233 缺邮箱——本仓补齐）**、**PA-012 SIR.tel.（IT，1991 年起 PLANET 授权分销、价目表季更，采购经理 Gioia Mantoan 具名 + sales@）**、**PA-013 Leteng（NO，AV/IT 分销，新任总经理 Øyvind Jacobsen 直邮 + 销售经理 Borgar 直邮；设中国采购岗；与 Direktronik 同属 Lagercrantz）**
+- W03 更正：**PA-009 Direktronik 的 steffo@ 在 Mikrotik 侧 2026-09-29 已退信** → 标「发不过去」保留，主通道改 **fredrik.brunzell@direktronik.se**（Softing 名录公开，经 Mikrotik A-054）
+- W03 原始证据：`batch/2026-10-19_W03_*.json`（20 条：13 新户 + 7 补证；skipped 17 组、pending 11 项、queries 13 组）
 
 ## 作战方案（用户问「看看如何搞」· 2026-10-19 版）
 
@@ -26,7 +30,9 @@
 4. **每批 10–20 户**：批次 JSON（证据原文 + URL + 日期 + skipped 原因）→ `add_batch.py` → `render.py` → `audit.py`（errors 0）→ README/总账/对话全记录 → push。
 5. **报价与型号**：Saga 卖价 = SmartByte CNY × (1.20/1.25/1.30) ÷ 汇率（6.69 @2026-10-17）；MD 写 Saga 型号，无对应时写 SmartByte 型号并注明。三档全表 `docs/reference/价格表_三档加价_USD.md`（135 型号；**9 个型号按今日汇率 +20% 已高于 Saga PDF 列表价**，建议刷新 PDF）。
 6. ~~**下一批（W02）计划**~~ **W02 已完成（2026-10-19）**：PLANET Germany GmbH 核为独立微型公司（B）；lwl-shop24 / WoodComm / planet.pl / ISTC 均已处置（B / B / C 巨头 / 跳过-区域外）；NL/BE/AT/CH 品牌页检索**无专业经销命中**（只剩泛电商与聚合站，已 skip）；M1 型号反查以自然语言多语种查询有效（`site:` + 型号为 0 结果），主要命中电商而非集成商；Spectra/Neteon 补到具名 KP。
-7. **下一批（W03）计划**：① 美国/加拿大安防与工业集成商（M3 分销商下游：Neteon / M/A Rugged / NSI / iOC 的「客户案例」页；M4 `"Planet" "IGS-" case study`）；② 法国/西班牙/葡萄牙二轮（Abix、accessoires-informatiques、Microsam-CA、Young B.T.S.-HU、CAPS-NL、Digitx-IT 等 pending 9 项逐个核）；③ 北欧 DK/FI 型号反查（丹麦语/芬兰语）；④ M7 白牌反查：以 PLANET 机型外观/固件特征搜欧美自有品牌（Lysora、Norelco、Direktronik、4Net 已是线索）；⑤ 为 W01/W02 的 B 类找具名 KP（FEN、Ballicom、ProVu、WoodComm）；⑥ 用 `fetch_page` 补齐 W02 标「检索摘要/待补证」的原文（Kyma、Absolon、Aspectis、BTS、NSI OEM 页）。
+7. ~~**下一批（W03）计划**~~ **W03 已完成（2026-10-19）**：pending 9 项全处置（Young→A、Microsam→B、Digitx→B、CAPS/Abix/Ropere-Suntech→skip 电商、planet-ca.com→信号源）；北欧 FI 命中 Microdata（B）、NO 命中 Leteng（A）、DK 仍无专业经销；M7 白牌（rebranded/baugleich）两种措辞均为噪音；美国集成商 M3/M4 两种措辞均无命中。原计划：① 美国/加拿大安防与工业集成商（M3 分销商下游：Neteon / M/A Rugged / NSI / iOC 的「客户案例」页；M4 `"Planet" "IGS-" case study`）；② 法国/西班牙/葡萄牙二轮（Abix、accessoires-informatiques、Microsam-CA、Young B.T.S.-HU、CAPS-NL、Digitx-IT 等 pending 9 项逐个核）；③ 北欧 DK/FI 型号反查（丹麦语/芬兰语）；④ M7 白牌反查：以 PLANET 机型外观/固件特征搜欧美自有品牌（Lysora、Norelco、Direktronik、4Net 已是线索）；⑤ 为 W01/W02 的 B 类找具名 KP（FEN、Ballicom、ProVu、WoodComm）；⑥ 用 `fetch_page` 补齐 W02 标「检索摘要/待补证」的原文（Kyma、Absolon、Aspectis、BTS、NSI OEM 页）。
+
+8. **下一批（W04）计划**：① **首触前硬化**：对 13 户 A 用 `fetch_page` 逐页核原文（W02/W03 标「检索摘要/待核」处：Young 联系页在职、SIR.tel 团队页、Leteng 总经理页、Jampel 旧站邮箱、Kyma/Absolon/Aspectis/BTS/NSI OEM 页），核毕才进入首触池；② **德国 Systemhaus 二轮**（M3：BTS NETWORK 自述客户群「Ingenieurbüros / Elektrogroßhandel / Systemhäuser」→ 搜其案例页；M10：Moxa/ORing 德国伙伴与 PLANET 重叠）；③ **美国**改走投标/规格书路径（`"Planet" "IGS-" bid tabulation` / IPVM、Reddit 口碑帖反查安装商）与 Neteon/M/A Rugged 案例页；④ **丹麦/荷兰/比利时** M3：Hikvision/UNV/Dahua 安装商名录 × PLANET；⑤ myTelecom（FR）、Tech Plaza（PT）、Coditek（ES）、cctv.net（US）、hypernet/satronel 区域核；⑥ 为 B 类补具名 KP（FEN、Ballicom、ProVu、WoodComm、Microdata、VERSIM）；⑦ 三仓并档：把本仓补到的邮箱（Young pasztor.andras@）回填 Mikrotik 侧需用户在 Mikrotik 仓库操作——本仓只记录。
 
 ## 目录
 

@@ -65,6 +65,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 |---|---|---|---|
 | 2026-10-19 14:31–15:05 | PR-01 | 合并 origin/main 上传件；克隆并通读 Mikrotik 仓库；读价格表/背景；建骨架与规则；pricing.py 生成三档表；W01 挖掘 15 户（web_search ×15、fetch_page ×12）；add_batch/render/audit | CSV 15 行，profile 15 份，audit errors 0 |
 | 2026-10-19 15:05–15:35 | PR-02 | T03 落账（对话全记录 / 总账 PR-02-01…04 / 报价规则档位固化 / PC-005 人工定级 C）；W02 挖掘（web_search ≈60 次，depth 1；Mikrotik 主表 1032 行 grep 去重）；批次 JSON 由 `/home/user/_scratch/build_w02.py`（仓库外 scratch）生成；add_batch（added=25 merged=4）/render（40）/audit；修 3 条 Mikrotik 证据 URL（本地路径 → GitHub blob URL） | CSV 40 行，profile 40 份，audit errors 0 |
+| 2026-10-19 15:28–15:46 | PR-02 · W03 | T04「继续挖」落账；W03 挖掘（web_search ≈35 次，depth 1；Mikrotik 主表 grep 含域名 token，新增同户 6 组）；批次 JSON 由 `/home/user/_scratch/build_w03.py` 生成；add_batch（added=13 merged=7）/render（53）/audit；**直接修补**：W01 JSON PB-001 mikrotik_ref、W02 JSON PA-009 contacts/rating_basis（steffo@ 标发不过去 + 新增 fredrik.brunzell@）、CSV PA-009 入口单元格（add_batch 对既有行只填空列，故手改）；README/总账/死路/方法论/对照 CSV 同步 | CSV 53 行，profile 53 份，audit errors 0 |
 
 ## 5. 已知坑（本仓库）
 

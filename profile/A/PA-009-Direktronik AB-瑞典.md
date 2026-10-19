@@ -3,6 +3,8 @@
 > **评级 A**　|　瑞典 · Nynäshamn　|　档案编号 `PA-009`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：分销商（网络/数据通信分销，1986 年起；自有品牌 Direktronik 产品线；Lagercrantz Group 子公司）　|　**PLANET 关联**：在售 PLANET IPOE-470-12V 等；官网大量「Direktronik」自有品牌网络产品（贴牌来源待核）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> ⚠️ **Mikrotik 仓库已有档案 A-054**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
 
 ```yaml structured_profile
 code: PA-009
@@ -13,7 +15,7 @@ planet_models: ["IPOE-470-12V"]
 p1: STI-488DGGPM
 price_tier: 20%
 stage: 00-未触达
-mikrotik_ref: none
+mikrotik_ref: A-054
 updated: 2026-10-19
 ```
 
@@ -23,7 +25,7 @@ updated: 2026-10-19
 - **为什么值得跟**：需求面：PLANET 工业 PoE 在售 + 自有品牌；触达：Stefan Sandström steffo@direktronik.se（allbiz.se 名录公开，在职/角色待核）、VD Henrik Ringstedt 具名（新闻稿，info@）；体量 25–28 人、SEK 140M，可赢；区域瑞典（二线；上市母公司 Lagercrantz，但子公司独立运营）
 - **P1（首触唯一主推）**：STI-488DGGPM — 其自有品牌与 PLANET 线均以工业 DIN 为主；8×GE PoE+ + 4 SFP 是最通用的贴牌候选；$147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For your own-brand line, is an 8-port PoE+ DIN switch with 4 SFP a gap you would fill, or is the 8+2 SFP size enough?
-- **最大未知**：自有品牌现有 ODM 供应商（很可能已是台/深厂）；steffo@ 角色
+- **最大未知**：自有品牌现有 ODM 供应商（很可能已是台/深厂）；Fredrik Brunzell 职务（名录未标）
 - **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +56,9 @@ updated: 2026-10-19
 - **【公司自述】VD Henrik Ringstedt（新闻稿署名）；Svenska kraftnät 框架协议**
   > Henrik Ringstedt Tel: +46 8 52 400 700 E-post: info@direktronik.se
   > 来源：https://www.direktronik.se/foretaget/direktronik-som-partner/direktronik-vinner-betydande-order-fran-forskning/（抓取 2026-10-19）
+- **【Mikrotik 仓库】W03 补证：Mikrotik 仓库 A-054 同户；steffo@ 已于 2026-09-29 退信（blocked），主通道改为 fredrik.brunzell@**
+  > A-054 Direktronik AB … Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）【主通道】；… Stefan Sandstrom - steffo@direktronik.se【已停用：2026-09-29 退信 blocked，由 fredrik.brunzell@ 替代】… Nexlan AS 为其旗下品牌
+  > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -67,7 +72,8 @@ updated: 2026-10-19
 
 ## 联系方式（已有/猜测分标）
 
-- **Stefan Sandström**（Företagskontakt（allbiz 名录口径，角色待核））：steffo@direktronik.se / +46 8 524 007 00 〔公开（第三方名录 allbiz.se；在职/角色待核）；源：https://www.allbiz.se/direktronik-ab-08-524-007-00〕
+- **Fredrik Brunzell**（（Softing 伙伴名录公开；Mikrotik 仓库 A-054 主通道））：fredrik.brunzell@direktronik.se / +46 8 52 400 700 〔公开（Softing 名录，经 Mikrotik 仓库 A-054 记录）【W03 补】；源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv〕
+- **Stefan Sandström**（Företagskontakt（allbiz 名录口径，角色待核））：steffo@direktronik.se / +46 8 524 007 00 〔发不过去（Mikrotik 仓库 A-054：2026-09-29 退信 blocked；按规则保留不删，改用 fredrik.brunzell@）；源：https://www.allbiz.se/direktronik-ab-08-524-007-00〕
 - **Henrik Ringstedt**（VD（总经理））：info@direktronik.se / +46 8 52 400 700 〔具名（新闻稿）；邮箱为公司通用 info@；源：https://www.direktronik.se/foretaget/direktronik-som-partner/direktronik-vinner-betydande-order-fran-forskning/〕
 - **—（总机）**（info）：info@direktronik.se / +46 8 52 400 700 〔公开（官网 kontakta-oss）；源：https://www.direktronik.se/foretaget/kontakta-oss/〕
 - **邮箱纪律**：只记公开找到的地址；未做 SMTP 验证（不可验），MX 状态：未查。
@@ -76,7 +82,8 @@ updated: 2026-10-19
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stefan Sandström | Företagskontakt（allbiz 名录口径，角色待核） | steffo@direktronik.se / +46 8 524 007 00 | 公开（第三方名录 allbiz.se；在职/角色待核） | https://www.allbiz.se/direktronik-ab-08-524-007-00 |
+| Fredrik Brunzell | （Softing 伙伴名录公开；Mikrotik 仓库 A-054 主通道） | fredrik.brunzell@direktronik.se / +46 8 52 400 700 | 公开（Softing 名录，经 Mikrotik 仓库 A-054 记录）【W03 补】 | https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv |
+| Stefan Sandström | Företagskontakt（allbiz 名录口径，角色待核） | steffo@direktronik.se / +46 8 524 007 00 | 发不过去（Mikrotik 仓库 A-054：2026-09-29 退信 blocked；按规则保留不删，改用 fredrik.brunzell@） | https://www.allbiz.se/direktronik-ab-08-524-007-00 |
 | Henrik Ringstedt | VD（总经理） | info@direktronik.se / +46 8 52 400 700 | 具名（新闻稿）；邮箱为公司通用 info@ | https://www.direktronik.se/foretaget/direktronik-som-partner/direktronik-vinner-betydande-order-fran-forskning/ |
 | —（总机） | info | info@direktronik.se / +46 8 52 400 700 | 公开（官网 kontakta-oss） | https://www.direktronik.se/foretaget/kontakta-oss/ |
 
@@ -159,7 +166,7 @@ updated: 2026-10-19
 **主题**：Own-label industrial 8-port PoE+ DIN switch, Marvell-based, ERPS <20 ms
 
 ```text
-Hi Stefan,
+Hi Fredrik,
 
 Direktronik already sells its own-brand industrial network gear alongside PLANET, so adding a Marvell-based DIN PoE switch under the Direktronik label is a short step.
 
@@ -190,4 +197,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-19*

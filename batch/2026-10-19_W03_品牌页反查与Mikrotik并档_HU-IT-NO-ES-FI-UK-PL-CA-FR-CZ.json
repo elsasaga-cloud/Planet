@@ -1,0 +1,1804 @@
+{
+ "batch": "2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ",
+ "date": "2026-10-19",
+ "method": [
+  "M2 品牌页反查（PT/ES/GR/SK/IT/FR/DE/AT/CH/BE/NL/IE/NO/FI/DK/PL/CZ/CA/US）",
+  "M1 型号反查（芬兰语/挪威语/斯洛伐克语/法语）",
+  "M3 下游反查（planet-ca.com → Microsam；connectdata.fr）",
+  "M7 贴牌线索（rebranded/baugleich 两种措辞，均噪音）",
+  "M9 名录核名（proff.no / kompass / reportaziende / einforma / pitchbook / edb.cz）",
+  "Mikrotik 仓库 grep（只读；本轮新增 6 处同户：A-233 / A-191 / A-254 / A-054 / C-026+C-149 / C-028 / C-185）",
+  "W02 pending 项清理（Young / Microsam / Digitx / CAPS / Abix / Ropere-Softcom-Suntech / hypernet）"
+ ],
+ "tools": "web_search depth 1（约 35 次）；fetch_page 未用于本批（页面以检索摘要为证，标注「检索摘要」处需 fetch 核对后再首触）",
+ "queries": [
+  "Microsam Montreal Planet / Young B.T.S. Kft Planet / Pásztor András young.hu",
+  "Planet PoE forhandler Danmark / jälleenmyyjä Suomi / forhandler Norge（北欧三国型号反查）",
+  "Planet distribuidor Portugal / instalador integrador España / διανομέας Ελλάδα / distribútor Slovensko",
+  "Anatronic Planet contacto / Coel Distribution contatti / SIR.tel contatti + team / Compass Distribution dipendenti",
+  "Systemhaus \"PLANET Technology\" Partner GmbH（DE 第二轮）/ Händler Österreich Schweiz（AT/CH）/ invoerder België / installateur Nederland",
+  "\"Planet Technology\" distributore ufficiale Italia -jampel -4power -kyma -coel -sistel / distributeur officiel France -w3cam -netwalker -exertis -abix",
+  "Azenn Connect effectif / Abix effectif / CAPS Nederland / Digitx Italia / Ropere OR Softcom OR Suntech",
+  "Microdata Finland yhteystiedot / Cable Management Supplies cmsplc contact / Leteng AS kontakt + Borgar/Øyvind / VERSIM Planet / planet.pl kontakt / Kenex kontakt",
+  "pro-vad.com location（埃及，区域外）/ avyannatech.com location（印度，区域外）",
+  "PLANET GS-4210 OR IGS-4215 UK comms-express OR linitx OR solwise OR broadbandbuyer OR 4gon OR nimans（无新命中）",
+  "\"rebranded\" OR \"OEM\" \"Planet Technology\" switch identical ALLNET OR LevelOne …（噪音）/ \"baugleich\" PLANET Switch（噪音）",
+  "PLANET switch \"case study\" USA integrator（无命中）/ \"authorized\" \"Planet Technology\" dealer USA（噪音）/ Canada distributor -globall -ioctech -nsi -jlinks（无新命中）",
+  "Connect Data Sintel contact / mytelecom.fr contact"
+ ],
+ "customers": [
+  {
+   "_code": "PA-011",
+   "name": "Young B.T.S. Informatikai és Kereskedelmi Kft.",
+   "country": "匈牙利",
+   "city": "Budapest",
+   "website": "young.hu",
+   "type": "集成商/代理（结构化布线、电话系统、机柜、安防摄像/门禁、有源网络；约 20 个品牌；1996 年成立）",
+   "signal": "PLANET 产品经理具名直邮（官网联系页在列）；官网 PLANET 新闻页「KKV 用 PLANET switch 现货」；在售 GS-4210-24P4C；2018 年 securifocus 报道「Forgalmazó: Young B.T.S. Kft Gyártó: Planet Technology Corp.」（UNV 摄像机 + PLANET PoE 组合）",
+   "own_brand": "否",
+   "angle": "Mikrotik 仓库 A-233（人工定级 A）但当时「抓不到邮箱」——本轮找到 PLANET 线产品经理 Pásztor András 直邮，正好补上 Mikrotik 侧缺口；其 UNV/Hikvision 摄像机业务天然带 PoE 交换机用量",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "对位其在售 GS-4210-24P4C（24×GE PoE+ + 4 Combo，官网产品 P10095）；摄像机项目最走量尺寸",
+   "tier": 0.2,
+   "tier_reason": "代理/经销走量 → 20%；项目型报价可按 25%",
+   "priority": "★★★",
+   "rating": "A",
+   "rating_basis": "需求面：PLANET 线产品经理专职 + UNV/Hikvision 摄像机业务 + GS-4210-24P4C 在售；触达：Pásztor András（termékmenedzser，PLANET/Excel/Canovate 线）pasztor.andras@young.hu 官网联系页公开；体量：1996 年成立、约 20 品牌的中小代理，可赢；区域匈牙利（二线）",
+   "source": "M2 品牌页反查（W02 pending 项「Young B.T.S.」核实）+ Mikrotik 仓库 grep（A-233）",
+   "planet_models": [
+    "GS-4210-24P4C",
+    "PLANET PoE 系列（managed/unmanaged、室内/室外、PoE 注入器）"
+   ],
+   "model_map": {
+    "GS-4210-24P4C": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo，280W"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Pásztor András",
+     "role": "termékmenedzser（产品经理：有源/无源网络组件、机柜、PLANET、Excel、Canovate；兼 UNV/Hikvision/2N 门禁线）",
+     "email": "pasztor.andras@young.hu",
+     "phone": "+36 (1) 452 2646",
+     "status": "公开（官网 /rolunk/elerhetosegeink 联系页 + 多篇官网新闻）",
+     "source": "https://www.young.hu/rolunk/elerhetosegeink"
+    },
+    {
+     "name": "Nagy Lajos",
+     "role": "UNV termékmenedzser（摄像机线产品经理）",
+     "email": "nagy.lajos@young.hu",
+     "phone": "+36 (1) 452 2647",
+     "status": "公开（securifocus 2018 报道转述，在职待核）",
+     "source": "https://www.securifocus.com/hir/2018/10/3/planet-poe-megoldasok"
+    },
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "young@young.hu",
+     "phone": "+36 1 452 2600",
+     "status": "公开（官网 kapcsolat 页）",
+     "source": "https://www.young.hu/kapcsolat"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "PLANET 线产品经理具名直邮（当前联系页）",
+     "quote": "Pásztor András termékmenedzser pasztor.andras@young.hu Tel.: +36 (1) 452 2646 Aktív és passzív hálózati komponensek, rack szekrények, Planet, Excel, Canovate termékek.（检索摘要）",
+     "url": "https://www.young.hu/rolunk/elerhetosegeink",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "官网新闻：PLANET switch 现货供 KKV，指引联系 Pásztor András",
+     "quote": "Kiváló ár/érték arányú PLANET switchek kis- és középvállalkozásoknak - jelenleg raktárról … keressék bátran kereskedőnket: Pásztor András termékmenedzser pasztor.andras@young.hu（检索摘要）",
+     "url": "https://www.young.hu/hirek-aktualitasok/kivalo-ar-ertek-aranyu-planet-switchek-kis-es-kozepvallalkozasoknak-jelenleg-raktarrol/674",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "2018 年 PLANET PoE 方案报道：Young B.T.S. 为 forgalmazó（经销）",
+     "quote": "Forgalmazó: Young B.T.S. Kft Gyártó: Planet Technology Corp. … Pásztor András PLANET termékmenedzser pasztor.andras@young.hu +36 (1) 452 2646",
+     "url": "https://www.securifocus.com/hir/2018/10/3/planet-poe-megoldasok",
+     "date": "2018-10-03"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "GS-4210-24P4C 在售",
+     "quote": "young.hu 产品页 P10095 = Planet GS-4210-24P4C（检索摘要）",
+     "url": "https://www.young.hu/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "工商",
+     "claim": "法人与成立年份",
+     "quote": "YOUNG B.T.S. Informatikai és Kereskedelmi Kft. … 01-09-367760 … 1996（companywall.hu 检索摘要）",
+     "url": "https://www.companywall.hu/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-233 同户：人工定级 A，但 Mikrotik 侧无邮箱（info@young.hu 待核）",
+     "quote": "A-233 Young B.T.S. Ltd. 匈牙利 集成商/代理（Allied Telesis）… 当前抓不到邮箱 … 请补邮箱后再进入群发名单",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "facts": {
+    "法人": "YOUNG B.T.S. Informatikai és Kereskedelmi Kft.",
+    "成立": "1996",
+    "地址": "1037 Budapest, Bojtár u. 80. B1（kapcsolat 页）"
+   },
+   "who": "布达佩斯的布线+弱电+安防代理商，PLANET 是其有源网络线的主打品牌，有专职产品经理；摄像机（UNV/Hikvision）项目直接带 PoE 交换机",
+   "hook": "Your PLANET line sits next to UNV and Hikvision camera projects, so a lower-cost 24-port PoE+ second source could lift margin on exactly the installs you already quote.",
+   "first_question": "On a typical camera project, do you deploy the GS-4210-24P4C class most, or do 8/16-port PoE units move faster for you?",
+   "subject": "Second-source 24-port PoE+ switch next to your GS-4210 line",
+   "biggest_unknown": "PLANET 在其营收中占比（忠诚度）；是否已有第二 PoE 货源；Nagy Lajos 是否在职",
+   "needs": "24/16/8 口 PoE 商用（摄像机）、CE/RoHS、匈语/英语支持；门禁/2N 线属生命安全类——只谈网络交换机",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "GS-4210-24P4C 同位 L2+ 管理，PoE 看门狗对摄像机掉线友好",
+     "question": "On a typical camera project, do you deploy the GS-4210-24P4C class most, or do 8/16-port PoE units move faster for you?",
+     "action": "无附件；一句话带过 ERPS/IGMP/PoE 看门狗/CLI-SNMP"
+    },
+    {
+     "title": "样机到 Budapest",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "30 天并行测试，不要求承诺；兼容其在用 SFP",
+     "question": "Which site or customer could take one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "贴牌/批量条件",
+     "push": "STC-28DGGPM（8 口 PoE + 2 SFP 小型点位）+ 贴牌方案",
+     "angle": "中性包装、客户型号、固件 UI 定制；MOQ/付款/EXW 运费路径",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "贴牌流程 1 页；报价前核价"
+    }
+   ],
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE+2 SFP 小型摄像机点位",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "室外机柜/工业 DIN 导轨 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 线 PM 直邮；摄像机业务 PoE 用量稳定；Mikrotik 侧已判 A",
+    "W": "PLANET 专职 PM 意味着品牌绑定深；匈牙利价格敏感",
+    "O": "Mikrotik 侧缺邮箱——本仓补齐后两仓可共用一次首触",
+    "T": "Senetic/EET 等泛欧分销价格压制"
+   },
+   "unknowns": [
+    "PLANET 占比",
+    "是否已有第二 PoE 货源",
+    "年 PoE 台数",
+    "Nagy Lajos 在职"
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "门禁/2N/考勤为生命安全类，不碰；只谈摄像机与办公网络用 PoE 交换机",
+   "mikrotik_ref": "A-233",
+   "notes": "Mikrotik 仓库 A-233 同户（人工定级 A，Mikrotik 侧缺邮箱）。本仓补到 PLANET 线 PM 直邮 → 建议回填 Mikrotik 侧；首触只发一次，由用户决定从哪个仓发，避免重复打扰。"
+  },
+  {
+   "_code": "PA-012",
+   "name": "SIR.tel. S.r.l.",
+   "country": "意大利",
+   "city": "Nogara (VR)",
+   "website": "sirtel.it",
+   "type": "分销商（1991 年起；视频监控/门禁/电信产品分销，服务公共机构、企业与工业客户；PLANET 授权分销）",
+   "signal": "官网 partner 页列 PLANET；2026-01 发布「Aggiornamento Listino PLANET Q1 gennaio 2026」（PLANET 价目表季度更新 → 现役分销）；2012 起即自称「distributore autorizzato di Planet Networking」",
+   "own_brand": "否",
+   "angle": "每季更新 PLANET 价目表的活跃分销，团队页具名采购经理（Purchase & Marketing Manager）——采购决策人明确；营收 €6.7M（2023）体量可赢",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "监控/门禁分销最走量的 24×GE PoE+（对位 GS-4210-24P4C/GSW-2620HP）",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★★",
+   "rating": "A",
+   "rating_basis": "需求面：PLANET 授权分销且价目表季更（2026-01）、监控/门禁渠道；触达：采购经理 Gioia Mantoan 具名（团队页），销售通道 sales@sirtel.it 公开——以「Attn: Gioia Mantoan」经 sales@ 首触；体量：€6.67M（2023）、35 年老分销，可赢；区域意大利（一线）",
+   "source": "M2 品牌页反查（意大利「distributore ufficiale」第三轮检索）",
+   "planet_models": [
+    "PLANET 全线（listino PLANET Q1 2026）",
+    "IGS-8044MT（2012 新闻）"
+   ],
+   "model_map": {
+    "GS-4210-24P4C": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo，280W"
+    },
+    "IGS-8044MT": {
+     "saga": "STI-288DGGPM",
+     "note": "PLANET 为 4GE+4 Combo 工业管理型；Saga 以 8 口 PoE+2 SFP 工业 L2+ 覆盖（端口形态不同，注明）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Gioia Mantoan",
+     "role": "Purchase & Marketing Manager（采购与市场经理）",
+     "email": "",
+     "phone": "+39 0442 510467",
+     "status": "具名无公开直邮（不猜）；经 sales@ 并注明 Attn",
+     "source": "http://sirtel.it/team/"
+    },
+    {
+     "name": "Michele Bottacini",
+     "role": "Technical Product Manager",
+     "email": "",
+     "phone": "+39 0442 510467",
+     "status": "具名无公开直邮（不猜）",
+     "source": "http://sirtel.it/team/"
+    },
+    {
+     "name": "Leonardo Lorenzetto",
+     "role": "Sales & Marketing Director",
+     "email": "",
+     "phone": "+39 0442 510467",
+     "status": "具名无公开直邮（不猜）",
+     "source": "http://sirtel.it/team/"
+    },
+    {
+     "name": "Elisa Zambelli",
+     "role": "CEO",
+     "email": "",
+     "phone": "+39 0442 510467",
+     "status": "具名无公开直邮（不猜）",
+     "source": "http://sirtel.it/team/"
+    },
+    {
+     "name": "—（销售）",
+     "role": "Area Commerciale",
+     "email": "sales@sirtel.it",
+     "phone": "+39 0442 510467",
+     "status": "公开（官网 contatti 页）",
+     "source": "https://sirtel.it/contatti/"
+    },
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@sirtel.it",
+     "phone": "+39 0442 510467",
+     "status": "公开（官网）",
+     "source": "https://sirtel.it/contatti/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "PLANET 价目表 2026 Q1 更新（现役分销）",
+     "quote": "Aggiornamento Listino PLANET Q1 gennaio 2026 … è disponibile il nuovo listino … Per maggiori informazioni scrivi a sales@sirtel.it",
+     "url": "https://sirtel.it/notizie/aggiornamento-listino-planet-q1-gennaio-2026/",
+     "date": "2026-01-21"
+    },
+    {
+     "level": "公司自述",
+     "claim": "PLANET 伙伴页 + 联系方式",
+     "quote": "Connessioni Globali: Planet … +39 0442 510467 info@sirtel.it Via Molino di Sopra, 55/A – 37054 NOGARA (VR)",
+     "url": "https://sirtel.it/partner/planet/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "团队具名：CEO / 采购经理 / 技术产品经理 / 销售总监",
+     "quote": "CEO Elisa Zambelli · Purchase & Marketing Manager Gioia Mantoan · … Sales & marketing Director Leonardo Lorenzetto · … Michele Bottacini Technical Product Manager",
+     "url": "http://sirtel.it/team/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "客户群与业务：1991 年起，监控/门禁/电信产品分销",
+     "quote": "Dal 1991, SIR.tel. è il partner di fiducia per enti pubblici, aziende private e realtà industriali … sistemi avanzati di videosorveglianza, controllo accessi e telecomunicazioni",
+     "url": "https://sirtel.it/partner/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "2012 年即为 PLANET 授权分销",
+     "quote": "SIR.tel. è distributore autorizzato di Planet Networking … nuovo switch industriale Planet IGS-8044MT",
+     "url": "http://www.sirtel.it/index.php/blog-mainmenu-9/155-novita-in-casa-planet-networking?lang=it",
+     "date": "2012-03-26"
+    },
+    {
+     "level": "工商",
+     "claim": "营收与成立",
+     "quote": "ATECO 46.50.20 … Data inizio attività: 14 Maggio 1991 … Fatturato 2023: € 6.665.798",
+     "url": "https://www.reportaziende.it/sirtel_srl_vr",
+     "date": "2026-10-19"
+    }
+   ],
+   "facts": {
+    "法人": "SIR.tel. S.r.l.（P.IVA 02565900236）",
+    "成立": "1991",
+    "营收": "€6.67M（2023）"
+   },
+   "who": "维罗纳省的安防/电信分销商，PLANET 是其网络线主力并按季更新价目表；客户是安防安装商与公共/工业项目",
+   "hook": "Since you refresh a PLANET price list every quarter for your installers, a second-source 24-port PoE+ at a lower landed cost gives you room on the projects where PLANET is being price-checked.",
+   "first_question": "Which PLANET PoE size do your installers pull most often from the listino: 8-port, 16-port or 24-port?",
+   "subject": "Attn Gioia Mantoan – second-source 24-port PoE+ switch next to your PLANET listino",
+   "biggest_unknown": "PLANET 占比与独家条款；是否已有大陆第二货源；sales@ 是否转到采购",
+   "needs": "24/16/8 口 PoE 商用（监控）、工业 DIN PoE、CE/RoHS、意语/英语技术支持",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "对位 GS-4210-24P4C；L2+ 管理 + PoE 看门狗",
+     "question": "Which PLANET PoE size do your installers pull most often from the listino: 8-port, 16-port or 24-port?",
+     "action": "无附件；一句话带过 ERPS/IGMP/PoE 看门狗/CLI-SNMP"
+    },
+    {
+     "title": "样机到 Nogara",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "30 天并行测试，不要求承诺；兼容其在用 SFP",
+     "question": "Which site or customer could take one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "贴牌/批量条件",
+     "push": "STI-288DGGPM（工业 DIN 8 口 PoE）+ 贴牌方案",
+     "angle": "中性包装、客户型号、固件 UI 定制；MOQ/付款/EXW 运费路径",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "贴牌流程 1 页；报价前核价"
+    }
+   ],
+   "alts": [
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 DIN 8 口 PoE+2 SFP（对位其工业线）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 小点位",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "swot": {
+    "S": "活跃 PLANET 分销；采购经理具名；体量适中",
+    "W": "无具名直邮，首触经 sales@",
+    "O": "门禁/监控项目对价格敏感，第二货源有空间",
+    "T": "Jampel/4Power/Kyma 等多家意大利 PLANET 分销竞争"
+   },
+   "unknowns": [
+    "PLANET 占比",
+    "是否已有第二货源",
+    "sales@ 路由"
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "门禁为生命安全类，不碰；只谈监控与办公网络 PoE 交换机；公共机构项目只做民用场景",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep：sirtel / sir.tel 无命中）。A 的成立条件是「具名采购经理 + 公开销售邮箱」，直邮未公开——若用户要求 A 必须具名直邮，可人工降 B。"
+  },
+  {
+   "_code": "PA-013",
+   "name": "Leteng AS",
+   "country": "挪威",
+   "city": "Oslo",
+   "website": "leteng.no",
+   "type": "分销商（AV/IT 增值分销，1984 年起；服务挪威系统集成商、安装公司与专业经销商；Lagercrantz 集团成员）",
+   "signal": "官网 produsenter（厂商）页列 PLANET；在售 ISW-504PT（NOK 2 544）；PLANET 为其网络线",
+   "own_brand": "否（但 RocketReach 名录显示设有「Procurement and Sourcing Representative, China」岗位——已直接从中国采购）",
+   "angle": "AV/IT 分销商自带中国采购岗，PLANET 为其网络线；新任总经理 Øyvind Jacobsen（原产品与市场经理）直邮公开——产品决策人即一把手",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "AV/会议室/数字标牌安装最走量的 24×GE PoE+；其 PLANET 在售以 PoE 为主",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★★",
+   "rating": "A",
+   "rating_basis": "需求面：PLANET 厂商页 + PoE 在售 + AV 安装渠道 PoE 用量；触达：Øyvind Jacobsen（Daglig leder，2026 起；原 Produkt og markedssjef）oyvind@leteng.no 公开（lyskultur.no 会员页 / EFObasen）、销售经理 Borgar Kristiansen borgar@leteng.no（HighSecLabs where-to-buy 页）；体量：21 人、2026 税前利润 NOK 14.4M，可赢；区域挪威（二线）",
+   "source": "M2 品牌页反查（挪威「forhandler」检索）+ M9 名录核名（proff.no / kompass / avixa）",
+   "planet_models": [
+    "ISW-504PT",
+    "PLANET 网络线（厂商页）"
+   ],
+   "model_map": {
+    "ISW-504PT": {
+     "saga": "STI-088GP",
+     "note": "PLANET 为 5 口 FE 工业 PoE（4 PoE）；Saga 无 FE 工业 PoE，以 8 口 GE 工业 PoE 非管理 STI-088GP 覆盖（Saga 暂无对应型号，沿用 SmartByte 型号 STI-088GP）"
+    },
+    "GS-4210-24P4C": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Øyvind Jacobsen",
+     "role": "Daglig leder（总经理，2026 起）；此前 Produkt og markedssjef（产品与市场经理）",
+     "email": "oyvind@leteng.no",
+     "phone": "+47 950 00 314",
+     "status": "公开（lyskultur.no 会员页 2026-06；EFObasen 公司页）",
+     "source": "https://lyskultur.no/nytt-fra-medlemmer/leteng-satser-pa-lysstyring-med-ny-vanpee-avdeling"
+    },
+    {
+     "name": "Borgar Kristiansen",
+     "role": "Salgssjef（销售经理）",
+     "email": "borgar@leteng.no",
+     "phone": "+47 62 48 24 50",
+     "status": "公开（HighSecLabs where-to-buy 页）",
+     "source": "https://highseclabs.com/where2buy/leteng/"
+    },
+    {
+     "name": "Knut Flyen",
+     "role": "Produktledelse（产品管理，kompass 口径）",
+     "email": "",
+     "phone": "+47 62 48 24 50",
+     "status": "具名无公开直邮（不猜）",
+     "source": "https://no.kompass.com/c/leteng-as/no040399/"
+    },
+    {
+     "name": "—（总机）",
+     "role": "post",
+     "email": "post@leteng.no",
+     "phone": "+47 62 48 24 50",
+     "status": "公开（官网/Facebook）",
+     "source": "https://www.facebook.com/leteng.as/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 厂商页",
+     "quote": "PLANET Technology - IP Nettverksløsninger for bedrifter … PLANET TECHNOLOGY er en ledende og prisvinnende leverandør av IP-baserte nettverksprodukter",
+     "url": "https://www.leteng.no/produsenter1/planet",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "ISW-504PT 在售",
+     "quote": "Planet Switch 5-p 10/100TX 4xPoE Layer2 Industri IP30 DIN RPS B60W … Varenr: ISW-504PT 2 544,00 Bestillingsvare (10 dager)",
+     "url": "https://www.leteng.no/planet-technology-corp/isw-504pt/planet-switch-5-p-10-100tx-4xpoe-layer2-industri-ip30-din-rps-b60w",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "工商",
+     "claim": "规模与管理层",
+     "quote": "Org nr 952 002 872 … Antall ansatte 21 … Daglig leder Odd Martinsen … Resultat før skatt 2026 14 446' NOK（proff.no 检索摘要）",
+     "url": "https://www.proff.no/selskap/leteng-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFQSQ4810MZ",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "总经理交接：Øyvind Jacobsen 接任（2026-03 报道）",
+     "quote": "Nå tar Øyvind over: evolusjon, ikke revolusjon … Odd Martinsen og Øyvind Jacobsen i gangen hos Leteng i februar 2026",
+     "url": "https://proav.no/na-tar-oyvind-over-evolusjon-ikke-revolusjon/",
+     "date": "2026-03-02"
+    },
+    {
+     "level": "第三方",
+     "claim": "总经理直邮公开",
+     "quote": "Øyvind Jacobsen Daglig leder Leteng AS Telefon: 950 00 314 E-post: oyvind@leteng.no",
+     "url": "https://lyskultur.no/nytt-fra-medlemmer/leteng-satser-pa-lysstyring-med-ny-vanpee-avdeling",
+     "date": "2026-06-15"
+    },
+    {
+     "level": "第三方",
+     "claim": "销售经理直邮公开",
+     "quote": "Leteng AS (Distributer) Contact Person: Borgar Kristiansen E-mail: borgar@leteng.no Tel: +47 62 48 24 50",
+     "url": "https://highseclabs.com/where2buy/leteng/",
+     "date": "2025-12-18"
+    },
+    {
+     "level": "第三方",
+     "claim": "客户群与集团归属",
+     "quote": "Leteng supplies system integrators, installation companies and specialised dealers throughout Norway. Leteng AS is part of the Swedish Lagercrantz Group.",
+     "url": "https://www.adamhall.com/en/blog/leteng-as-as-official-wholesale-partner-for-norway",
+     "date": "2025-04-25"
+    },
+    {
+     "level": "第三方",
+     "claim": "设有中国采购岗（名录口径，待核）",
+     "quote": "Derek Wang (Procurement and Sourcing Representative, China)（RocketReach 管理层列表，检索摘要）",
+     "url": "https://rocketreach.co/leteng-as-management_b5c42d09f42e0de2",
+     "date": "2026-10-19"
+    }
+   ],
+   "facts": {
+    "法人": "Leteng AS（Org nr 952 002 872）",
+    "成立": "1984（注册 1995）",
+    "员工": "21（proff.no）",
+    "集团": "Lagercrantz Group（与 PA-009 Direktronik 同集团）"
+   },
+   "who": "奥斯陆的 AV+IT 分销商，给全挪威的集成商/安装商供线缆、网络与信号分配设备；PLANET 是其交换机线；已有中国采购代表",
+   "hook": "You already source in China and carry PLANET as your switch line, so a direct PoE+ second source with neutral packing fits how Leteng buys today.",
+   "first_question": "For your AV and installer customers, is the 24-port PoE+ the size that moves, or do 8-port PoE units for meeting rooms sell more?",
+   "subject": "Direct second-source PoE+ switches for Leteng's installer base",
+   "biggest_unknown": "中国采购岗是否覆盖网络产品；PLANET 占比；集团（Lagercrantz）是否统一采购",
+   "needs": "8/24 口 PoE 商用（AV、会议室、数字标牌）、CE/RoHS、英语支持；北欧对包装/文档要求高",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "对位 GS-4210-24P4C；AV 场景 IGMP/QoS",
+     "question": "For your AV and installer customers, is the 24-port PoE+ the size that moves, or do 8-port PoE units for meeting rooms sell more?",
+     "action": "无附件；一句话带过 ERPS/IGMP/PoE 看门狗/CLI-SNMP"
+    },
+    {
+     "title": "样机到 Oslo",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "30 天并行测试，不要求承诺；兼容其在用 SFP",
+     "question": "Which site or customer could take one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "贴牌/批量条件",
+     "push": "STC-28DGGPM（8 口 PoE 会议室/教室）+ 贴牌方案",
+     "angle": "中性包装、客户型号、固件 UI 定制；MOQ/付款/EXW 运费路径",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "贴牌流程 1 页；报价前核价"
+    }
+   ],
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE+2 SFP 会议室/教室",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-088GP",
+     "scene": "工业 8 口 PoE 非管理（对位 ISW-504PT）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "swot": {
+    "S": "总经理直邮；已有中国采购；AV 渠道 PoE 用量稳定",
+    "W": "AV 为主、网络为辅；集团采购可能集中",
+    "O": "与 Direktronik（PA-009）同集团——一处成功可横向",
+    "T": "北欧对认证/文档要求高；EET/Proshop 价格压制"
+   },
+   "unknowns": [
+    "中国采购岗范围",
+    "PLANET 占比",
+    "集团采购模式"
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "只谈 AV/办公/工业网络交换机；不碰其照明控制/安防门禁线",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep）。与 PA-009 Direktronik AB 同属 Lagercrantz 集团——两户首触节奏错开，避免集团内同时收到相同邮件。"
+  },
+  {
+   "_code": "PB-023",
+   "name": "Anatronic S.A.",
+   "country": "西班牙",
+   "city": "Madrid（分部 Barcelona / Bilbao / Portugal）",
+   "website": "anatronic.com",
+   "type": "分销/代理（1982 年起；电子元器件、工业计算机与通信产品在西班牙/葡萄牙的厂商代表；PLANET 在西/葡的代表）",
+   "signal": "官网 PLANET 品牌页 + 「Redes Industriales」页列 PLANET 全线；2017–2022 多篇行业媒体称「Planet Technology, empresa representada en España y Portugal por Anatronic」",
+   "own_brand": "否",
+   "angle": "PLANET 的伊比利亚官方代表——忠诚度高但同时是「厂商代表制」公司：若 PLANET 某档缺货/涨价，代表制公司习惯并行引入第二品牌；11–50 人决策链短",
+   "p1": "STI-288DGGPM",
+   "p1_reason": "其 PLANET 宣传以工业线为主（IGS-504PT / IGS-10020HPT / ISW-800T 新闻稿）→ 工业 DIN 8 口 PoE 最对位",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 西/葡代表，工业线为主；触达：仅 comercial@anatronic.com 公开，管理层/PM 具名仅见第三方名录（Brian Pater Director Gerente、Juan de la Mora KAM & Product Manager，无直邮）；体量 11–50 人可赢；代表制绑定 PLANET → 第二货源意愿存疑，B",
+   "source": "M2 品牌页反查（葡萄牙/西班牙检索命中 redeweb / casadomo 新闻）+ 官网核",
+   "planet_models": [
+    "IGS-504PT",
+    "IGS-10020HPT",
+    "ISW-800T",
+    "NMS-360V",
+    "WDAP-C1800AX"
+   ],
+   "model_map": {
+    "IGS-10020HPT": {
+     "saga": "STI-288DGGPM",
+     "note": "8×GE PoE+ + 2 SFP 工业 L2+"
+    },
+    "IGS-504PT": {
+     "saga": "STI-088GP",
+     "note": "PLANET 为 4 PoE+1 上联紧凑工业；Saga 以 8 口工业 PoE 非管理覆盖（Saga 暂无对应型号，沿用 SmartByte 型号 STI-088GP）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（商务）",
+     "role": "comercial",
+     "email": "comercial@anatronic.com",
+     "phone": "+34 91 366 01 59",
+     "status": "公开（官网首页/联系页）",
+     "source": "https://anatronic.com/"
+    },
+    {
+     "name": "Brian Pater",
+     "role": "Director Gerente（名录口径）",
+     "email": "",
+     "phone": "+34 91 366 01 59",
+     "status": "具名无公开直邮（不猜）",
+     "source": "https://rocketreach.co/anatronic-sa-profile_b5cf2461f42e09d2"
+    },
+    {
+     "name": "Juan de la Mora",
+     "role": "KAM and Product Manager（名录口径，线别待核）",
+     "email": "",
+     "phone": "",
+     "status": "具名无公开直邮（不猜）",
+     "source": "https://rocketreach.co/anatronic-sa-profile_b5cf2461f42e09d2"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "PLANET 品牌页",
+     "quote": "Planet - Anatronic S.A … PLANET Technology Corporation es un proveedor global líder … comercial@anatronic.com",
+     "url": "https://anatronic.com/planet/",
+     "date": "2025-02-21"
+    },
+    {
+     "level": "公司自述",
+     "claim": "工业网络页列 PLANET 全线",
+     "quote": "Anatronic representa en España y Portugal fabricantes multinacionales … Planet Technology www.planet.com.tw - Switches LAN - Power over Ethernet (PoE) - Ethernet Industrial",
+     "url": "https://anatronic.com/redes-industriales/",
+     "date": "2025-04-30"
+    },
+    {
+     "level": "第三方",
+     "claim": "行业媒体：PLANET 西/葡代表",
+     "quote": "the new solid industrial switch IGS-504PT … from Planet Technology, a company represented in Spain and Portugal by Anatronic, SA",
+     "url": "https://www.redeweb.com/en/actualidad/switch-industrial-compacto/",
+     "date": "2021-06-18"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模与成立",
+     "quote": "Company size: 11-50 employees · Headquarters: Madrid · Founded: 1982（LinkedIn 摘要）；einforma：empleados 11 (2026)",
+     "url": "https://www.einforma.com/informacion-empresa/anatronic",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "法人与分部",
+     "quote": "ANATRONIC S.A. NIF A28777126 … Madrid +34 91 366 01 59 Barcelona +34 93 224 02 83 Bilbao +34 94 463 60 66 Portugal (+351) 219 376 267",
+     "url": "https://anatronic.com/empresa/",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "马德里的元器件/工控/通信产品厂商代表，PLANET 在西班牙和葡萄牙的官方代表，宣传以工业交换机为主",
+   "hook": "You present PLANET's industrial switches to Iberian integrators; a DIN-rail PoE+ second source at a lower tier lets you keep the project when PLANET pricing is challenged.",
+   "first_question": "Which PLANET industrial PoE model do Spanish integrators ask you for most often: the 4-port IGS-504PT class or the 8-port IGS-10020HPT class?",
+   "subject": "DIN-rail PoE+ second source for your Iberian industrial customers",
+   "biggest_unknown": "代表协议是否排他；Juan de la Mora 是否负责 PLANET 线",
+   "alts": [
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "商用 24 口 PoE 项目",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-080GE",
+     "scene": "工业 8 口非 PoE（对位 ISW-800T 升级）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "Anatronic 客户含国防/铁路电子——只谈民用工业/楼宇场景",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep）。同为 PLANET 伊比利亚入口：PA-002 Cartronic（W01）。"
+  },
+  {
+   "_code": "PB-024",
+   "name": "Coel Distribution srl",
+   "country": "意大利",
+   "city": "Muggiò (MB)",
+   "website": "coeldistribution.it",
+   "type": "分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）",
+   "signal": "官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking",
+   "own_brand": "否",
+   "angle": "Mikrotik 仓库 A-191（人工 A，info@）同户——本仓只补 PLANET 侧证据并并档，不重复首触；其 PLANET 在售偏工业非管理（IGS-801T/WGS-803）→ Saga 工业线可对位",
+   "p1": "STI-288DGGPM",
+   "p1_reason": "其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 工业线在售 + 布线/网络分销渠道；触达：info@coeldistribution.it（官网 contattaci）；体量 11–50 人、€9.4M，可赢；Mikrotik 仓库 A-191 已建档 → 本仓 B 并档，首触以 Mikrotik 仓库为准",
+   "source": "M2 品牌页反查（意大利）+ Mikrotik 仓库 grep（A-191）",
+   "planet_models": [
+    "IGS-801T",
+    "WGS-803",
+    "WGS-5225-8T2SV",
+    "IGS-614HPT（品牌页 4 PoE+2 SFP）"
+   ],
+   "model_map": {
+    "IGS-801T": {
+     "saga": "STI-080GE",
+     "note": "8×GE 工业非管理（Saga 暂无对应型号，沿用 SmartByte 型号 STI-080GE）"
+    },
+    "WGS-5225-8T2SV": {
+     "saga": "STI-288DGGPM",
+     "note": "PLANET 为 8GE+2SFP 壁挂管理型（非 PoE）；Saga 以 8 口 PoE L2+ 工业覆盖并带 PoE"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@coeldistribution.it",
+     "phone": "+39 039 578 831",
+     "status": "公开（官网 contattaci 页）",
+     "source": "https://www.coeldistribution.it/contattaci/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页",
+     "quote": "Planet Networking … Via Fratelli Bandiera, 9A 20835 Muggiò (MB) Tel. +39 039.578.831",
+     "url": "https://www.coeldistribution.it/brands/planet-networking/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "IGS-801T 在售（自有货号）",
+     "quote": "IGS-801T Planet Networking COD. COEL: PLT0086 PRODUTTORE: IGS-801T … Industriale",
+     "url": "https://www.coeldistribution.it/igs-801t/",
+     "date": "2025-10-18"
+    },
+    {
+     "level": "公司自述",
+     "claim": "联系方式与法人",
+     "quote": "Coel Distribution srl +39 039 578 831 … Email: info@coeldistribution.it C.F. e P. IVA: 11989650152",
+     "url": "https://www.coeldistribution.it/contattaci/",
+     "date": "2024-12-04"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模、成立、客户群",
+     "quote": "Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Muggiò · Data di fondazione: 1994（LinkedIn）；reportaziende：Fatturato 2023: € 9.413.657",
+     "url": "https://www.reportaziende.it/coel_distribution_srl_mb_11989650152",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-191 同户（人工 A，info@ 公开）",
+     "quote": "A-191 Coel Distribution srl 意大利 集成商/代理（Allied Telesis）… info@coeldistribution.it [Publicly listed; delivery not tested]",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "米兰北郊的布线+网络分销商，给安装商/集成商供货，PLANET 工业小交换机在其目录中有自有货号",
+   "hook": "Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line.",
+   "first_question": "Do your installers take the PLANET industrial 8-port units mainly unmanaged (IGS-801T) or managed (WGS-5225)?",
+   "subject": "Second-source industrial 8-port PoE+ for the Coel catalogue",
+   "biggest_unknown": "Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比",
+   "alts": [
+    {
+     "model": "STI-080GE",
+     "scene": "工业 8 口非 PoE（对位 IGS-801T）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "商用 24 口 PoE 项目",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "",
+   "mikrotik_ref": "A-191",
+   "notes": "Mikrotik 仓库 A-191 同户：首触以 Mikrotik 仓库为准，本仓只记录 PLANET 侧证据与对位，避免重复打扰。"
+  },
+  {
+   "_code": "PB-025",
+   "name": "Microdata Finland Oy",
+   "country": "芬兰",
+   "city": "Vantaa",
+   "website": "microdata.fi",
+   "type": "分销商（自称 tietoliikennetukkuri＝电信/网络批发商；面向经销商 jälleenmyyjä 的 B2B 批发）",
+   "signal": "网店在售 PLANET GS-4210-24P4C（28 口 SNMP 管理 PoE+ 220W）、IFT-802T 工业介质转换器等；厂商列表含 PLANET",
+   "own_brand": "否",
+   "angle": "芬兰本土网络批发商（非巨头），联系页列出 4 位具名销售（电话/Teams 公开），销售邮箱 myynti@ 公开；芬兰此前无任何 PLANET 专业经销命中——本户是芬兰唯一入口",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "对位其在售 GS-4210-24P4C",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET PoE 在售 + 网络批发渠道；触达：myynti@microdata.fi 公开，4 位具名销售（Matti Joutkoski / Aki Järvinen / Jaana Mellin / Reima Lohikoski）电话公开、直邮以「etunimi.sukunimi@」格式说明（不拼接，仅 Aki Järvinen 的 Teams 标识 aki.jarvinen@microdata.fi 在页面原文出现，列为待核备选）；体量小型批发，可赢；区域芬兰（二线）",
+   "source": "M1 型号反查（芬兰语「Planet kytkin jälleenmyyjä」）+ 官网 Yhteystiedot 页核",
+   "planet_models": [
+    "GS-4210-24P4C",
+    "IFT-802T",
+    "PLANET 系列（厂商列表）"
+   ],
+   "model_map": {
+    "GS-4210-24P4C": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo，280W（PLANET 220W 版）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "myynti（销售）",
+     "email": "myynti@microdata.fi",
+     "phone": "+358 9 4247 4900",
+     "status": "公开（官网 Yhteystiedot 页）",
+     "source": "https://www.microdata.fi/Yhteystiedot-4.html"
+    },
+    {
+     "name": "Matti Joutkoski",
+     "role": "销售（联系页首位，角色未标）",
+     "email": "",
+     "phone": "+358 9 4247 4910 / 046-812 9910",
+     "status": "具名无公开直邮（页面给出 etunimi.sukunimi@ 格式，不拼接）",
+     "source": "https://www.microdata.fi/Yhteystiedot-4.html"
+    },
+    {
+     "name": "Aki Järvinen",
+     "role": "销售（联系页，角色未标）",
+     "email": "aki.jarvinen@microdata.fi",
+     "phone": "+358 9 4247 4911 / 046-812 9911",
+     "status": "页面原文以 Teams 标识形式出现（与邮箱格式一致）——列为待核备选，首触仍用 myynti@",
+     "source": "https://www.microdata.fi/Yhteystiedot-4.html"
+    },
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@microdata.fi",
+     "phone": "+358 9 4247 4900",
+     "status": "公开（官网）",
+     "source": "https://www.microdata.fi/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "GS-4210-24P4C 在售",
+     "quote": "PLANET GS-4210-24P4C on 28-porttinen SNMP-hallittava PoE+ kytkin … PoE- virransyöttökapasiteetti on 220W",
+     "url": "https://microdata.fi/index.php?module=ekauppa&product=PLANET-GS-4210-24P4C&type=2",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "联系页：销售邮箱 + 4 位具名销售",
+     "quote": "Myynti: myynti@microdata.fi … Matti Joutkoski Puh: 09-4247 4910 … Aki Järvinen Puh: 09-4247 4911 … Teams: aki.jarvinen@microdata.fi Jaana Mellin … Reima Lohikoski … Sähköposti: etunimi.sukunimi@microdata.fi Yleinen sähköposti: info@microdata.fi",
+     "url": "https://www.microdata.fi/Yhteystiedot-4.html",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "经销商准入：发邮件至 myynti@",
+     "quote": "Mikäli olet kiinnostunut jälleenmyynnistä … lähetä sähköposti osoitteeseen myynti@microdata.fi",
+     "url": "https://www.microdata.fi/jalleenmyyjaksi",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "工商",
+     "claim": "法人与 VAT",
+     "quote": "Microdata Finland Oy … Y-tunnus / VAT: 2049377-0 / FI20493770 … Robert Huberin tie 2 (E-halli) 01510 VANTAA",
+     "url": "https://www.microdata.fi/Yhteystiedot-4.html",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "万塔（赫尔辛基机场旁）的电信/网络批发商，给芬兰经销商供 PLANET 等网络设备",
+   "hook": "You list the GS-4210-24P4C for your resellers; a second-source 24-port PoE+ at a lower tier gives them the same spec with better margin.",
+   "first_question": "Is the 24-port PoE+ your highest-volume PLANET SKU with Finnish resellers, or do 8-port PoE units move more?",
+   "subject": "Second-source 24-port PoE+ switch for Microdata's resellers",
+   "biggest_unknown": "公司规模/营收；PLANET 占比；是否接受 EXW 直采",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE+2 SFP",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 DIN 8 口 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep）。芬兰首个 PLANET 专业经销建档（W02 pending「NO/DK/FI」项：FI 解决，DK 仍无专业经销）。"
+  },
+  {
+   "_code": "PB-026",
+   "name": "CMS (Cable Management Supplies) plc",
+   "country": "英国",
+   "city": "Crawley, West Sussex（原 Farnborough）",
+   "website": "cmsplc.com",
+   "type": "分销商（1993 年起；布线基础设施、网络、IP 物理安防与 AV 产品分销；约 15 人；现为 Norbain SD 旗下——「Norbain Holdings Ltd T/A CMSPLC」）",
+   "signal": "官网品牌页「PLANET TECHNOLOGY CORPORATION」在售 FNSW-2401 / FNSW-1601 / GSD-503 / FT-802；Switching & Networking 页品牌为 Allied Telesis / Antiference / Netgear / Planet",
+   "own_brand": "否",
+   "angle": "小型布线+安防分销（15 人）但母公司 Norbain 是英国大安防分销——CMS 自身决策链短；在售 PLANET 为低端非管理，Saga 商用 PoE 可做其「安防 PoE」升级档",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "其 IP 物理安防线最缺的是 24 口 PoE 管理型（现有 PLANET 在售仅非管理 FE/GE）",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 低端在售 + IP 安防/布线渠道；触达：sales@cmsplc.com 公开（官网 + Allied Telesis 伙伴页）；体量 15 人（PitchBook）可赢，但母公司 Norbain SD 为大分销→集团采购可能上收；B",
+   "source": "M2 品牌页反查（奥/瑞士检索误命中 cmsplc.com 品牌页）+ 名录核名",
+   "planet_models": [
+    "FNSW-2401",
+    "FNSW-1601",
+    "GSD-503",
+    "FT-802"
+   ],
+   "model_map": {
+    "FNSW-2401": {
+     "saga": "STC-424DGGM",
+     "note": "PLANET 为 24 口 FE 非管理；Saga 无 FE 档，以 24×GE 管理型 STC-424DGGM 作升级替代（注明）"
+    },
+    "GSD-503": {
+     "saga": "—",
+     "note": "5 口桌面 GE 非管理：Saga 暂无对应型号"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@cmsplc.com",
+     "phone": "+44 1252 379379",
+     "status": "公开（官网 contact 页 / Allied Telesis 伙伴页）",
+     "source": "https://www.cmsplc.com/contact"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页在售",
+     "quote": "PLANET TECHNOLOGY CORPORATION - 24P 100TX SWITCH … Code: FNSW-2401 In Stock - 5P 1000MBPS GB METAL … Code: GSD-503 … Norbain Holdings Ltd T/A - CMSPLC South Corner, Old Brighton Road, Crawley",
+     "url": "https://www.cmsplc.com/brand/planet-technology-corporation",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "联系方式",
+     "quote": "phone us on 01252 379379 … Email sales@cmsplc.com … Planet Switches",
+     "url": "https://www.cmsplc.com/contact",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模与归属",
+     "quote": "Year Founded 1993 · Employees 15 · Parent Company Norbain SD · Distributors/Wholesale（PitchBook）",
+     "url": "https://pitchbook.com/profiles/company/100254-79",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "业务描述",
+     "quote": "Established in 1993, CMS is one of the UK's largest Distributors of Cabling Infrastructure, Network, IP Physical Security and AV Solutions（LinkedIn）",
+     "url": "https://www.linkedin.com/company/cms-plc",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "Allied Telesis 伙伴页列 CMS 为 Reseller",
+     "quote": "CMS (Cable Management Supplies) plc … Email sales@cmsplc.com Tel +44 1252 379379 Organisation Type Reseller",
+     "url": "https://www.alliedtelesis.com/us/en/cms-cable-management-supplies-plc",
+     "date": "2021-08-24"
+    }
+   ],
+   "who": "英国南部的布线/安防/AV 小分销，Norbain 旗下，PLANET 低端非管理交换机在售",
+   "hook": "Your PLANET range stops at unmanaged FE/GE units; a managed 24-port PoE+ at distributor pricing fills the gap your IP-security installers ask for.",
+   "first_question": "When installers buy switches for IP cameras from CMS, do they take unmanaged units or ask for a managed PoE+ option you don't currently list?",
+   "subject": "Managed 24-port PoE+ to extend your PLANET switch line",
+   "biggest_unknown": "Norbain 集团是否统一采购；年交换机台数",
+   "alts": [
+    {
+     "model": "STC-424DGGM",
+     "scene": "24 口 GE 管理非 PoE（对位 FNSW-2401 升级）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE+2 SFP",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep：cmsplc / cable management 无命中）。母公司 Norbain SD 本身属巨头级安防分销——若对方转到集团采购则降 C。"
+  },
+  {
+   "_code": "PB-027",
+   "name": "VERSIM S.A.",
+   "country": "波兰",
+   "city": "Poznań",
+   "website": "versim.pl",
+   "type": "增值分销商（VAD；Extreme Networks 波兰分销、Gigaset DECT、安全/NAC 等；2017 年签 PLANET 分销协议）",
+   "signal": "2017 年官网公告「VERSIM S.A. dystrybutorem Planet Technology!」（完整产品组合入列）；第三方名录仍列「współpracuje z … Extreme Networks czy Planet Technology」",
+   "own_brand": "否",
+   "angle": "波兰 VAD 以 Extreme 为主、PLANET 为低端补位——正是「第二货源」心态；sales@ / info@ 公开；PLANET 是否仍在售待核",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "VAD 给集成商配套的接入层 24 口 PoE",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 分销协议（2017）+ 集成商渠道，但 PLANET 现状待核；触达：sales@versim.pl / info@versim.pl 公开；体量 VAD 中型（上市 S.A.），可赢；B（待核 PLANET 是否仍在售）",
+   "source": "M2 品牌页反查（波兰 planet.pl 归属核查时命中）",
+   "planet_models": [
+    "PLANET 全线（2017 协议）"
+   ],
+   "model_map": {
+    "GS-4210-24P4C": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@versim.pl",
+     "phone": "+48 61 628 43 70",
+     "status": "公开（官网产品页「zapraszamy do kontaktu … sales@versim.pl」）",
+     "source": "https://www.versim.pl/oferta/produkty/systemy-glosowe/"
+    },
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@versim.pl",
+     "phone": "+48 61 628 43 70",
+     "status": "公开（官网页脚）",
+     "source": "https://www.versim.pl/en/start-english/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "2017 年签 PLANET 分销协议",
+     "quote": "VERSIM S.A. dystrybutorem Planet Technology! … Firma VERSIM podpisała umowę dystrybucyjną z firmą Planet Technology, a tym samym w ofercie dystrybutora znalazło się kompletne portfolio produktowe tego producenta",
+     "url": "https://www.versim.pl/versim-s-a-dystrybutorem-planet-technology/",
+     "date": "2017-01-17"
+    },
+    {
+     "level": "第三方",
+     "claim": "名录仍列 PLANET 为合作厂商",
+     "quote": "Firma Versim to dystrybutor zaawansowanych technologii IT. Współpracuje z takimi światowymi producentami sprzętu sieciowego jak Extreme Networks czy Planet Technology.",
+     "url": "https://www.firmowy.com.pl/versim-dystrybutor-technologii-extreme-networks,f4374",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "公司定位与联系方式",
+     "quote": "VERSIM is a distributor of technologically advanced network solutions … VERSIM S.A. Jasielska 10, 60-476 Poznań phone +48 61 628 43 70 email: info@versim.pl",
+     "url": "https://www.versim.pl/en/start-english/",
+     "date": "2025-03-31"
+    },
+    {
+     "level": "工商",
+     "claim": "法人",
+     "quote": "NIP 7792261859 | KRS 0000396258 … Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego",
+     "url": "https://krs-pobierz.pl/versim-i325654",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "波兹南的网络 VAD，主卖 Extreme Networks，2017 年把 PLANET 作为低端补位引入",
+   "hook": "PLANET came into your portfolio as the value tier under Extreme; a direct PoE+ second source gives your integrators that tier at a better margin.",
+   "first_question": "Is PLANET still the value PoE tier your integrators take under Extreme, or has that slot moved to another brand?",
+   "subject": "Value-tier PoE+ switch for VERSIM's integrator channel",
+   "biggest_unknown": "PLANET 是否仍在售（2017 协议后无新动态）；采购决策人",
+   "alts": [
+    {
+     "model": "STC-424XGGPM-280W",
+     "scene": "24 口 PoE + 10G 上联（Extreme 下位）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep）。首触邮件的第一问正好用于核实 PLANET 现状。"
+  },
+  {
+   "_code": "PB-028",
+   "name": "Lastella Trade S.r.l. (DigitX.it)",
+   "country": "意大利",
+   "city": "Funo di Argelato (BO)",
+   "website": "digitx.it",
+   "type": "工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）",
+   "signal": "官网 PLANET 品牌页 + 产品页（ISW-500T 等工业交换机）；首页「Distribuiamo Planet」；同时分销 3onedata（中国工业交换机品牌）",
+   "own_brand": "否",
+   "angle": "已在卖中国工业交换机品牌 3onedata——对大陆货源无心理门槛；工业网络专营电商，B2B「grosso acquisto → preventivo」入口",
+   "p1": "STI-288DGGPM",
+   "p1_reason": "其 PLANET 在售以工业 DIN 线为主（ISW/IGS）；Saga 工业 8 口 PoE L2+ 对位",
+   "tier": 0.2,
+   "tier_reason": "电商/经销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 工业线在售 + 已售中国品牌 3onedata；触达：info@digitx.it 公开（官网 schema），无具名；体量 2–10 人，小但对口；B",
+   "source": "W02 pending「Digitx」核实（M2 品牌页）",
+   "planet_models": [
+    "ISW-500T",
+    "PLANET Industrial Ethernet / Media Converters / Industrial Wireless（品牌页分类）"
+   ],
+   "model_map": {
+    "ISW-500T": {
+     "saga": "STI-080GE",
+     "note": "PLANET 为 5 口 FE 工业非管理；Saga 以 8 口 GE 工业非管理覆盖（Saga 暂无对应型号，沿用 SmartByte 型号 STI-080GE）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@digitx.it",
+     "phone": "+39 051 660 4005",
+     "status": "公开（官网首页 schema contactPoint）",
+     "source": "https://www.digitx.it/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页 + 品牌墙（含 3onedata）",
+     "quote": "Planet technology Prodotti per il networking - DigitX.it … Distribuiamo Moxa … Distribuiamo Planet … Distribuiamo 3onedata",
+     "url": "https://www.digitx.it/planet/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "ISW-500T 在售",
+     "quote": "ISW-500T Planet Switch Ethernet non gestito 5 porte … Industrial Ethernet Switches › DIN Rail Unmanaged switches",
+     "url": "https://www.digitx.it/codice/c-isw_500t/brand-planet/id_prod-115371/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "法人与定位",
+     "quote": "digitX.it è una realizzazione della società Lastella Trade Srl … distribuzione tramite e-commerce dei dispositivi elettronici … Moxa, Teltonika, Takachi, Patlite, Planet Technology … Lastella Trade S.r.l. Societa' unipersonale … P.I. 03695681209",
+     "url": "https://www.digitx.it/chi_siamo.asp",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模",
+     "quote": "Dimensioni dell'azienda: 2-10 dipendenti · Sede principale: Argelato · Data di fondazione: 2012（LinkedIn showcase）",
+     "url": "https://it.linkedin.com/showcase/digitx-it/",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "博洛尼亚郊区的工业电子 B2B 电商，卖 Moxa/PLANET/3onedata 等工业交换机给自动化客户",
+   "hook": "You already stock 3onedata next to PLANET and Moxa, so a DIN-rail PoE+ managed switch at a third price point fits your industrial catalogue.",
+   "first_question": "Between Moxa, PLANET and 3onedata, which price band do your automation customers actually buy most for 8-port DIN-rail PoE?",
+   "subject": "Third price point for DIN-rail PoE+ in the DigitX catalogue",
+   "biggest_unknown": "3onedata 现有供货路径（是否经意大利代理）；年工业交换机台数",
+   "alts": [
+    {
+     "model": "STI-080GE",
+     "scene": "工业 8 口非 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-488DGGPM",
+     "scene": "工业 8 口 PoE + 4 SFP",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep：digitx / lastella 无命中）。W02 pending「Digitx」→ 已核：有 B2B 属性，建档 B。"
+  },
+  {
+   "_code": "PB-029",
+   "name": "Microsam",
+   "country": "加拿大",
+   "city": "Montréal, QC",
+   "website": "microsam.ca",
+   "type": "安防集成/供应商（CCTV 视频监控系统供应与安装/租赁，2001 年起；<25 人、营收 <$5M）",
+   "signal": "planet-ca.com（PLANET 加拿大品牌站）分销商列表仅列 Microsam（info@microsam.ca）；Facebook 自述「l'un des principaux fournisseurs de systèmes de surveillance vidéo (CCTV) au Canada」",
+   "own_brand": "否",
+   "angle": "PLANET 加拿大品牌站唯一列名的下游——CCTV 安装/租赁型公司，PoE 交换机是其每套系统的标配；小公司 info@ 即老板",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "CCTV 系统最走量的 24 口 PoE；16/8 口按点位",
+   "tier": 0.25,
+   "tier_reason": "集成/安装型 → 25%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 加拿大品牌站列为分销商 + CCTV 系统供应（PoE 刚需）；触达：info@microsam.ca（planet-ca.com 列表公开），无具名；体量 <25 人可赢；区域加拿大（一线）；B",
+   "source": "W02 pending「Microsam」核实（M3 下游反查：planet-ca.com 分销商列表）",
+   "planet_models": [
+    "PLANET PoE 交换机（经 planet-ca.com）"
+   ],
+   "model_map": {
+    "GS-4210-24P4C": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@microsam.ca",
+     "phone": "(514) 815-9035",
+     "status": "公开（planet-ca.com 分销商列表；zoominfo 电话）",
+     "source": "https://planet-ca.com/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "第三方",
+     "claim": "PLANET 加拿大品牌站列 Microsam 为分销商",
+     "quote": "planet-ca.com 分销商列表：Microsam（info@microsam.ca）（W02 检索摘要，原页待 fetch 核对）",
+     "url": "https://planet-ca.com/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "业务：CCTV 系统供应，含月租模式",
+     "quote": "Microsam est l'un des principaux fournisseurs de systèmes de surveillance vidéo (CCTV) au Canada … Des systemes de Video Surveillance à partir de 40.00$ / par mois avec accés a distance",
+     "url": "https://www.facebook.com/microsam.ca/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模",
+     "quote": "MICROSAM … (514) 815-9035 … www.microsam.ca … Security Products & Services；revenue <$5M, <25 employees, founded 2001（zoominfo 检索摘要）",
+     "url": "https://www.zoominfo.com/c/microsam-inc/459190017",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "蒙特利尔的 CCTV 系统供应商/安装商，按月租卖监控系统，PLANET 加拿大品牌站把它列为分销商",
+   "hook": "Every CCTV system you install or lease needs a PoE switch; a 24-port PoE+ at integrator pricing lowers the hardware cost in your monthly plans.",
+   "first_question": "On a typical 16-camera install, do you deploy one 24-port PoE+ or split across 8-port units?",
+   "subject": "PoE+ switches for Microsam's CCTV installs and rental plans",
+   "biggest_unknown": "是否自装（还是转卖）；UL/cUL 要求；年系统套数",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 小点位",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "室外机柜 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "CCTV 民用/商用监控只谈网络；不碰报警/门禁线",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 仓库无此户（已 grep）。planet-ca.com 本身判为 PLANET 加拿大代表/品牌站 → 信号源，不建客户档（见死路备案）。"
+  },
+  {
+   "_code": "PB-030",
+   "name": "Connect Data – Sintel (Connect Data SARL)",
+   "country": "法国",
+   "city": "Bièvres (91)",
+   "website": "connectdata.fr",
+   "type": "分销商（1981 年起；面向运营商/集成商/经销商的电信与网络方案分销：Perle、PLANET、RAD、Radwin、Ruckus；集团约 20 人、营收约 €15M；OP GLOBE 集团成员）",
+   "signal": "官网品牌页 PLANET：「gamme complète de switchs et convertisseurs Ethernet pour les environnements industriels … complément de gamme idéal pour les produits radio Radwin, CommScope Ruckus」",
+   "own_brand": "否",
+   "angle": "Mikrotik 仓库 A-254（A，Perle 授权）同户——本仓只补 PLANET 侧证据并并档，不重复首触；其 PLANET 定位为「工业交换机补位」→ Saga 工业线对位",
+   "p1": "STI-288DGGPM",
+   "p1_reason": "PLANET 在其目录是 Radwin/Ruckus 无线配套的工业交换机 → 工业 8 口 PoE 对位",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★☆",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 工业线作为无线配套在售 + 运营商/集成商渠道；触达：sales@connectdata.fr 公开（官网 contact，[at] 还原与 mailto 一致）；体量 20 人、€15M 可赢；Mikrotik 仓库 A-254 已建档 → 本仓 B 并档",
+   "source": "M3 下游反查（Microsam 检索时命中 connectdata.fr 品牌页）+ Mikrotik 仓库 grep（A-254）",
+   "planet_models": [
+    "PLANET 工业交换机与介质转换器（品牌页）"
+   ],
+   "model_map": {
+    "IGS-4215-8P2T2S": {
+     "saga": "STI-288DGGPM",
+     "note": "8×GE PoE+ + 2 SFP 工业 L2+"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售/询价）",
+     "role": "sales",
+     "email": "sales@connectdata.fr",
+     "phone": "+33 1 60 13 70 10",
+     "status": "公开（官网 contact 页，[at] 形式）",
+     "source": "http://www.connectdata.fr/contact/"
+    },
+    {
+     "name": "—（ADV）",
+     "role": "Administration des ventes",
+     "email": "adv@connectdata.fr",
+     "phone": "+33 1 60 13 70 21",
+     "status": "公开（官网 service-logistique 页，[at] 形式）",
+     "source": "https://www.connectdata.fr/service/service-logistique/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页：工业交换机补位",
+     "quote": "Connect data propose une gamme complète de switchs et convertisseurs Ethernet pour les environnements industriels. Les switchs Planet sont un complément de gamme idéal pour les produits radio Radwin, CommScope Ruckus.",
+     "url": "https://www.connectdata.fr/marque/planet/",
+     "date": "2026-03-10"
+    },
+    {
+     "level": "公司自述",
+     "claim": "规模、营收、品牌组合、集团",
+     "quote": "Notre groupe CONNECT DATA – SINTEL emploie une vingtaine de personnes et réalise un CA d'environ 15 millions d'euros … LES MARQUES CONNECT DATA PERLE PLANET QU WIRELESS RAD RADWIN RUCKUS NETWORKS … Le groupe OP GLOBE est constitué de 10 PME",
+     "url": "https://www.connectdata.fr/societe/",
+     "date": "2026-06-30"
+    },
+    {
+     "level": "公司自述",
+     "claim": "联系方式",
+     "quote": "Demande de devis sales[at]connectdata.fr sales[at]sintel.fr +33 1 60 13 70 10 … Route de Gisy, Parc Burospace 21 91570 BIEVRES",
+     "url": "http://www.connectdata.fr/contact/",
+     "date": "2026-06-30"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-254 同户（A，Perle 授权分销）",
+     "quote": "A-254 Connect Data 法国 Bievres 分销/集成商（Perle 授权）… sales@connectdata.fr（官网明确[at]/mailto还原）",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "who": "巴黎南郊的电信/网络分销商，给运营商和集成商配 Radwin/Ruckus 无线与 Perle/PLANET 工业交换机",
+   "hook": "PLANET sits in your catalogue as the industrial switch next to Radwin and Ruckus; a DIN-rail PoE+ second source keeps that slot competitive.",
+   "first_question": "For Radwin/Ruckus deployments, do your integrators take PLANET's 8-port industrial PoE+ most, or the 4-port compact units?",
+   "subject": "Industrial PoE+ second source next to PLANET in your catalogue",
+   "biggest_unknown": "Mikrotik 侧是否已首触（A-254 未触达）；Perle 与 PLANET 的分工",
+   "alts": [
+    {
+     "model": "STI-488DGGPM",
+     "scene": "工业 8 口 PoE + 4 SFP",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "商用 24 口 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "客户含运营商/公共网络——只谈民用/商用接入层",
+   "mikrotik_ref": "A-254",
+   "notes": "Mikrotik 仓库 A-254 同户：首触以 Mikrotik 仓库为准，本仓只记录 PLANET 侧证据与对位，避免重复打扰。"
+  },
+  {
+   "_code": "PC-009",
+   "name": "Compass Distribution (Sirius S.p.A. – Divisione Compass)",
+   "country": "意大利",
+   "city": "Grugliasco (TO)",
+   "website": "compass-distribution.it",
+   "type": "增值分销商（Sirius S.p.A. 旗下品牌；网络、安防、电信、布线分销；2011 年起；51–200 人；都灵总部 + 7 个分部/门店）",
+   "signal": "官网「Brand distribuiti」与品牌页列 PLANET Technology（ORCA Networking 并列）",
+   "own_brand": "—",
+   "angle": "—（C 类不首触）",
+   "p1": "STC-424DGGPM-280W",
+   "tier": 0.2,
+   "priority": "☆☆☆",
+   "rating": "C",
+   "c_sub": "B下放·无公开邮箱（仅电话 011 0627111 / 分部地址）",
+   "rating_basis": "需求面有（PLANET 品牌页、安防/网络分销）、体量中型偏大（51–200 人、S.p.A.）；但官网无任何公开邮箱（联系页仅地址），Mikrotik 仓库 C-028 同样「无邮箱」下放——不猜邮箱，沉 C 待命；补到邮箱可重评 B",
+   "source": "M2 品牌页反查（意大利第三轮）+ Mikrotik 仓库 grep（C-028）",
+   "planet_models": [
+    "PLANET 全线（品牌页）"
+   ],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "—（总机）",
+     "role": "电话",
+     "email": "",
+     "phone": "+39 011 0627111",
+     "status": "无公开邮箱（官网联系页仅地址）",
+     "source": "https://www.compass-distribution.it/contatti/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页",
+     "quote": "PLANET Technologies … Fondata nel 1993, PLANET Technology Corporation è un fornitore globale",
+     "url": "https://www.compass-distribution.it/brand/planet-technology/",
+     "date": "2023-06-07"
+    },
+    {
+     "level": "公司自述",
+     "claim": "联系页仅地址（无邮箱）",
+     "quote": "Torino Headquarter Strada del Portone 159 - 10095 Grugliasco (TO) … Milano Filiale … Roma Filiale … Napoli Filiale e punto vendita",
+     "url": "https://www.compass-distribution.it/contatti/",
+     "date": "2026-06-18"
+    },
+    {
+     "level": "公司自述",
+     "claim": "法人归属",
+     "quote": "Compass Distribution – un brand di Sirius S.p.A – Strada del Portone 159 - 10095 Grugliasco (TO) … P.IVA 01240900397",
+     "url": "https://www.compass-distribution.it/listini-clienti/",
+     "date": "2026-04-24"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模与定位",
+     "quote": "Company size: 51-200 employees · Headquarters: Grugliasco · Founded: 2011 … distributore a valore aggiunto per soluzioni di networking e security（LinkedIn）",
+     "url": "https://www.linkedin.com/company/compass-distribution-italy/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "C-028 同户（B下放·无邮箱）",
+     "quote": "C-028 Compass Distribution 意大利 分销（ComNet 授权）… B下放·无邮箱（群发触达不到）",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "qual": "不进入首触池（C）",
+   "boundary": "",
+   "mikrotik_ref": "C-028",
+   "notes": "C-无邮箱；Mikrotik 仓库 C-028 同判。可重评条件：补到邮箱 / 对方询价。"
+  },
+  {
+   "_code": "PC-010",
+   "name": "Kenex s.r.o.",
+   "country": "捷克",
+   "city": "Praha 3",
+   "website": "kenex.cz",
+   "type": "电商/零售（2005 年起；卫星数字电视、摄像系统与配件的网店+实体店；≤5 人、营收 CZK 10–30M）",
+   "signal": "官网 PLANET 品牌页（info@kenex.cz）",
+   "own_brand": "—",
+   "angle": "—（C 类不首触）",
+   "p1": "STC-28DGGPM",
+   "tier": 0.2,
+   "priority": "☆☆☆",
+   "rating": "C",
+   "c_sub": "体量过小·主业非网络（卫星/零售电商，≤5 人）",
+   "rating_basis": "有 PLANET 品牌页与公开邮箱，但 ≤5 人、主业卫星电视与零售摄像套装，年交换机用量可忽略；按「体量过小/偏品类」沉 C",
+   "source": "M2 品牌页反查（波兰 planet.pl 归属核查时命中 kenex.cz）",
+   "planet_models": [
+    "PLANET（品牌页，未列具体型号）"
+   ],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@kenex.cz",
+     "phone": "+420 774 422 900",
+     "status": "公开（官网）",
+     "source": "https://www.kenex.cz/kontakty/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页",
+     "quote": "Planet Technology - Kenex s.r.o. … +420774422900 info@kenex.cz",
+     "url": "https://www.kenex.cz/planet-technology/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "公司自述",
+     "claim": "业务与成立",
+     "quote": "Obchod s digitální technikou Kenex s.r.o. byl založen v roce 2005 … digitální satelitní techniky, kamerových systémů a služeb pro koncové zákazníky",
+     "url": "https://www.kenex.cz/o-nas/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "规模",
+     "quote": "Počet zaměstnanců: do 5 zaměstnanců · Obrat: 10 mil. až 30 mil. Kč（edb.cz）",
+     "url": "https://www.edb.cz/firma-869025-kenex-jesenice/kontakt",
+     "date": "2026-10-19"
+    }
+   ],
+   "qual": "不进入首触池（C）",
+   "boundary": "",
+   "mikrotik_ref": "",
+   "notes": "C-体量过小。"
+  },
+  {
+   "_code": "PB-001",
+   "rating": "B",
+   "name": "Spectra GmbH & Co. KG",
+   "country": "德国",
+   "mikrotik_ref": "C-026; C-149",
+   "evidence": [
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "W03 补证：Mikrotik 仓库 C-026（oring.spectra.de，ORing 分销）/ C-149（奥地利分公司）同户",
+     "quote": "C-026 Spectra (oring.spectra.de) 德国 分销+网店 ORing（全系，公开欧元价）… C-149 Spectra GmbH (Niederlassung Österreich) 奥地利 分销（ORing 授权）",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "w03_note": "W03 补证：W01 grep 漏记——Mikrotik 仓库 C-026/C-149 为同户（ORing 线），本仓 PB-001 为 PLANET 线；两仓评级均非 A，首触仍以本仓 PLANET 线为准，但要先确认 Mikrotik 侧未发过。"
+  },
+  {
+   "_code": "PA-009",
+   "rating": "A",
+   "name": "Direktronik AB",
+   "country": "瑞典",
+   "mikrotik_ref": "A-054",
+   "evidence": [
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "W03 补证：Mikrotik 仓库 A-054 同户；steffo@ 已于 2026-09-29 退信（blocked），主通道改为 fredrik.brunzell@",
+     "quote": "A-054 Direktronik AB … Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）【主通道】；… Stefan Sandstrom - steffo@direktronik.se【已停用：2026-09-29 退信 blocked，由 fredrik.brunzell@ 替代】… Nexlan AS 为其旗下品牌",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "w03_note": "W03 补证：W02 grep 漏记 → Mikrotik 仓库 A-054 同户。steffo@direktronik.se 在 Mikrotik 侧 2026-09-29 退信（blocked）——本仓按规则标「发不过去」不删除，首触改用 fredrik.brunzell@direktronik.se；首触只发一次，以 Mikrotik 仓库为准（A-054 状态未触达）。另：Nexlan 为其自有品牌（Mikrotik 侧记录）。"
+  },
+  {
+   "_code": "PB-009",
+   "rating": "B",
+   "name": "BTS NETWORK GmbH (lwl-shop24.de)",
+   "country": "德国",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "W03 补证：BTS NETWORK 另运营 planet-technology.de，自称「Ihr PLANET Distributor」，客户群含工程/规划事务所、电气批发、系统集成商、能源与网络运营商、安装商",
+     "quote": "BTS NETWORK – Ihr PLANET Distributor Als deutscher Lieferant beliefern wir Sie mit allen Produkten der Marke PLANET … Unser kompetentes Vertriebsteam ist 20 Jahren Ihr professioneller Ansprechpartner … Zu unsere Kunden zählen Ingenieur- und Planungsbüros, Elektrogroßhandel, Systemhäuser, Energieversorger, Netzbetreiber und Installateure.",
+     "url": "http://planet-technology.de/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "lwl-shop24 PLANET 厂商页：SGSW-24040P4 €690.70、IGS-624HPT、SFP 模块在售",
+     "quote": "PLANET 24-Port Gigabit PoE Managed Stackable Switch, SGSW-24040P4 … 690,70 € PLANET Industrial 4-Port 10/100/1000T 802.3at PoE+ mit 2-Port 100/1000X SFP Ethernet Switch PL.IGS-624HPT",
+     "url": "https://www.lwl-shop24.de/nach-hersteller/planet/",
+     "date": "2026-10-19"
+    }
+   ],
+   "w03_note": "W03 补证：PLANET 专站 planet-technology.de 归 BTS NETWORK → 其 PLANET 绑定比 W02 判断更深（专站级分销）；评级仍 B，首触话术改用「PLANET distributor」口径。"
+  },
+  {
+   "_code": "PC-004",
+   "rating": "C",
+   "name": "Exertis Connect (France)",
+   "country": "法国",
+   "mikrotik_ref": "C-185",
+   "evidence": [
+    {
+     "level": "第三方",
+     "claim": "W03 补证：2026-06-01 起 Exertis Connect 与 Azenn 合并为 Azenn Connect（300 人、约 €160M），PLANET 仍在售（FSD-1008HP / IGS-824UPT）",
+     "quote": "Depuis le 1er juin, les distributeurs spécialisés … Azenn et Exertis Connect ont fusionné pour donner naissance à Azenn Connect. Cette entité emploie désormais 300 collaborateurs pour un chiffre d'affaires d'environ 160 millions d'euros.",
+     "url": "https://www.distributique.com/actualites/lire-azenn-connect-rassemble-les-activites-d-azenn-et-exertis-connect-37313.html",
+     "date": "2026-06-15"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "Azenn Connect 在售 PLANET",
+     "quote": "Planet FSD-1008HP switch 10\" 10P 10/100 dont 8 poe+ 120W - Switchs- Azenn Connect, grossiste informatique",
+     "url": "https://www.azenn-connect.fr/fr/411108.html",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "C-185 Exertis Azenn 同集团",
+     "quote": "C-185 Exertis Azenn 法国 分销（ComNet 授权）… 太难·规模过大/决策链长",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-19"
+    }
+   ],
+   "w03_note": "W03 补证：现名 Azenn Connect（azenn-connect.fr）；仍 C（巨头）。Abix（abix.fr，与 Azenn 同在 Buchelay 工业区、2021 年 0 雇员）疑为同集团 B2B 电商牌，不另建档。"
+  },
+  {
+   "_code": "PC-007",
+   "rating": "C",
+   "name": "ACTION S.A. (planet.pl)",
+   "country": "波兰",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "W03 补证：planet.pl 联系页与「Gdzie kupić」均指向 ACTION S.A.；历史公告自称 PLANET 波兰独家分销",
+     "quote": "Kontakt … ACTION S.A. Zamienie, ul. Dawidowska 10, 05-500 Piaseczno … Komunikat firmy ACTION S.A. - wyłącznego dystrybutora produktów PLANET Technology Corp. w Polsce",
+     "url": "https://planet.pl/kontakt",
+     "date": "2026-10-19"
+    }
+   ],
+   "w03_note": "W03 补证：planet.pl = ACTION 运营的 PLANET 波兰品牌站（信号源）；FEN 亦运营 planet.fen.pl（PB-003）。"
+  },
+  {
+   "_code": "PA-006",
+   "rating": "A",
+   "name": "Kyma Srl",
+   "country": "意大利",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "W03 补证：自述直接进口并全国分销网络产品（PLANET 官方经销）",
+     "quote": "Kyma srl importa direttamente e distribuisce sul territorio nazionale prodotti di networking. … rivenditore autorizzato per il mercato italiano … info@kyma.it … Via Masaccio, 6, 42124 Reggio Emilia",
+     "url": "https://kyma.it/planet-technology-networking-communication/",
+     "date": "2026-01-30"
+    }
+   ],
+   "w03_note": "W03 补证：「importa direttamente」= 已有直接进口能力 → 对 EXW 直采无门槛（支持 A）。"
+  },
+  {
+   "_code": "PC-006",
+   "rating": "C",
+   "name": "100MEGA Distribution s.r.o. / ASM (planet-technology.cz)",
+   "country": "捷克",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "W03 补证：planet-technology.cz 自述 ASM 为捷克+斯洛伐克 25 年独家伙伴，已并入 100MEGA",
+     "quote": "Exkluzivním partnerem pro oblast Čech a Slovenska je tradičně již 25 let společnost ASM, která se stala součástí skupiny 100MEGA Distribution s.r.o. podpora@asm.cz … info@planet-tech.cz +420 281 040 511",
+     "url": "https://www.planet-technology.cz/",
+     "date": "2026-10-19"
+    },
+    {
+     "level": "第三方",
+     "claim": "斯洛伐克分支 Asm Slovakia spol. s r.o.（Bratislava）自称 PLANET 独家分销",
+     "quote": "Asm Slovakia spol.s r.o., Bratislava Estónska 43, 83107 Bratislava Výhradný distribútor Planet Technology, Lexcom a Xtendlan … http://www.asm.sk",
+     "url": "https://www.zoznam.sk/katalog/Pocitace-internet-elektronika/Pocitace-prislusenstvo/Distribucia.html",
+     "date": "2026-10-19"
+    }
+   ],
+   "w03_note": "W03 补证：斯洛伐克 PLANET 入口 = ASM Slovakia（同集团）→ 并入本档，不另建 SK 户。"
+  }
+ ],
+ "pending_next_wave": [
+  {
+   "name": "PA-011 Young B.T.S.",
+   "reason": "Mikrotik 侧 A-233 缺邮箱——建议把 pasztor.andras@young.hu 回填 Mikrotik 仓库（需用户在 Mikrotik 仓库侧操作）；首触前 fetch young.hu 联系页核在职"
+  },
+  {
+   "name": "PA-012 SIR.tel.",
+   "reason": "采购经理 Gioia Mantoan 无直邮；首触经 sales@ 并注明 Attn；若用户要求 A 必须直邮则降 B"
+  },
+  {
+   "name": "PA-013 Leteng / PA-009 Direktronik（同 Lagercrantz 集团）",
+   "reason": "首触节奏错开；核中国采购岗（Derek Wang）是否覆盖网络品类"
+  },
+  {
+   "name": "PB-023 Anatronic",
+   "reason": "Juan de la Mora（KAM & PM）线别待核；无直邮"
+  },
+  {
+   "name": "PB-027 VERSIM",
+   "reason": "PLANET 是否仍在售（2017 协议）——首触第一问即核实"
+  },
+  {
+   "name": "PB-029 Microsam",
+   "reason": "planet-ca.com 分销商列表原页待 fetch 核对；UL/cUL 要求"
+  },
+  {
+   "name": "丹麦",
+   "reason": "仍无专业经销命中（仅 fcomputer.dk / RS / shop4power 电商）；下一轮改用 M3「Hikvision/UNV 丹麦安装商 + PLANET」"
+  },
+  {
+   "name": "美国集成商（M3/M4）",
+   "reason": "case study / authorized dealer 两种措辞均无命中；下一轮改用 permit/spec 文档路径（\"Planet\" \"IGS-\" site:.gov 投标清单）或 Reddit/IPVM 口碑帖反查"
+  },
+  {
+   "name": "hypernetsolutions.com / satronel.com",
+   "reason": "区域仍未明；未单独检索"
+  },
+  {
+   "name": "cctv.net（brands/planet）",
+   "reason": "美国 CCTV 网店疑似，规模与地址未核"
+  },
+  {
+   "name": "Tech Plaza（techplaza.pt，里斯本）/ Coditek（coditek.es）",
+   "reason": "葡/西 B2B IT 电商在售 PLANET 工业 PoE；无决策人入口，暂不建档——若 Anatronic/Cartronic 无回应可作备用"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "planet-ca.com（Montréal）",
+   "reason": "PLANET 加拿大代表/品牌站（Network + Camera 两线，info@planet-ca.com）→ 信号源，不建客户档"
+  },
+  {
+   "name": "planet.pl（ACTION）/ planet.fen.pl（FEN）/ planet-technology.cz（ASM/100MEGA）/ planet-technology.de（BTS NETWORK）/ planet.spectra.de（Spectra）",
+   "reason": "各国 PLANET 品牌站均由既有档案运营方持有 → 并入对应档案（PC-007 / PB-003 / PC-006 / PB-009 / PB-001）"
+  },
+  {
+   "name": "ASM Slovakia spol. s r.o.（Bratislava）",
+   "reason": "100MEGA/ASM 集团斯洛伐克分支 → 并入 PC-006，不另建 SK 户"
+  },
+  {
+   "name": "Azenn Connect（原 Exertis Connect + Azenn）",
+   "reason": "PC-004 现名；300 人 €160M 巨头 C；Mikrotik C-185"
+  },
+  {
+   "name": "Abix（abix.fr）",
+   "reason": "B2B IT 电商，与 Azenn 同在 Buchelay；2021 年 0 雇员（壳/集团牌）；无决策人入口"
+  },
+  {
+   "name": "CAPS（caps.nl）",
+   "reason": "荷兰 IT 网店（Tweakers 上架、WhatsApp 客服），无 B2B/项目属性"
+  },
+  {
+   "name": "Ropere（Wawahi s.r.o.）/ SUNTECH computer（捷克）",
+   "reason": "泛 IT 网店/电脑零售，无 B2B 属性"
+  },
+  {
+   "name": "accessoires-informatiques / maison-du-cable（法国）",
+   "reason": "W02 pending 项：泛 IT 配件电商，未再检索，按电商 skip"
+  },
+  {
+   "name": "myTelecom（myCompany SAS，Saint-Cloud）",
+   "reason": "法国小运营商/集成商在售 PLANET，但仅表单/电话、无公开邮箱 → 不建档，列待命"
+  },
+  {
+   "name": "Honeywell Building Automation（es 站列「Planet - Desktop Network switch」）",
+   "reason": "巨头；信号价值：Honeywell 门禁线复售 PLANET 桌面交换机"
+  },
+  {
+   "name": "EET Group（pt-pt / no-no 品牌页）",
+   "reason": "PC-001 已建档（巨头 C）"
+  },
+  {
+   "name": "Tech Plaza（PT）/ Coditek（ES）/ ingram.sk / galaxymarket.eu（SK）/ proshop.fi / tietokonekauppa.fi（FI）/ fcomputer.dk / dk.rs-online.com（DK）/ mylemon.at / 0815.eu（AT）/ geizhals / ox.ee / 01.ee（EE）",
+   "reason": "电商或比价站，无采购决策人入口"
+  },
+  {
+   "name": "ProVAD（pro-vad.com，开罗）/ Avyanna Tech（浦那）/ Maktonet（UAE）/ IT World Trading（Dubai）/ planet.com.ru（俄）/ planet-jp.jp（日）/ wisp.net.au（澳）/ CJP Telecom（墨）",
+   "reason": "区域外"
+  },
+  {
+   "name": "ABP TECH（abptech.com）/ Business Systems Connection（DigiKey 卖家）/ Network Camera Store / Neteon / M/A Rugged",
+   "reason": "已建档或 Mikrotik 已有（C-067 / PB-022 / PB-006 / PB-004 / PB-005）"
+  },
+  {
+   "name": "LinITX / Comms Express / Connectec / Netceed（UK）",
+   "reason": "Mikrotik 仓库已有（A-059 / A-550 / C-107 / C-115）；本轮 UK 型号反查无 PLANET 新证据（Connectec 两款 GS-4210 已停售）"
+  },
+  {
+   "name": "Planet（卫星影像公司，Ljubljana/Berlin）/ Planet Telecom（Edmonton）/ PlanetCCTV（PO Box）/ Planeta sp. z o.o.（华沙）",
+   "reason": "同名噪音"
+  }
+ ],
+ "merged": [
+  {
+   "code": "PB-001",
+   "note": "Mikrotik C-026/C-149 对照补填"
+  },
+  {
+   "code": "PA-009",
+   "note": "Mikrotik A-054 对照补填；steffo@ 标发不过去；新增 fredrik.brunzell@"
+  },
+  {
+   "code": "PB-009",
+   "note": "planet-technology.de 专站证据"
+  },
+  {
+   "code": "PC-004",
+   "note": "Azenn Connect 合并；Mikrotik C-185"
+  },
+  {
+   "code": "PC-007",
+   "note": "planet.pl 归属"
+  },
+  {
+   "code": "PA-006",
+   "note": "importa direttamente"
+  },
+  {
+   "code": "PC-006",
+   "note": "ASM Slovakia 并入"
+  }
+ ]
+}

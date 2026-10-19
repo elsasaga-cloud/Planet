@@ -108,3 +108,12 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **什么无效**：① `site:` + 精确型号 = 0 结果；② 「appoints distributor / white label」新闻查询 = 同名噪音；③ AT/CH/BE/NL 的「distributor + PLANET」只出泛电商；④ 美国 WISP 分销商无 PLANET；⑤ 美国集成商直接检索无 PLANET 命中（需改走 M3/M4）。
 - **A 的三种形态（本轮归纳）**：(a) 具名直邮公开的安防/工业分销（Absolon、Aspectis、Jampel）；(b) ≤10 人微型公司，info@/sales@ 即老板（Kyma、iOC Tech）；(c) 已有自有品牌的分销商（NSI/Norelco、Direktronik、BSC/Lysora、BTS）——贴牌切入，30% 档。
 - **证据纪律提醒**：web_search 摘要可作证据但必须标「检索摘要」；凡标「待补证/原文待 fetch 核对」的，下一轮用 `fetch_page` 补原文再首触（Kyma、Absolon、Aspectis、BTS、NSI OEM 页、Jampel 旧站邮箱）。
+
+### W03（2026-10-19，≈35 次 web_search，+13 户，A 3；W02 pending 9 项清零）
+
+- **什么有效**：① **M11（新增）官方代表/授权页措辞反查**：`represented in Spain and Portugal by`（Anatronic）、`distributore autorizzato di Planet`（SIR.tel）、`produsenter`/`forhandler`（Leteng）、`dystrybutorem Planet Technology`（VERSIM）、`Exkluzivním partnerem`（ASM）——各语种的「授权/代表/独家」措辞比「distributor」命中专业经销更准；② **团队页（/team、/Yhteystiedot、/rolunk/elerhetosegeink）**直接给出采购经理/产品经理具名（SIR.tel Gioia Mantoan、Young Pásztor András、Microdata 4 位销售）；③ **会员/伙伴名录的第三方公开直邮**（lyskultur.no → Leteng 总经理；highseclabs where2buy → Leteng 销售经理；Softing → Direktronik）属「真公开」，可用；④ **Mikrotik grep 加域名 token**（connectdata、compass、azenn）又捞出 3 组同户——W02 只按公司名 grep 漏了 Direktronik/Connect Data。
+- **什么无效**：① M7 两种措辞全噪音；② 美国集成商 case study / authorized dealer 无命中；③ DK/AT/CH/BE/NL 仍只出电商；④ CA/UK 入口已穷尽；⑤ RocketReach/zoominfo 人名只能作「待核」，不能作触达依据。
+- **首触前必做（本轮教训）**：**先读 Mikrotik 同户整行的「状态/备注」**——Direktronik 的 steffo@ 在 Mikrotik 侧 9 月已退信，W02 却把它列为 A 的直邮依据；规则：凡 Mikrotik 同户，退信/停用通道原样继承为「发不过去」，主通道随 Mikrotik 侧。
+- **集团视角**：Lagercrantz 集团同时拥有 Direktronik（SE）与 Leteng（NO）——子公司各自采购、规模 20–30 人、都在卖 PLANET → 可赢，但两户首触节奏要错开。
+- **A 的第四种形态**：(d) 具名采购经理但无直邮、销售邮箱公开的活跃授权分销（SIR.tel）——以 `Attn:` 走 sales@；若用户要求 A 必须直邮则降 B。
+
