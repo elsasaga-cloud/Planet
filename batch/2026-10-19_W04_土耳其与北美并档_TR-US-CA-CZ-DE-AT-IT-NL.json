@@ -190,7 +190,7 @@
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "其客户含核电（SMR）与政府——只谈民用企业/工业站点网络；不碰生命安全通信（GAI-Tronics 线）",
    "mikrotik_ref": "C-089",
-   "notes": "Mikrotik 仓库 C-089 同户（B下放·无邮箱）。本仓补到官网 PDF 具名直邮 → 按 Mikrotik 重评条件①可升；首触只发一次，由用户决定从哪个仓发。"
+   "notes": "Mikrotik 仓库 C-089 同户（B下放·无邮箱）。本仓补到官网 PDF 具名直邮 → 按 Mikrotik 重评条件①可升；首触只发一次；**T06 用户裁决：从 Planet 仓发**。"
   },
   {
    "_code": "PA-015",
@@ -340,7 +340,7 @@
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "只谈民用工业/安防网络；不碰其电信运营商核心网线",
    "mikrotik_ref": "A-497",
-   "notes": "Mikrotik 仓库 A-497 同户（人工 A，仅 info@）。本仓补到 PLANET 线 PM 直邮 matula@；首触只发一次，建议以本仓 PM 直邮为主通道（由用户决定）。"
+   "notes": "Mikrotik 仓库 A-497 同户（人工 A，仅 info@）。本仓补到 PLANET 线 PM 直邮 matula@；首触只发一次；**T06 用户裁决：从 Planet 仓发**（主通道 matula@）。"
   },
   {
    "_code": "PB-031",
@@ -723,7 +723,7 @@
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "政府/免税渠道只谈民用办公网络",
    "mikrotik_ref": "C-085",
-   "notes": "Mikrotik 仓库 C-085 同户（B下放·无邮箱）；本仓补邮箱 → B；首触只发一次。"
+   "notes": "Mikrotik 仓库 C-085 同户（B下放·无邮箱）；本仓补邮箱 → B；首触只发一次，**T06 用户裁决：从 Planet 仓发**。"
   },
   {
    "_code": "PB-035",
@@ -845,7 +845,7 @@
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "",
    "mikrotik_ref": "C-067",
-   "notes": "Mikrotik 仓库 C-067 同户（B下放·无邮箱）；本仓补邮箱 → B；首触只发一次。加拿大入口同档（sales@abptech.ca），不另建 CA 户。"
+   "notes": "Mikrotik 仓库 C-067 同户（B下放·无邮箱）；本仓补邮箱 → B；首触只发一次，**T06 用户裁决：从 Planet 仓发**。加拿大入口同档（sales@abptech.ca），不另建 CA 户。"
   },
   {
    "_code": "PB-036",
@@ -960,7 +960,7 @@
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "",
    "mikrotik_ref": "C-015",
-   "notes": "Mikrotik 仓库 C-015 同户（B下放·无邮箱）；本仓补邮箱 → B；首触只发一次。"
+   "notes": "Mikrotik 仓库 C-015 同户（B下放·无邮箱）；本仓补邮箱 → B；首触只发一次，**T06 用户裁决：从 Planet 仓发**。"
   },
   {
    "_code": "PB-037",
@@ -1309,15 +1309,18 @@
    "website": "akcaba.com",
    "type": "集成商/经销（2005 年起；通信交钥匙方案：TDM/IP PBX、布线、网络与安防；网店以美元标价销售 PLANET；约 18 人、营收约 $5.2M）",
    "signal": "网店 shop.akcaba.com 在售 PLANET PL-GS-4210-24P2S（$550）、IGS-6325-24P4S（$1,350）、IGS-12040MT、IGS-5225-8P4S、POE-2400G",
-   "own_brand": "—",
-   "angle": "—（C 类不首触；区域边缘待裁定）",
+   "own_brand": "否",
+   "angle": "北塞浦路斯通信集成龙头（自述），自装 PBX/布线/网络/安防交钥匙项目并以美元零售 PLANET 商用+工业 PoE——项目型 BOM 可替换；18 人、联合创始人具名，决策链短；info@ 直达",
    "p1": "STC-424DGGPM-280W",
+   "p1_reason": "对位其在售 PL-GS-4210-24P2S（$550）——校园/酒店/办公监控与 IP 电话项目最走量的 24 口 PoE",
    "tier": 0.25,
-   "priority": "☆☆☆",
-   "rating": "C",
-   "c_sub": "区域边缘·北塞浦路斯（TRNC，非土耳其本土）——待用户裁定是否随土耳其入池",
-   "rating_basis": "需求面强（PLANET 商用+工业 PoE 多款在售、自装集成、18 人、info@ 公开、联合创始人 Faize Akçaba 具名）；但注册地为北塞浦路斯 Lefkoşa（+90 392 区号），不属土耳其本土——按区域规则暂沉 C；用户若裁定「土耳其语区一并入池」可直接升 B（邮箱已备）",
-   "source": "W02 区域外备查项「Akçaba」复核（T05 土耳其入池后重查）",
+   "tier_reason": "集成/项目型 → 25%",
+   "priority": "★★☆",
+   "rating": "B",
+   "manual_grade": "B",
+   "manual_grade_note": "W04 初评 C（区域边缘·北塞浦路斯，待裁定）→ 用户 T06（2026-10-19 16:06 UTC）裁决「要」：随土耳其入池 → B；编号 PC-011 冻结不改号",
+   "rating_basis": "需求面：PLANET 商用+工业 PoE 多款在售（美元标价、有库存）+ 自装交钥匙项目；触达：info@akcaba.com 官网公开，联合创始人 Faize Akçaba 具名但无公开直邮（不猜）；体量 18 人、$5.2M，可赢；区域：北塞浦路斯——用户 T06 裁决随土耳其入池。无具名直邮 → B（有邮箱可群发）",
+   "source": "W02 区域外备查项「Akçaba」复核（T05 土耳其入池后重查）；T06 用户裁决升 B",
    "planet_models": [
     "PL-GS-4210-24P2S",
     "IGS-6325-24P4S",
@@ -1333,6 +1336,10 @@
     "IGS-5225-8P4S": {
      "saga": "STI-488DGGPM",
      "note": "工业 8 口 PoE + 4 SFP"
+    },
+    "IGS-6325-24P4S": {
+     "saga": "STI-42424XGGPM",
+     "note": "PLANET 为工业 L3 24 PoE + 4 SFP；Saga 以工业 24 PoE + 4×10G SFP+ L2+ 覆盖（无 L3，注明）"
     }
    },
    "contacts": [
@@ -1349,7 +1356,7 @@
      "role": "Co-founder & Director（X 个人简介 / VitalPBX 伙伴页具名）",
      "email": "",
      "phone": "+90 392 229 15 15",
-     "status": "具名无公开直邮（不猜）",
+     "status": "具名无公开直邮（不猜）；首触走 info@ 并 Attn",
      "source": "https://vitalpbx.com/vitalpbx-partners/akcaba-communications/"
     }
    ],
@@ -1391,10 +1398,62 @@
      "date": "2026-10-19"
     }
    ],
-   "qual": "不进入首触池（C-区域边缘，待裁定）",
+   "who": "北塞浦路斯尼科西亚的通信集成商，自装 PBX/布线/网络/安防交钥匙项目，网店以美元零售 PLANET 商用与工业 PoE 交换机",
+   "hook": "Your shop lists PLANET's 24-port PoE+ at $550 and the industrial L3 unit at $1,350; a direct-sourced managed PoE+ at a lower tier gives your turnkey projects the same spec with more margin.",
+   "first_question": "On your campus and hotel projects, is the 24-port PoE+ (PL-GS-4210-24P2S class) what you install most, or do the industrial IGS units lead?",
+   "subject": "Attn Faize Akçaba – second-source 24-port PoE+ for Akçaba's turnkey projects",
+   "biggest_unknown": "年项目数与交换机台数；进口路径（经土耳其转口还是直接进口）；是否也向北塞浦路斯其他安装商批发",
+   "needs": "商用 24 口 PoE、工业 PoE、PoE 注入集线器；CE；美元结算",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "对位 PL-GS-4210-24P2S；同规格更低一档",
+     "question": "On your campus and hotel projects, is the 24-port PoE+ (PL-GS-4210-24P2S class) what you install most, or do the industrial IGS units lead?",
+     "action": "无附件；一句话带过 ERPS/IGMP/PoE 看门狗/CLI-SNMP"
+    },
+    {
+     "title": "样机到 Lefkoşa",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "30 天并行测试，不要求承诺；兼容其在用 SFP",
+     "question": "Which site or customer could take one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "贴牌/批量条件",
+     "push": "STI-488DGGPM（工业 8 口 PoE + 4 SFP）+ 贴牌方案",
+     "angle": "中性包装、客户型号、固件 UI 定制；MOQ/付款/EXW 运费路径",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "贴牌流程 1 页；报价前核价"
+    }
+   ],
+   "alts": [
+    {
+     "model": "STI-488DGGPM",
+     "scene": "工业 8 口 PoE+4 SFP 室外/机柜",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 楼层点位",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "swot": {
+    "S": "小而全的集成商，PLANET 多款在售且有库存；美元标价说明其直接进口",
+    "W": "北塞浦路斯市场小；物流/清关路径特殊",
+    "O": "土耳其语区一体化采购——可与土耳其三户共用物流路径",
+    "T": "本地无竞争压力，换货源动力可能不足"
+   },
+   "unknowns": [
+    "年台数",
+    "进口路径",
+    "是否批发"
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "只谈民用企业网络；不碰其 PBX/呼叫中心线",
    "mikrotik_ref": "",
-   "notes": "W02 曾按「土耳其=区域外」skip；T05 土耳其入池后复核发现实为北塞浦路斯（TRNC）。全量信息保留，用户一句话即可升 B。"
+   "notes": "W02 曾按「土耳其=区域外」skip；T05 土耳其入池后复核发现实为北塞浦路斯（TRNC），W04 初评 C 区域边缘；**T06 用户裁决「要」→ 升 B，人工定级 B，编号 PC-011 冻结不改**。"
   }
  ],
  "pending_next_wave": [
@@ -1404,7 +1463,7 @@
   },
   {
    "name": "PC-011 Akçaba（TRNC）",
-   "reason": "用户裁定是否随土耳其入池；是 → 升 B"
+   "reason": "【已处置】用户 T06 裁决随土耳其入池 → B（人工定级 B，编号不改）"
   },
   {
    "name": "土耳其第二轮",
