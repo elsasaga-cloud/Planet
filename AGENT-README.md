@@ -1,0 +1,73 @@
+# AGENT-README（Planet 仓库操作手册）
+
+> 每轮开工：读宪法 → 本文件 → 总账最新章 → 对话全记录最近几轮 → README 进度。回复首行 `📋 上下文已加载（…）`。
+
+## 1. 任务与边界（一分钟版）
+
+- 客户 = PLANET Technology 在欧洲 + 美加的**独立**渠道（分销/电商/安防经销/工业经销/集成商/贴牌品牌商）。PLANET 本体与其关联公司 = 信号源，禁止触达。
+- 我方 = Saga Telecom（大陆贸易商 SOHO，SmartByte Marvell 方案为核心）。不做云管理/轨交/IP67/消费级；无 UL。详见 `docs/reference/Saga公司画像与边界.md`。
+- 评级 A/B/C 规则不改；编号 `PA-/PB-/PC-xxx` 冻结只追加；档案不手改。
+- 报价 = SmartByte CNY × (1.2/1.25/1.3) ÷ 汇率；MD 写 Saga 型号，无对应写 SmartByte 并注明。
+- 每轮必写：`docs/requirements/对话全记录.md`（原文 + 两个时间戳）、`用户要求总账.md`（PR-xx）、README 进度、审计 errors 0。
+
+## 2. 流水线
+
+```bash
+# 0) 环境（沙箱重置后）
+python3 -m venv /home/user/.venv_planet && /home/user/.venv_planet/bin/pip install openpyxl pdfplumber
+PY=/home/user/.venv_planet/bin/python
+
+# 1) 价格表（用户更新 xlsx/pdf 或汇率变动时重跑；--rate/--rate-date 传新汇率）
+$PY scripts/pricing.py --rate 6.69 --rate-date 2026-10-17
+
+# 2) 挖掘：web_search / fetch_page → 写 batch/<YYYY-MM-DD>_<批名>.json（结构见 batch/2026-10-19_W01_*.json）
+#    每户必有：_code（预留编号，按 add_batch 分配结果回填）、rating、rating_basis、evidence[{claim,quote,url,date,level}]、contacts[]（只记公开邮箱）
+#    批次必有：queries[]、skipped[{name,reason}]、pending_next_wave[]
+
+# 3) 入表 → 渲染 → 审计
+cd scripts && $PY add_batch.py && $PY render.py && $PY audit.py && cd ..
+
+# 4) 自检写入
+grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B profile/C | wc -l
+
+# 5) 记账：对话全记录（Txx）、总账（PR-xx）、README 进度表、docs/audit/全仓审计.md 已由 audit.py 生成
+# 6) git add -A && git commit && git push origin arena/3f35b9b3-planet
+```
+
+### 编号分配约定
+
+`add_batch.py` 按 CSV 现有最大号 +1 分配；批次 JSON 里的 `_code` 用于 `render.py` 回找证据，因此**写 JSON 前先看 CSV 当前最大号**，预留的 `_code` 必须与 `add_batch.py` 实际分配一致（同一批内按 A/B/C 各自顺序排列即可一致）。若不一致，以 CSV 为准修正 JSON 的 `_code` 后重跑 render。
+
+### 升降级
+
+改 CSV `评级`（或用户填 `人工定级`）→ `render.py` 自动把档案移到新目录，编号不变。在 CSV `备注` 记「YYYY-MM-DD 由 B→A：原因」。
+
+## 3. 文件地图
+
+| 路径 | 作用 |
+|---|---|
+| `docs/requirements/对话全记录.md` | ★ 宪法级：逐轮原文 + 时间戳 |
+| `docs/requirements/用户要求总账.md` | PR-xx 要求台账 + INH-xx 继承规则 |
+| `docs/rules/报价与型号规则.md` | 公式、档位、型号书写、已知矛盾 |
+| `docs/rules/客户分级与去重规则.md` | ABC、编号、去重键、CSV 26 列定义 |
+| `docs/rules/客户档案结构与内容规则.md` | Mikrotik R56 v2 骨架原文（继承） |
+| `docs/reference/价格表_三档加价_USD.md` + `data/价格主表.csv` | 135 个 SmartByte 型号 × 三档 USD × Saga 对位 |
+| `docs/reference/PLANET_PoE产品线与Saga对照.md` | PLANET 型号 → Saga 对位与「无对应」清单 |
+| `docs/reference/从Mikrotik仓库继承的规则摘要.md` | 读两仓库的结论 |
+| `docs/reference/Saga公司画像与边界.md` | 用户背景 docx 的结构化版 |
+| `docs/methodology/Planet客户挖掘方法论.md` | M1–M10 方法与国家顺序 |
+| `docs/methodology/死路与死链备案.md` | 404/登录墙/匿名页 + 信号源名单 + 区域外命中 |
+| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 26 行 |
+
+## 4. 操作记录
+
+| 日期 (UTC) | 轮 | 动作 | 结果 |
+|---|---|---|---|
+| 2026-10-19 14:31–15:05 | PR-01 | 合并 origin/main 上传件；克隆并通读 Mikrotik 仓库；读价格表/背景；建骨架与规则；pricing.py 生成三档表；W01 挖掘 15 户（web_search ×15、fetch_page ×12）；add_batch/render/audit | CSV 15 行，profile 15 份，audit errors 0 |
+
+## 5. 已知坑（本仓库）
+
+- `fetch_page` 对 planet.com.tw 可用，但导航链接不在 markdown 里；案例研究页匿名。
+- `web_search` 返回体积大：用 `depth 1`，一次只查一家的联系方式（`<域名> contact email`），比逐页 fetch 省上下文。
+- 第三方名录（cylex/zoominfo/rocketreach）的人名只记「第三方名录级·待核」，不写邮箱；LinkedIn 只记入口。
+- CSV 字段含逗号，`cut -d,` 看列会错位，用 Python csv 模块。
