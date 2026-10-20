@@ -4,7 +4,7 @@
 >
 > **类型**：PLANET 北美授权总代（「a division of Versa Technology」）　|　**PLANET 关联**：PLANET 授权北美分销；其 Where-to-buy 页列 Pulse Supply、Black Box、Graybar、Anixter/Wesco、Platinum Micro、AT Logistics　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 其转售名单中 Pulse Supply=C-089、Black Box=C-071、Platinum Micro=C-085（Mikrotik 仓库已有，不重挖）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 其转售名单中 Pulse Supply=C-089、Black Box=C-071、Platinum Micro=C-085（Mikrotik 仓库已有，不重挖）**：C 级两仓均不首触，本档只保留对照与证据。
 
 ```yaml structured_profile
 code: PC-005

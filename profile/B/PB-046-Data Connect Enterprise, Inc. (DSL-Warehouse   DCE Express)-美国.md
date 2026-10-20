@@ -65,6 +65,9 @@ updated: 2026-10-20
 - **【Mikrotik 仓库】A-270 同户（A）：Belden/Hirschmann 主备货分销 + TAC；联系页具名邮箱已记录**
   > A-270 Data Connect 美国 集成商/主备货分销（Belden 工业） Hirschmann + GarrettCom … sales@data-connect.com（官网联系页正文）；分销商/顾问入口：bpatton@data-connect.com … 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文按角色列出邮箱：总sales@/support@，分销商与顾问Barry Patton bpatton@，集成商/VAR/经销商Daniel Rowe dro…
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-09-27）
+- **【官网】【W18 补证】主站 data-connect.com 交换机总览页把「Planet Switches」与 Juniper / Moxa / 自有工业款并列（链接指向 dceexpress.com/planet-technology/sgsw-24040hp/）**
+  > Data Connect Enterprise offers a full range of Standard and Hardened Ethernet Switches … Juniper Switches … Planet Switches … Moxa Industrial Managed Ethernet Switches Unmanaged Ethernet Switches … Data Connect Industrial Ethernet Switches … Please contact us 301-924-7400
+  > 来源：https://www.data-connect.com/ethernet_switches.htm（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -179,4 +182,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*

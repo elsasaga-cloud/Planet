@@ -4,7 +4,7 @@
 >
 > **类型**：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）　|　**PLANET 关联**：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 A-541**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 A-541**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-005

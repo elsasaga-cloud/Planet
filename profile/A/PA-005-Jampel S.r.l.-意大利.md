@@ -4,7 +4,7 @@
 >
 > **类型**：工业自动化经销（工业硬件分销：PLANET / Moxa / Neousys，1981 年起）+ PLANET 意大利官方分销　|　**PLANET 关联**：官网品牌页自称「Distributore ufficiale PLANET Technology per l'Italia」；同时分销 Moxa 工业交换机　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-031**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-031**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PA-005

@@ -139,7 +139,19 @@ def render_one(row, by_saga, by_sb):
     L.append(f"> **类型**：{row['类型']}　|　**PLANET 关联**：{row['信号（在卖什么品牌）']}　|　结构版本：{STRUCT_VER}")
     if row.get("Mikrotik仓库对照编号"):
         L.append(f">")
-        L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {row['Mikrotik仓库对照编号']}**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。")
+        # W18 修复：头部横幅原先对所有带 Mikrotik 对照编号的客户一律写「联系策略以先建档案为准，勿重复首触」，
+        # 与 T06 ② 例外户（Mikrotik 侧无邮箱 / 本仓 KP 更优 → 首触由本仓发）的正文自相矛盾 → 按并档短语分流。
+        _hdr_ref = (row.get("Mikrotik仓库对照编号") or "").strip()
+        _hdr_via_mk = any("首触以 Mikrotik 仓库为准" in (row.get(k, "") or "") for k in ("备注", "Mikrotik仓库对照编号"))
+        if _hdr_ref.startswith(("—", "无")) or "无此户" in _hdr_ref:
+            # 「—（Mikrotik 仓无此户）」「无（… grep 0 行）→ 本仓首触」这类占位值 = 没有对照档案，不出横幅
+            L.append(f"> ℹ️ Mikrotik 仓库无同户（{_hdr_ref}）：首触由本仓发出。")
+        elif _hdr_via_mk:
+            L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {_hdr_ref}**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。")
+        elif grade == "C":
+            L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {_hdr_ref}**：C 级两仓均不首触，本档只保留对照与证据。")
+        else:
+            L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {_hdr_ref}**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。")
     L.append("")
     L.append("```yaml structured_profile")
     L.append(f"code: {code}\nrating: {grade}\ncountry: {row['国家']}\ntype: {row['类型']}\nplanet_models: {json.dumps(c.get('planet_models', []), ensure_ascii=False)}\n"

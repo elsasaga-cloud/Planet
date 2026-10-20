@@ -4,7 +4,7 @@
 >
 > **类型**：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）　|　**PLANET 关联**：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-259**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-259**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-045

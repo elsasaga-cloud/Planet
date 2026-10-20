@@ -4,7 +4,7 @@
 >
 > **类型**：分销商（捷克大型 IT 分销集团，PLANET 专站 planet-technology.cz；关联 i4wifi）　|　**PLANET 关联**：PLANET 捷克专站，全线在售　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 A-499; C-173**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 A-499; C-173**：C 级两仓均不首触，本档只保留对照与证据。
 
 ```yaml structured_profile
 code: PC-006

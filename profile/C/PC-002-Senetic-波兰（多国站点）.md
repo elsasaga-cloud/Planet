@@ -4,7 +4,7 @@
 >
 > **类型**：电商（大型 B2B IT 电商，多国站）　|　**PLANET 关联**：各国站点有 PLANET PoE 分类，库存 31–40 台级（senetic.be 抓取快照）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-053（Eptimo S.A.，Senetic Holding 子公司；非同一法人，仅作集团参照）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-053（Eptimo S.A.，Senetic Holding 子公司；非同一法人，仅作集团参照）**：C 级两仓均不首触，本档只保留对照与证据。
 
 ```yaml structured_profile
 code: PC-002

@@ -4,7 +4,7 @@
 >
 > **类型**：分销商（网络/数据通信分销，1986 年起；自有品牌 Direktronik 产品线；Lagercrantz Group 子公司）　|　**PLANET 关联**：在售 PLANET IPOE-470-12V 等；官网大量「Direktronik」自有品牌网络产品（贴牌来源待核）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 A-054**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 A-054**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PA-009

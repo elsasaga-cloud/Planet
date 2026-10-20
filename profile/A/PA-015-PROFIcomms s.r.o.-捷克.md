@@ -4,7 +4,7 @@
 >
 > **类型**：分销商（有源网络设备分销：企业/城域/电信网络与摄像系统；ComNet / Microsens / Transition Networks / Olycom / PLANET）　|　**PLANET 关联**：官网 PLANET 品牌页 + 产品页（IGS-801M、BSP-360）具名「product & sales manager – Planet Networks, ComNet, Microsens, Transition Networks, Olycom」David Matula matula@proficomms.cz　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 A-497**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 A-497**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PA-015

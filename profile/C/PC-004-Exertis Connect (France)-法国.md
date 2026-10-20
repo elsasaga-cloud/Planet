@@ -4,7 +4,7 @@
 >
 > **类型**：分销商（Exertis/DCC 集团法国网络批发）　|　**PLANET 关联**：批发目录含 PLANET IGS-801T 等　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-185**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-185**：C 级两仓均不首触，本档只保留对照与证据。
 
 ```yaml structured_profile
 code: PC-004

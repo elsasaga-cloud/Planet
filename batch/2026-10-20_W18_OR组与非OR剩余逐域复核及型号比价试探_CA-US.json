@@ -1,0 +1,948 @@
+{
+ "batch": "W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）",
+ "date": "2026-10-20",
+ "method": [
+  "矿脉 ①b 收官：把 W06 US/CA/TR OR 组剩余 34 个域名 + Mikrotik 池中从未探针过的「非 OR 剩余」36 个域名逐域重跑 `web_search site:<域名> planet switch`（depth 1，每次 8 个并行）；正 = 出现 PLANET 商品/品牌/类目页；弱 = 仅单 SKU 或清仓位；负 = 只出现其他品牌页；空 = 不可判",
+  "矿脉 ③ 试探（型号 + 价格反查）：用 PLANET 常销型号 + 价格/语言词（IGS-10020MT CAD / fiyat、GS-4210-24P4C prix、WGS-4215-8T2S add to cart）各搜 1 次，看结果里的零售商域名是否在主表；4 次 → 新户 1（telecomcreations.com）、已在主表 10、平台/巨头/区域外 8 → 结论：该矿脉精度高、成本低（1 查询 ≈ 10 零售商），W20 扩到 20–30 个型号",
+  "命中后：fetch 商品/类目/联系/关于页取证 → 本仓主表 + 全仓 grep 去重（spectra-austria.at / data-connect.com 为既有户分支 → 只补证不另立）→ Mikrotik 仓库同户判定（A-448 / A-538 → 并档，首触以 Mikrotik 仓库为准）→ Gmail 逐域 to:/from: 查重（solimedia.net 为 Elsa 群发 10 封无回复 → 非首触）→ 评级 / 对位 / 20% 档报价（scripts/common.price_line）",
+  "取证坑：solimedia.net 的 PLANET SKU URL 会静默 301 到 Grandstream 商品页 → 逐一比对 fetch 返回 URL；仅 /product/gsw-1600hp/（+ 关联 gsd-504）核实在线，其余 PLANET 价格以搜索快照 + pageAge 标注"
+ ],
+ "tools": "web_search（site: 探针 70 + 型号比价 4 + 确认 1 = 75）、fetch_page（solimedia.net ×8、itamtech.com ×1、telecomcreations.com ×4、data-connect.com ×1、spectra-austria.at ×1；共 14）、Gmail list_messages（逐域三组）、本地 Mikrotik 仓库副本读取、scripts/common.price_line 取价",
+ "queries": [
+  "web_search `site:<域名> planet switch`（depth 1，8 并行）× W06 US/CA/TR OR 组剩余 34 域（含 solimedia.net）→ 正 1：solimedia.net（GSW-1600HP 清仓在库 / IGS-801M 缺货 / 多 SKU 301 → Grandstream）→ PB-078（并档 A-448）；其余 31 负 + 2 空（indsol.com / solutionboxusa.com）",
+  "web_search `site:<域名> planet switch`（depth 1）× 非 OR 剩余 36 域（IT 4 / FR 4 / IE 1 / UK 3 / DK 4 / NO 1 / DE 3 / AT 4 / CH 3 / US 7 / TR 1 / 其他 1）→ 正 3：itamtech.com（PLANET 品牌页 7 款全部 In stock）→ PB-079（并档 A-538）；spectra-austria.at（Planet-Partner Distributor + 带价商品页）→ 已有 PB-001 补证；data-connect.com（Ethernet Switches 页「Planet Switches」类目）→ 已有 PB-046 补证；其余 31 负 + 2 空（nsr-tik.com / distrigoinc.com）；sewan.fr 为运营商不探",
+  "web_search 矿脉 ③ 试探（型号 + 价格反查）：`\"IGS-10020MT\" PLANET industrial switch CAD price Canada` → 13 结果：telecomcreations.com（新 → PB-080）、planet.neteon.net / bizsyscon / shop.bizsyscon / newegg / amazon.ca / ebay / digikey（bizsyscon 供货）/ fiber24 / geizhals / o5firesecurity（GH）→ 新 1、已在主表 3、平台/区域外 6",
+  "web_search `\"IGS-10020MT\" fiyat PLANET endüstriyel switch`（TR 价格反查）→ 9 结果均非土耳其：planet.neteon.net / planetechusa / bizsyscon / ebay / telecomcreations / newegg / geizhals / shop4power.nl / digitx.it → 土耳其零售价签不可见（TR 渠道不挂价）",
+  "web_search `\"GS-4210-24P4C\" PLANET switch prix`（FR 价格反查）→ 12 结果：planetechusa / neteon / networkcamerastore / nassaunationalcable / bizsyscon / saratota.com（UK）/ shop4power.nl / amazon.fr / ebay / senetic.co.il / netwalkerstore.com（FR）/ fonex.pl → 全部已在主表或平台/巨头，无新户",
+  "web_search `\"WGS-4215-8T2S\" PLANET switch add to cart` → 10 结果：amazon / planetechusa / newegg ×2 / networkcamerastore / ebay ×2 / wisp.net.au（AU）/ senetic.co.uk / geizhals → 无新户",
+  "web_search `site:telecomcreations.com planet switch`（确认）→ GSW-4800 $474.32 / FSD-803 $27.10 / GS-4210-24T2S $247.07 / FGSW-2612PVM / IGS-801T / GSW-1602SF $294.62 / ISW-504PS $294.48 / SW-804 / ISW-504PT $264.54 全部 In Stock → PB-080",
+  "fetch_page solimedia.net：/product/gsw-1600hp/（正）、/contact/（正）、/faq/（404；前轮快照见「authorized distributor for Mikrotik / Grandstream / Optcore」→ 待补证）、/brand/planet/（404）、/product-category/data-switch/planet_industrial_switch/（404）、/product/gsd-1603/（301 → /product/gwn7802p-pro/）、/product/48-port-1g-base-t-4-port-1g-base-x-sfp-managed-switch/（301 → /product/gwn7806p/）",
+  "fetch_page itamtech.com/planet（正：7 Items 全在库 + 站头 Helpline / sales@）",
+  "fetch_page telecomcreations.com：/collections/planet（1187 products）、/pages/contact-us（855-805-8500 / info@）、/pages/about-us（since 1998 / 50,000 products / 新品 + 翻新 / all 50 states）、GS-4210-24T2S 商品页（In Stock $247.07）",
+  "fetch_page data-connect.com/ethernet_switches.htm（正：「Planet Switches」→ dceexpress.com/planet-technology/sgsw-24040hp/）；spectra-austria.at SGS-6341-24P4X 英文商品页（标题核对「28-port Managed Switch from PLANET」）",
+  "Gmail list_messages 逐域：solimedia.net → 12 条（Elsa 群发 10 封无回复）；itamtech.com → 0；telecomcreations.com → 0；data/gmail_已触达清单.csv grep → solimedia 10 行、其余 0",
+  "本地 Mikrotik 仓库副本（/tmp/mikrotik-info）读取 A-448 / A-538 / C-026 / C-149 行；本仓主表 + batch/docs/profile 全仓 grep 去重：itamtech / telecomcreations / spectra-austria 均未建档，neteon / bizsyscon / networkcamerastore / nassaunationalcable / saratota / shop4power / digitx / netwalkerstore / fonex / fiber24 已在主表"
+ ],
+ "customers": [
+  {
+   "_code": "PB-078",
+   "name": "Solimedia Technology Inc",
+   "short_name": "Solimedia",
+   "country": "加拿大",
+   "city": "Vancouver, BC（329-470 Granville Street, V6C 1V5）",
+   "website": "solimedia.net",
+   "type": "分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）",
+   "signal": "solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204.08 CAD Out of stock（2025-10）、GSW-1601 / GSW-2401 / GS-4210-8P2S；但 /brand/planet/ 与工业类目 404，/product/gsd-1603/ 与 48 口管理款商品页 301 → Grandstream GWN7802P-Pro / GWN7806P → PLANET 线正被 Grandstream 替换",
+   "own_brand": "否",
+   "angle": "PLANET 退出中：商用款换成 Grandstream GWN，但 Grandstream 无工业 DIN 线，而其 PLANET 工业款 IGS-801M 已 Out of stock、工业类目下线 → 工业 DIN（管理 / PoE）出现空位；Saga STI 线以中性包装 EXW 补这个空位，不与 MikroTik / Grandstream 正面竞争",
+   "p1": "STI-288GPM",
+   "p1_reason": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封",
+   "pitch": "We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant DC, managed and PoE options) in neutral packaging at EXW prices — a slot your current line-up leaves open once the PLANET industrial units are gone, and one that MikroTik and Grandstream do not cover. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销/网店 → 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 工业款缺货 + 工业类目下线、商用款已被 Grandstream 替换 → 工业 DIN 槽位真实空缺，但 PLANET 退出也说明其对该副线投入收缩；触达：sales@solimedia.net + 两部电话公开（Contact 页），无具名 KP；体量：温哥华单店分销，可赢；Gmail：Elsa 账号 2025-04-05 → 2026-09-08 已向 sales@solimedia.net 群发 10 封、0 回复 → 非首触、通用群发通道已疲劳；Mikrotik 仓 A-448 人工定级 A（R53 升级）→ 并档、首触以 Mikrotik 仓库为准；本仓 B ★（PLANET 退出 + 群发 10 封无回应）",
+   "source": "W18 矿脉 ①b 收官（W06 US/CA/TR OR 组漏判域名逐域复核命中；Mikrotik A-448 同户）；solimedia.net 商品页 + Contact + FAQ",
+   "planet_models": [
+    "GSW-1600HP",
+    "GSD-504",
+    "GSD-1603",
+    "GS-4210-48T4S",
+    "IGS-801M",
+    "GSW-1601",
+    "GSW-2401",
+    "GS-4210-8P2S"
+   ],
+   "model_map": {
+    "GSW-1600HP": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "16×GE 802.3at PoE+ 非管理清仓款（$286.62 CAD）；Saga 商用线无 16 口 PoE，以 24×GE PoE+ 280W L2+（$134.5 EXW）向上对位，需说明"
+    },
+    "GSD-504": {
+     "saga": "—",
+     "note": "5×GE 桌面非管理：Saga 商用线无非管理型号，不硬凑"
+    },
+    "GSD-1603": {
+     "saga": "—",
+     "note": "16×GE 桌面非管理（商品页已 301 → Grandstream GWN7802P-Pro）：不硬凑"
+    },
+    "GS-4210-48T4S": {
+     "saga": "STC-448DGGM",
+     "note": "48×GE + 4×SFP L2+ 管理（CAD$593.14 快照；商品页已 301 → GWN7806P）vs Saga $236.8 EXW"
+    },
+    "IGS-801M": {
+     "saga": "STI-280GM",
+     "note": "工业 8×GE 管理 DIN（CAD$204.08 Out of stock）→ Saga 8×GE + 2×SFP 管理 $68.2 EXW"
+    },
+    "GSW-1601": {
+     "saga": "—",
+     "note": "16×GE 非管理：不硬凑"
+    },
+    "GSW-2401": {
+     "saga": "—",
+     "note": "24×GE 非管理：不硬凑"
+    },
+    "GS-4210-8P2S": {
+     "saga": "STC-28DGGPM",
+     "note": "8×GE PoE+ + 2×SFP 管理（2022 快照）→ Saga $80.7 EXW"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Sales）",
+     "role": "sales",
+     "email": "sales@solimedia.net",
+     "phone": "+1 604 568 9797 / +1 604 336 7000",
+     "status": "公开（Contact 页）；Elsa 账号已群发 10 封无回复 → 通道疲劳，Mikrotik 侧首触建议换具名入口或先电话",
+     "source": "https://solimedia.net/contact/"
+    },
+    {
+     "name": "—（Support）",
+     "role": "support",
+     "email": "support@solimedia.net",
+     "phone": "",
+     "status": "公开（Contact 页）；不作销售首触",
+     "source": "https://solimedia.net/contact/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET GSW-1600HP 在库、归入清仓类目",
+     "quote": "16-Port 1G 802.3at PoE+ Ethernet Switch $286.62CAD + same day shipping … PLANET GSW-1600HP … Availability: In stock … SKU: GSW-1600HP Category: Deals & Bargains",
+     "url": "https://solimedia.net/product/gsw-1600hp/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "同页关联商品 PLANET GSD-504 带价",
+     "quote": "Planet GSD-504 … 5-Port Gigabit Ethernet Switch $28.95CAD",
+     "url": "https://solimedia.net/product/gsw-1600hp/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "联系方式与地址",
+     "quote": "+1 604 336 7000 / +1 604 568 9797 … sales@solimedia.net … support@solimedia.net … 329-470 Granville Street, Vancouver BC V6C1V5",
+     "url": "https://solimedia.net/contact/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "PLANET 工业款 IGS-801M 缺货",
+     "quote": "8 Port Gig Managed Industrial Switch … PLANET IGS-801M … $204.08CAD … Out of stock",
+     "url": "https://solimedia.net/product/8-port-gig-managed-industrial-switch/",
+     "date": "2026-10-20（搜索快照 pageAge 2025-10-27）"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "PLANET GS-4210-48T4S 曾带价在售；2026-10-20 直接访问该 URL 已 301 → /product/gwn7806p/（Grandstream）",
+     "quote": "48-Port 1G Base-T + 4 Port 1G Base-X SFP Managed Switch … GS-4210-48T4S … CAD$593.14",
+     "url": "https://solimedia.net/product/48-port-1g-base-t-4-port-1g-base-x-sfp-managed-switch/",
+     "date": "2026-10-20（搜索快照 pageAge 2025-04-09）"
+    },
+    {
+     "level": "官网",
+     "claim": "PLANET 品牌页已下线（工业类目 /product-category/data-switch/planet_industrial_switch/ 同为 404；/product/gsd-1603/ 301 → /product/gwn7802p-pro/）",
+     "quote": "404 Not Found",
+     "url": "https://solimedia.net/brand/planet/",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Solimedia Technology Inc（Mikrotik 仓 A-448 记法；BC 省注册情况未核）",
+    "地址": "329-470 Granville Street, Vancouver, BC V6C 1V5",
+    "体量": "单店分销（MikroTik / Grandstream / Optcore 授权），人数/营收未公开",
+    "渠道身份": "MikroTik 官方分销商（Mikrotik 仓 A-448 记法）；另售 Grandstream / Optcore；PLANET 为历史副线、现清仓并被 Grandstream GWN 替换（FAQ 页「authorized distributor for Mikrotik / Grandstream / Optcore」为前轮快照，/faq/ 现 404 → 待补证）"
+   },
+   "who": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换",
+   "hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot.",
+   "first_question": "Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?",
+   "subject": "Industrial DIN-rail PoE switch for the slot PLANET leaves open (IGS-801M class), EXW",
+   "biggest_unknown": "PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
+   "alts": [
+    {
+     "model": "STI-280GM",
+     "scene": "工业 8×GE + 2×SFP 管理 DIN（对位 IGS-801M 缺货位）",
+     "reason": "第二封，非 PoE 位"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8×GE PoE+ + 2×SFP 管理（对位 GS-4210-8P2S）",
+     "reason": "商用小 PoE 位"
+    },
+    {
+     "model": "STC-448DGGM",
+     "scene": "48×GE + 4×SFP L2+（对位已下线 GS-4210-48T4S）",
+     "reason": "商用机柜侧，仅在对方主动问时"
+    }
+   ],
+   "qual": "技术上合格 / 商业上弱（PLANET 退出 + 群发疲劳；仅作 Mikrotik 侧首触的 PLANET 补充论据）",
+   "boundary": "并档：本仓不发；不与 MikroTik / Grandstream 正面比价（其主业）；只补工业 DIN 空位；不卖 AP / 路由 / 光模块（Optcore 线）；UL/CSA 要求出现 → 如实说明无 UL 并退出",
+   "mikrotik_ref": "A-448（Mikrotik 侧人工定级 A，R53 由 B-073 升级；首推 STI-488XGGPM；状态「未触达」）→ 首触以 Mikrotik 仓库为准，本仓不重复发；本仓新增：PLANET 退出 / 工业空位论据 + Gmail 已群发 10 封无回复事实 → 建议 Mikrotik 仓 A-448 状态改「已触达（Elsa 群发 ×10，无回复）」并换入口（跨仓需用户手工，Q-21 同类）",
+   "notes": "加拿大第 8 户。W06 US/CA/TR OR 组曾判负 → W18 逐域复核命中（假阴性）。Elsa 账号群发 10 封（2025-04-05「Marvell Alleycat5 Solution」→ 2026-09-08「24 Port PoE Managed Switch」）全部无回复；同线程仅 westwardsales.com / eminnovate.com 等其他收件人回复。取证坑：PLANET SKU URL 会静默 301 到 Grandstream 页，已逐一比对返回 URL。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"solimedia.net\" → 12 条命中：Elsa 发往 sales@solimedia.net 10 封（2025-04-05 / 04-29 / 05-29 / 06-29 / 07-29 / 08-29 / 10-12 / 11-19、2026-04-30 / 09-08），0 封来自 solimedia.net（另 2 条为同群发线程内他人回复）；data/gmail_已触达清单.csv 同记 10 行 → 非首触",
+   "steps": [
+    {
+     "title": "PLANET 侧预案（并档，不从本仓发）",
+     "push": "STI-288GPM",
+     "angle": "PLANET 清仓 / IGS-801M 缺货 / Grandstream 无工业线 → 工业 DIN 空位；EXW 中性包装",
+     "question": "Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?",
+     "action": "把上述三点并入 Mikrotik 仓 A-448 首触稿；sales@ 已群发 10 封无回复 → 建议先电话 +1 604 568 9797 或 LinkedIn 找具名采购，再发一次"
+    },
+    {
+     "title": "样机",
+     "push": "STI-288GPM",
+     "angle": "1 台到温哥华比对",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "Mikrotik 侧两封无回应 → 两仓同步标 PASS"
+    }
+   ],
+   "swot": {
+    "S": "公开邮箱 + 两部电话；单店决策快；工业槽位明确空缺",
+    "W": "PLANET 退出可能意味着交换机副线收缩；群发 10 封无回复（疲劳/黑名单风险）；无具名 KP",
+    "O": "Grandstream 无工业 DIN、MikroTik 工业线弱 → 工业 PoE 补位",
+    "T": "直接改推 MikroTik CRS/netPower；Grandstream 推出工业款；加拿大项目 UL/CSA 要求（Saga 无 UL）"
+   }
+  },
+  {
+   "_code": "PB-079",
+   "name": "Interamerican Tech Corp (ItamTech)",
+   "short_name": "ItamTech",
+   "country": "美国",
+   "city": "Miami, FL",
+   "website": "itamtech.com",
+   "type": "分销/网店（MikroTik 官方分销；网络/安防/VoIP 分销商，面向美国与拉美；PLANET 品牌页在售 7 款：3 台交换机 + 4 件 PoE 注入器/延长器）",
+   "signal": "itamtech.com/planet 品牌页（7 Items，全部 In stock）：GSW-1601 Special Price $94.24（Regular $99.20）、IGS-504HPT $395.00、IGS-5225-4UP1T2S Special Price $651.13（Regular $685.40）、POE-151 $30.00、POE-163 $39.14、POE-173 $64.00、POE-E304 $85.50（TAA Compliant）",
+   "own_brand": "否",
+   "angle": "MikroTik 分销商的 PLANET 副线集中在工业 PoE（IGS-504HPT 4×GE PoE+ 非管理 $395、IGS-5225-4UP1T2S 4×PoE++ L2+ $651）与 PoE 注入器 → 同口型 Saga 工业款价差极大（STI-054GP $31.2 / STI-244DGGPM-2BT $147.1 EXW），可作其拉美项目的中性包装第二线",
+   "p1": "STI-054GP",
+   "p1_reason": "其 PLANET 页在库交换机中 IGS-504HPT（工业 4×GE PoE+ + 1×GE 上联、非管理、$395）与 Saga STI-054GP 口型完全一致、价差 12×；IGS-5225-4UP1T2S（4×bt PoE++ + 1T + 2 SFP L2+，$651.13）由 STI-244DGGPM-2BT（$147.1）第二封对位",
+   "pitch": "We make Marvell-based industrial DIN-rail PoE switches (IP30 metal, -40~75 °C, redundant DC; unmanaged and L2+ managed, 802.3at/bt options) in neutral packaging at EXW — the same slots as the IGS-504HPT / IGS-5225-4UP1T2S class you list, at a fraction of the price. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销/网店 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 品牌页 7 款全部 In stock、工业 PoE 两款有价 → 槽位真实；触达：sales@itamtech.com + 305.639.2524 公开（站头 Helpline），无具名 KP；体量：迈阿密单店分销（美国 + 拉美），可赢；Mikrotik 仓 A-538 人工定级 A（R53 升级）→ 并档、首触以 Mikrotik 仓库为准；Gmail 0 命中；本仓 B ★★（证据强、首触归 Mikrotik 侧）",
+   "source": "W18 非 OR 剩余逐域复核命中（Mikrotik A-538 同户）；itamtech.com/planet 品牌页 + 商品页",
+   "planet_models": [
+    "GSW-1601",
+    "IGS-504HPT",
+    "IGS-5225-4UP1T2S",
+    "POE-151",
+    "POE-163",
+    "POE-173",
+    "POE-E304"
+   ],
+   "model_map": {
+    "GSW-1601": {
+     "saga": "—",
+     "note": "16×GE 桌面非管理（$94.24）：Saga 商用线无非管理型号，不硬凑"
+    },
+    "IGS-504HPT": {
+     "saga": "STI-054GP",
+     "note": "工业 4×GE 802.3at PoE + 1×GE 上联、非管理 DIN，同口型（$395 vs Saga $31.2 EXW）"
+    },
+    "IGS-5225-4UP1T2S": {
+     "saga": "STI-244DGGPM-2BT",
+     "note": "工业 L2+ 4×GE PoE（Saga 1–2 口 bt 60–90W）+ 2×SFP 管理（$651.13 vs $147.1）；PLANET 另带 1×T 上联、Saga 以 2×SFP 对位，需说明"
+    },
+    "POE-151": {
+     "saga": "—",
+     "note": "PoE 注入器：Saga 无"
+    },
+    "POE-163": {
+     "saga": "—",
+     "note": "PoE 注入器：Saga 无"
+    },
+    "POE-173": {
+     "saga": "—",
+     "note": "PoE 注入器：Saga 无"
+    },
+    "POE-E304": {
+     "saga": "—",
+     "note": "PoE 延长器：Saga 无"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Sales）",
+     "role": "sales",
+     "email": "sales@itamtech.com",
+     "phone": "+1 305 639 2524",
+     "status": "公开（站头 Helpline + mailto；Mikrotik 仓 A-538 同入口）",
+     "source": "https://itamtech.com/planet"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET 品牌页 7 款全部在库、带价",
+     "quote": "PLANET … 7 Items … Planet GSW-1601 Switch (16) 10/100/1000 RJ45 Ports Special Price$94.24Regular Price$99.20 … SKU: GSW-1601 In stock … Planet IGS-504HPT Switch Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 10/100/1000T $395.00 … SKU: IGS-504HPT In stock … Planet IGS-5225-4UP1T2S Switch Industrial L2+ 4-Port 10/100/1000T 802.3bt PoE SFP Special Price$651.13Regular Price$685.40 … In stock … POE-151 … $30.00 … POE-163 … $39.14 … POE-173 … $64.00 … POE-E304 … $85.50 … In stock",
+     "url": "https://itamtech.com/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "联系方式（站头）",
+     "quote": "Helpline: 305.639.2524 … sales@itamtech.com",
+     "url": "https://itamtech.com/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-5225-4UP1T2S 商品页在库",
+     "quote": "Planet IGS-5225-4UP1T2S Switch Industrial L2+ 4-Port 10/100/1000T 802.3bt PoE SFP PLANET Special Price $651.13 Regular Price $685.40 Availability: In stock SKU IGS-5225-4UP1T2S Brand: PLANET",
+     "url": "https://itamtech.com/planet-igs-5225-4up1t2s-switch-managed-industrial-l2-4-port-10-100-1000t-802-3bt-poe-sfp.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-504HPT 商品页在库",
+     "quote": "Planet IGS-504HPT Switch Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 10/100/1000T PLANET $395.00 Availability: In stock SKU IGS-504HPT Brand: PLANET",
+     "url": "https://itamtech.com/planet-igs-504hpt-switch-industrial-4-port-10-100-1000t-802-3at-poe-1-port-10-100-1000t.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-538 行：公司名 / 城市 / 类型 / 入口 / 人工定级",
+     "quote": "Interamerican Tech Corp. … 美国 … FL … itamtech.com … 分销（MikroTik 官方） … +1 305 639 2524 / sales@itamtech.com … 人工定级 A（R53 B段复筛达标升级，原 B-353）",
+     "url": "https://itamtech.com/",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Interamerican Tech Corp.（Mikrotik 仓 A-538 记法；佛州注册情况未核）",
+    "地址": "Miami, FL（街道地址未在已取页面出现，待补证）",
+    "体量": "单店分销，人数/营收未公开",
+    "渠道身份": "MikroTik 官方分销（Mikrotik 仓记法）；网络/安防/VoIP 分销，面向美国与拉美；PLANET 为副线（7 款）"
+   },
+   "who": "迈阿密一家面向美国与拉美的 MikroTik 官方分销网店，PLANET 副线集中在工业 PoE 交换机与 PoE 注入器",
+   "hook": "Your PLANET shelf is industrial PoE — the IGS-504HPT at $395 and the IGS-5225-4UP1T2S at $651; the same port layouts exist as neutral-packed Marvell-based units at EXW prices your LatAm projects can absorb.",
+   "first_question": "For the industrial 4-port PoE DIN-rail class (IGS-504HPT / IGS-5225-4UP1T2S), is your demand mostly unmanaged or L2+ managed — so I send the right sample first?",
+   "subject": "Industrial 4-port PoE DIN-rail switches (IGS-504HPT class), EXW",
+   "biggest_unknown": "工业 PoE 年量与主要去向（美国本土 or 拉美）；是否需要 UL / NOM；具名采购 KP；与 Planet Technology USA 的进货关系",
+   "alts": [
+    {
+     "model": "STI-244DGGPM-2BT",
+     "scene": "工业 L2+ 4×GE PoE（bt）+ 2×SFP（对位 IGS-5225-4UP1T2S $651.13）",
+     "reason": "第二封，管理型位"
+    },
+    {
+     "model": "STI-144GP",
+     "scene": "工业 4×GE PoE + 1×SFP 上联非管理（$34.1）",
+     "reason": "若其上联偏光口"
+    },
+    {
+     "model": "STI-288GPM",
+     "scene": "工业 8×GE PoE+ + 2×SFP 管理（$78.9）",
+     "reason": "工业 PoE 主量款"
+    }
+   ],
+   "qual": "技术上合格 / 商业上可行（并档：PLANET 侧论据供 Mikrotik 首触）",
+   "boundary": "并档：本仓不发；不卖 PoE 注入器/延长器、AP、VoIP；不与 MikroTik 商用线正面比价；UL 需求出现 → 如实说明无 UL",
+   "mikrotik_ref": "A-538（Mikrotik 侧人工定级 A，R53 由 B-353 升级；首推 STC-48DGGM-U；状态「未触达」）→ 首触以 Mikrotik 仓库为准，本仓不重复发；本仓新增：PLANET 工业 PoE 两款有价在库 → 建议 Mikrotik 侧首触第一问改为工业 4×PoE DIN（IGS-504HPT 位）而非商用 48 口（Q-04 同类，跨仓需用户手工）",
+   "notes": "美国第 15 户。「非 OR 剩余」域名逐域复核命中。PLANET 页 7 款含 3 台交换机 + 4 件 PoE 配件；IGS-504HPT $395 vs STI-054GP $31.2 是本轮最大价差对位。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"itamtech.com\" → 0 条（complete:true，含 spam/trash）；data/gmail_已触达清单.csv 0 行",
+   "steps": [
+    {
+     "title": "PLANET 侧预案（并档，不从本仓发）",
+     "push": "STI-054GP",
+     "angle": "工业 4×GE PoE+ + 1×GE 非管理 DIN vs IGS-504HPT $395；中性包装 EXW",
+     "question": "For the industrial 4-port PoE DIN-rail class (IGS-504HPT / IGS-5225-4UP1T2S), is your demand mostly unmanaged or L2+ managed — so I send the right sample first?",
+     "action": "把「PLANET 工业 PoE 两款在库有价」并入 Mikrotik 仓 A-538 首触稿第一问（替换商用 48 口切入）"
+    },
+    {
+     "title": "样机",
+     "push": "STI-054GP",
+     "angle": "1 台到迈阿密比对；若其答「managed」则改寄 STI-244DGGPM-2BT",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "Mikrotik 侧两封无回应 → 两仓同步标 PASS"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 工业 PoE 在库有价、价差 12×；公开邮箱 + 电话；单店决策快",
+    "W": "无具名 KP；PLANET 仅 7 款（副线）；美国/拉美项目可能要 UL / NOM",
+    "O": "拉美项目价格敏感 → 中性包装工业 PoE；PoE 注入器客群可带出 PoE 交换机需求",
+    "T": "MikroTik 自家 PoE 款；Planet Technology USA 渠道价格压制；TAA 采购项目（Saga 非 TAA）"
+   }
+  },
+  {
+   "_code": "PB-080",
+   "name": "Telecom Creations",
+   "short_name": "Telecom Creations",
+   "country": "美国",
+   "city": "待补证（About 页「fast shipping to all 50 states」，未公布城市）",
+   "website": "telecomcreations.com",
+   "type": "通信设备电商（1998 年起；近 50,000 件新品 / 原厂翻新 / 翻新通信产品：NEC / Mitel 话机、Adtran、Valcom、Bogen、ICC、Klein / Greenlee 工具；PLANET 专区 1 187 件挂售「NEW IN THE BOX」）",
+   "signal": "telecomcreations.com/collections/planet：「Showing 1 to 24 of 1187 products」；GS-4210-24T2S（Stock# PN-GS-4210-24T2S）In Stock $247.07、GSW-4800 In Stock $474.32、IGS-10020MT In Stock $454.96、GSW-1602SF In Stock $294.62、ISW-504PS In Stock $294.48、ISW-504PT $264.54（原 $402.38）、FSD-803 In Stock $27.10、FGSW-2612PVM、IGS-801T、SW-804；商品页 published_at 2018-05、vendor-unknown → 多为 PLANET 老款、疑为分销目录 feed",
+   "own_brand": "否",
+   "angle": "全目录挂售型电商（PLANET 1 187 件、含大量停产老款）：对「有人问、无货源」的老款 PLANET 槽位最敏感 → Saga 以 24×GE + 4×SFP L2+（STC-424DGGM $82.5 vs GS-4210-24T2S $247.07）和工业 8×GE 管理（STI-280GM $68.2 vs IGS-10020MT $454.96）做补位；不碰话机 / 工具主业",
+   "p1": "STC-424DGGM",
+   "p1_reason": "其 PLANET 区 Best Selling 前列的 GS-4210-24T2S（24×GE + 2×SFP L2/L4 管理，$247.07）与 Saga STC-424DGGM（24×GE + 4×SFP L2+，$82.5 EXW）同槽且价差最大；工业位 IGS-10020MT（$454.96）由 STI-280GM 第二封",
+   "pitch": "We supply Marvell-based managed Ethernet switches — 24-port gigabit L2+ with SFP uplinks, plus industrial DIN-rail units — in neutral packaging at EXW prices, for the PLANET slots in your catalogue where the original part is discontinued or over budget. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "电商/分销 → 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 专区 1 187 件、多款 In Stock 有价 → 在卖事实成立，但商品页 2018 年建、含大量停产老款、「In Stock」疑为目录 feed → 槽位真实性打折；触达：info@telecomcreations.com + 855-805-8500 公开（Contact 页），无具名 KP、无城市；体量：近 50,000 SKU 的通信电商（新品 + 翻新），可赢（小单 / 补位）；Mikrotik 仓无此户；Gmail 0 命中 → B ★",
+   "source": "W18 矿脉 ③ 试探（型号 + 价格反查「IGS-10020MT」）命中 → site: 探针确认；telecomcreations.com PLANET 专区 + 商品页 + About + Contact",
+   "planet_models": [
+    "GS-4210-24T2S",
+    "GSW-4800",
+    "IGS-10020MT",
+    "GSW-1602SF",
+    "ISW-504PS",
+    "ISW-504PT",
+    "FSD-803",
+    "FGSW-2612PVM",
+    "IGS-801T",
+    "SW-804"
+   ],
+   "model_map": {
+    "GS-4210-24T2S": {
+     "saga": "STC-424DGGM",
+     "note": "24×GE + 2×SFP L2/L4 管理（$247.07）→ Saga 24×GE + 4×SFP L2+ $82.5 EXW"
+    },
+    "GSW-4800": {
+     "saga": "—",
+     "note": "48×GE 非管理（$474.32）：Saga 商用线无非管理型号，不硬凑"
+    },
+    "IGS-10020MT": {
+     "saga": "STI-280GM",
+     "note": "工业 8×GE + 2×SFP 管理 DIN，同口型（$454.96 vs $68.2 EXW）"
+    },
+    "GSW-1602SF": {
+     "saga": "—",
+     "note": "16×GE + 2×SFP Web-Smart 老款：Saga 无 16 口商用，不硬凑"
+    },
+    "ISW-504PS": {
+     "saga": "STI-054FP",
+     "note": "工业 4×FE PoE + 1×FE 上联（$294.48）→ Saga $29.1 EXW（非管理对位 Web-Smart，需说明）"
+    },
+    "ISW-504PT": {
+     "saga": "STI-054FP",
+     "note": "工业 4×FE PoE + 1×FE 非管理（$264.54）→ Saga $29.1 EXW，同口型"
+    },
+    "FSD-803": {
+     "saga": "—",
+     "note": "8×FE 桌面非管理：不硬凑"
+    },
+    "FGSW-2612PVM": {
+     "saga": "—",
+     "note": "12×FE PoE + 2×GE 管理老款：Saga 商用线为全千兆，不硬凑"
+    },
+    "IGS-801T": {
+     "saga": "STI-080GE",
+     "note": "工业 8×GE 非管理 DIN → Saga $31.4 EXW"
+    },
+    "SW-804": {
+     "saga": "—",
+     "note": "8×FE 塑壳：不硬凑"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Info）",
+     "role": "sales / info",
+     "email": "info@telecomcreations.com",
+     "phone": "855-805-8500",
+     "status": "公开（Contact 页）",
+     "source": "https://telecomcreations.com/pages/contact-us"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET 专区规模",
+     "quote": "Planet … Showing 1 to 24 of 1187 products",
+     "url": "https://telecomcreations.com/collections/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "GS-4210-24T2S 在库有价",
+     "quote": "Planet 24-Port Layer 2 Managed Gigabit Ethernet Switch W/2 SFP Interfaces, Stock# PN-GS-4210-24T2S … SKU:PN-GS-4210-24T2S Availability: In Stock $247.07 … NEW IN THE BOX",
+     "url": "https://telecomcreations.com/collections/planet/products/planet-24-port-layer-2-managed-gigabit-ethernet-switch-w-2-sfp-interfaces-stock-pn-gs-4210-24t2s",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-10020MT 在库有价",
+     "quote": "PLANET IGS-10020MT IP30 Industrial 8* 1000TP + 2* 100/1000F SFP Full Managed Ethernet Switch (-40 to 75 degree C), Stock# IGS-10020MT … Availability: In Stock $454.96",
+     "url": "https://telecomcreations.com/products/planet-igs-10020mt-ip30-industrial-8-1000tp-2-100-1000f-sfp-full-managed-ethernet-switch-40-to-75-degree-c-stock-igs-10020mt",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "GSW-4800 在库有价",
+     "quote": "Planet 48-Port 10/100/1000BASE-T Gigabit Ethernet Switch, Stock# PN-GSW-4800 … Availability: In Stock $474.32",
+     "url": "https://telecomcreations.com/collections/planet/products/planet-48-port-10-100-1000base-t-gigabit-ethernet-switch-stock-pn-gsw-4800",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "ISW-504PS / GSW-1602SF / FSD-803 在库有价；ISW-504PT 促销",
+     "quote": "PLANET ISW-504PS … Availability: In Stock $294.48 … PLANET GSW-1602SF … In Stock $294.62 … PLANET FSD-803 … In Stock $27.10 … PLANET ISW-504PT … In Stock $402.38 $264.54",
+     "url": "https://telecomcreations.com/collections/switch",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "联系方式",
+     "quote": "Call us: 855-805-8500 Email us: info@telecomcreations.com",
+     "url": "https://telecomcreations.com/pages/contact-us",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公司自述（年代 / 规模 / 新品 + 翻新 / 全美发货）",
+     "quote": "Telecom Creations has been servicing businesses with a huge selection of high quality communication products since 1998. … almost 50,000 products at steep discounts! … new, factory refurbished, standard refurbished, and specialty communications products. … fast shipping to all 50 states!",
+     "url": "https://telecomcreations.com/pages/about-us",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "商品页年代与来源标记（目录 feed 疑点）",
+     "quote": "\"published_at\":\"2018-05-02T04:37:35-04:00\" … \"vendor\":\"vendor-unknown\",\"type\":\"Planet\"",
+     "url": "https://telecomcreations.com/collections/planet",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Telecom Creations（法律全称 / 州别未公布；待补证）",
+    "地址": "美国（城市未公布；待补证）",
+    "体量": "近 50,000 SKU 通信电商（Shopify），人数 / 营收未公开",
+    "渠道身份": "通信设备电商（新品 + 翻新），PLANET 为其 1 187 件专区之一；主业 NEC / Mitel 话机与布线工具"
+   },
+   "who": "美国一家 1998 年起的通信设备电商（话机 / 布线工具为主，新品 + 翻新），PLANET 专区挂售 1 187 件、多为老款",
+   "hook": "Your PLANET section lists 1,187 parts, many of them discontinued; when a customer asks for a 24-port managed gigabit or an industrial 8-port DIN-rail unit you can no longer source, a neutral-packed Marvell-based equivalent at EXW keeps the order.",
+   "first_question": "When a PLANET part in your catalogue is discontinued or out of stock — the GS-4210-24T2S or IGS-10020MT class — do you substitute another brand today, or does the order drop?",
+   "subject": "Substitutes for discontinued PLANET switch slots (GS-4210-24T2S / IGS-10020MT class), EXW",
+   "biggest_unknown": "PLANET 1 187 件是真实库存还是分销目录 feed；所在城市与法律实体；交换机品类实际销量；其企业话机维护客群是否接受中性包装非品牌货",
+   "alts": [
+    {
+     "model": "STI-280GM",
+     "scene": "工业 8×GE + 2×SFP 管理 DIN（对位 IGS-10020MT $454.96）",
+     "reason": "第二封，工业位"
+    },
+    {
+     "model": "STI-080GE",
+     "scene": "工业 8×GE 非管理 DIN（对位 IGS-801T）",
+     "reason": "最低门槛"
+    },
+    {
+     "model": "STI-054FP",
+     "scene": "工业 4×FE PoE + 1 上联（对位 ISW-504PS / PT）",
+     "reason": "其在售两款工业 PoE 老款"
+    }
+   ],
+   "qual": "技术上合格 / 商业上存疑（目录 feed 型电商、话机主业；群发级）",
+   "boundary": "只报 EXW；不卖话机 / 工具 / 翻新；不卖非管理商用款（Saga 无）；如其要求 UL → 如实说明无 UL 并退出",
+   "mikrotik_ref": "—（Mikrotik 仓无此户）",
+   "notes": "美国第 16 户。来源为「型号 + 价格」反查（IGS-10020MT 查询结果），非 site: 探针 — 矿脉 ③ 首个新户。同一查询另见 planet.neteon.net / bizsyscon / networkcamerastore / nassaunationalcable / saratota / shop4power / digitx / netwalkerstore / fonex / fiber24 均已在主表（不重复建档）。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"telecomcreations.com\" → 0 条（complete:true，含 spam/trash）；data/gmail_已触达清单.csv 0 行",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STC-424DGGM",
+     "angle": "24×GE + 4×SFP L2+ vs GS-4210-24T2S $247.07；停产 / 缺货 PLANET 槽位补位；EXW 中性包装",
+     "question": "When a PLANET part in your catalogue is discontinued or out of stock — the GS-4210-24T2S or IGS-10020MT class — do you substitute another brand today, or does the order drop?",
+     "action": "发 info@telecomcreations.com；14 天无回应 → 第二封换 STI-280GM 对位 IGS-10020MT"
+    },
+    {
+     "title": "样机",
+     "push": "STC-424DGGM",
+     "angle": "1 台到其美国仓比对",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 标 PASS"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 专区体量大、老款停产位多；公开邮箱 + 免费电话；电商决策快",
+    "W": "疑为目录 feed、真实库存不明；无具名 KP、无城市；话机主业、交换机非核心",
+    "O": "停产老款（GSW-1602SF / FGSW-2612PVM / SW-804 类）的替代需求；企业话机客群的 PoE 交换机配套",
+    "T": "其客群习惯品牌原装 + 翻新低价；美国项目 UL / TAA 要求（Saga 无）"
+   }
+  },
+  {
+   "_code": "PB-001",
+   "name": "Spectra GmbH & Co. KG",
+   "country": "德国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "【W18 补证】奥地利分公司站 spectra-austria.at 自称 Planet-Partner Distributor（PLANET 促销存档页）",
+     "quote": "PLANET Brand … Spectra ist Ihr Planet-Partner Distributor!",
+     "url": "https://spectra-austria.at/cms/splash/archiv/kommunikation/aktion-planet-switches/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "【W18 补证】奥地利站 PLANET 商品页带价、有现货",
+     "quote": "SGS-6341-24P4X | 28-port Managed Switch from PLANET … € 700.00 … Stock: 1 … Manufacturer: PLANET",
+     "url": "https://spectra-austria.at/en/products/communication/ethernet-switches/sgs-6341-24p4x-28-port-managed-switch",
+     "date": "2026-10-20（页面标题经 fetch 核对；价格与库存为搜索快照）"
+    }
+   ],
+   "notes": "（W18 补证：奥地利分公司站 spectra-austria.at = Mikrotik 仓 C-149「Spectra GmbH (Niederlassung Österreich)」（+43 (0) 7240 20190），与 PB-001 同一集团 / 决策链，不另立户；搜索快照另见 ISW-500T € 66 / ISW-621TF € 76 / WGS-804HP € 140 / WGS-5225-8P2SV € 363 / IGS-5225-8P2S2X € 602 / IGS-6325-20S4C4X € 987（不含税；商品页 URL 未留存 → 待补证））"
+  },
+  {
+   "_code": "PB-046",
+   "name": "Data Connect Enterprise, Inc. (DSL-Warehouse / DCE Express)",
+   "country": "美国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "【W18 补证】主站 data-connect.com 交换机总览页把「Planet Switches」与 Juniper / Moxa / 自有工业款并列（链接指向 dceexpress.com/planet-technology/sgsw-24040hp/）",
+     "quote": "Data Connect Enterprise offers a full range of Standard and Hardened Ethernet Switches … Juniper Switches … Planet Switches … Moxa Industrial Managed Ethernet Switches Unmanaged Ethernet Switches … Data Connect Industrial Ethernet Switches … Please contact us 301-924-7400",
+     "url": "https://www.data-connect.com/ethernet_switches.htm",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W18 补证：data-connect.com / dsl-warehouse.com / dceexpress.com 三站同一户，PLANET 类目链接互通，不另立户；并档 A-270 不变）"
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  "W20 矿脉 ③ 扩面：PLANET 常销 20–30 个型号（IGS-10020PT / IGS-5225-8P2S2X / GS-4210-24P4C / GS-4210-48T4S / WGS-804HP / ISW-801T / IGS-801M / SGS-6341-24T4X / XGS-6350 系 …）× 价格词（price / prix / preis / cena / prezzo / precio / fiyat / pris）各 1 查询，结果域名批量对主表去重 → 预计每 10 查询 1–2 新户",
+  "W20 矿脉 ④：Mikrotik 池 327 个集成商域名（类型含 集成/SI）按国家分组逐域 `site:` 探针（US/CA 优先，其次 UK/FR/DE/IT/PL/CZ/TR）；从 /tmp/mikrotik-info CSV 重新导出（/tmp 可能已丢，需重 clone）",
+  "矿脉 ② 比价站反查 1 次试探：geizhals.de PLANET 型号页的「Angebote」商家列表（DE/AT）对主表去重",
+  "取证待补：PB-080 Telecom Creations 城市 / 法律实体；PB-079 ItamTech 街道地址；PB-001 奥地利站 ISW-500T 等 6 款商品页 URL；PB-078 solimedia 工业类目是否彻底下线（季度复查一次）",
+  "B ★★ 老化回查 ≤10 户/轮（W12 后未再跑）；PB-058 / 059 / 057 / PA-015 / PB-064 取证；PA-011 / PA-004 人工项；PB-062 复核；PB-071 SKU；PB-072 KP；softcom 体量（justice.cz）；planet-shop.gr ↔ intelcom.gr；ditecom ISW-801 品牌（PDF）；aplus PLANET 线状态；W16 二次核 5 户",
+  "跨仓建议（用户手工）：A-448 状态改「已触达（Elsa 群发 ×10 无回复）」；A-538 首触第一问改工业 4×PoE DIN；C-023 回升；A-351 下放"
+ ],
+ "skipped": [
+  {
+   "name": "4mimo.com（TR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → MikroTik / Ubiquiti / Cambium 等无线批发，无 PLANET"
+  },
+  {
+   "name": "airicom.com（FR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 无线/网络分销，探针只见其他品牌页"
+  },
+  {
+   "name": "cticonnect.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "digicomm.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 宽带/CATV 分销，无 PLANET"
+  },
+  {
+   "name": "fiseg.fi（FI，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 工业款为 Antaira，无 PLANET"
+  },
+  {
+   "name": "invictuswireless.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → WISP 无线分销，无 PLANET"
+  },
+  {
+   "name": "mahkesis.com（CA，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见 MikroTik/Ubiquiti，无 PLANET"
+  },
+  {
+   "name": "mbsiwav.com（CA，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → WISP 分销（Cambium/MikroTik），无 PLANET"
+  },
+  {
+   "name": "merpazar.com（TR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "miatlantic.com（UK，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "microcom.us（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "multilink.us（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → WISP 分销，无 PLANET"
+  },
+  {
+   "name": "networkdevicesinc.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → Cisco/HPE 二手为主，无 PLANET"
+  },
+  {
+   "name": "nodenetglobal.com（TR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "noriak-distri.com（FR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → MikroTik/Ubiquiti 分销，无 PLANET"
+  },
+  {
+   "name": "ntsdirect.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "optiteraglobal.ca（CA，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "paceintl.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 卫星/宽带分销，无 PLANET"
+  },
+  {
+   "name": "poyraznetwork.com（TR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → MikroTik 分销，无 PLANET"
+  },
+  {
+   "name": "roc-noc.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → MikroTik/Netonix 分销，无 PLANET"
+  },
+  {
+   "name": "ruggedscience.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 军规加固计算 → 守界（军工），且无 PLANET"
+  },
+  {
+   "name": "sekuritim.com（TR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 安防分销，无 PLANET"
+  },
+  {
+   "name": "telasys.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "vodanetsystems.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "vodenn.fr（FR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针只见其他品牌页，无 PLANET"
+  },
+  {
+   "name": "voicehost.co.uk（UK，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → VoIP 运营商，无 PLANET"
+  },
+  {
+   "name": "wifianten.com（TR，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 无线天线/MikroTik 网店，无 PLANET"
+  },
+  {
+   "name": "wirelessnetware.ca（CA，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → WISP 分销，无 PLANET"
+  },
+  {
+   "name": "wirmax.net（IT，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → WISP 分销，无 PLANET"
+  },
+  {
+   "name": "wispmax.com（—，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → WISP 分销，无 PLANET"
+  },
+  {
+   "name": "jpk-consulting.nl（NL，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → MikroTik 顾问/网店，无 PLANET"
+  },
+  {
+   "name": "indsol.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针结果为空，不可判（不再重探）"
+  },
+  {
+   "name": "solutionboxusa.com（US，W06 US/CA/TR OR 组剩余）",
+   "reason": "W18 逐域探针 `site:` planet switch → 探针结果为空，不可判（不再重探）"
+  },
+  {
+   "name": "digimax.it（IT，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ORing / Advantech / Mean Well 工业分销，无 PLANET"
+  },
+  {
+   "name": "goma.it（IT，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ORing / Interface Concept 工业分销，无 PLANET"
+  },
+  {
+   "name": "alidex.it（IT/ES，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ORing 分销，无 PLANET"
+  },
+  {
+   "name": "atecnica.it（IT，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 门禁/自动化，无 PLANET"
+  },
+  {
+   "name": "convergence.direct（FR，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Cisco / MikroTik / TP-Link / Zyxel / Aruba 网店，无 PLANET"
+  },
+  {
+   "name": "osmozis.com（FR，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 运营商（Passman 集团）自用 MikroTik，非渠道"
+  },
+  {
+   "name": "evdi.fr（FR，非 OR 剩余）",
+   "reason": "W18 逐域探针 → AMG Systems 分销，无 PLANET"
+  },
+  {
+   "name": "es-france.com（FR，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ORing 板卡/测试仪器分销，无 PLANET"
+  },
+  {
+   "name": "gcntech.ie（IE，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Ubiquiti / Tenda / MaxLink / MikroTik 分销，无 PLANET"
+  },
+  {
+   "name": "bluehelix.co.uk（UK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ComNet / D-Link / AMG 分销，无 PLANET"
+  },
+  {
+   "name": "transenduk.com（UK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ComNet 分销，无 PLANET"
+  },
+  {
+   "name": "amplicon.com（UK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Advantech / Moxa / Cisco / Hirschmann 工业巨头，无 PLANET → 巨头 + 无信号"
+  },
+  {
+   "name": "datalinkcom.net（US，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 与交换机渠道无关"
+  },
+  {
+   "name": "pumait.dk（DK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → MikroTik / Ubiquiti 网店，无 PLANET"
+  },
+  {
+   "name": "nextron.dk（DK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 服务器 / Cisco，无 PLANET"
+  },
+  {
+   "name": "dvisor.dk（DK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 通用 IT 网店（TP-Link / HPE），无 PLANET"
+  },
+  {
+   "name": "allnet.dk（DK，非 OR 剩余）",
+   "reason": "W18 逐域探针 → ALLNET 自有品牌 / Teltonika；「Planet」仅出现在 SFP 兼容列表 → 非信号"
+  },
+  {
+   "name": "hattelandtechnology.com（NO，非 OR 剩余）",
+   "reason": "W18 逐域探针 → HATTELAND 船用（贴牌 ORing，IEC 60945）→ 守界（船级）"
+  },
+  {
+   "name": "mikrotik-shop.de（DE，非 OR 剩余）",
+   "reason": "W18 逐域探针 → MikroTik 专营，无 PLANET"
+  },
+  {
+   "name": "nsr-tik.com（—，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 探针结果为空，不可判"
+  },
+  {
+   "name": "neunetia.de（DE，非 OR 剩余）",
+   "reason": "W18 逐域探针 → MikroTik / Aruba / Fortinet / Juniper 集成，无 PLANET"
+  },
+  {
+   "name": "alpenedv.at（AT，非 OR 剩余）",
+   "reason": "W18 逐域探针 → SI，MikroTik，无 PLANET"
+  },
+  {
+   "name": "qedv.at（AT，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Teltonika / MikroTik 网店，无 PLANET"
+  },
+  {
+   "name": "evonet.at（AT，非 OR 剩余）",
+   "reason": "W18 逐域探针 → MikroTik 分销，无 PLANET"
+  },
+  {
+   "name": "alltron.ch（CH，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Competec 集团巨头（Netgear / Zyxel），无 PLANET → 巨头"
+  },
+  {
+   "name": "engitech.ch（CH，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Teltonika / MikroTik，无 PLANET"
+  },
+  {
+   "name": "inovis-group.com（CH，非 OR 剩余）",
+   "reason": "W18 逐域探针 → MikroTik / Lantech 网店，无 PLANET"
+  },
+  {
+   "name": "altanet-corp.com（US/LatAm，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Tenda / Cudy / HPE 分销，无 PLANET"
+  },
+  {
+   "name": "bibaonline.com（US，非 OR 剩余）",
+   "reason": "W18 逐域探针 → TP-Link / MikroTik 网店，无 PLANET"
+  },
+  {
+   "name": "techatlantix.com（US，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Cisco / HPE / Dell 翻新，无 PLANET"
+  },
+  {
+   "name": "distrigoinc.com（US，非 OR 剩余）",
+   "reason": "W18 逐域探针 → 探针结果为空，不可判"
+  },
+  {
+   "name": "hexstar.com（US，非 OR 剩余）",
+   "reason": "W18 逐域探针 → MikroTik 专营网店，无 PLANET"
+  },
+  {
+   "name": "areskom.com.tr（TR，非 OR 剩余）",
+   "reason": "W18 逐域探针 → Westermo / Atop 工业分销（EN50155 / IEC 61850 / DNV 取向 → 守界），无 PLANET"
+  },
+  {
+   "name": "sewan.fr（FR，非 OR 剩余）",
+   "reason": "运营商，不探针（非渠道）"
+  },
+  {
+   "name": "amazon.com / amazon.ca / amazon.fr（型号比价反查副产物）",
+   "reason": "平台（PLANET 官方店 / 第三方），非渠道客户"
+  },
+  {
+   "name": "ebay.com / ebay.com.au（型号比价反查副产物）",
+   "reason": "平台二手/第三方卖家，非渠道客户"
+  },
+  {
+   "name": "newegg.com（PLANET BrandStore）（型号比价反查副产物）",
+   "reason": "平台，非渠道客户"
+  },
+  {
+   "name": "senetic.co.uk / senetic.co.il（型号比价反查副产物）",
+   "reason": "泛欧巨头电商（INH 巨头清单同类），不建档"
+  },
+  {
+   "name": "geizhals.de（型号比价反查副产物）",
+   "reason": "比价站（矿脉 ② 入口），非客户"
+  },
+  {
+   "name": "digikey.com（供货方 Business Systems Connection Inc）（型号比价反查副产物）",
+   "reason": "平台；供货方 bizsyscon 已在主表"
+  },
+  {
+   "name": "wisp.net.au（型号比价反查副产物）",
+   "reason": "澳大利亚 → 区域外"
+  },
+  {
+   "name": "o5firesecurity.com（型号比价反查副产物）",
+   "reason": "加纳 → 区域外"
+  },
+  {
+   "name": "planet.neteon.net / bizsyscon.com / networkcamerastore.com / nassaunationalcable.com / saratota.com / shop4power.nl / digitx.it / netwalkerstore.com / fonex.pl / fiber24.net（型号比价反查副产物）",
+   "reason": "均已在主表（型号比价反查再次命中，证据不重复录入）"
+  }
+ ]
+}

@@ -4,7 +4,7 @@
 >
 > **类型**：分销商/经销（2000 年起；21 个品牌直接授权经销 + 26 个伙伴品牌；B2B 报价与政府/免税渠道；CAGE 8EK20）　|　**PLANET 关联**：PTUSA 官方 Where-to-Buy「USA Resellers」列名：「PLATINUM MICRO – A partner carrying Versa products. Established in 2000」；Mikrotik 仓库 C-085 标「分销（PLANET 授权）」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-085**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-085**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-034

@@ -4,7 +4,7 @@
 >
 > **类型**：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）　|　**PLANET 关联**：官网 PLANET 专页（URL 自述 planet-technology-networking-communication-uk-distributor-planet-supplier）；工业 PoE 类目 Planet Technology Corp 20 款；首页主推 IPOE-175 / IGS-624HPT / IPOE-173S / BSP-360；Mikrotik 仓库 C-116 标「分销（PLANET 授权）」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-116**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-116**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-043

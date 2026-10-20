@@ -4,7 +4,7 @@
 >
 > **类型**：集成商/代理（结构化布线、电话系统、机柜、安防摄像/门禁、有源网络；约 20 个品牌；1996 年成立）　|　**PLANET 关联**：PLANET 产品经理具名直邮（官网联系页在列）；官网 PLANET 新闻页「KKV 用 PLANET switch 现货」；在售 GS-4210-24P4C；2018 年 securifocus 报道「Forgalmazó: Young B.T.S. Kft Gyártó: Planet Technology Corp.」（UNV 摄像机 + PLANET PoE 组合）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 A-233**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 A-233**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PA-011

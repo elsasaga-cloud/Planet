@@ -4,7 +4,7 @@
 >
 > **类型**：分销/电商 + ISP 网络工程服务（MikroTik Master Distributor；面向 WISP / 光纤 ISP / MSP 的网络工程、RouterOS 培训与设备商店；自有 PowerLink PoE 线）　|　**PLANET 关联**：linktechs.net 商店（productcart）PLANET 在售：GS-2240-24T4X $449.00、IGS-5225-20T4C2X $1,216.00、XGSW-28040 $772.00、GS-4210-8P2S $244.00（另见 Antaira 类 LNP-0802C-SFP）——商用 L2+ 万兆上联 + 工业 L2+/L3 两线　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-227（Mikrotik 侧 C「太难」挂起未触达 → 本仓首触不与「只触达一次」规则冲突；按 Q-05 通则由 Planet 仓首触）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-227（Mikrotik 侧 C「太难」挂起未触达 → 本仓首触不与「只触达一次」规则冲突；按 Q-05 通则由 Planet 仓首触）**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-064

@@ -4,7 +4,7 @@
 >
 > **类型**：增值分销商（Sirius S.p.A. 旗下品牌；网络、安防、电信、布线分销；2011 年起；51–200 人；都灵总部 + 7 个分部/门店）　|　**PLANET 关联**：官网「Brand distribuiti」与品牌页列 PLANET Technology（ORCA Networking 并列）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-028**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-028**：C 级两仓均不首触，本档只保留对照与证据。
 
 ```yaml structured_profile
 code: PC-009

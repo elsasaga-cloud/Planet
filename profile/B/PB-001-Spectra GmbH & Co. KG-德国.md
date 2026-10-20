@@ -4,7 +4,7 @@
 >
 > **类型**：工业自动化经销（工业 PC/网络 VAD）+ PLANET 官方分销（子站 planet.spectra.de）　|　**PLANET 关联**：自称 PLANET 官方分销商，运营 PLANET 专卖子站（LAN/PoE/路由/转换器/SFP），面向工业与基础设施　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-026; C-149**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-026; C-149**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-001
@@ -63,6 +63,12 @@ updated: 2026-10-20
 - **【官方自述】【W12 回查】PLANET 专站关于页在线，仍自称官方 PLANET 分销；联系方式未变**
   > Spectra is your official PLANET distributor and offers comprehensive support in selection, integration and long-term supply … Spectra GmbH & Co. KG, Mahdenstr. 3, 72768 Reutlingen … sales@spectra.de … +49 7121 1432-10
   > 来源：https://planet.spectra.de/en/about-us/planet（抓取 2026-10-20）
+- **【官网】【W18 补证】奥地利分公司站 spectra-austria.at 自称 Planet-Partner Distributor（PLANET 促销存档页）**
+  > PLANET Brand … Spectra ist Ihr Planet-Partner Distributor!
+  > 来源：https://spectra-austria.at/cms/splash/archiv/kommunikation/aktion-planet-switches/（抓取 2026-10-20）
+- **【官网】【W18 补证】奥地利站 PLANET 商品页带价、有现货**
+  > SGS-6341-24P4X | 28-port Managed Switch from PLANET … € 700.00 … Stock: 1 … Manufacturer: PLANET
+  > 来源：https://spectra-austria.at/en/products/communication/ethernet-switches/sgs-6341-24p4x-28-port-managed-switch（抓取 2026-10-20（页面标题经 fetch 核对；价格与库存为搜索快照））
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -187,4 +193,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*

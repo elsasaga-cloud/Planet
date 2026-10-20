@@ -4,7 +4,7 @@
 >
 > **类型**：增值分销商（VAD：数据通信/WAN/工业与加固通信设备；面向企业、政府、运营商；10–50 人、营收约 $4.6M）　|　**PLANET 关联**：PLANET 北美总代 Planet Technology USA 的「Where to Buy › USA Resellers」首位列名：「PULSE SUPPLY – A partner carrying Versa products」；Mikrotik 仓库 C-089 标「分销（PLANET 授权）」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-089**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-089**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PA-014

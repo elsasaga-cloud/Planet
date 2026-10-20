@@ -4,7 +4,7 @@
 >
 > **类型**：分销/电商（1997 年起布拉格综合 IT 电商 + 门店 + 自有仓/服务部；自述「více než 1 milion zákazníků / 3 miliony objednávek / 30 tisíc položek」、横幅「28 let na trhu」；Síťové prvky 类目含 PLANET 商用 + 工业交换机，自编码 NEPL0xx、Záruka 36 Měsíců；面向 Firmy / Státní organizace / Studenti）　|　**PLANET 关联**：softcom.cz 商品页：PLANET IGS-10020PT（Kód NEPL045，11 567.50 Kč bez DPH / 13 996.70 Kč s DPH，Záruka 36 Měsíců，Výrobce Planet）、ISW-504PT（NEPL047，4 584.50 Kč bez DPH）、ISW-500T（NEPL046，1 675.50 Kč bez DPH）、GS-4210-16T2S（NEPL041，4 284.50 Kč bez DPH）、FGSD-1022VHP（NEPL039，3 080.50 Kč bez DPH）；老款 FNSW-1601 / GSW-1601 与 8×PoE 802.3at 120W + 2×100TX 款仍在目录　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 无（Mikrotik 仓库主表 grep「softcom」0 行）→ 本仓首触**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ℹ️ Mikrotik 仓库无同户（无（Mikrotik 仓库主表 grep「softcom」0 行）→ 本仓首触）：首触由本仓发出。
 
 ```yaml structured_profile
 code: PB-075

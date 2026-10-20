@@ -4,7 +4,7 @@
 >
 > **类型**：分销/电商（个体经营 NASTAS APOSTOLOS，商号 PLANET SHOP – Networking & Communication；自称「Region Authorized Reseller」与「Το επίσημο Online Retail Shop της Planet στην Ελλάδα」；PLANET 专营网店：LAN 交换机 / PoE / 工业以太网 / 媒体转换 / 宽带 / WLAN / VoIP / 监控 / 家庭自动化）　|　**PLANET 关联**：planet-shop.gr 全站 PLANET：ISW-801T（In Stock，109.17 € / Ex Tax 88.04 €）、IGS-1020TF（249.88 € / Ex Tax 201.52 €）、GSD-1002M（In Stock，167.40 € / Ex Tax 135.00 €）、GSD-805 / FSD-803（26.91 €）/ FNSW-2401（In Stock）、FGSW-2624HPS4（In Stock，426.98 €）、XGS-6350-12X8TR（In Stock，1 300.36 €）、XGS-6350-24X4C（In Stock，2 493.96 €）、ISW-800T / MGSW-28240F（1 062.60 €）/ SGS-6341-24T4X（Out Of Stock）；首轮快照另见 GSW-1601、SGS-6341-16S8C4XR、GS-6311-48P6X、TSN-5225-4T、SGS-5240-24T4X；Mikrotik 侧另记 ITS-6326 / SGS-6310-48T6X / IGS-10020HPT　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ⚠️ **Mikrotik 仓库已有档案 C-023（Mikrotik 侧 C「B下放·无邮箱（群发触达不到）」，PLANET 经销商名录 2026-09；首推 STI-488XGGPM）→ 本仓补到公开邮箱 info@planet-shop.gr → 按 T06 ② 例外（本仓 KP 更优）首触由本仓发、仍只发一次；建议 Mikrotik 仓 C-023 回升 B 并标「首触以 Planet 仓库为准」（跨仓需用户手工，Q-06 同类）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+> ⚠️ **Mikrotik 仓库已有档案 C-023（Mikrotik 侧 C「B下放·无邮箱（群发触达不到）」，PLANET 经销商名录 2026-09；首推 STI-488XGGPM）→ 本仓补到公开邮箱 info@planet-shop.gr → 按 T06 ② 例外（本仓 KP 更优）首触由本仓发、仍只发一次；建议 Mikrotik 仓 C-023 回升 B 并标「首触以 Planet 仓库为准」（跨仓需用户手工，Q-06 同类）**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
 
 ```yaml structured_profile
 code: PB-076
