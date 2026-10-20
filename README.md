@@ -139,6 +139,7 @@
 | 型号索引 | `data/smartbyte_官网型号索引.csv` | 型号 / 标题 / 品类 / URL / 基型号归一匹配价格主表（起步 13 行，P1–P3 补齐 ≈220） |
 | 新闻与固件说明 | `docs/smartbyte/新闻与固件说明_2026-10-20.md` | 固件 5.x / 6.x / 7.0–7.3.x 全文照录、旧站公司简介、全站页头页脚（T15） |
 | 全站原样归档（T15） | `data/smartbyte_site_raw/`（运行 #2 已落 `ca98bc1`：仅清单 / 日志 / 状态，0 页成功）+ `scripts/smartbyte_crawl/`（crawl.py v2.1 + README） | 用户要求「所有信息」→ 整站 HTML / 规格书 / 图片归档器（Simon 于 edcef60 保存工作流）。**进度**：运行 #1 170 min 作业上限被杀、无产出 → v2 `fd5cbd0`（140 min 预算 + 断点续抓）→ 运行 #2 59 s「完成」但 sitemap / 首页均 HTTP 403（站点拒绝运行器；`complete=true` 为假）→ v2.1 `b303563`（开工探路：归档 UA → 浏览器 UA → Playwright 真浏览器；被封识别 `blocked` / `refused`；`access_diag.json` 记状态码 / 响应头 / 运行器 IP）→ 运行 #3 已触发。落地后 build.py 生成 `docs/smartbyte/products/` 每型号一页 |
+| 微信群聊 OCR（T21 发现，新源：SmartByte 直接沟通） | `data/wechat_smartbyte_ocr/`（逐图 .json / .txt + `_progress.log`）+ `scripts/wechat_ocr.py` / `scripts/wechat_transcript.py` | Simon 于 2026-10-20 08:40–08:49 UTC 经网页上传到 **main** 的 95 张微信长截图（`WeChat talk with smartbyte/` 87 张 + 根目录 8 张，≈200 MB；群聊「Peter hu、Anna (3)」= Simon 与 SmartByte 销售 Peter hu / Anna / Rot，起于 2023-12-25：型号资料、中性规格书、未税价（如 LT-S8528XG-4XS24GT 1500 未税）、bypass 定制、软件功能表等）。PNG 不并入工作分支（避免 200 MB 进补丁集），直接从 `.git` 的 origin/main 对象读取 → RapidOCR 切片识别（≈30 s / 张，后台运行中）→ 下轮 `wechat_transcript.py` 重建按时间排列的聊天稿（`docs/smartbyte/微信沟通记录_SmartByte_OCR重建.md`）并提取产品 / 价格 / 政策事实（OCR 稿须回看原图复核后方可引用） |
 
 ## Drive / Gmail 资料入库（T13 起）
 
