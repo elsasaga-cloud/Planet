@@ -1,0 +1,429 @@
+    20 Peter hu、 Anna (3)
+   110 2025-12-4 20:31
+   156 Anna
+   225 OSHRECONTROUT
+   382 Anna
+   887 2025-12-5 10:44
+   933 Anna
+   969 发货地址：广州市荔湾区杉木栏路156号首层联系人：May唐美青18890088162
+  1037 [Simon] 是的 外箱箱标贴了吧
+  1109 [Simon] Astel-Dubai
+  1123 [Simon] 04-2523470
+  1139 [Simon] 050-6520753
+  1143 [Simon] A4纸
+  1174 [Simon] Shipment to Dubai by Air
+  1231 2025-12-5 11:00
+  1279 Anna
+  1647 [Simon] 这个
+  1692 [Simon] Simon:
+  1777 [Simon] 要贴在外箱上 可能你们叫箱唛唛头啥的
+  1841 Anna
+  1873 会的
+  1935 Anna
+  1966 等等发
+  2040 [Simon] OK
+  2107 2025-12-5 11:38
+  2153 Anna
+  2317 Astel-Dubai
+  2337 04-2523470
+  2355 050-6520753
+  2386 Shipment to
+  2399 Dubai by Air
+  2519 [Simon] 发吧
+  2594 [Simon] 运费我支付 请加到下次的合同中
+  2653 Anna
+  2689 好
+  2755 2025-12-518:09
+  2803 Anna
+  2838 SF1548292505125
+  2902 2025-12-5 18:17
+  2958 [Simon] 好
+  3024 2025-12-9 20:52
+  3068 你撤回了一条消息
+  3110 你撤回了一条消息
+  3160 晚上好
+  3184 之前提过的那个Marvell生态的客户有回复了(谈的是Bypass型号)
+  3208 LT-IS6312XGP-4XS8GT-2BT-2FBP neutral datasheet
+  3257 Greate!
+  3278  Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash,
+  3306 memory ?)
+  3352 Sample:1640元，之前给我的价格册里的
+  3374 有Bulk price吗？比如50台100台的阶梯价还是就以1640元为准?
+  3423 关于Chipset
+  3446 就说是Marvell AC5 Series?
+  3470 PHY?
+  3493 Flash和Memory都是512MB?
+  3562 Bypass相关的规格书是年初去你们工厂时整理给我的 并没提到相关的HW info
+  3634 [Simon] 请看一下
+  3701 2025-12-9 21:00
+  3756 另外那个土耳其国防客户
+  3802 Could you please send your proposal for 3 units?
+  3828 I also have another question regarding multicast and IGMP support on your L3 switch. As I mentioned
+  3853 earlier, our customer requires IGMPv2, IGMPv3, and IPv4 Multicast (PIM-SM, PIM-DM).
+  3875 Just to confirm, you do not have any L3 switch that supports these features, correct?
+  3922 根据Software Function List 7.3, 7.4, 7.5 version
+  3946 PIM-SM, PIM-DM明确写了不支持，我之前也是查过，这个确实很麻烦，直接PASS
+  3969 IGMP v1, v2, v3只有一款芯片支持
+  3995 Marvell 98Dx2515/2518
+  4017 (AC5 Lite)
+  4042 Layer 2+
+  4087 但是在
+  4112 Marvell 98DX336S
+  4135 (PC3)
+  4159 Marvell 98DX2538
+  4183 (AC5+)
+  4207 Layer3管理列表中显示的是不支持
+  4267  Peter hu
+  4303 Simon,晚上好!
+  4352 关于价格100PCS以下价格都是1640RMB
+  4398 100以上1600RMB
+  4442 芯片信息跟升压机型一样，所有的AC5信息都写一样
+  4490 Simon:晚上好之前提过的那个Marvell生态的客户有
+  4509 回复了（谈的是Bypass型号）LT-IS6312XGP-4XS8...
+  4557  Peter hu
+  4594 我明天分享给你最新的Bypass规格书
+  4640 Simon:Bypass相关的规格书是年初去你们工厂时整理
+  4659 给我的并没提到相关的HWinfo
+  4709 2025-12-9 21:02
+  4766 [Simon] 这个PHY有数据吗
+  4810 [Simon] Peterhu:Simon,晚上好！关于价格100PCS以下价
+  4831 [Simon] 格都是1640RMB100以上1600RMB芯片信息跟升..
+  5015 [Simon] 土耳其这个我就直接和客户说 都不支持
+  5086 但和你们确认一下 你们这个function list里的Marvell 98DX2515/2518(AC5 Lite)
+  5154 这个咋都支持 感觉比L3的芯片还强悍了
+  5217 Peter hu
+  5252 IGMPV1,V2,V3和PIM-SMAC57.5版本会支持
+  5297 Simon:另外那个土耳其国防客户Couldyouplease
+  5319 send your proposal for 3 units? I also have anoth...
+  5363  Peter hu
+  5402 所以说AI信息只能作为参考
+  5447 Simon：但和你们确认一下你们这个functionlist里的
+  5466 Marvell98DX2515/2518(AC5Lite）这个咋都支持
+  5522 [Simon] 这是你们function list啊
+  5566 [Simon] Peterhu：所以说Al信息只能作为参考
+  5622 [Simon] 这个
+  5669 [Simon] Simon:
+  5753 [Simon] 那也就是
+  5800 [Simon] 1，后续会更新function list?
+  5848 [Simon] 2, IGMP V1, V2, V3 和PIM-SM AC5 7.5版本会支持
+  5872 [Simon] PIM-DM会支持吗?
+  5894 [Simon] 这里特别指L3 models
+  5956  Peter hu
+  5991 AC5的Layer3软件还没有，所以写不支持
+  6050 Peter hu
+  6088 暂时不要推AC5 L3
+  6149  Peter hu
+  6184 这个软件都没有
+  6245  Peter hu
+  6281 重点放在L2+上
+  6351 那我就和客户说在研发中就行了土耳其这个极大概率搞定了流程快走完了
+  6399 第一个PHY这个有信息吗？
+  6466 2025-12-9 21:07
+  6511 Peter hu
+  6546 可以在另一个群问下扫地僧
+  6615 [Simon] 好的
+  6681 2025-12-11 16:54
+  6736 [Simon] 下午好
+  6833 [Simon] Simon Hi ,
+  6845 [Simon] I will need a favour from you.
+  6875 [Simon] Since we still did not get the order for the
+  6887 [Simon] Turk Telekom project, Karen at NEM
+  6901 [Simon] Engineering needs her GBIC SFP modules
+  6914 [Simon] back.
+  6947 [Simon] Can you kindly send these units back to her ?
+  7024 [Simon] 请看一下这个 之前的模块还在吧
+  7093 [Simon] @Rot当时给你打电话的那个女孩子
+  7161 [Simon] Karen
+  7223 Anna
+  7259 已经安排等会寄回了哦
+  7332 [Simon] 好 谢谢 费用算我这 后续加合同里就行A
+  7394 Anna
+  7426 好的
+  7493 2025-12-15 16:14
+  7547 [Simon] 下午好
+  7623 [Simon] 采购合同
+  7644 [Simon] STSC20251212013.pdf
+  7655 [Simon] PDF
+  7677 [Simon] 275.6K
+  7713 [Simon] 微信电脑版
+  7773 [Simon] 箱标
+  7797 [Simon] STSC20251212013.docx
+  7806 [Simon] W
+  7828 [Simon] 14.5K
+  7864 [Simon] 微信电脑版
+  7925 [Simon] 工业管理说明书
+  7947 [Simon] STSC20251212013.pdf
+  7958 [Simon] PDF
+  7981 [Simon] 426.5K
+  8016 [Simon] 微信电脑版
+  8069 [Simon] 请安排生产
+  8142 1，模块及回去了吧?
+  8188 2，其他几个客户目前还没明确的回应 包括TT的订单 有消息了在群里说
+  8254 2025-12-15 16:14
+  8308 [Simon] 谢谢
+  8375 2025-12-15 16:20
+  8423 Anna
+  8456 好的
+  8518 Anna
+  8553 寄回去了
+  8620 2025-12-15 16:27
+  8674 [Simon] OK 谢谢
+  8741 2025-12-17 15:44
+  8788 Anna
+  8818 Industrial Switch
+  8826 YPERLINK
+  8846 Model:STI-42424DGGPM
+  8867 Ports: 24*10/100/1000MI RJ45 PoE + 4*1G/2.5G SFP
+  8889 Power input: DC 44-57V
+  8941 SN:20250215001
+  8962 IP Address: 192.168.56.166MAC: FC-CD-2F-D0-51-9F
+  8976 User name: admin
+  8979 Password: admin
+  9036 Anna
+  9280 Anna
+  9528 Anna
+  9561 @Simon 请确认
+  9661 [Simon] SN:20250215001
+  9700 [Simon] IPAddress:192.168.56.166
+  9700 [Simon] MAC:
+  9757 [Simon] 3个0
+  9828 [Simon] 其他的都OK
+  9899 [Simon] 可以发了是吧？出合同吧别忘记贴箱标
+  9968 [Simon] 1215
+ 10037 [Simon] 不是0215
+ 10108 [Simon] 请把上2个运费加进来
+ 10155 [Simon] Simon：可以发了是吧？出合同吧别忘记贴箱标
+ 10211 [Simon] 你们年度总结会何时开始？
+ 10275 2025-12-17 15:54
+ 10322  Peter hu
+ 10357 1月19
+ 10426 [Simon] 好
+ 10493 2025-12-17 16:20
+ 10540 Anna
+ 10572 Industrial Switch
+ 10582 IYPERLINK
+ 10598 Model:STI-42424DGGPM
+ 10619 Ports: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP
+ 10643 Power input: DC 44-57V
+ 10667 CE FC
+ 10692 SN: 202512150001
+ 10702 区
+ 10714 IPAdree 19216856.166 MAC: FC-CD-2F-D0-51-9F
+ 10731 User name: admin Password: admin
+ 10796 [Simon] OK 谢谢
+ 10864 2025-12-17 16:33
+ 10911 Anna
+ 11134 Anna
+ 11294 CE
+ 11360 Anna
+ 11582 Anna
+ 11838 Anna
+ 12060 Anna
+ 12294 [Simon] OK
+ 12359 Anna
+ 12392 请问今天发货吗
+ 12461 [Simon] 发
+ 12531 [Simon] 出合同吧
+ 12597 2025-12-17 16:37
+ 12600 2025-12-17 16:37
+ 12645 Anna
+ 12684 郑州仁戛通讯器材有限公司
+ 12708 P20251215-0...RMB).doc
+ 12717 W
+ 12739 27.0K
+ 12777 微信电脑版
+ 12831 [Simon] 广州市白云区白云湖街朗兴路7号,李慧,13416307791
+ 12919 [Simon] SEA2000-PERN
+ 12966 [Simon] SEA2000-PERN
+ 12989 [Simon] SEA2000-PERN
+ 13013 [Simon] SEA2000-PERN
+ 13035 [Simon] SEA2000-PERN
+ 13197 [Simon] 推荐使用微信支付
+ 13259 [Simon] 口
+ 13347 [Simon] #*8(*B)
+ 13419 [Simon] 微信支付
+ 13491 [Simon] 微信付这个可以吗？
+ 13551 Anna
+ 13586 可以
+ 13653 2025-12-17 16:43
+ 13783 [Simon] M8 (**8)
+ 13803 [Simon] ￥1925.00
+ 14035 Anna
+ 14069 好滴謝謝
+ 14134 2025-12-17 16:48
+ 14190 装箱单尺寸给我一下 我这做装箱单 箱标别忘记贴 发了单号给我一下 谢谢
+ 14252 Anna
+ 14287 H
+ 14348 Anna
+ 14459 SEA2000-PERN
+ 14494 SEA2000-PERN
+ 14599 Anna
+ 14857 [Simon] 山A
+ 14926 2025-12-17 17:02
+ 14969 "0 Anna" recalled a message
+ 15013 Anna
+ 15049 31*23.5*18.5CM2.5KG1箱
+ 15115 2025-12-17 17:09
+ 15163 Anna
+ 15199 SF1548292539041
+ 15262 2025-12-17 17:53
+ 15317 [Simon] 好谢谢
+ 15383 1/14 09:02
+ 15438 早上好
+ 15460 1，请安排生产
+ 15487 请一定注意这个订单，把控严格一些，这个客户非常有实力
+ 15512 1.1:能否用AC5芯片生产?
+ 15535 这会牵涉到后边的大货= 客户要搞他们自己的外壳
+ 15557 所以就是这个样品尽量为最终形态，尤其是物理层面的=孔位 PCB布局等
+ 15604 1.2:请按照安博会面谈时说的，样品老化5天再出货
+ 15630 保证不要出问题
+ 15676 2，TT订单已GG，在谈新的sales program了
+ 15724 3，是之前出货的加拿大客户
+ 15748 LT-IS6318GP- 2GX16GT
+ 15774 这个在2024年年底（也就是1年前）出了货，似乎是AC3版本的
+ 15797 可参考当时的合同
+ 15820 郑州三夏通讯器材有限公司P20241225-01（未税7684RMB）_已签章
+ 15844 当时订单中也出了另外一个型号，是AC5方案，8+4的
+ 15867 该客户在2025年8月份问了软件是否升级
+ 15892 当时发了下边的这个文件
+ 15916 ac5-hotfix-7.4.2.bin
+ 15939 整体客户比较满意
+ 15962 但是，客户是想问LT-IS6318GP-2GX16GT这个能否直接出AC5方案?
+ 15987 如果有现成方案，能否直接出？
+ 16010 这个客户是把板子集成到他的系统里，尽快出最新版本最强功能的板子
+ 16034 客户的推进越快，绑定也就越好
+ 16080 谢谢
+ 16156 [Simon] 采购合同
+ 16180 [Simon] _STAG20251224020.pdf
+ 16189 [Simon] PDF
+ 16211 [Simon] 428.1K
+ 16247 [Simon] 微信电脑版
+ 16308 [Simon] 工业管理说明书
+ 16332 [Simon] STAG20251224020.pdf
+ 16338 [Simon] PDF
+ 16361 [Simon] 569.4K
+ 16397 [Simon] 微信电脑版
+ 16444  Peter hu
+ 16480 LT-IS6312GP-4GX8GT-2BT，实际订单是这个型号？
+ 16541  Peter hu
+ 16577 这个可以出AC5
+ 16621 Peterhu:LT-IS6312GP-4GX8GT-2BT，实际订单是
+ 16642 这个型号？
+ 16689  Peter hu
+ 16723 LT-IS6318GP-2GX16GT，这个AC5应该还没有投产
+ 16784  Peter hu
+ 16820 样机是出来了
+ 16885 1/14 09:09
+ 16929 Peter hu
+ 16966 等客户下单LT-IS6318GP-2GX16GT这个型号的时候再去协调
+ 17037 [Simon] 是的 2层 2.5G光 2个BT
+ 17083 [Simon] Peterhu:LT-IS6312GP-4GX8GT-2BT，实际订单是
+ 17103 [Simon] 这个型号？
+ 17159 之前让做过一个合同一听还是AC3就没付款 我和客户说一下可以出=估计量下的也不会特别多
+ 17204 [Simon] Peterhu:等客户下单LT-IS6318GP-2GX16GT这个型
+ 17222 [Simon] 号的时候再去协调
+ 17347 1/14 09:16
+ 17393  Peter hu
+ 17428 确认这个型号现在也可以出AC5了，已经备了小批量原材料，100台以内都可以出
+ 17473 Peterhu:等客户下单LT-IS6318GP-2GX16GT这个型
+ 17494 号的时候再去协调
+ 17551 刚已经和客户说了看客户意思估计也就10台左右有消息了我在群里说
+ 17614 1/1409:17
+ 17661 Peter hu
+ 17696 好的
+ 17769 I' Il plan on placing an order for more ac5 boards before cny shutdown.
+ 17817 If we did the order by jan30 is that enough time to assemble and ship? Or do we need more time?
+ 17887 [Simon] 客户想在新年放假前下单也就几台不影响交期吧?
+ 17947  Peter hu
+ 17983 我们2月9号左右放假
+ 18043  Peter hu
+ 18080 放假前一周下单过来都可以
+ 18148 [Simon] 好等客户下单了那就
+ 18217 [Simon] 期待你们的年终总结
+ 18285 1/1409:30
+ 18330 Peter hu
+ 18434 1/15 13:30
+ 18489 [Simon] 下午好3台订单客户的反馈
+ 18558 Thank you very much for your all support.
+ 18610 Once we receive the switches, we will carry out our laboratory tests and then schedule a demo with our
+ 18633 customers. If they confirm that the products meet their requirements, we plan to proceed with the
+ 18684 year.
+ 18726 We believe this will be a strong start to our collaboration and look forward to expanding our business
+ 18753 together.
+ 18796 Thank you again and best regards,
+ 18868 [Simon] 请确保直接是AC.5方案直接样品即大货一步到位
+ 18939 [Simon] 这个客户和你们报备一下
+ 19007 [Simon] NETAS
+ 19081 [Simon] https://netas.com.tr/
+ 19219 [Simon] 实力非常强劲
+ 19280  Peter hu
+ 19314 收到
+ 19376 Peter hu
+ 19546  Peter hu
+ 19649 1/20 14:16
+ 19697 Anna
+ 19726 Industrial Switch
+ 19745 Model: STI-488DGGPM-2BT
+ 19760 Ports: 8*10/100/1000M RJ45 PoE + 4°1G/2.5G SFP
+ 19773 1-2 ports PoE++
+ 19784 Power apst: DC 52-57V
+ 19791 CE FC
+ 19828 SN: 202601140001
+ 19839 MAC: FC-CD-2F-D0-51-F
+ 19841 IPAddrss: I92.168.56.166
+ 19853 User name: admis
+ 19854 Password: admin
+ 19907 Anna
+ 19940 @Simon请确认
+ 20010 [Simon] UI图呢一起吧
+ 20079 [Simon] 我给客户看看
+ 20141 Anna
+ 20175 要晚点
+ 20246 [Simon] OK
+ 20312 1/21 09:07
+ 20359 Anna
+ 20603 Anna
+ 20856 [Simon] 好谢谢
+ 20923 1/21 11:51
+ 20971 Anna
+ 21005 请问确认ok吗
+ 21070 1/21 11:52
+ 21125 [Simon] 还没给客户说不着急
+ 21197 [Simon] 你们年终总结的要点出来了吗我看视频号已经发了
+ 21261 1/2112:23
+ 21308  Peter hu
+ 21342 请尽快确认，产品在产线上等着确认进行下一步
+ 21389 Simon：还没给客户说不着急
+ 21434 Peter hu
+ 21471 计划是有的，就怕赶不上变化
+ 21516 Simon：你们年终总结的要点出来了吗我看视频号已经
+ 21539 发了
+ 21589 1/21 12:41
+ 21643 [Simon] 好的
+ 21710 1/21 13:33
+ 21763 [Simon] label和U可以 继续吧
+ 21826 Anna
+ 21862 好
+ 21927 1/22 13:57
+ 21974 Anna
+ 22131 m CEe
+ 22295 Anna
+ 22512 Anna
+ 22642 0.0.0.0
+ 22734 Anna
+ 22983 Anna
+ 23060 UserManual
+ 23235 Anna
+ 23489 Anna
+ 23725 Anna
+ 23758 请查收
+ 23828 1/22 14:04
+ 23883 [Simon] OK
+ 23955 出合同吧装箱单啥的今天发稍后我搞一个箱唛贴一下发货代仓库去
+ 24013 Anna
+ 24057 郑州仁夏通讯器材有限公司
+ 24078 P20260115-0...RMB).doC
+ 24086 W
+ 24109 26.0K
+ 24145 微信中脑版
+ 24259 [Simon] Send

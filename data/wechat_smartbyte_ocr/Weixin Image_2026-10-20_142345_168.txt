@@ -1,0 +1,296 @@
+    19 Peter hu、Anna (3)
+    95 7/31 16:10
+   157 [Simon] Levent KILIC和Simon的聊天记录
+   187 [Simon] Levent KILlC: A customer has been
+   205 [Simon] testing our 24-port L2+ model.One of
+   223 [Simon] the feedback he has is the following:
+   247 [Simon] Some L3 features (vrrp,bgp,ospf,isis) ..
+   276 [Simon] Chat History
+   337 [Simon] 请看一下 @Peter hu
+   404 7/31 16:16
+   449 Peter hu
+   487 客户什么时候买的设备啊？
+   547 Peter hu
+   582 Web上没有L3的功能，要有也只有CLI上有
+   642  Peter hu
+   678 我记得已经清理掉了
+   749 那应该是很久的型号了最近一次买24口L2+的都是2025.05了14个月前了
+   814 7/31 16:21
+   871 [Simon] 目前是都清理掉了是吧？ L3就显示L3的 L2+就是L2+的
+   931 Peter hu
+   965 是的
+  1034 [Simon] 好的
+  1103 7/31 16:30
+  1148 Peter hu
+  1184 重新确认了下，AC3的没有清理，AC5的已经清理了，后续已经没有AC3设备，客户沟通买新设备都是AC5，就不存
+  1209 在这个问题
+  1270  Peter hu
+  1306 AC3不会再投入资源去开发
+  1373 [Simon] 已经说过了
+  1434 Peter hu
+  1470 好的
+  1541 [Simon] OK目前AC3就按照discontinued series来
+  1587 [Simon] Peterhu:AC3不会再投入资源去开发
+  1709 7/3116:39
+  1754 Peter hu
+  1858 8/1217:58
+  1915 https://www.smartbyte-switch.com/8-10-100-1000Base-T-4-1G-2-5G-10GBase-X-SFP-L2-Managed-
+  1940 Industrial-Boost-PoE-Switch-with-Temp-humidit
+  2212 [Simon] 似乎是乱码了其他的link我看是正常的
+  2281 [Simon] @Peter hu
+  2348 8/1218:06
+  2394  Peter hu
+  2429 谢谢提醒，我这边是可以的，请再刷新下看看
+  2490  Peter hu
+  2722 [Simon] 我这还是不行可能是网络环境的问题吧
+  2792 [Simon] 我抽空写个脚本爬一下
+  2800 [Simon] 我抽空与个脚本爬
+  2851 Peter hu
+  2887 好的
+  2949  Peter hu
+  2985 哈哈，你最近是不是频繁访问我们网站？
+  3052 类似发给你的那个mikrotik信息 就是脚本爬出来的 如果有异常 脚本会爬出来的
+  3124 [Simon] 没有吧就见你之前看了比较多这几天都没咋看了
+  3185 Peter hu
+  3412 8/12 18:09
+  3458  Peter hu
+  3492 最近有9000多条访问记录
+  3553 Peter hu
+  3590 8月份才上线
+  3652  Peter hu
+  3888 刚才那一会我点了很多 我要拿到fiber bypass和DIDO的信息
+  3957 [Simon] 让claude给我更新一下网站信息
+  4026 [Simon] 哈哈 可以
+  4098 [Simon] 我后边写个脚本把你们网站爬一下 有啥问题和你说
+  4157 Peter hu
+  4187 不需要特意去做这个事情啊
+  4264 [Simon] OK
+  4331 8/13 09:34
+  4387 [Simon] @Rot早上好请把那个包装盒全部寄送给洪瑞吧
+  4456 地址信息：深圳市宝安区福海街道展城社区泽达利工业园A3栋5楼售后部
+  4479 刘长桂
+  4503 18820293198
+  4527 型号BNSC-28GPM
+  4549 包装盒对应内部料号B.BZ.01.073
+  4574 费用算在我这边
+  4668 [Simon] BNSG
+  4908 Anna
+  4939 收到
+  5012 [Simon] 请在外箱上贴一张A4纸
+  5078 [Simon] 写上料号32667
+  5165 [Simon] 料号
+  5204 [Simon] 32667
+  5266 [Simon] 料号
+  5308 [Simon] 32667
+  5368 Anna
+  5402 好
+  5473 [Simon] 类似这样 打印出来 贴上去 寄出 over
+  5609 8/13 13:45
+  5657 Anna
+  5689 Simon
+  5754 Anna
+  5788 可以发货拉拉吗
+  5850 Anna
+  5882 运费差不多150的样子
+  5945 Anna
+  5995 60KG
+  6041 主要考态运销过程中可能有损坏明
+  6089 损坏不负需暖
+  6121 EI
+  6135 这个没有聊个外箱可以装，打包不好打，以
+  6149 前设这样否过快递
+  6197 Anna
+  6554 Anna
+  6590 快递怕有损坏
+  6659 [Simon] 好
+  6730 [Simon] 货拉拉吧
+  6790 Anna
+  6825 好
+  6893 8/13 14:05
+  6947 广东省深圳市宝安区福海街道展城社区泽达利工业园A3栋1楼洪瑞仓库收
+  7013 8/13 14:05
+  7066 [Simon] 地址请用这个 其他的不变
+  7128 Anna
+  7164 已经装车了
+  7225 Anna
+  7322 Anna
+  7357 我看下能不能改
+  7419 Anna
+  7455 跟司机说下就好吧
+  7514 Anna
+  7549 不好改了
+  7612 Anna
+  7970 Anna
+  8054 持拉拉
+  8057 拉货搬家跑
+  8083 发长途
+  8340 [Simon] 应该可以改在小程序上改有额外费用可能
+  8411 [Simon] 如果不行就请跟司机说一下
+  8468 Anna
+  8506 好
+  8577 [Simon] 单号请给我一下 我看着时间 给洪瑞那边说一下
+  8636 Anna
+  8671 好
+  8738 8/13 14:11
+  8785 Anna
+  8834 货拉拉没贴这个不要紧吧
+  8952 忘了吗
+  9007 Anna
+  9042 忘记贴这个了不好意思
+  9104 Anna
+  9140 https://eappweb.huolala.cn/#/order-share/move?
+  9162 order_uuid=35610025176161738128&random_uuid=6122b0546cde49cec9b2484435cc16a7
+  9223 Anna
+  9258 货拉拉行程
+  9328 [Simon] 好的 谢谢
+  9395 8/21 10:34
+  9449 [Simon] 早上好
+  9526 [Simon] 工业非管理说明书
+  9550 [Simon] STSC20260819019.pdf
+  9559 [Simon] PDF
+  9580 [Simon] 469.8K
+  9616 [Simon] 微信电脑版
+  9677 [Simon] 采购合同
+  9698 [Simon] _STSC20260819019.pdf
+  9710 [Simon] PDF
+  9732 [Simon] 319.3K
+  9766 [Simon] 微信电脑版
+  9827 [Simon] 箱标
+  9850 [Simon] STSC20260819019.docx
+  9860 [Simon] W
+  9882 [Simon] 14.9K
+  9919 [Simon] 微信电脑版
+  9973 [Simon] 请安排生产
+ 10044 另外客户大概率会追加一些产品确定了我雨发新的订单这个先产着
+ 10112 [Simon] 谢谢
+ 10175 Anna
+ 10211 好
+ 10276 8/21 11:13
+ 10331 [Simon] @Rot
+ 10402 客户改了型号。。 我马上发新的 8口的改L2的了16口的也改了@9
+ 10472 [Simon] 这次是final 客户已经确认了 稍等我发
+ 10532 Anna
+ 10567 好
+ 10634 8/21 11:25
+ 10694 [Simon] 采购合同
+ 10716 [Simon] STSC20260819019.pdf
+ 10727 [Simon] PDF
+ 10750 [Simon] 336.0K
+ 10784 [Simon] 微信电脑版
+ 10846 [Simon] 工业管理说明书
+ 10870 [Simon] STSC20260819019.pdf
+ 10879 [Simon] PDF
+ 10900 [Simon] 566.2K
+ 10936 [Simon] 微信电脑版
+ 10993 [Simon] 只是改了型号数量一样的
+ 11063 请用这版采购合同直接覆盖之前的不要留存之前的了 避免混淆
+ 11104 [Simon] Simon:采购合同_STSC20260819019.pdf
+ 11126 [Simon] PDF
+ 11309 [Simon] your pe
+ 11415 [Simon] final
+ 11559 [Simon] @Rot
+ 11620 Anna
+ 11651 好的收到
+ 11785 "0 Anna"recalled a message
+ 11827 Anna
+ 11862 请查收合同
+ 11924 Anna
+ 11960 加上了上次寄纸箱的货拉拉费用
+ 12020 Anna
+ 12063 郑州仁夏通讯器材有限公司
+ 12084 P20260821-0...RMB).doc
+ 12093 W
+ 12115 33.5K
+ 12151 微信电脑版
+ 12203 8/21 15:14
+ 12250 [Simon] 3-13 
+ 12266 [Simon] 转胞记录查询
+ 12309 [Simon] -￥8,525.00
+ 12403 [Simon] 手机8行
+ 12418 [Simon] 电子8行特8
+ 12445 [Simon] 进庆查间
+ 12496 [Simon] 管NTA8CR
+ 12588 8/25 13:58
+ 12635 Anna
+ 12667 IndustrialSwitch
+ 12676 IYPERLINK
+ 12697 Model: STI-288GPM
+ 12722 Ports: 8*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP
+ 12750 Power Input: DC 44-57V
+ 12788 FC
+ 12789 CE
+ 12803 SN: 202608210001
+ 12823 IP Address: 192.168.56.166
+ 12823 MAC: FC-CD-2F-D0-58-6D
+ 12837 Password: admin
+ 12839 User name: admin
+ 12887 Anna
+ 12912 YPERLINK
+ 12919 Industrial Switch
+ 12942 Model: STI-21616GP
+ 12963 Ports: 16*10/100/1000M RJ45 PoE + 2*1G SFP
+ 12984 Power input: DC 44-57V
+ 12999 FC
+ 13002 CE
+ 13027 区
+ 13047 SN: 202608210001
+ 13095 Anna
+ 13120 IndustrialSwitch
+ 13144 Model: STI-21616GPM
+ 13162 Ports: 16*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP
+ 13179 Power input: DC 44-57V
+ 13204 CE FC
+ 13227 SN: 202608210001
+ 13240 MAC: FC-CD-2F-D0-58-F
+ 13241 IP Address: 192.16856.166
+ 13252 Pasword: admin
+ 13255 User name: admin
+ 13301 Anna
+ 13336 Simon 请查收标签
+ 13397 Anna
+ 13432 @Simon
+ 13503 [Simon] IndustrialSwitch
+ 13531 [Simon] Model: STI-288GPM
+ 13555 [Simon] Ports: 8*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP
+ 13582 [Simon] Power Input: DC 44-57V
+ 13619 [Simon] CE FC
+ 13635 [Simon] SN: 202608210001
+ 13654 [Simon] MAC: FC-CD-2F-D0-58-6D
+ 13656 [Simon] IP Addres: 192.168.56.166
+ 13670 [Simon] User name: admin
+ 13670 [Simon] Password: admin
+ 13727 [Simon] 这个全部拿掉 这是一个新客户 其他的都OK
+ 13837 [Simon] CERE
+ 13876 [Simon] h4R
+ 13954 8/25 14:03
+ 14001 Anna
+ 14033 Web也只用客户型号就行
+ 14096 Anna
+ 14129 无logo对吗
+ 14200 [Simon] 是的
+ 14273 [Simon] 这是一个新客户 没有logo 全部采用Saga的信息
+ 14333 Anna
+ 14368 好
+ 14434 8/25 16:40
+ 14480 Anna
+ 14505 没，现在这款通乘有原回去了没有现货
+ 14536 是出好，给扫工那应确认了下观搭书,
+ 14839 Anna
+ 14873 Simon
+ 14941 8/25 16:40
+ 14990 Anna
+ 15023 你那个电源可以替换吗
+ 15084 Anna
+ 15126 适配器，90-264交流，导轨式，48V
+ 15134 R-240-48
+ 15144 240W国标，CE认证，明纬NDR-24
+ 15224 8/25 16:48
+ 15275 [Simon] 好测试OK就行
+ 15344 8/26 09:16
+ 15390 Anna
+ 15427 Simon今天发货吗
+ 15498 [Simon] 能发就发我们在搬公司尽早发了
+ 15567 [Simon] 我也就不操心这个单子了
+ 15627 Anna
+ 15662 好
+ 15835 [Simon] Send

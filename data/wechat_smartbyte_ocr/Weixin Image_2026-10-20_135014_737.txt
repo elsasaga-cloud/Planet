@@ -1,0 +1,564 @@
+    16 Peter hu、Anna (3)
+    73 2024-5-28 09:00
+   126 [Simon] 早上好
+   200 [Simon] 1.商业2光8，4光8不带挂耳吧？
+   222 [Simon] 其他所有的1U设备（上次发给我的资料）都带挂耳吧?
+   516 [Simon] 2.管理线是DB9转RJ45接头?
+   811 [Simon] 这种的吗?
+   883 另外昨天那个土耳其的说 想让根据LT-S8528XG-4XS24GT来填一下那个表格
+   948 [Simon] 有2个点
+  1023 [Simon] 我先大概填一下再给你们审核这样你们也省事儿了
+  1091 2，LT-S8528XG-4XS24GT的规格是管理型号中功能最多的了吧?
+  1158 2024-5-28 09:11
+  1205 酒歌
+  1241 早上好，商业2光8，4光8默认不带挂耳，所有1U机型默认带挂耳
+  1286 Simon:1.商业2光8，4光8不带挂耳吧？其他所有的
+  1305 1U设备（上次发给我的资料）都带挂耳吧？
+  1350 酒歌
+  1385 好的
+  1433 Simon:1，我先大概填一下再给你们审核这样你们也
+  1453 省事儿了
+  1499 酒歌
+  1534 是的
+  1582 Simon:2，LT-S8528XG-4XS24GT的规格是管理型号
+  1600 中功能最多的了吧？
+  1652 2024-5-28 09:16
+  1697 酒歌
+  1734 是的，这是DB9转RJ45
+  1779 Simon:
+  1856 酒歌
+  1891 除了这种，我们还有USB转RJ45
+  1951 酒歌
+  1986 两种都可以
+  2052 2024-5-28 09:24
+  2107 [Simon] 出货一般是配DB9的？
+  2167 "酒歌"recalled a message
+  2215 2024-5-28 09:31
+  2262 酒歌
+  2296 因为console线是通用线，我们一般不默认配console线，除非客户特别需要，我们会配，需要额外支付2美金，通常
+  2322 出的是USB转RJ45的
+  2392 [Simon] 上次土耳其买的24口 48口配的是USB转RJ45吗?
+  2463 [Simon] 问这个是因为我要更新一下规格书和说明手册
+  2532 [Simon] 你们配啥都可以按照你们平时出货来就行
+  2596 2024-5-28 09:38
+  2644 酒歌
+  2678 上次没有配管理线
+  2720 Simon:上次土耳其买的24口48口配的是USB转RJ45
+  2743 吗？
+  2789 酒歌
+  2828 客户没有特别要求的话，我们现在基本出货的都是USB转RJ45的
+  2874 Simon：你们配啥都可以按照你们平时出货来就行
+  2928 [Simon] OK
+  2997 [Simon] 我更新一下说明书稍后发出来
+  3068 [Simon] 请直接覆盖之前的版本 或者把之前的删除了
+  3126 酒歌
+  3161 好的，收到
+  3229 2024-5-28 09:53
+  3289 [Simon] 工业管理说明书.pdf
+  3308 [Simon] PDF
+  3319 [Simon] 327.2K Not Downloaded
+  3356 [Simon] 微信电脑版
+  3415 [Simon] 工业非管理说明书.pdf
+  3437 [Simon] PDF
+  3448 [Simon] 349.8K Not Downloaded
+  3483 [Simon] 微信电脑版
+  3544 [Simon] 收发器说明书.pdf
+  3564 [Simon] PDF
+  3574 [Simon] 238.4KNot Downloaded
+  3609 [Simon] 微信电脑版
+  3672 [Simon] 商业管理说明书.pdf
+  3692 [Simon] PDF
+  3703 [Simon] 433.4KNot Downloaded
+  3738 [Simon] 微信电脑版
+  3794 后续请使用这4个说明书基本没啥变化打印包装和之前的一样就行
+  3853 酒歌
+  3890 好的，收到，已保存
+  3960 [Simon] OK 谢谢
+  4022 酒歌
+  4123 2024-5-28 10:05
+  4246 2024-5-30 11:42
+  4299 [Simon] 早上好
+  4361 You recalled a message
+  4559 [Simon] 这个是可以扫描入库的吧？
+  4617 酒歌
+  4653 是的
+  4721 2024-5-30 11:49
+  4775 [Simon] OK 谢谢
+  4836 酒歌
+  4938 2024-5-30 11:57
+  5061 2024-6-6 09:06
+  5117 [Simon] @酒歌
+  5187 早上好 请咨询一下技术
+  5235 LT-IS6310G-2GX8GT是否支持SFTP
+  5282 在管理手册中100页出现了SFTP，上次的土耳其客户登录进去后只出现了下图（和管理手册中是一样的），我看了一
+  5306 下，SFTP和DHCP需要启用是吧?
+  5330 能否说一下如何启用SFTP (如果有个截图来说明是最好的)
+  5377 另外请发我一下中文版本的管理手册 (不需要命令行手册了)
+  5423 该客户是上次出货的土耳其客户，我作天正式向他们介绍了工业交换机系列，客户意向比较大，这个SFTP的事儿是客
+  5448 户正在谈的一个项目（8xNonPoe and 2x2.5G switch），和LT-IS6310G-2GX8GT比较接近，可能是一个切入工业
+  5473 交换机的机会
+  5497 请多确认一下这个SFTP的事儿
+  5518 谢谢
+  5585 2024-6-6 09:06
+  6025 [Simon] 这是客户的反馈 发的图就是刚才的那张
+  6084 酒歌
+  6118 好的，收到
+  6189 [Simon] 谢谢
+  6254 2024-6-6 09:38
+  6303 酒歌
+  6343 交换机CLI配置指南-
+  6368 release-7.1.x.docx
+  6375 W
+  6397 2.3M Not Downloaded
+  6433 微信电脑版
+  6480 酒歌
+  6518 交换机Web配置指南
+  6545 (release7.1.x).docx
+  6553 W
+  6575 7.2MNot Downloaded
+  6610 微信电脑版
+  6662 2024-6-6 09:43
+  6716 管理手册 (中文126页 英文100页)中5.1.2的描述我看不太一样?
+  6788 SFTP这个请确认一下 最好能调试出来截个图或者说明一下如何配置
+  6849 酒歌
+  6885 @Simon这款型号不支持SFTP
+  6944 酒歌
+  6980 英文版本的5.1.2在119页
+  7025 Simon:管理手册（中文126页英文100页）中5.1.2的描
+  7045 述我看不太一样？
+  7097 2024-6-6 09:49
+  7145 酒歌
+  7180 目前我们支持的是TFTP和DHCP
+  7225 酒歌：@Simon这款型号不支持SFTP
+  7410 [Simon] 目前客户说的这种效果能否实现？
+  7479 在命令行手册中我看到了TFTP 未发现SFTP 但在管理手册中出现了SFTP 未出现TFTP
+  7549 [Simon] 这是信息编辑错误了？
+  7614 2024-6-6 09:55
+  7660 酒歌
+  7813 酒歌
+  7851 这个方便的话，麻烦截个图看一下
+  8108 文件名: Web-Based Configuration Guide(release7.1.x)
+  8342 文件名: Switch-Configuration-Guide-Release-7.1.x  CLI
+  8539 2个文件是上次5.15号更新给我的我改为了自己的版本发给了客户当时说是最新版本
+  8606 2024-6-6 10:02
+  8652 酒歌
+  8687 这个问过技术了，现在确实不支持，不过这种效果都是通过第三方软件实现的，不会很难，但需要花时间专门做这个
+  8733 Simon：目前客户说的这种效果能否实现？
+  8790 OK这个花时间做这个是啥概念？
+  8811 需要你们这边研发还是客户那边自己通过第三方软件处理？
+  8884 管理手册和命令行手册内容是否出现了混乱？如果是我和客户说一下 以TFTP为准?
+  8944 酒歌
+  8980 意思是研发那边需要专门花时间做一下这个，不是很难
+  9024 Simon：OK这个花时间做这个是啥概念？需要你们这
+  9044 边研发还是客户那边自己通过第三方软件处理？
+  9100 [Simon] OK 那我就和客户说能改需要有实单
+  9166 2024-6-6 10:06
+  9220 [Simon] 这个请看一下
+  9268 [Simon] Simon：管理手册和命令行手册内容是否出现了混乱？
+  9289 [Simon] 如果是我和客户说一下以TFTP为准？
+  9334 酒歌
+  9370 是否出现混淆我这边在核实，目前以以TFTP为准
+  9415 Simon：管理手册和命令行手册内容是否出现了混乱？
+  9435 如果是我和客户说一下以TFTP为准？
+  9491 [Simon] OK
+  9550 酒歌
+  9586 是的
+  9635 Simon:OK那我就和客户说能改需要有实单
+  9684 2024-6-6 10:12
+  9739 [Simon] 好
+  9805 2024-6-6 10:25
+  9850 酒歌
+  9887 英文版管理手册中出现的SFTP应当是之前编辑时手误，要改为TFTP
+  9934 Simon：管理手册和命令行手册内容是否出现了混乱？
+  9955 如果是我和客户说一下以TFTP为准？
+ 10009 [Simon] OK我和客户说一下A
+ 10071 酒歌
+ 10108 好的，多谢指正
+ 10179 [Simon] 客户提到这个了 我也没细看过不懂技术。。
+ 10243 2024-6-6 10:30
+ 10300 [Simon] 这种也挺常见的 后边有问题再说
+ 10368 [Simon] 请再问一下技术
+ 10564 [Simon]  DHCP server
+ 10636 [Simon] 如何配置
+ 10848 [Simon] 根据CLI手册中20节的内容?
+ 11163 另外刚客户问 Stack功能 这个我与Peter之前谈过 而且也明确和客户提过这个 近期不研发
+ 11232 客户又问起来了方便的话请也顺便问一下技术 能否研发以及研发周期 我大概给客户扔个回复有交代就行了
+ 11299 2024-6-6 10:36
+ 11345  Peter hu
+ 11382 Stack没有周期
+ 11441  Peter hu
+ 11474 2年内都不会
+ 11548 [Simon] hao
+ 11612 2024-6-6 10:49
+ 11660 酒歌
+ 11696 是的，根据这个配置
+ 11740 Simon:根据CLI手册中20节的内容？
+ 11796 [Simon] 好谢谢我给客户做统一回复
+ 11856 酒歌
+ 11892 好的
+ 11958 2024-6-15 09:05
+ 12013 [Simon] 早上好
+ 12087 [Simon] RFP_2024.6.15.docx
+ 12107 [Simon] W
+ 12116 [Simon] 98.5KNot Downloaded
+ 12154 [Simon] 微信电脑版
+ 12214 [Simon] TT-RFP-EN.docx.pdf
+ 12236 [Simon] PDF
+ 12247 [Simon] 182.8K Not Downloaded
+ 12282 [Simon] 微信电脑版
+ 12339 [Simon] 请看一下这个项目
+ 12404 2024-6-15 09:25
+ 12448 Peter hu
+ 12487 请稍等，1个小时左右回复，我在外面不方便看细节
+ 12552 2024-6-15 09:32
+ 12608 [Simon] OK不着急
+ 12674 2024-6-15 09:57
+ 12718 Peter hu
+ 12757 Simon，请将客户的需求点复制粘贴到微信里，我一个个来回复
+ 12817  Peter hu
+ 12852 因为我是手机端操作
+ 12913  Peter hu
+ 12947 这份文档
+ 12992 Simon: TT-RFP-EN.docx.pdf
+ 13011 PDF
+ 13069  Peter hu
+ 13106 感觉客户这个标案用的就是Marvell方案，因为要求光口是1G/2.5G
+ 13168 2024-6-15 10:06
+ 13296 [Simon] 我之前把所有资料都给他了他应该是对照过了
+ 13368 7. TECHNICAL SPECIFICATIONS
+ 13391 7.1. The device must be industrial type and resistant to severe
+ 13414 environmental conditions. In order to guarantee this durability of
+ 13438 the device, it must have the following certificates and test
+ 13462 reports related to them must be submitted to the relevant
+ 13484  institution when necessary.
+ 13510 - IEC 61000-4-2 (ESD)
+ 13531 - IEC 61000-4-3 (RS)
+ 13556 - IEC 61000-4-4 (EFT)
+ 13578 - IEC 61000-4-5 (Surge)
+ 13604 - IEC 61000-4-6 (CS)
+ 13628 - EN 55032: 2012/AC: 2013 (CE & RE) Class B
+ 13652 ACCEPTED
+ 13674 7.2. If the certificates in Article 2.4 cannot be provided, it must 
+ 13700 be guaranteed by the company that the device is of industrial
+ 13721 type and is resistant to severe environmental conditions, has the
+ 13746  necessary protections so that it will not fail under conditions
+ 13769 such as lightning strikes, energy problems, etc. and all 
+ 13795  malfunctions occurring in the product must be eliminated under
+ 13821 warranty.
+ 13843 ACCEPTED
+ 13866 7.3. The device to be offered shall have 4/6/8 copper ethernet
+ 13891 ports that can operate at 10/100/1000Mbps speeds. In addition,
+ 13912 there will be at least 2 SFP module slots on the device to support
+ 13936 1 / 2.5 Gbps speeds.
+ 13961 ACC[PTED
+ 13984 7.4.
+ 14008 7.5. 1 1000 Base-LX SFP module produced by the manufacturer
+ 14034 (it shall be proved with the production documents that it is not
+ 14055 OEM) may be requested by TT together with the device. The
+ 14080 price of the requested module will be specified in the offer price
+ 14104 list.
+ 14128 ACCEPTED
+ 14151 7.6. The Industrial Switch shall have at least 4/6/8
+ 14176 (two/four/eight) 10/100/1000Base-T/TX RJ45 autosense
+ 14199 MDl/MDl-x ports and at least 2 (two)
+ 14222 100/1000/2500MbpsBaseSFP ports. 1000Base-SX, 1000Base LX, 1000Base-T/T/TX, 2.5GBase-SX and
+ 14244 2.5GBase-LX
+ 14271 modules can be installed to SFP ports. The transceiver modules
+ 14294 to be supplied will be original modules produced by the
+ 14319 Industrial Switch manufacturer. OEM modules will not be
+ 14343 accepted.
+ 14365 ACCEPTED
+ 14387 7.7. The Industrial Switch shall have at least 512 (five hundred
+ 14412 twelve) MB RAM and at least 128 (one hundred twenty eight)
+ 14433 MB flash memory.
+ 14461 ACCEPTED
+ 14483 7.8. At least 16000 (sixteen thousand) MAC addres
+ 14555 [Simon] Accepted是客户竞标时写的评论有一些不太符合
+ 14623 7.8. At least 16000 (sixteen thousand) MAC addresses shall be
+ 14646  supported.
+ 14669 ACCEPTED
+ 14694  7.9. Industrial Switch shall include overcurrent and overvoltage
+ 14718 protection circuit.
+ 14743 ACCEPTED
+ 14768 7.10. Industrial Switch shall have an all-metal external enclosure
+ 14792 in IP40 standards.
+ 14815 ACCEPTED
+ 14837 7.11. Industrial Switch must have the necessary apparatus to be
+ 14861 mounted on a 19 inch rack cabinet.
+ 14887 ACCEPTED
+ 14909 7.12. All ports on the Industrial Switch will be able to operate at
+ 14936 the same time without congestion and at cable speed.
+ 14957 ACCEPTED
+ 14980 7.13. Industrial Switch shall support IEEE 802.1q VLAN
+ 15004 protocol. It shall support at least 256 (two hundred and fifty-six)
+ 15029 active VLANs and 4000 (four thousand) VLAN IDs.
+ 15052 ACCEPTED
+ 15074 7.14. The Industrial Switch shall support IEEE 802.1D mac
+ 15099 bridging standards. It shall also support 802.1s MST protocol to
+ 15123  prevent loops on different subnets, independently, and 802.1w
+ 15147 protocol for fast convergence.
+ 15172 ACCEPTED
+ 15195 7.15. The device must support RING protocol. Traffic flow
+ 15219 transition over the redundant link should be under 20ms (twenty
+ 15242 milliseconds).
+ 15266 ACCEPTED
+ 15289  7.16. Industrial Switch shall support 802.3ad protocol and shall
+ 15311  be able to group at least 8 (eight) ports with the same feature
+ 15337 (port-channel).
+ 15361 ACCEPTED
+ 15383 7.17. Industrial Switch should support Jumbo Frame up to 10K
+ 15409 size.
+ 15432 ACCEPTED
+ 15457 7.18. DHCP scopes should be defined on the Industrial Switch
+ 15478  and it should be able to send IP address and other necessary
+ 15502 information to end devices.
+ 15527 ACCEPTED
+ 15551 7.19. Industrial Switch should provide 802.1ab Link Layer
+ 15574 Discovery Protocol support for the detection of other devices
+ 15599 connected to it. Thus, it will be able to collect information about
+ 15623 its neighboring devices and transmit information about itself to
+ 15646 its neighbors.
+ 15670 ACCEPTED
+ 15692 7.20. Industrial Switch will be sent to the sites configured with
+ 15717 the configurations previously given by Turk Telekom.
+ 15741 ACCEPTED
+ 15809 7.21. Industrial Switch should support quality of service
+ 15837 configuration. For each port, there should be speed limiting in
+ 15858 the direction of incoming traffic and traffic shaping in the
+ 15880 direction of outgoing traffic, 8 hardware queues, weighted and
+ 15907 strict prioritization support, DSCP, 802.1p Class of service, ToS
+ 15931 based, classification and re-marking, congestion avoidance 
+ 15953 algorithm service features.
+ 15978 ACCEPTED
+ 15999 7.22. Industrial Switch shall be able to take at least Dynamic
+ 16023 ARP Inspection or Dynamic ARP Protection, DHCP Snooping,
+ 16049 Management ACL, L2/L3/L4 Access Control Lists, Ip Source
+ 16072 Guard security measures or support related protocols in order to
+ 16094 ensure layer 2 security.
+ 16121 ACCEPTED
+ 16142 7.23. Industrial Switch shall support static routing and routing
+ 16167 between defined vlan interfaces.
+ 16192 ACCEPTED
+ 16213  7.24. Port mirroring support shall be available. Multiple source 
+ 16240 ports can be mirrored to the destination port.
+ 16263 ACCEPTED
+ 16287 7.25. Industrial Switch should support SNMP v3, HTTPS
+ 16310 SSHv2 and sFTP features for management purposes.
+ 16335 ACCEPTED
+ 16356 7.26. All necessary configurations should be possible from the
+ 16383 Industrial Switch HTTPS based web interface. In addition, this
+ 16405 web interface should have Turkish language support.
+ 16428 ACCEPTED
+ 16451 7.27. Industrial Switch firmware updates can be updated via
+ 16475 sFTP protocol with the current firmware file in the file extension
+ 16500 of the server previously written in it.
+ 16524 ACCEPTED
+ 16593 7.28. The events and alarms that occur on the Industrial Switch
+ 16618 can be sent to external systems using SNMP Trap and syslog
+ 16642 protocols. Events and alarms should also be queried periodically
+ 16667 by SNMP get. In addition, using one of the sflow protocols, it 
+ 16691 will be able to sample traffic and send these samples to external
+ 16711 systems.
+ 16735 ACCEPTED
+ 16759 7.29. Devices shall have a console port. All functions of the
+ 16784 device can be done through the command line accessible via
+ 16805  console or SSHv2.
+ 16831 ACCEPTED
+ 16854 7.30. The device shall be able to authenticate for management
+ 16878 purposes from a central authentication server using TACACS or
+ 16903 Radius protocol.
+ 16927 ACCEPTED
+ 16950 7.31. Industrial Switches must be able to provide an external
+ 16974  management platform upon request. The management platform
+ 16995  should provide at least 250 devices without requiring additional
+ 17019 licenses.
+ 17046 ACCEPTED
+ 17067 7.32. If requested, the management platform should be able to
+ 17092  monitor different branded Industrial Switches operating in the
+ 17118 existing structure in detail. No additional cost should be charged
+ 17139 for this feature.
+ 17164 ACCEPTED
+ 17186 7.33. If requested, the management platform should be capable
+ 17214 of displaying all status, vlan information, connected user and
+ 17236 mac address information, graphical representation of traffic
+ 17260 passing through the interfaces, temperature and processor usage
+ 17282 of devices and neighboring device information of different brand
+ 17306 devices, as a minimum.
+ 17331 ACCEPTED
+ 17399 [Simon] 基本就是确认几个技术要点吧
+ 17470 [Simon] 感觉都比较支持但不太确定
+ 17541 [Simon] 要是你那边不方便处理就晚一点看也行
+ 17606 2024-6-15 10:17
+ 17652  Peter hu
+ 17690 7. TECHNICAL SPECIFICATIONS
+ 17712 7.1. The device must be industrial type and resistant to severe environmental conditions. In order to
+ 17737 guarantee this durability of the device, it must have the following certificates and test reports related to
+ 17757 them must be submitted to the relevant institution when necessary.
+ 17783 - IEC 61000-4-2 (ESD) - IEC 61000-4-3 (RS)
+ 17806 - IEC 61000-4-4 (EFT) - IEC 61000-4-5 (Surge) - IEC 61000-4-6 (CS)
+ 17830 -EN55032:2012/AC:2013(CE&RE)ClassB//按照上面标准设计和制造，没有第三方测试报告
+ 17901 7.2. If the certificates in Article 2.4 cannot be provided, it must be guaranteed by the company that the
+ 17925 device is of industrial type and is resistant to severe environmental conditions, has the necessary
+ 17950 protections so that it will not fail under conditions such as lightning strikes, energy problems, etc. and all
+ 17974 malfunctions occurring in the product must be eliminated under warranty.//
+ 17997 可以承诺并写在合同里
+ 18044 7.3. The device to be offered shall have 4/6/8 copper ethernet ports that can operate at 10/100/1000Mbps
+ 18069 speeds. In addition, there will be at least 2 SFP module slots on the device to support 1 / 2.5 Gbps 
+ 18090 speeds.//符合
+ 18161 7.5. 1 1000 Base-LX SFP module produced by the manufacturer (it shall be proved with the production
+ 18187 documents that it is not OEM) may be requested by TT together with the device. The price of the requested
+ 18210 modulewill bespecified in theofferprice list.//建议你跟客户讲SFP模块是自己生产
+ 18256 7.6. The Industrial Switch shall have at least 4/6/8 (two/four/eight) 10/100/1000Base-T/TX RJ45 autosense
+ 18284 MDl/MDl-xports and at least2 (two) 100/1000/2500MbpsBaseSFP ports.1000Base-SX, 1000Base-LX,
+ 18306 1000Base-T/T/TX, 2.5GBase-SX and 2.5GBase-LX modules can be installed to SFP ports. The transceiver
+ 18331 modules to be supplied will be original modules produced by the Industrial Switch manufacturer. OEM
+ 18352 modules will not be accepted.//符合
+ 18423 7.7. The Industrial Switch shall have at least 512 (five hundred twelve) MB RAM and at least 128 (one
+ 18451 hundredtwentyeight)MBflashmemory.//符合
+ 18520 7.8. At least 16000 (sixteen thousand) MAC addresses shallbe supported.//符合
+ 18566 7.9. Industrial Switch shall include overcurrent and overvoltage protection circuit.//符合
+ 18615 7.10. Industrial Switch shall have an all-metal external enclosure in IP40 standards.//符合
+ 18663 7.11. Industrial Switch must have the necessary apparatus to be mounted on a 19 inch rack cabinet.
+ 18688 //符合，装在机柜里并不一定就是机架式安装，机架里装Din-rail然后装在Din-rail上
+ 18732 7.12. All ports on the Industrial Switch will be able to operate at the same time without congestion and at
+ 18758 cablespeed.//符合
+ 18802 7.13. Industrial Switch shall support IEEE 802.1q VLAN protocol. It shall support at least 256 (two hundred
+ 18828 and fifty-six) active VLANs and 4000 (four thousand) VLAN IDs.//符合
+ 18899 7.14. The Industrial Switch shall support IEEE 802.1D mac bridging standards. It shall also support 802.1s
+ 18921 MST protocol to prevent loops on different subnets, independently, and 802.1w protocol for fast 
+ 18948 convergence.//符合
+ 18996 7.15. The device must support RING protocol. Traffic flow transition over the redundant link should be
+ 19019 under20ms（twentymilliseconds).//符合
+ 19067 7.16. Industrial Switch shall support 802.3ad protocol and shall be able to group at least 8 (eight) ports with
+ 19091 the same feature (port-channel).//符合
+ 19138 7.17. Industrial Switch should support Jumbo Frame up to 10K size.//符合
+ 19208 other necessary information to end devices.//符合
+ 19253 7.19. Industrial Switch should provide 802.1ab Link Layer Discovery Protocol support for the detection of
+ 19281 other devices connected to it. Thus, it will be able to collect information about its neighboring devices and
+ 19305 transmit information about itself to its neighbors.//符合
+ 19349 7.20. Industrial Switch will be sent to the sites configured with the configurations previously given by Turk
+ 19375 Telekom.ACCEPTED
+ 19399 7.21. Industrial Switch should support quality of service configuration.For each port, there should be speed
+ 19422 limiting in the direction of incoming traffic and traffic shaping in the direction of outgoing traffic, 8
+ 19445 hardware queues, weighted and
+ 19491 strict prioritization support, DsCP, 802.1p Class of service, Tos based, classification and re-marking.
+ 19516 congestion avoidance algorithm service features.//符合
+ 19560 7.22. Industrial Switch shall be able to take at least Dynamic ARP Inspection or Dynamic ARP Protection,
+ 19587 DHCP Snooping, Management ACL, L2/L3/L4 Access Control Lists, Ip Source Guard security measures or
+ 19611 support related protocols in order to ensure layer 2 security.//符合
+ 19659 7.23. Industrial Switch shall support static routing and routing between defined vlan interfaces.//符合
+ 19705 7.24. Port mirroring support shall be available. Multiple source ports can be mirrored to the destination
+ 19727 port.//符合
+ 19777 7.25.Industrial Switch should support SNMPv3,HTTPSSSHv2 and sFTP features for management
+ 19801 purposes.//sFTP 不符合
+ 19847 7.26. All necessary configurations should be possible from the Industrial Switch HTTPS based web interface.
+ 19872 In addition, this web interface should have Turkish language support. //土耳其语不符合
+ 19919 7.27. Industrial Switch firmware updates can be updated via sFTP protocol with the current firmware file in
+ 19943 the file extension of the server previouslywritten in it.//不符合
+ 20016 7.28. The events and alarms that occur on the Industrial Switch can be sent to external systems using SNMP
+ 20063 using one of the sflow protocols, it will be able to sample traffic and send these samples to external
+ 20082 systems.//符合
+ 20157 7.29. Devices shall have a console port. All functions of the device can be done through the command line
+ 20181 accessibleviaconsoleorSSHv2.//符合
+ 20227 7.30. The device shall be able to authenticate for management purposes from a central authentication 
+ 20253 server using TACACS or Radius protocol.//符合
+ 20298 7.31. Industrial Switches must be able to provide an external management platform upon request. The
+ 20324 management platform should provide at least 250 devices without requiring additional licenses.
+ 20349 ACCEPTED
+ 20371 7.32. If requested, the management platform should be able to monitor different branded Industrial
+ 20394 Switches operating in the existing structure in detail. No additional cost should be charged for this feature.
+ 20421 ACCEPTED
+ 20442 7.33. If requested, the management platform should be capable of displaying all status, vlan information,
+ 20467 connected user and mac address information, graphical representation of traffic passing through the
+ 20492 interfaces, temperature and processor usage of devices and neighboring device information of different 
+ 20514 brand devices, as a minimum.
+ 20538 ACCEPTED
+ 20563 Translated withDeepL.com (free version)
+ 20582 7.31，7.32，7.33是大网管平台，我们暂时没有，这个需要客户自己提供！
+ 20645  Peter hu
+ 20679 请看看我的回复
+ 20751 7.1不是有证书吗？
+ 20798 7.5模块自己生产0K
+ 20848 7.257.27不符合是指哪个？不讨论SFTP了客户自己解决
+ 20895 大网管平台我们不处理，客户自己解决
+ 21137 [Simon] 2和3这个
+ 21205 2024-6-1510:23
+ 21251 Peter hu
+ 21286 证书是CE，FCC这些
+ 21346 Peter hu
+ 21380 支持
+ 21428 Simon:2和3这个
+ 21484 [Simon] 好交期可以吗?
+ 21545 Peter hu
+ 21577 应该很麻烦的点要告诉你，https我们AC5平台软件可以，目前的AC3只支持http,，现在所有的备货都是AC3系列
+ 21639 Peter hu
+ 21674 AC3的交期没有问题
+ 21735 Peter hu
+ 21775 AC5除非客户提前给我们备货时间
+ 21832 Peter hu
+ 21870 8+2AC5系列只做了样品，没有批量投产
+ 21931 Peter hu
+ 21966 就卡在https这个功能上
+ 22031 2024-6-15 10:28
+ 22226 [Simon] OK
+ 22292 2024-6-15 10:28
+ 22348 [Simon] 我先和客户说看他们咋回复
+ 22417 [Simon] 这个项目一直是客户自行在处理我没参与
+ 22486 我之前把所有信息都给客户了他们直接参考然后昨天发了这个
+ 22557 [Simon] 看客户咋决定
+ 22617 Peter hu
+ 22653 好的，建议跟客户讲，客户假如有把握，可以打20%定金过来，我们提前备AC5的货，这样就可以满足交期
+ 22722 [Simon] 备AC5大概多久？
+ 22782 Peter hu
+ 22818 AC3不存在问题
+ 22885 [Simon] AC3AC5是芯片零器件?
+ 22950 Peler hu
+ 22984 原材料备货一个月，生产10天，也就是需要40天
+ 23031 Simon：备AC5大概多久？
+ 23077  Peter hu
+ 23108 是芯片
+ 23182 [Simon] 好我先和客户说一下这个情况
+ 23244  Peter hu
+ 23278 建议客户用AC3吧
+ 23340  Peter hu
+ 23373 AC5太仓促了
+ 23445 [Simon] 我接触竟标类的单子比较少
+ 23504 Peter hu
+ 23542 就只是https功能的区别
+ 23611 [Simon] 这种一般是要完全符合吗还是大部分OK就行
+ 23671 Peter hu
+ 23707 看客户实力
+ 23768 Peter hu
+ 23804 这种我们都把控不了
+ 23864 Peter hu
+ 23900 我们只能如实告知客户信息
+ 23959 Peter hu
+ 23998 不欺骗不隐瞒
+ 24066 [Simon] OK 我和客户说一下 看客户决定吧
+ 24132 2024-6-15 10:34
+ 24178 Peterhu
+ 24213 好
+ 24273 Peter hu
+ 24312 不过按照经验判断，猜测这个客户可能也是最后被通知的，意思就是陪标的可能性比较大
+ 24382 [Simon] 我文件夹里非机密的所有信息都给他了他自己搞去吧
+ 24451 [Simon] 他也算比较专业的客户了
+ 24521 [Simon] 其他的我们也控制不了
+ 24582  Peter hu
+ 24618 因为假如是一开始就掌握主动权，不太可能要求在这么短的时间内交货！这个通常是竞争对手（控标者）已经做好了
+ 24642 充分准备，然后释放出来，显示招标过程公平公正
+ 24712 这有点像内贸的操作就是拿到标了或者控标了 再发布竟标信息
+ 24776 2024-6-15 10:39
+ 24822  Peter hu
+ 24858 实话讲，你这个标案我们去年的一个客户就已经在进行了，sflow这个功能就是为这个客户的这个标案开发的，只是
+ 24884 我们这个客户在今年年初告诉我们他已经出局了
+ 24951 [Simon] 同样规格的标吗?
+ 25017 2024-6-15 10:40
+ 25061 Peter hu
+ 25098 通常都是这样
+ 25145 Simon:这有点像内贸的操作就是拿到标了或者控标了
+ 25164 再发布竞标信息
+ 25212 Peter hu
+ 25249 样的规格
+ 25294 Simon：同样规格的标吗？
+ 25419 [Simon] Send
+ 25420 [Simon] )

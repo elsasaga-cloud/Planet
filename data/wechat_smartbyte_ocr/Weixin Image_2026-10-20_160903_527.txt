@@ -1,0 +1,289 @@
+    21 Peter hu、扫地僧(3)
+    22 [Simon] X
+   101 2025-2-11 11:45
+   147 扫地僧
+   183 好
+   249 2025-2-11 16:11
+   304 下午好陈工@扫地僧
+   351 客户预计在4~5点间远程稍后我发客户的anydesk控制码
+   377 SN: DTM1108DEMOA15
+   400 MAC:使用你们自己的就行，不要与之前的（98-06-37-A0-58-40）一样
+   459 扫地僧
+   494 好
+   555 扫地僧
+   591 麻烦让客户先用串口登录好一些
+   650 扫地僧
+   756 [Simon] 好和客户说了
+   781 [Simon] 接线 打开串口工具
+   806 [Simon] 但是他们那个技术今天不在办公室这有啥影响吗？
+   870 2025-2-11 16:13
+   917 扫地僧
+   952 能登录就可以
+  1012 扫地僧
+  1048 其他没有影响
+  1117 [Simon] 好
+  1184 2025-2-11 16:52
+  1239 [Simon] 1 689 039 356
+  1310 [Simon] @扫地僧
+  1380 [Simon] 陈工 请试试这个
+  1449 [Simon] 能否把你拉入客户群？等技术了再退
+  1521 客户说的我有点迷糊。。
+  1521 [Simon] 我也让客户接完线拍照了但没发
+  1586 2025-2-11 16:58
+  1630 扫地僧
+  1663 我先连上看看
+  1736 [Simon] 好
+  2022 扫地僧
+  2177 扫地僧
+  2213 ssh和web都不行啊
+  2273 扫地僧
+  2307 需要console线
+  2368 扫地僧
+  2477 [Simon] hao
+  2536 扫地僧
+  2731 扫地僧
+  2763 连上了
+  2837 [Simon] OK我让客户接了
+  2896 You recalled a message
+  3161 扫地僧
+  3328 [Simon] 这能往下进行了吗？
+  3390 扫地僧
+  3426 还没打开串口软件，客户用的maC。。
+  3497 SN: DTM1108DEMOA15
+  3518 MAC:使用你们自己的就行，不要与之前的（98-06-37-A0-58-40）一样
+  3657 2025-2-11 17:04
+  3703 扫地僧
+  3739 客户是用putty还是secureCRT？
+  3967 扫地僧
+  4001 mac的话，我完全不熟，只能等客户连上了才能操作了
+  4064 扫地僧
+  4101 如果是windows，还能操作一下
+  4165 2025-2-11 17:06
+  4220 [Simon] OK试试看不行的话我就发那个操作流程吧
+  4281 扫地僧
+  4318 嗯
+  4383 2025-2-11 17:11
+  4427 扫地僧
+  4587 扫地僧
+  4624 改好了
+  4692 [Simon] 搞定了？
+  4755 扫地僧
+  4790 对啊
+  4848 扫地僧
+  4884 2分钟
+  5089 扫地僧
+  5193 需要重启啥的吗？还是直接登进去就能看到新SN和MAC了
+  5256 扫地僧
+  5293 已经重启好了
+  5361 [Simon] 好感谢儿
+  5424 扫地僧
+  5461 这里启动好的界面
+  5506 扫地僧：
+  5580 扫地僧
+  5616 你跟客户确认一下
+  5685 [Simon] 好的
+  5750 2025-2-11 17:18
+  6031 [Simon] OK了 感谢
+  6093 扫地僧
+  6130 不客气
+  6194 2025-3-18 17:01
+  6251 下午好 陈工
+  6275 之前出货一个AC5的商业交换机，双电源，打样出的
+  6298 客户的反馈如下，请抽空看一下就行，这个完全不着急
+  6322 主要是AC5系列芯片在2个型号上的要求
+  6348 LT-S8328XG-4XS24GT- S-2AC18
+  6369 LT-S8328XG-4XS16GX8GC-2AC36
+  6418 1，客户要求好处理吗？
+  6442 2，大概时间是多少？Q3?
+  6488  Hello Simon,
+  6537 looking forward to your alleycat5 based models, please consider adding standard tachometer/PWN fan
+  6560  monitoring/control + temperature monitoring too.
+  6608 The most important missing SNMP MIBs are LLDP neighbors via the LLDP-V2-MIB: https://
+  6631  mibs.observium.org/mib/LLDP-V2-MIB/#lldpV2MIB and transceiver DDM monitoring data.
+  6653 We need the LLDP MIB to allow our monitoring system to automatically detect how the switches are
+  6678 connected together and create some maps from this data.
+  6701  DDM data is needed to have long term monitoring data of the transceivers (so we can e.g. detect laser or
+  6725 fiber degradation).
+  6748  With power/temperature/fan monitoring, of course this data should be available via SNMP too.
+  6798 Regarding the media converters: your price for the 10G model was very high and we tested a marvel based
+  6823 on from another supplier, unfortunately it doesn' t support 1G/10G mixed operation either. If you are
+  6845  aware of any other media converter/small switch based solution which can handle e.g. 10G SFP+ and 1G
+  6868 BASE-T, we' re open to suggestions.
+  6893 这个Peter跟我沟通过，是芯片本身原因，不支持1G光，我再找找看
+  6952 扫地僧
+  6990 transceiverDDMmonitoringdata//这个是有的
+  7047 扫地僧
+  7083 LLDP邻居这个，我们需要确认一下
+  7153 [Simon] 好
+  7213 Peter hu
+  7248 power/temperature/fan monitoring, of course this data should be available via SNMP too.// 这个需要切换到
+  7274 AC5系列商业级后实现
+  7344 [Simon] 是的上个月去你们谈到了这个所以我上边写了Q3？
+  7405 扫地僧
+  7441 LT-S8328XG-4XS24GT-S-2AC18
+  7465 //这款是无风扇的，不存在风扇状态
+  7489 //电源状态是支持的
+  7512 //温度目前支持cli查询，还不支持snmp
+  7537 LT-S8328XG-4XS16GX8GC-2AC36
+  7560 //这款硬件不支持电源状态，需要等AC5
+  7584 //温度和风扇，需要软件增加支持
+  7648 2025-3-18 17:07
+  7692 "扫地僧"recalled a message
+  7735 扫地僧
+  7772 Regarding the media converters: your price for the 10G model was very high and we tested a marvel based
+  7796 on from another supplier, unfortunately it doesn' t support 1G/10G mixed operation either. If you are 
+  7819 aware of any other media converter/small switch based solution which can handle e.g. 10G SFP+ and 1G
+  7844 BASE-T,we’reopen to suggestions.//这个是商务问题，我就不回答了
+  7903  Peter hu
+  7939 whichcanhandlee.g.10G SFP+ and 1GBASE-T// 这个我们的支持，客户是不是写错了，应该是10G SFP+and
+  7963 1G Base-X吧?
+  8022 扫地僧
+  8059 如果不是统一个方案，是不支持电口和光口速率不对等的
+  8124 2025-3-18 17:09
+  8170  Peter hu
+  8207 客户需要1G/10G光口的mediaconverter
+  8267 扫地僧
+  8303 这个没意义啊，谁会拿10G的去跑1G的光呢
+  8347 Peterhu:客户需要1G/10G光口的mediaconverter
+  8393 扫地僧
+  8401 地信
+  8429 价格是好几倍
+  8501 [Simon] 是的我好像也没咋遇到过光路那款好像也不支持
+  8547 [Simon] Peterhu:客户需要1G/10G光口的mediaconverter
+  8599 [Simon] OK
+  8644 [Simon] 扫地僧:Regarding the media converters: your
+  8664 [Simon] price for the 10G model was very high and we te...
+  8710 扫地僧
+  8747 我觉得是电口1G，光口10G
+  8808  Peter hu
+  8844 那我们的支持
+  8904 扫地僧
+  8939 我们是光口固定10G，电口支持10/100/1000/2.5G/5G/10G自协商
+  8999 扫地僧
+  9036 可以问问客户具体想要什么样的，价格我们这款应该有优势吧
+  9104 [Simon] 这个规格书里我写的很清楚了非常清楚
+  9151 [Simon] 扫地僧：我们是光口固定10G，电口支持
+  9171 [Simon] 10/100/1000/2.5G/5G/10G自协商
+  9229 [Simon] 我再和客户确认一下吧
+  9288 扫地僧
+  9324 嗯
+  9394 [Simon] LT-S8328XG-4XS24GT- S-2AC18
+  9419 [Simon] //这款是无风扇的，不存在风扇状态
+  9439 [Simon] //电源状态是支持的
+  9464 [Simon]  //温度目前支持cli查询，还不支持snmp
+  9514 [Simon] 这个就是不考虑风扇的事了，原本就是无风扇设计
+  9536 [Simon] 温度的话后续全面采用AC5后可以支持SNMP吗?
+  9586 [Simon] LT-S8328XG-4XS16GX8GC-2AC36
+  9609 [Simon] //这款硬件不支持电源状态，需要等AC5
+  9633 [Simon] //温度和风扇，需要软件增加支持
+  9679 [Simon] OK
+  9738 扫地僧
+  9776 LT-S8328XG-4XS24GT-S-2AC18
+  9798 //这款已经是AC5了
+  9800 //这款已经是AC5了
+  9859 扫地僧
+  9893 温度这个，我们可以增加
+  9955 扫地僧
+  9990 软件功能
+ 10051 扫地僧
+ 10087 这个没送样过吧
+ 10153 2025-3-18 17:14
+ 10198 扫地僧
+ 10235 @Peter hu
+ 10306 LT-S8328XG-4XS24GT- S-2AC18
+ 10329 1，无风扇设计，就没风扇的事儿了
+ 10353 2，支持查看电源状态
+ 10376 3，已经是AC5方案了，目前软件中没有，但可以加，现有的功能是通过CLI查询温度
+ 10424 LT-S8328XG-4XS16GX8GC-2AC36
+ 10446 电源状态/温度和风扇都是能支持的，需要在AC5方案上统一处理 (硬件和软件)
+ 10517 [Simon] 我这个理解没问题吧？
+ 10587 [Simon] 这2个型号客户都买样了时间是2024.12月底
+ 10648 扫地僧
+ 10685 那当时送样的肯定不支持
+ 10729 Simon：这2个型号客户都买样了时间是2024.12月底
+ 10776  Peter hu
+ 10811 这一款最新软件可以发给客户升级测试@扫地僧
+ 10873 扫地僧
+ 10907 LT-S8328XG-4XS24GT-S-2AC18
+ 10933 1，无风扇设计，就没风扇的事儿了
+ 10956 2，送样的样机不支持电源状态，我们现在有支持电源状态的设备了
+ 10978 3，需要新送样样机
+ 11005 LT-S8328XG-4XS16GX8GC-2AC36
+ 11026 电源状态/温度和风扇都是能支持的，需要在AC5方案上统一处理(硬件和软件)
+ 11094 2025-3-18 17:19
+ 11144 [Simon] 好的儿。
+ 11209 扫地僧
+ 11247 也就是客户手头的设备都不咋行
+ 11305 扫地僧
+ 11337 需要未来升级软硬件解决
+ 11412 也就是未来都能支持电源/温度的SNMP查询监控
+ 11436 风扇就是有风扇设计就能查询监控，无风扇就没这个事儿了
+ 11504 [Simon] 对吗？
+ 11564 扫地僧
+ 11602 嗯
+ 11666 2025-3-18 17:24
+ 11722 OK 请确认一下LLDP邻居
+ 11770 其他的我再问问客户，因为这个客户一直在用博达 (博通方案)
+ 11797 看看能不能再推一下Marvell方案
+ 11861 [Simon] 感谢
+ 11925 扫地僧
+ 11960 博达现在低端是Realtek，高端是盛科
+ 12022 扫地僧
+ 12057 已经不怎么用博通了
+ 12126 [Simon] 客户说我报的价格比博达低一些我加了不少钱了
+ 12196 we're using the BDCOM models S2900-24T4X-2AC and S2900-24S8C4X-2AC
+ 12269 [Simon] 这2款当时去你们那的时候也和Peter提起了
+ 12341 [Simon] 想着总不能还是realtek出的这2款吧
+ 12408 先不管这个了 我先问问客户那边的情况推一下新品bypass
+ 12456 这个加SNMP监控也不是很着急A
+ 12525 [Simon] 感谢
+ 12593 2025-3-18 17:34
+ 12638 扫地僧
+ 12674 LLDP邻居这个，我们支持部分，是否可以问一下客户他具体需要哪些节点
+ 12735 扫地僧
+ 12771 有发过我们的mib文档给客户吗
+ 12840 [Simon] OK 没发过mib文档
+ 12888 [Simon] 扫地僧：LLDP邻居这个，我们支持部分，是否可以问一
+ 12904 [Simon] 下客户他具体需要哪些节点
+ 12958 2025-3-19 09:09
+ 13012 早上好
+ 13062 Regarding LLDP SNMP support: the full standard LLDP-V2-MIB should be supported.
+ 13110 Regarding the media converter: 10G fiber only with 10/100/1000/2.5G/5G/10G base-t is exactly what
+ 13132 we' re looking for, but the marvel based media converter we have was not able to handle e.g. 1G base-T
+ 13159 with 10G BASE-X, can you test if this combination actually works with your model?
+ 13226 [Simon] 收发器这个测过吗？1G网+10G光能否正常工作
+ 13285 扫地僧
+ 13538 扫地僧
+ 13572 我们是用这个测试模型
+ 13632 扫地僧
+ 13671 测试仪降速至97%就可以
+ 13730 扫地僧
+ 13766 速率不对等情况下，100%发包会丢包
+ 13838 这个应该就是客户需要的M1 M2是2台设备接收的是1G网 M1 M2之间是10G光
+ 13896 扫地僧
+ 13929 客户手头有样机，测不过吗
+ 14003 [Simon] 这个在实际应用中不能实现吧？
+ 14047 [Simon] 扫地僧：测试仪降速至97%就可以
+ 14092 扫地僧
+ 14130 实际应用中基本不会到满带宽
+ 14199 没买这个样品他是买了其他供应商Marvell方案的10G收发器没过
+ 14264 2025-3-19 09:14
+ 14319 那就是实际应用中一边不会满带宽（基本就可以算作小于97%）也就是没啥问题
+ 14391 [Simon] 这么理解OK吗?
+ 14451 扫地僧
+ 14635 扫地僧
+ 14671 这是我们的测试模型和结果，可以发给客户，客户一看就明白了
+ 14731 扫地僧
+ 14767 这个客户挺专业
+ 14832 2025-3-19 09:19
+ 14888 [Simon] 好
+ 14956 2025-3-19 18:25
+ 15009 Hello Simon,
+ 15035  could you test it with a media converter+ 10G switch instead of 2 media converters?
+ 15058  With two media converters and the same speed on both copper ends it' s working fine.
+ 15104  Please test it with a fixed 10G copper connection on one end and all speeds on the other end:
+ 15131 Like this:
+ 15176  Please also try replacing 1 media converter with a 10G switch.
+ 15493 口θ
+ 15494 [Simon] Send
+ 15496 [Simon] ()

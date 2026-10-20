@@ -1,0 +1,358 @@
+    16 Peter hu、Anna (3)
+    72 8/26 12:14
+   125 Hey.
+   175 STI-21616DGGPM (LT-IS6318GP-2GX16GT L2+型号)
+   200 Vs
+   222 Sti-21616XGGPM (LT-IS6318XGP-2XS16GT L2+型号)
+   271 Same chassis, same size and form factor internally? Same plugs and holes?
+   320 Just the upgrade to 10g? Is this ac5?
+   363 Thanks,
+   389 James
+   460 [Simon] 下午请看一下这个 之前加拿大客户
+   979 当时是买了AC3的板子 同时也买了LT-IS6312XGP-4XS8GT-AC5的 8+4
+  1214 [Simon] 该客户一直强调AC5版本兼容10G上联口
+  1283 [Simon] 也一直在等AC5的BIN文件
+  1352 这个问题主要是针对他自己的机箱：当时买了板子装进了他自己的机箱所以比较在意孔位等
+  1397 [Simon] Simon: Hey. STI-21616DGGPM (LT-
+  1401 [Simon] Simon: Hey. STI-21616DGGPM (LT-
+  1420 [Simon] IS6318GP-2GX16GTL2+型号)VsSti-21616XGG..
+  1469 8/26 12:20
+  1525 If they are the same, need shipping carton quantity for the 10g version as I will do that upgrade. And get
+  1548 fully assembled versions.
+  1607 Peter hu
+  1645 客户可以拿已经买过的AC58+4万对比下就知道了
+  1689 Simon:当时是买了AC3的板子同时也买了LT-
+  1711 IS6312XGP-4XS8GT-AC5的8+4
+  1757 Peter hu
+  1793 8+4万跟8+4千是一样的
+  1861 Um, is it on 7.5.x firmware too? That should be it for q' s for now.
+  1924  Peter hu
+  1959 AC3和AC5定位孔一样的
+  2003 Simon:Hey. STI-21616DGGPM (LT-
+  2024 IS6318GP-2GX16GTL2+型号)VsSti-21616XGG..
+  2080 [Simon] 客户要买16+2
+  2149 [Simon] 好
+  2220 [Simon] AC5是吧？
+  2286 8/26 12:28
+  2330 Peter hu
+  2365 可以出AC5
+  2413 Simon:客户要买16+2
+  2468 [Simon] 好的
+  2538 wesome. Can you do a quote for 1 carton please? The 10g will be a great upgrade for my systems and
+  2563 same holes means I won' t have to redo my mechanical stuff.
+  2635 确定一切都没问题吧？AC5出货BIN文件（有就发没有就再等等上次说是月底能出这个出货是应该OK了）孔位
+  2655 (只考虑16+2)
+  2717  Peter hu
+  2753 为避免细节差异，我下午再跟陈工确认下
+  2821 [Simon] 好A
+  2890 8/26 12:31
+  2937  Peter hu
+  2969 AC5不要纠结7.5版本
+  3032  Peter hu
+  3066 AC5已经出了很多了
+  3137 就是他一直在问BIN文件9 Angora提过一嘴 其他人没咋问
+  3209 [Simon] 好
+  3255 [Simon] Peterhu:AC5已经出了很多了
+  3301  Peter hu
+  3335 你可以发7.4.X文件给他
+  3541 [Simon] ac5-hotfix-7.4.2.
+  3543 [Simon] 11
+  3555 [Simon] bin
+  3630 [Simon] 这个发过了我只有这个版本
+  3703 [Simon] 有最新的吗 如果有请发一下 用最新的给他 没就算了
+  3762  Peter hu
+  3796 下午我找找
+  3866 [Simon] 好
+  3931  Peter hu
+  3966 用得没问题一般不建议去升级
+  4105 [Simon] 621,800 *节)
+  4119 [Simon] 00字节
+  4137 [Simon] ags.26.Augst 2125, 3:1827 pm
+  4151 [Simon] dag. 26.Asgst 2025, 3:1006 pm
+  4250 Peter hu
+  4290 Planet有些产品还是10年前的软件版本
+  4357 [Simon] 他一直强调升级打补丁9
+  4427 [Simon] 我跟他视频过技术白男色
+  4489 Peter hu
+  4525 下午发
+  4597 [Simon] 好民
+  4661 8/2613:52
+  4711  Peter hu
+  4751 ac5-release-7.5.0.bin
+  4780 56.4M
+  4816 微信电脑版
+  4863  Peter hu
+  4900 Simon,请查收AC57.5版本bin文件，客户一直要，就先发给客户
+  4968 [Simon] 好感谢
+  5031 Peter hu
+  5066 孔位完全一样
+  5114 Simon:确定一切都没问题吧？AC5出货BIN文件（有
+  5134 就发没有就再等等上次说是月底能出这个出货是应
+  5188 [Simon] 价格变了吗1660要涨多少
+  5257 [Simon] 好
+  5318 Peter hu
+  5356 客户9.1号之前下单，价格可以保持，9.1后之后我们要调整价格
+  5425 [Simon] 好
+  5557 Peter hu
+  5657 8/26 16:56
+  5704 Anna
+  5744 发货图片.rar
+  5777 31.6M
+  5812 微信电脑版
+  5861 Anna
+  5893 Simon请查收发货图片
+  5958 Anna
+  6184 8/26 16:56
+  6231 Anna
+  6455 Anna
+  6680 Anna
+  6711 IndustrialSwitch
+  6737 Model: STI-288GPM
+  6760 Ports: 8*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP
+  6781 Power Input: DC 44-57V
+  6799 CE
+  6799 FC
+  6846 SN: 202608210001
+  6865 IP Adiress: 192.168.56.166
+  6865 MAC: FC-CD-2F-D0-58-6D
+  6878 Password: admin
+  6881 User name: admin
+  6931 Anna
+  6962 Industrial Switch
+  6985 Modcl: STI-21616GP
+  7007 Ports: 16*10/100/1000M RJ45 PoE + 2*1G SFP
+  7027 Power input: DC 44-57V
+  7045 CEF
+  7045 FC
+  7069 区
+  7090 SN: 202608210001
+  7139 Anna
+  7163 Industrial Switch
+  7186 Model: STI-21616GPM
+  7203 Ports: 16*10/100/1000M RJ45 PoE + 2*1G/2.5G SFP
+  7221 Power input: DC 44-57V
+  7246 CE FC
+  7267 SN:202608210001
+  7282 IP Adtress: 192.168.56.166
+  7282 MAC: FC-CD-2F-D0-5f-6F
+  7294 Password: admin
+  7295 User name: admin
+  7342 Anna
+  7375 web和标签
+  7780 [Simon] 搬厂中
+  7850 [Simon] 晚点看
+  7917 8/26 17:13
+  7971 [Simon] OK 没问题请装箱吧
+  8041 [Simon] 装箱单请发一下
+  8113 [Simon] 还有箱标请贴上去
+  8170 Anna
+  8207 好
+  8273 8/26 17:20
+  8319 Anna
+  8355 总共1箱15.8KG50*33.5*32CM
+  8415 Anna
+  8643 Anna
+  8692 AIRML/RAJA
+  8737 AIRML/RAJA
+  8805 MIERAIA
+  8871 8/26 17:28
+  8926 [Simon] OK 发吧
+  9066 [Simon] 单号有了请发我一下
+  9126 Anna
+  9162 好
+  9228 8/27 09:56
+  9280 [Simon] 有了吗？
+  9330 [Simon] Simon:单号有了请发我一下
+  9378 Anna
+  9411 你那个昨天都没发
+  9444 为哈呀
+  9466 Rot广东省广州市白云区白云湖大道200号（鲁王南
+  9479 粉滑整) 510450, 章先生 +86 18529309778
+  9507 我说电源到了呀
+  9542 今天发
+  9576 你现在约吧
+  9626 Anna
+  9662 Simon今天发哦
+  9732 [Simon] 好的
+  9798 8/27 16:19
+  9800 8/27 16:19
+  9854 [Simon] 单号有了吗 我们这搬厂基本结束了！
+  9914 Anna
+  9950 SF1577818941941
+ 10019 [Simon] hao xiexie
+ 10085 8/31 09:44
+ 10144 [Simon] 采购合同
+ 10169 [Simon] STEC20260830012.pdf
+ 10178 [Simon] PDF
+ 10201 [Simon] 339.9K
+ 10236 [Simon] 微信电脑版
+ 10297 [Simon] User Manual _STEC202608
+ 10319 [Simon] 30012.pdf
+ 10329 [Simon] PDF
+ 10351 [Simon] 547.7K
+ 10387 [Simon] 微信电脑版
+ 10448 [Simon] 发货信息_Smartbyte_STEC
+ 10470 [Simon] 20260830012.docx
+ 10482 [Simon] W
+ 10503 [Simon] 283.5K
+ 10538 [Simon] 微信电脑版
+ 10590 8/31 09:45
+ 10646 [Simon] 早上好 请安排生产
+ 10719 [Simon] 工业管理说明书
+ 10745 [Simon] STSC20260830010.pdf
+ 10753 [Simon] PDF
+ 10775 [Simon] 587.8K
+ 10811 [Simon] 微信电脑版
+ 10872 [Simon] 采购合同
+ 10897 [Simon] STSC20260830010.pdf
+ 10903 [Simon] PDF
+ 10924 [Simon] 277.1K
+ 10963 [Simon] 微信电脑版
+ 11019 [Simon] 还有这个
+ 11090 [Simon] 另外9月1号（明天）会把所有价格都更新了是吧？
+ 11149  Peter hu
+ 11183 是的，价格更新一步步来，尽量在这周更新好
+ 11254 [Simon] 好
+ 11318 8/3109:55
+ 11367 Anna
+ 11400 收到
+ 11448 Simon:早上好请安排生产
+ 11499 9/1 17:15
+ 11554 [Simon] 价格有更新好的了吗？
+ 11601 [Simon] Peterhu:是的，价格更新一步步来，尽量在这周更新
+ 11623 [Simon] 好
+ 11678 [Simon] 光博会你们去逛吗 还是Dpek会参展？
+ 11734 Peter hu
+ 11772 太忙了啊，不着急啊
+ 11831 Peter hu
+ 11869 DPTEK没有参展，我会抽时间去看看
+ 11939 [Simon] OK
+ 12004 9/2 14:34
+ 12050 Anna
+ 12077 Commercial Switch
+ 12104 Model: BNSC-424DGGPM
+ 12121 Ports: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP
+ 12138 Power supply: 280W
+ 12154 Chipset: MarvelI Based
+ 12160 CE
+ 12160 FC
+ 12211 SN: 202608310001
+ 12231 MAC: FC-CD-2F-D0-58-A8
+ 12236 User name: admin
+ 12247 IP: 192.168.56.166
+ 12249 Password: admin
+ 12297 Anna
+ 12322 Industrial Switch
+ 12341 Model: SW-3200-16GP-2SX
+ 12355 Ports: 16*10/100/1000M RJ45 PoE + 2*1G/2.5G/10G SFP+
+ 12370 Power input: DC 44-57V
+ 12387 PoE Budget: 240W
+ 12410 CEFC
+ 12429 SN: 202608310001
+ 12440 IPAdres: 192.168.130MAC: FC-CD-2F-D0-58-A9
+ 12455 User name: admin Password: admin
+ 12502 Anna
+ 12534 Simon请确认下标签@Simon
+ 12604 [Simon] 都OK 
+ 12671 9/2 16:37
+ 12717  Peter hu
+ 12753 @Simon请查收更新的管理型商业级以及管理型工业级价格表，对于此次价格更新做如下说明：
+ 12800 1.这次价格更新依据主要是参照现有物料成本以及合理的利润率，有些型号价格上浮较多，有些型号上浮较小，有些
+ 12820 型号没有调整（利润还扛得住就没有普涨了）
+ 12870 2.工业级/商业级有几个型号由于出货量太小，出完AC3就不会再做AC5了，具体型号请见备注说明！
+ 12917 3.工业级16+4/24+4/12+8以及1U机型AC5都默认带DI/DO/RS485出货，这个系列价格基本都没有上浮调整，相
+ 12943 当于是免费升级！
+ 12991 4.商业级Layer3的价格上浮主要是AC5Layer3产品用的是1GB的DDR，1GBDDR目前成本非常高；商业级8+2以
+ 13014 及爆款24+4全千兆成本非常高，已经没有报价的意义，暂停出货！
+ 13062 5.工业级非网管所有价格暂时保持不变！
+ 13110 如有其它疑问再随时沟通
+ 13170  Peter hu
+ 13209 SmartByte managed
+ 13233 Ethernet switch pr...30.xlsx
+ 13264 945.4K
+ 13299 微信电脑版
+ 13345 Peter hu
+ 13389 SmartByte Managed
+ 13412 Industrial Etherne...30.xlsx
+ 13441 3.3M
+ 13479 微信电脑版
+ 13526 Peter hu
+ 13561 再补充1条，价格有效期是2026.09.01-2026.12.30
+ 13629 [Simon] 好我看看
+ 13773 [Simon] 让我用agent跑一下 比对一下差别 哈哈
+ 13838 9/2 16:42
+ 13885  Peter hu
+ 13921 改天教我用下你的agent
+ 13981  Peter hu
+ 14017 要跟你们年轻人学习
+ 14087 [Simon] 哈哈好啊
+ 14159 [Simon] 我上班现在50%的时间都是在跑AI
+ 14216 Peter hu
+ 14253 我下个月去深圳办公了，欢迎去我们办公室坐坐
+ 14322 [Simon] 在哪里
+ 14388 9/2 16:43
+ 14434 Peter hu
+ 14470 我跟Anna两个回深圳，在龙华
+ 14541 [Simon] poob
+ 14610 [Simon] 起喝茶哈哈
+ 14671  Peter hu
+ 14708 到时候请你去跟我们培训下AI6
+ 14779 哈哈 可以一起看看咋搞 反正我是觉得帮助很大 体感很明显
+ 14839  Peter hu
+ 14875 是要多了解多学习新事务，现在已经进入AI时代了
+ 14941 [Simon] 我官网你看看
+ 15002 Peter hu
+ 15038 我看过了
+ 15109 [Simon] 全部AI搞的1分钱没花就域名弄了10年的
+ 15180 [Simon] 昨天才更新了
+ 15242  Peter hu
+ 15278 你再发来看看
+ 15347 [Simon] https://sagatele.com/
+ 15406 Peter hu
+ 15442 第一感觉SagaTelecom是卖方案公司
+ 15510 9/2 16:49
+ 15557  Peter hu
+ 15590 不过逼格确实是有的
+ 15662 [Simon] 有Al说技术味道太浓了要的就是这个效果9
+ 15687 [Simon] 把常规的小客户
+ 15756 [Simon] 全部先筛走慢慢做品牌资产
+ 15826 [Simon] 哈哈哈
+ 15874 [Simon] Peterhu:不过逼格确实是有的
+ 15926 [Simon] 你们啥时候到龙华？
+ 15987 Peter hu
+ 16025 月底开始搬
+ 16083 Peter hu
+ 16119 正式过去国庆节后
+ 16180 Peter hu
+ 16218 10月8号开业
+ 16289 [Simon] 好 到时候去你们那喝茶 哈哈
+ 16349  Peter hu
+ 16384 热烈欢迎
+ 16515 Peter hu
+ 16620 9/2 17:13
+ 16675 个异常：LT-IS6312XG 1300→840(-35%)
+ 16676 -Peter 没提任何降价，这大概率是l旧册口径问题，问清楚前别当
+ 16694 降价用。
+ 16800 [Simon] loriar/GinO/TF, RI1F,
+ 16804 [Simon] ￥1,300
+ 16804 [Simon] (1-5621289P-05851
+ 16808 [Simon] nng/GHOP/MulTin/ACL/I
+ 16816 [Simon] DS4/heE nanigerentyPvS
+ 16823 [Simon] Ws/SAONR/TriAat/TFTF/Wrb uogradr
+ 16831 [Simon] Lrecovery Fime GD
+ 16837 [Simon] S mrg protertte ane (5D: Ar-1Snc, Corl
+ 16845 [Simon] ulsep utapue(gt-eig putts
+ 16885 [Simon] 8*10/ID0/3000Ease-T R045 ports, 4*1G/2.5
+ 16892 [Simon] + DC 32'S8rineut, neluedart powor sapoly uth grlarly rone
+ 16900 [Simon] tage/aver-srset prstection
+ 16908 [Simon] rtome etgut ntley alarm
+ 16922 [Simon] part inyer 2 nanugmmcet funcion:
+ 16929 [Simon] m/@nQ/ST,RF,
+ 16932 [Simon] Y84)
+ 16932 [Simon] LT-63S209P-458G7
+ 16936 [Simon] /GHCP/MuTicst/ACL/IG
+ 16959 [Simon] (RPS grotacol, recovery time s2Dn
+ 16965 [Simon] snp pretecten ane (50: Ar-1Skv, Csn
+ 16972 [Simon] Fand Die-all hardvane design 
+ 17095 %
+ 17100 [Simon] Send

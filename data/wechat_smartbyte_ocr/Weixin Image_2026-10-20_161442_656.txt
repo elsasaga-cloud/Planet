@@ -1,0 +1,300 @@
+    14 STSC20250117007 (6)
+    58 2025-11-6 16:29
+   105  0 Taylan Esen
+   139 great. we are installing our device
+   200 扫地僧
+   236 So, what's the result?
+   298 0 Taylan Esen
+   335 still working. it is a mess here. so it takes some time. we need 5 more mins
+   398 2025-11-6 16:35
+   445 Levent KILIC
+   481 Installation sites are always a shit show
+   546 2025-11-6 16:41
+   591 0 Taylan Esen
+   625 it is coming up. connecting ethermets
+   699 take your time, pls just provide as much info as possible
+   722 videos first 
+   791 [Simon] Better if you can describe whats happening there
+   815 [Simon] its like
+   840 [Simon] when filming, you can try to say, LEDs are OK
+   862 [Simon]  port 4 is not working
+   889 [Simon] Ping works
+   914 [Simon] etc.
+   980 [Simon] its eaiser for us...
+  1046 2025-11-6 16:48
+  1092  0 Taylan Esen
+  1130 ok we are plugging in one by one
+  1190 0 Taylan Esen
+  1225 the are working
+  1286 0 Taylan Esen
+  1319 one camera which eas workingon zyxel with 100 mbps
+  1386 2025-11-6 16:49
+  1434 0 Taylan Esen
+  1467 it is wirking when we set 10 mbps
+  1529 扫地僧
+  1563 packet loss happen?
+  1624 0 Taylan Esen
+  1661 no looks ok
+  1721  0 Taylan Esen
+  1759 we add 4 camera
+  1824 2025-11-6 16:54
+  1871 0 Taylan Esen
+  1902 all working
+  1966 0 Taylan Esen
+  1999 just one with 10mbps
+  2062 扫地僧
+  2098 What do you think about the previous malfunction? It's working normally now
+  2160 0 Taylan Esen
+  2194 i dont feel any issue right now
+  2255  0 Taylan Esen
+  2292 10mbps issue may be due to distance and that is acceptable
+  2350 扫地僧
+  2386 It will be abnormal after few days?
+  2453 2025-11-6 17:03
+  2499 0 Taylan Esen
+  2535 they say so
+  2579 扫地僧: It will be abnormal after few days?
+  2628 0 Taylan Esen
+  2722 扫地僧
+  2758 Is there possibilities problem with poe adapter, the customer repower the device?
+  2819 Levent KILIC
+  2855 Are the cameras powered by the switch or an external power supply?
+  2916 Levent KILIC
+  2952 And any idea about the distance of the camera that works on 1oMbps?
+  2998 May be there are add-on patches on the data cable? Some looses on the cable?
+  3059 0 Taylan Esen
+  3094 yes we have changed one of the poe adapters here and i solves one camera issue
+  3139 扫地僧：lstherepossibilitiesproblemwithpoe
+  3161 adapter, the customer repower the device?
+  3206 扫地僧
+  3306 0 Taylan Esen
+  3341 the adapters are 60w
+  3400 0 Taylan Esen
+  3436 cameras are ptz cameras with large motors. so probably need more than 30w while moving
+  3502 2025-11-6 17:08
+  3546 0 Taylan Esen
+  3585 they said they had too many issues with poe before on different vendors
+  3643 0 Taylan Esen
+  3680 so it is somehow expected
+  3741 Levent KILIC
+  3776 Are the power supplies for the switches 60w?
+  3841 2025-11-6 17:19
+  3889 0 Taylan Esen
+  3927 yes
+  3969 Levent KILiC: Are the power supplies for the
+  3991 switches 60w?
+  4036 0 Taylan Esen
+  4071 now we are leaving this site. All looks ok
+  4132 0 Taylan Esen
+  4166 We are going to another site
+  4227 0 Taylan Esen
+  4263 10 mins away
+  4326 0 Taylan Esen
+  4361 They are ok with current site setup. And accepts 10mbps as long as it works smoothly
+  4420  0 Taylan Esen
+  4458 Now we are going to another site. This site they have an issue with the control system
+  4518 0 Taylan Esen
+  4768  0 Taylan Esen
+  4804 this device. it is an old product
+  4870 2025-11-6 18:17
+  4915 0 Taylan Esen
+  4953 We had a lunch break. Now we are going back to the first site that i sent pictures
+  5014 0 Taylan Esen
+  5048 It was working this morning now they report some problems
+  5119 [Simon] ok, we are wating for updates
+  5183 2025-11-6 18:34
+  5229  0 Taylan Esen
+  5264 We are on site. The problem is power cut.
+  5327 0 Taylan Esen
+  5362 So not a switching problem
+  5423 0 Taylan Esen
+  5457 Now moving to another one
+  5523 [Simon] good to know this
+  5585 Levent KILIC
+  5624 How many sites are there with problem ?
+  5694 [Simon] ok, waiting for your furthur feedback
+  5764 [Simon] haha
+  5823 0 Taylan Esen
+  5857 5-6 i ll go as many as possible
+  5906 Levent KILiC: How many sites are there with
+  5924 problem?
+  5972 Levent KILIC
+  6005 great...
+  6077 [Simon] lets see, we will fix this as a team
+  6215 2025-11-6 18:45
+  6259  0 Taylan Esen
+  6295 Now what i see if we can sort out this controller problem, all would be good
+  6361 2025-11-6 20:05
+  6417 [Simon] everything good? @Taylan Esen
+  6483 2025-11-6 20:40
+  6530 0 Taylan Esen
+  6564 We have agreed to further monitor for the upcoming days
+  6628 0 Taylan Esen
+  6660 This does not look a switch problem directly
+  6724 0 Taylan Esen
+  6757 The only issue on our side, is some 1oMbps ports where some controllers are not working
+  6819 0 Taylan Esen
+  6852 also we Il install a management tool to check the live logs
+  6914 0 Taylan Esen
+  6949 we agreed to setup a demo environment in customer site and have access to it
+  7010 0 Taylan Esen
+  7048 If needed we Il come back for more test
+  7107 0 Taylan Esen
+  7143 Tonight i will share a detaled summary with you
+  7204 0 Taylan Esen
+  7239 Thanks for your support, very important for us, appreciate
+  7304 2025-11-6 20:57
+  7351 Levent KILIC
+  7385 Hi @Simon and the team, thanks for your support... Let's keep close watch and see what we may help them with.
+  7453 2025-11-6 21:19
+  7508 [Simon] Hi @Taylan Esen
+  7533 [Simon] thanks a lot for your efforts
+  7556 [Simon] waiting for your summary
+  7603 [Simon] HI @Levent KILIC
+  7627 [Simon] thanks
+  7648 [Simon]  good to know that we are good for now
+  7670 [Simon]  yes, lets just fix it once and for all 
+  7745 [Simon] really good to know that switches are OK
+  7768 [Simon] lets see whats coming next
+  7901 Levent KILIC
+  7937 thanks again
+  7995  0 Taylan Esen
+  8033 thanks for all your support 
+  8096 2025-11-6 21:21
+  8153 [Simon] team players always back u up
+  8226 [Simon] thanks again for your efforts
+  8287 2025-11-14 15:01
+  8336 0 Taylan Esen
+  8370 Hello team
+  8434 0 Taylan Esen
+  8467 We did install our netork management to customer
+  8530 0 Taylan Esen
+  8565 There are 57 devices out and it looks pretty ok.
+  8624  0 Taylan Esen
+  8659 Only exception is there are couple of roundabout control devices.
+  8721  0 Taylan Esen
+  8759 Theonewith microcontrollers and old ethernet card.
+  8818 0 Taylan Esen
+  8854 There is a particular site that i took photos of the device.
+  8914 0 Taylan Esen
+  8948 Here the port comes up remains up but the device connection get lost after some time
+  9010 0 Taylan Esen
+  9045 1 hour - 2hours not definite but we ccan bring it back by shut/no shut the port or rebooting the switch.
+  9070 Then it works for another hour.
+  9129 0 Taylan Esen
+  9168 I remember from unmanaged switch that there is a watchdog feature that restarts the port
+  9227 0 Taylan Esen
+  9263 Any chance to implement similar function
+  9327 2025-11-14 15:08
+  9373 扫地僧
+  9410 only PoE switch have watchdog function
+  9457 0 Taylan Esen:I remember from unmanaged
+  9476 switch that there is a watchdog feature that rest..
+  9522 扫地僧
+  9558 Are they powered byPoE?
+  9604 0 Taylan Esen: The one with microcontrollers and
+  9620 old ethernet card.
+  9670 0 Taylan Esen
+  9703 No they are not
+  9763  0 Taylan Esen
+  9799 Any other option?
+  9801 Any other option?
+  9860 扫地僧
+  9897 wait
+  9957 扫地僧
+ 10140 2025-11-14 15:14
+ 10187 扫地僧
+ 10222 You can add a PoE splitter and enable a PoE watchdog on the switch side. When the old Ethernet card
+ 10247 crashes, the switch will restart PoE power supply.
+ 10309 0 Taylan Esen
+ 10342 Howwatchdogworks?Doesitcountpackets?
+ 10401 0 Taylan Esen
+ 10438 IF so can we add a routine to restart the port
+ 10498 扫地僧
+ 10536 ping or count packets
+ 10596 0 Taylan Esen
+ 10630 is it porssible?
+ 10691 扫地僧
+ 10854 扫地僧
+ 11033 扫地僧
+ 11067 I think so
+ 11113 O Taylan Esen: is it porssible?
+ 11159 扫地僧
+ 11197 Do youhave PoE splitter on site?
+ 11200 DoyouhavePoEsplitteronsite?
+ 11262 2025-11-14 15:19
+ 11309 0 Taylan Esen
+ 11343 Wecan arrangeone
+ 11403 扫地僧
+ 11440 great
+ 11502 0 Taylan Esen
+ 11537 But still it cuts the power not shuts the port right?
+ 11602 2025-11-14 15:20
+ 11647 扫地僧
+ 11684 cut the power not shutdown ports
+ 11745 0 Taylan Esen
+ 11779 can we make a quick development version to make it shut and no shut ? Is this possible
+ 11842 扫地僧
+ 11874 Are you sure shutdown/no shudown ports can resolve the problem?
+ 11938 扫地僧
+ 11973 It so, we can try to develop this tunction tor you
+ 12034 0 Taylan Esen
+ 12070 Great, let me first ask custoemer to try the PoE adapter
+ 12129 扫地僧
+ 12164 Ok
+ 12224 0 Taylan Esen
+ 12262 In the meantime i ll make sure that shut/no shut works
+ 12323 0 Taylan Esen
+ 12356 I ll get back to you
+ 12418 扫地僧
+ 12453 Ok
+ 12513 扫地僧
+ 12878 2025-11-14 15:25
+ 12924 扫地僧
+ 12961 this is PoE adapter, we need PoE splliter
+ 13022 0 Taylan Esen
+ 13057 this one is for cameras
+ 13118 0 Taylan Esen
+ 13151  i have couple of them in the office. ill send the today
+ 13196 扫地僧：this is PoE adapter，we need PoE splliter
+ 13242 扫地僧
+ 13278 PoE adapter=AC input, PoE output
+ 13303 PoE splliter=PoE intput, DC output 
+ 13364 0 Taylan Esen
+ 13401 ok
+ 13442 扫地僧:PoE adapter=AC input,PoE output PoE
+ 13463 splliter=PoE intput, DC output
+ 13510 扫地僧
+ 13546 Ok, please make sure no mistake
+ 13590 0 Taylan Esen:  i have couple of them in the
+ 13609 office. i ll send the today
+ 13658 0 Taylan Esen
+ 13692 i ll share the pictures with you before i send them
+ 13754 扫地僧
+ 13856 2025-11-14 15:30
+ 13903 扫地僧
+ 13938 The output voltage needs to be matched with the device.
+ 13999 0 Taylan Esen
+ 14001 0 Taylan Esen
+ 14037 the device is not PoEpowered. I ll add this only to enable PoE on the switch
+ 14095 0 Taylan Esen
+ 14132 End device the old one, would still not consume any power from poe splitter
+ 14192 0 Taylan Esen
+ 14227 Do you think it works
+ 14288 0 Taylan Esen
+ 14323 Ithas itsownpowersource
+ 14383 扫地僧
+ 14424 no
+ 14464 0 Taylan Esen:Do you think it works
+ 14512 0 Taylan Esen
+ 14546 Ok so this would not work.
+ 14607 扫地僧
+ 14786  0 Taylan Esen
+ 14822 Let me ask if the device can be powered with the splitter
+ 14883 扫地僧
+ 14919 the end device should powered by PoEswtich indirectly
+ 14980 0 Taylan Esen
+ 15015 Ok, i got your point
+ 15075 扫地僧
+ 15265 [Simon] Send
+ 15267 U

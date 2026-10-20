@@ -1,0 +1,500 @@
+    16 Peter hu、扫地僧(3)
+    93 2025-11-12 09:05
+   147 Hello Simon,
+   173 they did some basic testing and will install the unit in a production environment soon.
+   194 They asked for the latest SNMP MIB version.
+   220 Two trees do not resolve to names with the current version we' re using:
+   243 .1.3.6.1.4.1.57430.1.2.4.* (temperature?)
+   266 .1.3.6.1.4.1.57430.1.10.* (unknown purpose)
+   292 SNMP sysObjectID is not used correctly, it still only points to the enterprise root but it should point to a
+   315 specific switch series/model OID (See previous mails):
+   338 SNMPv2-MIB:sysObjectID.0 = OID: iso.3.6.1.4.1.57430
+   360  The fan status changes do not trigger SNMP traps (SYSLOG only)
+   388 How to check the fan status via SNMP?
+   457 早上好 请抽空看一下 之前德国客户出了双电源+风扇监控的反馈
+   520 2025-11-12 09:06
+   568 扫地僧
+   604 目前风扇和电源只有cli，mib还不支持
+   663 扫地僧
+   700 客户需要的话，可以增加
+   772 OK因为这个客户后续要下大货到时可以加吧？
+   818 会很复杂吗？
+   839 需要客户直接列一个list吗？比如要加啥
+   866 1：可以最大程度满足客户 2：我们也收集一下市场需求 看看哪些值得研发啥的
+   926 扫地僧
+   959 mib这个，我们一般不主动开发，因为每个客户的需求不一样。
+  1021 扫地僧
+  1058 一般客户提啥，我们开发啥
+  1118 扫地僧
+  1154 有大单都好说
+  1225 list这不单单指mib 我感觉这个客户还是比较专业的 看看除了mib其他的需求
+  1294 [Simon] OK
+  1336 [Simon] 扫地僧：一般客户提啥，我们开发啥
+  1384 扫地僧
+  1419 可以收集一下客户需求
+  1490 [Simon] OK A
+  1553 扫地僧
+  1647 扫地僧
+  1686 我们毕竟小公司，人手不足。不能像大公司一样，所有的mib都做
+  1744 扫地僧
+  1782 只能缺啥补啥
+  1854 各有各的优势
+  1854 给到他支持，而且他也没用过marvell，这种客户很容易绑定
+  1925 [Simon] 后续再看看啥情况
+  1984 扫地僧
+  2088 2025-11-12 09:11
+  2133 扫地僧
+  2170 贵司有申请OID吗
+  2231 扫地僧
+  2267 或者这个客户有没有自己的OID
+  2338 [Simon] 没我这就一个简单的贸易公司)
+  2338 [Simon] 基本都是依靠你们
+  2383 [Simon] 扫地僧：贵司有申请OID吗
+  2439 [Simon] 他是有的 Peter知道这个
+  2484 [Simon] 扫地僧：或者这个客户有没有自己的OID
+  2530 扫地僧
+  2565 了解
+  2637 我先跟他说一下 看看客户咋说 因为他说是有个230台的项目=这是基于之前测样过后提出的
+  2707 [Simon] 所以感觉只要测试OK 给到一定的支持问题不大吧
+  2766 扫地僧
+  2802 明白
+  2863 扫地僧
+  2900 客户送样型号叫啥
+  2963 [Simon] 品名、规路、计量单位、数量、金额供需双方本着平等互利的原则，经双方友
+  2980 [Simon] 凌特型号
+  2982 [Simon] 品名
+  3014 [Simon] 商业交换机L2+:24*10/100/1000Buse-T+4*1G/2.5G/10G
+  3015 [Simon] LT-S8328XG-4XS24GT-
+  3030 [Simon] SFPACS 爆款,BU power abe,不带 PoE 不含光根
+  3030 [Simon] S-2AC18
+  3046 [Simon] 块。1年质保，含管理线双AC电源输入
+  3063 [Simon] 12+8*1G SFP/R45 Comho
+  3064 [Simon] 商业交换机
+  3078 [Simon] 16*100Base-X SFP + 4*IG2.5G/10G SFP, ACS 想款,
+  3081 [Simon] LT-S8328XG-4XS16GX
+  3096 [Simon] EUpowersuppy 不含光模块，1年质保，含管理线双
+  3097 [Simon] SGC-2AC36
+  3113 [Simon] AC电源输入
+  3171 [Simon] 去年2024.12.2
+  3237 [Simon] 一、品名、规格、计量单位、数量、金额供需双方本着平等互利的原则，
+  3245 [Simon] +
+  3256 [Simon] 品名
+  3257 [Simon] 台
+  3292 [Simon] 商业级：8系，2+层答旺，16个个兆SFP
+  3301 [Simon] LT-S8328XG-4XS160X80C-2
+  3310 [Simon] 光口，8个千兆Combe 口，4个万兆 SFP+
+  3319 [Simon] S-
+  3402 [Simon] 今年2025.9.23
+  3461 扫地僧
+  3500 只有今年的这款支持双电源和风扇状态
+  3565 2025-11-12 09:16
+  3611 扫地僧
+  3638 凌特型号
+  3671 级：8系，2*层管座，16个千亮SFP
+  3681 LTS828XG-4XS160X8GC-2
+  3689 8个千亮Cebo口，4个万兆 SFP+
+  3698 AC36-H-ACS
+  3707 光口
+  3764 扫地僧
+  3801 贵司型号叫啥
+  3871 对还是这个客户特别提出 然后加上的 感谢你们的支持A
+  3942 [Simon] STC-4168XGGCM
+  3987 [Simon] 扫地僧：贵司型号叫啥
+  4034 扫地僧
+  4072 W
+  4130 扫地僧
+  4161 config×
+  4185 //version="1.o";
+  4201 contact="";
+  4217 location="";
+  4233 vendor_oid=0;
+  4246 product_name="STC-4168XGGCM";
+  4326 扫地僧
+  4362 目前还没有这个公司的OID，可以问要一下
+  4431 [Simon] 要一下客户的OID信息是吧？
+  4491 扫地僧
+  4528 如果没有OID的话，那就用OID=0
+  4588 扫地僧
+  4669 Simon：要一下客户的OID信息是吧？
+  4724 [Simon] 好
+  4794 [Simon] 还有啥需要和客户沟通 确认的吗？
+  4855 扫地僧
+  4890 没有了
+  4964 [Simon] 好客户有啥反馈我在群里说感谢
+  5023 扫地僧
+  5126 2025-11-13 20:37
+  5179 Hello Simon,
+  5205 how did you implement the fan monitoring for the fans?
+  5229 Do you use a sense pin to count rotations per minute or is it based on current measurement?
+  5251 Given that the RPM values are not included I the "show fan" output we assume it' s current based.
+  5321 [Simon] Current temperature: 45.0 C
+  5345 [Simon] High Ctrl level:
+  5369 [Simon] Trigger: 90.0 C
+  5394 [Simon] Clear : 85.0 C
+  5418 [Simon] Fan ID
+  5419 [Simon]  Fan Speed
+  5420 [Simon]  Fan Status
+  5462 [Simon] Failure
+  5488 [Simon] low
+  5489 [Simon] Normal
+  5559 What possible values can the fan speed and fan status have?
+  5581 Status only failure and normal?
+  5607 Speed only
+  5607 (Does this mean stopped or unknown?), low and high? Or is there anything in between
+  5632 (middle)?
+  5655 Is it possible to change the high ctrl levels?
+  5678 We' Il make some MiB suggestions based on your answers.
+  5701 Attached you find a mib file containing the missing temperature readings based on our observations (it
+  5725 should be integrated into an update version of your NMS-SYS-MIB).
+  5750 For our sample switches this results in the following SNMP output:
+  5773 .iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.temperatureTable.temperatureEntry.temperatu
+  5798 relndex.1 = INTEGER: 1
+  5820 .iso.org.dod.internet.private.enterprises.nms.nmsModule.sys.temperatureTable.temperatureEntry.temperatu
+  5845 reValue.1 = INTEGER: 45
+  5918 [Simon] NMS-SYS-TEMPERATURE-
+  5942 [Simon] MIB.mib
+  5974 [Simon] 1.3K
+  6009 [Simon] 微信电脑版
+  6064 [Simon] 陈工 请抽空看一下 不着急的
+  6091 [Simon] 问的都是技术问题)
+  6150 扫地僧
+  6186 客户希望提供风扇转速，这个低端交换机不会去这么做的，这个需要成本
+  6232 Simon: Hello Simon, how did you implement the
+  6252 fan monitoring for the fans? Do you use a sense...
+  6298 扫地僧
+  6334 这款低端产品，我们的风扇只提供了low和high两种风速
+  6393 扫地僧
+  6430 状态只有normal和failure两种
+  6489 扫地僧
+  6526 风扇mib节点我们正在做
+  6590 2025-11-13 20:45
+  6645 1，那就是目前这个样品自带fan monitoring
+  6671 可通过CLI调用命令查看或改变阈值
+  6694 比如调节风速和温度
+  6718 但只有那几个状态 (low和high,状态只有normal和failure)
+  6741 并不是完全客户说的那种
+  6789 2，目前样品无法具体查看或调节风扇具体转速
+  6835  (Does this mean stopped or unknown?), low and high? Or is there anything in
+  6836 3, Speed only
+  6838 "--"
+  6862 between (middle)?
+  6882 这个是啥意思呢？
+  6931 4，风扇mib节点我们正在做
+  6955 这个是指客户提到的吗？
+  6979 Attached you find a mib file containing the missing temperature readings based on our observations (it
+  7004 should be integrated into an update version of your NMS-SYS-MIB).
+  7065 [Simon] Current temperature: 45.0 C
+  7084 [Simon] High Ctrl level:
+  7102 [Simon] Trigger: 90.0 C
+  7120 [Simon] Clear :85.0 C
+  7154 [Simon] Fan Speed
+  7156 [Simon] Fan ID
+  7156 [Simon] Fan Status
+  7191 [Simon] Failure
+  7209 [Simon] Norma1
+  7213 [Simon] 2
+  7271 [Simon] 第四点似乎是温度相关的
+  7330 扫地僧
+  7371 风扇故障说明风扇不转了
+  7414 Simon:
+  7490 扫地僧
+  7523 speed就没有意义了
+  7594 [Simon] -是对应到后边的failure 明白了
+  7661 2025-11-13 20:47
+  7707 扫地僧
+  7742 第四点，我们做mib的时候会看看客户反馈的是啥问题
+  7815 [Simon] 1和2目前就是我们样品支持的功能了是吧？
+  7885 [Simon] OK看写的是温度相关的和fan没啥关系了
+  7930 [Simon] 扫地僧：第四点，我们做mib的时候会看看客户反馈的
+  7947 [Simon] 是啥问题
+  7994 扫地僧
+  8032 嗯，据我所知，接入交换机都只做到这个程度
+  8100 [Simon] OK
+  8171 如果按照客户说的做 好搞吗？仅从技术上看=研发时间和投入 以及 可行性 (你们推广 相关的产品价格)
+  8230 扫地僧
+  8263 那就是全定制产品了
+  8334 综合考量下来有必要和客户说可以做吗？还是直接说这种接入价格的就这样了
+  8395 扫地僧
+  8401 扫地僧
+  8432 没有什么不能做的
+  8493 扫地僧
+  8528 客户能接受价格和moq，那我们就可以给客户定制
+  8588 扫地僧
+  8625 这个算是定制开发，我们一般是要收定制费用
+  8684 扫地僧
+  8721 高级功能除外哈
+  8767 扫地僧：没有什么不能做的
+  8818 2025-11-13 20:53
+  8872 我和Peter在上个月安博会见面了
+  8899 谈了一下
+  8945 一个定制项目要综合考量
+  8968 比如MoQ，市场推广，研发投入 (时间 精力手上的任务等)
+  9016 因为这个客户我还是比较重视的
+  9039 但是
+  9063 客户目前只下了2个样品，虽说后续说了有大货单
+  9088 但这还很遥远
+  9135 从我自己的角度上看，肯定是希望研发的，和客户说都能做
+  9159 开出条件即可： MoQ 定制费 周期 需要的一些条件等
+  9183 客户愿意就继续玩
+  9202 不愿意就gg
+  9255 但也是想从你们的角度上看
+  9278 技术难度，投入的时间精力，以及是否有必要 (因为可能这就是极少数客户的需求)
+  9346 这个我知道Peter和我说过我已经写在规格书里了哪些功能我们不做以及长期都不做
+  9392 [Simon] 扫地僧：高级功能除外哈
+  9448 [Simon] 所以是想让你们综合考量一下
+  9496 [Simon] 如果有必要做：那就直接开条件
+  9519 [Simon] 我扔给客户
+  9542 [Simon] 他愿意就继续玩
+  9566 [Simon] 不愿意就gg
+  9615 [Simon] 如果没必要，那就放弃
+  9639 [Simon] 可能是时间精力或者市场推广等各种原因
+  9663 [Simon] 我直接和客户说
+  9687 [Simon] 这个价格 这种接入的交换机
+  9709 [Simon] 基本就这个形态了
+  9768 扫地僧
+  9803 我不觉得客户提的需求很关键
+  9865 扫地僧
+  9902 对于这个级别的交换机有点吹毛求疵了
+  9972 [Simon] 很关键是指
+  9995 [Simon] 可能在这个项目里这个功能并不是核心点
+ 10017 [Simon] 没必要死磕或者一直盯这个来搞？
+ 10078 Peter hu
+ 10113 这个案子放弃吧，没有必要，你也可以直接跟客户讲不开发的原因，就是扫地僧讲的原因
+ 10185 [Simon] OK
+ 10230 [Simon] 扫地僧：对于这个级别的交换机有点吹毛求疵了
+ 10276 扫地僧
+ 10310 对啊，风扇能调速，能告警。为何还要要求风扇转速读取呢
+ 10383 [Simon] 好我跟客户说一下看看他啥反馈
+ 10442 扫地僧
+ 10479 华为，华三的接入交换机也是一样啊
+ 10549 [Simon] OK
+ 10595 [Simon] 扫地僧：华为，华三的接入交换机也是一样啊
+ 10646 2025-11-13 20:58
+ 10705 我做个总结写给客户看他咋说我也是觉得这个太扣细节了很耽误事儿
+ 10763 扫地僧
+ 10800 要么客户发个友商的手册给我们参考
+ 10858 扫地僧
+ 10894 看看人家友商怎么做的
+ 10956 Peter hu
+ 10994 也许客户也就是问问，没有这个功能也不妨碍大局
+ 11063 如果是这样那客户很可能是参考国外一些型号或者自己空想的一个功能
+ 11109 [Simon] 扫地僧：华为，华三的接入交换机也是一样啊
+ 11163 [Simon] 我都问问
+ 11229 2025-11-13 20:59
+ 11290 [Simon] 心
+ 11347 扫地僧
+ 11380 我觉得是这样
+ 11428 Peterhu:也许客户也就是问问，没有这个功能也不妨
+ 11447 碍大局
+ 11495  Peter hu
+ 11531 我觉得没有必要问了，都不决定做了，假如是友商有做，那价格肯定不是一个层级的
+ 11576 Simon:我都问问
+ 11893 这是记录 我看并没提到转速 只是简单的功能：就是我们目前的
+ 11964 The BDcOM switches we' re using support all these features, given that they are only slightly more
+ 11988 expensive we' Il stick with them for now.
+ 12010 Please keep us updated if there' s a new hardware revision/model which fixes these issues.
+ 12081 [Simon] 我问问吧 反正我们不做 问问学一下 了解一些新的
+ 12128 [Simon] Peterhu：我觉得没有必要问了，都不决定做了，假如
+ 12146 [Simon] 是友商有做，那价格肯定不是一个层级的
+ 12200 we're using the BDCOM models S2900-24T4X-2AC and S2900-24S8C4X-2AC.
+ 12286  Peter hu
+ 12391 这是当时客户提到的型号我还特别去网站看了但是并没具体技术细节
+ 12458 2025-11-13 21:07
+ 12502 扫地僧
+ 12538 放心吧，就bdcom厂家，做不到客户说的那样
+ 12610 我一并问问客户吧 我刚看了BDCOM的资料 命令行啥的 并没看到DUAL AC相关的信息
+ 12902 [Simon] 感觉都是常规的功能。
+ 12971 [Simon] 哈哈好
+ 13018 [Simon] 扫地僧：放心吧，就bdcom厂家，做不到客户说的那样
+ 13076 [Simon] 有啥情况我再反馈感谢A
+ 13137 2025-11-13 21:14
+ 13185 扫地僧
+ 13361 2025-11-18 17:19
+ 13415 Hello Simon,
+ 13488 we were just asking how you realized the FAN controller logic to make recommendations for the MIBs.
+ 13534 If it' s based on RPM you could use the "ENTITY-MIB-SENSOR" (https://mibs.observium.org/mib/
+ 13558 ENTITY-SENSOR-MIB/) standard MIB which allows to export RPM sensors via SNMP in a standardized way
+ 13584 (any network monitoring system would be able to pick up these sensors without having to add some
+ 13607 custom code for your switch models).
+ 13655 Your custom working/not working and low/high speed logic is perfectly fine for us.
+ 13701 In this case we would recommend to simply add it to your NMS-SYS mib (just like the power supply states).
+ 13750 That will require some custom code for the monitoring systems but that' s no problem for us.
+ 13844 I don' t know how BDcOM does the FAN monitoring but from our own experience with various hardware
+ 13869 designs we would recommend using standard fan controller ICs.
+ 13916 With industry standard PwM controlled and tachometer monitored fans you can use corresponding fan
+ 13941 controller ICs available from all major chip vendors.
+ 13987 In our own designs we use mostly fan controllers from microchip technology. E.g. for 2 fans the EMC2104,
+ 14010 which is available for < 2 USD.
+ 14080 CH32 microcontroller might allow further cost cutting.
+ 14130 But for us at costs of ~1 USD per fan using a standard 4 wire fan controller (as they are used in pretty much
+ 14153  any standard PC or server) is a no brainer decision.
+ 14199 If someone asks for the cheapest possible switch you still can simply non populate the fan controller IC on
+ 14223 the PCB and used simple unmonitored fixed speed 2 wire fans.
+ 14294 [Simon] @扫地僧 陈工 这是客户的反馈
+ 14365 [Simon] 感觉基本就是2个点 1是这个fan controller 2是fan MIBs
+ 14435 另外上次客户发的MIBs=missing temperature 看了吗 有啥问题没
+ 14499 2025-11-18 17:26
+ 14545 扫地僧
+ 14579 没有跟进呢
+ 14640 扫地僧
+ 14677 对于周期太长的项目，说明客户不急，不太适合我们，没有那么多精力
+ 14748 目前客户提到的这个fan controller是啥情况 我们在用吗 客户似乎很纠结如何实现的fan info的读取问题
+ 14807 扫地僧
+ 14842 一会儿来一下
+ 14914 [Simon] OK
+ 14973 扫地僧
+ 15009 现在客户就纯粹跟我们扯技术问题
+ 15077 [Simon] 这个客户就是技术总监我调查了他的背景。。
+ 15144 2025-11-18 17:29
+ 15191 扫地僧
+ 15228 现在可以答复给客户的是风扇的mib正在做
+ 15297 那先这样吧大家都省事一些我想法子圆过去等客户测完了出个list再说
+ 15356 扫地僧
+ 15392 做完了可以发新版本给客户
+ 15401 做元，
+ 15463 [Simon] 这样没事探讨一下技术也费劲
+ 15533 [Simon] 好 有大概时间吗 做好
+ 15591 扫地僧
+ 15626 这个月
+ 15698 [Simon] 好
+ 15757 扫地僧
+ 15796 是啊，很无聊
+ 15838 Simon:这样没事探讨一下技术也费劲
+ 15898 [Simon] 好的
+ 15962 2025-11-24 17:59
+ 16016 Hi Alan,
+ 16065 Apologies for the delay - I have managed to add it today.
+ 16112  The good news is that is supports 10mbps properly - which my Linovision switch said it also supported, but 
+ 16137 it didn't work, so that's a great start :)
+ 16186 I didn't realise that the SFP didn't autodetect 1 or 10gbps, so that confused me for a few minutes before I
+ 16211 saw the setting I needed to choose manually.
+ 16256 I like that the backup file is an editable text file, which would be great if you have to configure a lot of them
+ 16280 at once.
+ 16325 It would be nice if the web Ul remembered the xx items per page setting. It seems to default to 20/page,
+ 16351 even though I keep changing it to 50/page so I can see all my ports at once :(
+ 16397 Now it is in place, I can do some more testing.
+ 16447 这是客户的反馈，并不是问题
+ 16468 该单是20250823下单的LT-IS6528XGP-4XS24GT-4BT
+ 16491 主要是客户是反馈了3个
+ 16517 1，10Mbps OK 忽略该点即可
+ 16541 2，光口速率需要调整之前商务群中提过了我知道这个 10G型号是默认10G光，1G/2.5G型号是默认1G光
+ 16565 3，客户提到的web UI的20条 这个我不知道客户提到了50条 可以作为你们后续to-do list上的一个待做项
+ 16613 目前客户还是比较满意的
+ 16637 后续有回复我再发
+ 16772 2025-11-24 19:26
+ 16819 扫地僧
+ 16918 2025-12-2 21:32
+ 16974 晚上好
+ 17000 土耳其客户Angora(就是前一阵那个售后问题的客户)目前在竞一个非常大的标
+ 17025 LT-S8328XG-4XS24GT-S
+ 17049 LT-S8352XG-4XS48GT
+ 17071 这2个型号L2+的大概是1000多台吧
+ 17118 我和客户一起分析了规格后
+ 17141 主要是有几个问题
+ 17191 1，MTBF达不到要求
+ 17215 客户说，后续可以直接改，这个影响不大
+ 17261 2，Flash和RAM 都要求2GB
+ 17287 这个规格对于接入层的交换机已经严重超标了
+ 17310 根据之前商务群中的沟通
+ 17358 Our L3 switches support: 1*512MB DDR3 RAM, 1*512M NAND FLASH, 1*4MB SPI FLASH
+ 17381 这个也先不管了
+ 17428 3，这个点有点麻烦
+ 17452 标书中有个IP SLA功能，这是思科的一个功能
+ 17477 好像就是ping包啥的
+ 17501 类似的功能我们有Ping/Tracert and sFlow
+ 17546 RFP item 3.7.20 asks something similar to IP-SLA and in paranthesis it asks for packet loss, delay, jitter. I
+ 17572 think we have a probem wihth Jitter
+ 17619 这个有点偏技术了
+ 17643 请看一下
+ 17691 4, and in RFP item 3.7.11 asks for SCP or SFTP. Do we have any of these protocola or can we commit to it ?
+ 17715 这个SCD or SFTP，之前是沟通过SFTP，上述2个型号可以加吧?
+ 17773 扫地僧
+ 17810 mtbf，这个大家都是编的
+ 17870 扫地僧
+ 17905 容量这个，ddr我们现在新款都是512Mddr和512Mflash。DDR可以不改板直接替换成2GB，成本增加大几十。
+ 17931 flash这个需要改版才能实现。
+ 17990 扫地僧
+ 18026 后面2个点，我转给软件的看看
+ 18086 扫地僧
+ 18122 sftp我印象中已经支持了
+ 18188 2025-12-2 21:37
+ 18249 [Simon] Edge-Switch.pdf
+ 18268 [Simon] PDF
+ 18279 [Simon] 3.9M
+ 18316 [Simon] 微信电脑版
+ 18372 [Simon] 这是标书内容 土耳其语 我和客户一起分析的
+ 18441 [Simon]  okay. Just to sum up for your engineer,
+ 18489 [Simon] RFP 3.7.11
+ 18513 [Simon] RFP 3.7.20
+ 18536 [Simon] RFP 3.10.7 for 24-port and
+ 18560 [Simon] RFP 3.11.7 for 48-port
+ 18620 扫地僧
+ 18656 有英文版的吗？
+ 18716 扫地僧
+ 18751 明天答复可以不？
+ 18822 [Simon] 基本就是这几个点
+ 18870 [Simon] 上述提到的flash和ram就算是OK了
+ 18893 [Simon] 竞标拿到了生产再搞 拿不到就pass
+ 18941 [Simon] SFTP之前谈过
+ 18964 [Simon] 这2个型号直接加OK吧？
+ 19014 [Simon] 那就是第三点了 Jitter
+ 19036 [Simon] 我现在也没太搞清楚客户的意思
+ 19105 [Simon] 没
+ 19152 [Simon] 扫地僧：有英文版的吗？
+ 19210 [Simon] 当然可以不着急的感谢这么晚还这么快的回复
+ 19255 [Simon] 扫地僧：明天答复可以不？
+ 19301 扫地僧
+ 19474 2025-12-3 10:49
+ 19521 Peter hu
+ 19557 @Simon这个标案主要是第3点，针对第3点需求，我们研发分析如下
+ 19604 Simon:晚上好土耳其客户Angora(就是前一阵那个售
+ 19625 后问题的客户）目前在竞一个非常大的标LT-S8328XG.
+ 19669  Peter hu
+ 19706 支持
+ 19720 员包，集合了ICMPecho、ICMPjitter、ftp等常用工具
+ 19735 ICMP echo与ICMP jtter
+ 19750 试丢包，延时，这个可以用ping替代
+ 19766 过程报文中增加了timestamp信息，要求发收设备都支持，其更关注的是两个
+ 19781 ，这个主要受应用软件限制，需要在报文中能带timestamp信息
+ 19823  Peter hu
+ 19859 请跟客户沟通下，第三点是必须还是可选，假如是必须，不排除标案已经被绑定了
+ 19924 2025-12-3 10:50
+ 19968 Peter hu
+ 20005 这个SCDorSFTP，之前是沟通过SFTP，上述2个型号可以加吧//这个AC5是支持的
+ 20076 ICMP Jitter这个算是很麻烦是吧 我看写的还有 应用软件限制 似乎是不单单只是一个交换机本身?
+ 20137  Peter hu
+ 20170 是的
+ 20241 OK 我问问 目前应该就这一个问题 客户说没有英文版本的标书。
+ 20303  Peter hu
+ 20338 应标阶段，慢慢谈
+ 20404 2025-12-3 10:56
+ 20449 Peter hu
+ 20487 像这种投标类的项目，客户本身的关系和实力是至关重要因素
+ 20545 你撤回了一条消息
+ 20598 [Simon] 这个标原本还有core switch
+ 20621 [Simon] 里边更多Cisco功能
+ 20643 [Simon] 基本没办法往下进行
+ 20692 [Simon] 客户说他们自己处理Core switch了
+ 20717 [Simon] Edge switch就这样了
+ 20763 [Simon] 我先给客户说吧
+ 20788 [Simon] 那个business plan也给你看了 (商务群中)
+ 20812 [Simon] 这个客户还算是有点实力，但感觉不多，哈哈
+ 20941 Peter hu
+ 20978 客户还是有想法，慢慢来
+ 21039  Peter hu
+ 21077 他们应该也是技术导向型公司
+ 21145 [Simon] 他想法多落地不了
+ 21168 [Simon] 他英国不是还有个公司嘛
+ 21192 [Simon] 前一阵子想搞Amazon UK， 卖我们的8 24 48口设备
+ 21212 [Simon] 调研了很多也出了plan 最后gg
+ 21264 [Simon] 是的
+ 21288 [Simon] 这个Levent之前在思科搞软件的
+ 21313 [Simon] Taylan就是CTO了
+ 21379 [Simon] 先这样吧
+ 21405 [Simon] 我想的简单
+ 21430 [Simon] 他有标，我们就处理
+ 21453 [Simon] 总能拿下12个，这就足够了
+ 21589 2025-12-3 11:01
+ 21636  Peter hu
+ 21877 [Simon] Send
+ 21878 U

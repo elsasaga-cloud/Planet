@@ -1,0 +1,384 @@
+    17 Peter hu、Anna (3)
+    23 [Simon] X
+    84 2025-8-21 17:02
+   139 下午好
+   187 目前TT项目的反馈如下
+   211 1，数量增长到了1500台
+   235 2, 还在等official confirmation
+   259 3，关于交期，有可能是有延长的可能，也就是给我们的生产时间超过6周（1是数量增加了，2是这个项目拖了很久，
+   283 所以交期也能就再谈谈了)
+   330 目前客户那也没啥办法，只能是等
+   355 客户说是Will keep you updated minute by minute this week
+   402 客户这通知我，我这就通知你们
+   449 我个人来讲：今年就看这一个单子，其他客户下不下单也无所谓了
+   473 所以你们这边有啥情况和要求，都可以和我说，我和客户提前沟通
+   497 争取顺利搞定这个单子
+   633 2025-8-21 17:08
+   679  Peter hu
+   715 收到，等客户好消息，等订单到了再想办法，主要是芯片
+   785 [Simon] OK
+   851 2025-8-25 08:59
+   912 [Simon] 工业管理说明书
+   936 [Simon] STAG20250823017.pdf
+   943 [Simon] PDF
+   965 [Simon] 394.1K
+  1001 [Simon] 微信电脑版
+  1061 [Simon] 采购合同
+  1084 [Simon] STAG20250823017.pdf
+  1095 [Simon] PDF
+  1117 [Simon] 358.4K
+  1153 [Simon] 微信电脑版
+  1207 [Simon] 早上好 请安排生产 L3管理 4个BT口
+  1276 [Simon] 谢谢
+  1339 Anna
+  1374 好的
+  1446 客户目前是没明确说要改他们的型号 先用里边的信息生产吧 如果要改 我发出来
+  1516 这个是样品请多测试一下 客户之前使用过Utepo的 反馈不是好
+  1575 Anna
+  1610 好
+  1746 2025-8-2509:37
+  1796 Anna
+  1830 29出货可以吗？
+  1894 Anna
+  1924 我们多测试两天
+  1996 [Simon] 慢慢处理就行 时间不着急上边写了 没有强制要求
+  2059 Anna
+  2092 好
+  2164 定别出问题这种L3 4BT的客户很少 如果能帮顶一下就很好了
+  2232 [Simon] 绑定
+  2304 产品不出问题市场上也没有多少替代型号这样就好很多了
+  2368 2025-8-25 09:42
+  2415 Anna
+  2449 好的，我们注意把控质量
+  2520 [Simon] OK
+  2586 2025-8-25 11:54
+  2768 [Simon] 这2个型号有啥更新嘛？软件硬件啥的
+  2839 AC5新版本软件和Limux操作系统 主要是这个型号 AC3的后续反正也不太出货了
+  2904 2025-8-28 14:42
+  2958 下午好
+  3007 1，LT-IS6212XGP-4XS8GT这个AC5芯片最新版本的firmware请发一下
+  3031 客户直接升级了，后边也不用搞啥了
+  3056 问题
+  3079 这个固件升级还需要再搞型号MAC等信息吗?
+  3126 2，2台LT-IS6018GP-2GX16GT有货吗?
+  3152 有个老客户要下单，我收到款后发采购合同
+  3215 [Simon] 工业交换机
+  3232 [Simon] 4个光口(100M/1G/2.5G/10G)+8个千兆
+  3253 [Simon] 带PoE,PoEaf/at，240W总功率，2层管理
+  3269 [Simon] 不含光模块不含电源，3年质保，-40℃
+  3288 [Simon] AC5新版本软件和Linux操作系统，带挂耳，
+  3339  Peter hu
+  3374 请问这台4XS8GT什么时候出货的？
+  3420 Simon:
+  3503 [Simon] 这个
+  3549 [Simon] Simon:
+  3855 2025-8-28 14:55
+  3900 Peter hu
+  3939 这个当时确定是AC5的软件？
+  4006 [Simon] 是的
+  4086 [Simon] sup Chat (3) 
+  4127 [Simon] 这种的板子尺寸图有吗？4+8
+  4177 [Simon] 日前客户定买6台2+162.5g
+  4198 [Simon] 子
+  4218 [Simon] 国间下额发，店该有OXF格式的
+  4287 [Simon] LT-6X-PC87-
+  4297 [Simon] DX2511-..10(1).dxf
+  4344 [Simon] 田
+  4403 [Simon] 2:57
+  4418 [Simon] Group Chat (3) S
+  4458 [Simon] Simon，请提示下这个案户为件
+  4467 [Simon] 么一定要AC5的4光8网？因为
+  4475 [Simon] 其们现在AC5出货需费给公司
+  4483 [Simon] 充分的理由，目前迷是以潮
+  4495 [Simon] AC3库存为主，否到现在所有业
+  4503 [Simon] 务都推AC5了，AC3率存就成了
+  4554 [Simon] 上次那个iux版本就是这个客
+  4585 [Simon] 朝本大老了怡是想看新版本路
+  4613 [Simon] 存们2+16（100光）没出只
+  4624 [Simon] 送择有新版本的4+8了
+  4651 [Simon] 好的，清强了A
+  4678 [Simon] 田
+  4887 2025-8-2815:04
+  4933  Peter hu
+  4968 能确认就好，怕给错文件给客户
+  5038 是AC5 他是一直自己搞那种集成的 对于软件固件要求比较高但目前也没啥量。。常在飞速fs.com买
+  5099  Peter hu
+  5140 ac5-hotfix-7.4.2.bin
+  5170 57.8M
+  5207 微信电脑版
+  5258 2025-8-28 15:10
+  5302 Peter hu
+  5340 这是最新的AC5升级.bin文件
+  5406 2025-8-28 15:18
+  5461 [Simon] 好的
+  5523  Peter hu
+  5626 2025-8-28 16:27
+  5680 [Simon] nberthat FayPal ia not
+  5692 [Simon] lable in Turkey, night?
+  5713 [Simon] unfortunately no peypal i Turkey - Tht’s 
+  5745 [Simon] Were wiing frconfd orer fm
+  5778 [Simon] it s about 1,100 poa
+  5799 [Simon] Iwll sk you tg contaethe GBIS SFP}
+  5831 [Simon] Knen, ight?
+  5852 [Simon] nt KUC : 1 wil ask y
+  5974 2025-8-28 16:35
+  6021  Peter hu
+  6055 收到
+  6124 2025-8-28 16:42
+  6179 [Simon] 之前发的模块能抽空测吗？客户在问了
+  6239  Peter hu
+  6275 好的，我们安排下
+  6336  Peter hu
+  6372 @Rot
+  6442 [Simon] OK 感谢
+  6503 Anna
+  6538 好的
+  6604 2025-8-30 09:49
+  6652 Anna
+  6686 请确认下标签
+  6752 2025-8-30 09:49
+  6797 Anna
+  6833 IndustrialSwitch
+  6854 Model: STI-42424XGGPM-4BT
+  6870 Ports: 24*10/100/1000M RJ45 PoE + 4*1G/10G SFP+
+  6884 1-4 ports PoE++
+  6899 Power input: DC 52-57V
+  6915 L3 Managed, Marvell Based
+  6922 CE FC
+  6958 SN: 202508270001
+  6964 区
+  6973 MAC: FC-CD-2F-DI4F-BD
+  6975 IP Addres: I92.168.56.166
+  6988 Password: admin
+  6990 User name: admin
+  7047 2025-8-30 09:55
+  7116 [Simon] 24*10/100/1000Base-T PoE + 4
+  7117 [Simon] G/2.5G/10
+  7117 [Simon] ase-X SFP+
+  7133 [Simon] Layer 3 Managed Industril PuE++ Switch
+  7147 [Simon] LT-56528XGP-0X24GT48TSerles
+  7375 [Simon] E+4*1G/10GSFP+
+  7488 [Simon] 其他的没问题
+  7558 2025-8-30 10:06
+  7605 Anna
+  7639 好的
+  7705 2025-8-30 10:23
+  7753 Anna
+  7787 Industrial Switch
+  7809 Model: STI-42424XGGPM-4BT
+  7826 Ports: 24*10/100/1000M RJ45 PoE + 4*1G/2.5G/10G SFP+
+  7839 1-4 ports PoE++
+  7854 Power input: DC 52-57V
+  7869 L3 Managed, Marvell Based
+  7880 CE FC
+  7913 SN: 202508270001
+  7927 MAC: FC-CD-2F-D04F-BD
+  7930 IPAddres: 192.168.56.166
+  7944 User name: admin
+  7944 Password: admin
+  8008 2025-8-30 10:30
+  8061 [Simon] 好的谢谢今天能发吗?
+  8127 2025-8-30 10:53
+  8175 Anna
+  8208 可以的
+  8276 2025-8-30 11:00
+  8331 [Simon] 发合同吧 我把钱付了
+  8394 Anna
+  8430 周
+  8489 Anna
+  8525 今天没上班
+  8597 [Simon] ok
+  8662 2025-8-30 20:21
+  8715 [Simon] IndustrialSwitch
+  8739 [Simon] Model: STI-42424XGGPM-4BT
+  8755 [Simon] Ports: 24*10/100/1000M RJ45PoE + 4*1G/2.5G/10G SFP+
+  8769 [Simon] 1-4 ports PoE++
+  8785 [Simon] Power input: DC 52-57V
+  8801 [Simon] L3 Managed, Marvell Based
+  8809 [Simon] CE FC
+  8842 [Simon] SN: 202508270001
+  8851 [Simon] 区
+  8858 [Simon] IP Adresc 192.16856.166
+  8859 [Simon] MAC: FC-CD-2F-D0-4F-BD
+  8873 [Simon] User name: admin
+  8874 [Simon] Password: admin
+  8941 [Simon] 请周一把标签稍微改动一下 在标注处加一行字
+  9008 Tailored Marvell Managed Networking Solutions Provider
+  9078 [Simon] 谢谢
+  9148 [Simon] 铺满左右位置就行
+  9215 2025-8-30 20:50
+  9276 [Simon] 工业管理说明书
+  9299 [Simon] STAG20250823017.pdf
+  9310 [Simon] PDF
+  9329 [Simon] 581.4K
+  9364 [Simon] 微信电脑版
+  9421 [Simon] 请在周一使用这个说明书 把之前的直接覆盖了谢谢
+  9487 2025-8-30 21:03
+  9536 Anna
+  9565 好的
+  9631 Anna
+  9668 已经发货了
+  9728 Anna
+  9764 DPK364820173676
+  9825 Anna
+  9861 @Simon Simon
+  9919 你撤回了—条消息
+  9969 [Simon] 没入仓标为啥能发呢。
+ 10041 [Simon] 我和仓库那边对接一下吧 不影响
+ 10104 Anna
+ 10140 不好意思是我忽略了你这里问所以商务就今天安排了
+ 10183 Simon：好的谢谢今天能发吗？
+ 10231 Anna
+ 10314 Simon：我和仓库那边对接一下吧不影响
+ 10367 [Simon] OK
+ 10433 2025-8-31 00:01
+ 10489 [Simon] M
+ 10553 2025-9-1 09:51
+ 10612 早上好 请发一下订单信息
+ 10658 1，装箱单
+ 10682 2，产品图，尤其是管理界面，其他的拍了啥就发啥
+ 10707 3，合同，我付钱
+ 10755 后续订单不着急发，一般我写了交期无强制要求的就慢慢搞就行了
+ 10842 [Simon] 防水膜
+ 10845 [Simon] 打，尽量平整一些
+ 10863 [Simon] 拍照拍规换
+ 10863 [Simon] 之前出过类似的，简单拍一下即可
+ 10881 [Simon] 交期
+ 10882 [Simon] 无强制要求
+ 10901 [Simon] 运费
+ 10901 [Simon] 卖方支付
+ 10917 [Simon] 需要
+ 10918 [Simon] 装箱单
+ 10970 2025-9-1 09:58
+ 11015 Anna
+ 11052 好
+ 11112 Anna
+ 11297 CERE
+ 11364 Anna
+ 11590 Anna
+ 11839 Anna
+ 11909 GOGREENIT
+ 12062 Anna
+ 12287 Anna
+ 12511 Anna
+ 12734 Anna
+ 12981 Anna
+ 13226 Anna
+ 13268 Product name: Industrial Switch
+ 13295 Model: STI-42424XGGPM-4BT
+ 13318 Qty.:1PCS
+ 13338 1
+ 13357 SN:
+ 13368 202508270001
+ 13402 Weight:2.9 KG
+ 13405 31*23.5*18.5CM
+ 13425 Carton No.: 1 /1
+ 13481 2025-9-1 10:03
+ 13526 Anna
+ 13568 郑州仁戛通讯器材有限公司
+ 13590 P20250829-0...RMB).doc
+ 13601 W
+ 13621 25.5K
+ 13658 微信电脑版
+ 13706 Anna
+ 13739 请查收
+ 13806 2025-9-1 10:38
+ 13869 [Simon] 转账记录查询
+ 13894 [Simon] 转给罗辉
+ 13912 [Simon] -¥ 2,912.00
+ 13953 [Simon] 3214 3913 3000 0617 58
+ 14019 [Simon] 电78500
+ 14097 [Simon] 的体源录
+ 14193 [Simon] 谢谢
+ 14256 Anna
+ 14361 [Simon] 装箱单有吗？
+ 14424 Anna
+ 14458 31*23.5*18.5CM2.9KG
+ 14528 [Simon] OK
+ 14588 Anna
+ 14622 1箱
+ 14694 [Simon] 好
+ 14766 [Simon] 下次一定别提前发了哈
+ 14836 [Simon] 否则客户要改东西就很被动
+ 14895 Anna
+ 14932 好本来是等通知的你周六问能不能今天发我以为就是当天要发的意思
+ 14999 [Simon] OK
+ 15066 2025-9-3 14:29
+ 15121 [Simon] 下午好
+ 15193 1,模块测试进展如何
+ 15241 2,升压PoE Booster Switches已经成熟出货了吗?
+ 15265 销售效果如何
+ 15287 除了Catalog-2025 PDF中的产品内容，还有别的啥新品特别产品吗?
+ 15354 2025-9-3 14:40
+ 15399  Peter hu
+ 15400 Peter hu
+ 15435 @Simon 下周CIOE见面聊
+ 15500 2025-9-3 14:41
+ 15557 [Simon] 你们参展还是逛展？
+ 15616 Peler hu
+ 15651 逛展
+ 15718 2025-9-3 14:47
+ 15773 OK到时候见正好有一些问题想聊一下TT单子一直不下也没啥好的契机来谈
+ 15834  Peter hu
+ 15868 没事，展会见
+ 15940 [Simon] OK
+ 16006 2025-9-4 14:10
+ 16048 "Peter hu" recalled a message
+ 16094  Peter hu
+ 16131 @Simon11号下周四我去CIOE，请问你们今年参展吗？
+ 16194 2025-9-4 14:16
+ 16251 我们不参展光派会参展（DWDM）我们有可能去帮一下忙但大概率不会因为今年展位只有18平米 不像去年是一个
+ 16275 特展用不了那么多人的
+ 16344 [Simon] 你们呢11号啥时候去
+ 16411 2025-9-4 14:25
+ 16454 Peter hu
+ 16490 我应该是11号上午过去
+ 16562 [Simon] OK
+ 16627 2025-9-4 16:31
+ 16684 [Simon] 模块测试进展如何 出结果了吗
+ 16741 Peter hu
+ 16779 @Rot请去追踪下测试结果
+ 16842 Anna
+ 16875 刚问了高温8小时低温8小时测试结果没问题
+ 16938 2025-9-4 16:37
+ 16996 [Simon] 商业级 工业级都OK？有测试报告吗
+ 17292 [Simon] 商业级模块+工业设备 在这测要OK
+ 17577 Anna
+ 17611 没有测试报告
+ 17672 "Rot"recalled a message
+ 17725 [Simon] 工业级模块+工业设备 在这测 要OK
+ 17784 Anna
+ 17819 测了
+ 18088 [Simon] 这个跑流量的数据结果没报告吗？
+ 18149  Peter hu
+ 18184 没有测试商业级，工业级产品建议就用工业级模块
+ 18245  Peter hu
+ 18282 最近工程那边有很多项目在等待测试，工业级模块测试也是插进去的
+ 18349 [Simon] OK
+ 18411 Anna
+ 18727 Anna
+ 18804 度
+ 18808 75.00
+ 18980 Anna
+ 19005 控制器
+ 19076 -39.93
+ 19200 电源指示
+ 19200 故障报警
+ 19213 POWERLIGHT
+ 19213 FAILURE
+ 19300 2025-9-4 16:41
+ 19348 Anna
+ 19674 [Simon] 好的 谢谢
+ 19740 2025-9-5 17:46
+ 19801 [Simon] 工业非管理说明书
+ 19825 [Simon] STSC20250827013.pdf
+ 19834 [Simon] PDF
+ 19855 [Simon] 385.7K
+ 19891 [Simon] 微信电脑版
+ 19935 You recalled a message
+ 19989 [Simon] 请安排生产 谢谢
+ 20062 [Simon] 采购合同
+ 20084 [Simon] _STSC20250827013.pdf
+ 20096 [Simon] PDF
+ 20116 [Simon] 284.9K
+ 20252 [Simon] Send

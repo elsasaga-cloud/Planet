@@ -1,0 +1,338 @@
+    16 Peter hu、Anna (3)
+    69 2025-9-5 17:46
+   130 [Simon] 工业非管理说明书
+   155 [Simon] STSC20250827013.pdf
+   162 [Simon] PDF
+   184 [Simon] 385.7K
+   220 [Simon] 微信电脑版
+   264 You recalled a message
+   315 [Simon] 请安排生产 谢谢
+   392 [Simon] 采购合同
+   417 [Simon] STSC20250827013.pdf
+   425 [Simon] PDF
+   447 [Simon] 284.9K
+   483 [Simon] 微信电脑版
+   528 Anna
+   563 好的
+   630 2025-9-9 11:43
+   686 [Simon] @Peter hu
+   760 [Simon] 2025.9.11需确认为问
+   784 [Simon] 题.docx
+   793 [Simon] W
+   815 [Simon] 25.7K
+   852 [Simon] 微信电脑版
+   909 [Simon] 请抽空看一下这个
+   968  Peter hu
+  1002 接待客户中
+  1074 另外工业交换机中的过流保护（over-current protection）和lnput Current: 3A Max
+  1098 只是一个事儿吗？ 以LT-IS3006GP-2GX4GT为例 客户在问这个
+  1167 [Simon] OK
+  1234 2025-9-9 14:18
+  1278 Anna
+  1303 YPERLIK
+  1311 Industrial Switch
+  1334 Model: STI-21616GP
+  1355 Ports: 16*10/100/1000M RJ45 PoE + 2*1G SFP
+  1376 Power input: DC 44-57V
+  1387 CE FC
+  1434 SN: 202509090001
+  1485 Anna
+  1518 Simon
+  1580 Anna
+  1617 SN按照实际出货日期来的
+  1679 Anna
+  1713 标签没问题吧？
+  1781 [Simon] 按照采购合同上的来我已经写明了
+  1843 [Simon] 右上图
+  1860 [Simon] 右下图
+  1877 [Simon] 202509050001~252509050002（需要是3个0，之前是2个0，
+  1895 [Simon] 常规包装，2个装一前就行
+  1914 [Simon] 打
+  1932 [Simon] 无
+  1971 Anna
+  2008 ok
+  2068 Anna
+  2102 我是这样给工厂的
+  2166 Anna
+  2199 他可能想着要按实际的没事我们改下就好
+  2268 [Simon] Ok
+  2338 2025-9-914:34
+  2382 Anna
+  2407 IVPERLINK
+  2416 Industrial Switch
+  2438 Model: STI-21616GP
+  2459 Ports: 16*10/100/1000M RJ45 PoE + 2*1G SFP
+  2479 Power input: DC 44-57V
+  2493 CEFC
+  2517 区
+  2539 SN: 202509050001
+  2598 [Simon] Ok xiexie
+  2670 [Simon] 这个请问一下技术
+  2712 [Simon] Simon:另外工业交换机中的过流保护（over-current
+  2731 [Simon] protection）和lnput Current: 3A Max 只是—个事...
+  2786 2025-9-9 14:41
+  2831 Anna
+  2867 好
+  2930 Anna
+  2962 不是一回事
+  3010 Simon:另外工业交换机中的过流保护（over-current
+  3029 protection）和lnput Current:3AMax只是一个事...
+  3078 Anna
+  3112 过流保护跟保险丝的最大系数有关系
+  3173 Anna
+  3206 一个指的是输入最大电流值，一个是超过最大电流值的时候，会断开保险丝
+  3276 2025-9-9 14:46
+  3319 Anna
+  3355 来保护设备
+  3416 [Simon] 可以这公院：
+  3430 [Simon] 3AMax是设务正常工作时的最大输入电滤，相当于红线”，设务在健康运行时电池内该3A
+  3443 [Simon] 过流保护（OCP）是在3A的基础上用加一提安全糖冲。比如脱计可能量：
+  3456 [Simon] ·≤3A:I正R工作
+  3466 [Simon] 3A~3.6A：可能是解时接动，保护电落智时容型
+  3478 [Simon] ·23.6A（或更高）：航发OCP，集闭险性一样把本的切斯，避免均级
+  3492 [Simon] 也就是说，过谁保护并不是等于3A，而是基于3A说置的一个“防爆保始机制”
+  3528 [Simon] 换甸话说：
+  3539 [Simon] “3AMax”是性能参数→说聘设备正宠基多少电原润力。
+  3553 [Simon] “过油保护”是安全参数一出现异常时何保护设备。
+  3604 [Simon] 3.区别总结
+  3615 [Simon] ·Input Cumemt 3A Max:告诉物设备在正常工作下的量大排出量。
+  3670 [Simon] 打个比方：
+  3694 [Simon] “过流保护”就靠水营上装了一个安全间，如果突然有5吨水冲进来，安全调会白动新开，防止水管率
+  3745 [Simon] 1. Input Current: 3A Max
+  3754 [Simon] ·这个显正常工作比态下物原定最大输入电流。
+  3768 [Simon] 意思量：交换析在额定输入电压下（比加4BVDC）。设备本身不会消
+  3777 [Simon] $个例子：
+  3788 [Simon] ·设图比率 =4V · 3A - 144W(对位你消的 PoE预算120W,20上自身
+  3831 [Simon] 2.过流保护 (Over-curent Protection)
+  3843 [Simon] 这是一个安全保护机期，受经你验性造者中子民护电助，
+  3864 [Simon] 3.5A、4.5A)，旗会身动切新电路，防止机的
+  3937 [Simon] OK 谢谢
+  4005 2025-9-9 14:52
+  4051 Anna
+  4088 是你查的这个意思嘿嘿
+  4157 [Simon] 把你的回答直接扔给GPT就行了它会给详细分析的
+  4219 Anna
+  4250 确实很详细
+  4313 Anna
+  4350 这两天今天发吗？
+  4395 Anna:
+  4481 发把装箱单和箱唛贴好拍照给我就行具他的不用咋处理了返单
+  4545 2025-9-9 14:57
+  4601 [Simon] 合同发吧我钱付了
+  4660 Anna
+  4695 好
+  4763 2025-9-9 15:10
+  4808 Anna
+  4849 郑州仁夏通讯器材有限公司
+  4871 P20250909-0...RMB).doC
+  4881 W
+  4904 25.5K
+  4937 微信电脑版
+  4987 Anna
+  5020 请查收
+  5097 [Simon] 转账记录查询
+  5124 [Simon] 转始罗辉
+  5141 [Simon] -￥1,904.00
+  5184 [Simon] 6214 3913 3000 0617 588
+  5249 [Simon] 电78100
+  5325 [Simon] 定看相TA的体康记录
+  5415 Anna
+  5518 2025-9-9 19:16
+  5564 Anna
+  5636 dooooo
+  5786 Anna
+  6010 Anna
+  6234 Anna
+  6457 Anna
+  6682 Anna
+  6727 Product name: Industrial Switch
+  6756 Model: STI-21616GP
+  6780 Qty.: 2PCS I
+  6802 SN:
+  6814 FROM:
+  6828 202509050001
+  6838 TO:
+  6860 Weight: 3.1 KG
+  6868 31*23.5*18.5CM
+  6880 Carton No.: 1/1
+  6937 2025-9-9 19:22
+  6993 [Simon] OK 箱唛图请发一下
+  7000 [Simon] OK箱唛图请发
+  7058 2025-9-9 20:07
+  7106 Anna
+  7336 2025-9-9 20:17
+  7465 [Simon] 快递单号有了请发一下 谢谢
+  7532 2025-9-9 20:30
+  7576 Anna
+  7613 DPK364827426569
+  7678 2025-9-9 20:56
+  7733 [Simon] ok
+  7799 2025-9-10 21:25
+  7851 Hello Simon,
+  7879 we'  ve a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks). I just wanted to check
+  7904  your hardware upgrade progress.
+  7925 sapo mau ue aaun ana buonuo sneis nsd penp/uuouo uey joddns t u siapo pio sno s
+  7948 available by now?
+  8019 [Simon] @Peter hu
+  8083 2025-9-10 21:25
+  8141 [Simon] 德国Frederik 明天见面了可以沟通一下
+  8200 Peter hu
+  8237 现在应该可以了
+  8308 [Simon] OK
+  8388 [Simon] @Peter hu
+  8432 [Simon] 2025.9.11需确认为问
+  8448 [Simon] 题.docx
+  8454 [Simon] W
+  8468 [Simon] 25.7K
+  8491 [Simon] 微信电脑版
+  8529 [Simon] 请抽空看一下这个
+  8600 [Simon] 这个也请抽空看一下
+  8663  Peter hu
+  8698 24+4这款吧？
+  8767 [Simon] 纯光的
+  8829  Peter hu
+  8864 德国客户
+  8926 Peter hu
+  8962 这个还没有改，优先改了24+4的
+  9019 Peter hu
+  9056 AC5
+  9127 [Simon] LT-S8328XG-4XS16GX
+  9151 [Simon] 8GC-2AC36
+  9222 [Simon] 明天见面沟通吧
+  9287 2025-9-15 20:58
+  9343 这个双AC+fan monitoring/dual PSU status monitoring的一台多少钱 @Peter hu
+  9367 交期多久客户要下样品了
+  9437 [Simon] LT-S8328XG-4XS16GX8GC-2AC36
+  9504 [Simon] 上次是1520人民币一台
+  9572 2025-9-15 21:24
+  9618  Peter hu
+  9655 主要是机壳交期，价格1600RMB
+  9722 [Simon] 又涨价了？
+  9784 Peter hu
+  9820 硬件有一些变化，这不是关键，批量价格可以保持不变，样品成本会比较高
+  9881 Peter hu
+  9916 机壳打样比较贵
+  9987 [Simon] 之前产品单价是1300上次出双电源是220元=1520元
+ 10056 [Simon] 这个外壳预计多久能搞好
+ 10126 [Simon] 客户问交期了
+ 10192 2025-9-15 21:29
+ 10237 Peter hu
+ 10273 上次的220应该是含了机壳打样和加另一个电源的价格，这次增加部分是硬件成本增加以及机壳打样费用比之前高
+ 10299 了，现在机壳打样费用都是200/个
+ 10360 Peter hu
+ 10394 请按照3周回复
+ 10440 Simon:客户问交期了
+ 10495 [Simon] OK
+ 10561 2025-9-16 08:59
+ 10616 [Simon] 早上好 请安排生产吧
+ 10684 [Simon] 我稍后发采购合同
+ 10753 LT-S8328XG-4XS16GX8GC-2AC36 1台 双AC+fan monitoring/dual PSU status monitoring
+ 10820 2025-9-16 09:48
+ 10882 [Simon] 采购合同
+ 10908 [Simon] STSC20250915015.pdf
+ 10915 [Simon] PDF
+ 10937 [Simon] 278.4K
+ 10974 [Simon] 微信电脑版
+ 11034 [Simon] 商业管理说明书
+ 11059 [Simon] STSC20250915015.pdf
+ 11066 [Simon] PDF
+ 11088 [Simon] 561.6K
+ 11123 [Simon] 微信电脑版
+ 11176 2025-9-16 09:56
+ 11222 Anna
+ 11256 收到
+ 11321 2025-9-16 11:36
+ 11370 Peter hu
+ 11405 @Simon我忘了在技术群里扫地僧说这款只有研发板子，请问客户能接受研发板子吗？
+ 11451 Simon:LT-S8328XG-4XS16GX8GC-2AC361台双
+ 11470 AC+fanmonitoring/dual PsU status monitoring
+ 11517 Peter hu
+ 11552 我问下是否有飞线
+ 11618 2025-9-16 11:51
+ 11675 [Simon] 直接搞吧 并没有涉及到MIB啥的
+ 11744 [Simon] 越快出货越好
+ 11810 2025-9-16 13:57
+ 11856 Peter hu
+ 11892 @SimonSimon，有机壳库存的话价格就跟之前保持一致，增加的硬件部分不加在价格里了，这个机壳应该也是之
+ 11917 前打样一起打的，这次就不需要额外去打样了，所以价格保持一致
+ 11975 Peter hu
+ 12013 扫地僧可以查到库存情况，我们下单下去
+ 12073  Peter hu
+ 12109 交期应该比较快，等我们最新消息
+ 12177 [Simon] 感谢一切为了后续大货服务
+ 12245 2025-9-22 13:29
+ 12300 下午好
+ 12326 1，请问一下德国那个双电源的样品何时能准备好
+ 12350 我催一下客户的款
+ 12373 2，请寄送15个客户定制纸箱给Hrui，费用请加在上述的样品单中(寄送一个便宜的快递即可，不着急)
+ 12397 地址信息：深圳市宝安区沙井街道西环路九九工业城旺荣电子工业园二楼
+ 12420 刘长桂
+ 12445 18820293198
+ 12468 3，该客户还会下LT-S8328XG-4XS16GX8GC（常规单电源，L2+），收到款我会发采购合同
+ 12488 谢谢
+ 12568 [Simon] n High Fidelity
+ 12581 [Simon] BNSC-28GPM
+ 12757 [Simon] 这个包装盒
+ 12825 2025-9-2217:33
+ 12872 Anna
+ 12903 Simon
+ 12969 Anna
+ 13001 双电源的好了
+ 13062 Anna
+ 13099 可以今天发货
+ 13169 请发一下产品图和合同 我先把钱付了 客户还没付款给我 包装盒请发一下
+ 13232 Anna
+ 13327 Anna
+ 13361 好
+ 13422 Anna
+ 13590 Anna
+ 13839 Anna
+ 13994 Anna
+ 14185 Anna
+ 14350 Anna
+ 14572 Anna
+ 14825 Anna
+ 15047 你撤回了一条消息
+ 15099 [Simon] 箱单 合同发我一下 我把款付了 不着急发
+ 15168 [Simon] 货
+ 15228 Anna
+ 15266 ok
+ 15330 2025-9-22 18:28
+ 15379 Anna
+ 15417 郑州仁戛通讯器材有限公司
+ 15440 P20250923-0..RMB).doC
+ 15449 W
+ 15471 25.5K
+ 15508 微信电脑版
+ 15554 Anna
+ 15590 53.5*20.5*40.8 5.5KG
+ 15655 2025-9-22 18:48
+ 15710 [Simon] 1520
+ 15780 [Simon] 原价出 因为没做新的外壳
+ 15865 [Simon] Peter hu
+ 15883 [Simon] @SimonSimon，有机壳库存的话价格就跟之前
+ 15896 [Simon] 保持一致，增加的硬件部分不加在价格里了，这个
+ 15909 [Simon] 机壳应该也是之前打样一起打的，这次就不需要额
+ 15922 [Simon] 外去打样了，所以价格保持一致
+ 15967 [Simon] 扫地借可以查到库存情况，我们下单下去
+ 15994 [Simon] eter hu
+ 16012 [Simon] 交期应该比较快，等我们最新消息
+ 16101 [Simon]  SFP, ACS 果状,
+ 16104 [Simon] L.18E
+ 16195 Anna
+ 16234 郑州仁夏通讯器材有限公司
+ 16258 P20250923-0...RMB).doC
+ 16269 W
+ 16289 25.5K
+ 16326 微信电脑版
+ 16385 [Simon] 转账记录查询
+ 16413 [Simon] 转给罗
+ 16430 [Simon] -￥1,520.00
+ 16474 [Simon] 6214 3913 3000 0617
+ 16538 [Simon] 电78500
+ 16713 [Simon] xiexie
+ 16775 Anna
+ 16879 2025-9-22 19:11
+ 16924 Anna
+ 16972 Productname:Commercial Switch
+ 17096 [Simon] Send

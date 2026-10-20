@@ -1,0 +1,204 @@
+    17 Peter hu、Anna (3)
+    64 2025-6-4 17:37
+   114 Anna
+   153 郑州三戛通讯器材有限公司
+   175 P20250530-0..RMB).doc
+   187 W
+   207 27.0K Not Downloaded
+   242 微信电脑版
+   291 Anna
+   331 Packing List .xls
+   360 26.0K Not Downloaded
+   397 微信电脑版
+   443 Anna
+   479 请查收合同和装箱单
+   881 [Simon] OK 谢谢
+   953 [Simon] 今天发明天发都行
+  1023 广东省深圳市宝安区凤塘大道141号大洋田工业区第8-9栋百运网 陈佩珍 15323556923
+  1086 Anna
+  1118 好
+  1190 [Simon] 明天发吧
+  1262 [Simon] 明天我搞那个入仓标
+  1322 Anna
+  1355 好、
+  1423 2025-6-5 09:02
+  1476 [Simon] 早上好
+  1549 Hi Simon, we are going into a holiday tomorrow. So the goods will sit idle in the Customs costing storage
+  1574 fee.
+  1620 Can you kindly schedule the shipment for June 12th or June 13th ? Then they will arrive in the beginning of
+  1642 the week and we can clear them the same week.
+  1712 [Simon] 晚点发吧
+  1776 Anna
+  1808 好的
+  1875 2025-6-9 09:11
+  1937 [Simon] WE02506006381土耳其入
+  1961 [Simon] 仓标签.PDF
+  1969 [Simon] PDF
+  1991 [Simon] 39.1K Not Downloaded
+  2026 [Simon] 微信电脑版
+  2080 [Simon] 早上好 发吧
+  2153 [Simon] 这个 快递单号有了请给我一下谢谢
+  2197 [Simon] Simon:广东省深圳市宝安区凤塘大道141号大洋田工
+  2219 [Simon] 业区第8-9栋百运网陈佩珍15323556923
+  2264 Anna
+  2298 好的
+  2366 2025-6-9 18:44
+  2410 Anna
+  2447 DPK364765774160
+  2515 [Simon] 好谢谢
+  2582 2025-6-16 20:01
+  2643 [Simon] 待讨论_2025.6.16.docx
+  2662 [Simon] W
+  2675 [Simon] 166.0KNot Downloaded
+  2710 [Simon] 微信电脑版
+  2761 2025-6-16 20:01
+  2816 [Simon] 抽空讨论一下即可 @Peter hu
+  2888 [Simon] 后续再去你们那一趟
+  2959 26 27年的产品方向和DWDM可能能对接上所以想着见面聊一下A
+  3024 2025-6-16 20:07
+  3070  Peter hu
+  3103 好的
+  3170 2025-6-17 16:21
+  3223 [Simon] 下午好
+  3297 [Simon] 商业级4个10G光24个1GPoE
+  3321 [Simon] L2或L3型号
+  3344 [Simon] 哪个能满足512 Ram and 512 flash?
+  3793 [Simon] 你们是没有相应的信息
+  3837 [Simon] Simon:
+  3918 2025-6-17 16:31
+  3967 Anna
+  4000 L3可以满足L2+也可以改
+  4066 个能满足512 Ram and 512 flash?
+  4116 2025-6-17 16:39
+  4172 [Simon] L3没问题是吧?
+  4244 [Simon] 请发一下具体的数据
+  4312 [Simon] 类似这样的
+  4356 [Simon] Simon:
+  4433 Anna
+  4468 L2,L2+ managed switches: 1*256MB DDR3 RAM, 1*512M NAND FLASH, 1*4MB SPI FLASH
+  4515 L3 managed switches:
+  4517 1*512MBDDR3RAM,1*512MNANDFLASH,1*4MBSPIFLASH
+  4581 2025-6-17 16:50
+  4639 [Simon] hao xiexie
+  4703 2025-6-18 09:14
+  4761 [Simon] User Manual_STEC202506
+  4787 [Simon] 09012.pdf
+  4795 [Simon] PDF
+  4814 [Simon] 330.7K Not Downloaded
+  4852 [Simon] 微信电脑版
+  4897 You recalled a message
+  4949 [Simon] 早上好
+  5020 [Simon] 请安排生产
+  5096 [Simon] logo for all models.pdf
+  5116 [Simon] PDF
+  5128 [Simon] 381.1K Not Downloaded
+  5161 [Simon] 微信电脑版
+  5217 [Simon] logo是上次用过的蓝色的那个
+  5287 [Simon] 谢谢
+  5347 You recalled a message
+  5394 2025-6-18 09:19
+  5451 [Simon] 请使用这个版本把之前发的那个覆盖了就行
+  5525 [Simon] 采购合同
+  5549 [Simon] STEC20250609012.pdf
+  5557 [Simon] PDF
+  5579 [Simon] 380.3K Not Downloaded
+  5615 [Simon] 微信电脑版
+  5667 2025-6-19 09:46
+  5715 Anna
+  5748 早上好不好意思回复晚了已安排
+  5814 2025-6-19 09:53
+  5869 [Simon] OK
+  5933 Anna
+  5971 郑州仁戛通讯器材有限公司
+  5996 P20250619-0..RMB).d0C
+  6002 W
+  6025 25.5KNotDownloaded
+  6061 微信电脑版
+  6109 Anna
+  6142 请查收合同
+  6209 2025-6-19 10:05
+  6572 [Simon] 你们也用的元创的是吧。
+  6635 Anna
+  6669 有用他家的
+  6741 那个土耳其客户昨天说要下单几个工业交换机我收到款后发采购合同
+  6802 Anna
+  6834 好的
+  6906 这个模块我看看配不配吧 didors485我也和客户对接一下
+  6966 Anna
+  7002 嗯嗯
+  7071 模块相关的我再考虑一下 昨天和一个认识的人特别聊了一下他有很多资源我看看咋搞
+  7209 2025-6-20 09:19
+  7253 Anna
+  7357 2025-6-20 11:50
+  7412 1，LT-IS6310GP-2GX8GT的drawing源文件请发一下，需要带DI DO 485
+  7752 [Simon] 它的源文件
+  7820 2025-6-20 12:06
+  7864 Peter hu
+  7902 价格可以，源文件Anna下去发下给你
+  8039 2025-6-20 13:46
+  8087 Anna
+  8126 LT-IS6310GP-2GX8GT-D
+  8150 线框图.pdf 
+  8159 PDF
+  8180 314.3KNot Downloaded
+  8217 微信电脑版
+  8263 Anna
+  8304 LT-IS6310GP-2GX8GT-D
+  8328 线框图.ai
+  8357 1.0M Not Downloaded
+  8393 微信电脑版
+  8442 Anna
+  8471 请查收
+  8544 [Simon] 有CAD的源文件吗?
+  8606 Anna
+  8641 我问下
+  8709 [Simon] 7. Customize Your Own Web Ul Language
+  8735 [Simon] Catalog 2025
+  8759 [Simon] 这个目前能实现吗？
+  8825 2025-6-20 13:52
+  9044 [Simon] 目前只是user manual
+  9116 如果能定制语言就能绑定这个客户以及他们背后的turk telekom
+  9176 Peter hu
+  9213 这个有门槛，我们定制了客户语言是因为客户下单量超过1K
+  9283 [Simon] 量不是问题
+  9343  Peter hu
+  9378 青按照这个方式来谈
+  9449 有定制的能力 这就是一个谈判的优势 他们想搞就1K起步 达不到要求是他们的事儿我们有这个能力
+  9514 2025-6-20 13:55
+  9570 [Simon] OK
+  9630 Peter hu
+  9666 但是客户负责翻译啊
+  9736 [Simon] 这个周期会很长吗？
+  9805 [Simon] 好
+  9851 [Simon] Peterhu:但是客户负责翻译啊
+  9897 Peter hu
+  9932 我们把需要翻译的列表给客户
+ 10003 明白了然后大概copy过来再从软件上重新做处理是吧？
+ 10064  Peter hu
+ 10100 还好，正常1K订单的交期没问题
+ 10145 Simon:这个周期会很长吗？
+ 10199 [Simon] 好
+ 10261  Peter hu
+ 10297 是的，相当于完全定制版本
+ 10343 Simon：明白了然后大概copy过来再从软件上重新做
+ 10362 处理是吧？
+ 10418 好 主要是他背后有turk telekom 我最近想了一下 原本也没啥客户 不如花点精力想一下如何绑定这个客户 能绑定自
+ 10439 然单子就有了
+ 10507 2025-6-20 14:23
+ 10555 Anna
+ 10594 LT-IS6310GP-2GX8GT-
+ 10619 D.dxf
+ 10650 17.8M Not Downloaded
+ 10684 微信电脑版
+ 10730 Anna
+ 10762 请查收CAD文件
+ 10835 [Simon] 好谢谢儿
+ 10898 Anna
+ 10932 不客气
+ 10999 2025-6-23 09:02
+ 11061 [Simon] User Manual_STSC202506
+ 11085 [Simon] 19007.pdf
+ 11093 [Simon] PDF
+ 11114 [Simon] 434.8K Not Downloaded
+ 11150 [Simon] 微信电脑版
+ 11280 [Simon] Send

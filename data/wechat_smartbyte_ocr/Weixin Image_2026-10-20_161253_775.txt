@@ -1,0 +1,134 @@
+    16 Peter hu、扫地僧(3)
+    61 2/9 16:23
+   116 下午好陈工@扫地僧
+   165 有个问题想问一下
+   210 Angora Networks在2024.5月下单了LT-S8528XGP-4XS24GT和LT-S8552XGP-4XS48GT
+   235 这差不多2年了，肯定是一些软件功能升级了
+   282 那么硬件变了吗？
+   306 还是说仅仅通过一个升级包就可以让客户直接获得最新的L3系列功能呢？
+   356 如果是仅仅通过一个升级包，那么你们会定期发布升级包吗(目前版本一直在升级)？
+   379 还是说需要跟你们要才可以？
+   426 我是想着如果有一个对外（你们成单的客户，比如Saga或者Dptek）公布的云盘啥的
+   451 你们有新的升级包或者MIB文件等
+   474 我们可以自取
+   497 1，省事，减少沟通成本
+   521 2，客户那也能知道到我们一直在升级，会更信任我们
+   543 3，客户可以随时根据最新的feature list和MIB info进行及时调整
+   567 而不是一大段时间后客户主动去要，然后再根据我们给的信息去调整，这稍显被动
+   633 2/9 16:35
+   679  Peter hu
+   715 HelloSimon，假如产品在客户端使用正常，我们都是建议不要升级
+   775 Peter hu
+   814 就像我的苹果手机现在用的16.1版本，苹果官方已经是26.1版本了
+   874  Peter hu
+   910 L3系列不是主推产品，L3功能没有变化
+   980 [Simon] haod
+  1038 Peter hu
+  1210 3/1609:00
+  1269 [Simon] 早上好陈工@扫地僧
+  1335 购买时间：2025.8月
+  1362 合同号：P20250829-01
+  1387 型号:LT-IS6528XGP-4XS24GT-4BT
+  1434 I have a bug/feature request for the switch.
+  1456 When I ssh in from a modern Linux Os, the terminal is being detected as "xterm-256color", which is correct.
+  1482 However, your switch doesn't know what this terminal type is, and therefore defaults to "dumb terminal":
+  1530 chris@localhost:~/bin> ssh admin@192.168.2.75
+  1552 admin@192.168.2.75's password:
+  1577 No entry for terminal type "xterm-256color";
+  1598 using dumb terminal settings.
+  1624 No entry for terminal type "xterm-256color";
+  1647 using dumb terminal settings.
+  1670 GreenhouseSwitch2#
+  1718 This means that the arrow keys don't work when recalling commands.
+  1740  Please could you add this terminal type to a future version of your firmware, so I don't need to force a
+  1765 terminal type with an environment variable, or use PuTTY?
+  1813 I'm having a strange issue with PoE on some of the ports, but I can't see anything obvious in the logs.
+  1835 I will try and figure out a pattern, and If I can't solve it, I may need your help.
+  1883 第一个问题请看以下
+  1932 PoE问题就再等等客户反馈
+  2000 [Simon] 请抽空看一下这个
+  2061 Peter hu
+  2098 我转给软件同事
+  2164 [Simon] 好的 谢谢
+  2233 3/16 09:11
+  2280  Peter hu
+  2313 Simon，出货的这款是AC3，这个是linux的老版本，支持的模式有限，AC5版本支持的模式会多很多，不会有这个问题
+  2385 1 也就是，这个问题本身不是问题，AC5直接搞定了是吧?
+  2432 2 这个目前AC5能出吗?
+  2498 3/16 09:12
+  2544  Peter hu
+  2578 1.是的
+  2604 2.AC5L3软件还是在适配中，估计4月份应该可以
+  2672 [Simon] 好
+  2804 Peter hu
+  2907 3/23 09:26
+  2961 早上好
+  3010 该客户反馈PoE问题如下
+  3059 So, for the PoE issues:
+  3083 Last year PoE was working fine for all devices.
+  3105 The switch has been off for a couple of months due to low battery power.
+  3131 Now the battery is reguarly full, and I have been using the switch again for several weeks, but anything
+  3155 powered by PoE is having problems.
+  3176 The fibre port and non-PoE devices are stable, and the switch itself does not reboot, but I have several PoE
+  3203 devices that I am having trouble with.
+  3225 I have checked cables, and tried different cables, but one in particular in effect keeps power-cycling. I have
+  3249 tried to remove any complications, and now, I have one AP (which uses single-digit watts (around 5w i
+  3272 think), connected to a short cable, and the issue still keeps happening.
+  3296 Unfortunately there's nothing helpful in the logs except showing that power is going off and on again (see
+  3322 attached)
+  3344 Port 1 most recently just had this 1 TP Link AP connected to it. Before then it had a PoE Extender plugged
+  3366 into it with the AP and a CCTV camera
+  3390 Port 2 is a HTTP-controllable relay, which uses ~1.4w
+  3412  Port 5 is another PoE Extender, which powers a Rasbperry Pl and another CCTV camera, around 15-20w 
+  3439 total.
+  3461  This was all working fine last year.
+  3488 Any ideas?
+  3533 目前排除有2个原因
+  3554 1.它电池系统有问题，比如老化，瞬间供电不够等等
+  3580 2. 我们的PoE小卡出问题了 (可能性较小)
+  3630 因为之前客户用过一段时间没啥问题，基本不可能断电后，放一阵子
+  3653 这个PoE小卡就出问题了
+  3700 但一直拉不起来PoE，一个AP都带不起来
+  3747 我是想着2个方案
+  3771 1.让客户找个标准导轨电源接入试试，看能否带起来AP (必要时拆开外壳)
+  3818 2.检查一下他电池系统
+  3868 我们这边也看看客户发的内容看有啥特别情况没
+  3936 [Simon] 购买时间：2025.8月
+  3960 [Simon] 合同号：P20250829-01
+  3983 [Simon] 型号: LT-IS6528XGP- 4XS24GT-4BT
+  4053 [Simon] 还是那个单子
+  4129 [Simon] backup-GreenhouseSwitch
+  4153 [Simon] ...tar.bz2
+  4180 [Simon] 207.1K
+  4220 [Simon] 微信电脑版
+  4263 Peter hu
+  4300 @扫地僧请抽时间帮忙看看
+  4438 3/23 10:59
+  4483 扫地僧
+  4519 从log来看，只有看的AP在不停poweron/off。
+  4592 [Simon] 那大概率就是刚说的1和2可能性了?
+  4651 扫地僧
+  4687 请先判断一下输入电压是否正常？
+  4757 [Simon] PoE小卡出问题可能性不大吧 它电池浪涌啥的会击毁吗
+  4825 [Simon] 好
+  4872 [Simon] 扫地僧：请先判断一下输入电压是否正常？
+  4918 扫地僧
+  4956 目前没有提示PoE故障，暂时不知道原因。
+  5026 [Simon] 好那我先让客户验证一下电源啥的
+  5085 扫地僧
+  5121 好的
+  5250 扫地僧
+  5287 如果更换电源没有效果，请预约一下远程
+  5360 [Simon] 好必要时需要客户拆外壳吗？看看PoE小卡状态啥的
+  5428 [Simon] 我最近遇到一个情况
+  5489 扫地僧
+  5522 肉眼看不出来的
+  5596 [Simon] 客户电源环境很差劲
+  5600 [Simon] 客户电源环境很差劲
+  5665 [Simon] 直接把板子上的物料给搞坏了都
+  5962 好 那我就先让客户搞一下电源拍拍图 视频啥的 说一下远程等流程
+  6027 3/23 11:04
+  6143 扫地僧
+  6180 如果是这样的故障，那不会出现poweron/off，应该是一点反应都没有
+  6248 [Simon] 好那我让客户那多试试多提供一些信息
+  6404 [Simon] Send

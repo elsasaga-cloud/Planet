@@ -1,0 +1,393 @@
+    14 STSC20250117007 (6)
+    77 2025-11-4 10:02
+   122 Taylan Esen 不是中国大陆账号。请仔细核实真实身份，涉及金钱交易务必电话确认，保护个人财产和隐私安全。
+   164 You invited Levent KILlC to the group chat.
+   204 Levent KILIC不是中国大陆账号。请仔细核实真实身份，涉及金钱交易务必电话确认，保护个人财产和隐私安全。
+   254 [Simon] hi @Peter hu @Levent KILIC @Taylan Esen
+   324 [Simon] lets talk here
+   387 Note:扫地僧isnotfriendswith anyoneelse in thisgroupchat.
+   430 Peterhuinvited扫地僧tothegroupchat
+   476 2025-11-410:05
+   532 [Simon] we will loop in our engineers soon
+   590 Peter hu invited sushen to the group chat
+   632 Peter hu
+   666 @扫地僧 @sushen Please talk here
+   738 pls make sure
+   762 1, the faulty switches and good switches are connected, we will check and compare the configurations
+   786 2, all switches MUST BE ON SITE and can show the problems mentioned on emails 
+   810 3, lets do Anydesk remote control
+   870 Levent KILIC
+   903 Hi there.
+   972 [Simon] @Taylan Esen
+  1042 [Simon] Hi, Levent.
+  1115 [Simon] this is about our engineers and my supervisor Peter
+  1165 [Simon] lets fix this
+  1221 sushen
+  1260 hi
+  1317 0 Taylan Esen
+  1354 Ok let me connect to customer environment first
+  1414 Levent KILIC
+  1450 Hi  good morning everyone
+  1510  Peter hu
+  1544 Morning
+  1607  Peter hu
+  1641 Let's begin
+  1701 Levent KILIC
+  1740 @Taylan Esen is connecting to real site now
+  1805 2025-11-4 10:11
+  1851 Levent KILIC
+  1887 Just a minute please
+  1948 0 Taylan Esen
+  1981 ok ready
+  2043  0 Taylan Esen
+  2078 my anydesk id
+  2139 0 Taylan Esen
+  2176 1 399 709 988
+  2241 2025-11-4 10:16
+  2287  0 Taylan Esen
+  2324 If you can check
+  2381 sushen
+  2422 yes
+  2479 0 Taylan Esen
+  2517 sh run onboth side
+  2577 0 Taylan Esen
+  2614 you can see different port configs
+  2674 0 Taylan Esen
+  2710 in each device
+  2771 0 Taylan Esen
+  2805 normal device have all same config
+  2866 0 Taylan Esen
+  2900 on the faulty one we have different speed and poe configs
+  2962 0 Taylan Esen
+  2994 whatever it works they leave this way
+  3056  0 Taylan Esen
+  3094 and still get some disconnect after some time
+  3155 sushen
+  3190 which port is un normal for FAULTY device?
+  3251 0 Taylan Esen
+  3286 Port 1, Port4 , Port6 and Port 16
+  3347 0 Taylan Esen
+  3380 There is a camera connected on port 16
+  3447 2025-11-4 10:20
+  3492 0 Taylan Esen
+  3530 Butnevercameup
+  3590 0 Taylan Esen
+  3626 Once there is a problem with a port
+  3683 sushen
+  3720 why speed 10?
+  3782 0 Taylan Esen
+  3819 customer tried to solve bu changing the speed
+  3876 sushen
+  3913 OK
+  3975 0 Taylan Esen
+  4011 sometimes it works
+  4071 0 Taylan Esen
+  4107 as in port 4
+  4165 sushen
+  4202 for device connect to gi0/16, is powered by poe?
+  4264 0 Taylan Esen
+  4301 yes but they are using external poe adapters
+  4364 2025-11-4 10:26
+  4410 0 Taylan Esen
+  4446 they used to have sone pie issues before, not with our switches and they decide to use poe adapters everywhere
+  4505 0 Taylan Esen
+  4542 but please check port 1
+  4603 0 Taylan Esen
+  4640 they tried other options
+  4699 0 Taylan Esen
+  4736 and they managed to make this port work with poe enabled
+  4794 0 Taylan Esen
+  4831 that is the tricky part
+  4890 0 Taylan Esen
+  4926 port 4 have conpletely different working config
+  4988 0 Taylan Esen
+  5021 and they say, they are expecting port 4 to fail soon. They say a port works for couple of days and then fails
+  5090 2025-11-4 10:32
+  5135 扫地僧
+  5170 Can the faulty switch be replaced with another one? We suspect the problem lies with the terminal itself.
+  5232 0 Taylan Esen
+  5268 They tried to change it with a zyxel switch and the problem was solved
+  5328 0 Taylan Esen
+  5364 They also changed another with an Uptech
+  5424 0 Taylan Esen
+  5459 I ll ask if they chage with any of our switches but i beieve they did
+  5518 0 Taylan Esen
+  5554 I will double check this
+  5616 0 Taylan Esen
+  5653 They said this is a common issie and hit this problem n at least 4 or 5 site
+  5712 扫地僧
+  5748 Are the terminal devices connected to the faulty switch and the normal switch the same?
+  5808 0 Taylan Esen
+  5843 yes all same
+  5904 扫地僧
+  5939  Based on this, we still suspect that the terminal itself is faulty.
+  6002 0 Taylan Esen
+  6037 you mean the switch itself, right?
+  6102 2025-11-4 10:37
+  6149 扫地僧
+  6182  Please ask customer change the faulty switch for testing
+  6244 0 Taylan Esen
+  6281 ok they start work at 9AM
+  6342 0 Taylan Esen
+  6375 it is 5.40 here
+  6438 扫地僧
+  6472 I think our switch is normal, if the terminal devices are same
+  6519 0 Taylan Esen: you mean the switch itself, right?
+  6571 2025-11-410:38
+  6616 扫地僧
+  6652 Could it be a problem with the network cable?
+  6714 0 Taylan Esen
+  6749 But everything works when they change the switch to another brand seitch
+  6793 扫地僧：I think our switch is normal, if the terminal
+  6813 devices are same
+  6857 "扫地僧"recalled amessage
+  6902 0 Taylan Esen
+  6936 I asked it they said they changed and try with new cables
+  6981 扫地僧：Could it bea problem with the network
+  6999 cable?
+  7002 cable?
+  7048 扫地僧
+  7084 Because the switch and terminal device are same
+  7144 扫地僧
+  7181 Haha, customer always said like that
+  7222 0 Taylan Esen: But everything works when they
+  7244 change the switch to another brand seitch
+  7294 0 Taylan Esen
+  7328 Agreed with you, maybe i can go and visit myself. It is another city but i can just visit and see myself
+  7372 扫地僧：Haha,customer always said like that
+  7421 Levent KILIC
+  7455 We need to identify if this is a hardware issue or a software issue
+  7516 0 Taylan Esen
+  7550 Are there any new software that we can try
+  7610 0 Taylan Esen
+  7649 At least to get some time
+  7707 Levent KILIC
+  7742 If hardware such as bas cabling, may be pad power supply ?
+  7805 Levent KILIC
+  7841 Can we see any indication on the logs ?
+  7900 扫地僧
+  7938 There's only one compatibility issue when this port isn't working, but this type of failure is rare.
+  7981 Levent KILIC: We need to identify if this is a
+  8002 hardware issue or a software issue
+  8058 Possible to share the model names of all devices 
+  8082 Terminal, Zyxel, Cameras etc.
+  8128 AND
+  8175 Videos
+  8223 To show our switches are NoT working and Zyxel switchs are working
+  8272 Is this possible?
+  8330  0 Taylan Esen
+  8366 I can ask the customer to replace it with a zyxel
+  8411 Levent KILiC: If hardware such as bas cabling, may
+  8431 be pad power supply?
+  8478 0 Taylan Esen
+  8516 and reconnect
+  8575 扫地僧
+  8610 Great, and let's remote control the zyxel switch
+  8656 0 Taylan Esen: I can ask the customer to replace it
+  8675 with a zyxel
+  8727 2025-11-4 10:44
+  8775 0 Taylan Esen
+  8809 ok. i ll ask them today first thing
+  8871 0 Taylan Esen
+  8906 it may take some time
+  8966 0 Taylan Esen
+  9003 As soon as i get a reply, i will write here
+  9062 扫地僧
+  9096 Ok, we are waiting here
+  9159  0 Taylan Esen
+  9192 And ill connect and check the zyxel maybe get some video if they replace it late in the evening
+  9255 Levent KILIC
+  9289 Thanks everyone
+  9350 0 Taylan Esen
+  9386 Ok i will ping you back i about 3-4 hours
+  9458 [Simon] thanks, videos help a lot
+  9517 0 Taylan Esen
+  9552 Sure i ll get as much info i can get
+  9615 0 Taylan Esen
+  9650 Thanks team for the support
+  9717 [Simon] thanks, and sorry for this trouble 
+  9744 [Simon] lets fix it as early as possible
+  9806 扫地僧
+  9842 Please ask the customer film avideo of the switchbeing disconnected from thefaulty switch and then
+  9867 connected to the Zyxel switch.
+  9909 0 Taylan Esen: And i ll connect and check the zyxel
+  9930 maybe get some video if they replace it late in th..
+  9977 0 Taylan Esen
+ 10011 I know we Il find a solution 
+ 10076 2025-11-4 10:48
+ 10121 0 Taylan Esen
+ 10158 Ok
+ 10202 扫地僧：Please ask the customer film a video of the
+ 10224 switch being disconnected from the faulty switch...
+ 10270 扫地僧
+ 10370 2025-11-4 17:12
+ 10417 扫地僧
+ 10453 Hi, all
+ 10514 扫地僧
+ 10549 How is it going?
+ 10620 [Simon] @Taylan Esen @Levent KILIC
+ 10686 2025-11-4 19:14
+ 10730 0 Taylan Esen
+ 10767 I did ask the customer to replace the faulty unit with zyxel
+ 10827 0 Taylan Esen
+ 10864 they will inform me
+ 10926 0 Taylan Esen
+ 10962 and i will check with zyxel
+ 11022 0 Taylan Esen
+ 11060 once theyreplace itwewill reconnect
+ 11119 2025-11-4 20:02
+ 11179 [Simon] ok, thanks. waiting
+ 11244 2025-11-4 21:36
+ 11288 0 Taylan Esen
+ 11326 Hello team, customer just replaced the switch
+ 11388 0 Taylan Esen
+ 11422 I can arrange a remote session
+ 11492 [Simon] what happened?
+ 11552 0 Taylan Esen
+ 11591 any time you want
+ 11661 [Simon] a moment pls
+ 11718 0 Taylan Esen
+ 11750 looks all working
+ 11799 Simon: what happened?
+ 11845 扫地僧
+ 11881 video about replacing?
+ 11953 [Simon] no videos available? @Taylan Esen
+ 12018 2025-11-4 21:41
+ 12071 [Simon]  of any kind 
+ 12134 扫地僧
+ 12170 Please ask customer connect port 4 and port 5 in faulty switch and take a video
+ 12235 2025-11-4 21:56
+ 12280 0 Taylan Esen
+ 12317 no videos. but let me check if they plug the same devices
+ 12379 0 Taylan Esen
+ 12414 ihave thenacaddresses
+ 12475 0 Taylan Esen
+ 12509 ok all terminals are the same. and they all connected 100 mbps without any issue
+ 12576 2025-11-4 22:03
+ 12621 扫地僧
+ 12658 So weird
+ 12718 扫地僧
+ 12752 It can check if the switch status in this way.
+ 12798 扫地僧：Pleaseaskcustomerconnectport4and
+ 12819 port 5 in faulty switch and take a video
+ 12869 2025-11-4 22:12
+ 12915 0 Taylan Esen
+ 12951 Best way is to be on site. Let me check my travel options
+ 13089 2025-11-4 22:27
+ 13135 扫地僧
+ 13217 0 Taylan Esen: Best way is to be on site. Let me
+ 13238 check my travel options
+ 13289 2025-11-5 14:17
+ 13335 Levent KILIC
+ 13369 Hi everyone, @Taylan Esen has arranged to go on site on Thursday. He will be on site around 10:00 Turkish
+ 13395 time which is 15:00 Chinese time.
+ 13455 Levent KILIC
+ 13492 We will appreciate your after hours support tomorrow to finaalize the issues on site
+ 13557 2025-11-5 14:20
+ 13609 [Simon] Hi, Levent.
+ 13634 [Simon] Thanks
+ 13658 [Simon]  OK, we will support you, lets fix this asap
+ 13802 Please try to send some videos for a quick check
+ 13828 better if we have the connection info of faulty/good switches
+ 13886 Levent KILIC
+ 13922 thanks...
+ 13981 Levent KILIC
+ 14016 When on site, Taylan can easily share videos on wechat
+ 14086 [Simon] thats great
+ 14160 [Simon] lets see
+ 14220 2025-11-5 15:00
+ 14270 Levent KILIC
+ 14372 2025-11-6 14:45
+ 14427 Hi @Taylan Esen
+ 14455 pls text us when you are ready
+ 14475 pls send some videos for a quick check before remote control, this makes things easier
+ 14500 thanks
+ 14565 2025-11-6 14:52
+ 14611 0 Taylan Esen
+ 14646 Hi @Simon I just landed. Probably it will take about an hour to start
+ 14707 0 Taylan Esen
+ 14743 I ll share as much info i ca
+ 14805 0 Taylan Esen
+ 14840 Let me know if you need anything special
+ 14907 [Simon] Thanks, Taylan
+ 14976 [Simon] @扫地僧
+ 15025 [Simon] 0 Taylan Esen: Let me know if you need anything
+ 15045 [Simon] special
+ 15090 0 Taylan Esen
+ 15129 I brought an 8 port commercial switch and anothr unmanaged switch with me just to check the connectivity
+ 15198 thats good
+ 15220  maybe you can try to use different PoE switches to power the terminals and share whats happening
+ 15245 Lets will see what we can do
+ 15312 [Simon] videos pls
+ 15381 2025-11-6 15:08
+ 15428 0 Taylan Esen
+ 15463 We just stop by a roundabout to see the system.
+ 15524 0 Taylan Esen
+ 15775  0 Taylan Esen
+ 15812 This is inside the cabinet
+ 15872  0 Taylan Esen
+ 15906 There is a roundabout controller for traffic lights
+ 15967  0 Taylan Esen
+ 16217 扫地僧
+ 16578  0 Taylan Esen
+ 16613 This oneisthe controller. It is an old product usually connected to at 10mbps
+ 16675 扫地僧
+ 16711 The led is off?
+ 16769 0 Taylan Esen
+ 16808 connected to port 1
+ 16869 0 Taylan Esen
+ 16903 leds are ok, it looks off due to sunlight i guess
+ 16965 0 Taylan Esen
+ 17000 camera is on port 3
+ 17060 0 Taylan Esen
+ 17097 connected through a por adapter
+ 17157 0 Taylan Esen
+ 17479 2025-11-6 15:10
+ 17526 0 Taylan Esen
+ 17562 and port 9 is the ethernet from radio link
+ 17622 0 Taylan Esen
+ 17656 this site is working now
+ 17719 0 Taylan Esen
+ 17753 we are heading to headquarters
+ 17813 扫地僧
+ 17850 Do you mean the switch is working well with all 3 ports?
+ 17896 0 Taylan Esen: this site is working now
+ 17942 扫地僧
+ 18292  0 Taylan Esen
+ 18327 yes all ok now
+ 18371 扫地僧: Do you mean the switch is working well
+ 18392 with all 3 ports?
+ 18439 扫地僧
+ 18476 Ok
+ 18536 扫地僧
+ 18571 waiting
+ 18631 0 Taylan Esen
+ 18731 2025-11-6 16:13
+ 18777 0 Taylan Esen
+ 19004 0 Taylan [sen
+ 19040 here is the replaced site
+ 19100 扫地僧
+ 19136 Please install our switch
+ 19201 2025-11-6 16:19
+ 19245 0 Taylan Esen
+ 19565 0 Taylan Esen
+ 19600 i can see some loss on zyxel as well
+ 19660 0Taylan Esen
+ 19697 that is good
+ 19758 0 Taylan Esen
+ 20116 扫地僧
+ 20150 But the ports are working in zyxel
+ 20211 0 Taylan Esen
+ 20251 correct
+ 20294 扫地僧：But the ports are working in zyxel
+ 20341 扫地僧
+ 20375 This device use same chip as 16GT2GX
+ 20419 0 Taylan Esen:
+ 20502 2025-11-6 16:29
+ 20549 0 Taylan Esen
+ 20584 great. we are installing our device
+ 20644 扫地僧
+ 20680 So, what's the result?
+ 20738 0 Taylan Esen
+ 20866 [Simon] Send
+ 20868 Y

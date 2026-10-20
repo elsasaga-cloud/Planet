@@ -1,0 +1,3156 @@
+{
+ "source_path": "Weixin Image_2026-10-20_161411_365.png",
+ "location": "root",
+ "ref": "origin/main",
+ "width": 1546,
+ "height": 20917,
+ "tiles": 15,
+ "lines": [
+  {
+   "y": 14,
+   "x": 17,
+   "w": 184,
+   "h": 27,
+   "conf": 0.995,
+   "text": "STSC20250117007 (6)"
+  },
+  {
+   "y": 77,
+   "x": 710,
+   "w": 122,
+   "h": 20,
+   "conf": 0.996,
+   "text": "2025-11-4 10:02"
+  },
+  {
+   "y": 122,
+   "x": 397,
+   "w": 739,
+   "h": 23,
+   "conf": 0.99,
+   "text": "Taylan Esen 不是中国大陆账号。请仔细核实真实身份，涉及金钱交易务必电话确认，保护个人财产和隐私安全。"
+  },
+  {
+   "y": 164,
+   "x": 615,
+   "w": 311,
+   "h": 21,
+   "conf": 0.958,
+   "text": "You invited Levent KILlC to the group chat."
+  },
+  {
+   "y": 204,
+   "x": 392,
+   "w": 745,
+   "h": 23,
+   "conf": 0.985,
+   "text": "Levent KILIC不是中国大陆账号。请仔细核实真实身份，涉及金钱交易务必电话确认，保护个人财产和隐私安全。"
+  },
+  {
+   "y": 254,
+   "x": 1082,
+   "w": 356,
+   "h": 26,
+   "conf": 0.979,
+   "text": "hi @Peter hu @Levent KILIC @Taylan Esen"
+  },
+  {
+   "y": 324,
+   "x": 1325,
+   "w": 115,
+   "h": 26,
+   "conf": 0.997,
+   "text": "lets talk here"
+  },
+  {
+   "y": 387,
+   "x": 538,
+   "w": 463,
+   "h": 21,
+   "conf": 0.968,
+   "text": "Note:扫地僧isnotfriendswith anyoneelse in thisgroupchat."
+  },
+  {
+   "y": 430,
+   "x": 624,
+   "w": 296,
+   "h": 17,
+   "conf": 0.997,
+   "text": "Peterhuinvited扫地僧tothegroupchat"
+  },
+  {
+   "y": 476,
+   "x": 709,
+   "w": 121,
+   "h": 17,
+   "conf": 0.994,
+   "text": "2025-11-410:05"
+  },
+  {
+   "y": 532,
+   "x": 1146,
+   "w": 293,
+   "h": 23,
+   "conf": 0.995,
+   "text": "we will loop in our engineers soon"
+  },
+  {
+   "y": 590,
+   "x": 620,
+   "w": 302,
+   "h": 20,
+   "conf": 0.992,
+   "text": "Peter hu invited sushen to the group chat"
+  },
+  {
+   "y": 632,
+   "x": 85,
+   "w": 65,
+   "h": 21,
+   "conf": 0.991,
+   "text": "Peter hu"
+  },
+  {
+   "y": 666,
+   "x": 102,
+   "w": 295,
+   "h": 25,
+   "conf": 0.969,
+   "text": "@扫地僧 @sushen Please talk here"
+  },
+  {
+   "y": 738,
+   "x": 581,
+   "w": 121,
+   "h": 23,
+   "conf": 0.968,
+   "text": "pls make sure"
+  },
+  {
+   "y": 762,
+   "x": 580,
+   "w": 859,
+   "h": 23,
+   "conf": 0.984,
+   "text": "1, the faulty switches and good switches are connected, we will check and compare the configurations"
+  },
+  {
+   "y": 786,
+   "x": 581,
+   "w": 694,
+   "h": 23,
+   "conf": 0.981,
+   "text": "2, all switches MUST BE ON SITE and can show the problems mentioned on emails "
+  },
+  {
+   "y": 810,
+   "x": 580,
+   "w": 289,
+   "h": 23,
+   "conf": 0.977,
+   "text": "3, lets do Anydesk remote control"
+  },
+  {
+   "y": 870,
+   "x": 86,
+   "w": 92,
+   "h": 20,
+   "conf": 0.995,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 903,
+   "x": 98,
+   "w": 79,
+   "h": 27,
+   "conf": 1.0,
+   "text": "Hi there."
+  },
+  {
+   "y": 972,
+   "x": 1320,
+   "w": 121,
+   "h": 29,
+   "conf": 1.0,
+   "text": "@Taylan Esen"
+  },
+  {
+   "y": 1042,
+   "x": 1345,
+   "w": 94,
+   "h": 28,
+   "conf": 0.999,
+   "text": "Hi, Levent."
+  },
+  {
+   "y": 1115,
+   "x": 1000,
+   "w": 438,
+   "h": 24,
+   "conf": 0.995,
+   "text": "this is about our engineers and my supervisor Peter"
+  },
+  {
+   "y": 1165,
+   "x": 1002,
+   "w": 94,
+   "h": 21,
+   "conf": 0.999,
+   "text": "lets fix this"
+  },
+  {
+   "y": 1221,
+   "x": 83,
+   "w": 59,
+   "h": 24,
+   "conf": 0.996,
+   "text": "sushen"
+  },
+  {
+   "y": 1260,
+   "x": 99,
+   "w": 23,
+   "h": 22,
+   "conf": 0.999,
+   "text": "hi"
+  },
+  {
+   "y": 1317,
+   "x": 83,
+   "w": 104,
+   "h": 24,
+   "conf": 0.962,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 1354,
+   "x": 100,
+   "w": 415,
+   "h": 24,
+   "conf": 0.989,
+   "text": "Ok let me connect to customer environment first"
+  },
+  {
+   "y": 1414,
+   "x": 85,
+   "w": 92,
+   "h": 21,
+   "conf": 0.995,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 1450,
+   "x": 100,
+   "w": 263,
+   "h": 28,
+   "conf": 0.991,
+   "text": "Hi  good morning everyone"
+  },
+  {
+   "y": 1510,
+   "x": 84,
+   "w": 67,
+   "h": 21,
+   "conf": 0.959,
+   "text": " Peter hu"
+  },
+  {
+   "y": 1544,
+   "x": 98,
+   "w": 81,
+   "h": 29,
+   "conf": 0.921,
+   "text": "Morning"
+  },
+  {
+   "y": 1607,
+   "x": 84,
+   "w": 67,
+   "h": 20,
+   "conf": 0.952,
+   "text": " Peter hu"
+  },
+  {
+   "y": 1641,
+   "x": 98,
+   "w": 99,
+   "h": 28,
+   "conf": 0.982,
+   "text": "Let's begin"
+  },
+  {
+   "y": 1701,
+   "x": 85,
+   "w": 92,
+   "h": 23,
+   "conf": 0.986,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 1740,
+   "x": 103,
+   "w": 366,
+   "h": 23,
+   "conf": 0.981,
+   "text": "@Taylan Esen is connecting to real site now"
+  },
+  {
+   "y": 1805,
+   "x": 710,
+   "w": 121,
+   "h": 20,
+   "conf": 0.996,
+   "text": "2025-11-4 10:11"
+  },
+  {
+   "y": 1851,
+   "x": 87,
+   "w": 91,
+   "h": 21,
+   "conf": 0.996,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 1887,
+   "x": 100,
+   "w": 177,
+   "h": 25,
+   "conf": 0.997,
+   "text": "Just a minute please"
+  },
+  {
+   "y": 1948,
+   "x": 84,
+   "w": 103,
+   "h": 19,
+   "conf": 0.983,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 1981,
+   "x": 98,
+   "w": 80,
+   "h": 28,
+   "conf": 0.944,
+   "text": "ok ready"
+  },
+  {
+   "y": 2043,
+   "x": 83,
+   "w": 105,
+   "h": 23,
+   "conf": 0.962,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 2078,
+   "x": 98,
+   "w": 129,
+   "h": 26,
+   "conf": 0.996,
+   "text": "my anydesk id"
+  },
+  {
+   "y": 2139,
+   "x": 82,
+   "w": 105,
+   "h": 23,
+   "conf": 0.974,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2176,
+   "x": 101,
+   "w": 123,
+   "h": 23,
+   "conf": 0.962,
+   "text": "1 399 709 988"
+  },
+  {
+   "y": 2241,
+   "x": 710,
+   "w": 123,
+   "h": 20,
+   "conf": 0.997,
+   "text": "2025-11-4 10:16"
+  },
+  {
+   "y": 2287,
+   "x": 84,
+   "w": 104,
+   "h": 23,
+   "conf": 0.958,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 2324,
+   "x": 100,
+   "w": 142,
+   "h": 23,
+   "conf": 0.959,
+   "text": "If you can check"
+  },
+  {
+   "y": 2381,
+   "x": 82,
+   "w": 60,
+   "h": 24,
+   "conf": 0.996,
+   "text": "sushen"
+  },
+  {
+   "y": 2422,
+   "x": 98,
+   "w": 37,
+   "h": 22,
+   "conf": 0.999,
+   "text": "yes"
+  },
+  {
+   "y": 2479,
+   "x": 83,
+   "w": 104,
+   "h": 23,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2517,
+   "x": 102,
+   "w": 166,
+   "h": 20,
+   "conf": 0.967,
+   "text": "sh run onboth side"
+  },
+  {
+   "y": 2577,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2614,
+   "x": 99,
+   "w": 290,
+   "h": 23,
+   "conf": 0.987,
+   "text": "you can see different port configs"
+  },
+  {
+   "y": 2674,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2710,
+   "x": 100,
+   "w": 125,
+   "h": 22,
+   "conf": 0.992,
+   "text": "in each device"
+  },
+  {
+   "y": 2771,
+   "x": 85,
+   "w": 100,
+   "h": 17,
+   "conf": 0.961,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2805,
+   "x": 100,
+   "w": 299,
+   "h": 23,
+   "conf": 0.984,
+   "text": "normal device have all same config"
+  },
+  {
+   "y": 2866,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2900,
+   "x": 100,
+   "w": 495,
+   "h": 25,
+   "conf": 0.975,
+   "text": "on the faulty one we have different speed and poe configs"
+  },
+  {
+   "y": 2962,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 2994,
+   "x": 99,
+   "w": 317,
+   "h": 29,
+   "conf": 0.99,
+   "text": "whatever it works they leave this way"
+  },
+  {
+   "y": 3056,
+   "x": 83,
+   "w": 105,
+   "h": 23,
+   "conf": 0.962,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 3094,
+   "x": 101,
+   "w": 388,
+   "h": 23,
+   "conf": 0.991,
+   "text": "and still get some disconnect after some time"
+  },
+  {
+   "y": 3155,
+   "x": 86,
+   "w": 55,
+   "h": 18,
+   "conf": 0.998,
+   "text": "sushen"
+  },
+  {
+   "y": 3190,
+   "x": 101,
+   "w": 368,
+   "h": 23,
+   "conf": 0.976,
+   "text": "which port is un normal for FAULTY device?"
+  },
+  {
+   "y": 3251,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 3286,
+   "x": 101,
+   "w": 272,
+   "h": 23,
+   "conf": 0.972,
+   "text": "Port 1, Port4 , Port6 and Port 16"
+  },
+  {
+   "y": 3347,
+   "x": 85,
+   "w": 102,
+   "h": 19,
+   "conf": 0.984,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 3380,
+   "x": 101,
+   "w": 338,
+   "h": 25,
+   "conf": 0.983,
+   "text": "There is a camera connected on port 16"
+  },
+  {
+   "y": 3447,
+   "x": 710,
+   "w": 120,
+   "h": 17,
+   "conf": 0.985,
+   "text": "2025-11-4 10:20"
+  },
+  {
+   "y": 3492,
+   "x": 82,
+   "w": 105,
+   "h": 23,
+   "conf": 0.974,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 3530,
+   "x": 101,
+   "w": 161,
+   "h": 23,
+   "conf": 0.998,
+   "text": "Butnevercameup"
+  },
+  {
+   "y": 3590,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 3626,
+   "x": 101,
+   "w": 304,
+   "h": 23,
+   "conf": 0.99,
+   "text": "Once there is a problem with a port"
+  },
+  {
+   "y": 3683,
+   "x": 82,
+   "w": 60,
+   "h": 24,
+   "conf": 0.996,
+   "text": "sushen"
+  },
+  {
+   "y": 3720,
+   "x": 99,
+   "w": 131,
+   "h": 27,
+   "conf": 0.966,
+   "text": "why speed 10?"
+  },
+  {
+   "y": 3782,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 3819,
+   "x": 101,
+   "w": 395,
+   "h": 23,
+   "conf": 0.993,
+   "text": "customer tried to solve bu changing the speed"
+  },
+  {
+   "y": 3876,
+   "x": 82,
+   "w": 60,
+   "h": 23,
+   "conf": 0.996,
+   "text": "sushen"
+  },
+  {
+   "y": 3913,
+   "x": 99,
+   "w": 35,
+   "h": 24,
+   "conf": 0.987,
+   "text": "OK"
+  },
+  {
+   "y": 3975,
+   "x": 84,
+   "w": 102,
+   "h": 20,
+   "conf": 0.965,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4011,
+   "x": 101,
+   "w": 167,
+   "h": 23,
+   "conf": 0.969,
+   "text": "sometimes it works"
+  },
+  {
+   "y": 4071,
+   "x": 84,
+   "w": 102,
+   "h": 20,
+   "conf": 0.965,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4107,
+   "x": 100,
+   "w": 102,
+   "h": 23,
+   "conf": 0.994,
+   "text": "as in port 4"
+  },
+  {
+   "y": 4165,
+   "x": 83,
+   "w": 59,
+   "h": 24,
+   "conf": 0.996,
+   "text": "sushen"
+  },
+  {
+   "y": 4202,
+   "x": 100,
+   "w": 414,
+   "h": 25,
+   "conf": 0.998,
+   "text": "for device connect to gi0/16, is powered by poe?"
+  },
+  {
+   "y": 4264,
+   "x": 86,
+   "w": 101,
+   "h": 20,
+   "conf": 0.986,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4301,
+   "x": 100,
+   "w": 377,
+   "h": 23,
+   "conf": 0.988,
+   "text": "yes but they are using external poe adapters"
+  },
+  {
+   "y": 4364,
+   "x": 710,
+   "w": 122,
+   "h": 20,
+   "conf": 0.995,
+   "text": "2025-11-4 10:26"
+  },
+  {
+   "y": 4410,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4446,
+   "x": 101,
+   "w": 946,
+   "h": 23,
+   "conf": 0.992,
+   "text": "they used to have sone pie issues before, not with our switches and they decide to use poe adapters everywhere"
+  },
+  {
+   "y": 4505,
+   "x": 84,
+   "w": 104,
+   "h": 23,
+   "conf": 0.993,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4542,
+   "x": 101,
+   "w": 200,
+   "h": 23,
+   "conf": 0.999,
+   "text": "but please check port 1"
+  },
+  {
+   "y": 4603,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4640,
+   "x": 100,
+   "w": 205,
+   "h": 23,
+   "conf": 0.986,
+   "text": "they tried other options"
+  },
+  {
+   "y": 4699,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4736,
+   "x": 101,
+   "w": 508,
+   "h": 23,
+   "conf": 0.961,
+   "text": "and they managed to make this port work with poe enabled"
+  },
+  {
+   "y": 4794,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.967,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4831,
+   "x": 100,
+   "w": 181,
+   "h": 23,
+   "conf": 0.968,
+   "text": "that is the tricky part"
+  },
+  {
+   "y": 4890,
+   "x": 83,
+   "w": 104,
+   "h": 22,
+   "conf": 0.952,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 4926,
+   "x": 99,
+   "w": 402,
+   "h": 27,
+   "conf": 0.999,
+   "text": "port 4 have conpletely different working config"
+  },
+  {
+   "y": 4988,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5021,
+   "x": 100,
+   "w": 896,
+   "h": 28,
+   "conf": 0.984,
+   "text": "and they say, they are expecting port 4 to fail soon. They say a port works for couple of days and then fails"
+  },
+  {
+   "y": 5090,
+   "x": 710,
+   "w": 121,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-4 10:32"
+  },
+  {
+   "y": 5135,
+   "x": 84,
+   "w": 52,
+   "h": 20,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 5170,
+   "x": 101,
+   "w": 876,
+   "h": 24,
+   "conf": 0.988,
+   "text": "Can the faulty switch be replaced with another one? We suspect the problem lies with the terminal itself."
+  },
+  {
+   "y": 5232,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5268,
+   "x": 102,
+   "w": 593,
+   "h": 23,
+   "conf": 0.956,
+   "text": "They tried to change it with a zyxel switch and the problem was solved"
+  },
+  {
+   "y": 5328,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5364,
+   "x": 102,
+   "w": 362,
+   "h": 23,
+   "conf": 0.99,
+   "text": "They also changed another with an Uptech"
+  },
+  {
+   "y": 5424,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5459,
+   "x": 101,
+   "w": 553,
+   "h": 24,
+   "conf": 0.934,
+   "text": "I ll ask if they chage with any of our switches but i beieve they did"
+  },
+  {
+   "y": 5518,
+   "x": 83,
+   "w": 103,
+   "h": 24,
+   "conf": 0.961,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5554,
+   "x": 100,
+   "w": 195,
+   "h": 24,
+   "conf": 0.996,
+   "text": "I will double check this"
+  },
+  {
+   "y": 5616,
+   "x": 84,
+   "w": 102,
+   "h": 20,
+   "conf": 0.963,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5653,
+   "x": 101,
+   "w": 617,
+   "h": 23,
+   "conf": 0.978,
+   "text": "They said this is a common issie and hit this problem n at least 4 or 5 site"
+  },
+  {
+   "y": 5712,
+   "x": 84,
+   "w": 52,
+   "h": 22,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 5748,
+   "x": 102,
+   "w": 744,
+   "h": 23,
+   "conf": 0.987,
+   "text": "Are the terminal devices connected to the faulty switch and the normal switch the same?"
+  },
+  {
+   "y": 5808,
+   "x": 84,
+   "w": 104,
+   "h": 23,
+   "conf": 0.993,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 5843,
+   "x": 97,
+   "w": 111,
+   "h": 29,
+   "conf": 0.993,
+   "text": "yes all same"
+  },
+  {
+   "y": 5904,
+   "x": 85,
+   "w": 51,
+   "h": 21,
+   "conf": 0.998,
+   "text": "扫地僧"
+  },
+  {
+   "y": 5939,
+   "x": 99,
+   "w": 517,
+   "h": 28,
+   "conf": 0.977,
+   "text": " Based on this, we still suspect that the terminal itself is faulty."
+  },
+  {
+   "y": 6002,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 6037,
+   "x": 98,
+   "w": 281,
+   "h": 25,
+   "conf": 0.979,
+   "text": "you mean the switch itself, right?"
+  },
+  {
+   "y": 6102,
+   "x": 710,
+   "w": 121,
+   "h": 20,
+   "conf": 0.997,
+   "text": "2025-11-4 10:37"
+  },
+  {
+   "y": 6149,
+   "x": 84,
+   "w": 52,
+   "h": 20,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 6182,
+   "x": 99,
+   "w": 476,
+   "h": 28,
+   "conf": 0.981,
+   "text": " Please ask customer change the faulty switch for testing"
+  },
+  {
+   "y": 6244,
+   "x": 83,
+   "w": 104,
+   "h": 22,
+   "conf": 0.962,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 6281,
+   "x": 101,
+   "w": 223,
+   "h": 23,
+   "conf": 0.992,
+   "text": "ok they start work at 9AM"
+  },
+  {
+   "y": 6342,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 6375,
+   "x": 97,
+   "w": 122,
+   "h": 27,
+   "conf": 0.993,
+   "text": "it is 5.40 here"
+  },
+  {
+   "y": 6438,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 6472,
+   "x": 101,
+   "w": 506,
+   "h": 26,
+   "conf": 0.995,
+   "text": "I think our switch is normal, if the terminal devices are same"
+  },
+  {
+   "y": 6519,
+   "x": 100,
+   "w": 344,
+   "h": 22,
+   "conf": 0.99,
+   "text": "0 Taylan Esen: you mean the switch itself, right?"
+  },
+  {
+   "y": 6571,
+   "x": 711,
+   "w": 121,
+   "h": 17,
+   "conf": 0.994,
+   "text": "2025-11-410:38"
+  },
+  {
+   "y": 6616,
+   "x": 85,
+   "w": 51,
+   "h": 21,
+   "conf": 0.998,
+   "text": "扫地僧"
+  },
+  {
+   "y": 6652,
+   "x": 102,
+   "w": 391,
+   "h": 23,
+   "conf": 0.988,
+   "text": "Could it be a problem with the network cable?"
+  },
+  {
+   "y": 6714,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 6749,
+   "x": 101,
+   "w": 633,
+   "h": 23,
+   "conf": 0.983,
+   "text": "But everything works when they change the switch to another brand seitch"
+  },
+  {
+   "y": 6793,
+   "x": 100,
+   "w": 359,
+   "h": 21,
+   "conf": 0.963,
+   "text": "扫地僧：I think our switch is normal, if the terminal"
+  },
+  {
+   "y": 6813,
+   "x": 99,
+   "w": 130,
+   "h": 23,
+   "conf": 0.978,
+   "text": "devices are same"
+  },
+  {
+   "y": 6857,
+   "x": 669,
+   "w": 205,
+   "h": 26,
+   "conf": 0.945,
+   "text": "\"扫地僧\"recalled amessage"
+  },
+  {
+   "y": 6902,
+   "x": 85,
+   "w": 102,
+   "h": 19,
+   "conf": 0.984,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 6936,
+   "x": 102,
+   "w": 481,
+   "h": 23,
+   "conf": 0.956,
+   "text": "I asked it they said they changed and try with new cables"
+  },
+  {
+   "y": 6981,
+   "x": 100,
+   "w": 341,
+   "h": 21,
+   "conf": 0.949,
+   "text": "扫地僧：Could it bea problem with the network"
+  },
+  {
+   "y": 6999,
+   "x": 97,
+   "w": 55,
+   "h": 25,
+   "conf": 0.987,
+   "text": "cable?"
+  },
+  {
+   "y": 7002,
+   "x": 99,
+   "w": 52,
+   "h": 21,
+   "conf": 0.995,
+   "text": "cable?"
+  },
+  {
+   "y": 7048,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 7084,
+   "x": 100,
+   "w": 415,
+   "h": 24,
+   "conf": 0.983,
+   "text": "Because the switch and terminal device are same"
+  },
+  {
+   "y": 7144,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 7181,
+   "x": 102,
+   "w": 306,
+   "h": 22,
+   "conf": 0.991,
+   "text": "Haha, customer always said like that"
+  },
+  {
+   "y": 7222,
+   "x": 99,
+   "w": 340,
+   "h": 25,
+   "conf": 0.996,
+   "text": "0 Taylan Esen: But everything works when they"
+  },
+  {
+   "y": 7244,
+   "x": 100,
+   "w": 308,
+   "h": 22,
+   "conf": 0.974,
+   "text": "change the switch to another brand seitch"
+  },
+  {
+   "y": 7294,
+   "x": 85,
+   "w": 101,
+   "h": 17,
+   "conf": 0.951,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 7328,
+   "x": 102,
+   "w": 838,
+   "h": 23,
+   "conf": 0.981,
+   "text": "Agreed with you, maybe i can go and visit myself. It is another city but i can just visit and see myself"
+  },
+  {
+   "y": 7372,
+   "x": 99,
+   "w": 320,
+   "h": 21,
+   "conf": 0.981,
+   "text": "扫地僧：Haha,customer always said like that"
+  },
+  {
+   "y": 7421,
+   "x": 88,
+   "w": 89,
+   "h": 17,
+   "conf": 0.958,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 7455,
+   "x": 101,
+   "w": 546,
+   "h": 24,
+   "conf": 0.959,
+   "text": "We need to identify if this is a hardware issue or a software issue"
+  },
+  {
+   "y": 7516,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 7550,
+   "x": 100,
+   "w": 365,
+   "h": 26,
+   "conf": 0.97,
+   "text": "Are there any new software that we can try"
+  },
+  {
+   "y": 7610,
+   "x": 82,
+   "w": 105,
+   "h": 23,
+   "conf": 0.968,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 7649,
+   "x": 101,
+   "w": 217,
+   "h": 23,
+   "conf": 0.983,
+   "text": "At least to get some time"
+  },
+  {
+   "y": 7707,
+   "x": 87,
+   "w": 91,
+   "h": 20,
+   "conf": 0.965,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 7742,
+   "x": 101,
+   "w": 506,
+   "h": 25,
+   "conf": 0.98,
+   "text": "If hardware such as bas cabling, may be pad power supply ?"
+  },
+  {
+   "y": 7805,
+   "x": 87,
+   "w": 91,
+   "h": 20,
+   "conf": 0.975,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 7841,
+   "x": 102,
+   "w": 335,
+   "h": 23,
+   "conf": 0.991,
+   "text": "Can we see any indication on the logs ?"
+  },
+  {
+   "y": 7900,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 7938,
+   "x": 102,
+   "w": 792,
+   "h": 22,
+   "conf": 0.99,
+   "text": "There's only one compatibility issue when this port isn't working, but this type of failure is rare."
+  },
+  {
+   "y": 7981,
+   "x": 102,
+   "w": 314,
+   "h": 20,
+   "conf": 0.967,
+   "text": "Levent KILIC: We need to identify if this is a"
+  },
+  {
+   "y": 8002,
+   "x": 101,
+   "w": 250,
+   "h": 20,
+   "conf": 0.978,
+   "text": "hardware issue or a software issue"
+  },
+  {
+   "y": 8058,
+   "x": 855,
+   "w": 409,
+   "h": 23,
+   "conf": 0.994,
+   "text": "Possible to share the model names of all devices "
+  },
+  {
+   "y": 8082,
+   "x": 855,
+   "w": 242,
+   "h": 23,
+   "conf": 1.0,
+   "text": "Terminal, Zyxel, Cameras etc."
+  },
+  {
+   "y": 8128,
+   "x": 853,
+   "w": 48,
+   "h": 25,
+   "conf": 0.998,
+   "text": "AND"
+  },
+  {
+   "y": 8175,
+   "x": 851,
+   "w": 67,
+   "h": 26,
+   "conf": 0.999,
+   "text": "Videos"
+  },
+  {
+   "y": 8223,
+   "x": 853,
+   "w": 585,
+   "h": 25,
+   "conf": 0.984,
+   "text": "To show our switches are NoT working and Zyxel switchs are working"
+  },
+  {
+   "y": 8272,
+   "x": 853,
+   "w": 137,
+   "h": 24,
+   "conf": 0.986,
+   "text": "Is this possible?"
+  },
+  {
+   "y": 8330,
+   "x": 84,
+   "w": 103,
+   "h": 23,
+   "conf": 0.959,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 8366,
+   "x": 100,
+   "w": 399,
+   "h": 25,
+   "conf": 0.978,
+   "text": "I can ask the customer to replace it with a zyxel"
+  },
+  {
+   "y": 8411,
+   "x": 100,
+   "w": 363,
+   "h": 25,
+   "conf": 0.969,
+   "text": "Levent KILiC: If hardware such as bas cabling, may"
+  },
+  {
+   "y": 8431,
+   "x": 98,
+   "w": 173,
+   "h": 26,
+   "conf": 0.992,
+   "text": "be pad power supply?"
+  },
+  {
+   "y": 8478,
+   "x": 84,
+   "w": 104,
+   "h": 23,
+   "conf": 0.993,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 8516,
+   "x": 100,
+   "w": 126,
+   "h": 23,
+   "conf": 1.0,
+   "text": "and reconnect"
+  },
+  {
+   "y": 8575,
+   "x": 85,
+   "w": 51,
+   "h": 20,
+   "conf": 0.995,
+   "text": "扫地僧"
+  },
+  {
+   "y": 8610,
+   "x": 101,
+   "w": 395,
+   "h": 25,
+   "conf": 0.984,
+   "text": "Great, and let's remote control the zyxel switch"
+  },
+  {
+   "y": 8656,
+   "x": 101,
+   "w": 359,
+   "h": 20,
+   "conf": 0.981,
+   "text": "0 Taylan Esen: I can ask the customer to replace it"
+  },
+  {
+   "y": 8675,
+   "x": 98,
+   "w": 90,
+   "h": 23,
+   "conf": 0.996,
+   "text": "with a zyxel"
+  },
+  {
+   "y": 8727,
+   "x": 710,
+   "w": 122,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-4 10:44"
+  },
+  {
+   "y": 8775,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 8809,
+   "x": 100,
+   "w": 275,
+   "h": 26,
+   "conf": 0.963,
+   "text": "ok. i ll ask them today first thing"
+  },
+  {
+   "y": 8871,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 8906,
+   "x": 100,
+   "w": 191,
+   "h": 23,
+   "conf": 0.999,
+   "text": "it may take some time"
+  },
+  {
+   "y": 8966,
+   "x": 85,
+   "w": 101,
+   "h": 20,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 9003,
+   "x": 101,
+   "w": 334,
+   "h": 23,
+   "conf": 0.984,
+   "text": "As soon as i get a reply, i will write here"
+  },
+  {
+   "y": 9062,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 9096,
+   "x": 101,
+   "w": 203,
+   "h": 28,
+   "conf": 0.978,
+   "text": "Ok, we are waiting here"
+  },
+  {
+   "y": 9159,
+   "x": 84,
+   "w": 101,
+   "h": 20,
+   "conf": 0.925,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 9192,
+   "x": 99,
+   "w": 803,
+   "h": 30,
+   "conf": 0.969,
+   "text": "And ill connect and check the zyxel maybe get some video if they replace it late in the evening"
+  },
+  {
+   "y": 9255,
+   "x": 87,
+   "w": 91,
+   "h": 21,
+   "conf": 0.996,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 9289,
+   "x": 99,
+   "w": 149,
+   "h": 29,
+   "conf": 0.993,
+   "text": "Thanks everyone"
+  },
+  {
+   "y": 9350,
+   "x": 84,
+   "w": 103,
+   "h": 23,
+   "conf": 0.993,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 9386,
+   "x": 101,
+   "w": 346,
+   "h": 26,
+   "conf": 0.982,
+   "text": "Ok i will ping you back i about 3-4 hours"
+  },
+  {
+   "y": 9458,
+   "x": 1231,
+   "w": 207,
+   "h": 23,
+   "conf": 0.998,
+   "text": "thanks, videos help a lot"
+  },
+  {
+   "y": 9517,
+   "x": 84,
+   "w": 104,
+   "h": 23,
+   "conf": 0.993,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 9552,
+   "x": 100,
+   "w": 291,
+   "h": 26,
+   "conf": 0.995,
+   "text": "Sure i ll get as much info i can get"
+  },
+  {
+   "y": 9615,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 9650,
+   "x": 100,
+   "w": 246,
+   "h": 25,
+   "conf": 0.972,
+   "text": "Thanks team for the support"
+  },
+  {
+   "y": 9717,
+   "x": 1128,
+   "w": 305,
+   "h": 28,
+   "conf": 0.985,
+   "text": "thanks, and sorry for this trouble "
+  },
+  {
+   "y": 9744,
+   "x": 1129,
+   "w": 242,
+   "h": 26,
+   "conf": 0.992,
+   "text": "lets fix it as early as possible"
+  },
+  {
+   "y": 9806,
+   "x": 85,
+   "w": 50,
+   "h": 18,
+   "conf": 0.995,
+   "text": "扫地僧"
+  },
+  {
+   "y": 9842,
+   "x": 102,
+   "w": 856,
+   "h": 20,
+   "conf": 0.952,
+   "text": "Please ask the customer film avideo of the switchbeing disconnected from thefaulty switch and then"
+  },
+  {
+   "y": 9867,
+   "x": 102,
+   "w": 255,
+   "h": 20,
+   "conf": 0.973,
+   "text": "connected to the Zyxel switch."
+  },
+  {
+   "y": 9909,
+   "x": 100,
+   "w": 363,
+   "h": 21,
+   "conf": 0.961,
+   "text": "0 Taylan Esen: And i ll connect and check the zyxel"
+  },
+  {
+   "y": 9930,
+   "x": 101,
+   "w": 364,
+   "h": 20,
+   "conf": 0.979,
+   "text": "maybe get some video if they replace it late in th.."
+  },
+  {
+   "y": 9977,
+   "x": 85,
+   "w": 102,
+   "h": 19,
+   "conf": 0.984,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 10011,
+   "x": 100,
+   "w": 234,
+   "h": 23,
+   "conf": 0.959,
+   "text": "I know we Il find a solution "
+  },
+  {
+   "y": 10076,
+   "x": 710,
+   "w": 123,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-4 10:48"
+  },
+  {
+   "y": 10121,
+   "x": 82,
+   "w": 105,
+   "h": 22,
+   "conf": 0.947,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 10158,
+   "x": 100,
+   "w": 32,
+   "h": 23,
+   "conf": 0.957,
+   "text": "Ok"
+  },
+  {
+   "y": 10202,
+   "x": 100,
+   "w": 366,
+   "h": 21,
+   "conf": 0.937,
+   "text": "扫地僧：Please ask the customer film a video of the"
+  },
+  {
+   "y": 10224,
+   "x": 100,
+   "w": 365,
+   "h": 20,
+   "conf": 0.991,
+   "text": "switch being disconnected from the faulty switch..."
+  },
+  {
+   "y": 10270,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 10370,
+   "x": 709,
+   "w": 124,
+   "h": 23,
+   "conf": 0.999,
+   "text": "2025-11-4 17:12"
+  },
+  {
+   "y": 10417,
+   "x": 85,
+   "w": 51,
+   "h": 21,
+   "conf": 0.998,
+   "text": "扫地僧"
+  },
+  {
+   "y": 10453,
+   "x": 99,
+   "w": 55,
+   "h": 25,
+   "conf": 0.969,
+   "text": "Hi, all"
+  },
+  {
+   "y": 10514,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 10549,
+   "x": 98,
+   "w": 145,
+   "h": 28,
+   "conf": 0.998,
+   "text": "How is it going?"
+  },
+  {
+   "y": 10620,
+   "x": 1197,
+   "w": 240,
+   "h": 25,
+   "conf": 0.974,
+   "text": "@Taylan Esen @Levent KILIC"
+  },
+  {
+   "y": 10686,
+   "x": 709,
+   "w": 122,
+   "h": 20,
+   "conf": 0.993,
+   "text": "2025-11-4 19:14"
+  },
+  {
+   "y": 10730,
+   "x": 82,
+   "w": 105,
+   "h": 24,
+   "conf": 0.965,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 10767,
+   "x": 100,
+   "w": 488,
+   "h": 25,
+   "conf": 0.986,
+   "text": "I did ask the customer to replace the faulty unit with zyxel"
+  },
+  {
+   "y": 10827,
+   "x": 82,
+   "w": 105,
+   "h": 22,
+   "conf": 0.947,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 10864,
+   "x": 100,
+   "w": 168,
+   "h": 23,
+   "conf": 0.998,
+   "text": "they will inform me"
+  },
+  {
+   "y": 10926,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 10962,
+   "x": 101,
+   "w": 218,
+   "h": 23,
+   "conf": 0.949,
+   "text": "and i will check with zyxel"
+  },
+  {
+   "y": 11022,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 11060,
+   "x": 102,
+   "w": 318,
+   "h": 20,
+   "conf": 0.966,
+   "text": "once theyreplace itwewill reconnect"
+  },
+  {
+   "y": 11119,
+   "x": 708,
+   "w": 125,
+   "h": 24,
+   "conf": 0.992,
+   "text": "2025-11-4 20:02"
+  },
+  {
+   "y": 11179,
+   "x": 1277,
+   "w": 161,
+   "h": 23,
+   "conf": 0.984,
+   "text": "ok, thanks. waiting"
+  },
+  {
+   "y": 11244,
+   "x": 710,
+   "w": 123,
+   "h": 20,
+   "conf": 0.997,
+   "text": "2025-11-4 21:36"
+  },
+  {
+   "y": 11288,
+   "x": 83,
+   "w": 104,
+   "h": 25,
+   "conf": 0.963,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 11326,
+   "x": 100,
+   "w": 386,
+   "h": 24,
+   "conf": 0.981,
+   "text": "Hello team, customer just replaced the switch"
+  },
+  {
+   "y": 11388,
+   "x": 85,
+   "w": 102,
+   "h": 19,
+   "conf": 0.984,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 11422,
+   "x": 100,
+   "w": 262,
+   "h": 24,
+   "conf": 0.998,
+   "text": "I can arrange a remote session"
+  },
+  {
+   "y": 11492,
+   "x": 1295,
+   "w": 143,
+   "h": 24,
+   "conf": 1.0,
+   "text": "what happened?"
+  },
+  {
+   "y": 11552,
+   "x": 84,
+   "w": 104,
+   "h": 23,
+   "conf": 0.993,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 11591,
+   "x": 100,
+   "w": 161,
+   "h": 23,
+   "conf": 0.984,
+   "text": "any time you want"
+  },
+  {
+   "y": 11661,
+   "x": 1316,
+   "w": 123,
+   "h": 23,
+   "conf": 0.936,
+   "text": "a moment pls"
+  },
+  {
+   "y": 11718,
+   "x": 82,
+   "w": 105,
+   "h": 24,
+   "conf": 0.968,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 11750,
+   "x": 98,
+   "w": 150,
+   "h": 31,
+   "conf": 0.996,
+   "text": "looks all working"
+  },
+  {
+   "y": 11799,
+   "x": 100,
+   "w": 178,
+   "h": 23,
+   "conf": 0.982,
+   "text": "Simon: what happened?"
+  },
+  {
+   "y": 11845,
+   "x": 84,
+   "w": 53,
+   "h": 21,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 11881,
+   "x": 100,
+   "w": 197,
+   "h": 26,
+   "conf": 0.999,
+   "text": "video about replacing?"
+  },
+  {
+   "y": 11953,
+   "x": 1146,
+   "w": 293,
+   "h": 23,
+   "conf": 0.989,
+   "text": "no videos available? @Taylan Esen"
+  },
+  {
+   "y": 12018,
+   "x": 710,
+   "w": 121,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-4 21:41"
+  },
+  {
+   "y": 12071,
+   "x": 1337,
+   "w": 104,
+   "h": 30,
+   "conf": 0.958,
+   "text": " of any kind "
+  },
+  {
+   "y": 12134,
+   "x": 84,
+   "w": 52,
+   "h": 20,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 12170,
+   "x": 101,
+   "w": 669,
+   "h": 23,
+   "conf": 0.985,
+   "text": "Please ask customer connect port 4 and port 5 in faulty switch and take a video"
+  },
+  {
+   "y": 12235,
+   "x": 710,
+   "w": 123,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-4 21:56"
+  },
+  {
+   "y": 12280,
+   "x": 83,
+   "w": 104,
+   "h": 23,
+   "conf": 0.972,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 12317,
+   "x": 99,
+   "w": 486,
+   "h": 24,
+   "conf": 0.986,
+   "text": "no videos. but let me check if they plug the same devices"
+  },
+  {
+   "y": 12379,
+   "x": 84,
+   "w": 102,
+   "h": 20,
+   "conf": 0.965,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 12414,
+   "x": 100,
+   "w": 209,
+   "h": 22,
+   "conf": 0.989,
+   "text": "ihave thenacaddresses"
+  },
+  {
+   "y": 12475,
+   "x": 84,
+   "w": 102,
+   "h": 20,
+   "conf": 0.965,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 12509,
+   "x": 101,
+   "w": 683,
+   "h": 25,
+   "conf": 0.972,
+   "text": "ok all terminals are the same. and they all connected 100 mbps without any issue"
+  },
+  {
+   "y": 12576,
+   "x": 710,
+   "w": 122,
+   "h": 20,
+   "conf": 0.999,
+   "text": "2025-11-4 22:03"
+  },
+  {
+   "y": 12621,
+   "x": 84,
+   "w": 52,
+   "h": 22,
+   "conf": 0.998,
+   "text": "扫地僧"
+  },
+  {
+   "y": 12658,
+   "x": 100,
+   "w": 79,
+   "h": 24,
+   "conf": 0.999,
+   "text": "So weird"
+  },
+  {
+   "y": 12718,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 12752,
+   "x": 100,
+   "w": 361,
+   "h": 26,
+   "conf": 0.993,
+   "text": "It can check if the switch status in this way."
+  },
+  {
+   "y": 12798,
+   "x": 100,
+   "w": 345,
+   "h": 21,
+   "conf": 0.986,
+   "text": "扫地僧：Pleaseaskcustomerconnectport4and"
+  },
+  {
+   "y": 12819,
+   "x": 100,
+   "w": 286,
+   "h": 21,
+   "conf": 0.953,
+   "text": "port 5 in faulty switch and take a video"
+  },
+  {
+   "y": 12869,
+   "x": 709,
+   "w": 122,
+   "h": 20,
+   "conf": 0.991,
+   "text": "2025-11-4 22:12"
+  },
+  {
+   "y": 12915,
+   "x": 83,
+   "w": 103,
+   "h": 23,
+   "conf": 0.968,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 12951,
+   "x": 100,
+   "w": 478,
+   "h": 26,
+   "conf": 0.973,
+   "text": "Best way is to be on site. Let me check my travel options"
+  },
+  {
+   "y": 13089,
+   "x": 709,
+   "w": 122,
+   "h": 20,
+   "conf": 0.995,
+   "text": "2025-11-4 22:27"
+  },
+  {
+   "y": 13135,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 13217,
+   "x": 101,
+   "w": 338,
+   "h": 20,
+   "conf": 0.989,
+   "text": "0 Taylan Esen: Best way is to be on site. Let me"
+  },
+  {
+   "y": 13238,
+   "x": 101,
+   "w": 176,
+   "h": 20,
+   "conf": 0.994,
+   "text": "check my travel options"
+  },
+  {
+   "y": 13289,
+   "x": 710,
+   "w": 121,
+   "h": 20,
+   "conf": 0.995,
+   "text": "2025-11-5 14:17"
+  },
+  {
+   "y": 13335,
+   "x": 87,
+   "w": 91,
+   "h": 21,
+   "conf": 0.996,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 13369,
+   "x": 99,
+   "w": 902,
+   "h": 27,
+   "conf": 0.988,
+   "text": "Hi everyone, @Taylan Esen has arranged to go on site on Thursday. He will be on site around 10:00 Turkish"
+  },
+  {
+   "y": 13395,
+   "x": 99,
+   "w": 284,
+   "h": 24,
+   "conf": 0.986,
+   "text": "time which is 15:00 Chinese time."
+  },
+  {
+   "y": 13455,
+   "x": 87,
+   "w": 91,
+   "h": 21,
+   "conf": 0.996,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 13492,
+   "x": 101,
+   "w": 707,
+   "h": 23,
+   "conf": 0.976,
+   "text": "We will appreciate your after hours support tomorrow to finaalize the issues on site"
+  },
+  {
+   "y": 13557,
+   "x": 710,
+   "w": 121,
+   "h": 17,
+   "conf": 0.989,
+   "text": "2025-11-5 14:20"
+  },
+  {
+   "y": 13609,
+   "x": 1089,
+   "w": 96,
+   "h": 28,
+   "conf": 0.942,
+   "text": "Hi, Levent."
+  },
+  {
+   "y": 13634,
+   "x": 1090,
+   "w": 67,
+   "h": 26,
+   "conf": 0.999,
+   "text": "Thanks"
+  },
+  {
+   "y": 13658,
+   "x": 1090,
+   "w": 349,
+   "h": 28,
+   "conf": 0.963,
+   "text": " OK, we will support you, lets fix this asap"
+  },
+  {
+   "y": 13802,
+   "x": 924,
+   "w": 412,
+   "h": 23,
+   "conf": 0.99,
+   "text": "Please try to send some videos for a quick check"
+  },
+  {
+   "y": 13828,
+   "x": 925,
+   "w": 513,
+   "h": 20,
+   "conf": 0.99,
+   "text": "better if we have the connection info of faulty/good switches"
+  },
+  {
+   "y": 13886,
+   "x": 87,
+   "w": 91,
+   "h": 20,
+   "conf": 0.968,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 13922,
+   "x": 100,
+   "w": 72,
+   "h": 21,
+   "conf": 0.949,
+   "text": "thanks..."
+  },
+  {
+   "y": 13981,
+   "x": 87,
+   "w": 91,
+   "h": 21,
+   "conf": 0.996,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 14016,
+   "x": 101,
+   "w": 464,
+   "h": 24,
+   "conf": 0.955,
+   "text": "When on site, Taylan can easily share videos on wechat"
+  },
+  {
+   "y": 14086,
+   "x": 1340,
+   "w": 101,
+   "h": 27,
+   "conf": 1.0,
+   "text": "thats great"
+  },
+  {
+   "y": 14160,
+   "x": 1348,
+   "w": 85,
+   "h": 21,
+   "conf": 0.938,
+   "text": "lets see"
+  },
+  {
+   "y": 14220,
+   "x": 708,
+   "w": 125,
+   "h": 23,
+   "conf": 0.996,
+   "text": "2025-11-5 15:00"
+  },
+  {
+   "y": 14270,
+   "x": 86,
+   "w": 92,
+   "h": 21,
+   "conf": 0.993,
+   "text": "Levent KILIC"
+  },
+  {
+   "y": 14372,
+   "x": 710,
+   "w": 120,
+   "h": 17,
+   "conf": 0.968,
+   "text": "2025-11-6 14:45"
+  },
+  {
+   "y": 14427,
+   "x": 706,
+   "w": 145,
+   "h": 26,
+   "conf": 0.998,
+   "text": "Hi @Taylan Esen"
+  },
+  {
+   "y": 14455,
+   "x": 709,
+   "w": 255,
+   "h": 20,
+   "conf": 0.996,
+   "text": "pls text us when you are ready"
+  },
+  {
+   "y": 14475,
+   "x": 707,
+   "w": 730,
+   "h": 25,
+   "conf": 0.975,
+   "text": "pls send some videos for a quick check before remote control, this makes things easier"
+  },
+  {
+   "y": 14500,
+   "x": 706,
+   "w": 64,
+   "h": 24,
+   "conf": 1.0,
+   "text": "thanks"
+  },
+  {
+   "y": 14565,
+   "x": 710,
+   "w": 122,
+   "h": 20,
+   "conf": 0.999,
+   "text": "2025-11-6 14:52"
+  },
+  {
+   "y": 14611,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.984,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 14646,
+   "x": 100,
+   "w": 572,
+   "h": 25,
+   "conf": 0.989,
+   "text": "Hi @Simon I just landed. Probably it will take about an hour to start"
+  },
+  {
+   "y": 14707,
+   "x": 82,
+   "w": 105,
+   "h": 23,
+   "conf": 0.974,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 14743,
+   "x": 101,
+   "w": 221,
+   "h": 25,
+   "conf": 0.97,
+   "text": "I ll share as much info i ca"
+  },
+  {
+   "y": 14805,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 14840,
+   "x": 100,
+   "w": 353,
+   "h": 26,
+   "conf": 0.991,
+   "text": "Let me know if you need anything special"
+  },
+  {
+   "y": 14907,
+   "x": 1312,
+   "w": 128,
+   "h": 30,
+   "conf": 0.967,
+   "text": "Thanks, Taylan"
+  },
+  {
+   "y": 14976,
+   "x": 1362,
+   "w": 79,
+   "h": 31,
+   "conf": 0.995,
+   "text": "@扫地僧"
+  },
+  {
+   "y": 15025,
+   "x": 1084,
+   "w": 353,
+   "h": 22,
+   "conf": 0.976,
+   "text": "0 Taylan Esen: Let me know if you need anything"
+  },
+  {
+   "y": 15045,
+   "x": 1083,
+   "w": 57,
+   "h": 23,
+   "conf": 0.995,
+   "text": "special"
+  },
+  {
+   "y": 15090,
+   "x": 83,
+   "w": 104,
+   "h": 25,
+   "conf": 0.963,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 15129,
+   "x": 101,
+   "w": 917,
+   "h": 23,
+   "conf": 0.982,
+   "text": "I brought an 8 port commercial switch and anothr unmanaged switch with me just to check the connectivity"
+  },
+  {
+   "y": 15198,
+   "x": 601,
+   "w": 98,
+   "h": 24,
+   "conf": 1.0,
+   "text": "thats good"
+  },
+  {
+   "y": 15220,
+   "x": 599,
+   "w": 840,
+   "h": 28,
+   "conf": 0.986,
+   "text": " maybe you can try to use different PoE switches to power the terminals and share whats happening"
+  },
+  {
+   "y": 15245,
+   "x": 601,
+   "w": 241,
+   "h": 24,
+   "conf": 0.988,
+   "text": "Lets will see what we can do"
+  },
+  {
+   "y": 15312,
+   "x": 1347,
+   "w": 94,
+   "h": 31,
+   "conf": 0.999,
+   "text": "videos pls"
+  },
+  {
+   "y": 15381,
+   "x": 710,
+   "w": 123,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-6 15:08"
+  },
+  {
+   "y": 15428,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 15463,
+   "x": 100,
+   "w": 409,
+   "h": 25,
+   "conf": 0.985,
+   "text": "We just stop by a roundabout to see the system."
+  },
+  {
+   "y": 15524,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 15775,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.961,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 15812,
+   "x": 102,
+   "w": 209,
+   "h": 20,
+   "conf": 0.965,
+   "text": "This is inside the cabinet"
+  },
+  {
+   "y": 15872,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.961,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 15906,
+   "x": 100,
+   "w": 410,
+   "h": 24,
+   "conf": 0.986,
+   "text": "There is a roundabout controller for traffic lights"
+  },
+  {
+   "y": 15967,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 16217,
+   "x": 83,
+   "w": 53,
+   "h": 21,
+   "conf": 0.981,
+   "text": "扫地僧"
+  },
+  {
+   "y": 16578,
+   "x": 83,
+   "w": 102,
+   "h": 20,
+   "conf": 0.961,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 16613,
+   "x": 100,
+   "w": 642,
+   "h": 26,
+   "conf": 0.986,
+   "text": "This oneisthe controller. It is an old product usually connected to at 10mbps"
+  },
+  {
+   "y": 16675,
+   "x": 83,
+   "w": 53,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 16711,
+   "x": 101,
+   "w": 121,
+   "h": 23,
+   "conf": 0.986,
+   "text": "The led is off?"
+  },
+  {
+   "y": 16769,
+   "x": 82,
+   "w": 105,
+   "h": 23,
+   "conf": 0.958,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 16808,
+   "x": 100,
+   "w": 173,
+   "h": 23,
+   "conf": 0.963,
+   "text": "connected to port 1"
+  },
+  {
+   "y": 16869,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.994,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 16903,
+   "x": 100,
+   "w": 392,
+   "h": 24,
+   "conf": 0.976,
+   "text": "leds are ok, it looks off due to sunlight i guess"
+  },
+  {
+   "y": 16965,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.994,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 17000,
+   "x": 101,
+   "w": 168,
+   "h": 23,
+   "conf": 0.983,
+   "text": "camera is on port 3"
+  },
+  {
+   "y": 17060,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.992,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 17097,
+   "x": 100,
+   "w": 284,
+   "h": 23,
+   "conf": 0.98,
+   "text": "connected through a por adapter"
+  },
+  {
+   "y": 17157,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.973,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 17479,
+   "x": 710,
+   "w": 123,
+   "h": 20,
+   "conf": 0.997,
+   "text": "2025-11-6 15:10"
+  },
+  {
+   "y": 17526,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 17562,
+   "x": 101,
+   "w": 354,
+   "h": 23,
+   "conf": 0.977,
+   "text": "and port 9 is the ethernet from radio link"
+  },
+  {
+   "y": 17622,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.959,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 17656,
+   "x": 100,
+   "w": 203,
+   "h": 26,
+   "conf": 0.972,
+   "text": "this site is working now"
+  },
+  {
+   "y": 17719,
+   "x": 84,
+   "w": 103,
+   "h": 19,
+   "conf": 0.98,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 17753,
+   "x": 99,
+   "w": 275,
+   "h": 24,
+   "conf": 0.966,
+   "text": "we are heading to headquarters"
+  },
+  {
+   "y": 17813,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 17850,
+   "x": 101,
+   "w": 475,
+   "h": 23,
+   "conf": 0.997,
+   "text": "Do you mean the switch is working well with all 3 ports?"
+  },
+  {
+   "y": 17896,
+   "x": 100,
+   "w": 276,
+   "h": 20,
+   "conf": 0.986,
+   "text": "0 Taylan Esen: this site is working now"
+  },
+  {
+   "y": 17942,
+   "x": 84,
+   "w": 51,
+   "h": 18,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 18292,
+   "x": 83,
+   "w": 103,
+   "h": 23,
+   "conf": 0.965,
+   "text": " 0 Taylan Esen"
+  },
+  {
+   "y": 18327,
+   "x": 98,
+   "w": 127,
+   "h": 26,
+   "conf": 0.967,
+   "text": "yes all ok now"
+  },
+  {
+   "y": 18371,
+   "x": 97,
+   "w": 348,
+   "h": 27,
+   "conf": 0.99,
+   "text": "扫地僧: Do you mean the switch is working well"
+  },
+  {
+   "y": 18392,
+   "x": 99,
+   "w": 123,
+   "h": 24,
+   "conf": 0.984,
+   "text": "with all 3 ports?"
+  },
+  {
+   "y": 18439,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.997,
+   "text": "扫地僧"
+  },
+  {
+   "y": 18476,
+   "x": 100,
+   "w": 32,
+   "h": 23,
+   "conf": 0.957,
+   "text": "Ok"
+  },
+  {
+   "y": 18536,
+   "x": 84,
+   "w": 52,
+   "h": 22,
+   "conf": 0.998,
+   "text": "扫地僧"
+  },
+  {
+   "y": 18571,
+   "x": 97,
+   "w": 70,
+   "h": 26,
+   "conf": 0.998,
+   "text": "waiting"
+  },
+  {
+   "y": 18631,
+   "x": 83,
+   "w": 104,
+   "h": 22,
+   "conf": 0.962,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 18731,
+   "x": 709,
+   "w": 122,
+   "h": 20,
+   "conf": 0.997,
+   "text": "2025-11-6 16:13"
+  },
+  {
+   "y": 18777,
+   "x": 83,
+   "w": 104,
+   "h": 23,
+   "conf": 0.963,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 19004,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.933,
+   "text": "0 Taylan [sen"
+  },
+  {
+   "y": 19040,
+   "x": 101,
+   "w": 204,
+   "h": 23,
+   "conf": 0.994,
+   "text": "here is the replaced site"
+  },
+  {
+   "y": 19100,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 19136,
+   "x": 101,
+   "w": 204,
+   "h": 22,
+   "conf": 0.997,
+   "text": "Please install our switch"
+  },
+  {
+   "y": 19201,
+   "x": 710,
+   "w": 122,
+   "h": 20,
+   "conf": 0.998,
+   "text": "2025-11-6 16:19"
+  },
+  {
+   "y": 19245,
+   "x": 82,
+   "w": 105,
+   "h": 23,
+   "conf": 0.958,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 19565,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.984,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 19600,
+   "x": 97,
+   "w": 304,
+   "h": 24,
+   "conf": 0.968,
+   "text": "i can see some loss on zyxel as well"
+  },
+  {
+   "y": 19660,
+   "x": 82,
+   "w": 105,
+   "h": 22,
+   "conf": 0.959,
+   "text": "0Taylan Esen"
+  },
+  {
+   "y": 19697,
+   "x": 100,
+   "w": 107,
+   "h": 24,
+   "conf": 0.993,
+   "text": "that is good"
+  },
+  {
+   "y": 19758,
+   "x": 84,
+   "w": 103,
+   "h": 20,
+   "conf": 0.986,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 20116,
+   "x": 84,
+   "w": 52,
+   "h": 22,
+   "conf": 0.998,
+   "text": "扫地僧"
+  },
+  {
+   "y": 20150,
+   "x": 99,
+   "w": 288,
+   "h": 27,
+   "conf": 0.999,
+   "text": "But the ports are working in zyxel"
+  },
+  {
+   "y": 20211,
+   "x": 82,
+   "w": 105,
+   "h": 24,
+   "conf": 0.981,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 20251,
+   "x": 100,
+   "w": 66,
+   "h": 22,
+   "conf": 1.0,
+   "text": "correct"
+  },
+  {
+   "y": 20294,
+   "x": 99,
+   "w": 299,
+   "h": 21,
+   "conf": 0.953,
+   "text": "扫地僧：But the ports are working in zyxel"
+  },
+  {
+   "y": 20341,
+   "x": 85,
+   "w": 50,
+   "h": 18,
+   "conf": 0.995,
+   "text": "扫地僧"
+  },
+  {
+   "y": 20375,
+   "x": 100,
+   "w": 328,
+   "h": 26,
+   "conf": 0.998,
+   "text": "This device use same chip as 16GT2GX"
+  },
+  {
+   "y": 20419,
+   "x": 98,
+   "w": 106,
+   "h": 23,
+   "conf": 0.968,
+   "text": "0 Taylan Esen:"
+  },
+  {
+   "y": 20502,
+   "x": 711,
+   "w": 120,
+   "h": 17,
+   "conf": 0.984,
+   "text": "2025-11-6 16:29"
+  },
+  {
+   "y": 20549,
+   "x": 85,
+   "w": 102,
+   "h": 20,
+   "conf": 0.953,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 20584,
+   "x": 99,
+   "w": 289,
+   "h": 24,
+   "conf": 0.973,
+   "text": "great. we are installing our device"
+  },
+  {
+   "y": 20644,
+   "x": 84,
+   "w": 52,
+   "h": 21,
+   "conf": 0.996,
+   "text": "扫地僧"
+  },
+  {
+   "y": 20680,
+   "x": 101,
+   "w": 181,
+   "h": 23,
+   "conf": 0.987,
+   "text": "So, what's the result?"
+  },
+  {
+   "y": 20738,
+   "x": 83,
+   "w": 104,
+   "h": 24,
+   "conf": 0.942,
+   "text": "0 Taylan Esen"
+  },
+  {
+   "y": 20866,
+   "x": 1461,
+   "w": 45,
+   "h": 21,
+   "conf": 0.998,
+   "text": "Send"
+  },
+  {
+   "y": 20868,
+   "x": 76,
+   "w": 16,
+   "h": 13,
+   "conf": 0.933,
+   "text": "Y"
+  }
+ ],
+ "ocr": "rapidocr_onnxruntime",
+ "ocr_time_utc": "2026-10-20T09:47:45Z"
+}

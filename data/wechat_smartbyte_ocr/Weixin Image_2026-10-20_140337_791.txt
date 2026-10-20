@@ -1,0 +1,415 @@
+    19 Peter hu、Anna (3)
+    95 2024-11-15 17:18
+   141  Peter hu
+   177 好的
+   241 2024-11-15 19:12
+   293  Hello Simon,
+   347 thank you for the datasheets.
+   368 Are these units available with dual AC input too?
+   391 需要开模吗？商业L3系列
+   417 Can you share on which Marvel Chip + management CPUs with available memory these are based?
+   441 请发一下信息
+   464 Please also share pricing for a sample order.
+   487 这个我稍后报低一些，看看能否成单
+   510 Currently we' ve no experience with Marvell based hardware.
+   536 Is your standard software/CLl based on a common marvel reference implementation too, or is it
+   561 completely self developed?
+   581 可以说是自己研发的吧，之前说是代码都是自己的
+   607 For the 10G/100G switches, on which Chip are these based? Also marvel?
+   630 也是marvell的吗？我和他说了48*10G+6*100G可以出硬件，软件如果他们有就能谈
+   653 Please also share pricing and more hardware specifications for this platform.
+   678 请发一下价格和规格书，我这里改一下
+   699 We' ve some experience with porting the open source SONIC network operation system to Broadcom
+   726 devices.
+   748 As there' s some basic marvel support it might be easy to add support for your hardware.
+   819 [Simon] 个德国的客户网站感觉挺高端的（搞概念的像是。。
+   882 2024-11-15 22:07
+   930  Peter hu
+   963  Hello Simon,
+  1015 thank you for the datasheets.
+  1039 Are these units available with dual AC input too?
+  1059 需要开模吗？商业L3系列
+  1085 Can you share on which Marvel Chip + management CPUs with available memory these are based?
+  1108 请发一下信息
+  1130 //Marvell98DX336S
+  1156 Flash:512M
+  1178 DRAM: 512M
+  1203 CPU: ARM V7 800M
+  1250 Please also share p
+  1275 ricing for a sample order.
+  1299 这个我稍后报低一些，看看能否成单
+  1322 Currently we' ve no experience with Marvell based hardware.
+  1346 Is your standard software/CLl based on a common marvel reference implementation too, or is it
+  1369 completely self developed?
+  1392 可以说是自己研发的吧，之前说是代码都是自己的
+  1418 //Self developed
+  1466 For the 10G/100G switches, on which Chip are these based?Also marvel?
+  1489 也是marvell的吗？我和他说了48*10G+6*100G可以出硬件，软件如果他们有就能谈
+  1512 //Marvell Aldrin 2 series and Flacon series
+  1559 Please also share pricing and more hardware specifications for this platform.
+  1584 请发一下价格和规格书，我这里改一下
+  1606 //没有规格书，因为我们自己没打算卖，是为客户定制！
+  1628 We' ve some experience with porting the open source SONiC network operation system to Broadcom
+  1656 devices.
+  1678 As there' s some basic marvel support it might be easy to add support for your hardware.
+  1746 [Simon] 第一个
+  1817 [Simon] 假如需要双AC输入能实现吗？
+  1879  Peter hu
+  1912 100G的芯片方案拼错了，是Aldrin2 series andFalcon series
+  1982 [Simon] LT-S8528XG-4XS24GT
+  2009 [Simon] LT-S8552XG-4XS48GT
+  2033 [Simon] LT-S8528XG-4XS16GX8GC
+  2057 [Simon] LT-S8552XG-4XS48GX
+  2253 [Simon] OK
+  2299 [Simon] Peterhu:100G的芯片方案拼错了，是Aldrin2series
+  2321 [Simon] and Falcon series
+  2365  Peter hu
+  2400 都可以，只是机壳比较麻烦点，样品需要+200RMB
+  2447 Simon：假如需要双AC输入能实现吗？
+  2503 [Simon] 48*10G+6*100G
+  2527 [Simon] 这个规格硬件能卖吗？还是压根就不卖
+  2592 2024-11-15 22:12
+  2648 [Simon] 好
+  2709 Peter hu
+  2744 不卖，客户付了研发费，我们签了NDA
+  2813 [Simon] 好
+  2874 Peter hu
+  2911 即使我们卖，客户也用不了，因为不同硬件要对应不同软件
+  2972 Peter hu
+  3009 客户公司研发团队没有100人以上也根本做不了这个软件
+  3077 [Simon] 这个客户公司看网站很高端！！
+  3148 [Simon] 应该是我见过高端网站里靠前的了
+  3213 2024-11-15 22:17
+  3258 Peter hu
+  3296 客户没有做过Marvell，意味着在Marvell这块没有积累，软件没有想象得那么简单
+  3365 [Simon] 有价格没我简单报一下吧 用个说辞把这个事过了
+  3411 [Simon] Peterhu：即使我们卖，客户也用不了，因为不同硬件
+  3430 [Simon] 要对应不同软件
+  3476  Peter hu
+  3512 我们团队核心几个积累Marvell10几年了，都还在不停地补功能
+  3582 [Simon] 这里说的硬件是个啥概念
+  3643 Peter hu
+  3679 报价没有意义，还不如直接告诉客户这个规格是帮一个客户单独定制的，我们签订了NDA协议不能卖
+  3725 Simon：有价格没我简单报一下吧用个说辞把这个事过
+  3746 7
+  3800 [Simon] 我跟他说了是给一个国内客户定制出货的
+  3870 [Simon] 我以为你们能出货
+  4164 [Simon] 不能出就算了我找个说辞圆过去
+  4223 Peter hu
+  4261 海外客户定制的，这两款都是同一个客户
+  4329 [Simon] 能把现有的4个成熟方案卖给他就行
+  4399 [Simon] 好
+  4460 Peter hu
+  4495 我们这个客户研发团队100多人今年做了一年，100G的软件还没有做完
+  4557  Peter hu
+  4594 先把硬件发过去让他们适配测试
+  4660 2024-11-15 22:23
+  4715 因为我也不知道这个客户的实力 第一次沟通从网站上看真挺高端的。
+  4782 [Simon] 先搞这4个
+  4829 [Simon] Simon: LT-S8528XG-4XS24GT LT-
+  4849 [Simon] S8552XG-4XS48GT LT-S8528XG-4XS16GX8GC LT..
+  4904 [Simon] 能成单再说
+  5035 Peter hu
+  5072 开发数据中心的软件投入至少需要千万RMB以上，没有那么简单
+  5134 Peter hu
+  5167 好的
+  5233 2024-11-15 22:31
+  5289 [Simon] LT-S8552XG-4XS48GT
+  5336 [Simon] LT-S8352XG-4XS48GT
+  5407 [Simon] 想问一下 这2个差别在哪
+  5475 [Simon] 价格差太多了我是宣传的下边的。
+  5758 [Simon] 这个3系是没L3?
+  5823 2024-11-15 22:48
+  5867 Peter hu
+  5906 83系列是L2+，支持IPv4/IPv6静态路由
+  5952 85系列是L3，除了支持静态路由，还支持OSPF，IS-IS...等动态路由
+  6011 You recalled a message.
+  6061 2024-11-15 22:53
+  6115 我宣传有问题 前儿大有个伊朗的问我宣传改成了L3。。
+  6182 [Simon] 资料没啥问题
+  6301 [Simon] Peterhu:83系列是L2+，支持IPv4/IPv6静态路由85
+  6322 [Simon] 系列是L3，除了支持静态路由，还支持OSPF，IS-IS...
+  6372 2024-11-16 09:12
+  6423 [Simon] 早上好
+  6497 [Simon] Laser print
+  6961 [Simon] 这种小数量的进行激光打印 好处理吗？
+  7030 [Simon] 费用高没问题
+  7091 Peter hu
+  7128 没有处理过，收发器我们都是丝印
+  7194 2024-11-16 09:18
+  7249 [Simon] 这种激光的挺常见的
+  7318 [Simon] 我手上出过一些这种单
+  7387 [Simon] 不过还是那个问题数量少
+  7458 [Simon] 能否问一下供应商 可不可以做激光丝印/
+  7519  Peter hu
+  7557 少量的收发器建议找原来熟悉的渠道采购，沟通成本更低，效率更高！
+  7613 You recalled a message.
+  7667 [Simon] 我想办法
+  7727  Peter hu
+  7763 我们收发器出得不多，供应商对我们的支持也有限
+  7830 [Simon] 有结果了和你们说
+  7894  Peter hu
+  7928 好的
+  7997 [Simon] 好
+  8065 2024-11-16 09:48
+  8247 [Simon] 这里能拆下来吗？
+  8318 [Simon] 这个高度90mm 机器没办法处理太高了
+  8386 [Simon] 就相当于供应商那只处理上边一个铁板
+  8447 Peter hu
+  8486 我可以把我们机架供应商介绍给你，你直接跟他对接，说不定他有办法丝印
+  8554 [Simon] 收发器是没问题的
+  8669 [Simon] Peterhu：我可以把我们机架供应商介绍给你，你直接
+  8690 [Simon] 跟他对接，说不定他有办法丝印
+  8737  Peter hu
+  8772 机架你可以直接找他买更便宜
+  8841 [Simon] 找你们拿吧
+  8910 2024-11-16 09:54
+  8964 [Simon] 我不想对接新的供应商了
+  9033 [Simon] 350价格也不贵我能卖
+  9170 2024-11-16 09:55
+  9215 Peter hu
+  9253 我们的沟通成本比较高，信息转来转去
+  9322 [Simon] 好
+  9388 2024-11-20 09:28
+  9441 [Simon] 早上好
+  9517 [Simon] 采购合同
+  9543 [Simon] STSC20241119006.pdf
+  9551 [Simon] PDF
+  9575 [Simon] 329.8KNotDownloaded
+  9609 [Simon] 微信电脑版
+  9666 [Simon] 请看一下特殊要求 有点麻烦
+  9733 另外是2个
+  9759 1，谈的德国客户大概率会下单 但基本也就是测试一下 因为他和博达合作很紧密
+  9783 根据我的了解他们用Broadcom/Realtek/Centec比较多好像没啥Marvell的
+  9808 你们日常工作中客户有反馈过他们的产品吗？（就比如和他们对比或者正在用他们的或者有过对他们的相应分析
+  9829 等)
+  9902 2，那个土耳其工业交换机项目客户还在谈，客户有可能决定先自己垫付首付款因为客户那边进展太慢了
+  9926 我已经和客户说今年基本难出货了 (40天硬件生产)
+  9949 目前等客广那边的进展吧
+  9970 如果你们这有重大项目会影响这个项目的生产/研发，请通知我一下
+ 10037 2024-11-20 09:41
+ 10082 Dora
+ 10117 好的 我看一下
+ 10165 Simon:请看一下特殊要求有点麻烦
+ 10221 还是由你们直接采购14槽机架，但是刷标是在供应商那 (我直接和他具体谈怎么刷)
+ 10288 [Simon] 这个可以吧
+ 10360 [Simon] 因为也就1台大家都省事了我不想和他们对接付款了
+ 10420 Dora
+ 10452 可以的
+ 10524 [Simon] 好先生产吧
+ 10591 2024-11-20 09:47
+ 10646 [Simon] 标可以等刷完相关的logo再说
+ 10718 [Simon] 请把那个丝印字体和我说一下
+ 10777 Dora
+ 10813 请问机架供应商那边是免费丝印收发器和机架吗？
+ 10882 [Simon] 怎么可能
+ 10951 [Simon] 200
+ 11023 [Simon] 你们一并付了我付给你们
+ 11094 [Simon] 如果你们需要加利润比如20% 30%没问题
+ 11162 就把这个当成一个正常的单子处理唯一的区别就是 我直接对接了丝印
+ 11232 [Simon] 可以吗？
+ 11294 Dora
+ 11332 200是包含了收发器丝印和机架丝印的费用吗？
+ 11396 2024-11-20 09:52
+ 11450 [Simon] 是的
+ 11514 Dora
+ 11546 10GEthernetMediaConverter丝印字体是Arial@Simon
+ 11617 [Simon] OK
+ 11674 "Dora" recalled a message
+ 11718 Dora
+ 11756 好的 没问题
+ 11799 Simon:是的
+ 11855 [Simon] OK 感谢支持
+ 11925 [Simon] 请先生产吧
+ 11992 2024-11-20 09:56
+ 12050 [Simon] 费用这边后边可以再具体核多点少点也就么多了
+ 12109 Dora
+ 12146 好的今天安排生产后续我会把200的丝印价格和寄送收发器的运费写进合同一并发给你
+ 12282 2024-11-20 10:34
+ 12337 [Simon] @Peter hu请抽空看一下这个
+ 12383 [Simon] Simon：另外是2个1，谈的德国客户大概率会下单但
+ 12405 [Simon] 基本也就是测试一下因为他和博达合作很紧密根据
+ 12450  Peter hu
+ 12485 请稍等，晚点回复
+ 12555 [Simon] 好
+ 12622 2024-11-20 10:50
+ 12669  Peter hu
+ 12703 博达这家公司我们还算比较了解，因为目前我们有几个客户也是博达的客户，客观分析博达这家公司的优势和劣势
+ 12729 (相对而言)
+ 12750 先讲优势：
+ 12777 1.在中国做交换机品牌里算得上是二线品牌，品牌积累还不错！
+ 12798 2.公司技术实力虽然比不上华为，华三，锐捷等一线品牌，但是在交换机领域的技术沉淀也是很有实力，研发人员应
+ 12821 该有上百人左右！
+ 12847 3.海外市场布局较早，在海外有一定的知名度，也有一批忠实客户（无论是OEM还是品牌客户)
+ 12894 中性信息：产品方案有Broadcom,Centecand Realtek
+ 12939 相对劣势： (我们的机会点)
+ 12967 1.由于公司上了一定的规模，会有一些大公司的通病，响应客户需求的时间长，客户多有抱怨！
+ 12991 2.尤其是对于中小客户，价格高，MoQ要求高
+ 13015 3.对于大客户的政策支持方面有时候让大客户没有安全感，在某些市场存在跟代理商或者大客户直接抢订单的行为
+ 13061 @Simon@Rot@Dora供你们3个参考！
+ 13189 Peter hu
+ 13228 面对博达的客户，你们需要先了解他们属于博达哪个级别的客户，跟博达合作哪种类型的产品为主，然后再去分析机
+ 13252 会点在哪里
+ 13322 [Simon] 我桌子上就有博达的彩页，成立30年了吧得
+ 13441 [Simon] Peterhu:博达这家公司我们还算比较了解，因为目前
+ 13459 [Simon] 我们有几个客户也是博达的客户，客观分析博达这家.
+ 13506 Peter hu
+ 13541 至于Broadcom，Marvell,Vitesse，Realtek这些芯片方案，都有自己的客户群体，不能说某一个芯片一定是最好的，
+ 13565 只要是适合客户的就是最好的
+ 13625  Peter hu
+ 13660 有些客户就需要价格便宜能用就可以，我们非要跟客户讲Broadcom和Marvell很高端比Realtek好很多，很显然这
+ 13686 种讲法对于这种类型的客户就不合适
+ 13749 2024-11-20 10:57
+ 13808 好 我这还没咋遇到和博达对标的需求 不过有和Planet对标的
+ 13876 [Simon] 土耳其前2天问了
+ 13947 Another project just came for a quotation: 80 pieces of 5-port L2 industrial The competition is Planet
+ 13971 IGS-500T
+ 14016 Do you also have 1-port media converters? Slmilar to Planet PL-IGS-805 AT
+ 14087 [Simon] 也供你们参考吧可以做一个比对分析 (case study)
+ 14159 些欧洲和俄罗斯客户还是挺认planet的一些简单的型号可以尝试去做替换
+ 14224 2024-11-20 11:03
+ 14269  Peter hu
+ 14305 还是那句话，专业的客户对于芯片的了解和选型他们比我们更专业！对于半桶水的客户，假如单纯来比较这几个交换
+ 14329 机的芯片，可以这样跟他们讲：
+ 14352 1.Broadcom：布局主要在于数据中心等高端交换机上，SMB以及campusswitch有一些但是不是他们主要的产品
+ 14377 线
+ 14402 2.Marvell:产品线相对丰富，既有高端的datacenterswitch方案，也有SMB，campusswitch方案
+ 14425 3.Vitesse:产品线很窄，基本就是常用的那几颗芯片，主要针对的是接入型以及SMB市场，后续产品也不会有扩展
+ 14448 4.Realtek:主要是针对安防以及SOHO市场，没有针对datacenter，campus等应用场景的高端交换机方案
+ 14563 [Simon] Peterhu:还是那句话，专业的客户对于芯片的了解和
+ 14585 [Simon] 选型他们比我们更专业！对于半桶水的客户，假如单.
+ 14631  Peter hu
+ 14664 @Rot @Dora 你们两也记下
+ 14731 2024-11-20 11:28
+ 14780 Anna
+ 14812 收到
+ 14879 2024-11-20 11:34
+ 14926 Peter hu
+ 14958 盛科（国产品牌）：目前以高带宽L3芯片为主
+ 15022  Peter hu
+ 15057 补充下
+ 15122 2024-11-20 11:46
+ 15244 2024-11-20 12:19
+ 15292 Dora
+ 15325 收到
+ 15372 Peterhu:@Rot @Dora你们两也记下
+ 15423 2024-11-20 15:48
+ 15479 [Simon] 下午好2个事儿
+ 15550 [Simon] ，那个机架你们和供应商下单了吗?
+ 15620 2，你们这也卖光模块吧？
+ 15643 土耳其客户要下一个新单子（一次性订单以另外一个公司的名义下）他说是要买光模块（我之前和他说过我们不做
+ 15669 光模块）因为是一次性订单，所以能接受外购
+ 15737 如果你们这能卖光模块请尽量给低一点价格我这基本不加价了争取和市场价格平齐就行
+ 15805 2024-11-20 15:59
+ 15849  Peter hu
+ 15887 光模块我们是外购的，价格不一定有竞争力，你也知道现在光模块市场更卷
+ 15950 2024-11-20 15:59
+ 15996  Peter hu
+ 16032 你先发需求和数量我们报价看看
+ 16097 2024-11-20 16:05
+ 16154 1- we need to order some samples for a partner. This is a one time order for customs @ paperwork. So the
+ 16175 the payment will come from another company. We will need some SFP units in this order. It' s okay to ship
+ 16199 third party SFP units, if you can supply from the market. Like I said this is a one time transaction. I will share 
+ 16224 the details in an email later today
+ 16292 [Simon] 稍后客户会发给我邮件
+ 16363 [Simon] 价格永远不是问题只要质量OK 其他的我来处理
+ 16408 [Simon] Peterhu：光模块我们是外购的，价格不一定有竞争
+ 16430 [Simon] 力，你也知道现在光模块市场更卷
+ 16544 Peter hu
+ 16583 我们也配套出了不少，质量应该没什么问题
+ 16653 [Simon] OK 就按照你们日常出货的来就行我往里贴利润也行
+ 16722 [Simon] 只要质量不出问题都好说生意是长久的
+ 16789 2024-11-20 16:44
+ 16844 [Simon] LT-S8528XG-4XS16GX8GC
+ 16911 [Simon] 这个有L2版本吗？
+ 16915 [Simon] (弓流的)
+ 16984 [Simon] 我看工业级别有L2+
+ 17043  Peter hu
+ 17079 LT-S8328XG-4XS16GX8GC
+ 17140  Peter hu
+ 17177 L2+
+ 17234 You recalled a message.
+ 17285 [Simon] 这个我看之前没给我报价
+ 17354 2024-11-20 17:10
+ 17398  Peter hu
+ 17434 1300RMB未税
+ 17480 Peter hu:LT-S8328XG-4XS16GX8GC
+ 17531 2024-11-20 17:28
+ 17586 [Simon] 好
+ 17652 2024-11-20 18:24
+ 17709 [Simon] 这个资料请抽空发一下 谢谢
+ 17752 [Simon] Peterhu: LT-S8328XG-4XS16GX8GC
+ 17805 2024-11-20 19:12
+ 17851  Peter hu
+ 17887 @Dora 明天请发下
+ 17952 2024-11-20 19:28
+ 18000 Dora
+ 18034 好的
+ 18099 2024-11-20 20:00
+ 18146  Peter hu
+ 18182 @Simon收发器和机架上的logo都是白色吗？
+ 18242 Peter hu
+ 18280 假如都是刷白色logo，我刚确认了我们工厂可以刷，免得寄来寄去，只是需要定做网版、费些人工
+ 18347 2024-11-20 20:06
+ 18399 [Simon] 双色
+ 18469 [Simon] 我发一下
+ 18540 [Simon] 如果你们能刷收费也行
+ 18611 [Simon] 大家都省事儿
+ 18669 Peter hu
+ 18707 先发下我看能不能刷
+ 18767  Peter hu
+ 18802 我们一般刷单色（白色）
+ 18877 [Simon] 丝印需求.docx
+ 18898 [Simon] W
+ 18908 [Simon] 1.4MNotDownloaded
+ 18943 [Simon] 微信电脑版
+ 18999 [Simon] 他的意思是刷2遍
+ 19067 2024-11-20 20:08
+ 19121 [Simon] 还是有点麻烦的
+ 19181  Peter hu
+ 19217 我先给内部看看
+ 19282 2024-11-20 20:14
+ 19336 [Simon] 好儿感谢
+ 19399 Peter hu
+ 19437 确认了下刷不了双色！
+ 19498  Peter hu
+ 19534 还是寄给游总处理吧
+ 19602 2024-11-20 20:23
+ 19656 [Simon] 好
+ 19723 2024-11-21 09:08
+ 19767 Dora
+ 19809 LT-S8328XG-4XS16GX8GC
+ 19834 neutral datasheet.docx
+ 19839 W
+ 19862 467.2K Not Downloaded
+ 19898 微信电脑版
+ 19945 Dora
+ 19979 @Simon早上好，请查收规格书
+ 20025 Simon：这个资料请抽空发一下谢谢
+ 20082 [Simon] 好谢谢
+ 20148 2024-11-21 09:13
+ 20200 早上好
+ 20226 我想问一下这种情况是否可能
+ 20249 目前有个客户（后续肯定还会有）买了海思视讯的工业交换机，同时也要买你们（数量较少）他们标签打的太垃圾了
+ 20275 （我强调过一次，第二次出货还是很垃圾）
+ 20298 因为是买2家的产品，我是主推你们的，想把风格保持统一
+ 20345 能否我出货时不让hasivo打标签，然后发到你们那，由你们拆开打标签然后贴上（我可以按件计费，你们定一个费
+ 20370 用)
+ 20418 因为这次正好是赶上问了2家的产品，如果只是买他们的就不会这么操作了
+ 20464 同时我打算对外宣传：realtek系列就是进为那条产线在生产（也是我们产的，但芯片 外壳 价格等都和主推主产的
+ 20485 marvelI不一样)
+ 20512 这样我整体推，出货等都比较协调一致
+ 20582 [Simon] 而且我也不想把客户信息透给Hasivo
+ 20784 [Simon] 大概是44台hasivo的
+ 20855 [Simon] 如果能支持这种操作，请计件收费
+ 20919 2024-11-21 09:23
+ 20965  Peter hu
+ 21003 这不是钱的问题
+ 21063 Peter hu
+ 21100 我们工厂订单排到1月份了，他们有没有时间来搞的问题
+ 21158 Peter hu
+ 21194 每天都班，周末都在加
+ 21264 [Simon] 能理解
+ 21335 [Simon] 问这个車儿不单单口是局限与这个单子
+ 21450 白～
+ 21454 [Simon] Send

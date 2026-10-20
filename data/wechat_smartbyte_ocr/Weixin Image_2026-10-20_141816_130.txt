@@ -1,0 +1,438 @@
+    17 Peter hu、 Anna (3)
+    59 2025-10-23 16:43
+   115 不是 是他们搞一个日改项目
+   140 之前的都是1G的，升级一下
+   163 但是他们本身用的是自己的OS
+   187 Realtek的CPU和PCB容量不行
+   210 大概率要采用同等价格的MaxLinear方案
+   232 然后再对软件更改啥的
+   281 回复中也提到了，他们确实没咋用Marvell方案
+   305 我又给他灌输了一些Marvell内容
+   329 后续再看看吧
+   351 这3个客户 (2个土耳其+1个德国)
+   375 Angora他们原本就是Marvell生态的，就是单子搞不下来
+   401 另外2个都是接触MarvelI不太多，看看能不能多灌输培养一下
+   470 [Simon] 急不来 慢慢搞吧。
+   529 Peter hu
+   566 大概率要采用同等价格的MaxLinear方案//这个也很便宜
+   627  Peter hu
+   660 慢慢来
+   731 [Simon] 只能说AI就是强 哈哈
+   799 [Simon] 一、芯片身份和来源
+   822 [Simon] SoC)
+   832 [Simon] /te
+   837 [Simon] gg 2.5G/5G/10的12
+   864 [Simon] 二MxL862525/MxL862825的排心症位
+   887 [Simon] 4x256+2
+   923 [Simon] L8377/
+   924 [Simon] *2-552
+   976 [Simon] 支持特性：
+   984 [Simon] + L2 bridging /VAN/Qe5/ LAG /IGMP Sh
+   989 [Simon] ping / STP / RSTP
+   998 [Simon] +Web管理界面（内置CPU/SDK）
+  1008 [Simon] 支持USGMISGMIXT2.5/5/10GSeDes
+  1020 [Simon] 可直注10GSFP+块，无需外部PHY
+  1033 [Simon] •功排E ( 5-7W R)
+  1042 [Simon] 通附括配SPIFlsh，DOR，型体然构 Reahek 方案几手相同
+  1056 [Simon] 拿封装和BOM成末上，它RTL8373是直批育争对手，
+  1070 [Simon] ·目防根多ODM/OEM正在用它图换Realtek，以避免采防素制威期容性风险，
+  1081 [Simon] 它是目的一解在30-40美金整机成本范图内做出可管理L22.5G/10G交
+  1129 [Simon] 三、和MarvellPrestera 系列的关系
+  1144 [Simon] Resltek RTL837x
+  1146 [Simon] 别比期
+  1146 [Simon] MdL8s2x
+  1159 [Simon] 特费/SM ita Managad
+  1159 [Simon] 企业/I69
+  1160 [Simon] 进/SME LIe M
+  1176 [Simon]  E ($10 老8)
+  1176 [Simon]  (÷$10)
+  1176 [Simon] × 中 (520-30+)
+  1193 [Simon] 2/e LL, VUAN/QeS
+  1193 [Simon] 12/ae 13, VLAN/Q
+  1193 [Simon] 5eb pepv  rv
+  1209 [Simon] 有(MPS)
+  1210 [Simon]  (AM Carts)
+  1210 [Simon] 有 (Au Csrtas-a)
+  1211 [Simon] AB CPU
+  1226 [Simon] FRsalek DK
+  1226 [Simon] Meral CK/ Lius ESA
+  1228 [Simon] SDK /0S
+  1312 [Simon] 我基本拿过来就用了客户看着也专业
+  1369 Peter hu
+  1407 确实强悍
+  1478 说实话我还是很看好Angora的他们原本就是Marvell生态这个切入太流畅了
+  1502 虽然眼下不太行但年初去你们那还特别问了陈工
+  1569 2025-10-23 16:48
+  1622 [Simon] 同行里没有全线做Marvell方案的 只有你们
+  1692 这就是能绑定Angora最大的优势我这也跟他一年多了 他怎么着也能猜到我这不是一个正式的公司。
+  1757 2025-10-23 16:49
+  1804  Peter hu
+  1841 项目急不来，说不定这个项目还没落地
+  1910 [Simon] 客户那确实是花精力了只能继续等了
+  1972  Peter hu
+  2007 我们也有其它项目是已经跟了1年多的也一样没有落地，很正常，说不定什么时候就给我们惊喜了
+  2078 我急啊。。哈哈 没办法 我太需要一个大项目或者能深度绑定的客户了
+  2149 [Simon] 后续再看吧 急也没用
+  2217 [Simon] 恩恩
+  2266 [Simon] Peterhu：我们也有其它项目是已经跟了1年多的也一样
+  2285 [Simon] 没有落地，很正常，说不定什么时候就给我们惊喜了
+  2328 Peter hu
+  2366 做人事，听天命入
+  2437 [Simon] 哈哈 OKA
+  2504 2025-10-23 17:29
+  2578 [Simon] Hi SImon, hope all is well with you. Long time
+  2594 [Simon] no speak...
+  2629 [Simon] Our TT order is alreadly delayed longer than
+  2647 [Simon]  planned. The partner is trying to solve some
+  2658 [Simon] financial issues.
+  2686 [Simon] They never say no,but am a litte worried
+  2703 [Simon] now. We gave them a deadline until the end of
+  2716 [Simon] the month to come up with a solid yes/no
+  2731 [Simon] response
+  2784 [Simon] speak of the devil
+  2853 [Simon] 就这这一周了。，
+  2917  Peter hu
+  3014 Peter hu
+  3043 期待
+  3118 [Simon] 有消息了我在群里说
+  3181  Peter hu
+  3216 好的
+  3283 2025-10-29 19:17
+  3340 [Simon] 1台24口可以发了 请发合同我付款
+  3409 发货地址一定是广州市越秀区瑶台西街89号(美泰城)A2038档 13503077498 亨瑞
+  3479 [Simon] 和采购合同中一样的
+  3547 [Simon] 明天我去展会逛逛
+  3610 Anna
+  3644 好
+  3713 2025-10-29 19:23
+  3757 Anna
+  3798 郑州仁戛通讯器材有限公司
+  3820 P20251017-0...RMB).doc
+  3832 W
+  3853 26.0K
+  3889 微信电脑版
+  3952 [Simon] 转账记录查询
+  3977 [Simon] 转给罗辉
+  3995 [Simon] -￥760.00
+  4102 [Simon] 电785M0
+  4279 请发一个便宜的快递 运费是我出 请计入下一个订单一定要便宜的快递 没啥利润
+  4349 [Simon] 这个收货并不着急
+  4417 [Simon] 谢谢
+  4484 2025-10-29 19:28
+  4543 [Simon] 发货信息_Smartbyte_STEC
+  4567 [Simon] 20251016012.docx
+  4577 [Simon] W
+  4599 [Simon] 283.5K
+  4635 [Simon] 微信电脑版
+  4688 [Simon] 这个箱标贴了吧?
+  4757 2025-10-29 19:43
+  4803 Anna
+  5108 [Simon] 单号有了请给我一下便宜的快递即可
+  5174 2025-10-30 08:17
+  5229 [Simon] 早上好这台24口的似乎之前已经付过款了
+  5455 [Simon] 天基不发项天月比理入
+  5523 [Simon] 这个760后边再说吧
+  5592 [Simon] 这个
+  5600 [Simon] 这个
+  5639 [Simon] Simon:单号有了请给我一下便宜的快递即可
+  5692 [Simon] 另外展位号多少 DPTEK的 去看一下
+  5832 2025-10-30 08:27
+  5876 Peter hu
+  5912 Hall 9, 9D47, 欢迎欢迎
+  5955 Simon:另外展位号多少DPTEK的去看一下
+  6002 Peter hu
+  6037 我稍微晚点去，先处理点事情
+  6100  Peter hu
+  6134 展会见
+  6272 2025-10-30 08:37
+  6317 Peter hu
+  6421 2025-11-3 16:26
+  6475 下午好
+  6501 土耳其客户年初买的170多台LT-IS6318GP- 2GX16GT在使用中有一部分有问题
+  6526 订单号：STSC20250117007
+  6548 出货时间：2025.3.3号左右
+  6571 目前还在和客户沟通中
+  6618 之前是发过这样的一个升级包，这是最新的嘛？
+  6642 ac5-hotfix-7.4.2.bin
+  6703  Peter hu
+  6739 那是出的AC3 吧?
+  6800  Peter hu
+  6836 还是AC5?
+  6907 [Simon] 当时出货的应该是AC3吧?
+  7099 [Simon] 没写明
+  7161 Peter hu
+  7198 应该是AC3
+  7259 Peter hu
+  7292 AC5那附候还没有出来
+  7365 [Simon] 我把沟通内容转发给你邮件吧 你大概看一下
+  7425 Peter hu
+  7464 ac5-hotfix-7.4.2.bin，这是AC5的升级文件
+  7531 [Simon] 不太好排查
+  7591 Peter hu
+  7626 请发邮件
+  7687 Peter hu
+  7726 peter@smartbyte.com.cn
+  7795 [Simon] 发过去了
+  7863 [Simon] 感觉有点麻烦大概率是某些功能没调试对
+  7924  Peter hu
+  7959 我先发给研发看看
+  8029 [Simon] OK
+  8096 2025-11-3 17:08
+  8141 Peter hu
+  8330  Peter hu
+  8364 @Simon研发的建议是远程是最快的解决方式
+  8429 2025-11-3 17:09
+  8487 [Simon] OK 我跟客户说一下 看看咋协调
+  8545 Peter hu
+  8582 好的
+  8653 请和技术确认一下 是现场的交换机还是发现有问题后撤下来的?
+  8713  Peter hu
+  8749 直接用现场的
+  8809  Peter hu
+  8845 现场才是真实问题
+  8906  Peter hu
+  8943 大概率是客户配置出了问题
+  9002  Peter hu
+  9038 因为其它45-50是好的
+  9107 好我是用Al查了一下 说是EEE Port flow这些才有了那个回复
+  9178 [Simon] 我问一下客户
+  9237 Peterhu
+  9273 不要问AI
+  9334 Peter hu
+  9370 不要把事情搞复杂化了
+  9441 [Simon] 好
+  9507 2025-11-3 20:14
+  9562 [Simon] 又转发了一个邮件@Peter hu
+  9634 我和客户说一下 尽快安排远程吧 他客户那感觉有点上火了
+  9699 2025-11-3 20:36
+  9744  Peter hu
+  9778 没有收到呢
+  9827 Simon:又转发了一个邮件@Peterhu
+  9871 Peter hu
+  9908 请尽快安排远程
+  9976 [Simon] The vlan
+  9992 [Simon] same.
+ 10007 [Simon] tYesterda
+ 10038 [Simon] Let me it
+ 10042 [Simon] Message sent
+ 10044 [Simon] Undo
+ 10054 [Simon] 1. Camel
+ 10072 [Simon] cannact
+ 10145 [Simon] I spoke to Taylan. We can setup a AnyDesk
+ 10161 [Simon] remote connection at 10:00 your time
+ 10176 [Simon] tomorrow morning.
+ 10211 [Simon] That is 05:00 Turkish time
+ 10246 [Simon] Would that work for you
+ 10316 你撤回了—条消息
+ 10366 [Simon] 需要客户那边提前准备什么呢
+ 10437 [Simon] 明天早上10点看错了
+ 10496 Peter hu
+ 10535 他那边太早了吧？
+ 10596  Peter hu
+ 10630 凌晨
+ 10702 [Simon] 不碍事儿他都是这个点起。
+ 10770 [Simon] 从邮件内容看他说的很复杂而且外接了PoE Injector
+ 10832  Peter hu
+ 10866 那我跟研发约下时间
+ 10938 [Simon] 目前也没啥视频发讨来
+ 11003 2025-11-3 20:41
+ 11047 Peter hu
+ 11086 我也把新邮件转给研发
+ 11155 [Simon] 请和技术确认一下 需要准备啥 比如视频 IP地址啥的
+ 11215  Peter hu
+ 11249 客户凌晨5点是在现场？
+ 11316 2025-11-3 20:43
+ 11361 Peter hu
+ 11398 还是在办公室测试？
+ 11459  Peter hu
+ 11495 假如没有同样的环境能复现客户提到的问题吗？
+ 11556  Peter hu
+ 11592 只要能复现客户提到的问题就可以
+ 11662 [Simon] 我和客户确认一下还需要啥别的准备吗?
+ 11732 [Simon] 感觉延期一下吧 怕他们准备不充分
+ 11791  Peter hu
+ 11827 我也觉得，你说需要复现现场的问题才能远程帮助解决问题
+ 11896 [Simon] OK
+ 11956 Peter hu
+ 11995 假如复现不了问题远程也没有意义
+ 12059 2025-11-3 20:48
+ 12115 [Simon] OK
+ 12180 2025-11-3 21:28
+ 12557 Peter hu
+ 12592 Okay
+ 12600 Okay
+ 12655 Peter hu
+ 12689 我现在跟研发约下
+ 12763 好 需要准备啥也问一下吧 客户那边还没下班 还有时间处理
+ 12827 2025-11-3 21:35
+ 12873  Peter hu
+ 12906 等研发回复
+ 12968 Peter hu
+ 13004 正常拉群进去远程就可以，没有什么特别准备
+ 13077 [Simon] 麻烦你们了这么晚
+ 13146 [Simon] OK
+ 13206  Peter hu
+ 13243 没事，尽快解决客户问题最重要
+ 13375  Peter hu
+ 13411 研发说明天上午10点没问题，明天上午拉群
+ 13480 [Simon] hao
+ 13547 2025-11-4 10:01
+ 13622 [Simon] ing. Leven
+ 13647 [Simon] pls let me kno
+ 13648 [Simon]  when you are reedy
+ 13690 [Simon] Hi Simon do wehave a chat grou
+ 13695 [Simon] vitl
+ 13702 [Simon] Taylan and engineer on your end
+ 13729 [Simon] Let me check
+ 13803 [Simon] 拉群还是啥 @Peter hu
+ 13869 2025-11-10 14:40
+ 13938 [Simon] Hi Simon, how are you doing?
+ 13970 [Simon] Just spoke to our poartner for Turk Telekom
+ 13986 [Simon] project.
+ 14013 [Simon] Despite all the delay, they say the project is
+ 14024 [Simon] still aive and are trying to finalize paperwork
+ 14040 [Simon] asap
+ 14068 [Simon] I just wanted to share the update.
+ 14154 [Simon] 心
+ 14216 2025-11-10 15:02
+ 14261  Peter hu
+ 14298 No news is good news
+ 14365 2025-11-10 15:21
+ 14421 有消息了我在群里说客户花费了很多时间和精力我们坐着等消息就行了
+ 14479 Peter hu
+ 14516 好的
+ 14583 2025-11-19 09:12
+ 14637 早上好
+ 14660 do you have a SNMP MIB map for the SW-3200-8 and -16 switches?
+ 14684 Also need a quote for another 8 of the new -16 version please.
+ 14710 这是之前那个下单的加拿大客户问的
+ 14759 1，后续他的小要求（板子上的一些改动）就不再考虑了
+ 14782 2，它说的这个是new version是指AC5，之前2次出货都是AC3的，能出吗？LT-IS6318GP-2GX16GT
+ 14805 3，MIBs我这有一些信息，先给客户
+ 14830 SWITCH-MIBS-release-7.3.0
+ 14853 NMS-MIB
+ 14876 看客户咋说
+ 14901 想确认一下，这种一般都是要看客户的具体需求的MIIBs是啥才能更好的往下进行吧?
+ 14970 [Simon] 2: 出AC5价格有变化吗?
+ 15035 2025-11-19 09:41
+ 15082  Peter hu
+ 15118 想确认一下，这种一般都是要看客户的具体需求的MIBs是啥才能更好的往下进行吧？/是的，看客户需求以及看客
+ 15142 户质量/项目质量再决定是否开发
+ 15202  Peter hu
+ 15237 暂时没有变化
+ 15281 Simon:2:出AC5价格有变化吗？
+ 15329  Peter hu
+ 15364 LT-IS6318GP-2GX16GT//这款还没有切到AC5
+ 15434 [Simon] 好
+ 15500 2025-11-19 10:28
+ 15556 Ok. Eta on the updated unit? I may need to wait till that is finished for a larger order. Ac3 is just too old
+ 15578 with this software.
+ 15674  Please send mib info for ac3 and ac5 versions.
+ 15742 [Simon] 客户基本不考虑AC3方案了
+ 15817 [Simon] 有大概时间吗？切到AC5 明年春节过后?
+ 15863 [Simon] Peterhu:LT-IS6318GP-2GX16GT//这款还没有切到
+ 15883 [Simon] AC5
+ 15932 2025-11-19 10:37
+ 15979  Peter hu
+ 16014 客户强制要求也不是不可以先切，根据客户订单要求来
+ 16074  Peter hu
+ 16112 只是这款还有AC3库存，没有强制要求是AC5版本的优先消耗AC3库存
+ 16169 Peter hu
+ 16207 这款AC5版本已经出来了
+ 16279 这个客户也是一个技术咖我和他视频过。。感觉我跟进的很多都是技术有好有坏
+ 16301 好就是客户认同了就很容易绑定这比从销售采购角度入手的绑定更牢靠
+ 16323 坏就是真是挺麻烦的细碎的技术问题很烦~~
+ 16393 [Simon] 那我和客户说一下吧他下单了就给他AC5不下单就算了
+ 16464 其实上次安博会聊完以后我自己也想了很多我的推广路线以及我要做怎么样的一个模式
+ 16536 我感觉还是从技术入手好一些~～但我也能通过你陈工的反馈感觉出你们更希望从销售端入手
+ 16601 2025-11-19 10:42
+ 16657 我这后续会平衡一下 客户的技术问题能挡下来我就挡下来 尽量不问你们
+ 16716  Peter hu
+ 16752 从技术端入手的确是很不错的方式，但是对于没有技术基础的文科生来讲确实是很难走的一条路
+ 16818 2025-11-19 10:48
+ 16873 [Simon] 我不是要走一条路
+ 16898 [Simon] 而是我对于Saga的展望和计划问题
+ 16944 [Simon] 我的目标就是小而美
+ 16969 [Simon] 我压根就不打算做大
+ 17016 [Simon] 就是为了绑定几个好的客户，有持续订单就行了
+ 17039 [Simon] 这个可能35年内就能实现
+ 17087 [Simon] 后续我就不太操心Saga了
+ 17109 [Simon] 我还有其他的一些计划，并不是只关注Saga
+ 17158 [Simon] 上次安博会谈完，我想了很多
+ 17182 [Simon] 也是结合了我自己的情况以及为啥我弄这个Saga等等吧
+ 17242 Peter hu
+ 17281 抛开绑定这个思维，做好服务，当客户慢慢对你产生依赖的时候，所谓的绑定也就水到渠成了，我们从来不会讲去绑
+ 17303 定某个客户，从愿意聊--主动找你聊--产生依赖，这就很成功了
+ 17372 [Simon] 这确实是上次的Angora售后问题客户明显信任感增加了
+ 17418 [Simon] Peterhu:抛开绑定这个思维，做好服务，当客户慢慢
+ 17438 [Simon] 对你产生依赖的时候，所谓的绑定也就水到渠成了，
+ 17494 我分析了我目前的客户列表其实我已经有几个轻度绑定的客户了我再加把劲就行了
+ 17544 所以就是为啥似乎我一直陷在绑定这个圈里。
+ 17613 [Simon] 后续再看吧 反正计划都是一直在调整的 哈哈
+ 17674 Peter hu
+ 17707 你还年轻，一直在思考很进步，潜力无限
+ 17775 2025-11-19 10:53
+ 17904 [Simon] 起加油吧
+ 17964 Peter hu
+ 18074 [Simon] 也感谢你们这一路来的支持哈哈
+ 18133  Peter hu
+ 18168 相互支持
+ 18235 2025-11-19 11:00
+ 18360 2025-11-24 14:50
+ 18414 [Simon] 下午好 请安排生产
+ 18488 [Simon] 发货信息_Smartbyte_STEC
+ 18511 [Simon] 20251123012.docx
+ 18520 [Simon] W
+ 18543 [Simon] 283.5K
+ 18579 [Simon] 微信电脑版
+ 18631 2025-11-24 14:51
+ 18693 [Simon] UserManualSTEC202511
+ 18713 [Simon] 23012.pdf
+ 18724 [Simon] PDF
+ 18743 [Simon] 547.7K
+ 18781 [Simon] 微信电脑版
+ 18825 You recalled a message
+ 18877 [Simon] 请仔细阅读一下里边的内容
+ 18948 [Simon] 另外
+ 19019 [Simon] 请发13个包装盒给Hrui
+ 19087 [Simon] 型号BNSC-28GPM包装盒对应内部料号B.BZ.01.073
+ 19158 [Simon] 运费单独记在我这边就行
+ 19219 Anna
+ 19254 好的
+ 19325 地址信息：深圳市宝安区沙井街道西环路九九工业城旺荣电子工业园二楼
+ 19348 刘长桂
+ 19372 18820293198
+ 19443 [Simon] 单号有了请给我一下
+ 19512 [Simon] 其他的我这有个客户反馈稍后我会发技术群里
+ 19582 [Simon] 暂时就这么多了
+ 19645 Anna
+ 19678 好滴
+ 19764 [Simon] 我让发了13个定制包装意给你
+ 19791 [Simon] 后有单号了始你
+ 19818 [Simon] 别寄得么快，到时候奔去了
+ 19907 [Simon] 请晚一些寄送吧下个月月中时~
+ 19977 [Simon] 他们交期非常之慢。
+ 20116 2025-11-24 14:56
+ 20169 [Simon] 这个错了我发一个新的
+ 20214 [Simon] Quoted content was recalled
+ 20276 [Simon] 采购合同
+ 20301 [Simon] STEC20251123012.pdf
+ 20308 [Simon] PDF
+ 20331 [Simon] 346.5K
+ 20367 [Simon] 微信电脑版
+ 20422 [Simon] -共是9台 8+1
+ 20492 [Simon] 请用这个最新版本把之前的直接覆盖了
+ 20559 2025-11-24 15:04
+ 20606 Anna
+ 20640 好
+ 20708 装箱单 重量 发货地址请注意一下 这个客户很难缠信息搞错了我和很麻烦。
+ 20775 2025-11-24 15:33
+ 20822 Anna
+ 20857 好
+ 20924 2025-11-25 19:40
+ 20977 晚上好
+ 21004 有几个事
+ 21028 1，请寄送13个定制包装盒给Hrui
+ 21052 地信自
+ 21167 [Simon] Send
+ 21168 [Simon] ((

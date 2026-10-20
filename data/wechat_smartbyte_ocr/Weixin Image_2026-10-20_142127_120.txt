@@ -1,0 +1,409 @@
+    20 Peter hu、Anna (3)
+    83 3/5 11:44
+   139 以LT-IS6528XGP-4XS24GT-D-4BT neutral datasheet为基准
+   210 文档内容已提取完成，现在开始逐项仔细审查：
+   233 以下是发现的全部错误，按类别整理：
+   256 一、拼写/术语错误
+   280 位置原文问题建议改为
+   304 Security features 表 Ddos / Ddos attack protection 大小写错误 DDoS
+   326  User Management 表 RADIUS or TARCAS 拼写错误 TACACS 
+   352 Application Protocol 表 TACACS (the terminal access controller accesses the control system) 全称展开错误
+   375 Terminal Access Controller Access Control System
+   401 Switching features表MDX/MIDX缩写错误MDI/MDIX
+   424 全文多处 Din-rail 工业标准缩写应全大写 DIN-rail
+   448 LED Indicators 表 USB flash drive not insert 动词形式错误 not inserted
+   471 System Log Management 表 Debu g/lnfo/Notice...单词被断开 Debug/lnfo/Notice...
+   494 VLAN 表 Mac based VLAN、Mac-address 缩写大小写错误 MAC-based VLAN、MAC address
+   519 二、语法错误
+   544 位置原文问题建议改为
+   565 Overview 第1段 is the highly reliable managed 缺少冠词 is a highly reliable managed
+   588 Overview 第1段IEEE802.3bt PoE++ standard protocol 名词单数错误 standards
+   611  Overview 第1段 the Max power output consumption per port "output"与"consumption"语义重复 maximum 
+   640 power output per port
+   658  Overview 第1段 for those higher power consumption industrial networking PDs "those/higher"用词不当 for
+   686 high-power industrial networking PDs
+   708 Overview 第1段 self-recovery imechanism less Lhan 20rms 结构不完整 recovery lirme of less than 20rms
+   730 Overview 第1段 allows you to scheme a reliable Ethernet network "scheme"用词错误 (scheme作动词不当)
+   756 allows you to build a reliable Ethernet network
+   781 Overview 第1段 robust Layer 2 management and secure functions 词性错误 security functions
+   802 Overview 第1段末尾efficiently后缺少句号 标点缺失 加句号 .
+   827 Overview 第2段 the high cost-effective easy-to-use device 副词形式错误 highly cost-effective
+   849 Overview 第2段 wide range power input 缺少连字符 wide-range power input
+   874 Overview 第2段 processing automation area 名词单数错误，语境需复数 areas
+   900 Features 列表IEEE802.3bt PoE++standard 名词单数错误standards
+   921 LED 表 / ALM 行 Device on normal working state 介词错误 Device in normal working state
+   943  Power 表 Dual power input must be the same as DC voltage 表达歧义 Both power inputs must use the same
+   968 DC voltage
+   991 VLAN 表 specially divide VLAN for user voice data flow 语法不通 specially designed to isolate voice data
+  1017 traffic
+  1040 三、格式/标点错误
+  1064 位置问题建议
+  1087 Management port 栏、Digital output 栏 使用了中文全角逗号，改为英文逗号，
+  1110  Data & Alarm channel 标
+  1181 [Simon] 这只是一个AI的回复
+  1253 [Simon] 如果非常仔细地抠问题会很多
+  1320 [Simon] 是要咋改
+  1381 Peter hu
+  1480 Peter hu
+  1517 修改全部细节工作量太大了
+  1576 Peter hu
+  1613 谢谢指正
+  1679 3/5 11:49
+  1725 Peter hu
+  1761 我看着改，看哪些是必须要修改的
+  1833 我是暂时用了4个 GPT GEMINI GROK和CLAUDE
+  1880 我把要求写的很仔细
+  1903 所以会反馈很多错误
+  1927 包括：拼写/术语错误8处，语法错误15处，标点/格式错误5处，前后描述不一致 3处
+  1996 [Simon] 看你想咋改 我再跑一下 因为平时我也改datasheet
+  2065 [Simon] 我的思路是这样
+  2137 [Simon] LT-IS6528XGP-4XS24GT-D-4BT
+  2161 [Simon] 这个是最高规格的 L3 PoE++
+  2209 [Simon] 那么它L3的功能基本其他的L3型号都支持PoE也是
+  2254 [Simon] L2+型号挑一个最高规格
+  2326 也就是准备3~5个标准规格把它们的内容挨个搞定非常仔细
+  2394 [Simon] 然后copy到其他的规格书中就行了
+  2463 [Simon] 差异点：包转发率这些尺寸图 装箱信息等
+  2534 这些数据只要不错也是COPY就行了就是把L2+L3功能挨个抠一点都不错
+  2606 它们都是共享软件功能的 所以copy到其他型号里没啥问题
+  2671 3/5 11:55
+  2726 [Simon] 看你想咋改 我这让AI再跑 看看哪里能配合一下
+  2787 Peter hu
+  2822 这个需要专人专门时间来弄，暂时完全没时间
+  2893 [Simon] 我感觉挺好改的啊
+  2962 [Simon] 看你们安排吧 需要我辅助和我说就行
+  3022 Peter hu
+  3060 是时间的问题
+  3125 3/5 12:01
+  3180 [Simon] 好的
+  3250 [Simon] 需要我辅助和我说就行A
+  3311 Peter hu
+  3350 我们这边会把一些涉及到技术拼写错误优先修改，这个最重要
+  3407 Peter hu
+  3445 比如MDI/MDIX这种
+  3514 那我就让AI评估时放宽比如忽略标点符号忽略表述是否非常标准等只保留拼写错误
+  3810 这很快的几分钟所有错误就搞出来了把评估标准放宽扔给AI就行了
+  3876 3/5 12:06
+  3931 [Simon] 后续我搞一下
+  4002 [Simon] 这种的就先不改 都可以让AI跳过的
+  4047 [Simon] Simon:
+  4120  Peter hu 
+  4158 好的
+  4296 3/6 10:24
+  4350 [Simon] 早上好
+  4376 [Simon] 我刚用GPT跑了一下，一些内容需要改或者有歧义的
+  4446 [Simon] 技术规格矛盾/容易被客户质疑
+  4468 1 SFP+写法与1G冲突
+  4515 文档写：
+  4563 4*1G/2.5G/10GBase-X SFP+
+  4613 2c2dab7b-3d44-4e56-8923-c960ed5...
+  4659 问题：
+  4707 SFP+通常只用于10G
+  4754 1G应该是 SFP
+  4802 如果支持1G/2.5G/10G，正确写法一般是:
+  4848 SFP+ slots support 1G/2.5G/10G
+  4896 或者
+  4945 4x SFP+ slots (1G/2.5G/10G compatible)
+  4992 否则客户会问：
+  5039 SFP+怎么跑1G?
+  5085 2802.3af电压写错
+  5129 文档：
+  5181 44-57VDC (802.3af)
+  5206 52-57VDC (802.3at/802.3bt)
+  5252 2c2dab7b-3d44-4e56-8923-c960ed5...
+  5299 问题：
+  5348 802.3af标准电压不是44V
+  5396 标准是：
+  5443 44-57V PD input
+  5464 48-57V PSE output
+  5514 如果这是 PSE switch (你这个是PoE switch)
+  5560 更标准写法是:
+  5610 48-57VDC
+  5657 否则会被懂PoE的客户质疑。
+  5705 [Simon] 标准名称错误
+  5728 [Simon] IEEE802.3x Back Pressure
+  5776 写的是：
+  5822 IEEE802.3x Flow Control and Back Pressure
+  5869 2c2dab7b-3d44-4e56-8923-c960ed5..
+  5916 问题：
+  5965 Back Pressure不是802.3x标准的一部分
+  6013 正确写法:
+  6062 IEEE 802.3x Flow Control
+  6085 Half-duplex backpressure
+  6156 [Simon] ERPS标准表达不规范
+  6201 写的是:
+  6251 ITU-T G.8032 ERPS
+  6294 2c2dab7b-3d44-4e56-8923-c960ed5...
+  6344 正确表达一般是：
+  6391 ITU-T G.8032 Ethernet Ring Protection Switching (ERPS)
+  6441 否则像缩写堆砌。
+  6532 三、 明显拼写错误
+  6557 [Simon] Ddos
+  6560 51
+  6605 写的是:
+  6652  Ddos attack protection
+  6700 2c2dab7b-3d44-4e56-8923-c960ed5..
+  6747 正确：
+  6795  DDoS attack protection
+  6844 [Simon] TARCAS
+  6887 写的是：
+  6939 Remote authorization by RADIUS or TARCAS
+  6985 2c2dab7b-3d44-4e56-8923-c960ed5..
+  7034 明显拼写错误。
+  7080 正确是:
+  7129 TACACS
+  7176 TACACS+
+  7223 这个是非常明显的专业拼写错误。
+  7271 7 MAC extend ACL
+  7317 写的是:
+  7367 MAC extend ACL
+  7412 2c2dab7b-3d44-4e56-8923-c960ed5...
+  7461 正确是:
+  7507 MAC extended ACL
+  7556 8 Med
+  7602 写的是:
+  7651 LLDP
+  7673 Med
+  7721 2c2dab7b-3d44-4e56-8923-c960ed5...
+  7769 正确应该是:
+  7818 LLDP-MED
+  7864 四、语义逻辑问题 (客户会问)
+  7889 [Simon] ERPS连接数
+  7936 写:
+  7983 Number of Single Ring Device Connections: 20
+  8030 但后面又写：
+  8078 Number of Single Ring Device Connections: No limit
+  8125 2c2dab7b-3d44-4e56-8923-c960ed5...
+  8172 这是直接矛盾。
+  8220 ERPS通常是:
+  8268 ≤255 nodes
+  8314 必须统一。
+  8362 [Simon] Serial server描述逻辑混乱
+  8409 这里：
+  8459 Serial server:
+  8482 Network Side: Supports TCP protocol
+  8504 Serial Port Side: Supports RTU communication
+  8552 2c2dab7b-3d44-4e56-8923-c960ed5...
+  8600 但前面写：
+  8646 1 channel RS485
+  8695 RS485本身就是RTU常见接口，但这里写法像：
+  8744 内置serial device server
+  8788 建议明确:
+  8837 RS485 serial server (Modbus RTU over TCP)
+  8887 否则客户会疑惑。
+  8934 五、明显技术表达错误
+  8959 [Simon]  power output consumption
+  8961 10
+  9004 写的是:
+  9051 the Max powe
+  9119 [Simon] 有一些可以忽略掉的
+  9190 五、明显技术表达错误
+  9214 1  power output consumption
+  9260 写的是:
+  9311 the Max power output consumption per port can reach 90w
+  9359 2c2dab7b-3d44-4e56-8923-c960ed5...
+  9404  Power output consumption是矛盾词。
+  9452 正确：
+  9499  maximum power output per port is 90w
+  9572 1 2 device power on is normal
+  9619 写：
+  9667 On: the device power on is normal
+  9715 2c2dab7b-3d44-4e56-8923-c960ed5...
+  9759 语法错误。
+  9804 正确：
+  9857 Device powered on normally
+  9905 六、PoE功率逻辑可能不合理
+  9951 写:
+  9998 Single power input: PoE power budget ≤240w
+ 10022 Dual power input: PoE power budget ≤370W
+ 10072 2c2dab7b-3d44-4e56-8923-c960ed5..
+ 10116 但：
+ 10163 设备是
+ 10212 24 port PoE
+ 10234  90W max per port
+ 10281 如果客户算:
+ 10332 4 x 90W = 360W
+ 10379 单电源只有240W
+ 10426 容易被问：
+ 10475 why 90W PoE but only 240W budget?
+ 10522 建议写清楚：
+ 10568  PoE++ available on port 1-4
+ 10616 否则客户会认为：
+ 10664 24口都支持90W
+ 10734 总结
+ 10783 这份规格书整体水平还可以，但有7个明显硬伤：
+ 10829 最严重的：
+ 10878 TARCAS → TACACS+
+ 10901  Ddos → DDoS
+ 10926 LLDP Med → LLDP-MED
+ 10932 3
+ 10950 ERPS节点数前后矛盾
+ 10955 4
+ 10972 SFP++ 1G表达不规范
+ 10980 5
+ 10997 power output consumption错误
+ 11005 6
+ 11021 PoE电压表达不标准
+ 11028 7
+ 11114 [Simon] 同时，GEMINI也提出了不同的问题
+ 11184 路由条目容量冲突：
+ 11208 在“Features" 和“Technical specification" 开头均标注为 13K routing entries 。
+ 11233 但在 “Layer 3 features" 具体细则中却写着: "Routing prefix table size 4k for IPv4, for IPv6 divide by 4"
+ 11256 硬伤点：13K和 4K 差距巨大，客户无法判断真实的硬件路由表容量。
+ 11328 在“Data & Alarm channel"以及 8-pin 端子的定义上存在逻辑缺陷:
+ 11349 DO（数字输出）引脚矛盾：
+ 11374 规格表描述 DO 支持“Normally open, Normally closed, Pulse"
+ 11397 逻辑矛盾：通常“常开+常闭" 组合（Form C 继电器）需要 3 个引I脚（COM, NO, NC）。但该设备使用的是一个
+ 11421 8-pin 接口，其功能分配如下:
+ 11443 Vout (VO+, VO-) - 2个引|脚
+ 11467 RS485 (A,B) - 2个引|脚
+ 11492 DI (DI+, DI-) - 2个引|脚
+ 11516 结果：剩下的引引脚只有 2个。在只有 2个引脚的情况下，物理上不可能同时提供“常开”和“常闭”两种接线选
+ 11540 择。这说明规格书的描述与实际物理接口不符。
+ 11609 [Simon] GROK提出了这个
+ 11679 Content misplacement or contradiction in MSTP section: "Number of Single Ring Device Connections: 20"
+ 11705 is listed under MSTP (802.1D/1W/1S), but MSTP is a spanning tree protocol not inherently ring-based. This
+ 11727 appears to be a copy-paste error or misplacement, as the ERPS section (G.8032) correctly states "Number
+ 11753 of Single Ring Device Connections: No limit," creating a direct contradiction in ring connection limits
+ 11774 between related redundancy features.
+ 11843 [Simon] 整体上不同的AI都会给不同的评估我是这么设置要求的
+ 11915 [Simon] 审核一下这个规格书 看看哪里有问题
+ 11940 [Simon] 忽略掉标点符号表达没那么规范的地方
+ 11962 [Simon] 比如fanless写为了fan-less
+ 12010 [Simon] 就挑选出来一些硬伤，不可接受的地方
+ 12034 [Simon] 比如完全的拼写错误，前后表达完全矛盾甚至相反
+ 12058 [Simon] 就这种硬伤类的错误信息
+ 12079 [Simon] 全部给我拎出来
+ 12150 你们可以改一下评估要求也试试不同的AI不过感觉就这么多了
+ 12216 3/6 11:48
+ 12261 Peter hu
+ 12299 收到，我抽时间看看怎么处理入
+ 12359 Peter hu
+ 12397 AI的也不是完全准确啊，我们会根据实际情况调整
+ 12461 3/6 11:56
+ 12514 快啊
+ 12561 同样的一个文档内容 写好评估要求 扔给不同的AI 得到结果
+ 12587 2分钟
+ 12635 人工过一遍筛选没用的回复5~10分钟足够了
+ 12683 改
+ 12706 完事
+ 12778 [Simon] 我是手把手改过 校对过规格书的 (不单单是你们的)
+ 12844 [Simon] 人工太累太费时间了可能搞了几个小时也没啥成效
+ 12915 [Simon] 做个平衡吧
+ 12986 [Simon] OK
+ 13032 [Simon] Peterhu:收到，我抽时间看看怎么处理
+ 13089 目前在和Angora谈一个很大的项目规格是OK的但价格可能要压了数量3K+吧
+ 13227 [Simon] 后续有进展和需求了我在群里说A
+ 13294 3/6 12:02
+ 13340  Peter hu
+ 13374 存储普遍涨了10USD，请注意这个存储差价
+ 13447 [Simon] 能做就做 做不了bye bye 尽最大努力即可
+ 13508 Peter hu
+ 13542 特别是LT-S8328XGP-4XS24GT-S这一款，主打性价比
+ 13612 这个Angora是项目型的拿下一个就起飞 拿不下，只要客户在问 那就继续搞
+ 13678 3/6 12:03
+ 13734 证明客户还是愿意推广愿意信任的这个长期来看是很好的
+ 13804 [Simon] Ok 那2个型号他都下过
+ 13849 [Simon] Peterhu:特别是LT-S8328XGP-4XS24GT-S这一款，
+ 13870 [Simon] 主打性价比
+ 13925 [Simon] 看看后续谈的咋样了
+ 13985  Peter hu
+ 14020 客户应该都道存储现在的价格，谈价格的时候请告知客户
+ 14066 Simon:Ok那2个型号他都下过
+ 14122 [Simon] 好的
+ 14188 3/6 17:36
+ 14243 LT-IS3210GP-2GX8T
+ 14291 1.是否支持MSTP?
+ 14312 目前规格书中是Support STP, RSTP
+ 14336 是软硬件完全就不支持吗
+ 14386 2.该设备如何告警？
+ 14411 我看它不像其他型号有pin 5 pin 6的alarm port
+ 14434 也没有DO alarm port
+ 14458 只能通过SNMP trap alarm吗?
+ 14481 在规格书中写了， Support SNMPV1/V2C/V3和Support Syslog and alarm grading
+ 14576 [Simon] @Peter hu
+ 14645 [Simon] 大概3500台
+ 14714 要和DLINK的DIS-300G-10PS来竞 至少是不能比DLINK的差
+ 14791 [Simon] CGKS_Field_Switch_DLink
+ 14813 [Simon] DIS300G_Complia...(1).xlsx
+ 14845 [Simon] 12.7K
+ 14881 [Simon] 微信电脑版
+ 14935 LT-IS6310GP-2GX8GT 这个功能足够 但价格太高了 报了基本就gg 不过会作为一个option
+ 15002 3/6 17:50
+ 15046 Peter hu
+ 15083 收到，@Rot你先跟研发对接下规格，我现在有事
+ 15215 Anna
+ 15253 好的
+ 15299 Peterhu：收到，@Rot你先跟研发对接下规格，我现
+ 15315 在有事
+ 15363 Peter hu
+ 15398 我看还有IPv6，那个应该是不支持的
+ 15402 我看还有IPv6，那个应该是不支持的
+ 15471 [Simon] 都不支持没办法L2+可以但价格太高了
+ 15538 [Simon] L2+基本是完美契合
+ 15599 Anna
+ 15635 1.不支持MSTP
+ 15681 2.支持syslog和snmp trap告警
+ 15728 Simon:LT-IS3210GP-2GX8T1.是否支持MSTP?目
+ 15748 前规格书中是SupportSTP，RSTP是软硬件完全就不..
+ 15803 [Simon] 好的
+ 15870 3/9 17:31
+ 15928 [Simon] @Peter hu这个RFP邮件转给你了请抽空看一下
+ 15996 [Simon] 客户那还在收集信心也和客户聊了一些其他的
+ 16065 We will need source codes. Hardware designs etc. but we will see how it goes
+ 16136 m working on a new deal for us.
+ 16182 It' s co-development with Turk Telekom. I met a new partner. Politically connected
+ 16254 长期来看，他们还是锚定了Turk Telekom这个大客户 如果能搞定点啥 很多客户就不用接了 哈哈
+ 16319 3/9 17:41
+ 16362 Peter hu
+ 16400 Hello Simon,我大概看了客户邮件
+ 16460 Peter hu
+ 16498 请问你的思路是怎样的呢？
+ 16565 客户那在收集相关信息
+ 16615 去年是DLINK赢得了标，DIS-300G-10PS这个型号
+ 16638 也在群里发了compliance table
+ 16662 其实很多也不满足
+ 16711 客户那目前是准备L2
+ 16734 可以看到，有一些功能是不满足的
+ 16757 比如
+ 16780 MSTP,IPV6那个，还有报警的（目前不确定客户指的是哪种报警)
+ 16829 这个设备还需要配件
+ 16878 整体就是想你们看看
+ 16901 1，功能都能满足吗除了说的那几个
+ 16924 因为我看里边的item，有一些很模糊
+ 16948 似乎支持但规格书里也没写的特别明确
+ 16995 2，这个标整体上你们对于它的把握情况
+ 17017 功能配件 能给的价格等
+ 17080 3/9 17:51
+ 17129 Peter hu
+ 17185 all support ICM
+ 17285  Peter hu
+ 17318 ICMP也不满足
+ 17379 Peter hu
+ 17417 1.反正都不能完全满足，既然终端优先看价格竞争力，就先用L2去试试
+ 17464 2.需要哪些配件？电源+SFP？
+ 17529 3/9 17:52
+ 17583 [Simon] 那就先等客户消息吧
+ 17654 [Simon] 先给你看看RFP内容 有个底
+ 17716  Peter hu
+ 17750 好的
+ 17813 Peter hu
+ 17850 这种跟政府相关的项目主要还是看客户那边的关系
+ 17908 Peter hu
+ 17945 以及他们怎么搞利益分配
+ 18016 我想的简单 控制能控制的=compliance best pricel以及支持
+ 18086 其他的啥也不管了因为已经超出了我们的掌控去操心没啥意义
+ 18156 其实找处理这些是很简单粗暴的能不能搞，符不符合说明白了
+ 18179 然后给价格=best offer
+ 18249 完事儿 哈哈 其他的都是我不能控制的 我也不操心 也不想操心
+ 18315 3/9 17:59
+ 18359 Peter hu
+ 18395 也是这个道理
+ 18466 [Simon] 先给你们看看RFP内容有个底
+ 18536 [Simon] 再等等客户信息吧
+ 18596 Peter hu
+ 18632 好的
+ 18763 Peter hu
+ 18867 3/1821:14
+ 18922 [Simon] @Peterhu
+ 19044 [Simon] Send

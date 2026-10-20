@@ -1,0 +1,297 @@
+    16 Peter hu、Anna (3)
+    97 2025-11-28 16:34
+   153 [Simon] 这1台我是付了2次
+   198 [Simon] Anna:1台的
+   244 Anna
+   278 有点懵
+   340 Anna
+   378 可以麻烦发下聊天记录吗
+   439 Anna
+   475 我有点没印象了不好意思
+   558 [Simon] 早上好这台24口的拟手之前巴经付过款了
+   948 [Simon] 一个使宜的快进运费是能出请计入下一个订
+   961 [Simon] 定要使宜的快通没利润
+   983 [Simon] 这个收货并不着急
+  1374 当时是1台24口和印度的16口 2个款我付了 (见第一张图)
+  1396 但是没着急发24口的
+  1401 但是没着急发24口的
+  1469 [Simon] 后续24口发货前我又付了一次我以为没付
+  1530 [Simon] 438
+  1543 [Simon] 罗质
+  1563 [Simon] 显3个月 
+  1621 [Simon] 罗线 (尾号7588)
+  1623 [Simon] C009 A-
+  1624 [Simon] ?
+  1648 [Simon]  (周号7)
+  1649 [Simon] 0020' A *
+  1650 [Simon] ?
+  1674 [Simon] 罗期(尾7088)
+  1675 [Simon] 0000/ A -
+  1676 [Simon] ?
+  1697 [Simon] -6,46600
+  1700 [Simon] 罗练 (尾号7588)
+  1702 [Simon] ?
+  1726 [Simon] 罗线 (尾号7588)
+  1728 [Simon] 00029' A
+  1729 [Simon] ?
+  1753 [Simon] 那 (港号7588)
+  1754 [Simon] -1,904.00
+  1755 [Simon] ?
+  1777 [Simon] 罗(元号758)
+  1779 [Simon]  2,912.00
+  1781 [Simon] ?
+  1872 [Simon] 你那10月份24口的订单应该只有1个1台
+  1932 Anna
+  1967 我看到啦
+  2033 2025-11-28 16:39
+  2081 Anna
+  2117 我跟财务对下哈
+  2187 [Simon] OK
+  2252 2025-11-28 16:44
+  2298 Anna
+  2336 9316-760=8556
+  2399 2025-11-28 16:50
+  2463 [Simon] 转账记录查询
+  2488 [Simon] 转始罗辉
+  2503 [Simon] -￥8,556.00
+  2689 [Simon] 定看相TA的体脉记录
+  2715 [Simon] 此一
+  2789 [Simon] 9台不着急发 等Hrui和Joey的一起
+  2926 2025-11-28 17:14
+  2974 Anna
+  3007 好
+  3073 2025-11-28 18:07
+  3128 [Simon] 请发我一下这个型号的规格书
+  3484 Anna
+  3517 哪个型号
+  3588 [Simon] 升压这款
+  3656 [Simon] 这个价格是多少
+  3721 Anna
+  3754 这个应该没还做规格书
+  3814 Anna
+  3848 @Peter hu Peter
+  3917 [Simon] 芯片是4+8新出的那个系列？
+  4325 具体芯片请发我一下 这个客户很优质=明确是marvell生态里的
+  4393 That' s very interesting —- especially the Marvell-based design and the 12-54V PoE booster concept.
+  4417 Let' s discuss more details — which Marvell chip is used, and do you already have a working demo or
+  4442 evaluation sample?
+  4506 2025-11-28 18:10
+  4563 [Simon] 有可能拿样这个客户非常契合~~
+  4633 [Simon] 价格直接上顶配吧10G光带BT带RS485等
+  4703 [Simon] 我就直接按照顶配规格尝试让客户去测
+  4773 [Simon] 我要去健身房了直接留言就行我回来处理A
+  4833 Peter hu
+  4870 升压的不支持BT
+  4915 Simon:价格直接上顶配吧10G光带BT带RS485等
+  4960 Peter hu
+  4998 规格书还没做，下周一给吧
+  5068 [Simon] OK 顶配规格来做 来报价吧
+  5133 2025-11-28 18:16
+  5184 [Simon] 可以成熟出货吧？
+  5258 [Simon] 这个客户明确是marvell生态的~,
+  5318 Peter hu
+  5353 下周一一起报价，可以告诉客户是MarvellAC5series
+  5422 [Simon] 不能告诉具体型号？
+  5485 Peter hu
+  5518 实际状态只有研发样机
+  5564 Simon：可以成熟出货吧？
+  5623 你们这测试没问题吧？能出就行按照之前双AC订单来玩就行~
+  5681 Peter hu
+  5718 AC5有不同型号，我们现在在陆续切换，AC5芯片库存不多，不能锁死哪个型号，直接告诉客户用AC5就可以了
+  5788 [Simon] OK
+  5849  Peter hu
+  5884 Alleycat 5 series
+  5945  Peter hu
+  5977 全称
+  6053 好我这因为调查过这个AC5很复杂所以我才问了具体型号
+  6122 [Simon] 先这样吧 等你们价格和规格书
+  6256 2025-11-28 20:27
+  6313 Do you mean that you can power feed the switch at 12V and this support PoE?
+  6334  Pleas send me your brochure. Thanks 
+  6386 另外一个客户也在问我最近主推的这个产品规格书好了随时发给我
+  6512 Peter hu
+  6550 好的
+  6615 2025-12-1 13:36
+  6671 [Simon] 下午好
+  6746 [Simon] User Manual _STAG202511
+  6769 [Simon] 27018.pdf
+  6777 [Simon] PDF
+  6801 [Simon] 470.3K
+  6837 [Simon] 微信电脑版
+  6898 [Simon] 采购合同
+  6921 [Simon] STAG20251127018.pdf
+  6930 [Simon] PDF
+  6951 [Simon] 339.0K
+  6988 [Simon] 微信电脑版
+  7041 [Simon] 请安排生产
+  7114 [Simon] 升压规格书和价格如何了
+  7175 Anna
+  7208 好
+  7255 Simon:请安排生产
+  7299 Peter hu
+  7336 我现在直接更新成7.5.X版本，因为7.5.X在2026年Q1要发布，规格书提前将7.5.X的版本功能加上去
+  7403 2025-12-1 13:39
+  7460 [Simon] 好直接上顶配就行这样说服力更强
+  7519 Peter hu
+  7556 12-1月我计划将所有L2+的规格书更新一遍，都按照7.5版本来
+  7614 Peter hu
+  7650 万一客户测试会有几个功能暂时是不支持的，要到7.5版本发布才支持，这个倒是可以跟客户解释下
+  7697 Simon：好直接上顶配就行这样说服力更强
+  7752 好我这2026的规格书正在大改中Q1就以之前的规格书为准Q2以你们最新的来改
+  7813  Peter hu
+  7847 好的
+  7916 2025-12-1 14:46
+  7960  Peter hu
+  7995 @Simon 顶配升压机型
+  8054 Peter hu
+  8097 LT-IS6312XGP-4XS8GT-
+  8119 SD-BST datasheet.docx
+  8128 W
+  8152 264.1K
+  8188 微信电脑版
+  8250 [Simon] Biz-Plan-2026-Draft.pdf
+  8269 [Simon] PDF
+  8276 [Simon] 114.1K
+  8314 [Simon] 微信电脑版
+  8372 Angora networks的商业计划 给你们看一下 后续看看咋搞小,
+  8442 [Simon] OK
+  8486 [Simon] Peter hu: LT-IS6312XGP-4XS8GT-SD-BST
+  8506 [Simon] W
+  8509 [Simon] datasheet.docx
+  8571 [Simon] Hi Simon, here is the fisr draft version for you.
+  8633  Peter hu
+  8669 红色部分是7.5版本，还没有发布
+  8711  Peter hu: LT-IS6312XGP-4XS8GT-SD-BST
+  8731 W
+  8732 datasheet.docx
+  8789  Peter hu
+  8824 价格是1200未税
+  8893 [Simon] 好
+  8956 Peter hu
+  8990 4XS8GT，升压，支持DI/DO/RS485,标配温湿度传感器
+  9062 标配温湿度传感器这个思路是参考Hasivo的还是台湾厂商的？
+  9126 2025-12-1 14:54
+  9172 Peter hu
+  9210 我们自己另外一个客户，他们需要标配温湿度传感器出货
+  9270  Peter hu
+  9303 客户希望我们这边怎么配合？
+  9350 Simon:Angora networks的商业计划给你们看一下
+  9368 后续看看咋搞人
+  9421 2025-12-1 15:04
+  9477 [Simon] OK
+  9523 [Simon] Peterhu:我们自己另外一个客户，他们需要标配温湿
+  9543 [Simon] 度传感器出货
+  9598 客户这主要是基于SKD和市场规划来写的
+  9648 市场方面主要就是针对土耳其本地和其他市场 (欧洲为主)
+  9694 土耳其本土市场直接买我们的成品
+  9716 其他市场，采用SKD模式+他们自己研发的一些硬件软件
+  9742 在这竟标，关税减免等方面都有很大帮助
+  9810 [Simon] SKD就是这个了其他的目前没看到特别强制的需求点
+  9879 [Simon] 我稍后跟客户聊一下
+  9942  Peter hu
+  9977 可以跟客户详细聊下需要我们这边配合的点，具体点更好，老外的计划通常比较粗放，战线也拉得很长，计划具体一
+ 10000 点可以评估落地的可能性和时效性
+ 10069 [Simon] 好感觉写的还是不错的哈哈
+ 10142 因为12月一般都没啥单子了 都是做总结规划啥的我跟他再细聊一下
+ 10206 2025-12-1 15:10
+ 10251 Peter hu
+ 10289 写的是还不错，很全面
+ 10331 Simon:好感觉写的还是不错的哈哈
+ 10385 2025-12-1 15:25
+ 10440 [Simon] 好 我跟他聊一下 后续有情况在群里说
+ 10577 2025-12-1 15:33
+ 10622 Anna
+ 10661 Simon你下的收发器挂耳是墙壁式挂耳？
+ 10719 Anna
+ 10887 2025-12-1 15:43
+ 10943 [Simon] 就平时的挂耳啊
+ 11215 [Simon] 这个
+ 11285 [Simon] 平时都带了我也支付了费用
+ 11346 Anna
+ 11532 Anna
+ 11689 Anna
+ 11842 Anna
+ 12058 Anna
+ 12296 Anna
+ 12546 Anna
+ 12733 Anna
+ 12889 Anna
+ 13117 Anna
+ 13293 Anna
+ 13443 Anna
+ 13697 Anna
+ 13947 Anna
+ 14510 [Simon] 这个PoE的能出吗 之前的沟通说是基本不太出PoE
+ 14573 2025-12-1 15:48
+ 14630 400个板子（不带外壳）之前成单的那个印度客户问的=不一定有啥实质性进展~~
+ 14688 Peter hu
+ 14726 出不了PoE啊
+ 14771 Simon:这个PoE的能出吗之前的沟通说是基本不太出
+ 14792 PoE
+ 14843 2025-12-1 15:56
+ 14919 [Simon] 济干表管理24电
+ 14919 [Simon] (不支)。我660R3B天段
+ 14953 [Simon] L.并没有承4+24经流倍，只品用管理
+ 14960 [Simon] 这科司求报少，基本设这么爱函，何始更客户学，建片管强型号
+ 14979 [Simon] LJ-15604G-24GT
+ 14996 [Simon] SP航本可核出，但这科需求型少，有需求了有说
+ 15010 [Simon] Bspr Smih 的价得有了时1
+ 15062 [Simon] 好出吗不好出（比如物料核算成本啥的）就算了
+ 15133 [Simon] 另外 刚发的升压规格书是L2+的?
+ 15320 [Simon] OHCPv6 Cie
+ 15334 [Simon] DHCPv4 Rlay
+ 15350 [Simon] DHCPv4 Serve
+ 15409 [Simon] 我看这个3层功能比常规的L2+多了不少啊
+ 15475 2025-12-1 16:03
+ 15522  Peter hu
+ 15556 分得更细致一些了，也增加了一些功能
+ 15604 Simon：我看这个3层功能比常规的L2+多了不少啊
+ 15649  Peter hu
+ 15681 之前 static route 这里就是IPv4/IPv6 static routing
+ 15749 2025-12-1 16:05
+ 15807 [Simon] 这个改动挺大的我估计Q2我的任务量挺大
+ 15874 [Simon] 哈哈
+ 15946 [Simon] 我先根据老版本推着 web和CLI manual
+ 16004 Peter hu
+ 16041 要重新做，400台不划算，成本也高
+ 16086 Simon:好出吗不好出（比如物料核算成本啥的）就算
+ 16163 [Simon] 内容也会改动吧我很久都没拿你们的新版本的了
+ 16232 [Simon] OK
+ 16280 [Simon] Peterhu:要重新做，400台不划算，成本也高
+ 16322 Peter hu
+ 16360 这一款24口非管理我们整个公司1年都没卖出10台，所以应该会砍掉了
+ 16421  Peter hu
+ 16455 型号太多，备库压力大，造成不必要的浪费
+ 16515 Peter hu
+ 16552 年底的时候我们会统计一些出货量很少的机型直接砍掉
+ 16622 [Simon] OK 看你们后续安排我Q2做个大调整
+ 16682 Peter hu
+ 16718 好的
+ 16779  Peter hu
+ 16817 1月份也是总结的时候，到时候我们再沟通
+ 16878 2025-12-1 16:14
+ 16936 Simon, just a quick question about TACACS support? Do we have TACACS suppoer in Marvell commercial
+ 16961 edge units ?
+ 17042 [Simon] bortTAcAcs(theterminalaccesscon
+ 17088 [Simon] portTFTPClient
+ 17157 [Simon] 这个没问题吧
+ 17227 [Simon] 好
+ 17273 [Simon] Peterhu：1月份也是总结的时候，到时候我们再沟通
+ 17320  Peter hu
+ 17355 软件功能不分工业和商业
+ 17396 Simon：这个没问题吧
+ 17447  Peter hu
+ 17482 都一样的
+ 17552 [Simon] 好的
+ 17649 [Simon] Pls feed these 2 RFPs in the Al. Although
+ 17664 [Simon] they are in Turkish, I got it analyzed with
+ 17678 [Simon] Grok. But you can try with any Al.
+ 17756 [Simon] 哈哈哈
+ 17828 [Simon] AI
+ 17886 Peter hu
+ 17994 [Simon] 趋势不可阻挡啊色
+ 18061 2025-12-1 16:20
+ 18109 Datar hi
+ 18222 口
+ 18223 [Simon] Send
+ 18225 Y

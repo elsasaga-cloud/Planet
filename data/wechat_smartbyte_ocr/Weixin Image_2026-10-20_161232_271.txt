@@ -1,0 +1,417 @@
+    19 Peter hu、扫地僧(3)
+    67 2025-12-3 11:01
+   111 Peter hu
+   287 2025-12-3 16:33
+   342 Hi Simon, the modification asks for MAC Security on the edg switches. Can you pls check if we can support this
+   413 We are studying the modifications. I will keep you posted on the progres today
+   484 Hi Slmon, many thnks for all the responses. The customer just came up with a modifcation this morning to
+   508 the RFP. They are squeezing more for Cisco. This is the Turkish Air Force and they are Cisco customer.
+   573 [Simon] 怎么判断客户到底指哪一种？
+   594 [Simon] 帮你快速利斯：
+   613 [Simon] √如果是政府/军工/轨交/电力：
+   632 [Simon] →几乎肯定是MACsec
+   651 [Simon] 如果是普通企业、弱电项目、安防项目：
+   666 [Simon] →很可能只是要“端口安全/MAC过速”
+   688 [Simon] 如果标书没写到802.1AE：
+   704 [Simon] →不一定是真的MACseC
+   725 [Simon] √如果客户一句话“你们有没有MACSecurity?
+   742 [Simon] →多数只是问你们有没有基础端口安全机制
+   817 [Simon] Framework(FlexibleCustomizationand
+   838 [Simon] SecurityFeaures(MACsec,ACLs,SFTP
+   858 [Simon] pability(SONiC,SNMP,NETCONF/YAN
+   930 [Simon] 我自己在宣传里写了这种的
+   999 [Simon] 客户提的这个MAC Security大概率是指这个吧
+  1059 扫地僧
+  1096 macsec，这个要加的钱老多了
+  1165 客户说的“MAC Security”可能的含义(重要)
+  1190 根据经验，客户口头说“MAC Security"，通常有三种可能:
+  1212 ①真正指 MACsec (最常见)
+  1235 如果是政府、电力、轨交、银行、运营商项目一基本指 MACseC。
+  1261 标书里一般会出现：
+  1286 支持 IEEE 802.1AE MACseC
+  1306 支持 MKA (MACsec Key Agreement)
+  1330 支持加密模式 AES-GCM-128
+  1355 支持硬件加速加密
+  1379 ·这个非常难，需要芯片层支持！
+  1402 如果你们的交换机芯片（如 Marvell、Vitesse）不支持 MACsec Engine，就根本做不了。
+  1427 ② 客户只是泛指“MAC 地址层的安全功能（轻量级）
+  1451 有些客户不懂技术，会把“MAC Security”当成:
+  1472 MAC地址过滤
+  1496 静态 MAC 绑定
+  1522 MAC 限制数量
+  1544 MAC 黑白名单
+  1570 Port Security (端口安全)
+  1593 防止 MAC Flood攻击 (Storm Control)
+  1618 这种就很好实现，你们产品肯定已有。
+  1639 ③客户只是想说“防MAC 攻击"
+  1663 包括：
+  1687 防止仿冒 MAC
+  1712 防止 MAC 地址表被灌满 (MAC Flood)
+  1733 防止 ARP 攻击 / DHCP Snooping / IP-MAC Binding 
+  1761  这些属于基木安全特性，你们驱动层+ L2 安全足够覆盖。
+  1829 这是一个air force项目 估计就是MACsec了 第二种泛指的都支持=很多芯片 包括Realtek
+  1888 "扫地僧"recalled amessage
+  1940 感觉是指第一个 MACsec 因为2 3两种都是常规的 主流芯片都是可以支持的
+  1999 扫地僧
+  2036 这个不是我们的菜
+  2096 扫地僧
+  2130 太高端了
+  2198 2025-12-3 16:37
+  2252 [Simon] OK
+  2384 扫地僧
+  2421 我们要支持这个的话，芯片要先换掉
+  2480 扫地僧
+  2517 然后再去开发软件
+  2588 [Simon] 那没必要了这太难搞了这个项目目前都没定下来呢~^
+  2647 扫地僧
+  2684 嗯
+  2743 扫地僧
+  2777 而且国内小公司都搞不了这个
+  2846 2025-12-3 16:43
+  2904 [Simon] 好我问问客户是不是MACsec 是就pass 感谢A
+  2963 扫地僧
+  3070 想顺便问一句 后续AC5就是长期方案了吧？就是后续几年：不太会变以及出货/研发都是基于这个系列?
+  3129 扫地僧
+  3166 是的，5年以上
+  3236 [Simon] 好的珍
+  3298 扫地僧
+  3402 2025-12-5 17:42
+  3455 下午好
+  3477 我想问—下LT-IS6312GP-4GX8GT-2BT
+  3504 这个型号
+  3550 1，是否有AC5出货的版本?=采用最新的芯片，最新的软件功能
+  3598 2，板子设计是否长期保持不变，这包括了
+  3623 PCB 固定孔位
+  3646 光口/电口位置
+  3670 前面板布局
+  3692 等等
+  3717 就是整个物理硬件层面
+  3741 这一点非常重要
+  3789 我特别把整个问题在这个技术群里问了，没在商务群里问
+  3813 是这个即将下样品的客户极为重要
+  3836 他们要用我们的PCB板，自己设计一个军规级别外壳+做一个MIL-STD-810G/461
+  3884 所以1和2就是指
+  3909 能否长期稳定地供应最新版本/最高规格的产品
+  3957 如果2有变化，这一般也会有log进行相应的记录吧？
+  4027 [Simon] MIL-STD-810G/461=一个认证 不是很懂
+  4086 扫地僧
+  4122 这款AC5的已经出货很久了，5年内不会变化的
+  4191 [Simon] 好感谢
+  4200 [Simon] 好感谢心
+  4254 扫地僧
+  4356 2025-12-6 15:20
+  4416 [Simon] LeventKILIC和Simon的聊天记录
+  4445 [Simon] Levent KILIC: Hi Simon, just a quick
+  4468 [Simon] question: do you have any models
+  4487 [Simon] with Marvell AC5X chipset
+  4507 [Simon] (MACsec-enabled 98Dx35xx part nu...
+  4537 [Simon] Chat History
+  4599 [Simon] 陈工 请抽空看一下这个MACsec
+  4742 [Simon] 这个有相应的芯片option吗？并不需要实际搞
+  4803 2025-12-6 15:25
+  4863 [Simon] 最适配的两颗 Marvell AC5X 芯片
+  4885 [Simon] 下面是最精准、最工程实际的选型:
+  4909 [Simon] ★ 方案A:24G + 4 SFP+ (你们需要的 24+4 版)
+  4934 [Simon] √ 最佳芯片:Marvell 98DX3540
+  4958 为什么？
+  4979 官方定位就是：24×1G+4x10G 上行
+  5006 带 MACsec Engine (AES-GCM-128)
+  5029 性能：约 200G 交换容量
+  5052 企业/安防/工控常用
+  5075 完全满足 L2+ / lite L3 
+  5101 成熟、稳定、客户验证最多的 AC5X 芯片之一
+  5125 →这是最合适的。无脑选98DX3540。
+  5148 [Simon] ★ 方案B:48G +4 SFP+(你们需要的 48+4 版)
+  5172 [Simon] √ 最佳芯片:Marvell 98DX3560
+  5195 专为 48×1G + 4 or 6 ×10G 的企业级接入交换机设计。
+  5218 特点：
+  5243 原生支持 48G 电口
+  5265 上行可做4×10G (正好符合你们需求)
+  5289 内置 MACsec Engine 全速加解密
+  5316 满足 L2 / L2+ / 静态路由级 L3
+  5339 市面上 48G AC5X 机型几乎都用它
+  5363 [Simon] →48口方案直接用98DX3560，最稳。
+  5385 [Simon] 》最终选型建议 (你们可以写进规格书)
+  5410 型号需求推荐 AC5X 芯片状态
+  5433 24GE+4 SFP+98DX3540 √ 完全匹配
+  5457 48GE+4 SFP+98DX3560√ 完全匹配
+  5527 [Simon] 可以这么和客户说吗？
+  5591 2025-12-6 15:32
+  5638 扫地僧
+  5672 虽然ac5x我们正在开发中，具体啥时候能开发完还不好说。在此基础上macsec开发工作量多大也尚不可知
+  5735 扫地僧
+  5771 对于太多未知量的项目，不建议深入去谈，这种项目我们没有这个研发资源去support
+  5838 [Simon] 好的
+  5907 2025-12-9 21:08
+  5963 晚上好陈工
+  6011 晚上好
+  6032 之前提过的那个Marvell生态的客户有回复了 (谈的是Bypass型号)
+  6058 LT-IS6312XGP-4XS8GT-2BT-2FBP neutral datasheet
+  6107 Greate!
+  6127  Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash,
+  6156 memory ?)
+  6200 Sample:1640元，之前给我的价格册里的
+  6224 有Buk price吗？比如50台 100台的阶梯价 还是就以1640元为准?
+  6271 关于Chipset
+  6294 就说是Marvell AC5 Series?
+  6318 PHY?
+  6343 Flash和Memory都是512MB?
+  6415 [Simon] 刚在商务群里简单沟通了一下
+  6474  Peter hu
+  6510 请问这款PHY用的是哪个型号？@扫地僧
+  6575 2025-12-9 21:09
+  6630 芯片信息跟升压机型一样，所有的AC5信息都写一样
+  6655 那就是Marvell AC5SeriesFlash和Memory都是512MB
+  6701 这个PHY有信息吗？
+  6762 扫地僧
+  6799 88e1680
+  6865 [Simon] 好感谢
+  6928 扫地僧
+  7027 扫地僧
+  7063 有点忘记了，marvell生态是什么意思？
+  7124 扫地僧
+  7220 扫地僧
+  7257 客户自己做软件？
+  7323 2025-12-9 21:17
+  7378 年初去工厂时 我特别问了Peter
+  7404 有没有同行做Marvell
+  7427 当时也和你确认了 (打的电话)
+  7474 你说小厂基本就你们在做且不断在升级
+  7521 基于此
+  7543 我的推广策略就是，找一些只用Marvell芯片的客户
+  7568 这样就可以和客户沟通，绑定的比较深
+  7592 我自己把这个叫做Marvell生态客户：他可能用AC3 AC5或AC5X等
+  7618 无论是哪种，我们能对接上，能有很大机会合作
+  7687 [Simon] 和软件没啥关系就是我自己瞎叫的
+  7747 扫地僧
+  7845 扫地僧
+  7880 明白了
+  7950 [Simon] 这个客户很专业就是用Marvell芯片的
+  8020 [Simon] 感谢
+  8081 扫地僧
+  8184 2025-12-10 10:08
+  8231 扫地僧
+  8267 @Simon风扇的mib做完了，还需要发给那个客户吗
+  8326 扫地僧
+  8362 上次没理他一下，也没找我们了吧
+  8429 需要 另外之前客户发的那个MIB你们看了吗 似乎是温度的
+  8493 扫地僧
+  8530 那个我们不理解他的问题是什么
+  8588 扫地僧
+  8623 估计需要再沟通一下
+  8694 [Simon] 我当时打哈哈回了一下这个客户原本就慢不碍事
+  8740 [Simon] 扫地僧：上次没理他一下，也没找我们了吧
+  8788 扫地僧
+  8826 ac5-hotfix-7.4.7.bin
+  8858 55.7M
+  8894 微信电脑版
+  8948 他没用过Marvell 如果要用 他没得选我给他的价格也不高 我们正常处理就行=不需要额外太干啥 
+  9021 [Simon] A感谢
+  9066 [Simon] 扫地僧：ac5-hotfix-7.4.7.bin
+  9143 扫地僧
+  9178 这个我不太理解，对于客户来说，主芯片是什么型号他们不太care吧
+  9244 2025-12-10 10:14
+  9299 [Simon] 因为我手上几个偏重要的客户都是技术派的
+  9325 [Simon] 问题乱七八槽的
+  9371 这是国外常规操作
+  9395 销售 商业 技术等不同部门都是不同的人来处理
+  9443 [Simon] 所以技术的问题和关注点
+  9467 我们对接起来会很累
+  9514 [Simon] 但一些客户会很在意具体的芯片
+  9537 我也和Peter提过这个
+  9562 还是希望你们能直接给出具体的信息 (非机密的)
+  9611 [Simon] 比如目前AC5系列的FLASH RAM Chipet Model PHY等
+  9633 [Simon] 因为也就这几个重要的参数了，一般也不是机密
+  9705 具体再看吧不可能所有客户都顺着他们的意思来配合这个太累了人
+  9763 扫地僧
+  9805 SWITCH-MIBS-
+  9829 release-7.4.7, OID=0.docx
+  9836 W
+  9859 135.9K
+  9895 微信电脑版
+  9941 扫地僧
+  9983 NMS-MIB-7.4.7, OID=0.zip
+ 10013 263.9K
+ 10048 微信电脑版
+ 10093 扫地僧
+ 10132 中性的（客户自己没有OID）我们统一用0来替代。
+ 10191 扫地僧
+ 10228 麻烦跟客户说明一下
+ 10291 2025-12-10 10:16
+ 10339 扫地僧
+ 10374 从7.4.4版本开始这么处理了
+ 10444 [Simon] 相信你们的实力哈哈
+ 10446 [Simon] 好感谢
+ 10507 扫地僧
+ 10530 2.10 Fans
+ 10543 NMS-SYS-MIB
+ 10637 ATEGER(
+ 10668 DE.1A.1E.1.25.1
+ 10756 扫地僧
+ 10796 renej u8J
+ 10797 1.3.6.1.4,1.0.1.2.7.4u
+ 10798 anlndex
+ 10821 tanlndex-
+ 10823 1.3.6.1.4,1.0.1.2.7.5
+ 10824 Fan normals
+ 10841 fanlndex.
+ 10855 negpoodgue]
+ 10856 Fen status
+ 10865 1.3.6.1.4.1.0.1.2.7.6*
+ 10866 change:
+ 10911 扫地僧
+ 10946 这是关于风扇的mib
+ 11007 扫地僧
+ 11043 我们也是摸着石头过河
+ 11089 Simon:好感谢
+ 11091 相信你们的实力哈哈
+ 11143 [Simon] 我自己也是觉得你们实力挺强的
+ 11194 [Simon] 我也认识一些技术，感觉很难评~～哈哈
+ 11200 [Simon] 我也认识一些技木，感觉很难评
+ 11200 [Simon] 哈哈
+ 11263 [Simon] 好
+ 11310 [Simon] 扫地僧：这是关于风扇的mib
+ 11356 扫地僧
+ 11436 Simon：我自己也是觉得你们实力挺强的
+ 11437 我也认识
+ 11458 一些技术，感觉很难评～～哈哈
+ 11501 扫地僧
+ 11539 多谢夸奖，我们继续努力
+ 11608 [Simon] 起加油 按Peter说法：一起赚美金A
+ 11672 扫地僧
+ 11771 2025-12-11 10:45
+ 11830 早上好陈工
+ 11853 请抽空看一下客户关于FAN MIB的反馈
+ 11879 1，这个output算正常吗 不太懂
+ 11904 2，OID=0这个和客户简单说了，看回复是希望用一个实际值，能否直接用Smartbyte的？
+ 11926 上次拿样时其实已经沟通过这个问题了，当时Peter让问客户的OID，问了客户也没直接回应
+ 11950 3，最后的speed status type问题
+ 11995 Hello Simon,
+ 12043 thank you.
+ 12092 We can see the fan data now but all other data from the sys tables are gone (cpu/memory/power state/
+ 12118 temperature)
+ 12139 See this snmp walk output:
+ 12162 # snmpbulkwalk -Cc -v2c -c public -m
+ 12185 ALL 2a00:e60:afff:2724:2c9a:11 .iso.org.dod.internet.private.enterprises.nms.nmsModule.sys
+ 12211 NMS-SYS-MIB:fanlndex.1 = INTEGER: 1
+ 12235 NMS-SYS-MIB:fanlndex.2 = INTEGER: 2
+ 12258 NMS-SYS-MIB:fanSpeedStatus.1 = INTEGER: low(1)
+ 12282 NMS-SYS-MIB::fanSpeedStatus.2 = INTEGER: low(1)
+ 12305 NMS-SYS-MIB:fanStatus.1 = INTEGER: normal(1)
+ 12331 NMS-SYS-MIB:fanStatus.2 = INTEGER: normal(1)
+ 12378 Also for these firmware/mibs you used enterprise ID=0 (probably what you mean with OlD=0) which is
+ 12403 reserved and our monitoring system doesn' t like using it at all.
+ 12471 Ltd." .
+ 12496 Not sure how this company is related to SmartByte/Saga? Is it an old company name of SmartByte?
+ 12521 Another OEM partner?
+ 12569 It would be great if you could provide the default firmware with a valid default enterprise ID (not O).
+ 12613 If 57430 (Fuzhou Dockeer Technology) is not under control of Smart Byte we would suggest to use the
+ 12639 SmartByte enterprise ID 56166.
+ 12661 It' s officially registered to"深圳l凌特华盛科技有限公司(Shenzhen Smartbyte Technology Co., Ltd.)" by
+ 12685 Shigan Chen (chenshigan@smartbyte.com.cn).
+ 12733 Also the fanSpeedStatus type is incomplete, in case of a failure it will be O which is not defined in the 
+ 12758 current MIB files:
+ 12779 fanSpeedStatus OBJECT-TYPE
+ 12804 SYNTAX INTEGER
+ 12851 low(1),
+ 12876 medium(2),
+ 12900 high(3)
+ 12969  Please add a mapping for value O (off/unknown/failure).
+ 13036 2025-12-11 10:59
+ 13082 扫地僧
+ 13114 好的，晚点看看
+ 13186 [Simon] OK A
+ 13254 2025-12-17 16:49
+ 13300 扫地僧
+ 13341 SWITCH-MIBS-
+ 13364 release-7.4.7-OID=0.docx
+ 13374 W
+ 13396 136.0K
+ 13432 微信电脑版
+ 13478 扫地僧
+ 13520 NMS-MIB-7.4.7-OID=0.zip
+ 13541 6
+ 13549 263.3K
+ 13585 微信电脑版
+ 13631 扫地僧
+ 13667 We can see the fan data now but all other data from the sys tables are gone (cpu/memory/power state/
+ 13695 temperature)
+ 13716 //修订了此问题
+ 13739 Also for these firmware/mibs you used enterprise ID=0 (probably what you mean with OID=0) which is 
+ 13766 reserved and our monitoring system doesn't like using it at all.
+ 13786 //建议使用smartbyte，56166这个0lD
+ 13810 Please add a mapping for value O (off/unknown/failure).
+ 13836 //已经添加
+ 13894 扫地僧
+ 13930 @Simon
+ 14002 [Simon] 好感谢
+ 14061 扫地僧
+ 14104 ac5-hotfix-7.4.7.bin
+ 14134 55.7M
+ 14170 微信电脑版
+ 14218 2025-12-17 17:00
+ 14276 [Simon] 好
+ 14342 2025-12-18 09:13
+ 14396 [Simon] 早上好
+ 14467 Hello Simon,
+ 14492  can you double check the firmware file you sent, while it has another checksum compared to the previously
+ 14517  one you sent when installing it shows the same version/build date (last week):
+ 14615 [Simon] hotfs/74.7 (r1540 af525c9) 2025-12-11 17:09:22
+ 14647 [Simon] hotfis/7.4.7 (r1540 af525c9) 2025-12-11 17:09:22
+ 14713 We tried installing it via console and web interface, same result.
+ 14739 Vendor OlD is still O:
+ 14763 sw11xxx#show version
+ 14784 Software Version: hotfix/7.4.7 (r1540 af525c9)
+ 14810 Release Date: 2025-12-11 17:09:22
+ 14832 System MAC Address: fc:cd:2f:d0:4f:db
+ 14857 PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001
+ 14881 Vendor oid: 0
+ 14903 SHA256 checksums for comparison:
+ 14928 413c48c402c15a83fecb3ab4bff4743ebe1088766574f219313a93144a287149 ac5-hotfix-7.4.7(1).bin (new
+ 14950 file you sent today)
+ 14975 4460d53bdf91dd1ef46896666093a6837eb838e975b19f1a2bdba7580c968935 ac5-hotfix-7.4.7.bin (old file
+ 14999 from last week)
+ 15069 [Simon] 请抽空看一下这个A
+ 15135 2025-12-18 10:15
+ 15183 扫地僧
+ 15218 昨天没有描述清楚，应该是让客户继续用oid=0来验证一下。
+ 15278 扫地僧
+ 15313 那没关系，今天我再发个可以修改oid的文件，把oid改成56166
+ 15383 [Simon] 好麻烦了非常感谢
+ 15450 2025-12-18 10:57
+ 15496 扫地僧
+ 15728 扫地僧
+ 15763 我模拟客户用上周和这次的版本各升级了一次，两次release号是不一样的，是不是客户又多升级了一次
+ 15825 扫地僧
+ 15862 这个应该不是问题，可以不用解释，我们保证版本是对的就行
+ 15922 扫地僧
+ 16116 扫地僧
+ 16155 STC-4168XGGCM.zip
+ 16189 1.6K
+ 16224 微信电脑版
+ 16270 扫地僧
+ 16307 让客户升级这个文件，升级方法如图片1，2，3，4步骤
+ 16347 扫地僧:STC-4168XGGCM.zip
+ 16426 扫地僧
+ 16459 ver
+ 16470 rsion: hotfix/7.4.7 (r1540 af525c9)
+ 16484 e: 2025-1211 17:09:22
+ 16497 Address: 8c:ae:49:d1:21:73
+ 16510 68XGGCM,Hardware Version:1.0, Serial Numbe
+ 16525 56166
+ 16582 扫地僧
+ 16615 升级之后0ID就变成56166了
+ 16682 2025-12-18 11:02
+ 16735 [Simon] 好
+ 16808 [Simon] 其他的就没啥操作了吧?
+ 16869 扫地僧
+ 16905 嗯
+ 16974 [Simon] 好的
+ 17034 扫地僧
+ 17069 麻烦了
+ 17143 [Simon] 小感谢 麻烦你们了一直以来支持非常好
+ 17203 扫地僧
+ 17377 2/9 16:23
+ 17432 下午好陈工@扫地僧
+ 17588 白
+ 17589 [Simon] Send

@@ -1,0 +1,373 @@
+    17 Peter hu、扫地僧(3)
+    69 2025-6-26 18:10
+   131 [Simon] 群聊的聊天记录
+   160 [Simon] Simon：5，之前谈的那个大项目，客户同
+   182 [Simon] 事问了一个比较棘手的东西在这个项目中
+   200 [Simon] 有一个独立的IOT板子（和我们的交换机
+   220 [Simon] 没直接关系）HiSimon,Id love toh
+   249 [Simon] Chat History
+   547 2025-6-26 18:10
+   606 [Simon] PC0012_Saga(1).7z
+   637 [Simon] 8.8M Not Downloaded
+   673 [Simon] 微信电脑版
+   727 [Simon] @扫地僧
+   797 [Simon] 陈工 请抽空看一下客户发的文件
+   859 扫地僧
+   895 好的
+   967 [Simon] 看看还需要客户那边如何处理这种板子我啥也不懂
+  1035 [Simon] 需要确认啥等等直接列点给我 我转给客户就行了
+  1097 扫地僧
+  1130 我先看看
+  1202 1- We will probably need 1,000 to 2,000 units to be manufactured.
+  1228 2- We plan to provide the PCB board ( a 6-layer board)
+  1250  3- We need a manufacturing factory to procure the components in the BoM and install the componenets 
+  1277 on the PCB boards
+  1299 4- We will need a metal outside casing to be manufactured.
+  1322 5- We will need both parts to be assembled together to form a finished product (a simple loT controller in
+  1346 this case)
+  1416 这是客户的回复是和这次出货的6台TT-2208-PG（样品）是同一个大项目里的需求产品
+  1532 [Simon] 扫地僧：我先看看
+  1585 2025-6-26 18:51
+  1629 扫地僧
+  1665 感觉还行，最好客户给个高清的实物图片，这样方便我们找物料
+  1735 [Simon] 还需要其他啥信息吗？
+  1794 扫地僧
+  1832 有些物料需要替换，有高清实物图片，能保证我们替换正确
+  1892 扫地僧
+  1925 没有了，
+  1998 [Simon] 这个替换是因为啥？国内没相关物料或者啥的
+  2058 扫地僧
+  2262 扫地僧
+  2297 是的
+  2342 Simon：这个替换是因为啥？国内没相关物料或者啥的
+  2400 [Simon] 好的我和客户沟通一下式
+  2461 扫地僧
+  2498 另外，这块板上，应该是还有模块扣在上面的
+  2557 扫地僧
+  2591 那些模块是否也需要我们采购呢
+  2653 扫地僧
+  2690 先要到图片，我们再问上面的问题
+  2759 [Simon] 这个在gerber文件或者图案上体现出来了?
+  2806 [Simon] 扫地僧：另外，这块板上，应该是还有模块扣在上面的
+  2860 [Simon] OK
+  2908 [Simon] 扫地僧：先要到图片，我们再问上面的问题
+  2957 2025-6-26 20:06
+  3011 Hi Simon, we do not have a sample yet, so no hi-def photo :-( unfortunately.
+  3059  au o uos s sao ae sn s no ss aa sno 'sia a so 
+  3107  Please use BoM file as the reference of the materials. Hope this helps.
+  3195 2025-6-26 20:48
+  3242 扫地僧
+  3278 好的
+  3342 2025-6-26 21:06
+  3389 扫地僧
+  3426 但是这个事情就奇怪了，客户连样品都没有，那咋验收啊
+  3487 扫地僧
+  3521 我们就凭光绘和bom就把产品搞出来。。
+  3582 扫地僧
+  3619 客户之前总有用过这个产品吧
+  3680 扫地僧
+  3715 如果客户没有用过，能把需求提出来，我们自己设计也行啊，板子很简单
+  3784 [Simon] 我问一下他啥情况吧
+  3849 2025-6-26 21:10
+  3895 扫地僧
+  3932 嗯
+  4005 [Simon] 心
+  4063 扫地僧
+  4100 有点像是之前找了一家定制，后面没合作了
+  4158 扫地僧
+  4192 项目就没做完
+  4200 项目就没做完
+  4338 [Simon] 直说的都是这个
+  4379 [Simon] Simon：这是客户的回复是和这次出货的6台TT-2208-
+  4402 [Simon] PG（样品）是同一个大项目里的需求产品
+  4460 [Simon] 直说是终端客户TurkTelekom大项目里的东西
+  4528 [Simon] 我问一下他啥情况
+  4589 扫地僧
+  4624 玄乎
+  4690 2025-6-26 21:16
+  4747 [Simon] 先看看客户咋说
+  4812 2025-6-26 21:38
+  4866 Hi Simon, that' s true. This is a brand new board.
+  4913 What i can suggest is that we can leave 2 engineers communicate directly over WeChat if that moves 
+  4939 faster.
+  4986 Our hardware chief engineer Mehmet has a WeChat account.
+  5058 Mehmet应该是他们最核心的技术了他之前提过，这个mehmet会来验厂
+  5118  Peter hu
+  5152 原来的设计和BOM客户是哪里来的呢？
+  5220 [Simon] 没问这个
+  5294 能否我先加上这个技术的微信把他拉群里直接沟通 沟通完了再移除出去?
+  5353 "Peter hu"recalled a message
+  5403 2025-6-26 21:43
+  5445 Peter hu
+  5484 主要看扫地僧晚上的时间是否合适，最近他晚上有些事情
+  5553 [Simon] 这个项目没那么着急啥时候有空回复就行
+  5611 Peter hu
+  5649 @扫地僧有时间的时候请跟我们讲一声入
+  5710 扫地僧
+  5747 先不着急直接沟通，先把板子功能需求要到一下
+  5816 [Simon] 我先加上他们技术微信简单对接一下吧
+  5875 扫地僧
+  5912 好
+  5977 2025-6-26 21:59
+  6242 [Simon] 他直接拉了群。
+  6312 [Simon] 我先大概问问吧
+  6371 扫地僧
+  6407 好
+  6469 扫地僧
+  6505 了解一下来龙去脉
+  6571 2025-6-26 22:04
+  6625 [Simon] OK
+  6690 2025-6-26 22:12
+  6753 [Simon] 群聊的聊天记录
+  6782 [Simon] Simon: Hi, Levent. Thanks
+  6802 [Simon] Simon: we got a few questions now
+  6821 [Simon] Simon: 1, as you mentioned, this is a
+  6843 [Simon] new board, so that BOM file is just or..
+  6872 [Simon] Chat History
+  6930 [Simon] 请看一下
+  7000 2025-6-26 22:12
+  7056 [Simon] 现在比较晚了
+  7127 [Simon] 要不明天再谈？
+  7201 [Simon] 群聊的聊天记录
+  7232 [Simon] Taylan Esen: The board collect
+  7253 [Simon] environmentalinformationssuch as
+  7270 [Simon] temperature,humidity, door status
+  7292 [Simon] etc. There are relays to trigger extern..
+  7321 [Simon] Chat History
+  7379 2025-6-26 22:35
+  7424 Peter hu
+  7463 技术我不懂，可以在商务的角度问下客户对于这个设备的采购目标价，因为客户也说了有些物料可以更换，但是我们
+  7486 需要知道客户的整体价格预期才能去判断换什么规格和档次的物料
+  7554 [Simon] 好
+  7625 [Simon] 包括他说的测试
+  7693 [Simon] 这一般都是先做一小批测试
+  7765 [Simon] 没问题了再量产
+  7825  Peter hu
+  7862 肯定的，一定是先小批量
+  7932 [Simon] 这个小批量样品对于费用也会有比较大的影响吧？
+  7992 Peter hu
+  8025 小批量样品会比大批量贵
+  8088 Peter hu
+  8123 主要是PCB以及贴片费分摊贵一些
+  8194 [Simon] 也是根据预算以及供应商的样品收费来综合处理吧？
+  8255  Peter hu
+  8289 是的
+  8361 [Simon] 商务上再问问交期 还有啥别的吗
+  8430 [Simon] 定金？
+  8496 2025-6-26 22:40
+  8542 Peter hu
+  8579 还没有到定金那一步，先确定预期目标价就可以
+  8638 Peter hu
+  8671 等技术沟通清楚了再谈定金
+  8743 [Simon] 好
+  8810 2025-6-26 22:50
+  8856 扫地僧
+  8893 既然是客户自己设计的，那问客户要一下原理图
+  8953 扫地僧
+  8988 那事情就比较简单了，我们照着设计资料来生产就可以
+  9053 2025-6-26 23:04
+  9108 [Simon] 技术上
+  9133 [Simon] 要一下原理图
+  9157 [Simon] 按照BOM信息和原理图直接对照生产即可
+  9203 [Simon] 目前需要替换的物料多吗？
+  9228 [Simon] 这会牵涉到费用
+  9275 [Simon] 商务上
+  9298 [Simon] 直接问预算，结合替换物料的情况
+  9323 [Simon] 后续问一下样品大概需要多少量
+  9348 [Simon] 最后再谈交期定金啥
+  9407 Peter hu
+  9441 先这样聊吧
+  9512 [Simon] 好
+  9578 2025-6-27 17:03
+  9637 [Simon] SC0012-000.pdf
+  9658 [Simon] PDF
+  9670 [Simon] 2.0M Not Downloaded
+  9706 [Simon] 微信电脑版
+  9761 [Simon] 目标价100美金
+  9831 [Simon] Connexite LTD. 这是客户注册的英国公司
+ 10028 [Simon] 之前和Peter提过
+ 10100 [Simon] 请看看如何往下进行
+ 10165 2025-6-27 17:40
+ 10209 Peter hu
+ 10246 等扫地僧有空了再评估下可行性
+ 10317 [Simon] OK
+ 10384 2025-6-30 14:45
+ 10437 1- We will probably need 1,000 to 2,000 units to be manufactured.
+ 10460  2- We plan to provide the PCB board ( a 6-layer board)
+ 10484  3- We need a manufacturing factory to procure the components in the BoM and install the componenets 
+ 10511 on the PCB boards
+ 10532 4- We will need a metal outside casing to be manufactured.
+ 10555  5- We will need both parts to be assembled together to form a finished product (a simple loT controller in
+ 10583 this case)
+ 10628 下午好
+ 10651 上边是客户之前的回复
+ 10677 是需要一个外壳的
+ 10724 客户是想把PCB放在我们现有的工业交换机外壳中
+ 10747 也就是大概率需要改PCB板了
+ 10795 客户问能否我们直接画PCB板，结合我们的外壳来出货？
+ 10854 扫地僧
+ 10891 我们现有的壳没有空间放其他PCB了，而且客户的板子不小呢
+ 10951  Peter hu
+ 10987 应该不是集成吧
+ 11045 Peter hu
+ 11081 是需要单独的壳子
+ 11152 [Simon] 不是集成 单独的壳子
+ 11225 we will eventually need to place the board in a casing to become a product.
+ 11294 [Simon] 就是一个单独的产品
+ 11354  Peter hu
+ 11390 这个板子假如是我们自己来画的话，那就是一个ODM产品了
+ 11449 Peter hu
+ 11485 请问客户1000-2000是一次性订单吗？
+ 11546 扫地僧
+ 11581 客户目标价格100美金
+ 11641 Peter hu
+ 11677 是的
+ 11746 2025-6-3014:50
+ 11799 我和客户确认过几次了，反馈是
+ 11824 这个板子和我们的交换机不挂钩，是独立的产品，但是都用于这个Turk Telekom的项目
+ 11871 1，这次采购量是1000~2000台，根据之前的沟通，客户后续还会继续买
+ 11895 2，目标价100美金
+ 11919 3，希望是放在一个外壳里，为了节省费用，客户提出了放在我们现有的交换机外壳中
+ 11941 是想我们能否直接改板子，这样更有效率
+ 12004 扫地僧
+ 12039 那时间跨度就比较久了，我还要先安排时间，最近都没空
+ 12100 扫地僧
+ 12134 客户能等不
+ 12204 我问一下
+ 12229 1，如果我们画板，大概需要多久，另外也要考虑打样时间等
+ 12254 2，客户那边也能改，可能需要我们的外壳信息（cad图啥的），他们对照着改
+ 12311 Peter hu
+ 12350 完全按照我们的外壳去改应该不现实吧，因为交换机的接口形态跟这个产品不一样
+ 12420 [Simon] 可能换个面板啥的吧
+ 12479  Peter hu
+ 12514 客户需要多大的壳？
+ 12575  Peter hu
+ 12610 我们有不同的机壳
+ 12682 [Simon] 从技术上看哪款外壳更接近呢？@扫地僧
+ 12742 扫地僧
+ 12774 还没到这一步呢，只是打开光绘看了一眼
+ 12843 2025-6-30 14:56
+ 12897 目前客户并没说具体大小尽量是稍微改板+我们的外壳这样工作量小整个单子进度快
+ 12960  Peter hu
+ 12997 @Simon假如是我们设计，你也可以问下客户他的期望交样品时间是什么时候？你可以说我们工程师现在有其它项目在忙
+ 13038 扫地僧：客户能等不
+ 13097 要不一直拖也没啥意思 这个单子按照100美金 1K~2K台金额也50万+了 能快速推进最好
+ 13166 [Simon] OK 都会给客户说的 问问希望的尺寸 交期
+ 13210 [Simon] Peterhu:@Simon假如是我们设计，你也可以问下客
+ 13231 [Simon] 户他的期望交样品时间是什么时候？你可以说我们工.
+ 13277 Peter hu
+ 13312 是的
+ 13581  Peter hu
+ 13615 土耳其人做事风格感觉跟印度人有点像
+ 13681 2025-6-30 14:58
+ 13726 Peter hu
+ 13765 他急的时候非常急，他不急的时候你怎么催他也没用（
+ 13835 [Simon] 哈哈已经体验过过山车了。。1万到最后500
+ 13890 Peter hu
+ 13930 所以不要抱太大希望
+ 13976 Simon：要不一直拖也没啥意思这个单子按照100美金
+ 13996 1K~2K台金额也50万+了能快速推进最好
+ 14053 [Simon] 我再问问客户啥情况不过感觉也不是特别急
+ 14121 [Simon] OK
+ 14188 2025-7-1 18:58
+ 14243 1，目前根据客户发的信息(PC0012_Saga+SC0012-000)
+ 14265 应该是可以出BOMlist和评估价格了吧？
+ 14314 2，关于外壳
+ 14338 客户目前的回复是
+ 14361 2.1：暂时不改板子，看看能否在我们现有的交换机外壳上做一些改动来装板子
+ 14386 如果不合适或者很麻烦
+ 14433 则
+ 14458 2.2：直接生产板子，客户测试通过后自行处理板子
+ 14481 We will need 10-15 samples within 3-4 weeks for the iot board, then we expect an order or 1,000
+ 14503 Now let's focus on BOM list and cost pls
+ 14572 [Simon] 自行处理外壳
+ 14633 扫地僧
+ 14670 能不能让客户把交换机单先下过来！
+ 14736 2025-7-1 19:04
+ 14791 [Simon] 那个大单子Turk Telekom的?
+ 14853 扫地僧
+ 14948 扫地僧
+ 14984 是一个客户吧
+ 15052 [Simon] 是的上次下单的6台还没收到客户需要测AC5方案。
+ 15126 [Simon] 这个loT板子目前是没时间来搞还是啥？
+ 15186 扫地僧
+ 15222 主要是这块板不是我们主业，很多东西也不熟
+ 15281 扫地僧
+ 15316 需要花比较都的时间去弄
+ 15377  Peter hu
+ 15413 @Simon我们语音沟通下
+ 15473 Peter hu
+ 15510 那晚上9点吧，我等下在开车
+ 15578 [Simon] 好
+ 15645 2025-7-1 19:10
+ 15699 [Simon] 在PC0012_Saga+SC0012-000基础上
+ 15747 [Simon] 技术上，基本不需要确认啥了吧?
+ 15773 [Simon] 就是直接出bom单评估成本？还是有啥额外的步骤呢?
+ 15821 [Simon] 如果是，我可以跟客户沟通，让客户那边出BOM单
+ 15844 [Simon] 我们直接核对 采料就行了
+ 15907 2025-7-25 09:50
+ 15962 早上好
+ 15988 客户说是要把LT-IS6310GP-2GX8GT设备写入他们自己的管理平台
+ 16012 这个管理平台也包括他们自己的信息等
+ 16058 反馈是
+ 16083 SNMPv3写码时有点问题，v2是OK
+ 16107 客户想要
+ 16132 Can you please help me with SNMP v3 config.
+ 16155  we need a full configuration guide to add into the management system page by page
+ 16201 我问了一下客户具体情况
+ 16225 客户发来了2个图
+ 16549 [Simon] 这个还需要和客户确认啥不
+ 16610 扫地僧
+ 16646 我转给软件一下
+ 16715 [Simon] hao
+ 16781 2025-7-25 12:20
+ 16827 扫地僧
+ 16983 扫地僧
+ 17017 用户名错误(tt-user需改成tt-test)，SHA认证密码错误(privpass需改成authpass)
+ 17077 扫地僧
+ 17112 客户配置错了，改一下就可以获取了
+ 17179 2025-7-25 12:47
+ 17229 [Simon] 好儿。
+ 17299 2025-9-10 21:28
+ 17345 Peter hu
+ 17383 @扫地僧请问我们AC520光+8Combo的有在进行了吗？
+ 17449 2025-9-10 21:28
+ 17495  Peter hu
+ 17533 Hdl Simor.
+ 17602 CFeter hu
+ 17676 扫地僧
+ 17713 有
+ 17772 扫地僧
+ 17807 在测试中
+ 17869 Peter hu
+ 17904 请问大概什么时候可以送样呢？
+ 17967 扫地僧
+ 18002 台的话，研发样机可以出
+ 18062 扫地僧
+ 18098 多的话就没有了
+ 18158 Peter hu
+ 18192 客户需要的双电源状态检测/风扇状态检测有加上去不？
+ 18254 扫地僧
+ 18289 已经有了
+ 18352 Peter hu
+ 18385 好的
+ 18447 Peter hu
+ 18483 @Simon
+ 18543 扫地僧
+ 18580 双电源不知道有机壳没
+ 18650 [Simon] 好的 明天见面沟通一下 不着急给客户回复
+ 18710  Peter hu
+ 18747 这是最新状态，假如需要样机就送研发样机给客户测试
+ 18814 [Simon] OK
+ 18876  Peter hu
+ 18912 明天见面聊
+ 19206 这是之前的出货图 带Combo这个 当时已经改了机壳 看看你们改动了没
+ 19323 [Simon] Peterhu:明天见面聊
+ 19374 2025-9-1118:47
+ 19431 请问这个样机是否有测试视频等信息显示支持fan monitoring/dual PSU status monitoring.?
+ 19491 扫地僧
+ 19525 可以安排
+ 19596 感谢请抽空搞一个视频或者图片 来显示支持该功能 比如用手机拍个短视频或者视频截图一下GUI 命令行啥的
+ 19600 感谢请抽空搞一个视频或者图片来显示支持该功能比如用手机拍个短视频或者视频截图一下GUI命令行啥的
+ 19725 X日
+ 19730 [Simon] Send
