@@ -7,3 +7,52 @@
 [08:25:27] pdftotext: 0
 [08:25:27] downloads total 0.0 MB → committed to git: True
 [08:25:27] images stop: complete; ok 0/0 (+0 this run), 0.0 MB this run
+===== run 3 =====
+[08:38:25] run 3 start; resume=True; budget 140.0 min; max_pages 1500; delay 0.8s
+[08:38:27] probe archiver https://www.smartbyte-switch.com/ → 200
+[08:38:27] access mode = requests (archiver) base https://www.smartbyte-switch.com/
+[08:38:27] resume: pages_done=0 queue=1 (retry 1) downloads=0 images=0
+[08:38:28] sitemap: 303 loc, 299 new seeds
+[08:39:07] pages 25 (+25 this run) queue 285 downloads 0 images 2 elapsed 0.7 min
+[08:39:38] pages 50 (+50 this run) queue 279 downloads 6 images 2 elapsed 1.2 min
+[08:40:12] pages 75 (+75 this run) queue 254 downloads 31 images 2 elapsed 1.8 min
+[08:41:40] pages 100 (+100 this run) queue 229 downloads 56 images 2 elapsed 3.2 min
+[08:42:31] pages 125 (+125 this run) queue 204 downloads 80 images 2 elapsed 4.1 min
+[08:43:20] pages 150 (+150 this run) queue 179 downloads 105 images 2 elapsed 4.9 min
+[08:44:08] pages 175 (+175 this run) queue 154 downloads 130 images 2 elapsed 5.7 min
+[08:44:52] pages 200 (+200 this run) queue 129 downloads 155 images 2 elapsed 6.4 min
+[08:45:43] pages 225 (+225 this run) queue 104 downloads 180 images 2 elapsed 7.3 min
+[08:46:36] pages 250 (+250 this run) queue 79 downloads 205 images 2 elapsed 8.2 min
+[08:47:24] pages 275 (+275 this run) queue 54 downloads 230 images 2 elapsed 9.0 min
+[08:47:59] pages 300 (+300 this run) queue 29 downloads 245 images 2 elapsed 9.6 min
+[08:48:09] HTTP 404 https://www.smartbyte-switch.com/Unmanaged-Industrial-Switch
+[08:48:10] HTTP 404 https://www.smartbyte-switch.com/Industrial-Boost-Power-Adaptor
+[08:48:29] pages 325 (+325 this run) queue 16 downloads 245 images 2 elapsed 10.1 min
+[08:48:57] pages 350 (+350 this run) queue 0 downloads 245 images 2 elapsed 10.5 min
+[08:48:57] BFS stop: complete (queue empty); pages=350 (+350) downloads=245 images=2
+[08:49:30] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100%2F1000M+Media+Converters+Enhanced+Function+with+Dip+switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2NDIwMDZhNDRkMmQ4YWFiYzkucGRm: HTTP 403
+[08:50:02] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100%2F1000M+Media+Converters+Enhanced+Function+with+Dip+switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMjA5MjcwMTZhNDViZTY1ZTM2NTUucGRm: HTTP 403
+[08:50:35] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100M+Media+Converters+Enhanced+Function+With+Dip+Switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2MjUwMTZhNDRjZWRkMGE3YzgucGRm: HTTP 403
+[08:51:07] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10G+Media+Converter&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2NDk1OTZhNDRkNGI3NTA0YzIucGRm: HTTP 403
+[08:51:39] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1000Base-X++Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyODE2MjA1ODZhNDBkOTZhMTFkYWEucGRm: HTTP 403
+[08:52:12] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMjE3MTQ1MjZhMzhmZDBjOGRjZTUucGRm: HTTP 403
+[08:52:45] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+PoE+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyNDE3MjYxNDZhM2JhMmI2ZWIyZTgucGRm: HTTP 403
+[08:53:17] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+PoE+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYzMDE3MzE1NTZhNDM4ZDBiMmM1YTgucGRm: HTTP 403
+[08:53:50] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYzMDE3MzQwMzZhNDM4ZDhiOTY3MzMucGRm: HTTP 403
+[08:54:22] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxOTE2MzA0ODZhMzRmZTM4YmRkN2UucGRm: HTTP 403
+[08:55:13] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+Ethernet+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMjE3MzQ0NzZhMzkwMWI3NzNmNDcucGRm: HTTP 403
+[08:55:46] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+PoE+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1MjQzNDZhNjFjMWIyNGJlOWUucGRm: HTTP 403
+[08:56:18] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+Ethernet+Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMzA5NDIyMjZhMzllNDdlOTM4YWUucGRm: HTTP 403
+[08:56:50] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+Ethernet+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMzA5NDY0ODZhMzllNTg4MWI4ZDAucGRm: HTTP 403
+[08:57:23] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+PoE+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1MTQxNjZhNjFiZjQ4MTExN2YucGRm: HTTP 403
+[08:57:55] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L2++Managed+Industrial+PoE+++Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE2MDcyNDZhNjFjYmJjMmMzNzEucGRm: HTTP 403
+[08:58:27] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L2++Managed+Industrial+PoE+++Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyODA3MjExNDZhNDA1YWVhMzdlM2MucGRm: HTTP 403
+[08:59:00] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L2++Managed+Industrial+PoE+Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1Mjg0MjZhNjFjMmFhNmJkZTcucGRm: HTTP 403
+[08:59:33] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+++Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1NTY1NjZhNjFjOTQ4MDIxMzcucGRm: HTTP 403
+[09:00:06] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+++Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1NTQ0NTZhNjFjOGM1MDliY2UucGRm: HTTP 403
+[09:00:39] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1MjYwOTZhNjFjMjExMzVjYWUucGRm: HTTP 403
+[09:01:11] DL FAIL https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+Ethernet+Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxOTE2Mzc1MDZhMzRmZmRlYzQ2YzgucGRm: HTTP 403
+[09:01:11] downloads stop: blocked (221 left) → resume later; ok 2/24 (+24 this run), 0.0 MB
+[09:01:11] pdftotext: 0
+[09:01:11] downloads total 0.0 MB → committed to git: True
+[09:01:11] images stop: blocked (2 left) → resume later; ok 0/0 (+0 this run), 0.0 MB this run

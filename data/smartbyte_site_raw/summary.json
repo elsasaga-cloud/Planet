@@ -1,27 +1,69 @@
 {
-  "crawled_at": "2026-10-20T08:25:27Z",
+  "crawled_at": "2026-10-20T09:01:11Z",
   "host": "www.smartbyte-switch.com",
-  "complete": true,
-  "pages_total": 1,
-  "pages_ok": 0,
+  "complete": false,
+  "blocked": false,
+  "access": {
+    "mode": "requests",
+    "profile": "archiver",
+    "base": "https://www.smartbyte-switch.com/"
+  },
+  "refused": {
+    "pages": 0,
+    "downloads": 22,
+    "images": 0
+  },
+  "refused_sample": {
+    "pages": [],
+    "downloads": [
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100%2F1000M+Media+Converters+Enhanced+Function+with+Dip+switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2NDIwMDZhNDRkMmQ4YWFiYzkucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100%2F1000M+Media+Converters+Enhanced+Function+with+Dip+switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMjA5MjcwMTZhNDViZTY1ZTM2NTUucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100M+Media+Converters+Enhanced+Function+With+Dip+Switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2MjUwMTZhNDRjZWRkMGE3YzgucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10G+Media+Converter&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2NDk1OTZhNDRkNGI3NTA0YzIucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1000Base-X++Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyODE2MjA1ODZhNDBkOTZhMTFkYWEucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMjE3MTQ1MjZhMzhmZDBjOGRjZTUucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+PoE+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyNDE3MjYxNDZhM2JhMmI2ZWIyZTgucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+PoE+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYzMDE3MzE1NTZhNDM4ZDBiMmM1YTgucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYzMDE3MzQwMzZhNDM4ZDhiOTY3MzMucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++2%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxOTE2MzA0ODZhMzRmZTM4YmRkN2UucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+Ethernet+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMjE3MzQ0NzZhMzkwMWI3NzNmNDcucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L2++Managed+Industrial+PoE+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1MjQzNDZhNjFjMWIyNGJlOWUucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+Ethernet+Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMzA5NDIyMjZhMzllNDdlOTM4YWUucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+Ethernet+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMzA5NDY0ODZhMzllNTg4MWI4ZDAucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP+++L3+Managed+Industrial+PoE+Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1MTQxNjZhNjFiZjQ4MTExN2YucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L2++Managed+Industrial+PoE+++Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE2MDcyNDZhNjFjYmJjMmMzNzEucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L2++Managed+Industrial+PoE+++Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyODA3MjExNDZhNDA1YWVhMzdlM2MucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L2++Managed+Industrial+PoE+Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1Mjg0MjZhNjFjMmFhNmJkZTcucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+++Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1NTY1NjZhNjFjOTQ4MDIxMzcucGRm",
+      "https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+++Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1NTQ0NTZhNjFjOGM1MDliY2UucGRm"
+    ],
+    "images": []
+  },
+  "pages_total": 350,
+  "pages_ok": 348,
   "pages_failed": [
-    "https://www.smartbyte-switch.com/"
+    "https://www.smartbyte-switch.com/Unmanaged-Industrial-Switch",
+    "https://www.smartbyte-switch.com/Industrial-Boost-Power-Adaptor"
   ],
   "pages_stop": "complete (queue empty)",
   "queue_left": 0,
-  "downloads_total": 0,
-  "downloads_ok": 0,
-  "downloads_left": 0,
-  "downloads_stop": "complete",
-  "downloads_bytes": 0,
+  "downloads_total": 24,
+  "downloads_ok": 2,
+  "downloads_left": 221,
+  "downloads_stop": "blocked (221 left) → resume later",
+  "downloads_bytes": 90,
   "pdfs_committed": true,
   "pdf_text_files": 0,
   "images_total": 0,
   "images_ok": 0,
-  "images_left": 0,
-  "images_stop": "complete",
+  "images_left": 2,
+  "images_stop": "blocked (2 left) → resume later",
   "images_bytes_this_run": 0,
-  "external_hosts": {},
+  "external_hosts": {
+    "cdn-hk.wds168.cn": 1,
+    "gcdn.meidianbang.cn": 347,
+    "img-for-hk.wds168.cn": 1
+  },
   "runs": [
     {
       "run": "2",
@@ -38,11 +80,27 @@
       "pages_stop": "complete (queue empty)",
       "downloads_stop": "complete",
       "images_stop": "complete"
+    },
+    {
+      "run": "3",
+      "started": "2026-10-20T08:38:25Z",
+      "resumed": true,
+      "budget_min": 140.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-20T09:01:11Z",
+      "elapsed_s": 1366,
+      "pages_new": 350,
+      "downloads_new": 24,
+      "images_new": 0,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "blocked (221 left) → resume later",
+      "images_stop": "blocked (2 left) → resume later"
     }
   ],
-  "elapsed_s": 59,
+  "elapsed_s": 1366,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
   "time_budget_min": 140.0,
-  "how_to_continue": null
+  "how_to_continue": "未抓完（被拒 403/429/网络错误 22 个；页面阶段 complete (queue empty)；附件 blocked (221 left) → resume later；图片 blocked (2 left) → resume later）：在 GitHub Actions 页对 SmartByte site archive 点 Run workflow（或再推一次 crawl.py），会从 crawl_state.json 续抓并重试失败项"
 }
