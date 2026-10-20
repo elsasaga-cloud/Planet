@@ -139,7 +139,7 @@ updated: 2026-10-20
 **主题**：24-port PoE+ switch for AV racks, second source to GS-4210-24P4C
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Sound People lists 37 PLANET network products next to Luxul for AV installs, so a 24-port PoE+ at a lower price point fits the racks you already build.
 

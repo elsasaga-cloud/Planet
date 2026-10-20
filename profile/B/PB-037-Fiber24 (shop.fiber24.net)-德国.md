@@ -151,7 +151,7 @@ updated: 2026-10-20
 **主题**：Own-brand industrial PoE+ switch for the Fiber24 range
 
 ```text
-Hi —（网店）,
+Hi there,
 
 You sell PLANET's IGS-5225 line next to your own-brand products; a neutral-packed industrial PoE+ switch under the Fiber24 label is the natural next step.
 

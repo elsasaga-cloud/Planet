@@ -152,7 +152,7 @@ updated: 2026-10-20
 **主题**：Second-source industrial 8-port PoE+ for the Coel catalogue
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line.
 

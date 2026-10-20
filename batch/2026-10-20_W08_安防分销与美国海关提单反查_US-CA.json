@@ -237,16 +237,16 @@
    "city": "Burnaby, BC",
    "website": "linhawstore.com",
    "type": "分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）",
-   "signal": "linhawstore.com「POE Devices」类目厂商筛选 Planet (10)、「Antennas」Planet (1)；美国海关提单（ImportGenius / ImportYeti）：供应商 PLANET Technology Corp → 进口商 LIN HAW INTL CO LTD 共 24–35 票（Gigabit Ethernet Switch / Fast Ethernet Switch）；同时从 SAFEWELL GROUP / EPNEW ELECTRONICS（中国 OEM）进口",
-   "own_brand": "否（未见；待补证）",
-   "angle": "自己走海运直接进口 PLANET 交换机（不经 Globall/PTUSA）且已从中国 OEM 进口 → 有进口链路、接受中国货源；Saga EXW + 中性包装模式直接契合，作其 PoE 交换机第二货源",
+   "signal": "【W09 更正】美国海关提单（ImportGenius / ImportYeti）：供应商 PLANET Technology Corp → 进口商 LIN HAW INTL CO LTD 共 24–35 票（品名 Gigabit Ethernet Switch / Fast Ethernet Switch；逐票日期在付费墙后，未证实为近期）；同时从 SAFEWELL GROUP / EPNEW ELECTRONICS（中国 OEM）进口。站内「POE Devices … Planet (10)」为 2015 年旧 Magento 页（W09 回查已 404），当前 Odoo 商城品牌墙（70 余品牌）无 Planet，自有品牌 PC Cable World 549 件、Netgear 49 / TP-Link 28 / Ubiquiti 239 → PLANET 现售证据不足（待补证）",
+   "own_brand": "是（PC Cable World：站内 549 件，以线缆/配件为主；是否含交换机待补证）",
+   "angle": "【W09 更正】曾直接从 PLANET 海运进口交换机（不经 Globall/PTUSA）且已从中国 OEM 进口、经营自有品牌 PC Cable World → 有进口链路、接受中国货源、有自有品牌运营经验；当前货架 PoE 交换机为 Netgear / TP-Link / Ubiquiti → Saga 以 EXW + 中性包装/PC Cable World 贴牌两种方式切入其 8/24 口 PoE 管理型档",
    "p1": "STC-28DGGPM",
    "p1_reason": "其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步",
    "tier": 0.2,
    "tier_reason": "分销商 → 20%",
    "priority": "★★",
    "rating": "B",
-   "rating_basis": "需求：PLANET 直接进口商（海关提单）+ 站内 PLANET PoE 设备 10 款在售；触达：sales@linhaw.com（官网页脚公开）/ 604-325-8880，具名 Sales Manager Rob Baerg 仅见第三方名录（Frasers / ZoomInfo，无公开邮箱 → 待核，不猜）；体量小（17 人），可赢；加拿大在区域内 → B",
+   "rating_basis": "【W09 更正】需求：PLANET 直接进口商（海关提单，日期未证实）+ 自有品牌 + 中国 OEM 进口史 + 当前经营 Netgear/TP-Link/Ubiquiti 交换机；触达：sales@linhaw.com（官网页脚公开）/ 604-325-8880，具名 Sales Manager Rob Baerg 仅见第三方名录（无公开邮箱 → 待核，不猜）；体量小（17 人），可赢；加拿大在区域内 → B 维持。注意：PLANET 现售证据不足，首触话术不以「你在卖 PLANET」为前提",
    "source": "M12 美国海关提单反查（ImportGenius / ImportYeti 供应商页：PLANET Technology Corp 的美国进口商名单）+ M2 品牌页反查（linhawstore.com 类目筛选）+ M9 名录核身（Frasers / LinkedIn / CyberPower where-to-buy）",
    "planet_models": [],
    "model_map": {},
@@ -286,7 +286,7 @@
     },
     {
      "level": "卖方目录",
-     "claim": "站内 PLANET PoE 设备在售",
+     "claim": "站内 PLANET PoE 设备在售（【W09 更正】2015 年旧 Magento 页，W09 回查已 404 → 仅作历史线索，不作为现售证据）",
      "quote": "POE Devices (35) **Manufacturer**: - Eyesonic (6) - Generic (1) - Netgear (4) - Open-Mesh (3) - Planet (10) - PowerDsine by Microsemi (4) - Ubiquiti Networks (7) … Address: 108 - 8620 Glenlyon Parkway Burnaby, BC, V5J 0B6 Tel: 6043258880 Email: helpdesk@linhaw.com",
      "url": "https://www.linhawstore.com/networking-devices-accessories/wired/poe-devices.html",
      "date": "2026-10-20"
@@ -311,6 +311,20 @@
      "quote": "Wholesale Distributor of IT, A/V and Security hardware since 1986 … For more than 20 years we have established ourselves as a reliable importer at the forefront of the industry … Company size: 11-50 employees",
      "url": "https://ca.linkedin.com/company/lin-haw-international-company-ltd",
      "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "【W09】当前品牌墙无 Planet；自有品牌 PC Cable World",
+     "quote": "### Brands … [PC Cable World] 549 Products … [Netgear] 49 Products … [TP-Link] 28 Products … [Ubiquiti Inc] 239 Products … [TRENDnet] 14 Products … [StarTech] 2 Products（两页共 70 余品牌，无 Planet）",
+     "url": "https://www.linhawstore.com/shop/brands（及 /page/2）",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "【W09】旧 PoE 类目页已失效",
+     "quote": "# Error 404 ## We couldn't find the page you're looking for!",
+     "url": "https://www.linhawstore.com/networking-devices-accessories/wired/poe-devices.html",
+     "date": "2026-10-20"
     }
    ],
    "facts": {
@@ -319,10 +333,10 @@
     "体量": "17 人、营收 $10–25M（Frasers 2022）"
    },
    "who": "温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口",
-   "hook": "You already bring PLANET switches in direct from Taiwan; an EXW second source on the 8- and 24-port PoE managed tiers with neutral packing drops into the same import lane without changing how you buy.",
+   "hook": "You already import switches direct from Taiwan and run your own PC Cable World line; an EXW second source for the 8- and 24-port Gigabit PoE managed tiers, neutral or under your label, drops into the same import lane.",
    "first_question": "Of the PoE switches you import today, is the 8-port Gigabit PoE managed tier or the 24-port the one that turns fastest for your resellers?",
    "subject": "Second source for your PoE switch imports, same EXW lane",
-   "biggest_unknown": "10 款 PLANET PoE 设备具体型号；Rob Baerg 直邮；是否有自有品牌/白牌计划（Safewell/EPNEW 进口品类）",
+   "biggest_unknown": "海关提单日期（是否仍在进口 PLANET）；PC Cable World 是否含交换机；Rob Baerg 直邮",
    "alts": [
     {
      "model": "STC-424DGGPM-280W",
@@ -338,7 +352,7 @@
    "qual": "技术上合格 / 商业上未合格（待首触信号）",
    "boundary": "不接 PoE 注入器/天线/线缆类（Saga 暂无对应）；消费级配件不碰",
    "mikrotik_ref": "",
-   "notes": "Mikrotik 主表全列 grep「linhaw / lin haw」无命中 → 非同户。加拿大第 6 户；海关提单矿脉（M12）首个可建档命中——提单只能证明「买过 PLANET」，在售证据另由站内类目补足。",
+   "notes": "Mikrotik 主表全列 grep「linhaw / lin haw」无命中 → 非同户。加拿大第 6 户；海关提单矿脉（M12）首个可建档命中——提单只能证明「买过 PLANET」，在售证据另由站内类目补足。 【W09 更正】linhawstore 旧 PoE 类目页（Planet (10)）已 404，当前品牌墙无 Planet → 「在售证据」撤回，海关提单为主证据（日期未证实）；评级 B 维持（公开邮箱 + 进口商 + 自有品牌），话术已改。",
    "steps": [
     {
      "title": "第二货源对位",

@@ -56,6 +56,15 @@ updated: 2026-10-20
 - **【公司自述】品牌组合：Axis/Hikvision/Dahua/Ajax/Hanwha/Bosch/Milestone/2N**
   > Distributeur français spécialisé en systèmes de vidéosurveillance IP … Revendeur agréé Axis, Hikvision, Dahua, Ajax, Hanwha, Bosch, Milestone et 2N.
   > 来源：https://www.w3cam.fr/（抓取 2026-10-19）
+- **【卖方目录】【W09 补证】PLANET 工业/加固 PoE 交换机专类仍在售（FR 安防批发查询再次命中；检索摘要所示类目名，页面 URL 以 W01 已核品牌页代指）**
+  > Switchs PoE PLANET industriels et durcis … Switch PLANET … Switchs PoE Administrables … +50 En stock
+  > 来源：https://www.w3cam.fr/brand/22-planet（抓取 2026-10-20）
+- **【官网】【W09 补证】联系与注册信息**
+  > SAS W3CAM 3 Rue du Sous Marin Vénus 56100 Lorient … contact@w3cam.fr … 0 805 382 522 … TVA : FR73483019345
+  > 来源：https://www.w3cam.fr/contactez-nous（抓取 2026-10-20）
+- **【第三方名录】【W09 补证】体量与负责人**
+  > W3CAM (SAS) … Lorient … effectif 3 à 5 / 6 à 9 salariés (2023) … Président : Bertrand Ripoll
+  > 来源：https://www.pappers.fr/entreprise/w3cam-483019345（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -148,7 +157,7 @@ updated: 2026-10-20
 **主题**：24-port PoE+ switch for your camera bundles (PoE watchdog, neutral label)
 
 ```text
-Hi —（联系）,
+Hi there,
 
 You carry PLANET PoE switches in 法国, so your customers already accept Taiwan-grade pricing and lead times.
 
@@ -179,4 +188,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-20*

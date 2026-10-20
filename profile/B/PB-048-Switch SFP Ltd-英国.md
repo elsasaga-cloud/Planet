@@ -150,7 +150,7 @@ updated: 2026-10-20
 **主题**：8-port PoE switch to bundle with your SFP orders
 
 ```text
-Hi —（销售）,
+Hi there,
 
 Your trade customers already buy SFPs from you for small sites; an 8-port Gigabit PoE switch with two SFP slots, shipped with the matching optics, turns that into a one-box order.
 

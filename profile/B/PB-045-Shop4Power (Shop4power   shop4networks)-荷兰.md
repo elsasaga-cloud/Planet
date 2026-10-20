@@ -158,7 +158,7 @@ updated: 2026-10-20
 **主题**：Third price point beside PLANET and E-Link for Shop4Power
 
 ```text
-Hi —（总机）,
+Hi there,
 
 You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option.
 

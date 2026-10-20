@@ -155,7 +155,7 @@ updated: 2026-10-20
 **主题**：DIN-rail PoE+ second source for your Iberian industrial customers
 
 ```text
-Hi —（商务）,
+Hi there,
 
 You present PLANET's industrial switches to Iberian integrators; a DIN-rail PoE+ second source at a lower tier lets you keep the project when PLANET pricing is challenged.
 

@@ -83,7 +83,7 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 
 ### M12 · 海关提单反查（W08 新增）
 
-美国海关 AMS 海运提单公开：ImportGenius / ImportYeti 免费页 `suppliers/planet-technology-corporation` 列出 PLANET Technology Corp 的美国直接进口商（供应商名 + 进口商名 + 品名 + 日期）。**价值**：直接进口商 = 跳过 PTUSA 的一级买家（分销商或 ODM 品牌商），且证明其有海运进口链路（契合 Saga EXW）。**边界**：① 只覆盖海运进美国的货（PLANET 欧洲走台湾→欧洲仓，不在内；加拿大户只在其经美国港口转运时出现，如 Lin Haw）；② 免费页只列前 7–10 名，余下在付费墙后（Q-14）；③ 提单只证明「买过 PLANET」，**在售证据仍需站内目录补足**（Lin Haw 用 linhawstore PoE 类目补）；④ 进口商多为巨头/品牌 ODM 买家（UTC、Axis、Legrand、StarTech、Lorex）→ 大多按 C 规则 skip，净产出低但每个命中质量高。**延伸**：按进口商页反查其他供应商（看到中国 OEM 同行 = 对方接受中国货源的证据，如 Lin Haw ← Safewell/EPNEW）。
+美国海关 AMS 海运提单公开：ImportGenius / ImportYeti 免费页 `suppliers/planet-technology-corporation` 列出 PLANET Technology Corp 的美国直接进口商（供应商名 + 进口商名 + 品名 + 日期）。**价值**：直接进口商 = 跳过 PTUSA 的一级买家（分销商或 ODM 品牌商），且证明其有海运进口链路（契合 Saga EXW）。**边界**：① 只覆盖海运进美国的货（PLANET 欧洲走台湾→欧洲仓，不在内；加拿大户只在其经美国港口转运时出现，如 Lin Haw）；② 免费页只列前 7–10 名，余下在付费墙后（Q-14）；③ 提单只证明「买过 PLANET」，**在售证据仍需站内目录补足**（Lin Haw 用 linhawstore PoE 类目补）；④ 进口商多为巨头/品牌 ODM 买家（UTC、Axis、Legrand、StarTech、Lorex）→ 大多按 C 规则 skip，净产出低但每个命中质量高。**延伸**：按进口商页反查其他供应商（看到中国 OEM 同行 = 对方接受中国货源的证据，如 Lin Haw ← Safewell/EPNEW）。 **W09 边界补充**：免费层（ImportGenius / ImportYeti / ImportKey / Volza）已采尽，无新名；提单只证明「买过」——Lin Haw 的「在售」证据回查后失效（旧页 404、品牌墙无 Planet），所以 M12 命中必须配 fetch 核实的现行目录页，否则话术不能以「你在卖 PLANET」为前提。
 
 ## 二 · 国家顺序与配额
 
@@ -162,3 +162,11 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **什么无效 / 边界**：① 安防分销矿脉比预期薄——Hikvision/Dahua 系 dealer 站（美 7 / 英 9 / 波 3）均不上 PLANET，只有独立多品牌分销（cctv.net「82 brands」）才有；② 本地语安防查询带英文型号 token（`"GS-4210" OR "IGS-"`）会被引擎拉回英文站 → DE/ES/TR 查询全部偏航，下次去掉型号 token；③ 展会伙伴 / 签约新闻 / 美国安防分销点名 = 三条死路；④ 海关提单进口商 10 名中 7 名为巨头/消费级/区域外/非渠道（UTC、Axis、Legrand、Infinite、Lorex、SYSCOM、American Time）→ 矿脉面窄；⑤ 第三方名录人名（Rob Baerg / Byron Budden / Connie Fung）一律「待核」，不猜邮箱，LinkedIn 触达与否 = Q-13。
 - **下一矿脉**：M12 延伸（ImportYeti 进口商页反查、PLANET 出口名称变体）；安防矿脉收尾（CZ/HU/FR/NL/SE 本地语各 1 条，无型号 token）；国家空白单域名复核；取证补缺（见 README 第 13 条）。
 - **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4 → W07 +2 → **W08 +3（21 次检索，B 2 / C 1）**；换矿脉止住了下滑但未反弹——广度已近天花板，后续每轮 2–3 户为常态，应把余量逐步转向取证补缺与 Q-01 硬化。
+
+### W09（2026-10-20，20 次 web_search + 6 段 fetch_page，+3 户：B 2 / C 1；T10「继续挖」）
+
+- **做了什么**：按 README 第 13 条——① M12 延伸（ImportKey / ImportYeti 公司检索 / Volza）；② 去型号 token 的本地语安防批发查询 CZ/HU/FR/NL/SE/ES/TR/DE 各 1 条；③ BE/CH/GR/IE/DK 20 个 Mikrotik 域名单查/小组复核；④ 取证补缺：PB-053 linhawstore 回查 ×3、GelecekBT 品牌页与 IPC2U 厂商页 fetch 核页、Oprema 核身。
+- **什么有效**：① **去型号本地语安防查询确实能把 PLANET 卖家钓出来**——HU/FR 命中 powerbizt.hu / w3cam.fr（都是 PLANET 主线卖家），只是池已覆盖；② 产出主要来自**跨国连带命中**：CZ 查询带出土耳其 gelecekbt.com/planet（品牌页 14 款 + 本地品牌 CLR Networks 独家分销 = 白牌线索），DE 查询带出 ipc2u.de 的 PLANET 厂商页（「autorisierter Vertriebspartner … seit über 25 Jahren」，Mikrotik A-482 同户 → 并档只补证）和 oprema.co.uk；③ **M11 品牌页角度在 DE 工业分销上仍有效**（IPC2U 的 vendors/planet 页是官方授权措辞）；④ 取证回查有价值：W08 的 Lin Haw「Planet (10)」类目页实为 2015 年旧页，fetch 后 404，当前品牌墙无 Planet → 更正而不降级（B 的依据是公开邮箱 + 进口商 + 自有品牌）。
+- **什么无效 / 边界**：① M12 免费层采尽（ImportKey 只列 2 名买家、Volza 只有统计）；② NL/SE/ES/TR 本地语安防查询无 PLANET（Hik/Dahua/Aetek 系）；TR 引擎忽略 `-rimaelektronik`；ES 混入拉美；③ BE/CH/GR/IE/DK 复核 20 域名全部无证据 → 关闭；④ **流程漏洞**：W3CAM / POWER 查证后才发现已是 PB-002 / PB-018，各浪费 1 次检索 → 固化为「新名字先 grep 两张主表全列再花检索」；⑤ 渲染缺陷：占位联系人「—（销售）」被抄进问候语「Hi —（销售）,」（44 份）→ render.py 改为 Hi there。
+- **下一矿脉**：没有新矿脉可开（M12 免费层、国家空白、Hik/Dahua dealer 站、WISP 店、工业电气分销均关闭）；W10 转「挖掘降速（≤8 次）+ 取证优先 + 证据老化回查」，见 README 第 14 条。
+- **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4 → W07 +2 → W08 +3 → **W09 +3（20 次检索，B 2 / C 1，其中 1 户并档、1 户 C）**；净新 B 仅 1（GelecekBT）——广度天花板确认，后续以取证质量而非户数计产出。

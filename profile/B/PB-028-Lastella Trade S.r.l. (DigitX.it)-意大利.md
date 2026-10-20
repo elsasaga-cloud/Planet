@@ -145,7 +145,7 @@ updated: 2026-10-20
 **主题**：Third price point for DIN-rail PoE+ in the DigitX catalogue
 
 ```text
-Hi —（总机）,
+Hi there,
 
 You already stock 3onedata next to PLANET and Moxa, so a DIN-rail PoE+ managed switch at a third price point fits your industrial catalogue.
 

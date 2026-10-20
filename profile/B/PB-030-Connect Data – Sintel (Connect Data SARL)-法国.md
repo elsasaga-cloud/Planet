@@ -149,7 +149,7 @@ updated: 2026-10-20
 **主题**：Industrial PoE+ second source next to PLANET in your catalogue
 
 ```text
-Hi —（销售/询价）,
+Hi there,
 
 PLANET sits in your catalogue as the industrial switch next to Radwin and Ruckus; a DIN-rail PoE+ second source keeps that slot competitive.
 

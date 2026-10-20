@@ -161,7 +161,7 @@ updated: 2026-10-20
 **主题**：Second-source 24-port PoE+ with 10G uplinks for your WISP partners
 
 ```text
-Hi —（销售）,
+Hi there,
 
 PLANET's XGSW-28040HP was the 24-port PoE+ with 10G uplinks on your Last Mile Gear shelf; a lower-tier L2+ unit with the same uplink spec gives your WISP partners a second source for tower and NOC closets.
 

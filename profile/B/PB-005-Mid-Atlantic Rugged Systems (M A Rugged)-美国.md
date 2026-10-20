@@ -141,7 +141,7 @@ updated: 2026-10-20
 **主题**：Industrial 8-port PoE switch, second source for your PLANET line
 
 ```text
-Hi —（销售）,
+Hi there,
 
 You carry PLANET PoE switches in 美国, so your customers already accept Taiwan-grade pricing and lead times.
 

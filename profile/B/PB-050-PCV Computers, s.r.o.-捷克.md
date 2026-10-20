@@ -149,7 +149,7 @@ updated: 2026-10-20
 **主题**：Second source for the 24-port Gigabit tier next to your PLANET range
 
 ```text
-Hi —（销售部）,
+Hi there,
 
 Your switch range lists PLANET next to Zyxel and TP-Link as the value line; a second source for the 24-port Gigabit and 8-port PoE tiers keeps that shelf priced under the big brands when PLANET lead times slip.
 

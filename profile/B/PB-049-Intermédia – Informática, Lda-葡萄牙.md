@@ -150,7 +150,7 @@ updated: 2026-10-20
 **主题**：Second-source 24-port PoE+ with 10G uplinks next to your PLANET list
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Your PLANET list leads with 24-port PoE+ switches with 10G uplinks; a lower-tier L2+ unit with the same port layout gives your customers a second option for camera and office sites without changing their SFPs.
 

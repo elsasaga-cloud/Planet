@@ -150,7 +150,7 @@ updated: 2026-10-20
 **主题**：Lower-tier 24-port PoE+ with 10G uplinks next to your GS-5220 line
 
 ```text
-Hi —（总机）,
+Hi there,
 
 PLANET's GS-5220 sits at the top of your PoE range; a 24-port PoE+ with 4×10G uplinks at a lower tier gives your dealers the same uplink spec for mid-size camera sites.
 

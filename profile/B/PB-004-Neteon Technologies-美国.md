@@ -154,7 +154,7 @@ updated: 2026-10-20
 **主题**：Lower-cost DIN-rail PoE switch line for ShopPlanet buyers
 
 ```text
-Hi —（销售）,
+Hi there,
 
 You carry PLANET PoE switches in 美国, so your customers already accept Taiwan-grade pricing and lead times.
 

@@ -149,7 +149,7 @@ updated: 2026-10-20
 **主题**：Second-source 24-port PoE+ for Platinum Micro's B2B quotes
 
 ```text
-Hi —（销售/BD）,
+Hi there,
 
 As a PLANET reseller through Versa, you quote PoE switches to B2B and government buyers; a direct second source at a lower tier widens your margin on those quotes.
 

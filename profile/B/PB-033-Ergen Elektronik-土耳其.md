@@ -142,7 +142,7 @@ updated: 2026-10-20
 **主题**：Second-source PoE+ switch for your camera projects in Antalya
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Your Dahua and Zanuo camera volume in Antalya's hotels needs PoE switching on every job; a second-source 24-port PoE+ keeps that line profitable.
 

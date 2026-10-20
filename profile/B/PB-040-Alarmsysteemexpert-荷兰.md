@@ -144,7 +144,7 @@ updated: 2026-10-20
 **主题**：Managed 24-port PoE+ under your VK-SWITCH label
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Your VK-SWITCH line already proves installers buy an own-label PoE switch from you; a managed 24-port PoE+ under the same label fills the gap above the unmanaged 250 W unit.
 

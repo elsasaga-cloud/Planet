@@ -137,7 +137,7 @@ updated: 2026-10-20
 **主题**：Like-for-like 24-port PoE+ switch below your GS-4210-24P4C cost
 
 ```text
-Hi —（销售）,
+Hi there,
 
 You keep 30 units of the GS-4210-24P4C on the shelf, so a like-for-like 24-port PoE+ at a lower buy price goes straight to your margin.
 

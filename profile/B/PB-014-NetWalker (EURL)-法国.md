@@ -140,7 +140,7 @@ updated: 2026-10-20
 **主题**：Industrial 8-port PoE+ / 4 SFP DIN switch, second source to IGS-5225-8P4S
 
 ```text
-Hi —（联系）,
+Hi there,
 
 NetWalkerStore lists the IGS-5225-8P4S and WGS-5225 next to InterMapper, so your customers are monitoring-minded buyers who care about ring recovery and SNMP.
 

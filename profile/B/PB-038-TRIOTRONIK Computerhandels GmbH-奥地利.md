@@ -140,7 +140,7 @@ updated: 2026-10-20
 **主题**：PoE+ price point between MikroTik and PLANET for TRIOTRONIK
 
 ```text
-Hi —（MikroTik/网络线）,
+Hi there,
 
 PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two.
 

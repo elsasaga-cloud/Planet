@@ -140,7 +140,7 @@ updated: 2026-10-20
 **主题**：Lower-tier industrial PoE+ next to PLANET/ComNet/Teltonika
 
 ```text
-Hi —（总机）,
+Hi there,
 
 You carry PLANET beside Teltonika and ComNet for IIoT projects; a DIN-rail PoE+ L2+ at a lower tier gives your integrators a fourth option on price-checked bids.
 

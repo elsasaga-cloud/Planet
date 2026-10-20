@@ -45,6 +45,9 @@ updated: 2026-10-20
 - **【公司自述】仅面向安装商/经销商；地址 Kazal u. 64-66, 1031 Budapest**
   > kizárólag telepítők és viszonteladók（关于页，检索摘要）
   > 来源：https://www.powerbizt.hu/（抓取 2026-10-19）
+- **【卖方目录】【W09 补证】PLANET 专文「Planet Networking a Powertől!」与 IGS-10020HPT / PoE-E202 商品页仍被索引（HU 安防批发查询再次命中；具体页 URL 待补证，以官网根代指）**
+  > Planet Networking a Powertől! … IGS-10020HPT … PoE-E202
+  > 来源：https://www.powerbizt.hu/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -174,4 +177,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-20*

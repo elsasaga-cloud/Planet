@@ -143,7 +143,7 @@ updated: 2026-10-20
 **主题**：PoE+ switches for Microsam's CCTV installs and rental plans
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Every CCTV system you install or lease needs a PoE switch; a 24-port PoE+ at integrator pricing lowers the hardware cost in your monthly plans.
 

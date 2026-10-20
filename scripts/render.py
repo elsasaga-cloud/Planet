@@ -43,7 +43,8 @@ def gather(code):
 
 def email_template(row, c, p1, price_str):
     name = (c.get("contacts") or [{}])[0].get("name") or ""
-    first = name.split()[0] if name else "there"
+    # 占位联系人（「—（销售）」等）不是人名：问候语退回 there，避免把占位符抄进邮件
+    first = name.split()[0] if name and not name.startswith("—") else "there"
     t = row["类型"]
     company = row["公司名"]
     country = row["国家"]

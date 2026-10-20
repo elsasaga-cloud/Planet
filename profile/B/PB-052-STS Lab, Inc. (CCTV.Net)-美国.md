@@ -174,7 +174,7 @@ updated: 2026-10-20
 **主题**：Second source for the 24-port PoE+ tier in your PLANET line
 
 ```text
-Hi —（销售）,
+Hi there,
 
 PLANET is one of the deepest switch lines in your dealer catalog; a second source on the 24-port PoE+ tier lets you hold dealer pricing on camera projects when PLANET lead times or price moves get in the way.
 

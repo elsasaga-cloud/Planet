@@ -149,7 +149,7 @@ updated: 2026-10-20
 **主题**：Next eRize industrial PoE+ model – OEM proposal
 
 ```text
-Hi —（总机）,
+Hi there,
 
 Your eRize range already includes DIN-rail PoE switches up to a managed 8-port unit; a Marvell-based L2+ model under the eRize label fills the next step without touching your PLANET or MikroTik lines.
 

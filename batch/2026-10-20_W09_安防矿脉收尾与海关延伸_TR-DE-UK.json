@@ -1,0 +1,546 @@
+{
+ "batch": "2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK",
+ "date": "2026-10-20",
+ "method": [
+  "T10「继续挖」：不提问，只挖；无新增待裁定事项（Q-13/Q-14 维持默认）",
+  "M12 延伸：ImportKey / Volza / ImportYeti 公司页 → 免费源无新名，矿脉在免费层面采尽（付费 = Q-14）",
+  "安防矿脉收尾（去型号 token 的本地语查询）：CZ / HU / FR / NL / SE / ES / TR / DE 各 1 条 → HU、FR 命中的都是池内老户（PB-018 / PB-002，说明本地语安防查询有效但池已覆盖）；CZ 查询连带命中 TR GelecekBT（PB-054）；DE 查询命中 IPC2U（Mikrotik A-482 并档 PB-055）与 Oprema（PC-013）；NL / SE / ES / TR 无 PLANET",
+  "国家空白复核：BE / CH / GR / IE / DK 共 20 个 Mikrotik 域名单查或小组查 → 均无证据，与 W06 结论一致，此项关闭",
+  "取证补缺：PB-053 Lin Haw 现售证据回查 → 旧 Magento 页（2015）已 404、当前品牌墙无 Planet → 直接更正 W08 JSON 与主表（信号降为「海关记录 + 旧页」，评级 B 维持，角度改为「曾直接进口 PLANET + 自有品牌 PC Cable World + 中国 OEM 进口」）",
+  "流程教训：W3CAM / Power 两户在查证后才发现已在池 → 规则固化为「任何新名字先 grep 两张主表再花检索」",
+  "同户核对：GelecekBT / Oprema 非同户；IPC2U = Mikrotik A-482 → 对照 CSV +1 行（46）"
+ ],
+ "tools": "web_search depth 1（20 次）+ fetch_page（6 次：importkey、gelecekbt/planet、ipc2u vendors/planet、linhawstore ×3）",
+ "queries": [
+  "\"Planet Technology Corp\" OR \"Planet Technology Corporation\" Taiwan supplier shipments US importers buyers list panjiva OR volza OR importkey OR tradeatlas switches（M12 延伸：只回 importkey 公司页 + volza 国家级统计）",
+  "[fetch_page] https://importkey.com/i/planet-technology（免费页仅列 StarTech / Sistemas y Servicios 两名买家 → 无新名）",
+  "importyeti.com company \"Planet Technology\" supplier \"Taiwan\" ethernet switch importer -versa -startech -lorex（无进口商公司页被索引；只回 tradeindia / volza / planet 自家 → M12 免费源采尽）",
+  "Planet switch PoE velkoobchod kamerové systémy zabezpečovací technika distributor montážní firmy -asm -100mega -i4wifi -softcom -kamerovysvet -alza -czc -pcvcomp -planet-tech（CZ：cctv-shop.cz（新小网店）+ 连带命中 gelecekbt.com/planet（TR）→ PB-054）",
+  "gelecekbt.com Gelecek Bilişim Teknolojileri hakkımızda iletişim distribütör Planet bayi（核身：Perpa 商贸中心，2004 年起，2–10 人；CLR Networks 土耳其独家分销；satis@ / bayi@gelecekbt.com）",
+  "[fetch_page] https://gelecekbt.com/planet（PLANET 品牌页：ELA-100 / WGR-500 / FSD-805S15 / BSP-300 / BSP-360 / POE-TESTER / IGS-5227-4MP2MT / MC-1500R / AIS-1000 / FTP-802 / GPL-GSFP / GT-802S …）",
+  "cctv-shop.cz kontakt o nás provozovatel s.r.o. kamerové systémy velkoobchod Planet switche（CCTV shop s.r.o.，布拉格，IČO 19940823（2024 年新设），单一股东；Hikvision 主线 + PLANET 工业交换机类目；eshop@ → §4 电商 skip）",
+  "Planet switch PoE biztonságtechnika nagykereskedés kamerarendszer viszonteladó telepítő -riel -young -ebolt -ipon -aqua -emag -alza（HU：powerbizt.hu「Planet Networking a Powertől!」→ 查后发现 = PB-018 已在池（W02），本轮无新增）",
+  "\"POWER Biztonságtechnikai Kft\" OR powerbizt.hu rólunk cégadatok Budapest nagykereskedés alapítva munkatársak kapcsolat（补证：100+ 人、2024 净营收 98 亿 HUF、Banai Miklós / Galambosi Ákos 总经理 → 归入 PB-018 备注，不另建档；教训：先 grep 再查）",
+  "Planet switch PoE grossiste vidéosurveillance installateurs distributeur sécurité réservé aux professionnels -ldlc -amazon -inmac -netwalker -azenn -rs -hellorse -cdiscount（FR：w3cam.fr「Switchs PoE PLANET industriels et durcis」→ = PB-002 已在池（W01）；ITESA-Veditec / Surexpert / Sedea 无 PLANET；maison-du-cable 电商缺货）",
+  "w3cam.fr \"W3CAM\" SAS qui sommes-nous contact adresse siège effectif distributeur vidéosurveillance（补证：Lorient，2005 年起，3–9 人，Président Bertrand Ripoll → 归入 PB-002 备注）",
+  "Planet switch PoE groothandel camerabeveiliging installateurs distributeur alleen voor bedrijven -alarmsysteemexpert -shop4power -365cam -wilcon -bol -coolblue -alternate -azerty（NL：JBN Security（Almere，Hik/Dahua/TP-Link）/ Avicam 无 PLANET → 死路）",
+  "Planet switch PoE grossist kameraövervakning säkerhet installatörer återförsäljare distributör -direktronik -alcadon -dustin -netonnet -kjell -elgiganten -webhallen -inet（SE：Övervakningsbutiken（Aetek）/ GB Security（Dahua）/ Provision-ISR 无 PLANET → 死路）",
+  "teslanetworks.com Planet switch PoE IGS GS-4210（BE 单域名复核：无证据；连带 planet.neteon.net = PB-004）",
+  "Planet switch PoE (mpi.ch OR inovis-group.com OR engitech.ch OR alltron.ch OR dds.ch OR fiveinformatik.ch) Planet Technology（CH 6 域名复核：无证据）",
+  "Planet switch (hellascom.gr OR cableworks.gr OR xpatit.gr OR hellasdigital.gr OR e-wireless.gr OR marac.gr) Planet Technology PoE（GR 6 域名复核：无证据；连带 bizsyscon.com = PB-022）",
+  "Planet switch (infinitetechnology.ie OR winncom.com OR gcntech.ie OR pumait.dk OR nextron.dk OR danbit.dk OR shop.dvisor.dk) Planet Technology PoE switch（IE/DK 7 域名复核：无证据）",
+  "Planet switch PoE mayorista seguridad videovigilancia instaladores distribuidor profesional -ciudadwireless -anatronic -senetic -pccomponentes -amazon -desitec -tecnosinergia -syscom（ES 去型号重试：Maxim Miranda（Lleida，品牌墙无 PLANET）/ Sevitec / MayoristaSeguridad 无 PLANET；其余为 AR/MX/CO 区域外 → 死路）",
+  "Planet switch PoE güvenlik kamera sistemleri toptan bayi distribütör yetkili satıcı -bimel -rimaelektronik -ergen -nokta -gelecekbt -n11 -hepsiburada -trendyol -akakce -cimri -parnet（TR 去型号重试：引擎仍只回 rimaelektronik（PB-032）+ smartlink → 死路）",
+  "PLANET PoE Switch Videoüberwachung Großhandel Errichter Fachhandel Sicherheitstechnik Distributor -spectra -fiber24 -industry-electronics -jacob -conrad -reichelt -amazon -lwl-shop24 -planet-germany（DE 去型号重试：命中 ipc2u.de PLANET 厂商页（= Mikrotik A-482 → PB-055 并档）+ oprema.co.uk PLANET 商品页（→ PC-013）；SECPLAN / TURM 无 PLANET）",
+  "[fetch_page] https://ipc2u.de/ueber-uns/vendors/planet/（「Offizieller PLANET Technology Partner in Deutschland … autorisierter Vertriebspartner … kooperiert mit PLANET seit über 25 Jahren」）",
+  "Oprema Ltd Cardiff security distributor about us employees turnover brands Planet \"oprema.co.uk\" trade only（EET Group 成员；2024 营业额 £56.57M、97 人；英国最大 Dahua 分销 → C）",
+  "[fetch_page] https://www.linhawstore.com/networking-devices-accessories/wired/poe-devices.html（PB-053 补证：旧 Magento 页已 404）",
+  "[fetch_page] https://www.linhawstore.com/shop/brands + /page/2（PB-053 补证：当前品牌墙 70 余品牌无 Planet；自有品牌 PC Cable World 549 件；Netgear 49 / TP-Link 28 / Ubiquiti 239）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-054",
+   "name": "GelecekBT Bilgi Teknolojileri",
+   "country": "土耳其",
+   "city": "Istanbul（Şişli，Perpa Ticaret Merkezi）",
+   "website": "gelecekbt.com",
+   "type": "分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）",
+   "signal": "gelecekbt.com/planet 品牌页在售：ELA-100、WGR-500、FSD-805S15、BSP-300、BSP-360、POE-TESTER、IGS-5227-4MP2MT、MC-1500R、AIS-1000、FTP-802、GPL-GSFP-C+、GT-802S、XT-705A、POE-163（多数「İletişime Geçiniz」询价制）",
+   "own_brand": "否（但为土耳其本地品牌 CLR Networks 独家分销；站内 IGS-5227-4MP2MT 图片存于 catalog/CLR_Networks/ 目录 → CLR 是否为其自控贴牌线待补证）",
+   "angle": "两条线：① PLANET 工业/PoE 交换机第二货源（询价制销售、无库存压力，EXW 小批量可接）；② 其独家分销的本地品牌 CLR Networks 若为自控贴牌，Marvell 方案 ODM 可谈（30% 档，待证后再推）",
+   "p1": "STI-288DGGPM",
+   "p1_reason": "其自述主业「endüstriyel switch ve PoE çözümleri」、PLANET 页以工业件为主（BSP / IGS M12 / WGR-500 / ELA-100）→ 工业 8 口千兆 PoE 管理型 DIN 导轨为对位主推",
+   "tier": 0.2,
+   "tier_reason": "分销商 → 20%（CLR 贴牌线核实后可另按 30% 报）",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 品牌页 14+ 款在售 + 主业工业/PoE 交换机 + 本地品牌独家分销；触达：satis@gelecekbt.com（官网页脚公开）、bayi@gelecekbt.com（Perpa 商贸中心名录 / list.istanbul 名录，待核）；体量小（2–10 人），决策链短；土耳其在区域内（T05）→ B。贸易条款按 Q-07 默认 USD EXW",
+   "source": "M2 品牌页反查（CZ 安防批发查询连带命中 gelecekbt.com/planet）+ fetch_page 核页 + M9 名录核身（Perpa 商贸中心名录 / LinkedIn / ZoomInfo）",
+   "planet_models": [
+    "ELA-100",
+    "WGR-500",
+    "FSD-805S15",
+    "BSP-300",
+    "BSP-360",
+    "POE-TESTER",
+    "IGS-5227-4MP2MT",
+    "MC-1500R",
+    "AIS-1000",
+    "FTP-802",
+    "GT-802S",
+    "XT-705A",
+    "POE-163"
+   ],
+   "model_map": {
+    "IGS-5227-4MP2MT": {
+     "saga": "—",
+     "note": "M12/IP67 工业 PoE，Saga 暂无对应型号（不推）"
+    },
+    "BSP-300": {
+     "saga": "—",
+     "note": "太阳能工业 PoE，Saga 暂无对应型号（不推）"
+    },
+    "BSP-360": {
+     "saga": "—",
+     "note": "太阳能工业 PoE，Saga 暂无对应型号（不推）"
+    },
+    "FSD-805S15": {
+     "saga": "—",
+     "note": "FE + SC 光口桌面型，Saga 暂无对应型号（不推）"
+    },
+    "WGR-500": {
+     "saga": "—",
+     "note": "工业路由器，Saga 不做"
+    },
+    "ELA-100 / POE-TESTER / MC-1500R / FTP-802 / GT-802S / XT-705A / POE-163 / GPL-GSFP": {
+     "saga": "—",
+     "note": "防雷器/测试仪/媒体转换器/注入器/SFP，Saga 暂无对应"
+    },
+    "（其工业交换机主线）": {
+     "saga": "STI-288DGGPM",
+     "note": "以 Saga 工业 8 口 PoE 管理型切入，不对位具体 PLANET 型号"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "satış",
+     "email": "satis@gelecekbt.com",
+     "phone": "+90 212 912 43 49 / +90 212 320 40 30",
+     "status": "公开（官网页脚 / hakkımızda 页）",
+     "source": "https://gelecekbt.com/hakkimizda"
+    },
+    {
+     "name": "—（经销商渠道）",
+     "role": "bayi",
+     "email": "bayi@gelecekbt.com",
+     "phone": "",
+     "status": "待核（Perpa 商贸中心官方名录 + list.istanbul 名录列出；官网未见）",
+     "source": "https://www.perpa.com.tr/company/view/6525/gelecekbt-bilgi-teknolojileri"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页与在售型号",
+     "quote": "Planet … [ELA-100 @ Ethernet Hattı Yıldırım Koruyucu] … [Endüstriyel Router 5 Port Gigabit Duvara Monte Edilebilir @ WGR-500] İletişime Geçiniz … [Ethernet Switch 8 Port 100M RJ45 + 1 Port 100M SC SM @ FSD-805S15] … [Güneş Enerjisi Beslemeli Endüstriyel POE Switch BSP-360] … [M12 Endüstriyel PoE Switch 4 Port M12 POE + 2 Port M12 IP67 @ IGS-5227-4MP2MT] … [MC-1500R @ Media Converter Rack 19\" 15 Slot Dual AC Power] … [Planet AIS-1000 …] … [Planet FTP-802 / FTP-802S15 PoE Fiber Media Converter]",
+     "url": "https://gelecekbt.com/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "主业与品牌代理、法人",
+     "quote": "fiber optik altyapı, yapısal kablolama, endüstriyel switch ve PoE çözümleri … Ethernet Ağ Anahtarları ve SFP modüller, Endüstriyel Haberleşme ürünleri … CCTV Güvenlik sistemleri … Firmamız … CLR Networks’ün Türkiye tek yetkili dağıtıcısıdır. Gelecekbt.com Gelecek Yönetim Merkezi Egt. Dan. Ve Teknoloji Hiz. İth. İhr. San. Tic. Ltd. Şti firmamıza aittir. … Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul - satis@gelecekbt.com - 0212 912 43 49",
+     "url": "https://gelecekbt.com/hakkimizda",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "经销商渠道邮箱与代理品牌",
+     "quote": "Gelecekbt, Bilgi teknolojilerinde hizmet vermektedir. CLR Networks, ONET , Telkolink , Netkablo gibi markaların türkiye dağıtıcısıdır. GelecekBT- Ethernet Switch, CCTV Güvenlik, Hdmi Ses ve görüntü aktarımı, Endüstriyel Seri haberleşme … E-Posta · : bayi@gelecekbt.com",
+     "url": "https://www.perpa.com.tr/company/view/6525/gelecekbt-bilgi-teknolojileri",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "成立年份与体量",
+     "quote": "Gelecek BT Bilgi Teknolojileri … Şirket büyüklüğü: 2-10 çalışan … Genel Merkez: Sisli, Istanbul … Kuruluş: 2004",
+     "url": "https://tr.linkedin.com/company/gelecekbt",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "类型自述「Distribütör」、关键词 POE Switch",
+     "quote": "GelecekBT Bilgi Teknolojileri … Tür: Distribütör … Kuruluş yılı: 2004 … Anahtar: POE Switch, fiber optik, SFP Modül … bayi@gelecekbt.com",
+     "url": "https://list.istanbul/tr/company-list/gelecekbt-bilgi-teknolojileri",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Şişli, İstanbul（总部：Halil Rıfat Paşa Mah. Güler Sk. No:48 D:3）",
+    "法人": "Gelecek Yönetim Merkezi Eğt. Dan. ve Teknoloji Hiz. İth. İhr. San. Tic. Ltd. Şti.",
+    "成立": "2004",
+    "体量": "2–10 人（LinkedIn）"
+   },
+   "who": "伊斯坦布尔 Perpa 商贸中心的小型网络/工业通信分销商，卖 PLANET 工业件，同时独家分销本地品牌 CLR Networks",
+   "hook": "Your PLANET range is mostly quote-on-request industrial items; an EXW second source for the DIN-rail 8-port Gigabit PoE managed tier gives you a price point to quote against PLANET without holding stock.",
+   "first_question": "For the industrial PoE projects you quote today, is the DIN-rail 8-port Gigabit PoE managed tier the one you need a second source for, or the 16/24-port?",
+   "subject": "EXW second source for your DIN-rail PoE switch quotes",
+   "biggest_unknown": "CLR Networks 是否为其自控贴牌线（决定 20% 还是 30% 档与 ODM 话术）；年走量；bayi@ 是否有效",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "商用 8 口 PoE",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-488XGGPM",
+     "scene": "工业 8 口 PoE + 10G 上联",
+     "reason": "工业骨干升级场景，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "不接 M12/IP67、太阳能、路由器、媒体转换器、防雷器类（Saga 暂无对应）",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表全列 grep「gelecek / clr networks / telkolink / perpa」无命中 → 非同户。土耳其第 5 户（含 TRNC 第 6 户）。来自 CZ 安防批发查询的连带命中——引擎对去型号本地语查询仍会混入他国结果。",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STI-288DGGPM",
+     "angle": "工业 8 口千兆 PoE 管理型 DIN 导轨；EXW、小批量",
+     "question": "For the industrial PoE projects you quote today, is the DIN-rail 8-port Gigabit PoE managed tier the one you need a second source for, or the 16/24-port?",
+     "action": "无附件"
+    },
+    {
+     "title": "CLR 贴牌线核实",
+     "push": "—",
+     "angle": "问其 CLR Networks 的来源与是否接受第二 ODM",
+     "question": "Is the CLR Networks switch line sourced by you directly, and would a second ODM source be of interest?",
+     "action": "Marvell 方案 1 页"
+    },
+    {
+     "title": "样机到伊斯坦布尔",
+     "push": "STI-288DGGPM（1 台）",
+     "angle": "与其 PLANET 工业件并行测试",
+     "question": "Which project could run one unit for a 30-day test?",
+     "action": "工业规格表 1 页"
+    },
+    {
+     "title": "批量条件",
+     "push": "STI-288DGGPM + STC-28DGGPM",
+     "angle": "MOQ/付款/USD EXW（Q-07）",
+     "question": "What quarterly volume per model would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "公开销售邮箱、小公司决策快、已做 PLANET 工业件与本地品牌分销",
+    "W": "询价制销售无库存、体量小、PLANET 以配件类为主",
+    "O": "土耳其工业/安防项目对价格敏感；本地品牌 CLR 可能需要第二 ODM",
+    "T": "Bimel / Rima / Nokta 等既有 PLANET 渠道；里拉汇率"
+   }
+  },
+  {
+   "_code": "PB-055",
+   "name": "Industrial Personal Computer 2U GmbH (IPC2U)",
+   "country": "德国",
+   "city": "（待补证；电话区号 0511 = 汉诺威）",
+   "website": "ipc2u.de / ipc2u.com",
+   "type": "工业自动化经销/集成（工业 PC、工业通信：Antaira + Korenix 授权分销；PLANET 德国授权销售伙伴，自述合作 25 年+；德/法/波/捷四国办公室，兼做系统集成）",
+   "signal": "ipc2u.de/ueber-uns/vendors/planet：「Offizieller PLANET Technology Partner in Deutschland … autorisierter Vertriebspartner von PLANET Technology in Deutschland … Vollständiges PLANET-Produktportfolio … IPC2U kooperiert mit PLANET seit über 25 Jahren」；目录按 vendor-planet 分 Industrielle Ethernet Switches / Industrie Wireless / Serial Device Servers / Converter und Repeater",
+   "own_brand": "否",
+   "angle": "并档：Mikrotik 侧 A-482（Antaira + Korenix 多品牌工业分销）已定 A、首推 STI-488XGGPM；本仓补 PLANET 侧证据（PLANET 德国官方授权伙伴、全系目录、25 年合作）→ 「代理三家台湾工业交换机品牌的多品牌分销」= Saga 工业线第二货源的典型画像",
+   "p1": "STI-488XGGPM",
+   "p1_reason": "沿用 Mikrotik 侧首推（工业 8 口千兆 PoE + 10G 上联），对位其 PLANET IGS-5225-8P2S2X / Antaira / Korenix 同级工业 PoE",
+   "tier": 0.2,
+   "tier_reason": "分销商 → 20%",
+   "priority": "★★★",
+   "rating": "B",
+   "rating_basis": "同户规则（客户分级与去重规则 §4）：Mikrotik 侧 A-482 为 A 且有邮箱（sales@ipc2u.de）→ 首触以 Mikrotik 仓库为准，本仓并档记 B、只补 PLANET 侧证据与对位；本仓证据：PLANET 德国官方授权伙伴页（自述 25 年合作、全系目录）",
+   "source": "M2 品牌页反查（DE 安防批发去型号查询连带命中 ipc2u.de PLANET 厂商页）+ fetch_page 核页 + M8 跨仓交叉（Mikrotik A-482）",
+   "planet_models": [],
+   "model_map": {
+    "（PLANET 工业交换机全系目录）": {
+     "saga": "STI-488XGGPM",
+     "note": "对位工业 8 口 PoE + 10G 上联档；具体 PLANET 型号待目录页取证"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@ipc2u.de",
+     "phone": "+49 511 807 259-0",
+     "status": "公开（Mikrotik 仓库 A-482 已录；首触由 Mikrotik 仓库发）",
+     "source": "Mikrotik 主表 A-482"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET 德国官方授权销售伙伴",
+     "quote": "### Offizieller PLANET Technology Partner in Deutschland **Industrial Personal Computer 2U GmbH** ist autorisierter Vertriebspartner von **PLANET Technology** in Deutschland. Wir bieten: - Vollständiges PLANET-Produktportfolio mit hoher Verfügbarkeit - Technische Beratung und Application Engineering Support - Schnelle Lieferung und lokaler deutschsprachiger Service - RMA-Abwicklung und Garantieservice direkt in Deutschland",
+     "url": "https://ipc2u.de/ueber-uns/vendors/planet/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "合作年限与目录分类",
+     "quote": "IPC2U kooperiert mit PLANET seit über 25 Jahren zusammen, weil das Portfolio von Industrial Ethernet über PoE-Switches bis hin zu IP-Surveillance- und Glasfaserlösungen viele typische Netzwerk-Anforderungen in Industrie- und Infrastrukturprojekten abdeckt. … [Industrielle Ethernet Switches](https://ipc2u.de/catalog/industrielle-kommunikation/ethernet-switch/vendor-planet/) [Industrie Wireless Produkte] … [Serial Device Servers] … [Industrielle Converter und Repeater]",
+     "url": "https://ipc2u.de/ueber-uns/vendors/planet/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "跨仓",
+     "claim": "Mikrotik 侧 A-482（人工定级 A）—— 主表行 A-482",
+     "quote": "Industrial Personal Computer 2U GmbH (IPC2U) | 德国 | ipc2u.com | 分销（Antaira + Korenix 授权） | Antaira, Korenix | 首推 STI-488XGGPM | +49 511 807 259-0 / sales@ipc2u.de | ★★★ | 未触达 | 德/法/波/捷四国办公室，兼做系统集成 … 【人工定级】A —— R53 B段复筛达标升级",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "电话": "+49 511 807 259-0",
+    "办公室": "德/法/波/捷四国（Mikrotik 侧备注）",
+    "PLANET 合作": "自述 25 年+"
+   },
+   "who": "德国工业自动化分销/集成商，同时代理 PLANET（官方授权）、Antaira、Korenix 三家台湾工业交换机品牌",
+   "hook": "—（并档：首触以 Mikrotik 仓库为准，本仓不另发）",
+   "first_question": "—（见 Mikrotik 仓库 A-482）",
+   "subject": "—",
+   "biggest_unknown": "PLANET 目录具体型号与库存深度；采购/产品经理具名；所在城市",
+   "alts": [
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 8 口 PoE 管理型（无 10G）",
+     "reason": "走量档，不进首触邮件"
+    },
+    {
+     "model": "STI-21616DGGPM",
+     "scene": "工业 16 口 PoE",
+     "reason": "大型工业项目，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待 Mikrotik 侧首触信号）",
+   "boundary": "不接 EN50155/轨道（ITS 系列）、M12、无线、串口服务器类",
+   "mikrotik_ref": "A-482",
+   "notes": "Mikrotik 主表 A-482 同户（人工定级 A，sales@ipc2u.de）：首触以 Mikrotik 仓库为准，本仓只记录 PLANET 侧证据与对位，避免重复打扰（客户分级与去重规则 §4）。对照 CSV +1 行。德国第 5 户。",
+   "steps": [
+    {
+     "title": "（Mikrotik 侧首触后）PLANET 对位补充",
+     "push": "STI-488XGGPM",
+     "angle": "对位其 PLANET/Antaira/Korenix 工业 8 口 PoE + 10G 档",
+     "question": "—",
+     "action": "Mikrotik 侧回复后再定"
+    }
+   ],
+   "swot": {
+    "S": "三家台湾工业品牌多品牌分销、PLANET 官方授权、四国办公室",
+    "W": "并档仅补证、具名未知",
+    "O": "工业项目第二货源需求、台湾品牌价格上行",
+    "T": "Antaira/Korenix/PLANET 原厂关系深（25 年）"
+   }
+  },
+  {
+   "_code": "PC-013",
+   "c_sub": "C-体量过大/集团所属（EET Group = 本仓 PC-001；2024 营业额 £56.57M、97 人）",
+   "name": "Oprema Ltd (EET Group)",
+   "country": "英国",
+   "city": "Cardiff",
+   "website": "oprema.co.uk",
+   "type": "安防分销（trade-only 多品牌安防分销：CCTV / 门禁 / 入侵 / 消防 / 网络，2010 年起；英国最大 Dahua 分销；200+ 品牌；EET Group 成员；97 人、营业额 £56.57M（2024））",
+   "signal": "oprema.co.uk PLANET 商品页：「Planet Industrial L3 4-Port 2.5G 802.3bt PoE + 4-Port 10/100/1000T 802.3bt PoE + 2-Port 10G SFP+ Wall-mount Managed Switch, W128803290 … Distributor of Planet products. Same-day shipment」（W1288… 为 EET 集团 SKU 体系）",
+   "own_brand": "否",
+   "angle": "C 级备案：英国安防 trade 渠道中唯一上架 PLANET 的大分销（经 EET 集团货源）；若 EET 集团层面有 OEM/自有品牌采购议题，由 PC-001 统一看待",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "备用，不进首触（C 级）",
+   "tier": 0.2,
+   "tier_reason": "分销商 → 20%（备用）",
+   "priority": "★",
+   "rating": "C",
+   "rating_basis": "C-体量过大/集团所属：EET Group 成员（本仓 PC-001 EET Group 为 C-体量过大/集团采购），2024 营业额 £56.57M、97 人；PLANET 货源为集团库存（W1288… SKU）→ 采购决策在集团层面；sales@oprema.co.uk 为公开通用邮箱但不作为目标",
+   "source": "M2 品牌页反查（DE 安防批发去型号查询连带命中 oprema.co.uk PLANET 商品页）+ M9 名录核身（LinkedIn / Endole / The Security Event 新闻）",
+   "planet_models": [
+    "WGS-6325-8UP2X"
+   ],
+   "model_map": {
+    "WGS-6325-8UP2X": {
+     "saga": "—",
+     "note": "工业 L3 2.5G bt 壁挂，Saga 暂无对应型号（不推）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@oprema.co.uk",
+     "phone": "+44 29 2064 1509",
+     "status": "公开（Instagram 简介 / 官网）；C 级不触达",
+     "source": "https://www.instagram.com/oprema_uk/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 商品在售、自称 PLANET 分销",
+     "quote": "Planet Industrial L3 4-Port 2.5G 802.3bt PoE + 4-Port 10/100/1000T 802.3bt PoE + 2-Port 10G SFP+ Wall-mount Managed Switch. Distributor of Planet products. Same-day shipment.",
+     "url": "https://www.oprema.co.uk/en-gb/wgs-6325-8up2x-planet-ip30-industrial-l3-4-port-25g-8023bt-poe-4-port-101001000t-8023bt-poe-2-port-10g-sfp-wall-mount-managed-switch-wid-w128803290",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "体量（营业额/人数）",
+     "quote": "Oprema Limited … Incorporated 2 February 2010 … Turnover £56.57M Increased by £3.45M (+6%) Employees 97",
+     "url": "https://open.endole.co.uk/insight/company/07142421-oprema-limited",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "新闻",
+     "claim": "EET Group 成员、英国最大 Dahua 分销",
+     "quote": "Part of the EET Group, Oprema is a multi-brand security distributor. They stock CCTV, access control, fire, and intruder security products from over 200 brands, and are the leading Dahua distributor across the UK.",
+     "url": "https://www.thesecurityevent.co.uk/news/oprema-eet-group-expand-surveillance-security-business-acquisition-access-control-specialist-advanced-access",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "Unit 11 and 12 Eastgate Business Park, Wentloog Avenue, Cardiff CF3 2EY（PitchBook）",
+    "成立": "2010",
+    "体量": "97 人、£56.57M（2024，Endole）"
+   },
+   "who": "卡迪夫 trade-only 多品牌安防分销商，EET 集团成员，英国最大 Dahua 分销",
+   "hook": "—（C 级不发首触）",
+   "first_question": "—",
+   "subject": "—",
+   "biggest_unknown": "EET 集团层面 PLANET 采购量与是否有自有品牌交换机计划",
+   "alts": [],
+   "qual": "商业上未合格（集团采购）",
+   "boundary": "—",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表「oprema」仅命中塞尔维亚语「aktivna oprema」文本（A-466 3NET，无关）→ 非同户。记录目的：UK 安防 trade 渠道 PLANET 分布事实（W08 UK 9 家 trade 分销均无 PLANET，Oprema 经 EET 有）。",
+   "steps": [],
+   "swot": {
+    "S": "英国安防 trade 渠道龙头之一",
+    "W": "集团采购、体量过大",
+    "O": "—",
+    "T": "—"
+   }
+  },
+  {
+   "_code": "PB-002",
+   "name": "W3CAM SAS",
+   "country": "法国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W09 补证】PLANET 工业/加固 PoE 交换机专类仍在售（FR 安防批发查询再次命中；检索摘要所示类目名，页面 URL 以 W01 已核品牌页代指）",
+     "quote": "Switchs PoE PLANET industriels et durcis … Switch PLANET … Switchs PoE Administrables … +50 En stock",
+     "url": "https://www.w3cam.fr/brand/22-planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "【W09 补证】联系与注册信息",
+     "quote": "SAS W3CAM 3 Rue du Sous Marin Vénus 56100 Lorient … contact@w3cam.fr … 0 805 382 522 … TVA : FR73483019345",
+     "url": "https://www.w3cam.fr/contactez-nous",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "【W09 补证】体量与负责人",
+     "quote": "W3CAM (SAS) … Lorient … effectif 3 à 5 / 6 à 9 salariés (2023) … Président : Bertrand Ripoll",
+     "url": "https://www.pappers.fr/entreprise/w3cam-483019345",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W09 再次命中：HU/FR 本地语安防批发查询有效，但命中已在池；补证并入，不改评级）"
+  },
+  {
+   "_code": "PB-018",
+   "name": "Power Biztonságtechnikai Kereskedelmi Kft.",
+   "country": "匈牙利",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W09 补证】PLANET 专文「Planet Networking a Powertől!」与 IGS-10020HPT / PoE-E202 商品页仍被索引（HU 安防批发查询再次命中；具体页 URL 待补证，以官网根代指）",
+     "quote": "Planet Networking a Powertől! … IGS-10020HPT … PoE-E202",
+     "url": "https://www.powerbizt.hu/",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W09 再次命中：检索摘要另示 100+ 人、2024 净营收约 98 亿 HUF、总经理 Banai Miklós / Galambosi Ákos —— 页面 URL 未留存，列为待补证，不入证据表）"
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  {
+   "name": "PB-054 GelecekBT",
+   "reason": "CLR Networks 贴牌线归属（决定 ODM 话术与档位）；bayi@ 有效性"
+  },
+  {
+   "name": "PB-055 IPC2U",
+   "reason": "所在城市；PLANET 目录具体型号；Mikrotik 侧首触状态同步"
+  },
+  {
+   "name": "PB-053 Lin Haw",
+   "reason": "海关提单日期（免费页未给逐票日期）；PC Cable World 自有品牌是否含交换机"
+  },
+  {
+   "name": "W08 遗留",
+   "reason": "PB-052 具名/UL；PB-050 Planet 专类全清单；PB-051 现售状态 + 法人；WAV 线卡；Parnet；Movok/E-Link"
+  },
+  {
+   "name": "矿脉状态",
+   "reason": "安防本地语矿脉：IT / PL / CZ 未用去型号版本（IT 已 9 户、PL 7 户、CZ 6 户，预期低）；M12 免费层采尽；W10 应转向取证补缺 + Q-01 硬化，挖掘只保留每轮 ≤5 次抽查"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "W3CAM SAS（FR Lorient，w3cam.fr「Switchs PoE PLANET industriels et durcis」）",
+   "reason": "= PB-002（W01 已建档）；本轮补证并入 PB-002 备注：2005 年起、3–9 人、Président Bertrand Ripoll、contact@w3cam.fr；教训：先 grep 再查"
+  },
+  {
+   "name": "Power Biztonságtechnikai Kereskedelmi Kft.（HU Budapest，powerbizt.hu「Planet Networking a Powertől!」）",
+   "reason": "= PB-018（W02 已建档）；本轮补证并入 PB-018 备注：100+ 人、2024 净营收 98 亿 HUF、总经理 Banai Miklós / Galambosi Ákos、sales@ / info@powerbizt.hu、第二站 interstellar.hu"
+  },
+  {
+   "name": "CCTV shop s.r.o.（CZ Praha，cctv-shop.cz；IČO 19940823）",
+   "reason": "2024 年新设单一股东小网店（Hikvision 主线 + PLANET 工业交换机类目 ISW-501T / IGS-501T / IGS-4215-16T2S / IGS-6325-16T4X / WGS-804HPT）；eshop@ 通用邮箱、无采购入口 → §4 电商 skip；CZ 渠道由 ASM/100MEGA 独家供货"
+  },
+  {
+   "name": "JBN Security Systems B.V.（NL Almere）/ Avicam（NL）",
+   "reason": "安防批发，品牌墙 Hikvision/Dahua/TP-Link VIGI/Ajax/Omada/Reyee/Teltonika/Milesight，无 PLANET"
+  },
+  {
+   "name": "Övervakningsbutiken AB（SE Göteborg，Aetek 分销）/ GB Security（SE Härnösand，Dahua）/ Provision-ISR Sverige",
+   "reason": "无 PLANET"
+  },
+  {
+   "name": "Maxim Miranda（ES Lleida，50 年、2600 安装商）/ Sevitec / MayoristaSeguridad（ES）",
+   "reason": "品牌墙无 PLANET"
+  },
+  {
+   "name": "Planet Seguridad（AR）/ Sily MX / Relematic MX / Intercompras MX / Redatel CO",
+   "reason": "区域外（拉美）；Planet Seguridad 为同名噪音"
+  },
+  {
+   "name": "ITESA-Veditec（FR Marseille）/ Surexpert / Sedea（FR）/ maison-du-cable.com（FR 电商，PLANET GSW-1600HP 缺货）",
+   "reason": "无 PLANET 或电商缺货"
+  },
+  {
+   "name": "SECPLAN Technik GmbH / TURM GmbH（DE）",
+   "reason": "Ajax/自有视频线，无 PLANET"
+  },
+  {
+   "name": "smartlink.com.tr / rimaelektronik.com（TR）",
+   "reason": "rima = PB-032 再次命中；smartlink 为电商噪音（W04 已 skip）"
+  },
+  {
+   "name": "bizsyscon.com",
+   "reason": "= PB-022 Business Systems Connection（A-532）再次命中"
+  },
+  {
+   "name": "planet.neteon.net",
+   "reason": "= PB-004 Neteon 再次命中"
+  },
+  {
+   "name": "connectdata.fr",
+   "reason": "= Connect Data（Mikrotik A-254，本仓并档）再次命中"
+  },
+  {
+   "name": "Tesla Networks（BE）/ MPI / INOVIS / ENGITECH / Alltron / DDS / FIVE Informatik（CH）/ HellasCom / CABLEWORKS / XPATIT / Hellas Digital / E-WIRELESS / MARAC（GR）/ Infinite Technology / Winncom / gCnTech（IE）/ Puma IT / Nextron / Danbit / Dvisor（DK）",
+   "reason": "国家空白单域名/小组复核：本轮无 PLANET 证据（未命中≠无 PLANET，不并档、不判无）"
+  },
+  {
+   "name": "ImportKey / Volza / TradeIndia",
+   "reason": "M12 免费源：ImportKey 仅列 2 名买家、Volza 只有国家级统计 → 无新名；M12 免费源采尽"
+  },
+  {
+   "name": "Lorex / UTC / Axis / Legrand / Infinite / SYSCOM / American Time",
+   "reason": "W08 已 skip，不重复"
+  }
+ ]
+}

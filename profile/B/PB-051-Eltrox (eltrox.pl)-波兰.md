@@ -148,7 +148,7 @@ updated: 2026-10-20
 **主题**：PoE switch to fill the gap left by the unavailable PLANET FNSW-1600P
 
 ```text
-Hi —（网店/销售）,
+Hi there,
 
 Your PLANET FNSW-1600P page is showing as unavailable while camera projects still need a PoE switch on the shelf; a Gigabit 8-port managed PoE unit fills that slot at a lower landed cost than moving customers up to the big brands.
 

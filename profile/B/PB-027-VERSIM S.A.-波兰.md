@@ -145,7 +145,7 @@ updated: 2026-10-20
 **主题**：Value-tier PoE+ switch for VERSIM's integrator channel
 
 ```text
-Hi —（销售）,
+Hi there,
 
 PLANET came into your portfolio as the value tier under Extreme; a direct PoE+ second source gives your integrators that tier at a better margin.
 

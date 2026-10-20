@@ -156,7 +156,7 @@ updated: 2026-10-20
 **主题**：Second-source PoE+ switch tier for ABP's VAR channel
 
 ```text
-Hi —（销售，美国）,
+Hi there,
 
 PLANET carries your IP-infrastructure line for VARs across the US and Canada; a direct second-source PoE+ switch adds a margin tier without changing what your resellers install.
 

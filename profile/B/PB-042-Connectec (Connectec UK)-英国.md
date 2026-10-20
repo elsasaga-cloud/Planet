@@ -158,7 +158,7 @@ updated: 2026-10-20
 **主题**：Second-source industrial PoE+ for Connectec's trade counter
 
 ```text
-Hi —（销售）,
+Hi there,
 
 PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs.
 

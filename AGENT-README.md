@@ -57,7 +57,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | `docs/reference/Saga公司画像与边界.md` | 用户背景 docx 的结构化版 |
 | `docs/methodology/Planet客户挖掘方法论.md` | M1–M10 方法与国家顺序 |
 | `docs/methodology/死路与死链备案.md` | 404/登录墙/匿名页 + 信号源名单 + 区域外命中 |
-| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 45 行（W03 +8 行，W04 改写 8 行说明，W05 改写 7 行，W06 +5 行：A-541/A-270/A-546/A-096/A-553，W07 +2 行：B-201/B-274） |
+| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 46 行（W09 +1 行：A-482 IPC2U；此前 45 行：W03 +8 行，W04 改写 8 行说明，W05 改写 7 行，W06 +5 行：A-541/A-270/A-546/A-096/A-553，W07 +2 行：B-201/B-274） |
 | `docs/requirements/待统一处理问题清单.md` | T07 起所有待用户裁定事项（Q-xx 冻结编号 + 默认处理）；Agent 不再逐轮提问 |
 
 ## 4. 操作记录
@@ -72,6 +72,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | 2026-10-20 01:08–01:20 | PR-02 · W06 | 沙箱重置后 `git reset --soft origin/arena/3f35b9b3-planet` 对齐、重克隆 Mikrotik 参照；T07 落账（对话全记录 T07、总账 PR-02-07、新建 待统一处理问题清单 Q-01…Q-10，本轮追加 Q-11/Q-12）；W06 挖掘（web_search 13 次 depth 1；Mikrotik 工业品牌渠道行 69 行候选 → 分组域名查询）；批次 JSON 由 `/home/user/_scratch/build_w06.py` 生成；add_batch（added=4 merged=1）/render（75）/audit；CSV 直接改 PB-005 对照 A-541（W01 JSON 同步）；对照 CSV +5 行；README/总账/死路/方法论 | CSV 75 行，profile 75 份，audit errors 0 |
 | 2026-10-20 02:00–02:15 | PR-02 · W07 | 沙箱第二次重置后同法对齐（`git reset --soft origin/…` + 重克隆 Mikrotik 参照）；T08「继续挖」落账（对话全记录 T08 / T08-R）；W07 挖掘（web_search 17 次 depth 1 + fetch_page 1：Mikrotik「分销（MikroTik 官方）/WISP」行 ≈110 域名 12 组分组查询 → 2 命中）；批次 JSON 由 `/home/user/_scratch/build_w07.py` 生成；add_batch（added=2 merged=0）/render（77）/audit；对照 CSV +2 行（45）；README/总账/死路/方法论 | CSV 77 行，profile 77 份，audit errors 0 |
 | 2026-10-20 02:17–02:27 | PR-02 · W08 | T09「继续挖」落账（对话全记录 T09 / T09-R）；W08 挖掘（web_search 21 次 depth 1 + fetch_page 8 段：安防分销 dealer-only 角度 PL/TR/ES/DE/UK/US + 新矿脉 M12 美国海关提单反查 ImportGenius/ImportYeti）；批次 JSON 由 `/home/user/_scratch/build_w08.py` 生成；add_batch（added=3 merged=0）/render（80）/audit；PC-012 C 级细分与 M11→M12 来源字样在 CSV + 批次 JSON 中直接订正（add_batch 不重跑已入库批次）；对照 CSV 不变（45）；README/总账/问题清单 Q-13 Q-14/死路/方法论 §一 M12 + §五 W08 | CSV 80 行，profile 80 份，audit errors 0 |
+| 2026-10-20 02:30–02:50 | PR-02 · W09 | T10「继续挖」落账（对话全记录 T10 / T10-R）；W09 挖掘（web_search 20 次 depth 1 + fetch_page 6 段：M12 延伸 ImportKey/ImportYeti/Volza、去型号本地语安防批发 CZ/HU/FR/NL/SE/ES/TR/DE、BE/CH/GR/IE/DK 20 域名复核、Oprema 核身、linhawstore 回查 ×3）；批次 JSON 由 `/home/user/_scratch/build_w09.py` 生成（3 新户 + PB-002/PB-018 补证条）；add_batch（added=3 merged=2）/render（83）/audit；**PB-053 事后更正**直接改 W08 JSON + 主表（信号/切入点/评级依据/备注/证据 +2 条）；PB-055 跨仓证据 URL 改为 GitHub 文件链接以过审计；对照 CSV +1 行（A-482）；`scripts/render.py` 问候语修正（占位联系人 → Hi there，44 份 profile 重渲染）；README/总账/死路/方法论 §一 M12 边界 + §五 W09 | CSV 83 行，profile 83 份，对照 CSV 46 行，audit errors 0 |
 
 ## 5. 已知坑（本仓库）
 

@@ -137,7 +137,7 @@ updated: 2026-10-20
 **主题**：8-port PoE+ / 2 SFP switch, second source to GSD-804P / GS-4210-8P2S
 
 ```text
-Hi —（销售）,
+Hi there,
 
 Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone.
 
