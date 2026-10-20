@@ -1,0 +1,48 @@
+{
+  "crawled_at": "2026-10-20T08:25:27Z",
+  "host": "www.smartbyte-switch.com",
+  "complete": true,
+  "pages_total": 1,
+  "pages_ok": 0,
+  "pages_failed": [
+    "https://www.smartbyte-switch.com/"
+  ],
+  "pages_stop": "complete (queue empty)",
+  "queue_left": 0,
+  "downloads_total": 0,
+  "downloads_ok": 0,
+  "downloads_left": 0,
+  "downloads_stop": "complete",
+  "downloads_bytes": 0,
+  "pdfs_committed": true,
+  "pdf_text_files": 0,
+  "images_total": 0,
+  "images_ok": 0,
+  "images_left": 0,
+  "images_stop": "complete",
+  "images_bytes_this_run": 0,
+  "external_hosts": {},
+  "runs": [
+    {
+      "run": "2",
+      "started": "2026-10-20T08:24:29Z",
+      "resumed": false,
+      "budget_min": 140.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-20T08:25:27Z",
+      "elapsed_s": 59,
+      "pages_new": 1,
+      "downloads_new": 0,
+      "images_new": 0,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
+    }
+  ],
+  "elapsed_s": 59,
+  "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
+  "delay_s": 0.8,
+  "time_budget_min": 140.0,
+  "how_to_continue": null
+}

@@ -1,0 +1,9 @@
+===== run 2 =====
+[08:24:29] run 2 start; resume=False; budget 140.0 min; max_pages 1500; delay 0.8s
+[08:24:49] sitemap fetch failed: HTTP 403
+[08:25:27] FAIL https://www.smartbyte-switch.com/: HTTP 403
+[08:25:27] BFS stop: complete (queue empty); pages=1 (+1) downloads=0 images=0
+[08:25:27] downloads stop: complete; ok 0/0 (+0 this run), 0.0 MB
+[08:25:27] pdftotext: 0
+[08:25:27] downloads total 0.0 MB → committed to git: True
+[08:25:27] images stop: complete; ok 0/0 (+0 this run), 0.0 MB this run
