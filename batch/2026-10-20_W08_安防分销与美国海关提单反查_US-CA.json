@@ -1,0 +1,540 @@
+{
+ "batch": "2026-10-20_W08_安防分销与美国海关提单反查_US-CA",
+ "date": "2026-10-20",
+ "method": [
+  "T09「继续挖」：不提问，只挖；待裁定事项追加到 待统一处理问题清单.md（本轮 Q-13 / Q-14）",
+  "矿脉 A（安防分销 dealer-only 站）：各国安防批发角度查询（PL/TR/ES/DE/UK/US）→ 命中 cctv.net（PLANET 1028 件 dealer 价目表）；dealer-only 站名单分组核验（US 7 站 / UK 9 站）均无 PLANET → 美英安防渠道以 Hikvision/Dahua/TP-Link/自有品牌为主，PLANET 渗透率低",
+  "矿脉 B（美国海关提单 M12，新开）：web_search 连带命中 importgenius.com 供应商页 → fetch_page ImportGenius + ImportYeti 免费页，得到 PLANET Technology Corp 的美国进口商名单（Versa / StarTech / Lorex / SYSCOM / UTC / Axis / Infinite / Pass & Seymour Legrand / Lin Haw / American Time）→ 逐一核身：Lin Haw（CA 批发商，建档 B）、StarTech（ODM 客户，C + Q-13）、其余巨头/区域外/消费级/非渠道 skip",
+  "提单矿脉边界：只覆盖海运进美国的直接进口商（PLANET 欧洲走台湾→荷兰/德国仓，不在美国 AMS 数据内）；提单证明「买过」，在售证据仍需站内目录补足；完整名单在付费墙后（ImportGenius $229/月）→ Q-14",
+  "同户核对：三户 Mikrotik 主表全列 grep 均无命中 → 非并档；对照 CSV 不变"
+ ],
+ "tools": "web_search depth 1（21 次）+ fetch_page（5 次：cctv.net ×2、importgenius ×3 段、importyeti ×3 段）",
+ "queries": [
+  "\"Planet\" PoE switch \"security distributor\" OR \"low voltage distributor\" OR \"wholesale security\" IGS OR GS-4210 -adi -wesco -graybar -anixter -planetechusa -amazon -ebay（只回 PLANET 产品页/EET → 无）",
+  "switch PoE Planet hurtownia monitoring CCTV dystrybutor instalator -eltrox -morele -rfog -fen -action -versim -media-konwertery（PL 安防批发角度：无 PL 新户；连带命中 cctv.net/brands/planet → PB-052）",
+  "cctv.net \"dealers only\" security distributor about us contact Planet brands wholesale（核身起步，结果偏题 → 改 fetch_page）",
+  "[fetch_page] https://cctv.net/brands/planet（1028 件 PLANET、dealer pricelist 链接、MSRP Dealers Only）",
+  "[fetch_page] https://cctv.net/contact（16037 Arminta St, Van Nuys CA 91406；sales@ / support@ / info@cctv.net；888-369-CCTV）",
+  "\"cctv.net\" Van Nuys \"Arminta\" distributor security \"Inc\" OR \"LLC\" dealers Planet Hikvision Uniview（法人 STS Lab, Inc.：隐私政策 / SDM 买家指南 / Vivotek where-to-buy；2001 年起；营收 $10–25M）",
+  "Planet PoE switch \"IGS-\" OR \"GS-4210\" OR \"GSD-\" security distributor \"integrators\" \"dealer\" login OR \"dealers only\" OR \"trade only\" -adi -planetechusa -amazon -ebay -newegg -cctv.net -wesco -anixter（只回 cctv.net 产品页 → 无新站）",
+  "\"Planet\" PoE switch (\"Security Data Supply\" OR \"JMAC Supply\" OR \"Alarmax\" OR \"Security Equipment Supply\" OR \"Tri-Ed\" OR \"Jenne\" OR \"SecurityLineUSA\" OR \"Alpha Security Distributors\")（美国独立安防分销点名核验：无 PLANET 证据）",
+  "Planet PoE switch güvenlik sistemleri toptan distribütör bayi \"GS-4210\" OR \"IGS-\" OR \"GSD-\" -bimel -rima -ergen -nokta -parnet -n11 -hepsiburada -trendyol -akakce -cimri（TR 安防批发角度：只回 rimaelektronik（PB-032）→ 饱和）",
+  "Planet switch PoE mayorista videovigilancia CCTV distribuidor instaladores \"GS-4210\" OR \"IGS-\" OR \"GSD-\" -ciudadwireless -anatronic -amazon -pccomponentes -senetic（ES 安防批发角度：只回墨西哥 Desitec / Tecnosinergia（区域外）与 networkcamerastore.com）",
+  "Planet PoE Switch Videoüberwachung Großhandel Errichter Fachhändler \"GS-4210\" OR \"IGS-\" OR \"GSD-\" -spectra -planet-germany -lwl-shop24 -fiber24 -amazon -conrad -reichelt -industry-electronics（DE 安防批发角度：只回 networkcamerastore / jacob.de（PLANET Germany 条目）→ 无）",
+  "networkcamerastore.com about us company address phone \"Network Camera Store\" security integrator OR distributor（核身：奥兰多 B2B 网店，不备库存、全部由美国分销商代发 → §4 电商 skip）",
+  "\"PLANET Technology\" OR \"Planet Technology USA\" ISC West 2025 OR 2026 booth partner distributor exhibiting with（展会伙伴角度：只回 PLANET 自家新闻/展商页，无伙伴名 → 死路）",
+  "Planet PoE switch \"become a dealer\" OR \"dealer pricing\" OR \"dealer login\" security surveillance distributor USA -cctv.net -planetechusa -amazon -ebay -newegg（得到 DWG / Worldstar / Ellipse / Galaxy Security(CA) 等 dealer 站名单 → 下一条分组核验）",
+  "Planet switch PoE (\"dwg.us\" OR \"worldstarsecuritycameras.com\" OR \"galaxysecurity.com\" OR \"ellipsesecurity.com\" OR \"unixcctv.com\" OR \"a1securitycameras.com\" OR \"surveillance-video.com\")（分组核验：无 PLANET 证据；Worldstar 卖 Lysora）",
+  "Planet PoE switch CCTV trade distributor UK installers \"trade only\" OR \"trade counter\" OR \"trade prices\" -connectec -saratota -switchsfp -broadbandbuyer -comms-express -linitx -amazon -ebay（UK trade 分销名单：Mast Digital / CCTV Line / FVS / DVS / ISET / MIE / DDS / CCTV Kits → 下一条分组核验）",
+  "Planet switch (\"mastdigital.co.uk\" OR \"cctvline.co.uk\" OR \"fvs-cctv.com\" OR \"dvs.co.uk\" OR \"miecctv.co.uk\" OR \"digitaldirectsecurity.co.uk\" OR \"cctvkits.co.uk\" OR \"iset-uk.co.uk\" OR \"cctv-global.co.uk\")（UK trade 分销分组核验：无 PLANET 证据，均为 Hikvision/Dahua/TP-Link 线）",
+  "\"PLANET Technology\" OR \"Planet Technology Corporation\" \"distribution agreement\" OR \"new distributor\" OR \"distribution partner\" switches 2024 OR 2025 OR 2026 Europe OR USA OR Canada（无新签约新闻；连带命中 importgenius.com 供应商页 → 开出海关提单矿脉）",
+  "[fetch_page] https://www.importgenius.com/suppliers/planet-technology-corporation（3 段：Top importers Versa / StarTech.com USA / Lorex / Sistemas y Servicios de Comunicación / UTC Fire & Security / Axis c/o Scanfil / Infinite Electronics / Lin Haw Intl；Versa 另从 DWNET(Suzhou)/Tellion 进口）",
+  "\"Lin Haw International\" networking switches importer California OR Texas company Planet Technology（核身：Burnaby BC 加拿大批发商，1986 年起，10–50 人；Sales Manager Rob Baerg（第三方名录））",
+  "linhawstore.com OR linhaw.com Planet switch PoE brands Burnaby distributor contact sales（PoE Devices 类目 Planet (10)；sales@linhaw.com / helpdesk@linhaw.com；Frasers：17 人、营收 $10–25M）",
+  "StarTech.com supplier OR vendor inquiries \"become a supplier\" OR \"sourcing\" OR \"product sourcing\" contact London Ontario manufacturer partnership（无公开供应商入口；Datanyze 列 Vendor Management Manager, Purchasing / Senior Manager Regional Sourcing 人名（第三方名录，待核））",
+  "[fetch_page] https://www.importyeti.com/supplier/planet-technology-corporation（3 段：客户表 Versa 261 / UTC 175 / StarTech 97 / Sistemas y Servicios 90 / Lorex 73 / Pass & Seymour Legrand 42 / Lin Haw 24；近期提单另见 American Time and Signal、Axis、Infinite Electronics）",
+  "american-time.com PoE switch Planet \"American Time\" synchronized clocks PoE switch product（PoE 时钟厂商；PLANET 进口为组件/配件）",
+  "\"american-time.com\" OR \"American Time\" \"PoE switch\" OR \"PoE injector\" OR \"network switch\" accessory clocks Dassel SKU（安装手册明示「PoE Switch … not supplied by American Time」；注入器为 TP-Link TL-POE150S → 非交换机渠道，skip）",
+  "alvasta-tech.com Alvasta Tech company location contact distributor Planet switches（PT Alvasta Teknologi，雅加达 → 区域外 skip）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-052",
+   "name": "STS Lab, Inc. (CCTV.Net)",
+   "country": "美国",
+   "city": "Van Nuys, CA",
+   "website": "cctv.net",
+   "type": "安防分销商（独立安防/监控设备分销，2001 年起；自述 82 个品牌、服务集成商；dealer-only 定价；洛杉矶配送中心 + 全国履约中心）",
+   "signal": "cctv.net/brands/planet：PLANET 品牌页 1028 件商品、「planet dealer pricelist」价目表申请入口、MSRP (Dealers Only)、Become a Dealer；商品含 GS-4210-16P2S / GS-4210-24P2S / GS-4210-16UP4C / GS-4210-24T4SR / GS-5220-48P4X / BSP-300 / FGSD 系列",
+   "own_brand": "否",
+   "angle": "独立安防分销商把 PLANET 作为交换机主线之一（1028 SKU、专属 dealer 价目表）→ Saga 作其摄像机项目 PoE 接入层的第二货源（24 口 PoE+ 与 8 口 PoE 管理型），中性包装或 Saga 标",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "对位其在售 GS-4210-24P2S（24 口 802.3at + 2 SFP，300W）——Saga 为 280W、4×SFP 上联（注明）；安防分销商 24 口 PoE 为走量档",
+   "tier": 0.2,
+   "tier_reason": "分销商 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 全系 1028 件 + dealer 价目表（PLANET 为其在售交换机主线）；触达：sales@cctv.net / info@cctv.net（官网联系页公开），无具名；体量：独立分销商（营收 $10–25M 第三方估计），可赢；美国在区域内 → B。注意：美国安防渠道常问 UL/ETL（Saga 无 UL）→ 第二封前核（同 Q-02 美国三户规则）",
+   "source": "M2 品牌页反查（web_search 波兰安防批发查询连带命中 cctv.net/brands/planet）+ fetch_page 核页 + M9 第三方名录核法人（SDM 买家指南 / Vivotek where-to-buy / 隐私政策 = STS Lab, Inc.）",
+   "planet_models": [
+    "GS-4210-24P2S",
+    "GS-4210-16P2S",
+    "GS-4210-16UP4C",
+    "GS-4210-24T4SR",
+    "GS-5220-48P4X",
+    "BSP-300",
+    "FGSD-1022P",
+    "FGSD-910P"
+   ],
+   "model_map": {
+    "GS-4210-24P2S": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "PLANET 300W/2 SFP；Saga 280W/4 SFP（注明）"
+    },
+    "GS-4210-16P2S": {
+     "saga": "STC-28DGGPM",
+     "note": "Saga 暂无 16 口商用 PoE，以 8 口千兆 PoE 管理型切入（口数不同，注明）"
+    },
+    "GS-4210-16UP4C": {
+     "saga": "—",
+     "note": "802.3bt 95W，Saga 暂无 bt 商用型号（不推）"
+    },
+    "GS-4210-24T4SR": {
+     "saga": "STC-424DGGM",
+     "note": "24 口千兆非 PoE 管理型（Saga 为非管理，注明）"
+    },
+    "GS-5220-48P4X": {
+     "saga": "STC-448DGGPM",
+     "note": "48 口 PoE + 10G 上联 L2+；Saga 48 口 PoE（上联规格注明）"
+    },
+    "BSP-300": {
+     "saga": "—",
+     "note": "太阳能工业 PoE，Saga 暂无对应型号（不推）"
+    },
+    "FGSD-1022P": {
+     "saga": "—",
+     "note": "FE PoE 管理型，Saga 暂无对应型号（不推）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@cctv.net",
+     "phone": "+1 888-369-2288 / +1 818-804-4693",
+     "status": "公开（官网 Contact 页）",
+     "source": "https://cctv.net/contact"
+    },
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@cctv.net",
+     "phone": "+1 818-332-7991",
+     "status": "公开（官网隐私政策页，法人 STS Lab, Inc.）",
+     "source": "https://cctv.net/privacy-policy"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页 1028 件 + dealer 价目表入口",
+     "quote": "Planet … pricelist … **1028** products … Brand: **Planet** … GS-5220-48P4X … MSRP ( Dealers Only ) … Add to Quote",
+     "url": "https://cctv.net/brands/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 交换机单品页（dealer-only）",
+     "quote": "Planet - GS-4210-16P2S - IPv6/IPv4, 16-Port Managed 802.3at PoE+ Gigabit Ethernet Switch + 2-Port 100/1000X SFP … Price: Dealers only … Login / Become a Dealer",
+     "url": "https://cctv.net/16-port-10/100/1000t-802.3at-poe-2-port-100/1000x-sfp-managed-switch",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "地址与公开邮箱",
+     "quote": "16037 Arminta St. Van Nuys, CA 91406 … Toll-Free Phone: (888) 369-CCTV … Outside the US: (818) 804-4693 … Sales sales@cctv.net … General Inquiries info@cctv.net",
+     "url": "https://cctv.net/contact",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "法人名称",
+     "quote": "please contact CCTV.Net at: STS Lab, Inc. 16037 Arminta St Van Nuys, California 91406 Email Address: info@cctv.net Telephone number: 8183327991",
+     "url": "https://cctv.net/privacy-policy",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "独立安防分销商定位、2001 年起",
+     "quote": "CCTV.net, founded in 2001, is the integrators choice for a premier independent security distributor. With a distribution center in the Los Angeles area and several fulfillment centers nationwide stocking a full line of the industrys leading security cameras, IP cameras …",
+     "url": "https://www.zoominfo.com/c/cctv-net/16895714",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "82 个品牌、服务集成商",
+     "quote": "CCTV Net is a trusted stocking distributor of a wide range of security and surveillance products, serving integrators since 2001. With an extensive inventory and 82 popular brands",
+     "url": "https://www.mapquest.com/us/california/cctv-net-357863019",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "体量估计（口径不一）",
+     "quote": "Cctv.Net … 1-10 Employees … Revenue: $10 Million to $25 Million … SIC: 5065",
+     "url": "https://www.cience.com/company/cctvnet/5975889174267947118",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "16037 Arminta Street, Suite #3, Van Nuys, CA 91406-1801",
+    "法人": "STS Lab, Inc.（dba CCTV.Net）",
+    "成立": "2001",
+    "体量": "营收 $10–25M（Cience 估计）；员工数口径 1–10（Cience）vs 51–200（ContactOut）→ 待补证"
+   },
+   "who": "洛杉矶独立安防分销商，PLANET 全系 1028 件 dealer-only 在售，服务安防集成商",
+   "hook": "PLANET is one of the deepest switch lines in your dealer catalog; a second source on the 24-port PoE+ tier lets you hold dealer pricing on camera projects when PLANET lead times or price moves get in the way.",
+   "first_question": "On camera projects, is the 24-port PoE+ managed tier or the 8-port the one your dealers reorder most from the PLANET line?",
+   "subject": "Second source for the 24-port PoE+ tier in your PLANET line",
+   "biggest_unknown": "具名采购人（sales@/info@ 为部门邮箱）；是否要求 UL/ETL（Saga 无 UL）；年走量",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 小型摄像机点位",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-448DGGPM",
+     "scene": "48 口 PoE 大型项目",
+     "reason": "对位 GS-5220-48P4X，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号；UL 门槛待核）",
+   "boundary": "Saga 无 bt/UL/太阳能/FE PoE 型号；不接 GS-4210-16UP4C / BSP-300 / FGSD 替换",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表全列 grep「cctv.net / sts lab」无命中 → 非同户。美国第 12 户；W08 安防分销 dealer-only 矿脉首个命中。",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "对位 GS-4210-24P2S；280W/4 SFP（注明）",
+     "question": "On camera projects, is the 24-port PoE+ managed tier or the 8-port the one your dealers reorder most from the PLANET line?",
+     "action": "无附件"
+    },
+    {
+     "title": "UL/ETL 门槛核",
+     "push": "—",
+     "angle": "第二封前确认其 dealer 是否要求 UL/ETL（Saga 仅 CE/RoHS/FCC）",
+     "question": "Do your dealers require UL or ETL listing on PoE switches, or is FCC/CE acceptable for most jobs?",
+     "action": "证书清单 1 页"
+    },
+    {
+     "title": "样机到 Van Nuys",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "与其主销摄像机做 PoE 兼容测试",
+     "question": "Which camera line should we test it against first?",
+     "action": "PoE 兼容/功率表 1 页"
+    },
+    {
+     "title": "批量条件",
+     "push": "STC-424DGGPM-280W + STC-28DGGPM",
+     "angle": "MOQ/付款/EXW 运费路径（洛杉矶港）",
+     "question": "What quarterly volume per model would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 全系在售、dealer 价目表、公开 sales@、洛杉矶港口近",
+    "W": "无具名、UL 门槛未知、体量口径不一",
+    "O": "独立安防分销商对价格敏感、PLANET 价格透明可被对比",
+    "T": "Hikvision/Uniview 自带交换机捆绑；PTUSA 直供价压"
+   }
+  },
+  {
+   "_code": "PB-053",
+   "name": "Lin Haw International Co., Ltd.",
+   "country": "加拿大",
+   "city": "Burnaby, BC",
+   "website": "linhawstore.com",
+   "type": "分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）",
+   "signal": "linhawstore.com「POE Devices」类目厂商筛选 Planet (10)、「Antennas」Planet (1)；美国海关提单（ImportGenius / ImportYeti）：供应商 PLANET Technology Corp → 进口商 LIN HAW INTL CO LTD 共 24–35 票（Gigabit Ethernet Switch / Fast Ethernet Switch）；同时从 SAFEWELL GROUP / EPNEW ELECTRONICS（中国 OEM）进口",
+   "own_brand": "否（未见；待补证）",
+   "angle": "自己走海运直接进口 PLANET 交换机（不经 Globall/PTUSA）且已从中国 OEM 进口 → 有进口链路、接受中国货源；Saga EXW + 中性包装模式直接契合，作其 PoE 交换机第二货源",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步",
+   "tier": 0.2,
+   "tier_reason": "分销商 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 直接进口商（海关提单）+ 站内 PLANET PoE 设备 10 款在售；触达：sales@linhaw.com（官网页脚公开）/ 604-325-8880，具名 Sales Manager Rob Baerg 仅见第三方名录（Frasers / ZoomInfo，无公开邮箱 → 待核，不猜）；体量小（17 人），可赢；加拿大在区域内 → B",
+   "source": "M12 美国海关提单反查（ImportGenius / ImportYeti 供应商页：PLANET Technology Corp 的美国进口商名单）+ M2 品牌页反查（linhawstore.com 类目筛选）+ M9 名录核身（Frasers / LinkedIn / CyberPower where-to-buy）",
+   "planet_models": [],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@linhaw.com",
+     "phone": "+1 604-325-8880 / 1-800-663-2284",
+     "status": "公开（官网 Brand Page 页脚）",
+     "source": "https://www.linhawstore.com/shop/brands"
+    },
+    {
+     "name": "Rob Baerg",
+     "role": "Sales Manager",
+     "email": "",
+     "phone": "",
+     "status": "待核（Frasers Directory / ZoomInfo 第三方名录列名；无公开邮箱，不猜）",
+     "source": "https://www.frasersdirectory.com/suppliers/lin-haw-international-co-ltd-16693724812/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "海关提单",
+     "claim": "PLANET 直接进口商（美国海关 AMS 数据）",
+     "quote": "LIN HAW INTL CO LTD … Top trading partners … PLANET TECHNOLOGY CORPORATION 35± shipments … EPNEW ELECTRONICS CO.,LTD. 41± shipments … SAFEWELL GROUP HOLDINGS LIMITED 39± shipments",
+     "url": "https://www.importgenius.com/suppliers/planet-technology-corporation",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "海关提单",
+     "claim": "进口品名为以太网交换机",
+     "quote": "Lin Haw International … Canada … 24 … Computer Components Gigabit Ethernet Switch Fast Ethernet Switch, Computer Components, Computer Components Ethernet Switch … HS Codes: 8517.18, 8517.62",
+     "url": "https://www.importyeti.com/supplier/planet-technology-corporation",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "站内 PLANET PoE 设备在售",
+     "quote": "POE Devices (35) **Manufacturer**: - Eyesonic (6) - Generic (1) - Netgear (4) - Open-Mesh (3) - Planet (10) - PowerDsine by Microsemi (4) - Ubiquiti Networks (7) … Address: 108 - 8620 Glenlyon Parkway Burnaby, BC, V5J 0B6 Tel: 6043258880 Email: helpdesk@linhaw.com",
+     "url": "https://www.linhawstore.com/networking-devices-accessories/wired/poe-devices.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公开销售邮箱与电话",
+     "quote": "#108 - 8620 Glenlyon Parkway Burnaby BC V5J 0B6 604-325-8880 1-800-663-2284 sales@linhaw.com Business Hours: 8:00am - 4:30pm, M-F",
+     "url": "https://www.linhawstore.com/shop/brands",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "体量与具名销售经理",
+     "quote": "Lin Haw International Co. Ltd. … Wholesaler … Year established: 1986 Number of employees: 17 Estimated annual revenue: $10,000,000 to $24,999,999 … Contacts - Mr Rob Baerg Sales Manager",
+     "url": "https://www.frasersdirectory.com/suppliers/lin-haw-international-co-ltd-16693724812/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "定位：加拿大本土 B2B 批发与进口商",
+     "quote": "Wholesale Distributor of IT, A/V and Security hardware since 1986 … For more than 20 years we have established ourselves as a reliable importer at the forefront of the industry … Company size: 11-50 employees",
+     "url": "https://ca.linkedin.com/company/lin-haw-international-company-ltd",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "#108 - 8620 Glenlyon Parkway, Burnaby, BC V5J 0B6",
+    "成立": "1986",
+    "体量": "17 人、营收 $10–25M（Frasers 2022）"
+   },
+   "who": "温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口",
+   "hook": "You already bring PLANET switches in direct from Taiwan; an EXW second source on the 8- and 24-port PoE managed tiers with neutral packing drops into the same import lane without changing how you buy.",
+   "first_question": "Of the PoE switches you import today, is the 8-port Gigabit PoE managed tier or the 24-port the one that turns fastest for your resellers?",
+   "subject": "Second source for your PoE switch imports, same EXW lane",
+   "biggest_unknown": "10 款 PLANET PoE 设备具体型号；Rob Baerg 直邮；是否有自有品牌/白牌计划（Safewell/EPNEW 进口品类）",
+   "alts": [
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24 口 PoE 办公/监控",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 DIN 8 口 PoE",
+     "reason": "若其安防/工业客户有需求，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "不接 PoE 注入器/天线/线缆类（Saga 暂无对应）；消费级配件不碰",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表全列 grep「linhaw / lin haw」无命中 → 非同户。加拿大第 6 户；海关提单矿脉（M12）首个可建档命中——提单只能证明「买过 PLANET」，在售证据另由站内类目补足。",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-28DGGPM",
+     "angle": "8 口千兆 PoE 管理型；EXW + 中性包装",
+     "question": "Of the PoE switches you import today, is the 8-port Gigabit PoE managed tier or the 24-port the one that turns fastest for your resellers?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Burnaby",
+     "push": "STC-28DGGPM（1 台）",
+     "angle": "与其在售 Ubiquiti/Netgear PoE 线并行测试",
+     "question": "Which reseller account could run one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "批量条件",
+     "push": "STC-28DGGPM + STC-424DGGPM-280W",
+     "angle": "MOQ/付款/EXW 运费路径（温哥华港）",
+     "question": "What quarterly volume per model would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "直接进口能力、已接受中国 OEM 货源、公开 sales@、小公司决策链短",
+    "W": "无具名直邮、PLANET 具体型号未取证、PoE 类目 35 款分散多品牌",
+    "O": "加拿大西部 PLANET 渠道由 Globall（安大略）覆盖，西岸直供有物流优势",
+    "T": "Ubiquiti/Netgear 价格线；加元汇率"
+   }
+  },
+  {
+   "_code": "PC-012",
+   "name": "StarTech.com Ltd (StarTech.com USA LLP)",
+   "country": "加拿大",
+   "city": "London, ON（美国仓 Groveport, OH）",
+   "website": "startech.com",
+   "type": "自有品牌 IT 连接/网络配件品牌商（1985 年起，≈500 人，营收 ≈$136M+；全球分销网络）",
+   "signal": "美国海关提单（ImportGenius / ImportYeti）：供应商 PLANET Technology Corp → 进口商 STARTECH.COM USA LLP 95–97 票（Media Converter / Port Gigabit PoE Extender / Unmanaged Gigabit Fiber Media Converter），最近 2026-09-24 → PLANET 为其 ODM 供应商",
+   "own_brand": "是（StarTech.com）",
+   "angle": "OEM/ODM：其媒体转换器/PoE 延长器由 PLANET 代工 → 若扩展非管理/管理型 PoE 交换机 SKU，Saga 可作 Marvell 方案 ODM 备选；但体量与供应商准入门槛远超 Saga 现状",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "ODM 角度最可能的切入 SKU（8 口千兆 PoE 管理型，Saga 标或 StarTech 标）；仅备用，不进首触",
+   "tier": 0.3,
+   "tier_reason": "OEM/ODM 定制 → 30%",
+   "priority": "★",
+   "rating": "C",
+   "rating_basis": "C-体量过大 + 无公开采购入口：≈500 人品牌商，供应商准入需审厂/合规体系；采购人名（Byron Budden – Vendor Management Manager, Purchasing；Connie Fung – Senior Manager, Regional Sourcing）仅见 Datanyze 第三方名录、无公开邮箱 → 不猜；是否走 LinkedIn 触达其采购 = 待裁定 Q-13（默认不触达）",
+   "source": "M12 美国海关提单反查（ImportGenius / ImportYeti）+ M9 名录核身（Datanyze）",
+   "planet_models": [],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "Byron Budden",
+     "role": "Vendor Management Manager, Purchasing",
+     "email": "",
+     "phone": "",
+     "status": "待核（Datanyze 第三方名录；无公开邮箱，不猜）",
+     "source": "https://www.datanyze.com/companies/startechcom/36504563"
+    },
+    {
+     "name": "Connie Fung",
+     "role": "Senior Manager, Regional Sourcing",
+     "email": "",
+     "phone": "",
+     "status": "待核（Datanyze 第三方名录；无公开邮箱，不猜）",
+     "source": "https://www.datanyze.com/companies/startechcom/36504563"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "海关提单",
+     "claim": "PLANET 为其 ODM 供应商（95 票，持续至 2026-09）",
+     "quote": "Top Trading Partners … STARTECH.COM USA LLP … | 2 | STARTECH.COM USA LLP | Los Angeles, California | 2026-09-24 | 95 | 104168 Kgs | … EXDO6810998142 | MEDIA CONVERTER HTS: 851762 | STARTECH.COM USA LLP | PLANET TECHNOLOGY CORPORATION | 2026-09-24",
+     "url": "https://www.importgenius.com/suppliers/planet-technology-corporation",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "海关提单",
+     "claim": "进口品名含 PoE 延长器与光纤媒体转换器",
+     "quote": "Startech Com Usa … Groveport … 97 … Duplicator, Port Gigabit Poe Extender, Audio Video Signal Processor, Unmanaged Gigabit Fiber Media Converter, Cable",
+     "url": "https://www.importyeti.com/supplier/planet-technology-corporation",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "体量与采购职能人名",
+     "quote": "StarTech was founded in 1985 … headquarters are located in London, Ontario, Canada … Connie Fung Senior Manager, Regional Sourcing … Byron Budden Vendor Management Manager, Purchasing … StarTech.com revenue is $135.8 M … StarTech.com has 500 employees",
+     "url": "https://www.datanyze.com/companies/startechcom/36504563",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "45 Artisans Cres, London, Ontario N5V 5E9",
+    "成立": "1985",
+    "体量": "≈500 人、营收 ≈$135.8M（Datanyze）"
+   },
+   "who": "加拿大 IT 配件品牌商，PLANET 为其媒体转换器/PoE 延长器 ODM 供应商",
+   "hook": "—（C 级不发首触）",
+   "first_question": "—",
+   "subject": "—",
+   "biggest_unknown": "是否有 PoE 交换机 ODM 需求；供应商准入条件；采购人直邮",
+   "alts": [],
+   "qual": "商业上未合格（体量/准入门槛）",
+   "boundary": "不做消费级配件；无 UL；不接管理平台定制",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表「startech」仅命中 C-049 Inmac Wstore 文本（无关）→ 非同户。记录目的：PLANET ODM 客户事实 + Q-13 待裁定（LinkedIn 触达采购与否）。",
+   "steps": [],
+   "swot": {
+    "S": "明确的 ODM 采购行为（PLANET 代工）",
+    "W": "体量/准入门槛、无公开采购入口",
+    "O": "若 PLANET 价格或交期波动，可能寻找第二 ODM",
+    "T": "现有台湾/中国 ODM（Safewell、Emegatech、Rextron）已深度绑定"
+   },
+   "c_sub": "C-体量过大/品牌商 ODM 准入门槛 + 无公开采购入口（Q-13 待裁定是否 LinkedIn 触达）"
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  {
+   "name": "PB-052 STS Lab / CCTV.Net",
+   "reason": "具名采购人；UL/ETL 要求（第二封前核）；员工数口径核实"
+  },
+  {
+   "name": "PB-053 Lin Haw",
+   "reason": "fetch linhawstore.com PoE Devices 页取 10 款 PLANET 型号；Rob Baerg 直邮（不猜，等回复或 LinkedIn = Q-13 同类问题）"
+  },
+  {
+   "name": "PC-012 StarTech.com",
+   "reason": "Q-13 裁定后决定是否 LinkedIn 触达 Vendor Management"
+  },
+  {
+   "name": "海关提单矿脉延伸",
+   "reason": "ImportYeti 按进口商反查：Lin Haw 的其他供应商（Safewell/EPNEW = 中国 OEM 同行，信息价值）；搜 PLANET 其他出口名（Planet Technology Corp 4 个名称变体）是否有未列出的小进口商；加拿大海关无免费公开源"
+  },
+  {
+   "name": "W07 遗留",
+   "reason": "PB-050 Planet 专类全清单、PB-051 PLANET 现售状态与法人、WAV 线卡、Parnet、Movok/E-Link；国家空白单域名复核（BE/CH/GR/IE/DK）"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Versa Technology Inc / Planet Technology USA（PC-005，C 冻结）",
+   "reason": "海关提单显示其另从 DWNET Technology (Suzhou) / Tellion 进口 → 仅作事实记录，不重评（T03 裁决）"
+  },
+  {
+   "name": "Lorex Corporation（Carson CA / Markham ON；73–93 票 PLANET 进口，至 2024-05）",
+   "reason": "消费级安防品牌（集团所属），Saga 不做消费级 → off-segment，不建档"
+  },
+  {
+   "name": "Sistemas y Servicios de Comunicación（El Paso 转口；90 票）",
+   "reason": "墨西哥安防分销（经 El Paso 进口）→ 区域外"
+  },
+  {
+   "name": "UTC Fire & Security Americas（Carrier/Interlogix，175 票至 2019）/ Pass & Seymour Legrand（42 票）/ Axis Communications c/o Scanfil / Infinite Electronics (L-com)",
+   "reason": "巨头/集团 → C 规则，不建档；Axis 媒体转换器为 PLANET 代工属事实记录"
+  },
+  {
+   "name": "American Time and Signal Co（Dassel MN；2026-07/08 两票 PLANET）",
+   "reason": "PoE 时钟制造商；官网安装手册明示「PoE Switch … not supplied by American Time」、注入器为 TP-Link → 非交换机渠道，进口品为组件/配件 → skip"
+  },
+  {
+   "name": "Network Camera Store（Orlando FL，networkcamerastore.com，PLANET GS-4210 全系在售）",
+   "reason": "B2B 网店，自述不备库存、全部由美国分销商代发 → §4 电商 skip"
+  },
+  {
+   "name": "DWG（Westbury NY）/ Worldstar Security Cameras（FL）/ Ellipse Security / Galaxy Security（Markham ON）/ UNIX CCTV / A1 Security Cameras / Surveillance-Video",
+   "reason": "美国/加拿大 dealer-only 安防站分组核验：无 PLANET 证据（Worldstar 卖 Lysora）"
+  },
+  {
+   "name": "Mast Digital UK / CCTV Line / FVS CCTV / DVS / ISET / MIE CCTV / Digital Direct Security / CCTV Kits / CCTV Global（UK trade-only 分销）",
+   "reason": "分组核验无 PLANET 证据（Hikvision/Dahua/TP-Link 线）→ 不建档"
+  },
+  {
+   "name": "Security Data Supply / JMAC Supply / Alarmax / Security Equipment Supply / Tri-Ed / Jenne / SecurityLineUSA / Alpha Security Distributors（美国安防分销点名）",
+   "reason": "点名核验无 PLANET 证据"
+  },
+  {
+   "name": "Internec（PL，1989 年起监控批发）/ CTR（PL 华沙 CCTV 批发）/ sklep-ecsystem.pl",
+   "reason": "波兰安防批发查询连带：页面无 PLANET（Dahua/VESTA 线）→ 不建档"
+  },
+  {
+   "name": "Desitec / Tecnosinergia（MX）/ peta-eg.store（EG）/ PT Alvasta Teknologi（ID）",
+   "reason": "区域外"
+  },
+  {
+   "name": "rimaelektronik.com（PB-032 再次命中）/ connectec.uk（PB-042 再次命中）/ nsidistribution.com（既有 CA 户再次命中）/ globall.ca（PB-036）/ marugged.com（PB-005）",
+   "reason": "已在池，本轮无新增事实 → 不重复入库"
+  },
+  {
+   "name": "jacob.de（DE 电商，PLANET Germany 条目）/ eetgroup.com / planet-shop.gr（C-023）",
+   "reason": "电商/巨头/已记录"
+  },
+  {
+   "name": "ISC West 2026 / Embedded World NA / Automate 展商页",
+   "reason": "只见 PLANET 自家展位信息，无联合参展伙伴 → 展会伙伴角度死路"
+  }
+ ]
+}

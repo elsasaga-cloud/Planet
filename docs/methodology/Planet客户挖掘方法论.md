@@ -77,6 +77,14 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 
 同时代理 ORing/EtherWAN/Moxa/Edgecore/Zyxel 的分销商，PLANET 往往也在其货架；用 `"PLANET" "ORing" distributor` 等组合检索。
 
+### M11 · 官方代表/授权页措辞反查（W03 起）
+
+各语种「授权/代表/独家」措辞（`represented … by` / `distributore autorizzato` / `dystrybutorem` / `Exkluzivním partnerem`）比 `distributor` 更准；详见 §五 W03。
+
+### M12 · 海关提单反查（W08 新增）
+
+美国海关 AMS 海运提单公开：ImportGenius / ImportYeti 免费页 `suppliers/planet-technology-corporation` 列出 PLANET Technology Corp 的美国直接进口商（供应商名 + 进口商名 + 品名 + 日期）。**价值**：直接进口商 = 跳过 PTUSA 的一级买家（分销商或 ODM 品牌商），且证明其有海运进口链路（契合 Saga EXW）。**边界**：① 只覆盖海运进美国的货（PLANET 欧洲走台湾→欧洲仓，不在内；加拿大户只在其经美国港口转运时出现，如 Lin Haw）；② 免费页只列前 7–10 名，余下在付费墙后（Q-14）；③ 提单只证明「买过 PLANET」，**在售证据仍需站内目录补足**（Lin Haw 用 linhawstore PoE 类目补）；④ 进口商多为巨头/品牌 ODM 买家（UTC、Axis、Legrand、StarTech、Lorex）→ 大多按 C 规则 skip，净产出低但每个命中质量高。**延伸**：按进口商页反查其他供应商（看到中国 OEM 同行 = 对方接受中国货源的证据，如 Lin Haw ← Safewell/EPNEW）。
+
 ## 二 · 国家顺序与配额
 
 按 Saga 目标区（INH-02）与 PLANET 渠道深度：
@@ -146,3 +154,11 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **什么无效 / 边界**：① **矿脉选择错了**——MikroTik/Ubiquiti/Cambium 为主的 WISP 商行几乎不卖 PLANET（12 组仅 2 命中，且两者都是多品牌 IT/安防分销商而非纯 WISP 店）→ 此矿脉宣告采尽，DE/AT/CH 组不再查；② 价目表 PDF / line card / 品牌站哪里买 / CA 法语 四条全是死路（只回巨头电商或 PLANET 自家页）；③ Eltrox 类「商品页在但缺货」属弱信号，入池要在 rating_basis 写明「现售状态待补证」。
 - **下一矿脉**：安防/监控分销商（非 MikroTik 系）品牌页反查 + 美国区域安防/低压分销 + PLANET 展会联合参展伙伴；国家空白单域名复核。
 - **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4 → **W07 +2**（17 次检索）；Mikrotik 同户复用已接近尽头，W08 必须换矿脉否则单位产出继续走低。
+
+### W08（2026-10-20，21 次 web_search + 8 段 fetch_page，+3 户：B 2 / C 1；T09「继续挖」）
+
+- **做了什么**：按 README 第 12 条切换矿脉——① 各国安防/监控分销 dealer-only 角度（US/PL/TR/ES/DE/UK 6 条 + 美国点名 1 条 + dealer-pricing 1 条 + 2 组 16 站分组核验）；② PLANET 展会伙伴 / 签约新闻角度各 1 条；③ 签约新闻查询连带命中 ImportGenius 供应商页 → 开出 **M12 海关提单反查**，fetch ImportGenius 3 段 + ImportYeti 3 段，逐名核身（Lin Haw 2 条、StarTech 1 条、American Time 2 条、Alvasta 1 条）。
+- **什么有效**：① **PL 安防批发查询连带命中美国 cctv.net**——dealer-only 分销站的 PLANET 品牌页（1028 件 + 「planet dealer pricelist」）是最强的「PLANET 为主线」信号；法人核身用 `"cctv.net" Van Nuys "Arminta"`（街名 + 域名）一次命中隐私政策/SDM 买家指南/Vivotek where-to-buy → **教训：一旦页面露出街名/电话，就用它搜法人**；② **M12 海关提单**：免费页即给出进口商名、品名（"Gigabit Ethernet Switch"）、最近日期，可直接判断「谁在直接买 PLANET 交换机」；配合站内类目（linhawstore「Planet (10)」）即可建档 B；③ ImportYeti 比 ImportGenius 免费信息更多（客户表 + 近 20 票提单 + HS 码）。
+- **什么无效 / 边界**：① 安防分销矿脉比预期薄——Hikvision/Dahua 系 dealer 站（美 7 / 英 9 / 波 3）均不上 PLANET，只有独立多品牌分销（cctv.net「82 brands」）才有；② 本地语安防查询带英文型号 token（`"GS-4210" OR "IGS-"`）会被引擎拉回英文站 → DE/ES/TR 查询全部偏航，下次去掉型号 token；③ 展会伙伴 / 签约新闻 / 美国安防分销点名 = 三条死路；④ 海关提单进口商 10 名中 7 名为巨头/消费级/区域外/非渠道（UTC、Axis、Legrand、Infinite、Lorex、SYSCOM、American Time）→ 矿脉面窄；⑤ 第三方名录人名（Rob Baerg / Byron Budden / Connie Fung）一律「待核」，不猜邮箱，LinkedIn 触达与否 = Q-13。
+- **下一矿脉**：M12 延伸（ImportYeti 进口商页反查、PLANET 出口名称变体）；安防矿脉收尾（CZ/HU/FR/NL/SE 本地语各 1 条，无型号 token）；国家空白单域名复核；取证补缺（见 README 第 13 条）。
+- **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4 → W07 +2 → **W08 +3（21 次检索，B 2 / C 1）**；换矿脉止住了下滑但未反弹——广度已近天花板，后续每轮 2–3 户为常态，应把余量逐步转向取证补缺与 Q-01 硬化。
