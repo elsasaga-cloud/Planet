@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-28DGGPM — 与其光模块捆绑：8×GE PoE+ + 2 SFP 管理型是贸易客户新建小站点最常配的规格；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：When your trade customers buy SFPs for a new small site, do they ask you for the 8-port PoE switch too, or is the switch brand already fixed on their side?
 - **最大未知**：Mikrotik 侧首触状态；交换机销量占比；是否只接「原厂品牌」
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-553）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

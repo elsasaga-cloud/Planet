@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-424DGGPM-280W — 其 PLANET 在售页以 GS-4210 PoE 家族为主（16P2S Disponible、24HP2C 515W）——24 口 PoE L2+ 是法国安装商/视频监控经销商的走量槽位；Saga 商用 PoE 管理型无 16 口，故以 24 口 280W 对位；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Among the GS-4210 PoE models you move most, is the 24-port the volume unit for your video-surveillance resellers, or the 16-port?
 - **最大未知**：是否愿意在 PLANET 之外加中国直供副牌（它已靠 TP-Link 走量 → 倾向愿意）；采购负责人（关于页需登录，无具名）；ARKENA 控股后的采购集中度；Mikrotik 侧 A-579 首触状态
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-579）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -94,9 +94,9 @@ updated: 2026-10-20
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进邮件。
+> ⚠ 并档户（Mikrotik **A-579（Mikrotik 侧 R63 升 A，commercial@edox.com，原 B-238）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（ISW-504PT 等工业款在售）+ PLANET 155 款（Q-06 同类，跨仓需用户手工）**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（STC-424DGGPM-280W），备选型不进邮件。
 
-### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）
+### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）（Mikrotik 侧回复后再定）
 
 - **推什么**：STC-424DGGPM-280W
 - **切入点**：GS-4210 槽位自有副牌；EXW
@@ -167,29 +167,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-> ⚠ Mikrotik 同户 **A-579（Mikrotik 侧 R63 升 A，commercial@edox.com，原 B-238）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（ISW-504PT 等工业款在售）+ PLANET 155 款（Q-06 同类，跨仓需用户手工）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
-
-**主题**：24-port PoE L2+ switch for your GS-4210 slot — own-label second line, EXW
-
-```text
-Hi EDOX team,
-
-With 155 PLANET switches in your catalogue, the GS-4210 PoE family is clearly a volume line for your resellers; a Marvell-based L2+ PoE equivalent at EXW lets you add an own-label second line in the same slot without touching your PLANET business.
-
-We supply Marvell-based L2+ managed PoE switches (8/24/48-port, 1G/2.5G or 10G SFP uplinks) and industrial DIN-rail units in the same slots as the PLANET GS-4210 / ISW families you distribute, at EXW prices that support an own-label second line for your resellers; neutral packaging and your label are available. The unit I would start with is STC-424DGGPM-280W at $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Among the GS-4210 PoE models you move most, is the 24-port the volume unit for your video-surveillance resellers, or the 16-port?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
-PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **A-579（Mikrotik 侧 R63 升 A，commercial@edox.com，原 B-238）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（ISW-504PT 等工业款在售）+ PLANET 155 款（Q-06 同类，跨仓需用户手工）**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STC-424DGGPM-280W，$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

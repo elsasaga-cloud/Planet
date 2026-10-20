@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-424DGGPM-280W — 网络分销走量 24 口 PoE；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?
 - **最大未知**：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-469）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

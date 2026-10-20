@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-424XGGPM-280W — 对位其曾售 XGSW-28040HP（24×GE PoE+ + 4×10G SFP+ 管理型）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无硬件 L3 静态路由，注明）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For your WISP partners' tower and NOC sites, does a 24-port PoE+ switch with four 10G uplinks still move, or has demand shifted to 8-port units?
 - **最大未知**：WAV 当前线卡是否仍含 PLANET；Mikrotik 侧首触状态；UL/TAA（Q-02）
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-546; A-096）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

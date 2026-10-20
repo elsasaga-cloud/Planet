@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-28DGGPM — 监控分销商主力场景为 8–16 路摄像头 PoE；FNSW-1600P 为 16 口 FE PoE 非管理（Saga 暂无 16 口商用 PoE/FE PoE，注明），以 8 口千兆 PoE 管理型 STC-28DGGPM 切入；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For your camera-kit customers, is an 8-port Gigabit PoE managed switch or a 16-port unit the size you run out of first?
 - **最大未知**：法人全称与注册号；PLANET 是否仍为常备（页面缺货）；具名采购人（sklep@ 为网店邮箱）
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（B-274）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

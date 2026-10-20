@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-424DGGM — 对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5；$82.5 USD EXW（20% 档，SmartByte LT-S8328G-4GX24GT-S 460 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For your dealer customers, is the 24-port L2+ non-PoE switch (GS-4210-24T2S class) still a stock item, or has demand shifted to the PoE versions?
 - **最大未知**：采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（B-346）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -91,9 +91,9 @@ updated: 2026-10-20
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGM），备选型不进邮件。
+> ⚠ 并档户（Mikrotik **B-346（Mikrotik 侧 B，sales@epcom.net）→ 并档，首触以 Mikrotik 仓库为准；本仓回填 PLANET ≥7 款 + Epcom 保修证据（Q-06 同类）**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（STC-424DGGM），备选型不进邮件。
 
-### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）
+### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）（Mikrotik 侧回复后再定）
 
 - **推什么**：STC-424DGGM
 - **切入点**：对位现货 GS-4210-24T2S；EXW
@@ -164,29 +164,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-> ⚠ Mikrotik 同户 **B-346（Mikrotik 侧 B，sales@epcom.net）→ 并档，首触以 Mikrotik 仓库为准；本仓回填 PLANET ≥7 款 + Epcom 保修证据（Q-06 同类）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
-
-**主题**：24-port L2+ switch for the GS-4210-24T2S slot, EXW
-
-```text
-Hi EPCOM team,
-
-You stock the PLANET GS-4210-24T2S and back it with your own Epcom warranty; a Marvell-based 24-port L2+ equivalent at EXW gives that slot a second source with far more margin for your warranty program.
-
-We supply Marvell-based L2+ managed switches (24/48-port with 1G/2.5G or 10G SFP uplinks, PoE and non-PoE) and industrial DIN-rail L2+ units that sit in the same slot as the PLANET GS-4210 / IGS-6325 models you stock, at EXW prices that leave room for your own warranty program; neutral packaging and your own label are available. The unit I would start with is STC-424DGGM at $82.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: For your dealer customers, is the 24-port L2+ non-PoE switch (GS-4210-24T2S class) still a stock item, or has demand shifted to the PoE versions?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
-PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **B-346（Mikrotik 侧 B，sales@epcom.net）→ 并档，首触以 Mikrotik 仓库为准；本仓回填 PLANET ≥7 款 + Epcom 保修证据（Q-06 同类）**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STC-424DGGM，$82.5 USD EXW（20% 档，SmartByte LT-S8328G-4GX24GT-S 460 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

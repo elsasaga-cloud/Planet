@@ -152,7 +152,12 @@ def render_one(row, by_saga, by_sb):
     L.append(f"- **P1（首触唯一主推）**：{p1 or '待定'} — {c.get('p1_reason','按其在卖的 PLANET 型号对位')}；{price_str}")
     L.append(f"- **第一问（只问一个）**：{c.get('first_question','Which PoE switch model do you sell most often today, and roughly how many units a year?')}")
     L.append(f"- **最大未知**：{c.get('biggest_unknown','采购决策人与年用量未确认；现用 PLANET 型号的毛利与断货痛点未确认')}")
-    L.append(f"- **下一步**：{c.get('next_step','未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档')}\n")
+    # 并档户（备注含「首触以 Mikrotik 仓库为准」）：下一步不能写成"按本档首触邮件发出"，否则与下文「本仓不发」自相矛盾（W16 修复）
+    _mref_brief = row.get("Mikrotik仓库对照编号", "") or ""
+    _via_mk_brief = any("首触以 Mikrotik 仓库为准" in (row.get(k, "") or "") for k in ("备注", "Mikrotik仓库对照编号"))
+    _default_next = (f"并档户：首触由 Mikrotik 仓库（{_mref_brief.split('（')[0] or _mref_brief}）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件"
+                     if _via_mk_brief else "未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档")
+    L.append(f"- **下一步**：{c.get('next_step', _default_next)}\n")
     # 基本事实
     L.append("## 基本事实（事实/推断/假设分层）\n")
     L.append("| 项 | 内容 | 层级 |\n|---|---|---|")
@@ -214,7 +219,8 @@ def render_one(row, by_saga, by_sb):
     # 跟进步骤
     steps = c.get("steps") or []
     mref = row.get("Mikrotik仓库对照编号", "") or ""
-    via_mikrotik = "首触以 Mikrotik 仓库为准" in (row.get("备注", "") or "")
+    # W16 修复：W15 起「首触以 Mikrotik 仓库为准」写在 Mikrotik仓库对照编号 列而非备注 → 两列任一命中即视为并档，否则并档户会被渲染成"可直接发送"的首触邮件
+    via_mikrotik = any("首触以 Mikrotik 仓库为准" in (row.get(k, "") or "") for k in ("备注", "Mikrotik仓库对照编号"))
     L.append("## 跟进步骤（最多 3 次 · 成功/退出标准）\n")
     if via_mikrotik:
         # 并档户：台阶只是 PLANET 侧预案，启动时点由 Mikrotik 侧回复决定，不按本仓首触节奏推进

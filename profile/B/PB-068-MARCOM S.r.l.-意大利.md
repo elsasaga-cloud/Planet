@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STI-280DGGM — 对位其在售 IGS-10020MT（工业 DIN 8×GE + 2×1G/2.5G SFP 管理，€388）——其 PLANET 工业线的最高价款、也是楼宇/工厂机柜最常用的管理型槽位；非管理 ISW/IGS 款以 STI-240FE / STI-080FE / STI-280GE 备选；$125.6 USD EXW（20% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For your building-automation cabinets, is the managed 8×GE + 2 SFP DIN-rail switch (IGS-10020MT class) the unit you quote most, or do unmanaged ISW/IGS units cover most of it?
 - **最大未知**：PLANET 工业线的进货渠道（意大利 PLANET 总代 — 如 Sirtel/4Power 类 — 还是直接进口）；项目 vs 转售比例（决定 20%/25% 档）；采购人（20 人公司，info@ 大概率到老板/采购）；Mikrotik 侧 A-487 首触状态
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-487）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -93,9 +93,9 @@ updated: 2026-10-20
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280DGGM），备选型不进邮件。
+> ⚠ 并档户（Mikrotik **A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（STI-280DGGM），备选型不进邮件。
 
-### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）
+### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）（Mikrotik 侧回复后再定）
 
 - **推什么**：STI-280DGGM
 - **切入点**：对位 IGS-10020MT €388；EXW
@@ -166,29 +166,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-> ⚠ Mikrotik 同户 **A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
-
-**主题**：DIN-rail 8×GE + 2 SFP L2+ switch for the IGS-10020MT slot, EXW
-
-```text
-Hi MARCOM team,
-
-Your industrial shelf pairs PLANET IGS-10020MT / ISW units with Moxa EDS; a Marvell-based DIN-rail L2+ switch at EXW gives your building-automation and LoRaWAN cabinet projects the same slot at a third of the price.
-
-We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant 12–58 V DC; unmanaged and L2+ managed with G.8032 ring, with or without PoE) in the same slots as the PLANET IGS-10020MT / IGS-4215 / ISW families you sell next to Moxa and Teltonika, at EXW prices that fit building-automation and LoRaWAN cabinet budgets; neutral packaging is standard. The unit I would start with is STI-280DGGM at $125.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: For your building-automation cabinets, is the managed 8×GE + 2 SFP DIN-rail switch (IGS-10020MT class) the unit you quote most, or do unmanaged ISW/IGS units cover most of it?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
-PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STI-280DGGM，$125.6 USD EXW（20% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

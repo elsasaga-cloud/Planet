@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STI-488DGGPM — 同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；$147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which Lysora or PLANET industrial PoE size do your WISP customers take most, 8+4 SFP or 8+2?
 - **最大未知**：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-532）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

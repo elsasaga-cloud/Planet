@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-424XGGPM-280W — 对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For your dealers' camera and campus jobs, is the 24-port PoE+ with 10G uplinks the size that moves most, or the 8-port units?
 - **最大未知**：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-462）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

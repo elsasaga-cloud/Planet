@@ -1,0 +1,815 @@
+{
+ "batch": "W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核",
+ "date": "2026-10-20",
+ "method": [
+  "矿脉 ①「目录型」续跑：Mikrotik 仓库客户主表区域内域名逐个 `web_search site:<域名> planet switch`（depth 1，每次 8 个并行）；正 = 出现 PLANET 商品/品牌页；负 = 只出现其他品牌页；空结果 = 不可判",
+  "本轮关键发现：W06/W07 用「Planet switch (\"a\" OR \"b\" OR …)」多域名 OR 组查询判为「无 PLANET 证据」的域名，逐域 site: 探针后有 7 个实为正（cyberbajt.pl / fiberm.pl / discomp.cz / wifi-shop.cz / edsystem.cz / accesspoint.hu / compmarket.hu）→ OR 组查询存在系统性假阴性；W06/W07 的「负」名单作废，须逐域复核（下轮待办）",
+  "命中后：fetch 商品/类目/关于页取证 → 企业名录核身（NIP / IČO / adószám / 人数 / 营收）→ 本仓主表 + 全仓 grep 去重 → Mikrotik 仓库同户判定（并档规则：Mikrotik A/B 有邮箱 → 首触以 Mikrotik 为准）→ Gmail 逐域 to:/from: 触达史 → 定级 → P1 对位 + 价格行",
+  "本轮 32 探针 → 10 正/弱正、21 负、1 空；建档 4（全部并档）、待二次核 5、巨头 1",
+  "渲染修复（每轮 ≥1）：并档户 SALES BRIEF「下一步」原固定文案「按本档首触邮件由用户在仓库外发出」与同档「首触邮件：本仓不发」自相矛盾 → 改为并档专用文案"
+ ],
+ "tools": "web_search（site: 探针 32 + 取证/核身 14）、fetch_page（wirelesslan.pl → 301 至 wirelesslan.com.pl ×2、accesspoint.hu ?gy=Planet ×1）、Gmail list_messages（逐域 to:/from: 三组）、本地 Mikrotik 仓库副本（/tmp/mikrotik-info）读取 A-512 / A-498 / A-452 / B-081 / A-513 / A-514 / A-494 / A-495 / B-208 / A-474 / C-053 行",
+ "queries": [
+  "web_search `site:batna24.com planet switch`（depth 1）→ 负：TP-Link/Teltonika/Fiberhome（巨型电商）",
+  "web_search `site:alfaextranet.pl planet switch`（depth 1）→ 负：仅 OPTEC SFP 页「兼容 Planet MGB-L70」字样（AENET.PL Sp. z o.o.，Częstochowa）",
+  "web_search `site:wirelesslan.pl planet switch`（depth 1）→ 弱正：旧 osCommerce 页 Planet FSD-503 等（2004 年条目）；站点 301 至 wirelesslan.com.pl（现行站仍售 Planet VC-231G 434,80 zł「NOWOŚĆ」、KVM-201）；现行站电话 32 721 86 72 与 PB-065 WISP.PL 相同 → 疑同一运营方，待二次核",
+  "web_search `site:fiberm.pl planet switch`（depth 1）→ 弱正：SolexB2B 平台品牌筛选「Planet 5」，但可见商品均为 PLANET SFP 模块 MGB-LA10 / LA20 / LB20（69–81 PLN netto），交换机类目未见 PLANET 整机 → 待二次核",
+  "web_search `site:cyberbajt.pl planet switch`（depth 1）→ 正：WGS-4215-8P2S 1017.63 zł / WGSW-20160HP / GSD-804P / GSD-804 57.15 zł / FSD-803 114.30 zł 商品页 → PB-069",
+  "web_search `site:maritex.eu planet switch`（depth 1）→ 负：元器件分销",
+  "web_search `site:eptimo.pl planet switch`（depth 1）→ 空结果（Mikrotik C-053，无邮箱）",
+  "web_search `site:fyr-systems.pl planet switch`（depth 1）→ 负：Dell/IBM 集成",
+  "web_search `site:wifihw.cz planet switch`（depth 1）→ 弱正：PLANET 品牌页仅摄像机 IPC-KW12WP / ICA-5250 / ICA-W1200 + FTP5E 线缆，未见 PLANET 交换机 → 待二次核",
+  "web_search `site:atcmarket.cz planet switch`（depth 1）→ 负：Netgear/Zyxel/HPE/Ubiquiti",
+  "web_search `site:discomp.cz planet switch`（depth 1）→ 弱正：download.discomp.cz/Planet/manual|datasheets 托管 PLANET 手册与数据表（GSD-1002VHP / GSW-2620VHP / FGSD-1022VHP）；商品页 FGSD-1022VHP「We are sorry, this product is no longer in our offer」→ 历史在售、现无在售证据 → 待二次核",
+  "web_search `site:ipmedia.cz planet switch`（depth 1）→ 负：TP-Link/MikroTik/Tenda/Ubiquiti",
+  "web_search `site:wifi-shop.cz planet switch`（depth 1）→ 正：Planet 品牌类目 + Průmyslový switch Planet ISW-621TF + XL-WDAP-1001（Výprodej）+ Planet 2×RJ-45 墙插 88 Kč → PB-070",
+  "web_search `site:edsystem.cz planet switch`（depth 1）→ 正但巨头：edshop.edsystem.cz GS-4210-24T4S「Obvykle 4 dnů」/ IGS-5225-4T2S / VC-231G；eD system = 捷克前三大 IT 分销集团 → 按 INH 巨头规则不建档",
+  "web_search `site:abctech.cz planet switch`（depth 1）→ 负：TP-Link/Ubiquiti/Conexpro",
+  "web_search `site:tecon.cz planet switch`（depth 1）→ 负：ORing",
+  "web_search `site:atesystem.cz planet switch`（depth 1）→ 负：机器视觉（Basler）/ Antaira LNP",
+  "web_search `site:lancentrum.eu planet switch`（depth 1）→ 负：Wi-Tek / Dasan",
+  "web_search `site:westech.sk planet switch`（depth 1）→ 负：Ubiquiti/TP-Link/Zyxel/MikroTik",
+  "web_search `site:westercom.eu planet switch`（depth 1）→ 负：Westermo/Advantech",
+  "web_search `site:absolcom.hu planet switch`（depth 1）→ 负：FirstMile/MikroTik",
+  "web_search `site:accesspoint.hu planet switch`（depth 1）→ 正（品牌级）：Switch 类目「Gyártó … Hewlett Packard Planet Procet PoE System」→ PB-071",
+  "web_search `site:compmarket.hu planet switch`（depth 1）→ 正：CompMarket 代运营零售站 kisker.compmarket.hu 交换机类目品牌筛选「Planet (14)」→ PB-072",
+  "web_search `site:axtek.hu planet switch`（depth 1）→ 负：ATOP 工业（独家代理）",
+  "web_search `site:hellascom.gr planet switch`（depth 1）→ 负：仅 MikroTik（+TAIT/Ruckus）",
+  "web_search `site:e-wireless.gr planet switch`（depth 1）→ 负：Ubiquiti/TP-Link",
+  "web_search `site:hellasdigital.gr planet switch`（depth 1）→ 弱正：Electronics 类目品牌筛选含「Planet」（W07 已核其交换机类目为 TP-Link/Ubiquiti）→ 待二次核",
+  "web_search `site:xpatit.gr planet switch`（depth 1）→ 负：Ubiquiti/MikroTik/TP-Link/Grandstream",
+  "web_search `site:cableworks.gr planet switch`（depth 1）→ 负：Ubiquiti/TP-Link/MikroTik",
+  "web_search `site:marac.gr planet switch`（depth 1）→ 负：MikroTik/Fortinet/RAD/Actelis",
+  "web_search `site:wirelesslan.gr planet switch`（depth 1）→ 负：TP-Link/Ubiquiti",
+  "web_search `site:dnet-distribution.com planet switch`（depth 1）→ 负：Ubiquiti/MikroTik",
+  "web_search `site:cyberbajt.pl planet`（→ GT-805A 168.22 zł「Towar będzie u Ciebie za 4 dni」；Mediakonwertery 类目品牌筛选含 Planet、IGTP-815AT；Urządzenia 类目品牌筛选含 Planet；/producent/cyberbajt/「jeden z najwiekszych sklepów internetowych z produktami WiFi i światłowodami (marka CBF)…producentów…anten」）",
+  "web_search `Cyberbajt Zamość NIP KRS`（→ cyberbajt.pl/page/29/ Dane firmy：Cyberbajt Tadeusz Nowak，ul. Młyńska 27，22-400 Zamość，NIP 922-100-32-43，Regon 950190918，「wiodącym dostawcą i dystrybutorem sprzętu sieciowego…oraz producentem anten radiowych」；首页「największy sklep internetowy dla instalatorów i operatorów telekomunikacyjnych ISP」；/handlowcy/ 具名销售（Michał Błaszczyk 等）；krs-online：Od 2002 roku）",
+  "web_search `site:wifi-shop.cz planet`（→ 仅 download.wifi-shop.cz 类目壳页，无新增）",
+  "web_search `VanCo.cz s.r.o. wifi-shop.cz IČO`（→ detail.cz / kurzy.cz / finmag：VanCo.cz s.r.o.，IČO 25762702，成立 1999-05-12，Vojtěšská 231/17 Praha 1，jednatelé Ing. Tomáš Vaníček / Filip Malina / Pavel Uhliar；wifishop.cz/pobocky：Head office U čokoládoven 818/9 Praha 12 Modřany，+420 246 035 451，obchod@vanco.cz；vanco.cz OP：www.vanco.cz, www.wifi-shop.cz）",
+  "web_search `site:wifihw.cz planet GSD OR GS-4210 OR ISW OR IGS OR FSD switch`（→ 仅 MikroTik 页；PLANET 交换机无）",
+  "web_search `site:discomp.cz \"Planet Technology\" switch skladem`（→ 仍只见 FGSD-1022VHP 下架页 + 数据表托管）",
+  "web_search `site:accesspoint.hu planet`（→ Switch-cHEETSW.html?p=7 与 Ethernet-cHEET.html?p=2 品牌筛选均含 Planet；/markak/lista 品牌页）；fetch accesspoint.hu/cikkek/lista/pag_cikklista.aspx?gy=Planet（→ 落到新官网首页：「B2B wholesale — for installers and system integrators」「official distributors and wholesalers」，OT Networking 段「industrial switch…」，网店 shop.accesspoint.eu）",
+  "web_search `site:shop.accesspoint.eu planet`（→ 空）",
+  "web_search `AccessPoint Kft. adószám árbevétel létszám`（→ nemzeticegtar / opten / companywall / ceginformacio：AccessPoint Számítástechnikai Kereskedelmi és Szolgáltató Kft.，adószám 12810239-2-13，cégjegyzékszám 13-09-246112，成立 2002-04-04，2092 Budakeszi Bianka utca 18，2025 净营收 3 170 381 eFt，létszám 10–19 fő；ÁSZF 署名 ügyvezető Zelena Gergely / Németh Tamás；HWSW 2025-01-10「Bekebelezi a biztributor az AccessPointot」）",
+  "web_search `\"kisker.compmarket.hu\" Planet switch`（→ genesyscomputer.kisker.compmarket.hu D-Link DGS-1210-28 页侧栏「Planet (14) … TP-Link (127) … Ubiquiti (49) … ZyXEL (71)」；kovacstelefon.kisker.compmarket.hu Asus switch 类目筛选含 Planet；compmarket.hu：「emerging IT distributor…since its founding in 2004」）",
+  "web_search `CompMarket Hungary Zrt. árbevétel létszám`（→ nemzeticegtar / companywall / creditonline / partnercontrol / ceginformacio / cegcontrol：CompMarket Hungary Zrt.，adószám 23126806-2-41，cégjegyzékszám 01-10-046934，成立 2011-01-20，1044 Budapest Megyeri út 53，2025 净营收 13 332 898 eFt（≈€35.1M），létszám 53（2025 均值）/ 57（2026-08））",
+  "fetch wirelesslan.pl/（→ 301 至 wirelesslan.com.pl：「centrum sieci bezprzewodowych」，32 721 86 72，support@wirelesslan.com.pl，类目含 Automatyka i Przemysł › Switche）；fetch wirelesslan.com.pl/?kontakt（→ 仅菜单壳，法务信息不在首块）；web_search `site:wirelesslan.com.pl planet`（→ Planet VC-231G 434,80 zł NOWOŚĆ dostępne；Planet KVM-201 74,50 zł）",
+  "Gmail `to:/from:\"cyberbajt.pl\" OR \"wirelesslan.com.pl\"`（→ 11 条全部为 j.zaczek@mbs-systems.pl（Elsa 2025-04→2026-09 月度群发对象）「.pl」模糊命中 → 实际 0 命中，complete:true）",
+  "Gmail `to:/from:\"vanco.cz\" OR \"wifi-shop.cz\"`（→ 10 条全部为 office@ergate.cz（Elsa 2025-04→2026-08 月度群发对象）「.cz」模糊命中 → 实际 0 命中，complete:true）",
+  "Gmail `to:/from:\"accesspoint.hu\" OR \"compmarket.hu\"`（→ 0 条，已扩到 spam/trash，complete:true）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-069",
+   "name": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
+   "short_name": "Cyberbajt",
+   "country": "波兰",
+   "city": "Zamość（ul. Młyńska 27）",
+   "website": "cyberbajt.pl",
+   "type": "分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）",
+   "signal": "cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」",
+   "own_brand": "是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机",
+   "angle": "ISP/安装商网店同时上架 PLANET 商用款（WGS-4215-8P2S 壁挂管理 PoE、GSD-804P 桌面 PoE）与 Moxa/Antaira 工业款 → 两条线 Saga 都有对位；自家 CBF 品牌说明它习惯做贴牌/自有品牌 → 对中性包装 OEM 没有门槛；8×GE PoE + 2 SFP 管理型（STC-28DGGPM，$80.7 EXW）直接对位其 WGS-4215-8P2S 槽位",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑",
+   "pitch": "We supply Marvell-based PoE and industrial switches (L2+ managed; neutral packaging and own-label packing available) for installer and ISP channels, in the same slots as the PLANET WGS-4215 / GSD class and the Moxa/Antaira DIN-rail class you list, at EXW prices. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销/网店 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 商用交换机 5 款有价有货期 + 工业线（Moxa/Antaira）在售 → 对 Saga 两条线都有真实槽位；触达：官网 dział handlowy 具名销售邮箱公开（Mikrotik 仓 R49 自官网抄录 6 位，本仓快照见 Michał Błaszczyk 具名）；体量：个体经营（Tadeusz Nowak）但自述「największy sklep internetowy dla instalatorów i operatorów ISP」+ 自有 CBF 品牌 → 可赢；Mikrotik 仓 A-512（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★★",
+   "source": "W16 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（W06 OR 组查询曾误判为负）；cyberbajt.pl 商品页 + Dane firmy 页 + krs-online",
+   "planet_models": [
+    "WGS-4215-8P2S",
+    "WGSW-20160HP",
+    "GSD-804P",
+    "GSD-804",
+    "FSD-803",
+    "GT-805A",
+    "IGTP-815AT"
+   ],
+   "model_map": {
+    "WGS-4215-8P2S": {
+     "saga": "STC-28DGGPM",
+     "note": "8×GE PoE+ + 2×SFP L2+ 管理，同槽位（PLANET 为壁挂款）"
+    },
+    "WGSW-20160HP": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "PLANET 为 16×GE PoE + 4×SFP；Saga 商用线无 16 口 → 以 24 口 280W 款作上位替代"
+    },
+    "GSD-804P": {
+     "saga": "—",
+     "note": "8×GE 桌面非管理 PoE：Saga 商用线无非管理型号，不硬凑"
+    },
+    "GSD-804": {
+     "saga": "—",
+     "note": "8×GE 桌面非管理：不硬凑"
+    },
+    "FSD-803": {
+     "saga": "—",
+     "note": "8×FE 桌面非管理：不硬凑"
+    },
+    "GT-805A": {
+     "saga": "STI-110GE",
+     "note": "GE 媒体转换器：Saga 对位为工业级 1×GE + 1×SFP（规格上位）"
+    },
+    "IGTP-815AT": {
+     "saga": "STI-111GP",
+     "note": "工业 PoE+ 媒体转换器，同槽位"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Michał Błaszczyk",
+     "role": "技术/销售（dział handlowy）",
+     "email": "m.blaszczyk@cyberbajt.pl",
+     "phone": "600 601 602 / (84) 638 10 70",
+     "status": "公开（官网 /handlowcy/；邮箱由 Mikrotik 仓 R49 自同页抄录，本仓搜索快照见姓名，未重新逐一打开核对）",
+     "source": "https://www.cyberbajt.pl/handlowcy/"
+    },
+    {
+     "name": "D. Jonik 等 5 位销售",
+     "role": "sales（dział handlowy）",
+     "email": "d.jonik@cyberbajt.pl",
+     "phone": "",
+     "status": "公开（同上；另有 k.godzisz@ / e.raciborski@ / g.gozdz@ / s.sirko@，见 Mikrotik 仓 A-512 行）",
+     "source": "https://www.cyberbajt.pl/handlowcy/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET WGS-4215-8P2S 在售（价格与货期）",
+     "quote": "Switch przemysłowy PLANET Managed 8-port 10/100/1000T … WGS-4215-8P2S … 1017.63 zł … 1251.68 zł brutto … Towar będzie u Ciebie za 7 dni",
+     "url": "https://www.cyberbajt.pl/produkt/14809/switch-przemyslowy-planet-managed-8-port-101001000t.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "PLANET WGSW-20160HP 商品页",
+     "quote": "PLANET WGSW-20160HP",
+     "url": "https://www.cyberbajt.pl/produkt/14816/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "PLANET GSD-804P / GSD-804 / FSD-803 商品页",
+     "quote": "PLANET GSD-804P … ; GSD-804 … 57.15 zł ; FSD-803 … 114.30 zł",
+     "url": "https://www.cyberbajt.pl/produkt/14730/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "PLANET GT-805A 媒体转换器在售",
+     "quote": "PLANET GT-805A media konwerter 10/100/1000Base-T do 1000Base-LX … 168.22 zł szt … 206.91 zł brutto … Towar będzie u Ciebie za 4 dni … Producent Planet",
+     "url": "https://www.cyberbajt.pl/produkt/11041/planet-gt-805a-media-konwerter-101001000base-t.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "媒体转换器类目品牌筛选含 Planet（与 Antaira / Moxa 同柜）",
+     "quote": "Filtrowanie: Antaira · ATTE · CBF · Cudy · D-Link · Digitus · Fibrain · Mikrotik · Moxa · OEM · Opton · Planet · Qoltec · Tenda · TP-LINK · Ubiquiti … Planet IGTP-815AT przemysłowy media konwerter 100/1000BASE-X 10/100/1000BASE-T 802.3at PoE+",
+     "url": "https://www.cyberbajt.pl/grupa/769/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公司法务信息与自述定位",
+     "quote": "Adres: Cyberbajt Tadeusz Nowak ul. Młyńska 27 22-400 Zamość · NIP: 922-100-32-43 · Regon: 950190918 … Cyberbajt jest wiodącym dostawcą i dystrybutorem sprzętu sieciowego do radiowej i optycznej transmisji danych oraz producentem anten radiowych",
+     "url": "https://www.cyberbajt.pl/page/29/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "客群定位（安装商与 ISP）",
+     "quote": "Cyberbajt - największy sklep internetowy dla instalatorów i operatorów telekomunikacyjnych ISP. Bogata oferta: światłowody, monitoring, Mikrotik, Ubiquiti, maszty, switche, routery…",
+     "url": "https://www.cyberbajt.pl/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "自有品牌 CBF 与天线制造",
+     "quote": "Cyberbajt to nie tylko jeden z najwiekszych sklepów internetowych z produktami WiFi i światłowodami (marka CBF). To także jeden z czołowych producentów wysokiej jakości anten",
+     "url": "https://www.cyberbajt.pl/producent/cyberbajt/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "成立年份",
+     "quote": "Od 2002 roku Cyberbajt z sukcesem działa … NIP: 9221003243 REGON: 950190918",
+     "url": "https://www.krs-online.com.pl/firma/2602012-cyberbajt",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Cyberbajt Tadeusz Nowak（个体经营；NIP 9221003243，REGON 950190918）",
+    "地址": "ul. Młyńska 27, 22-400 Zamość（卢布林省）",
+    "体量": "人数未公开；自述「największy sklep internetowy dla instalatorów i ISP」；自有品牌 CBF + 天线生产部门；2002 年起",
+    "渠道身份": "MikroTik / Ubiquiti 等多品牌网店 + 批发（detaliczna i hurtowa）"
+   },
+   "who": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售",
+   "hook": "You list the PLANET WGS-4215-8P2S next to Moxa and Antaira DIN-rail units; a Marvell-based 8×GE PoE + 2 SFP managed switch at EXW slots in between on price, and the same factory line covers the industrial DIN-rail class.",
+   "first_question": "For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?",
+   "subject": "8×GE PoE + 2 SFP managed (WGS-4215 class), EXW",
+   "biggest_unknown": "PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）",
+   "alts": [
+    {
+     "model": "STI-280GE",
+     "scene": "工业 DIN 8×GE + 2×SFP 非管理（对位其 Moxa/Antaira 入门款）",
+     "reason": "第二封工业线话题"
+    },
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24×GE PoE + 4×SFP 管理（WGSW-20160HP 上位）",
+     "reason": "机柜侧走量款"
+    },
+    {
+     "model": "STI-111GP",
+     "scene": "工业 PoE+ 媒体转换器（对位 IGTP-815AT）",
+     "reason": "小件配套"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（并档，以 Mikrotik 侧首触结果为准）",
+   "boundary": "不卖非管理桌面款（Saga 商用线无）；不贬低 PLANET / Moxa；只报 EXW；首触由 Mikrotik 仓库发（本仓只回填 PLANET 侧证据与对位）",
+   "mikrotik_ref": "A-512（Mikrotik 侧人工 A ★★★，d.jonik@ 等 6 位具名销售邮箱）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 商用交换机 5 款 + 媒体转换器 2 款在售（Mikrotik 侧信号仅「Moxa 工业交换机」，建议其 STI-488XGGPM 首推可改为对位 WGS-4215-8P2S 的 STC-28DGGPM）（Q-06 同类，跨仓需用户手工）",
+   "notes": "本仓主表与全仓 grep「cyberbajt」此前仅见于 W06 OR 组查询（误判为负）。W06 的否定由此作废（见 batch method）。Gmail 0 命中（.pl 模糊退化）。波兰第 9 户。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"cyberbajt.pl\" OR \"wirelesslan.com.pl\" → 11 条均为 j.zaczek@mbs-systems.pl（Elsa 2025-04→2026-09 月度群发对象）「.pl」模糊命中，与本域无关 → 实际 0 命中（complete:true）",
+   "steps": [
+    {
+     "title": "PLANET 侧预案（并档，不从本仓发）",
+     "push": "STC-28DGGPM",
+     "angle": "8×GE PoE + 2 SFP 管理 vs WGS-4215-8P2S；EXW",
+     "question": "For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?",
+     "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+    },
+    {
+     "title": "样机",
+     "push": "STC-28DGGPM 或 STI-280GE",
+     "angle": "1 台到 Zamość 做实验室测试（其有 technika 部门）",
+     "question": "—",
+     "action": "按 Mikrotik 侧节奏"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "CBF 贴牌可能性只在对方主动提起时谈",
+     "question": "—",
+     "action": "退出标准同 Mikrotik 侧"
+    }
+   ],
+   "swot": {
+    "S": "具名销售邮箱多；商用 + 工业两条线都有 PLANET/竞品槽位；自有品牌经验 → 懂贴牌",
+    "W": "个体经营、PLANET 为长尾（7 天货期）；并档（本仓不首触）",
+    "O": "CBF 贴牌交换机；工业 DIN 款替代 Moxa/Antaira 入门级",
+    "T": "MikroTik/Ubiquiti 自家交换机占据主力；波兰低价电商（batna24）价格战"
+   }
+  },
+  {
+   "_code": "PB-070",
+   "name": "VanCo.cz s.r.o.（wifi-shop.cz）",
+   "short_name": "VanCo.cz",
+   "country": "捷克",
+   "city": "Praha（U čokoládoven 818/9, Praha 12 – Modřany；注册地 Vojtěšská 231/17, Praha 1）",
+   "website": "wifi-shop.cz",
+   "type": "分销/电商（1999 年成立的网络设备网店 VanCo eStore = wifi-shop.cz；MikroTik Master Distributor；LAN 类目 553 件（MikroTik 69 / Ubiquiti 40 / TP-Link 27 / D-Link / EnGenius / Fortinet）；C-Data CZ/SK 独家分销；PLANET 为独立品牌类目，仅余工业 FE 款 + 清仓 AP + 配件）",
+   "signal": "wifi-shop.cz 「Planet」品牌类目：10/100 交换机类目列「Průmyslový switch Planet ISW-621TF」；XL-WDAP-1001 AP/WDS（Producer Planet，Výprodej 清仓）；Planet 2×RJ-45 屏蔽墙插（88 Kč，PH OLC 在库）",
+   "own_brand": "否",
+   "angle": "MikroTik Master 网店里 PLANET 已缩到工业 FE 款 ISW-621TF 与清仓件 → 工业 DIN 槽位正空出；Saga 工业 DIN 4×FE + 2×SFP 非管理（STI-240FE，$25.1 EXW）直接对位 ISW-621TF，8×GE 款作升级；C-Data 独家分销说明它愿意直接从中国厂商拿总代",
+   "p1": "STI-240FE",
+   "p1_reason": "其 PLANET 侧唯一仍在列的交换机是 ISW-621TF（工业 4×FE + 2×光口）→ STI-240FE 同槽位、价位更低；8×GE 非管理 STI-280GE 作第二封",
+   "pitch": "We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant DC; unmanaged and L2+ managed, PoE optional) in the same slot as the PLANET ISW-621TF you list, at EXW prices, with neutral packaging as standard. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销/网店 → 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 在它这里只剩工业 FE 款 ISW-621TF + 清仓 AP + 墙插 → PLANET 侧信号弱，但工业 DIN 槽位真实存在且 MikroTik 无对位品；触达：obchod@vanco.cz 公开（官网分部页 + NEN 供应商登记），无具名 KP（三位 jednatelé 见商业登记）；体量：1999 年成立、三位 jednatelé、Praha 两处址 → 可赢；Mikrotik 仓 A-498（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★",
+   "source": "W16 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（W07 OR 组查询曾误判为负）；wifi-shop.cz 类目/商品页 + 捷克商业登记（detail.cz / kurzy.cz）",
+   "planet_models": [
+    "ISW-621TF",
+    "XL-WDAP-1001"
+   ],
+   "model_map": {
+    "ISW-621TF": {
+     "saga": "STI-240FE",
+     "note": "工业 DIN 4×FE + 2×SFP 非管理（PLANET 为固定光口 TF 版），同槽位"
+    },
+    "XL-WDAP-1001": {
+     "saga": "—",
+     "note": "无线 AP/WDS 桥（清仓）：Saga 无此品类，不硬凑"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（obchod / 订单与销售）",
+     "role": "sales",
+     "email": "obchod@vanco.cz",
+     "phone": "+420 246 035 451",
+     "status": "公开（官网分部页 wifishop.cz/pobocky-a-kontakty + NEN 公共采购供应商登记）",
+     "source": "https://wifishop.cz/pobocky-a-kontakty_d47299.html"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET 工业交换机 ISW-621TF 在列（10/100 交换机类目）",
+     "quote": "Průmyslový switch Planet ISW-621TF",
+     "url": "https://www.wifi-shop.cz/metalicke-site-metalicke-prvky-aktivni-switche-10-100-mbps_c21421259.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "PLANET XL-WDAP-1001 清仓在售（Producer Planet）",
+     "quote": "XL-WDAP-1001 AP/WDS/Client bridge 2.4/5GHz DFS … Producer: Planet … Výprodej",
+     "url": "https://www.wifi-shop.cz/xl-wdap-1001-ap-wds-client-bridge-2-4-5ghz-dfs_d2341.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "PLANET 配件在库（墙插）",
+     "quote": "Kompaktní stíněná zásuvka na zeď 2×RJ-45 … Producent: Planet … 88 Kč … PH OLC",
+     "url": "https://www.wifi-shop.cz/kompaktni-stinena-zasuvka-na-zed-2xrj-45_d1544.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "运营主体、总部地址与销售邮箱",
+     "quote": "Head office Prague; VanCo.cz s.r.o. U cokoladoven 818/9; 143 00 Prague 12 - Modrany; tel.: +420 246 035 451; e-mail: obchod@vanco.cz",
+     "url": "https://wifishop.cz/pobocky-a-kontakty_d47299.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "wifi-shop.cz 与 vanco.cz 同一公司（商业条款）",
+     "quote": "Tyto OP jsou k dispozici na internetových stránkách zhotovitele: www.vanco.cz, www.wifi-shop.cz",
+     "url": "https://www.vanco.cz/sites/default/files/docs/2022-08/VanCo_OP-Dilo.pdf",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "商业登记：IČO、成立日、三位 jednatelé",
+     "quote": "VanCo.cz s.r.o. … C 67978/MSPH Městský soud v Praze … Sídlo Vojtěšská 231/17, Nové Město, 110 00 Praha 1 … Jednatel Ing. Tomáš Vaníček … Filip Malina … Pavel Uhliar",
+     "url": "https://rejstrik-firem.kurzy.cz/25762702/vanco-cz-sro/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "成立日期",
+     "quote": "Společnost VanCo.cz s.r.o. (IČO: 25762702) byla založena dne 12. května 1999 v Praze",
+     "url": "https://www.detail.cz/firma/25762702-vancocz-sro-vojtesska-231-17-praha/",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "VanCo.cz s.r.o.（IČO 25762702，DIČ CZ25762702；C 67978 Městský soud v Praze）",
+    "地址": "运营：U čokoládoven 818/9, 143 00 Praha 12 – Modřany；注册：Vojtěšská 231/17, 110 00 Praha 1",
+    "体量": "人数/营收未公开；1999 年成立；三位 jednatelé（Ing. Tomáš Vaníček / Filip Malina / Pavel Uhliar）；MikroTik Master Distributor；C-Data CZ/SK 独家分销（Mikrotik 侧核对）",
+    "渠道身份": "网店 wifi-shop.cz = VanCo eStore（Microwaves / Wireless / LAN / Optical / Power / CCTV / Racks 全类目）"
+   },
+   "who": "布拉格一家 1999 年起的网络设备网店（MikroTik Master），PLANET 已缩到工业 FE 款 ISW-621TF 与清仓件，另做 C-Data 的 CZ/SK 独家分销",
+   "hook": "Your PLANET shelf is down to the ISW-621TF industrial unit and clearance items; a Marvell-based industrial DIN-rail line (4×FE + 2 SFP up to 8×GE PoE) at EXW fills that slot without a new brand relationship on the MikroTik side.",
+   "first_question": "For the industrial DIN-rail slot where you still list the PLANET ISW-621TF, do your customers now ask for Gigabit (8×GE + 2 SFP), or is the 4×FE + 2 fiber unit still what moves?",
+   "subject": "Industrial DIN-rail 4×FE + 2 SFP (ISW-621TF class), EXW",
+   "biggest_unknown": "ISW-621TF 是否仍有库存/动销（类目在列但未见价格与库存）；选品负责人（三位 jednatelé 之一还是 obchod 团队）；C-Data 总代模式是否可复制到交换机；Mikrotik 仓 A-498 首触是否已发（本仓不发）",
+   "alts": [
+    {
+     "model": "STI-280GE",
+     "scene": "工业 DIN 8×GE + 2×SFP 非管理",
+     "reason": "Gigabit 升级款，第二封"
+    },
+    {
+     "model": "STI-288GP",
+     "scene": "工业 DIN 8×GE PoE + 2×SFP 非管理（CCTV/AP 供电）",
+     "reason": "其 CCTV 类目配套"
+    },
+    {
+     "model": "STI-244FP",
+     "scene": "工业 DIN 4×FE PoE + 2×SFP",
+     "reason": "ISW-621TF 的 PoE 版需求"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（PLANET 边线、并档；以 Mikrotik 侧首触结果为准）",
+   "boundary": "不卖 AP/无线（Saga 无此品类）；不贬低 PLANET；只报 EXW；首触由 Mikrotik 仓库发（本仓只回填 PLANET 侧证据与工业角度）",
+   "mikrotik_ref": "A-498（Mikrotik 侧人工 A ★★★，obchod@vanco.cz）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 仅余 ISW-621TF 工业款 + 清仓件（Mikrotik 侧「缺工业线」判断与事实基本一致：仅 1 款 PLANET 工业 FE）（Q-06 同类，跨仓需用户手工）",
+   "notes": "本仓主表与全仓 grep「wifi-shop / vanco」此前仅见于 W07 OR 组查询（误判为负）。Gmail 0 命中（.cz 模糊退化为 office@ergate.cz）。捷克第 7 户。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"vanco.cz\" OR \"wifi-shop.cz\" → 10 条均为 office@ergate.cz（Elsa 2025-04→2026-08 月度群发对象）「.cz」模糊命中，与本域无关 → 实际 0 命中（complete:true）",
+   "steps": [
+    {
+     "title": "PLANET 侧预案（并档，不从本仓发）",
+     "push": "STI-240FE",
+     "angle": "工业 DIN 4×FE + 2 SFP vs ISW-621TF；EXW",
+     "question": "For the industrial DIN-rail slot where you still list the PLANET ISW-621TF, do your customers now ask for Gigabit (8×GE + 2 SFP), or is the 4×FE + 2 fiber unit still what moves?",
+     "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+    },
+    {
+     "title": "样机",
+     "push": "STI-240FE 或 STI-280GE",
+     "angle": "1 台到 Modřany 仓库测试",
+     "question": "—",
+     "action": "按 Mikrotik 侧节奏"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "退出标准同 Mikrotik 侧"
+    }
+   ],
+   "swot": {
+    "S": "公开销售邮箱；已做中国厂商（C-Data）总代 → 流程熟；LAN 类目大",
+    "W": "PLANET 侧信号弱（1 款工业 FE + 清仓）；无具名 KP；并档",
+    "O": "工业 DIN 槽位空缺；CCTV 类目的 PoE 配套",
+    "T": "MikroTik 自家 CRS/CSS 与 Ubiquiti 占主力；捷克同行（Discomp / i4wifi / Alternetivo）价格战"
+   }
+  },
+  {
+   "_code": "PB-071",
+   "name": "AccessPoint Kft.",
+   "short_name": "AccessPoint",
+   "country": "匈牙利",
+   "city": "Budakeszi（Bianka utca 18；办公 1116 Budapest, Vegyész utca 17-25）",
+   "website": "accesspoint.hu",
+   "type": "分销（2002 年成立的 B2B 网络/布线批发商，面向安装商与系统集成商；Ubiquiti / MikroTik / Cambium / Teltonika / TP-Link / Belden-Hirschmann / CCS / Fibrain / FormRack 官方分销；2025-01 被 biztributor 集团并购；PLANET 在交换机类目品牌筛选中在列）",
+   "signal": "accesspoint.hu 旧版网店 Switch 类目「Gyártó」品牌筛选：Ubiquiti Networks · MikroTik · Cambium Networks · ZyXEL · TP-Link · IgniteNet · Cisco · TinyControl · Aruba Instant On · Hewlett Packard · Planet · Procet PoE System；Ethernet 类目筛选亦含 Planet（与 ATOP、Teltonika 同列）；新官网 OT Networking 段明列「industrial switch」",
+   "own_brand": "否",
+   "angle": "安装商/集成商批发渠道 + OT 组网段（工业交换机：Teltonika TSW / MikroTik / Ubiquiti）→ 工业 DIN 8×GE PoE + 2 SFP 非管理（STI-288GP，$57.4 EXW）正是 Teltonika TSW 级别的走量槽位；PLANET 在它这里只是品牌筛选里的边线 → 用 Saga 工业线补其 OT 段而非硬抢 PLANET 商用位",
+   "p1": "STI-288GP",
+   "p1_reason": "其 OT Networking 段把「industrial switch」列为首项且品牌只有 Teltonika / MikroTik / Ubiquiti → 工业 DIN PoE 非管理是现成槽位；PLANET 具体 SKU 未能看到，不以 PLANET 商用款对位",
+   "pitch": "We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant DC; unmanaged and L2+ managed, PoE optional) for installer and SI channels, in the slot your OT range covers with Teltonika TSW-class units, at EXW prices; neutral packaging is standard. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销/批发 → 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 仅见于品牌筛选（具体 SKU 未取到）→ PLANET 侧信号弱；但 OT 段「industrial switch」与 PWR 段「PoE switch」为现成槽位；触达：info@accesspoint.hu 公开（官网联系页），两位 ügyvezető 具名（ÁSZF）但无个人邮箱；体量：2025 净营收 31.7 亿 Ft（≈€8M）、10–19 人 → 可赢；风险：2025-01 被 biztributor 并购，采购可能集团化；Mikrotik 仓 A-452（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★",
+   "source": "W16 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（W07 OR 组查询曾误判为负）；accesspoint.hu 类目筛选 + 新官网 + 匈牙利公司名录（nemzeticegtar / opten / companywall）+ HWSW 并购报道",
+   "planet_models": [],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "—（info）",
+     "role": "总机/销售",
+     "email": "info@accesspoint.hu",
+     "phone": "+36 1 219 5345",
+     "status": "公开（官网 Kapcsolat 页）",
+     "source": "https://www.accesspoint.hu/kapcsolat/pag_kapcsolat.aspx"
+    },
+    {
+     "name": "Zelena Gergely / Németh Tamás",
+     "role": "ügyvezető（董事总经理）",
+     "email": "",
+     "phone": "",
+     "status": "具名无邮箱（ÁSZF 署名）→ 待补证",
+     "source": "https://www.accesspoint.hu/Altalanos-szerzodesi-feltetelek-jaltszerz.html"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "交换机类目品牌筛选含 Planet",
+     "quote": "Gyártó Ubiquiti Networks MikroTik Cambium Networks ZyXEL TP-Link IgniteNet Cisco TinyControl Aruba Instant On Hewlett Packard Planet Procet PoE System",
+     "url": "https://www.accesspoint.hu/Switch-cHEETSW.html?p=7",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "Ethernet 类目品牌筛选含 Planet（与 ATOP / Teltonika 同列）",
+     "quote": "Gyártó Ubiquiti Networks MikroTik Cambium Networks Fibrain ZyXEL TP-Link IgniteNet Cisco CyberTeam TinyControl Aruba Instant On ATOP Hewlett Packard Planet Procet PoE System Teltonika ULabs",
+     "url": "https://www.accesspoint.hu/Ethernet-cHEET.html?p=2",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "定位：B2B 批发、面向安装商与集成商；OT 段含工业交换机",
+     "quote": "B2B wholesale — for installers and system integrators … We are official distributors and wholesalers for wired and wireless data transmission equipment … OT Networking … industrial switch, industrial router, industrial cellular gateway … Teltonika · MikroTik · Ubiquiti",
+     "url": "https://accesspoint.hu/hu",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "联系方式与税号",
+     "quote": "AccessPoint Kft. · Telefonszámunk +36 (1) 219 5345 · E-mail címünk info@accesspoint.hu · Címünk 2092 Budakeszi, Bianka utca 18 · Adószámunk 12810239-2-13",
+     "url": "https://www.accesspoint.hu/kapcsolat/pag_kapcsolat.aspx",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "营收与人数",
+     "quote": "nettó árbevétel (2025. évi adatok) 3 170 381 ezer Ft … létszám 10 - 19 Fő … Adószám 12810239-2-13 … 4650 Információtechnológiai, híradástechnikai termék nagykereskedelme … 2092 Budakeszi, Bianka utca 18.",
+     "url": "https://www.nemzeticegtar.hu/accesspoint-kft-e10338725.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "成立年份与全称",
+     "quote": "AccessPoint Számítástechnikai Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság … Alapítás éve 2002 … Nettó árbevétel 3 170 381 ezer Ft (2025. évi adatok)",
+     "url": "https://webshop.opten.hu/accesspoint-kft-c0109704529.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "媒体",
+     "claim": "2025-01 被 biztributor 集团并购",
+     "quote": "Bekebelezi a biztributor az AccessPointot … A biztributor 10 milliárd forintos árbevétel elérését tűzte ki középtávú célként 2026 végére",
+     "url": "https://www.hwsw.hu/hirek/68598/biztributor-accesspoint-felvasarlas-disztributor.html",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "AccessPoint Számítástechnikai Kereskedelmi és Szolgáltató Kft.（adószám 12810239-2-13；cégjegyzékszám 13-09-246112）",
+    "地址": "2092 Budakeszi, Bianka utca 18（总部）；1116 Budapest, Vegyész utca 17-25（办公）",
+    "体量": "2025 净营收 3 170 381 eFt（≈€8M）；10–19 人；2002 年成立",
+    "渠道身份": "B2B 批发 / 官方分销（Ubiquiti · MikroTik · Cambium · Teltonika · TP-Link · Belden · CCS · Fibrain · FormRack）；biztributor 集团成员（2025-01 起）"
+   },
+   "who": "布达佩斯近郊一家 10–19 人、年营收约 €8M 的安装商/集成商网络批发商（Ubiquiti/MikroTik/Cambium/Teltonika 官方分销），PLANET 仅在交换机品牌筛选里在列，2025 年起属 biztributor 集团",
+   "hook": "Your OT range lists industrial switches from Teltonika, MikroTik and Ubiquiti only; a Marvell-based industrial DIN-rail 8×GE PoE + 2 SFP unit at EXW gives your installers a lower-cost option in the TSW-class slot.",
+   "first_question": "In your OT networking range, is the unmanaged industrial PoE switch (TSW class, 8×GE + SFP) the unit your installers actually buy in volume, or do they go to managed DIN-rail units?",
+   "subject": "Industrial DIN-rail 8×GE PoE + 2 SFP for your OT range, EXW",
+   "biggest_unknown": "PLANET 具体在售 SKU（品牌筛选可见但商品页未取到；shop.accesspoint.eu 搜索为空）；并购后采购是否归 biztributor 集团；选品负责人（两位 ügyvezető 之一还是产品经理）；Mikrotik 仓 A-452 首触是否已发（本仓不发）",
+   "alts": [
+    {
+     "model": "STI-280GM",
+     "scene": "工业 DIN 8×GE + 2×SFP L2 管理",
+     "reason": "需要 VLAN/环网时"
+    },
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24×GE PoE + 4×SFP 管理（安装商机柜）",
+     "reason": "商用 PoE 走量款"
+    },
+    {
+     "model": "STI-244GP",
+     "scene": "工业 DIN 4×GE PoE + 2×SFP",
+     "reason": "小型 OT 现场"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（PLANET 信号弱、并购后采购不明；以 Mikrotik 侧首触结果为准）",
+   "boundary": "不做 EN50155/IP67/云管理；不碰其安防/智能家居段；不贬低 Teltonika/PLANET；只报 EXW；首触由 Mikrotik 仓库发",
+   "mikrotik_ref": "A-452（Mikrotik 侧人工 A ★★★，info@accesspoint.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 仅品牌筛选级信号 + 2025 财报（€8M / 10–19 人）+ biztributor 并购风险（Q-06 同类，跨仓需用户手工）",
+   "notes": "本仓主表与全仓 grep「accesspoint.hu」此前仅见于 W07 OR 组查询（误判为负）。PLANET SKU 未取到 → planet_models 留空、model_map 留空（不编造）。Gmail 0 命中。匈牙利第 3 户。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"accesspoint.hu\" OR \"compmarket.hu\" → 0 条（已扩到 spam/trash，complete:true）",
+   "steps": [
+    {
+     "title": "PLANET 侧预案（并档，不从本仓发）",
+     "push": "STI-288GP",
+     "angle": "工业 DIN 8×GE PoE + 2 SFP vs Teltonika TSW 级；EXW",
+     "question": "In your OT networking range, is the unmanaged industrial PoE switch (TSW class, 8×GE + SFP) the unit your installers actually buy in volume, or do they go to managed DIN-rail units?",
+     "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+    },
+    {
+     "title": "样机",
+     "push": "STI-288GP",
+     "angle": "1 台到 Budakeszi 测试",
+     "question": "—",
+     "action": "按 Mikrotik 侧节奏"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "若采购已集团化 → 转 biztributor 采购联系人（需用户决定是否追）",
+     "question": "—",
+     "action": "退出标准同 Mikrotik 侧"
+    }
+   ],
+   "swot": {
+    "S": "安装商/集成商渠道；OT 段现成；财务透明、规模适中",
+    "W": "PLANET 侧仅品牌筛选级证据；无具名邮箱；并档；并购后决策链可能变长",
+    "O": "Teltonika TSW 之外的第二工业货源；PoE 电源段配套",
+    "T": "集团化采购；Ubiquiti/MikroTik 工业化产品；匈牙利市场小"
+   }
+  },
+  {
+   "_code": "PB-072",
+   "name": "CompMarket Hungary Zrt.",
+   "short_name": "CompMarket",
+   "country": "匈牙利",
+   "city": "Budapest（1044, Megyeri út 53）",
+   "website": "compmarket.hu",
+   "type": "分销（2004 年起经营、2011 年设立 Zrt. 的匈牙利 IT 分销商；MikroTik Master + VAD；为零售商代运营网店 kisker.compmarket.hu；交换机品牌含 TP-Link 127 / ZyXEL 71 / Ubiquiti 49 / Tenda 34 / Reyee 15 / Planet 14 / Teltonika 8 等；近年新增安防线）",
+   "signal": "CompMarket 代运营零售网店（genesyscomputer.kisker.compmarket.hu / kovacstelefon.kisker.compmarket.hu）交换机类目品牌筛选「Planet (14)」，与 TP-Link (127) / ZyXEL (71) / Ubiquiti (49) / Tenda (34) / Reyee (15) / Teltonika (8) 同列 → 分销目录含 PLANET 交换机 14 款",
+   "own_brand": "否",
+   "angle": "匈牙利中型 IT 分销（€35M / 57 人）目录里 PLANET 交换机 14 款属长尾，主力为 TP-Link/ZyXEL/Ubiquiti；Mikrotik 侧已判「工业线为零」→ Saga 以 24 口 PoE 管理型（STC-424DGGPM-280W，$134.5 EXW）切其商用走量位，并以工业 DIN 线作新增品类",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "分销目录型客户：PLANET 14 款具体型号未取到，以分销走量规格（24×GE PoE + 4×SFP L2+ 管理，280W）开场最稳；工业线作第二封新增品类",
+   "pitch": "We supply Marvell-based L2+ managed PoE switches and industrial DIN-rail switches for distribution catalogues, in the same slots as the PLANET GS-4210 class you list, at EXW prices with neutral packaging as standard. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销 → 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：分销目录含 PLANET 交换机 14 款（品牌筛选计数）→ 真实但为长尾；触达：Mikrotik 仓 B-081 已有具名邮箱 rakos.zoltan@compmarket.hu（来源见 Mikrotik 侧）；体量：2025 净营收 133 亿 Ft（≈€35M）、53–57 人 → 中型分销，可赢（与 PB-067 EDOX €66.9M 同档）；Mikrotik 仓 B-081（B ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★",
+   "source": "W16 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（W07 OR 组查询曾误判为负）；kisker.compmarket.hu 类目筛选 + compmarket.hu 自述 + 匈牙利公司名录（nemzeticegtar / companywall / creditonline / partnercontrol）",
+   "planet_models": [],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "Rákos Zoltán",
+     "role": "（Mikrotik 仓 B-081 入口：rakos.zoltan@compmarket.hu）",
+     "email": "rakos.zoltan@compmarket.hu",
+     "phone": "+36 1 222 6403",
+     "status": "来自 Mikrotik 仓库 B-081 行（本仓未重新核对其公开来源）→ 首触前核一次",
+     "source": "Mikrotik 仓库 客户名单_反向信号_2026-09.csv#B-081"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "代运营零售网店交换机类目品牌筛选含 Planet (14)",
+     "quote": "Planet (14) · QNAP (4) · Reyee (15) · Startech (4) · TECHLY (1) · Teltonika (8) · Tenda (34) · TP-Link (127) · Ubiquiti (49) · UGREEN (2) · Uniview (4) · Vivolink (1) · ZyXEL (71)",
+     "url": "https://genesyscomputer.kisker.compmarket.hu/termek/d_link_dgs_1210_28_28_port_gigabit_smart_switch/60954",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "另一家代运营网店交换机类目品牌筛选含 Planet",
+     "quote": "Szűrés … Mikrotik · Netgear · Planet",
+     "url": "http://kovacstelefon.kisker.compmarket.hu/kategoria/asus_switch/74/3",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公司自述",
+     "quote": "CompMarket Hungary is an emerging IT distributor on the Hungarian market. It is headquartered in Budapest but has been servicing the entire country since its founding in 2004 … most recently the addition of the ever-important security products.",
+     "url": "https://compmarket.hu/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "营收与人数",
+     "quote": "nettó árbevétel (2025. évi adatok) 13 332 898 ezer Ft … létszám 50 - 99 Fő … CompMarket Hungary Zártkörűen működő Részvénytársaság",
+     "url": "https://www.nemzeticegtar.hu/compmarket-hungary-zrt-c0110046934.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "历年营收与雇员",
+     "quote": "Teljes bevétel 2023 9 729 339 000 / 2024 11 496 378 000 / 2025 13 369 455 000 … Üzleti évben átlagosan foglalkoztatottak száma 46 / 51 / 53",
+     "url": "https://www.companywall.hu/v%C3%A1llalat/compmarket-hungary-zrt/MMC0DERq",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "税号、注册号、地址、成立日",
+     "quote": "Székhely: 1044 Budapest, Megyeri út 53. Cégjegyzékszám: 01-10-046934 Adószám: 23126806-2-41 Alapítás dátuma: Jan. 20, 2011",
+     "url": "https://cegcontrol.hu/ceg/compmarket-hungary-zrt-23126806/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "名录",
+     "claim": "欧元营收与最新人数",
+     "quote": "Net revenue: 13 332 897 800 … Net revenue in EUR: 34 594 960 … Last number of employees data: 57 person",
+     "url": "https://www.ceginformacio.hu/cr9318296185_EN",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "CompMarket Hungary Zrt.（adószám 23126806-2-41；cégjegyzékszám 01-10-046934）",
+    "地址": "1044 Budapest, Megyeri út 53",
+    "体量": "2025 净营收 13 332 898 eFt（≈€34.6–35.1M）；53 人（2025 均值）/ 57 人（2026-08）；业务 2004 年起、Zrt. 2011 年设立",
+    "渠道身份": "IT 分销（4650）；MikroTik Master + VAD；为零售商代运营 kisker.compmarket.hu 网店"
+   },
+   "who": "布达佩斯一家 57 人、年营收约 €35M 的 IT 分销商（MikroTik Master+VAD），分销目录含 PLANET 交换机 14 款（长尾），近年加安防线",
+   "hook": "Your switch catalogue carries 14 PLANET units as a long tail behind TP-Link and ZyXEL; a Marvell-based L2+ managed PoE line at EXW gives your resellers a private-label-ready alternative in the GS-4210 class, and an industrial DIN-rail line you do not stock today.",
+   "first_question": "Of the PLANET switches in your catalogue, is the volume in the 24-port PoE managed class (GS-4210-24P4C type), or in small 8-port units?",
+   "subject": "24×GE PoE managed (GS-4210 class) for your reseller catalogue, EXW",
+   "biggest_unknown": "PLANET 14 款的具体型号与动销（仅品牌计数）；rakos.zoltan@ 的职务与公开来源（Mikrotik 侧未注明）；是否接受非品牌/中性包装入目录；Mikrotik 仓 B-081 首触是否已发（本仓不发）",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8×GE PoE + 2×SFP L2+ 管理",
+     "reason": "小型零售商走量款"
+    },
+    {
+     "model": "STC-448DGGPM",
+     "scene": "48×GE PoE + 4×SFP 管理",
+     "reason": "项目型"
+    },
+    {
+     "model": "STI-288GP",
+     "scene": "工业 DIN 8×GE PoE + 2×SFP 非管理",
+     "reason": "其目录缺工业线（Mikrotik 侧判断）→ 新增品类"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（PLANET 长尾、并档；以 Mikrotik 侧首触结果为准）",
+   "boundary": "不做云管理/消费级；不碰其安防线；不贬低 PLANET/TP-Link；只报 EXW；首触由 Mikrotik 仓库发",
+   "mikrotik_ref": "B-081（Mikrotik 侧 B ★★★，rakos.zoltan@compmarket.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 交换机 14 款在目录（Mikrotik 侧「通用分销商信号」可据此加「PLANET 长尾」差异化切入）+ 2025 财报（€35M / 57 人）（Q-06 同类，跨仓需用户手工）",
+   "notes": "本仓主表与全仓 grep「compmarket」此前仅见于 W07 OR 组查询（误判为负）。PLANET 具体 SKU 未取到 → planet_models 留空（不编造）。Gmail 0 命中。匈牙利第 4 户。",
+   "gmail_check": "2026-10-20 Gmail to:/from:\"accesspoint.hu\" OR \"compmarket.hu\" → 0 条（已扩到 spam/trash，complete:true）",
+   "steps": [
+    {
+     "title": "PLANET 侧预案（并档，不从本仓发）",
+     "push": "STC-424DGGPM-280W",
+     "angle": "24×GE PoE 管理 vs GS-4210 级；EXW；中性包装入目录",
+     "question": "Of the PLANET switches in your catalogue, is the volume in the 24-port PoE managed class (GS-4210-24P4C type), or in small 8-port units?",
+     "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+    },
+    {
+     "title": "样机",
+     "push": "STC-424DGGPM-280W",
+     "angle": "1 台到 Budapest 做目录测试",
+     "question": "—",
+     "action": "按 Mikrotik 侧节奏"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "工业 DIN 线作新增品类提案（第三封）",
+     "question": "—",
+     "action": "退出标准同 Mikrotik 侧"
+    }
+   ],
+   "swot": {
+    "S": "具名邮箱（Mikrotik 侧）；目录有 PLANET 长尾 → 懂该价位带；规模适中、财务连年增长",
+    "W": "PLANET 具体 SKU 未知；分销商对新牌子谨慎；并档",
+    "O": "工业 DIN 线为零 → 新增品类；安防线带 PoE 需求",
+    "T": "TP-Link/ZyXEL 价格与返利；匈牙利市场小；分销商要求本地库存与保修"
+   }
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  {
+   "name": "W06/W07 OR 组查询「负」名单逐域复核（矿脉 ①b）",
+   "reason": "本轮证明 OR 组查询系统性假阴性（7/≈60 实为正）；W06 DE/PL 组、W07 CZ-SK/PL/GR-HU/IT/ES-PT/NL/FR 组中尚未逐域探针的域名（softcom.cz、wifi24.pl、expert.hu、microstar.com.pl、4networks.de、varia.org、teslanetworks.com、lextron.nl、routershop.nl 组、IT 组、ES/PT 组等）全部重跑 `site:<域名> planet switch`"
+  },
+  {
+   "name": "FIBERM sp. z o.o.（PL，Kłobuck，Mikrotik A-513）",
+   "reason": "PLANET 仅 SFP 模块 5–6 款（MGB-LA10/LA20/LB20），交换机类目未见 PLANET 整机 → 不以 SFP 立档；下轮 fetch fiberm.pl/en/switche 品牌筛选确认后再定"
+  },
+  {
+   "name": "Discomp s.r.o.（CZ，Plzeň，Mikrotik A-495）",
+   "reason": "PLANET 为历史在售（FGSD-1022VHP 已下架、仅托管手册/数据表）；需核 discomp.cz 现行品牌页是否仍有 PLANET 在售，否则记「历史信号」不建档"
+  },
+  {
+   "name": "AIRCOM Praha s.r.o.（wifihw.cz，Mikrotik A-494）",
+   "reason": "PLANET 品牌页仅摄像机 + 线缆，无交换机 → 对 Saga 品类无 PLANET 侧信号；留观"
+  },
+  {
+   "name": "wirelesslan.com.pl（Konsorcjum ATS？，Mikrotik A-514）",
+   "reason": "现行站售 Planet VC-231G / KVM-201（非交换机）；旧域 wirelesslan.pl 仅 2004 年条目；电话 32 721 86 72 与 PB-065 WISP.PL 相同 → 先核是否同一运营方（若是则并入 PB-065，不另立档）"
+  },
+  {
+   "name": "Hellas Digital（GR，Mikrotik A-474）",
+   "reason": "Electronics 类目品牌筛选含 Planet，但 W07 已核交换机类目为 TP-Link/Ubiquiti → 需 fetch 品牌页看 PLANET SKU 是否含交换机"
+  },
+  {
+   "name": "矿脉 ① 剩余分销域名（IT/ES/PT/FR/NL/BE/UK/IE/Nordics/DE/AT/CH/US/CA/TR ≈120）+ 集成商域名 327",
+   "reason": "命中率 W15 11% / W16 31%（含弱正）；按国家分块继续"
+  },
+  {
+   "name": "矿脉 ②（比价站反查）/ 矿脉 ③（filetype:pdf 价格表）",
+   "reason": "W16 仍未开，下轮各试 1 次"
+  },
+  {
+   "name": "acceed.de / interstroom.nl / alternetivo.cz 二次核",
+   "reason": "沿袭 W15"
+  },
+  {
+   "name": "B ★★ 老化回查（每轮 ≤10 户）",
+   "reason": "W16 未做（精力在矿脉 ① + 假阴性复核）"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "eD system Czech, a.s.（edsystem.cz，Mikrotik B-208）",
+   "reason": "PLANET 在售（GS-4210-24T4S / IGS-5225-4T2S / VC-231G）但为捷克前三大 IT 分销集团 → INH 巨头规则 C，不建档（与 W01 Ingram/TD SYNNEX 同类处理）"
+  },
+  {
+   "name": "batna24.com / alfaextranet.pl / maritex.eu / fyr-systems.pl（PL）",
+   "reason": "探针负：巨型电商 TP-Link·Teltonika / 仅 SFP 兼容性字样 / 元器件 / Dell·IBM 集成"
+  },
+  {
+   "name": "eptimo.pl（PL，Mikrotik C-053）",
+   "reason": "探针空结果且 Mikrotik 侧无邮箱 → 不追"
+  },
+  {
+   "name": "atcmarket.cz / ipmedia.cz / abctech.cz / tecon.cz / atesystem.cz（CZ）",
+   "reason": "探针负：Netgear·Zyxel·HPE / TP-Link·MikroTik·Tenda / TP-Link·Ubiquiti·Conexpro / ORing / 机器视觉·Antaira"
+  },
+  {
+   "name": "lancentrum.eu / westech.sk / westercom.eu（SK/CZ）",
+   "reason": "探针负：Wi-Tek·Dasan / Ubiquiti·TP-Link·Zyxel·MikroTik（Westech 亦为大型分销）/ Westermo·Advantech"
+  },
+  {
+   "name": "absolcom.hu / axtek.hu（HU）",
+   "reason": "探针负：FirstMile·MikroTik / ATOP 独家代理"
+  },
+  {
+   "name": "hellascom.gr / e-wireless.gr / xpatit.gr / cableworks.gr / marac.gr / wirelesslan.gr（GR）",
+   "reason": "探针负：MikroTik / Ubiquiti·TP-Link / Ubiquiti·MikroTik·Grandstream / Ubiquiti·TP-Link / MikroTik·Fortinet·RAD / TP-Link·Ubiquiti"
+  },
+  {
+   "name": "dnet-distribution.com（IT）",
+   "reason": "探针负：Ubiquiti·MikroTik"
+  },
+  {
+   "name": "biztributor（HU 集团）",
+   "reason": "PB-071 AccessPoint 的母集团（2025-01 并购，中期目标 100 亿 Ft 营收）；若采购已集团化则 PB-071 退出 → 记在 biggest_unknown"
+  },
+  {
+   "name": "PLANET 波兰/捷克/匈牙利 区域实体与 planet.com.tw",
+   "reason": "信号源不是客户（INH 规则）"
+  }
+ ]
+}

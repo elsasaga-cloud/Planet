@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STI-288DGGPM — 对位其工业以太网交换机品类与 PLANET 工业线（LRP 系列工业延长器同场景：DIN、宽温、PoE）；8×GE PoE + 2 SFP 管理型是最容易贴 DCE 标试单的规格；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do you source any DCE-branded industrial Ethernet switches from an ODM today, or would an 8-port Gigabit PoE DIN-rail unit under your own label be worth a sample?
 - **最大未知**：Mikrotik 侧首触状态；自有品牌线是否含交换机（目前已知为延长器/调制解调器/串口）；UL/TAA 要求（美国，Q-02）
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-270）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

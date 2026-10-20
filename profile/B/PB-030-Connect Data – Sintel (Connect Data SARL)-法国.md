@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STI-288DGGPM — PLANET 在其目录是 Radwin/Ruckus 无线配套的工业交换机 → 工业 8 口 PoE 对位；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For Radwin/Ruckus deployments, do your integrators take PLANET's 8-port industrial PoE+ most, or the 4-port compact units?
 - **最大未知**：Mikrotik 侧是否已首触（A-254 未触达）；Perle 与 PLANET 的分工
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-254）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 

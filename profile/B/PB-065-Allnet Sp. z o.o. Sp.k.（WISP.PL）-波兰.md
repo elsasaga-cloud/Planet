@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STI-280GE — 其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?
 - **最大未知**：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（A-380）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -86,9 +86,9 @@ updated: 2026-10-20
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进邮件。
+> ⚠ 并档户（Mikrotik **A-380（Mikrotik 侧人工 A，sklep@wisp.pl）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 边线 4+4 款（Scodeno 工业款 Mikrotik 侧定级依据已提及，不重复）（Q-06 同类，跨仓需用户手工）**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（STI-280GE），备选型不进邮件。
 
-### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）
+### 第 1 次跟进 · PLANET 侧预案（并档，不从本仓发）（Mikrotik 侧回复后再定）
 
 - **推什么**：STI-280GE
 - **切入点**：工业 DIN 8+2 非管理 vs ISW-621/Scodeno；EXW
@@ -159,29 +159,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-> ⚠ Mikrotik 同户 **A-380（Mikrotik 侧人工 A，sklep@wisp.pl）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 边线 4+4 款（Scodeno 工业款 Mikrotik 侧定级依据已提及，不重复）（Q-06 同类，跨仓需用户手工）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
-
-**主题**：Industrial DIN-rail 8×GE + 2 SFP for WISP towers, EXW
-
-```text
-Hi WISP.PL team,
-
-Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; a Marvell-based 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec.
-
-We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant 12–58 V DC; unmanaged and L2+ managed, with or without PoE) for WISP tower and cabinet use, in the same slot as the PLANET ISW-621 / IGS class you list, at EXW prices that compete with the Chinese industrial brands you already carry; neutral packaging is standard. The unit I would start with is STI-280GE at $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
-PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **A-380（Mikrotik 侧人工 A，sklep@wisp.pl）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 边线 4+4 款（Scodeno 工业款 Mikrotik 侧定级依据已提及，不重复）（Q-06 同类，跨仓需用户手工）**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STI-280GE，$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

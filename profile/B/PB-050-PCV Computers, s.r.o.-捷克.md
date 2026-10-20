@@ -26,7 +26,7 @@ updated: 2026-10-20
 - **P1（首触唯一主推）**：STC-424DGGM — 直接对位其在售 GSW-2401（24 口 10/100/1000 非管理）；PoE 版 STC-424DGGPM-280W 作第二步；$82.5 USD EXW（20% 档，SmartByte LT-S8328G-4GX24GT-S 460 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Of the 28 PLANET switches you list, is it the 24-port Gigabit GSW-2401 class or the industrial DIN units that your resellers reorder most?
 - **最大未知**：具名采购人（obchod@ 为部门邮箱）；28 款 PLANET 中 PoE/工业占比；是否已被 100MEGA/ASM 锁定供货
-- **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
+- **下一步**：并档户：首触由 Mikrotik 仓库（B-201）发出，本仓不发；Mikrotik 侧有回复且涉及 PLANET 线时，再据本档补一封对位邮件
 
 ## 基本事实（事实/推断/假设分层）
 
