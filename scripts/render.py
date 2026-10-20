@@ -292,8 +292,17 @@ def render_one(row, by_saga, by_sb):
     elif grade in ("A", "B"):
         subj, body = email_template(row, c, p1, price_str.split("（")[0].strip() + " (price snapshot 2026-10-17, valid 15 days)")
         L.append("## 首触邮件（英文样板 · 可直接发送）\n")
-        if mref:
-            L.append(f"> ⚠ Mikrotik 同户 **{mref}**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。\n")
+        # W19 修复：mref 为「—（Mikrotik 仓无此户）」「无（… grep 0）」占位值时，原先仍渲染成「⚠ Mikrotik 同户 …」，
+        # 与头部横幅「Mikrotik 仓库无同户」自相矛盾；现按 W18 横幅同一规则分流，并把 Gmail（含 BCC 群发）查重提示写进去。
+        _mref_s = (mref or "").strip()
+        if _mref_s and not (_mref_s.startswith(("—", "无")) or "无此户" in _mref_s):
+            L.append(f"> ⚠ Mikrotik 同户 **{_mref_s}**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。\n")
+        else:
+            L.append("> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。\n")
+        # W19 修复：批次 JSON 的 gmail_check（逐域 Gmail 查重结论，含 Elsa 账号 BCC 群发记录）此前只留在 JSON 里，档案看不到 → 渲染进首触邮件段
+        _gc = (c.get("gmail_check") or "").strip()
+        if _gc:
+            L.append(f"> 📬 Gmail 查重：{_gc}\n")
         L.append(f"**主题**：{subj}\n")
         L.append("```text\n" + body + "\n```\n")
         L.append("> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。\n")

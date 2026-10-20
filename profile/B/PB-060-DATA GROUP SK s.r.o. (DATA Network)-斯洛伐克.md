@@ -160,6 +160,10 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
+> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。
+
+> 📬 Gmail 查重：2026-10-20 Gmail in:anywhere to:/from: 域名查询 0 命中（complete:true）→ Elsa 账号从未触达，首触史干净
+
 **主题**：New-unit 24-port PoE managed switch at refurbished-unit budgets
 
 ```text

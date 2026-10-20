@@ -169,7 +169,9 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-> ⚠ Mikrotik 同户 **无（Mikrotik 仓库主表 grep「softcom」0 行）→ 本仓首触**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
+> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。
+
+> 📬 Gmail 查重：2026-10-20 Gmail to:/from:"softcom.cz" → 0 条（complete:true）
 
 **主题**：Industrial 8×GE PoE+ + 2 SFP managed (IGS-10020PT class), EXW
 

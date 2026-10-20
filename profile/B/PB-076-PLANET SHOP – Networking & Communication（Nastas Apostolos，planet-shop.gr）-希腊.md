@@ -187,6 +187,8 @@ updated: 2026-10-20
 
 > ⚠ Mikrotik 同户 **C-023（Mikrotik 侧 C「B下放·无邮箱（群发触达不到）」，PLANET 经销商名录 2026-09；首推 STI-488XGGPM）→ 本仓补到公开邮箱 info@planet-shop.gr → 按 T06 ② 例外（本仓 KP 更优）首触由本仓发、仍只发一次；建议 Mikrotik 仓 C-023 回升 B 并标「首触以 Planet 仓库为准」（跨仓需用户手工，Q-06 同类）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
 
+> 📬 Gmail 查重：2026-10-20 Gmail to:/from:"planet-shop.gr" → 0 条（complete:true）
+
 **主题**：Second-line industrial DIN-rail switches (IGS-1020TF / ISW-801T class), EXW
 
 ```text

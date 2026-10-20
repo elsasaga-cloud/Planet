@@ -156,6 +156,8 @@ updated: 2026-10-20
 
 > ⚠ Mikrotik 同户 **C-227（Mikrotik 侧 C「太难」挂起未触达 → 本仓首触不与「只触达一次」规则冲突；按 Q-05 通则由 Planet 仓首触）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
 
+> 📬 Gmail 查重：2026-10-20 Gmail in:anywhere to:/from:"linktechs.net"（合并查询）→ 实际 0 命中（7 条均为 zintronic.pl 模糊命中；complete:true）→ 首触史干净
+
 **主题**：24-port + 4×10G L2+ switch for the GS-2240 slot in ISP builds, EXW
 
 ```text

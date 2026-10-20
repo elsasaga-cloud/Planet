@@ -45,6 +45,12 @@ updated: 2026-10-20
 - **【公司自述】505 Northern Blvd Ste 209, Great Neck NY 11021；1950 年起；Inc 5000**
   > cable distributor since 1950 … Inc 5000（关于页，检索摘要）
   > 来源：https://www.nassaunationalcable.com/（抓取 2026-10-19）
+- **【官网】【W19 补证】同址姊妹站 nassauelectrical.com（Nassau Electrical Supply，HQ 505 Northern Blvd Ste 209 Great Neck — 与 PB-021 自述地址一致；电话 516-482-6314 与 PB-021 的 6313 相邻）在售多款 PLANET 并标 IN STOCK**
+  > Nassau Electrical Supply HQ: 505 Northern Blvd, Ste. 209 Great Neck, NY 11021 … sales@nassauelectrical.com … (888) 207-8988 … +1 (516) 482-6314
+  > 来源：https://www.nassauelectrical.com/pages/contact-us（抓取 2026-10-20）
+- **【官网（搜索快照）】【W19 补证】姊妹站 PLANET 在售型号与价格**
+  > Planet GSW-2401 24-Port Mbps Gigabit Ethernet Switch … Now $132.70 … IN STOCK … Planet GSW-2620HP … Planet GS-4210-24P2S … Planet GS-4210-24P4C … Planet GS-4210-24PL4C … Now $291.66 … IN STOCK … Planet GS-4210-24T2S 24-Port Layer 2 Managed Gigabit Ethernet Switch … Now $224.72 … IN STOCK … Planet IGS-10020HPT 8-Port POE Switch + 2-Port SFP Industrial Gigabit Switch … Planet IGS-5225-4UP1T2S Industrial Managed Port POE Switch … Now $571.31 … IN STOCK
+  > 来源：https://www.nassauelectrical.com/products/planet-gs-4210-24t2s-24-port-layer-2-managed-gigabit-ethernet-switch（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -135,6 +141,8 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
+> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。
+
 **主题**：Like-for-like 24-port PoE+ switch, second source to GS-4210-24P4C
 
 ```text
@@ -170,4 +178,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*

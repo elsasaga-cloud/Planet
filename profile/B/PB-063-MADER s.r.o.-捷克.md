@@ -174,6 +174,8 @@ updated: 2026-10-20
 
 > ⚠ Mikrotik 同户 **C-040（Mikrotik 侧 C「无邮箱」；本仓经企业名录补到 obchod@mader.cz + 具名 obchod 负责人 → 按 Q-05 通则由 Planet 仓首触；Mikrotik 侧可重评，跨仓需用户手工）**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
 
+> 📬 Gmail 查重：2026-10-20 Gmail in:anywhere to:/from:"mader.cz"（与 wisp.pl / epcom.net / linktechs.net 合并查询）→ 7 条结果全部为 biuro@zintronic.pl 模糊命中，与本域名无关 → 实际 0 命中（complete:true）→ 首触史干净
+
 **主题**：8-port PoE L2+ switch for your GS-4210 slot, EXW, own label possible
 
 ```text
