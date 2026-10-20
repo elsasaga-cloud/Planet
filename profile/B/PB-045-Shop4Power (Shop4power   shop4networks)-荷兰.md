@@ -164,14 +164,15 @@ Hi there,
 
 You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option.
 
-We build Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and 3-year warranty on the industrial line. The unit I would start with is STI-488XGGPM at $165.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and up to 5-year warranty on the 6-series industrial line. The unit I would start with is STI-488XGGPM at $165.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?
 
 Happy to send one unit for a 30-day test. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。

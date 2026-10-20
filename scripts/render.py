@@ -55,14 +55,15 @@ def email_template(row, c, p1, price_str):
 
 {hook}
 
-We build Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is {p1} at {price_str}.
+We supply Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is {p1} at {price_str}.
 
 One question: {q}
 
 If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)"""
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/"""
     elif "集成" in t or "方案" in t or "安防" in t or "自动化" in t:
         body = f"""Hi {first},
 
@@ -75,20 +76,22 @@ One question: {q}
 If it helps, I can ship one unit for a 30-day test on a live site. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)"""
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/"""
     else:
         body = f"""Hi {first},
 
 {hook}
 
-We build Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and 3-year warranty on the industrial line. The unit I would start with is {p1} at {price_str}.
+We supply Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and up to 5-year warranty on the 6-series industrial line. The unit I would start with is {p1} at {price_str}.
 
 One question: {q}
 
 Happy to send one unit for a 30-day test. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)"""
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/"""
     subj = c.get("subject") or f"Second-source PoE switch for your {('PLANET line' if ('分销' in t or '电商' in t or '批发' in t or '进口商' in t) else 'PoE projects')}"
     return subj, body
 

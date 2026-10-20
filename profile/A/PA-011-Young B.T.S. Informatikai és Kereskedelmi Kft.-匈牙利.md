@@ -181,7 +181,8 @@ One question: On a typical camera project, do you deploy the GS-4210-24P4C class
 If it helps, I can ship one unit for a 30-day test on a live site. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。

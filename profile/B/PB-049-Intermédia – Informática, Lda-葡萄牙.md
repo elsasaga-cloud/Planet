@@ -154,14 +154,15 @@ Hi there,
 
 Your PLANET list leads with 24-port PoE+ switches with 10G uplinks; a lower-tier L2+ unit with the same port layout gives your customers a second option for camera and office sites without changing their SFPs.
 
-We build Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and 3-year warranty on the industrial line. The unit I would start with is STC-424XGGPM-280W at $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and up to 5-year warranty on the 6-series industrial line. The unit I would start with is STC-424XGGPM-280W at $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Of the PLANET PoE switches on your list, is the 24-port PoE+ with 10G uplinks or the 8-port industrial DIN unit the one your customers order most?
 
 Happy to send one unit for a 30-day test. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。

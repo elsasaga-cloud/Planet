@@ -142,14 +142,15 @@ Hi Joe,
 
 ProVu has just added PLANET switches to its VoIP line-up, so your PoE switch supplier list is still open.
 
-We build Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is STC-424DGGPM-280W at $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is STC-424DGGPM-280W at $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: For IP-phone deployments, is the 24-port PoE+ the size your resellers order most, or the 8-port desktop class?
 
 If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+Saga Telecom — An Engineering & Supply-Chain-First Telecom Partner
+PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
