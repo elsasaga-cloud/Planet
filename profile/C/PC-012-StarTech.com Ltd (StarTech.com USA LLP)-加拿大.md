@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | startech.com | 事实 |
 | 类型 | 自有品牌 IT 连接/网络配件品牌商（1985 年起，≈500 人，营收 ≈$136M+；全球分销网络） | 事实（厂商/官网口径） |
 | PLANET 关联 | 美国海关提单（ImportGenius / ImportYeti）：供应商 PLANET Technology Corp → 进口商 STARTECH.COM USA LLP 95–97 票（Media Converter / Port Gigabit PoE Extender / Unmanaged Gigabit Fiber Media Converter），最近 2026-09-24 → PLANET 为其 ODM 供应商 | 事实（见下节证据） |
-| 自有品牌 | 是（StarTech.com） | 待补证 |
+| 自有品牌 | 是（StarTech.com） | 事实 |
 | 地址 | 45 Artisans Cres, London, Ontario N5V 5E9 | 事实/自述 |
 | 成立 | 1985 | 事实/自述 |
 | 体量 | ≈500 人、营收 ≈$135.8M（Datanyze） | 事实/自述 |
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

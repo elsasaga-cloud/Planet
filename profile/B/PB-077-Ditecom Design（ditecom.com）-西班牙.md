@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | ditecom.com | 事实 |
 | 类型 | 分销/电商（马德里测试测量 / 监控 / 数据采集仪表商店，「empresa española dedicada al diseño y la distribución de instrumentación electrónica … instrumentación basada en PC」；Networking 类目含工业交换机 1 款 ISW-801 + 串口/以太网转换器 EX-9xxx） | 事实（厂商/官网口径） |
 | PLANET 关联 | ditecom.com 工业交换机类目唯一在售「ISW-801 switch industrial de 8 puertos 10/100TX (-40º a 75º) 65,00€ +IVA」（Networking 类目计数「Switch industriales (1)」）；商品页标题 ISW-801T、「Disponible para reserva」、IP30 金属壳、DIN/壁挂、12–48 Vdc + 24 Vac、802.3az，发布 2024-07-10；型号与 PLANET ISW-801T 一致，页面快照未见品牌字样 → 弱信号 | 事实（见下节证据） |
-| 自有品牌 | 否（页面未见自有品牌交换机） | 待补证 |
+| 自有品牌 | 否（页面未见自有品牌交换机） | 事实 |
 | 法律实体 | Ditecom Design（法律形式 / CIF 待补证） | 事实/自述 |
 | 地址 | Madrid（Mikrotik 侧：门店 + 校准实验室） | 事实/自述 |
 | 体量 | 未公开 | 事实/自述 |
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
+- 接入层交换；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

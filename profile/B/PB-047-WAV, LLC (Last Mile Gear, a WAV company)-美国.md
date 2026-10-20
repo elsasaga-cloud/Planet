@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | wavonline.com / lastmilegear.com | 事实 |
 | 类型 | 分销（WISP/ISP 无线宽带、LTE、网络与 Wi-Fi 设备全服务分销；MikroTik 授权分销 2022；Last Mile Gear 2019 收购、2023-01-01 全并入 WAV LLC） | 事实（厂商/官网口径） |
 | PLANET 关联 | lastmilegear.com 商城 PLANET 产品页（XGSW-28040HP、IGS-501T，分类 Planet / Switches，页面 2019）；Mikrotik 仓库 A-546 WAV（ORing 授权）与 A-096 Last Mile Gear（Netonix 渠道） | 事实（见下节证据） |
-| 自有品牌 | 否（Last Mile Gear 曾为 Cyclone 计时设备 OEM 厂，非交换机） | 待补证 |
+| 自有品牌 | 否（Last Mile Gear 曾为 Cyclone 计时设备 OEM 厂，非交换机） | 事实 |
 | 地址 | 2380 Prospect (Suite A), Aurora, IL 60502（WAV LLC） | 事实/自述 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）

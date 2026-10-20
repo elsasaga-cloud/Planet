@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | lwl-shop24.de | 事实 |
 | 类型 | 分销商/电商 + 自有品牌制造（光纤网络技术专业商，1999 年起；自述 5000+ 客户：安装商/系统商/公用事业） | 事实（厂商/官网口径） |
 | PLANET 关联 | lwl-shop24.de 设 PLANET 分类；Impressum 自述「Fachhändler und Hersteller für Netzwerktechnik, Schwerpunkt Glasfaser」 | 事实（见下节证据） |
-| 自有品牌 | 是（自述 Hersteller——自有品牌光纤产品） | 待补证 |
+| 自有品牌 | 是（自述 Hersteller——自有品牌光纤产品） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

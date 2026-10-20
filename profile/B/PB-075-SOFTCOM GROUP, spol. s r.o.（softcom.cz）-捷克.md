@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | softcom.cz | 事实 |
 | 类型 | 分销/电商（1997 年起布拉格综合 IT 电商 + 门店 + 自有仓/服务部；自述「více než 1 milion zákazníků / 3 miliony objednávek / 30 tisíc položek」、横幅「28 let na trhu」；Síťové prvky 类目含 PLANET 商用 + 工业交换机，自编码 NEPL0xx、Záruka 36 Měsíců；面向 Firmy / Státní organizace / Studenti） | 事实（厂商/官网口径） |
 | PLANET 关联 | softcom.cz 商品页：PLANET IGS-10020PT（Kód NEPL045，11 567.50 Kč bez DPH / 13 996.70 Kč s DPH，Záruka 36 Měsíců，Výrobce Planet）、ISW-504PT（NEPL047，4 584.50 Kč bez DPH）、ISW-500T（NEPL046，1 675.50 Kč bez DPH）、GS-4210-16T2S（NEPL041，4 284.50 Kč bez DPH）、FGSD-1022VHP（NEPL039，3 080.50 Kč bez DPH）；老款 FNSW-1601 / GSW-1601 与 8×PoE 802.3at 120W + 2×100TX 款仍在目录 | 事实（见下节证据） |
-| 自有品牌 | 否（页面未见自有品牌交换机） | 待补证 |
+| 自有品牌 | 否（页面未见自有品牌交换机） | 事实 |
 | 法律实体 | SOFTCOM GROUP, spol. s r.o.（IČO 25623290，DIČ CZ25623290；C 55683/MSPH，Městský soud v Praze；成立 1997-11-14；基本资本 100 000 Kč（finmag）） | 事实/自述 |
 | 地址 | 28. pluku 458/7, 101 00 Praha 10 – Vršovice（centrála + prodejna + sklad + servis） | 事实/自述 |
 | 体量 | 人数/营收未公开（待补证）；自述 >1 000 000 zákazníků、>3 000 000 objednávek、>30 000 položek；「28 let na trhu」 | 事实/自述 |
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

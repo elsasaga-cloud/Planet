@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | bizsyscon.com | 事实 |
 | 类型 | 分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora | 事实（厂商/官网口径） |
 | PLANET 关联 | 在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家 | 事实（见下节证据） |
-| 自有品牌 | 是（Lysora） | 待补证 |
+| 自有品牌 | 是（Lysora） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

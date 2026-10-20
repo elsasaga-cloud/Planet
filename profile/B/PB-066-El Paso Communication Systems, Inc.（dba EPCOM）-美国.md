@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | epcom.net | 事实 |
 | 类型 | 分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」） | 事实（厂商/官网口径） |
 | PLANET 关联 | epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发 | 事实（见下节证据） |
-| 自有品牌 | 否（集团关联品牌 TXPro / Epcom 自有安防线；交换机为第三方） | 待补证 |
+| 自有品牌 | 否（集团关联品牌 TXPro / Epcom 自有安防线；交换机为第三方） | 事实 |
 | 法律实体 | El Paso Communication Systems, Inc.（dba EPCOM / Epcom USA） | 事实/自述 |
 | 地址 | 1630 E Paisano Dr, El Paso, TX 79901（D&B）；配送中心 San Antonio / El Paso / Miami | 事实/自述 |
 | 体量 | ≈95–101 人（buzzfile 95 / leadiq ≈101，2026-08）；营收 $17–24M；1987 年成立 | 事实/自述 |
@@ -82,7 +82,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
+- 接入层交换；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

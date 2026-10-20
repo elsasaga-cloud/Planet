@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | leteng.no | 事实 |
 | 类型 | 分销商（AV/IT 增值分销，1984 年起；服务挪威系统集成商、安装公司与专业经销商；Lagercrantz 集团成员） | 事实（厂商/官网口径） |
 | PLANET 关联 | 官网 produsenter（厂商）页列 PLANET；在售 ISW-504PT（NOK 2 544）；PLANET 为其网络线 | 事实（见下节证据） |
-| 自有品牌 | 否（但 RocketReach 名录显示设有「Procurement and Sourcing Representative, China」岗位——已直接从中国采购） | 待补证 |
+| 自有品牌 | 否（但 RocketReach 名录显示设有「Procurement and Sourcing Representative, China」岗位——已直接从中国采购） | 事实 |
 | 法人 | Leteng AS（Org nr 952 002 872） | 事实/自述 |
 | 成立 | 1984（注册 1995） | 事实/自述 |
 | 员工 | 21（proff.no） | 事实/自述 |

@@ -59,6 +59,15 @@ updated: 2026-10-20
 - **【第三方名录】股东 Janusz Oleksy 42 股 + Norbert Rzeczkowski 49 股；董事年龄**
   > Prezes Zarządu, 52 years old · Norbert Rzeczkowski Członek Zarządu, 26 years old · shareholders Janusz Oleksy 42 udziałów o łącznej wartości 2 100,00 zł · Norbert Rzeczkowski 49 udziałów o łącznej wartości 2 450,00 zł
   > 来源：https://aleo.com/int/company/elctron-e-commerce-partners-spolka-z-ograniczona-odpowiedzialnoscia（抓取 2026-10-20）
+- **【官网（分站，搜索快照）】同址分站 kamery.pl 的 PLANET 交换机类目带价（W20 补证）**
+  > Akcesoria CCTV » Przełączniki sieciowe » Planet GS-4210-8P2S - Switch 8xGEth PoE + 2xSFP … Cena netto 777.82 zł Cena brutto 956.72 zł … Ocena klientów na: 4.12/5 | 193 ocen
+  > 来源：http://www.kamery.pl/produkty/przelaczniki-sieciowe/planet-gs-4210-8p2s.htm（抓取 2026-10-20）
+- **【官网（分站，搜索快照）】kamery.pl 其他 PLANET 款**
+  > Planet GS-4210-24P2S … Cena netto 1690.57 zł ｜ Planet MGSW-28240F - Switch 24XSFP + 4XSFP + 10G L2 … Cena netto 3036.05 zł ｜ Switche PoE: Planet GSD-604HP … 253.56 zł cena netto … Planet GSW-1601
+  > 来源：http://www.kamery.pl/produkty/przelaczniki-sieciowe/index.html（抓取 2026-10-20）
+- **【官网（分站）】kamery.pl 运营主体与地址 = CTR 同址（Górczewska 129）**
+  > KAMERY.PL ul. Górczewska 129, 01-109 Warszawa NIP 5272693209, REGON 146665539 … Dział handlowy: (22) 532 69 69 ｜ Operatorem witryny internetowej KAMERY.PL … jest Sprzedaje.pl Sp z o.o. z siedzibą przy ul. Górczewska 129, 01-109 Warszawa
+  > 来源：http://www.kamery.pl/m_kontakt.htm（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -76,7 +85,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 
@@ -200,4 +209,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W13_新矿脉补挖_SK-PL（T17 继续挖）　|　原始证据：batch/2026-10-20_W13_新矿脉补挖_SK-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W13_新矿脉补挖_SK-PL（T17 继续挖）　|　原始证据：batch/2026-10-20_W13_新矿脉补挖_SK-PL.json, batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-20*

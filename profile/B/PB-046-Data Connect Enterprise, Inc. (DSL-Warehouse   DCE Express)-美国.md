@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | data-connect.com / dsl-warehouse.com / dceexpress.com | 事实 |
 | 类型 | VAD + 自有品牌制造商（Belden/Hirschmann 与 GarrettCom 主备货分销 + TAC；收购 Ctek/Relcomm/Synxcom/Telenetics 等产品线后自产商用/工业连接产品；DSL-Warehouse 为其 2009 年并入的电商部门） | 事实（厂商/官网口径） |
 | PLANET 关联 | 官网厂商名录含 PLANET TECHNOLOGIES；DSL-Warehouse 设 PLANET 品牌页（LRE-101、LRP-422CST、LRP-104CET 工业延长器等带价在售）；DCE Express 厂商列表含 Planet Technology；Mikrotik 仓库 A-270（Hirschmann/GarrettCom 主备货分销） | 事实（见下节证据） |
-| 自有品牌 | 是（Data Connect 自有品牌连接产品：收购 Ctek / Relcomm / Synxcom / Telenetics 等品牌的知识产权与制造权，自述「premier U.S. manufacturer of commercial and industrial grade connectivity products」） | 待补证 |
+| 自有品牌 | 是（Data Connect 自有品牌连接产品：收购 Ctek / Relcomm / Synxcom / Telenetics 等品牌的知识产权与制造权，自述「premier U.S. manufacturer of commercial and industrial grade connectivity products」） | 事实 |
 | 地址 | 3405 Olandwood Court, Olney, MD 20832 | 事实/自述 |
 | 成立 | 1988（DSL-Warehouse 自述） | 事实/自述 |
 | 仓库 | Maryland / New Jersey / California（官网） | 事实/自述 |
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

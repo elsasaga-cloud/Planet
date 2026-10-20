@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | nsidistribution.com | 事实 |
 | 类型 | 安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务 | 事实（厂商/官网口径） |
 | PLANET 关联 | PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌） | 事实（见下节证据） |
-| 自有品牌 | 是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务） | 待补证 |
+| 自有品牌 | 是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务） | 事实 |
 | 法人 | 2164929 Ontario Inc. o/a NSI Distribution | 事实/自述 |
 | 分部 | 9（加拿大全境） | 事实/自述 |
 

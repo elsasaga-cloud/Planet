@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | screenmoove.com | 事实 |
 | 类型 | 商用 AV / 数字标牌集成 + 电商（2019 年起；设计 / 供货 / 安装 / 支持；500+ 企业客户；Shopify 网店「Network Switches」类目 270 件，其中 Planet 220 件、MikroTik 22 件，Planet 标「Official Partner」并显示库存数量） | 事实（厂商/官网口径） |
 | PLANET 关联 | screenmoove.com/collections/network-switches：Brand 筛选 Planet (220) / MikroTik (22) / Netgear (5) / Ubiquiti (4) / Zyxel (3) …；In stock (137)；商品卡「Official Partner」+ 库存数：ISW-801T In stock (18)、IPOE-260 In stock (168)、IPOE-175 In stock (15)、IPOE-470 In stock (14)、IGS-4215-16P2T2S；搜索快照带价：GS-4210-24UP4X £545.44、WGS-804HPT £167.58、IKVM-210-16M £1,260.00、GSW-1601、GS-4210-24P2S、WGS-6325-8UP2X、FSD-803 | 事实（见下节证据） |
-| 自有品牌 | 否（2024 年起有 ScreenMoove 自有显示屏 / 白标数字标牌，与交换机无关） | 待补证 |
+| 自有品牌 | 否（2024 年起有 ScreenMoove 自有显示屏 / 白标数字标牌，与交换机无关） | 事实 |
 | 法律实体 | Snugfort Limited（England & Wales 12278368；VAT GB 396 2351 74），商号 ScreenMoove / Screen Moove | 事实/自述 |
 | 地址 | 86-90 Paul Street, Shoreditch, London EC2A 4NE | 事实/自述 |
 | 体量 | 小型 AV 公司（2019 年起；500+ 企业客户；人数未公开） | 事实/自述 |

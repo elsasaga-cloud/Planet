@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | planetechusa.com / versatek.com | 事实 |
 | 类型 | PLANET 北美授权总代（「a division of Versa Technology」） | 事实（厂商/官网口径） |
 | PLANET 关联 | PLANET 授权北美分销；其 Where-to-buy 页列 Pulse Supply、Black Box、Graybar、Anixter/Wesco、Platinum Micro、AT Logistics | 事实（见下节证据） |
-| 自有品牌 | 是（Versa Technology 自有 PoE/网络产品线） | 待补证 |
+| 自有品牌 | 是（Versa Technology 自有 PoE/网络产品线） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 
@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

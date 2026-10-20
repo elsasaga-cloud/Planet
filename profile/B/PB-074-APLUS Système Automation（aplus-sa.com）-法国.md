@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | aplus-sa.com | 事实 |
 | 类型 | 集成商/制造商（1988 年起法国工业计算机设计制造 + 分销：工业 / 医疗 / 国防安全 / 数字媒体 / POS 五大领域；网络件按 ORing / PLANET / Korenix 配套；合作伙伴 ASUS IoT / Custom / Seiko Instruments / Cincoze / Wincomm / Sintrones；关联品牌 APLUS Défense & Sécurité、VISION+） | 事实（厂商/官网口径） |
 | PLANET 关联 | aplus-sa.com /partenaires/ 新闻「PLANET obtient la certification de sécurité IEC 62443-4-1」（2024-02-14）；/toutes-les-actualites 列表「PLANET remporte le Taiwan Excellence Award pour la 20e année consécutive」「L'ICG-2515W obtient le prix du « Best Choice Golden Award » à l'occasion du Computex 2022」；托管 PLANET-Catalogue-2020-Solutions-PoE.pdf；2026-01-28 专题「Des routeurs industriels et des commutateurs réseau (Oring, Planet, Korenix)」；站内 /produit/planet-solution-sans-fil 与 /produit/planet-routeurs-vpn/ 两条 PLANET 产品路径（今日均 301 至 /nos-solutions/） | 事实（见下节证据） |
-| 自有品牌 | 是（自产工业 PC / 面板 PC / 加固终端）——不涉及交换机 | 待补证 |
+| 自有品牌 | 是（自产工业 PC / 面板 PC / 加固终端）——不涉及交换机 | 事实 |
 | 法律实体 | APLUS Système Automation（法律形式 / SIREN 待补证） | 事实/自述 |
 | 地址 | ZAC de la Noue Rousseau, Techniparc, 91160 Saint-Michel-sur-Orge（Essonne） | 事实/自述 |
 | 体量 | 人数/营收未公开（待补证）；自述「Depuis 1988 … fabricant, concepteur et distributeur」；bureau d'étude + 环境资质实验室外包；生态 aplus-defense.com / VISION+ | 事实/自述 |
@@ -73,7 +73,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；工业/宽温 DIN；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

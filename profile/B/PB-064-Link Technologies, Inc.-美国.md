@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | linktechs.net（商店 shop.linktechs.net） | 事实 |
 | 类型 | 分销/电商 + ISP 网络工程服务（MikroTik Master Distributor；面向 WISP / 光纤 ISP / MSP 的网络工程、RouterOS 培训与设备商店；自有 PowerLink PoE 线） | 事实（厂商/官网口径） |
 | PLANET 关联 | linktechs.net 商店（productcart）PLANET 在售：GS-2240-24T4X $449.00、IGS-5225-20T4C2X $1,216.00、XGSW-28040 $772.00、GS-4210-8P2S $244.00（另见 Antaira 类 LNP-0802C-SFP）——商用 L2+ 万兆上联 + 工业 L2+/L3 两线 | 事实（见下节证据） |
-| 自有品牌 | 是（PowerLink PoE 供电线；交换机非自有） | 待补证 |
+| 自有品牌 | 是（PowerLink PoE 供电线；交换机非自有） | 事实 |
 | 法律实体 | Link Technologies, Inc.（Missouri） | 事实/自述 |
 | 业务 | ISP/WISP 网络工程 + 运维支持 + RouterOS 培训 + 设备商店（MikroTik、Grandstream、Ubiquiti、Mimosa、KP Performance、NetPoint、自有 PowerLink PoE） | 事实/自述 |
 | PLANET 线 | 商用 L2+ 万兆（GS-2240-24T4X）、L3 堆叠（XGSW-28040）、工业 L3（IGS-5225）、PoE 入门（GS-4210-8P2S） | 事实/自述 |

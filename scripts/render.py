@@ -178,7 +178,9 @@ def render_one(row, by_saga, by_sb):
     L.append(f"| 网站 | {row['网站']} | 事实 |")
     L.append(f"| 类型 | {row['类型']} | {'事实（厂商/官网口径）' if evidence else '推断'} |")
     L.append(f"| PLANET 关联 | {row['信号（在卖什么品牌）']} | 事实（见下节证据） |")
-    L.append(f"| 自有品牌 | {row['是否自有品牌']} | {'事实' if row['是否自有品牌'] in ('是','否') else '待补证'} |")
+    # W20 修复：「是（…依据）」/「否（…）」带括注说明时仍是事实层（括注即依据）；只有「疑似 / 未知 / 空」才标待补证。
+    _ob = (row['是否自有品牌'] or '').strip()
+    L.append(f"| 自有品牌 | {_ob or '未知'} | {'事实' if _ob.startswith(('是','否')) else '待补证'} |")
     for k, v in (c.get("facts") or {}).items():
         L.append(f"| {k} | {v} | {'【推断】' if '推断' in str(v) else '事实/自述'} |")
     L.append("")
@@ -211,7 +213,15 @@ def render_one(row, by_saga, by_sb):
     L.append("")
     # 需求与场景
     L.append("## 需求与场景（推断标签）\n")
-    L.append(f"- {c.get('needs','PoE 接入供电（安防/AP）；' + ('工业/宽温 DIN；' if '工业' in row['类型'] or 'IGS' in ' '.join(pm) else '') + '万兆上行')}（【推断】依据在卖品类）\n")
+    # W20 修复：「万兆上行」只在在卖型号 / P1 确有 10G 口（XGS、-xX、SFP+、10G、Saga XGG）时才推断，不再无差别追加。
+    _pmtxt = ' '.join(pm)
+    _ten_g = bool(re.search(r'XGS|SFP\+|10G|-\d*X\b|\d+X\d*[A-Z]*\b', _pmtxt)) or 'XGG' in (row['首推Saga型号'] or '')
+    _needs = ['PoE 接入供电（安防/AP）'] if ('PoE' in _pmtxt or 'P' in (row['首推Saga型号'] or '') or 'PoE' in row['类型'] or 'PoE' in row['信号（在卖什么品牌）']) else ['接入层交换']
+    if '工业' in row['类型'] or 'IGS' in _pmtxt or 'ISW' in _pmtxt or 'WGS' in _pmtxt or (row['首推Saga型号'] or '').startswith('STI'):
+        _needs.append('工业/宽温 DIN')
+    if _ten_g:
+        _needs.append('万兆上行')
+    L.append(f"- {c.get('needs','；'.join(_needs))}（【推断】依据在卖品类）\n")
     # 联系方式
     L.append("## 联系方式（已有/猜测分标）\n")
     if contacts:

@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | shop.fiber24.net | 事实 |
 | 类型 | 分销商/电商 + 自有品牌（光纤与网络产品网店；PLANET 工业交换机全系 + 自有品牌产品线） | 事实（厂商/官网口径） |
 | PLANET 关联 | 网店 PLANET 厂商页与 IGS-5225 全系（IGS-5225-4P2S €293 / 8P2T2S €469 / 8T2S2X €540 / 4UP1T2S）；自述「We carry brands such as PLANET, as well as a large selection of our own brand products」 | 事实（见下节证据） |
-| 自有品牌 | 是（Fiber24 自有品牌，F24- 前缀资料） | 待补证 |
+| 自有品牌 | 是（Fiber24 自有品牌，F24- 前缀资料） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 

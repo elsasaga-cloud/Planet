@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | ciudadwireless.com | 事实 |
 | 类型 | 分销商/专业网店（无线/网络/监控/VoIP 专营，自述「la tienda online con mayor stock de productos Wifi, Videovigilancia, Cámaras IP, Networking」；品牌墙 MikroTik / Ubiquiti / Cambium / Netgear / Planet / Zyxel / Lantech 等；自有品牌 eRize） | 事实（厂商/官网口径） |
 | PLANET 关联 | Mikrotik 仓库 A-562 官网核对：制造/代理品牌墙含 Planet；自有品牌 eRize 含工业 DIN 交换机（ERZ-IS01G20802R-4075AP 管理型 8 GbE PoE + 2 SFP 240W；ERZ-IS00F00510R-4075AP 4 PoE 非管理）与 OEM PoE 分离器 | 事实（见下节证据） |
-| 自有品牌 | 是（eRize：工业 DIN 交换机、PoE 分离器/电源/天线，页面标注 OEM） | 待补证 |
+| 自有品牌 | 是（eRize：工业 DIN 交换机、PoE 分离器/电源/天线，页面标注 OEM） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

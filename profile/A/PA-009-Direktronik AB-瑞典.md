@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | direktronik.se | 事实 |
 | 类型 | 分销商（网络/数据通信分销，1986 年起；自有品牌 Direktronik 产品线；Lagercrantz Group 子公司） | 事实（厂商/官网口径） |
 | PLANET 关联 | 在售 PLANET IPOE-470-12V 等；官网大量「Direktronik」自有品牌网络产品（贴牌来源待核） | 事实（见下节证据） |
-| 自有品牌 | 是（Direktronik 自有品牌工业交换机/转换器） | 待补证 |
+| 自有品牌 | 是（Direktronik 自有品牌工业交换机/转换器） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 

@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | alarmsysteemexpert.nl | 事实 |
 | 类型 | 安防电商/安装商（20+ 年；Ajax / Hikvision / Dahua 等品牌 + 展厅；B2B/B2C；自有/白牌「Movok VK-SWITCH」PoE 交换机系列） | 事实（厂商/官网口径） |
 | PLANET 关联 | 网店「Switches and adapters」类目在售 PLANET POE-E201 PoE 延长器、POE-163 注入器，与「VK-SWITCH-2624POE-250-G / 1816POE-250-G / 1008POE-120-G / 0604POE-65」白牌 PoE 交换机并列 | 事实（见下节证据） |
-| 自有品牌 | 是（Movok / VK-SWITCH 系列，来源待核） | 待补证 |
+| 自有品牌 | 是（Movok / VK-SWITCH 系列，来源待核） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 
@@ -58,7 +58,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

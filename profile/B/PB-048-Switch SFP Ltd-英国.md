@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | switchsfp.com | 事实 |
 | 类型 | 分销/网店（兼容光模块专业供应商，面向终端用户、经销商与贸易账户；Jisc 网络设备框架成员；站内设 Industrial Switches 类目） | 事实（厂商/官网口径） |
 | PLANET 关联 | 官网 vendors 集合含 PLANET（TSN-6325-8T4S4X 工业 L3 TSN 管理型交换机「Original new Planet」在售）；Mikrotik 仓库 A-553（Antaira 授权） | 事实（见下节证据） |
-| 自有品牌 | 否（兼容光模块为 MSA 通用兼容品，非交换机品牌） | 待补证 |
+| 自有品牌 | 否（兼容光模块为 MSA 通用兼容品，非交换机品牌） | 事实 |
 | 地址 | Unit 9 Cirencester Office Park, Tetbury Road, Cirencester GL7 6JJ | 事实/自述 |
 | 公司号 | 11349627 | 事实/自述 |
 

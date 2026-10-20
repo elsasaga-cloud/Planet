@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | linhawstore.com | 事实 |
 | 类型 | 分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商） | 事实（厂商/官网口径） |
 | PLANET 关联 | 【W10 再更正】美国海关提单（ImportGenius 进口商页）：PLANET TECHNOLOGY CORPORATION → Lin Haw 35 柜 / 12,897 kg，最近一票 2017-04-04 → PLANET 直接进口为历史；当前品牌墙无 Planet（自有品牌 PC Cable World 549 件；Netgear / TP-Link / Ubiquiti 交换机在售）；旧 PoE 类目页（2015）已 404 | 事实（见下节证据） |
-| 自有品牌 | 是（PC Cable World，线缆/配件为主；含交换机否待补证） | 待补证 |
+| 自有品牌 | 是（PC Cable World，线缆/配件为主；含交换机否待补证） | 事实 |
 | 地址 | #108 - 8620 Glenlyon Parkway, Burnaby, BC V5J 0B6 | 事实/自述 |
 | 成立 | 1986 | 事实/自述 |
 | 体量 | 17 人、营收 $10–25M（Frasers 2022） | 事实/自述 |
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 

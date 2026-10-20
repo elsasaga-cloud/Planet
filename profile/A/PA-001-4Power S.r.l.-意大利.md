@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | 4power.it | 事实 |
 | 类型 | 方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销 | 事实（厂商/官网口径） |
 | PLANET 关联 | PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B | 事实（见下节证据） |
-| 自有品牌 | 是（4Net 网络产品、Eurogroup UPS、4Net Cabling） | 待补证 |
+| 自有品牌 | 是（4Net 网络产品、Eurogroup UPS、4Net Cabling） | 事实 |
 | 成立 | 2003（LinkedIn/行业媒体） | 事实/自述 |
 | 规模 | 11–50 人（LinkedIn） | 事实/自述 |
 | 自有品牌 | 4Net（网络）、Eurogroup（UPS）、4Net Cabling | 事实/自述 |

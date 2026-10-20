@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | eetgroup.com | 事实 |
 | 类型 | 分销商（泛欧 IT/AV/安防分销巨头） | 事实（厂商/官网口径） |
 | PLANET 关联 | 自称「paneuropejskim autoryzowanym dystrybutorem produktów i usług Planet」，各国站点均有 PLANET 品牌页 | 事实（见下节证据） |
-| 自有品牌 | 否（有多个自有配件品牌） | 待补证 |
+| 自有品牌 | 否（有多个自有配件品牌） | 事实 |
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 

@@ -37,7 +37,7 @@ updated: 2026-10-20
 | 网站 | cyberbajt.pl | 事实 |
 | 类型 | 分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器） | 事实（厂商/官网口径） |
 | PLANET 关联 | cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」 | 事实（见下节证据） |
-| 自有品牌 | 是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机 | 待补证 |
+| 自有品牌 | 是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机 | 事实 |
 | 法律实体 | Cyberbajt Tadeusz Nowak（个体经营；NIP 9221003243，REGON 950190918） | 事实/自述 |
 | 地址 | ul. Młyńska 27, 22-400 Zamość（卢布林省） | 事实/自述 |
 | 体量 | 人数未公开；自述「największy sklep internetowy dla instalatorów i ISP」；自有品牌 CBF + 天线生产部门；2002 年起 | 事实/自述 |
@@ -87,7 +87,7 @@ updated: 2026-10-20
 
 ## 需求与场景（推断标签）
 
-- PoE 接入供电（安防/AP）；万兆上行（【推断】依据在卖品类）
+- PoE 接入供电（安防/AP）；工业/宽温 DIN（【推断】依据在卖品类）
 
 ## 联系方式（已有/猜测分标）
 
