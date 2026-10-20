@@ -69,9 +69,9 @@ updated: 2026-10-20
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488XGGPM），备选型不进邮件。
+> ⚠ 并档户（Mikrotik **A-482**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（STI-488XGGPM），备选型不进邮件。
 
-### 第 1 次跟进 · （Mikrotik 侧首触后）PLANET 对位补充
+### 第 1 次跟进 · （Mikrotik 侧首触后）PLANET 对位补充（Mikrotik 侧回复后再定）
 
 - **推什么**：STI-488XGGPM
 - **切入点**：对位其 PLANET/Antaira/Korenix 工业 8 口 PoE + 10G 档

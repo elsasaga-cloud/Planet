@@ -50,7 +50,7 @@ def email_template(row, c, p1, price_str):
     country = row["国家"]
     q = c.get("first_question") or "Which PoE switch model do you sell most often today, and roughly how many units a year?"
     hook = c.get("hook") or f"You carry PLANET PoE switches in {country}, so your customers already accept Taiwan-grade pricing and lead times."
-    if "分销" in t or "电商" in t:
+    if "分销" in t or "电商" in t or "批发" in t or "进口商" in t:
         body = f"""Hi {first},
 
 {hook}
@@ -89,7 +89,7 @@ Happy to send one unit for a 30-day test. If not a fit, one line and I close the
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)"""
-    subj = c.get("subject") or f"Second-source PoE switch for your {('PLANET line' if ('分销' in t or '电商' in t) else 'PoE projects')}"
+    subj = c.get("subject") or f"Second-source PoE switch for your {('PLANET line' if ('分销' in t or '电商' in t or '批发' in t or '进口商' in t) else 'PoE projects')}"
     return subj, body
 
 
@@ -178,17 +178,23 @@ def render_one(row, by_saga, by_sb):
         L.append("")
     # 跟进步骤
     steps = c.get("steps") or []
+    mref = row.get("Mikrotik仓库对照编号", "") or ""
+    via_mikrotik = "首触以 Mikrotik 仓库为准" in (row.get("备注", "") or "")
     L.append("## 跟进步骤（最多 3 次 · 成功/退出标准）\n")
-    L.append(f"> 每次只推进一个台阶、只问一个问题；全程只推 P1（{p1}），备选型不进邮件。\n")
+    if via_mikrotik:
+        # 并档户：台阶只是 PLANET 侧预案，启动时点由 Mikrotik 侧回复决定，不按本仓首触节奏推进
+        L.append(f"> ⚠ 并档户（Mikrotik **{mref}**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（{p1}），备选型不进邮件。\n")
+    else:
+        L.append(f"> 每次只推进一个台阶、只问一个问题；全程只推 P1（{p1}），备选型不进邮件。\n")
     if steps:
         for i, s in enumerate(steps, 1):
-            L.append(f"### 第 {i} 次跟进 · {s.get('title','')}\n")
+            L.append(f"### 第 {i} 次跟进 · {s.get('title','')}{'（Mikrotik 侧回复后再定）' if via_mikrotik and i == 1 else ''}\n")
             L.append(f"- **推什么**：{s.get('push', p1)}")
             L.append(f"- **切入点**：{s.get('angle','')}")
             L.append(f"- **要问的问题**：{s.get('question','')}")
             L.append(f"- **随附/动作**：{s.get('action','')}\n")
     else:
-        L.append(f"### 第 1 次跟进 · 第二货源/贴牌试探\n\n- **推什么**：{p1}\n- **切入点**：{row['切入点']}\n- **要问的问题**：{c.get('first_question','Which PoE switch model do you sell most often today, and roughly how many units a year?')}\n- **随附/动作**：无附件；规格页链接一条\n")
+        L.append(f"### 第 1 次跟进 · {'Mikrotik 侧回复后再定 · PLANET 线对位' if via_mikrotik else '第二货源/贴牌试探'}\n\n- **推什么**：{p1}\n- **切入点**：{row['切入点']}\n- **要问的问题**：{c.get('first_question','Which PoE switch model do you sell most often today, and roughly how many units a year?')}\n- **随附/动作**：无附件；规格页链接一条\n")
         L.append(f"### 第 2 次跟进 · 样机\n\n- **推什么**：{p1}（1 台）\n- **切入点**：30 天并行测试，不要求承诺\n- **要问的问题**：Which site/customer would you test it on?\n- **随附/动作**：L2+ 特性表 1 页（ERPS/QinQ/IGMP/PoE watchdog）\n")
         L.append(f"### 第 3 次跟进 · 贴牌与批量\n\n- **推什么**：{p1} + 贴牌方案\n- **切入点**：中性包装、客户型号、固件 UI 定制\n- **要问的问题**：What MOQ and label format would make sense for a first run?\n- **随附/动作**：贴牌流程 1 页；报价前核价\n")
     # 产品决策
@@ -225,9 +231,7 @@ def render_one(row, by_saga, by_sb):
     for u in c.get("unknowns") or ["年用量与最常出的 PLANET 型号", "是否接受贴牌/第二货源", "采购决策人与付款口径", "对 bt/LCD/云管理等 Saga 缺口的依赖程度"]:
         L.append(f"- [ ] {u}")
     L.append("")
-    # 首触邮件
-    mref = row.get("Mikrotik仓库对照编号", "") or ""
-    via_mikrotik = "首触以 Mikrotik 仓库为准" in (row.get("备注", "") or "")
+    # 首触邮件（mref / via_mikrotik 已在「跟进步骤」前计算）
     if grade in ("A", "B") and via_mikrotik:
         # 并档户：首触由 Mikrotik 仓库发，本仓不生成可发送邮件，避免同一客户被两仓各发一封
         L.append("## 首触邮件：本仓不发（Mikrotik 同户并档）\n")

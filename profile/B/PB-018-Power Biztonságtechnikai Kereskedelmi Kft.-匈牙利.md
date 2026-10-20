@@ -48,6 +48,12 @@ updated: 2026-10-20
 - **【卖方目录】【W09 补证】PLANET 专文「Planet Networking a Powertől!」与 IGS-10020HPT / PoE-E202 商品页仍被索引（HU 安防批发查询再次命中；具体页 URL 待补证，以官网根代指）**
   > Planet Networking a Powertől! … IGS-10020HPT … PoE-E202
   > 来源：https://www.powerbizt.hu/（抓取 2026-10-20）
+- **【卖方目录（搜索摘要）】【W11 补证】PLANET 专文新路径 + 产品页（批发定位自述）**
+  > Planet Networking a Powertől! … PLANET switcheket a kis- és középvállalkozások, rendszerintegrátorok és nagyvállalatok számára tervezték … PoE Power Boost technológia … | Planet IGS-10020HPT industrial PoE switch, 10 port … Bruttó listaár: 350 520 Ft … | Tájékoztatjuk Önöket, hogy a POWER Biztonságtechnikai Kft. nagykereskedés, így csak telepítőket és viszonteladókat áll módunkban kiszolgálni.
+  > 来源：https://powerbizt.hu/cikk/planet-networking-a-powertol（抓取 2026-10-20）
+- **【卖方目录（搜索摘要）】【W11 补证】PLANET 工业 PoE 在售（含价格）**
+  > Planet IGS-10020HPT industrial PoE switch, 10 port … Gyártó: Planet … Bruttó listaár: 350 520 Ft … DIN sínre rögzíthető, Layer 2 menedzselhető
+  > 来源：https://powerbizt.hu/termekek/planet-igs-10020hpt-ip30-industrial-poe-switch（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -177,4 +183,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*

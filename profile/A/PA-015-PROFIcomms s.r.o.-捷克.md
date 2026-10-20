@@ -58,6 +58,9 @@ updated: 2026-10-20
 - **【Mikrotik 仓库】A-497 同户（人工 A，info@）**
   > A-497 Proficomms 捷克 专业分销 ComNet/Microsens/AMG/PLANET/Cisco IE/TRENDnet info@proficomms.cz（官网 kontakt）
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【卖方目录】【W11 回查】PLANET 品牌页在线、PM 具名不变；入门工业款多数标「výprodej」（清仓），L3 IGS-6325 系列为常规在售**
+  > Planet | PROFIcomms.cz … Pro více informací nás kontaktujte: David Matula Product & Sales manager Telefon: +420 548 210 406 kl. 286 Mobil: +420 736 625 791 E-mail: matula(a)proficomms.cz … Kód: IGT-905A | Dostupnost po přihlášení výprodej … FT-802 / FT-802S15 / FT-802S35 … výprodej … IGS-801M … výprodej … IGS-510TF-ref … výprodej … IGS-6325-20T4C4X / IGS-6325-24P4S / IGS-6325-24P4X | Dostupnost po přihlášení（无清仓标）
+  > 来源：https://www.proficomms.cz/planet/m-1971/?prodc=1（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -195,4 +198,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*

@@ -68,9 +68,9 @@ updated: 2026-10-20
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488DGGPM），备选型不进邮件。
+> ⚠ 并档户（Mikrotik **A-532**）：首触由 Mikrotik 仓库发出，下列台阶仅为 PLANET 线对位**预案**，**启动时点 = Mikrotik 侧回复后再定**；本仓不按自己的节奏发第 1 封。全程只推 P1（STI-488DGGPM），备选型不进邮件。
 
-### 第 1 次跟进 · 第二货源/贴牌试探
+### 第 1 次跟进 · Mikrotik 侧回复后再定 · PLANET 线对位
 
 - **推什么**：STI-488DGGPM
 - **切入点**：自有品牌 Lysora 已是贴牌货（NSI 加拿大也分销 Lysora）→ OEM 对象；Mikrotik 仓库 A-532 已记录 sales@bizsyscon.com，勿重复首触

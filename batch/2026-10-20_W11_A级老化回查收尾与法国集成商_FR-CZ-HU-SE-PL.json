@@ -1,0 +1,501 @@
+{
+ "batch": "2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL",
+ "date": "2026-10-20",
+ "method": [
+  "T12「继续搞」：按 README 第 15 条——A 级证据老化回查收尾（剩余 6 户）、B ★★★ 回查、挖掘 ≤6 次 web_search（CZ/HU/TR 二级安防分销 + FR 第二条去型号查询）、取证补缺、每轮修 1 处渲染缺陷",
+  "证据老化回查：PA-003 RFOG ✅ / PA-008 Aspectis ✅（2026-08 新增 ICG-2515P-NR）/ PA-009 Direktronik ✅（旧类目 URL 301，改挂站内搜索 179 件）/ PA-015 PROFIcomms ✅（7/11 入门工业件清仓 → 信号升级）/ PA-011 Young 抓取失败 ×3（HTTP 500 / 失败，非死链结论 → 待复核）/ PA-014 Pulse 不重抓（2026-10-19 planetechusa where-to-buy 已列 PULSE SUPPLY，证据 1 天新）；B ★★★ PB-001 / PB-005 / PB-052 证据均 ≤2 天（W01/W08 抓取）→ 本轮不重抓",
+  "挖掘：CZ / HU / TR / FR 去型号安防批发查询各 1 条 → CZ 全为池内或已 skip；HU 命中 PB-018 新 URL（补证）；TR 全为池内（PB-032 / Nokta）；FR 命中 2 新户 jpfidistribution.com（PB-058）与 europ-computer.com（PB-059），核身各 1 次",
+  "渲染修正：并档户「跟进步骤」块改为『Mikrotik 侧回复后再定』（不再按本仓首触节奏写台阶）"
+ ],
+ "tools": "web_search depth 1（6 次：挖掘 4 + 核身 2）+ fetch_page（13 段：A 级回查 9 + 新户核身 4）",
+ "queries": [
+  "[fetch_page] https://www.rfog.pl/produkt,2437,switch-planet-48-portow-poe-1000m-gigabit-zarzadzalny-4-porty-gigabit-sfp-gs-4210-48p4s（PA-003：在线，GS-4210-48P4S 询价制，电话一致 → 现役）",
+  "[fetch_page] https://aspectis.hu/（PA-008：在线，PLANET 解决方案横幅 + 2026-08 新品 ICG-2515P-NR → 现役）",
+  "[fetch_page] https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch（PA-009：301 → https://www.direktronik.se/direktronik/natverk/ 泛类目页，无 PLANET 字样 → 旧 URL 失效）",
+  "[fetch_page] https://www.direktronik.se/sok/?q=planet（PA-009：站内搜索 193 命中 / 商品 179 → 现役，证据改挂此页）",
+  "[fetch_page] https://www.proficomms.cz/planet/m-1971/?prodc=1 ×2 段（PA-015：在线，PM David Matula 不变；7/11 入门工业件 výprodej → 现役 + 信号升级）",
+  "[fetch_page] https://www.young.hu/hirek-aktualitasok/kivalo-ar-ertek-aranyu-planet-switchek-kis-es-kozepvallalkozasoknak-jelenleg-raktarrol（PA-011：HTTP 500）",
+  "[fetch_page] https://www.young.hu/rolunk/elerhetosegeink（PA-011：抓取失败）",
+  "[fetch_page] https://www.young.hu/（PA-011：抓取失败 → 本轮无法判定，非死链结论；搜索结果中 young.hu 的 IGS-10020HPT 商品页仍被索引）",
+  "\"Planet\" switch PoE distributor kamerové systémy velkoobchod -alza -czc -softcom -100mega -i4wifi -proficomms（CZ：kamerovysvet.cz = 池内 LK enterprise；cctv-shop.cz = W09 skip；istccorp = W02 skip 区域外；其余 PLANET 实体/AU 分销 → 无新名）",
+  "\"Planet\" PoE switch biztonságtechnika nagykereskedés forgalmazó -young -aspectis（HU：powerbizt.hu 专文 + 3 个产品页 → PB-018 补证；young.hu 商品页 = PA-011；newegg 噪音 → 无新名）",
+  "\"Planet\" PoE switch güvenlik sistemleri distribütör toptan -akakce -n11 -hepsiburada -gelecekbt（TR：rimaelektronik ×5 = PB-032；noktaelektronik = 池内 Nokta → 无新名）",
+  "\"Planet\" switch PoE grossiste vidéosurveillance distributeur -w3cam -connectdata（FR：jpfidistribution.com → PB-058；europ-computer.com → PB-059；maison-du-cable = W02/W09 skip；azenn-connect = Exertis Azenn C-185；networkcamerastore = 池内；planetechusa 博文噪音）",
+  "[fetch_page] https://www.europ-computer.com/brand/1738-planet（PB-059 核身：品牌页在线但正文为菜单渲染，款号未抓到）",
+  "[fetch_page] https://www.jpfidistribution.com/produit/solutions-reseau-actif/reseau-filaire/switchs/planet-fsd-1008hp-switch-10-10p-10-100-dont-8-poe-120w/ ×2 段（PB-058 核身：PLANET 产品页 + 相邻 GS4210-16T2S / LRP-101U；页脚 facebook GROUPE.FAUCHE）",
+  "[fetch_page] https://www.jpfidistribution.com/contact/ ×2 段（PB-058 核身：jpfid@fauche.com / 02 96 85 84 04 / 四条业务线）",
+  "\"JPF Industries\" Fauché distribution réseau informatique Bretagne（PB-058 核身：首页地址、LinkedIn 摘要、pappers / societe.com / quotemypart / Le Télégramme 2023 / Journal des Entreprises 2025）",
+  "europ-computer.com ECP grossiste informatique revendeurs société contact（PB-059 核身：关于页 / ecpv3 / FAQ / CGV / pagesjaunes / societeinfo；hatshepsut-sarl 第三方页列 Sabrina 直邮 → 仅线索）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-058",
+   "name": "JPF Industries SAS",
+   "country": "法国",
+   "city": "Quévert（Dinan，Côtes-d'Armor，布列塔尼）",
+   "website": "jpfidistribution.com",
+   "type": "集成商/安装商 + 网络配件分销（Groupe Fauché 子公司：电气安装、信息网络与电话安装、定制线缆与电气柜制造；自营 B2B 网店 12,000 个 SKU）",
+   "signal": "jpfidistribution.com 在售 PLANET FSD-1008HP（8 口 PoE+ 百兆 10″ 机型，REF 411108）、PLANET GS4210-16T2S（16 口千兆 + 2 SFP 二层管理型）、PLANET LRP-101U（500 m PoE 延长套件）；REF 与 Exertis Connect/Azenn 货号一致 → PLANET 经 Exertis 二级采购",
+   "own_brand": "否",
+   "angle": "安装商自用 + 网店分销双重消耗：IP 监控/WiFi 布点用 8 口 PoE 为走量槽位；其 PLANET 走 Exertis 二级价，Saga 直供 EXW 把中间层拿掉；电气柜制造线（armoires électriques）可顺带带入 DIN 导轨工业 PoE",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "其在售 FSD-1008HP 为 8 口百兆 PoE（Saga 暂无对应）——同槽位千兆升级款即 8 口千兆 PoE + 2 SFP 管理型；安装商 IP 监控布点走量档",
+   "tier": 0.25,
+   "tier_reason": "集成商/安装商（项目型）→ 25%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET PoE/交换机在售（3 款可见）且本身是电气+网络安装商（90 人、营收 €11.1M），有项目消耗；触达：jpfid@fauche.com（官网联系页公开）、+33 2 96 85 84 04；体量可赢（子公司自主运营网店）；无在任具名决策人（2025-09 报道换帅、新任未具名）→ B",
+   "source": "M2 品牌/型号反查（FR 去型号安防批发查询命中 jpfidistribution.com PLANET 产品页）+ M9 名录核身（pappers / societe.com / quotemypart / Le Télégramme / Journal des Entreprises）",
+   "planet_models": [
+    "FSD-1008HP",
+    "GS-4210-16T2S",
+    "LRP-101U"
+   ],
+   "model_map": {
+    "FSD-1008HP": {
+     "saga": "STC-28DGGPM（千兆升级款）",
+     "note": "8 口百兆 PoE+ 10″ 机型，Saga 暂无百兆对应；以 8 口千兆 PoE 管理型作同槽位升级"
+    },
+    "GS-4210-16T2S": {
+     "saga": "—",
+     "note": "16 口千兆非 PoE 管理型，Saga 暂无 16 口对应（24 口可用 STC-424DGGM，端口数不同，不作首触）"
+    },
+    "LRP-101U": {
+     "saga": "—",
+     "note": "500 m PoE 延长套件，Saga 不做"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（公司通用）",
+     "role": "contact",
+     "email": "jpfid@fauche.com",
+     "phone": "+33 2 96 85 84 04 / +33 2 96 85 88 88",
+     "status": "公开（官网联系页 + 首页）",
+     "source": "https://www.jpfidistribution.com/contact/"
+    },
+    {
+     "name": "Frédéric Moy",
+     "role": "前任总经理（1998–2025，2025-09 报道已换帅；现任未具名）",
+     "email": "",
+     "phone": "",
+     "status": "仅媒体报道，无邮箱；不作触达对象",
+     "source": "https://www.letelegramme.fr/cotes-d-armor/dinan-22100/a-quevert-jpf-industries-poursuit-son-developpement-en-pays-de-dinan-6352399.php"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 交换机/PoE 在售（产品页在线，2024-05 上架图）",
+     "quote": "Planet FSD-1008HP switch 10″ 10P 10/100 dont 8 poe+ 120W … REF : 411108 Catégories : Solutions réseau actif, Réseau filaire, Switchs … Le switch Planet FSD-1008HP haute puissance est destiné aux déploiement de surveillance sur IP … Previous product: PLANET GS4210-16T2S Switch Niv.2 16P Gigabit & 2 SFP … Next product: Planet LRP-101U kit rallonge 500m sur RJ45 avec PoE+ 30W",
+     "url": "https://www.jpfidistribution.com/produit/solutions-reseau-actif/reseau-filaire/switchs/planet-fsd-1008hp-switch-10-10p-10-100-dont-8-poe-120w/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公开邮箱/电话与业务线（电气柜制造、定制线缆、网络、专业方案）",
+     "quote": "CONTACTEZ NOUS … 02 96 85 84 04 … envoyer un mail (mailto:jpfid@fauche.com) … Type de prestation : Fabrication d'armoire électrique / Cordons sur mesure / Réseaux / Solutions professionnels",
+     "url": "https://www.jpfidistribution.com/contact/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索摘要）",
+     "claim": "定位、地址、SKU 规模",
+     "quote": "JPF Industries - Fauché - Vente de matériel connectique réseau sur Dinan. Fabrication de cordons réseaux sur mesure … Un large choix avec plus de 12.000 références disponibles … Diagnostic réseau … Supervision réseau & serveur … Jpf Industries 8 Boulevard de Préval, 22100 Quévert 02 96 85 88 88",
+     "url": "https://www.jpfidistribution.com/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "法人、人数、行业代码",
+     "quote": "JPF INDUSTRIES 404 954 125 · Active · Adresse : 8 BD ZI, 22100 QUEVERT · Activité : Installation d'équipements électriques, de matériels électroniques et optiques ou d'autres matériels · Effectif : Entre 50 et 99 salariés (donnée 2023) · Création : 04/03/1996 · Dirigeant : J.P. FAUCHE INVESTISSEMENTS",
+     "url": "https://www.pappers.fr/entreprise/jpf-industries-404954125",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "营收与人数",
+     "quote": "JPF Industries … Fondation : 1996 · Effectif déclaré : 88 · Chiffre d'affaires : 11,11 M€ (2025) · Forme : SAS · Code NAF : 33.20D",
+     "url": "https://quotemypart.fr/prestataires/jpf-industries-dinan/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "媒体",
+     "claim": "集团归属、规模与业务（2023-05-25）",
+     "quote": "l'entreprise JPF Industries de Quévert … du groupe Fauché, dont elle fait partie … Dirigée depuis 25 ans par le Trélivannais Frédéric Moy … spécialisée dans les installations électriques, télécoms et informatiques … rachetée en 1996 par le groupe Fauché … elle compte aujourd'hui près de 90 salariés",
+     "url": "https://www.letelegramme.fr/cotes-d-armor/dinan-22100/a-quevert-jpf-industries-poursuit-son-developpement-en-pays-de-dinan-6352399.php",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "媒体",
+     "claim": "换帅与母集团体量（2025-09-19）",
+     "quote": "l'acteur de l'électricité JPF Industries (100 salariés, 11,1 M€ de CA en 2024). La filiale depuis 1996 du Groupe Fauché (3 500 collaborateurs, 450 M€ de CA) a changé de direction.",
+     "url": "https://www.lejournaldesentreprises.com/article/lacteur-de-lelectricite-jpf-industries-mise-sur-le-photovoltaique-pour-renforcer-sa-croissance-2125023",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录（搜索摘要）",
+     "claim": "LinkedIn 自述（登录墙，仅摘要）",
+     "quote": "JPF Industries est une filiale du Groupe Fauché située à Dinan et à St Malo. Depuis plus de 20 ans, forte de ses 80 collaborateurs, JPF Industries prend en charge l'ensemble des besoins en électricité, réseaux informatiques et téléphonie de ses nombreux et fidèles clients.",
+     "url": "https://fr.linkedin.com/company/jpf-industries",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "8 Boulevard de Préval（ZI），22100 Quévert",
+    "SIREN": "404 954 125（SAS，资本 €380k）",
+    "成立": "1996（Groupe Fauché 收购 Ballant 后更名）",
+    "体量": "88–100 人；营收 €11.1M（2024/2025）",
+    "母集团": "Groupe Fauché（电气工程 ETI，自述 2,600–3,500 人）"
+   },
+   "who": "布列塔尼 Dinan 的电气+网络安装商（Groupe Fauché 子公司），自营 12,000 SKU 的 B2B 网店，PLANET 经 Exertis 拿货",
+   "hook": "Your 8-port PoE slot for IP-camera and Wi-Fi points today runs on a Fast Ethernet PoE+ unit bought through a national distributor; an EXW-direct 8-port Gigabit PoE managed switch gives your installers the same slot at gigabit speed with one less margin layer.",
+   "first_question": "On your own installation projects, is the 8-port PoE switch the size you fit most, or do you mostly go 16/24-port?",
+   "subject": "EXW-direct 8-port Gigabit PoE managed switch for your installs",
+   "biggest_unknown": "现任总经理与采购负责人（2025 换帅）；PLANET 在其网店的实际款数（目前只见 3 款）；安装项目中交换机年用量；是否接受从法国分销切到直接进口（SAS 有进口能力，母集团有集中采购可能）",
+   "alts": [
+    {
+     "model": "STI-288DGGPM",
+     "scene": "电气柜内 DIN 导轨工业 PoE",
+     "reason": "对位其电气柜制造线，不进首触邮件"
+    },
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24 口 PoE 项目档",
+     "reason": "大项目台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "不接百兆 PoE（FSD-1008HP 类）与 PoE 延长器、KVM；母集团面向公共部门/能源项目的标段不碰（守界：public sector 不主动推）",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表与本仓主表全列 grep「fauche / jpfi / JPF Industries」无命中 → 非同户。法国第 5 户。PLANET 货号 411108 与 Exertis Connect（PC-002 Exertis Connect France）一致 → 二级渠道，首触只谈直供第二货源，不贬 PLANET。",
+   "steps": [
+    {
+     "title": "直供第二货源对位",
+     "push": "STC-28DGGPM",
+     "angle": "8 口千兆 PoE 管理型；EXW、小批量、去中间层",
+     "question": "On your own installation projects, is the 8-port PoE switch the size you fit most, or do you mostly go 16/24-port?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Quévert",
+     "push": "STC-28DGGPM（1 台）",
+     "angle": "与 FSD-1008HP 并行跑一个 IP 监控点位 30 天",
+     "question": "Which site could run one unit for a 30-day test?",
+     "action": "规格表 1 页"
+    },
+    {
+     "title": "批量 + 柜内工业款",
+     "push": "STC-28DGGPM + STI-288DGGPM",
+     "angle": "MOQ/付款/EXW；电气柜线带入 DIN 导轨工业 PoE",
+     "question": "What quarterly volume per model would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "公开邮箱；安装商自用 + 网店分销双通道；有电气柜制造线可带工业款",
+    "W": "母集团大、可能集中采购或固守 Exertis 账期；PLANET 可见款数少",
+    "O": "Exertis 二级价层 → 直供价差明显；2025 换帅后采购口径可能重排",
+    "T": "Groupe Fauché 集团级供应商名录门槛；Dahua/Hik 套装自带 PoE 交换机"
+   }
+  },
+  {
+   "_code": "PB-059",
+   "name": "Europ Computer Performance SARL (ECP)",
+   "country": "法国",
+   "city": "Stains（Seine-Saint-Denis，大巴黎）",
+   "website": "europ-computer.com",
+   "type": "IT 批发商/进口商（1995 年起；自述「importation et distribution」，5,000+ SKU，服务 5,000+ 经销商/集成商/SSII；仅对专业客户）",
+   "signal": "europ-computer.com 设 PLANET 品牌页「Grossiste, distributeur et fournisseur PLANET | ECP」：「Bienvenue chez ECP, votre grossiste et distributeur PLANET … dédiée aux revendeurs, intégrateurs et professionnels IT」（具体 PLANET 款数页面为菜单渲染，待人工打开）",
+   "own_brand": "待核（自述进口商；未见自有品牌）",
+   "angle": "进口型 IT 批发商：PLANET 为其网络类目品牌之一；Saga 以「直接进口的第二货源 / 中性包装」切入其 PoE 交换机槽位，20% 分销档；若其有意做自有品牌网络件 → 30% OEM 档",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "PLANET 品牌页未能抓到具体款号（菜单页）→ 以 IT 经销商渠道走量档 8 口千兆 PoE 管理型起手；首触第一问即问其 PLANET 走量款",
+   "tier": 0.2,
+   "tier_reason": "批发/分销商 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：官网设 PLANET 品牌页、自称 PLANET 批发分销；触达：sales@europ-computer.com（官网关于页/CGV/FAQ 多处公开）、+33 1 49 98 98 98；体量中小（SARL，1995 年起）可赢；无具名决策人、PLANET 款数未见 → B",
+   "source": "M2 品牌页反查（FR 去型号安防批发查询命中 europ-computer.com PLANET 品牌页）+ M9 名录核身（官网关于页 / ecpv3 / societeinfo / pagesjaunes）",
+   "planet_models": [],
+   "model_map": {},
+   "contacts": [
+    {
+     "name": "—（销售部）",
+     "role": "sales",
+     "email": "sales@europ-computer.com",
+     "phone": "+33 1 49 98 98 98",
+     "status": "公开（官网关于页 / CGV / FAQ）",
+     "source": "https://www.europ-computer.com/content/1-a-propos"
+    },
+    {
+     "name": "Sabrina（姓氏未示）",
+     "role": "Commercial（销售）",
+     "email": "",
+     "phone": "+33 1 49 98 98 77",
+     "status": "仅第三方经销商页面（hatshepsut-sarl.com 供应商栏）列出其直邮，未在官网核实 → 不作首触地址，仅作线索",
+     "source": "http://www.hatshepsut-sarl.com/boutique/do/suppliers/europ-computer-performance/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 品牌页在线（自称 PLANET 批发分销）",
+     "quote": "Grossiste, distributeur et fournisseur PLANET | ECP … Bienvenue chez ECP, votre grossiste et distributeur PLANET. Nous proposons une large gamme de matériel informatique PLANET à prix professionnels, spécialement dédiée aux revendeurs, intégrateurs et professionels IT.",
+     "url": "https://www.europ-computer.com/brand/1738-planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索摘要）",
+     "claim": "公司定位、成立年份、地址与公开邮箱",
+     "quote": "Europ Computer Performance (ECP) est un grossiste informatique basé en Île-de-France, fort de ses 30 ans d'expertise … Fondée en 1995, notre entreprise s'est spécialisée dans l'importation et la distribution de produits informatiques à destination des revendeurs, intégrateurs, sociétés de services … ZA La Cerisaie 29, avenue Jean Moulin 93240 Stains – France · Tél. : +33 (0)1 49 98 98 98 · Email : sales@europ-computer.com",
+     "url": "https://www.europ-computer.com/content/1-a-propos",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索摘要）",
+     "claim": "SKU 规模与客户群",
+     "quote": "ECP, IT wholesaler for over 25 years … represents more 5,000 references of computer equipment … Our clients ? Computer wholesalers and semi wholesalers, resellers, computer distributors, retailers, administration, SSII, B2B … Email: sales@europ-computer.com",
+     "url": "https://ecpv3.europ-computer.com/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索摘要）",
+     "claim": "仅售专业客户、经销商网络规模",
+     "quote": "ECP est exclusivement réservé aux revendeurs et professionnels de l'informatique. Nous travaillons avec plus de 5 000 revendeurs partout en France",
+     "url": "https://www.europ-computer.com/content/5-faq-questions-frequentes",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "法人形式与注册号",
+     "quote": "N° au Registre du Commerce et des Sociétés : 402 225 098 RCS Bobigny · Dénomination : EUROP COMPUTER PERFORMANCE · Forme juridique : Société à responsabilité limitée · Adresse : 29 Avenue Jean Moulin 93240 Stains",
+     "url": "https://www.pagesjaunes.fr/pros/51310079",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "ZA La Cerisaie, 29 avenue Jean Moulin, 93240 Stains",
+    "SIREN": "402 225 098（SARL，RCS Bobigny）",
+    "成立": "1995-09-10",
+    "体量": "人数/营收待补证（SKU 5,000+，经销商 5,000+ 自述）"
+   },
+   "who": "大巴黎 Stains 的进口型 IT 批发商（30 年），面向法国经销商/集成商，网络类目设 PLANET 品牌页",
+   "hook": "You already import and stock a PoE switch slot under the PLANET tag for your reseller base; an EXW-direct 8-port Gigabit PoE managed unit in neutral packing gives that slot a second source with importer-level margin.",
+   "first_question": "In your PLANET networking range, which PoE switch size moves most with your resellers today — 8-port or 24-port?",
+   "subject": "Second source for your 8-port Gigabit PoE managed slot",
+   "biggest_unknown": "PLANET 实际在售款数与走量款（品牌页为菜单渲染未抓到）；采购负责人姓名；人数/营收；是否已从亚洲直接进口交换机（若是，报价需按进口商口径）",
+   "alts": [
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24 口 PoE 经销商项目档",
+     "reason": "第二台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-424DGGM",
+     "scene": "24 口非 PoE 管理型",
+     "reason": "IT 经销商普通接入层，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "不碰其 PC/部件/游戏主业；只谈网络类目 PoE 交换机；Sabrina 直邮未经官网核实不使用",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表与本仓主表全列 grep「europ-computer / Europ Computer」无命中 → 非同户。法国第 6 户。PLANET 品牌页抓取只得菜单（6 段），款数待人工打开核对（pending）。",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-28DGGPM",
+     "angle": "8 口千兆 PoE 管理型；中性包装；EXW",
+     "question": "In your PLANET networking range, which PoE switch size moves most with your resellers today — 8-port or 24-port?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Stains",
+     "push": "STC-28DGGPM（1 台）",
+     "angle": "与现售款并行 30 天",
+     "question": "Which reseller account could run one unit for a 30-day test?",
+     "action": "规格表 1 页"
+    },
+    {
+     "title": "批量/中性包装条件",
+     "push": "STC-28DGGPM + STC-424DGGPM-280W",
+     "angle": "MOQ/付款/EXW；若其想做自有标 → 转 30% 档",
+     "question": "What quarterly volume per model would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "进口商身份（习惯亚洲直采）、公开销售邮箱、经销商基数大",
+    "W": "泛 IT 批发，网络件非主业；PLANET 款数未知",
+    "O": "法国 PLANET 一级分销（Exertis/W3CAM）价层之外的直采空间",
+    "T": "TP-Link/D-Link/Netgear 低价白牌竞争；对小供应商账期要求"
+   }
+  },
+  {
+   "_code": "PA-003",
+   "name": "RFOG POLAND Tomasz Paszkowski",
+   "country": "波兰",
+   "rating": "A",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W11 回查】GS-4210-48P4S 产品页仍在线（CCTV › PoE 交换机类目，询价制）",
+     "quote": "Switch Planet 48 portów PoE 1000M Gigabit zarządzalny + 4 porty Gigabit SFP … Model: GS-4210-48P4S … zapytaj o cenę … CCTV › Media konwertery Switche PoE dla kamer IP … tel. 602 794 466 / 797 720 797",
+     "url": "https://www.rfog.pl/produkt,2437,switch-planet-48-portow-poe-1000m-gigabit-zarzadzalny-4-porty-gigabit-sfp-gs-4210-48p4s",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W11 回查：现役，无变化；电话与档案一致）"
+  },
+  {
+   "_code": "PA-008",
+   "name": "Aspectis Kft.",
+   "country": "匈牙利",
+   "rating": "A",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "【W11 回查】首页 PLANET 解决方案横幅在线，且 2026-08 新上 PLANET 工业机型",
+     "quote": "PoE, ipari hálózati megoldások（→ /megoldasaink/halozati-eszkozok/planet-2）… Legújabb termékeink: Planet ICG-2515P-NR … A Planet eszközeivel komplett hálózatokat építhetünk fel, beleértve az ipari megoldásokat is … 2003-ban alapította Bata Miklós és Laczkó Gábor",
+     "url": "https://aspectis.hu/",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W11 回查：现役，PLANET 线仍在扩款——2026-08 新增 ICG-2515P-NR）"
+  },
+  {
+   "_code": "PA-009",
+   "name": "Direktronik AB",
+   "country": "瑞典",
+   "rating": "A",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W11 回查】W02 工业 PoE 类目 URL 已 301 到泛类目页；改用站内搜索核实：PLANET 相关商品 179 件仍在售",
+     "quote": "Din sökfras på \"planet\" gav 193 träffar · Produkter (179) · Produktområde: LAN (Lokalt nätverk) 69 · Power Over Ethernet – PoE 6 · SFP/GBIC/XFP/CWDM 92 · Produkttyper: Switchar Industriellt 17 · Nätverksswitchar 27 · Mediakonverterare 17 · POE-Injector 3",
+     "url": "https://www.direktronik.se/sok/?q=planet",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W11 回查：现役；旧类目 URL https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch 已 301 → /direktronik/natverk/，证据改挂站内搜索页）"
+  },
+  {
+   "_code": "PA-015",
+   "name": "PROFIcomms s.r.o.",
+   "country": "捷克",
+   "rating": "A",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W11 回查】PLANET 品牌页在线、PM 具名不变；入门工业款多数标「výprodej」（清仓），L3 IGS-6325 系列为常规在售",
+     "quote": "Planet | PROFIcomms.cz … Pro více informací nás kontaktujte: David Matula Product & Sales manager Telefon: +420 548 210 406 kl. 286 Mobil: +420 736 625 791 E-mail: matula(a)proficomms.cz … Kód: IGT-905A | Dostupnost po přihlášení výprodej … FT-802 / FT-802S15 / FT-802S35 … výprodej … IGS-801M … výprodej … IGS-510TF-ref … výprodej … IGS-6325-20T4C4X / IGS-6325-24P4S / IGS-6325-24P4X | Dostupnost po přihlášení（无清仓标）",
+     "url": "https://www.proficomms.cz/planet/m-1971/?prodc=1",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W11 回查：现役；信号升级——11 款可见 PLANET 中 7 款入门工业件（IGT-905A / FT-802×3 / IGS-801M / IGS-510TF）标清仓，仅 IGS-6325 L3 系列常规在售 → 入门工业档出现空位，首触可提『补位入门工业 PoE 档』，P1 STI-288DGGPM 不变）"
+  },
+  {
+   "_code": "PB-018",
+   "name": "Power Biztonságtechnikai Kereskedelmi Kft.",
+   "country": "匈牙利",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "卖方目录（搜索摘要）",
+     "claim": "【W11 补证】PLANET 专文新路径 + 产品页（批发定位自述）",
+     "quote": "Planet Networking a Powertől! … PLANET switcheket a kis- és középvállalkozások, rendszerintegrátorok és nagyvállalatok számára tervezték … PoE Power Boost technológia … | Planet IGS-10020HPT industrial PoE switch, 10 port … Bruttó listaár: 350 520 Ft … | Tájékoztatjuk Önöket, hogy a POWER Biztonságtechnikai Kft. nagykereskedés, így csak telepítőket és viszonteladókat áll módunkban kiszolgálni.",
+     "url": "https://powerbizt.hu/cikk/planet-networking-a-powertol",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "卖方目录（搜索摘要）",
+     "claim": "【W11 补证】PLANET 工业 PoE 在售（含价格）",
+     "quote": "Planet IGS-10020HPT industrial PoE switch, 10 port … Gyártó: Planet … Bruttó listaár: 350 520 Ft … DIN sínre rögzíthető, Layer 2 menedzselhető",
+     "url": "https://powerbizt.hu/termekek/planet-igs-10020hpt-ip30-industrial-poe-switch",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W11 补证：W09 所缺页面 URL 已补——PLANET 专文现路径 /cikk/… 与产品页；仍为搜索摘要，未逐页抓取）"
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  {
+   "name": "PA-011 Young B.T.S.",
+   "reason": "W11 抓取失败 ×3（HTTP 500 / 失败）→ 下轮再试 1 次或首触前人工打开 young.hu PLANET 新闻页/联系页；非死链结论"
+  },
+  {
+   "name": "PA-004 NSI Distribution",
+   "reason": "品牌页列表 JS 不可抓 → 首触前人工打开确认在售款数（W10 遗留）"
+  },
+  {
+   "name": "PB-058 JPF Industries",
+   "reason": "现任总经理姓名（2025-09 换帅）；网店 PLANET 实际款数（仅见 3 款）；Groupe Fauché 是否集中采购"
+  },
+  {
+   "name": "PB-059 ECP",
+   "reason": "PLANET 品牌页款号（菜单渲染未抓到，人工打开）；人数/营收；Sabrina 直邮须在官网核实后方可用"
+  },
+  {
+   "name": "PA-015 PROFIcomms",
+   "reason": "跟踪清仓信号：是否整条 PLANET 入门工业线退出（下轮再看 ?prodc=2 及 Ethernet 类目）"
+  },
+  {
+   "name": "PB-057 FONEX",
+   "reason": "人数/营收（KRS 0000317918 可查）（W10 遗留）"
+  },
+  {
+   "name": "PB-054 GelecekBT",
+   "reason": "CLR Networks 品牌归属（问首触）（W10 遗留）"
+  },
+  {
+   "name": "PB-055 IPC2U",
+   "reason": "城市（Mikrotik 侧首触时顺带）（W10 遗留）"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "LK enterprise s.r.o.（Kamerový Svět，CZ）",
+   "reason": "池内（W02 B 级）再次命中 PLANET 品牌页与 MGS-910XP 商品页"
+  },
+  {
+   "name": "cctv-shop.cz（CZ）",
+   "reason": "W09 已 skip（2024 年新设小网店）"
+  },
+  {
+   "name": "ISTC Corp（istccorp.com/planet，Doral FL）",
+   "reason": "W02 已 skip：自述 LatAm/Caribbean 安防分销，区域外"
+  },
+  {
+   "name": "Rima Elektronik（TR）/ Nokta Elektronik（TR）",
+   "reason": "池内 PB-032 / Nokta（Mikrotik A-462 并档）再次命中"
+  },
+  {
+   "name": "Power Biztonságtechnikai Kft.（HU）",
+   "reason": "池内 PB-018 → 本批补证（新 URL），不新建"
+  },
+  {
+   "name": "maison-du-cable.com（FR）/ Azenn Connect（FR）/ Network Camera Store（US）",
+   "reason": "W02/W09 已 skip 电商 / Exertis Azenn = 巨头 C-185 / 池内"
+  },
+  {
+   "name": "planetechusa.com / planet.com.tw / newegg PLANET 品牌店 / wisp.net.au",
+   "reason": "PLANET 实体或 PLANET 品牌站（信号源，非客户）/ 美国平台店 / 澳大利亚区域外"
+  },
+  {
+   "name": "B ★★★ 回查：PB-001 Spectra / PB-005 M/A Rugged / PB-052 STS Lab",
+   "reason": "主证据页均为 2026-10-18/19 抓取（≤2 天），本轮不重抓；B 级回查改为首触前逐个核"
+  },
+  {
+   "name": "PA-014 Pulse Supply 回查",
+   "reason": "2026-10-19 planetechusa where-to-buy 已核列 PULSE SUPPLY（W10），1 天新证据，不重抓 PDF"
+  },
+  {
+   "name": "UK M11「authorised PLANET distributor」查询",
+   "reason": "低优先级，本轮 6 次 web_search 额度用于 CZ/HU/TR/FR 与核身，未运行"
+  }
+ ]
+}

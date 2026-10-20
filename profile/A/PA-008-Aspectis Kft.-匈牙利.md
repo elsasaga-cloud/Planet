@@ -48,6 +48,9 @@ updated: 2026-10-20
 - **【公司自述】IP 安防 VAD 品牌组合**
   > Axis, Milestone, Hanwha … PLANET（官网品牌页，检索摘要）
   > 来源：https://www.aspectis.hu/（抓取 2026-10-19）
+- **【官网】【W11 回查】首页 PLANET 解决方案横幅在线，且 2026-08 新上 PLANET 工业机型**
+  > PoE, ipari hálózati megoldások（→ /megoldasaink/halozati-eszkozok/planet-2）… Legújabb termékeink: Planet ICG-2515P-NR … A Planet eszközeivel komplett hálózatokat építhetünk fel, beleértve az ipari megoldásokat is … 2003-ban alapította Bata Miklós és Laczkó Gábor
+  > 来源：https://aspectis.hu/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -180,4 +183,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*

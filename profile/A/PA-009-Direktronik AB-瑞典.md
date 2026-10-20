@@ -59,6 +59,9 @@ updated: 2026-10-20
 - **【Mikrotik 仓库】W03 补证：Mikrotik 仓库 A-054 同户；steffo@ 已于 2026-09-29 退信（blocked），主通道改为 fredrik.brunzell@**
   > A-054 Direktronik AB … Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）【主通道】；… Stefan Sandstrom - steffo@direktronik.se【已停用：2026-09-29 退信 blocked，由 fredrik.brunzell@ 替代】… Nexlan AS 为其旗下品牌
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【卖方目录】【W11 回查】W02 工业 PoE 类目 URL 已 301 到泛类目页；改用站内搜索核实：PLANET 相关商品 179 件仍在售**
+  > Din sökfras på "planet" gav 193 träffar · Produkter (179) · Produktområde: LAN (Lokalt nätverk) 69 · Power Over Ethernet – PoE 6 · SFP/GBIC/XFP/CWDM 92 · Produkttyper: Switchar Industriellt 17 · Nätverksswitchar 27 · Mediakonverterare 17 · POE-Injector 3
+  > 来源：https://www.direktronik.se/sok/?q=planet（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -199,4 +202,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*

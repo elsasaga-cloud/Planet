@@ -56,6 +56,9 @@ updated: 2026-10-20
 - **【公司自述】有客户与参考项目页（做项目，不只是零售）**
   > Nasi klienci … Referencje
   > 来源：https://www.rfog.pl/rfog,13,nasi-klienci（抓取 2026-10-19）
+- **【卖方目录】【W11 回查】GS-4210-48P4S 产品页仍在线（CCTV › PoE 交换机类目，询价制）**
+  > Switch Planet 48 portów PoE 1000M Gigabit zarządzalny + 4 porty Gigabit SFP … Model: GS-4210-48P4S … zapytaj o cenę … CCTV › Media konwertery Switche PoE dla kamer IP … tel. 602 794 466 / 797 720 797
+  > 来源：https://www.rfog.pl/produkt,2437,switch-planet-48-portow-poe-1000m-gigabit-zarzadzalny-4-porty-gigabit-sfp-gs-4210-48p4s（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -194,4 +197,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*
