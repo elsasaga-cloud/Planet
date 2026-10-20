@@ -55,3 +55,24 @@
 - **P2**：商用 6 个品类 + Boost / Bypass / Unmanaged 工业品类 → 约 +90 行。
 - **P3**：White Box 3 个品类 + 媒体转换器 + 工业电源（Tier 2 仅索引，不做 Saga 对照）；4 篇固件说明全文；Factory Tour 图片 URL 清单。
 - 替代捷径：价格主表的 135 个 LT- 型号本身就是 SmartByte 2026-09 价格表（即 9 月更新后的在售清单），索引的主要增量是官网 URL / 规格书链接 / 新品（如 DI/DO/RS485、Temp-humidity Sensor、Boost、Bypass 衍生型）；若 Simon 能向 SmartByte 索取 9 月版产品总表 xlsx，P1–P3 可一次完成。
+
+---
+
+## T15 升级：全站原样归档（用户 2026-10-20「把官网所有的信息都 copy 下来入库，所有信息」）
+
+**目标**：官网全部内容原样入库，不做取舍——≈220 个产品页（含 Overview / Features / 规格表 / 订购信息）、19 个品类页全部分页、公司/政策/新闻页、每个型号的规格书附件（Download Annex）、图片。
+
+**通道判断**
+- Arena 沙箱对 smartbyte-switch.com 无出网权限（只放行 github / pypi / npm），`fetch_page` 每页 2–6 块、每块 ≈5k token，220 个产品页 ≈ 1,300 次调用，整站需十几个回合——可行但极慢。
+- 改为 **GitHub Actions 运行器整站抓取**：`scripts/smartbyte_crawl/crawl.py`（BFS 同域全站 + 附件 + 图片 + 三份清单，pdftotext 抽文本），工作流样板 `scripts/smartbyte_crawl/smartbyte-crawl.yml`。代理的 GitHub 连接**没有 workflows 权限**（推送 `.github/workflows/` 被拒），需 Simon 在 GitHub 网页端一键保存该文件（链接见 `scripts/smartbyte_crawl/一键添加工作流链接.txt`），保存即触发，约 15–30 分钟，结果自动提交回本分支 `data/smartbyte_site_raw/`，规格书 PDF 与图片打包进 Actions 构建产物 + Release `smartbyte-site-YYYYMMDD`（PDF 总量 ≤60 MB 时也直接入库 `datasheets/`）。
+- 归档落地后在沙箱运行 `build.py`（待写）：原始 HTML → `docs/smartbyte/products/<型号>.md`（每型号一页，原文照录 + 基型号匹配价格主表 + Saga 对应型号）、`data/smartbyte_官网型号索引.csv` 全量、品类页/政策页/新闻页 Markdown。
+
+**T15 已用 fetch_page 补齐的非产品页（原文照录）**：固件 5.x / 6.x / 7.0–7.3.x 三篇全文 + 4 篇旧站公司简介（内容相同）→ `新闻与固件说明_2026-10-20.md`；Factory Tour 28 张图注与图片 URL → `公司与政策页_2026-10-20.md` 附录；全站页头/页脚公共信息照录一次。至此 **非产品页 14/14 全部入库**；产品页与品类页等待 Actions 归档（或退回 fetch_page 逐页）。
+
+**入库目录约定（T15 起）**
+
+| 层 | 位置 | 内容 |
+|---|---|---|
+| 原始层 | `data/smartbyte_site_raw/` | 原样 HTML、sitemap、robots、三份清单（pages / downloads / images）、规格书文本、summary、日志；PDF 视体积入库或进 Release |
+| 整理层 | `docs/smartbyte/products/`、`docs/smartbyte/*.md`、`data/smartbyte_官网型号索引.csv` | 可读 Markdown + 索引（由 build.py 从原始层生成，不手改） |
+| 规则层 | `docs/reference/Saga商务条款速查.md`、`docs/rules/*` | 只收会影响报价/话术/边界的结论（官网 > 价格表 > Drive） |

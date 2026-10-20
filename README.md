@@ -86,6 +86,8 @@
 | 抓取与入库方案 | `docs/smartbyte/00-SmartByte官网抓取与入库方案.md` | 站点结构（19 品类 URL、分页、详情页结构）、三层规则、真源优先级（官网 > 2026-09 价格表 > Drive）、差异清单、P1–P3 计划 |
 | 公司与政策页 | `docs/smartbyte/公司与政策页_2026-10-20.md` | About（路线图 2020–2027）/ Warranty & RMA（工业 6 系 5 年·3 系 3 年·商用 3 年·DOA 3 个月）/ OEM-ODM / SKD-CKD / Contact / 固件 7.4→7.5 全文 |
 | 型号索引 | `data/smartbyte_官网型号索引.csv` | 型号 / 标题 / 品类 / URL / 基型号归一匹配价格主表（起步 13 行，P1–P3 补齐 ≈220） |
+| 新闻与固件说明 | `docs/smartbyte/新闻与固件说明_2026-10-20.md` | 固件 5.x / 6.x / 7.0–7.3.x 全文照录、旧站公司简介、全站页头页脚（T15） |
+| 全站原样归档（T15） | `data/smartbyte_site_raw/`（待 Actions 落地）+ `scripts/smartbyte_crawl/` | 用户要求「所有信息」→ 整站 HTML / 规格书 / 图片归档器；代理无 workflows 权限，需 Simon 网页端保存工作流后自动运行；之后 build.py 生成 `docs/smartbyte/products/` 每型号一页 |
 
 ## Drive / Gmail 资料入库（T13 起）
 
@@ -119,6 +121,8 @@ docs/drive/                      Google Drive 入库文本（T13：MUST-KNOW 12 
 docs/gmail/                      Gmail 盘点与使用方案（T13）
 docs/smartbyte/                  SmartByte 官网入库（T14：方案 + 公司与政策页；官网为真源）
 data/smartbyte_官网型号索引.csv  官网型号索引（型号/标题/URL/基型号匹配）
+scripts/smartbyte_crawl/          官网整站归档器 crawl.py + Actions 工作流样板 + 一键添加链接（T15）
+data/smartbyte_site_raw/          官网整站原始归档（Actions 运行后出现：HTML/清单/规格书文本）
 data/drive_manifest.csv          Drive 文件清单（id / 路径 / 处理方式）
 profile/A|B|C/                   渲染档案（勿手改）
 scripts/                         pricing.py / add_batch.py / render.py / audit.py / common.py
