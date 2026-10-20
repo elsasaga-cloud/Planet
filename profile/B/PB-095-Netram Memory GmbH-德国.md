@@ -4,7 +4,7 @@
 >
 > **类型**：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）　|　**PLANET 关联**：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-095
@@ -158,7 +158,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -194,7 +194,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

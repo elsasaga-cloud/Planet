@@ -4,7 +4,7 @@
 >
 > **类型**：结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌　|　**PLANET 关联**：lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PA-018
@@ -173,7 +173,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -209,7 +209,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

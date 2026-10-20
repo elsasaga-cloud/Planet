@@ -4,7 +4,7 @@
 >
 > **类型**：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目　|　**PLANET 关联**：klinger.fi：类目「PoE Network switches and injectors › Planet kytkimet」= Planet IGS-20160HPT 16 port PoE switch + Planet IGS-10020HPT 8 port PoE switch；PoE 注入器 Planet POE-164 30W、POE-171A-60、POE-171A-95；菜单并列「Muut kytkimet / OT-Systems teollisuuskytkimet / Virtalähteet DIN kiskolle」；新站路径 /en/products/camera-surveillance/peripherals/planet-igs-10020hpt-8-port-poe-switch/　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-090
@@ -155,7 +155,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -191,7 +191,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

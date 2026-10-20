@@ -4,7 +4,7 @@
 >
 > **类型**：工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）　|　**PLANET 关联**：oksa.co.uk：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」；商品页 IGS-801M（8×GE 工业管理）、ISW-514PTF £160.89、WGS-818HP £219.00、IGS-800T-PN £269.00、WGS-4215-8P2X、IGS-6325-5X1T、DCS-7342-32C2X £8,699.00；新闻页「Compact PROFINET Switch for Smarter Automation」（PLANET IGS-800T-PN）；LinkedIn 公司页多条「our range of PLANET Technology networking products and solutions」推文　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0，Mikrotik CSV 命中为「notebooksandmore」子串噪音））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0，Mikrotik CSV 命中为「notebooksandmore」子串噪音））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-081
@@ -169,7 +169,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -205,7 +205,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

@@ -4,7 +4,7 @@
 >
 > **类型**：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）　|　**PLANET 关联**：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-2620HP、GSD-604HP；/collections/switches-matrix-switches 同列 PLANET 款；商品页 PT-LRP-101C-KIT / PT-LRP-822CS（SKU 前缀 PT- = Planet）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-087
@@ -170,7 +170,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -206,7 +206,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

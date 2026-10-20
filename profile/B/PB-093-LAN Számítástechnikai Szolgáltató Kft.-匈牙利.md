@@ -4,7 +4,7 @@
 >
 > **类型**：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号　|　**PLANET 关联**：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-093
@@ -157,7 +157,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -193,7 +193,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

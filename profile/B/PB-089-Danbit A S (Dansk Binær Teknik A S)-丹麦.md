@@ -4,7 +4,7 @@
 >
 > **类型**：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）　|　**PLANET 关联**：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed to work with Planet products」、MGB SFP「可装于 PLANET Switch 产品」；binarteknik.se（同目录）：ESW8G-M-SFP2-PWM 4,462 SEK「industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner」、ESW8G-M-SFP2 8,770 SEK「Industrial 8-Port Gigabit 802.3at PoE+ Switch … IP30 … <50 ms」、PLANET ICS-2105A / TDS-715　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-089
@@ -179,7 +179,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -215,7 +215,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

@@ -4,7 +4,7 @@
 >
 > **类型**：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）　|　**PLANET 关联**：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € 321.05 / IGS-824UPT € 362.27 / IGS-5225-4UP1T2S € 603.65 / IGS-6325-16P4S € 1132.28 / IGS-510TF € 147.10 / IGS-5225-8P4S € 669.78；搜索快照：GSW-2401 € 160.49「InStock」、ISW-501T € 80.32、GSW-1601 € 86.24、GSD-1002M € 126.55、WGS-804HP € 186.61、IGS-801M € 242.71、SGS-6341-24T4X € 559.49　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-083
@@ -174,7 +174,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -210,7 +210,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

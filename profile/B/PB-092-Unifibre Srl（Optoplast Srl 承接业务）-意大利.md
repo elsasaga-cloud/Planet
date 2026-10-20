@@ -4,7 +4,7 @@
 >
 > **类型**：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌　|　**PLANET 关联**：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16P2T2S 1 155 €、IGS-624HPT 558 €、IGS-1020PTF 569 €（均「Su ordinazione」）；serie civile：GS-4210-24T4S 379 €、8P+2SFP managed 325 €、24-port PoE 300 W 433 €　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+> ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
 
 ```yaml structured_profile
 code: PB-092
@@ -161,7 +161,7 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）
 
 > ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
@@ -197,7 +197,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ## 下次复核
 
-- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
+- 第一封具名信发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。
 - 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。
 
 ---

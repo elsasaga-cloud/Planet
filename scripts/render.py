@@ -145,7 +145,11 @@ def render_one(row, by_saga, by_sb):
         _hdr_via_mk = any("首触以 Mikrotik 仓库为准" in (row.get(k, "") or "") for k in ("备注", "Mikrotik仓库对照编号"))
         if _hdr_ref.startswith(("—", "无")) or "无此户" in _hdr_ref:
             # 「—（Mikrotik 仓无此户）」「无（… grep 0 行）→ 本仓首触」这类占位值 = 没有对照档案，不出横幅
-            L.append(f"> ℹ️ Mikrotik 仓库无同户（{_hdr_ref}）：首触由本仓发出。")
+            # W22 修复：Gmail 判定「非首触」（Elsa 账号 BCC 群发已触达）的户，头部横幅仍写「首触由本仓发出」→ 与邮件段横幅统一口径
+            if "非首触" in (c.get("gmail_check") or ""):
+                L.append(f"> ℹ️ Mikrotik 仓库无同户（{_hdr_ref}）；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。")
+            else:
+                L.append(f"> ℹ️ Mikrotik 仓库无同户（{_hdr_ref}）：首触由本仓发出。")
         elif _hdr_via_mk:
             L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {_hdr_ref}**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。")
         elif grade == "C":
@@ -295,13 +299,16 @@ def render_one(row, by_saga, by_sb):
         L.append(f"- [ ] {u}")
     L.append("")
     # 首触邮件（mref / via_mikrotik 已在「跟进步骤」前计算）
+    # W22 修复：gmail_check 判定「非首触」的户，章节标题仍写「首触邮件 · 可直接发送」、复核行仍写「首触发出后」，
+    # 与 W21 横幅「本封是第一封具名信，不是首触」自相矛盾 → 标题 / 复核行按同一判定分流。
+    _non_first = "非首触" in (c.get("gmail_check") or "")
     if grade in ("A", "B") and via_mikrotik:
         # 并档户：首触由 Mikrotik 仓库发，本仓不生成可发送邮件，避免同一客户被两仓各发一封
         L.append("## 首触邮件：本仓不发（Mikrotik 同户并档）\n")
         L.append(f"> 本户 = Mikrotik 仓库 **{mref}**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 {p1}，{price_str}）。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。\n")
     elif grade in ("A", "B"):
         subj, body = email_template(row, c, p1, price_str.split("（")[0].strip() + " (price snapshot 2026-10-17, valid 15 days)")
-        L.append("## 首触邮件（英文样板 · 可直接发送）\n")
+        L.append("## 第一封具名信（英文样板 · 非首触：收件人 / 主题须避让，见横幅）\n" if _non_first else "## 首触邮件（英文样板 · 可直接发送）\n")
         # W19 修复：mref 为「—（Mikrotik 仓无此户）」「无（… grep 0）」占位值时，原先仍渲染成「⚠ Mikrotik 同户 …」，
         # 与头部横幅「Mikrotik 仓库无同户」自相矛盾；现按 W18 横幅同一规则分流，并把 Gmail（含 BCC 群发）查重提示写进去。
         _mref_s = (mref or "").strip()
@@ -325,7 +332,7 @@ def render_one(row, by_saga, by_sb):
     L.append("| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |\n|---|---|---|---|---|---|---|\n|  |  |  |  |  |  |  |\n")
     L.append("> 首次触达前留空；用户在仓库外发出邮件后告诉我日期与渠道，我来更新本档并重评 stage。\n")
     L.append("## 下次复核\n")
-    L.append("- 首触发出后 **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。")
+    L.append(("- 第一封具名信发出后" if _non_first else "- 首触发出后") + " **14 天**无回复 → 复核是否降频；有任何回复 → 当即重评 stage 与评级。")
     L.append("- 报价纪律：价格为 USD EXW 快照（汇率 2026-10-17），过窗先核价再报价。\n")
     L.append("---\n")
     L.append(f"*建档日期：{row['入库日期']}　|　入库批次：{row['入库批次']}　|　原始证据：{', '.join('batch/'+b for b in c.get('_batches', []))}　|　渲染：scripts/render.py {TODAY}*")
