@@ -131,3 +131,10 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **什么无效**：① 土耳其地名 × PL- 货号 → 只剩比价站；② Mikrotik A 行里的 MikroTik 专营（LinITX / Instant Byte）与多品牌电商（Comms Express）都不卖 PLANET——「卖 MikroTik 的不一定卖 PLANET」，并档前必须核品牌页。
 - **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5。欧洲/北美/土耳其的泛检索与 Mikrotik 交叉都已见底，**W06 起应以 A 类硬化与首触准备为主**，挖掘只做取证补缺（Parnet、CiudadWireless PLANET 页）与新入口试探（ORing/EtherWAN/Lantech 授权渠道 × PLANET）。
 - **T06 规则落地**：同户首触归属 = 「谁手里的 KP 更好谁发」（本仓补到邮箱/PM → Planet 仓发；Mikrotik 侧 A 且有邮箱 → Mikrotik 发）；编号冻结下的升级 = `人工定级` 列 + 评级列同改 + 备注记裁决时刻，档案目录随之移动（PC-011 现在 `profile/B/`）。
+
+### W06（2026-10-20，13 次 web_search，+4 户，全 B；T07「一直挖、问题先列」）
+
+- **什么有效**：① **分组域名查询**——把 Mikrotik 候选行的域名 5–9 个一组塞进一条 `Planet switch ("a.com" OR "b.com" …)`，有 PLANET 页的站会被直接顶出来（本轮 7 组命中 4 站：Last Mile Gear、DSL-Warehouse/Data Connect、Switch SFP、连带 Intermédia），13 次检索覆盖 ≈45 个域名，是 W05 单站查法效率的 3–4 倍；② 命中后再用 1 次 `<域名> <关键词> contact` 补公司事实与具名 KP（Data Connect 联系页按角色列邮箱 → Daniel Rowe / Barry Patton）；③ **同户核对要查域名别名**：PB-005 marugged.com 与 Mikrotik A-541 midatlanticruggedsystems.com 是同一法人，W01 用域名去重漏掉——以后新档用公司名 token（去掉 Systems/Inc）再 grep 一次 Mikrotik 主表。
+- **什么无效 / 边界**：① 分组查询未命中时引擎退回 PTUSA / planet.com.tw 通用页，**只能记「本轮无证据」**，不能写「无 PLANET」；国家空白行（BE/CH/GR/IE/DK）仍要单域名复核；② BE 三轮、CH 两轮、PT 二轮泛检索均无新经销——BE 由 Shop4Power（自述 Benelux PLANET 分销）/EET 覆盖，可停；③ 2019 年的商城页（Last Mile Gear）只能证明「曾售」，现状要补证。
+- **并档评级先例**：并档行一律 B（即使 Planet 侧证据够 A，如 Data Connect），避免两仓双首触；是否允许独立定 A 记为 Q-11，不再逐轮问。
+- **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4（13 次检索，单位产出回升靠分组查询）。剩余 Mikrotik 候选 ≈24 行 + 区域品牌站下游 + EU 价格表 PDF 反查（见 README 作战方案第 11 条）。

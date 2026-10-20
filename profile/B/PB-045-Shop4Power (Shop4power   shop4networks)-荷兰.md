@@ -16,7 +16,7 @@ p1: STI-488XGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-259
-updated: 2026-10-19
+updated: 2026-10-20
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -56,6 +56,12 @@ updated: 2026-10-19
 - **【Mikrotik 仓库】C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌**
   > C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【公司自述】自述为 Benelux 地区 PLANET 分销商（覆盖比利时）**
+  > Planet IGS-4215-8T2S industriële switch met 8 x 10/100/1000T en 2xSFP managed - is uit voorraad leverbaar bij de Benelux Planet distributeur - Shop4power
+  > 来源：https://shop4power.nl/product/industrieel-ethernet/managed-industriele-ethernet-switch/din-rail-l2-l4-gigabit/planet-igs-4215-8t2s/（抓取 2026-10-20）
+- **【公司自述】IGS-4215-16T2S 页同一自述**
+  > De Planet IGS-4215-16T2S industriele L2/L4 16-poort 10/100/1000T + 2-poort 100/1000X SFP Managed switch is uit voorraad het goedkoopst leverbaar bij shop4power.nl de Planet distributeur van de Benelux
+  > 来源：https://shop4power.nl/product/industrieel-ethernet/managed-industriele-ethernet-switch/din-rail-l2-l4-gigabit/planet-igs-4215-16t2s/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -183,4 +189,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-19*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json, batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-20*

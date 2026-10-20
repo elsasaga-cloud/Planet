@@ -1,0 +1,738 @@
+{
+ "batch": "2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT",
+ "date": "2026-10-20",
+ "method": [
+  "T07「继续跑…目前就是一直挖」：不提问，只挖；待裁定事项追加到 待统一处理问题清单.md",
+  "主矿脉：Mikrotik 主表区域内 A/B 行 × 工业品牌信号（ORing/EtherWAN/Antaira/Perle/ComNet/Westermo/Netonix/Teltonika/Korenix/Moxa/Hirschmann）× 无 PLANET 字样 × 不在本仓 → 69 行候选；按国家空白优先，用 web_search『Planet switch (\"域名A\" OR \"域名B\" …)』分组域名查询（每组 5–9 个域名）",
+  "分组域名查询特性：命中则直接返回该站 PLANET 页（本轮命中 lastmilegear.com / dsl-warehouse.com / switchsfp.com / intermedia.pt）；未命中时引擎退回 planetechusa/planet.com.tw 通用结果 → 只能记「本轮无证据」，不能记「无 PLANET」",
+  "国家空白补点：PT（命中 Intermédia）、BE（仅 EET 巨头与 Shop4Power「Benelux 分销」自述）、CH（无）",
+  "同户核对：Planet 仓 PB-005 Mid-Atlantic Rugged Systems（marugged.com）= Mikrotik A-541（midatlanticruggedsystems.com，sales@marugged.com）——W01 建档时未对照（域名不同）→ 本轮补 Mikrotik 对照编号"
+ ],
+ "tools": "web_search depth 1（13 次）",
+ "queries": [
+  "Planet switch (\"teslanetworks.com\" OR \"mpi.ch\" OR \"lextron.nl\" OR \"modelec.nl\" OR \"dssi.pt\" OR \"guedeslopes.pt\")（连带命中 intermedia.pt PLANET 专页；6 个域名本轮无 PLANET 证据）",
+  "Planet switch PoE (\"automationexperts.gr\" OR \"cableworks.gr\" OR \"xpatit.gr\" OR \"axtek.hu\" OR \"atysco.hu\" OR \"tecon.cz\" OR \"atesystem.cz\")（无命中；连带 softcom.cz 电商）",
+  "Planet switch (\"satel.no\" OR \"fiberworks.no\" OR \"thejunction.eu\" OR \"hightechnordic.com\" OR \"profcon.se\" OR \"timeless.fi\" OR \"datamonitor.fi\" OR \"fiseg.fi\")（无命中）",
+  "intermedia.pt Planet distribuidor Portugal quem somos Coimbra switch（工商登记核名命中 Iberinform / Racius / Kompass；连带 EET Group 葡语 PLANET 授权页）",
+  "Planet Technology switch (\"wavonline.com\" OR \"icomtechinc.com\" OR \"caymanwireless.com\" OR \"lastmilegear.com\" OR \"data-connect.com\" OR \"powertechcontrols.com\")（命中 lastmilegear.com PLANET 产品页 + dsl-warehouse.com PLANET 品牌页）",
+  "dsl-warehouse.com Data Connect Enterprise Planet Technology industrial switch brands contact（命中厂商名录 + 联系页具名邮箱 + DCE Express 厂商表 + 2009 并购公告）",
+  "Planet switch (\"switchsfp.com\" OR \"msdist.co.uk\" OR \"millbeck.co.uk\" OR \"purdicom.com\" OR \"infinitetechnology.ie\" OR \"cogentdistribution.com\" OR \"industrialcomms.com\")（命中 switchsfp.com vendors?q=planet；其余 6 个域名无证据）",
+  "Planet switch PoE (\"noriak-distri.com\" OR \"aplus-sa.com\" OR \"landatel.com\" OR \"berdin.com\" OR \"ipc2u.com\" OR \"meconet.de\" OR \"varia.org\" OR \"omg.de\" OR \"4networks.de\")（无命中）",
+  "Planet switch PoE (\"csi.pl\" OR \"microstar.com.pl\" OR \"atel.com.pl\" OR \"cyberbajt.pl\" OR \"wisp.pl\" OR \"batna24.com\")（无命中；只返回 planet.pl 信号源）",
+  "Planet switch PoE industrial distribuidor Portugal \"Lda\" IGS OR GS-4210 -Brasil -intermedia（无新经销商；kuantokusta 比价站）",
+  "lastmilegear.com Planet switch WAV Inc Aurora distributor \"Last Mile Gear\" PLANET（命中 XGSW-28040HP 产品页 + 2019 并购 + 2023 并入 + MikroTik 授权）",
+  "PLANET IGS-4215 OR IGS-5225 OR GS-4210 switch België OR Belgique bv OR sprl installateur OR verdeler OR distributeur -wilcon -bol.com（仅 EET fr-be + Shop4Power「Benelux Planet distributeur」）",
+  "PLANET Switch IGS OR GS-4210 Industrial PoE Schweiz \"AG\" OR \"GmbH\" Händler OR Distributor Netzwerk -digitec -galaxus -brack -conrad（无命中）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-046",
+   "name": "Data Connect Enterprise, Inc. (DSL-Warehouse / DCE Express)",
+   "country": "美国",
+   "city": "Olney, MD",
+   "website": "data-connect.com / dsl-warehouse.com / dceexpress.com",
+   "type": "VAD + 自有品牌制造商（Belden/Hirschmann 与 GarrettCom 主备货分销 + TAC；收购 Ctek/Relcomm/Synxcom/Telenetics 等产品线后自产商用/工业连接产品；DSL-Warehouse 为其 2009 年并入的电商部门）",
+   "signal": "官网厂商名录含 PLANET TECHNOLOGIES；DSL-Warehouse 设 PLANET 品牌页（LRE-101、LRP-422CST、LRP-104CET 工业延长器等带价在售）；DCE Express 厂商列表含 Planet Technology；Mikrotik 仓库 A-270（Hirschmann/GarrettCom 主备货分销）",
+   "own_brand": "是（Data Connect 自有品牌连接产品：收购 Ctek / Relcomm / Synxcom / Telenetics 等品牌的知识产权与制造权，自述「premier U.S. manufacturer of commercial and industrial grade connectivity products」）",
+   "angle": "既是 PLANET/Hirschmann 分销又自产自有品牌连接产品 → ODM 工业 PoE DIN 交换机贴 DCE 标（30% 档）；官网联系页按角色列出具名邮箱（Daniel Rowe 负责 SMB 与 Integrators/VARs/Resellers）。Mikrotik A-270 为同户且已记录同一批具名邮箱 → 本仓 B 并档，只补 PLANET 侧证据与 OEM 角度",
+   "p1": "STI-288DGGPM",
+   "p1_reason": "对位其工业以太网交换机品类与 PLANET 工业线（LRP 系列工业延长器同场景：DIN、宽温、PoE）；8×GE PoE + 2 SFP 管理型是最容易贴 DCE 标试单的规格",
+   "tier": 0.3,
+   "tier_reason": "自有品牌制造商 → OEM/ODM 定制 30%",
+   "priority": "★★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 在其厂商名录 + DSL-Warehouse PLANET 品牌页带价在售 + 工业以太网交换机品类 + 自有品牌制造（ODM 入口）；触达：Daniel Rowe drowe@data-connect.com（官网联系页按角色列出，SMB 与 Integrators/VARs/Resellers）、Barry Patton bpatton@（分销商与顾问）；体量中型 VAD，可赢。Planet 侧证据足以支撑 A，但 Mikrotik A-270（人工 A，已记录 bpatton@/drowe@ 具名邮箱）为首触主档 → 本仓 B 并档（独立定 A 与否见清单 Q-11）",
+   "source": "Mikrotik 仓库工业品牌渠道行（A-270 Hirschmann/GarrettCom）× PLANET 核验（web_search 分组域名查询）+ M2 品牌页反查（dsl-warehouse.com/brands/planet-technology/）",
+   "planet_models": [
+    "LRE-101",
+    "LRP-422CST",
+    "LRP-104CET"
+   ],
+   "model_map": {
+    "LRP-422CST": {
+     "saga": "—",
+     "note": "PLANET 工业 4 口 PoE 长距延长器（Long Reach），Saga 暂无对应型号（不推）；同场景改推 STI-288DGGPM 工业 DIN PoE 交换机"
+    },
+    "LRE-101": {
+     "saga": "—",
+     "note": "单口 10/100 以太网延长器，Saga 暂无对应型号（不推）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Daniel Rowe",
+     "role": "Small-Medium Business (SMB) / Integrators, VARs & Resellers",
+     "email": "drowe@data-connect.com",
+     "phone": "+1 301-924-7400 ×17",
+     "status": "公开（官网联系页按角色列出；DSL-Warehouse 全站页脚同一邮箱）",
+     "source": "https://www.data-connect.com/contact_information.htm"
+    },
+    {
+     "name": "Barry Patton",
+     "role": "Distributors & Consultants",
+     "email": "bpatton@data-connect.com",
+     "phone": "+1 301-924-7400 ×12",
+     "status": "公开（官网联系页按角色列出）",
+     "source": "https://www.data-connect.com/contact_information.htm"
+    },
+    {
+     "name": "Michael Spellerberg",
+     "role": "Carrier / CLEC / ISP；Utility & SCADA",
+     "email": "mspellerberg@data-connect.com",
+     "phone": "+1 301-924-7400 ×25",
+     "status": "公开（官网联系页按角色列出）——公用事业 SCADA 线不主动推进（守界），仅备查",
+     "source": "https://www.data-connect.com/contact_information.htm"
+    },
+    {
+     "name": "—（总机销售）",
+     "role": "sales",
+     "email": "sales@data-connect.com",
+     "phone": "+1 301-924-7400 / 888-492-6526",
+     "status": "公开（官网联系页）",
+     "source": "https://www.data-connect.com/contact_information.htm"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "官网厂商名录含 PLANET TECHNOLOGIES",
+     "quote": "CINCH · ITT · PLANET TECHNOLOGIES · US ROBOTICS",
+     "url": "https://www.data-connect.com/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "DSL-Warehouse（Data Connect 电商部门）PLANET 品牌页带价在售",
+     "quote": "Planet Technology - DSL-Warehouse … PLANET LRE-101 – 1-Port 10/100TX... $116.00 Add to cart … PLANET LRP-422CST – Industrial 4-port... $799.00 Add to cart … PLANET LRP-104CET – Industrial 4-Port... $599.00 … Information · +1 (888)-4WAN-LAN · drowe@data-connect.com",
+     "url": "https://dsl-warehouse.com/brands/planet-technology/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "公司自述",
+     "claim": "自有品牌制造商（ODM 入口）",
+     "quote": "Data Connect has acquired the intellectual property, manufacturing and/or licensing rights for a large number of products previously produced under Ctek, Relcomm, Synxcom, Telenetics and other brands. Today Data Connect is a premier U.S. manufacturer of commercial and industrial grade connectivity products.",
+     "url": "https://www.data-connect.com/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "公司自述",
+     "claim": "联系页按角色列出具名邮箱",
+     "quote": "Distributors & Consultants Barry Patton 301-924-7400×12 bpatton@data-connect.com … Integrators, VARs & Resellers Daniel Rowe … Small-Medium Business (SMB) Daniel Rowe 301-924-7400×17 drowe@data-connect.com · Utility & SCADA Michael Spellerberg 301-924-7400×25 mspellerberg@data-connect.com · DATA CONNECT ENTERPRISE WORLDWIDE SALES & SUPPORT 3405 Olandwood Court Olney, Maryland 20832 USA",
+     "url": "https://www.data-connect.com/contact_information.htm",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "DCE Express 厂商列表含 Planet Technology",
+     "quote": "Manufacturers - Black Box - Data Connect - CTC Fiber Interfaces … - Patton Electronics - Planet Technology - Positron - RAD",
+     "url": "https://www.dceexpress.com/contact/",
+     "date": "2021-08-05（页面日期；检索日 2026-10-20）"
+    },
+    {
+     "level": "公司自述",
+     "claim": "DSL-Warehouse 2009-12-30 并入 Data Connect",
+     "quote": "effective December 30, 2009 DSL Warehouse has become the DSLW Operating Division of Data Connect Enterprise, Inc., a Maryland based Value Added Distributor",
+     "url": "https://dataconnectus.com/dsl-warehouse-merger-announcement/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-270 同户（A）：Belden/Hirschmann 主备货分销 + TAC；联系页具名邮箱已记录",
+     "quote": "A-270 Data Connect 美国 集成商/主备货分销（Belden 工业） Hirschmann + GarrettCom … sales@data-connect.com（官网联系页正文）；分销商/顾问入口：bpatton@data-connect.com … 【2026-09-27 A260–A279联络核验】来源等级：official-company。官网联系页正文按角色列出邮箱：总sales@/support@，分销商与顾问Barry Patton bpatton@，集成商/VAR/经销商Daniel Rowe dro…",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-09-27"
+    }
+   ],
+   "facts": {
+    "地址": "3405 Olandwood Court, Olney, MD 20832",
+    "成立": "1988（DSL-Warehouse 自述）",
+    "仓库": "Maryland / New Jersey / California（官网）"
+   },
+   "who": "马里兰 VAD + 自有品牌连接产品制造商：Belden/Hirschmann 主备货分销，PLANET 在厂商名录，电商部门 DSL-Warehouse 设 PLANET 品牌页",
+   "hook": "You already put your own name on commercial and industrial connectivity products; an 8-port Gigabit PoE DIN-rail switch with ERPS ring and -40~75°C under the DCE label would sit next to your LRP extenders without adding a vendor your customers have to learn.",
+   "first_question": "Do you source any DCE-branded industrial Ethernet switches from an ODM today, or would an 8-port Gigabit PoE DIN-rail unit under your own label be worth a sample?",
+   "subject": "ODM industrial 8-port PoE switch under the DCE label",
+   "biggest_unknown": "Mikrotik 侧首触状态；自有品牌线是否含交换机（目前已知为延长器/调制解调器/串口）；UL/TAA 要求（美国，Q-02）",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "商用 8 口 PoE + 2 SFP（SMB/VAR 线）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-488XGGPM",
+     "scene": "工业 8 PoE + 2 SFP + 2×10G（对位 Hirschmann 高配）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "联邦/州政府线（Tim Haiber，官网单列）与公用事业 SCADA 线不主动推进（公共部门/关键基础设施守界），只走 SMB / Integrators-VARs 线；美国 UL/TAA 门槛第二封邮件前必核（Q-02）；Saga 无 Long Reach 延长器，不接 LRP/LRE 替换",
+   "mikrotik_ref": "A-270",
+   "notes": "Mikrotik 仓库 A-270 同户（A，official-company 级具名邮箱 bpatton@/drowe@ 已记录）：首触以 Mikrotik 仓库为准，本仓不重复发；本仓新增 PLANET 厂商名录 + DSL-Warehouse PLANET 品牌页 + 自有品牌制造事实 → 建议把「ODM 贴 DCE 标」并入 Mikrotik 侧首触第一问（同 Q-04 类型，见 Q-11）。",
+   "steps": [
+    {
+     "title": "ODM 角度试探",
+     "push": "STI-288DGGPM",
+     "angle": "贴 DCE 标的工业 8 口 PoE DIN；中性包装、客户型号、固件 UI 定制",
+     "question": "Do you source any DCE-branded industrial Ethernet switches from an ODM today, or would an 8-port Gigabit PoE DIN-rail unit under your own label be worth a sample?",
+     "action": "无附件；一句话带过 ERPS/IGMP/PoE 看门狗/CLI-SNMP"
+    },
+    {
+     "title": "样机到 Olney",
+     "push": "STI-288DGGPM（1 台）",
+     "angle": "30 天并行测试，不要求承诺；兼容其在售 SFP",
+     "question": "Which bench or customer site could take one unit for a 30-day side-by-side test?",
+     "action": "工业特性表 1 页"
+    },
+    {
+     "title": "贴牌/批量条件",
+     "push": "STI-288DGGPM + STC-28DGGPM 贴牌方案",
+     "angle": "MOQ/付款/EXW 运费路径；UL/TAA 先核",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "贴牌流程 1 页；报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "自有品牌制造 + 分销双身份，具名 KP 直邮",
+    "W": "美国 UL/TAA 门槛未核；Saga 无 Long Reach 延长器",
+    "O": "DCE 标工业 PoE DIN 交换机 ODM",
+    "T": "Hirschmann/Belden 主备货关系深；政府/公用事业客户占比高（守界缩小可谈面）"
+   }
+  },
+  {
+   "_code": "PB-047",
+   "name": "WAV, LLC (Last Mile Gear, a WAV company)",
+   "country": "美国",
+   "city": "Aurora, IL（Last Mile Gear 原址 Longview, WA）",
+   "website": "wavonline.com / lastmilegear.com",
+   "type": "分销（WISP/ISP 无线宽带、LTE、网络与 Wi-Fi 设备全服务分销；MikroTik 授权分销 2022；Last Mile Gear 2019 收购、2023-01-01 全并入 WAV LLC）",
+   "signal": "lastmilegear.com 商城 PLANET 产品页（XGSW-28040HP、IGS-501T，分类 Planet / Switches，页面 2019）；Mikrotik 仓库 A-546 WAV（ORing 授权）与 A-096 Last Mile Gear（Netonix 渠道）",
+   "own_brand": "否（Last Mile Gear 曾为 Cyclone 计时设备 OEM 厂，非交换机）",
+   "angle": "WISP 专业分销的接入层交换机：PLANET 证据为 2019 Last Mile Gear 商城页（XGSW-28040HP 24 PoE + 4×10G），WAV 当前线卡是否仍含 PLANET 待补证；切入点 = WISP 塔站/NOC 的 24 口 PoE+ + 10G 上联第二货源。Mikrotik A-546/A-096（人工 A，均有邮箱）同户 → 本仓 B 并档",
+   "p1": "STC-424XGGPM-280W",
+   "p1_reason": "对位其曾售 XGSW-28040HP（24×GE PoE+ + 4×10G SFP+ 管理型）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无硬件 L3 静态路由，注明）",
+   "tier": 0.2,
+   "tier_reason": "分销走量 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 交换机曾在售（2019 商城页 2 款）+ 网络交换机专业分销（Mikrotik 核：$25M+ 库存 / 70,000+ SKU）；触达：sales@wavonline.com / sales@lastmilegear.com（经 Mikrotik A-546/A-096 记录），无具名；体量中大型专业分销（非巨头名单）；PLANET 现状待补证；Mikrotik A-546/A-096（人工 A）同户 → B 并档，首触以 Mikrotik 为准",
+   "source": "Mikrotik 仓库工业品牌渠道行（A-546 ORing / A-096 Netonix）× PLANET 核验（web_search 分组域名查询命中 lastmilegear.com PLANET 产品页）",
+   "planet_models": [
+    "XGSW-28040HP",
+    "IGS-501T"
+   ],
+   "model_map": {
+    "XGSW-28040HP": {
+     "saga": "STC-424XGGPM-280W",
+     "note": "24×GE 802.3at PoE + 4×10G SFP+；PLANET 带硬件 L3 静态路由，Saga 为 L2+（注明）"
+    },
+    "IGS-501T": {
+     "saga": "STI-080GE",
+     "note": "工业 5 口 GE 非管理 DIN；Saga 为 8 口 GE 非管理 DIN（口数不同，注明）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales（WAV）",
+     "email": "sales@wavonline.com",
+     "phone": "+1 800 678-2419",
+     "status": "公开（官网；经 Mikrotik 仓库 A-546 记录）",
+     "source": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "name": "—（销售 Last Mile Gear）",
+     "role": "sales（Last Mile Gear 品牌，已并入 WAV）",
+     "email": "sales@lastmilegear.com",
+     "phone": "+1 866-230-9174",
+     "status": "公开（官网与 X @LastMileGear 双向印证；经 Mikrotik 仓库 A-096 记录）——2023 年并入 WAV 后是否仍收件待首触核",
+     "source": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv"
+    },
+    {
+     "name": "—（info）",
+     "role": "info（Last Mile Gear）",
+     "email": "info@lastmilegear.com",
+     "phone": "",
+     "status": "发不过去（Mikrotik 2026-09-29 退信 not-found，永久停用）→ 改用 sales@wavonline.com",
+     "source": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "Last Mile Gear 商城 PLANET 24 口 PoE + 10G 产品页",
+     "quote": "XGSW-28040HP, L2 24-Port 10/100/1000Mbps 802.3at PoE 4-Port 10G SFP Managed Switch with Hardware Layer3 IPv4/IPv6 Static Routing - Last Mile Gear … SKU: Planet-XGSW-28040HP Categories: Planet, Switches",
+     "url": "https://www.lastmilegear.com/shop/planet-xgsw-28040hp/",
+     "date": "2019-04-18（页面日期；检索日 2026-10-20）"
+    },
+    {
+     "level": "卖方目录",
+     "claim": "Last Mile Gear 商城 PLANET 工业 5 口产品页",
+     "quote": "Top Wireless Equipment Distributor For WISP & ISP … lastmilegear.com/shop/planet-igs-501t/",
+     "url": "https://www.lastmilegear.com/shop/planet-igs-501t/",
+     "date": "2019-04-18（页面日期；检索日 2026-10-20）"
+    },
+    {
+     "level": "公司自述",
+     "claim": "WAV 2019 收购 Last Mile Gear；WAV 定位",
+     "quote": "AURORA, Ill., Oct. 9, 2019 /PRNewswire/ -- WAV today announced it has completed an agreement to make Last Mile Gear a WAV company. Last Mile Gear is a Longview, WA based distributor and OEM … WAV, Inc. is a full-service distributor of LTE, wireless broadband, networking, and Wi-Fi equipment. Located in Aurora, IL",
+     "url": "https://www.prnewswire.com/news-releases/last-mile-gear-becomes-a-wav-company-300934469.html",
+     "date": "2019-10-09"
+    },
+    {
+     "level": "公司自述",
+     "claim": "2023-01-01 Last Mile Gear 全并入 WAV LLC",
+     "quote": "We are very excited to announce that on January 1st, 2023, we will complete the full integration of Last Mile Gear, a WAV company into WAV, LLC",
+     "url": "https://www.wavonline.com/resources/library/blog/one-wav-last-mile-gear-integration-into-wav-llc/",
+     "date": "2023-01-01"
+    },
+    {
+     "level": "公司自述",
+     "claim": "WAV 为 MikroTik 授权分销（2022）",
+     "quote": "AURORA, IL., Aug. 24, 2022 (GLOBE NEWSWIRE) — WAV LLC is now a MikroTik authorized distributor.",
+     "url": "https://www.wavonline.com/resources/library/blog/technology-distributor-wav-announces-distribution-agreement-with-mikrotik/",
+     "date": "2022-08-24"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-546 同户（人工 A）：规模与定位",
+     "quote": "A-546 WAV, Inc. 美国 分销（ORing 授权） … +1 800 678-2419 / sales@wavonline.com … «Top Wireless Equipment Distributor For WISP & ISP» … «From private LTE to fixed wireless broadband, network switches, Wi-Fi, and fiber»，$25M+ 常备库存 / 70,000+ SKU / 10,000+ 客户 / 35+ 年",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-09-28"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-096 Last Mile Gear（A，Netonix 渠道；info@ 退信）",
+     "quote": "A-096 Last Mile Gear 美国 WISP 集成商/代理（Netonix） … sales@lastmilegear.com【主通道】；X（@LastMileGear）第三通道；info@lastmilegear.com【永久停用：2026-09-29 退信 not-found】 … Netonix 交换机采用 Vitesse 芯片，并非 Marvell … 对其不能使用「同芯片」话术",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-09-29"
+    }
+   ],
+   "facts": {
+    "地址": "2380 Prospect (Suite A), Aurora, IL 60502（WAV LLC）"
+   },
+   "who": "伊利诺伊 WISP/ISP 设备全服务分销商（MikroTik 授权），2019 收购、2023 并入的 Last Mile Gear 商城曾售 PLANET 交换机",
+   "hook": "PLANET's XGSW-28040HP was the 24-port PoE+ with 10G uplinks on your Last Mile Gear shelf; a lower-tier L2+ unit with the same uplink spec gives your WISP partners a second source for tower and NOC closets.",
+   "first_question": "For your WISP partners' tower and NOC sites, does a 24-port PoE+ switch with four 10G uplinks still move, or has demand shifted to 8-port units?",
+   "subject": "Second-source 24-port PoE+ with 10G uplinks for your WISP partners",
+   "biggest_unknown": "WAV 当前线卡是否仍含 PLANET；Mikrotik 侧首触状态；UL/TAA（Q-02）",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 小塔站",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "塔站机柜宽温 DIN 8 口 PoE（对位其 ORing 线）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "Last Mile Gear 客户含 public safety / municipal → 公共部门守界，只谈 WISP/Telco 线；Netonix 非 Marvell 芯片，不用「同芯片」话术；美国 UL/TAA 第二封前核（Q-02）",
+   "mikrotik_ref": "A-546; A-096",
+   "notes": "Mikrotik A-546 WAV 与 A-096 Last Mile Gear 实为同一户（2023-01-01 全并入 WAV LLC）→ 建议 Mikrotik 侧合并（本仓无法写入，记入清单 Q-06 回填项）；首触以 Mikrotik 仓库为准，本仓只补 PLANET 侧证据（2019 商城页，现状待补证）。",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "对位 XGSW-28040HP（24 PoE + 4×10G）；L2+、无 L3 静态路由（注明）",
+     "question": "For your WISP partners' tower and NOC sites, does a 24-port PoE+ switch with four 10G uplinks still move, or has demand shifted to 8-port units?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Aurora",
+     "push": "STC-424XGGPM-280W（1 台）",
+     "angle": "30 天并行测试；兼容其在售 SFP/SFP+",
+     "question": "Which partner site could take one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "批量条件",
+     "push": "STC-28DGGPM 并行",
+     "angle": "MOQ/付款/EXW 运费路径；UL/TAA 先核",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "WISP 专业分销、MikroTik 授权、库存与 SKU 规模大",
+    "W": "仅总机邮箱；PLANET 证据为 2019 旧页",
+    "O": "WISP 接入层 24 口 PoE + 10G 需求稳定",
+    "T": "RUCKUS/MikroTik 等主推品牌挤占；可能被视为「再一个白牌」"
+   }
+  },
+  {
+   "_code": "PB-048",
+   "name": "Switch SFP Ltd",
+   "country": "英国",
+   "city": "Cirencester, Gloucestershire",
+   "website": "switchsfp.com",
+   "type": "分销/网店（兼容光模块专业供应商，面向终端用户、经销商与贸易账户；Jisc 网络设备框架成员；站内设 Industrial Switches 类目）",
+   "signal": "官网 vendors 集合含 PLANET（TSN-6325-8T4S4X 工业 L3 TSN 管理型交换机「Original new Planet」在售）；Mikrotik 仓库 A-553（Antaira 授权）",
+   "own_brand": "否（兼容光模块为 MSA 通用兼容品，非交换机品牌）",
+   "angle": "光模块专营 → 交换机是连带品类；PLANET 工业 TSN 高端机在售说明有工业客户；Saga 8 口 PoE + 2 SFP（商用/工业）可与其光模块捆绑成「小站点套包」。Mikrotik A-553（人工 A，sales@）同户 → 本仓 B 并档",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "与其光模块捆绑：8×GE PoE+ + 2 SFP 管理型是贸易客户新建小站点最常配的规格",
+   "tier": 0.2,
+   "tier_reason": "分销/网店 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 在售（vendors 集合）+ 工业交换机类目 + 向经销商/贸易账户供货；触达：sales@switchsfp.com（官网，经 Mikrotik A-553 记录），无具名；体量小（LinkedIn 2–10 人，2018 成立）；Mikrotik A-553（人工 A）同户 → B 并档，首触以 Mikrotik 为准",
+   "source": "Mikrotik 仓库工业品牌渠道行（A-553 Antaira）× PLANET 核验（web_search 分组域名查询命中 switchsfp.com vendors?q=planet）",
+   "planet_models": [
+    "TSN-6325-8T4S4X"
+   ],
+   "model_map": {
+    "TSN-6325-8T4S4X": {
+     "saga": "STI-488XGGPM",
+     "note": "PLANET 为工业 L3 TSN（8×GE + 4×2.5G SFP + 4×10G SFP+，非 PoE）；Saga 为工业 L2+ 8×GE PoE + 2 SFP + 2×10G（无 TSN/L3，注明；仅作同柜体工业机型参照）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（销售）",
+     "role": "sales",
+     "email": "sales@switchsfp.com",
+     "phone": "+44 1285 700 750",
+     "status": "公开（官网；经 Mikrotik 仓库 A-553 记录）",
+     "source": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "官网 vendors 集合 PLANET 在售",
+     "quote": "planet — Switch SFP Ltd … PLANET TSN-6325-8T4S4X is a brand-new Industrial-grade Layer 3 Time-Sensitive Networking (TSN) Managed Ethernet Switch … Original new Planet",
+     "url": "https://switchsfp.com/collections/vendors?q=planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "公司自述",
+     "claim": "面向终端用户、经销商与贸易账户；公司注册号",
+     "quote": "Switch SFP Ltd are distributors of high quality compatible transceivers via our website www.switchsfp.com selling directly to end users and also to resellers and trade accounts. We are a Limited Company registered in England and Wales company number 11349627 … Unit 9 Cirencester Office Park, Tetbury Road, Cirencester, Gloucestershire GL7 6JJ",
+     "url": "https://switchsfp.com/pages/terms-and-conditions",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "规模与成立年份（LinkedIn 公司页）",
+     "quote": "Switch SFP Ltd … Company size: 2-10 employees · Headquarters: Cirencester, Gloucestershire · Founded: 2018 · Specialties: Optical Transceivers, SFP, and Cisco",
+     "url": "https://uk.linkedin.com/company/switch-sfp-ltd",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "Mikrotik 仓库",
+     "claim": "A-553 同户（人工 A）：Antaira 授权、Jisc 框架、工业交换机类目",
+     "quote": "A-553 Switch SFP 英国 分销 Antaira … sales@switchsfp.com … Switch SFP Ltd（英国，sales@switchsfp.com，01285 700 750，原表信号 Antaira 授权）自述 «An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers»、Jisc 网络设备框架成员；站内类目含 Industrial Switches（工业交换机）",
+     "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+     "date": "2026-09-28"
+    }
+   ],
+   "facts": {
+    "地址": "Unit 9 Cirencester Office Park, Tetbury Road, Cirencester GL7 6JJ",
+    "公司号": "11349627"
+   },
+   "who": "英国科茨沃尔德的小型兼容光模块专营分销商（2018 成立，2–10 人），兼售 Antaira/PLANET 工业交换机",
+   "hook": "Your trade customers already buy SFPs from you for small sites; an 8-port Gigabit PoE switch with two SFP slots, shipped with the matching optics, turns that into a one-box order.",
+   "first_question": "When your trade customers buy SFPs for a new small site, do they ask you for the 8-port PoE switch too, or is the switch brand already fixed on their side?",
+   "subject": "8-port PoE switch to bundle with your SFP orders",
+   "biggest_unknown": "Mikrotik 侧首触状态；交换机销量占比；是否只接「原厂品牌」",
+   "alts": [
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 DIN 8 口 PoE（对位其 Antaira/PLANET 工业线）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24 口 PoE 机房",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "Jisc 框架 = 教育/公共采购框架 → 不主动走公共采购线，只谈贸易账户；Saga 无 TSN/L3",
+   "mikrotik_ref": "A-553",
+   "notes": "Mikrotik 仓库 A-553 同户（人工 A，sales@ 已有）：首触以 Mikrotik 仓库为准；本仓只补 PLANET 侧证据（vendors 集合 TSN-6325）。",
+   "steps": [
+    {
+     "title": "捆绑角度",
+     "push": "STC-28DGGPM",
+     "angle": "8 口 PoE + 2 SFP 与其光模块同单",
+     "question": "When your trade customers buy SFPs for a new small site, do they ask you for the 8-port PoE switch too, or is the switch brand already fixed on their side?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Cirencester",
+     "push": "STC-28DGGPM（1 台）",
+     "angle": "用其自家兼容 SFP 做互通测试",
+     "question": "Would one unit for a 30-day interoperability test with your own SFPs be useful?",
+     "action": "SFP 兼容清单 1 页"
+    },
+    {
+     "title": "贸易价",
+     "push": "STC-28DGGPM / STI-288DGGPM",
+     "angle": "MOQ/付款/EXW；UKCA 已有",
+     "question": "What quantity per quarter would make a trade price worth setting up?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "光模块专营、贸易账户体系、UKCA 认知",
+    "W": "体量很小；交换机为连带品类",
+    "O": "套包销售（交换机 + 光模块）",
+    "T": "大网店价格战；PLANET/Antaira 原厂关系"
+   }
+  },
+  {
+   "_code": "PB-049",
+   "name": "Intermédia – Informática, Lda",
+   "country": "葡萄牙",
+   "city": "Coimbra",
+   "website": "intermedia.pt",
+   "type": "经销商/网店（电信与网络设备经销；官网 PLANET 专页全系带价目录）",
+   "signal": "官网 PLANET 专页：GS-6311-24HP4X（582€）、SGS-6310-24P4X、IGS-6325-16T4X / 24UP4X / 16P4S 等带欧元价在售；页眉 info@ / compras@",
+   "own_brand": "否",
+   "angle": "葡萄牙首个入池经销商（国家空白）；PLANET 全系带价目录说明 PLANET 是其主销网络品牌之一 → Saga 作 L2+ PoE 第二货源（24 口 PoE + 10G 上联 / 工业 DIN 8 口）",
+   "p1": "STC-424XGGPM-280W",
+   "p1_reason": "对位其列表前排 SGS-6310-24P4X / GS-6311-24HP4X（24 口 PoE + 4×10G SFP+）——Saga 为 802.3at 280W L2+（无 L3/堆叠/bt，注明）",
+   "tier": 0.2,
+   "tier_reason": "经销商/网店 → 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 全系带价在售（官网专页，含 L3 PoE 与 IGS-6325 工业线）；触达：info@intermedia.pt / compras@intermedia.pt（官网 PLANET 专页页眉），无具名；体量小（科英布拉，Lda）；葡萄牙在区域内 → B",
+   "source": "M2 品牌页反查（web_search 分组域名查询时连带命中 intermedia.pt/planet.htm）+ M9 工商登记核名（Iberinform / Racius）",
+   "planet_models": [
+    "GS-6311-24HP4X",
+    "SGS-6310-24P4X",
+    "IGS-6325-16T4X",
+    "IGS-6325-24UP4X",
+    "IGS-6325-16P4S"
+   ],
+   "model_map": {
+    "SGS-6310-24P4X": {
+     "saga": "STC-424XGGPM-280W",
+     "note": "PLANET 为 L3 可堆叠 24 PoE+ + 4×10G SFP+（370W）；Saga 为 L2+ 280W（无 L3/堆叠，注明）"
+    },
+    "GS-6311-24HP4X": {
+     "saga": "STC-424XGGPM-280W",
+     "note": "PLANET 含 8 口 802.3bt；Saga 全 802.3at（无 bt，注明）"
+    },
+    "IGS-6325-16P4S": {
+     "saga": "STI-21616DGGPM",
+     "note": "工业 16 口 PoE + 4 SFP L3 → Saga 工业 L2+ 16 PoE（无 L3，注明）"
+    },
+    "IGS-6325-24UP4X": {
+     "saga": "STI-42424XGGPM",
+     "note": "PLANET 24×95W bt + 4×10G；Saga 24×at + 4×10G（无 bt/L3，注明）"
+    },
+    "IGS-6325-16T4X": {
+     "saga": "—",
+     "note": "工业 16 GE 非 PoE + 4×10G L3，Saga 暂无对应型号（不推）"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（总机）",
+     "role": "info",
+     "email": "info@intermedia.pt",
+     "phone": "+351 239 703 577",
+     "status": "公开（官网 PLANET 专页页眉）",
+     "source": "https://www.intermedia.pt/planet.htm"
+    },
+    {
+     "name": "—（采购）",
+     "role": "compras（采购）",
+     "email": "compras@intermedia.pt",
+     "phone": "+351 917 808 746",
+     "status": "公开（官网 PLANET 专页页眉）",
+     "source": "https://www.intermedia.pt/planet.htm"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "官网 PLANET 专页全系带价 + 页眉邮箱",
+     "quote": "Tel. 239703577 (rede fixa nacional) ou 917808746 (rede móvel nacional) ► info@intermedia.pt ► compras@intermedia.pt - GS-6311-24HP4X · Planet Switch Managed L3 Networking 802.3bt PoE++ · 1 unid.= · 582€ · 715,86€ - SGS-6310-24P4X · Planet Switch Layer 3, 24 portas 10/100/1000T 802.3at PoE + 4 portas10G SFP+ Stackable Managed Switch - IGS-6325-16T4X … - IGS-6325-24UP4X … - IGS-6325-16P4S · Planet IP30 DIN-rail Ind. L3 16 Port 10/100/1000T 802.3at PoE 4-port 100/1000X SFP Full Managed Switch",
+     "url": "https://www.intermedia.pt/planet.htm",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "工商登记",
+     "claim": "法人名称、地址、官网一致",
+     "quote": "INTERMÉDIA, INFORMÁTICA, LDA. … Rua Dom Ernesto Sena De Oliveira Lt. 1 3º Dt. 3030-378 - COIMBRA. PORTUGAL … Website www.intermedia.pt",
+     "url": "https://www.iberinform.pt/empresa/22087434/intermedia-informatica-lda",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "工商登记",
+     "claim": "主营：电信设备",
+     "quote": "Intermédia, Informática Lda … Atividade No âmbito de Equipamento de telecomunicações",
+     "url": "https://www.racius.com/intermedia-informatica-lda/",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "Rua Dom Ernesto Sena de Oliveira, Lote 1, 3º Dto., 3030-378 Coimbra",
+    "NIF": "503329827（einforma / ciberforma 名录）"
+   },
+   "who": "科英布拉小型电信/网络设备经销商，官网 PLANET 专页全系带价",
+   "hook": "Your PLANET list leads with 24-port PoE+ switches with 10G uplinks; a lower-tier L2+ unit with the same port layout gives your customers a second option for camera and office sites without changing their SFPs.",
+   "first_question": "Of the PLANET PoE switches on your list, is the 24-port PoE+ with 10G uplinks or the 8-port industrial DIN unit the one your customers order most?",
+   "subject": "Second-source 24-port PoE+ with 10G uplinks next to your PLANET list",
+   "biggest_unknown": "具名采购人；是否只做转售（无项目）；年走量",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 办公室/小店",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 DIN 8 口 PoE（对位 IGS-6325 线低一档）",
+     "reason": "P1 过后的台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "Saga 无 L3/堆叠/bt；不接 IGS-6325-16T4X 类非 PoE 10G L3 替换",
+   "mikrotik_ref": "",
+   "notes": "葡萄牙国家空白首补。Mikrotik 主表全列 grep「intermedia」无命中 → 非同户。",
+   "steps": [
+    {
+     "title": "第二货源对位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "对位 SGS-6310-24P4X / GS-6311-24HP4X；L2+、无 bt/L3（注明）",
+     "question": "Of the PLANET PoE switches on your list, is the 24-port PoE+ with 10G uplinks or the 8-port industrial DIN unit the one your customers order most?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Coimbra",
+     "push": "STC-424XGGPM-280W（1 台）",
+     "angle": "30 天并行测试；兼容其在售 SFP+",
+     "question": "Which customer site could take one unit for a 30-day side-by-side test?",
+     "action": "L2+ 特性表 1 页"
+    },
+    {
+     "title": "批量条件",
+     "push": "STC-28DGGPM 并行",
+     "angle": "MOQ/付款/EXW 运费路径（里斯本/波尔图港）",
+     "question": "What order size per quarter would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 全系带价、采购邮箱公开",
+    "W": "体量小、无具名、可能纯转售",
+    "O": "葡萄牙无其他在池经销商（Anatronic 为伊比利亚代理）",
+    "T": "EET Group 泛欧 PLANET 授权分销覆盖葡萄牙，价格透明"
+   }
+  },
+  {
+   "_code": "PB-045",
+   "name": "Shop4Power (Shop4power / shop4networks)",
+   "country": "荷兰",
+   "rating": "B",
+   "rating_basis": "（W05 原评级不变）W06 补证据：产品页自述「Benelux Planet distributeur」",
+   "evidence": [
+    {
+     "level": "公司自述",
+     "claim": "自述为 Benelux 地区 PLANET 分销商（覆盖比利时）",
+     "quote": "Planet IGS-4215-8T2S industriële switch met 8 x 10/100/1000T en 2xSFP managed - is uit voorraad leverbaar bij de Benelux Planet distributeur - Shop4power",
+     "url": "https://shop4power.nl/product/industrieel-ethernet/managed-industriele-ethernet-switch/din-rail-l2-l4-gigabit/planet-igs-4215-8t2s/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "公司自述",
+     "claim": "IGS-4215-16T2S 页同一自述",
+     "quote": "De Planet IGS-4215-16T2S industriele L2/L4 16-poort 10/100/1000T + 2-poort 100/1000X SFP Managed switch is uit voorraad het goedkoopst leverbaar bij shop4power.nl de Planet distributeur van de Benelux",
+     "url": "https://shop4power.nl/product/industrieel-ethernet/managed-industriele-ethernet-switch/din-rail-l2-l4-gigabit/planet-igs-4215-16t2s/",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "W06 比利时检索连带命中：Shop4Power 自述 Benelux PLANET 分销商 → 比利时市场由其覆盖（BE 继续空白的解释之一）。"
+  }
+ ],
+ "merged": [
+  {
+   "planet": "PB-005 Mid-Atlantic Rugged Systems (M/A Rugged)",
+   "mikrotik": "A-541 Mid Atlantic Rugged Systems（midatlanticruggedsystems.com，sales@marugged.com，人工 A）",
+   "note": "同一法人，域名不同（marugged.com = 主站）；W01 建档漏对照 → 本轮补 Mikrotik 对照编号 A-541；Mikrotik 侧 A 且有邮箱 → 首触以 Mikrotik 为准，本仓 PLANET 授权分销证据供其并入"
+  }
+ ],
+ "pending_next_wave": [
+  {
+   "name": "PB-047 WAV",
+   "reason": "WAV 当前线卡是否仍含 PLANET（lastmilegear 页为 2019）→ fetch_page wavonline.com 品牌页"
+  },
+  {
+   "name": "PB-046 Data Connect",
+   "reason": "自有品牌线是否含交换机（已知延长器/调制解调器/串口）；OEM 角度并入 Mikrotik 侧首触第一问（Q-11）"
+  },
+  {
+   "name": "PB-049 Intermédia",
+   "reason": "具名采购人（compras@ 为部门邮箱）"
+  },
+  {
+   "name": "Mikrotik A-096 / A-546",
+   "reason": "同一户（2023-01-01 并入）→ Mikrotik 侧合并（Q-06 回填项）"
+  },
+  {
+   "name": "Mikrotik 69 行候选余量",
+   "reason": "本轮分组域名查询覆盖 ≈45 个域名，其余 ≈24 行（US 二线、PL/CZ 小户）下一轮继续；分组查询未命中不等于无 PLANET"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Tesla Networks（BE A-502）/ MPI Technologies（CH A-524）/ Lextron（NL A-556）/ Modelec（NL A-277，Moxa）/ DSSI（PT A-257）/ AGL Guedes Lopes（PT A-058，自有 LMP/LMX 工业机）",
+   "reason": "分组域名查询本轮无 PLANET 证据 → 不并档（留 Mikrotik 侧）"
+  },
+  {
+   "name": "Automation Experts（GR A-471）/ CABLEWORKS（GR A-472）/ XPATIT（GR A-475）/ AXTEK（HU A-450）/ ATYS（HU A-263）/ TECON（CZ B-520）/ ATEsystem（CZ B-192）",
+   "reason": "分组域名查询本轮无 PLANET 证据（均为 Antaira where-to-buy 名录户）→ 不并档"
+  },
+  {
+   "name": "SATEL（NO A-493）/ Fiberworks（NO B-517）/ The Junction（NO A-255）/ HighTech Nordic（SE B-528）/ Profcon（SE A-081）/ Timeless（FI A-256）/ Data Monitor（FI A-548）/ Fiseg（FI B-397）",
+   "reason": "分组域名查询本轮无 PLANET 证据 → 不并档"
+  },
+  {
+   "name": "IndustrialComms（UK A-267）/ Cogent Distribution（UK A-264）/ MS Distribution（UK）/ Millbeck（UK B-533）/ Purdicom（UK）/ Infinite Technology（IE A-238）",
+   "reason": "分组域名查询本轮无 PLANET 证据 → 不并档"
+  },
+  {
+   "name": "Noriak（FR A-253）/ APLUS（FR B-522）/ Landatel（ES A-350）/ Berdin（ES A-282）/ IPC2U（DE A-482）/ meconet（DE A-351）/ Varia（DE A-234）/ OMG / 4networks（DE）",
+   "reason": "分组域名查询本轮无 PLANET 证据 → 不并档"
+  },
+  {
+   "name": "CSI（PL A-047）/ Microstar（PL A-082）/ Atel（PL A-509）/ Cyberbajt（PL A-512）/ wisp.pl / batna24",
+   "reason": "分组域名查询本轮无 PLANET 证据 → 不并档"
+  },
+  {
+   "name": "iComTech（US A-547）/ Cayman Wireless（US A-278）/ Powertech Controls（US）",
+   "reason": "分组域名查询本轮无 PLANET 证据 → 不并档"
+  },
+  {
+   "name": "softcom.cz（CZ）",
+   "reason": "电商（PLANET IGS-10020PT 在售，无采购决策人入口）→ §4 电商 skip"
+  },
+  {
+   "name": "kuantokusta.pt（PT）",
+   "reason": "比价站 → 噪音"
+  },
+  {
+   "name": "EET Group（BE fr-be / PT pt-pt PLANET 授权页）",
+   "reason": "泛欧巨头，已在本仓 C（不重复）"
+  },
+  {
+   "name": "Maktonet（maktonet.com 博客）",
+   "reason": "UAE，区域外（W02 已记）"
+  },
+  {
+   "name": "planet.pl / planetechusa.com / planet.spectra.de",
+   "reason": "信号源（PLANET 自有/区域站点），不是客户"
+  }
+ ]
+}
