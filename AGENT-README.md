@@ -57,7 +57,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | `docs/reference/Saga公司画像与边界.md` | 用户背景 docx 的结构化版 |
 | `docs/methodology/Planet客户挖掘方法论.md` | M1–M10 方法与国家顺序 |
 | `docs/methodology/死路与死链备案.md` | 404/登录墙/匿名页 + 信号源名单 + 区域外命中 |
-| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 43 行（W03 +8 行，W04 改写 8 行说明，W05 改写 7 行，W06 +5 行：A-541/A-270/A-546/A-096/A-553） |
+| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 45 行（W03 +8 行，W04 改写 8 行说明，W05 改写 7 行，W06 +5 行：A-541/A-270/A-546/A-096/A-553，W07 +2 行：B-201/B-274） |
 | `docs/requirements/待统一处理问题清单.md` | T07 起所有待用户裁定事项（Q-xx 冻结编号 + 默认处理）；Agent 不再逐轮提问 |
 
 ## 4. 操作记录
@@ -70,6 +70,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | 2026-10-19 15:47–16:05 | PR-02 · W04 | T05「继续挖 着重北美+欧洲+土耳其」落账（总账 PR-02-05、INH-02 注记）；W04 挖掘（web_search ≈30 次 depth 1 + fetch_page ×2：PTUSA where-to-buy、Pulse 联系 PDF）；Mikrotik 主表 grep（土耳其 11 行均非 PLANET；C-089/C-085/C-067/C-015 补邮箱重评；A-497/A-480/A-469/A-032 并档）；批次 JSON 由 `/home/user/_scratch/build_w04.py` 生成；add_batch（added=13 merged=0）/render（66）/audit；README（进度行 + A 类 + 作战方案 8 划掉/9 新增）/总账/死路 §1§3§4/方法论 §五 W04/对照 CSV 8 行「对照说明」改写（不加行）| CSV 66 行，profile 66 份，audit errors 0 |
 | 2026-10-19 16:06–16:20 | PR-02 · W05 | T06 落账（对话全记录 T06、总账 PR-02-06、规则 §4.3 T06 例外；CSV 直接改：PC-011 评级/人工定级 B + 5 户备注；W04 JSON 由 build_w04.py 重生成并重跑 add_batch=跳过既有行）；W05 挖掘（web_search 15 次；Mikrotik 主表**全列** grep PLANET → 新命中 5 行）；批次 JSON 由 `/home/user/_scratch/build_w05.py` 生成；add_batch（added=5）/render（71）/audit；README/总账/死路/方法论/对照 CSV（7 行说明改写，不加行）| CSV 71 行，profile 71 份，audit errors 0 |
 | 2026-10-20 01:08–01:20 | PR-02 · W06 | 沙箱重置后 `git reset --soft origin/arena/3f35b9b3-planet` 对齐、重克隆 Mikrotik 参照；T07 落账（对话全记录 T07、总账 PR-02-07、新建 待统一处理问题清单 Q-01…Q-10，本轮追加 Q-11/Q-12）；W06 挖掘（web_search 13 次 depth 1；Mikrotik 工业品牌渠道行 69 行候选 → 分组域名查询）；批次 JSON 由 `/home/user/_scratch/build_w06.py` 生成；add_batch（added=4 merged=1）/render（75）/audit；CSV 直接改 PB-005 对照 A-541（W01 JSON 同步）；对照 CSV +5 行；README/总账/死路/方法论 | CSV 75 行，profile 75 份，audit errors 0 |
+| 2026-10-20 02:00–02:15 | PR-02 · W07 | 沙箱第二次重置后同法对齐（`git reset --soft origin/…` + 重克隆 Mikrotik 参照）；T08「继续挖」落账（对话全记录 T08 / T08-R）；W07 挖掘（web_search 17 次 depth 1 + fetch_page 1：Mikrotik「分销（MikroTik 官方）/WISP」行 ≈110 域名 12 组分组查询 → 2 命中）；批次 JSON 由 `/home/user/_scratch/build_w07.py` 生成；add_batch（added=2 merged=0）/render（77）/audit；对照 CSV +2 行（45）；README/总账/死路/方法论 | CSV 77 行，profile 77 份，audit errors 0 |
 
 ## 5. 已知坑（本仓库）
 

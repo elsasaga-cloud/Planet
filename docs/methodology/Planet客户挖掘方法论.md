@@ -138,3 +138,11 @@ Companies House（UK）、northdata/Handelsregister（DE/AT/CH）、pappers（FR
 - **什么无效 / 边界**：① 分组查询未命中时引擎退回 PTUSA / planet.com.tw 通用页，**只能记「本轮无证据」**，不能写「无 PLANET」；国家空白行（BE/CH/GR/IE/DK）仍要单域名复核；② BE 三轮、CH 两轮、PT 二轮泛检索均无新经销——BE 由 Shop4Power（自述 Benelux PLANET 分销）/EET 覆盖，可停；③ 2019 年的商城页（Last Mile Gear）只能证明「曾售」，现状要补证。
 - **并档评级先例**：并档行一律 B（即使 Planet 侧证据够 A，如 Data Connect），避免两仓双首触；是否允许独立定 A 记为 Q-11，不再逐轮问。
 - **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4（13 次检索，单位产出回升靠分组查询）。剩余 Mikrotik 候选 ≈24 行 + 区域品牌站下游 + EU 价格表 PDF 反查（见 README 作战方案第 11 条）。
+
+### W07（2026-10-20，17 次 web_search + 1 次 fetch_page，+2 户，全 B 并档；T08「继续挖」）
+
+- **做了什么**：把 Mikrotik 主表区域内「分销（MikroTik 官方）/WISP」类型行（A/B、有邮箱、无 PLANET 字样、不在本仓）按国家分 12 组 ≈110 个域名，逐组 `Planet switch ("a" OR "b" …)` 分组域名查询；另试四条辅矿脉（型号×价目表关键词、"line card"、PLANET 捷克品牌站「哪里买」、CA 法语）。
+- **什么有效**：分组查询机制本身仍可靠——有 PLANET 页的站被直接顶出（pcvcomp.cz Planet 专类 28 款；eltrox.pl 两条 PLANET 商品页）；命中后用 Mikrotik 行 + 第三方名录（altostrat / ui.com）即可补齐邮箱与地址，单户成本 ≈1 次检索。
+- **什么无效 / 边界**：① **矿脉选择错了**——MikroTik/Ubiquiti/Cambium 为主的 WISP 商行几乎不卖 PLANET（12 组仅 2 命中，且两者都是多品牌 IT/安防分销商而非纯 WISP 店）→ 此矿脉宣告采尽，DE/AT/CH 组不再查；② 价目表 PDF / line card / 品牌站哪里买 / CA 法语 四条全是死路（只回巨头电商或 PLANET 自家页）；③ Eltrox 类「商品页在但缺货」属弱信号，入池要在 rating_basis 写明「现售状态待补证」。
+- **下一矿脉**：安防/监控分销商（非 MikroTik 系）品牌页反查 + 美国区域安防/低压分销 + PLANET 展会联合参展伙伴；国家空白单域名复核。
+- **收益曲线**：W02 +25 → W03 +13 → W04 +13 → W05 +5 → W06 +4 → **W07 +2**（17 次检索）；Mikrotik 同户复用已接近尽头，W08 必须换矿脉否则单位产出继续走低。
