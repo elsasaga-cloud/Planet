@@ -54,6 +54,9 @@ updated: 2026-10-20
 - **【官网】【W10 回查】PLANET 页 2026-01-30 更新，全类目在售**
   > Prodotti Planet Technology - Rivenditore ufficiale Kyma Srl … 2026-01-30 … LAN SWITCH › PoE / NON PoE … Industrial Switch … Media Converter … Modbus Gateway
   > 来源：https://kyma.it/planet-technology-networking-communication/（抓取 2026-10-20）
+- **【内部记录】【触达史】Elsa 账号（e.sagatelecom@gmail.com）2025-02-17 曾向 info@kyma.it 群发主题 "16 Port Ethernet Switch"，无回复；首触不得按冷启动写**
+  > in:sent → info@kyma.it · 16 Port Ethernet Switch · Mon, 17 Feb 2025 16:00:00 +0800 · Gmail 消息 19512ebd4c3c6228
+  > 来源：https://github.com/elsasaga-cloud/Planet/blob/arena/3f35b9b3-planet/docs/gmail/已触达清单说明.md（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -189,4 +192,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*

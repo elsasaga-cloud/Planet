@@ -56,6 +56,9 @@ updated: 2026-10-20
 - **【Mikrotik 仓库】C-015 同户：分销（PLANET 授权），B下放·无邮箱**
   > C-015 Globall Distribution 加拿大 分销（PLANET 授权）… B下放·无邮箱（群发触达不到）… ①补到邮箱 可重评
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【内部记录】【触达史】Elsa 账号 2025-02-28 曾向 info@globall.ca / sales@globall.ca 群发主题 "Mini Industrial PoE Switch"，无回复**
+  > in:sent → info@globall.ca, sales@globall.ca · Mini Industrial PoE Switch · Fri, 28 Feb 2025 00:30:00 +0800 · Gmail 消息 195483e565c421fc
+  > 来源：https://github.com/elsasaga-cloud/Planet/blob/arena/3f35b9b3-planet/docs/gmail/已触达清单说明.md（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -186,4 +189,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*

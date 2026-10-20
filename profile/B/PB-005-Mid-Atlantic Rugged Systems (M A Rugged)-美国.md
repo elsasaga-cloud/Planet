@@ -51,6 +51,9 @@ updated: 2026-10-20
 - **【卖方目录】在售 PLANET WGS-4215-8P2S**
   > PLANET Technology WGS-4215-8P2S Wall-mount Ethernet switch
   > 来源：https://marugged.com/planet-technology-wgs-4215-8p2s/（抓取 2026-10-19）
+- **【卖方目录】【W12 回查】PLANET 品牌页在线，页题即 Authorized PLANET Technology Distributor；在售 GST-805A / GSW-1820HP / IAP-2400AX / IGS-10020MT / IGS-10020PT / IGS-1600T / IGS-500T 等（含 2026-01 上架的 GSW-1820HP、IGS-10020PT）**
+  > Authorized PLANET Technology Distributor … GSW-1820HP MSRP $280.00 16-Port 10/100/1000T 802.3at PoE + 2-Port 1000X SFP Gigabit Ethernet Switch … IGS-10020PT MSRP $631.75 Industrial 8-port 10/100/1000T 802.3at PoE + 2-port 1G/2.5G SFP Managed Switch
+  > 来源：https://marugged.com/planet-technology/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -175,4 +178,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*

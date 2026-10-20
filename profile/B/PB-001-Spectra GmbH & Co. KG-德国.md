@@ -60,6 +60,9 @@ updated: 2026-10-20
 - **【Mikrotik 仓库】W03 补证：Mikrotik 仓库 C-026（oring.spectra.de，ORing 分销）/ C-149（奥地利分公司）同户**
   > C-026 Spectra (oring.spectra.de) 德国 分销+网店 ORing（全系，公开欧元价）… C-149 Spectra GmbH (Niederlassung Österreich) 奥地利 分销（ORing 授权）
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【官方自述】【W12 回查】PLANET 专站关于页在线，仍自称官方 PLANET 分销；联系方式未变**
+  > Spectra is your official PLANET distributor and offers comprehensive support in selection, integration and long-term supply … Spectra GmbH & Co. KG, Mahdenstr. 3, 72768 Reutlingen … sales@spectra.de … +49 7121 1432-10
+  > 来源：https://planet.spectra.de/en/about-us/planet（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -184,4 +187,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*

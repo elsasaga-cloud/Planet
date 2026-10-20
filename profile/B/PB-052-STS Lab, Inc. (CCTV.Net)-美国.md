@@ -64,6 +64,9 @@ updated: 2026-10-20
 - **【第三方名录】体量估计（口径不一）**
   > Cctv.Net … 1-10 Employees … Revenue: $10 Million to $25 Million … SIC: 5065
   > 来源：https://www.cience.com/company/cctvnet/5975889174267947118（抓取 2026-10-20）
+- **【卖方目录】【W12 回查】PLANET 品牌页在线，1028 件 PLANET 商品，价格 Dealers Only（经销商登录可见），含 GS-5220-48P4X / FGSD-1022P / BSP-300 等**
+  > Planet … 1028 products … MSRP (Dealers Only) … Add to Quote … GS-5220-48P4X … FGSD-1022P … BSP-300
+  > 来源：https://cctv.net/brands/planet（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -206,4 +209,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W08_安防分销与美国海关提单反查_US-CA　|　原始证据：batch/2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W08_安防分销与美国海关提单反查_US-CA　|　原始证据：batch/2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*

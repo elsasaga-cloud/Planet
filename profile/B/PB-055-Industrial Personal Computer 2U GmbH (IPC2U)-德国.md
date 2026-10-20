@@ -53,6 +53,9 @@ updated: 2026-10-20
 - **【跨仓】Mikrotik 侧 A-482（人工定级 A）—— 主表行 A-482**
   > Industrial Personal Computer 2U GmbH (IPC2U) | 德国 | ipc2u.com | 分销（Antaira + Korenix 授权） | Antaira, Korenix | 首推 STI-488XGGPM | +49 511 807 259-0 / sales@ipc2u.de | ★★★ | 未触达 | 德/法/波/捷四国办公室，兼做系统集成 … 【人工定级】A —— R53 B段复筛达标升级
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-20）
+- **【官方自述】【W12 回查】PLANET 厂商页在线，自述德国授权销售伙伴、合作 25 年以上，提供 RMA/保修本地处理**
+  > Industrial Personal Computer 2U GmbH ist autorisierter Vertriebspartner von PLANET Technology in Deutschland … IPC2U kooperiert mit PLANET seit über 25 Jahren … RMA-Abwicklung und Garantieservice direkt in Deutschland
+  > 来源：https://ipc2u.de/ueber-uns/vendors/planet/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -146,4 +149,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-20*

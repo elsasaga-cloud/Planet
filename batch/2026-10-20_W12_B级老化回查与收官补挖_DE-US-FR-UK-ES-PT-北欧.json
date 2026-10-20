@@ -1,0 +1,166 @@
+{
+ "batch": "2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧",
+ "date": "2026-10-20",
+ "method": [
+  "T16「继续干其他的任务吧」：按 README 第 16 条——B ★★★ 四户主证据页回查 + PA-011 第 4 次重试；挖掘 ≤6 次 web_search（UK M11 authorised distributor、FR installateur courant faible、ES mayorista CCTV、PT revenda、北欧 forhandler/jälleenmyyjä/återförsäljare、UK/IE 区域型号查询）；不新开矿脉",
+  "回查结论：PB-001 Spectra ✅（planet.spectra.de 关于页仍写 official PLANET distributor，sales@/电话一致）/ PB-005 M/A Rugged ✅（Authorized PLANET Technology Distributor 页在线，列 GST-805A / GSW-1820HP / IGS-10020PT / IGS-10020MT 等）/ PB-052 CCTV.Net ✅（品牌页 1028 件 PLANET、Dealers Only 价格）/ PB-055 IPC2U ✅（autorisierter Vertriebspartner，合作 25 年+）/ PA-011 Young ❌ 第 4 次 HTTP 500",
+  "挖掘结果：6 次查询 0 新户——命中均为池内（connectec.uk）、已 skip 的电商（maison-du-cable / abix.fr / accessoires-informatiques / techplaza.pt）、行业媒体（instaladoresdetelecomhoy.com）、区域外（elenst.com 哥伦比亚、netcomputadores.com.br / planet.com.br 巴西）、比价站（teknikpris.dk）；UK/IE 区域型号查询 0 结果 → 欧洲主要国家 PLANET 渠道已饱和，后续只做回查与取证",
+  "同轮完成：Gmail 已触达清单（data/gmail_已触达清单.csv）与 87 户去重 → PA-006 Kyma / PB-036 Globall 曾被 Elsa 账号群发触达（2025-02），本批以 refresh 记入两户 notes"
+ ],
+ "tools": "fetch_page ×5（4 ✅ / 1 HTTP 500）；web_search ×6（depth 1）；gmail list_messages（见 docs/gmail/已触达清单说明.md）",
+ "queries": [
+  "\"authorised PLANET distributor\" OR \"authorised distributor of PLANET Technology\" UK switches -planet.com.tw（→ connectec.uk 池内；无新）",
+  "installateur courant faible \"switch PoE\" \"PLANET Technology\" France -w3cam -connectdata -jpfi -europ-computer（→ maison-du-cable / abix.fr / accessoires-informatiques 均为已 skip 电商；amazon.fr 噪音；planetechusa 手册噪音）",
+  "mayorista CCTV \"PLANET Technology\" switch PoE España distribuidor -cartronic -anatronic -ciudadwireless（→ instaladoresdetelecomhoy.com 行业媒体 ×3；elenst.com 哥伦比亚区域外；planet.com.tw / planetechusa 噪音）",
+  "distribuidor \"PLANET Technology\" switch PoE Portugal revenda -intermedia（→ techplaza.pt 已 skip 电商；netcomputadores.com.br / planet.com.br 巴西区域外）",
+  "\"PLANET Technology\" switch PoE forhandler OR jälleenmyyjä OR återförsäljare -microdata -direktronik -alcadon -leteng -soundpeople -dasys（→ teknikpris.dk 比价站，仅 1 条结果）",
+  "\"PLANET\" \"GS-4210\" OR \"IGS-10020\" OR \"GS-5220\" distributor Ireland OR Scotland OR Wales trade installer -connectec -ballicom -provu -oprema -cmsplc -paragonnetworks（→ 0 结果）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-001",
+   "name": "Spectra GmbH & Co. KG",
+   "country": "德国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "官方自述",
+     "claim": "【W12 回查】PLANET 专站关于页在线，仍自称官方 PLANET 分销；联系方式未变",
+     "quote": "Spectra is your official PLANET distributor and offers comprehensive support in selection, integration and long-term supply … Spectra GmbH & Co. KG, Mahdenstr. 3, 72768 Reutlingen … sales@spectra.de … +49 7121 1432-10",
+     "url": "https://planet.spectra.de/en/about-us/planet",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W12 回查：现役，无变化）"
+  },
+  {
+   "_code": "PB-005",
+   "name": "Mid-Atlantic Rugged Systems (M/A Rugged)",
+   "country": "美国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W12 回查】PLANET 品牌页在线，页题即 Authorized PLANET Technology Distributor；在售 GST-805A / GSW-1820HP / IAP-2400AX / IGS-10020MT / IGS-10020PT / IGS-1600T / IGS-500T 等（含 2026-01 上架的 GSW-1820HP、IGS-10020PT）",
+     "quote": "Authorized PLANET Technology Distributor … GSW-1820HP MSRP $280.00 16-Port 10/100/1000T 802.3at PoE + 2-Port 1000X SFP Gigabit Ethernet Switch … IGS-10020PT MSRP $631.75 Industrial 8-port 10/100/1000T 802.3at PoE + 2-port 1G/2.5G SFP Managed Switch",
+     "url": "https://marugged.com/planet-technology/",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W12 回查：现役，PLANET 线仍在扩款）"
+  },
+  {
+   "_code": "PB-052",
+   "name": "STS Lab, Inc. (CCTV.Net)",
+   "country": "美国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "【W12 回查】PLANET 品牌页在线，1028 件 PLANET 商品，价格 Dealers Only（经销商登录可见），含 GS-5220-48P4X / FGSD-1022P / BSP-300 等",
+     "quote": "Planet … 1028 products … MSRP (Dealers Only) … Add to Quote … GS-5220-48P4X … FGSD-1022P … BSP-300",
+     "url": "https://cctv.net/brands/planet",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W12 回查：现役，无变化）"
+  },
+  {
+   "_code": "PB-055",
+   "name": "Industrial Personal Computer 2U GmbH (IPC2U)",
+   "country": "德国",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "官方自述",
+     "claim": "【W12 回查】PLANET 厂商页在线，自述德国授权销售伙伴、合作 25 年以上，提供 RMA/保修本地处理",
+     "quote": "Industrial Personal Computer 2U GmbH ist autorisierter Vertriebspartner von PLANET Technology in Deutschland … IPC2U kooperiert mit PLANET seit über 25 Jahren … RMA-Abwicklung und Garantieservice direkt in Deutschland",
+     "url": "https://ipc2u.de/ueber-uns/vendors/planet/",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（W12 回查：现役，无变化）"
+  },
+  {
+   "_code": "PA-006",
+   "name": "Kyma Srl",
+   "country": "意大利",
+   "rating": "A",
+   "evidence": [
+    {
+     "level": "内部记录",
+     "claim": "【触达史】Elsa 账号（e.sagatelecom@gmail.com）2025-02-17 曾向 info@kyma.it 群发主题 \"16 Port Ethernet Switch\"，无回复；首触不得按冷启动写",
+     "quote": "in:sent → info@kyma.it · 16 Port Ethernet Switch · Mon, 17 Feb 2025 16:00:00 +0800 · Gmail 消息 19512ebd4c3c6228",
+     "url": "https://github.com/elsasaga-cloud/Planet/blob/arena/3f35b9b3-planet/docs/gmail/已触达清单说明.md",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（T16 触达史：Elsa 已触达 2025-02-17，无回复 → 首触改跟进式开头，不从 Elsa 账号发同模板；见 Q-21/Q-23）"
+  },
+  {
+   "_code": "PB-036",
+   "name": "Globall Distribution",
+   "country": "加拿大",
+   "rating": "B",
+   "evidence": [
+    {
+     "level": "内部记录",
+     "claim": "【触达史】Elsa 账号 2025-02-28 曾向 info@globall.ca / sales@globall.ca 群发主题 \"Mini Industrial PoE Switch\"，无回复",
+     "quote": "in:sent → info@globall.ca, sales@globall.ca · Mini Industrial PoE Switch · Fri, 28 Feb 2025 00:30:00 +0800 · Gmail 消息 195483e565c421fc",
+     "url": "https://github.com/elsasaga-cloud/Planet/blob/arena/3f35b9b3-planet/docs/gmail/已触达清单说明.md",
+     "date": "2026-10-20"
+    }
+   ],
+   "notes": "（T16 触达史：Elsa 已触达 2025-02-28，无回复 → T06 已定由 Planet 仓发首触，发件时沿用本档 KP 与 P1，不用 info@ 群发口径）"
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  {
+   "name": "PA-011 Young B.T.S.",
+   "reason": "W12 第 4 次 HTTP 500（young.hu 全站）→ 停止自动重试；首触前人工打开或改用 securifocus 备用源"
+  },
+  {
+   "name": "PA-004 NSI Distribution",
+   "reason": "品牌页列表 JS 不可抓 → 首触前人工确认（W10 遗留）"
+  },
+  {
+   "name": "B ★★ 回查（W01–W03 建档户）",
+   "reason": "W12 只做了 ★★★ 四户；下一轮 PB-002 W3CAM / PB-003 … 每轮 ≤10 段"
+  },
+  {
+   "name": "PB-058 / PB-059 / PB-057 取证",
+   "reason": "README 第 16 条 ③ 未动：PB-058 现任总经理 + PLANET 款数、PB-059 PLANET 款号与人数、PB-057 KRS 人数"
+  },
+  {
+   "name": "SmartByte 官网归档解析（T15 build.py）",
+   "reason": "等 smartbyte-archiver 机器人提交落地后优先于任何挖掘"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "Connectec（connectec.uk）",
+   "reason": "池内（W05 B）再次命中"
+  },
+  {
+   "name": "La Maison du Câble / Abix / accessoires-informatiques（FR）",
+   "reason": "W02/W03/W09 已 skip 的电商/比价站再命中"
+  },
+  {
+   "name": "Tech Plaza（techplaza.pt）",
+   "reason": "W02 已 skip 的 B2B 电商再命中（revendedor 价格登录可见，无 PLANET 分销自述）"
+  },
+  {
+   "name": "Instaladores de Telecom Hoy（instaladoresdetelecomhoy.com）",
+   "reason": "西班牙行业媒体（PLANET 新品稿），非渠道"
+  },
+  {
+   "name": "Elenst（elenst.com，哥伦比亚）/ Net Computadores、Ello（巴西）",
+   "reason": "区域外（拉美）"
+  },
+  {
+   "name": "teknikpris.dk",
+   "reason": "丹麦比价站，非渠道"
+  }
+ ]
+}
