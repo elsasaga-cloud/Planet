@@ -54,6 +54,9 @@ updated: 2026-10-20
 - **【行业媒体】定位「专业分销商而非多品牌分销」，B2B 间接渠道**
   > 4Power nasce nel 2003 fondata da un gruppo di tecnici, progettisti e commerciali … puntando sul ruolo di distributore specialista e non distributore multimarca. L'offerta 4Power è centrata sul "business to business"
   > 来源：https://www.snewsonline.com/aziende/4power/（抓取 2026-10-19）
+- **【官网】【W10 回查】PLANET 官方分销页仍在线且 2026 年持续更新**
+  > 4Power è distributore ufficiale Planet Technology per l'Italia. … [Scarica il catalogo Planet](…/uploads/2026/04/Planet-2025-Product-Guide_ALL.pdf) … GS‑4210 vs GS‑5220: come scelgo la serie giusta? … Ampia disponibilità a magazzino in Italia
+  > 来源：https://www.4power.it/planet-soluzioni-networking-avanzate/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -191,4 +194,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

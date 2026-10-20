@@ -165,6 +165,8 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
+> ⚠ Mikrotik 同户 **C-116**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
+
 **主题**：Direct-sourced industrial PoE+ line beside your PLANET range
 
 ```text

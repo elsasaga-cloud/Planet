@@ -60,6 +60,9 @@ updated: 2026-10-20
 - **【工商】营收与成立**
   > ATECO 46.50.20 … Data inizio attività: 14 Maggio 1991 … Fatturato 2023: € 6.665.798
   > 来源：https://www.reportaziende.it/sirtel_srl_vr（抓取 2026-10-19）
+- **【官网】【W10 回查】PLANET 伙伴页仍在线**
+  > PLANET - SIR.tel. … Connessioni Globali: Planet … Planet Technology presentation - YouTube … SIR.Tel. srl
+  > 来源：https://sirtel.it/partner/planet/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -202,4 +205,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

@@ -53,6 +53,9 @@ updated: 2026-10-20
 - **【Mikrotik 仓库】已有记录 C-031（B 下放·无邮箱，Moxa 分销）**
   > 客户名单_反向信号_2026-09.csv 行 C-031
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **【官网】【W10 回查】PLANET 官方分销页仍在线**
+  > Distributore ufficiale PLANET Technology per l'Italia … Distributore autorizzato PLANET Technology … Azienda attiva fin dal 1981 … accedere al listino prezzi riservato PLANET Technology
+  > 来源：https://www.jampel.it/i-nostri-brand-partner/planet/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -154,6 +157,8 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
+> ⚠ Mikrotik 同户 **C-031**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。
+
 **主题**：Industrial 8-port PoE+ / 4 SFP DIN switch, second source to IGS-5225-8P4S
 
 ```text
@@ -188,4 +193,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

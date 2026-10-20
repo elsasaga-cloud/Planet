@@ -137,26 +137,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-**主题**：Industrial 8-port PoE+ / 4 SFP DIN switch for the Lysora line
-
-```text
-Hi Joseph,
-
-Lysora is already your own switch label, so a Marvell-based industrial 8-port PoE+ with ERPS could join the line without a new supplier onboarding.
-
-We build Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is STI-488DGGPM at $147.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which Lysora or PLANET industrial PoE size do your WISP customers take most, 8+4 SFP or 8+2?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **A-532**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STI-488DGGPM，$147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

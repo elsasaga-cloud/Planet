@@ -39,10 +39,10 @@ updated: 2026-10-20
 
 ## PLANET 关联证据（原文 + URL + 抓取日期）
 
-- **【公司自述】自述 PLANET 加拿大授权分销与销售伙伴**
+- **【公司自述】自述 PLANET 加拿大授权分销与销售伙伴（【W10 回查】该页已 404；现行证据见 store.ioctech.ca 首页 Featured Brands / planet-technology-canada）**
   > As the Authorized Distributor & Sales Partner for Planet Technology in Canada, iOC Tech delivers their innovative products and solutions
   > 来源：http://www.ioctech.ca/brands.aspx（抓取 2026-10-19）
-- **【公司自述】同时代理 CTC Union（台系工业以太网）等**
+- **【公司自述】同时代理 CTC Union（台系工业以太网）等（【W10 回查】该页已 404；现行证据见 store.ioctech.ca 首页 Featured Brands / planet-technology-canada）**
   > As an Authorized Canadian Distributor & Sales Partner of CTC Union, we bring their solutions for industrial and commercial applications to the Canadian marketplace.
   > 来源：http://www.ioctech.ca/brands.aspx（抓取 2026-10-19）
 - **【第三方】规模 1–10 / 2–10 人**
@@ -54,6 +54,9 @@ updated: 2026-10-20
 - **【公司自述】联系方式与定位（工业以太网 + 定制线缆）**
   > 877-592-4704 | sales@ioctech.ca … Supplier of Industrial Ethernet products in Canada
   > 来源：https://store.ioctech.ca/about-us（抓取 2026-10-19）
+- **【官网】【W10 回查】旧 brands.aspx 已 404；新站 Featured Brands 含 PLANET，首页首推 Planet IGS-4215-24T4X → 现役，证据 URL 更新**
+  > ## Featured Products … store.ioctech.ca/ProductDetail/Planet-Technology-IGS-4215-24T/… … ## Featured Brands … adder-technology-canada … attabox-canada … patton-canada … planet-technology-canada … seh-technology-canada
+  > 来源：https://store.ioctech.ca/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -186,4 +189,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

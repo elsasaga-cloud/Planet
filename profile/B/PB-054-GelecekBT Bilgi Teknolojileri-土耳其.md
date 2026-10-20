@@ -22,8 +22,8 @@ updated: 2026-10-20
 - **是谁**：伊斯坦布尔 Perpa 商贸中心的小型网络/工业通信分销商，卖 PLANET 工业件，同时独家分销本地品牌 CLR Networks
 - **为什么值得跟**：需求：PLANET 品牌页 14+ 款在售 + 主业工业/PoE 交换机 + 本地品牌独家分销；触达：satis@gelecekbt.com（官网页脚公开）、bayi@gelecekbt.com（Perpa 商贸中心名录 / list.istanbul 名录，待核）；体量小（2–10 人），决策链短；土耳其在区域内（T05）→ B。贸易条款按 Q-07 默认 USD EXW
 - **P1（首触唯一主推）**：STI-288DGGPM — 其自述主业「endüstriyel switch ve PoE çözümleri」、PLANET 页以工业件为主（BSP / IGS M12 / WGR-500 / ELA-100）→ 工业 8 口千兆 PoE 管理型 DIN 导轨为对位主推；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：For the industrial PoE projects you quote today, is the DIN-rail 8-port Gigabit PoE managed tier the one you need a second source for, or the 16/24-port?
-- **最大未知**：CLR Networks 是否为其自控贴牌线（决定 20% 还是 30% 档与 ODM 话术）；年走量；bayi@ 是否有效
+- **第一问（只问一个）**：For the CLR-IES-G824P slot, is a replacement with 8 Gigabit PoE+ ports and 2 SFP uplinks (managed, DIN-rail) what you need, or do you want the 4-SFP layout kept?
+- **最大未知**：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效
 - **下一步**：未触达；按本档首触邮件由用户在仓库外发出，回复后更新本档
 
 ## 基本事实（事实/推断/假设分层）
@@ -35,7 +35,7 @@ updated: 2026-10-20
 | 网站 | gelecekbt.com | 事实 |
 | 类型 | 分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人） | 事实（厂商/官网口径） |
 | PLANET 关联 | gelecekbt.com/planet 品牌页在售：ELA-100、WGR-500、FSD-805S15、BSP-300、BSP-360、POE-TESTER、IGS-5227-4MP2MT、MC-1500R、AIS-1000、FTP-802、GPL-GSFP-C+、GT-802S、XT-705A、POE-163（多数「İletişime Geçiniz」询价制） | 事实（见下节证据） |
-| 自有品牌 | 否（但为土耳其本地品牌 CLR Networks 独家分销；站内 IGS-5227-4MP2MT 图片存于 catalog/CLR_Networks/ 目录 → CLR 是否为其自控贴牌线待补证） | 待补证 |
+| 自有品牌 | 疑似（待核）：独家分销的 CLR Networks 为工业 PoE 主力（44 款 vs Planet 3 款），独立品牌站 clrnetworks.com，型号为中国 ODM 通用命名 → 大概率自控贴牌 | 待补证 |
 | 地址 | Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Şişli, İstanbul（总部：Halil Rıfat Paşa Mah. Güler Sk. No:48 D:3） | 事实/自述 |
 | 法人 | Gelecek Yönetim Merkezi Eğt. Dan. ve Teknoloji Hiz. İth. İhr. San. Tic. Ltd. Şti. | 事实/自述 |
 | 成立 | 2004 | 事实/自述 |
@@ -58,6 +58,15 @@ updated: 2026-10-20
 - **【第三方名录】类型自述「Distribütör」、关键词 POE Switch**
   > GelecekBT Bilgi Teknolojileri … Tür: Distribütör … Kuruluş yılı: 2004 … Anahtar: POE Switch, fiber optik, SFP Modül … bayi@gelecekbt.com
   > 来源：https://list.istanbul/tr/company-list/gelecekbt-bilgi-teknolojileri（抓取 2026-10-20）
+- **【卖方目录】【W10 补证】工业 PoE 类目品牌计数：CLR Networks 为主力、PLANET 为补充**
+  > Endüstriyel POE Switch Tip Dayanıklı 4-8-16-24Port … Markalar - 3Onedata (3) - Advantech (1) - Allied Telesis (1) - CLR Networks (44) - HP (1) - Microsens (1) - Moxa (1) - ONET Cabling Solutions (1) - Planet (3)
+  > 来源：https://gelecekbt.com/endustriyel-poe-switch（抓取 2026-10-20）
+- **【卖方目录】【W10 补证】CLR-IES-G824P 标 EoL（切入口）**
+  > Endüstriyel PoE Switch 10 Port RJ45 (8 POE) + 4 SFP Yönetilebilir @ CLR-IES-G824P … CLR Networks · Ürün Kodu: CLR-IES-G824P · Stok Durumu: EoL
+  > 来源：https://gelecekbt.com/CLR-IES-G824P（抓取 2026-10-20）
+- **【第三方（品牌站）】【W10 补证】CLR Networks 有独立品牌站（无公司信息）**
+  > CLR Networks 8 ports RJ45 10/100/1000M PoE and 2 SFP (1G) slots Fiber Optic Industrial Ethernet Switch Home > Products > Industrial POE Products > CLR-IES-G82P
+  > 来源：http://www.clrnetworks.com/products/CLR-IES-G82P_main.html（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -91,11 +100,11 @@ updated: 2026-10-20
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进邮件。
 
-### 第 1 次跟进 · 第二货源对位
+### 第 1 次跟进 · CLR 线 ODM 切入（EoL 替代）
 
 - **推什么**：STI-288DGGPM
-- **切入点**：工业 8 口千兆 PoE 管理型 DIN 导轨；EXW、小批量
-- **要问的问题**：For the industrial PoE projects you quote today, is the DIN-rail 8-port Gigabit PoE managed tier the one you need a second source for, or the 16/24-port?
+- **切入点**：以 EoL 的 CLR-IES-G824P 为切口，STI-288DGGPM 贴 CLR 标；EXW、小批量
+- **要问的问题**：For the CLR-IES-G824P slot, is a replacement with 8 Gigabit PoE+ ports and 2 SFP uplinks (managed, DIN-rail) what you need, or do you want the 4-SFP layout kept?
 - **随附/动作**：无附件
 
 ### 第 2 次跟进 · CLR 贴牌线核实
@@ -123,7 +132,7 @@ updated: 2026-10-20
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1（首触唯一）** | STI-288DGGPM | 主场景 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 其自述主业「endüstriyel switch ve PoE çözümleri」、PLANET 页以工业件为主（BSP / IGS M12 / WGR-500 / ELA-100）→ 工业 8 口千兆 PoE 管理型 DIN 导轨为对位主推；档位 20%：分销商 → 20%（CLR 贴牌线核实后可另按 30% 报） |
+| **P1（首触唯一）** | STI-288DGGPM | 主场景 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 其自述主业「endüstriyel switch ve PoE çözümleri」、PLANET 页以工业件为主（BSP / IGS M12 / WGR-500 / ELA-100）→ 工业 8 口千兆 PoE 管理型 DIN 导轨为对位主推；档位 20%：默认 20%（分销商）；首触确认 CLR Networks 为自控贴牌后改按 30%（OEM/ODM 定制）报价 |
 | 备选2 | STC-28DGGPM | 商用 8 口 PoE | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 过后的台阶，不进首触邮件 |
 | 备选3 | STI-488XGGPM | 工业 8 口 PoE + 10G 上联 | $165.0 USD EXW（20% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 工业骨干升级场景，不进首触邮件 |
 
@@ -170,16 +179,16 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：EXW second source for your DIN-rail PoE switch quotes
+**主题**：Replacement for your EoL CLR-IES-G824P slot, under the CLR label
 
 ```text
 Hi there,
 
-Your PLANET range is mostly quote-on-request industrial items; an EXW second source for the DIN-rail 8-port Gigabit PoE managed tier gives you a price point to quote against PLANET without holding stock.
+Your CLR Networks industrial PoE range lists the CLR-IES-G824P as EoL; a Marvell-based 8-port Gigabit PoE managed DIN-rail unit can take that slot under the CLR label, EXW, with the same 2-SFP uplink layout.
 
 We build Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is STI-288DGGPM at $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: For the industrial PoE projects you quote today, is the DIN-rail 8-port Gigabit PoE managed tier the one you need a second source for, or the 16/24-port?
+One question: For the CLR-IES-G824P slot, is a replacement with 8 Gigabit PoE+ ports and 2 SFP uplinks (managed, DIN-rail) what you need, or do you want the 4-SFP layout kept?
 
 If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

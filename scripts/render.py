@@ -226,9 +226,17 @@ def render_one(row, by_saga, by_sb):
         L.append(f"- [ ] {u}")
     L.append("")
     # 首触邮件
-    if grade in ("A", "B"):
+    mref = row.get("Mikrotik仓库对照编号", "") or ""
+    via_mikrotik = "首触以 Mikrotik 仓库为准" in (row.get("备注", "") or "")
+    if grade in ("A", "B") and via_mikrotik:
+        # 并档户：首触由 Mikrotik 仓库发，本仓不生成可发送邮件，避免同一客户被两仓各发一封
+        L.append("## 首触邮件：本仓不发（Mikrotik 同户并档）\n")
+        L.append(f"> 本户 = Mikrotik 仓库 **{mref}**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 {p1}，{price_str}）。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。\n")
+    elif grade in ("A", "B"):
         subj, body = email_template(row, c, p1, price_str.split("（")[0].strip() + " (price snapshot 2026-10-17, valid 15 days)")
         L.append("## 首触邮件（英文样板 · 可直接发送）\n")
+        if mref:
+            L.append(f"> ⚠ Mikrotik 同户 **{mref}**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。\n")
         L.append(f"**主题**：{subj}\n")
         L.append("```text\n" + body + "\n```\n")
         L.append("> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。\n")

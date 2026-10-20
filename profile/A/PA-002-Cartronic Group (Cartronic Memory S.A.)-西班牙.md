@@ -60,6 +60,9 @@ updated: 2026-10-20
 - **【行业媒体】2024/25 签约 Teltonika Networks 官方分销（多品牌 VAD）**
   > Cartronic Group firma un acuerdo como distribuidor oficial de Teltonika Networks
   > 来源：https://www.sumindustria.es/Empresa/EmpresaDetalle/2783（抓取 2026-10-19）
+- **【官网】【W10 回查】PLANET 官方分销页仍在线**
+  > Cartronic Group, distribuidor oficial de Planet Networking en España … FGSD-1011HP … GS-4210-24P4C … IGS-6325-24T4S … ISW-804PT-M12 … IGS-5225-4T2S
+  > 来源：https://cartronic.es/partners-planet-networking/（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -199,4 +202,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

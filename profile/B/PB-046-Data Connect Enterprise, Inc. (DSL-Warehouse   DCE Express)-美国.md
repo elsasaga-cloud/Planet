@@ -160,26 +160,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-**主题**：ODM industrial 8-port PoE switch under the DCE label
-
-```text
-Hi Daniel,
-
-You already put your own name on commercial and industrial connectivity products; an 8-port Gigabit PoE DIN-rail switch with ERPS ring and -40~75°C under the DCE label would sit next to your LRP extenders without adding a vendor your customers have to learn.
-
-We build Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is STI-288DGGPM at $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Do you source any DCE-branded industrial Ethernet switches from an ODM today, or would an 8-port Gigabit PoE DIN-rail unit under your own label be worth a sample?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **A-270**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STI-288DGGPM，$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

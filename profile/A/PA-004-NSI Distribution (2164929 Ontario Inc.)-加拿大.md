@@ -53,6 +53,9 @@ updated: 2026-10-20
 - **【第三方】分销 Lysora（Business Systems Connection 的自有品牌）**
   > Lysora … distributed by NSI Distribution（检索摘要）
   > 来源：https://www.nsidistribution.com/（抓取 2026-10-19）
+- **【卖方目录】【W10 回查】品牌页在线，但商品列表为 JS 加载、抓取结果为空 → 在售款数待补证（不改评级）**
+  > # Planet Technology … Filters … Loading... … Nothing found … Request Quote Request special pricing for your next project.
+  > 来源：https://www.nsidistribution.com/Brands/Planet-Technology-Corporation（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -190,4 +193,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

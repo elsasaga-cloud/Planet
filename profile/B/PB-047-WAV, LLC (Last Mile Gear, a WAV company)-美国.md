@@ -156,26 +156,9 @@ updated: 2026-10-20
 - [ ] 采购决策人与付款口径
 - [ ] 对 bt/LCD/云管理等 Saga 缺口的依赖程度
 
-## 首触邮件（英文样板 · 可直接发送）
+## 首触邮件：本仓不发（Mikrotik 同户并档）
 
-**主题**：Second-source 24-port PoE+ with 10G uplinks for your WISP partners
-
-```text
-Hi there,
-
-PLANET's XGSW-28040HP was the 24-port PoE+ with 10G uplinks on your Last Mile Gear shelf; a lower-tier L2+ unit with the same uplink spec gives your WISP partners a second source for tower and NOC closets.
-
-We build Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is STC-424XGGPM-280W at $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: For your WISP partners' tower and NOC sites, does a 24-port PoE+ switch with four 10G uplinks still move, or has demand shifted to 8-port units?
-
-If useful, I can send one unit to your office for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币 USD 并带快照日期；⑥ 分销商勿贬低 PLANET，只谈第二货源/贴牌。
+> 本户 = Mikrotik 仓库 **A-546; A-096**，按《客户分级与去重规则》§4 与 T06 裁决，首触只发一次、以 Mikrotik 仓库为准。本档只提供 PLANET 侧证据与对位（P1 STC-424XGGPM-280W，$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价））。Mikrotik 侧首触有回复且涉及 PLANET 线时，再据本档补一封对位邮件；届时话术另写，不用通用样板。
 
 ## 跟进记录
 

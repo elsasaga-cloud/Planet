@@ -45,6 +45,9 @@ updated: 2026-10-20
 - **【公司自述】1989 年起的捷克安防批发；联系人直邮**
   > Březinova 487/9, 186 00 Praha 8 … absolon@absolon.cz … tikovsky@absolon.cz … kacenova@absolon.cz（检索摘要）
   > 来源：https://www.absolon.cz/kontakt（抓取 2026-10-19）
+- **【卖方目录】【W10 回查】PLANET 厂商页仍在目录中**
+  > Výrobci > Planet Technology Corp. | Absolon.cz … Absolon.cz - váš dodavatel bezpečnostních technologií
+  > 来源：https://www.absolon.cz/katalog/vyrobci/planet-technology-corp.（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -182,4 +185,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*

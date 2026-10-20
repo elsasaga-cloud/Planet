@@ -67,6 +67,9 @@ updated: 2026-10-20
 - **【第三方】设有中国采购岗（名录口径，待核）**
   > Derek Wang (Procurement and Sourcing Representative, China)（RocketReach 管理层列表，检索摘要）
   > 来源：https://rocketreach.co/leteng-as-management_b5c42d09f42e0de2（抓取 2026-10-19）
+- **【卖方目录】【W10 回查】PLANET 厂商页在线，类目计数充实**
+  > Planet … Kategori: Industri (29) · Industri PoE (33) · Injector PoE (16) · Mediakonverter (34) · SFP mini-GBIC (21) · Switch - Managed (13) · Switch - Managed PoE (8) · Switch - Unmanaged PoE (6) … PoE Standard 802.3at(PoE+) (20) · 802.3bt(PoE++) (11) … 100+ på lager (i Oslo)
+  > 来源：https://www.leteng.no/produsenter1/planet（抓取 2026-10-20）
 
 ## 在卖/在用 PLANET 型号 → Saga 对位
 
@@ -205,4 +208,4 @@ Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing availab
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
