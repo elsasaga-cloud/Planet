@@ -5,9 +5,10 @@
   "T17「继续挖客户吧」：推翻 W12 停挖判定，改走新矿脉——① PLANET 成功案例/集成商；② 本地语「新分销商/授权伙伴」新闻稿与自述页（DE/IT/SK/HU/PL/TR）；③ US 'authorized reseller/partner' 与工业线卡（Antaira/Moxa 同柜）；④ CH/AT、BE/NL、CA 补查；⑤ 名录核身（finstat / orsr / KRS 镜像）",
   "结果：12 次 web_search + 6 段 fetch_page → **+2 户**（SK 1 / PL 1，均 B）：DATA Network（DATA GROUP SK s.r.o.，布拉迪斯拉发，IT 硬件经纪 + PLANET 授权伙伴页）、CTR / Elctron E-commerce Partners（华沙，CCTV 批发网店 + 安装，PLANET 35 款现货）——后者 W08 曾以「无 PLANET」skip，本轮发现其 /dystrybutor/planet 页 35 款现货 → 撤销 skip 入池",
   "矿脉评估：成功案例页（planet-taiwan.com/case-studies）被 reCAPTCHA 挡住且仅列国家/行业不列集成商 → 关闭；DE/IT/TR/HU/CH-AT/BE-NL/CA 本轮再次只回池内、区域外、电商与比价站 → 这些国家的 M11 角度确认耗尽；**SK 与 PL 的「授权伙伴自述页」仍有余量**（下轮可再试 CZ/SK/PL 的 'autorizovaný partner' 变体与 .eu 域名）",
-  "W02 遗留 NetSoft Solutions 区域核实 = 巴基斯坦 → 区域外 skip（pending 清零）"
+  "W02 遗留 NetSoft Solutions 区域核实 = 巴基斯坦 → 区域外 skip（pending 清零）",
+  "第二段（同轮追加 9 次查询）：CZ/IT/ES/DE/PL/UK 六国「授权伙伴/授权经销」本地语变体 + PL/CZ/IT 公共采购（招标/合同登记）矿脉试探 → 全部 0 新（命中 = 池内、EET 等巨头、拉美区域外、手册与比价站）→ **「授权伙伴自述页」矿脉在六国也已耗尽；公共采购矿脉的搜索引擎摘要不暴露供应商名（需进 TED/BZP/NEN 站内检索，列入 Q 清单候选而非本轮）**"
  ],
- "tools": "web_search ×12（depth 1–2）；fetch_page ×6（data-network.eu ×3、ctr.pl ×2、netsoft-solutions.net ×2、planet-taiwan.com ×1 失败）",
+ "tools": "web_search ×23（depth 1–2）；fetch_page ×6（data-network.eu ×3、ctr.pl ×2、netsoft-solutions.net ×2、planet-taiwan.com ×1 失败）；Gmail list_messages ×1（两户域名触达史）",
  "queries": [
   "\"PLANET Technology\" \"success story\" OR \"case study\" system integrator PoE switch Germany OR France OR Italy …（→ planet-taiwan.com 案例页仅列 Tunnel/France、Communication Station/Germany 等行业+国家，无集成商名；索引页 reCAPTCHA；其余 Cisco/EnGenius 噪音）",
   "\"PLANET Technology\" neuer Distributor OR Distributionsvertrag OR \"autorisierter Distributor\" Switch Deutschland -spectra -ipc2u -planet-germany -lwl-shop24 -triotronik（→ planet-germany.de 品牌站 / NetSoft Solutions（巴基斯坦）/ globall.ca、neteon ShopPlanet、nsidistribution、4power 均池内）",
@@ -22,7 +23,16 @@
   "\"PLANET Technology\" switch hivatalos forgalmazó OR viszonteladó OR disztribútor PoE -young -aspectis -powerbizt（→ 仅小米保修页「Planet Technology Kft.」同名噪音）",
   "\"autoryzowany dystrybutor\" OR \"oficjalny dystrybutor\" \"PLANET Technology\" switch PoE -versim -senetic -morele -fen.pl -rfog -eltrox -fonex -media-konwertery -planet.pl -zintronic -mbs-systems（→ **ctr.pl/dystrybutor/planet 35 款现货** 新；sklep-bcs.pl = mbs-systems 子站；digikey / consteel 噪音）",
   "\"DATA GROUP SK\" s.r.o. Bratislava Tomášikova 19 IČO（核身：prever.to / registeruz / valida / finstat / orsr / dnb）",
-  "\"Elctron E-commerce Partners\" KRS 0001031273（核身：krs-pobierz / imsig / rejestr.io / vrejestr / aleo / gowork）"
+  "\"Elctron E-commerce Partners\" KRS 0001031273（核身：krs-pobierz / imsig / rejestr.io / vrejestr / aleo / gowork）",
+  "\"PLANET\" switch \"autorizovaný partner\" OR \"autorizovaný prodejce\" OR \"autorizovaný distributor\" PoE Česko -100mega -planet-technology.cz -absolon -proficomms -ergate -cctv-shop -kamerovysvet -alza -czc（→ planet-tech.cz / asm.cz（100MEGA 池内）、absolon（池内）、kamerovysvet（池内）、planetaelektroniky 噪音 → 0 新）",
+  "\"PLANET Technology\" \"partner autorizzato\" OR \"rivenditore autorizzato\" OR \"distributore autorizzato\" switch PoE Italia -4power -jampel -kyma -sirtel -lastella -digitx -compass -sistel -prospeo（→ EET Group 意大利页（巨头 C）、Tecnos/GoCamera 噪音 → 0 新）",
+  "\"PLANET Technology\" \"partner autorizado\" OR \"distribuidor autorizado\" OR \"distribuidor oficial\" switch PoE España -cartronic -anatronic -intermedia -garmasl -pccomponentes -amazon（→ EET 葡萄牙页、Full Protection（仅拉美）、Planet Ello（巴西）、Elenst（哥伦比亚）、Sierra Store / Global Office（墨西哥）→ 全部区域外，0 新）",
+  "\"PLANET Technology\" \"autorisierter Partner\" OR \"autorisierter Händler\" OR \"offizieller Distributor\" Switch PoE -spectra -ipc2u -planet-germany -lwl-shop24 -triotronik -w3cam -fiber24 -industry-electronics -amazon（→ 仅 lwl-shop24 Markenwelt（池内 BTS）+ 宝可梦噪音 → 0 新）",
+  "\"PLANET\" \"oficjalny partner\" OR \"autoryzowany partner\" OR \"autoryzowany sprzedawca\" switch PoE sklep -versim -senetic -morele -fen.pl -rfog -eltrox -fonex -media-konwertery -planet.pl -zintronic -mbs-systems -ctr.pl -allegro（→ 仅 matyspc TP-Link 噪音 → 0 新）",
+  "\"PLANET Technology\" \"authorised partner\" OR \"authorised distributor\" OR \"official distributor\" switch PoE UK OR Ireland -connectec -ballicom -cms -provu -oprema -eet -cablenet -amazon -ebay（→ Network Warehouse / Anglia / Purdicom 均无 PLANET → 0 新）",
+  "\"PLANET\" \"GS-4210\" OR \"IGS-\" przetarg OR \"zamówienie publiczne\" wykonawca switch …（公共采购矿脉试探 PL → neteon 池内、iopan/mpn 招标 PDF 无供应商名、geizhals 比价 → 0 新）",
+  "\"PLANET\" switch \"GS-4210\" OR \"IGS-\" \"veřejná zakázka\" OR \"vybraný dodavatel\" OR \"smlouva\" registr smluv -100mega -asm.cz（CZ → senetic.co.il、absolon 池内、**edshop.edsystem.cz = eD system a.s.（CZ 大型宽线分销 → 巨头 C 规则，skip）**、manualslib/manuals.plus → 0 新）",
+  "\"Planet Technology\" switch \"GS-4210\" OR \"IGS-\" appalto OR \"determina\" OR \"affidamento\" fornitore MEPA -4power -jampel -kyma（IT → 全为手册/planet.com.tw/4power 池内 → 0 新）"
  ],
  "customers": [
   {
@@ -407,8 +417,8 @@
    "reason": "未动"
   },
   {
-   "name": "SK/PL/CZ 'autorizovaný partner' + .eu 域名变体",
-   "reason": "W13 唯一仍有余量的矿脉（本轮 2/2 新户均来自此角度）"
+   "name": "公共采购站内检索（TED / PL BZP / CZ NEN-registr smluv / IT MEPA）找中标集成商",
+   "reason": "W13 搜索引擎层试探 0 新但未进站内；是否值得投入 → 记 Q 清单候选（守界：只找供应商，不向公共部门推）"
   },
   {
    "name": "SmartByte 官网归档解析（T15 build.py）",
@@ -475,6 +485,18 @@
   {
    "name": "planet-taiwan.com 案例页",
    "reason": "仅行业+国家，无集成商名；索引页 reCAPTCHA 拦截 → 矿脉关闭"
+  },
+  {
+   "name": "eD system a.s.（edshop.edsystem.cz，CZ）",
+   "reason": "捷克/斯洛伐克大型宽线 IT 分销（PLANET 为上万 SKU 之一）→ 巨头 C 规则，不入池"
+  },
+  {
+   "name": "Full Protection（拉美专营）/ Planet Ello（BR）/ Elenst（CO）/ Sierra Store、Global Office（MX）",
+   "reason": "区域外（自述仅拉美/巴西/哥伦比亚/墨西哥）"
+  },
+  {
+   "name": "Network Warehouse / Anglia Components / Purdicom（UK）",
+   "reason": "线卡无 PLANET（Cisco/Aruba/Ubiquiti；元器件；Ruckus/Cambium）"
   }
  ]
 }
