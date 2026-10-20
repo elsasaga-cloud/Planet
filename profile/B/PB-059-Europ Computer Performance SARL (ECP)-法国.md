@@ -152,7 +152,7 @@ updated: 2026-10-20
 **主题**：Second source for your 8-port Gigabit PoE managed slot
 
 ```text
-Hi there,
+Hi Europ Computer Performance team,
 
 You already import and stock a PoE switch slot under the PLANET tag for your reseller base; an EXW-direct 8-port Gigabit PoE managed unit in neutral packing gives that slot a second source with importer-level margin.
 

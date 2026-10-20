@@ -162,7 +162,7 @@ updated: 2026-10-20
 **主题**：EXW second source for your 8-port PoE managed tier
 
 ```text
-Hi there,
+Hi ViSe team,
 
 Your PoE Solutions range starts with the GS-4210-8P2S class for IP-camera installs; an EXW second source for that 8-port Gigabit PoE managed tier gives your installers the same slot at a lower landed cost.
 

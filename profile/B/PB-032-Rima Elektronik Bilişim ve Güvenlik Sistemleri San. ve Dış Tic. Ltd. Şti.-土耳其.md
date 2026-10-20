@@ -144,7 +144,7 @@ updated: 2026-10-20
 **主题**：PoE+ switches at integrator pricing for Rima's camera projects
 
 ```text
-Hi there,
+Hi Rima Elektronik team,
 
 Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design.
 

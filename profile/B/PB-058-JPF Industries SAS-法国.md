@@ -166,7 +166,7 @@ updated: 2026-10-20
 **主题**：EXW-direct 8-port Gigabit PoE managed switch for your installs
 
 ```text
-Hi there,
+Hi JPF Industries team,
 
 Your 8-port PoE slot for IP-camera and Wi-Fi points today runs on a Fast Ethernet PoE+ unit bought through a national distributor; an EXW-direct 8-port Gigabit PoE managed switch gives your installers the same slot at gigabit speed with one less margin layer.
 

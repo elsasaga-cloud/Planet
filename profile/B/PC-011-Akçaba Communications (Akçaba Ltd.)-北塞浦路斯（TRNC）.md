@@ -153,7 +153,7 @@ updated: 2026-10-20
 **主题**：Attn Faize Akçaba – second-source 24-port PoE+ for Akçaba's turnkey projects
 
 ```text
-Hi there,
+Hi Akçaba Communications team,
 
 Your shop lists PLANET's 24-port PoE+ at $550 and the industrial L3 unit at $1,350; a direct-sourced managed PoE+ at a lower tier gives your turnkey projects the same spec with more margin.
 

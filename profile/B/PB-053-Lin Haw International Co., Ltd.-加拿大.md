@@ -163,7 +163,7 @@ updated: 2026-10-20
 **主题**：Second source for your PoE switch imports, same EXW lane
 
 ```text
-Hi there,
+Hi Lin Haw International team,
 
 You've imported switches direct from Taiwan before and run your own PC Cable World line; an EXW second source for the 8- and 24-port Gigabit PoE managed tiers, neutral or under your label, drops into the same import lane.
 

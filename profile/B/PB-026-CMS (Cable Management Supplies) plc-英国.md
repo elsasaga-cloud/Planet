@@ -150,7 +150,7 @@ updated: 2026-10-20
 **主题**：Managed 24-port PoE+ to extend your PLANET switch line
 
 ```text
-Hi there,
+Hi CMS team,
 
 Your PLANET range stops at unmanaged FE/GE units; a managed 24-port PoE+ at distributor pricing fills the gap your IP-security installers ask for.
 

@@ -182,7 +182,7 @@ updated: 2026-10-20
 **主题**：Replacement for your EoL CLR-IES-G824P slot, under the CLR label
 
 ```text
-Hi there,
+Hi GelecekBT Bilgi Teknolojileri team,
 
 Your CLR Networks industrial PoE range lists the CLR-IES-G824P as EoL; a Marvell-based 8-port Gigabit PoE managed DIN-rail unit can take that slot under the CLR label, EXW, with the same 2-SFP uplink layout.
 

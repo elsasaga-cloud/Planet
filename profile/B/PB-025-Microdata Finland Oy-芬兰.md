@@ -149,7 +149,7 @@ updated: 2026-10-20
 **主题**：Second-source 24-port PoE+ switch for Microdata's resellers
 
 ```text
-Hi there,
+Hi Aki,
 
 You list the GS-4210-24P4C for your resellers; a second-source 24-port PoE+ at a lower tier gives them the same spec with better margin.
 

@@ -152,7 +152,7 @@ updated: 2026-10-20
 **主题**：Second-source 24-port PoE+ next to your PL-GS-4210 line
 
 ```text
-Hi there,
+Hi Bimel Elektronik Mamulleri Pazarlama team,
 
 Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you.
 

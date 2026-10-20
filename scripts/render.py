@@ -5,6 +5,7 @@ render.py — 由主表 CSV + batch/*.json 渲染 profile/A|B|C/<编号>-<公司
 不要手改档案；改 JSON 后重跑。A 类全骨架；B/C 精简骨架（同节名、少段落）。
 用法：python scripts/render.py [PA-001 ...]
 """
+import re
 import datetime, json, os, re, shutil, sys
 from common import read_csv, load_batches, load_prices, price_line, PROFILE_DIR, ROOT
 
@@ -42,9 +43,29 @@ def gather(code):
 
 
 def email_template(row, c, p1, price_str):
-    name = (c.get("contacts") or [{}])[0].get("name") or ""
-    # 占位联系人（「—（销售）」等）不是人名：问候语退回 there，避免把占位符抄进邮件
-    first = name.split()[0] if name and not name.startswith("—") else "there"
+    contacts = c.get("contacts") or [{}]
+    name = contacts[0].get("name") or ""
+    # 占位联系人（「—（销售）」等）不是人名：问候语不抄占位符。
+    # W13 修缺陷：首联系人为通用信箱时，优先用第 2 位「有邮箱的具名人」；否则用「<公司短名> team」而非干巴巴的 there。
+    if name and not name.startswith("—"):
+        first = name.split()[0]
+    else:
+        named = next((k for k in contacts[1:] if k.get("email") and k.get("name") and not k["name"].startswith("—")), None)
+        if named:
+            first = named["name"].split()[0]
+        else:
+            short = c.get("short_name") or ""
+            if not short:
+                short = re.split(r"\s*[（(]", row["公司名"], 1)[0]
+                short = re.split(r"\s+(?:/|–|—)\s+", short, 1)[0]
+                suffix = r"(?:S\.?r\.?l\.?|S\.?p\.?A\.?|S\.?A\.?S\.?|S\.?A\.?|S\.?L\.?|Ltd\.?|Limited|LLC|LLP|Inc\.?|GmbH|AG|BV|B\.V\.|Sp\.?\s*z\s*o\.?o\.?|sp\.?\s*j\.?|s\.?r\.?o\.?|Kft\.?|Zrt\.?|Oy|AB|AS|A/S|ApS|Lda\.?|SARL|EURL|SAS|plc|Co\.?|Corp\.?|Company|A\.Ş\.|San\.|Tic\.|Şti\.)"
+                short = re.sub(r"(?:^|[\s,]+)" + suffix + r"(?=[\s,.]|$)", " ", short, flags=re.I)
+                short = re.sub(r"\s+", " ", short).strip(" ,-·")
+                words = short.split()
+                if len(words) > 4:
+                    short = " ".join(words[:2])
+                short = short or row["公司名"]
+            first = f"{short} team"
     t = row["类型"]
     company = row["公司名"]
     country = row["国家"]

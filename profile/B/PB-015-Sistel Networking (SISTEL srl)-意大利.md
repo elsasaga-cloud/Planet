@@ -141,7 +141,7 @@ updated: 2026-10-20
 **主题**：Industrial 8-port PoE+ DIN switch, second source to IGS-10020HPT class
 
 ```text
-Hi there,
+Hi Sistel Networking team,
 
 Sistel Networking builds its industrial Ethernet offer around PLANET DIN-rail switches for installers, so a second source in the same form factor protects your delivery dates.
 

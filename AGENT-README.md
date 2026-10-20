@@ -80,6 +80,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | PR-02 · T15 官网全量归档 | 2026-10-20 | 用户「所有信息 everything」→ 建 GitHub Actions 整站归档器（crawl.py：BFS 同域 + 附件 + 图片 + 清单 + pdftotext）；推送 `.github/workflows/` 被拒（App 无 workflows 权限，Contents API 亦 403）→ 生成预填链接请 Simon 网页端保存；fetch_page 补齐非产品页 14/14（固件 5.x/6.x/7.x 全文、旧站简介 ×4、Factory Tour 28 图、页头页脚）；Q-24；经验：沙箱出网白名单只有 github/pypi/npm，站点抓取要么 fetch_page 要么借 Actions 运行器 | 87（不变） | errors: 0 |
 | PR-02 · T16 Saga 口径 + 触达表 | 2026-10-20 | 用户 T16 落账（对话全记录 T16 / T16-R）；Saga 自有口径文档；render.py 模板 3 处修订（落款 / We supply / 保修措辞）→ 87 档重渲染；Gmail `in:sent` 分页 5 页 + 87 户 `to:` 定向查询（经验：带连字符域名要加引号；`to:` 零命中时 Gmail 退化为模糊匹配、估计数跳回 201 → 视为无命中）；Q-21 落地 / Q-24 结案 / Q-19 收窄 / Q-25 新增；归档 Action 的机器人提交未出现（commit 前必须 `git pull --rebase`） | 87（不变） | errors: 0 |
 | PR-02 · W12 | 2026-10-20 | B ★★★ 回查 4/4 现役（fetch_page ×4）；PA-011 第 4 次 500 → 停止自动重试；挖掘 6 次 0 新（饱和判定，W13 起挖掘停止）；批次 `batch/2026-10-20_W12_*.json` 只有 6 条 refresh（4 回查 + PA-006/PB-036 触达史），add_batch merged=6 / added=0；README 第 16 条标记已执行、新增第 17 条 W13 计划 | 87（不变） | errors: 0 |
+| PR-02 · W13 | 2026-10-20 | T17 用户令「继续挖客户吧」→ 新矿脉 12 查询 + 6 抓取 → +2 户（PB-060 SK / PB-061 PL，均 B，20% 档）；批次 `batch/2026-10-20_W13_新矿脉补挖_SK-PL.json`（含 `short_name`、`gmail_check` 两个新可选字段）；add_batch added=2 / merged=0；render.py 问候语缺陷修复（通用信箱 → 「Hi <短名> team,」，去法律后缀，>4 词截前 2 词）；README 第 17 条标记已执行 + 第 18 条 W14 计划 | 89 | errors: 0 |
 
 ## 5. 已知坑（本仓库）
 

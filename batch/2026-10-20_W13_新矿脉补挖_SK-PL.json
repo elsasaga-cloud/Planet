@@ -1,0 +1,480 @@
+{
+ "batch": "2026-10-20_W13_新矿脉补挖_SK-PL（T17 继续挖）",
+ "date": "2026-10-20",
+ "method": [
+  "T17「继续挖客户吧」：推翻 W12 停挖判定，改走新矿脉——① PLANET 成功案例/集成商；② 本地语「新分销商/授权伙伴」新闻稿与自述页（DE/IT/SK/HU/PL/TR）；③ US 'authorized reseller/partner' 与工业线卡（Antaira/Moxa 同柜）；④ CH/AT、BE/NL、CA 补查；⑤ 名录核身（finstat / orsr / KRS 镜像）",
+  "结果：12 次 web_search + 6 段 fetch_page → **+2 户**（SK 1 / PL 1，均 B）：DATA Network（DATA GROUP SK s.r.o.，布拉迪斯拉发，IT 硬件经纪 + PLANET 授权伙伴页）、CTR / Elctron E-commerce Partners（华沙，CCTV 批发网店 + 安装，PLANET 35 款现货）——后者 W08 曾以「无 PLANET」skip，本轮发现其 /dystrybutor/planet 页 35 款现货 → 撤销 skip 入池",
+  "矿脉评估：成功案例页（planet-taiwan.com/case-studies）被 reCAPTCHA 挡住且仅列国家/行业不列集成商 → 关闭；DE/IT/TR/HU/CH-AT/BE-NL/CA 本轮再次只回池内、区域外、电商与比价站 → 这些国家的 M11 角度确认耗尽；**SK 与 PL 的「授权伙伴自述页」仍有余量**（下轮可再试 CZ/SK/PL 的 'autorizovaný partner' 变体与 .eu 域名）",
+  "W02 遗留 NetSoft Solutions 区域核实 = 巴基斯坦 → 区域外 skip（pending 清零）"
+ ],
+ "tools": "web_search ×12（depth 1–2）；fetch_page ×6（data-network.eu ×3、ctr.pl ×2、netsoft-solutions.net ×2、planet-taiwan.com ×1 失败）",
+ "queries": [
+  "\"PLANET Technology\" \"success story\" OR \"case study\" system integrator PoE switch Germany OR France OR Italy …（→ planet-taiwan.com 案例页仅列 Tunnel/France、Communication Station/Germany 等行业+国家，无集成商名；索引页 reCAPTCHA；其余 Cisco/EnGenius 噪音）",
+  "\"PLANET Technology\" neuer Distributor OR Distributionsvertrag OR \"autorisierter Distributor\" Switch Deutschland -spectra -ipc2u -planet-germany -lwl-shop24 -triotronik（→ planet-germany.de 品牌站 / NetSoft Solutions（巴基斯坦）/ globall.ca、neteon ShopPlanet、nsidistribution、4power 均池内）",
+  "\"PLANET Technology\" nuovo distributore OR \"distributore ufficiale\" … Italia -jampel -4power -kyma …（→ 仅 prospeo 名录噪音）",
+  "\"PLANET Technology\" \"authorized reseller\" OR \"authorized partner\" OR \"value added reseller\" PoE switch USA -planetechusa -pulsesupply …（→ **data-network.eu（SK）** 新；其余 WCCTV/D-Link/Cisco 社区噪音）",
+  "\"PLANET Technology\" Switch Distributor OR Fachhandel OR Systemhaus Schweiz OR Österreich PoE -triotronik -digitec -brack -galaxus -spectra -ipc2u（→ industry-electronics.com（W07 已 skip）、planetechusa、data-network.eu 重复）",
+  "\"PLANET Technology\" switch distributeur OR verdeler OR groothandel België OR Nederland PoE -alarmsysteemexpert -shop4power -bol.com -coolblue（→ 仅 darty.com 法国市场卖家 Electro Store / NEGOCIE PLUS / ASD / La Boutique du Net）",
+  "\"PLANET Technology\" switch distribütörü OR \"yetkili satıcı\" OR bayi Türkiye PoE -rima -nokta -bimel -ergen -akcaba -gelecekbt -akakce -cimri（→ 池内 bimel / nokta / ergen / gelecekbt；smartlink.com.tr（W09 skip）；Arena 2022 旧闻（巨头 C）；newegg 噪音）",
+  "\"PLANET Technology\" switch autorizovaný OR \"oficiálny distribútor\" OR \"autorizovaný partner\" Slovensko OR Slovakia PoE -tssgroup -iotkomponenty -data-network（→ 100MEGA/planet-technology.cz 池内；planet.com.ru / novacom.ru / planet.kiev.ua / wisp.net.au 区域外；eetgroup 巨头 C）",
+  "\"Planet Technology\" \"Antaira\" OR \"Moxa\" OR \"Red Lion\" distributor industrial networking switches USA line card -marugged -neteon …（→ Maktonet（UAE）、alvasta-tech（无地域/Elsa 群发收件人）、RSP Supply / MSI Tec / Express Systems 纯 Moxa 无 PLANET → 无新）",
+  "\"PLANET Technology\" distributor OR reseller Canada PoE switch -globall -nsidistribution -ioctech -microsam -linhaw -abptech -linhawstore（→ 池内 ioctech / nsidistribution；deploydepot.ca 站内 0 结果；provu 博文为英国池内）",
+  "\"PLANET Technology\" switch hivatalos forgalmazó OR viszonteladó OR disztribútor PoE -young -aspectis -powerbizt（→ 仅小米保修页「Planet Technology Kft.」同名噪音）",
+  "\"autoryzowany dystrybutor\" OR \"oficjalny dystrybutor\" \"PLANET Technology\" switch PoE -versim -senetic -morele -fen.pl -rfog -eltrox -fonex -media-konwertery -planet.pl -zintronic -mbs-systems（→ **ctr.pl/dystrybutor/planet 35 款现货** 新；sklep-bcs.pl = mbs-systems 子站；digikey / consteel 噪音）",
+  "\"DATA GROUP SK\" s.r.o. Bratislava Tomášikova 19 IČO（核身：prever.to / registeruz / valida / finstat / orsr / dnb）",
+  "\"Elctron E-commerce Partners\" KRS 0001031273（核身：krs-pobierz / imsig / rejestr.io / vrejestr / aleo / gowork）"
+ ],
+ "customers": [
+  {
+   "_code": "PB-060",
+   "name": "DATA GROUP SK s.r.o. (DATA Network)",
+   "country": "斯洛伐克",
+   "city": "Bratislava（Tomášikova 19；注册地 Geologická 34）",
+   "website": "data-network.eu",
+   "type": "IT 硬件经纪/经销（新品 + 翻新 Cisco / HPE / Juniper / Huawei / Dell 等 15+ 品牌，面向终端企业、经销商、租赁公司与 MSP；自述 PLANET 授权伙伴，提供硬件 + 安装 + 售后；退换货覆盖 AT/CZ/DE/HU/PL/SK）",
+   "signal": "data-network.eu/buy_planet 整页 PLANET 产品线（L2+/L3 管理型、L2/L4、工业 DIN 导轨 / 机架 / PoE、工业无线与 5G 网关、媒体转换器），自称 \"As DATA Group, we're proud authorized PLANET partners\"；首页品牌墙含 PLANET logo 链接",
+   "own_brand": "否",
+   "angle": "经纪商以翻新 Cisco/HPE 的价位卖给经销商/MSP——Saga 的 Marvell 新品管理型 PoE 交换机给它一个「同预算的新品替代」SKU，EXW 直供、无最低起订；其 PLANET 页只做询价表单（无库存价目），说明 PLANET 是按单采购 → 第二货源切换成本低",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "经销商/MSP 询价最多的通用槽位是 24 口千兆 PoE 管理型（对位其 PLANET GS-4210-24P4C / GS-5220 类目）；24 口 280W 新品价位可与翻新 Cisco 2960-X PoE 同台",
+   "tier": 0.2,
+   "tier_reason": "分销/经销（转售给经销商与 MSP）→ 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 授权伙伴页 + 品牌墙，但为询价表单制、无库存证据，且主业是翻新大牌经纪（PLANET 为边线）→ 需求可信度中等；触达：info@data-network.eu（官网页脚公开）、+421 949 457 169；体量可赢（2 人、2025 营收 €2.77M、资本 €5k，2022 年设立、外资 50/50 两位乌克兰裔董事）；无具名采购邮箱 → B ★",
+   "source": "M11 授权措辞查询（US 'authorized partner' 查询意外命中 .eu 站）+ M9 名录核身（prever.to / registeruz.sk / valida.sk / finstat.sk / orsr.sk / D&B）",
+   "planet_models": [
+    "GS-4210-8UP2S",
+    "GS-2210-24P2S",
+    "IGS-6325-24P4X",
+    "IGS-5225-8P4S",
+    "WGS-6325-8UP2X",
+    "WGS-4215-8HP2S"
+   ],
+   "model_map": {
+    "GS-4210-8UP2S": {
+     "saga": "STC-28DGGPM（802.3at 档）",
+     "note": "PLANET 为 8 口 bt 95W；Saga 8 口 PoE+ 2 SFP 管理型作同槽位 at 档"
+    },
+    "GS-2210-24P2S": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24 口 PoE 智能/管理型同槽位"
+    },
+    "IGS-5225-8P4S": {
+     "saga": "STI-288DGGPM",
+     "note": "DIN 导轨 8 口千兆 PoE + SFP 管理型同槽位"
+    },
+    "IGS-6325-24P4X": {
+     "saga": "—",
+     "note": "机架式 L3 工业 24 口 PoE + 10G，Saga 工业线暂无 24 口机架对应"
+    },
+    "WGS-6325-8UP2X": {
+     "saga": "—",
+     "note": "壁挂 L3 bt PoE++ + 10G，Saga 暂无对应"
+    },
+    "WGS-4215-8HP2S": {
+     "saga": "STI-288DGGPM（DIN 版）",
+     "note": "壁挂 8 口 PoE 管理型；Saga 以 DIN 导轨款对位，安装形态不同"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（公司通用）",
+     "role": "contact",
+     "email": "info@data-network.eu",
+     "phone": "+421 949 457 169",
+     "status": "公开（官网页脚 + 隐私政策 + D&B 同号）",
+     "source": "https://data-network.eu/"
+    },
+    {
+     "name": "Denys Ptakhin / Maksym Kalashnik",
+     "role": "konateľ（执行董事，各持 50%）",
+     "email": "",
+     "phone": "",
+     "status": "仅商业登记，无邮箱；不作触达对象",
+     "source": "https://valida.sk/54910447"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官方自述",
+     "claim": "PLANET 授权伙伴自述与整条 PLANET 产品线（询价制）",
+     "quote": "PLANET Technology, a leading provider of networking products and solutions for business, enterprise, and home. As DATA Group, we're proud authorized PLANET partners, offering hardware, licenses, installation, and superior post-sale support at great prices. Our product lineup features a wide range of PLANET Technology solutions, including Industrial Layer 3 Switches … Layer L2/L4 Managed Ethernet Switches – GS-4210-8UP2S … Layer 2 Smart Ethernet Switches – GS-2210-24P2S … DIN-rail Ethernet Switches – L2+ Ring Managed Gigabit Ethernet Switch (IGS-20040MT, IGS-5225-8P4S) … Industrial Flat-type Ethernet – L3 Managed PoE Switch (WGS-6325-8UP2X) … L2/L4 Managed PoE Switch (WGS-4215-8HP2S, WGS-804HPT)",
+     "url": "https://data-network.eu/buy_planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "定位、客群、年限、品牌墙（含 PLANET）与公开联系方式",
+     "quote": "DATA Network is an IT Hardware Consulting group providing flexible, creative solutions in hardware procurement … A specialist distributor of active network equipment, data storage systems and IP telephony … we leverage our extensive 10-year industry expertise … Our clientele spans … end-user companies, resellers, leasing firms, and managed service providers … DATA Network sells IT equipment for 30-70% off list price … info@data-network.eu · Tomášikova 19, Bratislava, Slovakia · +421 949 457 169 … We accept returns and exchanges in the following countries: Austria, Czech Republic, Germany, Hungary, Poland, Slovakia",
+     "url": "https://data-network.eu/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "法人、注册日、人数、营收",
+     "quote": "DATA GROUP SK s.r.o. (IČO: 54910447) je spoločnosť so sídlom na adrese Geologická 34, 82106 Bratislava … Za posledné obdobie (2025) dosiahla tržby vo výške 2 771 909,00 € (+21,10 % medziročne) … zisk po zdanení predstavoval 60 871,00 € … Dátum vzniku (zápisu): 05. 10. 2022 … Výroba počítačových, elektronických a optických výrobkov; … Kúpa tovaru na účely jeho predaja",
+     "url": "https://prever.to/firma/54910447",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "股东/董事、资本、外资属性",
+     "quote": "Štatutárny orgán: Denys Ptakhin, konateľ Maksym Kalashnik, konateľ IČO: 54910447 … Základné imanie: 5 000 EUR Druh vlastníctva: Zahraničné – Denys Ptakhin (50,0%) – Maksym Kalashnik (50,0%)",
+     "url": "https://valida.sk/54910447",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "雇员规模",
+     "quote": "Kategória zamestnancov 2026: 2 zamestnanci … Dátum vzniku streda 5. októbra 2022 … Základné imanie Podľa ORSR: 5 000 €",
+     "url": "https://finstat.sk/54910447",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "D&B 绑定网站与电话",
+     "quote": "DATA GROUP SK s.r.o. Address: Geologická 34 Bratislava, 821 06 Slovakia Phone: +421-949457169 Website: www.data-network.eu",
+     "url": "https://www.dnb.com/business-directory/company-profiles/data-group-sk-sro.efc485237c03a8d1ed78b16c749afffc",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "Tomášikova 19, Bratislava（官网）；注册地 Geologická 34, 821 06 Bratislava",
+    "IČO": "54910447（s.r.o.，资本 €5,000，外资）",
+    "成立": "2022-10-05（官网自述 10 年经验）",
+    "体量": "2 名雇员；2025 营收 €2.77M（+21%），税后利润 €60.9k",
+    "董事": "Denys Ptakhin、Maksym Kalashnik（各 50%）"
+   },
+   "who": "布拉迪斯拉发的两人 IT 硬件经纪公司：翻新 Cisco/HPE 为主业，PLANET 为授权边线，客户是中欧经销商/MSP/终端企业",
+   "hook": "Your PLANET page offers L2+/L3 managed and industrial PoE switches on request next to refurbished Cisco and HPE; for the resellers and MSPs you supply, an EXW-direct Marvell-based 24-port PoE managed switch gives you a new-unit SKU that lands inside the same budget as a refurbished unit.",
+   "first_question": "When a reseller asks you for new managed PoE switches, which port count and PoE budget do they ask for most?",
+   "subject": "New-unit 24-port PoE managed switch at refurbished-unit budgets",
+   "biggest_unknown": "PLANET 实际成交量（询价制无库存）；两位董事是否亲自采购；是否接受 T/T 预付（经纪商习惯账期）；对非大牌新品的接受度",
+   "alts": [
+    {
+     "model": "STI-288DGGPM",
+     "scene": "工业 DIN 导轨 PoE（其 PLANET 页列 IGS-5225-8P4S）",
+     "reason": "项目台阶，不进首触邮件"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 管理型（对位 GS-4210-8UP2S at 档）",
+     "reason": "小单试水款"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（经纪商需求薄，待首触信号）",
+   "boundary": "不卖翻新、不做 Cisco 兼容性承诺；其客户若为公共部门标段不主动推（守界）；不承诺云管理",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表与本仓主表全列 grep「data-network / DATA GROUP SK / Ptakhin / Kalashnik」无命中 → 非同户。斯洛伐克第 1 户（此前 SK 仅在 CZ-SK 分组查询中出现 tssgroup.sk / iotkomponenty.sk 两个 Elsa 群发收件人，均未入池）。",
+   "steps": [
+    {
+     "title": "新品替代翻新的对位",
+     "push": "STC-424DGGPM-280W",
+     "angle": "24 口 PoE 管理型；EXW、MOQ 1、与翻新 Cisco 同预算",
+     "question": "When a reseller asks you for new managed PoE switches, which port count and PoE budget do they ask for most?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Bratislava",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "给一个 MSP 客户做 30 天替换测试",
+     "question": "Which reseller or MSP account could run one unit for a 30-day test?",
+     "action": "规格表 1 页"
+    },
+    {
+     "title": "价目与付款",
+     "push": "STC-424DGGPM-280W + STC-28DGGPM",
+     "angle": "小批量价目、T/T 条件、EXW 交期 10–15 天",
+     "question": "What monthly volume across both models would justify holding a small stock for your accounts?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "公开邮箱；中欧六国覆盖；PLANET 授权伙伴已证明其接受台系品牌",
+    "W": "2 人经纪公司、翻新为主、PLANET 询价制无库存；需求薄",
+    "O": "经销商/MSP 要「新品但便宜」的 SKU 正是 Saga 价位",
+    "T": "翻新大牌价格锚；经纪商对账期敏感、对预付抵触"
+   },
+   "short_name": "DATA Network",
+   "gmail_check": "2026-10-20 Gmail in:anywhere to:/from: 域名查询 0 命中（complete:true）→ Elsa 账号从未触达，首触史干净"
+  },
+  {
+   "_code": "PB-061",
+   "name": "Elctron E-commerce Partners Sp. z o.o. (CTR / ctr.pl)",
+   "country": "波兰",
+   "city": "Warszawa（Górczewska 129，Wola）",
+   "website": "ctr.pl",
+   "type": "安防批发网店 + 安装（自述 hurtownia CCTV 2008 年起；Hikvision / Dahua / Bosch / Axis / Hanwha 伙伴；64 个本地代表点；KRS 主营「邮购/互联网零售」）",
+   "signal": "ctr.pl/dystrybutor/planet 页题「Planet - Oficjalny Dystrybutor」，35 款 PLANET 现货 24 h 发货（GSW-2620HP、GSW-1600HP、GS-4210-8P2S、GSD-604HP、FSD-808HP、GSW-1222VUP、WGSW-24040HP4、SGS-6341-24T4X 等）；站内 Switche 192 / Switche PoE 15 类目",
+   "own_brand": "否",
+   "angle": "CCTV 批发网店的 PoE 交换机是跟着摄像机走的走量配件：PLANET 24 口 PoE+（GSW-2620HP 1,152 zł 净价）与 8 口 PoE（GS-4210-8P2S 760 zł 净价）是其现货主力——Saga 同槽位 Marvell 管理型 EXW 直供可做它的自选第二货源/白牌线；64 个代表点 + 自有安装队 = 自用消耗",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "其现货 GSW-2620HP / WGSW-24040HP4 为 24 口 PoE+ 档，CCTV 项目最常用；Saga 24 口 280W 管理型同槽位",
+   "tier": 0.2,
+   "tier_reason": "分销/电商（安防批发网店）→ 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PLANET 35 款现货、24 h 发货、PoE 交换机为 CCTV 配套常销；触达：info@ctr.pl（联系页公开）、+48 504 500 007；体量可赢（2023 年注册 Sp. z o.o.、资本 5,000 zł、两名自然人股东；品牌自述 2008 年起）；具名高管（Marek Andrzej Sołtys 总裁、Norbert Rzeczkowski 董事）仅 KRS 可见、无邮箱 → B ★★",
+   "source": "M11 本地语授权措辞查询（PL 'autoryzowany dystrybutor' 命中）+ M9 名录核身（krs-pobierz / imsig / rejestr.io / vrejestr / aleo）；W08 曾 skip（当时未见 PLANET 页）→ 本轮撤销",
+   "planet_models": [
+    "GSW-2620HP",
+    "GSW-1600HP",
+    "GS-4210-8P2S",
+    "GSD-604HP",
+    "FSD-808HP",
+    "GSW-1222VUP",
+    "WGSW-24040HP4",
+    "GS-4210-16T2S",
+    "SGS-6341-24T4X"
+   ],
+   "model_map": {
+    "GSW-2620HP": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24 口 PoE+ + 2 SFP；PLANET 非管理型，Saga 为 L2+ 管理型升级"
+    },
+    "WGSW-24040HP4": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24 口 PoE 管理型同槽位"
+    },
+    "GS-4210-8P2S": {
+     "saga": "STC-28DGGPM",
+     "note": "8 口千兆 PoE + 2 SFP 管理型同槽位"
+    },
+    "GSW-1600HP": {
+     "saga": "—",
+     "note": "16 口 PoE 非管理型，Saga 暂无 16 口对应"
+    },
+    "GSD-604HP": {
+     "saga": "—",
+     "note": "4 口 PoE 桌面款，Saga 暂无对应"
+    },
+    "FSD-808HP": {
+     "saga": "—",
+     "note": "百兆 PoE，Saga 不做"
+    },
+    "GSW-1222VUP": {
+     "saga": "—",
+     "note": "8 口 bt PoE++ + 2 TP + 2 SFP，Saga 暂无 bt 对应"
+    },
+    "SGS-6341-24T4X": {
+     "saga": "—",
+     "note": "24 口 + 4×10G L3，Saga 以 CENTEC 汇聚线另议，不进首触"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（公司通用）",
+     "role": "contact",
+     "email": "info@ctr.pl",
+     "phone": "+48 504 500 007（Pn–Pt 9:00–17:00）",
+     "status": "公开（联系页，自述邮件 2 h 内回复）",
+     "source": "https://ctr.pl/kontakt"
+    },
+    {
+     "name": "Marek Andrzej Sołtys",
+     "role": "Prezes Zarządu（2026-02-13 起；前任 Janusz Oleksy）",
+     "email": "",
+     "phone": "",
+     "status": "仅 KRS，无邮箱；不作触达对象",
+     "source": "https://vrejestr.pl/krs/0001031273/elctron-ecommerce-partners"
+    },
+    {
+     "name": "Norbert Rzeczkowski",
+     "role": "Członek Zarządu / 股东（49/91 股）",
+     "email": "",
+     "phone": "",
+     "status": "仅 KRS，无邮箱；不作触达对象",
+     "source": "https://aleo.com/int/company/elctron-e-commerce-partners-spolka-z-ograniczona-odpowiedzialnoscia"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "卖方目录",
+     "claim": "PLANET 专页 35 款现货、24 h 发货、净价可见",
+     "quote": "Planet - Oficjalny Dystrybutor | Kamery i Rejestratory | Ctr.pl … Planet 35 produktów … Planet GSW-2620HP - Switch 24xGEth PoE AT + 2xSFP … Dostępny Wysyłka 24h 1356,01 zł 1152,61 zł netto … Planet GS-4210-8P2S - Switch 8xGEth PoE + 2xSFP … 894,54 zł 760,36 zł netto … Planet GSW-1600HP - Switch 16 x 10-100-1000Mb-s 802.3at PoE+ … 1207,62 zł 1026,48 zł netto … Planet WGSW-24040HP4",
+     "url": "https://ctr.pl/dystrybutor/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公开联系方式、法人与自述定位（CCTV 批发 + 安装 + 64 个代表点）",
+     "quote": "◆ Telefon +48 504 500 007 Pn–Pt 9:00–17:00 ◆ E-mail info@ctr.pl odpowiedź < 2h w dni robocze … Firma Elctron E-commerce Partners Spółka z o.o. Adres Górczewska 129, 01-109 Warszawa NIP 5273052174 REGON 525059580 KRS 0001031273 … 64 punktów kontaktowych w Polsce … CTR Warszawa to wiodąca hurtownia i dystrybutor systemów CCTV w stolicy, działający na rynku od 2008 roku … Jako partner Hikvision, Dahua, Bosch, Axis i Hanwha Vision",
+     "url": "https://ctr.pl/kontakt",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "KRS 登记：注册日、资本、主营",
+     "quote": "NIP 5273052174 | KRS 0001031273 | REGON 525059580 | … ul. GÓRCZEWSKA 129 … WARSZAWA. Główna działalność firmy Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet - Kapitał zakładowy: 5 000,00 ZŁ … Data rejestracji: 2023-04-14 - Ostatnia zmiana w KRS: 2026-02-17",
+     "url": "https://krs-pobierz.pl/elctron-e-commerce-partners-spolka-z-ograniczona-odpowiedzialnoscia-i0001031273",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "管理层与股权（2026-02 变更）",
+     "quote": "Marek Andrzej Sołtys Prezes Zarządu Od 13 lutego 2026 r. … Norbert Rzeczkowski Udziały: 49 UDZIAŁÓW O ŁĄCZNEJ WARTOŚCI 2 450,00 ZŁ",
+     "url": "https://vrejestr.pl/krs/0001031273/elctron-ecommerce-partners",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "股东 Janusz Oleksy 42 股 + Norbert Rzeczkowski 49 股；董事年龄",
+     "quote": "Prezes Zarządu, 52 years old · Norbert Rzeczkowski Członek Zarządu, 26 years old · shareholders Janusz Oleksy 42 udziałów o łącznej wartości 2 100,00 zł · Norbert Rzeczkowski 49 udziałów o łącznej wartości 2 450,00 zł",
+     "url": "https://aleo.com/int/company/elctron-e-commerce-partners-spolka-z-ograniczona-odpowiedzialnoscia",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "地址": "Górczewska 129, 01-109 Warszawa",
+    "KRS": "0001031273（Sp. z o.o.，资本 5,000 zł，2023-04-14 注册；NIP 5273052174）",
+    "品牌": "CTR（自述 2008 年起；64 个本地代表/合作点）",
+    "管理层": "Marek Andrzej Sołtys（总裁，2026-02 起）、Norbert Rzeczkowski（董事/股东）、Janusz Oleksy（股东/前总裁）",
+    "体量": "小型（资本 5k zł，雇员未披露）"
+   },
+   "who": "华沙 Wola 区的 CCTV 批发网店 + 安装团队，Hik/Dahua/Bosch/Axis 伙伴，PLANET 交换机 35 款现货作摄像机配套",
+   "hook": "Your PLANET shelf ships 24- and 8-port PoE switches within 24 h as the standard companion to camera kits; an EXW-direct 24-port Gigabit PoE managed switch gives your installers and local partners the same slot with L2+ management and PoE watchdog, under your own label if you prefer.",
+   "first_question": "Which PoE port count do your installers and partners pull most often for camera projects — 8, 16 or 24?",
+   "subject": "EXW-direct 24-port PoE managed switch for your camera kits",
+   "biggest_unknown": "实际采购决策人（新总裁 2026-02 上任）；PLANET 月销量；是否已有中国直采渠道（Hik/Dahua 套装自带 PoE 交换机）；对白牌的兴趣",
+   "alts": [
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8 口 PoE 小点位",
+     "reason": "对位 GS-4210-8P2S，小单试水"
+    },
+    {
+     "model": "STI-288DGGPM",
+     "scene": "户外机柜/工业点位 DIN 导轨 PoE",
+     "reason": "项目台阶，不进首触邮件"
+    }
+   ],
+   "qual": "技术上合格 / 商业上未合格（待首触信号）",
+   "boundary": "不接百兆 PoE、4 口桌面款、bt 95W 档、PoE 延长器；其公共机构/市政监控标段不主动推（守界）",
+   "mikrotik_ref": "",
+   "notes": "Mikrotik 主表与本仓主表全列 grep「ctr.pl / Elctron / Oleksy / Rzeczkowski / Sołtys」无命中 → 非同户。W08 曾以「PL 安防批发无 PLANET」skip（当时搜索摘要未见 PLANET 页）；本轮 /dystrybutor/planet 35 款现货 → 撤销 skip 入池，波兰第 9 户。",
+   "steps": [
+    {
+     "title": "摄像机配套 PoE 第二货源",
+     "push": "STC-424DGGPM-280W",
+     "angle": "24 口 PoE 管理型；EXW、MOQ 1；可白牌",
+     "question": "Which PoE port count do your installers and partners pull most often for camera projects — 8, 16 or 24?",
+     "action": "无附件"
+    },
+    {
+     "title": "样机到 Warszawa",
+     "push": "STC-424DGGPM-280W（1 台）",
+     "angle": "与 GSW-2620HP 并行跑一个监控点位 30 天",
+     "question": "Which site could run one unit for a 30-day test?",
+     "action": "规格表 1 页"
+    },
+    {
+     "title": "批量 + 8 口款",
+     "push": "STC-424DGGPM-280W + STC-28DGGPM",
+     "angle": "MOQ/付款/EXW；白牌包装",
+     "question": "What monthly volume per model would make a first run worth it for you?",
+     "action": "报价前核价"
+    }
+   ],
+   "swot": {
+    "S": "公开邮箱、35 款 PLANET 现货、24 h 物流、64 个代表点 + 安装自用",
+    "W": "2023 年新法人、资本 5k zł、管理层刚换；可能是品牌授权运营方而非原 CTR 实体",
+    "O": "Hik/Dahua 套装 PoE 之外的管理型 PoE 空档；白牌线",
+    "T": "Hik/Dahua 自带 PoE 交换机；Senetic/Eltrox 等大网店价格战"
+   },
+   "short_name": "CTR",
+   "gmail_check": "2026-10-20 Gmail in:anywhere to:/from: 域名查询 0 命中（complete:true）→ Elsa 账号从未触达，首触史干净"
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  {
+   "name": "PA-011 Young B.T.S.",
+   "reason": "W12 第 4 次 HTTP 500 → 首触前人工"
+  },
+  {
+   "name": "PA-004 NSI Distribution",
+   "reason": "品牌页 JS 不可抓 → 首触前人工"
+  },
+  {
+   "name": "B ★★ 回查（W01–W03 建档户）",
+   "reason": "未动；下一轮 ≤10 段"
+  },
+  {
+   "name": "PB-058 / PB-059 / PB-057 取证",
+   "reason": "未动"
+  },
+  {
+   "name": "SK/PL/CZ 'autorizovaný partner' + .eu 域名变体",
+   "reason": "W13 唯一仍有余量的矿脉（本轮 2/2 新户均来自此角度）"
+  },
+  {
+   "name": "SmartByte 官网归档解析（T15 build.py）",
+   "reason": "机器人提交落地后优先"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "NetSoft Solutions（netsoft-solutions.net）",
+   "reason": "W02 遗留区域未明 → 本轮核实为巴基斯坦（\"resellers, systems integrators, and service providers in Pakistan\"）→ 区域外"
+  },
+  {
+   "name": "PLANET Germany GmbH（planet-germany.de，Essen）",
+   "reason": "PLANET 德国品牌站/关联实体 = 信号源，禁止触达（规则）"
+  },
+  {
+   "name": "ShopPlanet（planet.neteon.net）",
+   "reason": "池内 Neteon 的 PLANET 专站再命中"
+  },
+  {
+   "name": "Industry-Electronics / Lieske Elektronik（DE）",
+   "reason": "W07 已 skip（905,000 件聚合 B2B 网店）再命中"
+  },
+  {
+   "name": "Darty 市场卖家 Electro Store / NEGOCIE PLUS / ASD / La Boutique du Net（FR）",
+   "reason": "平台市场卖家，无 PLANET 分销自述、无独立采购入口 → 电商噪音"
+  },
+  {
+   "name": "Arena Bilgisayar（TR，2022 PLANET 分销旧闻）",
+   "reason": "巨头 → C（规则，已在 INH 名单）"
+  },
+  {
+   "name": "smartlink.com.tr",
+   "reason": "W09 已 skip 电商再命中"
+  },
+  {
+   "name": "100MEGA / planet-technology.cz / b2b.100mega.com",
+   "reason": "池内再命中"
+  },
+  {
+   "name": "planet.com.ru / novacom.ru / planet.kiev.ua / wisp.net.au / Maktonet（UAE）/ Elenst（CO）",
+   "reason": "区域外（RU/UA/AU/UAE/CO）"
+  },
+  {
+   "name": "RSP Supply / MSI Tec / Express Systems（US Moxa 分销）",
+   "reason": "线卡无 PLANET 证据 → 不入 PLANET 渠道池"
+  },
+  {
+   "name": "alvasta-tech.com",
+   "reason": "Elsa 群发收件人；站点无地域与 PLANET 分销自述，仅型号目录 → 待证据，不入池"
+  },
+  {
+   "name": "deploydepot.ca",
+   "reason": "站内 PoE Switch 0 结果，无 PLANET"
+  },
+  {
+   "name": "Planet Technology Kft.（匈牙利小米服务点）",
+   "reason": "同名噪音"
+  },
+  {
+   "name": "sklep-bcs.pl",
+   "reason": "= mbs-systems.pl（Elsa 群发收件人）BCS 品牌子站，无 PLANET"
+  },
+  {
+   "name": "planet-taiwan.com 案例页",
+   "reason": "仅行业+国家，无集成商名；索引页 reCAPTCHA 拦截 → 矿脉关闭"
+  }
+ ]
+}

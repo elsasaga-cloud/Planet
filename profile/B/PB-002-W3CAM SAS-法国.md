@@ -157,7 +157,7 @@ updated: 2026-10-20
 **主题**：24-port PoE+ switch for your camera bundles (PoE watchdog, neutral label)
 
 ```text
-Hi there,
+Hi W3CAM team,
 
 You carry PLANET PoE switches in 法国, so your customers already accept Taiwan-grade pricing and lead times.
 

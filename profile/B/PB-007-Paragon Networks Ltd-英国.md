@@ -141,7 +141,7 @@ updated: 2026-10-20
 **主题**：Industrial 8-port PoE switch, 3-year warranty, second source for your PLANET range
 
 ```text
-Hi there,
+Hi Paragon Networks team,
 
 You carry PLANET PoE switches in 英国, so your customers already accept Taiwan-grade pricing and lead times.
 

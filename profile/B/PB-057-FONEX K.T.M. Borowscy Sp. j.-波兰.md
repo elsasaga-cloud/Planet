@@ -154,7 +154,7 @@ updated: 2026-10-20
 **主题**：EXW second source for your industrial 8-port PoE tier
 
 ```text
-Hi there,
+Hi FONEX K.T.M. Borowscy team,
 
 Your CCTV network range carries the WGS-4215-8P2S class for installers; an EXW second source for that 8-port Gigabit PoE managed industrial tier gives your B2B accounts the same slot at a lower landed cost.
 

@@ -155,7 +155,7 @@ updated: 2026-10-20
 **主题**：Second-source DIN-rail PoE switch for planet.spectra.de (3-year warranty)
 
 ```text
-Hi there,
+Hi Nick,
 
 You carry PLANET PoE switches in 德国, so your customers already accept Taiwan-grade pricing and lead times.
 

@@ -170,7 +170,7 @@ updated: 2026-10-20
 **主题**：Direct-sourced industrial PoE+ line beside your PLANET range
 
 ```text
-Hi there,
+Hi Saratota team,
 
 You import PLANET industrial PoE for utility and reseller customers; a DIN-rail PoE+ L2+ switch sourced direct gives you a lower-cost line beside PLANET without changing the spec sheet.
 

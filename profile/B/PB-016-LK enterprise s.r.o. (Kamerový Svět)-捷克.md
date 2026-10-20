@@ -137,7 +137,7 @@ updated: 2026-10-20
 **主题**：8-port PoE+ switch for camera kits, second source to GS-4210-8P2S
 
 ```text
-Hi there,
+Hi LK enterprise team,
 
 Kamerový Svět sells PLANET PoE switches alongside the cameras you install, so an 8-port PoE+ with 2 SFP at a lower price goes into the same kit.
 

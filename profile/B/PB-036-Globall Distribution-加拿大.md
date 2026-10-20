@@ -157,7 +157,7 @@ updated: 2026-10-20
 **主题**：Direct second-source PoE+ tier for Globall's reseller base
 
 ```text
-Hi there,
+Hi Globall Distribution team,
 
 You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most.
 
