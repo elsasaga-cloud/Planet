@@ -79,6 +79,14 @@
 15. ~~**下一批（W11）计划**~~ **W11 已完成（2026-10-20，T12「继续搞」）**：① **证据老化回查收尾**：A 级剩余 6 户（PA-003 RFOG / PA-008 Aspectis / PA-009 Direktronik / PA-011 Young / PA-014 Pulse / PA-015 PROFIcomms）各 fetch 1 页，PA-004 NSI 改抓商品 JSON 或换页；② **B 级按首触顺序回查**：先 ★★★（PB-001 Spectra、PB-005 M/A Rugged、PB-052 CCTV.Net、PB-055 IPC2U）再 ★★，每轮 ≤10 段 fetch；③ 挖掘 ≤6 次：CZ / HU / TR 去型号安防查询尚未用于「二级安防分销」角度（W09 的 CZ/HU 查询命中的是一级），FR 第二条（-w3cam -connectdata）；④ 取证：PB-057 KRS 人数、PB-054 CLR 归属（首触问）、PB-053 Q-15；⑤ 渲染：下一个缺陷候选 = 并档户的「跟进步骤」仍显示本仓首触话术（应改为『Mikrotik 侧回复后再定』）；⑥ 不新开矿脉。
 16. **下一批（W12）计划**：① **B 级按首触顺序回查**（A 级已闭环）：先 ★★★（PB-001 Spectra、PB-005 M/A Rugged、PB-052 CCTV.Net、PB-055 IPC2U）再 ★★ 中建档最早的 W01–W03 户（PB-002 W3CAM、PB-003…），每轮 ≤10 段 fetch，失效即更正；PA-011 Young 再试 1 次、PA-004 NSI 人工；② 挖掘 ≤6 次：FR 第三条（-w3cam -connectdata -jpfi -europ-computer，换「installateur courant faible」安装商角度）、UK M11「authorised PLANET distributor」1 条（W11 未运行）、ES/PT 去型号安防批发各 1 条（W09 ES 无结果，换 「mayorista CCTV」角度）；③ 取证：PB-058 现任总经理 + PLANET 款数、PB-059 PLANET 款号与人数、PB-057 KRS 人数、PA-015 清仓线是否整体退出（?prodc=2 / Ethernet 类目）；④ 渲染：下一个缺陷候选 = 邮件样板中「Hi there,」对具名联系人仍可能出现（检查 contacts[0] 为「—」而 contacts[1] 具名的户）；⑤ 不新开矿脉。
 
+## SmartByte 官网入库（T14 起 · 官网为真源）
+
+| 内容 | 位置 | 说明 |
+|---|---|---|
+| 抓取与入库方案 | `docs/smartbyte/00-SmartByte官网抓取与入库方案.md` | 站点结构（19 品类 URL、分页、详情页结构）、三层规则、真源优先级（官网 > 2026-09 价格表 > Drive）、差异清单、P1–P3 计划 |
+| 公司与政策页 | `docs/smartbyte/公司与政策页_2026-10-20.md` | About（路线图 2020–2027）/ Warranty & RMA（工业 6 系 5 年·3 系 3 年·商用 3 年·DOA 3 个月）/ OEM-ODM / SKD-CKD / Contact / 固件 7.4→7.5 全文 |
+| 型号索引 | `data/smartbyte_官网型号索引.csv` | 型号 / 标题 / 品类 / URL / 基型号归一匹配价格主表（起步 13 行，P1–P3 补齐 ≈220） |
+
 ## Drive / Gmail 资料入库（T13 起）
 
 | 内容 | 位置 | 说明 |
@@ -109,6 +117,8 @@ data/                            主表 CSV / 价格主表.csv / Mikrotik 对照
 batch/                           每批原始证据 JSON（W01–W11）
 docs/drive/                      Google Drive 入库文本（T13：MUST-KNOW 12 篇 / STOS 节选 / 证书索引 / 00 方案）
 docs/gmail/                      Gmail 盘点与使用方案（T13）
+docs/smartbyte/                  SmartByte 官网入库（T14：方案 + 公司与政策页；官网为真源）
+data/smartbyte_官网型号索引.csv  官网型号索引（型号/标题/URL/基型号匹配）
 data/drive_manifest.csv          Drive 文件清单（id / 路径 / 处理方式）
 profile/A|B|C/                   渲染档案（勿手改）
 scripts/                         pricing.py / add_batch.py / render.py / audit.py / common.py

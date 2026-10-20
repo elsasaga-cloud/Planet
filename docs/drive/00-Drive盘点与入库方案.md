@@ -1,5 +1,6 @@
 # 00 · Google Drive 盘点与入库方案（T13，2026-10-20）
 
+> **T14 更新**：用户裁定 Drive 资料为 2026 Q3（7–9 月）旧版，**SmartByte 官网为真源**（见 `docs/smartbyte/00-SmartByte官网抓取与入库方案.md`）；本目录内容保留作历史口径与 Saga 自有文案来源，与官网冲突时以官网为准。  
 > 目的：Simon 把 Google Drive（主）和 Gmail（次）接进来，要求"好好构思一下咋处理"再 copy 到仓库。本文是盘点结果 + 分层入库规则 + 已完成/待办清单。清单明细见 `data/drive_manifest.csv`（56 行，含 Drive id）。  
 > 账号：e.sagatelecom@gmail.com（Drive 根 id `0AJ8a22_hYShqUk9PVA`）。盘点方式：Drive 连接器 `list_files` 逐层列目录（整盘一次性 200 行会被截断，已记入死路）。
 

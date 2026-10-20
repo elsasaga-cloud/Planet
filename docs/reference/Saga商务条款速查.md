@@ -2,7 +2,8 @@
 
 > 依据：Google Drive `MUST KNOW/` 12 份 PDF（2026-02 版，英文原文见 `docs/drive/MUST-KNOW/`）+ `Certification/` 索引。本表是**给写邮件/回客户问题时查的中文摘要**，对外引用请以英文原文为准。  
 > 与仓库既有规则冲突处用 ⚠ 标出，并在 `docs/requirements/待统一处理问题清单.md` 立项，裁决前按仓库规则执行。  
-> 更新：2026-10-20（T13）。
+> 更新：2026-10-20（T13 建；T14 按 SmartByte 官网改写保修/DOA/OEM 条目）。  
+> **真源优先级（T14 用户裁定）**：SmartByte 官网（2026-09 改版） > SmartByte 2026-09 价格表 > Saga Drive（2026 Q3 旧版）。官网摘录见 `docs/smartbyte/公司与政策页_2026-10-20.md`。
 
 ## 1. 交期与起订
 | 项目 | 口径 | 原文出处 |
@@ -27,7 +28,8 @@
 ## 3. 保修与售后
 | 项目 | 口径 |
 |---|---|
-| 保修期 | **STC 商用 1 年 / STI 工业 3 年 / STH 高速 1 年**，自发货日（AWB 日期）起算 |
+| 保修期 | **官网（真源）：工业 6 系列 5 年 / 工业 3 系列 3 年；商用 3 年；ODM 项目另议**，自 SmartByte 发货日起算。Drive 旧版写 STC 1 年 / STI 3 年 / STH 1 年 → Q-22 待 Simon 确认对外传递口径 |
+| DOA | 发货后 3 个月内到货即坏 = DOA：往返运费与更换费用由工厂承担；保内：客户寄回运费自付、工厂承担回寄与维修；保外：全部客户承担（官网 Warranty & RMA） |
 | RMA | 每 100 台同型号随货送 2 台备件（或等值 2% 货款抵扣）；**不接受退货**，坏机以备件/下单补发方式处理 |
 | 支持方式 | 邮件 + 远程（Web/CLI 日志）；固件升级免费；不含现场服务 |
 | 人为/环境损坏 | 不在保修范围（雷击、过压、进水、私自改装） |
@@ -35,7 +37,7 @@
 ## 4. OEM / ODM 能力
 | 项目 | 口径 |
 |---|---|
-| 免费定制 | 机身 logo、标签、彩盒、Web UI logo、默认 IP、SNMP OID（企业号） |
+| 免费定制 | 官网：软件定制 **No MOQ**（logo、产品型号名、SN、登录 IP、MAC、SNMP OID）；标签/外壳/包装定制；硬件定制覆盖 1G–100G；Drive 补充：Web UI logo 免费 |
 | 需 MOQ 的定制 | Web UI 配色/字体、PVC 面膜（MOQ 300）、特殊包装 |
 | SKD/CKD/ODM | SKD 可做；CKD/ODM 需评估；**源代码不开放** |
 | 中性包装 | 可做中性包装/标签（仓库规则：不打 Made in China，不出现 Saga 以外品牌痕迹） |
@@ -57,7 +59,7 @@
 ## 7. 常见问答模板（英文一句话，可直接贴）
 - Lead time: "Standard models ship in 4–7 working days after payment, plus 4–7 days by express."
 - Samples: "Samples are charged at unit price and fully deductible from your first bulk order."
-- Warranty: "1-year warranty on commercial (STC) and 3-year on industrial (STI) models, from the shipping date."
+- Warranty（Q-22 裁决前的保守写法）: "3-year warranty on commercial models and 3-year (up to 5-year on the 6-series) on industrial models, from the shipping date."
 - Payment: "T/T 50% deposit, balance before shipment; PayPal accepted with 5% fee."
 - Spares: "2 free spare units per 100 pcs of the same model instead of RMA returns."
 - OEM: "Logo, label, carton and Web-UI logo customization are free of charge; neutral packing available."
