@@ -1,0 +1,57 @@
+﻿drive_id,名称,Drive路径,类型,大小,修改时间,处理方式
+1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw,MUST KNOW,/MUST KNOW,folder,,,Tier1 全文入库（12 PDF→MD）+ 子目录索引
+1YyJDq-YRG680Z7_HhzCQo_X8GwOM0Ijp,Saga Telecom Resource Library,/Saga Telecom Resource Library,folder,,,Tier1 节选入库
+1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L,Marvell Based Commercial Managed Switch,/Marvell Based Commercial Managed Switch,folder,,,Tier2 结构索引；型号 docx 按需抓取
+18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn,Marvell Based Industrial Managed Switch,/Marvell Based Industrial Managed Switch,folder,,,Tier2 结构索引；型号 docx 按需抓取
+1i0qtbohGJXpaLzUYj4Kr682JMpil2H6u,Marvell Based Industrial Unmanaged Switch,/Marvell Based Industrial Unmanaged Switch,folder,,,Tier2 结构索引（~55 个 STI 型号目录，列表未翻页完）
+17hEtGThaxugf-ngPfyNYYcuIzeEoT5p0,Realtek Based Commercial Switch,/Realtek Based Commercial Switch,folder,,,Tier3 仅索引（非 Marvell 主线）
+1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU,CENTEC Based High-Speed Network,/CENTEC Based High-Speed Network,folder,,,Tier3 仅索引（STH 核心/汇聚，非接入层主线）
+1WDWb_XMiliGkCDVEQT8C-kIqglzLWJDk,Google AI Studio,/Google AI Studio,folder,,,忽略（2 字节 json）
+17PUHesmpgS-0SpWytsokeC7nLrUF38S3,Certification,/MUST KNOW/Certification,folder,,,Tier1 索引（证书 PDF 不入库）
+1B-DHQaO29xaEhEGfVhdTen9Leo35sRoc,Factory Information,/MUST KNOW/Factory Information,folder,,,Tier3 仅索引（SMT Workshop/Team/Testing Equipment/Testing of Switches，21 jpg + 3 mp4）
+1e91hN2nlXd385DCPnghQ-HxG_8jtqkb-,After-sales Support.pdf,/MUST KNOW/After-sales Support.pdf,application/pdf,135 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/After-sales-Support.md
+14ZNz5r7d7yo_7t1Kw4kfpF1WGkgNuGoW,CCF.pdf,/MUST KNOW/CCF.pdf,application/pdf,70 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/CCF.md
+1Qc3bHFnoEvzUPi2LM52DiNbZvGvOvpb6,Client Oriented.pdf,/MUST KNOW/Client Oriented.pdf,application/pdf,371 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/Client-Oriented.md
+1TimFb-tWP79_3vksM_etO5hf5d46dIUE,Easy and Transparent Business.pdf,/MUST KNOW/Easy and Transparent Business.pdf,application/pdf,126 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/Easy-and-Transparent-Business.md
+10ZQUQkklO2aix7By3Xo5L-85dagk1hOO,FAQ.pdf,/MUST KNOW/FAQ.pdf,application/pdf,96 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/FAQ.md
+1g6oyIN7rXIg2FkelMpgg6RFBo_9m0LGu,How We Do Business.pdf,/MUST KNOW/How We Do Business.pdf,application/pdf,131 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/How-We-Do-Business.md
+1YngpHQ7Po0_O1TBiKtVssNWet1zummkp,Miscellaneous Fee.pdf,/MUST KNOW/Miscellaneous Fee.pdf,application/pdf,119 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/Miscellaneous-Fee.md
+1LLuFkf0bofa2FZH2g5gGzCYnEMqpbHn-,Order Procedure.pdf,/MUST KNOW/Order Procedure.pdf,application/pdf,99 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/Order-Procedure.md
+1GW3rbnqWs3nVltX0d3yG1YY7tJ70kIF-,Roadmap.pdf,/MUST KNOW/Roadmap.pdf,application/pdf,81 KB,2026-02-04,Tier1 已入库 → docs/drive/MUST-KNOW/Roadmap.md
+1WRpt2CMlQ-8v59tDneJz0s4FTFzmCGij,TTC.pdf,/MUST KNOW/TTC.pdf,application/pdf,82 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/TTC.md
+1qh9W6ton_UPefqzTIYlnRBrcBLOMvNW-,Technical Sales White Paper.pdf,/MUST KNOW/Technical Sales White Paper.pdf,application/pdf,169 KB,2026-04-29,Tier1 已入库 → docs/drive/MUST-KNOW/Technical-Sales-White-Paper_节选.md
+1mf0uwJRGOz0zjpFZyR-6JZPflIgpRlZs,Warranty Policy.pdf,/MUST KNOW/Warranty Policy.pdf,application/pdf,97 KB,2026-02-01,Tier1 已入库 → docs/drive/MUST-KNOW/Warranty-Policy.md
+1l645q1AklHmGQ1HmVAjrX0I14qfbClii,Saga Software Feature List_EN_V2.4.pdf,/Saga Telecom Resource Library/,application/pdf,,,Tier1 节选入库 → docs/drive/Resource-Library/STOS软件特性清单_V2.4_节选.md
+1JXHqQ_Jz4--Hjt0GZVdHZLWnpcmgeVzX,Roadmap.pdf,/Saga Telecom Resource Library/,application/pdf,,,Tier1（与 MUST KNOW/Roadmap 同名，已入库 MUST-KNOW/Roadmap.md）
+1Up_BgTRSqUWu8DBrknUyea5Zc6Ulq4mr,Saga Feature List_7.5.x_L2+.xlsx,/Saga Telecom Resource Library/,xlsx,,,Tier2 待办：按需导出 CSV（Marvell L2+ 功能表）
+1eNH4U0BqAmyqK9hqmDGrFs4d7FnuRHce,Price List（商用管理型）.pdf,/Marvell Based Commercial Managed Switch/,application/pdf,,,Tier1 待办：与 data/价格主表.csv 对账（T03 已搁置的列表价差异不再提）
+1-7rQzjjNbyRa3hXlzEI7KB3bAUAs8-RK,Saga Feature List_7.5.x_L2+.xlsx,/Marvell Based Commercial Managed Switch/,xlsx,,,Tier2 待办
+12bnXVYxYYhOzcxQoO4YgbQglZcWIEtyz,Saga Feature List_7.5.x_L3.xlsx,/Marvell Based Commercial Managed Switch/,xlsx,,,Tier2 待办
+1W_7uyflfZw3DWePrE7AhST8h_g3dy9is,User Manual（商用管理型）,/Marvell Based Commercial Managed Switch/,doc,,,Tier3 仅索引
+1jKC0rZbiRidSkKGdVv9sN8CiOp_kgSGO,CLI Manual.docx,/Marvell Based Commercial Managed Switch/,docx,,,Tier3 仅索引（Mikrotik 仓库已有同款，不重复入库）
+13AHX8hSvbe63JU5SkrgYAzHrkLmRB_U8,Web Manual.docx,/Marvell Based Commercial Managed Switch/,docx,,,Tier3 仅索引（同上）
+1SjCzY7vH_bPax4qgx6XFwgkqQju3N3FE,Price List（工业管理型）.pdf,/Marvell Based Industrial Managed Switch/,application/pdf,,,Tier1 待办：对账
+1l2owGrJ6XTdadx21ggq_IxLnDaFmwBcP,User Manual（工业管理型）,/Marvell Based Industrial Managed Switch/,doc,,,Tier3 仅索引
+16Th2t4KFTP1q-JSY1TSQmgrHw_rRoUSk,Price List（工业非管理型）.pdf,/Marvell Based Industrial Unmanaged Switch/,application/pdf,,,Tier1 待办：对账
+1fr-8I3Fycd1f1YG95aUy1Lk2TkvXthOp,Price List（Realtek 商用）.pdf,/Realtek Based Commercial Switch/,application/pdf,,,Tier3 仅索引
+1_CHrn1II78k9w0lTQyPBV31-Y87NaEen,10G L2+ with PoE,/Marvell Based Commercial Managed Switch/10G L2+ with PoE,folder,,,Tier2：STC-424XGGPM-280W / -440W / STC-448XGGPM（各含型号目录+docx）
+1Tf41cy9HMLwZnyYy_jCu6y3J7HWA4fza,10G L2+ with PoE,/Marvell Based Industrial Managed Switch/10G L2+ with PoE,folder,,,Tier2
+1qOnPdIqEZbb5k3vJ8A-Cor9Zn5YoxJge,L2,/Marvell Based Industrial Managed Switch/L2,folder,,,Tier2
+1IqZmXUTCOX7XFiMP_X3JE_FFjL3xirE7,L2+ BT,/Marvell Based Industrial Managed Switch/L2+ BT,folder,,,Tier2
+16iUefBt5YwteYNpboPTy_VyNzw41giy_,L3 BT,/Marvell Based Industrial Managed Switch/L3 BT,folder,,,Tier2
+1Wlo3R-wnetIkwryzI1KvtClJ_1KVhz9P,L3 with PoE,/Marvell Based Industrial Managed Switch/L3 with PoE,folder,,,Tier2
+1j33v-CgUARRUfjWSXtMy57XlKNznEU-U,L3 without PoE,/Marvell Based Industrial Managed Switch/L3 without PoE,folder,,,Tier2
+163Drtdl8GcsmeuSSIQky0rGja4y_8T11,Saga Telecom Ethernet Switch CE-EMC certification.pdf,/MUST KNOW/Certification/CE/,application/pdf,546080,2024-11-10,Tier1 索引（不入库 PDF）
+1tUp0SFqy9mDV_sP46sGDyZmwonxaY-xk,Saga Telecom Ethernet Switch CE-EMC testing report.pdf,/MUST KNOW/Certification/CE/,application/pdf,10855855,2024-11-10,Tier1 索引（不入库 PDF）
+1wOLv95bVGv_Gkyucofxp2zdHeWOs0tDr,Saga Telecom Ethernet Switch EN 62368-1 LVD certification.pdf,/MUST KNOW/Certification/CE/,application/pdf,548810,2024-11-10,Tier1 索引（不入库 PDF）
+1Fr9jEXQl6KDPLlQ0MaV1yVR8w4o_RqfC,Saga Telecom Ethernet Switch EN 62368-1 LVD testing report.pdf,/MUST KNOW/Certification/CE/,application/pdf,12073880,2024-11-10,Tier1 索引（不入库 PDF）
+1MgDImcTWxs6ORSYAD2CD4I9BJpVdw8m0,Saga Telecom Ethernet Switch FCC certification.pdf,/MUST KNOW/Certification/FCC/,application/pdf,295044,2024-11-10,Tier1 索引（不入库 PDF）
+13m-hgnem4svZ1OJ0Xoc00GR0aT22bUcN,Saga Telecom Ethernet Switch FCC testing report.pdf,/MUST KNOW/Certification/FCC/,application/pdf,2692509,2024-11-10,Tier1 索引（不入库 PDF）
+1VcR7C_RHMBIIho_XvswYLx_b-LkunzDV,Saga Telecom Ethernet Switch RoHS certification.pdf,/MUST KNOW/Certification/RoHS/,application/pdf,543372,2024-11-10,Tier1 索引（不入库 PDF）
+1fOTjoLfs72ZDAhcMzyf0JpNcXOKAyycl,Saga Telecom Ethernet Switch RoHS testing report.pdf,/MUST KNOW/Certification/RoHS/,application/pdf,8971770,2024-11-10,Tier1 索引（不入库 PDF）
+1U3W8IbajdjT3GpKGziTNgZ13Jcmd1DD1,Saga Telecom Ethernet Switch REACH 240 testing report.pdf,/MUST KNOW/Certification/Reach/,application/pdf,10572723,2024-11-10,Tier1 索引（不入库 PDF）
+1wAGUxpgK05rV6ayd5FFA6_cXXD7rILhY,Saga Telecom Ethernet Switch UKCA-EMC certification.pdf,/MUST KNOW/Certification/UKCA/,application/pdf,290655,2024-11-10,Tier1 索引（不入库 PDF）
+1vdDcKm18WW4NrNxXx9tkVT9k8ZTxzfbO,Saga Telecom Ethernet Switch UKCA-EMC testing report.pdf,/MUST KNOW/Certification/UKCA/,application/pdf,10855019,2024-11-10,Tier1 索引（不入库 PDF）
+12bHazrMLsn6Ujal7APEBg8oEXLHnXpz5,Saga Telecom Ethernet Switch UKCA-LVD certification.pdf,/MUST KNOW/Certification/UKCA/,application/pdf,288274,2024-11-10,Tier1 索引（不入库 PDF）
+1zxlLG8XfJJZ89Km8LcnFa-jRhv2EyO2T,Saga Telecom Ethernet Switch UKCA-LVD testing report.pdf,/MUST KNOW/Certification/UKCA/,application/pdf,12071867,2024-11-10,Tier1 索引（不入库 PDF）
+14aouoiqOs8QtqOwWI627s_G1LIn4M3ow,Media converter CE/LVD/FCC/RoHS/UKCA 证书+报告（10 份）,/MUST KNOW/Certification/MC/,application/pdf,,2024-11-10,Tier3 仅索引（媒体转换器）

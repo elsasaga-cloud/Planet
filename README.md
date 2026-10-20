@@ -79,6 +79,20 @@
 15. ~~**下一批（W11）计划**~~ **W11 已完成（2026-10-20，T12「继续搞」）**：① **证据老化回查收尾**：A 级剩余 6 户（PA-003 RFOG / PA-008 Aspectis / PA-009 Direktronik / PA-011 Young / PA-014 Pulse / PA-015 PROFIcomms）各 fetch 1 页，PA-004 NSI 改抓商品 JSON 或换页；② **B 级按首触顺序回查**：先 ★★★（PB-001 Spectra、PB-005 M/A Rugged、PB-052 CCTV.Net、PB-055 IPC2U）再 ★★，每轮 ≤10 段 fetch；③ 挖掘 ≤6 次：CZ / HU / TR 去型号安防查询尚未用于「二级安防分销」角度（W09 的 CZ/HU 查询命中的是一级），FR 第二条（-w3cam -connectdata）；④ 取证：PB-057 KRS 人数、PB-054 CLR 归属（首触问）、PB-053 Q-15；⑤ 渲染：下一个缺陷候选 = 并档户的「跟进步骤」仍显示本仓首触话术（应改为『Mikrotik 侧回复后再定』）；⑥ 不新开矿脉。
 16. **下一批（W12）计划**：① **B 级按首触顺序回查**（A 级已闭环）：先 ★★★（PB-001 Spectra、PB-005 M/A Rugged、PB-052 CCTV.Net、PB-055 IPC2U）再 ★★ 中建档最早的 W01–W03 户（PB-002 W3CAM、PB-003…），每轮 ≤10 段 fetch，失效即更正；PA-011 Young 再试 1 次、PA-004 NSI 人工；② 挖掘 ≤6 次：FR 第三条（-w3cam -connectdata -jpfi -europ-computer，换「installateur courant faible」安装商角度）、UK M11「authorised PLANET distributor」1 条（W11 未运行）、ES/PT 去型号安防批发各 1 条（W09 ES 无结果，换 「mayorista CCTV」角度）；③ 取证：PB-058 现任总经理 + PLANET 款数、PB-059 PLANET 款号与人数、PB-057 KRS 人数、PA-015 清仓线是否整体退出（?prodc=2 / Ethernet 类目）；④ 渲染：下一个缺陷候选 = 邮件样板中「Hi there,」对具名联系人仍可能出现（检查 contacts[0] 为「—」而 contacts[1] 具名的户）；⑤ 不新开矿脉。
 
+## Drive / Gmail 资料入库（T13 起）
+
+| 内容 | 位置 | 说明 |
+|---|---|---|
+| 盘点与分层入库方案 | `docs/drive/00-Drive盘点与入库方案.md` | Drive 8 个顶层目录、三层规则（Tier1 全文 / Tier2 索引+按需 / Tier3 仅索引）、待办 |
+| 文件清单 | `data/drive_manifest.csv` | 56 行：Drive id、路径、类型、大小、处理方式 |
+| 商务 PDF 全文（英文原文） | `docs/drive/MUST-KNOW/*.md`（12 篇） | FAQ / Warranty / After-sales / Order Procedure / TTC / CCF / Misc Fee / How We Do Business / Easy & Transparent / Roadmap / Client Oriented / White Paper 节选 |
+| STOS 软件清单节选 | `docs/drive/Resource-Library/STOS软件特性清单_V2.4_节选.md` | CENTEC 平台；Marvell 线另有 7.5.x xlsx（待办） |
+| 认证证书索引 | `docs/drive/Certification/认证证书索引.md` | CE/FCC/RoHS/REACH/UKCA（2024-07 同批），PDF 不入库 |
+| **中文销售速查** | `docs/reference/Saga商务条款速查.md` | 交期/MOQ/样品/付款/保修/RMA/OEM/认证 + 英文一句话模板 |
+| Gmail 方案 | `docs/gmail/00-Gmail盘点与使用方案.md` | 索引级读取；触达清单（`in:sent` 全量）下一轮建；不存邮件正文 |
+
+原则：二进制原件不进 Git，用 Drive id 作证据；Drive 与仓库规则冲突 → 仓库规则优先 + 立项（Q-18…Q-21）。
+
 ## 目录
 
 ```
@@ -93,6 +107,9 @@ docs/methodology/                Planet客户挖掘方法论 / 死路与死链�
 docs/audit/全仓审计.md            scripts/audit.py 输出
 data/                            主表 CSV / 价格主表.csv / Mikrotik 对照 CSV
 batch/                           每批原始证据 JSON（W01–W11）
+docs/drive/                      Google Drive 入库文本（T13：MUST-KNOW 12 篇 / STOS 节选 / 证书索引 / 00 方案）
+docs/gmail/                      Gmail 盘点与使用方案（T13）
+data/drive_manifest.csv          Drive 文件清单（id / 路径 / 处理方式）
 profile/A|B|C/                   渲染档案（勿手改）
 scripts/                         pricing.py / add_batch.py / render.py / audit.py / common.py
 *.xlsx *.pdf *.docx              用户上传原件（价格表、Saga 背景）
