@@ -71,12 +71,18 @@ def email_template(row, c, p1, price_str):
     country = row["国家"]
     q = c.get("first_question") or "Which PoE switch model do you sell most often today, and roughly how many units a year?"
     hook = c.get("hook") or f"You carry PLANET PoE switches in {country}, so your customers already accept Taiwan-grade pricing and lead times."
+    # W14 修缺陷：三段样板的「产品段」原为硬编码（只讲 L2+ PoE / GS-4210 槽位）；
+    # 对 PLANET 线为工业非 PoE 的客户不贴切 → 批次 JSON 可选 `pitch` 字段整段覆盖（占位 {p1} / {price_str} 由此处代入）。
+    pitch_override = (c.get("pitch") or "").replace("{p1}", p1 or "").replace("{price_str}", price_str)
+    pitch_d = pitch_override or f"We supply Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is {p1} at {price_str}."
+    pitch_i = pitch_override or f"We supply Marvell-based managed PoE switches (L2+/L3, ERPS ring <20 ms, PoE watchdog that power-cycles a hung camera or AP, full CLI/SNMP/MIB) that drop in where a PLANET GS-4210/IGS-5225 class unit would sit, and we can customise the web UI or firmware features for a project. The unit I would start with for your sites is {p1} at {price_str}."
+    pitch_o = pitch_override or f"We supply Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and up to 5-year warranty on the 6-series industrial line. The unit I would start with is {p1} at {price_str}."
     if "分销" in t or "电商" in t or "批发" in t or "进口商" in t:
         body = f"""Hi {first},
 
 {hook}
 
-We supply Marvell-based L2+ PoE switches (ERPS <20 ms ring, IGMP snooping, 802.1Q/QinQ, PoE watchdog, CLI/SNMP) that fit the same slot as the PLANET GS-4210/GS-5220 class at a lower landed cost, and we can ship under your own label with neutral packaging. The unit I would start with for your line is {p1} at {price_str}.
+{pitch_d}
 
 One question: {q}
 
@@ -90,7 +96,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 {hook}
 
-We supply Marvell-based managed PoE switches (L2+/L3, ERPS ring <20 ms, PoE watchdog that power-cycles a hung camera or AP, full CLI/SNMP/MIB) that drop in where a PLANET GS-4210/IGS-5225 class unit would sit, and we can customise the web UI or firmware features for a project. The unit I would start with for your sites is {p1} at {price_str}.
+{pitch_i}
 
 One question: {q}
 
@@ -104,7 +110,7 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 {hook}
 
-We supply Marvell-based managed PoE and industrial switches (L2+/L3, ERPS <20 ms, PoE watchdog, CLI/SNMP) and ship under the customer's own label with neutral packaging and up to 5-year warranty on the 6-series industrial line. The unit I would start with is {p1} at {price_str}.
+{pitch_o}
 
 One question: {q}
 
