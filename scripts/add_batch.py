@@ -12,6 +12,8 @@ add_batch.py — 把 batch/*.json 的客户合并进主表 CSV（去重、编号
 import datetime, json, os, re, sys
 from common import COLUMNS, read_csv, write_csv, dedup_key, load_batches, BATCH_DIR
 
+MERGE_PHRASE = "首触以 Mikrotik 仓库为准"  # 并档规则短语（与 render.py 判定一致）
+
 PROTECTED = {"人工定级", "状态", "首次触达日", "最后互动日", "下次跟进日", "档案编号", "入库批次", "入库日期"}
 
 
@@ -31,12 +33,18 @@ def cust_to_row(c, batch_name, date):
         "；".join(f"{k.get('name','')}{('（'+k['role']+'）') if k.get('role') else ''} {k.get('email','')} {k.get('phone','')}".strip() for k in contacts)
     ] if x)
     urls = [e.get("url", "") for e in (c.get("evidence") or []) if e.get("url")]
+    # W17 双保险：并档户的规则短语只要写在 mikrotik_ref 里，就自动补进「备注」，
+    # 使 render.py 的并档判定（备注 ∪ Mikrotik仓库对照编号）不依赖人工在两处重复书写。
+    notes = c.get("notes", "") or ""
+    mref = c.get("mikrotik_ref", "") or ""
+    if MERGE_PHRASE in mref and MERGE_PHRASE not in notes:
+        notes = (notes + "｜" if notes else "") + "并档：" + MERGE_PHRASE
     return {
         "公司名": c["name"], "国家": c["country"], "城市": c.get("city", ""), "网站": c.get("website", ""),
         "类型": c.get("type", ""), "信号（在卖什么品牌）": c.get("signal", ""), "是否自有品牌": c.get("own_brand", "否"),
         "切入点": c.get("angle", ""), "首推Saga型号": c.get("p1", ""), "入口/联系方式": entry,
         "优先级": c.get("priority", ""), "状态": "00-未触达", "来源": c.get("source", ""),
-        "首次触达日": "", "最后互动日": "", "下次跟进日": "", "备注": c.get("notes", ""),
+        "首次触达日": "", "最后互动日": "", "下次跟进日": "", "备注": notes,
         "评级": c.get("rating", ""), "评级依据": c.get("rating_basis", ""), "档案编号": "",
         "C级细分": c.get("c_sub", ""), "人工定级": "", "PLANET关联证据URL": " ; ".join(dict.fromkeys(urls)),
         "Mikrotik仓库对照编号": c.get("mikrotik_ref", ""), "入库批次": batch_name, "入库日期": date,
