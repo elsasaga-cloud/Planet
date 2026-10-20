@@ -65,14 +65,14 @@ updated: 2026-10-20
 | PLANET 型号（证据所见） | Saga 对位 | 说明 |
 |---|---|---|
 | GSW-2620HP | STC-424DGGPM-280W | 24 口 PoE+ + 2 SFP；PLANET 非管理型，Saga 为 L2+ 管理型升级 |
-| GSW-1600HP | — | 16 口 PoE 非管理型，Saga 暂无 16 口对应 |
+| GSW-1600HP | —（Saga 暂无对应品类，不硬凑） | 16 口 PoE 非管理型，Saga 暂无 16 口对应 |
 | GS-4210-8P2S | STC-28DGGPM | 8 口千兆 PoE + 2 SFP 管理型同槽位 |
-| GSD-604HP | — | 4 口 PoE 桌面款，Saga 暂无对应 |
-| FSD-808HP | — | 百兆 PoE，Saga 不做 |
-| GSW-1222VUP | — | 8 口 bt PoE++ + 2 TP + 2 SFP，Saga 暂无 bt 对应 |
+| GSD-604HP | —（Saga 暂无对应品类，不硬凑） | 4 口 PoE 桌面款，Saga 暂无对应 |
+| FSD-808HP | —（Saga 暂无对应品类，不硬凑） | 百兆 PoE，Saga 不做 |
+| GSW-1222VUP | —（Saga 暂无对应品类，不硬凑） | 8 口 bt PoE++ + 2 TP + 2 SFP，Saga 暂无 bt 对应 |
 | WGSW-24040HP4 | STC-424DGGPM-280W | 24 口 PoE 管理型同槽位 |
 | GS-4210-16T2S | STC-424DGGPM-280W | 同口数/同上联近似对位，非功能等价 |
-| SGS-6341-24T4X | — | 24 口 + 4×10G L3，Saga 以 CENTEC 汇聚线另议，不进首触 |
+| SGS-6341-24T4X | —（Saga 暂无对应品类，不硬凑） | 24 口 + 4×10G L3，Saga 以 CENTEC 汇聚线另议，不进首触 |
 
 ## 需求与场景（推断标签）
 

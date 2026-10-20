@@ -68,9 +68,9 @@ updated: 2026-10-20
 | IGS-5225-8P4S | STI-488DGGPM | 工业 8×GE PoE + 4 SFP，240W，DIN |
 | WGS-5225-8P2S | STI-288DGGPM | 8×GE PoE + 2 SFP；PLANET 为壁挂，Saga 为 DIN |
 | XGS3-24042 | STC-424XGGM(L3) | 24×GE + 4×10G L3；PLANET 带冗余电源 |
-| SGS-6340-16XR | — | 16×10G SFP+ L3 全万兆：Saga 暂无对应，SmartByte 亦无（LT-S8552XG-4XS48GX 为 48×1G SFP+4×10G） |
+| SGS-6340-16XR | —（Saga 暂无对应品类，不硬凑） | 16×10G SFP+ L3 全万兆：Saga 暂无对应，SmartByte 亦无（LT-S8552XG-4XS48GX 为 48×1G SFP+4×10G） |
 | GSD-603F | STI-150GE（近似） | 5×GE + 1 SFP DIN 非管理 |
-| XT-705A | — | 10G 媒体转换器：Saga 暂无对应 |
+| XT-705A | —（Saga 暂无对应品类，不硬凑） | 10G 媒体转换器：Saga 暂无对应 |
 
 ## 需求与场景（推断标签）
 

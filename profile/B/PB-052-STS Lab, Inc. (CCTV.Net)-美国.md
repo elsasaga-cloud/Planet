@@ -74,11 +74,11 @@ updated: 2026-10-20
 |---|---|---|
 | GS-4210-24P2S | STC-424DGGPM-280W | PLANET 300W/2 SFP；Saga 280W/4 SFP（注明） |
 | GS-4210-16P2S | STC-28DGGPM | Saga 暂无 16 口商用 PoE，以 8 口千兆 PoE 管理型切入（口数不同，注明） |
-| GS-4210-16UP4C | — | 802.3bt 95W，Saga 暂无 bt 商用型号（不推） |
+| GS-4210-16UP4C | —（Saga 暂无对应品类，不硬凑） | 802.3bt 95W，Saga 暂无 bt 商用型号（不推） |
 | GS-4210-24T4SR | STC-424DGGM | 24 口千兆非 PoE 管理型（Saga 为非管理，注明） |
 | GS-5220-48P4X | STC-448DGGPM | 48 口 PoE + 10G 上联 L2+；Saga 48 口 PoE（上联规格注明） |
-| BSP-300 | — | 太阳能工业 PoE，Saga 暂无对应型号（不推） |
-| FGSD-1022P | — | FE PoE 管理型，Saga 暂无对应型号（不推） |
+| BSP-300 | —（Saga 暂无对应品类，不硬凑） | 太阳能工业 PoE，Saga 暂无对应型号（不推） |
+| FGSD-1022P | —（Saga 暂无对应品类，不硬凑） | FE PoE 管理型，Saga 暂无对应型号（不推） |
 | FGSD-910P | STC-424DGGPM-280W | 同口数/同上联近似对位，非功能等价 |
 
 ## 需求与场景（推断标签）

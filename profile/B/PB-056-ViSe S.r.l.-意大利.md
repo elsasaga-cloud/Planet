@@ -68,11 +68,11 @@ updated: 2026-10-20
 | FGSW-2624HPS | STC-28DGGPM | 同口数/同上联近似对位，非功能等价 |
 | FGSW-2624HPS4 | STC-28DGGPM | 同口数/同上联近似对位，非功能等价 |
 | FGSW-1822VHP | STC-28DGGPM | 同口数/同上联近似对位，非功能等价 |
-| GSD-1008HP | — | 8 口桌面 PoE 非管理型，Saga 暂无对应 |
+| GSD-1008HP | —（Saga 暂无对应品类，不硬凑） | 8 口桌面 PoE 非管理型，Saga 暂无对应 |
 | FGSD-2622VHP | STC-28DGGPM | 同口数/同上联近似对位，非功能等价 |
 | FGSD-1011HP | STC-28DGGPM | 同口数/同上联近似对位，非功能等价 |
 | IGS-5225-8P4S | STI-488DGGPM | 工业 8 PoE + 4 SFP 管理型 |
-| NMS-500 | — | 网管控制器，Saga 不做 |
+| NMS-500 | —（Saga 暂无对应品类，不硬凑） | 网管控制器，Saga 不做 |
 
 ## 需求与场景（推断标签）
 

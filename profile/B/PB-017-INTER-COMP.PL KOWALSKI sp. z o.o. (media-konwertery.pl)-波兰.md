@@ -52,7 +52,7 @@ updated: 2026-10-20
 |---|---|---|
 | IGS-4215-4P4T | STI-088GP（近似） | 工业 4 PoE + 4 铜 |
 | IGS-6325 | STI-488DGGPM（近似，L3 系列） | PLANET 为 L3 工业；Saga 工业 L2+ |
-| FGSD-1022VHP | — | FE PoE：Saga 暂无对应（无 FE PoE 线） |
+| FGSD-1022VHP | —（Saga 暂无对应品类，不硬凑） | FE PoE：Saga 暂无对应（无 FE PoE 线） |
 
 ## 需求与场景（推断标签）
 

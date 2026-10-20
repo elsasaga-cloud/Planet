@@ -65,7 +65,7 @@ updated: 2026-10-20
 | GS-4210-24P4C | STC-424DGGPM-280W | 24×GE PoE+ + 4 上联；PLANET 为 4 Combo，Saga 为 4×1G/2.5G SFP |
 | GS-5220-16S8CR | STC-4168XGGCM | 16×SFP + 8 Combo L2+；Saga 为 L3 档 $413 列表，报价按公式 |
 | IGS-514PT | STI-054GP | 工业 4 PoE + 1 上联非管理，近似 |
-| LRP-111U-KIT | — | Long Reach PoE 延长器：Saga 暂无对应，SmartByte 亦无 |
+| LRP-111U-KIT | —（Saga 暂无对应品类，不硬凑） | Long Reach PoE 延长器：Saga 暂无对应，SmartByte 亦无 |
 
 ## 需求与场景（推断标签）
 

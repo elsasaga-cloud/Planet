@@ -57,7 +57,7 @@ updated: 2026-10-20
 |---|---|---|
 | GS-6311-24HP4X | STC-424XGGPM-280W | PLANET 含 8 口 802.3bt；Saga 全 802.3at（无 bt，注明） |
 | SGS-6310-24P4X | STC-424XGGPM-280W | PLANET 为 L3 可堆叠 24 PoE+ + 4×10G SFP+（370W）；Saga 为 L2+ 280W（无 L3/堆叠，注明） |
-| IGS-6325-16T4X | — | 工业 16 GE 非 PoE + 4×10G L3，Saga 暂无对应型号（不推） |
+| IGS-6325-16T4X | —（Saga 暂无对应品类，不硬凑） | 工业 16 GE 非 PoE + 4×10G L3，Saga 暂无对应型号（不推） |
 | IGS-6325-24UP4X | STI-42424XGGPM | PLANET 24×95W bt + 4×10G；Saga 24×at + 4×10G（无 bt/L3，注明） |
 | IGS-6325-16P4S | STI-21616DGGPM | 工业 16 口 PoE + 4 SFP L3 → Saga 工业 L2+ 16 PoE（无 L3，注明） |
 

@@ -70,8 +70,8 @@ updated: 2026-10-20
 
 | PLANET 型号（证据所见） | Saga 对位 | 说明 |
 |---|---|---|
-| LRE-101 | — | 单口 10/100 以太网延长器，Saga 暂无对应型号（不推） |
-| LRP-422CST | — | PLANET 工业 4 口 PoE 长距延长器（Long Reach），Saga 暂无对应型号（不推）；同场景改推 STI-288DGGPM 工业 DIN PoE 交换机 |
+| LRE-101 | —（Saga 暂无对应品类，不硬凑） | 单口 10/100 以太网延长器，Saga 暂无对应型号（不推） |
+| LRP-422CST | —（Saga 暂无对应品类，不硬凑） | PLANET 工业 4 口 PoE 长距延长器（Long Reach），Saga 暂无对应型号（不推）；同场景改推 STI-288DGGPM 工业 DIN PoE 交换机 |
 | LRP-104CET | STI-288DGGPM | 同口数/同上联近似对位，非功能等价 |
 
 ## 需求与场景（推断标签）

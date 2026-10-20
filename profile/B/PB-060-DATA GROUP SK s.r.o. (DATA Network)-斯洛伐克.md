@@ -69,9 +69,9 @@ updated: 2026-10-20
 |---|---|---|
 | GS-4210-8UP2S | STC-28DGGPM（802.3at 档） | PLANET 为 8 口 bt 95W；Saga 8 口 PoE+ 2 SFP 管理型作同槽位 at 档 |
 | GS-2210-24P2S | STC-424DGGPM-280W | 24 口 PoE 智能/管理型同槽位 |
-| IGS-6325-24P4X | — | 机架式 L3 工业 24 口 PoE + 10G，Saga 工业线暂无 24 口机架对应 |
+| IGS-6325-24P4X | —（Saga 暂无对应品类，不硬凑） | 机架式 L3 工业 24 口 PoE + 10G，Saga 工业线暂无 24 口机架对应 |
 | IGS-5225-8P4S | STI-288DGGPM | DIN 导轨 8 口千兆 PoE + SFP 管理型同槽位 |
-| WGS-6325-8UP2X | — | 壁挂 L3 bt PoE++ + 10G，Saga 暂无对应 |
+| WGS-6325-8UP2X | —（Saga 暂无对应品类，不硬凑） | 壁挂 L3 bt PoE++ + 10G，Saga 暂无对应 |
 | WGS-4215-8HP2S | STI-288DGGPM（DIN 版） | 壁挂 8 口 PoE 管理型；Saga 以 DIN 导轨款对位，安装形态不同 |
 
 ## 需求与场景（推断标签）

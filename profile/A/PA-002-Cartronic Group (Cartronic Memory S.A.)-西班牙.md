@@ -70,10 +70,10 @@ updated: 2026-10-20
 |---|---|---|
 | GS-4210-24P4C | STC-424DGGPM-280W | 24×GE PoE+ + 4 上联 |
 | FGSD-1011HP | STI-188FP（近似，非管理工业） | 8×FE PoE + 2 GE 桌面型；Saga 商用线无 FE PoE 管理型，仅工业非管理 STI-188FP（8 FE PoE + 1 SFP）近似 |
-| FSD-804PS | — | FE PoE 媒体转换/小交换：Saga STI-144FP（4 FE PoE + 1 SFP）近似 |
-| FNSW-2400 | — | 24 口 FE 非管理：Saga 无商用非管理 FE 型 |
-| ITS-5216-8P2TB-WV | — | M12/EN50155 轨交型：Saga 不做轨交，守界不对标 |
-| UPOE-1600G | — | bt 95W 注入器：Saga 暂无对应 |
+| FSD-804PS | —（Saga 暂无对应品类，不硬凑） | FE PoE 媒体转换/小交换：Saga STI-144FP（4 FE PoE + 1 SFP）近似 |
+| FNSW-2400 | —（Saga 暂无对应品类，不硬凑） | 24 口 FE 非管理：Saga 无商用非管理 FE 型 |
+| ITS-5216-8P2TB-WV | —（Saga 暂无对应品类，不硬凑） | M12/EN50155 轨交型：Saga 不做轨交，守界不对标 |
+| UPOE-1600G | —（Saga 暂无对应品类，不硬凑） | bt 95W 注入器：Saga 暂无对应 |
 
 ## 需求与场景（推断标签）
 

@@ -58,12 +58,22 @@ def load_prices():
     if not os.path.exists(PRICE_CSV):
         return by_saga, by_sb
     with open(PRICE_CSV, encoding="utf-8-sig", newline="") as f:
-        for r in csv.DictReader(f):
-            by_sb[r["SmartByte型号"]] = r
-            s = r["Saga对应型号"]
-            if s and not s.startswith("（"):
-                by_saga.setdefault(s, r)
-                base = re.sub(r"\(.*?\)$", "", s)
+        rows = list(csv.DictReader(f))
+    for r in rows:
+        by_sb[r["SmartByte型号"]] = r
+    # 第一遍：精确键（含 "(L3)" 等档位后缀的原样键）——同名时首行优先
+    for r in rows:
+        s = r["Saga对应型号"]
+        if s and not s.startswith("（"):
+            by_saga.setdefault(s, r)
+    # 第二遍：去档位括号的基础键，只在精确键不存在时才补——
+    # 修复 W15 发现的缺陷：价格表中 L3 行（STC-424XGGM(L3)）先于 L2+ 行（STC-424XGGM）出现时，
+    # 旧逻辑 setdefault(base) 让 L3 价覆盖了 L2+ 的精确键（$269.1 vs $127.4）。
+    for r in rows:
+        s = r["Saga对应型号"]
+        if s and not s.startswith("（"):
+            base = re.sub(r"\(.*?\)$", "", s)
+            if base != s:
                 by_saga.setdefault(base, r)
     return by_saga, by_sb
 

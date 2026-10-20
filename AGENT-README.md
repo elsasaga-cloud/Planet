@@ -57,7 +57,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | `docs/reference/Saga公司画像与边界.md` | 用户背景 docx 的结构化版 |
 | `docs/methodology/Planet客户挖掘方法论.md` | M1–M10 方法与国家顺序 |
 | `docs/methodology/死路与死链备案.md` | 404/登录墙/匿名页 + 信号源名单 + 区域外命中 |
-| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 46 行（W09 +1 行：A-482 IPC2U；此前 45 行：W03 +8 行，W04 改写 8 行说明，W05 改写 7 行，W06 +5 行：A-541/A-270/A-546/A-096/A-553，W07 +2 行：B-201/B-274） |
+| `data/Mikrotik仓库已有PLANET相关客户_对照.csv` | 跨仓去重参照 52 行（W15 +6 行：C-040 / C-227 / A-380 / B-346 / A-579 / A-487；W09 +1 行：A-482 IPC2U；此前 45 行：W03 +8 行，W04 改写 8 行说明，W05 改写 7 行，W06 +5 行：A-541/A-270/A-546/A-096/A-553，W07 +2 行：B-201/B-274） |
 | `docs/requirements/待统一处理问题清单.md` | T07 起所有待用户裁定事项（Q-xx 冻结编号 + 默认处理）；Agent 不再逐轮提问 |
 
 ## 4. 操作记录
@@ -82,6 +82,7 @@ grep -c "" data/客户名单_Planet渠道_2026-10.csv ; ls profile/A profile/B p
 | PR-02 · W12 | 2026-10-20 | B ★★★ 回查 4/4 现役（fetch_page ×4）；PA-011 第 4 次 500 → 停止自动重试；挖掘 6 次 0 新（饱和判定，W13 起挖掘停止）；批次 `batch/2026-10-20_W12_*.json` 只有 6 条 refresh（4 回查 + PA-006/PB-036 触达史），add_batch merged=6 / added=0；README 第 16 条标记已执行、新增第 17 条 W13 计划 | 87（不变） | errors: 0 |
 | PR-02 · W13 | 2026-10-20 | T17 用户令「继续挖客户吧」→ 新矿脉 23 查询 + 6 抓取 → +2 户（后 9 次 0 新）（PB-060 SK / PB-061 PL，均 B，20% 档）；批次 `batch/2026-10-20_W13_新矿脉补挖_SK-PL.json`（含 `short_name`、`gmail_check` 两个新可选字段）；add_batch added=2 / merged=0；render.py 问候语缺陷修复（通用信箱 → 「Hi <短名> team,」，去法律后缀，>4 词截前 2 词）；README 第 17 条标记已执行 + 第 18 条 W14 计划 | 89 | errors: 0 |
 | PR-02 · W14 | 2026-10-20 | T18 用户令「继续挖客户 do your best，裁定问题最后再说」→ 工具层矿脉 29 查询 + 18 抓取 + 2 Gmail → +1 户（PB-062 Gateway Comunicaciones，ES 加那利，B ★，20% 档，P1 STI-280GE）；批次 `batch/2026-10-20_W14_工具层矿脉_ES.json`（新增可选字段 `pitch`：整段覆写邮件产品段，占位 `{p1}` / `{price_str}`）；add_batch added=1 / merged=0；render.py 产品段硬编码 → `pitch_override`（三段样板默认文案不变，89 档 0 diff）；README 第 18 条标记已执行 + 第 19 条 W15 计划；第二段收口探针 6 次 0 新 → 免费矿脉正式封矿（batch 第二段 + 死路备案 W14 第二段） | 90 | errors: 0 |
+| PR-02 · W15 | 2026-10-20 | T19 用户令「继续挖」（第二次推翻封矿判定）→ 目录型矿脉 ①：重克隆 Mikrotik 仓库 → 709 个未提及域名 → `site:<域名> planet switch` 探针 54 次 + 核身 10 次 + fetch 13 段 + Gmail 2 次 → +6 户（PB-063 MADER CZ / PB-064 Link Technologies US / PB-065 WISP.PL PL / PB-066 EPCOM US / PB-067 EDOX FR / PB-068 MARCOM IT，全 B，20% 档）；批次 `batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json`；add_batch added=6 / merged=0；`common.load_prices` 精确键优先（修 STC-424XGGM L2+/L3 串价）；`render.py` `model_map` "—" → 「—（Saga 暂无对应品类，不硬凑）」（27 档重渲，0 报价变动）；对照 CSV +6 行；README 进度行 / 证据清单 / 第 19–21 条；死路备案 W15；触达清单说明 W15 增补；总账 PR-02-14 | 96 | errors: 0 |
 
 ## 5. 已知坑（本仓库）
 

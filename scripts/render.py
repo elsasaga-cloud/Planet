@@ -183,7 +183,12 @@ def render_one(row, by_saga, by_sb):
         L.append("| PLANET 型号（证据所见） | Saga 对位 | 说明 |\n|---|---|---|")
         for m in pm:
             mp = c.get("model_map", {}).get(m, {})
-            L.append(f"| {m} | {mp.get('saga', p1 or '—')} | {mp.get('note','同口数/同上联近似对位，非功能等价')} |")
+            # W15 修缺陷：model_map 里 saga 为 "—"/空/None（Saga 无对应品类）时，旧版渲染成空列；
+            # 现统一显示「—（Saga 暂无对应品类，不硬凑）」，说明列保留批次给出的 note。
+            saga_cell = mp.get("saga") if "saga" in mp else (p1 or "—")
+            if not saga_cell or str(saga_cell).strip() in ("—", "-", "无", "None"):
+                saga_cell = "—（Saga 暂无对应品类，不硬凑）"
+            L.append(f"| {m} | {saga_cell} | {mp.get('note','同口数/同上联近似对位，非功能等价')} |")
     else:
         L.append("- 证据页未列具体型号（只到品牌级）；首触后再问。")
     L.append("")

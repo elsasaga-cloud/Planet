@@ -71,7 +71,7 @@ updated: 2026-10-20
 | PLANET 型号（证据所见） | Saga 对位 | 说明 |
 |---|---|---|
 | WGS-4215-8P2S | STI-288DGGPM | 工业 L2+ 8×GE PoE + 2 SFP（PLANET 壁挂，Saga DIN） |
-| FGSW-2622VHP | — | 24×FE PoE + 2 GE 非管理：Saga 商用线无 FE PoE 型；就近 STC-424DGGPM-280W（千兆） |
+| FGSW-2622VHP | —（Saga 暂无对应品类，不硬凑） | 24×FE PoE + 2 GE 非管理：Saga 商用线无 FE PoE 型；就近 STC-424DGGPM-280W（千兆） |
 
 ## 需求与场景（推断标签）
 

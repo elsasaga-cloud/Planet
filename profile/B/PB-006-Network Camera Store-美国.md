@@ -60,7 +60,7 @@ updated: 2026-10-20
 | PLANET 型号（证据所见） | Saga 对位 | 说明 |
 |---|---|---|
 | GS-4210-8P2T2S | STC-28DGGPM | 8×GE PoE + 2 GE + 2 SFP；Saga 为 8 PoE + 2 SFP |
-| GS-4210-16UP4C | — | 16 口 Ultra PoE 60W：Saga 商用线无 bt/UPoE；SmartByte 亦无 16 口商用 BT 型 → 不对标 |
+| GS-4210-16UP4C | —（Saga 暂无对应品类，不硬凑） | 16 口 Ultra PoE 60W：Saga 商用线无 bt/UPoE；SmartByte 亦无 16 口商用 BT 型 → 不对标 |
 | GS-4210-24P4C | STC-424DGGPM-280W | 24×GE PoE+ + 4 上联 |
 | GS-4210-24PL4C | STC-424DGGPM-280W | 同上（PL = 低功耗预算版） |
 

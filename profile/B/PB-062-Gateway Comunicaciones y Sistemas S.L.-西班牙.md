@@ -83,9 +83,9 @@ updated: 2026-10-20
 | IGS-1600T | STI-0160GE | 工业 DIN 16×GE 无管理，同槽位 |
 | ISW-801T | STI-080FE | 工业 DIN 8×FE 无管理，同槽位 |
 | IGS-10020MT | STI-280DGGM | 工业 DIN 8×GE + 2×SFP 管理型；Saga 为 L2+（SFP 1G/2.5G） |
-| IGT-805AT | — | 工业媒体转换器，Saga 价目表无此品类 |
-| PWR-40-24 | — | DIN 导轨电源，Saga 不做 |
-| PWR-60-24 | — | DIN 导轨电源，Saga 不做 |
+| IGT-805AT | —（Saga 暂无对应品类，不硬凑） | 工业媒体转换器，Saga 价目表无此品类 |
+| PWR-40-24 | —（Saga 暂无对应品类，不硬凑） | DIN 导轨电源，Saga 不做 |
+| PWR-60-24 | —（Saga 暂无对应品类，不硬凑） | DIN 导轨电源，Saga 不做 |
 
 ## 需求与场景（推断标签）
 

@@ -70,10 +70,10 @@ updated: 2026-10-20
 
 | PLANET 型号（证据所见） | Saga 对位 | 说明 |
 |---|---|---|
-| IPOE-175 | — | IP67 PoE++ 注入器，Saga 不做 IP67（守界） |
+| IPOE-175 | —（Saga 暂无对应品类，不硬凑） | IP67 PoE++ 注入器，Saga 不做 IP67（守界） |
 | IGS-624HPT | STI-288DGGPM | PLANET 为工业 4 PoE + 2 SFP；Saga 以工业 8 PoE + 2 SFP L2+ 覆盖（端口数上移，注明） |
 | IPOE-173S | STI-288DGGPM | 同口数/同上联近似对位，非功能等价 |
-| BSP-360 | — | 太阳能控制器 + PoE 交换机，Saga 暂无对应型号（不推） |
+| BSP-360 | —（Saga 暂无对应品类，不硬凑） | 太阳能控制器 + PoE 交换机，Saga 暂无对应型号（不推） |
 | IPOE-171-60W | STI-288DGGPM | 同口数/同上联近似对位，非功能等价 |
 | IGTP-805AT | STI-288DGGPM | 同口数/同上联近似对位，非功能等价 |
 | POE-173S | STI-288DGGPM | 同口数/同上联近似对位，非功能等价 |

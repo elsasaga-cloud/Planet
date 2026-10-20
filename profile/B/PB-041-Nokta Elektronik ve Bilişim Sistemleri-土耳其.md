@@ -61,7 +61,7 @@ updated: 2026-10-20
 | GS-5220-8P2T2S | STC-28DGGPM | 8×GE PoE+ + 2 SFP（Saga 无额外 2 铜口，注明） |
 | GS-5220-24UP4XV | STC-424XGGPM-280W | PLANET 为 24×75W Ultra PoE + 4×10G SFP+ + LCD；Saga 为 24×802.3at PoE+ 280W + 4×10G SFP+ L2+（无 bt/LCD，注明） |
 | GS-5220-24UP4XVR | STC-424XGGPM-280W | 同口数/同上联近似对位，非功能等价 |
-| GS-5220-16S8C | — | 24 SFP 光口核心机型，Saga 暂无对应型号（不推） |
+| GS-5220-16S8C | —（Saga 暂无对应品类，不硬凑） | 24 SFP 光口核心机型，Saga 暂无对应型号（不推） |
 | GS-5220-16S8CR | STC-424XGGPM-280W | 同口数/同上联近似对位，非功能等价 |
 
 ## 需求与场景（推断标签）

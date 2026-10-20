@@ -1,0 +1,1312 @@
+{
+  "batch": "W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）",
+  "date": "2026-10-20",
+  "method": [
+    "矿脉 ①「目录型」：取 Mikrotik 仓库客户主表 1,032 行中区域内、本仓从未提及的 709 个域名（分销/电商 332 + 集成 338），逐个 `web_search site:<域名> planet switch`（depth 1，每次 6 个并行）；正 = 出现 PLANET 商品/品牌页；负 = 只出现其他品牌页；空结果 = 不可判（待二次核）",
+    "命中后：fetch 商品/类目/关于页取证 → 企业名录核身（IČO / KRS / SIREN / P.IVA / 人数 / 营收）→ 本仓主表 + 全仓 grep 去重 → Mikrotik 仓库同户判定（并档规则：Mikrotik A/B 有邮箱 → 首触以 Mikrotik 为准；Mikrotik C 无邮箱/挂起 → 按 Q-05 通则 Planet 仓首触）→ Gmail in:anywhere 触达史 → 定级 → P1 对位 + 价格行",
+    "价格行：common.price_line(model, tier)；本轮修复 load_prices 键位缺陷（精确键优先于去括号基础键）",
+    "本轮 54 探针 → 6 命中（11%）：wisp.pl / mader.cz / epcom.net / linktechs.net / edox.com / marcomweb.it；38+10 负、2 空"
+  ],
+  "tools": "web_search（site: 探针 54 + 核身 10）、fetch_page（wisp.pl ×4、mader.cz ×2[500]、shop.linktechs.net ×2、epcom.net ×2、edox.com ×2、shop.marcomweb.it ×1）、Gmail list_messages（in:anywhere 合并域名查询）、本地 Mikrotik 仓库副本（/tmp/mikrotik-info，分支 arena/01a0c3ef-mikrotik-info）读取 C-040 / C-227 / A-380 / B-346 / A-579 / A-487 行",
+  "queries": [
+    "web_search `site:varia-store.com planet switch`（depth 1）→ 负：Ubiquiti/MikroTik/TP-Link 页，无 PLANET",
+    "web_search `site:omg.de planet switch`（depth 1）→ 负：无 PLANET 页",
+    "web_search `site:acceed.de planet switch`（depth 1）→ 空结果（不可判）",
+    "web_search `site:videor.com planet switch`（depth 1）→ 负：安防分销，无 PLANET",
+    "web_search `site:wifi-stock.co.uk planet switch`（depth 1）→ 负：Ubiquiti/MikroTik",
+    "web_search `site:4gon.co.uk planet switch`（depth 1）→ 负：Ubiquiti/Cambium/MikroTik",
+    "web_search `site:actn.fr planet switch`（depth 1）→ 负：无 PLANET",
+    "web_search `site:azurtem.com planet switch`（depth 1）→ 负：无 PLANET",
+    "web_search `site:sphinxfrance.com planet switch`（depth 1）→ 负：Moxa/Advantech",
+    "web_search `site:cdr.pl planet switch`（depth 1）→ 负：Ubiquiti/MikroTik",
+    "web_search `site:interprojekt.pl planet switch`（depth 1）→ 负：Ubiquiti/MikroTik",
+    "web_search `site:wisp.pl planet switch`（depth 1）→ 正：k19 switche「Producent Planet (4)」+ ISW-621 / MC-RPS130 / VC-231 产品页 → PB-065",
+    "web_search `site:csi.pl planet switch`（depth 1）→ 负：Aaxeon/Advantech",
+    "web_search `site:cablewindow.com planet switch`（depth 1）→ 负：Utepo",
+    "web_search `site:dmi.es planet switch`（depth 1）→ 负：TP-Link/Dahua/Digitus",
+    "web_search `site:tempelgroup.com planet switch`（depth 1）→ 负：Moxa/Advantech",
+    "web_search `site:ecomshop.es planet switch`（depth 1）→ 负：EnGenius/Stonet/Netis",
+    "web_search `site:alternetivo.cz planet switch`（depth 1）→ 负：DCN/ORing/Teltonika",
+    "web_search `site:mader.cz planet switch`（depth 1）→ 正：GS-4210 / GSD / IGS / WGS / XGS3 多款「Skladem v eshopu」→ PB-063",
+    "web_search `site:secomp.cz planet switch`（depth 1）→ 负：TRENDnet",
+    "web_search `site:wifiprofi.cz planet switch`（depth 1）→ 负：MikroTik/Grandstream",
+    "web_search `site:epcom.net planet switch`（depth 1）→ 正：IGS-620TF / WGSD-10020 / IGS-6325 / GS-4210-24T2S / XGS3-24042 产品页 → PB-066",
+    "web_search `site:rspsupply.com planet switch`（depth 1）→ 负：电气/Hirschmann",
+    "web_search `site:targetd.com planet switch`（depth 1）→ 负：Zyxel/TP-Link/EnGenius",
+    "web_search `site:5gstore.com planet switch`（depth 1）→ 负：自有 IP 交换机/Teltonika/Peplink",
+    "web_search `site:linktechs.net planet switch`（depth 1）→ 正：GS-2240-24T4X $449 / IGS-5225-20T4C2X $1,216 / XGSW-28040 $772 / GS-4210-8P2S $244 → PB-064",
+    "web_search `site:wireless-bolt.hu planet switch`（depth 1）→ 负：MikroTik/TP-Link",
+    "web_search `site:netdist.se planet switch`（depth 1）→ 负：仅 MikroTik",
+    "web_search `site:aurdel.com planet switch`（depth 1）→ 负：Deltaco/D-Link",
+    "web_search `site:netzware.at planet switch`（depth 1）→ 负：MikroTik",
+    "web_search `site:officelan.pt planet switch`（depth 1）→ 负：Ubiquiti/TP-Link/MikroTik/Huawei/Grandstream",
+    "web_search `site:smartsd.com planet switch`（depth 1）→ 负：安防分销，无 PLANET",
+    "web_search `site:soselectronic.com planet switch`（depth 1）→ 负：元器件",
+    "web_search `site:capestone.com planet switch`（depth 1）→ 负：Teltonika/TP-Link/Ubiquiti",
+    "web_search `site:sphinxitalia.it planet switch`（depth 1）→ 负：Moxa/Advantech",
+    "web_search `site:wisp.store planet switch`（depth 1）→ 负：Ubiquiti/Tenda/Netis/MikroTik",
+    "web_search `site:axilogi.com planet switch`（depth 1）→ 负：HPE/Aruba/TP-Link 数据表",
+    "web_search `site:edox.com planet switch`（depth 1）→ 正：交换机类目品牌筛选「Planet (155)」+ GS-4210-16P2S / GS-4210-24HP2C / GSD-604HP / ISW-504PT / MGSW-24160F / GS-2210-16T2S 产品页 → PB-067",
+    "web_search `site:allnetfrance.fr planet switch`（depth 1）→ 负：仅 ALLNET SFP 模块「兼容 Planet」字样，无 PLANET 商品",
+    "web_search `site:laufquen.com planet switch`（depth 1）→ 负：MikroTik/Ruijie/Ubiquiti（且主站为阿根廷）",
+    "web_search `site:marcomweb.it planet switch`（depth 1）→ 正：ISW-621 €118 / IGS-10020MT €388 / IGS-4215-4T2S €193 / ISW-800T / ISW-500T / IGS-1020TF（EOL 促销）+ 厂商页 /manufacturer/planet → PB-068",
+    "web_search `site:allnet-italia.it planet switch`（depth 1）→ 负：Ubiquiti/Aten/Fanvil/ALLNET 自有，无 PLANET",
+    "web_search `site:atel.com.pl planet switch`（depth 1）→ 负：Edge-core/TP-Link/ORing",
+    "web_search `site:routerboard.se planet switch`（depth 1）→ 负：仅 MikroTik",
+    "web_search `site:localnet.fi planet switch`（depth 1）→ 负：ISP/主机托管，无网店",
+    "web_search `site:etree.de planet switch`（depth 1）→ 负：Zyxel/LevelOne/Ubiquiti/Cisco/MikroTik",
+    "web_search `site:hsc-solutions.de planet switch`（depth 1）→ 负：MikroTik 方案页，无网店",
+    "web_search `site:interstroom.nl planet switch`（depth 1）→ 空结果（不可判）",
+    "web_search `site:wi.com.tr planet switch`（depth 1）→ 负：MikroTik/Ubiquiti",
+    "web_search `site:dssi.pt planet switch`（depth 1）→ 负：Ubiquiti/Stormshield/Solarwinds",
+    "web_search `site:alfasystems.be planet switch`（depth 1）→ 负：LevelOne/Antaira/PowerWalker",
+    "web_search `site:pymatek.co.uk planet switch`（depth 1）→ 负：工业自动化元件（Advantech EKI 一款）",
+    "web_search `site:mpi.ch planet switch`（depth 1）→ 负：ORing/Atop/Epsilon",
+    "web_search `site:wifx.net planet switch`（depth 1）→ 负：仅 MikroTik",
+    "web_search `mader.cz kontakt IČO MADER s.r.o. Liberec`（→ kontakty 页快照：IČO 64793419、1. máje 14 Liberec、ředitel ing. Jan Mader、obchod Miroslav Janoušek / Jaroslav Havlíček；rejstrik.penize.cz 列 obchod@mader.cz / liberec@mader.cz / mader@mader.cz；edb.eu 营收 €1.2–2.4M、1996 年成立）",
+    "web_search `site:mader.cz planet IGS OR GS-4210 OR GSD skladem`（→ 类目 /switche20289401：GS-4210-16P4C 11272 Kč、GS-4210-16P2S 6644 Kč skladem、GS-4210-8P2C 5853 Kč skladem、GSD-1002M 3194 Kč；IGS-10020MT 9889 Kč skladem；GS-4210-48P4S 22056 Kč skladem；GSD-1022UP 3775 Kč skladem）",
+    "fetch mader.cz/ 与 mader.cz/kontakty（→ 两次 HTTP 500，站点对抓取器封锁；改用搜索快照取证）",
+    "web_search `EPCOM El Paso Communication Systems employees revenue founded`（→ buzzfile：El Paso Communication Systems dba Epcom，El Paso TX，$23.7M、95 人、1987 年；LinkedIn epcomusa：51–200 人、三个配送中心 San Antonio / El Paso / Miami；leadiq ≈101 人）",
+    "fetch epcom.net/about-us（→ 404）；fetch epcom.net/（→ 多品类目录首页：ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；Syscom CDN）",
+    "web_search `\"wisp.pl\" Bełk NIP KRS Allnet Sp. z o.o.`（→ wisp.pl/info.html：Allnet Sp. z o.o. Sp.k.、ul. Dębowa 2A Bełk、KRS 0000379258、NIP 642-315-64-22、MikroTik VAD；LinkedIn wisppl：2–10 人、2008；altostrat.io：sklep@wisp.pl / +48 32 721 86 72）",
+    "fetch wisp.pl/kontakt（→ 404）；fetch wisp.pl/（→ 品牌条 MikroTik/Ubiquiti/TP-Link/Tenda/Teltonika/Cudy/Solarix/StalFlex + Scodeno 工业交换机横幅；页脚无法务信息）；fetch wisp.pl/k19,switche.html（→ 品牌筛选含 Planet (4)）",
+    "fetch linktechs.net（→ 302 至 shop.linktechs.net）；fetch shop.linktechs.net/about-us（→ About 正文 + support@LinkTechs.net + 314-735-0270 / 647-725-7011）",
+    "fetch edox.com/Webshop/category/10004008（→ 交换机类目，品牌筛选 Mikrotik 37 / Planet 155 / Qnap 4 / Teltonika 16 / TP-Link 204 / Ubiquiti 65 / Zyxel 88；登录墙前可见）；fetch edox.com/Webshop/docpages.aspx?pagename=aboutus（→ 重定向回 default.aspx，关于页需登录）",
+    "web_search `EDOX distributeur informatique SIREN effectif`（→ societe.com / pappers / manageo / annuaire-entreprises：EDOX SAS(U)，SIREN 390 279 750，ZI de la Doller 1 rue de la Forêt Noire 68520 Burnhaupt-le-Haut，1993-03，20–49 人（2023），CA €66.9M（2025），资本 €200k，总裁 ARKENA（2022-11 起）；edox.com 首页：「5000 revendeurs」「Fondé en 1993」「40.000 m³ de stock」「distribution 100% indirecte」）",
+    "web_search `\"edox.com\" \"commercial@edox.com\" OR \"contact@edox.com\"`（→ kaspersky.fr 分销商名录：EDOX commercial@edox.com +33 3 89 31 06 20；infonet.fr：contact@edox.com）",
+    "web_search `MARCOM S.r.l. marcomweb.it P.IVA sede`（→ marcomweb.it：via della Metallurgia 11, 37139 Verona，P.IVA 03718740230，info@marcomweb.it，+39 045 8204747，Fondata nel 2002；ufficiocamerale：REA 359779、营收 €8.50M（2024）、20 人（2026）、利润 €0.78M；LinkedIn：11–50 人）",
+    "web_search `site:shop.marcomweb.it planet IGS OR GS-4210 OR GSD OR ISW prezzo`（→ /manufacturer/planet.html：ISW-800T €78、IGS-10020MT €388、ISW-621TF €107–118、ISW-500T €68、IGS-4215-4T2S €193；ISW-621TF JSON-LD brand PLANET / InStock / €118）",
+    "fetch shop.marcomweb.it/en/shop-online/manufacturer/planet/results,1-30.html（→ 重定向至 /en/prodotti 全品类 3010 件；PLANET 厂商页改以搜索快照取证）",
+    "Gmail `in:anywhere (to:/from:\"wisp.pl\" OR \"mader.cz\" OR \"epcom.net\" OR \"linktechs.net\")`（→ 7 条全部为 biuro@zintronic.pl 模糊命中，与 4 域名无关 → 实际 0 命中，complete:true）",
+    "Gmail `in:anywhere (to:/from:\"edox.com\" OR \"marcomweb.it\")`（→ 9 条全部为 INFO@sarcitalia.it 模糊命中（Gmail 把 \".it\" 切词匹配），与两域名无关 → 实际 0 命中，complete:true）"
+  ],
+  "customers": [
+    {
+      "_code": "PB-063",
+      "name": "MADER s.r.o.",
+      "short_name": "MADER",
+      "country": "捷克",
+      "city": "Liberec（门店 1. máje 14）/ Hradec Králové（注册地 Jasanová 2003）",
+      "website": "mader.cz",
+      "type": "电商/零售（捷克 IT 电商 + 实体门店，1996 年起；交换机类目以 PLANET 为主力品牌，多款「Skladem v eshopu」现货）",
+      "signal": "mader.cz 交换机类目 /switche20289401 与产品页：GS-4210-8P2C 5 853 Kč（skladem）、GS-4210-16P2S 6 644 Kč（skladem）、GS-4210-16P4C 11 272 Kč、GS-4210-48P4S 22 056 Kč（skladem）、GSD-1022UP 3 775 Kč（skladem）、GSD-1002M 3 194 Kč、IGS-10020MT 9 889 Kč（skladem）、WGS-4215-8HP2S、IGS-624HPT（nedostupné）、XGS3-24242——商用 PoE 管理型 + 工业管理型两条线都在卖且备货",
+      "own_brand": "否",
+      "angle": "PLANET GS-4210 PoE 管理型是其交换机货架的主力（8/16/24/48 口都有，且多款现货）→ Saga STC 系列（Marvell L2+，同口数同上联）直接同槽位对位，EXW 价差大（GS-4210-8P2C 零售 5 853 Kč ≈ $260 含税 vs STC-28DGGPM $80.7 EXW）；电商自有品牌化空间：中性包装 + 可贴标，做它的「自有/副牌」入门 PoE 线",
+      "p1": "STC-28DGGPM",
+      "p1_reason": "对位其在售现货 GS-4210-8P2C（8×GE PoE + 2×Combo，L2+ 管理，5 853 Kč skladem）——8 口 PoE 管理型是 IT 电商走量最大的槽位；同系 16/24/48 口（STC-424DGGPM / STC-448DGGPM）第二封再谈",
+      "pitch": "We supply Marvell-based L2+ managed PoE switches (8/16/24/48-port, 1G/2.5G SFP uplinks, web + CLI + SNMP) that sit in the same slot as the PLANET GS-4210 PoE series you stock, at EXW prices that leave room for an own-label entry line; neutral packaging and your own label are available from small quantities. The unit I would start with is {p1} at {price_str}.",
+      "tier": 0.2,
+      "tier_reason": "电商/零售转售 → 20%",
+      "priority": "★★",
+      "rating": "B",
+      "rating_basis": "需求：PLANET 商用 PoE 管理型 + 工业管理型多款在售且多款「Skladem v eshopu」现货（含 48 口 22 056 Kč 高价款）→ 真实、可追溯的进货需求；触达：obchod@mader.cz 公开（企业名录转载官网），kontakty 页列具名 obchod 负责人 Miroslav Janoušek / Jaroslav Havlíček 与 ředitel ing. Jan Mader（邮箱页面混淆未公开 → 不猜）；体量：营收 €1.2–2.4M、1996 年成立、两城门店 → 可赢。无具名直邮 → 不到 A → B ★★",
+      "source": "W15 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（Mikrotik C-040 行域名反查）；企业名录核身（rejstrik.penize.cz / edb.eu / dtest）",
+      "planet_models": [
+        "GS-4210-8P2C",
+        "GS-4210-16P2S",
+        "GS-4210-16P4C",
+        "GS-4210-48P4S",
+        "GSD-1022UP",
+        "GSD-1002M",
+        "IGS-10020MT",
+        "WGS-4215-8HP2S",
+        "IGS-624HPT",
+        "XGS3-24242"
+      ],
+      "model_map": {
+        "GS-4210-8P2C": {
+          "saga": "STC-28DGGPM",
+          "note": "8×GE PoE + 2×SFP（PLANET 为 Combo），L2+，同槽位"
+        },
+        "GS-4210-16P2S": {
+          "saga": "STC-424DGGPM-280W",
+          "note": "Saga 商用 PoE 管理型无 16 口，就近上靠 24 口 280W"
+        },
+        "GS-4210-16P4C": {
+          "saga": "STC-424DGGPM-280W",
+          "note": "同上，24×GE PoE + 4×SFP 上靠"
+        },
+        "GS-4210-48P4S": {
+          "saga": "STC-448DGGPM",
+          "note": "48×GE PoE + 4×SFP，L2+，同槽位"
+        },
+        "GSD-1022UP": {
+          "saga": "STC-28DGGPM",
+          "note": "PLANET 为 8 PoE+2 SFP 非管理 180W；Saga 以管理型 STC-28DGGPM 补位（Saga 商用线无非管理 PoE 桌面款）"
+        },
+        "GSD-1002M": {
+          "saga": "—",
+          "note": "8×GE + 2×SFP 商用非管理桌面款：Saga 商用线无非管理款，不硬凑"
+        },
+        "IGS-10020MT": {
+          "saga": "STI-280DGGM",
+          "note": "工业 DIN 8×GE + 2×SFP 管理型，同槽位"
+        },
+        "WGS-4215-8HP2S": {
+          "saga": "STI-288DGGPM",
+          "note": "PLANET 为壁挂 8 PoE + 2 SFP 管理；Saga 以工业 DIN 8 PoE + 2 SFP L2+ 补位"
+        },
+        "IGS-624HPT": {
+          "saga": "STI-244GPM",
+          "note": "工业 4×GE PoE + 2×SFP 管理（PLANET 页面标 nedostupné）"
+        },
+        "XGS3-24242": {
+          "saga": "STC-424XGGM(L3)",
+          "note": "24×GE + 4×10G SFP+，L3"
+        }
+      },
+      "contacts": [
+        {
+          "name": "—（obchod / 销售部）",
+          "role": "sales",
+          "email": "obchod@mader.cz",
+          "phone": "+420 485 113 473",
+          "status": "公开（企业名录 rejstrik.penize.cz 转载官网 kontakty；官网 kontakty 页邮箱为图片/混淆）",
+          "source": "https://rejstrik.penize.cz/64793419-mader-s-r-o"
+        },
+        {
+          "name": "Miroslav Janoušek",
+          "role": "obchod（销售）",
+          "email": "",
+          "phone": "+420 485 113 473",
+          "status": "具名但无公开邮箱（官网 kontakty 页混淆）→ 不猜；首触写 obchod@ 并点名",
+          "source": "https://www.mader.cz/kontakty"
+        },
+        {
+          "name": "Jaroslav Havlíček",
+          "role": "obchod（销售）",
+          "email": "",
+          "phone": "",
+          "status": "具名无公开邮箱",
+          "source": "https://www.mader.cz/kontakty"
+        },
+        {
+          "name": "ing. Jan Mader",
+          "role": "ředitel（总经理）",
+          "email": "",
+          "phone": "",
+          "status": "具名无公开邮箱；非首触对象",
+          "source": "https://www.mader.cz/kontakty"
+        }
+      ],
+      "mx": "未查",
+      "evidence": [
+        {
+          "level": "官网",
+          "claim": "交换机类目以 PLANET GS-4210 PoE 管理型为主力，多款现货",
+          "quote": "Switche … PLANET GS-4210-16P4C … 11 272 Kč … PLANET GS-4210-16P2S … 6 644 Kč … Skladem v eshopu … PLANET GS-4210-8P2C … 5 853 Kč … Skladem v eshopu … PLANET GSD-1002M … 3 194 Kč",
+          "url": "https://www.mader.cz/switche20289401",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "工业管理型 IGS-10020MT 现货",
+          "quote": "PLANET switch IGS-10020MT … 9 889 Kč … Skladem v eshopu",
+          "url": "https://www.mader.cz/planet-switch-igs10020mt-8x1gb-2xsfp-industrial-managed",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "48 口 PoE GS-4210-48P4S 现货",
+          "quote": "PLANET GS-4210-48P4S … 22 056 Kč … Skladem v eshopu",
+          "url": "https://www.mader.cz/planet-gs421048p4s-48x1gb-4xsfp-poe-switch",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "GSD-1022UP 8 PoE + 2 SFP 180W 现货",
+          "quote": "Planet PoE switch 8x1Gb 2xSFP 1Gb PoE 180W … GSD-1022UP … 3 775 Kč … Skladem v eshopu",
+          "url": "https://www.mader.cz/planet-poe-switch-8x1gb-2xsfp-1gb-poe-180w-gsd1022up",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "公司法务与具名负责人",
+          "quote": "MADER s.r.o. 1. MÁJE 14, Liberec, 460 07; IČO 64793419 DIČ CZ64793419; Tel 485 113 473; ředitel ing. Jan Mader; obchod: Miroslav Janoušek, Jaroslav Havlíček",
+          "url": "https://www.mader.cz/kontakty",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "公开邮箱 obchod@ / liberec@ / mader@",
+          "quote": "MADER s.r.o., IČO 64793419 … e-mail: liberec@mader.cz, mader@mader.cz, obchod@mader.cz",
+          "url": "https://rejstrik.penize.cz/64793419-mader-s-r-o",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "体量与成立年份",
+          "quote": "MADER s.r.o. … Jasanová 2003, Hradec Králové … 营业额 €1.2–2.4M … 成立 1996",
+          "url": "https://www.edb.eu/",
+          "date": "2026-10-20"
+        }
+      ],
+      "facts": {
+        "IČO": "64793419（DIČ CZ64793419）",
+        "注册地": "Jasanová 2003, 500 12 Hradec Králové（dtest：zápis 1996-04-01）",
+        "门店": "1. máje 14, 460 07 Liberec（tel 485 113 473）",
+        "体量": "营业额 €1.2–2.4M（edb.eu 区间）；1996 年成立",
+        "站点状态": "mader.cz 对抓取器返回 HTTP 500（两次）→ 证据全部来自搜索快照，报价前人工打开核对价格/库存"
+      },
+      "who": "捷克北部两城（Liberec / Hradec Králové）的老牌 IT 电商 + 门店，交换机货架以 PLANET GS-4210 PoE 管理型为主力并大量现货",
+      "hook": "Your switch shelf runs on the PLANET GS-4210 PoE family with most models in stock; a Marvell-based L2+ equivalent at EXW gives you an own-label entry line in the same slot with much more margin.",
+      "first_question": "Of the GS-4210 PoE models you keep in stock, is the 8-port + 2 SFP still the one that moves most, and would you consider carrying an own-label equivalent next to it?",
+      "subject": "8-port PoE L2+ switch for your GS-4210 slot, EXW, own label possible",
+      "biggest_unknown": "进货渠道（经捷克 PLANET 总代 — 如 Alternetivo/ 100MEGA — 还是直接进口）；年销量级别；obchod@ 是否由 Janoušek/Havlíček 直接收；电商对中国直发 + T/T 预付的接受度；Mikrotik 侧 C-040 评级是否因本仓补到邮箱而重评（跨仓需用户手工）",
+      "alts": [
+        {
+          "model": "STC-424DGGPM-280W",
+          "scene": "24×GE PoE + 4×SFP L2+（对位 GS-4210-24P4C / 上靠 16P4C）",
+          "reason": "第二封谈 16/24 口"
+        },
+        {
+          "model": "STC-448DGGPM",
+          "scene": "48×GE PoE + 4×SFP L2+（对位 GS-4210-48P4S 22 056 Kč）",
+          "reason": "高价款价差最大，第二封给"
+        },
+        {
+          "model": "STI-280DGGM",
+          "scene": "工业 DIN 8×GE + 2×SFP 管理型（对位 IGS-10020MT 9 889 Kč）",
+          "reason": "工业线补位，首触只提一句"
+        }
+      ],
+      "qual": "技术上合格（同口数同上联 L2+ 对位）/ 商业上未合格（年销量与进货渠道待首触确认）",
+      "boundary": "不贬低 PLANET；不承诺云管理；不做 UL；不卖商用非管理桌面款（GSD-1002M 类 Saga 无对应，不硬凑）；只报 EXW；捷克语官网但首触用英文",
+      "mikrotik_ref": "C-040（Mikrotik 侧 C「无邮箱」；本仓经企业名录补到 obchod@mader.cz + 具名 obchod 负责人 → 按 Q-05 通则由 Planet 仓首触；Mikrotik 侧可重评，跨仓需用户手工）",
+      "notes": "本仓主表与全仓 grep「mader」无命中。Mikrotik 仓库 C-040（MikroTik Reseller，无邮箱）。站点对 fetch_page 返回 HTTP 500，证据来自搜索快照。Gmail in:anywhere to:/from:\"mader.cz\" 0 命中（complete:true）。捷克第 8 户。",
+      "gmail_check": "2026-10-20 Gmail in:anywhere to:/from:\"mader.cz\"（与 wisp.pl / epcom.net / linktechs.net 合并查询）→ 7 条结果全部为 biuro@zintronic.pl 模糊命中，与本域名无关 → 实际 0 命中（complete:true）→ 首触史干净",
+      "steps": [
+        {
+          "title": "同槽位 + 自有品牌入门线",
+          "push": "STC-28DGGPM",
+          "angle": "对位 GS-4210-8P2C；EXW、MOQ 小批量可贴标",
+          "question": "Of the GS-4210 PoE models you keep in stock, is the 8-port + 2 SFP still the one that moves most, and would you consider carrying an own-label equivalent next to it?",
+          "action": "无附件；成功=回复口数/数量；退出=14 天无回复 → 第二封"
+        },
+        {
+          "title": "价差表 + 样机",
+          "push": "STC-28DGGPM + STC-448DGGPM",
+          "angle": "给 8/24/48 口三档 EXW 价（对照其零售价），1 台样机到 Liberec",
+          "question": "Shall we send one 8-port sample for your bench test?",
+          "action": "附 3 行价表；成功=要样机；退出=无回复 → 第三封"
+        },
+        {
+          "title": "收尾",
+          "push": "—",
+          "angle": "一句话留门：新品 2.5G PoE 上市时再联系",
+          "question": "—",
+          "action": "退出标准：三封无回复 → 季度回访池"
+        }
+      ],
+      "swot": {
+        "S": "公开销售邮箱 + 具名 obchod 负责人；PLANET 多款现货证明进货量真实；电商自有品牌化动机；Saga 价差大",
+        "W": "无具名直邮；站点封抓取器，取证靠快照；捷克 IT 电商对中国直发的信用顾虑",
+        "O": "GS-4210 PoE 全口数都在卖 → 一次可对位 4 个 SKU；入门 PoE 自有副牌",
+        "T": "捷克总代送货上门 + 捷克语支持的便利；PLANET 价格战；汇率与运费占比"
+      }
+    },
+    {
+      "_code": "PB-064",
+      "name": "Link Technologies, Inc.",
+      "short_name": "Link Technologies",
+      "country": "美国",
+      "city": "Missouri（St. Louis 都会区；加拿大线 647 号码）",
+      "website": "linktechs.net（商店 shop.linktechs.net）",
+      "type": "分销/电商 + ISP 网络工程服务（MikroTik Master Distributor；面向 WISP / 光纤 ISP / MSP 的网络工程、RouterOS 培训与设备商店；自有 PowerLink PoE 线）",
+      "signal": "linktechs.net 商店（productcart）PLANET 在售：GS-2240-24T4X $449.00、IGS-5225-20T4C2X $1,216.00、XGSW-28040 $772.00、GS-4210-8P2S $244.00（另见 Antaira 类 LNP-0802C-SFP）——商用 L2+ 万兆上联 + 工业 L2+/L3 两线",
+      "own_brand": "是（PowerLink PoE 供电线；交换机非自有）",
+      "angle": "ISP 工程型分销商：自建网络给 WISP/光纤 ISP，PLANET GS-2240-24T4X（24×GE + 4×10G SFP+，$449）是其接入层/汇聚槽位 → Saga STC-424XGGM（同口数同上联 L2+）EXW $127.4，给它做工程项目 BOM 的第二货源；它已有自有 PowerLink 品牌 → 交换机贴 PowerLink 标是 30% 档 OEM 入口（首触不提）",
+      "p1": "STC-424XGGM",
+      "p1_reason": "对位其在售 GS-2240-24T4X（24×10/100/1000T + 4×10G SFP+，L2+，$449.00）——ISP 工程商最常用的 24+4×10G 汇聚/接入槽位；工业 IGS-5225-20T4C2X（$1,216）对位 STI-4240XGGM 第二封谈",
+      "pitch": "We supply Marvell-based L2+ switches with 10G SFP+ uplinks (24-port copper + 4×10G, plus industrial DIN-rail versions with -40~75 °C) that fit the same slot as the PLANET GS-2240-24T4X / IGS-5225 class in ISP builds, at EXW prices well under half of list; neutral packaging and your own label are available. The unit I would start with is {p1} at {price_str}.",
+      "tier": 0.2,
+      "tier_reason": "分销/电商（MikroTik Master Distributor + 商店）→ 20%；若后续谈 PowerLink 贴标则转 30%",
+      "priority": "★★",
+      "rating": "B",
+      "rating_basis": "需求：PLANET 4 款在售且标价（含 $1,216 工业 L3 款）→ 真实；它同时是 ISP 网络工程商，设备进自己项目 BOM → 需求可信度高；触达：support@linktechs.net 公开（About 页），无公开具名采购邮箱（Dennis Burgess 直邮仅见于 Mikrotik 仓备注，无本仓可见 URL → 待补证）；体量：小型工程型分销商（具体人数未公开）→ 可赢。无具名直邮 → B ★★",
+      "source": "W15 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（Mikrotik C-227 行域名反查）；shop.linktechs.net/about-us 核身",
+      "planet_models": [
+        "GS-2240-24T4X",
+        "IGS-5225-20T4C2X",
+        "XGSW-28040",
+        "GS-4210-8P2S"
+      ],
+      "model_map": {
+        "GS-2240-24T4X": {
+          "saga": "STC-424XGGM",
+          "note": "24×GE + 4×10G SFP+，L2+，同槽位（Saga 另有 L3 档 STC-424XGGM(L3)）"
+        },
+        "IGS-5225-20T4C2X": {
+          "saga": "STI-4240XGGM",
+          "note": "PLANET 为工业 L2+/L3 20T+4 Combo+2×10G；Saga 以工业 DIN 24×GE + 4×10G L2+ 补位"
+        },
+        "XGSW-28040": {
+          "saga": "STC-424XGGM(L3)",
+          "note": "PLANET 为 24×GE + 4×10G L3 堆叠；Saga 以 L3 档对位（无堆叠）"
+        },
+        "GS-4210-8P2S": {
+          "saga": "STC-28DGGPM",
+          "note": "8×GE PoE + 2×SFP，L2+，同槽位"
+        }
+      },
+      "contacts": [
+        {
+          "name": "—（support / 总入口）",
+          "role": "support/sales",
+          "email": "support@linktechs.net",
+          "phone": "+1 314-735-0270（USA）/ +1 647-725-7011（Canada）",
+          "status": "公开（About 页）",
+          "source": "https://shop.linktechs.net/about-us"
+        },
+        {
+          "name": "Dennis Burgess",
+          "role": "创始人/总裁（Mikrotik 仓 C-227 备注）",
+          "email": "dmburgess@linktechs.net（待补证）",
+          "phone": "",
+          "status": "待补证——仅见于 Mikrotik 仓库 C-227 备注，本仓未见公开 URL；首触不直发，走 support@ 并点名",
+          "source": "Mikrotik 仓库 客户名单_反向信号_2026-09.csv#C-227（无公开 URL）"
+        }
+      ],
+      "mx": "未查",
+      "evidence": [
+        {
+          "level": "官网",
+          "claim": "PLANET GS-2240-24T4X 在售标价",
+          "quote": "GS-2240-24T4X … $449.00",
+          "url": "https://www.linktechs.net/productcart/pc/viewPrd.asp?idproduct=2401",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "PLANET 工业 IGS-5225-20T4C2X 在售标价",
+          "quote": "IGS-5225-20T4C2X … $1,216.00",
+          "url": "https://www.linktechs.net/productcart/pc/viewPrd.asp?idproduct=2310",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "商店搜索结果另列 XGSW-28040 / GS-4210-8P2S",
+          "quote": "XGSW-28040 $772.00 … GS-4210-8P2S $244.00 … LNP-0802C-SFP",
+          "url": "https://www.linktechs.net/productcart/pc/showsearchresults.asp",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "公司定位与公开入口",
+          "quote": "Link Technologies, Inc. provides advanced network engineering and operational support for Wireless ISPs, Fiber ISPs, MSPs, and enterprises across North America… built on MikroTik, Cisco, Juniper… RouterOS training… Email: support@LinkTechs.net USA: 314-735-0270 Canada: 647-725-7011",
+          "url": "https://shop.linktechs.net/about-us",
+          "date": "2026-10-20"
+        }
+      ],
+      "facts": {
+        "法律实体": "Link Technologies, Inc.（Missouri）",
+        "业务": "ISP/WISP 网络工程 + 运维支持 + RouterOS 培训 + 设备商店（MikroTik、Grandstream、Ubiquiti、Mimosa、KP Performance、NetPoint、自有 PowerLink PoE）",
+        "PLANET 线": "商用 L2+ 万兆（GS-2240-24T4X）、L3 堆叠（XGSW-28040）、工业 L3（IGS-5225）、PoE 入门（GS-4210-8P2S）",
+        "体量": "人数未公开（小型工程型分销商）"
+      },
+      "who": "密苏里州一家给 WISP / 光纤 ISP 做网络工程与培训的 MikroTik Master Distributor，商店里 PLANET 做万兆上联与工业槽位",
+      "hook": "Your ISP builds use the PLANET GS-2240-24T4X class for 24-port + 4×10G aggregation; a Marvell-based L2+ equivalent at EXW gives your project BOMs a second source at well under half of list.",
+      "first_question": "In your ISP builds, is the 24-port + 4×10G SFP+ L2+ box still the standard access/aggregation unit, or are projects moving to 2.5G/10G copper?",
+      "subject": "24-port + 4×10G L2+ switch for the GS-2240 slot in ISP builds, EXW",
+      "biggest_unknown": "PLANET 4 款是否常备货还是按单订；谁负责采购（Burgess 本人还是运营）；对非 UL 设备在美国 ISP 项目中的接受度（机房/杆上）；PowerLink 贴标意愿",
+      "alts": [
+        {
+          "model": "STI-4240XGGM",
+          "scene": "工业 DIN 24×GE + 4×10G L2+（对位 IGS-5225-20T4C2X $1,216）",
+          "reason": "价差最大，第二封给"
+        },
+        {
+          "model": "STC-28DGGPM",
+          "scene": "8×GE PoE + 2×SFP L2+（对位 GS-4210-8P2S $244）",
+          "reason": "小单试水款"
+        },
+        {
+          "model": "STC-424XGGM(L3)",
+          "scene": "24×GE + 4×10G L3（对位 XGSW-28040 $772）",
+          "reason": "L3 需求时再提"
+        }
+      ],
+      "qual": "技术上合格（24+4×10G L2+ 对位）/ 商业上未合格（采购人与量待首触；UL 顾虑待第二封核）",
+      "boundary": "不做 UL/TAA（美国政府/公用事业项目若要求则退出）；不承诺堆叠与云管理；不贬低 PLANET；不卖 PowerLink 同类 PoE 注入器（不抢其自有线）；只报 EXW",
+      "mikrotik_ref": "C-227（Mikrotik 侧 C「太难」挂起未触达 → 本仓首触不与「只触达一次」规则冲突；按 Q-05 通则由 Planet 仓首触）",
+      "notes": "本仓主表与全仓 grep「linktechs / Link Technologies」无命中。Mikrotik 仓库 C-227（MikroTik Master Distributor，备注列 Dennis Burgess dmburgess@linktechs.net，无 URL → 本仓记待补证）。linktechs.net 根域 302 到 shop.linktechs.net；PLANET 商品在老 productcart 路径。Gmail 0 命中。美国第 13 户。",
+      "gmail_check": "2026-10-20 Gmail in:anywhere to:/from:\"linktechs.net\"（合并查询）→ 实际 0 命中（7 条均为 zintronic.pl 模糊命中；complete:true）→ 首触史干净",
+      "steps": [
+        {
+          "title": "同槽位第二货源",
+          "push": "STC-424XGGM",
+          "angle": "ISP 项目 BOM 第二货源；EXW；MOQ 1",
+          "question": "In your ISP builds, is the 24-port + 4×10G SFP+ L2+ box still the standard access/aggregation unit, or are projects moving to 2.5G/10G copper?",
+          "action": "无附件；成功=回复槽位/数量；退出=14 天无回复 → 第二封"
+        },
+        {
+          "title": "工业款 + 样机",
+          "push": "STI-4240XGGM",
+          "angle": "对位 IGS-5225 价差；1 台 STC-424XGGM 样机到 Missouri 做 30 天实验室测试",
+          "question": "Shall we ship one unit for your lab?",
+          "action": "附 2 行价表；成功=要样机；退出=无回复 → 第三封"
+        },
+        {
+          "title": "收尾",
+          "push": "—",
+          "angle": "一句话留门：PowerLink 贴标可做",
+          "question": "—",
+          "action": "退出标准：三封无回复 → 季度回访池"
+        }
+      ],
+      "swot": {
+        "S": "公开入口；PLANET 4 款在售标价；ISP 工程商把设备进自己项目 → 需求稳定；自有 PowerLink 品牌 = OEM 入口",
+        "W": "无具名直邮（Burgess 邮箱待补证）；人数未公开；美国 ISP 对非 UL 设备的顾虑",
+        "O": "24+4×10G 槽位价差 >3×；工业 IGS-5225 价差更大；贴 PowerLink 标 30% 档",
+        "T": "MikroTik CRS 系列本身就是其首选万兆交换机（自家主营）；PLANET 美国库存与保修便利；关税"
+      }
+    },
+    {
+      "_code": "PB-065",
+      "name": "Allnet Sp. z o.o. Sp.k.（WISP.PL）",
+      "short_name": "WISP.PL",
+      "country": "波兰",
+      "city": "Bełk（Rybnik 附近，ul. Dębowa 2A）",
+      "website": "wisp.pl",
+      "type": "分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）",
+      "signal": "wisp.pl 交换机类目 /k19,switche.html 品牌筛选「Producent Planet (4)」（≈350 款交换机里的边线品牌：Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel 为主）；媒体转换器类目 /k116 「Planet (4)」；产品页 ISW-621（工业 4×FE + 2×FX）、MC-RPS130（135,30 zł brutto，Dostępny）、VC-231（已停产，后继 VC-231G）；首页横幅推 Scodeno 工业交换机（中国品牌）",
+      "own_brand": "否",
+      "angle": "WISP 网店已在卖中国工业交换机品牌 Scodeno（首页横幅主推）→ 对中国直供工业 DIN 导轨款没有心理门槛；PLANET 在它这里只剩 ISW-621 类工业 FE 款与媒体转换器 → Saga 工业 DIN 8×GE + 2×SFP 非管理（STI-280GE）正是 WISP 塔站/机柜的走量槽位，价位（$46.6 EXW）可与 Scodeno 同台",
+      "p1": "STI-280GE",
+      "p1_reason": "其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款",
+      "pitch": "We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant 12–58 V DC; unmanaged and L2+ managed, with or without PoE) for WISP tower and cabinet use, in the same slot as the PLANET ISW-621 / IGS class you list, at EXW prices that compete with the Chinese industrial brands you already carry; neutral packaging is standard. The unit I would start with is {p1} at {price_str}.",
+      "tier": 0.2,
+      "tier_reason": "分销/网店 → 20%",
+      "priority": "★",
+      "rating": "B",
+      "rating_basis": "需求：PLANET 仅 4 款交换机 + 4 款媒体转换器，且主力为 MikroTik/Ubiquiti/TP-Link → PLANET 为边线、需求弱；但网店已主推 Scodeno 中国工业交换机 → 对 Saga 品类有真实需求；触达：sklep@wisp.pl 公开（第三方 MikroTik 经销商名录转载），无具名 KP；体量：2–10 人、MikroTik VAD → 可赢但单量小；Mikrotik 仓 A-380 已人工 A 且有邮箱 → 本仓并档，首触以 Mikrotik 仓库为准（INH 规则：Mikrotik A 有邮箱的并档行不从本仓发）→ B ★",
+      "source": "W15 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（Mikrotik A-380 行域名反查）；wisp.pl/info.html 法务信息 + LinkedIn 体量",
+      "planet_models": [
+        "ISW-621",
+        "MC-RPS130",
+        "VC-231"
+      ],
+      "model_map": {
+        "ISW-621": {
+          "saga": "STI-240FE",
+          "note": "工业 DIN 4×FE + 2×100M SFP 非管理（PLANET 为固定 FX 口），同槽位"
+        },
+        "MC-RPS130": {
+          "saga": "—",
+          "note": "媒体转换器机箱电源：Saga 无此品类，不硬凑"
+        },
+        "VC-231": {
+          "saga": "—",
+          "note": "VDSL2 转换器：Saga 无此品类，不硬凑"
+        }
+      },
+      "contacts": [
+        {
+          "name": "—（sklep / 网店客服）",
+          "role": "sales",
+          "email": "sklep@wisp.pl",
+          "phone": "+48 32 721 86 72",
+          "status": "公开（第三方 MikroTik 经销商名录 altostrat.io 转载；wisp.pl/kontakt 返回 404 未能直接核对）",
+          "source": "https://www.altostrat.io/"
+        }
+      ],
+      "mx": "未查",
+      "evidence": [
+        {
+          "level": "官网",
+          "claim": "公司法务信息与 MikroTik 分销身份",
+          "quote": "Założony w 2003 roku sklep internetowy WISP.PL jest prowadzony przez firmę Allnet Sp. z o.o. Sp.k. z siedzibą przy ulicy Dębowej 2A w Bełku koło Rybnika… KRS: 0000379258… NIP: 642-315-64-22… Jesteśmy oficjalnym dystrybutorem firmy MikroTik. Posiadamy status: MikroTik Value Added Distributor",
+          "url": "https://www.wisp.pl/info.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "交换机类目品牌筛选含 PLANET 4 款（边线）",
+          "quote": "Switche … Producent … Planet (4) …（Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel）",
+          "url": "https://www.wisp.pl/k19,switche.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "PLANET ISW-621 产品页",
+          "quote": "Planet ISW-621 … 4-portowy switch przemysłowy 10/100 + 2×100Base-FX",
+          "url": "https://www.wisp.pl/p1735,planet-isw-621.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "PLANET MC-RPS130 在售（现货）",
+          "quote": "Planet MC-RPS130 … 135,30 zł brutto / 110,00 zł netto … Dostępność: Dostępny",
+          "url": "https://www.wisp.pl/p5758,planet-mc-rps130.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "PLANET VC-231 已停产（后继 VC-231G）",
+          "quote": "Planet VC-231 … Model wycofany, następca: Planet VC-231G",
+          "url": "https://www.wisp.pl/p3515,planet-vc-231.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "首页主推 Scodeno 工业交换机（中国品牌）",
+          "quote": "WISP.PL … MikroTik, Ubiquiti, TP-Link, Tenda, Teltonika, Cudy, Solarix, StalFlex … Scodeno switche przemysłowe",
+          "url": "https://www.wisp.pl/m242,scodeno.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "体量",
+          "quote": "Wielkość firmy: 2–10 pracowników; Siedziba Bełk; Data założenia 2008; Master Distributor & VAD",
+          "url": "https://pl.linkedin.com/company/wisppl",
+          "date": "2026-10-20"
+        }
+      ],
+      "facts": {
+        "法律实体": "Allnet Sp. z o.o. Sp.k.（KRS 0000379258，NIP 642-315-64-22）——与德国 ALLNET GmbH 无关的同名波兰公司",
+        "地址": "ul. Dębowa 2A, 44-230 Bełk（Rybnik 附近，西里西亚）",
+        "体量": "2–10 人（LinkedIn）；网店 2003 年起",
+        "渠道身份": "MikroTik Master Distributor + Value Added Distributor"
+      },
+      "who": "西里西亚 Bełk 一家 2–10 人的 WISP 设备网店（MikroTik VAD），PLANET 只剩工业 FE 款与媒体转换器，已主推中国品牌 Scodeno 工业交换机",
+      "hook": "Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; a Marvell-based 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec.",
+      "first_question": "For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?",
+      "subject": "Industrial DIN-rail 8×GE + 2 SFP for WISP towers, EXW",
+      "biggest_unknown": "Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）",
+      "alts": [
+        {
+          "model": "STI-240FE",
+          "scene": "工业 DIN 4×FE + 2×100M SFP 非管理（直接对位 ISW-621）",
+          "reason": "小单试水款"
+        },
+        {
+          "model": "STI-288GP",
+          "scene": "工业 DIN 8×GE PoE + 2×SFP 非管理（塔站 AP/CPE 供电）",
+          "reason": "WISP 塔站 PoE 需求，第二封"
+        },
+        {
+          "model": "STI-280GM",
+          "scene": "工业 DIN 8×GE + 2×SFP L2 管理",
+          "reason": "要 VLAN 时的升级款"
+        }
+      ],
+      "qual": "技术上合格 / 商业上未合格（PLANET 边线、体量小；以 Mikrotik 侧首触结果为准）",
+      "boundary": "不卖媒体转换器机箱电源与 VDSL（Saga 无此品类）；不做 IP67/杆装户外款；不贬低 PLANET 或 Scodeno；只报 EXW；首触由 Mikrotik 仓库发（本仓只回填 PLANET 侧证据与工业角度）",
+      "mikrotik_ref": "A-380（Mikrotik 侧人工 A，sklep@wisp.pl）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 边线 4+4 款（Scodeno 工业款 Mikrotik 侧定级依据已提及，不重复）（Q-06 同类，跨仓需用户手工）",
+      "notes": "本仓主表与全仓 grep「wisp.pl / Allnet Sp.」无命中（注意与 PB 池中无关的 ALLNET GmbH 区分）。wisp.pl/kontakt 404、首页页脚无法务信息 → 法务来自 /info.html 搜索快照；sklep@ 来自第三方名录转载（官网联系页未能直接核对 → 首触前人工打开 wisp.pl 核对一次）。Gmail 0 命中。波兰第 8 户。",
+      "gmail_check": "2026-10-20 Gmail in:anywhere to:/from:\"wisp.pl\"（合并查询）→ 7 条均为 biuro@zintronic.pl（Elsa 2025-04→2025-10 月度群发对象）模糊命中，与 wisp.pl 无关 → 实际 0 命中（complete:true）",
+      "steps": [
+        {
+          "title": "PLANET 侧预案（并档，不从本仓发）",
+          "push": "STI-280GE",
+          "angle": "工业 DIN 8+2 非管理 vs ISW-621/Scodeno；EXW",
+          "question": "For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?",
+          "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+        },
+        {
+          "title": "样机",
+          "push": "STI-280GE 或 STI-288GP",
+          "angle": "1 台到 Bełk 做塔站测试",
+          "question": "—",
+          "action": "按 Mikrotik 侧节奏"
+        },
+        {
+          "title": "收尾",
+          "push": "—",
+          "angle": "—",
+          "question": "—",
+          "action": "退出标准同 Mikrotik 侧"
+        }
+      ],
+      "swot": {
+        "S": "已卖中国工业品牌 → 无心理门槛；公开邮箱；MikroTik VAD 有 WISP 客群",
+        "W": "PLANET 边线、2–10 人、单量小；无具名 KP；并档（本仓不首触）",
+        "O": "Scodeno 之外的第二家中国工业货源；PoE 塔站款",
+        "T": "Scodeno 已占位且可能更便宜；MikroTik 自家 CRS/CSS 工业化替代；波兰同行（batna24 等）价格战"
+      }
+    },
+    {
+      "_code": "PB-066",
+      "name": "El Paso Communication Systems, Inc.（dba EPCOM）",
+      "short_name": "EPCOM",
+      "country": "美国",
+      "city": "El Paso, TX（1630 E Paisano Dr；配送中心 San Antonio / El Paso / Miami；LinkedIn 总部 Miami, FL）",
+      "website": "epcom.net",
+      "type": "分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）",
+      "signal": "epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发",
+      "own_brand": "否（集团关联品牌 TXPro / Epcom 自有安防线；交换机为第三方）",
+      "angle": "美墨边境的安防 + 无线分销商（Syscom 美方），PLANET 商用 L2+（GS-4210-24T2S 现货 $353.99）与工业 L2+/L3（IGS-6325）两线都备 → Saga STC-424DGGM（24×GE + 4×SFP L2+，$82.5 EXW）同槽位价差 4×；其安防客群要 PoE → STC-424DGGPM-280W 第二封；它为自营品牌 TXPro/Epcom 做过贴牌 → 远期 OEM 30% 入口",
+      "p1": "STC-424DGGM",
+      "p1_reason": "对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5",
+      "pitch": "We supply Marvell-based L2+ managed switches (24/48-port with 1G/2.5G or 10G SFP uplinks, PoE and non-PoE) and industrial DIN-rail L2+ units that sit in the same slot as the PLANET GS-4210 / IGS-6325 models you stock, at EXW prices that leave room for your own warranty program; neutral packaging and your own label are available. The unit I would start with is {p1} at {price_str}.",
+      "tier": 0.2,
+      "tier_reason": "分销 → 20%",
+      "priority": "★",
+      "rating": "B",
+      "rating_basis": "需求：PLANET ≥7 款在售、GS-4210-24T2S 现货、自带 Epcom 保修条款 → 正式进货、需求真实；触达：sales@epcom.net 来自 Mikrotik 仓 B-346 行（本仓 epcom.net 首页/about 页未见邮箱 → 本仓记「待本仓核对」）；体量：≈95–101 人、营收 $17–24M、三个配送中心 → 偏大但不是巨头（与 PB-058 JPF 同档），按子公司/实体自身判定可赢；Mikrotik 仓 B-346 已有邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★",
+      "source": "W15 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（Mikrotik B-346 行域名反查）；buzzfile / D&B / LinkedIn / leadiq 核身",
+      "planet_models": [
+        "GS-4210-24T2S",
+        "IGS-620TF",
+        "WGSD-10020",
+        "IGS-6325-8UP2S2X",
+        "IGS-6325-16P4S",
+        "GS-5220-8UP2T2X",
+        "XGS3-24042"
+      ],
+      "model_map": {
+        "GS-4210-24T2S": {
+          "saga": "STC-424DGGM",
+          "note": "24×GE + 2×SFP L2+ → Saga 24×GE + 4×1G/2.5G SFP L2+，同槽位"
+        },
+        "IGS-620TF": {
+          "saga": "STI-240GE",
+          "note": "工业 DIN 4×GE + 2×SFP 非管理，同槽位"
+        },
+        "WGSD-10020": {
+          "saga": "STI-280DGGM",
+          "note": "PLANET 为壁挂 8×GE + 2×SFP 管理；Saga 以工业 DIN 8+2 L2+ 补位"
+        },
+        "IGS-6325-8UP2S2X": {
+          "saga": "STI-488XGGPM",
+          "note": "PLANET 为工业 L3 8×bt PoE + 2×SFP + 2×10G；Saga 以 8×GE PoE + 4×10G L2+ 补位（bt 口数需核）"
+        },
+        "IGS-6325-16P4S": {
+          "saga": "STI-21616DGGPM",
+          "note": "PLANET 为工业 L3 16 PoE + 4 SFP；Saga 以 16 PoE + 2×2.5G SFP L2+ 补位"
+        },
+        "GS-5220-8UP2T2X": {
+          "saga": "STC-28DGGPM",
+          "note": "PLANET 为 8×bt PoE + 2×T + 2×10G L2+；Saga 以 8 PoE + 2 SFP L2+ 补位（无 10G 上联）"
+        },
+        "XGS3-24042": {
+          "saga": "STC-424XGGM(L3)",
+          "note": "24×GE + 4×10G L3，同槽位"
+        }
+      },
+      "contacts": [
+        {
+          "name": "—（sales）",
+          "role": "sales",
+          "email": "sales@epcom.net",
+          "phone": "",
+          "status": "来自 Mikrotik 仓库 B-346 行入口字段；本仓 epcom.net 首页 / about-us（404）未见邮箱 → 首触前人工在 epcom.net 核对一次",
+          "source": "Mikrotik 仓库 客户名单_反向信号_2026-09.csv#B-346"
+        }
+      ],
+      "mx": "未查",
+      "evidence": [
+        {
+          "level": "官网",
+          "claim": "GS-4210-24T2S 现货标价",
+          "quote": "GS-4210-24T2S … PLANET … $353.99 … InStock",
+          "url": "https://www.epcom.net/products/GS-4210-24T2S-PLANET-77985.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "IGS-620TF 在售，Epcom 自有保修",
+          "quote": "IGS-620TF … Warranty: 1 year with Epcom … $249 … OutOfStock",
+          "url": "https://www.epcom.net/products/72775",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "工业 L3 IGS-6325-8UP2S2X，5 年 Epcom 保修",
+          "quote": "IGS-6325-8UP2S2X … PLANET … 5 years with Epcom",
+          "url": "https://www.epcom.net/products/IGS-6325-8UP2S2X-PLANET-188662.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "IGS-6325-16P4S 标价",
+          "quote": "IGS-6325-16P4S … $1345",
+          "url": "https://www.epcom.net/products/IGS-6325-16P4S-PLANET-196733.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "WGSD-10020 / GS-5220-8UP2T2X / XGS3-24042 产品页",
+          "quote": "WGSD-10020 … $229 … GS-5220-8UP2T2X … XGS3-24042 … PLANET",
+          "url": "https://www.epcom.net/products/WGSD-10020-PLANET-82630.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "法律实体、体量、成立年份",
+          "quote": "El Paso Communication Systems, which also operates under the name Epcom… El Paso, Texas… $23.7M revenue… 95 total employees… founded 1987",
+          "url": "https://www.buzzfile.com/business/El-Paso-Communication-Systems-915-533-5119",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "LinkedIn 定位与配送中心",
+          "quote": "Worldwide leading distributor for Wireless and Security Systems… three distribution centers San Antonio, El Paso and Miami; 51-200 employees; HQ Miami, Florida",
+          "url": "https://www.linkedin.com/company/epcomusa",
+          "date": "2026-10-20"
+        }
+      ],
+      "facts": {
+        "法律实体": "El Paso Communication Systems, Inc.（dba EPCOM / Epcom USA）",
+        "地址": "1630 E Paisano Dr, El Paso, TX 79901（D&B）；配送中心 San Antonio / El Paso / Miami",
+        "体量": "≈95–101 人（buzzfile 95 / leadiq ≈101，2026-08）；营收 $17–24M；1987 年成立",
+        "集团": "Syscom（墨西哥）美方实体，CDN 为 Syscom；关联自有品牌 TXPro / Epcom 安防线",
+        "PLANET 线": "商用 L2+（GS-4210/GS-5220）、L3（XGS3）、工业非管理（IGS-620TF）、工业 L3（IGS-6325）"
+      },
+      "who": "美墨边境 El Paso 的无线 + 安防 + 网络多品类分销商（≈100 人，Syscom 美方），PLANET 商用与工业两线都备货并自带 Epcom 保修",
+      "hook": "You stock the PLANET GS-4210-24T2S and back it with your own Epcom warranty; a Marvell-based 24-port L2+ equivalent at EXW gives that slot a second source with far more margin for your warranty program.",
+      "first_question": "For your dealer customers, is the 24-port L2+ non-PoE switch (GS-4210-24T2S class) still a stock item, or has demand shifted to the PoE versions?",
+      "subject": "24-port L2+ switch for the GS-4210-24T2S slot, EXW",
+      "biggest_unknown": "采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态",
+      "alts": [
+        {
+          "model": "STC-424DGGPM-280W",
+          "scene": "24×GE PoE + 4×SFP L2+（安防客群 PoE 需求）",
+          "reason": "第二封"
+        },
+        {
+          "model": "STI-240GE",
+          "scene": "工业 DIN 4×GE + 2×SFP 非管理（对位 IGS-620TF $249）",
+          "reason": "价差 ~9×，小单试水"
+        },
+        {
+          "model": "STC-424XGGM(L3)",
+          "scene": "24×GE + 4×10G L3（对位 XGS3-24042）",
+          "reason": "L3 需求时再提"
+        }
+      ],
+      "qual": "技术上合格 / 商业上未合格（集团采购归属 + UL 顾虑待核；以 Mikrotik 侧首触结果为准）",
+      "boundary": "不做 UL/TAA；不承诺云管理；不碰其 TXPro/Epcom 安防自有线与对讲业务；若采购由 Syscom 集团集中 → 按巨头规则退出；只报 EXW；首触由 Mikrotik 仓库发",
+      "mikrotik_ref": "B-346（Mikrotik 侧 B，sales@epcom.net）→ 并档，首触以 Mikrotik 仓库为准；本仓回填 PLANET ≥7 款 + Epcom 保修证据（Q-06 同类）",
+      "notes": "本仓主表与全仓 grep「epcom / El Paso」无命中。Mikrotik 仓库 B-346。epcom.net/about-us 404；首页为多品类目录（Syscom CDN）。体量 ≈100 人与 PB-058 JPF 同档，按 Q-17 口径不触发巨头 C。Gmail 0 命中。美国第 14 户。",
+      "gmail_check": "2026-10-20 Gmail in:anywhere to:/from:\"epcom.net\"（合并查询）→ 实际 0 命中（7 条均为 zintronic.pl 模糊命中；complete:true）",
+      "steps": [
+        {
+          "title": "PLANET 侧预案（并档，不从本仓发）",
+          "push": "STC-424DGGM",
+          "angle": "对位现货 GS-4210-24T2S；EXW",
+          "question": "For your dealer customers, is the 24-port L2+ non-PoE switch (GS-4210-24T2S class) still a stock item, or has demand shifted to the PoE versions?",
+          "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+        },
+        {
+          "title": "PoE 款 + 工业款价表",
+          "push": "STC-424DGGPM-280W / STI-240GE",
+          "angle": "对照其零售价的 3 行价表",
+          "question": "—",
+          "action": "按 Mikrotik 侧节奏"
+        },
+        {
+          "title": "收尾",
+          "push": "—",
+          "angle": "—",
+          "question": "—",
+          "action": "退出标准同 Mikrotik 侧"
+        }
+      ],
+      "swot": {
+        "S": "PLANET 两线备货 + 自有保修 → 正式进货；三个配送中心；安防客群要 PoE",
+        "W": "体量偏大、可能集团集中采购；本仓未见公开邮箱页；并档不首触",
+        "O": "24 口 L2+ 价差 4×；工业 IGS-620TF 价差 ~9×；远期 TXPro 贴牌",
+        "T": "Syscom 集团既有中国 ODM 供应链（TXPro 本身即贴牌）→ 可能已有更低价货源；UL 要求；关税"
+      }
+    },
+    {
+      "_code": "PB-067",
+      "name": "EDOX SAS",
+      "short_name": "EDOX",
+      "country": "法国",
+      "city": "Burnhaupt-le-Haut（Haut-Rhin，ZI de la Doller，1 rue de la Forêt Noire）",
+      "website": "edox.com",
+      "type": "分销（1993 年起的 IT / 视频监控 / IP 电话增值批发商，100% 间接分销，自称 5 000 家经销商、35 000 个 SKU、J+1 发货；MikroTik Master Distributor；交换机类目品牌筛选 Planet 155 款）",
+      "signal": "edox.com 交换机类目 /Webshop/category/10004008 品牌筛选：Mikrotik (37) / Planet (155) / Qnap (4) / Teltonika (16) / TP-Link (204) / Ubiquiti (65) / Zyxel (88)——PLANET 为其第二大交换机品牌；产品页 GS-4210-16P2S（Disponible）、GS-4210-24HP2C、GSD-604HP（Disponible）、ISW-504PT（Disponible，工业）、MGSW-24160F（Géré à la commande）、GS-2210-16T2S",
+      "own_brand": "否",
+      "angle": "PLANET 155 款 = 法国 PLANET 的主要分销渠道之一 → 它不会换掉 PLANET，但 20–49 人、€67M 营收的区域批发商对「同槽位第二货源 + 自有副牌」有动机（其 TP-Link 204 款说明它靠中国产线走量）；Saga 以 24 口 PoE L2+（STC-424DGGPM-280W）切其 GS-4210-24P 槽位，第二封谈 8/16 口与工业 ISW 补位",
+      "p1": "STC-424DGGPM-280W",
+      "p1_reason": "其 PLANET 在售页以 GS-4210 PoE 家族为主（16P2S Disponible、24HP2C 515W）——24 口 PoE L2+ 是法国安装商/视频监控经销商的走量槽位；Saga 商用 PoE 管理型无 16 口，故以 24 口 280W 对位",
+      "pitch": "We supply Marvell-based L2+ managed PoE switches (8/24/48-port, 1G/2.5G or 10G SFP uplinks) and industrial DIN-rail units in the same slots as the PLANET GS-4210 / ISW families you distribute, at EXW prices that support an own-label second line for your resellers; neutral packaging and your label are available. The unit I would start with is {p1} at {price_str}.",
+      "tier": 0.2,
+      "tier_reason": "分销 → 20%",
+      "priority": "★★",
+      "rating": "B",
+      "rating_basis": "需求：PLANET 155 款交换机在售（第二大品牌）、多款 Disponible → 真实且大；触达：commercial@edox.com（Kaspersky 分销商名录转载）/ contact@edox.com（infonet.fr）公开，无具名 KP（关于页需登录）；体量：20–49 人、CA €66.9M（2025）、5 000 家经销商 → 偏大，但为独立区域批发商（非 Ingram/TD 类巨头）→ 可赢面在细分 SKU；Mikrotik 仓 A-579（R63 升 A）已有邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★★",
+      "source": "W15 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（Mikrotik A-579 行域名反查）；societe.com / pappers / manageo / annuaire-entreprises 核身",
+      "planet_models": [
+        "GS-4210-16P2S",
+        "GS-4210-24HP2C",
+        "GSD-604HP",
+        "ISW-504PT",
+        "MGSW-24160F",
+        "GS-2210-16T2S"
+      ],
+      "model_map": {
+        "GS-4210-16P2S": {
+          "saga": "STC-424DGGPM-280W",
+          "note": "Saga 商用 PoE 管理型无 16 口，上靠 24 口 280W"
+        },
+        "GS-4210-24HP2C": {
+          "saga": "STC-424DGGPM-440W",
+          "note": "24×GE PoE 515W + 2×Combo → Saga 24 PoE 440W + 4×SFP，L2+"
+        },
+        "GSD-604HP": {
+          "saga": "—",
+          "note": "6 口桌面非管理 PoE：Saga 商用线无非管理桌面款，不硬凑"
+        },
+        "ISW-504PT": {
+          "saga": "STI-144FP",
+          "note": "工业 5×FE 含 4 PoE 非管理 → Saga 工业 4×FE PoE + 1×FX 非管理（口型略异）"
+        },
+        "MGSW-24160F": {
+          "saga": "STI-4168DGGCM-U",
+          "note": "城域 16×SFP + 8×Combo L2+ → Saga 机架 16 SFP + 8 Combo + 4×2.5G L2+（形态核对）"
+        },
+        "GS-2210-16T2S": {
+          "saga": "—",
+          "note": "16×GE + 2×SFP Websmart：Saga 商用管理型无 16 口，不硬凑"
+        }
+      },
+      "contacts": [
+        {
+          "name": "—（commercial / 商务部）",
+          "role": "sales",
+          "email": "commercial@edox.com",
+          "phone": "+33 3 89 31 06 20",
+          "status": "公开（Kaspersky 法国分销商名录转载；edox.com 关于/联系页需登录）",
+          "source": "https://www.kaspersky.fr/partners/distribution"
+        },
+        {
+          "name": "—（contact / 总入口）",
+          "role": "general",
+          "email": "contact@edox.com",
+          "phone": "+33 3 89 31 06 20",
+          "status": "公开（企业名录 infonet.fr）；非首触对象",
+          "source": "https://infonet.fr/entreprises/39027975000033-edox/"
+        }
+      ],
+      "mx": "未查",
+      "evidence": [
+        {
+          "level": "官网",
+          "claim": "交换机类目品牌筛选 PLANET 155 款",
+          "quote": "Mikrotik (37) Planet (155) Qnap (4) Teltonika (16) TP-Link (204) Ubiquiti (65) Zyxel (88)",
+          "url": "https://www.edox.com/Webshop/category/10004008",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "GS-4210-16P2S 在售（Disponible）",
+          "quote": "Switch 19\" L2 16 ports Giga PoE at 2xSFP … Réf. fabricant : GS-4210-16P2S … Garantie : 2 ans … Planet … Disponible",
+          "url": "https://www.edox.com/Webshop/products/10002524/GS4210-16P2S",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "GS-4210-24HP2C 产品页",
+          "quote": "Switch 19\" L2 24 ports Giga PoE at 515W 2xSFP … GS-4210-24HP2C … Planet",
+          "url": "https://www.edox.com/Webshop/products/10004008/GS4210-24HP2C",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "工业 ISW-504PT 在售（Disponible）",
+          "quote": "Switch Indus 5 ports 100Mbits dont 4 PoE AT 120W … ISW-504PT … Planet … Disponible",
+          "url": "https://www.edox.com/Webshop/products/10002120/ISW504PT/",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "公司自述",
+          "quote": "EDOX est un grossiste spécialiste à valeur ajoutée actif dans les domaines de l'informatique, la vidéo protection et la téléphonie sur IP. C'est plus de 35.000 références … Depuis 1993, la stratégie mise à place par EDOX est basée sur une distribution 100% indirecte",
+          "url": "https://www.edox.com/Webshop/docpages.aspx?pagename=aboutus",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "法务与体量",
+          "quote": "SIREN 390 279 750 … 1 RUE DE LA FORET NOIRE ZI DE LA DOLLER, 68520 BURNHAUPT-LE-HAUT … Société par actions simplifiée … Capital social 200000,00 € … Président ARKENA",
+          "url": "https://www.societe.com/societe/edox-390279750.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "人数与营收",
+          "quote": "Tranche d'effectif de l'entreprise · 20 à 49 salariés … Dernier chiffre d'affaires connu · 66 929 345 € (2025)",
+          "url": "https://www.manageo.fr/entreprises/390279750.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "公开商务邮箱",
+          "quote": "EDOX www.edox.com 1 rue de la Forêt Noire 68520 Burnhaupt‑le‑Haut France Tel:+33 3 89 31 06 20 commercial@edox.com",
+          "url": "https://www.kaspersky.fr/partners/distribution",
+          "date": "2026-10-20"
+        }
+      ],
+      "facts": {
+        "SIREN": "390 279 750（SIRET 390 279 750 00033；TVA FR83390279750；LEI 9695009CXT3ARWCURK97）",
+        "成立": "1993-03-01/03",
+        "体量": "20–49 人（2023）；CA €66.9M（2025）；资本 €200k；「5000 revendeurs」「40.000 m³ de stock」",
+        "股东/管理": "总裁 ARKENA（SIREN 914546387，2022-11 起）；前总裁 Philippe Ginot（2016–2023）",
+        "交换机品牌结构": "TP-Link 204 / Planet 155 / Zyxel 88 / Ubiquiti 65 / Mikrotik 37 / Teltonika 16 / Qnap 4"
+      },
+      "who": "阿尔萨斯一家 1993 年起的 IT / 视频监控 / IP 电话增值批发商（20–49 人，€67M），PLANET 是其第二大交换机品牌（155 款）",
+      "hook": "With 155 PLANET switches in your catalogue, the GS-4210 PoE family is clearly a volume line for your resellers; a Marvell-based L2+ PoE equivalent at EXW lets you add an own-label second line in the same slot without touching your PLANET business.",
+      "first_question": "Among the GS-4210 PoE models you move most, is the 24-port the volume unit for your video-surveillance resellers, or the 16-port?",
+      "subject": "24-port PoE L2+ switch for your GS-4210 slot — own-label second line, EXW",
+      "biggest_unknown": "是否愿意在 PLANET 之外加中国直供副牌（它已靠 TP-Link 走量 → 倾向愿意）；采购负责人（关于页需登录，无具名）；ARKENA 控股后的采购集中度；Mikrotik 侧 A-579 首触状态",
+      "alts": [
+        {
+          "model": "STC-28DGGPM",
+          "scene": "8×GE PoE + 2×SFP L2+（对位 GS-4210-8P2C/8P2S）",
+          "reason": "第二封"
+        },
+        {
+          "model": "STI-144FP",
+          "scene": "工业 4×FE PoE + 1×FX 非管理（对位 ISW-504PT Disponible）",
+          "reason": "工业补位，小单"
+        },
+        {
+          "model": "STC-448DGGPM",
+          "scene": "48×GE PoE + 4×SFP L2+",
+          "reason": "大口数需求时"
+        }
+      ],
+      "qual": "技术上合格 / 商业上未合格（体量偏大、决策链未知；以 Mikrotik 侧首触结果为准）",
+      "boundary": "不贬低 PLANET（它是 PLANET 法国主渠道之一）；不卖桌面非管理与 Websmart 16 口（Saga 无对应，不硬凑）；不做 UL；只报 EXW；首触由 Mikrotik 仓库发（本仓回填 PLANET 155 款证据）",
+      "mikrotik_ref": "A-579（Mikrotik 侧 R63 升 A，commercial@edox.com，原 B-238）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（ISW-504PT 等工业款在售）+ PLANET 155 款（Q-06 同类，跨仓需用户手工）",
+      "notes": "本仓主表与全仓 grep「edox」无命中。Mikrotik 仓库 A-579。关于页需登录（重定向 default.aspx）→ 自述取自搜索快照。法国第 6 户（PB-058 JPF / PB-059 ECP 之后）。 Gmail 0 命中。",
+      "gmail_check": "2026-10-20 Gmail in:anywhere to:/from:\"edox.com\"（与 marcomweb.it 合并查询）→ 9 条结果全部为 INFO@sarcitalia.it（Elsa 2025-04→2026-08 月度群发对象）模糊命中，与 edox.com 无关 → 实际 0 命中（complete:true）→ 首触史干净",
+      "steps": [
+        {
+          "title": "PLANET 侧预案（并档，不从本仓发）",
+          "push": "STC-424DGGPM-280W",
+          "angle": "GS-4210 槽位自有副牌；EXW",
+          "question": "Among the GS-4210 PoE models you move most, is the 24-port the volume unit for your video-surveillance resellers, or the 16-port?",
+          "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+        },
+        {
+          "title": "价表 + 样机",
+          "push": "STC-424DGGPM-280W / STC-28DGGPM",
+          "angle": "8/24/48 口三档 EXW 价；1 台样机到 Burnhaupt",
+          "question": "—",
+          "action": "按 Mikrotik 侧节奏"
+        },
+        {
+          "title": "收尾",
+          "push": "—",
+          "angle": "—",
+          "question": "—",
+          "action": "退出标准同 Mikrotik 侧"
+        }
+      ],
+      "swot": {
+        "S": "PLANET 155 款 → 槽位全覆盖；公开商务邮箱；靠 TP-Link 走量说明接受中国产线；5 000 家经销商出货面",
+        "W": "体量偏大、决策链未知；并档不首触；PLANET 是其主渠道之一 → 不会替换",
+        "O": "自有副牌入门 PoE 线；工业 ISW 补位；ARKENA 控股后的毛利诉求",
+        "T": "PLANET 法国分公司（PLANET France）直供与返利；TP-Link 价格；巨头竞争（Ingram/TD France）"
+      }
+    },
+    {
+      "_code": "PB-068",
+      "name": "MARCOM S.r.l.",
+      "short_name": "MARCOM",
+      "country": "意大利",
+      "city": "Verona（Bassone，via della Metallurgia 11）",
+      "website": "marcomweb.it（商店 shop.marcomweb.it）",
+      "type": "分销 + 工业自动化集成（2002 年起「Digital Building & Digital Factory」：现场总线 / 4G-5G 路由 / LoRaWAN / 多协议网关；品牌 Moxa、ICP DAS、Teltonika、MikroTik、Hilscher、Metz Connect、RAKwireless、Ubiquiti；PLANET 工业交换机 + 串口服务器在售）",
+      "signal": "shop.marcomweb.it 厂商页 /manufacturer/planet 与产品页：IGS-10020MT €388（工业 8×GE + 2×SFP 管理）、IGS-4215-4T2S €193（工业 L2/L4 4×GE + 2×SFP 管理）、ISW-621 €118 / ISW-621TF €107–118（工业 4×FE + 2×FX）、ISW-800T €78–88、ISW-500T €68–78、IGS-1020TF €145（END OF LIFE 促销）、IPM-8221 €410、工业串口服务器——PLANET 在它这里全部是工业线，与 Moxa EDS、Teltonika TSW 同柜",
+      "own_brand": "否",
+      "angle": "工业自动化分销 + 集成（20 人、€8.5M）：PLANET 工业管理型 IGS-10020MT 零售 €388 vs Saga STI-280DGGM $125.6 EXW（≈3×），ISW/IGS 非管理款亦同槽位；其 Moxa EDS（€85–478）客群对价格敏感的边缘项目（楼宇/LoRaWAN 网关机柜）正是 Saga 工业 DIN 款的用武之地；集成项目可走 25% 档（首触按分销 20%）",
+      "p1": "STI-280DGGM",
+      "p1_reason": "对位其在售 IGS-10020MT（工业 DIN 8×GE + 2×1G/2.5G SFP 管理，€388）——其 PLANET 工业线的最高价款、也是楼宇/工厂机柜最常用的管理型槽位；非管理 ISW/IGS 款以 STI-240FE / STI-080FE / STI-280GE 备选",
+      "pitch": "We supply Marvell-based industrial DIN-rail switches (IP30 metal, -40~75 °C, redundant 12–58 V DC; unmanaged and L2+ managed with G.8032 ring, with or without PoE) in the same slots as the PLANET IGS-10020MT / IGS-4215 / ISW families you sell next to Moxa and Teltonika, at EXW prices that fit building-automation and LoRaWAN cabinet budgets; neutral packaging is standard. The unit I would start with is {p1} at {price_str}.",
+      "tier": 0.2,
+      "tier_reason": "分销/网店 → 20%（自营集成项目可按 25% 档另报）",
+      "priority": "★★",
+      "rating": "B",
+      "rating_basis": "需求：PLANET 工业线 ≥7 款在售标价（含 €388 管理型、JSON-LD InStock）→ 真实；专营工业通信 → 需求匹配度高；触达：info@marcomweb.it 公开（官网页眉）、PEC 公开，无具名 KP；体量：20 人、€8.5M（2024）、利润 €0.78M → 可赢；Mikrotik 仓 A-487（R53 人工 A）已有同一邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★★",
+      "source": "W15 矿脉 ①「Mikrotik 池域名 × site: planet switch」命中（Mikrotik A-487 行域名反查）；ufficiocamerale / reteimprese / LinkedIn 核身",
+      "planet_models": [
+        "IGS-10020MT",
+        "IGS-4215-4T2S",
+        "ISW-621",
+        "ISW-621TF",
+        "ISW-800T",
+        "ISW-500T",
+        "IGS-1020TF",
+        "IPM-8221"
+      ],
+      "model_map": {
+        "IGS-10020MT": {
+          "saga": "STI-280DGGM",
+          "note": "工业 DIN 8×GE + 2×1G/2.5G SFP L2+，同槽位"
+        },
+        "IGS-4215-4T2S": {
+          "saga": "STI-240DGGM",
+          "note": "工业 DIN 4×GE + 2×SFP 管理（PLANET L2/L4 → Saga L2+）"
+        },
+        "ISW-621": {
+          "saga": "STI-240FE",
+          "note": "工业 4×FE + 2×100M SFP 非管理（PLANET 为固定 FX 口）"
+        },
+        "ISW-621TF": {
+          "saga": "STI-240FE",
+          "note": "工业 4×FE + 2×100M SFP 非管理，同槽位"
+        },
+        "ISW-800T": {
+          "saga": "STI-080FE",
+          "note": "工业 8×FE 非管理，同槽位"
+        },
+        "ISW-500T": {
+          "saga": "STI-050FE",
+          "note": "工业 5×FE 非管理，同槽位"
+        },
+        "IGS-1020TF": {
+          "saga": "STI-280GE",
+          "note": "工业 8×GE + 2×SFP 非管理（PLANET 页标 END OF LIFE 促销 → 正是补位时点）"
+        },
+        "IPM-8221": {
+          "saga": "—",
+          "note": "IP 电源管理器：Saga 无此品类，不硬凑"
+        }
+      },
+      "contacts": [
+        {
+          "name": "—（info / 总入口）",
+          "role": "sales/general",
+          "email": "info@marcomweb.it",
+          "phone": "+39 045 8204747",
+          "status": "公开（官网页眉与页脚）",
+          "source": "https://shop.marcomweb.it/index.php/en"
+        },
+        {
+          "name": "—（amministrazione / PEC）",
+          "role": "admin",
+          "email": "amministrazione@pec.marcomweb.it",
+          "phone": "",
+          "status": "公开（法务页）；PEC 仅用于正式函件，非首触对象",
+          "source": "https://shop.marcomweb.it/en/meet-us.html"
+        }
+      ],
+      "mx": "未查",
+      "evidence": [
+        {
+          "level": "官网",
+          "claim": "PLANET 厂商页：工业线多款在售标价",
+          "quote": "ISW-800T … Sales price without tax: 78,00 € … Industrial 8-port 10/100/1000T + 2-port 1G/2.5G SFP Managed Gigabit Switch … 388,00 € … ISW-621TF … 107,00 € … ISW-500T … 68,00 €",
+          "url": "https://shop.marcomweb.it/en/shop-online/manufacturer/planet.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "IGS-10020MT 产品页",
+          "quote": "PLANET IGS-10020MT è uno switch in fibra Gigabit completamente gestito … Prezzo di vendita, tasse escluse 388,00 €",
+          "url": "https://shop.marcomweb.it/it/shop-online/marchio/moxa/switch/gigabit-switch-gestito-industriale-8-porte-10-100-1000t-2-porte-1g-2-5g-sfp-dettagli.html",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "ISW-621TF 结构化数据（brand PLANET / InStock / €118）",
+          "quote": "\"sku\":\"ISW-621TF\" … \"brand\":{\"name\":\"PLANET\"} … \"availability\":\"https://schema.org/InStock\" … \"price\":\"118.00\"",
+          "url": "https://shop.marcomweb.it/it/media-converter-1/switch-ethernet-industriale-a-4-porte-10-100base-tx-2-porte-100base-fx-sfp-con-ampia-temperatura-operativa",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "IGS-4215-4T2S / IGS-1020TF（EOL 促销）",
+          "quote": "IGS-4215-4T2S … 193,00 € … Industrial Compact 4-Port 10/100/1000T + 1-Port 100/1000X SFP … END OF LIFE … PROMO … IGS-1020TF … 145,00 €",
+          "url": "https://shop.marcomweb.it/it/switch/industrial-compact-4-port-10-100-1000t-1-port-100-1000x-sfp-gigabit-ethernet-switch",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "官网",
+          "claim": "公司法务与入口",
+          "quote": "MARCOM S.r.l. Registered office: via della Metallurgia, 11 37139 - Bassone, Verona (VR) ITALIA VAT no. IT03718740230 REA VR-359779 Share capital 20000 € i.v. PEC: amministrazione@pec.marcomweb.it Email: info@marcomweb.it Tel: (+39) 0458204747",
+          "url": "https://shop.marcomweb.it/index.php/en",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "体量",
+          "quote": "Rea: 359779 … Fatturato: € 8.499.728,00 (2024) … Dipendenti : 20 (2026) … Ateco 46501 … Utile: € 782.760,00 (2024)",
+          "url": "https://www.ufficiocamerale.it/5782/marcom-srl",
+          "date": "2026-10-20"
+        },
+        {
+          "level": "名录",
+          "claim": "LinkedIn 定位",
+          "quote": "Soluzioni per il controllo e la comunicazione di fabbriche ed edifici… Distributore e rivenditore di router industriali… 11-50 dipendenti… Verona… 2001",
+          "url": "https://it.linkedin.com/company/marcom-srl",
+          "date": "2026-10-20"
+        }
+      ],
+      "facts": {
+        "P.IVA / REA": "03718740230 / VR-359779（登记 2007-10-25；官网自述 2002 年创立）",
+        "地址": "via della Metallurgia 11, 37139 Bassone, Verona",
+        "体量": "20 人（2026）；营收 €8.50M、利润 €0.78M（2024）；资本 €20k",
+        "品牌柜": "Moxa（EDS-2005/2008/2016 等）、PLANET 工业线、Teltonika TSW、MikroTik、ICP DAS、Hilscher、RAKwireless、Ubiquiti",
+        "全站 SKU": "3 010 件"
+      },
+      "who": "维罗纳一家 20 人的工业自动化 / 工业通信分销 + 集成商，PLANET 工业 DIN 线与 Moxa、Teltonika 同柜在售",
+      "hook": "Your industrial shelf pairs PLANET IGS-10020MT / ISW units with Moxa EDS; a Marvell-based DIN-rail L2+ switch at EXW gives your building-automation and LoRaWAN cabinet projects the same slot at a third of the price.",
+      "first_question": "For your building-automation cabinets, is the managed 8×GE + 2 SFP DIN-rail switch (IGS-10020MT class) the unit you quote most, or do unmanaged ISW/IGS units cover most of it?",
+      "subject": "DIN-rail 8×GE + 2 SFP L2+ switch for the IGS-10020MT slot, EXW",
+      "biggest_unknown": "PLANET 工业线的进货渠道（意大利 PLANET 总代 — 如 Sirtel/4Power 类 — 还是直接进口）；项目 vs 转售比例（决定 20%/25% 档）；采购人（20 人公司，info@ 大概率到老板/采购）；Mikrotik 侧 A-487 首触状态",
+      "alts": [
+        {
+          "model": "STI-280GE",
+          "scene": "工业 DIN 8×GE + 2×SFP 非管理（对位 IGS-1020TF EOL 促销 €145）",
+          "reason": "EOL 补位时点，小单试水"
+        },
+        {
+          "model": "STI-240DGGM",
+          "scene": "工业 DIN 4×GE + 2×SFP L2+（对位 IGS-4215-4T2S €193）",
+          "reason": "第二封"
+        },
+        {
+          "model": "STI-080FE / STI-240FE",
+          "scene": "工业 FE 非管理（对位 ISW-800T / ISW-621TF）",
+          "reason": "老站点维护件"
+        }
+      ],
+      "qual": "技术上合格（工业 DIN 对位完整）/ 商业上未合格（渠道与项目比例待首触；以 Mikrotik 侧首触结果为准）",
+      "boundary": "不碰现场总线/网关/LoRaWAN 品类；不做 EN50155/铁路、IP67；不贬低 PLANET/Moxa；只报 EXW；首触由 Mikrotik 仓库发（本仓回填 PLANET 工业线证据与 EOL 补位时点）",
+      "mikrotik_ref": "A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）",
+      "notes": "本仓主表与全仓 grep「marcom」无命中。Mikrotik 仓库 A-487（备注误写「维琴察」，官网为维罗纳）。厂商页 results,1-30 重定向到全品类页；PLANET 证据取自产品页与搜索快照。意大利第 10 户。 Gmail 0 命中。",
+      "gmail_check": "2026-10-20 Gmail in:anywhere to:/from:\"marcomweb.it\"（与 edox.com 合并查询）→ 9 条均为 INFO@sarcitalia.it 模糊命中，与 marcomweb.it 无关 → 实际 0 命中（complete:true）→ 首触史干净",
+      "steps": [
+        {
+          "title": "PLANET 侧预案（并档，不从本仓发）",
+          "push": "STI-280DGGM",
+          "angle": "对位 IGS-10020MT €388；EXW",
+          "question": "For your building-automation cabinets, is the managed 8×GE + 2 SFP DIN-rail switch (IGS-10020MT class) the unit you quote most, or do unmanaged ISW/IGS units cover most of it?",
+          "action": "仅在 Mikrotik 侧首触有回应后作为第二话题"
+        },
+        {
+          "title": "EOL 补位 + 样机",
+          "push": "STI-280GE",
+          "angle": "IGS-1020TF EOL → 同槽位补位；1 台样机到 Verona",
+          "question": "—",
+          "action": "按 Mikrotik 侧节奏"
+        },
+        {
+          "title": "收尾",
+          "push": "—",
+          "angle": "—",
+          "question": "—",
+          "action": "退出标准同 Mikrotik 侧"
+        }
+      ],
+      "swot": {
+        "S": "工业通信专营、PLANET 工业线齐全；公开邮箱；20 人决策链短；IGS-1020TF EOL 给补位时点",
+        "W": "并档不首触；无具名 KP；项目型公司对认证/文档要求高",
+        "O": "Moxa 客群的低价边缘项目；LoRaWAN/楼宇机柜 DIN 槽位；25% 项目档",
+        "T": "Moxa/Teltonika 品牌粘性；意大利 PLANET 总代服务；对中国直供的文档/CE 质疑"
+      }
+    }
+  ],
+  "merged": [],
+  "pending_next_wave": [
+    {
+      "name": "矿脉 ① 剩余分销域名（≈280）",
+      "reason": "按命中率 11%（54 探针 → 6 命中）继续；优先 PL/CZ/SK/HU/GR/IT/ES/PT/TR 多品牌网店；已探 54 个不重探"
+    },
+    {
+      "name": "矿脉 ① 集成商域名（327）",
+      "reason": "分销域名跑完后再跑；集成商站点通常无商品页，命中率预期更低 → 改用 `site:<域名> planet` 不带 switch"
+    },
+    {
+      "name": "矿脉 ②：比价/聚合站（idealo / Geizhals / Ceneo / Heureka / Skroutz / Akakçe）按 PLANET 型号反查上架商家",
+      "reason": "W15 未开；需逐站核实是否允许抓取"
+    },
+    {
+      "name": "矿脉 ③：`filetype:pdf` PLANET 价格表 / 线卡",
+      "reason": "W15 未开"
+    },
+    {
+      "name": "acceed.de / interstroom.nl 二次核",
+      "reason": "探针空结果，不可判"
+    },
+    {
+      "name": "Alternetivo（CZ）品牌页核一次",
+      "reason": "W15 探针未命中 PLANET 但其为捷克主要网络分销商，需用 /znacka/planet 类路径确认后再定「负」"
+    },
+    {
+      "name": "PA-011 Young B.T.S.",
+      "reason": "W12 第 4 次 HTTP 500 → 首触前人工（沿袭）"
+    },
+    {
+      "name": "PA-004 NSI",
+      "reason": "首触前人工复核（沿袭）"
+    },
+    {
+      "name": "B ★★ 老化回查（每轮 ≤10 户）",
+      "reason": "W15 本轮未做（全部精力在新矿脉）"
+    },
+    {
+      "name": "W15 价格表键位缺陷波及的既有档案",
+      "reason": "common.load_prices 修复后 STC-424XGGM / STC-448XGGM（L2+）价由 L3 行误价回落到 L2+ 行；本轮 render 已重渲所有档案，差异见提交 diff"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "varia-store.com / omg.de / videor.com（DE）",
+      "reason": "矿脉 ① 探针负：Ubiquiti/MikroTik/TP-Link 或安防分销，无 PLANET 商品页"
+    },
+    {
+      "name": "acceed.de / interstroom.nl",
+      "reason": "探针空结果（不可判）→ 下轮用 /hersteller|/brand 页二次核一次"
+    },
+    {
+      "name": "wifi-stock.co.uk / 4gon.co.uk（UK）",
+      "reason": "探针负：Ubiquiti/Cambium/MikroTik"
+    },
+    {
+      "name": "actn.fr / azurtem.com / sphinxfrance.com / allnetfrance.fr（FR）",
+      "reason": "探针负：无 PLANET 商品（allnetfrance 仅 SFP 兼容性文字提到 Planet）/ Moxa·Advantech"
+    },
+    {
+      "name": "cdr.pl / interprojekt.pl / csi.pl / atel.com.pl（PL）",
+      "reason": "探针负：Ubiquiti/MikroTik / Aaxeon·Advantech / Edge-core·TP-Link·ORing"
+    },
+    {
+      "name": "cablewindow.com / dmi.es / tempelgroup.com / ecomshop.es / laufquen.com（ES）",
+      "reason": "探针负：Utepo / TP-Link·Dahua / Moxa·Advantech / EnGenius·Netis / MikroTik·Ruijie（laufquen 主站为阿根廷）"
+    },
+    {
+      "name": "alternetivo.cz / secomp.cz / wifiprofi.cz / axilogi.com（CZ）",
+      "reason": "探针负：DCN·ORing·Teltonika / TRENDnet / MikroTik·Grandstream / HPE·TP-Link 数据表（Alternetivo 为捷克 PLANET 总代候选但 site: 未命中 PLANET 页 → 下轮用 /znacka 页核一次）"
+    },
+    {
+      "name": "rspsupply.com / targetd.com / 5gstore.com（US）",
+      "reason": "探针负：电气·Hirschmann / Zyxel·TP-Link·EnGenius / 自有 IP 交换机·Teltonika·Peplink"
+    },
+    {
+      "name": "wireless-bolt.hu（HU）/ netdist.se / routerboard.se（SE）/ aurdel.com / localnet.fi（FI）",
+      "reason": "探针负：MikroTik·TP-Link / 仅 MikroTik / Deltaco·D-Link / ISP 无网店"
+    },
+    {
+      "name": "netzware.at（AT）/ officelan.pt / dssi.pt（PT）/ smartsd.com / soselectronic.com / capestone.com / sphinxitalia.it / allnet-italia.it（IT）/ wisp.store",
+      "reason": "探针负：MikroTik / Ubiquiti·TP-Link·Huawei / Ubiquiti·Stormshield / 安防分销 / 元器件 / Teltonika·TP-Link / Moxa·Advantech / Ubiquiti·Aten·ALLNET / Ubiquiti·Tenda·Netis"
+    },
+    {
+      "name": "etree.de / hsc-solutions.de（DE）/ wi.com.tr（TR）/ alfasystems.be（BE）/ pymatek.co.uk（UK）/ mpi.ch / wifx.net（CH）",
+      "reason": "探针负：Zyxel·LevelOne·Ubiquiti·Cisco / MikroTik 方案页 / MikroTik·Ubiquiti / LevelOne·Antaira / 工业自动化元件 / ORing·Atop / 仅 MikroTik"
+    },
+    {
+      "name": "ALLNET GmbH（DE）",
+      "reason": "与 PB-065 法律实体「Allnet Sp. z o.o. Sp.k.」同名但无关（波兰 Bełk 公司）；ALLNET GmbH 自有品牌 + 体量大，不入池"
+    },
+    {
+      "name": "Syscom（MX）",
+      "reason": "PB-066 EPCOM 的母集团（墨西哥）→ 区域外；若 EPCOM 采购由集团集中则 PB-066 退出"
+    },
+    {
+      "name": "Scodeno（CN）",
+      "reason": "wisp.pl 主推的中国工业交换机品牌 → 竞品/同行，不是客户"
+    },
+    {
+      "name": "PLANET France / PLANET Italia 等 PLANET 区域实体",
+      "reason": "信号源不是客户（INH 规则）"
+    }
+  ]
+}
