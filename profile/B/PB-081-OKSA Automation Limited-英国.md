@@ -171,7 +171,7 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。
+> ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
 > 📬 Gmail 查重：2026-10-20 Gmail to:/from:"oksa.co.uk" → 7 条（complete:true，含 spam/trash）：全部为 Elsa 账号 BCC 群发（2025-03-30 / 04-26 / 05-23 / 06-23 / 07-22 / 08-26 / 10-11），2025-10-11 封 BCC 头含 james@oksa.co.uk 与 sales@oksa.co.uk；0 封来自 oksa.co.uk；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触
 

@@ -1,0 +1,1178 @@
+{
+ "batch": "W21 矿脉 ⑤ Elsa 群发 BCC 域反查批 2（CZ-DE-IT-HU-FI；PL/US/ES/BE 批探针全阴）",
+ "date": "2026-10-20",
+ "method": [
+  "矿脉 ⑤：Gmail get_message(format=metadata, headers=[To,Bcc,Subject,Date]) 读 Elsa 账号 SENT 群发 9 封（PL ×2 / CZ / US-CA / DE / IT / CH-US / 混合 / SK-BE-CY）的 Bcc 头 → 186 唯一域；python 去重（主表 网站 / 公司名 + batch / docs + Mikrotik CSV + gmail 触达清单；剔除 freemail）→ 已知 28、新 158",
+  "逐域 `site:<domain> planet switch` depth 1，8 并行 ×7 轮 = 56 域；命中后 fetch 官网类目 / 联系 / Impressum 页 + 检索具名负责人；每户 Gmail list_messages 逐域查重（含 BCC 系列）",
+  "评级：具名公开决策人 + PLANET 主位 + 可赢体量 → A（U.T.E.、Lancomat）；PLANET 专属类目 + 价 / 库存 → B ★★；无价无库存 / 非主业 → B ★；全品类目录型电商 / 单 SKU 尾货 / 仅 SFP 兼容 / 制造商 / 巨头 / 区外 → 不建档并说明",
+  "价格：scripts/common.price_line（SmartByte CNY × 1.20 ÷ 6.69，快照 2026-10-17）",
+  "W21 修正：价格主表核对后，5 口非管理 DIN 对位 STI-050FE / STI-050GE（非 STI-240FE / STI-240GE = 2 光 + 4 电）；IGS-624HPT（4×GE PoE + 2×SFP）对位 STI-244GP（同口型）而非 STI-054GP（4 PoE + 1 电上行）——此前波次的 IGS-624HPT→STI-054GP 对位建议后续复核（Q 清单）"
+ ],
+ "tools": "Gmail get_message(metadata) ×9 + list_messages ×6、web_search（site: 探针 56 + 身份 / 具名检索 3）、fetch_page（lancomat 首页 ×2 / ute 品牌页 ×2 / unifibre 类目 ×2 / netram Company→404 + Impressum / lan.hu 首页 ×2 / avstek 首页 + 类目 + 联系 + 简介 / net-s 类目 / cablematic 商品页）、本地 python 去重、scripts/common.price_line",
+ "queries": [
+  "Gmail get_message 1a05caee1683faef（PL1 2026-09-01，Bcc 33）/ 1a05bfb71364077f（PL2，28）/ 1a04798efe1a50d8（CZ 2026-08-28 To office@ergate.cz，22）/ 1a08138d20436870（US-CA 2026-09-08 To solimedia，38）/ 1a056d5159d35ca3（DE 2026-08-31 To office@all4fiber.com，40）/ 1a057bf756774b15（IT 2026-08-31 To INFO@sarcitalia.it，25）/ 19ff11f7aa952525（CH-US 2026-08-11 To lightwin.ch，15）/ 19ffb6888b465b84（混合 2026-08-13 To info@iotkomponenty.sk，41）/ 1a0665a7662f4ec9（SK-BE-CY 2026-09-03 To tssgroup.sk，15）→ 186 域 / 158 新",
+  "site: 探针 PL 批：delta.poznan.pl / montersi.pl / napad.pl / tayama.pl / dipol.com.pl / elmark.com.pl / kamsys.pl / ivolta.pl（弱：producenci「PLANET (3)」）/ ivel.pl / dmtrade.pl / net-s.pl（✓ PLANET 类目带价，但全品类目录型 → 不建档）×",
+  "site: 探针 CZ 批：lancomat.cz ✓ / intelek.cz / foxon.cz / bluecom.cz / viakom.cz / expressalarm.cz / qqit.cz / autocont-ipc.cz ×",
+  "site: 探针 DE 批：ute.de ✓ / netram.de ✓（弱-中）/ bressner.de / sphinxcomputer.de / systerra.de / ico.de / tekmodul.de / gt-netstore.de / trius-vertrieb.de / vtis.de / br-network.de（0 结果）×",
+  "site: 探针 IT 批：unifibre.it ✓ / setik.biz / reweb.it / comtelitalia.it / protekna.it（0 结果）×",
+  "site: 探针 US 批：silmarelectronics.com / fiberinstrumentsales.com / silarius.com / snwtech.com（0 结果，未索引）/ fibersavvy.com / fiberopticsupply.com / hardboxusa.com / compufox.com（仅 PLANET 兼容 SFP + 规格书镜像）×",
+  "site: 探针 其他：kdelectronics.ie（仅 SFP MGB-TSX2）/ cablematic.com（单 SKU TR069 缺货）/ securame.com / kodicam.net / thelastmile.be / smarttelecom.be（0）/ perceval.be（0）/ dipol.pt（ULTIPOWER 自有牌，PLANET 仅 2011 通讯）/ dvr.no（0）× ；lan.hu ✓ / avstek.fi ✓",
+  "身份 / 具名：site:lancomat.cz kontakt → /kontakt/ + /podrobne-kontakty/；site:unifibre.it contatti → /contattaci + Optoplast 收购公告；\"Volker Pompetzki\" OR \"Nils Linnemann\" U.T.E. → /ansprechpartner + pressecontrol 2026-09-28 + wlw",
+  "Gmail list_messages：lancomat.cz 10 / ute.de 9 / unifibre.it 9 / lan.hu 13 / avstek.fi 13 / netram.de 9（全部 Elsa 账号 BCC 群发，0 回复）"
+ ],
+ "customers": [
+  {
+   "_code": "PA-017",
+   "name": "U.T.E. Electronic GmbH & Co. KG",
+   "short_name": "U.T.E. Electronic",
+   "country": "德国",
+   "city": "Witten（Friedrich-Ebert-Str. 86, 58454 Witten, NRW）",
+   "website": "ute.de",
+   "type": "Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款",
+   "signal": "ute.de/produkte/marke/planet：PLANET 品牌页（分页 1/2，results 25-48）；商品页 ISW-504PS 5-Port PoE Switch 178,50 € netto（nicht lagernd，2 Wochen）、ISW-501T 57,40 €（Lagernd 1–2 Werktage）、IGS-501T 94,50 €、IGS-801T Brutto 129 €、IGS-1600T、WGS-804HP；/produkte/automatisierung/industrial-ethernet/hersteller/planet 子类目；同页并列 Delta / Eaton USV 授权分销",
+   "own_brand": "否（有自有 U.T.E. ATS 系列转换开关，交换机无自有品牌）",
+   "angle": "工业 DIN 导轨交换机是其自动化 / 配电柜类目的刚需品，PLANET 占主位但价位高（ISW-504PS 178,50 € 净价 4×FE PoE）→ Saga STI 工业系列同口型、Marvell 方案、中性包装 EXW，给其一个可自定毛利的第二来源；业主兼总经理具名邮箱公开，可直达决策人",
+   "p1": "STI-054FP",
+   "p1_reason": "其在售 ISW-504PS（工业 4×FE PoE + 1×FE 非管理 DIN，178,50 € 净价）→ Saga STI-054FP 同口型，20% 档 $29.1 USD EXW，价差最直观；其库存款 ISW-501T 由 STI-050FE 第二封对位",
+   "pitch": "We supply Marvell-based industrial DIN-rail switches (4×FE PoE + 1×FE unmanaged, IP30, -40~75 °C, 12–48 V DC) in neutral packaging at EXW prices — the same slot as the ISW-504PS / ISW-501T you list under Industrial Ethernet. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "B2B 分销商（走量、自定毛利）→ 20%",
+   "priority": "★★",
+   "rating": "A",
+   "rating_basis": "需求：PLANET 独立品牌页两页约 48 款 + 工业以太网子类目以 PLANET 为主 + 商品页带净价 / 库存状态（ISW-501T Lagernd）→ 工业交换机采购真实、持续；触达：业主兼总经理 Volker Pompetzki（Geschäftsführer / Inhaber）volker.pompetzki@ute.de + 电话 02302 / 28283-18 在 2026-05 / 2026-09 新闻稿与 /ansprechpartner 页公开 → 具名决策人直达；体量：家族式 B2B 分销（约 8 人，RocketReach；1989 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封（含 volker.pompetzki@ / nils.linnemann@ / info@），0 回复 → 非首触、通道疲劳，需换具名 + 电话入口；Mikrotik 仓无此户 → A",
+   "source": "W21 矿脉 ⑤：Elsa 账号 2026-08-31 群发（To office@all4fiber.com）BCC 头 40 域逐域 site: 探针 → ute.de PLANET 品牌页命中 → fetch 品牌页 + 检索 Ansprechpartner / 新闻稿",
+   "planet_models": [
+    "ISW-504PS",
+    "ISW-501T",
+    "IGS-501T",
+    "IGS-801T",
+    "IGS-1600T",
+    "WGS-804HP"
+   ],
+   "model_map": {
+    "ISW-504PS": {
+     "saga": "STI-054FP",
+     "note": "工业 4×FE PoE + 1×FE 非管理 DIN → Saga 同口型 $29.1 USD EXW"
+    },
+    "ISW-501T": {
+     "saga": "STI-050FE",
+     "note": "工业 5×FE 非管理 DIN（其库存款）→ Saga 同口型 $15.2 USD EXW（-M 档；-E 宽压档另报）"
+    },
+    "IGS-501T": {
+     "saga": "STI-050GE",
+     "note": "工业 5×GE 非管理 DIN → Saga 同口型 $17.0 USD EXW（-M 档）"
+    },
+    "IGS-801T": {
+     "saga": "STI-080GE",
+     "note": "工业 8×GE 非管理 DIN → Saga 同口型 $31.4 USD EXW"
+    },
+    "IGS-1600T": {
+     "saga": "—",
+     "note": "工业 16×GE 非管理 DIN：Saga 16 口位为管理型 STI-2160XGGM（非对等，不报）"
+    },
+    "WGS-804HP": {
+     "saga": "STI-288GP",
+     "note": "壁挂 8×GE PoE+ 非管理 → Saga 8×GE PoE+ + 2×SFP 非管理 $57.4 USD EXW"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Volker Pompetzki",
+     "role": "Geschäftsführer / Inhaber（GF / Marketing）",
+     "email": "volker.pompetzki@ute.de",
+     "phone": "+49 2302 28283-18",
+     "status": "公开（2026-05-11 / 2026-09-28 新闻稿署名联系人；/ansprechpartner 页列 Geschäftsführer）；Elsa 账号已 BCC 群发 9 封无回复 → 改具名 + 电话",
+     "source": "https://www.pressecontrol.de/2026/09/28/u-t-e-electronic-prsentiert-die-neue-modulare-videomatrix-x4-maximale-flexibilitt-fr-professionelle-av-installationen/"
+    },
+    {
+     "name": "—（Info）",
+     "role": "总机",
+     "email": "info@ute.de",
+     "phone": "+49 2302 28283-0",
+     "status": "公开（Datenschutz 段 / PresseBox）；已被群发打疲劳",
+     "source": "https://www.ute.de/produkte/marke/planet"
+    },
+    {
+     "name": "Nils Linnemann",
+     "role": "Marketing（非采购；仅作线索）",
+     "email": "",
+     "phone": "+49 2302 28283-16",
+     "status": "公开姓名 / 电话（/ansprechpartner）；邮箱 JS 保护未抄录 → 不写",
+     "source": "https://www.ute.de/ansprechpartner"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PLANET 品牌页 + 法律实体 / 地址 / B2B 口径",
+     "quote": "U.T.E. electronic | Pro AV & IT-Großhandel mit großem Lager PLANET … # PLANET … Seite 1 von 2 … U.T.E. Electronic GmbH & Co. KG, Friedrich-Ebert-Str. 86, 58454 Witten, oder durch eine E-Mail an info@ute.de … Unser Angebot gilt ausschließlich für gewerbliche Kunden, Behörden sowie Fachhändler und Systemhäuser. Kein Verkauf an Endkunden.",
+     "url": "https://www.ute.de/produkte/marke/planet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "ISW-504PS 商品页带净价 / 交期",
+     "quote": "5-Port PoE Switch ISW-504PS von PLANET … 178,50 € netto … nicht lagernd, ca. 2 Wochen",
+     "url": "https://www.ute.de/produkte/automatisierung/5-port-poe-switch-isw-504ps-von-planet.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "ISW-501T 商品页（库存款）",
+     "quote": "ISW-501T 5-Port Fast Ethernet Switch … 57,40 € … Lagernd, 1–2 Werktage",
+     "url": "https://www.ute.de/produkte/automatisierung/isw-501t-5-port-fast-ethernet-switch.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-501T / IGS-801T 商品页",
+     "quote": "IGS-501T … 94,50 € ｜ IGS-801T … Brutto 129 €",
+     "url": "https://www.ute.de/produkte/automatisierung/industrial-ethernet/igs-501t.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "具名负责人与角色",
+     "quote": "Ihre Ansprechpartner bei U.T.E. … Nils Linnemann - Marketing · Tel.: 02302 / 28283-16 … Volker Pompetzki - Geschäftsführer · Tel.: 02302 / 28283-18",
+     "url": "https://www.ute.de/ansprechpartner",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "新闻稿（第三方站）",
+     "claim": "总经理公开邮箱",
+     "quote": "Volker Pompetzki GF/Marketing Telefon: +49 (0)2302 28283-18 … E-Mail: volker.pompetzki@ute.de",
+     "url": "https://www.pressecontrol.de/2026/09/28/u-t-e-electronic-prsentiert-die-neue-modulare-videomatrix-x4-maximale-flexibilitt-fr-professionelle-av-installationen/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "第三方名录",
+     "claim": "体量 / 销售负责人姓名",
+     "quote": "Geschäftsführung: Herr Volker Pompetzki · Marketingleitung: Herr Nils Linnemann · Verkaufsleitung: Herr Uwe Elgert, Herr Christian Kruppke, Herr Vladimir Spektor, Herr Christian Tugend",
+     "url": "https://www.wlw.de/de/firma/ute-electronic-gmbh-co-kg-550972?q=Glasfaserkabel",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "U.T.E. Electronic GmbH & Co. KG（Witten，1989 年起；Geschäftsführer Volker Pompetzki）",
+    "地址": "Friedrich-Ebert-Str. 86, 58454 Witten, Germany",
+    "体量": "约 8 人（RocketReach，待补证）；Delta / Eaton USV 授权分销；销售负责人 4 名（wlw）",
+    "渠道身份": "B2B 分销商（Pro-AV / KVM / USV / 工业通信），只售经销商与系统集成商"
+   },
+   "who": "Witten 的家族式 Pro-AV / IT / USV B2B 分销商，PLANET 是其工业以太网类目主力品牌，业主兼总经理邮箱公开",
+   "hook": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a Marvell-based, neutral-packed STI line at EXW gives the same slot a second source with margin you set yourself.",
+   "first_question": "For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?",
+   "subject": "Second source for 4-port PoE DIN-rail switches (ISW-504PS class), EXW, neutral packing",
+   "biggest_unknown": "PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人）",
+   "alts": [
+    {
+     "model": "STI-050FE",
+     "scene": "工业 5×FE 非管理 DIN（对位其库存款 ISW-501T）",
+     "reason": "第二封，走量款"
+    },
+    {
+     "model": "STI-080GE",
+     "scene": "工业 8×GE 非管理 DIN（对位 IGS-801T）",
+     "reason": "千兆非管理位"
+    },
+    {
+     "model": "STI-288GP",
+     "scene": "8×GE PoE+ + 2×SFP 非管理（对位 WGS-804HP）",
+     "reason": "PoE 千兆位"
+    }
+   ],
+   "qual": "技术上合格 / 商业上可行（B2B 分销、PLANET 主位、决策人直达）",
+   "boundary": "不进入其 USV / KVM / 视频矩阵主业；其公共机构客户项目若涉生命安全 → 守界；无 UL（德国要 CE）",
+   "mikrotik_ref": "—（Mikrotik 仓无此户；本仓 grep 0）",
+   "notes": "德国第 7 户。Elsa 账号 2025-03-28 → 2026-08-31（To office@all4fiber.com 系列，BCC 40 地址）共 9 封群发含 volker.pompetzki@ute.de / nils.linnemann@ute.de / info@ute.de，0 回复；data/gmail_已触达清单.csv 未收录（BCC 漏采）。首触改走具名 + 电话 +49 2302 28283-18（总经理直线），邮件主题避开群发系列用过的「24 Port PoE Managed Switch」等字样。",
+   "gmail_check": "2026-10-20 Gmail \"ute.de\" → 9 条（complete:true）：全部为 Elsa 账号 BCC 群发（To office@all4fiber.com：2025-03-28 / 04-25 / 05-27 / 06-27 / 07-27 / 08-27 / 10-08 / 11-10、2026-08-31）；0 封来自 ute.de；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STI-054FP",
+     "angle": "同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+     "question": "For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?",
+     "action": "具名信发 volker.pompetzki@ute.de（避开 info@ 与群发主题）；5 个工作日无回应 → 电话 +49 2302 28283-18；14 天无回应 → 第二封换 STI-050FE"
+    },
+    {
+     "title": "样机",
+     "push": "STI-054FP",
+     "angle": "1 台到 Witten 并行比对（PoE 预算 / 管理功能 / 温度范围）",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期；不催"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 60 天后换型号再发一封；再无回应标 PASS，不删档"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 品牌页 48 款 + 工业以太网主位；净价 / 库存公开；业主兼总经理邮箱 / 直线公开；B2B 分销可自定毛利",
+    "W": "规模小（约 8 人）年量有限；群发 9 封打过通用通道；德文文档与德国仓预期",
+    "O": "配电柜 / 自动化集成商对 DIN 导轨 PoE 的持续需求；价差大（ISW-504PS 178,50 € vs STI-054FP）",
+    "T": "PLANET 德国总代（Spectra 等）价格战；Moxa / Phoenix 在自动化渠道的惯性；小分销对新供应商审核保守"
+   }
+  },
+  {
+   "_code": "PA-018",
+   "name": "LANCOMAT s.r.o.",
+   "short_name": "Lancomat",
+   "country": "捷克",
+   "city": "Praha 9 – Vysočany（Poděbradská 520/24, 190 00）",
+   "website": "lancomat.cz",
+   "type": "结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌",
+   "signal": "lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）",
+   "own_brand": "否（布线件用 Solarix / 自编码，交换机无自有品牌）",
+   "angle": "布线分销商的有源设备类目靠 PLANET 工业 / PoE 交换机补齐，客户是布线安装商与楼宇弱电集成商 → Saga STI 工业 PoE 管理型同口型、中性包装 EXW，作其有源类目的第二来源；总经理（jednatel）与销售团队姓名 / 邮箱 / 直线全部公开",
+   "p1": "STI-288GPM",
+   "p1_reason": "其在售 IGS-10020PT（工业 8×GE PoE+ + 2×SFP 管理，130 W）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240 W），20% 档 $78.9 USD EXW；IGS-624HPT / GSD-908HP 由 STI-244GP / STC-28DGGPM 第二封对位",
+   "pitch": "We supply Marvell-based industrial DIN-rail managed PoE+ switches (8×GE PoE+ + 2×SFP, IP30, -40~75 °C, redundant DC, ERPS ring) in neutral packaging at EXW prices — the same slot as the IGS-10020PT you list for cabling and building-network installers. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "布线分销商 / 电商（走量）→ 20%",
+   "priority": "★★",
+   "rating": "A",
+   "rating_basis": "需求：7 款 PLANET 工业 / PoE 交换机商品页带 CZK 价与保修（IGS-5225-4T2S 60 个月）→ 有源类目采购真实且含管理型工业款；触达：/podrobne-kontakty/ 公开 jednatel Tomáš Jahoda tjahoda@lancomat.cz +420 724 825 435、Zdeněk Zíta zzita@、销售专员 Jan Raboch jraboch@ 等 11 名具名 + 直线 → 决策人直达；体量：布拉格布线分销（IČO 27929795，约 11 名员工公开名单）→ 可赢；Gmail：Elsa 账号 2025-04-12 → 2026-08-28 以 BCC 群发 10 封至 info@lancomat.cz，0 回复 → 非首触，但具名通道未用过；Mikrotik 仓无此户 → A",
+   "source": "W21 矿脉 ⑤：Elsa 账号 2026-08-28 群发（To office@ergate.cz）BCC 头 22 域逐域 site: 探针 → lancomat.cz 7 款 PLANET 商品页命中 → 检索 /kontakt/ + /podrobne-kontakty/",
+   "planet_models": [
+    "IGS-10020PT",
+    "IGS-624HPT",
+    "GSD-908HP",
+    "IGS-12040MT",
+    "IGS-5225-4T2S",
+    "IGS-1820TF",
+    "IGS-6325-20T4C4X"
+   ],
+   "model_map": {
+    "IGS-10020PT": {
+     "saga": "STI-288GPM",
+     "note": "工业 8×GE PoE+ + 2×SFP 管理 → Saga 同口型 $78.9 USD EXW"
+    },
+    "IGS-624HPT": {
+     "saga": "STI-244GP",
+     "note": "工业 4×GE PoE+ + 2×SFP 非管理 → Saga 同口型（4×GE PoE + 2×SFP）$35.2 USD EXW"
+    },
+    "GSD-908HP": {
+     "saga": "STC-28DGGPM",
+     "note": "桌面 8×GE PoE + 1×GE 上行 → Saga 8×GE PoE + 2×SFP 管理 $80.7 USD EXW"
+    },
+    "IGS-12040MT": {
+     "saga": "STI-280GM",
+     "note": "工业 8×GE + 4×SFP 管理 → Saga 8×GE + 2×SFP 管理 $68.2 USD EXW（SFP 口数 2 vs 4，需说明）"
+    },
+    "IGS-5225-4T2S": {
+     "saga": "STI-240GE",
+     "note": "工业 L2+/L3 4×GE + 2×SFP 管理 → Saga 最近为 STI-240GE 非管理 $28.0 USD EXW（非对等，仅作参考，不进首触）"
+    },
+    "IGS-1820TF": {
+     "saga": "—",
+     "note": "工业 16×GE + 2×SFP 非管理：Saga 16 口位为管理型 STI-2160XGGM（非对等，不报）"
+    },
+    "IGS-6325-20T4C4X": {
+     "saga": "—",
+     "note": "工业 L3 20×GE + 4 Combo + 4×10G：Saga 工业线无 L3 28 口款"
+    }
+   },
+   "contacts": [
+    {
+     "name": "Tomáš Jahoda",
+     "role": "jednatel（总经理 / 执行董事）",
+     "email": "tjahoda@lancomat.cz",
+     "phone": "+420 724 825 435",
+     "status": "公开（/podrobne-kontakty/ 「Vedení společnosti」）；具名通道未被群发触达",
+     "source": "https://www.lancomat.cz/podrobne-kontakty/"
+    },
+    {
+     "name": "Jan Raboch",
+     "role": "obchodní specialista（销售专员）",
+     "email": "jraboch@lancomat.cz",
+     "phone": "+420 774 411 618",
+     "status": "公开（同页「Obchodní oddělení」）；备用入口",
+     "source": "https://www.lancomat.cz/podrobne-kontakty/"
+    },
+    {
+     "name": "—（Info）",
+     "role": "总机（dotazy, poptávky, objednávky）",
+     "email": "info@lancomat.cz",
+     "phone": "+420 284 680 755",
+     "status": "公开（/kontakt/）；Elsa 账号已 BCC 群发 10 封无回复 → 不再用",
+     "source": "https://www.lancomat.cz/kontakt/"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网（搜索快照）",
+     "claim": "法律实体 / 地址 / 总机",
+     "quote": "LANCOMAT s.r.o. Poděbradská 520/24 190 00, Praha 9 - Vysočany Česká republika IČO: 27929795 DIČ: CZ27929795 … telefon +420 284 680 755 … email info@lancomat.cz (dotazy, poptávky, objednávky)",
+     "url": "https://www.lancomat.cz/kontakt/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "具名负责人与销售团队（邮箱 / 直线）",
+     "quote": "Obchodní oddělení … Jan Raboch | obchodní specialista | +420 774 411 618 | jraboch@lancomat.cz … Vedení společnosti … Tomáš Jahoda | jednatel | +420 724 825 435 | tjahoda@lancomat.cz | Zdeněk Zíta | jednatel | +420 602 345 900 | zzita@lancomat.cz",
+     "url": "https://www.lancomat.cz/podrobne-kontakty/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-1820TF 商品页（品牌 / 价 / 库存 / 保修）",
+     "quote": "Switch průmyslový 16x 1Gb + 2x SFP, dual 12-48V DC / 24V AC, -40..75 °C, fanless … Výrobce PLANET TECHNOLOGY … 8 383 Kč … OutOfStock … 36 měsíců",
+     "url": "https://www.lancomat.cz/switch-prumyslovy-16x-1gb-2x-sfp-dual-12-48v-dc-24v-ac-40-75-c-fanless-p166247/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-12040MT 商品页带价",
+     "quote": "IGS-12040MT … 9 588 Kč bez DPH … 11 601 Kč s DPH",
+     "url": "https://www.lancomat.cz/igs-12040mt-p17438/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-10020PT 商品页",
+     "quote": "Switch L2 průmyslový 8x 10/100/1000 + 2x 100/1000 SFP, PoE 130 W, managed … PLANET",
+     "url": "https://www.lancomat.cz/switch-l2-prumyslovy-8x-10-100-1000-2x-100-1000-sfp-poe-130-w-managed-p164802/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-624HPT / GSD-908HP / IGS-5225-4T2S 商品页",
+     "quote": "Switch 4-port 10/100/1000T 802.3at PoE + 2-port 100/1000X SFP（IGS-624HPT）｜ Switch 9x 10/100/1000Base-T, 8x PoE 100W（GSD-908HP，24 months）｜ Průmyslový switch L2/L3 static 4 GLAN + 2 SFP（IGS-5225-4T2S，60 months）",
+     "url": "https://www.lancomat.cz/switch-4-port-10-100-1000t-802-3at-poe-2-port-100-1000x-sfp-p15824/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "主营口径",
+     "quote": "Vše pro strukturované kabeláže, optické sítě a rozvaděče … Specializujeme se na strukturované kabeláže, telekomunikační rozvaděče, vláknovou optiku, IP interkomy, aktivní prvky, záložní zdroje a doplňující sortiment.",
+     "url": "https://www.lancomat.cz/",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "LANCOMAT s.r.o.（IČO 27929795；Městský soud v Praze, C 127222；jednatelé Tomáš Jahoda / Zdeněk Zíta）",
+    "地址": "Poděbradská 520/24, 190 00 Praha 9 – Vysočany, Czech Republic",
+    "体量": "公开员工名单 11 人（销售 6 / 会计 1 / 技术 1 / 管理 2 + 其他）；布拉格办公 + 仓库",
+    "渠道身份": "结构化布线 / 光纤 / 机柜分销 + 电商 + 租赁；有源设备（PLANET 等）为补充类目"
+   },
+   "who": "布拉格的结构化布线 / 光纤 / 机柜分销商，有源类目在售 7 款 PLANET 工业 / PoE 交换机，总经理与销售团队邮箱全部公开",
+   "hook": "Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself.",
+   "first_question": "Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?",
+   "subject": "Second source for industrial 8-port PoE+ managed DIN-rail switches (IGS-10020PT class), EXW",
+   "biggest_unknown": "PLANET 有源类目年量与库存深度（IGS-1820TF 缺货暗示小批量进货）；是否要求捷克语文档；总经理 vs 销售专员谁决定新供应商",
+   "alts": [
+    {
+     "model": "STI-244GP",
+     "scene": "工业 4×GE PoE + 2×SFP 非管理（对位 IGS-624HPT）",
+     "reason": "第二封，小节点款"
+    },
+    {
+     "model": "STC-28DGGPM",
+     "scene": "8×GE PoE + 2×SFP 管理（对位 GSD-908HP）",
+     "reason": "桌面 / 弱电箱位"
+    },
+    {
+     "model": "STI-280GM",
+     "scene": "工业 8×GE + 2×SFP 管理非 PoE（对位 IGS-12040MT）",
+     "reason": "非 PoE 管理位"
+    }
+   ],
+   "qual": "技术上合格 / 商业上可行（具名决策人 + 真实在售 + 可赢体量）",
+   "boundary": "不进入其布线 / 光纤 / 机柜主业；IP 对讲 / 门禁项目若涉生命安全 → 守界；无 UL（捷克要 CE）",
+   "mikrotik_ref": "—（Mikrotik 仓无此户；本仓 grep 0）",
+   "notes": "捷克第 10 户。Elsa 账号 2025-04-12 → 2026-08-28（To office@ergate.cz 系列，BCC 22 地址）共 10 封群发含 info@lancomat.cz，0 回复；data/gmail_已触达清单.csv 未收录（BCC 漏采）。首触走具名 tjahoda@（jednatel）或 jraboch@（销售专员），不再用 info@；主题避开群发系列字样。",
+   "gmail_check": "2026-10-20 Gmail \"lancomat.cz\" → 10 条（complete:true）：全部为 Elsa 账号 BCC 群发（To office@ergate.cz：2025-04-12 / 05-05 / 06-06 / 07-07 / 08-07 / 10-04 / 11-07、2026-01-26 / 04-20 / 08-28）；0 封来自 lancomat.cz；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STI-288GPM",
+     "angle": "同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+     "question": "Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?",
+     "action": "具名信发 tjahoda@lancomat.cz（抄送 jraboch@ 可选）；5 个工作日无回应 → 电话 +420 724 825 435；14 天无回应 → 第二封换 STI-244GP"
+    },
+    {
+     "title": "样机",
+     "push": "STI-288GPM",
+     "angle": "1 台到 Praha 9 并行比对（PoE 预算 / 管理功能 / 温度范围）",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期；不催"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 60 天后换型号再发一封；再无回应标 PASS，不删档"
+    }
+   ],
+   "swot": {
+    "S": "7 款 PLANET 工业 / PoE 交换机在售带价；全员具名邮箱 / 直线公开；布线安装商客户群对 DIN 导轨 PoE 有稳定需求",
+    "W": "有源设备非主业、单品量小（IGS-1820TF 缺货）；捷克语文档预期；info@ 通道已疲劳",
+    "O": "捷克楼宇弱电 / 工业布线项目的工业 PoE 量；IGS-5225 / IGS-6325 高端位 Saga 暂无 → 聚焦 8 口 PoE 管理位",
+    "T": "PLANET 捷克渠道（100MEGA / Discomp 等）价格与现货优势；Solarix 等自编码品牌向有源延伸"
+   }
+  },
+  {
+   "_code": "PB-092",
+   "name": "Unifibre Srl（Optoplast Srl 承接业务）",
+   "short_name": "Unifibre",
+   "country": "意大利",
+   "city": "Settimo Milanese (MI)（Via Luigi Galvani 36；Optoplast 总部 Torino）",
+   "website": "unifibre.it",
+   "type": "光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌",
+   "signal": "unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16P2T2S 1 155 €、IGS-624HPT 558 €、IGS-1020PTF 569 €（均「Su ordinazione」）；serie civile：GS-4210-24T4S 379 €、8P+2SFP managed 325 €、24-port PoE 300 W 433 €",
+   "own_brand": "否",
+   "angle": "光纤分销商的有源类目整条压在 PLANET 上（工业 10 款 + 商用），客户为光纤施工 / 楼宇集成商 → Saga STI / STC 同口型、Marvell 方案、中性包装 EXW，作其有源类目第二来源；Optoplast 接手后正在整合供应链，是切入时点",
+   "p1": "STI-288GPM",
+   "p1_reason": "其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位",
+   "pitch": "We supply Marvell-based industrial DIN-rail managed PoE+ switches (8×GE PoE+ + 2×SFP, IP30, -40~75 °C, redundant DC, ERPS ring) in neutral packaging at EXW prices — the same slot as the IGS-4215-8P2T2S in your Switch Industriali range. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "增值分销 / 电商（走量）→ 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：「Switch Industriali」类目 10 款全为 PLANET 带欧元价 + 商用类目 3 款 → 有源类目采购真实且只此一家品牌；触达：uniteam@optoplast.org / uniteam@unifibre.it + +39 02 3355501 公开（/contattaci），无具名 KP；体量：30 余年光纤 VAD，被 Optoplast 收购业务 → 中型、可赢但整合期不确定；Gmail：Elsa 账号 2025-04-01 → 2026-08-31 以 BCC 群发 9 封至 uniteam@unifibre.it，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无具名 KP + 整合期）",
+   "source": "W21 矿脉 ⑤：Elsa 账号 2026-08-31 群发（To INFO@sarcitalia.it）BCC 头 25 域逐域 site: 探针 → unifibre.it 工业交换机类目命中 → fetch /32-switch-industriali + 检索 /contattaci",
+   "planet_models": [
+    "IGS-4215-8P2T2S",
+    "IGS-624HPT",
+    "IGS-4215-16P2T2S",
+    "IGS-4215-4T2S",
+    "IGS-12040MT",
+    "IGS-1020TF",
+    "IGS-1820TF",
+    "IGS-1020PTF",
+    "ISW-621T",
+    "GS-4210-24T4S"
+   ],
+   "model_map": {
+    "IGS-4215-8P2T2S": {
+     "saga": "STI-288GPM",
+     "note": "工业 8×GE PoE+ + 2×SFP + 2×GE 管理 → Saga 8×GE PoE+ + 2×SFP 管理 $78.9 USD EXW"
+    },
+    "IGS-624HPT": {
+     "saga": "STI-244GP",
+     "note": "工业 4×GE PoE+ + 2×SFP 非管理 → Saga 同口型（4×GE PoE + 2×SFP）$35.2 USD EXW"
+    },
+    "IGS-4215-16P2T2S": {
+     "saga": "STI-2160XGGM",
+     "note": "工业 16×GE PoE+ + 2×SFP + 2×GE 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（非 PoE，PoE 款另报）"
+    },
+    "IGS-4215-4T2S": {
+     "saga": "STI-240GE",
+     "note": "工业 4×GE + 2×SFP 管理 → Saga 最近为 STI-240GE 非管理 $28.0 USD EXW（非对等，不进首触）"
+    },
+    "IGS-12040MT": {
+     "saga": "STI-280GM",
+     "note": "工业 8×GE + 4×SFP 管理 → Saga 8×GE + 2×SFP 管理 $68.2 USD EXW（SFP 口数不同）"
+    },
+    "IGS-1020TF": {
+     "saga": "STI-280GE",
+     "note": "工业 8×GE + 2×SFP 非管理 → Saga 同口型 $46.6 USD EXW"
+    },
+    "IGS-1820TF": {
+     "saga": "—",
+     "note": "工业 16×GE + 2×SFP 非管理：Saga 16 口位为管理型（非对等，不报）"
+    },
+    "IGS-1020PTF": {
+     "saga": "STI-288GP",
+     "note": "工业 8×GE PoE + 2×SFP 非管理 → Saga 同口型 $57.4 USD EXW"
+    },
+    "ISW-621T": {
+     "saga": "—",
+     "note": "工业 4×FE + 2×SC 光口固定：Saga 无固定光口款"
+    },
+    "GS-4210-24T4S": {
+     "saga": "STC-424DGGM",
+     "note": "商用 24×GE + 4×SFP L2+ → Saga 同口型 $82.5 USD EXW"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Uniteam / Ufficio commerciale）",
+     "role": "销售部（Optoplast 接手后新地址）",
+     "email": "uniteam@optoplast.org",
+     "phone": "+39 02 3355501",
+     "status": "公开（商品页页脚「OPTOPLAST Srl … uniteam@optoplast.org」）；未被群发触达",
+     "source": "https://www.unifibre.it/switch-serie-civile/203-switch-managed-gigabit-poe-8-porte-101001000-mbps-2-porte-fibra-sfp.html"
+    },
+    {
+     "name": "—（Uniteam）",
+     "role": "销售部（旧地址）",
+     "email": "uniteam@unifibre.it",
+     "phone": "+39 02 3355501",
+     "status": "公开（/contattaci）；Elsa 账号已 BCC 群发 9 封无回复 → 通道疲劳",
+     "source": "https://www.unifibre.it/contattaci"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "工业交换机类目 10 款 PLANET 带价",
+     "quote": "# Switch Industriali … ISW-621T 134,00 € … ISW-621TS15 231,00 € … IGS-1020TF 349,00 € … IGS-1820TF 566,00 € … IGS-42154T2S 366,00 € … IGS-12040MT 867,00 € … IGS42158P2T2S 766,00 € … IGS421516P2T2S 1.155,00 € … IGS-624HPT 558,00 € … IGS-1020PTF 569,00 € … Visualizzati 1-10 su 10 articoli … Su ordinazione",
+     "url": "https://www.unifibre.it/32-switch-industriali",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "法律实体 / 地址 / 联系方式",
+     "quote": "Unifibre srl Via Luigi Galvani, 36 - 20019 - Settimo Milanese (MI) Italy +39 02 3355501 uniteam@unifibre.it … UNIFIBRE s.r.l. – P.IVA 07122930154",
+     "url": "https://www.unifibre.it/contattaci",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "Optoplast 收购 Unifibre 业务 + 新联系地址",
+     "quote": "Con l'acquisizione da parte di Optoplast del ramo d'azienda di Unifibre, nasce una collaborazione … OPTOPLAST Srl Via Onorato Vigliani, 143/B 10127 – Torino Magazzino Via Luigi Galvani, 36 20019 – Settimo Milanese uniteam@optoplast.org +39 02 3355501",
+     "url": "https://www.unifibre.it/switch-serie-civile/203-switch-managed-gigabit-poe-8-porte-101001000-mbps-2-porte-fibra-sfp.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "公司定位",
+     "quote": "Unifibre è un Distributore a Valore Aggiunto che da oltre 30 anni ricerca, seleziona e commercializza i migliori prodotti nel settore delle fibre ottiche per trasmissione dati e telecomunicazioni.",
+     "url": "https://www.unifibre.it/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "商用类目 PLANET 带价",
+     "quote": "GS-4210-24T4S 379 € ｜ Switch managed Gigabit PoE 8 porte + 2 porte SFP 325 € ｜ 24-port PoE 300 W 433 €",
+     "url": "https://www.unifibre.it/33-switch-serie-civile",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Unifibre S.r.l.（P.IVA 07122930154，Settimo Milanese）；业务分支已由 Optoplast S.r.l.（Torino，P.IVA 01220320665）收购，网站页脚已切换为 Optoplast",
+    "地址": "Via Luigi Galvani 36, 20019 Settimo Milanese (MI)（仓库 / 办公）；Optoplast：Via Onorato Vigliani 143/B, 10127 Torino",
+    "体量": "30 余年光纤 VAD（人数未公开）；ISO 9001",
+    "渠道身份": "光纤增值分销 + 电商 + 施工 / 培训服务；有源设备类目以 PLANET 为唯一品牌"
+   },
+   "who": "米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET",
+   "hook": "Your Switch Industriali range is PLANET end-to-end (IGS-4215-8P2T2S at €766) — a Marvell-based, neutral-packed STI line at EXW gives the same slots a second source while you consolidate suppliers under Optoplast.",
+   "first_question": "In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?",
+   "subject": "Second source for industrial 8-port PoE+ managed switches (IGS-4215-8P2T2S class), EXW",
+   "biggest_unknown": "Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档",
+   "alts": [
+    {
+     "model": "STI-244GP",
+     "scene": "工业 4×GE PoE + 2×SFP 非管理（对位 IGS-624HPT）",
+     "reason": "第二封，小节点款"
+    },
+    {
+     "model": "STC-424DGGM",
+     "scene": "商用 24×GE + 4×SFP L2+（对位 GS-4210-24T4S）",
+     "reason": "商用类目位"
+    },
+    {
+     "model": "STI-288GP",
+     "scene": "工业 8×GE PoE + 2×SFP 非管理（对位 IGS-1020PTF）",
+     "reason": "非管理 PoE 位"
+    }
+   ],
+   "qual": "技术上合格 / 商业上可行（有源类目单一品牌，整合期可切入）；需先确认 Optoplast 侧采购人",
+   "boundary": "不进入其光缆 / 熔接 / 测试主业；无 UL（意大利要 CE）",
+   "mikrotik_ref": "—（Mikrotik 仓无此户；本仓 grep 0）",
+   "notes": "意大利第 12 户。Elsa 账号 2025-04-01 → 2026-08-31（To INFO@sarcitalia.it 系列，BCC 25 地址）共 9 封群发含 uniteam@unifibre.it，0 回复；data/gmail_已触达清单.csv 未收录（BCC 漏采）。首触改发新地址 uniteam@optoplast.org（未被群发触达），主题避开群发系列字样；去重键按 Unifibre（意大利），Optoplast 另址不另建档。",
+   "gmail_check": "2026-10-20 Gmail \"unifibre.it\" → 9 条（complete:true）：全部为 Elsa 账号 BCC 群发（To INFO@sarcitalia.it：2025-04-01 / 04-27 / 05-24 / 06-24 / 07-23 / 10-08 / 11-10、2026-01-27 / 08-31）；0 封来自 unifibre.it 或 optoplast.org；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STI-288GPM",
+     "angle": "同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+     "question": "In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?",
+     "action": "首封发 uniteam@optoplast.org（新地址）；10 个工作日无回应 → 电话 +39 02 3355501 问 ufficio acquisti 具名人；14 天无回应 → 第二封换 STI-244GP"
+    },
+    {
+     "title": "样机",
+     "push": "STI-288GPM",
+     "angle": "1 台到 Settimo Milanese 并行比对（PoE 预算 / 管理功能 / 温度范围）",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期；不催"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 60 天后换型号再发一封；再无回应标 PASS，不删档"
+    }
+   ],
+   "swot": {
+    "S": "有源类目 10 款全 PLANET 带价；光纤施工客户群对工业 PoE / SFP 上行需求稳定；新联系地址未被群发触达",
+    "W": "无具名 KP；全部「Su ordinazione」= 代订无库存；整合期决策链不明；旧通道已疲劳",
+    "O": "Optoplast 整合供应链 → 新供应商窗口；IGS-4215 系列价高（766 €）价差显著",
+    "T": "PLANET 意大利渠道价格；Optoplast 可能已有自己的有源供应商；整合期采购冻结"
+   }
+  },
+  {
+   "_code": "PB-093",
+   "name": "LAN Számítástechnikai Szolgáltató Kft.",
+   "short_name": "LAN Kft.",
+   "country": "匈牙利",
+   "city": "Budapest（H-1155 Budapest, Kolozsvár utca 7）",
+   "website": "lan.hu",
+   "type": "网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号",
+   "signal": "lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货",
+   "own_brand": "否（货号前缀 L 为自编码，非品牌）",
+   "angle": "布达佩斯布线 / 机柜分销商的有源类目靠 PLANET 工业交换机，客户是布线施工商与中小 IT 集成商 → Saga STI 工业管理型同口型、中性包装 EXW，作其有源类目第二来源；匈牙利已有 5 户可互证渠道价位",
+   "p1": "STI-280GM",
+   "p1_reason": "其在售 IGS-10020MT（工业 8×GE + 2×SFP 管理，120 140 Ft 净价 ≈ 300 €）→ Saga STI-280GM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理），20% 档 $68.2 USD EXW；IGS-801T / ISW-801T 由 STI-080GE / STI-080FE 第二封对位",
+   "pitch": "We supply Marvell-based industrial DIN-rail managed switches (8×GE + 2×SFP, IP30, -40~75 °C, redundant DC, ERPS ring) in neutral packaging at EXW prices — the same slot as the IGS-10020MT you distribute under your own L-codes. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销商 / 电商（走量）→ 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：5 款 PLANET 工业交换机商品页带 HUF 净价 / 含税价 + 自编货号 + 实时库存口径 → 有源类目采购真实；触达：sales@lan.hu / titkar@lan.hu + +36 1 415 2300 公开（页脚 / FAQ），无公开具名 KP（Bcc 中 jhegedus@ / wbea@ 两个具名地址角色未公开 → 不作 KP）；体量：布达佩斯分销商（D&B 「pénzügyileg legstabilabb」认证 2026-07）→ 中型、可赢；Gmail：Elsa 账号 2025-02-18 → 2026-08-13 以 BCC 群发 13 封（含 jhegedus@ / wbea@），0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无公开具名 KP）",
+   "source": "W21 矿脉 ⑤：Elsa 账号 2026-08-13 群发（To info@iotkomponenty.sk）BCC 头 41 域逐域 site: 探针 → lan.hu 5 款 PLANET 商品页命中 → fetch 首页（页脚 / FAQ）",
+   "planet_models": [
+    "IGS-10020MT",
+    "IGS-801T",
+    "ISW-801T",
+    "IGSW-24040T",
+    "IGS-1020TF"
+   ],
+   "model_map": {
+    "IGS-10020MT": {
+     "saga": "STI-280GM",
+     "note": "工业 8×GE + 2×SFP 管理 → Saga 同口型 $68.2 USD EXW"
+    },
+    "IGS-801T": {
+     "saga": "STI-080GE",
+     "note": "工业 8×GE 非管理 DIN → Saga 同口型 $31.4 USD EXW"
+    },
+    "ISW-801T": {
+     "saga": "STI-080FE",
+     "note": "工业 8×FE 非管理 DIN → Saga 同口型 $24.4 USD EXW"
+    },
+    "IGSW-24040T": {
+     "saga": "STI-2160XGGM",
+     "note": "工业 L2+ 20×GE + 4 Combo 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（口数 / 口型不同，需说明）"
+    },
+    "IGS-1020TF": {
+     "saga": "STI-280GE",
+     "note": "工业 8×GE + 2×SFP 非管理 → Saga 同口型 $46.6 USD EXW"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Sales）",
+     "role": "销售（产品咨询 / 下单）",
+     "email": "sales@lan.hu",
+     "phone": "+36 1 415 2300",
+     "status": "公开（首页 FAQ「Kapcsolat és ügyfélszolgálat」）；未被群发直接触达（群发打的是 jhegedus@ / wbea@）",
+     "source": "https://lan.hu/"
+    },
+    {
+     "name": "—（Titkárság）",
+     "role": "秘书处 / 总机",
+     "email": "titkar@lan.hu",
+     "phone": "+36 1 415 2300",
+     "status": "公开（页脚）",
+     "source": "https://lan.hu/"
+    },
+    {
+     "name": "—（Bcc 具名地址 ×2）",
+     "role": "角色未公开（jhegedus@lan.hu / wbea@lan.hu）",
+     "email": "",
+     "phone": "",
+     "status": "仅见于 Elsa 群发 Bcc（13 封 0 回复），官网未公开姓名 / 角色 → 不作 KP、不写入入口；待电话核实",
+     "source": "Gmail 1a0665a7662f4ec9 / 19ffb6888b465b84 Bcc 头（2026-10-20 读取）"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "法律实体 / 地址 / 公开邮箱 / 电话 / 服务口径",
+     "quote": "LAN Számítástechnikai Szolgáltató Kft. … H-1155 Budapest Kolozsvár utca 7. … Telefon: +36 1 415 2300 … E-mail: sales@lan.hu, ha a vásárlás mellett a kivitelezés is érdekel: szolgaltatas@lan.hu … titkar@lan.hu … Valós idejű a készletinformáció? Igen",
+     "url": "https://lan.hu/",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-10020MT 商品页带价 / 自编货号",
+     "quote": "Planet IP30 Industral Managed Ehternet Switch … 120.140 Ft + ÁFA ( 152.578 Ft ) … Cikkszám: LIGS-10020MT … 8 10/100/1000BASE-T RJ-45 … 2 100/1000/2500BASE-X mini-GBIC SFP ports",
+     "url": "https://lan.hu/planet-ip30-industral-managed-ehternet-switch-4167",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGS-801T / ISW-801T 商品页带价",
+     "quote": "Planet IGS-801T IP30 8-port Industrial Gigabit Ethernet Switch … 46.800 Ft + ÁFA ( 59.436 Ft ) ｜ Planet ISW-801T Fast Ethernet Switch … 36.015 Ft … Cikkszám: LISW-801T",
+     "url": "https://lan.hu/planet-igs-801t-ip30-8-port-industrial-gigabit-ethernet-switch-2452",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "IGSW-24040T / IGS-1020TF 商品页带价",
+     "quote": "Planet Industrial L2+ 20-Port 10/100/100 +4-Port TP/SFP Combo Managed Switch … 253.780 Ft + ÁFA ( 322.301 Ft ) … Cikkszám: LIGSW-24040T ｜ Planet Industrial 8-Port 10/100/1000T + 2-Port 100/1000X SFP Ethernet Switch … 102.019 Ft",
+     "url": "https://lan.hu/planet-industrial-l2-20-port-10100100-4-port-tpsfp-combo-managed-switch-3647",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "体量 / 信用口径",
+     "quote": "Tanúsítvány a pénzügyileg legstabilabb cégeknek … Dun & Bradstreet … Így került kiválasztásra cégünk, a Lan Számítástechnikai Szolgáltató Kft. is, mint a pénzügyileg legstabilabb cégek egyike.（2026. 07. 22.）",
+     "url": "https://lan.hu/hirek_1/tanusitvany-a-penzugyileg-legstabilabb-cegeknek-222",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "LAN Számítástechnikai Szolgáltató Kft.（Budapest）",
+    "地址": "H-1155 Budapest, Kolozsvár utca 7, Hungary",
+    "体量": "人数未公开；D&B 财务稳定认证（2026-07）；Digitus / X-Tech / PowerWalker / Softing / PLANET 分销",
+    "渠道身份": "网络 / 布线 / 机柜 / UPS 分销 + 电商 + 施工服务"
+   },
+   "who": "布达佩斯的网络 / 布线 / 机柜分销商，有源类目以 PLANET 工业交换机为主并自编货号",
+   "hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself.",
+   "first_question": "For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?",
+   "subject": "Second source for industrial 8-port Gigabit managed DIN-rail switches (IGS-10020MT class), EXW",
+   "biggest_unknown": "采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓",
+   "alts": [
+    {
+     "model": "STI-080GE",
+     "scene": "工业 8×GE 非管理 DIN（对位 IGS-801T）",
+     "reason": "第二封，走量款"
+    },
+    {
+     "model": "STI-288GPM",
+     "scene": "工业 8×GE PoE+ + 2×SFP 管理",
+     "reason": "若其需求已转 PoE+"
+    },
+    {
+     "model": "STI-2160XGGM",
+     "scene": "工业 16×GE + 2×10G 管理（对位 IGSW-24040T 位）",
+     "reason": "高口数位"
+    }
+   ],
+   "qual": "技术上合格 / 商业上可行；需先要到具名采购人",
+   "boundary": "不进入其机柜 / UPS / 布线主业；公共机构项目 → 守界；无 UL（匈牙利要 CE）",
+   "mikrotik_ref": "—（Mikrotik 仓无此户；本仓 grep 0）",
+   "notes": "匈牙利第 6 户。Elsa 账号 2025-02-18 → 2026-08-13（To dipol@skuatechnology.com 系列 12 封 + To info@iotkomponenty.sk 1 封，BCC）共 13 封群发含 jhegedus@lan.hu / wbea@lan.hu，0 回复；data/gmail_已触达清单.csv 未收录（BCC 漏采）。首触改发 sales@lan.hu（未被群发直接触达）并电话 +36 1 415 2300 要具名采购人；Bcc 中两个具名地址因官网未公开角色不写入入口。",
+   "gmail_check": "2026-10-20 Gmail \"lan.hu\" → 13 条（complete:true）：全部为 Elsa 账号 BCC 群发（To dipol@skuatechnology.com：2025-02-18 / 03-08 / 04-19 / 05-16 / 06-18 / 07-18 / 08-18 / 10-01 / 11-04、2026-01-14 / 03-06 / 04-08；To info@iotkomponenty.sk 2026-08-13）；0 封来自 lan.hu；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STI-280GM",
+     "angle": "同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+     "question": "For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?",
+     "action": "首封发 sales@lan.hu；5 个工作日无回应 → 电话 +36 1 415 2300 要采购具名人；14 天无回应 → 第二封换 STI-080GE"
+    },
+    {
+     "title": "样机",
+     "push": "STI-280GM",
+     "angle": "1 台到 Budapest 并行比对（PoE 预算 / 管理功能 / 温度范围）",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期；不催"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 60 天后换型号再发一封；再无回应标 PASS，不删档"
+    }
+   ],
+   "swot": {
+    "S": "5 款 PLANET 工业交换机带价 + 自编货号（已纳入自有目录体系）；实时库存口径；公开 sales@ 通道未被群发用过",
+    "W": "无公开具名 KP；群发 13 封打过两个具名地址；匈牙利语文档预期",
+    "O": "匈牙利布线 / 机柜施工商对 DIN 导轨管理型的持续需求；已有 5 户匈牙利档案可互证价位",
+    "T": "PLANET 匈牙利渠道价格；Digitus 等自有品牌向工业交换机延伸；小国市场总量有限"
+   }
+  },
+  {
+   "_code": "PB-094",
+   "name": "Avstek Oy",
+   "short_name": "Avstek",
+   "country": "芬兰",
+   "city": "（芬兰；具体城市官网未列，待补证）",
+   "website": "avstek.fi",
+   "type": "安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库",
+   "signal": "avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP",
+   "own_brand": "否",
+   "angle": "小型安防安装商 + 网店，PoE 交换机类目 100% PLANET 且备库 → Saga STC 商用 PoE 同口型（8 口 / 24 口）中性包装 EXW，直接替换其自用 + 网店 SKU；体量小但决策快、无供应商审核",
+   "p1": "STC-28DGGPM",
+   "p1_reason": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位",
+   "pitch": "We supply Marvell-based 8-port Gigabit PoE+ switches (8×GE PoE+ + 2×SFP, 120–240 W budget, PoE watchdog) in neutral packaging at EXW prices — the same slot as the GSD-908HP you stock for camera and alarm installs. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "电商 + 小型安装商（自用 + 转售，走量口径）→ 20%",
+   "priority": "★★",
+   "rating": "B",
+   "rating_basis": "需求：PoE 交换机类目 4/4 为 PLANET、全部在库带价 → 采购真实且单一品牌；触达：myynti@avstek.fi 在 Yritysesittely 页公开（「myynti (ät) avstek.fi」），无具名 KP；体量：2015 年成立的小型承包商 + 网店（Suomen Vahvimmat AA）→ 可赢但年量小；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 13 封至 myynti@avstek.fi，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（体量小 + 无具名）",
+   "source": "W21 矿脉 ⑤：Elsa 账号 2026-08-13 群发（To info@iotkomponenty.sk）BCC 头 41 域逐域 site: 探针 → avstek.fi PoE 类目命中 → fetch /44-poe-kytkimet + /content/4-yritysesittely",
+   "planet_models": [
+    "GSD-908HP",
+    "GSD-804P",
+    "GSW-2620HP",
+    "GSW-1600HP",
+    "WBS-202N"
+   ],
+   "model_map": {
+    "GSD-908HP": {
+     "saga": "STC-28DGGPM",
+     "note": "8×GE PoE + 1×GE 上行 120 W → Saga 8×GE PoE + 2×SFP 管理 $80.7 USD EXW"
+    },
+    "GSD-804P": {
+     "saga": "STC-28DGGPM",
+     "note": "8×GE 中 4×PoE+ 60 W → Saga 8×GE PoE + 2×SFP 管理（同款覆盖）"
+    },
+    "GSW-2620HP": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 2×SFP 220 W → Saga 24×GE PoE+ + 4×SFP 280 W 管理 $134.5 USD EXW"
+    },
+    "GSW-1600HP": {
+     "saga": "—",
+     "note": "16×GE PoE+ 非管理：Saga 商用线无 16 口 PoE 款（以 24 口 STC-424DGGPM-280W 覆盖，需说明）"
+    },
+    "WBS-202N": {
+     "saga": "—",
+     "note": "2.4 GHz 室外 AP：Saga 无"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Myynti）",
+     "role": "销售",
+     "email": "myynti@avstek.fi",
+     "phone": "",
+     "status": "公开（Yritysesittely 页「myynti (ät) avstek.fi」）；Elsa 账号已 BCC 群发 13 封无回复 → 通道疲劳，首触用网店联系表单（Otsikko 选 Myynti）+ 短信件",
+     "source": "https://avstek.fi/kauppa/content/4-yritysesittely"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "PoE 交换机类目 4 款全 PLANET 在库带价",
+     "quote": "# PoE kytkimet 4 tuotetta … PLANET GSD-804P KYTKIN 8P 4xPoE 144,33 € Varastossa … PLANET GSD-908HP KYTKIN 8xPoE 181,17 € Varastossa … PLANET GSW-2620HP KYTKIN 24xPoE 351,20 € Varastossa … PLANET GSW-1600HP KYTKIN 16xPoE 260,11 € Varastossa … Näytetään 1 - 4 / 4 tuotteesta",
+     "url": "https://avstek.fi/kauppa/44-poe-kytkimet",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "公司简介 / 成立年 / 资质 / 公开邮箱",
+     "quote": "Avstek Oy on perustettu vuonna 2015. … toimitusohjelmame käsittää useita tuhansia tuotteita … ole yhteydessä myyntiimme > myynti (ät) avstek.fi … Sähköurakoitsija - Tukes S3 … Turvaurakoitsija - Turvallisuusalan elinkeinolupa … Suomen Vahvimmat AA",
+     "url": "https://avstek.fi/kauppa/content/4-yritysesittely",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "GSD-908HP 商品页",
+     "quote": "PLANET GSD-908HP on metallikoteloitu High PoE-kytkin kahdeksalla 10/10/1000Base-T PoE-porttilla (8x PoE / 4x PoE+) sekä yhdellä 10/100/1000Base-T uplink-portilla. Kytkimen PoE-virransyöttökapasiteetti on 120W.",
+     "url": "https://avstek.fi/kauppa/poe-kytkimet/232-planet-gsd-908hp-kytkin-8-x-poe.html",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "PLANET AP 在售",
+     "quote": "WBS-202N 2.4GHz 300M WLAN tukiasema sisä- ja ulko … PLANET WBS-202N",
+     "url": "https://avstek.fi/kauppa/wifi-laite-antenni/339-wbs-202n-24ghz-300m-wlan-tukiasema-sisae-ja-ulko.html",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Avstek Oy（2015 年成立；Business ID 待补证）",
+    "地址": "芬兰（官网未列街道地址；联系表单 + myynti@）→ 待补证",
+    "体量": "小型（承包 + 网店；「useita tuhansia tuotteita」供货目录）",
+    "渠道身份": "安防 / 电气安装承包商 + 电商；PoE 交换机 100% PLANET"
+   },
+   "who": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库",
+   "hook": "Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself.",
+   "first_question": "For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?",
+   "subject": "Second source for 8-port Gigabit PoE+ switches (GSD-908HP class), EXW, neutral packing",
+   "biggest_unknown": "所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）",
+   "alts": [
+    {
+     "model": "STC-424DGGPM-280W",
+     "scene": "24×GE PoE+ + 4×SFP 管理 280 W（对位 GSW-2620HP）",
+     "reason": "第二封，24 口位"
+    },
+    {
+     "model": "STI-054GP",
+     "scene": "工业 4×GE PoE + 1×GE 非管理",
+     "reason": "户外 / 弱电箱小节点"
+    }
+   ],
+   "qual": "技术上合格 / 商业上可行但体量小（MOQ / 运费需先说清）",
+   "boundary": "不进入其报警 / 消防（palovaroitin）/ 门禁主业；消防报警相关 → 守界；无 UL（芬兰要 CE）",
+   "mikrotik_ref": "—（Mikrotik 仓无此户；本仓 grep 0）",
+   "notes": "芬兰第 3 户（此前 PB-025 Microdata、PB-090 KLINGER）。Elsa 账号 2025-02-17（To info@megamobile.be）与 2025-03-08 → 2026-08-13（To dipol@skuatechnology.com 系列 + iotkomponenty.sk，BCC）共 13 封群发含 myynti@avstek.fi，0 回复；data/gmail_已触达清单.csv 未收录（BCC 漏采）。首触改用网店联系表单（Otsikko=Myynti）+ 一封主题全新的短信件；城市 / 法人待补证。",
+   "gmail_check": "2026-10-20 Gmail \"avstek.fi\" → 13 条（complete:true）：全部为 Elsa 账号 BCC 群发（To info@megamobile.be 2025-02-17；To dipol@skuatechnology.com 2025-03-08 → 2026-04-08 共 11 封；To info@iotkomponenty.sk 2026-08-13）；0 封来自 avstek.fi；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STC-28DGGPM",
+     "angle": "同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+     "question": "For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?",
+     "action": "网店联系表单（Myynti）+ myynti@ 各一封，主题全新；14 天无回应 → 第二封换 STC-424DGGPM-280W"
+    },
+    {
+     "title": "样机",
+     "push": "STC-28DGGPM",
+     "angle": "1 台到 芬兰（地址待补） 并行比对（PoE 预算 / 管理功能 / 温度范围）",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期；不催"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 60 天后换型号再发一封；再无回应标 PASS，不删档"
+    }
+   ],
+   "swot": {
+    "S": "PoE 类目 100% PLANET 且全部在库；小公司决策快；安装 + 网店双出口",
+    "W": "体量小、年量低；无具名 KP；地址 / 法人未公开；通用通道被群发 13 封打疲劳",
+    "O": "芬兰小型安防安装商替换 PLANET 商用 PoE 的样板户；可带出同类小户",
+    "T": "EXW 小批量运费敏感；Dahua / Ajax 生态自带 PoE 交换机；PLANET 北欧渠道现货"
+   }
+  },
+  {
+   "_code": "PB-095",
+   "name": "Netram Memory GmbH",
+   "short_name": "NETRAM",
+   "country": "德国",
+   "city": "Wuppertal（Dohlenweg 6, 42115 Wuppertal, NRW）",
+   "website": "netram.de",
+   "type": "IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）",
+   "signal": "netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知",
+   "own_brand": "否（NETRAM 为自编货号 / 兼容光模块品牌）",
+   "angle": "光模块分销商的有源类目把 PLANET 作为交换机补充线（24 口 PoE / 48 口 10G 上行 / 工业 16 口 PoE）→ Saga STC / STI 同口型、Marvell 方案、中性包装 EXW，可与其兼容光模块捆绑成「交换机 + 光模块」套包；B ★ 因无价无库存、交换机非主业",
+   "p1": "STC-424DGGPM-280W",
+   "p1_reason": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位",
+   "pitch": "We supply Marvell-based 24-port Gigabit PoE+ managed switches (24×GE PoE+ + 4×SFP, 280 W, L2+, ERPS ring) in neutral packaging at EXW prices — the same slot as the SGSW-24040P4 / GS-4210-24P2S you list next to your transceivers. The unit I would start with is {p1} at {price_str}.",
+   "tier": 0.2,
+   "tier_reason": "分销商（走量）→ 20%",
+   "priority": "★",
+   "rating": "B",
+   "rating_basis": "需求：6 款 PLANET 交换机商品页 + 自编货号（NRM10918 / NRM10831）→ 在售但无价无库存、交换机为主业之外的补充线；触达：info@netram.de + 0202 / 75805-0 公开（Impressum），总经理 Jürgen Hübner 具名但无公开邮箱；体量：Wuppertal 业主经营分销（1997 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封至 info@netram.de，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★（无价无库存 + 非主业 + 疲劳）",
+   "source": "W21 矿脉 ⑤：Elsa 账号 2026-08-31 群发（To office@all4fiber.com）BCC 头 40 域逐域 site: 探针 → netram.de PLANET 商品页命中 → fetch /Impressum（/Company 404）",
+   "planet_models": [
+    "SGSW-24040P4",
+    "SGSW-24040HP",
+    "GS-4210-24P2S",
+    "IGS-20160HPT",
+    "GS-2240-48T4X",
+    "IGS-6330-24T4S",
+    "WGSW-28040"
+   ],
+   "model_map": {
+    "SGSW-24040P4": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4×SFP 管理 → Saga 同口型 $134.5 USD EXW"
+    },
+    "SGSW-24040HP": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 4 Combo 管理 → 同上"
+    },
+    "GS-4210-24P2S": {
+     "saga": "STC-424DGGPM-280W",
+     "note": "24×GE PoE+ + 2×SFP L2+ → 同上"
+    },
+    "IGS-20160HPT": {
+     "saga": "STI-2160XGGM",
+     "note": "工业 16×GE PoE+ + 2×GE + 2×SFP 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（非 PoE，PoE 款另报）"
+    },
+    "GS-2240-48T4X": {
+     "saga": "STC-448DGGM",
+     "note": "48×GE + 4×10G SFP+ 管理 → Saga 48×GE + 4×SFP 管理 $236.8 USD EXW（上行 1G vs 10G，需说明）"
+    },
+    "IGS-6330-24T4S": {
+     "saga": "—",
+     "note": "工业 L3 24×GE + 4×SFP：Saga 工业线无 L3 28 口款"
+    },
+    "WGSW-28040": {
+     "saga": "STC-424DGGM",
+     "note": "24×GE + 4×SFP L2+ 管理 → Saga 同口型 $82.5 USD EXW"
+    }
+   },
+   "contacts": [
+    {
+     "name": "—（Info）",
+     "role": "总机 / 销售团队（Vertriebsteam）",
+     "email": "info@netram.de",
+     "phone": "+49 202 75805-0",
+     "status": "公开（Impressum / 404 页「Bitte wenden Sie sich an unser Vertriebsteam … 0202/75805-0」）；Elsa 账号已 BCC 群发 9 封无回复 → 通道疲劳，首触先电话要具名人",
+     "source": "https://www.netram.de/Impressum"
+    },
+    {
+     "name": "Jürgen Hübner",
+     "role": "Geschäftsführer",
+     "email": "",
+     "phone": "+49 202 75805-0",
+     "status": "Impressum 具名；无公开个人邮箱 → 不写",
+     "source": "https://www.netram.de/Impressum"
+    }
+   ],
+   "mx": "未查",
+   "evidence": [
+    {
+     "level": "官网",
+     "claim": "法律实体 / 地址 / 总经理 / 公开邮箱",
+     "quote": "Netram Memory GmbH Dohlenweg 6 42115 Wuppertal Deutschland Telefon: 0202758050 E-Mail: info@netram.de Geschäftsführer: Jürgen Hübner Handelsregister: Wuppertal, HRB 19078",
+     "url": "https://www.netram.de/Impressum",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网",
+     "claim": "主营类目结构（光纤 / 光模块主业，有源组件为子类目）",
+     "quote": "Alle Kategorien … Glasfaserprodukte … Transceiver … DAC & AOC Kabel … LWL Patchkabel … CWDM Multiplexer … APL FTTH Boxen … Aktive Komponenten … Speicherlösungen … Bitte wenden Sie sich an unser Vertriebsteam … Die Rufnummer lautet Tel.: 0202/75805-0",
+     "url": "https://www.netram.de/404",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "PLANET SGSW-24040P4 / SGSW-24040HP 商品页",
+     "quote": "SGSW-24040P4 … NETRAM ｜ SGSW-24040HP … NETRAM（PLANET 24-Port PoE 管理型；页面未显示价格 → 价格 / 库存待补证）",
+     "url": "https://www.netram.de/sgsw-24040p4-EN",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "PLANET IGS-20160HPT / GS-2240-48T4X 商品页（自编货号）",
+     "quote": "IGS-20160HPT … SKU NRM10918 ｜ GS-2240-48T4X … NRM10831",
+     "url": "https://www.netram.de/igs-20160hpt-EN",
+     "date": "2026-10-20"
+    },
+    {
+     "level": "官网（搜索快照）",
+     "claim": "关联 PLANET 型号",
+     "quote": "gs724t-400eus … 关联列出 IGS-6330-24T4S、WGSW-28040、GS-4210-24P2S（PLANET）",
+     "url": "https://www.netram.de/gs724t-400eus-EN",
+     "date": "2026-10-20"
+    }
+   ],
+   "facts": {
+    "法律实体": "Netram Memory GmbH（Wuppertal，HRB 19078；Geschäftsführer Jürgen Hübner；USt-IdNr. DE 814344228）",
+    "地址": "Dohlenweg 6, 42115 Wuppertal, Germany",
+    "体量": "业主经营分销（1997 年起；人数未公开）；Twoosk（PT）等渠道转售其光模块",
+    "渠道身份": "光模块 / 光纤 / 内存分销商；PLANET 交换机为「Aktive Komponenten」补充线"
+   },
+   "who": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）",
+   "hook": "Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle.",
+   "first_question": "When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?",
+   "subject": "Second source for 24-port PoE+ managed switches (SGSW-24040P4 class) to pair with your SFPs, EXW",
+   "biggest_unknown": "PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存",
+   "alts": [
+    {
+     "model": "STI-2160XGGM",
+     "scene": "工业 16×GE + 2×10G 管理（对位 IGS-20160HPT 位）",
+     "reason": "第二封，工业位"
+    },
+    {
+     "model": "STC-448DGGM",
+     "scene": "48×GE + 4×SFP 管理（对位 GS-2240-48T4X 位）",
+     "reason": "48 口位（上行口型需说明）"
+    },
+    {
+     "model": "STC-424DGGM",
+     "scene": "24×GE + 4×SFP L2+（对位 WGSW-28040）",
+     "reason": "非 PoE 位"
+    }
+   ],
+   "qual": "技术上合格 / 商业上待验证（交换机线是否活跃）",
+   "boundary": "不进入其光模块 / 内存主业；无 UL（德国要 CE）",
+   "mikrotik_ref": "—（Mikrotik 仓无此户；本仓 grep 0）",
+   "notes": "德国第 8 户。Elsa 账号 2025-03-28 → 2026-08-31（To office@all4fiber.com 系列，BCC 40 地址）共 9 封群发含 info@netram.de，0 回复；data/gmail_已触达清单.csv 未收录（BCC 漏采）。/Company 页 404（英文公司页已下线），身份以 /Impressum 为准。首触前先电话 +49 202 75805-0 确认 PLANET 交换机仍出货并要具名人；B ★ 原因：无价无库存 + 非主业 + 群发疲劳。",
+   "gmail_check": "2026-10-20 Gmail \"netram.de\" → 9 条（complete:true）：全部为 Elsa 账号 BCC 群发（To office@all4fiber.com：2025-03-28 / 04-25 / 05-27 / 06-27 / 07-27 / 08-27 / 10-08 / 11-10、2026-08-31）；0 封来自 netram.de；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触",
+   "steps": [
+    {
+     "title": "首触",
+     "push": "STC-424DGGPM-280W",
+     "angle": "同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+     "question": "When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?",
+     "action": "先电话 +49 202 75805-0 问 Vertrieb 具名人并确认 PLANET 线活跃，再发具名信（info@ 已疲劳）；14 天无回应 → 第二封换 STI-2160XGGM"
+    },
+    {
+     "title": "样机",
+     "push": "STC-424DGGPM-280W",
+     "angle": "1 台到 Wuppertal 并行比对（PoE 预算 / 管理功能 / 温度范围）",
+     "question": "—",
+     "action": "对方回复后 7 天内报样机价与交期；不催"
+    },
+    {
+     "title": "收尾",
+     "push": "—",
+     "angle": "—",
+     "question": "—",
+     "action": "两封无回应 → 60 天后换型号再发一封；再无回应标 PASS，不删档"
+    }
+   ],
+   "swot": {
+    "S": "PLANET 商用 + 工业交换机已在目录并自编货号；光模块主业天然适合「交换机 + SFP」捆绑；Impressum 具名总经理",
+    "W": "无价无库存（活跃度存疑）；交换机非主业；无具名邮箱；info@ 被群发 9 封打疲劳",
+    "O": "兼容光模块客户群（ISP / 集成商）需要配套交换机；Saga 可配其 SFP 做兼容性背书",
+    "T": "PLANET 德国总代价格；FS.com 等光模块 + 交换机一体化竞争；小分销不愿进新品牌库存"
+   }
+  }
+ ],
+ "merged": [],
+ "pending_next_wave": [
+  "矿脉 ⑤ 续：本轮 158 新域已探 56，剩余约 100 域未探（PL：multiproject.com.pl / obserwuj.pl / proexe.pl / noning.pl / poltel.com.pl / promitel.pl / kabeltechnika.pl / cellco.com.pl / csb.net.pl / guru.com.pl / ted.net.pl / dersen.com.pl / pluscom.pl / arpeo.pl / rbline.pl / bcscctv.pl / axuse.com / fotosmedia.pl / service.pila.pl / energus.eu；CZ：gelis.cz / losan.cz / alienscience.com / htv-hodina.cz / yatun.cz；US-CA：questtel.com / sescom.com / filocleantech.com / crystaloneit.com / 7techusa.com / 3deye.me / towerpower.com / alphanetcom.com / dlvweb.com / accuratetechnologies.com / sfpex.com / fibersystem.com / airway.com / montavue.com / thinklynn.com / rakersautomation.com；DE：piospartslap.de / easywind.org / rtsb.de / motionfiber.de / vuetec.de / lichtleiterkabel.com / pimfg.com / aplusnet.de / gvs-deutschland.de / digits-gmbh.de / fionex.de / amc-systeme.de；IT：enube.it / adj.it / agmultivision.it / gvinformatica.it / alphaelettronica.com / sielcosistemi.com / spesaelettrica.it / grinsrl.it / domoteck.it / hardwaresolutions.it / 3medialab.com / dolando.it / webbo.zone；其他：avstek 同批 itplus.co.nz / notjustcables.co.nz（区外）、tehnoelectric.ro / icpdas.ro / raytron.eu / ipacct.com（RO/BG 小国不主动）、xpert.mt / irix.ae / mustafasultan.com（区外）、morez.sk / bausch.be / cubitech.com / tsiakkis.com / multi-technology.com）",
+  "矿脉 ⑤ 续：未读 Bcc 的 Elsa 系列 — multitradepac 1a07f2e0ee8e17c2 / schrack 1a028b2c713733ac / icecom 1a023557cf116242（idelectro.ru 系列为 RU，不读）",
+  "取证：Avstek Oy 城市 / Business ID（官网未列）；Netram PLANET 页价格 / 库存（需登录或询价）；LAN Kft. jhegedus@ / wbea@ 角色（电话核实后再决定是否写入入口）；U.T.E. 销售负责人 4 名邮箱（wlw 仅姓名，不猜）",
+  "net-s.pl（PL）：PLANET 专属类目含 IGS-624HPT 2 127,89 zł / IGS-10020PT 3 586,89 zł / GSW-2620HP 1 093,58 zł / IGS-501T / IGS-801T 等 + Bcc 具名 lidia@ / maciej@，但站点为全品类目录型电商（汽车 / 宠物 / 母婴 …）→ 本轮按「目录型 e-tailer 不建档」处理；若后续放宽规则可回查",
+  "矿脉 ③ 冷门型号（WGS-818HP / IGS-624HPT / TSN-5225-4T2S / GS-4210-8P2T2S / IGS-5225-4UP1T2S / IGS-4215-16P2T2S / IGS-5225-8T2S2X / ISW-1600T）与矿脉 ②（geizhals / idealo）、④ 仍未试",
+  "Gmail 触达清单 BCC 重建（Q-21 延伸）：本轮再证实 BCC 漏采 — 6 户合计 63 封群发均未入 data/gmail_已触达清单.csv"
+ ],
+ "skipped": [
+  {
+   "name": "NET-S.pl（PL，net-s.pl）",
+   "reason": "矿脉 ⑤ BCC 域（lidia@ / info@ / maciej@net-s.pl）。PLANET 专属类目带 PLN 价（IGS-624HPT 2 127,89 zł、IGS-10020PT 3 586,89 zł、GSW-2620HP 1 093,58 zł、IGS-501T 374,37 zł、IGS-801T 575,72 zł、GSD-503 140,63 zł、IGS-4215-4P4T2S、WGS-4215-8T2S、SGS-6341-24P4X、GS-6320-46S2C4XR 4 124,99 zł），但站点为全品类目录型电商（类目含汽车配件 / 宠物 / 母婴 / 家居，19 段类目树）→ 按「≥ 大目录型 e-tailer 不建档」处理，列 pending 可回查（https://www.net-s.pl/kategoria-lista/komputery-sieci-switche-757/planet-128）"
+  },
+  {
+   "name": "Cablematic（ES，cablematic.com）",
+   "reason": "矿脉 ⑤ BCC 域（info@cablematic.com）。自有品牌 Bematik / Lanberg 目录型电商；PLANET 仅 1 款 TR069「Planet 10\" web Gigabit switch 8xUTP + 2xSFP」PVP 210,43 € / PVD 180,14 € 且「Out of stock」+ 机架配件 → 单 SKU 尾货非在售线，不建档"
+  },
+  {
+   "name": "Volta / ivolta.pl（PL）",
+   "reason": "矿脉 ⑤ BCC 域。波兰大型安防分销商（巨头口径），producenci 页仅「PLANET (3)」3 款 → 弱信号 + 巨头，不建档"
+  },
+  {
+   "name": "KD Electronics（IE，kdelectronics.ie）",
+   "reason": "矿脉 ⑤ BCC 域。分类筛选仅 Planet GBIC SFP MGB-TSX2 1 款 → 仅 SFP，不建档"
+  },
+  {
+   "name": "Compufox（US，compufox.com）",
+   "reason": "矿脉 ⑤ BCC 域。「Planet compatible」SFP 类目 + 托管 PLANET WGSW-24040 规格书 PDF → 兼容光模块卖家，非交换机渠道，不建档"
+  },
+  {
+   "name": "DIPOL Portugal（PT，dipol.pt）",
+   "reason": "矿脉 ⑤ BCC 域。DIPOL（PL）葡萄牙分站，交换机为自有牌 ULTIPOWER；PLANET 仅见 2011 年通讯提及 → 不建档（母公司 dipol.com.pl 同样阴性）"
+  },
+  {
+   "name": "PL 批阴性 ×9：delta.poznan.pl / montersi.pl / napad.pl / tayama.pl / dipol.com.pl / elmark.com.pl（Moxa / Advantech）/ kamsys.pl / ivel.pl（BCS / Hikvision）/ dmtrade.pl（Spacetronik 自有牌）",
+   "reason": "site: 探针 0 条 PLANET 交换机页 → 不建档，入死路备案 W21"
+  },
+  {
+   "name": "CZ 批阴性 ×7：intelek.cz（Tenda / Maipu）/ foxon.cz（Kyland）/ bluecom.cz（Advantech）/ viakom.cz / expressalarm.cz（Wi-Tek / Hikvision）/ qqit.cz（仅 SFP 兼容）/ autocont-ipc.cz（Advantech）",
+   "reason": "site: 探针 0 条 PLANET 交换机页 → 不建档，入死路备案 W21"
+  },
+  {
+   "name": "DE 批阴性 ×9：bressner.de（Antaira 式 LMX）/ sphinxcomputer.de（Perle / Moxa）/ systerra.de（品牌列表提及无页面）/ ico.de（自编码 NAGS，「Enabling an Intelligent Planet」为 Advantech 口号）/ tekmodul.de（Atop）/ gt-netstore.de（自有 IES 牌）/ trius-vertrieb.de（Pro-AV）/ vtis.de（Netgear / eneo / ComNet / AXIS）/ br-network.de（0 结果）",
+   "reason": "site: 探针 0 条 PLANET 交换机页 → 不建档，入死路备案 W21"
+  },
+  {
+   "name": "IT 批阴性 ×4：setik.biz（Dahua / Hik）/ reweb.it（Perle）/ comtelitalia.it（SI 110 人，巨头 / 集成商口径）/ protekna.it（0 结果）",
+   "reason": "site: 探针 0 条 PLANET 交换机页 → 不建档，入死路备案 W21"
+  },
+  {
+   "name": "US 批阴性 ×7：silmarelectronics.com（Intellinet / Hik）/ fiberinstrumentsales.com / silarius.com（自有牌 / Netgear）/ snwtech.com（站点未索引）/ fibersavvy.com（TP-Link）/ fiberopticsupply.com / hardboxusa.com（Antaira）",
+   "reason": "site: 探针 0 条 PLANET 交换机页 → 不建档，入死路备案 W21"
+  },
+  {
+   "name": "ES / BE / NO 批阴性 ×6：securame.com（Safire / Reyee / X-Security）/ kodicam.net（Mikrotik / Ubiquiti / Tenda / Dahua）/ thelastmile.be（Ubiquiti / Mikrotik，vzw 公益光纤）/ smarttelecom.be（0）/ perceval.be（0）/ dvr.no（0）",
+   "reason": "site: 探针 0 条 PLANET 交换机页 → 不建档，入死路备案 W21"
+  },
+  {
+   "name": "制造商 / 平台 / 巨头 / 区外（Bcc 域，未探即剔）",
+   "reason": "制造商：vidos.pl / genway.pl / sealevel.com / amphenol-aao.com / ekf.de / sommercable.com / piezojena.com / r-stahl.com / linksys.com / serialcomm.com / luminex.be；平台 / 巨头：heureka.cz / distrelec.com / x-kom.pl / provantage.com / markertek.com / elfa.se / wasko.pl / aat.pl / pke.at；区外：fibersolutions.com.pe / mustafasultan.com / irix.ae / itplus.co.nz / notjustcables.co.nz / xpert.mt / lan.hu 除外；小国不主动：pramoninisrysys.lt / icpdas.ro / tehnoelectric.ro / raytron.eu / ipacct.com / cubitech.com / tsiakkis.com → 均不建档"
+  }
+ ]
+}

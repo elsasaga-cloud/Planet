@@ -307,6 +307,10 @@ def render_one(row, by_saga, by_sb):
         _mref_s = (mref or "").strip()
         if _mref_s and not (_mref_s.startswith(("—", "无")) or "无此户" in _mref_s):
             L.append(f"> ⚠ Mikrotik 同户 **{_mref_s}**：首触只发一次。发出前先核对 Mikrotik 仓库该行状态（已触达/退信/回复），避免两仓各发一封。\n")
+        # W21 修复：gmail_check 已判定「非首触」（该域被 Elsa 账号 BCC 群发打过）时，原横幅仍写「首触由本仓发出、只发一次」，
+        # 与下一行「→ 非首触」自相矛盾；现分流为「第一封具名信（非首触）」口径，并给出收件人 / 主题的避让要求。
+        elif "非首触" in (c.get("gmail_check") or ""):
+            L.append("> ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。\n")
         else:
             L.append("> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。\n")
         # W19 修复：批次 JSON 的 gmail_check（逐域 Gmail 查重结论，含 Elsa 账号 BCC 群发记录）此前只留在 JSON 里，档案看不到 → 渲染进首触邮件段

@@ -157,7 +157,7 @@ updated: 2026-10-20
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-> ℹ️ Mikrotik 仓库无同户：首触由本仓发出、只发一次。发出前核对下行 Gmail 查重结果与 `data/gmail_已触达清单.csv`（清单不含 BCC 群发收件人，须以 Gmail `to:<域名>` 复核）。
+> ℹ️ Mikrotik 仓库无同户，但 Gmail 查重判定 **非首触**（该域已被 Elsa 账号群发触达，见下行）：本封是本仓第一封 **具名信**，不是首触 —— 收件人改用具名人或未被群发打过的地址，主题避开群发系列字样（「24 Port PoE Managed Switch」「Industrial PoE Switch」等），正文不自称 first contact。
 
 > 📬 Gmail 查重：2026-10-20 Gmail "klinger.fi" → 10 条（complete:true）：全部为 Elsa 账号 BCC 群发（To info@alphatelecom.cc 2025-02-16；To info@dasys.fi 2025-03-07 / 04-18 / 05-15 / 06-18 / 07-18 / 08-18 / 10-01 / 11-04、2026-08-13）；0 封来自 klinger.fi；data/gmail_已触达清单.csv 0 行（BCC 漏采）→ 非首触
 
