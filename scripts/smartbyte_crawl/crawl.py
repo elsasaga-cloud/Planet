@@ -25,6 +25,15 @@ v2.1（2026-10-20，运行 #2 59 秒即"完成"但首页 / sitemap 均 HTTP 403 
   ③ 抓取中途连续 12 次 403/429/网络错误 → 判定被封，当前阶段立即优雅收尾（状态照存，下轮续抓），不再把预算烧在重试上。
   ④ 0 页成功时 complete 永远为 false（运行 #2 的假 complete 不再出现）；主流程异常也落盘日志 + summary 后以 0 退出，
      保证工作流后续提交步骤执行。默认 DELAY 0.8 → 1.2 秒、图片间隔 0.3 → 0.5 秒（运行 #1 疑似触发限速）。
+v2.2（2026-10-21，运行 #3 页面 350/350 抓齐、但 245 份规格书经 index.php?c=Front/DownDetail&a=downloadFujian 全部 HTTP 403、
+     图片 0 张之后）：
+  ① 附件：downloadFujian 的 path= 是 base64 的站内静态路径（/comdata/<租户>/productfujian/xxx.pdf）。下载改为候选链：
+     站内直链 → CDN 直链（gcdn.meidianbang.cn / *.wds168.cn，站点图片正是从这些 CDN 出的）→ 原 PHP 下载口，
+     一律带浏览器 UA + Referer（来源产品页）；以正文 %PDF / content-type 判定成功，HTML 小响应不算成功
+     （运行 #3 两条 45 字节 text/html 的「成功」记录在续抓时作废重下）。只有候选全败才计入连续失败。
+     文件名改用 name= 参数（规格书标题）+ .pdf，同名不同内容加 sha 前 8 位。PDF_COMMIT_MB 默认 60 → 120。
+  ② 图片：站点自有图片全在 CDN（/comdata/<租户>/…），原先按「外站」跳过 → 现从已归档 HTML 里直接收集（不重抓页面），
+     带 Referer 下载进二进制目录（随 Release 附件保存），主题/皮肤素材（/images/、/skinp/、/share/）仍不收。
 """
 import hashlib
 import json
@@ -49,7 +58,7 @@ BIN = sys.argv[2] if len(sys.argv) > 2 else "crawl_bin"
 MAX_PAGES = int(os.environ.get("MAX_PAGES", "1500"))
 DELAY = float(os.environ.get("DELAY", "1.2"))
 MAX_IMAGE_MB = float(os.environ.get("MAX_IMAGE_MB", "600"))
-PDF_COMMIT_MB = float(os.environ.get("PDF_COMMIT_MB", "60"))
+PDF_COMMIT_MB = float(os.environ.get("PDF_COMMIT_MB", "120"))
 TIME_BUDGET_MIN = float(os.environ.get("TIME_BUDGET_MIN", "140"))
 UA = "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)"
 
@@ -57,6 +66,9 @@ ASSET_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".ico", ".bmp", "
              ".ttf", ".eot", ".otf", ".mp4", ".webm", ".mp3", ".map", ".json")
 FILE_EXT = (".pdf", ".zip", ".rar", ".7z", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".csv", ".bin", ".img", ".exe")
 IMG_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".bmp", ".ico")
+# 站点自有内容所在 CDN（建站 SaaS 的对象存储）；只收 /comdata/<租户号>/ 下的东西，不收主题素材
+CDN_HOSTS = ("gcdn.meidianbang.cn", "cdn-hk.wds168.cn", "img-for-hk.wds168.cn")
+CDN_CONTENT_RE = re.compile(r"^https?://(?:gcdn\.meidianbang\.cn|[a-z0-9.-]*\.wds168\.cn)/comdata/\d+/", re.I)
 
 S = requests.Session()
 S.headers.update({"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.5"})
@@ -292,13 +304,13 @@ def pw_get(u, timeout=45):
     return None, last
 
 
-def get(u, stream=False, timeout=45):
+def get(u, stream=False, timeout=45, headers=None):
     if ACCESS["mode"] == "playwright":
         return pw_get(u, timeout)
     last = None
     for i in range(3):
         try:
-            r = S.get(u, timeout=timeout, stream=stream, allow_redirects=True)
+            r = S.get(u, timeout=timeout, stream=stream, allow_redirects=True, headers=headers)
             if r.status_code in (403, 429, 500, 502, 503, 504):
                 last = f"HTTP {r.status_code}"
                 time.sleep(5 * (i + 1))
@@ -310,6 +322,107 @@ def get(u, stream=False, timeout=45):
             time.sleep(3 * (i + 1))
     _note(False)
     return None, last
+
+
+def fujian_path(u):
+    """downloadFujian&path=<base64> → 解码出的站内静态路径（/comdata/<租户>/productfujian/xxx.pdf）；解不出返回 None。"""
+    try:
+        q = dict(parse_qsl(urlparse(u).query, keep_blank_values=True))
+        raw = (q.get("path") or "").strip()
+        if not raw:
+            return None
+        import base64
+        pth = base64.b64decode(raw + "=" * (-len(raw) % 4)).decode("utf-8", "ignore").strip()
+        return pth if pth.startswith("/") and ".." not in pth and len(pth) < 300 else None
+    except Exception:
+        return None
+
+
+def fujian_name(u):
+    try:
+        q = dict(parse_qsl(urlparse(u).query, keep_blank_values=True))
+        return (q.get("name") or "").strip() or None
+    except Exception:
+        return None
+
+
+def download_candidates(u):
+    pth = fujian_path(u)
+    if not pth:
+        return [u]
+    return [f"{SCHEME}://{HOST}{pth}"] + [f"https://{h}{pth}" for h in CDN_HOSTS] + [u]
+
+
+def looks_file(r):
+    """真文件（PDF 等）而不是被拒 / 登录页之类的 HTML 小响应。"""
+    ct = (r.headers.get("content-type") or "").lower()
+    body = r.content
+    if body[:5] == b"%PDF-" or body[:2] == b"PK" or body[:4] == b"Rar!":
+        return True
+    if "pdf" in ct or "octet-stream" in ct or "zip" in ct or "msword" in ct or "officedocument" in ct:
+        return len(body) > 200
+    return ("html" not in ct and "text/" not in ct and "json" not in ct) and len(body) > 2000
+
+
+def get_download(u, referer=None):
+    """附件下载：候选链 站内直链 → CDN 直链 → 原 PHP 口；每个候选最多 2 次；成功返回 (resp, None, 实际 URL)。
+    全部失败返回 (None, 诊断串, None)。只有全部失败才计入连续失败（否则 PHP 口的 403 会误触发「被封」判定）。"""
+    hdr = {"User-Agent": CHROME_UA, "Accept": "*/*", "Referer": referer or BASE,
+           "Sec-Fetch-Dest": "empty", "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin"}
+    tried = []
+    for c in download_candidates(u):
+        if ACCESS["mode"] == "playwright" and c == u:
+            r, err = pw_get(c, 120)
+            if r is not None and r.status_code == 200 and looks_file(r):
+                _note(True)
+                return r, None, c
+            tried.append(f"pw {c[:70]}: {err or 'HTTP ' + str(r.status_code)}")
+            continue
+        for i in range(2):
+            try:
+                r = S.get(c, timeout=120, allow_redirects=True, headers=hdr)
+            except requests.RequestException as e:
+                tried.append(f"{c.split('?')[0][-70:]}: {e.__class__.__name__}")
+                time.sleep(2 * (i + 1))
+                continue
+            if r.status_code == 200 and looks_file(r):
+                _note(True)
+                return r, None, c
+            tried.append(f"{c.split('?')[0][-70:]}: HTTP {r.status_code} {(r.headers.get('content-type') or '')[:28]} {len(r.content)}B")
+            if r.status_code in (429, 500, 502, 503, 504):
+                time.sleep(4 * (i + 1))
+                continue
+            break
+    _note(False)
+    return None, " | ".join(tried), None
+
+
+def bogus_download(d):
+    """上一轮记成「成功」但其实是 HTML 小响应（运行 #3：45 字节 text/html 的 index.php）。"""
+    return (d.get("bytes") or 0) < 2000 and "html" in (d.get("content_type") or "").lower()
+
+
+def harvest_cdn_images(images, pages):
+    """从已归档的 HTML 里收集 CDN 上的站点自有图片（/comdata/<租户>/…），不重抓页面。返回新增条数。"""
+    url_of = {p["file"]: p["url"] for p in pages if p.get("file")}
+    added = 0
+    hdir = os.path.join(OUT, "html")
+    rx = re.compile(r"""(?:src|data-src|data-original|href)\s*=\s*["']([^"']+)["']""", re.I)
+    for fn in sorted(os.listdir(hdir)) if os.path.isdir(hdir) else []:
+        try:
+            with open(os.path.join(hdir, fn), encoding="utf-8", errors="ignore") as f:
+                html = f.read()
+        except OSError:
+            continue
+        page_url = url_of.get(f"html/{fn}", BASE)
+        for m in rx.finditer(html):
+            u = m.group(1).strip()
+            if not CDN_CONTENT_RE.match(u) or not urlparse(u).path.lower().endswith(IMG_EXT):
+                continue
+            if u not in images:
+                added += 1
+            found(images.setdefault(u, {"found_on": [], "alt": ""}), page_url)
+    return added
 
 
 def probe_access():
@@ -596,10 +709,13 @@ def main():
     if pages_stop is None:
         pages_stop = "blocked (seed refused under every profile; see access_diag.json)" if blocked else "complete (queue empty)"
     log(f"BFS stop: {pages_stop}; pages={len(pages)} (+{n_new_pages}) downloads={len(downloads)} images={len(images)}")
+    if not blocked:
+        n_cdn = harvest_cdn_images(images, pages)
+        log(f"cdn images harvested from archived html: +{n_cdn} (images total {len(images)})")
     checkpoint("downloads")
 
     # ---------- downloads (datasheets etc.) ----------
-    dl_rows = [d for d in dl_prev if d.get("file")]  # 上一轮已成功的保留（二进制在上一轮的 Release / 产物里；PDF 入库时在 datasheets/）
+    dl_rows = [d for d in dl_prev if d.get("file") and not bogus_download(d)]  # 上一轮已成功的保留（二进制在上一轮的 Release / 产物里；PDF 入库时在 datasheets/）；HTML 小响应的假成功作废重下
     done_dl = {d["url"] for d in dl_rows}
     used = {d["filename"]: d["sha256"] for d in dl_rows if d.get("filename")}
     todo_dl = [(u, meta) for u, meta in sorted(downloads.items()) if u not in done_dl]
@@ -612,9 +728,10 @@ def main():
         if over_budget("downloads"):
             dl_stop = f"time budget ({len(todo_dl) - i} left)"
             break
-        r, err = get(u, stream=True, timeout=120)
+        r, err, used_url = get_download(u, referer=(meta.get("found_on") or [BASE])[0])
         rec = {"url": u, "found_on": sorted(set(meta["found_on"])), "found_on_count": meta.get("n", len(meta["found_on"])),
-               "fetched_at": now(), "run": RUN_ID, "status": None, "content_type": None, "filename": None, "file": None, "bytes": None, "sha256": None, "error": err}
+               "fetched_at": now(), "run": RUN_ID, "status": None, "content_type": None, "filename": None, "file": None, "bytes": None, "sha256": None, "error": err,
+               "fetched_from": used_url, "title": fujian_name(u)}
         n_new_dl += 1
         if r is None:
             dl_rows.append(rec)
@@ -637,6 +754,10 @@ def main():
                     fn = fn.encode("latin-1").decode("utf-8")
                 except Exception:
                     pass
+        title = fujian_name(u)
+        if title:  # 规格书标题做文件名（直链的 basename 是一串哈希，不可读）
+            ext = os.path.splitext(urlparse(used_url or u).path)[1].lower() or (".pdf" if r.content[:5] == b"%PDF-" else ".bin")
+            fn = title + (ext if ext in FILE_EXT else ".pdf")
         if not fn:
             fn = unquote(os.path.basename(urlparse(r.url).path)) or "download"
             if "." not in fn:
@@ -724,7 +845,8 @@ def main():
         if over_budget("images"):
             img_stop = f"time budget ({len(todo_img) - i} left)"
             break
-        r, err = get(u, stream=True, timeout=120)
+        r, err = get(u, stream=True, timeout=120,
+                     headers={"User-Agent": CHROME_UA, "Accept": "image/avif,image/webp,image/*,*/*;q=0.8", "Referer": BASE})
         n_new_img += 1
         if r is None:
             rec["error"] = err
