@@ -1,4 +1,5 @@
 # getfort.com
+**官方名称（调研核实）**：Eltrox (eltrox.pl)
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2286`　|　优先级 —　|　状态：用户判定不行
 >
@@ -8,6 +9,8 @@
 code: SC-2286
 rating: C
 rating_auto: C
+rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-051 评 B 仅作参考
+name_official: "Eltrox (eltrox.pl)"
 score: -23
 country: 波兰
 region: 欧洲
@@ -20,8 +23,8 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-28DGGPM
-price_tier: 30%
-research: pending
+price_tier: 20%
+research: done
 site_snapshot: none
 sources: 2
 updated: 2026-10-21
@@ -29,11 +32,11 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：商业PoE 工业FS 自己的logo 有人在卖他们的；商业POE 工业FS 自己的logo 有人在卖他们的；提到的品牌：FS
-- **为什么是 C 级**：-6 群发批次名单；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；C 级细分：用户判定不行/不相关
+- **是谁**：波兰全国性安防/监控分销商与连锁门店，PLANET PoE 商品页在列但缺货。类型：安防/监控分销 + 连锁门店与网店（自称「lider systemów zabezpieczeń i monitoringu」；MikroTik Master；Ubiquiti 官方 reseller）。信号：eltrox.pl 商品页：SWITCH PLANET FNSW-1600P POE（819 zł，状态「Niedostępny」）、REPEATER PLANET POE-E304（337 zł）→ PLANET 曾上架/在列，当前页面显示缺货；Mikrotik 仓库 B-274（MikroTik Master）。Planet 渠道档案 PB-051 评级 B（需求：PLANET PoE 交换机/中继器商品页存在（但显示缺货 → 现售状态待补证）+ 监控系统分销主业；触达：sklep@eltrox.pl / +48 34 333 57 04（Mikrotik 仓库 B-274 记录；Ubiquiti 经销商名录同号），无具名；体量：全国连锁安防分销（非巨头）；Mikrotik B-274 同户 → B 并档，首触以 Mikrotik 为准）。并档说明：Saga 表内本条 SC-2286（波兰）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：商业PoE 工业FS 自己的logo 有人在卖他们的；商业POE 工业FS 自己的logo 有人在卖他们的）
+- **为什么是 C 级**：**调研后定级 C**（用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-051 评 B 仅作参考）；自动分级 C：-6 群发批次名单；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；C 级细分：用户判定不行/不相关
 - **历史互动**：名单内·无互动记录
-- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：监控分销商主力场景为 8–16 路摄像头 PoE；FNSW-1600P 为 16 口 FE PoE 非管理（Saga 暂无 16 口商用 PoE/FE PoE，注明），以 8 口千兆 PoE 管理型 STC-28DGGPM 切入；分销商/网店 → 20%（沿用 Planet 档案 PB-051）；需求：）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +56,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2286.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（eltrox.pl；并档 Planet 渠道档案 PB-051）
+- **是谁**：波兰全国性安防/监控分销商与连锁门店，PLANET PoE 商品页在列但缺货。类型：安防/监控分销 + 连锁门店与网店（自称「lider systemów zabezpieczeń i monitoringu」；MikroTik Master；Ubiquiti 官方 reseller）。信号：eltrox.pl 商品页：SWITCH PLANET FNSW-1600P POE（819 zł，状态「Niedostępny」）、REPEATER PLANET POE-E304（337 zł）→ PLANET 曾上架/在列，当前页面显示缺货；Mikrotik 仓库 B-274（MikroTik Master）。Planet 渠道档案 PB-051 评级 B（需求：PLANET PoE 交换机/中继器商品页存在（但显示缺货 → 现售状态待补证）+ 监控系统分销主业；触达：sklep@eltrox.pl / +48 34 333 57 04（Mikrotik 仓库 B-274 记录；Ubiquiti 经销商名录同号），无具名；体量：全国连锁安防分销（非巨头）；Mikrotik B-274 同户 → B 并档，首触以 Mikrotik 为准）。并档说明：Saga 表内本条 SC-2286（波兰）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
+- **在卖/在用品牌**：PLANET, Ubiquiti, MikroTik, ORing
+- **【卖方目录】PLANET PoE 交换机商品页（显示缺货）**
+  > SWITCH PLANET FNSW-1600P POE - Sklep, Opinie, Cena - Eltrox.pl … Kup teraz SWITCH PLANET FNSW-1600P POE za 819,00 zł … Sprawdź cenę i opinię o produkcie w sklepie Eltrox.pl - liderze systemów zabezpieczeń i monitoringu. … Niedostępny … Marka · PLANET · Model · FNSW-1600P
+  > 来源：https://www.eltrox.pl/p/31714-switch-planet-fnsw-1600p-poe（抓取 2026-10-20）
+- **【卖方目录】PLANET PoE 中继器商品页**
+  > REPEATER PLANET POE-E304 1-PORT ULTRA POE+4PORT POE 802.3AF/AT GIGABIT … za 337,00 zł - Strona główna - Akcesoria komputerowe - Urządzenia sieciowe - Zasilanie POE
+  > 来源：https://www.eltrox.pl/p/31657-repeater-planet-poe-e304-1-port-ultra-poe-4port-poe-802-3af-at-gigabit（抓取 2026-10-20）
+- **【第三方名录】地址与电话（Ubiquiti 波兰经销商名录）**
+  > Eltrox.pl ul. Warszawska 74 42-202 Częstochowa Poland +48 34 333 57 04
+  > 来源：https://www.ui.com/distributors/?region=eur&country_state=PL（抓取 2026-10-20）
+- **调研后定级**：C（原自动 C）——用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-051 评 B 仅作参考
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-051，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Eltrox (eltrox.pl) |
+| 总部/地址 | Częstochowa, 波兰 |
+| 其他 | Planet 渠道档案 PB-051（2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json）；自有品牌：否；最大未知：法人全称与注册号；PLANET 是否仍为常备（页面缺货）；具名采购人（sklep@ 为网店邮箱） |
+
+- **业务线**：安防/监控分销 + 连锁门店与网店（自称「lider systemów zabezpieczeń i monitoringu」；MikroTik Master；Ubiquiti 官方 reseller）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | FNSW-1600P | PLANET 为 16 口 10/100 PoE 非管理（125W）；Saga 暂无 16 口商用 PoE / FE PoE，以 8 口千兆 PoE 管理型切入（口数/速率不同，注明） | STC-28DGGPM | https://eltrox.pl（2026-10-19） |
+| PLANET | POE-E304 | PoE 中继器/扩展器，Saga 暂无对应型号（不推） | — | https://eltrox.pl（2026-10-19） |
+
+- **触达通道（公开）**：role: 安防/监控分销 + 连锁门店与网店（自称「lider systemów zabezpieczeń i monitoringu」；MikroTik Master；Ubiquiti 官方 reseller）；region: 波兰
+- **近况信号**：
+  - 监控系统分销商的 PoE 接入层在售但缺货（FNSW-1600P 为 FE PoE）→ Saga 千兆 8/24 口 PoE 管理型补其「监控 PoE 交换机」货架（Saga 标或中性包装）
+- **风险/边界**：法人全称与注册号；PLANET 是否仍为常备（页面缺货）；具名采购人（sklep@ 为网店邮箱）
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——监控分销商主力场景为 8–16 路摄像头 PoE；FNSW-1600P 为 16 口 FE PoE 非管理（Saga 暂无 16 口商用 PoE/FE PoE，注明），以 8 口千兆 PoE 管理型 STC-28DGGPM 切入；分销商/网店 → 20%（沿用 Planet 档案 PB-051）；需求：
+- **邮件切入句（英文）**：（不主动发送：用户判定不行）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,7 +154,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

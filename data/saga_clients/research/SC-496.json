@@ -1,0 +1,119 @@
+{
+ "code": "SC-496",
+ "name_official": "Connectec (Connectec UK)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（connectec.uk；并档 Planet 渠道档案 PB-042）",
+ "summary": "北威尔士 Wrexham 的安防/网络/电气贸易分销商，PLANET 授权分销，给全英安装商供货（贸易账户、批量折扣、次日达、贸易柜台）。类型：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）。信号：官网品牌页自述「As an authorised Planet distributor Connectec stock a wide range of Planet products」；首页「Shop for Planet Business networking and communication products」；在售 IGS-5225-8P4S / IGS-801T / WGS-5225-8UP2SV / GS-4210-8HP2S；Mikrotik 仓库 C-107 标「分销（PLANET 授权）」。Planet 渠道档案 PB-042 评级 B（需求：PLANET 授权分销自述 + 工业/商用 PoE 多款在售 + 安装商渠道；触达：sales@connectec.uk 官网公开（contact / about / trade 多页），无具名；体量中小（Wrexham 单址 + 网店），可赢；区域英国（一线）；Mikrotik C-107 为「B下放·无邮箱」，本仓补到邮箱 → B）。并档说明：Saga 表内本条 SC-496（英国）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "MikroTik",
+  "Hikvision",
+  "Tenda"
+ ],
+ "evidence": [
+  {
+   "kind": "公司自述",
+   "claim": "PLANET 授权分销自述 + 安装商渠道",
+   "quote": "Connectec are distributors of Planet networking switches, fibre optic devices, wireless equipment and IP network devices for home, business and industrial use … As an authorised Planet distributor Connectec stock a wide range of Planet products with many available for free next day delivery. We also offer trade accounts for professional installers with bulk and trade discounts available on many Planet networking products.",
+   "url": "https://connectec.uk/brands/planet",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "联系方式与地址",
+   "quote": "Unit 4 Wrexham Midpoint Dolydd Road Wrexham LL13 7AJ … Sales: sales@connectec.uk Support: support@connectec.uk Accounts: accounts@connectec.uk 01978806111",
+   "url": "https://connectec.uk/contact",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "定位",
+   "quote": "Connectec is a UK-based distributor in North Wales, supplying professional fire, security, networking, and electrical products to the trade nationwide.",
+   "url": "https://connectec.uk/about-connectec",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 工业 PoE 在售",
+   "quote": "The Planet IGS-5225-8P4S Industrial Ethernet Switch with fiber and Gigabit POE is suitable for demanding environments and recommended for security applications (Model: IGS-5225-8P4S) … 8x Gigabit POE+ Ports · 4x Gigabit SFP Ports · 3 year guarantee",
+   "url": "https://connectec.uk/networking/network-devices/network-switches/industrial-switches/planet-igs-5225-8p4s-industrial-ethernet-switch",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "Top Brands 含 Planet",
+   "quote": "Shop for Planet Business networking and communication products … Top Brands — Hikvision · HiLook · Pyronix · Tenda · Planet",
+   "url": "https://connectec.uk/",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "Mikrotik 仓库",
+   "claim": "C-107 同户：分销（PLANET 授权），B下放·无邮箱",
+   "quote": "C-107 Connectec 英国 分销（PLANET 授权）PLANET（台厂工业/商用交换机）官网 Contact 页 … B下放·无邮箱（群发触达不到）… connectec.uk 自述 authorised Planet distributor，备货 Planet 交换机/光纤/Wi-Fi/工业以太网，提供贸易账户与批量折扣",
+   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+   "date": "2026-09-22"
+  }
+ ],
+ "kp": [],
+ "grade_override": "B",
+ "override_reason": "Planet 渠道档案 PB-042 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-042，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Connectec (Connectec UK)",
+  "founded": "",
+  "hq": "Wrexham（北威尔士）, 英国",
+  "size": "",
+  "other": "Planet 渠道档案 PB-042（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）"
+ },
+ "business_lines": [
+  "分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-5225-8P4S",
+   "spec": "工业 8×GE PoE+ + 4 SFP L2+",
+   "saga": "STI-488DGGPM",
+   "url": "https://connectec.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-801T",
+   "spec": "工业 8×GE 非管理（Saga 暂无对应型号，沿用 SmartByte 型号 STI-080GE）",
+   "saga": "STI-080GE",
+   "url": "https://connectec.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-4210-8HP2S",
+   "spec": "PLANET 为 802.3bt；Saga 为 802.3at PoE+（无 bt，注明）",
+   "saga": "STC-28DGGPM",
+   "url": "https://connectec.uk",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）",
+  "region": "英国"
+ },
+ "signals": [
+  "英国安防安装商渠道的 PLANET 授权分销（贸易账户 + 批量折扣 + 次日达 + 展厅）——PLANET 是其唯一网络交换机主品牌（Top Brands 五个里四个是安防/消费品牌），对第二货源无品牌冲突；Mikrotik 侧「无邮箱」沉 C，本仓从官网 contact 页补到 sales@connectec.uk → 满足其重评条件①"
+ ],
+ "risks": [
+  "PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）"
+ ],
+ "saga_fit": {
+  "p1": "STI-488DGGPM",
+  "tier": 20,
+  "why": "对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求："
+ },
+ "email_hook": "PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs. On your installers' camera jobs, is the 8-port industrial PoE+ (IGS-5225 class) what they take most, or the rack-mount 8/16/24-port units?"
+}

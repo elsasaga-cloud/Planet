@@ -1,4 +1,5 @@
 # epcom.net
+**官方名称（调研核实）**：El Paso Communication Systems, Inc.（dba EPCOM）
 
 > **评级 C**　|　美国　|　档案编号 `SC-2203`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
@@ -8,6 +9,8 @@
 code: SC-2203
 rating: C
 rating_auto: C
+rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-066 评 B 仅作参考
+name_official: "El Paso Communication Systems, Inc.（dba EPCOM）"
 score: -19
 country: 美国
 region: 北美
@@ -19,9 +22,9 @@ replies: 0
 followups: 8
 first_contact: 2025-03-12
 last_contact: 2025-10-21
-p1: STC-424DGGPM-280W
+p1: STC-424DGGM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 3
 updated: 2026-10-21
@@ -29,11 +32,11 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：Witek 锐捷等；在用witek的；提到的品牌：Witek
-- **为什么是 C 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）；C 级细分：用户判定不行/不相关
+- **是谁**：美墨边境 El Paso 的无线 + 安防 + 网络多品类分销商（≈100 人，Syscom 美方），PLANET 商用与工业两线都备货并自带 Epcom 保修。类型：分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）。信号：epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发。Planet 渠道档案 PB-066 评级 B（需求：PLANET ≥7 款在售、GS-4210-24T2S 现货、自带 Epcom 保修条款 → 正式进货、需求真实；触达：sales@epcom.net 来自 Mikrotik 仓 B-346 行（本仓 epcom.net 首页/about 页未见邮箱 → 本仓记「待本仓核对」）；体量：≈95–101 人、营收 $17–24M、三个配送中心 → 偏大但不是巨头（与 PB-058 JPF 同档），按子公司/实体自身判定可赢；Mikrotik 仓 B-346 已有邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★）。并档说明：Saga 表内本条 SC-2203（美国）自动评 C（原因：；Saga 群发已推送 8 次无回复）。（调研 2026-10-21；表内兴趣：Witek 锐捷等；在用witek的）
+- **为什么是 C 级**：**调研后定级 C**（用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-066 评 B 仅作参考）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）；C 级细分：用户判定不行/不相关
 - **历史互动**：推送 8 次（2025-03-12 → 2025-10-21）
-- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGM（深挖对位：对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5；分销 → 20%（沿用 Planet 档案 PB-066）；需求：）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +66,59 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2203.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（epcom.net；并档 Planet 渠道档案 PB-066）
+- **是谁**：美墨边境 El Paso 的无线 + 安防 + 网络多品类分销商（≈100 人，Syscom 美方），PLANET 商用与工业两线都备货并自带 Epcom 保修。类型：分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）。信号：epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发。Planet 渠道档案 PB-066 评级 B（需求：PLANET ≥7 款在售、GS-4210-24T2S 现货、自带 Epcom 保修条款 → 正式进货、需求真实；触达：sales@epcom.net 来自 Mikrotik 仓 B-346 行（本仓 epcom.net 首页/about 页未见邮箱 → 本仓记「待本仓核对」）；体量：≈95–101 人、营收 $17–24M、三个配送中心 → 偏大但不是巨头（与 PB-058 JPF 同档），按子公司/实体自身判定可赢；Mikrotik 仓 B-346 已有邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★）。并档说明：Saga 表内本条 SC-2203（美国）自动评 C（原因：；Saga 群发已推送 8 次无回复）。
+- **在卖/在用品牌**：PLANET
+- **【官网】GS-4210-24T2S 现货标价**
+  > GS-4210-24T2S … PLANET … $353.99 … InStock
+  > 来源：https://www.epcom.net/products/GS-4210-24T2S-PLANET-77985.html（抓取 2026-10-20）
+- **【官网】IGS-620TF 在售，Epcom 自有保修**
+  > IGS-620TF … Warranty: 1 year with Epcom … $249 … OutOfStock
+  > 来源：https://www.epcom.net/products/72775（抓取 2026-10-20）
+- **【官网】工业 L3 IGS-6325-8UP2S2X，5 年 Epcom 保修**
+  > IGS-6325-8UP2S2X … PLANET … 5 years with Epcom
+  > 来源：https://www.epcom.net/products/IGS-6325-8UP2S2X-PLANET-188662.html（抓取 2026-10-20）
+- **【官网】IGS-6325-16P4S 标价**
+  > IGS-6325-16P4S … $1345
+  > 来源：https://www.epcom.net/products/IGS-6325-16P4S-PLANET-196733.html（抓取 2026-10-20）
+- **【官网】WGSD-10020 / GS-5220-8UP2T2X / XGS3-24042 产品页**
+  > WGSD-10020 … $229 … GS-5220-8UP2T2X … XGS3-24042 … PLANET
+  > 来源：https://www.epcom.net/products/WGSD-10020-PLANET-82630.html（抓取 2026-10-20）
+- **【名录】法律实体、体量、成立年份**
+  > El Paso Communication Systems, which also operates under the name Epcom… El Paso, Texas… $23.7M revenue… 95 total employees… founded 1987
+  > 来源：https://www.buzzfile.com/business/El-Paso-Communication-Systems-915-533-5119（抓取 2026-10-20）
+- **【名录】LinkedIn 定位与配送中心**
+  > Worldwide leading distributor for Wireless and Security Systems… three distribution centers San Antonio, El Paso and Miami; 51-200 employees; HQ Miami, Florida
+  > 来源：https://www.linkedin.com/company/epcomusa（抓取 2026-10-20）
+- **调研后定级**：C（原自动 C）——用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-066 评 B 仅作参考
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-066，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | El Paso Communication Systems, Inc.（dba EPCOM） |
+| 总部/地址 | El Paso, TX（1630 E Paisano Dr；配送中心 San Antonio / El Paso / Miami；LinkedIn 总部 Miami, FL）, 美国 |
+| 其他 | Planet 渠道档案 PB-066（2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json）；自有品牌：否（集团关联品牌 TXPro / Epcom 自有安防线；交换机为第三方）；最大未知：采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态 |
+
+- **业务线**：分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | GS-4210-24T2S | 24×GE + 2×SFP L2+ → Saga 24×GE + 4×1G/2.5G SFP L2+，同槽位 | STC-424DGGM | https://epcom.net（2026-10-19） |
+| PLANET | IGS-620TF | 工业 DIN 4×GE + 2×SFP 非管理，同槽位 | STI-240GE | https://epcom.net（2026-10-19） |
+| PLANET | WGSD-10020 | PLANET 为壁挂 8×GE + 2×SFP 管理；Saga 以工业 DIN 8+2 L2+ 补位 | STI-280DGGM | https://epcom.net（2026-10-19） |
+| PLANET | IGS-6325-8UP2S2X | PLANET 为工业 L3 8×bt PoE + 2×SFP + 2×10G；Saga 以 8×GE PoE + 4×10G L2+ 补位（bt 口数需核） | STI-488XGGPM | https://epcom.net（2026-10-19） |
+| PLANET | IGS-6325-16P4S | PLANET 为工业 L3 16 PoE + 4 SFP；Saga 以 16 PoE + 2×2.5G SFP L2+ 补位 | STI-21616DGGPM | https://epcom.net（2026-10-19） |
+| PLANET | GS-5220-8UP2T2X | PLANET 为 8×bt PoE + 2×T + 2×10G L2+；Saga 以 8 PoE + 2 SFP L2+ 补位（无 10G 上联） | STC-28DGGPM | https://epcom.net（2026-10-19） |
+| PLANET | XGS3-24042 | 24×GE + 4×10G L3，同槽位 | STC-424XGGM(L3) | https://epcom.net（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）；region: 美国
+- **近况信号**：
+  - 美墨边境的安防 + 无线分销商（Syscom 美方），PLANET 商用 L2+（GS-4210-24T2S 现货 $353.99）与工业 L2+/L3（IGS-6325）两线都备 → Saga STC-424DGGM（24×GE + 4×SFP L2+，$82.5 EXW）同槽位价差 4×；其安防客群要 PoE → STC-424DGGPM-280W 第二封；它为自营品牌 TXPro/Epcom 做过贴牌 → 远期 OEM 30% 入口
+- **风险/边界**：采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态；Saga 群发已推送 8 次无回复 → 改用具名收件人与新钩子
+- **Saga 对位结论**：P1 STC-424DGGM（20% 档）——对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5；分销 → 20%（沿用 Planet 档案 PB-066）；需求：
+- **邮件切入句（英文）**：（不主动发送：用户判定不行）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +193,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

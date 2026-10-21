@@ -370,6 +370,7 @@ SB-874,B,T2,vulsanx.com,马来西亚,亚太,0,0,0,0,0,0,1,0,0,vulsanx.com,1,1,1,
 SB-958,B,T2,Alam Jaya Management,马来西亚,亚太,0,0,0,0,0,0,1,1,0,,1,1,1,,,
 SB-860,B,T3,shop4power.nl,荷兰,欧洲,0,0,0,0,0,0,0,0,15,shop4power.nl,1,1,1,ok,,STI-288GP
 SB-939,B,T3,fiberworks.no,挪威,欧洲,0,0,0,0,0,0,0,1,15,fiberworks.no;fiberworks.net,4,1,1,ok,,
+SC-545,B,T3,globall.ca,加拿大,北美,0,0,0,0,0,0,0,0,8,globall.ca,2,1,1,,,
 SA-085,B,T3,SIPe,法国,欧洲,0,0,0,0,0,0,0,0,5,sipe-corse.fr,1,1,1,ok,,
 SB-106,B,T3,oksa.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,5,oksa.co.uk,2,1,1,ok,,STI-288GP
 SB-731,B,T3,saratota.com,英国,欧洲,0,0,0,0,0,0,0,0,5,saratota.com;saratota-direct.co.uk,2,1,1,ok,"EtherWAN,PLANET",STI-288GP
@@ -378,6 +379,7 @@ SB-481,B,T3,sistel-networking.it,意大利,欧洲,0,0,0,0,0,0,0,0,4,sistel-netwo
 SB-223,B,T3,gelecekbt.com,土耳其,土耳其,0,0,0,0,0,0,0,0,2,gelecekbt.com,2,1,1,ok,,STI-288GP
 SB-235,B,T3,rimaelektronik.com,土耳其,土耳其,0,0,0,0,0,0,0,0,2,rimaelektronik.com,3,1,1,ok,,STC-424XGGM
 SB-968,B,T3,bimel.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,2,bimel.com.tr,1,1,1,ok,"Cisco,Ruijie,Allied Telesis",STC-424XGGM
+SC-329,B,T3,noktaelektronik.net,土耳其,土耳其,0,0,0,0,0,0,0,0,2,noktaelektronik.net,1,1,1,,,
 SB-108,B,T3,wisp.pl,波兰,欧洲,0,0,0,0,0,0,0,0,1,wisp.pl,2,1,1,ok,"Ubiquiti,Tenda,MikroTik,TP-Link,Teltonika,Grandstream,Cisco,Dahua,D-Link,Cambium",STI-288GP
 SB-403,B,T3,media-konwertery.pl,波兰,欧洲,0,0,0,0,0,0,0,0,1,media-konwertery.pl,1,1,1,ok,"Dahua,PLANET,TP-Link,Intellinet,Cisco,Allied Telesis,Korenix,Edimax",STC-424XGGM
 SA-164,B,T3,dabos.com,美国,北美,0,0,0,0,0,0,0,0,0,dabos.com,2,1,1,http_error,,
@@ -396,6 +398,12 @@ SB-492,B,T3,charter-controls.com,英国,欧洲,0,0,0,0,0,0,0,0,0,charter-control
 SB-765,B,T3,electricbray.com,英国,欧洲,0,0,0,0,0,0,0,0,0,electricbray.com,1,1,1,ok,SmartByte（！）,STI-280GE
 SB-788,B,T3,woodcomm.ie,爱尔兰,欧洲,0,0,0,0,0,0,0,0,0,woodcomm.ie,2,1,1,ok,,STI-288GP
 SB-901,B,T3,esoft.fi,芬兰,欧洲,0,0,0,0,0,0,0,0,0,esoft.fi,0,1,1,ok,"HRUI（！）,Cisco,Aruba,Fortinet,PLANET",STI-288GP
+SC-496,B,T3,connectec.uk,英国,欧洲,0,0,0,0,0,0,0,0,0,connectec.uk,1,1,1,,,
+SC-539,B,T3,fonex.pl,波兰,欧洲,0,0,0,0,0,0,0,0,0,fonex.pl,1,1,1,,,
+SC-589,B,T3,klinger.fi,芬兰,欧洲,0,0,0,0,0,0,0,0,0,klinger.fi,1,1,1,,,
+SC-598,B,T3,linhawstore.com,美国,北美,0,0,0,0,0,0,0,0,0,linhawstore.com;linhaw.com,1,1,1,,,
+SC-602,B,T3,losan.cz,捷克,欧洲,0,0,0,0,0,0,0,0,0,losan.cz,1,1,1,,,
+SC-675,B,T3,redcorp.com,比利时,欧洲,0,0,0,0,0,0,0,0,0,redcorp.com,1,1,1,,,
 SB-028,B,T4,gwsecurityusa.com,美国,北美,0,0,0,0,0,0,0,0,38,gwsecurityusa.com,2,0,0,ok,,STC-424DGGPM-280W
 SB-546,B,T4,luetze.com,德国,欧洲,0,0,0,0,0,0,0,1,27,luetze.com;luetze.de;lutze.co.uk,3,0,0,http_error,,
 SB-564,B,T4,tkhsecurity.com,美国,北美,0,0,0,0,0,0,0,1,25,tkhsecurity.com,4,0,0,ok,,STC-28DGGPM
@@ -1315,3 +1323,5 @@ SB-987,B,T5,lilin.vn,越南,亚太,0,0,0,0,0,0,0,1,0,lilin.vn;silverseahcm.vn,1,
 SB-988,B,T5,ltv-cctv.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,ltv-cctv.ru,0,0,0,ok,,
 SB-997,B,T5,polyvision.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,polyvision.ru,1,0,0,ok,,STC-424DGGPM-280W
 SB-999,B,T5,sarmatt.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,sarmatt.ru,1,0,0,ok,,STC-424DGGPM-280W
+SC-1034,B,T5,marugged.com,马来西亚,亚太,0,0,0,0,0,0,0,0,0,marugged.com,1,1,1,,,
+SC-1325,B,T5,netram.de,未填,未知,0,0,0,0,0,0,0,0,0,netram.de,1,1,1,,,

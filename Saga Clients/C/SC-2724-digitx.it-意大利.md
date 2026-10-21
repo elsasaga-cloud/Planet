@@ -1,4 +1,5 @@
 # digitx.it
+**官方名称（调研核实）**：Lastella Trade S.r.l. (DigitX.it)
 
 > **评级 C**　|　意大利　|　档案编号 `SC-2724`　|　优先级 —　|　状态：用户判定不行
 >
@@ -8,6 +9,8 @@
 code: SC-2724
 rating: C
 rating_auto: C
+rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-028 评 B 仅作参考
+name_official: "Lastella Trade S.r.l. (DigitX.it)"
 score: -54
 country: 意大利
 region: 欧洲
@@ -21,7 +24,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 2
 updated: 2026-10-21
@@ -29,11 +32,11 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的经销/集成（类型待核）；兴趣/在卖：bypass 工业电源 工业FS等；有三旺的工业FS；提到的品牌：FS
-- **为什么是 C 级**：-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；C 级细分：用户判定不行/不相关
+- **是谁**：博洛尼亚郊区的工业电子 B2B 电商，卖 Moxa/PLANET/3onedata 等工业交换机给自动化客户。类型：工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）。信号：官网 PLANET 品牌页 + 产品页（ISW-500T 等工业交换机）；首页「Distribuiamo Planet」；同时分销 3onedata（中国工业交换机品牌）。Planet 渠道档案 PB-028 评级 B（需求：PLANET 工业线在售 + 已售中国品牌 3onedata；触达：info@digitx.it 公开（官网 schema），无具名；体量 2–10 人，小但对口；B）。并档说明：Saga 表内本条 SC-2724（意大利）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：bypass 工业电源 工业FS等；有三旺的工业FS）
+- **为什么是 C 级**：**调研后定级 C**（用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-028 评 B 仅作参考）；自动分级 C：-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；C 级细分：用户判定不行/不相关
 - **历史互动**：名单内·无互动记录
-- **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（深挖对位：其 PLANET 在售以工业 DIN 线为主（ISW/IGS）；Saga 工业 8 口 PoE L2+ 对位；电商/经销走量 → 20%（沿用 Planet 档案 PB-028）；需求：）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +56,44 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2724.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（digitx.it；并档 Planet 渠道档案 PB-028）
+- **是谁**：博洛尼亚郊区的工业电子 B2B 电商，卖 Moxa/PLANET/3onedata 等工业交换机给自动化客户。类型：工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）。信号：官网 PLANET 品牌页 + 产品页（ISW-500T 等工业交换机）；首页「Distribuiamo Planet」；同时分销 3onedata（中国工业交换机品牌）。Planet 渠道档案 PB-028 评级 B（需求：PLANET 工业线在售 + 已售中国品牌 3onedata；触达：info@digitx.it 公开（官网 schema），无具名；体量 2–10 人，小但对口；B）。并档说明：Saga 表内本条 SC-2724（意大利）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
+- **在卖/在用品牌**：PLANET, 3onedata, Moxa, Teltonika, Digitus
+- **【卖方目录】PLANET 品牌页 + 品牌墙（含 3onedata）**
+  > Planet technology Prodotti per il networking - DigitX.it … Distribuiamo Moxa … Distribuiamo Planet … Distribuiamo 3onedata
+  > 来源：https://www.digitx.it/planet/（抓取 2026-10-19）
+- **【卖方目录】ISW-500T 在售**
+  > ISW-500T Planet Switch Ethernet non gestito 5 porte … Industrial Ethernet Switches › DIN Rail Unmanaged switches
+  > 来源：https://www.digitx.it/codice/c-isw_500t/brand-planet/id_prod-115371/（抓取 2026-10-19）
+- **【公司自述】法人与定位**
+  > digitX.it è una realizzazione della società Lastella Trade Srl … distribuzione tramite e-commerce dei dispositivi elettronici … Moxa, Teltonika, Takachi, Patlite, Planet Technology … Lastella Trade S.r.l. Societa' unipersonale … P.I. 03695681209
+  > 来源：https://www.digitx.it/chi_siamo.asp（抓取 2026-10-19）
+- **【第三方】规模**
+  > Dimensioni dell'azienda: 2-10 dipendenti · Sede principale: Argelato · Data di fondazione: 2012（LinkedIn showcase）
+  > 来源：https://it.linkedin.com/showcase/digitx-it/（抓取 2026-10-19）
+- **调研后定级**：C（原自动 C）——用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-028 评 B 仅作参考
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-028，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Lastella Trade S.r.l. (DigitX.it) |
+| 总部/地址 | Funo di Argelato (BO), 意大利 |
+| 其他 | Planet 渠道档案 PB-028（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：3onedata 现有供货路径（是否经意大利代理）；年工业交换机台数 |
+
+- **业务线**：工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | ISW-500T | PLANET 为 5 口 FE 工业非管理；Saga 以 8 口 GE 工业非管理覆盖（Saga 暂无对应型号，沿用 SmartByte 型号 STI-080GE） | STI-080GE | https://digitx.it（2026-10-19） |
+
+- **触达通道（公开）**：role: 工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）；region: 意大利
+- **近况信号**：
+  - 已在卖中国工业交换机品牌 3onedata——对大陆货源无心理门槛；工业网络专营电商，B2B「grosso acquisto → preventivo」入口
+- **风险/边界**：3onedata 现有供货路径（是否经意大利代理）；年工业交换机台数
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——其 PLANET 在售以工业 DIN 线为主（ISW/IGS）；Saga 工业 8 口 PoE L2+ 对位；电商/经销走量 → 20%（沿用 Planet 档案 PB-028）；需求：
+- **邮件切入句（英文）**：（不主动发送：用户判定不行）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,7 +156,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

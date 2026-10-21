@@ -1,0 +1,156 @@
+{
+ "code": "SC-2203",
+ "name_official": "El Paso Communication Systems, Inc.（dba EPCOM）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（epcom.net；并档 Planet 渠道档案 PB-066）",
+ "summary": "美墨边境 El Paso 的无线 + 安防 + 网络多品类分销商（≈100 人，Syscom 美方），PLANET 商用与工业两线都备货并自带 Epcom 保修。类型：分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）。信号：epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发。Planet 渠道档案 PB-066 评级 B（需求：PLANET ≥7 款在售、GS-4210-24T2S 现货、自带 Epcom 保修条款 → 正式进货、需求真实；触达：sales@epcom.net 来自 Mikrotik 仓 B-346 行（本仓 epcom.net 首页/about 页未见邮箱 → 本仓记「待本仓核对」）；体量：≈95–101 人、营收 $17–24M、三个配送中心 → 偏大但不是巨头（与 PB-058 JPF 同档），按子公司/实体自身判定可赢；Mikrotik 仓 B-346 已有邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★）。并档说明：Saga 表内本条 SC-2203（美国）自动评 C（原因：；Saga 群发已推送 8 次无回复）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "GS-4210-24T2S 现货标价",
+   "quote": "GS-4210-24T2S … PLANET … $353.99 … InStock",
+   "url": "https://www.epcom.net/products/GS-4210-24T2S-PLANET-77985.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "IGS-620TF 在售，Epcom 自有保修",
+   "quote": "IGS-620TF … Warranty: 1 year with Epcom … $249 … OutOfStock",
+   "url": "https://www.epcom.net/products/72775",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业 L3 IGS-6325-8UP2S2X，5 年 Epcom 保修",
+   "quote": "IGS-6325-8UP2S2X … PLANET … 5 years with Epcom",
+   "url": "https://www.epcom.net/products/IGS-6325-8UP2S2X-PLANET-188662.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "IGS-6325-16P4S 标价",
+   "quote": "IGS-6325-16P4S … $1345",
+   "url": "https://www.epcom.net/products/IGS-6325-16P4S-PLANET-196733.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "WGSD-10020 / GS-5220-8UP2T2X / XGS3-24042 产品页",
+   "quote": "WGSD-10020 … $229 … GS-5220-8UP2T2X … XGS3-24042 … PLANET",
+   "url": "https://www.epcom.net/products/WGSD-10020-PLANET-82630.html",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "名录",
+   "claim": "法律实体、体量、成立年份",
+   "quote": "El Paso Communication Systems, which also operates under the name Epcom… El Paso, Texas… $23.7M revenue… 95 total employees… founded 1987",
+   "url": "https://www.buzzfile.com/business/El-Paso-Communication-Systems-915-533-5119",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "名录",
+   "claim": "LinkedIn 定位与配送中心",
+   "quote": "Worldwide leading distributor for Wireless and Security Systems… three distribution centers San Antonio, El Paso and Miami; 51-200 employees; HQ Miami, Florida",
+   "url": "https://www.linkedin.com/company/epcomusa",
+   "date": "2026-10-20"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-066 评 B 仅作参考",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-066，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "El Paso Communication Systems, Inc.（dba EPCOM）",
+  "founded": "",
+  "hq": "El Paso, TX（1630 E Paisano Dr；配送中心 San Antonio / El Paso / Miami；LinkedIn 总部 Miami, FL）, 美国",
+  "size": "",
+  "other": "Planet 渠道档案 PB-066（2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json）；自有品牌：否（集团关联品牌 TXPro / Epcom 自有安防线；交换机为第三方）；最大未知：采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态"
+ },
+ "business_lines": [
+  "分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "GS-4210-24T2S",
+   "spec": "24×GE + 2×SFP L2+ → Saga 24×GE + 4×1G/2.5G SFP L2+，同槽位",
+   "saga": "STC-424DGGM",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-620TF",
+   "spec": "工业 DIN 4×GE + 2×SFP 非管理，同槽位",
+   "saga": "STI-240GE",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "WGSD-10020",
+   "spec": "PLANET 为壁挂 8×GE + 2×SFP 管理；Saga 以工业 DIN 8+2 L2+ 补位",
+   "saga": "STI-280DGGM",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-6325-8UP2S2X",
+   "spec": "PLANET 为工业 L3 8×bt PoE + 2×SFP + 2×10G；Saga 以 8×GE PoE + 4×10G L2+ 补位（bt 口数需核）",
+   "saga": "STI-488XGGPM",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-6325-16P4S",
+   "spec": "PLANET 为工业 L3 16 PoE + 4 SFP；Saga 以 16 PoE + 2×2.5G SFP L2+ 补位",
+   "saga": "STI-21616DGGPM",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "GS-5220-8UP2T2X",
+   "spec": "PLANET 为 8×bt PoE + 2×T + 2×10G L2+；Saga 以 8 PoE + 2 SFP L2+ 补位（无 10G 上联）",
+   "saga": "STC-28DGGPM",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "XGS3-24042",
+   "spec": "24×GE + 4×10G L3，同槽位",
+   "saga": "STC-424XGGM(L3)",
+   "url": "https://epcom.net",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）",
+  "region": "美国"
+ },
+ "signals": [
+  "美墨边境的安防 + 无线分销商（Syscom 美方），PLANET 商用 L2+（GS-4210-24T2S 现货 $353.99）与工业 L2+/L3（IGS-6325）两线都备 → Saga STC-424DGGM（24×GE + 4×SFP L2+，$82.5 EXW）同槽位价差 4×；其安防客群要 PoE → STC-424DGGPM-280W 第二封；它为自营品牌 TXPro/Epcom 做过贴牌 → 远期 OEM 30% 入口"
+ ],
+ "risks": [
+  "采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态",
+  "Saga 群发已推送 8 次无回复 → 改用具名收件人与新钩子"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGM",
+  "tier": 20,
+  "why": "对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5；分销 → 20%（沿用 Planet 档案 PB-066）；需求："
+ },
+ "email_hook": "（不主动发送：用户判定不行）"
+}
