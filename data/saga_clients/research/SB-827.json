@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fastercable.com，快照 2026-10-21）",
- "summary": "美国系统集成/工程商：官网「FasterCable」（en）；品类词：布线 / 线缆 / 网络交换 / PoE；站内型号：RHW-2、EISW16-100T、EISW8-100T、S45-S01YL；表内「5/8/16电口工业FS 周边产品」；群发 20 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。",
+ "type": "线缆供应商（美国，自有标工业电口 FS）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,88 @@
    "quote": "5/8/16电口工业FS 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "FasterCable 站点型号",
+   "quote": "FasterCable ; Featured Products ; EISW16-100T ; EISW8-100T",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5/8/16 电口工业 FS",
+   "quote": "5/8/16电口工业FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Richard Ozols",
+   "title": "Sales Manager",
+   "email": "richard@fastercable.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Juliette O",
+   "title": "V. President",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 fastercable.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "线缆 / 网络配件",
+  "工业以太网交换机（自有 EISW 系列）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "线缆供应商（美国，自有标工业电口 FS）",
   "region": "美国",
   "contact": "richard@fastercable.com、sales@fastercable.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://fastercable.com/）",
-  "官网公开邮箱：sales@fastercable.com",
-  "用户表兴趣/备注：5/8/16电口工业FS 周边产品"
+  "站内 EISW16-100T / EISW8-100T；kw cable 191 / switch 21 / ethernet 14",
+  "表内：5/8/16 电口工业 FS 周边产品；KP Richard Ozols / Sales Manager；Juliette O / V. President"
  ],
  "risks": [
-  "群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）",
+  "20 次无回复 → 改向 Sales Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 25,
-  "why": "工业 16 PoE + 2 SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）"
  },
- "email_hook": "Richard, we supply the Marvell-based DIN-rail 16-port PoE+ industrial switch with 2 SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?",
+ "products_seen": [
+  {
+   "brand": "FasterCable（自有）",
+   "model": "EISW8-100T",
+   "spec": "8 口百兆工业交换机",
+   "saga": "STI-080GE（千兆升级）",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "FasterCable（自有）",
+   "model": "EISW16-100T",
+   "spec": "16 口百兆工业交换机",
+   "saga": "SmartByte 16 电口工业型号（注明）",
+   "url": "https://fastercable.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（acome.com，快照 2026-10-21）",
- "summary": "法国电信/ISP/网络运营：官网「Acome」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：UND1658、IC6007、IB1385、UND1537；表内「Telecom」；群发 2 次、无回复。",
- "type": "电信/ISP/网络运营",
+ "summary": "法国 Acome（法国工业旗舰线缆集团：汽车、电信/FTTH、智慧楼宇/城市、铁路、电力传输高技术线缆；域名迁至 acomegroup.com；表内「Telecom」；邮箱为社媒联系邮箱）；表内 2 次跟进无回复。",
+ "type": "线缆集团（法国，品类不符/体量过大）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,53 @@
    "quote": "Telecom",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Acome 定位",
+   "quote": "Home | Acome ; Technological flagship of the French industry, specialist in high-tech cables in the automotive industry, telecom & FTTH networks, smart buildings, smart cities, railways and electricity transport",
+   "url": "https://www.acome.com/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Telecom",
+   "quote": "Telecom",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符/体量过大：Acome 线缆集团，无交换机采购；c_sub=品类不符（线缆集团）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "法国",
   "other": "官网 acome.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "高技术线缆制造（集团）"
  ],
  "channels": {
-  "role": "电信/ISP/网络运营",
+  "role": "线缆集团（法国，品类不符/体量过大）",
   "region": "法国",
   "contact": "reseauxsociaux@acome.fr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.acome.com/en）",
-  "用户表兴趣/备注：Telecom"
+  "官网：Technological flagship of the French industry, specialist in high-tech cables in the automotive industry, telecom & FTTH networks, smart buildings, smart cities, railways and electricity transport；kw cable 167 / telecom 92 / ftth 57",
+  "表内：Telecom；邮箱 reseauxsociaux@"
  ],
- "risks": [],
+ "risks": [
+  "品类不符/体量过大：Acome 为线缆制造集团（约 2,000 人），无交换机采购；邮箱为社媒联系邮箱"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 16、PoE 3 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：电信/ISP/网络运营→25%）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "线缆制造集团，不采购交换机 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：品类不符/集团）"
 }

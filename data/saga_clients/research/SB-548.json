@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mreit.co.kr，快照 2026-10-21）",
- "summary": "韩国网络/安防经销或集成（官网未见角色词，待核）：官网「미래정보기술 - 홈페이지」；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：MR-0802P-S、IEEE802、MR-0402P-L、MR-2404P-L；表内「在用洪瑞的商业POE 换了PVC膜」；群发 24 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "韩国 미래정보기술 MREIT（自有 MR- 系列 PoE 交换机 MR-0802P-S / MR-0402P-L / MR-2404P-L/S、2.5G、SFP、CCTV 配套；表内「在用洪瑞的商业 PoE 换了 PVC 膜」（HRUI 贴标）「质量高」）；群发 24 次无回复。",
+ "type": "韩国 PoE 品牌商（现 HRUI 贴标 → Q-33 口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "在用洪瑞的商业POE 换了PVC膜",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "MREIT 站点型号",
+   "quote": "미래정보기술 - 홈페이지 ; MR-0802P-S ; MR-0402P-L ; MR-2404P-L ; MR-2404P-S",
+   "url": "https://mreit.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用 HRUI 商用 PoE 换 PVC 膜",
+   "quote": "在用洪瑞的商业POE 换了PVC膜；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,36 +45,50 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 mreit.co.kr，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "PoE 交换机 / CCTV 配套（自有品牌 MR 系列，HRUI 贴标）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "韩国 PoE 品牌商（现 HRUI 贴标 → Q-33 口径）",
   "region": "韩国",
   "contact": "customer@mreit.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://mreit.co.kr/）",
-  "用户表兴趣/备注：在用洪瑞的商业POE 换了PVC膜"
+  "站内 MR-0802P-S / MR-0402P-L / MR-2404P-L / MR-2404P-S；kw poe 17 / sfp 10 / cctv 12 / 2.5g 6",
+  "表内：在用洪瑞的商业 PoE 换了 PVC 膜；质量高"
  ],
  "risks": [
-  "群发 24 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "现供 HRUI（Saga 供应商）：按 Q-33 口径不碰 HRUI 同款，只推 SmartByte 差异化线",
+  "非主攻区（T5，韩国）；24 次无回复，仅 customer@"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "现用 HRUI（Saga 供应商）商用 PoE 贴 MR 标 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、2.5G 系列（注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the MR-series PoE switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP, 2.5G PoE options) in your packaging from small lots alongside your current line, CE/RoHS; KC by your side — which configuration would you like a comparative quote for?",
+ "products_seen": [
+  {
+   "brand": "MREIT（自有，HRUI 贴标）",
+   "model": "MR-0802P-S",
+   "spec": "8 口 PoE + 2 SFP 交换机",
+   "saga": "STC-28DGGPM（Marvell L2+ 差异化）",
+   "url": "https://mreit.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "MREIT（自有）",
+   "model": "MR-2404P-S",
+   "spec": "24 口 PoE + 4 SFP 交换机",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://mreit.co.kr/",
+   "date": "2026-10-21"
+  }
+ ]
 }

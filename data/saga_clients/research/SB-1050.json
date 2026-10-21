@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（socraonline.com，快照 2026-10-21）",
- "summary": "智利电商/网店：官网「Socra - Tu aliado en suministros de mineria」（es）；品类词：工业自动化 / OT 网络 / 布线 / 线缆；站内品牌：Siemens、Schneider；站内型号：MCRA040AT3、XZCC12FDM40B、CP1L-M40DR-D、DS201A-B10；表内「百兆收发器 / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "智利 Socra Spa.（矿业供应商：自动化、接触器、电气保护、继电器与线缆、传感器；Siemens / Schneider；表内备注「百兆收发器 / from: 阿里巴巴询盘」；KP Santiago de la Cruz（product marketer））；表内未跟进。",
+ "type": "矿业工业品分销商（智利，阿里询盘百兆 MC）",
  "size": "",
  "brands_seen": [
   "Siemens",
-  "Schneider"
+  "Schneider",
+  "Hikvision"
  ],
  "evidence": [
   {
@@ -24,42 +25,61 @@
    "quote": "百兆收发器 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Socra 定位",
+   "quote": "Socra - Tu aliado en suministros de mineria ; Empresa líder en productos para la industria minera ; +56 979720669 ; ventasweb@socraonline.com",
+   "url": "https://socraonline.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "百兆收发器 阿里询盘",
+   "quote": "百兆收发器 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Santiago de la Cruz",
+   "title": "Product Marketer",
+   "email": "ventasweb@socraonline.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "智利",
   "other": "官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆"
+  "矿业工业品供应（自动化 / 电气 / 线缆 / 传感器）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "矿业工业品分销商（智利，阿里询盘百兆 MC）",
   "region": "智利",
   "contact": "ventasweb@socraonline.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://socraonline.com/）",
-  "在售工业网络品牌：Siemens、Schneider → 工业线对位",
-  "官网公开邮箱：ventasweb@socraonline.com",
-  "用户表兴趣/备注：百兆收发器 / from: 阿里巴巴询盘"
+  "官网：Socra - Tu aliado en suministros de mineria ; Automatización Contactores Protecciones Eléctricas Relés y Cables Sensores；站内品牌 Siemens / Schneider；kw industrial 25 / ethernet 15 / cable 118",
+  "表内：百兆收发器 / from: 阿里巴巴询盘；KP SANTIAGO DE LA CRUZ, product marketer"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，智利）；阿里巴巴询盘来源（比价型）；主业电气工业品"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STI-110FE",
   "tier": 20,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "阿里询盘百兆收发器 → 工业百兆 MC STI-110FE（$19.7 @20%）/ 千兆 STI-110GE（$22.4）；工业 FS 位 STI-280GE（$46.6）"
  },
- "email_hook": "SANTIAGO, alongside the Siemens / Schneider lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Santiago, following your enquiry for fast-Ethernet media converters, we supply industrial 100M and gigabit MCs (DIN/wall mount, −40~75 °C, 12–48 V) and 8-GE + 2 SFP DIN-rail switches for mining-site cabinets from single units, CE/RoHS, EXW USD — how many converters and which fibre type (SM/MM, distance) do you need?"
 }

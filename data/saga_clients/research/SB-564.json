@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tkhsecurity.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Security Management & Parking Guidance Solutions | TKH Security」（en-US）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；产品页：preventing-retail-crime-starts-here-smar、preventing-retail-crime-starts-here-smar、tkh-security-has-been-awarded-the-parkin、tkh-security-has-been-awarded-the-parkin；表内「CCTV Switch；工业FS VC MC 自己的牌子 公司比较大；非常多的国家办事处」；群发 25 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "TKH Security（荷兰上市 TKH Group 旗下安防管理与停车引导方案商，多国办事处；表内「CCTV Switch / 工业 FS VC MC 自己的牌子；公司比较大」「非常多的国家办事处」；KP Timme Grijpink（CEO）、Adam Fitzgerald（GM）、Javier Vega（Commercial Manager））；群发 25 次无回复。",
+ "type": "上市集团旗下安防方案商",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,53 @@
    "quote": "CCTV Switch；工业FS VC MC 自己的牌子 公司比较大；非常多的国家办事处",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TKH Security 定位",
+   "quote": "Security Management & Parking Guidance Solutions | TKH Security ; TKH Security delivers smart solutions tailored for industries globally",
+   "url": "https://tkhsecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的牌子 公司比较大",
+   "quote": "CCTV Switch / 工业FS VC MC 自己的牌子 公司比较大；非常多的国家办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "上市集团：TKH Security（TKH Group 旗下），体量过大；c_sub=上市集团/体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 tkhsecurity.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "电信 / FTTH / ISP 设备",
-  "网络交换 / PoE"
+  "安防管理 / 停车引导（TKH Security）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "上市集团旗下安防方案商",
   "region": "美国",
   "contact": "a.fitzgerald@tkhsecurity.com、t.grijpink@tkhsecurity.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://tkhsecurity.com/）",
-  "官网公开邮箱：info.ae@tkhsecurity.com、info.au@tkhsecurity.com、info.de@tkhsecurity.com",
-  "用户表兴趣/备注：CCTV Switch；工业FS VC MC 自己的牌子 公司比较大；非常多的国家办事处"
+  "官网：TKH Security delivers smart solutions tailored for industries globally. Explore surveillance, access control, and parking guidance systems；首页 Security Management ; PARK ASSIST Parking Guidance",
+  "表内：CCTV Switch / 工业 FS VC MC 自己的牌子 公司比较大；非常多的国家办事处"
  ],
  "risks": [
-  "群发 25 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "上市集团：TKH Security（TKH Group N.V. 旗下），体量大、多国办事处，采购体系封闭；25 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": null,
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "上市集团（TKH Group）旗下、多国办事处、自有硬件品牌 → 采购体系封闭，改 C"
  },
- "email_hook": "Timme, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：上市集团）"
 }

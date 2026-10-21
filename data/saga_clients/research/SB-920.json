@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（synchronet.net，快照 2026-10-21）",
- "summary": "美国工业自动化/IoT 方案商：官网「IT Support Services in Buffalo - SynchroNet」（en-US）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Ubiquiti；站内型号：AES-256；表内「Stacking」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "美国 SynchroNet（布法罗 IT 支持服务商/MSP：面向各规模企业的托管 IT；博客含 switchport / stack-switch；表内「Stacking」；KP Tanner Sanderson（BD）、Gordon Brandt（Engineer））；表内未跟进。",
+ "type": "MSP/IT 服务商（美国，堆叠需求）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,39 +23,69 @@
    "quote": "Stacking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SynchroNet 定位",
+   "quote": "IT Support Services in Buffalo - SynchroNet ; Our dedicated team offers tailored solutions for businesses of all sizes ; /stack-switch/",
+   "url": "https://synchronet.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Stacking",
+   "quote": "Stacking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Tanner Sanderson",
+   "title": "Business Development",
+   "email": "tanner@synchronet.net",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Gordon Brandt",
+   "title": "Engineer",
+   "email": "gbrandt@synchronet.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 synchronet.net，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "托管 IT 服务（MSP）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "MSP/IT 服务商（美国，堆叠需求）",
   "region": "美国",
   "contact": "tanner@synchronet.net、gbrandt@synchronet.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://synchronet.net/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "用户表兴趣/备注：Stacking"
+  "官网：Looking for expert IT support in Buffalo? Our dedicated team offers tailored solutions for businesses of all sizes；页面 /switchport/、/stack-switch/；站内品牌 Ubiquiti",
+  "表内：Stacking；KP Tanner Sanderson BD / Gordon Brandt Engineer"
  ],
- "risks": [],
+ "risks": [
+  "需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认",
+  "MSP 采购以 Ubiquiti/Cisco 为主；未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424XGGPM-280W",
   "tier": 25,
-  "why": "官网快照对位：交换机词频 7、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）"
  },
- "email_hook": "Tanner, alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — stacking is handled via 10G uplinks rather than a proprietary stack; would that fit the SMB sites you support?"
 }

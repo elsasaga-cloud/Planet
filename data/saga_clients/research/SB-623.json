@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（visus.pt，快照 2026-10-21）",
- "summary": "葡萄牙安防集成/经销：官网「OPTIVISUS」（en-gb）；品类词：电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Vivotek、Uniview、Ubiquiti；站内型号：CVE-2025-10547、MS9390-EHV、SC9133-RTL、FD9387-FR-V2；表内「CCTV为主 有Utepo的」；群发 4 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "葡萄牙 Optivisus / Visus（语音、数据与图像方案：visus telecom / visus video；Vivotek / Uniview / Ubiquiti；表内「CCTV 为主 有 Utepo 的」；KP Rui Jorge（Product & Technical Manager））；表内 4 次跟进无回复。",
+ "type": "电信/CCTV 分销商（葡萄牙，Utepo 在售）",
  "size": "",
  "brands_seen": [
   "Vivotek",
   "Uniview",
-  "Ubiquiti"
+  "Ubiquiti",
+  "Utepo"
  ],
  "evidence": [
   {
@@ -25,41 +26,61 @@
    "quote": "CCTV为主 有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Optivisus 首页",
+   "quote": "OPTIVISUS - Home ; OPTIVISUS - Soluções reais para voz, dados e imagem. ; visus telecom ; visus video",
+   "url": "https://visus.pt/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 为主 有 Utepo 的",
+   "quote": "CCTV为主 有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Rui Jorge",
+   "title": "Product & Technical Manager",
+   "email": "rjorge@visus.pt",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "葡萄牙",
   "other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "网络交换 / PoE"
+  "电信 / 视频监控分销（葡萄牙）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "电信/CCTV 分销商（葡萄牙，Utepo 在售）",
   "region": "葡萄牙",
   "contact": "encomendas@visus.pt、rjorge@visus.pt"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://visus.pt/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "安防品牌：Vivotek、Uniview → PoE 配套切入",
-  "官网公开邮箱：cctv@visus.pt、cliente@visus.pt、comercial@visus.pt",
-  "用户表兴趣/备注：CCTV为主 有Utepo的"
+  "首页 OPTIVISUS - Soluções reais para voz, dados e imagem. ; visus telecom ; visus video；站内品牌 Vivotek / Uniview / Ubiquiti；kw 2.5g 4",
+  "表内：CCTV 为主 有 Utepo 的；KP Rui Jorge / Product & Technical Manager"
  ],
- "risks": [],
+ "risks": [
+  "现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-424XGGM",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP"
  },
- "email_hook": "Rui, alongside the Vivotek / Uniview lines you carry, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?"
 }

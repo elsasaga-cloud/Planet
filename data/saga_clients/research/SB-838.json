@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ifotec.com，快照 2026-10-21）",
- "summary": "法国安防集成/经销：官网「Equipements et solutions de transmission sur fibres optiques」（fr-FR）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；产品页：switch-8-ports-poe-inet10x、inet6-switch-4-poe-2-sfp、inet6-switch-6-ports-dont-4-poe、inet4s-secure-industrial-switch；表内「工业FS SFP」；群发 8 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "法国 IFOTEC（1999 年起在法国设计制造光纤信号传输设备；INET 系列交换机：8 口 PoE INET10x、INET6 4 PoE + 2 SFP、INET4S 安全工业交换机；街道机柜网络安全；表内「工业 FS SFP」「质量不错」；邮箱 gbillet@、marketing@）；群发 8 次无回复。",
+ "type": "法国光纤传输制造商（自有 INET 系列，二供口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,81 @@
    "quote": "工业FS SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IFOTEC 定位",
+   "quote": "Equipements et solutions de transmission sur fibres optiques ; Depuis 1999, IFOTEC conçoit et fabrique en France des équipements de transmission de signaux sur fibres optiques ; /switch-8-ports-poe-inet10x/",
+   "url": "https://www.ifotec.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS SFP；质量不错",
+   "quote": "工业FS SFP；质量不错",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "G. Billet",
+   "title": "（姓名/职务待核）",
+   "email": "gbillet@ifotec.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "法国",
   "other": "官网 ifotec.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤信号传输设备（自有品牌 IFOTEC）",
+  "工业 PoE 交换机（INET 系列）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "法国光纤传输制造商（自有 INET 系列，二供口径）",
   "region": "法国",
   "contact": "marketing@ifotec.com、gbillet@ifotec.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ifotec.com/）",
-  "用户表兴趣/备注：工业FS SFP"
+  "页面 /switch-8-ports-poe-inet10x/、/en/inet6-switch-4-poe-2-sfp/、/en/inet4s-secure-industrial-switch/；首页 Cybersécurité armoire de rue ; Comprendre le PoE；kw poe 24",
+  "官网：Depuis 1999, IFOTEC conçoit et fabrique en France des équipements de transmission de signaux sur fibres optiques；表内：工业 FS SFP；质量不错"
  ],
- "risks": [],
+ "risks": [
+  "「conçoit et fabrique en France」定位：外购白牌需二供/隐性采购口径",
+  "8 次无回复；gbillet@ 姓名/职务待核"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 INET 8 PoE 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 PoE + 2 SFP 位 STI-154GP（$40.8，注明端口差异）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the INET industrial PoE switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you currently source from a single supplier?",
+ "products_seen": [
+  {
+   "brand": "IFOTEC（自有）",
+   "model": "INET10x",
+   "spec": "8 口 PoE 工业交换机",
+   "saga": "STI-288GPM",
+   "url": "https://www.ifotec.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "IFOTEC（自有）",
+   "model": "INET6",
+   "spec": "4 PoE + 2 SFP 工业交换机",
+   "saga": "STI-154GP（注明端口差异）",
+   "url": "https://www.ifotec.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

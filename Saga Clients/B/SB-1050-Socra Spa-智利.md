@@ -2,7 +2,7 @@
 
 > **评级 B**　|　智利　|　档案编号 `SB-1050`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：矿业工业品分销商（智利，阿里询盘百兆 MC）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1050
@@ -12,14 +12,14 @@ score: 27
 country: 智利
 region: 拉美
 website: socraonline.com
-type: 电商/网店
+type: 矿业工业品分销商（智利，阿里询盘百兆 MC）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-110GE
+p1: STI-110FE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：智利电商/网店：官网「Socra - Tu aliado en suministros de mineria」（es）；品类词：工业自动化 / OT 网络 / 布线 / 线缆；站内品牌：Siemens、Schneider；站内型号：MCRA040AT3、XZCC12FDM40B、CP1L-M40DR-D、DS201A-B10；表内「百兆收发器 / from: 阿里巴巴询盘」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：智利 Socra Spa.（矿业供应商：自动化、接触器、电气保护、继电器与线缆、传感器；Siemens / Schneider；表内备注「百兆收发器 / from: 阿里巴巴询盘」；KP Santiago de la Cruz（product marketer））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/智利；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110FE — 深挖对位：阿里询盘百兆收发器 → 工业百兆 MC STI-110FE（$19.7 @20%）/ 千兆 STI-110GE（$22.4）；工业 FS 位 STI-280GE（$46.6）；$19.7 USD EXW（20% 档，SmartByte LT-IMC30F-E 110 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Socra Spa. | 事实（用户表） |
 | 国家 | 智利 | 事实（用户表）|
 | 网站/域名 | socraonline.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 矿业工业品分销商（智利，阿里询盘百兆 MC） | 推断（据兴趣/备注关键词） |
 | 联系人 | SANTIAGO DE LA CRUZ, product marketer | 事实（用户表） |
 | 来源（From） | 2024.7.17 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,34 +55,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（socraonline.com，快照 2026-10-21）
-- **是谁**：智利电商/网店：官网「Socra - Tu aliado en suministros de mineria」（es）；品类词：工业自动化 / OT 网络 / 布线 / 线缆；站内品牌：Siemens、Schneider；站内型号：MCRA040AT3、XZCC12FDM40B、CP1L-M40DR-D、DS201A-B10；表内「百兆收发器 / from: 阿里巴巴询盘」；表内未见跟进记录。
-- **类型**：电商/网店
-- **在卖/在用品牌**：Siemens, Schneider
+- **是谁**：智利 Socra Spa.（矿业供应商：自动化、接触器、电气保护、继电器与线缆、传感器；Siemens / Schneider；表内备注「百兆收发器 / from: 阿里巴巴询盘」；KP Santiago de la Cruz（product marketer））；表内未跟进。
+- **类型**：矿业工业品分销商（智利，阿里询盘百兆 MC）
+- **在卖/在用品牌**：Siemens, Schneider, Hikvision
 - **【官网快照】官网标题：Socra - Tu aliado en suministros de mineria；品类词 工业自动化 / OT 网络 / 布线 / 线缆**
   > Automatización Contactores Protecciones Eléctricas Relés y Cables Sensores Servicios Bienvenidos a Socra Empresa líder en productos para la industria minera Somos una empresa Joven que cuenta con una amplia Trayectoria en la comercializació
   > 来源：https://socraonline.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 百兆收发器 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Socra 定位**
+  > Socra - Tu aliado en suministros de mineria ; Empresa líder en productos para la industria minera ; +56 979720669 ; ventasweb@socraonline.com
+  > 来源：https://socraonline.com/（抓取 2026-10-21）
+- **【用户表】百兆收发器 阿里询盘**
+  > 百兆收发器 / from: 阿里巴巴询盘
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Santiago de la Cruz（）ventasweb@socraonline.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 智利 |
 | 其他 | 官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：工业自动化 / OT 网络；布线 / 线缆
-- **触达通道（公开）**：role: 电商/网店；region: 智利；contact: ventasweb@socraonline.com
+- **业务线**：矿业工业品供应（自动化 / 电气 / 线缆 / 传感器）
+- **触达通道（公开）**：role: 矿业工业品分销商（智利，阿里询盘百兆 MC）；region: 智利；contact: ventasweb@socraonline.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://socraonline.com/）
-  - 在售工业网络品牌：Siemens、Schneider → 工业线对位
-  - 官网公开邮箱：ventasweb@socraonline.com
-  - 用户表兴趣/备注：百兆收发器 / from: 阿里巴巴询盘
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-110GE（20% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：SANTIAGO, alongside the Siemens / Schneider lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
+  - 官网：Socra - Tu aliado en suministros de mineria ; Automatización Contactores Protecciones Eléctricas Relés y Cables Sensores；站内品牌 Siemens / Schneider；kw industrial 25 / ethernet 15 / cable 118
+  - 表内：百兆收发器 / from: 阿里巴巴询盘；KP SANTIAGO DE LA CRUZ, product marketer
+- **风险/边界**：非主攻区（T5，智利）；阿里巴巴询盘来源（比价型）；主业电气工业品
+- **Saga 对位结论**：P1 STI-110FE（20% 档）——阿里询盘百兆收发器 → 工业百兆 MC STI-110FE（$19.7 @20%）/ 千兆 STI-110GE（$22.4）；工业 FS 位 STI-280GE（$46.6）
+- **邮件切入句（英文）**：Santiago, following your enquiry for fast-Ethernet media converters, we supply industrial 100M and gigabit MCs (DIN/wall mount, −40~75 °C, 12–48 V) and 8-GE + 2 SFP DIN-rail switches for mining-site cabinets from single units, CE/RoHS, EXW USD — how many converters and which fibre type (SM/MM, distance) do you need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +127,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| SANTIAGO DE LA CRUZ, product marketer | — | ventasweb@socraonline.com / +979720669 | 用户表原值 | Clients/ 表 |
+| Santiago de la Cruz | — | ventasweb@socraonline.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -138,7 +143,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
+| **P1** | STI-110FE | 深挖对位：阿里询盘百兆收发器 → 工业百兆 MC STI-110FE（$19.7 @20%）/ 千兆 STI-110GE（$22.4）；工业 FS 位 STI-280GE（$46.6） | $19.7 USD EXW（20% 档，SmartByte LT-IMC30F-E 110 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（矿业工业品分销商（智利，阿里询盘百兆 MC）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -147,9 +152,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110FE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110FE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -159,7 +164,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-110FE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -188,25 +193,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi SANTIAGO,
+Hi Santiago,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. SANTIAGO, alongside the Siemens / Schneider lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
+Picking up our earlier exchange about PoE / industrial switches. Santiago, following your enquiry for fast-Ethernet media converters, we supply industrial 100M and gigabit MCs (DIN/wall mount, −40~75 °C, 12–48 V) and 8-GE + 2 SFP DIN-rail switches for mining-site cabinets from single units, CE/RoHS, EXW USD — how many converters and which fibre type (SM/MM, distance) do you need?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 
