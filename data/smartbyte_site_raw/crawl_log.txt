@@ -204,3 +204,31 @@ requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(68
 [02:28:17] images 400/593 61 MB elapsed 4.2 min
 [02:29:20] images 500/593 75 MB elapsed 5.3 min
 [02:30:19] images stop: complete; ok 1493/1493 (+593 this run), 89.1 MB this run
+===== run 9 =====
+[02:32:41] checkout already at branch tip c770da3
+[02:32:41] run 9 start; resume=True; budget 140.0 min; max_pages 1500; delay 0.8s
+[02:32:43] probe archiver https://www.smartbyte-switch.com/ → 200
+[02:32:43] access mode = requests (archiver) base https://www.smartbyte-switch.com/
+[02:32:43] resume: pages_done=350 queue=0 (retry 0) downloads=245 images=1493
+[02:32:43] BFS stop: complete (queue empty); pages=350 (+0) downloads=245 images=1493
+[02:32:47] cdn images harvested from archived html: +0 (images total 1493)
+[02:32:47] downloads stop: complete; ok 245/245 (+0 this run), 83.0 MB
+[02:32:47] pdftotext: 245
+[02:32:47] downloads total 83.0 MB → committed to git: True
+[02:32:47] images: 1493 previously fetched but binary absent (Release clobbered) → re-download for git
+[02:38:08] images 100/1493 49 MB elapsed 5.5 min
+[02:44:11] images 200/1493 63 MB elapsed 11.5 min
+[02:47:15] images 300/1493 78 MB elapsed 14.6 min
+[02:51:12] images 400/1493 93 MB elapsed 18.5 min
+[02:55:20] images 500/1493 108 MB elapsed 22.7 min
+[02:58:29] images 600/1493 122 MB elapsed 25.8 min
+[03:00:40] images 700/1493 132 MB elapsed 28.0 min
+[03:06:20] images 800/1493 147 MB elapsed 33.7 min
+[03:11:04] images 900/1493 163 MB elapsed 38.4 min
+[03:12:05] images 1000/1493 178 MB elapsed 39.4 min
+[03:13:06] images 1100/1493 194 MB elapsed 40.4 min
+[03:14:07] images 1200/1493 209 MB elapsed 41.4 min
+[03:15:08] images 1300/1493 224 MB elapsed 42.4 min
+[03:16:09] images 1400/1493 238 MB elapsed 43.5 min
+[03:17:08] images total 252.2 MB → committed to git: True (+1487 copied into data/smartbyte_site_raw/images)
+[03:17:08] images stop: complete; ok 1487/1493 (+1493 this run), 252.2 MB this run
