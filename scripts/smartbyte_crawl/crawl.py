@@ -54,6 +54,10 @@ v3.0（2026-10-21，T25：Saga 另两家供应商 HRUI / Hohunet 官网也要入
   ③ 编排：在 GitHub Actions 里以工作流固定命令（SmartByte）启动且 SmartByte 已 complete 时跳过重抓，
      然后顺序以子进程抓 EXTRA_SITES（HRUI → Hohunet，各自 OUT / BIN / 预算），结束后 git add 它们的 OUT 目录，
      由工作流原有的提交步骤一并提交。CRAWL_RECRAWL=1 可强制重抓 SmartByte；CRAWL_EXTRA_SITES=0 可关闭编排。
+v3.1（2026-10-21，运行 #11 之后：HRUI 411 页 / 83 附件 / 919 图落地，但产品只到手 56/182）：
+  ① HRUI 类目页的产品列表由前端 AJAX 拉取（/web/api.php?act=getdata&p=&limit=8&sortid=&tj=&lanstr=en，8 个类目 sortid 固定），
+     静态 HTML 里没有产品链接 → 站点钩子：逐类目翻页调 API，原样存 OUT/api/*.json，产品页 /<类目>/<id>.html 入队；
+  ② <img src> 指向目录（以 / 结尾，如 HRUI 的 /web/userfiles/banner/）不算图片，也不计入「被拒」——运行 #11 就卡在这 1 个 403 上 complete=false。
 """
 import hashlib
 import json
@@ -593,6 +597,57 @@ def _sync_to_branch_tip():
         log(f"sync to branch tip skipped: {e.__class__.__name__}: {e}")
 
 
+# v3.1：HRUI 官网 8 个产品类目（类目页 JS：init(count) + $.get('/web/api.php?act=getdata',{p,limit:8,sortid,tj,lanstr:'en'})）
+HRUI_CATS = {64: "poe-switch", 76: "ethernet-switch", 182: "managed-switch", 184: "industrial-poe-switch",
+             186: "industrial-ethernet-switch", 188: "optical-fiber-converter", 190: "poe-accessory", 192: "wireless-bridge"}
+
+
+def hrui_api_seeds(queue, seen):
+    """逐类目翻页调 HRUI 的产品列表 API，原样存 OUT/api/，并把产品详情页 /<类目>/<id>.html 入队。每轮都跑（≈30 次请求），幂等。"""
+    os.makedirs(os.path.join(OUT, "api"), exist_ok=True)
+    items_all, added, calls = [], 0, 0
+    for sid, cat in HRUI_CATS.items():
+        p = 1
+        while p <= 60:
+            u = f"{BASE}web/api.php?act=getdata&p={p}&limit=8&sortid={sid}&tj=&lanstr=en"
+            r, err = get(u)
+            calls += 1
+            time.sleep(DELAY)
+            if r is None or r.status_code != 200:
+                log(f"hrui api sortid={sid} p={p}: {err if r is None else 'HTTP ' + str(r.status_code)}")
+                break
+            try:
+                items = json.loads(r.text)
+            except Exception as e:  # noqa: BLE001
+                log(f"hrui api sortid={sid} p={p}: not json ({e!r}): {r.text[:120]!r}")
+                break
+            if not isinstance(items, list) or not items:
+                break
+            with open(os.path.join(OUT, "api", f"getdata_sort{sid}_p{p}.json"), "w", encoding="utf-8") as f:
+                f.write(r.text)
+            for it in items:
+                if not isinstance(it, dict):
+                    continue
+                iid = str(it.get("id") or "").strip()
+                if not iid.isdigit():
+                    continue
+                items_all.append({"id": iid, "sortid": sid, "classid": it.get("classid"), "category": cat,
+                                  "title": it.get("title"), "title2": it.get("title2"), "product_sn": it.get("product_sn"),
+                                  "url": f"{BASE}{cat}/{iid}.html"})
+                n = norm(f"{BASE}{cat}/{iid}.html")
+                if n and n not in seen:
+                    seen.add(n)
+                    queue.append(n)
+                    added += 1
+            if len(items) < 8:
+                break
+            p += 1
+    with open(os.path.join(OUT, "api", "products_index.json"), "w", encoding="utf-8") as f:
+        json.dump(items_all, f, ensure_ascii=False, indent=1)
+    log(f"hrui api: {calls} calls, {len(items_all)} products listed, {added} new product pages queued")
+    return added
+
+
 def main():
     _sync_to_branch_tip()
     for d in ("html", "datasheet_text", "datasheets", "images"):
@@ -676,6 +731,12 @@ def main():
         if r is not None and r.status_code == 200:
             with open(os.path.join(OUT, "robots.txt"), "w", encoding="utf-8") as f:
                 f.write(r.text)
+    # ---------- v3.1 站点钩子：HRUI 产品列表走 AJAX，静态页没有产品链接 ----------
+    if not blocked and SITE == "hrui":
+        try:
+            hrui_api_seeds(queue, seen)
+        except Exception as e:  # noqa: BLE001
+            log(f"hrui api seeds failed: {e!r}")
 
     def checkpoint(phase):
         write_jsonl(p_pages, pages)
@@ -752,8 +813,8 @@ def main():
                         found(images.setdefault(n, {"found_on": [], "alt": ""}), u)
                 for m2 in re.finditer(r"""<img[^>]+?(?:src|data-src|data-original|data-lazy-src|data-large_image)\s*=\s*["']([^"']+)["'][^>]*>""", html, flags=re.I):
                     n = norm(m2.group(1), r.url)
-                    if n is None or kind(n) == "skip":
-                        continue
+                    if n is None or kind(n) == "skip" or urlparse(n).path.endswith("/"):
+                        continue  # v3.1：src 指向目录的坏 <img> 不算图片
                     alt = re.search(r"""alt\s*=\s*["']([^"']*)""", m2.group(0), flags=re.I)
                     d = found(images.setdefault(n, {"found_on": [], "alt": ""}), u)
                     if alt and alt.group(1) and not d["alt"]:
@@ -1015,7 +1076,8 @@ def main():
     # 被拒型失败（403 / 429 / 网络错误）不算完成：下轮 Run workflow 会重试；404 之类不阻止 complete
     def _refused(rows, skip_prefix):
         return [d["url"] for d in rows if not d.get("file") and not (d.get("error") or "").startswith(skip_prefix)
-                and (d.get("status") in (403, 429) or d.get("status") is None)]
+                and (d.get("status") in (403, 429) or d.get("status") is None)
+                and not urlparse(d["url"]).path.endswith("/")]  # v3.1：目录 URL（坏 <img src>）不算被拒
     refused = {"pages": _refused(pages, "binary-at-page-url"), "downloads": _refused(dl_rows, "\x00"), "images": _refused(img_rows, "skipped")}
     n_refused = sum(len(v) for v in refused.values())
     nothing_left = (not queue and dl_stop == "complete" and img_stop == "complete")
