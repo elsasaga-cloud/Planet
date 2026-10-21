@@ -22,6 +22,7 @@ last_contact: 2025-10-29
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +72,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-032.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.opax.com/　语言：tr　站点地图 URL 数：380
+- **标题**：Opax Alarm Sistemleri / Kablolu, Kablosuz, WiFi ve GSM Alarm Çözümleri - Kablosuz Yangın Sistemleri
+- **描述**：Opax alarm ve güvenlik sistemleriyle ev ve iş yerinizi koruma altına alın. Kablolu, kablosuz, WiFi ve GSM destekli Opax alarm sistemleri, kablosuz yangın alarm sistemleri, kamera çözümleri ve dedektörlerle Türkiye genelinde kesintisiz güvenlik sağlar.
+- **首页栏目**：Telefonla Sipariş Aydınlatma Metni / Önemli Bilgilendirme / Telefonla Sipariş ve Pazarlama İzni Ayrıdır / 1. Veri Sorumlusunun Kimliği / 2. Telefonla Sipariş Kapsamında İşlenen Kişisel Veriler / 3. Kişisel Verilerin İşlenme Amaçları / 4. Kişisel Verilerin Toplanma Yöntemi / 5. Kişisel Verilerin İşlenmesinin Hukuki Sebepleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 21、nvr 7、switch 2
+- **站内型号串**（正则抽取，含非交换机）：HY-SSA01, OPAX-2545LAN, EN-54, HY-6107-ARD2005, OPAX-WF868-4G-LAN, SGW02-WIFI-LAN, SGW02-WIFI-LAN-4G, BGR-12, OPAX-2646, CR17450L, RELAY-35A, OPAX-V200
+- **站内公开邮箱**：satis@opax.com
+- **社媒**：https://www.opax.com/, https://www.opax.com/hirsiz-alarm-sistemleri, https://www.opax.com/hirsiz-alarm-sistemleri/alarm-hareket-dedektorleri, https://www.opax.com/hirsiz-alarm-sistemleri/alarm-kontrol-panelleri, https://www.opax.com/hirsiz-alarm-sistemleri/alarm-sirenleri, https://www.opax.com/hirsiz-alarm-sistemleri/hazir-alarm-setleri
+- **产品类页面**：https://www.opax.com/hirsiz-alarm-sistemleri/tamamlayici-urunler；https://www.opax.com/kamera-ekipmanlari/ag-urunleri；https://www.opax.com/outlet-urunler；https://www.opax.com/hirsiz-alarm-sistemleri/tamamlayici-urunler/prd-ak-3a-aku-12volt-1-3a-bakimsiz-kuru-aku；https://www.opax.com/hirsiz-alarm-sistemleri/tamamlayici-urunler/prd-opx-12a-4-tuslu-kablosuz-alarm-paneli-kumandasi-opax-alarm-panelleriyle-uyumlu；https://www.opax.com/hirsiz-alarm-sistemleri/tamamlayici-urunler/prd-ak-7a-aku-12volt-7-2-a-bakimsiz-kuru-aku
+- 首页正文摘录：Alışveriş Sepetim × Sepeti Boşalt Alışverişe Devam Et Sepete Git Kapat Havale ve EFT ile yapılan ödemelerde anında %5 indirim fırsatı! (Seçili ürünlerde geçerlidir.) Geleceğinizin Güvenliği İçin Çalışıyoruz Giriş Yap Üye/Bayi Olun Arama 0 Sepetim 0,00 TL Kategoriler Hırsız Alarm Sistemleri Hırsız Alarm Sistemleri - Tümü Alarm Kontrol Panelleri Hazır Alarm Setleri Alarm Sirenleri Hareket Dedektörleri Yangın Dedektörle
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-032.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

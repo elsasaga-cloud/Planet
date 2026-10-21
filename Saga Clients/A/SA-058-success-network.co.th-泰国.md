@@ -24,6 +24,7 @@ last_contact: 2025-09-12
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -108,6 +109,22 @@ updated: 2026-10-21
 - **风险/边界**：多品牌小分销，Saga 为又一白牌；泰国价格敏感
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.success-network.co.th/　语言：th　站点地图 URL 数：1406
+- **标题**：Success Network and Communication ศูนย์อุปกรณ์เน็ตเวิร์คระบบไอที
+- **描述**：บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด ศูนย์จำหน่ายอุปกรณ์เน็ตเวิร์คครบวงจร ทั้งกล้องวงจรปิด ระบบเครือข่ายองค์กร อุปกรณ์ PoE Switch, Router, Fiber และโซลูชันไอที พร้อมบริการออกแบบและติดตั้งทั่วประเทศ ติดต่อเราที่ Line: @success_network หรือโทร 02-973-1966
+- **首页栏目**：Success Network and Communication Co.,Ltd. / All Products / CCTV Product / Network Switch / Network Storage / Network Security / Software / Wireless
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 28、telecom 25、switch 24、nvr 18、cctv 17、poe 15、access control 15、wireless 15、fiber 10、camera 2、wifi 2、planet 2
+- **站内型号串**（正则抽取，含非交换机）：TC-S3608, S-H24OS-IR-B, TC-R3440, TC-C32MS, ST18000NT001, T-8807AW, T-8800KEY, T-8800ZX, S-SZN1204-W, S-SZN3128B-W, S-SZN3103-W, S-SZN3142-W
+- **站内公开邮箱**：info@success-network.co.th, someone@example.com
+- **社媒**：https://www.facebook.com/SuccessNetworkD, https://www.youtube.com/@success_network
+- **产品类页面**：https://www.success-network.co.th/what-is-industrial-wireless/；https://www.success-network.co.th/what-is-kvm-switch/；https://www.success-network.co.th/layer2switch-layer3switch/；https://www.success-network.co.th/matrix-switcher/；https://www.success-network.co.th/utp7308ge-poe/；https://www.success-network.co.th/utp7308ge-btpoe90/
+- **已抓子页**：[สินค้าทั้งหมด (All Product) / Success Network](https://www.success-network.co.th/products/)；[Server Storage/NAS Archives / Success Network](https://www.success-network.co.th/product-category/server-storage-nas/)；[ระบบจัดเก็บข้อมูล Archives / Success Network](https://www.success-network.co.th/product-category/server-storage-nas/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5/)；[เกี่ยวกับเรา (About Us) / Success Network](https://www.success-network.co.th/about-us/)；[ช่องทางติดต่อ (Contact Us) / Success Network](https://www.success-network.co.th/contact-us/)；[โซลูชัน (Solution) / Success Network](https://www.success-network.co.th/solution/)
+- 首页正文摘录：Skip to content หน้าแรก เกี่ยวกับเรา สินค้าทั้งหมด Security CCTV TVT Accessoris Access Control Analog and IP Audio PA Audio Meeting Room ชุดประชุมสำหรับราชการ ชุดประชุมสำหรับเอกชนขนาดเล็ก-กลาง ชุดประชุมสำหรับเอกชนขนาดใหญ่ Command Center ศูนย์ควบคุมส่วนกลาง Smart Hospital โรงพยาบาล LED Display & Interactive จอแสดงผลอัจฉริยะ Network Switch/Router IOT/Solar Industrial PC Wireless and Router Industrial Hotel Transportati
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 28、PoE 15 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-058.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

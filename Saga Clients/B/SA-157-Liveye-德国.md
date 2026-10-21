@@ -25,6 +25,7 @@ last_contact: 2025-11-04
 p1: STI-144GP
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -117,6 +118,22 @@ updated: 2026-10-21
 - **风险/边界**：已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM
 - **邮件切入句（英文）**：For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.liveye.com/　语言：de-DE　站点地图 URL 数：228
+- **标题**：Mobile Videoüberwachung / 24/7 Leitstelle / LivEye Schutz
+- **描述**：LivEye: Professionelle mobile Videoüberwachung mit 24/7 deutscher Leitstelle ✓ KI-gestützte Sicherheitssysteme ✓ Autarke Kameras ✓ DSGVO-konform ✓ Europaweit
+- **首页栏目**：LivEye – Das gute Gefühl von Sicherheit / Smart by Day & Secure By Night / LivEye in Zahlen & Daten / LivEye im Einsatz / Einbruch erfolgreich verhindert / LivEye detektiert / LivEye identifiziert / Erfolgreiche Festnahme
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：axis 1
+- **站内型号串**（正则抽取，含非交换机）：ISO-27001, BUC-36
+- **站内公开邮箱**：alarmcenter@liveye.com, c.mildenberger@liveye.com, info@liveye.com
+- **站内公开电话**：+41 44 561609 0, +48 22 300 80 98, +49 (0) 6502 4034722, +49 6502 4034722
+- **社媒**：https://de.linkedin.com/company/liveye-gmbh, https://www.facebook.com/LivEyeGmbH, https://www.instagram.com/liveye_mobilevideosicherheit/, https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABvIP3ABXah-psSnm-4Z31xv8UVMBQ5z_Q8&keywords=andreas%20valtin&origin=RICH_QUERY_SUGGESTION&position=0&searchId=5c57b73d-6ec8-4c1b-beb4-498764a346eb&sid=SzL&spellCorrectionEnabled=false, https://www.youtube.com/@LivEye-mobileVideosicherheit/videos
+- **产品类页面**：https://www.liveye.com/produktionsstandort-badem/；https://www.liveye.com/produkte/
+- **已抓子页**：[Baustellenüberwachung mieten / 24/7 Leitstelle](https://www.liveye.com/baustellenueberwachung-videoueberwachung/ueberwachungskamera-mieten/)；[Produkte - LivEye](https://www.liveye.com/produkte/)；[LivEye / mobile Videosicherheit / Persönliche Beratung](https://www.liveye.com/kontakt/)；[Videoüberwachung Kieswerk / 24/7 Leistetelle / LivEye Schutz](https://www.liveye.com/videoueberwachung-kieswerke/)；[Brandfrüherkennung Recyclingstoffe / 24/7 Leitstelle](https://www.liveye.com/brandfrueherkennung-recycling/)；[Videoüberwachung Lagerflächen / 24/7 Leitstelle / LivEye](https://www.liveye.com/videoueberwachung-lagerflaechen/)
+- 首页正文摘录：Zum Inhalt springen Persönliche Beratung Deutschland: +49 6502 4034722 Deutschland: +49 6502 4034722 Schweiz: +41 44 561609 0 de pl en pl pl pl de en pl Blog Lösungen Drohnenerkennung Secure & Smart Secure by Night Smart by Day Produkte Einsatzbereiche Übersicht Baustellen Kritische Infrastruktur Solarparks Windparks Öffentliche Bereiche Immobilienleerstand Unternehmen Über LivEye ESG Soziales Engagement Leitstelle S
+- 数据文件：`data/saga_clients/site_snapshots/SA-157.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

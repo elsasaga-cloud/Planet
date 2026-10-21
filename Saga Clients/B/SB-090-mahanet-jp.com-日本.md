@@ -22,6 +22,7 @@ last_contact: 2025-11-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-05-27 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-090.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mahanet-jp.com/　语言：ja　站点地图 URL 数：96
+- **标题**：業務用防犯カメラ マハネット － 東北・山形 / 防犯カメラの設置および販売、総合セキュリティシステムをご提供します。
+- **首页栏目**：新着情報 / お知らせ&コラム / 製品カタログ / AHDカメラ / アナログカメラ / IPカメラ / デジタルビデオレコーダー / モニター
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 30、nvr 5、wifi 4
+- **站内型号串**（正则抽取，含非交换机）：MH-IPC2230S, MH-IPC2231Z, MH-DH1230, NVR-WT504, MH-WIP6002, IEEE802, MH-81ED, MH-79ED, MH-1NED, MH-SD7, M-PEG4, MH-SD7CD
+- **产品类页面**：https://www.mahanet-jp.com/product_page/；https://www.mahanet-jp.com/product_page-2/；https://www.mahanet-jp.com/product-demo-2/；https://www.mahanet-jp.com/product_page-3/；https://www.mahanet-jp.com/product/analog-box-camera-mh-7018/；https://www.mahanet-jp.com/product/analog-dome-camera-mh-3325/
+- **已抓子页**：[業務用防犯カメラ マハネット － 東北・山形 / 製品カテゴリー PoEスイッチングハブ](https://www.mahanet-jp.com/ja/product_cat/accessory-poe/)；[業務用防犯カメラ マハネット － 東北・山形 / 製品カテゴリー IPカメラ](https://www.mahanet-jp.com/product_cat/ip/)；[業務用防犯カメラ マハネット － 東北・山形 / 製品カテゴリー AHDカメラ](https://www.mahanet-jp.com/product_cat/ahd/)；[業務用防犯カメラ マハネット － 東北・山形 / 製品カテゴリー デジタルビデオレコーダー](https://www.mahanet-jp.com/product_cat/dvr/)；[業務用防犯カメラ マハネット － 東北・山形 / 製品カテゴリー IPカメラ](https://www.mahanet-jp.com/ja/product_cat/ip/)；[業務用防犯カメラ マハネット － 東北・山形 / 製品カテゴリー AHDカメラ](https://www.mahanet-jp.com/ja/product_cat/ahd/)
+- 首页正文摘录：JAPANESE ENGLISH ホーム 新着情報 製品 AHDカメラ アナログカメラ IPカメラ デジタルビデオレコーダー モニター アクセサリ機器 ダウンロード 会社概要 お問合せ [NEW] 2023.09.28 新製品情報 MH-IPC2230S / MH-IPC2231Z »詳細 2021.10.03 AIサーマルカメラシリーズ特設ページを更新しました。 »詳細 2018.09.04 4CHフルHDビデオレコーダー DVR-DH04Hをリリース »詳細 2018.09.03 MH-DH1230 / MH-DH1230リリース »詳細 2018.06.28 ディスプレイ一体型4CH無線ネットワークビデオレコーダー NVR-WT504 & 専用IPカメラ MH-WIP6002 リリース »詳細 新着情報 お知らせ&コラム 一覧 RSS [お知らせ] 投稿日：2023.09.28 新製品情報 MH-IPC2230S / MH
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 30、监控 5 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-090.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +172,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

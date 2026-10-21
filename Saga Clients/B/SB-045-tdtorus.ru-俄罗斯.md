@@ -22,6 +22,7 @@ last_contact: 2025-11-03
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-23 → 2025-11-03）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-045.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tdtorus.ru/　语言：ru　站点地图 URL 数：5722
+- **标题**：Оборудование для систем видеонаблюдения и безопасности, ТОРУС
+- **描述**：Интернет-магазин «Торус» является официальным поставщиком оборудования видеонаблюдения и безопасности, широкий спектр брендов, гарантия на продукцию, склады в 11 крупных регионах, техническая поддержка
+- **首页栏目**：КАТАЛОГ ОБОРУДОВАНИЯ / НОВИНКИ / БРЕНДЫ / О КОМПАНИИ / НОВОСТИ / АНОНСЫ МЕРОПРИЯТИЙ / Сервисный центр / ТЕХНИЧЕСКАЯ ПОДДЕРЖКА
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 241、dahua 56、sfp 54、ethernet 19、nvr 16、cctv 3、hikvision 2
+- **站内出现的品牌**：Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DH-CS4010-8ET2GT-60, IEEE802, DH-CS4010-8ET2GT-110, DH-IPC-HDW2449TP-S-LED-0280B-PRO, DHI-NVR2108HS-4KS3, DH-IPC-HDW3449HP-AS-PV-0360B-PRO, DH-IPC-HFW3849T1P-ZAS-PV-PRO, DH-S3220-16GT-190, DH-IPC-HFW2449TLP-S-PV-0280B, AT-AC-R4-W, PFA7751-B, DHI-ARC3800H-W2
+- **站内公开邮箱**：sales@tdtorus.ru
+- **站内公开电话**：+7 (347) 213-23-15, +7 (383) 288-82-50, +7 (423) 205-42-43, +7 (473) 203-05-01, +7 (499) 213-36-11, +7 (499) 403-36-11
+- **产品类页面**：https://tdtorus.ru/setevoe-oborudovanie/poe-splitter；https://tdtorus.ru/setevoe-oborudovanie/poe-udlinitel；https://tdtorus.ru/setevoe-oborudovanie/poe-inzhektor；https://tdtorus.ru/setevoe-oborudovanie/poe-kommutatory；https://tdtorus.ru/istochniki-pitaniya/bloki-pitaniya/product-at-ps-1205r-e2；https://tdtorus.ru/kamery-videonablyudeniya/ip-kamery-videonablyudeniya-torus/product-dh-ipc-pfw31259sp-a180-e2-as-pv-0280b
+- **已抓子页**：[PoE-коммутатор Dahua DH-CS4010-8ET2GT-60 на 8 портов с облач](https://tdtorus.ru/setevoe-oborudovanie/poe-kommutatory/product-dh-cs4010-8et2gt-60)；[Контакты офисов в городах России, ТОРУС](https://tdtorus.ru/contacts)；[PoE сплиттер купить для камер, ТОРУС](https://tdtorus.ru/setevoe-oborudovanie/poe-splitter)；[Купить PoE инжекторы для камер видеонаблюдения, ТОРУС](https://tdtorus.ru/setevoe-oborudovanie/poe-inzhektor)；[PoE удлинители для камер видеонаблюдения, ТОРУС](https://tdtorus.ru/setevoe-oborudovanie/poe-udlinitel)；[PoE-коммутаторы для камер видеонаблюдения, ТОРУС](https://tdtorus.ru/setevoe-oborudovanie/poe-kommutatory)
+- 首页正文摘录：Главная О компании Вакансии Новости Блог Продукция Бренды Мероприятия Записи прошедших Архив Оплата Доставка Поддержка Сервисный центр Тех. поддержка Support Контакты sales@tdtorus.ru Отдел продаж: +7 (499) 213-36-11 +7 (499) 403-36-11 Техподдержка: 8 (800) 777-36-12 КАТАЛОГ Войти 0 Сравнение 0 Избранное 0 Корзина Камеры видеонаблюдения Регистраторы Аксессуары и комплектующие Сетевое оборудование СКУД Шлагбаумы и тур
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 241、监控 19 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-045.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +173,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

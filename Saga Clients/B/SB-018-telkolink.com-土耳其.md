@@ -22,6 +22,7 @@ last_contact: 2025-10-24
 p1: STI-110GE
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +72,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-018.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.telkolink.com/　语言：未标　站点地图 URL 数：1196
+- **标题**：Telkolink Kurumsal Bilgi Teknolojileri
+- **描述**：POE Switch â Network cihazlarÄ± â Fiber Optik Sistemler â RF Kablo â YapÄ±sal Kablolama â EndÃ¼striyel Otomasyon ÃrÃ¼nleri
+- **首页栏目**：Telkolink - Bilgi Teknolojileri Ã¼rÃ¼nleri TedarikÃ§isi
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 107、fiber 107、ethernet 87、sfp 86、gigabit 82、poe 77、10g 25、media converter 14、industrial 7、cctv 2、wireless 2、ftth 2
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485, DC48V, RS422, DC24V, GET-100, TM101D, TM-203A, TM-102D1, TM-174A4, AN-E3-BNC, NP301
+- **站内公开邮箱**：sait@telkolink.com, satis@gelecekbt.com, yusuf@telkolink.com, yusufolcer@gmail.com
+- **站内公开电话**：+90 212 3200255, +90 212 3208509
+- **社媒**：https://twitter.com/Gelecekbt, https://www.facebook.com/gelecekbt, https://www.instagram.com/gelecekbt/?hl=tr, https://www.linkedin.com/in/gelecekbt, https://www.youtube.com/@gelecekbt
+- **产品类页面**：http://telkolink.com/Katalog/1040G.pdf；http://telkolink.com/Katalog/10G-SFP.pdf；http://telkolink.com/Katalog/1100.pdf；http://telkolink.com/Katalog/1200.pdf；http://telkolink.com/Katalog/3012.pdf；http://telkolink.com/Katalog/40-QSFP-Modul.pdf
+- **已抓子页**：[Telkolink / ÃrÃ¼n KataloÄumuz](http://www.telkolink.com/tr/katalog.html)；[Telkolink Ä°letiÅim](http://www.telkolink.com/tr/iletisim.html)；[Telkolink HakkÄ±nda](http://www.telkolink.com/tr/hakkimizda.html)；[Telkolink / DistribÃ¼tÃ¶rlÃ¼klerimiz](http://www.telkolink.com/kurumsal/temsilciliklerimiz.html)
+- 首页正文摘录：ï»¿ Telkolink Kurumsal Bilgi Teknolojileri Bilgi Teknolojileri UzmanÄ± HakkÄ±mÄ±zda / Ä°letiÅim / Site HaritasÄ± Telkolink - Bilgi Teknolojileri Ã¼rÃ¼nleri TedarikÃ§isi BiliÅim ve Teknoloji ÃrÃ¼nleri tedarikÃ§isi ve aynÄ± zamanda ithalatÃ§Ä±sÄ± olan firmamÄ±z oldukÃ§a geniÅ Ã¼rÃ¼n yelpazesi ile IT sektÃ¶rÃ¼nde hizmet vermektedir. BirÃ§ok Global aktif ve pasif network Ã¼rÃ¼nleri Ã¼reticisinin TÃ¼rkiye distribÃ¼tÃ¶
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 77 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-018.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +180,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

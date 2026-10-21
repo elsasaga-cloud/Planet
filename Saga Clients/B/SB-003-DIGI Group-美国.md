@@ -24,6 +24,7 @@ last_contact: 2025-11-27
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -94,6 +95,21 @@ updated: 2026-10-21
 - **风险/边界**：美国品牌商可能要求 UL 列名或 TAA 来源——Saga 仅 CE/RoHS/FCC，需在二封前问清（INH 规则：US 客户第二封前核 UL/TAA）
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有品牌 OEM：目录只有延长器/MC，缺 PoE 交换机——STC-28DGGPM（8 PoE+ + 2 SFP）与其 F-GET 光纤产品成套；中性/Thor 标，OEM 30% 档
 - **邮件切入句（英文）**：Your F-GET PoE+ fiber extenders pair naturally with an 8-port PoE+ 2-SFP managed switch in Thor packing; one question before I quote: does the switch need FCC only, or UL/TAA as well for your federal buyers?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://thorbroadcast.com　语言：en　站点地图 URL 数：462
+- **标题**：CATV and Fiber Transport Equipment - Thor Broadcast
+- **描述**：Specializing in turnkey broadcast CATV solutions with a full range of encoding and decoding equipment to easily transport signals over IP, fiber, and RF.
+- **首页栏目**：CATV and Fiber Transport Equipment - Thor Broadcast / CATV Modulators / DVB Encoders / Decoders (IRD's & STB's) / Satellite Modulators / Fiber Optic Transport / HDMI SDI Switchers, LAN Extenders, and Wireless Video Transport / HD 4K Cameras, SDI - HDMI - IP Streaming - PTZ - Broadcast and Security
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 281、ethernet 95、cable 57、switch 54、wireless 45、gigabit 33、camera 33、sfp 21、10g 15、media converter 12、surveillance 3、industrial 2
+- **站内型号串**（正则抽取，含非交换机）：RS485, RS232, RS-485, RS-232, RS422, H-4K-HDMI-TX, H-4HDMI, MPEG-2, MPEG-4, RS-422, H-H264IP-E, H-8HDMI
+- **站内公开邮箱**：sales@thorfiber.com, support@thorbroadcast.com, support@thorfiber.com
+- **产品类页面**：https://thorbroadcast.com/products；https://thorbroadcast.com/products/hdmi-1；https://thorbroadcast.com/products/sdi-converters-sdi-modulators；https://thorbroadcast.com/products/ip-to-catv-edge-modulators；https://thorbroadcast.com/products/pro-dvb-encoders；https://thorbroadcast.com/products/ip-network-encoders
+- **已抓子页**：[HDMI or SDI Video extenders over IP LAN Network - Thor Broad](https://thorbroadcast.com/products/lan-video-extenders-hdmi-sdi)；[Fiber Media Converter TX RX, Ethernet RS232 telephone over f](https://thorbroadcast.com/products/data-ethernet)；[Professional HDMI and SDI switchers and converters for video](https://thorbroadcast.com/products/video-audio-hdmi-sdi-switchers-converters)；[Hdmi RTSP RTMP RTSP Hardware Encoders - Thor Broadcast](https://thorbroadcast.com/products/ip-network-encoders)；[Analog Audio Video Data Contact Closure over Fiber - Thor Br](https://thorbroadcast.com/products/analog-baseband-video-audio-rs485-422-232-data-contact-closure)；[SDI Over Fiber Extenders - Thor Broadcast](https://thorbroadcast.com/products/sdi-1)
+- 首页正文摘录：Search Type By Name By Function Select input 10gigabitfiber 3gsdi 8vsb apc asi atsc audio catv coax composite cvbs cwdm ds3 dvb dvbs2 dvbt dvi dwdm e1 ethernet fiber gps hd hdmi iptv kband lband mpeg4 mw qam rf sband sc sd sdi sfp t1 telephone tv vga video wireless ypbpr Select output 10gigabitfiber 3gsdi 8vsb apc asi atsc audio catv coax composite cvbs cwdm ds3 dvb dvbs2 dvbt dvi dwdm e1 ethernet fiber gps hd hdmi i
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 15、交换机 54 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-003.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

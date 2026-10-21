@@ -22,6 +22,7 @@ last_contact: 2025-11-03
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 38 次（2024-02-14 → 2025-11-03）；最近一次客户回复：2025-02-06：·
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-028.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gwsecurityusa.com/　语言：en-US　站点地图 URL 数：210
+- **标题**：Security Camera Company / CCTV Company/ GW Security
+- **描述**：Choose GW Security, a trusted CCTV and security camera company. Explore high quality residential and commercial security surveillance camera systems and shop today with GW Security.
+- **首页栏目**：Professional Grade Security Camera Systems / Best sale for 4 channels Security Camera Systems / Best sale for 8 channels Security Camera Systems / Best sale for 16 channels Security Camera Systems / Best sale for 32 channels Security Camera Systems / Best sale for 64 channels Security Camera Systems / Best sale for 128 channels Security Camera Systems / Professional Security Systems
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 1028、poe 258、nvr 221、cable 74、switch 46、surveillance 41、wifi 32、ethernet 27、cctv 21、wireless 4、access control 1
+- **站内型号串**（正则抽取，含非交换机）：GW42-4264NV8-2, GW5037IP, GWCAT100, GWCAT60, GW4232N2, GWSW1602G, GW5037IP40-16T, DP-08, IMX335, GW5091IP40-16T, GW5091IP, GW5037IP6-2T
+- **站内公开邮箱**：info@gwsecurity.com, info@gwsecurityusa.com, support@gwsecurityusa.com
+- **社媒**：https://twitter.com/gwsecurityusa?lang=en, https://twitter.com/share?url=https://gwsecurityusa.com/product/64-channel-nvr-security-camera-system-with-40-5mp-ip-bullet-2-8mm-fixed-lens-camera-human-detection-built-in-microphone-poe/, https://twitter.com/share?url=https://gwsecurityusa.com/product/64-channel-nvr-security-camera-system-with-40-5mp-ip-turret-2-8mm-fixed-lens-camera-human-detection-built-in-microphone-poe/, https://twitter.com/share?url=https://gwsecurityusa.com/product/gw-security-32-channel-poe-ip-ultra-hd-4k-security-camera-system-32ch-4k-nvr-with-32-x-5mp-3-6mm-fixed-lens-bullet-security-camera/, https://twitter.com/share?url=https://gwsecurityusa.com/product/gw-security-8-channel-poe-ip-ultra-hd-4k-security-camera-system-8ch-4k-nvr-with-6-x-5mp-3-6mm-fixed-lens-bullet-security-camera/, https://www.facebook.com/people/GW-Security/61550626199012/
+- **产品类页面**：https://gwsecurityusa.com/2026/06/22/poe-vs-wifi-security-cameras-why-professional-installs-almost-always-pick-one/；https://gwsecurityusa.com/2022/01/12/4-products-to-compliment-your-business-camera-security-system/；https://gwsecurityusa.com/product-service-partnership/；https://gwsecurityusa.com/shop/；https://gwsecurityusa.com/blocks/katapult-product/
+- **已抓子页**：[PoE Switches & Power Supply for IP Cameras / GW Security](https://gwsecurityusa.com/product-category/accessories/power-supply-and-poe-switch/)；[HD IP Security Camera Systems / POE Security Cameras - GW Se](https://gwsecurityusa.com/product-category/security-camera-system/hd-ip-security-system/)；[64 Channel 64 Pack 5MP PoE NVR 4K Security Camera / GW Secur](https://gwsecurityusa.com/product/64-channel-nvr-security-camera-system-with-40-5mp-ip-bullet-2-8mm-fixed-lens-camera-human-detection-built-in-microphone-poe/)；[64 Channel NVR Security Camera System with 40 * 5MP IP Turre](https://gwsecurityusa.com/product/64-channel-nvr-security-camera-system-with-40-5mp-ip-turret-2-8mm-fixed-lens-camera-human-detection-built-in-microphone-poe/)；[8 Channel 6 Pack 5MP PoE NVR 4K Security Camera / GW Securit](https://gwsecurityusa.com/product/gw-security-8-channel-poe-ip-ultra-hd-4k-security-camera-system-8ch-4k-nvr-with-6-x-5mp-3-6mm-fixed-lens-bullet-security-camera/)；[32 Channel 32 Pack 5MP PoE NVR 4K Security Camera / GW Secur](https://gwsecurityusa.com/product/gw-security-32-channel-poe-ip-ultra-hd-4k-security-camera-system-32ch-4k-nvr-with-32-x-5mp-3-6mm-fixed-lens-bullet-security-camera/)
+- 首页正文摘录：Skip to content Free domestic shipping within USA on orders over $200 Anydesk Free domestic shipping within USA on orders over $200 Search for: Login No products in the cart. Return to shop Cart No products in the cart. Return to shop MENU MENU Home Products Surveillance Security Cameras 12MP Security Cameras Analog Security Cameras Active Deterrence Security Cameras HD IP Security Cameras PTZ Security Cameras Specia
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 258、监控 1311 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-028.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,7 +207,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

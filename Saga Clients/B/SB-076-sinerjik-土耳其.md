@@ -24,6 +24,7 @@ last_contact: unknown
 p1: none
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -78,6 +79,15 @@ updated: 2026-10-21
 - **风险/边界**：产品缺口（splitter/extender）；无公开资料；无后续跟进
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）
 - **邮件切入句（英文）**：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://sinerjik.net/　语言：未标　站点地图 URL 数：0
+- **标题**：Sınırsız Web Hosting / Türkiye’nin Hosting Markası / Natro.com
+- **首页栏目**：WEB SİTEMİZ YAPIM AŞAMASINDA
+- **站内公开邮箱**：info@sinerjik.net
+- 首页正文摘录：WEB SİTEMİZ YAPIM AŞAMASINDA Yakında Burada Olacağız Lütfen kısa bir süre sonra yeniden ziyaret edin www.sinerjik.net www.sinerjik.net
+- 数据文件：`data/saga_clients/site_snapshots/SB-076.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

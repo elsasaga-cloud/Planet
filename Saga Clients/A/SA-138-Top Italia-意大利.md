@@ -25,6 +25,7 @@ last_contact: 2025-10-16
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -107,6 +108,14 @@ updated: 2026-10-21
 - **风险/边界**：14 次推送 0 回复——全部发往 info@，未触达 KP；消防线守界
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档（Videostar 贴牌）：STC-28DGGPM（8 PoE+ 2 SFP 管理，$87.4）对位 ONV 8 口 PoE；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；多光口 STC-4168XGGCM（16 SFP + 8 Combo，$408.1）回应「12 光 12 电」
 - **邮件切入句（英文）**：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://topsicurezza.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Annuncio - Top Italia srl
+- **首页栏目**：Gentile Cliente,
+- 首页正文摘录：ï»¿ Annuncio - Top Italia srl Gentile Cliente, siamo lieti di annunciare il lancio del nostro sito web completamente rinnovato! Abbiamo lavorato sodo per creare uno spazio online che non solo rifletta l'evoluzione della nostra azienda, ma che offra anche un'esperienza utente piÃ¹ intuitiva, veloce e ricca di contenuti. Ti invitiamo a esplorare il nuovo sito: Clicca qui per visitarlo: www.videostar.it - Questo aggiorn
+- 数据文件：`data/saga_clients/site_snapshots/SA-138.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

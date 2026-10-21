@@ -24,6 +24,7 @@ last_contact: 2025-12-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -101,6 +102,19 @@ updated: 2026-10-21
 - **风险/边界**：ITS/交通控制项目在美国常要求 NEMA TS2 与 Buy America/TAA——Saga 不做 UL/NEMA 认证，只能供非政府/商业项目；其交换机为自有品牌贴牌 → 30% OEM 档，且要求中性包装
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价
 - **邮件切入句（英文）**：Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://vilink.us/　语言：en-US　站点地图 URL 数：466
+- **标题**：-
+- **首页栏目**：Your cart (items: 0) / Products in cart
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 16、ethernet 4、10g 4、switch 3、industrial 3、gigabit 2、sfp 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：AOC-1M, DAC-1M, RS-232
+- **产品类页面**：https://vilink.us/shop/；https://vilink.us/hdmi-splitters-switches/；https://vilink.us/managed-ethernet-switches/；https://vilink.us/industrial-ethernet-switches/；https://vilink.us/industrial-ethernet-switch/；https://vilink.us/shop/
+- **已抓子页**：[Industrial Ethernet Switches -](https://vilink.us/industrial-ethernet-switch/)；[All Products -](https://vilink.us/vilink-solutions/)；[About Vi-Link -](https://vilink.us/about-vilink/)；[Shop -](https://vilink.us/shop/)；[Air Fiber -](https://vilink.us/air-fiber/)；[Mini Fiber Video -](https://vilink.us/mini-fiber-video/)
+- 首页正文摘录：Skip to content About Vi-Link all Products Sales Vi-Link Solutions Search Search 0 Your cart (items: 0) Products in cart Product Details Total Subtotal $0.00 Shipping and discounts calculated at checkout. View cart Go to checkout Your shopping cart is empty Return to shop Notifications
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 4、交换机 3 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-011.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

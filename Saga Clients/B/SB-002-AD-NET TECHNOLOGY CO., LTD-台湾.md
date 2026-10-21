@@ -22,6 +22,7 @@ last_contact: 2025-10-23
 p1: STI-110GE
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 20 次（2024-05-02 → 2025-10-23）；最近一次客户回复：2025-09-17：M12 Switch??
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-002.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ad-net.com.tw/　语言：en-US　站点地图 URL 数：357
+- **标题**：GEPON, Fiber Optic Media Converters, E1 converters, Taiwan
+- **描述**：Media converter, Ethernet converter, E1 converter, Fiber modem, Interface converter, SDH, PDH, Video Balun, TDM-IP, Protocol Converter, Video Over Fiber, TDM
+- **首页栏目**：Video Audio Transmission Equipment / FTTx access / Fiber Modules / Industrial Communication Products / Media Converters / Fiber Optical Multiplexers / Interface Converters / Passive Optical Equipment
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 366、switch 197、ethernet 175、industrial 117、cable 63、media converter 53、poe 51、sfp 45、fibre 30、10g 27、wireless 27、gigabit 26
+- **站内型号串**（正则抽取，含非交换机）：STM-1, RS422, IEEE802, RS-232, AN-IP-RS232-485, AN-STM-1, AN-226-X3X1, RS-485, AN-M-FE2005-I, RS232, AN-M-FE6026, AN-M-FE6016
+- **社媒**：https://twitter.com/ad_net, https://www.facebook.com/adnetTechnology, https://www.linkedin.com/company/ad-net-technology-co-ltd, https://www.youtube.com/user/sellerofsmiles
+- **产品类页面**：https://www.ad-net.com.tw/new-eos-series-products-are-ready/；https://www.ad-net.com.tw/ad-net-technology-co-ltd-starts-new-switch-series/；https://www.ad-net.com.tw/4-x-4-vga-switching-matrix-is-ready-to-ship/；https://www.ad-net.com.tw/networking-equipment-switches/；https://www.ad-net.com.tw/cut-store-forward-switching/；https://www.ad-net.com.tw/what-is-the-difference-between-an-ethernet-hub-and-switch/
+- **已抓子页**：[Industrial POE](https://www.ad-net.com.tw/product-category/switches/industrial-poe/)；[Industrial Ethernet Switches](https://www.ad-net.com.tw/product-category/industrial-communication-products/industrial-ethernet-switches/)；[Serial Device IP Networking](https://www.ad-net.com.tw/product-category/industrial-communication-products/serial-device-ip-networking/)；[Fiber Optical Switches](https://www.ad-net.com.tw/product-category/switches/fiber-optical-switches/)；[Fast Ethernet managed series](https://www.ad-net.com.tw/product-category/switches/fast-ethernet-managed-series/)；[Gigabit Ethernet managed series](https://www.ad-net.com.tw/product-category/switches/gigabit-ethernet-managed-series/)
+- 首页正文摘录：Contact Us About AD-net Blog Menu Home Products About Us Support Contact Us Blog Video Audio Transmission Equipment Video/Audio/Data signals transmitted securely over fiber Learn more FTTx access Full Solutions for Fiber To Home. Advanced, Features Rich OLT's, ONU's and more Learn more Fiber Modules SFP's, GBIC's, SFP+, XFP, Xenpac, all variety and datarates Learn more Industrial Communication Products Learn more Med
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 120、PoE 51 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-002.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

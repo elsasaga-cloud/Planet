@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-144GP
 price_tier: 25%
 research: done
+site_snapshot: timeout  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-144GP — 深挖对位：现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -104,6 +105,15 @@ updated: 2026-10-21
 - **风险/边界**：Mobese/港口/SCADA 多为公共/关键基础设施项目——守界：仅供商业楼宇/数据中心弱电部分；大型项目型公司，付款账期长
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档
 - **邮件切入句（英文）**：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+
+- 尝试域名：tbi.com.tr
+  > https://tbi.com.tr/ conn: HTTPSConnectionPool(host='tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPS
+  > https://www.tbi.com.tr/ conn: HTTPSConnectionPool(host='www.tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<H
+  > http://tbi.com.tr/ conn: HTTPConnectionPool(host='tbi.com.tr', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCon
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-159.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,6 +200,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

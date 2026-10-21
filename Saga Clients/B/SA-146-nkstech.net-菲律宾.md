@@ -25,6 +25,7 @@ last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -98,6 +99,20 @@ updated: 2026-10-21
 - **风险/边界**：变电站需 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC → 仅限非认证场景）；电力公共事业按个案守界；亚太非主攻区
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）
 - **邮件切入句（英文）**：Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://nkstech.net/　语言：未标　站点地图 URL 数：21
+- **标题**：Nayon Kontrol Systems
+- **首页栏目**：» Welcome to Nayon Kontrol Systems
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 23、scada 14、industrial 3、moxa 3、switch 1、fiber 1
+- **站内公开邮箱**：info@manilaetech.com, info@nks.ph, raulski@gmail.com, sales@manilaetech.com
+- **站内公开电话**：+632) 351-4181, +632) 364-1768, +632) 411-2337, +632) 514-6912, +632) 913-1347, +852) 9857-1406
+- **产品类页面**：http://www.nks.ph/products.php；http://www.nks.ph/products_scada.php；http://www.nks.ph/products_security.php；http://www.nks.ph/products_weather.php；http://www.nks.ph/products_gps.php；http://www.nks.ph/products_relays.php
+- **已抓子页**：[Nayon Kontrol Systems](https://nkstech.net/products.php)；[Nayon Kontrol Systems](https://nkstech.net/about.php)；[Nayon Kontrol Systems](https://nkstech.net/contact.php)；[Nayon Kontrol Systems](https://nkstech.net/partners.php)
+- 首页正文摘录：» Welcome to Nayon Kontrol Systems Nayon Kontrol Systems was established in 1996 as a technology-based company, providing smart solutions for SCADA and automation systems for electric utilities and other industries. The company focuses on system design, integration, and engineered automation solutions; utilizing value engineering concepts such as rational logic and functional analysis, in preserving or improving basi
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 22、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-146.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

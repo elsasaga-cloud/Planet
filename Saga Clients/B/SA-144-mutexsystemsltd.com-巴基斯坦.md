@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-08GE
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -85,6 +86,22 @@ updated: 2026-10-21
 - **风险/边界**：南亚非主攻区；主体与需求模糊；无互动
 - **Saga 对位结论**：P1 STC-08GE（25% 档）——默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）
 - **邮件切入句（英文）**：Hello Mutex team, you previously bought unmanaged Fast Ethernet switches; the gigabit 8-port equivalent is now $10.5 EXW and the 8-port PoE version $24.2 — what quantity do your IT projects take per month?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://mutexsystemsltd.com/　语言：en-GB　站点地图 URL 数：49
+- **标题**：Software, AI & Cybersecurity Engineering / Mutex Systems
+- **描述**：Mutex Systems is a UK technology company delivering software development, AI, cybersecurity, cloud DevOps, and hardware engineering for enterprises worldwide.
+- **首页栏目**：Build. Secure. Automate. Deploy. Scale. / Request Free Consultation / Trusted by leading organizations / Five Pillars. Fully Interconnected. / Five Interconnected Capability Sets / Software Development / AI, Agentic Systems & Automation / Cybersecurity
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 65、industrial 19、telecom 8、access control 4、scada 2、ethernet 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：STM32, IPC-A-610, ESP32, SC-200, SC-100, ATECC608, SE050
+- **站内公开邮箱**：info@mutexsystems.com, you@company.com
+- **站内公开电话**：+92 333 348 6887
+- **社媒**：https://wa.me/447879176519, https://www.facebook.com/mutexsystemspk/, https://www.instagram.com/mutexsystemspvtltd/, https://www.linkedin.com/company/mutex-systems-pk/, https://www.youtube.com/@mutexsystemsltd, https://x.com/mutex_systems
+- **已抓子页**：[About Us — UK Software, AI & Cybersecurity / Mutex Systems](https://mutexsystemsltd.com/about)；[Contact Us — One Working Day Response / Mutex Systems](https://mutexsystemsltd.com/contact)；[Hardware Manufacturing & IoT Services — Embedded, PCB, POS &](https://mutexsystemsltd.com/services/hardware-manufacturing)；[Services — Software, AI & Cybersecurity / Mutex Systems](https://mutexsystemsltd.com/services)；[Cloud & DevOps Services — AWS, Azure, GCP, Kubernetes & SRE ](https://mutexsystemsltd.com/services/cloud-devops)；[AI Automation & Agentic AI Development / Mutex Systems](https://mutexsystemsltd.com/services/ai-automation)
+- 首页正文摘录：Skip to main content Home About Services Products Industries Portfolio Contact Get Free Consultation Menu Home About Services Products Industries Portfolio Contact Get Free Consultation Talk to us WhatsApp: 07879 176519 Live chat — 24/7, 365 days UK Headquartered · Pakistan Regional Office Build. Secure. Automate. Deploy. Scale. Mutex Systems helps businesses develop secure applications, integrate AI automation, and 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 26、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-144.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

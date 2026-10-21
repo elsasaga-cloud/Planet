@@ -24,6 +24,7 @@ last_contact: 2024-12-11
 p1: STC-448XGGM(L3)
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -113,6 +114,24 @@ updated: 2026-10-21
 - **风险/边界**：数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位；新加坡人工贵、单量小
 - **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货
 - **邮件切入句（英文）**：For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://resonantnetworks.com/　语言：en-US　站点地图 URL 数：8
+- **标题**：Resonant Networks / We Build the Earth's Digital Connectivity
+- **描述**：Resonant Networks is the trusted name in optical connectivity, delivering ultra-fast, scalable digital infrastructure across Asia Pacific since 2013.
+- **首页栏目**：We build the Earth's digital connectivity in Asia Pacific. / ADC Subsea Cable System / AAE-1 Subsea Cable System / An Experienced and Passionate Team / AI-Ready in Data Centre Solution / Future Now: / Photonic Compute and DWDM network with PQC and QKD / R ~ Nets is here for you to:
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fibre 12、cable 7、switch 3、telecom 3、sfp 2、ethernet 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AAE-1
+- **站内公开邮箱**：11101110@resonantnetworks.com
+- **站内公开电话**：+65 6871 4128
+- **社媒**：https://www.linkedin.com/company/resonant-networks-pte-ltd/
+- **产品类页面**：http://resonantnetworks.com/products/
+- **已抓子页**：[Our Products / Resonant Networks](https://resonantnetworks.com/products/)；[About Resonant Networks](https://resonantnetworks.com/about-us/)；[Contact Resonant Networks](https://resonantnetworks.com/contact-us/)；[Our Services / Resonant Networks](https://resonantnetworks.com/our-services/)
+- 首页正文摘录：Skip to content R ~ Nets Resonant Networks Pte Ltd Home About Us Services Products Careers Contact us Home About Us Services Products Careers Contact us Home About Us Services Products Careers Contact us We build the Earth's digital connectivity in Asia Pacific. Resonant Networks has been building optical networks since year 2013 from metro, backhaul to submarine cable networks. ADC Subsea Cable System We have extens
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 3、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-006.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

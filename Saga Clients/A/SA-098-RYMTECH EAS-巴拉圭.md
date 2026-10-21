@@ -24,6 +24,7 @@ last_contact: 2025-10-06
 p1: none
 price_tier: 25%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-10-06）；最近一次客户回复：2025-01-02：问了高速的 后续没进展了
 - **P1（下一步唯一主推）**：— — 深挖对位：需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -98,6 +99,15 @@ updated: 2026-10-21
 - **风险/边界**：12 光 12 电非标准型谱；巴拉圭物流/付款；**守界风险**：自述服务军事网络司令部/情报机构 + 政府招标供应商（INH：military / public-sector 守界）；设备最终用途不明。默认：暂留 A、下一封邮件先确认用途与收货主体，若为军/情报/政府项目 → 转 B 并停止报价（见 Q-31）
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报
 - **邮件切入句（英文）**：For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：rym-tech.net
+  > https://rym-tech.net/ http 403 ct=text/html; charset=utf-8
+  > https://www.rym-tech.net/ http 403 ct=text/html; charset=utf-8
+  > http://rym-tech.net/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-098.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -201,6 +211,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

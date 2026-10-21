@@ -24,6 +24,7 @@ last_contact: unknown
 p1: none
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -77,6 +78,20 @@ updated: 2026-10-21
 - **风险/边界**：大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）
 - **邮件切入句（英文）**：Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://telconet.net/　语言：es-co　站点地图 URL 数：0
+- **标题**：Inicio - Telconet Latam - Transforma tu compañía con Inteligencia Artificial
+- **描述**：Telconet soluciones en Inteligencia Artificial, Cloud, Colaboración, Movilidad, Seguridad Electrónica, Ciberseguridad y Network
+- **首页栏目**：Telconet Latam / Últimas noticias del Blog / Links Importantes / Contacto en Paises
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 28、cctv 18、cable 6、telecom 2
+- **站内公开邮箱**：info@telconet.com.co, info@telconet.com.pa, info@telconet.ec
+- **站内公开电话**：+507 380 3626, +57 311 539 3687, +593 2 39 22 000, +593 4 39 22 000
+- **社媒**：https://twitter.com/telconetlatam, https://www.facebook.com/telconetlatam, https://www.linkedin.com/company/telconet/, https://www.youtube.com/telconetlatam
+- **已抓子页**：[Network Solutions - Telconet Latam - Transforma tu compañía ](https://telconet.net/managedsolutions/network)；[Terra Scan - Telconet Latam - Transforma tu compañía con Int](https://telconet.net/managedsolutions/network/terra-scan)；[LAN Analysis - Telconet Latam - Transforma tu compañía con I](https://telconet.net/managedsolutions/network/lan-analysis)；[Network Support - Telconet Latam - Transforma tu compañía co](https://telconet.net/managedsolutions/network/network-support)；[CCTV - Telconet Latam - Transforma tu compañía con Inteligen](https://telconet.net/managedsolutions/electronic-security/cctv)；[Structured Cabling - Telconet Latam - Transforma tu compañía](https://telconet.net/managedsolutions/network/structured-cabling)
+- 首页正文摘录：+593 4 39 22 000 / +593 2 39 22 000 info@telconet.ec Holding Telconet Sobre Nosotros Portafolio de Soluciones Misión, Visión y Propósito Nuestra Trayectoria Certificaciones / Reconocimientos Competitividad Responsabilidad Social Empresarial Cobertura Wifi Alcaldía de Guayaquil POLITICAS & COMPLIANCE Valores Corporativos Política de Calidad Responsabilidades y Autoridades del SGC Política de Seguridad de la Informació
+- 数据文件：`data/saga_clients/site_snapshots/SB-046.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

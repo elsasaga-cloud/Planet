@@ -25,6 +25,7 @@ last_contact: 2025-10-22
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -77,6 +78,18 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。
 - 备注：复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sipe-corse.fr/　语言：fr-FR　站点地图 URL 数：19
+- **标题**：SIPE Corse – Société Insulaire de Protection Electronique
+- **描述**：Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes Téléphone 04 95 20 95 94
+- **首页栏目**：Depuis 40 ans à Ajaccio / au service de la sécurité des biens et des personnes / NOS SERVICES / VIDéo surveillance / alarme intrusion / contrôle d’accès / AUTOMATISME / PORTIQUE ANTIVOL
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 51、installer 1
+- **社媒**：https://www.instagram.com/sipe_corse, https://www.linkedin.com/company/societe-insulaire-de-protection-electronique/
+- **已抓子页**：[Contact – SIPE Corse](https://sipe-corse.fr/contact/)；[Services – SIPE Corse](https://sipe-corse.fr/services/)；[Automatisme – SIPE Corse](https://sipe-corse.fr/services/automatisme/)；[Contrôle d’accès – SIPE Corse](https://sipe-corse.fr/services/controle-acces/)；[Alarme Intrusion – SIPE Corse](https://sipe-corse.fr/services/alarme-intrusion/)；[Portique antivol – SIPE Corse](https://sipe-corse.fr/services/portique-antivol/)
+- 首页正文摘录：Passer au contenu Toggle Navigation HOME Nos services Alarme Intrusion VidéoSurveillance Contrôle d’accès Automatisme Portique antivol Nos Réalisations Actualité à Propos Toggle Navigation Services Alarme Intrusion VidéoSurveillance Contrôle d’accès Automatisme Portique antivol Nos Réalisations Actualités à Propos Contact Contact SIPE @dmin 2024-07-23T09:17:58+02:00 Depuis 40 ans à Ajaccio au service de la sécurité d
+- 数据文件：`data/saga_clients/site_snapshots/SA-085.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

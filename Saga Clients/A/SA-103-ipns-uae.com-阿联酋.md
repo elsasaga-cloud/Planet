@@ -24,6 +24,7 @@ last_contact: 2025-10-22
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：推送 11 次（2024-11-12 → 2025-10-22）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -115,6 +116,15 @@ updated: 2026-10-21
 - **风险/边界**：ADMCC 项目可能指定品牌；N-Net 在用
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档
 - **邮件切入句（英文）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：ipns-uae.com
+  > https://ipns-uae.com/ http 403 ct=text/html; charset=utf-8
+  > https://www.ipns-uae.com/ http 403 ct=text/html; charset=utf-8
+  > http://ipns-uae.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-103.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -212,6 +222,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

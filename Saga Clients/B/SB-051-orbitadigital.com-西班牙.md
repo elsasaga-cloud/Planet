@@ -22,6 +22,7 @@ last_contact: 2025-11-06
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-06-19 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-051.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.orbitadigital.com/en/　语言：en-US　站点地图 URL 数：0
+- **标题**：A digital world in your hands
+- **描述**：Distributors and importers of telecommunications products, networks, fiber optics, multimedia, hdmi .. of the main brands in the market triax, televes, ikusi, Skykware, Vu+, Gigablue, Kathrein, Cabelcon, Ferguson
+- **首页栏目**：Dahua TPC-HT2201 Dahua portable thermographic camera for body… / Implaser EX222N No exit sign 29.7x15cm / CN-M6 - Screws, Rack mountable, Metric M6, 10 units, Nut,… / Hikvision intercom DS-KD-MFB/S Video intercom extension... / Ubiquiti UACC-CABLE-PATCH-EL-C6A-2M-W Premium, Cat 6A,... / Queen Alarm QAR-203 Lateral magnetic contact of high power,... / Stereo sound cable without terminals 2 wires 5m / Fermax 8855 CIty S5 flush box
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 55、hikvision 42、cable 39、cctv 30、camera 26、poe 22、ethernet 21、sfp 20、industrial 15、wireless 15、dahua 14、oem 12
+- **站内出现的品牌**：Allied Telesis, Hikvision, Dahua, Ubiquiti, Ajax, Paradox, Axis, ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-2DF6C632IWG1-ELW, AT-IE340-12GP-80, AT-GS980MX, ESB74173303, IE340, RJ-45, WD10EARZ, UX7-3, UX7-2, ZK-FHT2300D, IPC-PU8EP-6T0-0280B-IMOU, IPC-PU5EP-6T0-0360B-IMOU
+- **站内公开邮箱**：info@orbitadigital.com, your@email.com
+- **站内公开电话**：+34 644 409 003, +34 910 052 331, +34 931 702 776, +34 985 288 282, +34) 910 052 331, +34) 931 702 776
+- **社媒**：http://www.youtube.com/user/CanalOrbitaDigital, https://twitter.com/OrbitaDigitalES, https://twitter.com/intent/tweet?text=Allied+telesis+AT-GS980MX%2F28-50+L3+Stackable+Switch%2C+24x+10%2F100%2F1000-T%2C+4x+SFP%2B+Ports https%3A%2F%2Fwww.orbitadigital.com%2Fen%2Fcctv-accessories%2Fip-solutions%2F86468-at-gs980mx-28-50.html, https://twitter.com/intent/tweet?text=Allied+telesis+AT-IE340-12GP-80+L3+Industrial+Ethernet+Switch%2C+8x+10%2F100%2F1000-T+PoE%2B%2C+4x+SFP+Ports https%3A%2F%2Fwww.orbitadigital.com%2Fen%2Fcctv-accessories%2Fip-solutions%2F86470-at-ie340-12gp-80.html, https://twitter.com/intent/tweet?text=Hikvision+DS-2DF6C632IWG1-ELW%28O-STD%29+DF6C+Series+6MP+32X+Powered+by+DarkFighter+IR+Network+Speed+Dome https%3A%2F%2Fwww.orbitadigital.com%2Fen%2Fcctv-ip%2Fip-cameras%2Fptz-motorized-domes%2F86471-ds-2df6c632iwg1-elwo-std.html, https://wa.me/34644409003
+- **已抓子页**：[Hikvision DS-2DF6C632IWG1-ELW(O-STD) DF6C Series 6MP 32X Pow](https://www.orbitadigital.com/en/cctv-ip/ip-cameras/ptz-motorized-domes/86471-ds-2df6c632iwg1-elwo-std.html)；[Allied telesis AT-IE340-12GP-80 L3 Industrial Ethernet Switc](https://www.orbitadigital.com/en/cctv-accessories/ip-solutions/86470-at-ie340-12gp-80.html)；[Allied telesis AT-GS980MX/28-50 L3 Stackable Switch, 24x 10/](https://www.orbitadigital.com/en/cctv-accessories/ip-solutions/86468-at-gs980mx-28-50.html)；[home](https://www.orbitadigital.com/en/1-home)；[New products](https://www.orbitadigital.com/en/new-products)；[Brands](https://www.orbitadigital.com/en/brands)
+- 首页正文摘录：Call us now: 910 052 331 · 931 702 776 - WhatsApp +34 644 409 003 English English English Français Español Português Contact us short_text Contact form mail Email info@orbitadigital.com phone Asturias +34 985 288 282 phone Madrid +34 910 052 331 phone Barcelona +34 931 702 776 message WhatsApp +34 644 409 003 See all forms of contact  Search person Sign in 0 Shopping Cart €0.00 Toggle navigation ☰ home Secure paymen
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 20、PoE 22 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-051.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +166,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

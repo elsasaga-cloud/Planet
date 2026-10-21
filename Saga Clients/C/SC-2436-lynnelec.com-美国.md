@@ -22,6 +22,7 @@ last_contact: 2023-10-16
 p1: STI-110GE
 price_tier: 20%
 research: pending
+site_snapshot: none
 sources: 2
 updated: 2026-10-21
 ```

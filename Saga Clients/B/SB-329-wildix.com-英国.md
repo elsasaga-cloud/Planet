@@ -22,6 +22,7 @@ last_contact: 2025-11-05
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: none
 sources: 1
 updated: 2026-10-21
 ```

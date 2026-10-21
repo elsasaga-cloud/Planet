@@ -24,6 +24,7 @@ last_contact: 2026-01-23
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -105,6 +106,20 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯结算/制裁合规由客户侧；Microsens 级客户对功能（环网/管理）要求高；铁路/能源项目为其 Microsens 主场——只对位 Entry Line 通用工业机，不参与铁路（EN50155）与能源站级项目
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档
 - **邮件切入句（英文）**：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ccs-msk.ru/　语言：未标　站点地图 URL 数：253
+- **标题**：CCS - Lenovo, Microsens, Sumitomo, Tyco, Emcore, OCulink, FDR, CXP, HD mSAS, SFP, QSFP, кабели SAS II, кабели SAS III, кабели mSAS, кабели SAS, infiniband, dire
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 47、cable 18、10g 13、ethernet 11、gigabit 8、poe 5、switch 3、fiber 3、cisco 2、industrial 1
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, DB720S, DM5100F, MS400890MX, SFP28, MS650869M-B, SFF8088, SFF8470, SFF8087, MS655200, MS100200, MS100210
+- **站内公开邮箱**：sales@ccs-msk.ru
+- **产品类页面**：http://silversite.ru/catalog；http://silversite.ru/news/new_rack_10Gswitch；http://silversite.ru/news/new_poe；http://silversite.ru/news/new_industrial；http://silversite.ru/catalog/brocade；http://silversite.ru/catalog/lenovo
+- **已抓子页**：[CCS - Стоечный промышленный 25 портовый Gigabit Ethernet ком](https://www.ccs-msk.ru/catalog/microsens/industrial_ethernet/gigabit_switches/MS400890MX)；[CCS - Контакты](https://www.ccs-msk.ru/contacts)；[CCS - Активные оптические кабели](https://www.ccs-msk.ru/catalog/emcore_fiber_optics)；[CCS - Новый стоечный 10G промышленный коммутатор MICROSENS](https://www.ccs-msk.ru/news/new_rack_10Gswitch)；[CCS - БП на 48VDC](https://www.ccs-msk.ru/news/48VDC)；[CCS - О компании](https://www.ccs-msk.ru/about)
+- 首页正文摘录：Ваше имя: Ваш контактный телефон: (495) 926-86-95 (963) 763-88-43 заказать обратный звонок В корзине 0 товар(ов) на сумму 0.00 Главная РАСПРОДАЖА Оборудование BROCADE Сервера и СХД Lenovo MICROSENS LR-LINK SUMITOMO HDmSAS, HDSAS кабели OCulink cables Spacewire cables 100G QSFP28 mSAS/SAS/INFINIBAND кабели Оптические трансиверы Активные оптические кабели 10G SFP+ кабели QSFP кабели Решения FTTO FTTO против СКС Медицин
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 13、交换机 3 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-116.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

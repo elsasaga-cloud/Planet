@@ -24,6 +24,7 @@ last_contact: 2025-12-29
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -102,6 +103,23 @@ updated: 2026-10-21
 - **风险/边界**：矿业场景可能要求更高防护/认证；智利不在主攻区；西语资料
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——网店在售 8 PoE + 2 SFP 管理型工业机 ≈US$390 零售；STI-288DGGPM EXW 对位 + STI-144GP（4+1）替其 4 口管理 + FO 位；工业/矿业方案商 25% 档
 - **邮件切入句（英文）**：Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the Marvell-based equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://energyplusystems.cl/　语言：es-CL　站点地图 URL 数：13
+- **标题**：Energyplus - Tecnología para la minería e industria
+- **描述**：Equipos, servicios y asesoría técnica especializada para los proyectos mas exigentes del sector minero e industrial.
+- **首页栏目**：Tecnología para la minería e industria / Catálogo / Somos Enrgyplus Systems / Ventas / Home
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 97、industrial 42、switch 39、telecom 28、ethernet 27、automation 12、wifi 12、poe 5、sfp 3
+- **站内型号串**（正则抽取，含非交换机）：HT239
+- **站内公开邮箱**：ventas@energyplusystems.cl
+- **站内公开电话**：+56 9 9218 8218
+- **社媒**：http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Alzador%20Hidr%C3%A1ulico%20Power-Works, http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Embutido%20Clase%2025KV%20Victor, http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Volante%20Clase%2025KV%20Victor, http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Splitters%20Mineros%20Para%20Acople%20de%20Enchufes%20de%20Media%20Tensi%C3%B3n
+- **产品类页面**：https://energyplusystems.cl/catalogo/cables-mineros-y-de-potencia/；https://energyplusystems.cl/catalogo/transformadores/；https://energyplusystems.cl/catalogo/instrumentos-de-medicion/；https://energyplusystems.cl/catalogo/equipos-electricos/；https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/；https://energyplusystems.cl/catalogo/telcom-networking/
+- **已抓子页**：[Switch Industriales - Energyplus](https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-industriales/)；[Catálogo de productos – Energyplus](https://energyplusystems.cl/catalogo-de-productos/)；[Catálogo de productos – Energyplus](https://energyplusystems.cl/catalogo-de-productos/)；[Switch Ethernet - Energyplus](https://energyplusystems.cl/catalogo/iot-control-y-automatizacion/switch-ethernet/)；[Splitters Mineros Para Acople de Enchufes de Media Tensión -](https://energyplusystems.cl/producto/splitters-mineros/)；[Enchufe Minero Volante Clase 25KV Victor - Energyplus](https://energyplusystems.cl/producto/enchufe-minero-volante-clase-25kv/)
+- 首页正文摘录：Estamos en: 6 1/2 oriente #270 - Viña del Mar / Fono: +56 9 9218 8218 Home Catálogo Equipos eléctricos IoT Control y automatización Telcom Networking Inteligencia artificial Transformadores Instrumentos de medición Cables mineros y de potencia Todos Variadores de frecuencia Agenda Contacto Home Catálogo Equipos eléctricos IoT Control y automatización Telcom Networking Inteligencia artificial Transformadores Instrumen
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 47、PoE 5 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-069.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

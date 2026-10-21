@@ -24,6 +24,7 @@ last_contact: 2025-10-31
 p1: STC-448XGGMO
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -100,6 +101,20 @@ updated: 2026-10-21
 - **风险/边界**：US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活
 - **Saga 对位结论**：P1 STC-448XGGMO（25% 档）——运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM
 - **邮件切入句（英文）**：For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.broadstar.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：Home - Broadstar
+- **描述**：BOUTIQUE FIBER INTERNET, TV & PHONE FOR COMMUNITIES. Dedicated fiber to every unit. Dedicated service to every resident. Trusted by communities across Florida for over 40 years. Fiber Internet with a Team that Knows Your Name.
+- **首页栏目**：BOUTIQUE FIBER INTERNET, TV & PHONE FOR COMMUNITIES / Fiber Internet with a Team that Knows Your Name. / THE PROBLEM / Your Residents Deserve Better Than Big Cable. / THE BROADSTAR ADVANTAGE / A Better Model. Built Around Your Community. / Dedicated Fiber (AON) / Dedicated On-Site Technician
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 83、cable 10、wifi 4、switch 2、10g 2、ethernet 1、camera 1、data center 1
+- **站内公开邮箱**：customerservice@broadstar.com, sales@broadstar.com
+- **社媒**：https://www.facebook.com/BroadStar, https://www.linkedin.com/company/broadstar-communications
+- **已抓子页**：[About Us - Broadstar](https://www.broadstar.com/about-us/)；[Contact BroadStar](https://www.broadstar.com/contact-us/)；[Bulk Fiber Internet for Communities - Broadstar](https://www.broadstar.com/fiif/)；[Fiber to the Home - Broadstar](https://www.broadstar.com/fiber/)；[Bulk Fiber Internet Request - Broadstar](https://www.broadstar.com/get-bulk-fiber/)；[Dedicated Fiber to Every Unit (AON) - Broadstar](https://www.broadstar.com/dedicatedfiber/)
+- 首页正文摘录：Skip to content Skip to content Menu Close sales@broadstar.com GET BULK INTERNET Search for: Home Fiber Benefits Services Bulk Fiber Internet BroadStreamTV BroadStar Support Vacation Hold Request Form Community Channel Find Your Community Page About Us Contact ACCOUNT Search for: Menu sales@broadstar.com Search for: Home Fiber Benefits Services Bulk Fiber Internet BroadStreamTV BroadStar Support Vacation Hold Request
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-066.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

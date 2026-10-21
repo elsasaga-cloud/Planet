@@ -25,6 +25,7 @@ last_contact: 2025-06-21
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -67,6 +68,21 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。
 - 备注：WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.a-ites.com/　语言：en　站点地图 URL 数：18
+- **标题**：A ITES / Be Sure. Be Safe. Be Secured.
+- **首页栏目**：a brief OVERVIEW / What We Do / Understanding the client’s requirements / Why Choose Us? / Our Clients
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 14、camera 11、automation 5、switch 3、cable 3、poe 1、industrial 1、cctv 1、nvr 1、wireless 1、telecom 1、planet 1
+- **站内出现的品牌**：Ubiquiti, PLANET, Axis, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：aaryaites@gmail.com, info@a-ites.com
+- **站内公开电话**：+91 79 489 95206, +91 98250 95206
+- **社媒**：https://in.linkedin.com/company/aarya-ites-pvt-ltd-
+- **已抓子页**：[IT & Network Solutions / A ITES](https://www.a-ites.com/solutions/it-network-solutions/)；[IT & Network Solutions / A ITES](https://www.a-ites.com/solutions/it-network-solutions/)；[About / A ITES](https://www.a-ites.com/about/)；[Contact / A ITES](https://www.a-ites.com/contact/)；[Solutions / A ITES](https://www.a-ites.com/solutions/)；[IP Video Surveillance / A ITES](https://www.a-ites.com/solutions/ip-video-surveillance/)
+- 首页正文摘录：Home About Solutions Smart Highway Solutions Command & Control Centre IT & Network Solutions IP Video Surveillance Entry Control & Monitoring Fire Alarm & Voice Evacuation System Unified Communication Emergency Call Box (ECB) Integrated Software Solutions Certificates Investor Relation Annual Return Contact Select Page Home Smart Highway Command and control IT IP Entry Fire UCS ECB ISS Solutions We Offer Contact Us a
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-136.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

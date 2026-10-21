@@ -25,6 +25,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -99,6 +100,22 @@ updated: 2026-10-21
 - **风险/边界**：ISAF 态度平淡（拿目录即走）；火灾探测线守界；大客户采购比价
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$151.6）配其门禁/环境监测/CCTV 柜（EDS 标）；商用 STC-424DGGPM-280W（$145.7）；历史采购型号待 Simon 从邮箱补
 - **邮件切入句（英文）**：Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.eds.com.tr/　语言：tr　站点地图 URL 数：628
+- **标题**：Güvenlik Elektronik Sistemleri Üreticisi
+- **描述**：EDS Elektronik 1990 yılından beri Türkiye'nin öncü Güvenlik Elektronik Üreticisidir. Hırsız Alarm, Yangın Algılama, Ortam İzleme, IOT, Kablosuz, Hemşire Çağrı, İpli Çağrı, Anons, Erişim Kontrol, Güç Kaynağı, Siren
+- **首页栏目**：Yangın Algılama / Hırsız Alarm / Gaz Algılama / Ortam İzleme / Güç Kaynakları / Geçiş Kontrol / Çağrı & Sesli Uyarı / Markalar / Distribütörlükler
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 5
+- **站内型号串**（正则抽取，含非交换机）：EN54-4
+- **站内公开邮箱**：eds@eds.com.tr
+- **站内公开电话**：+90 505 173 87 51, +90 505 182 50 31, +90 543 332 60 83
+- **社媒**：https://instagram.com/Eds.elektronik/, https://twitter.com/edselektronik/, https://www.facebook.com/eds.elektronik/, https://www.linkedin.com/company/5394404/, https://www.youtube.com/channel/UCBowWYlKE4AzVUyRjRvbUag
+- **产品类页面**：https://www.eds.com.tr/kataloglar/；https://www.eds.com.tr/blog/eds-elektronik-firmasinin-yetkili-distributorlugunu-yaptigi-hanwha-techwin-in-termal-kamera-urun-yelpazesine-dusuk-kare-hizli-kameralar-eklendi-1/；https://www.eds.com.tr/blog/yeni-urun-solidedge-pnv-a6081r-e1t-ve-pnv-a6081r-e2t-16/；https://www.eds.com.tr/blog/hanwha-vision-yeni-urun-5mp-ai-ir-duvar-montaj-kamera-20/；https://www.eds.com.tr/kategori/yardimci-urunler/；https://www.eds.com.tr/kategori/yardimci-urunler/
+- **已抓子页**：[Yardımcı Ürünler](https://www.eds.com.tr/kategori/yardimci-urunler-192/)；[Markalar](https://www.eds.com.tr/markalar/)；[İletişim](https://www.eds.com.tr/iletisim/)；[Kataloglar](https://www.eds.com.tr/kataloglar/)
+- 首页正文摘录：Teknik Destek Eğitim / Seminer Blog TR EN Bayi Portal Ürünler Yangın Algılama Adreslenebilir Sistemler Konvansiyonel Sistemler Güç Kaynakları Aksesuarlar Hırsız Alarm Kablosuz Sistemler Kablolu Sistemler Gaz Algılama Adreslenebilir Sistemler LPG Algılama Sistemleri Bağımsız Gaz Dedektörleri Ortam İzleme Ortam İzleme Panelleri Ortam İzleme Sensörleri Ortam İzleme Modülleri Güç Kaynakları Güç Kaynakları Aküler Adaptörl
+- 数据文件：`data/saga_clients/site_snapshots/SB-336.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

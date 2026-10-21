@@ -24,6 +24,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -104,6 +105,13 @@ updated: 2026-10-21
 - **风险/边界**：语言障碍（CEO 英语一般）；保加利亚非主动开拓市场；15 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机
 - **邮件切入句（英文）**：Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://kassabasystems.com/__superjs/challenge?u=%2F　语言：未标　站点地图 URL 数：1952
+- **标题**：SuperJS check
+- **产品类页面**：https://www.kassabasystems.com/trx-4m35aw-poe-2-8-2-8mm-shirokoagalna-ip-poe-full-color-4mpx-bulet-kamera-s-vgraden-mikrofon-i-tsvetno-izobrazhenie-prez-noshtta；https://www.kassabasystems.com/2ip4b-poe-ip-tsifrov-komplekt-s-2br-poe-kameri-4mpx-dual-light-s-mikrofon-i-tsvetno-noshtno-vizhdane-4k-10-kanalen-nvr-i-poe-suich；https://www.kassabasystems.com/4mpx-poe-ip-komplekt-s-4-kameri-i-nvr；https://www.kassabasystems.com/trx-4980dl8a-poe-8mpx-4k-star-light-poe-ip-kamera-za-vanshen-montazh-s-mikrofon-i-tsvetno-noshtno-izobrazhenie；https://www.kassabasystems.com/vanshna-ip-camera-s-mikrofon-4megapiksela-TRX-4B40ADL-POE-2.8；https://www.kassabasystems.com/ip-kamera-trx-3032mpx20-poe
+- 数据文件：`data/saga_clients/site_snapshots/SB-057.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

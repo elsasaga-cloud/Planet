@@ -24,6 +24,7 @@ last_contact: 2025-03-03
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -97,6 +98,22 @@ updated: 2026-10-21
 - **风险/边界**：ITS 公共项目：NEMA TS2 + UL + Buy America 是硬门槛，Saga 工业机无 NEMA/UL——只能供其非公共/测试或 MC/bypass 等配套；Bypass 光口与 L3 10G 工业机不在 Saga 标准型谱，需 SmartByte 定制评估
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——HN 主力为 10G L3 加固机（Saga 无直接对位，需 SmartByte 核型）；可供的是其环网末端 8 口 PoE DIN（STI-288DGGPM，支持 bt 摄像机需核功率）与工业 MC（STI-110GE）；贴 HN 标 30% 档
 - **邮件切入句（英文）**：Below the HN-8012-24 class core units, the 8-port gigabit PoE DIN switch and the gigabit media converter are the two edge pieces we can build in Hardened Networks packing, so I am quoting those rather than the 10G L3 platform for now.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://hardenednetworks.com/　语言：en-US　站点地图 URL 数：10
+- **标题**：Home - Hardened Networks
+- **描述**：Learn More Checkout Our Products Checkout Our Products Learn More About Us Learn More About Us Learn More About Us Technical Support
+- **首页栏目**：Network Connections You Can Trust / Discover Our Latest Product / Advanced Imagers Series AIS-8300 / Our Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 23、2.5g 12、10g 7、switch 4、camera 3、poe 2、fiber 1、ethernet 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SHA-256, FIPS-197, AES-256, HN-AIS-8300, HN-8012-24, HN-8042, AIS-8300, HN-8004-16, HN-3488, HN-3416
+- **站内公开邮箱**：sales@expresssupply.net
+- **产品类页面**：https://hardenednetworks.com/products/
+- **已抓子页**：[Products - Hardened Networks](https://hardenednetworks.com/products/)；[Contact Us - Hardened Networks](https://hardenednetworks.com/contact-us/)
+- 首页正文摘录：Skip to content Home Products Support Contact Us Search for: Home admin 2026-06-26T19:36:33+00:00 Network Connections You Can Trust Network Connections You Can Trust Discover Our Latest Product Advanced Imagers Series AIS-8300 The Advanced Imagers series delivers a new generation of stunning low-light, night color camera performance for the ITS/Traffic and Law Enforcement industries. Advanced engines, state-of-the-ar
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 19、交换机 4 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-040.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

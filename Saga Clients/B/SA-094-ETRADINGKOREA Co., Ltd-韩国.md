@@ -25,6 +25,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -75,6 +76,20 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。
 - 备注：重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://etradingkorea.com/　语言：ko　站点地图 URL 数：0
+- **标题**：ì´í¸ë ì´ë©ì½ë¦¬ì
+- **首页栏目**：ì´í¸ë ì´ë©ì½ë¦¬ì ì íìê° / ì´í¸ë ì´ë©ì½ë¦¬ì ë¤í¸ìí¬ ìë£¨ì 
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 18、10g 11、switch 9、poe 9、fiber 8、2.5g 7、sfp 5、cisco 3、industrial 2、ethernet 2、cable 2、media converter 1
+- **站内出现的品牌**：Cisco, Aruba, Fortinet, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ETK-4000B, ETK-5000B, ETK-5000R, ETK-2000B, ETK-5000, ETK-4200R-N842A-2C
+- **站内公开邮箱**：etkinc@etradingkorea.com, reesung.park@etradingkorea.com, woosy777@naver.com
+- **已抓子页**：[ì´í¸ë ì´ë©ì½ë¦¬ì](https://etradingkorea.com/sub/download/industrial_switch.asp)；[ì´í¸ë ì´ë©ì½ë¦¬ì](https://etradingkorea.com/sub/product/prd.asp?p_idx=263&s_cate=15)；[ì´í¸ë ì´ë©ì½ë¦¬ì](https://etradingkorea.com/sub/solution/cctv.asp)；[ì´í¸ë ì´ë©ì½ë¦¬ì](https://etradingkorea.com/sub/download/catalogue.asp)；[ì´í¸ë ì´ë©ì½ë¦¬ì](https://etradingkorea.com/sub/company/org.asp)；[ì´í¸ë ì´ë©ì½ë¦¬ì](https://etradingkorea.com/sub/company/vision.asp)
+- 首页正文摘录：ì¸ì¦ì/ìíì±ì ì ê´ë¦¬ììê² ì ê³µë°ì ë¹ë°ë²í¸ë¥¼ ì ë ¥í´ì£¼ì¸ì. íì¸ ëíì´ì¬ ì¸ì¬ë§ íì¬ ê°ì íì¬ ë¹ì  íì¬ ì°í ì¬ì ë¶ì¼ íì¬ ì¡°ì§ë ì¤ìë ê¸¸ PREMIUM ê´ ëª¨ë ë³´ì ê¸°ë¥ ì¤ìì¹ ì°ì ì© ì¤ìì¹ ì´ëë· ì¤ìì¹ ëë¡ê³µì¬ITSì¤ìì¹ ê´ ì»¨ë²í° ìë² ëì¹´ë ì¡°ë¬ë±ë¡ë¬¼í ë¤í¸ìí¬ ê³µì¬ìì¬ CCTV ìë£¨ì  ê³ ìëë¡ I
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 18、交换机 9 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-094.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

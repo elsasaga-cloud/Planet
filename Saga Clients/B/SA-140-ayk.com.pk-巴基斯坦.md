@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -107,6 +108,22 @@ updated: 2026-10-21
 - **风险/边界**：已有 PLANET 关系（品牌忠诚）；南亚非主攻区；巴基斯坦外汇；无互动记录
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）
 - **邮件切入句（英文）**：Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $139.9 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ayk.com.pk/　语言：en-US　站点地图 URL 数：91
+- **标题**：Ayk (Pvt.)Ltd.
+- **首页栏目**：WELCOME / Industrial Services / Power Transformers / Transmission Lines / CT Analyzer / Circuit Breaker Testing / Voltage Transformers / High Voltage (HV) Cables
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 29、ethernet 10、fiber 3、distributor 3、switch 2、industrial 2、10g 1、wireless 1、installer 1
+- **站内型号串**（正则抽取，含非交换机）：FSP200, OP5705XG, HVA200, HVA68TD, BA100, OP4512, SUN2000-115KTL-M2, C6-125KW-T12, S5-GC, ACT6000, CS90TV90E, TV220E
+- **站内公开邮箱**：info@ayk.com.pk
+- **站内公开电话**：+92-321-6456446, +92-55-3255800, +92-55-3822444, +92-55-3822444 2
+- **社媒**：https://www.facebook.com/www.ayk.com.pk/, https://www.linkedin.com/company/aykprivatelimited/posts/?feedView=all
+- **产品类页面**：https://ayk.com.pk/products/；https://ayk.com.pk/add-to-quote-product-list/；https://ayk.com.pk/product/multifunction-portable-signal-source-with-integrated-working-standard-of-power-and-energy-pte-2300/；https://ayk.com.pk/product/multifunction-hand-held-working-standard-of-power-and-energy-for-on-site-meter-testing-ws-2330/；https://ayk.com.pk/product/automated-equipment-for-electricity-meter-testing/；https://ayk.com.pk/product/vlf-high-voltage-test-set-with-tan-delta-diagnostics-and-arc-pre-location-hva68td/
+- **已抓子页**：[Ethernet Cable Testing – Ayk (Pvt.)Ltd.](https://ayk.com.pk/product-category/ethernet-cable-testing/)；[Products – Ayk (Pvt.)Ltd.](https://ayk.com.pk/products/)；[Anti-Theft Device – Ayk (Pvt.)Ltd.](https://ayk.com.pk/product-category/anti-theft-device/)；[Measuring Instruments – Ayk (Pvt.)Ltd.](https://ayk.com.pk/product-category/measuring-instruments/)；[Transformer Oil Testing – Ayk (Pvt.)Ltd.](https://ayk.com.pk/product-category/transformer-oil-testing/)；[Electrical Meter Testing – Ayk (Pvt.)Ltd.](https://ayk.com.pk/product-category/electrical-meter-testing/)
+- 首页正文摘录：Mobile +92-321-6456446 Phone +92-55-3255800 Fax +92-55-3822444 2nd Floor, U-Block, Trust Plaza, Opposite Standard Chartered Bank Model Town, Gujranwala, 52250, Pakistan. Send us a mail info@ayk.com.pk Get a quote Home EPC Our Company News About us Projects Partners Career Products Power Testing and Analysis Cable Testing and Diagnostics Underground Utility Locating Real-Time Hardware Testing Transformer Oil Testing M
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-140.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

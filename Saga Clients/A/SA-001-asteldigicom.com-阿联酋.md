@@ -24,6 +24,7 @@ last_contact: 2025-11-27
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -108,6 +109,22 @@ updated: 2026-10-21
 - **风险/边界**：其 AST 系列规格（8E2U2S、10G L3）是典型华南 ODM 公版，价格竞争激烈，需以 Marvell 芯片 + 一致性 + 交期取胜；阿联酋转口贸易，可能分销到伊朗等受限地区——仅按 UAE 本地项目报，守界
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核
 - **邮件切入句（英文）**：The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://asteldigicom.com/　语言：en　站点地图 URL 数：500
+- **标题**：Astel Digicom I House of all kinds of cables and connectors
+- **描述**：Looking forward to buying elevator cable or networking cable or fiber optic cable in Dubai? Astel Digicom provides all types of cables, connectors, splice machine, networking equipment. Order Now.
+- **首页栏目**：Tell us what you think / New Products / Best Sellers / Quick Links / Information / Address / Contact Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 439、fiber 264、poe 145、media converter 93、industrial 83、switch 80、sfp 63、ethernet 58、gigabit 38、telecom 31、10g 17、wireless 14
+- **站内型号串**（正则抽取，含非交换机）：RG500, IEEE802, AST-IMC-M-4E2U2S-PSE, AST-IMC-M-GB-8E2U2S-PSE, AST-IMC-PSU-48V-2, DR-120-48, AST-MC-14, SPL-802, CON-202E, AST-IMC-M-GB-4E2S-PSE, AST-IMC-10G-12E4S-SFP-O, AST-IMC-PSU-48V-5A
+- **站内公开邮箱**：asteldigicom@eim.ae
+- **站内公开电话**：+971-4 2523480, +971-4-2523470
+- **产品类页面**：https://asteldigicom.com/featured-products.html；https://asteldigicom.com/connectors/all-products.html；https://asteldigicom.com/fiber-optic/all-products.html；https://asteldigicom.com/networking-telecom/all-products.html；https://asteldigicom.com/power-supplies/all-products.html；https://asteldigicom.com/electrical-cables/all-products.html
+- **已抓子页**：[PoE Networking Devices – PoE Switches, Injectors & Accessori](https://asteldigicom.com/networking-telecom/poe-networking-devices.html)；[Industrial Media Converters and Switches – Rugged Networking](https://asteldigicom.com/networking-telecom/industrial-media-converters-and-switch.html)；[All products - Networking & Telecom](https://asteldigicom.com/networking-telecom/all-products.html)；[Fiber Optic Cables, Supplies, Accessories and Testing Equipm](https://asteldigicom.com/fiber-optic/all-products.html)；[Ethernet to Fiber Media Converters – E2F Fiber Optic](https://asteldigicom.com/fiber-optic/media-converters-ethernet-to-fiber-e2f.html)；[E2F-Ethernet to Fiber Single Mode Single Fiber 10/100](https://asteldigicom.com/e2f-ethernet-to-fiber-media-converter-gb-single-mode-single-fiber.-a.html)
+- 首页正文摘录：The store will not work correctly when cookies are disabled. X Tell us what you think Name Email Mobile How did you find us? Please Select Google Astel Intro email From another dealer, friend Existing customer Did you buy anything from Astel? Please Select Yes No Company Rate us Feedback Submit Skip to Content Sign In My Wish List My Cart Toggle Nav Search Search Advanced Search Search Menu Home Cable TV All Products
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 84、PoE 145 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-001.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

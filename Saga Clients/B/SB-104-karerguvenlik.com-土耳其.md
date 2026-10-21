@@ -22,6 +22,7 @@ last_contact: 2025-10-29
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +72,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-104.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://karerguvenlik.com/　语言：tr　站点地图 URL 数：604
+- **标题**：Karer Güvenlik Sistemleri
+- **描述**：Karer Güvenlik Sistemleri alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir...
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 35、switch 20、poe 15、cctv 9、ethernet 7、hikvision 7、10g 3、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：KR-S1718CFU-AP, SP01744, KR-S310CF-AP, SP01742, KR-S1710GU-AP, SP01743, KR-S306CF-AP, SP01741, HT-2421FNG, SP01681, SP01800, KR-B151-4W6-36F2263
+- **站内公开邮箱**：info@karerguvenlik.com
+- **产品类页面**：https://karerguvenlik.com/network-ekipmanlari/switchler；https://karerguvenlik.com/network-ekipmanlari/switchler/4-port；https://karerguvenlik.com/network-ekipmanlari/switchler/8-port；https://karerguvenlik.com/network-ekipmanlari/switchler/16-port；https://karerguvenlik.com/network-ekipmanlari/switchler/24-port；https://karerguvenlik.com/sarf-malzemeleri/donusturuculer/prd-aktif-poe-aparati
+- **已抓子页**：[Switchler](https://karerguvenlik.com/network-ekipmanlari/switchler)；[4 Port](https://karerguvenlik.com/network-ekipmanlari/switchler/4-port)；[8 Port](https://karerguvenlik.com/network-ekipmanlari/switchler/8-port)；[16 Port](https://karerguvenlik.com/network-ekipmanlari/switchler/16-port)；[24 Port](https://karerguvenlik.com/network-ekipmanlari/switchler/24-port)；[Network Ekipmanları](https://karerguvenlik.com/network-ekipmanlari)
+- 首页正文摘录：Alışveriş Sepetim × Sepetinizde ürün yok Alışverişe Devam Et Arama 0 Bayi Girişi Bayilik Oluştur Ürünler Kapı Kilitleri Kapı Kilitleri - Tümü Güç Kaynağı Anahtarlık Teknik Servis Ekipman Kartlı Sistemler Görüntülü Zil AHD Kameralar AHD Kameralar - Tümü Bullet Kasa Bullet Kasa - Tümü IRLED 2 Megapiksel IRLED 5 Megapiksel WARMLED 2 Megapiksel WARMLED 5 Megapiksel Panoramik Kasa Panoramik Kasa - Tümü WARMLED 5 Megapikse
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 3、交换机 20 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-104.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

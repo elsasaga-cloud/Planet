@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -93,6 +94,20 @@ updated: 2026-10-21
 - **风险/边界**：主体未核；配件 SKU 缺口；中东非主攻区
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32
 - **邮件切入句（英文）**：Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://greentechme.net/　语言：en-US　站点地图 URL 数：30
+- **标题**：greentechme.net
+- **首页栏目**：greentechme.net / FEATURED PRODUCTS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 85、fiber 17、media converter 14、ethernet 10、switch 8、cable 5、sfp 4、2.5g 1、camera 1、installer 1
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, NEPX201, NEPX101, NEPR-111, NTS-NIS4GP-9401-SF, NTS-NIS8G-88MSF4, NTS-NIS6GP-960WSF2, NTS-NSG-LC10, NTS-NIMC-211G-ST, NTS-NMC-202M, NTS-NMC-202S10, NMC101P
+- **站内公开邮箱**：sales@greentechme.net
+- **产品类页面**：https://greentechme.net/our-products/；https://greentechme.net/product/nts-nmg-lc-nts-nsg-lc10/；https://greentechme.net/product/nts-nimc-211g-st-sc-sf/；https://greentechme.net/product/nts-nis4gp-9401-sf/；https://greentechme.net/product/nts-nis6gp-960wsf2/；https://greentechme.net/product/nts-nis8g-88msf4/
+- **已抓子页**：[PoE Media Converter – greentechme.net](https://greentechme.net/product/poe-media-converter/)；[NEPX201 PoE extender – greentechme.net](https://greentechme.net/product/nepx201-poe-extender/)；[NEPX101 PoE extender – greentechme.net](https://greentechme.net/product/nepx101-poe-extender/)；[NEPR-111 PoE Repeater – greentechme.net](https://greentechme.net/product/nepr-111-poe-repeater/)；[Our Products – greentechme.net](https://greentechme.net/our-products/)；[NTS-NIS8G-88MSF4 – greentechme.net](https://greentechme.net/product/nts-nis8g-88msf4/)
+- 首页正文摘录：sales@greentechme.net My Account greentechme.net All Categories ELECTRONICS Search Wishlist ( 0 ) Menu Home Our Products About Us Clients Contact www.greentechme.net www.greentechme.net www.greentechme.net www.greentechme.net www.greentechme.net FEATURED PRODUCTS Quick View Add Wishlist View Wishlist Browse Wishlist PoE Media Converter Quick View Add Wishlist View Wishlist Browse Wishlist NEPX201 PoE extender Quick V
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 85、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-032.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

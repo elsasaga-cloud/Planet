@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-144GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -96,6 +97,18 @@ updated: 2026-10-21
 - **风险/边界**：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）
 - **邮件切入句（英文）**：Rob, following the PoE media converters you bought: for yacht networks we now have a compact DIN-rail 4× GbE PoE + SFP industrial switch at $35.5 EXW (−40/+75 °C, 12–48 V DC input) — are your installs still converter-based, or would a fanless PoE switch per deck fit better?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.prestigevsat.com/　语言：en　站点地图 URL 数：8
+- **标题**：Prestigevsat.com / Yacht VSAT / Prestige Satellite Communications
+- **描述**：We specialize in providing quality Yacht VSAT, TVRO, and IT services to luxury vessels. Our team has over 30 years industry experience. VSAT / Prestige Satellite Communications Inc.
+- **首页栏目**：Maritime Managed Services
+- **站内公开邮箱**：605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, rob@prestigevsat.com, will@prestigevsat.com
+- **站内公开电话**：+1 (954) 682-7616
+- **已抓子页**：[CONTACT / prestigevsat](https://www.prestigevsat.com/contact)；[ABOUT US / prestigevsat](https://www.prestigevsat.com/about-us)；[CONCIERGE PARTNERS / prestigevsat](https://www.prestigevsat.com/concierge-partners)；[SERVICES / prestigevsat](https://www.prestigevsat.com/services)
+- 首页正文摘录：top of page HOME ABOUT US OUR TEAM SERVICES MISSION STATEMENT ETO FOR CHARTER CONCIERGE PARTNERS CONTACT More... Use tab to navigate through the menu items. Maritime Managed Services bottom of page
+- 数据文件：`data/saga_clients/site_snapshots/SA-123.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

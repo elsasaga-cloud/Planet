@@ -25,6 +25,7 @@ last_contact: 2025-11-03
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -107,6 +108,22 @@ updated: 2026-10-21
 - **风险/边界**：客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
 - **邮件切入句（英文）**：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.zelax.ru/　语言：ru　站点地图 URL 数：628
+- **标题**：Zelax - российский производитель телекоммуникационного оборудования
+- **描述**：Zelax - ведущий российский разработчик и производитель решений для сетей передачи данных. Компания выпускает системы оптического уплотнения, маршрутизаторы, коммутаторы, мультиплексоры, модемы, шлюзы TDM через IP, конвертеры, устройства защиты и другое связное оборудование
+- **首页栏目**：Конвертеры конвертер интерфейсов G.703.1, конвертер для стыка С1-ФЛ-БИ (С1-И) / Модемы модемы для организации каналов Ethernet, E1, V.35, RS-232, FXS/FXO/ТЧ / Информация об изделиях Список оборудования по алфавиту / Виртуальная библиотека Справочные и обучающие материалы / Гарантийное обслуживание Условия предоставления гарантийного обслуживания / Программное обеспечение Страница-каталог для загрузки ПО и документации / Задать вопрос Отправка сообщения в техническую поддержку / Изделия, снятые с производства Архив поддерживаемого оборудования
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 72、ethernet 15、poe 11、10g 1
+- **站内型号串**（正则抽取，含非交换机）：STM-1, RS-232, QSFP28, MIM-G703, AC220, ZES-2206PS-DCR, ZES-2211PS-DCR, IEEE802, ZES-2206PS, ZES-2211PS, IP-30, ZES-1308G
+- **站内公开邮箱**：sales@zelax.ru, tech@zelax.ru, webmaster@zelax.ru
+- **站内公开电话**：+7 (495) 748-71-78, +7 (495) 748-71-84, +7 (495) 748-71-85, +7 (495) 748-71-87, +7 (495) 748-71-89
+- **产品类页面**：https://www.zelax.ru/products/routers-switches/；https://www.zelax.ru/products/converters/converter-g703-k-713/；https://www.zelax.ru/products/optical-modules-sfp/sfp/；https://www.zelax.ru/news/telecom/24-05-20/proizvoditeli-elektroniki-prosyat-uprostit-mexanizm-priznaniya-produkczii-rossijskoj/；https://www.zelax.ru/news/telecom/23-02-03/proniknovenie-iot-prodolzhaet-rasti/；https://www.zelax.ru/news/company/25-01-14/kompaniya-zelax-obnovlyaet-linejku-industrialnyix-kommutatorov/
+- **已抓子页**：[ZES-22xx Индустриальные коммутаторы L2 / Zelax](https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/)；[Коммутаторы, маршрутизаторы / Zelax](https://www.zelax.ru/products/routers-switches/)；[ММ-41xx Маршрутизаторы / Zelax](https://www.zelax.ru/products/routers-switches/mm-41xx/)；[Продукция / Zelax](https://www.zelax.ru/products/)；[Контактная информация / Zelax](https://www.zelax.ru/contacts/)；[Новости компании / Новости / Zelax](https://www.zelax.ru/news/company/)
+- 首页正文摘录：Zelax — российский производитель телекоммуникационного оборудования Моя сеть – мои правила! +7 (495) 748-71-84 Решения Продукция Маршрутизаторы, коммутаторы коммутаторы: L2/L3, индустриальные; маршрутизаторы: модульные, высокопроизводительные криптомаршрутизаторы Шлюзы VoIP, TDMoP, RoIP шлюзы TDMoP, шлюзы TDMoP с портами STM-1, шлюзы TDMoP с портом Е1 в корпусе SFP, голосовые шлюзы Конвертеры конвертер интерфейсов G.
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 11、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-106.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

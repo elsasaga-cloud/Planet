@@ -25,6 +25,7 @@ last_contact: 2025-11-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -95,6 +96,20 @@ updated: 2026-10-21
 - **风险/边界**：用户定级 B 低优先；22 次推送 0 回复；现有贴牌来源稳定
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12
 - **邮件切入句（英文）**：A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.megatelindustries.com/　语言：未标　站点地图 URL 数：246
+- **标题**：Megatel - Worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products
+- **描述**：As a worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products, our mission is to provide various reliable, good quality and good price solutions to our network and data communication customers.
+- **首页栏目**：Featured Products / Home
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 174、industrial 143、poe 111、ethernet 87、fiber 82、sfp 66、gigabit 47、10g 19、media converter 15、cable 12、camera 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：EN50155, IGS-803SM-8PH24, FRM220, RJ-45, IEEE802, IGS-401F-4PH24-SC001, IFS-803GSM-8PH24, IGS-600-4PHE24, RS232, IGS-800C-8PH, MC-10, IPSW-G04-1GE1SFP
+- **产品类页面**：https://www.megatelindustries.com/sppoe16.html；https://www.megatelindustries.com/igun4poegisw.html；https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html；https://www.megatelindustries.com/imingipoe30w.html；https://www.megatelindustries.com/imingipoe90w.html；https://www.megatelindustries.com/spgihipopoes.html
+- **已抓子页**：[Industrial PoE Switch and Fiber Converter](https://www.megatelindustries.com/industrial-fiber.html)；[Industrial PoE Switch](https://www.megatelindustries.com/inpoesw.html)；[EN50155 Industrial PoE+ Managed Switch](https://www.megatelindustries.com/eninpomasw.html)；[Industrial Ethernet Switch](https://www.megatelindustries.com/inetsw.html)；[Industrial Ethernet Switch & Converter](https://www.megatelindustries.com/inetswco.html)；[IGS-803SM-8PH24, Industrial Managed Gigabit PoE Switch](https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html)
+- 首页正文摘录：Questions? Call 1-610-239-8812 M-F, 9-5, Eastern Time View Cart Home / About Us / Contact / Request a Quote / Product Photos / Privacy Policy / Site Map Main Menu POE Extender, Injector and Splitter Industrial Sync Ethernet Switch Multi-Service Platform FRM220 Series Chassis Ethernet Converter DS3/E3 & E1/T1, Data Fiber Modem Fiber to Serial Converter Ethernet Switch Fiber Mux CWDM & Protection Ethernet Bridge Fiber 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 143、PoE 111 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-135.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: 2025-10-24
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -100,6 +101,15 @@ updated: 2026-10-21
 - **风险/边界**：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：optiwatchgroup.com, optimumgroupcompanies.com
+  > https://optiwatchgroup.com/ conn: HTTPSConnectionPool(host='optiwatchgroup.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError
+  > https://www.optiwatchgroup.com/ conn: HTTPSConnectionPool(host='www.optiwatchgroup.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionE
+  > http://optiwatchgroup.com/ conn: HTTPConnectionPool(host='optiwatchgroup.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SB-074.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -207,6 +217,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -24,6 +24,7 @@ last_contact: 2025-10-14
 p1: STI-144GP
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -117,6 +118,23 @@ updated: 2026-10-21
 - **风险/边界**：1 人公司，单次量小；消防探测网络 = 生命安全相关，Saga 只供其商用/工业网络部分，不承诺消防认证；eBay 清仓导向，价格压力大
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）
 - **邮件切入句（英文）**：Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://parallaxdigital.co.uk/　语言：en-GB　站点地图 URL 数：415
+- **标题**：Parallax Digital – Digital products and services
+- **首页栏目**：Digital Technologies Specialists / Latest Products​ / Weipu SP1315/S2-C / Weipu SP1310/S2II-N / Weipu SP1310/P2II-N / FNIRSI SAG-55 Pro / Latest News / Website Email Issue Sorted
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 253、industrial 203、switch 172、sfp 56、fiber 34、ethernet 17、fibre 9、10g 8、gigabit 4、cisco 4、oem 1、odm 1
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PDT-NSM-7024-MP-I, PDT-NSM-7208-MP-SF-I, GB251731130, SP1310, SP1312, PDT-NSU-7104-MP-SF-I, PDT-NSU-7105-MP-SF-I, PDT-SFP-02-10G-1310-2000, SP1710, SP1315, S2II-N, P2II-N
+- **站内公开邮箱**：sales@parallaxdigital.co.uk
+- **站内公开电话**：+44 (0)1670 202001
+- **社媒**：https://twitter.com/ParallaxDigTech, https://www.facebook.com/ParallaxDigTech, https://www.instagram.com/parallaxdigtech/, https://www.linkedin.com/company/14845052/, https://www.youtube.com/channel/UCxopjYNDTtcIM_TEsEOkfOw
+- **产品类页面**：https://parallaxdigital.co.uk/news/new-product-release-poe-extender-range/；https://parallaxdigital.co.uk/news/new-products-sfp-modules/；https://parallaxdigital.co.uk/shop/；https://parallaxdigital.co.uk/shop/industrial-networking-equipment/ind-unman-non-poe-switches/pdt-nsu-0416-sf-i-network-switch/；https://parallaxdigital.co.uk/shop/video-transmission-processing/hdmi-over-cat6/pdt-hde-0006-tx-rx-hdmi-extender-kit/；https://parallaxdigital.co.uk/shop/industrial-networking-equipment/ind-unman-non-poe-switches/pdt-nsu-0005-i-5-port-10-100-base-t-unmanaged-sff-industrial-switch-12-48vdc/
+- **已抓子页**：[Industrial Unmanaged PoE Switches – Parallax Digital](https://parallaxdigital.co.uk/product-category/industrial-networking-equipment/ind-man-poe-switch/)；[Industrial Managed PoE Switches – Parallax Digital](https://parallaxdigital.co.uk/product-category/industrial-networking-equipment/ind-man-poe-switches/)；[Industrial Unmanaged Non-PoE Switches – Parallax Digital](https://parallaxdigital.co.uk/product-category/industrial-networking-equipment/ind-unman-non-poe-switches/)；[Industrial Managed Non-PoE Switches – Parallax Digital](https://parallaxdigital.co.uk/product-category/industrial-networking-equipment/industrial-man-non-poe-switches/)；[PDT-NSM-7024-MP-I – Parallax Digital](https://parallaxdigital.co.uk/shop/industrial-networking-equipment/ind-man-poe-switches/pdt-nsm-7024-mp-i/)；[PDT-NSM-7208-MP-SF-I – Parallax Digital](https://parallaxdigital.co.uk/shop/industrial-networking-equipment/ind-man-poe-switches/pdt-nsm-7208-mp-sf-i/)
+- 首页正文摘录：Skip to content +44 (0)1670 202001 Log In / Register Products Test & Measurement Equipment Digital Battery Testers Digital Hygrometers Digital Laser Rangefinder Digital Luxmeters Digital Multimeters Digital Network Testers Digital Oscilloscopes & Accessories Digital Oscilloscopes Oscilloscope Accessories Digital Refractometers Digital Signal Generators Digital Sound Meters Digital Thermal Imagers Digital Wall Scanner
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 203、PoE 253 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-027.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

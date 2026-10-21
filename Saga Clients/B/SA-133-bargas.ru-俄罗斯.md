@@ -25,6 +25,7 @@ last_contact: 2025-10-23
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -77,6 +78,14 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。
 - 备注：一封邮件给上架用 SKU 清单（分销 20%）。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bargas.ru/　语言：未标　站点地图 URL 数：0
+- **标题**：KillBot user verification [52.159.226.244] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36]...
+- **已抓子页**：[KillBot user verification [52.159.226.244] [Mozilla/5.0 (Win](https://www.bargas.ru/contacts?from=bot)；[KillBot user verification [52.159.226.244] [Mozilla/5.0 (Win](https://www.bargas.ru/shop?from=bot)
+- 首页正文摘录：news login contacts blog faq shop
+- 数据文件：`data/saga_clients/site_snapshots/SA-133.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

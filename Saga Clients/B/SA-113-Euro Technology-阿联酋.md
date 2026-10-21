@@ -25,6 +25,7 @@ last_contact: 2025-12-30
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -107,6 +108,23 @@ updated: 2026-10-21
 - **风险/边界**：守界（军方/政府项目）；伊拉克业务付款与物流；小团队
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）
 - **邮件切入句（英文）**：Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.netontechnologies.com/　语言：en　站点地图 URL 数：50
+- **标题**：IT Solutions Dubai UAE / Wildix & Sangoma Partner / NetOn Technologies LLC
+- **描述**：NetOn Technologies LLC — trusted IT company in Dubai since 2009. Authorized Wildix and Sangoma partner in UAE. IT infrastructure, AI telephony, cloud computing, cybersecurity, structured cabling and telecom solutions across UAE.
+- **首页栏目**：We plan, build & maintain effective / IT INFRASTRUCTURE / STRUCTURED CABLING / TELECOMMUNICATIONS / SECURITY SYSTEMS / Cloud Computing / AUDIO & VIDEO / Call us at +971 4 439 5754
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 18、telecom 9、fiber 1、camera 1、cable 1
+- **站内出现的品牌**：Cisco, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@netontechnologies.com
+- **站内公开电话**：+44 (0) 204 602 3181, +971 4 439 5754, +971 4 542 3229
+- **社媒**：https://wa.me/97145423229, https://www.facebook.com/netonuae/, https://www.instagram.com/neton_technologies, https://www.linkedin.com/company/neton-technologies-llc
+- **产品类页面**：https://www.netontechnologies.com/products
+- **已抓子页**：[IT Products Dubai / Cisco, HP, Dell & More – NetOn Technolog](https://www.netontechnologies.com/products)；[About Us – NetOn Technologies LLC / IT Company in Dubai](https://www.netontechnologies.com/about-us)；[Contact NETON Technologies / IT & Telecom Dubai](https://www.netontechnologies.com/contact-us)；[Odoo ERP Partner UAE Dubai / Implementation, Integration & A](https://www.netontechnologies.com/odoo-erp-partner-ai-automation-uae)；[Software Integration Solutions Dubai / CRM, POS & HR Systems](https://www.netontechnologies.com/software-integration-solutions)
+- 首页正文摘录：Home About Us What We Do IT Infrastructure Software Integration Solutions Odoo ERP Partner Structured Cabling Telecommunications Wildix UC&C x-bees by Wildix Sangoma Systems Security Systems Cloud Computing Audio & Video Products Blog Clientele Testimonials Contact We plan, build & maintain effective IT-Solutions that advance your business ASK FOR A QUOTE More About Us NetOn Technologies is now a Certified Odoo Partn
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-113.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

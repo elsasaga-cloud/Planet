@@ -24,6 +24,7 @@ last_contact: 2025-10-23
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -121,6 +122,23 @@ updated: 2026-10-21
 - **风险/边界**：沙特 SASO/SABER 认证由进口方办理；电商价带低；规模 501–1,000 人、消防/主时钟/公共部门项目多——按 INH「too big」与公共部门守界，只做其分销 / 自有品牌零售线，不做政府集成项目配套
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——走 Al Rajhi Distribution / ekhalas 自有品牌线：STC-424DGGPM-280W 与 STC-28DGGPM 为零售主力口型，自有品牌包装；分销 20% 档（若按自有品牌 OEM 则 30%）
 - **邮件切入句（英文）**：With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ekhalas.com/　语言：en-US　站点地图 URL 数：500
+- **标题**：Best online Shopping in Saudi Arabia, Riyadh KSA
+- **描述**：Best online Shopping in Saudi Arabia/ Wide Range of Categories Networking-Computing-UPS&Inverter-Satellite-Safety Security-Low Current Cables
+- **首页栏目**：Home / CP PLUS 16 Ch. Network Video Recorder(NVR) , 2 SATA Ports, 16 PoE Ports. / CISCO – SF220-24 Smart Switch – 24-Port 10/100 Fast Ethernet Managed Switch / ALCATEL – Alcatel-Lucent OmniSwitch 6350 / JUNIPER NETWORKS – line card with 40 1-Gigabit Ethernet ports / CABCOMM 800WX1000D Free Standing Cabinet / JUNIPER NETWORKS – Junos Space 1500 Medium Appliance / MERCUSYS – AX1500 WIFI 6 Router
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 157、poe 137、gigabit 96、fiber 72、cable 51、wireless 48、sfp 41、camera 27、tp-link 25、ethernet 23、cctv 20、10g 18
+- **站内出现的品牌**：TP-Link, Huawei, Cisco, Juniper, Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AC1200, S220S-8P4JX, LGS116P, AC1900, MS110GMP, MS110CMP, MS118CP, AX1500, E1700-ME, AC1300, LGS326MP, RE6500
+- **站内公开邮箱**：hiba@buinetech.com, info@ekhalas.com, samreenhassansamreen@gmail.com, syedakberquadri@gmail.com
+- **站内公开电话**：+966530357111
+- **产品类页面**：https://www.ekhalas.com/product-category/cabinets-racks/；https://www.ekhalas.com/product-category/cabinets-racks/free-standing-cabinets/；https://www.ekhalas.com/product-category/cabinets-racks/wall-mounted-cabinets/；https://www.ekhalas.com/product-category/cabinets-racks/cabinet-accessories/；https://www.ekhalas.com/product-category/computing/；https://www.ekhalas.com/product-category/computing/mobile-tablets/
+- **已抓子页**：[Linksys - LGS116P 16-Port Gigabit Unmanaged PoE+ Switch](https://www.ekhalas.com/product/linksys-lgs116p-16-port-gigabit-unmanaged-poe-switch/)；[MERCUSYS - 10-Port Gigabit Desktop Switch with 8-Port PoE+](https://www.ekhalas.com/product/mercusys-10-port-gigabit-desktop-switch-with-8-port-poe/)；[Buy A New TP-LINK - Jetstream 16-Port 10/100Mbps+2 Port Giga](https://www.ekhalas.com/product/tp-link-jetstream-16-port-10-100mbps2-port-gigabit-unmanaged-poe-switch/)；[MERCUSYS - 8-Port 10/100 Mbps + 2-Port Gigabit Desktop Switc](https://www.ekhalas.com/product/mercusys-8-port-10-100-mbps-2-port-gigabit-desktop-switch-with-8-port-poe/)；[MERCUSYS - 16-Port 10/100Mbps + 2-Port Gigabit Rackmount](https://www.ekhalas.com/product/mercusys-16-port-10-100mbps-2-port-gigabit-rackmount-switch-with-16-port-poe/)；[HUAWEI eKit - Engine S220S-8P4JX 8-Port Gigabit PoE+](https://www.ekhalas.com/product/huawei-ekit-engine-s220s-8p4jx-8-port-gigabit-poe-managed-switch-with-10ge-2-5ge-sfp-uplinks/)
+- 首页正文摘录：Skip to content Insert HTML here Search for: Search Search Call us : +966530357111 Shop by category Cabinets & Racks Free Standing Cabinets Wall Mounted Cabinets Cabinet Accessories Computing Mobile & Tablets Cartridges & Labels Computers Accessories Copper Copper Structural Cabling Copper Testing Tools Equipment’s Routers & Switches Modems & Extenders Wireless Access Point IP Phones Adaptors SFP Transceivers Media C
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 28、交换机 157 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-073.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

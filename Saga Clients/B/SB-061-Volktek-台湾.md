@@ -22,6 +22,7 @@ last_contact: 2025-10-21
 p1: STC-448XGGM(L3)
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-03-20 → 2025-10-21）
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-061.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.volktek.com/index_en.php　语言：en　站点地图 URL 数：130
+- **标题**：Industrial Ethernet Switches & PoE Solutions / Volktek Taiwan
+- **描述**：Volktek is a leading Taiwan-based company and manufacturer established in 1994. With our own advanced in-house factory and SMT/DIP production lines, we serve as a premier global supplier of industrial Ethernet switches and PoE solutions. We provide expert OEM and ODM services for automation and surv
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 652、poe 412、sfp 138、industrial 137、ethernet 119、fiber 95、10g 77、surveillance 54、gigabit 41、media converter 30、automation 28、access control 4
+- **站内型号串**（正则抽取，含非交换机）：RS232
+- **站内公开电话**：+886-2-8242-1000, +886-2-8242-3333
+- **社媒**：http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.volktek.com%2Fnewsdetail_en.php%3Fid%3D66781, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.volktek.com%2Fnewsdetail_en.php%3Fid%3D66781, https://www.facebook.com/volktek/, https://www.instagram.com/volktek_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr, https://www.linkedin.com/company/volktek, https://www.youtube.com/channel/UCnfa1v_jvahfH-3kgEzTRUw/
+- **产品类页面**：https://www.volktek.com/product_en.php；https://www.volktek.com/product/poe-injectors-poe-splitters/poe-splitter.html；https://www.volktek.com/product/ems-nms.html；https://www.volktek.com/product/industrial-poe-switches/managed-poe-switches.html；https://www.volktek.com/product/industrial-poe-switches/railway-certified-poe-switches.html；https://www.volktek.com/product/industrial-poe-switches/substation-certified-poe-switches.html
+- **已抓子页**：[Industrial PoE Switches: High-Power Ethernet for CCTV / Volk](https://www.volktek.com/product/industrial-poe-switches.html)；[Unmanaged Premium PoE+ Switches / VOLKTEK](https://www.volktek.com/product/industrial-poe-switches/unmanaged-premium-poe-switches.html)；[Industrial Ethernet Switches: Certified Networking Equipment](https://www.volktek.com/product/industrial-ethernet-switches.html)；[9505-24GP4XS Supplier&Manufacturer&Factory/VOLKTEK](https://www.volktek.com/productdetail/9505-24gp4xs.html)；[VOLKTEK to Showcase TSN and SPE at the Industrial Open Netwo](https://www.volktek.com/newsdetail_en.php?id=66781)；[Metro Ethernet Switches: Fiber Networking for ISPs & Smart C](https://www.volktek.com/product/metro-ethernet-switches.html)
+- 首页正文摘录：Products Layer 3 Industrial Ethernet Switches Layer 3 Managed Switches Layer 3 Managed PoE++ Switches Industrial Ethernet Switches Unmanaged Basic Switches Unmanaged Premium Switches Lite Managed Switches Managed Switches DNV & LR Certified Switches NEMA TS2 Certified Switches Railway Certified Switches Substation Certified Switches PROFINET Approval Switches Ethernet/IP Approval Switches SPE Switches Industrial PoE 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 142、PoE 412 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-061.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +163,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

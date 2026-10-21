@@ -22,6 +22,7 @@ last_contact: 2025-10-14
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-06-09 → 2025-10-14）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1053.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://aiportek.com/　语言：zh-HK　站点地图 URL 数：0
+- **标题**：Home - 虹科電子有限公司
+- **描述**：香港虹科為全球客戶提供工業標準品及一站式解決方案供應商
+- **首页栏目**：數據安全與合規 / 高效能數據與自動化 / ADAS 仿真與測試框架 / 車載網絡通訊 / 信號分析與傳感 / 工業物聯網與數碼工廠 / AI 機器視覺 / 自動化控制
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 5、scada 3、2.5g 1
+- **站内出现的品牌**：Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, MT03A
+- **站内公开邮箱**：hongkeinfo@gmail.com, info@aiportek.com
+- **站内公开电话**：+852 21231136
+- **社媒**：https://www.facebook.com/HongKeTech/, https://www.facebook.com/profile.php?id=61557838737881, https://www.instagram.com/hongkeinfo/, https://www.linkedin.com/company/hong_ke/%20, https://www.linkedin.com/company/hongke-technology-co-ltd/?viewAsMember=true, https://www.youtube.com/@HongKeTechnologyCo.Limited
+- **已抓子页**：[AR 電力行業解決方案 - 虹科電子有限公司](https://aiportek.com/product/arglass/solutions-power/)；[AR 倉儲物流解決方案 - 虹科電子有限公司](https://aiportek.com/product/arglass/solutions-warehouse/)；[車輛零部件溫度採集解決方案 - 虹科電子有限公司](https://aiportek.com/product/canbus-canfd/solution-thermocouple-scheme/)；[汽車總線協議轉換解決方案 - 虹科電子有限公司](https://aiportek.com/product/canbus-canfd/solution-bus-protocol-conversion/)；[數據採集模組解決方案 - 虹科電子有限公司](https://aiportek.com/product/canbus-canfd/can-bus-information-collection-solution/)；[CAN / CAN FD / LIN 總線遠距離通訊解決方案 - 虹科電子有限公司](https://aiportek.com/product/canbus-canfd/can-lin-bus-long-distance-communication-solutions/)
+- 首页正文摘录：跳至內容 主頁 技術產品 Fintech & Data 金融科技與企業數碼 Smart Mobility 智慧出行與汽車電子 Smart Manufacturing 新工業化與智能製造 Life Sciences 生命科學與醫療科技 Infrastructure 測試量測與工業AR 數據安全與合規 Lepide 數據安全管理平台 KnowBe4 網絡安全意識培訓 DataLocker 企業級加密 USB 管理 Profishark 網絡監控 TAP ONEKEY 產品安全與合規審計 高效能數據與自動化 Redis 企業級雲端數據庫 ArangoDB 圖數據庫 Decisions 低代碼業務自動化平台 Domo 商業智能分析平台 TrueFoundry 企業級 AI 網關 TrueFoundry 企業級 Agent 網關 TrueFoundry 企業級 MCP 網關 ADAS 仿真與測試框架 aiSim 自動駕駛仿真模擬解決方案 
+- 数据文件：`data/saga_clients/site_snapshots/SB-1053.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,7 +160,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

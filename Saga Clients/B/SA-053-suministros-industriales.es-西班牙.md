@@ -25,6 +25,7 @@ last_contact: 2025-11-29
 p1: STI-050GE
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -81,6 +82,22 @@ updated: 2026-10-21
 - **风险/边界**：无网络品类经验；1 次回复后 18 次无果
 - **Saga 对位结论**：P1 STI-050GE（20% 档）——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
 - **邮件切入句（英文）**：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://suministros-industriales.es/　语言：es　站点地图 URL 数：1078
+- **标题**：Inicio - Suministros Industriales MP4 / Soluciones integrales industriales
+- **描述**：Soluciones industriales integrales Ingeniería que mueve tu industria Especialistas en condúctica y automatización industrial. Desde Sabadell, damos soporte técnico a fabricantes y plantas de producción en todo el territorio nacional. ¿HABLAMOS? LLÁMANOS ESCRÍBENOS +20 años Experiencia técnica Asesor
+- **首页栏目**：Soluciones industriales integrales / Ingeniería que mueve tu industria / Nuestras divisiones / Somos especialistas en: / Por qué MP4 / Soporte técnico, no solo somos un catálogo / 01 / 02
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 178、industrial 60、oem 1
+- **站内公开邮箱**：info@suministros-industriales.es
+- **站内公开电话**：+34 605 430 753, +34 93 590 94 12
+- **社媒**：http://wa.me/34605430753
+- **产品类页面**：https://suministros-industriales.es/que-tipos-de-enrolladores-de-cable-industriales-tenemos/；https://suministros-industriales.es/guias-electrificadas-para-todo-tipo-de-aplicaciones-industriales/；https://suministros-industriales.es/especialistas-en-transportacion-neumatica-de-polvos-granulados-solidos/；https://suministros-industriales.es/cadenas-portacables-y-carros-para-la-transferencia-de-energia/；https://suministros-industriales.es/especialistas-en-carros-y-perfiles-industriales/；https://suministros-industriales.es/especialistas-en-actuadores-electricos-aris/
+- **已抓子页**：[Señalización archivos - Suministros Industriales MP4 / Soluc](https://suministros-industriales.es/categoria-producto/conductica/enrolladores-industriales-de-cable/senalizacion/)；[Equilibradores archivos - Suministros Industriales MP4 / Sol](https://suministros-industriales.es/categoria-producto/conductica/enrolladores-industriales-de-cable/equilibradores/)；[Serie Data Flux archivos - Suministros Industriales MP4 / So](https://suministros-industriales.es/categoria-producto/conductica/enrolladores-industriales-de-cable/serie-data-flux/)
+- 首页正文摘录：Ir al contenido info@suministros-industriales.es +34 93 590 94 12 +34 605 430 753 C/Leonardo Da Vinci, 37-39 Local 2 08204 Sabadell Contacto Inicio Automatización Aires acondicionados Válvulas Actuadores Actuadores eléctricos rotativos y ajuste de giro Pico Nano Nano + CL Tensor Ventaris Actuadores eléctricos lineales Linearis Zona atex Microrruptores Cierres por solenoide EX STEUTE Dispositivo de mando EX Steute Int
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 60、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-053.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

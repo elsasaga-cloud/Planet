@@ -22,6 +22,7 @@ last_contact: 2025-12-29
 p1: STI-288GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -75,6 +76,21 @@ updated: 2026-10-21
 - **风险/边界**：乌克兰：战时物流/保险/付款与最终用途不可控 → 守界（只被动响应、不主动推送军用可用品类）；WA 加不上
 - **Saga 对位结论**：P1 STI-288GP（20% 档）——分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价
 - **邮件切入句（英文）**：（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $139.9; please confirm the civil end-use and delivery route so I can quote shipping.）
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://germany24.com.ua/　语言：uk　站点地图 URL 数：19
+- **标题**：Home - LLC DEUTSCHE IMPORT
+- **首页栏目**：LLC DEUTSCHE IMPORT / PLANET TECHNOLOGY УКРАЇНА / ОБЛАДНАННЯ ВІД DDC GmbH / DEUTSCHE ГАРАНТУЄ / НАШІ ПРОПОЗИЦІЇ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：planet 8、poe 1、ethernet 1
+- **站内出现的品牌**：PLANET, Teltonika, LevelOne　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@germany24.com.ua
+- **站内公开电话**：+38 (044) 593-79-76, +38 (066) 329-37-31
+- **产品类页面**：https://germany24.com.ua/shop/
+- **已抓子页**：[Контакти - LLC DEUTSCHE IMPORT](https://germany24.com.ua/contacts/)；[Про нас, компанія Дойч Імпорт - LLC DEUTSCHE IMPORT](https://germany24.com.ua/about-us/)
+- 首页正文摘录：Перейти до вмісту Ми працюємо: Пн.- Пт. 9:30 - 18:30 +38 (044) 593-79-76, +38 (066) 329-37-31 (з Viber) info@germany24.com.ua LLC DEUTSCHE IMPORT VAD дистрибутор IT обладнання та промислових систем ГОЛОВНА ПРО НАС PLANET CERIO TELTONIKA E-LINK UTEPO КОНТАКТИ PLANET TECHNOLOGY УКРАЇНА Ми офіційні представники PLANET в Україні. Здійснюємо імпорт продукції, сертифікацію, гарантійні та післягарантійні зобов'язання Деталь
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-018.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

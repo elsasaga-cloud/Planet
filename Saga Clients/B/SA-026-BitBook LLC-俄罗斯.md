@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-28GPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -100,6 +101,23 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯：结算路径（CNY）与物流需单独安排；无邮件回复记录
 - **Saga 对位结论**：P1 STC-28GPM（30% 档）——OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）
 - **邮件切入句（英文）**：Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bitbuk.ru/　语言：ru　站点地图 URL 数：292
+- **标题**：bitbuk.ru — официальный сайт производителя и импортера торговой техники и копьютерного оборудования ООО "Приорат"
+- **描述**：Priorat — Российский производитель и поставщик: сканеры штриховых кодов, принтеры этикеток, коммутаторы, видеонаблюдение, СКУД
+- **首页栏目**：Профессиональное оборудование штрихового кодирования в наличии на складе
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 94、sfp 6、ethernet 6、nvr 6、gigabit 1
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, PRT-SF-1226P, PRT-SG-1226P, PRT-SG-1208PI, PRT-NVR-16N2-12M-IQ, MT-CM2, PRT-SF-1110PO, PRT-BM30-F2, XB-33ABH, XB-33AWU, PRT-DM80-F2, SC-60AWU
+- **站内公开邮箱**：info@priorat.ru
+- **站内公开电话**：+7 (3435) 37-87-87, +7 (3435) 37-90-80
+- **社媒**：https://vk.com/bitbuk, https://www.youtube.com/channel/UCTOihFJ_tskxJEpzfKbJ95A
+- **产品类页面**：https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/；https://bitbuk.ru/mt-cm2-0ip40vsg-poe-d-led-2-7-13-5mm/；https://bitbuk.ru/kommutator-poe-promyshlennyy-upravlyaemyy-priorat-prt-sg-1208pmi/；https://bitbuk.ru/kommutator-poe-gnt-p4813v6/；https://bitbuk.ru/poe-splitter/；https://bitbuk.ru/poe-inzhektor/
+- **已抓子页**：[Коммутатор PoE PRIORAT PRT-SF-1226P купить в интернет-магази](https://bitbuk.ru/kommutator-poe-priorat-prt-sf-1226p/)；[Коммутатор PoE PRIORAT PRT-SG-1226P купить в интернет-магази](https://bitbuk.ru/kommutator-poe-priorat-prt-sg-1226p/)；[IP камера уличная MT-CM2.0IP40VSG PoE D-LED (2,7-13,5mm) куп](https://bitbuk.ru/mt-cm2-0ip40vsg-poe-d-led-2-7-13-5mm/)；[Коммутатор PoE промышленный PRIORAT PRT-SG-1208PI купить в и](https://bitbuk.ru/kommutator-poe-promyshlennyy-priorat-prt-sg-1208pi/)；[Коммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65 купить в и](https://bitbuk.ru/kommutator-poe-ulichnyy-priorat-prt-sf-1110po-ip65/)；[Системы видеонаблюдения Сетевое PoE оборудование купить в ин](https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/)
+- 首页正文摘录：Нижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт 9:00—18:00 Вход / Регистрация Каталог Бит.Блог Техподдержка F.A.Q. +7 (3435) 37-87-87 +7 (3435) 37-90-80 Каталог товаров Автоматизация торговли Сканеры штриховых кодов БитБук Принтеры этикеток Чековые принтеры Терминалы сбора данных (ТСД) Расходные материалы Лента текстильная Браслеты для принтера Этикетки для принтера Лента красящая (Риббон, Ribbon) Преобразователи интерфе
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 94、监控 6 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-026.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

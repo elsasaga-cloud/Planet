@@ -24,6 +24,7 @@ last_contact: 2025-06-21
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -106,6 +107,23 @@ updated: 2026-10-21
 - **风险/边界**：印度 BIS（CRS）认证——交换机类是否强制需客户确认；本地组装趋势（SKD）；价格极敏感
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档
 - **邮件切入句（英文）**：Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://aeconnect.co.in/　语言：en-US　站点地图 URL 数：0
+- **标题**：Networking Products Manufacturer in India / AE Connect
+- **描述**：AE Connect manufactures PoE injectors and switches, fiber solutions, Cat 6 and Cat 6A structured cabling, rack cabinets and networking tools in India since 2005.
+- **首页栏目**：Engineered in India, Empowering the World / Our Vision / Our Mission / One Source for Your Entire Network / PoE+ Solutions / Fiber Solutions / Structure LAN Solutions / Networking Rack Cabinets
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 191、switch 167、industrial 139、fibre 89、fiber 61、automation 58、ethernet 31、cable 27、gigabit 24、camera 21、surveillance 18、scada 15
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AEIN-PIG901, AEIN-PIG901-F, AE-PS8082SFT-M, AE250-PS1084SFTM-L3, AE-PS242SFT-M, AE600-24GP4TF-L3, AEIN-PSG484GF-M, AE800-48GP410GFL3-M, AE-ECO1106FE, AE-PSE1106GU, AE-PS104G-F, AE-PS104G-FF
+- **站内公开邮箱**：backoffice@aeconnect.co.in, info@aeconnect.co.in
+- **站内公开电话**：+91 92130 14368, +91 95379 10555
+- **社媒**：https://twitter.com/aeconnectindia, https://www.facebook.com/aeconnectindia, https://www.instagram.com/aeconnectindia, https://www.linkedin.com/company/aeconnectindia, https://www.youtube.com/channel/UCqw4MRNMDXjB0FkJe6p-Rhw
+- **已抓子页**：[Best Industrial PoE Switch for Harsh Environments](https://aeconnect.co.in/poe-solutions/industrial-poe-switches/)；[Managed PoE Switch – Secure Remote Control & Reliability](https://aeconnect.co.in/poe-solutions/managed-poe-switches/)；[Reliable Unmanaged PoE+ Switches for CCTV & IoT Networks](https://aeconnect.co.in/poe-solutions/unmanaged-poe-switches/)；[About AE Connect – Innovating Network Solutions](https://aeconnect.co.in/industrial-automation-networking/)；[90W PoE Injector for High-Power Network Devices](https://aeconnect.co.in/when-do-high-power-network-devices-need-a-90w-poe-injector/)；[DIN Rail LIU for Industrial Fibre Networks - AE Connect](https://aeconnect.co.in/how-din-rail-fibre-enclosures-simplify-industrial-network-installations/)
+- 首页正文摘录：Skip to content Home Company About Us E-Catalog Company Profile Warranty Policies Products PoE+ Solutions PoE+ & PoE++ Injectors Unmanaged PoE+ Switches Managed PoE+ Switches Industrial PoE+ Switches Fiber Solutions Active Passive Structure LAN Solutions Cat 6 Cat 6A Networking Accessories Networking Rack Cabinets Networking Tools Solutions Smart City Networking Data Center Networking Enterprise Networking Solutions 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 159、PoE 191 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-055.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

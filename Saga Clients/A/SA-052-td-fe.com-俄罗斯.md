@@ -24,6 +24,7 @@ last_contact: 2025-12-07
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +110,22 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯：结算/物流/制裁合规由客户侧安排（Saga 侧无 EAC）；只做 DIN 导轨
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有标 FARADAY F-802（8 FE PoE + 2 combo）千兆升级 = STI-288DGGPM，按 F- 命名 OEM；F-812 L2 位待核口型；OEM 30% 档
 - **邮件切入句（英文）**：Your F-802 is fast-Ethernet; the Marvell-based 8-port gigabit PoE+ with 2 SFP managed DIN switch would slot in as the F-8xx gigabit step-up in FARADAY packing, EXW, with CE/RoHS files ready.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://td-fe.com/　语言：en　站点地图 URL 数：82
+- **标题**：TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE.
+- **描述**：TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE.
+- **首页栏目**：Profile / Request a call
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 125、switch 27、industrial 4、sfp 2、cable 2
+- **站内型号串**（正则抽取，含非交换机）：MIPS-2020, IEEE802, RJ-45
+- **站内公开邮箱**：sales@td-fe.com
+- **站内公开电话**：+7 (812) 953 13 59
+- **产品类页面**：https://td-fe.com/catalog/enclosed/；https://td-fe.com/catalog/din-rail/12w_12-24v_din.html；https://td-fe.com/catalog/din-rail/240w_48v_din.html；https://td-fe.com/catalog/ups/ups-300w-48v-simple.html；https://td-fe.com/catalog/ups/ups-30w_24v-simple.html；https://td-fe.com/catalog/enclosed/18w_12-24v_78al.html
+- **已抓子页**：[F-812. PoE switch. TH Faraday Electronics Ltd.](https://td-fe.com/catalog/poe/F-812.html)；[F-802. PoE switch. TH Faraday Electronics Ltd.](https://td-fe.com/catalog/poe/F-802.html)；[PoE injectors and PoE extenders. Standard IEEE 802.3af/at. T](https://td-fe.com/catalog/poe/)；[24W/POE. PoE extender. Standard IEEE 802.3af. TH Faraday Ele](https://td-fe.com/catalog/poe/24W_POE.html)；[Ext/POE. PoE extender. IP66. 10/100/1000 Mbps. Стандарт IEEE](https://td-fe.com/catalog/poe/ext-poe-ip66.html)；[30W/1Gb/POE+. PoE extender. Standard IEEE 802.3af/at. TH Far](https://td-fe.com/catalog/poe/30W_1Gb_POE_plus.html)
+- 首页正文摘录：TH Faraday Electronics Ltd. Power supplies - professional design, reliable solutions RU UK +7 (812) 953 13 59 sales@td-fe.com Profile Products Certificates Contacts More More More More More More More Power supplies Enclosed 18W/12-24V/78AL 36W/12-24V/95AL 50W/12-24V/120AL 75W/12-24V/140AL 120W/12V 150W/24V 240W/12V 350W/48V DIN holder DIN rail 12W/12-24V/DIN 24W/12-24V/DIN 36W/12-24V/DIN 36W/12-24V/DIN Slim 50W/12-24
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 125 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-052.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: 2024-11-18
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: timeout  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 5 次（2024-02-21 → 2024-11-18）；最近一次客户回复：2024-05-16：成单电口设备
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：具体需求型号（表内兴趣列为空）
+- **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -111,6 +112,15 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路；俄语区非主攻，不额外投入
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源
 - **邮件切入句（英文）**：For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+
+- 尝试域名：rio-krsk.ru
+  > https://rio-krsk.ru/ conn: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
+  > https://www.rio-krsk.ru/ conn: HTTPSConnectionPool(host='www.rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<
+  > http://rio-krsk.ru/ conn: HTTPConnectionPool(host='rio-krsk.ru', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCo
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-008.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -202,6 +212,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

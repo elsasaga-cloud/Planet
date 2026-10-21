@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +110,21 @@ updated: 2026-10-21
 - **风险/边界**：客户面向国防/铁路/智慧城市——国防与铁路项目守界，只供工厂/智慧城市民用项目；「Made in India」标注要求中性包装 + 可能要求 SKD/本地组装；2023 年后沉默 2 年，需重新激活
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——STS 全线与 Saga STI 工业线逐一对位：STS-UM608GP / 8+2G SFP → STI-288DGGPM；STS05G/UM42POE → STI-144GP；16 口 → STI-21616GP；贴 STS 标 30% 档；10G L3 与 EN50155 不报
 - **邮件切入句（英文）**：Looking at the STS-UM608GP and the 8-port + 2G SFP PoE models in your range, the Marvell-based 8-port DIN managed PoE switch is the one we can build in STS neutral packing, so I am restarting with that and the 4+1 compact unit rather than the bypass model from 2023.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sundartechno.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：Sundar Techno Solutions - Sundar Techno Solutions
+- **描述**：Phone: +91-9482081014 Email: sales@sundartechno.com Industrial FieldBus Protocol Converters Gateways/Protocol Converters PC Cards Industrial Internet / Industry 4.0 Embedded Modules Network Controller Analysis & Data Acquisition Automation & Visualization Software Industrial Ethernet Unmanaged Switc
+- **首页栏目**：Sundar Techno Solutions / GET ALL INDUSTRIAL PRODUCTS RIGHT HERE / SUPPORT / PRODUCT / SERVICE / OVERVIEW / OUR SERVICES / PRODUCT VIDEOS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 15、switch 13、automation 8、poe 2、ethernet 2、scada 1、media converter 1、fiber 1、10g 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：IEC61850
+- **站内公开邮箱**：sales@embeddedautomation.org, sales@sundartechno.com
+- **站内公开电话**：+91-9482081014
+- **社媒**：https://in.linkedin.com/company/sundar-techno-solutions?trk=public_profile_topcard_current_company, https://twitter.com/SundarTechno, https://www.facebook.com/Sundar-Techno-Solutions-468605697037043/?hc_ref=ARQWa9QTtpSDn7Aiqyq1K1KisWMBo4KzBLfNV-NTawinOR8DQ7QAlIEWW1xUdoB-K54&fref=nf&__xts__%5B0%5D=68.ARAMIapyIXee6K2z_lsIzY0SrKcg8PRMriQ4E9Zbk_Qxn8vv61NTShHn5iakc0XMo_l2V_w-rzS0gU31uFtM54tLKzZtt0flOpI54LcUnV5GqgE5piJuC9cOskZ2OoQqDobcaZo12ShM0GbT47L8hkgtFgIT9gGwU5iOLw3f5rlKoJo8Ya4C_r8wcGsT-exhfgEd9OaiwhWMkhm0ijpzp4vCctGOhO7EaqOO2fjNq4OOZGXY1Yu7LA6tyOpm3tE7OnIiv94Q4xA4ElLUvu4HbmVpt-p3grXTaBgIOi_MjsWGWiMzHzabKPStNcoW8oKKNhK8Kfkc0IxSzMshgxPxIJk&__tn__=kC-R, https://www.youtube.com/@SUNDARTECHNOSOLUTIONS
+- 首页正文摘录：Skip to content Sundar Techno Solutions Services Work Blog Contact Get Started GET ALL INDUSTRIAL PRODUCTS RIGHT HERE Get Started :: SUPPORT After‑Sales Support, Testing & Customisation​ :: PRODUCT Rugged Industrial Computing & Embedded Systems​ :: SERVICE Serves Railways , Power & Utilities , Oil & Gas , Defense , Space , Smart Grid , Pharma , Manufacturing , and Transportation infrastructure .​ :: OVERVIEW Industry
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 21、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-049.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

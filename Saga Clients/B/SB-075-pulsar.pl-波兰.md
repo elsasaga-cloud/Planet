@@ -24,6 +24,7 @@ last_contact: 2025-10-21
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -107,6 +108,23 @@ updated: 2026-10-21
 - **风险/边界**：已有稳定 OEM 来源（多为深圳厂）；对价格极敏感；16 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W
 - **邮件切入句（英文）**：Your WP switches run from 48–54 V DC buffered supplies; our DIN 8-port gigabit PoE units take 44–57 V DC natively and can carry the Pulsar label — would a gigabit S108WP-class model fill the gap in your series?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.pulsar.pl/　语言：pl-PL　站点地图 URL 数：0
+- **标题**：Strona główna
+- **描述**：Strona główna - Pulsar
+- **首页栏目**：lat doświadczenia / pracowników / m 2 powierzchni firmy / krajów na export / procent produktów dostępnych od ręki / Produkty / MEAN WELL / Programy konfiguracyjne
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 52、poe 50、cctv 3、sfp 2、ethernet 1、oem 1、odm 1
+- **站内出现的品牌**：Pulsar, Bosch　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SG54H, SG64B, SG108B, SG64H, SFG64H, EN54-4, EN12101-10, EXT-POEG4H, EXT-POE3-OTD, EXT-POEG3-OTD, EN60529, OPU3-P
+- **站内公开邮箱**：biuro@pulsar.pl, pomoctechniczna@pulsar.pl, serwis@pulsar.pl, zamowienia@pulsar.pl
+- **站内公开电话**：+48) 14 610-19-40
+- **社媒**：https://wa.me/?text=https://www.pulsar.pl/PL_7000_produkty-pulsar-promocje_aktualnosci, https://www.facebook.com/PULSARzasilacze, https://www.facebook.com/PULSARzasilacze?ref=embed_page, https://www.linkedin.com/company/pulsarspj, https://www.linkedin.com/shareArticle?mini=true&url=https://www.pulsar.pl/PL_7000_produkty-pulsar-promocje_aktualnosci&title=Artykuł, https://www.youtube.com/@pulsar7858
+- **已抓子页**：[Switche PoE w obudowie metalowej - SWITCHE i urządzenia PoE](https://www.pulsar.pl/PL_131_switche-poe-w-obudowie-metalowej)；[Switch 5-portowy SG54H z zasilaczem do 4 kamer IP w obudowie](https://www.pulsar.pl/PL_130_SG54H_switch-5-portowy-sg54h-z-zasilaczem-do-4-kamer-ip-w-obudowie-hermetycznej)；[Produkty](https://www.pulsar.pl/PL_2_produkty)；[Nowe produkty](https://www.pulsar.pl/PL_1700_nowe-produkty)；[Aktualności](https://www.pulsar.pl/PL_7000_artykuly-produktowe_)；[Aktualne PROMOCJE 2026](https://www.pulsar.pl/PL_7000_produkty-pulsar-promocje_aktualnosci)
+- 首页正文摘录：(+48) 14 610-19-40 biuro@pulsar.pl Strona główna Produkty SZKOŁA & BIURO O firmie Aktualności Szkolenia Strefa klienta Strefa projektanta Nasi dystrybutorzy Pomoc B2B Cennik Kontakt Sprawdź szczegóły Sprawdź szczegóły Sprawdź szczegóły Sprawdź szczegóły Sprawdź szczegóły Sprawdź promocję Sprawdź wyprzedaż 32 lat doświadczenia 200 pracowników 8000 m 2 powierzchni firmy 50 krajów na export 90 procent produktów dostępny
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 50、监控 3 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-075.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

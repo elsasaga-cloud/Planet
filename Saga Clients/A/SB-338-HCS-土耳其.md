@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -96,6 +97,13 @@ updated: 2026-10-21
 - **风险/边界**：集团决策链长；可能同时比价多家中国厂；无后续跟进
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OEM 30% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$145.7）作 HCS 品牌主力 L2 PoE；L3 用 STC-424XGGM(L3)（24 GE + 4×10G，$291.5）；楼层 STC-28DGGPM（$87.4）
 - **邮件切入句（英文）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://hescs.com/　语言：未标　站点地图 URL 数：0
+- **标题**：HCS Kablolama
+- 首页正文摘录：ï»¿ HCS Kablolama
+- 数据文件：`data/saga_clients/site_snapshots/SB-338.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

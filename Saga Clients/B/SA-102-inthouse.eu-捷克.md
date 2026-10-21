@@ -25,6 +25,7 @@ last_contact: 2025-03-25
 p1: STI-144GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -96,6 +97,21 @@ updated: 2026-10-21
 - **风险/边界**：规模极小（4 人）、单量小；6 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）
 - **邮件切入句（英文）**：Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://inthouse.eu/　语言：en-US　站点地图 URL 数：16
+- **标题**：Inthouse – The smart building solution made for you
+- **首页栏目**：System for intelligent buildings / General partner / Inthouse App / Inthouse Hub / Inthouse Touch Panels / Inthouse Studio / Inthouse Cloud / Ready to try how Inthouse can transform your business?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 10、industrial 1、scada 1、ethernet 1、camera 1
+- **站内出现的品牌**：Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：VVS11, EM930
+- **站内公开电话**：+420 722 476 554, +420 723 646 710
+- **社媒**：https://www.facebook.com/andrej.hrasko, https://www.facebook.com/inthouse.eu, https://www.facebook.com/matej.snoha, https://www.instagram.com/inthouse.app/, https://www.linkedin.com/company/inthouse-systems/about/
+- **已抓子页**：[Inthouse Switch Datasheet 2025-04-04.docx - Inthouse Drive](https://drive.inthouse.eu/index.php/s/C9cmjipHrN2kF39)；[About us – Inthouse](https://inthouse.eu/about-us/)；[Contact us – Inthouse](https://inthouse.eu/contact-us/)；[âInthouse App - App Store](https://apps.apple.com/us/app/inthouse/id1470985314)
+- 首页正文摘录：[email protected] +420 723 646 710 Home About us Our products Inthouse App Inthouse Hub Inthouse Touch Panels Inthouse Pro Touch Panels Inthouse Studio Inthouse Cloud Tutorials Privacy Policy Contact us Partner zone The smart building solution made for you Products System for intelligent buildings Inthouse App Apple iOS, Google Android & Microsoft Windows end-user application supporting remote control of Siemens PLCs
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 10、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-102.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

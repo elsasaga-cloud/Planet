@@ -24,6 +24,7 @@ last_contact: 2025-12-29
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -100,6 +101,22 @@ updated: 2026-10-21
 - **风险/边界**：台系品牌商：TW 规则下上限 B，本条靠 S 重点 + 实质互动留 A；采购决策看成本，货源可能在台/大陆已有 ODM；欧洲渠道要求 CE/RoHS 文件齐全（Saga 具备）
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档
 - **邮件切入句（英文）**：Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.alfa.com.tw/　语言：en　站点地图 URL 数：5
+- **标题**：ALFA Network Inc.
+- **首页栏目**：ATAYA Cloud Core + 5G AP Private 5G Network / AX5GRM 5GNR Global band WiFi 6 Router / World's First WiFi HaLow™ Raspberry Pi™ HAT module / Kali Linux Compatible WiFi USB Adapter / Sleeve High Neck Bodycon Dress
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 54、poe 12、ethernet 12、wireless 10、cable 9、switch 7、gigabit 5、industrial 2、10g 1、camera 1
+- **站内型号串**（正则抽取，含非交换机）：AHPI7292S, AC600U, AWPCIE-1900U, AWUS1900, AWUS036ACH, AWUS036AC, AWUS036ACM, AC1200R, ACR-1202, NRC7292, AWUS036NH, AUCM2-BS2
+- **站内公开邮箱**：sales@alfa.com.tw
+- **站内公开电话**：+886-2-2796-8477
+- **社媒**：https://twitter.com/alfanetworkinc, https://www.linkedin.com/company/alfanetwork, https://www.youtube.com/alfanetworkinc
+- **产品类页面**：https://www.alfa.com.tw/sitemap_products_1.xml?from=5859044720712&amp;to=7138353840200
+- **已抓子页**：[>> Private 5G Network – ALFA Network Inc.](https://www.alfa.com.tw/collections/4g-lte-5g-private-5g-network)；[Collections – ALFA Network Inc.](https://www.alfa.com.tw/collections)；[Products – ALFA Network Inc.](https://www.alfa.com.tw/collections/all)；[AX5GRM – ALFA Network Inc.](https://www.alfa.com.tw/products/ax5grm)；[Tube-UN – ALFA Network Inc.](https://www.alfa.com.tw/products/tube-un)；[AHPI7292S – ALFA Network Inc.](https://www.alfa.com.tw/products/ahpi7292s)
+- 首页正文摘录：Home Products Products Products Support Downloads Documents Contact us MENU Home Products Products Products Support Downloads Documents Contact us 0 My cart $0.00 Your shopping cart is empty! Subtotal : $0.00 View Cart Checkout My Account Sign in Register Wish List Cart Currency: USD USD EUR GBP PKR CAD JPY TWD ATAYA Cloud Core + 5G AP Private 5G Network Ataya Chorus, the industry’s first standalone 5G access point s
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 12、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-021.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

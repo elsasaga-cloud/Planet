@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: unreachable  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -82,6 +83,15 @@ updated: 2026-10-21
 - **风险/边界**：微型；官网未建成
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）
 - **邮件切入句（英文）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：voltechelektronik.com
+  > https://voltechelektronik.com/ conn: HTTPSConnectionPool(host='voltechelektronik.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE
+  > https://www.voltechelektronik.com/ conn: HTTPSConnectionPool(host='www.voltechelektronik.com', port=443): Max retries exceeded with url: / (Caused by NameResolut
+  > http://voltechelektronik.com/ conn: HTTPConnectionPool(host='voltechelektronik.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErr
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SA-167.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -166,6 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

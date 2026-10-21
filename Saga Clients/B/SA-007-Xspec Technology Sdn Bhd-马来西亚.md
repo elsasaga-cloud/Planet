@@ -25,6 +25,7 @@ last_contact: 2024-12-10
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -90,6 +91,22 @@ updated: 2026-10-21
 - **风险/边界**：亚太非主攻区；交换机非其主业；军警客户守界
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）
 - **邮件切入句（英文）**：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://xspectechnology.com/　语言：en　站点地图 URL 数：70
+- **标题**：XSPec Malaysia - Industrial Technology Catalog
+- **描述**：XSPec Malaysia delivers inspection equipment, security technology, healthcare systems, laboratory solutions, training, brochures, and after-sales support across Southeast Asia.
+- **首页栏目**：Industrial technology, training, and support for Southeast Asia. / Why choose XSPec? / Years of Expertise / World-Class Technology / 24/7 After-Sales Support / Explore solutions by industry. / Oil, Gas & Marine / Military, Defence & Security
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 8
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：inquiry@xspec.com.my, your@email.com
+- **站内公开电话**：+60 3 8023 1161
+- **社媒**：https://www.linkedin.com/company/xspec-technology/
+- **已抓子页**：[ADVANCED ACCURACY SOLUTIONS - Military, Defence & Security /](https://xspectechnology.com/brand/advanced-accuracy-solutions?category=military-defence-security)；[G-Tech - Oil, Gas & Marine / XSPec Malaysia](https://xspectechnology.com/brand/g-tech?category=oil-gas-marine)；[INTRON - Oil, Gas & Marine / XSPec Malaysia](https://xspectechnology.com/brand/intron?category=oil-gas-marine)；[ZARGES - Oil, Gas & Marine / XSPec Malaysia](https://xspectechnology.com/brand/zarges?category=oil-gas-marine)；[Oohashi - Oil, Gas & Marine / XSPec Malaysia](https://xspectechnology.com/brand/oohashi?category=oil-gas-marine)；[FJD Trion - Oil, Gas & Marine / XSPec Malaysia](https://xspectechnology.com/brand/fjd-trion?category=oil-gas-marine)
+- 首页正文摘录：XSPec Technology Preparing your catalog Loading product visuals and technical content. XSPec Malaysia MY Download Home Oil, Gas & Marine FJD Trion G-Tech INTRON Oohashi Pacific NDT Thermo Fisher Scientific ZARGES Zhengzhou JiuTai Technology Co. Ltd. Military, Defence & Security 908 Devices ADVANCED ACCURACY SOLUTIONS AIRA AIRCOHN ARMORSOURCE Converus DataLocker Detectachem Devtac Ronin FIRSTLINE View All -> Bio.Tech 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 8、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-007.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1006.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://trassir.ru/　语言：未标　站点地图 URL 数：500
+- **标题**：TRASSIR - видеонаблюдение и интеллектуальная видеоаналитика для бизнеса / Внедрение модулей видеоаналитики
+- **描述**：Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса. У нас можно заказать внедрение видеоаналитики "под ключ". Предлагаем комплекс от простого видеонаблюдения до внедрения модулей распознавания лиц.
+- **首页栏目**：Цифровая платформа видеонаблюдения и видеоаналитики / ОТРАСЛЕВЫЕ РЕШЕНИЯ / Для бизнеса / Для проектных бюро / ДЛЯ ДИСТРИБЬЮТОРОВ / Продукты TRASSIR / НОВОСТИ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 107、ethernet 17、nvr 14、sfp 6、2.5g 2
+- **站内型号串**（正则抽取，含非交换机）：AIP256, AIP128, RA-14T, RA-16T, RA-18T, RA-20T, RA-22T, RA-24T, RA-10T, RA-12T, RA-4T, RA-6T
+- **站内公开邮箱**：in@trassir.ru
+- **站内公开电话**：+7 (495) 133-04-61, 0005 ( 2 ) 0, 001 ( 11 ) 0, 0015 ( 20 ) 0, 002 ( 37 ) 0, 003 ( 155 ) 0
+- **产品类页面**：https://trassir.ru/products/；https://trassir.ru/products/videonablyudenie/；https://trassir.ru/products/programmnoe_obespechenie_trassir/；https://trassir.ru/products/sistemy_kontrolya_dostupa_skud/；https://trassir.ru/products/setevoe_i_kabelnoe_oborudovanie/；https://trassir.ru/products/montazhnye_materialy/
+- **已抓子页**：[Каталог](https://trassir.ru/products/)；[Услуги](https://trassir.ru/products/uslugi/)；[Видеонаблюдение](https://trassir.ru/products/videonablyudenie/)；[Монтажные материалы](https://trassir.ru/products/montazhnye_materialy/)；[Системы контроля доступа (СКУД)](https://trassir.ru/products/sistemy_kontrolya_dostupa_skud/)；[Сетевое и кабельное оборудование](https://trassir.ru/products/setevoe_i_kabelnoe_oborudovanie/)
+- 首页正文摘录：Меню +7 (495) 133-04-61 Личный кабинет Вход в личный кабинет Регистрация Забыли пароль? Войти Регистрация Я согласен на обработку персональных данных Уже зарегистрированы Регистрация Отправлено успешно Заполнить еще раз Восстановление пароля Регистрация Вспомнили пароль Отправить Отправлено успешно Заполнить еще раз Результаты поиска Каталог Видеонаблюдение Программное обеспечение TRASSIR Системы контроля доступа (СК
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 107、监控 14 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1006.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -134,7 +151,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

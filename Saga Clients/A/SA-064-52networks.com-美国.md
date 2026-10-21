@@ -24,6 +24,7 @@ last_contact: 2025-09-17
 p1: STI-110GE
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +110,19 @@ updated: 2026-10-21
 - **风险/边界**：政府/GSA 渠道要求 TAA——Saga 产品非 TAA，只能供其商业客户与网店；小公司，单次量小；MC 单价低
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报
 - **邮件切入句（英文）**：For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://52networks.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A
+- **描述**：Buy bulk ethernet cables — Cat5e, Cat6 & Cat6A in 100% solid bare copper, plenum & riser. ETL listed, Fluke tested, fast US shipping. Shop bulk pricing.
+- **首页栏目**：Authorize partner With C2G, Tripplite, Transition, Startech and Perle Systems / Our Stores / Track Your Order / Help / Wishlist / Welcome / Home / Free Delivery
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 215、ethernet 115、media converter 73、fiber 67、gigabit 20、sfp 13、poe 8、access control 3、switch 2
+- **站内公开邮箱**：mail@example.com
+- **已抓子页**：[Network Hardware Archives - 52Networks](https://52networks.com/product-category/network-hardware)；[Network Accessories Archives - 52Networks](https://52networks.com/product-category/network-accessories)；[Shelves Archives - 52Networks](https://52networks.com/product-category/network-hardware/shelves)；[Enclosures Archives - 52Networks](https://52networks.com/product-category/network-hardware/enclosures)；[Accessories Archives - 52Networks](https://52networks.com/product-category/network-hardware/accessories)；[Rack Mounts Archives - 52Networks](https://52networks.com/product-category/network-hardware/rack-mounts)
+- 首页正文摘录：Authorize partner With C2G, Tripplite, Transition, Startech and Perle Systems USD USD EUR Eng Eng Frh Our Stores Track Your Order Help Wishlist Search All Categories Uncategorized Bulk Ethernet Cables Ethernet Patch Cords Fiber Optics Patch Cords Media Converters Network Accessories Network Hardware Coax Cables Speaker/Security Fiber Optic SFP Modules Welcome Sign In / Register 0 Shopping Cart 0 Browse Categories Bul
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 8、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-064.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

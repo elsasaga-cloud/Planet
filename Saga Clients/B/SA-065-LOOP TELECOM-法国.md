@@ -25,6 +25,7 @@ last_contact: 2025-12-01
 p1: STI-110GE
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -85,6 +86,21 @@ updated: 2026-10-21
 - **风险/边界**：台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）
 - **邮件切入句（英文）**：If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://looptelecom.com/　语言：未标　站点地图 URL 数：346
+- **标题**：Loop Telecom
+- **描述**：Loop Telecom designs, develops, and manufactures hardware and software for the telecommunications industry. We transport voice to 10 GE: TDM-PDH Multi-services, transport SDH-SONET, PTN MPLS-TP, Carrier Ethernet, Ethernet Switch, Router, PseudoWire, fiber
+- **首页栏目**：Loop Telecom Product Catalog 2026 / G7800 PTN MPLS/CE Packet Transport Network / IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch / G7820 L2/L2.5/L3 Intelligent Switch / Explore your G7860A 10G PTN Access Node / Standards Compliant & Environment Friendly / Loop Telecom Passes ISO27001 Certification / Wavelength Division Multiplexing Multi-Service Platform WDM1800
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 122、switch 77、telecom 46、industrial 28、poe 21、fiber 21、10g 10、gigabit 9、sfp 2、data center 2、cable 2、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：IEC61850-3, EN50121-4, IP6828, IP6838, IP6808, IP6818, IEC61850, RFC6378, ISO27001, WDM1800, IP6704A, IP6820
+- **社媒**：https://www.linkedin.com/company/loop-telecom-international/
+- **产品类页面**：https://www.looptelecom.com/en/product；https://www.looptelecom.com/en/product/PDH-TDM-Multi-service-multiplexer--Cross-Connect-DACS；https://www.looptelecom.com/en/product/SDH-SONET-MSTP-Multiplexer；https://www.looptelecom.com/en/product/TDM-over-IP-Ethernet-Pseudowire-tdmoe；https://www.looptelecom.com/en/product/PTN-MPLS-TP-Carrier-Ethernet-LSP；https://www.looptelecom.com/en/product/Fiber-DSL-Line-Extension
+- **已抓子页**：[Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethe](https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop-IP6828-Industrial-Rack-Mount-L2-L3-Managed-Gigabit-Ethernet-PoE-PoE-Switch)；[Industrial DIN-rail Switch L2/L3-Ethernet Access and Switch-](https://looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Industrial-DIN-rail-Switch-L2-L3)；[Industrial IEC61850-3 Switch L2/L3-Ethernet Access and Switc](https://looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Industrial-IEC61850-3-Switch-L2-L3)；[Industrial GE / 10GE Ethernet Layer 2/2.5/3 Switch - G7820-P](https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/PTN-MPLS-TP-CE-Switch/Industrial-GE-10GE-Ethernet-Switch-G7820)；[G7800 PTN MPLS/CE Packet Transport Network-PTN-MPLS-Carrier ](https://www.looptelecom.com/en/product/PTN-MPLS-TP-Carrier-Ethernet-LSP/G7800-PTN-MPLS-CE-Packet-Transport-Network)；[Network Management-Products-Loop Telecom](https://looptelecom.com/en/product/Network-Management)
+- 首页正文摘录：News Technology SDH/SONET MPLS-TP Carrier Ethernet TDMoE Pseudowire TDM-PDH Access Solution Power Utilities Oil, Gas, & Petroleum Enterprises & Offices Public Transportation Carrier Backhaul Management TDM over Ethernet Mission Critical Communications Products Multi-service Cross Connect SDH-SONET-MSTP Multiplexer TDM over IP/Ethernet PTN-MPLS-Carrier Ethernet Fiber-DSL Line Extension Network Management Wavelength Di
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 28、PoE 21 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-065.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

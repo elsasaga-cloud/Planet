@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STC-28GPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +90,24 @@ updated: 2026-10-21
 - **风险/边界**：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）
 - **邮件切入句（英文）**：Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.stasanet.rs/　语言：sr　站点地图 URL 数：4792
+- **标题**：Alarmi i alarmni sistemi Video nadzor Interfoni STASANET
+- **描述**：Stasanet DOO se bavi uvozom i distribucijom sigurnosne opreme: alarmni sistemi, video nadzor, kontrola pristupa. Pružićemo najbolje i najoptimalnije rešenje za vaš poslovni ili stambeni objekat.
+- **首页栏目**：Kategorije × / Alarmni sistemi / Video nadzor / Auto Tehnika / Pešačke barijere / Protivpožarni sistem / Pristupni sistemi, kapije / Solarni sistemi
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 53、dahua 45、nvr 23、switch 22、wifi 7、mikrotik 7、poe 5
+- **站内出现的品牌**：Hikvision, Dahua, MikroTik, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-3E0105P-E, NC300, DS-3E0105D-O, SF1005L, DS-3E0108D-O, DS-3E0108D-E, SF1005, SF1008L, DS-3E0505D-O, NC650, PFS3005-5GT-L, DS-3E0505-O
+- **站内公开邮箱**：sales@stasanet.rs
+- **站内公开电话**：+381 11 4065 158, +381 64 88 00 999
+- **社媒**：https://twitter.com/share, https://www.facebook.com/STASANETrs, https://www.instagram.com/stasanetrs/, https://www.linkedin.com/company/stasanet-doo/posts/?feedView=all, https://www.youtube.com/@stasanetdoo
+- **产品类页面**：https://www.stasanet.rs/artikal/imvr-08poe-fullhd-nvr；https://www.stasanet.rs/artikal/dl-12-poe-splitter-napajanje；https://www.stasanet.rs/artikal/sibh-2020poe-ip-ptz-；https://www.stasanet.rs/artikal/rx-pse108ex-poe-switch；https://www.stasanet.rs/artikal/ji-114z-4ch-poe-switch；https://www.stasanet.rs/artikal/ubiquiti-usw-pro-24-poe-eu-configurable-gigabit-layer2-and-layer3-switch-with-auto-sensing-802-3at-poe--and-802-3bt-poe----usw-pro-24-poe-
+- **已抓子页**：[4CH 2MP IP POE KOMPLET - STASANET d.o.o.](https://www.stasanet.rs/artikal/4ch-2mp-ip-poe-komplet)；[Snimači - STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch)；[- STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/switch)；[Monitori - STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/monitori)；[Razno - STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/ups-oprema)；[- STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/nvr-snimaci)
+- 首页正文摘录：B2B Gotova REŠENJA Kontakt Uputstva Politika privatnosti Alarmni sistemi Video nadzor Auto Tehnika Pešačke barijere Protivpožarni sistem Pristupni sistemi, kapije Solarni sistemi NOVO - EV punjači Specijalne kamere Memorije, napajanja, alati Mrežna oprema Moj nalog Prijavi se Registracija 0 Kategorije × Alarmni sistemi Jablotron 100 Mercury Akumulatori i baterije Nadzor disanja za bebe Video nadzor Kamere Kamere IP K
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 5、监控 23 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1000.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

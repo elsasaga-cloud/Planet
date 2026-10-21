@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 20 次（2023-11-08 → 2025-10-06）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -96,6 +97,15 @@ updated: 2026-10-21
   - 岛屿型安装商、CCTV 为常规业务——8/16 口 PoE 为耗材；已有成交 + WA（用户表）——保持低频补货式跟进
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档
 - **邮件切入句（英文）**：Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：intecseg.com
+  > https://intecseg.com/ http 404 ct=text/html; charset=utf-8
+  > https://www.intecseg.com/ http 404 ct=text/html; charset=utf-8
+  > http://intecseg.com/ http 404 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-047.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -201,6 +211,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

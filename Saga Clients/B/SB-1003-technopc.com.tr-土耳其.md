@@ -22,6 +22,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -68,6 +69,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1003.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://technopc.com.tr/　语言：tr-TR　站点地图 URL 数：593
+- **标题**：Technopc
+- **描述**：Technopc
+- **首页栏目**：Technopc / Teknik Destek / Diğer Talepleriniz İçin
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 83、switch 4、poe 3、ethernet 1、gigabit 1、10g 1、access control 1
+- **站内型号串**（正则抽取，含非交换机）：TPN14AW, TM-T10EA, TB154, TP-PRO-N100, TM-T08EJ, TM-T04, TPL22V, TPL27, SRV626448, SRV512503, TM-T05UR, PO15F20R04A1
+- **站内公开邮箱**：info@technopc.com.tr, teknik@technopc.com.tr
+- **站内公开电话**：+90 (216) 481 40 00, +90 (850) 533 39 99, +90 216 329 39 99, +90 549 737 11 70, +99 877 707 22 20
+- **社媒**：https://www.facebook.com/TechnopcOfficial/, https://www.instagram.com/technopcofficial/, https://www.linkedin.com/company/technopc/, https://www.youtube.com/channel/UCyVKYJLarfHZ0HVkdHixkmw
+- **产品类页面**：https://technopc.com.tr/kurumsal-urunler/；https://technopc.com.tr/endustriyel-urunler/；https://technopc.com.tr/network-urunleri/；https://technopc.com.tr/biyometrik-urunler/；https://technopc.com.tr/ozel-siparis-urunleri/；https://technopc.com.tr/ozel-siparis-urunleri-kurumsal-urunler/
+- **已抓子页**：[AI Endüstriyel Ürünler](https://technopc.com.tr/ai-endustriyel-urunler/)；[Endüstriyel Ürünler](https://technopc.com.tr/ozel-siparis-urunleri-endustriyel-urunler/)；[Ürün Talep Formu](https://technopc.com.tr/urun-talep-formu/)；[Biyometrik Ürünler](https://technopc.com.tr/biyometrik-urunler/)；[Kurumsal Ürünler](https://technopc.com.tr/ozel-siparis-urunleri-kurumsal-urunler/)；[Network Çözümleri](https://technopc.com.tr/network-urunleri/)
+- 首页正文摘录：Destek Teknik Destek Talep Formu Ürün Talep Formu Destek & Servis Noktaları Sürücü ve Dokümanlar Sürücüler FTP Ürün Destek Sayfası Haberler Blog Kariyer Kurumsal Hakkımızda Politikalarımız Yönetim Kurulu İş Ortakları Sürdürülebilirlik Referanslar Özel Sektör Kamu Sertifikalar Katalog DMO Katalog Donanım Çözümleri Kurumsal Ürünler Mini PC Masaüstü PC Dizüstü Bilgisayar Tablet All In One Monitör İş İstasyonu Server&Sto
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 3、监控 83 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1003.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

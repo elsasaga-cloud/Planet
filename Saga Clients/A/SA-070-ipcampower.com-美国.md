@@ -24,6 +24,7 @@ last_contact: 2025-08-22
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -102,6 +103,22 @@ updated: 2026-10-21
 - **风险/边界**：UL Listed + TAA 是其卖点，Saga 无 UL 且非 TAA → 只能供非 UL/非 TAA 的新 SKU（例如管理型千兆 8 口）；电商价带低（24 口 PoE $209.99 零售）
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——IPCP-8G4G-AT1（8 GE PoE + 4 上联）对位 STC-28DGGPM（管理型，EXW $80.7 @20%）作为「managed」新 SKU；24 口千兆位 STC-424DGGPM-280W（EXW $134.5）；电商 20% 档；不承诺 UL/TAA
 - **邮件切入句（英文）**：Next to the IPCP-8G4G-AT1, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP at EXW cost gives you a managed tier without UL or TAA claims, and the 24-port gigabit 4-uplink unit you currently list as sold out is the second one I am pricing.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ipcampower.com/　语言：en　站点地图 URL 数：10
+- **标题**：IPCamPower POE Switches and Devices for IP Cameras
+- **描述**：IPCamPower supplies POE Switches, Extenders, Splitters, and other devices designed specifically for the IP POE camera installer.
+- **首页栏目**：Dealer Program / PoE Switches / PoE Injectors / PoE Monitors / PoE Extenders & Repeaters / Our Mission / Quick Links / Newsletter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 386、switch 191、gigabit 96、ethernet 24、cable 19、camera 15、sfp 8、industrial 6、installer 4、fiber 2、10g 2、cctv 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, MM-PS90-BT1
+- **站内公开邮箱**：sales@ipcampower.com, u003esales@ipcampower.com
+- **产品类页面**：https://ipcampower.com/sitemap_products_1.xml?from=5866927751336&amp;to=8776179613868；https://ipcampower.com/blogs/multi-port-10g-poe-injectors-802-3bt-poe；https://ipcampower.com/blogs/blog-posts/how-much-time-and-money-will-you-save-with-the-ipcp-212-poe-combiner-and-splitter；https://ipcampower.com/blogs/blog-posts/this-poe-monitor-is-a-game-changer；https://ipcampower.com/blogs/news/multi-port-10g-poe-injectors-802-3bt-poe
+- **已抓子页**：[10/100 POE Switches — IPCamPower](https://ipcampower.com/collections/10-100-poe-switches)；[Gigabit POE Switches — IPCamPower](https://ipcampower.com/collections/gigabit-poe-switches)；[POE Switches — IPCamPower](https://ipcampower.com/collections/unmanaged-poe-switches)；[Extend-Mode UnManaged POE Switches — IPCamPower](https://ipcampower.com/collections/extend-mode-unmanaged-poe-switches)；[802.3bt Extreme Power POE++ POE Switches - 90 Watts Per Port](https://ipcampower.com/collections/802-3bt-extreme-power-poe-poe-switches-90-watts-per-port)；[POE Monitors — IPCamPower](https://ipcampower.com/collections/poe-monitors)
+- 首页正文摘录：Skip to content 💬 Chat with Eddie sales@ipcampower.com 💬 Chat with Eddie sales@ipcampower.com Menu Cancel Login View cart Home POE Switches 10/100 POE Switches Gigabit POE Switches Extend Mode POE Switches 802.3bt Extreme Power POE++ Switches POE Injectors POE Monitors Extenders/Repeaters/Splitters About Us Dealers Clearance Login Close Home POE Switches POE Switches 10/100 POE Switches Gigabit POE Switches Extend Mo
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 386 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-070.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

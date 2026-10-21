@@ -24,6 +24,7 @@ last_contact: 2025-11-11
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -106,6 +107,21 @@ updated: 2026-10-21
 - **风险/边界**：E-link 深度合作 → 替换难，定位二供/新品类（2.5G/10G、bt）；瑞典公共部门框架要求文档/环保（RoHS/REACH）齐全，Saga 具备 CE/RoHS/REACH
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——Direktronik Pro 8 PoE + 2 SFP 管理 DIN 与 STI-288DGGPM 同位；Connect 4 PoE + 1 SFP 对位 STI-144GP；分销 20% 档（自有品牌贴标可 25%）
 - **邮件切入句（英文）**：Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.direktronik.se/　语言：sv　站点地图 URL 数：0
+- **标题**：Direktronik - dataprodukter utöver det vanliga
+- **描述**：Direktronik erbjuder lösningar för nätverksadministration, mediakonverterare, förlängare, fiber-, kopparkablage, mobilt, övervakning, IP-kameror, spänningsmatning.
+- **首页栏目**：Summa produkter: / Produkterna / Lösningarna / Kunskapsbanken / Kampanjer / Skyltar / Direktronik firar 40 år / Produktnyheter hos oss!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 189、poe 147、switch 118、sfp 97、ethernet 55、datacenter 46、cctv 35、automation 26、scada 14、gigabit 10、10g 9、wifi 8
+- **站内型号串**（正则抽取，含非交换机）：BMP71, BMP61, BBP11, BBP85, BBP33, SFP56, SFP28, QSFP28, PT100, PT1000, M210-LAB, BMP21
+- **站内公开邮箱**：info@direktronik.se
+- **站内公开电话**：+46 8 52 400 700, 000-4-5). 1 260
+- **已抓子页**：[PoE - strömförsörj nätverksprodukter utan strömadapter](https://www.direktronik.se/losningarna/power-over-ethernet/poe---stromforsorj-natverksprodukter-utan-eluttag-och-stromadapter/)；[PoE-produkter på lager - För din krävande installation](https://www.direktronik.se/losningarna/power-over-ethernet/poe-for-din-montage/)；[PoE för LED – lösningar för smarta byggnader](https://www.direktronik.se/losningarna/power-over-ethernet/poe-for-led--losningar-for-smarta-byggnader/)；[Diameter på fiberkontakter](https://www.direktronik.se/losningarna/fiber/diameter-fiberkontakter/)；[KVM-switchar Extenders - Direktronik AB](https://www.direktronik.se/direktronik/natverk/kvm-switcharextenders/)；[Industriella datorer - Direktronik AB](https://www.direktronik.se/direktronik/natverk/datorer/industrial-computers/)
+- 首页正文摘录：Varukorg Summa produkter: 0 SEK Totalt 0 SEK inkl. moms Gå till kassan och betala Logga in E-post: Lösenord: Logga in Du skrev in fel användarnamn eller lösenord Glömt ditt lösenord? Skapa konto Återställ lösenord Ange din e-postadress E-post: Du bör få ett mail inom kort, annars kontakta oss på Direktronik så hjälper vi dig. Tillbaka Skapa konto Skapa konto Företag Privat: Företag: * Org.nr: * Förnamn: * Efternamn: 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 19、PoE 147 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-067.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

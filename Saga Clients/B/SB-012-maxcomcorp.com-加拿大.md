@@ -22,6 +22,7 @@ last_contact: 2025-10-18
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-05-17 → 2025-10-18）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-012.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.maxcomcorp.com/　语言：en-US　站点地图 URL 数：86
+- **标题**：Manufacturer of fiber optic transport equipment and digital TV equipment / Maxcom, Inc.
+- **描述**：Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA's, Encoders for Video, RF, Digital TV, ASI signals and Cable TV.
+- **首页栏目**：FIBER OPTIC AND DIGITAL TV PRODUCTS AND SOLUTIONS / Solutions for P.E.G. Providers and Broadcasters / Specializing in Transporting and Converting TV Signals / Maximizing a Single Fiber Strand with Wave Division Multiplexing
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 170、ethernet 47、switch 17、gigabit 12、media converter 11、ftth 9、sfp 8、10g 8、cable 8、poe 7、telecom 7、industrial 1
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS455, MX555AGC-1, MX555AGC, MX555, MX700, MX-OFSW-2X1, MXOFSW-2X1, RJ-45, IEEE-802, MX4500, MX700AC-MT
+- **站内公开邮箱**：maxcomcorp@yahoo.com, sales@maxcomcorp.com, support@maxcomcorp.com
+- **产品类页面**：https://www.maxcomcorp.com/custom-solutions-build-your-own-product/；https://www.maxcomcorp.com/product-search/；https://www.maxcomcorp.com/product-categories/；https://www.maxcomcorp.com/product-details/sm-cables/；https://www.maxcomcorp.com/product-details/catv-fiber-optic-transmitter-w-customer-specified-itu-wavelength/；https://www.maxcomcorp.com/product-details/attenuators/
+- **已抓子页**：[2x1 Auto Detect Optical Switch - Maxcom, Inc. - Manufacturer](https://www.maxcomcorp.com/product-details/fiber-optical-protection-switch/)；[Data / Ethernet Archives - Maxcom, Inc. - Manufacturer of fi](https://www.maxcomcorp.com/products/data-ethernet/)；[L Band Satellite over Fiber Archives - Maxcom, Inc. - Manufa](https://www.maxcomcorp.com/products/l-band-to-fiber/)；[CATV Receiver / Fiber Optic RF Receivers for CATV, RFoG & HF](https://www.maxcomcorp.com/products/catv-rf-over-fiber/)；[Fiber Splitter (Fiber Optic Splitters) / PLC & FBT Options /](https://www.maxcomcorp.com/product-details/fiber-optic-splitter/)；[Fiber to RF Receiver / Mini Fiber Optic Receiver with AGC fo](https://www.maxcomcorp.com/product-details/mini-fiber-optic-receiver-2/)
+- 首页正文摘录：HOME PRODUCTS All Product Categories Audio / Video ASI-SDI-MPEG-HDTV Data / Ethernet CATV / RF Over Fiber EDFA – Optical Amplifiers L Band Satellite over Fiber Passive Devices FTTx / PON / RFoG RF Overlay Test Equipment Transmitters – CATV Drop Amplifiers – RF Archived Past Products Custom Solutions – Build Your Own Product COMPANY Company Overview Our Customers Certifications and Associations Events and News CONTACT
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 9、交换机 17 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-012.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,7 +186,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -24,6 +24,7 @@ last_contact: 2025-10-29
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -112,6 +113,22 @@ updated: 2026-10-21
 - **风险/边界**：澳洲 RCM 合规（Saga 无 RCM，需说明 CE 等效或客户自认）；矿业场景可能要求更高防护
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话
 - **邮件切入句（英文）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://cabledistribution.com.au/　语言：en-US　站点地图 URL 数：287
+- **标题**：Cable Distribution Services / We Put The ‘able’ In Cable
+- **描述**：Looking for dependable, durable cabling to power your next project? CDS leverage over 150 years of combined experience to deliver tailored solutions.
+- **首页栏目**：Australia’s Cable Supplier of Choice / Why Choose Cable Distribution Services? / Our Product Categories / Power Cables / Communication Cables / Fibre Optic / Data / Accessories
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 262、fibre 50、industrial 2、telecom 2、cisco 1
+- **站内型号串**（正则抽取，含非交换机）：R-EP-110, X-HF-110, H07RN-F
+- **站内公开邮箱**：sales@cabledistribution.com.au
+- **站内公开电话**：+61 (08) 9375 6522, +61 (08) 9375 6522 1800
+- **社媒**：http://linkedin.com/company/cable-distribution-services/, https://www.facebook.com/people/Cable-Distribution-Services/100067404909773/
+- **产品类页面**：https://cabledistribution.com.au/industries/industrial/；https://cabledistribution.com.au/products/；https://cabledistribution.com.au/products/；https://cabledistribution.com.au/product/multi-core-power-screened-pvc-uv-0-6-1kv-translucent-orange/；https://cabledistribution.com.au/product/festoon-screened-rubber/；https://cabledistribution.com.au/product/festoon-rubber/
+- **已抓子页**：[Network Cabling/LAN - Cable Distribution Services](https://cabledistribution.com.au/product-category/data/network-cabling-lan-data/)；[Products - Cable Distribution Services](https://cabledistribution.com.au/products/)；[EMC - Cable Distribution Services](https://cabledistribution.com.au/product-tag/emc/)；[LSZH - Cable Distribution Services](https://cabledistribution.com.au/product-tag/lszh/)；[Potable - Cable Distribution Services](https://cabledistribution.com.au/product-tag/potable/)；[Data - Cable Distribution Services](https://cabledistribution.com.au/product-category/data/)
+- 首页正文摘录：Skip to content My Quote Menu Close Products Power Cables Communication Cables Data Fibre Accessories Shop by Feature Aerial Fire Rated Flexible - Power & Control High Temperature Hoist & Crane Low Voltage 0.6kV/1kV Cable Marine Medium / High Voltage Cable Mining Offshore Reeling & Trailing Rubber Flexible VSD – EMC All Power Cables Bus Cables Fire Rated Instrumentation Marine Offshore All Communication Cables Networ
+- 数据文件：`data/saga_clients/site_snapshots/SA-038.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

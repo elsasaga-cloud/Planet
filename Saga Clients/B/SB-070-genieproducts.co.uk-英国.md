@@ -22,6 +22,7 @@ last_contact: 2025-10-14
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-04-29 → 2025-10-14）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-070.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://genieproducts.co.uk/　语言：en-GB　站点地图 URL 数：398
+- **标题**：Home - Genie Products
+- **首页栏目**：Solutions / CADIP8NEBVAF / Access control & biometrics / WIP2FRTMTP / CCTV / WIPX4NMVDVAF / Software / Recent software updates
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 171、camera 153、access control 68、poe 16、wireless 15、switch 12、nvr 10、ethernet 8、gigabit 8、surveillance 7、installer 4、sfp 3
+- **站内型号串**（正则抽取，含非交换机）：GCN4000, GHD242TDN, GHD232, GHD232CP, GAHDB650IR, GAHDB23W, LMV-10M, DC12V, WNVRN216P5V2, IP16GESP2, IP24GESP2, HXMB22MPV2
+- **站内公开电话**：+44(0)1707 330541
+- **产品类页面**：https://genieproducts.co.uk/news/；https://genieproducts.co.uk/news/2026/01/13/choosing-the-right-cctv-system-for-your-needs/；https://genieproducts.co.uk/news/2026/08/10/what-is-a-ptz-camera-and-when-should-you-use-one/；https://genieproducts.co.uk/news/2026/07/09/how-many-cctv-cameras-do-i-need-for-my-property/；https://genieproducts.co.uk/news/2026/06/18/why-smart-intercom-systems-are-becoming-essential-for-modern-buildings/；https://genieproducts.co.uk/news/2026/05/21/understanding-cctv-storage-solutions-cloud-vs-local-recording/
+- **已抓子页**：[Network IP Archives - Genie Products](https://genieproducts.co.uk/shop/product-category/cctv/network-ip/)；[CCTV Archives - Genie Products](https://genieproducts.co.uk/shop/product-category/cctv/)；[AHD Archives - Genie Products](https://genieproducts.co.uk/shop/product-category/cctv/ahd/)；[HD-SDI Archives - Genie Products](https://genieproducts.co.uk/shop/product-category/cctv/hd-sdi/)；[Lenses Archives - Genie Products](https://genieproducts.co.uk/shop/product-category/cctv/lenses/)；[Monitors Archives - Genie Products](https://genieproducts.co.uk/shop/product-category/cctv/monitors/)
+- 首页正文摘录：Skip to content Solutions Solutions About Genie Solutions Video Solutions Access Control Solutions CADIP8NEBVAF 8MP NDAA PSTI IP Active Deterrent Eyeball Camera, Auto Focus Varifocal Lens Two Way Audio, Intelligent Analytics, White Light, Red and Blue Warning Lights Learn more Access control & biometrics Access control & biometrics Door Controllers Biometric Readers Enrolment Readers Keypads & Readers Exit Buttons En
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 16、监控 341 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-070.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

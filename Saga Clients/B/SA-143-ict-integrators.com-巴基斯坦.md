@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -97,6 +98,23 @@ updated: 2026-10-21
 - **风险/边界**：南亚非主攻区；巴基斯坦外汇/信用证周期；无互动
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）
 - **邮件切入句（英文）**：Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ict-integrators.com/　语言：en　站点地图 URL 数：0
+- **标题**：ICT Integrators / Your Digital Transformation Partner
+- **描述**：ICT Integrators
+- **首页栏目**：Networking / Wireless / Collaboration / Cyber Security / Data Center / Cloud & IoT / Monitoring / Video Surveillance
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 51、wireless 45、integrator 43、switch 30、surveillance 29、sfp 28、ethernet 28、data center 15、poe 14、telecom 14、fiber 8、access control 8
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28
+- **站内公开邮箱**：apac@ict-integrators.com, contact@ict-international.ae
+- **站内公开电话**：+92-42-35951406-7, +971-4-221-6756
+- **社媒**：https://www.facebook.com/ICTIntegrators
+- **已抓子页**：[ICT Integrators / Contact Us](https://ict-integrators.com/contact)；[About Us](https://ict-integrators.com/about-us)；[Partners](https://ict-integrators.com/partners)；[Resource Services](https://ict-integrators.com/resource-services)；[Professional Services](https://ict-integrators.com/professional-services)；[ICT Integrators / Your Digital Transformation Partner](https://ict-integrators.com/application-development-services)
+- 首页正文摘录：MENU CLOSE Home About Us Partners Products & Solutions Professional Services Application Development Services Resource Outsourcing Gallery Our Team Software Services Trainings Support Clients Contact Us Enterprise Industrial Service Provider Networking We supply, design, build, optimize and maintain networking infrastructures for organisations. Interested Wireless In wireless communications, we offer our customers su
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 56、PoE 14 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-143.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

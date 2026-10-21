@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（? → ?）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-086.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.elmospa.com/en/　语言：en-gb　站点地图 URL 数：0
+- **标题**：EL.MO. S.p.A - Home
+- **描述**：Innovazione, ricerca e affidabilità si uniscono per ideare e produrre sistemi di sicurezza professionali per beni e persone.
+- **首页栏目**：Residential / Industries / Infrastructure / Retail & large scale distribution / Banking solutions / Download Area / For 50 years, we’ve been innovating security for your peace of mind / Your trusted security partner for every setting
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 53、surveillance 47、access control 36、installer 34、wireless 32、switch 28、distributor 26、industrial 23、cctv 16、nvr 7、automation 6、wholesale 5
+- **站内型号串**（正则抽取，含非交换机）：RS485, EN50131, RS-485, SA5000
+- **站内公开电话**：+39 049 920 33 31, +39 049 920 33 33, +39 049 9203333, +39 334 673 01 13, 00605640283
+- **社媒**：https://wa.me/3346730113, https://www.facebook.com/elmospasicurezza, https://www.linkedin.com/company/el.mo.-spa, https://www.youtube.com/c/Elmospa
+- **已抓子页**：[EL.MO. S.p.A - Switch](https://www.elmospa.com/en/switch)；[EL.MO. S.p.A - About us](https://www.elmospa.com/en/company/about-us)；[EL.MO. S.p.A - Contacts](https://www.elmospa.com/en/company/contacts)；[EL.MO. S.p.A - Gas detection systems](https://www.elmospa.com/en/gas-detection-systems)；[EL.MO. S.p.A - NG-TRX](https://www.elmospa.com/en/products/ng-trx)；[EL.MO. S.p.A - D-Pulse](https://www.elmospa.com/en/products/d-pulse)
+- 首页正文摘录：Skip to main content Target audience Installer Distributor Project designer Security Manager Environments Residential Industries Infrastructure Retail & large scale distribution Banking solutions Products Lines Intrusion Detection Fire detection Video surveillance Access control Technologies D-Pulse Ultrabus e Terabus NG-TRX Nexya Loop Calculator Multi-operator SIM Software e-Connect Global Pro Nx Witness PassManager
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 28、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-086.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

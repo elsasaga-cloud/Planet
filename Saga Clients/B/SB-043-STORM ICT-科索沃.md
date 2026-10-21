@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +90,13 @@ updated: 2026-10-21
 - **风险/边界**：科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）
 - **邮件切入句（英文）**：Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://storm-ict.com/cgi-sys/suspendedpage.cgi　语言：未标　站点地图 URL 数：0
+- **标题**：Account Suspended
+- 首页正文摘录：Account Suspended This Account has been suspended. Contact your hosting provider for more information.
+- 数据文件：`data/saga_clients/site_snapshots/SB-043.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

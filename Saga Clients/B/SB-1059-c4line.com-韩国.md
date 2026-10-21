@@ -22,6 +22,7 @@ last_contact: 2025-10-31
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 23 次（2024-05-06 → 2025-10-31）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1059.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://c4line.com/　语言：ko-kr　站点地图 URL 数：0
+- **标题**：C4Line
+- **描述**：C4Line is the pioneer technology company for the IP Extender & Communication devices. 씨포라인은 IP Ethernet over Coax/UTP/2Wire 제품등 IP 디바이스의 장거리 전송에 필요한 산업용 모뎀을 자체 개발, 생산 하는 전문업체 입니다. 해외 유수의 업체들과 글로벌 파트너십을 맺고 있으며 탄탄한 기술력을 바탕으로 현재 미래 전송장비를 선도적으로 개발하고 있습니다.
+- **首页栏目**：Connect the Future / C4L2000G-WB6E-2E / C4L6400-2W-BT / C4L6400M-2W-P / Gigabit Extenders (1Gbps) / Fast Ethernet Extenders (100Mbps) / Wireless & Wired Extenders (Hybrid) / Accessories
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 10、gigabit 8、wireless 8、poe 4、camera 2、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：C4L2000G-WB6E-2E, C4L6400-2W-BT
+- **站内公开电话**：+82 504 204 9847, +82 70 4100 8847
+- **社媒**：https://www.linkedin.com/company/c4line/, https://www.youtube.com/@c4lineco.612, https://www.youtube.com/watch?v=1Qb6PVYaDOk&t=19s, https://x.com/i/flow/login?redirect_after_login=%2Fgunkim_c4line
+- **已抓子页**：[Gigabit Extenders / Products / C4Line](https://c4line.com/pages/board/board.list.php?board_no=79)；[About Us / Contact Us / C4Line](https://c4line.com/pages/cu/au.php)；[How to Buy / Contact Us / C4Line](https://c4line.com/pages/cu/buy.php)
+- 首页正文摘录：C4Line Products Gigabit Extenders Fast Ethernet Extenders Wireless & Wired Extenders Accessories Videos Product Video Exhibition Video Product Education Video News & Events News Events Support Technical Support Warranty Policies Quality / Environment Downloads Contact Us How to Buy About Us History Products Gigabit Extenders Fast Ethernet Extenders Wireless & Wired Extenders Accessories Videos Product Video Exhibitio
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 4 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1059.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -175,7 +191,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

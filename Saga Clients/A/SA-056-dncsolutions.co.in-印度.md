@@ -24,6 +24,7 @@ last_contact: 2025-06-21
 p1: STI-144GP
 price_tier: 30%
 research: done
+site_snapshot: timeout  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）；最近一次客户回复：2024-12-09：1211: 22迷你
 - **P1（下一步唯一主推）**：STI-144GP — 深挖对位：自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -102,6 +103,15 @@ updated: 2026-10-21
 - **风险/边界**：MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档
 - **邮件切入句（英文）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+
+- 尝试域名：dncsolutions.co.in
+  > https://dncsolutions.co.in/ conn: HTTPSConnectionPool(host='dncsolutions.co.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErro
+  > https://www.dncsolutions.co.in/ conn: HTTPSConnectionPool(host='www.dncsolutions.co.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeout
+  > http://dncsolutions.co.in/ conn: HTTPConnectionPool(host='dncsolutions.co.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-056.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -207,6 +217,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

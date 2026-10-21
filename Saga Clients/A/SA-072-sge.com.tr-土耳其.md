@@ -24,6 +24,7 @@ last_contact: 2025-12-01
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -106,6 +107,23 @@ updated: 2026-10-21
 - **风险/边界**：能源/电力自动化客户常要 IEC 61850-3/IEEE 1613——Saga 工业机不具备，只供一般工业/楼宇位；土耳其 TL 波动；USD EXW 报价
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——网店主力 CIEN3206GP-2GF-4GTPOE（4 GE PoE + 2 SFP，≈$340 含税）对位 STI-144GP/（2 SFP 版核价）；CIEN3210GP/CISCOM7210GP 对位 STI-288DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Your CIEN3206GP-2GF-4GTPOE lists with a five-week lead time, and the matching 4-port gigabit PoE + 2 SFP DIN unit we build ships in 10–15 days at EXW, so I am quoting that with the 8-port managed CISCOM7210GP equivalent.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sge.com.tr/　语言：en　站点地图 URL 数：0
+- **标题**：SGE Mühendislik - Ölçüm & Analiz & Uygulama
+- **描述**：Ölçüm & Analiz & Uygulama
+- **首页栏目**：ÜRÜNLER / ZENON YAZILIM PLATFORMU (SCADA) / ENDÜSTRÝYEL NETWORK ÜRÜNLERÝ / OTOMASYON ÜRÜNLERÝ (PLC, DCS, IO, OP.PANEL) / ZAYIF AKIM SÝSTEMLERÝ (YANGIN, KAMERA, ACÝL ANONS) / ENDÜSTRÝYEL ÖLÇÜM, KORUMA, KONTROL / ENERJÝ KALÝTESÝ ÇÖZÜMLERÝ / TEST VE ÖLÇÜM ÜRÜNLERÝ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：scada 9、ethernet 6、fiber 2、wifi 2、switch 1、wireless 1
+- **站内出现的品牌**：Moxa, Maiwe　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MX407, CA8345, EN50160, IEC61000-4-30, RS232, IEC62749, RS485, MX0407, MN93A, PAC93, MA194, CA8345-PA32ER
+- **站内公开邮箱**：info@sge.com.tr, mail@oscarmedya.com
+- **站内公开电话**：+90 216 481 43 62, +90 216 481 78 04
+- **社媒**：http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=JuizSocialPostSharer&title=CA8345 ClassA Portatif Enerji Kalite Analizörü&url=http://www.sge.com.tr/urundetay-ca8345-classa-portatif-enerji-kalite-analizoru-30-1784.html, http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=JuizSocialPostSharer&title=MX407, 1000 Vdc Ýzolasyon Direnci Test Cihazý&url=http://www.sge.com.tr/urundetay-mx407-1000-vdc-izolasyon-direnci-test-cihazi-257-100.html, https://twitter.com/SGE_Muh, https://twitter.com/intent/tweet?text=CA8345 ClassA Portatif Enerji Kalite Analizörü&url=http%3A%2F%2Fwww.sge.com.tr%2Furundetay-ca8345-classa-portatif-enerji-kalite-analizoru-30-1784.html, https://twitter.com/intent/tweet?text=MX407, 1000 Vdc Ýzolasyon Direnci Test Cihazý&url=http%3A%2F%2Fwww.sge.com.tr%2Furundetay-mx407-1000-vdc-izolasyon-direnci-test-cihazi-257-100.html, https://www.facebook.com/SgeMuhendislik/?fref=ts
+- **已抓子页**：[ENDÜSTRÝYEL NETWORK ÜRÜNLERÝ - SGE Mühendislik - Ölçüm & Ana](https://sge.com.tr/kategori-endustriyel-network-urunleri-312.html)；[SGE Mühendislik - Ölçüm & Analiz & Uygulama](https://sge.com.tr/urunler.html)；[MX407, 1000 Vdc Ýzolasyon Direnci Test Cihazý - STOK FAZLASI](https://sge.com.tr/urundetay-mx407-1000-vdc-izolasyon-direnci-test-cihazi-257-100.html)；[TEST VE ÖLÇÜM ÜRÜNLERÝ - SGE Mühendislik - Ölçüm & Analiz & ](https://sge.com.tr/kategori-test-ve-olcum-urunleri-163.html)；[OTOMASYON ÜRÜNLERÝ (PLC, DCS, IO, OP.PANEL) - SGE Mühendisli](https://sge.com.tr/kategori-otomasyon-urunleri-plc-dcs-io-oppanel-160.html)；[CA8345 ClassA Portatif Enerji Kalite Analizörü - TEST VE ÖLÇ](https://www.sge.com.tr/urundetay-30-1784.html)
+- 首页正文摘录：Online Alýþveriþ Online Alýþveriþ ANASAYFA KURUMSAL Hakkýmýzda Distribütörlük ve Bayilikler Firmamýzdan Görseller Duyurular Basýnda SGE Basýnda SGE HÝZMETLERÝMÝZ Otomasyon Uygulamalarý Ölçüm Test ve Raporlama Hizmetleri Saha Uygulama Eðitim Danýþmanlýk ÜRÜNLERÝMÝZ ZENON YAZILIM PLATFORMU (SCADA) ENDÜSTRÝYEL NETWORK ÜRÜNLERÝ OTOMASYON ÜRÜNLERÝ (PLC, DCS, IO, OP.PANEL) ZAYIF AKIM SÝSTEMLERÝ (YANGIN, KAMERA, ACÝL ANONS)
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 9、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-072.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

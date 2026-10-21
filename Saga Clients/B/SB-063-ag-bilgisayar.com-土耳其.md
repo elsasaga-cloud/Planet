@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -84,6 +85,20 @@ updated: 2026-10-21
 - **风险/边界**：微型本地安装商、单量小；bypass 仅 SmartByte 4 SFP 版（$194.3）→ 价格可能超预期；无后续跟进
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7）作标准答复；带光 bypass 用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，$194.3，Saga 暂无对应型号）
 - **邮件切入句（英文）**：Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 145,7 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ag-bilgisayar.com/　语言：tr　站点地图 URL 数：11
+- **标题**：Bodrum AG-Bilgisayar - Bodrum Güvenlik Kamera Sistemleri
+- **描述**：Bodrum Güvenlik Kamerası, bodrum ağ kurulumu, bodrum geçiş sistemleri, bodrum sunucu kurulumu, bodrum teknik servis, güvenlik kamerası, güvenlik sistemleri, geçiş otomasyonu
+- **首页栏目**：BAYİLİKLERİMİZ / AG Bilgisayar / Hedefimiz / REFERANSLARIMIZ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 1
+- **站内公开邮箱**：info@ag-bilgisayar.com, info@box5376.temp.domains
+- **站内公开电话**：+90 546 609 99 06
+- **社媒**：https://www.facebook.com/Agbilgisayar
+- **已抓子页**：[Bodrum AG-Bilgisayar - Bodrum Güvenlik Kamera Sistemleri](https://ag-bilgisayar.com/hakkimizda/)；[Bodrum AG-Bilgisayar - Bodrum Güvenlik Kamera Sistemleri](https://ag-bilgisayar.com/iletisim/)
+- 首页正文摘录：İletişim Bilgilerimiz İletişim bilgilerimizi kullanarak ya da iletişim formunu kullanarak bizimle iletişime geçebilirsiniz. +90 546 609 99 06 info@box5376.temp.domains Yokuşbaşı mah. külcü sok. Şeref Konday İşhanı No:29 Bodrum +90 546 609 99 06 Yokuşbaşı mah. külcü sok. Şeref Konday İşhanı No:29 Bodrum Anasayfa Hakkımızda Hizmetlerimiz Referanslarımız İletişim Anasayfa Hakkımızda Hizmetlerimiz Referanslarımız İletişi
+- 数据文件：`data/saga_clients/site_snapshots/SB-063.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -25,6 +25,7 @@ last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -94,6 +95,13 @@ updated: 2026-10-21
 - **风险/边界**：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）
 - **邮件切入句（英文）**：Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://crec.com.ph/　语言：en　站点地图 URL 数：229
+- **描述**：CREC is a pure renewable energy company in the Philippines offering clean energy solutions to businesses through sustainable renewable energy projects.
+- **产品类页面**：https://crec.com.ph/press-room/crec-news-blogs/switching-to-green-leveraging-the-advantages-of-renewable-energy；https://crec.com.ph/press-room/external-news/citicore-expands-customer-base-by-250-to-industrial-users
+- 数据文件：`data/saga_clients/site_snapshots/SA-142.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

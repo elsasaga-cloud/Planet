@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-144GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -85,6 +86,18 @@ updated: 2026-10-21
 - **风险/边界**：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
 - **邮件切入句（英文）**：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://medias-coms.ch/fr/　语言：fr-fr　站点地图 URL 数：30
+- **标题**：Medias-Com's - Accueil
+- **首页栏目**：Medias-Com'S Le flux médias et communications / Prise en compte de Vos spécificités Vos besoins Vos exigences / Qui sommes nous ? / Nos écrans digitaux : / Nos enseignes : / Nos abris bus digitalisés : / Notre communication : / Notre télécommunication :
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 1
+- **站内公开邮箱**：client-contact@medias-coms.ch
+- **站内公开电话**：+41 27 564 51 53
+- **已抓子页**：[Medias-Com's - Contact](https://medias-coms.ch/fr/contact)
+- 首页正文摘录："> L'entreprise "> Écrans & Affichages "> Écrans digitaux "> Enseignes "> Abris bus "> Communications "> Réseaux sociaux "> Vidéos "> Télécommunication "> Poste de travail informatique "> Secteur d’activité "> Contact Medias-Com'S Le flux médias et communications Prise en compte de Vos spécificités Vos besoins Vos exigences Qui sommes nous ? Médias-Com’S est une société Suisse spécialisée dans les médias et la commun
+- 数据文件：`data/saga_clients/site_snapshots/SA-095.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -82,6 +83,23 @@ updated: 2026-10-21
 - **风险/边界**：不懂英文；规模小
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价
 - **邮件切入句（英文）**：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bilgeguvenlik.com/tr　语言：tr　站点地图 URL 数：51
+- **标题**：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.
+- **描述**：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.
+- **首页栏目**：Axis / Yılın Projesi / Milestone / Güneydoğu Avrupa Yılın en İyi Partneri / Sınır Kapıları IP Video Projesi / Xprotect Merkezileştirilmiş Mimari Uygulaması / Avrupa’nın / En Büyük IP seslendirme Projesi
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：axis 27、cisco 11、cctv 7、switch 1、fiber 1、ethernet 1、nvr 1
+- **站内出现的品牌**：Axis, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：satis@bilgeguvenlik.com
+- **站内公开电话**：+90 (216) 291 12 12
+- **社媒**：https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/
+- **产品类页面**：https://www.bilgeguvenlik.com/urunler；https://www.bilgeguvenlik.com/urun；https://www.bilgeguvenlik.com/urun-xtext；https://www.bilgeguvenlik.com/urunlerimiz-xxtest3
+- **已抓子页**：[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/ag-iletisim-sistemleri)；[Bilge Güvenlik / Bize Ulaşın](https://www.bilgeguvenlik.com/tr/iletisim)；[Bilge Güvenlik / Markalar](https://www.bilgeguvenlik.com/tr/markalar)；[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/ip-video-sistemleri-cctv)；[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/video-analiz)；[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/plaka-tanima)
+- 首页正文摘录：satis@bilgeguvenlik.com +90 (216) 291 12 12 Anasayfa Hakkımızda Biz Kimiz Projeler Hizmetler Markalar Çözümler IP Video Sistemleri IP video sistemleri, diğer adıyla CCTV (Kapalı Devre Televizyon), güvenlik ve video izleme amaçlı kullanılan bir teknolojidir. Geçiş Kontrol Sistemleri Geçiş kontrol sistemleri, bir alan veya tesisin içine giriş çıkış yapan kişilerin kimliklerini doğrulamak için kullanılan elektronik.. Ya
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-152.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

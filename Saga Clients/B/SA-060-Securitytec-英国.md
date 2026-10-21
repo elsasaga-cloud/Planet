@@ -25,6 +25,7 @@ last_contact: 2025-10-13
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -111,6 +112,22 @@ updated: 2026-10-21
   - 已成交 + 样品（用户表）；自有标 NTP3- 8 口千兆管理 PoE 已在售——Saga 同口型可直接作二供/升级 SKU（2026-10-21）
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档
 - **邮件切入句（英文）**：Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.securitytec.co.uk/　语言：en　站点地图 URL 数：558
+- **标题**：Professional Security Products / Security Tec Ltd
+- **首页栏目**：Professional Security Distrubition Across the UK / Featured Products / IP CCTV / HD Analogue CCTV / Door Entry Access Control / Networking / Video Transmission / Intruder Alarms
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 139、hikvision 74、poe 67、switch 43、gigabit 32、cctv 32、access control 17、cable 15、wireless 10、nvr 9、industrial 8、sfp 7
+- **站内出现的品牌**：Hikvision, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：HIK00006690, DS-2CD2347G3-LI2UY, IPC-T280HA-LUF, DS-2CD2346G2H-IU, DS-3WR3X-1, RG-POE-AT30, DS-3E1506P-EI, IPC-T250H-MU, IPC-T249HA-LU, IPC-T249HAA-LU, DS-2CD2343G2-IU, DS-2CD2T46G2H-2I
+- **站内公开邮箱**：office@securitytec.co.uk
+- **社媒**：https://twitter.com/securitytecltd, https://www.facebook.com/Securitytec-Ltd-250292835408292/
+- **产品类页面**：https://www.securitytec.co.uk/our-products.html；https://www.securitytec.co.uk/featured-products.html；https://www.securitytec.co.uk/our-products/kits-bundles.html；https://www.securitytec.co.uk/our-products/ip-cctv-products.html；https://www.securitytec.co.uk/our-products/tvi-hd-analogue.html；https://www.securitytec.co.uk/our-products/ip-cctv-products/ip-cctv.html
+- **已抓子页**：[Network Switches - Networking Products - Our Products](https://www.securitytec.co.uk/our-products/networking-products/network-switches.html)；[PoE extenders & converters - Networking Products - Our Produ](https://www.securitytec.co.uk/our-products/networking-products/poe-extenders-converters.html)；[IP Cameras - IP CCTV Products - Our Products](https://www.securitytec.co.uk/our-products/ip-cctv-products/ip-cctv.html)；[IP PTZ Cameras - IP CCTV Products - Our Products](https://www.securitytec.co.uk/our-products/ip-cctv-products/ip-ptz-cameras.html)；[PanoVu Cameras - IP CCTV Products - Our Products](https://www.securitytec.co.uk/our-products/ip-cctv-products/panovu-cameras.html)；[Thermal Cameras - IP CCTV Products - Our Products](https://www.securitytec.co.uk/our-products/ip-cctv-products/thermal-cameras.html)
+- 首页正文摘录：The store will not work correctly in the case when cookies are disabled. 020 8660 5888 office@securitytec.co.uk Skip to Content Toggle Nav My Cart Search Search Search Menu Home About Us Our Products Kits & Bundles IP CCTV Products IP Cameras NVR Recorders IP PTZ Cameras PanoVu Cameras Encoders/Decoders PTZ Keyboards Thermal Cameras Human Temperature Screening TVI (HD Analogue) DVR Recorders TVI Cameras TVI PTZ Camer
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 8、PoE 67 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-060.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

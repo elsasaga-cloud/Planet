@@ -24,6 +24,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -120,6 +121,16 @@ updated: 2026-10-21
 - **风险/边界**：DCN 为中国品牌且已有完整 PoE/工业线 → Saga 只能以「非 DCN 项目 / 价格更低的替代」切入，避免正面替换其主代理线；土耳其进口税与 TL 汇率波动，报价需 USD EXW 并留有效期
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W
 - **邮件切入句（英文）**：For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://coptek.com.tr/　语言：未标　站点地图 URL 数：111
+- **标题**：Omurga,Layer2,Layer3 POE Switchler
+- **描述**：Yüksek performanslý omurga,layer2,layer3,poe switchler,fiberoptik ürünler
+- **站内公开邮箱**：info@coptek.com.tr
+- **产品类页面**：http://www.coptek.com.tr/urunler.html；http://www.coptek.com.tr/omurgaswitch.html；http://www.coptek.com.tr/datacenterswitch.html；http://www.coptek.com.tr/poeswitch.html；http://www.coptek.com.tr/layer3switch.html；http://www.coptek.com.tr/layer2switch.html
+- **已抓子页**：[Endüstriyel Ethernet Ürünleri,RS-232 Ethernet Çevirici,Endüs](https://coptek.com.tr/end%C3%BCstriyelethernet.html)；[8,24,48 Port POE Switchler](https://coptek.com.tr/poeswitch.html)；[Ürünler](https://coptek.com.tr/urunler.html)；[Data Center Ethernet Switch](https://coptek.com.tr/CS6570.html)；[Omurga Switchler,Fiber Omurga](https://coptek.com.tr/omurgaswitch.html)；[Layer 3 Switch](https://coptek.com.tr/layer3switch.html)
+- 数据文件：`data/saga_clients/site_snapshots/SA-014.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

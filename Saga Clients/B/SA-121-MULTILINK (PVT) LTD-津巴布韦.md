@@ -25,6 +25,7 @@ last_contact: 2025-10-07
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -99,6 +100,13 @@ updated: 2026-10-21
 - **风险/边界**：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.securico.co.zw/　语言：en　站点地图 URL 数：0
+- **标题**：SECURICO / Security Services Zimbabwe - 27 Years of Excellence
+- **描述**：SECURICO is Zimbabwe's leading security services provider with 27 years of excellence. Cash management, guarding services, electronic security, and more. Your safety is our priority.
+- 数据文件：`data/saga_clients/site_snapshots/SA-121.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

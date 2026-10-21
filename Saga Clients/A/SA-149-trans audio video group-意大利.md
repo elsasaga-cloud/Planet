@@ -25,6 +25,7 @@ last_contact: 2025-10-16
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -111,6 +112,18 @@ updated: 2026-10-21
 - **风险/边界**：14 次推送 0 回复；米兰 SICUREZZA 2025 后可能已另选供应商
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要）
 - **邮件切入句（英文）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://transaudiovideo.com/　语言：it-IT　站点地图 URL 数：1234
+- **标题**：TAV GROUP - Trans Audio Video S.r.l.
+- **描述**：Trans Audio Video: leader italiano in soluzioni broadcast, cinema e security. Distribuzione e consulenza su misura. Scopri di più!
+- **首页栏目**：MEDIA / ACADEMY / SECURITY / Connecting technology, people and vision. / Contact us / Caserta / Cologno M.se / Policy
+- **站内公开邮箱**：info@transaudiovideo.com, transaudiovideo@pec.it
+- **站内公开电话**：+39 039 791339, +39 0823 329970
+- **产品类页面**：https://transaudiovideo.com/idx-nuovi-prodotti-per-blackmagic-ursa-disponibili-presso-trans-audio-video/；https://transaudiovideo.com/sony-camera-pdw-850-xdcam-per-produzioni-broadcast-live-economiche/；https://transaudiovideo.com/tav-partner-tecnico-di-italian-cinema-workshop-2014/；https://transaudiovideo.com/sony-live-production-roadshow_caserta-16-dicembre-2014/；https://transaudiovideo.com/tav-partner-tecnico-del-workshop-di-taormina/；https://transaudiovideo.com/cammate-product-videos/
+- 首页正文摘录：MEDIA broadcast / cinema / foto / video ACADEMY eventi / formazione / training SECURITY video security / ICT solutions Connecting technology, people and vision. Dal 1987 operiamo nel settore della distribuzione, offrendo prodotti e soluzioni dedicati ai professionisti del cinema, del broadcast, della fotografia, del video professionale e della security. TAV è organizzata in tre divisioni — Media, Academy e Security —
+- 数据文件：`data/saga_clients/site_snapshots/SA-149.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

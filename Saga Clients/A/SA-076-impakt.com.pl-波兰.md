@@ -24,6 +24,7 @@ last_contact: 2025-10-21
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -117,6 +118,18 @@ updated: 2026-10-21
 - **风险/边界**：大型品牌商：EAN/包装/波兰语手册/WEEE/保修 24 个月与退货率要求；首单需样机验证；价格导向强（零售 24 口 PoE 约 1,000 PLN）
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%
 - **邮件切入句（英文）**：The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://impakt.com.pl/　语言：pl　站点地图 URL 数：76
+- **标题**：Producent i dystrybutor sprzętu IT / IMPAKT S.A.
+- **描述**：Jesteśmy IMPAKT S.A / Odwiedź naszą stronę i zobacz, co nas wyróżnia. Pracuj z nami i wspólnie twórzmy nowoczesne miejsce pracy dla ludzi z pasją!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 2
+- **站内公开电话**：+48 61 10 10 230
+- **社媒**：https://www.facebook.com/impaktkariera, https://www.linkedin.com/company/impakt-s-a/
+- **已抓子页**：[Skontaktuj się z nami! / IMPAKT S.A.](https://impakt.com.pl/kontakt)；[Producent i dystrybutor sprzętu IT / IMPAKT S.A.](https://impakt.com.pl/kontakt-z-akcjonariuszami)；[Zostań naszym Partnerem / IMPAKT S.A.](https://impakt.com.pl/dla-partnerow)；[Najczęściej zadawane pytania / IMPAKT S.A.](https://impakt.com.pl/dla-partnerow/faq)；[Poznaj światowe marki / IMPAKT S.A.](https://impakt.com.pl/dla-partnerow/marki)；[Własny Serwis / IMPAKT S.A.](https://impakt.com.pl/dla-partnerow/serwis)
+- 首页正文摘录：O firmie O firmie Grupa Impakt Aktualności Odpowiedzialny biznes Materiały prasowe Dla partnerów Dla partnerów Zostań naszym klientem Serwis Marki FAQ Kariera Kariera Dlaczego Impakt? Rozwój Oferty pracy FAQ Wsparcie Kontakt Polski Polski English Polski Polski English Panel klienta IMPAKT Jesteśmy jedną z czołowych polskich firm zajmujących się produkcją akcesoriów i podzespołów komputerowych, akcesoriów dla graczy, 
+- 数据文件：`data/saga_clients/site_snapshots/SA-076.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

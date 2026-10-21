@@ -22,6 +22,7 @@ last_contact: 2025-10-13
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-01-29 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-020.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.4power.it/　语言：it-IT　站点地图 URL 数：161
+- **标题**：4Power / UPS, Networking, Cablaggio Strutturato e Armadi Rack
+- **描述**：Soluzioni complete per continuità elettrica, networking e cablaggio. 4Power supporta aziende e installatori con prodotti affidabili e consulenza tecnica.
+- **首页栏目**：Networking SOHO, professionale e industriale 4Net / Continuità Elettrica con UPS e stabilizzatori Eurogroup / Cablaggio Strutturato , Strumentazione e Armadi Rack con 4Net Cabling / Distributore ufficiale italiano del marchio Planet Technology / Esperienza ventennale certificata con consulenza e assistenza in ogni fase / Configuratore Armadi / Networking professionale e industriale / UPS, stabilizzatori e continuità elettrica
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 130、switch 84、industrial 78、planet 33、ethernet 29、gigabit 20、sfp 18、automation 15、media converter 15、wireless 12、10g 7、fiber 4
+- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IGS-514PT, WSG24P2F, IGS-504HPT, RAL9004, CERTXRT500, IXT-900-1X1T, MLPMM200010T, MLPMM150010T, MLPMM100010T, MLPMM120010T, MLPMM085010T, MLPMM065010T
+- **站内公开邮箱**：enteryour@addresshere.com, info@4power.it
+- **站内公开电话**：+39 081 819 3441, +39 081.8193441 (3, +39 081.8198017, 0000-200000
+- **社媒**：https://it.linkedin.com/company/4power-srl, https://twitter.com/share?url=https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/, https://twitter.com/share?url=https://www.4power.it/planet-igs-514pt-switch-poe-industriale-compatto-distribuito-da-4power/, https://twitter.com/share?url=https://www.4power.it/switch-5p10-100-1000t-di-cui-4p-poe-8023at-ip30-40-75-c/, https://www.facebook.com/4Powersrl/, https://www.facebook.com/sharer.php?u=https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/
+- **产品类页面**：https://www.4power.it/rivoluzione-poe-tutto-su-di-un-solo-cavo/；https://www.4power.it/4power-presenta-la-sua-nuova-serie-di-switch-managed-poe-layer-2-e-layer-3-4net/；https://www.4power.it/i-nuovi-switch-managed-poe-layer3-4net/；https://www.4power.it/nuove-possibilita-per-il-poe-splitter-172s/；https://www.4power.it/oltre-il-limite-dei-100-metri-lrp-101u-kit-poe-e-dati-a-grandi-distanze/；https://www.4power.it/poe-extender-per-installazioni-poe-sino-a-200-metri-ipoe-e-174/
+- **已抓子页**：[PLANET IGS-514PT: Switch PoE+ Industriale Compatto / Distrib](https://www.4power.it/planet-igs-514pt-switch-poe-industriale-compatto-distribuito-da-4power/)；[4Net Networking / Switch PoE e Apparati Professionali](https://www.4power.it/4net-switch-poe-e-apparati-networking-professionali/)；[PLANET IGS-504HPT v3 / 5 Gigabit, 4 PoE+ con booster](https://www.4power.it/switch-5p10-100-1000t-di-cui-4p-poe-8023at-ip30-40-75-c/)；[Switch PoE 24 porte Gigabit 300 W / 4Net 4N-WSG24P2F](https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/)；[Switch - 4Power.it](https://www.4power.it/networking/switch/)；[Industrial Automation - 4Power.it](https://www.4power.it/networking/industrial-automation/)
+- 首页正文摘录：Skip to content Assistenza Clienti: +39 081 819 3441 Cerca: Assistenza Clienti: +39 081 819 3441 Chi Siamo Tutti i Prodotti Gruppi di Continuità Stabilizzatori Armadi Rack Networking Cablaggio Strutturato Strumenti per Certifiche UPS line interactive onda pseudosinusoidale UPS Micro LED / Micro LCD UPS Micro Pro LCD UPS Micro Multi UPS Minipower UPS Multipower UPS line interactive onda sinusoidale Power Black 1000/30
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 83、PoE 130 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-020.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

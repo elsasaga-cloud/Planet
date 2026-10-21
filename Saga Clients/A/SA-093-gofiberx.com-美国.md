@@ -24,6 +24,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -118,6 +119,18 @@ updated: 2026-10-21
 - **风险/边界**：bypass 光口机型不在 Saga 标准型谱；运营商采购要求固件（VLAN/QinQ/IGMP）与长期支持
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——FTTB 楼宇/机柜接入：STI-288DGGPM（8 GE PoE + 2 SFP 管理，环网冗余替代 bypass 需求）与 STC-28DGGPM；项目 25% 档；bypass 版本另询 SmartByte
 - **邮件切入句（英文）**：On the 2-fibre 10-copper bypass unit you asked about, the closest standard platform is the 8-port gigabit PoE managed DIN switch with two SFP uplinks and ring redundancy, so I am quoting that now and checking the hardware-bypass variant separately.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gofiberx.com/　语言：en-US　站点地图 URL 数：57
+- **标题**：Homepage / FiberX
+- **描述**：Our suite of Solutions designed for Large Corporations and Wholesale. Internet, cloud, security, transportation and telephony, meeting the highest standards
+- **首页栏目**：Fill out the form: / Include your location to check availability
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 4、wireless 2、wholesale 1
+- **站内公开邮箱**：info@fiberx.net
+- **社媒**：https://gofiberx.com/, https://gofiberx.com/cloud-services/, https://gofiberx.com/colocation-services/, https://gofiberx.com/dark-fiber/, https://gofiberx.com/dedicated-internet-access/, https://gofiberx.com/mpls-transport/
+- 首页正文摘录：Skip links Skip to primary navigation Skip to content Home Enterprise Dedicated Internet Access (DIA) MPLS Transport VoIP Services Cloud Services Colocation Services Dark Fiber Xpress Route Wavelengths Services Wireless Services Managed Services Business Business X Business XGS VoIP Services Residential HomeX Internet HomeX Telephony About Us About Us Claim of Charges Terms of Use Speed ​​Test Privacy Policies Contac
+- 数据文件：`data/saga_clients/site_snapshots/SA-093.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

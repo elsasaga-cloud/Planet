@@ -24,6 +24,7 @@ last_contact: 2025-11-03
 p1: STI-110GE
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -113,6 +114,23 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯结算；多品牌比价；规模小（9 人、年利 ≈1.5M ₽）——单笔金额有限；39 次跟进 5 次实质回复，保持低频
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——贸易商走量品：STI-110GE（MC）+ STC-28DGGPM；分销 20% 档
 - **邮件切入句（英文）**：For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://born-shop.ru/　语言：ru-ru　站点地图 URL 数：1367
+- **标题**：Борн – системы безопасности и видеонаблюдения
+- **描述**：Борн – системы безопасности и видеонаблюдения - интернет магазин Борн
+- **首页栏目**：Лучшие товары / Хиты продаж / Специальные предложения / Новости / Обзоры / Статьи / Новинки
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 59、ethernet 13、10g 13、planet 12、sfp 10、hikvision 9、ubiquiti 7、axis 7、moxa 3、fiber 2、gigabit 2、cisco 2
+- **站内出现的品牌**：PLANET, Huawei, D-Link, Zyxel, Ubiquiti, Bosch, Allied Telesis, Hikvision, Axis, MikroTik, Cisco, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IPOE-165, DXE-810S, AT-2911SX, SC-901, AT-2711FX, AT-2911SFP, DS-TL2000CI, AF-11-DUP-H, ST4000VX007, DS-2CD2042WD-I, NBN-71013-B, DRP-240-24
+- **站内公开邮箱**：sales@born-spb.ru
+- **社媒**：https://vk.com/born_spb_ru
+- **产品类页面**：https://born-shop.ru；https://born-shop.ru/logostiks.html；https://born-shop.ru/o-kompanii.html；https://born-shop.ru/vacancy.html；https://born-shop.ru/warranty.html；https://born-shop.ru/oplata.html
+- **已抓子页**：[PoE-инжекторы — цены, характеристики, отзывы, доставка / Бор](https://born-shop.ru/catalog/poe-injektory.html)；[Контакты компании Борн в Москве](https://born-shop.ru/contacts/moskva.html)；[Сетевые адаптеры Ethernet — цены, характеристики, отзывы, до](https://born-shop.ru/catalog/setevye-adaptery-ethernet.html)；[МФУ — цены, характеристики, отзывы, доставка / Борн](https://born-shop.ru/catalog/mfu.html)；[Факсы — цены, характеристики, отзывы, доставка / Борн](https://born-shop.ru/catalog/fax.html)；[СКУД — цены, характеристики, отзывы, доставка / Борн](https://born-shop.ru/catalog/skud.html)
+- 首页正文摘录：▼ Москва 8 (800) 302-15-41 sales@born-spb.ru Оплата Доставка Гарантия Возврат О компании Производители Проекты Вакансии Реквизиты Контакты » Каталог Видеонаблюдение Видеокамеры Видеорегистраторы Видеоглазки Мониторы Объективы Термокожухи Кронштейны для видеокамер Передатчики видеосигнала Конвертеры видеосигнала Платы видеозахвата Видеомодули Телеметрия Прожекторы Адаптеры Видеосерверы Пульты управления Видеооборудова
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 59、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-089.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

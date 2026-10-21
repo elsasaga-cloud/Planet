@@ -22,6 +22,7 @@ last_contact: 2025-10-21
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-06-20 → 2025-10-21）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-017.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://rocstor.com/　语言：en-US　站点地图 URL 数：562
+- **标题**：rocstor.com – Store your future.
+- **首页栏目**：Racks / Docking Station / Screen Filters & Protectors / Charging Carts / TV/Monitor Mounts / Rocpro U33 USB Type-C® Desktop RAID Storage / Rocpro U35 USB Type-C® Desktop RAID Storage / Rocsecure EX31 Encrypted Portable Drive
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 142、switch 64、poe 23、distributor 18、sfp 4、gigabit 1、10g 1、data center 1
+- **站内型号串**（正则抽取，含非交换机）：AES-256, SP800-171
+- **站内公开邮箱**：emran.bd.08@gmail.com, info@rocstor.com
+- **站内公开电话**：+1 (818) 727-7000, +1 (818) 875-0002
+- **社媒**：https://www.facebook.com/rocstor/?ref=bookmarks, https://www.facebook.com/sharer/sharer.php?u=https://rocstor.com/, https://www.facebook.com/sharer/sharer.php?u=https://rocstor.com/product-category/networking-kvms/kvm-switches/, https://www.facebook.com/sharer/sharer.php?u=https://rocstor.com/product-category/networking-kvms/kvm-switches/desktop-kvms/, https://www.facebook.com/sharer/sharer.php?u=https://rocstor.com/product-category/networking-kvms/network-switches/, https://www.facebook.com/sharer/sharer.php?u=https://rocstor.com/product-category/networking-kvms/network-switches/managed-switches/
+- **产品类页面**：https://rocstor.com/products-category/；https://rocstor.com/discontinued-products/；https://rocstor.com/product/solidrack-fan-for-wall-rack-cabinet-2-pack-us-110v-120v/；https://rocstor.com/product/universal-m6-2-inch-caster-wheels-kit-of-4-pattern-casters-swivel-2-locking-wheels/；https://rocstor.com/product/solidrack-r3100-rack-42u-enclosure-with-sides-black/；https://rocstor.com/product/universal-rack-mount-brush-panel-1u-2u-rack-cable-management-black/
+- **已抓子页**：[PoE-Capable – rocstor.com](https://rocstor.com/product-category/networking-kvms/network-switches/poe-capable-switches/)；[KVM Switches – rocstor.com](https://rocstor.com/product-category/networks-kvm/kvm-switches/)；[Network Switches – rocstor.com](https://rocstor.com/product-category/networks-kvm/network-switches/)；[Desktop KVMs – rocstor.com](https://rocstor.com/product-category/networking-kvms/kvm-switches/desktop-kvms/)；[Managed – rocstor.com](https://rocstor.com/product-category/networks-kvm/network-switches/managed-switches/)；[Unmanaged – rocstor.com](https://rocstor.com/product-category/networks-kvm/network-switches/unmanaged-switches/)
+- 首页正文摘录：Skip to navigation Skip to main content English Deutsch French Requires WPML plugin Country United States (USD) Deutschland (EUR) Japan (JPY) ADD ANYTHING HERE OR JUST REMOVE IT… Newsletter Contact Us FAQs Search CONTACT US Login / Register Menu 0 items Support Partners Price List Request Where to buy Distributor Resellers Lock Register & Access Lock Selector Customer Service Customer Support Team Create Support Tick
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 23、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-017.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

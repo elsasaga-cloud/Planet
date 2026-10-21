@@ -24,6 +24,7 @@ last_contact: 2025-10-31
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -116,6 +117,21 @@ updated: 2026-10-21
 - **风险/边界**：SCADA/公用事业客户可能要求 IEEE 1613/UL——不承诺；产品页多年未更新，采购活跃度待验证
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档
 - **邮件切入句（英文）**：Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.data-connect.com　语言：未标　站点地图 URL 数：2467
+- **标题**：Data Connect Enterprise 1-888-492-6526 Networking Solutions Provider
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 96、switch 95、gigabit 52、sfp 25、cable 21、wireless 18、fiber 13、industrial 10、poe 7、media converter 4、10g 4、telecom 3
+- **站内出现的品牌**：Juniper, Schneider, MikroTik, Moxa, EtherWAN, Advantech, Siemens, Extreme, Allied Telesis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：OC-12, M160-FPC1, STM-1, STM-4, M160-FPC2, STM16, OC-48, STM-64, RE-333-768, M40-AC, SFP-1GE-SX, SFP-1GE-LX
+- **站内公开邮箱**：sales@data-connect.com
+- **站内公开电话**：001-09 14-102500, 009-001 78-1017-0001 04-1007-001 04-1011-001 04-2001-002 04-2003-002 04-2002-002 04-2004-002 01-9002-001
+- **产品类页面**：http://www.data-connect.com/Hot_Products.htm；http://www.data-connect.com/Adtran_products_base_page.htm；http://www.data-connect.com/Cisco_product_page.htm；http://www.data-connect.com/Cylix_Products.htm；http://www.data-connect.com/Data_Connect_Products.htm；http://www.data-connect.com/DCB_Products_page.htm
+- **已抓子页**：[Gigabit GigE GbE](https://www.data-connect.com/gigabit_ethernet.htm)；[Ethernet Switches](https://www.data-connect.com/ethernet_switches.htm)；[JUNIPER ROUTER SWITCH MODULE](https://www.data-connect.com/juniper_networks_products.htm)；[Carrier Access Products](https://www.data-connect.com/carrier%20access%20products%20brand%20page.htm)；[KVM Switch](https://www.data-connect.com/kvm_switch.htm)；[StarComm Modems](https://www.data-connect.com/starcommindustrialmodem.htm)
+- 首页正文摘录：When you need The Right Connection, Contact Data Connect MASTER STOCKING DISTRIBUTOR Data Connect is the parent company of multiple entities that are focused on manufacturing, providing and supporting wireless and wire-line network edge, connectivity, access, and extension solutions. We own and operate DSL Warehouse, ClickITDirect, VOIP-Networking, Arc Electronics, Information Data Products, Synxcom, and Wireless Net
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 11、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-092.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -25,6 +25,7 @@ last_contact: 2025-11-05
 p1: STC-448DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -68,6 +69,20 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。
 - 备注：不再主动推送；对方主动来再谈。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://neowine.com/　语言：ko　站点地图 URL 数：86
+- **标题**：neowine
+- **描述**：네오와인은 복제방지칩·IoT 보안칩·AI 반도체 IP를 설계하는 팹리스 기업입니다. 2002년 설립 이후 누적 2억 개를 2,000여 기업에 공급했습니다.
+- **首页栏目**：팝업레이어 알림 / Company Logo / 전체검색 / 복제방지 반도체 (ALPU) / ALPU-CV / AI Solution / ALPU series / DALPU series
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：distributor 7、cctv 5
+- **站内型号串**（正则抽取，含非交换机）：AEC-Q100, AES128, ALPU-A1M, SHA256, AES-128, SOT23-6L, DALPU-4, ISO9001
+- **社媒**：https://www.youtube.com/channel/UCIrUvdjby-G0nVFObwziwpw
+- **产品类页面**：https://neowine.com/theme/a03/ko/product_01.php；https://neowine.com/theme/a03/ko/product_02.php；https://neowine.com/theme/a03/ko/product_03.php；https://neowine.com/en/theme/a03/ko/product_01.php；https://neowine.com/en/theme/a03/ko/product_02.php；https://neowine.com/en/theme/a03/ko/product_03.php
+- **已抓子页**：[ALPU / neowine](https://neowine.com/theme/a03/ko/ALPU.php)；[ALPU series / neowine](https://neowine.com/theme/a03/ko/product_01.php)；[Neowine / neowine](https://neowine.com/theme/a03/ko/about_01.php)；[Neowine / neowine](https://neowine.com/theme/a03/ko/about_03.php)；[오시는 길 / neowine](https://neowine.com/theme/a03/ko/about_04.php)；[Career / neowine](https://neowine.com/theme/a03/ko/about_05.php)
+- 首页正文摘录：팝업레이어 알림 팝업레이어 알림이 없습니다. Company Logo cha About NEOWINE History Patents & Publications Location Product ALPU DALPU MCU AI Solution R&D Projects Business Business Area Application Distributors Support Document Career News Notice Press Exhibition & Events Neo Column Video kor eng cha 전체검색 사이트 내 전체검색 검색어 필수 검색 복제방지 반도체 (ALPU) "2002년부터, 불법 복제 0건, 전 세계 2,000개 기업 2억 개 공급" "Since 2002, zero cases of illegal duplication, sup
+- 数据文件：`data/saga_clients/site_snapshots/SA-145.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

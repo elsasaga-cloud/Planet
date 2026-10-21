@@ -24,6 +24,7 @@ last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -96,6 +97,18 @@ updated: 2026-10-21
 - **风险/边界**：免费邮箱、小公司；ERPS 功能需 SmartByte 固件确认
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档
 - **邮件切入句（英文）**：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bsn-system.com/　语言：en-US　站点地图 URL 数：3001
+- **标题**：Home 2 - Berkah Saudara Network
+- **描述**：Selamat Datang di BSN System Kami menyediakan berbagai solusi teknologi informasi yang dapat membantu perusahaan anda menjadi lebih berkembang Lihat Selengkapnya Mari Berkenalan Dengan Kami BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keamanan yang bersemangat. Dengan 8 tahu
+- **首页栏目**：Mari Berkenalan Dengan Kami / Pengalaman Praktis yang Luas / Bank & CIT / Office Building / Indsutrial / Critical Insfratucture / Education / Entertaiment
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 1、access control 1
+- **站内公开邮箱**：info@bsn-system.com
+- **产品类页面**：https://bsn-system.com/respin-joker-slot-catalog/
+- 首页正文摘录：Beranda Dokumentasi Menu Beranda Dokumentasi Selamat Datang di BSN System Kami menyediakan berbagai solusi teknologi informasi yang dapat membantu perusahaan anda menjadi lebih berkembang Lihat Selengkapnya Mari Berkenalan Dengan Kami BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keamanan yang bersemangat. Dengan 8 tahun pengalaman dan berorientasi layanan, pendekatan profesional, kami telah t
+- 数据文件：`data/saga_clients/site_snapshots/SA-078.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

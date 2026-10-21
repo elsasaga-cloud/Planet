@@ -24,6 +24,7 @@ last_contact: 2024-10-13
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: parked_or_empty  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 8 次（2024-02-04 → 2024-10-13）；最近一次客户回复：1120：欧元价格
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -103,6 +104,12 @@ updated: 2026-10-21
 - **风险/边界**：消防/排烟系统属生命安全 → 仅供视频/门禁侧通用交换机，不介入 IRAI/EFC 链路；仅 1 次回复、8 次跟进，热度一般
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档
 - **邮件切入句（英文）**：For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+
+- 尝试域名：stsitalia.com
+- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
+- 数据文件：`data/saga_clients/site_snapshots/SB-024.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -201,6 +208,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

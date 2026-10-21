@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +35,7 @@ updated: 2026-10-21
 - **是谁**：巴林 IT 经销/集成商，WA 在线，2 次回复、15 次跟进；需求点为'Cisco 型号'。（调研 2026-10-21；表内兴趣：需要Cisco model）
 - **为什么是 B 级**：**调研后定级 B**（需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/巴林；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 15 次（2024-04-28 → 2025-10-06）；最近一次客户回复：2024-12-13：hi
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 4、监控 71 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -68,6 +69,22 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。
 - 备注：WA 一次性给'Cisco CBS/SG 对位 → STC 系列'替代表（分销 20%）；无回应即停。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://marvelitcs.com/　语言：en-US　站点地图 URL 数：436
+- **标题**：Marvel IT Solutions: Managed IT Services in Bahrain
+- **描述**：Marvel IT is the Leading IT Solution Company in Bahrain. We offer end-to-end Managed IT & Support Services in Bahrain. Call +97334065569
+- **首页栏目**：Best IT Solutions & Service Provider in Bahrain / sales@marvelitcs.com / Backup and Recovery / IT Consultancy / Cloud based services / About Marvel / Marvel IT Solutions: Your One-Stop For IT Solutions In Bahrain / TRUSTED BY MORE THAN 500+ LOCAL BUSINESSES
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：access control 45、wireless 45、cctv 34、camera 25、data center 18、wifi 15、nvr 6、surveillance 6、poe 4、fibre 1
+- **站内公开邮箱**：info@marvelitcs.com, sales@marvelitcs.com
+- **站内公开电话**：+973 39885090
+- **社媒**：http://linkedin.com/company/marvel-it-business-consultants, https://www.facebook.com/Marvel.Business.Consultants, https://www.facebook.com/Marvel.IT.Business.Consultant, https://www.instagram.com/marvelitbusinessconsultants
+- **产品类页面**：https://marvelitcs.com/eset-products/；https://marvelitcs.com/sophos-products/；https://marvelitcs.com/fortinet-cybersecurity-products/；https://marvelitcs.com/all-products-people-counting-solution/；https://marvelitcs.com/shop/；https://marvelitcs.com/product/cambium-networks-cnpilot-e410-indoor-access-point/
+- **已抓子页**：[People Counters / NVR / Software / Marvel Bahrain](https://marvelitcs.com/all-products-people-counting-solution/)；[CCTV Camera CCTV Security Solution / Marvel Bahrain](https://marvelitcs.com/cctv-installation-services-in-bahrain/)；[Top Digital Marketing Services in Bahrain & Saudi Arabia](https://marvelitcs.com/digital-marketing-services-bahrain-saudi-arabia/)；[About Us / Marvel Business Consultants Bahrain](https://marvelitcs.com/about/)
+- 首页正文摘录：Home About Company Profile Our Services IT Services & Solutions Data Networking WiFi Captive Portal Data Center Setup & Maintenance Point-to-Point Wireless Cloud Solutions CCTV Systems IP Telephony Solutions Video Conferencing & WFH 4K Wireless Conferencing Security Solutions Cyber Security Solution NGFW Solution SOPHOS Security Email Security Data Backup & Recovery Software & Web 2D/3D Animation Mobile App Developme
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 4、监控 71 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-099.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -125,7 +142,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（IT 经销/集成商） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 4、监控 71 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（IT 经销/集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

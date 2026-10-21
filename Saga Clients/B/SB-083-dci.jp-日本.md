@@ -22,6 +22,7 @@ last_contact: 2025-11-06
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-10-08 → 2025-11-06）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-083.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://dci.jp/　语言：ja　站点地图 URL 数：45
+- **标题**：データコントロルズ株式会社 / データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート
+- **描述**：データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート
+- **首页栏目**：最新トピックス / 製品ラインナップ / お問い合わせ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 99、poe 76、10g 45、ethernet 8、2.5g 8
+- **站内型号串**（正则抽取，含非交换机）：DCWDM2108, DCWDM2108H, IEEE802, FRM220-1000DS, FRM220A-2000EAS, IGPS-9084GP, IGS-1080A, IGPS-1080-24V, POS-1002, POI-2002-V3, FRM220A, FRM220-1000EAS
+- **站内公开邮箱**：info@dci.jp
+- **产品类页面**：https://dci.jp/category/newproduct；https://dci.jp/product-tag/100gbps；https://dci.jp/product-tag/100mbps；https://dci.jp/product-tag/10gbps；https://dci.jp/product-tag/10mbps；https://dci.jp/product-tag/155mbps
+- **已抓子页**：[イーサネットスイッチ / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/ethernetswitch)；[産業用イーサネット / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/industrialethernet)；[PoE / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/061poe)；[PoE負荷テスター NuPoE 1SL/4SLシリーズ / データコントロルズ株式会社](https://dci.jp/product/tester/nupoe-1sl-4sl)；[製品紹介 / データコントロルズ株式会社](https://dci.jp/product)；[EOL 販売終了 / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/eol)
+- 首页正文摘录：コンテンツへスキップ ナビゲーションに移動 データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート ご購入方法 よくある質問 採用情報 Webショップ お問い合わせ 製品紹介 OSFP/QSFP/SFP＋/SFP（2芯/BIDI/CWDM/DWDM） メディアコンバータ 400/200/100G DWDM伝送プラットフォーム：DCOTNシリーズ マルチプラットフォーム FRM220シリーズ WDM マルチプロトコルリピータ：DCWDM2108 /DCWDM2108H 高密度10G/100G対応OT8200シリーズ 1G/10G 超コンパクトメディアコンバータ：MMCシリーズ 40G~100G 10~16Gbps 1G~4Gbps ファストイーサネット(10/100Mbps) イーサネット(10Mbps) VDSLコンバータ 光モデム 産業用イーサネット イー
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 76、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-083.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +170,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

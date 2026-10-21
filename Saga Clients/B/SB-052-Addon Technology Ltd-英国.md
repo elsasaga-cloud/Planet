@@ -24,6 +24,7 @@ last_contact: 2025-10-24
 p1: STC-028GP
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -100,6 +101,21 @@ updated: 2026-10-21
 - **风险/边界**：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复
 - **Saga 对位结论**：P1 STC-028GP（30% 档）——OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU
 - **邮件切入句（英文）**：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://addon-tech.com/browse/　语言：en　站点地图 URL 数：0
+- **标题**：Addon Technology - UK Based Manufacturer of Networking & Accessories
+- **描述**：Addon Technology - UK Based Manufacturer of Networking & Accessories
+- **首页栏目**：Discover the value of ADDON Technology / Latest / Featured
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 95、wifi 27、poe 4、switch 3、ethernet 3、gigabit 2、access control 1、cisco 1
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, AWP1200E, WPA2-PSK, AWU680, AWU-G30, AWU650, APR3000N, ARM8200, GWAR3550, NWAR3600, XWP3100R, ADD-BWP9400R
+- **站内公开邮箱**：donate@opencart.com
+- **已抓子页**：[ADDON APR3000N 300Mbps Multifunction WiFi Range Extender](https://addon-tech.com/product/networking/wifi-range-extenders/addon-apr3000n-300mbps-multifunction-wifi-range-extender)；[ADDON AWP1200E Wireless AC Dual Band 1200Mbps PCI-E Adapter](https://addon-tech.com/product/networking/wireless-adapters/addon-awp1200e-wireless-ac-dual-band-1200mbps-pci-e-adapter)；[ADDON XWP3100R 5400Mbps Wireless 6E/BT5.3 MU-MIMO PCIe Adapt](https://addon-tech.com/product/networking/wireless-adapters/addon-ax3000-2400mbps-wireless-6ebt52-mu-mimo-pcie-adapter-card)；[ADDON AWU680 Wireless AC Dual Band 600Mbps High Gain USB Ada](https://addon-tech.com/product/networking/wireless-adapters/addon-awu680-wireless-ac-dual-band-600mbps-high-gain-usb-adapter)；[Networking](https://addon-tech.com/browse/en-gb/catalog/networking)；[ADSL & Routers](https://addon-tech.com/browse/en-gb/catalog/networking/adsl-routers)
+- 首页正文摘录：UK Manufacturer of Networking and Accessories. Categories Networking ADSL & Routers Wifi Range Extenders Wired Networking Wireless Adapters Show All Networking Accessories HDD Enclosures Peripherals Webcams Show All Accessories Travelmate Audio Batteries & Power Banks Chargers & Accessories USB Hubs & Cardreaders Show All Travelmate Discover the value of ADDON Technology Since 2001 ADDON has been providing our loyal 
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 4 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-052.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

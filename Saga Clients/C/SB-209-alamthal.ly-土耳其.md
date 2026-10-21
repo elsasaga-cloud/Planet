@@ -25,6 +25,7 @@ last_contact: unknown
 p1: none
 price_tier: 25%
 research: done
+site_snapshot: none
 sources: 3
 updated: 2026-10-21
 ```

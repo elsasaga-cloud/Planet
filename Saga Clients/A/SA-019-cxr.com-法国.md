@@ -24,6 +24,7 @@ last_contact: 2025-12-29
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -107,6 +108,21 @@ updated: 2026-10-21
 - **风险/边界**：客户面向国防/交通/能源——国防项目守界，只供民用 ITS/能源/市政；已有 ODM 来源（规格与华南公版一致），Saga 需以 Marvell 平台 + 固件可定制（BDROS 风格 CLI）切入
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档
 - **邮件切入句（英文）**：Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.cxr.com/　语言：en　站点地图 URL 数：821
+- **标题**：CXR - Smart Solutions for Smart Networks
+- **首页栏目**：New / VIDEOS / Agenda / Certifications / Products / Utility / Transport / Telecom
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 156、ethernet 144、industrial 87、poe 51、gigabit 33、fiber 22、wireless 22、sfp 21、media converter 14、10g 3、telecom 2
+- **站内型号串**（正则抽取，含非交换机）：RS232, SWMM-H-7528, SWCE-2310, SWCED-2316, SWMDL-I-4GPBT-2USF, SWMDL-H-8GPS-2CB-B, SWMDL-H-4GPS-2USF-B, SWMD-H-8TPS-2GX, SWMD-H-16TG-4GSF-4SFP, SWMDH-7612, SWMDH-9608, IEC61850-3
+- **站内公开电话**：+33 (0) 2 37 62 87 90
+- **社媒**：http://www.facebook.com/CXRNetworks/, http://www.linkedin.com/company/cxr-anderson-jacobson, https://twitter.com/CxrNetworks, https://www.instagram.com/cxr.networks, https://www.youtube.com/@cxrnetworks, https://www.youtube.com/channel/UC91BVAftAtVV0FkCsjj54lw/?sub_confirmation=1
+- **产品类页面**：https://www.cxr.com/fr/pages/produits-1.html；https://www.cxr.com/fr/pages/catalogues-18.html；https://www.cxr.com/fr/pages/switch-ethernet-22.html；https://www.cxr.com/fr/pages/notices-produits-108.html；https://www.cxr.com/fr/pages/cycle-de-vie-des-produits-144.html；https://www.cxr.com/fr/categories/gigabit-poe-industriel-4.html
+- **已抓子页**：[Industrial GE Switch POE - CXR](https://www.cxr.com/en/categories/industrial-ge-switch-poe-45.html)；[DIN Rail Industrial Switch POE - CXR](https://www.cxr.com/en/categories/din-rail-industrial-switch-poe-95.html)；[DIN Rail Industrial Switch - CXR](https://www.cxr.com/en/categories/din-rail-industrial-switch-41.html)；[19'' Industrial Gigabit Switch - CXR](https://www.cxr.com/en/categories/19-industrial-gigabit-switch-44.html)；[Non-manageable DIN Rail Industrial Switch - CXR](https://www.cxr.com/en/categories/non-manageable-din-rail-industrial-switch-96.html)；[Ethernet Switch - CXR](https://www.cxr.com/en/pages/ethernet-switch-42.html)
+- 首页正文摘录：Smart Solutions for Smart Networks Toggle navigation Products Cybersecurity Isolation Equipment Traffic Analyzer Network-MouseTrαp Network security tool Ethernet Failover Protection Switches Ethernet Switch Carrier Ethernet Layer 3 Ethernet Switch 19'' Industrial Gigabit Switch Industrial GE Switch POE DIN Rail Industrial Switch DIN Rail Industrial Switch POE Non-manageable DIN Rail Industrial Switch Hybrid DSL/FO RS
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 87、PoE 51 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-019.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: 2025-08-09
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -104,6 +105,18 @@ updated: 2026-10-21
 - **风险/边界**：北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢；10G/2.5G 机型需 SmartByte 规格确认
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档
 - **邮件切入句（英文）**：On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://antronix.com/　语言：en-US　站点地图 URL 数：51
+- **标题**：antronix.com
+- **首页栏目**：Transforming Broadband Communications with Innovative Solutions / Featured Antronix Products / 2.0 GHz Milenium NXT Multi-Taps / 1.8 GHz Milenium Faceplates / 1.8 GHz Splitters / Experience Unmatched Reliability and Innovation
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 1
+- **站内公开邮箱**：support@antronix.com
+- **社媒**：https://antronix.com/, https://antronix.com/drop-passives/, https://antronix.com/filters-attenuators/, https://antronix.com/milenium-1-2-ghz-series/, https://antronix.com/residential-amplifiers/, https://antronix.com/retrofit-series/
+- **产品类页面**：https://antronix.com/product/；https://antronix.com/product-categories/；https://antronix.com/product-category/taps-and-line-passives/；https://antronix.com/product-category/milenium-1-2-ghz-series/；https://antronix.com/product-category/milenium-1-8-ghz-series/；https://antronix.com/product-category/2323/
+- 首页正文摘录：PRODUCTS TAPS AND LINE PASSIVES 2.0 GHz MILENIUM NXT 1.8 GHz FACEPLATES 1.2 GHz MILENIUM RETROFIT DROP PASSIVES RESIDENTIAL AMPLIFIERS FILTERS & ATTENUATORS SPLICES & ADAPTORS GROUND BLOCKS WALL PLATES ABOUT ANTRONIX CONTACT Select Page Transforming Broadband Communications with Innovative Solutions Transforming Broadband Communications with Innovative Solutions Antronix designs and builds quality HFC mainline and dr
+- 数据文件：`data/saga_clients/site_snapshots/SA-066.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

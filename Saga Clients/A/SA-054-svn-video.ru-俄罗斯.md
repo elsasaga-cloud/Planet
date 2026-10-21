@@ -24,6 +24,7 @@ last_contact: 2025-08-28
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -102,6 +103,23 @@ updated: 2026-10-21
 - **风险/边界**：个体经营者，量小；俄罗斯结算；HRUI 直供价 vs Saga 加价——需以服务/组合（摄像机配套 PoE）取胜；个体经营 + 百兆低价位——单量与毛利双低；若千兆位不接受，转 HRUI 源 Realtek 款（标注）或按 B 节奏
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）
 - **邮件切入句（英文）**：Your SVN-POE812 and POE1612 are fast-Ethernet; a gigabit Marvell-based 8-port PoE+ with 2 SFP in SVN packing would give the range a top SKU for 4K cameras, EXW, MOQ 1 for a trial batch.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://svn-video.ru/　语言：ru　站点地图 URL 数：1726
+- **标题**：Системы видеонаблюдения SVN с доставкой по России
+- **描述**：Системы видеонаблюдения, недорого в каталоге с ценой на сайте интернет-магазина SVN. По всем вопросам +7 (903) 810-33-33
+- **首页栏目**：Интернет-магазин систем видеонаблюдения / Интернет-магазин систем видеонаблюдения: главные преимущества
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 96、nvr 9、wifi 3、ethernet 1
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, SVN-500TA60KPOE, CV380, SVN-500SBC20KPOE, SVN-NVRC830POE, RS485, SVN-POE412, SVN-POE812, DC12V, IMX335, NT98566, SVN-500PL20K
+- **站内公开邮箱**：zakaz@svn-video.ru
+- **站内公开电话**：+7 (800) 600 72 59, +7 (903) 810 33 33, +7-903-810-33-33, +79038103333, 00004500007
+- **社媒**：https://t.me/+79038103333, https://t.me/SVN_VIDEO_bot, https://vk.com/svn.video, https://www.youtube.com/@SVNVIDEO
+- **产品类页面**：https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612；https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe2412；https://svn-video.ru/poe-oborudovanie/poe；https://svn-video.ru/poe-oborudovanie/svn-poe412-eco；https://svn-video.ru/poe-oborudovanie/svn-poe48v1a；https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe812-
+- **已抓子页**：[Контакты](https://svn-video.ru/contact-us)；[POE оборудование - купить в интернет-магазине svn-video.ru](https://svn-video.ru/poe-oborudovanie)；[SVN-500TA60KPOE IP – купить по цене 4960 руб. в интернет-маг](https://svn-video.ru/ip-camery/svn-500ta60kpoe)；[SVN-500SBC20KPOE IP – купить по цене 13850 руб. в интернет-м](https://svn-video.ru/ip-camery/svn-500sbc20kpoe)；[Видеорегистратор IP SVN-NVRC830POE – купить по цене 10550 ру](https://svn-video.ru/ip-videoregistratory/nvrc830poe)；[Сравнение товаров](https://svn-video.ru/compare-products)
+- 首页正文摘录：Меню Корзина 0 0 ₽ Контакты +7 (800) 600 72 59 +7 (903) 810 33 33 Время тех.поддержки пн. - пт. 10:00 - 18:00, сб. 10:00 - 15:00 (по московскому времени) Поддержка в мессенджере +7 (800) 600 72 59 +7 (903) 810 33 33 Обратный звонок Закрыть Каталог Поиск Доставка и оплата Монтаж Заявка на монтаж В частном доме IP камер В магазине В офисе В подъезде На даче В многоквартирном доме Обслуживание систем видеонаблюдения Под
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 96、监控 9 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-054.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

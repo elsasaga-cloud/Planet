@@ -24,6 +24,7 @@ last_contact: 2025-10-08
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +110,22 @@ updated: 2026-10-21
 - **风险/边界**：塞浦路斯市场小，单次量有限；分销 TVT/ZKTeco 产品线自带配套交换机，需用价格+管理功能切入
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://eyescan.com.cy/　语言：en-US　站点地图 URL 数：53
+- **标题**：Home - Eyescan Private Security Services Ltd
+- **首页栏目**：Proudly Protecting People and Businesses Since 2001 / Welcome to the home of Eyescan Securities Services / Our Products / Intruder Alarms / Fire Detection / Video Door Entry / Evacuation Products / Official Distributors of
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 15、automation 9、access control 8、poe 7、planet 7、integrator 2、cisco 2、camera 1、distributor 1
+- **站内出现的品牌**：ZKTeco, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@eyescan.com.cy
+- **站内公开电话**：+357 25 333 300, +357 25 750 740
+- **社媒**：https://www.facebook.com/EyeScanSecurities/, https://www.instagram.com/eyescansecuritysystems/, https://www.linkedin.com/company/eyescan-security-systems/
+- **产品类页面**：https://eyescan.com.cy/special-products/；https://eyescan.com.cy/products/；https://eyescan.com.cy/shop/；https://eyescan.com.cy/our-shop/；https://eyescan.com.cy/evacuation-products/；https://eyescan.com.cy/our-shop/
+- **已抓子页**：[Products - Eyescan Private Security Services Ltd](https://eyescan.com.cy/products/)；[Evacuation Products - Eyescan Private Security Services Ltd](https://eyescan.com.cy/evacuation-products/)；[CCTV - Eyescan Private Security Services Ltd](https://eyescan.com.cy/cctv/)；[About Us - Eyescan Private Security Services Ltd](https://eyescan.com.cy/about-us/)；[Contact Us - Eyescan Private Security Services Ltd](https://eyescan.com.cy/contact-us/)；[Our Shop - Eyescan Private Security Services Ltd](https://eyescan.com.cy/our-shop/)
+- 首页正文摘录：Home About Us Products Intruder Alarms CCTV Fire Detection Access Control Video Door Entry Integrated Solutions Nurse Call Systems Voice Evac & Sound Systems Telematics Smart Building Automations Special Products Evacuation Products Iot Solutions Services Alarm Receiving Center 24/7 Proactive AI Solutions 24/7 Critical Equipment Monitoring 24/7 Server Room and Environmental Solutions After Sale Service Security & Saf
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-003.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

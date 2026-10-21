@@ -24,6 +24,7 @@ last_contact: 2025-04-15
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -99,6 +100,20 @@ updated: 2026-10-21
 - **风险/边界**：军用 AP/KCMVP 相关守界；Saga 只供商用/工业 PoE；其「Non-China」出口卖点与中国 ODM 来源存在张力——OEM 条款需明确中性包装（Saga 本就中性）
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档
 - **邮件切入句（英文）**：Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gtwave.co.kr/　语言：ko　站点地图 URL 数：0
+- **标题**：GTWAVE Co.,Ltd
+- **描述**：지티웨이브 outdoor AP는 산업용무선AP로,802.11ac지원하며,검증필 암호모쥴 KCMVP을 사용한 CC인증VPN과 연동하여 군용무선랜AP로 사용가능합니다.무선CCTV설치시 비용 절감.
+- **首页栏目**：MENU / ABOUT US / PRODUCTS / INSTALLATION CASE / CONTACT / SNS / GT WAVE INNOVATIVE ENTERPRISE / OUR SERVICE
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 38、switch 23、wireless 23、industrial 11、cctv 7、wifi 7、sfp 2、fiber 2、surveillance 1
+- **站内公开邮箱**：master@gtwave.co.kr
+- **站内公开电话**：+82-31-707-4670
+- **已抓子页**：[오류안내 페이지 / GTWAVE Co.,Ltd](https://gtwave.co.kr/bbs/board.php?bo_table=product_6_en)；[GTWAVE Co.,Ltd](https://gtwave.co.kr/page/?pid=about_01)
+- 首页正文摘录：MENU ABOUT US Overview Philosophy Certification Specificity Location PRODUCTS PoE Switch - Non-Managed PoE - Managed(intelligent) PoE - Lite Managed PoE - industrial PoE - Bypass PoE - 4port PoE - 8port PoE - 16port PoE - 24port PoE - 48port PoE Network Switch - Managed(intelligent) Switch - Non-Managed Switch - Bypass Switch - industrial Switch - Fiber Opric Switch PoE Injector PoE Extender (repeater) SFP Module Wir
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 11、PoE 38 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-044.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

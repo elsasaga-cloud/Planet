@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STI-21616GP
 price_tier: 20%
 research: pending
+site_snapshot: none
 sources: 2
 updated: 2026-10-21
 ```

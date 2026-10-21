@@ -22,6 +22,7 @@ last_contact: 2025-11-06
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-06-19 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-049.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.cablewindow.com/en/　语言：未标　站点地图 URL 数：500
+- **标题**：Cablewindow
+- **描述**：Shop powered by PrestaShop
+- **首页栏目**：Information / My account
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 150、poe 142、industrial 123、ethernet 79、cable 72、nvr 67、sfp 47、cctv 43、wireless 38、wifi 36、gigabit 3、scada 2
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, EGSM900, WCDMA2100, UTP7204GE-HPOE, IIEEE802, EEE802, IEC61000-4-5, IEC61000-4-2
+- **社媒**：http://www.linkedin.com/company/cablewindow, https://www.facebook.com/pages/Cablewindow/125006147539121
+- **产品类页面**：http://www.cablewindow.com/video-vigilancia-transmision-de-video-switch-para-cctv-286；http://www.cablewindow.com/cables-y-conectividad-conectividad-conmutadores-de-red-switch-283；http://www.cablewindow.com/cables-y-conectividad-digital-signage-reproductores-digital-signage-268；http://www.cablewindow.com/cables-y-conectividad-conectividad-routers-3g-4g-wifi/router-industrial-vehiculo-umts-3g-hspa-wifi-804.html；http://www.cablewindow.com/video-vigilancia-transmision-de-video-switch-para-cctv/adaptador-poe-15-24-48v-ethernet-inyector-splliter-801.html；http://www.cablewindow.com/video-vigilancia-transmision-de-video-switch-para-cctv/switch-cctv-4p-100m-poe-30w-uplink-2p-100m-802.html
+- **已抓子页**：[CONECTIVIDAD Switch Profesional Switch PoE Industrial - Cabl](https://www.cablewindow.com/en/conectividad-switch-profesional-switch-poe-industrial-326)；[Switch 4p 1000M PoE++, UL 2p 1000M, 2p SFP Combo](https://www.cablewindow.com/en/conectividad-switch-profesional-switch-poe-industrial/switch-4p-1000m-poe-ul-2p-1000m-2p-sfp-combo-1324.html)；[CONECTIVIDAD Switch Profesional Extensores Ethernet / PoE - ](https://www.cablewindow.com/en/conectividad-switch-profesional-extensores-ethernet-poe-329)；[CONECTIVIDAD Switch Profesional Switch PoE - Cablewindow](https://www.cablewindow.com/en/conectividad-switch-profesional-switch-poe-327)；[CONECTIVIDAD Switch Profesional Inyectores / Splitter PoE - ](https://www.cablewindow.com/en/conectividad-switch-profesional-inyectores-splitter-poe-330)；[CONECTIVIDAD Switch Profesional Switch Industrial / Carril D](https://www.cablewindow.com/en/conectividad-switch-profesional-switch-industrial-carril-din-324)
+- 首页正文摘录：Product was added to your cart Entrar / Registro Mi cuenta Entrar Registro 0 0 Products Product (empty) No products 0,00 € Shipping 0,00 € Total Prices do not include tax. View shopping cart Proceed to Checkout Contacto Alta de Cliente Gastos de envío Soporte Soporte Técnico Nº de devolución RMA Blog Empresa MENU HOME VIDEO VIGILANCIA Accesorios CCTV Transmision de Video Grabador IP NVR Camara de Vigilancia IP VIDEOS
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 125、PoE 142 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-049.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +164,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

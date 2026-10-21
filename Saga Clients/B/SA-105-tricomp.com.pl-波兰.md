@@ -25,6 +25,7 @@ last_contact: 2025-05-23
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -98,6 +99,17 @@ updated: 2026-10-21
 - **风险/边界**：规模口径不一（可能仅数人）；14 次推送无回复
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
 - **邮件切入句（英文）**：For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tricomp.com.pl/　语言：pl-PL　站点地图 URL 数：0
+- **标题**：Tricomp – Technologia z pasją
+- **首页栏目**：Strona główna
+- **站内公开邮箱**：bok@tricomp.com.pl, contactpl@tricomp.com.pl, contactss@tricomp.com.pl, juba@tricomp.com.pl
+- **站内公开电话**：+211) 929 138 555, +48) 22 863 22 60, +48) 607 498 206, +48) 607 498 220
+- **已抓子页**：[O nas – Tricomp](https://tricomp.com.pl/o-nas/)；[Kontakt – Tricomp](https://tricomp.com.pl/kontakt/)
+- 首页正文摘录：O nas Oferta Telekomunikacja Projektowanie rozwiązań technicznych, instalacja okablowania Sprzęt i oprogramowanie Zarządzanie projektami Zaufali nam Kontakt English Technologia z pasją Strona główna TELEKOMUNIKACJA PROJEKTOWANIE ROZWIĄZAŃ TECHNICZNYCH, INSTALACJA OKABLOWANIA SPRZĘT I OPROGRAMOWANIE ZARZĄDZANIE PROJEKTAMI Kontakt TEL (+48) 607 498 220 FAX (+48) 22 863 22 60 contactpl@tricomp.com.pl Prymasa Tysiąclecia
+- 数据文件：`data/saga_clients/site_snapshots/SA-105.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

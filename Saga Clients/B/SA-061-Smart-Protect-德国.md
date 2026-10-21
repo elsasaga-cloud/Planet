@@ -25,6 +25,7 @@ last_contact: 2025-05-13
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -85,6 +86,20 @@ updated: 2026-10-21
 - **风险/边界**：微型、单量小；偏好品牌原厂 PoE
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP
 - **邮件切入句（英文）**：For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://walker-security.systems/　语言：de　站点地图 URL 数：8
+- **标题**：Sicherheitstechnik Mönchengladbach / Walker Security
+- **描述**：Ihr Experte für Sicherheitstechnik in Mönchengladbach. Wir bieten Alarmanlagen, Videoüberwachung & Zutrittskontrollen für Unternehmen & Privathaushalte. Individuelle Konzepte & zertifizierte Qualität. Jetzt informieren!
+- **首页栏目**：Walker Security Systems / Unsere Sicherheitslösungen im Überblick / Nahtlose Cloud-Integration, unbegrenzte Möglichkeiten / Bereit für den nächsten Schritt? / 30+ Jahre Erfahrung / 1000+ Zufriedene Kunden
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：dahua 4、cctv 2、axis 1
+- **站内出现的品牌**：Ajax, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@walker-security.systems
+- **站内公开电话**：+49 2153 909 77 40, +49 2153 909 7740
+- **已抓子页**：[Kontakt Walker Security Systems / Sicherheit Mönchengladbach](https://walker-security.systems/kontakt)；[Smart Security & Vernetzte Sicherheit / Walker Security](https://walker-security.systems/smart-solutions)
+- 首页正文摘录：Startseite Sicherheitstechnik Smart Solutions Aktuelle Angebote Kontakt Kontakt aufnehmen Startseite Sicherheitstechnik Smart Solutions Aktuelle Angebote Kontakt Kontakt aufnehmen Startseite Sicherheitstechnik Smart Solutions Aktuelle Angebote Kontakt Kontakt aufnehmen Startseite Sicherheitstechnik Smart Solutions Aktuelle Angebote Kontakt Kontakt aufnehmen Walker Security Systems SICHERHEITSTECHNIK PROFESSIONELL & Z
+- 数据文件：`data/saga_clients/site_snapshots/SA-061.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +90,20 @@ updated: 2026-10-21
 - **风险/边界**：政府招标业务占比高（守界按个案）；无后续跟进；bypass 需求对应 SmartByte 型号价差大
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+ 管理，$145.7；现场锚点 $105 为样品特价）；带 bypass 需用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP + 1 路光 bypass，$194.3，Saga 暂无对应型号）
 - **邮件切入句（英文）**：Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir endüstriyel switch'i 1 adet numune olarak 105 USD'ye (fuar fiyatı) gönderebilirim, bypass'lı sürüm ayrı fiyatlandırılır; numune için Ankara adresi ve PayPal/havale tercihinizi yazar mısınız?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://onsis.com.tr/　语言：tr　站点地图 URL 数：2158
+- **标题**：Onsis Elektrik Elektronik Güvenlik Sistemleri – Kalite ve Üstün Hizmetle Teknolojiyi Size Getiriyoruz.
+- **首页栏目**：Günümüzde Güvenlik Sistemleri Neden Gerekli?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 1
+- **站内公开邮箱**：eseftaskiran@hotmail.com, info@onsis.com.tr
+- **站内公开电话**：0090 (312) 433 6102, 0090 (312) 435 6753
+- **社媒**：http://www.instagram.com, http://www.twitter.com, https://www.facebook.com/www.oncuelektronik.net/, https://www.linkedin.com/company/onsis
+- **产品类页面**：https://onsis.com.tr/filmora-portable-product-key-x64-2026.html；https://onsis.com.tr/redshift-render-crack-product-key-clean-x32-x64-reddit.html；https://onsis.com.tr/orcad-all-products-portable-exe-universal-x86x64-stable.html；https://onsis.com.tr/easy-duplicate-cleaner-portable-product-key-lifetime-x32-x64-windows-10.html；https://onsis.com.tr/matlab-2025-portable-product-key-full-100-worked-verified.html；https://onsis.com.tr/process-lasso-pro-crack-product-key-windows-10-100-worked-filecr.html
+- **已抓子页**：[Ürünler – Onsis Elektrik Elektronik Güvenlik Sistemleri](https://onsis.com.tr/urunler)；[Hakkımızda – Onsis Elektrik Elektronik Güvenlik Sistemleri](https://onsis.com.tr/hakkimizda)；[iletişim – Onsis Elektrik Elektronik Güvenlik Sistemleri](https://onsis.com.tr/iletisim)
+- 首页正文摘录：Ürünler Hakkımızda Referanslar Formlar Kalite Politikamız İletişim Ürünler Hakkımızda Referanslar Formlar Kalite Politikamız İletişim Günümüzde Güvenlik Sistemleri Neden Gerekli? Günümüzde Güvenlik Sistemleri çok önemli bir ihtiyaç. Güvenlik Sistemleri’ne talep artışı var. Bazı Kötü niyet ve Hırsızlık olaylarının özellikle büyük kentlerimizde artması üzerine; güvenlik sistemleri kullanım gereksinimi ortaya çıkmıştır.
+- 数据文件：`data/saga_clients/site_snapshots/SB-096.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

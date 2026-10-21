@@ -24,6 +24,7 @@ last_contact: 2025-06-26
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -102,6 +103,21 @@ updated: 2026-10-21
 - **风险/边界**：巴基斯坦外汇/LC 付款与进口限制；价格极敏感（24 FE PoE 零售极低）；BDCOM 为 L3 来源，Saga 只切接入层
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档
 - **邮件切入句（英文）**：Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://mt-link.com/　语言：en-US　站点地图 URL 数：216
+- **标题**：MT-Link – Products manufacturer of wireless networking products, Switches, 3G Router, Wireless LAN,
+- **首页栏目**：STRUCTURED CABLING / Wireless Router / xPON Products / L3/L2+ Managed Switches / POE Unmanaged Switches / For Home / For Business / Discontined Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 309、sfp 227、wifi 205、switch 200、fiber 120、cable 110、media converter 86、poe 56、gigabit 47、10g 47、cisco 7、data center 4
+- **站内型号串**（正则抽取，含非交换机）：MT-SG5800, QSFP28, MT-SG5826F, MT-SG5928, SFP28, MT-SG8500E, MT-SG1016, MT-100G-QSFP28-40, MT-FDB08, MT-SW1008PE, MT-SG1012PE, MT-SW108D
+- **站内公开邮箱**：info@mt-link.com
+- **社媒**：https://wa.me/+923179995719, https://www.facebook.com/mtlinkpakistan/, https://www.instagram.com/mtlink_pakistan, https://www.youtube.com/@mtlinkpakistan, https://x.com/mtlinkpakistan
+- **产品类页面**：https://mt-link.com/shop/；https://mt-link.com/product/3rd-generation-chassis-core-switch/；https://mt-link.com/product/mt-8-port-fdb-box/；https://mt-link.com/product/mt-16-port-fdb-box/；https://mt-link.com/product/mt-cable-manager/；https://mt-link.com/product/mt-tool/
+- **已抓子页**：[POE Switches – MT-Link](https://mt-link.com/product-category/forbusiness/switches/poe-switches/)；[Switches – MT-Link](https://mt-link.com/product-category/forbusiness/switches/)；[3rd Generation Chassis Core Switch – MT-Link](https://mt-link.com/product/3rd-generation-chassis-core-switch/)；[MT-SG5826F 24 Port Gigabit Smart/Managed Switch – MT-Link](https://mt-link.com/product/mt-sg5826-24-port-gigabit-smart-managed-switch/)；[Manageable Switches – MT-Link](https://mt-link.com/product-category/forbusiness/switches/manageable-switches/)；[SOHO Unmanaged Switch – MT-Link](https://mt-link.com/product-category/forbusiness/switches/soho-unmanaged-switch/)
+- 首页正文摘录：Home About us Contact us Support Pakistan / English Select category Select category Discontined Products For Business Switches SOHO Unmanaged Switch POE Switches Manageable Switches Pon Products EPON OLT GPON OLT XPON Bridge ONU XPON Wifi 4 Wireless Router XPON Wifi 5 Wireless Router Media Converters 10/100Mbps Media Converter SFP Media Converter Gigabit Media Converters SFP Modules 1.25 SFP Modules 10G SFP Modules 2
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 47、交换机 200 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-057.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

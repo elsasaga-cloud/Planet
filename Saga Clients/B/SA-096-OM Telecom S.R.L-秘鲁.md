@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -67,6 +68,16 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。
 - 备注：WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://om-telecom.com/　语言：en-US　站点地图 URL 数：2
+- **标题**：OM Telecom
+- **首页栏目**：OM Telecom / Connecting Businesses, Empowering Communication / Contact Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 9
+- **产品类页面**：https://om-telecom.com/ols/products
+- 首页正文摘录：OM Telecom OM Telecom OM Telecom OM Telecom OM Telecom OM Telecom OM Telecom OM Telecom More Connecting Businesses, Empowering Communication Connecting Businesses, Empowering Communication Connecting Businesses, Empowering Communication Connecting Businesses, Empowering Communication Connecting Businesses, Empowering Communication Connecting Businesses, Empowering Communication Connecting Businesses, Empowering Commu
+- 数据文件：`data/saga_clients/site_snapshots/SA-096.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

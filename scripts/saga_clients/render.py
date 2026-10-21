@@ -17,6 +17,19 @@ from common import DATA, OUT_DIR, ROOT, slug
 
 TODAY = dt.date.today().isoformat()
 PRICE_CSV = os.path.join(ROOT, 'data', '价格主表.csv')
+DIGEST_JSON = os.path.join(DATA, 'site_digest.json')   # snapshot_digest.py 产物（官网快照摘要），缺失则跳过
+
+
+def load_digest():
+    if not os.path.exists(DIGEST_JSON):
+        return {}
+    try:
+        return json.load(open(DIGEST_JSON, encoding='utf-8'))
+    except Exception:
+        return {}
+
+
+SITE = load_digest()
 
 # 兴趣 → Saga 主推（型号, 场景说明）
 P1_RULES = [
@@ -229,6 +242,57 @@ def fmt_research(ent):
         lines.append(f"- 备注：{rs['notes']}")
     lines.append(fmt_deep(ent))
     return '\n'.join(lines)
+
+
+def fmt_snapshot(ent):
+    """官网快照（自动摘要）块：来自 GitHub Actions 批量抓取 → snapshot_digest.py。缺失即不渲染。
+    只呈现站内可见事实（标题/描述/语言/关键词词频/站内型号/公开邮箱电话/产品页/站内出现的品牌），不做人工判断。"""
+    sg = SITE.get(ent['code'])
+    if not sg:
+        return ''
+    L = ['', f"### 官网快照（自动摘要 · 抓取 {sg.get('fetched_at', '')[:10]} · 状态：{sg.get('status_cn', sg.get('status', ''))}）", '']
+    if sg.get('status') != 'ok':
+        L.append(f"- 尝试域名：{', '.join(sg.get('domains') or [])}")
+        for e in (sg.get('errors') or [])[:3]:
+            L.append(f'  > {e}')
+        if sg.get('status') == 'parked_or_empty':
+            L.append('- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。')
+        elif sg.get('status') == 'unreachable':
+            L.append('- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。')
+        else:
+            L.append('- **提示**：抓取失败不代表公司不在；人工打开一次即可。')
+        L.append(f"- 数据文件：`data/saga_clients/site_snapshots/{ent['code']}.json`")
+        return '\n'.join(L)
+    L.append(f"- **首页**：{sg.get('final_url', '')}　语言：{sg.get('lang') or '未标'}　站点地图 URL 数：{sg.get('sitemap_count', 0)}")
+    if sg.get('title'):
+        L.append(f"- **标题**：{sg['title'].replace('|', '/')}")
+    if sg.get('desc'):
+        L.append(f"- **描述**：{sg['desc'].replace('|', '/')}")
+    if sg.get('headings'):
+        L.append(f"- **首页栏目**：{' / '.join(h.replace('|', '/') for h in sg['headings'])}")
+    if sg.get('kw'):
+        kw = sorted(sg['kw'].items(), key=lambda x: -x[1])[:12]
+        L.append('- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：' + '、'.join(f'{k} {v}' for k, v in kw))
+    if sg.get('brands'):
+        L.append(f"- **站内出现的品牌**：{', '.join(sg['brands'])}　（「（！）」= Saga 自家/供应商品牌已在其站内出现）")
+    if sg.get('models'):
+        L.append(f"- **站内型号串**（正则抽取，含非交换机）：{', '.join(sg['models'])}")
+    if sg.get('emails'):
+        L.append(f"- **站内公开邮箱**：{', '.join(sg['emails'])}")
+    if sg.get('phones'):
+        L.append(f"- **站内公开电话**：{', '.join(sg['phones'])}")
+    if sg.get('social'):
+        L.append(f"- **社媒**：{', '.join(sg['social'])}")
+    if sg.get('product_pages'):
+        L.append('- **产品类页面**：' + '；'.join(sg['product_pages'][:6]))
+    if sg.get('subpages'):
+        L.append('- **已抓子页**：' + '；'.join(f"[{(x.get('title') or '').replace('|', '/')[:60]}]({x.get('url', '')})" for x in sg['subpages'][:6]))
+    if sg.get('excerpt'):
+        L.append(f"- 首页正文摘录：{sg['excerpt'].replace('|', '/')}")
+    if sg.get('auto_p1'):
+        L.append(f"- **自动对位建议**：{sg['auto_p1']}（{sg.get('auto_p1_why', '')}；仅在无人工对位时作为 P1）")
+    L.append(f"- 数据文件：`data/saga_clients/site_snapshots/{ent['code']}.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。")
+    return '\n'.join(L)
 
 
 def fmt_deep(ent):
@@ -539,10 +603,13 @@ def render_one(ent):
     tier = infer_tier(ent, typ)
     p1, p1_why = infer_p1(ent)
     sf = (ent.get('research') or {}).get('saga_fit') or {}
+    sg = SITE.get(code) or {}
     if 'p1' in sf and sf['p1'] is None:
         p1, p1_why = None, f"深挖对位：{sf.get('why', '')}"
     elif sf.get('p1'):
         p1, p1_why = sf['p1'], f"深挖对位：{sf.get('why', '')}"
+    elif sg.get('auto_p1') and p1_why.startswith('无明确兴趣记录'):
+        p1, p1_why = sg['auto_p1'], sg.get('auto_p1_why', '官网快照对位')
     if sf.get('tier') in (20, 25, 30):
         tier = sf['tier']
     brands = brands_seen(ent)
@@ -591,7 +658,12 @@ def render_one(ent):
     if not ent['interests']:
         unknown.append('具体需求型号（表内兴趣列为空）')
     if not ent.get('research'):
-        unknown.append('网页调研未做（公司规模/业务/在卖品牌待核）')
+        if sg.get('status') == 'ok':
+            unknown.append('人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）')
+        else:
+            unknown.append('网页调研未做（公司规模/业务/在卖品牌待核）')
+    if website and sg and sg.get('status') not in ('ok', None, ''):
+        unknown.append(f"官网当前状态异常（{sg.get('status_cn', sg.get('status'))}）——公司是否仍在运营待核")
     if not unknown:
         unknown.append('年走量与现供应商')
     yaml_tags = json.dumps(ent['tags'], ensure_ascii=False)
@@ -629,6 +701,7 @@ def render_one(ent):
     lines.append(f'p1: {p1 or "none"}')
     lines.append(f'price_tier: {tier}%')
     lines.append(f'research: {"done" if ent.get("research") else "pending"}')
+    lines.append(f'site_snapshot: {sg.get("status", "none")}' + (f'  # {sg.get("fetched_at", "")[:10]}' if sg else ''))
     lines.append(f'sources: {len(ent["sources"])}')
     lines.append(f'updated: {TODAY}')
     lines.append('```')
@@ -696,6 +769,9 @@ def render_one(ent):
     lines.append('## 客户调研（网页核实 · 引文 + URL + 日期）')
     lines.append('')
     lines.append(fmt_research(ent))
+    snap_block = fmt_snapshot(ent)
+    if snap_block:
+        lines.append(snap_block)
     lines.append('')
     lines.append('## 在卖/在用品牌 → Saga 对位')
     lines.append('')

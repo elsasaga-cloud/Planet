@@ -24,6 +24,7 @@ last_contact: 2025-09-27
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -103,6 +104,19 @@ updated: 2026-10-21
 - **风险/边界**：小承包商，项目型单量小；美国商业楼宇要 UL 的场景不供
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——布线承包商摄像/门禁/AP 项目：STC-424DGGPM-280W 主推；Wi-Fi 6E/7 与 multi-gig 布线对应 STC-424XGGPM-280W（2.5G 下行需核）；8 口位 STC-28DGGPM；集成商 25% 档
 - **邮件切入句（英文）**：For the camera, access-control and Wi-Fi 6E/7 drops you cable in San Antonio and Austin, the Marvell-based 24-port PoE+ managed switch at EXW cost is the one I am quoting, with the 10G-uplink version for the multi-gig jobs.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://alphanetcom.com/　语言：en　站点地图 URL 数：8
+- **标题**：San Antonio Network Cabling & Fiber Installation / Alpha Net
+- **描述**：Alpha Net Communications provides structured cabling, fiber optic installation, business phone systems, wireless networking, cameras, access control, and network services in San Antonio, Austin, and South Texas.
+- **首页栏目**：San Antonio Network Cabling, Fiber Optic Installation & Business Phone Systems / CABLING / NETWORKING SERVICES / WIRELESS / Providing Tomorrow's Technology Today / Conferences and Conventions / Alpha Net Services Since 1986 / 210-654-0653
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 14、wireless 14、gigabit 8、ethernet 4、camera 4、switch 3、access control 3、poe 2、wifi 2、data center 1、cable 1、ubiquiti 1
+- **站内公开邮箱**：contact@alphanetcom.com
+- **社媒**：https://mobile.twitter.com/Alpha_NetComs, https://www.cybermaxx.com/, https://www.facebook.com/AlphaNetComs/, https://www.linkedin.com/company/alpha-net-communications
+- 首页正文摘录：HOME ABOUT SERVICES PRODUCTS DETAILS CONTACT San Antonio Network Cabling, Fiber Optic Installation & Business Phone Systems Alpha Net Communications provides structured cabling, fiber, wireless networking, VoIP phone systems, cameras, access control, and network services for businesses in San Antonio, Austin, and South Texas. CABLING Serving San Antonio and Austin for large and small businesses. We specialize in voic
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 2、监控 4 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-091.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

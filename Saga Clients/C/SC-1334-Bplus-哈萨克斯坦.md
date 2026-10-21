@@ -22,6 +22,7 @@ last_contact: 2025-10-22
 p1: none
 price_tier: 20%
 research: pending
+site_snapshot: none
 sources: 2
 updated: 2026-10-21
 ```

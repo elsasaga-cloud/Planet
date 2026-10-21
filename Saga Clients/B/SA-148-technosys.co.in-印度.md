@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -89,6 +90,20 @@ updated: 2026-10-21
 - **风险/边界**：主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）
 - **邮件切入句（英文）**：Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://technosys.co.in/　语言：en-US　站点地图 URL 数：39
+- **标题**：Home - TECHNOSYS
+- **首页栏目**：About Our Company / why traders choose us / Our Services / Free Consulting
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 3、automation 2、cctv 1、access control 1
+- **站内公开邮箱**：contact@technosys.co.in
+- **站内公开电话**：+91 9320207744, +91-9320207744
+- **社媒**：https://twitter.com/TechnosysGlobal, https://twitter.com/home?status=https://technosys.co.in/contact/, https://www.facebook.com/sharer/sharer.php?u=https://technosys.co.in/contact/, https://www.facebook.com/technosysglobal, https://www.instagram.com/technosysglobal/, https://www.linkedin.com/company/technosysweb
+- **产品类页面**：https://technosys.co.in/shop/
+- **已抓子页**：[Contact - TECHNOSYS](https://technosys.co.in/contact/)；[Company Overview - TECHNOSYS](https://technosys.co.in/company-overview/)；[CyberSecurity Solutions - TECHNOSYS](https://technosys.co.in/case/cs-solutions/)；[AI Solutions - TECHNOSYS](https://technosys.co.in/case/ai-solutions/)；[IoT Solutions - TECHNOSYS](https://technosys.co.in/case/iot-solutions/)；[Web Solutions - TECHNOSYS](https://technosys.co.in/case/web-solutions/)
+- 首页正文摘录：0 No products in the cart. Cart Total: £ 0.00 Home Services About Us Company Overview Mission, Pillars and Values Career Knowledgebase Shop Blog Forum Contact GlobalSearch Home Services About Us Company Overview Mission, Pillars and Values Career Knowledgebase Shop Blog Forum Contact GlobalSearch We take care of all your IT needs The fastest way to achieve success Ask for Consultation IT Solutions Your Vision to IT W
+- 数据文件：`data/saga_clients/site_snapshots/SA-148.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

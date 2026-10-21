@@ -22,6 +22,7 @@ last_contact: 2025-10-17
 p1: STI-110GE
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-17）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-077.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://wire.tech/　语言：en　站点地图 URL 数：26
+- **标题**：Wire Technologies — Wire Technologies
+- **描述**：Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters
+- **首页栏目**：Latest News / Driving Greener Logistics & Sustainable Supply Chains / Fantasy Premiere League / Happy St George’s Day / Transceivers / Direct Attach Cables / Active Optical Cables / Lifetime Warranty and Guaranteed Compatibility
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 107、cisco 30、fibre 21、media converter 15、sfp 10、10g 2
+- **站内出现的品牌**：Cisco, Juniper, Extreme, H3C　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PDU-UK3, PDU-C14, PDU-C20, PDU-16A, PDU-C14-UK, UK3PIN-C13, UK3PIN-C15, UK3PIN-C19
+- **站内公开邮箱**：enquiries@wire.tech, support@wire.tech
+- **站内公开电话**：+44 1285 425969
+- **社媒**：https://uk.linkedin.com/company/wiretechnologies
+- **产品类页面**：https://wire.tech/sitemap_products_1.xml?from=8373032714544&amp;to=8847030583600；https://wire.tech/sitemap_products_2.xml?from=8847030649136&amp;to=8898997911856；https://wire.tech/sitemap_products_3.xml?from=8898998141232&amp;to=8967137820976；https://wire.tech/sitemap_products_4.xml?from=8967137919280&amp;to=8967404486960；https://wire.tech/sitemap_products_5.xml?from=8967405338928&amp;to=8968012366128；https://wire.tech/sitemap_products_6.xml?from=8968012890416&amp;to=9087440093488
+- **已抓子页**：[Contact Us — Wire Technologies](https://wire.tech/pages/contact)；[About Wire Tech — Wire Technologies](https://wire.tech/pages/about-wire-tech)；[Power Solutions — Wire Technologies](https://wire.tech/collections/power-solutions)；[Hardware Design Services — Wire Technologies](https://wire.tech/pages/hardware-design-services)
+- 首页正文摘录：Skip to content Find us on LinkedIn Find us on LinkedIn Menu All categories ------ AOC BiDi Transceivers Cable Management Cat Cable DAC Docking Station Fibre Cable Media Converter MPO Cable NIC Card PDU Power Cable Transceiver Adapters Transceivers All categories Cancel Login View Quote Transceivers Cisco Compatible Juniper Compatible Brocade Compatible Dell Compatible Arista Compatible Extreme Compatible HPe Compati
+- 数据文件：`data/saga_clients/site_snapshots/SB-077.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

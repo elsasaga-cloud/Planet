@@ -25,6 +25,7 @@ last_contact: 2025-10-08
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -111,6 +112,24 @@ updated: 2026-10-21
 - **风险/边界**：IP67 需求 Saga 不满足；6 次推送 0 回复
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱
 - **邮件切入句（英文）**：Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://anb-rimex.be/en/　语言：en　站点地图 URL 数：65
+- **标题**：Welcome to AnB-Rimex - AnB-Rimex
+- **描述**：Homepage
+- **首页栏目**：Cookie preferences / Essential cookies / Functional cookies / Advertising cookies / Analysis cookies / Reliable, scalable solutions that last a lifetime. / Solutions for life / Reliable safety
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 31、cctv 20、access control 18、automation 15、installer 14、distributor 4、industrial 1、dahua 1
+- **站内出现的品牌**：Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MOTEL21, EN50131
+- **站内公开邮箱**：info@anb-rimex.be
+- **站内公开电话**：+32 (0)4 229 37 97, 001 - 2010 2001
+- **社媒**：https://www.facebook.com/AnBRimex1981, https://www.linkedin.com/company/anb-securite-s.a./
+- **产品类页面**：https://anb-rimex.be/fr/professionnels/vip-access-eshop/；https://anb-rimex.be/fr/produits/；https://anb-rimex.be/fr/produits/intrusion/；https://anb-rimex.be/fr/produits/domotique/；https://anb-rimex.be/fr/produits/detection-incendie/；https://anb-rimex.be/fr/produits/cctv-dahua/
+- **已抓子页**：[CCTV: Camera systems - AnB-Rimex](https://anb-rimex.be/en/solutions/cctv/)；[About us - AnB-Rimex](https://anb-rimex.be/en/about-us/)；[Work at AnB-Rimex - AnB-Rimex](https://anb-rimex.be/en/about-us/jobs/)；[Our story - AnB-Rimex](https://anb-rimex.be/en/about-us/story/)；[Contact - AnB-Rimex](https://anb-rimex.be/en/pages-de-contact/)；[Installers & Distributors - AnB-Rimex](https://anb-rimex.be/en/pages-de-contact/dealers/)
+- 首页正文摘录：Find a dealer English Français Nederlands Deutsch Solutions Intrusion Intrusion detection and alarm systems. Domotics Automation, I/O and smart home control. CCTV Camera systems for clear visual security. Access control Control who enters your building. Videophony / VDP Door entry and videophony systems. Fire detection Fire detection and warning systems. Assisted living Technology for independent and comfortable livi
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 6、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-151.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

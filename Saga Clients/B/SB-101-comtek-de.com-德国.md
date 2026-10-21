@@ -24,6 +24,7 @@ last_contact: 2025-10-17
 p1: STC-424XGGM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -92,6 +93,23 @@ updated: 2026-10-21
 - **风险/边界**：主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低
 - **Saga 对位结论**：P1 STC-424XGGM（20% 档）——经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM
 - **邮件切入句（英文）**：Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://comtek-de.com/　语言：de　站点地图 URL 数：1242
+- **标题**：Startseite / Hauptseite - Comtek Network Systems
+- **描述**：Verlängern Sie die Lebensdauer Ihrer Telekommunikations- und Netzwerkgeräte mit den fachmännischen Reparatur-, Aufarbeitungs- und nachhaltigen Supportleistungen von Comtek. Weltweit vertrauen uns Betreiber. Sitz in Großbritannien.
+- **首页栏目**：Ihr Partner für nachhaltige Telekommunikationsnetzwerkdienste / Fordern Sie ein individuelles Angebot an / KREISLAUFWIRTSCHAFT BEI COMTEK / MASSGESCHNEIDERTER TEST-, REPARATUR- UND LIEFERSERVICE / Unsere Vision / BÜROLINIE / E-MAIL SENDEN / BÜROSTUNDEN
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cisco 21、switch 16、oem 12、axis 11、poe 1、fiber 1、cctv 1、wireless 1、cable 1、planet 1、tp-link 1、moxa 1
+- **站内出现的品牌**：Cisco, Juniper, Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DE813812023, PTX10001, EX4600, DCS-7130-48EHS, DCA-350E-CV, DCA-300-CV, DCS-7050SX3-48YC12, DCS-7050SX3-48YC8, CCS-720XP, DCS-7060CX-32S, DCS-7060CX2-32S, CCS-720XP-48Y6
+- **站内公开邮箱**：info@comtek-de.com, info@comtek.gr, sales@comtek.co.uk, sales@comtek.es, sales@comtek.group, sales@comtek.nl
+- **站内公开电话**：+49 (0)6105 303 9607
+- **产品类页面**：https://comtek-de.com/old-refurbished-hardware/it-and-telecom-products/；https://comtek-de.com/products/；https://comtek-de.com/products-stock-check/；https://comtek-de.com/products/；https://comtek-de.com/product/intel-uxsw8030/；https://comtek-de.com/product/intel-ee110tx12w/
+- **已抓子页**：[Produkte - Comtek Netzwerksysteme](https://comtek-de.com/products-stock-check/)；[Produkte - Comtek Netzwerksysteme](https://comtek-de.com/Produktbestandspr%C3%BCfung/)；[Generalüberholte Hardware – Comtek Network Systems](https://comtek-de.com/general%C3%BCberholte-Hardware/)；[Arista Verkaufsende 2026 / Wichtige Termine für Netzwerk-Har](https://comtek-de.com/Arista-Ausverkaufsprodukte-2026/)
+- 首页正文摘录：Kunden-Login Angebot anfordern Sprache English Nederlands Deutsch Französisch Español Ελληνικά 0 Artikel +49 (0)6105 303 9607 Kontakt Suche Produkte Suche Produkte Wer wir sind Schlüsselpersonen und Werte Geschichte Karriere Akkreditierungen und Auszeichnungen Services Hardwarereparatur Reparaturen älterer Hardware Stilllegung Nortel-Reparaturspezialisten Von uns unterstützte Sektoren Infrastrukturarbeit Regierung un
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-101.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

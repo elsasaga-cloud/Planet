@@ -24,6 +24,7 @@ last_contact: 2025-11-05
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -110,6 +111,21 @@ updated: 2026-10-21
 - **风险/边界**：0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小；个体经营、7 次跟进 0 回复——改用 WhatsApp/电话（+49 172 90 54 200）一次性触达，不再邮件轰炸
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档
 - **邮件切入句（英文）**：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://falke-security.de/　语言：de　站点地图 URL 数：103
+- **标题**：Falke Security
+- **首页栏目**：Home / FALKE SECURITY / Kunden / Kameras / Alarmanlagen / Ware
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：dahua 11、cctv 1、wireless 1
+- **站内出现的品牌**：Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：HAC-HDBW2221R-Z, HAC-HDBW2401EP-0280B, HAC-HDBW2401R-Z, HAC-HDBW3231E-ZT, HAC-HDW2221EM-A-0280, HAC-HDW2221R-Z, HAC-HDW2401EM-0280, HAC-HFW2221R-Z-IRE6, HAC-HFW2401R-Z-IRE6, HAC-HFW3231E-ZT, HCVR7104H-4M
+- **站内公开邮箱**：info@falke-security.de
+- **社媒**：https://twitter.com/TemplateMonster, https://www.facebook.com/TemplateMonster/, https://www.youtube.com, https://www.youtube.com/user/TemplateMonsterCo
+- **产品类页面**：https://falke-security.de/produkte/
+- **已抓子页**：[Produkte – Falke Security](https://falke-security.de/produkte/)；[Kontakt – Falke Security](https://falke-security.de/kontakt/)；[Über Uns – Falke Security](https://falke-security.de/uber-uns/)
+- 首页正文摘录：Zum Inhalt springen ADRESSE: Duisburg TELEFONISCHER KONTAKT: 0172 90 54 200 ARBEITSZEITEN: Mo - Sa 09:00 - 18:00 Home Über Uns Unsere Leistugen Referenzen Produkte Kontakt Impressum Home FALKE SECURITY Für ein sicheres Leben HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler. Machen Sie keine Kompromisse wenn es um Qualität geht. Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende N
+- 数据文件：`data/saga_clients/site_snapshots/SA-154.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1031.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mro-tek.com/　语言：en　站点地图 URL 数：102
+- **标题**：MRO‑TEK — Integrating Next Generation Networks
+- **描述**：MRO‑TEK is an Indian OEM of enterprise networking, telecom, and security products — designed, manufactured, and certified in India.
+- **首页栏目**：Network Products Built in India for India / Everything You Need / Trusted Since 1984 — Designed, Built & Certified in India / The Hardware Behind India's Critical Networks / From Branch Office to Data Center Core / Proven in the Field — Real Deployments, Real Results / News & Insights / How India's Data Centre Boom Is Creating a New Networking Challenge
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 355、poe 145、sfp 114、10g 106、ethernet 72、data center 62、fibre 58、fiber 46、industrial 42、media converter 28、telecom 28、gigabit 10
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, QSFP28, ECAT-01L, CORNUS-82P, DC405-BD, DC405-BH, DC306-BD, DC207-BD, DC207-MF, SFP28, QSFP56-DD, LAVENDER-244X-L3-I
+- **站内公开邮箱**：info@mro-tek.com, sales@mro-tek.com, support@mro-tek.com
+- **站内公开电话**：+91 9821558696
+- **社媒**：https://www.linkedin.com/company/umiya-buildcon-limited-mro-tek/home/
+- **产品类页面**：https://www.mro-tek.com/products；https://www.mro-tek.com/products/data-center/switches；https://www.mro-tek.com/products/data-center/switches/allium-dc207-bd；https://www.mro-tek.com/products/data-center/switches/allium-dc207-mf；https://www.mro-tek.com/products/data-center/switches/allium-dc306-bd；https://www.mro-tek.com/products/data-center/switches/allium-dc405-bd
+- **已抓子页**：[Industrial Switches — MRO‑TEK / ERPS Ring, -20°C to +70°C, M](https://www.mro-tek.com/products/industrial/switches)；[Enterprise Switches — MRO‑TEK LAVENDER Series / TEC and TTP ](https://www.mro-tek.com/products/enterprise/switches)；[Data Center Switches — MRO‑TEK / Allium Low Latency Cloud Sw](https://www.mro-tek.com/products/data-center/switches)；[PDH Fiber Multiplexer — MRO‑TEK / TEC Approved ECAT-01L](https://www.mro-tek.com/products/telecom-tdm/ecat)；[SFP — MRO‑TEK / SFP / SFP+ / QSFP Transceivers, 1G to 100G](https://www.mro-tek.com/products/sfp/fiber-transceivers)；[About MRO‑TEK — Integrating Next Generation Networks](https://www.mro-tek.com/about/company)
+- 首页正文摘录：Skip to main content +91 9821558696 info@mro-tek.com Partner Registration BSE/NSE: MROTEK About Products Solutions Engineering Careers we are hiring Search Dark Enquiry Company About MRO‑TEK Board of Directors Leadership Team Partners Business Partners R&D Collaboration Investors Investors Policies Media & Events News & Press Events Awards and Recognitions Routers Enterprise Router SD-WAN Router Secure Router Media C
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 44、PoE 145 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1031.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -104,6 +105,22 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X
 - **邮件切入句（英文）**：Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fibotelecom.ru/　语言：ru　站点地图 URL 数：4706
+- **标题**：Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене в интернет-магазине с доставкой по РФ
+- **描述**：Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене с доставкой по России. Компания FIBO предлагает заказать информационно-телекоммуникационное оборудование, сетевое периферийное, кабель, серверное, поставки с производства патч-кордов по низкой стоимости от интернет-магазина
+- **首页栏目**：Экспертная помощь перед покупкой / Полезная информация / Поддержка всегда рядом / Это интересно
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 79、10g 39、industrial 6、telecom 6、ethernet 3、poe 2、2.5g 1、cisco 1
+- **站内出现的品牌**：Cisco, Juniper, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP28, QSFP28, QSFP56, BX20-D-I, FT-DA-17B-LU-A, FT-ODCM-40, FT-S10-D3480LD, FT-S10-D5780LD, MN-AT-MF05LU, MN-PC-LU-LU-SMD3L, MN-PC-LU-LU-SMS3L
+- **站内公开邮箱**：info@fibotelecom.ru
+- **产品类页面**：https://fibotelecom.ru/catalog；https://fibotelecom.ru/catalog/sovmestimye_transivery；https://fibotelecom.ru/catalog/sovmestimye_transivery/100g_200g_400g_transivery；https://fibotelecom.ru/catalog/sovmestimye_transivery/25g_40g_50g_transivery；https://fibotelecom.ru/catalog/sovmestimye_transivery/10g_16g_32g_transivery；https://fibotelecom.ru/catalog/sovmestimye_transivery/sfp_transivery
+- **已抓子页**：[Купить SFP модуль 10G и трансивер SFP 10G по выгодной цене с](https://fibotelecom.ru/catalog/sovmestimye_transivery/industrial_transivery)；[Контакты](https://fibotelecom.ru/for-clients/contacts)；[О нас](https://fibotelecom.ru/company/about)；[Передача 10G на 120 км по одному волокну - FIBO](https://fibotelecom.ru/solutions/dwdm-120-10g-1-fiber)；[Каталоги PDF](https://fibotelecom.ru/fibo-catalog)；[Коммутаторы](https://fibotelecom.ru/catalog/kommutatory)
+- 首页正文摘录：Каталог $ ₽ 8 (812) 509-67-89 Покупателям Оплата Статьи Сервис Гарантия Доставка О компании О нас Вакансии Новости Решения Контакты Отгрузка заказа в день оплаты Склады в крупных городах России позволяют выстраивать эффективную логистику доставки товаров Подробнее DWDM проекты любой сложности и под любой бюджет Реализовали 560км со скоростью 200G Подробнее Совместимые трансиверы Активное оборудование Оборудование PON
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-088.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -25,6 +25,7 @@ last_contact: 2025-10-22
 p1: STC-2016GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -117,6 +118,21 @@ updated: 2026-10-21
 - **风险/边界**：UNIPOE 独家关系（冲突）；17 次推送 0 回复；俄语区非主攻区；Hikvision 分销商体量偏大
 - **Saga 对位结论**：P1 STC-2016GP（20% 档）——分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）
 - **邮件切入句（英文）**：Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://pulsar.kz/　语言：未标　站点地图 URL 数：446
+- **标题**：Оборудование для систем безопасности и видеонаблюдения
+- **描述**：Широкий выбор оборудования для систем безопасности и видеонаблюдения, обеспечивающего защиту объектов любой сложности. Качественные решения от ведущих брендов.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 539、hikvision 49、dahua 49、planet 35、mikrotik 35、tp-link 35、cisco 35
+- **站内出现的品牌**：Pulsar, ZKTeco, Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：almaty@pulsar.kz, info@pulsar.kz
+- **站内公开电话**：+7 (702) 000-61-17, +7 (708) 486-29-08
+- **产品类页面**：https://pulsar.kz/catalog/introskopy/；https://pulsar.kz/catalog/；https://pulsar.kz/catalog/pulty-upravleniya/；https://pulsar.kz/catalog/dorozhnye-blokiratory-1/；https://pulsar.kz/catalog/povorotnye-ptz-videokamery/；https://pulsar.kz/catalog/turnikety-3/turniket-ts1000-plus/
+- **已抓子页**：[Наши контакты / Pulsar Systems](https://pulsar.kz/contacts/)；[Доска магнитно-маркерная — купить в Казахстане, цены / Pulsa](https://pulsar.kz/catalog/zkteco/prochee_3/doska-magnitno-markernaya/)；[Стать партнером / Pulsar Systems](https://pulsar.kz/company/stat-partnerom/)；[Каталог оборудования для видеонаблюдения и безопасности в Ка](https://pulsar.kz/catalog/)；[2E — купить в Казахстане, цены / Pulsar Systems](https://pulsar.kz/catalog/2e/)；[TVT — купить в Казахстане, цены / Pulsar Systems](https://pulsar.kz/catalog/tvt/)
+- 首页正文摘录：NN Оборудование для систем безопасности и видеонаблюдения Главная Кабинет Корзина Избранные Сравнение Главная Кабинет Корзина Избранные Сравнение О компании Помощь г. Астана, пр. Бауыржана Момышулы, д. 2В, НП 16 info@pulsar.kz Поиск Войти Каталог товаров Hikvision Видеонаблюдение Домофония Досмотровое оборудование Zkteco Видеонаблюдение Досмотровое оборудование Комплектующие Accordtec Комплектующие Armatura Системы к
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 539、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-104.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

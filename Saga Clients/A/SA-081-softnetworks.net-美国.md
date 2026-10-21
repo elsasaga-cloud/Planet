@@ -24,6 +24,7 @@ last_contact: 2025-10-01
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -102,6 +103,23 @@ updated: 2026-10-21
 - **风险/边界**：翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://softnetworks.net/　语言：en-US　站点地图 URL 数：46
+- **标题**：Softnetworks IT Hardware repair services and sales for Chromebook & Apple
+- **描述**：Softnetworks provides expert IT hardware repair, services and sales for Chromebook, and Apple device services with reliable support for schools and businesses.
+- **首页栏目**："WHAT WE DO BEST" / SOFTNETWORKS / Chromebook, Laptop and Apple Repair Service / Networking Hardware Solutions / What we do Best / Expanding Our Expertise / FAQs / Do you do your repairs in-house, or send them out to be repaired?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 9、cisco 8、switch 6、poe 3、sfp 3、industrial 1、fiber 1、camera 1
+- **站内出现的品牌**：Cisco, Aruba, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ASR1000, ASR2000, PWR-C1, PWR-C2, PWR-C4, PWR-C5, PWR-C6, WS-CAC-4000W, PWR-C45-4200ACV
+- **站内公开邮箱**：info@softnetworks.net
+- **站内公开电话**：+1 201-636-7188, +1-201-636-7188
+- **产品类页面**：https://softnetworks.net/unlocking-value-with-used-refurbished-cisco-c9200-and-c9300-series-switches/
+- **已抓子页**：[About Softnetworks.net - Softnetworks specializes in IT hard](https://softnetworks.net/about-us/)；[Contact Us - Softnetworks specializes in IT hardware repair ](https://softnetworks.net/contact-us/)；[Network Hardware - Softnetworks specializes in IT hardware r](https://softnetworks.net/hardware/network-hardware/)；[Buy Used Cisco Hardware / Refurbished Network Hardware](https://softnetworks.net/accessories/networking-hardware-accessories/)；[Repair Services - Softnetworks specializes in IT hardware re](https://softnetworks.net/repair-services/)；[Pay Needed Repair Services - Softnetworks specializes in IT ](https://softnetworks.net/repair-services/pay-needed-repair-services/)
+- 首页正文摘录：20 Troy Rd., STE4 Whippany, NJ 07981 United States +1-201-636-7188 ☰ OUR SERVICES + Repair Services White Glove Service with Google EDU licensing HARDWARE + Computer Hardware Networking Hardware ACCESSORIES + Chromebook Accessories Chromebook Cases Chromebook Chargers Chromebook Charging Cart Apple Accessories Apple Cases Apple Chargers Networking Hardware Accessories Bell to Bell Phone Pouch BLOGS CONTACT US + Buy o
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 3 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-081.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

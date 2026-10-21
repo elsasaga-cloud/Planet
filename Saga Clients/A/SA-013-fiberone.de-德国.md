@@ -24,6 +24,7 @@ last_contact: 2025-05-29
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -123,6 +124,20 @@ updated: 2026-10-21
 - **风险/边界**：运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明；自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货
 - **邮件切入句（英文）**：For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fiberone.de/　语言：de　站点地图 URL 数：49
+- **标题**：Internetanbieter Rhein-Main â Glasfaser bis 10 Gbit/s / fiberONE
+- **描述**：Internetanbieter Rhein-Main: Glasfaser symmetrisch bis 10 Gbit/s, unter 1 ms zum DE-CIX, keine Drosselung. Ab 30 â¬/Monat inkl. MwSt. bei 24 Monaten Laufzeit.
+- **首页栏目**：Home Speed Home Â® Lichtgeschwindigkeit, wo du zu Hause bist. / Kein geteiltes Kupfer. Deine eigene Faser. / Symmetrisch in beide Richtungen / Keine Drosselung, kein Limit / Licht statt Strom / Dein eigener Laser. Deine eigene Leitung. / Upload und Download im direkten Vergleich / NÃ¤her am Internet geht nicht.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 59、ftth 5、10g 4、ethernet 1、gigabit 1、2.5g 1、wifi 1、ubiquiti 1
+- **站内出现的品牌**：Bosch　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PIB-1G-24, PIB-5G-24, PIB-2, PIB-10G-24
+- **站内公开邮箱**：datenschutz@fiberone.de, dne4@fiberone.de, info@fiberone.de
+- **已抓子页**：[Produktinformationsblatt â fiberONE 1G â 24 Monate](https://fiberone.de/dokumente/produktinformationsblaetter/pib-fiberone-1g-24m.html)；[Produktinformationsblatt â fiberONE 5G â 24 Monate](https://fiberone.de/dokumente/produktinformationsblaetter/pib-fiberone-5g-24m.html)；[Produktinformationsblatt â fiberONE 2,5G â 24 Monate](https://fiberone.de/dokumente/produktinformationsblaetter/pib-fiberone-25g-24m.html)；[Produktinformationsblatt â fiberONE 10G â 24 Monate](https://fiberone.de/dokumente/produktinformationsblaetter/pib-fiberone-10g-24m.html)；[Kontakt â fiberONE / Beratung, Wohnungswirtschaft & GeschÃ](https://fiberone.de/kontakt/)
+- 首页正文摘录：fiber ONE Tarife Wohnungswirtschaft GeschÃ¤ftskunden Support Shop DE EN ä¸­æ VerfÃ¼gbarkeit prÃ¼fen â° Glasfaser Home Speed Home Â® Lichtgeschwindigkeit, wo du zu Hause bist. Glasfaser-Internet bis 10 Gbit/s â deine eigene Faser, dein eigener Anschluss Maustaste gedrückt halten — und die Photonen in den Warp schicken In Frankfurt steht einer der grÃ¶Ãten Internetknoten der Welt â wir legen ihn dir bis vor den
+- 数据文件：`data/saga_clients/site_snapshots/SA-013.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

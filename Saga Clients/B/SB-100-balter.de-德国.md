@@ -22,6 +22,7 @@ last_contact: 2025-10-14
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -31,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：德国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：UTEPO的 也有洪瑞的poE 自己的logo；提到的品牌：洪瑞
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-28 → 2025-10-14）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 10、监控 7 → 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-100.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.balter.de/　语言：de-de　站点地图 URL 数：0
+- **标题**：Balter.de
+- **描述**：Professionelle Videoüberwachungs-Produkte, Video-Türsprechanlagen und Alarmanlagen.
+- **首页栏目**：Balter-BK-1-ST-G-P / Balter-BK-1-ST-G / Balter-BK-1-ST-O / Balter-BK-1-DU / Balter-BK-1-AP
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 10、gigabit 10、switch 8、wifi 8、nvr 5、ethernet 3、cctv 2、sfp 1、fiber 1、axis 1
+- **站内出现的品牌**：Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, NTI-P3000IR, NTI-P6000IR, NTI-P12000IR, AWG27, NTI-D2014IR, NTI-D3012IR, NTI-D4014IR, NTI-D2014MIR, NTI-D4014MIR, NTI-ST4104IR-PTZ-WIFI, NTI-D8014MIR
+- **站内公开邮箱**：anmeldung@balter.net, info@balter.de, orders@balter.de, sales@balter.de, support@balter.de
+- **站内公开电话**：+49 (0) 211 22975927, +49 211 - 229 75 921, +49 211 - 229 75 924, +49 211 - 229 75 927, +49 211 - 550 44 737
+- **社媒**：https://twitter.com/Balter_GmbH, https://www.instagram.com/balter_gmbh/, https://www.youtube.com/channel/UCw_8poOyVQk-TM00gLFRTsA
+- **已抓子页**：[Kontaktieren Sie uns - Balter.de](https://www.balter.de/contact-us)；[Balter.de](https://www.balter.de/catalogsandbrochures)；[Videoüberwachung - Balter.de](https://www.balter.de/18-videoueberwachung)；[Überwachungskits - Balter.de](https://www.balter.de/95-ueberwachungskits)；[Videoüberwachung - Balter.de](https://www.balter.de/111-videoueberwachung)；[Balter.de](https://www.balter.de/partners)
+- 首页正文摘录：Suche Login Produkte Videoüberwachung IP Systeme IP X Systeme Analog HD Systeme Monitore Kabel und Stecker Stromversorgung Zubehör Restposten Video-Türsprechanlagen EVO - 2-Draht-BUS EVO HD - IP 2-Draht-BUS EVO HD PRO - IP 2-Draht-BUS ERA - IP 2-Draht-BUS ENTRI - IP 2-Draht-BUS EVIDA - 2-Draht-BUS Briefkastensysteme Stromversorgung Alarmsysteme Shepherd Alarm System Alarmzentralen Bedienelemente Melder Sirenen IP Kam
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 10、监控 7 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-100.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,7 +131,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 10、监控 7 → 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -159,7 +177,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

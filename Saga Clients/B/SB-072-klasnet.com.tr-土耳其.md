@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STC-28GPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -85,6 +86,19 @@ updated: 2026-10-21
 - **风险/边界**：年轻公司、资金有限；土耳其分销需本地库存；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
 - **邮件切入句（英文）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://klasnet.com.tr/　语言：tr　站点地图 URL 数：10
+- **标题**：Klasnet – Fiber Optik Kablolama Kamera Network Güvenlik
+- **首页栏目**：Fiber Optik Kablolama Kamera Network Güvenlik / Anasayfa / Klasnet İletişim ve Güvenlik / Yılı Aşkın Sektör Tecrübesi / Fiber Optik Kablolama / Fiber Optik Sonlandırma / Kamera Güvenlik Sistemleri / Elektrik Zayıf Akım işleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 53、cctv 6
+- **站内公开邮箱**：info@klasnet.com.tr
+- **站内公开电话**：+90 224 443 55 27, +90 501 333 55 27 7, +90 546 546 37 43
+- **社媒**：https://twitter.com/, https://www.facebook.com/, https://www.instagram.com, https://www.linkedin.com/
+- **已抓子页**：[Hakkımızda – Klasnet](https://klasnet.com.tr/hakkimizda/)；[İletişim – Klasnet](https://klasnet.com.tr/iletisim/)；[Fiber Optik Kablolama – Klasnet](https://klasnet.com.tr/fiber-optik-kablolama/)；[Fiber Optik Sonlandırma – Klasnet](https://klasnet.com.tr/fiber-optik-sonlandirma/)；[Kamera Güvenlik Sistemleri – Klasnet](https://klasnet.com.tr/kamera-guvenlik-sistemleri/)
+- 首页正文摘录：info@klasnet.com.tr +90 224 443 55 27 Fiber Optik Kablolama Kamera Network Güvenlik Toggle menu Anasayfa Hakkımızda Vizyonumuz Misyonumuz HİZMETLERİMİZ Fiber Optik Kablolama Fiber Optik Sonlandırma Kamera Güvenlik Sistemleri Elektrik Zayıf Akım İşleri İletişim KLASNET İLETİŞİM VE GÜVENLİK Profesyonel Fiber Optik Kablolama İLETİŞİM KLASNET İLETİŞİM VE GÜVENLİK Kamera Güvenlik Sistemleri İLETİŞİM Anasayfa HAKKIMIZDA Kl
+- 数据文件：`data/saga_clients/site_snapshots/SB-072.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

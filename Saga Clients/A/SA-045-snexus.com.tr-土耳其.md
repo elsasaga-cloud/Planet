@@ -24,6 +24,7 @@ last_contact: 2025-10-23
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -125,6 +126,22 @@ updated: 2026-10-21
 - **风险/边界**：价格极敏感、要免费样品；自有白牌来源多（华南公版）→ 以 Marvell 平台稳定性 + 2 年保修配套切入，不卷底价；土耳其进口税；USD 结算 OK（官网本身 USD 标价）
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——其 SN-GS2300-10FP（8 PoE + 2 SFP 管理，$400 零售）对位 STC-28DGGPM（EXW $87 @30%）；24 口 SN-GS1300-26FP 对位 STC-424DGGPM-280W；工业 ISN-GS 对位 STI-144GP/288DGGPM；贴 Snexus 标 30% 档
 - **邮件切入句（英文）**：Your SN-GS2300-10FP retails at 400 dollars, and the Marvell-based 8-port PoE+ managed unit with 2 SFP that fits that slot lands well under a quarter of that at EXW in Snexus packing, so I am quoting it together with the 24-port 26FP equivalent.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.snexus.com.tr/　语言：tr　站点地图 URL 数：51
+- **标题**：Poe / Snexus Networks / İstanbul
+- **描述**：Snexus Networks her ölçekteki işletmenin network ihtiyaçlarına yönelik çözüm üretme amacıyla geliştirilmiş bir ağ teknolojileri markasıdır.
+- **首页栏目**：Kurumsal / Marka / Kariyer / İletişim / Başvurular Dağıtıcı Partner E-Tahsilat / Kaynaklar Datasheet Şartnameler Ürün Listesi / Satış Noktaları Dağıtıcı Partner Online / Destek Teknik Blog & Hikayeler Garanti
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：gigabit 21、switch 15、poe 15、fiber 7、10g 7、sfp 4
+- **站内型号串**（正则抽取，含非交换机）：SN-ES1300-10P, ISN-GS1300-6FP, ISN-GS1300-10FP, ISN-GS2300-6FP, ISN-GS2300-10FP, ISN-P120-48V, ISN-P240-48V, SN-GS1300-8SFP, SN-GS2300-18SFP, SN-GS2300-24SFP, SN-XGS5300-28SFP, SN-GS2300-10F
+- **站内公开邮箱**：0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, 271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com, 460ff4620fa44cba8df530afde949785@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
+- **社媒**：https://www.facebook.com/Snexus-Networks-105952198261807, https://www.instagram.com/p/C3FFVdHKRIA/?utm_source=ig_web_copy_link, https://www.linkedin.com/company/snexusnetworks, https://www.youtube.com/channel/UCgpVv1nZ-TCrJ82ePQRq8dw
+- **产品类页面**：https://www.snexus.com.tr/post/managed-or-unmanaged-switch；https://www.snexus.com.tr/post/poe-switch-seçenekleri-ile-verimli-ağlar；https://www.snexus.com.tr/post/sn-gs2300-switch-fiyatları-sn-gs2300-28f-fiyat-karşılaştırması-ve-detaylar；https://www.snexus.com.tr/post/poe-switch-seçenekleri-poe-switch-modelleri-ve-kullanım-alanları；https://www.snexus.com.tr/post/sn-gs2300-28f-switch-özellikleri-fiyat-ve-teknik-detaylar；https://www.snexus.com.tr/post/snexus-ağ-çözümleri-türkiye-ürün-ve-hizmetleri
+- **已抓子页**：[Endüstriyel Switchler / SNEXUS NETWORKS](https://www.snexus.com.tr/endustriyel-switchler)；[Fiber Omurga Switchler / Snexus Networks / Türkiye](https://www.snexus.com.tr/fiber-omurga-switchler)；[Buy SN-GS2300 Series Switches - sn-gs2300-28f fiyat / Snexus](https://www.snexus.com.tr/managedgigabitpoe)；[Tak & Çalıştır Megabit PoE Serisi / SNEXUS NETWORKS](https://www.snexus.com.tr/megabitunmanagepoe)；[Tak & Çalıştır Gigabit PoE+ Switch Modelleri / Snexus Networ](https://www.snexus.com.tr/gigabitunmanagepoe)；[Snexus Networks Türkiye / İleri Teknoloji Ağ Çözümleri ve Ür](https://www.snexus.com.tr/marka)
+- 首页正文摘录：top of page Ü R Ü N L E R Tak & Çalıştır Megabit PoE Serisi Tak & Çalıştır Gigabit PoE Serisi Tak & Çalıştır Gigabit Serisi Yönetilebilir Gigabit Serisi Yönetilebilir 10G Serisi Fiber Omurga Switchler Endüstriyel Switchler Modül & Aksesuarlar P R O J E L E R İ L E T İ Ş İ M More Use tab to navigate through the menu items. Login Güçlü ve güvenilir bir marka olarak, Poe switch'lerimizle iletişimdeki kesintisizliği sağl
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 7、交换机 15 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-045.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,6 +22,7 @@ last_contact: 2025-10-18
 p1: STC-448XGGM(L3)
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-18 → 2025-10-18）
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-026.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://citicalls.com/　语言：en　站点地图 URL 数：21
+- **标题**：citiCalls – citiCALLS
+- **描述**：Your VoIP Specialist. Home to name brands Atcom Avaya Cisco EMetrotel Fanvil Grandstream OpenVox Panasonic Yealink Yeastar.Name it, we've got it!
+- **首页栏目**：citiCALLS / Menu / Cart (0) / The Latest and Greatest / Kitchen Appliances / Popular Product Categories / Massagers & Shower Heads / Coffee & Tea Makers
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 402、wireless 98、switch 96、camera 57、fiber 30、surveillance 28、ethernet 21、media converter 14、telecom 14、poe 13、gigabit 9、sfp 6
+- **站内出现的品牌**：Cisco, Cambium, Grandstream　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：YEA-VCR11, YEA-UVC8X-MOUNT-KITS, YEA-AP08, CP700, YEA-PSU-PD65W-USBC, YEA-ROOMPANEL-PLUS-E2, YEA-WMB-T46, USB2CAT5E-EXT, KV0004A-R2, SW-005, SW-108, MX-EX2028PXA-U
+- **站内公开邮箱**：returns@citicalls.com, sales@citicalls.com
+- **站内公开电话**：+1 626 240 0785
+- **社媒**：https://twitter.com/share?text=Yealink YEA-AP08 1303097 Dante Digital Signal Processor&url=https://citicalls.com/products/yealink-yea-ap08-1303097-dante-digital-signal-processor, https://twitter.com/share?text=Yealink YEA-UVC8X-MOUNT-KITS 330100059001 UVC8X Mount Kit&url=https://citicalls.com/products/yealink-yea-uvc8x-mount-kits-330100059001-uvc8x-mount-kit, https://twitter.com/share?text=Yealink YEA-VCR11 1303081 Remote For MB A10/A20/A30/A40&url=https://citicalls.com/products/yealink-yea-vcr11-1303081-remote-for-mb-a10-a20-a30-a40, https://www.facebook.com/citicallss/, https://www.facebook.com/sharer.php?u=https://citicalls.com/products/yealink-yea-ap08-1303097-dante-digital-signal-processor, https://www.facebook.com/sharer.php?u=https://citicalls.com/products/yealink-yea-uvc8x-mount-kits-330100059001-uvc8x-mount-kit
+- **产品类页面**：https://citicalls.com/sitemap_products_1.xml?from=9083620196655&amp;to=9420441289007；https://citicalls.com/sitemap_products_2.xml?from=9420441387311&amp;to=10024559640879；https://citicalls.com/sitemap_products_3.xml?from=10024560918831&amp;to=10088750383407；https://citicalls.com/sitemap_products_4.xml?from=10088753135919&amp;to=10214654443823；https://citicalls.com/sitemap_products_5.xml?from=10214654738735&amp;to=10317595607343；https://citicalls.com/sitemap_products_6.xml?from=10317595640111&amp;to=10358267937071
+- **已抓子页**：[Network Switches – citiCALLS](https://citicalls.com/collections/network-switches)；[KVM Switches – citiCALLS](https://citicalls.com/collections/kvm-switches)；[Conference & TelePresence Systems – citiCALLS](https://citicalls.com/collections/telepresence-systems)；[Yealink YEA-VCR11 1303081 Remote For MB A10/A20/A30/A40 – ci](https://citicalls.com/products/yealink-yea-vcr11-1303081-remote-for-mb-a10-a20-a30-a40)；[Yealink YEA-AP08 1303097 Dante Digital Signal Processor – ci](https://citicalls.com/products/yealink-yea-ap08-1303097-dante-digital-signal-processor)；[Yealink YEA-UVC8X-MOUNT-KITS 330100059001 UVC8X Mount Kit – ](https://citicalls.com/products/yealink-yea-uvc8x-mount-kits-330100059001-uvc8x-mount-kit)
+- 首页正文摘录：Skip to content FREE SHIPPING for all order over $50 Contact us +1 626 240 0785 sales@citicalls.com citiCALLS Search... All Categories AC Adapter Accessories Adapter Adapter Bracket Adapter Cable Adapter Kit Adapter Plate Air Purifier Alert System Analog Card Analog Cards Analog Gateways Analog Joystick Cap Audio Adapter Audio Cable Audio Video Cables Backpack Backplate Bag Barcode Scanner Barcode Stand Barcoding Bas
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 13、监控 85 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-026.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

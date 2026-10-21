@@ -22,6 +22,7 @@ last_contact: 2025-10-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2024-05-13 → 2025-10-16）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1022.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.techlu.it/　语言：it-IT　站点地图 URL 数：411
+- **标题**：Techlu di Ct Service di Cerino Gianluca
+- **描述**：Antifurto & Allarmi Automazione Kit Videosorveglianza Networking Utensili Videocitofoni Videosorveglianza Catalogo Ajax I nostri Ultimi Articoli I nostri prodotti più venduti
+- **首页栏目**：Antifurto & Allarmi / Automazione / Kit Videosorveglianza / Networking / Utensili / Videocitofoni / Videosorveglianza / Catalogo Ajax
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 117、switch 93、gigabit 24、industrial 18、telecom 14、dahua 10、nvr 8、uniview 8、sfp 7、wireless 6、2.5g 4、ethernet 3
+- **站内出现的品牌**：Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SF-SWI1008HIPOE-GF-AC-130-DIN, RG-POE-50-60W-MG, IT01771320700, SF-NVR6116-B2, SWI1008HIPOE, POEXT-4FE-DIN, SF-SW8FE4GE2MGSFP-2BT-120W, SW0604POE-G-65-E, RG-ES205GC-P, SF110P-IMOU, SF-SW0704HIPOE-GMF-65, SF-SW1008HIPOE-H-120
+- **站内公开电话**：+39 340 756 2053
+- **社媒**：https://wa.me/393407562053
+- **产品类页面**：https://www.techlu.it/prodotto/cavo-utp-5e-305-outdoor/；https://www.techlu.it/prodotto/balun-bnc-ba610-hac/；https://www.techlu.it/prodotto/telecamera-hd-bullet-4in1-uniview-uv-uac-b125-af28lm-b/；https://www.techlu.it/prodotto/telecamera-bullet-4in1-hd-safire-smart-sf-b080sa-2e1/；https://www.techlu.it/prodotto/telecamera-smart-wifi-6-da-interno-imou-cue-2-3mp/；https://www.techlu.it/prodotto/poe-split-30w/
+- **已抓子页**：[Switch Industriale Hi‑PoE - SF-SWI1008HIPOE-GF-AC-130-DIN - ](https://www.techlu.it/prodotto/switch-industriale-hi-poe-sf-swi1008hipoe-gf-ac-130-din/)；[Switch Archivi - Techlu](https://www.techlu.it/categoria-prodotto/networking/switch/)；[Iniettore PoE Multi‑Gigabit - RG-POE-50-60W-MG - Techlu](https://www.techlu.it/prodotto/iniettore-poe-multi-gigabit-rg-poe-50-60w-mg/)；[Switch Archivi - Techlu](https://www.techlu.it/categoria-prodotto/videosorveglianza/accessori-tvcc/switch-accessori-tvcc/)；[No brand Archivi - Techlu](https://www.techlu.it/categoria-prodotto/no-brand/)；[Networking Archivi - Techlu](https://www.techlu.it/categoria-prodotto/networking/)
+- 首页正文摘录：Skip to navigation Skip to content Carrello Ordina entro le ore 12:00 per la spedizione in giornata Chiama ora al +39 340 756 2053 MENU Cerca: Cerca Account Assistenza clienti Checkout Contattaci ora ! 0,00 € 0 Home Chi siamo Shop Assistenza clienti Categorie Antifurto e allarmi Accessori Allarmi Alimentazione Batterie Allarmi Ajax Allarmi Duevi Centrali allarme Contatti magnetici Filari Kit Allarmi completi Rilevato
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 18、PoE 117 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1022.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

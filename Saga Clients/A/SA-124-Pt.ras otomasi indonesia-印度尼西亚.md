@@ -24,6 +24,7 @@ last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -105,6 +106,19 @@ updated: 2026-10-21
 - **风险/边界**：免费邮箱；印尼认证由进口方；码头/环境监测部分可能是公共项目（守界）
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档
 - **邮件切入句（英文）**：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ras-otomasi.id/　语言：id　站点地图 URL 数：0
+- **标题**：PT. RAS Otomasi Indonesia - Solusi Otomasi Industri & MEP Terdepan
+- **描述**：PT. RAS Otomasi Indonesia menyediakan solusi otomasi industri, MEP, infrastruktur IT/Telco, security system, dan sistem integrasi untuk meningkatkan efisiensi bisnis Anda.
+- **首页栏目**：Solusi Otomasi Industri & MEP Terintegrasi / 5+ / 50+ / 98% / Klien Kami / Tentang PT. RAS Otomasi Indonesia / Visi & Misi / Layanan Kami
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 5、scada 3、fiber 1、cctv 1、access control 1
+- **站内公开邮箱**：info@ras-otomasi.id
+- **站内公开电话**：+62 21 2784-6419, +62 21 5081-2002
+- 首页正文摘录：Home Klien Tentang Kami Layanan Produk Proyek Kontak Konsultasi Gratis Solusi Otomasi Industri & MEP Terintegrasi PT. RAS Otomasi Indonesia menyediakan solusi terintegrasi untuk otomasi industri, MEP, infrastruktur IT/Telco, security system, dan sistem pengolahan air. Konsultasi Gratis Layanan Kami 5+ Tahun Pengalaman 50+ Proyek Diselesaikan 98% Kepuasan Klien Klien Kami Kami telah dipercaya oleh berbagai perusahaan 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 8、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-124.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

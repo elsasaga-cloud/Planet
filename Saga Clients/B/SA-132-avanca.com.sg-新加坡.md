@@ -25,6 +25,7 @@ last_contact: 2024-10-17
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -78,6 +79,22 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。
 - 备注：重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://avanca.com.sg/　语言：未标　站点地图 URL 数：43
+- **标题**：Industrial 4G/5G Routers Modems Singapore - Avanca Technologies
+- **描述**：Industrial 4G/5G router and modems are used to provide better connectivity, higher bandwidth, and faster network responsiveness. Call us for industrial grade modem and router in Singapore.
+- **首页栏目**：Industrial 5G Router / R5020 / R5020 Lite / Smart Industrial 4G Modem / M1200 / Industrial 4G Router / R2010 / R3000 Lite
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 130、ethernet 67、switch 56、media converter 38、fiber 23、wireless 13、gigabit 11、automation 10、data center 7、sfp 5、wifi 3、poe 2
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS-232, RS-485, NT24K
+- **站内公开电话**：+65 6242 5108
+- **产品类页面**：https://avanca.com.sg/products/；https://avanca.com.sg/products/device-networking/；https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/；https://avanca.com.sg/products/it-management/；https://avanca.com.sg/products/device-networking/embedded-device-networking/；https://avanca.com.sg/products/it-management/print-servers/
+- **已抓子页**：[Industrial Ethernet Switches & Media Converters - Avanca Tec](https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/)；[Industrial Managed Ethernet Switches - PoE Switch / Avanca T](https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/managed-switches/)；[Fiber Optic Media Converters - Avanca Technologies](https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/media-converters/)；[Industrial Unmanaged Ethernet Switches - Avanca Technologies](https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/unmanaged-switches/)；[4G LTE Dual Sim Card Slot M2M VPN Router](https://avanca.com.sg/products/industrial-wireless-m2m/)；[RCMS - Avanca Technologies](https://avanca.com.sg/products/industrial-wireless-m2m/rcms/)
+- 首页正文摘录：Allied Solutions Search for: Home About Us Company Avanca Technologies Pte Ltd Our Parent Company Allied Solutions Pte Ltd Knowledge & Expertise Our Voices Our Partners Career Products Device Networking External Device Networking Embedded Device Networking IT Management IT / Data Center Management KVM-over-IP Print Servers Audio Over IP Automation Industrial Ethernet Switches & Media Converters Industrial Unmanaged E
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 135、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-132.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

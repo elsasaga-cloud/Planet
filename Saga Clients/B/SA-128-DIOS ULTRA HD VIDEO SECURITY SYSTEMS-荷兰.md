@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: unreachable  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2024-05-10 → 2025-10-06）；最近一次客户回复：2025-03-05：price
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -107,6 +108,15 @@ updated: 2026-10-21
 - **风险/边界**：微型公司（2–5 人），单量小；网站近年更新少
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）
 - **邮件切入句（英文）**：Since you import directly for your 4K installs, the 8-port PoE+ managed switch at $84.1 EXW with 30 W on every port covers the multi-sensor heads; shall I quote a mixed carton of 8- and 24-port units?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：dios-industries.com
+  > https://dios-industries.com/ conn: HTTPSConnectionPool(host='dios-industries.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionErro
+  > https://www.dios-industries.com/ conn: HTTPSConnectionPool(host='www.dios-industries.com', port=443): Max retries exceeded with url: / (Caused by NewConnection
+  > http://dios-industries.com/ conn: HTTPConnectionPool(host='dios-industries.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SA-128.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -208,6 +218,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

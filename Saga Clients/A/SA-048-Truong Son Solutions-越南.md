@@ -24,6 +24,7 @@ last_contact: 2025-12-15
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 6
 updated: 2026-10-21
 ```
@@ -106,6 +107,22 @@ updated: 2026-10-21
 - **风险/边界**：ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://truongsonsolutions.vn/　语言：vi　站点地图 URL 数：266
+- **标题**：Trường Sơn Solutions - Công Ty Tnhh Giải Pháp Và Xây Lắp Trường Sơn
+- **描述**：Trường Sơn Solutions cung cấp giải pháp camera đặc chủng và hạ tầng mạng Non-China
+- **首页栏目**：Truong Son Solutions – Công Ty TNHH Giải Pháp Và Xây Lắp Trường Sơn / Thiết Bị Giám Sát Và Hạ Tầng Mạng Chuyên Dụng / Giải Pháp Bảo Mật Hạ Tầng Cao / Liên Hệ Tư Vấn & Báo Giá / CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠN / Khách hàng & Đối tác / Tin tức & Sự kiện mới nhất / Lựa Chọn Và Bố Trí Switch Cho Hệ Thống Camera Dự Án Nhà Nước
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 197、camera 89、poe 87、industrial 7、sfp 3、fiber 3、ethernet 1、10g 1、nvr 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：GTW-I08M4, GTW-D08M2, IK-B7A8111FC-B, IK-B8846FW-B, IK-B4872FR-T-PZ, GTW-I04U0, GTW-I08H2, IK-B4872FR-ST-PZ, GTW-I04M2, GTW-I08L4, GTW-D16M2, GTW-D08L4
+- **站内公开邮箱**：%20info@truongsonsolutions.com, info@truongsonsolutions.com
+- **社媒**：https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-din-rail%2F, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-managed%2F, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-cong-nghiep-ngoai-troi-chiu-nhiet%2F, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-du-an-dau-tu-cong%2F, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruongsonsolutions.vn%2Fswitch-he-thong-camera-du-an%2F, https://www.facebook.com/truongsonsolutionsofficial
+- **产品类页面**：https://truongsonsolutions.vn/switch-du-an-dau-tu-cong/；https://truongsonsolutions.vn/switch-he-thong-camera-du-an/；https://truongsonsolutions.vn/switch-cong-nghiep-managed/；https://truongsonsolutions.vn/switch-cong-nghiep-ngoai-troi-chiu-nhiet/；https://truongsonsolutions.vn/switch-cong-nghiep-din-rail/；https://truongsonsolutions.vn/cach-chon-switch-cong-nghiep-gtwave/
+- **已抓子页**：[Switch cho hệ thống camera dự án: Cách SI lựa chọn - Trường ](https://truongsonsolutions.vn/switch-he-thong-camera-du-an/)；[Switch dự án đầu tư công: Checklist kỹ thuật và hồ sơ - Trườ](https://truongsonsolutions.vn/switch-du-an-dau-tu-cong/)；[Switch công nghiệp managed: khi nào cần quản lý web và những](https://truongsonsolutions.vn/switch-cong-nghiep-managed/)；[Switch DIN rail công nghiệp: chọn đúng model GTWave - Trường](https://truongsonsolutions.vn/switch-cong-nghiep-din-rail/)；[Switch công nghiệp ngoài trời cho camera: chịu nhiệt, chống ](https://truongsonsolutions.vn/switch-cong-nghiep-ngoai-troi-chiu-nhiet/)
+- 首页正文摘录：Trang chủ Về chúng tôi Giải pháp Sản phẩm Tin tức Liên hệ Email: info@truongsonsolutions.com Truong Son Solutions – Công Ty TNHH Giải Pháp Và Xây Lắp Trường Sơn Trường Sơn Solutions là nhà cung cấp giải pháp camera đặc chủng & hạ tầng mạng chuyên dụng cho phân khúc dự án Enterprise và khối dự án công. Với nền tảng am hiểu quy trình thủ tục và năng lực pháp lý chính ngạch (CO/CQ, QCVN), chúng tôi cam kết mang đến giải
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 87 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-048.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

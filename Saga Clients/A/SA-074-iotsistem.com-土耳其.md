@@ -24,6 +24,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -118,6 +119,22 @@ updated: 2026-10-21
 - **风险/边界**：提及军工项目——守界，只供自动化/商用；网店询价制，决策人不明
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档
 - **邮件切入句（英文）**：Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://iotsistem.com/　语言：tr　站点地图 URL 数：40
+- **标题**：IoT Sistem / IoT Sistemleri Uzman Çözüm Ortağınız / Usr IoT Türkiye
+- **描述**：IoT Sistem otomasyon ürünleri ile uygun fiyatları ile IoT ürünleri satış ve pazarlamasını gerçekleştirmektedir. Usr iot Türkiye resmi distribütörü Bosgem.
+- **首页栏目**：Giriş Yap
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 253、switch 167、poe 117、wifi 63、sfp 4、fiber 2
+- **站内型号串**（正则抽取，含非交换机）：MLB-E4204-28-F, MLB-E4204-28-G-F, CDMA2000, E4202-10-GF, USR-GM3, USR-GPRS232-734, MLB-E4104-5-P-F, USR-TCP232-306, USR-BLE101, USR-TCP232-304, USR-G800-43, USR-G806
+- **站内公开邮箱**：info@iotsistem.com
+- **社媒**：https://www.facebook.com, https://www.instagram.com, https://www.twitter.com
+- **产品类页面**：https://www.iotsistem.com/product-categories/；https://www.iotsistem.com/products/；https://www.iotsistem.com/blocks/shop-header/；https://www.iotsistem.com/blocks/shop-category-slider/
+- **已抓子页**：[Yönetilemez PoE arşivleri / IOT Sistem Otomasyon Ürünleri](https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilemez-poe/)；[Yönetilebilir PoE arşivleri / IOT Sistem Otomasyon Ürünleri](https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-poe/)；[Poe Switch / Poe Ethernet Switch / Yönetilemez Poe Switch / ](https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilemez-poe/mlb-e4103-5-p/)；[Ethernet Poe Switch / Poe Switch / Yönetilemez Poe Switch / ](https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilemez-poe/mlb-e4104-5-p-f/)；[Ethernet Switch arşivleri / IOT Sistem Otomasyon Ürünleri](https://www.iotsistem.com/urun-kategori/ethernet-switch/)；[Yönetilemez Switch arşivleri / IOT Sistem Otomasyon Ürünleri](https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilemez-switch/)
+- 首页正文摘录：Skip to content Menu Hepsi Aksesuarlar Bluetooth Modülleri Canbus-Ethernet Endüstriyel Router Ethernet Switch M2M Serisi Modbus Ağ Geçidi Remote IO Seri Ethernet Seri Wifi Çevirici ZigBee Dünüştürücü Ara: MENU MENU Ürünler Aksesuarlar Aksesuar Bluetooth Modülleri Bluetooth Modülü Canbus-Ethernet Endüstriyel Router Ethernet Switch Ethernet Medya Çevirici Yönetilebilir PoE Yönetilebilir Switch Yönetilemez PoE Yönetilem
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 117、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-074.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

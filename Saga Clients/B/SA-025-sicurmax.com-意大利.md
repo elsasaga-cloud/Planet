@@ -25,6 +25,7 @@ last_contact: 2025-10-13
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -99,6 +100,20 @@ updated: 2026-10-21
 - **风险/边界**：守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档
 - **邮件切入句（英文）**：For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sicurmax.com/　语言：it　站点地图 URL 数：12
+- **标题**：Sistemi Antifurto Videosorveglianza e Antincendio a Bovolone, Verona / SicurMax
+- **描述**：Soluzioni su misura per la sicurezza di abitazioni, aziende e cantieri: impianti antifurto, videosorveglianza, controllo accessi e sistemi wireless. Affidati a Sicurmax, a Bovolone (VR), da oltre 30 anni nel settore sicurezza.
+- **首页栏目**：Sistemi di sicurezza civili e industriali a Verona / Specialisti in impianti antintrusione e videosorveglianza / +39 045 690 0922 / Sistemi di videosorveglianza e antifurto / Enti Pubblici / Privati ed Aziende - VEDI OFFERTE / Kit Antifurto Ponteggio e Cantieri / Noleggio antifurto
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 3
+- **站内型号串**（正则抽取，含非交换机）：VR233884
+- **站内公开邮箱**：info@sicurmax.com
+- **站内公开电话**：+39 045 690 0922
+- **社媒**：https://sicurmax.com/, https://sicurmax.com/azienda, https://sicurmax.com/categorie, https://sicurmax.com/contatti, https://sicurmax.com/kit-antifurto-ponteggio-a-bovolone-verona-sicurmax-32/soluzioni, https://sicurmax.com/news
+- 首页正文摘录：Home Azienda Soluzioni Enti Pubblici Privati ed Aziende - VEDI OFFERTE Kit Antifurto Ponteggio e Cantieri Noleggio antifurto Noleggio Piattaforme aeree autocarrate News Contatti Scrivici Sistemi di sicurezza civili e industriali a Verona Antifurti, videosorveglianza, controllo accessi e molto altro. Affidati a chi da oltre 30 anni protegge Verona e provincia. Preventivo Azienda Specialisti in impianti antintrusione e
+- 数据文件：`data/saga_clients/site_snapshots/SA-025.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

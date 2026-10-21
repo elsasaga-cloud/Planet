@@ -22,6 +22,7 @@ last_contact: 2025-10-20
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-010.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://spacetronik.pl/en/　语言：en　站点地图 URL 数：0
+- **标题**：Spacetronik.pl - Official Brand Store / Electronics & Technology.
+- **描述**：A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!
+- **首页栏目**：Popular categories / Next-generation workstation / Smart Smoke, Gas and Carbon Monoxide Sensor Set / 24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S / Spacetronik LAN PoE & Fiber Optic Tester / Beat the autumn blues! / Bringing offices to life for autumn! / News View all
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 134、switch 109、camera 20、fiber 15、wholesale 7、poe 5、sfp 4、wireless 4、industrial 3、ethernet 3、10g 2、2.5g 2
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SPU-E01, SPS-E27S, SPD-KVM23, SPH-KVM23, SPU-M21, SPH-M620, SPH-M24, SP-SGT124S, SP-LTD8, SPU-WM20, MS-0932CL, MS-0916PL
+- **站内公开邮箱**：store@spacetronik.eu
+- **站内公开电话**：+48 611 11 04 52
+- **已抓子页**：[LAN and GSM / Network devices / Switches / Spacetronik.pl - ](https://spacetronik.pl/en/navigation/lan-and-gsm/network-devices/switches-3388)；[Multiswitches / Satellite TV / Audio and Video](https://spacetronik.pl/en/menu/audio-and-video/satellite-tv/multiswitches-1594)；[KVM Switches / AV Converters / Audio and Video](https://spacetronik.pl/en/menu/audio-and-video/av-converters/kvm-switches-2671)；[USB Switches / Cables and Adapters / Audio and Video](https://spacetronik.pl/en/menu/audio-and-video/cables-and-adapters/usb-switches-9070)；[HDMI Matrix Switches / AV Transmission / Audio and Video](https://spacetronik.pl/en/menu/audio-and-video/av-transmission/hdmi-matrix-switches-2675)；[Endoscope Cameras / Workshop and Garage / Home and garden](https://spacetronik.pl/en/menu/home-and-garden/workshop-and-garage/endoscope-cameras-2778)
+- 首页正文摘录：Ergoline Smartline Log in 0 Shopping list 0 0,00 € See also Close Language pl de en cs sk Prices in zł (1 € = 4.2842zł) € Kč (1 € = 24.3144Kč) $ (1 € = 1.1337$) Country of collecting the order Austria Belgium Bułgaria Croatia Czechy Denmark Estonia Finland France Greece Italy Lithuania Łotwa Luksemburg Netherlands Niemcy Poland Portugal Republic of Ireland Rumunia Slovenia Słowacja Spain Sweden Węgry Ergoline Smartli
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 4、交换机 109 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-010.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

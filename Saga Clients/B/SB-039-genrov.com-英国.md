@@ -24,6 +24,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -90,6 +91,17 @@ updated: 2026-10-21
 - **风险/边界**：一人公司、项目型、无渠道属性；期望值低
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——项目终端 25% 档：STI-288DGGPM（宽温 DIN，8 GE + 2 SFP 光口上联）适配 ROV 甲板单元；非 PoE 位 STI-280DGGM
 - **邮件切入句（英文）**：For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://genrov.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Genrov Home
+- **首页栏目**：Genrov Ltd / ROV Technical Solutions
+- **站内公开邮箱**：info@genrov.com
+- **站内公开电话**：+44(0)191 5438953, +44(0)191 5438954, +44(0)7973123650
+- **已抓子页**：[Genrov Contact us](https://genrov.com/page1/page1.php)
+- 首页正文摘录：Genrov Ltd ROV Technical Solutions Home Contact Us Downloads Links Genrov Ltd are a UK based company who provide a range of services to the ROV industry. ROV Supervisor/Technicians Bespoke tooling System trouble shooting and audits On or offsite refurbishment and upgrades Technical support/reviews Detailed specifications On and offsite training Please contact us to discuss you requirements in detail. Genrov Ltd Conta
+- 数据文件：`data/saga_clients/site_snapshots/SB-039.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

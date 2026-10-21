@@ -24,6 +24,7 @@ last_contact: 2025-09-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -103,6 +104,22 @@ updated: 2026-10-21
 - **风险/边界**：TAA/NSA 认证型号不能由 Saga 供；只能进 Economy 线；Vitesse（Microchip）芯片口径 vs Saga Marvell——需说明兼容性；主线卖点 IEC 61850-3 / NSA / TAA / Railway——Saga 不承接；仅 Economy 位
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档
 - **邮件切入句（英文）**：For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dymec.com/　语言：en-US　站点地图 URL 数：60
+- **标题**：Industrial Ethernet Solutions / Secure Networks / Rugged Ethernet / Dymec
+- **描述**：Dymec sells rugged, temperature-hardened industrial ethernet products and networking equipment that can be utilized in a variety of industries.
+- **首页栏目**：Network Solutions / Industrial Ethernet Products That Provide Savings, Safety, and Security / DIN-Rail & Rack Layer 2 Industrial Ethernet Switches (36) / 3170® ITS Industrial Ethernet Switches (4) / DIN-Rail & Rack Layer 3 Industrial Ethernet Switches/Routers (28) / Rugged Performance for the Most Demanding Environments / Hardened / Flexibility
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 297、switch 228、poe 200、sfp 157、industrial 128、fiber 83、gigabit 68、10g 58、scada 36、automation 22、cable 22、media converter 20
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, EN50155, IEE802, IEC61850-3, ET-1600G-M12, KY-3170EM4, EN50121-4, GB4943, KY-1010EMD, KY-2189RG, KY-3028EMP, KY-3120DM
+- **站内公开邮箱**：sales@dymec.com
+- **社媒**：https://www.facebook.com/Dymec-388955778165019/, https://www.linkedin.com/company-beta/22297655/
+- **产品类页面**：https://www.dymec.com/recent-news/dymec-new-nsa-secure-switches-routers/；https://www.dymec.com/recent-news/dymec-is-moving-to-high-density-ethernet-harting-ix-industrial-ethernet-interface/；https://www.dymec.com/recent-news/evolution-of-industrial-ethernet-networks-layer-2-vs-layer-3/；https://www.dymec.com/recent-news/difference-between-industrial-and-enterprise-ethernet/；https://www.dymec.com/industries/industrial-scada/；https://www.dymec.com/shop/
+- **已抓子页**：[Economy Industrial Ethernet Switches by Dymec / PoE+, Layer ](https://www.dymec.com/product-catalog/economy-industrial-ethernet-switches/)；[EN50155 Industrial Ethernet Switches by Dymec](https://www.dymec.com/product-catalog/en50155-industrial-ethernet-switches/)；[3170 ITS Industrial Ethernet Switches / Ethernet for ITS Ind](https://www.dymec.com/product-catalog/3170-its-industrial-ethernet-switches/)；[Managed & Unmanaged Layer 2 Industrial Ethernet Switches / D](https://www.dymec.com/product-catalog/din-rail-rack-layer-2-industrial-ethernet-switches/)；[DIN Rail & Rack Layer 3 Managed Industrial Ethernet Switches](https://www.dymec.com/product-catalog/din-rail-rack-layer-3-industrial-ethernet-switches-routers/)；[SFP Industrial Ethernet Fiber Optic Modules with Diagnostics](https://www.dymec.com/product-catalog/sfp-industrial-ethernet-fiber-optic-modules-with-diagnostics/)
+- 首页正文摘录：Products TraffiClair AI Traffic Detection and Optimization System Economy Switches 3170® Industrial Ethernet Switches DIN-Rail & Rack Layer 2 Switches DIN-Rail & Rack Layer 3 Switches/Routers Un-managed MISC Products EN50155 Switches IEC61850-3 Layer 2 & Layer 3 Switches SFP Fiber Optic Modules Power Supplies DYMEC® Serial Links / Media Converters Optical Star Series for SCADA Installations Fiber Patch Cables System 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 169、PoE 200 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-068.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: 2025-10-16
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: none
 sources: 2
 updated: 2026-10-21
 ```

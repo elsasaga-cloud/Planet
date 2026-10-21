@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -85,6 +86,23 @@ updated: 2026-10-21
 - **风险/边界**：南亚非主攻区；印度 BIS 认证要求（交换机需 BIS/CRS）；无互动
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS
 - **邮件切入句（英文）**：Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://amitytechnologies.co.in/　语言：en-US　站点地图 URL 数：17
+- **标题**：Amity - Rugged Systems, Displays, Consoles, Manufacturer India
+- **描述**：Amity Technologies is leading manufacturer of Rugged Systems, Units, Computers, Displays, Servers, Ethernet Switches, Enclosures, Workstations, Consoles, Displays, Laptops, Tablets, Racks, and UPS.
+- **首页栏目**：Defence Electronics Company India / Take a Product With Purpose / Looking for reliable rugged systems? / Amity Technologies / Our Services / Latest 4U Rugged Server Hyderabad / Latest Posts from Blog / Rugged Display Manufacturers in India – Amity Technologies Leading the Way
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 35、switch 30、cable 25、industrial 9、10g 7、automation 3、sfp 1、gigabit 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：JSS55555, MIL-STD-810H, RS232, MIL-STD-461G, MIL-STD-810, DDR42666, STD-461F, RE101, CE101, RX-14, RX-15, RX-17
+- **站内公开电话**：+91 9866938833
+- **社媒**：https://www.facebook.com/profile.php?id=61573915896321, https://www.linkedin.com/company/amitytech/
+- **产品类页面**：https://amitytechnologies.co.in/products/；https://amitytechnologies.co.in/products/optical-bonding/；https://amitytechnologies.co.in/products/rugged-displays/；https://amitytechnologies.co.in/products/rugged-kvm-displays/；https://amitytechnologies.co.in/products/rugged-panel-pcs/；https://amitytechnologies.co.in/products/rugged-workstations/
+- **已抓子页**：[Rugged Ethernet Switches, Firewalls, Routers Manufacturers I](https://amitytechnologies.co.in/products/rugged-ethernet-switches/)；[Cable Harness Solutions Manufacturer India](https://amitytechnologies.co.in/products/cable-harness-solutions/)；[Leading Rugged Systems Manufacturing Company for Modern Indu](https://amitytechnologies.co.in/leading-rugged-systems-manufacturing-company-for-modern-industries/)；[Products - Rugged Systems, Displays, Consoles for ARMY, NAVA](https://amitytechnologies.co.in/products/)；[Rugged Servers Manufacturers in India for Military, Industri](https://amitytechnologies.co.in/products/rugged-servers/)；[Rugged Laptops (14 to 17") Manufacturer in Hyderabad, India](https://amitytechnologies.co.in/products/rugged-laptops/)
+- 首页正文摘录：Call us: +91 9866938833 Email: [email protected] Have any requirement? Request Free Quote Home About About Us Why Amity Products Rugged Displays Rugged Panel PCs Rugged KVM Displays Rugged Ethernet Switches Rugged Workstations Rugged Servers Rugged Racks & Consoles Rugged Cable Harness Solutions Rugged Laptops Rugged Tablets Optical Bonding Services Manufacturing Trading Distribution Blog Contact Search for: Undamage
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-139.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

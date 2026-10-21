@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +90,18 @@ updated: 2026-10-21
 - **风险/边界**：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算
 - **邮件切入句（英文）**：Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://desecuretechnology.com/　语言：tr　站点地图 URL 数：55
+- **标题**：Desecure Technology
+- **描述**：Kritik tesislerin güvenlik ihtiyaçlarını teknoloji, mühendislik ve 7/24 Alarm İzleme Merkezi operasyonuyla yöneten güvenlik teknolojileri şirketi.
+- **首页栏目**：Kurumsal Kanıt Sayıları / Desecure Technology tanıtım filmi / Konumlandırma / Yerli teknoloji / Güçlü operasyon / Proaktif güvenlik / Hibrit model nasıl çalışır / Tespit Et
+- **站内公开邮箱**：bilgi@desecuretechnology.com
+- **社媒**：https://www.linkedin.com/company/desecure-technology/
+- **已抓子页**：[Canlı İletişim: Desecure Vision ve Panik Butonu / Desecure](https://desecuretechnology.com/proaktif-teknolojiler/canli-iletisim/)；[İletişim / Desecure Technology](https://desecuretechnology.com/iletisim/)；[Hakkımızda / Desecure Technology](https://desecuretechnology.com/kurumsal/hakkimizda/)；[Çevre Güvenliği: 3D LiDAR, Radar ve Termal / Desecure](https://desecuretechnology.com/cozumler/cevre-guvenligi/)；[Video Gözetim ve Akıllı Kamera Sistemleri / Desecure](https://desecuretechnology.com/cozumler/video-gozetim-akilli-kamera/)；[Uzaktan Video İzleme: Bağlantı, Kayıt ve VMS / Desecure](https://desecuretechnology.com/hizmetler/uzaktan-video-izleme/)
+- 首页正文摘录：İçeriğe geç ALARM İZLEME MERKEZİ // 7/24 İZLEME // VİDEO DOĞRULAMA RİSKLERİ OLUŞMADAN YÖNETİYORUZ Teklif Al Çözümleri İncele İçeriğe geç ↓ Ekosistemi keşfet → RİSKLERİ OLUŞMADAN YÖNETİYORUZ ALARM İZLEME MERKEZİ // 7/24 İZLEME // VİDEO DOĞRULAMA Teklif Al Çözümleri İncele 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi 444 76 49 Çözümler AI Güvenlik Teknolojileri Görüntüyü güvenlik operasyonuna dönüştüren analiz Vid
+- 数据文件：`data/saga_clients/site_snapshots/SB-054.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

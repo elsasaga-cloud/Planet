@@ -24,6 +24,7 @@ last_contact: 2025-04-01
 p1: STC-424XGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -91,6 +92,11 @@ updated: 2026-10-21
 - **风险/边界**：US 运营商常要求 UL 列名与 TAA（其有 SAM 登记）——Saga 仅 FCC/CE；仅 1 次回复 + 1 次跟进，需重新激活
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（25% 档）——运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM
 - **邮件切入句（英文）**：For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://wirestar.net/　语言：未标　站点地图 URL 数：0
+- 数据文件：`data/saga_clients/site_snapshots/SB-040.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

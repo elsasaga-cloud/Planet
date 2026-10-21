@@ -24,6 +24,7 @@ last_contact: 2025-11-04
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +110,14 @@ updated: 2026-10-21
 - **风险/边界**：南非 ICASA/NRCS 合规由进口方；小公司；1–10 人、公开信息极少——单量小，按 B 节奏跟进即可，不投入过多
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档
 - **邮件切入句（英文）**：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://taurusvision.com/　语言：en　站点地图 URL 数：0
+- **标题**：Redirecting to TVCC Solutions
+- **首页栏目**：Taurusvision is now TVCC Solutions
+- 首页正文摘录：Taurusvision is now TVCC Solutions Our website has moved. You are being redirected to www.tvccsolutions.net . If you are not redirected automatically, select the link above.
+- 数据文件：`data/saga_clients/site_snapshots/SA-010.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

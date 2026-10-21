@@ -22,6 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-13 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-073.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://nexxus.cc/　语言：en-US　站点地图 URL 数：77
+- **标题**：Reliable Networking Solutions: Build Your Secure Network Today / Nexxus
+- **描述**：Discover why customers love Nexxus networking services. With our high-quality products and exceptional support, you can create a secure, reliable network. Join Nexxus and elevate your networking experience!
+- **首页栏目**：Product Selector / Choose a Reliable Networking Solution / Our customers highly appreciate our services / "Nexxus offers valuable solutions that support our global operations." / Nexxus has Earned the Trust of Governments and Businesses Globally / Maximize Your Productivity: Let Us Handle Your Network / Tailored Solutions, Top-Tier Support: Your Partner for Success / Try Our Technology
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 157、wireless 86、industrial 80、ethernet 53、gigabit 23、poe 21、10g 13、data center 11、surveillance 3、automation 2、sfp 2、wifi 2
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：NXP765374, NXS-9200, NXS-9300-MP, NXS-9800-E-M, NXS-9800, NXS-9400, NXS-9300-M, NXS-9300-48P6X, NXS-9300, NXS-IES-T4-SE, NXS-IES-T2-SE, NXS-IES-16T4S4XS-E
+- **产品类页面**：https://nexxus.cc/?elementor_library=product；https://nexxus.cc/?elementor_library=product-category；https://nexxus.cc/?elementor_library=elementor-products-archive-1223；https://nexxus.cc/?elementor_library=itam-product-template-2；https://nexxus.cc/?elementor_library=industrial-network-switches；https://nexxus.cc/?elementor_library=elementor-products-archive-1221
+- **已抓子页**：[Network Switches](https://nexxus.cc/product-category/products-solutions/network-switches/)；[Network Switches / Nexxus](https://nexxus.cc/product-category/products-solutions/new-network-switches/)；[Industrial Grade Ethernet / Nexxus](https://nexxus.cc/product-category/products-solutions/industrial-grade-ethernet/)；[Products & Solutions / Nexxus](https://nexxus.cc/product-category/products-solutions/)；[Storage / Nexxus](https://nexxus.cc/product-category/products-solutions/storage/)；[Routers / Nexxus](https://nexxus.cc/product-category/products-solutions/routers/)
+- 首页正文摘录：Skip to content Become A Partner Products & Solutions Close Products & Solutions Open Products & Solutions All Products & Solutions Network Switch Network Switch Wireless Solution Wireless Solution Transceiver All Transceivers IT Asset Management IT Asset Management IP Telephony & Unified Communication IP Phone Audio Conferencing Zoom/Teams Video Conferencing All IP Telephony & Unified Communication Storage Storage E
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 82、PoE 21 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-073.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +185,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

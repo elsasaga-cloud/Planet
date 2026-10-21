@@ -24,6 +24,7 @@ last_contact: 2025-03-17
 p1: STI-110GE
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -91,6 +92,22 @@ updated: 2026-10-21
 - **风险/边界**：已有中国供应链（远东仓、中国办公室）→ 价格比拼；1 次跟进后无回复
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对
 - **邮件切入句（英文）**：Hussain, for the Linxcom active range: an industrial gigabit media converter (DIN, 12–58 V DC) is $24.3 EXW and the 8-port PoE+ managed switch with 2 SFP $87.4, both with your label and datasheet; which two SKUs sell most in your 60 markets?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.linx-com.com/　语言：en-GB　站点地图 URL 数：556
+- **标题**：Linxcom UK
+- **描述**：Linxcom is a leading brand in Data Center and Telecom Infrastructure Solutions. Secure online ordering & free delivery. Contact us today.
+- **首页栏目**：Home / LINXCOM FTTX SOLUTIONS / LINXCOM DATA CABINET RANGES / LINXCOM SPLICE ENCLOSURES / LINXCOM NEW CAT6 A CONNECTIVITY SOLUTIONS / Join Linxcom News! Sign up for the latest updates and news. / Featured Products / Take a look at the peoples choices
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fibre 99、cable 88、switch 19、sfp 16、media converter 16、telecom 1
+- **站内型号串**（正则抽取，含非交换机）：DER14, DER06
+- **站内公开电话**：+44 1327 705 425
+- **社媒**：https://facebook.com/linxcomuk/, https://twitter.com/linxcomuk, https://www.linkedin.com/company/linxcom-uk
+- **产品类页面**：https://www.linx-com.com/products/；https://www.linx-com.com/product-enquiry/；https://www.linx-com.com/shop/；https://www.linx-com.com/shop/；https://www.linx-com.com/products/cabinets-and-accessories/cabinet-accessories/baying-kit/；https://www.linx-com.com/products/cabinets-and-accessories/cabinet-accessories/cable-glands-2/
+- **已抓子页**：[Switches - Linxcom UK](https://www.linx-com.com/product-category/fibre-optic-active/switches/)；[MTP/MPO Solutions - Linxcom UK](https://www.linx-com.com/product-category/fibre-optic-components-and-assemblies/mtp-mpo-solutions/)；[Products - Linxcom UK](https://www.linx-com.com/products/)；[Product Enquiry - Linxcom UK](https://www.linx-com.com/product-enquiry/)；[Voice - Linxcom UK](https://www.linx-com.com/product-category/voice/)；[Modules - Linxcom UK](https://www.linx-com.com/product-category/voice/modules/)
+- 首页正文摘录：What are you searching for... Search MON – FRI: 9:00am – 17.30pm (GMT) Login/Register +44 1327 705 425 Company Our Vision Branding Logistics & Supply Certifications & Warranty Company Information Products Fibre Management Patch Panel Terminal Box Splice Enclosure Street Cabinet Accessories Fibre Optic Components & Assemblies Pigtail Patch Cord Connector Adapter Attenuator Pre-terminated Cable Splitter MTP/MPO Solutio
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 19、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-089.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

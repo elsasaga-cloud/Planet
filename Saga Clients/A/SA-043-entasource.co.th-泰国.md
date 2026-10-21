@@ -24,6 +24,7 @@ last_contact: 2025-06-16
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -105,6 +106,21 @@ updated: 2026-10-21
 - **风险/边界**：泰国价格敏感；现来源价格低
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档
 - **邮件切入句（英文）**：Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.entasource.co.th/　语言：th　站点地图 URL 数：92
+- **首页栏目**：Optical Transceiver / Fiber Pigtail / Fiber Pacth Cord / Optical Distribution Frame (ODF)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 265、switch 86、sfp 74、industrial 56、media converter 51、cable 21、cisco 21、poe 18、ethernet 10、10g 7、gigabit 2、data center 1
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ETN9063-1FX1TX, ETN9065-1FX2TX, ETN9065-1FX4TX, ETN9065-5TX, ETN9075-2GX4GT, ETN9065-2GX4GT, ETN9075-2GX4PGT, ETN9065-2GX4PGT, ETN9075-2GX8GT, ETN9065-2GX8GT, ETN9075-2GX8PGT, ETN9065-2GX8PGT
+- **站内公开邮箱**：sale@entasource.co.th
+- **社媒**：https://www.facebook.com/entasource/, https://www.youtube.com/@entasource2731
+- **产品类页面**：https://www.entasource.co.th/17430331/industrial-switch；https://www.entasource.co.th/17993692/etn9075-2gx8pgt-poe；https://www.entasource.co.th/17993696/etn9075-4gx8pgt-poe；https://www.entasource.co.th/17993703/etn9065-2gx4pgt-poe；https://www.entasource.co.th/17993705/etn9065-2gx8pgt-poe；https://www.entasource.co.th/17232342/fiber-product
+- **已抓子页**：[Industrial PoE Switch](https://www.entasource.co.th/6562/industrial-poe-switch)；[จัดจำหน่าย INDUSTRIAL ETHERNET SWITCH และ INDUSTRIAL POE SWI](https://www.entasource.co.th/17430331/industrial-ethernet-switch)；[จัดจำหน่าย INDUSTRIAL ETHERNET SWITCH และ INDUSTRIAL POE SWI](https://www.entasource.co.th/Industrial-Switch)；[Access PoE Switch](https://www.entasource.co.th/6561/access-poe-switch)；[Industrial Switch](https://www.entasource.co.th/6563/industrial-switch)；[Fiber Switch](https://www.entasource.co.th/6559/fiber-switch)
+- 首页正文摘录：ย้อนกลับ Home Network Industrial Switch SFP Transceiver Media Converter Cisco SFP Transceivers Multimedia Converter 4k Over Fiber HD Over Fiber Fiber optic & Reel Cable For Lighting Fiber Product Fiber Patch Cord Fiber Adepter Fiber Connector Fiber Pigtail Fiber Optic ODF Fiber Optic FTTx Fiber SNAP-IN Tactical Optical Fiber Reel Specs Service Network Service Fiber Optic Service About Us Download Price List Registrat
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 56、PoE 18 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-043.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

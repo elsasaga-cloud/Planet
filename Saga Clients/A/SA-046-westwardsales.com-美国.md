@@ -24,6 +24,7 @@ last_contact: 2025-10-12
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -103,6 +104,21 @@ updated: 2026-10-21
 - **风险/边界**：平台型分销商以品牌商品为主，接受无牌/白牌需有产品页素材（英文规格书、UL/FCC 说明、保修条款）；政府/公用事业项目要 TAA/UL——不报
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档
 - **邮件切入句（英文）**：Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://westwardsales.com/　语言：en　站点地图 URL 数：11059
+- **标题**：Industrial Networking & Electronics / Ethernet Switches / Westward Sales
+- **描述**：Westward Sales offers industrial IoT, networking, and computing devices for harsh environments. Contact our industrial networking experts today!
+- **首页栏目**：Industrial Networking & Electronics / Ethernet Switches / Westward Sales / Industrial Ethernet / Cellular Routers / High Performance Antennas / Rugged Mobile Hotspots / Media Converters / PoE Devices / WiFi Access Points
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 754、switch 748、sfp 477、gigabit 434、ethernet 354、industrial 301、10g 78、fiber 69、cable 51、wireless 40、wifi 32、media converter 31
+- **站内型号串**（正则抽取，含非交换机）：LMP-1204G-SFP, CNP-0800G, FNP-0500G-T, LMP-0501-M-V2, LMP-0800G, LNP-0500G, LMP-0702G-SFP, LMP-1604G-4XS, LMP-C602G-SFP, GNX-0500, GNX-0800, GNP-0500
+- **站内公开邮箱**：sales@westwardsales.com
+- **产品类页面**：https://westwardsales.com/antaira-cnp-0800g-smb-unmanaged-switch；https://westwardsales.com/antaira-cnp-2602g-sfp-smb-unmanaged-switch；https://westwardsales.com/antaira-fnp-0500g-t-flat-unmanaged-switch；https://westwardsales.com/antaira-gnp-0500-ethernet-switch；https://westwardsales.com/antaira-gnp-0500g-ethernet-switch；https://westwardsales.com/antaira-gnp-0800-ethernet-switch
+- **已抓子页**：[Ethernet Switches - Managed & PoE Switches](https://westwardsales.com/ethernet-switches)；[PoE Switches - Power over Ethernet Switches](https://westwardsales.com/poe-ethernet-switches)；[Industrial Ethernet Solutions – Switches, Media Converters &](https://westwardsales.com/industrial-ethernet)；[PoE+ Switches (60W & 90W) / Free Shipping / Westward Sales](https://westwardsales.com/poe-plus-switches)；[Managed PoE Switches / Free Shipping / Westward Sales](https://westwardsales.com/managed-poe-switches)；[Unmanaged PoE Switches / Free Shipping / Westward Sales](https://westwardsales.com/unmanaged-poe-switches)
+- 首页正文摘录：720.870.4500 Product Compare ( 0 ) Blog Contact Us Register Login 0 item(s) - $0.00 Your shopping cart is empty! MENU Industrial Networking Industrial Ethernet Switches Managed Switches Unmanaged Switches PoE Switches IP67 & Railway Rated 10 Gigabit Power Over Ethernet (PoE) Devices PoE Extenders Managed Switches Unmanaged Switches PoE++, 60 to 90 Watt PoE Injectors & Splitters Ethernet Media Converters Fast Ethernet
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 306、PoE 754 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-046.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

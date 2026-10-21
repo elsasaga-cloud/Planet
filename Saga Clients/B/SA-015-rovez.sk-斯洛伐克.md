@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -103,6 +104,21 @@ updated: 2026-10-21
   - 已成交 + 样品（用户表）；Avigilon 高端摄像（多 PoE+ / PTZ）→ 需 30W 全口 PoE+ 与千兆上联，Saga 管理型机契合
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档
 - **邮件切入句（英文）**：For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://kamerovesystemy.com/　语言：sk-SK　站点地图 URL 数：12
+- **标题**：Kamerové systémy Avigilon - ROVEZ
+- **描述**：ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON. Komplexné bezpečnostné riešenia, špičkové technológie a 30 rokov skúseností.
+- **首页栏目**：rovez@rovez.sk / +421 905 617 471 / +421 905 441 595 / kamerové SYSTÉMY AVIGILON / Odbornosť a 30 rokov skúseností / Riešenia pre každý typ objektu / Spoľahlivý servis / Prehľad produktov
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 7
+- **站内型号串**（正则抽取，含非交换机）：H6A-FE, SK2020163277
+- **站内公开邮箱**：rovez@rovez.sk
+- **站内公开电话**：+421 905 441 595, +421 905 617 471
+- **产品类页面**：https://kamerovesystemy.com/katalog-produktov/
+- **已抓子页**：[Katalóg produktov - ROVEZ](https://kamerovesystemy.com/katalog-produktov/)；[Megapixelové kamery zoznam - ROVEZ](https://kamerovesystemy.com/kategoria-produktu/megapixelove-kamery/)；[Záznamové zariadenia zoznam - ROVEZ](https://kamerovesystemy.com/kategoria-produktu/zaznamove-zariadenia/)；[Doplnky a príslušenstvo zoznam - ROVEZ](https://kamerovesystemy.com/kategoria-produktu/doplnky-a-prislusenstvo/)；[Softvér Avigilon UNITY 8 a video infraštruktúra zoznam - ROV](https://kamerovesystemy.com/kategoria-produktu/softver-unity-a-video-infrastruktura/)；[Kontakt - ROVEZ](https://kamerovesystemy.com/kontakt/)
+- 首页正文摘录：Preskočiť na obsah rovez@rovez.sk +421 905 617 471 +421 905 441 595 Ukážky Profil spoločnosti Podpora Návody Schémy zapojení Videoukážky Ukážky Profil spoločnosti Podpora Návody Schémy zapojení Videoukážky Vyhľadať Vyhľadať Kontakt Produky Kontakt Produky Ukážky Profil spoločnosti Podpora Návody Schémy zapojení Videoukážky Ukážky Profil spoločnosti Podpora Návody Schémy zapojení Videoukážky Vyhľadať Vyhľadať Meníme V
+- 数据文件：`data/saga_clients/site_snapshots/SA-015.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

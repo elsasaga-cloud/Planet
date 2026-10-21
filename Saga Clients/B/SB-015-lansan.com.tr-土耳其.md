@@ -22,6 +22,7 @@ last_contact: 2025-10-24
 p1: STI-110GE
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +72,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-015.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.lansan.com.tr/　语言：未标　站点地图 URL 数：1496
+- **标题**：Network Bağlantı Ekipmanları - LANSAN
+- **描述**：Network Ekipmanları, Fiberoptik Patch Panel üreticisi , 6 port patch panel
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 58、fiber 52、switch 41、poe 26、10g 19、cable 16、media converter 13、ethernet 2、ftth 2
+- **站内型号串**（正则抽取，含非交换机）：LNS-3713-01, X520-DA1, LNS-1308, LNS-1061, LNS-1002-SC, LNS-1301, LNS-1105, LNS-1104, LNS-1310P, LNS-1324P, LNS-3715-04, X710-DA4
+- **站内公开邮箱**：info@lansan.com.tr
+- **社媒**：https://www.facebook.com, https://www.instagram.com, https://www.twitter.com, https://www.youtube.com/channel/UCQUp25HVPDdV4PKbwQDxWFg/featured
+- **产品类页面**：https://www.lansan.com.tr/8-port-poe-switch-lns-1310p；https://www.lansan.com.tr/24-port-poe-switch-lns-1324p；https://www.lansan.com.tr/cat7-s-ftp-23awg-pimf-cable-lszh-1000-meter--turuncu-lns-7710-ls10-or；https://www.lansan.com.tr/cat7-s-ftp-23awg-pimf-cable-lszh-500-meter--turuncu-lns-7710-ls5-or；https://www.lansan.com.tr/6-port-10-100-mbps-poe-switch-lns-1306-p；https://www.lansan.com.tr/8-port-sfp-omurga-switch-lns-1308
+- **已抓子页**：[Poe Ürünler - LANSAN](https://www.lansan.com.tr/switch-ve-aktif-urunler/-poe-urunler)；[Switch ve Aktif Ürünler - LANSAN](https://www.lansan.com.tr/switch-ve-aktif-urunler)；[Fiber Optik Ekipmanlar - LANSAN](https://www.lansan.com.tr/fiber-optik-urunler)；[Switch - LANSAN](https://www.lansan.com.tr/switch-ve-aktif-urunler/switch)；[Extender - LANSAN](https://www.lansan.com.tr/switch-ve-aktif-urunler/extender)；[Nic Card - LANSAN](https://www.lansan.com.tr/switch-ve-aktif-urunler/-nic-card)
+- 首页正文摘录：Blog Yeni Kayıt veya Üye Girişi Sepetim Hesabım 0212 955 02 30 info@lansan.com.tr TL USD EUR GBP Sepette Ürün Tüm Kategoriler Modüler Direk Sfp - Qsfp - Dac Modüller SFP Modul SFP+ Modul QSFP Modul XFP - XENPAK - X2 Modul DAC Cable AOC Cable Switch ve Aktif Ürünler Switch Media Converter Poe Ürünler Nic Card Extender Fiber Optik Ürünler Fiber Optik Patch Cord Pigtail Coupler Fiber Optik Ek Kutuları PLC Splitter Fiber
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 19、交换机 41 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-015.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +174,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

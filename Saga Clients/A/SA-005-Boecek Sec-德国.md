@@ -24,6 +24,7 @@ last_contact: 2025-11-05
 p1: STI-144GP
 price_tier: 25%
 research: done
+site_snapshot: parked_or_empty  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-05）
 - **P1（下一步唯一主推）**：STI-144GP — 深挖对位：已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -97,6 +98,14 @@ updated: 2026-10-21
 - **风险/边界**：无公开网页、无 LinkedIn → 规模与资质无法核实，按「小型安装商/个体」对待；价格敏感且会对比 Aliexpress，报价必须给 EXW + 明确运费/关税说明
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选
 - **邮件切入句（英文）**：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+
+- 尝试域名：boecek.de
+  > https://boecek.de/ conn: HTTPSConnectionPool(host='boecek.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL:
+  > https://www.boecek.de/ conn: HTTPSConnectionPool(host='www.boecek.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[
+- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
+- 数据文件：`data/saga_clients/site_snapshots/SA-005.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,6 +199,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

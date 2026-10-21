@@ -24,6 +24,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -127,6 +128,21 @@ updated: 2026-10-21
 - **风险/边界**：商用线已有新桥/ONV，不要正面抢；只做工业级 OEM；土耳其进口税/汇率
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——NVC 商用线已满（新桥/ONV），只做工业 OEM：STI-288DGGPM（8 GE PoE + 2 SFP DIN 管理）+ STI-144GP（4+1）作 NVC 工业入门双 SKU，按 NVC- 命名；OEM 30% 档
 - **邮件切入句（英文）**：Your NVC range covers the commercial PoE side well, so for the industrial line we discussed at ISAF I am quoting the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact unit as NVC-branded SKUs, EXW with CE/FCC files.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.novacom.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：Anasayfa - Novacom Technology
+- **描述**：NVC-IPC5100 Plus 5.4'' Kamera Test Cihazı Güvenliğiniz İçin Her Detayı Kontrol Edin.Her Görüş Açısını Denetleyin! İncele Gözlerinizi Büyüleyen Ekran Deneyimi! Netlikte Sınır Tanımayan Monitör Teknolojisi! İncele Profesyonel Özellikler Maksimum Performans Formuler Z11 Pro Max şimdiye kadarki en hızlı
+- **首页栏目**：(4K) Full HD LNB (27) / HDMI Splitter (7) / IPTV Set Top Box (15) / Manyetik ve Elektrikli Kilit (11) / Multiswitch (38) / Sinyal Bulucu (5) / Switch (56) / Homatics Box R 4K/4K Plus Orjinal Uzaktan Kumanda
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 103、fiber 41、poe 26、wifi 17、cable 14、cctv 4、sfp 2、wireless 2
+- **站内型号串**（正则抽取，含非交换机）：NMS-10, NC-10, MY920, NVC-HIF0821GBL, NVC-IPC5100, NVC-IPCV58C, MOT31, DRHD-SAT06, SH-820HD, NVC-HDWE150, ND-PE102, ND-WR1200E
+- **站内公开电话**：+90 (507) 017 11 16, +90 (530) 977 89 83, +90 (542) 682 45 05
+- **社媒**：https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nc-10-10-my920-multiswitch-yukseltici, https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nms-10-48p-sonlu-kaskat-multiswitch, https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nms-10-64s-sonlu-multiswitch, https://www.facebook.com/sharer/sharer.php?u=https://www.novacom.com.tr/urun/nvc-hif0821gbl-poe-switch, https://www.linkedin.com/shareArticle?mini=true&url=https://www.novacom.com.tr/urun/nc-10-10-my920-multiswitch-yukseltici, https://www.linkedin.com/shareArticle?mini=true&url=https://www.novacom.com.tr/urun/nms-10-48p-sonlu-kaskat-multiswitch
+- **已抓子页**：[NVC-HIF0821GBL PoE Switch - Novacom Technology](https://www.novacom.com.tr/urun/nvc-hif0821gbl-poe-switch)；[Fiber Optik TV Ürünleri - Novacom Technology](https://www.novacom.com.tr/urun-kategori/fiber-optik-tv-urunleri)；[Güvenlik ve Ağ Ürünleri - Novacom Technology](https://www.novacom.com.tr/urun-kategori/guvenlik-ve-ag-urunleri)；[NMS-10/64S Sonlu Multiswitch - Novacom Technology](https://www.novacom.com.tr/urun/nms-10-64s-sonlu-multiswitch)；[NMS-10/48P Sonlu Kaskat Multiswitch - Novacom Technology](https://www.novacom.com.tr/urun/nms-10-48p-sonlu-kaskat-multiswitch)；[NC-10/10 (MY920) Multiswitch Yükseltici - Novacom Technology](https://www.novacom.com.tr/urun/nc-10-10-my920-multiswitch-yukseltici)
+- 首页正文摘录：Ürünlerimiz Güvenlik ve Ağ Ürünleri Güvenlik ve Ağ Ürünleri Access Point Araç Kamerası Beam Dedektör HDMI Splitter HDMI Extender HDMI Matrix Switch Kabin Kablolar Kamera Test Cihazı KVM Extender Multi-Viewer Multi-Screen Box HDMI Capture Kart Monitör POE Extender/Splitter Switch Diafon Diafon Switch Kapı Panelleri Router Video Wall Wifi Bridge Solar Kameralar Geçiş Kontrol Ürünleri Geçiş Kontrol Ürünleri Akıllı Kilit
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 26、监控 4 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-082.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

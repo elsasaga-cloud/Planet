@@ -24,6 +24,7 @@ last_contact: 2025-07-09
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -109,6 +110,19 @@ updated: 2026-10-21
 - **风险/边界**：大型分销商 + 成熟 ODM 供应链（E-link 等），切入门槛是价格与 ERP/EAN/包装合规（德语说明书、WEEE、CE 文件）；对 Marvell 平台无特殊偏好，需以某一空缺型号（如 8 口 bt 管理 DIN）切入而非整线替换
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈
 - **邮件切入句（英文）**：Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.allnet.de/de/allnet-brand/　语言：de　站点地图 URL 数：0
+- **标题**：ALLNET GmbH -ALLNET Produktwelt
+- **描述**：ALLNET GmbH
+- **首页栏目**：Lösungen / Unternehmen / Partner / Paint your network blue! / Support
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 222、switch 137、automation 37、wireless 35、sfp 34、industrial 19、ethernet 14、gigabit 7、10g 2、distributor 1
+- **站内型号串**（正则抽取，含非交换机）：RK3588, DE13101093, ALL-B100-24VDC, ALL-SGI8016PM, IEEE802, ALL-SG8206PDM, ALL-SG8208PD, ALL-SG8205PD, ALL-SG8005PD-BT90, ALL-SGI8004P, EN60068-2-6, EN60068-2-27
+- **已抓子页**：[ALLNET GmbH -PoE Injektoren](https://www.allnet.de/de/allnet-brand/produkte/industrial-switches/poe-injektoren/)；[ALLNET GmbH -Industrie Produkte](https://www.allnet.de/de/allnet-brand/produkte/industrial-switches/)；[ALLNET GmbH -PoE Powered Switche (PD)](https://www.allnet.de/de/allnet-brand/produkte/poe/poe-powered-switche-pd/)；[ALLNET GmbH -Switche](https://www.allnet.de/de/allnet-brand/produkte/industrial-switches/switche/)；[ALLNET GmbH -Mini-GBICs](https://www.allnet.de/de/allnet-brand/produkte/industrial-switches/mini-gbics/)；[ALLNET GmbH -Medienkonverter](https://www.allnet.de/de/allnet-brand/produkte/industrial-switches/medienkonverter/)
+- 首页正文摘录：Tel.: +49 (0)89 / 89422222 Bitte wählen Sie Ihr Land: Sprache wählen Sprache wählen en de es fr hu Wir sind Entwickler und Hersteller moderner Netzwerk- und Kommunikationstechnologie und viele innovative Produkte aus den Bereichen, Netzwerk, Storage, Security und Home Automation werden in unseren eigenen Labors konzipiert und in zahlreichen europäischen Ländern vertrieben. Kontakt WhatsApp Und so funktioniert´s: Einf
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 24、PoE 222 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-029.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

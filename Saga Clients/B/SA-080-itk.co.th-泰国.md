@@ -25,6 +25,7 @@ last_contact: 2025-10-13
 p1: STI-288GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -100,6 +101,22 @@ updated: 2026-10-21
 - **风险/边界**：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
 - **Saga 对位结论**：P1 STI-288GP（20% 档）——分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）
 - **邮件切入句（英文）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://itk.co.th/　语言：th　站点地图 URL 数：8766
+- **标题**：หน้าแรก - ITK จำหน่ายสินค้า IT และงานติดตั้ง
+- **描述**：จำหน่ายสินค้า IT Network Server Storage Computer อุปกรณ์ Sprepart พร้อมบริการหลังการขาย ในราคาที่ถูกและมีการรับประกัน
+- **首页栏目**：ITK Connecting — จำหน่ายสินค้า IT, Network, Server, Storage ครบวงจร
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 287、cisco 204、switch 142、cable 89、fiber 20、wireless 20、10g 16、industrial 12、ubiquiti 12、tp-link 10、data center 7、mikrotik 6
+- **站内出现的品牌**：Cisco, Aruba, Ruijie, Huawei, H3C, TP-Link, Fortinet, MikroTik, D-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, QSFP56, SFP28, SFP56, QSFP28-DD, QSFP112, OSFP56, OSFP112, MS120, MS125, MS130, MS210
+- **站内公开邮箱**：sales@itk.co.th
+- **产品类页面**：https://itk.co.th/network-switch/onv-switch/10-100-onv-industrial-switches-l2-managed.html；https://itk.co.th/network-switch/onv-switch/onv-industrial-switches-unmanage.html；https://itk.co.th/network-switch/onv-switch/10-100-onv-industrial-switches-unmanage.html；https://itk.co.th/network-switch/onv-switch/10-100-1000-onv-industrial-switches-l2-managed.html；https://itk.co.th/network-switch/onv-switch/10-100-1000-onv-industrial-switches-l3-managed.html；https://itk.co.th/network-switch/onv-switch/10-100-1000-onv-industrial-switches-unmanage.html
+- **已抓子页**：[MANUFACTURERS](https://itk.co.th/manufacturers.html)
+- 首页正文摘录：ITK Connecting — จำหน่ายสินค้า IT, Network, Server, Storage ครบวงจร ติดต่อเรา 02-460-9200 [email protected] @itk.co.th แจ้งปัญหา PRODUCT ALL หัวข้อ BRAND ซีรี่ รุ่นย่อย หัวข้อ แบรนด์ ซีรี่ รุ่นย่อย โปรโมชั่น หัวข้อ แบรนด์ ซีรี่ รุ่นย่อย ดีลเลอร์ ดีลเลอร์ / ช่าง MANUFACTURERS หัวข้อ ติดต่อเรา หัวข้อ ลูกค้าองค์กร หัวข้อ หัวข้อ แบรนด์ ซีรี่ รุ่นย่อย Search × Recent Search Hot Search I ITK Connecting Co.,Ltd × PRODUCT AL
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 12、PoE 3 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-080.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

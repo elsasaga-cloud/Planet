@@ -25,6 +25,7 @@ last_contact: 2025-11-05
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -107,6 +108,21 @@ updated: 2026-10-21
 - **风险/边界**：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
 - **邮件切入句（英文）**：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://desk-sicherheit.de/　语言：de　站点地图 URL 数：75
+- **标题**：DESK Sicherheit
+- **描述**：Sicherheitsdienst, Alarmanlagen, Videoüberwachung, KI-Analyse & Drohnenabwehr – aus Karlsruhe, deutschlandweit & international im Einsatz. 24/7-Leitstelle.
+- **首页栏目**：Wir schützen, was Sie lieben / Ganzheitliche Sicherheitslösungen für Ihren Bedarf. / Sicherheitsdienst / Sicherheitstechnik / Drohnen UAV / AI Analytics / Unsere Garantie / Full Service
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：axis 2
+- **站内型号串**（正则抽取，含非交换机）：DE291361315
+- **站内公开邮箱**：email@beispiel.de, info@desk-sicherheit.de, name@organisation.de
+- **站内公开电话**：+49 (0)721 952 79 802
+- **社媒**：https://twitter.com/DeskSecKa, https://www.facebook.com/DeskSicherheit/, https://www.instagram.com/desksicherheit/, https://www.linkedin.com/company/desk-sicherheitsdienst, https://www.youtube.com/@Desk-Sicherheit-GmbH
+- **已抓子页**：[Wächter über der Glut: Wie autarke Türme das Waldbrand-Infer](https://desk-sicherheit.de/news/waldbrand-frueherkennung-autarke-tuerme)；[Über uns / DESK Sicherheit](https://desk-sicherheit.de/ueber-uns)；[Brandfrüherkennung in Sägewerken / DESK Sicherheit](https://desk-sicherheit.de/news/brandfrueherkennung-saegewerke)；[Erfolgreiche Modernisierung eines Rechenzentrums / DESK Sich](https://desk-sicherheit.de/news/moderniserung-rechenzentrum-frankreich)；[Videoüberwachung für Unternehmen und KRITIS / DESK Sicherhei](https://desk-sicherheit.de/leistungen/sicherheitstechnik/videoueberwachung)
+- 首页正文摘录：Startseite Leistungen Sicherheitsdienst Sicherheitstechnik Drohnen UAV AI Analytics Shop Referenzen News Über uns Kontakt Jede Sekunde zählt Kontakt Jede Sekunde zählt Startseite Leistungen Sicherheitsdienst Sicherheitstechnik Drohnen UAV AI Analytics Shop Referenzen News Über uns Kontakt Impressum Wir schützen, was Sie lieben Von hochmodernen Alarmanlagen bis hin zu intelligenten Zutrittskontrollen bieten wir Ihnen 
+- 数据文件：`data/saga_clients/site_snapshots/SA-075.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

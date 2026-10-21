@@ -24,6 +24,7 @@ last_contact: 2025-11-04
 p1: STI-110GE
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -111,6 +112,23 @@ updated: 2026-10-21
 - **风险/边界**：大买家、对交期/一致性/返修率要求高；6 台样品后未放量，原因=交期；Saga 的 MC 来自 SmartByte（STI-110GE 等），需先确认批量交期承诺（10–15 天 MOQ 以上）再报
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈
 - **邮件切入句（英文）**：On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.addonnetworks.com/　语言：en　站点地图 URL 数：42
+- **标题**：Global Leaders In Fiber Optic Connectivity Solutions
+- **描述**：High quality transceivers, patch cables, media converters, & fiber connectivity solutions from 1999. 99.98% reliability rated 100G QSFP+, 10G SFP+, & more.
+- **首页栏目**：AddOn Networks / Where to Buy / Available from your preferred channel partner / AddOn’s Modular Line System / Discover the ease of deploying DCI through our modular line system / Search / Quote List / Achieve Long Range 100G Economically with QSFP28 ZR4 Transceivers
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 427、fiber 58、cable 54、data center 40、oem 18、cisco 16、10g 15、poe 12、fibre 10、ethernet 10、media converter 9、switch 8
+- **站内出现的品牌**：Cisco, Juniper, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, RJ-45, SFP28, QSFP56, OSFP224, QSFP28-DD, QSFP112, OSFP112, RS232, SFP56, RS485, RS422
+- **站内公开邮箱**：techsupport@addonnetworks.com
+- **社媒**：https://www.linkedin.com/company/addon/, https://www.youtube.com/channel/UCbSKxaJSL00Zh83Penb5Umw
+- **产品类页面**：https://www.addonnetworks.com/faq/product；https://www.addonnetworks.com/faq/do-your-transceivers-support-all-functions-available-on-my-cutting-edge-oem-switches
+- **已抓子页**：[DACs & AOCs / Network Cabling - AddOn Networks](https://www.addonnetworks.com/products/dacs-aocs)；[Network Accessories / Network Upgrades - AddOn Networks](https://www.addonnetworks.com/products/network-accessories)；[Transceivers / Network Upgrades - AddOn Networks](https://www.addonnetworks.com/products/transceivers)；[Company Overview / Delivering Network Excellence - AddOn Net](https://www.addonnetworks.com/about-us/company-overview)；[Education Sector Network Cabling Solutions / AddOn… - AddOn ](https://www.addonnetworks.com/solutions/education)；[Data Center Solutions - Increase Bandwidth & Speed - AddOn N](https://www.addonnetworks.com/solutions/data-center)
+- 首页正文摘录：AddOn Networks The worldwide technology leader in fiber optic connectivity solutions since 1999 Find out more Where to Buy Available from your preferred channel partner Buy now AddOn’s Modular Line System Discover the ease of deploying DCI through our modular line system See features & benefits Search Products Content All System Part No. Select OEM Search Products Solutions Enterprise Networking Solutions Small Busin
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 19、交换机 8 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-036.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

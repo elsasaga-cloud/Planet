@@ -24,6 +24,7 @@ last_contact: 2025-01-30
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -104,6 +105,22 @@ updated: 2026-10-21
 - **风险/边界**：自研厂商对二供要求固件透明度/长期供货承诺（5–10 年）；竞品定位：若 Saga 以低价工业机切入可能被视为冲突其高端线——定位为「入门级/项目配套」
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档
 - **邮件切入句（英文）**：Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bitstream.pl/　语言：pl　站点地图 URL 数：851
+- **标题**：Polski producent urządzeń do transmisji danych / BitStream - BitStream
+- **描述**：Bitstream Polska jest wiodącym dostawcą rozwiązań synchronizacji czasu i transmisji danych dla energetyki, systemów bezpieczeństwa, telekomunikacji i innych.
+- **首页栏目**：Strona główna / Sprawdź naszą ofertę / Sprawdź sektory naszych działań / Energetyka / Telekomunikacja / CCTV / Dowiedz się o nas więcej, aby rozpocząć współpracę / O nas
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 9、ethernet 5、scada 3、sfp 1、telecom 1
+- **站内型号串**（正则抽取，含非交换机）：BTP-3124, SE-39, TR-55, BS-MC-5X, MEGAMUX-16EN, BTPC-XXM2-04C, BTPC-XXM1-04C, BTPC-XX24-04C, BTPC-XX03-08CD, BTPB-5412L-12CD, BTPB-4512L-12CD, BTP-8524
+- **站内公开邮箱**：info@bitstream.pl
+- **站内公开电话**：+48) 81 743 86 43
+- **社媒**：https://pl.linkedin.com/company/bitstream-poland, https://twitter.com/BitstreamPoland, https://www.facebook.com/bitstream.poland/, https://www.youtube.com/channel/UCOz0wLfEeqn8PTFcCIUaKkg
+- **产品类页面**：https://bitstream.pl/produkty/；https://bitstream.pl/en/products/；https://bitstream.pl/it/prodotti/；https://bitstream.pl/ro/produse/；https://bitstream.pl/es/productos/；https://bitstream.pl/produkty/cybersecurity/
+- **已抓子页**：[O nas - BitStream](https://bitstream.pl/o-nas/)；[Synchronizacja czasu i sieci OT/IT dla przemysłu - BitStream](https://bitstream.pl/branze/przemysl/)；[Przemysł paliwowy - BitStream](https://bitstream.pl/branze/przemysl-paliwowy/)；[Produkty - BitStream](https://bitstream.pl/produkty/)；[Logowanie - BitStream](https://bitstream.pl/konto-uzytkownika/logowanie/)；[Instrukcje (archiwum) - BitStream](https://bitstream.pl/instrukcje-archiwum/)
+- 首页正文摘录：Przeskocz do treści Przeskocz do menu Strona główna O nas Realizacje Certyfikaty Filmy Kariera Projekty unijne Produkty Branże Energetyka Telekomunikacja CCTV Służby mundurowe Przemysł paliwowy Inteligentny transport Kolej Przemysł Aktualności Support Instrukcje produktów Instrukcje produktów wycofanych Reklamacje i serwis - zgłoszenia Security Service - formularz zgłoszenia Security Service - zgłoszenia Wsparcie Tec
+- 数据文件：`data/saga_clients/site_snapshots/SA-031.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

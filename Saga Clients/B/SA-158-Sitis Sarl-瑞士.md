@@ -25,6 +25,7 @@ last_contact: 2025-10-08
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -103,6 +104,18 @@ updated: 2026-10-21
 - **风险/边界**：规模极小、瑞士非欧盟（需 CE 即可，关税另计）；6 次推送 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供
 - **邮件切入句（英文）**：Arno, we do not make the M12 switch you looked at in Essen, but for your Geneva CCTV and IP-phone installs the 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW — is there a current site where a sample would be tested?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sitis.ch/　语言：en-us　站点地图 URL 数：0
+- **标题**：Bienvenue sur le site de la société SITIS Sàrl Genève - Informatique - Télécom - Sécurité
+- **首页栏目**：Informatique / Télécom / Sécurité / Bienvenue chez SITIS! / NOS PARTENAIRES / Liens rapides / Contactez nous
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 4
+- **站内型号串**（正则抽取，含非交换机）：CH-1201
+- **站内公开电话**：+41 22 510 21 51, +41 22 510 21 52
+- **已抓子页**：[Bienvenue sur le site de la société SITIS Sàrl Genève - Info](https://www.sitis.ch/fr/produits.html)；[Bienvenue sur le site de la société SITIS Sàrl Genève - Info](https://www.sitis.ch/fr/contact.html)；[Bienvenue sur le site de la société SITIS Sàrl Genève - Info](https://www.sitis.ch/fr/services.html)
+- 首页正文摘录：Toggle navigation Accueil Produits Services Support à distance Contact Lang English Français Deutsch Informatique Support informatique pour particuliers et entreprises sur site, à distance, suppression de virus, detection d'intrusion, récuperation de disques durs, remplacement d'écran d'ordinateur portable, sites internet Télécom Remplacez votre ancien système de téléphonie par un central IP, une solution Virtual PBX
+- 数据文件：`data/saga_clients/site_snapshots/SA-158.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

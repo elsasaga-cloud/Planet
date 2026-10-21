@@ -24,6 +24,7 @@ last_contact: 2025-10-15
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: timeout  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -97,6 +98,15 @@ updated: 2026-10-21
 - **风险/边界**：泰国本地价格极低（8+2 工业 PoE 零售 2,350 THB ≈ $65），对 Marvell 平台溢价接受度有限；自有 logo = 30% 档，但分销体量可按 25% 谈
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo
 - **邮件切入句（英文）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+
+- 尝试域名：widen.co.th
+  > https://widen.co.th/ conn: HTTPSConnectionPool(host='widen.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
+  > https://www.widen.co.th/ conn: HTTPSConnectionPool(host='www.widen.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<
+  > http://widen.co.th/ conn: HTTPConnectionPool(host='widen.co.th', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCo
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-020.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -205,6 +215,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

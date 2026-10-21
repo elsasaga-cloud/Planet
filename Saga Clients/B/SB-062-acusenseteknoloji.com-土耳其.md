@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -82,6 +83,21 @@ updated: 2026-10-21
 - **风险/边界**：电商比价；语言；无后续跟进
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）
 - **邮件切入句（英文）**：Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://acusenseteknoloji.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Hikvision Kamera Sistemleri / Orijinal Ürün Güvenlik Sistemleri Satış Sitesi
+- **描述**：Orijinal Hikvision güvenlik kameraları, DVR ve NVR sistemleri uygun fiyatla! Ücretsiz teknik destek, hızlı kargo ve garanti avantajıyla hemen satın alın. Ev ve iş yeriniz için güvenlikte lider: Hikvision IP, AHD ve Dome kameralar! Geniş ürün yelpazesi, uygun fiyat, güvenilir alışveriş. Hikvision kam
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 169、switch 72、poe 55、nvr 19、ethernet 12、gigabit 10、10g 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-3E0318P-E, DS-3E0326P-E, DS-3E1318P-EI, DS-3WAP522-SI, DS-3E1510P-EI, DS-3E1526P-SI, DS-3E0505D-E, DS-3E1526P-EI, DS-3E1506P-EI, DS-3E0105D-E, DS-3E1326P-EI, DS-3E1518P-EI
+- **站内公开邮箱**：info@acusenseteknoloji.com
+- **社媒**：https://wa.me/905428396898
+- **已抓子页**：[Hikvision Network Teknolojileri / IP Kamera & Data İletişim ](https://acusenseteknoloji.com/network-urunler/)；[POE Switch - Hikvision Kamera Sistemleri / Orijinal Ürün Güv](https://acusenseteknoloji.com/poe-switch/)；[Hikvision Proje Ürünleri / Kurumsal Güvenlik ve Kamera Çözüm](https://acusenseteknoloji.com/proje-urunler/)；[Network Switch - Hikvision Kamera Sistemleri / Orijinal Ürün](https://acusenseteknoloji.com/network-switch/)；[Hikvision Intercom Ürünleri – Akıllı Görüntülü Kapı Giriş Si](https://acusenseteknoloji.com/interkom-urunler/)；[Hikvision IP Kameralar – 4K Görüntü Kalitesi, Akıllı Güvenli](https://acusenseteknoloji.com/hikvision-ip-urunler/)
+- 首页正文摘录：Çağrı Merkezi 0542 839 68 98 0216 888 29 34 info@acusenseteknoloji.com Teklif Al PROJE ÜRÜNLER Analog Hoparlör IP Hopörlör IP Kameralar Monitörler Network Kayıt Cihazları (NVR) PTZ Kameralar Termal Kameralar X-Ray IP ÜRÜNLER Hybrid San PTZ Kameralar IP Kameralar Termal Kameralar Network Kayıt Cihazları (NVR) ACCESS KONTROL Geçiş Kontrol Standalone Aksesuarlar NETWORK ÜRÜNLER Network Switch POE Switch Access Point Rou
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 55、监控 19 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-062.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

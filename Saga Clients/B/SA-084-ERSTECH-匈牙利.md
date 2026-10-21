@@ -25,6 +25,7 @@ last_contact: 2025-10-08
 p1: STI-144GP
 price_tier: 25%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
 - **P1（下一步唯一主推）**：STI-144GP — 深挖对位：安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -102,6 +103,15 @@ updated: 2026-10-21
 - **风险/边界**：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）
 - **邮件切入句（英文）**：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：erstech.hu
+  > https://erstech.hu/ http 403 ct=text/html; charset=iso-8859-2
+  > https://www.erstech.hu/ http 403 ct=text/html; charset=iso-8859-2
+  > http://erstech.hu/ http 403 ct=text/html; charset=iso-8859-2
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-084.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -194,6 +204,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -25,6 +25,7 @@ last_contact: 2025-10-23
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -108,6 +109,20 @@ updated: 2026-10-21
 - **风险/边界**：安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册
 - **邮件切入句（英文）**：You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://telcam.co.uk/　语言：en-GB　站点地图 URL 数：61
+- **标题**：Telcam Fire & Security
+- **描述**：Fire alarms, CCTV, intruder alarms and 24/7 aftercare from Telcam Fire & Security. Open 24 hours, 365 days a year.
+- **首页栏目**：Security / Fire / Protection / Electrical / Networking / West London / North London / Central London
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 78、automation 39、access control 34、camera 30、wifi 23、wireless 17、cable 16、installer 4、switch 3、industrial 3、nvr 1、hikvision 1
+- **站内公开邮箱**：safety@telcam.co.uk
+- **社媒**：https://wa.me/447388351670?text=Hello%2C%20I'd%20like%20to%20enquire%20about%20Telcam%20Fire%20%26%20Security., https://www.facebook.com/telcamlondon/, https://www.linkedin.com/company/telcam/, https://x.com/telcamsecurity
+- **已抓子页**：[Specialised CCTV Solutions / Telcam Fire & Security](https://telcam.co.uk/specialised-cctv-solutions)；[Contact Us / Telcam Fire & Security](https://telcam.co.uk/contact)；[About Us / Telcam Fire & Security](https://telcam.co.uk/about-us)；[Mesh Networking / Telcam Fire & Security](https://telcam.co.uk/mesh-networking)；[Network Cabling / Telcam Fire & Security](https://telcam.co.uk/network-cabling)；[Emergency Alarms & CCTV Installs / Telcam Fire & Security](https://telcam.co.uk/emergency-alarms-and-cctv-installs)
+- 首页正文摘录：0208 840 2111 Open 24 hours, 365 days a year Home Services Security Access Control Intruder Alarms Specialised CCTV Solutions Emergency Alarms & CCTV Installs Smart Automation Home Security Business Security Vehicle Security Fire Fire Alarm Solutions Fire Extinguishers Fire Protection Protection Security Bollards Security Gates & Automation Security Windows & Doors Security Safes Electrical PAT Testing Commercial Ele
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 8、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-109.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

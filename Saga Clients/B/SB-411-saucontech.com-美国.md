@@ -24,6 +24,7 @@ last_contact: 2025-10-23
 p1: STI-054GP
 price_tier: 30%
 research: done
+site_snapshot: none
 sources: 2
 updated: 2026-10-21
 ```

@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -93,6 +94,16 @@ updated: 2026-10-21
 - **风险/边界**：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
 - **邮件切入句（英文）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://comtec.com.vn/　语言：vi　站点地图 URL 数：21
+- **标题**：COMTEC
+- **首页栏目**：NEW! / FTTH Handheld OTDR / OTM4000 OTDR Series / OTDR MULTI TESTER / OPS2 Series Optical Multimeter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 7、wireless 1、ftth 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：OTM4000, OTM1000, OTM1100F
+- 首页正文摘录：Nhảy tới nội dung VỀ CHÚNG TÔI SẢN PHẨM Thiết bị hàn quang và đo quang Thiết bị đo Công cụ, dụng cụ Thiết bị khác LIÊN HỆ VỀ CHÚNG TÔI SẢN PHẨM Thiết bị hàn quang và đo quang Thiết bị đo Công cụ, dụng cụ Thiết bị khác LIÊN HỆ Liên hệ: 0989 339 983 Search Optical fiber measuring instrument Nowadays,the fiber optic cables are being used widely from long to short distance, even from room to room, equipment to equipment.
+- 数据文件：`data/saga_clients/site_snapshots/SA-141.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-240GM
 price_tier: 30%
 research: done
+site_snapshot: none
 sources: 4
 updated: 2026-10-21
 ```

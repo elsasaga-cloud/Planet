@@ -24,6 +24,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -114,6 +115,21 @@ updated: 2026-10-21
 - **风险/边界**：UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号；迈威为 Saga 同行，价格战风险
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档
 - **邮件切入句（英文）**：For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bluewarrior.com/　语言：en-US　站点地图 URL 数：75
+- **标题**：Products for the Industrial Internet of Things (IoT) / BlueWARRIOR
+- **描述**：BlueWARRIOR's innovative products for the industrial internet of things serve as the backbone of our industrial networking solutions.
+- **首页栏目**：Cutting-Edge Products for the Industrial Internet of Things (IIOT) / Rugged Performance In The Harshest Environments / Connecting the World Through Innovation / Cutting-Edge Products for the Industrial Internet of Things / Rugged Performance Meets Advanced Security / Networking Solutions That Push The Limits / Railway & Transit / Smart Cities
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 205、industrial 196、ethernet 176、automation 32、poe 28、gigabit 27、media converter 21、telecom 20、fiber 16、sfp 9、scada 8、surveillance 8
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, RJ-45, IEC61850, RFC2030, DC12-48, BW3208GP-2GF-8GTPOE, BW7212GP-4GT-8GTPOE, BWS3204GP-2GF-4GTPOE, BW2208BP-2TS, BW5105BP-3F, RS485, BW5208BP-2TS
+- **站内公开邮箱**：sales@bluewarrior.com
+- **产品类页面**：https://bluewarrior.com/products/；https://bluewarrior.com/solutions/industrial-scada/；https://bluewarrior.com/products/；https://bluewarrior.com/products/layer-2-din-rail-managed-ethernet-switches/bw7220-series/；https://bluewarrior.com/products/layer-2-rack-managed-ethernet-switches/bw7208-series/；https://bluewarrior.com/products/industrial-bypass-ethernet-switches/bw5105bp-3fm-s-2d485-can/
+- **已抓子页**：[Industrial PoE Switches / Layer 2 Gigabit Power Over Etherne](https://bluewarrior.com/product-category/industrial-poe-switches/)；[Industrial Ethernet Bypass Switches / Managed Optical Bypass](https://bluewarrior.com/product-category/industrial-bypass-ethernet-switches/)；[Layer 2 Managed Gigabit Switches (Industrial Ethernet) For S](https://bluewarrior.com/product-category/layer-2-rack-managed-ethernet-switches/)；[Industrial Layer 3 Switches / Managed Layer 3 Ethernet Switc](https://bluewarrior.com/product-category/layer-3-rack-managed-ethernet-switches/)；[Layer 2 Rack Mount Switches (Industrial, Un-Managed) For Sal](https://bluewarrior.com/product-category/layer-2-rack-un-managed-ethernet-switches/)；[Layer 2 Switches / Managed Layer 2 Industrial Ethernet Switc](https://bluewarrior.com/product-category/layer-2-din-rail-managed-ethernet-switches/)
+- 首页正文摘录：Products search 816.988.7861 0 Items Products Layer 2 Din-Rail Managed Ethernet Switches Layer 2 Din-Rail Un-Managed Ethernet Switches Layer 2 Rack Managed Ethernet Switches Layer 2 Rack Un-Managed Ethernet Switches Industrial By-Pass Ethernet Switches Industrial Media Converters Solutions All Solutions Smart Cities Connectivity Intelligent Transportation Systems Security Factory Automation Water & Waste Treatment Ra
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 209、PoE 28 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-050.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

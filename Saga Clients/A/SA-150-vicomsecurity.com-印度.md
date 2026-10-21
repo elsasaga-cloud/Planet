@@ -24,6 +24,7 @@ last_contact: 2025-06-21
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -106,6 +107,23 @@ updated: 2026-10-21
 - **风险/边界**：印度 BIS 与本地组装趋势；价格敏感；ODM 现供应商在位
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档
 - **邮件切入句（英文）**：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.vicomsecurity.com/　语言：en　站点地图 URL 数：30
+- **标题**：Vicom Security Private Limited
+- **首页栏目**：Welcome To VICOM / Sectors We Serve / Our Core Expertise / Our Clients
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 107、automation 45、switch 26、industrial 20、poe 19、cctv 17、surveillance 15、access control 9、distributor 7、fibre 1、ftth 1
+- **站内出现的品牌**：Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：VTD-9422E3B, IES7521-24PGE4GC-AC, IES7521-16PGE4TF-AC, IES7511-16PGE2GF-DC, VIES7511-8PGE2GF-DC, L2-VIES7511-8PGE2GE4GF-DC, VTD-9584S4, VTD-9584S3, VTD-9562E3BA, VTD-9554S4B, VTD-9554S4, VTD-9554S3A
+- **站内公开邮箱**：info@vicomsecurity.com
+- **站内公开电话**：+91 9830078655
+- **社媒**：https://www.facebook.com/vicomonline, https://www.instagram.com/bhutoriarajesh/, https://www.linkedin.com/company/vicomsecurity
+- **产品类页面**：https://www.vicomsecurity.com/shop/；https://www.vicomsecurity.com/shop/cart/；https://www.vicomsecurity.com/shop/checkout/；https://www.vicomsecurity.com/shop/my-account/
+- **已抓子页**：[Network Switch « Product Categories « Vicom Security Private](https://www.vicomsecurity.com/product_categories/network-switch/)；[Industrial Unmanaged POE Switch « Product Categories « Vicom](https://www.vicomsecurity.com/product_categories/industrial-unmanaged-poe-switch/)；[Dome Camera « Product Categories « Vicom Security Private Li](https://www.vicomsecurity.com/product_categories/dome-camera/)；[Bullet Camera « Product Categories « Vicom Security Private ](https://www.vicomsecurity.com/product_categories/bullet-camera/)；[Speed Dome Camera « Product Categories « Vicom Security Priv](https://www.vicomsecurity.com/product_categories/speed-dome-camera/)；[Video Conferencing Solutions « Product Categories « Vicom Se](https://www.vicomsecurity.com/product_categories/video-conferencing-solutions/)
+- 首页正文摘录：info@vicomsecurity.com Need Help? Talk to an Expert +91 9830078655 Home About About Us Our Clientele Message from the Managing Director The Team & Its Vision Solutions Security Access Control System Boundary Wall Guard Tour IP Surveillance System Smart Fleet Management System Video Door Phone Safety Fire Detection & Alarm SYstem Fire Protection System(Gas) Basement Ventilation Communication System Corporate Board Roo
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 25、PoE 19 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-150.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

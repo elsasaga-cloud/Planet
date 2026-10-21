@@ -24,6 +24,7 @@ last_contact: 2025-12-29
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -95,6 +96,22 @@ updated: 2026-10-21
 - **风险/边界**：军规/国防客户（Airbus Defence & Space、XSMIL）→ 守界，仅限水务/能源等民用线；制造商兼潜在竞争者；用户判定不行 → 不主动推进
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）
 - **邮件切入句（英文）**：（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.etictelecom.com/en/　语言：en-GB　站点地图 URL 数：427
+- **标题**：Home / Etic Telecom
+- **首页栏目**：Our solutions / Our product lines / Why choose Etic telecom / Our news / New M2Me Smartphone in 2026 / EticSIM: Simplified IoT Connectivity / EticCUBE solution: 4G antenna extension up to 100m / CSPN – ANSSI Evaluation
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 72、telecom 42、switch 31、ethernet 22、scada 4、surveillance 1、cable 1
+- **站内出现的品牌**：Schneider, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485, XSMIL-BP4200IB, XSMIL-FD4200, XELAN-FD200, IPL-E-100, IPL-EW-100, IPL-C-100, IPL-C-400, IPL-C-220, IPL-CW-400, IPL-CW-220
+- **站内公开邮箱**：contact@etictelecom.com, info@etictelecom.de
+- **站内公开电话**：+33 (04) 76 04 20 00, +49 (0)7221 396555-1, +49 7221 3965551
+- **产品类页面**：https://www.etictelecom.com/fr/switch-shdsl-pour-le-peripherique-parisien/；https://www.etictelecom.com/fr/switches-shdsl-pour-le-reseau-deau-de-bilbao/；https://www.etictelecom.com/fr/les-switches-shdsl-xsring-et-routeurs-etic-pour-le-reseau-de-traitement-deau-de-paris/；https://www.etictelecom.com/en/unibeton-sellects-m2me-solution-for-the-remote-maintenance-of-its-industrial-processes/；https://www.etictelecom.com/en/promalyon-has-chosen-ras-for-remote-maintenance-of-its-industrial-equipments/；https://www.etictelecom.com/en/shdsl-switches-for-bilbao-water-network/
+- **已抓子页**：[Industrial equipment networking / Etic Telecom](https://www.etictelecom.com/en/industrial-equipment-networking/)；[Industrial VPN router (IPL Family) / Etic Telecom](https://www.etictelecom.com/en/nos-gammes/industrial-router-ipl-family/)；[Archives des SHDSL tactical switch (XSMIL family) / Etic Tel](https://www.etictelecom.com/en/nos-gammes/durcie-tactical-shdsl-switch-xsmil-family/)；[Product documentation / Etic Telecom](https://www.etictelecom.com/en/products-documents-download/)；[Contact / Etic Telecom](https://www.etictelecom.com/en/contact/)；[About us / Etic Telecom](https://www.etictelecom.com/en/about-us/)
+- 首页正文摘录：About us Our range of products Machine Access Box (RAS Family) Industrial VPN router (IPL Family) Ethernet extender (XSLAN/XELAN Family) VPN servers (SIG Family) SHDSL tactical switch (XSMIL family) Our solutions Machine remote maintenance Industrial equipment networking Raising an alert Data storage & dashboard in the Cloud Tactical equipment networking Our news Supports Product documentation Virtual showroom Legal 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 76、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1026.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

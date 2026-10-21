@@ -22,6 +22,7 @@ last_contact: 2025-10-24
 p1: STI-110GE
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1030.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.lanpro.com/　语言：未标　站点地图 URL 数：450
+- **标题**：LanPro - Connect-and-Forget
+- **描述**：LanPro® is a leading provider of components for the network and telecom integrator, covering all sectors of the industry, as copper systems, fiber optics, metallic assemblies, wireless systems and active products. All under one roof.
+- **首页栏目**：Products and Capabilities / Custom Manufacturing / Time Line / Contact / Follow Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 40、cable 26、integrator 8、distributor 7、10g 5、data center 5、poe 4、ethernet 3、switch 2、sfp 1、media converter 1、fibre 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：asktolanpro@gmail.com, sales@lanpro.com
+- **站内公开电话**：+1 305-640-0733, +1 305.640.0733
+- **社媒**：https://instagram.com/lanproamerica, https://twitter.com/lanpronews, https://www.facebook.com/lanpro.lan, https://www.youtube.com/results?search_query=lanpro
+- **产品类页面**：http://www.lanpro.com/products.asp；http://www.lanpro.com/products/wireless/index.asp；http://www.lanpro.com/products/cabling_system/index.asp；http://www.lanpro.com/products/cabling_management/index.asp；http://www.lanpro.com/products/active/index.asp；http://www.lanpro.com/products/wireless/products/index.asp?id=1
+- **已抓子页**：[LanPro - Connect-and-Forget](https://www.lanpro.com/products/fiber_solutions/index.asp?ss=)；[LanPro - Connect-and-Forget](https://www.lanpro.com/products/fiber_solutions/products/index3.asp?id=28&ss=)；[LanPro - Connect-and-Forget](https://www.lanpro.com/products.asp)；[LanPro - Connect-and-Forget](https://www.lanpro.com/products/active/index.asp?ss=)；[LanPro - Connect-and-Forget](https://www.lanpro.com/products/cabling_system/index.asp?ss=)；[LanPro - Connect-and-Forget](https://www.lanpro.com/products/cabling_management/index.asp?ss=)
+- 首页正文摘录：+1 305.640.0733 sales@lanpro.com DM: asktolanpro@gmail.com 33172 USA, Doral, Florida Toggle navigation Home Products Company Support Contact Pages Training Library Certifications EN SP NxGPoE (NextGen LanTester) ALL-IN-ONE Compact Professional Tool By LANPRO PoE TESTER up to 100W Network Cable Tester and Maping Tester Previous Next Products and Capabilities Cabling Systems Copper Solutions for demanding Customer. 10G
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 4 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1030.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

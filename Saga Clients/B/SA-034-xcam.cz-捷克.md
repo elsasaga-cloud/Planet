@@ -25,6 +25,7 @@ last_contact: 2025-11-06
 p1: STI-144GP
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -95,6 +96,21 @@ updated: 2026-10-21
   - 已成交（用户表）+ 自有 X- 标工业 PoE 小机在售 → 直接的 OEM 续单型客户：STI-144GP 对位其 4+1 主力 SKU，STI-288DGGPM 补其 DIN 8 口管理空缺
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
 - **邮件切入句（英文）**：For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.xcam.cz/　语言：cs　站点地图 URL 数：0
+- **标题**：Home - Xcam.cz
+- **描述**：Využíváte intelligenci kamerových systémů, nebo kamery v Cloudu ?? Kontaktujte nás Naše služby Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba. Zajištění instalace bezpečnostních alarmů a přístup
+- **首页栏目**：Využíváte intelligenci kamerových systémů, nebo kamery v Cloudu ?? / Naše služby / Automatické vjezdy se závorami, čtení SPZ vozidel, evidence vjezdů a docházka / Timelaps / časosběr dohled na stavbách, Solární panely pro napájení / Zajímavé články / Instalace kamer na Fotovoltaické elektrárně / Produkty / LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 20、industrial 16、switch 14、sfp 10、ethernet 5、nvr 2、gigabit 1、axis 1
+- **站内出现的品牌**：Axis, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：X-IMC005GP, X-104GP-SFP, CZ-720, CZ29397839
+- **站内公开邮箱**：info@xcam.cz
+- **已抓子页**：[LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial - Xcam.cz](https://www.xcam.cz/produkt/kamera/)；[LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC00](https://www.xcam.cz/produkt/imc005gp/)；[Instalace kamer na Fotovoltaické elektrárně - Xcam.cz](https://www.xcam.cz/2025/03/24/instalace-kamera-na-solar-fieldu/)
+- 首页正文摘录：Warning : Undefined array key "options" in /data/a/5/a5d13aaa-44a3-4d5b-b396-f156699e5b30/xcam.cz/www/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 124 Přeskočit na obsah Domů Naše služby Zajímavé články Produkty Kontakt Servis Menu Domů Naše služby Zajímavé články Produkty Kontakt Servis Kč 0.00 0 Cart Přihlásit se Využíváte intelligenci kamerových systémů, nebo kamery v Cloudu
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 16、PoE 20 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-034.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -78,6 +79,18 @@ updated: 2026-10-21
 - **风险/边界**：无公开资料；语言；无后续跟进
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
 - **邮件切入句（英文）**：Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://labormuhendislik.com.tr/　语言：zxx　站点地图 URL 数：0
+- **标题**：Anasayfa / Labor Elevator
+- **首页栏目**：LABOR MÜHENDİSLİK ELEVATOR ELECTRONIC / Biz Neler Yapıyoruz? / BAKIM / MODERNIZASYON / KURULUM / DESTEK / 297 / 643
+- **站内公开邮箱**：info@emekelektronik.com, info@laborelevator.com, info@labormuhendislik.com
+- **站内公开电话**：+90 (412) 257 63 26, +90 (541) 257 63 26
+- **社媒**：https://www.facebook.com/labormuhendislik, https://www.instagram.com/labormuhendislik, https://www.linkedin.com/in/labormuhendislik, https://www.twitter.com/labormuhendislik, https://www.youtube.com/labormuhendislik, https://www.youtube.com/watch?v=re9zg-2Noig
+- **已抓子页**：[Ürünlerimiz / Labor Elevator](https://labormuhendislik.com.tr/products)；[Hakkımızda / Labor Elevator](https://labormuhendislik.com.tr/abaout)；[İletişim / Labor Elevator](https://labormuhendislik.com.tr/contact)；[Servislerimiz / Labor Elevator](https://labormuhendislik.com.tr/services)
+- 首页正文摘录：info@laborelevator.com +90 (412) 257 63 26 ANASAYFA HAKKIMIZDA SERVİSLERİMİZ PROJELERİMİZ ÜRÜNLERİMİZ İLETİŞİM LABOR MÜHENDİSLİK ELEVATOR ELECTRONIC Değer katar, farklılık yaratırız. Bize Ulaşın Biz Neler Yapıyoruz? Labor Elevator markası ile Doğu ve Güneydoğu başta olmak üzere ülkemizin her noktasına asansör ve yürüyen merdiven sektöründe montaj ve satış sonrası hizmetler alanında faaliyet gösteriyoruz. BAKIM Asansö
+- 数据文件：`data/saga_clients/site_snapshots/SB-058.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

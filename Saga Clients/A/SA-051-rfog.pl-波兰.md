@@ -24,6 +24,7 @@ last_contact: 2025-10-10
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -111,6 +112,24 @@ updated: 2026-10-21
 - **风险/边界**：已有 N-Net 贴牌来源 + PLANET/MOXA 正牌，Saga 需以 Marvell 平台 + 价格切入「RF-」自有线；波兰语资料/CE 文件需配齐
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——RF-GP2808PGM（8 GE PoE + 2 SFP 工业管理）与 STI-288DGGPM 同位；RF-GP2408PGM/7204GE 对位 STI-144GP；商用 RF-SW-08GE 对位 STC-28DGGPM；分销 20% 档可贴 RF- 型号
 - **邮件切入句（英文）**：Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.rfog.pl/　语言：pl　站点地图 URL 数：5662
+- **标题**：Transmisja światłowodowa i sieci światłowodowe. Światłowody, media konwertery, moduły SFP. Znakowanie zwierząt.
+- **描述**：Projektowanie sieci światłowodowych, urządzenia światłowodowe, splittery optyczne PLC, multipleksery CWDM i DWDM, transmisja CATV w sieciach FTTH
+- **首页栏目**：Sieci światłowodowe / Sieci miedziane / CCTV telewizja przemysłowa / Identyfikacja elektroniczna / Polecane produkty / Mini konwerter enkoder do sieci IP 4 kanałów sygnałów HDMI Full HD HDCP HLS / Mini konwerter enkoder do sieci IP sygnałów HDMI Full HD HDCP HLS H.264 / Światłowodowy konwerter 1 kanału cyfrowego sygnału HD-SDI
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 164、poe 95、10g 57、ftth 39、switch 33、cctv 33、ethernet 30、gigabit 25、cable 20、2.5g 18、planet 10、fiber 5
+- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RF-GP2206-INDU-POE-NNT, RJ-45, RF-MINI-ENCO, RF-MINI-ENCO-HDMI-99HD-DTN, RF-MINI-ENCO-HDMI-88HD-DTN, RF-MINI1V-HD-SDI-5VDC-T, RJ45-10G-WTC, RF-KNV-2E1, RF-TVWALL-HDMI-5525-LKM, RF-TVWALL-HDMI-4416-LKM, RF-TVWALL-HDMI-2510-LKM, RF-TVWALL-HDMI-2408-LKM
+- **站内公开邮箱**：bok@rfog.pl, handel@rfog.pl
+- **站内公开电话**：+48 602 794 466, +48 730 268 588, +48 797 720 797
+- **社媒**：https://www.facebook.com/RFOGPL/
+- **产品类页面**：https://www.rfog.pl/produkt,3023,mini-konwerter-enkoder-do-sieci-ip-4-kanalow-sygnalow-hdmi-full-hd-hdcp-hls-rf-mini-enco-4xhdmi-884hd-dtn-tx；https://www.rfog.pl/produkt,3024,mini-konwerter-enkoder-do-sieci-ip-8-kanalow-sygnalow-hdmi-full-hd-hdcp-hls-rf-mini-enco-8xhdmi-888hd-dtn-tx；https://www.rfog.pl/produkt,2990,mini-konwerter-enkoder-do-sieci-ip-sygnalow-hdmi-i-vga-h264-dwukierunkowe-audio-rf-mini-enco-hdmi-vga-2mec-tx；https://www.rfog.pl/produkt,2989,media-konwerter-10g-sfp-planet-xt-705a；https://www.rfog.pl/produkt,3080,switch-zarzadzalny-przemyslowy-planet-4-portow-gigabit-ethernet-z-4-portami-poe-36w-i-2-portami-sfp-igs-5225-4p2s-l2；https://www.rfog.pl/produkt,3088,profesjonalny-enkoder-sdihdmi-vga-ypbpr-av-input-strumieniowania-provideo-rf-enco-sdi-2098n-hdmi-cast
+- **已抓子页**：[Przemysłowy niezarządzalny przełącznik switch Gigabit 2xSFP ](http://www.rfog.pl/produkt,3202,przemyslowy-niezarzadzalny-przelacznik-switch-gigabit-2xsfp-100-1000m-2xeth-10-100-1000m-90w-poe-rf-gp2206-indu-poe-nnt)；[Moduł światłowodowy przemysłowy SFP PLANET 100BASE-FX Multi ](http://www.rfog.pl/produkt,2819,modul-swiatlowodowy-przemyslowy-sfp-planet-100base-fx-multi-mode-ddm-lc-duplex-2km-mfb-tsa-mfb-tsb)；[Kamery IP wewnętrzne i zewnętrzne, akcesoria do kamer IP, ob](http://www.rfog.pl/oferta,3,cctv-telewizja-przemyslowa)；[Mufa światłowodowa mini RF-MU600 niewielkich rozmiarów](http://www.rfog.pl/produkt,945,mufa-swiatlowodowa-mini-rfmu600a)；[Puszka abonencka terminal FTTB, FTTH - RF-FTTB-WD263](http://www.rfog.pl/produkt,1152,puszka-abonencka-terminal-fttb-ftth--rffttbwd263)；[Enkoder HDMI do sieci IP sygnałów Full HD WebrtC RTSP ONVIF ](http://www.rfog.pl/produkt,3375,enkoder-do-sieci-ip-sygnalow-hdmi-full-hd-webrtc-rtsp-onvif-h265-usb-rf-enco-hdmi-90hd-digi-tx)
+- 首页正文摘录：Oferta O firmie Referencje Nasi klienci Współpraca z nami Praca u nas Rynki zbytu Nadawcy telewizyjni Służba zdrowia Instytucje edukacyjne Instytucje rządowe Centra nadzoru wideo Warunki handlowe Reklamacje Polityka prywatności Zasady zwrotu towaru Serwis i support Polityka prywatności Instrukcje Reklamacje Zgłoszenie RMA Wiedza i Technologia Artykuły FAQ Linki RFOG TV - live Promocje Wyprzedaże Kontakt Sieci światło
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 75、交换机 33 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-051.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

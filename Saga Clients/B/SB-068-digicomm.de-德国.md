@@ -22,6 +22,7 @@ last_contact: 2025-10-17
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-02 → 2025-10-17）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-068.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.addsecure.de/kritische-infrastrukturen/?digicomm　语言：de-DE　站点地图 URL 数：322
+- **标题**：Kritische Infrastrukturen - Germany
+- **描述**：Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen.
+- **首页栏目**：Kritische Infrastrukturen / Unsere Lösungen für Ihre sichere Datenkommunikation​ / Mit Sicherheit: Unsere Produkte für Ihre OT-Anwendungen / LWL / Glasfaser / Kupfer / Funknetze / Software/Security / AddSecure LINK
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 6、automation 1、axis 1
+- **站内型号串**（正则抽取，含非交换机）：VRM-108, SHDTU-1, SHRM-05, SHRM-08, DSR-2XX, LTE450, DSR-514-5G, LTE-450
+- **站内公开邮箱**：info@addsecure.com
+- **站内公开电话**：+49 2159 81460, +49 49507753990, +4921596937535
+- **产品类页面**：https://www.addsecure.de/blog/verbessert-ein-transportmanagementsystem-die-produktivitaet/；https://www.addsecure.de/produkt-webinar-navcam-ondemand/；https://www.addsecure.de/kritische-infrastrukturen/produkte-addsecure-link/；https://www.addsecure.de/fuhrparkmanagement-und-fahrzeugortung/produkte/；https://www.addsecure.de/alarme/alarm-produkte/；https://www.addsecure.de/kritische-infrastrukturen/produkte-uebersichtsseite/
+- **已抓子页**：[Alarm Produkte - Germany](https://www.addsecure.de/alarme/alarm-produkte/)；[Alarmübertragung - Germany](https://www.addsecure.de/alarme/alarm-produkte/alarmuebertragung/)；[Produkte - Professionelle Services - Germany](https://www.addsecure.de/kritische-infrastrukturen/produkte-professionelle-services/)；[Notfallalarme - Germany](https://www.addsecure.de/persoenliche-sicherheit/notfallalarme/)；[Produkte - Funk - Germany](https://www.addsecure.de/kritische-infrastrukturen/produkte-funk/)；[Produkte - Kupfer - Germany](https://www.addsecure.de/kritische-infrastrukturen/produkte-kupfer/)
+- 首页正文摘录：Skip to content Weitere Infos +4921596937535 Kontaktieren Sie uns Lösungen Toggle "Lösungen" menu IoT Konnektivität Toggle "IoT Konnektivität" menu IoT Konnektivität Übersicht Lösungen Toggle "Lösungen" menu IoT Konnektivitätsmanagement, Link Manager Globale Konnektivität Sicherheitsmanagement Apps Toggle "Apps" menu Link Manager Mobile Service Activator App Alarme Toggle "Alarme" menu Alarm Übersicht Alarm Produkte 
+- 数据文件：`data/saga_clients/site_snapshots/SB-068.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -166,7 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

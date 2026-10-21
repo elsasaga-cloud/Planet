@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -59,6 +60,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1043.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://intracom-telecom.com/　语言：en　站点地图 URL 数：1220
+- **标题**：Intracom Telecom - Intracom Telecom
+- **首页栏目**：Beyond Fiber. Without Limits. / Innovative Solutions for a connected world! / WiBAS™ G5 MDUConnect / Securing Critical Missions & Infrastructure / AI-powered solutions to optimize operations / Accelerating BEAD Broadband Deployments / Our Offerings / Wireless Network Systems
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 220、telecom 130、automation 55、industrial 36、distributor 30、surveillance 29、fiber 17、cable 15、gigabit 6、data center 3、ethernet 1、2.5g 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：ip-mpls@intracom-telecom.com, sales@intracom-telecom.com, unims@intracom-telecom.com, you@example.com
+- **社媒**：https://twitter.com/IntracomTelecom, https://www.facebook.com/intracomtelecom, https://www.linkedin.com/company/intracom-telecom, https://www.youtube.com/user/IntracomTelecom
+- **产品类页面**：https://www.intracom-telecom.com/tags/copper-switch-off/；https://www.intracom-telecom.com/products/wns/home-business_fwa/wibasg5_mduconnect/；https://www.intracom-telecom.com/corporate/certificates/defense_industrial_security/；https://www.intracom-telecom.com/products/userguides/；https://www.intracom-telecom.com/products/wns/turnkey_services/turnkey_implementation_services/；https://www.intracom-telecom.com/products/wns/turnkey_services/
+- **已抓子页**：[Intracom Telecom - Network Operations](https://intracom-telecom.com/products/sw_services/network_operations/)；[Intracom Telecom - Cloud, Networking & Security](https://intracom-telecom.com/products/sw_services/cloud_networking_security/)；[Intracom Telecom - Turnkey Implementation Services](https://intracom-telecom.com/products/wns/turnkey_services/turnkey_implementation_services/)；[Intracom Telecom - Wireless Network Systems](https://intracom-telecom.com/products/wns/)；[Intracom Telecom - IP/MPLS Suite](https://intracom-telecom.com/products/wns/network_automation_sw/ip_mpls/)；[Intracom Telecom - uni/MSâ¢ PlanIt](https://intracom-telecom.com/products/wns/network_automation_sw/unims_planit/)
+- 首页正文摘录：Main navigation Home Wireless Network Systems Wireless Network Systems Portfolio Home/Business FWA Backhaul & Fronthaul Network Automation Software Professional Services TurnKey Services Distributor /SI /VAR Products Point-to-MultiPoint Terminal Station WiBAS™ G5 GigaConnect+ WiBAS™ G5 GigaConnect WiBAS™ G5 MDUConnect WiBAS™- Connect WiBAS™ G5 Connect+ Point-to-MultiPoint Base Station WiBAS™ G5 Dual WiBAS™ G5 Evo WiB
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 41、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1043.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +163,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

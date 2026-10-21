@@ -22,6 +22,7 @@ last_contact: 2025-10-06
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 18 次（2023-12-15 → 2025-10-06）；最近一次客户回复：2024-03-14：问了一个不相关的产品
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-022.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.densoelectronics.com/　语言：en　站点地图 URL 数：42
+- **标题**：Electronics Supplier & Services / Denso Electronics / Zambia
+- **描述**：Electronics Supplier & Services / Denso Electronics / Zambia
+- **首页栏目**：About Us / Contact
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 2、wireless 2、industrial 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：DVT8110, DVT4110, DVT2110, PSM6000
+- **站内公开邮箱**：605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, 9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com, c183baa23371454f99f417f6616b724d@sentry.wixpress.com, cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com
+- **站内公开电话**：+260212615190, +260212615367, +260977823625
+- **产品类页面**：https://www.densoelectronics.com/product-page/philips-speechexec-pro-7277-transcriber；https://www.densoelectronics.com/product-page/philips-dvt4110-for-lectures-interviews；https://www.densoelectronics.com/product-page/tc78-mobile-computer；https://www.densoelectronics.com/product-page/philips-dvt8110-for-meeting-recording；https://www.densoelectronics.com/product-page/zd230t-value-desktop-4-inch-wide-standard；https://www.densoelectronics.com/product-page/hp-1-gb-ddr3-x32-144-pin-800mhz-sodimm
+- **已抓子页**：[About The Company / Denso Electronics / Zambia](https://www.densoelectronics.com/about-the-company)；[Philips DPM 7000 / Denso Electronics ZM](https://www.densoelectronics.com/product-page/philips-dpm-7000)；[Philips DPM 8000 / 8200 / Denso Electronics ZM](https://www.densoelectronics.com/product-page/philips-dpm-8000-8200)；[Philips DPM 8900 conference Kit / Denso Electronics ZM](https://www.densoelectronics.com/product-page/philips-dpm-8900-conference-kit)；[Philips Conference Microphone 9172 / Denso Electronics ZM](https://www.densoelectronics.com/product-page/philips-conference-microphone-9172)；[Philips SpeechOne Dictation Headset / Denso Electronics ZM](https://www.densoelectronics.com/product-page/philips-speechone-dictation-headset)
+- 首页正文摘录：top of page Home About Us Contact Us Shop Brands ICT News Solutions Careers Book Online Quality Control Social Responsibility Certifications More Use tab to navigate through the menu items. Log In Welcome! Denso Electronic Solutions stands at the forefront of innovation, harnessing the power of Technology and the Internet of Things (IoT) to revolutionize the industry. Your Premium ICT Solution Provider. Denso Electro
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-022.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

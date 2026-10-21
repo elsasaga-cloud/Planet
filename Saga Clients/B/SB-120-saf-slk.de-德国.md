@@ -24,6 +24,7 @@ last_contact: 2025-10-27
 p1: STI-280DGGM
 price_tier: 25%
 research: done
+site_snapshot: none
 sources: 3
 updated: 2026-10-21
 ```

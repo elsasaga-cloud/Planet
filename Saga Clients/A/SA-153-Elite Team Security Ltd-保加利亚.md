@@ -24,6 +24,7 @@ last_contact: 2025-12-04
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -106,6 +107,19 @@ updated: 2026-10-21
 - **风险/边界**：公共采购（市政）部分守界：仅供集成商商用部分，不介入投标文件；量小（每项目数十台）
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——4/8 口 PoE 需求：STC-28DGGPM（8 PoE + 2 SFP 管理）为主、STI-144GP（4+1 工业，户外箱内）为辅；集成商 25% 档
 - **邮件切入句（英文）**：For the 4- and 8-port PoE positions on your camera sites, the 8-port gigabit PoE+ managed unit and the 4+1 industrial DIN model are the two I am sending with a full price list and datasheets as you asked.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://elitteamsecurity.com/　语言：bg-BG　站点地图 URL 数：183
+- **标题**：ЕЛИТ–ТИМ-СЕКЮРИТИ ООД – лицензирана охранителна фирма, действаща на територията на цялата страна
+- **首页栏目**：Вашата сигурност - Наша отговорност / Как помагаме / Достъпна сигурност сега! / Нашите услуги / Умен дом / Сигнално-охранителни системи / Обществен трезор / Охрана на земеделски земи, посеви и Периметрова охрана
+- **站内出现的品牌**：Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FD9189-HT, FD9189-H, FD9387-EHTV-A, FD9387-HTV-A, FD9389-EHTV, FD9389-EHV, CD9381-HNVF2, CD9381-HNTV, FD9167-HT, FD9360-H, FD9365-EHTV-A, FD9365-HTV-A
+- **站内公开邮箱**：e_t_security@abv.bg, ets@elitteamsecurity.com
+- **产品类页面**：https://elitteamsecurity.com/produkti/；https://elitteamsecurity.com/category/products/；https://elitteamsecurity.com/category/products/cameras/；https://elitteamsecurity.com/category/products/aiva/；https://elitteamsecurity.com/category/products/cameras/bulletcamera/；https://elitteamsecurity.com/category/products/vivotek/
+- **已抓子页**：[Продукти – ЕЛИТ–ТИМ-СЕКЮРИТИ ООД](https://elitteamsecurity.com/produkti/)；[Контакти – ЕЛИТ–ТИМ-СЕКЮРИТИ ООД](https://elitteamsecurity.com/kontakti/)
+- 首页正文摘录：Поискай оферта × Изпрати Как помагаме Как използваме AI технологията Как обработваме получените сигнали Как реагираме на заплахи Как да започнем Услуги Умен дом Сигнално-охранителни системи (СОТ) Обществен трезор Земеделски земи и Периметрова охрана Видеонаблюдение Охрана на села Контрол на достъп - Жилищна сграда Интегрирани системи за сигурност (BSS) Физическа охрна на обекти Пожароизвестителни системи Домофонни си
+- 数据文件：`data/saga_clients/site_snapshots/SA-153.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

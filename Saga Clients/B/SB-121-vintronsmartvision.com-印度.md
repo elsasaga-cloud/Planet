@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: none
 sources: 4
 updated: 2026-10-21
 ```

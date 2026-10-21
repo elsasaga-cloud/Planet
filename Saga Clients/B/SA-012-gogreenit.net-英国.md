@@ -25,6 +25,7 @@ last_contact: 2025-10-14
 p1: STI-42424XGGPM-4BT
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -101,6 +102,21 @@ updated: 2026-10-21
 - **风险/边界**：一次性自用采购（1 台），非渠道复购——保持 B；价值在于背书与产品反馈，不在销量
 - **Saga 对位结论**：P1 STI-42424XGGPM-4BT（25% 档）——已购 STI-42424XGGPM-4BT 自用；后续仅可能补 STI-144GP / STI-288DGGPM 小机；主要动作是征得评测引用许可 + 回传固件反馈
 - **邮件切入句（英文）**：Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gogreenit.net/　语言：未标　站点地图 URL 数：0
+- **标题**：Go Green IT - Home
+- **描述**：Welcome to Go Green IT, please check out what services we offer
+- **首页栏目**：Welcome / Hosting / GOGREEN IT / Contact Us! / Sustainability
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 19、switch 8、automation 3、ethernet 3、gigabit 3、telecom 3
+- **站内出现的品牌**：Saga（！）　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RW-11, SR1000T-248, POE-SW708GM-DC12V, WRM15, IEEE802
+- **站内公开邮箱**：info@mammut.gogreenit.net
+- **已抓子页**：[Go Green IT - PoE Extenders](https://gogreenit.net/index.php?page=poe-extenders)；[Go Green IT - Contact Us](https://gogreenit.net/?page=contact-us)
+- 首页正文摘录：menu Why ? Previous Clients CSR Products Services Power Consumption Tables Equipment Recycling Home Automation WisQo Smart Lighting Green Reviews Mildef RW-11 Stovax Sheraton 5 Wide MorningStar TriStar 60A MPPT PowerTech LiFePO4 Batteries Cotek SR1000T-248 Inverter Linovision POE-SW708GM-DC12V PoE Extenders AOLithium 51.2V LiFePO4 MorningStar SureSine Saga Telecom Switch NetIO PDUs Nordstrand AC Pump Western WRM15-du
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 19、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-012.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

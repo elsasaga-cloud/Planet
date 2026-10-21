@@ -22,6 +22,7 @@ last_contact: unknown
 p1: STC-448XGGM(L3)
 price_tier: 20%
 research: pending
+site_snapshot: none
 sources: 1
 updated: 2026-10-21
 ```

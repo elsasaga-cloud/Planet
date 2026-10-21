@@ -25,6 +25,7 @@ last_contact: 2025-10-27
 p1: STC-424XGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: unreachable  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-11-19：1120email发了28poe
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -68,6 +69,15 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。
 - 备注：WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：4demand.co.uk
+  > https://4demand.co.uk/ conn: HTTPSConnectionPool(host='4demand.co.uk', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTT
+  > https://www.4demand.co.uk/ conn: HTTPSConnectionPool(host='www.4demand.co.uk', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(
+  > http://4demand.co.uk/ conn: HTTPConnectionPool(host='4demand.co.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPC
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SA-107.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -172,6 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

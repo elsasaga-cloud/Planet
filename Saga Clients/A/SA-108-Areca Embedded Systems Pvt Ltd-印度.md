@@ -24,6 +24,7 @@ last_contact: 2025-06-21
 p1: none
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -96,6 +97,19 @@ updated: 2026-10-21
 - **风险/边界**：8 光 8 电非 Saga 标准型谱；印度 BIS；**守界风险**：主业铁路 + 国防（INH 规则：rail/military 不供）；Saga 无 EN50155/军规资质。保留 A 仅因互动强、需求明确；下一封邮件先问用途，若为铁路信号/军用则转 B 并停止报价（见 Q-30）
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档
 - **邮件切入句（英文）**：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://areca.in/　语言：en　站点地图 URL 数：0
+- **标题**：Areca Embedded Systems Private Limited
+- **首页栏目**：Areca We Innovate Solutions / About Us / Vision / Mission / Quality Policy / OUR PRODUCTS / Smart Coach ( PICCU ) / IPIS 108
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 12、telecom 6、cable 6、industrial 5、oem 1
+- **站内型号串**（正则抽取，含非交换机）：PAPIS-CG18001, BRS930-931
+- **站内公开邮箱**：info@areca.in
+- **已抓子页**：[Areca Embedded Systems Private Limited](https://areca.in/product-development-service.php)；[Areca Embedded Systems Private Limited](https://areca.in/product.php)；[Areca Embedded Systems Private Limited](https://areca.in/about.php)；[Areca Embedded Systems Private Limited](https://areca.in/customer-service.php)
+- 首页正文摘录：Call Us : 040-27263366 Email : info@areca.in Home Company About Us Our Journey Engineering and R&D Our Profile Products RAILWAYS KAVACH LTE for Railways (LTE-R) EARTH LEAKAGE DETECTOR PIS For AC and Non AC Coaches PIS FOR EMUs / MEMUs RMPU Seat Back Display Infotainment Wifi Infotainment system Smart Coach ( PICCU ) IPIS 108 PAPIS-CG18001 Signaling Relays Q series (BRS930-931) Emergency Lights for Coaches GPS Clocks 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-108.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

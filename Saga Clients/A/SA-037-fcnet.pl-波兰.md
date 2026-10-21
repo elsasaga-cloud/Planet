@@ -24,6 +24,7 @@ last_contact: 2025-09-16
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 7 次（2025-02-04 → 2025-09-16）；最近一次客户回复：2025-04-18：price
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -113,6 +114,15 @@ updated: 2026-10-21
 - **风险/边界**：TP-Link 价格锚点低，自有 logo 需靠更低进货价 + 本地化（波兰语说明书、CE/WEEE）支撑；小体量（~1,000 万 PLN 营收）
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档
 - **邮件切入句（英文）**：Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：fcnet.pl
+  > https://fcnet.pl/ http 403 ct=text/html; charset=utf-8
+  > https://www.fcnet.pl/ http 403 ct=text/html; charset=utf-8
+  > http://fcnet.pl/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-037.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -210,6 +220,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

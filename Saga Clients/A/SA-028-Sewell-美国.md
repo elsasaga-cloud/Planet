@@ -24,6 +24,7 @@ last_contact: 2025-11-04
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -110,6 +111,23 @@ updated: 2026-10-21
 - **风险/边界**：消费电商价格战，量大价低；注入器不在 Saga 核心线（需 SmartByte 代采，标注）；UL/FCC：美国零售电源类需 UL 认证，Saga 无 UL → 只能供 FCC/CE 的网络设备而非电源适配器
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——Sewell 在售 PoE 注入器为 10/100 af 单口 → 升级位是 4+1 千兆 PoE 小交换机（STI-144GP，电商档 20%）与 8 口 STC-28DGGPM；注入器/电源本身继续走其现有采购，Saga 不报电源
 - **邮件切入句（英文）**：Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sewelldirect.com/　语言：en　站点地图 URL 数：121
+- **标题**：HDMI & Audio/Video Products for Home Theater — Sewell Direct
+- **描述**：Easy to use, affordable AV products such as banana plugs, speaker cables, XLR, HDMI splitters, switches and cables. Fast, free shipping and expert tech support.
+- **首页栏目**：HDMI & Audio/Video Products for Home Theater / Speaker Cables / 10 AWG Preterminated Speaker Cables / IR Extenders / Banana Plugs / as seen on / AirStick / Ghost Wire
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 83、wireless 47、switch 31、ethernet 22、fiber 5、cctv 1、planet 1
+- **站内出现的品牌**：D-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SW-29317, RS-232, RS232, IEEE-488, SW-29863-6
+- **站内公开邮箱**：sales@sewelldirect.com, service@sewelldirect.com
+- **社媒**：https://facebook.com/sewelldirect, https://instagram.com/sewelldirect, https://twitter.com/share?url=https://sewelldirect.com/products/deadbolt-banana-plugs, https://twitter.com/share?url=https://sewelldirect.com/products/ir-emitter, https://www.facebook.com/sharer.php?u=https://sewelldirect.com/products/deadbolt-banana-plugs, https://www.facebook.com/sharer.php?u=https://sewelldirect.com/products/ir-emitter
+- **产品类页面**：https://sewelldirect.com/sitemap_products_1.xml?from=1653837103150&amp;to=7651193126958；https://sewelldirect.com/blogs/learning-center/switches-vs-splitters-vs-matrixes；https://sewelldirect.com/blogs/learning-center/what-is-an-hdmi-switch-and-do-i-need-one；https://sewelldirect.com/blogs/learning-center/how-to-use-the-psvr-with-xbox-switch-or-other-console；https://sewelldirect.com/blogs/learning-center/the-top-5-differences-between-an-hdmi-splitter-and-hdmi-switch
+- **已抓子页**：[Ethernet Network Cables / Sewell — Sewell Direct](https://sewelldirect.com/collections/network-cable)；[HDMI Splitters, Switches, and Matrixes — Sewell Direct](https://sewelldirect.com/collections/switches-splitters-and-matrixes)；[Replacement IR Emitter by Sewell / Compatible with BlastIR I](https://sewelldirect.com/products/ir-emitter)；[All Products — Sewell Direct](https://sewelldirect.com/collections/all-products)；[Product Customization and Bulk Discounts Available — Sewell ](https://sewelldirect.com/pages/custom-orders-available)；[Sewell Deadbolt® Banana Plugs — Sewell Direct](https://sewelldirect.com/products/deadbolt-banana-plugs)
+- 首页正文摘录：Skip to content Menu Cancel Login View cart Audio Banana Plugs Speaker Wire Ghost Wire XLR 3.5 mm/RCA Video HDMI Cables HDMI Extenders HDMI Splitters, Switches, and Matrixes HDMI Adapters/Converters USB Video Capture VGA IR Extenders BlastIR Wireless BlastIR Wired BlastIR Wall Plates IR Receivers/Emitters AirStick™ Microsuction Tape Computer/Other USB Charging Cables Power Extension Cables MOS Pack Accessories Networ
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 31、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-028.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

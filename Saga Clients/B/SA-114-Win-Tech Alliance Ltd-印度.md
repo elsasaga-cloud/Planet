@@ -25,6 +25,7 @@ last_contact: 2025-06-21
 p1: STC-424XGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；回复暂无需求 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-21）；最近一次客户回复：2024-07-16：发邮件给他 他发需求
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -67,6 +68,14 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。
 - 备注：若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+
+- 尝试域名：win-alliance.com
+  > https://win-alliance.com/ conn: HTTPSConnectionPool(host='win-alliance.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(
+  > https://www.win-alliance.com/ conn: HTTPSConnectionPool(host='www.win-alliance.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr
+- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
+- 数据文件：`data/saga_clients/site_snapshots/SA-114.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,6 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

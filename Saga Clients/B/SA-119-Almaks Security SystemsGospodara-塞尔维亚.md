@@ -25,6 +25,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -97,6 +98,20 @@ updated: 2026-10-21
 - **风险/边界**：塞尔维亚非主动挖掘国家（INH 规则）——仅就现有成交关系慢跟；消防/灭火线守界不供
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM
 - **邮件切入句（英文）**：Alongside the Hikvision and Dahua lines you distribute, the Marvell-based 8-port PoE+ 2-SFP managed switch is EXW-priced for distributor stock; what quantity per quarter would you want me to price for Belgrade?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.almaks.rs/　语言：sr-RS　站点地图 URL 数：77
+- **标题**：Main home - Almaks
+- **描述**：Almaks nudi profesionalne sisteme tehničke zaštite, video nadzor, alarmne sisteme i GPS praćenje vozila u Beogradu i Srbiji.
+- **首页栏目**：Različita rešenja sistema za nadzor, praćenje i zaštitu / Novosti i realizovani projekti / Naše usluge i servisi su deo sveobuhvatnog procesa zaštite / Naši partneri na projektima zaštite i bezbednosti / Istorija kompanije, sadašnjost i planovi za budućnost / Istorija ukratko / Projekti na koje smo veoma ponosni / Procene rizika za sve vrste sistema zaštite
+- **站内公开邮箱**：almaks@almaks.rs, marketing@almaks.rs
+- **站内公开电话**：+381 11 2852 606, +381 11 2852 607
+- **社媒**：https://www.facebook.com/Almaks-144280382426041, https://www.instagram.com/explore/locations/1019880223/almaks/, https://www.linkedin.com/company/almaks-security-systems/, https://www.youtube.com/watch?v=q908twwnzCQ
+- **产品类页面**：https://www.almaks.rs/shop/
+- **已抓子页**：[Naši partneri - Almaks](https://www.almaks.rs/nasi-partneri/)
+- 首页正文摘录：Almaks inženjering Naši procesi Naši servisi Proizvodi Projektni inženjering Proizvodi Almaks ERV GPS praćenje Praćenje vozila Transport i logistika Procene rizika Zaštita lica, imovine i poslovanja Procena rizika od katastrofa IT, IoT, AI Obuke Obuka za privatno obezbeđenje PROGRAM O1 PROGRAM O3 PROGRAM O4 Procena rizika od katastrofa OBUKA ZA DOBIJANJE LICENCE O nama O kompaniji Politika kvaliteta Poslovni ciljevi 
+- 数据文件：`data/saga_clients/site_snapshots/SA-119.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,6 +22,7 @@ last_contact: 2025-10-27
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -68,6 +69,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1002.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://teamon.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：TeamOn ile teknoloji elinizde!
+- **描述**：TeamOn Teknoloji Çözümleri TeamOn Teknoloji Çözümleri
+- **首页栏目**：Hızlı Geridönüş / Uygun Fiyatlar / 24/7 Servis / 2DIRECT / AEM / ALLIED TELESIS / AMP NETCONNECT / ASSMANN
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 48、poe 31、fiber 22、ethernet 22、planet 21、sfp 12、wireless 10、industrial 7、wifi 7、10g 6、surveillance 3、oem 3
+- **站内出现的品牌**：PLANET, Allied Telesis, Netgear, Ruijie, Teltonika, D-Link, TP-Link, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PL-AVS-4210-8HP2X, PL-IGS-4215-16T2S, F-F041AYK, F-F057DO42U, TE-TSF010, BT-LT600S, BN-FC-C9LCALCA, BN-FC-C9SCASCA, BC-FO-PT9LCA-01, BC-FO-PT9SCA-01, PL-IGS-6325-8UP2S2X, RJ-45
+- **站内公开邮箱**：info@teamon.com.tr
+- **站内公开电话**：+90 (312) 806 35 29
+- **社媒**：https://instagram.com/, https://mxtoolbox.com/NetworkTools.aspx, https://twitter.com/, https://www.facebook.com
+- **已抓子页**：[Ürünler](https://teamon.com.tr/urunler)；[Ürünler](https://teamon.com.tr/urunler/listesi)；[Hakkımızda](https://teamon.com.tr/hakkimizda)；[Ruijie Networks Cybrey Alt Markasını Duyurdu](https://www.teamon.com.tr/haberler/ruijie-networks-cybrey-alt-markasini-duyurdu)；[Sonuçlar](https://teamon.com.tr/aramalar?search%5Bicerik%5D=PLANET+switch)；[İletişim](https://teamon.com.tr/iletisim)
+- 首页正文摘录：TeamOn ile teknoloji elinizde! 49.75, 55.81 Ana Sayfa Ürünler Kategoriler Haberler Hakkımızda Hizmetler İletişim Kategoriler Ana Sayfa Ağ ASSMANN Switch Kablo Fiber Ethernet ALLIED TELESIS Switch Yönetilebilir Fiber Ethernet BEEK Cihazlar Kablo Fiber Multimetre NETGEAR Switch WiFi POE+ Yönetilebilir PLANET Switch Endüstriyel POE+ Yönetilebilir RUCKUS WIRELESS Switch Access Point POE+ SmartZone Kamera ASSMANN Kamera D
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 31 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1002.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

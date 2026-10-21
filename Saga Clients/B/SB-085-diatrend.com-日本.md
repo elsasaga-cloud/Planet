@@ -22,6 +22,7 @@ last_contact: 2025-11-06
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-10-08 → 2025-11-06）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-085.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://diatrend.com/　语言：ja　站点地图 URL 数：1034
+- **标题**：ãã¤ã¤ãã¬ã³ãæ ªå¼ä¼ç¤¾
+- **描述**：ãã¤ã¤ãã¬ã³ãã®ãªãã£ã·ã£ã«ãµã¤ãã§ããç¾å ´ã®ãã¼ãºãè£½ååãã¡ã¼ã«ã¼ã¨ãã¦ã®æè¡åã¨åç¤¾ã¨ãã¦ã®ææ¡åã§IA(Industrial Automation)ãæ¯æ´ãã¾ãã
+- **首页栏目**：topic / è£½åæ å ± / ãããã¯ã¼ã¯ã½ãªã¥ã¼ã·ã§ã³ / ã¤ã³ã¿ãã§ã¼ã¹ã±ã¼ãã« / å ãã¡ã¤ãã¼ã±ã¼ãã« / ãµã¼ãã¢ã¼ã¿ç¨ã±ã¼ãã« / ç§»åå¼é»ç·åç´ã©ãã¯ ã»é»ç·åç´ããã¯ã¹ / ç¹æ³¨ã±ã¼ãã«
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 43、oem 8、planet 2、10g 1
+- **站内型号串**（正则抽取，含非交换机）：RS-485, DEIJ-GBT1, DEPX-G5BT, DEPX-G3BTS, DEH-GTZ4R2, DEH-GP8V2, DFC-SMLCLC-CP11, DFC-SMDLCDLC-CP21, DFC-SMLCLC-CPV11, DFC-SMDLCDLC-CPV21, DFC-SMDLCDLC-RMV21, DFC-SMNN-FDE41
+- **社媒**：https://www.facebook.com/Diatrend.JP/, https://www.instagram.com/diatrend_products/, https://www.linkedin.com/company/diatrend/, https://www.youtube.com/user/diatrendchannel, https://x.com/dia_ecbrown
+- **产品类页面**：https://www.diatrend.com/cgi-bin/catalog_claim/catalog.htm；https://www.diatrend.com/document/catalog/General/2021/Diatrend2021_03-10.pdf；https://www.diatrend.com/document/catalog/General/2021/Diatrend2021_11-24.pdf；https://www.diatrend.com/document/catalog/General/2021/Diatrend2021_25-44.pdf；https://www.diatrend.com/document/catalog/General/2021/Diatrend2021_45-64.pdf；https://www.diatrend.com/document/catalog/General/2021/Diatrend2021_65-82.pdf
+- **已抓子页**：[YÆpPoEÎ@í / _Cgh®ïÐ](https://diatrend.com/network/poe_index.htm)；[gsbN4 / _Cgh®ïÐ](https://diatrend.com/topics/topic4.html)；[Cibv - ÄpÎõt@Co[P[uiVO[h](https://diatrend.com/optifiber/ethernet/single_lineup.htm)；[lbg[N\ [V / _Cgh®ïÐ](https://diatrend.com/network/index.htm)；[J^O - _E[h / _Cgh®ïÐ](https://diatrend.com/download/catalog.htm)；[YÆpXCb`Onu / _Cgh®ïÐ](https://diatrend.com/network/hub_index.htm)
+- 首页正文摘录：è£½åæ å ± è£½åæ å ± ãããã¯ã¼ã¯ã½ãªã¥ã¼ã·ã§ã³ ã¤ã³ã¿ãã§ã¼ã¹ã±ã¼ãã« å ãã¡ã¤ãã¼ã±ã¼ãã« ãµã¼ãã¢ã¼ã¿ç¨ã±ã¼ãã« ã¢ã¯ã»ãµãªã¼ã»é»æº ç¹æ³¨ã±ã¼ãã« é»ç·ã»ã±ã¼ãã« OEMã»ã«ã¹ã¿ã è£½å æ åç£è¦ã·ã¹ãã ãã®ä» çç£çµäºå æ´»ç¨ä¾ã»å°å ¥äºä¾ æ´»ç¨ä¾ã»å°å ¥äºä¾ æ´»ç¨ä¾ å°å ¥äºä¾ è£½ååç» ãã¦ã³ã­ã¼ã ãã¦
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 43、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-085.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

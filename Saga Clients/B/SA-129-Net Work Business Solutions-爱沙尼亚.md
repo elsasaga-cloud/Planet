@@ -25,6 +25,7 @@ last_contact: 2025-10-02
 p1: STC-424XGGM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -104,6 +105,16 @@ updated: 2026-10-21
 - **风险/边界**：小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档
 - **邮件切入句（英文）**：For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://nbs.ee/　语言：en　站点地图 URL 数：0
+- **标题**：Domain is Registered
+- **首页栏目**：Teie domeen on registreeritud / ÐÐ°Ñ Ð´Ð¾Ð¼ÐµÐ½ Ð·Ð°ÑÐµÐ³Ð¸ÑÑÑÐ¸ÑÐ¾Ð²Ð°Ð½ / Verkkotunnuksesi on rekisterÃ¶ity / Your Domain is Registered / Zone veebimajutusteenuse paketid / STARTER / BUSINESS / PRO
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 1
+- 首页正文摘录：Teie domeen on registreeritud NB! Teie domeen on registreeritud, kuid sellel puudub serveriteenus Domeeni tÃ¤isvÃ¤Ã¤rtuslikuks kasutamiseks on tarvis serveriteenust. Serveriteenust on vÃµimalik tellida domeeni omanikul vÃµi halduskontaktil. Plant the seed of your success and... Telli serveriteenus VÃµta Ã¼hendust klienditoega ÐÐ°Ñ Ð´Ð¾Ð¼ÐµÐ½ Ð·Ð°ÑÐµÐ³Ð¸ÑÑÑÐ¸ÑÐ¾Ð²Ð°Ð½ NB! ÐÐ°Ñ Ð´Ð¾Ð¼ÐµÐ½ Ð·Ð°ÑÐµÐ³Ð¸ÑÑÑÐ¸Ñ
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-129.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

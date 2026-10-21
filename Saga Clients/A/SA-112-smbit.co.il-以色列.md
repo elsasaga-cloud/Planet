@@ -24,6 +24,7 @@ last_contact: 2025-10-27
 p1: STC-424XGGPM-280W
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -117,6 +118,21 @@ updated: 2026-10-21
 - **风险/边界**：以色列市政项目守界；Ubiquiti 价格锚；以色列：物流/支付路径需先确认（EXW 不受影响，货代由客户指定）
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（25% 档）——IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档
 - **邮件切入句（英文）**：On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.smbit.co.il/　语言：he　站点地图 URL 数：85
+- **标题**：SMBIT מערכות תקשורת מתקדמות / ערים חכמות / Mazkeret Batya, Israel
+- **描述**：. SMBIT מערכות תקשורת מתקדמות, תכנון הקמה ואחזקה של מערכות תקשוב ,WIFI, GPON, גלים-מילימטריים, רשתות IoT לורה LoRaWAN. עשרות סוגי חיישני IoT לכל מגזרי התעשיה, ערים חכמות, לוגיסטיקה, חקלאות ועיר חכמה. מערכת של מערכות EkronWIDE לניהול כל עולמות התוכן של כולל סייבר, ניטור ומנוע חוקות
+- **首页栏目**：הופכים כל סביבת עבודה לחכמה יותר / המערכת היחידה הכוללת גיבוי של שתי מערכות תקשורת שונות ​ / מקרב לקוחותינו: / לחצן מצוקה ברשת לורה ​ / All Videos / הופכים ערים ויישובים לחכמים יותר / חליפת חיישני IoT מבוססת loRa לסביבת עבודה חכמה, בטוחה ויעילה יותר / EkronWide מערכת ניהול ובקרה מרכזית שמאחדת את כל סביבות עבודה
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 13、poe 2、switch 1、fiber 1、nvr 1、hikvision 1、axis 1
+- **站内公开邮箱**：0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, 271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com, 460ff4620fa44cba8df530afde949785@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com
+- **社媒**：https://www.facebook.com/SMBIT-1656958407671054/, https://www.linkedin.com/company/smbit-ltd, https://www.youtube.com/channel/UCiIBLVPJL44mTi-Df3i0R7A
+- **产品类页面**：https://www.smbit.co.il/switches；https://www.smbit.co.il/ubiquiti-switch；https://www.smbit.co.il/catalogs
+- **已抓子页**：[מתגי תקשורת מנוהלים](https://www.smbit.co.il/switches)；[צור קשר](https://www.smbit.co.il/contact-us)；[אודות](https://www.smbit.co.il/about-smbit)；[צוות החברה / smbit](https://www.smbit.co.il/company-team)；[אנליטיקה למצלמות](https://www.smbit.co.il/camera-analytics)；[מצלמות אבטחה](https://www.smbit.co.il/security-cameras)
+- 首页正文摘录：top of page צור קשר צור קשר צור קשר בית פתרונות ושירותים רשתות LoRa וחיישני IoT Smart City - עיר חכמה EkronWide גלים מילימטריים מקצועי WIFI NUTANIX HCI רשתות תקשורת ואבטחת מידע אנליטיקה למצלמות מצלמות אבטחה תשתיות תקשורת גיבוי והמשכיות עסקית שירותי מומחה פתיחת מקלטים מרחוק פתיחת מיגוניות מרחוק ארכיון ענן LoRaWAN מתגי תקשורת מנוהלים IP מרכזית טלפוניה ניהול שרתים ביצוע פרויקטים חומת אש מגזרים לעסק / למשרד / לבית מלון ל
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-112.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

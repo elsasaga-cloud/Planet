@@ -24,6 +24,7 @@ last_contact: 2025-10-01
 p1: none
 price_tier: 20%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）；最近一次客户回复：2025-07-02：全系列电口信息
 - **P1（下一步唯一主推）**：— — 深挖对位：550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -106,6 +107,15 @@ updated: 2026-10-21
 - **风险/边界**：90W 工业注入器不在 Saga 标准型谱；玻利维亚物流/付款
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档
 - **邮件切入句（英文）**：For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：surlink-tech.com
+  > https://surlink-tech.com/ http 403 ct=text/html; charset=utf-8
+  > https://www.surlink-tech.com/ http 403 ct=text/html; charset=utf-8
+  > http://surlink-tech.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-147.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -196,6 +206,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STC-448XGGM(L3)
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -108,6 +109,20 @@ updated: 2026-10-21
 - **风险/边界**：乌兹别克斯坦物流/结算；跟进历史未入库；询盘来源与真实需求待核（营销代理公司问交换机可能是代采购或网站开发配套）；A 邮箱已跟进（用户 T27 确认）——下一步仅问「用途与台数」一句，不再多轮
 - **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档
 - **邮件切入句（英文）**：Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://latmedia.uz/　语言：ru-RU　站点地图 URL 数：51
+- **标题**：LATMEDIA Community в Ташкенте - LATMEDIA.UZ
+- **描述**：LATMEDIA Community — это площадка для идей, знаний и коллабораций. Мы объединяем креативных людей, бренды и экспертов, чтобы вместе создавать проекты, развиваться и делиться опытом.
+- **首页栏目**：LATMEDIA Community в Ташкенте
+- **站内公开邮箱**：info@latmedia.uz
+- **站内公开电话**：+998 90 115-51-00
+- **社媒**：https://www.facebook.com/latmediauz/, https://www.instagram.com/latmedia_agency/, https://www.youtube.com/@latmedia_uz
+- **产品类页面**：https://latmedia.uz/production/；https://latmedia.uz/portfolio/uztex-production-2/；https://latmedia.uz/portfolio/askovostok-production-1/；https://latmedia.uz/portfolio/astoralliance-production-1/；https://latmedia.uz/portfolio/astoralliance-production-2/；https://latmedia.uz/portfolio/uztex-production-1/
+- **已抓子页**：[Контакты - LATMEDIA.UZ](https://latmedia.uz/contacts/)；[Фото и видеосъемка в Ташкенте - LATMEDIA.UZ](https://latmedia.uz/production/)；[О нас - LATMEDIA.UZ](https://latmedia.uz/about/)；[Партнёры - LATMEDIA.UZ](https://latmedia.uz/partners/)；[LATMEDIA SERVICES - LATMEDIA.UZ](https://latmedia.uz/services/)
+- 首页正文摘录：Главная О нас О нас Партнёры Карьера Вселенная SMM WEB IT Решения PRODUCTION DESIGN SERVICES Кейсы Lifestyle Контакты LATMEDIA Community в Ташкенте LATMEDIA Community в Ташкенте Маркетинговое агентство Ташкент Маркетинговое агентство в Ташкенте Маркетинговые агентства Ташкент Маркетингового агентства Агентство по маркетингу Креативное агентство Ташкент Агентство маркетинговое Продвижение в рекламе Реклама и продвижен
+- 数据文件：`data/saga_clients/site_snapshots/SA-120.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

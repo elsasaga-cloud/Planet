@@ -25,6 +25,7 @@ last_contact: 2025-10-03
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -110,6 +111,20 @@ updated: 2026-10-21
   - 网店有独立 PoE SWITCH 类目 → 可直接上架 Saga 8/16 口；WA 在线、2 次回复、已取目录（用户表）
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://rfcom.gr/en　语言：en　站点地图 URL 数：0
+- **标题**：RFCOM connecting the future
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 140、dahua 35、switch 28、gigabit 24、access control 24、tp-link 24、camera 22、cable 20、cctv 19、wifi 18、sfp 13、nvr 13
+- **站内出现的品牌**：Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, LED25, HR340, AX3000, RS-485, WI-PS306GF-UPS-15A, EAP650, ETH10-2WIRE-A-SET, RS-232, M23-CAT6A-A, FSP008, LED30
+- **站内公开邮箱**：info@rfcom.gr
+- **站内公开电话**：0089909 2310 257557
+- **已抓子页**：[NETWORK PRODUCTS](https://rfcom.gr/en/select-category/terrestrial-systems)；[DAHUA ePOE](https://rfcom.gr/en/dahua-epoe)；[CONTACT US](https://rfcom.gr/en/contact-us)；[CCTV](https://rfcom.gr/en/select-category/cctv)；[THE COMPANY](https://rfcom.gr/en/the-company)；[CAMERA TECHNOLOGY TiOC 2.0](https://rfcom.gr/en/intro-to-hdcvi)
+- 首页正文摘录：Login Login Basket ( 0 ) COMPANY PRODUCTS ALARM SYSTEMS CCTV FIRE ALARM SYSTEMS STRUCTURED WIRING ACCESS CONTROL CABLES - CONNECTORS POWER SUPPLIES UPS/INVERTERS BATTERIES NETWORK PRODUCTS SMART HOME FOG SYSTEMS SOFTWARE ALARM RECEIVING CENTER EQUIPMENT DOOR PHONES-MONITOR DOOR PHONES PATROL SYSTEMS TOOLS - ACCESSORIES TERRESTRIAL SYSTEMS GUARD SAAS EVENTS-NEWS NEWS-EVENTS TECHNOLOGY TECHNOLOGIES DAHUA FULL COLOR 2.0
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 5、交换机 28 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-130.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

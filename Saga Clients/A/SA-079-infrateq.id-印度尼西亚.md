@@ -24,6 +24,7 @@ last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -110,6 +111,12 @@ updated: 2026-10-21
 - **风险/边界**：印尼 SNI/Postel 认证由进口方；价格敏感
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档
 - **邮件切入句（英文）**：Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://divatel.co.id/　语言：en-US　站点地图 URL 数：0
+- 首页正文摘录：The content for this page is empty or has not been saved. Please edit this page and "Save" the contents in the builder.
+- 数据文件：`data/saga_clients/site_snapshots/SA-079.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

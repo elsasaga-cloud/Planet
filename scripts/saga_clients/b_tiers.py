@@ -20,6 +20,8 @@ def engaged(e):
 
 def main():
     ents = json.load(open(os.path.join(DATA, 'entities.json'), encoding='utf-8'))
+    dpath = os.path.join(DATA, 'site_digest.json')
+    digest = json.load(open(dpath, encoding='utf-8')) if os.path.exists(dpath) else {}
     rows = []
     for e in ents:
         if e.get('grade') != 'B':
@@ -53,7 +55,10 @@ def main():
                      '样品': int(bool(f.get('sample'))), '互动备注': int(bool(f.get('engaged_note'))), '自有品牌': int(bool(f.get('own_brand'))),
                      '跟进次数': e.get('fu_count', len(e.get('followups') or [])),
                      '域名': ';'.join(e.get('domains') or []), '邮箱数': len(e.get('emails') or []),
-                     '已有调研': int(has_rs), '已加厚': int(deep)})
+                     '已有调研': int(has_rs), '已加厚': int(deep),
+                     '快照状态': (digest.get(e['code']) or {}).get('status', ''),
+                     '快照品牌': ','.join((digest.get(e['code']) or {}).get('brands') or [])[:80],
+                     '快照自动P1': (digest.get(e['code']) or {}).get('auto_p1') or ''})
     order = {'T1': 0, 'T2': 1, 'T3': 2, 'T4': 3, 'T5': 4}
     rows.sort(key=lambda r: (order[r['分批']], -r['成交'], -r['实质回复'], -r['WA'], -r['跟进次数'], r['编号']))
     out = os.path.join(DATA, 'B级加厚分批.csv')
@@ -66,7 +71,8 @@ def main():
         stats.setdefault(r['分批'], [0, 0])
         stats[r['分批']][0] += 1
         stats[r['分批']][1] += r['已加厚']
-    print(out, {k: f'{v[0]} (加厚 {v[1]})' for k, v in sorted(stats.items())})
+    snap_ok = sum(1 for r in rows if r['快照状态'] == 'ok')
+    print(out, {k: f'{v[0]} (加厚 {v[1]})' for k, v in sorted(stats.items())}, f'| 快照在线 {snap_ok}/{len(rows)}')
 
 
 if __name__ == '__main__':

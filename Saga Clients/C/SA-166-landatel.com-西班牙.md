@@ -25,6 +25,7 @@ last_contact: 2025-11-06
 p1: STC-448DGGPM
 price_tier: 20%
 research: done
+site_snapshot: none
 sources: 4
 updated: 2026-10-21
 ```

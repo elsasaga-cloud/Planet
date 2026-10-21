@@ -24,6 +24,7 @@ last_contact: 2025-10-31
 p1: STI-110GE
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -115,6 +116,11 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯结算；主业 VC 不在 Saga 型谱；Зоркий 远距监控（5–50 km）疑似边防/要地用途——Saga 只供通用交换机，不参与该类项目配套
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——光传输分销的配套品：STI-110GE（MC）+ STI-288DGGPM（工业 FS）；分销 20% 档
 - **邮件切入句（英文）**：Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bptehno.ru/　语言：未标　站点地图 URL 数：0
+- 数据文件：`data/saga_clients/site_snapshots/SA-134.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

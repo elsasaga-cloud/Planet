@@ -25,6 +25,7 @@ last_contact: 2025-10-08
 p1: STC-228GP
 price_tier: 25%
 research: done
+site_snapshot: timeout  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）
 - **P1（下一步唯一主推）**：STC-228GP — 深挖对位：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -83,6 +84,15 @@ updated: 2026-10-21
 - **风险/边界**：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
 - **邮件切入句（英文）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+
+- 尝试域名：pt-aag.co.id
+  > https://pt-aag.co.id/ http 500 ct=text/html; charset=utf-8
+  > https://www.pt-aag.co.id/ http 500 ct=text/html; charset=utf-8
+  > http://pt-aag.co.id/ timeout
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-122.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,6 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

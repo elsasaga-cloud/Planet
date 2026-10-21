@@ -24,6 +24,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -99,6 +100,18 @@ updated: 2026-10-21
 - **风险/边界**：规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档
 - **邮件切入句（英文）**：For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://omnisecurity.ro/　语言：未标　站点地图 URL 数：0
+- **标题**：Omnisecurity • Romania
+- **描述**：Omnisecurity este o companie ce furnizeaza servicii de supraveghere video si automatizari
+- **首页栏目**：Echipa OMNI Security vă stă la dispoziție atunci când: / Supraveghere Video / Sisteme de automatizări și instalații electrice / Sisteme de alarmă antiefracție wireless / Monitorizare GPS / Pompe de căldură / Panouri solare / Contact
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 2、industrial 1
+- **站内公开邮箱**：contact@omnisecurity.ro
+- **站内公开电话**：+4 0723 64 94 49
+- 首页正文摘录：Acasă Despre Servicii Evaluator Securitate Fizică Supraveghere Video Sisteme de automatizări și instalații electrice Sisteme alarmă fără fir Monitorizare GPS Portofoliu Contact +4 0723 64 94 49 RO Română English OMNI Security Compania a fost construită în jurul unor oameni cu experiență în domeniul sistemelor de securitate și a domeniului tehnic. Personalul implicat beneficiază de întreaga gamă de documentație tehnic
+- 数据文件：`data/saga_clients/site_snapshots/SB-053.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

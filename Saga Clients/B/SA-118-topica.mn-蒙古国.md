@@ -25,6 +25,7 @@ last_contact: 2025-11-06
 p1: STI-110GE
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -67,6 +68,23 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。
 - 备注：回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://topica.mn/　语言：mn-MN　站点地图 URL 数：2093
+- **标题**：Нүүр хуудас / Топика
+- **首页栏目**：Hotspot Configuration / Hotspot UI Configuration
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 158、10g 83、cisco 75、poe 40、switch 21、wifi 14、cable 14、wireless 8、2.5g 6、access control 6、mikrotik 6、ubiquiti 4
+- **站内出现的品牌**：MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, PLANET, D-Link, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP-10G-ZR, SRV10KRIRK, ESB23X-3LCD70, ESB32X-3LCD60, SFP-10G-BX40D, ESB23X-3LCD40, SFP-10G-BXD-I, ESB32X-3LCD10, SFP-10G-BXU-I, ESB23X-3LCD10, ESB5312-3LCD20, ESB5312-3LCD10
+- **站内公开邮箱**：%20info@topica.mn, engsoftllc@gmail.com, info@topica.mn, john_doe@domain.com
+- **站内公开电话**：003 1 2008 1 2012 1 2019 1
+- **社媒**：https://www.facebook.com/Topica.Company, https://www.youtube.com/watch?v=DWmFQhMfYwg&list=PLZGehiXauylbZduKt8OESRyUeVUeYmQqR
+- **产品类页面**：https://119.40.100.146/shop；https://119.40.100.146/shop/category/1；https://119.40.100.146/shop/category/2；https://119.40.100.146/shop/category/3；https://119.40.100.146/shop/category/4；https://119.40.100.146/shop/category/5
+- **已抓子页**：[Бидний тухай / Топика](https://topica.mn/aboutus)；[Холбоо барих / Топика](https://topica.mn/contactus)；[Brands / Топика](https://topica.mn/brand-listing)；[Дэлгүүр / Топика](https://topica.mn/shop)；[Дэлгүүр / Топика](https://topica.mn/shop/category/1)；[Дэлгүүр / Топика](https://topica.mn/shop/category/19)
+- 首页正文摘录：True Утас: 75554488 ₮ Нийтийн үнийн жагсаалт ₮ ₮ Нийтийн үнийн жагсаалт ₮ SALE 0 0 Нэвтрэх Бүртгүүлэх Имэйл Нууц үг Амжилттай нэвтэрлээ Нэвтрэх Имэйл Баталгаажуулах Буцах Таны имэйл Таны нэр Нууц үг Нууц үгийг баталгаажуулах You are successfully register your account Sign up x НҮҮР ХУУДАС АНГИЛАЛ Компьютер Аяллын хэрэгсэл Байгууллагын хэрэгцээнд Автоматжуулалт БРЕНД КОМПЬЮТЕР БАЙГУУЛЛАГЫН ХЭРЭГЦЭЭНД АВТОМАТЖУУЛАЛТ АЯ
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 89、交换机 21 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-118.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

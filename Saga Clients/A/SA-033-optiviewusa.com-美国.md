@@ -24,6 +24,7 @@ last_contact: 2025-12-29
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: http_error  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -35,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-10-30：4 8口price ds
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -112,6 +113,15 @@ updated: 2026-10-21
 - **风险/边界**：美国 CCTV 渠道强调 NDAA——交换机不在 NDAA 889 范围但客户可能要求非中资芯片表述（Marvell 是美国芯片，可用）；UL：机架 PoE 电源类客户可能要 UL 列名，Saga 只有 CE/FCC
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档
 - **邮件切入句（英文）**：Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：optiviewusa.com
+  > https://optiviewusa.com/ http 403 ct=text/html; charset=utf-8
+  > https://www.optiviewusa.com/ http 403 ct=text/html; charset=utf-8
+  > http://optiviewusa.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-033.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -219,6 +229,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

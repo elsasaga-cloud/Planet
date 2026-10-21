@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STI-110GE
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -67,6 +68,19 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——1 次回复后 18 次推送无果；中东非主攻区；需求泛（收发器/SFP 非 Saga 主线）→ 慢跟。
 - 备注：WA 只在有 PoE 新品/促销时触达（STC-28DGGPM，分销 20%）。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.nano.bt/　语言：en　站点地图 URL 数：0
+- **标题**：NANO - Internet Service Provider, Managed Security Service Provider, Enterprise Services, Applications & Software, Professional Services
+- **首页栏目**：Welcome to NANO "NOTHING IS NO" / Internet is NANO "NOTHING IS NO" / We are NANO WARRIORS "NOTHING IS NO" / Our Services & Products / Internet Services / Managed Security Services / Managed IT and Network Operations / Enterprise & Cloud Services
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 20、fiber 4、oem 4、switch 3、automation 3、cctv 1、surveillance 1、data center 1、cisco 1
+- **站内出现的品牌**：Ubiquiti, Cisco, Zyxel, Cambium　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@nano.bt
+- **站内公开电话**：+975 2 330330
+- 首页正文摘录：Welcome to NANO "NOTHING IS NO" Internet (ISP) & Network Operations - Cyber Security (MSSP) - Enterprise Services - Applications & Software - Professional Services Go NANO Internet is NANO "NOTHING IS NO" Internet (ISP) & Network Operations - Cyber Security (MSSP) - Enterprise Services - Applications & Software - Professional Services Go NANO We are NANO WARRIORS "NOTHING IS NO" Go NANO Toggle navigation Home Service
+- **自动对位建议**：STC-424XGGM（官网快照对位：电信/FTTH 词频 20 → 汇聚 24 GE + 4×10G；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-101.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

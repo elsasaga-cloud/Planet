@@ -24,6 +24,7 @@ last_contact: 2025-12-29
 p1: STI-110GE
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -105,6 +106,24 @@ updated: 2026-10-21
 - **风险/边界**：Chimera 终身保修 → 对 ODM 来源的失效率与备件有硬要求；采购经理（purchasing@）导向价格，MC 单价极低（$10 级），利润薄
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降
 - **邮件切入句（英文）**：Between the CHMC-302P fast-Ethernet PoE converters and the XG100 10G units, a gigabit RJ45-to-SFP converter in Chimera packing is the SKU most buyers ask for, so I am quoting that first with an 8-port gigabit PoE switch as the second line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://megnet.co.uk/　语言：en　站点地图 URL 数：1165
+- **标题**：Megnet / Compatible & OEM Network Transceivers, DAC & AOC
+- **描述**：Multi-vendor network hardware distributor. Compatible & OEM transceivers, DAC/AOC cables, RAM, hard drives & optics. Next-day UK & Europe delivery.
+- **首页栏目**：CHPC-LC-FC-15M-OS1-DPX / CHPC-LC-FC-15M-OM5-DPX / CHPC-LC-FC-20M-OS1-SPX / CHPC-LC-FC-20M-OS1-DPX / CHPC-LC-FC-20M-OS2-SPX / CHPC-LC-FC-20M-OM1-SPX / CHPC-LC-FC-20M-OM1-DPX / CHPC-LC-FC-20M-OM3-SPX
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 127、surveillance 76、wireless 51、10g 39、industrial 34、media converter 31、sfp 27、telecom 21、automation 14、camera 9、ethernet 6、nvr 6
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CHPC-LC-FC-15M-OS1-DPX, CHPC-LC-FC-15M-OM5-DPX, CHPC-LC-FC-20M-OS1-SPX, CHPC-LC-FC-20M-OS1-DPX, CHPC-LC-FC-20M-OS2-SPX, CHPC-LC-FC-20M-OM1-SPX, CHPC-LC-FC-20M-OM1-DPX, CHPC-LC-FC-20M-OM3-SPX, CHT-JUN-SFP-10G, QSFP28, APC-LC-50M-OM3-SPX, APC-5M-OM1-SPX
+- **站内公开邮箱**：sales@megnet.co.uk
+- **站内公开电话**：+44 08451301585
+- **社媒**：https://twitter.com/MegnetLtd, https://twitter.com/intent/tweet?text=https://megnet.co.uk/megnet-solution/industrial-park-video-surveillance-solution/, https://twitter.com/intent/tweet?text=https://megnet.co.uk/megnet-solution/large-shopping-mall-wireless-network-solution/, https://www.facebook.com/sharer/sharer.php?u=https://megnet.co.uk/megnet-solution/industrial-park-video-surveillance-solution/, https://www.facebook.com/sharer/sharer.php?u=https://megnet.co.uk/megnet-solution/large-shopping-mall-wireless-network-solution/, https://www.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions/
+- **产品类页面**：https://megnet.co.uk/10gb-ethernet-switch/；https://megnet.co.uk/rj45-switches/；https://megnet.co.uk/cisco-mds-9000-series-switches/；https://megnet.co.uk/compatible-networking-products/；https://megnet.co.uk/network-switch/；https://megnet.co.uk/optical-networking-products-networking-accessories/
+- **已抓子页**：[Market News / OEM Networking Industry Insights / Megnet](https://megnet.co.uk/category/oem-networking-products-latest-updates-market-news/)；[Product News Archives - Megnet](https://megnet.co.uk/category/product-news-networking-hardware-updates-megnet/)；[Large Shopping Mall Wireless Network Solution / Megnet](https://megnet.co.uk/megnet-solution/large-shopping-mall-wireless-network-solution/)；[Networking Tips & Tricks / Megnet Knowledge Centre](https://megnet.co.uk/category/industry-announcements-product-updates-product-releases/)；[Shop Network Hardware / Transceivers, DAC, AOC & Optics](https://megnet.co.uk/shop/)；[Industrial Park Video Surveillance Solution / Megnet](https://megnet.co.uk/megnet-solution/industrial-park-video-surveillance-solution/)
+- 首页正文摘录：Call us 24/7 +44 08451301585 Next Day Delivery Across - UK & Europe, KSA & UAE Life Time Guarantee and Up to 80% Cost saving . About Us Contact Us Login/Register Remember Me 0 $ 0.00 Your cart is currently empty All Products Quick view CHPC-LC-FC-15M-OS1-DPX Quick view CHPC-LC-FC-15M-OM5-DPX Quick view CHPC-LC-FC-20M-OS1-SPX Quick view CHPC-LC-FC-20M-OS1-DPX Quick view CHPC-LC-FC-20M-OS2-SPX Quick view CHPC-LC-FC-20M
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 39、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-024.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

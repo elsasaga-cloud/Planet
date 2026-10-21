@@ -25,6 +25,7 @@ last_contact: 2025-09-15
 p1: STI-488DGGGM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -96,6 +97,17 @@ updated: 2026-10-21
 - **风险/边界**：德国公共部门项目有合规要求（守界：公共/能源关键设施项目按个案）；6 次跟进 0 回复——需以其询盘原题直接回应
 - **Saga 对位结论**：P1 STI-488DGGGM（25% 档）——集成商 25% 档：STI-488DGGGM（DIN 8 GE + 8×1G SFP + 4×10G SFP+，管理，−40~+75 ℃，$332.6）最接近「12 光 12 电」——12 光（8 SFP + 4 SFP+）/ 8 电，另加 STI-240DGGM 补电口；机架式 12 光 12 电可核 SmartByte 商用 STC-4168XGGCM（16 SFP + 8 Combo，$392.4）
 - **邮件切入句（英文）**：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.isimko.de/　语言：de　站点地图 URL 数：41
+- **标题**：Startseite - ISIMKO GmbH
+- **描述**：Voriger NÃ¤chster ISIMKO goes Future Mit KI-basierten LÃ¶sungen, GebÃ¤udeautomatisierung undProzessdigitalisierung in die Zukunft GefÃ¶rdert aus Mitteln der EuropÃ¤ischen Union Ziele: Verbesserung der Arbeitsbedingungen Erleichterung des Arbeitsalltages Erweiterung unsers Leistungsportfolios Digital
+- **首页栏目**：ISIMKO goes Future / Wir verbinden Menschen. Sicher. Innovativ. / Warum ISIMKO? / Ihr Rundum-Service fÃ¼r Technik / Unsere Standorte / Bewerbung / Anfahrt / Kontakt
+- **站内公开邮箱**：info@isimko.de, medientechnik@isimko.de
+- **已抓子页**：[Kontakt - ISIMKO GmbH](https://www.isimko.de/kontakt/)；[KI - ISIMKO GmbH](https://www.isimko.de/ki/)
+- 首页正文摘录：Startseite Ãber uns Karriere Referenzen Kontakt MenÃ¼ Startseite Ãber uns Karriere Referenzen Kontakt Informationstechnik Sicherheitstechnik Medientechnik Kommunikationstechnik KI-FÃ¼hrerschein KI-Services MenÃ¼ Informationstechnik Sicherheitstechnik Medientechnik Kommunikationstechnik KI-FÃ¼hrerschein KI-Services âAchtung, Kontrolle â Ihren KI-FÃ¼hrerschein, bitte!â mehr zur KI-Schulung EU AI Act: So schnell
+- 数据文件：`data/saga_clients/site_snapshots/SB-079.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

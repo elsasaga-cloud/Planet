@@ -24,6 +24,7 @@ last_contact: 2025-09-08
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -103,6 +104,22 @@ updated: 2026-10-21
 - **风险/边界**：安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景；消防报警部分守界（生命安全）；消防报警/UL 监控为其业务一部分——Saga 只供摄像机/门禁侧 PoE 交换机，不进入消防链路（守界）
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档
 - **邮件切入句（英文）**：For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://securitytekton.com/　语言：en　站点地图 URL 数：97
+- **标题**：Avenger Security / Austin, TX — Access Control, Fire & Monitoring
+- **描述**：Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring. No long-term contracts. Local install & service.
+- **首页栏目**：Country/region / Item added to your cart / Commercial Security & Fire Alarm Services in Austin & Central Texas / Security & Life-Safety Services for Your Building / Access Control / Commercial Fire Alarms / Burglar Alarms / Video Surveillance
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：access control 48、surveillance 44、camera 14、wireless 10、cable 8、integrator 3、industrial 1、wholesale 1
+- **站内出现的品牌**：Aruba, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TL880LT, ANCP3005Q, PG9984P, PG9936, DW-433, PG9303, HS2064, B-BUC3-37-SF25, HS2032, ACR-2370373
+- **站内公开邮箱**：brandon@getsecurityalarm.com, info@getsecurityalarm.com
+- **社媒**：https://www.facebook.com/masterintegrators, https://www.instagram.com/securityprophet/, https://x.com/Get_Security
+- **产品类页面**：https://securitytekton.com/sitemap_products_1.xml?from=6779095548081&amp;to=9176524095665
+- **已抓子页**：[Collections – Avenger Security](https://securitytekton.com/collections)；[Security System Products & Equipment / Avenger Security](https://securitytekton.com/collections/all)；[About Avenger Security / Austin TX Security Integrator](https://securitytekton.com/pages/about-us)；[Contact Avenger Security / Austin TX Security & Fire](https://securitytekton.com/pages/contact-us)；[Austin Security Company & Texas Service Areas / Avenger – Av](https://securitytekton.com/pages/store-locator)；[Contact information – Avenger Security](https://securitytekton.com/policies/contact-information)
+- 首页正文摘录：Skip to content 5 Year Workmanship Warranty No Multi-Year Alarm Contract Commercial Burglar Alarm Monitoring Cloud Managed Access Control Full Service Video Surveillance Austin & Central Texas Service Fire Alarm Monitoring & Inspections Alarm System Permits LOCATIONS ACCESS CONTROL FIRE ALARM BURGLAR ALARM VIDEO SURVEILLANCE PRODUCTS SEARCH Country/region United States / USD $ Search Canada USD $ United States USD $ 
+- 数据文件：`data/saga_clients/site_snapshots/SA-039.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

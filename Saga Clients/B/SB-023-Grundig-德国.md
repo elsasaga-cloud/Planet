@@ -24,6 +24,7 @@ last_contact: 2025-11-04
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -113,6 +114,20 @@ updated: 2026-10-21
 - **风险/边界**：品牌方对 OEM 质量/固件定制（Web UI 品牌化、NDAA 声明、EN 55032）要求高；7 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源
 - **邮件切入句（英文）**：Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://grundig-security.com/　语言：en-EN　站点地图 URL 数：706
+- **标题**：GRUNDIG SECURITY - Professional Video Surveillance and CCTV Solutions
+- **首页栏目**：Banner / SMART Line Product Overview 2026 / Face Recognition / Video Management Solutions / Product Series / Company / Products / Service
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 100、poe 29、axis 17、surveillance 4、switch 2、nvr 1
+- **站内型号串**（正则抽取，含非交换机）：DC12V, GD-CI-BC2615M, GU-CI-AC5612M, GD-CI-AT8505B, GD-CI-AP4617C, GD-CI-CP4637E, GU-CI-AC4614E, GD-CI-AC2615M, GD-CI-AP2605B, AC24V, GD-CI-AT12505B, GD-CI-AT2505B
+- **社媒**：https://www.linkedin.com/company/grundig-security, https://www.youtube.com/channel/UCFDlR7Dosq4yKG6BDfxYyog
+- **产品类页面**：https://grundig-security.com/catalog/；https://grundig-security.com/catalog/camera/；https://grundig-security.com/catalog/camera/ip/；https://grundig-security.com/catalog/camera/ip/board/；https://grundig-security.com/catalog/camera/ip/board/GD-CI-BC2615M；https://grundig-security.com/catalog/camera/ip/board/GU-CI-AC5612M
+- **已抓子页**：[GRUNDIG SECURITY - Professional Video Surveillance and CCTV ](https://grundig-security.com/catalog/legacy/)；[About us / GRUNDIG SECURITY - Professional Video Surveillanc](https://grundig-security.com/company/about/)；[GRUNDIG SECURITY - Professional Video Surveillance and CCTV ](https://grundig-security.com/catalog/camera/)；[GRUNDIG SECURITY - Professional Video Surveillance and CCTV ](https://grundig-security.com/catalog/camera/ip/)；[GRUNDIG SECURITY - Professional Video Surveillance and CCTV ](https://grundig-security.com/catalog/camera/ip---4g-5g/)；[GRUNDIG SECURITY - Professional Video Surveillance and CCTV ](https://grundig-security.com/catalog/camera/hd-analogue/)
+- 首页正文摘录：Company Products Camera Reсorder Monitor Software Accessories Hardware Technology General C-WERK® Service Legacy Products Service News News Subscribe to E-news Contact us Contact form Technical support Wishlist[0] Login English Русский Deutsch Français Italiano Camera IP HD-Analogue IP - 4G/5G Thermal Imaging Recorder IP HD-Analogue Monitor LCD/TFT Software C-WERK Others Accessories Housing & Bracket Hardware IP Lens
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 29、监控 105 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-023.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

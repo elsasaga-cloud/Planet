@@ -22,6 +22,7 @@ last_contact: 2025-10-15
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2024-05-09 → 2025-10-15）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-013.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mtechnology.it/　语言：it　站点地图 URL 数：212
+- **标题**：Sistemi di videosorveglianza intelligente Mtechnology
+- **描述**：Sistemi di videosorveglianza intelligente Mtechnology progettati per ambienti industriali e condizioni estreme. Telecamere e dispositivi resistenti a temperature estreme, polveri, vibrazioni e sostanze corrosive, ideali per acciaierie, fonderie e impianti produttivi.
+- **首页栏目**：SETTORI DI APPLICAZIONE / VIDEOSORVEGLIANZA ATTIVA / AFFIDABILITÀ IN AMBIENTI INDUSTRIALI / PERSONALIZZAZIONE E SCALABILITÀ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 25、industrial 24、camera 23、switch 20、nvr 13、ethernet 12、gigabit 11、sfp 3、cable 3、cctv 2
+- **站内型号串**（正则抽取，含非交换机）：MT-TP7-16GT240BT, MT-TP7224E-POE, MT-TP7304POE, MT-TP7308POE, MT-TP7324GE-POE, MT-TP73G04POE, MT-TP73G10POE, MT-IPA790HWR, MT-IPBX2030WR-4, MT-IPBX540, MT-IPCX2030, MT-IPCX2812-5
+- **产品类页面**：https://www.mtechnology.it/switch.1.83.325.sp.uw；https://www.mtechnology.it/speciali-e-per-applicazioni-industriali.1.83.334.sp.uw；https://www.mtechnology.it/switch-24-ports-poe-long-distance-ethernet-managed-switch-cctv-sfp.1.83.325.gp.6434.uw；https://www.mtechnology.it/speciali-e-per-applicazioni-industriali-2mp-25x-starlight-ir-network-positioning-system.1.83.334.gp.9016.uw；https://www.mtechnology.it/speciali-e-per-applicazioni-industriali-2mp-45x-starlight-ir-network-positioning-system.1.83.334.gp.9057.uw；https://www.mtechnology.it/switch-4-ports-poe-long-distance-ethernet-switch.1.83.325.gp.7363.uw
+- **已抓子页**：[Catalogo TVCCNETWORKING](https://www.mtechnology.it/switch.1.83.325.sp.uw)；[Catalogo TVCCTELECAMERE](https://www.mtechnology.it/speciali-e-per-applicazioni-industriali.1.83.334.sp.uw)；[Catalogo TVCC](https://www.mtechnology.it/networking.1.83.324.sp.uw)
+- 首页正文摘录：Questo sito usa i cookie per fornirti un'esperienza migliore. Cliccando su "Accetta" saranno attivate tutte le categorie di cookie. Per decidere quali accettare, cliccare invece su "Personalizza". Per maggiori informazioni è possibile consultare la pagina Informativa estesa sui Cookie . Personalizza Accetta CHIUDI Chiudi Catalogo TVCC TELECAMERE VIDEOREGISTRATORI e NVR ACCESSORI NETWORKING OTTICHE TVCC Videocitofoni 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 24、PoE 25 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-013.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

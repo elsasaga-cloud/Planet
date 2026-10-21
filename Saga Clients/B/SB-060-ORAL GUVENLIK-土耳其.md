@@ -24,6 +24,7 @@ last_contact: unknown
 p1: STC-28GPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -90,6 +91,17 @@ updated: 2026-10-21
 - **风险/边界**：北塞小市场、零售规模；价格敏感；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
 - **邮件切入句（英文）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://oralcompanies.com/　语言：en　站点地图 URL 数：5
+- **标题**：Oral Companies
+- **首页栏目**：Zarafeti GÃ¼venlik ile buluÅturuyoruz / YÃ¼ksek Teknoloji ile donatÄ±lmÄ±Å modern Ã§elik kapÄ± sistemleri / AlÃ¼minyum Cephe Kaplama, KÃ¼peÅte & Ãelik YapÄ± ÃÃ¶zÃ¼mleri / Kalite, GÃ¼ven, Profesyonellik / 20 yÄ±llÄ±k deneyimimizle, en iyi hizmeti sunmak iÃ§in buradayÄ±z. / GÃ¶zÃ¼nÃ¼z Arkada KalmasÄ±n / Siz uzaktayken biz buradayÄ±z. Her an, her yerde yanÄ±nÄ±zdayÄ±z. / Kalite ve GÃ¼venin Adresi
+- **站内公开邮箱**：info@oralcompanies.com
+- **站内公开电话**：+90 533 852 03 00
+- **已抓子页**：[Oral Companies](https://oralcompanies.com/iletisim)
+- 首页正文摘录：Zarafeti GÃ¼venlik ile buluÅturuyoruz YÃ¼ksek Teknoloji ile donatÄ±lmÄ±Å modern Ã§elik kapÄ± sistemleri Åirketleri GÃ¶r Daha fazla bilgi edin AlÃ¼minyum Cephe Kaplama, KÃ¼peÅte & Ãelik YapÄ± ÃÃ¶zÃ¼mleri Modern alÃ¼minyum cephe kaplamalarÄ±, kÃ¼peÅte sistemleri ve Ã§elik yapÄ± konteyner Ã¼retimiyle sektÃ¶rde fark yaratÄ±yoruz. Hizmetlere bakÄ±n Daha fazla bilgi edin Kalite, GÃ¼ven, Profesyonellik 20 yÄ±llÄ±k de
+- 数据文件：`data/saga_clients/site_snapshots/SB-060.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

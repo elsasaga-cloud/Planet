@@ -22,6 +22,7 @@ last_contact: 2025-10-18
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-18）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-091.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.optigo.net/　语言：en-US　站点地图 URL 数：222
+- **标题**：Healthy OT Networks for Smart Buildings / Optigo Networks
+- **描述**：Optigo's OT monitoring software keeps smart building networks running at their best - saving time, money, and energy.
+- **首页栏目**：Healthy OT Networks for Smart Buildings / Next-Generation OT Network Monitoring and Management / Why Optigo Visual Networks? / Built for OT Networks / Actionable insights in real-time / Data security you expect / See How OptigoVN Can Work for You / System Integrators
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：integrator 10、automation 5、ethernet 1、wifi 1、data center 1
+- **站内公开邮箱**：info@optigo.net
+- **社媒**：https://www.linkedin.com/company/optigonetworks, https://www.linkedin.com/in/justinkcarter/
+- **已抓子页**：[Optigo Networks Partner Program](https://www.optigo.net/optigo-networks-partner-program/)；[Contact Us / Optigo Networks](https://www.optigo.net/contact-us/)；[Embedded Technology Partners / Optigo Networks](https://www.optigo.net/embedded-technology-partners/)；[ENFRA: Building a Solid Foundation for Energy-as-a-Service w](https://www.optigo.net/case-studies/enfra-building-a-solid-foundation-for-energy-as-a-service/)
+- 首页正文摘录：X The Optigo AI Assistant is here!🎉 Troubleshoot BACnet faster... Learn More Skip to content Products Close Products Open Products OptigoVN AI Assistant Partner Program Tools & Integrations Use Cases Close Use Cases Open Use Cases System Integrators Building Owners & Operators Embedded Technology Partners Pricing Resources Close Resources Open Resources Blog Case Studies OT Insights Library BACnet Basics Course Tech 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-091.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +157,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

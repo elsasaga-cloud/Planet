@@ -25,6 +25,7 @@ last_contact: 2025-10-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -98,6 +99,14 @@ updated: 2026-10-21
 - **风险/边界**：3 人、亏损；6 次推送 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP
 - **邮件切入句（英文）**：Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://shop.safe-tech.se/　语言：未标　站点地图 URL 数：0
+- **首页栏目**：Välkommen till Safe-tech CCTV System SWEDEN AB / SafeVision / Provision-ISR / Safe-Tech
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 1
+- 首页正文摘录：SV EN Välkommen till Safe-tech CCTV System SWEDEN AB Innovativa säkerhetslösningar för professionella installationer Kameror Inspelare Signalhantering Tillbehör Välj den produktportal du vill besöka. SafeVision Kameror, inspelare, signalhantering och tillbehör från SafeVision. Provision-ISR Kameror, inspelare, signalhantering och tillbehör från Provision-ISR. Safe-Tech Visa hela sortimentet från både SafeVision och P
+- 数据文件：`data/saga_clients/site_snapshots/SA-086.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

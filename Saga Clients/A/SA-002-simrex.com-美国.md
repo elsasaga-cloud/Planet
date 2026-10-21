@@ -24,6 +24,7 @@ last_contact: 2025-11-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -101,6 +102,18 @@ updated: 2026-10-21
 - **风险/边界**：ITS/交通控制 = 美国公共项目，常要求 NEMA TS2 与 Buy America——Saga 无 UL/NEMA，仅供其商业/私营项目或按客户自担认证；轨道客户部分守界（不做 EN50155）
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——MSG-8E4S（8 GE PoE + SFP 加固管理）对位 STI-288DGGPM，MS-5GS 对位 STI-144GP；DataMover 贴牌 30% 档；要求与 CRMS NMS 兼容的 SNMP 口径
 - **邮件切入句（英文）**：For the MSG-8E4S slot in your DataMover line, the Marvell-based 8-port gigabit PoE managed DIN switch with SNMP for CRMS polling is the unit I can supply in DataMover packing, so that is what I am quoting first.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.simrex.com/site/　语言：未标　站点地图 URL 数：0
+- **标题**：SIMREX Corporation
+- **描述**：A wireless data communications equipment manufacturer for mobile and stationary wireless networks and monitoring / tracking applications.
+- **首页栏目**：Wireless Data Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 6、industrial 1、ethernet 1
+- **站内型号串**（正则抽取，含非交换机）：RS-232, RS485
+- **社媒**：http://www.simrex.com/site/apps/traffic.htm, http://www.simrex.com/site/compinfo/contact.htm, http://www.simrex.com/site/index.htm, http://www.simrex.com/site/products/broadband.htm, http://www.simrex.com/site/products/choosing.htm, http://www.simrex.com/site/products/custom.htm
+- 首页正文摘录：Wireless Data Solutions SIMREX Corporation serves industries requiring secure and reliable wireless data communications for vital systems under the toughest of conditions. Industries served: Aviation, Rail, Energy, Water/Wastewater, Traffic/ITS. Can't find the product you need? Do you have a custom application? Simrex engineers pride themselves in providing exactly what you need. Here's what we can do for you..... An
+- 数据文件：`data/saga_clients/site_snapshots/SA-002.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

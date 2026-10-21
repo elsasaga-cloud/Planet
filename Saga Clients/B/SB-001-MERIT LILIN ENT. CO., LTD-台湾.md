@@ -22,6 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 2 次；推送 20 次（2024-04-29 → 2025-10-23）；最近一次客户回复：2025-02-20：简单回复了一下
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-001.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://meritlilin.com/en　语言：en　站点地图 URL 数：1994
+- **标题**：LILIN - IP Cameras, NVRs and Edge AI Video Analytics
+- **描述**：LILIN AI surveillance cameras, NVR systems, and edge computing solutions for smart transportation, retail, and industrial applications.
+- **首页栏目**：Secure Surveillance, Built for the Real World / Edge AI Surveillance Hardware, Built In-House / Intelligent Solutions for Real-World Industries / Intelligent Surveillance Across Industries / Smart Traffic Management / Retail Analytics / Factory & Site Safety / A Complete, Field-Proven Lineup
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 175、access control 29、distributor 20、nvr 17、poe 9、surveillance 8、industrial 2、scada 2、cable 1
+- **站内型号串**（正则抽取，含非交换机）：BTE08W, BTR09W, BTR10W, BCD01S, BCR02W, BCR03W, BCR04W, BCR05W, BCR05W-V1, BCR06W, BCR06W-V1, BTD01W
+- **站内公开邮箱**：sales@meritlilin.com.tw
+- **社媒**：https://www.linkedin.com/company/lilin-taiwan/, https://www.youtube.com/user/Meritlilin
+- **产品类页面**：https://meritlilin.com/en/production-line；https://meritlilin.com/tw/production-line；https://meritlilin.com/en/product-finder；https://meritlilin.com/tw/product-finder；https://meritlilin.com/en/product/category/1；https://meritlilin.com/tw/product/category/4
+- **已抓子页**：[LILIN - Bracket](https://meritlilin.com/en/product/category/36)；[LILIN](https://meritlilin.com/en/support/file/type/catalog)；[LILIN - PTZ Dome IP Camera](https://meritlilin.com/en/product/ptz)；[LILIN - Camera AIDA Software](https://meritlilin.com/en/product/category/163)；[LILIN - Production Line Solution](https://meritlilin.com/en/solution/production-line)；[LILIN - RMA](https://meritlilin.com/en/rma)
+- 首页正文摘录：Products Frontend & Cameras AI Smart Cameras 7-Series / 6-Series Edge AI PTZ Cameras IMU stabilization / Dual-Spectral ToF Sensors 3D depth sensing technology AIDA Frontend Models For AI Cameras Backend & Systems NVR / NAV High-capacity recording servers X-Path Person search and tracking across cameras VMS Platform Navigator 5.0 management system Server-Based AIDA License/Models For AI servers AI Backend Server Video
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-001.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -25,6 +25,7 @@ last_contact: 2025-10-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
+site_snapshot: unreachable  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-03-15：price 含电源嘛？ 电源价格
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -67,6 +68,15 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。
 - 备注：WA 季度触达。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：cyber-tec.net
+  > https://cyber-tec.net/ conn: HTTPSConnectionPool(host='cyber-tec.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HT
+  > https://www.cyber-tec.net/ conn: HTTPSConnectionPool(host='www.cyber-tec.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError
+  > http://cyber-tec.net/ conn: HTTPConnectionPool(host='cyber-tec.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTP
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SA-163.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -172,6 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

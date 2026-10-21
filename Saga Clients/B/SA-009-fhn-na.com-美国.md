@@ -25,6 +25,7 @@ last_contact: 2025-11-04
 p1: STC-424XGGM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -82,6 +83,22 @@ updated: 2026-10-21
 - **风险/边界**：中资大厂分公司，采购走集团渠道；机会型而非渠道型
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示
 - **邮件切入句（英文）**：Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fhn-na.com/　语言：en　站点地图 URL 数：55
+- **标题**：Home
+- **描述**：Ongoing Technology Innovations, from ideas to solutions, make FHN-NA a leader in global Telecom and Network markets Innovation Satisfied Online Experiences All Online - Real time experiences are enabled by our Fiber Optic network solutions Total Solution of Active FTTH Carrier class Ethernet /FTTx s
+- **首页栏目**：Innovation / Satisfied Online Experiences / Total Solution of Active FTTH / Total Fiber Optic Conectivity/Cable Solutions / 01 / 02 / 03 / Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 16、fiber 9、switch 8、poe 7、cable 6、telecom 5、industrial 2、10g 2、media converter 1、gigabit 1、wireless 1、ftth 1
+- **站内型号串**（正则抽取，含非交换机）：S2200ME-PAF, S2208ME-PAF, S2216ME-PAF, S2224ME-PAF, IEEE802, ISO9001, ISO14001, OHSAS18001
+- **站内公开邮箱**：questions@fhn-na.com
+- **社媒**：https://facebook.com/name, https://instagram.com/name, https://linkedin.com/name, https://twitter.com/name
+- **产品类页面**：https://fhn-na.com/products/；https://fhn-na.com/products-2/；https://fhn-na.com/products-3/
+- **已抓子页**：[S2200ME](https://fhn-na.com/s2200me-3/)；[Products](https://fhn-na.com/products-3/)；[Fiber Cables](https://fhn-na.com/fiber-cables-3/)；[About](https://fhn-na.com/about-3/)；[Contact](https://fhn-na.com/contact-3/)；[m8416e](https://fhn-na.com/m8416e-3/)
+- 首页正文摘录：Home About Solutions News Contact Home About Solutions News Contact Ongoing Technology Innovations, from ideas to solutions, make FHN-NA a leader in global Telecom and Network markets Innovation Satisfied Online Experiences All Online - Real time experiences are enabled by our Fiber Optic network solutions Total Solution of Active FTTH Carrier class Ethernet /FTTx solutions allow multi-services in one platform. Total
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 7、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-009.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

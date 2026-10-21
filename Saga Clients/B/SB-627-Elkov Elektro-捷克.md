@@ -24,6 +24,7 @@ last_contact: 2025-10-09
 p1: STI-050GE
 price_tier: 20%
 research: done
+site_snapshot: none
 sources: 1
 updated: 2026-10-21
 ```

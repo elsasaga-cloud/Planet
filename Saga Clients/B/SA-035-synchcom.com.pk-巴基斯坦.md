@@ -25,6 +25,7 @@ last_contact: 2025-06-21
 p1: STC-28GPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -93,6 +94,20 @@ updated: 2026-10-21
 - **风险/边界**：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
 - **Saga 对位结论**：P1 STC-28GPM（25% 档）——集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
 - **邮件切入句（英文）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://synchcom.com.pk/　语言：en-US　站点地图 URL 数：141
+- **标题**：Home - SYNCHCOM PVT LTD
+- **首页栏目**：Experience the Magic of Technology / Our Mission / Industry We Focus / Telecom / I.T. / Defense / Power & Energy / Automation & Control
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 31、poe 19、automation 2、gigabit 2、surveillance 2、telecom 2、switch 1、scada 1、ethernet 1、wifi 1、data center 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：IP-67, IP-65
+- **社媒**：https://twitter.com/intent/tweet?text=LigoDLB+5&url=https://synchcom.com.pk/product-detail/ligodlb-5/, https://twitter.com/intent/tweet?text=LigoDLB+5-15&url=https://synchcom.com.pk/product-detail/ligodlb-5-15/, https://twitter.com/intent/tweet?text=LigoDLB+5-90&url=https://synchcom.com.pk/product-detail/ligodlb-5-90/, https://twitter.com/intent/tweet?text=LigoDLB+5ac&url=https://synchcom.com.pk/product-detail/ligodlb-5ac/, https://www.facebook.com/sharer.php?u=https://synchcom.com.pk/product-detail/ligodlb-5-15/, https://www.facebook.com/sharer.php?u=https://synchcom.com.pk/product-detail/ligodlb-5-90/
+- **产品类页面**：https://synchcom.com.pk/our-products/；https://synchcom.com.pk/shop/；https://synchcom.com.pk/shop/；https://synchcom.com.pk/product-detail/fiber-optic-splicing-machine-s178afiber-optic-splicing-machine-s178a/；https://synchcom.com.pk/product-detail/industrial-managed-ethernet-switch-igs-1604sm/；https://synchcom.com.pk/product-detail/planet-internet-telephony-pbx-system/
+- **已抓子页**：[- SYNCHCOM PVT LTD](https://synchcom.com.pk/shop/)；[LigoDLB 5 - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5/)；[LigoDLB 5ac - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5ac/)；[LigoDLB 5-90 - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5-90/)；[LigoDLB 5-15 - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5-15/)；[ISM Band Radios - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-category/ism-band-radios/)
+- 首页正文摘录：Home About Us Our Products Services Careers Contact Us 0 0 items Home Hassan 2023-03-18T15:51:32+05:00 Connecting People Globaly We connect you to the world with our Information Communication Technology Solutions. View Products Experience the Magic of Technology SynchCOM Private Limited is a system integrator and solution providing company. We’re local members of the communities we serve allowing us to get your servi
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 19、监控 2 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-035.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,6 +22,7 @@ last_contact: 2025-10-15
 p1: STC-448DGGPM
 price_tier: 25%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-15 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,16 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1047.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://rarmx.com.mx/　语言：es　站点地图 URL 数：31
+- **标题**：SERVICIOS DE INGENIERIA EN TRATAMIENTOS DE AGUAS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 2
+- **社媒**：https://rarmx.com.mx/, https://rarmx.com.mx/automatizacion-control/, https://rarmx.com.mx/contacto/, https://rarmx.com.mx/electrodesionizacion/, https://rarmx.com.mx/ingenieria/, https://rarmx.com.mx/instalaciones-mecanicas/
+- **产品类页面**：https://rarmx.com.mx/productos/
+- 首页正文摘录：Ir al contenido Menú principal RARMX – Inicio Electrodesionización Tratamiento Aerobio y Anaerobio Ingeniería Mecánica Automatización y Control Soluciones para CPG Mantenimientos y Servicios Nosotros Contacto Somos una empresa mexicana especializada en soluciones integrales para el tratamiento de agua. Brindamos proyectos llave en mano, adaptados a las necesidades de cada industria Nuestros Servicios Tratamiento Anae
+- 数据文件：`data/saga_clients/site_snapshots/SB-1047.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

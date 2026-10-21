@@ -24,6 +24,7 @@ last_contact: 2025-02-26
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -101,6 +102,24 @@ updated: 2026-10-21
 - **风险/边界**：印度 BIS 认证（IS 13252）对部分 IT 设备强制，需确认交换机是否需 BIS；进口关税高；客户已有 Phoenix/Teltonika 授权线 → Saga 定位为低价第二品牌
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档
 - **邮件切入句（英文）**：Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://unitedcontrolengg.com/　语言：en-US　站点地图 URL 数：783
+- **标题**：Industrial Automation Company in Greater Noida / UCEIPL
+- **描述**：United Control Engineers India Pvt. Ltd., Authorized Delta, Schneider, ABB and Phoenix Contact distributor in Greater Noida for VFD, PLC, HMI
+- **首页栏目**：Our Channel Partners / Industries We Serve / Why Choose Us? / Our Presence in Greater Noida & Delhi NCR / Our Product Categories / Industrial Automation Products / Networking Products / Electronic Components
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 48、automation 32、switch 20、cable 4、distributor 1
+- **站内出现的品牌**：Phoenix Contact, Schneider, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RAL-7035, MS300, SS-304, RAL-2000
+- **站内公开邮箱**：marketing@unitedcontrolengg.com, office@unitedcontrolengg.com, sales@unitedcontrolengg.com
+- **站内公开电话**：+919311150492, +919990632600
+- **社媒**：https://www.facebook.com/unitedcontrolengg, https://www.instagram.com/unitedcontrolengg/, https://www.linkedin.com/company/u-c-e-i-p-l, https://www.linkedin.com/company/u-c-e-i-p-l/, https://www.linkedin.com/company/united-control-engineers-india-pvt-ltd/, https://www.youtube.com/channel/UCn-YzhIGfuNFKbOqk-45gaA
+- **产品类页面**：https://unitedcontrolengg.com/the-role-of-industrial-system-integrator-in-automation/；https://unitedcontrolengg.com/industrial-automation-in-greater-noida/；https://unitedcontrolengg.com/10-industrial-automation-trends/；https://unitedcontrolengg.com/cybersecurity-in-industrial-automation-the-hidden-shield-protecting-your-operations/；https://unitedcontrolengg.com/scada-vs-dcs-key-differences-in-industrial-automation/；https://unitedcontrolengg.com/how-industrial-automation-consultant-can-transform-your-bussiness/
+- **已抓子页**：[C&S - United Control Engineers India Pvt. Ltd.](https://unitedcontrolengg.com/automation-products-supplier-in-india-uce/cs-switchgears/)；[The Best Industrial Automation Company Profile- United Contr](https://unitedcontrolengg.com/industrial-automation-company/)；[Award Celebration / North India’s No.1 Delta Channel Partner](https://unitedcontrolengg.com/industrial-automation-company/award-celebration/)；[Phoenix Contact Products @ United Control Engineers](https://unitedcontrolengg.com/automation-products-supplier-in-india-uce/phoenix/)；[Automation Products Supplier in India – United control engin](https://unitedcontrolengg.com/automation-products-supplier-in-india-uce/)；[BCH Electric / Reliable Electrical & Automation Solutions](https://unitedcontrolengg.com/automation-products-supplier-in-india-uce/bch/)
+- 首页正文摘录：Skip to content Home About Us Company Mission & Vision Organization-Our Team Milestone Certificate Products Delta Schneider Phoenix Contact nVent Hoffman BCH Teltonika TTPL Connectwell & Controlwell KNT-LM Guide ABB C&S Polycab Services Project Integration Project Blog Awards Media Videos Career Contact Us Home About Us Company Mission & Vision Organization-Our Team Milestone Certificate Products Delta Schneider Phoe
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 53、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-016.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

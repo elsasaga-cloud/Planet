@@ -25,6 +25,7 @@ last_contact: 2025-12-30
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -98,6 +99,22 @@ updated: 2026-10-21
 - **风险/边界**：TAA/BAA 合规叙事是其核心卖点，中国产交换机难进其联邦/政府线；需在二封前问清 UL/TAA（INH 规则）；1 次回复、21 次跟进，热度低
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档
 - **邮件切入句（英文）**：For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://americanfibertek.com/　语言：en-US　站点地图 URL 数：93
+- **标题**：American Fibertek – MFG in USA
+- **首页栏目**：PRODUCTS / American Fibertek products are MANUFACTURED IN AMERICA
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 62、poe 40、ethernet 29、media converter 25、sfp 24、switch 15、gigabit 14、cctv 2、distributor 2、cable 1、integrator 1
+- **站内出现的品牌**：ComNet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MX8-NIC, RC7-14, MX7-FX, RX-50, RX-49, RX-46
+- **站内公开邮箱**：sales@americanfibertek.com, techinfo@americanfibertek.com, websales@americanfibertek.com
+- **社媒**：https://twitter.com/AmFibertek, https://www.facebook.com/amfiber
+- **产品类页面**：https://americanfibertek.com/products/；https://americanfibertek.com/products/mx1-series/；https://americanfibertek.com/products/mx2-series/；https://americanfibertek.com/products/mx-46-media-converter-series/；https://americanfibertek.com/products/rx-46-media-converter-series/；https://americanfibertek.com/products/mx-48-media-converter-series/
+- **已抓子页**：[SFP & Ethernet Switch – American Fibertek](https://americanfibertek.com/lines/sfp-ethernet-switch)；[Sub Racks – American Fibertek](https://americanfibertek.com/products/sub-racks/)；[1G2 Series: Open SFP Port, Gigabit, 2 Ethernet Ports, PoE, P](https://americanfibertek.com/products/1g2-series/)；[MX8-NIC Series: PCIe Gigabit Ethernet Fiber Network Interfac](https://americanfibertek.com/products/mx8-nic-series/)；[RC7-14 Subrack 14 Slot Media Converter Rack w/ Power Supplie](https://americanfibertek.com/products/rc7-14-subrack-14-slot-media-converter-rack-w-power-supplies/)；[Contact – American Fibertek](https://americanfibertek.com/contact/)
+- 首页正文摘录：Home Products Federal Data Sheets & Manuals Interlogix Cross Reference Guide Contact About Us Home Products Federal Data Sheets & Manuals Interlogix Cross Reference Guide Contact About Us MANUFACTURING IN AMERICA FOR 40 YEARS PRODUCTS MANUFACTURED IN U.S.A. NETWORK DEVICES IP Media Converters - PoE PoE+ & PoE++ Available Video & Video+ Data/Contact/Audio CCTV Data / Contact Closures / Audio Intercom & Telephone SFP &
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 40、监控 2 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-030.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

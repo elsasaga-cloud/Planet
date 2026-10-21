@@ -22,6 +22,7 @@ last_contact: 2025-10-02
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-04-04 → 2025-10-02）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-050.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://izux.es/　语言：es　站点地图 URL 数：340
+- **标题**：Cámaras de Seguridad, Alarmas y Control de Acceso - IZUX
+- **描述**：Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso y cerraduras electrónicas para hotel, hogar y negocio. Envío rápido y garantía oficial.
+- **首页栏目**：Producto añadido correctamente a su carrito de la compra / Hay 0 artículos en su carrito. Hay 1 artículo en su cesta. / Especialistas en Cámaras de Vigilancia, Alarmas y Control de Accesos / Cámaras de Vigilancia / Alarmas para hogar y negocio / Control de Acceso / Cerraduras Electrónicas para Hotel / Videoporteros
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 260、hikvision 187、switch 167、sfp 73、uniview 64、nvr 58、gigabit 54、dahua 48、cctv 47、wifi 45、cable 45、10g 16
+- **站内出现的品牌**：Hikvision, Ajax, Dahua, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RG-NBS7003, RG-NBS7006, SW8FE2GE-100W, DS-3E1318P-EI, DS-3E1326P-EI, RG-NBS6002, NVR302-16B-IQ, NVR302-32B-IQ, NVR502-09B, BATT-75V-3200WH, BATT-60V-6000WH, NVR-108S3-P8-ECO
+- **站内公开邮箱**：comercial@izux.es
+- **站内公开电话**：+34 963 320 337
+- **社媒**：https://twitter.com/IzuxSeguridad, https://wa.me/34661241886?text=Hola%2C%20vi%20su%20web%20y%20me%20gustar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sistemas%20de%20seguridad), https://www.facebook.com/pages/IZUX-Videovigilancia-y-Seguridad/231797096906699?ref=ts&fref=ts, https://www.linkedin.com/company/izux-ingenieria-y-seguridad-s-l-?trk=prof-following-company-logo, https://www.youtube.com/user/IZUXIngenieria?feature=watch
+- **产品类页面**：https://izux.es/322-kit-camaras-ip-poe；https://izux.es/nuevos-productos；https://izux.es/725-poe-split-poe-splitter-para-c%C3%A1maras-ip-no-poe.html；https://izux.es/2846-camara-ip-ipc-t122-apf28-eco-2mp-poe-vision-nocturna.html；https://izux.es/1583-camara-ip-ipc-b122-apf28-eco-2mp-poe-vision-nocturna.html；https://izux.es/1584-camara-uniarch-ip-ipc-b122-apf40-eco-2mp-poe-vision-nocturna.html
+- **已抓子页**：[Switch Ethernet y PoE / Switching Profesional CCTV - IZUX](https://izux.es/292-switches-ethernet-poe)；[IZUX](https://izux.es/module/supercheckout/supercheckout)；[Nuevos productos de seguridad, videovigilancia, videoportero](https://izux.es/nuevos-productos)；[Cámaras seguridad con grabador kit completo casa / izux.es -](https://izux.es/322-kit-videovigilancia-poe)；[Cámaras seguridad con grabador kit completo casa / izux.es -](https://izux.es/322-kit-videovigilancia-poe)；[Contacto - IZUX](https://izux.es/contacto)
+- 首页正文摘录：Email: comercial@izux.es/ Tlf: 963 320 337 Mi cuenta Agregar al presupuesto MI Carrito Iniciar sesión Buscar Carrito: 0 producto Productos vacío Ningún producto 0,00 € Total Confirmar Producto añadido correctamente a su carrito de la compra Cantidad Total Hay 0 artículos en su carrito. Hay 1 artículo en su cesta. Total productos: (tasas incluídas) Total (tasas incluídas) Continuar la compra Ir a la caja Menú VideoVig
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 16、交换机 167 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-050.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +167,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

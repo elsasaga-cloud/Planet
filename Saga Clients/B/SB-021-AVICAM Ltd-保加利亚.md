@@ -24,6 +24,7 @@ last_contact: 2025-10-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -98,6 +99,24 @@ updated: 2026-10-21
 - **风险/边界**：规模小；保加利亚非主动开拓；6 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）
 - **邮件切入句（英文）**：Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://avicam-bg.com/　语言：bg-BG　站点地图 URL 数：885
+- **标题**：Системи за видеонаблюдение и контрол • Топ цени • Avicam
+- **描述**：Голяма гама системи за видеонаблюдение и контрол от вносител ➤ Безплатна бърза доставка ➤ Възможност за монтаж
+- **首页栏目**：Избери категория / Актуални предложения / WIFI IP 4MP булет камера DAHUA IPC-F4C-PV / 4MP ICSee соларна камера Wifi Home Eye 2 PRO / WIFI IP 2MP булет камера DAHUA IPC-F2C-PV-0280B / 4MP Безжичен Комплект за видеонаблюдение “WiFi2-PTWS-4” / 4MP Wifi iCsee/XMeye панорамна камера 180° V-IPC-400W-PANO / Повече за АВИКАМ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 79、dahua 34、hikvision 30、poe 15、nvr 9、cctv 2、ethernet 1
+- **站内出现的品牌**：Dahua, Ajax, Hikvision, HRUI（！）　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IPC-F4C-PV, TS-HD2D, IPC-F2C-PV-0280B, PTWS-4, V-IPC-400W-PANO, TCD-30M2, IPC-F4CP-PV-0360B, F4C-PV-0360, RJ-45, DD20-SDI, TS-HD04L, V-IPC-200W-A7
+- **站内公开邮箱**：sales@avicam-bg.com
+- **站内公开电话**：+359 2 8325757, +359 2 8327084, +359 885 334438, +359885334438
+- **社媒**：https://www.facebook.com/avicam.ltd/
+- **产品类页面**：https://avicam-bg.com/shop/；https://avicam-bg.com/product/%d0%b1%d0%b5%d0%b7%d0%b6%d0%b8%d1%87%d0%b5%d0%bd-%d1%81%d0%bf%d0%b8%d1%80%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%bd-%d0%ba%d1%80%d0%b0%d0%bd-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-3-4-ajax-waterstop-3-4-50/；https://avicam-bg.com/product/%d0%b1%d0%b5%d0%b7%d0%b6%d0%b8%d1%87%d0%b5%d0%bd-%d1%81%d0%bf%d0%b8%d1%80%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%bd-%d0%ba%d1%80%d0%b0%d0%bd-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-3-4-ajax-waterstop-3-4-50-2/；https://avicam-bg.com/product/%d0%b1%d0%b5%d0%b7%d0%b6%d0%b8%d1%87%d0%b5%d0%bd-pir-%d0%b4%d0%b5%d1%82%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d0%b7%d0%b0-%d0%b4%d0%b2%d0%b8%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81-%d0%b2%d0%b8%d0%b7%d1%83/；https://avicam-bg.com/product/%d0%b1%d0%b5%d0%b7%d0%b6%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b5%d1%82%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d0%b7%d0%b0-%d0%b4%d0%b8%d0%bc-%d1%82%d0%be%d0%bf%d0%bb%d0%b8%d0%bd%d0%b0-%d0%b8-%d0%b2%d1%8a%d0%b3-2/；https://avicam-bg.com/product/%d0%b1%d0%b5%d0%b7%d0%b6%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b5%d1%82%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d0%b7%d0%b0-%d0%b4%d0%b8%d0%bc-%d1%82%d0%be%d0%bf%d0%bb%d0%b8%d0%bd%d0%b0-%d0%b8-%d0%b2%d1%8a%d0%b3-3/
+- **已抓子页**：[POE Archives - АВИКАМ](https://avicam-bg.com/product-category/%D0%BC%D0%B0%D1%80%D0%BA%D0%B8/poe-%D0%BC%D0%B0%D1%80%D0%BA%D0%B8/)；[Марки - АВИКАМ](https://avicam-bg.com/product-category/brands/)；[Контакти - АВИКАМ](https://avicam-bg.com/contacts/)；[WIFI IP 4MP булет камера DAHUA IPC-F4C-PV - АВИКАМ](https://avicam-bg.com/product/wifi-ip-4mp-bulet-camera-dahua-ipc-f4c-pv/)；[4MP ICSee соларна камера Wifi Home Eye 2 PRO - АВИКАМ](https://avicam-bg.com/product/4mp-icsee-solar-camera-wifi-home-eye-2-pro/)；[Безжични WiFi камери Видеонаблюдение - АВИКАМ](https://avicam-bg.com/product-category/kameri-za-videonabliudenie/wireless-wifi-cameras/)
+- 首页正文摘录：+359 2 8327084 sales@avicam-bg.com Facebook Facebook Безплатна доставка над 150€  Моят акаунт Търсене за: 0 елемента Камери за дома и офиса Продукти Безжични WiFi камери WiFi камери за външен монтаж WiFi камери за вътрешен монтаж Соларни Wifi и 4G Камери Комплекти за видеонаблюдение Комплекти за видеонаблюдение с 2бр. до 4бр. камери Комплекти за видеонаблюдение с 6бр. до 8бр. камери Комплекти за видеонаблюдение с 10
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 15、监控 11 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-021.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

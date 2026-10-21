@@ -24,6 +24,7 @@ last_contact: 2026-01-07
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -114,6 +115,22 @@ updated: 2026-10-21
 - **风险/边界**：印度「Make in India」BIS 路线：可能转向本地组装（SKD/CKD）而非整机进口；ONV 关系稳固；切入点为 Marvell 平台二供
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档
 - **邮件切入句（英文）**：Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://impulsecctv.com/　语言：en-US　站点地图 URL 数：546
+- **标题**：Impulse CCTV / Industrial Grade PoE Network Switches
+- **描述**：Impulse CCTV is a global manufacturer of industrial grade CCTV surveillance and PoE Network Switches. Make in India Certified, Global certifications.
+- **首页栏目**：Home / High-risk Critical Infrastructure Security Experts / LX Series / DX Series / Impulse Switches are Now TEC Certified / Our Solutions / By Industry / By Application
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 412、access control 115、industrial 70、wireless 56、camera 42、nvr 35、cctv 26、surveillance 9、2.5g 8、poe 6
+- **站内型号串**（正则抽取，含非交换机）：IMP-IGS-2, IMP-IGS-1G06CP, IMP-IGS-1G10CP, IMP-IGS-1G12CG, IMP-IGS-1G14CP, IMP-IGS-1G16CP, IMP-ISWT-0002-8P-8S, IMP-ISWT-0002-TS, IMP-ISWT-002-P, IMP-ISWT-002-T2, IMP-ISWT-0002-16T-4S, IMP-ISWT-0002-T
+- **站内公开邮箱**：info@impulsecctv.com
+- **社媒**：https://twitter.com/impulsecctv/, https://www.linkedin.com/company/impulse-cctv/
+- **产品类页面**：https://impulsecctv.com/case-study/switching-supply-for-sundergarh-college-and-hospital/；https://impulsecctv.com/technologies/how-video-surveillance-can-improve-industrial-security-measures/；https://impulsecctv.com/blog/industrial-security-camera-solutions-protecting-your-assets/；https://impulsecctv.com/blog/network-switching-selecting-poe-poe-and-poe-solutions/；https://impulsecctv.com/blog/poe-switches-for-secure-and-efficient-video-surveillance/；https://impulsecctv.com/blog/industrial-poe-switch-security/
+- **已抓子页**：[Industrial Grade Network Switches for CCTV / Industrial CCTV](https://impulsecctv.com/product-category/industrial-network-switches/)；[Industrial Grade Switches / Industrial Ethernet Switches](https://impulsecctv.com/product-category/network-switches/industrial-grade-switches-igs/)；[Industrial Grade Switches (ISWT) / Impulse](https://impulsecctv.com/product-category/network-switches/industrial-grade-switches-iswt/)；[Layer 3 Switch / Impulse](https://impulsecctv.com/product-category/network-switches/industrial-grade-switches-igs/layer-3-switch-industrial-grade-switches-igs/)；[Layer 2 Switch / Impulse](https://impulsecctv.com/product-category/network-switches/industrial-grade-switches-igs/layer-2-switch-industrial-grade-switches-igs/)；[Layer 2 Switch / Impulse](https://impulsecctv.com/product-category/network-switches/industrial-grade-switches-iswt/layer-2-switch-industrial-grade-switches-iswt/)
+- 首页正文摘录：About Impulse Careers Privacy Policy Project Inquiry Contact Us Menu About Impulse Careers Privacy Policy Project Inquiry Contact Us Home Products Network Cameras Bullet Dome PTZ Box Fisheye Thermal Network Video Recorders (NVR) Video Management System Video Door Phone Wireless Solution Wireless Controller Access Point Indoor Ceiling Mount Indoor Wall Mount Out Door Access Point Network Switches Chassis Based Core Sw
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 70、PoE 6 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-023.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,9 +22,10 @@ replies: 1
 followups: 24
 first_contact: 2024-05-01
 last_contact: 2025-10-29
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +35,7 @@ updated: 2026-10-21
 - **是谁**：韩国网络设备品牌厂商（ADC/安全交换机自有产品线），Secon 2023 参展商；联系人 Tae Gu Lee；需求为'Realtek 高端系列芯片'，1 次回复、24 次跟进。（调研 2026-10-21；表内兴趣：想要realtek高端系列的芯片）
 - **为什么是 B 级**：**调研后定级 B**（品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 24 次（2024-05-01 → 2025-10-29）；最近一次客户回复：2025-02-18：让加微信谈
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -68,6 +69,22 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。
 - 备注：若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.piolink.com/en/　语言：en-US　站点地图 URL 数：105
+- **标题**：PIOLINK - Optimizing Your Cloud Data Center
+- **描述**：PIOLINK is a professional in cloud data center optimization and provides products, service, and solutions for various IT infrastructure demands.
+- **首页栏目**：PIOLINK is Professional in Cloud Data Center Optimization. / PIOLINK NEWS / 24x7 Technical Support
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 86、wireless 8、wifi 5、access control 4、camera 2、data center 2、poe 1、10g 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：BS9800, BS9805, BS9808, BS9810, CA1002C
+- **站内公开电话**：+82-2-2025-6900, +82-2-2025-6901
+- **社媒**：http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/company/Contact.php, http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Backbone-Switch.php, http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Cloud-Managed-Networking.php, http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Cloud-Security-Switch.php, http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/TiFRONT-AP.php, http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/TiFRONT-ZT-Zero-Trust.php
+- **产品类页面**：https://www.piolink.com/kr/product/Application-Delivery-Controller.php；https://www.piolink.com/kr/product/GSLB-global-server-load-balancing.php；https://www.piolink.com/kr/product/Application-Availability.php；https://www.piolink.com/kr/product/Application-Acceleration.php；https://www.piolink.com/kr/product/Web-Application-Firewall.php；https://www.piolink.com/kr/product/Web-Application-Firewall-for-Cloud.php
+- **已抓子页**：[PIOLINK - TiFRONT Backbone Switch](https://www.piolink.com/en/product/Backbone-Switch.php)；[PIOLINK - TiFRONT Cloud Security Switch](https://www.piolink.com/en/product/Cloud-Security-Switch.php)；[PIOLINK - Cloud Managed Networking](https://www.piolink.com/en/product/Cloud-Managed-Networking.php)；[PIOLINK - Contact Us](https://www.piolink.com/en/company/Contact.php)；[PIOLINK - TiFRONT-AP](https://www.piolink.com/en/product/TiFRONT-AP.php)；[PIOLINK - TiFRONT ZT](https://www.piolink.com/en/product/TiFRONT-ZT-Zero-Trust.php)
+- 首页正文摘录：Skip to main content Skip to main menu Products Application Delivery Controller PAS-K Application Availability Application Acceleration Web App & API Protection WEBFRONT-K Comprehensive Web Security Various deployment modes Cloud Managed Networking​ TiFRONT ZT Cloud Managed Networking TiFRONT Cloud Security Switch TiFRONT Security AP TiFRONT Backbone Switch Resource Insight Tech Guide Case Studies Downloads Support P
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-097.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,18 +156,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌厂商（自研交换机）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌厂商（自研交换机）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -160,7 +176,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（韩国上市公司，待补证）
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（韩国上市公司，待补证）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -188,14 +204,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Tae,
 
 Picking up our earlier exchange about PoE / industrial switches.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -24,6 +24,7 @@ last_contact: 2025-10-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -123,6 +124,22 @@ updated: 2026-10-21
 - **风险/边界**：EWIND 关系牢固（5 年、熟悉）→ 不做替换，只做 2.5G/新品类二供；防水（IP67）交换机 Saga 不做
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档
 - **邮件切入句（英文）**：Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bselectronics.gr/　语言：el　站点地图 URL 数：1364
+- **标题**：Συστήματα Ασφαλείας Θεσσαλονίκη Σε Χονδρική / BS Electronics
+- **描述**：Συστήματα ασφαλείας σε χονδρική και λιανική από την BS Electronics στη Θεσσαλονίκη. Άριστη ποιότητα, προσιτές τιμές και πλήρης προστασία των ιδιωτικών σας χώρων!
+- **首页栏目**：B&S Electronics / Συστήματα Ασφαλείας / Κλειστό Κύκλωμα Εικόνας Ήχου / Συστήματα Πυρανίχνευσης / Modules - Τροφοδοτικά - Μεταλλικά & Πλαστικά Κυτία / Μπαταρίες / UPS / Καλώδια
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 31、switch 10、cctv 7、access control 4、nvr 3、ethernet 2、wifi 2、hikvision 1
+- **站内出现的品牌**：Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TPSPOE48050, TPSPOEWP48050, DC1561, TD-9544S5L-C, TD-9441S5L-C, TD-P0808W1-001, TD-P0404W1-001, TD-3008H1-8P-A1L, TD-3004H1-4P-A1L, WRLHDMI-020, TRG-HD5010, TRG-HD5000
+- **站内公开电话**：005 2310 860 278
+- **产品类页面**：https://bselectronics.gr/tpspoe48050_4；https://bselectronics.gr/tpspoe48050_8；https://bselectronics.gr/tpsmvpoe48050-8ch；https://bselectronics.gr/tpspoe48050_16；https://bselectronics.gr/tpspoewp48050_4；https://bselectronics.gr/tpspoewp48050_8
+- **已抓子页**：[Power Supplies and PoE UPS](https://bselectronics.gr/power-supplies-and-poe-ups)；[Η Εταιρεία](https://bselectronics.gr/about_us)
+- 首页正文摘录：B&S Electronics Μενου Το καλαθι σας Σύνδεση (Login) Δημιουργία Λογαριασμού Λίστα Αγαπημένων 0 0 προϊόν(τα) - 0,00€ 0 Το καλάθι αγορών είναι άδειο! Menu Αρχικη Εταιρεια Προϊοντα Συστήματα Ασφαλείας Κλειστό Κύκλωμα Εικόνας Ήχου Συστήματα Πυρανίχνευσης Modules - Τροφοδοτικά - Μεταλλικά & Πλαστικά Κυτία Μπαταρίες UPS Καλώδια Access Control Δικτυακά Προϊόντα Έξυπνες Λύσεις Αξεσουάρ-Εργαλεία Καμπίνες RACK 19" Προσφορες Νέα
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 31、监控 10 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-083.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

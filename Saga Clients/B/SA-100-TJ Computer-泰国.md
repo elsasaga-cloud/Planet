@@ -25,6 +25,7 @@ last_contact: 2025-03-18
 p1: STI-144GP
 price_tier: 20%
 research: done
+site_snapshot: unreachable  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -36,7 +37,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 1 次（2025-03-18 → 2025-03-18）；最近一次客户回复：2025-03-18：Interested
 - **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -67,6 +68,15 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。
 - 备注：邮件一次性给 STI-244GP/5 口型号资料即可。
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：tj2003.net
+  > https://tj2003.net/ conn: HTTPSConnectionPool(host='tj2003.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
+  > https://www.tj2003.net/ conn: HTTPSConnectionPool(host='www.tj2003.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("H
+  > http://tj2003.net/ conn: HTTPConnectionPool(host='tj2003.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPCon
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SA-100.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,6 +164,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

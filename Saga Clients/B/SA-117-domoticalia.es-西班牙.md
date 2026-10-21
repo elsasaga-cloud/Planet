@@ -25,6 +25,7 @@ last_contact: 2025-11-06
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -103,6 +104,22 @@ updated: 2026-10-21
 - **风险/边界**：网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W
 - **邮件切入句（英文）**：Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.domoticalia.es/en/　语言：en-us　站点地图 URL 数：0
+- **标题**：Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee, y SmartThings ...
+- **描述**：Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee y SmartThings. ...
+- **首页栏目**：Product successfully added to your shopping cart / There are 0 items in your cart. There is 1 item in your cart.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 100、poe 73、camera 47、gigabit 41、wifi 36、ethernet 30、industrial 22、automation 22、sfp 22、nvr 14、fiber 8、surveillance 7
+- **站内出现的品牌**：Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SLZB-06, CC2652P, ECS5512FP, WI-PS326GF, NIS3006GP-WMC, NIS3016, ST3124GS, ST3108GC, ST3105GC, WI-MC111GP, ECS1528P, ST3118GS-D
+- **站内公开邮箱**：atencioncliente@domoticalia.es, license@prestashop.com, tech@202-ecommerce.com
+- **站内公开电话**：+34) 91 005 26 51
+- **已抓子页**：[PoE Switches](https://www.domoticalia.es/en/75-poe-switches)；[Industrial switches designed to meet needs industrial enviro](https://www.domoticalia.es/en/170-industrial-switches)；[Gigabit-Ethernet Switches](https://www.domoticalia.es/en/72-gigabit-ethernet-switches)；[Manufacturers](https://www.domoticalia.es/en/manufacturers)；[Cámaras PoE](https://www.domoticalia.es/en/133-camaras-poe)；[Wall switches and dimmers](https://www.domoticalia.es/en/121-wall-switches-and-dimmers)
+- 首页正文摘录：Sign in Contact us Call us now: (+34) 91 005 26 51 English English Español Português Search Cart 0 Product Products (empty) No products Free shipping! Shipping 0,00 € Tax 0,00 € Total Prices are tax included Check out Product successfully added to your shopping cart Quantity Total There are 0 items in your cart. There is 1 item in your cart. Total products (tax incl.) Total shipping (tax incl.) Free shipping! Tax 0,0
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 27、PoE 73 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-117.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

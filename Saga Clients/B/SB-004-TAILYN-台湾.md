@@ -22,6 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-10-20）；最近一次客户回复：2025-07-09：INFO
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-004.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tailyn.com.tw/en/home/　语言：en　站点地图 URL 数：2
+- **标题**：Tailyn Technologies, Inc.
+- **描述**：Challenges are prospects that evolve from the future, for the purpose of fulfilling the smart life TAILYN has accumulated 40 years of devoted focus in industrial applications, telecommunications, telematics and other precision equipment domains, providing comprehensive, integrated solutions through
+- **首页栏目**：Tailyn Technologies, Inc. / News / Solutions / Product / Manufacturing / Come connect with us / Point of View / Support
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 166、ethernet 159、industrial 61、poe 39、gigabit 24、sfp 23、wireless 16、automation 7、surveillance 7、access control 7、10g 3、odm 3
+- **站内型号串**（正则抽取，含非交换机）：IEC61850, EN50155, IEEE802, IVS-400, QSFP28, SFP28, ISO9001, IVS-PL500, IVS-500, IMP-HF528, IAS-300, IIS-300
+- **站内公开电话**：+886-3-322-2201
+- **已抓子页**：[Product - Industrial Communication/Wireless Solution/Network](https://www.tailyn.com.tw/en/product/1)；[PoE Switch, Railway Solution｜Tailyn Technologies, Inc.](https://www.tailyn.com.tw/en/product/14/)；[Layer 2+ Switch, Gigabit Ethernet Switch, Rack Mount Switch｜](https://www.tailyn.com.tw/en/product/7/)；[Unmanaged Switch｜Tailyn Technologies, Inc.](https://www.tailyn.com.tw/en/product/4/)；[TSN Switch](https://www.tailyn.com.tw/en/product/79/)；[Layer3 Switch, Gigabit Ethernet Switch, Rack Mount Switch｜Ta](https://www.tailyn.com.tw/en/product/13/)
+- 首页正文摘录：Tailyn Technologies, Inc. Language： English 中文 日本語 People People Client Story Chairman Team Story Solutions Solutions Industrial Communication 5G Cellular Networks Factory Automation Power Utilities Surveillance Transportation AI TSN Solution Industrial PC Automotive Electronics Semiconductor Equipment Product Product Industrial Ethernet Switch TSN Ethernet Switch L3 Managed Ethernet Switches L2+ Managed Ethernet Swi
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 66、PoE 39 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-004.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

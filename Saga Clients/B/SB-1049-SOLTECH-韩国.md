@@ -22,6 +22,7 @@ last_contact: 2025-10-24
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -33,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 23 次（2024-05-09 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +66,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1049.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fibermart.co.kr/　语言：ko　站点地图 URL 数：0
+- **标题**：파이버마트 - 통신 네트워크 전문 쇼핑몰
+- **描述**：솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰
+- **首页栏目**：고객센터 : 070-4628-5231 / 현재 결제가 진행중입니다.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 55、sfp 50、poe 40、fiber 21、tp-link 21、10g 19、industrial 8、mikrotik 8、cisco 4、2.5g 3、wifi 2、nvr 1
+- **站内出现的品牌**：MikroTik, Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP28, QSFP28, SFC510HP, SFC516HP, SFC1200-HDFT, CSS610-8P-2S, CRS520-4XS-16XQ-RM, RJ-45, SL200-PW8, SFC4100T, SM-24C, SFP-25G
+- **站内公开邮箱**：morenvy@hanmail.net, yji@soltech.co.kr
+- **社媒**：https://www.instagram.com/fiberlab_by_fibermart?igsh=bjQzb2JsaDIxM3Bn, https://www.youtube.com/channel/UCtKV7NbfznwOzOwuij-g_1Q
+- **已抓子页**：[솔텍 SFC510HP 1G PoE 스위치 10포트 8포트 PoE 125W](https://fibermart.co.kr/product/%EC%86%94%ED%85%8D-sfc510hp-%EC%8A%A4%EC%9C%84%EC%B9%98-1gbps-tp-10%ED%8F%AC%ED%8A%B8poe-8%ED%8F%AC%ED%8A%B8/15506/category/1/display/4/?icid=MAIN.product_listmain_3)；[솔텍 SFC516HP 16포트 기가비트 PoE 스위치 230W 파이버마트](https://fibermart.co.kr/product/%EC%86%94%ED%85%8D-sfc516hp-v3-%EC%8A%A4%EC%9C%84%EC%B9%98-1gbps-poe-16%ED%8F%AC%ED%8A%B81g-sfp-2%EC%8A%AC%EB%A1%AF/9609/category/1/display/2/?icid=MAIN.product_listmain_1)；[솔텍 SFC1200-HDFT PoE HD VIDEO 1080P 익스텐더 광 컨버터 TX/RX](https://fibermart.co.kr/product/%EB%8B%A8%EB%8F%85%ED%8A%B9%EA%B0%80-%EC%86%94%ED%85%8D-sfc1200-hdft-poe-hd-video1080p-%EC%9D%B5%EC%8A%A4%ED%85%90%EB%8D%94-%EA%B4%91-%EC%BB%A8%EB%B2%84%ED%84%B0-txrx/18348/category/1/display/4/?icid=MAIN.product_listmain_3)；[파이버마트 / MikroTik CSS610-8P-2S+OUT PoE 스위치 산업용 L2](https://fibermart.co.kr/product/mikrotik-css610-8p-2sout-netpower-lite-8p-8%ED%8F%AC%ED%8A%B8-%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8-poe-%EC%8A%A4%EC%9C%84%EC%B9%98-sfp-10g-ups/19276/category/1/display/5/?icid=MAIN.product_listmain_4)；[마이크로틱 MikroTik CRS520-4XS-16XQ-RM 100G 16포트 스위치 L3HW오프로딩 RoC](https://fibermart.co.kr/product/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%8B%B1-mikrotik-crs520-4xs-16xq-rm-100g-16%ED%8F%AC%ED%8A%B8-%EC%8A%A4%EC%9C%84%EC%B9%98-l3hw%EC%98%A4%ED%94%84%EB%A1%9C%EB%94%A9-roce%EC%A7%80%EC%9B%90-%EC%82%B0%EC%97%85%EC%9A%A9-in/19271/category/1/display/5/?icid=MAIN.product_listmain_4)；[CCTV｜보안카메라·IP카메라·CCTV 녹화기](https://fibermart.co.kr/product/list.html?cate_no=297)
+- 首页正文摘录：{#text_1} {#imgTag_1} 인기 검색어 스위칭허브 전동드라이버 광케이블 옥외용 케이블 cctv 10G컨버터 멀티탭 서지보호기 누전차단기 서버렉 최근 검색어 전체삭제 닫기 로그인 회원가입 주문조회 고객센터 마이페이지 로그인 회원가입 주문배송조회 마이페이지 최근본상품 장바구니 FiberMart 특가 솔텍 통신장비 네트워크 광케이블 CCTV 전원/전기 공구 TV/모니터 커뮤니티 공지사항 자주 묻는 질문 상품 문의 상품 후기 이벤트 견적문의 마이페이지 로그인 회원가입 주문배송조회 마이페이지 최근본상품 장바구니 FiberMart 특가 솔텍 통신장비 네트워크 광케이블 CCTV 전원/전기 공구 TV/모니터 커뮤니티 공지사항 자주 묻는 질문 상품 문의 상품 후기 이벤트 로그인해주세요 회원가입 주문조회 마이페이지 1 FiberMart 특가 솔텍 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 8、PoE 40 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1049.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -182,7 +199,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

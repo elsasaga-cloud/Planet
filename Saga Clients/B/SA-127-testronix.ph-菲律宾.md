@@ -25,6 +25,7 @@ last_contact: 2025-10-09
 p1: none
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -86,6 +87,23 @@ updated: 2026-10-21
 - **风险/边界**：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
 - **邮件切入句（英文）**：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://testronix.ph/　语言：en-US　站点地图 URL 数：70
+- **标题**：Transform Your Business with Testronix ICT Solutions
+- **描述**：Discover Testronix ICT solutions for optimized network performance. Take your network to the next level with our innovative solutions!
+- **首页栏目**：Speed Up Your Digital Growth with Smooth, Reliable Connections / UPCOMING EVENT: / Operational Excellence Through Intelligent Infrastructure / Get the Right Solutions for Your Network Problems with Testronix ICT Solutions / Why Choose Testronix? / How we help optimize network from design to performance / aVert / Validate
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 38、automation 22、wireless 14、telecom 8、data center 8、cisco 7、ethernet 3、switch 2、2.5g 2、10g 1、access control 1、ftth 1
+- **站内出现的品牌**：Cisco, Ruijie, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MTS-5800
+- **站内公开邮箱**：sales@testronix.com.ph, techsupport@testronix.com.ph
+- **社媒**：http://sales@testronix.com.ph, https://ph.linkedin.com/company/testronix-inc, https://www.facebook.com/testronix.inc, https://www.instagram.com/testronix.inc/
+- **产品类页面**：https://testronix.ph/crysa-shop/
+- **已抓子页**：[Fiber Network - Testronix](https://testronix.ph/fiber-network/)；[Network Equipment Manufacturers - Testronix](https://testronix.ph/network-equipment-manufacturers/)；[Reliable Network Equipment Solutions for Businesses - Testro](https://testronix.ph/network-equipment-solutions/)；[Viavi Solutions - Testronix](https://testronix.ph/product-category/viavi/)；[NTT AT - Testronix](https://testronix.ph/product-category/ntt-at/)；[Fitel - Testronix](https://testronix.ph/product-category/fitel/)
+- 首页正文摘录：Home Solutions Fiber Network Network Monitoring Network Forensic Network Equipment Network Timing Network Security Wireless Solutions Network Automation Power Solutions Connectivity and Communications Network Resiliency Industries Telecom and ISP Network Equipment Manufacturers Contractors Data Centers Utilities Government Agencies Enterprise Businesses Broadcasting Military Brands Viavi NTT AT Celerway Fitel Cisco F
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-127.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,6 +24,7 @@ last_contact: 2025-10-24
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -120,6 +121,17 @@ updated: 2026-10-21
 - **风险/边界**：韩国 KC 认证与韩文 Web UI 要求（其 L3 机型卖点是「한글 웹 설정」）；bypass/波分不在 Saga 型谱；韩国不在主攻区
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——NEXT-POE8022GDT / POE9628GDT（8 PoE + 2 SFP 工业）与 STI-288DGGPM 同位；16 口位 STI-21616GP；OEM 30% 档；bypass 另核
 - **邮件切入句（英文）**：Your POE9628GDT and NEXT-POE8022GDT sit on the same 8-port gigabit PoE + 2 SFP industrial footprint we build on a Marvell core, so I am quoting that in NEXTU packing with the 16-port 240W model as the second SKU.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ez-net.co.kr/　语言：ko　站点地图 URL 数：0
+- **标题**：(주)이지넷유비쿼터스ㅣNEXTU
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 2、10g 1、cctv 1
+- **社媒**：https://www.instagram.com/nextu_headoffice/, https://www.youtube.com/@10techlife
+- **已抓子页**：[(주)이지넷유비쿼터스ㅣNEXTU](https://ez-net.co.kr/network/index.php)
+- 首页正文摘录：본문 바로가기 주메뉴 바로가기 네트워크 장비 디지털 생활용품 전체 제품보기 네트워크 솔루션 고객지원 A/S안내 드라이버 다운로드 FAQ 자료실 공지사항 이메일문의 회사소개 인사말 연혁 및 납품실적 스마트 물류 허브 브랜드 소개 최신뉴스 제품구입 공식 스토어 리퍼 스토어 유통파트너 및 취급점 정부조달 나라장터 나라장터 영업신고 KOR KOR ENG 검색 메뉴 검색 닫기 Close 네트워크 장비 스위치허브 / PoE 장치 / KVM / 영상 리피터 등의 각종 네트워크 장비 디지털 생활용품 테크 및 멀티미디어 액세서리 / 아웃도어 전자 기기 등 각종 일상생활의 전자기기 Copyright © 넥스트유. All Right Reserved.
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-017.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

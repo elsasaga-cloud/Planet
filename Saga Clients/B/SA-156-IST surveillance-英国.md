@@ -24,6 +24,7 @@ last_contact: 2025-10-23
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -90,6 +91,11 @@ updated: 2026-10-21
 - **风险/边界**：规模与业务不可核；17 次推送 0 回复 → 低优先
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定
 - **邮件切入句（英文）**：If your monitoring installs still use 8-camera PoE cabinets, the gigabit 8-port PoE+ managed switch with 2 SFP is $84.1 EXW; which recorder brand do you pair it with?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://istsurveillance.co.uk/　语言：未标　站点地图 URL 数：1
+- 数据文件：`data/saga_clients/site_snapshots/SA-156.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
