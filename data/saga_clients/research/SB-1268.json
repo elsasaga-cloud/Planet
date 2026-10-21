@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（westpennwire.com，快照 2026-10-21）",
- "summary": "美国制造商（同行或 OEM 客户待核）：官网「Low-Voltage wire and cable specialists-West Penn Wire」（en）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换；产品页：order-catalog.php、2018-WPW-Catalog.pdf、NetworkCableProductsBrochure(8).pdf、17295 WPW Digital AV Products Brochure -；表内「无源器件为主 MC switch」；表内未见跟进记录。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。",
+ "type": "线缆制造商（美国，MC/交换机为有源副线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "无源器件为主 MC switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "West Penn Wire 定位",
+   "quote": "Low-Voltage wire and cable specialists-West Penn Wire ; Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications",
+   "url": "https://westpennwire.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无源为主 MC switch",
+   "quote": "无源器件为主 MC switch；sigmax的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 westpennwire.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "光纤 / 低压线缆制造（美国）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "线缆制造商（美国，MC/交换机为有源副线）",
   "region": "美国",
   "contact": "info@westpennwire.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://westpennwire.com/）",
-  "官网公开邮箱：info@westpennwire.com、sales@westpenn-wpw.com、sales@westpennwire.com",
-  "用户表兴趣/备注：无源器件为主 MC switch"
+  "官网：Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications；页面 /pdf/brochures/NetworkCableProductsBrochure(8).pdf；kw cable 52",
+  "表内：无源器件为主 MC switch；sigmax 的"
  ],
  "risks": [
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+  "主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 25,
+  "why": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?"
 }

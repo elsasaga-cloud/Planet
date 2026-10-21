@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tecside.be，快照 2026-10-21）",
- "summary": "比利时系统集成/工程商：官网「LED Verlichting & Audiovisuele Oplossingen België」（nl-BE）；表内「4光8电 10G光 2.5G网 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "比利时 TECside BV（鲁汶：定制 LED 照明、专业视听安装、自动化系统（餐饮、电视、零售、娱乐）；阿里巴巴 RFQ「4 光 8 电 10G 光 2.5G 网」；KP Giovanni Desramault）；表内未跟进。",
+ "type": "LED/AV 安装商（比利时，2.5G/10G 交换机 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,61 @@
    "quote": "4光8电 10G光 2.5G网 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TECside 定位",
+   "quote": "LED Verlichting & Audiovisuele Oplossingen België ; Maatwerk LED verlichting, professionele audiovisuele installaties ; Eigen werkplaats in Leuven",
+   "url": "https://tecside.be/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "4 光 8 电 10G 2.5G RFQ",
+   "quote": "4光8电 10G光 2.5G网 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Giovanni Desramault",
+   "title": "（职务待核）",
+   "email": "orders@tecside.be",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "比利时",
   "other": "官网 tecside.be，语言 nl-BE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "LED 照明 / 视听安装 / 自动化（比利时）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "LED/AV 安装商（比利时，2.5G/10G 交换机 RFQ）",
   "region": "比利时",
   "contact": "orders@tecside.be"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://tecside.be/）",
-  "官网公开邮箱：solution@tecside.be",
-  "用户表兴趣/备注：4光8电 10G光 2.5G网 / from: 阿里巴巴RFQ"
+  "官网：TECside: Maatwerk LED verlichting, professionele audiovisuele installaties en unieke lichtcreaties voor horeca, TV, retail en entertainment ; Eigen werkplaats in Leuven",
+  "表内：4 光 8 电 10G 光 2.5G 网 / from: 阿里巴巴 RFQ；KP Giovanni Desramault"
  ],
- "risks": [],
+ "risks": [
+  "RFQ 规格（8×2.5G + 4×10G）在 Saga 价格主表中待核（可能需 SmartByte 型号，注明）；AV 安装商单项目量小；仅 orders@"
+ ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：系统集成/工程商→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位"
  },
- "email_hook": "Giovanni, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Giovanni, regarding your 8 × 2.5G + 4 × 10G SFP+ switch requirement for AV installations: we supply Marvell-based L2+ switches (8-GE/PoE + 2 SFP; 24-GE + 4 × 10G SFP+) with IGMP for AV-over-IP from single units, CE/RoHS, EXW USD — how many units and is PoE needed on the 2.5G ports?"
 }

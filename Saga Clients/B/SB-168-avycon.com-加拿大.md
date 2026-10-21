@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-168`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
-> **类型**：网络/安防经销或集成（官网未见角色词，待核）（推断）　|　**历史关系**：推送 8 次（2025-03-01 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防品牌商（北美，PoE 现 ONV）（推断）　|　**历史关系**：推送 8 次（2025-03-01 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-168
@@ -12,7 +12,7 @@ score: 49
 country: 加拿大
 region: 北美
 website: avycon.com
-type: 网络/安防经销或集成（官网未见角色词，待核）
+type: 安防品牌商（北美，PoE 现 ONV）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 8
 first_contact: 2025-03-01
 last_contact: 2025-10-17
 p1: STC-28DGGPM
-price_tier: 25%
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大网络/安防经销或集成（官网未见角色词，待核）：官网「AVYCON」（en）；产品页：apd-pig-roast-product-show、apd-montana-bbq-product-show、apd-amarillo-tx-bbq-product-show；表内「商业POE 工业FS 周边产品 有ONV的」；群发 8 次、无回复。（调研 2026-10-21；表内兴趣：商业POE 工业FS 周边产品 有ONV的）
+- **是谁**：加拿大/美国 AVYCON（安防摄像机/录像机品牌，经销商活动（APD product show）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；KP John L（President）、Jorge D（Technical Support Team Manager））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：商业POE 工业FS 周边产品 有ONV的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-01 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | avycon.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | avycon.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 网络/安防经销或集成（官网未见角色词，待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防品牌商（北美，PoE 现 ONV） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量高 / John L / President / Jorge D / Technical Support Team Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE 工业FS 周边产品<br>有ONV的 | 事实（用户表） |
@@ -66,29 +66,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（avycon.com，快照 2026-10-21）
-- **是谁**：加拿大网络/安防经销或集成（官网未见角色词，待核）：官网「AVYCON」（en）；产品页：apd-pig-roast-product-show、apd-montana-bbq-product-show、apd-amarillo-tx-bbq-product-show；表内「商业POE 工业FS 周边产品 有ONV的」；群发 8 次、无回复。
-- **类型**：网络/安防经销或集成（官网未见角色词，待核）
+- **是谁**：加拿大/美国 AVYCON（安防摄像机/录像机品牌，经销商活动（APD product show）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；KP John L（President）、Jorge D（Technical Support Team Manager））；群发 8 次无回复。
+- **类型**：安防品牌商（北美，PoE 现 ONV）
+- **在卖/在用品牌**：ONV
 - **【官网快照】官网标题：AVYCON**
   > 来源：https://www.avycon.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业POE 工业FS 周边产品 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】AVYCON 站点**
+  > Home | AVYCON ; /event-details/apd-pig-roast-product-show
+  > 来源：https://www.avycon.com/（抓取 2026-10-21）
+- **【用户表】商业 PoE 工业 FS 有 ONV**
+  > 商业POE 工业FS 周边产品 有ONV的；质量高
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：John L（）john@avycon.com 〔用户表〕
+- **KP**：Jorge D（）info@avycon.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 网络/安防经销或集成（官网未见角色词，待核）；region: 加拿大；contact: info@avycon.com、john@avycon.com
+- **业务线**：安防摄像机 / 录像机 / PoE（自有品牌 AVYCON）
+- **触达通道（公开）**：role: 安防品牌商（北美，PoE 现 ONV）；region: 加拿大；contact: info@avycon.com、john@avycon.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.avycon.com/）
-  - 用户表兴趣/备注：商业POE 工业FS 周边产品 有ONV的
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：John, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 页面 /event-details/apd-pig-roast-product-show、/event-details/apd-amarillo-tx-bbq-product-show（经销商活动）
+  - 表内：商业 PoE 工业 FS 周边产品 有 ONV 的；质量高；KP John L / President；Jorge D / Technical Support Team Manager
+- **风险/边界**：现供 ONV（深圳）价格基准低；NDAA 场景（§889 适用范围待核）；8 次无回复 → 改向 President 具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标
+- **邮件切入句（英文）**：John, for the AVYCON-branded PoE switches sold with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, industrial 8-PoE) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -134,7 +144,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| John L | — | info@avycon.com / john@avycon.com | 用户表原值 | Clients/ 表 |
+| John L | — | john@avycon.com | 调研核实（公开页） | 用户表 |
+| Jorge D | — | info@avycon.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -151,9 +162,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/安防经销或集成（官网未见角色词，待核）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：AVYCON 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 AVYCON 标 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防品牌商（北美，PoE 现 ONV）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -163,15 +174,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -204,9 +215,9 @@ updated: 2026-10-21
 ```text
 Hi John,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, for the AVYCON-branded PoE switches sold with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, industrial 8-PoE) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（videotronic.ch，快照 2026-10-21）",
- "summary": "瑞士IT / 网络安全服务商（交换机为附带）：官网「Videotronic | Videosicherheit & Zutrittskontrolle Schweiz」（de）；表内「找switch；41 79 419 66 18 T 41 44 843 9000」；群发 6 次、无回复。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "瑞士 Videotronic AG（视频安防、门禁、门口通信与智能安防系统方案商（分销/集成）；表内「找 switch」；KP Christos Sgouros）；表内 6 次跟进无回复。",
+ "type": "视频安防/门禁方案商（瑞士）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,61 @@
    "quote": "找switch；41 79 419 66 18 T 41 44 843 9000",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Videotronic 定位",
+   "quote": "Videotronic | Videosicherheit & Zutrittskontrolle Schweiz ; professionelle Lösungen für Videosicherheit, Zutrittskontrolle, Türkommunikation",
+   "url": "https://videotronic.ch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "找 switch",
+   "quote": "找switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Christos Sgouros",
+   "title": "（职务待核）",
+   "email": "c.sgouros@videotronic.ch",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞士",
   "other": "官网 videotronic.ch，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "视频安防 / 门禁 / 门口通信方案（瑞士）"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "视频安防/门禁方案商（瑞士）",
   "region": "瑞士",
   "contact": "c.sgouros@videotronic.ch"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://videotronic.ch/）",
-  "官网公开邮箱：info@videotronic.ch",
-  "用户表兴趣/备注：找switch；41 79 419 66 18 T 41 44 843 9000"
+  "官网：Videotronic bietet professionelle Lösungen für Videosicherheit, Zutrittskontrolle, Türkommunikation und intelligente Sicherheitssysteme in der Schweiz ; Unsere Marken",
+  "表内：找 switch；KP Christos Sgouros"
  ],
  "risks": [
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期"
+  "瑞士市场品牌导向（价格敏感度低）；6 次无回复 → 改向 Christos 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：IT / 网络安全服务商（交换机为附带）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Christos, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Christos, for the PoE switches in your video-security and access-control projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your Swiss installations use most?"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-1268`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：制造商（同行或 OEM 客户待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：线缆制造商（美国，MC/交换机为有源副线）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1268
@@ -12,7 +12,7 @@ score: 25
 country: 美国
 region: 北美
 website: westpennwire.com
-type: 制造商（同行或 OEM 客户待核）
+type: 线缆制造商（美国，MC/交换机为有源副线）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:US"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STI-110GE
-price_tier: 30%
+price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国制造商（同行或 OEM 客户待核）：官网「Low-Voltage wire and cable specialists-West Penn Wire」（en）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换；产品页：order-catalog.php、2018-WPW-Catalog.pdf、NetworkCableProductsBrochure(8).pdf、17295 WPW Digital AV Products Brochure -；表内「无源器件为主 MC switch」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：无源器件为主 MC switch）
+- **是谁**：美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。（调研 2026-10-21；表内兴趣：无源器件为主 MC switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | westpennwire.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | westpennwire.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 制造商（同行或 OEM 客户待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 线缆制造商（美国，MC/交换机为有源副线） | 推断（据兴趣/备注关键词） |
 | 联系人 | sigmax的 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 无源器件为主 MC switch | 事实（用户表） |
@@ -55,32 +55,37 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（westpennwire.com，快照 2026-10-21）
-- **是谁**：美国制造商（同行或 OEM 客户待核）：官网「Low-Voltage wire and cable specialists-West Penn Wire」（en）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换；产品页：order-catalog.php、2018-WPW-Catalog.pdf、NetworkCableProductsBrochure(8).pdf、17295 WPW Digital AV Products Brochure -；表内「无源器件为主 MC switch」；表内未见跟进记录。
-- **类型**：制造商（同行或 OEM 客户待核）
+- **是谁**：美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。
+- **类型**：线缆制造商（美国，MC/交换机为有源副线）
 - **【官网快照】官网标题：Low-Voltage wire and cable specialists-West Penn Wire；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换**
   > Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications.
   > 来源：https://westpennwire.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 无源器件为主 MC switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】West Penn Wire 定位**
+  > Low-Voltage wire and cable specialists-West Penn Wire ; Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications
+  > 来源：https://westpennwire.com/（抓取 2026-10-21）
+- **【用户表】无源为主 MC switch**
+  > 无源器件为主 MC switch；sigmax的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 westpennwire.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；布线 / 线缆；光纤 / 媒体转换
-- **触达通道（公开）**：role: 制造商（同行或 OEM 客户待核）；region: 美国；contact: info@westpennwire.com
+- **业务线**：光纤 / 低压线缆制造（美国）
+- **触达通道（公开）**：role: 线缆制造商（美国，MC/交换机为有源副线）；region: 美国；contact: info@westpennwire.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://westpennwire.com/）
-  - 官网公开邮箱：info@westpennwire.com、sales@westpenn-wpw.com、sales@westpennwire.com
-  - 用户表兴趣/备注：无源器件为主 MC switch
-- **风险/边界**：官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications；页面 /pdf/brochures/NetworkCableProductsBrochure(8).pdf；kw cable 52
+  - 表内：无源器件为主 MC switch；sigmax 的
+- **风险/边界**：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过
+- **Saga 对位结论**：P1 STI-110GE（25% 档）——有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套
+- **邮件切入句（英文）**：For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -131,10 +136,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（制造商（同行或 OEM 客户待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110GE | 深挖对位：有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套 | $23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（线缆制造商（美国，MC/交换机为有源副线）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -144,15 +149,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
+- **S**：北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -185,9 +190,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

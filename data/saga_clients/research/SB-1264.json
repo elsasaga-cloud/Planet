@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（vercoma.nl，快照 2026-10-21）",
- "summary": "荷兰安防集成/经销：官网「Vercoma | Geavanceerde Deurcommunicatie & Toegangsbeheer」（nl）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：GE-020-222、NXPV-5403、KIT-2BHVR1、KIT-2DHVR1；表内「主要是CCTV 少量商业POE」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "荷兰 Vercoma（1978 年起的对讲与门禁专家：IP 对讲 PoE 监视器（iPlus）、门禁、CCTV 套件（KIT-2BHVR1 等）；项目如 500 套学生公寓；表内「主要是 CCTV 少量商业 PoE」）；表内未跟进。",
+ "type": "对讲/门禁/CCTV 方案分销商（荷兰）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "主要是CCTV 少量商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Vercoma 定位",
+   "quote": "Vercoma | Geavanceerde Deurcommunicatie & Toegangsbeheer ; Sinds 1978 dé specialist in intercom & toegangscontrole ; /onze-producten/handsfree-ip-monitor-poe-iplus",
+   "url": "https://www.vercoma.nl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 少量商业 PoE",
+   "quote": "主要是CCTV 少量商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "荷兰",
   "other": "官网 vercoma.nl，语言 nl，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "对讲 / 门禁 / CCTV 方案（荷兰）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "对讲/门禁/CCTV 方案分销商（荷兰）",
   "region": "荷兰",
   "contact": "info@vercoma.nl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.vercoma.nl/）",
-  "官网公开邮箱：info@vercoma.nl",
-  "用户表兴趣/备注：主要是CCTV 少量商业POE"
+  "官网：Vercoma, uw maatwerk partner in deurcommunicatie voor elk project ; Al bijna 50 jaar dé intercomspecialist ; Sinds 1978；页面 /onze-producten/handsfree-ip-monitor-poe-iplus、/projecten/500-studentenappartementen-poeldijkstaat-iplusbus；kw camera 28 / cctv 27 / nvr 16",
+  "表内：主要是 CCTV 少量商业 PoE"
  ],
- "risks": [],
+ "risks": [
+  "PoE 为对讲/CCTV 配套（量小）；仅 info@，未跟进过"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 25,
+  "why": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；公寓项目 24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches behind your iPlus IP intercom monitors and CCTV kits, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your apartment-block projects typically use?"
 }

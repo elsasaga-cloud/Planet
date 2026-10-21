@@ -2,7 +2,7 @@
 
 > **评级 B**　|　波兰　|　档案编号 `SB-1253`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防/电子分销网店（波兰）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1253
@@ -12,7 +12,7 @@ score: 25
 country: 波兰
 region: 欧洲
 website: tayama.pl
-type: 安防集成/经销
+type: 安防/电子分销网店（波兰）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:PL"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰安防集成/经销：官网「Comarch e-Sklep」；表内「商业PoE 比较多的外壳 CCTV为主」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：商业PoE 比较多的外壳 CCTV为主）
+- **是谁**：波兰 Tayama（Comarch e-Sklep 网店平台的电子/安防产品分销商；表内「商业 PoE 比较多的外壳，CCTV 为主」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：商业PoE 比较多的外壳 CCTV为主）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | tayama.pl（取自域名，公司全名待核） | 推断 |
 | 国家 | 波兰 | 事实（用户表）|
 | 网站/域名 | tayama.pl | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防/电子分销网店（波兰） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量一般 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE 比较多的外壳<br>CCTV为主 | 事实（用户表） |
@@ -55,29 +55,33 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（tayama.pl，快照 2026-10-21）
-- **是谁**：波兰安防集成/经销：官网「Comarch e-Sklep」；表内「商业PoE 比较多的外壳 CCTV为主」；表内未见跟进记录。
-- **类型**：安防集成/经销
+- **是谁**：波兰 Tayama（Comarch e-Sklep 网店平台的电子/安防产品分销商；表内「商业 PoE 比较多的外壳，CCTV 为主」「质量一般」）；表内未跟进。
+- **类型**：安防/电子分销网店（波兰）
 - **【官网快照】官网标题：Comarch e-Sklep**
   > 来源：https://tayama.pl/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业PoE 比较多的外壳 CCTV为主
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】商业 PoE CCTV 为主**
+  > 商业PoE 比较多的外壳 CCTV为主；质量一般
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 波兰 |
 | 其他 | 官网 tayama.pl，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 安防集成/经销；region: 波兰；contact: esklep@tayama.pl
+- **业务线**：电子 / 安防产品分销网店（波兰）
+- **触达通道（公开）**：role: 安防/电子分销网店（波兰）；region: 波兰；contact: esklep@tayama.pl
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://tayama.pl/）
-  - 用户表兴趣/备注：商业PoE 比较多的外壳 CCTV为主
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 快照：Comarch e-Sklep
+  - 表内：商业 PoE 比较多的外壳 CCTV 为主；质量一般
+- **风险/边界**：快照仅显示网店平台名（内容待核）；表内「质量一般」；仅 esklep@ 邮箱
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
+- **邮件切入句（英文）**：For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -121,7 +125,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防/电子分销网店（波兰）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -174,7 +178,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

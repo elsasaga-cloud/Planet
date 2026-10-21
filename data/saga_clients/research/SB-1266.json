@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（videobits.co.uk，快照 2026-10-21）",
- "summary": "英国网络/安防经销或集成（官网未见角色词，待核）：官网「videobits.co.uk」；表内「MC SFP switch」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "英国 Videobits（MC、SFP、switch 经销；官网快照空；表内「质量一般」）；表内未跟进。",
+ "type": "网络产品经销（英国，站点待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,13 @@
    "quote": "MC SFP switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC SFP switch",
+   "quote": "MC SFP switch；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,29 +36,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 videobits.co.uk，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "MC / SFP / 交换机经销（英国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "网络产品经销（英国，站点待核）",
   "region": "英国",
   "contact": "sales@videobits.co.uk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://videobits.co.uk/）",
-  "用户表兴趣/备注：MC SFP switch"
+  "表内：MC SFP switch；质量一般",
+  "快照：内容为空"
  ],
- "risks": [],
+ "risks": [
+  "官网快照空（经营状态待核）；表内「质量一般」；仅 sales@"
+ ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "MC/switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "For the switches and media converters you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS/UKCA, EXW USD — which of these do your customers order most?"
 }

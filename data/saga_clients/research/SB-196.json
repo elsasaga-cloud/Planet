@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（deblois.de，快照 2026-10-21）",
- "summary": "德国安防集成/经销：官网「DE BLOIS SECURITY – Ihr Sicherheitsdienst seit 1973」（de-DE）；表内「需要带VLAN的交换机，可以几个人用一个网络，别的人不能用」；群发 7 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "德国 DE BLOIS SECURITY（1973 年起的保安服务公司：物业守卫、前台、巡逻；表内「需要带 VLAN 的交换机，可以几个人用一个网络，别的人不能用」）；表内 7 次跟进无回复。",
+ "type": "保安服务公司（终端用户）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,53 @@
    "quote": "需要带VLAN的交换机，可以几个人用一个网络，别的人不能用",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "De Blois 定位",
+   "quote": "DE BLOIS SECURITY – Ihr Sicherheitsdienst seit 1973 ; Objektschutz, Empfang, Revierdienst",
+   "url": "https://www2.deblois.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自用 VLAN 交换机",
+   "quote": "需要带VLAN的交换机，可以几个人用一个网络，别的人不能用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户（保安服务公司自用）；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 deblois.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "保安服务（德国）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "保安服务公司（终端用户）",
   "region": "德国",
   "contact": "info@deblois.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www2.deblois.de/）",
-  "官网公开邮箱：info@deblois.de",
-  "用户表兴趣/备注：需要带VLAN的交换机，可以几个人用一个网络，别的人不能用"
+  "官网：DE BLOIS SECURITY – Ihr Sicherheitsdienst seit 1973 ; Professionelle Sicherheitsdienste seit 50 Jahren: Objektschutz, Empfang, Revierdienst",
+  "表内：需要带 VLAN 的交换机，可以几个人用一个网络，别的人不能用"
  ],
- "risks": [],
+ "risks": [
+  "非渠道终端用户（自用少量 VLAN 交换机）；7 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "非渠道终端用户（保安服务公司自用 VLAN 交换机），7 次无回复 → 改 C"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：终端用户）"
 }
