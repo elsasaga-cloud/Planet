@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（unreachable）",
- "summary": "加拿大经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「2300个收发器 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "加拿大「Moonversion」（阿里巴巴 RFQ「2300 个收发器」；联系人 Bailey Michie 自称 Camp director；官网 unreachable）；表内未跟进。",
+ "type": "可疑 RFQ（非渠道）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,46 @@
    "quote": "2300个收发器 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2300 个收发器 RFQ",
+   "quote": "2300个收发器 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "可疑 RFQ（非渠道/疑似欺诈）；c_sub=品类不符/非渠道",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 moonversion.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（可疑 RFQ）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "可疑 RFQ（非渠道）",
   "region": "加拿大",
   "contact": "heath.dieter@moonversion.com"
  },
  "signals": [
-  "用户表兴趣/备注：2300个收发器 / from: 阿里巴巴RFQ"
+  "表内：2300 个收发器 / from: 阿里巴巴 RFQ；KP Bailey Michie, Camp director",
+  "快照：unreachable"
  ],
  "risks": [
-  "官网快照失败（unreachable）：域名/证书待核，邮件可能退回"
+  "可疑 RFQ（身份与数量不合理，疑似欺诈/刷询盘）；收发器品类 Saga 不供；官网 unreachable"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "RFQ 主体与数量不符常理（营地主任采购 2,300 个收发器）、官网不可达、品类 Saga 不供 → 改 C"
  },
- "email_hook": "Bailey, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "（不发送：可疑 RFQ）"
 }

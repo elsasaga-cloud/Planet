@@ -2,7 +2,7 @@
 
 > **评级 B**　|　韩国　|　档案编号 `SB-566`　|　优先级 ★★　|　状态：已推送 23 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 23 次（2024-05-01 → 2025-10-28）　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：CCTV/计算机制造商（韩国，PoE 为配套）（推断）　|　**历史关系**：推送 23 次（2024-05-01 → 2025-10-28）　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-566
@@ -12,15 +12,15 @@ score: 38
 country: 韩国
 region: 亚太
 website: ubitron.co.kr
-type: 安防集成/经销
+type: CCTV/计算机制造商（韩国，PoE 为配套）
 tier_tags: ["A优质名单(KR)", "AI评估(KR)"]
 deal: no
 replies: 0
 followups: 23
 first_contact: 2024-05-01
 last_contact: 2025-10-28
-p1: STC-448XGGM(L3)
-price_tier: 25%
+p1: STC-28DGGPM
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国安防集成/经销：官网「UBITRON」（ko）；站内型号：IPC522、DSJ-U3K、UIS3842-F、IPC522-UG330-G；表内「POE core switch 工业FS 有ONV的工业FS」；群发 23 次、无回复。（调研 2026-10-21；表内兴趣：POE core switch 工业FS 有ONV的工业FS）
+- **是谁**：韩国 UBITRON（CCTV 与计算机/周边设备制造；站内 IPC522 / UIS3842 型号；表内「PoE core switch 工业 FS 有 ONV 的工业 FS」「质量高」）；群发 23 次无回复。（调研 2026-10-21；表内兴趣：POE core switch 工业FS 有ONV的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-05-01 → 2025-10-28）
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — 深挖对位：L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：PoE 配套（工业 FS 现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 UBITRON 标；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | ubitron.co.kr（取自域名，公司全名待核） | 推断 |
 | 国家 | 韩国 | 事实（用户表）|
 | 网站/域名 | ubitron.co.kr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | CCTV/计算机制造商（韩国，PoE 为配套） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量高 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | POE core switch 工业FS<br>有ONV的工业FS | 事实（用户表） |
@@ -65,32 +65,35 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ubitron.co.kr，快照 2026-10-21）
-- **是谁**：韩国安防集成/经销：官网「UBITRON」（ko）；站内型号：IPC522、DSJ-U3K、UIS3842-F、IPC522-UG330-G；表内「POE core switch 工业FS 有ONV的工业FS」；群发 23 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：韩国 UBITRON（CCTV 与计算机/周边设备制造；站内 IPC522 / UIS3842 型号；表内「PoE core switch 工业 FS 有 ONV 的工业 FS」「质量高」）；群发 23 次无回复。
+- **类型**：CCTV/计算机制造商（韩国，PoE 为配套）
+- **在卖/在用品牌**：ONV
 - **【官网快照】官网标题：UBITRON**
   > ì ìì í / íìíë¡ CCTV / ì»´í¨í° ë° ì£¼ë³ê¸°ê¸° ë± ì»´í¨í° ì ì¡° ì ë¬¸
   > 来源：https://ubitron.co.kr/kr/index.php（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > POE core switch 工业FS 有ONV的工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】PoE core switch；ONV 工业 FS**
+  > POE core switch 工业FS 有ONV的工业FS；质量高
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 韩国 |
 | 其他 | 官网 ubitron.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 安防集成/经销；region: 韩国；contact: ubitron@ubitron.co.kr
+- **业务线**：CCTV / 计算机及周边制造（韩国）
+- **触达通道（公开）**：role: CCTV/计算机制造商（韩国，PoE 为配套）；region: 韩国；contact: ubitron@ubitron.co.kr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://ubitron.co.kr/kr/index.php）
-  - 官网公开邮箱：china@ubitron.co.kr、hungary@ubitron.co.kr、ubitron@ubitron.co.kr
-  - 用户表兴趣/备注：POE core switch 工业FS 有ONV的工业FS
-- **风险/边界**：群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+  - 官网 desc：전자제품 / 하이테크 CCTV / 컴퓨터 및 주변기기 등 컴퓨터 제조 전문（乱码还原）；站内 IPC522 / UIS3842-F
+  - 表内：POE core switch 工业 FS 有 ONV 的工业 FS；质量高
+- **风险/边界**：非主攻区（T5，韩国；KC 由客户侧）；现供 ONV 价格基准低；23 次无回复，仅 ubitron@
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——PoE 配套（工业 FS 现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 UBITRON 标
+- **邮件切入句（英文）**：For the PoE switches shipped with your UBITRON camera and NVR systems, we can supply Marvell-based 8/24-PoE L2+ and DIN-rail 8-PoE industrial units in your packaging from small lots, CE/RoHS; KC by your side — which PoE SKU do you ship most with camera kits?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -171,20 +174,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | 深挖对位：L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：PoE 配套（工业 FS 现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴 UBITRON 标 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（CCTV/计算机制造商（韩国，PoE 为配套）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448XGGM(L3)），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448XGGM(L3) 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -192,7 +194,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 23 次无回复，邮件通道疲劳
-- **O**：P1 STC-448XGGM(L3) 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -220,14 +222,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches shipped with your UBITRON camera and NVR systems, we can supply Marvell-based 8/24-PoE L2+ and DIN-rail 8-PoE industrial units in your packaging from small lots, CE/RoHS; KC by your side — which PoE SKU do you ship most with camera kits?
 
-We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
