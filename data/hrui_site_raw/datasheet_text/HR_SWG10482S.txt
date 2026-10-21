@@ -1,0 +1,156 @@
+Datasheet
+
+
+
+
+       48-Port 1G and 2-Port 1G SFP
+              Ethernet Switch
+
+
+
+
+  Product Highlights
+
+ n 48 *1G RJ45 ports+2* 1G SFP optical ports
+
+ n Complies with IEEE802.3, IEEE802.3u, and IEEE802.3ab standards
+
+ n RJ45 port supports 10M/100M/1G adaptation
+
+ n Supports automatic port flipping (Auto MDI/MDIX)
+
+ n The panel indicator LED will monitor the working status and assist in fault analysis
+
+ n Supports dial switch VLAN mode
+
+ n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+   duplex
+
+ n Support loop alarm
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                           www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR-SWG10482S
+
+
+                                                      48 *1G RJ45 ports
+    Interface
+                                                      2 * 1G SFP ports
+
+                                                      IEEE 802.3: Ethernet Media Access Control (MAC) Protocol
+                                                      IEEE 802.3i: 10BASE-T Ethernet
+                                                      IEEE 802.3u: 100BASE-TX Fast Ethernet
+    Port Standard
+                                                      IEEE 802.3ab: 1000BASE-T Gigabit Ethernet
+                                                      IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber optic)
+                                                      IEEE 802.3x: Flow Control
+
+                                                       100Gbps
+    Bandwidth
+
+
+                                                       74.4Mpps
+    Packet Forwarding Rate
+
+
+                                                       12Mbit
+    Packet Buffer
+
+
+                                                       16K
+    MAC Address Table
+
+
+    Transmission Method                               Store and Forward
+
+
+                                                       AC 100-240V , 50/60Hz
+    Power Supply
+                                                       DC 12V 2A
+
+
+    Mainboard Power Consumption                        33.99W
+
+
+                                                       Product Dimensions :440*205*44mm
+                                                       Packaging Dimensions :500*290*85mm
+    Structure Information
+                                                       Product Net Weight:2.826KG
+                                                       Product Gross Weight:3.371KG
+
+                                                       Carton Dimensions :520*445*310mm
+    Packing Information                                Packing Quantity: 5PCS
+                                                       Packing Weight: 17.85KG
+
+
+    Package Contents                                   Switch 1pcs, power cord 1pcs, manual 1pcs,certificate of qualification 1pcs
+
+
+    Fan Quantity                                       0
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                              www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Installation                                       Desktop,rack-mounting
+
+                                                       Surge Protection：Common mode 6KV, differential mode 2KV;
+    Surge Protection
+                                                       ESD: Air 15KV, Contact 8KV (Class B)
+
+    Operating Temperature                              0~40°C
+
+
+    Storage Temperature                                -40 °C to 70 °C
+
+
+    Operation Humidity                                 10%~90%,non condensing
+
+
+    Storage Humidity                                   5%~95%,non condensing
+
+                                                       Green LED On: Powered on
+    PWR LED
+                                                       Green LED Off: Powered off
+
+    SYS                                                Green LED On: The system is normal
+                                                       Flashing: System startup in progress
+                                                       Green LED Off: System not started
+
+                                                      Green Light ON:1G Link normal
+
+                                                      Yellow Light ON:10/100Mbps Link normal
+    Link
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+                                                      ON: 1-46 ports are isolated from each other and all communicate with 47-50 ports;
+    VLAN Mode Button
+                                                      OFF: All ports communicate with each other;
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

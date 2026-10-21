@@ -1,0 +1,171 @@
+Datasheet
+
+
+
+
+          8-Port 100Mbps and 1-Port
+        Gigabit with 1-Port Gigabit SFP
+             Industrial PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 8*100Mbps PoE ports + 1*1Gbps uplink RJ45 port + 1*1Gbps SFP port
+
+  n Support IEEE802.3af (15.4W) and IEEE802.3at (30W)
+
+  n PoE ports support PoE watchdog mode
+
+  n IP40 protection level, high-strength shell, DIN35 rail installation
+
+  n Industrial grade 4-level design, operating temperature from -40~75°C
+
+  n Support redundant power supply connection and anti reverse connection
+
+  n Support VLAN, Genius, and Extend modes
+
+  n Port 1 supports HiPoE 60W
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                      Specification
+
+    Model                                            HR500-AF-811GS
+
+
+
+                                                     8*100Mbps PoE ports
+
+    Interface                                        1*1Gbps uplink port
+                                                     1*1Gbps SFP port
+
+
+
+                                                     IEEE802.3 (Ethernet)
+                                                     IEEE802.3u (Fast Ethernet)
+    Port Standard                                    IEEE802.3ab (Gigabit Ethernet)
+                                                     IEEE802.3z (Gigabit Ethernet Fibre Standards)
+                                                     IEEE802.3x (Flow Control)
+
+
+
+    Switching Bandwidth                               5.6Gbps
+
+
+
+    Packet Forwarding Rate                            4.166Mpps
+
+
+
+    Packet Buffer                                     4Mbit
+
+
+
+    MAC Address Table                                 8K
+
+
+    Transmission Method                              Store and Forward
+
+
+                                                     IEEE802.3af (15.4W)
+    PoE Standard                                     IEEE802.3at (30W)
+
+
+    PoE Port Output Voltage                          DC 48-55V
+
+
+
+    PoE Ports                                        Port 1 supports HiPoE 60W, Ports 2-8 PoE power output <30W
+
+
+
+    PoE Power Budget                                  According to the adapter
+
+
+                                                      DC12~55V
+    Power Supply                                      DC48~55V (PoE)
+                                                      Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)
+
+
+    Certification                                     CE, FCC, RoHS
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+    Mainboard Power Consumption                       3.88W
+
+                                                      Product Dimensions: 138*108*44 mm
+                                                      Packaging Dimensions: 245*190*60mm
+    Structure Information
+                                                      Product Net Weight: 0.5KG
+                                                      Product Gross Weight: 0.63KG (excluding power supply)
+
+                                                      Carton Dimensions: 520*320*400mm
+    Packing Information                               Packing Quantity: 20PCS
+                                                      Packing Weight: 13.66KG
+
+    Package Contents                                  Switch 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+    Fan Quantity                                      0
+
+    Installation                                      Desktop, Wall mounting installation, Rail installation
+
+                                                      Port Surge: Common mode 4KV, Differential mode 2KV
+    Surge Protection
+                                                      Electrostatic ESD: Air 8KV, Contact 6KV (Class C)
+
+    Operating Temperature                             -40~75°C
+
+    Storage Temperature                               -40~85°C
+
+    Operation Humidity                                10%~90%, non condensing
+
+    Storage Humidity                                  5%~95%, non condensing
+
+                                                      On: Powered on
+    PWR Red LED
+                                                      Off: Powered off
+
+                                                      Slow Flashing: 10/100Mbps Link normal
+    Ports 1-8 Green LED                               Off: Link blocked
+                                                      Fast Flashing: Data transmitting
+
+                                                      Slow Flashing: 10/100/1000Mbps Link normal
+    Port G9 Green LED                                 Off: Link blocked
+                                                      Fast Flashing: Data transmitting
+
+                                                      On: 10/100/1000Mbps Link normal
+    Port G10 Green LED                                Off: Fiber optic link blocked
+                                                      Fast Flashing: Data transmitting
+
+                                                     V: VLAN mode, ports 1-8 are isolated from each other, communicating with ports 9-
+                                                     10
+                                                     G: Normal mode, all ports can communicate with each other, transmission distance
+    V/G/E Modes Buttons                              is within 100 meters, transmission rate is 10/100Mbps adaptive, ports 1-8
+                                                     automatically activate the PoE watchdog mode
+                                                     E: Extend mode, when the PoE port is in Extend mode, ports 1-8 force 10Mbps to
+                                                     extend the transmission distance to 250meters
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                    www.hruitech.com
+Datasheet
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+

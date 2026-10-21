@@ -1,0 +1,498 @@
+Datasheet
+
+
+
+
+                      10-Port Gigabit Industrial
+                       Managed PoE Switch
+
+
+
+
+  Product Highlights
+
+  n     Support：IEEE802.3、IEEE802.3u,IEEE802.3x,IEEE802.3z / ab,IEEE802.1Q,
+       IEEE802.1p,IEEE802.1d/w
+  n     PoE Power Management, PoE Watch dog based on data stream detection.
+  n     IEEE802.3af(15.4w) and IEEE802.3at(30W)
+  n     Support STP(802.1D), RSTP(802.1w),MSTP(802.1s),ERPS.
+  n     Support SNMP v1/v2/v3.
+  n     Support IGMP Snooping , Static multicast filtering and MLD Snooping.
+  n     Support 802.1x port and AAA Certification,Enhance network security.
+  n     Support WEB, Telnet,CLI,SSH management.
+  n     IP40 protection, rugged high-strength metal case,DIN35 Rail mounting
+  n     EMC grade 4 design,-40 to 75℃ working temperature.
+  n     Support Redundant power supply access, Support anti-reverse connection.
+  n     Support EMC EN55032 standard.
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                   www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR600-AFGM-82AS
+
+
+                                                      8 *1G PoE ports
+
+    Interface                                         2 *2.5Gbps SFP ports(Compatible with 1.25G/155M)
+                                                      1 * Console port
+
+
+
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+                                                      IEEE 802.3ab (Gigabit Ethernet)
+    Port Standard                                     IEEE 802.3z (Gigabit Ethernet Fiber Standard)
+                                                      IEEE802.3x (Flow Control)
+                                                      IEEE 802.1D Spanning Tree Protocol
+                                                      IEEE 802.1w Rapid Spanning Tree Protocol
+
+
+
+
+    Bandwidth                                          26Gbps
+
+
+    Packet Forwarding Rate                             19.34Mpps
+
+
+    Packet Buffer                                      4Mbit
+
+
+    MAC Address Table                                  8K
+
+
+    Jumbo Frame                                       9.6Kbytes
+
+
+    VLAN                                               VLAN range 1-4094, maximum active VLAN is 4K
+
+
+    Transmission Method                               Store and Forward
+
+                                                      IEEE802.3af (15.4W)
+    PoE Standard                                      IEEE802.3at (30W)
+
+
+    PoE Port Output Voltage                           DC 48-55V
+
+
+    PoE Ports                                         Port 1-8 PoE power output <30W
+
+
+    PoE Power Budget                                   According to the adapter
+
+                                                       DC12～55V
+    Power Supply                                       DC48～55V (PoE)
+                                                       Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-）
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                          www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+
+    Mainboard Power Consumption                        9.8W
+
+
+                                                       Product Dimensions :165×130×65mm
+                                                       Packaging Dimensions : 242×207×86mm
+    Structure Information
+                                                       Product Net Weight: 0.8KG
+                                                       Product Gross Weight: 1.1KG (excluding power supply)
+
+                                                       Carton Dimensions : 445×445×510mm
+    Packing Information                                Packing Quantity: 20PCS
+                                                       Packing Weight: 23KG
+
+    Package Contents                                   Switch 1pcs, serial cable 1pcs,manual 1pcs,certificate of qualification 1pcs
+
+    Fan Quantity                                       0
+
+    Certification                                      CE、FCC、RoHS
+
+    Installation                                       Desktop,wall mounting installation, rail installation
+
+                                                       Port Surge: Common mode 6KV, differential mode 2KV;
+    Surge Protection
+                                                       Electrostatic ESD: Air 15KV, Contact 8KV
+
+    Operating Temperature                              -40 ~ 75°C
+
+    Storage Temperature                                -40～85℃
+
+    Operation Humidity                                 10%~90%,non condensing
+
+
+    Storage Humidity                                   5%~95%,non condensing
+
+
+                                                       On: The system is running normally
+    SYS Green LED
+                                                       Off:The system is not running
+
+                                                       Slow Flashing: 10M/100M/1G Link normal
+    1-8 Green LED                                      Off: Link blocked
+                                                       Fast Flashing: Data transmitting
+
+                                                      On: PoE powered on
+    1-8 Yellow LED
+                                                      Off: PoE powered off
+                                                      On: 10M/100M/1G Link normal
+    G9-G10 Green LED                                  Off: Link blocked
+                                                      Flashing: Link data transmission
+
+                                                      On: powered on
+    PWR Green LED
+                                                      Off: powered off
+
+
+     Reset                                              Long press for 6 seconds to restore factory settings
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                               www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                       Specification
+    L2 Function
+                                                      IPv4 VLAN Interface
+    IPv4                                              IPv4 Static Routes
+                                                      ARP
+                                                      Port Switch configuration
+                                                      Port Description configuration
+                                                      Port Speed configuration
+                                                      Port Duplex configuration
+
+    Port                                              Port Flow Control configuration
+
+                                                       Max. 2500Mbps at SFP interface
+                                                      Jumbo Frame
+                                                      EEE
+                                                      Fiber Module(DDM)
+
+                                                      Supports load balance policy; Base on MAC and IP-MAC
+
+    Link Aggregation                                  Static and Dynamic Group
+
+                                                      Supports LACP
+
+                                                      Boardcast suppression
+
+    Storm Control                                     Unknown Multicast
+
+                                                      Unknown Unicast
+
+                                                      One to one monitor
+
+    Port Mirroring                                    Many to one monitor
+
+                                                      Ingress/Egress/Both
+
+                                                      MAC Address Constraints
+    Port Security
+                                                      Action：Trap/Shutdown
+
+    Port Isolation                                    Support
+
+    Port Rate-limit                                   Support
+
+    Loopback Detection                                Support
+
+                                                      Access/Trunk/Hybrid
+
+                                                      VLAN Tunnel (Q-in-Q Tunnel)
+    VLAN
+                                                      GVRP
+
+                                                      VLAN range 1-4094, maximum active VLAN is 4K
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                              www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                       Specification
+                                                      Dynamic MAC address
+    MAC Address
+                                                      Static MAC address
+                                                      STP/RSTP/MSTP
+                                                      BPDU Filter
+    Spanning Tree Protocol
+                                                      BPDU Guard
+
+                                                      Edge Port
+
+                                                       Major and sub ring
+    ERPS
+                                                       up to 16 rings
+
+                                                       Private Ring
+
+    Smart Ring                                         Major and sub ring
+
+                                                       Up to 16 rings
+
+                                                       Ordinary Clock
+
+    PTP                                                Boundary Clock
+
+                                                       Transparent clock
+
+    LLDP                                              Support
+
+                                                      IGMP Snooping
+
+                                                      IGMP V1/V2/V3
+
+                                                      Router Port
+
+    Multicast                                          Static IGMP group address
+
+                                                       IGMP groups filtering
+
+                                                      Querier
+
+                                                      MLD Snooping
+
+                                                      Traffic classification based, Strict priority and WRR
+
+                                                      Port Priority
+
+                                                      802.1P Priority
+    QoS
+                                                      IP DSCP Priority
+
+                                                      Supports up to 8 queues per port
+
+                                                      Port Shaping
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                               www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+     Description                                      Specification
+
+    PoE
+
+                                                      PoE Temperature
+
+                                                      PoE Type/Level/Power/Voltage/Current query
+                                                      PoE Switch Configuration
+
+                                                       PoE Watchdog
+
+    PoE Configuration                                  Total PoE power budget control
+
+                                                       PoE power management
+
+                                                       PoE port priority
+
+                                                       IEEE 802.3bt，compatible with IEEE 802.3af/802.3at PoE
+
+                                                       Per PoE port power limit
+     PoE Schedule                                     Support
+
+     PoE Port Timer Reboot                            Support
+
+     Services
+
+                                                      DHCP Server
+
+                                                      IP Pool
+     DHCP
+                                                      Static Binding
+                                                      DHCP Relay
+
+                                                      HTTP
+
+                                                      Telnet
+     Access Protocol
+                                                      SSH
+
+
+                                                      Manager ACL
+
+
+     Security
+
+
+                                                      RADIUS
+
+
+                                                      TACACS+
+     AAA
+                                                      802.1X
+
+
+                                                      Base on port/MAC/local/WEB
+
+
+     DHCP Snooping                                    Support
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+     Description                                       Specification
+     IP Source Guard                                  Support
+
+     Dynamic ARP Inspection                           Support
+                                                      MAC ACL
+
+                                                      Port ACL
+     ACL
+                                                      IPv4 ACL
+
+                                                      IPv6 ACL
+     Diagnostics
+
+                                                      Logging Message
+     Syslog
+                                                      Remote Server
+     Ping                                             Support
+     Traceroute                                       Support
+     Cable Diagnositics                               Support
+     Equipment Management
+
+                                                      Console
+
+                                                      HTTP
+
+                                                      Telnet
+     Manager Access
+
+                                                      SSHv2
+
+                                                      SNMP
+
+                                                      Static Address
+
+                                                      DHCP Client
+     Manager IP
+                                                      Supports IPv4 and IPv6 address
+
+                                                      DNS
+
+                                                      SNTP
+     Time Synchronization
+                                                      Manual Time
+
+                                                      V1/V2C/V3
+
+                                                      Community
+
+     SNMP                                             V3 User
+
+                                                      Group
+
+                                                      Trap Host
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                        www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                       Specification
+                                                      RFC 1213 MIB-II
+                                                      RFC 1493 Bridge MIB
+                                                      RFC 1643 Ethernet MIB
+     SNMP MIB
+                                                      RFC 2819 RMON MIB (Groups 1, 2, 3 and 9)
+                                                      RFC 2863 Interface MIB
+                                                      Private MIB
+                                                      Statistics
+                                                      History Configuration
+     RMON
+                                                      Event Configuration
+                                                      Alarm Configuration
+     User Management                                  Congurable user privilege level from 0 - 15;
+                                                      Firmware upgrade
+     Firmware Management
+                                                      Double Image; Swap between Active and Alternate firmware image.
+     Configuration Management                         Upload and download
+     Save                                             Support
+     Restart                                          Support
+
+     Factory Defaults                                 Support
+
+    Standard Compliance
+
+     IEEE 802.3x flow control and back pressure
+
+     IEEE 802.3ad port trunk with LACP
+
+     IEEE 802.1D Spanning Tree Protocol
+
+     IEEE 802.1w Rapid Spanning Tree Protocol
+
+     IEEE 802.1s Multiple Spanning Tree Protocol
+
+     IEEE 802.1p Class of Service
+
+     IEEE 802.1Q VLAN tagging
+
+     IEEE 802.1x Port Authentication Network Control
+
+     IEEE 802.1ab LLDP
+
+     IEEE 802.3af Power over Ethernet
+
+     IEEE 802.3at Power over Ethernet Plus
+
+     IEEE 802.3bt PoE++ Power over Ethernet Plus Plus
+
+     RFC 768 UDP
+
+     RFC 793 TFTP
+
+     RFC 791 IP
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                       Specification
+     RFC 792 ICMP
+
+     RFC 2068 HTTP
+
+     RFC 1112 IGMP v1
+
+     RFC 2236 IGMP v2
+
+     RFC 3376 IGMP v3
+
+     RFC 2710 MLD v1
+
+     FRC 3810 MLD v2
+
+     ITU-T G.8032 ERPS Ring
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd        www.hruitech.com
+

@@ -1,0 +1,359 @@
+Datasheet
+
+
+
+
+          26-Port Gigabit Web Managed
+                     Switch
+
+
+
+
+  Product Highlights
+
+  n Supports 24* 1G RJ45 ports+2 *1G SFP ports
+
+  n Supports IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, IEEE802.3z
+
+  n RJ45 port supports 10M/100M/1G adaptation
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n Adopting a storage and forwarding exchange mechanism
+
+  n All ports support line speed switching
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Support QoS data priority
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                      Specification
+
+    Model                                            HR-SWGW20242S
+
+                                                     24 *1G RJ45 ports
+    Interface                                        2 *1G SFP ports
+
+
+                                                     IEEE 802.3: Ethernet Media Access Control (MAC) Protocol
+                                                     IEEE 802.3i: 10BASE-T Ethernet
+                                                     IEEE 802.3u: 100BASE-TX Fast Ethernet
+    Port Standard
+                                                     IEEE 802.3ab: 1000BASE-T Gigabit Ethernet
+                                                     IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber optic)
+                                                     IEEE 802.3x: Flow Control
+
+
+
+    Switching Capacity                                52 Gbps
+
+
+
+    Packet Forwarding Rate                            38.68Mpps
+
+
+
+    Packet Buffer                                     4.1Mbit
+
+
+
+    MAC Address Table                                 8K
+
+
+
+    Jumbo Frame                                       Support
+
+
+
+    VLAN                                             VLAN range 1-4094, maximum active VLAN is 31
+
+
+
+    Transmission Method                              Store and Forward
+
+
+                                                      AC 100-240V 50/60Hz
+    Power Supply
+                                                      DC 12V 2A
+
+
+    Mainboard Power Consumption                       20W
+
+
+                                                      Product Dimensions :440*204*44mm
+                                                      Packaging Dimensions : 500*290*85mm
+    Structure Information
+                                                      Product Net Weight: 2.36KG
+                                                      Product Gross Weight: 2.93KG
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+                                                      Carton Dimensions : 520*445*310mm
+    Package Information                               Packing Quantity: 5PCS
+                                                      Packing Weight: 15.6KG
+
+
+    Package Contents                                  Switch 1pcs,ac adapter 1pcs,manual 1pcs,certificate of qualification 1pcs
+
+
+    Fan Quantity                                      0
+
+
+    Installation                                      Desktop,rack-mounting
+
+                                                      Port Surge: Common mode 6KV (Class B);
+    Surge Protection
+                                                      Electrostatic ESD: Air 8KV, Contact 6KV (Class C)
+
+    Operating Temperature                             0~40°C
+
+
+    Storage Temperature                               -40 °C to 70 °C
+
+
+    Operation Humidity                                10%~90%，non condensing
+
+
+    Storage Humidity                                  5%~95%，non condensing
+
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+                                                      ON: 1G Link
+    1000M Green LED
+                                                      OFF: 10/100Mbps link
+
+                                                      On: Link normal
+    Act Green LED                                     Off: Link blocked
+                                                      Flashing: Data transmitting
+
+
+    Reset                                            Long press for 6 seconds to restore factory settings
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                    www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+    L2 Function
+
+                                                     Port Switch configuration
+
+
+                                                     Port Description configuration
+
+
+                                                     Port Speed configuration
+
+
+    Port                                             Port Duplex configuration
+
+
+                                                     Port Flow Control configuration
+
+
+                                                     Jumbo Frame
+
+
+                                                     EEE
+
+
+                                                     Static Group
+
+
+    Link Aggregation                                 Maximum of 4 aggregation groups
+
+
+                                                     Up to 8 members per aggregation group
+
+
+                                                     Boardcast suppression
+
+
+    Storm Control                                    Unknown Multicast
+
+
+                                                     Unknown Unicast
+
+    Port Mirroring                                   Support
+
+    Port Security                                    MAC Address Constraints
+
+
+    Port Isolation                                   Support
+
+
+    Port Rate-limit                                  Support
+
+
+    Loopback Detection                               Support
+
+
+                                                     Access/Trunk/Hybrid
+
+
+    VLAN                                             VLAN range 1-4094, maximum active VLAN is 31
+
+
+                                                     Port VLAN
+
+
+                                                     Dynamic MAC address
+    MAC Address
+                                                     Static MAC address
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                             www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+                                                     STP/RSTP/MSTP
+    Spanning Tree Protocol
+                                                     Edge Port
+
+
+                                                     IGMP Snooping
+
+
+                                                     IGMP V1/V2/V3
+    Multicast
+                                                     Router Port
+
+
+                                                      Static IGMP group address
+
+
+                                                     Traffic classification, supporting SP and WRR scheduling
+
+
+    QoS                                              Port Priority
+
+
+                                                     Supports up to 8 queues per port
+
+
+     Services
+
+
+     Access Protocol                                 HTTP
+
+
+     Diagnostics
+
+
+     Port Statistics                                 Support
+
+
+     Equipment Management
+
+
+     Manager Access                                  HTTP
+
+
+                                                     Static Address
+     Manager IP
+                                                     DHCP Client
+
+
+                                                     SNTP
+     Time Synchronization
+                                                     Manual Time
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+     Description                                      Specification
+                                                     V2C
+
+     SNMP                                            Community
+
+                                                     Trap Host
+
+     Port Statistics                                 Support
+
+     SNMP MIB                                        RFC 1213 MIB-II
+
+     User Management                                 Support
+
+     Firmware Management                             Firmware upgrade
+
+     Configuration Management                        Upload/Backup Configuration
+
+     Save                                            Support
+
+     Restart                                         Support
+
+     Factory Defaults                                Support
+
+    Standard Compliance
+
+     IEEE 802.3x flow control and back pressure
+
+     IEEE 802.3ad port trunk with LACP
+
+     IEEE 802.1D Spanning Tree Protocol
+
+     IEEE 802.1w Rapid Spanning Tree Protocol
+
+     IEEE 802.1s Multiple Spanning Tree Protocol
+
+     IEEE 802.1p Class of Service
+
+     IEEE 802.1Q VLAN tagging
+
+     RFC 768 UDP
+
+     RFC 791 IP
+
+     RFC 792 ICMP
+
+     RFC 2068 HTTP
+
+     RFC 1112 IGMP v1
+
+     RFC 2236 IGMP v2
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+

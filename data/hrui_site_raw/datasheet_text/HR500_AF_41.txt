@@ -1,0 +1,179 @@
+DATASHEET
+
+
+5 Ports 10M/100M Industrial POE Switch
+
+
+
+
+www.hrtuitech.com
+
+
+
+500 series Industrial Ethernet POE switch, support 4*10/100M POE ports and 1* 10/100M Ethernet port, support
+
+DIN-Rail & Wall mounts installation. support power supply input (DC48-55V)，working temperature -40℃~
+
++75℃，It has passed the industrial environment certification and complies with FCC and CE standards. The
+
+reliable industrial design can ensure that your automation system runs without interruption and stability.
+
+This series of industrial POE switches can be widely used in wind, electricity, assembly automation, subway PIS,
+
+power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other
+
+industries, is a green low power industrial Ethernet switch.
+
+
+ Main Feature                                                   Application Environment
+
+ Support 4*10/100M POE ports and 1*10/100M                    Metro Optical Broadband Network:
+   Ethernet port                                               Data network operators such as telecommunications,
+                                                               cable TV, and network system integration, etc.
+ Support IEEE 802.3, IEEE 802.3u, IEEE802.3x
+                                                               Broadband private network:
+   Standard                                                    Suitable for financial, government, oil, railway,
+ Ethernet port supports 10/100M self-adaptation               electric power, public security, transportation,
+ Compatible with both IEEE802.3at（30W）and                     education and other industries
+   IEEE802.3af（15.4w）                                          Multimedia transmission:
+                                                               Integrated transmission of images, voice and data,
+ Industrial grade protect design, -40 to 75°C
+                                                               suitable for remote teaching, conference TV,
+   working temperature.
+                                                               videophone and other applications
+ High strength iron shell, DIN35 Rail installation            Real-time monitoring:
+ Support redundant power supply, support anti                 Simultaneous transmission of real-time control
+   reverse.                                                    signals, images and data
+ Surge Protection: General 6KV, Differential 4KV              Resistant to harsh environments:
+                                                               suitable for networking in harsh environments with
+   ; ESD 15KV(Air), 8KV (Contact);
+                                                               strong electromagnetic interference and long
+                                                               distances.
+
+                                                         1
+DATASHEET
+Technical Parameter
+
+I/O Interface
+
+Power                 DC 52V (48～55V)
+
+Ethernet              4* 10/100M PoE Port
+                      1* 10/100M Ethernet Port
+
+Chipset
+
+Main Chipset          IP175G
+
+PoE Chipset           RTL8238B/RTL8234B
+
+Performance
+
+Bandwidth             1Gbps
+
+Packet Forwarding     0.744Mpps
+Rate
+
+package cache         448K
+
+MAC Address           1K
+
+Jumbo Frame           1536bytes
+
+Transfer Mode         Store and forward
+
+MTBF                  100000 hours
+
+Standard
+
+Network Protocol      IEEE802.3 (Ethernet)
+                      IEEE802.3u (Fast Ethernet)
+                      IEEE802.3x (Flow Control)
+
+
+PoE Standard          PoE Standard: IEEE802.3af /IEEE802.3at
+                      15.4 W (IEEE 802.3af)
+                      30 W (IEEE 802.3at)
+
+Industrial Standard   EMI: FCC Part 15 CISPR (EN55032) class A
+                      EMS: EN61000-4-2 (ESD)
+                      EN61000-4-4 (EFT)
+                      EN61000-4-5 (Surge)
+
+Network Medium        10BASE-T: Cat 3, 4, 5 or above UTP(≤100 meter)
+                      100BASE-TX: Cat 5 or above UTP (≤100 meter)
+
+
+
+
+                                                   2
+DATASHEET
+ Certificate
+
+ Safety Certificate      CE, FCC, RoHS
+
+ Environment Standard
+
+ Working Environment     Working Temperature：-40~75°C
+                         Storage Temperature：-40~85°C
+                         Working Humidity ：10%~90%，non-condensing
+                         Storage Temperature：5%~90%，non-condensing
+
+Physical Features
+
+Dimension               Product Dimension：100*76.5*30mm
+                        Package Dimension：175*130*55mm
+                        N.W：0.29 KG
+                        G.W：0.38 KG
+
+
+Packaging Info          Carton MEAS：540*290*375mm
+                        Packing Qty：40 PCS
+                        Packing Weight: 16.2 KG
+
+
+Power Voltage           Input Voltage ：DC 48-55 V
+                        Type of input: 4 PIN Industrial Terminal （block V1+V1- V2+ V2-）; DC-IN(2.1mm)
+                        (DC 2.1 cannot be used together with V1 and V2)
+
+Package List            1. Industrial Switch：1 PC
+                        2. User Manual：1 PC
+                        3. Certification：1 PC
+                        4. Pull-arm : 1 PC
+
+
+Indicators
+
+LED Indicator           PWR（Power Indicate），1-5 Green LED（Link & Data)
+
+
+PWR（power supply）       On: Power On
+                        Off: Power Off
+
+1-5 Green LED（Link      On: Connecting
+& Data）                 Flashing: Data Transmit
+                        Off: Disconnect
+
+Ｄｉａｌｉｎｇ ｆｕｎｃｔｉｏｎ        D: Default mode
+                        E : In the extended mode, ports 1-4 are reduced to 10M and can be extended to 250m
+
+Order Info
+
+ZX500-AF-41             5 Ports 10/100M Industrial POE Switch
+
+
+
+                                                     3
+DATASHEET
+Physical structure
+
+
+
+
+Application
+
+
+
+
+                     4
+

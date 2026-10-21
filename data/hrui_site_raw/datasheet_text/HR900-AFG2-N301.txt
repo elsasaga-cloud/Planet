@@ -1,0 +1,148 @@
+2.5G Single Port 30W POE Injector
+
+
+
+
+www.hruitech.com
+
+
+
+
+2.5G Single Port 30W POE Injector. The POE port supports a maximum output power of 30W, and the port
+supports 10/100/1000M/2.5G self-adaption. Support AC 100-240 V voltage input, working temperature range -
+10 ℃ ~ + 50 ℃, seamless ultrasonic bonding, better protection effect. Comply with FCC, CE, RoHS standards,
+reliable hardware design, can ensure your automation system runs without interruption and stability.network
+
+
+
+
+ Main Features                                            Application Environment
+
+n Support 1x2.5G POE Port+1x2.5G Ethernent               Metro Optical Broadband Network:
+  Port                                                   Data network operators such as telecommunications,
+n Comply with IEEE 802.3、IEEE 802.3u、IEEE                cable TV, and network system integration,etc.
+  802.3ab、IEEE802.3bz、Standards;                         Broadband private network:
+n Ethernet Port Supports 10/100/1000Mbps/2.5G            Suitable for financial, government, oil, railway,
+  adaptive and PoE functions ;                           electric power, public security, transportation,
+n Support Port Auto Flip (Auto MDI/MDIX）                 education and other industries
+n Compatible with IEEE802.3af（15.4W）、                    Multimedia transmission:
+  IEEE802.3at（30w）                                       Integrated transmission of images, voice and data,
+n Support AC 100-240 V power supply                      suitable for remote teaching, conference TV,
+n working temperature -10~50°C                           videophone and other applications
+n Support wall mount                                     Real-time monitoring:
+                                                         Simultaneous transmission of real-time control
+                                                         signals, images and data
+
+
+
+http://www.hruitech.com                              1
+ Specifications
+
+ I/O Interface
+
+ Power                    AC 100-240 V
+
+ Ethernet                 1*10/100/1000M/2.5G Ethernet Port
+                          1*10/100/1000M/2.5G PoE Port
+
+ Standard
+
+ Network protocol         IEEE802.3 (10Base-T)
+                          IEEE802.3u (100Base-TX)
+                          IEEE802.3ab (1000Base-TX)
+                          IEEE802.3bz (2.5GBase-T)
+                          IEEE802.3x (Flow control)
+
+ PoE protocol             IEEE802.3af （15.4 W）
+                          IEEE802.3at （3 0 W）
+                          POE output voltage: DC44-57V
+
+
+Industry Standard         EMI: FCC Part 15 CISPR (EN55032) class A
+                          EMS: EN61000-4-2 (ESD)、EN61000-4-4 (EFT)
+                          Shock: IEC 60068-2-27
+                          Free Fall: IEC 60068-2-32
+                          Vibration: IEC 60068-2-6
+
+Network Medium            10Base-T : Cat3、4、5 or above UTP(≤100m)
+                          100Base-TX : Cat5 or above UTP(≤100m)
+                          1000Base-TX : Cat5 or above UTP(≤100m)
+
+Protection
+
+Security Certificae       CE、FCC、RoHS
+
+
+Environment
+
+
+Working Environment       Working Temperature：-10~50°C
+                          Storage Temperature：-40~80°C
+                          Working Humidity ：10%~90%，non-condensing
+                          Storage Temperature：5%~90%，non-condensing
+
+
+Indication
+
+
+LED Indicators            PORT
+
+
+
+
+http://www.hruitech.com                               2
+ Mechanical
+
+ Structure Size           Product Size：142* 55*40MM
+                          Package Size：203* 160*55MM
+                          Product Net-Weight：0.2KG
+                          Product Gross-Weight：0.4KG
+
+ Packing Info             MEAS：580*335*445MM
+                          Packing Qty：40PCS
+                          Packing weight：17KG
+
+ Power Voltage            Input Voltage: AC 100-240 V
+
+ Package List             PoE Injector * 1 pcs
+                          User Manual * 1 pcs
+                          Power Cable * 1pcs
+
+
+
+ Ordering Info
+
+ HR900-AFG2-N301          2.5G Single Port 30W POE Injector
+
+
+
+
+ Dimension
+
+
+
+
+          Green：PWOER ON
+          Red：PoE ON
+          Light off：PWOER OFF
+
+
+
+
+          PoE Ports
+
+
+
+                                                              Uplink Data
+
+
+
+
+http://www.hruitech.com                              3
+Application
+
+
+
+
+http://www.hruitech.com   4
+

@@ -1,0 +1,100 @@
+Datasheet
+
+
+
+
+            5-port Gigabit Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n 5 *1G RJ45 ports
+
+  n Compliant with IEEE802.3 and IEEE802.3u,IEEE802.3az,IEEE802.3ab standards
+
+  n RJ45 port supports 10M/100M/1G adaptive
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+    Description                                        Specification
+    Model                                             HR-SWG0050-M
+
+
+    Interface                                         5 *1G RJ45 ports
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+    Port Standard                                     IEEE802.3x (Flow Control)
+                                                      IEEE802.3ab (Gigabit Ethernet)
+                                                      IEEE802.3az(Energy Efficient Ethernet)
+
+    Switching Capacity                                 10Gbps
+
+    Packet Forwarding Rate                             7.44Mpps
+
+    Packet Buffer                                      3Mbit
+
+    MAC Address Table                                  2K
+
+    Transmission Method                               Store and Forward
+
+                                                       AC 100-240V , 50/60Hz
+    Power Supply
+                                                       DC 5V 1A
+    Mainboard Power Consumption                        2.1W
+
+                                                       Product Dimensions :87*54*23mm
+                                                       Packaging Dimensions : 90*88*58mm
+    Structure Information
+                                                       Product Net Weight: 0.13Kg
+                                                       Product Gross Weight:0.20Kg
+
+                                                       Carton Dimensions :470*320*380mm
+    Packing Information                                Packing Quantity: 100PCS
+                                                       Packing Weight:21KG
+
+    Package Contents                                   switch 1pcs, Power adapter 1pcs, manual 1pcs，certificate of qualification 1pcs
+
+    Fan Quantity                                       0
+    Installation                                       desktop
+                                                       Surge protection: common mode 2KV, differential mode 1KV (Class C); Electrostatic
+    Surge Protection
+                                                       ESD: air 4KV, contact 3KV (Class C)
+    Operating Temperature                              0~40°C
+    Storage Temperature                                -40 °C to 70 °C
+    Operation Humidity                                 10%~90%，non condensing
+    Storage Humidity                                   5%~95%，non condensing
+
+    PWR LED                                            Green LED On: Powered on
+                                                       Green LED Off: Powered off
+
+                                                      Green LED On:Link normal
+    1-5 LED                                           Green LED Off: Link blocked
+                                                       Flashing: Data transmitting
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

@@ -1,0 +1,116 @@
+10/100/1000M Standard PoE Splitter
+
+HR-BTG-PD12F
+
+
+
+
+www.hruitech.com
+
+
+
+
+ This type of standard POE splitter, complied with IEEE802.3af, IEEE802.3at, IEEE802.3bt power supply
+ standards, can separate the power and data signals that transmitted through the network cable.
+ Equipped with two output connection modes: DC plug and industrial Phoenix terminal, the default
+ output voltage is 12V, and the maximum output power can reach 72W. The machine adopts metal
+ shell design, better protection, side ventilation and heat dissipation, longer life, and the working
+ temperature range is -10℃~+50℃.
+
+ Main Features                                          Application Environment
+
+n 1*1000M PoE-in Port + 1*1000M Data-                  Metro Optical Broadband Network:
+
+  out Port                                             Data network operators such as telecommunications,
+                                                       cable TV, and network system integration,etc.
+n Comply with IEEE 802.3, IEEE 802.3u,
+                                                       Broadband private network:
+  IEEE802.3af/at standards
+                                                       Suitable for financial, government, oil, railway,
+n The voltage output supports DC plug
+                                                       electric power, public security, transportation,
+  and 2 PIN industrial Phoenix terminal
+                                                       education and other industries
+  connection                                           Multimedia transmission:
+n DC power output maximum 72W                          Integrated transmission of images, voice and data,
+n Metal housing design, with better                    suitable for remote teaching, conference TV,
+  protection                                           videophone and other applications
+
+n Wide working temperature -10℃~+50℃                   Real-time monitoring:
+                                                       Simultaneous transmission of real-time control
+                                                       signals, images and data
+
+
+
+http://www.hruitech.com                            1
+ Specifications
+
+ General Parameter
+
+ Product Name             1000M Standard PoE Splitter
+
+ Product Model            HR-BTG-PD12F
+
+ Port Definition          1*1000M PoE-in Port + 1*1000M Data-out Port
+
+                          IEEE802.3af /IEEE802.3at/IEEE802.3bt
+
+                          PoE Input: 48V~55V
+ PoE Features
+                          PoE power supply line sequence: 1/2+；3/6- or 4/5+；7/8- or 1/2-; 3/6+
+
+                          Interface Type: DC 2.5/ Industrial Phoenix 2PIN terminal
+
+ Output                   Voltage: 12V; Power: 72W
+
+ Network Media            10BASE-T: Cat 3,4,5 UTP(≤100 meter)
+                          10BASE-T: Cat 6 UTP(≤100 meter)
+                          100BASE-TX: Cat5 or more UTP (≤100 meter)
+
+                                  Light on: PoE normal
+ Indicator                PWR
+                                  Light off: Non- PoE
+
+ Working Environment      Temperature: -10~50℃
+                          Storage Temperature: -40~85℃
+                          Humidity: 5%~95 % ( RH)
+
+ Testing Standard         EN61000-4-2 （ESD）touch 6KV，air 8KV
+                          IEN61000-4-5 （Surge）common mode 4KV, differential mode 2KV
+                          EN61000-4-3 （RS）
+                          EN61000-4-6 （CS）
+                          EN61000-4-4 （EFT）
+                          FCC Part 15/ CISPR32 /EN55032： CLASS A
+                          IEC 60068-2-27 shock testing
+                          IEC 60068-2-32 free fall testing
+                          IEC 60068-2-6 vibration testing
+
+ Physical Structure       Housing protection: IP20
+                          Installation: Wall-mounted
+                          Product Weight:： 0.3KG with package :0.4KG（not includes adapter）
+                          Product Size (L×W×H): 105*107*33mm
+                          Package Size (L×W×H): 175*130*55mm
+
+
+
+
+http://www.hruitech.com                                2
+ Package List             1) PoE Splitter 1pc;
+                          2) User Manual 1pc;
+                          3) Certificate 1pc
+
+ Safety Certificate       CE、FCC、RoHS
+
+ MTBF                     100,000hours
+
+
+
+ Ordering Info
+
+ HR-BTG-PD12F             1*1000M PoE-in Port + 1*1000M Data-out Port
+
+
+
+
+http://www.hruitech.com                              3
+

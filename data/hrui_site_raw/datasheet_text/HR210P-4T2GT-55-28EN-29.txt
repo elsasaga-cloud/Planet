@@ -1,0 +1,186 @@
+Datasheet
+
+
+
+
+                    6-Port Gigabit Easy Cloud
+                      Managed PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 4*1Gbps PoE ports+2*1Gbps RJ45 ports
+
+  n Comply with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and IEEE 802.3x standards
+
+  n Ethernet Ports support 10/100/1000Mbps self-adaptive
+
+  n Flow control method: Full duplex uses IEEE 802.3x standard, while half duplex uses Back
+
+    pressure standard
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n Adopt a storage and forwarding exchange mechanism
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Port 1 supports HiPoE 60W
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+    Description                                       Specification
+    Model                                            HR210P-4T2GT-55
+
+
+                                                     4*1Gbps PoE ports
+    Interface
+                                                     2*1Gbps RJ45 ports
+
+
+                                                     IEEE802.3 (Ethernet)
+                                                     IEEE802.3u (Fast Ethernet)
+    Port Standard                                    IEEE802.3x (Flow Control)
+                                                     IEEE 802.3ab(GigabitEtherne)
+
+
+    Switching Bandwidth                               12Gbps
+
+
+    Packet Forwarding Rate                            8.928Mpps
+
+
+    Packet Buffer                                     1Mbit
+
+
+    MAC Address Table                                 2K
+
+    Transmission Method                              Store and Forward
+
+                                                     IEEE802.3af (15.4W)
+    PoE Standard                                     IEEE802.3at (30W)
+
+    POE Port Output Voltage                          DC 44-57V
+
+                                                     Port 1 supports HiPoE 60W
+    PoE Ports                                        Ports 2-4 PoE power output <30W
+
+    PoE Power Budget                                 50W
+
+                                                      AC 100-240V 50/60Hz
+    Power Supply
+                                                      DC 52V 1.05A
+
+    Mainboard Power Consumption                       2.1W
+                                                      Product Dimensions: 172*101*37mm
+                                                      Packaging Dimensions: 245*160*55mm
+    Structure Information
+                                                      Product Net Weight: 0.43KG
+                                                      Product Gross Weight: 0.51KG
+
+                                                      Carton Dimensions: 520*300*340mm
+    Packing Information                               Packing Quantity: 20PCS
+                                                      Packing Weight: 11.2KG
+
+    Package Contents                                  Switch 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+    Fan Quantity                                      0
+
+    Installation                                      Desktop
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                  www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Port Surge: Common mode 4KV, Differential mode 2KV(Class C)
+    Surge Protection                                   Electrostatic ESD: Air 8KV, Contact 6KV(Class B)
+                                                       Power Supply: Common mode 6KV(Class B)
+
+    Operating Temperature                              0~40°C
+
+
+
+    Storage Temperature                                -40~70°C
+
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                       On: Link normal
+    Ports 1-6 Green LED                                Off: Link blocked
+                                                       Flashing: Data transmitting
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                      www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                       Specification
+    Information
+
+    Info
+
+                                                      Port Alias
+    Port                                              Port Statistics
+                                                      Extend
+
+                                                      Restart
+    PoE
+                                                      Off
+
+
+                                                      Positioning
+
+
+                                                      VLAN
+    Setting
+                                                      PoE Watchdog
+
+
+                                                      PoE Priority
+
+
+                                                      System restart
+    Management
+                                                      Software update
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd         www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

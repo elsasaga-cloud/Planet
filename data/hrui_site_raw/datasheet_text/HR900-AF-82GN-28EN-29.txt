@@ -1,0 +1,188 @@
+Datasheet
+
+
+
+
+                 8-Port 100Mbps and 2-Port
+                    Gigabit PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 8*100Mbps PoE ports+2*1Gbps uplink RJ45 ports
+
+  n Comply with IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standards
+
+  n Ethernet Ports support 10/100Mbps self-adaptive
+
+  n PoE ports automatically activate PoE watchdog mode in VLAN and Extend modes
+
+  n Flow control method: Full duplex uses IEEE 802.3x standard, while half duplex uses Back
+
+    pressure standard
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Support three modes: VLAN, Normal, and Extend
+
+  n Port 1 supports HiPoE 60W
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR900-AF-82GN
+
+
+                                                      8*100Mbps PoE ports
+    Interface
+                                                      2*1Gbps uplink RJ45 ports
+
+
+                                                      IEEE802.3 (Ethernet)
+    Port Standard                                     IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+
+    Switching Bandwidth                                5.6Gbps
+
+
+    Packet Forwarding Rate                             4.166Mpps
+
+
+    Packet Buffer                                      1Mbit
+
+
+    MAC Address Table                                  2K
+
+
+    Transmission Method                               Store and Forward
+
+                                                      IEEE802.3af (15.4W)
+    PoE Standard                                      IEEE802.3at (30W)
+
+
+    PoE Port Output Voltage                           DC 44-57V
+
+                                                      Ports 2-8 PoE power output <30W
+    PoE Ports                                         Port 1 supports HiPoE 60W
+
+
+    PoE Power Budget                                  115W
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 52V 2.3A
+
+    Mainboard Power Consumption                        2.3W
+
+                                                       Product Dimensions: 200*118*44mm
+                                                       Packaging Dimensions: 245*190*60mm
+    Structure Information
+                                                       Product Net Weight: 0.62KG
+                                                       Product Gross Weight: 0.93KG
+
+                                                       Carton Dimensions: 520*320*400mm
+    Packing Information                                Packing Quantity: 20PCS
+                                                       Packing Weight: 19.6KG
+
+    Package Contents                                   Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+    Fan Quantity                                       0
+
+
+    Installation                                       Desktop
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Port Surge: Common mode 4KV, Differential mode 2KV
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV (Class B)
+
+
+    Operating Temperature                              0~40°C
+
+
+
+    Storage Temperature                                -40~70°C
+
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                      On: VLAN
+    SW Green LED                                      Flashing: Extend
+                                                      Off: Normal
+
+                                                       On: Link normal
+    Ports 1-10 Green LED                               Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                      VLAN: VLAN mode, ports 1-8 are isolated from each other, communicating with
+                                                      ports 9-10, and automatically activate the PoE watchdog mode
+                                                      Normal: Normal mode, all ports can communicate with each other, transmission
+                                                      distance is within 100 meters, transmission rate is 10/100Mbps adaptive(PoE
+    VLAN/Normal/Extend Modes Buttons
+                                                      Watchdog off)
+                                                      Extend: Extend mode, when the PoE port is in Extend mode, ports 1-8 force 10Mbps
+                                                      to extend the transmission distance to 250meters, and automatically activate the
+                                                      PoE watchdog mode
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                             www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+Datasheet
+
+
+
+
+ Mounting ear diagram (Optional, support customization, default no
+ mounting ear)
+ Unit of size：mm
+
+
+                                                            Wall mounted ears
+
+
+
+
+                                                           Rack mounting ears
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                 www.hruitech.com
+

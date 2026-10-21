@@ -1,0 +1,159 @@
+Datasheet
+
+
+
+
+                 8-Port 10G Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n 8*10Gbps RJ45 ports
+
+  n Comply with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3ae, and IEEE
+
+    802.3x standards
+
+  n Ethernet Ports support 100M/1G/2.5G/10Gbps self-adaptive
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                       Specification
+
+    Model                                             HR500S-8T
+
+
+    Interface                                         8*10Gbps RJ45 ports
+
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3ab (Gigabit Ethernet)
+    Port Standard                                     IEEE 802.3bz (5G Ethernet)
+                                                      IEEE 802.3z (Gigabit Ethernet)
+                                                      IEEE 802.3ae (10G Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+    Switching Bandwidth                                160Gbps
+
+
+
+    Packet Forwarding Rate                             119.04Mpps
+
+
+
+    Packet Buffer                                      12Mbit
+
+
+
+    MAC Address Table                                  16K
+
+
+
+    Jumbo Frame                                        Support
+
+
+
+    VLAN                                              VLAN range 1-4094, maximum active VLAN is 4K
+
+
+
+    Transmission Method                               Store and Forward
+
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 12V 4A
+
+
+    Mainboard Power Consumption                        33.97W
+
+
+                                                       Product Dimensions: 270*181*44mm
+                                                       Packaging Dimensions: 312*262*84mm
+    Structure Information
+                                                       Product Net Weight: 1.3KG
+                                                       Product Gross Weight: 1.75KG
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                      www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Carton Dimensions: 540*435*332mm
+    Package Information                                Packing Quantity: 10PCS
+
+                                                       Packing Weight: 18.5KG
+
+
+    Package Contents                                   Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+    Fan Quantity                                       2
+
+
+    Installation                                       Desktop
+
+                                                       Port Surge: Common mode 4KV, Differential mode 1KV
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV
+
+    Operating Temperature                              0~40°C
+
+
+    Storage Temperature                                -40~70°C
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                       Green LED on: 10Gbps Link normal
+                                                       Yellow LED on: 1G/2.5Gbps Link normal
+    Ports 1-8
+                                                       Off: Link blocked
+                                                       Flashing: Data transmitting
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

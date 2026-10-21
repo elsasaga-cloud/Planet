@@ -1,0 +1,172 @@
+6 Ports Gigabit Intelligent Industrial PoE Switch
+
+
+
+
+www.hruitech.com
+
+
+
+HR500-AFG-411S intelligent industrial PoE Switch, support 4* Gigabit PoE ports+1* Gigabit uplink Ethernet
+port+1* Gigabit SFP port, support DIN-Rail & Wall mounts, support dual power supply input (DC48-55V)，
+working temperature -40℃~ +75℃，It has passed the industrial environment certification and complies with
+FCC, CE, CCC, RoHS standards. The reliable industrial design can ensure that your automation system runs
+without interruption and stability.
+This series of industrial PoE switches can be widely used in wind, electricity, assembly automation, subway PIS,
+power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other
+industries,is a green low power industrial PoE Ethernet switch.
+
+
+ Main Feature                                                Application Environment
+
+                                                            Metro Optical Broadband Network:
+n Support 4* Gigabit PoE ports+1* Gigabit uplink
+                                                            Data network operators such as telecommunications,
+   Ethernet port+1* Gigabit SFP port                        cable TV, and network system integration, etc.
+                                                            Broadband private network:
+n Port 1-4 support standard PoE power supply,               Suitable for financial, government, oil, railway,
+   support IEEE 802.3af/at standard.                        electric power, public security, transportation,
+                                                            education and other industries.
+n Working temperature -40℃-75℃,                             Multimedia transmission:
+                                                            Integrated transmission of images, voice and data,
+n 4PIN industrial terminal+ DC2.1 input interface,
+                                                            suitable for remote teaching, conference TV,
+   DC48-55V wide voltage input.                             videophone and other applications.
+                                                            Real-time monitoring:
+n Support 3 DIP modes: VLAN, Genius, Extend.                Simultaneous transmission of real-time control
+n Support rail and wall mount installation.                 signals, images and data.
+                                                            Resistant to harsh environments:
+n surge protection 4KV, ESD: Air15KV,                       suitable for networking in harsh environments with
+Contact 8KV.                                                strong electromagnetic interference and long
+                                                            distances.
+
+
+
+
+                                                        1
+Specification
+
+I/O Interface
+
+Power                  DC 48～55V
+
+Ethernet               4* Gigabit PoE Ports
+                       1* Gigabit Uplink port
+                       1* Gigabit SFP Port
+
+Performance
+
+Bandwidth              12Gbps
+
+Pack forwarding rate   8.928Mpps
+
+MAC address            8K
+
+Jumbo frame            9.6Kbytes
+
+Transfer mode          Storage & forward
+
+MTBF                   100000 Hours
+
+Standards
+
+Network protocol       IEEE802.3
+                       IEEE802.3i
+                       IEEE802.3u
+                       IEEE802.3ab
+                       IEEE802.3z
+
+PoE standard           PoE standard: IEEE802.3af /IEEE802.3at
+                       Single port max: 15.4 W (IEEE 802.3af)
+                       Single port max: 30 W (IEEE 802.3at)
+                       PoE compatibility: IEEE 802.3af/at self-adaptive
+                       PoE port output voltage: DC 48-55V
+                       PoE power supply wire core:1/2+ ; 3/6-
+
+Indsutry standard      EMI: FCC Part 15, CISPR (EN55022) class A
+                       EMS: EN61000-4-2 (ESD)
+                       EN61000-4-4 (EFT)
+                       EN61000-4-5 (Surge)
+
+Network Medium         10BASE-T: Cat3, 4, 5 UTP (≤100 m)
+                       100BASE-TX: Cat5 or above UTP (≤100 m)
+                       1000BASE-TX: Cat5 or above UTP (≤100 m)
+
+
+
+
+                                                    2
+Optical medium            Multimode fiber: 850nm, 1310nm transmission distance: 550m/2Km
+                          Single-mode fiber: 1310nm, 1550nm transmission distance: 20/40/60/80/100/120km
+
+Certificate
+
+
+Safety certificate        CE, FCC, RoHS
+
+Environment standard
+
+Workin environment        Working temperature: -40～75℃
+                          Storage temperature: -40～85℃
+                          Humidity: 5%~95 % (non-condensing)
+
+Physical specification
+
+Structure size            Product dimension: 120*87*30 mm
+                          Package dimension: 175*130*55mm
+                          Product N.W: 0.441 KG
+                          Product G.W: 0.530 KG (without power)
+
+Packaging info            Carton MEAS: 540*290*375mm
+                          Packing Qty: 40 PCS
+                          Packing Weight: 22.2 KG
+
+Power voltage             Voltage input: DC48～55V
+                          Power cable :4 PIN Industrial terminal (redundancy V1+V1-, V2+V2-)/ DC 2.1
+                          (DC 2.1 cannot be used together with V1 and V2)
+
+Packaging List           1. Industrial Switch: 1 PC
+                         2. User Manual: 1 PC
+                         3. Certification: 1 PC
+                         4. Pull-arm: 1 PC
+
+Indicator
+
+LED Indicator            PWR, 1-6 green light
+
+                         On: Powered on
+PWR
+                         Off: Powered off
+
+                         On: Link normal
+1-6 green light          Off: Link off
+                         Flashing: Link data transmitting
+DIP function             V, G, E (Up open, down close)
+
+V                        V: VLAN mode, ports 1 to 4 are isolated and can communicate with ports 5 and 6
+
+G                        G: Normal mode
+
+E                        E: Extend mode, ports 1-4 are reduced to 10M and can be extended to 250m
+
+
+
+                                                        3
+Order info
+
+HR500-AXG-411S      6 Ports Gigabit Intelligent Industrial PoE Switch
+
+
+
+Product Picture
+
+
+
+
+Product Structure
+
+
+
+
+                                                    4
+

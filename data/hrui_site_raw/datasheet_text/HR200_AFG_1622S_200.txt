@@ -1,0 +1,168 @@
+Datasheet
+
+
+
+
+                 20-Port Gigabit PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 16* 1G PoE ports+2 *1G RJ45 ports+2 *1G SFP ports;
+
+  n Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and IEEE 802.3x standards;
+
+  n RJ45 port supports 10M/100M/1G adaptation
+
+  n When the PoE port is in Extend mode, ports 9-16 force 10Mbps to automatically activate the PoE
+
+    watchdog mode;
+
+  n Support PoE priority
+
+  n Flow control method: IEEE 802.3x standard is used for full duplex, and Back pressure standard is used
+
+    for half duplex;
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Support Extend mode
+
+  n 1 port supports 60W
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                    www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+    Model                                            HR200-AFG-1622S-200
+
+                                                     16* 1G PoE ports
+
+    Interface                                        2 *1G RJ45 ports
+
+                                                     2 *1G SFP ports
+
+                                                     IEEE802.3 (Ethernet)
+                                                     IEEE802.3u (Fast Ethernet)
+    Port Standard                                    IEEE802.3ab (1000Mbps Ethernet)
+                                                     IEEE802.3x (Flow Control)
+                                                     IEEE 802.3z (1000Mbps Ethernet Fiber Standard)
+
+    Switching Capacity                                40 Gbps
+
+
+    Packet Forwarding Rate                            29.76Mpps
+
+
+    Packet Buffer                                     3Mbit
+
+    MAC Address Table                                 2K
+
+    Transmission Method                              Store and Forward
+
+                                                     IEEE802.3af （15.4W）
+    PoE Standard                                     IEEE802.3at （30W）
+
+    PoE Port Output Voltage                          DC 44-57V
+
+    PoE Ports                                        Port 2-16 PoE power output <30W(port1 support 60w)
+
+
+    PoE Power Budget                                 180W
+
+                                                      AC 100-240V 50/60Hz
+    Power Supply
+                                                      DC 52V 3.84A
+
+    Mainboard Power Consumption                       20W
+
+                                                      Product Dimensions :320*207*44mm
+                                                      Packaging Dimensions : 370*290*85mm
+    Structure Information
+                                                      Product Net Weight:1.78KG
+                                                      Product Gross Weight:2.28KG
+                                                      Carton Dimensions :445*310*390mm
+    Packing Information                               Packing Quantity: 5PCS
+                                                      Packing Weight: 12.4KG
+
+    Package Contents                                  Switch 1pcs, power cord 1pcs, manual 1pcs,certificate of qualification 1pcs
+
+    Fan Quantity                                      0
+
+    Installation                                      Desktop,rack-mounted
+
+    Certification                                     CE、FCC、RoHS
+
+                                                      Surge protection: Common mode 4KV, differential mode 2KV (Class B); Electrostatic
+    Surge Protection                                  ESD: Air 8KV, Contact 6KV (Class C)
+                                                      Power supply: common mode 4KV, differential mode 2KV (Class B)
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+
+    Operating Temperature                             0~40°C
+
+
+
+    Storage Temperature                               -40 °C to 70 °C
+
+
+
+    Operation Humidity                                10%~90%，non condensing
+
+
+
+    Storage Humidity                                  5%~95%，non condensing
+
+
+                                                      Green LED On: Powered on
+    PWR LED
+                                                      Green LED Off: Powered off
+
+                                                      On: 10M/100M/1G Link normal
+    1-20 Green LED                                    Off: Link blocked
+                                                      Flashing: Data transmitting
+
+                                                      On: PoE powered on
+    1-16 Yellow LED                                   Off: PoE powered off
+
+
+                                                      Off: Indicate that the PoE power usage is less than 90%
+    PoE Max Green LED                                 Flashing(Once per second): Indicate that the PoE power usage of 90% ≤ P ≤ 95%
+                                                      On: Indicate that the PoE power is used at 95%<P<100%
+
+                                                      Off: Extend off
+    Mode Light Green LED
+                                                      Flashing: Extend on
+
+
+    PoE Led Buttons                                  Dual color light selection: default green (link data), switch yellow light (PoE)
+
+
+                                                     OFF: All interfaces can communicate with each other, with an adaptive transmission
+                                                     rate of 10M/100/1000Mbps, and port PoE watchdog mode turned off;
+    Extend mode Button
+                                                     ON: The 9-16 ports can extend the transmission distance by 250 meters, with a
+                                                     transmission rate of 10Mbps, and the PoE watchdog mode is enabLight on the port;
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                         www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+

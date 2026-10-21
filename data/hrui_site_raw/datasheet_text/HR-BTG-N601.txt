@@ -1,0 +1,101 @@
+Datasheet
+
+
+
+
+             60W 1000Mbps PoE Injector
+
+
+
+
+  Product Highlights
+
+  n Support 1* 1000Mbps PoE power supply port+1* 1000Mbps RJ45 port
+
+  n Compatible with IEEE802.3af (15.4W), IEEE802.3at (30W), and IEEE802.3bt (60W)
+
+  n Supports AC 100-240V power supply
+
+  n Metal casing, IP20 protection level, operating temperature range of -20 to 50 ° C
+
+  n Support port surge: differential mode 2KV, common mode 6KV; Electronic ESD: Contact
+
+    discharge 6KV, air discharge 8KV
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                         www.hruitech.com
+Datasheet
+
+
+  Hardware Features
+     Description                                     Specification
+    Model                                            HR-BTG-N601
+
+                                                     1* 1000Mbps PoE Port
+    Interface                                        1* 1000Mbps RJ45 Port
+
+
+    Port Standard                                    IEEE802.3af /IEEE802.3at/IEEE802.3bt
+
+
+                                                     15.4 W (IEEE 802.3af)
+    Single Port Max                                  30 W (IEEE 802.3at)
+                                                     60 W (IEEE 802.3bt)
+
+                                                     EN61000-4-2 （ESD）
+                                                     IEN61000-4-5（Surge）
+    Industry Standard                                EN61000-4-3 （RS）
+                                                     EN61000-4-6 （CS）
+                                                     EN61000-4-4 （EFT）
+
+    Protection Grade                                 IP20
+
+    PoE Port Output Voltage                          DC 52V
+
+                                                     AC 100-240V 50/60Hz
+    Power Supply
+                                                      DC 52V/1.25A
+                                                     IEEE802.3af （15.4W）
+    PoE Standard                                     IEEE802.3at （30W）
+                                                     IEEE802.3bt （60W）
+                                                     Product Dimensions :187mm* 95mm*40 mm
+                                                     Packaging Dimensions : 245mm*190mm*60mm
+    Structure Information                            Product Net Weight: 0.486KG
+                                                     Product Gross Weight:0.712KG
+
+                                                     Carton Dimensions :520mm*320mm*400mm
+    Packing Information                              Packing Quantity: 20PCS
+                                                     Packing Weight: 15.24KG
+
+
+    Package Content                                   Injector 1pcs, manual 1pcs，certificate of qualification 1pcs
+
+
+    Certification                                    CE、FCC、RoHS
+
+    Installation                                     Wall Mounting
+
+    Operating Temperature                            -20～50℃
+
+    Storage Temperature                              -40～85℃
+
+    Operation Humidity                               5%~90%，non condensing
+
+    Storage Humidity                                 5%~95%，non condensing
+
+                                                     On: Powered on
+    PWR
+                                                     Off: Powered off
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                      www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

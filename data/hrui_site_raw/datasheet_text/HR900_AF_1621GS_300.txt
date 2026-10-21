@@ -1,0 +1,174 @@
+Datasheet
+
+
+
+
+              16-Port 100Mbps and 3-Port
+                  Gigabit PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 16 *100Mbps PoE ports+2 *1G RJ45 ports+1 *1G SFP port;
+
+  n Compliant with IEEE802.3, IEEE802.3u, IEEE802.3ab, IEEE802.3x, and IEEE802.3z standards;
+
+  n RJ45 port supports 10/100Mbps adaptation;
+
+  n When the PoE port is in Extend mode, ports 1-16 force 10Mbps to automatically activate the
+
+    PoE watchdog mode;
+
+  n Support PoE priority to be enabled by default, with a priority order of 1-16
+
+  n Flow control method: IEEE 802.3x standard is used for full duplex, and Back pressure standard
+
+    is used for half duplex;
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis;
+
+  n Supports three modes: VLAN, Default, and Extend;
+
+  n 1 port supports 60W
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR900-AF-1621GS-300
+
+                                                      16 *100Mbps PoE ports
+
+    Interface                                         2 *1G RJ45 ports
+                                                      1 *1G SFP port
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+    Port Standard                                     IEEE802.3ab (Gigabit Ethernet)
+                                                      IEEE802.3x (Flow Control)
+                                                      IEEE 802.3z (Gigabit Ethernet Fiber Standard)
+
+
+    Bandwidth                                          9.2Gbps
+
+
+    Packet Forwarding Rate                             6.84Mpps
+
+
+    Packet Buffer                                      768Kbit
+
+
+    MAC Address Table                                  2K
+
+    Transmission Method                               Store and Forward
+
+                                                      IEEE802.3af （15.4W）
+    PoE Standard                                      IEEE802.3at （30W）
+
+    PoE Port Output Voltage                           DC 44-57V
+
+    PoE Ports                                         Port 2-24 PoE power output <30W,Port 1 PoE power output 60W
+
+    PoE Power Budget                                   290W
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 52V 5.76A
+    Mainboard Power Consumption                        5.3W
+                                                       Product Dimensions :320*207*45mm
+                                                       Packaging Dimensions : 370*290*85mm
+    Structure Information                              Product Net Weight:1.61KG
+                                                       Product Gross Weight:2.14KG
+
+                                                       Carton Dimensions :445*310*390mm
+    Packing Information                                Packing Quantity: 5PCS
+                                                       Packing Weight: 11.7KG
+
+    Package Contents                                   Switch 1pcs, power cord 1pcs, manual 1pcs,certificate of qualification 1pcs
+
+
+    Fan Quantity                                       0
+
+    Installation                                       Desktop
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                              www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Port Surge: common mode 4KV, differential mode 2KV
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV (Class B)
+
+
+    Operating Temperature                              0~40°C
+
+
+
+    Storage Temperature                                -40 °C to 70 °C
+
+
+
+    Operation Humidity                                 10%~90%,non condensing
+
+
+
+    Storage Humidity                                   5%~95%,non condensing
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                      On:VLAN
+    Mode Green LED                                    Flashing:Extend
+                                                      Off:Default
+
+                                                       On: 10/100M Link normal
+    1-16 Green LED                                     Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                       On:10/100M/1G Link normal
+    17-19 Green LED                                    Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                       On: PoE powered on
+    1-16 Yellow LED (PoE)
+                                                       Off: PoE powered off
+
+                                                       On: indicates PoE power usage is less than 90%
+    PoE Max Green LED                                  Flashing: indicates PoE power usage of 90% ≤ P ≤ 95%
+                                                       Off: indicates that PoE power is used at 95%<P<100%
+
+    PoE LED Buttons                                   Dual color LED selection: default green (link data), switch yellow LED (PoE)
+
+                                                      VLAN: Isolation mode, 1-16 ports isolated from each other, communicating with 17-
+                                                      19 ports, port PoE watchdog mode enabled
+                                                      Default: Normal mode, all interfaces can communicate with each other, transmission
+                                                      distance is within 100 meters, transmission rate is 10/100Mbps adaptive, port PoE
+    VLAN/Default/Extend Modes Buttons
+                                                      watchdog mode is turned off
+                                                      Extend: Link extension mode, 1-16 ports PoE power supply and data transmission
+                                                      distance can be extended to 250 meters, transmission speed is 10Mbps, port PoE
+                                                      watchdog mode is enabled
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                              www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

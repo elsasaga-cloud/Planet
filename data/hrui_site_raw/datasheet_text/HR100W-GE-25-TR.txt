@@ -1,0 +1,187 @@
+10/100/1000M Self-adaptive
+Fiber Media Converter
+
+
+
+
+www.hruitech.com
+
+
+
+Ethernet optical fiber transceiver can efficiently realize the conversion between 10 / 100/1000M Ethernet
+electrical port and fiber port, automatically compatible with half / full duplex mode，It can carry out long-
+distance data and video signal transmission via optical fiber,which is convenient for network upgrading and
+flow control. Adopt international advanced chip and design to ensure the stability and practicability.With ultra-
+low transmission delay and line speed forwarding ability,it can realize flexible Ethernet expansion even in harsh
+environment. Use standard international optical and electronic components to ensure reliable and stable
+operation.This series of products can be configurated with combo port, able to connect with single-mode fiber
+or multi-mode fiber according to the user's situation.Adopts double side ventilated heat dissipation
+design.Support desk and rack installtion.
+
+ Main Features                                               Application Environment
+
+n Built-in high efficiency switching core to achieve        Metro Optical Broadband Network:
+   flow control and reduce broadcast packet                 Data network operators such as telecommunications,
+n Automatically adapt to 10/100/1000Mbps                    cable TV, and network system integration,etc.
+   network environment, free conversion network             Broadband private network:
+   upgrade                                                  Suitable for financial, government, oil, railway,
+n Support full-duplex and half-duplex transmission          electric power, public security, transportation,
+   mode, automatic negotiation                              education and other industries
+n Support 9216 byte packets, monitoring and                 Multimedia transmission:
+   transmission more smooth                                 Integrated transmission of images, voice and data,
+n Complete power link, working mode indicator               suitable for remote teaching, conference TV,
+   light, working state at a glance                         videophone and other applications
+n low power consumption low heat, long time                 Real-time monitoring:
+   stable work, network security advanced                   Simultaneous transmission of real-time control
+n Support dual-fiber multimode , dual-fiber single-         signals, images and data
+   mode,single-fiber single-mode,and multiple fiber
+   interface options
+
+http://www.hruitech.com                                 1
+ Specifications
+
+ I/O Interface
+
+ Power                     DC 5V
+
+ Ethernet                  1-Port 10/100/1000M RJ45
+                           1-Port 1000M fiber ports
+
+ Performance
+
+ Switching Capacity        4Gbps
+
+ Throughput                2.976Mpps
+
+ Packet Buffer             2K
+
+ MAC Address               2K
+
+ Jumbo Frame               9216bytes
+
+ Transfer Mode             Store and forward
+
+ MTBF                      100000 hour
+
+ Standard
+
+ Network protocol          IEEE802.3 (10Base-T)
+                           IEEE802.3u (100Base-TX/FX)
+                           IEEE802.3ab (1000Base-TX/FX)
+                           IEEE802.3x (Flow control)
+
+ optical characteristics   multi mode：850/1310nm （0-2KM）
+                           Single mode：1310/1550/1490nm（0-120KM）
+
+ Industry Standard         EMI: FCC Part 15 CISPR (EN55032) class A
+                           EMS: EN61000-4-2 (ESD)、EN61000-4-4 (EFT)
+                           Shock: IEC 60068-2-27
+                           Free Fall: IEC 60068-2-32
+                           Vibration: IEC 60068-2-6
+
+ Network Medium            10Base-T : Cat3、4、5 or above UTP(≤100m)
+                           100Base-TX : Cat5 or above UTP(≤100m)
+                           1000Base-TX : Cat5 or above UTP(≤100m)
+
+ Optical Media             Multimode fiber : 50/125、62.5/125、100/140um
+                           Single mode fiber : 8/125、8.7/125、9/125、10/125um
+
+ Protection
+
+ Security Certificae       CE、FCC、RoHS
+
+
+http://www.hruitech.com                                2
+ Environment
+
+ Working Environment      Working Temperature：-20~50°C
+                          Storage Temperature：-40~70°C
+                          Working Humidity ：10%~90%，non-condensing
+                          Storage Temperature：5%~90%，non-condensing
+                          Working Height：Maximum10,000 feet
+                          Storage heigh：Maximum 10,000 feet
+
+ Mechanical
+
+ Structure Size           Product Size：94*70*26mm
+                          Package Size：245*190*60mm
+                          Product Net-Weight：0.2*2kg
+                          Product Gross-Weight：0.7kg
+
+ Packing Info             MEAS：620*400*510mm
+                          Packing Qty：40 Pair
+                          Packing weight：29.5 KG
+
+ Power Voltage            Adapter input voltage : AC 100-240 V
+                          Media Converter input voltage：DC 5V
+
+ Package List             Media Converter 2 pcs, Power Adapter 2 pcs， User manual 1 pcs, Qualification Card 1 pc
+
+
+ Indication
+
+ LED Indicators           PWR（Power indicator）
+                          FDX（Network mode）
+                          1000M（1000M Network Link）
+                          100M（100M Network data）
+                          FX（Optical Link&Act）
+                          Link（Network Link&Act）
+
+
+
+ Ordering Info
+
+ HR100W-GE-550            1000M Fiber Media Converter-dual-fiber multimode 550m TX/RX 850
+
+
+ HR100W-GE-2              1000M Fiber Media Converter-dual-fiber multimode 2KM TX/RX 1310
+
+
+ HR100W-GE-3-T            1000M Fiber Media Converter-single-fiber single mode 3KM TX1310/RX1550
+
+
+ HR100W-GE-3-R            1000M Fiber Media Converter-single-fiber single mode 3KM TX1550/RX1310
+
+
+ HR100W-GE-25-T           1000M Fiber Media Converter-single-fiber single mode 20KM TX1310/RX1550
+
+
+ HR100W-GE-25-R           1000M Fiber Media Converter-single-fiber single mode 20KM TX1550/RX1310
+
+http://www.hruitech.com                              3
+  Panel Indication
+
+
+
+
+Lighting：1000M Network Link       Lighting：100M Network Link
+
+
+                                  Lighting：Link connected
+Lighting：Optical Link ON
+                                  Flashing：Data transmission
+Flashing：Data transmission
+                                  Light off：Link disconnect
+Light off：Link disconnect
+
+
+Lighting：Full-Duplex              Lighting：Powered
+
+Light off：Half-Duplex             Light off：Power failed
+
+
+
+
+                                                  RJ45
+Optical module
+
+
+
+
+ Application
+
+
+
+
+http://www.hruitech.com       4
+

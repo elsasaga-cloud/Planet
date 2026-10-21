@@ -1,0 +1,102 @@
+Datasheet
+
+
+
+
+       8-Port 100Mbps Ethernet Switch
+               （Plastic Shell）
+
+
+
+
+  Product Highlights
+
+  n 8*100Mbps RJ45 ports
+
+  n Compliant with IEEE802.3 and IEEE802.3u,IEEE802.3az,IEEE802.3ab standards
+
+  n RJ45 port supports 10/100Mbps adaptive
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+    Description                                        Specification
+    Model                                             HR-SW0080+
+
+
+    Interface                                         8 *100Mbps RJ45 ports
+
+                                                      IEEE802.3 (Ethernet)
+    Port Standard                                     IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+    Switching Capacity                                 1.6Gbps
+
+    Packet Forwarding Rate                             1.19Mpps
+
+    Packet Buffer                                      768Kbit
+
+    MAC Address Table                                  2K
+
+    Transmission Method                               Store and Forward
+
+                                                       AC 100-240V , 50/60Hz
+    Power Supply
+                                                       DC 5V 1A
+    Mainboard Power Consumption                        1.12W
+
+                                                       Product Dimensions :145*60*21.5mm
+                                                       Packaging Dimensions :146*88*50mm
+    Structure Information
+                                                       Product Net Weight: 0.089Kg
+                                                       Product Gross Weight:0.167Kg
+
+                                                       Carton Dimensions :530*475*315mm
+    Packing Information                                Packing Quantity: 100PCS
+                                                       Packing Weight: 17.7KG
+
+    Package Contents                                   Switch 1pcs,Power adapter 1pcs,manual 1pcs,certificate of qualification 1pcs
+
+    Fan Quantity                                       0
+    Installation                                       Desktop
+
+    Surge Protection                                   Common mode 2KV, differential mode 1KV
+
+    Operating Temperature                              0~40°C
+    Storage Temperature                                -40 °C to 70 °C
+    Operation Humidity                                 10%~90%，non condensing
+    Storage Humidity                                   5%~95%，non condensing
+
+                                                       Green LED On: Powered on
+    PWR LED
+                                                       Green LED Off: Powered off
+
+                                                      Green LED On：Link normal
+    1-8 LED                                           Green LED Off: Link blocked
+                                                      Flashing: Data transmitting
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                             www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

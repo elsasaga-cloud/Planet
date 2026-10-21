@@ -1,0 +1,718 @@
+Datasheet
+
+
+
+
+           24-Port 10G SFP+ and 2-Port
+            100G QSFP28 L3 Managed
+                      Switch
+
+
+
+
+  Product Highlights
+  n Support 24*10Gbps SFP+ Ports+ 2*100Gbps QSFP28 ports
+
+  n 100G/40Gbps ports (support 25G/10Gbps module splitting rates)
+
+  n 1*Console port, 1*ETH port, 1*USB port
+
+  n Operating Temperature: 0~45°C
+
+  n Support Cut-Through forwarding mode with fixed transmission delay
+
+  n Support complete L2/L3 features
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd         www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Model                                             HR530S-24S2CQ
+
+                                                      24*10Gbps SFP+ ports
+                                                      2*100Gbps QSFP28 ports
+    Interface                                         1*Console port, 1*ETH port
+                                                      1*USB port
+
+                                                      IEEE802.3 (Ethernet)
+
+                                                      IEEE 802.3ae (10G Ethernet)
+
+                                                      IEEE 802.3ba (40/100G Ethernet)
+
+                                                      IEEE802.3x (Flow Control)
+
+                                                      IEEE 802.3az (Energy Efficient Ethernet)
+
+                                                      IEEE 802.3ad (link Aggregation)
+    Port Standard                                     IEEE 802.1AB LLDP/LLDP-MED (Link Layer Discovery Protocol)
+
+                                                      IEEE 802.1D Spanning Tree Protocol (STP)
+
+                                                      IEEE 802.1w Rapid Spanning Tree Protocol (RSTP)
+
+                                                      IEEE 802.1s Multiple Spanning Tree Protocol (MSTP)
+
+                                                      IEEE 802.1Q (Virtual VLAN)
+
+                                                      IEEE 802.1p (VLAN Label)
+
+                                                      IEEE 802.1X (User uthentification)
+
+    Switching Bandwidth                                880Gbps
+
+
+    Packet Forwarding Rate                             476Mpps
+
+
+    Memory                                             2GB
+
+
+    Flash Memory                                       8GB
+
+
+    Packet Buffer                                      9Mbit
+
+
+    MAC Address Table                                  98K
+
+    Jumbo Frame                                        9216Kbytes
+
+    VLAN                                               4K VLAN
+
+    Transmission Method                               Store and Forward
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 12V12.5A
+
+    Mainboard Power Consumption                        30.67W
+
+                                                       Port Surge: Common mode 4KV, Differential mode 2KV(Class A)
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV(Class C)
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                      www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Product Dimensions: 440*280*44mm
+                                                       Packaging Dimensions: 500*365*85mm
+    Structure Information
+                                                       Product Net Weight: 3.63KG
+                                                       Product Gross Weight: 4.36KG
+                                                       Carton Dimensions: 520*190*385mm
+    Packing Information                                Packing Quantity: 2PCS
+                                                       Packing Weight: 9.72KG
+
+                                                       Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs, Rack-
+    Package Contents
+                                                       mounted kit 1 pair, Network cable 1pcs
+
+
+    Fan Quantity                                       4
+
+
+
+    Installation                                       Desktop, Rack-mounting
+
+
+
+     Certification                                     CE, FCC, ROHS
+
+
+
+    Operating Temperature                              0~45°C
+
+
+
+    Storage Temperature                                -40~70°C
+
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+
+    Storage Humidity                                   0%~95%, non condensing
+
+
+                                                       On: ID indication on
+    ID Green LED                                       Off: ID indication off
+
+
+                                                       Green LED on: 1Gbps Link normal
+                                                       Yellow LED on: 10/100Mbps Link normal
+    ETH
+                                                       Off: Link blocked
+                                                       Flashing: Data transmitting
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+
+                                                       Green LED on: The system is starting up or running normally
+    SYS                                                Yellow LED on: System abnormal alarm or other errors
+                                                       Off: The system is not powered on or running abnormally
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Green LED on: 10Gbps Link normal
+                                                       Yellow LED on: 1Gbps Link normal
+    Ports 1-24
+                                                       Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                       Green LED on: 100Gbps Link normal
+                                                       Yellow LED on: 40G Link normal
+    Ports 25~26
+                                                       Off: Link blocked
+                                                       Flashing: Data transmitting
+
+
+    Breakout                                           Loop flashing: Data transmission
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+    L3 Function
+
+                                                      IPv4 VLAN Interface
+
+                                                      IPv4 Static Routes
+
+                                                      IPv4 Black Hole Routing
+
+                                                      Static routing and IP SLA linkage
+    IPv4
+                                                      uRPF
+
+                                                      ARP
+
+                                                      Gratuitous ARP
+
+                                                      ARP Proxy
+
+                                                      IPv6 VLAN Interface
+
+                                                      IPv6 Static Routes
+
+                                                      IPv6 Black Hole Routing
+    IPv6
+
+                                                      ICMP V6
+
+
+                                                      IPv6 ND
+
+    RIP                                               V2
+
+                                                      Router-ID
+
+
+    OSPF                                              Authentication
+
+
+                                                      V2
+
+                                                      SLB
+
+
+    ECMP                                              DLB
+
+
+                                                      RR
+
+    NAT                                               Support
+
+                                                      V2
+    VRRP
+                                                      Track for VRRP V2
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                           www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+
+    L2 Function
+
+                                                      Port Switch
+
+                                                      Port Description
+
+                                                      Port Speed
+                                                      Port Duplex
+                                                      Port Flow Control
+    Port
+                                                      Support 10G/1G
+
+                                                      Support 40G/100G
+                                                      Jumbo, Up to 9600 bytes
+                                                      Fiber Module(DDM)
+
+                                                      2.5G Electrical Port
+
+                                                      Support load balance policy; Base on MAC and IP-MAC
+
+                                                      SLB
+
+                                                      DLB
+
+    Link Aggregation                                  RR
+
+                                                      Static and Dynamic Group
+
+                                                      Support LACP
+
+                                                      Up to 16 groups
+
+                                                      Boardcast
+
+    Storm Control                                     Unknown Multicast
+
+                                                      Unknown Unicast
+
+                                                      Based on Port
+
+                                                      Based on Flow
+
+                                                      Use CPU as mirror source
+
+                                                      Use CPU as mirror destination
+    Port Mirroring
+                                                      One to one monitor
+
+                                                      Many to one monitor
+
+                                                      Ingress/Egress/Both
+
+                                                      Up to 4 session groups
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                             www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+
+                                                      MAC Address Constraints
+
+    Port Security                                     Port Security MAC Address
+
+                                                      Protect/Restrict/Shutdown
+
+                                                      L2 Traffic Isolation
+    Port Isolation
+                                                      ALL Traffic Isolation
+
+    Loopback Detection                                Boardcast
+
+                                                      Access / Trunk
+
+                                                      Congurable VID from 1 - 4094;Max. 4K static VLAN groups
+
+                                                      MAC VLAN
+
+                                                      Protocol VLAN
+
+                                                      IP VLAN
+    VLAN
+                                                      Private VLAN
+
+                                                      VLAN Statistics
+
+                                                      Basic QinQ VLAN
+
+                                                      Flexible QinQ
+
+                                                      VLAN mapping
+
+                                                      Dynamic Address
+
+                                                      Static Address
+    MAC Address
+                                                      Filtering Address
+
+                                                      MAC drift check
+
+                                                      STP/RSTP/MSTP
+
+                                                      BPDU Filter
+
+                                                      BPDU Guard
+
+    Spnning Tree Protocol                             Root Guard
+
+                                                      Loop Guard
+
+                                                      Edge Port
+
+                                                      Anti TC-BPDU attack
+
+                                                      LLDP
+    LLDP
+                                                      LLDP MED
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                 www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+                                                      IGMP Snnoping
+                                                      IGMP V1/V2/V3
+
+    Multicast                                         Router Port
+
+                                                      Static IGMP group address
+
+                                                      Querier
+
+                                                      Strict Priority and WDRR
+
+                                                      Congestion avoidance: TD(Tail Drop) / WRED
+
+                                                      802.1P Priority
+
+                                                      IP DSCP Priority
+
+                                                      Flow classification by ACL
+
+    QoS                                               Traffic Redirect
+
+                                                      Traffic Mirroring
+
+                                                      Traffic shaping：Queue / Port
+
+                                                      Traffic statistics
+
+                                                      Support up to 8 queues per port
+
+                                                      Priority Remarking
+
+    ERPS                                              Dynamic Address
+
+    G8032                                             STP/RSTP/MSTP
+
+                                                      CDP/CFM/DOT1X/SLOW-PROTO/VTP
+    L2 Protocol Transparent
+                                                      LLDP/STP
+
+    Services
+
+                                                      DHCP Server
+
+                                                      IP Pool
+
+    DHCP                                              Static Binding
+
+                                                      DHCP Relay
+
+                                                      Option 43
+
+                                                      HTTP
+
+                                                      HTTPS
+
+                                                      Telnet
+
+                                                      SSH
+
+    Access Protocol                                   RPC-API
+
+                                                      Manager ACL
+
+                                                      Session Timeout
+
+                                                      Password Retry Count
+
+                                                      Silent Time
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                    www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+    Security
+                                                      Authentication
+
+                                                      Authorization
+
+                                                      Accounting
+
+                                                      RADIUS
+    AAA
+                                                      TACACS+
+
+                                                      802.1X
+
+                                                      Base on port/MAC/local
+
+                                                      Guest VLAN
+
+                                                      Global/VLAN
+
+    DHCP Snooping                                     Option 82
+
+                                                      Circuit ID
+
+    IP Source Guard                                   Support
+
+    Dynamic ARP Inspection                            Support
+
+    Prevent DDOS attack                               Support
+
+    Control Plane Policy (COPP)                       Support
+
+                                                      MAC ACL
+
+                                                      IPv4 ACL
+
+                                                      IPv6 ACL
+
+                                                      Time Range
+    ACL
+                                                      Basic Mode ACL
+
+                                                      Port-group ACL
+
+                                                      Telnet/SSH ACL filtering
+
+                                                      Telnet/SSH IPv6 ACL filtering
+
+    Diagnostics
+
+                                                      Logging Message
+    Syslog
+                                                      Remote Server
+
+    SFLOW                                             Support
+
+    IPSLA                                             Support
+
+    IPFIX                                             Support
+
+    Ping                                              Support
+
+    Traceroute                                        Support
+
+    UDLD                                              Support
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                       www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+    MLAG                                              IGMP Snnoping
+    ETH OAM                                           Hardware level CCM detection
+
+    Managemnet
+
+                                                      Console
+
+                                                      METH
+
+                                                      HTTP/HTTPS
+    Manager Access
+                                                      Telnet
+
+                                                      SSHv2
+
+                                                      SNMP
+
+                                                      Static Address
+
+                                                      DHCP Client
+    Manager IP
+                                                      Support IPv4 and IPv6 address
+
+                                                      DNS
+
+                                                      NTP
+
+    Time Synchronization                              Manual Time
+
+                                                      Time Zone
+
+                                                      V1/V2C/V3
+
+                                                      Community
+
+    SNMP                                              V3 User
+
+                                                      Group
+
+                                                      Trap Host
+
+                                                      RFC 1213 MIB-II
+
+                                                      RFC 1493 Bridge MIB
+
+                                                      RFC 1643 Ethernet MIB
+
+    SNMP MIB                                          RFC 2819 RMON MIB (Groups 1, 2, 3 and 9)
+
+                                                      RFC 2863 Interface MIB
+
+                                                      LLDP
+
+                                                      Private MIB
+
+                                                      Statistics
+
+                                                      History
+    RMON
+                                                      Event
+
+                                                      Alarm
+
+                                                      Account
+    User
+                                                      Level
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                  www.hruitech.com
+Datasheet
+
+
+   Software Features
+      Description                                      Specification
+
+                                                      Double Image; Swap between Active and Alternate firmware image.
+    Firmware
+                                                      Firmware Upgarde
+                                                      Upload and download
+    Configuration
+                                                      Upload and download via USB interface
+
+                                                      File System
+
+                                                      TFTP
+
+    File System                                       FTP
+
+                                                      SCP
+
+                                                      xmodem
+
+    Banner                                            Support
+
+    Save                                              Support
+
+    Restart                                           Support
+
+    Factory Defaults                                  Support
+
+    Standards Compliance                              V1/V2C/V3
+
+    IEEE 802.3x flow control and back pressure
+
+    IEEE 802.3ad port trunk with LACP
+
+    IEEE 802.1D Spanning Tree Protocol
+
+    IEEE 802.1w Rapid Spanning Tree Protocol
+
+    IEEE 802.1s Multiple Spanning Tree Protocol
+
+    IEEE 802.1p Class of Service
+
+    IEEE 802.1Q VLAN tagging
+
+    IEEE 802.1x Port Authentication Network Control
+
+    IEEE 802.1ab LLDP
+
+    RFC 768 UDP
+
+    RFC 793 TFTP
+
+    RFC 791 IP
+
+    RFC 792 ICMP
+
+    RFC 959 FTP
+
+    RFC 2068 HTTP
+
+    RFC 1112 IGMP v1
+
+    RFC 2236 IGMP v2
+
+    RFC 3376 IGMP v3
+
+    RFC 2328 OSPF v2
+
+    RFC 2453 RIP v2
+
+    RFC 4443 ICMPv6
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+Datasheet
+
+
+
+
+ Mounting ear diagram (Standard, support to install on the cabinet)
+ Unit of size: mm
+
+
+                                                          Rack mounting ears
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                www.hruitech.com
+

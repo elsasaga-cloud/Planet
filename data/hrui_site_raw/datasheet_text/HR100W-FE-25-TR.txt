@@ -1,0 +1,160 @@
+10/100M Self-adaptive
+Fiber Media Converter
+
+
+
+
+www.hruitech.com
+
+
+
+Ethernet optical fiber transceiver can efficiently realize the conversion between 10 / 100M Ethernet electrical
+port and fiber port, automatically compatible with half / full duplex mode，It can carry out long-distance data
+and video signal transmission via optical fiber,which is convenient for network upgrading and flow control.
+Adopt international advanced chip and design to ensure the stability and practicability.With ultra-low
+transmission delay and line speed forwarding ability,it can realize flexible Ethernet expansion even in harsh
+environment. Use standard international optical and electronic components to ensure reliable and stable
+operation.This series of products can be configurated with combo port, able to connect with single-mode fiber
+or multi-mode fiber according to the user's situation.Adopts double side ventilated heat dissipation
+design.Support desk and rack installtion.
+
+ Main Features                                                Application Environment
+
+n Built-in high efficiency switching core to                Metro Optical Broadband Network:
+   achieve flow control and reduce broadcast                Data network operators such as telecommunications,
+   packet                                                   cable TV, and network system integration,etc.
+n Automatically adapt to 10/100Mbps network                 Broadband private network:
+   environment, free conversion network upgrade             Suitable for financial, government, oil, railway,
+n Support full-duplex and half-duplex                       electric power, public security, transportation,
+   transmission mode, automatic negotiation                 education and other industries
+n Support 1536-1552 byte packets, monitoring                Multimedia transmission:
+   and transmission more smooth                             Integrated transmission of images, voice and data,
+n Complete power link, working mode indicator               suitable for remote teaching, conference TV,
+   light, working state at a glance                         videophone and other applications
+n low power consumption low heat, long time                 Real-time monitoring:
+   stable work, network security advanced                   Simultaneous transmission of real-time control
+n Support dual-fiber multimode , dual-fiber                 signals, images and data
+   single-mode,single-fiber single-mode,and
+   multiple fiber interface options
+
+http://www.hruitech.com                                 1
+ Specifications
+
+ I/O Interface
+
+ Power                     DC 5V
+
+ Ethernet                  1-Port 10/100M RJ45
+                           1-Port 100M fiber ports
+
+ Performance
+
+ Switching Capacity        0.4Gbps
+
+ Throughput                0.2976Mpps
+
+ Packet Buffer             448K
+
+ MAC Address               1K
+
+ Jumbo Frame               1552bytes
+
+ Transfer Mode             Store and forward
+
+ MTBF                      100000 hour
+
+ Standard
+
+ Network protocol          IEEE802.3 (10Base-T)
+                           IEEE802.3u (100Base-TX/FX)
+                           IEEE802.3x (Flow control)
+
+ Optical Characteristics   multi mode: 850/1310nm （0-2KM）
+                           Single mode: 1310/1550/1490nm（0-120KM）
+
+ Industry Standard         EMI: FCC Part 15 CISPR (EN55032) class A
+                           EMS: EN61000-4-2 (ESD)、EN61000-4-4 (EFT)
+                           Shock: IEC 60068-2-27
+                           Free Fall: IEC 60068-2-32
+                           Vibration: IEC 60068-2-6
+
+ Network Medium            10Base-T: Cat3, 4, 5 or above UTP(≤100m)
+                           100Base-TX: Cat5 or above UTP(≤100m)
+
+ Optical Media             Multimode fiber : 50/125, 62.5/125, 100/140μm
+                           Single mode fiber: 8/125, 8.7/125, 9/125, 10/125μm
+
+ Certification
+
+ Safety Certificate        CE、FCC、RoHS
+
+
+
+
+http://www.hruitech.com                                2
+ Environment
+
+ Working Environment      Working Temperature：-20~50°C
+                          Storage Temperature：-40~70°C
+                          Working Humidity ：10%~90%，non-condensing
+                          Storage Temperature：5%~90%，non-condensing
+                          Working Height：Maximum10,000 feet
+                          Storage heigh：Maximum 10,000 feet
+
+ Mechanical
+
+ Structure Size           Product Size：94*70*26mm
+                          Package Size：245*190*60mm
+                          Product Net-Weight：0.2*2kg
+                          Product Gross-Weight：0.7kg
+
+ Packing Info             MEAS：620*400*510mm
+                          Packing Qty：40 Pair
+                          Packing weight：29.5KG
+
+ Power Voltage            Adapter input voltage : AC 100-240 V
+                          Media Converter input voltage：DC 5V
+
+ Package List             Media Converter 2 pcs, Power Adapter 2 pcs, User manual 1 pcs, Qualification Card 1 pc
+
+
+ Indication
+
+ LED Indicators           PWR（Power indicator）
+                          FDX（Network mode）
+                          FX Link（Optical data）
+                          TX Link（Network data）
+                          FX 100M（Optical Link）
+                          TX 100M（Network Link）
+
+
+
+ Ordering Info
+
+ HR100W-FE-550            100M Fiber Media Converter Dual Fiber Multimode 550m TX/RX 850
+
+
+ HR100W-FE-2              100M Fiber Media Converter Dual Fiber Multimode 2KM TX/RX 1310
+
+
+ HR100W-FE-3-TR           100M Fiber Media Converter Single Fiber Single-mode 3KM TX1310/RX1550
+
+
+ HR100W-FE-25-TR          100M Fiber Media Converter Single Fiber Single-mode 25KM TX1550/RX1310
+
+
+
+
+http://www.hruitech.com                              3
+ Dimension
+
+
+
+
+Application
+
+
+
+
+http://www.hruitech.com   4
+

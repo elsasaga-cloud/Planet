@@ -1,0 +1,155 @@
+Datasheet
+
+
+
+
+         24-Port Gigabit Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n Supports 24 *1G RJ45 ports+2*1G SFP optical ports
+
+  n Supports IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, IEEE802.3z
+
+  n RJ45 port supports 10/100/1G adaptation
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n Adopting a storage and forwarding exchange mechanism
+
+  n All ports support line speed switching
+
+  n 1U rack installation
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Supports 1-8 port QOS priority
+
+  n Supports three modes: VLAN, Default, and Extend
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR-SWG10242S
+
+
+                                                      24 *1G RJ45 ports
+    Interface
+                                                      2 * 1G SFP ports
+
+                                                      IEEE 802.3: Ethernet Media Access Control (MAC) Protocol
+                                                      IEEE 802.3i: 10BASE-T Ethernet
+                                                      IEEE 802.3u: 100BASE-TX Fast Ethernet
+    Port Standard
+                                                      IEEE 802.3ab: 1000BASE-T Gigabit Ethernet
+                                                      IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber optic)
+                                                      IEEE 802.3x: Flow Control
+
+                                                       52 Gbps
+    Bandwidth
+
+
+                                                       38.68Mpps
+    Packet Forwarding Rate
+
+
+                                                       4.1Mbit
+    Packet Buffer
+
+
+                                                       8K
+    MAC Address Table
+
+
+    Transmission Method                               Store and Forward
+
+
+                                                       AC 100-240V , 50/60Hz
+    Power Supply
+                                                       DC 12V 2A
+
+
+    Mainboard Power Consumption                        16W
+
+
+                                                       Product Dimensions :440*204*44mm
+                                                       Packaging Dimensions :500*290*85mm
+    Structure Information
+                                                       Product Net Weight:2.36KG
+                                                       Product Gross Weight:2.93KG
+
+                                                       Carton Dimensions :520*445*310mm
+    Packing Information                                Packing Quantity: 5PCS
+                                                       Packing Weight:15.6KG
+
+
+    Package Contents                                   Switch 1pcs, power cord 1pcs, manual 1pcs,certificate of qualification 1pcs
+
+
+    Fan Quantity                                       0
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                              www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Installation                                       Desktop,rack-mounting
+
+                                                       Surge protection: common mode 4KV (Class B);
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV (Class C)
+
+    Operating Temperature                              0~40°C
+
+
+    Storage Temperature                                -40 °C to 70 °C
+
+
+    Operation Humidity                                 10%~90%,non condensing
+
+
+    Storage Humidity                                   5%~95%,non condensing
+
+                                                       Green LED On: Powered on
+    PWR LED
+                                                       Green LED Off: Powered off
+
+                                                      Green LED On:Link normal
+    ACT LED                                           Green LED Off: Link blocked
+                                                      Flashing: Data transmitting
+
+                                                       Green LED On:1G Link normal
+    1000M LED                                          Green LED Off:10M/100M Link normal
+                                                       Flashing: Data transmitting
+
+                                                      VLAN (port isolation): 1-24 ports are isolated from each other and all communicate
+                                                      with 25-26 ports;
+    VLAN/Default/Extend Modes Buttons
+                                                      Default (default mode): All ports communicate with each other;
+                                                      Extend (monitoring mode): 17-24 ports support 250 meters in 10Mbps mode
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                             www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

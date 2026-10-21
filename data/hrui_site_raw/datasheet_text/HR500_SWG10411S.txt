@@ -1,0 +1,155 @@
+Datasheet
+
+
+
+
+     5-Port Gigabit and 1-Port Gigabit
+      SFP Industrial Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n 4*1Gbps RJ45 ports+1*1Gbps uplink RJ45 port+1*1Gbps SFP port
+
+  n Working Temperature from -40~75°C
+
+  n PoE port automatically turns on the PoE watchdog mode in VLAN and Extend modes
+
+  n 4PIN industrial terminal+DC2.1 input interface, DC12-55V wide voltage input
+
+  n Support VLAN, Genius, and Extend modes
+
+  n Support rail and wall mounting installation
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                              www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                      Specification
+
+    Model                                            HR500-SWG10411S
+
+
+                                                     4*1Gbps RJ45 ports
+
+    Interface                                        1*1Gbps uplink RJ45 port
+                                                     1*1Gbps SFP port
+
+                                                     IEEE802.3 (Ethernet)
+                                                     IEEE802.3u (Fast Ethernet)
+    Port Standard                                    IEEE802.3ab (Gigabit Ethernet)
+                                                     IEEE802.3z (Gigabit Ethernet Fibre Standards)
+                                                     IEEE802.3x (Flow Control)
+
+
+    Switching Bandwidth                               12Gbps
+
+
+
+    Packet Forwarding Rate                            8.928Mpps
+
+
+
+    Packet Buffer                                     1Mbit
+
+
+    MAC Address Table                                 2K
+
+
+    Transmission Method                              Store and Forward
+
+                                                      DC12~55V
+    Power Supply                                      Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)/ DC 2.1(DC 2.1
+                                                      cannot be combined with V1, V2 used simultaneously)
+
+
+    Mainboard Power Consumption                       4.96W
+
+
+                                                      Product Dimensions: 120*87*30mm
+                                                      Packaging Dimensions: 175*130*55mm
+    Structure Information
+                                                      Product Net Weight: 0.441KG
+                                                      Product Gross Weight: 0.530KG (excluding power supply)
+
+                                                      Carton Dimensions: 540*290*375mm
+    Packing Information                               Packing Quantity: 40PCS
+                                                      Packing Weight: 22.2KG
+
+
+    Package Contents                                  Switch 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+
+    Certification                                     CE, FCC, RoHS
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                  www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                     Specification
+
+    Fan Quantity                                      0
+
+
+    Installation                                      Desktop, Wall mounting installation, Rail installation
+
+
+                                                      Port Surge: Common mode 4KV
+    Surge Protection
+                                                      Electrostatic ESD: Air 8KV, Contact 6KV (Class C)
+
+
+
+    Operating Temperature                             -40~75°C
+
+
+
+    Storage Temperature                               -40~85°C
+
+
+    Operation Humidity                                10%~90%, non condensing
+
+
+    Storage Humidity                                  5%~95%, non condensing
+
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+
+                                                      On: 10/100/1000Mbps Link normal
+    Ports 1-6 Green LED                               Off: Link blocked
+                                                      Fast Flashing: Data transmitting
+
+                                                     V: VLAN mode, ports 1-4 are isolated from each other, communicating with ports 5-6
+                                                     G: Normal mode, all ports can communicate with each other, transmission distance
+    V/G/E Modes LED                                  is within 100 meters, transmission rate is 10/100Mbps adaptive
+                                                     E: Extend mode, when the PoE port is in Extend mode, ports 1-4 force 10Mbps to
+                                                     extend the transmission distance to 250meters
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                  www.hruitech.com
+Datasheet
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+

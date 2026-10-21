@@ -1,0 +1,488 @@
+                    ShenZhen HongRui Optical Technology Co,.Ltd
+
+                          10 Ports Gigabit Managed Industrial PoE Switch
+
+                                        (Adopt VTS Industrial Grade Switch Chip)
+
+
+【Product Description】
+10 Port Gigabit Industrial Ethernet PoE Switch, 8 Gigabit PoE Ports + 2 Gigabit SFP Port + 1 Console port, Integrated
+bypass protection function, supporting Din rail and wall mounting. Supports dual power input (DC12-55V); -40 to 75℃
+working temperature; Certified by industrial environment and support FCC, CE, CCC, RoHS standards; Reliable
+industrial design ensures uninterrupted automation system Stable operation.
+
+
+This series of industrial grade switches can be widely used in wind power, electric power, assembly automation, subway
+PIS, electric power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other
+industries. It is a green low-power industrial Ethernet switch.
+
+
+This series of switches provides advanced network management capabilities: redundant ring, loop protection, VLAN,
+QOS, speed control, port mirroring, and firmware online upgrades. With standardized industrial design, it can meet the
+stringent requirements of industrial sites. All components use industrial grade for greater reliability, providing redundant,
+wide-voltage power inputs and outputs for uninterrupted industrial safety communications.
+
+
+【Features】
+
+1.    8 Gigabit PoE Ports + 2 Gigabit SFP Port + 1 Console port
+
+2.    Support：IEEE802.3、IEEE802.3u，IEEE802.3x，IEEE802.3z / ab，IEEE802.1Q，IEEE802.1p，IEEE802.1d/w
+
+3.    PoE Power Management, PoE Watchdog based on data stream detection.
+
+4.    Support bypass protection function
+
+5.    Support IEEE802.3af（15.4w）和 IEEE802.3at（30W）.
+
+6.                                    ，MSTP（802.1s），ERPS.
+      Support STP（802.1D）, RSTP（802.1w）
+
+7.    Support SNMP v1/v2/v3.
+
+8.    Support IGMP Snooping , Static multicast filtering and MLD Snooping.
+
+9.    Support 802.1x port and AAA Certification，Enhance network security.
+
+10. Support WEB, Telnet，CLI,SSH management.
+
+11.   IP40 protection, rugged high-strength metal case，DIN35 Rail mounting
+
+12. EMC grade 4 design，-40 to 75℃ working temperature.
+
+13. Support Redundant power supply access, support anti-reverse connection.
+
+14. Surge Protection: General 6KV, Differential 4KV; ESD 15KV(Air), 8KV (Contact)
+
+15. Support EMC EN55032 standard.
+
+
+
+
+                                                        1
+                   ShenZhen HongRui Optical Technology Co,.Ltd
+
+【Application Environment】
+   Metropolitan area fiber broadband network: telecommunications, cable TV, network system integration, etc.,
+    network operators.
+   Broadband private network: Suitable for financial, government, oil, railway, electric power, public security,
+    transportation, education and other industries.
+   Multimedia transmission: image, voice, data integrated transmission, suitable for remote teaching, conference TV,
+    videophone and other applications.
+   Real-time monitoring: simultaneous transmission of real-time control signals, images, data
+   Resistant to harsh environment: Suitable for strong electromagnetic interference, networking in harsh environments
+    at long distances.
+
+
+
+
+【Technical parameters】
+
+
+ Product Name                  10 Ports Gigabit Managed Industrial PoE Switch
+ Product Model                 HR600-AFGM-82S-BP
+
+ Port Definition               8 Gigabit PoE Ports + 2 Gigabit SFP Port + 1 Console port
+
+                               IEEE802.3
+                               IEEE802.3u
+                               IEEE802.3z
+ Network Protocols             IEEE802.3ab
+                               IEEE802.3x
+                               IEEE802.1d
+                               IEEE802.1w
+                               POE Standard: IEEE 802.3af / IEEE 802.3at
+                               Single PoE Port Power Output:
+                               Max: 15.4 W (IEEE 802.3af)
+                               Max: 30 W (IEEE 802.3at)
+ POE Parameters
+                               PoE Compatibility: IEEE 802.3af / at adaptive
+
+                               POE Power Output: DC 48-55V
+                               POE Power Pin: 1/2- ;      3/6+
+                               10BASE-T: Cat3,4,5 UTP(≤100 M)
+ Network Media                 100BASE-TX: Cat5 or above UTP(≤100 M)
+                               1000BASE-TX: Cat5 or above UTP(≤100 M)
+                               P1: Optical Fiber in or out Port (P3 and P4 are corresponding outlets, recommended to
+                               connect A )
+                               P3: Optical Fiber in or out Port (P1 and P2 as corresponding outlets, recommended to
+ Bypass
+                               connect B )
+                               P2: SFP Module Fiber Port (P3 as corresponding outlets, recommended to connect A )
+                               P4: SFP Module Fiber Port (P1 as corresponding outlets, recommended to connect B )
+                               Multi-mode：850nm，1310nm           Transmission Distance: 550m/2Km
+ Fiber Media
+                               Single-mod：1310nm，1550nm          Transmission Distance: 20/40/60/80/100/120Km
+
+
+                                                      2
+                 ShenZhen HongRui Optical Technology Co,.Ltd
+                                         Lighting：Powered
+                         PWR
+                                         Un-Light：No Power
+                                         Lighting：System is operating normally
+                         SYS
+                                         Un-Light：System is not running
+                                         Lighting：PoE Powered
+                         Yellow light    Un-Light：No PoE Powered
+LED Indicator                            Flashing：Port and device mismatch
+                                         Slow Flashing：10/100/1000 Link normally
+                         Green light     Un-Light：Link disconnect
+                                         Flashing：Link data transmission
+                                         Lighting：Fiber Connection is Normal
+                         G9-G10          Un-Light：Disconnect
+                                         Flashing：Link data transmission
+                         Input Voltage: DC12～55V
+Power Supply
+                         Type of input: 4 PIN Industrial Terminal（block V1+V1- V2+ V2-）
+                         Protect grade： IP40
+                         Installation：DIN Rail
+                         Product weight： 0.8 KG Package weight: 1.1 KG（Without power）
+Physical structure       Product Dimensions (L×W×H): 165mm×130mm×65mm
+                         Package Dimensions (L×W×H): 242mm×207mm×86mm
+                         Standard packing (L×W×H): 445mm×445mm×510mm
+                         Standard packing quantity : 28(PCS)
+                         Operating temperature: -40～75℃
+Working Environment      Storage temperature: -40～85℃
+                         Humidity: 5%~95 % ( No condensation)
+                         EMI: FCC Part 15, CISPR (EN55032) class A
+                         EMS: EN61000-4-2 (ESD)
+Industry Standard
+                         EN61000-4-4 (EFT)
+                         EN61000-4-5 (Surge)
+
+Certification            CE , FCC , ROHS
+
+MTBF                     100,000 hours
+                         1.    Industrial grade switch: 1 Set
+                         2.    Instruction manual: 1 PCS
+Packing list
+                         3.    Certificate, warranty card: 1 PCS
+                         4.    Serial cable：1PCS
+Warranty                 5 years
+Hardware Parameters
+Bandwidth                20Gbps
+Packet Forwarding Rate   14.88Mpps
+RAM                      128MB
+Flash                    16MB
+Packet Buffer Memory     4M
+
+
+                                                 3
+                  ShenZhen HongRui Optical Technology Co,.Ltd
+Jumbo frame                   9.6Kbytes
+VLANs                         4096
+MAC                           8K
+Forwarding Mode               Store-And-Forward
+
+
+
+
+Menu Items        Submenus                        Secondary Submenus     Triple Submenus
+
+                  System Information
+
+                  IP Status
+
+                  Syslog
+
+                  Detailed Syslog
+
+                  MAC Table
+
+                                                  Membership
+                  VLANs
+                                                  Ports
+
+                                                  Traffic Overview
+                  Ports
+                                                  Detailed Statistics
+
+                                                  System Status
+
+                  LACP                            Port Status
+
+                                                  Port Statistics
+
+                  Green Ethernet
+
+                                                  Neighbors
+Information   &
+                  LLDP
+Status                                            Port Statistics
+
+                  Loop Protection
+
+                                                  Bridge Status
+
+                  Spanning Tree                   Port Status
+
+                                                  Port Statistics
+
+                                                  Status
+
+                  IGMP Snooping                   Groups Information
+
+                                                  IPv4 SFM Information
+
+                                                  Status
+
+                  MLD Snooping                    Groups Information
+
+                                                  IPv6 SFM Information
+
+                                                                         Statistics
+
+                  DHCP                            Server                 Binding
+
+                                                                         Declined IP
+
+                                                    4
+                 ShenZhen HongRui Optical Technology Co,.Ltd
+Menu Items       Submenus         Secondary Submenus             Triple Submenus
+
+                                  Snooping Table
+
+                                  Relay Statistics
+
+                                  Detailed Statistics
+
+                                                                 Switch
+                                  Port Security
+                                                                 Port
+
+                                  Access Management Statistics
+
+                                                                 Switch
+                 Security         802.1X
+                                                                 Port
+
+                                  ACL Status
+
+                                                                 RADIUS Overview
+                                  AAA
+                                                                 RADIUS Details
+
+                                  QoS Statistics
+                 QoS
+                                  QCL Status
+
+                 IP Config
+
+                 IP Status
+
+                                  Mode
+
+                 DHCPServer       Excluded IP
+
+                                  Pool
+
+                 NTP
+
+                 Timezone
+
+Network Admin                     System
+
+                                  Trap
+
+                                  Communities
+
+                 SNMP             Users
+
+                                  Groups
+
+                                  Views
+
+                                  Access
+
+                 Syslog
+
+                 Ports
+
+                                  Static
+                 Aggregation
+Port Configure                    LACP
+
+                 Mirroring
+
+                 Green Ethernet
+
+                                    5
+             ShenZhen HongRui Optical Technology Co,.Ltd
+Menu Items   Submenus              Secondary Submenus       Triple Submenus
+
+                                   DDM Configuration
+
+             DDM                   DDM Overview
+
+                                   DDM Detailed
+
+             PoE Setting
+PoE
+             PoE Status
+
+             MAC Table
+
+             VLANs
+
+                                   Global config
+             GVRP
+                                   Port config
+
+                                   Port Group
+             Port Isolation
+                                   Port Isolation
+
+             Loop Protection
+
+                                   Bridge Setting
+
+                                   MSTI Mapping
+
+             Spanning Tree         MSTI Priorities
+
+                                   CIST Ports
+Advanced
+                                   MSTI Ports
+Configure
+                                   Profile Table
+             IPMC Profile
+                                   Address Entry
+
+             MEP
+
+             ERPS
+
+                                   Basic Configuration
+
+             IGMP Snooping         VLAN Configuration
+
+                                   Port Filtering Profile
+
+                                   Basic Configuration
+
+             IPV6 MLD Snooping     VLAN Configuration
+
+                                   Port Filtering Profile
+
+             LLDP
+
+             Users
+
+Security     Privilege Levels
+
+Configure    SSH
+
+             Port Security Limit
+
+
+                                     6
+                ShenZhen HongRui Optical Technology Co,.Ltd
+Menu Items      Submenus              Secondary Submenus    Triple Submenus
+
+                Access Management
+
+                802.1X
+
+                                      Ports
+
+                ACL                   Rate Limiters
+
+                                      Access Control List
+
+                                      Snooping Setting
+
+                                      Snooping Table
+
+                DHCP                  Relay
+
+                                      Relay Statistics
+
+                                      Detailed Statistics
+
+                                      Configuration
+
+                IP&MAC Source Guard   Static Table
+
+                                      Dynamic Table
+
+                                      Port Configuration
+
+                                      VLAN Configuration
+                ARP Inspection
+                                      Static Table
+
+                                      Dynamic Table
+
+                                      RADIUS
+                AAA
+                                      TACACS+
+
+                Port Classification
+
+                Port Policing
+
+                Queue Policing
+
+                Port Scheduler
+
+                Port Shaping
+
+                Port Tag Remarking
+QoS Configure
+                Port DSCP
+
+                DSCP-Based QoS
+
+                DSCP Translation
+
+                DSCP Classification
+
+                QoS Control List
+
+                Storm Policing
+
+Diagnostics     Ping
+
+
+                                        7
+                  ShenZhen HongRui Optical Technology Co,.Ltd
+ Menu Items       Submenus                    Secondary Submenus                  Triple Submenus
+
+                  Cable Diagnostics
+
+                  CPU Load
+
+                  Restart Device
+
+                  Factory Defaults
+
+                  Firmware Upgrade
+
+
+
+ Maintenance      Firmware Select
+
+                                              Download
+
+                                              Upload
+                  Configuration
+                                              Activate
+
+                                              Delete
+
+
+
+
+【Ordering Information】
+Equipment model                                                 Description
+HR600-AFGM-82S-BP            Layer 2 Management, 8 Gigabit PoE Ports + 2 Gigabit SFP Port + 1 Console port
+
+
+【Product Picture】
+
+
+
+
+                                                 8
+

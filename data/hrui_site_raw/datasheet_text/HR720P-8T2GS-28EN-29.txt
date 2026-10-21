@@ -1,0 +1,175 @@
+Datasheet
+
+
+
+
+           10-Port Gigabit Industrial PoE
+                      Switch
+
+
+
+
+  Product Highlights
+
+  n 8*1Gbps PoE ports+2*1Gbps SFP ports
+
+  n Support IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3z/ab
+
+  n Support IEEE802.3af (15.4W) and IEEE802.3at (30W)
+
+  n IP40 protection level, high-strength aluminum shell, DIN35 rail installation
+
+  n Industrial grade 4-level design, operating temperature from -40~75°C
+
+  n Support redundant power supply connection and anti reverse connection
+
+  n Port 1 supports HiPoE 60W
+
+  n Port Surge: Common mode 6KV, Differential mode 2KV (Class B)
+
+  n Electrostatic ESD: Air 15KV, Contact 8KV (Class C)
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+
+    Model                                            HR720P-8T2GS
+
+
+
+                                                     8*1Gbps PoE ports
+    Interface
+                                                     2*1Gbps SFP ports
+
+
+
+
+                                                     IEEE802.3 (Ethernet)
+
+                                                     IEEE802.3u (Fast Ethernet)
+
+    Port Standard                                    IEEE 802.3ab (Gigabit Ethernet)
+
+                                                     IEEE 802.3z (Gigabit Ethernet Fiber Standard)
+
+                                                     IEEE802.3x (Flow Control)
+
+
+
+
+    Switching Bandwidth                               20Gbps
+
+
+    Packet Forwarding Rate                            14.88Mpps
+
+
+    Packet Buffer                                     4Mbit
+
+
+    MAC Address Table                                 8K
+
+
+    Jumbo Frame                                       10Kbytes
+
+    VLAN                                             VLAN range 1-4094, maximum active VLAN is 4K
+
+
+    Transmission Method                              Store and Forward
+
+                                                     IEEE802.3af (15.4W)
+    PoE Standard
+                                                     IEEE802.3at (30W)
+
+    PoE Port Output Voltage                          DC 48-55V
+
+                                                     Ports 2-8 PoE power output <30W
+    PoE Ports                                        Port 1 supports HiPoE 60W
+
+    PoE Power Budget                                 200W@60°C;120W@75°C
+
+                                                      DC12~55V
+    Power Supply                                      DC48~55V (PoE)
+                                                      Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)+DC2.1
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                 www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+    Mainboard Power Consumption                       7.12W
+
+                                                      Product Dimensions: 138*108*51mm
+                                                      Packaging Dimensions: 245*190*70mm
+    Structure Information
+                                                      Product Net Weight: 0.71KG
+                                                      Product Gross Weight: 0.92KG
+
+                                                      Carton Dimensions: 520*380*400mm
+    Packing Information                               Packing Quantity: 20PCS
+                                                      Packing Weight: 19.4KG
+
+    Package Contents                                  Switch 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+    Fan Quantity                                      0
+
+    Certification                                     CE, FCC, RoHS
+
+    Installation                                      Desktop, Wall mounting installation, Rail installation
+                                                      Port Surge: Common mode 6KV, Differential mode 2KV (Class B)
+    Surge Protection
+                                                      Electrostatic ESD: Air 15KV, Contact 8KV (Class C)
+    Operating Temperature                             -40~75°C
+
+    Storage Temperature                               -40~85°C
+
+    Operation Humidity                                10%~90%, non condensing
+
+    Storage Humidity                                  5%~95%, non condensing
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+                                                      On: 10/100/1000Mbps Link normal
+    Ports 1-8 Green LED                               Off: Link blocked
+                                                      Fast Flashing: Data transmitting
+
+                                                     On: PoE powered on
+    PoE Yellow LED
+                                                     Off: PoE powered off
+
+                                                     On: 1Gbps Link normal
+    Ports G9-G10 Green LED                           Off: Link blocked
+                                                     Flashing: Data transmitting
+
+    LED Mode Button                                  Dual color LED selection: default green (link data), switch yellow LED(PoE)
+
+                                                     Fast Ring: Fast Ring on, T<2s
+    Button                                           Extend：Extend mode, ports 7-8 force 10Mbps to extend the transmission distance
+                                                     to 250meters, and automatically activate the PoE watchdog mode
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                    www.hruitech.com
+Datasheet
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+

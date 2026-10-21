@@ -162,3 +162,39 @@
 [04:09:40] images 900/920 125 MB elapsed 27.1 min
 [04:10:33] images total 128.7 MB → committed to git: True (+919 copied into data/hrui_site_raw/images)
 [04:10:33] images stop: complete; ok 919/920 (+920 this run), 128.7 MB this run
+===== run 12 =====
+[04:34:52] checkout already at branch tip c1a11e9
+[04:34:52] run 12 start; resume=True; budget 55.0 min; max_pages 1500; delay 0.8s
+[04:34:53] probe archiver https://www.hruitech.com/ → 200
+[04:34:53] access mode = requests (archiver) base https://www.hruitech.com/
+[04:34:53] resume: pages_done=528 queue=0 (retry 0) downloads=83 images=920
+[04:35:14] hrui api: 25 calls, 182 products listed, 126 new product pages queued
+[04:35:36] pages 553 (+25 this run) queue 101 downloads 108 images 1149 elapsed 0.7 min
+[04:35:58] pages 578 (+50 this run) queue 76 downloads 133 images 1400 elapsed 1.1 min
+[04:36:20] pages 603 (+75 this run) queue 51 downloads 158 images 1590 elapsed 1.5 min
+[04:36:42] pages 628 (+100 this run) queue 26 downloads 183 images 1764 elapsed 1.8 min
+[04:37:03] pages 653 (+125 this run) queue 1 downloads 208 images 1965 elapsed 2.2 min
+[04:37:03] BFS stop: complete (queue empty); pages=654 (+126) downloads=209 images=1976
+[04:37:05] cdn images harvested from archived html: +0 (images total 1976)
+[04:37:05] DL FAIL https://www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf: /www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf: HTTP 404 text/html 1231B
+[04:37:22] downloads 20/126 elapsed 2.5 min
+[04:37:40] downloads 40/126 elapsed 2.8 min
+[04:37:57] downloads 60/126 elapsed 3.1 min
+[04:38:15] downloads 80/126 elapsed 3.4 min
+[04:38:32] downloads 100/126 elapsed 3.7 min
+[04:38:50] downloads 120/126 elapsed 4.0 min
+[04:38:55] downloads stop: complete; ok 208/209 (+126 this run), 189.1 MB
+[04:38:59] pdftotext: 207
+[04:38:59] downloads total 189.1 MB → committed to git: 208/208 files (189.1 MB; all=True)
+[04:39:54] images 100/1057 17 MB elapsed 5.0 min
+[04:40:50] images 200/1057 25 MB elapsed 6.0 min
+[04:41:46] images 300/1057 43 MB elapsed 6.9 min
+[04:42:41] images 400/1057 54 MB elapsed 7.8 min
+[04:44:23] images 500/1057 71 MB elapsed 9.5 min
+[04:45:26] images 600/1057 84 MB elapsed 10.6 min
+[04:46:52] images 700/1057 89 MB elapsed 12.0 min
+[04:47:52] images 800/1057 90 MB elapsed 13.0 min
+[04:48:58] images 900/1057 91 MB elapsed 14.1 min
+[04:50:06] images 1000/1057 93 MB elapsed 15.2 min
+[04:51:10] images total 227.0 MB → committed to git: True (+1056 copied into data/hrui_site_raw/images)
+[04:51:10] images stop: complete; ok 1975/1976 (+1057 this run), 98.3 MB this run

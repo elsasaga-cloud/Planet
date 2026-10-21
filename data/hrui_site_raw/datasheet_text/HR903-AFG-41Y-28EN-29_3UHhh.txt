@@ -1,0 +1,158 @@
+Datasheet
+
+
+
+
+                    5-Port Gigabit PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 4*1Gbps PoE ports+1*1Gbps uplink RJ45 port
+
+  n Comply with IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standards
+
+  n Ethernet Ports support 10/100/1000Mbps self-adaptive
+
+  n PoE ports automatically enable PoE watchdog mode in VLAN and Extend modes
+
+  n Flow control method: Full duplex uses IEEE 802.3x standard, while half duplex uses Back
+
+    pressure standard
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n Support PoE priority, in order from port 1 to port 4, default enabled
+
+  n Adopt a storage and forwarding exchange mechanism
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Support VLAN, Default, and Extend modes
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+    Description                                       Specification
+    Model                                            HR903-AFG-41Y
+
+
+                                                     4*1Gbps PoE ports
+    Interface
+                                                     1*1Gbps uplink RJ45 port
+
+
+                                                     IEEE802.3 (Ethernet)
+    Port Standard                                    IEEE802.3u (Fast Ethernet)
+                                                     IEEE802.3x (Flow Control)
+
+
+
+    Switching Bandwidth                               10Gbps
+
+
+    Packet Forwarding Rate                            7.44Mpps
+
+
+    Packet Buffer                                     3Mbit
+
+
+    MAC Address Table                                 2K
+
+    Transmission Method                              Store and Forward
+
+                                                     IEEE802.3af (15.4W)
+    PoE Standard                                     IEEE802.3at (30W)
+
+    POE Port Output Voltage                          DC 44-57V
+
+    PoE Ports                                        Ports 1-4 PoE power output <30W
+
+    PoE Power Budget                                 50W
+
+                                                     AC 100-110V 35.2W
+                                                     AC 110-200V 44W
+    Power Supply
+                                                     AC 200-240V 55W
+                                                     DC 52V 1.05A
+    Mainboard Power Consumption                       2.1W
+                                                      Product Dimensions: 160*90*35mm
+                                                      Packaging Dimensions: 203*130*45mm
+    Structure Information
+                                                      Product Net Weight: 0.401KG
+                                                      Product Gross Weight: 0.47KG
+
+                                                      Carton Dimensions: 470*426*280mm
+    Packing Information                               Packing Quantity: 40PCS
+                                                      Packing Weight: 19.8KG
+
+    Package Contents                                  Switch 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+    Fan Quantity                                      0
+
+    Installation                                      Desktop
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                  www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Port Surge: Common mode 4KV, Differential mode 2KV(Class C)
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV(Class C)
+
+
+    Operating Temperature                              0~40°C
+
+
+
+    Storage Temperature                                -40~70°C
+
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                       On: Link normal
+    Ports 1-5 Green LED                                Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                      VLAN: VLAN mode, ports 1-4 are isolated from each other, communicating with port
+                                                      5, and automatically activate the PoE watchdog mode
+                                                      Default: Normal mode, all ports can communicate with each other, transmission
+                                                      distance is within 100 meters, transmission rate is 10/100/1000Mbps adaptive(PoE
+    VLAN/Default/Extend Modes Buttons
+                                                      Watchdog off)
+                                                      Extend: Extend mode, when the PoE port is in Extend mode, ports 3-4 force 10Mbps
+                                                      to extend the transmission distance to 250meters, and automatically activate the
+                                                      PoE watchdog mode
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                             www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

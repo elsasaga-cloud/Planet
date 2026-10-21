@@ -1,5 +1,5 @@
 {
-  "crawled_at": "2026-10-21T04:10:33Z",
+  "crawled_at": "2026-10-21T04:51:11Z",
   "host": "www.hruitech.com",
   "complete": false,
   "blocked": false,
@@ -10,18 +10,18 @@
   },
   "refused": {
     "pages": 0,
-    "downloads": 0,
-    "images": 1
+    "downloads": 1,
+    "images": 0
   },
   "refused_sample": {
     "pages": [],
-    "downloads": [],
-    "images": [
-      "https://www.hruitech.com/web/userfiles/banner/"
-    ]
+    "downloads": [
+      "https://www.hruitech.com/web/userfiles/productfile/Datasheet HR900-AF-42N.pdf"
+    ],
+    "images": []
   },
-  "pages_total": 528,
-  "pages_ok": 411,
+  "pages_total": 654,
+  "pages_ok": 537,
   "pages_failed": [
     "https://www.hruitech.com/qualifications/6.html",
     "https://www.hruitech.com/qualifications/5.html",
@@ -143,30 +143,30 @@
   ],
   "pages_stop": "complete (queue empty)",
   "queue_left": 0,
-  "downloads_total": 83,
-  "downloads_ok": 83,
+  "downloads_total": 209,
+  "downloads_ok": 208,
   "downloads_left": 0,
   "downloads_stop": "complete",
-  "downloads_bytes": 126940483,
+  "downloads_bytes": 189128519,
   "pdfs_committed": true,
-  "pdf_text_files": 82,
-  "images_bytes": 128721653,
+  "pdf_text_files": 207,
+  "images_bytes": 227030630,
   "images_committed": true,
-  "images_total": 920,
-  "images_ok": 919,
+  "images_total": 1976,
+  "images_ok": 1975,
   "images_left": 0,
   "images_stop": "complete",
-  "images_bytes_this_run": 128721653,
+  "images_bytes_this_run": 98308977,
   "external_hosts": {
-    "at.alicdn.com": 410,
+    "at.alicdn.com": 536,
     "www.discoverisc.com": 2,
-    "www.facebook.com": 410,
-    "www.hrgdkj.com": 410,
-    "www.instagram.com": 410,
-    "www.linkedin.com": 410,
-    "www.pinterest.com": 410,
-    "www.youtube.com": 410,
-    "x.com": 410
+    "www.facebook.com": 536,
+    "www.hrgdkj.com": 536,
+    "www.instagram.com": 536,
+    "www.linkedin.com": 536,
+    "www.pinterest.com": 536,
+    "www.youtube.com": 536,
+    "x.com": 536
   },
   "runs": [
     {
@@ -184,9 +184,25 @@
       "pages_stop": "complete (queue empty)",
       "downloads_stop": "complete",
       "images_stop": "complete"
+    },
+    {
+      "run": "12",
+      "started": "2026-10-21T04:34:52Z",
+      "resumed": true,
+      "budget_min": 55.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-21T04:51:11Z",
+      "elapsed_s": 979,
+      "pages_new": 126,
+      "downloads_new": 126,
+      "images_new": 1057,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
     }
   ],
-  "elapsed_s": 1679,
+  "elapsed_s": 979,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
   "time_budget_min": 55.0,

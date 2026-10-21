@@ -1,0 +1,156 @@
+Datasheet
+
+
+
+
+    5-Port 100Mbps Industrial Switch
+
+
+
+
+  Product Highlights
+
+  n 4*100Mbps ports+1*100Mbps uplink RJ45 port
+
+  n Comply with IEEE 802.3 IEEE 802.3u and IEEE 802.3x standards
+
+  n Ethernet Ports support 10/100Mbps self-adaptive
+
+  n Industrial grade protection design, operating temperature from -40~75°C
+
+  n High strength cast iron casing, DIN35 rail installation
+
+  n Support redundant power supply connection and anti reverse connection
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                       www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                      Specification
+
+    Model                                            HR500-SW1050
+
+
+
+    Interface                                        5*100Mbps RJ45 ports
+
+
+
+                                                     IEEE802.3 (Ethernet)
+    Port Standard                                    IEEE802.3u (Fast Ethernet)
+                                                     IEEE802.3x (Flow Control)
+
+
+
+    Switching Bandwidth                               1Gbps
+
+
+
+    Packet Forwarding Rate                            0.744Mpps
+
+
+
+    Packet Buffer                                     448Kbit
+
+
+
+    MAC Address Table                                 1K
+
+
+    Transmission Method                              Store and Forward
+
+
+                                                      DC12~55V
+    Power Supply
+                                                      Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)
+
+
+    Mainboard Power Consumption                       1.45W
+
+
+                                                      Product Dimensions: 100*76.5*30mm
+                                                      Packaging Dimensions: 175*130*55mm
+    Structure Information
+                                                      Product Net Weight: 0.27KG
+                                                      Product Gross Weight: 0.36KG
+
+                                                      Carton Dimensions: 540*290*375mm
+    Packing Information                               Packing Quantity: 40PCS
+                                                      Packing Weight: 15.4KG
+
+
+    Package Contents                                  Switch 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+
+    Certification                                     CE, FCC, RoHS
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                     Specification
+
+    Fan Quantity                                      0
+
+
+    Installation                                      Desktop, Wall mounting installation, Rail installation
+
+
+                                                      Port Surge Protection: Common mode 4KV, differential mode 2KV
+    Surge Protection
+                                                      Electrostatic ESD: Air 8KV, Contact 6KV (Class B)
+
+
+
+    Operating Temperature                             -40~75°C
+
+
+
+    Storage Temperature                               -40~85°C
+
+
+    Operation Humidity                                10%~90%, non condensing
+
+
+    Storage Humidity                                  5%~95%, non condensing
+
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+
+                                                      On: 10/100Mbps Link normal
+    Ports 1-5 Green LED                               Off: Link blocked
+                                                      Fast Flashing: Data transmitting
+
+
+                                                     Default: Normal mode, all ports can communicate with each other, transmission
+                                                     distance is within 100 meters, transmission rate is 10/100Mbps adaptive
+    Default/Extend Modes Buttons
+                                                     Extend: Extend mode, when the PoE port is in Extend mode, ports 1-4 force 10Mbps
+                                                     to extend the transmission distance to 250meters
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                   www.hruitech.com
+Datasheet
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+

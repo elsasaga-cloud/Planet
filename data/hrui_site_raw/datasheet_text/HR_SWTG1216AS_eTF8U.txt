@@ -1,0 +1,142 @@
+Datasheet
+
+
+
+
+             16-Port 2.5G and 2-Port 10G
+                SFP+ Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n 16 *100M/1000M/2.5G RJ45 ports+2* 10G SFP+ port
+
+  n Complies with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3z,IEEE
+
+    802.3ae, and IEEE 802.3x standards
+
+  n RJ45 port supports 100M/1G/2.5G adaptive
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Model                                             HR-SWTG1216AS
+
+                                                      16 * 2.5G RJ45 port
+    Interface                                         2 * 10G SFP+ port
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3ab (Gigabit Ethernet)
+    Port Standard                                     IEEE802.3z (Gigabit Ethernet Fiber Standard)
+                                                      IEEE802.3bz (2.5G Ethernet)
+                                                      IEEE 802.3ae (10G Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+    Bandwidth                                          120Gbps
+
+    Packet Forwarding Rate                             89.28Mpps
+
+    Packet Buffer                                      12Mbit
+
+    MAC Address Table                                  16K
+
+    Transmission Method                               Store and Forward
+
+                                                       AC 100-240V , 50/60Hz
+    Power Supply
+                                                       DC 12V 4A
+    Mainboard Power Consumption                        21.5W
+
+                                                       Product Dimensions :440*205*44mm
+                                                       Packaging Dimensions :500*290*85mm
+    Structure Information
+                                                       Product Net Weight:2.21KG
+                                                       Product Gross Weight:2.72KG
+
+                                                       Carton Dimensions :520*445*310mm
+    Packing Information                                Packing Quantity: 5PCS
+                                                       Packing Weight: 14.6KG
+
+    Package Contents                                   switch 1pcs, Power cord 1pcs, manual 1pcs，certificate of qualification 1pcs
+
+    Fan Quantity                                       1
+
+    Installation                                       Desktop
+                                                       Port Surge: Common mode 6KV, differential mode 2KV (Class C);
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV (Class C)
+    Operating Temperature                              0~40°C
+
+    Storage Temperature                                -40 °C to 70 °C
+
+    Operation Humidity                                 10%~90%,non condensing
+
+    Storage Humidity                                   5%~95%,non condensing
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+                                                       Green LEDOn: Powered on
+    PWR LED
+                                                       Green LED Off: Powered off
+
+                                                      Green LED On：2.5G Link normal
+                                                      Yellow LED On：10M/100M/1G Link normal
+    1-16 LED
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+                                                      Blue LED On：10G Link normal
+                                                      Green LED On：1G/2.5G Link normal
+    17-18 SFP+ LED
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+
+
+                                                      The default speed of the optical port is 10G/2.5G, and after long pressing for 10
+    SM
+                                                      seconds to switch, it becomes 10G/1G
+
+
+
+                                                      ON: VLAN mode is enabled (ports 1-14 are isolated and communicate with the uplink
+    VLAN                                              port)
+                                                      OFF: VLAN mode turned off (all ports communicate with each other)
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                               www.hruitech.com
+Datasheet
+
+
+Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+
