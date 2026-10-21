@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/16-100-1000M-SFP-8-1G-SFP-RJ45-Combo-4-1G-2-5G-10G-SFP-Layer-3-Managed-Ethernet-Switch-PG12130164（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/16-100-1000M-SFP-8-1G-SFP-RJ45-Combo-4-1G-2-5G-10G-SFP-Layer-3-Managed-Ethernet-Switch-PG12130164.html`）
 - 官网品类：Commercial Ethernet / Managed Ethernet Switch
 - 页面描述（meta）：16*100/1000M SFP + 8*1G SFP/RJ45 Combo + 4*1G/2.5G/10G SFP+ Layer 3 Managed Ethernet Switch, LT-S8528XG-4XS16GX8GC, SmartByte
-- 规格书（Download Annex）：16*100/1000M SFP 8*1G SFP/RJ45 Combo 4*1G/2.5G/10G SFP Layer 3 Managed Ethernet Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A100%2F1000M+SFP+++8%2A1G+SFP%2FRJ45+Combo+++4%2A1G%2F2.5G%2F10G+SFP++Layer+3+Managed+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMzE1MTUxODZhM2EzMjg2OTI2MTAucGRm（归档器尚未处理）
+- 规格书（Download Annex）：16*100/1000M SFP 8*1G SFP/RJ45 Combo 4*1G/2.5G/10G SFP Layer 3 Managed Ethernet Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A100%2F1000M+SFP+++8%2A1G+SFP%2FRJ45+Combo+++4%2A1G%2F2.5G%2F10G+SFP++Layer+3+Managed+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyMzE1MTUxODZhM2EzMjg2OTI2MTAucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/16_100_1000M SFP   8_1G SFP_RJ45 Combo   4_1G_2.5G_10G SFP  Layer 3 Managed Ethernet Switch.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/16_100_1000M SFP   8_1G SFP_RJ45 Combo   4_1G_2.5G_10G SFP  Layer 3 Managed Ethernet Switch.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-S8528XG-4XS16GX8GC**（匹配方式：精确）

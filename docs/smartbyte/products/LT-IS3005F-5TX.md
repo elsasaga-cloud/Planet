@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/5-10-100Base-TX-Industrial-Ethernet-Switch-PG12138189（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/5-10-100Base-TX-Industrial-Ethernet-Switch-PG12138189.html`）
 - 官网品类：Industrial Ethernet / Unmanaged Industrial Ethernet Switch
 - 页面描述（meta）：5*10/100Base-TX Industrial Ethernet Switch, LT-IS3005F-5TX , SmartByte
-- 规格书（Download Annex）：5*10/100Base-TX Industrial Ethernet Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=5%2A10%2F100Base-TX+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyODExMzkwMjZhNDA5NzU2NjBiZjcucGRm（归档器尚未处理）
+- 规格书（Download Annex）：5*10/100Base-TX Industrial Ethernet Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=5%2A10%2F100Base-TX+Industrial+Ethernet+Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYyODExMzkwMjZhNDA5NzU2NjBiZjcucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/5_10_100Base-TX Industrial Ethernet Switch.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/5_10_100Base-TX Industrial Ethernet Switch.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 价格主表**未匹配**（未匹配）：该型号不在 2026-09 价格表的 135 个型号里 → 报价前向 SmartByte 询价；档案中只能写 SmartByte 型号并注明。

@@ -324,11 +324,12 @@ def render_md(p, pmatch, dl_by_url):
         for d in p["datasheets"]:
             rec = dl_by_url.get(d["url"])
             if rec and rec.get("file"):
-                loc = f"已归档：`{rec.get('file')}`"
+                if os.path.exists(os.path.join(RAW, "datasheets", rec.get("filename") or "")):
+                    loc = f"已归档 PDF `data/smartbyte_site_raw/datasheets/{rec['filename']}`"
+                else:
+                    loc = f"已归档（二进制在 Actions Release 附件 `{rec.get('file')}`）"
                 if rec.get("text_file"):
                     loc += f"，文本 `data/smartbyte_site_raw/{rec['text_file']}`"
-                elif os.path.exists(os.path.join(RAW, "datasheets", rec.get("filename") or "")):
-                    loc += f"，PDF `data/smartbyte_site_raw/datasheets/{rec['filename']}`"
             elif rec:
                 loc = f"官网下载口拒绝（{rec.get('error') or ('HTTP ' + str(rec.get('status')))}），待归档器重试"
             else:

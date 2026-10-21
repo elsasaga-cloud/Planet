@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/ProductDetail/12137973.html（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/ProductDetail_12137973.html.html`）
 - 官网品类：Industrial Ethernet / Managed Industrial PoE++ Switch
 - 页面描述（meta）：24*10/100/1000Base-T + 4*1G/2.5G/10GBase-X SFP+ L3 Managed Industrial PoE++ Switch with Temp-humidity Sensor, LT-IS6528XGP-4XS24GT-SD-4BT, SmartByte
-- 规格书（Download Annex）：24*10/100/1000Base-T 4*1G/2.5G/10GBase-X SFP L3 Managed Industrial PoE Switch with Temp-humidity Sensor — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=24%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+++Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1NDc1MjZhNjFjNzI4OWY3OTQucGRm（归档器尚未处理）
+- 规格书（Download Annex）：24*10/100/1000Base-T 4*1G/2.5G/10GBase-X SFP L3 Managed Industrial PoE Switch with Temp-humidity Sensor — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=24%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5G%2F10GBase-X+SFP++L3+Managed+Industrial+PoE+++Switch+with+Temp-humidity+Sensor&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE1NDc1MjZhNjFjNzI4OWY3OTQucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/24_10_100_1000Base-T   4_1G_2.5G_10GBase-X SFP  L3 Managed Industrial PoE   Switch with Temp-humidity Sensor.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/24_10_100_1000Base-T   4_1G_2.5G_10GBase-X SFP  L3 Managed Industrial PoE   Switch with Temp-humidity Sensor.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-IS6528XGP-4XS24GT**（匹配方式：去后缀(SD-4BT)）

@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/16-10-100-1000Base-T-4-1G-2-5GBase-X-SFP-L2-Managed-Industrial-PoE-Switch-with-DI-DO-RS485-PG1213708（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/16-10-100-1000Base-T-4-1G-2-5GBase-X-SFP-L2-Managed-Industrial-PoE-Switch-with-DI-DO-RS485-PG1213708.html`）
 - 官网品类：Industrial Ethernet / Managed Industrial PoE++ Switch
 - 页面描述（meta）：16*10/100/1000Base-T + 4*1G/2.5GBase-X SFP L2+ Managed Industrial PoE++ Switch with DI/DO/RS485, LT-IS6320GP-4GX16GT-D-4BT, SmartByte
-- 规格书（Download Annex）：16*10/100/1000Base-T 4*1G/2.5GBase-X SFP L2 Managed Industrial PoE Switch with DI/DO/RS485 — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+PoE+++Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE2MjQ0NzZhNjFjZmNmM2I4YmUucGRm（归档器尚未处理）
+- 规格书（Download Annex）：16*10/100/1000Base-T 4*1G/2.5GBase-X SFP L2 Managed Industrial PoE Switch with DI/DO/RS485 — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=16%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+PoE+++Switch+with+DI%2FDO%2FRS485&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcyMzE2MjQ0NzZhNjFjZmNmM2I4YmUucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/16_10_100_1000Base-T   4_1G_2.5GBase-X SFP L2  Managed Industrial PoE   Switch with DI_DO_RS485.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/16_10_100_1000Base-T   4_1G_2.5GBase-X SFP L2  Managed Industrial PoE   Switch with DI_DO_RS485.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-IS6320GP-4GX16GT-D-4BT**（匹配方式：精确）

@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/Compact-size-10-100-1000M-Industrial-Media-Converter-PG12120959（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/Compact-size-10-100-1000M-Industrial-Media-Converter-PG12120959.html`）
 - 官网品类：Industrial Ethernet / Industrial Media Converter
 - 页面描述（meta）：Compact size 10/100/1000M Industrial Media Converter, LT-IMC30G-E Series, SmartByte
-- 规格书（Download Annex）：Compact size 10/100/1000M Industrial Media Converter — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=Compact+size+10%2F100%2F1000M+Industrial+Media+Converter&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxNzA5MzIwMDZhMzFmOTEwNGMzNWEucGRm（归档器尚未处理）
+- 规格书（Download Annex）：Compact size 10/100/1000M Industrial Media Converter — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=Compact+size+10%2F100%2F1000M+Industrial+Media+Converter&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxNzA5MzIwMDZhMzFmOTEwNGMzNWEucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/Compact size 10_100_1000M Industrial Media Converter.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/Compact size 10_100_1000M Industrial Media Converter.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-IMC30G-E**（匹配方式：精确）

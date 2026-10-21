@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/8-10-100-1000Base-T-4-1G-2-5GBase-X-SFP-L2-Managed-Industrial-Fiber-Bypass-PoE-Switch-PG12125025（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/8-10-100-1000Base-T-4-1G-2-5GBase-X-SFP-L2-Managed-Industrial-Fiber-Bypass-PoE-Switch-PG12125025.html`）
 - 官网品类：Industrial Ethernet / Managed Industrial Fiber Bypass Switch
 - 页面描述（meta）：8*10/100/1000Base-T + 4*1G/2.5GBase-X SFP L2+ Managed Industrial Fiber Bypass PoE++ Switch, LT-IS6312GP-4GX8GT-2BT-2FBP, SmartByte
-- 规格书（Download Annex）：8*10/100/1000Base-T 4*1G/2.5GBase-X SFP L2 Managed Industrial Fiber Bypass PoE Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=8%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+Fiber+Bypass+PoE+++Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxOTEwNDE1MzZhMzRhYzcxZWVlZTQucGRm（归档器尚未处理）
+- 规格书（Download Annex）：8*10/100/1000Base-T 4*1G/2.5GBase-X SFP L2 Managed Industrial Fiber Bypass PoE Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=8%2A10%2F100%2F1000Base-T+++4%2A1G%2F2.5GBase-X+SFP+L2++Managed+Industrial+Fiber+Bypass+PoE+++Switch&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxOTEwNDE1MzZhMzRhYzcxZWVlZTQucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/8_10_100_1000Base-T   4_1G_2.5GBase-X SFP L2  Managed Industrial Fiber Bypass PoE   Switch.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/8_10_100_1000Base-T   4_1G_2.5GBase-X SFP L2  Managed Industrial Fiber Bypass PoE   Switch.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-IS6312GP-4GX8GT-2BT-2FBP**（匹配方式：精确）

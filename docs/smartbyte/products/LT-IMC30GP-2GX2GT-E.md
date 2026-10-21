@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/2-10-100-1000Base-TX-to-2-100-1000Base-X-Compact-Industrial-PoE-Media-Converter-PG12121118（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/2-10-100-1000Base-TX-to-2-100-1000Base-X-Compact-Industrial-PoE-Media-Converter-PG12121118.html`）
 - 官网品类：Industrial Ethernet / Industrial PoE Media Converter
 - 页面描述（meta）：2*10/100/1000Base-TX to 2*100/1000Base-X Compact Industrial PoE Media Converter, LT-IMC30GP-2GX2GT-E, SmartByte
-- 规格书（Download Annex）：2*10/100/1000Base-TX to 2*100/1000Base-X Compact Industrial PoE Media Converter — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=2%2A10%2F100%2F1000Base-TX+to+2%2A100%2F1000Base-X++Compact+Industrial+PoE+Media+Converter&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxNzExNDAzNDZhMzIxNzMyN2M3NjEucGRm（归档器尚未处理）
+- 规格书（Download Annex）：2*10/100/1000Base-TX to 2*100/1000Base-X Compact Industrial PoE Media Converter — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=2%2A10%2F100%2F1000Base-TX+to+2%2A100%2F1000Base-X++Compact+Industrial+PoE+Media+Converter&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxNzExNDAzNDZhMzIxNzMyN2M3NjEucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/2_10_100_1000Base-TX to 2_100_1000Base-X  Compact Industrial PoE Media Converter.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/2_10_100_1000Base-TX to 2_100_1000Base-X  Compact Industrial PoE Media Converter.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-IMC30GP-2GX2GT-E**（匹配方式：精确）

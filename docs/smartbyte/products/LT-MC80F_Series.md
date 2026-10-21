@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/10-100M-Media-Converters-Enhanced-Function-With-Dip-Switch-PG12143544（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/10-100M-Media-Converters-Enhanced-Function-With-Dip-Switch-PG12143544.html`）
 - 官网品类：Commercial Ethernet / Media converter
 - 页面描述（meta）：10/100M Media Converters Enhanced Function With Dip Switch , LT-MC80F Series, SmartByte
-- 规格书（Download Annex）：10/100M Media Converters Enhanced Function With Dip Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100M+Media+Converters+Enhanced+Function+With+Dip+Switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2MjUwMTZhNDRjZWRkMGE3YzgucGRm（官网下载口拒绝（HTTP 403），待归档器重试）
+- 规格书（Download Annex）：10/100M Media Converters Enhanced Function With Dip Switch — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=10%2F100M+Media+Converters+Enhanced+Function+With+Dip+Switch+&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDcwMTE2MjUwMTZhNDRjZWRkMGE3YzgucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/10_100M Media Converters Enhanced Function With Dip Switch.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/10_100M Media Converters Enhanced Function With Dip Switch.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 价格主表**未匹配**（未匹配）：该型号不在 2026-09 价格表的 135 个型号里 → 报价前向 SmartByte 询价；档案中只能写 SmartByte 型号并注明。

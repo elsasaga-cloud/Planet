@@ -3,7 +3,7 @@
 - 官网页面：https://www.smartbyte-switch.com/2-10-100-1000Base-TX-to-1-100-1000Base-X-Compact-Industrial-Media-Converter-PG12121022（抓取 2026-10-20，原始 HTML：`data/smartbyte_site_raw/html/2-10-100-1000Base-TX-to-1-100-1000Base-X-Compact-Industrial-Media-Converter-PG12121022.html`）
 - 官网品类：Industrial Ethernet / Industrial Media Converter
 - 页面描述（meta）：2*10/100/1000Base-TX to 1*100/1000Base-X Compact Industrial Media Converter-副本, LT-IMC30G-1GX2GT-E Series, SmartByte
-- 规格书（Download Annex）：2*10/100/1000Base-TX to 1*100/1000Base-X Compact Industrial Media Converter-副本 — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=2%2A10%2F100%2F1000Base-TX+to+1%2A100%2F1000Base-X++Compact+Industrial+Media+Converter-%E5%89%AF%E6%9C%AC&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxNzEwMjQwNTZhMzIwNTQ1MjM3MmUucGRm（归档器尚未处理）
+- 规格书（Download Annex）：2*10/100/1000Base-TX to 1*100/1000Base-X Compact Industrial Media Converter-副本 — https://www.smartbyte-switch.com/index.php?c=Front%2FDownDetail&a=downloadFujian&name=2%2A10%2F100%2F1000Base-TX+to+1%2A100%2F1000Base-X++Compact+Industrial+Media+Converter-%E5%89%AF%E6%9C%AC&path=L2NvbWRhdGEvNzA5MDEvcHJvZHVjdGZ1amlhbi8yMDI2MDYxNzEwMjQwNTZhMzIwNTQ1MjM3MmUucGRm（已归档 PDF `data/smartbyte_site_raw/datasheets/2_10_100_1000Base-TX to 1_100_1000Base-X  Compact Industrial Media Converter-副本.pdf`，文本 `data/smartbyte_site_raw/datasheet_text/2_10_100_1000Base-TX to 1_100_1000Base-X  Compact Industrial Media Converter-副本.txt`）
 
 ## 价格主表对照（SmartByte 2026-09 价格表，有效期 2026-09-01～12-30；USD 按 6.69 @2026-10-17）
 - 基型号：**LT-IMC30G-1GX2GT-E**（匹配方式：精确）
