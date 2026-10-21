@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（datastream.by，快照 2026-10-21）",
- "summary": "保加利亚安防集成/经销：官网「Сетевое и телекоммуникационное оборудование — Датастрим ДЕП」（ru）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Zyxel、Vivotek；站内型号：RS485、XS1935、NS-EX-1FP、NS-EX-1GP；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "白俄罗斯 Датастрим ДЕП / datastream.by（明斯克网络与电信设备分销：零售与批发，站内 Zyxel / Vivotek、PoE 注入器 INJ-101GT、NS-EX-1GP 延长器；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「доставка по Минску и Беларуси」→ 更正为白俄罗斯）；表内无跟进记录。",
+ "type": "网络与电信设备分销商（白俄罗斯）",
  "size": "",
  "brands_seen": [
   "Zyxel",
@@ -17,6 +17,13 @@
    "quote": "Оборудование для сетей и связи — розница и опт. Профессиональная консультация, широкий ассортимент, доставка по Минску и Беларуси.",
    "url": "https://datastream.by/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "明斯克网络与电信设备分销（零售与批发）",
+   "quote": "Оборудование для сетей и связи — розница и опт. Профессиональная консультация, широкий ассортимент, доставка по Минску и Беларуси.",
+   "url": "https://datastream.by/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -25,32 +32,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "保加利亚",
   "other": "官网 datastream.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络与电信设备分销（零售 + 批发）"
  ],
  "channels": {
-  "role": "安防集成/经销",
-  "region": "保加利亚",
+  "role": "网络与电信设备分销商（白俄罗斯）",
+  "region": "白俄罗斯",
   "contact": "info@datastream.by"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://datastream.by/）",
-  "在售同口型交换品牌：Zyxel → 直接对位替换",
-  "安防品牌：Vivotek → PoE 配套切入",
-  "官网公开邮箱：info@datastream.by、mail@domen.com"
+  "官网：Оборудование для сетей и связи — розница и опт … доставка по Минску и Беларуси",
+  "站内 kw：poe 148 / ethernet 54；品牌 Zyxel / Vivotek"
  ],
- "risks": [],
+ "risks": [
+  "白俄罗斯：结算/物流受限，非主攻区",
+  "无具名 KP（info@）；表内无兴趣记录"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "官网快照对位：PoE 词频 148、监控 0 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：安防集成/经销→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Alongside the Zyxel / Vivotek lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE?",
+ "country_fix": "白俄罗斯"
 }

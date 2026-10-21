@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fibersystem.com，快照 2026-10-21）",
- "summary": "瑞士安防集成/经销：官网「Fibersystem AB, Data Diodes | Fibersystem」（en-US）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、FS25961PA3、DC556、SDIP-27；表内「switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekblad@fibersystem.com」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "瑞典 Fibersystem AB（斯德哥尔摩光纤传输设备、视频、以太网与安全产品开发商：数据二极管、TEMPEST 瘦客户机/HDMI 二极管、光路切换器 1×2/1×4、安全 USB 断开器；表内「switch / 光猫 / MC / FS / 周边产品」「之前联系过」；KP Oscar Lindberg、Anne Ekblad；表内国别「瑞士」有误——官网 Based in Stockholm, Sweden → 更正为瑞典）；表内无跟进记录。",
+ "type": "光纤安全产品开发商（瑞典，自有品牌；MC/FS 外采）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,73 @@
    "quote": "switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekblad@fibersystem.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "斯德哥尔摩光纤传输与安全产品开发商",
+   "quote": "Based in Stockholm, Sweden, Fibersystem AB is an innovative developer of Fiber Optical transmission equipment, video, ethernet and security products.",
+   "url": "https://www.fibersystem.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch / 光猫 MC FS 周边，之前联系过",
+   "quote": "switch / 光猫 MC FS 周边产品；之前联系过",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Oscar Lindberg",
+   "title": "（表内联系人）",
+   "email": "oscar.lindberg@fibersystem.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Anne Ekblad",
+   "title": "（表内联系人）",
+   "email": "anne.ekblad@fibersystem.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞士",
   "other": "官网 fibersystem.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤传输设备 / 视频 / 以太网（自有品牌）",
+  "数据二极管 / TEMPEST 安全产品"
  ],
  "channels": {
-  "role": "安防集成/经销",
-  "region": "瑞士",
+  "role": "光纤安全产品开发商（瑞典，自有品牌；MC/FS 外采）",
+  "region": "瑞典",
   "contact": "info@fibersystem.com、oscar.lindberg@fibersystem.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.fibersystem.com/）",
-  "用户表兴趣/备注：switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekblad@fibersystem.com"
+  "官网：Based in Stockholm, Sweden, Fibersystem AB is an innovative developer of Fiber Optical transmission equipment, video, ethernet and security products",
+  "产品页 /product/fiber-optical-switch-1x4/、/secure-key-switch/；首页 TEMPEST Level A / RÖS U1",
+  "KP：Oscar Lindberg；Anne Ekblad（表内邮箱）"
  ],
- "risks": [],
+ "risks": [
+  "TEMPEST / 数据二极管 = 政府国防安全市场：守界，只报商用光纤传输配套",
+  "站内 fiber optical switch 为光路切换器（非以太网交换机）：需求口径待核",
+  "表内「之前联系过」但无记录：首触需承接而非重复开场"
+ ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰"
  },
- "email_hook": "Oscar, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?",
+ "country_fix": "瑞典"
 }

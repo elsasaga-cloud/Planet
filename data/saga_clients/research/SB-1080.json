@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（montavue.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Montavue - 4K & 2K Security Systems for Home and Business - No Fees」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：MHL-4-101、MNN-P162-16、MAC22MON、MTT8106-SMD；表内「POE switch 自己的logo 就这一款工业级的 摄像头，安防」；群发 13 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。",
+ "type": "美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "POE switch 自己的logo 就这一款工业级的 摄像头，安防",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Montavue 4K/2K 安防系统",
+   "quote": "A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 2-year warranty.",
+   "url": "https://montavue.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE switch 自己的 logo，一款工业级",
+   "quote": "POE switch 自己的logo 就这一款工业级的 摄像头，安防",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,36 +43,34 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 montavue.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "安防摄像系统（自有品牌，DTC）",
+  "配套 PoE 交换机（自有 logo）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）",
   "region": "美国",
   "contact": "admin@montavue.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://montavue.com/）",
-  "官网公开邮箱：sales@montavue.com",
-  "用户表兴趣/备注：POE switch 自己的logo 就这一款工业级的 摄像头，安防"
+  "博客 /blogs/news/should-i-use-a-poe-switch、/adding-cameras-from-a-poe-switch-tutorial-montavue",
+  "官网：A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees",
+  "站内型号 MNN-P162-16 / MTT8106-SMD；kw camera 343 / nvr 174 / poe 101"
  ],
  "risks": [
-  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "DTC 品牌：现有深圳代工价格基准低",
+  "13 次无回复，仅 admin@ 邮箱，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first?"
 }

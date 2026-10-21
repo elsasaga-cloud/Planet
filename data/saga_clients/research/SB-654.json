@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（bright.net.my，快照 2026-10-21）",
- "summary": "马来西亚安防集成/经销：官网「BRIGHT.NET.MY」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内品牌：Cisco、Huawei、Ubiquiti、Aruba；站内型号：RJ-45、WS-C3850-48P-S、WS-C3850-24P-S、WS-C3850-48T-S；表内「光模块 / from: 阿里巴巴即时对话」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。",
+ "type": "系统集成商（马来西亚，企业级品牌为主）",
  "size": "",
  "brands_seen": [
   "Cisco",
@@ -26,46 +26,63 @@
    "quote": "光模块 / from: 阿里巴巴即时对话",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "一站式系统集成方案",
+   "quote": "One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support",
+   "url": "https://bright.net.my/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "光模块询盘（阿里巴巴）",
+   "quote": "光模块 / from: 阿里巴巴即时对话",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Diana Wang",
+   "title": "Inside Sales & Administrative",
+   "email": "diana.wang@bright.net.my",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "马来西亚",
   "other": "官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "系统集成（企业网络 / 安防 / 硬件 / 翻新）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "系统集成商（马来西亚，企业级品牌为主）",
   "region": "马来西亚",
   "contact": "diana.wang@bright.net.my"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://bright.net.my/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：salesteam@bright.net.my",
-  "用户表兴趣/备注：光模块 / from: 阿里巴巴即时对话"
+  "官网：One stop system integration solutions provide business automation, computer hardware, network and security solution",
+  "首页：CISCO / HPE ARUBA / HUAWEI / Refurbished；站内 WS-C3850-48P-S 等",
+  "表内：光模块 / from: 阿里巴巴即时对话；KP Diana Wang"
  ],
  "risks": [
-  "企业级品牌为主（Cisco/Huawei/Aruba）：Saga 白牌只作价格补充线",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价",
+  "企业级品牌（Cisco/Aruba/Huawei）为主的 SI：白牌仅边缘补充；非主攻区（T5）"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：安防集成/经销→25%）"
+  "why": "询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba"
  },
- "email_hook": "Diana, alongside the Cisco / Huawei lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Diana, following your enquiry on optical modules: for the access-layer edge of your Cisco/Aruba projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches in neutral packing from small lots, and can check module pricing alongside — which port count comes up most in your SME projects?"
 }

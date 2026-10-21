@@ -2,7 +2,7 @@
 
 > **评级 B**　|　马来西亚　|　档案编号 `SB-654`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成商（马来西亚，企业级品牌为主）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-654
@@ -12,14 +12,14 @@ score: 34
 country: 马来西亚
 region: 亚太
 website: bright.net.my
-type: 安防集成/经销
+type: 系统集成商（马来西亚，企业级品牌为主）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: none
+p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：马来西亚安防集成/经销：官网「BRIGHT.NET.MY」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内品牌：Cisco、Huawei、Ubiquiti、Aruba；站内型号：RJ-45、WS-C3850-48P-S、WS-C3850-24P-S、WS-C3850-48T-S；表内「光模块 / from: 阿里巴巴即时对话」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：安防集成/经销→25%）；—
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | BRIGHTNET SERVICES SDN BHD | 事实（用户表） |
 | 国家 | 马来西亚 | 事实（用户表）|
 | 网站/域名 | bright.net.my | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 系统集成商（马来西亚，企业级品牌为主） | 推断（据兴趣/备注关键词） |
 | 联系人 | Diana Wang, Inside Sales & Administrative | 事实（用户表） |
 | 来源（From） | 2024.10.29 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（bright.net.my，快照 2026-10-21）
-- **是谁**：马来西亚安防集成/经销：官网「BRIGHT.NET.MY」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内品牌：Cisco、Huawei、Ubiquiti、Aruba；站内型号：RJ-45、WS-C3850-48P-S、WS-C3850-24P-S、WS-C3850-48T-S；表内「光模块 / from: 阿里巴巴即时对话」；表内未见跟进记录。
-- **类型**：安防集成/经销
+- **是谁**：马来西亚 Brightnet Services Sdn Bhd（一站式系统集成：业务自动化、电脑硬件、网络与安防、现场支持；在售 Cisco（Catalyst 3850 等）/ HPE Aruba / Huawei / Ubiquiti，含翻新；阿里巴巴即时对话询「光模块」；KP Diana Wang（Inside Sales & Administrative，diana.wang@））；表内无跟进记录。
+- **类型**：系统集成商（马来西亚，企业级品牌为主）
 - **在卖/在用品牌**：Cisco, Huawei, Ubiquiti, Aruba
 - **【官网快照】官网标题：BRIGHT.NET.MY；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE**
   > One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support and cost effective IT....
@@ -64,25 +64,31 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 光模块 / from: 阿里巴巴即时对话
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】一站式系统集成方案**
+  > One stop system integration solutions provide business automation, computer hardware, network and security solution, on-site support
+  > 来源：https://bright.net.my/（抓取 2026-10-21）
+- **【用户表】光模块询盘（阿里巴巴）**
+  > 光模块 / from: 阿里巴巴即时对话
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Diana Wang（）diana.wang@bright.net.my 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 马来西亚 |
 | 其他 | 官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；数据中心 / 企业 IT；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 马来西亚；contact: diana.wang@bright.net.my
+- **业务线**：系统集成（企业网络 / 安防 / 硬件 / 翻新）
+- **触达通道（公开）**：role: 系统集成商（马来西亚，企业级品牌为主）；region: 马来西亚；contact: diana.wang@bright.net.my
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://bright.net.my/）
-  - 在售同口型交换品牌：Ubiquiti → 直接对位替换
-  - 官网公开邮箱：salesteam@bright.net.my
-  - 用户表兴趣/备注：光模块 / from: 阿里巴巴即时对话
-- **风险/边界**：企业级品牌为主（Cisco/Huawei/Aruba）：Saga 白牌只作价格补充线；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：安防集成/经销→25%）
-- **邮件切入句（英文）**：Diana, alongside the Cisco / Huawei lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+  - 官网：One stop system integration solutions provide business automation, computer hardware, network and security solution
+  - 首页：CISCO / HPE ARUBA / HUAWEI / Refurbished；站内 WS-C3850-48P-S 等
+  - 表内：光模块 / from: 阿里巴巴即时对话；KP Diana Wang
+- **风险/边界**：询盘品类为光模块：Saga 价目无 SKU（Q-32），需另询报价；企业级品牌（Cisco/Aruba/Huawei）为主的 SI：白牌仅边缘补充；非主攻区（T5）
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba
+- **邮件切入句（英文）**：Diana, following your enquiry on optical modules: for the access-layer edge of your Cisco/Aruba projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches in neutral packing from small lots, and can check module pricing alongside — which port count comes up most in your SME projects?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -121,6 +127,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Diana Wang | — | diana.wang@bright.net.my | 调研核实（公开页） | 用户表 |
 | Diana Wang, Inside Sales & Administrative | — | diana.wang@bright.net.my / +0125666691 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -137,18 +144,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：安防集成/经销→25%） | — | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：询盘为光模块（Saga 价目无，Q-32）→ 以接入层补充位切入：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424XGGM；企业核心仍走 Cisco/Aruba | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成商（马来西亚，企业级品牌为主）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -156,9 +162,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -187,21 +193,25 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Diana,
 
-Picking up our earlier exchange about PoE / industrial switches. Diana, alongside the Cisco / Huawei lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Diana, following your enquiry on optical modules: for the access-layer edge of your Cisco/Aruba projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches in neutral packing from small lots, and can check module pricing alongside — which port count comes up most in your SME projects?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

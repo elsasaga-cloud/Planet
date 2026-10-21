@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（netsys-direct.com，快照 2026-10-21）",
- "summary": "美国电商/网店：官网「Networking Products - Network Extension Devices & Broadband Equipment – www.netsys-direct.」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：NV-520G、NV-520GKIT、NV-320SEKIT、NV-700IKIT；表内「工业FS」；群发 9 次、无回复。",
- "type": "电商/网店",
+ "summary": "美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。",
+ "type": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "网络延长设备与宽带产品",
+   "quote": "Netsys is your trusted source for quality network extension devices. Explore our collection of versatile networking and broadband products online.",
+   "url": "https://www.netsys-direct.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +43,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 netsys-direct.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "以太网延长（VDSL2 / G.hn / PoE 延长器）",
+  "工业交换机（补充线）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "以太网延长设备品牌（美国销售公司，台系 NetSys 线）",
   "region": "美国",
   "contact": "sales@netsys-america.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.netsys-direct.com/）",
-  "官网公开邮箱：info@netsys-america.com、sales@netsys-america.com",
-  "用户表兴趣/备注：工业FS"
+  "官网：YOUR TRUSTED SOURCE FOR ETHERNET EXTENSION SOLUTIONS；GigaPort Industrial Grade VDSL2 Ethernet Bridge Modem (NV-520G)",
+  "博客 /blogs/ethernetextender/commercial-grade-vs-industrial-grade-networking-products"
  ],
- "risks": [],
+ "risks": [
+  "主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报",
+  "台系品牌美国销售公司：自有 ODM 体系；9 次无回复，仅 sales@"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?"
 }

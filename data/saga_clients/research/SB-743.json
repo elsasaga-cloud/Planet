@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tiscontrol.com，快照 2026-10-21）",
- "summary": "阿曼工业自动化/IoT 方案商：官网「Smart Home Automation | Hotel Automation System | TIS」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：TIS-AIR-DHM24L、TIS-AIR-PUR800、TIS-WC-FS80、INT-1VL；表内「导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘」；群发 1 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "阿曼 TIS Control（智能家居/酒店自动化品牌，有线 + 无线全屋自动化产品，经销商登录/培训体系；阿里巴巴询盘「导轨式 PoE 管理/非管理」；KP Mr. Mamunur Rashid（mkseoman.com，+968 942 57595））；表内 1 次跟进无回复。",
+ "type": "智能家居/酒店自动化品牌（阿曼，PoE 配套外采）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,62 @@
    "quote": "导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TIS 智能家居与酒店自动化",
+   "quote": "We provide wired and wireless full home automation products that bring affordable elegance into your smart home and Hotel.",
+   "url": "https://www.tiscontrol.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "导轨式 PoE 管理/非管理（阿里巴巴询盘）",
+   "quote": "导轨式PoE 管理非管理 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mamunur Rashid",
+   "title": "（阿里巴巴询盘联系人）",
+   "email": "mamun@mkseoman.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "阿曼",
   "other": "官网 tiscontrol.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "智能家居 / 酒店自动化产品（自有品牌）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "智能家居/酒店自动化品牌（阿曼，PoE 配套外采）",
   "region": "阿曼",
   "contact": "mamun@mkseoman.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.tiscontrol.com/）",
-  "用户表兴趣/备注：导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘"
+  "表内：导轨式 PoE 管理非管理 / from: 阿里巴巴询盘；968 942 57595",
+  "官网：wired and wireless full home automation products … smart home and Hotel；页面 /en/bus_industrial.html、/en/air_acm_switch.html"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，阿曼）；KP 邮箱域为 mkseoman.com（经销/关联公司），身份待核",
+  "酒店/智能家居项目：PoE 为配套，量随项目波动"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板"
  },
- "email_hook": "Mr.Mamunur, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply Marvell-based 8-PoE + 2 SFP units in both managed and unmanaged versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?"
 }

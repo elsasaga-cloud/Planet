@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ipc2u.com，快照 2026-10-21）",
- "summary": "德国制造商（同行或 OEM 客户待核）：官网「IPC2U Worldwide | Professional solutions for Industrial Automation」（en）；品类词：工业自动化 / OT 网络；站内品牌：Moxa、Advantech；站内型号：RS-232、RS232、IP69K；表内「MaiWe」；群发 1 次、无回复。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "德国 IPC2U（工业计算机系统国际供应商与制造商，20 年以上、EMEA 14 国办事处；站内 Moxa / Advantech，DIN 导轨 PC 配置器；表内「MaiWe」；KP Arthur Barasch（Managing Director，barasch@ipc2u.de））；表内 1 次跟进无回复。",
+ "type": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
  "size": "",
  "brands_seen": [
   "Moxa",
-  "Advantech"
+  "Advantech",
+  "Maiwe"
  ],
  "evidence": [
   {
@@ -24,41 +25,64 @@
    "quote": "MaiWe",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "工业计算机系统国际供应商与制造商",
+   "quote": "IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space",
+   "url": "https://ipc2u.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MaiWe",
+   "quote": "MaiWe",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Arthur Barasch",
+   "title": "Managing Director",
+   "email": "barasch@ipc2u.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 ipc2u.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "工业计算机系统（Box PC / DIN 导轨 PC / 面板 PC）",
+  "工业自动化组件分销（Moxa / Advantech / Maiwe）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）",
   "region": "德国",
   "contact": "sales@ipc2u.com、barasch@ipc2u.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ipc2u.com/）",
-  "在售工业网络品牌：Moxa、Advantech → 工业线对位",
-  "官网公开邮箱：consultation@ipc2u.fr、sales@ipc2u.com、sales@ipc2u.cz",
-  "用户表兴趣/备注：MaiWe"
+  "官网：international supplier and manufacturer of industrial computer systems with more than 20 years of experience … more than 14 countries in the EMEA",
+  "配置器 /catalog/configurator/embedded-box-systems/c-industrial-dinrail-pc/",
+  "KP：Arthur Barasch / Managing Director（表内）"
  ],
  "risks": [
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+  "现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/欧洲文档切入",
+  "多国办事处的中型供应商：导入流程较长；1 次跟进无回复"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "官网快照对位：工业/自动化词频 138、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：制造商（同行或 OEM 客户待核）→30%）；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目"
  },
- "email_hook": "Arthur, alongside the Moxa / Advantech lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Arthur, next to the Maiwe industrial switches in your automation range, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?"
 }

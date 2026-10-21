@@ -3,15 +3,25 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（t-automation.by，快照 2026-10-21）",
- "summary": "保加利亚工业自动化/IoT 方案商：官网「Территория Автоматизации Минск」（ru）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS-232、EN50121-4、EKI-9502G、EKI-7454G-6X；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "白俄罗斯 Территория Автоматизации / t-automation.by（明斯克工业自动化、IoT、测控与嵌入式系统设备与软件分销：IFM 传感器、Noya 面板 PC、Advantech UNO-2372G / EKI-9502G / EKI-7454G-6X；PoE 交换机目录（管理/非管理）；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「Минск」→ 更正为白俄罗斯）；表内无跟进记录。",
+ "type": "工业自动化分销商（白俄罗斯，Advantech 工业网络）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech",
+  "IFM"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
    "claim": "官网标题：Территория Автоматизации Минск；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
    "quote": "Оборудование и ПО для промышленной автоматизации, интернета вещей, контрольно-измерительных и встраиваемых систем",
+   "url": "https://t-automation.by/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "明斯克工业自动化设备与软件",
+   "quote": "Территория Автоматизации Минск ; Оборудование и ПО для промышленной автоматизации, интернета вещей, контрольно-измерительных и встраиваемых систем",
    "url": "https://t-automation.by/",
    "date": "2026-10-21"
   }
@@ -22,31 +32,44 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "保加利亚",
   "other": "官网 t-automation.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业自动化 / IoT / 嵌入式系统分销（IFM / Advantech / Noya）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
-  "region": "保加利亚",
+  "role": "工业自动化分销商（白俄罗斯，Advantech 工业网络）",
+  "region": "白俄罗斯",
   "contact": "info@t-automation.by"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://t-automation.by/）",
-  "官网公开邮箱：info@t-automation.by"
+  "官网：Оборудование и ПО для промышленной автоматизации, интернета вещей, контрольно-измерительных и встраиваемых систем",
+  "栏目 /communications/switches/poe/managed/、/unmanaged/；站内型号 EKI-9502G / EKI-7454G-6X / UNO-2372G"
  ],
- "risks": [],
+ "risks": [
+  "白俄罗斯：结算/物流受限，非主攻区",
+  "站内 EN50155 / EN50121-4（轨道）：Saga 不做轨道，只报工厂自动化",
+  "无具名 KP（info@）"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 7、PoE 155 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the Advantech EKI industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "Advantech",
+   "model": "EKI-7454G-6X",
+   "spec": "工业管理 L2（4 SFP + …，推断）",
+   "saga": "STI-288GPM（近似）",
+   "url": "https://t-automation.by/",
+   "date": "2026-10-21"
+  }
+ ],
+ "country_fix": "白俄罗斯"
 }

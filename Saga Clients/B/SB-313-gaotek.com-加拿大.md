@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-313`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 17 次（2024-05-01 → 2025-10-19）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）（推断）　|　**历史关系**：推送 17 次（2024-05-01 → 2025-10-19）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-313
@@ -12,7 +12,7 @@ score: 44
 country: 加拿大
 region: 北美
 website: gaotek.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大品牌商/贴牌需求（OEM/ODM）：官网「IoT Hardware | IoT Systems | Test Equipment - GAO Tek」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：RS485、MGD-499、MGD-923、MGD-179；表内「MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件 非常大的公司！」；群发 17 次、无回复。（调研 2026-10-21；表内兴趣：MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件  非常大的公司！）
+- **是谁**：加拿大/美国 GAO Tek（IoT 硬件 / IoT 系统 / 测试仪器全球目录供应商，美加办公室；自有 logo 光纤 MC（多外壳）、PoE、FS、周边无源配件；表内「似乎是个销售平台；非常大的公司」；KP Ashish Prakash（Network Specialist – Fiber optics, PSTN, CATV））；群发 17 次无回复。（调研 2026-10-21；表内兴趣：MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件  非常大的公司！）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-01 → 2025-10-19）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | gaotek.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | gaotek.com / gaorfid.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | 似乎是个销售平台 / Ashish Prakash / Network Specialist-Fiber optics,PSTN,CATV | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件 / MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件<br><br>非常大的公司！ | 事实（用户表） |
@@ -66,32 +66,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（gaotek.com，快照 2026-10-21）
-- **是谁**：加拿大品牌商/贴牌需求（OEM/ODM）：官网「IoT Hardware | IoT Systems | Test Equipment - GAO Tek」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：RS485、MGD-499、MGD-923、MGD-179；表内「MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件 非常大的公司！」；群发 17 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：加拿大/美国 GAO Tek（IoT 硬件 / IoT 系统 / 测试仪器全球目录供应商，美加办公室；自有 logo 光纤 MC（多外壳）、PoE、FS、周边无源配件；表内「似乎是个销售平台；非常大的公司」；KP Ashish Prakash（Network Specialist – Fiber optics, PSTN, CATV））；群发 17 次无回复。
+- **类型**：北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）
 - **【官网快照】官网标题：IoT Hardware | IoT Systems | Test Equipment - GAO Tek；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > GAOTek is a leading global supplier of IoT hardware, IoT systems and a vast array of test equipment for all industries from it's offices in USA and Canada.
   > 来源：https://gaotek.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件 非常大的公司！
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】IoT 硬件与测试仪器全球供应商**
+  > GAOTek is a leading global supplier of IoT hardware, IoT systems and a vast array of test equipment for all industries from it’s offices in USA and Canada.
+  > 来源：https://gaotek.com/（抓取 2026-10-21）
+- **【用户表】MC 多外壳自有 logo；PoE FS 周边；非常大的公司**
+  > MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；非常大的公司！
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ashish Prakash（）sales@gaotek.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 gaotek.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；无线 / WiFi；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 加拿大；contact: sales@gaorfid.com、sales@gaotek.com
+- **业务线**：IoT 硬件 / 测试仪器目录销售；光纤 MC / PoE / 无源配件（自有 logo）
+- **触达通道（公开）**：role: 北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）；region: 加拿大；contact: sales@gaorfid.com、sales@gaotek.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://gaotek.com/）
-  - 官网公开邮箱：sales@gaotek.com
-  - 用户表兴趣/备注：MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件 非常大的公司！
-- **风险/边界**：群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Ashish, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：GAOTek is a leading global supplier of IoT hardware, IoT systems and a vast array of test equipment … offices in USA and Canada
+  - 站内 kw：fiber 236 / industrial 133 / sfp 69 / media converter 28
+  - 表内：MC 很多种外壳 刷了自己的 logo；非常大的公司；KP Ashish Prakash / Network Specialist
+- **风险/边界**：大型目录商（数千 SKU）：单品量小、供应商众多，谈判地位弱；17 次无回复：仅 sales@ 公共邮箱，KP 为技术岗；商用桌面 MC（主要需求）Saga 价目无 SKU（Q-32）
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核）
+- **邮件切入句（英文）**：Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -152,7 +159,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ashish Prakash | — | sales@gaorfid.com / sales@gaotek.com | 用户表原值 | Clients/ 表 |
+| Ashish Prakash | — | sales@gaotek.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -169,7 +176,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -223,7 +230,7 @@ updated: 2026-10-21
 ```text
 Hi Ashish,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ashish, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

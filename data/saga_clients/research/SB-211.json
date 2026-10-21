@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（bce.it，快照 2026-10-21）",
- "summary": "意大利分销商/批发商：官网「BCE SRL Importation & Distribution Electronic Components」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：QFN20、BGA500、BGA289、BGA35；表内「switch 是天津一个公司的办事处」；群发 6 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "意大利 BCE SRL（电子元器件进口与分销：工业线束、M12-RJ45 适配、BGA/QFN 封装件；表内「switch；是天津一个公司的办事处」）；群发 6 次无回复。",
+ "type": "中国厂商海外办事处（元器件进口分销）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,44 +21,54 @@
    "quote": "switch 是天津一个公司的办事处",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "电子元器件进口与分销",
+   "quote": "Homepage - BCE SRL Importation & Distribution Electronic Components ; Quality Products – Innovative Solutions",
+   "url": "https://www.bce.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch；是天津一个公司的办事处",
+   "quote": "switch 是天津一个公司的办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "中国厂商海外办事处（用户表：天津公司的办事处），元器件分销非交换机品类；c_sub=中国厂商海外办事处",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 bce.it，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电子元器件 / 工业线束进口分销"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "中国厂商海外办事处（元器件进口分销）",
   "region": "意大利",
   "contact": "bce@bce.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.bce.it/）",
-  "官网公开邮箱：bce@bce.it",
-  "用户表兴趣/备注：switch 是天津一个公司的办事处"
+  "官网：BCE SRL Importation & Distribution Electronic Components；页面 /industrial-wire-harness/、/industrial-ethernet-m12-to-rj45-adaptor/",
+  "表内：是天津一个公司的办事处"
  ],
- "risks": [],
+ "risks": [
+  "中国厂商（天津）海外办事处：采购在国内，非渠道客户",
+  "主业电子元器件/线束，交换机非品类；6 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 25,
+  "why": "用户表注明为天津公司的办事处 → 采购在国内总部，非 Saga 渠道客户 → 改 C（与 SB-568 Vantron 同口径）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "（不发送：中国厂商海外办事处）"
 }

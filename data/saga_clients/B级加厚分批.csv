@@ -414,7 +414,7 @@ SB-317,B,T3,kyolis.com,法国,欧洲,0,0,0,0,0,0,0,1,18,kyolis.com,3,1,1,自动,
 SB-324,B,T3,robofiber.com,美国,北美,0,0,0,0,0,0,0,1,18,robofiber.com,1,1,1,人工,ok,,STI-288GP
 SB-367,B,T3,petawise.com,美国,北美,0,0,0,0,0,0,0,0,18,petawise.com,5,1,1,自动,ok,"Uniview,Ruijie",STC-424DGGPM-280W
 SB-377,B,T3,xblue.com,美国,北美,0,0,0,0,0,0,0,0,18,xblue.com,4,1,1,自动,ok,,STC-28DGGPM
-SB-569,B,T3,vipausa.com,美国,北美,0,0,0,0,0,0,0,1,18,vipausa.com,2,1,1,自动,ok,Siemens,STI-288GP
+SB-569,B,T3,vipausa.com,美国,北美,0,0,0,0,0,0,0,1,18,vipausa.com,2,1,1,人工,ok,Siemens,STI-288GP
 SB-791,B,T3,Comms Express Ltd,英国,欧洲,0,0,0,0,0,0,0,0,18,comms-express.com,2,1,1,自动,http_error,,
 SB-797,B,T3,ITSS Inc/,美国,北美,0,0,0,0,0,0,0,0,18,it2ss.com,1,1,1,自动,http_error,,
 SB-810,B,T3,britaniccablingproduction.com,英国,欧洲,0,0,0,0,0,0,0,0,18,britaniccablingproduction.com;bcp-uk.com,1,1,1,自动,http_error,,
@@ -429,7 +429,7 @@ SB-070,B,T3,genieproducts.co.uk,英国,欧洲,0,0,0,0,0,0,0,1,17,genieproducts.c
 SB-1100,B,T3,Essentia technologies,英国,欧洲,0,0,0,0,0,0,0,0,17,essentiatechnologies.com,1,1,1,自动,ok,,STI-280GE
 SB-300,B,T3,amer.com,加拿大,北美,0,0,0,0,0,0,0,1,17,amer.com,4,1,1,自动,ok,"Cisco,Netgear,Juniper",STC-424XGGM
 SB-312,B,T3,fiberopticlink.com,加拿大,北美,0,0,0,0,0,0,0,1,17,fiberopticlink.com,4,1,1,自动,http_error,,
-SB-313,B,T3,gaotek.com,加拿大,北美,0,0,0,0,0,0,0,1,17,gaotek.com;gaorfid.com,2,1,1,自动,ok,,STI-280GE
+SB-313,B,T3,gaotek.com,加拿大,北美,0,0,0,0,0,0,0,1,17,gaotek.com;gaorfid.com,2,1,1,人工,ok,,STI-280GE
 SB-328,B,T3,wieland-electric.com,德国,欧洲,0,0,0,0,0,0,0,1,17,wieland-electric.com,1,1,1,自动,ok,,STI-280GE
 SB-342,B,T3,TRK solution Ltd,英国,欧洲,0,0,0,0,0,0,0,0,17,trksolutions.co.uk,1,1,1,自动,ok,"Hikvision,Dahua",
 SB-823,B,T3,enableit.com,美国,北美,0,0,0,0,0,0,0,0,17,enableit.com,2,1,1,人工,ok,,STI-288GP
@@ -440,7 +440,7 @@ SB-332,B,T3,很多UK公司在卖他们的产品,英国,欧洲,0,0,0,0,0,0,0,1,16
 SB-352,B,T3,dtsdigitalcctv.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,16,dtsdigitalcctv.co.uk,1,1,1,自动,ok,"Milesight,Dahua",STC-424DGGPM-280W
 SB-353,B,T3,dvs.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,16,dvs.co.uk,2,1,1,自动,http_error,,
 SB-358,B,T3,hunters-wholesalers.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,16,hunters-wholesalers.co.uk,1,1,1,自动,timeout,,
-SB-361,B,T3,mapleye.com,加拿大,北美,0,0,0,0,0,0,0,0,16,mapleye.com,2,1,1,自动,ok,,STC-424DGGPM-280W
+SB-361,B,T3,mapleye.com,加拿大,北美,0,0,0,0,0,0,0,0,16,mapleye.com,2,1,1,人工,ok,,STC-424DGGPM-280W
 SB-369,B,T3,securasound.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,16,securasound.co.uk,2,1,1,自动,ok,,STC-28DGGPM
 SB-378,B,T3,xlrsecurity.com,加拿大,北美,0,0,0,0,0,0,0,0,16,xlrsecurity.com,3,1,1,人工,ok,"Uniview,Ruijie",STI-288GP
 SB-455,B,T3,asm.cz,捷克,欧洲,0,0,0,0,0,0,0,1,16,asm.cz,1,1,1,人工,ok,,STC-424XGGM
@@ -485,7 +485,7 @@ SB-793,B,T3,Elettronica E Sicurezza,意大利,欧洲,0,0,0,0,0,0,0,0,14,elettron
 SB-844,B,T3,kontron.com,德国,欧洲,0,0,0,0,0,0,0,0,14,kontron.com,1,1,1,自动,ok,,STI-280GE
 SB-013,B,T3,mtechnology.it,意大利,欧洲,0,0,0,0,0,0,0,1,13,mtechnology.it,1,1,1,自动,ok,,STI-288GP
 SB-1022,B,T3,ctservicestore.it,意大利,欧洲,0,0,0,0,0,0,0,0,13,ctservicestore.it,1,1,1,人工,ok,,STI-288GP
-SB-1080,B,T3,montavue.com,美国,北美,0,0,0,0,0,0,0,1,13,montavue.com,1,1,1,自动,ok,,STI-288GP
+SB-1080,B,T3,montavue.com,美国,北美,0,0,0,0,0,0,0,1,13,montavue.com,1,1,1,人工,ok,,STI-288GP
 SB-1088,B,T3,silarius.com,美国,北美,0,0,0,0,0,0,0,1,13,silarius.com,1,1,1,人工,ok,"Fortinet,Cisco,Extreme",STC-424XGGM
 SB-165,B,T3,adin.it,意大利,欧洲,0,0,0,0,0,0,0,0,13,adin.it;ad-in.net,3,1,1,人工,ok,Uniview,STI-288GP
 SB-169,B,T3,benzotronic.it,意大利,欧洲,0,0,0,0,0,0,0,0,13,benzotronic.it,1,1,1,自动,http_error,,
@@ -543,7 +543,7 @@ SB-1117,B,T3,l-com.com,美国,北美,0,0,0,0,0,0,0,0,9,l-com.com,5,1,1,人工,ok
 SB-156,B,T3,tyconsystems.com,美国,北美,0,0,0,0,0,0,0,1,9,tyconsystems.com,3,1,1,人工,ok,,STI-288GP
 SB-184,B,T3,nellyssecurity.com,美国,北美,0,0,0,0,0,0,0,0,9,nellyssecurity.com,3,1,1,人工,ok,"Uniview,Hanwha,ZKTeco,TP-Link,Ubiquiti",STC-424DGGPM-280W
 SB-526,B,T3,avalan.com,美国,北美,0,0,0,0,0,0,0,0,9,avalan.com;volumeinc.com,3,1,1,自动,ok,,STC-28DGGPM
-SB-551,B,T3,netsys-direct.com,美国,北美,0,0,0,0,0,0,0,0,9,netsys-direct.com;netsys-america.com,1,1,1,自动,ok,,STI-288GP
+SB-551,B,T3,netsys-direct.com,美国,北美,0,0,0,0,0,0,0,0,9,netsys-direct.com;netsys-america.com,1,1,1,人工,ok,,STI-288GP
 SB-555,B,T3,omnitron-systems.com,美国,北美,0,0,0,0,0,0,0,0,9,omnitron-systems.com,1,1,1,自动,ok,,
 SB-563,B,T3,telco.com,美国,北美,0,0,0,0,0,0,0,0,9,telco.com,4,1,1,自动,ok,,STI-280GE
 SB-815,B,T3,commandonetworks.com,美国,北美,0,0,0,0,0,0,0,0,9,commandonetworks.com,1,1,1,人工,ok,,STI-288GP
@@ -629,7 +629,6 @@ SB-130,B,T3,intellisystem.it,意大利,欧洲,0,0,0,0,0,0,0,0,6,intellisystem.it
 SB-194,B,T3,Arfanet,阿尔巴尼亚,欧洲,0,0,0,0,0,0,0,0,6,arfanet.al,2,1,1,自动,ok,Hikvision,STC-28DGGPM
 SB-201,B,T3,"RecTec servis, s.r.o.",捷克,欧洲,0,0,0,0,0,0,0,0,6,rectec.cz,1,1,1,自动,ok,,
 SB-206,B,T3,Vdeotronic AG,瑞士,欧洲,0,0,0,0,0,0,0,0,6,videotronic.ch,1,1,1,自动,ok,,
-SB-211,B,T3,bce.it,意大利,欧洲,0,0,0,0,0,0,0,0,6,bce.it,1,1,1,自动,ok,,STI-288GP
 SB-220,B,T3,electronikhouse.it,意大利,欧洲,0,0,0,0,0,0,0,0,6,electronikhouse.it,1,1,1,人工,ok,"Hikvision,Dahua",STI-288GP
 SB-230,B,T3,netonix.com,美国,北美,0,0,0,0,0,0,0,0,6,netonix.com,1,1,1,自动,ok,,STC-28DGGPM
 SB-237,B,T3,secomp-international.com,瑞士,欧洲,0,0,0,0,0,0,0,0,6,secomp-international.com,1,1,1,自动,ok,,STC-28DGGPM
@@ -705,7 +704,6 @@ SB-235,B,T3,rimaelektronik.com,土耳其,土耳其,0,0,0,0,0,0,0,0,2,rimaelektro
 SB-379,B,T3,4sltd.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,2,4sltd.com.tr,2,1,1,自动,ok,,
 SB-397,B,T3,es-france.com,法国,欧洲,0,0,0,0,0,0,0,0,2,es-france.com,1,1,1,自动,ok,ORing,STI-288GP
 SB-402,B,T3,longlinenetwork.com,土耳其,土耳其,0,0,0,0,0,0,0,0,2,longlinenetwork.com,1,1,1,人工,ok,,STI-288GP
-SB-413,B,T3,stgm.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,2,stgm.com.tr,1,1,1,自动,ok,Cisco,STI-288GP
 SB-434,B,T3,gmtcontrol.com,土耳其,土耳其,0,0,0,0,0,0,0,1,2,gmtcontrol.com,2,1,1,自动,ok,,STC-28DGGPM
 SB-438,B,T3,pavotek.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,1,2,pavotek.com.tr,4,1,1,自动,ok,,STC-28DGGPM
 SB-449,B,T3,Koza,土耳其,土耳其,0,0,0,0,0,0,0,0,2,kozaguvenlik.com.tr,2,1,1,自动,ok,Ajax,STC-424DGGPM-280W
@@ -766,7 +764,7 @@ SB-479,B,T3,radioteknoloji.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,1,radiotek
 SB-480,B,T3,raskpreke.lt,意大利,欧洲,0,0,0,0,0,0,0,0,1,raskpreke.lt,1,1,1,自动,ok,"Ubiquiti,Hikvision,Ajax",STC-424DGGPM-280W
 SB-612,B,T3,fotech.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,1,fotech.com.tr,3,1,1,自动,ok,,STC-424DGGPM-280W
 SB-614,B,T3,kmsoltec.com,意大利,欧洲,0,0,0,0,0,0,0,0,1,kmsoltec.com,1,1,1,自动,ok,,STI-288GP
-SB-640,B,T3,ipc2u.com,德国,欧洲,0,0,0,0,0,0,0,0,1,ipc2u.com;ipc2u.de,2,1,1,自动,ok,"Moxa,Advantech",STI-280GE
+SB-640,B,T3,ipc2u.com,德国,欧洲,0,0,0,0,0,0,0,0,1,ipc2u.com;ipc2u.de,2,1,1,人工,ok,"Moxa,Advantech",STI-280GE
 SB-676,B,T3,akton.net,斯洛文尼亚,欧洲,0,0,0,0,0,0,0,0,1,akton.net;akton.si,1,1,1,自动,ok,,
 SB-678,B,T3,alticelabs.com,葡萄牙,欧洲,0,0,0,0,0,0,0,0,1,alticelabs.com,1,1,1,自动,ok,Ubiquiti,STI-280GE
 SB-680,B,T3,apresteknoloji.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,1,apresteknoloji.com.tr,1,1,1,自动,ok,,
@@ -856,7 +854,7 @@ SB-1181,B,T3,elfa.se,瑞典,欧洲,0,0,0,0,0,0,0,0,0,elfa.se,2,1,1,自动,ok,Sie
 SB-1182,B,T3,elfon.com.pl,波兰,欧洲,0,0,0,0,0,0,0,0,0,elfon.com.pl,1,1,1,自动,ok,,
 SB-1183,B,T3,epygi.com,美国,北美,0,0,0,0,0,0,0,0,0,epygi.com,1,1,1,自动,ok,Axis,STC-424DGGPM-280W
 SB-1185,B,T3,fibersavvy.com,美国,北美,0,0,0,0,0,0,0,0,0,fibersavvy.com,1,1,1,自动,ok,,STC-28DGGPM
-SB-1186,B,T3,fibersystem.com,瑞士,欧洲,0,0,0,0,0,0,0,0,0,fibersystem.com,3,1,1,自动,ok,,STC-28DGGPM
+SB-1186,B,T3,fibersystem.com,瑞典,欧洲,0,0,0,0,0,0,0,0,0,fibersystem.com,3,1,1,人工,ok,,STC-28DGGPM
 SB-1187,B,T3,fibertronics.com,美国,北美,0,0,0,0,0,0,0,0,0,fibertronics.com,1,1,1,自动,ok,,STI-288GP
 SB-1189,B,T3,foppex.com,美国,北美,0,0,0,0,0,0,0,0,0,foppex.com,1,1,1,自动,ok,,
 SB-1191,B,T3,garmasl.com,西班牙,欧洲,0,0,0,0,0,0,0,0,0,garmasl.com,1,1,1,人工,ok,,STI-288GP
@@ -991,7 +989,6 @@ SB-890,B,T3,aurcore.net,美国,北美,0,0,0,0,0,0,0,0,0,aurcore.net,2,1,1,自动
 SB-892,B,T3,bestpc.bg,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,bestpc.bg,1,1,1,自动,ok,Huawei,STC-424XGGM
 SB-894,B,T3,cctvspot.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,0,cctvspot.co.uk,0,1,1,人工,ok,"Hikvision,Dahua",STC-424DGGPM-280W
 SB-896,B,T3,datageneral.co,美国,北美,0,0,0,0,0,0,0,0,0,datageneral.co;general-data.com,1,1,1,自动,ok,,STI-288GP
-SB-897,B,T3,datastream.by,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,datastream.by,1,1,1,自动,ok,"Zyxel,Vivotek",STC-424DGGPM-280W
 SB-898,B,T3,deponet.com.tr,土耳其,土耳其,0,0,0,0,0,0,0,0,0,deponet.com.tr,1,1,1,自动,ok,"Ruijie,Teltonika,Allied Telesis",STC-28DGGPM
 SB-899,B,T3,econnet.it,意大利,欧洲,0,0,0,0,0,0,0,0,0,econnet.it,0,1,1,人工,ok,"TP-Link,Ubiquiti,Moxa,Milesight",STI-288GP
 SB-901,B,T3,esoft.fi,芬兰,欧洲,0,0,0,0,0,0,0,0,0,esoft.fi,0,1,1,人工,ok,"HRUI（！）,Cisco,Aruba,Fortinet,PLANET",STI-288GP
@@ -1001,7 +998,6 @@ SB-910,B,T3,lorwen.it,意大利,欧洲,0,0,0,0,0,0,0,0,0,lorwen.it,0,1,1,自动,
 SB-913,B,T3,nabludenie.by,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,nabludenie.by,1,1,1,自动,ok,,STC-424DGGPM-280W
 SB-918,B,T3,server-x.by,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,server-x.by,1,1,1,自动,http_error,,
 SB-920,B,T3,synchronet.net,美国,北美,0,0,0,0,0,0,0,0,0,synchronet.net,2,1,1,自动,ok,Ubiquiti,STC-28DGGPM
-SB-922,B,T3,t-automation.by,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,t-automation.by,1,1,1,自动,ok,,STI-288GP
 SB-923,B,T3,tm.by,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,tm.by,1,1,1,自动,ok,,
 SB-924,B,T3,versitron.com,美国,北美,0,0,0,0,0,0,0,0,0,versitron.com,1,1,1,人工,ok,,STI-288GP
 SB-927,B,T3,zenlayer.com,美国,北美,0,0,0,0,0,0,0,0,0,zenlayer.com,2,1,1,自动,ok,Ubiquiti,STI-280GE
@@ -1068,7 +1064,6 @@ SB-631,B,T5,ablelink.co.th,泰国,亚太,0,0,0,0,0,0,0,1,18,ablelink.co.th,1,1,1
 SB-639,B,T5,intant.kz,哈萨克斯坦,俄语区,0,0,0,0,0,0,0,0,18,intant.kz;intant.net,1,1,1,自动,ok,Hikvision,
 SB-645,B,T5,market-telecom.kz,哈萨克斯坦,俄语区,0,0,0,0,0,0,0,0,18,market-telecom.kz,1,1,1,人工,ok,,STC-424DGGPM-280W
 SB-947,B,T5,nateks.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,18,nateks.ru,1,1,1,自动,ok,,STC-28DGGPM
-SB-951,B,T5,qtech.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,18,qtech.ru;ocs.ru,11,1,1,自动,ok,,STC-424DGGPM-280W
 SB-1007,B,T5,video-svp.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,17,video-svp.ru;svp.ru;sbvs.ru;fibersys.ru,4,1,1,自动,ok,,
 SB-1086,B,T5,servo-tech.co.kr,韩国,亚太,0,0,0,0,0,0,0,0,17,servo-tech.co.kr,1,1,1,自动,ok,,
 SB-1096,B,T5,ynminc.com,韩国,亚太,0,0,0,0,0,0,0,0,17,ynminc.com,2,1,1,自动,ok,Aruba,
@@ -1140,7 +1135,7 @@ SB-368,B,T5,safanetworks.com,阿联酋,中东,0,0,0,0,0,0,0,0,7,safanetworks.com
 SB-497,B,T5,eso.co.th,泰国,亚太,0,0,0,0,0,0,0,0,7,eso.co.th,2,1,1,自动,ok,,STI-288GP
 SB-578,B,T5,Rapsodo Pte ltd,新加坡,亚太,0,0,0,0,0,0,0,0,7,rapsodo.com,1,1,1,自动,ok,,STC-28DGGPM
 SB-591,B,T5,macnica.co.jp,日本,亚太,0,0,0,0,0,0,0,0,7,macnica.co.jp,1,1,1,自动,ok,,
-SB-641,B,T5,jeatech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,7,jeatech.com.au,3,1,1,自动,ok,"ORing,Teltonika,Milesight",STI-288GP
+SB-641,B,T5,jeatech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,7,jeatech.com.au,3,1,1,人工,ok,"ORing,Teltonika,Milesight",STI-288GP
 SB-664,B,T5,MARZETEK (Pty) Ltd,南非,非洲,0,0,0,0,0,0,0,0,7,marzetek.com,1,1,1,自动,parked_or_empty,,
 SB-720,B,T5,netshieldsa.com,南非,非洲,0,0,0,0,0,0,0,0,7,netshieldsa.com,2,1,1,自动,ok,,
 SB-883,B,T5,Excel Engineering (SG) Pte Ltd,新加坡,亚太,0,0,0,0,0,0,0,0,7,excelengineeringsg.net,1,1,1,自动,unreachable,,
@@ -1191,12 +1186,12 @@ SB-133,B,T5,sysnetcenter.com,泰国,亚太,0,0,0,0,0,0,0,1,1,sysnetcenter.com,1,
 SB-178,B,T5,hfcl.com,印度,南亚,0,0,0,0,0,0,0,1,1,hfcl.com,3,1,1,自动,ok,Ubiquiti,STI-288GP
 SB-185,B,T5,netbergtw.com,台湾,亚太,0,0,0,0,0,0,0,0,1,netbergtw.com,2,1,1,自动,ok,,STC-424XGGM
 SB-265,B,T5,intellcom.net,格鲁吉亚,俄语区,0,0,0,0,0,0,0,0,1,intellcom.net,2,1,1,人工,ok,Ubiquiti,STC-424DGGPM-280W
-SB-268,B,T5,swl.co.nz,新西兰,亚太,0,0,0,0,0,0,0,0,1,swl.co.nz,3,1,1,自动,ok,,STI-288GP
+SB-268,B,T5,swl.co.nz,新西兰,亚太,0,0,0,0,0,0,0,0,1,swl.co.nz,3,1,1,人工,ok,,STI-288GP
 SB-271,B,T5,viewtech.co.nz,新西兰,亚太,0,0,0,0,0,0,0,0,1,viewtech.co.nz,3,1,1,人工,ok,"Milesight,Dahua,Teltonika",STI-288GP
 SB-345,B,T5,accessofranco.com,泰国,亚太,0,0,0,0,0,0,0,1,1,accessofranco.com,1,1,1,自动,ok,"Advantech,Siemens",STI-280GE
 SB-431,B,T5,e-saudi.net,沙特阿拉伯,中东,0,0,0,0,0,0,0,0,1,e-saudi.net,1,1,1,自动,http_error,,
 SB-584,B,T5,certech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,1,certech.com.au,3,1,1,人工,ok,Edimax,STI-288GP
-SB-743,B,T5,tiscontrol.com,阿曼,中东,0,0,0,0,0,0,0,0,1,tiscontrol.com;mkseoman.com,1,1,1,自动,ok,,STI-280GE
+SB-743,B,T5,tiscontrol.com,阿曼,中东,0,0,0,0,0,0,0,0,1,tiscontrol.com;mkseoman.com,1,1,1,人工,ok,,STI-280GE
 SB-845,B,T5,konturm.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,1,konturm.ru,1,1,1,自动,ok,"D-Link,Cisco,Huawei",
 SB-957,B,T5,tayle.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,1,tayle.ru,4,1,1,自动,ok,,
 SB-996,B,T5,phuongdung.com,越南,亚太,0,0,0,0,0,0,0,0,1,phuongdung.com,1,1,1,自动,timeout,,
@@ -1258,7 +1253,7 @@ SB-628,B,T5,HME Solutions,澳大利亚,亚太,0,0,0,0,0,0,0,0,0,hmesolutions.com
 SB-643,B,T5,karma-group.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,karma-group.ru,1,1,1,自动,ok,Huawei,STC-28DGGPM
 SB-646,B,T5,optroset.com,以色列,中东,0,0,0,0,0,0,0,0,0,optroset.com,1,1,1,自动,http_error,,
 SB-649,B,T5,tss.co.th,泰国,亚太,0,0,0,0,0,0,0,0,0,tss.co.th,1,1,1,自动,ok,,
-SB-654,B,T5,BRIGHTNET SERVICES SDN BHD,马来西亚,亚太,0,0,0,0,0,0,0,0,0,bright.net.my,1,1,1,自动,ok,"Cisco,Huawei,Ubiquiti,Aruba",STC-424XGGM
+SB-654,B,T5,BRIGHTNET SERVICES SDN BHD,马来西亚,亚太,0,0,0,0,0,0,0,0,0,bright.net.my,1,1,1,人工,ok,"Cisco,Huawei,Ubiquiti,Aruba",STC-424XGGM
 SB-655,B,T5,C-TECH,埃及,非洲,0,0,0,0,0,0,0,0,0,c-techeg.com,1,1,1,自动,ok,,STI-280GE
 SB-657,B,T5,Computer Store Uganda Limited,乌干达,非洲,0,0,0,0,0,0,0,0,0,computerstore.ug,1,1,1,自动,timeout,,
 SB-659,B,T5,Gigaxysafe Technologies Ltd,尼日利亚,非洲,0,0,0,0,0,0,0,0,0,gigaxysafe.com.ng,1,1,1,自动,ok,"Cisco,Ubiquiti,PLANET",STI-288GP
@@ -1284,7 +1279,9 @@ SB-859,B,T5,safeensubsea.com,沙特阿拉伯,中东,0,0,0,0,0,0,0,0,0,safeensubs
 SB-866,B,T5,smartsystems.jo,约旦,中东,0,0,0,0,0,0,0,0,0,smartsystems.jo,2,1,1,自动,http_error,,
 SB-881,B,T5,zulite.com.tw,台湾,亚太,0,0,0,0,0,0,0,1,0,zulite.com.tw,1,1,1,自动,http_error,,
 SB-886,B,T5,SynchubsHVSS SAS,塞内加尔,非洲,0,0,0,0,0,0,0,0,0,synchubs.net,1,1,1,自动,http_error,,
+SB-897,B,T5,datastream.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,datastream.by,1,1,1,人工,ok,"Zyxel,Vivotek",STC-424DGGPM-280W
 SB-903,B,T5,habibo.mg,马达加斯加,非洲,0,0,0,0,0,0,0,0,0,habibo.mg,1,1,1,自动,ok,,
+SB-922,B,T5,t-automation.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,t-automation.by,1,1,1,人工,ok,,STI-288GP
 SB-932,B,T5,Venus Comex Orbit,巴西,拉美,0,0,0,0,0,0,0,0,0,venuscomexorbit.com.br,1,1,1,自动,ok,,
 SB-942,B,T5,ilucoltd.com,台湾,亚太,0,0,0,0,0,0,0,0,0,ilucoltd.com,2,1,1,自动,ok,LevelOne,STC-424XGGM
 SB-948,B,T5,oemarket.com,澳大利亚,亚太,0,0,0,0,0,0,0,1,0,oemarket.com,1,1,1,自动,http_error,,
