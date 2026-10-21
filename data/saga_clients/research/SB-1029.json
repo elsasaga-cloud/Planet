@@ -1,0 +1,55 @@
+{
+ "code": "SB-1029",
+ "name_official": "Jentronics（马来西亚；Tony，gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "马来西亚联系人 Tony（jentrx@gmail），询盘表来源，无兴趣描述；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Tony",
+   "title": "（表内联系人）",
+   "email": "jentrx@gmail.com",
+   "phone": "+60 19 333 6679",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Jentronics（待核）",
+  "founded": "",
+  "hq": "Malaysia",
+  "size": "",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "马来西亚"
+ },
+ "risks": [
+  "身份不明；无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型。"
+ },
+ "email_hook": "（低优先）"
+}

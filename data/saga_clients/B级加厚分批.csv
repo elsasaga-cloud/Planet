@@ -304,24 +304,22 @@ SB-1005,B,T2,telcofusion.com.mx,墨西哥,拉美,0,0,1,0,0,0,0,0,15,telcofusion.
 SB-625,B,T2,Arp,泰国,亚太,0,0,1,0,0,0,0,0,14,,1,1,1,,,
 SB-1083,B,T2,netstar.in,印度,南亚,0,0,1,0,0,0,0,0,13,netstar.in,1,1,1,ok,,STC-424DGGPM-280W
 SB-607,B,T2,WAN networking technology,伊拉克,中东,0,0,1,0,0,0,0,0,10,wannt.co,1,1,1,ok,MikroTik,STC-28DGGPM
-SB-928,B,T2,GOIP Global Services Pvt Ltd,印度,南亚,0,0,1,0,0,0,1,1,9,goip.in;syrotech.com,3,0,0,ok,"Grandstream,Ubiquiti",
-SB-514,B,T2,Brigit Group,南非,非洲,0,0,1,0,0,0,1,0,7,brigit.co.za,2,0,0,ok,,
-SB-1014,B,T2,Eleandro,巴西,拉美,0,0,1,0,0,0,1,0,6,,0,0,0,,,
-SB-488,B,T2,DTI Tecnologia Ltda,巴西,拉美,0,0,1,0,0,0,0,0,6,daiken.com.br,2,0,0,http_error,,
-SB-508,B,T2,solustecnologia.com,巴西,拉美,0,0,1,0,0,0,0,0,6,solustecnologia.com,1,0,0,ok,,
-SB-884,B,T2,Getec,巴西,拉美,0,0,1,0,0,0,0,0,6,getecseg.com.br,1,0,0,http_error,,
-SB-071,B,T2,isrcorp.co.il,以色列,中东,0,0,1,0,0,0,0,0,5,isrcorp.co.il,1,0,0,ok,,
-SB-580,B,T2,Three Lines Company,沙特阿拉伯,中东,0,0,1,0,0,0,0,0,5,3lines.com.sa,1,0,0,ok,,
-SB-1127,B,T2,throughput.co.za,南非,非洲,0,0,1,0,0,0,0,0,4,throughput.co.za,3,0,0,ok,Westermo,STI-280GE
-SB-746,B,T2,Anda Telecom,印度,南亚,0,0,1,0,0,0,1,0,4,andatelecom.com;andatelecomindia.com,5,0,0,ok,,STI-288GP
-SB-804,B,T2,Steve,印度尼西亚,亚太,0,0,1,0,0,0,1,0,4,,0,0,0,,,
-SB-921,B,T2,synchsoft.com.pk,巴基斯坦,南亚,0,0,1,0,0,0,0,0,4,synchsoft.com.pk,1,0,0,ok,,STC-424DGGPM-280W
-SB-164,B,T2,TESCOM COMPANY LIMITED,坦桑尼亚,非洲,0,0,1,0,0,0,0,0,1,tescom.co.tz,1,0,0,ok,,STC-28DGGPM
-SB-059,B,T2,Metalog International DMCC,阿联酋,中东,0,0,1,0,0,0,1,0,0,metalogint.com,1,0,0,ok,,
-SB-1029,B,T2,jentronics,马来西亚,亚太,0,0,1,0,0,0,0,0,0,,1,0,0,,,
-SB-1034,B,T2,stc Business,巴林,中东,0,0,1,0,0,0,0,0,0,,1,0,0,,,
-SB-1098,B,T2,3sti-technologies.com,尼日尔,非洲,0,0,1,0,0,0,0,0,0,3sti-technologies.com,2,0,0,ok,,STC-28DGGPM
-SB-115,B,T2,Vernetzen Pty Ltd,澳大利亚,亚太,0,0,1,0,0,0,0,0,0,vernetzen.com.au,1,0,0,ok,Ubiquiti,STI-288GP
+SB-928,B,T2,GOIP Global Services Pvt Ltd,印度,南亚,0,0,1,0,0,0,1,1,9,goip.in;syrotech.com,3,1,1,ok,"Grandstream,Ubiquiti",
+SB-514,B,T2,Brigit Group,南非,非洲,0,0,1,0,0,0,1,0,7,brigit.co.za,2,1,1,ok,,
+SB-1014,B,T2,Eleandro,巴西,拉美,0,0,1,0,0,0,1,0,6,,0,1,1,,,
+SB-488,B,T2,DTI Tecnologia Ltda,巴西,拉美,0,0,1,0,0,0,0,0,6,daiken.com.br,2,1,1,http_error,,
+SB-508,B,T2,solustecnologia.com,巴西,拉美,0,0,1,0,0,0,0,0,6,solustecnologia.com,1,1,1,ok,,
+SB-884,B,T2,Getec,巴西,拉美,0,0,1,0,0,0,0,0,6,getecseg.com.br,1,1,1,http_error,,
+SB-071,B,T2,isrcorp.co.il,以色列,中东,0,0,1,0,0,0,0,0,5,isrcorp.co.il,1,1,1,ok,,
+SB-1127,B,T2,throughput.co.za,南非,非洲,0,0,1,0,0,0,0,0,4,throughput.co.za,3,1,1,ok,Westermo,STI-280GE
+SB-746,B,T2,Anda Telecom,印度,南亚,0,0,1,0,0,0,1,0,4,andatelecom.com;andatelecomindia.com,5,1,1,ok,,STI-288GP
+SB-804,B,T2,Steve,印度尼西亚,亚太,0,0,1,0,0,0,1,0,4,,0,1,1,,,
+SB-921,B,T2,synchsoft.com.pk,巴基斯坦,南亚,0,0,1,0,0,0,0,0,4,synchsoft.com.pk,1,1,1,ok,,STC-424DGGPM-280W
+SB-164,B,T2,TESCOM COMPANY LIMITED,坦桑尼亚,非洲,0,0,1,0,0,0,0,0,1,tescom.co.tz,1,1,1,ok,,STC-28DGGPM
+SB-059,B,T2,Metalog International DMCC,阿联酋,中东,0,0,1,0,0,0,1,0,0,metalogint.com,1,1,1,ok,,
+SB-1029,B,T2,jentronics,马来西亚,亚太,0,0,1,0,0,0,0,0,0,,1,1,1,,,
+SB-1098,B,T2,3sti-technologies.com,尼日尔,非洲,0,0,1,0,0,0,0,0,0,3sti-technologies.com,2,1,1,ok,,STC-28DGGPM
+SB-115,B,T2,Vernetzen Pty Ltd,澳大利亚,亚太,0,0,1,0,0,0,0,0,0,vernetzen.com.au,1,1,1,ok,Ubiquiti,STI-288GP
 SB-1258,B,T2,tpnet.com.br,巴西,拉美,0,0,1,0,0,0,0,0,0,tpnet.com.br,1,0,0,ok,TP-Link,STC-424XGGM
 SB-163,B,T2,Negoh-Op,以色列,中东,0,0,1,0,0,0,0,0,0,negoh-op.com,1,0,0,ok,,
 SB-260,B,T2,arcanlibya.com,利比亚,非洲,0,0,1,1,0,0,1,0,0,arcanlibya.com,1,0,0,ok,,

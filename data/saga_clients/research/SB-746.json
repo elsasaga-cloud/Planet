@@ -1,0 +1,101 @@
+{
+ "code": "SB-746",
+ "name_official": "Anda Telecom Private Limited（诺伊达）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（andatelecom.com，快照 2026-10-21）",
+ "summary": "印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ATMIS（自有）",
+  "ONV",
+  "AOA"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "产品：管理 / 工业接入交换机 ATMIS-6408PI / 402G / 6208PI / 6208S / 6216PI / 6216S、光复用器、PDH、MC、E1；+91 120 410 9590",
+   "quote": "ACCESS SWITCHES Managed Industrial OPTICAL MULTIPLEXER PDH CONVERTERS Media Converters E1 Converters… models ATMIS-6408PI, ATMIS-402G, ATMIS-6208PI, ATMIS-6216PI",
+   "url": "https://andatelecom.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "对 EDFA 台式很有兴趣，画了应用图；从 ONV 买，也有其他国内的，也买 AOA 的；Director Harish Gupta 已有回复",
+   "quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Harish Gupta",
+   "title": "Director",
+   "email": "harish@andatelecom.com",
+   "phone": "+91 93502 57173",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Subhash",
+   "title": "（表内联系人）",
+   "email": "subhash@andatelecom.com",
+   "phone": "+91 99686 50294",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：自有型号 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "Anda Telecom Private Limited",
+  "founded": "（待核）",
+  "hq": "Noida, Uttar Pradesh, India",
+  "size": "中小型电信产品商（自有型号）",
+  "other": "从 ONV / AOA 等中国厂采购贴牌"
+ },
+ "business_lines": [
+  "电信级光传输（PDH、E1、光复用、EDFA 需求）",
+  "ATMIS 工业 / 管理接入交换机（贴牌）",
+  "MC / VoIP"
+ ],
+ "products_seen": [
+  {
+   "brand": "ATMIS",
+   "model": "ATMIS-6208PI",
+   "spec": "工业 2 SFP + 8 PoE 管理（推断，ONV 代工）",
+   "saga": "Saga STI-288GPM（$85.5 @30%）",
+   "url": "https://andatelecom.com/access-switches-industrial.php",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "ATMIS",
+   "model": "ATMIS-6216PI",
+   "spec": "工业 16 PoE",
+   "saga": "Saga STI-21616GP",
+   "url": "https://andatelecom.com/access-switches-industrial.php",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "品牌商（贴牌采购）",
+  "region": "印度"
+ },
+ "signals": [
+  "整条 ATMIS 工业线 = 中国代工 → Marvell 版可直接替换 ONV",
+  "Director 已回复过"
+ ],
+ "risks": [
+  "EDFA 为其兴趣点（Saga 无）",
+  "ONV 价格基准低；印度 BIS"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。"
+ },
+ "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?"
+}

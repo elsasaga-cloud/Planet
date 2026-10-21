@@ -1,0 +1,66 @@
+{
+ "code": "SB-071",
+ "name_official": "ISR Corp / ISR Tech（以色列）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（isrcorp.co.il，快照 2026-10-21）",
+ "summary": "以色列智慧出行（smart mobility）方案商 ISR Tech，Yukie Novick，需求工业 8 电口 **E-mark**（车载认证，Saga 无）；WA 5 次无实质回复。车载 / 交通类需求 Saga 不覆盖。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "ISR Tech smart mobility solutions",
+   "quote": "ISR Tech smart mobility solutions.",
+   "url": "https://isrcorp.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 8 电口 E-mark",
+   "quote": "兴趣：工业8电口E-mark",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Yukie Novick",
+   "title": "（表内联系人）",
+   "email": "novick@isrcorp.co.il",
+   "phone": "+972 50 850 1400",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：E-mark 需求不覆盖）"
+ },
+ "company_facts": {
+  "legal_name": "ISR Corp（待核）",
+  "founded": "",
+  "hq": "Israel",
+  "size": "小型",
+  "other": "智慧出行 / 车载"
+ },
+ "business_lines": [
+  "智慧出行 / 车载电子方案"
+ ],
+ "channels": {
+  "role": "方案商（车载）",
+  "region": "以色列"
+ },
+ "risks": [
+  "E-mark 车载认证 Saga 无 → 不能满足",
+  "WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "需求 E-mark 车载工业机（Saga 无认证）；无主推型。"
+ },
+ "email_hook": "（不主动发送）"
+}

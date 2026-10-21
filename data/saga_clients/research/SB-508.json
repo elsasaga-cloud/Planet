@@ -1,0 +1,69 @@
+{
+ "code": "SB-508",
+ "name_official": "Solus Tecnologia（巴西圣埃斯皮里图州）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（solustecnologia.com，快照 2026-10-21，葡语）",
+ "summary": "巴西 ES 州 20+ 年电子安防集成商（CFTV、报警、门禁、自动化；住宅 / 企业 / 政府项目），Eduardo；需求 2 光 6 PoE 大壳；WA 6 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "20+ 年电子安防：CFTV、报警、门禁、自动化，服务住宅、企业与公共机构（ES 州）",
+   "quote": "Mais de 20 anos em segurança eletrônica: CFTV, alarme, controle de acesso e automação para residências, empresas e órgãos públicos no ES",
+   "url": "https://solustecnologia.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2 光 6 POE 大壳",
+   "quote": "兴趣：2光6POE大壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Eduardo",
+   "title": "（表内联系人）",
+   "email": "eduardo@solustecnologia.com",
+   "phone": "+55 27 99874 0449",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Solus Tecnologia",
+  "founded": "约 2005（20+ 年）",
+  "hq": "Espírito Santo, Brazil",
+  "size": "中小型安防集成商",
+  "other": "政府项目（守界：按单核）"
+ },
+ "business_lines": [
+  "CFTV / 报警 / 门禁 / 自动化集成"
+ ],
+ "channels": {
+  "role": "安防集成商",
+  "region": "巴西 ES 州"
+ },
+ "signals": [
+  "明确口型 2 光 6 PoE（机架 / 大壳）"
+ ],
+ "risks": [
+  "巴西 ANATEL 认证与进口税",
+  "WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。"
+ },
+ "email_hook": "Eduardo, for the 2-fibre + 6-PoE rack unit — our closest is 2 SFP + 8 PoE L2+ managed (Marvell) at $84 EXW; is it for a government CFTV site (then I'll confirm what ANATEL paperwork you need)?"
+}

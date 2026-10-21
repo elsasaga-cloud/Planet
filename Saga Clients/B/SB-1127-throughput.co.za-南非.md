@@ -1,4 +1,5 @@
 # throughput.co.za
+**官方名称（调研核实）**：Throughput Technologies (Pty) Ltd（约翰内斯堡）
 
 > **评级 B**　|　南非　|　档案编号 `SB-1127`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1127
 rating: B
 rating_auto: B
+name_official: "Throughput Technologies (Pty) Ltd（约翰内斯堡）"
 score: 26
 country: 南非
 region: 非洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 4
 first_contact: 2025-06-27
 last_contact: 2025-11-04
-p1: STI-288DGGPM
+p1: STI-288GPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：南非的经销/集成（类型待核）；兴趣/在卖：工业FS；工业FS 这个公司处理很多其他找的公司 Atop    Westermo；提到的品牌：Westermo, FS
+- **是谁**：南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。（调研 2026-10-21；表内兴趣：工业FS；工业FS 这个公司处理很多其他找的公司 Atop    Westermo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-06-27 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,7 +67,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1127.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（throughput.co.za，快照 2026-10-21）
+- **是谁**：南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。
+- **在卖/在用品牌**：Westermo, Atop
+- **【官网快照】定位：帮助集成商与工业组织构建韧性工业网络；行业铁路轨旁、公用事业（含核电）、矿业、制造、智慧城市、消防安防、ITS；Westermo；+27 11 705 2497**
+  > Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure… Rail & Trackside Utilities [incl. Nuclear] Mining Manufacturing Smart Cities… Fire & Security Road Transportation & ITS
+  > 来源：https://throughput.co.za/（抓取 2026-10-21）
+- **【用户表】工业 FS；这个公司处理很多其他找的公司；Atop Westermo；Bob Petrie 发不过去**
+  > 兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Anton van der Westhuizen（）anton@throughput.co.za +27 83 659 3290〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 守界））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Throughput Technologies (Pty) Ltd |
+| 成立 | （待核） |
+| 总部/地址 | Johannesburg, South Africa |
+| 其他 | Westermo 南非伙伴 |
+
+- **业务线**：工业以太网 / 光纤网络方案（Westermo、Atop）；网络冗余、诊断与监控
+- **触达通道（公开）**：role: 工业网络分销 + 方案（服务集成商）；region: 南非 + 周边
+- **近况信号**：
+  - Westermo 高价位 → 需要低价工业线做矿业 / 制造的非关键节点
+  - 代表多家品牌（「处理很多其他找的公司」）→ 新品牌接纳度高
+- **风险/边界**：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）；联系人退信；WA 无回复
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。
+- **邮件切入句（英文）**：Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -114,6 +144,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Anton van der Westhuizen | — | anton@throughput.co.za / +27 83 659 3290 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Bob Petrie sales | — | sales@throughput.co.za / anton@throughput.co.za / +27836593290 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Anton Westhuizen | — | sales@throughput.co.za / anton@throughput.co.za / +27836593290 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
@@ -132,17 +163,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288GPM | 深挖对位：Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。 | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -152,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Westermo：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Westermo：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -176,30 +208,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Bob,
+Hi Anton,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Westermo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,0 +1,91 @@
+{
+ "code": "SB-115",
+ "name_official": "Vernetzen Pty Ltd（澳大利亚昆士兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（vernetzen.com，快照 2026-10-21）",
+ "summary": "澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "矿业工业网络与自动化方案；自有 Wi-Fi over Coax、PoE Injector (Fibre)、PoE Extender、Veto OT 套件、培训；+61 7 4276 6665；关键词 poe 43 / industrial 51 / fibre 23",
+   "quote": "Discover cutting-edge network and automation solutions for mining industries… Wi-Fi over Coax… PoE Injector (Fibre) PoE Extender… Veto Operational Technology Suite… High-Performance VP-CI-FCPI Fibre to PoE… VP-CI-PEXT Industrial Dual Port PoE+ Extender",
+   "url": "https://www.vernetzen.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "4 光 8 电、4 光 16 电、10G 光带 BT",
+   "quote": "兴趣：4光8电 4光16电 10G光带BT",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Luke King",
+   "title": "（负责人 / 技术）",
+   "email": "luke@vernetzen.com.au",
+   "phone": "+61 422 049 988",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：自有品牌 + 矿业）"
+ },
+ "company_facts": {
+  "legal_name": "Vernetzen Pty Ltd",
+  "founded": "（待核）",
+  "hq": "Queensland, Australia（+61 7 4276）",
+  "size": "小型工业网络方案商（自有产品）",
+  "other": "矿业客户；培训业务"
+ },
+ "business_lines": [
+  "矿业工业网络方案与培训",
+  "自有产品：Wi-Fi over Coax、光纤 PoE 注入器、PoE 延长器",
+  "OT 网络诊断工具"
+ ],
+ "products_seen": [
+  {
+   "brand": "Vernetzen",
+   "model": "VP-CI-FCPI",
+   "spec": "光纤转 PoE 注入器（工业）",
+   "saga": "Saga 无注入器（Q-32）；STI-111GP PoE MC 近似",
+   "url": "https://www.vernetzen.com/products/vp-ci-fcpi/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Vernetzen",
+   "model": "VP-CI-PEXT",
+   "spec": "工业双口 PoE+ 延长器",
+   "saga": "Saga 无延长器（Q-32）",
+   "url": "https://www.vernetzen.com/products/vp-ci-pext/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "方案商 + 自有品牌（矿业）",
+  "region": "澳大利亚（昆士兰矿区）"
+ },
+ "signals": [
+  "明确三口型：4 光 8 电 / 4 光 16 电 / 10G 光 + BT → Saga 工业高端线全部有对应",
+  "自有品牌小产品 → 贴 Vernetzen 标的工业交换机可行",
+  "矿业 = 非守界行业，预算高"
+ ],
+ "risks": [
+  "澳洲 RCM 认证（CE 基础可申报，需客户自认证）",
+  "WA 无回复；矿业项目周期长"
+ ],
+ "saga_fit": {
+  "p1": "STI-41616XGGPM-4BT",
+  "tier": 25,
+  "why": "「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。"
+ },
+ "email_hook": "Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?"
+}

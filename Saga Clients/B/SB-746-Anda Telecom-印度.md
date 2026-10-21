@@ -1,4 +1,5 @@
 # Anda Telecom
+**官方名称（调研核实）**：Anda Telecom Private Limited（诺伊达）
 
 > **评级 B**　|　印度　|　档案编号 `SB-746`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-746
 rating: B
 rating_auto: B
+name_official: "Anda Telecom Private Limited（诺伊达）"
 score: 33
 country: 印度
 region: 南亚
@@ -19,9 +21,9 @@ replies: 0
 followups: 4
 first_contact: 2025-02-14
 last_contact: 2025-10-02
-p1: STI-288GP
-price_tier: 25%
-research: pending
+p1: STI-288GPM
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的电信/ISP/网络运营；兴趣/在卖：对EDFA台式很有兴趣 画了一个应用图；从ONV买 也有其他国内的 也买AOA的；提到的品牌：ONV
+- **是谁**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。（调研 2026-10-21；表内兴趣：对EDFA台式很有兴趣 画了一个应用图；从ONV买 也有其他国内的 也买AOA的）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-02-14 → 2025-10-02）
-- **P1（下一步唯一主推）**：STI-288GP — 官网快照对位：工业/自动化词频 10、PoE 6 → DIN 8 PoE+ 2 SFP 起手；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-746.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（andatelecom.com，快照 2026-10-21）
+- **是谁**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。
+- **在卖/在用品牌**：ATMIS（自有）, ONV, AOA
+- **【官网快照】产品：管理 / 工业接入交换机 ATMIS-6408PI / 402G / 6208PI / 6208S / 6216PI / 6216S、光复用器、PDH、MC、E1；+91 120 410 9590**
+  > ACCESS SWITCHES Managed Industrial OPTICAL MULTIPLEXER PDH CONVERTERS Media Converters E1 Converters… models ATMIS-6408PI, ATMIS-402G, ATMIS-6208PI, ATMIS-6216PI
+  > 来源：https://andatelecom.com/（抓取 2026-10-21）
+- **【用户表】对 EDFA 台式很有兴趣，画了应用图；从 ONV 买，也有其他国内的，也买 AOA 的；Director Harish Gupta 已有回复**
+  > 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Harish Gupta（）harish@andatelecom.com +91 93502 57173〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Subhash（）subhash@andatelecom.com +91 99686 50294〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有型号 OEM））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Anda Telecom Private Limited |
+| 成立 | （待核） |
+| 总部/地址 | Noida, Uttar Pradesh, India |
+| 其他 | 从 ONV / AOA 等中国厂采购贴牌 |
+
+- **业务线**：电信级光传输（PDH、E1、光复用、EDFA 需求）；ATMIS 工业 / 管理接入交换机（贴牌）；MC / VoIP
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ATMIS | ATMIS-6208PI | 工业 2 SFP + 8 PoE 管理（推断，ONV 代工） | Saga STI-288GPM（$85.5 @30%） | https://andatelecom.com/access-switches-industrial.php（2026-10-21） |
+| ATMIS | ATMIS-6216PI | 工业 16 PoE | Saga STI-21616GP | https://andatelecom.com/access-switches-industrial.php（2026-10-21） |
+
+- **触达通道（公开）**：role: 品牌商（贴牌采购）；region: 印度
+- **近况信号**：
+  - 整条 ATMIS 工业线 = 中国代工 → Marvell 版可直接替换 ONV
+  - Director 已回复过
+- **风险/边界**：EDFA 为其兴趣点（Saga 无）；ONV 价格基准低；印度 BIS
+- **Saga 对位结论**：P1 STI-288GPM（30% 档）——对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。
+- **邮件切入句（英文）**：Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -107,7 +144,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Harish Gupta | — | harish@andatelecom.com / harish@andatelecomindia.com / +919350257173 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Harish Gupta | — | harish@andatelecom.com / +91 93502 57173 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Subhash | — | subhash@andatelecom.com / +91 99686 50294 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | harish@andatelecom.com | — | harish@andatelecom.com / harish@andatelecomindia.com / +919350257173 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -125,20 +163,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 官网快照对位：工业/自动化词频 10、PoE 6 → DIN 8 PoE+ 2 SFP 起手 | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（电信/ISP/网络运营） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。 | $85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（电信/ISP/网络运营） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -146,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -170,12 +208,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Harish,
+
+Picking up our earlier exchange about PoE / industrial switches. Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

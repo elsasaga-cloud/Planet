@@ -1,0 +1,62 @@
+{
+ "code": "SB-884",
+ "name_official": "Getec Segurança（巴西圣卡塔琳娜）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（getecseg.com.br；快照 HTTP 错误）",
+ "summary": "巴西 SC 州（+55 47）安防公司 Getec，技术负责人 Leonardo Sezerino，兴趣监控项目；WA 6 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "getecseg.com.br HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://getecseg.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Surveillance projects",
+   "quote": "兴趣：Surveillance projects",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Leonardo Sezerino",
+   "title": "Technical",
+   "email": "leonardo@getecseg.com.br",
+   "phone": "+55 47 9918 1838",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Getec Segurança（待核）",
+  "founded": "",
+  "hq": "Santa Catarina, Brazil",
+  "size": "小型安防",
+  "other": ""
+ },
+ "channels": {
+  "role": "安防集成商",
+  "region": "巴西 SC 州"
+ },
+ "risks": [
+  "巴西认证 / 税；WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "监控项目配套 8 PoE 管理机。"
+ },
+ "email_hook": "（低优先；若再询再报）"
+}

@@ -1,0 +1,48 @@
+{
+ "code": "SB-580",
+ "name_official": "3Lines Advanced Technologies Company（利雅得）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（3lines.com.sa，快照 2026-10-21）",
+ "summary": "沙特 2019 年成立的「愿景 2030」军民服务本地化公司（供应链与技术服务，AS9110/AS9120 航空维修资质，地面保障设备、电子诊断维修车间），采购 Eng. Mohamed Ismail 要堆叠交换机 + 整套配件、光模块 / MC，「其实是需要其他品牌的」；军工属性 → 守界降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "2019 年成立，对齐愿景 2030，本地化军事与民用服务；AS9110 / AS9120B；地面保障设备",
+   "quote": "3Lines Advanced Technologies Group was established in 2019 in alignment with Saudi Vision 2030 to localize military and civilian services within the Kingdom… AS9110, AS9120B… Ground Support Equipment",
+   "url": "https://www.3lines.com.sa/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "堆叠 switch + 整套配件；光模块 MC；其实是需要其他品牌的",
+   "quote": "兴趣：堆叠switch+整套配件;光模块 MC 其实是需要其他品牌的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Eng. Mohamed Ismail",
+   "title": "Procurement",
+   "email": "ismail@3lines.com.sa",
+   "phone": "+966 56 974 7353",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 军工守界降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "守界不供；需求亦为品牌原装。"
+ },
+ "email_hook": "（不主动发送）"
+}

@@ -1,0 +1,70 @@
+{
+ "code": "SB-488",
+ "name_official": "DTI Tecnologia Ltda / Daiken（巴西库里蒂巴）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（daiken.com.br；快照 HTTP 错误）",
+ "summary": "巴西库里蒂巴（+55 41）Daiken（DTI Tecnologia，2004 年起阿里国际站），技术负责人 Oscar Yamawaki，需求 **500 个 802.3af PoE injector**（Saga 价目无，Q-32）；WA 6 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "daiken.com.br HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://daiken.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "500 个 PoE 802.3af injector；2004 年加入国际站",
+   "quote": "兴趣：500个PoE 802.3af injector 2004年加入国际站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Oscar Yamawaki",
+   "title": "Technical",
+   "email": "oscar.yamawaki@daiken.com.br",
+   "phone": "+55 41 99917 5755",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "DTI Tecnologia Ltda（Daiken）",
+  "founded": "（待核）",
+  "hq": "Curitiba, PR, Brazil",
+  "size": "中小型（电子 / 自动化制造，推断）",
+  "other": "阿里国际站老买家"
+ },
+ "business_lines": [
+  "电子 / 自动化产品（推断）",
+  "PoE 供电配套采购"
+ ],
+ "channels": {
+  "role": "制造商采购（配套）",
+  "region": "巴西"
+ },
+ "signals": [
+  "500 pcs 单品量级（injector）"
+ ],
+ "risks": [
+  "PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）",
+  "巴西 ANATEL / 进口税"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "需求 PoE injector（价目缺口 Q-32）；交换机无询。"
+ },
+ "email_hook": "（待 Q-32 价目补齐后报 500 pcs injector）"
+}

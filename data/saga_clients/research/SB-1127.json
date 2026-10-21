@@ -1,0 +1,74 @@
+{
+ "code": "SB-1127",
+ "name_official": "Throughput Technologies (Pty) Ltd（约翰内斯堡）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（throughput.co.za，快照 2026-10-21）",
+ "summary": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Westermo",
+  "Atop"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：帮助集成商与工业组织构建韧性工业网络；行业铁路轨旁、公用事业（含核电）、矿业、制造、智慧城市、消防安防、ITS；Westermo；+27 11 705 2497",
+   "quote": "Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure… Rail & Trackside Utilities [incl. Nuclear] Mining Manufacturing Smart Cities… Fire & Security Road Transportation & ITS",
+   "url": "https://throughput.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS；这个公司处理很多其他找的公司；Atop Westermo；Bob Petrie 发不过去",
+   "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Anton van der Westhuizen",
+   "title": "Sales Manager",
+   "email": "anton@throughput.co.za",
+   "phone": "+27 83 659 3290",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 守界）"
+ },
+ "company_facts": {
+  "legal_name": "Throughput Technologies (Pty) Ltd",
+  "founded": "（待核）",
+  "hq": "Johannesburg, South Africa",
+  "size": "中小型工业网络分销 / 方案",
+  "other": "Westermo 南非伙伴"
+ },
+ "business_lines": [
+  "工业以太网 / 光纤网络方案（Westermo、Atop）",
+  "网络冗余、诊断与监控"
+ ],
+ "channels": {
+  "role": "工业网络分销 + 方案（服务集成商）",
+  "region": "南非 + 周边"
+ },
+ "signals": [
+  "Westermo 高价位 → 需要低价工业线做矿业 / 制造的非关键节点",
+  "代表多家品牌（「处理很多其他找的公司」）→ 新品牌接纳度高"
+ ],
+ "risks": [
+  "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
+  "联系人退信；WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。"
+ },
+ "email_hook": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
+}

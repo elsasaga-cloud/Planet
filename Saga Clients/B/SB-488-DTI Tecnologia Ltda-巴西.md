@@ -1,4 +1,5 @@
 # DTI Tecnologia Ltda
+**官方名称（调研核实）**：DTI Tecnologia Ltda / Daiken（巴西库里蒂巴）
 
 > **评级 B**　|　巴西　|　档案编号 `SB-488`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-488
 rating: B
 rating_auto: B
+name_official: "DTI Tecnologia Ltda / Daiken（巴西库里蒂巴）"
 score: 39
 country: 巴西
 region: 拉美
@@ -19,9 +21,9 @@ replies: 0
 followups: 6
 first_contact: 2025-01-06
 last_contact: 2025-10-06
-p1: STC-424DGGPM-280W
+p1: none
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴西的经销/集成（类型待核）；兴趣/在卖：500个PoE 802.3af  injector 2004年加入国际站
+- **是谁**：巴西库里蒂巴（+55 41）Daiken（DTI Tecnologia，2004 年起阿里国际站），技术负责人 Oscar Yamawaki，需求 **500 个 802.3af PoE injector**（Saga 价目无，Q-32）；WA 6 次无实质回复。（调研 2026-10-21；表内兴趣：500个PoE 802.3af  injector 2004年加入国际站）
 - **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-01-06 → 2025-10-06）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：— — 深挖对位：需求 PoE injector（价目缺口 Q-32）；交换机无询。；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,7 +57,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-488.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（daiken.com.br；快照 HTTP 错误）
+- **是谁**：巴西库里蒂巴（+55 41）Daiken（DTI Tecnologia，2004 年起阿里国际站），技术负责人 Oscar Yamawaki，需求 **500 个 802.3af PoE injector**（Saga 价目无，Q-32）；WA 6 次无实质回复。
+- **【官网快照】daiken.com.br HTTP 错误**
+  > status http_error
+  > 来源：http://daiken.com.br/（抓取 2026-10-21）
+- **【用户表】500 个 PoE 802.3af injector；2004 年加入国际站**
+  > 兴趣：500个PoE 802.3af injector 2004年加入国际站
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Oscar Yamawaki（）oscar.yamawaki@daiken.com.br +55 41 99917 5755〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | DTI Tecnologia Ltda（Daiken） |
+| 成立 | （待核） |
+| 总部/地址 | Curitiba, PR, Brazil |
+| 其他 | 阿里国际站老买家 |
+
+- **业务线**：电子 / 自动化产品（推断）；PoE 供电配套采购
+- **触达通道（公开）**：role: 制造商采购（配套）；region: 巴西
+- **近况信号**：
+  - 500 pcs 单品量级（injector）
+- **风险/边界**：PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）；巴西 ANATEL / 进口税
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——需求 PoE injector（价目缺口 Q-32）；交换机无询。
+- **邮件切入句（英文）**：（待 Q-32 价目补齐后报 500 pcs injector）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -96,7 +124,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Oscar Yamawaki | — | oscar@daiken.com.br / oscar.yamawaki@daiken.com.br / +5541999175755 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Oscar Yamawaki | — | oscar.yamawaki@daiken.com.br / +55 41 99917 5755 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -112,7 +140,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：需求 PoE injector（价目缺口 Q-32）；交换机无询。 | — | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -133,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -157,31 +185,26 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Oscar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. （待 Q-32 价目补齐后报 500 pcs injector）
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

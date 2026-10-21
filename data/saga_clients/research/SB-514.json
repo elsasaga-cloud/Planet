@@ -1,0 +1,69 @@
+{
+ "code": "SB-514",
+ "name_official": "Brigit Group（南非）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（brigit.co.za，快照 2026-10-21，内容空）",
+ "summary": "南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "brigit.co.za 首页无内容",
+   "quote": "status ok, empty",
+   "url": "https://brigit.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "没说啥具体内容，来自南非会联系，拿走了 2 本 catalog",
+   "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Deon van Zyl",
+   "title": "Managing Director",
+   "email": "deon@brigit.co.za",
+   "phone": "+27 83 459 1432",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Lyle Olivier",
+   "title": "Project Manager",
+   "email": "lyle@brigit.co.za",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照空页 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Brigit Group（待核）",
+  "founded": "",
+  "hq": "South Africa",
+  "size": "小型",
+  "other": "展会接触"
+ },
+ "channels": {
+  "role": "工程 / 项目（推断）",
+  "region": "南非"
+ },
+ "risks": [
+  "无具体需求；WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型；通用 8 PoE 管理机入口。"
+ },
+ "email_hook": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only."
+}

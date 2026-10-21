@@ -1,13 +1,16 @@
 # Three Lines Company
+**官方名称（调研核实）**：3Lines Advanced Technologies Company（利雅得）
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-580`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 C**　|　沙特阿拉伯　|　档案编号 `SB-580`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 5 次（2023-02-28 → 2025-10-02）　|　**所在清单**：E已回复、群发(阿里巴巴 自建站/自建站 最早一批)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-580
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # 守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机
+name_official: "3Lines Advanced Technologies Company（利雅得）"
 score: 37
 country: 沙特阿拉伯
 region: 中东
@@ -19,9 +22,9 @@ replies: 0
 followups: 5
 first_contact: 2023-02-28
 last_contact: 2025-10-02
-p1: STC-448DGGPM
-price_tier: 20%
-research: pending
+p1: none
+price_tier: 25%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,13 +32,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯的经销/集成（类型待核）；兴趣/在卖：堆叠switch+整套配件；光模块 MC  其实是需要其他品牌的
-- **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **是谁**：沙特 2019 年成立的「愿景 2030」军民服务本地化公司（供应链与技术服务，AS9110/AS9120 航空维修资质，地面保障设备、电子诊断维修车间），采购 Eng. Mohamed Ismail 要堆叠交换机 + 整套配件、光模块 / MC，「其实是需要其他品牌的」；军工属性 → 守界降 C。（调研 2026-10-21；表内兴趣：堆叠switch+整套配件；光模块 MC  其实是需要其他品牌的）
+- **为什么是 C 级**：**调研后定级 C**（守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机）；自动分级 B：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）；C 级细分：调研后定级 C
 - **历史互动**：WhatsApp 已加；推送 5 次（2023-02-28 → 2025-10-02）
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：守界不供；需求亦为品牌原装。）
+- **最大未知**：年走量与现供应商
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -54,7 +56,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-580.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（3lines.com.sa，快照 2026-10-21）
+- **是谁**：沙特 2019 年成立的「愿景 2030」军民服务本地化公司（供应链与技术服务，AS9110/AS9120 航空维修资质，地面保障设备、电子诊断维修车间），采购 Eng. Mohamed Ismail 要堆叠交换机 + 整套配件、光模块 / MC，「其实是需要其他品牌的」；军工属性 → 守界降 C。
+- **【官网快照】2019 年成立，对齐愿景 2030，本地化军事与民用服务；AS9110 / AS9120B；地面保障设备**
+  > 3Lines Advanced Technologies Group was established in 2019 in alignment with Saudi Vision 2030 to localize military and civilian services within the Kingdom… AS9110, AS9120B… Ground Support Equipment
+  > 来源：https://www.3lines.com.sa/en（抓取 2026-10-21）
+- **【用户表】堆叠 switch + 整套配件；光模块 MC；其实是需要其他品牌的**
+  > 兴趣：堆叠switch+整套配件;光模块 MC 其实是需要其他品牌的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Eng. Mohamed Ismail（）ismail@3lines.com.sa +966 56 974 7353〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份判断 → 军工守界降 C））
+
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——守界不供；需求亦为品牌原装。
+- **邮件切入句（英文）**：（不主动发送）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -103,7 +120,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eng. Mohamed Ismail | — | ismail@3lines.com.sa / +966569747353 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Eng. Mohamed Ismail | — | ismail@3lines.com.sa / +966 56 974 7353 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Mohamed Ismail | — | ismail@3lines.com.sa / +966569747353 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -117,33 +134,10 @@ updated: 2026-10-21
 | E Replied 2026.08.04.xlsx#总表:5 | 4 | www.3lines.com.sa | 沙特阿拉伯 | Eng. Mohamed Ismail<br>Procurement | 主动联系 | 堆叠switch+整套配件 | ismail@3lines.com.sa | Mob: +966 569747353<br>Tel: 011-2268022 Ext: 113  <br> <br>Office 203, 2nd floor Building no 2148, King Abdullah Branch Road, King Faisal Dist. Riyadh 13215, Saudi Arabia | 2 条 |
 | E/群发/阿里巴巴 自建站  08.12/自建站 最早一批.xlsx#总表:23 | 62 | Three Lines Company | 沙特阿拉伯 | Mr.Mohamed Ismail | 2022.9.12 | 光模块 MC <br>其实是需要其他品牌的 | ismail@3lines.com.sa<br>0569747253 加不上 |  | 3 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：WhatsApp 直达
-- **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：调研后定级 C。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-580,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -162,34 +156,15 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hi Mohamed,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -201,11 +176,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）；人工/调研定级 → C
 
 ---
 

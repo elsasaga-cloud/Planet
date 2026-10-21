@@ -1,0 +1,129 @@
+{
+ "code": "SB-928",
+ "name_official": "GO IP Global Services Pvt. Ltd.（Syrotech Networks，Noida）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（goip.in / syrotech.com，快照 2026-10-21）",
+ "summary": "印度诺伊达 **Syrotech** 品牌母公司（1994 年成立，201–500 人，500 家渠道伙伴覆盖 100 城，CRISIL 评级；自有品牌占多数销售），产品 OLT/ONT、MC、1G–400G SFP、PoE / L2+ 交换机、无线、CCTV、门禁道闸；Grandstream 分销；2026-04 新 CEO Pankaj Sodhi（表内「有回复了」）。表内：SFP BiDi 3 km 量很大（Saga 无）、**自己的 logo：MC / PoE / 工业 FS**，在卖丰润达工业 FS；BD Akshat Pandey / Naman Gupta。= 标准 OEM 30% 大客户候选。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Syrotech（自有）",
+  "Grandstream",
+  "丰润达（Fengrunda）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "Syrotech 为自有品牌（网络、光纤、门禁），30+ 年经验；Grandstream 分销",
+   "quote": "Syrotech, our own brand, delivers reliable and scalable solutions for networking, fiber and entrance automation… our distribution of Grandstream products",
+   "url": "https://www.goip.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "201–500 人，Noida，1994 年",
+   "quote": "Company size: 201-500 employees… Headquarters: Noida, UP… Founded: 1994",
+   "url": "https://in.linkedin.com/company/syrotech-networks",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "评级",
+   "claim": "500 渠道伙伴覆盖 100 城；自有品牌 Syrotech 占多数销售",
+   "quote": "widespread distribution network spanning 100 cities across India through its 500 channel partners. The company has its own brand named Syrotech, under which it records majority of its sales",
+   "url": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/GOIPGlobalServicesPrivateLimited_July%2015_%202025_RR_346107.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "2026-04-03 任命 Pankaj Sodhi 为 CEO",
+   "quote": "Noida, April 3, 2026: GOIP Global Services Pvt. Ltd., under its flagship brand Syrotech, has announced the appointment of Mr. Pankaj Sodhi as its new Chief Executive Officer",
+   "url": "https://www.syrotech.com/post/goip-global-services-syrotech-networks-appoints-pankaj-sodhi-as-chief-executive-officer",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "产品：OLT/ONT、MC、1G–400G SFP、管理 / 非管理 PoE、L2/L3 交换机、AP、CCTV、道闸",
+   "quote": "OLT, ONT, and media converters… SFP modules from 1G to 400G… managed and unmanaged PoE switches, L2/L3 network switches… CCTV… boom barriers",
+   "url": "https://rocketreach.co/syrotech-networks-profile_b6a4a1b3c878eeea",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP bidi 3KM 数量很大；2023 加入国际站；Simon 之前跟过；自己的 logo MC POE 工业 FS SFP；在卖丰润达的工业 FS",
+   "quote": "兴趣：SFP bidi 3KM 数量很大… 自己的logo MC POE 工业FS SFP 周边产品 在卖丰润达的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Akshat Pandey",
+   "title": "BD Manager",
+   "email": "akshat.pandey@goip.in",
+   "phone": "+91 89202 45569",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Naman Gupta",
+   "title": "BD",
+   "email": "naman.gupta@goip.in",
+   "phone": "+91 98702 95096",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Pankaj Sodhi",
+   "title": "CEO（2026-04 起；表内「有回复了」）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.syrotech.com/post/goip-global-services-syrotech-networks-appoints-pankaj-sodhi-as-chief-executive-officer"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选）"
+ },
+ "company_facts": {
+  "legal_name": "GO IP Global Services Private Limited",
+  "founded": "1994（Syrotech 品牌 2014）",
+  "hq": "D-206, Sector 63, Noida, Uttar Pradesh, India",
+  "size": "201–500 人；500 渠道伙伴",
+  "other": "CRISIL 评级；Make in India 组装"
+ },
+ "business_lines": [
+  "FTTx（OLT/ONT）与光模块（自有品牌）",
+  "PoE / L2+ 交换机、工业交换机（贴牌采购）",
+  "无线、CCTV、门禁道闸"
+ ],
+ "products_seen": [
+  {
+   "brand": "Syrotech",
+   "model": "工业 FS（丰润达代工）",
+   "spec": "工业 PoE / 光纤交换机",
+   "saga": "Saga STI-288GP / STI-288GPM 同规格替换",
+   "url": "https://www.syrotech.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购中国工业 / PoE 交换机）",
+  "region": "印度全国 500 渠道"
+ },
+ "signals": [
+  "自有品牌 + 明确要贴 logo 的 MC / PoE / 工业 FS → OEM 30% 量级客户（A 候选，待实质回复后升级）",
+  "现供应商丰润达 → Marvell 管理型 / 工业线可差异化",
+  "新 CEO 上任（2026-04）= 供应链重审窗口"
+ ],
+ "risks": [
+  "规模大、压价强、BIS 认证与 Make in India 本地组装要求（可能要 SKD）",
+  "SFP BiDi 大量需求 Saga 无（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "Syrotech 工业 FS 线替换 / 补充 → STI-288GPM（管理型 2 SFP + 8 PoE，$85.5 @30%）贴 Syrotech 标；非管理 STI-288GP；商用 PoE STC-28DGGPM。"
+ },
+ "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?"
+}
