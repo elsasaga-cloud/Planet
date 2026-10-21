@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。（调研 2026-10-21；表内兴趣：需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公司信息）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书；$18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书；$18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -106,8 +106,8 @@ updated: 2026-10-21
   - 车载 IP 摄像转型需 5/8 口 DC 宽压交换机（DC 8–36 V 车电 → 需 12–58 V DC 输入 + E-mark）；自有品牌 → 可贴 SURE 标
   - 18 次跟进说明重视；对方曾看 E-mark 证书 → 下一步直接给 E-mark 报告与振动/温度数据
 - **风险/边界**：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复
-- **Saga 对位结论**：P1 STI-050GE（30% 档）——OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书
-- **邮件切入句（英文）**：Callum, for the bus kits: the 5-port gigabit DIN switch (12–58 V DC, −40 to +75 °C, E-mark report available) is $26.0 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
+- **Saga 对位结论**：P1 STI-050GE（30% 档）——OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书
+- **邮件切入句（英文）**：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,7 +168,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-050GE | 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书 | $18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| **P1** | STI-050GE | 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书 | $18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -222,7 +222,7 @@ updated: 2026-10-21
 ```text
 Hi Callum,
 
-Picking up our earlier exchange about PoE / industrial switches. Callum, for the bus kits: the 5-port gigabit DIN switch (12–58 V DC, −40 to +75 °C, E-mark report available) is $26.0 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
+Picking up our earlier exchange about PoE / industrial switches. Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

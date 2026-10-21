@@ -140043,7 +140043,7 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
-"code": "SB-1330",
+"code": "SB-1332",
 "grade": "B"
 },
 {
@@ -140177,7 +140177,7 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
-"code": "SB-1331",
+"code": "SB-1333",
 "grade": "B"
 },
 {
@@ -158740,7 +158740,7 @@
 "saga_fit": {
 "p1": "STI-050GE",
 "tier": 25,
-"why": "（不推进）如回复：STI-050GE（DIN 5 GE 非管理，$25.0）满足其 5 口工业小尺寸需求"
+"why": "（不推进）如回复：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V，$17.8）满足其 5 口工业小尺寸需求"
 },
 "email_hook": "（不主动发送）"
 }
@@ -178469,9 +178469,9 @@
 "saga_fit": {
 "p1": "STI-050GE",
 "tier": 30,
-"why": "OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书"
+"why": "OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书"
 },
-"email_hook": "Callum, for the bus kits: the 5-port gigabit DIN switch (12–58 V DC, −40 to +75 °C, E-mark report available) is $26.0 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
+"email_hook": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
 }
 },
 {
@@ -205504,7 +205504,7 @@
 "saga_fit": {
 "p1": "STI-054GP",
 "tier": 30,
-"why": "OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE STI-050GE（$26.0）"
+"why": "OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）"
 },
 "email_hook": "Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?"
 }
@@ -255582,9 +255582,9 @@
 "saga_fit": {
 "p1": "STI-050GE",
 "tier": 20,
-"why": "批发 20% 档：STI-050GE（DIN 5 GE，$24.0）与 STI-144GP（$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜"
+"why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜"
 },
-"email_hook": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) is $24.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?"
+"email_hook": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?"
 }
 },
 {
@@ -683240,272 +683240,6 @@
 "grade": "C"
 },
 {
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "土耳其",
-"iso": "TR",
-"region": "土耳其",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [],
-"interests": [
-"Evelyn加了微信，外国人，中文很好，说有工业级供应商，供应商在郑州，但是这个供应商打算在土耳其开工厂，所以要找新的供应商"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"ISAF2025展会",
-"表:Evelyn"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/A/2025土耳其ISAF客户.xlsx",
-"sheet": "Evelyn",
-"row": 3,
-"no": "2",
-"tags": [
-"ISAF2025展会",
-"表:Evelyn"
-],
-"company": "",
-"country": "Turkey",
-"person": "",
-"from": "",
-"interest": "Evelyn加了微信，外国人，中文很好，说有工业级供应商，供应商在郑州，但是这个供应商打算在土耳其开工厂，所以要找新的供应商",
-"contact": "",
-"mobile": "Wechat:selimkalaka",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -12,
-"reasons": [
-"+12 ISAF 2025 展会面对面名片",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"+8 区域 土耳其/土耳其"
-],
-"c_sub": "无联系方式",
-"status": "名单内·未触达",
-"code": "SC-5127",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "土耳其",
-"iso": "TR",
-"region": "土耳其",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [
-"Fatih A"
-],
-"froms": [],
-"interests": [
-"Evelyn加了Wechat,主要要工业级2光8带POE, 不带网管， 要规格书和价格"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"ISAF2025展会",
-"表:Evelyn"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/A/2025土耳其ISAF客户.xlsx",
-"sheet": "Evelyn",
-"row": 6,
-"no": "5",
-"tags": [
-"ISAF2025展会",
-"表:Evelyn"
-],
-"company": "",
-"country": "",
-"person": "",
-"from": "",
-"interest": "Evelyn加了Wechat,主要要工业级2光8带POE, 不带网管， 要规格书和价格",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "Fatih A",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -12,
-"reasons": [
-"+12 ISAF 2025 展会面对面名片",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"+8 区域 土耳其/土耳其"
-],
-"c_sub": "无联系方式",
-"status": "名单内·未触达",
-"code": "SC-5128",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "土耳其",
-"iso": "TR",
-"region": "土耳其",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [],
-"interests": [
-"Evelyn加微信，2.5G交换机，家用的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"ISAF2025展会",
-"表:Evelyn"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/A/2025土耳其ISAF客户.xlsx",
-"sheet": "Evelyn",
-"row": 20,
-"no": "18",
-"tags": [
-"ISAF2025展会",
-"表:Evelyn"
-],
-"company": "",
-"country": "Turkey",
-"person": "",
-"from": "",
-"interest": "Evelyn加微信，2.5G交换机，家用的",
-"contact": "",
-"mobile": "wechat:TeT529",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -12,
-"reasons": [
-"+12 ISAF 2025 展会面对面名片",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"+8 区域 土耳其/土耳其"
-],
-"c_sub": "无联系方式",
-"status": "名单内·未触达",
-"code": "SC-5129",
-"grade": "C"
-},
-{
 "name": "dwdm.me",
 "name_src": "domain",
 "names": [],
@@ -683600,6 +683334,1173 @@
 "c_sub": "综合分低",
 "status": "名单内·未触达",
 "code": "SC-513",
+"grade": "C"
+},
+{
+"name": "e-server.com.ua",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"e-server.com.ua"
+],
+"urls": [
+"https://e-server.com.ua/sovety/mediakonvertery-zachem-nuzhny-i-kak-rabotajut"
+],
+"platform_links": [],
+"emails": [
+"info@e-server.com.ua"
+],
+"corp_emails": [
+"info@e-server.com.ua"
+],
+"phones": [],
+"persons": [
+"销售平台"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"MC switch 很多牌子"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 134,
+"no": "133",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://e-server.com.ua/sovety/mediakonvertery-zachem-nuzhny-i-kak-rabotajut",
+"country": "俄罗斯",
+"person": "销售平台",
+"from": "谷歌",
+"interest": "MC switch 很多牌子",
+"contact": "info@e-server.com.ua",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-514",
+"grade": "C"
+},
+{
+"name": "edgeoptic.com",
+"name_src": "domain",
+"names": [],
+"country": "拉脱维亚",
+"iso": "LV",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"edgeoptic.com"
+],
+"urls": [
+"https://edgeoptic.com/product/"
+],
+"platform_links": [],
+"emails": [
+"sales@edgeoptic.com"
+],
+"corp_emails": [
+"sales@edgeoptic.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"韦工给我的"
+],
+"interests": [
+"彩光模块"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"DWDM线索"
+],
+"flags": {},
+"fit": {
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/DWDM CENTEC_ALAN 08.13.xlsx",
+"sheet": "总表",
+"row": 140,
+"no": "139",
+"tags": [
+"DWDM线索"
+],
+"company": "https://edgeoptic.com/product/",
+"country": "拉脱维亚",
+"person": "",
+"from": "韦工给我的",
+"interest": "彩光模块",
+"contact": "sales@edgeoptic.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）",
+"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/拉脱维亚"
+],
+"c_sub": "综合分低",
+"status": "名单内·未触达",
+"code": "SC-515",
+"grade": "C"
+},
+{
+"name": "einco.es",
+"name_src": "domain",
+"names": [],
+"country": "西班牙",
+"iso": "ES",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"einco.es"
+],
+"urls": [
+"https://www.einco.es/switch/32998-digitus-dn-650108-conmutador-poe-ethernet-de-alta-velocidad-industrial-de-8-puertos.html"
+],
+"platform_links": [],
+"emails": [
+"comercial@einco.es",
+"admin@einco.es",
+"sat@einco.es"
+],
+"corp_emails": [
+"comercial@einco.es",
+"admin@einco.es",
+"sat@einco.es"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [],
+"interests": [
+"Digitus"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:Spain"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "Spain",
+"row": 8,
+"no": "7",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:Spain"
+],
+"company": "https://www.einco.es/switch/32998-digitus-dn-650108-conmutador-poe-ethernet-de-alta-velocidad-industrial-de-8-puertos.html",
+"country": "西班牙",
+"person": "质量一般",
+"from": "",
+"interest": "Digitus",
+"contact": "comercial@einco.es\nadmin@einco.es\nsat@einco.es",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/西班牙"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-516",
+"grade": "C"
+},
+{
+"name": "electrostandards.com",
+"name_src": "domain",
+"names": [],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"electrostandards.com"
+],
+"urls": [
+"https://www.electrostandards.com/network-switch-product-lines/"
+],
+"platform_links": [],
+"emails": [
+"eslab@electrostandards.com"
+],
+"corp_emails": [
+"eslab@electrostandards.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"network switch  Optical switch\n外壳看着有点怪",
+"bypass switch converter等"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"DWDM线索",
+"群发(筛选后质量一般的_群发)",
+"表:US"
+],
+"flags": {},
+"fit": {
+"switch": 2
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/DWDM CENTEC_ALAN 08.13.xlsx",
+"sheet": "总表",
+"row": 182,
+"no": "181",
+"tags": [
+"DWDM线索"
+],
+"company": "https://www.electrostandards.com/network-switch-product-lines/",
+"country": "美国",
+"person": "",
+"from": "谷歌",
+"interest": "network switch  Optical switch\n外壳看着有点怪",
+"contact": "eslab@electrostandards.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+},
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "US",
+"row": 48,
+"no": "47",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:US"
+],
+"company": "https://www.electrostandards.com/network-switch-product-lines/",
+"country": "美国",
+"person": "",
+"from": "谷歌",
+"interest": "bypass switch converter等",
+"contact": "eslab@electrostandards.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [
+"d:electrostandards.com",
+"e:eslab@electrostandards.com"
+],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）",
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-517",
+"grade": "C"
+},
+{
+"name": "elkome.com",
+"name_src": "domain",
+"names": [],
+"country": "芬兰",
+"iso": "FI",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"elkome.com"
+],
+"urls": [
+"https://shop.elkome.com/en/network-devices"
+],
+"platform_links": [],
+"emails": [
+"info@elkome.com"
+],
+"corp_emails": [
+"info@elkome.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [],
+"interests": [
+"很多牌子的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(杂)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/杂  08.13.xlsx",
+"sheet": "总表",
+"row": 19,
+"no": "",
+"tags": [
+"群发(杂)"
+],
+"company": "https://shop.elkome.com/en/network-devices",
+"country": "芬兰",
+"person": "",
+"from": "",
+"interest": "很多牌子的",
+"contact": "info@elkome.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/芬兰"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-518",
+"grade": "C"
+},
+{
+"name": "elmark.com.pl",
+"name_src": "domain",
+"names": [],
+"country": "波兰",
+"iso": "PL",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"elmark.com.pl"
+],
+"urls": [
+"https://support.elmark.com.pl/"
+],
+"platform_links": [],
+"emails": [
+"elmark@elmark.com.pl"
+],
+"corp_emails": [
+"elmark@elmark.com.pl"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [],
+"interests": [
+"很多牌子"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:PL"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "PL",
+"row": 29,
+"no": "28",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:PL"
+],
+"company": "https://support.elmark.com.pl/",
+"country": "波兰",
+"person": "质量一般",
+"from": "",
+"interest": "很多牌子",
+"contact": "elmark@elmark.com.pl",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/波兰"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-519",
+"grade": "C"
+},
+{
+"name": "emacs.es",
+"name_src": "domain",
+"names": [],
+"country": "西班牙",
+"iso": "ES",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"emacs.es"
+],
+"urls": [
+"https://store.emacs.es/products/igs-801m"
+],
+"platform_links": [],
+"emails": [
+"info@emacs.es"
+],
+"corp_emails": [
+"info@emacs.es"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [],
+"interests": [
+"很多牌子的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:Spain"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "Spain",
+"row": 7,
+"no": "6",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:Spain"
+],
+"company": "https://store.emacs.es/products/igs-801m",
+"country": "西班牙",
+"person": "质量一般",
+"from": "",
+"interest": "很多牌子的",
+"contact": "info@emacs.es",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/西班牙"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-520",
+"grade": "C"
+},
+{
+"name": "emerald.com.vn",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"emerald.com.vn"
+],
+"urls": [
+"https://www.emerald.com.vn/switch/48-port-gigabit-poe-managed-switch-dell-n1548p"
+],
+"platform_links": [],
+"emails": [
+"info@emerald.com.vn"
+],
+"corp_emails": [
+"info@emerald.com.vn"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"switch"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 55,
+"no": "57",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "https://www.emerald.com.vn/switch/48-port-gigabit-poe-managed-switch-dell-n1548p",
+"country": "越南",
+"person": "",
+"from": "谷歌",
+"interest": "switch",
+"contact": "INFO@EMERALD.COM.VN",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-521",
+"grade": "C"
+},
+{
+"name": "enertronic.es",
+"name_src": "domain",
+"names": [],
+"country": "西班牙",
+"iso": "ES",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"enertronic.es"
+],
+"urls": [
+"https://enertronic.es/en/"
+],
+"platform_links": [],
+"emails": [
+"info@enertronic.es"
+],
+"corp_emails": [
+"info@enertronic.es"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [],
+"interests": [
+"很多牌子的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:Spain"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "Spain",
+"row": 10,
+"no": "9",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:Spain"
+],
+"company": "https://enertronic.es/en/",
+"country": "西班牙",
+"person": "",
+"from": "",
+"interest": "很多牌子的",
+"contact": "info@enertronic.es",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/西班牙"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-522",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "土耳其",
+"iso": "TR",
+"region": "土耳其",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [],
+"interests": [
+"Evelyn加了微信，外国人，中文很好，说有工业级供应商，供应商在郑州，但是这个供应商打算在土耳其开工厂，所以要找新的供应商"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"ISAF2025展会",
+"表:Evelyn"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/A/2025土耳其ISAF客户.xlsx",
+"sheet": "Evelyn",
+"row": 3,
+"no": "2",
+"tags": [
+"ISAF2025展会",
+"表:Evelyn"
+],
+"company": "",
+"country": "Turkey",
+"person": "",
+"from": "",
+"interest": "Evelyn加了微信，外国人，中文很好，说有工业级供应商，供应商在郑州，但是这个供应商打算在土耳其开工厂，所以要找新的供应商",
+"contact": "",
+"mobile": "Wechat:selimkalaka",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -12,
+"reasons": [
+"+12 ISAF 2025 展会面对面名片",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"+8 区域 土耳其/土耳其"
+],
+"c_sub": "无联系方式",
+"status": "名单内·未触达",
+"code": "SC-5223",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "土耳其",
+"iso": "TR",
+"region": "土耳其",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [
+"Fatih A"
+],
+"froms": [],
+"interests": [
+"Evelyn加了Wechat,主要要工业级2光8带POE, 不带网管， 要规格书和价格"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"ISAF2025展会",
+"表:Evelyn"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/A/2025土耳其ISAF客户.xlsx",
+"sheet": "Evelyn",
+"row": 6,
+"no": "5",
+"tags": [
+"ISAF2025展会",
+"表:Evelyn"
+],
+"company": "",
+"country": "",
+"person": "",
+"from": "",
+"interest": "Evelyn加了Wechat,主要要工业级2光8带POE, 不带网管， 要规格书和价格",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "Fatih A",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -12,
+"reasons": [
+"+12 ISAF 2025 展会面对面名片",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"+8 区域 土耳其/土耳其"
+],
+"c_sub": "无联系方式",
+"status": "名单内·未触达",
+"code": "SC-5224",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "土耳其",
+"iso": "TR",
+"region": "土耳其",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [],
+"interests": [
+"Evelyn加微信，2.5G交换机，家用的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"ISAF2025展会",
+"表:Evelyn"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/A/2025土耳其ISAF客户.xlsx",
+"sheet": "Evelyn",
+"row": 20,
+"no": "18",
+"tags": [
+"ISAF2025展会",
+"表:Evelyn"
+],
+"company": "",
+"country": "Turkey",
+"person": "",
+"from": "",
+"interest": "Evelyn加微信，2.5G交换机，家用的",
+"contact": "",
+"mobile": "wechat:TeT529",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -12,
+"reasons": [
+"+12 ISAF 2025 展会面对面名片",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"+8 区域 土耳其/土耳其"
+],
+"c_sub": "无联系方式",
+"status": "名单内·未触达",
+"code": "SC-5225",
 "grade": "C"
 },
 {
@@ -683708,7 +684609,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "WhatsApp 已加·未回复",
-"code": "SC-5130",
+"code": "SC-5226",
 "grade": "C"
 },
 {
@@ -683799,7 +684700,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5131",
+"code": "SC-5227",
 "grade": "C"
 },
 {
@@ -683963,7 +684864,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 7 次·未回复",
-"code": "SC-5132",
+"code": "SC-5228",
 "grade": "C"
 },
 {
@@ -684127,7 +685028,100 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 7 次·未回复",
-"code": "SC-5133",
+"code": "SC-5229",
+"grade": "C"
+},
+{
+"name": "engineeredalarm.com",
+"name_src": "domain",
+"names": [],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"engineeredalarm.com",
+"engalarm.com"
+],
+"urls": [
+"https://engineeredalarm.com/"
+],
+"platform_links": [],
+"emails": [
+"info@engalarm.com"
+],
+"corp_emails": [
+"info@engalarm.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Alarm)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Alarm 08.24.xlsx",
+"sheet": "总表",
+"row": 15,
+"no": "14",
+"tags": [
+"群发(Alarm)"
+],
+"company": "https://engineeredalarm.com/",
+"country": "美国",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "info@engalarm.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-523",
 "grade": "C"
 },
 {
@@ -684212,7 +685206,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5134",
+"code": "SC-5230",
 "grade": "C"
 },
 {
@@ -684412,7 +685406,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "回复暂无需求",
-"code": "SC-5135",
+"code": "SC-5231",
 "grade": "C"
 },
 {
@@ -684493,7 +685487,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5136",
+"code": "SC-5232",
 "grade": "C"
 },
 {
@@ -684574,7 +685568,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5137",
+"code": "SC-5233",
 "grade": "C"
 },
 {
@@ -684655,7 +685649,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5138",
+"code": "SC-5234",
 "grade": "C"
 },
 {
@@ -684736,107 +685730,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5139",
-"grade": "C"
-},
-{
-"name": "e-server.com.ua",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"e-server.com.ua"
-],
-"urls": [
-"https://e-server.com.ua/sovety/mediakonvertery-zachem-nuzhny-i-kak-rabotajut"
-],
-"platform_links": [],
-"emails": [
-"info@e-server.com.ua"
-],
-"corp_emails": [
-"info@e-server.com.ua"
-],
-"phones": [],
-"persons": [
-"销售平台"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"MC switch 很多牌子"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 134,
-"no": "133",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://e-server.com.ua/sovety/mediakonvertery-zachem-nuzhny-i-kak-rabotajut",
-"country": "俄罗斯",
-"person": "销售平台",
-"from": "谷歌",
-"interest": "MC switch 很多牌子",
-"contact": "info@e-server.com.ua",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-514",
+"code": "SC-5235",
 "grade": "C"
 },
 {
@@ -684917,7 +685811,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5140",
+"code": "SC-5236",
 "grade": "C"
 },
 {
@@ -684998,7 +685892,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5141",
+"code": "SC-5237",
 "grade": "C"
 },
 {
@@ -685079,7 +685973,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5142",
+"code": "SC-5238",
 "grade": "C"
 },
 {
@@ -685160,7 +686054,103 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5143",
+"code": "SC-5239",
+"grade": "C"
+},
+{
+"name": "ergate.cz",
+"name_src": "domain",
+"names": [],
+"country": "捷克",
+"iso": "CZ",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"ergate.cz"
+],
+"urls": [
+"https://www.ergate.cz/prumyslova-komunikace/prumyslove-ethernet-switche/"
+],
+"platform_links": [],
+"emails": [
+"office@ergate.cz"
+],
+"corp_emails": [
+"office@ergate.cz"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [],
+"interests": [
+"销售平台"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:CZ"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "CZ",
+"row": 2,
+"no": "1",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:CZ"
+],
+"company": "https://www.ergate.cz/prumyslova-komunikace/prumyslove-ethernet-switche/",
+"country": "捷克",
+"person": "质量一般",
+"from": "",
+"interest": "销售平台",
+"contact": "office@ergate.cz",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/捷克"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-524",
 "grade": "C"
 },
 {
@@ -685241,7 +686231,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5144",
+"code": "SC-5240",
 "grade": "C"
 },
 {
@@ -685322,7 +686312,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5145",
+"code": "SC-5241",
 "grade": "C"
 },
 {
@@ -685403,7 +686393,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5146",
+"code": "SC-5242",
 "grade": "C"
 },
 {
@@ -685484,7 +686474,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5147",
+"code": "SC-5243",
 "grade": "C"
 },
 {
@@ -685565,7 +686555,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5148",
+"code": "SC-5244",
 "grade": "C"
 },
 {
@@ -685646,104 +686636,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5149",
-"grade": "C"
-},
-{
-"name": "edgeoptic.com",
-"name_src": "domain",
-"names": [],
-"country": "拉脱维亚",
-"iso": "LV",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"edgeoptic.com"
-],
-"urls": [
-"https://edgeoptic.com/product/"
-],
-"platform_links": [],
-"emails": [
-"sales@edgeoptic.com"
-],
-"corp_emails": [
-"sales@edgeoptic.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"韦工给我的"
-],
-"interests": [
-"彩光模块"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"DWDM线索"
-],
-"flags": {},
-"fit": {
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/DWDM CENTEC_ALAN 08.13.xlsx",
-"sheet": "总表",
-"row": 140,
-"no": "139",
-"tags": [
-"DWDM线索"
-],
-"company": "https://edgeoptic.com/product/",
-"country": "拉脱维亚",
-"person": "",
-"from": "韦工给我的",
-"interest": "彩光模块",
-"contact": "sales@edgeoptic.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/拉脱维亚"
-],
-"c_sub": "综合分低",
-"status": "名单内·未触达",
-"code": "SC-515",
+"code": "SC-5245",
 "grade": "C"
 },
 {
@@ -685824,7 +686717,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5150",
+"code": "SC-5246",
 "grade": "C"
 },
 {
@@ -685905,7 +686798,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5151",
+"code": "SC-5247",
 "grade": "C"
 },
 {
@@ -685986,7 +686879,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5152",
+"code": "SC-5248",
 "grade": "C"
 },
 {
@@ -686067,7 +686960,106 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5153",
+"code": "SC-5249",
+"grade": "C"
+},
+{
+"name": "esocctv.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"esocctv.ru"
+],
+"urls": [
+"https://esocctv.ru/products/katalog/setevoe-oborudovanie/"
+],
+"platform_links": [],
+"emails": [
+"info@esocctv.ru"
+],
+"corp_emails": [
+"info@esocctv.ru"
+],
+"phones": [],
+"persons": [
+"质量不错"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE POE配件\n主要是ESVI这个牌子 没查到"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 35,
+"no": "34",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://esocctv.ru/products/katalog/setevoe-oborudovanie/",
+"country": "俄罗斯",
+"person": "质量不错",
+"from": "谷歌",
+"interest": "商业POE POE配件\n主要是ESVI这个牌子 没查到",
+"contact": "info@esocctv.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-525",
 "grade": "C"
 },
 {
@@ -686148,7 +687140,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5154",
+"code": "SC-5250",
 "grade": "C"
 },
 {
@@ -686229,7 +687221,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5155",
+"code": "SC-5251",
 "grade": "C"
 },
 {
@@ -686310,7 +687302,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5156",
+"code": "SC-5252",
 "grade": "C"
 },
 {
@@ -686391,7 +687383,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5157",
+"code": "SC-5253",
 "grade": "C"
 },
 {
@@ -686480,7 +687472,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5158",
+"code": "SC-5254",
 "grade": "C"
 },
 {
@@ -686561,107 +687553,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5159",
-"grade": "C"
-},
-{
-"name": "einco.es",
-"name_src": "domain",
-"names": [],
-"country": "西班牙",
-"iso": "ES",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"einco.es"
-],
-"urls": [
-"https://www.einco.es/switch/32998-digitus-dn-650108-conmutador-poe-ethernet-de-alta-velocidad-industrial-de-8-puertos.html"
-],
-"platform_links": [],
-"emails": [
-"comercial@einco.es",
-"admin@einco.es",
-"sat@einco.es"
-],
-"corp_emails": [
-"comercial@einco.es",
-"admin@einco.es",
-"sat@einco.es"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [],
-"interests": [
-"Digitus"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:Spain"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "Spain",
-"row": 8,
-"no": "7",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:Spain"
-],
-"company": "https://www.einco.es/switch/32998-digitus-dn-650108-conmutador-poe-ethernet-de-alta-velocidad-industrial-de-8-puertos.html",
-"country": "西班牙",
-"person": "质量一般",
-"from": "",
-"interest": "Digitus",
-"contact": "comercial@einco.es\nadmin@einco.es\nsat@einco.es",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/西班牙"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-516",
+"code": "SC-5255",
 "grade": "C"
 },
 {
@@ -686742,7 +687634,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5160",
+"code": "SC-5256",
 "grade": "C"
 },
 {
@@ -686929,7 +687821,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5161",
+"code": "SC-5257",
 "grade": "C"
 },
 {
@@ -687116,7 +688008,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5162",
+"code": "SC-5258",
 "grade": "C"
 },
 {
@@ -687303,7 +688195,113 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5163",
+"code": "SC-5259",
+"grade": "C"
+},
+{
+"name": "etm.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"etm.ru"
+],
+"urls": [
+"https://www.etm.ru/cat/nn/3462191"
+],
+"platform_links": [],
+"emails": [
+"vtc1v.eburg@etm.ru",
+"ekb2@etm.ru",
+"murzina_lr@etm.ru",
+"kartavih_na@etm.ru"
+],
+"corp_emails": [
+"vtc1v.eburg@etm.ru",
+"ekb2@etm.ru",
+"murzina_lr@etm.ru",
+"kartavih_na@etm.ru"
+],
+"phones": [],
+"persons": [
+"销售平台"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工业MC FS 很多牌子的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 137,
+"no": "136",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://www.etm.ru/cat/nn/3462191",
+"country": "俄罗斯",
+"person": "销售平台",
+"from": "谷歌",
+"interest": "工业MC FS 很多牌子的",
+"contact": "vtc1v.eburg@etm.ru\nekb2@etm.ru\nmurzina_lr@etm.ru\nkartavih_na@etm.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-526",
 "grade": "C"
 },
 {
@@ -687384,7 +688382,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5164",
+"code": "SC-5260",
 "grade": "C"
 },
 {
@@ -687465,7 +688463,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5165",
+"code": "SC-5261",
 "grade": "C"
 },
 {
@@ -687546,7 +688544,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5166",
+"code": "SC-5262",
 "grade": "C"
 },
 {
@@ -687627,7 +688625,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5167",
+"code": "SC-5263",
 "grade": "C"
 },
 {
@@ -687708,7 +688706,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5168",
+"code": "SC-5264",
 "grade": "C"
 },
 {
@@ -687789,136 +688787,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5169",
-"grade": "C"
-},
-{
-"name": "electrostandards.com",
-"name_src": "domain",
-"names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
-"other_countries": [],
-"domains": [
-"electrostandards.com"
-],
-"urls": [
-"https://www.electrostandards.com/network-switch-product-lines/"
-],
-"platform_links": [],
-"emails": [
-"eslab@electrostandards.com"
-],
-"corp_emails": [
-"eslab@electrostandards.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"network switch  Optical switch\n外壳看着有点怪",
-"bypass switch converter等"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"DWDM线索",
-"群发(筛选后质量一般的_群发)",
-"表:US"
-],
-"flags": {},
-"fit": {
-"switch": 2
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/DWDM CENTEC_ALAN 08.13.xlsx",
-"sheet": "总表",
-"row": 182,
-"no": "181",
-"tags": [
-"DWDM线索"
-],
-"company": "https://www.electrostandards.com/network-switch-product-lines/",
-"country": "美国",
-"person": "",
-"from": "谷歌",
-"interest": "network switch  Optical switch\n外壳看着有点怪",
-"contact": "eslab@electrostandards.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-},
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "US",
-"row": 48,
-"no": "47",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:US"
-],
-"company": "https://www.electrostandards.com/network-switch-product-lines/",
-"country": "美国",
-"person": "",
-"from": "谷歌",
-"interest": "bypass switch converter等",
-"contact": "eslab@electrostandards.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [
-"d:electrostandards.com",
-"e:eslab@electrostandards.com"
-],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）",
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 北美/美国"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-517",
+"code": "SC-5265",
 "grade": "C"
 },
 {
@@ -687999,7 +688868,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5170",
+"code": "SC-5266",
 "grade": "C"
 },
 {
@@ -688080,7 +688949,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5171",
+"code": "SC-5267",
 "grade": "C"
 },
 {
@@ -688161,7 +689030,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5172",
+"code": "SC-5268",
 "grade": "C"
 },
 {
@@ -688242,7 +689111,106 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5173",
+"code": "SC-5269",
+"grade": "C"
+},
+{
+"name": "euromobile.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"euromobile.ru"
+],
+"urls": [
+"https://www.euromobile.ru/produkciya/lte-routery/r2000-d4l1-5-ethernet-portov-poe/"
+],
+"platform_links": [],
+"emails": [
+"info@euromobile.ru"
+],
+"corp_emails": [
+"info@euromobile.ru"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"Serial 工业FS"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(电口)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2000
+],
+"sources": [
+{
+"file": "Clients/E/群发/电口  08.22.xlsx",
+"sheet": "总表",
+"row": 2,
+"no": "1",
+"tags": [
+"群发(电口)"
+],
+"company": "https://www.euromobile.ru/produkciya/lte-routery/r2000-d4l1-5-ethernet-portov-poe/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "Serial 工业FS",
+"contact": "info@euromobile.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-527",
 "grade": "C"
 },
 {
@@ -688323,7 +689291,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5174",
+"code": "SC-5270",
 "grade": "C"
 },
 {
@@ -688404,7 +689372,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5175",
+"code": "SC-5271",
 "grade": "C"
 },
 {
@@ -688510,7 +689478,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 2 次·未回复",
-"code": "SC-5176",
+"code": "SC-5272",
 "grade": "C"
 },
 {
@@ -688616,7 +689584,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 2 次·未回复",
-"code": "SC-5177",
+"code": "SC-5273",
 "grade": "C"
 },
 {
@@ -688769,7 +689737,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 6 次·未回复",
-"code": "SC-5178",
+"code": "SC-5274",
 "grade": "C"
 },
 {
@@ -688850,99 +689818,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5179",
-"grade": "C"
-},
-{
-"name": "elkome.com",
-"name_src": "domain",
-"names": [],
-"country": "芬兰",
-"iso": "FI",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"elkome.com"
-],
-"urls": [
-"https://shop.elkome.com/en/network-devices"
-],
-"platform_links": [],
-"emails": [
-"info@elkome.com"
-],
-"corp_emails": [
-"info@elkome.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [],
-"interests": [
-"很多牌子的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(杂)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/杂  08.13.xlsx",
-"sheet": "总表",
-"row": 19,
-"no": "",
-"tags": [
-"群发(杂)"
-],
-"company": "https://shop.elkome.com/en/network-devices",
-"country": "芬兰",
-"person": "",
-"from": "",
-"interest": "很多牌子的",
-"contact": "info@elkome.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/芬兰"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-518",
+"code": "SC-5275",
 "grade": "C"
 },
 {
@@ -689023,7 +689899,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5180",
+"code": "SC-5276",
 "grade": "C"
 },
 {
@@ -689104,7 +689980,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5181",
+"code": "SC-5277",
 "grade": "C"
 },
 {
@@ -689185,7 +690061,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5182",
+"code": "SC-5278",
 "grade": "C"
 },
 {
@@ -689266,7 +690142,99 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5183",
+"code": "SC-5279",
+"grade": "C"
+},
+{
+"name": "eurotek.it",
+"name_src": "domain",
+"names": [],
+"country": "意大利",
+"iso": "IT",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"eurotek.it"
+],
+"urls": [
+"https://www.eurotek.it/categoria-prodotto/prodotti/alimentatori-eurotek-products/din-rail-power-supplies/"
+],
+"platform_links": [],
+"emails": [
+"supporto@eurotek.it"
+],
+"corp_emails": [
+"supporto@eurotek.it"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(PA)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/PA 08.25.xlsx",
+"sheet": "总表",
+"row": 50,
+"no": "49",
+"tags": [
+"群发(PA)"
+],
+"company": "https://www.eurotek.it/categoria-prodotto/prodotti/alimentatori-eurotek-products/din-rail-power-supplies/",
+"country": "意大利",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "supporto@eurotek.it",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/意大利"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-528",
 "grade": "C"
 },
 {
@@ -689347,7 +690315,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5184",
+"code": "SC-5280",
 "grade": "C"
 },
 {
@@ -689428,7 +690396,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5185",
+"code": "SC-5281",
 "grade": "C"
 },
 {
@@ -689509,7 +690477,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5186",
+"code": "SC-5282",
 "grade": "C"
 },
 {
@@ -689590,7 +690558,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5187",
+"code": "SC-5283",
 "grade": "C"
 },
 {
@@ -689671,7 +690639,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5188",
+"code": "SC-5284",
 "grade": "C"
 },
 {
@@ -689752,103 +690720,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5189",
-"grade": "C"
-},
-{
-"name": "elmark.com.pl",
-"name_src": "domain",
-"names": [],
-"country": "波兰",
-"iso": "PL",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"elmark.com.pl"
-],
-"urls": [
-"https://support.elmark.com.pl/"
-],
-"platform_links": [],
-"emails": [
-"elmark@elmark.com.pl"
-],
-"corp_emails": [
-"elmark@elmark.com.pl"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [],
-"interests": [
-"很多牌子"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:PL"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "PL",
-"row": 29,
-"no": "28",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:PL"
-],
-"company": "https://support.elmark.com.pl/",
-"country": "波兰",
-"person": "质量一般",
-"from": "",
-"interest": "很多牌子",
-"contact": "elmark@elmark.com.pl",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/波兰"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-519",
+"code": "SC-5285",
 "grade": "C"
 },
 {
@@ -689929,7 +690801,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5190",
+"code": "SC-5286",
 "grade": "C"
 },
 {
@@ -690010,7 +690882,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5191",
+"code": "SC-5287",
 "grade": "C"
 },
 {
@@ -690091,7 +690963,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5192",
+"code": "SC-5288",
 "grade": "C"
 },
 {
@@ -690301,7 +691173,101 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 11 次·未回复",
-"code": "SC-5193",
+"code": "SC-5289",
+"grade": "C"
+},
+{
+"name": "everonsolutions.com",
+"name_src": "domain",
+"names": [],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"everonsolutions.com"
+],
+"urls": [
+"https://www.everonsolutions.com/solutions/video-solutions"
+],
+"platform_links": [],
+"emails": [
+"brentkiernan@everonsolutions.com"
+],
+"corp_emails": [
+"brentkiernan@everonsolutions.com"
+],
+"phones": [],
+"persons": [
+"Brent Kiernan"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Alarm)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Alarm 08.24.xlsx",
+"sheet": "总表",
+"row": 4,
+"no": "3",
+"tags": [
+"群发(Alarm)"
+],
+"company": "https://www.everonsolutions.com/solutions/video-solutions",
+"country": "美国",
+"person": "Brent Kiernan",
+"from": "谷歌",
+"interest": "",
+"contact": "brentkiernan@everonsolutions.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-529",
 "grade": "C"
 },
 {
@@ -690489,7 +691455,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5194",
+"code": "SC-5290",
 "grade": "C"
 },
 {
@@ -690677,7 +691643,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5195",
+"code": "SC-5291",
 "grade": "C"
 },
 {
@@ -690865,7 +691831,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5196",
+"code": "SC-5292",
 "grade": "C"
 },
 {
@@ -691053,7 +692019,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5197",
+"code": "SC-5293",
 "grade": "C"
 },
 {
@@ -691241,7 +692207,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5198",
+"code": "SC-5294",
 "grade": "C"
 },
 {
@@ -691429,103 +692395,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5199",
-"grade": "C"
-},
-{
-"name": "emacs.es",
-"name_src": "domain",
-"names": [],
-"country": "西班牙",
-"iso": "ES",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"emacs.es"
-],
-"urls": [
-"https://store.emacs.es/products/igs-801m"
-],
-"platform_links": [],
-"emails": [
-"info@emacs.es"
-],
-"corp_emails": [
-"info@emacs.es"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [],
-"interests": [
-"很多牌子的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:Spain"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "Spain",
-"row": 7,
-"no": "6",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:Spain"
-],
-"company": "https://store.emacs.es/products/igs-801m",
-"country": "西班牙",
-"person": "质量一般",
-"from": "",
-"interest": "很多牌子的",
-"contact": "info@emacs.es",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/西班牙"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-520",
+"code": "SC-5295",
 "grade": "C"
 },
 {
@@ -691724,7 +692594,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5200",
+"code": "SC-5296",
 "grade": "C"
 },
 {
@@ -691923,7 +692793,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5201",
+"code": "SC-5297",
 "grade": "C"
 },
 {
@@ -692122,7 +692992,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5202",
+"code": "SC-5298",
 "grade": "C"
 },
 {
@@ -692321,7 +693191,110 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5203",
+"code": "SC-5299",
+"grade": "C"
+},
+{
+"name": "evisb.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"evisb.ru"
+],
+"urls": [
+"https://evisb.ru/collection/peredacha-signala"
+],
+"platform_links": [],
+"emails": [
+"sales@evisb.ru"
+],
+"corp_emails": [
+"sales@evisb.ru"
+],
+"phones": [
+"79952413363"
+],
+"persons": [
+"销售平台"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE POE配件"
+],
+"remarks": [
+"网站上有WA按钮\n79952413363"
+],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 169,
+"no": "168",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://evisb.ru/collection/peredacha-signala",
+"country": "俄罗斯",
+"person": "销售平台",
+"from": "谷歌",
+"interest": "商业POE POE配件",
+"contact": "sales@evisb.ru",
+"mobile": "",
+"website": "",
+"remark": "网站上有WA按钮\n79952413363",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-530",
 "grade": "C"
 },
 {
@@ -692520,7 +693493,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5204",
+"code": "SC-5300",
 "grade": "C"
 },
 {
@@ -692719,7 +693692,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5205",
+"code": "SC-5301",
 "grade": "C"
 },
 {
@@ -692907,7 +693880,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5206",
+"code": "SC-5302",
 "grade": "C"
 },
 {
@@ -693095,7 +694068,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5207",
+"code": "SC-5303",
 "grade": "C"
 },
 {
@@ -693283,7 +694256,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5208",
+"code": "SC-5304",
 "grade": "C"
 },
 {
@@ -693471,104 +694444,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5209",
-"grade": "C"
-},
-{
-"name": "emerald.com.vn",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"emerald.com.vn"
-],
-"urls": [
-"https://www.emerald.com.vn/switch/48-port-gigabit-poe-managed-switch-dell-n1548p"
-],
-"platform_links": [],
-"emails": [
-"info@emerald.com.vn"
-],
-"corp_emails": [
-"info@emerald.com.vn"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"switch"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 55,
-"no": "57",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "https://www.emerald.com.vn/switch/48-port-gigabit-poe-managed-switch-dell-n1548p",
-"country": "越南",
-"person": "",
-"from": "谷歌",
-"interest": "switch",
-"contact": "INFO@EMERALD.COM.VN",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-521",
+"code": "SC-5305",
 "grade": "C"
 },
 {
@@ -693756,7 +694632,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5210",
+"code": "SC-5306",
 "grade": "C"
 },
 {
@@ -693932,7 +694808,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 8 次·未回复",
-"code": "SC-5211",
+"code": "SC-5307",
 "grade": "C"
 },
 {
@@ -694108,7 +694984,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 8 次·未回复",
-"code": "SC-5212",
+"code": "SC-5308",
 "grade": "C"
 },
 {
@@ -694203,1692 +695079,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "成交过·维护",
-"code": "SC-5213",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "中国大陆",
-"iso": "CN",
-"region": "中国大陆",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://0ab93f2af6daeb04.en.made-in-china.com/"
-],
-"platform_links": [
-"https://0ab93f2af6daeb04.en.made-in-china.com/"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"同行经销商(Smartbyte)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/A/同行/Smartbyte.xlsx",
-"sheet": "总表",
-"row": 11,
-"no": "10",
-"tags": [
-"同行经销商(Smartbyte)"
-],
-"company": "https://0ab93f2af6daeb04.en.made-in-china.com/",
-"country": "福建福州",
-"person": "",
-"from": "",
-"interest": "",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -72,
-"reasons": [
-"+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）",
-"-40 无任何联系方式",
-"-40 区域 中国大陆/中国大陆"
-],
-"c_sub": "中国大陆（非出口客户）",
-"status": "名单内·未触达",
-"code": "SC-5214",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "韩国",
-"iso": "KR",
-"region": "亚太",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.linkedin.com/company/optowiz/"
-],
-"platform_links": [
-"https://www.linkedin.com/company/optowiz/"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"富通天下"
-],
-"interests": [
-"SFP"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 198,
-"no": "226",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.linkedin.com/company/optowiz/",
-"country": "韩国",
-"person": "",
-"from": "富通天下",
-"interest": "SFP",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -95,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"-40 无任何联系方式",
-"+3 区域 亚太/韩国"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5215",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE POE配件"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 232,
-"no": "260",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "谷歌",
-"interest": "商业POE POE配件",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -95,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5216",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "印度",
-"iso": "IN",
-"region": "南亚",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
-],
-"platform_links": [
-"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"新桥商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 156,
-"no": "184",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html",
-"country": "印度",
-"person": "",
-"from": "谷歌",
-"interest": "新桥商业POE",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -98,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"-6 区域 南亚/印度"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5217",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "南非",
-"iso": "ZA",
-"region": "非洲",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 230,
-"no": "258",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
-"country": "南非",
-"person": "",
-"from": "谷歌",
-"interest": "商业POE",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -98,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"-6 区域 非洲/南非"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5218",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"海关数据"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 221,
-"no": "249",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "海关数据",
-"interest": "",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -103,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5219",
-"grade": "C"
-},
-{
-"name": "enertronic.es",
-"name_src": "domain",
-"names": [],
-"country": "西班牙",
-"iso": "ES",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"enertronic.es"
-],
-"urls": [
-"https://enertronic.es/en/"
-],
-"platform_links": [],
-"emails": [
-"info@enertronic.es"
-],
-"corp_emails": [
-"info@enertronic.es"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [],
-"interests": [
-"很多牌子的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:Spain"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "Spain",
-"row": 10,
-"no": "9",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:Spain"
-],
-"company": "https://enertronic.es/en/",
-"country": "西班牙",
-"person": "",
-"from": "",
-"interest": "很多牌子的",
-"contact": "info@enertronic.es",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/西班牙"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-522",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"海关数据"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 547,
-"no": "",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "海关数据",
-"interest": "",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -103,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5220",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"ETW 2011"
-],
-"interests": [
-"SFP"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [
-2011
-],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 68,
-"no": "96",
-"tags": [
-"用户判定不行"
-],
-"company": "itrade-group.ru",
-"country": "俄罗斯",
-"person": "",
-"from": "ETW 2011",
-"interest": "SFP",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -108,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"-40 无任何联系方式",
-"+0 区域 俄语区/俄罗斯",
-"-10 来源为 2010–2015 年展会且无后续记录"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5221",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "哈萨克斯坦",
-"iso": "KZ",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"ETW 2011"
-],
-"interests": [
-"VC, russian"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"vc": 1
-},
-"ai_evals": [],
-"years": [
-2011
-],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 84,
-"no": "112",
-"tags": [
-"用户判定不行"
-],
-"company": "",
-"country": "哈萨克斯坦",
-"person": "",
-"from": "ETW 2011",
-"interest": "VC, russian",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -125,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
-"-40 无任何联系方式",
-"+0 区域 俄语区/哈萨克斯坦",
-"-10 来源为 2010–2015 年展会且无后续记录"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5222",
-"grade": "C"
-},
-{
-"name": "engineeredalarm.com",
-"name_src": "domain",
-"names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
-"other_countries": [],
-"domains": [
-"engineeredalarm.com",
-"engalarm.com"
-],
-"urls": [
-"https://engineeredalarm.com/"
-],
-"platform_links": [],
-"emails": [
-"info@engalarm.com"
-],
-"corp_emails": [
-"info@engalarm.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Alarm)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Alarm 08.24.xlsx",
-"sheet": "总表",
-"row": 15,
-"no": "14",
-"tags": [
-"群发(Alarm)"
-],
-"company": "https://engineeredalarm.com/",
-"country": "美国",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "info@engalarm.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 北美/美国"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-523",
-"grade": "C"
-},
-{
-"name": "ergate.cz",
-"name_src": "domain",
-"names": [],
-"country": "捷克",
-"iso": "CZ",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"ergate.cz"
-],
-"urls": [
-"https://www.ergate.cz/prumyslova-komunikace/prumyslove-ethernet-switche/"
-],
-"platform_links": [],
-"emails": [
-"office@ergate.cz"
-],
-"corp_emails": [
-"office@ergate.cz"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [],
-"interests": [
-"销售平台"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:CZ"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "CZ",
-"row": 2,
-"no": "1",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:CZ"
-],
-"company": "https://www.ergate.cz/prumyslova-komunikace/prumyslove-ethernet-switche/",
-"country": "捷克",
-"person": "质量一般",
-"from": "",
-"interest": "销售平台",
-"contact": "office@ergate.cz",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/捷克"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-524",
-"grade": "C"
-},
-{
-"name": "esocctv.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"esocctv.ru"
-],
-"urls": [
-"https://esocctv.ru/products/katalog/setevoe-oborudovanie/"
-],
-"platform_links": [],
-"emails": [
-"info@esocctv.ru"
-],
-"corp_emails": [
-"info@esocctv.ru"
-],
-"phones": [],
-"persons": [
-"质量不错"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE POE配件\n主要是ESVI这个牌子 没查到"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 35,
-"no": "34",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://esocctv.ru/products/katalog/setevoe-oborudovanie/",
-"country": "俄罗斯",
-"person": "质量不错",
-"from": "谷歌",
-"interest": "商业POE POE配件\n主要是ESVI这个牌子 没查到",
-"contact": "info@esocctv.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-525",
-"grade": "C"
-},
-{
-"name": "etm.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"etm.ru"
-],
-"urls": [
-"https://www.etm.ru/cat/nn/3462191"
-],
-"platform_links": [],
-"emails": [
-"vtc1v.eburg@etm.ru",
-"ekb2@etm.ru",
-"murzina_lr@etm.ru",
-"kartavih_na@etm.ru"
-],
-"corp_emails": [
-"vtc1v.eburg@etm.ru",
-"ekb2@etm.ru",
-"murzina_lr@etm.ru",
-"kartavih_na@etm.ru"
-],
-"phones": [],
-"persons": [
-"销售平台"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业MC FS 很多牌子的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 137,
-"no": "136",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://www.etm.ru/cat/nn/3462191",
-"country": "俄罗斯",
-"person": "销售平台",
-"from": "谷歌",
-"interest": "工业MC FS 很多牌子的",
-"contact": "vtc1v.eburg@etm.ru\nekb2@etm.ru\nmurzina_lr@etm.ru\nkartavih_na@etm.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-526",
-"grade": "C"
-},
-{
-"name": "euromobile.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"euromobile.ru"
-],
-"urls": [
-"https://www.euromobile.ru/produkciya/lte-routery/r2000-d4l1-5-ethernet-portov-poe/"
-],
-"platform_links": [],
-"emails": [
-"info@euromobile.ru"
-],
-"corp_emails": [
-"info@euromobile.ru"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"Serial 工业FS"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(电口)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [
-2000
-],
-"sources": [
-{
-"file": "Clients/E/群发/电口  08.22.xlsx",
-"sheet": "总表",
-"row": 2,
-"no": "1",
-"tags": [
-"群发(电口)"
-],
-"company": "https://www.euromobile.ru/produkciya/lte-routery/r2000-d4l1-5-ethernet-portov-poe/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "Serial 工业FS",
-"contact": "info@euromobile.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-527",
-"grade": "C"
-},
-{
-"name": "eurotek.it",
-"name_src": "domain",
-"names": [],
-"country": "意大利",
-"iso": "IT",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"eurotek.it"
-],
-"urls": [
-"https://www.eurotek.it/categoria-prodotto/prodotti/alimentatori-eurotek-products/din-rail-power-supplies/"
-],
-"platform_links": [],
-"emails": [
-"supporto@eurotek.it"
-],
-"corp_emails": [
-"supporto@eurotek.it"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(PA)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/PA 08.25.xlsx",
-"sheet": "总表",
-"row": 50,
-"no": "49",
-"tags": [
-"群发(PA)"
-],
-"company": "https://www.eurotek.it/categoria-prodotto/prodotti/alimentatori-eurotek-products/din-rail-power-supplies/",
-"country": "意大利",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "supporto@eurotek.it",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/意大利"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-528",
-"grade": "C"
-},
-{
-"name": "everonsolutions.com",
-"name_src": "domain",
-"names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
-"other_countries": [],
-"domains": [
-"everonsolutions.com"
-],
-"urls": [
-"https://www.everonsolutions.com/solutions/video-solutions"
-],
-"platform_links": [],
-"emails": [
-"brentkiernan@everonsolutions.com"
-],
-"corp_emails": [
-"brentkiernan@everonsolutions.com"
-],
-"phones": [],
-"persons": [
-"Brent Kiernan"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Alarm)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Alarm 08.24.xlsx",
-"sheet": "总表",
-"row": 4,
-"no": "3",
-"tags": [
-"群发(Alarm)"
-],
-"company": "https://www.everonsolutions.com/solutions/video-solutions",
-"country": "美国",
-"person": "Brent Kiernan",
-"from": "谷歌",
-"interest": "",
-"contact": "brentkiernan@everonsolutions.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 北美/美国"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-529",
-"grade": "C"
-},
-{
-"name": "evisb.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"evisb.ru"
-],
-"urls": [
-"https://evisb.ru/collection/peredacha-signala"
-],
-"platform_links": [],
-"emails": [
-"sales@evisb.ru"
-],
-"corp_emails": [
-"sales@evisb.ru"
-],
-"phones": [
-"79952413363"
-],
-"persons": [
-"销售平台"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE POE配件"
-],
-"remarks": [
-"网站上有WA按钮\n79952413363"
-],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 169,
-"no": "168",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://evisb.ru/collection/peredacha-signala",
-"country": "俄罗斯",
-"person": "销售平台",
-"from": "谷歌",
-"interest": "商业POE POE配件",
-"contact": "sales@evisb.ru",
-"mobile": "",
-"website": "",
-"remark": "网站上有WA按钮\n79952413363",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-530",
+"code": "SC-5309",
 "grade": "C"
 },
 {
@@ -695995,6 +695186,815 @@
 "c_sub": "综合分低",
 "status": "名单内·未触达",
 "code": "SC-531",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "中国大陆",
+"iso": "CN",
+"region": "中国大陆",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://0ab93f2af6daeb04.en.made-in-china.com/"
+],
+"platform_links": [
+"https://0ab93f2af6daeb04.en.made-in-china.com/"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"同行经销商(Smartbyte)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/A/同行/Smartbyte.xlsx",
+"sheet": "总表",
+"row": 11,
+"no": "10",
+"tags": [
+"同行经销商(Smartbyte)"
+],
+"company": "https://0ab93f2af6daeb04.en.made-in-china.com/",
+"country": "福建福州",
+"person": "",
+"from": "",
+"interest": "",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -72,
+"reasons": [
+"+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）",
+"-40 无任何联系方式",
+"-40 区域 中国大陆/中国大陆"
+],
+"c_sub": "中国大陆（非出口客户）",
+"status": "名单内·未触达",
+"code": "SC-5310",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "韩国",
+"iso": "KR",
+"region": "亚太",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.linkedin.com/company/optowiz/"
+],
+"platform_links": [
+"https://www.linkedin.com/company/optowiz/"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"富通天下"
+],
+"interests": [
+"SFP"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 198,
+"no": "226",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.linkedin.com/company/optowiz/",
+"country": "韩国",
+"person": "",
+"from": "富通天下",
+"interest": "SFP",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -95,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"-40 无任何联系方式",
+"+3 区域 亚太/韩国"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5311",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE POE配件"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 232,
+"no": "260",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "谷歌",
+"interest": "商业POE POE配件",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -95,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5312",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "印度",
+"iso": "IN",
+"region": "南亚",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
+],
+"platform_links": [
+"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"新桥商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 156,
+"no": "184",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html",
+"country": "印度",
+"person": "",
+"from": "谷歌",
+"interest": "新桥商业POE",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -98,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"-6 区域 南亚/印度"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5313",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "南非",
+"iso": "ZA",
+"region": "非洲",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 230,
+"no": "258",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
+"country": "南非",
+"person": "",
+"from": "谷歌",
+"interest": "商业POE",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -98,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"-6 区域 非洲/南非"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5314",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"海关数据"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 221,
+"no": "249",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "海关数据",
+"interest": "",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -103,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5315",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"海关数据"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 547,
+"no": "",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "海关数据",
+"interest": "",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -103,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5316",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"ETW 2011"
+],
+"interests": [
+"SFP"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [
+2011
+],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 68,
+"no": "96",
+"tags": [
+"用户判定不行"
+],
+"company": "itrade-group.ru",
+"country": "俄罗斯",
+"person": "",
+"from": "ETW 2011",
+"interest": "SFP",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -108,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"-40 无任何联系方式",
+"+0 区域 俄语区/俄罗斯",
+"-10 来源为 2010–2015 年展会且无后续记录"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5317",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "哈萨克斯坦",
+"iso": "KZ",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"ETW 2011"
+],
+"interests": [
+"VC, russian"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"vc": 1
+},
+"ai_evals": [],
+"years": [
+2011
+],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 84,
+"no": "112",
+"tags": [
+"用户判定不行"
+],
+"company": "",
+"country": "哈萨克斯坦",
+"person": "",
+"from": "ETW 2011",
+"interest": "VC, russian",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -125,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
+"-40 无任何联系方式",
+"+0 区域 俄语区/哈萨克斯坦",
+"-10 来源为 2010–2015 年展会且无后续记录"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5318",
 "grade": "C"
 },
 {

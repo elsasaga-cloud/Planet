@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国宾州 Bethlehem 的客运巴士车载远程信息处理方案商（1997 年成立；11–50 / 42 人；营收 $15.4M 口径；GPS 车队追踪、车载视频监控、电子驾驶日志、乘客 WiFi、Cummins 远程诊断；北美与英国 500+ 客户、10,000+ 辆巴士）。展会记录：联系人 Bill French（bfrench@saucontech.com）问了技术问题；9 次跟进 0 回复。车载（巴士）IP 摄像/WiFi 需 DC 宽压小交换机 → STI 系列配套/OEM。（调研 2026-10-21；表内兴趣：问了一些技术问题）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-02-25 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE STI-050GE（$26.0）；$33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）；$33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -99,7 +99,7 @@ updated: 2026-10-21
 - **近况信号**：
   - 车载视频 + WiFi 套件需 4–8 口 PoE 交换机（DC 车电、宽温）→ Saucon 标 OEM 配件；10,000 辆保有量 = 持续改装量
 - **风险/边界**：公共交通客户（巴士运营/市政）→ 按个案守界；美国车载需 FCC + 振动证明；9 次跟进 0 回复
-- **Saga 对位结论**：P1 STI-054GP（30% 档）——OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE STI-050GE（$26.0）
+- **Saga 对位结论**：P1 STI-054GP（30% 档）——OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）
 - **邮件切入句（英文）**：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
 
 ## 在卖/在用品牌 → Saga 对位
@@ -154,7 +154,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-054GP | 深挖对位：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE STI-050GE（$26.0） | $33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| **P1** | STI-054GP | 深挖对位：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5） | $33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
