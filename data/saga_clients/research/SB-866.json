@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "约旦经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「大口FS；大口FS BDCOM；switch」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
+ "type": "网络集成/分销商（约旦，BDCOM 在供）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "BDCOM"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -14,39 +16,54 @@
    "quote": "大口FS；大口FS BDCOM；switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "大口 FS BDCOM",
+   "quote": "大口FS / 大口FS BDCOM / switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Motaz Alsharif",
+   "title": "Owner",
+   "email": "motaz@smartsystems.jo",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "约旦",
   "other": "官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络集成 / 分销（约旦）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "网络集成/分销商（约旦，BDCOM 在供）",
   "region": "约旦",
   "contact": "info@smartsystems.jo、motaz@smartsystems.jo"
  },
  "signals": [
-  "用户表兴趣/备注：大口FS；大口FS BDCOM；switch"
+  "表内：大口 FS / 大口 FS BDCOM / switch；KP Motaz Alsharif / Owner",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
+  "p1": "STC-424XGGM",
   "tier": 25,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Motaz, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?"
 }

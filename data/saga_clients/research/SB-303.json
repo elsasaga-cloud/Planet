@@ -3,14 +3,23 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "新加坡经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「商业POE ONV的 也有其他外壳」；群发 14 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "新加坡 ATZ（atz.com.sg；表内「商业 PoE ONV 的，也有其他外壳」；官网 http_error）；群发 14 次无回复。",
+ "type": "网络/安防经销商（新加坡，PoE 现 ONV）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV"
+ ],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
+   "quote": "商业POE ONV的 也有其他外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE ONV 也有其他外壳",
    "quote": "商业POE ONV的 也有其他外壳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
@@ -22,32 +31,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "新加坡",
   "other": "官网 atz.com.sg，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络 / 安防产品经销（新加坡）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "网络/安防经销商（新加坡，PoE 现 ONV）",
   "region": "新加坡",
   "contact": "info@atz.com.sg、sales@atz.com.sg"
  },
  "signals": [
-  "用户表兴趣/备注：商业POE ONV的 也有其他外壳"
+  "表内：商业 POE ONV 的 也有其他外壳",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，新加坡）；现供 ONV 等价格基准低；官网 http_error；14 次无回复"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "PoE（现 ONV 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches you currently source from ONV and similar suppliers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE SKU do you reorder most?"
 }

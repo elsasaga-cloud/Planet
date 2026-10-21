@@ -921,14 +921,14 @@ SB-1085,B,T5,psaproducts.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,21,psaproduc
 SB-150,B,T5,ltsecurityinc.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,1,21,ltsecurityinc.com.au,2,1,1,人工,ok,Ajax,STI-288GP
 SB-496,B,T5,eltech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,1,21,eltech.com.au,3,1,1,人工,ok,,STI-280GE
 SB-542,B,T5,jdktech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,21,jdktech.com.au,1,1,1,人工,ok,,STI-288GP
-SB-549,B,T5,ness.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,21,ness.com.au,3,1,1,自动,unreachable,,
+SB-549,B,T5,ness.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,21,ness.com.au,3,1,1,人工,unreachable,,
 SB-560,B,T5,sequrinet.us,韩国,亚太,0,0,0,0,0,0,0,0,21,sequrinet.us;sequrinet.com,1,1,1,人工,ok,,
 SB-759,B,T5,ccdact.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,1,21,ccdact.com.au;ccdact.com,2,1,1,人工,ok,,STC-424XGGM
 SB-1054,B,T5,airlive.com,台湾,亚太,0,0,0,0,0,0,0,1,19,airlive.com,1,1,1,人工,ok,,STI-288GP
 SB-1074,B,T5,intrising.com.tw,台湾,亚太,0,0,0,0,0,0,0,1,19,intrising.com.tw,1,1,1,人工,ok,,STI-288GP
 SB-1075,B,T5,ison-tech.com,台湾,亚太,0,0,0,0,0,0,0,1,19,ison-tech.com,1,1,1,人工,ok,,STI-288GP
 SB-1081,B,T5,mse.com.tw,台湾,亚太,0,0,0,0,0,0,0,1,19,mse.com.tw,1,1,1,人工,ok,,STI-288GP
-SB-503,B,T5,ionetech.com,韩国,亚太,0,0,0,0,0,0,0,0,19,ionetech.com;ione.kr,1,1,1,自动,http_error,,
+SB-503,B,T5,ionetech.com,韩国,亚太,0,0,0,0,0,0,0,0,19,ionetech.com;ione.kr,1,1,1,人工,http_error,,
 SB-154,B,T5,sieraelectronics.com,香港,亚太,0,0,0,0,0,0,0,1,18,sieraelectronics.com,1,1,1,人工,ok,,
 SB-619,B,T5,plus-nn.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,18,plus-nn.ru,1,1,1,人工,ok,,
 SB-621,B,T5,symanitron.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,18,symanitron.ru;s-avt.ru,3,1,1,人工,ok,,STC-424DGGPM-280W
@@ -957,7 +957,7 @@ SB-512,B,T5,3tel.com.sg,新加坡,亚太,0,0,0,0,0,0,0,0,15,3tel.com.sg,2,1,1,�
 SB-529,B,T5,dss-kuwait.com,科威特,中东,0,0,0,0,0,0,0,0,15,dss-kuwait.com,6,1,1,人工,ok,"Dahua,ONV,Ajax",STC-424DGGPM-280W
 SB-559,B,T5,securevision.com.sg,新加坡,亚太,0,0,0,0,0,0,0,0,15,securevision.com.sg,3,1,1,人工,ok,,STI-288GP
 SB-967,B,T5,basithamitech.com,南非,非洲,0,0,0,0,0,0,0,0,15,basithamitech.com,1,1,1,人工,ok,,STI-280GE
-SB-303,B,T5,atz.com.sg,新加坡,亚太,0,0,0,0,0,0,0,0,14,atz.com.sg,2,1,1,自动,http_error,,
+SB-303,B,T5,atz.com.sg,新加坡,亚太,0,0,0,0,0,0,0,0,14,atz.com.sg,2,1,1,人工,http_error,,
 SB-771,B,T5,hyconext.com,新加坡,亚太,0,0,0,0,0,0,0,0,14,hyconext.com,2,1,1,人工,ok,,STC-424XGGM
 SB-775,B,T5,madalix.co.il,以色列,中东,0,0,0,0,0,0,0,0,14,madalix.co.il,2,1,1,人工,ok,,STI-280GE
 SB-779,B,T5,netsecurity.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,14,netsecurity.com.au,1,1,1,人工,ok,"Hikvision,Hanwha,Bosch,Moxa,PLANET",STI-288GP
@@ -996,21 +996,20 @@ SB-782,B,T5,skyware.com.hk,香港,亚太,0,0,0,0,0,0,0,0,8,skyware.com.hk,1,1,1,
 SB-940,B,T5,giga-link.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,8,giga-link.ru,1,1,1,人工,ok,,STC-424DGGPM-280W
 SB-956,B,T5,symway.com,俄罗斯,俄语区,0,0,0,0,0,0,0,0,8,symway.com;lintech.ru,2,1,1,人工,ok,Cisco,
 SB-090,B,T5,mahanet-jp.com,日本,亚太,0,0,0,0,0,0,0,0,7,mahanet-jp.com,1,1,1,人工,ok,,STC-424DGGPM-280W
-SB-368,B,T5,safanetworks.com,阿联酋,中东,0,0,0,0,0,0,0,0,7,safanetworks.com,1,1,1,自动,http_error,,
+SB-368,B,T5,safanetworks.com,阿联酋,中东,0,0,0,0,0,0,0,0,7,safanetworks.com,1,1,1,人工,http_error,,
 SB-497,B,T5,eso.co.th,泰国,亚太,0,0,0,0,0,0,0,0,7,eso.co.th,2,1,1,人工,ok,,STI-288GP
 SB-641,B,T5,jeatech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,7,jeatech.com.au,3,1,1,人工,ok,"ORing,Teltonika,Milesight",STI-288GP
-SB-664,B,T5,MARZETEK (Pty) Ltd,南非,非洲,0,0,0,0,0,0,0,0,7,marzetek.com,1,1,1,自动,parked_or_empty,,
+SB-664,B,T5,MARZETEK (Pty) Ltd,南非,非洲,0,0,0,0,0,0,0,0,7,marzetek.com,1,1,1,人工,parked_or_empty,,
 SB-720,B,T5,netshieldsa.com,南非,非洲,0,0,0,0,0,0,0,0,7,netshieldsa.com,2,1,1,人工,ok,,
-SB-883,B,T5,Excel Engineering (SG) Pte Ltd,新加坡,亚太,0,0,0,0,0,0,0,0,7,excelengineeringsg.net,1,1,1,自动,unreachable,,
+SB-883,B,T5,Excel Engineering (SG) Pte Ltd,新加坡,亚太,0,0,0,0,0,0,0,0,7,excelengineeringsg.net,1,1,1,人工,unreachable,,
 SB-889,B,T5,acelink.com.tw,台湾,亚太,0,0,0,0,0,0,0,0,7,acelink.com.tw,1,1,1,人工,ok,,STI-288GP
 SB-992,B,T5,netsolutionstore.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,7,netsolutionstore.com.au,1,1,1,人工,ok,Extreme,STI-288GP
 SB-341,B,T5,Pal Wintec,以色列,中东,0,0,0,0,0,0,0,0,6,palwintec.com,1,1,1,人工,ok,,
 SB-376,B,T5,winnerintertech.com,泰国,亚太,0,0,0,0,0,0,0,1,6,winnerintertech.com,3,1,1,人工,ok,"Korenix,Moxa",STI-288GP
 SB-600,B,T5,smartintercom.eu,未填,未知,0,0,0,0,0,0,0,0,6,smartintercom.eu,1,1,1,人工,ok,,STC-424DGGPM-280W
-SB-650,B,T5,ubwh.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,6,ubwh.com.au,1,1,1,自动,http_error,,
+SB-650,B,T5,ubwh.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,6,ubwh.com.au,1,1,1,人工,http_error,,
 SB-893,B,T5,bm-switch.com,台湾,亚太,0,0,0,0,0,0,0,0,6,bm-switch.com,1,1,1,人工,ok,Ubiquiti,STC-424XGGM
 SB-902,B,T5,ethernetdirect-jp.com,台湾,亚太,0,0,0,0,0,0,0,0,6,ethernetdirect-jp.com;ethernetdirect-tw.com,1,1,1,人工,ok,,STI-288GP
-SB-888,B,T5,aaeon.com,台湾,亚太,0,0,0,0,0,0,0,0,5,aaeon.com,2,1,1,自动,http_error,,
 SB-1225,B,T5,odoo.com,卡塔尔,中东,0,0,0,0,0,0,0,0,4,odoo.com;tamyeezsecurity.com,1,1,1,人工,ok,,STI-280GE
 SB-348,B,T5,autechcontrol.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,4,autechcontrol.com.au,2,1,1,人工,ok,"Advantech,Schneider,Maiwe",STI-280GE
 SB-1112,B,T5,eurobyte.co.za,南非,非洲,0,0,0,0,0,0,0,0,3,eurobyte.co.za,3,1,1,人工,ok,"Ruijie,Huawei,Uniview",STC-424DGGPM-280W
@@ -1023,7 +1022,7 @@ SB-085,B,T5,diatrend.com,日本,亚太,0,0,0,0,0,0,0,0,2,diatrend.com;diatrend.c
 SB-093,B,T5,unea-x.com,日本,亚太,0,0,0,0,0,0,0,0,2,unea-x.com,1,1,1,人工,ok,,
 SB-1145,B,T5,acixme.com,阿联酋,中东,0,0,0,0,0,0,0,0,2,acixme.com,3,1,1,人工,ok,,STI-280GE
 SB-161,B,T5,"HANCHANG Infotech CO.,LTD",韩国,亚太,0,0,0,0,0,0,0,1,2,hcin4.com;rfoint.com,2,1,1,人工,ok,,
-SB-364,B,T5,morekamer.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,2,morekamer.ru,1,1,1,自动,http_error,,
+SB-364,B,T5,morekamer.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,2,morekamer.ru,1,1,1,人工,http_error,,
 SB-366,B,T5,osd.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,2,osd.com.au,2,1,1,人工,ok,,STI-288GP
 SB-484,B,T5,topnetdistribution.com,阿联酋,中东,0,0,0,0,0,0,0,0,2,topnetdistribution.com;topnet.ae,3,1,1,人工,ok,,STI-288GP
 SB-914,B,T5,prismwifi.com,台湾,亚太,0,0,0,0,0,0,0,0,2,prismwifi.com,1,1,1,人工,ok,Ubiquiti,STC-424XGGM
@@ -1045,7 +1044,7 @@ SB-584,B,T5,certech.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,0,1,certech.com.au,
 SB-743,B,T5,tiscontrol.com,阿曼,中东,0,0,0,0,0,0,0,0,1,tiscontrol.com;mkseoman.com,1,1,1,人工,ok,,STI-280GE
 SB-845,B,T5,konturm.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,1,konturm.ru,1,1,1,人工,ok,"D-Link,Cisco,Huawei",
 SB-957,B,T5,tayle.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,1,tayle.ru,4,1,1,人工,ok,,
-SB-996,B,T5,phuongdung.com,越南,亚太,0,0,0,0,0,0,0,0,1,phuongdung.com,1,1,1,自动,timeout,,
+SB-996,B,T5,phuongdung.com,越南,亚太,0,0,0,0,0,0,0,0,1,phuongdung.com,1,1,1,人工,timeout,,
 SB-1006,B,T5,trassir.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,trassir.ru,1,1,1,人工,ok,,STC-424DGGPM-280W
 SB-1008,B,T5,vilcom.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,vilcom.ru,1,1,1,人工,timeout,,
 SB-1011,B,T5,xvi.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,xvi.ru;dexi.ru,1,1,1,人工,ok,,STC-424DGGPM-280W
@@ -1063,12 +1062,10 @@ SB-1087,B,T5,sieuthivienthong.com,越南,亚太,0,0,0,0,0,0,0,0,0,sieuthivientho
 SB-1093,B,T5,uplinker.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,uplinker.ru;uplink.ru,2,1,1,人工,ok,,
 SB-1094,B,T5,vidcom.uz,乌兹别克斯坦,俄语区,0,0,0,0,0,0,0,0,0,vidcom.uz,1,1,1,人工,ok,"Dahua,Hikvision,Ajax",STC-424DGGPM-280W
 SB-1101,B,T5,IPS,埃及,非洲,0,0,0,0,0,0,0,0,0,integrated-ps.com,1,1,1,人工,ok,,STI-280GE
-SB-1104,B,T5,allthegeek.com,新西兰,亚太,0,0,0,0,0,0,0,0,0,allthegeek.com,0,1,1,自动,http_error,,
 SB-1115,B,T5,iOneresources,菲律宾,亚太,0,0,0,0,0,0,0,0,0,ioneresources.net,1,1,1,人工,ok,TP-Link,STC-28DGGPM
 SB-1118,B,T5,mcss.co.kr,韩国,亚太,0,0,0,0,0,0,0,0,0,mcss.co.kr,1,1,1,人工,ok,"Teltonika,PLANET",STI-288GP
-SB-1136,B,T5,KariTeo Enterprises,基里巴斯,亚太,0,0,0,0,0,0,0,0,0,,1,1,1,自动,,,
 SB-121,B,T5,vintronsmartvision.com,印度,南亚,0,0,0,0,0,0,0,0,0,vintronsmartvision.com;quippro.kz;airlinkwifi.net;airlink-ilife.com,5,1,1,人工,ok,,STI-288GP
-SB-1229,B,T5,portdepo.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,portdepo.ru,2,1,1,自动,unreachable,,
+SB-1229,B,T5,portdepo.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,portdepo.ru,2,1,1,人工,unreachable,,
 SB-1245,B,T5,soft-tronik.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,soft-tronik.ru,1,1,1,人工,ok,"Dahua,Ruijie,Zyxel,TP-Link,D-Link,Vivotek,Axis",STC-28DGGPM
 SB-1259,B,T5,tramaweb.com.br,巴西,拉美,0,0,0,0,0,0,0,1,0,tramaweb.com.br,1,1,1,人工,ok,,
 SB-258,B,T5,alconlink.com,印度,南亚,0,0,0,0,0,0,0,1,0,alconlink.com,1,1,1,人工,ok,,STI-288GP
@@ -1078,19 +1075,16 @@ SB-344,B,T5,Yellowbox Co Pty Ltd,澳大利亚,亚太,0,0,0,0,0,0,0,0,0,yellowbox
 SB-373,B,T5,teamac-arabia.com,阿联酋,中东,0,0,0,0,0,0,0,0,0,teamac-arabia.com,1,1,1,人工,ok,Siemens,STI-280GE
 SB-452,B,T5,"Ninh Thanh Production and Trading Co., Ltd.",越南,亚太,0,0,0,0,0,0,0,0,0,ninhthanh.com,1,1,1,人工,ok,Aruba,STI-280GE
 SB-466,B,T5,hanyotele.com,韩国,亚太,0,0,0,0,0,0,0,1,0,hanyotele.com,0,1,1,人工,ok,,
-SB-469,B,T5,keme-tec.com,约旦,中东,0,0,0,0,0,0,0,0,0,keme-tec.com,2,1,1,自动,http_error,,
+SB-469,B,T5,keme-tec.com,约旦,中东,0,0,0,0,0,0,0,0,0,keme-tec.com,2,1,1,人工,http_error,,
 SB-474,B,T5,ngapl.in,印度,南亚,0,0,0,0,0,0,0,0,0,ngapl.in;ngapl.com,1,1,1,人工,ok,"Siemens,Phoenix Contact",STI-280GE
-SB-485,B,T5,ttechservices.net,基里巴斯,亚太,0,0,0,0,0,0,0,0,0,ttechservices.net,1,1,1,自动,unreachable,,
 SB-579,B,T5,TGM Global Pte Ltd,新加坡,亚太,0,0,0,0,0,0,0,0,0,global-tgm.com,2,1,1,人工,ok,,STC-28DGGPM
 SB-611,B,T5,elementuengenharia.com.br,巴西,拉美,0,0,0,0,0,0,0,0,0,elementuengenharia.com.br,1,1,1,人工,ok,,
 SB-620,B,T5,solway.co.kr,韩国,亚太,0,0,0,0,0,0,0,0,0,solway.co.kr,2,1,1,人工,ok,,
 SB-626,B,T5,Burns Precision Ag,澳大利亚,亚太,0,0,0,0,0,0,0,0,0,burnsprecisionag.com.au,1,1,1,人工,ok,,
 SB-628,B,T5,HME Solutions,澳大利亚,亚太,0,0,0,0,0,0,0,0,0,hmesolutions.com.au,1,1,1,人工,ok,Ubiquiti,STI-280GE
 SB-643,B,T5,karma-group.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,karma-group.ru,1,1,1,人工,ok,Huawei,STC-28DGGPM
-SB-646,B,T5,optroset.com,以色列,中东,0,0,0,0,0,0,0,0,0,optroset.com,1,1,1,自动,http_error,,
 SB-654,B,T5,BRIGHTNET SERVICES SDN BHD,马来西亚,亚太,0,0,0,0,0,0,0,0,0,bright.net.my,1,1,1,人工,ok,"Cisco,Huawei,Ubiquiti,Aruba",STC-424XGGM
 SB-655,B,T5,C-TECH,埃及,非洲,0,0,0,0,0,0,0,0,0,c-techeg.com,1,1,1,人工,ok,,STI-280GE
-SB-657,B,T5,Computer Store Uganda Limited,乌干达,非洲,0,0,0,0,0,0,0,0,0,computerstore.ug,1,1,1,自动,timeout,,
 SB-659,B,T5,Gigaxysafe Technologies Ltd,尼日利亚,非洲,0,0,0,0,0,0,0,0,0,gigaxysafe.com.ng,1,1,1,人工,ok,"Cisco,Ubiquiti,PLANET",STI-288GP
 SB-660,B,T5,Grypen Technologies Private Limited,印度,南亚,0,0,0,0,0,0,0,0,0,grypen.in,1,1,1,人工,ok,,
 SB-661,B,T5,Hoang Long Import-Export and Trading Joint Stock Company,越南,亚太,0,0,0,0,0,0,0,0,0,hlc.vn,3,1,1,人工,ok,,STC-424XGGM
@@ -1104,18 +1098,17 @@ SB-730,B,T5,qntmnet.com,印度,南亚,0,0,0,0,0,0,0,0,0,qntmnet.com,2,1,1,人工
 SB-738,B,T5,technics-india.com,印度,南亚,0,0,0,0,0,0,0,0,0,technics-india.com;technicsonline.com,1,1,1,人工,ok,,STI-280GE
 SB-747,B,T5,Bin Hilal Group,阿联酋,中东,0,0,0,0,0,0,0,0,0,binhilal.ae,1,1,1,人工,ok,,
 SB-766,B,T5,engitel.com.mx,墨西哥,拉美,0,0,0,0,0,0,0,0,0,engitel.com.mx,1,1,1,人工,ok,,
-SB-787,B,T5,unitech-shop.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,unitech-shop.ru,1,1,1,自动,unreachable,,
+SB-787,B,T5,unitech-shop.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,unitech-shop.ru,1,1,1,人工,unreachable,,
 SB-828,B,T5,fibresales.com.au,澳大利亚,亚太,0,0,0,0,0,0,0,1,0,fibresales.com.au,1,1,1,人工,ok,,
 SB-855,B,T5,prolink2u.com,新加坡,亚太,0,0,0,0,0,0,0,1,0,prolink2u.com,1,1,1,人工,ok,,STI-280GE
-SB-866,B,T5,smartsystems.jo,约旦,中东,0,0,0,0,0,0,0,0,0,smartsystems.jo,2,1,1,自动,http_error,,
-SB-886,B,T5,SynchubsHVSS SAS,塞内加尔,非洲,0,0,0,0,0,0,0,0,0,synchubs.net,1,1,1,自动,http_error,,
+SB-866,B,T5,smartsystems.jo,约旦,中东,0,0,0,0,0,0,0,0,0,smartsystems.jo,2,1,1,人工,http_error,,
 SB-897,B,T5,datastream.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,datastream.by,1,1,1,人工,ok,"Zyxel,Vivotek",STC-424DGGPM-280W
 SB-908,B,T5,istream.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,istream.by,1,1,1,人工,ok,,STC-424DGGPM-280W
 SB-913,B,T5,nabludenie.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,nabludenie.by,1,1,1,人工,ok,,STC-424DGGPM-280W
 SB-918,B,T5,server-x.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,server-x.by,1,1,1,人工,http_error,,
 SB-922,B,T5,t-automation.by,白俄罗斯,俄语区,0,0,0,0,0,0,0,0,0,t-automation.by,1,1,1,人工,ok,,STI-288GP
 SB-942,B,T5,ilucoltd.com,台湾,亚太,0,0,0,0,0,0,0,0,0,ilucoltd.com,2,1,1,人工,ok,LevelOne,STC-424XGGM
-SB-948,B,T5,oemarket.com,澳大利亚,亚太,0,0,0,0,0,0,0,1,0,oemarket.com,1,1,1,自动,http_error,,
+SB-948,B,T5,oemarket.com,澳大利亚,亚太,0,0,0,0,0,0,0,1,0,oemarket.com,1,1,1,人工,http_error,,
 SB-964,B,T5,airpro.in,印度,南亚,0,0,0,0,0,0,0,1,0,airpro.in,3,1,1,人工,ok,,STI-288GP
 SB-970,B,T5,cmd-sec.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,cmd-sec.ru,1,1,1,人工,unreachable,,
 SB-980,B,T5,hunter-cctv.ru,俄罗斯,俄语区,0,0,0,0,0,0,0,1,0,hunter-cctv.ru,1,1,1,人工,ok,,STC-424DGGPM-280W

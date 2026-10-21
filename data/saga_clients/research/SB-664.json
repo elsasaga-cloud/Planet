@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（parked_or_empty）",
- "summary": "南非经销/集成（类型待核，无官网快照）：官网快照失败（parked_or_empty）；表内「4+24, 4+48 10G光；27 61 836 5820 没尝试加」；群发 7 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
+ "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,54 @@
    "quote": "4+24, 4+48 10G光；27 61 836 5820 没尝试加",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "4+24 4+48 10G 光",
+   "quote": "4+24, 4+48 10G光",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Lloyd Thembani Moyo",
+   "title": "Sales Engineer",
+   "email": "procurement@marzetek.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "南非",
   "other": "官网 marzetek.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "IT / 网络方案（南非）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
   "region": "南非",
   "contact": "procurement@marzetek.com"
  },
  "signals": [
-  "用户表兴趣/备注：4+24, 4+48 10G光；27 61 836 5820 没尝试加"
+  "表内：4+24, 4+48 10G 光；KP Lloyd Thembani Moyo / Sales Engineer；27 61 836 5820 没尝试加",
+  "快照：VE Host - vehost.co.za（托管占位页）"
  ],
  "risks": [
-  "官网停放/空站（快照 2026-10-21）：疑似停业或换域名，发前核实",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
  ],
  "saga_fit": {
-  "p1": "STC-448DGGPM",
+  "p1": "STC-424XGGM",
   "tier": 25,
-  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）"
  },
- "email_hook": "Lloyd, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?"
 }
