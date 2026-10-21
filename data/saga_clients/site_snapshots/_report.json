@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-21T09:43:03Z",
- "total": 900,
+ "generated_at": "2026-10-21T09:45:35Z",
+ "total": 1050,
  "by_status": {
-  "ok": 780,
-  "parked_or_empty": 10,
-  "timeout": 19,
-  "http_error": 65,
-  "unreachable": 26
+  "ok": 911,
+  "parked_or_empty": 11,
+  "timeout": 21,
+  "http_error": 76,
+  "unreachable": 31
  },
  "by_grade": {
   "A": {
@@ -16,11 +16,11 @@
    "http_error": 7
   },
   "B": {
-   "ok": 711,
-   "http_error": 58,
-   "timeout": 14,
-   "unreachable": 26,
-   "parked_or_empty": 9
+   "ok": 842,
+   "http_error": 69,
+   "timeout": 16,
+   "unreachable": 31,
+   "parked_or_empty": 10
   }
  }
 }
