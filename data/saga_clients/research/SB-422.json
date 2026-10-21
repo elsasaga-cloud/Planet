@@ -1,0 +1,85 @@
+{
+ "code": "SB-422",
+ "name_official": "Optima Engineering / Optima Soft（Optima Mühendislik，Ankara Sincan, TR；optima-engineering.com · optima.tc）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "安卡拉 Sincan Başkent OSB 的车辆出入口安防设备制造商 Optima Engineering（路障/升降柱/滑动门/道闸/破胎器/闸机/车牌识别/停车道闸；总部与工厂 Başkent OSB 19. Cadde No:62 Malıköy；伊斯坦布尔 Perpa 销售办；沙特 KSA 工厂；+90 312 815 15 00；optima@optima.tc；Optima Soft = 其软件/IP 视频团队）。ISAF 记录：技术经理 Furkan Kalkan——只处理 IP 摄像、基本不处理模拟，对 PoE 交换机有兴趣，会来深圳买产品（非参展），已邀其参观公司；2 次跟进 0 回复。设备制造商在柜内配套 PoE 交换机 → OEM/配套 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "总部/工厂与联系方式",
+   "quote": "Head Office and Factory Phone: +90 312 815 15 00 … Baskent Organize Sanayi Bölgesi 19.Cadde No:62 Malıköy 06909 Sincan / ANKARA-TURKEY optima@optima.tc info@optima-engineering.com Istanbul Sales Office Halil Rıfat Paşa Mah. Perpa Ticaret Merkezi A Blok K : 8 No:701",
+   "url": "https://www.optima-engineering.com/en/contact",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品线",
+   "quote": "Products - Road Blockers - Bollards - Sliding Gate - Arm Barriers - Tyre Killers - Turnstiles - Licence Plate Recognition System - Parking Barriers",
+   "url": "https://www.optima-engineering.com/en/corporate/why-optima",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Instagram",
+   "claim": "沙特工厂",
+   "quote": "Ankara Genel Müdürlük: 0312 815 1500 KSA Fabrika: +966 11 415 0406 optima@optima.tc",
+   "url": "https://www.instagram.com/optima_turkiye/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：IP 摄像、PoE 兴趣、来深圳采购",
+   "quote": "只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Furkan Kalkan",
+   "role": "Technical Manager（用户表）",
+   "email": "furkan@optima.tc（用户表）",
+   "phone": "+90 507 463 0566（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Optima Mühendislik（Optima Engineering）",
+  "hq": "Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy 06909 Sincan / Ankara（+90 312 815 15 00）；İstanbul Perpa A Blok K:8 No:701",
+  "size": "制造商（人数待核）；沙特设厂",
+  "other": "产品：路障、升降柱、滑动门、道闸、破胎器、闸机、LPR 车牌识别、停车道闸"
+ },
+ "business_lines": [
+  "车辆出入口安防设备制造（路障、升降柱、道闸、闸机）",
+  "车牌识别/停车系统（IP 摄像 + 控制柜）"
+ ],
+ "channels": {
+  "网站": "https://www.optima-engineering.com/",
+  "电话": "+90 312 815 15 00（公开）",
+  "邮箱（公开）": "optima@optima.tc / info@optima-engineering.com",
+  "Instagram": "https://www.instagram.com/optima_turkiye/"
+ },
+ "signals": [
+  "LPR/道闸控制柜内需 4–8 口工业 PoE 为 IP 摄像与控制器供电 → 每套设备配一台，可贴 Optima 标；沙特工厂 = 第二出货地",
+  "会来深圳采购 → 可约郑州/深圳面谈并带样"
+ ],
+ "risks": [
+  "公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 30,
+  "why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标"
+ },
+ "email_hook": "Furkan Bey, plaka tanıma ve bariyer panolarınız için DIN ray 4 port gigabit PoE + 1 SFP endüstriyel switch (−40/+75 °C) Optima etiketiyle EXW 36,9 USD; Shenzhen ziyaretinizde numuneyi elden teslim edebiliriz — tarih belli mi?"
+}

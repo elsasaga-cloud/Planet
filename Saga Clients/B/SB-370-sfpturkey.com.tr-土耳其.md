@@ -1,4 +1,5 @@
 # sfpturkey.com.tr
+**官方名称（调研核实）**：SFPTURKEY Elektronik İth. İhr. Tic. Ltd. Şti.（İstanbul Kadıköy, TR；sfpturkey.com.tr；自有品牌 SFPTÜRKİYE / geMaxx / Gigacom）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-370`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-370
 rating: B
 rating_auto: B
+name_official: "SFPTURKEY Elektronik İth. İhr. Tic. Ltd. Şti.（İstanbul Kadıköy, TR；sfpturkey.com.tr；自有品牌 SFPTÜRKİYE / geMaxx / Gigacom）"
 score: 43
 country: 土耳其
 region: 土耳其
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424XGGPM-280W
-price_tier: 20%
-research: pending
+p1: STI-240GM
+price_tier: 30%
+research: done
 sources: 4
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户
+- **是谁**：伊斯坦布尔 Kadıköy 的光模块/网络设备进口商与电商 SFPTURKEY（2012 年以 Kreasis 起家；2014 Gigacom、2015 SFPTürkiye、2016 geMaxx 三个自有品牌的唯一进口商与分销商；2018 起自营电商、2020 起 amazon.com.tr/hepsiburada/trendyol 店铺；2022-11 更名 SFPTURKEY Elektronik；2–10 人；产品：兼容 SFP/SFP+/QSFP、网络交换机（含工业型分类）、介质转换器、光纤网卡；3 年换新保；Koşuyolu Mah. Cenap Şahabettin Sok. No.16；satis@sfpturkey.com.tr；+90 555 090 87 37）。ISAF 记录（Evelyn 客户）：向其推荐特色产品——万兆光、2 光 2 电、2 光 4 电、带 bypass；客户给了网站图片需求、我方修图；联系人 Ufuk Gören；无后续跟进。自有品牌电商 → OEM 30%。（调研 2026-10-21；表内兴趣：Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-240GM — 深挖对位：OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂无对应型号）；$62.2 USD EXW（30% 档，SmartByte LT-IS3206G-2GX4GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-370.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（电商）
+- **是谁**：伊斯坦布尔 Kadıköy 的光模块/网络设备进口商与电商 SFPTURKEY（2012 年以 Kreasis 起家；2014 Gigacom、2015 SFPTürkiye、2016 geMaxx 三个自有品牌的唯一进口商与分销商；2018 起自营电商、2020 起 amazon.com.tr/hepsiburada/trendyol 店铺；2022-11 更名 SFPTURKEY Elektronik；2–10 人；产品：兼容 SFP/SFP+/QSFP、网络交换机（含工业型分类）、介质转换器、光纤网卡；3 年换新保；Koşuyolu Mah. Cenap Şahabettin Sok. No.16；satis@sfpturkey.com.tr；+90 555 090 87 37）。ISAF 记录（Evelyn 客户）：向其推荐特色产品——万兆光、2 光 2 电、2 光 4 电、带 bypass；客户给了网站图片需求、我方修图；联系人 Ufuk Gören；无后续跟进。自有品牌电商 → OEM 30%。
+- **在卖/在用品牌**：SFPTÜRKİYE / SFPTURKEY（自有品牌）, geMaxx（自有品牌）, Gigacom（自有品牌）
+- **【LinkedIn】历史、品牌、渠道**
+  > 2012 yılında Kreasis adı ile … 2014 yılında Gigacom, 2015 yılında Sfptürkiye, 2016 yılında ise geMaxx markalarını piyasaya sunmuş olan SFPTURKEY, bu markaların tek marka sahibi, tek ithalatçısı ve tek yetkili distribütörü … 2020 yılından itibaren de amazon.com.tr, hepsiburada.com, trendyol.com … Şirket büyüklüğü: 2-10 çalışan … Kuruluş: 2012
+  > 来源：https://tr.linkedin.com/company/sfpturkey（抓取 2026-10-21）
+- **【官网】品类与联系方式**
+  > Transceiver - Network Switch - Media Converter - Fiber Ethernet Kartı - Fiber Çözümler - Bakır Sistemler … 0555 090 87 37 satis@sfpturkey.com.tr Koşuyolu Mahallesi Cenap Şahabettin Sokak No.16 Kadıköy İstanbul
+  > 来源：https://www.sfpturkey.com.tr/（抓取 2026-10-21）
+- **【官网】更名公告**
+  > 18.11.2022 tarihi itibari ile SFPTURKEY ELEKTRONİK İTH. İHR. TİC. LTD. ŞTİ. olarak değiştirilmiştir.
+  > 来源：https://sfpturkiye.com/blog/sfpturkey-sirket-unvan-degisikligi-duyurusu/（抓取 2023-08-14）
+- **【用户表】ISAF 互动：推荐 10G/2 光 2 电/2 光 4 电/bypass；修图需求**
+  > Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ufuk Gören（（用户表联系人；职务待核））ufuk.goren@sfpturkey.com.tr（用户表） +90 555 090 87 37（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（2022-11-18 更名） |
+| 成立 | 2012（Kreasis） |
+| 总部/地址 | Koşuyolu Mah. Cenap Şahabettin Sok. No.16, Kadıköy / İstanbul（+90 555 090 87 37；satis@sfpturkey.com.tr） |
+| 其他 | 自有品牌 SFPTÜRKİYE/SFPTURKEY（土耳其专利局注册）、geMaxx、Gigacom；CE/FC/RoHS；电商 + 市场平台店铺 |
+
+- **业务线**：兼容光模块（1G–100G）进口与电商销售；网络交换机（含工业型）、介质转换器、光纤网卡（自有品牌）
+- **触达通道（公开）**：电商: https://www.sfpturkey.com.tr/ · https://sfpturkiye.com/；电话: +90 555 090 87 37（公开）；邮箱（公开）: satis@sfpturkey.com.tr / info@sfpturkey.com.tr；LinkedIn: https://tr.linkedin.com/company/sfpturkey
+- **近况信号**：
+  - 已有自有品牌工业交换机/MC 分类 → 直接贴 SFPTÜRKİYE/geMaxx 标补 2 光 2 电 / 2 光 4 电 / 10G 机型；曾索要产品图（已修图）= 上架意向
+  - 电商定价透明 → 用 Realtek 线 + STI 小机型的价格优势
+- **风险/边界**：小团队、电商库存采购量小且比价；无后续跟进
+- **Saga 对位结论**：P1 STI-240GM（30% 档）——OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂无对应型号）
+- **邮件切入句（英文）**：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -80,6 +116,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ufuk Gören | （用户表联系人；职务待核） | ufuk.goren@sfpturkey.com.tr（用户表） / +90 555 090 87 37（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | UFUK GOREN | — | ufuk.goren@sfpturkey.com.tr / satis@sfpturkey.com.tr / +05322254195 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -99,19 +136,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-240GM | 深挖对位：OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂无对应型号） | $62.2 USD EXW（30% 档，SmartByte LT-IS3206G-2GX4GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-240GM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-240GM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -119,7 +157,7 @@ updated: 2026-10-21
 
 - **S**：土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424XGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-240GM 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -143,30 +181,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi UFUK,
+Hi Ufuk,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Picking up our earlier exchange about PoE / industrial switches. Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

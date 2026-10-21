@@ -1,0 +1,89 @@
+{
+ "code": "SB-222",
+ "name_official": "Fiberix İletişim Hizmetleri Ltd. Şti.（Gaziantep, TR；fiberix.com.tr；BTK 授权 ISP，AS205768）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "ISP 身份",
+   "quote": "Fiberix İletişim Hizmetleri Ltd. Şti., BTK tarafından Alt yapı ve İnternet Servis sağlayıcı olarak yetkilendirilmiştir.",
+   "url": "https://www.fiberix.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "应用商店",
+   "claim": "法人地址",
+   "quote": "FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI destek@fiberix.com.tr NO:74-A GAZI MAHALLESI ZUBEYDE HANIM BULVARI, SEHITKAMIL 27001 Gaziantep Türkiye … +908503332700",
+   "url": "https://play.google.com/store/apps/details?id=co.fiberix_oim_app.android&hl=en_US",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "RIPE",
+   "claim": "RIPE 成员与联系人",
+   "quote": "FIBERIX ILETISIM HIZMETLERI LTD. STI. … 27060 GAZIANTEP TURKEY Phone: +903422151693 … Email: zafery@fiberix.com.tr",
+   "url": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：商业交换机 + SFP；广州伙伴；PoE 不常用",
+   "quote": "在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Karasu",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "karasu@fiberix.com.tr（用户表）",
+   "phone": "+90 554 154 0100（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Zafer Yılmaz",
+   "role": "RIPE 技术/管理联系人（公开）",
+   "email": "zafery@fiberix.com.tr（RIPE 公开）",
+   "phone": "+90 342 215 16 93",
+   "source": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + RIPE 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Fiberix İletişim Hizmetleri Ltd. Şti.",
+  "hq": "Gazi Mah. Zübeyde Hanım Bulvarı No:74/A, Şehitkamil 27001 Gaziantep（+90 850 333 27 00；info@fiberix.com.tr）",
+  "size": "1–20（selling.com）～51–200（ZoomInfo）；AS205768 1,024 IPv4",
+  "other": "BTK 授权 ISP；家庭光纤宽带；手机 App"
+ },
+ "business_lines": [
+  "本地光纤宽带 ISP（Gaziantep）"
+ ],
+ "channels": {
+  "网站": "https://www.fiberix.com.tr/",
+  "电话": "+90 850 333 27 00（公开）",
+  "邮箱（公开）": "info@fiberix.com.tr；zafery@fiberix.com.tr（RIPE 公开）"
+ },
+ "signals": [
+  "ISP 汇聚/接入需要 24 口 + 10G 上联 L2/L3 交换机与 SFP 模块 → STC-424XGGM；已有广州伙伴 = 价格比较基准明确"
+ ],
+ "risks": [
+  "已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L3，$132.7）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报"
+ },
+ "email_hook": "Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L3 switch EXW 132,7 USD, yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?"
+}

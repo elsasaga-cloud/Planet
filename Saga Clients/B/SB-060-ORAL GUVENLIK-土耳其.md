@@ -1,4 +1,5 @@
 # ORAL GUVENLIK
+**官方名称（调研核实）**：Oral Güvenlik Sistemleri（Oral Companies，Lefkoşa/Nicosia, 北塞浦路斯；oralguvenlik.com）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-060`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-060
 rating: B
 rating_auto: B
+name_official: "Oral Güvenlik Sistemleri（Oral Companies，Lefkoşa/Nicosia, 北塞浦路斯；oralguvenlik.com）"
 score: 55
 country: 土耳其
 region: 土耳其
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
-price_tier: 25%
-research: pending
+p1: STC-28GPM
+price_tier: 20%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的系统集成/工程商；兴趣/在卖：问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格   说后面加WhatsApp发价格表
+- **是谁**：北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。（调研 2026-10-21；表内兴趣：问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格   说后面加WhatsApp发）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-060.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（网店）
+- **是谁**：北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。
+- **在卖/在用品牌**：Hikvision（零售）, Ttec
+- **【名录】公司、成立年、人员**
+  > Oral Güvenlik Sistemleri Overview … Website: oralguvenlik.com … Founded: 2008 … Metin Oral Oral Companies Şirketinde Business Owner … Muhammad Azeem Manager at Oral Güvenlik Sistemleri … numberOfEmployees 6
+  > 来源：https://aeroleads.com/c/oralguvenliksistemleri（抓取 2026-10-21）
+- **【厂商名录】地址与联系方式**
+  > ORAL GÜVENLİK SİSTEMLERİ Lefkoşa/K.K.T.C (0392) 228 33 30 info@oralguvenlik.com www.oralguvenlik.com
+  > 来源：https://ninova.com/ic/bayilerimiz（抓取 2026-10-21）
+- **【集团官网】集团归属**
+  > Markalarımız ve Kuruluş Yılları - Oral Güvenlik Sistemleri (2008): Güvenlik teknolojilerinde lider çözümler sunarak
+  > 来源：https://www.oralcompanies.com/hakkimizda（抓取 2026-10-21）
+- **【用户表】ISAF 互动：报价 $150/$90，嫌贵；收发器**
+  > 问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Muhammad Azeem (Ullah)（Manager（名录公开））info@oralguvenlik.com（用户表） +90 392 228 33 30〔https://aeroleads.com/c/oralguvenliksistemleri〕
+- **KP**：Metin Oral（Business Owner（名录公开））— —〔https://aeroleads.com/c/oralguvenliksistemleri〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Oral Güvenlik Sistemleri（Oral Companies） |
+| 成立 | 2008 |
+| 总部/地址 | Lefkoşa (Nicosia), KKTC（+90 392 228 33 30；info@oralguvenlik.com） |
+| 其他 | Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店 |
+
+- **业务线**：安防摄像/NVR 零售与安装（Hikvision）；POS/IT 配件
+- **触达通道（公开）**：网店: https://www.oralguvenlik.com/；电话: +90 392 228 33 30（公开）；邮箱（公开）: info@oralguvenlik.com
+- **近况信号**：
+  - 对 $90 的 Vitesse 2 光 8 PoE 管理机嫌贵 → 用 Saga Realtek 线 STC-28GPM（2 SFP + 8 PoE L2 管理，列表 $62.2）重报；收发器多模可一并报
+- **风险/边界**：北塞小市场、零售规模；价格敏感；无后续跟进
+- **Saga 对位结论**：P1 STC-28GPM（20% 档）——零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
+- **邮件切入句（英文）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -78,7 +114,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Muhammad AzeemUllah | Manager | info@oralguvenlik.com / +905338870300 | 用户表原值 | Clients/ 表 |
+| Muhammad Azeem (Ullah) | Manager（名录公开） | info@oralguvenlik.com（用户表） / +90 392 228 33 30 | 调研核实（公开页） | https://aeroleads.com/c/oralguvenliksistemleri |
+| Metin Oral | Business Owner（名录公开） | — / — | 调研核实（公开页） | https://aeroleads.com/c/oralguvenliksistemleri |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -95,19 +132,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28GPM | 深挖对位：零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议 | $62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（系统集成/工程商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -115,7 +153,7 @@ updated: 2026-10-21
 
 - **S**：土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -139,30 +177,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Muhammad,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Picking up our earlier exchange about PoE / industrial switches. Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

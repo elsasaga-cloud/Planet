@@ -1,0 +1,94 @@
+{
+ "code": "SB-060",
+ "name_official": "Oral Güvenlik Sistemleri（Oral Companies，Lefkoşa/Nicosia, 北塞浦路斯；oralguvenlik.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（网店）",
+ "summary": "北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision（零售）",
+  "Ttec"
+ ],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "公司、成立年、人员",
+   "quote": "Oral Güvenlik Sistemleri Overview … Website: oralguvenlik.com … Founded: 2008 … Metin Oral Oral Companies Şirketinde Business Owner … Muhammad Azeem Manager at Oral Güvenlik Sistemleri … numberOfEmployees 6",
+   "url": "https://aeroleads.com/c/oralguvenliksistemleri",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "厂商名录",
+   "claim": "地址与联系方式",
+   "quote": "ORAL GÜVENLİK SİSTEMLERİ Lefkoşa/K.K.T.C (0392) 228 33 30 info@oralguvenlik.com www.oralguvenlik.com",
+   "url": "https://ninova.com/ic/bayilerimiz",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "集团官网",
+   "claim": "集团归属",
+   "quote": "Markalarımız ve Kuruluş Yılları - Oral Güvenlik Sistemleri (2008): Güvenlik teknolojilerinde lider çözümler sunarak",
+   "url": "https://www.oralcompanies.com/hakkimizda",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：报价 $150/$90，嫌贵；收发器",
+   "quote": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Muhammad Azeem (Ullah)",
+   "role": "Manager（名录公开）",
+   "email": "info@oralguvenlik.com（用户表）",
+   "phone": "+90 392 228 33 30",
+   "source": "https://aeroleads.com/c/oralguvenliksistemleri"
+  },
+  {
+   "name": "Metin Oral",
+   "role": "Business Owner（名录公开）",
+   "email": "—",
+   "phone": "—",
+   "source": "https://aeroleads.com/c/oralguvenliksistemleri"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Oral Güvenlik Sistemleri（Oral Companies）",
+  "founded": "2008",
+  "hq": "Lefkoşa (Nicosia), KKTC（+90 392 228 33 30；info@oralguvenlik.com）",
+  "size": "约 6 人（AeroLeads/RocketReach）",
+  "other": "Hikvision 零售；Ttec 机柜；SambaPOS 经销；网店"
+ },
+ "business_lines": [
+  "安防摄像/NVR 零售与安装（Hikvision）",
+  "POS/IT 配件"
+ ],
+ "channels": {
+  "网店": "https://www.oralguvenlik.com/",
+  "电话": "+90 392 228 33 30（公开）",
+  "邮箱（公开）": "info@oralguvenlik.com"
+ },
+ "signals": [
+  "对 $90 的 Vitesse 2 光 8 PoE 管理机嫌贵 → 用 Saga Realtek 线 STC-28GPM（2 SFP + 8 PoE L2 管理，列表 $62.2）重报；收发器多模可一并报"
+ ],
+ "risks": [
+  "北塞小市场、零售规模；价格敏感；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28GPM",
+  "tier": 20,
+  "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议"
+ },
+ "email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
+}

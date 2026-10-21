@@ -1,0 +1,85 @@
+{
+ "code": "SB-054",
+ "name_official": "Desecure Technology / Desecure Özel Güvenlik（Denizli + İstanbul, TR；desecuretechnology.com · desecure.com.tr）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "技术公司定位与地址",
+   "quote": "Proaktif teknolojiler, Desecure Technology'nin kendi ürünleri olan saha bileşenleridir: elektrik ve internet altyapısı olmayan sahalarda çalışan mobil güvenlik sistemleri … Mobil sistemler güneş enerjisiyle çalışır … Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 İstanbul - Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 Denizli 444 76 49 bilgi@desecuretechnology.com",
+   "url": "https://desecuretechnology.com/proaktif-teknolojiler/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模（技术团队）",
+   "quote": "Desecure, Turkey's leader in proactive security … ensures the highest level of security for hundreds of facilities across Turkey using cutting-edge technologies, supported by a management, software, and engineering team of over 60 of the industry's most competent experts.",
+   "url": "https://rocketreach.co/desecure-technology-profile_b6830726c9f653a6",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "保安集团规模",
+   "quote": "Desecure Özel Güvenlik … Şirket büyüklüğü: 1.001-5.000 çalışan Genel Merkez: Denizli, Pamukkale … Kuruluş: 2008",
+   "url": "https://tr.linkedin.com/company/desecure",
+   "date": "2020-08-28"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：工业 8 口 PoE 30 W；含 20% 关税报价",
+   "quote": "想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Serdar Türker",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "serdar.turker@desecure.com.tr（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Desecure Technology（Desecure 集团）",
+  "founded": "2008（集团）",
+  "hq": "Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, Sarıyer İstanbul；运营技术中心 Desecure Plaza, Topraklık Mah. İzmir Bulvarı No:17, Pamukkale Denizli（444 76 49；bilgi@desecuretechnology.com）",
+  "size": "集团保安人员 1,001–5,000；技术团队 60+",
+  "other": "自研太阳能移动安防系统（无电无网场地）、AI 视频分析、热成像、远程监控；客户 RES/GES/BESS、工业、港口"
+ },
+ "business_lines": [
+  "私人保安服务（大体量）",
+  "Desecure Technology：移动安防塔、远程监控、CCTV/门禁集成（自研硬件集成）"
+ ],
+ "channels": {
+  "网站": "https://desecuretechnology.com/ · https://desecure.com.tr/",
+  "电话": "444 76 49（公开）",
+  "邮箱（公开）": "bilgi@desecuretechnology.com"
+ },
+ "signals": [
+  "太阳能移动安防塔 = DC 供电、宽温、8 口 PoE 30 W 工业交换机的标准场景 → 持续性采购（每塔一台）",
+  "要求含 20% 关税的报价 → 需给 DDP/到岸估算"
+ ],
+ "risks": [
+  "集团采购流程；英文沟通弱（用土耳其语）；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算"
+ },
+ "email_hook": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?"
+}

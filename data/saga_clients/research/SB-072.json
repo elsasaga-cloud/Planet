@@ -1,0 +1,77 @@
+{
+ "code": "SB-072",
+ "name_official": "Klasnet İletişim ve Güvenlik（Bursa Nilüfer, TR；klasnet.com.tr）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位、规模与联系方式",
+   "quote": "Sektördeki 14 yıllık tecrübemizin verdiği güven ile 2021 yılında ticari faaliyetlerimize başlamış bulunmaktayız. … 10+ Uzman Personel … 1400+ Tamamlanmış Proje … 700+ … info@klasnet.com.tr +90 224 443 55 27 … Üçevler Mah. Dumlupınar Cad. 120 A Nilüfer/BURSA",
+   "url": "https://klasnet.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "弱电业务范围",
+   "quote": "Yangın Algılama ve İhbar Sistemi Telefon/Data Sistemi Acil Anons Sistemi CCTV-Kapalı Devre Kamera Güvenlik Sistemi ( IP – Analog ) … Otopark Giriş/Çıkış Sistemleri … TV sistemleri ( SMATV, IPTV, İnteraktif TV ) Kartlı Geçiş Sistemleri",
+   "url": "https://klasnet.com.tr/elektrik-zayif-akim-isleri/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 互动：问如何成为分销商；MC/交换机/跳线",
+   "quote": "Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mustafa（姓待核）",
+   "role": "（用户表联系人）",
+   "email": "mustafa@klasnet.com.tr（用户表）",
+   "phone": "+90 546 546 37 43（公司 GSM，公开）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Klasnet İletişim ve Güvenlik",
+  "founded": "2021（商业运营；团队 14 年经验）",
+  "hq": "Üçevler Mah. Dumlupınar Cad. 120 A, Nilüfer / Bursa（+90 224 443 55 27；info@klasnet.com.tr；GSM +90 546 546 37 43）",
+  "size": "10+ 人（自述）",
+  "other": "1,400+ 项目、700+ 客户（自述）；光纤布线为主业"
+ },
+ "business_lines": [
+  "光纤/结构化布线与网络工程",
+  "CCTV、门禁、火灾报警、IPTV、公共广播（守界：火灾主系统不供）"
+ ],
+ "channels": {
+  "网站": "https://klasnet.com.tr/",
+  "电话": "+90 224 443 55 27（公开）",
+  "邮箱（公开）": "info@klasnet.com.tr"
+ },
+ "signals": [
+  "主动问「如何成为分销商」→ 可给 Bursa 区域代理条件（起订量、价格档、不独家）；主业光纤布线 → MC + 2 光口交换机 + SFP 捆绑"
+ ],
+ "risks": [
+  "年轻公司、资金有限；土耳其分销需本地库存；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28GPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附"
+ },
+ "email_hook": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?"
+}

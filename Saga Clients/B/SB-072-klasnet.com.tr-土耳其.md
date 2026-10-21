@@ -1,4 +1,5 @@
 # klasnet.com.tr
+**官方名称（调研核实）**：Klasnet İletişim ve Güvenlik（Bursa Nilüfer, TR；klasnet.com.tr）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-072`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-072
 rating: B
 rating_auto: B
+name_official: "Klasnet İletişim ve Güvenlik（Bursa Nilüfer, TR；klasnet.com.tr）"
 score: 55
 country: 土耳其
 region: 土耳其
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-110GE
+p1: STC-28GPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣
+- **是谁**：布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。（调研 2026-10-21；表内兴趣：Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,36 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-072.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。
+- **【官网】公司定位、规模与联系方式**
+  > Sektördeki 14 yıllık tecrübemizin verdiği güven ile 2021 yılında ticari faaliyetlerimize başlamış bulunmaktayız. … 10+ Uzman Personel … 1400+ Tamamlanmış Proje … 700+ … info@klasnet.com.tr +90 224 443 55 27 … Üçevler Mah. Dumlupınar Cad. 120 A Nilüfer/BURSA
+  > 来源：https://klasnet.com.tr/（抓取 2026-10-21）
+- **【官网】弱电业务范围**
+  > Yangın Algılama ve İhbar Sistemi Telefon/Data Sistemi Acil Anons Sistemi CCTV-Kapalı Devre Kamera Güvenlik Sistemi ( IP – Analog ) … Otopark Giriş/Çıkış Sistemleri … TV sistemleri ( SMATV, IPTV, İnteraktif TV ) Kartlı Geçiş Sistemleri
+  > 来源：https://klasnet.com.tr/elektrik-zayif-akim-isleri/（抓取 2026-10-21）
+- **【用户表】ISAF 互动：问如何成为分销商；MC/交换机/跳线**
+  > Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mustafa（姓待核）（（用户表联系人））mustafa@klasnet.com.tr（用户表） +90 546 546 37 43（公司 GSM，公开）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Klasnet İletişim ve Güvenlik |
+| 成立 | 2021（商业运营；团队 14 年经验） |
+| 总部/地址 | Üçevler Mah. Dumlupınar Cad. 120 A, Nilüfer / Bursa（+90 224 443 55 27；info@klasnet.com.tr；GSM +90 546 546 37 43） |
+| 其他 | 1,400+ 项目、700+ 客户（自述）；光纤布线为主业 |
+
+- **业务线**：光纤/结构化布线与网络工程；CCTV、门禁、火灾报警、IPTV、公共广播（守界：火灾主系统不供）
+- **触达通道（公开）**：网站: https://klasnet.com.tr/；电话: +90 224 443 55 27（公开）；邮箱（公开）: info@klasnet.com.tr
+- **近况信号**：
+  - 主动问「如何成为分销商」→ 可给 Bursa 区域代理条件（起订量、价格档、不独家）；主业光纤布线 → MC + 2 光口交换机 + SFP 捆绑
+- **风险/边界**：年轻公司、资金有限；土耳其分销需本地库存；无后续跟进
+- **Saga 对位结论**：P1 STC-28GPM（20% 档）——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
+- **邮件切入句（英文）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -74,7 +105,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | mustafa@klasnet.com.tr / +05013335527 | 用户表原值 | Clients/ 表 |
+| Mustafa（姓待核） | （用户表联系人） | mustafa@klasnet.com.tr（用户表） / +90 546 546 37 43（公司 GSM，公开） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -91,7 +122,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28GPM | 深挖对位：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附 | $62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -100,9 +131,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -111,8 +142,8 @@ updated: 2026-10-21
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STC-28GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -128,7 +159,7 @@ updated: 2026-10-21
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -137,30 +168,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hello,
+Hi Mustafa,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Picking up our earlier exchange about PoE / industrial switches. Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 
