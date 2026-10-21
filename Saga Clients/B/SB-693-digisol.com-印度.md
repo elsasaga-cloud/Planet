@@ -2,7 +2,7 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-693`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-693
@@ -12,15 +12,15 @@ score: 34
 country: 印度
 region: 南亚
 website: digisol.com
-type: 系统集成/工程商
+type: 印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）
 tier_tags: ["AI评估(IN)·DONE"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
-price_tier: 25%
+p1: STI-288GPM
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度系统集成/工程商：官网「Digisol – Leading Networking & IT Solutions in India」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：DG-MC5123S-PTL、DG-IS4628FSE、DG-IS4628HPSE、DG-IS1010GP；表内「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS  新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/）
+- **是谁**：印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS  新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | digisol.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | digisol.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Nandini Singh / Deputy Manager / Ranjan Gupta / Dy. Business Development Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS MC 线缆 Pon 周边产品<br>洪瑞 Upeto的工业FS <br>新桥商业 洪瑞工业<br>https://www.digisol.com/product/switching-solutions/industrial-switches/ | 事实（用户表） |
@@ -65,32 +65,47 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（digisol.com，快照 2026-10-21）
-- **是谁**：印度系统集成/工程商：官网「Digisol – Leading Networking & IT Solutions in India」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：DG-MC5123S-PTL、DG-IS4628FSE、DG-IS4628HPSE、DG-IS1010GP；表内「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；表内未见跟进记录。
-- **类型**：系统集成/工程商
+- **是谁**：印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。
+- **类型**：印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）
+- **在卖/在用品牌**：HRUI, Utepo
 - **【官网快照】官网标题：Digisol – Leading Networking & IT Solutions in India；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Digisol is a leading networking brand offering "Made In India" IT Networking solutions. Explore our innovative network products and technology.
   > 来源：https://www.digisol.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Digisol：印度本土网络品牌**
+  > Digisol is a leading networking brand offering "Made In India" IT Networking solutions.
+  > 来源：https://www.digisol.com/（抓取 2026-10-21）
+- **【用户表】工业 FS 来自洪瑞/Utepo，商用来自新桥**
+  > 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业；工业FS MC 线缆 Pon 周边产品
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ranjan Gupta（）ranjan.gupta@digisol.com 〔用户表〕
+- **KP**：Nandini Singh（）nandini.singh@digisol.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 印度 |
 | 其他 | 官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；无线 / WiFi；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 系统集成/工程商；region: 印度；contact: nandini.singh@digisol.com、ranjan.gupta@digisol.com
+- **业务线**：交换机（商用 / 工业 / 多千兆 L3）；FTTH / PON / MC / 布线 / 监控（自有品牌）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Digisol（自有） | DG-IS1010GP | 工业 8 PoE + 2 SFP 非管理（推断） | STI-288GP（Q-33 口径：只推 SmartByte 线） | https://www.digisol.com/product/switching-solutions/industrial-switches/（2026-10-21） |
+| Digisol（自有） | DG-IS4628HPSE | 工业 24 PoE + 4 SFP 管理（推断） | （Saga 工业 24 口无标准型） | https://www.digisol.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）；region: 印度；contact: nandini.singh@digisol.com、ranjan.gupta@digisol.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.digisol.com/）
-  - 官网公开邮箱：helpdesk@digisol.com
-  - 用户表兴趣/备注：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/
-- **风险/边界**：表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Nandini, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 新闻页 /digisol-introduces-dg-is1006gp-unmanaged-poe-gigabit-switch-series-…、/introducing-digisols-revolutionary-range-of-multigig-l3-and-l2-poe-and-non-poe-switche…
+  - 站内型号 DG-IS4628FSE / DG-IS4628HPSE / DG-IS1010GP / DG-IS1006GP / DG-MC5123S-PTL
+  - 表内：洪瑞 Utepo 的工业 FS；新桥商业；KP Nandini Singh / Deputy Manager；Ranjan Gupta / Dy. BDM
+- **风险/边界**：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线；印度 BIS：由 Digisol 以其品牌取证；整机关税高 → SKD 可谈；「Made in India」宣传：进口整机需配合其本地化口径；非主攻区（T5）
+- **Saga 对位结论**：P1 STI-288GPM（30% 档）——工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价
+- **邮件切入句（英文）**：Ranjan, for the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -132,7 +147,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nandini Singh | — | nandini.singh@digisol.com / ranjan.gupta@digisol.com | 用户表原值 | Clients/ 表 |
+| Ranjan Gupta | — | ranjan.gupta@digisol.com | 调研核实（公开页） | 用户表 |
+| Nandini Singh | — | nandini.singh@digisol.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -148,27 +164,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价 | $85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Upeto, 洪瑞：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Upeto, 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -196,25 +213,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Nandini,
+Hi Ranjan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Nandini, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. Ranjan, for the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Upeto class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

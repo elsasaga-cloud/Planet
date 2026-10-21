@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fatwiredist.ca，快照 2026-10-21）",
- "summary": "加拿大分销商/批发商：官网「Fatwire Distributors | Electronic Parts Distribution | Edmonton, Alberta」；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：LMR240、LMR400、LMR600、RG174；表内「商业FS POE 周边产品；商业FS POE 周边产品 Wi-tek的比较多」；群发 15 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "加拿大 Fatwire Distributors（埃德蒙顿低压与信号分配元件分销：卫星安装产品、布线（LMR/RG 同轴）、集成商首选；表内「商业 FS / PoE / 周边产品，Wi-Tek 的比较多」；KP Ray（ray.h@）、Michael Pothier（Inside Sales Specialist，mike.p@））；群发 15 次无回复。",
+ "type": "低压/布线分销商（加拿大，Wi-Tek PoE）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Wi-Tek"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,43 +23,69 @@
    "quote": "商业FS POE 周边产品；商业FS POE 周边产品 Wi-tek的比较多",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "加拿大卫星安装产品与布线分销",
+   "quote": "Fatwire is your #1 Dealer Source for Satellite Installation Products and Cabling in Canada",
+   "url": "https://www.fatwiredist.ca/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 FS PoE 周边，Wi-Tek 较多",
+   "quote": "商业FS POE 周边产品；Wi-tek的比较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ray",
+   "title": "（表内联系人）",
+   "email": "ray.h@fatwiredist.ca",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Michael Pothier",
+   "title": "Inside Sales Specialist",
+   "email": "mike.p@fatwiredist.ca",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 fatwiredist.ca，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "卫星安装 / 布线 / 低压元件分销"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "低压/布线分销商（加拿大，Wi-Tek PoE）",
   "region": "加拿大",
   "contact": "ray.h@fatwiredist.ca、mike.p@fatwiredist.ca"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.fatwiredist.ca/）",
-  "用户表兴趣/备注：商业FS POE 周边产品；商业FS POE 周边产品 Wi-tek的比较多"
+  "官网：Fatwire is your #1 Dealer Source for Satellite Installation Products and Cabling in Canada；Integrator’s Best Choice for Low Voltage and Signal Distribution Components",
+  "KP：Ray；Michael Pothier / Inside Sales Specialist（表内）"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现卖 Wi-Tek（深圳）价格基准低",
+  "15 次无回复 → 改向 Ray / Inside Sales 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Ray, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Ray, alongside the Wi-Tek PoE switches you stock for your integrator customers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, FCC/CE — which Wi-Tek model turns fastest for you, so we quote its equivalent first?"
 }

@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ecin.ca，快照 2026-10-21）",
- "summary": "加拿大分销商/经销商：官网「Open Networking Systems Integrator | ECIN Canada」（en-US）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆；站内品牌：Advantech；站内型号：RJ-45、QSFP112、QSFP-28、MTP12F；表内「似乎是个分销商 有Upeto的 工业FS（宇航外壳） SFP DAC」；群发 16 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "加拿大 ECIN（开放网络系统集成商：SONiC 白盒交换机、1G–1.6T 光模块、网络 TAP、Microchip 时钟同步；站内 Advantech；表内「似乎是分销商，有 Utepo 的；工业 FS（宇航外壳）、SFP、DAC；有很多办事处」；KP Wassim Mekkaoui（President，wassim.mekkaoui@）、Hassan Khanafer（CTO））；群发 16 次无回复。",
+ "type": "开放网络集成商/分销（加拿大，数据中心为主；工业 FS 为副线）",
  "size": "",
  "brands_seen": [
-  "Advantech"
+  "Advantech",
+  "Utepo"
  ],
  "evidence": [
   {
@@ -23,46 +24,71 @@
    "quote": "似乎是个分销商 有Upeto的 工业FS（宇航外壳） SFP DAC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "加拿大开放网络系统集成商",
+   "quote": "Canadian systems integrator for SONiC, 1G–1.6T optics, PacketMaestro network visibility, and Microchip timing and synchronization.",
+   "url": "https://www.ecin.ca",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo 的；工业 FS（宇航外壳）SFP DAC",
+   "quote": "似乎是个分销商 有Upeto的；工业FS（宇航外壳） SFP DAC；有很多办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Wassim Mekkaoui",
+   "title": "President",
+   "email": "wassim.mekkaoui@ecin.ca",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Hassan Khanafer",
+   "title": "CTO",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 ecin.ca，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "开放网络（SONiC 交换机 / 光模块 / TAP）集成",
+  "工业交换机（Utepo，副线）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "开放网络集成商/分销（加拿大，数据中心为主；工业 FS 为副线）",
   "region": "加拿大",
   "contact": "sales@ecin.ca、wassim.mekkaoui@ecin.ca"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ecin.ca）",
-  "在售工业网络品牌：Advantech → 工业线对位",
-  "官网公开邮箱：sales@ecin.ca",
-  "用户表兴趣/备注：似乎是个分销商 有Upeto的 工业FS（宇航外壳） SFP DAC"
+  "官网：Canadian systems integrator for SONiC, 1G–1.6T optics, PacketMaestro network visibility, and Microchip timing",
+  "商品页 /shop/exp400-32x-32-port-400g-…、/shop/7326-56x-…；表内：有 Utepo 的，工业 FS（宇航外壳）",
+  "KP：Wassim Mekkaoui / President；Hassan Khanafer / CTO（表内）"
  ],
  "risks": [
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主业数据中心开放网络（SONiC / 400G 光模块）：与 Saga 产品线错位，工业 FS 仅副线",
+  "SFP/DAC 需求 Saga 价目无（Q-32）；16 次无回复 → 改向 President 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "主业为 SONiC/光模块（Saga 无）；副线 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）同口型替换；SFP/DAC Q-32"
  },
- "email_hook": "Wassim, alongside the Advantech lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Wassim, alongside the Utepo industrial switches in your edge range, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots — is the industrial edge line something ECIN still stocks actively?"
 }

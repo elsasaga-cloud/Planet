@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（kozaguvenlik.com.tr，快照 2026-10-21）",
- "summary": "土耳其分销商/批发商：官网「Koza Güvenlik, IP Kamera, AHD Kamera, Teletek Alarm, Akıllı Ev Sistemleri」（tr）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ajax；站内型号：KD-3008H1-8P-C、KD-3016H2-16P-C、KD-9422、XR-640-AHD；表内「90 532 610 15 94」；群发 2 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "土耳其 Koza Güvenlik（安防经销渠道：Teletek 防盗/火灾报警、IP/AHD 摄像机、NVR、智能家居、PDKS 考勤；在售 TRENDnet TN-P08G / TN-P16M / TN-P24MG PoE 交换机、Ajax；KP Deniz Aydin（Technical Manager，deniz@）、ayhan@）；群发 2 次无回复。",
+ "type": "安防经销商（土耳其，TRENDnet PoE）",
  "size": "",
  "brands_seen": [
-  "Ajax"
+  "Ajax",
+  "TRENDnet",
+  "Teletek"
  ],
  "evidence": [
   {
@@ -23,41 +25,74 @@
    "quote": "90 532 610 15 94",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Koza 安防经销渠道",
+   "quote": "Koza Güvenlik Sistemleri; Teletek Hırsız Alarmı & Yangın Alarmı, IP Kamera, AHD Kamera, NVR Kayıt Cihazı, AHD Kayıt Cihazı, Akıllı Ev Sistemi Bayi Satış Kanalı",
+   "url": "https://kozaguvenlik.com.tr/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Deniz Aydin",
+   "title": "Technical Manager",
+   "email": "deniz@kozaguvenlik.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 kozaguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防经销（报警 / 摄像机 / NVR / 智能家居 / 考勤）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "安防经销商（土耳其，TRENDnet PoE）",
   "region": "土耳其",
   "contact": "deniz@kozaguvenlik.com.tr、ayhan@kozaguvenlik.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://kozaguvenlik.com.tr/）",
-  "安防品牌：Ajax → PoE 配套切入",
-  "官网公开邮箱：info@kozaguvenlik.com.tr",
-  "用户表兴趣/备注：90 532 610 15 94"
+  "商品页 /trendnet-tn-p08g-8-port-poe-switch、/trendnet-tn-p16m-16-port-poe-switch、/trendnet-tn-p24mg-24-port-poe-switch",
+  "官网：Teletek Hırsız Alarmı & Yangın Alarmı, IP Kamera, AHD Kamera, NVR … Bayi Satış Kanalı",
+  "KP：Deniz Aydin / Technical Manager（表内）"
  ],
- "risks": [],
+ "risks": [
+  "现卖 TRENDnet（美系品牌，台湾/中国代工）：需以价格切入",
+  "土耳其：汇率敏感，报 EXW 美元；2 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "官网快照对位：PoE 词频 85、监控 162 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 TRENDnet TN-P08G（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；TN-P16M → HRUI STC-2016GP（$88.0）；TN-P24MG → STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "Deniz, alongside the Ajax lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Deniz, alongside the TRENDnet TN-P08G / TN-P16M PoE switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD — which TRENDnet size do your dealers order most, so we quote its equivalent first?",
+ "products_seen": [
+  {
+   "brand": "TRENDnet",
+   "model": "TN-P08G",
+   "spec": "8 口千兆 PoE",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.kozaguvenlik.com.tr/trendnet-tn-p08g-8-port-poe-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "TRENDnet",
+   "model": "TN-P24MG",
+   "spec": "24 口千兆 PoE",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://kozaguvenlik.com.tr/",
+   "date": "2026-10-21"
+  }
+ ]
 }

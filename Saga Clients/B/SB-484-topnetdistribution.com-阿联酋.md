@@ -2,7 +2,7 @@
 
 > **评级 B**　|　阿联酋　|　档案编号 `SB-484`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：推送 2 次（2025-09-22 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、群发(沙特阿拉伯)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）（推断）　|　**历史关系**：推送 2 次（2025-09-22 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、群发(沙特阿拉伯)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-484
@@ -12,14 +12,14 @@ score: 40
 country: 阿联酋
 region: 中东
 website: topnetdistribution.com
-type: 分销商/经销商
+type: ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）
 tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE", "群发(沙特阿拉伯)"]
 deal: no
 replies: 0
 followups: 2
 first_contact: 2025-09-22
 last_contact: 2025-10-27
-p1: STI-288GP
+p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋分销商/经销商：官网「Topnet Distribution | information and communication technology」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：ICR-1745、TE350；表内「分销商 3旺等；分销很多牌子（3旺、Nsgate）」；群发 2 次、无回复。（调研 2026-10-21；表内兴趣：分销商 3旺等；分销很多牌子（3旺、Nsgate））
+- **是谁**：阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。（调研 2026-10-21；表内兴趣：分销商 3旺等；分销很多牌子（3旺、Nsgate））
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-22 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：官网快照对位：工业/自动化词频 75、PoE 15 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/经销商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | topnetdistribution.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 阿联酋（另见：沙特阿拉伯） | 事实（用户表）|
 | 网站/域名 | topnetdistribution.com / topnet.ae | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线） | 推断（据兴趣/备注关键词） |
 | 联系人 | Kandasamy Ganesan / Managing Director / Athira Babu / Sales Engineer / Ganesan/FB | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 分销商 3旺等 / 分销很多牌子（3旺、Nsgate） | 事实（用户表） |
@@ -65,31 +65,41 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（topnetdistribution.com，快照 2026-10-21）
-- **是谁**：阿联酋分销商/经销商：官网「Topnet Distribution | information and communication technology」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：ICR-1745、TE350；表内「分销商 3旺等；分销很多牌子（3旺、Nsgate）」；群发 2 次、无回复。
-- **类型**：分销商/经销商
+- **是谁**：阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。
+- **类型**：ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）
+- **在卖/在用品牌**：3onedata, Nsgate, B+B SmartWorx
 - **【官网快照】官网标题：Topnet Distribution | information and communication technology；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.
   > 来源：https://www.topnetdistribution.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 分销商 3旺等；分销很多牌子（3旺、Nsgate）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】经 SI/安装商/VAR 的 ICT 分销**
+  > We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.
+  > 来源：https://www.topnetdistribution.com/（抓取 2026-10-21）
+- **【用户表】分销很多牌子（三旺、Nsgate）**
+  > 分销商 3旺等 / 分销很多牌子（3旺、Nsgate）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Kandasamy Ganesan（）ganesan@topnet.ae 〔用户表〕
+- **KP**：Athira Babu（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 阿联酋 |
 | 其他 | 官网 topnetdistribution.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；无线 / WiFi；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 阿联酋；contact: info@topnet.ae、ganesan@topnet.ae
+- **业务线**：ICT 分销（工业光纤交换机 / MC / PoE / 数据中心 / 无线）
+- **触达通道（公开）**：role: ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）；region: 阿联酋；contact: info@topnet.ae、ganesan@topnet.ae
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.topnetdistribution.com/）
-  - 用户表兴趣/备注：分销商 3旺等；分销很多牌子（3旺、Nsgate）
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288GP（20% 档）——官网快照对位：工业/自动化词频 75、PoE 15 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/经销商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Kandasamy, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：We work through systems integrator, telecom installers and value added re sellers
+  - 栏目 /products/fiber-optics/industrial-fo-switches/b-b/、/media-converters-3/、/power-over-ethernet-2/
+  - KP：Kandasamy Ganesan / Managing Director；Athira Babu / Sales Engineer（表内）
+- **风险/边界**：非主攻区（T5，阿联酋）；多品牌分销（含 3onedata 低价基准）：白牌同质化；2 次无回复
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE
+- **邮件切入句（英文）**：Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -135,7 +145,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kandasamy Ganesan | — | info@topnet.ae / ganesan@topnet.ae | 用户表原值 | Clients/ 表 |
+| Kandasamy Ganesan | — | ganesan@topnet.ae | 调研核实（公开页） | 用户表 |
+| Athira Babu | — | — | 调研核实（公开页） | 用户表 |
 | Ganesan | — | info@topnet.ae / ganesan@topnet.ae | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -154,7 +165,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：官网快照对位：工业/自动化词频 75、PoE 15 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/经销商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| **P1** | STI-288GPM | 深挖对位：在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -163,9 +174,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -175,7 +186,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -208,7 +219,7 @@ updated: 2026-10-21
 ```text
 Hi Kandasamy,
 
-Picking up our earlier exchange about PoE / industrial switches. Kandasamy, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+Picking up our earlier exchange about PoE / industrial switches. Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

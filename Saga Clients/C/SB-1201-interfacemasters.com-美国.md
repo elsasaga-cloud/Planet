@@ -1,25 +1,26 @@
 # interfacemasters.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-1201`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　美国　|　档案编号 `SB-1201`　|　优先级 —　|　状态：名单内·未触达
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：美国自研网络硬件 OEM（同行，非渠道）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1201
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # 同行：美国自研自产网络硬件 OEM（Interface Masters），非渠道客户；c_sub=同行/厂商
 score: 25
 country: 美国
 region: 北美
 website: interfacemasters.com
-type: 系统集成/工程商
+type: 美国自研网络硬件 OEM（同行，非渠道）
 tier_tags: ["AI评估(US)"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-280GE
+p1: none
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,13 +30,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国系统集成/工程商：官网「Interface Masters Technologies Silicon Valley OEM for Network Appliances」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE；站内型号：BCM56850、ST18-001、CN98XX；表内「Marvell方案」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：Marvell方案）
-- **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
+- **是谁**：美国 Interface Masters Technologies（硅谷网络设备 OEM：定制嵌入式设备与管理型交换机硬件，100% 美国设计制造，Broadcom BCM56850 / Marvell CN98XX 方案，Niagara 交换机、bypass；表内「Marvell 方案」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：Marvell方案）
+- **为什么是 C 级**：**调研后定级 C**（同行：美国自研自产网络硬件 OEM（Interface Masters），非渠道客户；c_sub=同行/厂商）；自动分级 B：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；C 级细分：同行/厂商
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：系统集成/工程商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：自研自产交换机/设备硬件的 OEM 厂商（同行），不采购白牌成品 → 改 C）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | interfacemasters.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | interfacemasters.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 美国自研网络硬件 OEM（同行，非渠道） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | Marvell方案 | 事实（用户表） |
@@ -55,31 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（interfacemasters.com，快照 2026-10-21）
-- **是谁**：美国系统集成/工程商：官网「Interface Masters Technologies Silicon Valley OEM for Network Appliances」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE；站内型号：BCM56850、ST18-001、CN98XX；表内「Marvell方案」；表内未见跟进记录。
-- **类型**：系统集成/工程商
+- **是谁**：美国 Interface Masters Technologies（硅谷网络设备 OEM：定制嵌入式设备与管理型交换机硬件，100% 美国设计制造，Broadcom BCM56850 / Marvell CN98XX 方案，Niagara 交换机、bypass；表内「Marvell 方案」）；表内无跟进记录。
+- **类型**：美国自研网络硬件 OEM（同行，非渠道）
 - **【官网快照】官网标题：Interface Masters Technologies Silicon Valley OEM for Network Appliances；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE**
   > We provide you with innovative custom solutions in embedded appliances and managed switches network hardware technology, 100% designed and made in the USA.
   > 来源：https://interfacemasters.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > Marvell方案
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】硅谷网络设备 OEM，美国设计制造**
+  > We provide you with innovative custom solutions in embedded appliances and managed switches network hardware technology, 100% designed and made in the USA.
+  > 来源：https://interfacemasters.com/（抓取 2026-10-21）
+- **【用户表】Marvell 方案**
+  > Marvell方案
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **调研后定级**：C（原自动 B）——同行：美国自研自产网络硬件 OEM（Interface Masters），非渠道客户；c_sub=同行/厂商
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 interfacemasters.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；电信 / FTTH / ISP 设备；数据中心 / 企业 IT；网络交换 / PoE
-- **触达通道（公开）**：role: 系统集成/工程商；region: 美国；contact: sales@interfacemasters.com
+- **业务线**：定制嵌入式网络设备 / 管理型交换机硬件 OEM
+- **触达通道（公开）**：role: 美国自研网络硬件 OEM（同行，非渠道）；region: 美国；contact: sales@interfacemasters.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://interfacemasters.com/）
-  - 官网公开邮箱：sales@interfacemasters.com
-  - 用户表兴趣/备注：Marvell方案
-- **Saga 对位结论**：P1 STI-280GE（25% 档）——官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：系统集成/工程商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 官网：innovative custom solutions in embedded appliances and managed switches network hardware technology, 100% designed and made in the USA
+  - 站内 BCM56850 / CN98XX；页面 /products/switch-appliances
+- **风险/边界**：同行：自研自产管理型交换机硬件（美国制造），非渠道客户
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——自研自产交换机/设备硬件的 OEM 厂商（同行），不采购白牌成品 → 改 C
+- **邮件切入句（英文）**：（不发送：同行 OEM 厂商）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -129,33 +136,10 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|---|---|---|
 | AI客户评估/AI客户评估_US.xlsx#总表:104 | 103 | https://interfacemasters.com/products | 美国 |  | 谷歌 | Marvell方案 | sales@interfacemasters.com |  | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STI-280GE | 深挖对位：官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：系统集成/工程商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STI-280GE 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：同行/厂商。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-1201,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -174,7 +158,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Marvell |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -183,21 +167,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hello,
-
-Picking up our earlier exchange about PoE / industrial switches. We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -209,11 +179,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 

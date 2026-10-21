@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（kmsoltec.com，快照 2026-10-21）",
- "summary": "意大利工业自动化/IoT 方案商：官网「KM Soltec Srl」（en）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆；站内型号：MIL-STD-810G、VR-463733、IP69K、LGA1700；表内「卖德国Delock公司的；switch」；群发 1 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "意大利 KM Soltec Srl（定制工业 PC「Made in Italy」、工业触控设备、Asus 迷你 PC 认证经销；表内「卖德国 Delock 公司的；switch」「质量一般」）；表内 1 次跟进无回复。",
+ "type": "工业 PC 制造/分销（意大利，Delock 配件）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Delock",
+  "Asus"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,20 @@
    "quote": "卖德国Delock公司的；switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "KM Soltec：意大利定制工业 PC",
+   "quote": "KM Soltec Srl ; Custom Industrial PCs, Made in Italy ; Leader in Industrial Touch Devices ; #1 in Italy for Certified Asus Mini PCs",
+   "url": "https://www.kmsoltec.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "卖 Delock 的；switch",
+   "quote": "卖德国Delock公司的 / switch；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +46,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 kmsoltec.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "定制工业 PC / 工业触控设备",
+  "Delock 配件 / Asus 迷你 PC 经销"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业 PC 制造/分销（意大利，Delock 配件）",
   "region": "意大利",
   "contact": "info@kmsoltec.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.kmsoltec.com/en/）",
-  "官网公开邮箱：info@kmsoltec.com",
-  "用户表兴趣/备注：卖德国Delock公司的；switch"
+  "首页：Custom Industrial PCs, Made in Italy；Leader in Industrial Touch Devices；#1 in Italy for Certified Asus Mini PCs",
+  "表内：卖德国 Delock 公司的"
  ],
- "risks": [],
+ "risks": [
+  "交换机为配套品类（Delock 配件级），量小",
+  "1 次跟进无回复，无具名 KP（info@）"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-080GE",
+  "tier": 20,
+  "why": "工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?"
 }
