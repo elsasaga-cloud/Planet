@@ -1,0 +1,55 @@
+{
+ "code": "SB-289",
+ "name_official": "DG Enterprises（尼泊尔；Dhan Bahadur）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 5 电口 IM-FS280GE；回复 Email 发了商业 PoE 228 信息",
+   "quote": "兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dhan Bahadur",
+   "title": "（表内联系人）",
+   "email": "dtechnic02@gmail.com",
+   "phone": "+977 986 863 1483",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "DG Enterprises",
+  "founded": "",
+  "hq": "尼泊尔",
+  "size": "小型",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "经销 / 工程（推断）",
+  "region": "尼泊尔"
+ },
+ "risks": [
+  "小国小量；低价需求"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 25,
+  "why": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。"
+ },
+ "email_hook": "Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?"
+}

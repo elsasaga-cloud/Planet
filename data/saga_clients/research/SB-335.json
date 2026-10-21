@@ -1,0 +1,110 @@
+{
+ "code": "SB-335",
+ "name_official": "Delta Consulting LLC（დელტა კონსალტინგი）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dc.ge / delta-consulting.ge，快照 2026-10-21，格鲁吉亚语）",
+ "summary": "第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Dell",
+  "Juniper",
+  "Cambium",
+  "Teltonika",
+  "Dahua",
+  "Ruckus"
+ ],
+ "evidence": [
+  {
+   "kind": "D&B",
+   "claim": "注册与规模：Tbilisi，30 人，$2.05M，2014 年",
+   "quote": "DELTA CONSULTING, LLC… Tbilisi, Georgia… 30 employees… $2.05 million… Giorgi Jaliashvili Director; Daviti Giorgadze Commercial Director… Year Started: 2014",
+   "url": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "伙伴品牌 Cisco / Dell / F5 / Cambium / Teltonika / Dahua；info@dc.ge +995 32 2 05 00 55",
+   "quote": "პარტნიორები Cisco Dell F5 Cambium Room Alert Teltonika Dahua… info@dc.ge +995 (32) 2 05 00 55",
+   "url": "https://www.delta-consulting.ge/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "定位：格鲁吉亚领先 IT 系统集成商，服务企业与政府",
+   "quote": "Delta Consulting is one of the leading IT system integrator company in Georgia, cooperating with… IBM, Lenovo, Cisco, Dell, Juniper Networks… help businesses and governmental structures",
+   "url": "https://dc.ge/about-us-eng",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "George Jaliashvili：2017 至今 CEO（2005–2017 执行董事）",
+   "quote": "2017 - now CEO @ Delta Consulting",
+   "url": "https://rocketreach.co/george-jaliashvili-email_10433094",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从新桥拿货、CI 价格约对半；懂 WDM；对外壳保护膜误判质量；对 1 光 4 / 2 光 4 小壳有兴趣；2025-11 回复 small 8 port high poe",
+   "quote": "兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM… 对1光4 2光4小壳有兴趣；回复：small 8 port high poe",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "George Jaliashvili",
+   "title": "CEO / Partner",
+   "email": "george@dc.ge",
+   "phone": "+995 577 578 811",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Daviti Giorgadze",
+   "title": "Commercial Director",
+   "email": "sales@dc.ge",
+   "phone": "+995 32 205 0055",
+   "source": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + D&B + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Delta Consulting LLC",
+  "founded": "2014",
+  "hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia",
+  "size": "约 30 人，营收约 $2M",
+  "other": "US SAM 注册（UEI J9LKEG5JR7D6）"
+ },
+ "business_lines": [
+  "服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）",
+  "视频监控 CCTV（Dahua）",
+  "无线（Cambium、Ruckus）、IoT 网关（Teltonika）"
+ ],
+ "channels": {
+  "role": "系统集成商（企业 + 政府项目）",
+  "region": "格鲁吉亚"
+ },
+ "signals": [
+  "已从中国同行（新桥）采购同类工业小壳机 → 需求真实、在比价",
+  "2025-11 新需求：小型 8 口大功率 PoE",
+  "CEO 直接对接"
+ ],
+ "risks": [
+  "比价严苛（新桥 CI 价约为 Saga 一半）→ 需用 Marvell 芯片 / 保修 / 现货差异化，不打价格战",
+  "政府项目按单核用途（守界）",
+  "表内「外壳质量不满意」实为保护膜未撕 → 样品需附说明"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM-2BT",
+  "tier": 25,
+  "why": "其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。"
+ },
+ "email_hook": "George, you asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?"
+}

@@ -1,0 +1,92 @@
+{
+ "code": "SB-267",
+ "name_official": "Công ty TNHH TM DV Song Thành Công (STC Vietnam)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（stc-vietnam.com，快照 2026-10-21，越南语）",
+ "summary": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "Advantech",
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "品牌代理：NSD、Logika、Moxa、E2S、Enerdoor；pricing@ / duc@stc-vietnam.com / vantu@songthanhcong.com；关键词 automation 12 / moxa 12",
+   "quote": "STC VietNam chuyên cung cấp Encoder NSD, Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam… pricing@stc-vietnam.com… Mr. Văn Tú… Mr Đức",
+   "url": "https://stc-vietnam.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品",
+   "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mr. Linh",
+   "title": "（采购；表内注 MaiWe）",
+   "email": "linh@songthanhcong.com",
+   "phone": "+84 374 133 044",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Mr. Đức",
+   "title": "Sales",
+   "email": "duc@stc-vietnam.com",
+   "phone": "+84 379 720 873",
+   "source": "https://stc-vietnam.com/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Công ty TNHH TM DV Song Thành Công",
+  "founded": "",
+  "hq": "越南（胡志明市，待核）",
+  "size": "中小型工业元器件贸易商",
+  "other": "多品牌代理；有报价部"
+ },
+ "business_lines": [
+  "工业自动化元器件（编码器、传感器、继电器、电源）",
+  "工业网络（Moxa 交换机 / 串口服务器）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Moxa",
+   "model": "AWK-4131A 等",
+   "spec": "工业无线 / 交换机",
+   "saga": "Saga STI 工业线对位 Moxa EDS 入门款（价差 2–3 倍）",
+   "url": "https://stc-vietnam.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "工业元器件分销（Moxa 渠道）",
+  "region": "越南"
+ },
+ "signals": [
+  "多次问价工业小壳 / 2 光 16 电 / mini 工业 → 在找 Moxa 以外的低价工业线",
+  "表内另一联系人注「MaiWe」→ 已接触中国同行迈威"
+ ],
+ "risks": [
+  "Moxa 分销身份 → 只会拿低价线做补充",
+  "越南非主攻区；比价（MaiWe）"
+ ],
+ "saga_fit": {
+  "p1": "STI-244GP",
+  "tier": 20,
+  "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
+ },
+ "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?"
+}

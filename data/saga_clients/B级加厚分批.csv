@@ -233,24 +233,23 @@ SB-516,B,T2,Info Systems Lahore,巴基斯坦,南亚,0,1,1,0,0,0,0,0,15,,0,1,1,,,
 SA-125,B,T2,excellent data communications,马来西亚,亚太,0,1,1,0,0,0,0,0,14,,1,1,1,,,
 SB-034,B,T2,swift.net.pk,巴基斯坦,南亚,0,1,1,0,0,0,0,0,14,swift.net.pk,1,1,1,ok,,STC-28DGGPM
 SB-036,B,T2,PT. Catur Citra Wisesa,印度尼西亚,亚太,0,1,1,0,0,0,0,0,14,,1,1,1,,,
-SB-038,B,T2,Softline Technology,科威特,中东,0,1,1,0,0,0,0,0,14,,1,0,0,,,
-SB-065,B,T2,airpo.co.id,印度尼西亚,亚太,0,1,1,0,0,0,0,0,14,airpo.co.id,1,0,0,ok,,
-SB-092,B,T2,skeo.ru,俄罗斯,俄语区,0,1,1,0,0,0,0,0,14,skeo.ru,2,0,0,ok,Huawei,
-SB-113,B,T2,NETBOWL PTY LTD,博茨瓦纳,非洲,0,1,1,0,0,0,0,0,14,,1,0,0,,,
-SB-290,B,T2,Golden hub nepl pvt.ltd,尼泊尔,南亚,0,1,1,0,0,0,0,0,14,,1,0,0,,,
-SB-292,B,T2,Inland Revenue Department,尼泊尔,南亚,0,1,1,0,0,0,0,0,14,,1,0,0,,,
-SB-293,B,T2,Kimberley telecommunications,肯尼亚,非洲,0,1,1,0,0,0,0,0,14,,1,0,0,,,
-SB-335,B,T2,Delta Consulting,格鲁吉亚,俄语区,0,1,1,0,0,0,1,0,14,dc.ge,1,0,0,ok,,STC-28DGGPM
-SA-114,B,T2,Win-Tech Alliance Ltd,印度,南亚,0,1,1,0,0,0,0,0,13,win-alliance.com,1,1,0,parked_or_empty,,
-SB-031,B,T2,nivoxtech.com,印度,南亚,0,1,1,0,0,0,0,0,13,nivoxtech.com,1,0,0,ok,,
-SB-289,B,T2,DG enterprises,尼泊尔,南亚,0,1,1,0,0,0,0,0,13,,1,0,0,,,
-SB-346,B,T2,akoe.yusuf@gmail.com,印度尼西亚,亚太,0,1,1,0,0,0,0,0,13,,1,0,0,,,
-SB-633,B,T2,ahmadariyanto105@gmail.com,印度尼西亚,亚太,0,1,1,0,0,0,0,0,13,,1,0,0,,,
-SB-267,B,T2,stc-vietnam.com,越南,亚太,0,1,1,0,0,0,0,0,12,stc-vietnam.com;songthanhcong.com,2,0,0,ok,"Moxa,Cisco,Advantech",STI-280GE
-SB-326,B,T2,thuyluc.com,越南,亚太,0,1,1,0,0,0,0,0,12,thuyluc.com;vnn.vn,3,0,0,ok,,STI-280GE
-SB-333,B,T2,（未具名）,尼日利亚,非洲,0,1,1,0,0,0,0,0,11,,0,0,0,,,
-SB-042,B,T2,Pronet Connectivity (Pvt) Ltd.,巴基斯坦,南亚,0,1,1,0,0,0,0,0,10,pronet-tech.net,1,0,0,ok,"Ubiquiti,Fortinet",STC-28DGGPM
-SB-581,B,T2,Tien Phong CP,越南,亚太,0,1,1,0,0,0,0,0,10,,1,0,0,,,
+SB-038,B,T2,Softline Technology,科威特,中东,0,1,1,0,0,0,0,0,14,,1,1,1,,,
+SB-065,B,T2,airpo.co.id,印度尼西亚,亚太,0,1,1,0,0,0,0,0,14,airpo.co.id,1,1,1,ok,,
+SB-092,B,T2,skeo.ru,俄罗斯,俄语区,0,1,1,0,0,0,0,0,14,skeo.ru,2,1,1,ok,Huawei,
+SB-113,B,T2,NETBOWL PTY LTD,博茨瓦纳,非洲,0,1,1,0,0,0,0,0,14,,1,1,1,,,
+SB-290,B,T2,Golden hub nepl pvt.ltd,尼泊尔,南亚,0,1,1,0,0,0,0,0,14,,1,1,1,,,
+SB-293,B,T2,Kimberley telecommunications,肯尼亚,非洲,0,1,1,0,0,0,0,0,14,,1,1,1,,,
+SB-335,B,T2,Delta Consulting,格鲁吉亚,俄语区,0,1,1,0,0,0,1,0,14,dc.ge,1,1,1,ok,,STC-28DGGPM
+SA-114,B,T2,Win-Tech Alliance Ltd,印度,南亚,0,1,1,0,0,0,0,0,13,win-alliance.com,1,1,1,parked_or_empty,,
+SB-031,B,T2,nivoxtech.com,印度,南亚,0,1,1,0,0,0,0,0,13,nivoxtech.com,1,1,1,ok,,
+SB-289,B,T2,DG enterprises,尼泊尔,南亚,0,1,1,0,0,0,0,0,13,,1,1,1,,,
+SB-346,B,T2,akoe.yusuf@gmail.com,印度尼西亚,亚太,0,1,1,0,0,0,0,0,13,,1,1,1,,,
+SB-633,B,T2,ahmadariyanto105@gmail.com,印度尼西亚,亚太,0,1,1,0,0,0,0,0,13,,1,1,1,,,
+SB-267,B,T2,stc-vietnam.com,越南,亚太,0,1,1,0,0,0,0,0,12,stc-vietnam.com;songthanhcong.com,2,1,1,ok,"Moxa,Cisco,Advantech",STI-280GE
+SB-326,B,T2,thuyluc.com,越南,亚太,0,1,1,0,0,0,0,0,12,thuyluc.com;vnn.vn,3,1,1,ok,,STI-280GE
+SB-333,B,T2,（未具名）,尼日利亚,非洲,0,1,1,0,0,0,0,0,11,,0,1,1,,,
+SB-042,B,T2,Pronet Connectivity (Pvt) Ltd.,巴基斯坦,南亚,0,1,1,0,0,0,0,0,10,pronet-tech.net,1,1,1,ok,"Ubiquiti,Fortinet",STC-28DGGPM
+SB-581,B,T2,Tien Phong CP,越南,亚太,0,1,1,0,0,0,0,0,10,,1,1,1,,,
 SB-1283,B,T2,mulugetawendosen@gmail.com,埃塞俄比亚,非洲,0,1,1,0,0,0,0,0,7,,1,0,0,,,
 SB-1009,B,T2,wafulamusine@gmail.com,肯尼亚,非洲,0,1,1,0,0,0,0,0,5,,1,0,0,,,
 SB-262,B,T2,compuspare.co.za,南非,非洲,0,1,1,0,0,0,0,0,4,compuspare.co.za,1,0,0,ok,"Cisco,Huawei",STC-424XGGM

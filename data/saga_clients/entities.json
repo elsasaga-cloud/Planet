@@ -43740,9 +43740,9 @@
 "grade": "B",
 "research": {
 "code": "SA-114",
-"name_official": "Win-Tech Alliance Ltd（印度）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "印度网络设备公司，WA 在线，1 次回复、13 次跟进；需求为 5/8 口 2.5G 交换机的 CKD（散件组装）模式。",
+"name_official": "Win-Tech Alliance Ltd（孟买；Harvinder Luthra）",
+"website_status": "停放/空站（win-alliance.com 快照为「Welcome to our website」占位）",
+"summary": "印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。",
 "type": "设备组装/贸易商",
 "size": "待补证",
 "brands_seen": [],
@@ -43751,6 +43751,20 @@
 "kind": "用户记录",
 "claim": "5/8 口 2.5G 交换机 CKD 模式；WA 已加",
 "quote": "5 8口2.5G交换机 CKD模式；91 98199 91960 已加（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "win-alliance.com 为占位页",
+"quote": "title: Welcome to our website（parked_or_empty）",
+"url": "http://win-alliance.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 5 8 口 2.5G 交换机 CKD 模式；回复暂时没需求 ×2；发邮件给他 他发需求",
+"quote": "兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -43762,12 +43776,51 @@
 "email": "",
 "phone": "+91 98199 91960（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Harvinder Luthra",
+"title": "（负责人）",
+"email": "luthra@win-alliance.com",
+"phone": "+91 98199 91960",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。",
 "notes": "若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "Win-Tech Alliance Ltd（待核）",
+"founded": "",
+"hq": "Mumbai, India",
+"size": "小型",
+"other": "CKD / 本地组装意向"
+},
+"business_lines": [
+"网络产品进口 / 本地组装（CKD）"
+],
+"channels": {
+"role": "进口组装商（OEM/CKD）",
+"region": "印度"
+},
+"signals": [
+"CKD 2.5G 交换机 = OEM/ODM 口径（30% 档）",
+"需邮件正式报需求"
+],
+"risks": [
+"CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高",
+"官网占位 → 活跃度待核"
+],
+"saga_fit": {
+"p1": "STC-114XGDGP",
+"tier": 30,
+"why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。"
+},
+"email_hook": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
 }
 },
 {
@@ -68314,7 +68367,107 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-031",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-031",
+"name_official": "Nivox Technologies（Bengaluru）",
+"researched_at": "2026-10-21",
+"website_status": "在线（nivoxtech.com，快照 2026-10-21，首页近空）",
+"summary": "班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Lantech",
+"Atop",
+"IVEONET"
+],
+"evidence": [
+{
+"kind": "IndiaMART",
+"claim": "Lantech 工业 PoE 4–16 口、管理 8/16/24 口分销；合伙企业 ≤10 人，GST 2017",
+"quote": "Industrial POE Ethernet Switches… Brand LANTECH - Taiwan… Industrial Managed Ethernet Switch… 8 Port, 16 Port, 24 Port… Nature of Business: Manufacturer… Total Number of Employees: Upto 10 People… Legal Status of Firm: Partnership",
+"url": "https://www.indiamart.com/nivoxtechnologies/about-us.html",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "定位：工业以太网与坚固光纤产品供应商；邮箱含 info@lantechcom.tw / nmarketing@iveonet.com / support@iinvsys.com",
+"quote": "A leading supplier of Industrial Ethernet products, Rugged Fiber Optic Products… emails info@lantechcom.tw, info@nivoxtech.com, nmarketing@iveonet.com",
+"url": "https://nivoxtech.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "Iveonet 产品线并入 Nivox；地址 Nandini Layout, Bangalore 560096",
+"quote": "Iveonet ™ Products are now part of Nivox Technologies… 105, Dollars Scheme, Nandini Layout Bangalore – 560096",
+"url": "https://www.iveonet.com/contact.html",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "2024-04 工业 MC→price 证书；2025-05 4/8/16 口工业 PoE→EN50155；备注 Atop 的工业 MC",
+"quote": "回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Hemanth Kumar",
+"title": "Director",
+"email": "hemanth@nivoxtech.com",
+"phone": "+91 98455 04242",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + IndiaMART 核对）"
+},
+"company_facts": {
+"legal_name": "Nivox Technologies（Partnership）",
+"founded": "约 2017（GST）",
+"hq": "Nandini Layout, Bengaluru 560096, Karnataka, India",
+"size": "≤10 人（IndiaMART）",
+"other": "Lantech 印度分销；自有品牌 IVEONET / IINVSYS"
+},
+"business_lines": [
+"工业以太网交换机（Lantech 分销）",
+"工业 MC（Atop）",
+"坚固光纤配线 / 网线（IVEONET 自有品牌）"
+],
+"products_seen": [
+{
+"brand": "Lantech",
+"model": "工业 PoE 4–16 口 / 管理 8–24 口",
+"spec": "-40~75 ℃，5 年保",
+"saga": "Saga STI-288GPM / STI-21616GP 对位（价差大）",
+"url": "https://www.indiamart.com/proddetail/industrial-poe-ethernet-switches-24903781255.html",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "工业网络分销 + 自有品牌",
+"region": "印度"
+},
+"signals": [
+"有自有品牌 IVEONET → 可贴牌工业 MC / 小交换机（OEM 30）",
+"Lantech 高价 → 需要低价第二品牌"
+],
+"risks": [
+"守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路",
+"与 Lantech 分销身份冲突（需走自有品牌）"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 30,
+"why": "其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。"
+},
+"email_hook": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?"
+}
 },
 {
 "name": "opax.com",
@@ -70164,7 +70317,70 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-038",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-038",
+"name_official": "Softline Technology（科威特；Anand Rajendiran）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 2 光 16 电工业 PoE；2014 年国际站；回复 company info, price / useful",
+"quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Anand Rajendiran",
+"title": "（表内联系人）",
+"email": "rajaanand42@gmail.com",
+"phone": "+965 9415 7777",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "科威特",
+"size": "小型",
+"other": "gmail；阿里国际站老买家"
+},
+"business_lines": [
+"网络 / 弱电工程（推断）"
+],
+"channels": {
+"role": "工程商",
+"region": "科威特"
+},
+"signals": [
+"明确口型需求 2 光 16 电工业 PoE",
+"2025-11 主动要公司信息 + 价格"
+],
+"risks": [
+"gmail 联系、主体不可核",
+"海湾项目付款：T/T 预付"
+],
+"saga_fit": {
+"p1": "STI-21616GP",
+"tier": 25,
+"why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。"
+},
+"email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?"
+}
 },
 {
 "name": "genrov.com",
@@ -71248,7 +71464,81 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-042",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-042",
+"name_official": "Pronet (Private) Limited（Karachi）",
+"researched_at": "2026-10-21",
+"website_status": "在线（pronet-tech.net，快照 2026-10-21）",
+"summary": "卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Fortinet",
+"Ubiquiti"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "定位：核心网络 / 现代基础设施 / 云 / 威胁防护；卡拉奇 Clifton；关联 linkquestme.com（迪拜 +971 4 326 2916）",
+"quote": "RESILIENT CORE NETWORKS… Modern Infrastructure… Cloud… Horizon Tower, Plot# Commercial 2/6, Block No.3, Clifton, Karachi… info@linkquestme.com",
+"url": "https://pronet-tech.net/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 protocol converter，需求低端；回复商业 FE GE 5/7usd, DS, profile；有需求会说 ×3",
+"quote": "兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Muhammad Azhar Yousfani",
+"title": "（表内联系人）",
+"email": "ayousfani@pronet-tech.net",
+"phone": "+92 302 261 0124",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对）"
+},
+"company_facts": {
+"legal_name": "Pronet (Private) Limited",
+"founded": "",
+"hq": "Horizon Tower, Clifton Block 3, Karachi, Pakistan",
+"size": "中小型集成商",
+"other": "+92-21-35822401-4；迪拜关联公司 LinkQuest"
+},
+"business_lines": [
+"企业网络 / 数据中心",
+"网络安全（Fortinet）",
+"监控 / 门禁 / 无线（Ubiquiti）"
+],
+"channels": {
+"role": "系统集成商",
+"region": "巴基斯坦 + 阿联酋"
+},
+"signals": [
+"给出过目标价（商用 FE/GE MC $5–7）"
+],
+"risks": [
+"目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明",
+"「有需求会说」×3 = 被动"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 25,
+"why": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。"
+},
+"email_hook": "Azhar, your $5–7 target was for commercial media converters — we can do a desktop gigabit MC near that level at 100-pc quantity; is that the volume you'd place, or is it project-by-project?"
+}
 },
 {
 "name": "STORM ICT",
@@ -77139,7 +77429,76 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-065",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-065",
+"name_official": "Airpo Wireless（airpo.co.id）",
+"researched_at": "2026-10-21",
+"website_status": "域名仅跳转页（快照「Page Redirection」→ 停放）",
+"summary": "印尼无线 / 网络商 Airpo（Janm），表内注「不咋喜欢工业品」，官网原介绍 MC / PoE / 光纤交换机，需求长壳 2 光 8 PoE、0 光 8 长壳 PoE 管理、4 光 24 电；2024-04 对 10G MC 回复「主要用千兆的」。域名现仅跳转页。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "域名为跳转占位页",
+"quote": "title: Page Redirection; status ok（内容空）",
+"url": "https://airpo.co.id/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "网站：MC / PoE / FS；兴趣长壳 2 光 8 PoE、0 光 8 长壳 PoE 管理、4 光 24 电；回复主要用千兆的；备注不咋喜欢工业品",
+"quote": "兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Janm",
+"title": "（表内联系人）",
+"email": "airpowireless@gmail.com",
+"phone": "+62 813 8529 9366",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "印度尼西亚",
+"size": "小型",
+"other": "gmail；官网失效"
+},
+"business_lines": [
+"无线 / 网络设备经销（推断）"
+],
+"channels": {
+"role": "经销 / 工程",
+"region": "印度尼西亚"
+},
+"signals": [
+"明确商用口型需求：2 光 8 PoE 长壳、8 PoE 管理、4 光 24 电"
+],
+"risks": [
+"官网失效、活跃度存疑",
+"只要千兆商用、不要工业"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "其商用 2 光 8 PoE 管理需求 → Saga STC-28DGGPM；4 光 24 电 → STC-424XGGM（4×10G SFP+）。"
+},
+"email_hook": "Janm, you were after rack-style 8-PoE + 2-SFP managed and 24+4 units (gigabit only, no industrial) — both are Marvell-based now; shall I send the two-line EXW quote?"
+}
 },
 {
 "name": "broadstar.com",
@@ -84133,7 +84492,113 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-092",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-092",
+"name_official": "ООО «СКЕО» (SKEO)",
+"researched_at": "2026-10-21",
+"website_status": "在线（skeo.ru，快照 2026-10-21，俄语）",
+"summary": "俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "定位：俄罗斯光通信设备制造商与供应商；CWDM/DWDM、光模块、MC、熔接",
+"quote": "\"СКЕО\" - российский производитель и поставщик оборудования для волоконно-оптических линий связи… Модули SFP… SFP+… QSFP28… Медиаконвертеры",
+"url": "https://skeo.ru/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "客户群：运营商、ISP、政府通信部门；与 Juniper / Cisco 直接伙伴；SKEO 品牌 5 年保",
+"quote": "нацелена на удовлетворение потребностей операторов связи, интернет-провайдеров, департаментов связи государственных организаций… Juniper Networks и Cisco Systems… гарантийной поддержкой продолжительностью до 5 лет",
+"url": "https://skeo.ru/info/about",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "三地邮箱 msk@ / rostov@ / sales@skeo.ru；电话 +7 812（圣彼得堡）、+7 863（罗斯托夫）；关键词 sfp 30 / oem 7",
+"quote": "emails msk@skeo.ru, rostov@skeo.ru, sales@skeo.ru; phones +7 (812) 200-89-90, +7 (863) 303-35-37",
+"url": "https://skeo.ru/contact",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "主要是光模块、部分 MC、WDM 配件多；2024-09 8 电口→有兴趣；2025-11→有需求会说",
+"quote": "兴趣：主要是光模块 有一部分MC 有光路的;WDM配件较多；回复：有兴趣；有需求会说的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Nikolay Podoroga",
+"title": "Account Manager",
+"email": "npa@skeo.ru",
+"phone": "+7 903 486 5077",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 官网核对）"
+},
+"company_facts": {
+"legal_name": "ООО «СКЕО»",
+"founded": "（待核；物流团队「15 年以上」）",
+"hq": "Санкт-Петербург（+ 莫斯科、罗斯托夫办事处）",
+"size": "中小型制造 + 分销",
+"other": "自有品牌 SKEO 光模块 / MC；OEM 词频 7"
+},
+"business_lines": [
+"CWDM / DWDM 波分复用（自产）",
+"光模块 SFP/SFP+/XFP/QSFP/CFP、DAC",
+"媒体转换器（SKEO 品牌）",
+"熔接机 / 测试仪 / 无源器件",
+"网络设备、IPTV 机顶盒"
+],
+"products_seen": [
+{
+"brand": "SKEO",
+"model": "SK-SFP-C1-xx-80L-D",
+"spec": "CWDM SFP 1.25G 80 km",
+"saga": "同行（Saga 不做模块）",
+"url": "https://skeo.ru/katalog/optical-modules/sfp",
+"date": "2026-10-21"
+},
+{
+"brand": "SKEO",
+"model": "MC 2×SFP / RJ45-SFP+ 10G",
+"spec": "媒体转换器",
+"saga": "同行（Saga STI-110GE 仅工业款）",
+"url": "https://skeo.ru/katalog/optical-modules/mediakonvertery",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "制造商 + 分销（运营商 / ISP 渠道）",
+"region": "俄罗斯"
+},
+"signals": [
+"对 8 电口交换机有兴趣（其目录「Сетевое оборудование」缺自有交换机）",
+"有 OEM 经验 → 可做 SKEO 贴牌交换机"
+],
+"risks": [
+"俄罗斯：制裁与收款（T/T 第三国 / 人民币结算），物流合规自核",
+"光模块 / MC 为其自有品牌 → 只推交换机"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。"
+},
+"email_hook": "Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?"
+}
 },
 {
 "name": "unea-x.com",
@@ -121609,7 +122074,65 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-113",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-113",
+"name_official": "Netbowl (Pty) Ltd（博茨瓦纳）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "博茨瓦纳网络公司 Netbowl（Lenamile Catlass Pogiso），需求工业小壳 1 光 4；2024-05 谈过一个项目未成，2025-06「slow business」。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣工业小壳 1 光 4；回复谈了一个项目没成；slow business",
+"quote": "兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Lenamile Catlass Pogiso",
+"title": "（表内联系人）",
+"email": "lpogiso@gmail.com",
+"phone": "+267 71 704 050",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Netbowl (Pty) Ltd",
+"founded": "",
+"hq": "博茨瓦纳",
+"size": "小型",
+"other": "gmail"
+},
+"channels": {
+"role": "网络工程 / 经销（推断）",
+"region": "博茨瓦纳"
+},
+"signals": [
+"明确口型：工业 1 光 4 小壳"
+],
+"risks": [
+"业务清淡；小国小量"
+],
+"saga_fit": {
+"p1": "STI-144GP",
+"tier": 25,
+"why": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。"
+},
+"email_hook": "Lenamile, when business picks up — the 1-SFP + 4-port compact industrial unit you asked about ships from 1 pc; do you need PoE on the 4 ports or plain gigabit?"
+}
 },
 {
 "name": "Amazon IMPORT",
@@ -178963,7 +179486,99 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-267",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-267",
+"name_official": "Công ty TNHH TM DV Song Thành Công (STC Vietnam)",
+"researched_at": "2026-10-21",
+"website_status": "在线（stc-vietnam.com，快照 2026-10-21，越南语）",
+"summary": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Moxa",
+"Advantech",
+"Cisco"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "品牌代理：NSD、Logika、Moxa、E2S、Enerdoor；pricing@ / duc@stc-vietnam.com / vantu@songthanhcong.com；关键词 automation 12 / moxa 12",
+"quote": "STC VietNam chuyên cung cấp Encoder NSD, Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam… pricing@stc-vietnam.com… Mr. Văn Tú… Mr Đức",
+"url": "https://stc-vietnam.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品",
+"quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Mr. Linh",
+"title": "（采购；表内注 MaiWe）",
+"email": "linh@songthanhcong.com",
+"phone": "+84 374 133 044",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Mr. Đức",
+"title": "Sales",
+"email": "duc@stc-vietnam.com",
+"phone": "+84 379 720 873",
+"source": "https://stc-vietnam.com/"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对）"
+},
+"company_facts": {
+"legal_name": "Công ty TNHH TM DV Song Thành Công",
+"founded": "",
+"hq": "越南（胡志明市，待核）",
+"size": "中小型工业元器件贸易商",
+"other": "多品牌代理；有报价部"
+},
+"business_lines": [
+"工业自动化元器件（编码器、传感器、继电器、电源）",
+"工业网络（Moxa 交换机 / 串口服务器）"
+],
+"products_seen": [
+{
+"brand": "Moxa",
+"model": "AWK-4131A 等",
+"spec": "工业无线 / 交换机",
+"saga": "Saga STI 工业线对位 Moxa EDS 入门款（价差 2–3 倍）",
+"url": "https://stc-vietnam.com/",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "工业元器件分销（Moxa 渠道）",
+"region": "越南"
+},
+"signals": [
+"多次问价工业小壳 / 2 光 16 电 / mini 工业 → 在找 Moxa 以外的低价工业线",
+"表内另一联系人注「MaiWe」→ 已接触中国同行迈威"
+],
+"risks": [
+"Moxa 分销身份 → 只会拿低价线做补充",
+"越南非主攻区；比价（MaiWe）"
+],
+"saga_fit": {
+"p1": "STI-244GP",
+"tier": 20,
+"why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
+},
+"email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?"
+}
 },
 {
 "name": "swl.co.nz",
@@ -184494,7 +185109,62 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-289",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-289",
+"name_official": "DG Enterprises（尼泊尔；Dhan Bahadur）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 5 电口 IM-FS280GE；回复 Email 发了商业 PoE 228 信息",
+"quote": "兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Dhan Bahadur",
+"title": "（表内联系人）",
+"email": "dtechnic02@gmail.com",
+"phone": "+977 986 863 1483",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "DG Enterprises",
+"founded": "",
+"hq": "尼泊尔",
+"size": "小型",
+"other": "gmail"
+},
+"channels": {
+"role": "经销 / 工程（推断）",
+"region": "尼泊尔"
+},
+"risks": [
+"小国小量；低价需求"
+],
+"saga_fit": {
+"p1": "STI-050GE",
+"tier": 25,
+"why": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。"
+},
+"email_hook": "Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?"
+}
 },
 {
 "name": "Golden hub nepl pvt.ltd",
@@ -184762,7 +185432,62 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-290",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-290",
+"name_official": "Golden Hub Nepal Pvt. Ltd.（尼泊尔）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "尼泊尔网络商 Golden Hub（Chhatra Puri），需求 2 光 10 电；2025-11 收 10G MC 邮件；无域名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 2 光 10 电；1120 email 发了 10G MC",
+"quote": "兴趣：2光10电；回复：1120email发了10gmc",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Chhatra Puri",
+"title": "（表内联系人）",
+"email": "pchhatra02@gmail.com",
+"phone": "+977 985 284 9417",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Golden Hub Nepal Pvt. Ltd.",
+"founded": "",
+"hq": "尼泊尔",
+"size": "小型",
+"other": "gmail"
+},
+"channels": {
+"role": "网络经销 / ISP 配套（推断）",
+"region": "尼泊尔"
+},
+"risks": [
+"尼泊尔进口小量、付款 T/T 预付"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。"
+},
+"email_hook": "Chhatra, for the 2-fibre + 10-copper requirement, do the copper ports need PoE (for cameras/APs) or not? I'll quote the matching 8+2 model either way, from 1 pc."
+}
 },
 {
 "name": "INTERCOAX CO.,LTD",
@@ -185736,10 +186461,51 @@
 "-6 区域 南亚/尼泊尔",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "有回复·跟进中",
 "code": "SB-292",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-292",
+"name_official": "Inland Revenue Department（尼泊尔税务局；联系人 Vijay Yadav）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail）",
+"summary": "表内公司名为尼泊尔政府税务部门（Inland Revenue Department），联系人 Vijay Yadav 用 gmail 要工业品价目；政府部门终端 = 守界（公共部门采购走招标、非渠道）→ 降 C。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 price list 工业品；回复 thanks",
+"quote": "兴趣：price list工业品；回复：thanks",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Vijay Yadav",
+"title": "（表内联系人）",
+"email": "vijayrng@gmail.com",
+"phone": "+977 984 159 7473",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": "C",
+"override_reason": "守界：政府部门终端用户（公共部门招标、非渠道），且仅一次 thanks",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 政府部门降 C）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不主动供政府部门；若其本地集成商来询再报。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "Kimberley telecommunications",
@@ -186001,7 +186767,72 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-293",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-293",
+"name_official": "Kimberley Telecommunications（肯尼亚）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 2 光 16 管理 非标 POE；目前在用 Planet 的设备；回复 price",
+"quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "gadsatoh@gmail.com",
+"phone": "+254 720 749 670",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Kimberley Telecommunications（待核）",
+"founded": "",
+"hq": "肯尼亚",
+"size": "小型",
+"other": "gmail；PLANET 用户"
+},
+"business_lines": [
+"电信 / 网络工程"
+],
+"channels": {
+"role": "工程商（PLANET 用户）",
+"region": "肯尼亚"
+},
+"signals": [
+"在用 PLANET → 对台系价位敏感，Saga 可直接对价 PLANET GS-4210-16P2S",
+"要过 passive PoE（24V 非标）价格"
+],
+"risks": [
+"非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
+"无姓名、无公司域名"
+],
+"saga_fit": {
+"p1": "STC-2216GPM",
+"tier": 25,
+"why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。"
+},
+"email_hook": "You mentioned running PLANET gear and needing a 16-PoE + 2-SFP managed unit with passive (24 V) PoE — is that for radios/CPEs? If so I'll confirm the passive-PoE variant and price it against the GS-4210-16P2S."
+}
 },
 {
 "name": "MAX protect",
@@ -196564,7 +197395,72 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-326",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-326",
+"name_official": "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）",
+"researched_at": "2026-10-21",
+"website_status": "在线（快照 2026-10-21，越南语）",
+"summary": "越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "主业液压产品",
+"quote": "Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực",
+"url": "https://thuyluc.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息",
+"quote": "兴趣：2光6电非管理非POE SC 20km 没成",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Lee",
+"title": "（表内联系人）",
+"email": "hydraulics@vnn.vn",
+"phone": "+84 912 336 758",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：行业外）"
+},
+"company_facts": {
+"legal_name": "Công ty Cổ Phần MTS",
+"founded": "",
+"hq": "越南",
+"size": "中小型",
+"other": "液压行业（行业外）"
+},
+"business_lines": [
+"液压元件贸易"
+],
+"channels": {
+"role": "行业外终端 / 偶发采购",
+"region": "越南"
+},
+"risks": [
+"行业外，需求一次性"
+],
+"saga_fit": {
+"p1": "STI-280GE",
+"tier": 25,
+"why": "2 光 6 电非管理非 PoE（SC 20 km）≈ Saga STI-280GE（2 SFP + 8 GE，$46.6/48.6/50.5）+ SC 20 km 模块（Q-32）。"
+},
+"email_hook": "（低优先；若再询再报）"
+}
 },
 {
 "name": "welotec.com",
@@ -198489,7 +199385,54 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-333",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-333",
+"name_official": "（未具名，尼日利亚 +234 815）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "尼日利亚 WhatsApp 联系人，2024–2025 五次回复（问芯片、要价目、问「啥是 2.5G」、「MCU processor」），技术理解有限；无邮箱无公司。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "回复 chip? / price list / prices / 啥是 2.5g / MCU processor",
+"quote": "回复：chip?；price list；prices；啥是2.5g；MCU processor",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "尼日利亚",
+"size": "",
+"other": "仅 WhatsApp"
+},
+"channels": {
+"role": "（未知）",
+"region": "尼日利亚"
+},
+"risks": [
+"身份不明；尼日利亚付款风险（T/T 预付）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "商用 PoE 入门款。"
+},
+"email_hook": "（无邮箱；不主动跟进）"
+}
 },
 {
 "name": "3s.com.tr",
@@ -198995,7 +199938,117 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-335",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-335",
+"name_official": "Delta Consulting LLC（დელტა კონსალტინგი）",
+"researched_at": "2026-10-21",
+"website_status": "在线（dc.ge / delta-consulting.ge，快照 2026-10-21，格鲁吉亚语）",
+"summary": "第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Cisco",
+"Dell",
+"Juniper",
+"Cambium",
+"Teltonika",
+"Dahua",
+"Ruckus"
+],
+"evidence": [
+{
+"kind": "D&B",
+"claim": "注册与规模：Tbilisi，30 人，$2.05M，2014 年",
+"quote": "DELTA CONSULTING, LLC… Tbilisi, Georgia… 30 employees… $2.05 million… Giorgi Jaliashvili Director; Daviti Giorgadze Commercial Director… Year Started: 2014",
+"url": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "伙伴品牌 Cisco / Dell / F5 / Cambium / Teltonika / Dahua；info@dc.ge +995 32 2 05 00 55",
+"quote": "პარტნიორები Cisco Dell F5 Cambium Room Alert Teltonika Dahua… info@dc.ge +995 (32) 2 05 00 55",
+"url": "https://www.delta-consulting.ge/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "定位：格鲁吉亚领先 IT 系统集成商，服务企业与政府",
+"quote": "Delta Consulting is one of the leading IT system integrator company in Georgia, cooperating with… IBM, Lenovo, Cisco, Dell, Juniper Networks… help businesses and governmental structures",
+"url": "https://dc.ge/about-us-eng",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "George Jaliashvili：2017 至今 CEO（2005–2017 执行董事）",
+"quote": "2017 - now CEO @ Delta Consulting",
+"url": "https://rocketreach.co/george-jaliashvili-email_10433094",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "从新桥拿货、CI 价格约对半；懂 WDM；对外壳保护膜误判质量；对 1 光 4 / 2 光 4 小壳有兴趣；2025-11 回复 small 8 port high poe",
+"quote": "兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM… 对1光4 2光4小壳有兴趣；回复：small 8 port high poe",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "George Jaliashvili",
+"title": "CEO / Partner",
+"email": "george@dc.ge",
+"phone": "+995 577 578 811",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Daviti Giorgadze",
+"title": "Commercial Director",
+"email": "sales@dc.ge",
+"phone": "+995 32 205 0055",
+"source": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + D&B + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Delta Consulting LLC",
+"founded": "2014",
+"hq": "72 O. Oniashvili Str., Tbilisi 0160, Georgia",
+"size": "约 30 人，营收约 $2M",
+"other": "US SAM 注册（UEI J9LKEG5JR7D6）"
+},
+"business_lines": [
+"服务器 / 网络 / 通信集成（Cisco、Dell、Juniper）",
+"视频监控 CCTV（Dahua）",
+"无线（Cambium、Ruckus）、IoT 网关（Teltonika）"
+],
+"channels": {
+"role": "系统集成商（企业 + 政府项目）",
+"region": "格鲁吉亚"
+},
+"signals": [
+"已从中国同行（新桥）采购同类工业小壳机 → 需求真实、在比价",
+"2025-11 新需求：小型 8 口大功率 PoE",
+"CEO 直接对接"
+],
+"risks": [
+"比价严苛（新桥 CI 价约为 Saga 一半）→ 需用 Marvell 芯片 / 保修 / 现货差异化，不打价格战",
+"政府项目按单核用途（守界）",
+"表内「外壳质量不满意」实为保护膜未撕 → 样品需附说明"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM-2BT",
+"tier": 25,
+"why": "其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。"
+},
+"email_hook": "George, you asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?"
+}
 },
 {
 "name": "Eds protection technology",
@@ -201172,7 +202225,62 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-346",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-346",
+"name_official": "Yusuf（印度尼西亚；个人 gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "印尼联系人 Yusuf，兴趣工业光纤交换机，2024-06 收 HRUI 商用 2 光 8 PoE 管理邮件，2025-11 收 10G MC 邮件；无公司名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣工业 FS；Email 发了洪瑞商业 2 光 8 PoE 管理信息；1120 email 发了 10G MC",
+"quote": "兴趣：工业FS；回复：Email发了洪瑞商业2光8PoE管理信息；1120email发了10gmc",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Yusuf",
+"title": "（表内联系人）",
+"email": "akoe.yusuf@gmail.com",
+"phone": "+62 821 3630 2727",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "印度尼西亚",
+"size": "",
+"other": "gmail"
+},
+"channels": {
+"role": "（未知）",
+"region": "印度尼西亚"
+},
+"risks": [
+"身份不明；低优先"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "工业光纤交换机 → STI-288GP（2 SFP + 8 PoE）起手。"
+},
+"email_hook": "Yusuf, you asked about industrial fibre switches — 2 SFP + 8 ports, PoE or non-PoE, DIN-rail; which one should I price for you?"
+}
 },
 {
 "name": "alhossan.ly",
@@ -258696,7 +259804,65 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-581",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-581",
+"name_official": "Tiên Phong CP（越南；Trung）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 16 24 32 port POE Switch；1120 email 48 口；1216 email 22mini",
+"quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Trung",
+"title": "（表内联系人）",
+"email": "semtec2017@gmail.com",
+"phone": "+84 966 246 152",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Tiên Phong CP（待核）",
+"founded": "",
+"hq": "越南",
+"size": "小型",
+"other": "gmail"
+},
+"channels": {
+"role": "安防 / 网络经销（推断）",
+"region": "越南"
+},
+"signals": [
+"明确口型：16/24/32 口 PoE"
+],
+"risks": [
+"越南低价市场；gmail"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。"
+},
+"email_hook": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?"
+}
 },
 {
 "name": "altronix.com",
@@ -269167,7 +270333,62 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-633",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-633",
+"name_official": "Ahmad Ariyanto（印度尼西亚；个人 gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣价格表等各种信息；Email 发了 2 光 2 小壳；1120 email 发了 48 口",
+"quote": "兴趣：价格表等各种信息；回复：Email发了2光2小壳信息；1120email发了48口",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ahmad Ariyanto",
+"title": "（表内联系人）",
+"email": "ahmadariyanto105@gmail.com",
+"phone": "+62 899 048 0997",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "印度尼西亚",
+"size": "",
+"other": "gmail"
+},
+"channels": {
+"role": "（未知）",
+"region": "印度尼西亚"
+},
+"risks": [
+"身份不明；泛要价目"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "无明确口型；入门 8 PoE 管理型。"
+},
+"email_hook": "Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first."
+}
 },
 {
 "name": "avanis.de",

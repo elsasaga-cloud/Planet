@@ -1,0 +1,69 @@
+{
+ "code": "SB-065",
+ "name_official": "Airpo Wireless（airpo.co.id）",
+ "researched_at": "2026-10-21",
+ "website_status": "域名仅跳转页（快照「Page Redirection」→ 停放）",
+ "summary": "印尼无线 / 网络商 Airpo（Janm），表内注「不咋喜欢工业品」，官网原介绍 MC / PoE / 光纤交换机，需求长壳 2 光 8 PoE、0 光 8 长壳 PoE 管理、4 光 24 电；2024-04 对 10G MC 回复「主要用千兆的」。域名现仅跳转页。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "域名为跳转占位页",
+   "quote": "title: Page Redirection; status ok（内容空）",
+   "url": "https://airpo.co.id/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "网站：MC / PoE / FS；兴趣长壳 2 光 8 PoE、0 光 8 长壳 PoE 管理、4 光 24 电；回复主要用千兆的；备注不咋喜欢工业品",
+   "quote": "兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Janm",
+   "title": "（表内联系人）",
+   "email": "airpowireless@gmail.com",
+   "phone": "+62 813 8529 9366",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "印度尼西亚",
+  "size": "小型",
+  "other": "gmail；官网失效"
+ },
+ "business_lines": [
+  "无线 / 网络设备经销（推断）"
+ ],
+ "channels": {
+  "role": "经销 / 工程",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "明确商用口型需求：2 光 8 PoE 长壳、8 PoE 管理、4 光 24 电"
+ ],
+ "risks": [
+  "官网失效、活跃度存疑",
+  "只要千兆商用、不要工业"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "其商用 2 光 8 PoE 管理需求 → Saga STC-28DGGPM；4 光 24 电 → STC-424XGGM（4×10G SFP+）。"
+ },
+ "email_hook": "Janm, you were after rack-style 8-PoE + 2-SFP managed and 24+4 units (gigabit only, no industrial) — both are Marvell-based now; shall I send the two-line EXW quote?"
+}

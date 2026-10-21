@@ -1,0 +1,47 @@
+{
+ "code": "SB-333",
+ "name_official": "（未具名，尼日利亚 +234 815）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "尼日利亚 WhatsApp 联系人，2024–2025 五次回复（问芯片、要价目、问「啥是 2.5G」、「MCU processor」），技术理解有限；无邮箱无公司。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "回复 chip? / price list / prices / 啥是 2.5g / MCU processor",
+   "quote": "回复：chip?；price list；prices；啥是2.5g；MCU processor",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "尼日利亚",
+  "size": "",
+  "other": "仅 WhatsApp"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "尼日利亚"
+ },
+ "risks": [
+  "身份不明；尼日利亚付款风险（T/T 预付）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "商用 PoE 入门款。"
+ },
+ "email_hook": "（无邮箱；不主动跟进）"
+}

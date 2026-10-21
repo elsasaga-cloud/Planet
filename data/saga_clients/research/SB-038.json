@@ -1,0 +1,63 @@
+{
+ "code": "SB-038",
+ "name_official": "Softline Technology（科威特；Anand Rajendiran）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 2 光 16 电工业 PoE；2014 年国际站；回复 company info, price / useful",
+   "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Anand Rajendiran",
+   "title": "（表内联系人）",
+   "email": "rajaanand42@gmail.com",
+   "phone": "+965 9415 7777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "科威特",
+  "size": "小型",
+  "other": "gmail；阿里国际站老买家"
+ },
+ "business_lines": [
+  "网络 / 弱电工程（推断）"
+ ],
+ "channels": {
+  "role": "工程商",
+  "region": "科威特"
+ },
+ "signals": [
+  "明确口型需求 2 光 16 电工业 PoE",
+  "2025-11 主动要公司信息 + 价格"
+ ],
+ "risks": [
+  "gmail 联系、主体不可核",
+  "海湾项目付款：T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STI-21616GP",
+  "tier": 25,
+  "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。"
+ },
+ "email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?"
+}

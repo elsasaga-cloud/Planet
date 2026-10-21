@@ -1,0 +1,55 @@
+{
+ "code": "SB-290",
+ "name_official": "Golden Hub Nepal Pvt. Ltd.（尼泊尔）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "尼泊尔网络商 Golden Hub（Chhatra Puri），需求 2 光 10 电；2025-11 收 10G MC 邮件；无域名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 2 光 10 电；1120 email 发了 10G MC",
+   "quote": "兴趣：2光10电；回复：1120email发了10gmc",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Chhatra Puri",
+   "title": "（表内联系人）",
+   "email": "pchhatra02@gmail.com",
+   "phone": "+977 985 284 9417",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Golden Hub Nepal Pvt. Ltd.",
+  "founded": "",
+  "hq": "尼泊尔",
+  "size": "小型",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "网络经销 / ISP 配套（推断）",
+  "region": "尼泊尔"
+ },
+ "risks": [
+  "尼泊尔进口小量、付款 T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。"
+ },
+ "email_hook": "Chhatra, for the 2-fibre + 10-copper requirement, do the copper ports need PoE (for cameras/APs) or not? I'll quote the matching 8+2 model either way, from 1 pc."
+}

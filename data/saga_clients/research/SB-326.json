@@ -1,0 +1,65 @@
+{
+ "code": "SB-326",
+ "name_official": "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 2026-10-21，越南语）",
+ "summary": "越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "主业液压产品",
+   "quote": "Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực",
+   "url": "https://thuyluc.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息",
+   "quote": "兴趣：2光6电非管理非POE SC 20km 没成",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Lee",
+   "title": "（表内联系人）",
+   "email": "hydraulics@vnn.vn",
+   "phone": "+84 912 336 758",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：行业外）"
+ },
+ "company_facts": {
+  "legal_name": "Công ty Cổ Phần MTS",
+  "founded": "",
+  "hq": "越南",
+  "size": "中小型",
+  "other": "液压行业（行业外）"
+ },
+ "business_lines": [
+  "液压元件贸易"
+ ],
+ "channels": {
+  "role": "行业外终端 / 偶发采购",
+  "region": "越南"
+ },
+ "risks": [
+  "行业外，需求一次性"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "2 光 6 电非管理非 PoE（SC 20 km）≈ Saga STI-280GE（2 SFP + 8 GE，$46.6/48.6/50.5）+ SC 20 km 模块（Q-32）。"
+ },
+ "email_hook": "（低优先；若再询再报）"
+}

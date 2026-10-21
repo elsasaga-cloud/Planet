@@ -1,4 +1,5 @@
 # Kimberley telecommunications
+**官方名称（调研核实）**：Kimberley Telecommunications（肯尼亚）
 
 > **评级 B**　|　肯尼亚　|　档案编号 `SB-293`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-293
 rating: B
 rating_auto: B
+name_official: "Kimberley Telecommunications（肯尼亚）"
 score: 44
 country: 肯尼亚
 region: 非洲
@@ -19,9 +21,9 @@ replies: 1
 followups: 14
 first_contact: 2024-05-18
 last_contact: 2025-10-06
-p1: STI-21616GP
+p1: STC-2216GPM
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：肯尼亚的电信/ISP/网络运营；兴趣/在卖：2光16管理 非标POE 目前在用Planet的设备；提到的品牌：Planet
+- **是谁**：肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。（调研 2026-10-21；表内兴趣：2光16管理 非标POE 目前在用Planet的设备）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/肯尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 14 次（2024-05-18 → 2025-10-06）；最近一次客户回复：2024-07-17：price
-- **P1（下一步唯一主推）**：STI-21616GP — 工业 16 PoE + 2 SFP；$177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-2216GPM — 深挖对位：2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。；$137.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,31 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-293.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：无域名（gmail；仅表内信息）
+- **是谁**：肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。
+- **在卖/在用品牌**：PLANET
+- **【用户表】兴趣 2 光 16 管理 非标 POE；目前在用 Planet 的设备；回复 price**
+  > 兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（未具名）（）gadsatoh@gmail.com +254 720 749 670〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Kimberley Telecommunications（待核） |
+| 总部/地址 | 肯尼亚 |
+| 其他 | gmail；PLANET 用户 |
+
+- **业务线**：电信 / 网络工程
+- **触达通道（公开）**：role: 工程商（PLANET 用户）；region: 肯尼亚
+- **近况信号**：
+  - 在用 PLANET → 对台系价位敏感，Saga 可直接对价 PLANET GS-4210-16P2S
+  - 要过 passive PoE（24V 非标）价格
+- **风险/边界**：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款；无姓名、无公司域名
+- **Saga 对位结论**：P1 STC-2216GPM（25% 档）——2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。
+- **邮件切入句（英文）**：You mentioned running PLANET gear and needing a 16-PoE + 2-SFP managed unit with passive (24 V) PoE — is that for radios/CPEs? If so I'll confirm the passive-PoE variant and price it against the GS-4210-16P2S.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -109,7 +135,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-21616GP | 工业 16 PoE + 2 SFP | $177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（电信/ISP/网络运营） |
+| **P1** | STC-2216GPM | 深挖对位：2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。 | $137.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（电信/ISP/网络运营） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -118,9 +144,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-21616GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-2216GPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-21616GP 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-2216GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -130,7 +156,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：无具名决策人，仍是公司级触达；非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-21616GP 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入
+- **O**：P1 STC-2216GPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -156,30 +182,25 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 公司网站（表内无域名，无法核实是否仍在运营）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. You mentioned running PLANET gear and needing a 16-PoE + 2-SFP managed unit with passive (24 V) PoE — is that for radios/CPEs? If so I'll confirm the passive-PoE variant and price it against the GS-4210-16P2S.
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $177.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

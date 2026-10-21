@@ -1,0 +1,58 @@
+{
+ "code": "SB-581",
+ "name_official": "Tiên Phong CP（越南；Trung）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 16 24 32 port POE Switch；1120 email 48 口；1216 email 22mini",
+   "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Trung",
+   "title": "（表内联系人）",
+   "email": "semtec2017@gmail.com",
+   "phone": "+84 966 246 152",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Tiên Phong CP（待核）",
+  "founded": "",
+  "hq": "越南",
+  "size": "小型",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "安防 / 网络经销（推断）",
+  "region": "越南"
+ },
+ "signals": [
+  "明确口型：16/24/32 口 PoE"
+ ],
+ "risks": [
+  "越南低价市场；gmail"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。"
+ },
+ "email_hook": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?"
+}

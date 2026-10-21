@@ -1,0 +1,55 @@
+{
+ "code": "SB-633",
+ "name_official": "Ahmad Ariyanto（印度尼西亚；个人 gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣价格表等各种信息；Email 发了 2 光 2 小壳；1120 email 发了 48 口",
+   "quote": "兴趣：价格表等各种信息；回复：Email发了2光2小壳信息；1120email发了48口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmad Ariyanto",
+   "title": "（表内联系人）",
+   "email": "ahmadariyanto105@gmail.com",
+   "phone": "+62 899 048 0997",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "印度尼西亚",
+  "size": "",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "印度尼西亚"
+ },
+ "risks": [
+  "身份不明；泛要价目"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无明确口型；入门 8 PoE 管理型。"
+ },
+ "email_hook": "Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first."
+}

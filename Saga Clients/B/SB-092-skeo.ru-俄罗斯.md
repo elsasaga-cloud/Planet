@@ -1,4 +1,5 @@
 # skeo.ru
+**官方名称（调研核实）**：ООО «СКЕО» (SKEO)
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-092`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-092
 rating: B
 rating_auto: B
+name_official: "ООО «СКЕО» (SKEO)"
 score: 54
 country: 俄罗斯
 region: 俄语区
@@ -19,9 +21,9 @@ replies: 1
 followups: 14
 first_contact: 2024-07-12
 last_contact: 2025-10-31
-p1: STC-448DGGPM
-price_tier: 20%
-research: pending
+p1: STC-28DGGPM
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯的经销/集成（类型待核）；兴趣/在卖：主要是光模块 有一部分MC 有光路的；WDM配件较多
+- **是谁**：俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。（调研 2026-10-21；表内兴趣：主要是光模块 有一部分MC 有光路的；WDM配件较多）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 14 次（2024-07-12 → 2025-10-31）；最近一次客户回复：2024-11-19：有需求会说的
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,46 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-092.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（skeo.ru，快照 2026-10-21，俄语）
+- **是谁**：俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。
+- **【官网】定位：俄罗斯光通信设备制造商与供应商；CWDM/DWDM、光模块、MC、熔接**
+  > "СКЕО" - российский производитель и поставщик оборудования для волоконно-оптических линий связи… Модули SFP… SFP+… QSFP28… Медиаконвертеры
+  > 来源：https://skeo.ru/（抓取 2026-10-21）
+- **【官网】客户群：运营商、ISP、政府通信部门；与 Juniper / Cisco 直接伙伴；SKEO 品牌 5 年保**
+  > нацелена на удовлетворение потребностей операторов связи, интернет-провайдеров, департаментов связи государственных организаций… Juniper Networks и Cisco Systems… гарантийной поддержкой продолжительностью до 5 лет
+  > 来源：https://skeo.ru/info/about（抓取 2026-10-21）
+- **【官网快照】三地邮箱 msk@ / rostov@ / sales@skeo.ru；电话 +7 812（圣彼得堡）、+7 863（罗斯托夫）；关键词 sfp 30 / oem 7**
+  > emails msk@skeo.ru, rostov@skeo.ru, sales@skeo.ru; phones +7 (812) 200-89-90, +7 (863) 303-35-37
+  > 来源：https://skeo.ru/contact（抓取 2026-10-21）
+- **【用户表】主要是光模块、部分 MC、WDM 配件多；2024-09 8 电口→有兴趣；2025-11→有需求会说**
+  > 兴趣：主要是光模块 有一部分MC 有光路的;WDM配件较多；回复：有兴趣；有需求会说的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Nikolay Podoroga（）npa@skeo.ru +7 903 486 5077〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ООО «СКЕО» |
+| 成立 | （待核；物流团队「15 年以上」） |
+| 总部/地址 | Санкт-Петербург（+ 莫斯科、罗斯托夫办事处） |
+| 其他 | 自有品牌 SKEO 光模块 / MC；OEM 词频 7 |
+
+- **业务线**：CWDM / DWDM 波分复用（自产）；光模块 SFP/SFP+/XFP/QSFP/CFP、DAC；媒体转换器（SKEO 品牌）；熔接机 / 测试仪 / 无源器件；网络设备、IPTV 机顶盒
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| SKEO | SK-SFP-C1-xx-80L-D | CWDM SFP 1.25G 80 km | 同行（Saga 不做模块） | https://skeo.ru/katalog/optical-modules/sfp（2026-10-21） |
+| SKEO | MC 2×SFP / RJ45-SFP+ 10G | 媒体转换器 | 同行（Saga STI-110GE 仅工业款） | https://skeo.ru/katalog/optical-modules/mediakonvertery（2026-10-21） |
+
+- **触达通道（公开）**：role: 制造商 + 分销（运营商 / ISP 渠道）；region: 俄罗斯
+- **近况信号**：
+  - 对 8 电口交换机有兴趣（其目录「Сетевое оборудование」缺自有交换机）
+  - 有 OEM 经验 → 可做 SKEO 贴牌交换机
+- **风险/边界**：俄罗斯：制裁与收款（T/T 第三国 / 人民币结算），物流合规自核；光模块 / MC 为其自有品牌 → 只推交换机
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。
+- **邮件切入句（英文）**：Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -121,7 +162,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nikolay Podoroga | — | sales@skeo.ru / npa@skeo.ru / +79034865077 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Nikolay Podoroga | — | npa@skeo.ru / +7 903 486 5077 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -139,20 +180,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -160,7 +200,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -184,19 +224,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Nikolay,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your SKEO SK-SFP-C1-xx-80L-D at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

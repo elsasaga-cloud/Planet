@@ -1,0 +1,106 @@
+{
+ "code": "SB-092",
+ "name_official": "ООО «СКЕО» (SKEO)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（skeo.ru，快照 2026-10-21，俄语）",
+ "summary": "俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：俄罗斯光通信设备制造商与供应商；CWDM/DWDM、光模块、MC、熔接",
+   "quote": "\"СКЕО\" - российский производитель и поставщик оборудования для волоконно-оптических линий связи… Модули SFP… SFP+… QSFP28… Медиаконвертеры",
+   "url": "https://skeo.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "客户群：运营商、ISP、政府通信部门；与 Juniper / Cisco 直接伙伴；SKEO 品牌 5 年保",
+   "quote": "нацелена на удовлетворение потребностей операторов связи, интернет-провайдеров, департаментов связи государственных организаций… Juniper Networks и Cisco Systems… гарантийной поддержкой продолжительностью до 5 лет",
+   "url": "https://skeo.ru/info/about",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "三地邮箱 msk@ / rostov@ / sales@skeo.ru；电话 +7 812（圣彼得堡）、+7 863（罗斯托夫）；关键词 sfp 30 / oem 7",
+   "quote": "emails msk@skeo.ru, rostov@skeo.ru, sales@skeo.ru; phones +7 (812) 200-89-90, +7 (863) 303-35-37",
+   "url": "https://skeo.ru/contact",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要是光模块、部分 MC、WDM 配件多；2024-09 8 电口→有兴趣；2025-11→有需求会说",
+   "quote": "兴趣：主要是光模块 有一部分MC 有光路的;WDM配件较多；回复：有兴趣；有需求会说的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Nikolay Podoroga",
+   "title": "Account Manager",
+   "email": "npa@skeo.ru",
+   "phone": "+7 903 486 5077",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «СКЕО»",
+  "founded": "（待核；物流团队「15 年以上」）",
+  "hq": "Санкт-Петербург（+ 莫斯科、罗斯托夫办事处）",
+  "size": "中小型制造 + 分销",
+  "other": "自有品牌 SKEO 光模块 / MC；OEM 词频 7"
+ },
+ "business_lines": [
+  "CWDM / DWDM 波分复用（自产）",
+  "光模块 SFP/SFP+/XFP/QSFP/CFP、DAC",
+  "媒体转换器（SKEO 品牌）",
+  "熔接机 / 测试仪 / 无源器件",
+  "网络设备、IPTV 机顶盒"
+ ],
+ "products_seen": [
+  {
+   "brand": "SKEO",
+   "model": "SK-SFP-C1-xx-80L-D",
+   "spec": "CWDM SFP 1.25G 80 km",
+   "saga": "同行（Saga 不做模块）",
+   "url": "https://skeo.ru/katalog/optical-modules/sfp",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "SKEO",
+   "model": "MC 2×SFP / RJ45-SFP+ 10G",
+   "spec": "媒体转换器",
+   "saga": "同行（Saga STI-110GE 仅工业款）",
+   "url": "https://skeo.ru/katalog/optical-modules/mediakonvertery",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "制造商 + 分销（运营商 / ISP 渠道）",
+  "region": "俄罗斯"
+ },
+ "signals": [
+  "对 8 电口交换机有兴趣（其目录「Сетевое оборудование」缺自有交换机）",
+  "有 OEM 经验 → 可做 SKEO 贴牌交换机"
+ ],
+ "risks": [
+  "俄罗斯：制裁与收款（T/T 第三国 / 人民币结算），物流合规自核",
+  "光模块 / MC 为其自有品牌 → 只推交换机"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。"
+ },
+ "email_hook": "Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?"
+}
