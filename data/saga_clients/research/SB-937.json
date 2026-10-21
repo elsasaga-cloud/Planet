@@ -3,15 +3,24 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "德国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「UTEPO的」；群发 9 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "德国 eneo Security（Videor 旗下 CCTV 品牌 eneo；表内「UTEPO 的」「可以着重跟一下」；官网 http_error）；群发 9 次无回复。",
+ "type": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
    "quote": "UTEPO的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 的；着重跟",
+   "quote": "UTEPO的；可以着重跟一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,30 +31,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 eneo-security.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "CCTV / 安防产品品牌（eneo，德国）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
   "region": "德国",
   "contact": "info@eneo-security.com"
  },
  "signals": [
-  "用户表兴趣/备注：UTEPO的"
+  "表内：UTEPO 的；可以着重跟一下",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "现供 Utepo 价格基准低；品牌方（Videor）供应商准入流程；官网 http_error；9 次无回复，仅 info@——用户标「可以着重跟一下」"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "eneo 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作二供"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches sold under the eneo label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled first?"
 }

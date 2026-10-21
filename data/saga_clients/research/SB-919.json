@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（solidcable.com，快照 2026-10-21）",
- "summary": "日本网络/安防经销或集成（官网未见角色词，待核）：官网「ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸」（ja）；品类词：电信 / FTTH / ISP 设备；站内型号：DMY-7532、SEP-SH25FB50、CMD-5CALHS、CMD-4CAB；表内「ONV的MC 一些周边通讯设备 产品较少」；群发 2 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "日本 ソリッドケーブル Solid Cable（LAN 线缆通贩先驱，广播/通信工程材料批发，当日发货；表内「ONV 的 MC 一些周边通讯设备 产品较少」）；表内 2 次跟进无回复。",
+ "type": "通信工程材料电商/批发（日本，MC 现 ONV）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "ONV的MC 一些周边通讯设备 产品较少",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Solid Cable 定位",
+   "quote": "ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 放送・通信工事材料の卸",
+   "url": "https://solidcable.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ONV 的 MC",
+   "quote": "ONV的MC 一些周边通讯设备 产品较少",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "日本",
   "other": "官网 solidcable.com，语言 ja，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备"
+  "LAN 线缆 / 通信工程材料电商（日本）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "通信工程材料电商/批发（日本，MC 现 ONV）",
   "region": "日本",
   "contact": "support@solidcable.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://solidcable.com/）",
-  "用户表兴趣/备注：ONV的MC 一些周边通讯设备 产品较少"
+  "官网：ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸；kw ftth 26",
+  "表内：ONV 的 MC 一些周边通讯设备 产品较少"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?"
 }

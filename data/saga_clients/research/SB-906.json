@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ieiworld.com，快照 2026-10-21）",
- "summary": "台湾网络/安防经销或集成（官网未见角色词，待核）：官网「ieiworld.com」；表内「有marvell交换机 其他国家有分公司」；群发 5 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "台湾 IEI Integration 威强电（工业电脑制造商，多国分公司；表内「有 marvell 交换机 其他国家有分公司」）；群发 5 次无回复。",
+ "type": "台湾工业电脑厂商（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,46 @@
    "quote": "有marvell交换机 其他国家有分公司",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 marvell 交换机",
+   "quote": "有marvell交换机 其他国家有分公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "台湾厂商（同行）；c_sub=同行/台湾厂商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "台湾",
   "other": "官网 ieiworld.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业电脑 / 嵌入式（台湾）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "台湾工业电脑厂商（同行）",
   "region": "台湾",
   "contact": "sales@ieiworld.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ieiworld.com/）",
-  "用户表兴趣/备注：有marvell交换机 其他国家有分公司"
+  "表内：有 marvell 交换机 其他国家有分公司",
+  "快照：内容为空"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "同行/台湾厂商（自有产品线）；5 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "台湾厂商（自有工业网络产品线），非渠道客户 → 改 C"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：台湾厂商）"
 }

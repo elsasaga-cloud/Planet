@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（basithamitech.com，快照 2026-10-21）",
- "summary": "南非电商/网店：官网「Business Template - Basithami Technology」（en-ZA）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络；产品页：shop；表内「工商业FS 有Utepo的」；群发 15 次、无回复。",
- "type": "电商/网店",
+ "summary": "南非 Basithami Technology（报警系统安装、家庭自动化、空调、安防摄像安装；表内「工商业 FS 有 Utepo 的」「可以多跟进一下」）；群发 15 次无回复。",
+ "type": "安防/自动化安装商（南非，Utepo 在用）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "工商业FS 有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Basithami 定位",
+   "quote": "Basithami Technology ; Alarm System Installation ; Home Automation ; Security Camera Installation",
+   "url": "https://www.basithamitech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工商业 FS 有 Utepo",
+   "quote": "工商业FS 有Utepo的；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "南非",
   "other": "官网 basithamitech.com，语言 en-ZA，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络"
+  "报警 / 自动化 / 摄像安装（南非）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "安防/自动化安装商（南非，Utepo 在用）",
   "region": "南非",
   "contact": "info@basithamitech.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.basithamitech.com/）",
-  "官网公开邮箱：claims@basithamitech.com、info@basithamitech.com",
-  "用户表兴趣/备注：工商业FS 有Utepo的"
+  "官网：Basithami Technology ; Alarm System Installation ; Home Automation ; Air Conditioning ; Security Camera Installation；kw automation 11",
+  "表内：工商业 FS 有 Utepo 的；可以多跟进一下"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，南非）；安装商（量小）；现供 Utepo 价格基准低；15 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?"
 }

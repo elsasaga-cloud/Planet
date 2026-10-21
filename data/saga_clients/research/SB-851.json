@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "美国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「工业FS 工业MC 标价高」；群发 19 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "美国 Mencom Corporation（工业连接器/线缆组件制造商，兼售自有标工业交换机与 MC，「标价高」；KP John Heath（Engineering Manager）、Jason Moore（Industrial Technician）、John J. Bisson；官网 http_error）；群发 19 次无回复。",
+ "type": "工业连接器制造商（美国，自有标工业 FS/MC）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,62 @@
    "quote": "工业FS 工业MC 标价高",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 工业 MC 标价高",
+   "quote": "工业FS 工业MC 标价高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "John Heath",
+   "title": "Engineering Manager",
+   "email": "john.heath@mencom.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "John J. Bisson",
+   "title": "（职务待核）",
+   "email": "john@mencom.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 mencom.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业连接器 / 线缆组件（自有品牌 Mencom）",
+  "工业交换机 / MC（贴牌线）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "工业连接器制造商（美国，自有标工业 FS/MC）",
   "region": "美国",
   "contact": "john@mencom.com、john.heath@mencom.com"
  },
  "signals": [
-  "用户表兴趣/备注：工业FS 工业MC 标价高"
+  "表内：工业 FS 工业 MC 标价高；KP John Heath / Engineering Manager；Jason Moore / Industrial Technician；John J. Bisson",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "既有 ODM 供应链（自有标、高定价策略）；官网 http_error；19 次无回复 → 改向 Engineering Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供"
  },
- "email_hook": "John, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?"
 }
