@@ -62,7 +62,7 @@ updated: 2026-10-21
 - **首页**：https://www.egesanteknoloji.com.tr/　语言：tr　站点地图 URL 数：15
 - **标题**：Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 110、poe 55、switch 51、nvr 29、gigabit 22、wifi 20、cctv 14、sfp 12、fiber 7、ethernet 7、camera 3、cable 2
-- **站内出现的品牌**：Hikvision, Ruijie, Extreme, Huawei, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hikvision, Ruijie, Extreme, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RG-ES08G-L, CR2032, CXS-4P2U, RG-ES05F, DS-PWA64, PG-H1108PFD, PG-H1108PGL, PG-H1108PLS, RG-ES118FGS-LP, RG-ES209GC-P, DS-3E1526P-SI, DS-3E0518P-E
 - **站内公开邮箱**：isim2@domain...vb, isim@domain.com, sim@adres.com, sim@adres.net
 - **站内公开电话**：00361056-12, 00361056-12) (0

@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure. Modern infrastructure for modern intelligence.Factory integrated. Field ready. Learn More The INTEPO Infrastructure Platform A governance platform embodied in hardware I INTEPO i
 - **首页栏目**：The INTEPO Infrastructure Platform / A governance platform embodied in hardware / INTEPO Governed Infrastructure Architecture / The Physical Far Edge Has Not Kept Pace / AI Has Advanced. Its Physical Infrastructure Must Catch Up. / INTEPO Establishes a Governed Infrastructure Foundation / Governed Locally. Coordinated Across Distributed Systems.
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 3、wireless 1、telecom 1
-- **站内出现的品牌**：Aruba, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：GA-00-SZ-L1-RT-208
 - **已抓子页**：[About - Intepo](https://intepo.com/about/)；[Contact us - Intepo](https://intepo.com/contact-us/)
 - 首页正文摘录：Skip to main content Intepo Menu Platform Infrastructure Deployment About Licence/Partners Investors News Contact us INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure. Modern infrastructure for modern intelligence. Factory integrated. Field ready. Learn More The INTEPO Infrastructure Platform A governance platform embodied in hardware I INTEPO is 

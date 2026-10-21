@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-776.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://maplesystems.com/　语言：en-US　站点地图 URL 数：782
+- **标题**：Industrial Automation Control Solutions
+- **描述**：Leading manufacturer and distributor of Touch Screen HMIs, PLCs, Touch Screen PCs, Box PCs, Operator Interface Terminals, PLC+HMIs, and SCADA Software to the automation industry.
+- **首页栏目**：Affordable Industry 4.0 Automation and Control Solutions / Human Machine Interface ( HMI) / Programmable Logic Controller ( PLC) / Industrial Panel PCs / Industrial Box PCs / Rugged Tablets / Industrial Network Switches / HMI+PLC Combo Units
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 360、industrial 332、scada 96、ethernet 77、automation 69、cable 49、oem 22、data center 14、wifi 11、integrator 8、poe 7、camera 7
+- **站内型号串**（正则抽取，含非交换机）：IP69K, FHDX-220, HMC3043A-M, HMI5070NLV2, PC2317B, IPC2110A, IPC2411A, HMI5056N, HMI5071L, HMI5102L, HMI5104TH, HMI5100T
+- **站内公开邮箱**：sales@maplesystems.com
+- **站内公开电话**：0006 7433-0006
+- **产品类页面**：https://maplesystems.com/industrial-automation-managed-ethernet-switches/；https://maplesystems.com/managed-network-switches-in-industrial-automation/；https://maplesystems.com/industrial-push-buttons-selector-switches-indicator-lights/；https://maplesystems.com/industrial-network-switches/industrial-network-switches-glossary-of-terms/；https://maplesystems.com/product-brochure/industrial-pc-overview/；https://maplesystems.com/what-is-a-network-switch/
+- **已抓子页**：[Industrial Network Switches](https://maplesystems.com/industrial-network-switches/)；[Compare Industrial Network Switches - Maple Systems](https://maplesystems.com/industrial-network-switches/compare/)；[What is a network switch?](https://maplesystems.com/what-is-a-network-switch/)；[Legacy Products / Maple Systems](https://maplesystems.com/legacy-solutions/legacy-products/)；[Industrial Panel PCs / Fanless Touch Screen Computer](https://maplesystems.com/industrial-panel-pc/)；[Industrial Pushbuttons, Selector Switches, Indicator Lights](https://maplesystems.com/pushbuttons-switches/)
+- 首页正文摘录：Skip to content Login/Register 0 Contact Us : (425) 745-3229 Products Human Machine Interface (HMI) View All HMIs Headless HMIs Class 1 Div 2 HMIs Windows HMIs Wi-Fi Enabled HMIs High-Brightness HMIs RFID HMIs HMIs + Remote I/O CODESYS HMIs Gateway HMIs Web HMIs Secondary Displays for cMT Series 21.5″ Capacitive Touch HMIs Compare HMI Models Popular comparisons: cMT2078X , cMT2108x2 , HMI5070Bv3 FREE HMI Software (EB
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 433、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-776.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

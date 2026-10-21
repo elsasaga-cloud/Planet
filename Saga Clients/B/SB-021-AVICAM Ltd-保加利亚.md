@@ -107,7 +107,7 @@ updated: 2026-10-21
 - **描述**：Голяма гама системи за видеонаблюдение и контрол от вносител ➤ Безплатна бърза доставка ➤ Възможност за монтаж
 - **首页栏目**：Избери категория / Актуални предложения / WIFI IP 4MP булет камера DAHUA IPC-F4C-PV / 4MP ICSee соларна камера Wifi Home Eye 2 PRO / WIFI IP 2MP булет камера DAHUA IPC-F2C-PV-0280B / 4MP Безжичен Комплект за видеонаблюдение “WiFi2-PTWS-4” / 4MP Wifi iCsee/XMeye панорамна камера 180° V-IPC-400W-PANO / Повече за АВИКАМ
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 79、dahua 34、hikvision 30、poe 15、nvr 9、cctv 2、ethernet 1
-- **站内出现的品牌**：Dahua, Ajax, Hikvision, HRUI（！）　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Dahua, Hikvision, HRUI（！）, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IPC-F4C-PV, TS-HD2D, IPC-F2C-PV-0280B, PTWS-4, V-IPC-400W-PANO, TCD-30M2, IPC-F4CP-PV-0360B, F4C-PV-0360, RJ-45, DD20-SDI, TS-HD04L, V-IPC-200W-A7
 - **站内公开邮箱**：sales@avicam-bg.com
 - **站内公开电话**：+359 2 8325757, +359 2 8327084, +359 885 334438, +359885334438

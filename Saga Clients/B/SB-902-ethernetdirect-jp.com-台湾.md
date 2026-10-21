@@ -22,7 +22,7 @@ last_contact: 2025-09-17
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-04-29 → 2025-09-17）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-902.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ethernetdirect-jp.com/　语言：未标　站点地图 URL 数：87
+- **标题**：Welcome to Ethernet Direct
+- **描述**：Ethernet Direct is a leading solution provider of industrial networking, industrial Ethernet, computing, and automation solutions to help customers enable the connectivity for the Industrial Internet of Things (IIoT) from industrial edge to core networks
+- **首页栏目**：ç£æ¥­ç¨ ã¤ã¼ãµãããã»ã¹ã¤ãã / ç£æ¥­ç¨ãããã¯ã¼ã­ã³ã° / ç£æ¥­ç¨ PoE ã¹ã¤ãã / ç£æ¥­ç¨ã¯ã¤ã¤ã¬ã¹ LAN / ç£æ¥­ç¨ ã©ãã¯ãã¦ã³ãã¹ã¤ãã / ãã¼ã±ããå¥
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 190、switch 180、ethernet 152、poe 132、gigabit 79、sfp 52、media converter 7、10g 7、wireless 6、fiber 4、cable 2
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, RJ-45, UL60950-1, CMG-428EPZ2BT, HMG-828, IEEE1588, CMG-1688EPZ2AT, HME-423E, HME-800, HME-621E, HMG-1628, CUG-1628EAT
+- **站内公开邮箱**：sales@ethernetdirect-tw.com
+- **社媒**：https://www.facebook.com/EthernetDirect/
+- **产品类页面**：http://www.ethernetdirect-tw.com/pdfs/ED_CobraSeries_Industrial_PoE_Managed_Switch.pdf；http://www.ethernetdirect-tw.com/pdfs/ED_CobraSeries_Industrial_PoE_Unmanaged_Switch.pdf；http://www.ethernetdirect-tw.com/pdfs/ED_CobraSeries_Industrial_PoE_Gigabit_Managed_Switch.pdf；http://www.ethernetdirect-tw.com/products/poe.html；http://www.ethernetdirect-tw.com/products/poeg.html；http://www.ethernetdirect-tw.com/products/poec.html
+- **已抓子页**：[DIN-Rail Ethernet Switches](https://ethernetdirect-jp.com/products/ethernetswitch.html)；[DIN-Rail Gigabit Switches](https://ethernetdirect-jp.com/products/gethernetswitch.html)；[Industrial PoE Ethernet Switches](https://ethernetdirect-jp.com/products/poe.html)；[Industrial PoE Gigabit Switches](https://ethernetdirect-jp.com/products/poeg.html)；[Industrial PoE Converters](https://ethernetdirect-jp.com/products/poec.html)；[Industrial PoE Injector & Splitter](https://ethernetdirect-jp.com/products/poei.html)
+- 首页正文摘录：ï»¿ Welcome to Ethernet Direct Toggle navigation Home About Us News Products Solutions Support Contact ç£æ¥­ç¨ ã¤ã¼ãµãããã»ã¹ã¤ãã DINã¬ã¼ã«ã»ã¤ã¼ãµãããã»ã¹ã¤ãã DINã¬ã¼ã«ã»ã®ã¬ãããã»ã¹ã¤ãã EN 50155 ã¤ã¼ãµãããã»ã¹ã¤ãã IEC 61850-3 ã¤ã¼ãµãããã»ã¹ã¤ãã SyncE & IEEE 1588 PTP ã¹ã¤ãã ç£æ¥­ç¨ãããã¯ã¼ã­ã³ã° ç£æ¥­ç¨ã¡ãã£ã
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 190、PoE 132 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-902.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -146,7 +162,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-08 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-829.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fluxlight.com/　语言：en　站点地图 URL 数：0
+- **标题**：FluxLight / Optical Transceiver Solutions, Cables & Media Converters
+- **描述**：Build your network bigger, faster, and stronger with FluxLight. We manufacture fiber optic transceivers and interconnect products for networking use.
+- **首页栏目**：Featured Products / SFP-H25G-CU1M-FL Cisco Compatible 1m 25G SFP28 Passive Copper Twinax DAC / Most Popular Products / New Products / SFP-H25G-CU3M-FL Cisco Compatible 3m 25G SFP28 Passive Copper Twinax DAC / CAB-S-S-25G-2M-FL Arista Compatible 2m 25G SFP28 Passive Copper Twinax DAC / Footer Start / Company
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 110、cable 83、sfp 61、cisco 54、media converter 28、10g 21、industrial 13、ethernet 7、automation 1
+- **站内出现的品牌**：Cisco, Juniper, D-Link, Aruba, Allied Telesis, Netgear, Huawei, H3C, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MPO12, SFP28, OSFP112, SFP-10, SFP-H25G-CU1M-FL, MMS4X50-NM-FL, QSFP28, MPO12-4LC, MPO12-MPO12, OSFP-800G-2PLR4-A-FL, OSFP-800G-2LR4-A-FL, SFP-10G-LR
+- **站内公开邮箱**：quotes@fluxlight.com, sales@fluxlight.com, support@fluxlight.com
+- **社媒**：https://twitter.com/FluxLightInc, https://www.facebook.com/FluxlightInc, https://www.linkedin.com/company/fluxlight-inc-/, https://www.youtube.com/user/FluxLightInc
+- **已抓子页**：[Industrial Temperature Optical Transceivers / FluxLight](https://fluxlight.com/industrial-temp/)；[FluxLight Incorporated Brands](https://fluxlight.com/brands/)；[FluxLight Incorporated Brands](https://fluxlight.com/brands/)；[Contact Us](https://fluxlight.com/contact-us/)；[FluxLight, Inc.](https://fluxlight.com/brands/FluxLight.html)；[Fiber Jumpers and Optic Cables / Patch Cord / FluxLight](https://fluxlight.com/fiber-jumper/)
+- 首页正文摘录：Skip to main content Toggle menu Proudly Owned and Operated in the U.S.A. Since 2003 REQUEST A QUOTE (888) 874-7574 Compare Sign in or Register My Cart Click here for TAA Products Search Search Optical Transceivers All Optical Transceivers Industrial Temp TAA Commercial Temp Cables All Cables Adaptors AOC DAC Ethernet Patch Cord Fiber Jumper MPO Media Converters All Media Converters Chassis Fiber Media Converter Powe
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 14、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-829.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +174,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-772.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ic-intracom.bg/en　语言：en-US　站点地图 URL 数：3951
+- **标题**：Network Equipment, Fiber Optic Cables & Accessories / IC Intracom
+- **描述**：Explore network equipment, fiber optic and LAN cables, server racks, connectors and accessories. IC Intracom supplies businesses and installers.
+- **首页栏目**：ACTIVE NETWORK EQUIPMENT / CABLE PULLING AND INSTALLATION / NETWORK CABINETS AND ACCESSORIES / FEATURED CATEGORIES / MORE ABOUT IC INTRACOM / OUR PARTNERS / LATEST FROM OUR BLOG / CUSTOMER REVIEWS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 381、fiber 284、sfp 246、switch 133、poe 108、industrial 103、ethernet 35、media converter 31、camera 28、10g 21、automation 16、wireless 16
+- **站内出现的品牌**：Moxa, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, SFF-8654, QSFP56, RS232, RS422, RS485, IEEE1394, SFF-8611, SFF-8643, SFF-8644, EDS-205
+- **站内公开电话**：+359 2 9231781, +359 2 9231782, +359 895 222 782
+- **产品类页面**：https://ic-intracom.bg/shop/igs-4215-8up2t2s-8x10-100-1000t-802-3bt-poe-2x10-100-1000t-2x100-1000x-sfp-управля…；https://ic-intracom.bg/shop/mgate-mb3180-eu-1-портов-стандартен-геитуеи-modbus-mgate-mb3180-24938；https://ic-intracom.bg/shop/19-комуникационен-шкаф-със-стъклена-врата-600x600-мм-черен-gunko-elgn-25063；https://ic-intracom.bg/shop/19-комуникационен-шкаф-със-стъклена-врата-600x800-мм-черен-gunko-elgn-34945；https://ic-intracom.bg/shop/apsc27123cdl40-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1270-nm-lc-40-км-atop-25…；https://ic-intracom.bg/shop/apsc29123cdl40-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1290-nm-lc-40-км-atop-25…
+- **已抓子页**：[Switches / АйСи Интраком ООД](https://ic-intracom.bg/en/shop/category/industrial-ethernet-switches-1690)；[Fiber optic transceivers / АйСи Интраком ООД](https://ic-intracom.bg/en/shop/category/industrial-ethernet-fiber-optic-transceivers-1694)；[Power sockets and switches / АйСи Интраком ООД](https://ic-intracom.bg/en/shop/category/power-electrical-products-power-sockets-and-switches-1658)；[LAN switches / АйСи Интраком ООД](https://ic-intracom.bg/en/shop/category/active-network-equipment-lan-switches-1603)；[PoE and powerline devices / АйСи Интраком ООД](https://ic-intracom.bg/en/shop/category/active-network-equipment-poe-and-powerline-devices-1605)；[Industrial ethernet / АйСи Интраком ООД](https://ic-intracom.bg/en/shop/category/industrial-ethernet-1479)
+- 首页正文摘录：Skip to Content Home Categories All Categories Network cabinets and accessories 19" Network cabinets Server rack cabinets Wall mount cabinets 19" Free standing frames 19" Collocation cabinets Outdoor cabinets Accessories for network racks Optical distribution cabinet Industrial ethernet Media converters Switches Device servers Universal I/O Gateway devices Fiber optic transceivers Optical panels PCIe cards Outdoor co
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 108、PoE 108 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-772.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

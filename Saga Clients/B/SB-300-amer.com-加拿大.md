@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **标题**：Amer Networks /
 - **首页栏目**：We build Network Solutions for all your needs.... / Contact Us / WAP44IO / PIG30 / MC-GT/SFP / SG4P1Te / SS2GR4010P / SS3GR5028X
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 70、sfp 20、cable 20、ethernet 18、wireless 18、poe 17、gigabit 14、10g 11、fiber 6、cisco 6、planet 3、access control 2
-- **站内出现的品牌**：PLANET, Cisco, Netgear, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco, Netgear, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：PIG30, SGRD16, IEEE802, SS310, GS-4210-8P2T2S, GSW-1820HP, IGS-614HPT, RJ-45, WAP44IO, WAP33DO, SFP-10GB-LR-AMR, GS-4210-16UP4C
 - **站内公开邮箱**：info@amer.com, sales@amer.com, sanjeevgpt214@gmail.com
 - **社媒**：https://www.facebook.com/amercom-127440433959249/

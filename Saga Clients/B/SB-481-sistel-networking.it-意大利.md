@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Sistel srl: il Partner ideale per il Networking. Fornitura di Materiale per Cablaggio Rame e Fibra Ottica, Armadi Rack 19", Apparati, UPS, Firewall.
 - **首页栏目**：Consulenza di rete / Fornitura Materiale / fibra Ottica / Il partner ideale per la realizzazione di infrastrutture IT / (+39) 0322 858077 / I migliori prodotti per il cablaggio rame e fibra ottica / Armadi Rack / Fibra Ottica
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 168、ethernet 113、switch 100、industrial 91、sfp 42、planet 32、media converter 10、ftth 7、gigabit 4、wireless 4、10g 3、cisco 2
-- **站内出现的品牌**：PLANET, Fortinet, D-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Fortinet, D-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RS-232, RS-422, RS-485, DGS-1250, DGS-1520, DGS-3130
 - **站内公开邮箱**：info@sistel-networking.it
 - **站内公开电话**：+39) 0322 858077, +39) 0322 858077 - 0322 85668

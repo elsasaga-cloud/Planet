@@ -22,7 +22,7 @@ last_contact: 2025-10-25
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-08-21 → 2025-10-25）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-847.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://lanprosa.com/　语言：es-CR　站点地图 URL 数：808
+- **标题**：lanprosa - Lanprosa
+- **描述**：Estación base y teléfonos inalámbricos.
+- **首页栏目**：VOIP / VEHICULAR / SWITCHES / SEGURIDAD / ROUTERS Y BALANCEADORES / REDES / OTROS REDES / Camara Analoga Bullet 3K 2.8mm, Smart COLOR-VU 20m...
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 113、cctv 106、poe 76、sfp 59、cable 53、hikvision 26、2.5g 12、wifi 12、10g 11、cisco 8、gigabit 7、tp-link 3
+- **站内出现的品牌**：Ruijie, Hikvision, TP-Link, MikroTik, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：LTK-40-25-SW, PG9-8B, LTK-PG9, LTK-SURGE2, JRR-591, RG-ES228GS-P, LTK-SW08BTM, RG-ES220GS-P, DS-PK1-E-WB, LTK-SW08P-IND, RG-ES206GS-P, RG-RAP6262
+- **站内公开邮箱**：web@lanprosa.com
+- **社媒**：https://cr.linkedin.com/company/lanprosacr, https://wa.me/+50622212014, https://wa.me/50622212014, https://www.facebook.com/LanprosaSA, https://www.facebook.com/sharer/sharer.php?u=https://lanprosa.com/, https://www.facebook.com/sharer/sharer.php?u=https://lanprosa.com/product-category/cctv/
+- **产品类页面**：https://lanprosa.com/switch-industrial-poe-administrable-10-ge-1-poe-y-7-poe-2-sfp-cloud-no-incluye-fuente-rey…；https://lanprosa.com/lantek-ltk-4805g-at-inyector-poe-30w-8023at-switch-poe/；https://lanprosa.com/reyee-rg-es205gc-p-switch-4-1-ge-poe-54w-vlan-loop-prevention-remote-boot-cloud-6kv-switc…；https://lanprosa.com/switch-4-ge-poe-2ge-1sfp-combo-uplink-54w-6kv-vlan-loop-prevention-remote-boot-cloud-ruij…；https://lanprosa.com/switch-4-ge-poe-1ge-1sfp-uplink-afatbt-60w-en-puerto-1-80w-6kv-lr-hasta-250mts-no-adminis…；https://lanprosa.com/switch-poe-l2-8-ge-25gb-2-uplink-sfp-10ge-max-240w-voice-vlan-anti-bucle-max-4096-vlan-re…
+- **已抓子页**：[Switch Smart WEB administrable 8 puertos PoE 2.5G BT 250w + ](https://lanprosa.com/switch-smart-web-administrable-8-puertos-poe-25g-bt-250w-1-puerto-10g-sfp-lantek-ltk-sw08btm/)；[Switch 24 GE PoE+ / 2GE + 2SFP uplink, 370W 4KV Vlan, Loop p](https://lanprosa.com/switch-24-ge-poe-2ge-2sfp-uplink-370w-4kv-vlan-loop-prevention-remote-boot-cloud-reyee-rg-es228gs-p/)；[Switch 16 GE PoE+ / 2GE + 2SFP uplink, 250W 4KV Vlan, Loop p](https://lanprosa.com/switch-16-ge-poe-2ge-2sfp-uplink-250w-4kv-vlan-loop-prevention-remote-boot-cloud-reyee-rg-es220gs-p/)；[Switches Lantek, Riujie, Mikrotik, Reyee, Costa Rica / Switc](https://lanprosa.com/product-category/redes/switches/)；[Distribuidor CCTV, Cámaras y Sistemas de Vigilancia en Costa](https://lanprosa.com/product-category/cctv/)；[Soluciones IP CCTV en Costa Rica, Lanprosa](https://lanprosa.com/product-category/cctv/ip/)
+- 首页正文摘录：Skip to navigation Skip to main content Consulte por los Precios para Integradores E-mail web@Lanprosa.com Contáctenos 50622212014 Sign in Create an Account Nombre de usuario o correo electrónico * Obligatorio Password * Obligatorio Log in Lost your password? Remember me Categorias ESTRUCTURADO CABLEADO CANALIZACION CONECTIVIDAD ENERGIA FIBRA OPTICA GABINETES Y RACKS HERRAMIENTAS OTROS ESTRUCTURADO Figura union para 
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 23、交换机 113 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-847.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +186,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

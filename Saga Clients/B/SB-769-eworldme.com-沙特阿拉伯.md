@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-769.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://eworldme.com/　语言：en　站点地图 URL 数：4280
+- **标题**：Industrial Automation & Data Communication Distributor / eWorld
+- **描述**：Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East.
+- **首页栏目**：Easy World Automation L.L.C
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 56、switch 41、ethernet 30、camera 20、automation 16、wireless 16、poe 13、cable 13、nvr 8、media converter 7、moxa 7、surveillance 5
+- **站内出现的品牌**：Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TN-G6500, RM-G4000, EDS-G205A, EDS-P500, MDS-G4000, TN-5000, EDS-4000, EDS-P206A, ICS-G7000, TN-4000, TN-5300A, TN-5500A
+- **站内公开邮箱**：ewleads@eworldme.com, info@eworldme.com, sales@eworldme.com
+- **产品类页面**：https://eworldme.com/MOXA_EDS_205_Unmanaged_Ethernet_Switches；https://eworldme.com/MOXA_UPort_204_4_Port_Industrial_USB_Hub；https://eworldme.com/MOXA_UPort_207_7_Port_Industrial_USB_Hub；https://eworldme.com/MOXA_EDS_208_Unmanaged_Ethernet_Switches；https://eworldme.com/MOXA_EDS_205A_Unmanaged_Ethernet_Switches；https://eworldme.com/MOXA_EDS_208A_Unmanaged_Ethernet_Switches
+- **已抓子页**：[MOXA PoE Switches / Easy World Automation](https://eworldme.com/PARTNERS/MOXA/MOXA_Industrial_Network_Infrastructure/MOXA_Industrial_Ethernet_Switches/moxa-poe-switches)；[MOXA TN-5000 Series / Easy World Automation](https://eworldme.com/PARTNERS/MOXA/MOXA_Industrial_Network_Infrastructure/MOXA_Industrial_Ethernet_Switches/moxa-poe-switches/moxa-tn-5000-series)；[MOXA EDS-P500 Series / Easy World Automation](https://eworldme.com/PARTNERS/MOXA/MOXA_Industrial_Network_Infrastructure/MOXA_Industrial_Ethernet_Switches/moxa-poe-switches/moxa-eds-p500-series)；[MOXA PT-G7000 Series / Easy World Automation](https://eworldme.com/PARTNERS/MOXA/MOXA_Industrial_Network_Infrastructure/MOXA_Industrial_Ethernet_Switches/moxa-poe-switches/moxa-pt-g7000-series)；[MOXA TN-G6500 Series / Easy World Automation](https://eworldme.com/PARTNERS/MOXA/MOXA_Industrial_Network_Infrastructure/MOXA_Industrial_Ethernet_Switches/moxa-poe-switches/moxa-tn-g6500-series)；[EDS-G205A Series / Gigabit PoE+ Unmanaged Switches / eWorld](https://eworldme.com/moxa-eds-g205a-series)
+- 首页正文摘录：Easy World Automation L.L.C Partners 0 MOXA 0 Industrial Network Infrastructure 0 Industrial Ethernet Switches 775 Ethernet Embedded Modules 8 PoE Switches 0 EDS-4000/G4000 Series 44 EDS-G205A Series 0 EDS-G512E Series 4 EDS-P206A Series 0 EDS-P500 Series 12 ICS-G7000 Series 9 IKS-6728A Series 22 MDS-G4000 Series 24 PT-G7000 Series 8 PWR (Power Modules) Series 0 RKS/RM-G4000 Series 39 SDS-3000/G3000 Series 20 TN-4000
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 61、PoE 13 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-769.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

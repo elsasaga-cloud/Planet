@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 60、监控 45 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-882.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.destekelektronik.com.tr/　语言：tr　站点地图 URL 数：1126
+- **标题**：Güvenlik Elektronik Sistemleri Distribütörü
+- **描述**：Destek Elektronik; CCTV, güvenlik kameraları, yangın ve hırsız algılama sistemleri, erişim kontrolü ve koruma çözümleri sunan profesyonel bir elektronik firmasıdır. Hanwha Vision, Aritech, Kilsen, CQR, Texecom, Klaxon, Elmdene gibi dünya markalarının yetk
+- **首页栏目**：CCTV Sistemleri / Yangın Algılama / Hırsız Alarm / Gaz Algılama / Güç Kaynakları / Geçiş Kontrol / Markalar / Distribütörlükler / Elektronik Güvenlik Sistemleri Distribütörü
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 60、cctv 38、gigabit 14、ethernet 7、nvr 7
+- **站内出现的品牌**：Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：STX2405-E, STX2405-C, STX2402-C, IEEE802
+- **站内公开邮箱**：destek@destekelektronik.com.tr
+- **站内公开电话**：+90 505 173 87 51, +90 544 440 34 10, +90 544 735 56 99
+- **产品类页面**：https://www.destekelektronik.com.tr/kategori/poe-urunleri/；https://www.destekelektronik.com.tr/16kn-poe-nvr-830/；https://www.destekelektronik.com.tr/16-kanal-poe-nvr-842/；https://www.destekelektronik.com.tr/kopru-ethernet-poe-609/；https://www.destekelektronik.com.tr/24-port-gigabit-poe-553/；https://www.destekelektronik.com.tr/8-port-poe-ag-anahtari-136/
+- **已抓子页**：[PoE Ürünleri](https://www.destekelektronik.com.tr/kategori/poe-urunleri-172/)；[PoE Ürünleri](https://www.destekelektronik.com.tr/kategori/guc-kaynaklari-172/)；[Yardımcı Ürünler](https://www.destekelektronik.com.tr/kategori/yardimci-urunler-183/)；[Markalar](https://www.destekelektronik.com.tr/markalar/)；[İletişim](https://www.destekelektronik.com.tr/iletisim/)；[CCTV Sistemleri](https://www.destekelektronik.com.tr/kategori/cctv-sistemleri-2/)
+- 首页正文摘录：Teknik Destek Eğitim / Seminer Blog Bayi Portal Ürünler CCTV Sistemleri IP Sistemler AHD Sistemler Termal Sistemler Mobil Sistemler IP Ses Sistemleri Aksesuarlar Monitör Lens Yazılım Yangın Algılama Adreslenebilir Sistemler Konvansiyonel Sistemler Söndürme Sistemleri Güç Kaynakları Test Spreyi Aksesuarlar Hırsız Alarm Kablosuz Sistemler Kablolu Sistemler Anahtar Yönetim Sistemleri Gaz Algılama Polon-Alfa Gaz Algılama
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 60、监控 45 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-882.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -97,7 +114,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 60、监控 45 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -144,7 +161,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

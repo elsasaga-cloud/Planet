@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Wide range of affordable CCTV, Security, A/V, and Networking products. Dahua Largest Distributor, superior customer service and top-notch products for residential and commercial needs
 - **首页栏目**：Quick Order / Skip To / Banner / New Products / new / Restock alert subscription / Triax CAT6 UTP PVC White 305m Pull Box - Indoor PVC jacket / Triax CAT6 UTP LSZH Purple 305m Pull Box - Indoor PVC jacket
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 97、dahua 62、cable 60、camera 55、wireless 26、wifi 26、switch 22、tp-link 21、access control 14、automation 12、surveillance 10、nvr 8
-- **站内出现的品牌**：Dahua, Ajax, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Dahua, TP-Link, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IPC-HDW3849H-AS-PV-PRO-ATC, AJ-0010, AJ-0282, PFA109, PFB220C, PFA152-E, FSP11, VTM78, AJ-0600, AJ-0601, AJ-0613, AJ-0611
 - **站内公开邮箱**：accounts@kdelectronics.ie, info@kdelectronics.ie, name@domain.com, sales@kdelectronics.ie, salesdublin@kdelectronics.ie
 - **站内公开电话**：0010 149624

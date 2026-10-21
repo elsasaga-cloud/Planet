@@ -22,7 +22,7 @@ last_contact: 2025-10-02
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-05-09 → 2025-10-02）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-692.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.davantel.com/　语言：es　站点地图 URL 数：1099
+- **标题**：Soluciones avanzadas para telecomunicaciones corporativas - Davantel
+- **描述**：DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías, compañías de suministro y grandes corporaciones.
+- **首页栏目**：NOVEDADES / PRODUCTOS DESTACADOS / CASOS DE USO / ARTÍCULOS SOBRE TECNOLOGÍA Y HOW-TO / Newsletter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 165、industrial 137、switch 130、fiber 92、ethernet 58、wifi 57、telecom 22、sfp 20、cctv 16、10g 15、wireless 14、gigabit 10
+- **站内出现的品牌**：Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RUT241, RUT951, OTD140, RUTM30, RUTC50, RUTM54, IEC61850, TCR100, RUT200, RUT204, RUT206, RUT260
+- **站内公开邮箱**：info@davantel.com
+- **站内公开电话**：+34 93 3408712
+- **产品类页面**：https://www.davantel.com/familia-de-switches-industriales-poe-gazelle-de-raisecom-hasta-90w；https://www.davantel.com/opal5gs-switch-industrial-gigabit-no-gestionable-con-4-puertos-poe；https://www.davantel.com/switches-industriales-19-l2-full-gigabit-con-puertos-poe-opcionales；https://www.davantel.com/inyectores-poe-de-rango-industrial；https://www.davantel.com/sicom3000a-switch-industrial-montaje-carril-din；https://www.davantel.com/switches-y-conversores-industriales-de-fiberroad
+- **已抓子页**：[Fiberroad - Davantel](https://www.davantel.com/productos/switches-industriales/gestionados-poe-para-carril-din/fiberroad-gestionados-poe-para-carril-din)；[Gestionados PoE para carril DIN - Davantel](https://www.davantel.com/productos/switches-industriales/gestionados-poe-para-carril-din)；[No gestionados PoE para carril DIN - Davantel](https://www.davantel.com/productos/switches-industriales/no-gestionados-poe-para-carril-din)；[Raisecom - Davantel](https://www.davantel.com/productos/switches-industriales/gestionados-poe-para-carril-din/raisecom-gestionados-poe-para-carril-din)；[Switches Teltonika no gestionables - Davantel](https://www.davantel.com/productos/switches-industriales/switches-industriales-no-gestionados-para-carril-din/teltonika-networks-unmanaged)；[Switches Teltonika gestionables - Davantel](https://www.davantel.com/productos/switches-industriales/switches-industriales-gestionados-para-montaje-en-carril-din/teltonika-networks-managed)
+- 首页正文摘录：Saltar al contenido Menú Partners Teltonika Networks Teltonika Telematics Robustel Kyland Fiberroad Raisecom Loop Telecom Proscend FlexDSL Elproma Gigalight Quwireless CXR COME-STAR Digital Instruments Pantherun Productos Cargadores para coches eléctricos Módems, gateways y routers Routers Teltonika Routers 4G OTD140 – Router 4G de exterior TCR100 RUT200 RUT204 RUT206 RUT241 RUT241 eSIM RUT260 RUT360 RUT901 RUT951 RU
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 137、PoE 165 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-692.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 21 次（2024-05-08 → 2025-10-30）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-759.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ccd.au/　语言：en　站点地图 URL 数：4
+- **标题**：CCD Networking - Computer Networking Products Australia
+- **描述**：CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables.
+- **首页栏目**：CCD Networking / Browse Our Products / Explore Our Cable Range
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 86、fibre 74、media converter 48、poe 47、ethernet 37、sfp 36、fiber 12、switch 11、gigabit 11、10g 9、camera 7、2.5g 5
+- **站内型号串**（正则抽取，含非交换机）：CCD-POE-4100, CCD-5100, CCD-7100, CCD-9100, RS-232, MPO-12, RJ-45, MPO-16, CCD-POE-4100-ST-MM-550M, CCD-POE-1G-130-LC-MM, SFF-8431, CCD-POE-1G-290
+- **站内公开邮箱**：sales@ccd.au
+- **社媒**：https://instagram.com/ccdnetworking, https://www.facebook.com/ccdnetworking, https://www.linkedin.com/company/ccdnetworking
+- **产品类页面**：https://ccd.au/sitemap_products_1.xml?from=7478204006488&amp;to=8908995166296
+- **已抓子页**：[CCD-POE-4100 Fibre Optic Gigabit Media Converter – CCD Netwo](https://ccd.au/products/ccd-4100)；[CCD POE Fibre Optic Media Converter – CCD Networking](https://ccd.au/products/ccd-poe-series)；[CCD CAT6 Ethernet Patch Cable – CCD Networking](https://ccd.au/products/ccd-cat6-ethernet-patch-cable)；[CCD CAT5e Ethernet Patch Cable – CCD Networking](https://ccd.au/products/ccd-cat5e-ethernet-patch-cable)；[CCD CAT6a Ethernet Patch Cable – CCD Networking](https://ccd.au/products/ccd-cat6a-ethernet-patch-cable)；[CCD CAT6a S/FTP Ethernet Patch Cable – CCD Networking](https://ccd.au/products/ccd-cat6a-s-ftp-ethernet-patch-cable)
+- 首页正文摘录：Skip to content Home Products Account Contact Login Facebook Instagram LinkedIn Search Site navigation CCD Networking Home Home Products Products Media Converters New PoE Series CCD-POE-4100 CCD-5100 CCD-7100 CCD-9100 CCD-Serial-TB CCD-Serial-DB9 14-Slot Chassis SFP Modules Fibre Cables CAT Cables CAT5e CAT5e Ultra-Thin CAT6 CAT6 Ultra-Thin CAT6a CAT6a Ultra-Thin CAT6a S/FTP Display Cables GPU Network Cards RAM Accou
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 14、交换机 11 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-759.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -174,7 +190,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

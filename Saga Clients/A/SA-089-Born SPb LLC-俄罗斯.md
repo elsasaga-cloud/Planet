@@ -122,7 +122,7 @@ updated: 2026-10-21
 - **描述**：Борн – системы безопасности и видеонаблюдения - интернет магазин Борн
 - **首页栏目**：Лучшие товары / Хиты продаж / Специальные предложения / Новости / Обзоры / Статьи / Новинки
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 59、ethernet 13、10g 13、planet 12、sfp 10、hikvision 9、ubiquiti 7、axis 7、moxa 3、fiber 2、gigabit 2、cisco 2
-- **站内出现的品牌**：PLANET, Huawei, D-Link, Zyxel, Ubiquiti, Bosch, Allied Telesis, Hikvision, Axis, MikroTik, Cisco, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Huawei, D-Link, Zyxel, Ubiquiti, Bosch, Allied Telesis, Hikvision, Axis, MikroTik, Cisco, Dahua, Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IPOE-165, DXE-810S, AT-2911SX, SC-901, AT-2711FX, AT-2911SFP, DS-TL2000CI, AF-11-DUP-H, ST4000VX007, DS-2CD2042WD-I, NBN-71013-B, DRP-240-24
 - **站内公开邮箱**：sales@born-spb.ru
 - **社媒**：https://vk.com/born_spb_ru

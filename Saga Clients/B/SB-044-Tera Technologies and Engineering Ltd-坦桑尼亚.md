@@ -1,4 +1,5 @@
 # Tera Technologies and Engineering Ltd
+**官方名称（调研核实）**：Tera Technologies and Engineering Limited (TTEL)
 
 > **评级 B**　|　坦桑尼亚　|　档案编号 `SB-044`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-044
 rating: B
 rating_auto: B
+name_official: "Tera Technologies and Engineering Limited (TTEL)"
 score: 57
 country: 坦桑尼亚
 region: 非洲
@@ -19,9 +21,9 @@ replies: 3
 followups: 15
 first_contact: 2024-04-28
 last_contact: 2025-10-06
-p1: STI-144GP
+p1: STI-21616GP
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：坦桑尼亚的系统集成/工程商；兴趣/在卖：5电口 price list company profile
+- **是谁**：坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。（调研 2026-10-21；表内兴趣：5电口 price list company profile）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/坦桑尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 15 次（2024-04-28 → 2025-10-06）；最近一次客户回复：2025-02-20：可能会用到
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-21616GP — 深挖对位：其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。；$177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-044.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（teratech.co.tz，快照 2026-10-21）
+- **是谁**：坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。
+- **【LinkedIn】注册信息与规模**
+  > incorporated under Tanzanian Companies Act 2002 on 9th September, 2011 under certificate of Incorporation No: 85715… Telecommunications, ICT, Power and Security Systems solutions… Company size: 11-50 employees… Founded: 2011
+  > 来源：https://tz.linkedin.com/company/tera-technologies-and-engineering-limited（抓取 2026-10-21）
+- **【官网】CEO 与规模：Eng. Daudi Charles，50+ 员工，达市 + 多多马**
+  > Daudi Charles is the Chief Executive Office and Co-Founder… the company has more than 50 employees and three offices in Dar es Salaam and Dodoma
+  > 来源：https://ttel.co.tz/about（抓取 2026-10-21）
+- **【名录】CRB 一级承包商（电信 / ICT / 安防）**
+  > TTEL is registered with CRB as Class One Contractors in Telecommunications, ICT and Security Systems
+  > 来源：https://clutch.co/profile/tera-technologies-engineering（抓取 2026-10-21）
+- **【官网】业务：电信微波基础设施、企业链路、工业自动化 / IoT、安防、软件平台**
+  > TeraTech designs, installs, and maintains telecom and microwave infrastructure… Industrial Automation, IoT Solutions… 500+ Sites Connected
+  > 来源：https://www.teratech.co.tz/（抓取 2026-10-21）
+- **【名录】营收约 $5.3M / 35 人（RocketReach）**
+  > $5.3 million in revenue and 35 employees
+  > 来源：https://rocketreach.co/tera-technologies-and-engineering-limited-profile_b4497cfdfcd4de6e（抓取 2026-10-21）
+- **【用户表】回复：2 光 2 小壳邮件；18 口 2.5G→是 PoE 吗；Marvell 组合→Are they Giga Ethernet Switches；工业 16/24 口→可能会用到**
+  > 回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ramadhani Ndijuye（）rndijuye@gmail.com +255 769 320 545〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Eng. Daudi Charles（）info@teratech.co.tz +255 754 247 576〔https://ttel.co.tz/about〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Tera Technologies and Engineering Limited |
+| 成立 | 2011-09-09 |
+| 总部/地址 | Mbezi Beach / Sinza, Dar es Salaam, Tanzania（P.O. Box 31257） |
+| 其他 | CRB Class One（Telecom/ICT/Security）；ASIS 会员 |
+
+- **业务线**：电信与微波基础设施（站点建设、企业链路）；ICT 网络与安防系统集成；工业自动化 / IoT；电力 / HVAC；自有软件平台（TeraPay、VTS 车辆追踪）
+- **触达通道（公开）**：role: 系统集成 / 承包商（项目）；region: 坦桑尼亚 + 邻国
+- **近况信号**：
+  - 对工业 16/24 口「可能会用到」（2025-02）
+  - 500+ 站点 + 工业自动化线 → 工业交换机真实场景
+- **风险/边界**：东非项目付款周期长；T/T 预付；政府/电信项目按单核对用途（守界：非军警）
+- **Saga 对位结论**：P1 STI-21616GP（25% 档）——其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。
+- **邮件切入句（英文）**：Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -101,6 +143,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ramadhani Ndijuye | — | rndijuye@gmail.com / +255 769 320 545 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Eng. Daudi Charles | — | info@teratech.co.tz / +255 754 247 576 | 调研核实（公开页） | https://ttel.co.tz/about |
 | Mr. Ramadhani Ndijuye | — | rndijuye@gmail.com / +255769320545 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -117,7 +161,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-21616GP | 深挖对位：其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。 | $177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -126,9 +170,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-21616GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-21616GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -138,7 +182,7 @@ updated: 2026-10-21
 
 - **S**：有 3 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-144GP 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-21616GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -162,19 +206,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Ramadhani,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $177.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

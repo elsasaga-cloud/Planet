@@ -94,7 +94,6 @@ updated: 2026-10-21
 - **描述**：Amity Technologies is leading manufacturer of Rugged Systems, Units, Computers, Displays, Servers, Ethernet Switches, Enclosures, Workstations, Consoles, Displays, Laptops, Tablets, Racks, and UPS.
 - **首页栏目**：Defence Electronics Company India / Take a Product With Purpose / Looking for reliable rugged systems? / Amity Technologies / Our Services / Latest 4U Rugged Server Hyderabad / Latest Posts from Blog / Rugged Display Manufacturers in India – Amity Technologies Leading the Way
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 35、switch 30、cable 25、industrial 9、10g 7、automation 3、sfp 1、gigabit 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：JSS55555, MIL-STD-810H, RS232, MIL-STD-461G, MIL-STD-810, DDR42666, STD-461F, RE101, CE101, RX-14, RX-15, RX-17
 - **站内公开电话**：+91 9866938833
 - **社媒**：https://www.facebook.com/profile.php?id=61573915896321, https://www.linkedin.com/company/amitytech/

@@ -22,7 +22,7 @@ last_contact: 2025-11-03
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-845.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://konturm.ru/　语言：未标　站点地图 URL 数：7032
+- **标题**：Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж.
+- **描述**：Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 17、ethernet 8、fiber 6、dahua 6、ftth 5、cable 5、gigabit 2、oem 2、cisco 2、cctv 1
+- **站内出现的品牌**：D-Link, Cisco, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MPEG-2, USB-2, MPEG-4, EQ8096, DTC-720-XP, DVB-T2, DTA-2180, USB-3, DTE-PWR2, DVB-S2, CMH3000, DTA-2131
+- **站内公开邮箱**：webmaster@konturm.ru
+- **站内公开电话**：+7 (495) 221-8188, +7(495) 221-8188, +7(495) 221-8188 8-495-221-8188
+- **社媒**：https://www.instagram.com/konturm_company/
+- **产品类页面**：http://www.konturm.ru/catalog.php?id=nov；http://www.konturm.ru/catalog.php?id=tehn；http://www.konturm.ru/catalog.php?id=firm；http://www.konturm.ru/catalog.php?id=sale；http://www.konturm.ru/catalog.php?id=price；http://www.konturm.ru/catalogy/sert/0692.pdf
+- **已抓子页**：[Каталог оборудования компании Контур-М](https://konturm.ru/catalog.php?hush=120_110)；[О компании Контур-М, контакты, вакансии, лицензии и дипломы,](https://konturm.ru/company.php?id=cont)；[Решения: Цифровая головная станция DVB-C Tandberg Packaged C](https://konturm.ru/help.php?id=resh_dvbc18)
+- 首页正文摘录：БЫСТРЫЙ ПЕРЕХОД ПО САЙТУ О компании О компании Наши лицензии и награды Вакансии Наши партнеры Как нас найти Контакты Каталог Скачать прайс-лист Каталог оборудования Новые поступления оборудования Товар месяца! Распродажа оборудования Доставка оборудования Акции и спецпредложения Производители Оператору Решения Наши проекты Вопрос-ответ Наши публикации Справочник оператора Технологии Разное Новости телекоммуникаций По
+- 数据文件：`data/saga_clients/site_snapshots/SB-845.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

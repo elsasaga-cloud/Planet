@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -69,6 +69,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-986.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.lemaxguvenlik.com/　语言：tr　站点地图 URL 数：335
+- **标题**：Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik
+- **描述**：Gece Görüşlü Güvenlik Kamerası Fiyatları, En Kaliteli En Uygun Güvenlik Kamerası Sistemleri Ve Paket Kameralar, Cctv Kamera Fiyatları Lemaxguvenlik.com 'da
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 40、switch 5、nvr 5、wifi 2、cctv 1
+- **站内公开邮箱**：satis@lemaxguvenlik.com
+- **站内公开电话**：00172585 05300172585
+- **社媒**：https://www.facebook.com/share.php?u=https://www.lemaxguvenlik.com/urun/16-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/327, https://www.facebook.com/share.php?u=https://www.lemaxguvenlik.com/urun/2-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/312, https://www.facebook.com/share.php?u=https://www.lemaxguvenlik.com/urun/4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/313, https://www.facebook.com/share.php?u=https://www.lemaxguvenlik.com/urun/4-kamerali-5mp-gece-renkli-sesli-arac-ve-yuz-tanimali-kamera-seti/285, https://www.facebook.com/share.php?u=https://www.lemaxguvenlik.com/urun/6-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/314, https://www.facebook.com/share.php?u=https://www.lemaxguvenlik.com/urun/8-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/315
+- **产品类页面**：https://www.lemaxguvenlik.com/urun/4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-h…；https://www.lemaxguvenlik.com/urun/6-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-h…；https://www.lemaxguvenlik.com/urun/8-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-h…；https://www.lemaxguvenlik.com/urun/2-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-h…；https://www.lemaxguvenlik.com/urun/16-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-…；https://www.lemaxguvenlik.com/urun/gunes-paneli-tutucu-sabitleme-parcasi/273
+- **已抓子页**：[8 Kameralı 4K 1440P Full HD Sesli PoE IP Kamera Sistemi – Ge](https://www.lemaxguvenlik.com/urun/8-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/315)；[6 Kameralı 4K 1440P Full HD Sesli PoE IP Kamera Sistemi – Ge](https://www.lemaxguvenlik.com/urun/6-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/314)；[4 Kameralı 4K 1440P Full HD Sesli PoE IP Kamera Sistemi – Ge](https://www.lemaxguvenlik.com/urun/4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/313)；[2 Kameralı 4K 1440P Full HD Sesli PoE IP Kamera Sistemi – Ge](https://www.lemaxguvenlik.com/urun/2-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/312)；[16 Kameralı 4K 1440P Full HD Sesli PoE IP Kamera Sistemi – G](https://www.lemaxguvenlik.com/urun/16-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi-gece-renkli-ultra-hd-guvenlik-seti/327)；[4 Kameralı 5MP Gece Renkli, Sesli, Araç Ve Yüz Tanımalı Kame](https://www.lemaxguvenlik.com/urun/4-kamerali-5mp-gece-renkli-sesli-arac-ve-yuz-tanimali-kamera-seti/285)
+- 首页正文摘录：Giriş Yap Favorilerim 0 Sepetim Arama Kategoriler LEMAX GUVENLİK HAKINDA ÜRÜNLERİMİZ Kamera Kurulumu Blog S.S.S İLETİŞİM Sepete Ekle Yeni 4.2 KW Tak Çalıştır Hazır Güneş Enerji Sistemi Paketi - Buzdolabı, TV, Aydınlatma Solar Paket 51.950,00 TL ( KDV Hariç ) Sepete Ekle 4 Kameralı Sim Kartlı Kamera, 2 Solar Panelli, PTZ aydınlatmalı, 2 Yönlü Konuşma, Çakarlı 6.700,00 TL ( KDV Hariç ) Sepete Ekle Yeni (2) 2800 Watt Ta
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 40、监控 6 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-986.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

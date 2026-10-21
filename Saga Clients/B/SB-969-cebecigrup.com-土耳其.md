@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -69,6 +69,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-969.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://cebecigrup.com/　语言：tr　站点地图 URL 数：209
+- **标题**：Kurumsal Ana Sayfa / Cebeci Grup
+- **描述**：Haberler Kingfisher artık Tempo Communications ailesinin bir üyesi. Lantronix Inc. Transition Networks’ü satın aldı Micos Telcom, PLP çatısı altında Argus 260 Yeni nesil ADSL, VDSL, GPON, VoIP, IPTV vb. test cihazı Markalara Göre Ürün Gruplarımız Argus Cifocs Cmg Greenlee-Tempo InterCoax Micos Trend
+- **首页栏目**：Argus 260 / Markalara Göre Ürün Gruplarımız / İletişim Bilgileri / Cebeci Teleteks San. ve Tic. Ltd. Şti. / / / Tüm hakları saklıdır. © 2019
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 100、ethernet 34、cctv 10、sfp 8、switch 5、poe 3、media converter 1
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485, RS422
+- **站内公开邮箱**：iletisim@cebecigrup.com
+- **站内公开电话**：+90 212 320 08 85, +90 212 320 08 88
+- **社媒**：https://twitter.com/GrupCebeci, https://www.facebook.com/CbcGrp, https://www.instagram.com/cebecigrup/
+- **产品类页面**：https://cebecigrup.com/poe-pro-test-cihazi/；https://cebecigrup.com/cfc-8t2s-ab-p-cs-yonetilemez-poe-ag-anahtari/；https://cebecigrup.com/cfc-8t2s-dx-p-cs-yonetilemez-poe-ag-anahtari/；https://cebecigrup.com/cfc-2f1s-ipmc-fast-ethernet-poe-endustriyel-ag-anahtari/；https://cebecigrup.com/cfc-4g2sfp-ips-gigabit-ethernet-poe-endustriyel-ag-anahtari/；https://cebecigrup.com/sistp1040-382-lrt-yonetilemez-gigabit-ethernet-poe-endustriyel-ag-anahtari/
+- **已抓子页**：[Fiber Optik Kablolama Ürünleri / Cebeci Grup](https://cebecigrup.com/fiber-optik-kablolama-urunleri/)；[Aktif Ağ Ürünleri / Cebeci Grup](https://cebecigrup.com/aktif-ag-urunleri/)；[Ürünler / Cebeci Grup](https://cebecigrup.com/urunler/)；[Terminasyon Ürünleri / Cebeci Grup](https://cebecigrup.com/terminasyon-urunleri/)；[Ses ve Görüntü Ürünleri / Cebeci Grup](https://cebecigrup.com/ses-ve-goruntu-urunleri/)；[Yeraltı Tespit Ürünleri / Cebeci Grup](https://cebecigrup.com/yeralti-tespit-urunleri/)
+- 首页正文摘录：Facebook-f Twitter Instagram +90 212 320 08 88 iletisim@cebecigrup.com Kurumsal Haberler Markalar Ürünler Fiber Optik Kablolama Ürünleri Fiber Optik Dağıtım Kutuları Fiber Optik Patch Kablolar Fiber Optik Adaptörler Bakır Kablolama Ürünleri Akıllı Patch Kablolar Bakır Kablolar Keystone Jacklar Telefon Dağıtım Kutuları Modül Çatıları Terminasyon Ürünleri Aktif Ağ Ürünleri Ağ Anahtarları Endüstriyel Ağ Anahtarları Yöne
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 3、监控 10 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-969.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -1,0 +1,64 @@
+{
+ "code": "SB-316",
+ "name_official": "Infonet（印度联系人 Sudesh Verma；域名 infonet-tech.com 为北美加油站 POS 公司）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线，但站点与表内客户不符（site_mismatch）",
+ "summary": "表内域名 infonet-tech.com 的网站是北美加油站 / 便利店 POS 与燃油管理软件公司（Infonet Technology），与印度联系人 Sudesh Verma（+91 740）及「光猫」需求不符；sales@infonet-tech.com 曾用于发送资料，是否同一主体待核。需求 ONU（Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "站点为北美加油站 POS 软件公司",
+   "quote": "Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America",
+   "url": "https://infonet-tech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 光猫；2024-06 邮件发了 2 光 2 小壳；2025-01 邮件 48 口",
+   "quote": "兴趣：光猫；回复：Email发了2光2小壳信息；125 email 48口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Sudesh Verma",
+   "title": "（表内联系人）",
+   "email": "sales@infonet-tech.com",
+   "phone": "+91 74083 98524",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "（待核：印度 Infonet 主体不明）",
+  "founded": "",
+  "hq": "印度（手机号段）",
+  "size": "",
+  "other": "域名误配，快照作废"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "印度"
+ },
+ "risks": [
+  "主体不明 + 需求 ONU（Saga 不做 PON）",
+  "邮箱是否属该联系人待核（可能误投北美公司）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "需求光猫不在 Saga 范围；主体待核，无主推型。"
+ },
+ "email_hook": "（待核主体；不主动发送）",
+ "site_mismatch": true
+}

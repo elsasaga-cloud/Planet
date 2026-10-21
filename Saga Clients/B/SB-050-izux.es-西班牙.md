@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso y cerraduras electrónicas para hotel, hogar y negocio. Envío rápido y garantía oficial.
 - **首页栏目**：Producto añadido correctamente a su carrito de la compra / Hay 0 artículos en su carrito. Hay 1 artículo en su cesta. / Especialistas en Cámaras de Vigilancia, Alarmas y Control de Accesos / Cámaras de Vigilancia / Alarmas para hogar y negocio / Control de Acceso / Cerraduras Electrónicas para Hotel / Videoporteros
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 260、hikvision 187、switch 167、sfp 73、uniview 64、nvr 58、gigabit 54、dahua 48、cctv 47、wifi 45、cable 45、10g 16
-- **站内出现的品牌**：Hikvision, Ajax, Dahua, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hikvision, Dahua, Uniview, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RG-NBS7003, RG-NBS7006, SW8FE2GE-100W, DS-3E1318P-EI, DS-3E1326P-EI, RG-NBS6002, NVR302-16B-IQ, NVR302-32B-IQ, NVR502-09B, BATT-75V-3200WH, BATT-60V-6000WH, NVR-108S3-P8-ECO
 - **站内公开邮箱**：comercial@izux.es
 - **站内公开电话**：+34 963 320 337

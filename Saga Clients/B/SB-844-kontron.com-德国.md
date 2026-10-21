@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-07-09 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-844.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.kontron.com/en　语言：en　站点地图 URL 数：2481
+- **标题**：The Power of IoT / Kontron
+- **描述**：Discover Kontron’s global expertise in IoT, 5G, edge computing and industrial embedded systems — powering smart industries and connected infrastructure.
+- **首页栏目**：Get Your Free CRA Workbook / AI at the Edge / Stressed by Tariffs? / We create FRMCS / Countdown to Cyber Resilience Act / Our Cutting-Edge Capabilities / Smart Railway Solutions / CRA-Ready Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 20、automation 11、odm 5、telecom 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：A-251-AML, NIS-2, AS9100D, A-151-TGL, A-151-EKL, IP69K
+- **站内公开邮箱**：automotive.info@kontron.com, confidentialite.canada@kontron.com, contact@katek-group.com, datenschutz@kontron.com, development@kontron.at, info.americas@kontron.com
+- **社媒**：https://www.instagram.com/kontron_ag/, https://www.linkedin.com/company/kontronag/, https://www.linkedin.com/in/marc-roeder-a25414163/, https://www.linkedin.com/showcase/kontron-susietec/?viewAsMember=true, https://www.youtube.com/channel/UCXkp_1gJbG0Um1vzdowlqww
+- **产品类页面**：https://www.kontron.com/en/products-solutions/electronics2/development/product-industrialization；https://www.kontron.com/fr/electronics2/developpement/industrialisation-des-produits；https://www.kontron.com/de/produkte-loesungen/electronics2/produkt-industrialisierung；https://www.kontron.com/en/products；https://www.kontron.com/en/products-solutions/susietec；https://www.kontron.com/en/products-solutions/electronics2
+- **已抓子页**：[IoT Bundles for Smart Production – susietec / Kontron](https://www.kontron.com/en/products-solutions/susietec/iot-bundles)；[Electronics² Reshoring – Global EMS Manufacturing / Kontron](https://www.kontron.com/en/products-solutions/electronics2/electronics-reshoring)；[Secure Linux Edge OS for Devices / Kontron](https://www.kontron.com/en/products-solutions/susietec/kontronos-secure-operating-system-for-edge-devices)；[Electronics Manufacturing, Injection Molding, and Box Build ](https://www.kontron.com/en/media/blogs/electronics-manufacturing-injection-molding-and-box-build-in-leipzig-how-kontron-esystems-combines-manufacturing-expertise-with-the-strength-of-a-network)；[Resilience as the new currency – Part 2: AI, 5G and defence ](https://www.kontron.com/en/media/blogs/resilience-as-the-new-currency-part-2-ai-5g-and-defence-as-drivers-of-industrial-transformation)；[Vulnerability Reporting & Security Responsibility / Kontron](https://www.kontron.com/en/group/product-responsibility/vulnerability)
+- 首页正文摘录：Skip to main content Group Products & Solutions Application Areas Support Media Careers Investor Relations Get Your Free CRA Workbook Can You Still Sell Your Products in Their Current Form in the EU After the End of 2027? Download AI at the Edge Accelerate Industrial Intelligence with Kontron's Physical AI Explore more Stressed by Tariffs? Minimize Their Impact by Leveraging Our Local Manufacturing Solutions and Glob
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 25、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-844.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

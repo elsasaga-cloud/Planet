@@ -22,7 +22,7 @@ last_contact: 2025-06-21
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-02-22 → 2025-06-21）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-921.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://synchcom.com.pk/　语言：en-US　站点地图 URL 数：141
+- **标题**：Home - SYNCHCOM PVT LTD
+- **首页栏目**：Experience the Magic of Technology / Our Mission / Industry We Focus / Telecom / I.T. / Defense / Power & Energy / Automation & Control
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 31、poe 19、automation 2、gigabit 2、surveillance 2、telecom 2、switch 1、scada 1、ethernet 1、wifi 1、data center 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：IP-67, IP-65
+- **社媒**：https://twitter.com/intent/tweet?text=LigoDLB+5&url=https://synchcom.com.pk/product-detail/ligodlb-5/, https://twitter.com/intent/tweet?text=LigoDLB+5-15&url=https://synchcom.com.pk/product-detail/ligodlb-5-15/, https://twitter.com/intent/tweet?text=LigoDLB+5-90&url=https://synchcom.com.pk/product-detail/ligodlb-5-90/, https://twitter.com/intent/tweet?text=LigoDLB+5ac&url=https://synchcom.com.pk/product-detail/ligodlb-5ac/, https://www.facebook.com/sharer.php?u=https://synchcom.com.pk/product-detail/ligodlb-5-15/, https://www.facebook.com/sharer.php?u=https://synchcom.com.pk/product-detail/ligodlb-5-90/
+- **产品类页面**：https://synchcom.com.pk/product-detail/industrial-managed-ethernet-switch-igs-1604sm/；https://synchcom.com.pk/product-detail/ctc-union-industrial-managed-ethernet-switch-igs-4804sm/；https://synchcom.com.pk/product-detail/poe-splitter/；https://synchcom.com.pk/product-detail/48v-poe-adapter/；https://synchcom.com.pk/product-detail/ligopoe-ac-to-48v-af-at-adapter/；https://synchcom.com.pk/product-detail/power-over-ethernet-1-port-surge-protector-sp-poe-01a/
+- **已抓子页**：[- SYNCHCOM PVT LTD](https://synchcom.com.pk/shop/)；[LigoDLB 5 - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5/)；[LigoDLB 5ac - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5ac/)；[LigoDLB 5-90 - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5-90/)；[LigoDLB 5-15 - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-detail/ligodlb-5-15/)；[ISM Band Radios - SYNCHCOM PVT LTD](https://synchcom.com.pk/product-category/ism-band-radios/)
+- 首页正文摘录：Home About Us Our Products Services Careers Contact Us 0 0 items Home Hassan 2023-03-18T15:51:32+05:00 Connecting People Globaly We connect you to the world with our Information Communication Technology Solutions. View Products Experience the Magic of Technology SynchCOM Private Limited is a system integrator and solution providing company. We’re local members of the communities we serve allowing us to get your servi
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 19、监控 2 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-921.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,7 +158,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

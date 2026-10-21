@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-17 → 2025-10-14）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-721.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.netzkontor.de/　语言：de-DE　站点地图 URL 数：3
+- **标题**：Netzkontor: Wir schaffen digitale Infrastrukturen in Deutschland / Netzkontor
+- **描述**：Projektierung, Planung, Bau, Betrieb und Service: Netzkontor ist auf den Aufbau von digitalen Infrastrukturen in Deutschland spezialisiert.
+- **首页栏目**：Infrastrukturen / für die Zukunft. / Digitale Infrastrukturen sind Grundpfeiler modernen Lebens / ca. 1.500.000 / ca. 60.000 / > 1.500 / ca. 7.000.000 / > 100
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 7、gigabit 2、fibre 1、distributor 1
+- **站内公开邮箱**：patrick.eggers@netzkontor.de, sebastian.koldemeyer@adamsgroup.de, thomas.kunze@adamsgroup.de, tobias.zuk@adamsgroup.de
+- **站内公开电话**：+49 151 239 696 61, +49 2203 988 76-0, +49 4421 9882-0
+- **社媒**：https://de.linkedin.com/company/netzkontor-gruppe-gmbh, https://www.facebook.com/Netzkontor, https://www.instagram.com/netzkontor/, https://www.youtube.com/@Netzkontor
+- **已抓子页**：[Über uns / Netzkontor](https://www.netzkontor.de/ueber-uns)；[Planung für Breitband- und Glasfaserausbau / Netzkontor / Ne](https://www.netzkontor.de/glasfaser/planung-engineering)；[Beratung und Projektleitung von Stromnetzen / Netzkontor](https://www.netzkontor.de/stromnetze/beratung-und-projektleitung)；[Bauleitung und Überwachung für den Netzausbau / Netzkontor](https://www.netzkontor.de/stromnetze/bauleitung-und-ueberwachung)；[Bauleitung Wärmenetze & Bauüberwachung / Netzkontor / Netzko](https://www.netzkontor.de/stromnetze/bauleitung-und-ueberwachung-1)；[Adams Network Engineering / Breitbandausbau / Netzkontor](https://www.netzkontor.de/mitglieder/adams-network-engineering-gmbh)
+- 首页正文摘录：Menü DE EN Start + Glasfasernetze Leistungsübersicht Glasfaser Netzplanung Glasfaser – effizient, förderfähig und aus einer Hand. Planung & Engineering Von der Planung bis zur örtlichen Bauüberwachung begleiten wir Ihre Projekte effizient und kostenoptimiert. Service & Installation Zu unseren Leistungen zählen Entstörung, Installation und technischer Außendienst. Auch Tiefbauarbeiten erledigen wir gerne. Netzbetrieb 
+- 数据文件：`data/saga_clients/site_snapshots/SB-721.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +155,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

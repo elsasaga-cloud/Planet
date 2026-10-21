@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-17 → 2025-10-14）
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-725.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.pandacomdirekt.de/　语言：de　站点地图 URL 数：268
+- **标题**：STARTSEITE / Nets get connected! - Pan Dacom Direkt
+- **描述**：PAN DACOM DIREKT / Ihr Spezialist für komplexe Übertragungsnetzwerke in Deieich bei Frankfurt am Main. Wir planen und realisieren: WDM-Lösungen, Richtfunk, uvm.
+- **首页栏目**：Home / Nets get connected! Pan Dacom Direkt / Entdecken Sie die Zukunft / der faseroptischen Übertragung / Wir stehen für höchste Qualitätsstandards "Made in Germany" / Referenz Projekte / „Pressefreiheit und Demokratie brauchen sichere IT-Netze“ / „Überbrückungskünstler: 160 Kilometer bis zum Internetknoten“
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 288、sfp 218、10g 147、fiber 132、switch 51、ftth 39、cisco 36、fibre 33、data center 27、gigabit 21、wireless 18、automation 14
+- **站内出现的品牌**：Cisco, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SPEED-OTS-5000, STM-1, QSFP28, STM-4, ML600, ML230, ML2300, XR239, L2-BSA, OTU-2, RS-232, RS-485
+- **站内公开电话**：+49 6103 834 83 333
+- **产品类页面**：https://www.pandacomdirekt.de/produkte.html；https://www.pandacomdirekt.de/produkte/detail/richtfunk.html；https://www.pandacomdirekt.de/produkte/detail/transceiver.html；https://www.pandacomdirekt.de/produkte/detail/verschluesselung.html；https://www.pandacomdirekt.de/produkte/produkt/transceiver/qsfp.html；https://www.pandacomdirekt.de/produkte/detail/optischer-transport.html
+- **已抓子页**：[Switching - Pan Dacom Direkt](https://www.pandacomdirekt.de/unsere-produkte/produkt/carrier-ethernetip-router/switching.html)；[Produktsortiment: Access-Netzwerk - FTTX & DSLAM - Pan Dacom](https://www.pandacomdirekt.de/unsere-produkte/detail/access-netzwerke.html)；[ONTs - Pan Dacom Direkt](https://www.pandacomdirekt.de/unsere-produkte/produkt/access-netzwerke/onts.html)；[ONTs - Pan Dacom Direkt](https://www.pandacomdirekt.de/unsere-loesungen/produkt/access-netzwerke/onts.html)；[Produktübersicht: Carrier Ethernet / IP Router - Pan Dacom D](https://www.pandacomdirekt.de/unsere-produkte/detail/carrier-ethernetip-router.html)；[Fiber Monitoring und 24/7 Glasfaserüberwachung von LWL-Netze](https://www.pandacomdirekt.de/unsere-produkte/produkt/optischer-transport/fiber-monitoring.html)
+- 首页正文摘录：Home Home Produkte Übersicht - alle Produkte Optischer Transport Übersicht Muxponder Element Management System Transponderkarten Optische Verstärker Managementkarte Baugruppenträger Passive WDM Multiplexer Fiber Monitoring und aktive Glasfaserüberwachung Optischer Umschalter Richtfunk Übersicht Service Richtfunk Lizenzierter Richtfunk Lizenzfreier Richtfunk Richtfunk-Zubehör Verschlüsselung Übersicht 100G Ethernet Ve
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-725.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +170,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet, SONET and Fibre Channel
 - **首页栏目**：Main Menu / Shop By Category / Shop By Brand / Shop by Category / Shop by Brand / Featured Products / Current Top Sellers / New Products
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 715、sfp 511、switch 268、ethernet 218、gigabit 171、poe 156、10g 147、industrial 140、cable 134、media converter 32、2.5g 19、automation 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, HC-1002-SFP-PSE-BT, HGW-401S-PSE, HGW-2402A-PSE, HC-1002-SFP-PSE, HGW-802S-PSE, HGW-402LM-PSE, HGW-802SM-BT, H10-804SM-PSE, HGW-804SM-PSE, HGW-802SM-SER-PSE
 - **站内公开电话**：000-85 1000
 - **已抓子页**：[Fiber Networking - Industrial Ethernet - PoE Industrial Swit](https://robofiber.com/poe-industrial-switches/)；[Fiber Switches - Ethernet networking switches, commercial gr](https://robofiber.com/fiber-switches/)；[Industrial grade hardened Ethernet equipment for harsh envir](https://robofiber.com/industrial-ethernet/)；[About ROBOfiber](https://robofiber.com/about-robofiber/)；[ROBOfiber Products - ROBOfiber, Inc.](https://robofiber.com/brands/robofiber)；[Fiber Networking - Fiber Media Converters and Fiber Ethernet](https://robofiber.com/fiber-networking/)

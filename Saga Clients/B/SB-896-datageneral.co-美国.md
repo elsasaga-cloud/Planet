@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-896.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://datageneral.co/　语言：en-US　站点地图 URL 数：159
+- **标题**：Home / Data General
+- **描述**：Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability.
+- **首页栏目**：Trusted Networks / Secure connectivity for modern environments. / WiFi & Networks / Security by Design / Cloud Management / Core solutions / Access Points / Network Control
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 50、poe 45、10g 32、sfp 25、gigabit 22、wifi 18、wireless 13、industrial 11、cable 11、camera 8、distributor 7、fiber 5
+- **站内型号串**（正则抽取，含非交换机）：DG-WS7005-1W4G, DG-S1930K-8GP2S-120W, DG-SG2100-FS1, DG-S6120-20XS4VXS2QXS, DG-S1930K-24GP4S-370W, DG-WS7110, DG-S5360-48GP4X-740W, DG-S5300K-24GP4X-370W, DG-AP180-AX3000, DG-AP880E-AX7800, DG-AP820-AX3000, DG-AP680-AX3000-O
+- **产品类页面**：https://datageneral.co/product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/；https://datageneral.co/es/producto/dg-s1930k-8gp2s-120w-switch-poe-gigabit-de-8-puertos/；https://datageneral.co/product/dg-s5360-48gp4x-740w-layer-3-10g-48-ports-poe-switch-4-sfp/；https://datageneral.co/es/producto/dg-s1930k-24gp4s-370w-switch-gigabit-poe-de-24-puertos/；https://datageneral.co/product/dg-s5360-48gp4x-1440w-layer-3-10g-48-ports-poe-switch-4-sfp/；https://datageneral.co/es/producto/dg-s5300k-24gp4x-370w-switch-poe-10g-24-puertos-gigabit/
+- **已抓子页**：[Network Control / Data General](https://datageneral.co/product-category/network-control/)；[Office Network Solutions / Data General](https://datageneral.co/office-network-solutions/)；[Hospitality Network Solutions / Data General](https://datageneral.co/hospitality-network-solutions/)；[Network Infrastructure Solutions for Enterprise & Business /](https://datageneral.co/network-infrastructure-solutions/)；[Residential & SME Network Solutions / Data General](https://datageneral.co/residential-sme-network-solutions/)；[Industry & Logistics Network Solutions / Data General](https://datageneral.co/industry-logistics-network-solutions/)
+- 首页正文摘录：Home Products Access Points Network Infrastructure Network Control Security Gateways Solutions Hospitality Industry Offices Residential & SME Resources Knowledge Base Blog Company About us Partners Contact Home Products Access Points Network Infrastructure Network Control Security Gateways Solutions Hospitality Industry Offices Residential & SME Resources Knowledge Base Blog Company About us Partners Contact Partner 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 12、PoE 45 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-896.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

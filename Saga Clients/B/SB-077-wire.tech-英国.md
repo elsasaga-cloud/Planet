@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters
 - **首页栏目**：Latest News / Driving Greener Logistics & Sustainable Supply Chains / Fantasy Premiere League / Happy St George’s Day / Transceivers / Direct Attach Cables / Active Optical Cables / Lifetime Warranty and Guaranteed Compatibility
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 107、cisco 30、fibre 21、media converter 15、sfp 10、10g 2
-- **站内出现的品牌**：Cisco, Juniper, Extreme, H3C　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco, Juniper, H3C　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：PDU-UK3, PDU-C14, PDU-C20, PDU-16A, PDU-C14-UK, UK3PIN-C13, UK3PIN-C15, UK3PIN-C19
 - **站内公开邮箱**：enquiries@wire.tech, support@wire.tech
 - **站内公开电话**：+44 1285 425969

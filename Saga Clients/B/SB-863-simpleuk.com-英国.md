@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-17）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-863.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.simpleuk.com/　语言：en　站点地图 URL 数：1948
+- **标题**：Simple Technology. Simple Technology
+- **描述**：Your home page description
+- **首页栏目**：Bestsellers / ACTIVE OPTICAL CABLES / T Optics GLC-T Compatible / T Optics GLC-SX-MM Compatible / T Optics GLC-LH-SM Compatible / T Optics AGM731F Compatible / T Optics SFP-GIG-SX Compatible / OM3 LC to LC Patch Cables
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 104、cable 60、fibre 44、cisco 32、switch 25、ethernet 20、moxa 17、media converter 15、10g 5、gigabit 2
+- **站内出现的品牌**：Cisco, Extreme, Moxa, Netgear, D-Link, Zyxel, Huawei, H3C, TRENDnet, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, CFP-100G, AGM731F, SFP-H10GB-CU2M, SFP-10G-LR, SFP-10G-SR, SFP-10G-T, GPIM-01, GPIM-02, GPIM-02-C, GPIM-04, GPIM-08
+- **站内公开邮箱**：sales@simpleuk.com
+- **站内公开电话**：+44 (0)1925 414028
+- **社媒**：https://twitter.com/SimpleTechUK, https://www.facebook.com/simple.technology.uk
+- **产品类页面**：https://www.simpleuk.com/network-switches；https://www.simpleuk.com/mcsfp-poe101-top；https://www.simpleuk.com/t-optics-8-port-101001000m-ethernet-switch；https://www.simpleuk.com/t-optics-5-port-101001000m-ethernet-switch；https://www.simpleuk.com/t-optics-24-port-101001000m-ethernet-switch；https://www.simpleuk.com/t-optics-16-port-101001000m-ethernet-switch
+- **已抓子页**：[Network Switches. Simple Technology](https://www.simpleuk.com/network-switches)；[New Products. Simple Technology](https://www.simpleuk.com/newproducts)；[Enterasys Transceivers. Simple Technology](https://www.simpleuk.com/enterasys-products)；[Fluke Network Switches. Simple Technology](https://www.simpleuk.com/fluke)；[Extreme Networks. Simple Technology](https://www.simpleuk.com/extreme)；[About Us. Simple Technology](https://www.simpleuk.com/aboutus)
+- 首页正文摘录：Call Sales and Service : +44 (0)1925 414028 Vendors 3COM ADTRAN ADVA ALCATEL / LUCENT ALLIED TELESYN ALLNET ARISTA ASANTE AVAYA BROCADE/FOUNDRY CALIX CIENA CISCO COMPAQ D-LINK DELL ENTERASYS EXTREME NETWORKS FINISAR FLUKE NETWORKS FORCE 10 FUJITSU H3C HP HUAWEI IBM INTEL JUNIPER LINKSYS MARCONI McAFEE MELLANOX MERAKI MILAN TECHNOLOGY MOXA NETGEAR NORTEL PALO ALTO NETWORKS Q-LOGIC REDBACK RIVERSTONE NETWORKS SMC SUN T
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 5、交换机 25 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-863.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Versa's PoE Business Solutions are empowering Smart Buildings, PoE Lighting, and the Autonomous Industry with innovative devices.
 - **首页栏目**：Versa's PoE Business Solutions / PoE Insights from our Blog / What to Consider When Using Outdoor PoE Devices / PoE Installation Design for Your Office Network / 5 Things You Need to Know About PoE Switches / Does PoE Lighting Save Energy Costs? / Industry Applications / Featured PoE Devices
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 874、switch 431、sfp 169、industrial 124、ethernet 98、gigabit 82、cable 42、camera 12、automation 10、2.5g 10、fiber 9、wireless 6
-- **站内出现的品牌**：Axis, Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：VX-GPU2610, VX-GPF1626, VX-GPU2626, VX-GPH8245, IEEE802, XC60-084-91-770, D60-044-90-DC, D62-084-MX-DCP, D62-040-30-BT, D40-044-91-DC, SD-202, SD-101
 - **站内公开邮箱**：sales@versatek.com
 - **社媒**：https://twitter.com/VersaTechnology, https://www.facebook.com/VersaTechnology/, https://www.instagram.com/VersaTechnology/, https://www.youtube.com/user/VersaTechnology, https://www.youtube.com/watch?v=u2IsdoBLU3k

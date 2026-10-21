@@ -123,7 +123,7 @@ updated: 2026-10-21
 - **首页**：https://www.data-connect.com　语言：未标　站点地图 URL 数：2467
 - **标题**：Data Connect Enterprise 1-888-492-6526 Networking Solutions Provider
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 96、switch 95、gigabit 52、sfp 25、cable 21、wireless 18、fiber 13、industrial 10、poe 7、media converter 4、10g 4、telecom 3
-- **站内出现的品牌**：Juniper, Schneider, MikroTik, Moxa, EtherWAN, Advantech, Siemens, Extreme, Allied Telesis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Juniper, Schneider, MikroTik, Moxa, EtherWAN, Advantech, Siemens, Allied Telesis, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：OC-12, M160-FPC1, STM-1, STM-4, M160-FPC2, STM16, OC-48, STM-64, RE-333-768, M40-AC, SFP-1GE-SX, SFP-1GE-LX
 - **站内公开邮箱**：sales@data-connect.com
 - **站内公开电话**：001-09 14-102500, 009-001 78-1017-0001 04-1007-001 04-1011-001 04-2001-002 04-2003-002 04-2002-002 04-2004-002 01-9002-001

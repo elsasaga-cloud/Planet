@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다
 - **首页栏目**：BUSINESS / 상품소개 / 구축사례 / COMMUNITY / VIDEOS / CONTACT
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 314、switch 206、ethernet 112、media converter 106、planet 71、10g 63、sfp 48、industrial 43、wifi 30、camera 29、access control 29、gigabit 14
-- **站内出现的品牌**：PLANET, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Teltonika, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IGS-6325-8UP2S2X, UCK-G2-PLUS, TAP100, RUT976, GS-4210-8P2S, ICG-2515P-NR, USW-16-POE-KR, USW-24-POE-KR, USW-48-POE-KR, US-8-60W-KR, US-8-150W-KR, US-16-150W-KR
 - **站内公开邮箱**：sales@mcss.co.kr
 - **社媒**：https://www.facebook.com/www.mcss.co.kr/?locale=ko_KR%2F, https://www.instagram.com/mcssolution?igsh=MWpycG9ydWRuaTdreQ%3D%3D, https://www.youtube.com/@mcssolution

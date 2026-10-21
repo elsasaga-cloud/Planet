@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Founded in February 2004, 2017 marks Inscape Data Corporation's 13th year of business serving the industrial network, video security, and WIFI markets worldwide. Inscape Data Corporation is a U.S. based manufacturer of outdoor network system products, i.e., Outdoor Gigabit PoE switches, wireless, an
 - **首页栏目**：Contractor-Grade Outdoor Network Solutions / Outdoor PoE Switch System / Outdoor UPS Systems / Outdoor DIN-Rail PoE Systems / Built for the Extreme Outdoor Environments / Introducing Managed Outdoor UPS Systems / Industries We Serve / Resources
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 533、switch 255、sfp 128、industrial 49、fiber 29、2.5g 24、10g 20、ethernet 19、wireless 15、media converter 14、surveillance 14、gigabit 9
-- **站内出现的品牌**：Extreme, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AT-T1P, ATM-T1E, PL3-240084, PL3-480004, LPS3400ATM, LPS3400ATMP, LPS3802ATM, LPS3802ATMP, LPS3800ATM, LPS6844ATM, LPS7844ATM, LPS10868ATMP
 - **站内公开邮箱**：sales@inscapedata.com
 - **社媒**：https://www.linkedin.com/company/inscape-data-corporation/, https://www.youtube.com/@InscapeData, https://www.youtube.com/user/InscapeData

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-982.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://iptronic.ru/　语言：ru　站点地图 URL 数：968
+- **标题**：IPTRONIC — Российские системы видеонаблюдения и безопасности
+- **描述**：IPTRONIC — российский производитель систем видеонаблюдения, СКУД и ПО для корпоративных и государственных проектов. Сертифицированное оборудование, проектная поддержка, опт для интеграторов.
+- **首页栏目**：Производитель с именем / Наши новинки / IPTRONIC IPT-BC7 EX-PRO S-MOB / IPTRONIC IPT-IPL1540S(2,8)W / IPTRONIC IPTS-PS3-E48P48S4MV-800 / Соответствуем требованиям законодательства / Наша команда / О компании
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 52、sfp 7
+- **站内型号串**（正则抽取，含非交换机）：IPT-IPL1081DM, IPT-BC5, IPT-IPL1080BM, IPT-IPEM5013H, IPT-BC7, IPT-IPL1540S, IPTS-PS3-E48P48S4MV-800, MB-20, GAB-60, GB-30, GA-30, GAB-90
+- **站内公开邮箱**：info@iptronic.ru, mailto%3ainfo@iptronic.ru, support@iptronic.ru
+- **站内公开电话**：+7 (495) 278 02 08, +7 (495) 278-02-08 0
+- **社媒**：https://vk.com/iptronic
+- **产品类页面**：https://iptronic.ru/splittery-poe；https://iptronic.ru/inzhektory-poe；https://iptronic.ru/kommutatory-poe；https://iptronic.ru/oborudovanie-poe；https://iptronic.ru/kommutatory-bez-poe；https://iptronic.ru/splittery-poe/iptronic/iptronic-ipt-ps1201
+- **已抓子页**：[Контакты](https://iptronic.ru/contacts)；[Оборудование POE](https://iptronic.ru/oborudovanie-poe)；[Каталог оборудования для систем безопасности / IPTRONIC](https://iptronic.ru/catalog)；[О компании](https://iptronic.ru/new-company)；[Прошивки](https://iptronic.ru/service/firmware)
+- 首页正文摘录：Доступ к сервису IPTRONIC восстановлен. Подробнее>> Каталог Программное обеспечение Системы видеонаблюдения Системы контроля доступа Домофонные системы Сетевое оборудование Умный дом Источники электропитания Кабели и провода Тепловизоры для измерения температуры тела IP-телефония Системы звукового оповещения и музыкальной трансляции Услуги ПО VIDEOTRONIC 59 Готовые комплекты видеонаблюдения 30 Видеокамеры 368 Видеоре
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 52、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-982.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

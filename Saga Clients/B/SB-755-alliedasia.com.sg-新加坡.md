@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-01-29 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-755.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://alliedasia.com.sg/　语言：en-US　站点地图 URL 数：0
+- **标题**：Allied Asia – Your Trusted Connectivity Solutions
+- **首页栏目**：Search / New products / Best Selling / WISHLIST / RECENTLY VIEWED
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 1104、switch 292、poe 264、fiber 253、sfp 114、media converter 112、industrial 90、10g 56、gigabit 35、wireless 28、ethernet 1
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, TBL-CART-RJ45, POE-INJ3301ACG, TBL-259PC, FP-A9-DT-U3, FP-A9-DT-2U3, HDMI-V2-E60, NET-KS-USB3, DB9-SHELL, HDMI-V2-E60-RX, HDMI-V2-88SMPR-TW, HDBT-E150B-18
+- **站内公开电话**：+65 6659 8980, +65 6659 8980 0, +65 6659 8980 55
+- **已抓子页**：[POE – Allied Asia](https://alliedasia.com.sg/product-category/poe/)；[Rackmount Industrial Monitor – Allied Asia](https://alliedasia.com.sg/product-category/monitor/rackmount-industrial-monitor/)；[Rackmount Industrial Monitor w/Drawer – Allied Asia](https://alliedasia.com.sg/product-category/monitor/rackmount-industrial-monitor-w-drawer/)；[Networking – Allied Asia](https://alliedasia.com.sg/product-category/networking/)；[Connectors – Allied Asia](https://alliedasia.com.sg/product-category/networking/connectors/)；[Accessories – Allied Asia](https://alliedasia.com.sg/product-category/networking/accessories/)
+- 首页正文摘录：Comodo SSL Search here Categories Dante Dante Audio Adapter USB USB Type-A Adapter USB-A (Female/Female) USB-A (Male/Female) USB Type-C Adapter USB-C (Female/Female) USB-C (Male/Female) USB Multimedia USB Extender USB Repeater Data Communication USB Converter USB Hub USB Sharing USB KVM USB Cables USB2.0 Cables USB3.0 Cables USB3.2 Cables(Type-C) USB4 (Type-C) USB Accessories Faceplate Accessories Faceplate (Metal) F
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 90、PoE 264 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-755.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

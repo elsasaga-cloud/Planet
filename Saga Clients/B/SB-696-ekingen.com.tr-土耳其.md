@@ -64,7 +64,7 @@ updated: 2026-10-21
 - **描述**：Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz. İletişim kurabilirsiniz.
 - **首页栏目**：Ekingen Elektronik
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：uniview 3、cctv 2
-- **站内出现的品牌**：Ajax, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Uniview, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：gst@ekingen.com.tr, info@ekingen.com.tr
 - **站内公开电话**：+90 (212) 651 81 71, +90 (212) 651 81 91
 - **社媒**：https://tr.linkedin.com/company/ekingen-elektronik, https://wa.me/8508113436, https://www.facebook.com/EkingenElektronik/, https://www.facebook.com/sharer/sharer.php?u=https://ekingen.com.tr/, https://www.facebook.com/sharer/sharer.php?u=https://ekingen.com.tr/hakkimizda/, https://www.facebook.com/sharer/sharer.php?u=https://ekingen.com.tr/iletisim/

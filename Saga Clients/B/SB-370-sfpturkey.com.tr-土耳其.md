@@ -99,7 +99,7 @@ updated: 2026-10-21
 - **描述**：SFPTURKEY
 - **首页栏目**：KAMPANYALI ÜRÜNLER / EKİM 2026 KAMPANYASI-1 / EKİM KAMPANYASI 2026-2 / EKİM 2026 KAMPANYASI-3 / EN ÇOK SATAN ÜRÜNLER / GENERIC Uyumlu Gigabit SFP Modül - 1000Base-LX 1310nm 20Km LR SM LC DDM / GENERIC Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM LC DDM / ARUBA - HP Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM LC DDM
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 178、fiber 121、switch 42、ethernet 39、gigabit 35、10g 23、media converter 19、poe 16、planet 8、mikrotik 8、ubiquiti 8、tp-link 8
-- **站内出现的品牌**：Ubiquiti, Aruba, PLANET, MikroTik, Cisco, Moxa, Netgear, D-Link, Huawei, H3C, Ruijie, EtherWAN　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti, Aruba, MikroTik, Cisco, Moxa, Netgear, D-Link, Huawei, H3C, Ruijie, EtherWAN, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SFP28, QSFP28, FORCE10, KAMPANYASI-1, KAMPANYASI-3, RJ-45
 - **站内公开邮箱**：satis@sfpturkey.com.tr
 - **社媒**：https://tr.linkedin.com/company/sfpturkey, https://www.facebook.com/sfpturkiye/, https://www.instagram.com/sfpturkey/, https://www.twitter.com/sfpturkey, https://www.youtube.com/@sfpturkey

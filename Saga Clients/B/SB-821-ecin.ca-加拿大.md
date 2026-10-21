@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-17）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-821.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ecin.ca　语言：en-US　站点地图 URL 数：272
+- **标题**：Open Networking Systems Integrator / ECIN Canada
+- **描述**：Canadian systems integrator for SONiC, 1G–1.6T optics, PacketMaestro network visibility, and Microchip timing and synchronization.
+- **首页栏目**：Unlock Your Network / Powering Canada's Digital Infrastructure / All Your Networking Needs. One Shop. / SONiC Switches / Network Optics / Network Cables / Network TAPs / Mux/Demux
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 119、sfp 62、cable 47、fiber 36、telecom 13、datacenter 10、data center 9、media converter 8、10g 4、industrial 3、automation 2、ethernet 1
+- **站内出现的品牌**：Advantech　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, QSFP112, QSFP-28, MTP12F, MPO-12, MTP-16, QSFP28, PFE1100-12-054NA, AGR130, AS5916-54XKS, DCS203, AS7326-56X
+- **站内公开邮箱**：sales@ecin.ca
+- **站内公开电话**：+1 800-967-1672
+- **产品类页面**：https://www.ecin.ca/shop/exp100-32x-32-port-100g-qsfp28-programmable-switch-11049；https://www.ecin.ca/shop/exp400-32x-32-port-400g-qsfp112-qsfp56-qsfp28-programmable-switch-11012；https://www.ecin.ca/shop/7326-56x-o-ac-f-us-10g-25g-data-center-switch-dcs203-as7326-56x-48x25g-8x100g-ports-a…；https://www.ecin.ca/open-smartswitch；https://www.ecin.ca/sonic-whitebox-switches；https://www.ecin.ca/blog-why-smart-data-centers-and-ai-networks-are-switching-to-third-party-optics
+- **已抓子页**：[SONiC Whitebox 1G–800G / Celestica, Edgecore, UfiSpace / ECI](https://www.ecin.ca/shop/category/whitebox-switches-3)；[Fiber TAP / E.C.I. NETWORKS INC.](https://www.ecin.ca/shop/category/network-tap-fiber-tap-9)；[SONiC Whitebox 1G–800G / Celestica, Edgecore, UfiSpace / ECI](https://www.ecin.ca/shop/category/whitebox-switches-3)；[About E.C.I. Networks / Open Networking Since 1998](https://www.ecin.ca/about-us)；[Open Networking Partners / Edgecore, Celestica & More / ECIN](https://www.ecin.ca/partners-open-networking)；[Network TAPs / Fiber, Copper & Modular / ECIN](https://www.ecin.ca/shop/category/network-tap-2)
+- 首页正文摘录：Skip to Content Open Solutions open visibility Packet Brokers ⤷ PacketMaestro ⤷ PacketMaestro Pro ⤷ MaestroFusion ⤷ MaestroVision Open connectivity SONiC Whitebox Switches Network Transceivers Network Cables MUX/DEMUX/PON Open smartswitch Fusion Service Bus NoviBroker NoviWare NoviSwitch Industries TELECOM & ISP AI & DATACENTER TIMING & SYNCHRONIZATION Products WHITEBOX SWITCHES 1/10/25G Switches 40/100G Switches 400
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-821.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

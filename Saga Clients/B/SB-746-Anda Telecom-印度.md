@@ -19,10 +19,10 @@ replies: 0
 followups: 4
 first_contact: 2025-02-14
 last_contact: 2025-10-02
-p1: STC-424DGGPM-280W
+p1: STI-288GP
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：印度的电信/ISP/网络运营；兴趣/在卖：对EDFA台式很有兴趣 画了一个应用图；从ONV买 也有其他国内的 也买AOA的；提到的品牌：ONV
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-02-14 → 2025-10-02）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 官网快照对位：工业/自动化词频 10、PoE 6 → DIN 8 PoE+ 2 SFP 起手；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-746.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://andatelecom.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Anda Telecom Private Limited
+- **首页栏目**：ANDA TELECOM PRIVATE LIMITED / Anda Telecom Private Limited / Our Clients / Our Popular Products / Sign up for our newsletter / About Us / Useful Links / Contact Details
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 56、fiber 16、switch 12、industrial 9、media converter 7、poe 6、automation 1、cctv 1、surveillance 1、ftth 1
+- **站内型号串**（正则抽取，含非交换机）：ATMIS-6408PI, ATMIS-402G, ATMIS-6208PI, ATMIS-6208S, ATMIS-6216PI, ATMIS-6216S, ATMIS-6408PIV2, ATS-2900-3200, ATS-2900-8020, ATS-2900-2528C, ATS-2900-2528P, ATS-2900-2928E
+- **站内公开邮箱**：info@andatelecom.com, info@andatelecomindia.com
+- **站内公开电话**：+91 120 4109590, +91 9350345252, +91 9871650366
+- **社媒**：https://www.facebook.com/, https://www.linkedin.com/, https://www.twitter.com/
+- **已抓子页**：[Access Switches - Industrial](https://andatelecom.com/access-switches-industrial.php)；[Access Switches - Managed](https://andatelecom.com/access-switches-managed.php)；[VOIP Series](https://andatelecom.com/voip.php)；[About Us](https://andatelecom.com/about.php)；[Contact Us](https://andatelecom.com/contact.php)
+- 首页正文摘录：Welcome to Anda Telecom Private Limited. Your one stop destination for high-quality Telecom grade and fiber optic products. Home Products ACCESS SWITCHES Managed Industrial OPTICAL MULTIPLEXER PDH CONVERTERS Media Converters E1 Converters Other Interface Converters VOIP Products EXTENDERS Small Form-factor Pluggable SURGE PROTECTION TESTING EQUIPMENTS OTDR POWER METER SPLICING MACHINE TOOLKIT ENCRIPSTION DIVICE RUGGE
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 10、PoE 6 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-746.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -110,7 +125,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（电信/ISP/网络运营） |
+| **P1** | STI-288GP | 官网快照对位：工业/自动化词频 10、PoE 6 → DIN 8 PoE+ 2 SFP 起手 | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（电信/ISP/网络运营） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -119,9 +134,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -131,7 +146,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -155,30 +170,12 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hi Harish,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

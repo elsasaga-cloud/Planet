@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Over 20+ years of providing Industrial Networking solutions have given us deep technological expertise and shaped a proven framework for our customers in the IIoT
 - **首页栏目**：Powering Industrial Digital Infrastructure / Start Your Mission-Ready Rugged Edge AI System / Moxa BXP-A101 / The Ultra-Compact Edge AI Computer That Never Quits / Cincoze Panel PCs / Rugged AI Without Compromise / ASUS IoT PE1000U Series / Cincoze MD-3000 Series
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 188、data center 33、moxa 31、ethernet 27、switch 20、automation 20、poe 19、wifi 16、camera 7、planet 7、scada 5、distributor 4
-- **站内出现的品牌**：Moxa, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：MIL-STD-810H, EN51055, MPC-3000, BXP-A101, MIL-STD-810, RS-232, MPC-2000, PE1000U, MD-3000, DI-1200, MIC-770, PE1100N
 - **社媒**：https://www.linkedin.com/company/neteon/
 - **产品类页面**：https://www.neteon.net/solutions/industrial-edge-ai；https://www.neteon.net/solutions/industrial-panel-pc；https://www.neteon.net/solutions/industrial-fanless-pc；https://www.neteon.net/solutions/ot-industrial-networking；https://www.neteon.net/solutions/industrial-edge-computing；https://www.neteon.net/solutions/real-time-industrial-ethernet

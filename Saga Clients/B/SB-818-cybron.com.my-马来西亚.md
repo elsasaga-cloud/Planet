@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-818.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.cybron.com.my/　语言：en-US　站点地图 URL 数：1
+- **标题**：Home - CYBRON SYSTEM SDN BHD
+- **首页栏目**：NEW HERE? / OUR BUSINESS PARTNER / footer:style2 / footer:style8(index12) / footer:style9(index13) / Subscribe to Newsletter / footer:style10(index14) / footer:style11(index15)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 119、cctv 28、ethernet 8
+- **站内型号串**（正则抽取，含非交换机）：WV-S2110, CADVR-4008FD, PT-EZ580, TH-98LQ70, WJ-NX400, WV-S1111, WV-S1112, WV-S1131, WV-S1132, WV-S1511LN, WV-S1531LN, WV-S1531LTN
+- **站内公开邮箱**：contact@gmail.com
+- **社媒**：https://redwap-xxx.com/, https://twitter.com/smartaddons, https://www.facebook.com/SmartAddons.page/
+- **已抓子页**：[Network Video Recorder Archives - CYBRON SYSTEM SDN BHD](https://www.cybron.com.my/product-category/cctv/network-video-recorder/)；[CCTV Archives - CYBRON SYSTEM SDN BHD](https://www.cybron.com.my/product-category/cctv/)；[PANASONIC Archives - CYBRON SYSTEM SDN BHD](https://www.cybron.com.my/product-category/cctv/panasonic/)；[Indoor Box Archives - CYBRON SYSTEM SDN BHD](https://www.cybron.com.my/product-category/cctv/indoor-box/)；[Indoor Dome Archives - CYBRON SYSTEM SDN BHD](https://www.cybron.com.my/product-category/cctv/indoor-dome/)；[Outdoor Box Archives - CYBRON SYSTEM SDN BHD](https://www.cybron.com.my/product-category/cctv/outdoor-box/)
+- 首页正文摘录：Close Sign in Or Register Forgot your password? NEW HERE? Registration is free and easy! Faster checkout Save multiple shipping addresses View and track orders and more Create an account Main Menu Home About Us Products CCTV PANASONIC Indoor Box Indoor Dome Indoor Vandal Management Software Network Video Recorder Outdoor Box Outdoor Vandal HONEYWELL VIDEO WALL FIRE ALARM SYSTEMS UPS AVS Standby UPS Line Interactive U
+- 数据文件：`data/saga_clients/site_snapshots/SB-818.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +149,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

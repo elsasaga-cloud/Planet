@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：At HME Solutions, we are changing Fleet Management for miners globally with AI and FMS Live™—our next-generation Fleet Management System built for both open-pit and underground environments. Unlike fragmented solutions that require multiple third-party integrations, we provide a fully integrated eco
 - **首页栏目**：Smart, Scalable, & Cost-Effective Mining Solution / FMS Live Open Pit / FMS Live Underground / Asset Insight / Asset IQ / Ore-Tracker Digital Mine Twin / Minesite Operations & Technical Field Services / Dispatch AI
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 8、industrial 4、automation 4、wireless 4、ubiquiti 1
-- **站内出现的品牌**：Ubiquiti, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：info@hmesolutions.com.au
 - **站内公开电话**：+61 1300 946 900
 - **社媒**：https://au.linkedin.com/company/hme-heavy-mining-equipment-solutions

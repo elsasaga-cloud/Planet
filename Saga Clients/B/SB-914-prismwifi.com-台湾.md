@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-19 → 2025-10-17）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-914.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.prismwifi.com/　语言：en-US　站点地图 URL 数：89
+- **标题**：Prism Wi-Fi｜Enterprise Wi-Fi
+- **描述**：Prism offers Wi-Fi solutions for enterprise, including Wi-Fi 7 and Wi-Fi 6 AP/Router, and PrismX Controller and Cloud Management Platform.
+- **首页栏目**：PRODUCTS / MO20 / MI22 / MI21 / Wi-Fi 7 Performance / 320 MHz channel bandwidth / 4K QAM Modulation / Multi-Link Operation (MLO)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 125、wireless 67、distributor 56、switch 43、gigabit 26、sfp 9、access control 7、10g 6、2.5g 5、fiber 3、ethernet 2、wifi 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MS12P8, MS18P16, MS28P24, MS52P48, MX500, MX5001, IEEE802, EN55032
+- **社媒**：https://twitter.com/prismwifi, https://www.facebook.com/prismwifi/, https://www.instagram.com/prismwifi/, https://www.linkedin.com/company/prism-wi-fi, https://www.youtube.com/channel/UC7jsSmhXVbiaqsiXKdBrMfA/featured
+- **产品类页面**：https://www.prismwifi.com/poe-switch-ms8p8/；https://www.prismwifi.com/poe-switch-ms12p8/；https://www.prismwifi.com/poe-switch-ms52p48/；https://www.prismwifi.com/poe-switch-ms18p16/；https://www.prismwifi.com/poe-switch-ms28p24/；https://www.prismwifi.com/poe-injector-802-3bt/
+- **已抓子页**：[PoE Switch - MS8P8 - Prism Wi-Fi｜Enterprise Mesh Wi-Fi](https://www.prismwifi.com/poe-switch-ms8p8/)；[PoE Switch - MS12P8 - Prism Wi-Fi｜Enterprise Mesh Wi-Fi](https://www.prismwifi.com/poe-switch-ms12p8/)；[PoE Switch - MS18P16 - Prism Wi-Fi｜Enterprise Mesh Wi-Fi](https://www.prismwifi.com/poe-switch-ms18p16/)；[PoE Switch - MS28P24 - Prism Wi-Fi｜Enterprise Mesh Wi-Fi](https://www.prismwifi.com/poe-switch-ms28p24/)；[PoE Switch - MS52P48 - Prism Wi-Fi｜Enterprise Mesh Wi-Fi](https://www.prismwifi.com/poe-switch-ms52p48/)；[PoE Injector - 802.3bt - Prism Wi-Fi｜Enterprise Mesh Wi-Fi](https://www.prismwifi.com/poe-injector-802-3bt/)
+- 首页正文摘录：Skip to content 語系 English 繁體中文 See all results COMPANY About PRISM News & Events Careers Contact us PRODUCTS Wi-Fi 6 Outdoor Wireless MO10 Indoor Wireless MI10 MI11 MI12 MI13 MI14 Wi-Fi 7 MO20 Wi-Fi 7 MI21 Wi-Fi 7 MI22 Wi-Fi 7 PRISMX Management MX100edge MX500 MX5001 PoE Switch MS8P8 MS12P8 MS18P16 MS28P24 MS52P48 PoE Injector 802.3 at PoE Injector 802.3 bt Point-to-Point Point-to-Multipoint DOWNLOAD Documentation C
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 11、交换机 43 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-914.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +156,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

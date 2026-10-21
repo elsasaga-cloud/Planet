@@ -22,7 +22,7 @@ last_contact: 2025-11-03
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2025-03-04 → 2025-11-03）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +64,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-779.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.netsecurity.com.au/　语言：en　站点地图 URL 数：0
+- **标题**：NetDigital Security / Marleston, South Australia - Electronic Security Distributor
+- **描述**：NetDigital Security, in Marleston South Australia, is an Australian importer and wholesale distributor of leading-brand electronic security products.
+- **首页栏目**：Shopping Cart / Search / Shop Now / Featured Products / Customer Service / Our Company / Contact Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 455、surveillance 97、switch 88、distributor 71、planet 70、cable 58、access control 50、camera 49、cctv 43、ubiquiti 42、poe 30、automation 21
+- **站内出现的品牌**：Hikvision, Hanwha, Bosch, Moxa, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RF3212E, RF120, RF121, CR2032, RFPR-12, RFDL-11, DS-PD2-P15E
+- **已抓子页**：[Exit Switches & Devices](https://www.netsecurity.com.au/category/826-exit-switches-devices)；[CCTV Kits](https://www.netsecurity.com.au/category/1610-cctv-kits)；[CCTV SURVEILLANCE](https://www.netsecurity.com.au/category/814-cctv-surveillance)；[NETWORKING/COMPUTERS](https://www.netsecurity.com.au/category/1042-networking-computers)；[Cameras - HD-IP](https://www.netsecurity.com.au/category/1048-cameras-hd-ip)；[Cameras - Thermal](https://www.netsecurity.com.au/category/1450-cameras-thermal)
+- 首页正文摘录：Login Register Shopping Cart Cart: 0 items Total: $0.00 ex GST Search Menu Shop Now ACCESS CONTROL AUDIO/VISUAL/PRO AUDIO CCTV SURVEILLANCE HOME AUTOMATION INTERCOM NETWORKING/COMPUTERS SECURITY EQUIPMENT TRADE CONVENIENCE Home Products ACCESS CONTROL Access Controllers & Kits ELSEMA HIKVISION KERI NEDAP NIDAC SEBURY SUPREMA Biometric Devices HIKVISION SUPREMA ULTRA ACCESS Card Accessories NETDIGITAL Cards & Fobs AIR
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 30 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-779.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +177,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

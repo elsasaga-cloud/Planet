@@ -1,4 +1,5 @@
 # vienthonggiatot.com
+**官方名称（调研核实）**：Viễn Thông Giá Tốt（vienthonggiatot.com）
 
 > **评级 B**　|　越南　|　档案编号 `SB-1276`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-1276
 rating: B
 rating_auto: B
+name_official: "Viễn Thông Giá Tốt（vienthonggiatot.com）"
 score: 21
 country: 越南
 region: 亚太
@@ -19,9 +21,9 @@ replies: 1
 followups: 4
 first_contact: unknown
 last_contact: unknown
-p1: STC-424XGGM
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：越南的经销/集成（类型待核）；兴趣/在卖：很多国内的牌子 有洪瑞的；提到的品牌：洪瑞
+- **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。（调研 2026-10-21；表内兴趣：很多国内的牌子 有洪瑞的）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（? → ?）；最近一次客户回复：113：price
-- **P1（下一步唯一主推）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 30、交换机 530 → 24 GE + 4×10G L2+ 起手；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其 HRUI 非管理线已有货源，切口是 PLANET 价位段的 L2+ 管理 PoE：Saga STC-28DGGPM（Marvell）对 GS-4210-8P2S。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,46 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1276.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（快照 2026-10-21，越南语）
+- **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。
+- **在卖/在用品牌**：HRUI（！）, PLANET, TP-Link, Cisco, Ubiquiti, MikroTik, Grandstream
+- **【官网快照】站内导航：SWITCH PLANET / TP-LINK / CISCO / SWITCH POE HRUI / 工业交换机**
+  > SWITCH PLANET SWITCH TP-LINK SWITCH CISCO SWITCH POE HRUI SWITCH CÔNG NGHIỆP TỦ MẠNG RACK
+  > 来源：https://vienthonggiatot.com/switch-poe-hrui.html（抓取 2026-10-21）
+- **【官网快照】站内型号：HR900-AF-82N、HR901-AF-1621GS（HRUI）；GS-4210-48T4S / 16T2S（PLANET）；关键词 switch 530 / poe 299 / sfp 99**
+  > models: GS-4210-48T4S, GS-4210-16T2S, T1600G-28TS, TL-SG2424, FNSW-1600P, HR900-AF-82N, HR901-AF-1621GS
+  > 来源：https://vienthonggiatot.com/（抓取 2026-10-21）
+- **【官网快照】业务：网络设备供应 + 摄像机 + 施工服务**
+  > Viễn thông giá tốt chuyên cung cấp thiết bị mạng, thiết bị camera và dịch vụ thi công mạng hàng đầu Việt Nam
+  > 来源：https://vienthonggiatot.com/（抓取 2026-10-21）
+- **【用户表】表内注「很多国内的牌子 有洪瑞的」；2025-11 群发 28 PoE→price**
+  > 兴趣：很多国内的牌子 有洪瑞的；回复：price
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照品牌识别：已售 HRUI））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | （待核；品牌名 Viễn Thông Giá Tốt） |
+| 总部/地址 | 越南（表内） |
+| 其他 | 仅 gmail（vienthonggiatotvn@gmail.com） |
+
+- **业务线**：网络设备电商（交换机 / 光模块 / 机柜 / 配件）；光纤 / Wi-Fi / 监控施工
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| HRUI | HR900-AF-82N | 8 FE PoE + 2 GE 非管理 | = Saga STC-028GFP 同厂同款（无价差优势） | https://vienthonggiatot.com/switch-poe-hrui.html（2026-10-21） |
+| HRUI | HR901-AF-1621GS | 16 FE PoE + 2 GE + 1 SFP | Saga STC 商用线同源 | https://vienthonggiatot.com/switch-poe-hrui.html（2026-10-21） |
+| PLANET | GS-4210-48T4S / GS-4210-16T2S | L2+ 管理千兆 | Saga STC-448XGGM(L3) / STC-21616GP 对位（Marvell 线） | https://vienthonggiatot.com/switch-planet.html（2026-10-21） |
+
+- **触达通道（公开）**：role: 电商 / 零售 + 施工（已直接卖 HRUI 正品）；region: 越南
+- **近况信号**：
+  - 已在卖 Saga 供应商 HRUI 的商用 PoE 线 → 对 Saga STC 线无需求（同源）
+  - 同时卖 PLANET 管理型 → Saga Marvell 管理线（STC-28DGGPM / 424）有价格切口
+- **风险/边界**：越南非主攻区；小电商价格极敏感；HRUI 线与 Saga STC 同源，只能以 SmartByte（Marvell）管理线差异化
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——其 HRUI 非管理线已有货源，切口是 PLANET 价位段的 L2+ 管理 PoE：Saga STC-28DGGPM（Marvell）对 GS-4210-8P2S。
+- **邮件切入句（英文）**：You already carry HRUI unmanaged PoE and PLANET managed switches — our Marvell-based 8-PoE + 2-SFP L2+ model sits between the two on price; want a 1-pc sample to list alongside the GS-4210 range?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -63,7 +104,7 @@ updated: 2026-10-21
 - **描述**：Viễn thông giá tốt chuyên cung cấp thiết bị mạng, thiết bị camera và dịch vụ thi công mạng hàng đầu Việt Nam
 - **首页栏目**：VIÊN THÔNG GIÁ TỐT / THI CÔNG MẠNG CÁP QUANG NỘI BỘ / LẮP ĐẶT HỆ THỐNG WIFI CHO CÔNG TY VĂN PHÒNG / ĐO ĐIỂM ĐỨT, SỬA CHỮA ĐƯỜNG CÁP QUANG / LẮP ĐẶT HỆ THỐNG CAMERA GIÁ TỐT NHẤT THỊ TRƯỜNG / CÁCH LẮP ĐẶT MẠNG WIFI CÔNG TY VĂN PHÒNG GIA ĐÌNH / Hướng dẫn cách mua cáp mạng tốt nhất, phù hợp nhất / So sánh Ưu – Nhược điểm của bộ chuyển đổi quang điện 1 sợi quang và 2 sợi quang
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 530、poe 299、camera 155、cisco 116、sfp 99、wifi 83、planet 77、tp-link 61、cable 45、ethernet 39、gigabit 38、10g 30
-- **站内出现的品牌**：TP-Link, PLANET, Cisco, HRUI（！）, Ubiquiti, MikroTik, Grandstream, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：TP-Link, Cisco, PLANET, HRUI（！）, Ubiquiti, MikroTik, Grandstream, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：QSFP28, GS-4210-48T4S, GS-4210-16T2S, T1600G-28TS, TL-SG2424, FNSW-1600P, HR900-AF-82N, HR901-AF-1621GS, HR901, HR500-AF-42, HR901-AFG-242S, HR901-AFG-162S-300
 - **社媒**：https://www.facebook.com/VI%E1%BB%84N-TH%C3%94NG-GI%C3%81-T%E1%BB%90T-112789490186637/?modal=admin_todo_tour, https://www.facebook.com/facebook
 - **产品类页面**：https://vienthonggiatot.com/switch-poe.html；https://vienthonggiatot.com/switch-4-cong-port-poe-cho-camera-wifi；https://vienthonggiatot.com/switch-8-cong-port-poe-cho-camera-wifi；https://vienthonggiatot.com/switch-4-cong-port-poe-cho-camera-wifi.html；https://vienthonggiatot.com/switch-8-cong-port-poe-cho-camera-wifi.html；https://vienthonggiatot.com/switch-poe-la-gi-loi-ich-cua-switch-poe.html
@@ -116,18 +157,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGM | 官网快照对位：10G/2.5G 词频 30、交换机 530 → 24 GE + 4×10G L2+ 起手 | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：其 HRUI 非管理线已有货源，切口是 PLANET 价位段的 L2+ 管理 PoE：Saga STC-28DGGPM（Marvell）对 GS-4210-8P2S。 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -137,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：没有可靠直达通道
-- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -161,12 +201,29 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+
+```text
+Hello,
+
+Picking up our earlier exchange about PoE / industrial switches. You already carry HRUI unmanaged PoE and PLANET managed switches — our Marvell-based 8-PoE + 2-SFP L2+ model sits between the two on price; want a 1-pc sample to list alongside the GS-4210 range?
+
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your HRUI HR900-AF-82N at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

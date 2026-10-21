@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment, Aerials and Satellites.
 - **首页栏目**：Featured Products / Trade Login / Upcoming Training Events for HD Media Partners / Become an Approved Ajax Installer / Sign Up For Exclusive News & Offers / Get In Touch / About us / Tell us more about your project
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 126、cable 78、dahua 57、poe 49、gigabit 33、tp-link 31、fibre 28、cctv 28、scada 12、automation 7、camera 7、surveillance 7
-- **站内出现的品牌**：Ajax, Dahua, TP-Link, Ubiquiti, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Dahua, Ajax, TP-Link, Ubiquiti, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AJX-HUB2, BE3600, EAP723, LTE700, DH-PFS3010-8ET-96-V2, DH-PFS4218-16ET-240-V3, DH-PFS4226-24ET-360-V3, DH-PFS3006-4ET-60-V2, CF-POE16, CF-POE24, CF-POE4, CF-POE8V2
 - **站内公开邮箱**：example@email.com, sales@aceonline.co.uk
 - **社媒**：https://www.facebook.com/aerialsandcableequipment/, https://www.instagram.com/aerials_and_cable_equipment, https://www.linkedin.com/company/aerials-&-cable-equipment-ltd, https://www.twitter.com/@ACELtd1

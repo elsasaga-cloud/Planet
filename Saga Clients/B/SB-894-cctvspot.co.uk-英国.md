@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-894.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://cctvspot.co.uk/　语言：en　站点地图 URL 数：0
+- **标题**：CCTV cameras, systems and dvr kits from Hikvision & Dahua - cctvspot.co.uk
+- **描述**：CCTV cameras, security systems and dvr kits from Hikvision & Dahua at top prices from cctvspot.co.uk
+- **首页栏目**：New from Turbo HD Hikvision / New from Dahua HD-CVI / IP equipment / New CCTV accessories / Most popular / What are people saying / From the Blog / Your Trusted Partner in Security Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 389、dahua 274、hikvision 246、poe 130、switch 114、cctv 80、ethernet 43、nvr 42、gigabit 24、cable 23、surveillance 13、wireless 4
+- **站内出现的品牌**：Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-3E1506P-EI, XVR5116H-4KL-I3, CS4006-4ET2GT-60, PFS3218-16ET-135, XVR1B16-I, DS-3E0310P-E, DS-3E1510P-EI, DS-9632NXI-I8, DS-7216HQHI-K2, DS-2CE16D0T-ITF, XVR5232AN-I3, HAC-HDW1500T-IL-A-0280B-S2
+- **社媒**：http://www.youtube.com/channel/UCKCH9AwwPcfJ9Bil43oNVvA, https://www.facebook.com/MBVision.Ltd/, https://www.twitter.com/MBVisionLTD
+- **已抓子页**：[Dahua CS4006-4ET2GT-60, Cloud Managed PoE switch, 6 port - c](https://cctvspot.co.uk/dahua-poe-switch-PFS3006-4ET-60)；[Dahua PFS3218-16ET-135, PoE switch, 18 port - cctvspot.co.uk](https://cctvspot.co.uk/dahua-PFS3218-16ET-135-poe-switch)；[Hikvision DS-3E1506P-EI, 6 port Smart Gigabit PoE switch - c](https://cctvspot.co.uk/smart-poe-gigabit-6-port-hikvision-DS-3E1506P-EI-switch)；[IP cameras - cctvspot.co.uk](https://cctvspot.co.uk/ip-cctv/ip-cameras)；[Turbo HD cameras - cctvspot.co.uk](https://cctvspot.co.uk/hd-tvi-cctv/hd-tvi-security-cameras)；[HD-CVI cameras - cctvspot.co.uk](https://cctvspot.co.uk/hd-cvi-cctv/hd-cvi-security-cameras)
+- 首页正文摘录：Menu Your Cart Facebook Twitter YouTube Contact us € Euro EUR € Euro EUR £ Pound Sterling GBP $ US Dollar USD Account Login / Register Login Register Menu Home Specials Turbo HD Hikvision Turbo HD DVRs Turbo HD cameras HD-CVI Dahua HD-CVI DVRs HD-CVI cameras IP equipment IP cameras NVR devices Accessories CCTV cables Power supplies CCTV connectors Network Accessories Bases, Junction boxes DVR kits 4 cameras DVR kits 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 130、监控 524 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-894.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

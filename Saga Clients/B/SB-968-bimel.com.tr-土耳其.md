@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -69,6 +69,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-968.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.bimel.com.tr/tr　语言：tr　站点地图 URL 数：0
+- **标题**：bimel :: Anasayfa
+- **描述**：Bimel
+- **首页栏目**：Yeni Ürünler!!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 32、oem 10、planet 9、sfp 8、fiber 8、wireless 6、ethernet 4、10g 4、cisco 3、hikvision 2、poe 1、industrial 1
+- **站内出现的品牌**：Cisco, Ruijie, Allied Telesis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：HDDB15, DB-25, SCS12, RS232, RS422, RS485, RUTX11, RUTM11, IEC320, ATEN-EC1000, DB15HD, HDSUB15
+- **社媒**：https://twitter.com/bimelelektronik, https://www.facebook.com/bimel.a.s/, https://www.linkedin.com/company/bimel-elektronik/, https://www.youtube.com/user/bimelltd/featured
+- **已抓子页**：[bimel :: Products > Network > Aktif Network Ürünleri](http://www.bimel.com.tr/urunler/network/aktif_network_urunleri)；[bimel :: Products > Network > Pasif Network Ürünleri](http://www.bimel.com.tr/urunler/network/pasif_network_urunleri)；[bimel :: Products > Bilgisayar Yan Ürünleri > KVM / KM Switc](http://www.bimel.com.tr/urunler/bilgisayar_yan_urunleri/kvm_switch)；[bimel :: Ürünler](http://www.bimel.com.tr/urunler)；[bimel :: Products > Bilgisayar Yan Ürünleri](http://www.bimel.com.tr/urunler/bilgisayar_yan_urunleri)；[bimel :: Kalitesiz Taklit Ürünlere Dikkat](http://www.bimel.com.tr/tr/kalitesiz-taklit-urunlere-dikkat)
+- 首页正文摘录：Aten Distribitörü Aten ToptancısıBimel Aten DağıtıcısıBimel Beek Distribitörü Bimel Beek ToptancısıBimel Beek Dağıtıcısı Bimel Assmann Distribitörü Bimel Assmann Toptancısı Bimel Assmann Dağıtıcısı Bimel Digitus Distribitörü Bimel Digitus Toptancısı Bimel Digitus Dağıtıcısı Bimel Ednet Distribitörü Bimel Ednet Toptancısı Bimel Ednet Dağıtıcısı Bimel DSG Canusa Distribitörü Bimel DSG Canusa Toptancısı Bimel DSG Canusa
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 4、交换机 32 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-968.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

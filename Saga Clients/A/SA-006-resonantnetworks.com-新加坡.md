@@ -122,7 +122,6 @@ updated: 2026-10-21
 - **描述**：Resonant Networks is the trusted name in optical connectivity, delivering ultra-fast, scalable digital infrastructure across Asia Pacific since 2013.
 - **首页栏目**：We build the Earth's digital connectivity in Asia Pacific. / ADC Subsea Cable System / AAE-1 Subsea Cable System / An Experienced and Passionate Team / AI-Ready in Data Centre Solution / Future Now: / Photonic Compute and DWDM network with PQC and QKD / R ~ Nets is here for you to:
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fibre 12、cable 7、switch 3、telecom 3、sfp 2、ethernet 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AAE-1
 - **站内公开邮箱**：11101110@resonantnetworks.com
 - **站内公开电话**：+65 6871 4128

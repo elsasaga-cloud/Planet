@@ -1,0 +1,87 @@
+{
+ "code": "SB-034",
+ "name_official": "Swift Solution & Services (SSS)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（swift.net.pk，快照 2026-10-21）",
+ "summary": "伊斯兰堡电信 / 网络 / 广播解决方案商，2003 年成立，业主 Abdul Mateen Awan（ICCI 会员名录），团队来自巴电信业，做视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府、广播、国防、教育（守界按单核）。表内兴趣「1 光 8 ST」，2024-05 要商用交换机价目。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2003 年成立；电信 / 网络 / 广播综合方案商；客户含政府、广播、国防、教育",
+   "quote": "SSS was founded in 2003 as a comprehensive solutions provider in the field of telecommunications, networks and broadcasting… clientele… including governance, services, communications, broadcasting, defence and education",
+   "url": "https://swift.net.pk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "ICCI 会员：业务线电信；业主 Abdul Mateen Awan；E-8 伊斯兰堡",
+   "quote": "SWIFT SOLUTION & SERVICES — BUSINESS LINE: TELECOMMUNICATION — MR.ABDUL MATEEN AWAN – PROPRIETOR — D-14L Naval Shopping Complex, E-8, Islamabad — 051-4340841 — info@swift.net.pk",
+   "url": "https://www.icci.pk/listing/swift-solution-services/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "公开邮箱 info@ / jamil@ / mateen@swift.net.pk；关键词 telecom 3 / switch 2",
+   "quote": "emails info@swift.net.pk, jamil@swift.net.pk, mateen@swift.net.pk",
+   "url": "https://swift.net.pk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 1 光 8 ST；2024-05 mini 工业机→要商业交换机 price list",
+   "quote": "兴趣：1光8 ST；回复：商业交换机的price list",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Abdul Mateen Awan",
+   "title": "Proprietor",
+   "email": "mateen@swift.net.pk",
+   "phone": "+92 333 512 0078",
+   "source": "https://www.icci.pk/listing/swift-solution-services/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Swift Solution & Services",
+  "founded": "2003",
+  "hq": "D-14L Naval Shopping Complex, E-8, Islamabad, Pakistan",
+  "size": "小型（独资）",
+  "other": "ICCI 会员"
+ },
+ "business_lines": [
+  "电信 / 数据通信集成",
+  "广播与无线电",
+  "视频会议 / IP 电话",
+  "生物识别 / RFID"
+ ],
+ "channels": {
+  "role": "系统集成 / 方案商（项目）",
+  "region": "巴基斯坦"
+ },
+ "signals": [
+  "要过商用交换机价目",
+  "电信/广播项目有接入层需求"
+ ],
+ "risks": [
+  "守界：客户含国防 — 按单核对最终用户，不供军方项目",
+  "独资小公司，项目型"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "其要的商用交换机价目 → 以 STC-28DGGPM 起手；「1 光 8」工业口型对 STI-188 无，最近为 STI-288GP（2 SFP）。"
+ },
+ "email_hook": "Mateen, you asked for our commercial switch price list in May 2024 — for your telecom and broadcast sites, is the 8-port PoE with SFP uplink the size you quote most, or should I lead with the 24-port?"
+}

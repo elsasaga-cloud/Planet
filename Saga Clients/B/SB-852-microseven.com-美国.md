@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-14 → 2025-10-31）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-852.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.microseven.com/index.html　语言：未标　站点地图 URL 数：67
+- **标题**：microseven wi-fi and wired poe security camera
+- **描述**：Looking for the best price and best product that's popular to buy? Look no further! We offer a range of security cameras to suit your needs, from 1080p to 4k ultra HD, with both Wi-Fi and wired options available. Our Wi-Fi security camera and wired PoE security camera are both durable and high-quali
+- **首页栏目**：Sign in / Sign up / M7B4K-PSAA / 4K (8MP) IP Camera, PoE, Outdoor-Rated, Open Platform / M7D4K-POESA / 4K (8MP) IP PoE Vandalproof Dome Security Camera, Open Platform / (4 Pack) M7B4K-PSAA / 4K (8MP) IP Camera, PoE, Outdoor-Rated, Open Platform
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 108、poe 89、nvr 34、wireless 12、cable 11、ethernet 6、surveillance 4、switch 3、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：M7B4K-PSAA, M7B4K-WPSAA-H, M7D77-POE, M7B4K-WPUNC, US9774767, US9712733, US9510034, US9124946, M7D4K-POESA, M7WP-MIC, M7B57-WPS, M7D4K-PTZH14X-WPSAA
+- **产品类页面**：https://www.microseven.com/product/Accessories-M7POESW-8CH.html；https://www.microseven.com/product/4MP-5MP-Open-Source-Remote-Managed-M7D77-POE.html；https://www.microseven.com/product/4K-8MP-Open-Source-Remote-Managed-M7D4K-POESA.html；https://www.microseven.com/product/4MP-5MP-Open-Source-Remote-Managed-M7B5MP-POESAA.html；https://www.microseven.com/product/NVR-(Video-Recorder)-M7NVR-4K08CHPOE-4xM7D5MP-POESA.html；https://www.microseven.com/product/4K-8MP-Open-Source-Remote-Managed-M7D4K-PTZV20X-POESAA.html
+- **已抓子页**：[M7D77-POE / 1080p IP PoE Wide-Angle Camera (150°), 4K Lens, ](http://www.microseven.com/product/1080P Open Platform-M7D77-POE.html)；[M7B4K-PSAA / 4K (8MP) IP Camera, PoE, Outdoor-Rated, Open Pl](http://www.microseven.com/product/4K 8MP Open Platform-M7B4K-PSAA.html)；[(4 Pack) M7B4K-PSAA / 4K (8MP) IP Camera, PoE, Outdoor-Rated](http://www.microseven.com/product/4K 8MP Open Platform-M7B4K-PSAA-4.html)；[M7B4K-WPUNC / 4K (8MP) IP Camera, PoE + Dual-Band Wi-Fi (2.4](http://www.microseven.com/product/4K 8MP Open Platform-M7B4K-WPUNC-SVF.html)；[M7WP-MIC waterproof outdoor Microphone for M7B77-POE / M7B57](http://www.microseven.com/product/Accessories-M7WP-MIC.html)；[POE Splitter, Power Input 48V, Power Output DC12V 1A, IEEE 8](http://www.microseven.com/product/Accessories-M7-POESP12V.html)
+- 首页正文摘录：LIVE CAM STORE Sign in / Sign up My account Sign in Sign up CART ($0.00) Product 4K 8MP Open Platform 4MP 5MP Open Platform 1080P Open Platform NVR (Video Recorder) Cloud Storage Accessories Deals Clearance Downloads Firmware & Software Documents & Manuals EULA Apps Subscription 1x cam cloud storage 2x cams cloud storage 3x cams cloud storage 4x cams cloud storage 5x cams cloud storage Live Stream & RTMP Support Tech
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 89、监控 146 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-852.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,7 +184,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

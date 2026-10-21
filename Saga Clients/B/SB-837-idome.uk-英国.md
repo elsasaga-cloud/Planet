@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-14 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-837.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://idome.uk/　语言：en　站点地图 URL 数：336
+- **标题**：IDome CCTV Supplier: Security Systems Store For Home & Businesses in The UK
+- **描述**：Professional Home Security Systems with Shipping ✅ IDome provides Everything to make Your Home Secure ☑️ CCTV camera and alarms supplier with installation and delivery options ☑️
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 404、cctv 244、poe 117、cable 67、switch 66、access control 63、nvr 62、wifi 24、surveillance 21、wireless 14、ethernet 4、industrial 3
+- **站内型号串**（正则抽取，含非交换机）：DO5028POE-5MP, P10-SM8-AF-8X, DO8028POE-8MP, BU8028POE-8MP, BU5028POE-5MP, FH-03, DO206AHD-2MP, DO528AHD-5MP, DO228AHD-2MP, BU206AHD-2MP, DO536AHD-5MP, DO506AHD-5MP
+- **站内公开邮箱**：sales@idome.uk
+- **站内公开电话**：+447375610019 02036215603
+- **产品类页面**：https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch；https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/poe42；https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/poe82；https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/poe162；https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/vga-60m；https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch/vga-1-2
+- **已抓子页**：[HDMI / POE / VGA Switch : Huge Range Of Accessories HDMI / P](https://idome.uk/accessories/cable-and-connectors/hdmi-poe-vga-switch)；[HD COAX CAMERAS : Huge Range Of HD CCTV (TRADE) Available Fr](https://idome.uk/hd-cctv-trade/hd-coax-cameras)；[IP CCTV Cameras : Huge Range Of IP CCTV (TRADE) Available Fr](https://idome.uk/ip-cctv-trade/ip-cctv-cameras)；[IP CCTV Cameras : Huge Range Of IP CCTV (TRADE) Available Fr](https://idome.uk/ip-cctv-trade/ip-cctv-cameras)；[IP PTZ cameras : Huge Range Of IP CCTV (TRADE) IP PTZ camera](https://idome.uk/ip-cctv-trade/ip-cctv-cameras/ip-ptz-cameras)；[IP Dome cameras : Huge Range Of IP CCTV (TRADE) IP Dome came](https://idome.uk/ip-cctv-trade/ip-cctv-cameras/ip-dome-cameras)
+- 首页正文摘录：About Us Privacy Policy Terms & Conditions Contact Us My Account Register Login +447375610019 02036215603 sales@idome.uk All Categories HD CCTV (TRADE) IP CCTV (TRADE) Access control and Video Intercom Dash Cams Alarms/SMOKE Smart Door Lock Magnetic Lock Accessories Software 0 Products, on £0.00 Your shopping cart is empty! HD CCTV (TRADE) HD COAX CCTV SYSTEMS 4 Channel HD Kits (Coax) 8 Channel HD Kits (Coax) 16 Chan
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 117、监控 731 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-837.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -165,7 +180,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

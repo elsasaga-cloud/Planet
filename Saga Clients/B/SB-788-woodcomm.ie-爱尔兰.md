@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-788.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://woodcomm.ie/　语言：en-GB　站点地图 URL 数：131
+- **标题**：Wood Communications – Your Link To The Future – Networking & Data Centre Certification – Turnkey Business Solutions – Online Catalogue
+- **首页栏目**：Basket / Wood Communications - Your Link to the Future / Networking Experts / Our Services / IT SOLUTIONS / ONLINE CATALOGUE / TRAINING COURSES / 100 Years of Wood Communications!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fibre 52、cable 23、telecom 19、switch 16、distributor 14、camera 13、wireless 13、industrial 9、cctv 9、poe 8、gigabit 6、nvr 6
+- **站内型号串**（正则抽取，含非交换机）：IE01544W
+- **站内公开邮箱**：barlo2008@live.ie, sales@woodcomm.ie, training@woodcomm.ie
+- **站内公开电话**：+353 (0)1 426 4000, +353 01 426 4000
+- **社媒**：https://www.facebook.com/woodcommdatanetworkingexperts, https://www.linkedin.com/company/wood-communications
+- **产品类页面**：https://woodcomm.ie/category/poe-switch/；https://woodcomm.ie/category/datacentre-networking-products/；https://woodcomm.ie/category/construction-products-regulation-cpr/；https://woodcomm.ie/statement-construction-products-regulation-cpr/；https://woodcomm.ie/inside-our-loc-product-launch-event-dcu-alpha/
+- **已抓子页**：[About us – Wood Communications](https://woodcomm.ie/about/)；[Online Catalogue – The Networking Experts – Networking & Dat](https://woodcomm.ie/catalogue/)；[Contact us! – Wood Communications](https://woodcomm.ie/contact-us/)；[Online Training Solutions – Training Website](https://woodcomm.ie/training/online-courses-network-training-experts/)；[Networking & Data Centre Partners – Wood Communications](https://woodcomm.ie/partners/)；[Riello – Wood Communications](https://woodcomm.ie/partners/riello/)
+- 首页正文摘录：Call us: +353 (0)1 426 4000 Hit enter to search or ESC to close 0 was successfully added to your cart. Basket 0 New Online Training Courses Data Centre Solutions Online Catalogue Training Courses EPI Training Online Training Structured Cabling Fibre Optic News / Careers News – Wood Communications Careers Contact Wood Communications - Your Link to the Future Leading IT and Connectivity Distributors for Enterprise, Dat
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 9、PoE 8 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-788.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

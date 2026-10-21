@@ -1,0 +1,56 @@
+{
+ "code": "SB-037",
+ "name_official": "Pyramid Enterprises（津巴布韦；Cuthbert Mukumbi）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "津巴布韦小型 IT 商 Cuthbert Mukumbi，需求 10G 850nm 光模块（Saga 价目无，Q-32），2024–2025 对 MC / 工业 PoE / 2.5G / 工业 16-24 口一律「暂时没需求」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 10G 850 模块；回复多为暂时没需求 / thanks",
+   "quote": "兴趣：10G 850模块；回复：暂时没需求；thanks",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Cuthbert Mukumbi",
+   "title": "（表内联系人）",
+   "email": "pyramidenterprises3@gmail.com",
+   "phone": "+263 77 229 3657",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "津巴布韦",
+  "size": "小型",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（未知，疑 IT 经销）",
+  "region": "津巴布韦"
+ },
+ "risks": [
+  "需求为 SFP+ 模块（Saga 价目缺口 Q-32）",
+  "长期无需求"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "唯一需求 10G SFP+ 850nm 模块不在 Saga 价目（Q-32 待定）；暂无主推型。"
+ },
+ "email_hook": "（待 Q-32：若补 SFP 价目再触达；否则不主动发送）"
+}

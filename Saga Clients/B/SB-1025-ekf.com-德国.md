@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：EKF is a german supplier for robust and reliable embedded computing solutions, offering CompactPCI Serial and modular Box PC solutions.
 - **首页栏目**：boards. systems. solutions. / CompactPCI®/Serial / Embedded Blue®/Gold Series / ModBlox7 / Current Key Products / Quality Made in Germany / EKF’s Focus Industries / About EKF – Modular Industrial Computing since 1972
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 53、switch 33、automation 31、ethernet 18、telecom 17、poe 3、gigabit 2、10g 2、2.5g 1、cable 1
-- **站内出现的品牌**：Extreme, Phoenix Contact, Westermo　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Phoenix Contact, Westermo　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SN9-CAPO, AL600, I226-IT, SE5-CLUB, AC600, BASE-T1, SL1-COMBO, SRS-8442, SRS-3201-BLUBOXX, SRS-8442-SERIAL
 - **站内公开邮箱**：info@niveoprofessional.com, sales@ekf.de
 - **站内公开电话**：+49 (0)2381, +49 2381 6890 0, +49 2381 68900, +49 2381 689095

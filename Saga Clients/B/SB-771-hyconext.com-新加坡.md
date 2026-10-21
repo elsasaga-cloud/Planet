@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-06-29 → 2025-10-20）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-771.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://hyconext.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：Innovative Connectivity with Advanced Networking Solutions
+- **描述**：Hyconext: Innovative networking solutions from PoE switches to data center innovations. We redefine connectivity for a reliable and efficient future.
+- **首页栏目**：You might also like / Product Categories / PoE Switches / Ethernet Switches / Data Center Switches / Optical Transceivers / Applications / WISPS & ISP
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 124、switch 115、2.5g 78、sfp 58、10g 52、ethernet 27、gigabit 24、data center 20、distributor 16、cable 8、wireless 5、camera 4
+- **站内型号串**（正则抽取，含非交换机）：HC16MT6XPAS-UP, QSFP28, HC8MT2XP-UP, SFP28, HC16MT6XP-UP-PRO, HC16MT6XPAS-UP-AC, HC16MT6XPAS-UP-DC, HC16MT6XPAS-UP-BAT, HJ48NT4XZP2QCP-PRO, HA48XT4XP2QCP-PRO, HC8MT2XP-UP-AC, HC8MT2XP-UP-DC
+- **站内公开邮箱**：jet.l@hyconext.com, sales@hyconext.com, support@hyconext.com
+- **社媒**：https://twitter.com/intent/tweet?text=Mounting+Bracket+107%2A44%2A28mm%2C+Compatible+with+Hyconext+HC8MT2XP_UP+Series+PoE+Switches%2C+Easy+Installation%2C+424310744020 https%3A%2F%2Fhyconext.com%2Faccessories%2F18995-mounting-bracket-1074428mm-compatible-with-hyconext-hc8mt2xpup-series-poe-switches-easy-installation-424310744020, https://twitter.com/intent/tweet?text=NextWav+Lite+2.5G+PoE+Series+%E2%80%93+8+Ports+2.5G+%26+2+SFP%2B+10G+Ports+%26+250W+PoE+Power+HC8MT2XP-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F18990-nextwav-lite-hc8mt2xp-up-series, https://twitter.com/intent/tweet?text=NextWav+Passive+2.5G+PoE+Series+-+16+ports+2.5G+%26+6+SFP%2B+10G+Ports+%26+500W+PoE+Power+HC16MT6XPAS-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F19221-HC16MT6XPAS, https://www.facebook.com/hyconext/, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhyconext.com%2Faccessories%2F18995-mounting-bracket-1074428mm-compatible-with-hyconext-hc8mt2xpup-series-poe-switches-easy-installation-424310744020, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F18990-nextwav-lite-hc8mt2xp-up-series
+- **已抓子页**：[About Us](https://hyconext.com/about-us)；[Unmanaged and Managed PoE Switches](https://hyconext.com/14-poe-switches)；[NextWav HC16MT6XPAS – Industrial Layer 3 Managed PoE Switch ](https://hyconext.com/poe-switches/19221-HC16MT6XPAS)；[NextWav Lite HC8MT2XP UP Series – 8-Port 2.5G Managed PoE Sw](https://hyconext.com/poe-switches/18990-nextwav-lite-hc8mt2xp-up-series)；[Mounting Bracket 107*44*28mm, Compatible with Hyconext HC8MT](https://hyconext.com/accessories/18995-mounting-bracket-1074428mm-compatible-with-hyconext-hc8mt2xpup-series-poe-switches-easy-installation-424310744020)；[Ethernet Switches](https://hyconext.com/15-ethernet-switches)
+- 首页正文摘录： Sign in local_mall Cart 0 You have no product in your cart. Home Series 2.5G NextWav Series NexArena Gaming Series NexEdge Series NexFabric Series CATEGORIES PoE Switches Ethernet Switches Data Center Switches View all Optical Transceiver Accessories About us Brand & Contact News Updates Become a Distributor WISPAPALOOZA Help & Support Frequently Asked Questions Forum Warranty Return & Refund Firmwares Shipping & D
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 130、交换机 115 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-771.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -165,7 +180,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -72,7 +72,7 @@ updated: 2026-10-21
 - **标题**：DSS-Digital Security Systems
 - **首页栏目**：Digital Life A Smart Life / Our Services & Products / Experts are Here to Help / Solution & System Design / Professional Services & Analytics / Operations, Maintenance & Repair Service / Our Partners
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 9、wireless 9、access control 7、switch 6、poe 5、dahua 5、axis 5、camera 1、surveillance 1
-- **站内出现的品牌**：Ajax, Dahua, Axis, ONV　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Dahua, ONV, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：info@dss-kuwait.com, presales@dss-kuwait.com
 - **站内公开电话**：+965 22200023
 - **社媒**：https://www.instagram.com/dss_kwt

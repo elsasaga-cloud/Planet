@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Popular Categories Copper Systems Optical Systems Racks, Cabinets & Enclosures Power Solutions From the blog Latest News Device Inspection Our products undergo a series of tests by industry leading testing apparatus such as UX-300 energy X-ray spectrum instrument (RoHS testing instrument), salt-fog 
 - **首页栏目**：Popular / Categories / Copper Systems / Optical Systems / Racks, Cabinets & Enclosures / Power Solutions / From the blog / Latest News
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 209、ethernet 90、media converter 25、fiber 17、ftth 14、distributor 14、industrial 13、poe 11、gigabit 8、data center 5、access control 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IEEE802, UX-300
 - **站内公开邮箱**：info@digimarkagency.com, mea@alston-systems.com, sales@akston-systems.com, sales@alston-systems.com
 - **社媒**：https://facebook.com/AlstonSystemsInc/, https://instagram.com/alston_systems_inc/, https://twitter.com/AlstonSystems/

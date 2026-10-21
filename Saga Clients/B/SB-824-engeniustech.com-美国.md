@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-21 → 2025-10-22）
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-824.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.engeniustech.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：EnGenius: AI Surveillance / Wi-Fi / Switches / VPN Routers / PDUs
+- **描述**：EnGenius WiFi Networks: Delivering best-in-class voice & data solutions that empower mobility, enhance productivity, and embrace simplicity.
+- **首页栏目**：Company / News / Support / Resources / Partners
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 66、switch 40、poe 39、surveillance 31、data center 28、wifi 18、camera 15、industrial 13、sfp 9、gigabit 8、distributor 6、ethernet 2
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, EPA5090XBT, EPA5090HBT, EPA5090GBT, EPA5060XBT, EPA5006HAT, EPA5006GAT, EPA5006GR, EPA5006GP, EPA2406GR, PIR075-24-GP-B, PIR030-24-GS-B
+- **社媒**：https://www.youtube.com/user/EnGeniusTec/videos, https://www.youtube.com/watch?v=1vxrZyIBK0Q, https://www.youtube.com/watch?v=NW7khRQudLA, https://www.youtube.com/watch?v=VJ5XRsC1oOg, https://www.youtube.com/watch?v=_LRGnDR4lvY, https://www.youtube.com/watch?v=hoTZ8aT6Q-M
+- **已抓子页**：[Managed Network Services / EnGenius](https://www.engeniustech.com/managed-network-services-products.html)；[PoE Injectors / EnGenius](https://www.engeniustech.com/poe-injectors-networking-accessories.html)
+- 首页正文摘录：Products VPN Routers Small / Medium / Enterprise VPN Routers > SecuPoint VPN Client Software > Network Switches Small / Medium / Enterprise Network Switches > Residential Network Switches > Wi-Fi Small / Medium / Enterprise Wireless > Residential Indoor Wireless > Outdoor Point to Point Enterprise PtP Wireless Bridges > Residential PtP Wireless Bridges > AI Surveillance Small / Medium / Enterprise AI Cloud Cameras > 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 39 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-824.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -151,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

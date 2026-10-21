@@ -1,0 +1,112 @@
+{
+ "code": "SB-492",
+ "name_official": "Charter Controls Ltd",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（charter-controls.com，快照 2026-10-21，en-GB）",
+ "summary": "英国东萨塞克斯工业控制与自动化元器件分销商（继电器、PLC、按钮、传感等），**明确备货 SmartByte 工业非管理交换机**（5/8/16 口 PoE 与非 PoE，管理型可订），品牌页列 Smartbyte；表内来源为 Simon 的「同行/Smartbyte」名单（「有 Smartbyte 的」）。已是 SmartByte 原厂（或其英国进口商）客户 → 渠道冲突待裁定（Q-33）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "工业以太网交换机品类明确为 Smartbyte，备货 5/8/16 口非管理 PoE/非 PoE",
+   "quote": "Industrial Ethernet Switches from Smartbyte deliver reliable and secure networking… Charter Controls stocks a core range of unmanaged PoE and non-PoE switches in 5-, 8- and 16-port models, with managed and extended port variants available to order",
+   "url": "https://www.charter-controls.com/Catalogue/Networking/Industrial-Ethernet-Switch",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "博客专文推 Smartbyte 非管理交换机（CE/FCC/RoHS/CCC）",
+   "quote": "Smartbyte's unmanaged range is engineered for industrial environments… Certified to CE/FCC/RoHS/CCC standards",
+   "url": "https://www.charter-controls.com/Blog/Product-Categories/Networking/Smartbyte-Unmanaged-Ethernet-Switches",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "品牌列表含 Smartbyte；地址 Drury Lane, Ponswood（St Leonards-on-Sea）；电话 01424 850660",
+   "quote": "…Shenle Corporation Ltd Smartbyte Taiwan Meters Plant Co Ltd Unipower Veichi Wecon… Contact Us 01424 850660… Plot G Drury Lane, Ponswood",
+   "url": "https://www.charter-controls.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有库存码 OC-7N1016 / OC-7N1008 / OC-7N1005（16/8/5 口 10/100 非管理，9-56Vac/dc 双电源）",
+   "quote": "16-Port Unmanaged Ethernet Switch, Dual AC/DC Input OC-7N1016… 8-Port… OC-7N1008",
+   "url": "https://www.charter-controls.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "来源：Clients/A/同行/Smartbyte.xlsx 第 19 行，备注「有Smartbyte的」",
+   "quote": "有Smartbyte的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售/采购）",
+   "title": "enquiries@ 通用邮箱",
+   "email": "enquiries@charter-controls.com",
+   "phone": "+44 1424 850660",
+   "source": "https://www.charter-controls.com/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照品牌识别：在售 SmartByte → Q-33 渠道冲突）"
+ },
+ "company_facts": {
+  "legal_name": "Charter Controls Ltd",
+  "founded": "（待核）",
+  "hq": "Plot G, Drury Lane, Ponswood Industrial Estate, St Leonards-on-Sea, East Sussex, UK",
+  "size": "中小型分销商（待核）",
+  "other": "工业控制元器件电商型分销；品牌 40+"
+ },
+ "business_lines": [
+  "工业控制与自动化元器件分销（继电器、PLC、HMI、传感、电源）",
+  "工业以太网交换机（SmartByte）"
+ ],
+ "products_seen": [
+  {
+   "brand": "SmartByte",
+   "model": "5/8/16 口工业非管理（PoE / 非 PoE）",
+   "spec": "DIN 导轨，12–57 V DC，-40~75 ℃",
+   "saga": "= Saga STI-050GE / STI-054GP / STI-080GE 同厂同款",
+   "url": "https://www.charter-controls.com/Catalogue/Networking/Industrial-Ethernet-Switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "（自有码）",
+   "model": "OC-7N1005 / 1008 / 1016",
+   "spec": "5/8/16 口 10/100 非管理，9–56 Vac/dc 双输入",
+   "saga": "Saga 无百兆工业 AC 输入款（待核是否 SmartByte 代工）",
+   "url": "https://www.charter-controls.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "英国工业元器件分销商（在售 SmartByte）",
+  "region": "英国"
+ },
+ "signals": [
+  "已在卖 SmartByte 原厂工业交换机 → 对产品认可",
+  "管理型「可订」= 目前不备管理型库存"
+ ],
+ "risks": [
+  "**渠道冲突（Q-33）**：其货源为 SmartByte 原厂/英国进口商，Saga 介入 = 与供应商抢客，可能损害 Saga 的 SmartByte 供货关系；默认不主动发送，待 Simon 裁定",
+  "若裁定可触达，仅以 HRUI 商用 PoE / Hohunet 等 SmartByte 不覆盖的补充线切入"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "其在售款即 SmartByte 5 口工业机（= Saga STI-050GE）；无价格优势（多一层），仅在 Q-33 裁定允许后以补充线触达。"
+ },
+ "email_hook": "（Q-33 待裁定，默认不主动发送；若允许：Besides the Smartbyte industrial range you stock, do you have a source for commercial rack PoE switches — 8/16/24-port L2+ — for the same control-panel customers?）"
+}

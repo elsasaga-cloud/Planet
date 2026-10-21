@@ -22,7 +22,7 @@ last_contact: 2025-06-17
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加；推送 9 次（2024-05-08 → 2025-06-17）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,6 +63,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-928.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://goip.in/　语言：en　站点地图 URL 数：0
+- **标题**：GOIP Global Services
+- **描述**：GOIP Global Services
+- **首页栏目**：LATEST NEWS / Want to know more, contact us / Address / Email / Phone / Contact us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 3、fiber 2、distributor 2、automation 1、surveillance 1、wireless 1、ftth 1
+- **站内出现的品牌**：Grandstream, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GWN7001, GWN7002, GWN7003, GWN7604, GWN7605, GWN7605LR, GWN7624, GWN7630, GWN7630LR, GWN7660, GWN7660ELR, GWN7661
+- **站内公开邮箱**：info@goip.in, info@haswell.com, marketing@goip.in
+- **社媒**：https://www.facebook.com/people/GO-IP-Global-Services-Private-Limited/100093517445202/, https://www.instagram.com/goip_global/, https://www.linkedin.com/company/goipglobal
+- 首页正文摘录：Please enable JS HOME ABOUT US PARTNERS PRODUCTS CONTACT --> WHAT WE DO As an official distributor for Grandstream, we offer advanced communication, networking, and surveillance solutions designed for modern infrastructure needs. We serve Telecom Operators, ISPs, MSOs, LCOs, Service Providers, Government bodies, and both large and SME customers. Our portfolio includes Grandstreamâs IP communication systems, Wi-Fi n
+- 数据文件：`data/saga_clients/site_snapshots/SB-928.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +183,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

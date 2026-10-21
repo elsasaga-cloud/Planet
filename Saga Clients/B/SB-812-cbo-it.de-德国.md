@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-04-02 → 2025-10-27）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-812.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.blueoptics.de/　语言：de　站点地图 URL 数：2
+- **标题**：Offizieller BlueOptics SFP Hersteller
+- **描述**：Kaufen Sie BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel direkt ab Lager. Versand heute.
+- **首页栏目**：Transceiver Lösungen / Direct Attach und AOC Kabel / LWL Glasfaser Patchkabel / MPO/MTP Lösungen
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 397、10g 62、2.5g 9、oem 8、switch 3、cisco 2、ethernet 1、gigabit 1
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, QSFP56, SFP56, AXM762, QSFP-200G-C2M, SFP3131EUK, SFP5252FUKB, BLCNS003, BO28L859S1D, BO28L13610D, BO27Q856S1D
+- **站内公开邮箱**：info@blueoptics.de, info@cbo-it.de, security@blueoptics.de
+- **站内公开电话**：+33 - 1 - 763600 - 38, +34 - 91 - 18757 - 97, +44 - 203 - 80858 - 32, +49 - 208 - 777 247 - 0, 0044 - 203 - 80858 - 32 0033 - 1 - 763600 - 38 0034 - 91 - 18757 - 97, 0044 - 203 - 80858 - 32 0033 - 1 - 763600 - 38 0034 - 91 - 18757 - 97 0
+- **社媒**：https://www.facebook.com/CBO.GmbH/, https://www.instagram.com/blueoptics.de/, https://www.linkedin.com/company/cbo-gmbh/, https://www.youtube.com/channel/UC2rUq3AWK0ZaFylmTQ1PBkw, https://x.com/cbogmbh
+- **已抓子页**：[Netzwerk-Lösungen von BlueOptics - Ab Lager](https://www.blueoptics.de/netzwerk-loesungen)；[BlueOptics & BlueLAN Kommunikations Lösungen](https://www.blueoptics.de/produkte)；[Offizieller BlueOptics SFP Hersteller](https://www.blueoptics.de/sicherheit)；[Treten Sie in Kontakt mit CBO Deutschland GmbH!](https://www.blueoptics.de/kontakt)；[CBO Deutschland GmbH - Hersteller von Netzwerkkomponenten](https://www.blueoptics.de/ueber-uns)；[Jetzt eine Partnerschaft beantragen und Distributor werden!](https://www.blueoptics.de/partner-werden)
+- 首页正文摘录：Log In Additional contact mail (leave blank)* I totally agree to receive nothing* E-Mail-Adresse Passwort Anmelden Passwort vergessen Neu hier? Jetzt registrieren! Deutsch Deutsch English Warenkorb CBO bis der Versand von Lagerware erfolgt. 0208 - 777 247 - 0 0208 - 777 247 - 0 0044 - 203 - 80858 - 32 0033 - 1 - 763600 - 38 0034 - 91 - 18757 - 97 0 Es befinden sich keine Artikel im Warenkorb. Menü Zurück Produkte Tra
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 71、交换机 3 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-812.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +187,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

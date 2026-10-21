@@ -87,7 +87,6 @@ updated: 2026-10-21
 - **描述**：Industrial 4G/5G router and modems are used to provide better connectivity, higher bandwidth, and faster network responsiveness. Call us for industrial grade modem and router in Singapore.
 - **首页栏目**：Industrial 5G Router / R5020 / R5020 Lite / Smart Industrial 4G Modem / M1200 / Industrial 4G Router / R2010 / R3000 Lite
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 130、ethernet 67、switch 56、media converter 38、fiber 23、wireless 13、gigabit 11、automation 10、data center 7、sfp 5、wifi 3、poe 2
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RS-232, RS-485, NT24K
 - **站内公开电话**：+65 6242 5108
 - **产品类页面**：https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/；https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/managed-switches/；https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/media-converters/；https://avanca.com.sg/products/industrial-ethernet-switches-media-converters/unmanaged-switches/；https://avanca.com.sg/products/industrial-wireless-m2m/；https://avanca.com.sg/products/industrial-wireless-m2m/rcms/

@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-29 → 2025-10-29）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-712.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://mavialarm.com.tr/　语言：未标　站点地图 URL 数：51
+- **标题**：Mavi Alarm Kamera ve Güvenlik Sistemleri
+- **描述**：Güvenlik sistemleri kategorisinde kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri üzerine faaliyet gösteriyoruz.
+- **首页栏目**：Ücretsiz Teklif İsteyin / Kamera Sistemleri / Alarm Sistemleri / Yangın Alarm Sistemleri / Geçiş Kontrol Sistemleri / Entegre Çözümler / Endüstriyel Çözümler / Fiber Optik Çözümleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 15、cctv 7、nvr 5、hikvision 2、dahua 2、uniview 1、axis 1
+- **社媒**：https://twitter.com/mavi_alarm, https://www.facebook.com/mavialarmguvenliksistemleri/, https://www.instagram.com/mavi_alarm/, https://www.linkedin.com/in/mavialarm/, https://www.youtube.com/channel/UCjdDRS04mEeJv2wV6iiEEzQ
+- **产品类页面**：https://www.mavialarm.com.tr/urunler
+- **已抓子页**：[MaviAlarm İletişim 0216 488 0 888](https://mavialarm.com.tr/iletisim)；[MaviAlarm Hakkımızda](https://mavialarm.com.tr/hakkimizda)；[Kamera Sistemleri](https://mavialarm.com.tr/kamera-sistemleri)；[IP Kamera Sistemi](https://mavialarm.com.tr/ip-kamera-sistemi)；[AHD Analog HD Kamera Sistemi](https://mavialarm.com.tr/ahd-kamera-sistemi)；[Mobil Araç Kamera Sistemleri](https://mavialarm.com.tr/mobil-kamera-sistemleri)
+- 首页正文摘录：ANA SAYFA HİZMETLERİMİZ KAMERA SİSTEMLERİ IP Kamera Sistemi AHD Kamera Sistemi Kablosuz Kamera Sistemleri Mobil Araç Kamera Sistemleri Plaka Tanıma Sistemi Kişi Sayma Sistemi ALARM SİSTEMLERİ Kablolu Alarm Sistemleri Kablosuz Alarm Sistemleri Abonelik Hizmetleri Alarm Gözlem Merkezi Hizmeti Kurumsal Çözümler YANGIN ALARM SİSTEMLERİ Konvansiyonel Yangın Alarm Sistemleri Adresli Yangın Alarm Sistemleri Periyodik Bakım 
+- 数据文件：`data/saga_clients/site_snapshots/SB-712.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +155,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

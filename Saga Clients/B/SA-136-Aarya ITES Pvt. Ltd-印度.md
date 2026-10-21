@@ -116,7 +116,7 @@ updated: 2026-10-21
 - **标题**：A ITES / Be Sure. Be Safe. Be Secured.
 - **首页栏目**：a brief OVERVIEW / What We Do / Understanding the client’s requirements / Why Choose Us? / Our Clients
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 14、camera 11、automation 5、switch 3、cable 3、poe 1、industrial 1、cctv 1、nvr 1、wireless 1、telecom 1、planet 1
-- **站内出现的品牌**：Ubiquiti, PLANET, Axis, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：aaryaites@gmail.com, info@a-ites.com
 - **站内公开电话**：+91 79 489 95206, +91 98250 95206
 - **社媒**：https://in.linkedin.com/company/aarya-ites-pvt-ltd-

@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Request a quote for industrial automation solutions from OKSA Automation Limited. Fast UK delivery, tech support, warranties and price match guarantees.
 - **首页栏目**：Comprehensive range of Industrial panel PCs, PCs & Monitors: / Smart Energy Solutions
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 456、ethernet 330、switch 230、automation 135、poe 84、wireless 83、wifi 32、sfp 30、media converter 28、camera 28、gigabit 22、fiber 8
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RS-232, RS-485, EN50155, IEC-61850, MS100T, M60-LC, IO5202, ET-2200, AIOBOX-16, CN-8012, CN-8021, CN-8032
 - **站内公开邮箱**：sales@oksa.co.uk, support@oksa.co.uk
 - **社媒**：https://twitter.com/LimitedOksa, https://www.linkedin.com/company/oksa-automation-limited

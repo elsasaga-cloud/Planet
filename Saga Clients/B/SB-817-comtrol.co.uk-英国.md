@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-08 → 2025-11-06）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-817.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.comtrol.co.uk/　语言：en-GB　站点地图 URL 数：200
+- **标题**：Comtrol UK Ltd -
+- **描述**：A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities.
+- **首页栏目**：ETHERNET SWITCHES AND MEDIA CONVERTERS / SERIAL COMMUNICATIONS / FIBRE CONVERSION / BESPOKE DESIGN / REALTIME BUILDING MONITORING / SFP Modules / Working to the highest of standards. / Trusted by the world's largest organisations.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ubiquiti 7、switch 4、sfp 3、fibre 3、ethernet 3、wireless 3、automation 2、media converter 2、distributor 2、poe 1、wifi 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：accounts@comtrol.co.uk, sales@comtrol.co.uk, sales@comtrol.co.uksupport, support@comtrol.co.uk, support@comtrol.co.ukaccounts
+- **站内公开电话**：+44 (0)1908 929 300
+- **社媒**：https://www.linkedin.com/company/comtroluk
+- **产品类页面**：https://www.comtrol.co.uk/distribution/omnitron/omniconverter/omniconverter-poe-switches/；https://www.comtrol.co.uk/distribution/omnitron/omniconverter/omniconverter-poe-switches/omniconverter-10gpoe-…；https://www.comtrol.co.uk/distribution/omnitron/omniconverter/omniconverter-poe-switches/omniconverter-glpoe-s…；https://www.comtrol.co.uk/distribution/omnitron/omniconverter/omniconverter-poe-switches/omniconverter-10gpoe-…；https://www.comtrol.co.uk/distribution/omnitron/omniconverter/omniconverter-poe-switches/omniconverter-ghpoebt…；https://www.comtrol.co.uk/distribution/omnitron/omniconverter/omniconverter-poe-switches/omniconverter-10gpoeb…
+- **已抓子页**：[About -](https://www.comtrol.co.uk/about/)；[Contact us -](https://www.comtrol.co.uk/contact-us/)；[Ruckus Networks -](https://www.comtrol.co.uk/hospitality/ruckus-networks/)；[Purple Wi-Fi - Guest Access -](https://www.comtrol.co.uk/hospitality/guest-wi-fi/)；[Bespoke Design -](https://www.comtrol.co.uk/solutions/bespoke-design/)；[Facility Connex -](https://www.comtrol.co.uk/solutions/facility-connex/)
+- 首页正文摘录：Skip to content Home Distribution Omnitron RocketPort® Aroona Serial Gateway (DeviceMaster®) Hospitality Guest Wi-Fi Solutions Ruckus Networks Ubiquiti Managed Services Data Centre Case Studies About Contact us Home Distribution Hospitality Data Centre Case Studies About Contact us IT hardware distributors of media converters, switches, serial communication products, wireless access points, hardware-software design a
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-817.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

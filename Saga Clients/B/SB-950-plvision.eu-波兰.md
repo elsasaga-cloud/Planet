@@ -19,10 +19,10 @@ replies: 0
 followups: 8
 first_contact: 2025-01-30
 last_contact: 2025-10-20
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：Marvell芯片 几个牌子的；提到的品牌：Marvell
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-30 → 2025-10-20）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-950.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://plvision.eu/　语言：en-US　站点地图 URL 数：166
+- **标题**：PLVision: Leading Open Networking Transformation
+- **描述**：Since 2007, PLVision has been driving global connectivity reach, delivering comprehensive and cutting-edge solutions and products to industry leaders, disruptive startups, and innovative enterprises.
+- **首页栏目**：Leading Open & Disaggregated Networking Transformation / Our Services / Custom product development based on open-source technologies / Open NOS enablement and customization for hardware / Network infrastructure transition to open NOS / Empowering Success Across Key Customer Segments / Our Products / SONiC Lite
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 60、data center 23、oem 14、telecom 7、odm 7、poe 2、automation 2、industrial 1、ethernet 1、datacenter 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TR-178
+- **站内公开邮箱**：contact@plvision.eu
+- **站内公开电话**：+1 (628) 225 3212, +1-628-225-3212, +48-12-396-6219
+- **社媒**：https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fplvision.eu%2Fwhite-papers%2Fsonic-capabilities-empowering-networks-with-open-source-solutions, https://twitter.com/PLVision_EU, https://twitter.com/share?url=https%3A%2F%2Fplvision.eu%2Fwhite-papers%2Fsonic-capabilities-empowering-networks-with-open-source-solutions&text=SONiC+Capabilities%3A+%3Cbr%3EEmpowering+Networks+%3Cbr%3Ewith+Open-Source+Solutions, https://www.facebook.com/plvision.co, https://www.linkedin.com/company/plvision, https://www.linkedin.com/in/leonidkhedyk/
+- **产品类页面**：https://plvision.eu/blog/products/solution-brief-sonic-lite-management-switch；https://plvision.eu/blog/products/campus-network-design-deploying-sonic-lite-on-access-switches；https://plvision.eu/blog/products/transforming-openlan-switching-with-sonic-lite-edgecore-ecs4650-54p；https://plvision.eu/switchdev-development-implementation；https://plvision.eu/blog/sdn/thin-nos-approach-open-vswitch；https://plvision.eu/portfolio/case-studies/sonic-based-switch
+- **已抓子页**：[PLVision: Technology Partner for Networking Product Developm](https://plvision.eu/company/about)；[SwitchDev and DentOS Development - PLVision](https://plvision.eu/switchdev-development-implementation)；[SONiC NOS Data Center Switch Case Study](https://plvision.eu/portfolio/case-studies/sonic-based-switch)；[SONiC-Based OpenBNG Solutions for Telco](https://plvision.eu/offerings/openbng-solutions-for-disaggregated-networking)；[SONiC Capabilities White Paper: 202505 to 202605](https://plvision.eu/white-papers/sonic-capabilities-empowering-networks-with-open-source-solutions?utm_source=website&utm_medium=header&utm_campaign=sonic-capabilities)；[SAI Launchpad: Production-Grade SAI for ASIC & SONiC Enablem](https://plvision.eu/production-grade-sai)
+- 首页正文摘录：SONiC Capabilities: Empowering Networks with Open-Source Solutions Download PDF Connectivity of Tomorrow +1 (628) 225 3212 contact@plvision.eu Products SONiC Lite PLVision LTS for SONiC® Services SONiC-Based Product Development SONiC Hardened Image for Data Center Open Networking Transformation for Telco Disaggregated Cell Site Gateway (DCSG) Custom SONiC for Open Aggregation Routers OpenBNG Solutions Porting SONiC S
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-950.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -118,18 +136,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -139,7 +156,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -163,19 +180,19 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Olena,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -24,7 +24,7 @@ last_contact: 2025-12-30
 p1: none
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -95,6 +95,22 @@ updated: 2026-10-21
 - **风险/边界**：守界：军方、铁路、联邦政府为其核心市场——Saga 不供；TAA/NDAA 原产地限制；上市制造商、潜在竞争者；S 重点但仅 1 次回复
 - **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——待核型：唯一路径是面向其非政府商业/海外（如印度运营商）项目的 OEM 标准 L2 光纤汇聚交换机（STI-480XGGM / STC-424XGGM 口型，OEM 30% 档）；在对方明确非 TAA 用途前不报价
 - **邮件切入句（英文）**：For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://actelis.com/　语言：en-US　站点地图 URL 数：847
+- **标题**：Home Page / Actelis Networks
+- **描述**：Actelis' hybrid-fiber networking solutions enables immediate Gigabit, fiber-grade performance from any combination of newly deployed fiber infrastructure and existing copper and coaxial lines.
+- **首页栏目**：Intelligent Traffic Systems / IoT-enabled Sites & Campuses / Smart Rail / Utilities / Multi-Dwelling Units / Smart City / Military / Connectivity For Apartments
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 340、ethernet 203、gigabit 176、fiber 164、poe 102、sfp 88、10g 71、industrial 40、access control 7、camera 6、wifi 5、cable 4
+- **站内型号串**（正则抽取，含非交换机）：GL900, GL800, GL6010, ML650SV, GL5020, GL5030, GL5060, GL5080, ML540E, ML540M, GL5070, GL6030
+- **站内公开邮箱**：info@actelis.com
+- **社媒**：https://twitter.com/actelis, https://www.facebook.com/Actelis/, https://www.linkedin.com/company/actelis-networks/, https://www.youtube.com/channel/UC1LgMhGApbpEhgylGLuOsRA
+- **产品类页面**：https://actelis.com/actelis-enters-industrial-ethernet-switching-market/；https://actelis.com/ml5114d-actelis-new-fiber-based-industrial-14-gigabit-port-managed-ethernet-switch-and-ext…；https://actelis.com/actelis-announces-availability-of-its-first-two-industrial-ethernet-switches-provides-reli…；https://actelis.com/actelis-products/aggregation-switches-by-type/ml2300n/ml2300n-highlights/；https://actelis.com/industrial-video-surveillance-brief/；https://actelis.com/introducing-ml560m-actelis-10ge-ethernet-over-fiber-switch/
+- **已抓子页**：[PoE Switches / Actelis Networks](https://actelis.com/ethernet-switch-portfolio/poe-switches/)；[Layer 3 Network Switches / Actelis Networks](https://actelis.com/ethernet-switch-portfolio/layer-3-network-switches/)；[MetaLIGHT 650SV](https://actelis.com/portfolio/ml650sv-high-performance-ethernet-switch-for-tdm-over-fiber/)；[Actelis Fiber Solutions Portfolio / Actelis Networks](https://actelis.com/actelis-fiber-solutions-portfolio/)；[GigaLine 800 / Actelis Networks](https://actelis.com/actelis-products-ethernet-access-devices-gl800/)；[Connectivity for Multi-Dwelling Units GigaLine 900](https://actelis.com/actelis-products-ethernet-access-devices-gl900/)
+- 首页正文摘录：Skip to content info@actelis.com My Actelis Log In Menu My Actelis Log In Industries Intelligent Traffic Systems Anticipate & fast reaction to Incidents city-wide IoT-enabled Sites & Campuses Unlocking connectivity hidden in airport, factory, hospital & campus networks Smart Rail Transform existing rail communications Infrastructure Utilities Secure, responsive, energy, oil, gas and water communication networks Multi
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 40、PoE 102 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-933.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

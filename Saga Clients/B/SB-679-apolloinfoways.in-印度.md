@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.
 - **首页栏目**：Switch / Router / Wireless / Server / Security Management / SFP Optical Transceivers / Firewall / Powering Global Networks with Proven Performance
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 187、data center 90、industrial 46、sfp 42、wireless 33、poe 24、automation 20、cable 12、ethernet 11、10g 10、access control 8、gigabit 7
-- **站内出现的品牌**：Ubiquiti, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：QSFP28, WD6822-24X6H, WD6822-48X6H, WD5890, WD25000AI, WD25000X, WD25000G, WD9875, WD9865, WD9850, WD16000-F, WD25004G
 - **站内公开邮箱**：info@mywatchdog.in
 - **已抓子页**：[Industrial Networking / WatchDog Rugged Switch Solutions](https://www.mywatchdog.in/industrial.html)；[Enterprise Networking / WatchDog Campus & Branch Solutions](https://www.mywatchdog.in/Enterprise.html)；[Switching Solutions / WatchDog Data Center, Enterprise & Ind](https://www.mywatchdog.in/solution-switch.html)；[Data Center Networking / WatchDog Switches & Fabric Solution](https://www.mywatchdog.in/datacenter.html)；[Solutions / WatchDog Network, Cloud & Security Portfolio](https://www.mywatchdog.in/switch-common.html)；[Powering Smarter, Secure & Connected Campuses / WatchDog](https://www.mywatchdog.in/industrial-enterprise.html)

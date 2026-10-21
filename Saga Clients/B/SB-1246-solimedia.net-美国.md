@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Explore Solimedia for top-quality Mikrotik, Grandstream, and Optcore products at competitive prices with great value.
 - **首页栏目**：professional networking / Our latest Products / GPOE-CON-mini / Mikrotik G1382-0350WNA / MaGiC SFP 1G – LOW Freq. / hAP be³ Media / 5G & LTE solutions / IP telephony
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：mikrotik 440、switch 347、fibre 319、poe 167、ethernet 140、wireless 137、sfp 91、10g 90、gigabit 82、wifi 69、fiber 63、industrial 52
-- **站内出现的品牌**：MikroTik, Grandstream, Ubiquiti, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：MikroTik, Grandstream, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：GWN7800, CRS309-1G-8S, GWN7802P, CRS328-24P-4S, RB260GSP, GWN7803P, CRS305-1G-4S, CSS610-8G-2S, CRS354-48G-4S, CRS112-8P-4S-IN, CRS112, CRS354-48P-4S
 - **站内公开邮箱**：sales@solimedia.net
 - **站内公开电话**：+1 604 336 7000

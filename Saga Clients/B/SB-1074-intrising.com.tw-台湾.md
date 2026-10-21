@@ -63,7 +63,6 @@ updated: 2026-10-21
 - **描述**：Smart & Simple Connectivity - Homepage of Intrising Networks
 - **首页栏目**：IEC 61850-3 / Protecting the Substation Starts with IEC 61850-3-Certified Switches / Industrial L3 Switches / Intrising Industrial Layer 3 Switches / Intrising PTP / Intrising PTP Provides Better Time Service / ISO 9001:2015 Certification / Elevating Excellence in Quality
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 107、industrial 56、poe 22、wireless 14、sfp 10、ethernet 8、10g 6、gigabit 3、automation 2、camera 1、surveillance 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IEEE802, DAS-8GHP-4X, DBS-16GP-4X, DCS-8GP-2GS, DTS-8GP-4X, DAS-8GP-4X, IEC62439-2, EN50155, DVS-16MP-4Q
 - **站内公开邮箱**：kenlee@intrising.com.tw
 - **产品类页面**：https://www.intrising.com.tw/news/new_feature/poeplusplus_solution；https://www.intrising.com.tw/products；https://www.intrising.com.tw/products/av_over_ip；https://www.intrising.com.tw/products/accessories；https://www.intrising.com.tw/products/application；https://www.intrising.com.tw/products/av_over_ip/extender

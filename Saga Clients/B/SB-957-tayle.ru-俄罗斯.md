@@ -22,7 +22,7 @@ last_contact: 2025-11-03
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -60,6 +60,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-957.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.tayle.ru/　语言：未标　站点地图 URL 数：3623
+- **标题**：Тайле
+- **描述**：Компания Тайле - Российский производитель и дистрибутор сетевого оборудования
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 1
+- **站内公开邮箱**：ekb@tayle.ru, msksales@tayle.ru, office@tayle.ru, spb@tayle.ru
+- **站内公开电话**：+7 777 747 3788, +8 800 600 72 65
+- **社媒**：https://t.me/taylenews, https://vk.com/taylenews
+- **产品类页面**：https://www.tayle.ru/catalog/section/arec/；https://www.tayle.ru/catalog/section/qsan/；https://www.tayle.ru/catalog/section/avervcs/；https://www.tayle.ru/catalog/section/arec/cam/；https://www.tayle.ru/catalog/section/qsan/NAS/；https://www.tayle.ru/catalog/section/qsan/SAN/
+- **已抓子页**：[Продукция компании Тайле](https://www.tayle.ru/products/)；[О компании - Компания Тайле](https://www.tayle.ru/about/)；[Офисы продаж Тайле](https://www.tayle.ru/contacts/)；[Отдел продаж Тайле в г.Екатеринбург](https://www.tayle.ru/contacts/ekb/)；[Отдел продаж Тайле в г.Москва](https://www.tayle.ru/contacts/msk/)；[Отдел продаж Тайле в г.Санкт-Петербург](https://www.tayle.ru/contacts/spb/)
+- 首页正文摘录：О компании Кто мы История Производство Сертификаты Маскот Новости Продукция NIKOMAX - собственный бренд NETLAN - собственный бренд QSAN - дистрибутируемый вендор ECOPLAST - дистрибутируемый вендор AEM - дистрибутируемый вендор Материалы Публикации Скачать Обучение Социальные сети Вконтакте Telegram МAX Rutube Сервисы ЦОД Контакты Офисы продаж Алматы (Казахстан) Архангельск Владивосток Волгоград Воронеж Екатеринбург Е
+- 数据文件：`data/saga_clients/site_snapshots/SB-957.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

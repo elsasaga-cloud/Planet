@@ -63,7 +63,6 @@ updated: 2026-10-21
 - **描述**：Discover Crystal Group's rugged tech solutions—built to thrive in the toughest environments. Explore innovative, reliable, and durable technology today!
 - **首页栏目**：Our Mission: To Solve the Most Difficult Tech Challenges. / Reliable Solutions and Support - 24/7 / Defense / Industrial / Edge computing / Latest from Crystal Group / What our people are about / Maximum protection inside and out
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 52、switch 13、automation 5、10g 3、scada 2、fiber 1、surveillance 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AS9100D, EIA-310, RJ-45, RS232, RCS7550, RCS7850, ES3604L24, IS1200, IS2502, ICS200, ICS300, ICS400
 - **站内公开邮箱**：ellie.gretter@crystalrugged.com
 - **站内公开电话**：+1.319.378.1636 319.393.2338

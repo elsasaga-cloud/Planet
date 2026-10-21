@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-10-08 → 2025-11-06）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-919.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://solidcable.com/　语言：ja　站点地图 URL 数：796
+- **标题**：ソリッドケーブル / LAN・ケーブル通販サイトの先駆者 / 【最短即日発送】放送・通信工事材料の卸
+- **首页栏目**：商品カテゴリ / 工事用途 / おすすめ商品 / お役立ちガイド / 商品カタログ / ログイン / サポート / 商品カテゴリ から探す / 一覧を見る すべて展開
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ftth 26、ethernet 2、cable 2、10g 1
+- **站内型号串**（正则抽取，含非交换机）：DMY-7532, SEP-SH25FB50, CMD-5CALHS, CMD-4CAB, CMD-5CTAB, CCD-HS4CFF15, CCD-HS4CFF30, CCD-HS4CFSL15, CCD-HS4CFSL30, DMY-CP75PN, BNC-5CFB-EM, BNC-3C2V-EM
+- **产品类页面**：https://solidcable.com/Products/Categories/Category.aspx?shelfNo=2001；https://solidcable.com/Products/Categories/Category.aspx?shelfNo=2002；https://solidcable.com/Products/Categories/Category.aspx?shelfNo=2003；https://solidcable.com/Products/Categories/Category.aspx?shelfNo=2004；https://solidcable.com/Products/Categories/Category.aspx?shelfNo=2005；https://solidcable.com/Products/Categories/Category.aspx?shelfNo=2006
+- **已抓子页**：[【特集】ソリッドケーブルの商品活用事例 / ソリッドケーブル / LAN・ケーブル通販サイトの先駆者](https://solidcable.com/guide/product_app.html)；[工事用途一覧 / ソリッドケーブル / LAN・ケーブル通販サイトの先駆者](https://solidcable.com/Products/Usages/index.aspx)；[光ケーブル・LANケーブルなどのオーダーメイドお任せください / ソリッドケーブル / LAN・ケーブル通販サイトの先駆](https://solidcable.com/guide/custom-products.html)；[おすすめ商品一覧 / ソリッドケーブル / LAN・ケーブル通販サイトの先駆者](https://solidcable.com/Products/Campaigns/index.aspx)；[商品カテゴリー 一覧 / ソリッドケーブル / LAN・ケーブル通販サイトの先駆者](https://solidcable.com/Products/Categories/index.aspx)；[規格認証・電波漏えい対策済みのケーブル・部品一覧 / ソリッドケーブル / LAN・ケーブル通販サイトの先駆者](https://solidcable.com/Products/Usages/Usage.aspx?shelfNo=28)
+- 首页正文摘录：Now Loading 光ファイバ Cat6A Cat6 Cat5e HDMI TVケーブル ケーブル付分波器 分配器 電源ケーブル 商品カテゴリ LAN・ネットワークケーブル LAN・ネットワークコネクタ LAN・ネットワーク機器 光ファイバーケーブル 光ファイバーコネクタ 光ファイバー機器 アンテナ・テレビケーブル アンテナ・テレビコネクタ アンテナ・テレビ機器 電源ケーブル・タップ・機器 壁面コンセント・プレート 幹線・引込・屋外部材 収納・取付・配管・配線部材 計測器・工具 防災・災害対策 一覧で見る 工事用途 規格認証・電波漏えい対策 ネットワーク・電話工事 FTTH工事 ケーブルテレビ工事 アンテナ工事 電気工事 テレビ・チューナー・ネット機器付属品 ホテル・病院 会場設備・映像音響 防犯・セキュリティ・防災関連 小売・JANコード 一覧で見る おすすめ商品 全数FLUKE検査済LANケーブル 新商品 再入荷・販売再
+- 数据文件：`data/saga_clients/site_snapshots/SB-919.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +167,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy, monitoring, GHz
 - **首页栏目**：Szybka wysyłka / Zwrot towaru / Odwiedź nas na / Newsletter / Szybki Kontakt
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 16、cisco 14、mikrotik 13、switch 12、poe 10、ubiquiti 9、cable 7、planet 7、tp-link 7、hikvision 7、dahua 7、sfp 2
-- **站内出现的品牌**：MikroTik, Cisco, Ubiquiti, PLANET, TP-Link, Hikvision, Dahua, Netgear, D-Link, Zyxel, Aruba, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：MikroTik, Cisco, Ubiquiti, TP-Link, Hikvision, Dahua, Netgear, D-Link, Zyxel, Aruba, Huawei, Tenda　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RJ-45, FD1700C, RACK19
 - **站内公开邮箱**：cyberteam@cyberteam.pl
 - **社媒**：https://twitter.com/Cyberteam_PL, https://www.facebook.com/CyberteamPL/, https://www.youtube.com/@cyberteam6580/featured

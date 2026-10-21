@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen – persönlich geplant und zuverlässig betreut.
 - **首页栏目**：Netzwerkdesign mit Extreme Fabric / DEUTZ AG – Industrial Ethernet / Buchholz Digital GmbH – FTTH-Ausbau in Niedersachsen / IT-Abteilung im Friedrich-Ebert-Krankenhaus Neumünster / Nordmark Pharma – Modulares Rechenzentrum in Betonbauweise / Initiativ bewerben bei: / Business Development dierckgroup / IT Kompetenz, die verbindet – in einer Gruppe vereint
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：datacenter 45、industrial 29、axis 28、switch 19、ftth 18、ethernet 13、automation 7
-- **站内出现的品牌**：Extreme, Zyxel, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Zyxel, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：NIS-2, DOKOM21, DSW21
 - **站内公开邮箱**：bewerbung@dierck-gruppe.de, ma@dierck.de, nils.newe@dierck.de, tawi.kadr@gordion.de
 - **站内公开电话**：+49 (2241) 490 40, +49 (40) 7097576639, +49 (431) 97449-2121

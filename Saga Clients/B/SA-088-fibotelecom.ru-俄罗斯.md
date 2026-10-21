@@ -113,7 +113,7 @@ updated: 2026-10-21
 - **描述**：Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене с доставкой по России. Компания FIBO предлагает заказать информационно-телекоммуникационное оборудование, сетевое периферийное, кабель, серверное, поставки с производства патч-кордов по низкой стоимости от интернет-магазина
 - **首页栏目**：Экспертная помощь перед покупкой / Полезная информация / Поддержка всегда рядом / Это интересно
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 79、10g 39、industrial 6、telecom 6、ethernet 3、poe 2、2.5g 1、cisco 1
-- **站内出现的品牌**：Cisco, Juniper, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SFP28, QSFP28, QSFP56, BX20-D-I, FT-DA-17B-LU-A, FT-ODCM-40, FT-S10-D3480LD, FT-S10-D5780LD, MN-AT-MF05LU, MN-PC-LU-LU-SMD3L, MN-PC-LU-LU-SMS3L
 - **站内公开邮箱**：info@fibotelecom.ru
 - **产品类页面**：https://fibotelecom.ru/catalog/kommutatory/kommutatory_poe；https://fibotelecom.ru/catalog/kommutatory/kommutatory_industrial；https://fibotelecom.ru/catalog/sovmestimye_transivery/industrial_transivery；https://fibotelecom.ru/catalog；https://fibotelecom.ru/catalog/kommutatory；https://fibotelecom.ru/catalog/oborudovanie_pon

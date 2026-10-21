@@ -63,7 +63,6 @@ updated: 2026-10-21
 - **描述**：INOTEC bietet digitale Lösungen für Effizienz und Transparenz: Komplettlösungen für smarte Datenflüsse, transparente Prozesse und mehr.
 - **首页栏目**：dagenio – aus Dokumentation wird nützliche Information / LEADS / TV SERVICECASTER / NE-4 SURVEY / Alles integrieren - Überall - So wie du willst / DataMiner xOPS / Live Demo / Connector
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ftth 7、automation 2
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：info@inotec.digital
 - **站内公开电话**：+49 176 75897933
 - **产品类页面**：https://inotec.digital/produkte/

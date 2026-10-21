@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-838.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ifotec.com/　语言：fr-FR　站点地图 URL 数：364
+- **标题**：Equipements et solutions de transmission sur fibres optiques
+- **描述**：Depuis 1999, IFOTEC conçoit et fabrique en France des équipements de transmission de signaux sur fibres optiques.
+- **首页栏目**：Catalogue produits / Développement sur mesure / Cybersécurité armoire de rue / Comprendre le PoE / Expertises / Cas clients
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 24、ethernet 14、fibre 6、gigabit 3、sfp 1、surveillance 1、ftth 1、cable 1
+- **社媒**：https://www.linkedin.com/company/ifotec/
+- **产品类页面**：https://www.ifotec.com/switch-8-ports-poe-inet10x/；https://www.ifotec.com/en/inet6-switch-4-poe-2-sfp/；https://www.ifotec.com/inet6-switch-6-ports-dont-4-poe/；https://www.ifotec.com/en/inet4s-secure-industrial-switch/；https://www.ifotec.com/fonctionnalites-poe-des-switches-inet/；https://www.ifotec.com/en/10g-poe-switch-with-10-ports-inet10x/
+- **已抓子页**：[Catalogue produits - Ifotec](https://www.ifotec.com/catalogue-produits/)；[Comprendre le PoE - IFOTEC](https://www.ifotec.com/comprendre-le-poe-power-over-ethernet/)；[Contact - IFOTEC](https://www.ifotec.com/contact/)；[Solutions de mutualisation et valorisations de vos réseaux f](https://www.ifotec.com/a-propos-ifotec/solutions-valorisation-reseaux-fibres-optiques/)
+- 首页正文摘录：FR EN A propos Actualités Support Partenaires Contact Mes devis Expertises Développement sur mesure Produits Références Solutions de transmission sur fibres optiques en environnements exigeants Valoriser vos réseaux fibres optiques en mutualisant les services et les applications Fiabilité et sécurité de vos transmissions Catalogue produits Consultez notre catalogue de plusieurs centaines de produits autorisant tous t
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 24、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-838.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -151,7 +165,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-02-05 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-907.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ifocusshop.com/　语言：th　站点地图 URL 数：307
+- **标题**：กล้องวงจรปิดเมืองพัทยา รับติดตั้ง พัทยา ชลบุรี / iFocus
+- **描述**：จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด พัทยา ชลบุรี ดูแลระบบกล้องโทรทัศน์วงจรปิดในเมืองพัทยา สำหรับบ้าน ร้านค้า และองค์กร โดยโฟกัส ซิสเต็ม
+- **首页栏目**：บริษัท โฟกัส ซิสเต็ม แอนด์ ดีไซน์ จำกัด / Focus System & Design Co.,Ltd. / กล้องวงจรปิด (CCTV) / รับออกแบบ-ติดตั้ง บำรุงรักษา และจำหน่ายอุปกรณ์กล้องวงจรปิด CCTV ครบวงจร / ศูนย์จำหน่ายกล้องวงจรปิด Hikvision / Dahua / Hikvision / Uniview
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 732、switch 371、nvr 338、poe 215、cctv 146、fiber 64、dahua 57、cable 56、hikvision 46、access control 42、wireless 42、uniview 41
+- **站内出现的品牌**：Dahua, Uniview, Hikvision, TP-Link, ZKTeco, Ruijie, MikroTik, Ubiquiti, Cisco, D-Link, Zyxel　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS422, DS-3E1309P-EI, AI-DH-PFS3110-8ET-96, DH-PFS3006-4ET-60, DH-PFS3009-8ET-96, PFS3005-4P-58, PFS3008-8GT-96, PFS3106-4P-60, PFS3110-8P-96, PFS4218-16ET-240, PFS4226-24GT-360, DH-PFS4218-16GT-240
+- **产品类页面**：https://ifocusshop.com/blog/；https://ifocusshop.com/hdcvi-ten/；https://ifocusshop.com/focus-haber/；https://ifocusshop.com/ruilie-reeyee/；https://ifocusshop.com/hikvision-edvr/；https://ifocusshop.com/focus-n-pattaya/
+- **已抓子页**：[สินค้า PoE Switch / Product Category](https://ifocusshop.com/product-category/cctv/dahua/poe-switch/)；[สินค้า Switch PoE / Product Category](https://ifocusshop.com/product-category/cctv/hilook/switch-poe/)；[สินค้า Switch PoE / Product Category](https://ifocusshop.com/product-category/cctv/uniview/switch-poe-uniview/)；[สินค้า Switch PoE / Product Category](https://ifocusshop.com/product-category/cctv/hikvision/switch-poe-hikvision/)；[สินค้า Power Supply/Adapter / Product Category](https://ifocusshop.com/product-category/cctv/accessories/power-supply-adapter/)；[สินค้า Ethernet Switches / Product Category](https://ifocusshop.com/product-category/อุปกรณ์เน็ตเวิร์ค-network/ruckus/ethernet-switches/)
+- 首页正文摘录：Skip to content No results Home Products CCTV Hikvision Turbo HD DVR Turbo DVR 4 Channel Turbo DVR 8 Channel Turbo DVR 16 Channel Turbo DVR 32 Channel Turbo HD Camera Bullet Camera ความละเอียด 2 MP ความละเอียด 5 MP Dome Camera ความละเอียด 2 MP ความละเอียด 5 MP NVR NVR 4 Channel NVR 8 Channel NVR 16 Channel NVR 32-256 Channel IP Camera Bullet IP Camera Bullet IP Camera 2 MP Bullet IP Camera 4 MP Dome IP Camera Dome IP
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 215、监控 1216 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-907.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -151,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

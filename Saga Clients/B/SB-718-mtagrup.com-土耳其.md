@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-29 → 2025-10-29）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-718.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://mtagrup.com/　语言：tr　站点地图 URL 数：0
+- **标题**：MTA Grup
+- **描述**：MTA Grup
+- **首页栏目**：Savunma Sanayi Çözümleri / Müşteri odaklı Güvenlik anlayışı / MTA GRUP GÜVENLİK SİSTEMLERİ ASELSAN NET İLE TEKNOLOJİNİN OLDUĞU HER YERDE / Selimiye Kışlası MTA Güvenlik Farkıyla Tamamlandı. / Covid-19 Çözümleri Hes Kodu Sorgulama Ve Ateş Ölçme / Barış Pınarı Harekât Alanı Tel Abyad/SURİYE Projesi / "Küresel Çalışma Deneyimi" / Kablosuz Çözümler
+- **站内公开邮箱**：info@mtagrup.com
+- **社媒**：https://www.facebook.com/mtagrupguvenlik/?view_public_for=732940173493016, https://www.instagram.com/mtaguvenlik, https://www.linkedin.com/company/mta-g%C3%BCvenlik-sistemleri-mta-security-solutions/?viewAsMember=true, https://x.com/mtagrupguvenlik
+- **已抓子页**：[MTA Grup](https://mtagrup.com/kurumsal/hakkimizda)；[MTA Grup](https://mtagrup.com/markalar)；[MTA Grup](https://mtagrup.com/iletisim)；[MTA Grup](https://mtagrup.com/iletisim/ankara)；[MTA Grup](https://mtagrup.com/markalar/markalar)；[MTA Grup](https://mtagrup.com/iletisim/istanbul)
+- 首页正文摘录：8:00 - 18:30 (Pazartesi- Cumartesi ) 0212 210 86 76 info@mtagrup.com KURUMSAL Hakkımızda MTA Yaklaşımı Değerlerimiz İnsan Kaynakları Politikamız Çözüm Ortaklarımız ÇÖZÜMLERİMİZ Savunma Sanayi Çözümleri Kablosuz Çözümler Görüntüleme ve Güvenlik Alarm Güvenlik Sistemleri Akıllı Geçiş Sistemleri Altyapı & Danışmanlık Hizmetleri Covid-19 Çözümlerimiz Hes Kodu Sorgulama MARKALAR Markalar PROJELERİMİZ Tamamlanan Projeler D
+- 数据文件：`data/saga_clients/site_snapshots/SB-718.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,7 +155,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

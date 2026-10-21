@@ -106,7 +106,6 @@ updated: 2026-10-21
 - **描述**：Learn More Checkout Our Products Checkout Our Products Learn More About Us Learn More About Us Learn More About Us Technical Support
 - **首页栏目**：Network Connections You Can Trust / Discover Our Latest Product / Advanced Imagers Series AIS-8300 / Our Products
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 23、2.5g 12、10g 7、switch 4、camera 3、poe 2、fiber 1、ethernet 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SHA-256, FIPS-197, AES-256, HN-AIS-8300, HN-8012-24, HN-8042, AIS-8300, HN-8004-16, HN-3488, HN-3416
 - **站内公开邮箱**：sales@expresssupply.net
 - **产品类页面**：https://hardenednetworks.com/products/

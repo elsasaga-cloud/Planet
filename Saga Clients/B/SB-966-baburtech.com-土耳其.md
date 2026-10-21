@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-29 → 2025-10-28）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -69,6 +69,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-966.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.baburtech.com/　语言：tr　站点地图 URL 数：572
+- **标题**：BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAPTOP YEDEK PARÇA 0850 302 06 47
+- **描述**：Laptop Yedek Parça, Ankara Laptop Yedek Parça, Laptop Parça, Lcd Panel, Batarya, Laptop Klavye, Ankara Laptop Tamiri, Ankara Laptop Yedek Parçası, Laptop Yedek Parçaları, Laptopçu, Laptop Lcd Panel, Ekran, Laptop Fan, Laptop menteşe, Laptop Cover, Laptop Kasası, Notebook Klavye, Laptop Hastanesi, An
+- **首页栏目**：%100 Uyumlu Parçalar / Güvenli Alışveriş / Uzman Destek / Laptop Yedek Parçaları / Notebook Yedek Parça / Diğer Laptop Parçaları / Mağaza Kategorileri / Modelini Bul
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 77、hikvision 77、dahua 74、poe 37、tp-link 30、ubiquiti 19、oem 18、planet 18、wifi 17、cctv 16、sfp 15、ethernet 15
+- **站内型号串**（正则抽取，含非交换机）：C740-15IML, FYG41, NM-C431, PV152501334, E1504FA-BQ4891, DAH98AMBAD0, SVP11, NOD32, IPC-HFW2449S-S-IL, DS-2CE76D0T-EXLPF, IPC-HDW2249T-S-IL, IPC-HDBW1431R-ZS-S4
+- **站内公开邮箱**：destek@baburtech.com
+- **站内公开电话**：+90 554 558 82 82, +90 850 302 06 47, 0002908 0.0, 0002929 0.0
+- **社媒**：https://tr.linkedin.com/company/baburtechbilisim, https://www.facebook.com/baburtechteknoloji, https://www.instagram.com/baburtech/, https://www.youtube.com/channel/UCeg6cn9wL5HRzVZkT0Upn0Q, https://x.com/baburtech
+- **产品类页面**：https://www.baburtech.com/xml/sitemap_product_8.xml?sr=6ad825c4ad118；https://www.baburtech.com/xml/sitemap_product_7.xml?sr=6ad825c4ad135；https://www.baburtech.com/xml/sitemap_product_4.xml?sr=6ad825c4ad137；https://www.baburtech.com/xml/sitemap_product_1.xml?sr=6ad825c4ad1cb；https://www.baburtech.com/xml/sitemap_product_3.xml?sr=6ad825c4ad243；https://www.baburtech.com/xml/sitemap_product_6.xml?sr=6ad825c4ad276
+- **已抓子页**：[CCTV Ürünleri- BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL L](https://www.baburtech.com/kategori/cctv-urunleri)；[Ağ Ürünleri- BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAP](https://www.baburtech.com/kategori/ag-urunleri)；[Ağ Ürünleri- BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAP](https://www.baburtech.com/kategori/ag-urunleri-1)；[Ağ Ürünleri- BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAP](https://www.baburtech.com/kategori/ag-urunleri-2)；[Kablosuz Ağ Ürünleri- BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİ](https://www.baburtech.com/kategori/kablosuz-ag-urunleri)；[Ağ Ürünleri-Profesyonel AP- BABURTECH BİLİŞİM A.Ş. BİLGİSAYA](https://www.baburtech.com/kategori/ag-urunleri-profesyonel-ap)
+- 首页正文摘录：5000 TL ve üzeri siparişlerinizde kargo ücretsiz! ÜCRETSİZ TESLİMAT İMKANI KOŞULSUZ İADE HAKKI SÜRDÜRÜLEBİLİR ÜRÜNLER Ara Üye Ol & Giriş yap Sepetim : Kategoriler Laptopunuz için Doğru Parça Yüksek Performans! %100 Uyumlu Parçalar Modelinize tam uyum Güvenli Alışveriş 256-Bit SSL korumalı Uzman Destek Doğru Parça Seçimi Doğru Parçayı Bul Laptop Yedek Parçaları Laptop Anakartları Marka ve modele özel Laptop Adaptörler
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 37、监控 24 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-966.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +177,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 42、监控 4 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-686.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://atelekom.com.tr/　语言：tr　站点地图 URL 数：49
+- **标题**：A Telekomünikasyon / Zayıf Akımda En İyi Çözüm
+- **描述**：A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.
+- **首页栏目**：Zayıf Akım Teknolojilerinde Daima En İyi Çözüm İçin Varız. / Ürün Kategorileri / Çözümler / Haberleşme Sistemleri : Ofis ve Ev Telefonları / İnterkom Sistemleri / Video Konferans Sistemleri / CCTV Ev ve İş Yeri Güvenliği İçin Güvenlik Kamera Sistemleri / Hırsız Alarm Sistemleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 259、poe 42、switch 36、gigabit 24、ethernet 4、cctv 4、wireless 2、wifi 2
+- **站内出现的品牌**：Hikvision, Ruijie, Bosch, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-3E2528P-H, DS-3E0505P-E, DS-2CD1023G2-LIUF, DS-2CD1041G2-LIUF, DS-2CD2183G2-IU, DS-2CD1067G2H-LIUF, DS-KIS313-P, DS-2CD1347G2H-LIUF, DS-2CD2683G2-LIZS2U, DS-2CD1027G2H-LIUF, AE-DC8312-C6S, DS-2CD2387G3-LIS2UY
+- **社媒**：https://wa.me/902122228844, https://www.facebook.com/atelekomunikasyon, https://www.instagram.com/atelekomunikasyon/, https://www.instagram.com/reel/DNsvT1VUDw0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==, https://www.instagram.com/reel/DPbfP9GiMM7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==, https://www.instagram.com/reel/DZwqw-mtura/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+- **产品类页面**：https://atelekom.com.tr/urunler-magazasi/；https://atelekom.com.tr/?jet-woo-builder=urun-kategorileri-gosterim-listeleme
+- **已抓子页**：[Hikvision DS-3E0505P-E/M 4 Port Gigabit PoE Switch - A Telek](https://atelekom.com.tr/urun/hikvision-ds-3e0505p-e-m-4-port-gigabit-poe-switch/)；[HIKVISION DS-3E2528P-H / 24 Port Gigabit Tam Yönetilebilir P](https://atelekom.com.tr/urun/hikvision-ds-3e2528p-h-24-port-gigabit-tam-yonetilebilir-poe-switch/)；[Ürünler Mağazası - A Telekomünikasyon](https://atelekom.com.tr/urunler-magazasi/)；[Network Ürünleri - A Telekomünikasyon](https://atelekom.com.tr/urun-kategori/network-urunleri/)；[A telekomünikasyon - Hakkımızda](https://atelekom.com.tr/a-telekomunikasyon-hakkimizda/)；[Güvenlik Kameraları - A Telekomünikasyon](https://atelekom.com.tr/urun-kategori/guvenlik-kameralari/)
+- 首页正文摘录：İçeriğe atla Anasayfa Hakkımızda Çözümler Ürünler Blog İletişim Bayi Girişi Bayimiz Olun Search ... Sonuç Tüm Sonuçlar Sık Sorulan Sorular 0 212 222 88 44 [email protected] Anasayfa Hakkımızda Çözümler Ürünler Blog İletişim Anasayfa Hakkımızda Çözümler Ürünler Blog İletişim Bayi Girişi Bayimiz Olun Zayıf Akım Teknolojilerinde Daima En İyi Çözüm İçin Varız. Güvenilir Markalar Kalitesini kanıtlamış güçlü markalar Deney
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 42、监控 4 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-686.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -95,7 +111,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 42、监控 4 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,7 +158,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Viewtech is a safety and security technology supplier based in Christchurch, New Zealand. We specialise in system design and supply for vehicle and fleet safety, and wholesale distribution for the security trade.
 - **首页栏目**：Technology Solution Distributors / Products / Brands / Service & Support / Solutions for any Industry / We Distribute High Quality Products / Some of our Brands / SecuraLux: Smart Solar Lighting, Reimagined.
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 276、poe 159、cctv 121、switch 113、wireless 81、nvr 64、gigabit 41、surveillance 27、automation 21、access control 14、dahua 14、industrial 11
-- **站内出现的品牌**：Ajax, Milesight, Dahua, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Milesight, Dahua, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AX3000, D-PFT1200, PFT1200, DH-CS4006-4ET-60, CS4006-4ET-60, OM-ES210GMP, OM-IES210GPP, OM-ES220GMP, OM-ES228GMP, OM-ES205GP, OM-SG2005P-PD, OM-IES206GPP
 - **站内公开邮箱**：sales@viewtech.co.nz
 - **站内公开电话**：+64 3 741 5526

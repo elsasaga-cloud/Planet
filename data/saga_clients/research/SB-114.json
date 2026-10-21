@@ -1,0 +1,66 @@
+{
+ "code": "SB-114",
+ "name_official": "Onyx Technology Solutions Limited（乌干达）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Cambium"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：工业 POE injector 用于 cambium radios like force 200/190；回复：price product info；price for 48 port, 228；对 154 有兴趣；price list",
+   "quote": "兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Steven Ntengo",
+   "title": "（表内联系人）",
+   "email": "onyxtechnologysolutionsltd@gmail.com",
+   "phone": "+256 704 803 724",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Onyx Technology Solutions Limited",
+  "founded": "",
+  "hq": "乌干达",
+  "size": "小型",
+  "other": "gmail；Cambium 用户"
+ },
+ "business_lines": [
+  "无线接入 / WISP 工程（Cambium）",
+  "网络集成"
+ ],
+ "channels": {
+  "role": "WISP / 集成商",
+  "region": "乌干达"
+ },
+ "signals": [
+  "对 STI-154GP 同口型明确有兴趣",
+  "多次要价目 → 比价采购"
+ ],
+ "risks": [
+  "注入器需求 Saga 无（Q-32）",
+  "东非付款：T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STI-154GP",
+  "tier": 25,
+  "why": "其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。"
+ },
+ "email_hook": "Steven, you liked the 154 unit (1 SFP + 1 GE uplink + 4 PoE) — Force 200/190 radios take 802.3at from it directly, so you may not need separate injectors; shall I send the datasheet plus 1-pc and 10-pc EXW prices?"
+}

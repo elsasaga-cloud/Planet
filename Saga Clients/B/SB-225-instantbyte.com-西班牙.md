@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Mayorista especializado en soluciones networking: wireless, VoIP, videovigilancia e IoT.
 - **首页栏目**：Accede con tu cuenta / Ofertas Ver todas / Comunicados / Noticias Instant Byte / NETGEAR serie M4350: conectividad de hasta 100G y PoE++ en una sola plataforma / MikroTik LGO-LTE-W: antena compacta para LTE y LoRa® en instalaciones IoT / MikroTik Back to Home: acceso remoto seguro incluso sin IP pública / DAP-E3620: Wi-Fi 7 empresarial a medida del proyecto y del presupuesto
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 202、cable 110、switch 76、ubiquiti 57、sfp 39、gigabit 37、wifi 24、tp-link 20、ftth 15、mikrotik 15、cisco 15、nvr 12
-- **站内出现的品牌**：Huawei, Ubiquiti, MikroTik, Grandstream, TP-Link, Cisco, D-Link, Aruba, Cambium, Netgear, PLANET, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Huawei, Ubiquiti, MikroTik, Grandstream, TP-Link, Cisco, D-Link, Aruba, Cambium, Netgear, Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：APOE02, AP361, GE-SX-MM850, AP263, ERZ-POE4805-24W, POE-48-24W-G, APOE02-WM, ARS-NT5, ARS-NT5B7, ARS-N19, AWUS036ACH-C, RTL8188EUS
 - **站内公开邮箱**：comercial@instantbyte.com, soporte@instantbyte.com
 - **社媒**：https://twitter.com/InstantByte, https://www.facebook.com/instantbyte, https://www.instagram.com/instantbyte_esp/, https://www.linkedin.com/company/10945975, https://www.youtube.com/channel/UC_yWaJtmKy9dwFjqV4JT7uA

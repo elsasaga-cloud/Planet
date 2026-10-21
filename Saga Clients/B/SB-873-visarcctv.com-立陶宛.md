@@ -22,7 +22,7 @@ last_contact: 2025-10-03
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-04-30 → 2025-10-03）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +71,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-873.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.visarcctv.com/　语言：未标　站点地图 URL 数：438
+- **标题**：Prekes viSar
+- **首页栏目**：Specialūs pasiūlymai / Nauji produktai / VSI ME1104WD, Pasikalbėjimo sistemos mini monitorius / VSS W04POE2 4*FE PoE+2*FE PoE komutatorius / VSS W08POE2G 8*FE+2GE PoE komutatorius / VSS W08POE2 8*FE+2FE PoE komutatorius / VSI MA108S1 IP telefonspynė 2MP, 1-8 abonentų, LAN, Wifi, RFID / VSC-IPT4GDs4lF28D IP vaizdo kamera 4MP, 2.8mm, IR 30m, skaidrus gaubtas, Juoda
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 166、cctv 9、wifi 9、gigabit 7、nvr 4、ethernet 3、camera 1
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, VSS-W08POE2G, VSS-W08POE2, VSS-W08GPOE2, EN60950, VSC-IPT8PNDE3B-ALD, VSC-IPT8PNDE3B-AL, VSI-E3110, VSC-IPT4BL-BSF28, VSS-W04POE2, VSS-W04POE1, VSS-W24POE3G
+- **站内公开邮箱**：info@visarcctv.com
+- **站内公开电话**：+370 64841441
+- **社媒**：https://www.facebook.com/saremeuab, https://www.linkedin.com/company/sareme/
+- **产品类页面**：https://www.visarcctv.com/products/industrial-poe-switches；https://www.visarcctv.com/products/poe-switches；https://www.visarcctv.com/products/switches；https://www.visarcctv.com/products/switches-switches；https://www.visarcctv.com/prekes/poe-tinklo-komutatoriai；https://www.visarcctv.com/prekes/pramoniniai-poe-tinklo-komutatoriai
+- **已抓子页**：[VSC IPT4SD25NIRPOE 4MP valdoma IP kamera, x25, IR150, AI fun](https://www.visarcctv.com/prekes/ip-kameros/vsc-ipt4sd25nirpoe-4mp-valdoma-ip-kamera-x25-ir150-ai-funkcijos)；[POE Tinklo Komutatoriai viSar](https://www.visarcctv.com/prekes/poe-tinklo-komutatoriai)；[Pramoniniai POE Tinklo Komutatoriai viSar](https://www.visarcctv.com/prekes/pramoniniai-poe-tinklo-komutatoriai)；[VSS W08POE2 8*FE+2FE PoE komutatorius viSar](https://www.visarcctv.com/prekes/poe-tinklo-komutatoriai/vss-w08poe2-8fe2fe-poe-komutatorius)；[VSS W08POE2G 8*FE+2GE PoE komutatorius viSar](https://www.visarcctv.com/prekes/poe-tinklo-komutatoriai/vss-w08poe2g-8fe2ge-poe-komutatorius)；[VSS W08GPOE2 8*GE+2GE PoE komutatorius viSar](https://www.visarcctv.com/prekes/poe-tinklo-komutatoriai/vss-w08gpoe2-8ge2ge-poe-komutatorius)
+- 首页正文摘录：Show all results lietuvių english Registracija Prisijungti My Account Registracija Prisijungti Show all results Nauji Produktai IP Vaizdo Stebėjimo Sistemos HD Vaizdo Stebėjimo Sistemos Tinklo Komutatoriai Priedai Download IP Vaizdo Stebėjimo Sistemos IP Kameros Tinkliniai Įrašymo Įrenginiai (NVR) Įeigos Kontrolė HD Vaizdo Stebėjimo Sistemos HD Kameros HD Vaizdo Įrašymo Įrenginiai (AHD) Tinklo Komutatoriai Komutatori
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 166、监控 14 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-873.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -174,7 +190,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

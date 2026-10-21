@@ -115,7 +115,6 @@ updated: 2026-10-21
 - **描述**：AE Connect manufactures PoE injectors and switches, fiber solutions, Cat 6 and Cat 6A structured cabling, rack cabinets and networking tools in India since 2005.
 - **首页栏目**：Engineered in India, Empowering the World / Our Vision / Our Mission / One Source for Your Entire Network / PoE+ Solutions / Fiber Solutions / Structure LAN Solutions / Networking Rack Cabinets
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 191、switch 167、industrial 139、fibre 89、fiber 61、automation 58、ethernet 31、cable 27、gigabit 24、camera 21、surveillance 18、scada 15
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AEIN-PIG901, AEIN-PIG901-F, AE-PS8082SFT-M, AE250-PS1084SFTM-L3, AE-PS242SFT-M, AE600-24GP4TF-L3, AEIN-PSG484GF-M, AE800-48GP410GFL3-M, AE-ECO1106FE, AE-PSE1106GU, AE-PS104G-F, AE-PS104G-FF
 - **站内公开邮箱**：backoffice@aeconnect.co.in, info@aeconnect.co.in
 - **站内公开电话**：+91 92130 14368, +91 95379 10555

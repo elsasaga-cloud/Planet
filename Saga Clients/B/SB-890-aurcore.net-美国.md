@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-448XGGM(L3)
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-890.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.aurcore.net/　语言：en　站点地图 URL 数：81
+- **标题**：AurCore Technology
+- **描述**：AurCore Technology delivers high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S., scaled for the world.
+- **首页栏目**：AI Networking, Your Way. / Scale AI with 400G Ethernet / Your Network. Your Choice. / Take AurCore for a 60-Day Test Drive / Powering the networks behind AI innovation. / Partner-Driven Growth / AI-Ready Infrastructure / Support at Every Stage
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 53、sfp 44、data center 25、poe 23、industrial 22、10g 10、automation 2、ethernet 2、2.5g 1、distributor 1
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, AES8001, SFP28, AIS4001P, AIS2002P, AES6101, AES6002, AES4002P, AES4001P, AES2012P, AES2001P, AES8000
+- **站内公开邮箱**：info@aurcore.net
+- **社媒**：https://www.facebook.com/profile.php?id=61590648732019, https://www.instagram.com/aurcore.technology/, https://www.linkedin.com/company/aurcore-technology/, https://www.youtube.com/@AurCoreTechnology, https://x.com/AurCoreNetwork
+- **产品类页面**：https://www.aurcore.net/product-category；https://www.aurcore.net/product/1/aes2001；https://www.aurcore.net/product/21/aes6001；https://www.aurcore.net/product/22/aes6002；https://www.aurcore.net/product/24/aes6101；https://www.aurcore.net/product/25/aes6102
+- **已抓子页**：[AIS4001P / 8 x GE, 4 x 10 GE SFP+, L3 PoE+](https://www.aurcore.net/product/51/AIS4001P)；[AIS2002P / 8 x GE, 2 x GE SFP, PoE+](https://www.aurcore.net/product/31/AIS2002P)；[AES4002P / 48 x GE, 6 x 10 GE SFP+, L3 PoE+](https://www.aurcore.net/product/64/AES4002P)；[AES4001P / 24 x GE, 4 x 10 GE SFP+, L3 PoE+](https://www.aurcore.net/product/62/AES4001P)；[AES2001P / 8 x GE, 2 x GE, 2 x GE SFP, PoE+](https://www.aurcore.net/product/52/AES2001P)；[industrial-switches - AurCore - Network Products](https://www.aurcore.net/product-category/industrial-switches)
+- 首页正文摘录：About Us Solutions Products Support & Services Resources Partner More Where to buy Contact Us Loading... Network infrastructure company headquartered in Lake Forest, California, delivering enterprise and data center solutions engineered for the AI era. Subscribe to Newsletter Submit Products Data Center Switches Enterprise Switches Industrial Switches Accessories Company About Us Partners Contact Us Resources News Bl
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 24、PoE 23 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-890.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

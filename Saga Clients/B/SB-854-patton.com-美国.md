@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-02 → 2025-10-30）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-854.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.patton.com/　语言：未标　站点地图 URL 数：294
+- **标题**：Patton Electronics / US Manufactured Network Equipment
+- **描述**：Patton Electronics Company offers UC, cloud, & IoT-enabling solutions for carrier, enterprise & industry. Patton Electronics manufactures high-quality Patton VoIP gateways, eSBCs, Ethernet extenders, interface converters, and more. Patton's Swiss office, Inalp Networks, serves European markets.
+- **首页栏目**：Patton Brands / Patton LLC
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 459、industrial 423、switch 382、ethernet 292、poe 178、sfp 151、gigabit 84、automation 19、10g 17、telecom 17、media converter 12、scada 6
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS-232, FP2008E, PTP-10G4POE, FP1008E, FP2008EAT, FP1008EAT, FP2024E, RS-422, FP2005EBT, FP2008EAB, FP1004E, DB-25
+- **站内公开电话**：+1 240 912 1215, +1 240 912 1218, +1 240 912 1228, +1 240 912 2633, +1 240 912 2635, +1 301 975 1000
+- **社媒**：https://twitter.com/pattonconnect, https://twitter.com/share, https://www.facebook.com/PattonElectronics, https://www.fiberplex.com, https://www.fiberplex.com/products/vim-1808_8x8-tie-line-master, https://www.fiberplex.com/products/vim-1832_8x32-tail-master
+- **产品类页面**：https://www.patton.com/industrial-poe-switch/；https://www.patton.com/industrial-switch/；https://www.patton.com/managed-industrial-ethernet-switch/；https://www.patton.com/unmanaged-industrial-ethernet-switch/；https://www.patton.com/press/patton-releases-new-us-manufactured-c1d2-industrial-ethernet-switch/；https://www.patton.com/press/patton-presenta-su-nuevo-switch-ethernet-para-entornos-industriales/
+- **已抓子页**：[Industrial PoE Switches / PoE Industrial Switch](https://www.patton.com/industrial-poe-switch/)；[Artel Ignites Precision Networking with New Quarra PTP-10G4P](https://www.patton.com/press/artel-ignites-precision-networking-with-new-quarra-ptp-10g4poe-switch/)；[Managed Industrial Ethernet Switches](https://www.patton.com/managed-industrial-ethernet-switch/)；[Industrial Switches: Unmanaged Industrial Ethernet Switch](https://www.patton.com/unmanaged-industrial-ethernet-switch/)；[Industrial Switch: Understanding Industrial Ethernet Switch ](https://www.patton.com/industrial-switch/)；[Datacom Industrial Connectivity](https://www.patton.com/products/datacom-industrial-connectivity/)
+- 首页正文摘录：Toggle navigation COMPANY Contact Us About Patton Jobs Capabilities Quality & Responsibility Legal News & Events Press Room/Releases Training & Events Library/Downloads Other Websites Patton-Electronics.com FiberPlex.com ToneCommander.com Artel.com Raymar-Telenetics.com PracticalTechnologies.us SOLUTIONS PRODUCTS Unified Communications VoIP Adapters Fax Adapters VoIP Gateways VoIP Routers VoIP IADs - Integrated Acces
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 434、PoE 178 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-854.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -175,7 +192,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

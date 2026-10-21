@@ -75,7 +75,7 @@ updated: 2026-10-21
 - **标题**：Нүүр хуудас / Топика
 - **首页栏目**：Hotspot Configuration / Hotspot UI Configuration
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 158、10g 83、cisco 75、poe 40、switch 21、wifi 14、cable 14、wireless 8、2.5g 6、access control 6、mikrotik 6、ubiquiti 4
-- **站内出现的品牌**：MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, PLANET, D-Link, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, D-Link, Huawei, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SFP-10G-ZR, SRV10KRIRK, ESB23X-3LCD70, ESB32X-3LCD60, SFP-10G-BX40D, ESB23X-3LCD40, SFP-10G-BXD-I, ESB32X-3LCD10, SFP-10G-BXU-I, ESB23X-3LCD10, ESB5312-3LCD20, ESB5312-3LCD10
 - **站内公开邮箱**：%20info@topica.mn, engsoftllc@gmail.com, info@topica.mn, john_doe@domain.com
 - **站内公开电话**：003 1 2008 1 2012 1 2019 1

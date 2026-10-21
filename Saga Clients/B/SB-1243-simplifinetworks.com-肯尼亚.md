@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：The Master Distributor for networking and communications equipment for East and Central Africa
 - **首页栏目**：Sign Up For Our Newsletter Now / Information / Resources / Get In Touch / Huawei ekit AP771 outdoor WI-FI / Huawei eKit AR 180 Plus / Ubiquiti U7 Pro Max / D-Line Cable Protectors
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：distributor 19、wireless 12、telecom 9、gigabit 6、ubiquiti 6、switch 4、fiber 4、mikrotik 4、wifi 3、cable 3、installer 3、poe 2
-- **站内出现的品牌**：Huawei, Ubiquiti, Ruijie, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Huawei, Ubiquiti, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AR180, AP771, AC650-512AP, S530-24ST4XE, AR730, RG-M32, RG-M18, RG-EW300T
 - **站内公开邮箱**：info@simplifinetworks.com, kenya@simplifinetworks.com, uganda@simplifinetworks.com
 - **站内公开电话**：+254 727 401 262, +256 758 937 003

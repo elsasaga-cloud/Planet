@@ -96,7 +96,6 @@ updated: 2026-10-21
 - **标题**：Home
 - **首页栏目**：BHS / ASCEND WITH US / DTH Services / What We Do / Contribution Services / Terrestrial Services / News / Media Management
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 3、fiber 2、cable 1、axis 1
-- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：info@bhs-media.com
 - **站内公开电话**：+97145515523, +97145515524
 - **已抓子页**：[Products & Solutions](http://bhs-media.com/default.aspx?tabid=111)；[Contact Us](http://bhs-media.com/Contact-Us)

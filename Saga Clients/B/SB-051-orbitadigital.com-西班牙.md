@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Distributors and importers of telecommunications products, networks, fiber optics, multimedia, hdmi .. of the main brands in the market triax, televes, ikusi, Skykware, Vu+, Gigablue, Kathrein, Cabelcon, Ferguson
 - **首页栏目**：Dahua TPC-HT2201 Dahua portable thermographic camera for body… / Implaser EX222N No exit sign 29.7x15cm / CN-M6 - Screws, Rack mountable, Metric M6, 10 units, Nut,… / Hikvision intercom DS-KD-MFB/S Video intercom extension... / Ubiquiti UACC-CABLE-PATCH-EL-C6A-2M-W Premium, Cat 6A,... / Queen Alarm QAR-203 Lateral magnetic contact of high power,... / Stereo sound cable without terminals 2 wires 5m / Fermax 8855 CIty S5 flush box
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 55、hikvision 42、cable 39、cctv 30、camera 26、poe 22、ethernet 21、sfp 20、industrial 15、wireless 15、dahua 14、oem 12
-- **站内出现的品牌**：Allied Telesis, Hikvision, Dahua, Ubiquiti, Ajax, Paradox, Axis, ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Allied Telesis, Hikvision, Dahua, Ubiquiti, ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：DS-2DF6C632IWG1-ELW, AT-IE340-12GP-80, AT-GS980MX, ESB74173303, IE340, RJ-45, WD10EARZ, UX7-3, UX7-2, ZK-FHT2300D, IPC-PU8EP-6T0-0280B-IMOU, IPC-PU5EP-6T0-0360B-IMOU
 - **站内公开邮箱**：info@orbitadigital.com, your@email.com
 - **站内公开电话**：+34 644 409 003, +34 910 052 331, +34 931 702 776, +34 985 288 282, +34) 910 052 331, +34) 931 702 776

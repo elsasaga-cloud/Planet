@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Tipteh is a leading industrial automation company and we are constantly expanding the scope of its activities and product range.
 - **首页栏目**：AUTOMATION: Our passion, your success! / Let's create your competitive advantage / Having problem? We got solution! / In Tipteh, automation is our passion and your success! / Be on top of industrial automation. Stay informed! / XDR-E DIN Rail Power Supplies MEAN WELL / Basler 10GigE Cameras and Components for High-Speed Machine Vision / Basler Stereo mini 3D Camera for Robotics and Logistics
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 151、switch 97、camera 85、automation 72、ethernet 51、10g 17、cable 15、poe 10、fiber 5、surveillance 3、wireless 3、scada 1
-- **站内出现的品牌**：Extreme, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：GREYHOUND2000, BAT120, ROBOX300
 - **站内公开邮箱**：info@tipteh.ba, info@tipteh.mk, info@tipteh.rs, info@tipteh.si, tipteh@tipteh.hr
 - **站内公开电话**：+381 (0)11 8053 628, +385 (0)1 314 1550, +386 (0)1 200 5150, +387 33 452 427, +389 2 31 74 197

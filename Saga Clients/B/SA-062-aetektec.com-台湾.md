@@ -62,7 +62,7 @@ updated: 2026-10-21
 - **标题**：AETEK
 - **首页栏目**：Patent-awarded Ceiling PoE Solution / AETEK's L2 PRO PoE Switches integrated & managed by Milestone XProtect / H60-044-90-250
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 231、switch 45、camera 26、media converter 22、axis 22、surveillance 17、industrial 15、access control 14、sfp 5、cable 5、10g 2、ethernet 1
-- **站内出现的品牌**：Axis, Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：AT-101, D40-DC, H40-DC, D60-DC, D62-DC, H60-DC, AT-101-L, OS-110-360, OS-210-360, OS-210-600
 - **站内公开邮箱**：sales@aetektec.com
 - **站内公开电话**：+886282452822

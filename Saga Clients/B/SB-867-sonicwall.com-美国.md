@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-867.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.sonicwall.com/　语言：en　站点地图 URL 数：1139
+- **标题**：Cybersecurity That Delivers Real Business Outcomes / SonicWall
+- **描述**：Move beyond feature lists. SonicWall delivers cybersecurity aligned to the outcomes that matter—reducing risk through smarter configuration and real‑world performance.
+- **首页栏目**：Unified cybersecurity for better security outcomes. / One platform. Every layer of protection. / Setting the standard others follow. / Trusted by organizations that can’t afford downtime. / It’s time to move beyond the feature arms race. / Security measured by what actually matters. / Security you can trust. Protection that goes further. / Relentless protection. Never alone.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 45、wireless 33、sfp 19、poe 18、distributor 14、access control 3、wifi 3、automation 2、10g 2、industrial 1、scada 1、gigabit 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SWS14-48FPOE, SWS14-48, SWS14-24FPOE, SWS14-24, SWS12-10FPOE, SWS12-8POE, SWS12-8, SSC-9785, SSC-9786, SSC-9789, SSC-9790, SSC-9791
+- **社媒**：https://twitter.com/SonicWALL, https://www.facebook.com/SonicWall/, https://www.instagram.com/sonicwall_inc/, https://www.linkedin.com/company/sonicwall, https://www.youtube.com/user/SonicWALLVideo
+- **产品类页面**：https://www.sonicwall.com/resources/datasheet/sonicwall-switch；https://www.sonicwall.com/resources/videos/sonicwall-switch-video；https://www.sonicwall.com/resources/datasheet/switch-to-sonicwall-smb-firewall-bundle；https://www.sonicwall.com/resources/brief/role-of-switches-in-todays-distributed-networks；https://www.sonicwall.com/resources/brief/the-role-of-switches-in-todays-distributed-networks；https://www.sonicwall.com/resources/case-studies/kingdom-services-group-reaps-rewards-from-switching-to-sonicw…
+- **已抓子页**：[Business Network Switches with High-Power PoE / SonicWall](https://www.sonicwall.com/products/network-access-switches)；[SonicSentry MDR for Network Security / SonicWall](https://www.sonicwall.com/products/sonicsentry-mdr-for-network)；[Wireless Network Manager / SonicWall](https://www.sonicwall.com/products/secure-wireless/wireless-network-manager)；[SonicWall Network Security Manager / Firewall Management Sof](https://www.sonicwall.com/products/management-and-reporting/network-security-manager)；[Firewall & Network Security Services / Sonicwall](https://www.sonicwall.com/products/firewalls/security-services)；[Network Segmentation Solutions for Zero Trust / SonicWall](https://www.sonicwall.com/solutions/use-cases/network-segmentation)
+- 首页正文摘录：Partner portal Promotions Resources Blog Events en Open Search Bar Products SonicWall Unified Management SonicWall Unified Management is a single pane of glass tool purpose-built for MSPs, making managing complex security environments among multiple tenants easy and streamlined. Discover More Network security Next generation firewall (NGFW) Next generation firewall (NGFW) Hybrid Mesh Firewall Hybrid Mesh Firewall Man
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 18 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-867.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -151,7 +167,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

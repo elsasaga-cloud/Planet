@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：SWL Security Wholesale NZ is the official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control Security Wholesale is your Security Technology partner 100% NZ Owned and operated.
 - **首页栏目**：Login / Shopping Cart / Search / Products / Featured Products / Customer Service / Our Company / Contact Us
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 100、switch 70、camera 63、wireless 63、cable 29、sfp 27、cctv 24、access control 14、wifi 14、10g 8、nvr 8、automation 7
-- **站内出现的品牌**：Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：TAP-10, STB-10, MET-44, WI-IOTBOX01, SH2500, WI-PCES206, WI-PCES210G, WI-PCES218GF, WI-PCES226GF, WI-PCES306G, WI-PCES310G, WI-PCES310GF
 - **站内公开邮箱**：support@swl.co.nz
 - **社媒**：https://www.youtube.com/@swl-securitywholesalelimit9931/playlists

@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-29 → 2025-10-29）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 1、监控 37 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-728.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.perkotek.com/　语言：tr　站点地图 URL 数：8293
+- **标题**：Perkotek Parmak İzi Okuma / X Ray Cihazı / Turnike Ve Otopark Bariyeri
+- **描述**：Parmak izi okuma biyometrik sistemler parmak izi okuyucu yüz tanıma personel takip sistemi pdks turnike sistemi otopark bariyeri ve üst arama dedektörü.
+- **首页栏目**：Parmak İzi Okuma Sistemi / Parmak İzi Okuyucu / Personel Takip Sistemi / Turnike Sistemi
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 37、access control 3、wifi 2、switch 1、poe 1
+- **站内型号串**（正则抽取，含非交换机）：SC702, UK-560, CTC-940, TR3800, SC402, PT200, MN-180, MN-350, KP-50, PT210, SC905, UT-6600
+- **站内公开邮箱**：info@perkotek.com
+- **社媒**：https://twitter.com/perkotek, https://www.facebook.com/perkotek, https://www.instagram.com/perkotek, https://www.linkedin.com/in/perkotek, https://www.youtube.com/channel/UChxRFzKn9Vq-71GzItRCbDQ, https://www.youtube.com/watch?v=to6gvhXwmzk
+- **产品类页面**：https://www.perkotek.com/diger-urunler；https://www.perkotek.com/urun-brosurleri；https://www.perkotek.com/diger-urunler-2；https://www.perkotek.com/urun-yazilimlari；https://www.perkotek.com/one-cikan-urunler；https://www.perkotek.com/urun-koruma-anteni
+- **已抓子页**：[Magaza urun koruma sistemi - Perkotek](https://www.perkotek.com/magaza-urun-koruma-sistemi)；[Ürünleriniz ne kadar güvende! Sensitive Mağaza ürün güvenlik](https://www.perkotek.com/magaza-urun-koruma-sistemleri)；[Rf Mağaza Ürün Koruma Sistemleri / Radyo Frekanslı Ürün Güve](https://www.perkotek.com/rf-magaza-urun-koruma-sistemleri)；[Akusto Manyetik Ürün Koruma Sistemleri / 58 Khz Mağaza Ürün ](https://www.perkotek.com/akusto-manyetik-magaza-urun-koruma-sistemleri)；[Diğer Ürünler](https://www.perkotek.com/diger-urunler)；[Ürün Broşürleri](https://www.perkotek.com/urun-brosurleri)
+- 首页正文摘录：Firma Profili Başarı Hikayeleri Neden Biz ? Markalar & Distribütörlükler İnsan Kaynakları Bayi Girişi Bayilik Başvurusu Ürün Yazılımları Kullanım Kılavuzları Ürün Broşürleri Kalite Belgeleri Şartnameler Personel Devam Kontrol Sistemleri › Avuç İçi Damar İzi Tanıma Sistemi › Yüz Tanıma Terminalleri › Parmak İzi Terminalleri › Barkodlu Proximity Terminalleri › Kart Basma Saatleri › Personel Devam Kontrol Yazılımı Kapı 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 1、监控 37 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-728.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -95,7 +111,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 1、监控 37 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,7 +158,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

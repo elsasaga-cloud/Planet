@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.
 - **首页栏目**：Welcome To Luxrite Security Security You Can Trust / Request a Trade Account
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 67、poe 60、camera 32、switch 30、cable 25、sfp 18、10g 15、nvr 14、wireless 10、industrial 9、dahua 9、access control 7
-- **站内出现的品牌**：Ruijie, Ajax, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ruijie, Dahua, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：DHIPD40, RG-ES210GS-P, RG-NBS3100-24GT4SFP-P-V2, RG-ES228GS-P, RG-NBS5300-8MG2XS-UP, RG-ES110F-P, RG-ES110GS-P-L, RG-ES110GDS-P, RG-NBS3100-8GT2SFP, RG-NBS3100-8GT2SFP-P-V2, RG-NBS5500-12XS, RG-POE-AF15
 - **站内公开邮箱**：sales@luxritesecurity.com, technical@luxritesecurity.com
 - **站内公开电话**：+44 (0)1438 909168, +44 1438 909168, 000 (25) 10, 000 (64) 10

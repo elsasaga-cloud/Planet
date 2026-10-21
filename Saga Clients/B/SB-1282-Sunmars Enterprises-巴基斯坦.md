@@ -1,6 +1,7 @@
 # Sunmars Enterprises
+**官方名称（调研核实）**：SunMars Enterprises（Karachi）
 
-> **评级 B**　|　未填　|　档案编号 `SB-1282`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 B**　|　巴基斯坦　|　档案编号 `SB-1282`　|　优先级 ★★　|　状态：有回复·跟进中
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 15 次（2023-08-17 → 2024-10-21）　|　**所在清单**：WA仅电话　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -8,9 +9,11 @@
 code: SB-1282
 rating: B
 rating_auto: B
+name_official: "SunMars Enterprises（Karachi）"
 score: 5
-country: 未填
-region: 未知
+country: 巴基斯坦
+country_table: 未填  # 表内原填；调研纠正为 巴基斯坦（research JSON country_fix）
+region: 南亚
 website: sunmarsent.com
 type: 安防集成/经销
 tier_tags: ["WA仅电话"]
@@ -19,9 +22,9 @@ replies: 1
 followups: 15
 first_contact: 2023-08-17
 last_contact: 2024-10-21
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: STC-28DGGPM
+price_tier: 25%
+research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +32,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：未填的安防集成/经销；兴趣/在卖：网站：偏向CCTV 有很多办事处
+- **是谁**：巴基斯坦卡拉奇消防 / 安防系统集成商（Shahrah-e-Faisal, Raza Arcade）：火灾报警（Honeywell/Esser 类 FACP）、气体探测、气体灭火、PA、CCTV/IP 监控、门禁、停车与排队系统；1–10 人（ZoomInfo），营销 Aasma Nasir（2010 至今）；表内国家「未填」→ 更正巴基斯坦。2024-03 回复「问我是谁」，之后发了目录。（调研 2026-10-21；表内兴趣：网站：偏向CCTV 有很多办事处）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 WhatsApp 仅电话名单；-4 只有电话没有邮箱；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；-3 区域 未知/未填；+2 最近活动 2024；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 15 次（2023-08-17 → 2024-10-21）；最近一次客户回复：2024-03-21：问我是谁/2024.4.17 发了目录册
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV/IP 监控集成侧 8 口 PoE 管理型；消防系统不涉及。；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -42,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Sunmars Enterprises | 事实（用户表） |
-| 国家 | 未填 | 事实（用户表）|
+| 国家 | 巴基斯坦 | 事实（用户表）|
 | 网站/域名 | sunmarsent.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
 | 联系人 | Asma Nasir / Marketing | 事实（用户表） |
@@ -54,7 +57,43 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1282.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线但 403（sunmarsent.com 拒绝抓取；web 检索可达）
+- **是谁**：巴基斯坦卡拉奇消防 / 安防系统集成商（Shahrah-e-Faisal, Raza Arcade）：火灾报警（Honeywell/Esser 类 FACP）、气体探测、气体灭火、PA、CCTV/IP 监控、门禁、停车与排队系统；1–10 人（ZoomInfo），营销 Aasma Nasir（2010 至今）；表内国家「未填」→ 更正巴基斯坦。2024-03 回复「问我是谁」，之后发了目录。
+- **【官网】产品线：火灾报警、气体探测、灭火、PA、CCTV/IP、门禁、停车、排队**
+  > Fire Alarm System… Gas Detection System… CCTV / IP Surveillance System… Access Control System… Parking Management System… Queue Management System
+  > 来源：https://sunmarsent.com:8443/（抓取 2026-10-21）
+- **【名录】地址与联系：卡拉奇 Raza Arcade；0092-300-0770770**
+  > SUNMARS Enterprises is a leading company dealing in Fire Alarm & Gas Detection System alongwith CCTV… M-2, Mezzanine Floor, Raza Arcade, Main Sharah-e-Faisal… Karachi
+  > 来源：https://sunmars.enic.pk/（抓取 2026-10-21）
+- **【名录】负责人 Ghulam Mohuied Din；座机 92-21-34544758**
+  > Ghulam Mohuied Din… 923212755707, 92-21-34544758
+  > 来源：https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447（抓取 2026-10-21）
+- **【ZoomInfo】规模 1–10 人；Aasma Nasir 2010 至今**
+  > Sunmars Enterprise has 1-10 employees… Aasma Nasir… 2010-present
+  > 来源：https://www.zoominfo.com/p/Aasma-Nasir/2001568580（抓取 2026-10-21）
+- **【用户表】网站偏向 CCTV、有很多办事处；2024-03 回复问我是谁，2024-04 发了目录册**
+  > 网站：偏向CCTV 有很多办事处；回复：问我是谁/2024.4.17 发了目录册
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Asma (Aasma) Nasir（） +92 305 222 1659〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ghulam Mohuied Din（） +92 321 275 5707〔https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；国家更正））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | SunMars Enterprises |
+| 成立 | （名录称 1970，待核） |
+| 总部/地址 | M-2 Raza Arcade, Main Shahrah-e-Faisal, Karachi 75400, Pakistan |
+| 其他 | 消防为主、CCTV 为辅 |
+
+- **业务线**：火灾报警 / 气体探测 / 气体灭火（生命安全系统）；CCTV / IP 监控、门禁、PA；停车 / 排队 / 楼宇管理
+- **触达通道（公开）**：role: 消防 + 安防系统集成商；region: 巴基斯坦（卡拉奇）
+- **近况信号**：
+  - CCTV/IP 监控线需要 PoE 接入
+- **风险/边界**：守界：消防 / 生命安全系统本身不供（Saga 不做 life-safety 认证），仅供 CCTV 侧 PoE 交换机；公司极小（1–10 人）；无公开邮箱（需 WhatsApp）
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——CCTV/IP 监控集成侧 8 口 PoE 管理型；消防系统不涉及。
+- **邮件切入句（英文）**：（无邮箱；WhatsApp：For the CCTV side of your fire & security projects — 8-port PoE with 2 SFP uplinks, 1-pc sample, neutral packing; want the sheet?）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -102,6 +141,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Asma (Aasma) Nasir | — | +92 305 222 1659 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ghulam Mohuied Din | — | +92 321 275 5707 | 调研核实（公开页） | https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447 |
 | Asma Nasir | — | +03052221659 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单
@@ -118,28 +159,27 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：CCTV/IP 监控集成侧 8 口 PoE 管理型；消防系统不涉及。 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **W**：南亚：物流/收款/汇率摩擦高于主攻区
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -163,20 +203,19 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Asma,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. （无邮箱；WhatsApp：For the CCTV side of your fire & security projects — 8-port PoE with 2 SFP uplinks, 1-pc sample, neutral packing; want the sheet?）
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

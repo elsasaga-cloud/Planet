@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-03 → 2025-10-30）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-835.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.getscw.com/　语言：en　站点地图 URL 数：1168
+- **标题**：SCW - Commercial Security Cameras Systems for Businesses
+- **描述**：Security Camera Warehouse offers enterprise & commercial grade security cameras & CCTV systems, access control, and alarms.
+- **首页栏目**：Security Technology for Smarter Operations / Your Challenges: Our Solutions / Security / Operational Oversight / Solutions Trusted by Industry Leaders. / National Defense Authorization Act Compliant Equipment. / The Expertise To Design a Custom Solution / The Capacity To Meet Your Needs
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 145、nvr 59、surveillance 32、cable 19、access control 14、ethernet 4、cctv 3、wireless 3、installer 3、switch 1、poe 1、industrial 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SCW-CAT5-1000, SCW-CAT6-1000BL, SCW-NCC5-1000PL, SCW-NCC6-1000PL, PMC-SIAM-100, PMC-HDMI-010, PMC-SIAM-150, PMC-HDMI-015, SCW-PX-18P25A, SCW-C214, SCW-C218, SCW-VWMR-1U
+- **站内公开邮箱**：hello@getscw.com
+- **社媒**：https://www.linkedin.com/company/getscw/, https://www.youtube.com/c/SCWcameras
+- **产品类页面**：https://www.getscw.com/4-port-gigabit-poe-switch；https://www.getscw.com/8-port-smart-gigabit-poe-switch；https://www.getscw.com/installation-portal/poe-switches.php；https://www.getscw.com/scw-24-port-poe-switch-extended-transmission；https://www.getscw.com/scw-16-port-smart-poe-switch-with-extended-transmission；https://www.getscw.com/ptz-poe-injector-60w
+- **已抓子页**：[Commercial Security Systems & Solutions - SCW](https://www.getscw.com/commercial-cctv-systems.php)；[Contact SCW / Get in Touch with Our Security Experts](https://www.getscw.com/contact-us)；[Security Camera Accessories / CCTV Accessories](https://www.getscw.com/cctv-accessories)；[Desktop VMS - Viewstation](https://www.getscw.com/viewing/desktop-vms)；[Support-First Approach / SCW’s Commitment to Exceptional Ser](https://www.getscw.com/about-us/support-first)；[Security Project Management Services / SCW Expert Support](https://www.getscw.com/about-us/project-management)
+- 首页正文摘录：On-Demand Demo Sales: 828-483-4237 Support: 828-352-2242 Get A Quote Menu Products Services Industries Clients Resources Partners My Account Cart Contact Us 1-866-414-2725 Products Services Industries Clients Resources Partners Security Technology for Smarter Operations End-to-end security solutions that benefit every aspect of your company, agency. or non-profit. Instant On-Demand Demo ★ ★ ★ ★ ★ Rated 4.9/5 by thous
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 1、监控 239 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-835.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

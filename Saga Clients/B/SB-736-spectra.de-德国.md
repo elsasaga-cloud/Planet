@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-28）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-736.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://spectra.de/　语言：de-DE　站点地图 URL 数：1
+- **标题**：Spectra - Der Partner für Industrie-PC und Automation
+- **描述**：Spectra hat langjährige Erfahrungen in der Herstellung von Industrie-PC und der industriellen Automatisierung: ✓ Kompetent ✓ Zuverlässig ✓ Innovativ
+- **首页栏目**：Anwendungsspezifische Industrie-PCs / Führender Ausrüster in der Automation mit Industrie-PCs / Industrie-PCs & Automation im Fokus / Panel-PC Systeme / Box-PC Systeme / 19"-Rack Systeme / Industrie PC-Boards / Automation
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 100、ethernet 61、poe 43、automation 39、gigabit 30、industrial 10、sfp 6、10g 2、planet 1
+- **站内出现的品牌**：Schneider, ORing　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RGPS-R9244GP, IGPS-9084GP-LA, IGPS-9084GP-LA-24V, IGS-P9812GP-LV, IGS-9168GP, RGPS-92222GCP-NP, RGPS-92222GCP-NP-LP, RGPS-92222GCP-NP-P, TGPS-9084GT-M12X-BP2-WV, RGS-92222GCP-NP, RGS-92222GCP-NP-E, RGS-PR9000-HV
+- **站内公开邮箱**：info@spectra.de, sales@spectra.de
+- **站内公开电话**：+49 (0) 7121 1432-10, +49 7121 1432-10, +49 7121 1432-150
+- **已抓子页**：[Industrielle Ethernet Switches](https://spectra.de/produkte/industrielle-kommunikation/ethernet-switch)；[IT-Hardware Preise 2026: RAM, SSD, CPU / Spectra](https://spectra.de/news/industrie-pc-und-automation-news/news-uebersicht/ipc/preisentwicklung-bei-industrial-it-hardware)；[ORing Switches mit IEC 62443-4-2 / Spectra](https://spectra.de/news/industrie-pc-und-automation-news/news-uebersicht/aut/oring-switches-mit-iec-62443-4-2)；[Der Spectra Brand - Von Experten in Deutschland konzipiert](https://spectra.de/produkte/der-spectra-brand)；[Spectra PowerBox Serie - lüfterlos, vielfältig und erweiterb](https://spectra.de/produkte/der-spectra-brand/spectra-powerbox)；[Spectra Silent-w Serie - Panel PC mit IP65 rundum](https://spectra.de/produkte/der-spectra-brand/spectra-silent-w)
+- 首页正文摘录：Zum Hauptinhalt springen Zur Suche springen Zur Hauptnavigation springen Info Preisentwicklung bei RAM + SSD + CPU Deutsch Deutsch English Navigation Navigation Suche Merkzettel Mein Konto Menü schließen Ihr Konto Anmelden oder registrieren Übersicht Persönliches Profil Adressen Bestellungen Warenkorb 0,00 € Produkte Anwendungen Technologien Individualisierung Kontakt News Über Uns Industrie-PC Systeme Panel-PC Syste
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 15、PoE 43 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-736.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

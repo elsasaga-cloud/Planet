@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-28）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-823.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://enableit.com/　语言：en-US　站点地图 URL 数：324
+- **标题**：Ethernet Extender & PoE Extender Solutions / Enable-IT USA
+- **描述**：Enable-IT Ethernet Extender and PoE Extender Solutions Made In The USA, Superior Performance, Custom OEM Design Solutions Globally AS9100D certified
+- **首页栏目**：Ethernet Extender & PoE Extender Solutions Made in the USA Since 1982 / Superior Live Human Expert Tech Support / Enable-IT Solutions In Your Industry / Passive PoE Equipment: Turning Off Per-Port PoE Can Spell Disaster / The Wildlife Camera Problem: The Best Locations Are Where the Power Isn’t / Single Wire PoE Extender “Impossible” : Open Ocean Challenge / WHY CHOOSE US / WHAT WE DO
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 358、ethernet 168、switch 68、industrial 36、surveillance 34、oem 33、cable 31、camera 30、gigabit 23、telecom 18、automation 14、sfp 14
+- **站内型号串**（正则抽取，含非交换机）：AS9100D, RJ-45, AS9011D
+- **站内公开邮箱**：support@enableit.com
+- **产品类页面**：https://enableit.com/poe-switch-solutions/；https://enableit.com/industrial-poe-extender/；https://enableit.com/power-over-ethernet-poe-switch/；https://enableit.com/poe-testers/；https://enableit.com/passive-poe/；https://enableit.com/poe-distance/
+- **已抓子页**：[PoE Switch Solutions / Enable-IT USA Made / DC PoE Switch](https://enableit.com/poe-switch-solutions/)；[Industrial Waterproof Ethernet Extenders In Manufacturing](https://enableit.com/industrial-waterproof-ethernet/)；[Passive PoE : Turning Off Per-Port PoE Can Spell Disaster](https://enableit.com/passive-poe/)；[PoE Extender Solutions / Power & Data To 4,000 Ft / Enable-I](https://enableit.com/poe-extender/)；[PoE Calculator & Distance Link Planner](https://enableit.com/poe-calculator/)；[Enable-IT PoE Technology](https://enableit.com/poe-technology/)
+- 首页正文摘录：Skip to content (888) 309-0910 Mon - Fri: 5AM - 4PM PST PoE Extenders and Ethernet Extenders Search for: 0 SECURE SOLUTIONS Ethernet Extender PoE Extender PoE Injector / DC Power PoE Switch Solutions Custom OEM Extender GSA Schedule Ordering INDUSTRY USES Digital Signage Elevator & Lift Transportation Space Exploration Manufacturing Video Surveillance / Security Military Smart Parking HealthCare Education Government 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 44、PoE 358 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-823.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!
 - **首页栏目**：Popular categories / Next-generation workstation / Smart Smoke, Gas and Carbon Monoxide Sensor Set / 24-Port 2.5G RJ45 Switch with 10G SFP+ Port SP-SGT124S / Spacetronik LAN PoE & Fiber Optic Tester / Beat the autumn blues! / Bringing offices to life for autumn! / News View all
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 134、switch 109、camera 20、fiber 15、wholesale 7、poe 5、sfp 4、wireless 4、industrial 3、ethernet 3、10g 2、2.5g 2
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SPU-E01, SPS-E27S, SPD-KVM23, SPH-KVM23, SPU-M21, SPH-M620, SPH-M24, SP-SGT124S, SP-LTD8, SPU-WM20, MS-0932CL, MS-0916PL
 - **站内公开邮箱**：store@spacetronik.eu
 - **站内公开电话**：+48 611 11 04 52

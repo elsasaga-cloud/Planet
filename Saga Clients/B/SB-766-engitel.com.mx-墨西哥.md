@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,17 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-766.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.engitel.com.mx/　语言：未标　站点地图 URL 数：0
+- **标题**：Engitel S.A de C.V
+- **描述**：Brindar servicios de consultoría e implementación de soluciones a pequeñas y medianas empresas
+- **首页栏目**：Engitel / ¡ Con mas de 15 años de experiencia ! / ¿Quienes somos? / Misión / Visión
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 3
+- **已抓子页**：[Contacto](https://www.engitel.com.mx/contacto)
+- 首页正文摘录：Engitel Objetivo Servicios Capacitación Contacto Engitel ¡ Con mas de 15 años de experiencia ! ¿Quienes somos? Engitel SA de CV es una empresa que se sitúa en el sector de las Nuevas Tecnologías de Telecomunicaciones a nivel mundial. Surge con el objetivo de revolucionar las tecnologías de última generación, así como brindar servicios de consultoría e implementacín de soluciones a pequeñas y medianas empresas. Misión
+- 数据文件：`data/saga_clients/site_snapshots/SB-766.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +149,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -1,0 +1,33 @@
+{
+ "code": "SB-1274",
+ "name_official": "Morteza（伊朗；个人邮箱）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "伊朗个人联系人（yahoo/gmail），2024 年要价目、表情回复、问无关产品；伊朗口径降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 VC；回复 thanks, price list / 表情 / 问了不相关的东西",
+   "quote": "回复：thanks, price list；回复了一个表情；问了一个不相关的东西",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "伊朗：制裁 / 收款与物流不可控；且为个人联系人",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不主动跟进。"
+ },
+ "email_hook": "（不主动发送）"
+}

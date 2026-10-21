@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：BSC
 - **首页栏目**：Most searched for today / Wishlist / Shopping Cart / Our Catalog hide previews show previews / Products / Manufacturers / Contact Us / Deliver Intelligent Networks.
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 874、planet 837、switch 660、industrial 536、ethernet 431、gigabit 376、sfp 297、ubiquiti 174、wireless 98、fiber 78、cable 69、media converter 44
-- **站内出现的品牌**：PLANET, Ubiquiti, MikroTik　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti, MikroTik, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IGS-801T, WGS-4215-8T, WGS-803, WGS-804HPT, IGS-10020MT, IGS-500T, IPOE-171-95W, IGS-1600T, IPOE-162S, IECJ-400, RS232, RS422
 - **站内公开邮箱**：sales@bizsyscon.com
 - **站内公开电话**：+1 (636) 600-1400

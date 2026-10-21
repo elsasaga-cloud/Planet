@@ -1,0 +1,58 @@
+{
+ "code": "SB-036",
+ "name_official": "PT. Catur Citra Wisesa（印度尼西亚）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（yahoo；仅表内信息）",
+ "summary": "印尼公司 PT. Catur Citra Wisesa（Rizky Adi Prastanto），需求 5 电口带 PoE，2024-06 收 2 光 4 小壳邮件、2025-11 收 10G MC 邮件；无域名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 5 电口带 POE；回复：Email 发了 2 光 4 小壳信息；1120 email 发了 10G MC",
+   "quote": "兴趣：5电口带POE；回复：Email发了2光4小壳信息；1120email发了10gmc",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Rizky Adi Prastanto",
+   "title": "（表内联系人）",
+   "email": "rizkyadips@yahoo.com",
+   "phone": "+62 813 9956 8946",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "PT. Catur Citra Wisesa",
+  "founded": "",
+  "hq": "印度尼西亚",
+  "size": "（待核）",
+  "other": "yahoo 联系"
+ },
+ "channels": {
+  "role": "（未知，疑工程商/经销）",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "明确口型需求：5 口含 PoE"
+ ],
+ "risks": [
+  "无域名，主体可核性低"
+ ],
+ "saga_fit": {
+  "p1": "STI-054GP",
+  "tier": 25,
+  "why": "5 电口带 PoE → Saga STI-054GP（4 PoE + 1 GE 上行工业，$31.2/32.5/33.8）；商用桌面 5 口 PoE 按 HRUI 报并注明。"
+ },
+ "email_hook": "Rizky, for the 5-port PoE requirement — do you need the DIN-rail industrial version (−40~75 ℃) or a desktop commercial one? Both ship from 1 pc; I'll quote the right one."
+}

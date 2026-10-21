@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-12 → 2025-10-14）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-782.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.skyware.com.hk/en/index.php　语言：未标　站点地图 URL 数：0
+- **标题**：skyware - more than solution
+- **描述**：SkyWare is a leading innovator offering IP-based technology. Founded in 2001 and based in HK, all products are programmable, configurable and devices which can be connected via local network or via the internet, offering cost effective, reliable embedded solutions including Background Music, Paging,
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 15、switch 12、poe 9、industrial 9、automation 6、wifi 6、cable 4、media converter 3、wireless 3、data center 3
+- **站内型号串**（正则抽取，含非交换机）：HMP200
+- **站内公开邮箱**：sales@skyware.com.hk
+- **社媒**：http://www.barix.com, https://www.barix.com/solutions/audio-to-mobile-phones, https://www.barix.com/solutions/automation-control, https://www.barix.com/solutions/background-music, https://www.barix.com/solutions/intercom-paging, https://www.spinetix.com
+- **已抓子页**：[skyware - more than solution / about](http://www.skyware.com.hk/en/about.php)；[skyware - more than solution / contact](http://www.skyware.com.hk/en/contact.php)
+- 首页正文摘录：home • about • contact • reference Vuilian 2 to 1 serial combiner Viutron Touch Control Wallmount Panel (4 inch) Touch Control Wallmount Panel (10 inch) Touch Control Desktop Panel (10 inch) Network Serial Controller (1 serial) Network Serial Controller (4 serial) Imoware Digital Infrared Distribution System Chassis Matrix 4-channel HDBaseT Matrix/Splitter/Extender with Standard Receiver HDBaseT Faceplate with Poster
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 14、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-782.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +173,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

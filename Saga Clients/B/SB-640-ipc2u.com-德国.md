@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space with offices, qualified partners and distributors.
 - **首页栏目**：Industrial Automation Systems / IPC2U — Industrial Computing with Character / Key Features
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 131、automation 32、scada 2、gigabit 2、ethernet 1、integrator 1、moxa 1
-- **站内出现的品牌**：Extreme, Moxa, Advantech　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Moxa, Advantech　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RS-232, RS232, IP69K
 - **站内公开邮箱**：consultation@ipc2u.fr, sales@ipc2u.com, sales@ipc2u.cz, sales@ipc2u.de, sales@ipc2u.pl
 - **站内公开电话**：+33 (0)1 84 24 02 82, +420 727 965 000, +49 (0) 511 807 259-0, +49 511 807 259-0, +49 511 9427 4129, +886 (2) 2930 1196

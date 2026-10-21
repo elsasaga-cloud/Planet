@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975 qualità e innovazione nella sicurezza
 - **首页栏目**：Scopri le ultime novità Dodic! / Percorso formativo – CNA Roma / Corso Hikvision – Latina / Corso Risco – Roma Ovest / Corso Risco – Fiumicino / Corso Micromac – Latina / Corso UNV – Casoria / Corso UNV – Frosinone
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 5、integrator 2、distributor 1、uniview 1
-- **站内出现的品牌**：Uniview, Hikvision, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Uniview, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：marketing@dodic.it
 - **社媒**：https://www.facebook.com/dodic.1975, https://www.instagram.com/dodic_1975/, https://www.linkedin.com/company/652910/admin/dashboard/, https://www.youtube.com/@dodicelettronica
 - **已抓子页**：[Consulenza Prodotti - Dodic Group](https://www.dodicgroup.it/consulenza-prodotti/)

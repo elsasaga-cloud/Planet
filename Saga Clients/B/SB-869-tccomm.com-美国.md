@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2025-02-20 → 2025-11-04）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-869.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tccomm.com/　语言：未标　站点地图 URL 数：402
+- **标题**：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions
+- **描述**：TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks
+- **首页栏目**：Bringing your critical devices onto your network / Industries / Utilities / Public Safety / Government / Rail / Aviation / Oil & Gas
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 307、ethernet 293、fiber 150、media converter 54、industrial 33、gigabit 23、sfp 14、scada 13、2.5g 12、10g 9、camera 2、telecom 2
+- **站内型号串**（正则抽取，含非交换机）：RS-422, RS-232, TC3846-6, TC3848-1, TC3240, TC3340, TC3345, TC3844-1, TC3847-1, TC3847-1DR, TC3847-7, TC3212
+- **站内公开邮箱**：technicalsupport@tccomm.com
+- **站内公开电话**：+1 (949) 852-1972
+- **社媒**：http://www.linkedin.com/company/tc-communications_2, http://www.youtube.com/user/TCCommInc, https://www.youtube.com/@TCCommInc
+- **产品类页面**：https://www.tccomm.com/FiberOpticProducts/Products/Multiplexers/Ethernet/192/DIN-Rail-Industrial-Ethernet-Swit…；https://www.tccomm.com/FiberOpticProducts/Products/Multiplexers/Ethernet/248/Industrial-Ethernet-Switch-Main-M…；https://www.tccomm.com/JumboSwitch/Index/Industrial_Networking；https://www.tccomm.com/FiberOpticProducts/Products/Switches；https://www.tccomm.com/FiberOpticProducts/Products/Switches/Ethernet；https://www.tccomm.com/FiberOpticProducts/Products/Multiplexers/Ethernet/206/Industrial-VoIP
+- **已抓子页**：[Ethernet Switches - Transporting Over Ethernet Fiber - TC Co](https://tccomm.com/FiberOpticProducts/Products/Switches/Ethernet)；[Managed and Unmanaged Ethernet Fiber Optic Switches Products](https://tccomm.com/FiberOpticProducts/Products/Switches)；[TC Communications Offers Various Solutions for Leased Line R](https://tccomm.com/Solutions/Industrial-Network-Leased-Line-Replacement)；[Learn About TC's Industrial Ethernet Switch for Industry App](https://tccomm.com/IndustrialEthernetSolutions)；[Ethernet Multiplexers - Transporting Over Ethernet Fiber - T](https://tccomm.com/FiberOpticProducts/Products/Multiplexers/Ethernet)；[Ethernet Media Converters Modems & Media Converters - Conver](https://tccomm.com/FiberOpticProducts/Products/Modems-Media-Converters/Ethernet-Media-Converters)
+- 首页正文摘录：Toggle navigation Solutions Solutions Industries Utilities Public Safety Rail Systems Military & Government Aviation Oil & Gas Specialization Topics Leased Line Replacement SCADA Teleprotection Over IP Analog Radio Over Modern Networks Carrier Ethernet TDM over IP/Ethernet TCView® Network Management System Mode Converter Solutions Channel Bank Replacement Solutions Cybersecurity for JumboSwitch Grid Modernization Sol
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 47、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-869.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,7 +194,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

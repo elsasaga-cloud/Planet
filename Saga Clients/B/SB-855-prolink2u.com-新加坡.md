@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-855.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://prolink2u.com/　语言：en　站点地图 URL 数：49
+- **标题**：Prolink - Connect Your Life
+- **描述**：Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies, and more. Explore our wide range of easy plug-and-play solutions designed to simplify your everyday life. Delivering excellence and innovation to your
+- **首页栏目**：Item added to your cart / Connect your lights. / Connect your power. / Connect your safety. / Connect your home. / Connect your adventures. / Connect your data. / Data Comm
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 16、camera 14、automation 6、wireless 5、cable 4
+- **站内型号串**（正则抽取，含非交换机）：DS-3307, DS-3306, DL-7211, DS-3308, DS-3605, PRO700SFC, PRO901-ERS, DL-7203E, DS-3305P, DS-3305-20A, DS-3202M, DH-5202
+- **站内公开邮箱**：u003ewordsmithery.sg@gmail.com, wordsmithery.sg@gmail.com
+- **社媒**：https://www.facebook.com/global.prolink/, https://www.instagram.com/prolinkofficial/, https://www.linkedin.com/company/prolink2u/, https://www.youtube.com/user/PROLiNKGlobal/featured
+- **产品类页面**：https://prolink2u.com/blogs/discover/neutral-vs-non-neutral-smart-switches-a-homeowners-guide；https://prolink2u.com/blogs/discover/neutral-vs-non-neutral-wiring-what-you-need-to-know-before-choosing-a-sma…；https://prolink2u.com/sitemap_products_1.xml?from=6780634628169&amp;to=15815360053321；https://prolink2u.com/blogs/newsroom/prolink-attains-level-1-certification-of-the-cybersecurity-labelling-sche…；https://prolink2u.com/blogs/discover/intellisense-maximizing-productivity-with-prolinks-smart-charging-technol…；https://prolink2u.com/blogs/discover/power-up-your-2026-new-year-goals-with-prolink-s-smart-productivity-essen…
+- **已抓子页**：[Prolink / 5G Wi-Fi 6 Mobile Router](https://prolink2u.com/products/dl-7211)；[Smart Home Security Camera – Prolink](https://prolink2u.com/collections/smart-home-camera)；[Smart Zigbee Door/Window Sensor – Prolink](https://prolink2u.com/products/ds-3307)；[Smart Zigbee Hub – Prolink](https://prolink2u.com/products/ds-3306)；[Smart Zigbee PIR Motion Sensor – Prolink](https://prolink2u.com/products/ds-3308)；[Prolink / Smart Wi-Fi LED Bulb (5W, GU10)](https://prolink2u.com/products/ds-3605)
+- 首页正文摘录：Skip to content Data Comm Power Gadget Discover Log in Log in Search Cart Item added to your cart Check out Continue shopping Data Comm Power Gadget Discover Smart Lighting Series Connect your lights. Home automation redefined as living art. The Smart Touch Control Panel is the vibrant heartbeat of your connected world. Stitching light, comfort, and peace of mind into one seamless experience. SHOP NOW DISPLAY CHARGER
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-855.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

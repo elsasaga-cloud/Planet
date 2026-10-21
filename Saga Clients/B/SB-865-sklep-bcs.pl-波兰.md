@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 6
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-07 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +71,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-865.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.sklep-bcs.pl/　语言：pl　站点地图 URL 数：0
+- **标题**：BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
+- **描述**：Autoryzowany dystrybutor urządzeń marki BCS do telewizji przemysłowej, monitoringu IP, AHD, HD-CVI - kamery, rejestratory, obiektywy, klawiatury ptz, monitory przemysłowe. BCS LINE, BCS POINT, BCS BASIC, VIEW, ULTRA.
+- **首页栏目**：KONFIGURATOR / WYPRZEDAŻ (25) / NOWOŚCI (10) / PROMOCJE (105) / Polecane / Nowości / Promocje / Wyprzedaż
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 106、switch 85、sfp 18、gigabit 15、cctv 7、tp-link 3、ethernet 1、10g 1、nvr 1、ubiquiti 1
+- **站内出现的品牌**：TP-Link, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, BCS-L-SP0802G, BCS-B-SP2402G-1SFP, BCS-B-SP04G02G, BCS-B-SP0402, BCS-B-SP08G02G, BCS-V-SIP2425SR10, RJ-45, BCS-V-SIP2425SR10-AI2, STLWMC-4U-645-GSB, TL-SF1008P, BCS-P-TIP14FSR3L3-AI
+- **站内公开邮箱**：biuro@sklep-bcs.pl
+- **社媒**：https://facebook.com/sklepbcs, https://www.youtube.com/channel/UC2Ch0oQ6iviZUiNpUy1U1bA, https://www.youtube.com/watch?v=PsAYcMUrlH8
+- **已抓子页**：[BCS-B-SP0402 BCS switch PoE 6 portowy (4x PoE)](https://www.sklep-bcs.pl/switche/bcs-b-sp0402-bcs-switch-poe-6-portowy-4x-poe-1776)；[BCS-B-SP2402G-1SFP BCS Basic switch PoE 24 portowy](https://www.sklep-bcs.pl/switche/bcs-b-sp2402g-1sfp-bcs-basic-switch-poe-24-portowy-2713)；[BCS-B-SP04G02G BCS switch PoE 6 portowy (4x PoE, 2x Uplink)](https://www.sklep-bcs.pl/switche/bcs-b-sp04g02g-bcs-switch-poe-6-portowy-4x-poe-2x-uplink-1768)；[BCS-L-SP0802G(2) BCS inteligentny switch PoE 10 portowy](https://www.sklep-bcs.pl/switche/bcs-l-sp0802g2-bcs-switch-poe-10-portowy-8x-poe-100m-2x-rj45-uplink-2672)；[BCS-B-SP08G02G BCS Basic switch PoE 10 portowy (8xPoE Gigabi](https://www.sklep-bcs.pl/switche/bcs-b-sp08g02g-bcs-basic-switch-poe-10-portowy-8xpoe-gigabit-2xuplink-1790)；[BCS-V-SIP2425SR10-Ai2(2) BCS View kamera obrotowa IP 4Mpx zo](https://www.sklep-bcs.pl/kamery-ip-obrotowe/bcs-v-sip2425sr10-ai22-bcs-view-kamera-obrotowa-ip-4mpx-zoom-25x-ir-100m-poe-4148)
+- 首页正文摘录：x Ładowanie ... Zamknij Pomoc Twoje konto Toggle navigation Menu Sugerowane kategorie: Zobacz pełne wyniki wyszukiwania Pomoc Kontakt Poniedziałek - piątek 8:00 - 16:00 Stanisława Sulimy 1 / 228, Elbląg 55 619 30 05 kontakt serwis i dział handlowy Informacje Dane sklepu Regulamin Polityka prywatności Kody rabatowe Zakupy Dostawa Serwis i reklamacje Zwrot Gwarancja Twoje konto Zaloguj się do swojego konta Zaloguj się 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 106、监控 8 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-865.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -183,7 +199,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

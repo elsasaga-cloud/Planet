@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Discover quality products with secure checkout and fast delivery.
 - **首页栏目**：Quick Links / Customer Service / Stay Connected / Google Assistant / Smart bots / Up to 40% / Tech surpport / Cloud Integration
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 26、gigabit 24、cisco 20、ethernet 16、2.5g 16、sfp 14、fiber 14、poe 11、cable 7、automation 5、10g 2、camera 2
-- **站内出现的品牌**：Cisco, PLANET, Ubiquiti, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco, Ubiquiti, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RTL8125B, SFP-10G-LR, IEEE802, RTL8125, TX201
 - **站内公开电话**：000.00 - 10, 000.00 - 12
 - **已抓子页**：[8 Port Gigabit PoE Switch with 2 Gigabit Uplink, 8 PoE+ Port](https://gigaxysafe.com.ng/products/8-port-gigabit-poe-switch-with-2-gigabit-uplink-8-poe-port-1000mbps-1-sfp-port-120w-802-3af-at-metal-play-ai-smart-detection-ethernet-switch-desktop-or-wall-mount-black)；[2 Port 2.5Gb PCIe Network Card, Dual LAN Port 2.5 Gigabit Et](https://gigaxysafe.com.ng/products/2-port-2-5gb-pcie-network-card-dual-lan-port-2-5-gigabit-ethernet-interface-adapter-with-realtek-rtl8125b-support-nas-pc-2-5g-nic-compliant-windows-linux-mac-os)；[2.5 Gigabit PCIe Network Adapter](https://gigaxysafe.com.ng/products/2-5-gigabit-pcie-network-adapter)；[Ciscoisr4431/K94431router,Gigabitethernet,4gbram,8gb](https://gigaxysafe.com.ng/products/ciscoisr4431-k94431router-gigabitethernet-4gbram-8gb)；[Cisco 4400 Series 4431 Integrated Service Router Isr4431/](https://gigaxysafe.com.ng/products/cisco-4400-series-4431-integrated-service-router-isr4431)；[All Products / Gigaxysafe](https://gigaxysafe.com.ng/products)

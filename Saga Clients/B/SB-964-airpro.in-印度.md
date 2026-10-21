@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-964.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://airpro.in/　语言：en-US　站点地图 URL 数：15
+- **标题**：Home - AirPro - Best Wireless WiFi Router, Networking Products for Home & Business
+- **描述**：AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions, esp. DISCOVER MORE JUST ARRIVED OUR NEWEST PRODUCTS WLAN APs and Controllers Outdoor Access Point PoE Switch Fiber Access PoE L2 Managed Switch WLAN APs and Controllers AirPro
+- **首页栏目**：Ceiling AP / In-Wall AP / Outdoor AP / Standard Controller / Smart Controller / Enterprises / Access / Unmanaged Switch
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 94、switch 92、ethernet 21、wifi 15、sfp 14、industrial 11、cable 10、fiber 9、camera 9、gigabit 7、surveillance 7、wireless 6
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, AP-IGS9014P, AP-PX411, AP-ES106P, AP-ES108P-2GE, AP-ES1216, AP-ESG1906P, AP-ESG1906-2SF, AP-ESG1910P-2GE, AP-ESG1910P-2SF, AP-GS1008, AP-SG1016
+- **站内公开邮箱**：example@gmail.com, nsales@airpro.ae
+- **产品类页面**：https://airpro.in/what-is-a-poe-switch-and-why-use-it-how-does-power-over-ethernet-switch-work/；https://airpro.in/product-guide/
+- **已抓子页**：[Industrial PoE Switch Archives - AirPro - Best Wireless WiFi](https://airpro.in/portfolio-category/industrial-poe-switch/)；[What Is a PoE Switch and Why Use It? – How does Power over E](https://airpro.in/what-is-a-poe-switch-and-why-use-it-how-does-power-over-ethernet-switch-work/)；[PoE Switch Archives - AirPro - Best Wireless WiFi Router, Ne](https://airpro.in/category/poe-switch/)；[Unmanaged Switch Archives - AirPro - Best Wireless WiFi Rout](https://airpro.in/portfolio-category/unmanaged-switch/)；[Contact - AirPro - Best Wireless WiFi Router, Networking Pro](https://airpro.in/contact/)；[Partner - AirPro - Best Wireless WiFi Router, Networking Pro](https://airpro.in/partner/)
+- 首页正文摘录：WiFi Ceiling AP In-Wall AP Outdoor AP WLAN Controllers Standard Controller Smart Controller Switching Enterprises Access Unmanaged Switch Outdoor Bridge Outdoor P2P/P2M 4G/5G CPE Indoor Router Outdoor Router Fiber Access Media convertor SFP Transceiver Contact Resources Datasheet Partner E-Brochures E-Mailers OUR PRODUCT CATEGORY Find the Product That’s Right for You Layer-3 Switch Learn More WiFi Learn More Layer-2 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 11、PoE 94 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-964.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +163,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-07-09 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-856.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://promeshswitch.com/　语言：de-DE　站点地图 URL 数：17
+- **标题**：Home - PROmesh
+- **描述**：Die Serie der PROmesh Switches umfasst drei Familien leistungsfähiger Switches für alle industriellen Anwendungen.
+- **首页栏目**：PROmesh B8 compact / Hochfunktionale Netzwerk-Technik / "Wenn Switch, dann PROmesh, denn wir Einkäufer wissen worauf es ankommt." / Bestpreise für Netzwerkprofis! / PROmesh P Switches / Unsere Favoriten / PROmesh P9+ / PROmesh P10+
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 220、sfp 60、poe 30、industrial 10、automation 5
+- **站内公开邮箱**：info@indu-sol.com
+- **站内公开电话**：+49 (0)34491
+- **社媒**：https://www.youtube.com/embed/VhBl3dHT5SY?feature=oembed?playlist=VhBl3dHT5SY&mute=0&autoplay=0&loop=no&controls=0&start=0&end=
+- **产品类页面**：https://promeshswitch.com/product/promesh-b12-poe/；https://promeshswitch.com/product/promesh-p9/；https://promeshswitch.com/product/promesh-b8/；https://promeshswitch.com/product/promesh-u3/；https://promeshswitch.com/product/promesh-u5/；https://promeshswitch.com/product/promesh-u8/
+- **已抓子页**：[Home - PROmesh](https://promeshswitch.com)；[Home - PROmesh](https://promeshswitch.com)；[Home - PROmesh](https://promeshswitch.com)；[Home - PROmesh](https://promeshswitch.com)
+- 首页正文摘录：Angebot des Tages! High Performance Industrie Switch PROmesh P9+ für 921,50 € 645,00 € ! High Performance Industrie Switch PROmesh P10+ für 1.421,00 € 994,70 € ! High Performance Industrie Switch PROmesh B8 für 413,40 € 289,00 € ! High Performance Industrie Switch PROmesh B8 compact für 762,50 € 534,00 € ! High Performance Industrie Switch PROmesh B16 für 677,50 € 447,25 € ! High Performance Industrie Switch PROmesh 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 15、PoE 30 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-856.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

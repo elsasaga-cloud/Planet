@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-822.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ecrin.com/　语言：fr　站点地图 URL 数：398
+- **标题**：ECRIN Systems, l'innovation embarquée au coeur de vos systèmes !
+- **描述**：Concepteur et fabricant de calculateurs durcis, serveurs embarqués et solutions informatiques industrielles adaptés aux environnements les plus extrêmes.
+- **首页栏目**：ECRIN Systems L’innovation embarquée au cœur de vos systèmes / Innovation, personnalisation et fiabilité : notre engagement pour vos projets / Des solutions qualifiées pour les environnements les plus exigeants / Défense, Aéronautique & Sécurité / Industrie / Naval / Spatial / Systèmes d'Information & de Communication
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 85、ethernet 35、10g 12、fibre 10、gigabit 9、industrial 7、fiber 6、cable 4、sfp 2、access control 2、oem 2、odm 2
+- **站内出现的品牌**：D-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CRYSTAL-23, MIL-DTL-38999, DO-160, MIL-STD-810, MIL-STD-461, VPX-3U, LGA1700, DO-160G, MIL-STD-461G, MIL-STD-810G, MIL-STD-1275E, RS-422
+- **站内公开邮箱**：info@ecrin.com, sales@ecrin.com
+- **站内公开电话**：+33 (0)4 76 92 20 01
+- **产品类页面**：https://ecrin.com/quartz-switch-durcis；https://ecrin.com/en/quartz-rugged-switch；https://ecrin.com/en/opale-v2-industrial-pc-and-d-servers；https://ecrin.com/en/guides-and-news/what-is-a-ruggedized-switch；https://ecrin.com/guides-et-actualites/quest-ce-quun-switch-durci；https://ecrin.com/soce-solutions-de-communication/switch-durci-tsn
+- **已抓子页**：[Catalogue produit / ECRIN Systems](https://ecrin.com/catalogue-produits)；[Switches et routeurs Ethernet durcis QUARTZ / ECRIN Systems](https://ecrin.com/quartz-switch-durcis)；[Switch Ethernet durci et compact QUARTZ 10 ports Ethernet / ](https://ecrin.com/quartz-switch-durcis/switch-durci-et-compact-quartz)；[Découvrir tous nos produits ECRIN Systems](https://ecrin.com/produits-ecrin)；[Ma liste de produit /ECRIN Systems](https://ecrin.com/produits-favoris)；[Nos produits partenaires / ECRIN Systems](https://ecrin.com/produits-partenaires)
+- 首页正文摘录：Produits Retour Produits ECRIN Calculateurs durcis - ONYX Calculateur embarqué ONYX Calculateur embarqué nanoONYX Calculateur embarqué nanoONYX-rd Calculateur embarqué nanoONYX-USB3 Calculateur embarqué nanoONYX-SDI Calculateur embarqué nanoONYX-CAN Calculateur embarqué ONYX-AGX Calculateur embarqué ONYX-Ultra Tout voir Calculateur durcis - TOPAZE Calculateur durci µTOPAZE Tout voir Consoles durcies - CRYSTAL Console
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-822.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +164,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

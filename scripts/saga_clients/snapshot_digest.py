@@ -37,10 +37,20 @@ BRANDS = {
     r'\bintellinet\b': 'Intellinet', r'\bextralink\b': 'Extralink', r'\bpulsar\b': 'Pulsar', r'\bvivotek\b': 'Vivotek',
     r'\bhanwha\b|\bwisenet\b': 'Hanwha', r'\bbosch\b': 'Bosch', r'\bmilesight\b': 'Milesight', r'\bajax\b': 'Ajax',
     r'\bparadox\b': 'Paradox', r'\bzkteco\b': 'ZKTeco', r'\bfortinet\b': 'Fortinet', r'\bjuniper\b': 'Juniper',
-    r'\bextreme\b': 'Extreme', r'\ballied telesis\b': 'Allied Telesis', r'\bsmartbyte\b': 'SmartByte（！）',
+    r'\ballied telesis\b': 'Allied Telesis', r'\bsmartbyte\b': 'SmartByte（！）',
     r'\bhrui\b|\bhongrui\b': 'HRUI（！）', r'\bhohunet\b': 'Hohunet（！）', r'\bsaga ?tele': 'Saga（！）',
 }
-BRAND_RE = [(re.compile(k, re.I), v) for k, v in BRANDS.items()]
+# 常用词同名品牌：改为大小写敏感 / 带限定词，避免 extreme conditions / ajax 脚本 / the planet / x-axis / paradox 污染
+for _k in [r'\bplanet\b', r'\baxis\b', r'\bajax\b', r'\bparadox\b']:
+    BRANDS.pop(_k, None)
+BRANDS_CS = {
+    r'\bPLANET\b|[Pp]lanet [Tt]echnolog|planet\.com\.tw|planetechusa': 'PLANET',
+    r'\bAXIS\b|[Aa]xis [Cc]ommunications|[Aa]xis [Cc]amera': 'Axis',
+    r'\bAJAX\b|[Aa]jax [Ss]ystems|[Aa]jax [Hh]ub|[Aa]jax [Aa]larm|[Aa]jax [Ss]ecurity': 'Ajax',
+    r'\bPARADOX\b|[Pp]aradox [Ss]ecurity|[Pp]aradox [Aa]larm': 'Paradox',
+    r'[Ee]xtreme [Nn]etworks|\bEXTREME\b': 'Extreme',
+}
+BRAND_RE = [(re.compile(k, re.I), v) for k, v in BRANDS.items()] + [(re.compile(k), v) for k, v in BRANDS_CS.items()]
 # 监控/建站平台产生的伪邮箱（sentry/wix 哈希、example、图片名等）
 JUNK_EMAIL = re.compile(r'(sentry|wixpress|example\.|@.*\.(png|jpg|jpeg|gif|svg|webp)$|^[0-9a-f]{24,}@|noreply|no-reply|schema\.org)', re.I)
 
@@ -124,9 +134,10 @@ def digest_one(snap):
         if kind == 'sub':
             sub_titles.append({'title': (p.get('title') or p.get('nav_text') or '')[:120],
                                'url': unquote(p.get('final_url') or p.get('url') or '')})
-    text_low = ' '.join(text_all).lower()
+    text_raw = ' '.join(text_all)
+    text_low = text_raw.lower()
     for rx, name in BRAND_RE:
-        n = len(rx.findall(text_low))
+        n = len(rx.findall(text_low if (rx.flags & re.I) else text_raw))
         if n:
             brands[name] += n
     d['kw'] = {k: kw[k] for k in KW_ORDER if kw.get(k)}

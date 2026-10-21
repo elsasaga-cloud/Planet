@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-31）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-955.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ssd.ru/　语言：ru　站点地图 URL 数：7715
+- **标题**：ССД - Разработка и производство материалов для строительства и ремонта линий связи
+- **描述**：Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта линий связи и энергетики. Выгодные условия сотрудничества для юр. лиц и ИП. Оптовые поставки оборудования по всей России
+- **首页栏目**：СВЯЗЬСТРОЙДЕТАЛЬ — лидер рынка решений для телекоммуникационных сетей / Популярные категории / Новости / Полезные статьи / Новое решение для размещения запаса кабеля УПМК-П / Проходная оптическая муфта МПО-Ш4 / Новая тупиковая оптическая муфта МТОК-ЛА9 / Подписаться на рассылку
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 1
+- **站内型号串**（正则抽取，含非交换机）：RAL9005
+- **站内公开邮箱**：ekb@ssd.ru, krasnodar@ssd.ru, mail@ssd.ru, nn@ssd.ru, novosib@ssd.ru, spb@ssd.ru
+- **站内公开电话**：+7 (343) 302-54-34, +7 (383) 312-04-34, +7 (495) 786, +7 (495) 786-34-34, +7 (495) 909-96-96, +7 (812) 209-24-34
+- **社媒**：https://t.me/ssdtyt, https://vk.com/svyazstroidetal, https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA, https://yandex.com/maps/-/CLfkbX8Y
+- **产品类页面**：https://ssd.ru/catalog/；https://ssd.ru/catalog/stroitelstvo-obektov-infrastruktury-svyazi/；https://ssd.ru/catalog/stroitelstvo-obektov-infrastruktury-svyazi/zhelezobetonnye-izdeliya-dlya-kabelnoy-kanal…；https://ssd.ru/catalog/stroitelstvo-obektov-infrastruktury-svyazi/zhelezobetonnye-izdeliya-dlya-kabelnoy-kanal…；https://ssd.ru/catalog/stroitelstvo-obektov-infrastruktury-svyazi/zhelezobetonnye-izdeliya-dlya-kabelnoy-kanal…；https://ssd.ru/product/
+- **已抓子页**：[Контакты / Компания ССД](https://ssd.ru/contacts/)；[Витая пара / Компания ССД](https://ssd.ru/catalog/stroitelstvo-obshchegorodskikh-i-zagorodnykh-obektov/strukturirovannye-kabelnye-sistemy/vitaya_para/filter/brand:suprlan/)；[Кросс ШКОС-Л -3U/6 -96 -SC ~96 -SC/SM ~96 -SC/UPC / Компания](https://ssd.ru/product/kross-shkos-l-3u-4-96-sc-96-sc-sm-96-sc-upc-/)；[Шкаф телеком. напольный серверный ЦОД 19",45U(800x1200) , ШТ](https://ssd.ru/product/shkaf-telekom-napolnyy-servernyy-tsod-19-quot-45u-800x1200-sht-np-stsd-45u-800-1200-p2p-perednyaya-d/)；[О компании ССД - Производитель инновационных решений для вол](https://ssd.ru/about/)；[Каталог](https://ssd.ru/catalog/)
+- 首页正文摘录：Реквизиты Доставка и оплата Прайс-лист Контакты Тема: Светлая Тема: Как в системе Тема: Светлая Тема: Темная Каталог Везде Искать Везде Название Описание товара BIM-модели Документы Войти Избранное 0 Сравнение 0 Корзина Каталог О компании О нас Юр. документы Вакансии Контакты Решения Где купить Проектировщикам Чертежи и BIM-модели Отправить запрос Клиентам Прайс-лист Документация Доставка и оплата Программа лояльност
+- 数据文件：`data/saga_clients/site_snapshots/SB-955.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +172,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

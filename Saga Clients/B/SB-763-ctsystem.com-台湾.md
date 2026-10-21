@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-21 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-763.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ctsystem.com/en/　语言：en-GB　站点地图 URL 数：635
+- **标题**：Connection Technology Systems Inc.
+- **描述**：Founded in Taiwan in 1998, CTS is an in-house designer, manufacturer and leading network solution provider for fiber communication products.
+- **首页栏目**：New Products / Latest News / NEWS LETTER / Copyright 2026 Connection Technology Systems Inc. / Taiwan / Sweden / Austria / Japan
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 244、poe 162、industrial 149、fiber 120、ethernet 96、media converter 65、sfp 43、10g 21、cable 19、surveillance 16、gigabit 13、camera 2
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, SRS-3106-4BT, EPS-5112-8BT, EPS-3128, SFF-8472, ESW-5128, ESW-5112-2MG, ESW-3128, CVT-5102SFP-MG, HES-5105SFP, IPS-5112-8BT, IPS-5112
+- **站内公开邮箱**：%20cts_ce@ctsystem.com, %20cts_japan@ctsystem.com, %20cts_us@ctsystem.com, %20info@ctsystem.com, %20info@ctsystem.se, cts_ce@ctsystem.com
+- **站内公开电话**：+15-1-0509-0305, +43-1-2350-5660, +43-1-343-9553-50, +46-3-1221-980, +81-6-6450-8890, +886-2-2698-9661
+- **社媒**：https://www.linkedin.com/company/ctsystem/?original_referer=https%3A%2F%2Fwww.ctsystem.com%2F, https://www.youtube.com/channel/UCk927AUhk0cSIhxTk48wW7g/about
+- **产品类页面**：https://www.ctsystem.com/en/news/product-news/cts-proudly-reveals-an-enhanced-10-port-managed-industrial-poe-s…；https://www.ctsystem.com/en/news/enhanced-6-port-managed-industrial-poe-switch-released-by-cts/；https://www.ctsystem.com/en/news/product-news/cts-releases-new-industrial-switches-ips-3110-and-ies-3110/；https://www.ctsystem.com/en/news/product-news/cts-proudly-reveals-a-brand-new-28-port-managed-180w-poe-switch/；https://www.ctsystem.com/en/news/product-news/cts-announces-the-latest-industrial-poe-media-converter-solution…；https://www.ctsystem.com/en/news/product-news/enjoy-your-network-immediately-with-cts-unmanaged-switch/
+- **已抓子页**：[Industrial PoE Switch - Connection Technology Systems Inc.](https://www.ctsystem.com/en/product/industrial/industrial-poe-switch/)；[PoE Switch - Connection Technology Systems Inc.](https://www.ctsystem.com/en/product/fiber-switch/poe-switch/)；[Industrial Ethernet Switch - Connection Technology Systems I](https://www.ctsystem.com/en/product/industrial/industrial-ethernet-switch/)；[Rugged PoE Switch - Connection Technology Systems Inc.](https://www.ctsystem.com/en/product/rugged/rugged-poe-switch/)；[Ethernet Switch - Connection Technology Systems Inc.](https://www.ctsystem.com/en/product/fiber-switch/ethernet-switch/)；[Industrial PoE Converter - Connection Technology Systems Inc](https://www.ctsystem.com/en/product/industrial/industrial-poe-converter/)
+- 首页正文摘录：Skip to content Contact Us Global 日本語 Europe Product Fiber Switch Fiber Access Switch PoE Switch Ethernet Switch CPE Switch Fiber Gateway Fiber Media Converter Standalone Media Converters Compact Media Converter Home Size Media Converters PoE Converter Chassis Rugged Rugged PoE Switch Rugged Switch Rugged PoE Converter Rugged Converter Industrial Industrial PoE Switch Industrial Ethernet Switch Industrial PoE Convert
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 149、PoE 162 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-763.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

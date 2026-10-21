@@ -22,7 +22,7 @@ last_contact: 2026-10-20
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-02-18 → 2026-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-757.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.billion.com/　语言：en　站点地图 URL 数：503
+- **标题**：Welcome to Billion Electric / The Future is Now
+- **描述**：Billion Electric provides smart energy infrastructure & storage systems. Contact us to learn about our innovative solutions.
+- **首页栏目**：Connected Energy. Greater Efficiency. Stronger Resilience. / MWh + / MWp + / Units / News / Billion Watts Australia Advances Paperless Operations with E-Signature / Product Video / Energy Storage Integrated System
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 25、poe 15、telecom 14、distributor 5、automation 4、wireless 4、switch 3、oem 3、ethernet 2、odm 2、integrator 2、scada 1
+- **站内型号串**（正则抽取，含非交换机）：BEVC-480K, MX-600, MX-1200, AX1500, SG6400NXL, MX-210NP, MX-221P, SG6300NZL, SG6300NXL, MX-200, MX-1000
+- **站内公开邮箱**：marketing@billion.com, power@billion.com, sales@billion.com, sales@billion.com.tw
+- **站内公开电话**：+886-2-2914-5665
+- **社媒**：https://instagram.com/billion_global/, https://www.facebook.com/billion.electric.group, https://www.linkedin.com/company/billionelectric-group, https://www.youtube.com/@billion-electric-group, https://www.youtube.com/@billion-electric-group/videos
+- **产品类页面**：https://www.billion.com/power/poe-injector-series；https://www.billion.com/power/poe-injector-series/30W；https://www.billion.com/power/poe-injector-series/35W；https://www.billion.com/zh-tw/power/poe-injector-series；https://www.billion.com/zh-tw/power/poe-injector-series/35W；https://www.billion.com/zh-tw/power/poe-injector-series/30W
+- **已抓子页**：[Product Development / Billion Electric](https://www.billion.com/About-Billion/product-development)；[C & I Integrated Energy Solutions / Billion Electric](https://www.billion.com/industrial-commercial-energy-optimization)；[PoE Injector Series｜Power｜Billion Electric](https://www.billion.com/power/poe-injector-series)；[Contact Us / Welcome to Billion Electric / The Future is Now](https://www.billion.com/ContactUs)；[Energy Revolution: BILLION New Chapter / Our Story](https://www.billion.com/Brand-Story)；[Empowering the World Through Green Energy/ About Billion](https://www.billion.com/About-Billion)
+- 首页正文摘录：Billion Electric Leadership Our Story Quality & Compliance Technology & Manufacturing Group Structure Products & Solutions Energy Solutions Utility & Grid Energy Applications C & I Integrated Energy Solutions Residential & Distributed Energy Applications Solar-Storage-Charging Integrated ESS PV Inverter EV Charger Power Supply AC/DC Power Adapter Open Frame Power Supply PoE Injector Customized ESS Factory Overview ES
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 30、PoE 15 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-757.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +166,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

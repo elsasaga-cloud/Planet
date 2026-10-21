@@ -62,7 +62,7 @@ updated: 2026-10-21
 - **标题**：Tier1 Data Systems / Your Own IT Solutions Hub
 - **首页栏目**：NETWORKING, HARDWARE AND DATA CENTER / YOUR PARTNER IN SPARE PARTS / CONFIGURATIONS / Top Brands / About Us / Sales Process / Blade Servers / Dell PowerEdge server
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cisco 13、ubiquiti 6、switch 2、data center 2、oem 2、fiber 1、wireless 1、telecom 1、cable 1、tp-link 1、axis 1
-- **站内出现的品牌**：Cisco, Ubiquiti, Juniper, Fortinet, D-Link, Huawei, Extreme, TP-Link, Netgear, Axis, Lantech, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco, Ubiquiti, Juniper, Fortinet, D-Link, Huawei, Extreme, TP-Link, Netgear, Lantech, Teltonika, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：GB311899586
 - **站内公开邮箱**：sales@tier1ds.com
 - **站内公开电话**：+44-2033 71 5231, +44-2033715231 09

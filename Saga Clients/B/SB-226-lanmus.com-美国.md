@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Lanmus Networks offers a wide range of networking switches, including managed, unmanaged, industrial, and enterprise-level solutions.
 - **首页栏目**：Lanmus Xtreme Switches / Lanmus Networks / Make your business easy with seamless connectivity / High-Quality Networking Switches for Seamless Connectivity / How to Choose the Perfect Ethernet Switch for your Business Needs? / Unlocking actionable intelligence through connecting things / Explore Switches by Port / 4 Port Switches
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 719、industrial 353、poe 128、sfp 90、ethernet 57、gigabit 46、cctv 45、10g 42、fiber 31、cable 26、camera 25、integrator 21
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IEEE802, LM-800UGP-I, LM-500UGP-I, LM-802FMGP-IL2, LM-2404FMGP-L2, LM402FMGP-IL2, LMT-GE-MM850, LM-1608C4XMGP-IL3, LM-2404XMGP-IL3, LM-4804XFMGP-L3, LM-402UGP, LM-4804FMGP-L2
 - **站内公开邮箱**：info@lanmus.com, sales@lanmus.com
 - **站内公开电话**：+1 (281) 995-9001, +1 (281) 995-9001 6725

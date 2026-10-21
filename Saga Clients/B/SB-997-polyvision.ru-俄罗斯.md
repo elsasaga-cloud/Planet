@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-997.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.polyvision.ru/　语言：ru　站点地图 URL 数：2226
+- **标题**：Оборудование для видеонаблюдения Polyvision™: AHD и IP видеокамеры, гибридные и IP видеорегистраторы, видеодомофоны — Polyvision
+- **描述**：Polyvision.ru - оборудование для видеонаблюдения
+- **首页栏目**：Новинки / Уличный 5Мп IP-камера + монтажная коробка / Уличная 4Мп IP-камера / 4-канальный IP-видеорегистратор / 80-канальный IP-видеорегистратор / 50-портовый неуправляемый PoE коммутатор / Вызывная панель видеодомофона / Почему тысячи организаций и частных лиц используют оборудование Polyvision?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 44、sfp 7、gigabit 2、nvr 2、ethernet 1
+- **站内型号串**（正则抽取，含非交换机）：PVC-IP5T-NZ10MPAI, PVC-IP2X-NF4P, PVC-IP2Z-DF2, PND-04P-2M, RS-485, PVC-IP4F-DF2, PND-24P-2G2F, PVB-S4-WALL, PVC-IP5F-SZ4P, PVC-IP2X-DF2, PVC-IP4C-N1Z5MPF, PVC-IP4C-WN1F2
+- **站内公开邮箱**：info@polyvision.ru
+- **站内公开电话**：+6... 4 500, +60... 10 540, +60... 3 300, +7 (495) 620-09-89, +7 495 620-09-89, 00029551 36
+- **社媒**：https://vk.com/polyvision_news
+- **产品类页面**：https://www.polyvision.ru/chasto-zadavaemyie-voprosyi/51660-dobavlenie-ip-kamer-v-poe-videoregistrator-serii-p…；https://www.polyvision.ru/catalog/arxiv/videokameryi；https://www.polyvision.ru/catalog/aksessuaryi/obektivyi；https://www.polyvision.ru/catalog/aksessuaryi/kronshtejnyi；https://www.polyvision.ru/catalog/arxiv/videokameryi/ulichnyie；https://www.polyvision.ru/catalog/arxiv/videoregistratoryi/50-seriya
+- **已抓子页**：[Контакты. Список дилеров Polyvision — Polyvision](https://www.polyvision.ru/contacts)；[Встречайте новые PoE-коммутаторы — Polyvision](https://www.polyvision.ru/vopros-otvet/news/51636-vstrechajte-novye-poe-kommutatory-ot-tm-polyvision)；[Каталог — Polyvision](https://www.polyvision.ru/catalog)；[Архив «Polyvision» — Polyvision](https://www.polyvision.ru/catalog/arxiv)；[Аксессуары — Polyvision](https://www.polyvision.ru/catalog/aksessuaryi)；[Камеры видеонаблюдения — Polyvision](https://www.polyvision.ru/catalog/videokameryi)
+- 首页正文摘录：Перейти к содержимому Оборудование видеонаблюдения для бизнеса и дома 25 лет в России · Доставка по всей стране Поиск по сайту Найти VK Я 8-800-555-77-63 8-495-620-09-89 Техподдержка: 9:30–18:00 МСК 0 0 Корзина 0 Каталог ⌄ Камеры видеонаблюдения Проектное оборудование Серия «UNI» IP видеокамеры AHD видеокамеры Видеорегистраторы Гибридные регистраторы IP регистраторы Сетевое оборудование Коммутаторы Прочее Видеодомофо
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 44、监控 2 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-997.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

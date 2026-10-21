@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-03 → 2025-10-31）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-951.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.qtech.ru:443/　语言：ru　站点地图 URL 数：3413
+- **标题**：QTECH - российский разработчик и производитель сетевого, телекоммуникационного и IT-оборудования
+- **描述**：QTECH разрабатывает и производит сетевое, телекоммуникационное и IT-оборудование для операторов связи, государственных структур и корпоративных сетей. Активный участник национальных проектов «Цифровая экономика», «Умный город» и программ импортозамещения.
+- **首页栏目**：Отправить запрос / Новости / Новинки / QTECH - Участник национальных программ / Мы разрабатываем и производим
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 158、poe 136、ethernet 92、10g 58、ftth 7
+- **站内型号串**（正则抽取，含非交换机）：QSW-4530-54TX-POE, QSW-4530-30TX-POE, QSW-4530, QSFP28, SFP28, QSR-1920, QSR-2920, QMC-2200, QMC-6000, QSW-4700, QSR-2200, QSR-2500
+- **站内公开邮箱**：distr@qtech.ru, guarantee@qtech.ru, office@qtech.ru
+- **站内公开电话**：+7 (495) 269-08-81, +7 (495) 477-81-18
+- **社媒**：https://t.me/QTECH_company, https://vk.com/qtech_company
+- **产品类页面**：https://www.qtech.ru/catalog/switches/access/qsw_4530/qsw_4530_30tx_poe/；https://www.qtech.ru/catalog/switches/access/qsw_4530/qsw_4530_54tx_poe/；https://www.qtech.ru/catalog/switches/access/qsw_4530/qsw_m_4530_poe_ac/；https://www.qtech.ru/catalog/switches/access/qsw_4700/qsw_4700_28tx_poe/；https://www.qtech.ru/catalog/switches/access/qsw_4700/qsw_4700_52tx_poe/；https://www.qtech.ru/catalog/switches/access/qsw_4700/qsw_m_4700_poe_ac/
+- **已抓子页**：[Промышленные коммутаторы QTECH (Индустриальные коммутаторы)](https://www.qtech.ru:443/catalog/switches/industrial/)；[QTECH QSW-4530-54TX-POE](https://www.qtech.ru:443/catalog/switches/access/qsw_4530/qsw_4530_54tx_poe/)；[QTECH QSW-4530-30TX-POE](https://www.qtech.ru:443/catalog/switches/access/qsw_4530/qsw_4530_30tx_poe/)；[Сетевые коммутаторы QTECH (Switch Ethernet)](https://www.qtech.ru:443/catalog/switches/)；[Сетевые коммутаторы QTECH (Switch Ethernet)](https://www.qtech.ru:443/catalog/switches/core/)；[Ethernet коммутаторы доступа](https://www.qtech.ru:443/catalog/switches/access/)
+- 首页正文摘录：Российский производитель телекоммуникационного и IT-оборудования Компания О нас Почему нас выбирают Лицензии и сертификаты Партнеры и дистрибьюторы Вакансии Контакты Продукция Импортозамещение (оборудование в реестре) Ethernet коммутаторы Ethernet коммутаторы доступа Ethernet коммутаторы агрегации Ethernet коммутаторы ядра Коммутаторы ЦОД Индустриальные коммутаторы Оптические модули 400G 200G QSFP28 100G QSFP 40G SFP
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 136、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-951.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +186,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

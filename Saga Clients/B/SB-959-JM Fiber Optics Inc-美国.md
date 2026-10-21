@@ -24,7 +24,7 @@ last_contact: 2025-10-28
 p1: STC-4168XGGCM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -91,6 +91,21 @@ updated: 2026-10-21
 - **风险/边界**：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进
 - **Saga 对位结论**：P1 STC-4168XGGCM（25% 档）——集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目
 - **邮件切入句（英文）**：For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://jmfiberoptics.com/　语言：en-US　站点地图 URL 数：43
+- **标题**：Home - JM Fiber Optics
+- **描述**：Provider of fiber optic and wireless network communication professional services, integrated systems and ETA certified training since 1992.
+- **首页栏目**：JM Fiber Optics / Professional Services / Systems Integration / Training / Providing high tech solutions one customer at a time / Networks & Systems Integration / Fiber Technician Training
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 37、poe 5、switch 2、ethernet 1、cctv 1、wifi 1、telecom 1、cable 1、integrator 1
+- **站内型号串**（正则抽取，含非交换机）：GS-35F-0328S
+- **站内公开邮箱**：info@jmfiberoptics.com, marketing@jmfiberoptics.com, technical@jmfiberoptics.com, training@jmfiberoptics.com
+- **产品类页面**：https://jmfiberoptics.com/partner-products/
+- **已抓子页**：[About Us - JM Fiber Optics](https://jmfiberoptics.com/aboutus/)；[ContactUs - JM Fiber Optics](https://jmfiberoptics.com/contactus/)；[Communication Transport Networks - JM Fiber Optics](https://jmfiberoptics.com/communication-transport-networks/)；[Professional Services - JM Fiber Optics](https://jmfiberoptics.com/services/)
+- 首页正文摘录：About Us Services System Integration Communication Transport Networks Training Projects Contact Us SERVICING CUSTOMERS SINCE 1992 How can we help you? (909-628-3445) Get a Free Quotation JM Fiber Optics Your Communication Fiber Optic Experts Since 1992 Professional Services View Our Services Systems Integration View Our Capabilities Training View our training courses. View Courses Providing high tech solutions one cu
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 5 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-959.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

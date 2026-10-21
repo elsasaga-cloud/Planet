@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-29 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -69,6 +69,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-975.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.erete.com.tr/　语言：tr　站点地图 URL 数：369
+- **标题**：Erete Bilgi Sistemleri
+- **描述**：END&#220;STRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING G&#220;VENLİK VE CCTV ANALOG &#220;R&#220;NLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS- NETWORK OPERATING SYSTEM FIBER OPTIK SFP - AOC - DAC MOD&#220;LLER EXTERNAL RJ45 - FIBER CONVERTER
+- **首页栏目**：Ürün Gruplarımız / ENDÜSTRİYEL SWITCHLER / OMURGA ve KENAR SWITCHLER / OPEN NETWORKING / GÜVENLİK VE CCTV ANALOG ÜRÜNLERİ / YAPISAL KABLOLAMA FİBER/BAKIR / KABİNET VE AKSESUARLARI / NOS- NETWORK OPERATING SYSTEM
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 160、sfp 91、poe 90、fiber 77、gigabit 33、10g 17、data center 15、cable 13、cctv 10、datacenter 6、ethernet 5
+- **站内出现的品牌**：EtherWAN　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS485, EX87000, EX77000, EX75000, EX76000, EX32900, EX42900, EX35000, QSFP28, EX78000, ECS4660-28F, AS7712-32X
+- **社媒**：https://twitter.com/Erete_Network, https://www.facebook.com/ERETE, https://www.linkedin.com/company/erete-bilgi-ve-g%C3%BCvenlik-sistemleri, https://www.youtube.com/channel/UCu6QpJWkTqt-bi3jMjqhBlg
+- **产品类页面**：https://www.erete.com.tr/Kullanici/Urun/Index/9；https://www.erete.com.tr/Kullanici/Urun/Index/24；https://www.erete.com.tr/Kullanici/Urun/Index/25；https://www.erete.com.tr/Kullanici/Urun/Index/28；https://www.erete.com.tr/Kullanici/Urun/Index/27；https://www.erete.com.tr/Kullanici/Urun/Index/26
+- **已抓子页**：[Transmitter/Receiver Ürünleri / Erete Bilgi Sistemleri](https://www.erete.com.tr/Kullanici/Urun/Index/6)；[Yönetilebilir Switchler Yönetilebilir PoE Switchler Yönelite](https://www.erete.com.tr/Kullanici/Urun/Index/3)；[Omurga Switchler Yönetilebilir L2 Switchler Yönetilebilir L3](https://www.erete.com.tr/Kullanici/Urun/Index/8)；[Ürün Gruplarımız / Erete Bilgi Sistemleri](https://www.erete.com.tr/Kullanici/Home/UrunGruplari)；[Open Network ONIE Switchler / Erete Bilgi Sistemleri](https://www.erete.com.tr/Kullanici/Urun/Index/102)；[Network Operating System for Data Centers / Erete Bilgi Sist](https://www.erete.com.tr/Kullanici/Urun/Index/105)
+- 首页正文摘录：Bayi Girişi Show/Hide Left Push Menu Anasayfa Hakkımızda Ürünlerimiz Referanslarımız B2B Girişi İletişim Ürün Gruplarımız ENDÜSTRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING GÜVENLİK VE CCTV ANALOG ÜRÜNLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS- NETWORK OPERATING SYSTEM FIBER OPTIK SFP - AOC - DAC MODÜLLER EXTERNAL RJ45 - FIBER CONVERTER Eğitimler / Seminerler Gelecek Etkinlikler E-Bül
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 17、交换机 160 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-975.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

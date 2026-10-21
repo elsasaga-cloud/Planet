@@ -24,7 +24,7 @@ last_contact: 2025-10-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +109,21 @@ updated: 2026-10-21
 - **风险/边界**：已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表
 - **邮件切入句（英文）**：Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://egemenelektronik.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Egemen Elektronik, Uniview Resmi Distrübütörü
+- **描述**：Egemen Elektronik güvenlik kameraları, kayıt cihazları, interkom sistemleri, alarm sistemleri ve bir çok aksesuarın satışını yapmaktadır.
+- **首页栏目**：Haikon / Dijital Kameralar / Analog Dünyada / Yeni Devrim / UNV / Türkiye Resmi Distribütörü / Öne Çıkan Ürünler / DS-2CD4C26FWD-AP
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 204、poe 78、switch 54、sfp 53、dahua 8、hikvision 6、cctv 4
+- **站内出现的品牌**：Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-M5504HNI, DS-7608NI-K1, DS-7104HGHI-F1, DS-2CD2T25FWD-I8, DS-3E0109P-E, DS-3E0326P-E, HK-SFP-1, DS-7632NI-K2, NSW2010-6T-POE-IN, DS-7616NI-Q2, DS-2CD2T26G2-4I, DS-2AE7123TI-A
+- **社媒**：https://tr.linkedin.com/company/egemenelektronik, https://twitter.com/egemenelektr, https://wa.me/905326057018, https://www.facebook.com/Egemenelektronikguvenlik/, https://www.instagram.com/egemenelektronik/, https://www.youtube.com/channel/UCNVahcFq3bii45rJZ7nofFg
+- **已抓子页**：[SWİTCHLER](https://egemenelektronik.com/tr/kategori/switchler)；[DS-7104HGHI-F1](https://egemenelektronik.com/tr/urun/ds-7104hghI-f1)；[DS-2AE7123TI-A](https://egemenelektronik.com/tr/urun/ds-2ae7123tI-a)
+- 首页正文摘录：0216 611 61 00 Aranacak Ürün DS-7204HQHI-K1 DS-7204HQHI-K1A DS-7204HUHI-K1 DS-7208HQHI-K1 DS-7208HQHI-K1A DS-7216HQHI-K1 DS-7216HQHI-K1A DS-7216HQHI-K2 DS-7216HUHI-K2 DS-7316HQHI-F4/N DS-7232HQHI-K2 DS-7332HQHI-K4 DS-7332HUHI-K4 DS-8132HGHI-SH DS-7604NI-K1 DS-7604NI-K1-4P DS-7608NI-K1 DS-7608NI-K2 DS-7608NI-K2-8P DS-1005KI Kontrol Klavyesi DS-1100KI Kontrol Klavyesi DS-1004KI DS-2C12D9T-A DS-2CD4C26FWD-AP DS-7104HGHI
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 78、监控 208 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-974.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

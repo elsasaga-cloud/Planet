@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-19 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-877.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.westermo.com/at/　语言：de-AT　站点地图 URL 数：0
+- **标题**：Westermo Österreich / Industrielle Netzwerke & Cybersicherheit
+- **描述**：Westermo Österreich bietet cybersichere industrielle Netzwerke für geschäftskritische Systeme. Entdecken Sie unsere Lösungen.
+- **首页栏目**：Land ändern / Build secure OT networks / Ihr Partner für unternehmens-kritische industrielle Netzwerke / It's all about expertise / Cutting-edge solutions / Local presence / Our focus industry segments / Energy
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 852、ethernet 597、poe 429、sfp 401、industrial 215、gigabit 133、automation 120、wireless 32、2.5g 12、cable 10、fiber 9、fibre 8
+- **站内出现的品牌**：Westermo　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, RS-232, EN50155, P8G-LV, T8G-LV, P8-HV, P8-LV, RCP-1000, F2G-T4-LV, E-F2G-T4-LV, F2G-T8-LV, E-F2G-T8-LV
+- **站内公开邮箱**：info.at@westermo.com, info.us@westermo.com
+- **站内公开电话**：+43 720 303920 0
+- **社媒**：https://www.facebook.com/westermo/, https://www.instagram.com/westermo/, https://www.linkedin.com/company/westermo, https://www.youtube.com/westermoplay
+- **已抓子页**：[Industrielle PoE Switche / Power over Ethernet (Strom über N](https://www.westermo.com/at/products/ethernet-switches/poe)；[Produkte / Westermo Österreich](https://www.westermo.com/at/solutions/extending-ethernet/products)；[Industrielle Netzwerk Switche / Industrielle Netzwerklösunge](https://www.westermo.com/at/products/ethernet-switches)；[Industrielle Rackmount Netzwerk Switche / 19 Zoll RedFox ᐈ W](https://www.westermo.com/at/products/ethernet-switches/rack)；[gemanagte Industrielle Netzwerk Switche und Geräteserver, La](https://www.westermo.com/at/products/ethernet-switches/layer-2)；[Industrielle Layer 3 Netzwerk Switche und Router ᐈ Westermo](https://www.westermo.com/at/products/ethernet-switches/layer-3)
+- 首页正文摘录：Land ändern America United States Asia Singapore Europe Austria Denmark Finland France Germany Sweden Switzerland United Kingdom Oceania Australia Other International Produkte Netzwerk Switche Unmanaged Layer-2 Layer-3 IEC 61850-3 switches IEC 62443-4-2 SL2 switches EN50155 PoE Rack Netzwerk Extender Managed Punkt-zu-Punkt Industrielle Router & Gateways Ethernet Routing Switches Mobilfunkrouter und Gateways DSL Route
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 220、PoE 429 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-877.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

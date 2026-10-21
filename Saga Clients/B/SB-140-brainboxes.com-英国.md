@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support
 - **首页栏目**：Industrial Ethernet Switches, IoT & Serial Connectivity Solutions / Find Smart Solutions... / Case Studies / Safeguarding Infrastructure: Supporting Smarter Bridge Performance / BB Eco Keep the Work Moving / Trusted Connectivity / Built for Life Warranty / Connected for Life Support
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 321、switch 233、industrial 204、gigabit 147、sfp 108、poe 82、fibre 14、automation 10、media converter 8、cable 7、fiber 1、cctv 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：MK-103, SW-7717, MK-048, SW-7416, SW-7016, SW-7617, SW-195, SW-135, SW-535, SW-595, SW-125, SW-525
 - **站内公开邮箱**：support@brainboxes.com
 - **站内公开电话**：+1 (919) 241 8487, +44 (0)151 220 2500

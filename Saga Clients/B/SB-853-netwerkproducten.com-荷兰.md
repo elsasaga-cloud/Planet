@@ -22,7 +22,7 @@ last_contact: 2025-10-07
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-07）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -68,6 +68,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-853.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.netwerkproducten.com/　语言：nl　站点地图 URL 数：30
+- **标题**：Welkom bij MP2 Netwerkproducten / MP2 Netwerkproducten
+- **首页栏目**：Voor 16.00 uur besteld, vandaag verstuurd / Gratis verzending vanaf 100 euro / Spoed levering, neem contact met ons op / Categorieën / Veel gezocht / Zijn alle netwerkkabels 100% koper? / Deze vraag kunnen wij volmondig beantwoorden met / JA!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 94、fiber 40、camera 29、wireless 21、media converter 18、data center 14、poe 9、ethernet 9、gigabit 9、sfp 7、cctv 7、nvr 7
+- **站内型号串**（正则抽取，含非交换机）：RS-232, NL8546, GSD-1020S
+- **站内公开邮箱**：klantenservice@netwerkproducten.com
+- **站内公开电话**：+31 (0 ) 36 - 522 28 20, +31 36 5222 820
+- **产品类页面**：https://www.netwerkproducten.com；https://www.netwerkproducten.com/login；https://www.netwerkproducten.com/service；https://www.netwerkproducten.com/contact；https://www.netwerkproducten.com/product；https://www.netwerkproducten.com/producten
+- **已抓子页**：[10 inch switches / MP2 Netwerkproducten](https://www.netwerkproducten.com/producten/10-inch-kasten-producten/10-inch-switches)；[Fiber koppelstukken / MP2 Netwerkproducten](https://www.netwerkproducten.com/producten/glasvezelproducten/fiber-koppelstukken)；[Fiber Dempers-Actuators / MP2 Netwerkproducten](https://www.netwerkproducten.com/producten/glasvezelproducten/fiber-dempers-actuators)；[Plastic Optical Fiber (POF) / MP2 Netwerkproducten](https://www.netwerkproducten.com/producten/glasvezelproducten/plastic-optical-fiber-pof)；[POF gereedschap / MP2 Netwerkproducten](https://www.netwerkproducten.com/producten/glasvezelproducten/plastic-optical-fiber-pof/pof-gereedschap)；[POF media converters / MP2 Netwerkproducten](https://www.netwerkproducten.com/producten/glasvezelproducten/plastic-optical-fiber-pof/pof-media-converters)
+- 首页正文摘录：0 0 PRODUCTEN ZELF NETWERKKABELS MAKEN THUISNETWERK AANLEGGEN SOORTEN NETWERKKABEL VERSCHIL STUG / SOEPEL Over ons Contact Klantenservice Inloggen 0 0 Alle categorieën Alle categorieën Alle categorieën Serverkasten & patchkasten Serverkast 19 inch gaasdeur 12U serverkast 15U serverkast 18U serverkast 22U serverkast 26U serverkast 27U serverkast 32U serverkast 36U serverkast 37U serverkast 42U serverkast 47U serverkas
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 9、监控 43 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-853.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,7 +183,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

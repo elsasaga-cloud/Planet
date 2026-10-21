@@ -63,7 +63,6 @@ updated: 2026-10-21
 - **描述**：Experience fast, reliable, secure and easy to use WiFi when you level up with connectivity solutions made for home, business, and enterprise from Linksys.
 - **首页栏目**：Linksys / Fewer Calls. Happier Subscribers. / Velop Micro 7 / Velop Pro 7 / Velop Micro Mesh 6 / Kick-ass WiFi that just works! / Stupid-fast speeds / Crazy connectivity
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 15、wireless 1、planet 1
-- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **社媒**：https://twitter.com/Linksys, https://www.facebook.com/linksys, https://www.instagram.com/linksys/, https://www.linkedin.com/company/linksys/, https://www.youtube.com/user/OfficialLinksys
 - **产品类页面**：https://www.linksys.com/blogs/tech-briefs/what-are-unmanaged-switches；https://www.linksys.com/blogs/support-article/setting-up-the-linksys-ln1100-for-pppoe-connection-manual-setup；https://www.linksys.com/blogs/support-article/linksys-velop-and-atlas-products
 - **已抓子页**：[Linksys/About Us](https://www.linksys.com/pages/about)；[Linksys /Contact Us](https://www.linksys.com/pages/contact)

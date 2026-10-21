@@ -63,7 +63,6 @@ updated: 2026-10-21
 - **描述**：Launch and flight monitors for baseball, softball and golf that are affordable, portable and easy to use backed by data-driven technology trusted by the best players in the game. Play without limits with Rapsodo®
 - **首页栏目**：To Give Athletes Everywhere the Tools They Need to Play Like Never Before. / REVOLUTIONIZE YOUR GOLF GAME. / UNLOCK DATA THAT CREATES CHAMPIONS. / Tech Designed for Softball Player Development. / We help athletes reach their full potential
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 36、axis 32、wholesale 12、cable 5、switch 4、wifi 4、ethernet 2、wireless 2
-- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：sales@rapsodo.com
 - **社媒**：https://twitter.com/rapsodo, https://twitter.com/rapsodogolf, https://twitter.com/rapsodosoftball, https://www.facebook.com/RapsodoDiamondSports/, https://www.facebook.com/RapsodoGolf/, https://www.instagram.com/rapsodobaseball/
 - **产品类页面**：https://rapsodo.com/sitemap_products_1.xml?from=7328173916309&amp;to=15580453110131；https://rapsodo.com/blogs/golf/keys-to-productive-golf-practice-less-comfort-more-chaos；https://rapsodo.com/blogs/baseball/rapsodo-launches-new-high-speed-slow-motion-video-product；https://rapsodo.com/blogs/golf/rapsodo-mobile-launch-monitor-wins-ing-product-ingenuity-technology-award

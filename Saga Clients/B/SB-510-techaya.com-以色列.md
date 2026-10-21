@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Techaya is a leading designer, developer and manufacturer of rugged military ethernet communications solutions for military ground, air and naval applications. Our complete line of Military Ethernet switches, routers, USB hubs and media converters/network taps are designed from PCB up to meet the ex
 - **首页栏目**：Our Company / Products / Applications / Unmanned Vehicles / MODERN SOLDIER / Airborne / Ground Vehicles / Maritime/Marine
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 100、ethernet 89、industrial 53、gigabit 40、media converter 22、poe 21、fiber 12、10g 8、sfp 3、camera 2、surveillance 1、wireless 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：MIL-STD-810F, MIL-STD-1275, MIL-STD-461E, MIL-STD-461, MIL-STD-810, ICE808, ICE608, ICE898G, IEEE802, ICE9100L, RJ-45, ICE810G
 - **站内公开邮箱**：sales@enercon.co.il
 - **站内公开电话**：+972 (73) 2469200, +972 (73) 2469289

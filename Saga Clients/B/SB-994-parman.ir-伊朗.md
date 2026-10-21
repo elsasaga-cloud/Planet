@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-994.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.parman.ir/　语言：fa-IR　站点地图 URL 数：58
+- **标题**：Parman – پرتو تماس نوین
+- **首页栏目**：پرمان در یک نگاه / به ما بپیوندید / درج/ویرایش پیوند
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 18、ethernet 2、10g 2、cisco 2、switch 1、sfp 1、access control 1
+- **站内型号串**（正则抽取，含非交换机）：PTS2060, PTS6010, PTS1010P, PTS2025P, PSS2440, PTS4010P, PSS2430, PRS08E1, PTS2060-CE, PSS2440-24P-4G, PSS2440-E48P-4X, RS232
+- **产品类页面**：https://www.parman.ir/parman-switch-sdh-export/；https://www.parman.ir/parman-saha-switch-sdh-otn/；https://www.parman.ir/products/；https://www.parman.ir/products-compare/；https://www.parman.ir/products-compare-2/；https://www.parman.ir/mega-menu-shop/
+- **已抓子页**：[سوئیچ‌های شبکه – Parman](https://www.parman.ir/product-category/network-switch/)；[سوئیچ‌‌های لایه 2 PoE – Parman](https://www.parman.ir/product/pss2440-p/)；[محصولات – Parman](https://www.parman.ir/products/)；[PTS2060 – Parman](https://www.parman.ir/product/pts2060/)；[PTS6010 – Parman](https://www.parman.ir/product/pts6010/)；[PTS4010P – Parman](https://www.parman.ir/product/pts4010p/)
+- 首页正文摘录：جستجو ... صفحۀ اصلی محصولات سوئیچ‌های شبکه سوئیچ‏‌های لایه 2 سوئیچ‌‌های لایه 2 PoE سوئیچ‌های لایه 2 نوری سوئیچ‎‌های لایه 2 ماژولار سیستم‌های انتقال نوری سیستم‌های انتقال نوری پر ظرفیت PTS2060 PTS6010 سیستم‌های انتقال نوری کم‌ظرفیت PTS4010P PTS1010P PTS2025P نرم‌افزار مدیریت شبکه پشتیبانی اخبار و مقالات درباره ما همکاری با ما درباره ما ارتباط با ما صفحه اصلی محصولات درباره ما مقالات تماس با ما واتس اپ دانش جهانی، فناو
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 18、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-994.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +149,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

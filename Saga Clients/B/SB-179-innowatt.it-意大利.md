@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone, fornendo soluzioni innovative che semplificano l'utilizzo della tecnologia con particolare attenzione alla sicurezza, offre prodotti affidabili e di
 - **首页栏目**：Il tuo carrello è vuoto / Il tuo carrello / Subtotale / Casa tua, al sicuro in 48 ore. / Ultimi articoli caricati / Anker Power Bank ligera - Capacidad 10000mAh - Entrada... / Caja de distribución de fibra para carril DIN - Incluye... / Controllo accessi con telecamera PoE IP65 IK09 - Scheda...
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 35、poe 29、camera 27、switch 17、wifi 15、gigabit 9、uniview 9、nvr 8、sfp 7、wireless 7、distributor 4、oem 3
-- **站内出现的品牌**：Ruijie, Hikvision, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ruijie, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RS485, BL-T500-AC-ADAPTER, IEEE802, RG-NBS3200-24GT4XS, AX3000, DS-K1T502DBWX-CE1, DS-K1T502DBWX-CQRE1, AK-R20A, NBS3200, RP-PD4
 - **站内公开邮箱**：service@innowatt.it, shop@innowatt.it
 - **社媒**：https://www.facebook.com/InnoWatt.store, https://www.instagram.com/inno.watt/, https://www.linkedin.com/company/gruppo-cosola-impianti-tecnologici/

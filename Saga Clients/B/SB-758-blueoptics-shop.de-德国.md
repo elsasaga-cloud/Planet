@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-758.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.blueoptics-shop.de/　语言：de　站点地图 URL 数：1
+- **标题**：Blueoptics - Shop / BlueOptics-Shop
+- **描述**：Transceiver und LWL Zubehör - Versand aus Deutschland
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 566、10g 46、fibre 14、gigabit 10、ethernet 8、2.5g 7、cisco 2
+- **站内型号串**（正则抽取，含非交换机）：SFP28, QSFP28, QSFP56, SFP56, QSFP112, BLMC001, BLMC003, BLMC011, BLMC004
+- **产品类页面**：https://www.blueoptics-shop.de/web/sitemap/shop-1/sitemap-1.xml.gz
+- **已抓子页**：[Über BlueOptics / BlueOptics-Shop](https://www.blueoptics-shop.de/ueber-uns)；[Networking / BlueOptics-Shop](https://www.blueoptics-shop.de/networking)；[Kontaktformular / BlueOptics-Shop](https://www.blueoptics-shop.de/kontaktformular)；[NIC Karten / Networking / BlueOptics-Shop](https://www.blueoptics-shop.de/networking/nic-karten)；[Multiplexer / Networking / BlueOptics-Shop](https://www.blueoptics-shop.de/networking/multiplexer)；[PLC Splitter / Networking / BlueOptics-Shop](https://www.blueoptics-shop.de/networking/plc-splitter)
+- 首页正文摘录：Kostenloser Versand ab € 100,- Bestellwert Verkauf nur an Industrie, Handel, Gewerbetreibende, Vereine und Behörden. Versand innerhalb von 24h* Kostenlose Hotline 0800 123 454 321 Warenkorb 0 Merkzettel Mein Konto Menü Transceiver DAC/AOC Kabel Networking LWL Kabel LWL Patchfelder Zur Kategorie Transceiver 1/2/4G 100Mbit SFP 1G SFP 1G CWDM/DWDM SFP 1G BiDi SFP Fibre Channel SFP 2x1G BiDi cSFP 2.5G SFP Kompatible Tran
+- 数据文件：`data/saga_clients/site_snapshots/SB-758.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +147,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

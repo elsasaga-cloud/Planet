@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-28 → 2025-10-28）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 80、监控 17 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-727.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://pctedarik.com/　语言：tr　站点地图 URL 数：879
+- **标题**：Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
+- **首页栏目**：TÜM ÜRÜNLER / Fırsat Ürünleri / İndirimli Ürünler / Çok Satılanlar / Son Gezilen Ürünler / Yeni Gelen Ürünler / Popüler Kategoriler / POPÜLER KATEGORİLER
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 80、switch 79、oem 25、hikvision 24、wifi 17、gigabit 16、wireless 16、fiber 15、ethernet 15、cctv 14、tp-link 11、dahua 11
+- **站内出现的品牌**：Ruijie, TP-Link, Hikvision, Dahua, Zyxel, Huawei, Tenda, Uniview, Ubiquiti, Edimax, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SY-16, FS1010P, KR-S1718CFU-AP, ZR-1104, RG-ES209GC-P, ZR-1006, FS1010PG, NVR-4080, MR-018, SC517, UFIX-22KH, PS60K
+- **站内公开邮箱**：info@pctedarik.com
+- **社媒**：https://tr-tr.facebook.com/pctedarik/, https://twitter.com/pctedarik, https://www.instagram.com/pctedarik/?hl=tr, https://www.youtube.com/@pctedarik, https://www.youtube.com/channel/UCDR6bayxQ2jTX071e5QResQ
+- **产品类页面**：https://pctedarik.com/Urun/36805/HADRON-VGA-SWiTCH--SPLiTTER--HD239；https://pctedarik.com/Urun/36804/HADRON-ADP-HD241-30-HDMi-SWiTCH-KUMANDALi；https://pctedarik.com/Urun/34621/PASÄ°F-POE-ENJEKTOR-ÃÄ°FTLÄ°-KABLO-12V-DESTEKLÄ°-30-60MT；https://pctedarik.com/Urun/30536/KUR-FARKi；https://pctedarik.com/Urun/40308/BNC-DC-POWER-KABLOLU；https://pctedarik.com/Urun/31035/USB--KABLOSU-OEM-18MT
+- **已抓子页**：[Network Ürünleri - Toptan Harddisk - Toptan Güvenlik Kameras](https://pctedarik.com/Ana-Kategori/3/Network-Urunleri)；[Toptan Poe Switch - Toptan Harddisk - Toptan Güvenlik Kamera](https://pctedarik.com/Kategori/252/Toptan-Poe-Switch)；[Diğer Ürünler - Toptan Harddisk - Toptan Güvenlik Kamerası -](https://pctedarik.com/Ana-Kategori/19/Diger-Urunler)；[Alarm Ürünleri - Toptan Harddisk - Toptan Güvenlik Kamerası ](https://pctedarik.com/Ana-Kategori/20/Alarm-Urunleri)；[Otomobil Ürünleri - Toptan Harddisk - Toptan Güvenlik Kamera](https://pctedarik.com/Kategori/279/Otomobil-Urunleri)；[Kozmetik Ürünleri - Toptan Harddisk - Toptan Güvenlik Kamera](https://pctedarik.com/Kategori/282/Kozmetik-Urunleri)
+- 首页正文摘录：$: 49,65 TL €: 55,70 TL Bayi Giriş Bayimiz Olun İletişim Markalar UFIX ACER ADDISON AFANDA AİRTİES AJAX ALCATEL APRONX ARABA ASELSAN ASUS AVENİR AVİX AWOX BESTA BOTECH BROTHER Canon CASTU CNET COMOTECH CONCORD COOLER MASTER CUDY DAHUA DAYTONA DAYZİP DELL DEMPOWER DENOX DESİ DIGITUS DİGİSTORE DİĞER DUDAO EDIMAX EDS Electronics-Line EMKA EPSON ESTAP ESU EVEREST EYFEL EZCOOL FORLIFE FRITZ GAMEWORK HADRON HARVOX HASUBA H
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 80、监控 17 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-727.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -95,7 +111,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 80、监控 17 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,7 +158,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

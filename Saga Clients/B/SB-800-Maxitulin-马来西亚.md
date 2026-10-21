@@ -22,7 +22,7 @@ last_contact: unknown
 p1: none
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-800.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://maxitulin.com/　语言：en-US　站点地图 URL 数：11
+- **标题**：Maxitulin – Providing First Line Of Security Defence
+- **首页栏目**：OUR EXPERTISE​ / Services & Products at a glance / Locate Us / CALL +60 3-8062-2255​
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 28、cctv 19、access control 17、surveillance 8、axis 4、poe 2、integrator 2、industrial 1、wireless 1、cable 1、installer 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：HDP5000, HDP8500, HDP6600, DTC1500, DTC5500LMX
+- **站内公开邮箱**：%20info@maxitulin.com, info@maxitulin.com
+- **站内公开电话**：+60 3-8062 2255, +60 3-8062 2277, +60 3-8062-2255
+- **社媒**：https://www.youtube.com/channel/UCkwed9x_I-QM68uwWzHFqFQ
+- **已抓子页**：[About – Maxitulin](https://maxitulin.com/about/)；[Contact – Maxitulin](https://maxitulin.com/contact/)；[CCTV – Maxitulin](https://maxitulin.com/cctv-surveillance-system/)
+- 首页正文摘录：Skip to content Maxitulin Main Menu Home About Products CCTV Access Control Entry Access Control HID Fargo PES Guard Tour System Telemetry / IoT / GPS Projects Contact Enquire Now Enquire Now OUR EXPERTISE​ Maxitulin was incorporated in 1997 in Kuala Lumpur, Malaysia, an ISO 9001:2015 compliant Electronic Security & Telemetry / IoT system integrator. Our expertise while operating transnational networks, spreading acr
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 2、监控 55 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-800.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +156,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

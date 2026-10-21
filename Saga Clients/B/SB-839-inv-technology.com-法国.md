@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-05-17 → 2025-10-22）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-839.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://inv-technology.com/en/　语言：en　站点地图 URL 数：308
+- **标题**：Video surveillance and security in Corsica - Dynavision
+- **描述**：DYNAVISION by INV-TECHNOLOGY products integrate the latest technologies in the video surveillance market, combining performance, design and very competitive prices.
+- **首页栏目**：SUMMER SALES / New arrivals / no-touch button / Neck cord / Détecteur CAM PIR / bracket / Détecteur CAM PIR PHOD / Contact de porte 2x entrées
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 42、switch 18、cctv 16、access control 16、wifi 14、surveillance 9、sfp 3、axis 2、poe 1、10g 1
+- **站内出现的品牌**：Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IR150, RG-ES228GS-P, RG-ES220GS-P, RG-ES210GS-P, RG-ES209GC-P, RG-ES205GC-P, RG-ES205GC, RG-NIS3100-4GT2SFP-HP, RG-NIS2100-8GT2SFP-HP, RG-NIS2100-4GT2SFP-HP, DY-D4MP40IVABR, DY-PFA152
+- **站内公开邮箱**：contact@inv-technology.com, your@email.com
+- **站内公开电话**：+33 (0)4 95 39 40 03
+- **社媒**：https://www.facebook.com/invtechnology20/, https://www.youtube.com/channel/UCmR8v1WcK5Q0-KXFmQRbdUg
+- **产品类页面**：https://inv-technology.com/fr/accessoires/227-switch-8-ports-poe-.html；https://inv-technology.com/fr/accessoires/240-splitter-poe.html；https://inv-technology.com/fr/accessoires/241-injecteur-poe.html；https://inv-technology.com/fr/accessoires/242-injecteur-poe.html；https://inv-technology.com/fr/cameras-ip/37-mini-dome-ip-poe.html；https://inv-technology.com/fr/kits-videos/315-dy-kit4poe-bd5mp.html
+- **已抓子页**：[SWITCH MANAGEABLE](https://inv-technology.com/en/38-switch-manageable)；[Home](https://inv-technology.com/en/2-accueil)；[New products](https://inv-technology.com/en/new-products)；[iCAM Range (Mobile Camera Solutions)](https://inv-technology.com/en/24-icam-range-mobile-camera-solutions)；[Contact us](https://inv-technology.com/en/contact-us)；[DEA](https://inv-technology.com/en/brand/9-dea)
+- 首页正文摘录：  Welcome on our online shop search    sign in English Français English Français English Contact us +33 (0)4 95 39 40 03 Contact us +33 (0)4 95 39 40 03 Shopping Cart 0 Item( 0 ) - €0.00 DYNAVISON PRO   Video CCTV COAX 4 in 1 AHD/TVI/CVI/CVBS Cameras IP Cameras Camera IA Recorders Vehicle Range WIFI Range Hertzian Radio Range Solar Power Supplies and Candelabra 4G Range Thermal Range iCAM Range (Mobile Camera 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 1、监控 67 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-839.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

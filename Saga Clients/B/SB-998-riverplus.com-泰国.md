@@ -22,7 +22,7 @@ last_contact: 2025-10-09
 p1: STC-448XGGM(L3)
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-01-28 → 2025-10-09）
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-998.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://riverplus.com/　语言：en　站点地图 URL 数：153
+- **标题**：Riverplus 20th - Leading in Digital and Industry 4.0 Solutions
+- **描述**：Riverplus ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร จากทั่วโลกตั้งแต่ปี 2005 โดยมุ่งมั่นในการขับเคลื่อนนวัตกรรมและนำพาเข้าสู่ยุคดิจิทัล และอุตสาหกรรม 4.0 บริษัทมุ่งเน้นการเสริมศักยภาพทางการแข่งขันให้กับธุรกิจ ด้วยโซลูชั่นเทคโนโลยีที่ครอบคลุม พร้อมให้บริการครบวงจรที่ตอบโจทย์ลูกค้า
+- **首页栏目**：Newsletter / Riverplus / IoT / เชื่อมโยงเครื่องจักร คน และระบบ / เพื่อติดตาม วิเคราะห์ และควบคุม / Industrial 5G/4G / Router/Gateway / Sensors
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 58、cable 56、industrial 49、switch 44、wireless 27、gigabit 15、camera 14、automation 12、fiber 12、media converter 7、poe 6、wifi 2
+- **站内出现的品牌**：Teltonika, Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TSW100, RUT200, RS-485, TSW114, RUTX50, TRB140, TSW030, SSD512GB, RUT901, ARCHMI812, IEEE802, LS425
+- **站内公开邮箱**：sales@riverplus.com, support@riverplus.com
+- **站内公开电话**：+6680 - 063 - 0888
+- **社媒**：https://twitter.com/intent/tweet?text=RUTX50%20Industrial%205G%20Router&url=https://riverplus.com/products/teltonika-rutx50, https://twitter.com/intent/tweet?text=TRB140%20-%20Industrial%20Ethernet%20to%204G%20LTE%20Gateway&url=https://riverplus.com/products/teltonika-trb140, https://twitter.com/intent/tweet?text=TSW030%208-port%20Ethernet%20Switch%20,%20cost-efficient%20unmanaged%20Ethernet%20switch&url=https://riverplus.com/products/teltonika-tsw030, https://twitter.com/intent/tweet?text=TSW100%20Industrial%205xGigabit%20Ethernet,PoE+%20support%20Switch&url=https://riverplus.com/products/teltonika-tsw100, https://twitter.com/intent/tweet?text=TSW114%20Industrial%205xGigabit%20Ethernet%20ports%20%20Integrated%20DIN%20rail%20bracket&url=https://riverplus.com/products/teltonika-tsw114, https://twitter.com/intent/tweet?text=Teltonika%20RUT200%20%E2%80%94%20Industrial%204G%20LTE%20Router%20%7C%20Cat%204%20%7C%20VPN%20%7C%20Wi-Fi&url=https://riverplus.com/products/teltonika-rut200
+- **产品类页面**：https://riverplus.com/blogs/iot-solutions/tsw010-industrial-lan-switch；https://riverplus.com/blogs/iot-solutions/cctv-solution-with-poe-switch；https://riverplus.com/blogs/iot-solutions/teltonika-tsw100-110-industrial-ethernet-switch；https://riverplus.com/blogs/catalog/catalog-industrial-iot；https://riverplus.com/blogs/catalog/catalog-industrial-computer；https://riverplus.com/blogs/industrial-computer
+- **已抓子页**：[[พร้อมส่ง] TSW100 Industrial 5xGigabit Ethernet / PoE+ Switc](https://riverplus.com/products/teltonika-tsw100)；[[พร้อมส่ง] จำหน่าย TRB140 - Industrial Ethernet to 4G LTE Ga](https://riverplus.com/products/teltonika-trb140)；[[พร้อมส่ง] TSW114 Industrial 5xGigabit Ethernet Switch / DIN](https://riverplus.com/products/teltonika-tsw114)；[TSW030 8-port Ethernet Switch , cost-efficient unmanaged Eth](https://riverplus.com/products/teltonika-tsw030)；[Teltonika RUT200 — Industrial 4G LTE Router / Cat 4 / VPN / ](https://riverplus.com/products/teltonika-rut200)；[RUTX50 Industrial 5G Router](https://riverplus.com/products/teltonika-rutx50)
+- 首页正文摘录：Skip to content Close Newsletter ต้องการรับอีเมลจาก River Plus Co., Ltd. พร้อมข้อมูลอัปเดตที่เกี่ยวกับข่าวสารผลิตภัณฑ์ Your email Subscribe sales@riverplus.com / Line : @riverplus / +6680 - 063 - 0888 Subscribe & Save Need help? Call us 080-063-0888 sales@riverplus.com Follow Us Facebook YouTube Riverplus Clear All categories All categories 2D Vision Systems 3D Vision Systems 4G/LTE Gateway 4G/LTE Router 5G/LTE Gatew
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 55、PoE 6 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-998.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

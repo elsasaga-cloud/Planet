@@ -77,7 +77,7 @@ updated: 2026-10-21
 - **描述**：Profesyonel güvenlik kamerası, CCTV ve IP kamera çözümleri. Türkiye'nin güvenilir ithalatçısı.
 - **首页栏目**：Güvenlik & Yazılım Çözümlerimiz / CCTV IP Sistemleri / Anons Ses Sistemleri / Plaka Tanıma Geçiş Sistemleri / Personel Takip Sistemleri / Yangın Sistemleri / Alarm Sistemleri / Kablosuz Görüntü Aktarma
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 17、fiber 3、poe 2、nvr 2、switch 1、hikvision 1、dahua 1
-- **站内出现的品牌**：Hikvision, Dahua, Ruijie, Ajax, Paradox　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hikvision, Dahua, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：info@eurocamguvenlik.com.tr, ornek@email.com
 - **已抓子页**：[Hakkımızda / Eurocam Güvenlik](https://eurocamguvenlik.com.tr/hakkimizda.php)；[İletişim / Eurocam Güvenlik](https://eurocamguvenlik.com.tr/iletisim.html)；[Markalarımız / Eurocam Güvenlik](https://eurocamguvenlik.com.tr/markalarimiz.php)
 - 首页正文摘录：Ana Sayfa Kurumsal Hakkımızda Vizyonumuz Misyonumuz Hizmetlerimiz Markalarımız Destek Merkezi İletişim 🔑 Bayii Girişi Sesi Aç Hizmetlerimiz Güvenlik & Yazılım Çözümlerimiz CCTV’den yangın ve alarm sistemlerine; plaka tanıma, personel takip ve Ar-Ge yazılımlarına kadar profesyonel hizmetler sunuyoruz. CCTV IP Sistemleri HD/4K IP kameralar, NVR kayıt sistemleri, PoE altyapı ve uzaktan izleme ile uçtan uca CCTV çözümler

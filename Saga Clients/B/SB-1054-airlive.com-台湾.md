@@ -63,7 +63,6 @@ updated: 2026-10-21
 - **描述**：AirLive® Technology’s Network and Communication innovations implement your smart Integration. Accumulated yearly well experiences in networking and communication Industry, AirLive Technology continuously dedicates in developing innovations of advanced network technology. AirLive products include Wi-
 - **首页栏目**：鑫志科技 / AirCloud / Products / AirCloud and Wireless / Aircore / Telecom XGPON and Cloud / Enterprise Campus & Multiport Fiber Switch / Enterprise L3 Switch
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 481、switch 296、sfp 205、gigabit 189、2.5g 171、10g 135、industrial 107、fiber 76、camera 50、ethernet 24、surveillance 22、wireless 17
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IEEE802, RJ-45, IGM-14104BT-2, IGM-1484POE-2, IGM-1082BT-2, IGM-1082POE-2, IGM-1082POE-1, DIN35, AX3000, IG-1082RPOE, QSFP28, AC1200
 - **站内公开邮箱**：info@airlive.com
 - **社媒**：https://www.facebook.com/airlive, https://www.instagram.com/airlivetechnology, https://www.youtube.com/user/AirLiveMedia

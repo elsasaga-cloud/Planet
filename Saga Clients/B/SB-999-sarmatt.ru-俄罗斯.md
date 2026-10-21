@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-999.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sarmatt.ru/　语言：ru　站点地图 URL 数：14
+- **标题**：Sarmatt: профессиональное оборудование для видеонаблюдения
+- **描述**：Профессиональное оборудование для видеонаблюдения
+- **首页栏目**：Наши преимущества
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 6
+- **站内公开邮箱**：info@sarmatt.ru
+- **社媒**：http://facebook.com, http://twitter.com
+- **产品类页面**：http://www.sarmatt.ru/catalog/；http://www.sarmatt.ru/catalog/dvrs/；http://www.sarmatt.ru/catalog/ip-cameras/；http://www.sarmatt.ru/catalog/accessories/；http://www.sarmatt.ru/catalog/analog-cameras/
+- **已抓子页**：[Видеокамеры](https://sarmatt.ru/catalog/video-cameras/)；[О бренде](https://sarmatt.ru/about/)；[Оборудование](https://sarmatt.ru/catalog/)；[Видеорегистраторы](https://sarmatt.ru/catalog/dvrs/)；[Аксессуары](https://sarmatt.ru/catalog/accessories/)
+- 首页正文摘录：Профессиональное оборудование для видеонаблюдения Ассортимент товаров, выпускаемых под маркой SarmatT, состоит из обширного списка камер видеонаблюдения, цифровых видеорегистраторов и сопутствующих товаров. Email: info@sarmatt.ru Скачать каталог Обратный звонок ☰ Навигация по сайту Оборудование Тех.поддержка О бренде Где купить? SarmatT View Видеокамеры Видеорегистраторы Аксессуары Наши преимущества Тех. поддержка On
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 6、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-999.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +150,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

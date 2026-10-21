@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-02-25 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-815.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://commandonetworks.com/　语言：en　站点地图 URL 数：625
+- **标题**：COMMANDO is a technology company focused on networking hardware
+- **描述**：&#10004; Switching &#10004; Routing &#10004; Wireless &#10004; Network Accessories, Access Points, Media Converters, SFP Modules, PoE Injectors, Fiber Cables and Networking Accessories.
+- **首页栏目**：TOP SELLING PRODUCTS / Top Selling Products / E1000-16GP-4CF / E1000-24GP-4CF / E300-8GP-2SFP / E300-8GP-2G / E2000-24GP-8CF / AIR-APO3000AX
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 90、poe 78、sfp 44、industrial 29、10g 28、wireless 28、ethernet 17、fiber 13、cable 7、2.5g 6、gigabit 4、surveillance 3
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, IE3000, IE1000, E300-8GP-2SFP, E300-8GP-2G, C3000-24GP-4X, IEEEE802, IE1000-8GP-2SFP, E1000-16GP-4CF, E1000-24GP-4CF, E2000-24GP-8CF, AIR-APO3000AX
+- **站内公开邮箱**：support@commandonetworks.com
+- **社媒**：https://t.me/s/commandonetworks, https://www.facebook.com/profile.php?id=61564378755642, https://www.instagram.com/commando.networks, https://www.linkedin.com/company/commandonetworks/, https://www.youtube.com/@commandonetworks, https://www.youtube.com/@commandonetworks/search?query=C3000-24GP-4X
+- **产品类页面**：https://www.commandonetworks.com/switches/E1100；https://www.commandonetworks.com/switches/E3000；https://www.commandonetworks.com/switches/C2000；https://www.commandonetworks.com/switches/E2000；https://www.commandonetworks.com/switches/E1500；https://www.commandonetworks.com/switches/E1300
+- **已抓子页**：[AI SWITCH LAUNCHED](https://commandonetworks.com/news/5/AI SWITCH LAUNCHED)；[IE3000 L3 Industrial Series Switches](https://commandonetworks.com/switches/IE3000)；[IE1000 Industrial Series Switches](https://commandonetworks.com/switches/IE1000)；[E300-8GP-2G](https://commandonetworks.com/switches/E300-8GP-2G)；[E300-8GP-2SFP](https://commandonetworks.com/switches/E300-8GP-2SFP)；[C3000-24GP-4X](https://commandonetworks.com/switches/C3000-24GP-4X)
+- 首页正文摘录：Products Support Downloads Tech Support Warranty Partners Partner Program Partner Application Partner Locator Gallery Company About Us News Contact Us Quick Portfolio Get Quote Catalog Toggle theme en Schedule Meeting NMS SOFTWARE LAUNCH: COMMANDO is launching Network Management System (NMS) software in June. TOP SELLING PRODUCTS Source: COMMANDO NETWORKS (1Y) TOP SELLING PRODUCTS Source: COMMANDO NETWORKS (1Y) All S
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 30、PoE 78 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-815.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

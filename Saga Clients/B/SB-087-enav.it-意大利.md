@@ -62,7 +62,6 @@ updated: 2026-10-21
 - **标题**：Enav
 - **首页栏目**：INNOVATING THE SKY / CONTROLLO DEL TRAFFICO AEREO / Remote Digital Tower / Innovazione / Il Gruppo / Comunicati stampa / Eventi / ENAV all’Airport Show 2026 di Dubai
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：planet 6、industrial 5
-- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **社媒**：https://it.linkedin.com/company/enav, https://twitter.com/ENAVSpA, https://twitter.com/intent/tweet?url=https://www.enav.it/media/news/enav-firma-dubai-un-mou-una-partnership-strategica-nella-gestione-del-traffico-aereo, https://twitter.com/intent/tweet?url=https://www.enav.it/node/18604, https://www.facebook.com/share.php?u=https://www.enav.it/media/news/enav-firma-dubai-un-mou-una-partnership-strategica-nella-gestione-del-traffico-aereo, https://www.facebook.com/share.php?u=https://www.enav.it/node/18604
 - **已抓子页**：[ENAV firma a Dubai un MoU per una partnership strategica nel](https://www.enav.it:443/media/news/enav-firma-dubai-un-mou-una-partnership-strategica-nella-gestione-del-traffico-aereo)；[Firmato il rinnovo del CCNL / Enav](https://www.enav.it:443/node/18604)
 - 首页正文摘录：Skip to main navigation Cerca Contatti Servizi Ita Eng / il gruppo Purpose la visione di ENAV le nostre società engineering new business solutions droni sistemi satellitari organizzazione territoriale programmi e partecipazioni internazionali istituzioni Single European Sky alleanze management team 40 anni di ENAV cosa facciamo gestiamo lo spazio aereo italiano controllo del traffico aereo servizi per la navigazione 

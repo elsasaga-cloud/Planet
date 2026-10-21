@@ -62,7 +62,7 @@ updated: 2026-10-21
 - **标题**：Securame
 - **首页栏目**：Servicio al cliente / MF-CARD Tarjeta de proximidad Mifare MF pasivo / Formato CR80 / CON300-CAT6 Conector RJ45 CAT6 para crimpar / CON280A Conector alimentación 2.1mm hembra rápido / CON285A Conector alimentación 2.1mm macho rápido / DH-HAC-HDW1200CLQP-IL-A-0280B-S6 - Domo 4 en 1 de 2MP de exterior / Transceptor pasivo de video HD por par trenzado BA612P-HAC (par) / Fuente de alimentación (transformador) 12VDC 5A con 4 salidas 2.1mm DC12V5A
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 166、dahua 153、cable 96、wifi 64、switch 58、nvr 50、poe 38、industrial 20、cctv 2、tp-link 2
-- **站内出现的品牌**：Hikvision, Dahua, Ajax, ZKTeco, Paradox　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hikvision, Dahua, ZKTeco, Paradox　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RS485, CON300-CAT6, CON280A, CON285A, DH-HAC-HDW1200CLQP-IL-A-0280B-S6, BA612P-HAC, CR123A, DC12V5A, HUB2-4G, A-SC4, A-SS1
 - **站内公开邮箱**：contacto@securame.com, info@securame.com, su@email.com
 - **已抓子页**：[Contacte con nosotros](https://www.securame.com/contactenos)；[Contactos](https://www.securame.com/category/alarmas-contactos-c-122_125.html)；[Kits autoinstalables videovigilancia](https://www.securame.com/category/kits-camaras-vigilancia-cctv-c-18.html)

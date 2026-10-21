@@ -1,0 +1,50 @@
+{
+ "code": "SB-387",
+ "name_official": "Rolins（印度尼西亚；个人）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "印尼联系人 Rolins（+62 852），兴趣「FS 板子」（光纤交换机板卡），2025-06 问「12–24 SFP switch ready?」（全光口汇聚机）；无邮箱。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 FS 板子；回复 12-24 sfp switch ready?",
+   "quote": "兴趣：FS板子；回复：12-24 sfp switch ready?",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "印度尼西亚",
+  "size": "",
+  "other": "仅 WhatsApp"
+ },
+ "channels": {
+  "role": "（未知，疑 ISP/工程商）",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "明确型号级需求：12–24 口全 SFP 交换机"
+ ],
+ "risks": [
+  "商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高"
+ ],
+ "saga_fit": {
+  "p1": "STI-4168DGGCM-U",
+  "tier": 25,
+  "why": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。"
+ },
+ "email_hook": "（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）"
+}

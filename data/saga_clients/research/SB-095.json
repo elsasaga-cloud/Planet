@@ -1,0 +1,63 @@
+{
+ "code": "SB-095",
+ "name_official": "Crown Security Solutions（卡塔尔；表内名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：200 个工业 5 电口；Cudy 的分销商；回复 Datasheet；cpse 展会",
+   "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mohamed Safeer",
+   "title": "（表内联系人）",
+   "email": "",
+   "phone": "+974 3362 7118",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "卡塔尔",
+  "size": "分销商（Cudy）",
+  "other": "CPSE 2025 到访"
+ },
+ "business_lines": [
+  "安防 / 网络设备分销（Cudy）"
+ ],
+ "channels": {
+  "role": "分销商",
+  "region": "卡塔尔"
+ },
+ "signals": [
+  "200 台工业 5 口 = 明确批量需求",
+  "CPSE 展会面谈过"
+ ],
+ "risks": [
+  "无邮箱，仅 WhatsApp",
+  "Cudy 分销 → 价格对标 Cudy 工业线"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。"
+ },
+ "email_hook": "（无邮箱；WhatsApp：Good to meet at CPSE — for the 200-pc 5-port industrial requirement, I can hold a 200-pc EXW price for 15 days once you confirm DC input range (12–36 V or 44–57 V).）"
+}

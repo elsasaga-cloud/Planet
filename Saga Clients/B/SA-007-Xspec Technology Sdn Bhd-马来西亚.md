@@ -99,7 +99,6 @@ updated: 2026-10-21
 - **描述**：XSPec Malaysia delivers inspection equipment, security technology, healthcare systems, laboratory solutions, training, brochures, and after-sales support across Southeast Asia.
 - **首页栏目**：Industrial technology, training, and support for Southeast Asia. / Why choose XSPec? / Years of Expertise / World-Class Technology / 24/7 After-Sales Support / Explore solutions by industry. / Oil, Gas & Marine / Military, Defence & Security
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 8
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：inquiry@xspec.com.my, your@email.com
 - **站内公开电话**：+60 3 8023 1161
 - **社媒**：https://www.linkedin.com/company/xspec-technology/

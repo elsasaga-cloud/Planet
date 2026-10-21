@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 31 次（2024-05-11 → 2025-10-14）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-995.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.pctelecom.co.th/　语言：th　站点地图 URL 数：45
+- **标题**：PC Telecom – กล้องวงจรปิด จำหน่าย, ติดตั้งกล้องวงจรปิด ขายตรงจากผู้ผลิต LG
+- **首页栏目**：พี.ซี.เทเลคอม.จำกัด / ทำไมต้องเลือกเรา
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 75、poe 63、axis 45、switch 29、telecom 28、cctv 16、ethernet 15、10g 15、data center 14、industrial 13、surveillance 7、sfp 5
+- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：UTP7202GE-POE, UTP7204E-POE-A1, LNU-5460R, LNV-5460R, LNV-7260R, RNZE-B501A, RNRZ-B520A, TCC32MS, TCC34MP, TCC35MP, TCC32TS, TCC32TP
+- **站内公开邮箱**：service@pctelecom.co.th
+- **产品类页面**：https://www.pctelecom.co.th/products/switch-utp7202ge-poe/；https://www.pctelecom.co.th/products/switch-utp7204e-poe-a1/；https://www.pctelecom.co.th/products/switch-utp7204ge/；https://www.pctelecom.co.th/products/switch-utp7624gs-l3/；https://www.pctelecom.co.th/products/switch-utp7624ge-ie/；https://www.pctelecom.co.th/products/switch-utp7524ge-16gf8gt/
+- **已抓子页**：[2Port UTP7202GE-POE – PC Telecom](https://www.pctelecom.co.th/products/switch-utp7202ge-poe/)；[4Ports UTP7204E-POE-A1 – PC Telecom](https://www.pctelecom.co.th/products/switch-utp7204e-poe-a1/)；[P1477 – PC Telecom](https://www.pctelecom.co.th/products/axis-network-camera-p1477/)；[P1455LE – PC Telecom](https://www.pctelecom.co.th/products/axis-network-camera-p1455le/)；[TCC32MS – PC Telecom](https://www.pctelecom.co.th/products/tiandy-network-camera-tcc32ms/)；[TCC34MP – PC Telecom](https://www.pctelecom.co.th/products/tiandy-network-camera-tcc34mp/)
+- 首页正文摘录：Skip to content service@pctelecom.co.th 02-802-7350 หน้าหลัก สินค้าทั้งหมด Network Camera LG Network Camera LG LNU-5460R LG LNV-5460R​ LG LNV-7260R LG RNZE-B501A Video Recorder LG RNRZ-B520A AXIS Network Camera P1477 P1455LE P5655E Tiandy Network Camera Starlight Motorized IR Dome TCC32MS TCC34MP TCC35MP Starlight Motorized IR Bullet TCC32TS TCC32TP TCC34LP TCC35TP speed dome TCH326S TCH356S 19” GERMANY RACK G1 serie
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 63 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-995.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -176,7 +191,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -79,6 +79,19 @@ updated: 2026-10-21
 - **风险/边界**：无公开资料；语言；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）
 - **邮件切入句（英文）**：Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://techsarf.com/　语言：tr　站点地图 URL 数：0
+- **标题**：DÜZGÜN TOPTAN TİCARET
+- **首页栏目**：TÜM ÜRÜNLER / Fırsat Ürünleri / İndirimli Ürünler / Çok Satılanlar / Son Gezilen Ürünler / Yeni Gelen Ürünler / Popüler Kategoriler / POPÜLER KATEGORİLER
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 29、poe 29、wireless 12、ethernet 9、cctv 9、oem 9、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：SH-4626, HD842, HD-4724
+- **站内公开邮箱**：duzgun.toptan.ticaret@gmail.com
+- **已抓子页**：[DÜZGÜN TOPTAN TİCARET](https://techsarf.com/Ana-Kategori/3/Network-Urunleri)；[DÜZGÜN TOPTAN TİCARET](https://techsarf.com/Kategori/252/Poe-Switch)；[DÜZGÜN TOPTAN TİCARET](https://techsarf.com/Bayi-Girisi)；[DÜZGÜN TOPTAN TİCARET](https://techsarf.com/Kategori/179/Vga-Urunleri)；[DÜZGÜN TOPTAN TİCARET](https://techsarf.com/Kategori/178/HDMi-Urunleri)；[DÜZGÜN TOPTAN TİCARET](https://techsarf.com/Kategori/116/Power-Urunleri)
+- 首页正文摘录：ÖDEME YAP $: 49.65 TL €: 55.70 TL Ödeme İşlemleri Ödeme Sayfası Kart Oranlarımız Ödemelerim Banka Hesap Numaraları Günü Gelen Ödemeler Bayi Panelim Müşteri Temsilcisi Panelim Siparişlerim Cari Genel Durum Cari Hareketlerim Servisteki Ürünlerim Çıkış Yap Bayi Giriş Bayimiz Olun İletişim Markalar GAME MASTER HADRON OEM QPART Müşteri Temsilcisi Bayi Panelim Ödeme Sayfası Ödemelerim Siparişlerim Servisteki Ürünlerim Çıkı
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 29、监控 9 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-785.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

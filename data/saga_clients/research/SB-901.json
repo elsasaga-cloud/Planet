@@ -1,0 +1,116 @@
+{
+ "code": "SB-901",
+ "name_official": "eSoft（esoft.fi，芬兰网店）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 2026-10-21，芬兰语）",
+ "summary": "芬兰网络设备网店（Verkkokauppa），PoE 品类极深：PoE 交换机 / 工业 PoE（104 个 SKU）/ PoE 集线器 / PoE over COAX / PoE 注入器与分离器；在售 **HRUI 8×FE PoE+ +2GE+1SFP 95W（HR901-AF-821GNS）**、PLANET、24×GE+4×10G L3 管理、16×PoE+ +4 SFP 220W 管理、MC 机框、SFP BiDi 模块；表内注「AOA 的」（在用同行产品名单），无互动。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "HRUI（！）",
+  "PLANET",
+  "Cisco",
+  "Aruba",
+  "Fortinet"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业 PoE 品类 104 件；在售 HRUI 8×FE PoE+ +2GE+1SFP 95W",
+   "quote": "Industrial PoE ( 104 )… HRUI 8×10/100(8x PoE+) +2xGE+1xSFP 95W 802.3af/at Switch",
+   "url": "https://www.esoft.fi/tuote-osasto/tuotekategoriat/power-over-ethernet/industrial",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "首页在售：SFP BiDi 20 km、24×GE+4×10G SFP+ L3 管理 19 英寸、16×PoE+ +4 SFP 220W 管理、MC 机框 10 英寸",
+   "quote": "SFP 1000Base-BX BIDI 20km… 24x 10/100/1000 + 4x 10G/1G SFP+/SFP Switch L3 Managed Switch 19”… 16xGiga (16x PoE+)+4xGb SFP/TP 220W IEEE802.3af Managed Switch 19”… Media converter chasis 10” 7x AC PS",
+   "url": "https://www.esoft.fi/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "关键词 poe 399 / sfp 139 / industrial 40 / switch 45；邮箱 esoft@esoft.fi；品牌 HRUI / Cisco / Aruba / Fortinet / PLANET",
+   "quote": "kw poe 399, sfp 139, industrial 40; brands HRUI, Cisco, Aruba, Fortinet, PLANET",
+   "url": "https://www.esoft.fi/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "来源：客户再筛选_在用同行的产品.xlsx 第 15 行，注「AOA 的」；兴趣：工业 FS",
+   "quote": "AOA的；工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "通用邮箱",
+   "email": "esoft@esoft.fi",
+   "phone": "",
+   "source": "https://www.esoft.fi/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照品牌识别：已售 HRUI）"
+ },
+ "company_facts": {
+  "legal_name": "（待核，eSoft Oy？）",
+  "founded": "（待核）",
+  "hq": "芬兰",
+  "size": "小型网店",
+  "other": "芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP）"
+ },
+ "business_lines": [
+  "网络设备网店：PoE 交换机 / 工业 PoE / 注入器 / 分离器 / SFP / MC / GPS 追踪"
+ ],
+ "products_seen": [
+  {
+   "brand": "HRUI",
+   "model": "HR901-AF-821GNS",
+   "spec": "8×FE PoE+ + 2 GE + 1 SFP 95W",
+   "saga": "Saga STC 商用线同源（无价差）",
+   "url": "https://www.esoft.fi/tuote/tuotekategoriat/power-over-ethernet/poe-kytkimet/hrui",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "（未标）",
+   "model": "24×GE + 4×10G SFP+ L3 管理 19 英寸",
+   "spec": "L3 汇聚",
+   "saga": "Saga STC-424XGGM(L3) $269.1/280.3/291.5",
+   "url": "https://www.esoft.fi/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "（未标）",
+   "model": "16×PoE+ + 4 SFP 220W 管理",
+   "spec": "商用 PoE 管理",
+   "saga": "Saga STC-2216GPM（HRUI 列表 $137.5）",
+   "url": "https://www.esoft.fi/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "网店 / 经销（已卖 HRUI、PLANET）",
+  "region": "芬兰（欧洲主攻区）"
+ },
+ "signals": [
+  "工业 PoE 104 SKU + 已卖 HRUI → 对中国工业 PoE 线完全开放",
+  "欧洲主攻区、无互动 → 首触点"
+ ],
+ "risks": [
+  "HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入",
+  "网店对 MOQ 1 / 小批量友好，但价格透明"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。"
+ },
+ "email_hook": "Your Industrial PoE category already runs to 100+ SKUs — we build Marvell-based DIN-rail PoE switches (8 PoE + 2 SFP, managed or unmanaged) in neutral packing, 1-pc MOQ; which price point in that category is currently hardest for you to fill?"
+}

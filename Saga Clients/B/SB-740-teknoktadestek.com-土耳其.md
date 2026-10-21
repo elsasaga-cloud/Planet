@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -85,6 +85,23 @@ updated: 2026-10-21
 - **风险/边界**：小型；ISAF 未表达需求；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）
 - **邮件切入句（英文）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://teknoktadestek.com/　语言：tr　站点地图 URL 数：671
+- **标题**：Güvenlik Kamera Sistemleri, Alarm ve Akıllı Ev Çözümleri / Tek Nokta Destek
+- **描述**：İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik.
+- **首页栏目**：Güvenlik ve Ağ Çözümlerinde Tek Nokta / Profesyonel Video Gözetim / Hırsız Alarm Sistemleri / Akıllı Ev & Otomasyon / Güçlü Network Altyapısı / İhtiyacınıza Göre Uçtan Uca Çözüm / Video Gözetim (CCTV) / Network Altyapısı
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 71、dahua 32、nvr 30、poe 18、cctv 15、wireless 14、uniview 6、ethernet 3、tp-link 3、hikvision 2、fiber 1
+- **站内出现的品牌**：Ajax, Dahua, Zyxel, Uniview, Hanwha, Paradox, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TC-H388M, IPC-HDBW1431R, DS-2CE16K0T, IPC2124LR3, MG5000, NR7101, BE19000, NSW2010-10T-POE-IN, NSW2010-16T2GC-POE-IN, NSW2010-24T2GC-POE-IN, NSW2010-6T-POE-IN, NSW2020-24T1GT1GC-POE-IN
+- **站内公开邮箱**：info@teknoktadestek.com
+- **社媒**：https://wa.me/905323157258, https://wa.me/905323157258?text=Merhaba%2C%20UNV%20Uniview%20NSW2020-16T1GT1GC-POE-IN%2016%20Port%20...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum., https://wa.me/905323157258?text=Merhaba%2C%20Uniview%20NSW2010-10T-POE-IN%2010%20Port%20Switch%208%20P...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum., https://wa.me/905323157258?text=Merhaba%2C%20Uniview%20NSW2010-16T2GC-POE-IN%2016%20Port%20PoE%20Swi...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum., https://wa.me/905323157258?text=Merhaba%2C%20Uniview%20NSW2010-24T2GC-POE-IN%2024%20Port%20PoE%20Swi...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum., https://wa.me/905323157258?text=Merhaba%2C%20Uniview%20NSW2010-6T-POE-IN%206%20Port%20Switch%204%20Por...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum.
+- **产品类页面**：https://teknoktadestek.com/index.php?route=product/category&amp;path=59；https://teknoktadestek.com/index.php?route=product/category&amp;path=65；https://teknoktadestek.com/index.php?route=product/category&amp;path=69；https://teknoktadestek.com/index.php?route=product/category&amp;path=65_67；https://teknoktadestek.com/index.php?route=product/category&amp;path=65_68；https://teknoktadestek.com/index.php?route=product/category&amp;path=69_70
+- **已抓子页**：[Network Switch Ürünleri ve Fiyatları / Tek Nokta Destek](https://teknoktadestek.com/index.php?route=product/category&path=161)；[Mağaza ve Perakende Güvenlik Kamera Sistemleri / Tek Nokta D](https://teknoktadestek.com/magaza-perakende-guvenlik-kamerasi)；[Bursa Network Kurulumu — Switch, Access Point, Kablolama / T](https://teknoktadestek.com/bursa-network-altyapi-kurulumu)；[Plaka Tanıma ve Kavşak PTZ Kamera Sistemleri / Tek Nokta Des](https://teknoktadestek.com/plaka-tanima-kavsak-kamera)；[Okul Güvenlik Kamera Sistemi – Yapay Zekâ / Tek Nokta Destek](https://teknoktadestek.com/okul-guvenlik-kamera-sistemi)；[Solar (Güneş Enerjili) ve Kablosuz Güvenlik Kameraları / Tek](https://teknoktadestek.com/solar-kablosuz-guvenlik-kamerasi)
+- 首页正文摘录：08:30 - 18:00 - Destek Hattı: 0 224 719 0 800 info@teknoktadestek.com WhatsApp Destek Menu HAKKIMIZDA ÜRÜNLER AJAX Akıllı Teknoloji ve Otomasyon Alarm Sistemleri Kamera Video Gözetim Sistemleri Su Sızıntı Önleyiciler Yangın Algılama Sistemleri FONRİ Akıllı Alarm Ürünleri Akıllı Elektrik ve Aydınlatma Ürünleri Akıllı Kameralar, Kapı Zil ve Kilitleri Akıllı Sensör ve Dedektörler Akıllı Yaşam / Konfor Ürünleri NEUTRON H
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 18、监控 45 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-740.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -72,7 +72,7 @@ updated: 2026-10-21
 - **标题**：Mediakonwertery, konwertery światłowodowe, konwerter, mediakonwerter • www.media-konwertery.pl
 - **描述**：Mediakonwertery, konwertery mediów, Fibrain, Repotec, kable światłowodowe, światłowody Zapraszamy na naszą stronę www.media-konwertery.pl .
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 64、gigabit 40、dahua 29、planet 28、switch 25、poe 25、tp-link 20、cisco 10、ethernet 8、10g 8
-- **站内出现的品牌**：PLANET, Dahua, TP-Link, Intellinet, Cisco, Allied Telesis, Korenix, Edimax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Dahua, PLANET, TP-Link, Intellinet, Cisco, Allied Telesis, Korenix, Edimax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：MC110CS, IMC801FP, MC1008, PFS4206-4P-120, IGUP-1205AT, RP-IPG411-12V, PFS3103-1GT1ET-60-V2, PFS3103-1GT1ET-60, RP-0800IL, RP-G0802LB, RP-G3224W, RP-G3224D
 - **社媒**：https://twitter.com/InterCompPl, https://www.facebook.com/InterCompPl, https://www.youtube.com/user/intercomppl
 - **已抓子页**：[PoE • Produkty • www.media-konwertery.pl](https://www.media-konwertery.pl/Produkty/search=PoE)；[switch • Produkty • www.media-konwertery.pl](https://www.media-konwertery.pl/Produkty/search=switch)；[Dahua kamera • Produkty • www.media-konwertery.pl](https://www.media-konwertery.pl/Produkty/search=Dahua-kamera)；[Switche • www.media-konwertery.pl](https://www.media-konwertery.pl/Switche-c798/)；[Przemysłowe • www.media-konwertery.pl](https://www.media-konwertery.pl/Przemyslowe-c1932/)；[Switche Zarządzalne • www.media-konwertery.pl](https://www.media-konwertery.pl/Switche-Zarzadzalne-c796/)

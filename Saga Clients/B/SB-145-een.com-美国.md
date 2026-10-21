@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. Request a demo today.
 - **首页栏目**：AI-powered surveillance video. Proactive security. Smarter business operations. / Smart surveillance is so much more than cameras. / Eagle Eye Cloud Video Management System (VMS) / Eagle Eye Updates / Unlimited flexibility to maximize your investment / Scale to unlimited locations, cameras, and users / Use your existing cameras / Works with any bandwidth
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 135、surveillance 43、switch 22、access control 21、poe 17、sfp 6、axis 4、data center 3、gigabit 2、10g 2、nvr 2、industrial 1
-- **站内出现的品牌**：Axis, Bosch, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Bosch, Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RJ-45, SW05M, SW26M
 - **站内公开邮箱**：emeasales@een.com, japansales@een.com, sales@een.com, u003eemeasales@een.com, u003ejapansales@een.com, u003esales@een.com
 - **站内公开电话**：+1 512 473 0500, +1-512-473-0500, +31 (0) 20 26 10 460, +31 20 26 10 460, +52 55 8526 4926, +81-3-6868-5527

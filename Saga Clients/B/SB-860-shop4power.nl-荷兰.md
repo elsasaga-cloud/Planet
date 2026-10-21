@@ -22,7 +22,7 @@ last_contact: 2025-10-07
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-07）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +71,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-860.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://shop4power.nl/　语言：nl-NL　站点地图 URL 数：65
+- **标题**：Shop4Power - Power Supply, Switches & Planet Ethernet Specialist
+- **描述**：Op zoek naar Power supply, switches, Power over Ethernet producten en Planet producten? Bij Shop4Power vind je alles, wij leveren uit voorraad
+- **首页栏目**：Planet Specialist / sCODENO Industriële Switches / E-Scooter Accu’s / Selectie van Onze merken - leverbaar uit voorraad / Kwaliteit onder extreme omstandigheden / POPULAIRE PRODUCTEN / Shop4Power – Power oplossingen / Batterijen, accu's en poweroplossingen
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 939、ethernet 605、poe 554、planet 296、gigabit 223、media converter 164、sfp 149、10g 103、industrial 58、fiber 20、camera 19、automation 15
+- **站内型号串**（正则抽取，含非交换机）：WGS-4215-16P2S, EN50155, IEEE802, IEC254-1, POE-171S, FGSW-2022VHP, GS-4210-16P2S, IGS-504PT, IGS-4215-16P4X, IGS-1000-4UP2X, IGS-514PT, IGS-6325-4UP2X
+- **站内公开邮箱**：info@shop4power.nl
+- **站内公开电话**：+31 (0)85 40 19 230
+- **社媒**：https://twitter.com/share?url=https://shop4power.nl/product/industrieel-ethernet/industrieel-power-over-ethernet/flat-type-l2-l2-ring-managed-gigabit-poe-switch/planet-wgs-4215-16p2s/
+- **产品类页面**：https://shop4power.nl/scodeno-switches-overtreffen-verwachtingen/；https://shop4power.nl/products/；https://shop4power.nl/product-categories/；https://shop4power.nl/；https://shop4power.nl/map/；https://shop4power.nl/tips/
+- **已抓子页**：[Planet WGS-4215-16P2S 16 poort PoE industriële flat-type swi](https://shop4power.nl/product/industrieel-ethernet/industrieel-power-over-ethernet/flat-type-l2-l2-ring-managed-gigabit-poe-switch/planet-wgs-4215-16p2s/)；[Planet PoE-Switches - Shop4power.nl / Planet & PoE specialis](https://shop4power.nl/s/power-over-ethernet/poe-switch/)；[Din-rail Unmanaged Gb PoE Switch Archieven - Shop4power.nl](https://shop4power.nl/s/industrieel-ethernet/industrieel-power-over-ethernet/din-rail-unmanaged-gb-poe-switch/)；[Rack L3 Ring Managed Gb PoE Switch Archieven - Shop4power.nl](https://shop4power.nl/s/industrieel-ethernet/industrieel-power-over-ethernet/rack-l3-ring-managed-gb-poe-switch/)；[Din-rail L2/L4 Managed Gb PoE Switch Archieven - Shop4power.](https://shop4power.nl/s/industrieel-ethernet/industrieel-power-over-ethernet/din-rail-l2-l4-managed-gb-poe-switch/)；[Din-Rail L3 Ring Managed Gb PoE Switch Archieven - Shop4powe](https://shop4power.nl/s/industrieel-ethernet/industrieel-power-over-ethernet/din-rail-l3-ring-managed-gb-poe-switch/)
+- 首页正文摘录：Ga naar inhoud Veilig shoppen Gratis verzending in NL vanaf € 150,- Ruim assortiment Veilig shoppen Gratis verzending in NL vanaf € 150,- Ruim assortiment Zoeken naar: Login Winkelwagen / € 0,00 0 Geen producten in de winkelwagen. Terug naar winkel 0 Winkelwagen Geen producten in de winkelwagen. Terug naar winkel Home Batterij sets Batterij Sets Shop4power levert batterij sets uit voorraad voor veel verschillende toe
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 63、PoE 554 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-860.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +190,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

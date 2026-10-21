@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Antifurto & Allarmi Automazione Kit Videosorveglianza Networking Utensili Videocitofoni Videosorveglianza Catalogo Ajax I nostri Ultimi Articoli I nostri prodotti più venduti
 - **首页栏目**：Antifurto & Allarmi / Automazione / Kit Videosorveglianza / Networking / Utensili / Videocitofoni / Videosorveglianza / Catalogo Ajax
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 117、switch 93、gigabit 24、industrial 18、telecom 14、dahua 10、nvr 8、uniview 8、sfp 7、wireless 6、2.5g 4、ethernet 3
-- **站内出现的品牌**：Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：SF-SWI1008HIPOE-GF-AC-130-DIN, RG-POE-50-60W-MG, IT01771320700, SF-NVR6116-B2, SWI1008HIPOE, POEXT-4FE-DIN, SF-SW8FE4GE2MGSFP-2BT-120W, SW0604POE-G-65-E, RG-ES205GC-P, SF110P-IMOU, SF-SW0704HIPOE-GMF-65, SF-SW1008HIPOE-H-120
 - **站内公开电话**：+39 340 756 2053
 - **社媒**：https://wa.me/393407562053

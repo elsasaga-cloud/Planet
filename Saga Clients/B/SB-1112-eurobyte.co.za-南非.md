@@ -74,7 +74,7 @@ updated: 2026-10-21
 - **描述**：Home of Premium Technology - Harness the power of high-performance technology. Eurobyte offers surveillance, networking, IT, power solutions.
 - **首页栏目**：Shop Now / CCTV / FIBRE OPTIC CABLING / NETWORK CABLING / NETWORK EQUIPMENT / IT HARDWARE / SERVER CABINETS / Featured Products
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 70、camera 56、switch 49、cable 42、fibre 36、wireless 28、cctv 15、surveillance 14、uniview 14、poe 7、media converter 7、nvr 7
-- **站内出现的品牌**：Ruijie, Huawei, Uniview, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ruijie, Huawei, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：EG100, EG1500, EG200, EG300, EG400, EG700
 - **站内公开邮箱**：online@eurobyte.co.za
 - **产品类页面**：https://www.eurobyte.co.za/network-equipment/switches/planet-switches/4-port/planet-ip30-industrial-4-port-10/…；https://www.eurobyte.co.za/network-equipment/switches/planet-switches/media-converters/planet-100base-fx-to-10…；https://www.eurobyte.co.za/network-equipment/switches/planet-switches/media-converters/planet-100base-fx-to-10…；https://www.eurobyte.co.za/network-equipment/switches/planet-switches/5-port/planet-ip30-slim-type-5-port-indu…；https://www.eurobyte.co.za/network-equipment/switches/planet-switches/8-port/planet-ip30-slim-type-8-port-indu…；https://www.eurobyte.co.za/network-equipment/switches/planet-switches/media-converters/planet-1000base-x-to-10…

@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：TEAM TELECOM si-a inceput activitatea in anul 2003 ca firma cu capital romanesc, integral privat, cu activitate de distributie de echipamente pentru
 - **首页栏目**：Peste 20 de ani de experiență în telecomunicații și IT&C / Parteneriate solide cu lideri internaționali din telecomunicații / Te putem ajuta in proiectul tau? / Soluții complete pentru infrastructura de telecomunicații / Solutii cablare Cupru / Solutii fibra optica / Dulapuri de comunicatie 19" / Echipamente networking
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 38、switch 30、industrial 22、planet 21、ethernet 12、data center 12、wireless 8、poe 2、integrator 2
-- **站内出现的品牌**：PLANET, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：team@teamtelecom.ro
 - **社媒**：https://www.facebook.com/TeamTelecomromania/, https://www.linkedin.com/company/teamtelecom/
 - **产品类页面**：https://teamtelecom.ro/en/networking-equipments/planet-industrial-switch/；https://teamtelecom.ro/produse/echipamente-networking/switch-uri-industriale-planet/；https://teamtelecom.ro/produse/echipamente-networking/switch-uri-industriale-omniswitch-alcatel-lucent/；https://teamtelecom.ro/en/alcatel-lucent-omniaccess-wlan-switches/；https://teamtelecom.ro/produse/echipamente-networking/switch-uri-lan-planet/；https://teamtelecom.ro/produse/echipamente-networking/switch-uri-wlan-omniaccess-alcatel-lucent/

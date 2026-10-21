@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables, and advanced end-user and production coding solutions.
 - **首页栏目**：Industries / Powering the AI Revolution with 1.6 Terabit Innovation / Our Product Range / Discover Smarter Cooling Strategies for AI Factories / ISO and TL9000 Quality with a Lifetime Warranty / Industries We Support / Service Providers / Data Centers
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 83、data center 32、sfp 25、media converter 18、oem 10、fiber 9、10g 4、ethernet 2、telecom 2、switch 1、poe 1、distributor 1
-- **站内出现的品牌**：PLANET, Cisco, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Cisco, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：TL9000, QSFP28, SFP28, T1-ACC-NDR-800G, ISO9001, ISO14001, QSFP56, T1-100G-QSFP28-LR4-TAA, T1-40G-AOC, T1-AOC-100G, T1-AOC-10G, T1-AOC-25G
 - **站内公开电话**：+1 877-816-3987, +1 877-816-3987 47257, +44 330-223-7987, +44 330-223-7987 47257
 - **社媒**：https://www.linkedin.com/company/t1nexus/

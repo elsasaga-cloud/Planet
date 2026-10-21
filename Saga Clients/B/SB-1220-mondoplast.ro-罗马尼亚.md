@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv
 - **首页栏目**：Oferte / Produse / Info / Curs valutar / 1 EURO = 5.3285 RON 1 USD = 4.7516 RON / Cablu Coaxial RG-59 3m, cu mufe F rapide BraunGroup - RG59FFQ3m / Cablu coaxial 75ohm Amiko - RG6W305CCW / Cablu F/FTP cat6A+ LSNH CPR:Dca 625MHz AWG23 Belden - 10GXE01D
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 16、switch 15、industrial 13、gigabit 10、wireless 10、cctv 8、10g 6、sfp 5、cable 4、ethernet 2、fibre 1、nvr 1
-- **站内出现的品牌**：PLANET, Hikvision, Hirschmann　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hikvision, Hirschmann　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：RO-12755240, AWG24, XTGK-45, AWG23, RG-59, YE00923-CTS, YE00918, HT-106C, HT-3141A, CMM5M-2U, CM3001H, FDB-12M
 - **站内公开邮箱**：bucuresti@mondoplast.net, financiar@mondoplast.ro, timisoara@mondoplast.net, webmaster@mondoplast.ro
 - **站内公开电话**：0000 0002 3005 7310, 0000 0119 7018, 0000 0119 7045, 0000 0119 7053, 000000053116, 00918 70.57

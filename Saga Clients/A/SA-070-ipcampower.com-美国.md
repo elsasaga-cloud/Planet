@@ -111,7 +111,6 @@ updated: 2026-10-21
 - **描述**：IPCamPower supplies POE Switches, Extenders, Splitters, and other devices designed specifically for the IP POE camera installer.
 - **首页栏目**：Dealer Program / PoE Switches / PoE Injectors / PoE Monitors / PoE Extenders & Repeaters / Our Mission / Quick Links / Newsletter
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 386、switch 191、gigabit 96、ethernet 24、cable 19、camera 15、sfp 8、industrial 6、installer 4、fiber 2、10g 2、cctv 1
-- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：IEEE802, MM-PS90-BT1
 - **站内公开邮箱**：sales@ipcampower.com, u003esales@ipcampower.com
 - **产品类页面**：https://ipcampower.com/blogs/multi-port-10g-poe-injectors-802-3bt-poe；https://ipcampower.com/blogs/blog-posts/this-poe-monitor-is-a-game-changer；https://ipcampower.com/blogs/news/multi-port-10g-poe-injectors-802-3bt-poe；https://ipcampower.com/blogs/blog-posts/how-much-time-and-money-will-you-save-with-the-ipcp-212-poe-combiner-a…；https://ipcampower.com/sitemap_products_1.xml?from=5866927751336&amp;to=8776179613868

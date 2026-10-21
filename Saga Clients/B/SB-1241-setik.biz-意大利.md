@@ -63,7 +63,7 @@ updated: 2026-10-21
 - **描述**：Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik.
 - **首页栏目**：Setik.biz / Aggiunta al Carrello
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 150、switch 122、surveillance 99、dahua 96、camera 85、gigabit 55、cable 51、hikvision 49、access control 41、tp-link 32、ethernet 23、installer 19
-- **站内出现的品牌**：Dahua, Hikvision, Ajax, ZKTeco, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Dahua, Hikvision, ZKTeco, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：ES210GMP, IEEE802, IT09729650961, DS-KIS604-S, DS-3E0105-O, TL-PD30G-M2, PFS3008-8GT-V2, ES205G, ES208G, CS4006-4GT, CS4005-4ET1GT-36, CS4006-4ET2GT-36
 - **站内公开邮箱**：your@email.com
 - **站内公开电话**：+39 0362 1855440, +3903621855440

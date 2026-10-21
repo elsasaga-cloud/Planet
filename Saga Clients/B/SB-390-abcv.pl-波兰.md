@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane! Posiadamy w stałej ofercie setki urządzeń służących do intalacji systemu monitoringu, monitoringu IP, HD-SDI, HD-CVI, HD-TVI, AHD, 3G, alarmowego, kontroli dostępu, telewizji naziemnej
 - **首页栏目**：BE WAVE HYBRID i WIRE / Monitoring bez kompromisów / Promocja Październik 2026 / Najnowsze promocje Zobacz wszystkie / Akumulator MWL 80-12 AGM 12V 80Ah MW Power / Autonomiczna optyczna czujka dymu ADR-20N / Kabel HDMI 2.0b NS-003/4K 3m Conotech / Switch PoE S124 Pulsar
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 86、switch 60、poe 41、cctv 21、axis 17、dahua 12、wifi 9、sfp 7、mikrotik 6、uniview 4、cable 3、ubiquiti 3
-- **站内出现的品牌**：Hikvision, Axis, Hanwha, Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Hikvision, Hanwha, Axis, Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：TF-P100, ADR-20N, BRATECK-LCD-501N, DS-1299ZJ, MDR-10-12, DS-3E2318P, DS-3E0505D-E, DS-3E0524-E, DS-3E0526P-E, DS-3E0508D-E, DS-3E1105P-EI, DS-3E1326P-EI
 - **站内公开邮箱**：ksiegowosc@abcvision.pl, oferta@abcvision.pl, serwis@abcvision.pl, sklep@abcvision.pl, spedycja@abcvision.pl, technika@abcvision.pl
 - **站内公开电话**：+48 24 362-30-14, +48 516-689-427, +48 793-221-737

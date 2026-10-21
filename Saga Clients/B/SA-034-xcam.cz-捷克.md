@@ -104,7 +104,7 @@ updated: 2026-10-21
 - **描述**：Využíváte intelligenci kamerových systémů, nebo kamery v Cloudu ?? Kontaktujte nás Naše služby Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba. Zajištění instalace bezpečnostních alarmů a přístup
 - **首页栏目**：Využíváte intelligenci kamerových systémů, nebo kamery v Cloudu ?? / Naše služby / Automatické vjezdy se závorami, čtení SPZ vozidel, evidence vjezdů a docházka / Timelaps / časosběr dohled na stavbách, Solární panely pro napájení / Zajímavé články / Instalace kamer na Fotovoltaické elektrárně / Produkty / LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 20、industrial 16、switch 14、sfp 10、ethernet 5、nvr 2、gigabit 1、axis 1
-- **站内出现的品牌**：Axis, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：X-IMC005GP, X-104GP-SFP, CZ-720, CZ29397839
 - **站内公开邮箱**：info@xcam.cz
 - **已抓子页**：[LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial - Xcam.cz](https://www.xcam.cz/produkt/kamera/)；[LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC00](https://www.xcam.cz/produkt/imc005gp/)；[Instalace kamer na Fotovoltaické elektrárně - Xcam.cz](https://www.xcam.cz/2025/03/24/instalace-kamera-na-solar-fieldu/)

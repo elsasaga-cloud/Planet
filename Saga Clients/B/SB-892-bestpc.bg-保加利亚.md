@@ -19,10 +19,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-424XGGM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：保加利亚的经销/集成（类型待核）
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-892.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bestpc.bg/　语言：bg　站点地图 URL 数：12730
+- **标题**：Магазин за лаптопи, компютри и компоненти - BestPC.BG
+- **描述**：Купи от BestPC.BG / Евтини лаптопи, таблети, телевизори, смартфони, компютри, монитори, периферия, компоненти. Ремонт, сервиз, диагностика на компютри и лаптопи
+- **首页栏目**：Използваме бисквитки / ПРОМО ПРОДУКТИ / Научавайте първи за новини и промоции / ПРОДУКТИ НА ФОКУС / НОВИ ЛАПТОПИ / ПО КАТЕГОРИИ / ЛАПТОПИ / Нови компютри
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 111、sfp 96、tp-link 66、10g 46、ethernet 24、switch 22、nvr 14、ubiquiti 12、gigabit 11、wireless 8、planet 8、mikrotik 8
+- **站内出现的品牌**：Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AV1000, TL-WPA8631P, AV600, TL-PA7017, TL-WPA4220, TL-PA7017P, LS1008, TL-PA8010P, AV1300, MS108, ST3105C, ST3108C
+- **站内公开邮箱**：store@bestpc.bg
+- **产品类页面**：https://bestpc.bg/bg/network-switches；https://bestpc.bg/bg/network-switches-aksesoari；https://bestpc.bg/bg/kvm-switch-prevkliuchvateli；https://bestpc.bg/bg/other-products；https://bestpc.bg/bg/powerline-products；https://bestpc.bg/bg/voip-produkti
+- **已抓子页**：[Комутатори / Суичове – бързи и надеждни мрежови решения / Be](https://bestpc.bg/bg/network-switches)；[Powerline продукти на ниски цени /BestPC.BG](https://bestpc.bg/bg/powerline-products)；[Почистващи продукти на ниски цени /BestPC.BG](https://bestpc.bg/bg/produkti-pochistvane)；[Продукти за суичове на ниски цени /BestPC.BG](https://bestpc.bg/bg/network-switches-aksesoari)；[Контакти за обща употреба на ниски цени /BestPC.BG](https://bestpc.bg/bg/kontakti-tokova-zashtita)；[PON на ниски цени /BestPC.BG](https://bestpc.bg/bg/pon)
+- 首页正文摘录：Бисквитки Използваме бисквитки За работата на магазина, статистика и по-подходящи оферти. Общи условия Разреши всички Покажи детайли Изберете категориите, които разрешавате: Нужни Сесия, кошница, сигурност Статистика Как се ползва сайтът Персонализация Предпочитания при пазаруване Маркетинг Реклами и ремаркетинг Разреши избраните Използвай само нужни бисквитки 0885 836 555 0 Вход Регистрация Любими Кошницата е празна
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-892.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -90,7 +106,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424XGGM | 官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手 | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -99,9 +115,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -111,7 +127,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -137,30 +153,12 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

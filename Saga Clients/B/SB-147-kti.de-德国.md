@@ -73,7 +73,7 @@ updated: 2026-10-21
 - **描述**：Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr.
 - **首页栏目**：Aktive Netzwerktechnik direkt vom Hersteller. KTI – Wir schaffen Verbindungen. / Produktkatalog / Einfach online blättern / Aktuelles / Fast Ethernet in der Industriellen Automation – 24/7 vernetzt / Drei Jahrzehnte aktiv vernetzt - KTI wird 30! / Dr. Lan erklärt: SlimWire+ vs. SlimWire Ultra 7 / Newsletter
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 35、switch 33、sfp 26、industrial 22、ubiquiti 19、oem 16、odm 16、poe 15、gigabit 10、wireless 3、automation 2、fiber 1
-- **站内出现的品牌**：Ubiquiti, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：NV-202G, NV-520G, KGS-1060, KGS-2422, KGC-310M, KFS-1640-L, KFS-0840, KFS-0540, NV-450S, NV-450, ECS-4150-28P, ECS-4650-54P
 - **站内公开邮箱**：info@kti.de, sales@kti.de
 - **社媒**：https://linkedin.com/company/kti-distribution-gmbh, https://www.instagram.com/kti_distribution/, https://www.linkedin.com/company/kti-distribution-gmbh/, https://www.youtube.com/@KTIDistributionGmbH

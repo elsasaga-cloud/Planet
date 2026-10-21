@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-988.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ltv-cctv.ru/　语言：ru-ru　站点地图 URL 数：1846
+- **标题**：LTV - лучшая техника для видеонаблюдения от ЛУИС+
+- **描述**：Линейка оборудования LTV - это полнофункциональный набор устройств, оптимальных по соотношению «цена/качество», ассортимент которых постоянно пополняется, следуя новым тенденциям на рынке CCTV и создавая их. Марка LTV представлена во всех основных подгруппах оборудования для создания систем видеонаб
+- **首页栏目**：Лучшая техника для видеонаблюдения / FAQ Системы IP-видеонаблюдения / Онлайн-калькуляторы для быстрых расчетов / Программное обеспечение
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 9、camera 2、surveillance 1、access control 1、distributor 1、wholesale 1、installer 1
+- **站内公开邮箱**：bryanin.dmitriy@luis.ru, danilov.maksim@luis.ru, derishev.evgeniy@luis.ru, don@luis.ru, dv@luis.ru, gavrilov.pavel@luis.ru
+- **站内公开电话**：+7 (342) 206-07-47, +7 (343) 298-20-28, +7 (343)298-20-28, +7 (3452) 48-95-46, +7 (3452) 63-81-83, +7 (347) 225-33-00
+- **社媒**：http://vk.com/Luis.Russia, http://www.youtube.com/user/TheLuisplus, https://t.me/Luis_Plus
+- **产品类页面**：https://ltv-cctv.ru/links-page/termokojuhi_s_blokom_pitaniya/ltv-hov-260h-12-poe/；https://ltv-cctv.ru/links-page/termokojuhi_s_blokom_pitaniya/ltv-heb-320h-12-poe/；https://ltv-cctv.ru/links-page/vzryvozashchishchennoe-oborudovanie/ltv-ex-300-a-poe/；https://ltv-cctv.ru/links-page/vzryvozashchishchennoe-oborudovanie/ltv-ex-300-a-ir-poe/；https://ltv-cctv.ru/actions/rasprodazha/_index.php；https://ltv-cctv.ru/actions/rasprodazha/_rasprodazha_kameri.php
+- **已抓子页**：[Где купить оборудование для видеонаблюдения LTV](https://ltv-cctv.ru/contacts/)；[O нас](https://ltv-cctv.ru/about-ltv/)；[About LUIS+](https://ltv-cctv.ru/about-ltv/en/)；[About KR](https://ltv-cctv.ru/about-ltv/kr/)；[About CH](https://ltv-cctv.ru/about-ltv/ch/)；[Пользовательское соглашение](https://ltv-cctv.ru/about-ltv/agreement/)
+- 首页正文摘录：Лучшая техника для видеонаблюдения Акции Каталог Где купить Портфолио Поддержка О нас Пресс-релизы FAQ Системы IP-видеонаблюдения В этом разделе вы найдете все самые подробные ответы на самые популярные вопросы по настройке, подключению IP-камер и видеорегистраторов LTV. Раздел регулярно обновляется! Онлайн-калькуляторы для быстрых расчетов Калькуляторы имеют стандартный и расширенный режимы и рассчитывают данные, уч
+- 数据文件：`data/saga_clients/site_snapshots/SB-988.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-16
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-19 → 2025-10-16）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-895.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://cop-security.com/　语言：en　站点地图 URL 数：500
+- **标题**：COP Security - We are the Specialist in Network Connection / COP SECURITY SYSTEM CORP.
+- **描述**：Cop Security was established in 2007, we are about providing the right solution for your CCTV and Networking needs. We build quality products from Taiwan! COP SECURITY was established in 1992 to design, develop and manufacture products of total solution in the safety and security field. Our main mis
+- **首页栏目**：PRODUCT VIDEO / About us / Did You Know / CONTACT US / COP SECURITY SYSTEM CORP.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 34、cctv 16、poe 13、surveillance 9、oem 7、ethernet 6、odm 6、nvr 5、industrial 4、switch 3
+- **站内型号串**（正则抽取，含非交换机）：AC110V, DC12-56V, EA-EOC101PH, EA-POE101W, AP6332CI, AH40EPA, AH40EPI, AH40EPIW, AH40EPS
+- **站内公开邮箱**：sales@cop-security.com
+- **站内公开电话**：+886-2-2218- 0302, +886-2-2218-0302, +886-2-2218-5785, +886-907-266-135, +886-907-266135
+- **社媒**：https://twitter.com/cop_security, https://www.facebook.com/copalexcctv/, https://www.linkedin.com/in/cop-security-11616b158/, https://www.youtube.com/channel/UCjXRz4lZ8-bNWCj1uX4rSMg/videos, https://www.youtube.com/watch?v=NMNX07yOmgc
+- **产品类页面**：https://www.cop-security.com/product.php?lang=en&amp;tb=3；https://www.cop-security.com/product.php?lang=en&amp;tb=3&amp;cid=177；https://www.cop-security.com/product.php?lang=tw&amp;tb=3&amp;cid=963；https://www.cop-security.com/product.php?lang=en&amp;tb=3&amp;cid=168；https://www.cop-security.com/product.php?lang=en&amp;tb=3&amp;cid=174；https://www.cop-security.com/product.php?lang=en&amp;tb=3&amp;cid=180
+- **已抓子页**：[CATALOG / COP SECURITY SYSTEM CORP.](https://www.cop-security.com/product.php?lang=en&tb=3&cid=2120)；[Product Video / COP SECURITY SYSTEM CORP.](https://cop-security.com/video.php?lang=en&tb=1&cid=122)；[Outdoor IR DIE-CAST Camera Housing / COP SECURITY SYSTEM COR](https://www.cop-security.com/product_d.php?lang=en&tb=3&id=13224)；[COP Security - We are the Specialist in Network Connection -](https://cop-security.com/eforms.php?lang=en&tb=1)；[About Cop Security - About US / COP SECURITY SYSTEM CORP.](https://cop-security.com/edcontent.php?lang=en&tb=1)
+- 首页正文摘录：EN 中文 About US Products Back Net/ HD Connection Surge Protection CCTV Security IR Illuminator Solar Energy Series SIP CATALOG Product Video Back Ethernet over Coaxial PoE Extender CCTV Cameras Surge Protectors IR Illuminator Misc. Support Back Download FAQ Q&A Warranty News Back News & Announcement Events Contact US Inquiry Box COP Family Back COP Korea COP Poland COP UK Languages ( English ) Back English 中文 Copyrigh
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 13 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-895.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +159,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
