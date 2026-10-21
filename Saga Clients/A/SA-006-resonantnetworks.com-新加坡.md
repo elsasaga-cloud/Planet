@@ -75,30 +75,41 @@ updated: 2026-10-21
 - **【第三方（LinkedIn）】规模 11–50 人，2013 年成立**
   > Industry: Telecommunications · Company size: 11-50 employees · Headquarters: Singapore · Founded: 2013
   > 来源：https://sg.linkedin.com/company/resonant-networks-pte-ltd（抓取 2026-10-21）
+- **【官网】地址电话邮箱与业务**
+  > Build subsea networks in the Asia Pacific region - Build Optical Networks to connect Data Centres … Fibre Characterisation (OLTS, OTDR, PMD, CD) … Address: 81 Ubi Avenue 4 # 09-28 UB.One Singapore 408830 Telephone: +65 6871 4128 E-mail: 11101110@resonantnetworks.com
+  > 来源：https://resonantnetworks.com/（抓取 2026-10-21）
+- **【注册】UEN / 注册日 / 行业分类变更 / 海缆项目**
+  > Resonant Networks Pte. Ltd. … Live Company … principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … deploying Submarine Line Terminal Equipment for the ADC subsea cable system across Singapore, Hong Kong, and Japan, and building the AAE-1 subsea cable system linking Penang … 20 Feb 2020 Company founded Registered in Singapore under UEN 202005761Z
+  > 来源：https://recordowl.com/company/pat-management-services-pte-ltd（抓取 2026-10-21）
+- **【官网】产品清单**
+  > 1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor
+  > 来源：https://resonantnetworks.com/products/（抓取 2026-10-21）
 - **KP**：—（销售邮箱（Crunchbase 公开））sales@resonantnetworks.com +65 6871 4128〔https://www.crunchbase.com/organization/resonant-networks〕
 - 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 用户表））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + ACRA 注册核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Resonant Networks Pte. Ltd. |
+| 法定名称 | Resonant Networks Pte. Ltd.（UEN 202005761Z，2020-02-20 注册；品牌 R~Nets，前身实体 2013-06-14 起） |
 | 成立 | 2013 起运营；现公司 2020 注册 |
-| 总部/地址 | Singapore |
-| 人数 | 11–50（LinkedIn） |
+| 总部/地址 | 81 Ubi Avenue 4 #09-28 UB.One, Singapore 408830（+65 6871 4128） |
+| 人数 | 11（2025-03 ACRA 变更：3 → 11）/ 10–50 |
 | 营收 | 约 $3M（RocketReach 口径） |
-| 其他 | 2025 年主营业务代码改为「供应数据中心网络系统与专业服务」 |
+| 其他 | 主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」 |
 
-- **业务线**：数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）；数据中心网络系统供应与专业服务；光纤周边（MPO 等，用户表已成单）
+- **业务线**：数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）；数据中心网络系统供应与专业服务；光纤周边（MPO 等，用户表已成单）；光网络工程（DC 互联、回传、海缆）；光纤配件 / DWDM / 测试设备销售；AI-Ready DC（光交叉、OCS、数字孪生）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （项目采购） | MPO/光纤周边；数据中心机柜侧交换机 | 用户表：买过光纤周边，也能用到交换机 | STC-448XGGM(L3) | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：直邮: trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com；LinkedIn: https://sg.linkedin.com/company/resonant-networks-pte-ltd；网站: https://resonantnetworks.com/
+- **触达通道（公开）**：直邮: trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com；LinkedIn: https://sg.linkedin.com/company/resonant-networks-pte-ltd；网站: https://resonantnetworks.com/；电话: +65 6871 4128（官网公开）；邮箱（公开）: 11101110@resonantnetworks.com（官网通用）
 - **近况信号**：
   - 2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）
   - 用户表：成单（Trevor Loi，solution provider）
+  - 官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业
+  - 2025-03 员工 3 → 11、行业分类变更——在扩张
 - **风险/边界**：数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位；新加坡人工贵、单量小
 - **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货
 - **邮件切入句（英文）**：For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.

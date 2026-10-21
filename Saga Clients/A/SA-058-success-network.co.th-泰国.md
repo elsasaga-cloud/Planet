@@ -59,7 +59,7 @@ updated: 2026-10-21
 - **是谁**：曼谷的网络/安防设备综合分销与工程商（2011 年成立，登记规模极小），代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3 等）；页面含 L3 交换机、工业自动化、光纤收发器类目。用户表：A 已回复 1 次；「同行经销商(Smartbyte)」清单——即在售与 SmartByte 同源/同行产品；兴趣工商业 FS，有 Utepo。
 - **类型**：分销商/系统集成（多品牌）
 - **规模**：2 人（workventure 登记）
-- **在卖/在用品牌**：PLANET, ORing, TRENDnet, Wi-Tek, W-LINK, C-DATA, Utepo
+- **在卖/在用品牌**：PLANET, ORing, TRENDnet, Wi-Tek, W-LINK, C-DATA, Utepo, Edgecore, TVT
 - **【官网】多品牌分销定位**
   > อุปกรณ์เครือข่าย Switch, Router, Access Point และ Media Converter ครบวงจร … ด้วยแบรนด์คุณภาพ เช่น Planet, O-Ring, Trendnet, Wi-Tek, W-LINK, C-DATA
   > 来源：https://www.success-network.co.th/products/（抓取 2026-10-21）
@@ -69,27 +69,42 @@ updated: 2026-10-21
 - **【官网】联系方式**
   > Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3 … Tel : 02-973 1966 · Tel : 081-659-4477 · Email : info@success-network.co.th
   > 来源：https://www.success-network.co.th/td-9421s3/（抓取 2026-10-21）
+- **【官网】代理品牌清单含 Planet / O-Ring / Trendnet / Wi-Tek / W-LINK / C-DATA**
+  > แบรนด์สินค้าที่คุณสนใจ - TVT - IR (Scene) - Uni-Ubi - ICT - Vissonic - ITC - Planet - O-Ring - Trendnet - Wi-Tek - W-LINK - C-DATA - Asustor - Shuttle … Line: @success_network หรือโทร 02-973-1966
+  > 来源：https://www.success-network.co.th/（抓取 2025-11-14）
+- **【官网】地址与邮箱**
+  > Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3, แขวงท่าแร้ง เขตบางเขน กรุงเทพมหานคร 10220 … Tel : 02-973 1966 … Tel : 081-659-4477 … Email : info@success-network.co.th
+  > 来源：https://www.success-network.co.th/products/（抓取 2025-09-30）
+- **【原厂名录】ORing APAC 官方经销商，公开联系邮箱**
+  > Success Network And Communication Co., Ltd. - sawithree@success-network.co.th - Tel: +6629731670-71 Fax: +6629731673
+  > 来源：https://oringnet.com/en/where-to-buy/apac（抓取 2026-07-22）
+- **【注册】注册日期与资本**
+  > SUCCESS NETWORK AND COMMUNICATION CO.,LTD. - เลขทะเบียนนิติบุคคล: 0105554082806 - วันเดือนปีที่จดทะเบียน: วันที่ 24 มิ.ย. 2554 … ทุนจดทะเบียน 10,000,000 บาท
+  > 来源：https://www.dataforthai.com/company/0105554082806/（抓取 2026-10-21）
 - **KP**：—（总机）info@success-network.co.th +66 2 973 1966 / +66 81 659 4477（LINE @success_network）〔https://www.success-network.co.th/contact-us/〕
+- **KP**：（Sawithree，姓氏未公开）（ORing 经销名录联系人（销售窗口））sawithree@success-network.co.th +66 2 973 1670-71〔https://oringnet.com/en/where-to-buy/apac〕
 - 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册 + 原厂经销名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Success Network and Communication Co., Ltd. |
-| 成立 | 2011 |
-| 总部/地址 | Bangkok, Thailand |
-| 其他 | 网络/安防综合分销与工程商，代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3）；登记规模极小 |
+| 法定名称 | Success Network and Communication Co., Ltd.（บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด，注册号 0105554082806） |
+| 成立 | 2011-06-24，注册资本 1,000 万泰铢 |
+| 总部/地址 | 12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（Tel 02-973-1966 / 081-659-4477；info@success-network.co.th）；注册地 81/19 Nawamin Rd, Khlong Kum, Bueng Kum, Bangkok 10240 |
+| 其他 | 官网 2025-11 更新（改版完成）：品牌 TVT、Scene/IR、Uni-Ubi、ICT、Vissonic、ITC、**Planet（L3 / L2 / Industrial Switch 三类目）**、ORing、Trendnet、Wi-Tek、W-LINK、C-DATA、Asustor、Shuttle、RFID、MW、WINEXT；ORing APAC 官方经销名录与 Edgecore 亚太 reseller 名录均列出；Line @success_network |
 
-- **业务线**：多品牌网络设备分销（PLANET/ORing/TRENDnet/Wi-Tek/Utepo）；安防工程
+- **业务线**：多品牌网络设备分销（PLANET/ORing/TRENDnet/Wi-Tek/Utepo）；安防工程；PLANET / ORing / Wi-Tek / W-LINK / C-DATA 网络交换分销；TVT CCTV 分销；全国设计安装（公私营项目）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | Utepo | UTP5628S-PSB-L3 | L3 PoE 交换机（页面） | STC-424XGGPM-280W | https://success-network.co.th/（2026-10（首轮调研）） |
 
-- **触达通道（公开）**：网站: https://success-network.co.th/；直邮: info@success-network.co.th（用户表）
+- **触达通道（公开）**：网站: https://www.success-network.co.th/；直邮: info@success-network.co.th（用户表）；电话: +66 2 973 1966 / +66 81 659 4477（官网公开）；邮箱（公开）: info@success-network.co.th（官网）；sawithree@success-network.co.th（ORing 官方经销名录公开）；Line: @success_network
 - **近况信号**：
   - 用户表：工商业 FS，有 Utepo 的
+  - 官网 Planet 类目含 Industrial Switch 与 L2+ 16-SFP / 2.5G SFP 机型——客户对 PLANET 工业 + 光口型谱熟悉，Saga 可按 PLANET 型号对位直接报（2026-10-21）
+  - 2025-11 官网改版完成，营业中
 - **风险/边界**：多品牌小分销，Saga 为又一白牌；泰国价格敏感
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.

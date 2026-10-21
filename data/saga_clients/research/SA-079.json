@@ -6,7 +6,8 @@
  "type": "系统集成商+分销（VoIP/安防/工业网络）",
  "size": "小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）",
  "brands_seen": [
-  "VitalPBX（合作伙伴）"
+  "VitalPBX（合作伙伴）",
+  "InfrateQ（自有标）"
  ],
  "evidence": [
   {
@@ -36,6 +37,27 @@
    "quote": "PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel",
    "url": "https://www.youtube.com/@DivatelPratama",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址 / 电话 / 销售 WA 名单 / 工业 PoE 类目",
+   "quote": "DIVATEL - 0851-7306-0800 Ismed S. - 0852-8940-4589 Dipa A. - 0821-1063-2366 Bagus Widiyanto - 0812-9989-0595 … PT. DIVATEL PRATAMA Menara Kuningan 6th Floor, Jl. HR. Rasuna Said Blok X-7 Kav.5 Jakarta Selatan 12940 Telp. : 021-30022778 (hunting)",
+   "url": "https://infrateq.com/156-industrial-poe-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有标工业千兆 PoE 型号 HR600-AFG-822S",
+   "quote": "Distributor INDUSTRIAL GIGABIT POE SWITCH Networking … infrateq-hr600-afg-822s",
+   "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "CEO 与业务范围",
+   "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present … IP PBX Development - Call Center and Contact Center … Paging & Intercom for safe city … Offgrid CCTV Surveillance - Solar Panel Switch / Hub",
+   "url": "https://www.linkedin.com/in/ismedsitepu/",
+   "date": "2023-03-25"
   }
  ],
  "kp": [
@@ -45,6 +67,20 @@
    "email": "ismed@divatel.co.id",
    "phone": "+62 852-8940-4589（WA，官网与用户记录一致）",
    "source": "用户 Clients 表 + LinkedIn + 官网"
+  },
+  {
+   "name": "Ismed Sitepu",
+   "role": "Founder & CEO（2001 至今）",
+   "email": "sales@divatel.id（公司公开）",
+   "phone": "+62 852-8940-4589（网站公开 WA）",
+   "source": "https://www.linkedin.com/in/ismedsitepu/"
+  },
+  {
+   "name": "Bagus Widiyanto",
+   "role": "Sales（infrateq.com 公开）",
+   "email": "—",
+   "phone": "+62 812-9989-0595",
+   "source": "https://infrateq.com/156-industrial-poe-switch"
   }
  ],
  "grade_override": null,
@@ -53,17 +89,21 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（infrateq.com + divatel.id 核对）"
  },
  "company_facts": {
-  "legal_name": "PT Divatel Pratama（divatel.co.id / Infrateq.com）",
-  "founded": "2001（KOMINFO 持牌）",
-  "hq": "Jakarta, Indonesia",
-  "other": "VoIP/PA/联络中心/CCTV/工业网络方案与分销；CEO Ismed Sitepu 直接沟通；VitalPBX 合作伙伴"
+  "legal_name": "PT. Divatel Pratama",
+  "founded": "2001",
+  "hq": "Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id）",
+  "other": "三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-4589（Ismed S.）、Dipa A. 0821-1063-2366、Bagus Widiyanto 0812-9989-0595（网站公开）",
+  "staff": "2–10（LinkedIn）"
  },
  "business_lines": [
   "VoIP / PA / 联络中心",
-  "CCTV 与工业网络分销（Infrateq 电商）"
+  "CCTV 与工业网络分销（Infrateq 电商）",
+  "IP PBX / 联络中心 / VoIP（主业）",
+  "PA/对讲、CCTV",
+  "Industrial PoE Switch 电商分销（InfrateQ 自有标，HR600- 系列）"
  ],
  "products_seen": [
   {
@@ -73,15 +113,26 @@
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "用户表",
    "saga": "STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga"
+  },
+  {
+   "brand": "InfrateQ（自有标，疑 HRUI 源）",
+   "model": "HR600-AFG-822S",
+   "spec": "工业千兆 PoE 交换机（8 PoE + 2 GE + 2 SFP 推断自型号）",
+   "url": "https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（Marvell 位）/ STC-28DGGPM"
   }
  ],
  "channels": {
-  "网站": "https://divatel.co.id/ · https://infrateq.com/",
+  "网站": "https://infrateq.com/156-industrial-poe-switch（工业 PoE 类目）/ https://divatel.id/",
   "直邮": "ismed@divatel.co.id（CEO，用户表）",
-  "WhatsApp": "在线（用户表）"
+  "WhatsApp": "在线（用户表）",
+  "电话/WA": "+62 851-7306-0800（销售，官网公开）/ +62 852-8940-4589（Ismed S.）",
+  "邮箱（公开）": "sales@divatel.id / info@divatel.co.id"
  },
  "signals": [
-  "CEO 直接沟通，6 次回复——决策人在手"
+  "CEO 直接沟通，6 次回复——决策人在手",
+  "infrateq.com 的工业 PoE 型号 HR600-AFG-822S 命名与 HRUI 型号规则一致——客户已在卖 HRUI 源产品（Saga 同源渠道 HRUI），Marvell 线可作升级位（2026-10-21）"
  ],
  "risks": [
   "印尼 SNI/Postel 认证由进口方；价格敏感"
@@ -89,7 +140,7 @@
  "saga_fit": {
   "p1": "STI-288DGGPM",
   "tier": 20,
-  "why": "询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档"
+  "why": "电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档"
  },
- "email_hook": "On the industrial switch you asked about earlier, I can quote both the Realtek-based 8-port PoE unit you were looking at and the Marvell-based managed version with 2 SFP, so you can list two price points on Infrateq."
+ "email_hook": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
 }

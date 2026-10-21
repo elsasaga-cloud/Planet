@@ -65,26 +65,34 @@ updated: 2026-10-21
 - **【官网】地址与联系方式（雅加达西区）**
   > Jalan Jembatan Besi No 23 A Grogol… Jakarta Barat 11320… 0819-3999-8899… info@bsn-system.com
   > 来源：https://bsn-system.com/（抓取 2026-10-21）
+- **【官网】公司定位与地址**
+  > BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keamanan yang bersemangat. Dengan 8 tahun pengalaman … Alamat Jalan Jembatan Besi No 23 A Grogol, Kel Angke, Kec Tambora Jakarta Barat 11320
+  > 来源：https://bsn-system.com/（抓取 2025-04-25）
+- **【官网】2014 年起**
+  > Sejak tahun 2014 , kami telah membantu banyak organisasi meningkatkan keamanan mereka.
+  > 来源：https://bsn-system.com/?20080901（抓取 2026-10-21）
 - **KP**：（用户记录联系人，Gmail 个人邮箱）（）sales@bsn-system.com +62 819-3999-8899（官网）〔官网 + 用户 Clients 表〕
 - 备注：有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BSN System / Berkah Saudara Network |
-| 总部/地址 | Jakarta, Indonesia |
-| 其他 | 独立安防与 IT 方案公司（8 年），OSE 安防 + 外包运维 |
+| 法定名称 | BSN System / Berkah Saudara Network（bsn-system.com） |
+| 成立 | 2014（官网「Sejak tahun 2014」；首页另称 8 年经验） |
+| 总部/地址 | Jalan Jembatan Besi No 23 A Grogol, Kel. Angke, Kec. Tambora, Jakarta Barat 11320 |
+| 其他 | 独立安防顾问/集成商：OSE（组织/结构/电子）安防措施全套实施 + 外包运维 + 代管人防与控制室；官网 WordPress，2025-04 更新 |
 
-- **业务线**：安防系统集成；IT 运维外包
+- **业务线**：安防系统集成；IT 运维外包；电子安防（CCTV/门禁）设计实施；安防运维外包、控制室代管
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （项目需求） | 2 光 4 电 ERPS 环网工业交换机；5 电口带 PoE | 明确需求 | STI-144GP（4+1；2 光需核）/ STI-288DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：直邮: aarstyan@gmail.com（用户表，免费邮箱）；WhatsApp: 已加（用户表）
+- **触达通道（公开）**：直邮: aarstyan@gmail.com（用户表，免费邮箱）；WhatsApp: 已加（用户表）；网站: https://bsn-system.com/
 - **近况信号**：
   - 用户表：2 次回复 + WA，需求具体（ERPS 环网）
+  - 官网为通用安防顾问叙事、无产品目录——采购属项目制，2 光 N 电工业机需求来自具体项目（用户记录）
 - **风险/边界**：免费邮箱、小公司；ERPS 功能需 SmartByte 固件确认
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档
 - **邮件切入句（英文）**：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.

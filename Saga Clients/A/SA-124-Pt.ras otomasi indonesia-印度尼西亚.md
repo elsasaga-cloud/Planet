@@ -59,6 +59,7 @@ updated: 2026-10-21
 - **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。
 - **类型**：工业自动化/MEP 系统集成商
 - **规模**：小型（11–50 人，<$5M）
+- **在卖/在用品牌**：Rievtech, Rapid SCADA
 - **【官网】自动化（PLC/HMI/SCADA）、MEP、安防系统、水处理、IT 基础设施的集成商**
   > RAS Otomasi Indonesia menyediakan solusi otomasi industri, MEP, infrastruktur IT/Telco, security system, dan sistem integrasi… Perancangan, pemrograman, dan instalasi sistem kontrol berbasis PLC, HMI, dan SCADA
   > 来源：https://ras-otomasi.id/（抓取 2026-10-21）
@@ -68,28 +69,39 @@ updated: 2026-10-21
 - **【ZoomInfo】11–50 人，营收 <$5M**
   > Pt Ras Otomasi Indonesia's revenue is <$5 Million… has 11-50 employees
   > 来源：https://www.zoominfo.com/c/pt-ras-otomasi-indonesia/1326650254（抓取 2026-10-21）
+- **【官网】业务与地址电话**
+  > Perancangan, pemrograman, dan instalasi sistem kontrol berbasis PLC, HMI, dan SCADA … Workshop & Project Office: Ruko Villa Pamulang Blok CH8 No. 11 Pamulang, Tangerang Selatan 15416 … +62 21 5081-2002 (Kantor) +62 21 2784-6419 (Workshop) … Menara 165 Lantai 4, Jl. TB Simatupang Kav. 1, Cilandak, Jakarta 12560
+  > 来源：https://ras-otomasi.id/（抓取 2024-05-08）
+- **【官网】供应品牌 Rievtech / Rapid SCADA**
+  > Supplier & Engineering - Rapid Scada - Rievtech Micro PLC, Wifi PLC, SCADA, 4G PLC , ETHERNET PLC
+  > 来源：https://www.ras-otomasi.id/products/（抓取 2026-10-21）
+- **【伙伴名录】公开联系人邮箱**
+  > Update : 11 November 2025 … RAS Otomasi Indonesia | Tangerang | sudarso@ras-otomasi.id
+  > 来源：https://trimaxindo.co.id/local-partners/（抓取 2025-11-13）
 - **KP**：（见 Clients 表联系人）（）info@ras-otomasi.id（公开） +62 813-1042-5123（WA）/ +62 21 5081-2002〔用户 Clients 表 + 官网〕
+- **KP**：Sudarso（姓氏/职务未公开）（Trimaxindo 本地伙伴名录联系人）sudarso@ras-otomasi.id +62 21 2784-6419（公司）〔https://trimaxindo.co.id/local-partners/〕
 - 备注：6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 伙伴名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | PT. RAS Otomasi Indonesia |
-| 总部/地址 | Jakarta / Tangerang, Indonesia |
-| 人数 | 11–50 |
+| 总部/地址 | Office: Menara 165 4th Fl, Jl. TB Simatupang Kav.1, Cilandak, Jakarta Selatan 12560（+62 21 5081-2002）；Workshop: Ruko Villa Pamulang Blok CH8 No.11, Pamulang, Tangerang Selatan 15416（+62 21 2784-6419）；info@ras-otomasi.id |
+| 人数 | 11–50（ZoomInfo） |
 | 营收 | <$5M |
-| 其他 | 工业自动化与 MEP 承包/集成：PLC/HMI/SCADA、MEP、CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助、环境监测、智慧停车 |
+| 其他 | 5 年+ 经验的自动化「aplikator」：PLC/HMI/SCADA（Rievtech micro/4G/Ethernet PLC、Rapid SCADA）、MEP、安防、水处理、IT/电信基础设施；方案含港口靠泊辅助 DAS、环境监测、自动气象站、燃油管理、智慧停车/智慧城市；Trimaxindo 本地伙伴名录列联系人 sudarso@ras-otomasi.id（2025-11） |
 
-- **业务线**：工业自动化（PLC/HMI/SCADA）；MEP / 安防 / 消防；IT/电信基础设施
+- **业务线**：工业自动化（PLC/HMI/SCADA）；MEP / 安防 / 消防；IT/电信基础设施；PLC/HMI/SCADA 控制系统（Rievtech / Rapid SCADA）；MEP 承包、水处理；安防 CCTV/门禁/消防、IT/电信基础设施；港口 DAS / 环境监测 / 智慧停车 方案
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （项目采购） | DIN PoE 工业交换机（比较多） | 主要做项目 | STI-288DGGPM / STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：直邮: sudarso.jkt@gmail.com（用户表，免费邮箱）；WhatsApp: 在线（用户表）
+- **触达通道（公开）**：直邮: sudarso.jkt@gmail.com（用户表，免费邮箱）；WhatsApp: 在线（用户表）；网站: https://ras-otomasi.id/；电话: +62 21 5081-2002 / +62 21 2784-6419（官网公开）；邮箱（公开）: info@ras-otomasi.id；sudarso@ras-otomasi.id（Trimaxindo 伙伴名录公开）
 - **近况信号**：
   - DIN PoE 用量多、项目型——与 Saga 工业线直接匹配
+  - Rievtech Ethernet/4G PLC + Rapid SCADA 方案 → 现场需要 DIN 工业交换机（-40~75℃、双电源）——STI-288DGGPM / STI-144GP 正对（2026-10-21）
 - **风险/边界**：免费邮箱；印尼认证由进口方；码头/环境监测部分可能是公共项目（守界）
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档
 - **邮件切入句（英文）**：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
@@ -137,6 +149,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Sudarso（姓氏/职务未公开） | Trimaxindo 本地伙伴名录联系人 | sudarso@ras-otomasi.id / +62 21 2784-6419（公司） | 调研核实（公开页） | https://trimaxindo.co.id/local-partners/ |
 | Mr. Sudarso Naseh | — | sudarso.jkt@gmail.com / +6281310425123 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

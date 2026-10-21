@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。（调研 2026-10-21；表内兴趣：洪瑞的工业FS）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -59,7 +59,7 @@ updated: 2026-10-21
 - **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。
 - **类型**：系统集成商+分销（VoIP/安防/工业网络）
 - **规模**：小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）
-- **在卖/在用品牌**：VitalPBX（合作伙伴）
+- **在卖/在用品牌**：VitalPBX（合作伙伴）, InfrateQ（自有标）
 - **【官网】2001 年起的 VoIP/PA/云 PBX/联络中心/CCTV 供应商，面向中大型企业**
   > Sejak tahun 2001, Divatel telah berada di garis depan dalam menyediakan solusi PA System, IP PBX, Cloud PBX, Omnichannel Contact Center… untuk perusahaan skala menengah hingga besar
   > 来源：https://pa-system.infrateq.com/profile/（抓取 2026-10-21）
@@ -72,30 +72,44 @@ updated: 2026-10-21
 - **【YouTube】业务含 CCTV、工业网络**
   > PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel
   > 来源：https://www.youtube.com/@DivatelPratama（抓取 2026-10-21）
+- **【官网】地址 / 电话 / 销售 WA 名单 / 工业 PoE 类目**
+  > DIVATEL - 0851-7306-0800 Ismed S. - 0852-8940-4589 Dipa A. - 0821-1063-2366 Bagus Widiyanto - 0812-9989-0595 … PT. DIVATEL PRATAMA Menara Kuningan 6th Floor, Jl. HR. Rasuna Said Blok X-7 Kav.5 Jakarta Selatan 12940 Telp. : 021-30022778 (hunting)
+  > 来源：https://infrateq.com/156-industrial-poe-switch（抓取 2026-10-21）
+- **【官网】自有标工业千兆 PoE 型号 HR600-AFG-822S**
+  > Distributor INDUSTRIAL GIGABIT POE SWITCH Networking … infrateq-hr600-afg-822s
+  > 来源：https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html（抓取 2026-10-21）
+- **【LinkedIn】CEO 与业务范围**
+  > CEO and Founder PT. Divatel Pratama 2001 - Present … IP PBX Development - Call Center and Contact Center … Paging & Intercom for safe city … Offgrid CCTV Surveillance - Solar Panel Switch / Hub
+  > 来源：https://www.linkedin.com/in/ismedsitepu/（抓取 2023-03-25）
 - **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
+- **KP**：Ismed Sitepu（Founder & CEO（2001 至今））sales@divatel.id（公司公开） +62 852-8940-4589（网站公开 WA）〔https://www.linkedin.com/in/ismedsitepu/〕
+- **KP**：Bagus Widiyanto（Sales（infrateq.com 公开））— +62 812-9989-0595〔https://infrateq.com/156-industrial-poe-switch〕
 - 备注：A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（infrateq.com + divatel.id 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PT Divatel Pratama（divatel.co.id / Infrateq.com） |
-| 成立 | 2001（KOMINFO 持牌） |
-| 总部/地址 | Jakarta, Indonesia |
-| 其他 | VoIP/PA/联络中心/CCTV/工业网络方案与分销；CEO Ismed Sitepu 直接沟通；VitalPBX 合作伙伴 |
+| 法定名称 | PT. Divatel Pratama |
+| 成立 | 2001 |
+| 总部/地址 | Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan 12940（+62 21 30022777 / 30022778 hunting；sales@divatel.id / info@divatel.co.id） |
+| 人数 | 2–10（LinkedIn） |
+| 其他 | 三站并行：infrateq.com（电商：IP PBX / IP 话机 / VoIP 网关 / 会议 / **Industrial PoE Switch 类目**，自有标 InfrateQ 型号如 HR600-AFG-822S——疑为 HRUI 贴牌）、divatel.id（IP PBX/联络中心，KOMINFO 持牌，印尼/马/新）、pa-system.infrateq.com；CEO Ismed Sitepu（LinkedIn 列业务含「Solar Panel Switch / Hub」「Offgrid CCTV」）；销售 WA 0851-7306-0800 / 0852-8940-4589（Ismed S.）、Dipa A. 0821-1063-2366、Bagus Widiyanto 0812-9989-0595（网站公开） |
 
-- **业务线**：VoIP / PA / 联络中心；CCTV 与工业网络分销（Infrateq 电商）
+- **业务线**：VoIP / PA / 联络中心；CCTV 与工业网络分销（Infrateq 电商）；IP PBX / 联络中心 / VoIP（主业）；PA/对讲、CCTV；Industrial PoE Switch 电商分销（InfrateQ 自有标，HR600- 系列）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | HRUI（询过） | 工业 FS | 询过洪瑞的工业 FS | STI-288DGGPM（Marvell 位）/ HRUI 同款经 Saga | （本地 Clients/ 表格，无公开 URL）（用户表） |
+| InfrateQ（自有标，疑 HRUI 源） | HR600-AFG-822S | 工业千兆 PoE 交换机（8 PoE + 2 GE + 2 SFP 推断自型号） | STI-288DGGPM（Marvell 位）/ STC-28DGGPM | https://infrateq.com/network-switch/560-infrateq-hr600-afg-822s.html（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://divatel.co.id/ · https://infrateq.com/；直邮: ismed@divatel.co.id（CEO，用户表）；WhatsApp: 在线（用户表）
+- **触达通道（公开）**：网站: https://infrateq.com/156-industrial-poe-switch（工业 PoE 类目）/ https://divatel.id/；直邮: ismed@divatel.co.id（CEO，用户表）；WhatsApp: 在线（用户表）；电话/WA: +62 851-7306-0800（销售，官网公开）/ +62 852-8940-4589（Ismed S.）；邮箱（公开）: sales@divatel.id / info@divatel.co.id
 - **近况信号**：
   - CEO 直接沟通，6 次回复——决策人在手
+  - infrateq.com 的工业 PoE 型号 HR600-AFG-822S 命名与 HRUI 型号规则一致——客户已在卖 HRUI 源产品（Saga 同源渠道 HRUI），Marvell 线可作升级位（2026-10-21）
 - **风险/边界**：印尼 SNI/Postel 认证由进口方；价格敏感
-- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档
-- **邮件切入句（英文）**：On the industrial switch you asked about earlier, I can quote both the Realtek-based 8-port PoE unit you were looking at and the Marvell-based managed version with 2 SFP, so you can list two price points on Infrateq.
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档
+- **邮件切入句（英文）**：Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,6 +153,8 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Ismed Sitepu | CEO & Founder | ismed@divatel.co.id / +62 852-8940-4589（WA，官网与用户记录一致） | 调研核实（公开页） | 用户 Clients 表 + LinkedIn + 官网 |
+| Ismed Sitepu | Founder & CEO（2001 至今） | sales@divatel.id（公司公开） / +62 852-8940-4589（网站公开 WA） | 调研核实（公开页） | https://www.linkedin.com/in/ismedsitepu/ |
+| Bagus Widiyanto | Sales（infrateq.com 公开） | — / +62 812-9989-0595 | 调研核实（公开页） | https://infrateq.com/156-industrial-poe-switch |
 | Ismed S | — | ismed@divatel.co.id / info@divatel.co.id / +6285289404589 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -155,7 +171,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：询过 HRUI 工业 FS：可按 HRUI 对照表报同款，并推 Marvell 版 STI-288DGGPM；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（系统集成商+分销（VoIP/安防/工业网络）） |
+| **P1** | STI-288DGGPM | 深挖对位：电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（系统集成商+分销（VoIP/安防/工业网络）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -208,7 +224,7 @@ updated: 2026-10-21
 ```text
 Hi Ismed,
 
-Picking up our earlier exchange about PoE / industrial switches. On the industrial switch you asked about earlier, I can quote both the Realtek-based 8-port PoE unit you were looking at and the Marvell-based managed version with 2 SFP, so you can list two price points on Infrateq.
+Picking up our earlier exchange about PoE / industrial switches. Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your HRUI（询过） 工业 FS at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

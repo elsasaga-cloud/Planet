@@ -34,6 +34,27 @@
    "quote": "Executive Director Tecpro Solutions Co. L.L.C. Jun 2023 - Present… Director Of Operations… Sep 2005 - Jun 2023",
    "url": "https://www.linkedin.com/in/mohammed-rafi-30365656/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "2026-02 新企业形象与阿布扎比新办公室；联系方式",
+   "quote": "Tecpro Solutions Unveils a New Corporate Identity for a New Era February 13, 2026 … Tecpro Solutions Enhances UAE Operations with New Abu Dhabi Corporate office February 13, 2026 … ABU DHABI Building No. 7, 4th Floor, Office No. 403, Muroor Street … 00971 2 6767373",
+   "url": "https://www.tecprosolutions.com/",
+   "date": "2026-07-16"
+  },
+  {
+   "kind": "官网",
+   "claim": "迪拜联系方式",
+   "quote": "00971 4 3266881 00971 52 9250501 dxb@tecprosolutions.com … DUBAI Saheel Tower",
+   "url": "https://www.tecprosolutions.com/contact-us/",
+   "date": "2026-07-16"
+  },
+  {
+   "kind": "名录",
+   "claim": "起家与分部",
+   "quote": "Founded & Established in 2003 at Al Ain (UAE), Tecpro continues to expand its operation and has established offices in Abu Dhabi, Dubai and Kochi (India) … TECPRO-Project (IT & ELV Projects), TECPRO-Distributions (IT & ELV products)",
+   "url": "https://www.protenders.com/companies/tecpro-solutions-llc",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -58,19 +79,24 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 2026 新闻 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Tecpro Solutions Co. L.L.C.",
-  "founded": "2004",
-  "hq": "Dubai（+Abu Dhabi、Al Ain、Kochi）",
-  "staff": "11–50",
-  "other": "IT + ELV 系统集成（IT 基础设施、智能楼宇、安防、BMS）；网站含 switch 与电缆类目"
+  "legal_name": "Tecpro Solutions Co. L.L.C.（TPS）",
+  "founded": "2003 Al Ain 起家 / 2004 UAE 注册",
+  "hq": "Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；Abu Dhabi: Building No.7, 4th Fl, Office 403, Muroor St（+971 2 676 7373；auh@tecprosolutions.com）；Al Ain: Building No.30, Al Jusour St；Kochi（印度）",
+  "staff": "51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250）",
+  "other": "四大业务：IT 基础设施与应用（服务器/存储/网络/虚拟化/DC/云/网安）、智能楼宇（ELV/BMS）、创新与数字化、教育装备；分销部门 TECPRO-Distributions；**2026-02-13 发布新企业形象 + 阿布扎比新办公室**（扩张信号）",
+  "revenue": "≈$13.7M（Prospeo 估）"
  },
  "business_lines": [
   "IT 基础设施集成",
   "ELV / 安防 / BMS",
-  "HDMI 转换器等配件询价"
+  "HDMI 转换器等配件询价",
+  "IT 基础设施集成（路由交换无线、DC）",
+  "ELV/BMS 智能楼宇项目",
+  "IT & ELV 产品分销（TECPRO-Distributions）",
+  "教育装备与软件"
  ],
  "products_seen": [
   {
@@ -83,12 +109,16 @@
   }
  ],
  "channels": {
-  "网站": "https://tecprosolutions.com/",
+  "网站": "https://www.tecprosolutions.com/",
   "直邮": "shereef@tecprosolutions.com（用户表）",
-  "WhatsApp": "Rafi 已加（用户表）"
+  "WhatsApp": "Rafi 已加（用户表）",
+  "电话": "+971 4 326 6881（迪拜）/ +971 2 676 7373（阿布扎比）",
+  "邮箱（公开）": "dxb@tecprosolutions.com / auh@tecprosolutions.com",
+  "LinkedIn": "https://www.linkedin.com/company/tecprosolutionsllc（876 followers）"
  },
  "signals": [
-  "用户表：3 次回复 + WA——关系活跃，但询价品类（HDMI）不在 Saga 型谱"
+  "用户表：3 次回复 + WA——关系活跃，但询价品类（HDMI）不在 Saga 型谱",
+  "2026-02 新形象 + 阿布扎比新办公室——项目管线扩张期，是切入 ELV 配套 PoE 交换机的窗口（2026-10-21）"
  ],
  "risks": [
   "需求偏配件；项目型集成商决策看品牌"

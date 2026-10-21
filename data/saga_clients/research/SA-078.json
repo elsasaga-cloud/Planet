@@ -20,6 +20,20 @@
    "quote": "Jalan Jembatan Besi No 23 A Grogol… Jakarta Barat 11320… 0819-3999-8899… info@bsn-system.com",
    "url": "https://bsn-system.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司定位与地址",
+   "quote": "BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keamanan yang bersemangat. Dengan 8 tahun pengalaman … Alamat Jalan Jembatan Besi No 23 A Grogol, Kel Angke, Kec Tambora Jakarta Barat 11320",
+   "url": "https://bsn-system.com/",
+   "date": "2025-04-25"
+  },
+  {
+   "kind": "官网",
+   "claim": "2014 年起",
+   "quote": "Sejak tahun 2014 , kami telah membantu banyak organisasi meningkatkan keamanan mereka.",
+   "url": "https://bsn-system.com/?20080901",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -37,16 +51,19 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网核对）"
  },
  "company_facts": {
-  "legal_name": "BSN System / Berkah Saudara Network",
-  "hq": "Jakarta, Indonesia",
-  "other": "独立安防与 IT 方案公司（8 年），OSE 安防 + 外包运维"
+  "legal_name": "BSN System / Berkah Saudara Network（bsn-system.com）",
+  "hq": "Jalan Jembatan Besi No 23 A Grogol, Kel. Angke, Kec. Tambora, Jakarta Barat 11320",
+  "other": "独立安防顾问/集成商：OSE（组织/结构/电子）安防措施全套实施 + 外包运维 + 代管人防与控制室；官网 WordPress，2025-04 更新",
+  "founded": "2014（官网「Sejak tahun 2014」；首页另称 8 年经验）"
  },
  "business_lines": [
   "安防系统集成",
-  "IT 运维外包"
+  "IT 运维外包",
+  "电子安防（CCTV/门禁）设计实施",
+  "安防运维外包、控制室代管"
  ],
  "products_seen": [
   {
@@ -60,10 +77,12 @@
  ],
  "channels": {
   "直邮": "aarstyan@gmail.com（用户表，免费邮箱）",
-  "WhatsApp": "已加（用户表）"
+  "WhatsApp": "已加（用户表）",
+  "网站": "https://bsn-system.com/"
  },
  "signals": [
-  "用户表：2 次回复 + WA，需求具体（ERPS 环网）"
+  "用户表：2 次回复 + WA，需求具体（ERPS 环网）",
+  "官网为通用安防顾问叙事、无产品目录——采购属项目制，2 光 N 电工业机需求来自具体项目（用户记录）"
  ],
  "risks": [
   "免费邮箱、小公司；ERPS 功能需 SmartByte 固件确认"

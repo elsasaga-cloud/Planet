@@ -1,5 +1,5 @@
 # Areca Embedded Systems Pvt Ltd
-**官方名称（调研核实）**：Areca Embedded Systems Pvt. Ltd.（印度）
+**官方名称（调研核实）**：Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）
 
 > **评级 A**　|　印度　|　档案编号 `SA-108`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
@@ -9,7 +9,7 @@
 code: SA-108
 rating: A
 rating_auto: A
-name_official: "Areca Embedded Systems Pvt. Ltd.（印度）"
+name_official: "Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）"
 score: 67
 country: 印度
 region: 南亚
@@ -62,29 +62,40 @@ updated: 2026-10-21
 - **【用户记录】8 光 8 电带管理、不要 PoE、L2/L3、SC 和 SFP；WA 已加；4 次回复**
   > 8光8电带管理 不要POE L2 L3 SC和SFP光都要；9190000 50555 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】ISO 9001:2015，主业铁路/国防/电信/电力，产品清单**
+  > It is an ISO 9001:2015 certified company, engaged in the field of Telecommunication, Railways, Defence, Transportation and Power Sectors … Smart Coach ( PICCU ) … Signaling Relays Q series (BRS930-931) … PIS For EMUs / MEMUs … LTE for Railways (LTE-R)
+  > 来源：https://www.areca.in/（抓取 2026-10-21）
+- **【注册】注册信息与地址**
+  > Areca Embedded Systems Private Limited is a Private Limited Company and was incorporated on Mar 29, 2007 … registered address is Plot No 5B, Survey No 184 & 185, Phase -V, IDA, Village Cherlapally Mandal, Hyderabad … CIN U72200TG2007PTC053397
+  > 来源：https://tracxn.com/d/legal-entities/india/areca-embedded-systems-private-limited/__aefKStFLnkBUMSws6Ku9xezsYKyfdvnWJnz6USqe5Uo（抓取 2025-07-30）
+- **【注册】前身 Aster Electrosoft**
+  > The Corporate was formerly known as Aster Electrosoft Private Limited. The Company is engaged in the field of telecommunication, transportation and power sectors providing new product development, railways, product re-engineering and product support services in hardware, defense, software
+  > 来源：https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 90000 50555（WA）〔用户 Clients 表〕
 - 备注：规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 areca.in + 公司注册核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Areca Embedded Systems Pvt. Ltd. |
-| 总部/地址 | India |
-| 其他 | 嵌入式/网络系统公司；规格明确：8 光 8 电管理型、非 PoE、L2 与 L3、SC 与 SFP 光口 |
+| 法定名称 | Areca Embedded Systems Private Limited（CIN U72200TG2007PTC053397） |
+| 成立 | 2007-03-29（RoC Hyderabad） |
+| 总部/地址 | Plot No 5B, Survey No 184 & 185, Phase-V, IDA Cherlapally, Hyderabad, Telangana 500051（另：54/S Anupuram, ECIL, Hyderabad 500062） |
+| 其他 | ISO 9001:2015；主业 **铁路 / 国防 / 电信 / 电力** 嵌入式产品开发：列车 PIS、Smart Coach PICCU、信号继电器 Q 系列、LTE-R、站台 GPS 时钟、卫星时间同步、接地漏电检测、国防光纤话音/数据遥测链路（IndiaMART） |
 
-- **业务线**：嵌入式/网络系统集成
+- **业务线**：嵌入式/网络系统集成；铁路车载/站台电子（PIS、PICCU、信号继电器、LTE-R）；国防电子（光纤遥测链路、测试 JIG）；电信/电力嵌入式产品与再工程
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （项目需求） | 8 光 8 电管理（L2/L3，非 PoE，SC/SFP） | 4 次回复 | —（8 SFP + 8 RJ45 非 PoE 需 SmartByte 核型） | （本地 Clients/ Clients 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://areca.in/；直邮: kb@areca.in（用户表）；WhatsApp: 在线（用户表）
+- **触达通道（公开）**：网站: https://www.areca.in/；直邮: kb@areca.in（用户表）；WhatsApp: 在线（用户表）；IndiaMART: https://www.indiamart.com/areca-embedded-systemshyderabad/
 - **近况信号**：
   - 需求规格完整（L2/L3、SC/SFP 都要）——可成交型客户
-- **风险/边界**：8 光 8 电非 Saga 标准型谱；印度 BIS
+  - 8 光 8 电 L2/L3 非 PoE 的需求极可能来自铁路站场/国防项目（公司主业）——报价前必须确认最终用途（2026-10-21）
+- **风险/边界**：8 光 8 电非 Saga 标准型谱；印度 BIS；**守界风险**：主业铁路 + 国防（INH 规则：rail/military 不供）；Saga 无 EN50155/军规资质。保留 A 仅因互动强、需求明确；下一封邮件先问用途，若为铁路信号/军用则转 B 并停止报价（见 Q-30）
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档
-- **邮件切入句（英文）**：For the 8-fibre 8-copper managed unit without PoE, I am confirming the L2 and L3 variants and the SC versus SFP optics with the factory; the datasheet and EXW price for both follow as soon as the part numbers are locked.
+- **邮件切入句（英文）**：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -192,7 +203,7 @@ updated: 2026-10-21
 ```text
 Hi Kishore,
 
-Picking up our earlier exchange about PoE / industrial switches. For the 8-fibre 8-copper managed unit without PoE, I am confirming the L2 and L3 variants and the SC versus SFP optics with the factory; the datasheet and EXW price for both follow as soon as the part numbers are locked.
+Picking up our earlier exchange about PoE / industrial switches. Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

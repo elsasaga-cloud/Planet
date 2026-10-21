@@ -82,29 +82,39 @@ updated: 2026-10-21
 - **【Ubiquiti】Ubiquiti 以色列经销商，电话 +972 77 6001070**
   > SMBIT Ltd 13 Haim Meler St Mazkeret Batya… +972 77 6001070
   > 来源：https://www.ui.com/distributors/?country_state=IL&region=mid-e（抓取 2026-10-21）
+- **【官网】业务范围与联系方式**
+  > SMBIT has been operating in the field of ICT since 2012 … Routing, switching and consolidation of lines - High-performance WIFI for a business environment - Wireless links in millimeter waves - Deployment of IoT networks … Fiber optic GPON … PO Box 1399 Mazkeret Batya 7680400 Tel.: +972.77.6001070 Email: info@smbit.co.il
+  > 来源：https://www.smbit.co.il/?lang=en（抓取 2026-10-21）
+- **【原厂名录】Ubiquiti 官方以色列经销名录列出 SMBIT**
+  > SMBIT Ltd 13 Haim Meler St Mazkeret Batya 7680400 Israel
+  > 来源：https://www.ui.com/distributors/?country_state=IL&region=mid-e（抓取 2026-10-21）
+- **【官网】Ubiquiti 授权经销，含 PoE 交换机**
+  > SMBIT is an authorized reseller of UBIQUITI products … The company's products include: POE switches, access points, wireless links and a control and management system
+  > 来源：https://www.smbit.co.il/ubiquiti-wifi?lang=en（抓取 2026-10-21）
 - **KP**：（自建站询盘联系人，见 Clients 表）（） +972 54 493 7099（WA）〔用户 Clients 表（自建站询盘）〕
 - 备注：入站询盘 + 年量预估（≈150 台工业 PoE）= 可追溯真实需求；集成商尺寸可赢。市政/学校项目属公共部门边缘，但 Saga 卖给集成商为商业交易，可做；不参与投标主体。P1：STI-288DGGPM（IM-FS480GW 对位：8 电 + 光口工业 PoE，核对现行型号），项目价阶 25%。邮件不回 → WA。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + Ubiquiti 经销名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SMBIT Ltd |
+| 法定名称 | SMBIT Ltd（SMBIT.LTD） |
 | 成立 | 2012 |
-| 总部/地址 | Mazkeret Batya, Israel |
-| 人数 | 约 14 |
-| 其他 | ICT 集成商（ISO）：路由交换、Ubiquiti 企业 WiFi（1 万+ AP）、毫米波、LoRa、GPON、智慧城市 EKRON；中标耶路撒冷全市毫米波网络 |
+| 总部/地址 | 13 Haim Meler St / PO Box 1399, Mazkeret Batya 7680400, Israel（+972 77 600 1070；info@smbit.co.il） |
+| 人数 | 14–16 |
+| 其他 | ICT 集成商：路由交换、企业 Wi-Fi（**Ubiquiti 官方授权经销，列于 ui.com 以色列经销名录**；Ubiquiti 以色列总代为 Lan-Tech）、毫米波无线链路、LoRaWAN IoT、GPON 光纤、安防摄像机、PBX；自有智慧城市平台 EKRON（ekron.city，带网管/网安）；客户：企业、地方政府、教育系统 |
 
-- **业务线**：企业 WiFi / 路由交换；毫米波无线 / GPON；智慧城市平台 EKRON
+- **业务线**：企业 WiFi / 路由交换；毫米波无线 / GPON；智慧城市平台 EKRON；Ubiquiti Wi-Fi / 交换 / 控制器 经销与实施；毫米波点对点链路、GPON；LoRaWAN IoT + EKRON 智慧城市/校园平台；安防摄像机、PBX
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （询价） | IM-FS480GW（用户表型号） | 工业 48 口？需核对用户表型号含义 | STC-448XGGM(L3) / STC-424XGGPM-280W（待核） | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://smbit.co.il/；直邮: yoav@smbit.co.il（用户表）
+- **触达通道（公开）**：网站: https://www.smbit.co.il/?lang=en；直邮: yoav@smbit.co.il（用户表）；电话: +972 77 600 1070（官网公开）；邮箱（公开）: info@smbit.co.il；Facebook: https://www.facebook.com/smbiteam
 - **近况信号**：
   - 智慧城市/市政项目——守界：仅供商业部分；Ubiquiti 生态偏好
-- **风险/边界**：以色列市政项目守界；Ubiquiti 价格锚
+  - Ubiquiti 授权经销 + 自有 EKRON 网管——需要可被第三方 SNMP 管理的白牌 PoE 交换机作 Ubiquiti 之外的价格位（2026-10-21）
+- **风险/边界**：以色列市政项目守界；Ubiquiti 价格锚；以色列：物流/支付路径需先确认（EXW 不受影响，货代由客户指定）
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（25% 档）——IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档
 - **邮件切入句（英文）**：On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.
 

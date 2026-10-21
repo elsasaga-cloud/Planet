@@ -81,29 +81,40 @@ updated: 2026-10-21
 - **【LinkedIn】Mohammed Rafi 为 Executive Director（2023 起），此前 17 年运营总监**
   > Executive Director Tecpro Solutions Co. L.L.C. Jun 2023 - Present… Director Of Operations… Sep 2005 - Jun 2023
   > 来源：https://www.linkedin.com/in/mohammed-rafi-30365656/（抓取 2026-10-21）
+- **【官网】2026-02 新企业形象与阿布扎比新办公室；联系方式**
+  > Tecpro Solutions Unveils a New Corporate Identity for a New Era February 13, 2026 … Tecpro Solutions Enhances UAE Operations with New Abu Dhabi Corporate office February 13, 2026 … ABU DHABI Building No. 7, 4th Floor, Office No. 403, Muroor Street … 00971 2 6767373
+  > 来源：https://www.tecprosolutions.com/（抓取 2026-07-16）
+- **【官网】迪拜联系方式**
+  > 00971 4 3266881 00971 52 9250501 dxb@tecprosolutions.com … DUBAI Saheel Tower
+  > 来源：https://www.tecprosolutions.com/contact-us/（抓取 2026-07-16）
+- **【名录】起家与分部**
+  > Founded & Established in 2003 at Al Ain (UAE), Tecpro continues to expand its operation and has established offices in Abu Dhabi, Dubai and Kochi (India) … TECPRO-Project (IT & ELV Projects), TECPRO-Distributions (IT & ELV products)
+  > 来源：https://www.protenders.com/companies/tecpro-solutions-llc（抓取 2026-10-21）
 - **KP**：Mohammed Rafi（Executive Director） +971 50 4489928（用户记录 WA）〔用户 Clients 表 + LinkedIn 职务〕
 - **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
 - 备注：3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 2026 新闻 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Tecpro Solutions Co. L.L.C. |
-| 成立 | 2004 |
-| 总部/地址 | Dubai（+Abu Dhabi、Al Ain、Kochi） |
-| 人数 | 11–50 |
-| 其他 | IT + ELV 系统集成（IT 基础设施、智能楼宇、安防、BMS）；网站含 switch 与电缆类目 |
+| 法定名称 | Tecpro Solutions Co. L.L.C.（TPS） |
+| 成立 | 2003 Al Ain 起家 / 2004 UAE 注册 |
+| 总部/地址 | Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；Abu Dhabi: Building No.7, 4th Fl, Office 403, Muroor St（+971 2 676 7373；auh@tecprosolutions.com）；Al Ain: Building No.30, Al Jusour St；Kochi（印度） |
+| 人数 | 51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250） |
+| 营收 | ≈$13.7M（Prospeo 估） |
+| 其他 | 四大业务：IT 基础设施与应用（服务器/存储/网络/虚拟化/DC/云/网安）、智能楼宇（ELV/BMS）、创新与数字化、教育装备；分销部门 TECPRO-Distributions；**2026-02-13 发布新企业形象 + 阿布扎比新办公室**（扩张信号） |
 
-- **业务线**：IT 基础设施集成；ELV / 安防 / BMS；HDMI 转换器等配件询价
+- **业务线**：IT 基础设施集成；ELV / 安防 / BMS；HDMI 转换器等配件询价；IT 基础设施集成（路由交换无线、DC）；ELV/BMS 智能楼宇项目；IT & ELV 产品分销（TECPRO-Distributions）；教育装备与软件
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （项目采购） | HDMI converter；网站 switch/电缆类目 | 询过 HDMI 转换器 | STC-424DGGPM-280W（项目接入位） | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://tecprosolutions.com/；直邮: shereef@tecprosolutions.com（用户表）；WhatsApp: Rafi 已加（用户表）
+- **触达通道（公开）**：网站: https://www.tecprosolutions.com/；直邮: shereef@tecprosolutions.com（用户表）；WhatsApp: Rafi 已加（用户表）；电话: +971 4 326 6881（迪拜）/ +971 2 676 7373（阿布扎比）；邮箱（公开）: dxb@tecprosolutions.com / auh@tecprosolutions.com；LinkedIn: https://www.linkedin.com/company/tecprosolutionsllc（876 followers）
 - **近况信号**：
   - 用户表：3 次回复 + WA——关系活跃，但询价品类（HDMI）不在 Saga 型谱
+  - 2026-02 新形象 + 阿布扎比新办公室——项目管线扩张期，是切入 ELV 配套 PoE 交换机的窗口（2026-10-21）
 - **风险/边界**：需求偏配件；项目型集成商决策看品牌
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知
 - **邮件切入句（英文）**：We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.

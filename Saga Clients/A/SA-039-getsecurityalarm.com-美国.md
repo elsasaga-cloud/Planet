@@ -59,36 +59,50 @@ updated: 2026-10-21
 - **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。
 - **类型**：安防集成/安装商（小型，自装自用采购）
 - **规模**：<$5M（ZoomInfo）
+- **在卖/在用品牌**：Eagle Eye Networks, Brivo, Alula, Honeywell
 - **【官网】业务与联系方式**
   > Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com
   > 来源：https://getsecurityalarm.com/（抓取 2026-10-21）
 - **【官网（关联站）】员工持股，双牌照，电话与用户表一致**
   > Learn about Avenger Security, Austin’s employee-owned security monitoring company. Dual licensed for private security & fire alarm. … 512-563-5361 … Email: info@getsecurityalarm.com
   > 来源：https://securitytekton.com/pages/about-us（抓取 2026-10-21）
+- **【官网】公司背景 / 执照 / 地址 / 电话 / 创始人**
+  > Avenger Security is a private, employee-owned and operated security monitoring service provider based in Austin, Texas. Since 2004 … Texas Private Security License: B12519 & B03064001 … Texas Fire Alarm License: ACR 2370373 … Established: 2004 by Brandon Walter Adams … Address: 501 West Creekbend Cove, Hutto, Texas 78634 … Phone: 512-610-2698
+  > 来源：https://securitytekton.com/pages/about-us（抓取 2026-10-21）
+- **【官网】云视频 = Eagle Eye Networks + PoE IP 摄像机**
+  > Avenger Security delivers professional cloud video surveillance powered by Eagle Eye Networks. Replace legacy DVR/NVR limitations with a secure, flexible, and scalable cloud VMS that supports leading PoE IP cameras and many existing analog systems via bridge.
+  > 来源：https://securitytekton.com/pages/video-surveillance-austin（抓取 2026-10-21）
+- **【官网】门禁 = Brivo OnAir 与 Eagle Eye 联动**
+  > Avenger Security integrates Brivo OnAir with Eagle Eye Networks cloud video surveillance to attach door video clips to activity logs
+  > 来源：https://securitytekton.com/pages/access-control-service（抓取 2026-10-21）
 - **KP**：—（总机）info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
+- **KP**：Brandon Walter Adams（Founder / Owner（2004 创立，官网 About））—（未公开） +1 512-610-2698（公司）〔https://securitytekton.com/pages/about-us〕
 - 备注：A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 用户表））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 securitytekton.com + 目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Avenger Security / Security Tekton（getsecurityalarm.com） |
-| 总部/地址 | Austin & Hutto, Texas, USA |
+| 法定名称 | Avenger Security Services（Central Security 同族） |
+| 成立 | 2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010） |
+| 总部/地址 | 501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400） |
+| 人数 | 11–50 |
 | 营收 | <$5M（ZoomInfo） |
-| 其他 | 员工持股安防服务商：商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控；服务奥斯汀/休斯敦/达拉斯/圣安东尼奥 |
+| 其他 | 员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行 |
 
-- **业务线**：商业/住宅入侵报警与 UL 中心站监控；消防报警；门禁；云视频监控（IP 摄像机 → 需 PoE 接入）
+- **业务线**：商业/住宅入侵报警与 UL 中心站监控；消防报警；门禁；云视频监控（IP 摄像机 → 需 PoE 接入）；云视频监控安装（Eagle Eye Networks，PoE IP 摄像机）；云门禁（Brivo OnAir，$10–20/门/月）；盗警/消防报警 + UL 中心站监控（消防部分守界：不供生命安全链路设备）
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | （安装商自用） | 商业 PoE 交换机（用户表兴趣） | 摄像机/门禁点位供电 | STC-28DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
 
-- **触达通道（公开）**：网站: https://getsecurityalarm.com/；直邮: brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）；电话: (512) 563-5361（用户表）
+- **触达通道（公开）**：网站: https://securitytekton.com/；直邮: brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）；电话: +1 512-610-2698（奥斯汀）/ +1 281-954-3400（休斯敦）；LinkedIn: https://www.linkedin.com/company/central-security（322 followers）
 - **近况信号**：
   - 用户表：A 已回复，2 次实质回复，兴趣商业 PoE
-- **风险/边界**：安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景；消防报警部分守界（生命安全）
+  - Eagle Eye 云 VMS 模式每站点仍需本地 PoE 交换机（桥接器 + 摄像机）——8/24 口 PoE 为标配耗材；两城运营、2025-10 仍在发博客（活跃）
+- **风险/边界**：安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景；消防报警部分守界（生命安全）；消防报警/UL 监控为其业务一部分——Saga 只供摄像机/门禁侧 PoE 交换机，不进入消防链路（守界）
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档
-- **邮件切入句（英文）**：For camera and access-control sites an 8-port gigabit PoE+ unit at EXW cost is usually where installers see the biggest gap versus distributor pricing, so I am sending that one first with the 24-port version as the larger-site option.
+- **邮件切入句（英文）**：For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -117,7 +131,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 总机 | info@getsecurityalarm.com / +1 512-563-5361 | 调研核实（公开页） | https://securitytekton.com/pages/about-us |
-| Brandon Walter Adams | — | info@getsecurityalarm.com / brandon@getsecurityalarm.com / +5125635361 | 用户表原值 | Clients/ 表 |
+| Brandon Walter Adams | Founder / Owner（2004 创立，官网 About） | —（未公开） / +1 512-610-2698（公司） | 调研核实（公开页） | https://securitytekton.com/pages/about-us |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -186,7 +200,7 @@ updated: 2026-10-21
 ```text
 Hi Brandon,
 
-Picking up our earlier exchange about PoE / industrial switches. For camera and access-control sites an 8-port gigabit PoE+ unit at EXW cost is usually where installers see the biggest gap versus distributor pricing, so I am sending that one first with the 24-port version as the larger-site option.
+Picking up our earlier exchange about PoE / industrial switches. For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （安装商自用） 商业 PoE 交换机（用户表兴趣） at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -5,7 +5,10 @@
  "summary": "印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。",
  "type": "工业自动化/MEP 系统集成商",
  "size": "小型（11–50 人，<$5M）",
- "brands_seen": [],
+ "brands_seen": [
+  "Rievtech",
+  "Rapid SCADA"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -27,6 +30,27 @@
    "quote": "Pt Ras Otomasi Indonesia's revenue is <$5 Million… has 11-50 employees",
    "url": "https://www.zoominfo.com/c/pt-ras-otomasi-indonesia/1326650254",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务与地址电话",
+   "quote": "Perancangan, pemrograman, dan instalasi sistem kontrol berbasis PLC, HMI, dan SCADA … Workshop & Project Office: Ruko Villa Pamulang Blok CH8 No. 11 Pamulang, Tangerang Selatan 15416 … +62 21 5081-2002 (Kantor) +62 21 2784-6419 (Workshop) … Menara 165 Lantai 4, Jl. TB Simatupang Kav. 1, Cilandak, Jakarta 12560",
+   "url": "https://ras-otomasi.id/",
+   "date": "2024-05-08"
+  },
+  {
+   "kind": "官网",
+   "claim": "供应品牌 Rievtech / Rapid SCADA",
+   "quote": "Supplier & Engineering - Rapid Scada - Rievtech Micro PLC, Wifi PLC, SCADA, 4G PLC , ETHERNET PLC",
+   "url": "https://www.ras-otomasi.id/products/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "伙伴名录",
+   "claim": "公开联系人邮箱",
+   "quote": "Update : 11 November 2025 … RAS Otomasi Indonesia | Tangerang | sudarso@ras-otomasi.id",
+   "url": "https://trimaxindo.co.id/local-partners/",
+   "date": "2025-11-13"
   }
  ],
  "kp": [
@@ -36,6 +60,13 @@
    "email": "info@ras-otomasi.id（公开）",
    "phone": "+62 813-1042-5123（WA）/ +62 21 5081-2002",
    "source": "用户 Clients 表 + 官网"
+  },
+  {
+   "name": "Sudarso（姓氏/职务未公开）",
+   "role": "Trimaxindo 本地伙伴名录联系人",
+   "email": "sudarso@ras-otomasi.id",
+   "phone": "+62 21 2784-6419（公司）",
+   "source": "https://trimaxindo.co.id/local-partners/"
   }
  ],
  "grade_override": null,
@@ -44,19 +75,23 @@
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1（沿用首轮调研）"
+  "level": "深挖 v2（官网 + 伙伴名录核对）"
  },
  "company_facts": {
   "legal_name": "PT. RAS Otomasi Indonesia",
-  "hq": "Jakarta / Tangerang, Indonesia",
-  "staff": "11–50",
+  "hq": "Office: Menara 165 4th Fl, Jl. TB Simatupang Kav.1, Cilandak, Jakarta Selatan 12560（+62 21 5081-2002）；Workshop: Ruko Villa Pamulang Blok CH8 No.11, Pamulang, Tangerang Selatan 15416（+62 21 2784-6419）；info@ras-otomasi.id",
+  "staff": "11–50（ZoomInfo）",
   "revenue": "<$5M",
-  "other": "工业自动化与 MEP 承包/集成：PLC/HMI/SCADA、MEP、CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助、环境监测、智慧停车"
+  "other": "5 年+ 经验的自动化「aplikator」：PLC/HMI/SCADA（Rievtech micro/4G/Ethernet PLC、Rapid SCADA）、MEP、安防、水处理、IT/电信基础设施；方案含港口靠泊辅助 DAS、环境监测、自动气象站、燃油管理、智慧停车/智慧城市；Trimaxindo 本地伙伴名录列联系人 sudarso@ras-otomasi.id（2025-11）"
  },
  "business_lines": [
   "工业自动化（PLC/HMI/SCADA）",
   "MEP / 安防 / 消防",
-  "IT/电信基础设施"
+  "IT/电信基础设施",
+  "PLC/HMI/SCADA 控制系统（Rievtech / Rapid SCADA）",
+  "MEP 承包、水处理",
+  "安防 CCTV/门禁/消防、IT/电信基础设施",
+  "港口 DAS / 环境监测 / 智慧停车 方案"
  ],
  "products_seen": [
   {
@@ -70,10 +105,14 @@
  ],
  "channels": {
   "直邮": "sudarso.jkt@gmail.com（用户表，免费邮箱）",
-  "WhatsApp": "在线（用户表）"
+  "WhatsApp": "在线（用户表）",
+  "网站": "https://ras-otomasi.id/",
+  "电话": "+62 21 5081-2002 / +62 21 2784-6419（官网公开）",
+  "邮箱（公开）": "info@ras-otomasi.id；sudarso@ras-otomasi.id（Trimaxindo 伙伴名录公开）"
  },
  "signals": [
-  "DIN PoE 用量多、项目型——与 Saga 工业线直接匹配"
+  "DIN PoE 用量多、项目型——与 Saga 工业线直接匹配",
+  "Rievtech Ethernet/4G PLC + Rapid SCADA 方案 → 现场需要 DIN 工业交换机（-40~75℃、双电源）——STI-288DGGPM / STI-144GP 正对（2026-10-21）"
  ],
  "risks": [
   "免费邮箱；印尼认证由进口方；码头/环境监测部分可能是公共项目（守界）"

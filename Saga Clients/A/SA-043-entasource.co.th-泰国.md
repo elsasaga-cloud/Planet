@@ -22,7 +22,7 @@ followups: 1
 first_contact: 2025-06-16
 last_contact: 2025-06-16
 p1: STI-288DGGPM
-price_tier: 20%
+price_tier: 30%
 research: done
 sources: 1
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。（调研 2026-10-21；表内兴趣：工业FS SFP MC 机架 光猫 自己的标   中科德能的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-06-16 → 2025-06-16）；最近一次客户回复：2025-06-16：2+24非管理
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -59,36 +59,52 @@ updated: 2026-10-21
 - **是谁**：曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。
 - **类型**：进口分销商（自有 logo）
 - **规模**：未见人数（中小）
-- **在卖/在用品牌**：中科德能
+- **在卖/在用品牌**：中科德能, ENTA ETN/ETS（自有标）
 - **【官网】进口分销定位与产品线**
   > ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver … DIN-Rail Industrial Ethernet Switch … INDUSTRIAL POE SWITCH
   > 来源：https://www.entasource.co.th/17430328/network（抓取 2026-10-21）
 - **【官网】联系方式**
   > ENTA SOURCE CO., LTD. 11/72 Soi Phaholyothin 48 … Bangkok 10220 087-412-2552 … Sale@entasource.co.th
   > 来源：https://www.entasource.co.th/17906637/network-service（抓取 2026-10-21）
+- **【官网】ETN 自有标工业交换机全系型号列表**
+  > Network Switch - ETN9065-4GX8GT - ETN9075-4GX8PGT - ETN9065-4GX8PGT - ETN9075-2GX16GT … ETN9075-2XG16PGT … ETN9075-8GX8GT - ETN9075-8GX8PGT - ETN9075-4GX24GT - ETN9075-4GX24PGT … ETN9065-1FX4TX-mini - ETN9065-5TX-mini
+  > 来源：https://www.entasource.co.th/17430331/industrial-switch（抓取 2026-10-21）
+- **【官网】ETS-ESI1022 口型**
+  > ETS-ESI1022 … 16*100Base-T, 2*100Base-Fx SC, 4*1000Base-FX SFP Port
+  > 来源：https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022（抓取 2026-10-21）
+- **【官网】进口分销定位与保修**
+  > ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver ซึ่งอุปกรณ์ Network ที่เราจำหน่ายจะมีการรับประกันสินค้าหลังการขาย 1-3 ปี
+  > 来源：https://www.entasource.co.th/17430328/network（抓取 2026-10-21）
 - **KP**：—（销售（官网公开））Sale@entasource.co.th +66 87 412 2552（LINE: lin.ee/mNnxD59）〔https://www.entasource.co.th/17906637/network-service〕
 - 备注：A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对））
 
 | 公司事实 | 内容 |
 |---|---|
 | 法定名称 | ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส） |
 | 总部/地址 | Bangkok, Thailand |
-| 其他 | 网络与光纤设备进口分销：工业交换机（DIN/机架）、工业 PoE、兼容 SFP（3 年保）、MC、HDMI over fiber、无源件与 ODF；提供网络工程 |
+| 其他 | 官网 entasource.co.th（另有 entasource.com 旧站）：自有标 **ETN90xx** 工业交换机全系（ETN9065 非管理 / ETN9075 管理 推断）：4GX8GT、4GX8PGT（PoE）、2GX16GT/PGT、2XG16GT/PGT（10G 上联）、4XG16GT/PGT、8GX16GT/PGT、8GX8GT/PGT、4GX24GT/PGT、8GT/8PGT/16GT/16PGT、mini 1FX1TX/1FX2TX/1FX4TX/5TX、2GX2GT、1GX4GT；ETS-ESI1008 / ESI1022（16×FE + 2×FX SC + 4×SFP）；光模块 1G–100G（3 年保，兼容 Cisco/Huawei/Aruba/Alcatel/Juniper）；保修 1–3 年 |
 
-- **业务线**：工业交换机 / 工业 PoE（自有 logo）；兼容 SFP / MC / 光纤无源；网络工程服务
+- **业务线**：工业交换机 / 工业 PoE（自有 logo）；兼容 SFP / MC / 光纤无源；网络工程服务；自有标 ETN 工业以太网/PoE 交换机（DIN + 机架）；自有标光模块 1G/10G/25G/40G/100G、DAC；Media Converter / 网络方案
 
 | 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
 |---|---|---|---|---|
 | 中科德能（现来源，自有标） | 工业 FS / MC / 机架 | 自己的标 | STI-288DGGPM / STI-110GE | （本地 Clients/ 表格，无公开 URL）（用户表） |
+| ENTA（ETN 自有标） | ETN9075-4GX8PGT / ETN9065-4GX8PGT | 4 SFP + 8 GE PoE 工业（管理/非管理） | STI-288DGGPM（8 PoE + 2 SFP；4 SFP 版需核） | https://www.entasource.co.th/17430331/industrial-switch（2026-10-21） |
+| ENTA（ETN 自有标） | ETN9075-2XG16PGT / 4XG16PGT | 2/4×10G SFP+ 上联 + 16 GE PoE 工业 | STI-21616GP（10G 上联版需核） | https://www.entasource.co.th/17430331/industrial-switch（2026-10-21） |
+| ENTA（ETN 自有标） | ETN9075-8GX8GT / 8GX8PGT | 8 SFP + 8 GE 工业（PoE 可选） | —（8 光 8 电，与 SA-108 需求同型，待核 SmartByte） | https://www.entasource.co.th/17430331/industrial-switch（2026-10-21） |
+| ENTA（ETN 自有标） | ETN9075-4GX24PGT | 4 SFP + 24 GE PoE 工业机架 | STC-424DGGPM-280W（商用） | https://www.entasource.co.th/17430331/industrial-switch（2026-10-21） |
+| ENTA（ETN 自有标） | ETN9065-1FX4TX-mini / 5TX-mini / 1GX4GT | 迷你 DIN 1 光 4 电 / 5 电 | STI-144GP（PoE）/ STI-050GE | https://www.entasource.co.th/17430331/industrial-switch（2026-10-21） |
+| ENTA（ETS 自有标） | ETS-ESI1022 | 16×100Base-T + 2×100Base-FX SC + 4×1000Base-FX SFP | STI-21616GP（千兆升级位） | https://www.entasource.co.th/17430364/industrial-ethernet-switchets-esi1022（2026-10-21） |
 
-- **触达通道（公开）**：网站: https://www.entasource.co.th/；直邮: sale@entasource.co.th（用户表）
+- **触达通道（公开）**：网站: https://www.entasource.co.th/（目录）/ https://www.entasource.com/；直邮: sale@entasource.co.th（用户表）
 - **近况信号**：
   - 用户表：A 已回复；自有标 + 中科德能来源——贴牌采购流程成熟
+  - ETN 自有标型谱已覆盖 10G 上联与 8 光 8 电——是成熟的贴牌进口商，Saga 作为 Marvell 二供可按 ETN 命名直接套入（2026-10-21）
 - **风险/边界**：泰国价格敏感；现来源价格低
-- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档
-- **邮件切入句（英文）**：For your own-label industrial PoE range, the 8-port gigabit PoE + 2 SFP managed DIN switch on a Marvell core is the unit I would put next to your current source, and the gigabit SFP media converter follows in the same packing.
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档
+- **邮件切入句（英文）**：Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -134,9 +150,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：自有标工业 PoE 线：STI-288DGGPM（8+2）与 STI-144GP（4+1）为二供；MC 位 STI-110GE；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（进口分销商（自有 logo）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（进口分销商（自有 logo）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -146,7 +162,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -154,7 +170,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入；规模（调研）：未见人数（中小）
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入；规模（调研）：未见人数（中小）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -187,9 +203,9 @@ updated: 2026-10-21
 ```text
 Hi Janejira,
 
-Picking up our earlier exchange about PoE / industrial switches. For your own-label industrial PoE range, the 8-port gigabit PoE + 2 SFP managed DIN switch on a Marvell core is the unit I would put next to your current source, and the gigabit SFP media converter follows in the same packing.
+Picking up our earlier exchange about PoE / industrial switches. Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源，自有标） 工业 FS / MC / 机架 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your 中科德能（现来源，自有标） 工业 FS / MC / 机架 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
