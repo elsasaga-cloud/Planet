@@ -2,7 +2,7 @@
 
 > **评级 B**　|　英国　|　档案编号 `SB-329`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 10 次（2025-02-21 → 2025-11-05）　|　**所在清单**：A优质名单(UK)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）（推断）　|　**历史关系**：推送 10 次（2025-02-21 → 2025-11-05）　|　**所在清单**：A优质名单(UK)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-329
@@ -12,7 +12,7 @@ score: 44
 country: 英国
 region: 欧洲
 website: wildix.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）
 tier_tags: ["A优质名单(UK)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国品牌商/贴牌需求（OEM/ODM）：官网「AI-Powered VoIP, UCaaS & Business Phone System | Wildix」（en-GB）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ubiquiti；产品页：wildix-receives-2020-unified-communicati、leserwahl-itk-produkte-2019、wildix-bei-der-connect-professional-lese；表内「商业PoE 自己的logo 周边产品」；群发 10 次、无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo 周边产品）
+- **是谁**：Wildix（AI 云 VoIP / UCaaS 厂商：PBX、视频会议、WebRTC；自有标商用 PoE 与周边产品；表内「商业 PoE 自己的 logo 周边产品」「很大的一个公司」「可以尝试多跟进一下」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | wildix.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 英国 | 事实（用户表）|
 | 网站/域名 | wildix.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大） | 推断（据兴趣/备注关键词） |
 | 联系人 | 很大的一个公司 / 可以尝试多跟进一下 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE 自己的logo 周边产品 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（wildix.com，快照 2026-10-21）
-- **是谁**：英国品牌商/贴牌需求（OEM/ODM）：官网「AI-Powered VoIP, UCaaS & Business Phone System | Wildix」（en-GB）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ubiquiti；产品页：wildix-receives-2020-unified-communicati、leserwahl-itk-produkte-2019、wildix-bei-der-connect-professional-lese；表内「商业PoE 自己的logo 周边产品」；群发 10 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：Wildix（AI 云 VoIP / UCaaS 厂商：PBX、视频会议、WebRTC；自有标商用 PoE 与周边产品；表内「商业 PoE 自己的 logo 周边产品」「很大的一个公司」「可以尝试多跟进一下」）；群发 10 次无回复。
+- **类型**：UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）
 - **在卖/在用品牌**：Ubiquiti
 - **【官网快照】官网标题：AI-Powered VoIP, UCaaS & Business Phone System | Wildix；品类词 光纤 / 媒体转换 / 网络交换 / PoE**
   > Cloud VoIP phone system with AI automation. Get unified communications, PBX, video conferencing, team chat, CRM integrations & intelligent voicebots. WebRTC-powered by Wildix.
@@ -64,24 +64,29 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 商业PoE 自己的logo 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Wildix 定位**
+  > AI-Powered VoIP, UCaaS & Business Phone System | Wildix ; Cloud VoIP phone system with AI automation. Get unified communications, PBX, video conferencing
+  > 来源：https://www.wildix.com/（抓取 2026-10-21）
+- **【用户表】商业 PoE 自己的 logo；很大的公司**
+  > 商业PoE 自己的logo 周边产品；很大的一个公司；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 英国 |
 | 其他 | 官网 wildix.com，语言 en-GB，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 英国；contact: sales@wildix.com
+- **业务线**：云 VoIP / UCaaS（自有品牌 Wildix）；配套 PoE 交换机（贴标周边）
+- **触达通道（公开）**：role: UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）；region: 英国；contact: sales@wildix.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.wildix.com/）
-  - 在售同口型交换品牌：Ubiquiti → 直接对位替换
-  - 用户表兴趣/备注：商业PoE 自己的logo 周边产品
-- **风险/边界**：群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Cloud VoIP phone system with AI automation. Get unified communications, PBX, video conferencing … WebRTC-powered by Wildix
+  - 表内：商业 PoE 自己的 logo 周边产品；很大的一个公司
+- **风险/边界**：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长；10 次无回复，仅 sales@，无具名 KP
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
+- **邮件切入句（英文）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -146,7 +151,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -199,7 +204,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

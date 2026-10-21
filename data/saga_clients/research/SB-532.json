@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（eks-engel.de，快照 2026-10-21）",
- "summary": "德国工业自动化/IoT 方案商：官网「fiber optic systems – eks Engel」（de）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS485、RS232、EL-1000-XSG-SFP、EL-1000-XSGP-SFP；表内「bypass 工业FS MC 多功能VC」；群发 8 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "德国 eks Engel（「Das Leben sicherer machen」光纤系统与组件制造商：自有 EL-1000-XSG-SFP / EL-1000-XSGP-SFP 工业交换机、bypass、MC、多功能 VC、数据流软件；表内「bypass 工业 FS MC 多功能 VC」「有人在卖他们的产品」；KP Ralph Engel（Managing Director，re@））；群发 8 次无回复。",
+ "type": "德国光纤系统制造商（自有 EL 系列，二供口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,72 @@
    "quote": "bypass 工业FS MC 多功能VC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "eks Engel 定位",
+   "quote": "fiber optic systems – eks Engel ; Intelligent solutions – engineered by eks, intuitiv bedienbare Software, LWL-Systeme und Komponenten bis hin zu Datenstreaming ; Das Leben sicherer machen.",
+   "url": "https://www.eks-engel.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "bypass 工业 FS MC 多功能 VC",
+   "quote": "bypass 工业FS MC 多功能VC；有人在卖他们的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ralph Engel",
+   "title": "Managing Director",
+   "email": "re@eks-engel.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 eks-engel.de，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤系统 / 工业交换机 / MC / VC（自有品牌 eks Engel）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "德国光纤系统制造商（自有 EL 系列，二供口径）",
   "region": "德国",
   "contact": "info@eks-engel.de、re@eks-engel.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.eks-engel.de/）",
-  "用户表兴趣/备注：bypass 工业FS MC 多功能VC"
+  "官网：Intelligent solutions – engineered by eks, intuitiv bedienbare Software, LWL-Systeme und Komponenten bis hin zu Datenstreaming；站内 EL-1000-XSG-SFP / EL-1000-XSGP-SFP / EL-1000-XSG；kw ethernet 53 / industrial 18",
+  "表内：bypass 工业 FS MC 多功能 VC；有人在卖他们的产品；KP Ralph Engel / Managing Director"
  ],
- "risks": [],
+ "risks": [
+  "自研能力强（德国制造商，安全应用）：仅二供口径，准入要求高",
+  "8 次无回复 → 改向 Managing Director 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE"
  },
- "email_hook": "Ralph, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Ralph, for the EL-1000 industrial switch and media-converter range, we can serve as a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 4-SFP + 8-GE with optical bypass, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you currently source from a single supplier?",
+ "products_seen": [
+  {
+   "brand": "eks Engel（自有）",
+   "model": "EL-1000-XSGP-SFP",
+   "spec": "工业 PoE 交换机（SFP 上联）",
+   "saga": "STI-288GPM",
+   "url": "https://www.eks-engel.de/",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fossfibreoptics.com，快照 2026-10-21）",
- "summary": "挪威电信/ISP/网络运营：官网「Foss Fiber Optics」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆；站内型号：NO936010229MVA、MIL-DTL-38999、FPD66-24LCOM3-MPO-A2T、FPM76；表内「卖一些台湾品牌的设备；CWDM」；群发 4 次、无回复。",
- "type": "电信/ISP/网络运营",
+ "summary": "挪威 Foss Fiber Optics（foss-as.no：数据/电信/宽带网络光纤基础设施，「Norwegian quality」，数据中心、工业（MIL-DTL-38999 连接器）；斯洛伐克办公室 office.sk@；表内「卖一些台湾品牌的设备 / CWDM；销售平台」；KP Peter Fric（Purchases, Sales and Logistics Officer））；表内 4 次跟进无回复。",
+ "type": "光纤基础设施供应商（挪威/斯洛伐克，台湾品牌有源设备在售）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,62 @@
    "quote": "卖一些台湾品牌的设备；CWDM",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Foss Fiber Optics 定位",
+   "quote": "Foss delivers high-performance fiber optic infrastructure tailored to modern data, telecom, and broadband networks. From standard products to customized solutions ; Norwegian quality products",
+   "url": "https://www.fossfibreoptics.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "台湾品牌设备 / CWDM",
+   "quote": "卖一些台湾品牌的设备 / CWDM；销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Peter Fric",
+   "title": "Purchases, Sales and Logistics Officer",
+   "email": "office.sk@fossfibreoptics.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "挪威",
   "other": "官网 fossfibreoptics.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "光纤基础设施（光缆 / 配线 / 数据中心 / 工业）"
  ],
  "channels": {
-  "role": "电信/ISP/网络运营",
+  "role": "光纤基础设施供应商（挪威/斯洛伐克，台湾品牌有源设备在售）",
   "region": "挪威",
   "contact": "info@foss-as.no、office.sk@fossfibreoptics.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.fossfibreoptics.com/）",
-  "官网公开邮箱：info@fossfiberoptics.no、marco.schroeter@acalbfi.de、office.sk@fossfibreoptics.com",
-  "用户表兴趣/备注：卖一些台湾品牌的设备；CWDM"
+  "官网：Foss delivers high-performance fiber optic infrastructure tailored to modern data, telecom, and broadband networks ; Norwegian quality products；kw cable 273 / fiber 256 / industrial 35 / data center 22",
+  "表内：卖一些台湾品牌的设备 / CWDM；KP Peter Fric / Purchases, Sales and Logistics Officer"
  ],
- "risks": [],
+ "risks": [
+  "主业光缆/无源与 CWDM（Saga 不供）：有源为配套；MIL 连接器线不涉",
+  "4 次跟进无回复 → 改向采购/销售负责人具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 35、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：电信/ISP/网络运营→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "有源配套（现台湾品牌）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ 工业 8 GE + 2 SFP STI-280GE（$46.6）；CWDM/SFP Saga 不供（Q-32）"
  },
- "email_hook": "Peter, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Peter, alongside the Taiwanese media converters and switches you carry with your fibre infrastructure, we supply Marvell/Realtek-based industrial gigabit MCs and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which active product do your broadband customers order most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（flolive.net，快照 2026-10-21）",
- "summary": "英国安防集成/经销：官网「IoT Connectivity Solutions and Products | FloLIVE」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：AES-256；表内「Networking」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "英国 FloLIVE（IoT 连接平台：全球蜂窝连接、核心网与安全管理服务，面向企业/运营商/云商；表内「Networking」）；表内 1 次跟进无回复。",
+ "type": "IoT 连接平台/MVNO（品类不符）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,52 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "FloLIVE 定位",
+   "quote": "IoT Connectivity Solutions and Products | FloLIVE ; Flolive’s IoT Connectivity Solutions & Products enables enterprises, mobile operators & cloud providers to manage & protect IoT devices.",
+   "url": "https://flolive.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符：IoT 蜂窝连接平台（FloLIVE），无交换机需求；c_sub=品类不符（非网络设备）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 flolive.net，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "IoT 蜂窝连接平台服务"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "IoT 连接平台/MVNO（品类不符）",
   "region": "英国",
   "contact": "info@flolive.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://flolive.net/）",
-  "用户表兴趣/备注：Networking"
+  "官网：Flolive’s IoT Connectivity Solutions & Products enables enterprises, mobile operators & cloud providers to manage & protect IoT devices；首页 One Platform. Limitless Services. ; Qualcomm: Enhancing Global IoT Connectivity"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：IoT 蜂窝连接平台（SIM/核心网服务），无交换机需求"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 21、PoE 1 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "蜂窝 IoT 连接服务平台，不采购以太网交换机 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：品类不符）"
 }

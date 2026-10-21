@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ansecnetwork.com，快照 2026-10-21）",
- "summary": "香港品牌商/贴牌需求（OEM/ODM）：官网「ANSEC | ANSEC Network offers you network cabinets, Cable management and tray, Patch panel,」；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆；站内型号：AS-16SF8B-M2SG、AS-4P2SG、AS-4P1SG、AS-8PM；表内「工业FS Upeto的 分销商 自己的型号」；群发 17 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "香港 ANSEC Network（网络机柜、理线、配线架等无源 + 有源设备；自有 AS- 型号（AS-16SF8B-M2SG / AS-4P2SG / AS-8PM，Utepo 代工迹象）；表内「工业 FS Utepo 的；分销商；自己的型号」；电话 +86 131…（内地手机，「网站上的 加不了 VX」））；群发 17 次无回复。",
+ "type": "港资/内地背景贸易商（自有型号转卖 Utepo，同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,46 +21,53 @@
    "quote": "工业FS Upeto的 分销商 自己的型号",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ANSEC 定位",
+   "quote": "ANSEC Network offers you network cabinets, Cable management and tray, Patch panel ; Passive networking equipment ; Active networking equipment ; AS-16SF8B-M2SG",
+   "url": "http://www.ansecnetwork.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 的 自己的型号；内地手机",
+   "quote": "工业FS Upeto的 分销商 自己的型号；86 131 3867 2473 / 网站上的 加不了VX",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：香港/内地背景贸易商（ANSEC，Utepo 贴牌 AS- 型号），非海外渠道；c_sub=同行/贸易商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "香港",
   "other": "官网 ansecnetwork.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络机柜 / 配线 / 有源设备贸易"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "港资/内地背景贸易商（自有型号转卖 Utepo，同行）",
   "region": "香港",
   "contact": "office@ansecnetwork.com、support@ansecnetwork.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，http://www.ansecnetwork.com/en/）",
-  "官网公开邮箱：office@ansecnetwork.com、support@ansecnetwork.com",
-  "用户表兴趣/备注：工业FS Upeto的 分销商 自己的型号"
+  "站内 AS-16SF8B-M2SG / AS-4P2SG / AS-4P1SG / AS-8PM / AS-8P；首页 Passive networking equipment / Active networking equipment",
+  "表内：工业 FS Upeto 的 分销商 自己的型号；86 131 3867 2473 / 网站上的 加不了 VX"
  ],
  "risks": [
-  "群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "同行：香港注册、内地电话的贸易商（Utepo 产品贴 AS- 型号出口），非海外渠道客户；17 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": null,
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "内地手机号 + 香港壳 + Utepo 贴牌自有型号 → 同行出口商，非海外渠道 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：同行）"
 }

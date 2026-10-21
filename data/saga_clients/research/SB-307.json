@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dualcomm.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Network Taps for Capturing and Monitoring Network Traffic – Dualcomm」（en）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：ETAP-2003、ETAP-2406、ETAP-2003R、ETAP-PI5；表内「MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子」；群发 20 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Dualcomm（网络分流器 TAP 自有品牌：ETAP 系列（10G–25G TAP 低于 $1000）、以太网同轴 EoC 套件 DECA-100/200；表内「MC / FS / 工业 MC / EoC，标价很高，最近在上新品，自己的牌子」）；群发 20 次无回复。",
+ "type": "网络 TAP/EoC 自有品牌商（美国，MC 为副线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Dualcomm 定位",
+   "quote": "Network Taps for Capturing and Monitoring Network Traffic – Dualcomm ; Network TAP For Less ; ETHERNET-OVER-COAX ; DECA-100/DECA-200 EoC Kit",
+   "url": "https://www.dualcomm.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS 工业 MC EoC 自己的牌子",
+   "quote": "MC FS 工业MC EOC  标价很高 最近在上新品    自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +43,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 dualcomm.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络 TAP / EoC / MC（自有品牌 Dualcomm）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "网络 TAP/EoC 自有品牌商（美国，MC 为副线）",
   "region": "美国",
   "contact": "info@dualcomm.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dualcomm.com/）",
-  "官网公开邮箱：info@dualcomm.com",
-  "用户表兴趣/备注：MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子"
+  "首页：Network TAP For Less ; NETWORK TAP ; ETHERNET-OVER-COAX ; The First 10G-25G Network TAP Below $1000；站内 ETAP-2003 / ETAP-2406 / ETAP-PI5；kw 10g 36 / sfp 34 / ethernet 40",
+  "表内：MC FS 工业 MC EoC 标价很高 最近在上新品 自己的牌子"
  ],
  "risks": [
-  "群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主品类 TAP / EoC：Saga 不做（Q-32），仅 MC 可对位，契合度低",
+  "20 次无回复，仅 info@，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-110GE",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range?"
 }

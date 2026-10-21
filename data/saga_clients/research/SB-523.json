@@ -3,10 +3,15 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（armadi-rack.it，快照 2026-10-21）",
- "summary": "意大利工业自动化/IoT 方案商：官网「Armadi Rack」（it）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：MDWCSAN17、MDWCSAN19、MDWCSAN20、TLWN725N；表内「Digitus Upeto的工业FS Linkcreative的MC」；群发 13 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "意大利 Armadi Rack（19 寸机柜、子架、电子/机电外壳意大利制造与网店；网店栏目 PoE 交换机、工业交换机/HUB；表内「Digitus / Utepo 的工业 FS；Linkcreative 的 MC」「可以尝试多跟进一下」；KP Massimiliano Luciani（Sales Manager）、Alfredo Marmone（Entrepreneur））；群发 13 次无回复。",
+ "type": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Digitus",
+  "Utepo",
+  "Linkcreative",
+  "TP-Link"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,47 +26,70 @@
    "quote": "Digitus Upeto的工业FS Linkcreative的MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Armadi Rack 定位",
+   "quote": "Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online. ; /294-switch-poe/ ; /288-hub-switch-industriali/",
+   "url": "https://www.armadi-rack.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Digitus Utepo 工业 FS；Linkcreative MC",
+   "quote": "Digitus Upeto的工业FS Linkcreative的MC；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Massimiliano Luciani",
+   "title": "Sales Manager",
+   "email": "info@armadi-rack.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Alfredo Marmone",
+   "title": "Entrepreneur",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 armadi-rack.it，语言 it，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "19 寸机柜 / 子架 / 外壳制造",
+  "网络配件网店（PoE / 工业交换机 / MC）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）",
   "region": "意大利",
   "contact": "info@armadi-rack.it、ordini@armadi-rack.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.armadi-rack.it/）",
-  "官网公开邮箱：info@armadi-rack.it",
-  "用户表兴趣/备注：Digitus Upeto的工业FS Linkcreative的MC"
+  "栏目 /294-switch-poe/、/288-hub-switch-industriali/；kw switch 26 / wireless 31 / sfp 10",
+  "官网：Armadi Rack 19\" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia；KP Massimiliano Luciani / Sales Manager；Alfredo Marmone / Entrepreneur"
  ],
  "risks": [
-  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主业机柜：交换机为网店配套品类，量小；现卖 Utepo（深圳）价格基准低",
+  "13 次无回复 → 改向 Sales Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "在售 Digitus/Utepo 工业 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）对位 Linkcreative"
  },
- "email_hook": "Massimiliano, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Massimiliano, alongside the Digitus and Utepo industrial switches in your shop, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（yamaha.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Corporate Site - Yamaha Corporation」（en）；品类词：工业自动化 / OT 网络；站内品牌：Ubiquiti；站内型号：FY2026、FY2028、FY2025、EAD50；表内「商业PoE 自己的牌子」；群发 10 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "Yamaha Corporation（日本上市巨头，企业站；Yamaha 网络交换机 SWX/SWR 系列为日本自研线；表内「商业 PoE 自己的牌子」；邮箱 media@）；群发 10 次无回复。",
+ "type": "上市巨头（Yamaha）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,40 +23,53 @@
    "quote": "商业PoE 自己的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Yamaha 企业站",
+   "quote": "Corporate Site - Yamaha Corporation ; Corporate website of Yamaha Corporation, providing corporate, sustainability, investor relations (IR)",
+   "url": "https://www.yamaha.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 自己的牌子",
+   "quote": "商业PoE 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "巨头：Yamaha Corporation（上市集团，自研网络交换机线）；c_sub=巨头/集团",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 yamaha.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "乐器 / 音响 / 网络设备（集团）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "上市巨头（Yamaha）",
   "region": "美国",
   "contact": "media@yamaha.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.yamaha.com/en/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "用户表兴趣/备注：商业PoE 自己的牌子"
+  "官网：Corporate website of Yamaha Corporation, providing corporate, sustainability, investor relations (IR) and corporate social responsibility (CSR) information",
+  "表内：商业 PoE 自己的牌子；邮箱 media@yamaha.com"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "巨头：Yamaha Corporation（上市集团），网络交换机为日本自研线；邮箱为媒体联系邮箱"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "上市巨头，自研网络产品线，非 Saga 可承接 → 改 C"
  },
- "email_hook": "Alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：巨头）"
 }
