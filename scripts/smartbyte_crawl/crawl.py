@@ -45,6 +45,7 @@ v2.5（2026-10-21，运行 #7 成果丢失之后）：Actions 的 checkout 停�
 v2.6（2026-10-21，运行 #8 图片 1493/1493 收齐但 Release 附件被逐轮 --clobber 覆盖、前 900 张二进制只剩 90 天期限的 Actions 产物之后）：
   图片二进制也入 git（OUT/images/，总量 ≤ IMG_COMMIT_MB=400 才拷；型号页可直接内嵌显示）；
   清单里"已完成"的图片若二进制既不在 BIN 也不在 OUT/images，则视为未完成重新下载，保证入库齐全。
+v2.6.1（2026-10-21，运行 #9 图片 1487/1493 入 git、6 张 CDN 读体中断之后）：图片读体失败就地重试一次（隔 3 s）再记错。
 """
 import hashlib
 import json
@@ -919,14 +920,29 @@ def main():
             continue
         rec["status"] = r.status_code
         if r.status_code == 200:
-            try:
-                data = r.content
-            except Exception as e:  # noqa: BLE001  读体中断（ChunkedEncodingError / IncompleteRead）→ 记错继续，下轮重试
-                rec["error"] = f"body read failed: {e.__class__.__name__}"
+            data = None
+            for attempt in range(2):  # v2.6.1：读体中断就地重试一次
+                try:
+                    data = r.content
+                    break
+                except Exception as e:  # noqa: BLE001  ChunkedEncodingError / IncompleteRead / ConnectionError
+                    rec["error"] = f"body read failed: {e.__class__.__name__}"
+                    time.sleep(3)
+                    if attempt == 0:
+                        try:
+                            r = S.get(u, timeout=120, stream=True, allow_redirects=True,
+                                      headers={"User-Agent": CHROME_UA, "Accept": "image/avif,image/webp,image/*,*/*;q=0.8", "Referer": BASE or "https://www.smartbyte-switch.com/"})
+                            rec["status"] = r.status_code
+                            if r.status_code != 200:
+                                break
+                        except Exception as e2:  # noqa: BLE001
+                            rec["error"] = f"retry failed: {e2.__class__.__name__}"
+                            break
+            if data is None:
                 img_rows.append(rec)
                 _note(False)
-                time.sleep(2)
                 continue
+            rec.pop("error", None)
             fn = fname(u)
             with open(os.path.join(BIN, "images", fn), "wb") as f:
                 f.write(data)
