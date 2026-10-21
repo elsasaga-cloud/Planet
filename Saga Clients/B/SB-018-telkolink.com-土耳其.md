@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-018`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 2 次（2025-09-26 → 2025-10-24）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）（推断）　|　**历史关系**：推送 2 次（2025-09-26 → 2025-10-24）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-018
@@ -12,14 +12,14 @@ score: 60
 country: 土耳其
 region: 土耳其
 website: telkolink.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）
 tier_tags: ["A优质名单(土耳其客户)", "AI评估(TR)·DONE"]
 deal: no
 replies: 0
 followups: 2
 first_contact: 2025-09-26
 last_contact: 2025-10-24
-p1: STI-110GE
+p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其品牌商/贴牌需求（OEM/ODM）：官网「Telkolink Kurumsal Bilgi Teknolojileri」；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、RS485、DC48V、RS422；表内「VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台」；群发 2 次、无回复。（调研 2026-10-21；表内兴趣：VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般）
+- **是谁**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。（调研 2026-10-21；表内兴趣：VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | telkolink.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | telkolink.com / clrnetworks.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源） | 推断（据兴趣/备注关键词） |
 | 联系人 | 还有3旺 tg-net 上面的一个台湾公司 / 整体上看着外观都一般 / Yusuf Olcer / Sales Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | VC 刷了自己的标 <br>合作很密切 FS 机架 MC SFP模块 / VC 刷了自己的标 <br>合作很密切 FS 机架 MC SFP模块<br>还有3旺 tg-net 上面的一个台湾公司<br>整体上看着外观都一般 | 事实（用户表） |
@@ -72,31 +72,40 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（telkolink.com，快照 2026-10-21）
-- **是谁**：土耳其品牌商/贴牌需求（OEM/ODM）：官网「Telkolink Kurumsal Bilgi Teknolojileri」；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、RS485、DC48V、RS422；表内「VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台」；群发 2 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。
+- **类型**：IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）
+- **在卖/在用品牌**：CLR, 3onedata, TG-NET
 - **【官网快照】官网标题：Telkolink Kurumsal Bilgi Teknolojileri；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > POE Switch â Network cihazlarÄ± â Fiber Optik Sistemler â RF Kablo â YapÄ±sal Kablolama â EndÃ¼striyel Otomasyon ÃrÃ¼nleri
   > 来源：http://www.telkolink.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般；在用ClR公司的 深圳公司 http://www.clrnetworks.com/products/CLR-HDV-A51_main.html
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】PoE 交换机、网络设备、光纤系统、布线、工业自动化产品**
+  > POE Switch · Network cihazları · Fiber Optik Sistemler · RF Kablo · Yapısal Kablolama · Endüstriyel Otomasyon Ürünleri
+  > 来源：http://www.telkolink.com/（抓取 2026-10-21）
+- **【用户表】VC 刷了自己的标，FS/机架/MC/SFP 合作密切**
+  > VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司；在用ClR公司的 深圳公司
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Yusuf Olcer（）info@telkolink.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 telkolink.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 土耳其；contact: info@telkolink.com
+- **业务线**：PoE 交换机 / 网络设备 / 光纤系统 / 布线 / 工业自动化产品分销；自有标视频转换器（VC）
+- **触达通道（公开）**：role: IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）；region: 土耳其；contact: info@telkolink.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，http://www.telkolink.com/）
-  - 官网公开邮箱：sait@telkolink.com、satis@gelecekbt.com、yusuf@telkolink.com
-  - 用户表兴趣/备注：VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般；在用ClR公司的 深圳公司 http://www.
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Yusuf, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：POE Switch · Network cihazları · Fiber Optik Sistemler · RF Kablo · Yapısal Kablolama · Endüstriyel Otomasyon Ürünleri
+  - 站内 Katalog PDF（/Katalog/BFA.pdf、/1100.pdf、/1200.pdf、/3012.pdf）
+  - 表内：VC 刷了自己的标，合作很密切；KP Yusuf Olcer / Sales Manager
+- **风险/边界**：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低；SFP 模块与机架 Saga 价目无 SKU（Q-32）；土耳其：汇率敏感，报 EXW 美元
+- **Saga 对位结论**：P1 STI-288GPM（30% 档）——已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
+- **邮件切入句（英文）**：Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -143,7 +152,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yusuf Olcer | — | info@telkolink.com | 用户表原值 | Clients/ 表 |
+| Yusuf Olcer | — | info@telkolink.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -160,7 +169,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288GPM | 深挖对位：已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32） | $85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -169,9 +178,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -179,9 +188,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；土耳其主攻区，复购与口碑可外溢
+- **S**：土耳其主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -209,25 +218,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Yusuf,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Yusuf, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+Picking up our earlier exchange about PoE / industrial switches. Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

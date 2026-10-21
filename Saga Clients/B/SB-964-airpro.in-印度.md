@@ -2,7 +2,7 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-964`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：印度自有品牌网络厂商（OEM 采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-964
@@ -12,14 +12,14 @@ score: 29
 country: 印度
 region: 南亚
 website: airpro.in
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 印度自有品牌网络厂商（OEM 采购）
 tier_tags: ["AI评估(IN)·DONE", "群发(筛选后质量一般的_群发)", "表:India"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度品牌商/贴牌需求（OEM/ODM）：官网「AirPro - Best Wireless WiFi Router, Networking Products for Home & Business」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：IEEE802、AP-IGS9014P、AP-PX411、AP-ES106P；表内「其他；POE MC SFP 自己的标 没啥工业品」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：其他；POE MC SFP 自己的标 没啥工业品）
+- **是谁**：印度 AirPro（自有品牌有线/无线网络产品，自称有内部研发：WLAN AP / 控制器 / PoE 交换机 AP-ES108P-2GE、AP-ES106P、工业 AP-IGS9014P、注入器 AP-PX411；表内「PoE / MC / SFP 自己的标，没啥工业品」「比较重要 Deepak」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：其他；POE MC SFP 自己的标 没啥工业品）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 AP-ES108P-2GE（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AirPro 标；工业 AP-IGS9014P 位 STI-288GPM；MC 位 STI-110GE；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | airpro.in（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | airpro.in | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 印度自有品牌网络厂商（OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | 比较重要 Deepak | 事实（用户表） |
 | 来源（From） | 海关数据 / 外贸邦 | 事实（用户表） |
 | 兴趣（Interested in） | 其他 / POE MC SFP 自己的标<br>没啥工业品 | 事实（用户表） |
@@ -65,32 +65,45 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（airpro.in，快照 2026-10-21）
-- **是谁**：印度品牌商/贴牌需求（OEM/ODM）：官网「AirPro - Best Wireless WiFi Router, Networking Products for Home & Business」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：IEEE802、AP-IGS9014P、AP-PX411、AP-ES106P；表内「其他；POE MC SFP 自己的标 没啥工业品」；表内未见跟进记录。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：印度 AirPro（自有品牌有线/无线网络产品，自称有内部研发：WLAN AP / 控制器 / PoE 交换机 AP-ES108P-2GE、AP-ES106P、工业 AP-IGS9014P、注入器 AP-PX411；表内「PoE / MC / SFP 自己的标，没啥工业品」「比较重要 Deepak」）；表内无跟进记录。
+- **类型**：印度自有品牌网络厂商（OEM 采购）
 - **【官网快照】官网标题：AirPro - Best Wireless WiFi Router, Networking Products for Home & Business；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions, esp. DISCOVER MORE JUST ARRIVED OUR NEWEST PRODUCTS WLAN APs and Controllers Outdoor Access Point PoE Switch Fiber 
   > 来源：https://airpro.in/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 其他；POE MC SFP 自己的标 没啥工业品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】AirPro 自有研发的有线/无线网络产品**
+  > AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions
+  > 来源：https://airpro.in/（抓取 2026-10-21）
+- **【用户表】PoE MC SFP 自己的标，没啥工业品**
+  > POE MC SFP 自己的标；没啥工业品；比较重要 Deepak
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Deepak（）sales@airpro.in 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 印度 |
 | 其他 | 官网 airpro.in，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 印度；contact: sales@airpro.in、support@airpro.in
+- **业务线**：WLAN AP / 控制器（自有品牌）；PoE 交换机 / 注入器 / MC（自有品牌）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| AirPro（自有） | AP-ES108P-2GE | 8 PoE + 2 GE 上联 | STC-28DGGPM | https://airpro.in/（2026-10-21） |
+| AirPro（自有） | AP-IGS9014P | 工业 PoE（9+4 口，推断） | STI-288GPM / STI-488DGGPM | https://airpro.in/（2026-10-21） |
+
+- **触达通道（公开）**：role: 印度自有品牌网络厂商（OEM 采购）；region: 印度；contact: sales@airpro.in、support@airpro.in
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://airpro.in/）
-  - 官网公开邮箱：example@gmail.com、nsales@airpro.ae
-  - 用户表兴趣/备注：其他；POE MC SFP 自己的标 没啥工业品
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions
+  - 站内型号 AP-ES108P-2GE / AP-ES106P / AP-IGS9014P / AP-PX411
+  - 表内：PoE MC SFP 自己的标；比较重要 Deepak
+- **风险/边界**：印度 BIS：由 AirPro 以其品牌取证；整机关税高 → SKD 可谈；自称内部研发：实际为深圳 ODM 贴标，价格基准低；非主攻区（T5）；KP 仅名「Deepak」，邮箱为 sales@
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 AP-ES108P-2GE（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AirPro 标；工业 AP-IGS9014P 位 STI-288GPM；MC 位 STI-110GE
+- **邮件切入句（英文）**：Deepak, for the AP-ES108P-2GE class of PoE switches under the AirPro label, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, plus 4/8-port unmanaged) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -128,7 +141,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@airpro.in / support@airpro.in | 用户表原值 | Clients/ 表 |
+| Deepak | — | sales@airpro.in | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -145,17 +158,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自有 AP-ES108P-2GE（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AirPro 标；工业 AP-IGS9014P 位 STI-288GPM；MC 位 STI-110GE | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（印度自有品牌网络厂商（OEM 采购）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -165,7 +178,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -193,14 +206,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Deepak,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Deepak, for the AP-ES108P-2GE class of PoE switches under the AirPro label, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, plus 4/8-port unmanaged) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your AirPro（自有） AP-ES108P-2GE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

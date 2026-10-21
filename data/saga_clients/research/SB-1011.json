@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（xvi.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「XVI — камеры видеонаблюдения, PoE оборудование и аксессуары」（ru）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内型号：SWP1104、SWP1016、SWP1508、SWP1016M；表内「工商业FS 自己的型号 很多种外壳」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 XVI（xvi.ru / dexi.ru；自有品牌视频监控：IP/AHD 摄像机、PoE 交换机 SWP1104 / SWP1508 / SWP1016 / SWP1016M / SWP1024、配件与软件，面向民用/商用/工业场所；表内「工商业 FS 自己的型号，很多种外壳，HiSource 的」）；表内无跟进记录。",
+ "type": "俄罗斯安防品牌商（自有 SWP 系列 PoE，HiSource 代工迹象，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HiSource"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "工商业FS 自己的型号 很多种外壳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "XVI 自有品牌摄像机与 PoE 交换机",
+   "quote": "Камеры видеонаблюдения XVI: IP и AHD камеры, PoE-коммутаторы, аксессуары, объективы и программное обеспечение для систем видеонаблюдения.",
+   "url": "https://xvi.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工商业 FS 自己的型号，HiSource 的",
+   "quote": "工商业FS 自己的型号 很多种外壳；hisource的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +45,53 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 xvi.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "自有品牌监控摄像机（IP / AHD）",
+  "自有标 PoE 交换机（SWP 系列）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯安防品牌商（自有 SWP 系列 PoE，HiSource 代工迹象，OEM 采购）",
   "region": "俄罗斯",
   "contact": "sales@dexi.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://xvi.ru/）",
-  "官网公开邮箱：sales@dexi.ru",
-  "用户表兴趣/备注：工商业FS 自己的型号 很多种外壳"
+  "官网：Камеры видеонаблюдения XVI: IP и AHD камеры, PoE-коммутаторы, аксессуары",
+  "站内型号 SWP1104 / SWP1508 / SWP1016 / SWP1016M / SWP1024（自有）",
+  "表内：工商业 FS 自己的型号，很多种外壳"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "现代工 HiSource（深圳）：价格基准低",
+  "无具名 KP（sales@dexi.ru）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 SWP1508（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 XVI 标；16 口管理 SWP1016M → HRUI STC-2216GPM（列表价 $137.5）；多外壳需求 = ODM 外观选择"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first?",
+ "products_seen": [
+  {
+   "brand": "XVI（自有）",
+   "model": "SWP1508",
+   "spec": "8 口 PoE（推断）",
+   "saga": "STC-28DGGPM",
+   "url": "https://xvi.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "XVI（自有）",
+   "model": "SWP1016M",
+   "spec": "16 口 PoE 管理（推断）",
+   "saga": "STC-2216GPM（HRUI 列表价 $137.5，非 SmartByte）",
+   "url": "https://xvi.ru/",
+   "date": "2026-10-21"
+  }
+ ]
 }

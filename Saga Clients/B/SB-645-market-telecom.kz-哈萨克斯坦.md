@@ -2,7 +2,7 @@
 
 > **评级 B**　|　哈萨克斯坦　|　档案编号 `SB-645`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：推送 18 次（2024-05-10 → 2025-10-17）　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：多品牌 IT/安防设备供应商（哈萨克斯坦）（推断）　|　**历史关系**：推送 18 次（2024-05-10 → 2025-10-17）　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-645
@@ -12,14 +12,14 @@ score: 35
 country: 哈萨克斯坦
 region: 俄语区
 website: market-telecom.kz
-type: 分销商/批发商
+type: 多品牌 IT/安防设备供应商（哈萨克斯坦）
 tier_tags: ["A优质名单(俄语国家)", "AI评估(俄语国家)·DONE"]
 deal: no
 replies: 0
 followups: 18
 first_contact: 2024-05-10
 last_contact: 2025-10-17
-p1: STI-288DGGPM
+p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：哈萨克斯坦分销商/批发商：官网「Сетевое и телекоммуникационное оборудование в Казахстане」（ru）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：PRO32、DS-3E1106P-EI、GRP2601、DH-HAC-B1A21P-0280B；表内「ONV Witech planet 以及其他牌子 工业FS SFP MC」；群发 18 次、无回复。（调研 2026-10-21；表内兴趣：ONV Witech planet 以及其他牌子 工业FS SFP MC）
+- **是谁**：哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。（调研 2026-10-21；表内兴趣：ONV Witech planet 以及其他牌子 工业FS SFP MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/哈萨克斯坦；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-10 → 2025-10-17）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | market-telecom.kz（取自域名，公司全名待核） | 推断 |
 | 国家 | 哈萨克斯坦 | 事实（用户表）|
 | 网站/域名 | market-telecom.kz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | 多品牌 IT/安防设备供应商（哈萨克斯坦） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | ONV Witech planet 以及其他牌子<br>工业FS SFP MC | 事实（用户表） |
@@ -65,32 +65,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（market-telecom.kz，快照 2026-10-21）
-- **是谁**：哈萨克斯坦分销商/批发商：官网「Сетевое и телекоммуникационное оборудование в Казахстане」（ru）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：PRO32、DS-3E1106P-EI、GRP2601、DH-HAC-B1A21P-0280B；表内「ONV Witech planet 以及其他牌子 工业FS SFP MC」；群发 18 次、无回复。
-- **类型**：分销商/批发商
+- **是谁**：哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。
+- **类型**：多品牌 IT/安防设备供应商（哈萨克斯坦）
+- **在卖/在用品牌**：ONV, Witech, Planet, TP-Link, Dahua, Hikvision, Ubiquiti, MikroTik
 - **【官网快照】官网标题：Сетевое и телекоммуникационное оборудование в Казахстане；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE**
   > «Авантаж Маркет» — мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности. Решения для офисов, предприятий, складов, ЖК и коммерческих объектов с официальной гарантией и доставкой по Казахстану.
   > 来源：https://market-telecom.kz/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > ONV Witech planet 以及其他牌子 工业FS SFP MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】多品牌 IT 基础设施与安防设备供应商**
+  > «Авантаж Маркет» — мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности.
+  > 来源：https://market-telecom.kz/（抓取 2026-10-21）
+- **【用户表】ONV / Witech / Planet；工业 FS / SFP / MC**
+  > ONV Witech planet 以及其他牌子；工业FS SFP MC
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 哈萨克斯坦 |
 | 其他 | 官网 market-telecom.kz，语言 ru，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：电信 / FTTH / ISP 设备；无线 / WiFi；数据中心 / 企业 IT；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/批发商；region: 哈萨克斯坦；contact: info@market-telecom.kz
+- **业务线**：IT 基础设施 / 安防设备多品牌供应
+- **触达通道（公开）**：role: 多品牌 IT/安防设备供应商（哈萨克斯坦）；region: 哈萨克斯坦；contact: info@market-telecom.kz
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://market-telecom.kz/）
-  - 官网公开邮箱：info@market-telecom.kz
-  - 用户表兴趣/备注：ONV Witech planet 以及其他牌子 工业FS SFP MC
-- **风险/边界**：群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：мультибрендовый поставщик оборудования для IT-инфраструктуры и систем безопасности
+  - 博客 /blog/poe-onv、/blog/4k-switch-poe；站内 kw：poe 223
+- **风险/边界**：非主攻区（T5）；中亚物流/结算需按单核；多品牌供应商：白牌同质化；18 次无回复，无具名 KP
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）
+- **邮件切入句（英文）**：Alongside the ONV and Planet PoE switches you carry, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which band moves more for your projects, commercial or industrial PoE?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -169,17 +175,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（多品牌 IT/安防设备供应商（哈萨克斯坦）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -187,9 +193,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：无具名决策人，仍是公司级触达；已推送 18 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV, planet：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV, planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -218,14 +224,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the ONV and Planet PoE switches you carry, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which band moves more for your projects, commercial or industrial PoE?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

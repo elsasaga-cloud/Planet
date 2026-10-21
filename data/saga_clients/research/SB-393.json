@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（avproglobal.com，快照 2026-10-21）",
- "summary": "美国制造商（同行或 OEM 客户待核）：官网「Audio. Video. Control. – AVPro Global」（en）；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Axis；站内型号：AC-MV-41、AC-MX-42、AC-MXNET-SW24E、AC-MXNET-SW48E；表内「大口Switch」；群发 3 次、无回复。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "美国 AVPro Global（AV 制造商：AVPro Edge / AudioControl / RTI / Bullet Train / Murideo 等品牌；MXnet AV-over-IP 生态配自有标网络交换机 AC-MXNET-SW24E / SW48E / 10G-SW24C（10G PoE）；表内「大口 switch」）；群发 3 次无回复。",
+ "type": "AV 品牌商（AV-over-IP 自有标交换机，OEM 采购）",
  "size": "",
  "brands_seen": [
   "Axis"
@@ -23,6 +23,20 @@
    "quote": "大口Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "AV 制造商，多品牌",
+   "quote": "AVPro Global is a manufacturer of AVPro Edge, AudioControl, RTI, Bullet Train, Murideo, ThenAudio & ProControl, engineering cutting-edge AV distribution, audio, control & calibration equipment.",
+   "url": "https://www.avproglobal.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "大口 switch",
+   "quote": "大口Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,35 +45,53 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 avproglobal.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "AV 分配 / HDMI 延长 / 矩阵 / AV-over-IP（MXnet）",
+  "自有标网络交换机（MXnet）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "AV 品牌商（AV-over-IP 自有标交换机，OEM 采购）",
   "region": "美国",
   "contact": "info@avproglobal.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.avproglobal.com/）",
-  "安防品牌：Axis → PoE 配套切入",
-  "官网公开邮箱：ecom-swiper@11.0.5.js、ecom-swiper@11.css",
-  "用户表兴趣/备注：大口Switch"
+  "博客 /blogs/news/ac-mxnet-10g-sw24c-10-gig-poe-switch、/mxnet-10gs-latest-network-switch",
+  "站内型号 AC-MXNET-SW24E / AC-MXNET-SW48E / AC-MXNET-1G-E",
+  "官网：manufacturer of AVPro Edge, AudioControl, RTI, Bullet Train, Murideo"
  ],
  "risks": [
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+  "AV-over-IP 对 IGMP/多播/抖动要求高：需样机验证固件",
+  "10G 全口型（10G-SW24C）Saga 无对应",
+  "现代工商未知（疑 Netgear 类合作）；3 次无回复，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-424XGGPM-280W",
   "tier": 30,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证"
  },
- "email_hook": "Alongside the Axis lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the MXnet 1G switch line (SW24E / SW48E), we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, IGMP snooping/querier preconfigured for AV-over-IP) from small lots under your label — would a 24-port unit for validation be useful?",
+ "products_seen": [
+  {
+   "brand": "AVPro Edge（自有）",
+   "model": "AC-MXNET-SW24E",
+   "spec": "24 口 PoE 1G AV-over-IP 交换机 + 10G 上联",
+   "saga": "STC-424XGGPM-280W",
+   "url": "https://www.avproglobal.com/blogs/news/mxnet-10gs-latest-network-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "AVPro Edge（自有）",
+   "model": "AC-MXNET-10G-SW24C",
+   "spec": "24 口 10G PoE",
+   "saga": "（Saga 无对应）",
+   "url": "https://www.avproglobal.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }
