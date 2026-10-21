@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（enetusa.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「ENETUSA」（en）；品类词：数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：OSFP224、QSFP28、LC2-OM4-50M-ENC、LC2-OM4-30M-ENC；表内「MC cabling 自己的logo」；群发 10 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 ENETUSA（OEM 兼容光模块、DAC、AOC（至 1.6T OSFP）、光纤线缆组件，面向 AI/HPC 与超大规模；表内「MC cabling 自己的 logo」「可以尝试多跟进一下」；KP Jason Barrette（CEO）、Gordon Judson（Product Manager）、Aaron S（Purchasing Manager））；群发 10 次无回复。",
+ "type": "光模块/线缆品牌商（美国，MC 为副线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,76 @@
    "quote": "MC cabling 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ENETUSA 首页",
+   "quote": "ENETUSA ; OEM Compatible Transceivers, DACs, and AOCs ; POWERING THE FUTURE OF CONNECTIVITY ; Powering AI/HPC and Hyperscale Technology",
+   "url": "https://enetusa.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC cabling 自己的 logo",
+   "quote": "MC cabling 自己的logo；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Gordon Judson",
+   "title": "Product Manager",
+   "email": "sales@enetusa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jason Barrette",
+   "title": "CEO",
+   "email": "jason@enetusa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Aaron S",
+   "title": "Purchasing Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 enetusa.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "OEM 兼容光模块 / DAC / AOC / 线缆（自有品牌 ENET）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光模块/线缆品牌商（美国，MC 为副线）",
   "region": "美国",
   "contact": "sales@enetusa.com、jason@enetusa.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://enetusa.com/）",
-  "官网公开邮箱：sales@enetusa.com、support@enetusa.com",
-  "用户表兴趣/备注：MC cabling 自己的logo"
+  "首页 OEM Compatible Transceivers, DACs, and AOCs ; Powering AI/HPC and Hyperscale Technology ; 1.6T DR8 OSFP224 Transceivers；kw cable 55 / fiber 18 / oem 7",
+  "表内：MC cabling 自己的 logo；可以尝试多跟进一下；KP Jason Barrette / CEO；Gordon Judson / Product Manager；Aaron S / Purchasing Manager"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主业光模块/线缆（Saga 不供）：MC 为副线，契合度低",
+  "10 次无回复 → 改向 Product Manager / Purchasing Manager 具名首触"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）"
  },
- "email_hook": "Jason, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links?"
 }

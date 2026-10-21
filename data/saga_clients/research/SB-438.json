@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（pavotek.com.tr，快照 2026-10-21）",
- "summary": "土耳其品牌商/贴牌需求（OEM/ODM）：官网「Pavotek」（en）；品类词：数据中心 / 企业 IT / 网络交换 / PoE；表内「工业物联网 工业FS 自己的标 看着比较专业」；群发 2 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "土耳其 Pavotek（电子与嵌入式系统、通信与网络技术、电力电子、IoT 方案；表内「工业物联网 工业 FS 自己的标，看着比较专业」；KP Serkan Ertürk（Project Manager）、hilal.kirlioglu@）；表内 2 次跟进无回复。",
+ "type": "土耳其电子/嵌入式方案商（自有标工业 FS；仅民用口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,69 @@
    "quote": "工业物联网 工业FS 自己的标 看着比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Pavotek 定位",
+   "quote": "Pavotek stands as a frontrunner in electronic and embedded systems, communication and network technologies, power electronics, and IoT solutions",
+   "url": "https://pavotek.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业物联网 工业 FS 自己的标",
+   "quote": "工业物联网 工业FS 自己的标 看着比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Serkan Ertürk",
+   "title": "Project Manager",
+   "email": "info@pavotek.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Hilal Kırlıoğlu",
+   "title": "（职务待核）",
+   "email": "hilal.kirlioglu@pavotek.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 pavotek.com.tr，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "电子 / 嵌入式系统 / 通信网络 / 电力电子 / IoT 方案"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "土耳其电子/嵌入式方案商（自有标工业 FS；仅民用口径）",
   "region": "土耳其",
   "contact": "info@pavotek.com.tr、hilal.kirlioglu@pavotek.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://pavotek.com.tr/）",
-  "官网公开邮箱：info@pavo-group.com",
-  "用户表兴趣/备注：工业物联网 工业FS 自己的标 看着比较专业"
+  "官网：Pavotek stands as a frontrunner in electronic and embedded systems, communication and network technologies, power electronics, and IoT solutions；首页 WHERE IDEAS AND TECHNOLOGY MEET",
+  "表内：工业物联网 工业 FS 自己的标 看着比较专业；KP Serkan Erturk / Project Manager"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：土耳其电子/嵌入式方案商可能涉国防项目——只供民用工业通用交换机",
+  "自研能力强（嵌入式/通信），白牌仅二供；土耳其汇率敏感；2 次跟进无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有标工业 FS（IIoT）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 Pavotek 标；国防类项目不涉（守界）"
  },
- "email_hook": "Serkan, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Serkan, for the industrial Ethernet switches offered under the Pavotek label in your IIoT solutions, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, redundant power, CE/RoHS) in your housing from small lots — which configuration do your industrial projects use most?"
 }

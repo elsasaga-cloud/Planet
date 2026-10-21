@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（gmtcontrol.com，快照 2026-10-21）",
- "summary": "土耳其品牌商/贴牌需求（OEM/ODM）：官网「GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi」（tr-TR）；品类词：网络交换 / PoE；站内型号：GPC8-156、GPC8-215、RS485、GPM-156；表内「工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www」；群发 2 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "土耳其 GMT Endüstriyel Elektronik / GMTCNT（本土 PLC 制造商：操作面板、面板 PC、变频器、伺服、步进、电源、工业通信栏目；表内「工业 FS 只有几个 自己的 logo，其他都是周边产品；Uotek 的工业 FS」（备注 uotek.com/product-73.html）；KP Abdullah Aydın（Project Manager））；表内 2 次跟进无回复。",
+ "type": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Uotek"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,38 +23,63 @@
    "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "GMT 定位",
+   "quote": "GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi ; operatör paneli, panel PC, hız kontrol cihazı, servo sistemler ; /en/industrial-communication/",
+   "url": "https://gmtcontrol.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自有 logo 工业 FS；Uotek 的",
+   "quote": "工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Abdullah Aydın",
+   "title": "Project Manager",
+   "email": "abdullahaydin@gmtcontrol.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 gmtcontrol.com，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "PLC / HMI / 驱动 / 电源（自有品牌 GMTCNT）",
+  "工业通信（自有标交换机，Uotek 代工）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "土耳其 PLC 制造商（自有标工业 FS，现 Uotek）",
   "region": "土耳其",
   "contact": "gmt@gmtcontrol.com、abdullahaydin@gmtcontrol.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://gmtcontrol.com/）",
-  "官网公开邮箱：gmt@gmtcontrol.com",
-  "用户表兴趣/备注：工业FS 只有几个 自己的logo 其他的都是周边产品了；工业FS 只有几个 自己的logo 其他的都是周边产品了 Uotek的工业FS；https://www.uotek.com/product-73.html"
+  "官网：GMT, yerli PLC üreticisi olarak operatör paneli, panel PC, hız kontrol cihazı, servo sistemler, step motorlar ve güç kaynaklarını güvenle sunmaktadır；页面 /en/industrial-communication/；WIN EURASIA 2026",
+  "表内：工业 FS 只有几个 自己的 logo 其他的都是周边产品了；Uotek 的工业 FS（https://www.uotek.com/product-73.html）；KP Abdullah Aydin / Project Manager"
  ],
- "risks": [],
+ "risks": [
+  "现供 Uotek（深圳）价格基准低；交换机仅为 PLC 周边（量取决于面板配套率）；土耳其汇率敏感",
+  "2 次跟进无回复 → 改向 Project Manager 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）"
  },
- "email_hook": "Abdullah, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Abdullah, for the GMTCNT-branded industrial switches that accompany your PLC and HMI range, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your packaging — which port count do your automation panels use most?"
 }

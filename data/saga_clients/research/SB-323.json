@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nitrotelmanufacturing.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl」（en-US）；品类词：电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：TIA-568、NTFFSM820、NTFFSM840、NTFFSM-840；表内「工业FS MC SFP 自己的logo 周边产品」；群发 20 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Nitrotel Manufacturing（迈阿密网络方案与产品：企业网络、数据中心、基础设施，Cat5e/6/6A 线缆、光纤、MC（NTFFSM 系列）；表内「工业 FS MC SFP 自己的 logo，周边产品」；KP Daniel（RCDD，Senior Technical Director，dmorera@））；群发 20 次无回复。",
+ "type": "布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,44 +21,61 @@
    "quote": "工业FS MC SFP 自己的logo 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Nitrotel 站点",
+   "quote": "Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl ; NTFFSM840 ; /product/category-6a-utp-cable/",
+   "url": "https://www.nitrotelmanufacturing.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC SFP 自己的 logo",
+   "quote": "工业FS MC SFP 自己的logo 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Daniel Morera（RCDD）",
+   "title": "Senior Technical Director",
+   "email": "dmorera@nitrotelmanufacturing.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络布线 / 光纤 / MC（自有品牌 Nitrotel）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）",
   "region": "美国",
   "contact": "sales@nitrotelmanufacturing.com、dmorera@nitrotelmanufacturing.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.nitrotelmanufacturing.com/）",
-  "官网公开邮箱：sales@nitrotelmanufacturing.com",
-  "用户表兴趣/备注：工业FS MC SFP 自己的logo 周边产品"
+  "官网：Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl；首页 Enterprise Networks ; Data Center Solutions ; Infrastructure Solutions；站内 NTFFSM820 / NTFFSM840；kw media converter 14 / cable 80 / data center 29",
+  "表内：工业 FS MC SFP 自己的 logo 周边产品；KP Daniel Rcdd / Senior Technical Director"
  ],
  "risks": [
-  "群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主业布线/数据中心基础设施（Saga 不做），有源为周边；20 次无回复 → 改向 Senior Technical Director 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 logo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；MC 位 STI-110GE（$24.3）对位 NTFFSM 系列；SFP Saga 不供"
  },
- "email_hook": "Daniel, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Daniel, for the industrial switches and media converters carried under the Nitrotel label alongside your cabling lines, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs in your packaging from small lots, FCC/CE/RoHS — which model do your Latin-American integrators order most?"
 }

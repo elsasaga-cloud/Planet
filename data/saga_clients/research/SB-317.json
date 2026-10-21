@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（kyolis.com，快照 2026-10-21）",
- "summary": "法国品牌商/贴牌需求（OEM/ODM）：官网「Fabricant de Solutions sur Fibres Optiques - Kyolis」（fr-FR）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；产品页：switches-ethernet-industriels、switchs-ethernet-industriels、switches-ethernet-industriels-administra、switchs-ethernet-administrables-rackable；表内「工业MC 工业FS SFP EOC 自己的logo」；群发 18 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "法国 Kyolis（法国设计制造光纤/同轴数据转换器系统（图像/声音/数据传输）、工业以太网交换机、可管理机架交换机；表内「工业 MC 工业 FS SFP EoC 自己的 logo」；KP Thomas Eleaume（CEO）、Stephane Manuse（Directeur Technique））；群发 18 次无回复。",
+ "type": "法国光纤传输制造商（自有 Kyolis 标，交换机二供口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,70 @@
    "quote": "工业MC 工业FS SFP EOC 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Kyolis 定位",
+   "quote": "Fabricant de Solutions sur Fibres Optiques - Kyolis ; Kyolis conçoit et fabrique en France un système de convertisseurs de données … sur fibre optique et câbles coaxiaux ; /switches-ethernet-industriels-administrables/",
+   "url": "https://kyolis.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 MC 工业 FS SFP EoC 自己的 logo",
+   "quote": "工业MC 工业FS SFP EOC 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Stephane Manuse",
+   "title": "Directeur Technique",
+   "email": "stephane.manuse@kyolis.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Thomas Eleaume",
+   "title": "CEO",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "法国",
   "other": "官网 kyolis.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤/同轴数据转换器（自有品牌 Kyolis）",
+  "工业与可管理以太网交换机"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "法国光纤传输制造商（自有 Kyolis 标，交换机二供口径）",
   "region": "法国",
   "contact": "sales@kyolis.com、stephane.manuse@kyolis.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://kyolis.com/）",
-  "用户表兴趣/备注：工业MC 工业FS SFP EOC 自己的logo"
+  "页面 /switches-ethernet-industriels/、/switches-ethernet-industriels-administrables/、/produit/switchs-ethernet-administrables-rackables/",
+  "官网：Kyolis conçoit et fabrique en France un système de convertisseurs de données pour transmettre images, sons et informations sur fibre optique et câbles coaxiaux；KP Thomas Eleaume / CEO；Stephane Manuse / Directeur Technique"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "「fabrication française」定位：外购白牌需二供/隐性采购口径；EoC/SFP 需求 Saga 不供",
+  "18 次无回复 → 改向 Directeur Technique 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 Kyolis 标工业 FS（栏目工业/可管理/机架）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；机架管理位 STC-424DGGPM-280W；工业 MC STI-110GE；EoC/SFP Saga 不供"
  },
- "email_hook": "Stephane, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Stephane, for the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most?"
 }

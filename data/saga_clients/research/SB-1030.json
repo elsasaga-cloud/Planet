@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（lanpro.com，快照 2026-10-21）",
- "summary": "美国系统集成/工程商：官网「LanPro - Connect-and-Forget」；品类词：数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ubiquiti；产品页：products.asp、index.asp、index.asp、index.asp；表内「PoE配件 switch MC SFP等」；群发 10 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "LanPro（「Connect-and-Forget」：面向网络/电信集成商的组件供应商——铜缆系统、光纤、金属组件、无线、有源设备，定制制造；表内「PoE 配件 switch MC SFP 等」「可以尝试多跟进一下」；KP Trinidad Ledezma（Analista en Marketing Online）；联系邮箱为 gmail）；群发 10 次无回复。",
+ "type": "网络组件品牌商（美国/拉美，自有品牌 LanPro）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,44 +23,62 @@
    "quote": "PoE配件 switch MC SFP等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "LanPro 定位",
+   "quote": "LanPro - Connect-and-Forget ; LanPro® is a leading provider of components for the network and telecom integrator, covering all sectors of the industry, as copper systems, fiber optics, metallic assemblies, wireless systems",
+   "url": "https://www.lanpro.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 配件 switch MC SFP",
+   "quote": "PoE配件 switch MC SFP等；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Trinidad Ledezma",
+   "title": "Analista en Marketing Online",
+   "email": "asktolanpro@gmail.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 lanpro.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络组件（铜缆 / 光纤 / 无线 / 有源，自有品牌 LanPro）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "网络组件品牌商（美国/拉美，自有品牌 LanPro）",
   "region": "美国",
   "contact": "asktolanpro@gmail.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.lanpro.com/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：asktolanpro@gmail.com、sales@lanpro.com",
-  "用户表兴趣/备注：PoE配件 switch MC SFP等"
+  "官网：LanPro® is a leading provider of components for the network and telecom integrator, covering all sectors of the industry, as copper systems, fiber optics, metallic assemblies, wireless systems and act…；页面 /products/active/index.asp；首页 Custom Manufacturing",
+  "表内：PoE 配件 switch MC SFP 等；可以尝试多跟进一下；KP Trinidad Ledezma / Analista en Marketing Online"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "联系邮箱为 gmail（asktolanpro@gmail.com），非官方域名，真实性待核；KP 为市场分析岗位",
+  "10 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）"
  },
- "email_hook": "Trinidad, alongside the Ubiquiti lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?"
 }

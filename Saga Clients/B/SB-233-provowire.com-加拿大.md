@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-233`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 1 次（2025-10-18 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：线缆/安防分销商（加拿大，PLANET/BDCOM 在售）（推断）　|　**历史关系**：推送 1 次（2025-10-18 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-233
@@ -12,15 +12,15 @@ score: 48
 country: 加拿大
 region: 北美
 website: provowire.com
-type: 安防集成/经销
+type: 线缆/安防分销商（加拿大，PLANET/BDCOM 在售）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
 followups: 1
 first_contact: 2025-10-18
 last_contact: 2025-10-18
-p1: STC-448XGGM(L3)
-price_tier: 25%
+p1: STC-424DGGPM-280W
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大安防集成/经销：官网「Provo Ltd. | Leading Supplier of Electronic Wire, Cable & Accessories in North America」（en-CA）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：PLANET；站内型号：AC-90、TR-64；表内「大口FS；大口FS BDCOM」；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：大口FS；大口FS BDCOM）
+- **是谁**：加拿大 Provo Ltd.（1958 年起北美电子线缆、CCTV、音视频与配件供应商，服务安防/自动化/对讲/电信行业；合作品牌含 PLANET；表内「大口 FS；BDCOM」；KP Elliot Greenberg（VP of Operations）、Sy Greenberg（Procurement and Operations））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：大口FS；大口FS BDCOM）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-18 → 2025-10-18）
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — 深挖对位：L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | provowire.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | provowire.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 线缆/安防分销商（加拿大，PLANET/BDCOM 在售） | 推断（据兴趣/备注关键词） |
 | 联系人 | BDCOM / Elliot Greenberg / Vice President of Operations / Sy Greenberg / Procurement and Operations | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 大口FS / 大口FS<br>BDCOM | 事实（用户表） |
@@ -65,32 +65,40 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（provowire.com，快照 2026-10-21）
-- **是谁**：加拿大安防集成/经销：官网「Provo Ltd. | Leading Supplier of Electronic Wire, Cable & Accessories in North America」（en-CA）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：PLANET；站内型号：AC-90、TR-64；表内「大口FS；大口FS BDCOM」；群发 1 次、无回复。
-- **类型**：安防集成/经销
-- **在卖/在用品牌**：PLANET
+- **是谁**：加拿大 Provo Ltd.（1958 年起北美电子线缆、CCTV、音视频与配件供应商，服务安防/自动化/对讲/电信行业；合作品牌含 PLANET；表内「大口 FS；BDCOM」；KP Elliot Greenberg（VP of Operations）、Sy Greenberg（Procurement and Operations））；表内 1 次跟进无回复。
+- **类型**：线缆/安防分销商（加拿大，PLANET/BDCOM 在售）
+- **在卖/在用品牌**：PLANET, BDCOM
 - **【官网快照】官网标题：Provo Ltd. | Leading Supplier of Electronic Wire, Cable & Accessories in North America；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Discover Provo Ltd., a trusted supplier of electronic wire, cable, CCTV, audio/video, and accessories since 1958. Serving security, automation, intercom, and telecom industries across Canada.
   > 来源：https://www.provowire.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 大口FS；大口FS BDCOM
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Provo 定位**
+  > Provo Ltd. | Leading Supplier of Electronic Wire, Cable & Accessories in North America ; a trusted supplier of electronic wire, cable, CCTV, audio/video, and accessories since 1958
+  > 来源：https://www.provowire.com/（抓取 2026-10-21）
+- **【用户表】大口 FS；BDCOM**
+  > 大口FS / 大口FS BDCOM
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Elliot Greenberg（）elliot@provowire.com 〔用户表〕
+- **KP**：Sy Greenberg（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 provowire.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 加拿大；contact: sales@provowire.com、elliot@provowire.com
+- **业务线**：电子线缆 / CCTV / AV 配件分销（加拿大）
+- **触达通道（公开）**：role: 线缆/安防分销商（加拿大，PLANET/BDCOM 在售）；region: 加拿大；contact: sales@provowire.com、elliot@provowire.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.provowire.com/）
-  - 在售同口型交换品牌：PLANET → 直接对位替换
-  - 用户表兴趣/备注：大口FS；大口FS BDCOM
-- **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Elliot, alongside the PLANET lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+  - 官网：Discover Provo Ltd., a trusted supplier of electronic wire, cable, CCTV, audio/video, and accessories since 1958. Serving security, automation, intercom, and telecom industries across Canada；站内品牌 PLANET；kw cable 36 / camera 16
+  - 表内：大口 FS；BDCOM；KP Elliot Greenberg / Vice President of Operations；Sy Greenberg / Procurement and Operations
+- **风险/边界**：PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低；1 次跟进无回复 → 改向 VP Operations 具名首触
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）
+- **邮件切入句（英文）**：Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -135,8 +143,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Elliot Greenberg | — | elliot@provowire.com | 调研核实（公开页） | 用户表 |
+| Sy Greenberg | — | — | 调研核实（公开页） | 用户表 |
 | BDCOM | — | sales@provowire.com / elliot@provowire.com | 用户表原值 | Clients/ 表 |
-| Elliot Greenberg | — | sales@provowire.com / elliot@provowire.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -153,20 +162,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | 深挖对位：L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（线缆/安防分销商（加拿大，PLANET/BDCOM 在售）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448XGGM(L3)），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448XGGM(L3) 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -174,7 +183,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-448XGGM(L3) 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 BDCOM：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 BDCOM：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -202,14 +211,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Elliot,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Elliot, alongside the PLANET lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?
 
-We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the BDCOM class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the BDCOM class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

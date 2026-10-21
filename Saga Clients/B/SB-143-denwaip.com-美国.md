@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-143`　|　优先级 ★★　|　状态：已推送 11 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 11 次（2025-02-19 → 2025-11-06）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IP 通信品牌商（美国/拉美，自有标 PoE）（推断）　|　**历史关系**：推送 11 次（2025-02-19 → 2025-11-06）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-143
@@ -12,7 +12,7 @@ score: 50
 country: 美国
 region: 北美
 website: denwaip.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: IP 通信品牌商（美国/拉美，自有标 PoE）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「DENWA / Switching your life」（en）；表内「商业PoE 自己的logo」；群发 11 次、无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo）
+- **是谁**：DENWA（「Switching your life」IP 通信品牌（美国/拉美）；表内「商业 PoE 自己的 logo」「可以尝试多跟进一下」；KP Juan Jose Michel（Product Manager））；群发 11 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2025-02-19 → 2025-11-06）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | denwaip.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | denwaip.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | IP 通信品牌商（美国/拉美，自有标 PoE） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Juan Jose Michel Product Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE 自己的logo | 事实（用户表） |
@@ -65,31 +65,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（denwaip.com，快照 2026-10-21）
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「DENWA / Switching your life」（en）；表内「商业PoE 自己的logo」；群发 11 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：DENWA（「Switching your life」IP 通信品牌（美国/拉美）；表内「商业 PoE 自己的 logo」「可以尝试多跟进一下」；KP Juan Jose Michel（Product Manager））；群发 11 次无回复。
+- **类型**：IP 通信品牌商（美国/拉美，自有标 PoE）
 - **【官网快照】官网标题：DENWA / Switching your life**
   > Hello；Hola
   > 来源：https://denwaip.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业PoE 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】DENWA 站点**
+  > DENWA / Switching your life ; Hello ; Hola
+  > 来源：https://denwaip.com/（抓取 2026-10-21）
+- **【用户表】商业 PoE 自己的 logo**
+  > 商业PoE 自己的logo；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Juan Jose Michel（）juanjomichel@denwaip.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 denwaip.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 美国；contact: sales@denwaip.com、juanjomichel@denwaip.com
+- **业务线**：IP 通信 / UC（自有品牌 DENWA）；配套 PoE 交换机
+- **触达通道（公开）**：role: IP 通信品牌商（美国/拉美，自有标 PoE）；region: 美国；contact: sales@denwaip.com、juanjomichel@denwaip.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://denwaip.com/）
-  - 用户表兴趣/备注：商业PoE 自己的logo
-- **风险/边界**：群发 11 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Juan, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网标题 DENWA / Switching your life；快照首页仅 Hello ; Hola
+  - 表内：商业 PoE 自己的 logo；可以尝试多跟进一下；KP Juan Jose Michel / Product Manager
+- **风险/边界**：官网快照内容少（仅 Hello / Hola），产品线待核；11 次无回复 → 改向 Product Manager 具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）
+- **邮件切入句（英文）**：Juan Jose, for the DENWA-branded PoE switches that ship with your IP phone and UC deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, FCC/CE/RoHS — which size do your Latin-American partners order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -134,7 +141,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Juan Jose Michel Product Manager | — | sales@denwaip.com / juanjomichel@denwaip.com | 用户表原值 | Clients/ 表 |
+| Juan Jose Michel | — | juanjomichel@denwaip.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 11 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -151,7 +158,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（IP 通信品牌商（美国/拉美，自有标 PoE）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -204,7 +211,7 @@ updated: 2026-10-21
 ```text
 Hi Juan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Juan, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Juan Jose, for the DENWA-branded PoE switches that ship with your IP phone and UC deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, FCC/CE/RoHS — which size do your Latin-American partners order most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
