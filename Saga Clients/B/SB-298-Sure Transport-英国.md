@@ -1,4 +1,5 @@
 # Sure Transport
+**官方名称（调研核实）**：SURE24 Ltd / SURE Transport（SURE Solutions），Bingham/Nottingham, UK；sure24.co.uk / suretransport.co.uk
 
 > **评级 B**　|　英国　|　档案编号 `SB-298`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-298
 rating: B
 rating_auto: B
+name_official: "SURE24 Ltd / SURE Transport（SURE Solutions），Bingham/Nottingham, UK；sure24.co.uk / suretransport.co.uk"
 score: 44
 country: 英国
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 18
 first_contact: 2024-05-09
 last_contact: 2025-10-24
-p1: STI-21616GP
-price_tier: 20%
-research: pending
+p1: STI-050GE
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的经销/集成（类型待核）；兴趣/在卖：需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公司信息
+- **是谁**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。（调研 2026-10-21；表内兴趣：需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公司信息）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-21616GP — 工业 16 PoE + 2 SFP；$170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书；$18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,49 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-298.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。
+- **在卖/在用品牌**：SURE / SUREMDVR（自有品牌）, Timespace
+- **【官网】车载 CCTV 定位与客户**
+  > SURE transport is known in the industry for supplying CCTV equipment to Tier 1 and 2 bus operators across the UK. With sister company SURE24 having been a CCTV brand for over a decade
+  > 来源：https://suretransport.co.uk/（抓取 2026-10-21）
+- **【官网】自有品牌 MDVR 规格**
+  > MDVR4S - Digital Video Recorder £456.00 £380.00 - E-Marked E11 - 720p HD Resolution - With 4G Data - 4 Video Channels … DC8-36V 5% ≤10W
+  > 来源：https://www.sure24.co.uk/sure24-brands-we-work-with/cctv-security-brands/sure-transport（抓取 2026-10-21）
+- **【官网 PDF】Go-Ahead 合同**
+  > SURE24, the Nottingham-based tech company inked a deal with Go-Ahead, one of the UK's leading public transport providers, to provide on-board CCTV support services for all 5,000 of its UK buses.
+  > 来源：https://www.sure24.co.uk/misc/CBW%20INSERT%20GO-AHEAD.pdf（抓取 2026-10-21）
+- **【LinkedIn】规模**
+  > SURE24 Ltd … Company size: 11-50 employees Headquarters: Bingham, Nottinghamshire … Founded: 1992 Specialties: CCTV, Security, … Transport, and Police
+  > 来源：https://uk.linkedin.com/company/sure24-ltd（抓取 2026-10-21）
+- **【用户表】需求 5/8 口、偶尔 PoE；看了 E-mark 证书；18 次跟进 0 回复**
+  > 需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | SURE24 Ltd（姐妹 SURE Transport / SURE Solutions） |
+| 成立 | 1992（SURE24）/ 1990（SURE Solutions 口径） |
+| 总部/地址 | Bingham, Nottinghamshire, UK（+44 1949 836990；sales@sure24.co.uk） |
+| 其他 | Go-Ahead 5,000 辆巴士合同；SUREMDVR 自有品牌（E-mark）；产线前装 + 后装；车队追踪云 |
+
+- **业务线**：巴士/长途车/货车/警用车载 CCTV 与 MDVR（自有品牌 SUREMDVR）；车队追踪与 CCTV 健康云；安装与维护网络（全国汽车电工）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| SURE | MDVR4S（4G） | 4 路 AHD 720p，E-Marked E11，DC 8–36 V，≤10 W，£380 | 车内 IP 化时配 STI-054GP（4 PoE + 1 上联，DC 44–57 V） | https://www.sure24.co.uk/sure24-brands-we-work-with/cctv-security-brands/sure-transport（2026-10-21） |
+| Timespace | DVR-V400-16 | 16 路，1 IP 通道，E-Marked，£1,830 | STI-050GE（5 GE 非管理） | https://www.sure24.co.uk/solutions/transport-by-vehicle/bus-and-coach-cctv（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.sure24.co.uk/ · https://suretransport.co.uk/；电话: +44 1949 836990（公开）；邮箱（公开）: sales@sure24.co.uk
+- **近况信号**：
+  - 车载 IP 摄像转型需 5/8 口 DC 宽压交换机（DC 8–36 V 车电 → 需 12–58 V DC 输入 + E-mark）；自有品牌 → 可贴 SURE 标
+  - 18 次跟进说明重视；对方曾看 E-mark 证书 → 下一步直接给 E-mark 报告与振动/温度数据
+- **风险/边界**：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复
+- **Saga 对位结论**：P1 STI-050GE（30% 档）——OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书
+- **邮件切入句（英文）**：Callum, for the bus kits: the 5-port gigabit DIN switch (12–58 V DC, −40 to +75 °C, E-mark report available) is $26.0 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -124,20 +168,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-21616GP | 工业 16 PoE + 2 SFP | $170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-050GE | 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，−40~+75 ℃，$26.0）/ STI-080GE（8 口，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（$33.8）；需随附 E-mark 证书 | $18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-21616GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-050GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-21616GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-050GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -145,7 +189,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 18 次无回复，邮件通道疲劳
-- **O**：P1 STI-21616GP 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-050GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -169,30 +213,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Callum,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Callum, for the bus kits: the 5-port gigabit DIN switch (12–58 V DC, −40 to +75 °C, E-mark report available) is $26.0 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $170.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

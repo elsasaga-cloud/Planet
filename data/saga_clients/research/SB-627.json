@@ -1,0 +1,76 @@
+{
+ "code": "SB-627",
+ "name_official": "ELKOV elektro a.s.（Brno, CZ；elkov.cz；电气材料与灯具批发，32 家分店）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "捷克最大电气安装材料与灯具批发商之一（总部 Brno Kšírova 701；约 700 名员工、集团年营业额约 55 亿 CZK；32–33 家分店；1,500+ 供应商、20,000+ 客户；业务含工具租赁、光伏、充电桩、智慧城市系统；股东 MV elektro）。展会记录：联系人懂交换机、详细介绍 2 光 10 电后只说 OK，拍了 WDM 照片、拿了目录；邮箱 vladimir.novak@elkov.cz + nabidky.brno（报价部）；WhatsApp 加不上；16 次跟进 0 回复。规模远超 Saga 常规目标（临界），作「慢跟」B 保留——以自有品牌/白牌安装类 SKU 切入。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "规模与网络",
+   "quote": "Specializovaný velkoobchod elektromateriálem a svítidly se sítí dvacetidevíti prodejních skladů na území České republiky. S konsolidovaným ročním obratem přesahujícím 4 miliardy korun a téměř 500 pracovníky",
+   "url": "https://www.schmachtl.cz/partneri/elkov-elektro",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "百科",
+   "claim": "员工与营业额（2025）",
+   "quote": "Zaměstnanci: 700 (2025) Majitel: MV elektro (100 %) … Zaměstnává téměř 700 zaměstnanců a má konsolidovaný obrat 5,5 miliardy korun.",
+   "url": "https://cs.m.wikipedia.org/wiki/ELKOV_elektro",
+   "date": "2024-06-13"
+  },
+  {
+   "kind": "官网招聘",
+   "claim": "分店数",
+   "quote": "Skupina má aktuálně téměř 700 zaměstnanců a působí na více než 33 pobočkách v ČR.",
+   "url": "https://www.elkov.cz/kariera/prodejce-elektromaterialu-praha-4",
+   "date": "2026-01-29"
+  },
+  {
+   "kind": "用户表",
+   "claim": "展会互动；16 次跟进 0 回复；WhatsApp 加不上",
+   "quote": "对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "ELKOV elektro a.s.",
+  "hq": "Kšírova 701, Brno-Horní Heršpice, Czechia",
+  "size": "约 700 人；集团营业额 ≈ 55 亿 CZK（2024/25）",
+  "other": "32+ 分店；部门 ELKOV lighting / servis / energy；光伏、EV 充电、智慧城市"
+ },
+ "business_lines": [
+  "电气安装材料与灯具批发（电缆、配电、保护器件、仪表）",
+  "光伏/充电桩/智慧城市项目",
+  "工具租赁与服务"
+ ],
+ "channels": {
+  "网站": "https://www.elkov.cz/",
+  "分店联系": "各分店公开电话/邮箱（如 liberec@elkov.cz）"
+ },
+ "signals": [
+  "电气批发渠道正在吸纳弱电/网络品类（智慧城市、光伏监控）→ DIN 导轨工业交换机与 PoE 可作白牌 SKU",
+  "报价部邮箱（nabidky.brno）为公开采购入口"
+ ],
+ "risks": [
+  "规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜"
+ },
+ "email_hook": "For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?"
+}

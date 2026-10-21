@@ -1,0 +1,87 @@
+{
+ "code": "SB-135",
+ "name_official": "EL.SI. S.r.l.（Elsi，Crotone, IT；elsikr.it；P.IVA 01536710799）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Uniview",
+  "ZKTeco"
+ ],
+ "evidence": [
+  {
+   "kind": "Facebook",
+   "claim": "业务与联系方式",
+   "quote": "Elsi srl, Crotone. Da oltre trent'anni distributori di Impianti di Allarme, Videosorveglianza, Automazione, Videocitofonia e Domotica … Via Enzo Ferrari Loc. Zigari, Crotone, Italy +39 0962 930786 customercare@elsikr.it",
+   "url": "https://www.facebook.com/elsisrl.crotone/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "法人与联系",
+   "quote": "EL.SI. S.r.l. Indirizzo: Via E. Ferrari c/o Zona Industriale 88900 Crotone (KR) - ITALY Tel: +39 0962.930786 … E-mail: info@elsikr.it … P.Iva: 01536710799",
+   "url": "http://www.elsikr.it/contatti.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "厂商新闻",
+   "claim": "覆盖区域与 ZKTeco 合作",
+   "quote": "EL.SI SRL è una società di sicurezza leader in Italia, con sede in Calabria, Basilicata e Puglia, specializzata nella distribuzione di prodotti e servizi … ZKTeco Europe annuncia la Partnership di Distribuzione con EL.SI SRL",
+   "url": "https://zkteco.eu/it/news-ed-eventi/notizie/zkteco-europe-annuncia-la-partnership-di-distribuzione-con-elsi-srl",
+   "date": "2021-04-23"
+  },
+  {
+   "kind": "名录",
+   "claim": "人数与成立年",
+   "quote": "Elsi Srl - Sicurezza … Employees 22 … Founded 1985",
+   "url": "https://rocketreach.co/elsi-srl-sicurezza-comfort-profile_b7f3fe2bc25dbb3d",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "用 Uniview；问商业 PoE 价目表；14 次跟进 0 回复",
+   "quote": "主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "EL.SI. S.r.l.（P.IVA 01536710799）",
+  "founded": "1985",
+  "hq": "Via Enzo Ferrari, Zona Industriale, 88900 Crotone (KR), Italy（+39 0962 930786；info@elsikr.it / customercare@elsikr.it）",
+  "size": "22 人（RocketReach）",
+  "other": "南意四区分销；ZKTeco 分销伙伴（2021）；Uniview 摄像头（用户记录）"
+ },
+ "business_lines": [
+  "安防（防盗、视频监控、消防）区域分销",
+  "自动化（门、闸、锁）与智能家居"
+ ],
+ "channels": {
+  "网站": "https://www.elsikr.it/",
+  "电话": "+39 0962 930786（公开）",
+  "邮箱（公开）": "info@elsikr.it",
+  "Facebook": "https://www.facebook.com/elsisrl.crotone/"
+ },
+ "signals": [
+  "区域安防分销商 + Uniview 摄像 → 白牌 PoE 作配套 SKU（20%）；曾索要商业 PoE 价目表"
+ ],
+ "risks": [
+  "意向弱（「没太多意愿」）；14 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）"
+ },
+ "email_hook": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?"
+}

@@ -1,4 +1,5 @@
 # EMOS
+**官方名称（调研核实）**：EMOS spol. s r.o.（Přerov, CZ；emos.cz / emos.eu；自有品牌消费电子，Legrand 集团）
 
 > **评级 B**　|　捷克　|　档案编号 `SB-443`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-443
 rating: B
 rating_auto: B
+name_official: "EMOS spol. s r.o.（Přerov, CZ；emos.cz / emos.eu；自有品牌消费电子，Legrand 集团）"
 score: 40
 country: 捷克
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 15
 first_contact: 2024-06-13
 last_contact: 2025-10-09
-p1: STC-448XGGM(L3)
-price_tier: 20%
-research: pending
+p1: STC-024GP
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：捷克的分销商/经销商；兴趣/在卖：问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片
+- **是谁**：捷克 Přerov 的自有品牌消费电子/电工产品公司（1991 年成立；IČO 19014104；集团约 450 名员工，Přerov 340；2022 年并入 Legrand；姐妹公司在 SK/PL/SI/HU，经分销网络覆盖 26 国；GP Batteries 独家分销；16,000 m² 物流中心）。展会记录：问商业 PoE、要小尺寸、介绍了 4 口机型并问价、不要工业级、拍了展位照片；联系人 valcuha@/vesely@emos.cz；15 次跟进 0 回复。典型 OEM 品牌买家（EMOS 标）。（调研 2026-10-21；表内兴趣：问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-06-13 → 2025-10-09）
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-024GP — 深挖对位：OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）；$18.7 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,39 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-443.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：捷克 Přerov 的自有品牌消费电子/电工产品公司（1991 年成立；IČO 19014104；集团约 450 名员工，Přerov 340；2022 年并入 Legrand；姐妹公司在 SK/PL/SI/HU，经分销网络覆盖 26 国；GP Batteries 独家分销；16,000 m² 物流中心）。展会记录：问商业 PoE、要小尺寸、介绍了 4 口机型并问价、不要工业级、拍了展位照片；联系人 valcuha@/vesely@emos.cz；15 次跟进 0 回复。典型 OEM 品牌买家（EMOS 标）。
+- **在卖/在用品牌**：EMOS（自有品牌）, GP Batteries（独家分销）
+- **【百科】规模、股东、分销范围**
+  > Zaměstnanci: 401 Majitel: Legrand … Společnost vznikla v roce 1991 v Přerově … dodávají prostřednictvím distributorské sítě své výrobky do 26 zemí Evropy. Je výhradním distributorem GP Batteries.
+  > 来源：https://cs.wikipedia.org/wiki/EMOS（抓取 2026-07-18）
+- **【媒体】Legrand 并购与员工数**
+  > Fúze firmy EMOS s koncernem Legrand povolena … Skupina EMOS má 450 zaměstnanců, z toho přímo v Přerově 340.
+  > 来源：https://prerovsky.denik.cz/podnikani/antimonopolni-urad-fuze-emos-legrand/（抓取 2022-02-15）
+- **【行业协会】联系方式**
+  > EMOS spol. s r. o. Lipnická 2844 750 02 Přerov Telefon: +420 581 261 111 E-mail: emos@emos.cz Web: www.emos.eu
+  > 来源：https://www.electroindustry.cz/clenska-zakladna/clenske-organizace/detail/921（抓取 2026-10-21）
+- **【用户表】展会互动；15 次跟进 0 回复**
+  > 问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | EMOS spol. s r.o.（IČO 19014104；Krajský soud v Ostravě C 1167） |
+| 成立 | 1991 |
+| 总部/地址 | Lipnická 2844, 750 02 Přerov, Czechia（+420 581 261 111；emos@emos.cz） |
+| 其他 | Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销 |
+
+- **业务线**：EMOS 品牌消费电子与电工产品（照明、电池、天线、门铃、延长线等）；中东欧多国分销网络
+- **触达通道（公开）**：网站: https://www.emos.cz/；电话: +420 581 261 111（公开）；邮箱（公开）: emos@emos.cz
+- **近况信号**：
+  - 明确要小尺寸商业 PoE 4 口并问价 → EMOS 标白牌 PoE 桌面机进其 26 国渠道；非工业级、价格敏感 → Realtek 线
+- **风险/边界**：Legrand 集团采购合规/供应商准入流程长；15 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-024GP（30% 档）——OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）
+- **邮件切入句（英文）**：For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,20 +150,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | L3 48 口 + 4×10G（Hohunet/CENTEC 线） | $466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-024GP | 深挖对位：OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1） | $18.7 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 30%（分销商/经销商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448XGGM(L3)），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-024GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448XGGM(L3) 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-024GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -137,7 +171,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STC-448XGGM(L3) 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-024GP 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -161,30 +195,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Pavel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?
 
-We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $466.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

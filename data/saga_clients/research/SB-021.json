@@ -1,0 +1,79 @@
+{
+ "code": "SB-021",
+ "name_official": "АВИКАМ ООД / AVICAM Ltd.（Sofia, BG；avicam-bg.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（网店）",
+ "summary": "保加利亚索菲亚的视频监控与安防系统进口商/分销商兼设计安装商（2001 年成立；ул. Братя Миладинови 60；+359 2 832 7084；sales@avicam-bg.com；RaySharp 保加利亚官方代表（2019 起）；自有 AVICAM 品牌线缆等配件；RocketReach 营收口径极小）。展会记录：CCTV 产品、PoE 交换机；WhatsApp 已加；6 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "RaySharp（代理）",
+  "AVICAM（自有品牌配件）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与联系方式",
+   "quote": "АВИКАМ ООД e един от водещите български дистрибутори на системи за видеонаблюдение и контрол. Имаме вече над 15 годишен опит във вноса … +359 2 8327084 … sales@avicam-bg.com Ул. \"Братя Миладинови\" № 60 1202 София",
+   "url": "https://avicam-bg.com/",
+   "date": "2026-07-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "成立年与业务",
+   "quote": "AVICAM е бранд на „АВИКАМ\" ООД, основана през 2001 в град София. Дейността на фирмата е цялостно проектиране и монтаж на системи за видеонаблюдение, внос и търговия.",
+   "url": "https://avicam-bg.com/product-category/brands/avicam-%D0%BC%D0%B0%D1%80%D0%BA%D0%B8/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "RaySharp 代理",
+   "quote": "От месец юли 2019 година фирма Авикам ООД е официален представител на продуктите с марката RaySharp за България.",
+   "url": "https://avicam-bg.com/product-category/kameri-za-videonabliudenie/videonabludenie-raysharp/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV / PoE 交换机；WhatsApp 已加；6 次跟进 0 回复",
+   "quote": "CCTV products PoE switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "АВИКАМ ООД（AVICAM Ltd.）",
+  "founded": "2001",
+  "hq": "ул. „Братя Миладинови\" № 60, 1202 София, България（+359 2 832 7084 / 832 5757；sales@avicam-bg.com）",
+  "size": "小型（营收口径 $200k，RocketReach）",
+  "other": "RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装"
+ },
+ "business_lines": [
+  "视频监控与安防设备进口分销（网店）",
+  "系统设计与安装"
+ ],
+ "channels": {
+  "网店": "https://avicam-bg.com/",
+  "电话": "+359 2 832 7084（公开）",
+  "邮箱（公开）": "sales@avicam-bg.com"
+ },
+ "signals": [
+  "已有 AVICAM 自有品牌配件 → PoE 交换机贴 AVICAM 标可行；RaySharp（中国）代理说明接受中国供应链"
+ ],
+ "risks": [
+  "规模小；保加利亚非主动开拓；6 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）"
+ },
+ "email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?"
+}

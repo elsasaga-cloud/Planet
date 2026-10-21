@@ -1,0 +1,51 @@
+{
+ "code": "SB-979",
+ "name_official": "Garland Technology（USA；garlandtechnology.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "美国网络可视化硬件厂商 Garland Technology（网络 TAP、Bypass、分流器）。展会记录：「高速模块卡！SFP DAC 等，Bypass 也比较多」；联系邮箱 sales@；无跟进。同行型厂商，归 C（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "关注高速模块卡、SFP/DAC、Bypass",
+   "quote": "高速模块卡！ SFP DAC等 Bypass也比较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "行业外/同行：网络 TAP / Bypass / 分流器厂商（Buffalo, NY），关注高速模块卡、SFP/DAC、Bypass——自有硬件产品线，非交换机渠道",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 行业外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Garland Technology, LLC",
+  "hq": "Buffalo, NY, USA",
+  "size": "待核（中型）",
+  "other": "网络 TAP / Bypass / Packet Broker 厂商"
+ },
+ "business_lines": [
+  "网络 TAP、Bypass、分流器硬件"
+ ],
+ "channels": {
+  "网站": "https://www.garlandtechnology.com/"
+ },
+ "signals": [
+  "仅 SFP/DAC 模块有少量采购可能"
+ ],
+ "risks": [
+  "同行/行业外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进（可报 SFP/DAC 模块）"
+ },
+ "email_hook": "（不主动发送）"
+}

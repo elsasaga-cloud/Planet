@@ -1,0 +1,79 @@
+{
+ "code": "SB-057",
+ "name_official": "Kassaba Systems Ltd.（Кассаба Системс ЕООД，Sofia, BG；kassabasystems.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "保加利亚索菲亚的视频监控进口商/分销商兼安装商（2004 年成立；1–10 人；自称保加利亚三大监控元件进口商之一；2012 年起 APEXIS 独家代理；全国 17 城安装团队；在线商店）。展会记录：CEO（年长、英语一般）+ 年轻翻译同来，做 CCTV、懂 VC 系列、问分辨率，介绍了 2V2D2A 等；联系人 K. Kassabow（CEO）/ A. Kasabov（BD）；15 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "APEXIS（独家代理）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与成立年",
+   "quote": "Основана през не толкова близката вече 2004 година,, компанията Kassaba Systems Ltd е специализирана в анализирането, проектирането и изграждането на … системи за видеонаблюдение",
+   "url": "https://www.kassabasystems.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "进口商地位",
+   "quote": "днес, ние сме един от трите водещи вносители на компоненти за видеонаблюдение в България.",
+   "url": "https://www.kassabasystems.com/za-nas",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "地址与联系方式",
+   "quote": "Внос и дистрибуция на системи за видеонаблюдение и системи за сигурност … жк.Разсадника, ул.Коньовица 4, Sofia, Bulgaria +359 2 820 2610 office@kassabasystems.com",
+   "url": "https://www.facebook.com/kassabasystems/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "展会互动；15 次跟进 0 回复",
+   "quote": "2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Кассаба Системс ЕООД（Kassaba Systems Ltd.）",
+  "founded": "2004",
+  "hq": "жк. Разсадника, ул. Коньовица 4, София, България（+359 2 820 2610；office@kassabasystems.com）",
+  "size": "1–10（Crunchbase）",
+  "other": "保加利亚三大监控元件进口商之一（自述）；APEXIS 独家代理（2012）；Facebook 69 评 92% 推荐"
+ },
+ "business_lines": [
+  "视频监控设备进口与分销（网店）",
+  "监控系统设计与安装（17 城团队）"
+ ],
+ "channels": {
+  "网站": "https://www.kassabasystems.com/",
+  "电话": "+359 2 820 2610（公开）",
+  "邮箱（公开）": "office@kassabasystems.com",
+  "Facebook": "https://www.facebook.com/kassabasystems/"
+ },
+ "signals": [
+  "进口商身份 + 对 VC（视频光端机）系列熟悉 → PoE 交换机与光端机打包分销；20% 档"
+ ],
+ "risks": [
+  "语言障碍（CEO 英语一般）；保加利亚非主动开拓市场；15 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机"
+ },
+ "email_hook": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?"
+}

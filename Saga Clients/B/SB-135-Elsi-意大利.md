@@ -1,4 +1,5 @@
 # Elsi
+**官方名称（调研核实）**：EL.SI. S.r.l.（Elsi，Crotone, IT；elsikr.it；P.IVA 01536710799）
 
 > **评级 B**　|　意大利　|　档案编号 `SB-135`　|　优先级 ★★　|　状态：已推送 14 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-135
 rating: B
 rating_auto: B
+name_official: "EL.SI. S.r.l.（Elsi，Crotone, IT；elsikr.it；P.IVA 01536710799）"
 score: 50
 country: 意大利
 region: 欧洲
@@ -21,19 +23,19 @@ first_contact: 2024-06-12
 last_contact: 2025-10-16
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的安防集成/经销；兴趣/在卖：主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的
+- **是谁**：意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。（调研 2026-10-21；表内兴趣：主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-135.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：意大利卡拉布里亚 Crotone 的安防/自动化区域分销商（1985 年起、30+ 年；约 22 人；覆盖 Calabria、Basilicata、Puglia、Sicilia；三条线：Comfort（自动化门、锁、特种设备）、Sicurezza（防盗、视频监控、消防）、能源管理（智能家居）；2021 年起 ZKTeco 分销伙伴）。展会记录：主要用 Uniview 摄像头，问商业 PoE 价目表，介绍了 2 光 10 电，「没太多意愿」；联系人 d.bianco / m.sciumbata；14 次跟进 0 回复。
+- **在卖/在用品牌**：Uniview, ZKTeco
+- **【Facebook】业务与联系方式**
+  > Elsi srl, Crotone. Da oltre trent'anni distributori di Impianti di Allarme, Videosorveglianza, Automazione, Videocitofonia e Domotica … Via Enzo Ferrari Loc. Zigari, Crotone, Italy +39 0962 930786 customercare@elsikr.it
+  > 来源：https://www.facebook.com/elsisrl.crotone/（抓取 2026-10-21）
+- **【官网】法人与联系**
+  > EL.SI. S.r.l. Indirizzo: Via E. Ferrari c/o Zona Industriale 88900 Crotone (KR) - ITALY Tel: +39 0962.930786 … E-mail: info@elsikr.it … P.Iva: 01536710799
+  > 来源：http://www.elsikr.it/contatti.html（抓取 2026-10-21）
+- **【厂商新闻】覆盖区域与 ZKTeco 合作**
+  > EL.SI SRL è una società di sicurezza leader in Italia, con sede in Calabria, Basilicata e Puglia, specializzata nella distribuzione di prodotti e servizi … ZKTeco Europe annuncia la Partnership di Distribuzione con EL.SI SRL
+  > 来源：https://zkteco.eu/it/news-ed-eventi/notizie/zkteco-europe-annuncia-la-partnership-di-distribuzione-con-elsi-srl（抓取 2021-04-23）
+- **【名录】人数与成立年**
+  > Elsi Srl - Sicurezza … Employees 22 … Founded 1985
+  > 来源：https://rocketreach.co/elsi-srl-sicurezza-comfort-profile_b7f3fe2bc25dbb3d（抓取 2026-10-21）
+- **【用户表】用 Uniview；问商业 PoE 价目表；14 次跟进 0 回复**
+  > 主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | EL.SI. S.r.l.（P.IVA 01536710799） |
+| 成立 | 1985 |
+| 总部/地址 | Via Enzo Ferrari, Zona Industriale, 88900 Crotone (KR), Italy（+39 0962 930786；info@elsikr.it / customercare@elsikr.it） |
+| 其他 | 南意四区分销；ZKTeco 分销伙伴（2021）；Uniview 摄像头（用户记录） |
+
+- **业务线**：安防（防盗、视频监控、消防）区域分销；自动化（门、闸、锁）与智能家居
+- **触达通道（公开）**：网站: https://www.elsikr.it/；电话: +39 0962 930786（公开）；邮箱（公开）: info@elsikr.it；Facebook: https://www.facebook.com/elsisrl.crotone/
+- **近况信号**：
+  - 区域安防分销商 + Uniview 摄像 → 白牌 PoE 作配套 SKU（20%）；曾索要商业 PoE 价目表
+- **风险/边界**：意向弱（「没太多意愿」）；14 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）
+- **邮件切入句（英文）**：Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -122,7 +159,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -166,7 +203,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -176,7 +212,7 @@ updated: 2026-10-21
 ```text
 Hi Domenico,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

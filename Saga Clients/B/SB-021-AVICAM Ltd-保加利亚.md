@@ -1,4 +1,5 @@
 # AVICAM Ltd.
+**官方名称（调研核实）**：АВИКАМ ООД / AVICAM Ltd.（Sofia, BG；avicam-bg.com）
 
 > **评级 B**　|　保加利亚　|　档案编号 `SB-021`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-021
 rating: B
 rating_auto: B
+name_official: "АВИКАМ ООД / AVICAM Ltd.（Sofia, BG；avicam-bg.com）"
 score: 59
 country: 保加利亚
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 6
 first_contact: 2025-03-19
 last_contact: 2025-10-08
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：保加利亚的安防集成/经销；兴趣/在卖：CCTV products PoE switch
+- **是谁**：保加利亚索菲亚的视频监控与安防系统进口商/分销商兼设计安装商（2001 年成立；ул. Братя Миладинови 60；+359 2 832 7084；sales@avicam-bg.com；RaySharp 保加利亚官方代表（2019 起）；自有 AVICAM 品牌线缆等配件；RocketReach 营收口径极小）。展会记录：CCTV 产品、PoE 交换机；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：CCTV products PoE switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,39 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-021.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（网店）
+- **是谁**：保加利亚索菲亚的视频监控与安防系统进口商/分销商兼设计安装商（2001 年成立；ул. Братя Миладинови 60；+359 2 832 7084；sales@avicam-bg.com；RaySharp 保加利亚官方代表（2019 起）；自有 AVICAM 品牌线缆等配件；RocketReach 营收口径极小）。展会记录：CCTV 产品、PoE 交换机；WhatsApp 已加；6 次跟进 0 回复。
+- **在卖/在用品牌**：RaySharp（代理）, AVICAM（自有品牌配件）
+- **【官网】定位与联系方式**
+  > АВИКАМ ООД e един от водещите български дистрибутори на системи за видеонаблюдение и контрол. Имаме вече над 15 годишен опит във вноса … +359 2 8327084 … sales@avicam-bg.com Ул. "Братя Миладинови" № 60 1202 София
+  > 来源：https://avicam-bg.com/（抓取 2026-07-21）
+- **【官网】成立年与业务**
+  > AVICAM е бранд на „АВИКАМ" ООД, основана през 2001 в град София. Дейността на фирмата е цялостно проектиране и монтаж на системи за видеонаблюдение, внос и търговия.
+  > 来源：https://avicam-bg.com/product-category/brands/avicam-%D0%BC%D0%B0%D1%80%D0%BA%D0%B8/（抓取 2026-10-21）
+- **【官网】RaySharp 代理**
+  > От месец юли 2019 година фирма Авикам ООД е официален представител на продуктите с марката RaySharp за България.
+  > 来源：https://avicam-bg.com/product-category/kameri-za-videonabliudenie/videonabludenie-raysharp/（抓取 2026-10-21）
+- **【用户表】CCTV / PoE 交换机；WhatsApp 已加；6 次跟进 0 回复**
+  > CCTV products PoE switch
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | АВИКАМ ООД（AVICAM Ltd.） |
+| 成立 | 2001 |
+| 总部/地址 | ул. „Братя Миладинови" № 60, 1202 София, България（+359 2 832 7084 / 832 5757；sales@avicam-bg.com） |
+| 其他 | RaySharp 官方代表；AVICAM 自有品牌配件；网店 + 安装 |
+
+- **业务线**：视频监控与安防设备进口分销（网店）；系统设计与安装
+- **触达通道（公开）**：网店: https://avicam-bg.com/；电话: +359 2 832 7084（公开）；邮箱（公开）: sales@avicam-bg.com
+- **近况信号**：
+  - 已有 AVICAM 自有品牌配件 → PoE 交换机贴 AVICAM 标可行；RaySharp（中国）代理说明接受中国供应链
+- **风险/边界**：规模小；保加利亚非主动开拓；6 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）
+- **邮件切入句（英文）**：Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -112,18 +146,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -133,7 +166,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -157,19 +190,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Georgi,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

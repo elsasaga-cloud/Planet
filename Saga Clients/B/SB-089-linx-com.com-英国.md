@@ -1,4 +1,5 @@
 # linx-com.com
+**官方名称（调研核实）**：Linxcom Ltd（Linxcom UK，Leicester；Co. 07157746；linx-com.com）
 
 > **评级 B**　|　英国　|　档案编号 `SB-089`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-089
 rating: B
 rating_auto: B
+name_official: "Linxcom Ltd（Linxcom UK，Leicester；Co. 07157746；linx-com.com）"
 score: 54
 country: 英国
 region: 欧洲
@@ -20,20 +22,20 @@ followups: 1
 first_contact: 2025-03-17
 last_contact: 2025-03-17
 p1: STI-110GE
-price_tier: 20%
-research: pending
+price_tier: 30%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的经销/集成（类型待核）；兴趣/在卖：MC SFP FS 周边产品；提到的品牌：FS
+- **是谁**：英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。（调研 2026-10-21；表内兴趣：MC SFP FS 周边产品）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 1 次（2025-03-17 → 2025-03-17）；最近一次客户回复：2025-03-17：没成
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-089.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。
+- **在卖/在用品牌**：Linxcom（自有品牌）
+- **【官网】法人与定位**
+  > Linxcom UK is an international supplier of networking and telecommunications end-to-end solutions. Specialists in fibre optic passive and active products … Company Name: Linxcom Ltd Company Registration Number: 07157746 Registered Address: 3 Oakland Road, Leicester, LE2 6AN … Phone: +44 1327 705 425
+  > 来源：https://linx-com.com/about.html（抓取 2026-10-21）
+- **【LinkedIn】供应链与规模**
+  > We have a logistics warehouse in the Far East, strong partners around the world, short-term fibre optic manufacturing facility in the UK and local offices in England, South Africa and China. … Company size: 11-50 employees Headquarters: Leicester
+  > 来源：https://uk.linkedin.com/company/linxcom-uk（抓取 2026-10-21）
+- **【名录】有源产品线与 OEM 服务**
+  > Fibre Optic Active | OEO Media Converters (10GB), Manageable Switches, SFP/QSFP/XFP … Offering of OEM customization services including product and literature adaptation or design from scratch
+  > 来源：https://www.europages.co.uk/LINXCOM-LIMITED/GBR282115-35968001.html（抓取 2026-10-21）
+- **【名录】营收与人数**
+  > Linxcom UK … 3 Oakland Rd, Leicester … Revenue $4.4 M Employees 16 Founded 2010
+  > 来源：https://www.datanyze.com/companies/linxcom-uk-ltd/354198590（抓取 2026-10-21）
+- **【用户表】关注 MC/SFP/FS 周边；WhatsApp 已加；1 次跟进**
+  > MC SFP FS 周边产品
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Linxcom Ltd（Companies House 07157746；VAT GB990241716） |
+| 成立 | 2010-02-15 |
+| 总部/地址 | 3 Oakland Road, Leicester LE2 6AN, UK（+44 1327 705 425） |
+| 其他 | 远东仓 + 中国办公室；60+ 国销售；产品含 OEO MC、可管理交换机、SFP；OEM 定制服务 |
+
+- **业务线**：光纤无源件与光缆（FTTx/数据中心）；有源件：OEO 介质转换器、可管理交换机、SFP/QSFP/XFP（贴牌）；OEM 定制与多语言销售
+- **触达通道（公开）**：网站: https://www.linx-com.com/；电话: +44 1327 705 425（公开）；LinkedIn: https://uk.linkedin.com/company/linxcom-uk
+- **近况信号**：
+  - 已有 Linxcom 标有源线（MC、管理交换机）→ 直接按型号对位补货/换源；关注 MC/SFP → STI-110GE/STI-111GP
+- **风险/边界**：已有中国供应链（远东仓、中国办公室）→ 价格比拼；1 次跟进后无回复
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对
+- **邮件切入句（英文）**：Hussain, for the Linxcom active range: an industrial gigabit media converter (DIN, 12–58 V DC) is $24.3 EXW and the 8-port PoE+ managed switch with 2 SFP $87.4, both with your label and datasheet; which two SKUs sell most in your 60 markets?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -97,10 +134,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110GE | 深挖对位：OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -110,7 +147,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -118,7 +155,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -142,7 +179,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -152,9 +188,9 @@ updated: 2026-10-21
 ```text
 Hi Hussain,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Hussain, for the Linxcom active range: an industrial gigabit media converter (DIN, 12–58 V DC) is $24.3 EXW and the 8-port PoE+ managed switch with 2 SFP $87.4, both with your label and datasheet; which two SKUs sell most in your 60 markets?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

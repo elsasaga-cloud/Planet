@@ -21,7 +21,7 @@ SB-868,B,T1,sstamenov91@gmail.com,保加利亚,欧洲,0,1,1,0,0,0,0,0,19,,1,1,1
 SA-128,B,T1,DIOS ULTRA HD VIDEO SECURITY SYSTEMS,荷兰,欧洲,0,1,1,0,0,0,0,0,16,dios-industries.com,1,1,1
 SA-105,B,T1,tricomp.com.pl,波兰,欧洲,0,1,1,0,0,0,0,0,15,tricomp.com.pl,1,1,1
 SB-159,B,T1,Arsenal TV,罗马尼亚,欧洲,0,1,1,0,0,0,0,0,14,,1,1,1
-SB-1328,B,T1,（未具名）,西班牙,欧洲,0,1,1,0,0,0,0,0,12,,0,0,0
+SB-1330,B,T1,（未具名）,西班牙,欧洲,0,1,1,0,0,0,0,0,12,,0,0,0
 SB-024,B,T1,STS Italia S.r.l.,意大利,欧洲,0,1,1,0,0,0,0,0,8,stsitalia.com,2,1,1
 SB-176,B,T1,gluszek.tomasz@gmail.com,爱尔兰,欧洲,0,1,1,0,0,1,0,0,5,,1,1,1
 SB-1026,B,T1,etictelecom.com,法国,欧洲,0,1,0,0,1,0,0,0,22,etictelecom.com,2,1,1
@@ -51,12 +51,10 @@ SA-157,B,T1,Liveye,德国,欧洲,0,0,1,0,0,0,1,0,7,liveye.com,1,1,1
 SB-023,B,T1,Grundig,德国,欧洲,0,0,1,0,0,0,0,0,7,grundig-security.com;abetechs.com,1,1,1
 SB-120,B,T1,saf-slk.de,德国,欧洲,0,0,1,0,0,0,0,0,7,saf-slk.de,1,1,1
 SA-086,B,T1,Safe-tech CCTV systems Sweden AB,瑞典,欧洲,0,0,1,0,0,0,1,0,6,safe-tech.se,1,1,1
-SB-021,B,T1,AVICAM Ltd.,保加利亚,欧洲,0,0,1,0,0,0,0,0,6,bg.com;avicam-bg.com,1,0,0
-SB-079,B,T1,"ISIMKO GmbH,Guhrower Straße",德国,欧洲,0,0,1,0,0,0,0,0,6,isimko.de,1,0,0
-SB-197,B,T1,Dourte,比利时,欧洲,0,0,1,0,0,0,0,0,6,dourte.be,2,0,0
-SB-202,B,T1,Simac,荷兰,欧洲,0,0,1,0,0,0,0,0,6,simac-ids.com,1,0,0
+SB-021,B,T1,AVICAM Ltd.,保加利亚,欧洲,0,0,1,0,0,0,0,0,6,bg.com;avicam-bg.com,1,1,1
+SB-197,B,T1,Dourte,比利时,欧洲,0,0,1,0,0,0,0,0,6,dourte.be,2,1,1
 SB-974,B,T1,egemenelektronik.com,土耳其,土耳其,0,0,1,0,0,0,0,0,2,egemenelektronik.com,1,0,0
-SB-089,B,T1,linx-com.com,英国,欧洲,0,0,1,0,0,0,0,0,1,linx-com.com,1,0,0
+SB-089,B,T1,linx-com.com,英国,欧洲,0,0,1,0,0,0,0,0,1,linx-com.com,1,1,1
 SA-152,B,T1,Bilge SECURITY SYSTEMS,土耳其,土耳其,0,0,1,1,0,0,1,0,0,bilgeguvenlik.com,2,1,1
 SA-162,B,T1,cansisteknoloji.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,cansisteknoloji.com,2,1,1
 SA-167,B,T1,voltechelektronik.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,voltechelektronik.com,1,1,1
@@ -91,7 +89,7 @@ SB-632,B,T1,aecl.com,加拿大,北美,0,0,1,0,0,0,0,0,0,aecl.com,1,0,0
 SB-740,B,T1,teknoktadestek.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,teknoktadestek.com,0,0,0
 SB-960,B,T1,LLT doo,克罗地亚,欧洲,0,0,1,0,0,0,0,0,0,solarstore.hr,1,0,0
 SA-135,B,T1,megatelindustries.com,美国,北美,0,0,0,0,1,0,0,1,22,megatelindustries.com,2,1,1
-SB-298,B,T1,Sure Transport,英国,欧洲,0,0,0,0,0,0,1,0,18,suretransport.co.uk;sure24.co.uk,2,0,0
+SB-298,B,T1,Sure Transport,英国,欧洲,0,0,0,0,0,0,1,0,18,suretransport.co.uk;sure24.co.uk,2,1,1
 SB-959,B,T1,JM Fiber Optics Inc,美国,北美,0,0,0,0,0,0,1,0,18,jmfiberoptics.com,1,1,1
 SA-109,B,T1,Telcam Fire&securoty Ltd,英国,欧洲,0,0,0,0,0,0,1,1,17,telcam.co.uk,1,1,1
 SA-137,B,T1,Avesta,英国,欧洲,0,0,0,0,0,0,1,1,17,avestatek.co.uk,2,1,1
@@ -101,15 +99,14 @@ SB-074,B,T1,optiwatch monitoring solution,英国,欧洲,0,0,0,0,0,0,1,0,17,optiw
 SB-191,B,T1,switchtek,英国,欧洲,0,0,0,0,0,0,1,0,17,switchtec.com;switchtec.co.uk,3,1,1
 SB-319,B,T1,longtek,英国,欧洲,0,0,0,0,0,0,1,0,17,longtek.co.uk,1,1,1
 SB-075,B,T1,pulsar.pl,波兰,欧洲,0,0,0,0,0,0,1,0,16,pulsar.pl,4,1,1
-SB-1141,B,T1,Wave electronics Ltd,塞浦路斯,欧洲,0,0,0,0,0,0,1,0,16,wave-electronics.com.cy,1,0,0
-SB-627,B,T1,Elkov Elektro,捷克,欧洲,0,0,0,0,0,0,1,0,16,elkov.cz,2,0,0
-SB-057,B,T1,Kassaba Systems,保加利亚,欧洲,0,0,0,0,0,0,1,0,15,kassabasystems.com;kassaba.bg,2,0,0
-SB-443,B,T1,EMOS,捷克,欧洲,0,0,0,0,0,0,1,0,15,emos.cz;emos.eu,2,0,0
-SB-513,B,T1,Add secure,瑞典,欧洲,0,0,0,0,0,0,1,0,15,addsecure.com,1,0,0
+SB-1141,B,T1,Wave electronics Ltd,塞浦路斯,欧洲,0,0,0,0,0,0,1,0,16,wave-electronics.com.cy,1,1,1
+SB-627,B,T1,Elkov Elektro,捷克,欧洲,0,0,0,0,0,0,1,0,16,elkov.cz,2,1,1
+SB-057,B,T1,Kassaba Systems,保加利亚,欧洲,0,0,0,0,0,0,1,0,15,kassabasystems.com;kassaba.bg,2,1,1
+SB-443,B,T1,EMOS,捷克,欧洲,0,0,0,0,0,0,1,0,15,emos.cz;emos.eu,2,1,1
 SA-138,B,T1,Top Italia,意大利,欧洲,0,0,0,0,0,0,1,0,14,topsicurezza.com,1,1,0
 SA-149,B,T1,trans audio video group,意大利,欧洲,0,0,0,0,0,0,1,0,14,transaudiovideo.com,1,1,0
-SB-135,B,T1,Elsi,意大利,欧洲,0,0,0,0,0,0,1,0,14,elsikr.it,2,0,0
-SB-411,B,T1,saucontech.com,美国,北美,0,0,0,0,0,0,1,0,9,saucontech.com,2,0,0
+SB-135,B,T1,Elsi,意大利,欧洲,0,0,0,0,0,0,1,0,14,elsikr.it,2,1,1
+SB-411,B,T1,saucontech.com,美国,北美,0,0,0,0,0,0,1,0,9,saucontech.com,2,1,1
 SA-075,B,T1,Desk Technologies,德国,欧洲,0,0,0,0,0,1,1,1,7,desk-sicherheit.de,1,1,0
 SA-087,B,T1,VoIPDistri,德国,欧洲,0,0,0,0,0,0,1,0,7,voipdistri.com,1,1,0
 SA-084,B,T1,ERSTECH,匈牙利,欧洲,0,0,0,0,0,0,1,0,6,erstech.hu,1,1,0
@@ -117,7 +114,6 @@ SA-102,B,T1,inthouse.eu,捷克,欧洲,0,0,0,0,0,0,1,0,6,inthouse.eu,1,1,0
 SA-151,B,T1,ANB rimex,比利时,欧洲,0,0,0,0,0,0,1,0,6,anb-rimex.be,1,1,0
 SA-155,B,T1,Gmka,希腊,欧洲,0,0,0,0,0,0,1,0,6,gmka.gr,1,1,0
 SA-158,B,T1,Sitis Sarl,瑞士,欧洲,0,0,0,0,0,0,1,0,6,sitis.ch,1,1,0
-SB-041,B,T1,LDZ Apsardze,拉脱维亚,欧洲,0,0,0,0,0,0,1,0,6,ldz.lv,1,0,0
 SB-336,B,T1,Eds protection technology,土耳其,土耳其,0,0,0,0,0,0,1,0,2,eds.com.tr,1,0,0
 SB-422,B,T1,Optima Soft,土耳其,土耳其,0,0,0,0,0,0,1,0,2,optima-engineering.com;optima.tc,1,0,0
 SA-160,B,T1,ar telecom,葡萄牙,欧洲,0,0,0,0,0,0,1,0,0,artelecom.pt,1,1,0
@@ -151,7 +147,6 @@ SB-586,B,T1,energus.eu,波兰,欧洲,0,0,0,0,0,0,1,0,0,energus.eu,1,0,0
 SB-588,B,T1,fourline.com.tr,土耳其,土耳其,0,0,0,1,0,0,0,0,0,fourline.com.tr,1,0,0
 SB-592,B,T1,marbim.com.tr,土耳其,土耳其,0,0,0,1,0,0,1,0,0,marbim.com.tr,0,0,0
 SB-624,B,T1,ANIL,土耳其,土耳其,0,0,0,1,0,0,0,0,0,aniltelekom.com,2,0,0
-SB-648,B,T1,solid-optics.com,荷兰,欧洲,0,0,0,0,0,0,1,0,0,solid-optics.com;solid-optics.eu,4,0,0
 SB-785,B,T1,teksarf.com,土耳其,土耳其,0,0,0,1,0,0,0,0,0,teksarf.com,1,0,0
 SB-790,B,T1,BİLGEN ELEKTRONİK,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,0,0
 SB-792,B,T1,Elektronik LTD,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,0,0
@@ -159,7 +154,6 @@ SB-794,B,T1,Fadi,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,0,0
 SB-806,B,T1,UGUR IMRE,土耳其,土耳其,0,0,0,1,0,0,0,1,0,,0,0,0
 SB-807,B,T1,Ugur Simsek Netmax,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,0,0
 SB-885,B,T1,HAFYA,土耳其,土耳其,0,0,0,1,0,0,0,0,0,hafya.com.tr,1,0,0
-SB-979,B,T1,garlandtechnology.com,美国,北美,0,0,0,0,0,0,1,0,0,garlandtechnology.com,1,0,0
 SA-022,B,T2,Abdulaziz Al Jowasem,沙特阿拉伯,中东,1,1,1,0,0,0,0,0,20,,0,1,0
 SA-007,B,T2,Xspec Technology Sdn Bhd,马来西亚,亚太,1,1,1,0,0,0,1,0,3,xspectechnology.com;xspec.com.my,1,1,0
 SB-1108,B,T2,dauren.boltaev@mail.ru,乌兹别克斯坦,俄语区,1,0,1,0,0,0,0,0,27,,1,0,0
@@ -313,7 +307,7 @@ SB-162,B,T2,NKF wireless internet and services,菲律宾,亚太,0,1,0,0,0,0,0,1,
 SB-029,B,T2,ite.net.pk,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,ite.net.pk,3,0,0
 SB-1275,B,T2,powerlogic1965@gmail.com,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,,1,0,0
 SB-1276,B,T2,vienthonggiatot.com,越南,亚太,0,1,0,0,0,0,0,0,4,vienthonggiatot.com,1,0,0
-SB-1329,B,T2,（未具名）,台湾,亚太,0,1,0,0,0,0,0,0,4,,0,0,0
+SB-1331,B,T2,（未具名）,台湾,亚太,0,1,0,0,0,0,0,0,4,,0,0,0
 SB-427,B,T2,automationsystem.in,印度,南亚,0,1,0,0,0,0,0,0,4,automationsystem.in,1,0,0
 SB-099,B,T2,agsplus.in,印度,南亚,0,1,0,0,0,0,0,0,2,agsplus.in;xexagon.co.in;imimg.com,4,0,0
 SB-297,B,T2,SMART SECURITY SYSTEMS,印度,南亚,0,1,0,0,0,0,0,0,2,,1,0,0

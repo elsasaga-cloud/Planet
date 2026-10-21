@@ -1,4 +1,5 @@
 # Dourte
+**官方名称（调研核实）**：Dourte SRL（Dourte Elektriciteit；Ruisbroek/Sint-Pieters-Leeuw, BE；dourte.be；BE 0684.917.295）
 
 > **评级 B**　|　比利时　|　档案编号 `SB-197`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-197
 rating: B
 rating_auto: B
+name_official: "Dourte SRL（Dourte Elektriciteit；Ruisbroek/Sint-Pieters-Leeuw, BE；dourte.be；BE 0684.917.295）"
 score: 48
 country: 比利时
 region: 欧洲
@@ -20,20 +22,20 @@ followups: 6
 first_contact: 2025-03-19
 last_contact: 2025-10-08
 p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：比利时的经销/集成（类型待核）；兴趣/在卖：看了工业级交换机，管理和非管理 bypass,，没做过多的管理，但是感觉比较懂，可以调查一下网站
+- **是谁**：比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：看了工业级交换机，管理和非管理 bypass,，没做过多的管理，但是感觉比较懂，可以调查一下网站）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,38 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-197.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。
+- **【官网】业务与地址**
+  > Dourte is a company authorized by the FPS Interior for alarm systems and cameras. Security integrator Operating headquarters: Buitenplas 1 unit 15 1601 Ruisbroek … Our Services - Video Security - Access control - Fire detection - Intrusion detection - Renewable energy - Parking management - Parlo / Videophone
+  > 来源：https://dourte.be/en/（抓取 2025-01-13）
+- **【登记】法人、规模**
+  > Dourte (SRL) … BE0684917295 … Established 22-11-2017 … Company size Small 10,2 FTE … Commercial name Dourte Elektriciteit … Principal activity Electrical installation … gross margin of €598,413.56
+  > 来源：https://www.companyweb.be/en/0684917295/dourte（抓取 2026-10-21）
+- **【LinkedIn】规模与专长**
+  > Dourte … Industry: Security Systems Services Company size: 11-50 employees … Founded: 2010 Specialties: Eletricité, Sécurité, CCTV, ACCES CONTROL, and FIRE DETECTION
+  > 来源：https://be.linkedin.com/company/dourte-sebastien（抓取 2026-10-21）
+- **【用户表】展会互动；WhatsApp 已加；6 次跟进 0 回复**
+  > 看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Dourte SRL（BE 0684.917.295；商号 Dourte Elektriciteit） |
+| 成立 | 2017-11-22（LinkedIn 称 2010 起业） |
+| 总部/地址 | Buitenplas 1 unit 15, 1601 Ruisbroek, Belgium（info@dourte.be） |
+| 其他 | FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单 |
+
+- **业务线**：视频安防 / 门禁 / 入侵探测集成；火灾探测（守界：主系统不供）；停车管理、对讲、可再生能源
+- **触达通道（公开）**：网站: https://dourte.be/en/；邮箱（公开）: info@dourte.be；LinkedIn: https://be.linkedin.com/company/dourte-sebastien
+- **近况信号**：
+  - 关注工业级 + bypass → 停车场/户外门禁柜场景；10 人集成商可成常备小客户
+- **风险/边界**：规模小；6 次跟进 0 回复
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
+- **邮件切入句（英文）**：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,9 +146,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -125,7 +158,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -133,7 +166,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -157,7 +190,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -167,9 +199,9 @@ updated: 2026-10-21
 ```text
 Hi Lisart,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

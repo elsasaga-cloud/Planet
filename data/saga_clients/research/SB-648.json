@@ -1,0 +1,51 @@
+{
+ "code": "SB-648",
+ "name_official": "Solid Optics（NL/EU；solid-optics.com / solid-optics.eu）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "荷兰的光传输/WDM 设备供应商 Solid Optics（产品基本为独立式 WDM、EDFA、光开关等）。展会记录：「基本都是独立式 WDM EDFA 等 / Optical switch WDM」；联系人 info@ / saul@solid-optics.eu；无跟进。同行型供应商，归 C（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "产品方向：独立式 WDM/EDFA/光开关",
+   "quote": "基本都是独立式WDM EDFA等 … Optical switch WDM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "行业外/同行：光传输设备供应商（独立式 WDM、EDFA、光开关），自有产品线与 Saga 无采购关系——非交换机渠道",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 行业外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Solid Optics（法人待核）",
+  "hq": "Netherlands",
+  "size": "待核",
+  "other": "WDM / EDFA / 光开关供应商"
+ },
+ "business_lines": [
+  "光传输设备（WDM、EDFA、光开关）"
+ ],
+ "channels": {
+  "网站": "https://www.solid-optics.com/"
+ },
+ "signals": [
+  "无交换机采购需求"
+ ],
+ "risks": [
+  "同行/行业外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

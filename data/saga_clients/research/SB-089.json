@@ -1,0 +1,86 @@
+{
+ "code": "SB-089",
+ "name_official": "Linxcom Ltd（Linxcom UK，Leicester；Co. 07157746；linx-com.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Linxcom（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法人与定位",
+   "quote": "Linxcom UK is an international supplier of networking and telecommunications end-to-end solutions. Specialists in fibre optic passive and active products … Company Name: Linxcom Ltd Company Registration Number: 07157746 Registered Address: 3 Oakland Road, Leicester, LE2 6AN … Phone: +44 1327 705 425",
+   "url": "https://linx-com.com/about.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "供应链与规模",
+   "quote": "We have a logistics warehouse in the Far East, strong partners around the world, short-term fibre optic manufacturing facility in the UK and local offices in England, South Africa and China. … Company size: 11-50 employees Headquarters: Leicester",
+   "url": "https://uk.linkedin.com/company/linxcom-uk",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "有源产品线与 OEM 服务",
+   "quote": "Fibre Optic Active | OEO Media Converters (10GB), Manageable Switches, SFP/QSFP/XFP … Offering of OEM customization services including product and literature adaptation or design from scratch",
+   "url": "https://www.europages.co.uk/LINXCOM-LIMITED/GBR282115-35968001.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "营收与人数",
+   "quote": "Linxcom UK … 3 Oakland Rd, Leicester … Revenue $4.4 M Employees 16 Founded 2010",
+   "url": "https://www.datanyze.com/companies/linxcom-uk-ltd/354198590",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "关注 MC/SFP/FS 周边；WhatsApp 已加；1 次跟进",
+   "quote": "MC SFP FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Linxcom Ltd（Companies House 07157746；VAT GB990241716）",
+  "founded": "2010-02-15",
+  "hq": "3 Oakland Road, Leicester LE2 6AN, UK（+44 1327 705 425）",
+  "size": "6 人（Endole）～16 人、$4.4M（Datanyze）；LinkedIn 11–50",
+  "other": "远东仓 + 中国办公室；60+ 国销售；产品含 OEO MC、可管理交换机、SFP；OEM 定制服务"
+ },
+ "business_lines": [
+  "光纤无源件与光缆（FTTx/数据中心）",
+  "有源件：OEO 介质转换器、可管理交换机、SFP/QSFP/XFP（贴牌）",
+  "OEM 定制与多语言销售"
+ ],
+ "channels": {
+  "网站": "https://www.linx-com.com/",
+  "电话": "+44 1327 705 425（公开）",
+  "LinkedIn": "https://uk.linkedin.com/company/linxcom-uk"
+ },
+ "signals": [
+  "已有 Linxcom 标有源线（MC、管理交换机）→ 直接按型号对位补货/换源；关注 MC/SFP → STI-110GE/STI-111GP"
+ ],
+ "risks": [
+  "已有中国供应链（远东仓、中国办公室）→ 价格比拼；1 次跟进后无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对"
+ },
+ "email_hook": "Hussain, for the Linxcom active range: an industrial gigabit media converter (DIN, 12–58 V DC) is $24.3 EXW and the 8-port PoE+ managed switch with 2 SFP $87.4, both with your label and datasheet; which two SKUs sell most in your 60 markets?"
+}
