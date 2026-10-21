@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "无域名",
- "summary": "香港系统集成/工程商：无域名/未快照；表内「8+2百兆商业PoE / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "香港「Artifex Engineering & Technology Ltd.」（阿里巴巴 RFQ「8+2 百兆商业 PoE」；KP Jackson Choy，仅 gmail；无公司域名）；表内未跟进。",
+ "type": "香港零散 RFQ（免费邮箱）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,45 @@
    "quote": "8+2百兆商业PoE / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "8+2 百兆商业 PoE RFQ",
+   "quote": "8+2百兆商业PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "香港零散 RFQ（免费邮箱）；c_sub=区域外/个人买家",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "香港",
   "other": "无官网快照；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（零散 RFQ，香港）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "香港零散 RFQ（免费邮箱）",
   "region": "香港",
   "contact": "jchoy.ingenioz@gmail.com"
  },
  "signals": [
-  "用户表兴趣/备注：8+2百兆商业PoE / from: 阿里巴巴RFQ"
+  "表内：8+2 百兆商业 PoE / from: 阿里巴巴 RFQ；KP Jackson Choy；jchoy.ingenioz@gmail.com"
  ],
  "risks": [
-  "无域名或未快照：仅表内信息，身份待核",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非目标区（香港）；仅 gmail 免费邮箱、无公司域名"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "香港（可直采）、仅免费邮箱、无公司域名 → 改 C"
  },
- "email_hook": "Jackson, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：区域外/个人）"
 }

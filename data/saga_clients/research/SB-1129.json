@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "无域名",
- "summary": "伊拉克经销/集成（类型待核，无官网快照）：无域名/未快照；表内「1光6工业交换机 / from: 自建站」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "伊拉克「AHF」（自建站询盘「1 光 6 工业交换机」；KP Muhammad Sultan，仅 gmail；无公司域名）；表内未跟进。",
+ "type": "零散询盘（伊拉克，免费邮箱）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,45 @@
    "quote": "1光6工业交换机 / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 光 6 工业交换机询盘",
+   "quote": "1光6工业交换机 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "区域外零散询盘（免费邮箱）；c_sub=区域外/个人买家",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "伊拉克",
   "other": "无官网快照；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（零散询盘）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "零散询盘（伊拉克，免费邮箱）",
   "region": "伊拉克",
   "contact": "mohamedsoultan705@gmail.com"
  },
  "signals": [
-  "用户表兴趣/备注：1光6工业交换机 / from: 自建站"
+  "表内：1 光 6 工业交换机 / from: 自建站；KP Muhammad Sultan；mohamedsoultan705@gmail.com"
  ],
  "risks": [
-  "无域名或未快照：仅表内信息，身份待核",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "区域外（伊拉克）；仅 gmail 免费邮箱、无公司域名"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "区域外、仅免费邮箱、无公司域名 → 改 C"
  },
- "email_hook": "Muhammad, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：区域外/个人）"
 }

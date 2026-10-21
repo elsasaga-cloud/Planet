@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "泰国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「产品线很相似」；群发 16 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。",
+ "type": "网络产品品牌商（泰国，产品线相似）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,41 +14,54 @@
    "quote": "产品线很相似",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "产品线很相似",
+   "quote": "产品线很相似；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Anek Thongdee",
+   "title": "Chief Executive Officer",
+   "email": "sale@bismon.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "泰国",
   "other": "官网 bismon.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络产品（自有品牌 Bismon，泰国）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "网络产品品牌商（泰国，产品线相似）",
   "region": "泰国",
   "contact": "sale@bismon.com、info@bismon.com"
  },
  "signals": [
-  "用户表兴趣/备注：产品线很相似",
-  "表内早期 AI 描述（未核实）：泰国通信设备供应商，主营光通信和网络设备"
+  "表内：产品线很相似；KP Anek Thongdee / Chief Executive Officer；可以尝试多跟进一下",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-448DGGPM",
-  "tier": 25,
-  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供"
  },
- "email_hook": "Anek, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?"
 }

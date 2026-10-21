@@ -93870,14 +93870,21 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（timeout）",
-"summary": "俄罗斯经销/集成（类型待核，无官网快照）：官网快照失败（timeout）；表内「Switch」；表内未见跟进记录。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "俄罗斯 Vilcom（vilcom.ru；表内「Switch」；官网 timeout，业务待核）；表内未跟进。",
+"type": "IT/网络公司（俄罗斯，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
 {
 "kind": "用户表",
 "claim": "表内兴趣/备注",
+"quote": "Switch",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Switch",
 "quote": "Switch",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
@@ -93889,33 +93896,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "俄罗斯",
 "other": "官网 vilcom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核，俄罗斯）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "IT/网络公司（俄罗斯，待核）",
 "region": "俄罗斯",
 "contact": "info@vilcom.ru"
 },
 "signals": [
-"用户表兴趣/备注：Switch"
+"表内：Switch",
+"快照：timeout"
 ],
 "risks": [
-"官网快照失败（timeout）：域名/证书待核，邮件可能退回",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"业务范围待核（官网 timeout）；俄罗斯：结算/物流/合规风险；未跟进过，仅 info@"
 ],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
 },
-"email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?"
 }
 },
 {
@@ -95722,17 +95729,17 @@
 "+3 区域 亚太/香港",
 "+5 最近活动 2026"
 ],
-"c_sub": "",
+"c_sub": "区域外/个人买家",
 "status": "名单内·未触达",
 "code": "SB-1013",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1013",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "无域名",
-"summary": "香港系统集成/工程商：无域名/未快照；表内「8+2百兆商业PoE / from: 阿里巴巴RFQ」；表内未见跟进记录。",
-"type": "系统集成/工程商",
+"summary": "香港「Artifex Engineering & Technology Ltd.」（阿里巴巴 RFQ「8+2 百兆商业 PoE」；KP Jackson Choy，仅 gmail；无公司域名）；表内未跟进。",
+"type": "香港零散 RFQ（免费邮箱）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -95742,41 +95749,47 @@
 "quote": "8+2百兆商业PoE / from: 阿里巴巴RFQ",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "8+2 百兆商业 PoE RFQ",
+"quote": "8+2百兆商业PoE / from: 阿里巴巴RFQ",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "香港零散 RFQ（免费邮箱）；c_sub=区域外/个人买家",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "香港",
 "other": "无官网快照；角色判定来源：用户表"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（零散 RFQ，香港）"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "香港零散 RFQ（免费邮箱）",
 "region": "香港",
 "contact": "jchoy.ingenioz@gmail.com"
 },
 "signals": [
-"用户表兴趣/备注：8+2百兆商业PoE / from: 阿里巴巴RFQ"
+"表内：8+2 百兆商业 PoE / from: 阿里巴巴 RFQ；KP Jackson Choy；jchoy.ingenioz@gmail.com"
 ],
 "risks": [
-"无域名或未快照：仅表内信息，身份待核",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非目标区（香港）；仅 gmail 免费邮箱、无公司域名"
 ],
 "saga_fit": {
-"p1": "STC-28DGGPM",
-"tier": 25,
-"why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "香港（可直采）、仅免费邮箱、无公司域名 → 改 C"
 },
-"email_hook": "Jackson, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：区域外/个人）"
 }
 },
 {
@@ -96494,8 +96507,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "无域名",
-"summary": "阿联酋分销商/经销商：无域名/未快照；表内「分销工业交换机 / from: 领英」；表内未见跟进记录。",
-"type": "分销商/经销商",
+"summary": "阿联酋 Magnus Infotech Dubai（领英线索：「分销工业交换机」；KP Gireesh Kumar K，仅 gmail 免费邮箱，无公司域名）；表内未跟进。",
+"type": "工业交换机分销商（阿联酋，实体待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -96505,41 +96518,55 @@
 "quote": "分销工业交换机 / from: 领英",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "分销工业交换机（领英）",
+"quote": "分销工业交换机 / from: 领英",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Gireesh Kumar K",
+"title": "（职务待核）",
+"email": "gireeshk70@gmail.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "阿联酋",
 "other": "无官网快照；角色判定来源：用户表"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"工业交换机分销（阿联酋，待核）"
 ],
 "channels": {
-"role": "分销商/经销商",
+"role": "工业交换机分销商（阿联酋，实体待核）",
 "region": "阿联酋",
 "contact": "gireeshk70@gmail.com"
 },
 "signals": [
-"用户表兴趣/备注：分销工业交换机 / from: 领英"
+"表内：分销工业交换机 / from: 领英；KP Gireesh Kumar K；gireeshk70@gmail.com"
 ],
 "risks": [
-"无域名或未快照：仅表内信息，身份待核",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"仅 gmail 免费邮箱、无公司域名（实体待核）；非主攻区（T5，阿联酋）；领英线索未跟进"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
+"p1": "STI-280GE",
 "tier": 20,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "分销工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
 },
-"email_hook": "Gireesh, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+"email_hook": "Gireesh, for the industrial switches you distribute in the UAE, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — which configuration do your customers order most, and does Magnus have a company email I should use?"
 }
 },
 {
@@ -102839,8 +102866,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（http_error）",
-"summary": "泰国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「产品线很相似」；群发 16 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。",
+"type": "网络产品品牌商（泰国，产品线相似）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -102850,43 +102877,56 @@
 "quote": "产品线很相似",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "产品线很相似",
+"quote": "产品线很相似；可以尝试多跟进一下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Anek Thongdee",
+"title": "Chief Executive Officer",
+"email": "sale@bismon.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "泰国",
 "other": "官网 bismon.com，语言 ?，快照状态 http_error；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"网络产品（自有品牌 Bismon，泰国）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "网络产品品牌商（泰国，产品线相似）",
 "region": "泰国",
 "contact": "sale@bismon.com、info@bismon.com"
 },
 "signals": [
-"用户表兴趣/备注：产品线很相似",
-"表内早期 AI 描述（未核实）：泰国通信设备供应商，主营光通信和网络设备"
+"表内：产品线很相似；KP Anek Thongdee / Chief Executive Officer；可以尝试多跟进一下",
+"快照：http_error"
 ],
 "risks": [
-"官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-"群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触"
 ],
 "saga_fit": {
-"p1": "STC-448DGGPM",
-"tier": 25,
-"why": "48 口 PoE 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STI-110GE",
+"tier": 30,
+"why": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供"
 },
-"email_hook": "Anek, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?"
 }
 },
 {
@@ -115952,8 +115992,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（http_error）",
-"summary": "新加坡经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「工业FS」；群发 15 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "新加坡 GREP（grep.sg；表内「工业 FS」；KP Robin Luo（Managing Director）；官网 http_error）；群发 15 次无回复。",
+"type": "IT/工业网络公司（新加坡）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -115963,42 +116003,56 @@
 "quote": "工业FS",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS",
+"quote": "工业FS",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Robin Luo",
+"title": "Managing Director",
+"email": "robin@grep.sg",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "新加坡",
 "other": "官网 grep.sg，语言 ?，快照状态 http_error；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核，新加坡）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "IT/工业网络公司（新加坡）",
 "region": "新加坡",
 "contact": "info@grep.sg、robin@grep.sg"
 },
 "signals": [
-"用户表兴趣/备注：工业FS"
+"表内：工业 FS；KP Robin Luo / Managing Director",
+"快照：http_error"
 ],
 "risks": [
-"官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-"群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，新加坡）；官网 http_error（业务待核）；15 次无回复 → 改向 MD 具名首触"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
+"p1": "STI-280GE",
 "tier": 25,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
 },
-"email_hook": "Robin, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+"email_hook": "Robin, for the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?"
 }
 },
 {
@@ -116428,17 +116482,17 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 北美/美国"
 ],
-"c_sub": "",
+"c_sub": "无邮箱",
 "status": "名单内·未触达",
 "code": "SB-1073",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1073",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（http_error）",
-"summary": "美国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「EOC MC switch等」；表内未见跟进记录。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "美国 IEC（iec.net；表内「EoC MC switch 等」；无邮箱；官网 http_error）；表内未跟进。",
+"type": "网络产品商（美国，无邮箱）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -116448,40 +116502,48 @@
 "quote": "EOC MC switch等",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "EoC MC switch 等",
+"quote": "EOC MC switch等",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "无邮箱且官网不可达；c_sub=无邮箱",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "美国",
 "other": "官网 iec.net，语言 ?，快照状态 http_error；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核，美国）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "网络产品商（美国，无邮箱）",
 "region": "美国",
 "contact": "（表内无邮箱）"
 },
 "signals": [
-"用户表兴趣/备注：EOC MC switch等"
+"表内：EOC MC switch 等；无邮箱",
+"快照：http_error"
 ],
 "risks": [
-"官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+"无邮箱（无法联系）；官网 http_error"
 ],
 "saga_fit": {
-"p1": "STI-110GE",
-"tier": 25,
-"why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "无邮箱、官网不可达 → 改 C（无法联系）"
 },
-"email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+"email_hook": "（不发送：无邮箱）"
 }
 },
 {
@@ -117736,15 +117798,24 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（http_error）",
-"summary": "澳大利亚经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「工业FS 工业MC 产品比较少 很多是周边产品 AOA的」；群发 24 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "澳大利亚 Krysma（工业 FS、工业 MC 产品较少，多为 AOA 周边产品；「可以多跟进一下」；官网 http_error）；群发 24 次无回复。",
+"type": "工业网络配件经销商（澳大利亚，AOA）",
 "size": "",
-"brands_seen": [],
+"brands_seen": [
+"AOA"
+],
 "evidence": [
 {
 "kind": "用户表",
 "claim": "表内兴趣/备注",
 "quote": "工业FS 工业MC 产品比较少 很多是周边产品 AOA的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS/MC 少 AOA 周边",
+"quote": "工业FS 工业MC 产品比较少 很多是周边产品 AOA的；可以多跟进一下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -117755,34 +117826,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "澳大利亚",
 "other": "官网 krysma.com.au，语言 ?，快照状态 http_error；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"工业网络配件经销（澳大利亚）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "工业网络配件经销商（澳大利亚，AOA）",
 "region": "澳大利亚",
 "contact": "sales@krysma.com.au"
 },
 "signals": [
-"用户表兴趣/备注：工业FS 工业MC 产品比较少 很多是周边产品 AOA的"
+"表内：工业 FS 工业 MC 产品比较少 很多是周边产品 AOA 的；可以多跟进一下",
+"快照：http_error"
 ],
 "risks": [
-"官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-"群发 24 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，澳大利亚；RCM 由客户侧）；产品少、周边为主；官网 http_error；24 次无回复，仅 sales@"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
-"tier": 25,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STI-110GE",
+"tier": 20,
+"why": "工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）"
 },
-"email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+"email_hook": "Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most?"
 }
 },
 {
@@ -118185,8 +118255,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（unreachable）",
-"summary": "澳大利亚经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP；https://www.ksm.com.au/industrial-grade-managed」；群发 22 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。",
+"type": "工业网络经销商（澳大利亚，国内货源在供）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -118196,42 +118266,63 @@
 "quote": "工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP；https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "KSM 产品页",
+"quote": "ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
+"url": "https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "常总的工业 FS",
+"quote": "工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Kevin",
+"title": "（职务待核）",
+"email": "kevin@ksm.com.au",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "澳大利亚",
 "other": "官网 ksm.com.au，语言 ?，快照状态 unreachable；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"工业网络产品经销（澳大利亚）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "工业网络经销商（澳大利亚，国内货源在供）",
 "region": "澳大利亚",
 "contact": "sales@ksm.com.au、kevin@ksm.com.au"
 },
 "signals": [
-"用户表兴趣/备注：工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP；https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m"
+"表内：工业 MC 很多外壳 有像国内的 常总的工业 FS 商业 FS SFP；备注 https://www.ksm.com.au/industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin 质量高",
+"快照：unreachable"
 ],
 "risks": [
-"官网快照失败（unreachable）：域名/证书待核，邮件可能退回",
-"群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，澳大利亚；RCM 由客户侧）；已有国内供应商（比价激烈）；官网 unreachable；22 次无回复"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
-"tier": 25,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STI-280GE",
+"tier": 20,
+"why": "工业 L2 管理交换机位（现国内货源）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）"
 },
-"email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+"email_hook": "Kevin, for the industrial managed switch and MC positions on your site, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which SKU do your Australian customers reorder most?"
 }
 },
 {
@@ -123885,14 +123976,21 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（unreachable）",
-"summary": "韩国经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「switch」；群发 23 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "韩国 Triplenet（triplenet.co.kr；表内「switch」；官网 unreachable，业务待核）；群发 23 次无回复。",
+"type": "网络公司（韩国，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
 {
 "kind": "用户表",
 "claim": "表内兴趣/备注",
+"quote": "switch",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "switch",
 "quote": "switch",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
@@ -123904,34 +124002,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "韩国",
 "other": "官网 triplenet.co.kr，语言 ?，快照状态 unreachable；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核，韩国）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "网络公司（韩国，待核）",
 "region": "韩国",
 "contact": "triplehris@triplenet.co.kr"
 },
 "signals": [
-"用户表兴趣/备注：switch"
+"表内：switch",
+"快照：unreachable"
 ],
 "risks": [
-"官网快照失败（unreachable）：域名/证书待核，邮件可能退回",
-"群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，韩国；KC 由客户侧）；官网 unreachable（业务待核）；23 次无回复"
 ],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
 },
-"email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; KC by your side — which port count do your customers order most?"
 }
 },
 {
@@ -125252,8 +125349,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（unreachable）",
-"summary": "韩国经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「switch」；群发 22 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "韩国 View-tel（view-tel.co.kr；表内「switch」「可以尝试多跟进一下」；官网 unreachable）；群发 22 次无回复。",
+"type": "网络/通信公司（韩国，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -125261,6 +125358,13 @@
 "kind": "用户表",
 "claim": "表内兴趣/备注",
 "quote": "switch",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "switch",
+"quote": "switch；可以尝试多跟进一下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -125271,34 +125375,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "韩国",
 "other": "官网 view-tel.co.kr，语言 ?，快照状态 unreachable；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核，韩国）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "网络/通信公司（韩国，待核）",
 "region": "韩国",
 "contact": "sales@view-tel.co.kr"
 },
 "signals": [
-"用户表兴趣/备注：switch"
+"表内：switch；可以尝试多跟进一下",
+"快照：unreachable"
 ],
 "risks": [
-"官网快照失败（unreachable）：域名/证书待核，邮件可能退回",
-"群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，韩国；KC 由客户侧）；官网 unreachable（业务待核）；22 次无回复"
 ],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
 },
-"email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; KC by your side — which port count do your customers order most?"
 }
 },
 {
@@ -126125,8 +126228,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（http_error）",
-"summary": "韩国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「MC switch等」；群发 23 次、无回复。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。",
+"type": "网络产品公司（韩国，待核）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -126134,6 +126237,13 @@
 "kind": "用户表",
 "claim": "表内兴趣/备注",
 "quote": "MC switch等",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC switch 等",
+"quote": "MC switch等；可以尝试多跟进一下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -126144,34 +126254,33 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "韩国",
 "other": "官网 zenithtek.co.kr，语言 ?，快照状态 http_error；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（待核，韩国）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "网络产品公司（韩国，待核）",
 "region": "韩国",
 "contact": "zenithtek@zenithtek.co.kr"
 },
 "signals": [
-"用户表兴趣/备注：MC switch等"
+"表内：MC switch 等；可以尝试多跟进一下",
+"快照：http_error"
 ],
 "risks": [
-"官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-"群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复"
 ],
 "saga_fit": {
 "p1": "STI-110GE",
-"tier": 25,
-"why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"tier": 20,
+"why": "MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）"
 },
-"email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+"email_hook": "For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most?"
 }
 },
 {
@@ -136565,17 +136674,17 @@
 "+3 区域 中东/伊拉克",
 "+2 最近活动 2024"
 ],
-"c_sub": "",
+"c_sub": "区域外/个人买家",
 "status": "名单内·未触达",
 "code": "SB-1129",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1129",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "无域名",
-"summary": "伊拉克经销/集成（类型待核，无官网快照）：无域名/未快照；表内「1光6工业交换机 / from: 自建站」；表内未见跟进记录。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "伊拉克「AHF」（自建站询盘「1 光 6 工业交换机」；KP Muhammad Sultan，仅 gmail；无公司域名）；表内未跟进。",
+"type": "零散询盘（伊拉克，免费邮箱）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -136585,41 +136694,47 @@
 "quote": "1光6工业交换机 / from: 自建站",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "1 光 6 工业交换机询盘",
+"quote": "1光6工业交换机 / from: 自建站",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "区域外零散询盘（免费邮箱）；c_sub=区域外/个人买家",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "伊拉克",
 "other": "无官网快照；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（零散询盘）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "零散询盘（伊拉克，免费邮箱）",
 "region": "伊拉克",
 "contact": "mohamedsoultan705@gmail.com"
 },
 "signals": [
-"用户表兴趣/备注：1光6工业交换机 / from: 自建站"
+"表内：1 光 6 工业交换机 / from: 自建站；KP Muhammad Sultan；mohamedsoultan705@gmail.com"
 ],
 "risks": [
-"无域名或未快照：仅表内信息，身份待核",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"区域外（伊拉克）；仅 gmail 免费邮箱、无公司域名"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
-"tier": 25,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "区域外、仅免费邮箱、无公司域名 → 改 C"
 },
-"email_hook": "Muhammad, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+"email_hook": "（不发送：区域外/个人）"
 }
 },
 {
@@ -137038,17 +137153,17 @@
 "+0 区域 俄语区/亚美尼亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "区域外/个人买家",
 "status": "名单内·未触达",
 "code": "SB-1130",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1130",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "无域名",
-"summary": "亚美尼亚经销/集成（类型待核，无官网快照）：无域名/未快照；表内「24口商业switch / from: 阿里巴巴RFQ」；表内未见跟进记录。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "亚美尼亚「Amazon IMPORT」（阿里巴巴 RFQ「24 口商业 switch」；KP Georgi Vardanov，仅 gmail；无公司域名）；表内未跟进。",
+"type": "零散 RFQ（亚美尼亚，免费邮箱）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -137058,41 +137173,47 @@
 "quote": "24口商业switch / from: 阿里巴巴RFQ",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "24 口商业 switch RFQ",
+"quote": "24口商业switch / from: 阿里巴巴RFQ",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "区域外零散 RFQ（免费邮箱）；c_sub=区域外/个人买家",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "亚美尼亚",
 "other": "无官网快照；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（零散 RFQ）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
+"role": "零散 RFQ（亚美尼亚，免费邮箱）",
 "region": "亚美尼亚",
 "contact": "vardanovgosha317@gmail.com"
 },
 "signals": [
-"用户表兴趣/备注：24口商业switch / from: 阿里巴巴RFQ"
+"表内：24 口商业 switch / from: 阿里巴巴 RFQ；KP Georgi Vardanov；vardanovgosha317@gmail.com"
 ],
 "risks": [
-"无域名或未快照：仅表内信息，身份待核",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"区域外（亚美尼亚）；仅 gmail 免费邮箱、无公司域名"
 ],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "区域外、仅免费邮箱、无公司域名 → 改 C"
 },
-"email_hook": "Georgi, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：区域外/个人）"
 }
 },
 {
@@ -137101,9 +137222,9 @@
 "names": [
 "BGTRONICA LTD"
 ],
-"country": "格鲁吉亚",
-"iso": "GE",
-"region": "俄语区",
+"country": "保加利亚",
+"iso": "BG",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "bgtronica.com"
@@ -137230,17 +137351,17 @@
 "+0 区域 俄语区/格鲁吉亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "陈旧询盘/品类不符",
 "status": "名单内·未触达",
 "code": "SB-1131",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1131",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "快照失败（unreachable）",
-"summary": "格鲁吉亚经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「无人机；2010年使用国际站 359 - 884 - 213695 加不上 BG , Sofia , Sofia , 5 Tzar Kaloyan；无人机 / 」；表内未见跟进记录。",
-"type": "经销/集成（类型待核，无官网快照）",
+"summary": "保加利亚 BGTRONICA LTD（表内国别格鲁吉亚为误记，地址索非亚；2010 年阿里巴巴 RFQ「无人机」；KP Teodor Kazandjiev（Sales Representative），仅 gmail；电话加不上；官网 unreachable）；表内未跟进。",
+"type": "陈旧询盘（2010，无人机，免费邮箱）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -137250,42 +137371,51 @@
 "quote": "无人机；2010年使用国际站 359 - 884 - 213695 加不上 BG , Sofia , Sofia , 5 Tzar Kaloyan；无人机 / from: 阿里巴巴RFQ",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "2010 无人机 RFQ",
+"quote": "2010年使用国际站 ... 无人机 / from: 阿里巴巴RFQ",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "陈旧询盘（2010）且品类不符；c_sub=陈旧询盘/品类不符",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "格鲁吉亚",
 "other": "官网 bgtronica.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"（陈旧询盘，保加利亚）"
 ],
 "channels": {
-"role": "经销/集成（类型待核，无官网快照）",
-"region": "格鲁吉亚",
+"role": "陈旧询盘（2010，无人机，免费邮箱）",
+"region": "保加利亚",
 "contact": "teodorkazandjiev87@gmail.com"
 },
 "signals": [
-"用户表兴趣/备注：无人机；2010年使用国际站 359 - 884 - 213695 加不上 BG , Sofia , Sofia , 5 Tzar Kaloyan；无人机 / from: 阿里巴巴RFQ"
+"表内：2010 年使用国际站；BG, Sofia, 5 Tzar Kaloyan；无人机 / from: 阿里巴巴 RFQ；KP Teodor Kazandjiev, Sales Representative",
+"快照：unreachable"
 ],
 "risks": [
-"官网快照失败（unreachable）：域名/证书待核，邮件可能退回",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"陈旧询盘（2010 年）；品类不符（无人机）；仅 gmail 免费邮箱；官网 unreachable；小国"
 ],
 "saga_fit": {
-"p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "2010 年陈旧询盘、品类无人机、仅免费邮箱、官网不可达 → 改 C；国别改保加利亚"
 },
-"email_hook": "Teodor, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
-}
+"email_hook": "（不发送：陈旧询盘）",
+"country_fix": "保加利亚"
+},
+"country_table": "格鲁吉亚"
 },
 {
 "name": "DC Engineering & Solution GmbH",
@@ -139639,17 +139769,17 @@
 "+3 区域 亚太/韩国",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "无邮箱",
 "status": "名单内·未触达",
 "code": "SB-1142",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1142",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（yjsoft.kr，快照 2026-10-21）",
-"summary": "韩国网络/安防经销或集成（官网未见角色词，待核）：官网「YJSOFT」（en）；表内「Bypass / from: 阿里巴巴询盘」；表内未见跟进记录。",
-"type": "网络/安防经销或集成（官网未见角色词，待核）",
+"summary": "韩国 YJSOFT（yjsoft.kr；阿里巴巴询盘「Bypass」；KP YJ Jeon；无邮箱）；表内未跟进。",
+"type": "软件/IT 公司（韩国，无邮箱）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -139666,41 +139796,48 @@
 "quote": "Bypass / from: 阿里巴巴询盘",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Bypass 询盘",
+"quote": "Bypass / from: 阿里巴巴询盘",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "无邮箱；c_sub=无邮箱",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "韩国",
 "other": "官网 yjsoft.kr，语言 en，快照状态 ok；角色判定来源：待核"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"软件 / IT（韩国）"
 ],
 "channels": {
-"role": "网络/安防经销或集成（官网未见角色词，待核）",
+"role": "软件/IT 公司（韩国，无邮箱）",
 "region": "韩国",
 "contact": "（表内无邮箱）"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://yjsoft.kr/）",
-"用户表兴趣/备注：Bypass / from: 阿里巴巴询盘"
+"表内：Bypass / from: 阿里巴巴询盘；KP YJ Jeon；无邮箱",
+"快照：YJSOFT（内容空）"
 ],
 "risks": [
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"无邮箱（无法联系）；非主攻区（韩国）；bypass 款不在 Saga 列表"
 ],
 "saga_fit": {
-"p1": "STC-28DGGPM",
-"tier": 25,
-"why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": null,
+"tier": 20,
+"why": "无邮箱、非主攻区、bypass 款不在 Saga 列表 → 改 C"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：无邮箱）"
 }
 },
 {
@@ -425209,17 +425346,17 @@
 "+8 区域 欧洲/法国",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "体量过大",
 "status": "已推送 7 次·未回复",
 "code": "SB-991",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-991",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "无域名",
-"summary": "法国分销商/经销商：无域名/未快照；表内「大型分销商」；群发 7 次、无回复。",
-"type": "分销商/经销商",
+"summary": "Farnell（element14 / Avnet 旗下全球电子元件分销巨头；表内联系为芬兰销售邮箱 myynti@ 与 sales@；表内「大型分销商」；国别记为法国）；群发 7 次无回复。",
+"type": "电子分销巨头（Farnell）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -425229,40 +425366,47 @@
 "quote": "大型分销商",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "大型分销商",
+"quote": "大型分销商",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "巨头（Farnell/Avnet）；c_sub=体量过大",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "法国",
 "other": "无官网快照；角色判定来源：用户表"
 },
 "business_lines": [
-"（官网无品类词 / 无快照：按表内兴趣）"
+"电子元件分销（跨国巨头）"
 ],
 "channels": {
-"role": "分销商/经销商",
+"role": "电子分销巨头（Farnell）",
 "region": "法国",
 "contact": "myynti@farnell.com、sales@farnell.com"
 },
 "signals": [
-"用户表兴趣/备注：大型分销商"
+"表内：大型分销商；myynti@farnell.com / sales@farnell.com"
 ],
 "risks": [
-"无域名或未快照：仅表内信息，身份待核"
+"体量：Farnell / Avnet 集团；仅通用销售邮箱；7 次无回复；国别待核（联系为芬兰邮箱，总部英国）"
 ],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
+"p1": null,
 "tier": 20,
-"why": "分销/网店 → 24 口 PoE L2+ 走量款（来源：角色默认；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "全球分销巨头（供应商准入体系）→ 改 C"
 },
-"email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+"email_hook": "（不发送：巨头）"
 }
 },
 {
