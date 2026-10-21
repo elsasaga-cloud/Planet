@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（avanis.de，快照 2026-10-21）",
- "summary": "德国安防集成/经销：官网「Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik」（de-DE）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Fortinet；站内型号：ECS-4650-54P、IEEE802、SFP28、NV-202G；表内「Edgecore等牌子」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。",
+ "type": "网络/WLAN 系统集成商（德国，Edgecore 在用）",
  "size": "",
  "brands_seen": [
-  "Fortinet"
+  "Fortinet",
+  "Edgecore"
  ],
  "evidence": [
   {
@@ -23,41 +24,79 @@
    "quote": "Edgecore等牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Avanis 定位",
+   "quote": "Avanis ist Ihr Experte für Netzwerktechnik & WLAN-Lösungen. Von Switches bis zur RTLS-Ortung – wir planen & liefern Ihre Infrastruktur.",
+   "url": "https://avanis.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Edgecore 等牌子",
+   "quote": "Edgecore等牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Thomas Passlack",
+   "title": "（表内联系人）",
+   "email": "tpasslack@avanis.de",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Valentin Kaiser",
+   "title": "Application Developer",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 avanis.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络 / WLAN / RTLS 系统集成"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "网络/WLAN 系统集成商（德国，Edgecore 在用）",
   "region": "德国",
   "contact": "info@avanis.de、tpasslack@avanis.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://avanis.de/）",
-  "官网公开邮箱：e-commerce@avanis.de、info@avanis.de、marketing@avanis.de",
-  "用户表兴趣/备注：Edgecore等牌子"
+  "官网：Avanis ist Ihr Experte für Netzwerktechnik & WLAN-Lösungen. Von Switches bis zur RTLS-Ortung；站内 ECS-4650-54P / NV-202G",
+  "KP：Thomas Passlack；Valentin Kaiser / Application Developer（表内）"
  ],
- "risks": [],
+ "risks": [
+  "集成商项目型采购：量随项目；Edgecore/Fortinet 既定线",
+  "无跟进记录 → 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
+  "p1": "STC-448XGGPM",
   "tier": 25,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线"
  },
- "email_hook": "Thomas, alongside the Fortinet lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?",
+ "products_seen": [
+  {
+   "brand": "Edgecore",
+   "model": "ECS4650-54P",
+   "spec": "48 PoE + 4×10G L2/L3",
+   "saga": "STC-448XGGPM",
+   "url": "https://avanis.de/",
+   "date": "2026-10-21"
+  }
+ ]
 }

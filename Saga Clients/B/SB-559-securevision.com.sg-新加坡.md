@@ -2,7 +2,7 @@
 
 > **评级 B**　|　新加坡　|　档案编号 `SB-559`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 15 次（2024-06-03 → 2025-10-14）　|　**所在清单**：A优质名单(Singapore)、AI评估(SG)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）（推断）　|　**历史关系**：推送 15 次（2024-06-03 → 2025-10-14）　|　**所在清单**：A优质名单(Singapore)、AI评估(SG)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-559
@@ -12,7 +12,7 @@ score: 38
 country: 新加坡
 region: 亚太
 website: securevision.com.sg
-type: 安防集成/经销
+type: 安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）
 tier_tags: ["A优质名单(Singapore)", "AI评估(SG)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：新加坡安防集成/经销：官网「Security Systems & Solutions Singapore | Securevision」（en-GB）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；产品页：industrial、logistics、tech-park、manufacturing；表内「商业POE 洪瑞的」；群发 15 次、无回复。（调研 2026-10-21；表内兴趣：商业POE 洪瑞的）
+- **是谁**：新加坡 Securevision（安防系统集成：CCTV、门禁、对讲、报警；行业页工业/物流/科技园/制造；表内「商业 PoE，洪瑞（HRUI）的」「可以多跟进一下」；KP Wee Ler（ler@）、Abdul Hameed（Technical Specialist））；群发 15 次无回复。（调研 2026-10-21；表内兴趣：商业POE 洪瑞的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-06-03 → 2025-10-14）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）管理型上位；工业场景 STI-288GPM；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | securevision.com.sg（取自域名，公司全名待核） | 推断 |
 | 国家 | 新加坡 | 事实（用户表）|
 | 网站/域名 | securevision.com.sg | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 / Wee Ler / Abdul Hameed / Technical Specialist | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE 洪瑞的 | 事实（用户表） |
@@ -65,32 +65,40 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（securevision.com.sg，快照 2026-10-21）
-- **是谁**：新加坡安防集成/经销：官网「Security Systems & Solutions Singapore | Securevision」（en-GB）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；产品页：industrial、logistics、tech-park、manufacturing；表内「商业POE 洪瑞的」；群发 15 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：新加坡 Securevision（安防系统集成：CCTV、门禁、对讲、报警；行业页工业/物流/科技园/制造；表内「商业 PoE，洪瑞（HRUI）的」「可以多跟进一下」；KP Wee Ler（ler@）、Abdul Hameed（Technical Specialist））；群发 15 次无回复。
+- **类型**：安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）
+- **在卖/在用品牌**：HRUI, Hikvision
 - **【官网快照】官网标题：Security Systems & Solutions Singapore | Securevision；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
   > Securevision delivers expert security systems in Singapore. Explore our CCTV, access control, intercom, and alarm solutions for your property.
   > 来源：https://securevision.com.sg/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业POE 洪瑞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Securevision 定位**
+  > Securevision delivers expert security systems in Singapore. Explore our CCTV, access control, intercom, and alarm solutions for your property.
+  > 来源：https://securevision.com.sg/（抓取 2026-10-21）
+- **【用户表】商业 PoE 洪瑞的**
+  > 商业POE 洪瑞的；可以多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Wee Ler（）ler@securevision.com.sg 〔用户表〕
+- **KP**：Abdul Hameed（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 新加坡 |
 | 其他 | 官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 新加坡；contact: sales@securevision.com.sg、ler@securevision.com.sg
+- **业务线**：安防系统集成（CCTV / 门禁 / 对讲 / 报警）
+- **触达通道（公开）**：role: 安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）；region: 新加坡；contact: sales@securevision.com.sg、ler@securevision.com.sg
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://securevision.com.sg/）
-  - 官网公开邮箱：enquiry@securevision.com.sg、name@email.com、your@email.com
-  - 用户表兴趣/备注：商业POE 洪瑞的
-- **风险/边界**：群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）；表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Wee, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 页面 /solutions/industrial、/solutions/industrial/logistics、/solutions/industrial/tech-park、/solutions/industrial/manufacturing；kw camera 132 / cctv 83 / access control 75 / industrial 61
+  - 表内：商业 PoE 洪瑞的；KP Wee Ler；Abdul Hameed / Technical Specialist
+- **风险/边界**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；非主攻区（T5）；15 次无回复 → 改向具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）管理型上位；工业场景 STI-288GPM
+- **邮件切入句（英文）**：Wee Ler, for the PoE switches behind your CCTV and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ managed units and DIN-rail industrial 8-PoE models for logistics and manufacturing sites from small lots, CE/RoHS — which do your projects need more often, managed or industrial?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -150,7 +158,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wee Ler | — | sales@securevision.com.sg / ler@securevision.com.sg | 用户表原值 | Clients/ 表 |
+| Wee Ler | — | ler@securevision.com.sg | 调研核实（公开页） | 用户表 |
+| Abdul Hameed | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -167,7 +176,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）管理型上位；工业场景 STI-288GPM | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -220,9 +229,9 @@ updated: 2026-10-21
 ```text
 Hi Wee,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Wee, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Wee Ler, for the PoE switches behind your CCTV and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ managed units and DIN-rail industrial 8-PoE models for logistics and manufacturing sites from small lots, CE/RoHS — which do your projects need more often, managed or industrial?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

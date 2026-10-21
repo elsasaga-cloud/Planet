@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（bma-networks.com，快照 2026-10-21）",
- "summary": "德国IT / 网络安全服务商（交换机为附带）：官网「dierckgroup – IT, Service & Technik für Unternehmen」（de）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE；站内品牌：Zyxel、Fortinet；站内型号：NIS-2、DOKOM21、DSW21；表内「Networking」；群发 3 次、无回复。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
+ "type": "企业 IT 系统集成商（德国，Extreme 生态）",
  "size": "",
  "brands_seen": [
   "Zyxel",
-  "Fortinet"
+  "Fortinet",
+  "Extreme"
  ],
  "evidence": [
   {
@@ -24,44 +25,62 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "dierckgroup 定位",
+   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen ; DEUTZ AG – Industrial Ethernet ; Netzwerkdesign mit Extreme Fabric",
+   "url": "https://www.dierck-group.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mats Hansen",
+   "title": "Technical Lead",
+   "email": "mats.hansen@bma-networks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "企业 IT / 网络 / OT 安全系统集成"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "企业 IT 系统集成商（德国，Extreme 生态）",
   "region": "德国",
   "contact": "info@bma-networks.com、mats.hansen@bma-networks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dierck-group.com/）",
-  "在售同口型交换品牌：Zyxel → 直接对位替换",
-  "官网公开邮箱：bewerbung@dierck-gruppe.de、ma@dierck.de、nils.newe@dierck.de",
-  "用户表兴趣/备注：Networking"
+  "首页案例：Netzwerkdesign mit Extreme Fabric ; DEUTZ AG – Industrial Ethernet ; Buchholz Digital GmbH – FTTH-Ausbau ; Nordmark Pharma – Modulares Rechenzentrum",
+  "页面 /case-studies/deutz-ag-industrial-ethernet/、/it-solutions/cyber-security/industrial-security-ot/；kw datacenter 45 / industrial 29"
  ],
  "risks": [
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期"
+  "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
+  "集成商项目型采购；3 次跟进无回复 → 改向 Technical Lead 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 34、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：IT / 网络安全服务商（交换机为附带）→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替"
  },
- "email_hook": "Mats, alongside the Zyxel / Fortinet lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?"
 }

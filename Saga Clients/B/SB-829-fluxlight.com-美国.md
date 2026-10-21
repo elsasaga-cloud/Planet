@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-829`　|　优先级 ★★　|　状态：已推送 19 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2024-05-08 → 2025-10-24）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光收发器自有品牌商（美国，MC 为副线，OEM 采购）（推断）　|　**历史关系**：推送 19 次（2024-05-08 → 2025-10-24）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-829
@@ -12,7 +12,7 @@ score: 32
 country: 美国
 region: 北美
 website: fluxlight.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 光收发器自有品牌商（美国，MC 为副线，OEM 采购）
 tier_tags: ["A优质名单(US)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「FluxLight | Optical Transceiver Solutions, Cables & Media Converters」（en）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Cisco、Juniper、D-Link、Aruba、Allied Telesis、Netgear；站内型号：MPO12、SFP28、OSFP112、SFP-10；表内「MC SFP（主要）机架 自己的logo」；群发 19 次、无回复。（调研 2026-10-21；表内兴趣：MC SFP（主要）机架 自己的logo）
+- **是谁**：美国 FluxLight（光收发器与互连产品制造/品牌：Cisco/Juniper/Aruba 等兼容 SFP/SFP28/QSFP、DAC、MC、机架；表内「MC / SFP（主要）/ 机架，自己的 logo」）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：MC SFP（主要）机架 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-08 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | fluxlight.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | fluxlight.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 光收发器自有品牌商（美国，MC 为副线，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | FB | 事实（用户表） |
 | 兴趣（Interested in） | MC SFP（主要）机架 自己的logo | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（fluxlight.com，快照 2026-10-21）
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「FluxLight | Optical Transceiver Solutions, Cables & Media Converters」（en）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Cisco、Juniper、D-Link、Aruba、Allied Telesis、Netgear；站内型号：MPO12、SFP28、OSFP112、SFP-10；表内「MC SFP（主要）机架 自己的logo」；群发 19 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：美国 FluxLight（光收发器与互连产品制造/品牌：Cisco/Juniper/Aruba 等兼容 SFP/SFP28/QSFP、DAC、MC、机架；表内「MC / SFP（主要）/ 机架，自己的 logo」）；群发 19 次无回复。
+- **类型**：光收发器自有品牌商（美国，MC 为副线，OEM 采购）
 - **在卖/在用品牌**：Cisco, Juniper, D-Link, Aruba, Allied Telesis, Netgear, Huawei, H3C, Fortinet
 - **【官网快照】官网标题：FluxLight | Optical Transceiver Solutions, Cables & Media Converters；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换**
   > Build your network bigger, faster, and stronger with FluxLight. We manufacture fiber optic transceivers and interconnect products for networking use.
@@ -64,25 +64,29 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > MC SFP（主要）机架 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】FluxLight 定位**
+  > Build your network bigger, faster, and stronger with FluxLight. We manufacture fiber optic transceivers and interconnect products for networking use.
+  > 来源：https://fluxlight.com/（抓取 2026-10-21）
+- **【用户表】MC SFP 主要，机架，自己的 logo**
+  > MC SFP（主要）机架 自己的logo
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 fluxlight.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；布线 / 线缆；光纤 / 媒体转换
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 美国；contact: sales@fluxlight.com
+- **业务线**：兼容光模块 / DAC / MC（自有品牌 FluxLight）
+- **触达通道（公开）**：role: 光收发器自有品牌商（美国，MC 为副线，OEM 采购）；region: 美国；contact: sales@fluxlight.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://fluxlight.com/）
-  - 在售同口型交换品牌：D-Link、Netgear → 直接对位替换
-  - 官网公开邮箱：quotes@fluxlight.com、sales@fluxlight.com、support@fluxlight.com
-  - 用户表兴趣/备注：MC SFP（主要）机架 自己的logo
-- **风险/边界**：群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）；企业级品牌为主（Cisco/Juniper/Aruba）：Saga 白牌只作价格补充线
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Cisco / Juniper lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：We manufacture fiber optic transceivers and interconnect products for networking use；首页 SFP-H25G-CU1M-FL Cisco Compatible 25G SFP28 DAC；kw fiber 110 / sfp 61 / media converter 28
+  - 表内：MC SFP（主要）机架 自己的 logo
+- **风险/边界**：主品类 SFP/DAC：Saga 不供（Q-32），仅 MC 可对位，契合度低；19 次无回复，仅 sales@/quotes@；MC 机架 Saga 无
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）
+- **邮件切入句（英文）**：For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -156,7 +160,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（光收发器自有品牌商（美国，MC 为副线，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -211,7 +215,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Cisco / Juniper lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

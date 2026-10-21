@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tpole.it，快照 2026-10-21）",
- "summary": "意大利安防集成/经销：官网「TPole s.r.l. | Soluzioni PC based per automazione industriale ed applicazioni embedded」（it）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：PTH171、PTH173、IP69K、ACS-1000；表内「主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "意大利 TPole s.r.l.（工业自动化与嵌入式 PC-based 方案：工业 PC、嵌入式 PC、HMI、SBC、工业服务器、工业网络；表内「主要是 Volktek（台湾）的工业 FS / 工业 MC，少部分产品」「质量一般」；KP Pietro Milani（CEO & Founder，pietro.milani@）、Lorenzo Bruno（Purchase and Logistics））；表内 1 次跟进无回复。",
+ "type": "工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Volktek"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +23,69 @@
    "quote": "主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TPole 定位",
+   "quote": "TPole fornisce soluzioni PC based per automazione industriale ed applicazioni embedded: single board computer, PC embedded, HMI, server IPC e networking industriale.",
+   "url": "https://www.tpole.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要是 Volktek 的工业 FS / MC",
+   "quote": "主要是volktek的 / 工业FS 工业MC 少部分产品；卖台湾volktek牌子；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Lorenzo Bruno",
+   "title": "Purchase and Logistics",
+   "email": "info@tpole.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Pietro Milani",
+   "title": "CEO & Founder",
+   "email": "pietro.milani@tpole.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 tpole.it，语言 it，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业 PC / 嵌入式 / HMI / 工业网络分销"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）",
   "region": "意大利",
   "contact": "info@tpole.it、pietro.milani@tpole.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.tpole.it/）",
-  "官网公开邮箱：info@tpole.it、tpole@pec.tpole.it",
-  "用户表兴趣/备注：主要是volktek的；工业FS 工业MC 少部分产品 卖台湾volktek牌子"
+  "官网：TPole fornisce soluzioni PC based per automazione industriale ed applicazioni embedded: single board computer, PC embedded, HMI, server IPC e networking industriale",
+  "页面 /en/news-by-t-pole/switch-industrial-automation/、/news-by-t-pole/switch-lite-managed/；KP Pietro Milani / CEO & Founder；Lorenzo Bruno / Purchase and Logistics"
  ],
- "risks": [],
+ "risks": [
+  "Volktek（台湾）既定线；交换机为配套品类（表内「少部分产品」）",
+  "1 次跟进无回复 → 改向采购负责人具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Volktek 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）"
  },
- "email_hook": "Pietro, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Lorenzo, alongside the Volktek industrial switches and media converters you supply with your IPC and HMI lines, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which Volktek model do your customers order most?"
 }

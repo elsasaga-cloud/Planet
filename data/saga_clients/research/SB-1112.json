@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（eurobyte.co.za，快照 2026-10-21）",
- "summary": "南非电商/网店：官网「Eurobyte: Home of Premium Technology Solutions | Eurobyte」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Ruijie、Huawei、Uniview；站内型号：EG100、EG1500、EG200、EG300；表内「在用Planet的」；群发 3 次、无回复。",
- "type": "电商/网店",
+ "summary": "南非 Eurobyte（安防/网络/IT/电源方案分销：CCTV、光纤与网络布线、网络设备、机柜；PLANET 工业 4/5 口交换机与 MC 产品页（在用 PLANET）、Ruijie / Huawei / Uniview；KP Jacqueline Irshwadhar（Network Product Manager，jacqueline@）、Tiffany Hope（Sales Executive））；表内 3 次跟进无回复。",
+ "type": "IT/安防分销商（南非，PLANET 工业线在售）",
  "size": "",
  "brands_seen": [
   "Ruijie",
   "Huawei",
-  "Uniview"
+  "Uniview",
+  "PLANET"
  ],
  "evidence": [
   {
@@ -25,46 +26,87 @@
    "quote": "在用Planet的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Eurobyte 定位",
+   "quote": "Home of Premium Technology - Harness the power of high-performance technology. Eurobyte offers surveillance, networking, IT, power solutions.",
+   "url": "https://www.eurobyte.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用 Planet 的",
+   "quote": "在用Planet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jacqueline Irshwadhar",
+   "title": "Network Product Manager",
+   "email": "jacqueline@eurobyte.co.za",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Tiffany Hope",
+   "title": "Sales Executive",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "南非",
   "other": "官网 eurobyte.co.za，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防 / 网络 / IT / 电源方案分销"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "IT/安防分销商（南非，PLANET 工业线在售）",
   "region": "南非",
   "contact": "sales@eurobyte.co.za、jacqueline@eurobyte.co.za"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.eurobyte.co.za/）",
-  "在售同口型交换品牌：Ruijie → 直接对位替换",
-  "安防品牌：Uniview → PoE 配套切入",
-  "官网公开邮箱：online@eurobyte.co.za",
-  "用户表兴趣/备注：在用Planet的"
+  "页面 /network-equipment/switches/planet-switches/4-port/planet-ip30-industrial-4-port-10/…、/…/planet-switches/5-port/planet-ip30-slim-type-5-port-indu…、/…/planet-switches/media-converters/…",
+  "首页栏目 CCTV / FIBRE OPTIC CABLING / NETWORK EQUIPMENT / SERVER CABINETS；KP Jacqueline Irshwadhar / Network Product Manager"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，南非）；PLANET 既定线",
+  "3 次跟进无回复 → 改向 Network Product Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-154GP",
   "tier": 20,
-  "why": "官网快照对位：PoE 词频 7、监控 92 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）"
  },
- "email_hook": "Jacqueline, alongside the Ruijie / Huawei lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Jacqueline, alongside the PLANET IP30 industrial 4/5-port switches and media converters you list, we supply Marvell-based DIN-rail 4-PoE + 1 GE, 5-GE and gigabit MC units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which PLANET model do your installers order most?",
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IP30 Industrial 4-Port 10/100 PoE",
+   "spec": "工业 4 口 PoE",
+   "saga": "STI-154GP",
+   "url": "https://www.eurobyte.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IP30 Slim 5-Port Industrial",
+   "spec": "工业 5 口非管理",
+   "saga": "STI-050GE",
+   "url": "https://www.eurobyte.co.za/",
+   "date": "2026-10-21"
+  }
+ ]
 }

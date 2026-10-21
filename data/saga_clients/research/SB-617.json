@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（optokon.pl，快照 2026-10-21）",
- "summary": "波兰品牌商/贴牌需求（OEM/ODM）：官网「Optokon Zakład Światłowodowy - światłowody, kable światłowodowe i akcesoria.」（pl）；品类词：电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco；站内型号：LMSW-E1、OFT-920、LS-800、PM-800-G；表内「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；群发 16 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。",
+ "type": "光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）",
  "size": "",
  "brands_seen": [
-  "Cisco"
+  "Cisco",
+  "CTC Union"
  ],
  "evidence": [
   {
@@ -23,42 +24,90 @@
    "quote": "SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Optokon 栏目",
+   "quote": "Optokon Zakład Światłowodowy ; Urządzenia i sprzęt militarny ; Kable światłowodowe ; Sprzęt pomiarowy ; Transceiver SFP - 4,25 Gb/s",
+   "url": "https://www.optokon.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP switch 自己的牌子；CTC Union 的；CWDM",
+   "quote": "SFP switch 自己的牌子 大量的周边产品 / 工业FS SFP MC 周边产品 CTCU的 / CWDM Fiber optics",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Abiel Abuy",
+   "title": "Procurement & Logistics",
+   "email": "pytlak@optokon.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Erik Mikus",
+   "title": "Director of Technical",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光缆 / 光纤配件 / 测试仪制造",
+  "自有标 LMSW 交换机（CTC Union 代工）",
+  "军用设备（守界，不涉）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）",
   "region": "波兰",
   "contact": "pytlak@optokon.com、info@optokon.ua"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.optokon.pl/）",
-  "官网公开邮箱：biuro@optokon.pl、nbiuro@optokon.pl",
-  "用户表兴趣/备注：SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics"
+  "页面 /28-switche、/69-wzmocnione-switche、/urzadzenia/40-switch-lmsw-83m.html、/urzadzenia/46-switch-lmsw-e33.html",
+  "首页：Urządzenia i sprzęt militarny ; Kable światłowodowe ; Sprzęt pomiarowy ; Transceiver SFP",
+  "KP：Erik Mikus / Director of Technical；Abiel Abuy / Procurement & Logistics；Pytlak（表内）"
  ],
  "risks": [
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固",
+  "现代工 CTC Union（台湾）；SFP/CWDM 为其核心，Saga 不供；16 次无回复 → 改向采购负责人具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉"
  },
- "email_hook": "Pytlak, alongside the Cisco lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Abiel, for the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "Optokon（自有标）",
+   "model": "LMSW-E33",
+   "spec": "管理交换机（CTC Union 代工）",
+   "saga": "STC-28DGGPM / STC-424XGGM",
+   "url": "https://www.optokon.pl/urzadzenia/46-switch-lmsw-e33.html",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Optokon（自有标）",
+   "model": "LMSW-83M",
+   "spec": "8 口管理交换机",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.optokon.pl/urzadzenia/40-switch-lmsw-83m.html",
+   "date": "2026-10-21"
+  }
+ ]
 }

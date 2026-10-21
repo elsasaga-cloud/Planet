@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mir-sb.com，快照 2026-10-21）",
- "summary": "俄罗斯电商/网店：官网「Интернет магазин IP видеонаблюдения MIR-SB.com」（ru）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内型号：PX-IP-DK-GF40-P、SVN-500BQ40MPOE、PX-IP-BM20-GF40-P、SVN-500SBC20KPOE；表内「商业POE 洪瑞的」；群发 14 次、无回复。",
- "type": "电商/网店",
+ "summary": "俄罗斯 MIR-SB.com（IP 视频监控网店：IP 摄像机、NVR、电源、PoE 交换机（SVN-POE812 自有标 SVN 系列）、PoE 注入器/分离器/延长器；表内「商业 PoE，洪瑞（HRUI）的」）；群发 14 次无回复。",
+ "type": "俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-33 口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "商业POE 洪瑞的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "MIR-SB 网店",
+   "quote": "В нашем интернет-магазине систем видеонаблюдения Вы можете купить по выгодным ценам IP камеры,IP видеорегистраторы, блоки питания, POE коммутаторы",
+   "url": "https://mir-sb.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 洪瑞的",
+   "quote": "商业POE 洪瑞的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +45,42 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 mir-sb.com，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "IP 视频监控网店（自有标 SVN）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-33 口径）",
   "region": "俄罗斯",
   "contact": "mail@mir-sb.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://mir-sb.com/）",
-  "用户表兴趣/备注：商业POE 洪瑞的"
+  "页面 /poe-kommutator-svn-poe812、/poe-101-cplitter-ieee-802-3af-at、/1-portovyj-poe-inzhektor-svn-poe48、/poe-005-udlinitel-poe-po-vitoj-pare；站内 SVN-500BQ40MPOE",
+  "官网：купить … IP камеры, IP видеорегистраторы, блоки питания, POE коммутаторы；kw poe 75"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+  "俄罗斯：结算/物流受限，非主攻区（T5）；14 次无回复，仅 mail@"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 SVN 标作管理型上位"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the SVN-labelled PoE range (SVN-POE812 and up), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, CE/RoHS, EXW USD — would a managed step-up sell to your multi-camera kit buyers?",
+ "products_seen": [
+  {
+   "brand": "SVN（自有标）",
+   "model": "SVN-POE812",
+   "spec": "8 口 PoE + 2 上联（HRUI 供货）",
+   "saga": "STC-28DGGPM（Q-33 口径：只推 SmartByte 线）",
+   "url": "https://mir-sb.com/poe-kommutator-svn-poe812",
+   "date": "2026-10-21"
+  }
+ ]
 }

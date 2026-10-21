@@ -3,12 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（innowatt.it，快照 2026-10-21）",
- "summary": "意大利安防集成/经销：官网「Innowatt - Tecnologia innovativa al tuo servizio」（it）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie、Hikvision；站内型号：RS485、BL-T500-AC-ADAPTER、IEEE802、RG-NBS3200-24GT4XS；表内「工业FS 中科德能的」；群发 12 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "意大利 Innowatt（意大利电气/技术/安防材料自有品牌网店：Hikvision（35）、Uniview、Ruijie RG-NBS3200-24GT4XS、光纤配线、Anker；表内「工业 FS，中科德能的」「可以尝试多跟进一下」；邮箱 commerciale@）；群发 12 次无回复。",
+ "type": "电气/安防材料自有品牌网店（意大利，OEM 采购）",
  "size": "",
  "brands_seen": [
   "Ruijie",
-  "Hikvision"
+  "Hikvision",
+  "中科德能",
+  "Uniview"
  ],
  "evidence": [
   {
@@ -24,6 +26,20 @@
    "quote": "工业FS 中科德能的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Innowatt 品牌定位",
+   "quote": "Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone",
+   "url": "https://www.innowatt.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 中科德能的",
+   "quote": "工业FS 中科德能的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -32,37 +48,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 innowatt.it，语言 it，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电气 / 技术 / 安防材料网店（自有品牌 Innowatt）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "电气/安防材料自有品牌网店（意大利，OEM 采购）",
   "region": "意大利",
   "contact": "commerciale@innowatt.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.innowatt.it/）",
-  "在售同口型交换品牌：Ruijie → 直接对位替换",
-  "安防品牌：Hikvision → PoE 配套切入",
-  "官网公开邮箱：service@innowatt.it、shop@innowatt.it",
-  "用户表兴趣/备注：工业FS 中科德能的"
+  "官网：Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza；站内 RG-NBS3200-24GT4XS / AX3000；kw hikvision 35 / poe 29",
+  "表内：工业 FS 中科德能的"
  ],
  "risks": [
-  "群发 12 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现代工中科德能（深圳）价格基准低；网店量小",
+  "12 次无回复，仅 commerciale@，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM"
  },
- "email_hook": "Alongside the Ruijie / Hikvision lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?"
 }
