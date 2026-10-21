@@ -1,4 +1,5 @@
 # findcontrols.com
+**官方名称（调研核实）**：Ralakde Ltd / Ralakde Automation（Findcontrols，Stoke-on-Trent, UK；findcontrols.com · ralakde.co.uk）
 
 > **评级 B**　|　英国　|　档案编号 `SB-1188`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1188
 rating: B
 rating_auto: B
+name_official: "Ralakde Ltd / Ralakde Automation（Findcontrols，Stoke-on-Trent, UK；findcontrols.com · ralakde.co.uk）"
 score: 25
 country: 英国
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-448DGGPM
+p1: STI-144GP
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的分销商/经销商；兴趣/在卖：处理各种工业产品 trading 2014年使用国际站
+- **是谁**：英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。（调研 2026-10-21；表内兴趣：处理各种工业产品 trading 2014年使用国际站）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1188.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。
+- **【公司注册】法人与成立**
+  > RALAKDE LTD Registered office address: Unit 5a Victoria Road, Stoke-On-Trent, England, ST4 2HS Company status: Active … Incorporated on: 2 September 2015
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/09757591（抓取 2026-10-21）
+- **【官网】业务与网点**
+  > We are an Industrial Supplies and Repairs company in UK. We are expert in repairing and sourcing PCB, PLC, Inverters, Drives, PCB, CNC, HMI, Power Supplies … sales@ralakde.com … +44 1782 563377
+  > 来源：https://findcontrols.com/（抓取 2026-10-21）
+- **【官网】全球网点**
+  > Global Presence United Kingdom Stoke On Trent … United States Nashua, NH … Germany Waldsassen … Czech Republic Stará Voda … India Siliguri … © 2025 Ralakde Limited … Founded 2015
+  > 来源：https://findcontrols.co.uk/pages/manufacturer（抓取 2025-03-23）
+- **【名录】董事履历**
+  > Deepak Gupta … 2015 -now Founder @ Ralakde Group … 2015 -2016 PLC PRODUCTION TECH ENGINEER @ Radwell International UK Ltd
+  > 来源：https://rocketreach.co/deepak-gupta-email_879243（抓取 2026-10-21）
+- **【用户表】工业产品 trading；质量一般；WhatsApp 已加**
+  > 处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Deepak Gupta（Director / Founder（Companies House 公开））dgupta@ralakde.co.uk（用户表） +44 7887 913748（用户表，WhatsApp 已加）〔https://open.endole.co.uk/insight/company/09757591-ralakde-ltd〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司注册 + 官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Ralakde Ltd（Companies House 09757591）；Ralakde Automation Ltd（11435782） |
+| 成立 | 2015-09-02 |
+| 总部/地址 | Unit 5a Victoria Road, Stoke-on-Trent ST4 2HS（注册）；Unit 56 Winpenny Road, Newcastle-under-Lyme ST5 7RH（+44 1782 563377；sales@ralakde.com） |
+| 其他 | 工业自动化备件贸易 + 维修；网点 US/DE/CZ/IN |
+
+- **业务线**：工业自动化备件（PLC/变频/驱动/HMI/电源）贸易；工业电子维修服务
+- **触达通道（公开）**：网站: https://findcontrols.com/ · https://findcontrols.co.uk/；电话: +44 1782 563377（公开）；邮箱（公开）: sales@ralakde.com / sales@findcontrols.co.uk
+- **近况信号**：
+  - 自动化备件目录可加 DIN 导轨工业交换机（4/8 口 PoE）作配套 SKU；多国网点 = 小批多次
+- **风险/边界**：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供
+- **邮件切入句（英文）**：For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -77,7 +114,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Deepak Gupta | — | dgupta@ralakde.co.uk / deepakg158@gmail.com / +07887913748 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Deepak Gupta | Director / Founder（Companies House 公开） | dgupta@ralakde.co.uk（用户表） / +44 7887 913748（用户表，WhatsApp 已加） | 调研核实（公开页） | https://open.endole.co.uk/insight/company/09757591-ralakde-ltd |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -93,7 +130,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
+| **P1** | STI-144GP | 深挖对位：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -102,9 +139,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -114,7 +151,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -138,19 +175,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hi Deepak,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -58,22 +58,18 @@ SB-089,B,T1,linx-com.com,英国,欧洲,0,0,1,0,0,0,0,0,1,linx-com.com,1,1,1
 SA-152,B,T1,Bilge SECURITY SYSTEMS,土耳其,土耳其,0,0,1,1,0,0,1,0,0,bilgeguvenlik.com,2,1,1
 SA-162,B,T1,cansisteknoloji.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,cansisteknoloji.com,2,1,1
 SA-167,B,T1,voltechelektronik.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,voltechelektronik.com,1,1,1
-SB-111,B,T1,FOLINE,土耳其,土耳其,0,0,1,1,0,0,1,0,0,foline.com.tr,1,0,0
-SB-112,B,T1,Interpos,土耳其,土耳其,0,0,1,1,0,0,1,0,0,inter-pos.com,1,0,0
-SB-1134,B,T1,Infinity Hardware,美国,北美,0,0,1,0,0,0,0,0,0,infinityhardware.us,2,0,0
+SB-111,B,T1,FOLINE,土耳其,土耳其,0,0,1,1,0,0,1,0,0,foline.com.tr,1,1,1
+SB-112,B,T1,Interpos,土耳其,土耳其,0,0,1,1,0,0,1,0,0,inter-pos.com,1,1,1
+SB-1134,B,T1,Infinity Hardware,美国,北美,0,0,1,0,0,0,0,0,0,infinityhardware.us,2,1,1
 SB-1135,B,T1,Julien Desbrosses,法国,欧洲,0,0,1,0,0,0,0,0,0,,0,1,1
-SB-116,B,T1,Zeytek,土耳其,土耳其,0,0,1,1,0,0,1,0,0,zeytek.com.tr,1,0,0
-SB-117,B,T1,basaranelektronik.net,土耳其,土耳其,0,0,1,1,0,0,1,0,0,basaranelektronik.net,1,0,0
-SB-118,B,T1,netpardazco.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,netpardazco.com,1,0,0
-SB-1188,B,T1,findcontrols.com,英国,欧洲,0,0,1,0,0,0,0,0,0,findcontrols.com;ralakde.co.uk,2,0,0
-SB-119,B,T1,pelikanbilgisayar.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,pelikanbilgisayar.com,1,0,0
-SB-1190,B,T1,fotosmedia,波兰,欧洲,0,0,1,0,0,0,0,0,0,fotosmedia.pl,1,0,0
-SB-200,B,T1,IES El Palau Q5856208C,西班牙,欧洲,0,0,1,0,0,0,0,0,0,xtec.cat;institutelpalau.com,2,0,0
-SB-209,B,T1,alamthal.ly,土耳其,土耳其,0,0,1,1,0,0,0,0,0,alamthal.ly,1,0,0
+SB-116,B,T1,Zeytek,土耳其,土耳其,0,0,1,1,0,0,1,0,0,zeytek.com.tr,1,1,1
+SB-117,B,T1,basaranelektronik.net,土耳其,土耳其,0,0,1,1,0,0,1,0,0,basaranelektronik.net,1,1,1
+SB-1188,B,T1,findcontrols.com,英国,欧洲,0,0,1,0,0,0,0,0,0,findcontrols.com;ralakde.co.uk,2,1,1
+SB-119,B,T1,pelikanbilgisayar.com,土耳其,土耳其,0,0,1,1,0,0,1,0,0,pelikanbilgisayar.com,1,1,1
 SB-222,B,T1,fiberix.com.tr,土耳其,土耳其,0,0,1,1,0,0,0,0,0,fiberix.com.tr,2,1,1
-SB-243,B,T1,viva bilgisayar,土耳其,土耳其,0,0,1,1,0,0,0,0,0,hisvisionhatay.com;vivabilgisayar.com,2,0,0
-SB-275,B,T1,D&N ELEKTRIK MUHENDISLIK,土耳其,土耳其,0,0,1,1,0,0,1,0,0,,2,0,0
-SB-278,B,T1,PROXEET LIMITED,塞浦路斯,欧洲,0,0,1,0,0,0,0,0,0,proxeet.com,1,0,0
+SB-243,B,T1,viva bilgisayar,土耳其,土耳其,0,0,1,1,0,0,0,0,0,hisvisionhatay.com;vivabilgisayar.com,2,1,1
+SB-275,B,T1,D&N ELEKTRIK MUHENDISLIK,土耳其,土耳其,0,0,1,1,0,0,1,0,0,,2,1,1
+SB-278,B,T1,PROXEET LIMITED,塞浦路斯,欧洲,0,0,1,0,0,0,0,0,0,proxeet.com,1,1,1
 SB-286,B,T1,simplelogin.com,美国,北美,0,0,1,0,0,0,0,0,0,simplelogin.com,1,0,0
 SB-380,B,T1,BTM ELECTRONIC,土耳其,土耳其,0,0,1,1,0,0,1,0,0,btmelectronics.com,1,0,0
 SB-385,B,T1,LTE ELEKTRONIK,土耳其,土耳其,0,0,1,0,0,0,0,0,0,ebcoelectronic.com,1,0,0

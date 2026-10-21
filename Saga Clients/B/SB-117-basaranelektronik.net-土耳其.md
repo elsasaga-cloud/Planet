@@ -1,4 +1,5 @@
 # basaranelektronik.net
+**官方名称（调研核实）**：Başaran Elektronik ve Güvenlik Sistemleri（Gömeç/Balıkesir, TR；basaranelektronik.net）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-117`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-117
 rating: B
 rating_auto: B
+name_official: "Başaran Elektronik ve Güvenlik Sistemleri（Gömeç/Balıkesir, TR；basaranelektronik.net）"
 score: 52
 country: 土耳其
 region: 土耳其
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: STC-228GP
+price_tier: 25%
+research: done
 sources: 3
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：拿了彩页， 没说要什么产品
+- **是谁**：土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。（调研 2026-10-21；表内兴趣：拿了彩页， 没说要什么产品）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,39 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-117.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。
+- **【官网】业务与联系方式**
+  > Güvenlik Kamerası Sistemleri … Yangın Alarm Sistemleri … Hırsız Alarm Sistemleri … Adres : Balıkesir / Gömeç Mithatpaşa Mh. Hasan Şen Sk. 23/30 Tel : 0 (542) 744 96 95 E posta : info@basaranelektronik.net
+  > 来源：https://basaranelektronik.net/（抓取 2026-10-21）
+- **【官网】成立年**
+  > Başaran Elektronik ve Güvenlik Sistemleri, 2001 yılında Balıkesir'in Gömeç ilçesinde elektronik cihazların tamir, bakım ve onarım hizmetleri sunmak amacıyla kurulmuştur.
+  > 来源：https://basaranelektronik.com.tr/404（抓取 2026-10-21）
+- **【LinkedIn】业主**
+  > EMRAH BASARAN - BASARAN ELEKTRONİK … 25 yıllık Elektronik sektöründe hizmet vermekteyiz … Location: Gömeç
+  > 来源：https://tr.linkedin.com/in/emrah-basaran-86859130（抓取 2020-09-02）
+- **【用户表】ISAF：拿彩页，未说产品**
+  > 拿了彩页， 没说要什么产品 / 0542 744 9695 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Emrah Başaran（Boss / 业主（用户表 + LinkedIn））info@basaranelektronik.net（公开） +90 542 744 96 95（公开，WhatsApp 已加）〔https://tr.linkedin.com/in/emrah-basaran-86859130〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Başaran Elektronik ve Güvenlik Sistemleri |
+| 成立 | 2001 |
+| 总部/地址 | Mithatpaşa Mh. Hasan Şen Sk. 23/30, Gömeç / Balıkesir（+90 542 744 96 95；info@basaranelektronik.net） |
+| 其他 | 服务 Edremit 海湾（Ayvalık/Burhaniye/Gömeç）；守界：火灾报警主系统不供 |
+
+- **业务线**：CCTV 安装（住宅/商铺）；防盗/火灾报警、可视对讲
+- **触达通道（公开）**：网站: https://basaranelektronik.net/；电话: +90 542 744 96 95（公开）；邮箱（公开）: info@basaranelektronik.net
+- **近况信号**：
+  - 海湾度假区住宅/商铺 CCTV → 8 口 PoE 非管理小机为主；价格敏感
+- **风险/边界**：微型、单量小；需求未表达；无后续跟进
+- **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）
+- **邮件切入句（英文）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -78,6 +112,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Emrah Başaran | Boss / 业主（用户表 + LinkedIn） | info@basaranelektronik.net（公开） / +90 542 744 96 95（公开，WhatsApp 已加） | 调研核实（公开页） | https://tr.linkedin.com/in/emrah-basaran-86859130 |
 | Emrah Basaran | 老板 | info@basaranelektronik.net / +02663571208 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -96,20 +131,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-228GP | 深挖对位：安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2） | $30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -117,7 +152,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-228GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -141,30 +176,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Emrah,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Picking up our earlier exchange about PoE / industrial switches. Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

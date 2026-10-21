@@ -1,0 +1,82 @@
+{
+ "code": "SB-118",
+ "name_official": "NetPardaz（Net Pardaz Azar，Tabriz, 伊朗；netpardazco.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "用户表（ISAF）记录为土耳其，实为伊朗大不里士的网络/IT 工程公司 NetPardaz（نت پرداز آذر，2009/1388 年成立；11–50 人；数据中心、安防、企业网、VoIP、监控；政府与私营大项目；CEO Mehdi Pashapour）。ISAF 记录：Ayda Zahed（BD）拿了彩页、没做交谈（和中科得能聊了很久）；WhatsApp 已加（+98 914 315 87 66）；无跟进。→ C 区域外（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "LinkedIn",
+   "claim": "公司身份",
+   "quote": "NetPardaz … شرکت فنی و مهندسی نت پرداز آذر با سابقه نزديک به يک دهه فعاليت تخصصی در پروژه های بزرگ دولتی و خصوصی … Website: http://netpardazco.com/ … Company size: 11-50 employees … Specialties: Data Center, Security, Enterprise Network, VOIP, and Survelliance",
+   "url": "https://www.linkedin.com/company/netpardaz",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "招聘",
+   "claim": "成立年与城市",
+   "quote": "نت پرداز آذر … سال تاسیس 1388 … آدرس وبسایت netpardazco.com",
+   "url": "https://jobvision.ir/companies/78624/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "CEO 履历（大不里士）",
+   "quote": "Mehdi Pashapour … 2007 - now CEO @ NetPardaz … Network Security and IT R and D Headman @ Iran Tractor Manufacturing Company … Network Engineer @ Tabriz Refinery",
+   "url": "https://rocketreach.co/mehdi-pashapour-email_188921394",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：拿彩页未交谈；+98 号码",
+   "quote": "拿了彩页，没做交谈（和中科得能聊了很久） / 98 91431 58766 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ayda Zahed",
+   "role": "BD（用户表名片）",
+   "email": "zahed@netpardazco.com（用户表）",
+   "phone": "+98 914 315 87 66（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "区域外：公司实为伊朗大不里士的 IT/网络工程公司（电话 +98、波斯语官网、CEO Mehdi Pashapour），用户表国家「土耳其」为 ISAF 参展地误记；伊朗不在 Saga 区域且有制裁/收款风险",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份核对 → 区域外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Net Pardaz Azar（شرکت فنی و مهندسی نت پرداز آذر）",
+  "founded": "2009（1388）",
+  "hq": "Tabriz, Iran",
+  "size": "11–50（LinkedIn）",
+  "other": "政府/私营项目；数据中心、安防、企业网、VoIP"
+ },
+ "business_lines": [
+  "网络与 IT 工程（伊朗）"
+ ],
+ "channels": {
+  "网站": "http://netpardazco.com/ · https://netpardazco.ir/",
+  "LinkedIn": "https://www.linkedin.com/company/netpardaz"
+ },
+ "signals": [
+  "伊朗市场、制裁合规风险 → 不推进"
+ ],
+ "risks": [
+  "区域外 + 制裁/收款风险 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进（区域外）"
+ },
+ "email_hook": "（不主动发送）"
+}

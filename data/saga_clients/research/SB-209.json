@@ -1,0 +1,59 @@
+{
+ "code": "SB-209",
+ "name_official": "Alamthal（alamthal.ly，利比亚；ISAF 参展记录为土耳其）",
+ "researched_at": "2026-10-21",
+ "website_status": "未核",
+ "summary": "ISAF 记录：Khaled Kdaizim（khaled@alamthal.ly，+218 91 340 4004，WhatsApp 已加）最主要要商业级 PoE 交换机；无跟进。域名与电话均指向利比亚 → C 区域外（资料保留；若其在土耳其有法人可重开）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "利比亚域名/电话；商业 PoE 需求",
+   "quote": "最主要要商业级POE交换机 / khaled@alamthal.ly / 218 91 340 4004 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Khaled Kdaizim",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "khaled@alamthal.ly（用户表）",
+   "phone": "+218 91 340 4004（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "区域外：.ly 域名 + 电话 +218（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；利比亚不在 Saga 区域（US/CA + 欧洲 + 土耳其）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 区域外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Alamthal（待核）",
+  "hq": "Libya（.ly / +218）",
+  "size": "待核",
+  "other": "—"
+ },
+ "business_lines": [
+  "（待核）商业级 PoE 交换机采购"
+ ],
+ "channels": {
+  "网站": "http://alamthal.ly/（未核）"
+ },
+ "signals": [
+  "商业 PoE 需求明确但区域外"
+ ],
+ "risks": [
+  "区域外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进（区域外）；若 WhatsApp 主动来询可报 STC-028GP/STC-2024GP 单价"
+ },
+ "email_hook": "（不主动发送）"
+}

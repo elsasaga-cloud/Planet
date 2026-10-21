@@ -1,4 +1,5 @@
 # pelikanbilgisayar.com
+**官方名称（调研核实）**：Pelikan Bilgisayar İth. İhr.（İstanbul Şişli Perpa, TR；pelikanbilgisayar.com）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-119`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-119
 rating: B
 rating_auto: B
+name_official: "Pelikan Bilgisayar İth. İhr.（İstanbul Şişli Perpa, TR；pelikanbilgisayar.com）"
 score: 52
 country: 土耳其
 region: 土耳其
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-28GPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：没做交谈，给了名片
+- **是谁**：伊斯坦布尔 Perpa 商贸中心的 IT 硬件电商/批发商 Pelikan Bilgisayar（Perpa Ticaret Merkezi A Blok K:4 No:271 Şişli；+90 541 764 78 63；站内品类含 Digitus 布线/光纤配件、管理型 L2 千兆 PoE 交换机、Metro Ethernet 交换机、KVM、HDMI 延长器、笔记本等；主打「DIGITUS 品质」；联系人 Ahmet Karcı）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加；无后续跟进。电商 → 20%，Realtek 线 L2 PoE 入门。（调研 2026-10-21；表内兴趣：没做交谈，给了名片）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,36 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-119.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（电商）
+- **是谁**：伊斯坦布尔 Perpa 商贸中心的 IT 硬件电商/批发商 Pelikan Bilgisayar（Perpa Ticaret Merkezi A Blok K:4 No:271 Şişli；+90 541 764 78 63；站内品类含 Digitus 布线/光纤配件、管理型 L2 千兆 PoE 交换机、Metro Ethernet 交换机、KVM、HDMI 延长器、笔记本等；主打「DIGITUS 品质」；联系人 Ahmet Karcı）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加；无后续跟进。电商 → 20%，Realtek 线 L2 PoE 入门。
+- **在卖/在用品牌**：Digitus（主销）, ATEN（在售）
+- **【电商站】地址与联系方式**
+  > PELIKAN BILG. ITH.IHR. Adres : Perpa Ticaret Merkezi A Blok Sari Avlu K:4 No:271 Okmeydani -Şişli-İstanbul … E-posta : pelikanbilgisayar@hotmail.com Telefon : 0(541) 764 78 63 … Yönetilebilir Layer 2 Gigabit Ethernet PoE Switch USB VGA KVM Switch
+  > 来源：https://www.pelikanbilgisayar.com/iletisim（抓取 2026-10-21）
+- **【电商站】主打品牌**
+  > Pelikan bilgisayar hesaplı ve güvenilir teknoloji tedarikçiniz. DIGITUS KALİTESİYLE HIZINI YAKALA !! Fiber Optik Coupler/Konektör/Adaptör
+  > 来源：https://www.pelikanbilgisayar.com/（抓取 2026-10-21）
+- **【用户表】ISAF：给名片未交谈；WhatsApp 已加**
+  > 没做交谈，给了名片 / 054176 47863 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ahmet Karcı（（ISAF 名片；职务待核））bilgi@pelikanbilgisayar.com（用户表） +90 541 764 78 63（公开，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Pelikan Bilgisayar İth. İhr. |
+| 总部/地址 | Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（+90 541 764 78 63） |
+| 其他 | Digitus 产品线为主；站内已有管理型 L2 PoE 交换机品类 |
+
+- **业务线**：IT 硬件/布线配件电商与批发（Digitus 等）；网络设备（PoE 交换机、KVM、延长器）
+- **触达通道（公开）**：电商: https://www.pelikanbilgisayar.com/；电话: +90 541 764 78 63（公开）；邮箱（公开）: pelikanbilgisayar@hotmail.com
+- **近况信号**：
+  - 站内已有「Yönetilebilir Layer 2 Gigabit Ethernet PoE Switch」品类 → 直接比价上架；电商对 8 口 PoE 价格敏感
+- **风险/边界**：档口电商、比价为主；ISAF 未交谈；无后续跟进
+- **Saga 对位结论**：P1 STC-28GPM（20% 档）——电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
+- **邮件切入句（英文）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -75,6 +106,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ahmet Karcı | （ISAF 名片；职务待核） | bilgi@pelikanbilgisayar.com（用户表） / +90 541 764 78 63（公开，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Ahmet Karci | — | bilgi@pelikanbilgisayar.com / +05417647863 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -92,7 +124,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28GPM | 深挖对位：电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2） | $62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -101,9 +133,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -113,7 +145,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -137,30 +169,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Ahmet,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Picking up our earlier exchange about PoE / industrial switches. Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,0 +1,60 @@
+{
+ "code": "SB-275",
+ "name_official": "D&N Elektrik Mühendislik / D&N Yangın Güvenlik Sistemleri（TR；无域名，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Doğan Tanrıkulu（dn.elektrikmuhendislik@gmail.com / dn.yanginguvenliksistemleri@gmail.com，+90 541 549 04 37，WhatsApp 已加）——说了 Switch、交换了名片；无后续跟进。公司名表明为电气工程 + 消防安全系统承包商；无域名、无公开资料可核 → 仅表内信息。守界：消防报警主系统不供，仅配套 PoE 交换机。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：说了 Switch、交换名片；仅 Gmail",
+   "quote": "说了Switch, 交换了名片 / dn.elektrikmuhendislik@gmail.com, dn.yanginguvenliksistemleri@gmail.com / 0541 549 0437 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Doğan Tanrıkulu",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "dn.elektrikmuhendislik@gmail.com（用户表）",
+   "phone": "+90 541 549 04 37（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "D&N Elektrik Mühendislik（待核）",
+  "hq": "Türkiye（城市待核）",
+  "size": "待核（小型承包商）",
+  "other": "消防安全系统 + 电气工程；仅 Gmail 联系"
+ },
+ "business_lines": [
+  "电气工程承包",
+  "消防安全系统（守界：主系统不供）"
+ ],
+ "channels": {
+  "电话": "+90 541 549 04 37（用户表，WhatsApp 已加）"
+ },
+ "signals": [
+  "电气/消防承包商的 CCTV 配套 → 8 口 PoE 入门"
+ ],
+ "risks": [
+  "无域名、无法核实规模；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）"
+ },
+ "email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+}

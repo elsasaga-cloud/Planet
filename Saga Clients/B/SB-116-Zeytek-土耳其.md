@@ -1,4 +1,5 @@
 # Zeytek
+**官方名称（调研核实）**：Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti.（İstanbul Çekmeköy, TR；zeytek.com.tr）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-116`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-116
 rating: B
 rating_auto: B
+name_official: "Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti.（İstanbul Çekmeköy, TR；zeytek.com.tr）"
 score: 52
 country: 土耳其
 region: 土耳其
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-448DGGPM
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：没做过多交谈，要了名片和彩页
+- **是谁**：伊斯坦布尔 Çekmeköy 的弱电/布线材料供应商 Zeytek（2019 年成立，团队 15 年行业经验；2–10 人（RocketReach 5 人）；为工业设施、政府建筑、医院、银行、连锁店、高层建筑供应结构化布线、机房与基础设施材料；总协调人 Mehmet Zeytinli（ex-Legrand 企业销售、Dat Telekom、Asrack 机柜、Gunko）；Çatalmeşe Mah. Saray Cad. No:261/A Çekmeköy；+90 216 755 72 33）。ISAF 记录：没做过多交谈、要了名片和彩页；WhatsApp 已加（+90 535 662 35 48）；无后续跟进。材料供应商 → 分销 20%。（调研 2026-10-21；表内兴趣：没做过多交谈，要了名片和彩页）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,39 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-116.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：伊斯坦布尔 Çekmeköy 的弱电/布线材料供应商 Zeytek（2019 年成立，团队 15 年行业经验；2–10 人（RocketReach 5 人）；为工业设施、政府建筑、医院、银行、连锁店、高层建筑供应结构化布线、机房与基础设施材料；总协调人 Mehmet Zeytinli（ex-Legrand 企业销售、Dat Telekom、Asrack 机柜、Gunko）；Çatalmeşe Mah. Saray Cad. No:261/A Çekmeköy；+90 216 755 72 33）。ISAF 记录：没做过多交谈、要了名片和彩页；WhatsApp 已加（+90 535 662 35 48）；无后续跟进。材料供应商 → 分销 20%。
+- **【名录】公司背景与 KP**
+  > Mehmet Zeytinli is a Genel Koordinatör at Zeytek … Zeytek Bilişim ve Teknoloji Ürünleri is a company established in 2019 … With 15 years of industry experience, they provide structural cabling, data center solutions, and infrastructure materials for various sectors including industrial facilities, government buildings, hospitals, banks … Previously … Legrand Group … Dat Telekom … +90 2167557233
+  > 来源：https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670（抓取 2026-10-21）
+- **【官网】地址**
+  > (216) 755 7233 … Çatalmeşe Mah., Saray Cad., No:261/A, Çekmeköy/İSTANBUL
+  > 来源：http://zeytek.com.tr/Iletisim（抓取 2026-10-21）
+- **【名录】规模**
+  > Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. employs 5 employees. The … management team includes Mehmet Zeytinli (Genel Koordinatör)
+  > 来源：https://rocketreach.co/zeytek-bilisim-ve-teknoloji-urunleri-san-tic-ltd-sti-management_b43dfa18c19ce3fa（抓取 2026-10-21）
+- **【用户表】ISAF：要名片和彩页；WhatsApp 已加**
+  > 没做过多交谈，要了名片和彩页 / 9053566 23548 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mehmet Zeytinli（Genel Koordinatör / Director（名录公开））mehmet@zeytek.com.tr（用户表） +90 535 662 35 48（用户表，WhatsApp 已加）〔https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. |
+| 成立 | 2019 |
+| 总部/地址 | Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（+90 216 755 72 33） |
+| 其他 | 布线/机房材料供应；客户含政府建筑/医院/银行（守界：政府项目按个案） |
+
+- **业务线**：结构化布线与机房基础设施材料供应；弱电项目材料配套
+- **触达通道（公开）**：网站: http://zeytek.com.tr/；电话: +90 216 755 72 33（公开）；LinkedIn: https://tr.linkedin.com/company/zeytek-bi%CC%87li%CC%87%C5%9Fi%CC%87m-ve-teknoloji%CC%87-%C3%BCr%C3%BCnleri%CC%87-san-ti%CC%87c-ltd-%C5%9Fti%CC%87
+- **近况信号**：
+  - 布线材料商在项目 BOM 中顺带供交换机 → 8/24 口 PoE 与 MC 作配套；创始人 Legrand/机柜背景 → 懂机柜配套
+- **风险/边界**：小团队、无库存能力；ISAF 未深谈；无后续跟进
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）
+- **邮件切入句（英文）**：Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -78,7 +112,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mehmet Zeytinli | Director | mehmet@zeytek.com.tr / +905356623548 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Mehmet Zeytinli | Genel Koordinatör / Director（名录公开） | mehmet@zeytek.com.tr（用户表） / +90 535 662 35 48（用户表，WhatsApp 已加） | 调研核实（公开页） | https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -95,18 +129,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -116,7 +149,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -140,19 +173,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Mehmet,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

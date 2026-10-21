@@ -1,4 +1,5 @@
 # FOLINE
+**官方名称（调研核实）**：Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.（İstanbul Kağıthane, TR；foline.com.tr）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-111`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-111
 rating: B
 rating_auto: B
+name_official: "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.（İstanbul Kağıthane, TR；foline.com.tr）"
 score: 52
 country: 土耳其
 region: 土耳其
@@ -20,20 +22,20 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：没做交谈， 拿了名片
+- **是谁**：伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。（调研 2026-10-21；表内兴趣：没做交谈， 拿了名片）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-111.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。
+- **【官网】业务范围**
+  > FOLINE BİLİŞİM TEKNOLOJİLERi Deneyimli Kadrosu İle Veri Merkezleri, Konteyner Veri Merkezleri, Zayıf Akım Sistemleri ve Yapısal Kablolama Sistemleri konularında mühendislik, danışmanlık ve uygulama hizmetleri vermektedir … CCTV Çözümleri … Telefon Santrali … Personel Takip Ve Geçiş Sistemleri … Acil Anons … Yangın Algılama
+  > 来源：https://foline.com.tr/（抓取 2026-10-21）
+- **【官网】地址与联系方式**
+  > Telefon : 0 212 535 00 33 … info@foline.com.tr … Satış Ofisi: Premier Kampüs Kağıthane Gürsel, İmrahor Cd. No: 29, B Blok Kat 3/302 34400 Kağıthane/İstanbul
+  > 来源：https://foline.com.tr/iletisim/（抓取 2026-10-21）
+- **【用户表】ISAF：拿名片未交谈；WhatsApp 已加**
+  > 没做交谈， 拿了名片 / 90 50722 52728 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mahmut Cesur（Genel Müdür（用户表名片））mahmut.cesur@foline.com.tr（用户表） +90 507 225 27 28（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti. |
+| 总部/地址 | Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（+90 212 535 00 33；info@foline.com.tr） |
+| 其他 | 数据中心 + 集装箱数据中心 + 弱电 + 结构化布线；守界：火灾探测主系统不供 |
+
+- **业务线**：数据中心/集装箱数据中心工程；弱电系统（CCTV、门禁考勤、广播、电话交换机）与结构化布线
+- **触达通道（公开）**：网站: https://foline.com.tr/；电话: +90 212 535 00 33（公开）；邮箱（公开）: info@foline.com.tr
+- **近况信号**：
+  - 数据中心/集装箱 DC 项目需机架式 24 口 + 10G 上联 L2/L3 与 PoE 接入（CCTV/门禁）→ 一次项目 BOM 即可成单；总经理直接可达（WhatsApp）
+- **风险/边界**：ISAF 仅交换名片、需求未表达；无后续跟进
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）
+- **邮件切入句（英文）**：Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -78,7 +108,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mahmut CESUR | General Manager | mahmut.cesur@foline.com.tr / +902125350033 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Mahmut Cesur | Genel Müdür（用户表名片） | mahmut.cesur@foline.com.tr（用户表） / +90 507 225 27 28（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -95,10 +125,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -108,7 +138,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -116,7 +146,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -140,7 +170,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -150,9 +179,9 @@ updated: 2026-10-21
 ```text
 Hi Mahmut,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

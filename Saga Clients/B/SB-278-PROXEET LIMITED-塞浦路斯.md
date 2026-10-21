@@ -1,4 +1,5 @@
 # PROXEET LIMITED
+**官方名称（调研核实）**：Proxeet Limited（Paphos, CY；proxeet.com；PoE 配件与 ISP 网络设备品牌）
 
 > **评级 B**　|　塞浦路斯　|　档案编号 `SB-278`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-278
 rating: B
 rating_auto: B
+name_official: "Proxeet Limited（Paphos, CY；proxeet.com；PoE 配件与 ISP 网络设备品牌）"
 score: 45
 country: 塞浦路斯
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: none
+price_tier: 30%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：塞浦路斯的经销/集成（类型待核）
+- **是谁**：塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已加；无跟进。品牌商 → OEM 30%；但 Saga 价格表无 injector SKU → 待核型。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+2 最近活动 2024
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：— — 深挖对位：OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-278.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已加；无跟进。品牌商 → OEM 30%；但 Saga 价格表无 injector SKU → 待核型。
+- **在卖/在用品牌**：Proxeet / iBlock（自有品牌）, Chiprian（自有交换机品牌）
+- **【公司注册】法人与注册日期**
+  > PROXEET LIMITED Reg. Number ΗΕ 437925 Type Limited Company … Registration Date 31/08/2022 … Neofytou Nikolaidi, 61, YIANNIS COURT, Floor 2, Flat/Office 201 8011, Pafos, Cyprus
+  > 来源：https://i-cyprus.com/company/611007（抓取 2026-10-21）
+- **【LinkedIn】规模与行业**
+  > ProXeet … Industry: Telecommunications … Company size: 11-50 employees … Headquarters: Paphos … Founded: 2020
+  > 来源：https://www.linkedin.com/company/proxeet（抓取 2026-10-21）
+- **【官网】自有交换机产品线**
+  > Chiprian — L3 Managed Switch by PROXEET … Designed and assembled in Cyprus by Proxeet Ltd. … Enterprise-grade switching built for ISPs and SMBs … flexible PoE profiles (incl. 24V/48V passive) … Model / A1-16P … A1-24P … Total PoE Budget 150Watt
+  > 来源：https://chiprian.com/mobile（抓取 2026-10-21）
+- **【产品手册】injector 产品与制造商信息**
+  > Portable Mid-span PoE injector iBlock Essential … 26v DC (up to 25 watt) Passive PoE. 50v DC (up to 25 watt) at/af … Manufacturer: PROXEET LIMITED … Tel: +357-25100999 Email: info@proxeet.com
+  > 来源：https://proxeet.com/manual/iBlock-ET_P_A.pdf（抓取 2026-10-21）
+- **【阿里巴巴】阿里供应商账号**
+  > PROXEET LIMITED Products:PoE injector … Pafos, Cyprus Main categories: PoE injector
+  > 来源：https://cy29048306156cmwp.m.fm.alibaba.com/（抓取 2026-10-21）
+- **【用户表】RFQ：30 W PoE injector**
+  > 需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Marina Shkarpetina（Marketplace（用户表 RFQ））marketplace@proxeet.com（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司注册 + 官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | PROXEET LIMITED（HE 437925） |
+| 成立 | 2022-08-31（注册）；LinkedIn 2020 |
+| 总部/地址 | Neofytou Nikolaidi 61, Yiannis Court, Office 201, 8011 Paphos, Cyprus（+357 25 100999；info@proxeet.com） |
+| 其他 | 自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158 |
+
+- **业务线**：PoE 注入器/便携 PoE（自有品牌，亦在阿里巴巴与亚马逊销售）；Chiprian L3 管理交换机 16/24 口（被动 + 标准 PoE）；ISP 软件与网络设备
+- **触达通道（公开）**：网站: https://proxeet.com/ · https://chiprian.com/ · https://portablepoe.com/；电话: +357 25 100999（公开）；邮箱（公开）: info@proxeet.com；LinkedIn: https://www.linkedin.com/company/proxeet
+- **近况信号**：
+  - 品牌商直接 RFQ 30 W injector → OEM 贴牌量产需求；其 Chiprian 16/24 口 PoE L3 交换机线也可由 Saga OEM 商用机型（STC-424DGGPM-280W）补位
+  - 被动 24/48 V PoE 是 WISP 需求 → Saga 标准 802.3af/at/bt 机型需说明不含被动 PoE
+- **风险/边界**：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
+- **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选
+- **邮件切入句（英文）**：Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -75,7 +117,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marina Shkarpetina | — | marketplace@proxeet.com / +35796184808 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Marina Shkarpetina | Marketplace（用户表 RFQ） | marketplace@proxeet.com（用户表） / —（WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -91,10 +133,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选 | — | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -104,7 +146,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -112,7 +154,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 — 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -137,30 +179,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Marina,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

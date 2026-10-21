@@ -1,0 +1,79 @@
+{
+ "code": "SB-119",
+ "name_official": "Pelikan Bilgisayar İth. İhr.（İstanbul Şişli Perpa, TR；pelikanbilgisayar.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（电商）",
+ "summary": "伊斯坦布尔 Perpa 商贸中心的 IT 硬件电商/批发商 Pelikan Bilgisayar（Perpa Ticaret Merkezi A Blok K:4 No:271 Şişli；+90 541 764 78 63；站内品类含 Digitus 布线/光纤配件、管理型 L2 千兆 PoE 交换机、Metro Ethernet 交换机、KVM、HDMI 延长器、笔记本等；主打「DIGITUS 品质」；联系人 Ahmet Karcı）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加；无后续跟进。电商 → 20%，Realtek 线 L2 PoE 入门。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Digitus（主销）",
+  "ATEN（在售）"
+ ],
+ "evidence": [
+  {
+   "kind": "电商站",
+   "claim": "地址与联系方式",
+   "quote": "PELIKAN BILG. ITH.IHR. Adres : Perpa Ticaret Merkezi A Blok Sari Avlu K:4 No:271 Okmeydani -Şişli-İstanbul … E-posta : pelikanbilgisayar@hotmail.com Telefon : 0(541) 764 78 63 … Yönetilebilir Layer 2 Gigabit Ethernet PoE Switch USB VGA KVM Switch",
+   "url": "https://www.pelikanbilgisayar.com/iletisim",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "电商站",
+   "claim": "主打品牌",
+   "quote": "Pelikan bilgisayar hesaplı ve güvenilir teknoloji tedarikçiniz. DIGITUS KALİTESİYLE HIZINI YAKALA !! Fiber Optik Coupler/Konektör/Adaptör",
+   "url": "https://www.pelikanbilgisayar.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：给名片未交谈；WhatsApp 已加",
+   "quote": "没做交谈，给了名片 / 054176 47863 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmet Karcı",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "bilgi@pelikanbilgisayar.com（用户表）",
+   "phone": "+90 541 764 78 63（公开，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（电商站核对）"
+ },
+ "company_facts": {
+  "legal_name": "Pelikan Bilgisayar İth. İhr.",
+  "hq": "Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（+90 541 764 78 63）",
+  "size": "小型（Perpa 档口 + 仓库）",
+  "other": "Digitus 产品线为主；站内已有管理型 L2 PoE 交换机品类"
+ },
+ "business_lines": [
+  "IT 硬件/布线配件电商与批发（Digitus 等）",
+  "网络设备（PoE 交换机、KVM、延长器）"
+ ],
+ "channels": {
+  "电商": "https://www.pelikanbilgisayar.com/",
+  "电话": "+90 541 764 78 63（公开）",
+  "邮箱（公开）": "pelikanbilgisayar@hotmail.com"
+ },
+ "signals": [
+  "站内已有「Yönetilebilir Layer 2 Gigabit Ethernet PoE Switch」品类 → 直接比价上架；电商对 8 口 PoE 价格敏感"
+ ],
+ "risks": [
+  "档口电商、比价为主；ISAF 未交谈；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28GPM",
+  "tier": 20,
+  "why": "电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）"
+ },
+ "email_hook": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
+}

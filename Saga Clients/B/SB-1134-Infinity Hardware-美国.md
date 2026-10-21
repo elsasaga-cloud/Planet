@@ -1,4 +1,5 @@
 # Infinity Hardware
+**官方名称（调研核实）**：Infinity Hardware（Go Get International LLC dba，High Point NC, US；infinityhardware.us / .com）
 
 > **评级 B**　|　美国　|　档案编号 `SB-1134`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1134
 rating: B
 rating_auto: B
+name_official: "Infinity Hardware（Go Get International LLC dba，High Point NC, US；infinityhardware.us / .com）"
 score: 25
 country: 美国
 region: 北美
@@ -21,19 +23,19 @@ first_contact: unknown
 last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的分销商/经销商；兴趣/在卖：贸易公司/Cisco工业交换机 2020年使用国际站；提到的品牌：Cisco
+- **是谁**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。（调研 2026-10-21；表内兴趣：贸易公司/Cisco工业交换机 2020年使用国际站）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1134.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。
+- **在卖/在用品牌**：Cisco（转售）
+- **【官网】法人与地址**
+  > Supplier: Go Get International LLC (dba Infinity Hardware) registered in the USA, with EIN 85-3229984, Reseller ID 601316851 and registered office at 3975 Netherstone Ln, High Point, NC 27265
+  > 来源：https://infinityhardware.com/terms-and-conditions/（抓取 2025-06-24）
+- **【LinkedIn】规模与定位**
+  > We are reselling company based in High Point, North Carolina. Serving local and international customers. … Company size: 2-10 employees … Founded: 2020
+  > 来源：https://www.linkedin.com/company/infinity-hardware-us（抓取 2026-10-21）
+- **【官网】品类**
+  > Discover new and refurbished servers, storage, and network hardware … Networking Hardware Server and PC Parts Memory and Storage Wireless Power Supplies Ip Telephony … +13369446904 … Sales Queries: sales@infinityhardware.us
+  > 来源：https://infinityhardware.com/（抓取 2025-06-28）
+- **【用户表】贸易公司/Cisco 工业交换机；WhatsApp 已加**
+  > 贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Purchase Manager（姓名待核）（采购（用户表））sales@infinityhardware.us（公开） +1 336 944 6904（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Go Get International LLC（dba Infinity Hardware） |
+| 成立 | 2020 |
+| 总部/地址 | 3975 Netherstone Ln, High Point, NC 27265, USA（+1 336 944 6904；sales@infinityhardware.us） |
+| 其他 | 新品/翻新 IT 硬件转售；Cisco 等品牌；国际客户 |
+
+- **业务线**：新品与翻新服务器/存储/网络硬件转售；IP 电话、监控摄像、配件
+- **触达通道（公开）**：网站: https://infinityhardware.com/；电话: +1 336 944 6904（公开）；邮箱（公开）: sales@infinityhardware.us / info@infinityhardware.us；LinkedIn: https://www.linkedin.com/company/infinity-hardware-us
+- **近况信号**：
+  - 转售 Cisco 工业交换机 → 可用无品牌/中性包装 DIN 工业机作低价替代 SKU 上架；美国客户关注 FCC、关税（301 加征）与无 UL（Saga 仅 CE/FCC/RoHS）
+- **风险/边界**：美国关税成本；小型转售商；无 UL；无后续跟进
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
+- **邮件切入句（英文）**：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -78,7 +113,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Purchase Manager | — | info@infinityhardware.us / sales@infinityhardware.us / +13369446904 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Purchase Manager（姓名待核） | 采购（用户表） | sales@infinityhardware.us（公开） / +1 336 944 6904（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -94,7 +129,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
+| **P1** | STI-288DGGPM | 深挖对位：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -138,7 +173,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -148,7 +182,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
