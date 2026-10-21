@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（syserso.com，快照 2026-10-21）",
- "summary": "德国安防集成/经销：官网「Customized ICT Solutions. – Syserso Networks」（de-DE）；品类词：网络交换 / PoE；产品页：edgecore-industrial-ethernet-1、edgecore-industrial-ethernet、gazelle-industrial-ethernet-by-raisecom、gazelle-industrial-ethernet-von-raisecom；表内「Networking」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "德国 Syserso Networks（为关键基础设施运营商与网络运营商规划、实施与支持网络：Security、VoIP、Transport、Access；Access 栏目有 Edgecore 工业以太网、Raisecom Gazelle 工业以太网；KP Naif Kiy（Managing Director）；表内「Networking」）；表内 2 次跟进无回复。",
+ "type": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Edgecore",
+  "Raisecom"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,38 +24,62 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Syserso 定位",
+   "quote": "Customized ICT Solutions. – Syserso Networks ; Netze für Betreiber kritischer Infrastrukturen sowie für Netzbetreiber ; /en/access/edgecore-industrial-ethernet/",
+   "url": "https://www.syserso.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Naif Kiy",
+   "title": "Managing Director",
+   "email": "naif.kiy@syserso.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 syserso.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "ICT 网络规划 / 实施 / 支持（德国）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
   "region": "德国",
   "contact": "info@syserso.com、naif.kiy@syserso.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.syserso.com/）",
-  "官网公开邮箱：andreas.goldschmitt@syserso.com、carsten.tietze@syserso.com、daniel.kueper@syserso.com",
-  "用户表兴趣/备注：Networking"
+  "官网：Syserso Networks plant, realisiert und unterstützt leistungsfähige und flexible Netze für Betreiber kritischer Infrastrukturen sowie für Netzbetreiber；页面 /en/access/edgecore-industrial-ethernet/、/en/access/gazelle-industrial-ethernet-by-raisecom/",
+  "表内：Networking；KP Naif Kiy / Managing Director"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：客户为关键基础设施运营商（KRITIS）——只供民用通用工业交换机，IEC 61850-3 等认证 Saga 无；Edgecore/Raisecom 价格基准已低",
+  "2 次无回复 → 改向 MD 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-280GE",
   "tier": 25,
-  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号"
  },
- "email_hook": "Naif, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?"
 }

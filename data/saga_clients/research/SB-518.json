@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（remoteham.com，快照 2026-10-21）",
- "summary": "加拿大网络/安防经销或集成（官网未见角色词，待核）：官网「remoteham」；品类词：网络交换 / PoE；站内型号：AWSTATS-21-03-2026、QCS6490、EA935720、NET-184；表内「1X2光开关 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "加拿大 LEGF / remoteham.com（业余无线电爱好者站点「Amateur radio on the internet」；阿里巴巴 RFQ「1X2 光开关」；KP Guy Fleurant；gmail 邮箱）；表内未跟进。",
+ "type": "个人爱好者（RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,53 @@
    "quote": "1X2光开关 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "remoteham 定位",
+   "quote": "remoteham ; Amateur radio on the internet, SDR interface for transmitting purpose",
+   "url": "https://remoteham.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1X2 光开关 RFQ",
+   "quote": "1X2光开关 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "个人买家 + 免费邮箱 + 品类不符；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 remoteham.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "（个人爱好者）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "个人爱好者（RFQ）",
   "region": "加拿大",
   "contact": "guyfleurant@gmail.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://remoteham.com/）",
-  "官网公开邮箱：guyfleurant@gmail.com",
-  "用户表兴趣/备注：1X2光开关 / from: 阿里巴巴RFQ"
+  "官网：remoteham ; Amateur radio on the internet, SDR interface for transmitting purpose",
+  "表内：1X2 光开关 / from: 阿里巴巴 RFQ；KP Guy Fleurant；guyfleurant@gmail.com"
  ],
- "risks": [],
+ "risks": [
+  "个人买家（非渠道）；免费邮箱；RFQ 品类光开关 Saga 不供"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "个人业余无线电爱好者（gmail），RFQ 光开关（Saga 不供）→ 改 C"
  },
- "email_hook": "Guy, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：个人买家）"
 }

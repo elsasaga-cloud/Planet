@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "新加坡品牌商/贴牌需求（OEM/ODM）：官网快照失败（http_error）；表内「有一些交换机 自己的牌子」；群发 8 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "OMEGA Engineering（omega.com：全球测量仪器集团（原 Spectris 旗下，现 Arcline 投资集团）；联系邮箱 info@in.omega.com（印度站）；表内国别「新加坡」待核；表内「有一些交换机 自己的牌子」「可以多跟进一下」；官网 http_error）；群发 8 次无回复。",
+ "type": "测量仪器集团（自有品牌，体量大）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,46 @@
    "quote": "有一些交换机 自己的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有一些交换机 自己的牌子",
+   "quote": "有一些交换机 自己的牌子；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "体量过大：OMEGA Engineering 全球仪器集团；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "新加坡",
   "other": "官网 omega.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "测量仪器 / 传感器（全球集团）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "测量仪器集团（自有品牌，体量大）",
   "region": "新加坡",
   "contact": "info@in.omega.com"
  },
  "signals": [
-  "用户表兴趣/备注：有一些交换机 自己的牌子"
+  "表内：有一些交换机 自己的牌子；info@in.omega.com；可以多跟进一下",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "体量：全球仪器集团（集团供应商准入）；国别待核（表内新加坡，邮箱印度站，总部美国）；8 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 30,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "OMEGA Engineering 为全球仪器集团（集团采购体系、自有品牌线由集团 ODM 管理），8 次无回复 → 改 C（体量）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：集团体量）"
 }

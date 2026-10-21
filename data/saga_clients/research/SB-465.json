@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（gridsecurity.ca，快照 2026-10-21）",
- "summary": "加拿大系统集成/工程商：官网「GRID Security Services」（en）；品类词：安防监控（CCTV / 门禁）；表内「grid security projects」；群发 5 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "加拿大 GRID Security Services Ltd（保安服务公司：保安、巡逻与监控、活动安保、GRID Tactical Supply；表内「grid security projects」；KP Chukwuma Maduabuchukwu（Manager））；表内 5 次跟进无回复。",
+ "type": "保安服务公司（非渠道）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,46 @@
    "quote": "grid security projects",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "GRID 定位",
+   "quote": "GRID Security Services ; We offer a wide range of professional security services ; Security Guard ; Patrols and Monitoring",
+   "url": "https://gridsecurity.ca/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "非渠道（保安服务公司）；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 gridsecurity.ca，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）"
+  "保安服务（加拿大）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "保安服务公司（非渠道）",
   "region": "加拿大",
   "contact": "info@gridsecurity.ca"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://gridsecurity.ca/）",
-  "官网公开邮箱：info@gridsecurity.ca",
-  "用户表兴趣/备注：grid security projects"
+  "官网：GRID Security Services Ltd is proud to be a traditional company and is wholly situated in Canada. We offer a wide range of professional security services ; Security Guard ; Patrols and Monitoring ; Event Security",
+  "表内：grid security projects；KP Chukwuma Maduabuchukwu / Manager"
  ],
- "risks": [],
+ "risks": [
+  "非渠道（保安服务公司）；5 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "保安服务公司（非硬件渠道，自用少量），5 次无回复 → 改 C"
  },
- "email_hook": "Chukwuma, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：非渠道）"
 }

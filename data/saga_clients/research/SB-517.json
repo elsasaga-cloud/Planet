@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（kyber-e.com，快照 2026-10-21）",
- "summary": "美国电商/网店：官网「Kyber」（en）；品类词：布线 / 线缆；产品页：all-products；表内「5电口」；群发 8 次、无回复。",
- "type": "电商/网店",
+ "summary": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
+ "type": "工程套件小厂（美国，5 口交换机配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,61 @@
    "quote": "5电口",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Kyber 定位",
+   "quote": "HOME | Kyber ; Innovative engineering kits and tools",
+   "url": "https://www.kyber-e.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5 电口",
+   "quote": "5电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Justin Hansen",
+   "title": "（负责人）",
+   "email": "justin@kyber-e.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "布线 / 线缆"
+  "工程套件 / 工具（美国）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "工程套件小厂（美国，5 口交换机配套）",
   "region": "美国",
   "contact": "justin@kyber-e.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.kyber-e.com/）",
-  "官网公开邮箱：info@kyber-e.com、info@my-domain.com",
-  "用户表兴趣/备注：5电口"
+  "官网：HOME | Kyber ; Innovative engineering kits and tools；页面 /all-products",
+  "表内：5 电口；KP Justin Hansen"
  ],
- "risks": [],
+ "risks": [
+  "小厂配套（量小）；8 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 20,
-  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：电商/网店→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-050GE",
+  "tier": 25,
+  "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）"
  },
- "email_hook": "Justin, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?"
 }

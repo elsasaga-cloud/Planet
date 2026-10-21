@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（novytel.cz，快照 2026-10-21）",
- "summary": "捷克电信/ISP/网络运营：官网「Novy Teleсom | Supply of machinery from Asia and China」（en-GB）；品类词：电信 / FTTH / ISP 设备；表内「VC类产品 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "电信/ISP/网络运营",
+ "summary": "捷克 Novy Telecom s.r.o.（「Supply of machinery from Asia and China」进出口贸易服务：工业机械、汽车配件、消费品、电子等；阿里巴巴 RFQ「VC 类产品」；KP Miloš Holec（procurement@））；表内未跟进。",
+ "type": "进出口贸易中介（捷克，VC RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,61 @@
    "quote": "VC类产品 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Novy Telecom 定位",
+   "quote": "Novy Teleсom | Supply of machinery from Asia and China ; EXPORT | IMPORT | TRADE SERVICES",
+   "url": "https://www.novytel.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "VC 类产品 RFQ",
+   "quote": "VC类产品 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Miloš Holec",
+   "title": "（采购）",
+   "email": "procurement@novytel.cz",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "捷克",
   "other": "官网 novytel.cz，语言 en-GB，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备"
+  "进出口贸易服务（捷克）"
  ],
  "channels": {
-  "role": "电信/ISP/网络运营",
+  "role": "进出口贸易中介（捷克，VC RFQ）",
   "region": "捷克",
   "contact": "procurement@novytel.cz"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.novytel.cz/）",
-  "官网公开邮箱：info@novytel.cz",
-  "用户表兴趣/备注：VC类产品 / from: 阿里巴巴RFQ"
+  "官网：Novy Telecom. We specialize in supplying a variety of products including industrial machinery, automotive parts, consumer goods, electronics ; EXPORT | IMPORT | TRADE SERVICES；kw telecom 28 / oem 6 / odm 6",
+  "表内：VC 类产品 / from: 阿里巴巴 RFQ；KP Milos Holec"
  ],
- "risks": [],
+ "risks": [
+  "采购中介（为终端客户比价，忠诚度低；需求有效性待核）；非专业网络渠道"
+ ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：电信/ISP/网络运营→25%）"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）"
  },
- "email_hook": "Milos, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need?"
 }

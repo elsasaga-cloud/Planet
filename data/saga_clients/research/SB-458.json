@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（bturesearch.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「Intepo」（en-US）；站内品牌：Aruba；站内型号：GA-00-SZ-L1-RT-208；表内「户外安防 感觉比较专业」；群发 4 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
+ "type": "边缘基础设施平台商（美国，定位转型待核）",
  "size": "",
  "brands_seen": [
   "Aruba"
@@ -23,37 +23,61 @@
    "quote": "户外安防 感觉比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Intepo 定位",
+   "quote": "Home - Intepo ; INTEPO Sovereign Infrastructure ; Factory integrated. Field ready",
+   "url": "https://intepo.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "户外安防 比较专业",
+   "quote": "户外安防 感觉比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Michael Kanarellis",
+   "title": "Chief Executive",
+   "email": "mkanarellis@bturesearch.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "AI 边缘物理基础设施平台（美国）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "边缘基础设施平台商（美国，定位转型待核）",
   "region": "美国",
   "contact": "info@bturesearch.com、mkanarellis@bturesearch.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://intepo.com）",
-  "用户表兴趣/备注：户外安防 感觉比较专业"
+  "官网：INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure ; Factory integrated. Field ready ; A governance platform embodied in hardware",
+  "表内：户外安防 感觉比较专业；KP Michael Kanarellis / Chief Executive"
  ],
- "risks": [],
+ "risks": [
+  "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核"
  },
- "email_hook": "Michael, alongside the Aruba lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?"
 }

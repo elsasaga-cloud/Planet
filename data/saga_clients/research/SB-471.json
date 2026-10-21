@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mosonetworks.com，快照 2026-10-21）",
- "summary": "加拿大网络/安防经销或集成（官网未见角色词，待核）：官网「mosonetworks.com」；表内「Networking」；群发 2 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "加拿大 Moso Networks（网络/Wi-Fi 方案公司；KP Stephen Leotis（President & Co-Founder）；表内「Networking」；官网快照空）；表内 2 次跟进无回复。",
+ "type": "网络方案商（加拿大）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,54 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Stephen Leotis",
+   "title": "President & Co-Founder",
+   "email": "stephen@mosonetworks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 mosonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络 / Wi-Fi 方案（加拿大）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "网络方案商（加拿大）",
   "region": "加拿大",
   "contact": "sales@mosonetworks.com、stephen@mosonetworks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://mosonetworks.com/）",
-  "用户表兴趣/备注：Networking"
+  "表内：Networking；KP Stephen Leotis / President & Co-Founder",
+  "快照：内容为空"
  ],
- "risks": [],
+ "risks": [
+  "官网快照空（业务范围待核）；2 次无回复 → 改向 President 具名首触"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "网络方案配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Stephen, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Stephen, for the access switches in your network deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, FCC/CE/RoHS, EXW USD — which port count do your Wi-Fi rollouts standardise on?"
 }

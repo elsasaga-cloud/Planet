@@ -1,18 +1,19 @@
 # itegra.lt
 
-> **评级 B**　|　意大利　|　档案编号 `SB-467`　|　优先级 ★★　|　状态：已推送 1 次·未回复
+> **评级 B**　|　立陶宛　|　档案编号 `SB-467`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 1 次（2025-09-23 → 2025-09-23）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防安装商（立陶宛，PoE 现 Utepo）（推断）　|　**历史关系**：推送 1 次（2025-09-23 → 2025-09-23）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-467
 rating: B
 rating_auto: B
 score: 40
-country: 意大利
+country: 立陶宛
+country_table: 意大利  # 表内原填；调研纠正为 立陶宛（research JSON country_fix）
 region: 欧洲
 website: itegra.lt
-type: 系统集成/工程商
+type: 安防安装商（立陶宛，PoE 现 Utepo）
 tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +30,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利系统集成/工程商：官网「Apsaugos sistemos, išmanūs namai ir signalizacija | ITEGRA」（en-US）；站内型号：LT100014772718、LT-49478、LT-46352；表内「有Utepo的」；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
+- **是谁**：立陶宛 ITEGRA（设计与安装安防系统：视频监控摄像机、报警、消防系统与智能家居；表内国别「意大利」有误（.lt 域名、立陶宛业务）；表内「有 Utepo 的」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-23 → 2025-09-23）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -42,9 +43,9 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | itegra.lt（取自域名，公司全名待核） | 推断 |
-| 国家 | 意大利 | 事实（用户表）|
+| 国家 | 立陶宛 | 事实（用户表）|
 | 网站/域名 | itegra.lt | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防安装商（立陶宛，PoE 现 Utepo） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 有Utepo的 | 事实（用户表） |
@@ -65,31 +66,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（itegra.lt，快照 2026-10-21）
-- **是谁**：意大利系统集成/工程商：官网「Apsaugos sistemos, išmanūs namai ir signalizacija | ITEGRA」（en-US）；站内型号：LT100014772718、LT-49478、LT-46352；表内「有Utepo的」；群发 1 次、无回复。
-- **类型**：系统集成/工程商
+- **是谁**：立陶宛 ITEGRA（设计与安装安防系统：视频监控摄像机、报警、消防系统与智能家居；表内国别「意大利」有误（.lt 域名、立陶宛业务）；表内「有 Utepo 的」）；表内 1 次跟进无回复。
+- **类型**：安防安装商（立陶宛，PoE 现 Utepo）
+- **在卖/在用品牌**：Utepo
 - **【官网快照】官网标题：Apsaugos sistemos, išmanūs namai ir signalizacija | ITEGRA**
   > ITEGRA projektuoja ir montuoja apsaugos sistemos, vaizdo stebėjimo kameras, signalizacijas, priešgaisrines sistemas ir išmaniųjų namų sprendimus Lietuvoje.
   > 来源：https://itegra.lt/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】ITEGRA 定位**
+  > Apsaugos sistemos, išmanūs namai ir signalizacija | ITEGRA ; projektuoja ir montuoja apsaugos sistemos, vaizdo stebėjimo kameras, signalizacijas, priešgaisrines sistemas ; Lietuvoje
+  > 来源：https://itegra.lt/（抓取 2026-10-21）
+- **【用户表】有 Utepo 的**
+  > 有Utepo的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 意大利 |
 | 其他 | 官网 itegra.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 系统集成/工程商；region: 意大利；contact: pagalba@itegra.lt
+- **业务线**：安防 / 视频监控 / 消防 / 智能家居安装（立陶宛）
+- **触达通道（公开）**：role: 安防安装商（立陶宛，PoE 现 Utepo）；region: 立陶宛；contact: pagalba@itegra.lt
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://itegra.lt/）
-  - 官网公开邮箱：info@itegra.lt、vytenis@itegra.lt
-  - 用户表兴趣/备注：有Utepo的
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：ITEGRA projektuoja ir montuoja apsaugos sistemos, vaizdo stebėjimo kameras, signalizacijas, priešgaisrines sistemas ir išmaniųjų namų sprendimus Lietuvoje
+  - 表内：有 Utepo 的
+- **风险/边界**：小国（立陶宛，非主动开拓区）；国别已更正（表内误填意大利）；安装商（单项目量小）；现供 Utepo 价格基准低
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **邮件切入句（英文）**：For the PoE switches in your camera and alarm installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE + 2 SFP industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your Lithuanian sites use most alongside Utepo?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -146,7 +154,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
+| **P1** | STC-28DGGPM | 深挖对位：监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防安装商（立陶宛，PoE 现 Utepo）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -200,7 +208,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches in your camera and alarm installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE + 2 SFP industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your Lithuanian sites use most alongside Utepo?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

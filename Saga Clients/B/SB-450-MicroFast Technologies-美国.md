@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-450`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防/IT 集成商（美国，EoC 询盘）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-450
@@ -12,7 +12,7 @@ score: 40
 country: 美国
 region: 北美
 website: microfasttech.com
-type: 安防集成/经销
+type: 安防/IT 集成商（美国，EoC 询盘）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国安防集成/经销：官网「MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT」（en）；表内「同轴转网 / from: 阿里巴巴询盘」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | MicroFast Technologies | 事实（用户表） |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | microfasttech.com / mrdsdistributers.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防/IT 集成商（美国，EoC 询盘） | 推断（据兴趣/备注关键词） |
 | 联系人 | Manishkumar Patel | 事实（用户表） |
 | 来源（From） | 2025.6.12 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,30 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（microfasttech.com，快照 2026-10-21）
-- **是谁**：美国安防集成/经销：官网「MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT」（en）；表内「同轴转网 / from: 阿里巴巴询盘」；表内未见跟进记录。
-- **类型**：安防集成/经销
+- **是谁**：美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。
+- **类型**：安防/IT 集成商（美国，EoC 询盘）
 - **【官网快照】官网标题：MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT**
   > Professional technology solutions for hotels, offices, and businesses. CCTV surveillance, PBX systems, structured cabling, and IT infrastructure.
   > 来源：https://microfasttech.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 同轴转网 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】MicroFast 定位**
+  > MicroFast Tech - Technology Solutions | Surveillance, PBX, Cabling, IT ; Professional technology solutions for hotels, offices, and businesses
+  > 来源：https://microfasttech.com/（抓取 2026-10-21）
+- **【用户表】同轴转网询盘**
+  > 同轴转网 / from: 阿里巴巴询盘
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Manishkumar Patel（）sales@mrdsdistributers.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 microfasttech.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 安防集成/经销；region: 美国；contact: sales@mrdsdistributers.com
+- **业务线**：CCTV / PBX / 布线 / IT 基础设施集成（美国）
+- **触达通道（公开）**：role: 安防/IT 集成商（美国，EoC 询盘）；region: 美国；contact: sales@mrdsdistributers.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://microfasttech.com/）
-  - 用户表兴趣/备注：同轴转网 / from: 阿里巴巴询盘
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Manishkumar, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Professional technology solutions for hotels, offices, and businesses. CCTV surveillance, PBX systems, structured cabling, and IT infrastructure
+  - 表内：同轴转网 / from: 阿里巴巴询盘；KP Manishkumar Patel；邮箱 sales@mrdsdistributers.com
+- **风险/边界**：询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
+- **邮件切入句（英文）**：Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -108,7 +116,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Manishkumar Patel | — | sales@mrdsdistributers.com / +2295517613 | 用户表原值 | Clients/ 表 |
+| Manishkumar Patel | — | sales@mrdsdistributers.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -124,7 +132,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防/IT 集成商（美国，EoC 询盘）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -178,9 +186,9 @@ updated: 2026-10-21
 ```text
 Hi Manishkumar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Manishkumar, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
