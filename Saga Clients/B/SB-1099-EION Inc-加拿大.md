@@ -1,4 +1,5 @@
 # EION Inc
+**官方名称（调研核实）**：EION Inc.（EION Wireless 事业部，eionwireless.com / eion.com，Ottawa-Kanata, ON）
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-1099`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1099
 rating: B
 rating_auto: B
+name_official: "EION Inc.（EION Wireless 事业部，eionwireless.com / eion.com，Ottawa-Kanata, ON）"
 score: 26
 country: 加拿大
 region: 北美
@@ -19,21 +21,21 @@ replies: 0
 followups: 8
 first_contact: 2025-02-27
 last_contact: 2025-10-16
-p1: STI-110GE
-price_tier: 20%
-research: pending
+p1: STI-288DGGPM
+price_tier: 30%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大的经销/集成（类型待核）；兴趣/在卖：1000M单纤双向收发器
+- **是谁**：加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：1000M单纤双向收发器）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-27 → 2025-10-16）
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,43 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1099.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（eionwireless.com）
+- **是谁**：加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。
+- **在卖/在用品牌**：EION（自产无线）
+- **【官网】公司定位与渠道规模**
+  > EION Wireless, a division of EION Inc. Since being founded in 2001, EION Wireless has been recognized multiple times as one of the fifty fastest growing wireless companies by Deloitte and Touche … works with more than 165 channel partners worldwide … privately owned Canadian company headquartered in Ottawa Canada
+  > 来源：https://www.eionwireless.com/who/company（抓取 2026-10-21）
+- **【LinkedIn】规模与成立年**
+  > EION Wireless … Industry: Wireless Services Company size: 51-200 employees Headquarters: Kanata, Ontario … Founded: 2001 Specialties: Software Services, Wireless, WiMAX, LTE, and Broadband
+  > 来源：https://ca.linkedin.com/company/eion（抓取 2026-10-21）
+- **【名录】地址、电话、营收**
+  > 150 Katimavik Rd Ste 304, Ottawa, Ontario, K2L 2N2, Canada (613) 271-4400 … Revenue $20.9 M Employees 47 Founded 2001
+  > 来源：https://www.datanyze.com/companies/eion-wireless/1164264922（抓取 2026-10-21）
+- **【新闻】收购 Aviat WiMAX 业务**
+  > Aviat Networks … has sold its WiMAX business to EION Networks, Inc. which is a privately owned Canadian Company headquartered in Ottawa, Ontario.
+  > 来源：https://investors.aviatnetworks.com/news-releases/news-release-details/aviat-networks-announces-sale-wimax-business-eion-wireless（抓取 2011-09-06）
+- **【用户表】WhatsApp 已加；8 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Kalai Kalaichelvan（Dr.）（Founder, President & CEO（公开））—（未公开） +1 613-271-4400（公司）〔https://www.crunchbase.com/organization/eion-wireless〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | EION Inc.（EION Networks, Inc.；EION Wireless 为事业部） |
+| 成立 | 2001 |
+| 总部/地址 | 150 Katimavik Rd, Ste 304, Kanata (Ottawa), ON K2L 2N2, Canada（+1 613-271-4400）；Calgary 分部 |
+| 其他 | Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供） |
+
+- **业务线**：4G LTE / 宽带无线接入系统（基站、CPE）；运营商与 ISP 方案（165+ 渠道伙伴）；行业无线（油气、安防、政府）
+- **触达通道（公开）**：网站: https://www.eionwireless.com/；电话: +1 613-271-4400（名录公开）；LinkedIn: https://ca.linkedin.com/company/eion
+- **近况信号**：
+  - 无线系统商的塔站/机房需要宽温 PoE 交换机为 CPE/AP/摄像供电并做 10G 回传汇聚——STI-288DGGPM / STI-448XGGGPM 可作配套或 EION 标 OEM 配件
+- **风险/边界**：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线
+- **邮件切入句（英文）**：For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -86,6 +124,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Kalai Kalaichelvan（Dr.） | Founder, President & CEO（公开） | —（未公开） / +1 613-271-4400（公司） | 调研核实（公开页） | https://www.crunchbase.com/organization/eion-wireless |
 | Harshul Garg | — | harshul@eion.com / +16133710900 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -102,20 +141,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -123,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；北美主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -147,19 +185,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Harshul,
+Hi Kalai,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

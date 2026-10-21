@@ -1,0 +1,107 @@
+{
+ "code": "SB-120",
+ "name_official": "Schaltanlagenbau Förderstedt GmbH（SAF，saf-slk.de，Seeland OT Hoym, DE）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务范围",
+   "quote": "Herzlich willkommen bei Schaltanlagenbau Förderstedt GmbH – Ihrem zuverlässigen Partner für professionellen Schaltanlagenbau und hochmoderne Schutzprüfungen auf Nieder- und Mittelspannungsebene … Schaltschrankplanung und ‑fertigung nach Maß - DC-Sammler und Feuerwehr Not-Aus Systeme für PV-Anlagen - Energiemanagement - Störungsüberwachung - Sicherungsüberwachung - Differenzstromüberwachung … - Außenverteiler (Standard- sowie Sonderbau) – z.B. für EVU",
+   "url": "https://saf-slk.de/",
+   "date": "2026-10-07"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系人与邮箱（公开）",
+   "quote": "Geschäftsführung Marco Bohne E‑Mail:bohne@saf-slk.de Vertretungsberechtigte Anika Duschka ppa. … E‑Mail:duschka@saf-slk.de Kalkulation / Handlungsbevollmächtigter Christopher Roder-Rosenov E‑Mail: roder-rosenov@saf-slk.de … Schaltanlagenbau Förderstedt GmbH Ascherslebener Straße 18d 06467 Seeland OT Hoym … 034741 / 9886–0 info@saf-slk.de",
+   "url": "https://saf-slk.de/kontakt/",
+   "date": "2025-10-29"
+  },
+  {
+   "kind": "官网",
+   "claim": "登记信息",
+   "quote": "Umsatzsteuer-Identifikationsnummer … DE 289 406 638 Handels-Register Amtsgericht Stendal, HRB 19446 Geschäftsführer Marco Bohne",
+   "url": "https://saf-slk.de/impressum/",
+   "date": "2025-10-02"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模",
+   "quote": "Schaltanlagenbau Förderstedt GmbH … Hersteller von Elektrotechnik Anzahl Mitarbeiter: 24 in Deutschland Umsatzklasse: Bis 10 Mio. Euro",
+   "url": "https://www.wer-zu-wem.de/firma/saf-slk.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；7 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Marco Bohne",
+   "role": "Geschäftsführer（官网联系页公开）",
+   "email": "bohne@saf-slk.de",
+   "phone": "+49 34741 9886-0",
+   "source": "https://saf-slk.de/kontakt/"
+  },
+  {
+   "name": "Anika Duschka",
+   "role": "Vertretungsberechtigte ppa.（官网联系页公开）",
+   "email": "duschka@saf-slk.de",
+   "phone": "+49 34741 9886-0",
+   "source": "https://saf-slk.de/kontakt/"
+  },
+  {
+   "name": "Christopher Roder-Rosenov",
+   "role": "Kalkulation / Handlungsbevollmächtigter（报价/采购口径；官网公开）",
+   "email": "roder-rosenov@saf-slk.de",
+   "phone": "+49 34741 9886-0",
+   "source": "https://saf-slk.de/kontakt/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Schaltanlagenbau Förderstedt GmbH",
+  "registry": "HRB 19446（Amtsgericht Stendal）· USt-ID DE 289 406 638",
+  "hq": "Ascherslebener Straße 18d, 06467 Seeland OT Hoym, Deutschland（+49 34741 9886-0；info@saf-slk.de）",
+  "size": "24 人（wer-zu-wem）；营收 ≤€10M",
+  "other": "培训企业（电子/工业电工学徒）；柜体设计与制造 + 现场安装与电缆敷设"
+ },
+ "business_lines": [
+  "低压/中压开关柜与配电柜定制制造",
+  "能源管理与监控（故障、熔断、差流、温度）",
+  "PV 直流汇流 / 消防急停系统；公用事业户外配电柜",
+  "保护测试（NA/QU 保护、断路器、继电器、电池、网络分析）"
+ ],
+ "channels": {
+  "网站": "https://saf-slk.de/",
+  "电话": "+49 34741 9886-0（官网公开）",
+  "邮箱（公开）": "info@saf-slk.de"
+ },
+ "signals": [
+  "柜内能源管理/监控网络 → 每柜 1 台 DIN 导轨管理交换机（非 PoE 为主，部分摄像/传感器 PoE）；采购口径人（Kalkulation）公开——可直接对接"
+ ],
+ "risks": [
+  "德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-280DGGM",
+  "tier": 25,
+  "why": "终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM"
+ },
+ "email_hook": "For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?"
+}

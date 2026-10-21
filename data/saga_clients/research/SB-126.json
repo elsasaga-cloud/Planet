@@ -1,0 +1,76 @@
+{
+ "code": "SB-126",
+ "name_official": "DEMA Vertriebs-GmbH（dema-vertrieb.com / dema-handel.net，Untermünkheim-Übrigshausen, DE）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "德国巴符州 Untermünkheim 的**五金/园艺/农用/车间用品**进口与电商集团公司（HRB 571318 Stuttgart；1963 年登记；注册资本 €800k；德国 100–249 人，集团含 Stabilo Fachmärkte 连锁 >1,200 人、>€300M 营收；自有品牌 DEMA / Fix Aktiv / Denner Edition；CEO Ulrich Abendschein）。品类与 PoE/工业交换机无关，且属大型集团——行业外 + 规模大。用户表：1 次实质回复，1 次跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "DEMA / Fix Aktiv / Denner Edition（自有品牌，非网络）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务与自有品牌",
+   "quote": "Mit über 10 Jahren Erfahrung im Bereich des eCommerce vertreiben wir erfolgreich Produkte unter den Eigenmarken Dema, Fix Aktiv und Denner Edition. Unser hochwertiges Angebot können Sie in jedem Stabilo Baumarkt oder online in einem unserer eShops erwerben. Wir bieten alles für Handwerker, Monteure, Mechaniker und Heimwerker",
+   "url": "http://dema-vertrieb.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "公司档案",
+   "claim": "注册信息与规模",
+   "quote": "DEMA Vertriebs-GmbH Adresse: Im Tobel 4 74547 Untermünkheim … HR-Nummer: HRB 571318 … Gründung: 17.01.1963 … Kapital: 800.000,00 EUR … Mitarbeiter: 100-249",
+   "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/2364036",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "集团站",
+   "claim": "集团规模",
+   "quote": "Sie erwirtschaftet in Deutschland mit den Stabilo Fachmärkten über 300 Millionen Umsatz und beschäftigt im ganzen Konzern mehr als 1200 Angestellte. Dema Deutschland alleine beschäftigt 125 Personen.",
+   "url": "https://dema-handel.ch/ueber-uns/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 次实质回复；1 次跟进",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（公司档案核对）"
+ },
+ "company_facts": {
+  "legal_name": "DEMA Vertriebs-GmbH",
+  "registry": "HRB 571318（Amtsgericht Stuttgart）· USt-ID DE146279485 · LEI 529900NC79L6B29H5354",
+  "hq": "Im Tobel 4, 74547 Untermünkheim (Übrigshausen), Deutschland（+49 7944 98101-0；info@fixversand.de）",
+  "size": "100–249（德国）；集团 >1,200 人 / >€300M（Stabilo 连锁）",
+  "other": "电商 10+ 年；自有品牌 DEMA、Fix Aktiv、Denner Edition；产品进 Stabilo 建材市场与多家网店"
+ },
+ "business_lines": [
+  "五金/工具、园艺、农用、车间设备进口与自有品牌",
+  "Stabilo Fachmärkte 连锁与电商"
+ ],
+ "channels": {
+  "网站": "http://dema-vertrieb.com/ · https://dema-handel.net/"
+ },
+ "signals": [
+  "无网络设备品类；1 次回复可能为礼貌性"
+ ],
+ "risks": [
+  "行业外（DIY/园艺）+ 大集团采购流程——不符合 Saga 小单长期跟进模式"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "不推进；若其电商想增网络品类，按电商 20% 档报 STC-28DGGPM"
+ },
+ "email_hook": "（不发送：行业外 + 大集团）"
+}

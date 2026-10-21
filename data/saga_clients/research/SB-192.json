@@ -1,0 +1,122 @@
+{
+ "code": "SB-192",
+ "name_official": "TVprzemyslowa sp. z o.o. sp. k.（Uniforce TVprzemyslowa，tvprzemyslowa.pl，Poznań, PL）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（网店）",
+ "summary": "波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "IDIS",
+  "Eneo",
+  "ATTE"
+ ],
+ "evidence": [
+  {
+   "kind": "网店",
+   "claim": "法人与地址",
+   "quote": "TVprzemyslowa sp. z o.o. sp. k., Kórnicka 30, 61-141 Poznań … +48 61 875 04 76 kontakt@tvprzemyslowa.pl",
+   "url": "https://tvprzemyslowa.pl/product-pol-5715-Switch-POE-IDIS-DH-2112PF.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "网店",
+   "claim": "Eneo 16 口管理 PoE 价格",
+   "quote": "Switch PoE zarządzalny Eneo IAR-7SG1016MMA, 16-portowy - Gigabit Switch, Zarządzalny, 270W, 16x PoE, 4x SFP … Nasza cena: 1 876,07 zł",
+   "url": "https://tvprzemyslowa.pl/product-pol-6788-Switch-PoE-zarzadzalny-Eneo-IAR-7SG1016MMA-16-portowy.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "网店",
+   "claim": "Dahua 8 口价格",
+   "quote": "SWITCH POE PFS3009-8ET1GT-96 8-PORTOWY DAHUA … Nasza cena: 246,00 zł netto 302,58 zł brutto",
+   "url": "https://tvprzemyslowa.pl/product-pol-20864-SWITCH-POE-PFS3009-8ET1GT-96-8-PORTOWY-DAHUA.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；8 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（网店目录核对）"
+ },
+ "company_facts": {
+  "legal_name": "TVprzemyslowa sp. z o.o. sp. k.（品牌 Uniforce TVprzemyslowa）",
+  "hq": "ul. Kórnicka 30, 61-141 Poznań（另见 Bodawska 11, 61-309 Poznań）, Polska（+48 61 875 04 76；kontakt@tvprzemyslowa.pl）",
+  "other": "网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目"
+ },
+ "business_lines": [
+  "CCTV/IP 监控设备网店与分销",
+  "PoE 交换机与供电配件"
+ ],
+ "products_seen": [
+  {
+   "brand": "Hikvision",
+   "model": "DS-3E0310P-E/M",
+   "spec": "8×FE PoE + 2×GE 上联，60W",
+   "url": "https://tvprzemyslowa.pl/product-pol-20771-SWITCH-POE-DS-3E0310P-E-M-8-PORTOWY-Hikvision.html",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（千兆升级）"
+  },
+  {
+   "brand": "Dahua",
+   "model": "PFS3009-8ET1GT-96",
+   "spec": "8×FE PoE + 1 GE，96W，246 zł 净 / 302.58 zł 含税",
+   "url": "https://tvprzemyslowa.pl/product-pol-20864-SWITCH-POE-PFS3009-8ET1GT-96-8-PORTOWY-DAHUA.html",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（价位参照：≈$65 含税）"
+  },
+  {
+   "brand": "IDIS",
+   "model": "DH-2112PF",
+   "spec": "10×RJ45 + 2×SFP，PoE 150W，1,782.86 zł 净",
+   "url": "https://tvprzemyslowa.pl/product-pol-5715-Switch-POE-IDIS-DH-2112PF.html",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（$80.7 @20%，价差巨大）"
+  },
+  {
+   "brand": "Eneo",
+   "model": "IAR-7SG1016MMA",
+   "spec": "16×GE PoE + 4×SFP 管理，270W，1U，1,876.07 zł",
+   "url": "https://tvprzemyslowa.pl/product-pol-6788-Switch-PoE-zarzadzalny-Eneo-IAR-7SG1016MMA-16-portowy.html",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP（16 PoE）"
+  },
+  {
+   "brand": "ATTE",
+   "model": "IPUPS-5-11-F",
+   "spec": "5 PoE + 1 上联，内置缓冲电源 72W，Long Range 280 m，499 zł",
+   "url": "https://tvprzemyslowa.pl/product-pol-10143-Switch-PoE-ATTE-IPUPS-5-11-F-do-5-kamer-IP-w-obudowie-wewnetrznej-niezarzadzalny.html",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（4 PoE，机柜内安装）"
+  }
+ ],
+ "channels": {
+  "网店": "https://tvprzemyslowa.pl/",
+  "电话": "+48 61 875 04 76（官网公开）",
+  "邮箱（公开）": "kontakt@tvprzemyslowa.pl"
+ },
+ "signals": [
+  "网店已有多品牌 PoE 交换机类目，中高端（IDIS/Eneo）价位 1,800–1,900 zł（≈$450–480）——Saga 管理型千兆机有 3–5 倍价差空间作自有价位带"
+ ],
+ "risks": [
+  "波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
+ },
+ "email_hook": "Between the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?"
+}

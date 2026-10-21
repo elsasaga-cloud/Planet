@@ -1,0 +1,86 @@
+{
+ "code": "SB-1019",
+ "name_official": "Briticom™ — Teltronix Holdings Ltd（briticom.net，Northampton, UK）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "英国北安普顿的**无源**布线制造商/品牌（Briticom 为 Teltronix Holdings Ltd 品牌；团队始于 2004，控股公司 2020-02 注册，公司号 12455268，VAT GB419036114；11–50 人；2017 年底换新管理层走国际化）：铜缆系统、光纤无源产品（FTTx/GPON）、机柜与机箱，面向数据中心、FTTx/电信、广播、智能家居；有「授权分销商 / 认证安装商」计划，2025-10 参展 GITEX Dubai。目录为纯无源——有源交换机是产品线空白。用户表：1 次实质回复，1 次跟进，自有品牌标记。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Briticom（自有品牌，无源）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务定位（无源制造商）与品牌归属",
+   "quote": "We are a British based manufacturer of Copper Cabling Systems, Fibre Optic Products, Racks and Enclosures – deployed in Datacomms, Data Centres, FTTx & Telecom, Broadcasting and Smart Home Applications … Briticom is a brand of Teltronix Holdings Ltd",
+   "url": "https://briticom.net/",
+   "date": "2025-05-13"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "地址、电话、邮箱、渠道计划",
+   "quote": "Training available for Partners to become approved installers of Briticom® fibre optic and copper products • Become an authorised distributor … Briticom is part of Teltronix Holdings Ltd 7 Premier Court, Boarden Close, Northampton NN3 6LF | UK briticom.net | +44 (0)1604 434 186 | sales@briticom.net",
+   "url": "https://briticom.net/wp-content/uploads/2025-Company_Profile.pdf",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立年",
+   "quote": "TELTRONIX - BRITICOM … Company size: 11-50 employees Headquarters: Northampton, Northamptonshire … Founded: 2004 Specialties: Passive Fibre Optic and Copper, FTTH, GPON, and Data Centre",
+   "url": "https://uk.linkedin.com/company/teltronix",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "公司档案",
+   "claim": "控股公司注册信息",
+   "quote": "Teltronix Holdings Ltd is an active company incorporated on 11 February 2020 with the registered office located in Northampton … 12455268 Private limited company GB419036114",
+   "url": "https://open.endole.co.uk/insight/company/12455268-teltronix-holdings-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 次实质回复；1 次跟进；自有品牌标记",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 公司档案核对）"
+ },
+ "company_facts": {
+  "legal_name": "Teltronix Holdings Ltd（品牌 Briticom™；公司号 12455268，2020-02-11 注册；VAT GB419036114）",
+  "hq": "7 Premier Court, Boarden Close, Northampton NN3 6LF, UK（+44 1604 434 186；sales@briticom.net / briticom@briticom.net）",
+  "size": "11–50（LinkedIn）；Endole：微型，营收 £1.11M 口径",
+  "other": "产品：铜缆（全 AWG）、室内外光缆、FTTx 组件/工具、机架机柜、线缆管理；渠道：授权分销商 + 认证安装培训；LinkedIn 创立年 2004；GITEX 2025 参展"
+ },
+ "business_lines": [
+  "无源光纤产品（FTTx/GPON/数据中心）",
+  "铜缆布线系统",
+  "机柜/机箱与线缆管理",
+  "渠道：授权分销商 / 认证安装商"
+ ],
+ "channels": {
+  "网站": "https://briticom.net/ · https://teltronix.net/",
+  "电话": "+44 1604 434 186（官网公开）",
+  "邮箱（公开）": "sales@briticom.net"
+ },
+ "signals": [
+  "无源品牌向有源延伸的典型 OEM 场景：Briticom 标 PoE/10G 接入交换机与其机柜、光缆成套销售给分销商/安装商；UKCA 由 Saga 提供"
+ ],
+ "risks": [
+  "有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）"
+ },
+ "email_hook": "Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?"
+}

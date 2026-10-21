@@ -1,4 +1,5 @@
 # extradigital.eu
+**官方名称（调研核实）**：EURODIGITAL UAB（e-shop ExtraDigital.eu，Kaunas, Lithuania）
 
 > **评级 B**　|　欧洲（国别未填）　|　档案编号 `SB-129`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-129
 rating: B
 rating_auto: B
+name_official: "EURODIGITAL UAB（e-shop ExtraDigital.eu，Kaunas, Lithuania）"
 score: 51
 country: 欧洲（国别未填）
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 1
 followups: 11
 first_contact: 2024-05-17
 last_contact: 2025-11-07
-p1: STI-288DGGPM
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：欧洲（国别未填）的经销/集成（类型待核）；兴趣/在卖：PoE switch 工业FS等；提到的品牌：FS
+- **是谁**：立陶宛考纳斯的泛欧电子/安防电商与分销商（EURODIGITAL UAB，公司代码 300638881，VAT LT100002890717；经营 15 年以上）：智能电子、安防与视频监控、光伏设备、EV 充电桩；自称「欧洲最佳 Dahua CCTV 分销商 / 欧洲最大仓库 / 当日发货全欧」。用户表：区域登记为「欧洲（国别未填）」→ 实为立陶宛；1 次实质回复，11 次跟进。（调研 2026-10-21；表内兴趣：PoE switch 工业FS等）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/欧洲（国别未填）；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 11 次（2024-05-17 → 2025-11-07）；最近一次客户回复：2024-08-13：后续不用跟了
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,7 +68,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-129.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：立陶宛考纳斯的泛欧电子/安防电商与分销商（EURODIGITAL UAB，公司代码 300638881，VAT LT100002890717；经营 15 年以上）：智能电子、安防与视频监控、光伏设备、EV 充电桩；自称「欧洲最佳 Dahua CCTV 分销商 / 欧洲最大仓库 / 当日发货全欧」。用户表：区域登记为「欧洲（国别未填）」→ 实为立陶宛；1 次实质回复，11 次跟进。
+- **在卖/在用品牌**：Dahua
+- **【官网】业务范围与年限**
+  > We are one of the largest suppliers of smart electronics, security, video surveillance systems, solar PV eqipement and EV charging stations in Europe, successfully operating more then 15 years.
+  > 来源：https://www.extradigital.eu/about-us（抓取 2026-10-21）
+- **【官网】法人、公司代码、VAT**
+  > Seller – … registered private legal entity EURODIGITAL UAB. Company code 300638881, VAT payer code LT100002890717, registered office address Žemaičių str. 31, LT-44175, Kaunas
+  > 来源：https://www.extradigital.eu/purchasing-rules（抓取 2026-10-21）
+- **【官网】办公地址与电话**
+  > EURODIGITAL, UAB Savanoriu ave. 235 Kaunas 50184 Lithuania … Call us: +370-671-30065
+  > 来源：https://www.extradigital.eu/contacts（抓取 2026-10-21）
+- **【官网】Dahua 分销定位**
+  > Best DAHUA CCTV distributor in Europe. IP CVI cameras. NVR HCVR best cheap price. Largest warehouse in Europe. Fastest shipping same day. UAB EURODIGITAL. Ship across Europe.
+  > 来源：https://www.extradigital.eu/news（抓取 2026-10-21）
+- **【用户表】1 次实质回复；11 次跟进；国别未填**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别补齐））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | EURODIGITAL, UAB |
+| 总部/地址 | Savanorių pr. 235, Kaunas 50184, Lithuania（+370 671 30065） |
+| 注册/税号 | 公司代码 300638881 · VAT LT100002890717（注册地址 Žemaičių g. 31, LT-44175 Kaunas） |
+| 其他 | 品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货 |
+
+- **业务线**：泛欧电商（电子、安防、光伏、EV 充电）；Dahua CCTV 分销
+- **触达通道（公开）**：网店: https://www.extradigital.eu/；电话: +370 671 30065（官网公开）
+- **近况信号**：
+  - Dahua 分销 + 全欧电商 → PoE 交换机为 CCTV 配套常规品类，可上架 Saga 8/16/24 口作自有价位带
+- **风险/边界**：立陶宛为非主动挖掘国家（INH），仅跟现有线索；电商比价激烈，需以 20% 档
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
+- **邮件切入句（英文）**：For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -120,17 +157,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -140,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -164,19 +201,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

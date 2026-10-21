@@ -1,4 +1,5 @@
 # iotech-italia.net
+**官方名称（调研核实）**：Iotech-Italia di L. Donato（iotech-italia.net，San Donato Milanese, IT；P.IVA IT-13362610969）
 
 > **评级 B**　|　意大利　|　档案编号 `SB-180`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-180
 rating: B
 rating_auto: B
+name_official: "Iotech-Italia di L. Donato（iotech-italia.net，San Donato Milanese, IT；P.IVA IT-13362610969）"
 score: 49
 country: 意大利
 region: 欧洲
@@ -21,19 +23,19 @@ first_contact: 2024-05-08
 last_contact: 2025-10-16
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的经销/集成（类型待核）；兴趣/在卖：工业FS 和Scodeno有合作；提到的品牌：FS
+- **是谁**：米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。（调研 2026-10-21；表内兴趣：工业FS 和Scodeno有合作）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 13 次（2024-05-08 → 2025-10-16）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,43 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-180.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。
+- **在卖/在用品牌**：Wlink, Inveo, egnite, DLM
+- **【官网】业务定位与品类（含工业交换机）**
+  > Prodotti e soluzioni per la progettazione, la realizzazione, la conduzione e la manutenzione di macchine e impianti, industriali, M2M, IOT, IIOT, Industria 4.0 … - Switch Ethernet Industriali … - Router & Modem 4G, 5G industriali … NON SIAMO un sito e-commerce, cerchiamo di essere prima di tutto un CONSULENTE per i nostri clienti e un SUPPORTO TECNICO-COMMERCIALE in Italia per i brand che promuoviamo e distribuiamo.
+  > 来源：https://www.iotech-italia.net/（抓取 2026-10-21）
+- **【官网】地址与联系方式**
+  > IOTECH-ITALIA Via G. di Vittorio 19 - 20097 San Donato M.se Tel: +39 339 2514 712 eMail: info@iotech-italia.net - admin@iotech-italia.net
+  > 来源：https://www.iotech-italia.net/contatti（抓取 2026-10-21）
+- **【官网】法人与税号**
+  > Iotech-Italia di L. Donato - P.IVA IT-13362610969 - Via G. Di Vittorio 19 - 20097 - San Donato Milanese (Mi) - Italia
+  > 来源：https://www.iotech-italia.net/wlink-tech（抓取 2026-10-21）
+- **【LinkedIn】规模与成立年**
+  > Iotech-Italia è un DISTRIBUTORE di PRODOTTI e SOLUZIONI destinati principalmente ad APPLICAZIONI PROFESSIONALI & INDUSTRIALI … Dimensioni dell'azienda: 1 dipendente Sede principale: Milano Tipo: Ditta individuale Data di fondazione: 2019
+  > 来源：https://it.linkedin.com/company/iotech-italia（抓取 2026-10-21）
+- **【用户表】WhatsApp 已加；13 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：L. Donato（业主（官网版权栏「Iotech-Italia di L. Donato」））info@iotech-italia.net（公司公开） +39 339 2514 712〔https://www.iotech-italia.net/wlink-tech〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Iotech-Italia di L. Donato（ditta individuale；P.IVA IT-13362610969） |
+| 成立 | 2019（LinkedIn） |
+| 总部/地址 | Via G. di Vittorio 19, 20097 San Donato Milanese (MI), Italia（+39 339 2514 712；info@iotech-italia.net / admin@iotech-italia.net） |
+| 其他 | 面向机器/设备设计者、制造商、安装与维护商；品类列表含「Switch Ethernet Industriali」、「Router & Modem 4G, 5G industriali」、「Convertitori Seriale - Ethernet」 |
+
+- **业务线**：工业 IoT/M2M 元器件分销（数据记录、I/O、RFID、路由器、交换机）；国外品牌在意技术代表（egnite、DLM、Infinite、Wlink、Inveo、Hi-Flying）
+- **触达通道（公开）**：网站: https://www.iotech-italia.net/；电话: +39 339 2514 712（官网公开）；邮箱（公开）: info@iotech-italia.net
+- **近况信号**：
+  - 目录已有「工业以太网交换机」类目 + 代理模式 → 可作 Saga STI 系列在意大利的技术代表/小分销；配合其 4G 路由器成套
+- **风险/边界**：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
+- **邮件切入句（英文）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -104,6 +142,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| L. Donato | 业主（官网版权栏「Iotech-Italia di L. Donato」） | info@iotech-italia.net（公司公开） / +39 339 2514 712 | 调研核实（公开页） | https://www.iotech-italia.net/wlink-tech |
 | Luca Sivori | — | info@iotech-italia.net / +393358784738 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -121,7 +160,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -165,7 +204,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -175,7 +213,7 @@ updated: 2026-10-21
 ```text
 Hi Luca,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

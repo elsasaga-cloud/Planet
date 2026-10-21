@@ -1,0 +1,97 @@
+{
+ "code": "SB-933",
+ "name_official": "Actelis Networks, Inc.（NASDAQ: ASNS；actelis.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "美国上市公司（NASDAQ: ASNS，1998 年成立，Fremont/Sunnyvale CA，51–200 人）：**混合光纤-铜缆**以太网接入设备（MetaLIGHT ML600/ML620/ML640Ex/ML684D、GigaLine GL800/GL900）、硬化 L2 光纤交换机与汇聚设备、网管与「cyber-hardened」安全；目标市场为联邦/州/地方政府、ITS、**军方、公用事业、铁路**、电信与园区。制造商兼潜在竞争者，且政府/军方导向意味着原产地与 TAA 门槛。用户表：S 重点，1 次实质回复，15 次跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Actelis（自产）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "产品定位与市场",
+   "quote": "Actelis Networks, Inc. (NASDAQ: ASNS) is a market leader in cyber-hardened, rapid-deployment networking solutions for wide-area IoT applications including federal, state and local government, ITS, military, utility, rail, telecom and campus applications. Actelis' unique portfolio of hybrid fiber-copper, environmentally hardened aggregation switches, high density Ethernet devices, advanced management software",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141284/000121390023035156/ea177800ex99-1_actelis.htm",
+   "date": "2023-05-01"
+  },
+  {
+   "kind": "官网",
+   "claim": "光纤交换机产品线",
+   "quote": "Actelis' fiber portfolio includes our managed layer 2 fiber switches and aggregation devices designed to extend connectivity over fiber, as well as our hybrid fiber-copper ethernet access devices",
+   "url": "https://actelis.com/actelis-products/products-technology/fiber/",
+   "date": "2023-02-03"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立年",
+   "quote": "Actelis Networks … Company size: 51-200 employees Headquarters: Sunnyvale, California Type: Public Company Founded: 1998",
+   "url": "https://www.linkedin.com/company/actelis-networks",
+   "date": "2026-01-28"
+  },
+  {
+   "kind": "用户表",
+   "claim": "S 重点；1 次实质回复；15 次跟进",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 公告核对）"
+ },
+ "company_facts": {
+  "legal_name": "Actelis Networks, Inc.（NASDAQ: ASNS）",
+  "founded": "1998",
+  "hq": "Fremont / Sunnyvale, California, USA",
+  "size": "51–200（LinkedIn）",
+  "other": "产品：ML600 系列 EAD（铜缆绑定 Ethernet，1–16 对，最高 240 Mbps）、ML684D 8 口硬化 DIN 混合交换机（2 SFP + 6 FE，−40~+75 ℃，12–48 VDC）、ML630R L3、GL800/GL900 千兆混合方案（2023-05）；客户案例含印度 Beetel/大型运营商"
+ },
+ "business_lines": [
+  "混合光纤-铜缆以太网接入设备（EAD）",
+  "硬化 L2 光纤交换机与汇聚",
+  "网管与网络安全加固"
+ ],
+ "products_seen": [
+  {
+   "brand": "Actelis",
+   "model": "ML684D",
+   "spec": "8 口硬化工业 DIN 混合光纤-铜缆管理交换机：2×100/1000 SFP + 6×10/100BT + 铜缆绑定，−40~+75 ℃，12–48 VDC 冗余",
+   "url": "https://actelis.com/portfolio/ml684d/",
+   "date": "2024-02-01",
+   "saga": "—（铜缆绑定技术，Saga 无；纯以太网侧可对位 STI-280DGGM）"
+  },
+  {
+   "brand": "Actelis",
+   "model": "ML640Ex 系列",
+   "spec": "6 口硬化管理混合交换机，2×100/1000F + 4×100/1000BT，MACsec 256-bit（EL 型）",
+   "url": "https://actelis.com/portfolio/ml640ex/",
+   "date": "2024-02-07",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://actelis.com/",
+  "LinkedIn": "https://www.linkedin.com/company/actelis-networks"
+ },
+ "signals": [
+  "其「managed layer 2 fiber switches and aggregation devices」为标准以太网品类，理论上可外购 OEM；但政府/军方客户结构下中国产品难入"
+ ],
+ "risks": [
+  "守界：军方、铁路、联邦政府为其核心市场——Saga 不供；TAA/NDAA 原产地限制",
+  "上市制造商、潜在竞争者；S 重点但仅 1 次回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "待核型：唯一路径是面向其非政府商业/海外（如印度运营商）项目的 OEM 标准 L2 光纤汇聚交换机（STI-480XGGM / STC-424XGGM 口型，OEM 30% 档）；在对方明确非 TAA 用途前不报价"
+ },
+ "email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?"
+}

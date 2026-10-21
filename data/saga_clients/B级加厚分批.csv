@@ -21,7 +21,7 @@ SB-868,B,T1,sstamenov91@gmail.com,保加利亚,欧洲,0,1,1,0,0,0,0,0,19,,1,0,0
 SA-128,B,T1,DIOS ULTRA HD VIDEO SECURITY SYSTEMS,荷兰,欧洲,0,1,1,0,0,0,0,0,16,dios-industries.com,1,1,1
 SA-105,B,T1,tricomp.com.pl,波兰,欧洲,0,1,1,0,0,0,0,0,15,tricomp.com.pl,1,1,0
 SB-159,B,T1,Arsenal TV,罗马尼亚,欧洲,0,1,1,0,0,0,0,0,14,,1,0,0
-SB-1324,B,T1,（未具名）,西班牙,欧洲,0,1,1,0,0,0,0,0,12,,0,0,0
+SB-1326,B,T1,（未具名）,西班牙,欧洲,0,1,1,0,0,0,0,0,12,,0,0,0
 SB-024,B,T1,STS Italia S.r.l.,意大利,欧洲,0,1,1,0,0,0,0,0,8,stsitalia.com,2,1,1
 SB-176,B,T1,gluszek.tomasz@gmail.com,爱尔兰,欧洲,0,1,1,0,0,1,0,0,5,,1,0,0
 SB-1026,B,T1,etictelecom.com,法国,欧洲,0,1,0,0,1,0,0,0,22,etictelecom.com,2,1,1
@@ -31,27 +31,25 @@ SB-459,B,T1,casecomms.com,英国,欧洲,0,1,0,0,0,0,0,1,20,casecomms.com;uk.com,
 SA-009,B,T1,fhn-na.com,美国,北美,0,1,0,0,0,1,0,0,19,fhn-na.com,1,1,0
 SA-053,B,T1,suministros-industriales.es,西班牙,欧洲,0,1,0,0,1,0,0,0,18,suministros-industriales.es,1,1,0
 SB-039,B,T1,genrov.com,英国,欧洲,0,1,0,0,0,0,0,0,16,genrov.com,1,1,1
-SB-101,B,T1,comtek-de.com,德国,欧洲,0,1,0,0,0,0,0,0,15,comtek-de.com,1,0,0
+SB-101,B,T1,comtek-de.com,德国,欧洲,0,1,0,0,0,0,0,0,15,comtek-de.com,1,1,1
 SB-799,B,T1,JTS TELECOM,加拿大,北美,0,1,0,0,0,0,0,0,15,,1,0,0
-SB-933,B,T1,actelis.com,美国,北美,0,1,0,0,1,0,0,0,15,actelis.com,2,0,0
+SB-933,B,T1,actelis.com,美国,北美,0,1,0,0,1,0,0,0,15,actelis.com,2,1,1
 SB-761,B,T1,chk999@outlook.com,美国,北美,0,1,0,0,0,0,0,0,14,,1,0,0
-SB-129,B,T1,extradigital.eu,欧洲（国别未填）,欧洲,0,1,0,0,0,0,0,0,11,extradigital.eu,1,0,0
-SB-462,B,T1,eminnovate.com,美国,北美,0,1,0,0,0,0,0,0,2,eminnovate.com,1,0,0
+SB-129,B,T1,extradigital.eu,欧洲（国别未填）,欧洲,0,1,0,0,0,0,0,0,11,extradigital.eu,1,1,1
+SB-462,B,T1,eminnovate.com,美国,北美,0,1,0,0,0,0,0,0,2,eminnovate.com,1,1,1
 SA-061,B,T1,Smart-Protect,德国,欧洲,0,1,0,0,0,0,1,0,1,smart-protect.nrw;walker-security.systems,1,1,0
-SB-040,B,T1,wirestar.net,美国,北美,0,1,0,0,0,0,0,0,1,wirestar.net,1,0,0
-SB-1019,B,T1,TELTRONIX | BRITICOM,英国,欧洲,0,1,0,0,0,0,0,1,1,briticom.net,1,0,0
-SB-126,B,T1,Dema Vertriebs GmbH,德国,欧洲,0,1,0,0,0,0,0,0,1,dema-vertrieb.com,1,0,0
-SB-066,B,T1,broadstar.com,美国,北美,0,0,1,0,0,0,1,0,23,broadstar.com,3,0,0
-SB-803,B,T1,Sedecorp,美国,北美,0,0,1,0,0,0,0,0,19,sedecorp.com,2,0,0
+SB-040,B,T1,wirestar.net,美国,北美,0,1,0,0,0,0,0,0,1,wirestar.net,1,1,1
+SB-1019,B,T1,TELTRONIX | BRITICOM,英国,欧洲,0,1,0,0,0,0,0,1,1,briticom.net,1,1,1
+SB-066,B,T1,broadstar.com,美国,北美,0,0,1,0,0,0,1,0,23,broadstar.com,3,1,1
 SB-750,B,T1,Le Reveil,加拿大,北美,0,0,1,0,0,0,0,0,15,,1,0,0
-SB-180,B,T1,iotech-italia.net,意大利,欧洲,0,0,1,0,0,0,0,0,13,iotech-italia.net,1,0,0
-SB-1099,B,T1,EION Inc,加拿大,北美,0,0,1,0,0,0,0,0,8,eion.com,1,0,0
-SB-192,B,T1,tvprzemyslowa.pl,波兰,欧洲,0,0,1,0,0,0,0,0,8,tvprzemyslowa.pl,1,0,0
-SB-315,B,T1,infinicoreinc.com,加拿大,北美,0,0,1,0,0,0,0,0,8,infinicoreinc.com,2,0,0
-SB-419,B,T1,Exxell Vision,法国,欧洲,0,0,1,0,0,0,0,0,8,exxell.fr,1,0,0
+SB-180,B,T1,iotech-italia.net,意大利,欧洲,0,0,1,0,0,0,0,0,13,iotech-italia.net,1,1,1
+SB-1099,B,T1,EION Inc,加拿大,北美,0,0,1,0,0,0,0,0,8,eion.com,1,1,1
+SB-192,B,T1,tvprzemyslowa.pl,波兰,欧洲,0,0,1,0,0,0,0,0,8,tvprzemyslowa.pl,1,1,1
+SB-315,B,T1,infinicoreinc.com,加拿大,北美,0,0,1,0,0,0,0,0,8,infinicoreinc.com,2,1,1
+SB-419,B,T1,Exxell Vision,法国,欧洲,0,0,1,0,0,0,0,0,8,exxell.fr,1,1,1
 SA-157,B,T1,Liveye,德国,欧洲,0,0,1,0,0,0,1,0,7,liveye.com,1,1,0
 SB-023,B,T1,Grundig,德国,欧洲,0,0,1,0,0,0,0,0,7,grundig-security.com;abetechs.com,1,0,0
-SB-120,B,T1,saf-slk.de,德国,欧洲,0,0,1,0,0,0,0,0,7,saf-slk.de,1,0,0
+SB-120,B,T1,saf-slk.de,德国,欧洲,0,0,1,0,0,0,0,0,7,saf-slk.de,1,1,1
 SA-086,B,T1,Safe-tech CCTV systems Sweden AB,瑞典,欧洲,0,0,1,0,0,0,1,0,6,safe-tech.se,1,1,0
 SB-021,B,T1,AVICAM Ltd.,保加利亚,欧洲,0,0,1,0,0,0,0,0,6,bg.com;avicam-bg.com,1,0,0
 SB-079,B,T1,"ISIMKO GmbH,Guhrower Straße",德国,欧洲,0,0,1,0,0,0,0,0,6,isimko.de,1,0,0
@@ -315,7 +313,7 @@ SB-162,B,T2,NKF wireless internet and services,菲律宾,亚太,0,1,0,0,0,0,0,1,
 SB-029,B,T2,ite.net.pk,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,ite.net.pk,3,0,0
 SB-1275,B,T2,powerlogic1965@gmail.com,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,,1,0,0
 SB-1276,B,T2,vienthonggiatot.com,越南,亚太,0,1,0,0,0,0,0,0,4,vienthonggiatot.com,1,0,0
-SB-1325,B,T2,（未具名）,台湾,亚太,0,1,0,0,0,0,0,0,4,,0,0,0
+SB-1327,B,T2,（未具名）,台湾,亚太,0,1,0,0,0,0,0,0,4,,0,0,0
 SB-427,B,T2,automationsystem.in,印度,南亚,0,1,0,0,0,0,0,0,4,automationsystem.in,1,0,0
 SB-099,B,T2,agsplus.in,印度,南亚,0,1,0,0,0,0,0,0,2,agsplus.in;xexagon.co.in;imimg.com,4,0,0
 SB-297,B,T2,SMART SECURITY SYSTEMS,印度,南亚,0,1,0,0,0,0,0,0,2,,1,0,0

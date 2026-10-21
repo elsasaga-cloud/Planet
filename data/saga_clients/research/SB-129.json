@@ -1,0 +1,83 @@
+{
+ "code": "SB-129",
+ "name_official": "EURODIGITAL UAB（e-shop ExtraDigital.eu，Kaunas, Lithuania）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "立陶宛考纳斯的泛欧电子/安防电商与分销商（EURODIGITAL UAB，公司代码 300638881，VAT LT100002890717；经营 15 年以上）：智能电子、安防与视频监控、光伏设备、EV 充电桩；自称「欧洲最佳 Dahua CCTV 分销商 / 欧洲最大仓库 / 当日发货全欧」。用户表：区域登记为「欧洲（国别未填）」→ 实为立陶宛；1 次实质回复，11 次跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务范围与年限",
+   "quote": "We are one of the largest suppliers of smart electronics, security, video surveillance systems, solar PV eqipement and EV charging stations in Europe, successfully operating more then 15 years.",
+   "url": "https://www.extradigital.eu/about-us",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "法人、公司代码、VAT",
+   "quote": "Seller – … registered private legal entity EURODIGITAL UAB. Company code 300638881, VAT payer code LT100002890717, registered office address Žemaičių str. 31, LT-44175, Kaunas",
+   "url": "https://www.extradigital.eu/purchasing-rules",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "办公地址与电话",
+   "quote": "EURODIGITAL, UAB Savanoriu ave. 235 Kaunas 50184 Lithuania … Call us: +370-671-30065",
+   "url": "https://www.extradigital.eu/contacts",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Dahua 分销定位",
+   "quote": "Best DAHUA CCTV distributor in Europe. IP CVI cameras. NVR HCVR best cheap price. Largest warehouse in Europe. Fastest shipping same day. UAB EURODIGITAL. Ship across Europe.",
+   "url": "https://www.extradigital.eu/news",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 次实质回复；11 次跟进；国别未填",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对 · 国别补齐）"
+ },
+ "company_facts": {
+  "legal_name": "EURODIGITAL, UAB",
+  "registry": "公司代码 300638881 · VAT LT100002890717（注册地址 Žemaičių g. 31, LT-44175 Kaunas）",
+  "hq": "Savanorių pr. 235, Kaunas 50184, Lithuania（+370 671 30065）",
+  "other": "品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货"
+ },
+ "business_lines": [
+  "泛欧电商（电子、安防、光伏、EV 充电）",
+  "Dahua CCTV 分销"
+ ],
+ "channels": {
+  "网店": "https://www.extradigital.eu/",
+  "电话": "+370 671 30065（官网公开）"
+ },
+ "signals": [
+  "Dahua 分销 + 全欧电商 → PoE 交换机为 CCTV 配套常规品类，可上架 Saga 8/16/24 口作自有价位带"
+ ],
+ "risks": [
+  "立陶宛为非主动挖掘国家（INH），仅跟现有线索；电商比价激烈，需以 20% 档"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
+ },
+ "email_hook": "For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?"
+}

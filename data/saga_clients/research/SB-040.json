@@ -1,0 +1,92 @@
+{
+ "code": "SB-040",
+ "name_official": "WireStar, Inc.（WireStar Networks，wirestar.net，College Station, TX）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "德州 College Station 的区域 ISP/CLEC 与 **MDU（多户住宅）/HOA 托管 WiFi 服务商**（2005 年创业、2007-12 注册；创始人 Kyle Leissner；11–50 人 / RocketReach 42 人、营收 $5.1M）：为「全国数百个多户住宅物业」提供最高 1 Gig 互联网（光纤、固定无线、有线、EoC、DSL）、WiFi 部署、语音、电视、安防门禁、托管 IT 与综合布线；SAM 登记 UEI PU66QHF8L5F6（可承接政府业务）。用户表：1 次实质回复，1 次跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务定位（MDU 托管 WiFi）",
+   "quote": "WireStar is a managed WiFi provider for multifamily, HOA, and COA communities. We design and support future-ready networks that scale with your portfolio.",
+   "url": "https://wirestar.net/",
+   "date": "2026-08-10"
+  },
+  {
+   "kind": "官网",
+   "claim": "创始人、总部、历史",
+   "quote": "That connection ignited a lifelong passion and led Kyle to found WireStar Networks in 2007. Headquartered in College Station, Texas, WireStar is now a premier provider of Internet, IT, and Managed Solutions with an emphasis on multiple dwelling unit (MDU) properties.",
+   "url": "https://wirestar.net/about/",
+   "date": "2025-10-14"
+  },
+  {
+   "kind": "官网",
+   "claim": "覆盖规模与接入技术",
+   "quote": "WireStar equips hundreds of multi-family properties across the country with fast, reliable internet up to 1 Gig … Fixed Wireless - Fiber - Cable - WiFi Deployment & Surveying - Mobile Internet - DSL - Ethernet over Cable (EoC)",
+   "url": "https://wirestar.net/residents/",
+   "date": "2025-10-14"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模与营收",
+   "quote": "Revenue · $5.1 million Employees · 42 … Founded · 2007 Address · 4156 TX-6, College Station, Texas 77845, US Phone · (979) 721-9000",
+   "url": "https://rocketreach.co/wirestar-networks-profile_b40e3dbaffe3b8fd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "1 次实质回复；1 次跟进",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Kyle Leissner",
+   "role": "Founder（官网 Our Story）",
+   "email": "—（未公开）",
+   "phone": "979-721-9000（公司）",
+   "source": "https://wirestar.net/about/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "WireStar, Inc.（d/b/a WireStar Networks）",
+  "founded": "2005（注册 2007-12-06）",
+  "hq": "4156 State Highway 6 S, College Station, TX 77845, USA（979-721-9000；免费 888-999-1525）",
+  "size": "11–50（LinkedIn）/ 42 人、$5.1M（RocketReach）",
+  "other": "创始人 Kyle Leissner；MDU/HOA/COA 托管 WiFi 为主业；BridgeWave 10 Gbps 毫米波回传案例（2018）"
+ },
+ "business_lines": [
+  "MDU / HOA 托管 WiFi 与楼宇网络",
+  "区域 ISP / CLEC（光纤、固定无线、EoC）",
+  "商业 IT、语音、安防门禁、布线"
+ ],
+ "channels": {
+  "网站": "https://wirestar.net/",
+  "电话": "979-721-9000（官网公开）",
+  "LinkedIn": "https://www.linkedin.com/company/wirestar"
+ },
+ "signals": [
+  "MDU WiFi 部署 = 每栋楼多台 PoE 接入交换机供 AP + 10G 上联——与 STC-424DGGPM-280W / STC-424XGGPM-280W 口型完全一致；美国客户需在二封前问 UL（INH 规则）"
+ ],
+ "risks": [
+  "US 运营商常要求 UL 列名与 TAA（其有 SAM 登记）——Saga 仅 FCC/CE；仅 1 次回复 + 1 次跟进，需重新激活"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 25,
+  "why": "运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM"
+ },
+ "email_hook": "For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?"
+}

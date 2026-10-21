@@ -1,0 +1,94 @@
+{
+ "code": "SB-1099",
+ "name_official": "EION Inc.（EION Wireless 事业部，eionwireless.com / eion.com，Ottawa-Kanata, ON）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（eionwireless.com）",
+ "summary": "加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "EION（自产无线）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与渠道规模",
+   "quote": "EION Wireless, a division of EION Inc. Since being founded in 2001, EION Wireless has been recognized multiple times as one of the fifty fastest growing wireless companies by Deloitte and Touche … works with more than 165 channel partners worldwide … privately owned Canadian company headquartered in Ottawa Canada",
+   "url": "https://www.eionwireless.com/who/company",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立年",
+   "quote": "EION Wireless … Industry: Wireless Services Company size: 51-200 employees Headquarters: Kanata, Ontario … Founded: 2001 Specialties: Software Services, Wireless, WiMAX, LTE, and Broadband",
+   "url": "https://ca.linkedin.com/company/eion",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "地址、电话、营收",
+   "quote": "150 Katimavik Rd Ste 304, Ottawa, Ontario, K2L 2N2, Canada (613) 271-4400 … Revenue $20.9 M Employees 47 Founded 2001",
+   "url": "https://www.datanyze.com/companies/eion-wireless/1164264922",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "新闻",
+   "claim": "收购 Aviat WiMAX 业务",
+   "quote": "Aviat Networks … has sold its WiMAX business to EION Networks, Inc. which is a privately owned Canadian Company headquartered in Ottawa, Ontario.",
+   "url": "https://investors.aviatnetworks.com/news-releases/news-release-details/aviat-networks-announces-sale-wimax-business-eion-wireless",
+   "date": "2011-09-06"
+  },
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；8 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Kalai Kalaichelvan（Dr.）",
+   "role": "Founder, President & CEO（公开）",
+   "email": "—（未公开）",
+   "phone": "+1 613-271-4400（公司）",
+   "source": "https://www.crunchbase.com/organization/eion-wireless"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "EION Inc.（EION Networks, Inc.；EION Wireless 为事业部）",
+  "founded": "2001",
+  "hq": "150 Katimavik Rd, Ste 304, Kanata (Ottawa), ON K2L 2N2, Canada（+1 613-271-4400）；Calgary 分部",
+  "size": "51–200（LinkedIn）/ 47 人、$20.9M（Datanyze）",
+  "other": "Deloitte 50 强多次；WiMAX→LTE；行业：企业、政府、油气、安防、国防（守界：国防线不供）"
+ },
+ "business_lines": [
+  "4G LTE / 宽带无线接入系统（基站、CPE）",
+  "运营商与 ISP 方案（165+ 渠道伙伴）",
+  "行业无线（油气、安防、政府）"
+ ],
+ "channels": {
+  "网站": "https://www.eionwireless.com/",
+  "电话": "+1 613-271-4400（名录公开）",
+  "LinkedIn": "https://ca.linkedin.com/company/eion"
+ },
+ "signals": [
+  "无线系统商的塔站/机房需要宽温 PoE 交换机为 CPE/AP/摄像供电并做 10G 回传汇聚——STI-288DGGPM / STI-448XGGGPM 可作配套或 EION 标 OEM 配件"
+ ],
+ "risks": [
+  "国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线"
+ },
+ "email_hook": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?"
+}

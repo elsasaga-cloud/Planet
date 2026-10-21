@@ -1,4 +1,5 @@
 # tvprzemyslowa.pl
+**官方名称（调研核实）**：TVprzemyslowa sp. z o.o. sp. k.（Uniforce TVprzemyslowa，tvprzemyslowa.pl，Poznań, PL）
 
 > **评级 B**　|　波兰　|　档案编号 `SB-192`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-192
 rating: B
 rating_auto: B
+name_official: "TVprzemyslowa sp. z o.o. sp. k.（Uniforce TVprzemyslowa，tvprzemyslowa.pl，Poznań, PL）"
 score: 49
 country: 波兰
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 8
 first_contact: 2025-02-27
 last_contact: 2025-10-21
-p1: STC-448DGGPM
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：AHD PoE FS MC SFP 网站：很多周边产品 类目比较乱；提到的品牌：FS
+- **是谁**：波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：AHD PoE FS MC SFP 网站：很多周边产品 类目比较乱）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-27 → 2025-10-21）
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-192.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（网店）
+- **是谁**：波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。
+- **在卖/在用品牌**：Hikvision, Dahua, IDIS, Eneo, ATTE
+- **【网店】法人与地址**
+  > TVprzemyslowa sp. z o.o. sp. k., Kórnicka 30, 61-141 Poznań … +48 61 875 04 76 kontakt@tvprzemyslowa.pl
+  > 来源：https://tvprzemyslowa.pl/product-pol-5715-Switch-POE-IDIS-DH-2112PF.html（抓取 2026-10-21）
+- **【网店】Eneo 16 口管理 PoE 价格**
+  > Switch PoE zarządzalny Eneo IAR-7SG1016MMA, 16-portowy - Gigabit Switch, Zarządzalny, 270W, 16x PoE, 4x SFP … Nasza cena: 1 876,07 zł
+  > 来源：https://tvprzemyslowa.pl/product-pol-6788-Switch-PoE-zarzadzalny-Eneo-IAR-7SG1016MMA-16-portowy.html（抓取 2026-10-21）
+- **【网店】Dahua 8 口价格**
+  > SWITCH POE PFS3009-8ET1GT-96 8-PORTOWY DAHUA … Nasza cena: 246,00 zł netto 302,58 zł brutto
+  > 来源：https://tvprzemyslowa.pl/product-pol-20864-SWITCH-POE-PFS3009-8ET1GT-96-8-PORTOWY-DAHUA.html（抓取 2026-10-21）
+- **【用户表】WhatsApp 已加；8 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店目录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | TVprzemyslowa sp. z o.o. sp. k.（品牌 Uniforce TVprzemyslowa） |
+| 总部/地址 | ul. Kórnicka 30, 61-141 Poznań（另见 Bodawska 11, 61-309 Poznań）, Polska（+48 61 875 04 76；kontakt@tvprzemyslowa.pl） |
+| 其他 | 网店类目：监控（Hikvision/Dahua/IDIS/Eneo/ATTE 等），含专门的「Switche POE Dahua」类目 |
+
+- **业务线**：CCTV/IP 监控设备网店与分销；PoE 交换机与供电配件
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Hikvision | DS-3E0310P-E/M | 8×FE PoE + 2×GE 上联，60W | STC-28DGGPM（千兆升级） | https://tvprzemyslowa.pl/product-pol-20771-SWITCH-POE-DS-3E0310P-E-M-8-PORTOWY-Hikvision.html（2026-10-21） |
+| Dahua | PFS3009-8ET1GT-96 | 8×FE PoE + 1 GE，96W，246 zł 净 / 302.58 zł 含税 | STC-28DGGPM（价位参照：≈$65 含税） | https://tvprzemyslowa.pl/product-pol-20864-SWITCH-POE-PFS3009-8ET1GT-96-8-PORTOWY-DAHUA.html（2026-10-21） |
+| IDIS | DH-2112PF | 10×RJ45 + 2×SFP，PoE 150W，1,782.86 zł 净 | STC-28DGGPM（$80.7 @20%，价差巨大） | https://tvprzemyslowa.pl/product-pol-5715-Switch-POE-IDIS-DH-2112PF.html（2026-10-21） |
+| Eneo | IAR-7SG1016MMA | 16×GE PoE + 4×SFP 管理，270W，1U，1,876.07 zł | STI-21616GP（16 PoE） | https://tvprzemyslowa.pl/product-pol-6788-Switch-PoE-zarzadzalny-Eneo-IAR-7SG1016MMA-16-portowy.html（2026-10-21） |
+| ATTE | IPUPS-5-11-F | 5 PoE + 1 上联，内置缓冲电源 72W，Long Range 280 m，499 zł | STI-144GP（4 PoE，机柜内安装） | https://tvprzemyslowa.pl/product-pol-10143-Switch-PoE-ATTE-IPUPS-5-11-F-do-5-kamer-IP-w-obudowie-wewnetrznej-niezarzadzalny.html（2026-10-21） |
+
+- **触达通道（公开）**：网店: https://tvprzemyslowa.pl/；电话: +48 61 875 04 76（官网公开）；邮箱（公开）: kontakt@tvprzemyslowa.pl
+- **近况信号**：
+  - 网店已有多品牌 PoE 交换机类目，中高端（IDIS/Eneo）价位 1,800–1,900 zł（≈$450–480）——Saga 管理型千兆机有 3–5 倍价差空间作自有价位带
+- **风险/边界**：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
+- **邮件切入句（英文）**：Between the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -115,18 +157,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -136,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -160,19 +201,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Between the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Hikvision DS-3E0310P-E/M at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
