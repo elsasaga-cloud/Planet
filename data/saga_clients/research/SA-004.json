@@ -26,10 +26,47 @@
    "quote": "Wireless Communication - Indian Army Communication - … SILVUS Tactical Solutions - Tactical Solutions",
    "url": "https://sslcom.com/product_cat/wireless-communication/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CEO；成交 240W/24V 电源",
+   "quote": "240W/24V 10A / Shimon Lazarovitch CEO 可以尝试多跟进一下 / 邮件中有详细的联系方式",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "grade_override": "B",
- "override_reason": "成单客户但核心业务是战术/军用无线与安全城市项目（INH 守界：军工/公共部门不主动投入）；交换机只是项目配套。保留为 B：被动响应其询价，不主动推。",
+ "grade_override": "C",
+ "override_reason": "守界：SSL（sslcom.com）为以色列无线/战术通信方案商，代理 SILVUS、Microhard 等战术电台，案例含 Indian Army Communication、SILVUS Tactical Solutions——主业军用通信（INH 规则：军用不供）；历史成交仅为 240 W/24 V 电源类",
  "notes": "用户如认为以色列项目配套值得主动跟，可在 人工定级.csv 改回 A。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 军用守界降 C）"
+ },
+ "company_facts": {
+  "legal_name": "SSL（sslcom.com）",
+  "founded": "2001",
+  "hq": "Kfar Hasidim, Israel",
+  "size": "小型方案商",
+  "other": "代理 VTQ / SILVUS / ORION / MICROHARD / REICOM；案例 Indian Army、SILVUS Tactical、safe city"
+ },
+ "business_lines": [
+  "无线/战术通信方案（军警为主）"
+ ],
+ "channels": {
+  "网站": "https://sslcom.com/",
+  "邮箱": "ceo@sslcom.com（用户表）"
+ },
+ "signals": [
+  "历史成交为 240W/24V 10A 电源（非交换机）；CEO 直接联系"
+ ],
+ "risks": [
+  "军用主业 → 守界降 C；资料保留，不主动跟进"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进（军用守界）"
+ },
+ "email_hook": "（不主动发送）"
 }

@@ -1,8 +1,8 @@
 {
  "code": "SA-121",
- "name_official": "Multilink (Pvt) Ltd（津巴布韦）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "津巴布韦网络/安防设备公司，2011–2013 年多次成交（8V1D、16V1D、18 路机架光端机，2013 年买过 FS），E 冷名单 1 次跟进 0 回复。",
+ "name_official": "Multilink (Pvt) Ltd → SECURICO Electronic Division（Harare, Zimbabwe；securico.co.zw）",
+ "website_status": "在线（母公司站）",
+ "summary": "津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。",
  "type": "经销/集成商",
  "size": "待补证",
  "brands_seen": [],
@@ -11,6 +11,41 @@
    "kind": "用户记录",
    "claim": "2011–2013 年买过 8V1D/16V1D/18 机架光端机与 FS",
    "quote": "8V1D 16V1D 18机架 11 13年 13年买了FS 很多种类的（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司定位与联系方式",
+   "quote": "DDNS Security Operations (Private) LTD trading as SECURICO was founded in 1998. … clientele base of over 5,000 country-wide … Ebenezer House, No. 5 Millwood Road, Workington, Harare",
+   "url": "https://www.securico.co.zw/",
+   "date": "2024-10-22"
+  },
+  {
+   "kind": "名录",
+   "claim": "Multi-Link 并购",
+   "quote": "In 2008, Securico acquired an electronic security systems company called Multi-Link.",
+   "url": "https://www.pindula.co.zw/Securico_Security_Services",
+   "date": "2018-07-12"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模与电子事业部",
+   "quote": "with over 4,300 employees … an electronic security division offering burglar/fire alarms, access control, CCTV and offsite/remote monitoring. The electronic security arm grew from its 2008 acquisition of Multi-Link.",
+   "url": "https://www.monitoringstationguide.com/company/securico-harare",
+   "date": "2026-06-27"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Email Us info@securico.co.zw Call Us +2632 621956/7 +263 772 140 773/4",
+   "url": "https://securico.co.zw/contact-us/",
+   "date": "2024-08-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2011–2013 成交",
+   "quote": "8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,10 +57,49 @@
    "email": "",
    "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Samuel Kanoyangwa / Blessing Murondiwa",
+   "role": "（用户表联系人；职务待核）",
+   "email": "info@securico.co.zw（用户表）",
+   "phone": "+263 242 621 956（公司）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。",
  "notes": "一封老客户回访邮件（FS 对位 STI 工业线）即可。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "DDNS Security Operations (Private) Ltd t/a SECURICO（Multilink (Pvt) Ltd 为其 2008 年收购的电子事业部）",
+  "founded": "1998（Securico）",
+  "hq": "Ebenezer House, 10 Millwood Road, Workington, Harare（+263 242 621 956/7；+263 772 140 773/4；info@securico.co.zw）",
+  "size": "1,001–5,000（LinkedIn）；4,300+ 员工（名录）",
+  "other": "电子安防（CCTV、报警、门禁、远程监控）+ 保安/押运"
+ },
+ "business_lines": [
+  "电子安防系统集成与监控（原 Multi-Link）",
+  "保安、押运、风险管理"
+ ],
+ "channels": {
+  "网站": "https://www.securico.co.zw/",
+  "电话": "+263 242 621 956/7（公开）",
+  "邮箱（公开）": "info@securico.co.zw"
+ },
+ "signals": [
+  "2011–2013 多次成交（光端机 + FS）→ 老客户复购；5,000+ 客户的电子安防部 = 稳定 PoE 交换机用量"
+ ],
+ "risks": [
+  "非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?"
 }

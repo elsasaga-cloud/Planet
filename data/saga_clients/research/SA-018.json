@@ -1,0 +1,53 @@
+{
+ "code": "SA-018",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "",
+ "summary": "（加厚挖掘建档，摘要见下文加厚块）",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "S 重点；之前谈了工业 FS；CEO；WA 加不上",
+   "quote": "之前谈了工业FS / Sergey Khodun CEO / tel: 38(044)59 37976 加不上 / germany24.com.ua / planet.kiev.ua",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界）"
+ },
+ "company_facts": {
+  "legal_name": "Germany24 / planet.kiev.ua 运营主体（待核）",
+  "hq": "Kyiv, Ukraine（+380 44 593 7976，WA 加不上）",
+  "size": "待核",
+  "other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复"
+ },
+ "business_lines": [
+  "网络设备经销（PLANET 线）",
+  "（待核）德国商品代购站 germany24"
+ ],
+ "channels": {
+  "网站": "germany24.com.ua · planet.kiev.ua（未抓取）",
+  "邮箱": "info@germany24.com.ua（用户表）"
+ },
+ "signals": [
+  "曾谈工业 FS（光纤交换机）→ 对位 PLANET 工业 DIN 系列；S 重点名单；CEO Sergey Khodun 直达"
+ ],
+ "risks": [
+  "乌克兰：战时物流/保险/付款与最终用途不可控 → 守界（只被动响应、不主动推送军用可用品类）；WA 加不上"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
+ },
+ "email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $139.9; please confirm the civil end-use and delivery route so I can quote shipping.）"
+}

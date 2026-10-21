@@ -13,6 +13,13 @@
    "quote": "工业FS（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS；买了 KONTEN 模块（外贸数据）",
+   "quote": "工业FS / 买了台湾KONTEN的模块 / 富通天下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -27,5 +34,34 @@
  "grade_override": "B",
  "override_reason": "无互动、仅群发来源、印度非主攻区；A 级自动判定来自历史成交/关键词，证据不足 → B。",
  "notes": "一封首触邮件即可。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "Amity Technologies（amitytechnologies.co.in）",
+  "hq": "India",
+  "size": "待核",
+  "other": "注：「买了台湾 KONTEN 的模块」为富通天下外贸数据（从同行采购），非 Saga 成交"
+ },
+ "business_lines": [
+  "网络产品/光模块经销"
+ ],
+ "channels": {
+  "网站": "amitytechnologies.co.in（未核）",
+  "邮箱": "info@amitytechnologies.co.in（用户表）"
+ },
+ "signals": [
+  "兴趣工业 FS + 进口台湾模块 → 工业 DIN 光纤交换机对位"
+ ],
+ "risks": [
+  "南亚非主攻区；印度 BIS 认证要求（交换机需 BIS/CRS）；无互动"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS"
+ },
+ "email_hook": "Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?"
 }

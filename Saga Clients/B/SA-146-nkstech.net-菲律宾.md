@@ -1,5 +1,5 @@
 # nkstech.net
-**官方名称（调研核实）**：NKS Tech（nkstech.net，菲律宾）
+**官方名称（调研核实）**：Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）
 
 > **评级 B**　|　菲律宾　|　档案编号 `SA-146`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -10,7 +10,7 @@ code: SA-146
 rating: B
 rating_auto: A
 rating_research: B  # 同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。
-name_official: "NKS Tech（nkstech.net，菲律宾）"
+name_official: "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）"
 score: 61
 country: 菲律宾
 region: 亚太
@@ -22,8 +22,8 @@ replies: 0
 followups: 1
 first_contact: 2025-10-09
 last_contact: 2025-10-09
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STI-288DGGPM
+price_tier: 25%
 research: done
 sources: 1
 updated: 2026-10-21
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：菲律宾网络/安防公司，曾采购迈威（Maiwe），E 冷名单 1 次跟进 0 回复。（调研 2026-10-21；表内兴趣：买了迈威的）
+- **是谁**：菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：**调研后定级 B**（同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -56,18 +56,48 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：菲律宾网络/安防公司，曾采购迈威（Maiwe），E 冷名单 1 次跟进 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。
 - **类型**：经销/集成商
 - **规模**：待补证
-- **在卖/在用品牌**：迈威 Maiwe（用户记录）
+- **在卖/在用品牌**：迈威 Maiwe（用户记录）, Maiwe 迈威（外贸数据在采）, GE-Harris（RTU）
 - **【用户记录】买了迈威的；0 回复**
   > 买了迈威的（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】公司定位与地址**
+  > NKS or NAYON KONTROL SYSTEMS is a technology-based company established to provide solutions for SCADA and Automation systems primarily for electric utilities in the Philippines. … No. 4 Illinois St. Brgy. Silangan, District III Cubao, Quezon City Philippines 1109 Phone: (+632) 913-1347 … Email: info@nks.ph
+  > 来源：https://www.nkstech.net/about.php（抓取 2026-10-21）
+- **【行业名录】客户名单**
+  > NKS's growing list of clients now include: National Grid Corporation of the Philippines (NGCP), Meralco, First Gen Corporation, DMCI, Citicore, Global Business Power Corporation, TransAsia, TEAM Energy, Manila Water and Palau Public Utilities.
+  > 来源：https://www.pe2.org/members/nayon-kontrol-systems-nks（抓取 2026-10-21）
+- **【名录】规模**
+  > Nayon Kontrol Systems Information … Employees · 43 … Founded · 1996 … Address · No. 4 Illinois St, Brgy. Silangan, Cubao, Quezon City
+  > 来源：https://rocketreach.co/nayon-kontrol-systems-profile_b7c271fac1827400（抓取 2026-10-21）
+- **【用户表】富通天下：买了迈威的**
+  > 买了迈威的 / 富通天下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Mark Delapaz（（NKS 员工，ZoomInfo 公开；职务待核））— +632 8913 1347（公司）〔https://www.zoominfo.com/p/Mark-Delapaz/-1345711402〕
 - **调研后定级**：B（原自动 A）——同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。
 - 备注：一封'迈威对位 STI 工业线'邮件。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Nayon Kontrol Systems |
+| 成立 | 1996 |
+| 总部/地址 | No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109（+632 8913 1347；info@nks.ph） |
+| 其他 | GE-Harris D20 RTU 专长；关联 NKS Solar One Inc. |
+
+- **业务线**：电力 SCADA / 变电站自动化集成；RTU / 网关 / 运维
+- **触达通道（公开）**：网站: https://www.nkstech.net/；电话: +632 8913 1347（公开）；邮箱: info@nks.ph（官网公开）；info@nkstech.net（用户表）
+- **近况信号**：
+  - 变电站自动化集成商已外采 Maiwe → DIN 管理型工业交换机（ERPS、IEC 61850 环境）第二来源
+  - 客户 Citicore（SA-142）同在名单 → 可串联
+- **风险/边界**：变电站需 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC → 仅限非认证场景）；电力公共事业按个案守界；亚太非主攻区
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）
+- **邮件切入句（英文）**：Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -93,7 +123,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@nkstech.net | 用户表原值 | Clients/ 表 |
+| Mark Delapaz | （NKS 员工，ZoomInfo 公开；职务待核） | — / +632 8913 1347（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Mark-Delapaz/-1345711402 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -109,28 +139,27 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
 - **S**：有成交史，信任与开户成本已付
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入；规模（调研）：待补证
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -146,7 +175,7 @@ updated: 2026-10-21
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 迈威 |
 | 采购量/预算 | ✅ 有成交史（量待确认） |
@@ -159,14 +188,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Mark,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

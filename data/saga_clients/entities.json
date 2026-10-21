@@ -1690,10 +1690,10 @@
 "+5 最近活动 2025",
 "+5 跟进表最近平台标记 S"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "有回复·跟进中",
 "code": "SA-004",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SA-004",
 "name_official": "SSL（sslcom.com，Kfar Hasidim, Israel）",
@@ -1722,12 +1722,49 @@
 "quote": "Wireless Communication - Indian Army Communication - … SILVUS Tactical Solutions - Tactical Solutions",
 "url": "https://sslcom.com/product_cat/wireless-communication/",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "CEO；成交 240W/24V 电源",
+"quote": "240W/24V 10A / Shimon Lazarovitch CEO 可以尝试多跟进一下 / 邮件中有详细的联系方式",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"grade_override": "B",
-"override_reason": "成单客户但核心业务是战术/军用无线与安全城市项目（INH 守界：军工/公共部门不主动投入）；交换机只是项目配套。保留为 B：被动响应其询价，不主动推。",
+"grade_override": "C",
+"override_reason": "守界：SSL（sslcom.com）为以色列无线/战术通信方案商，代理 SILVUS、Microhard 等战术电台，案例含 Indian Army Communication、SILVUS Tactical Solutions——主业军用通信（INH 规则：军用不供）；历史成交仅为 240 W/24 V 电源类",
 "notes": "用户如认为以色列项目配套值得主动跟，可在 人工定级.csv 改回 A。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 军用守界降 C）"
+},
+"company_facts": {
+"legal_name": "SSL（sslcom.com）",
+"founded": "2001",
+"hq": "Kfar Hasidim, Israel",
+"size": "小型方案商",
+"other": "代理 VTQ / SILVUS / ORION / MICROHARD / REICOM；案例 Indian Army、SILVUS Tactical、safe city"
+},
+"business_lines": [
+"无线/战术通信方案（军警为主）"
+],
+"channels": {
+"网站": "https://sslcom.com/",
+"邮箱": "ceo@sslcom.com（用户表）"
+},
+"signals": [
+"历史成交为 240W/24V 10A 电源（非交换机）；CEO 直接联系"
+],
+"risks": [
+"军用主业 → 守界降 C；资料保留，不主动跟进"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不推进（军用守界）"
+},
+"email_hook": "（不主动发送）"
 }
 },
 {
@@ -6934,7 +6971,60 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SA-018",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SA-018",
+"name_official": "",
+"researched_at": "2026-10-21",
+"website_status": "",
+"summary": "（加厚挖掘建档，摘要见下文加厚块）",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "S 重点；之前谈了工业 FS；CEO；WA 加不上",
+"quote": "之前谈了工业FS / Sergey Khodun CEO / tel: 38(044)59 37976 加不上 / germany24.com.ua / planet.kiev.ua",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界）"
+},
+"company_facts": {
+"legal_name": "Germany24 / planet.kiev.ua 运营主体（待核）",
+"hq": "Kyiv, Ukraine（+380 44 593 7976，WA 加不上）",
+"size": "待核",
+"other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复"
+},
+"business_lines": [
+"网络设备经销（PLANET 线）",
+"（待核）德国商品代购站 germany24"
+],
+"channels": {
+"网站": "germany24.com.ua · planet.kiev.ua（未抓取）",
+"邮箱": "info@germany24.com.ua（用户表）"
+},
+"signals": [
+"曾谈工业 FS（光纤交换机）→ 对位 PLANET 工业 DIN 系列；S 重点名单；CEO Sergey Khodun 直达"
+],
+"risks": [
+"乌克兰：战时物流/保险/付款与最终用途不可控 → 守界（只被动响应、不主动推送军用可用品类）；WA 加不上"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
+},
+"email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $139.9; please confirm the civil end-use and delivery route so I can quote shipping.）"
+}
 },
 {
 "name": "cxr.com",
@@ -32587,20 +32677,50 @@
 "grade": "B",
 "research": {
 "code": "SA-088",
-"name_official": "fibotelecom.ru（俄罗斯；用户记录：DWDM 线索，采购 Anastasia Roshchupkina）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "俄罗斯光传输/DWDM 领域采购线索（用户记录：买过飞宇的产品，属 DPtek 客户群），无任何跟进互动，2024 年线索。",
+"name_official": "FIBO-TELECOM（fibotelecom.ru，Russia；光通信产品分销商，自有品牌 FIBO / FT-）",
+"website_status": "在线（电商）",
+"summary": "俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过飞宇的产品；兴趣光模块 PON、SFP、MC；备注链接其交换机目录。自有品牌 + Marvell/Realtek 双线与 Saga 完全同构 → OEM 30%（贴 FIBO 牌）。",
 "type": "运营商/光传输采购（待补证）",
 "size": "待补证",
 "brands_seen": [
 "飞宇（用户记录）",
-"DPtek（用户记录）"
+"DPtek（用户记录）",
+"FIBO / FT-（自有品牌）",
+"DK（自有系列）"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "DWDM 线索；0 次跟进；采购联系人具名",
 "quote": "DWDM lead, 0 fu, DPtek customer；买了飞宇的；Anastasia Roshchupkina / Purchasing（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "DK 系列型号与价格",
+"quote": "Коммутатор DK2310R-24T4X L3, 24*10/100/1000Base-T, 4*1G/2.5G/10G SFP+ Realtek 42 849,70 ₽ … DK2110R-8T2S L2, 8*10/100/1000Base-T, 2*1G SFP, Realtek 16 663,62 ₽ … DK2110M-8T2S L2, 8*10/100/1000 Base-T, 2*1000 Base-X SFP, Marvell 21 424,40 ₽ … DK2110M-24T4S L2, 24*10/100/1000Base-T, 4*1G SFP, Marvell 27 614,49 ₽",
+"url": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "自有品牌 PoE 交换机",
+"quote": "Коммутатор неуправляемый POE FT-S118FP-2T1S 8*10/100M RJ45 POE, 2*10/100M/1000 RJ45 1*SFP, корпус металл … 4 840,92 ₽",
+"url": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_poe",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "自有品牌 SFP 与电话",
+"quote": "FIBO FT-S1-C3940LD совместимый 1G CWDM SFP модуль 1390нм 40км … Звоните 8 (800) 550-22-45!",
+"url": "https://fibotelecom.ru/catalog/sovmestimye_transivery/sfp_transivery/1g_cwdm_sfp_modul_1390nm_40km_ft_s1_c3940ld-compatible-fibo-ft_s1_c3940ld",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MIPS 2024；采购 KP；买过飞宇；目录链接",
+"quote": "光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -32617,7 +32737,74 @@
 "grade_override": "B",
 "override_reason": "DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。",
 "notes": "若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（网店核对）"
+},
+"company_facts": {
+"legal_name": "FIBO-TELECOM（ООО，全称待核）",
+"hq": "Россия（Москва/СПб 配送；8 800 550-22-45）",
+"size": "中小型分销商",
+"other": "自有品牌 FIBO / FT-；DK 系列（Marvell 与 Realtek 两条线）"
+},
+"business_lines": [
+"兼容 SFP / CWDM-DWDM 模块",
+"交换机（PoE 非管理、L2/L2+/L3 管理）",
+"媒体转换器、PON"
+],
+"products_seen": [
+{
+"brand": "FIBO DK",
+"model": "DK2110M-8T2S",
+"spec": "L2 管理，8 GE + 2 SFP，Marvell；21,424 ₽ 含 VAT",
+"saga": "STC-28DGGM/STC-28DGGPM 同平台（PoE 版 $87.4@30）",
+"url": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet",
+"date": "2026-10-21"
+},
+{
+"brand": "FIBO DK",
+"model": "DK2110R-8T2S",
+"spec": "L2 管理，8 GE + 2 SFP，Realtek；16,664 ₽",
+"saga": "STC-28GM（列表 $50.6）/ STC-28GPM（$62.2）",
+"url": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet",
+"date": "2026-10-21"
+},
+{
+"brand": "FIBO DK",
+"model": "DK2310R-24T4X",
+"spec": "L3，24 GE + 4×10G SFP+，Realtek；42,850 ₽",
+"saga": "STC-424XGGM(L3)（$291.5@30）",
+"url": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet",
+"date": "2026-10-21"
+},
+{
+"brand": "FIBO FT",
+"model": "FT-S118FP-2T1S",
+"spec": "8 FE PoE + 2 GE + 1 SFP 非管理；4,841 ₽",
+"saga": "STC-028GP 千兆升级（$24.2）",
+"url": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_poe",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"网店": "https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet",
+"电话": "8 (800) 550-22-45（公开）",
+"邮箱": "roshchupkina@fibotelecom.ru / info@fibotelecom.ru（用户表）"
+},
+"signals": [
+"自有品牌 DK 系列同时有 Marvell 与 Realtek 版本——与 Saga STI/STC 双线一一对应 → 贴牌第二来源（OEM 30%）",
+"采购 KP 具名（Anastasia Roshchupkina）"
+],
+"risks": [
+"俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X"
+},
+"email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?"
 }
 },
 {
@@ -44878,9 +45065,9 @@
 "grade": "B",
 "research": {
 "code": "SA-121",
-"name_official": "Multilink (Pvt) Ltd（津巴布韦）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "津巴布韦网络/安防设备公司，2011–2013 年多次成交（8V1D、16V1D、18 路机架光端机，2013 年买过 FS），E 冷名单 1 次跟进 0 回复。",
+"name_official": "Multilink (Pvt) Ltd → SECURICO Electronic Division（Harare, Zimbabwe；securico.co.zw）",
+"website_status": "在线（母公司站）",
+"summary": "津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。",
 "type": "经销/集成商",
 "size": "待补证",
 "brands_seen": [],
@@ -44889,6 +45076,41 @@
 "kind": "用户记录",
 "claim": "2011–2013 年买过 8V1D/16V1D/18 机架光端机与 FS",
 "quote": "8V1D 16V1D 18机架 11 13年 13年买了FS 很多种类的（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位与联系方式",
+"quote": "DDNS Security Operations (Private) LTD trading as SECURICO was founded in 1998. … clientele base of over 5,000 country-wide … Ebenezer House, No. 5 Millwood Road, Workington, Harare",
+"url": "https://www.securico.co.zw/",
+"date": "2024-10-22"
+},
+{
+"kind": "名录",
+"claim": "Multi-Link 并购",
+"quote": "In 2008, Securico acquired an electronic security systems company called Multi-Link.",
+"url": "https://www.pindula.co.zw/Securico_Security_Services",
+"date": "2018-07-12"
+},
+{
+"kind": "名录",
+"claim": "规模与电子事业部",
+"quote": "with over 4,300 employees … an electronic security division offering burglar/fire alarms, access control, CCTV and offsite/remote monitoring. The electronic security arm grew from its 2008 acquisition of Multi-Link.",
+"url": "https://www.monitoringstationguide.com/company/securico-harare",
+"date": "2026-06-27"
+},
+{
+"kind": "官网",
+"claim": "联系方式",
+"quote": "Email Us info@securico.co.zw Call Us +2632 621956/7 +263 772 140 773/4",
+"url": "https://securico.co.zw/contact-us/",
+"date": "2024-08-21"
+},
+{
+"kind": "用户表",
+"claim": "2011–2013 成交",
+"quote": "8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -44900,12 +45122,51 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Samuel Kanoyangwa / Blessing Murondiwa",
+"role": "（用户表联系人；职务待核）",
+"email": "info@securico.co.zw（用户表）",
+"phone": "+263 242 621 956（公司）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。",
 "notes": "一封老客户回访邮件（FS 对位 STI 工业线）即可。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "DDNS Security Operations (Private) Ltd t/a SECURICO（Multilink (Pvt) Ltd 为其 2008 年收购的电子事业部）",
+"founded": "1998（Securico）",
+"hq": "Ebenezer House, 10 Millwood Road, Workington, Harare（+263 242 621 956/7；+263 772 140 773/4；info@securico.co.zw）",
+"size": "1,001–5,000（LinkedIn）；4,300+ 员工（名录）",
+"other": "电子安防（CCTV、报警、门禁、远程监控）+ 保安/押运"
+},
+"business_lines": [
+"电子安防系统集成与监控（原 Multi-Link）",
+"保安、押运、风险管理"
+],
+"channels": {
+"网站": "https://www.securico.co.zw/",
+"电话": "+263 242 621 956/7（公开）",
+"邮箱（公开）": "info@securico.co.zw"
+},
+"signals": [
+"2011–2013 多次成交（光端机 + FS）→ 老客户复购；5,000+ 客户的电子安防部 = 稳定 PoE 交换机用量"
+],
+"risks": [
+"非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?"
 }
 },
 {
@@ -45059,7 +45320,35 @@
 "grade_override": "B",
 "override_reason": "2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。",
 "notes": "回访一封；待补证：完整公司名与网站。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "PT. Anugerah（pt-aag.co.id；全称待核）",
+"hq": "Indonesia",
+"size": "待核",
+"other": "2011 年买过 12 台延长器；E 冷名单 1 次跟进"
+},
+"business_lines": [
+"（待核）网络/安防设备贸易"
+],
+"channels": {
+"邮箱": "gunawan@pt-aag.co.id（用户表）"
+},
+"signals": [
+"老客户（2011 延长器 12 台）→ 延长器类不在 Saga 现 SKU（Q-32），改推 PoE 交换机"
+],
+"risks": [
+"延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 25,
+"why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32"
+},
+"email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
 }
 },
 {
@@ -45164,9 +45453,9 @@
 "grade": "B",
 "research": {
 "code": "SA-123",
-"name_official": "Prestige Satellites Communications（秘鲁）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "秘鲁卫星/通信公司，历史上买过 MC 与 PoE（用户记录），群发名单，无后续跟进。",
+"name_official": "Prestige Satellite Communications Inc.（prestigevsat.com；Fort Lauderdale, FL, USA——用户表记为秘鲁 S.A.C.，国家待核）",
+"website_status": "在线",
+"summary": "域名 prestigevsat.com 对应 Prestige Satellite Communications Inc.（佛罗里达州公司，2016-01-26 注册；Fort Lauderdale；为豪华游艇提供 VSAT / TVRO / IT 网络服务与安装维修；团队 30+ 年经验；1–10 人）。用户表（外贸邦群发名单）记为「Prestige Satellites Communications S.A.C.（秘鲁）」，rob@prestigevsat.com，买了 MC PoE——公司后缀 S.A.C. 与域名所指美国公司不一致，国家待核（美国则属主攻区）。游艇 IT 网络 → 小型 PoE/工业机（振动/盐雾环境需注意）。",
 "type": "通信集成/经销商",
 "size": "待补证",
 "brands_seen": [],
@@ -45175,6 +45464,34 @@
 "kind": "用户记录",
 "claim": "买了 MC、PoE；0 次跟进",
 "quote": "买了MC POE（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "业务定位",
+"quote": "We specialize in providing quality Yacht VSAT, TVRO, and IT services to luxury vessels. Our team has over 30 years industry experience.",
+"url": "https://www.prestigevsat.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人与地址",
+"quote": "PRESTIGE SATELLITE COMMUNICATIONS INC … Date Filed 01/26/2016 … State FL Status ACTIVE … 2873 SW 14th Street FORT LAUDERDALE, FL 33312",
+"url": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=PRESTIGESATELLITECOMMUNICATION+P160000090000&aggregateId=domp-p16000009000-20d41eec-a083-4d54-9313-5c26da829222&searchTerm=PRESTIGE+SAT+LLC.&listNameOrder=PRESTIGESAT+L190001332050",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "规模",
+"quote": "Prestige Satellite Communications corporate office is located in … Fort Lauderdale, Florida … and has 1-10 employees.",
+"url": "https://www.zoominfo.com/pic/prestige-satellite-communications-inc/529035093",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "买了 MC PoE；记为秘鲁 S.A.C.",
+"quote": "买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸邦",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -45186,12 +45503,51 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Rob（姓待核）",
+"role": "（用户表邮箱前缀；疑负责人）",
+"email": "rob@prestigevsat.com（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "有历史成交但无时间、无互动记录，南美非主攻区 → B 待机回访。",
 "notes": "老客户回访一封（STI-110GE + STC-28DGGPM）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 登记核对；国家待核 US/PE）"
+},
+"company_facts": {
+"legal_name": "PRESTIGE SATELLITE COMMUNICATIONS INC（Florida P16000009000）",
+"founded": "2016-01-26（FL 登记）",
+"hq": "2873 SW 14th Street, Fort Lauderdale, FL 33312（登记）",
+"size": "1–10（ZoomInfo）",
+"other": "游艇 VSAT/TVRO/IT；用户表后缀 S.A.C.（秘鲁）待核"
+},
+"business_lines": [
+"超级游艇 VSAT / TVRO 安装维护",
+"船载 IT 网络 / 4G-5G"
+],
+"channels": {
+"网站": "https://www.prestigevsat.com/",
+"邮箱": "rob@prestigevsat.com（用户表）",
+"X": "https://twitter.com/Prestigevsat"
+},
+"signals": [
+"买过 MC PoE → 船载网络小型 PoE/光纤接入；若为美国公司则属主攻区"
+],
+"risks": [
+"国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证"
+],
+"saga_fit": {
+"p1": "STI-144GP",
+"tier": 25,
+"why": "项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）"
+},
+"email_hook": "Rob, following the PoE media converters you bought: for yacht networks we now have a compact DIN-rail 4× GbE PoE + SFP industrial switch at $35.5 EXW (−40/+75 °C, 12–48 V DC input) — are your installs still converter-based, or would a fanless PoE switch per deck fit better?"
 }
 },
 {
@@ -46241,6 +46597,13 @@
 "quote": "从uponcomm买了很多模块（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：从 uponcomm 买模块",
+"quote": "从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -46255,7 +46618,36 @@
 "grade_override": "B",
 "override_reason": "品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。",
 "notes": "一封邮件带 SFP 光口交换机即可。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Testronix（testronix.com.ph）",
+"hq": "Philippines",
+"size": "待核",
+"other": "注：表内「从 uponcomm 买了很多模块」为富通天下外贸数据（从同行采购），非 Saga 成交"
+},
+"business_lines": [
+"电子/网络产品经销（光模块）"
+],
+"channels": {
+"网站": "testronix.ph / testronix.com.ph",
+"邮箱": "sales@testronix.com.ph（用户表）"
+},
+"signals": [
+"大量采购光模块 → SFP 需求（Q-32）；可搭 2 SFP 交换机/MC"
+],
+"risks": [
+"SFP 不在价格表；亚太非主攻区；1 次跟进无回复"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
+},
+"email_hook": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?"
 }
 },
 {
@@ -50839,6 +51231,13 @@
 "quote": "工业FS（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS；买了 KONTEN 模块（外贸数据）",
+"quote": "工业FS / 买了台湾KONTEN的模块 / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -50853,7 +51252,36 @@
 "grade_override": "B",
 "override_reason": "无互动、仅群发来源、印度非主攻区；A 级自动判定来自历史成交/关键词，证据不足 → B。",
 "notes": "一封首触邮件即可。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Amity Technologies（amitytechnologies.co.in）",
+"hq": "India",
+"size": "待核",
+"other": "注：「买了台湾 KONTEN 的模块」为富通天下外贸数据（从同行采购），非 Saga 成交"
+},
+"business_lines": [
+"网络产品/光模块经销"
+],
+"channels": {
+"网站": "amitytechnologies.co.in（未核）",
+"邮箱": "info@amitytechnologies.co.in（用户表）"
+},
+"signals": [
+"兴趣工业 FS + 进口台湾模块 → 工业 DIN 光纤交换机对位"
+],
+"risks": [
+"南亚非主攻区；印度 BIS 认证要求（交换机需 BIS/CRS）；无互动"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS"
+},
+"email_hook": "Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?"
 }
 },
 {
@@ -50963,17 +51391,56 @@
 "grade": "B",
 "research": {
 "code": "SA-140",
-"name_official": "AYK（ayk.com.pk，巴基斯坦）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "巴基斯坦网络产品公司，曾买过管理型 FS（用户记录），群发名单，无跟进互动。",
+"name_official": "Ayk (Pvt.) Ltd.（Gujranwala, Pakistan；ayk.com.pk；电力测试/设备分销商，PLANET 产品经销）",
+"website_status": "在线",
+"summary": "巴基斯坦古杰兰瓦拉的电力测试与工程公司 Ayk (Pvt.) Ltd.（1996 年成立、2006 年注册；分支拉合尔/伊斯兰堡；~90 人；业务：变压器/电缆/开关设备高压测试服务、电力测试设备独家分销（Omicron、Chauvin Arnoux、Tempo、Opal-RT、Poly、SKB、Planet、b2、Vivax Metrotech），自制变电站蓄电池充电器（NTDC 认证，365+ 台）；官网设 PLANET 产品专区（工业以太网交换机、DIN 导轨 L2+/L3 环网、工业 PoE、EN50155、媒体转换器、光纤 bypass、串口服务器）；2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala；+92 55 3255800；info@ayk.com.pk）。用户表（谷歌 + 富通天下）：卖 PLANET 的 switch；买过管理 FS；群发无互动。PLANET 经销商 → Saga 作同口型低价线（分销 20%）；客户为电网/电力公司 → 按个案守界。",
 "type": "经销/集成商",
 "size": "待补证",
-"brands_seen": [],
+"brands_seen": [
+"PLANET（经销）",
+"Omicron",
+"Chauvin Arnoux"
+],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "买过管理 FS；0 次跟进",
 "quote": "买过管理FS（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "PLANET 工业产品专区",
+"quote": "Ayk (Pvt.)Ltd. provides PLANET Industrial Ethernet Solution … DIN-rail Managed Ethernet Switches … Industrial Power over Ethernet … EN50155 Ethernet Switches … Industrial Media Converter … Optical Fiber Bypass Switch",
+"url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "地址与联系方式",
+"quote": "2nd Floor, U-Block, Trust Plaza, opposite Standard Chartered Bank Model Town, Gujranwala, 52250, Pakistan. +92-55-3822444 +92-55-3255800 … info@ayk.com.pk",
+"url": "https://ayk.com.pk/contact-us/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "公司背景与规模",
+"quote": "AYK (Pvt) Limited is an inspection and testing engineering company incorporated in the year 2006 … testing services for power transformers … line testing of xDSL, fiber, cables and wireless networks … manufacturing of grid-station battery charging systems",
+"url": "https://www.lookup.pk/40466/ayk-pvt-ltd",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "员工数",
+"quote": "Ayk Pvt … Number of Employees 90",
+"url": "https://www.zoominfo.com/p/Arsal-Zahid/10217832419",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "卖 PLANET 的 switch；买过管理 FS",
+"quote": "卖planet的switch / 买过管理FS / 谷歌",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -50990,7 +51457,68 @@
 "grade_override": "B",
 "override_reason": "历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。",
 "notes": "老客户回访一封。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Ayk (Pvt.) Ltd.",
+"founded": "1996（注册商号）/ 2006（公司）",
+"hq": "2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala 52250（+92 55 3255800 / +92 55 3822444；info@ayk.com.pk；sales@ayk.com.pk）；分支 Lahore、Islamabad",
+"size": "~90（ZoomInfo）",
+"other": "PLANET 产品经销；电力测试设备独家分销多品牌；自制变电站充电器"
+},
+"business_lines": [
+"电力测试与调试服务（变压器、电缆、开关设备）",
+"测试设备与网络设备分销（PLANET 工业以太网）",
+"变电站蓄电池充电器制造"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "DIN-rail L2+ Ring Managed Gigabit PoE Switch（系列）",
+"spec": "工业 DIN L2+ 环网 PoE（官网专区）",
+"saga": "STI-288DGGPM（$139.9@20）",
+"url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+"date": "2026-10-21"
+},
+{
+"brand": "PLANET",
+"model": "Industrial Media Converter（系列）",
+"spec": "工业媒体转换器",
+"saga": "STI-110GE（$22.4@20）",
+"url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+"date": "2026-10-21"
+},
+{
+"brand": "PLANET",
+"model": "EN50155 Ethernet Switches / Optical Fiber Bypass Switch",
+"spec": "铁路与光纤 bypass",
+"saga": "—（Saga 不做 EN50155；bypass 仅 SmartByte LT-IS6312*-FBP）",
+"url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"网站": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+"电话": "+92 55 3255800（公开）",
+"邮箱（公开）": "info@ayk.com.pk / sales@ayk.com.pk",
+"LinkedIn": "https://www.linkedin.com/company/aykprivatelimited/"
+},
+"signals": [
+"PLANET 全线经销 + 电力行业客户 → 同口型 DIN L2+ PoE / MC 低价替代；买过管理 FS",
+"电网/公用事业客户 → 守界按个案（民用变电站网络可做）"
+],
+"risks": [
+"已有 PLANET 关系（品牌忠诚）；南亚非主攻区；巴基斯坦外汇；无互动记录"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）"
+},
+"email_hook": "Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $139.9 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?"
 }
 },
 {
@@ -51244,19 +51772,41 @@
 "grade": "B",
 "research": {
 "code": "SA-142",
-"name_official": "CREC（crec.com.ph，菲律宾）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "菲律宾公司，曾采购迈威（Maiwe）产品（用户记录），E 冷名单 1 次跟进 0 回复。",
+"name_official": "Citicore Renewable Energy Corporation（CREC，PSE 上市；San Juan City, Philippines；crec.com.ph）",
+"website_status": "在线",
+"summary": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
 "type": "经销/集成商",
 "size": "待补证",
 "brands_seen": [
-"迈威 Maiwe（用户记录）"
+"迈威 Maiwe（用户记录）",
+"Maiwe 迈威（外贸数据在采）"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "买了迈威的；0 回复",
 "quote": "买了迈威的（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网/交易所",
+"claim": "公司定位与规模",
+"quote": "Citicore Renewable Energy Corporation (CREC) is a corporation duly organized and existing under Philippine law and listed on the Philippine Stock Exchange … 14 operating solar assets with a combined gross installed capacity of 597.2 MW as of December 31, 2025. CREC has a target to achieve 5 GW",
+"url": "https://edge.pse.com.ph/companyInformation/form.do?cmpy_id=703",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模与联系方式",
+"quote": "T: +632 8826 5698 | E: corpaffairs@crec.com.ph … Company size: 51-200 employees … Headquarters: San Juan City, NCR … Founded: 2015",
+"url": "https://www.linkedin.com/company/citicoreph",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：买了迈威的；做项目的",
+"quote": "买了迈威的 / 做项目的 / 富通天下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -51273,7 +51823,40 @@
 "grade_override": "B",
 "override_reason": "在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。",
 "notes": "一封'迈威对位 STI 工业线'邮件。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Citicore Renewable Energy Corporation（SEC CS201807415；PSE: CREC）",
+"founded": "2015（LinkedIn）",
+"hq": "San Juan City, Metro Manila（+632 8826 5698；corpaffairs@crec.com.ph）",
+"size": "51–200（LinkedIn）；14 座光伏电站 597.2 MW（2025）",
+"other": "2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW"
+},
+"business_lines": [
+"光伏电站开发/运营（含储能）",
+"径流水电、海上风电"
+],
+"channels": {
+"网站": "https://www.crec.com.ph/",
+"电话": "+632 8826 5698（公开）",
+"邮箱": "info@crec.com.ph（用户表）；corpaffairs@crec.com.ph（公开）"
+},
+"signals": [
+"每年新增 ~1 GW 光伏 → 每站需 DIN 工业环网交换机（逆变器/SCADA/CCTV）；已外采 Maiwe → 对中国工业机接受度高",
+"采购经 EPC 承包商 → 需找到其 EPC/O&M 工程团队"
+],
+"risks": [
+"上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）"
+},
+"email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
 }
 },
 {
@@ -52204,19 +52787,49 @@
 "grade": "B",
 "research": {
 "code": "SA-146",
-"name_official": "NKS Tech（nkstech.net，菲律宾）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "菲律宾网络/安防公司，曾采购迈威（Maiwe），E 冷名单 1 次跟进 0 回复。",
+"name_official": "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）",
+"website_status": "在线",
+"summary": "菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。",
 "type": "经销/集成商",
 "size": "待补证",
 "brands_seen": [
-"迈威 Maiwe（用户记录）"
+"迈威 Maiwe（用户记录）",
+"Maiwe 迈威（外贸数据在采）",
+"GE-Harris（RTU）"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "买了迈威的；0 回复",
 "quote": "买了迈威的（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位与地址",
+"quote": "NKS or NAYON KONTROL SYSTEMS is a technology-based company established to provide solutions for SCADA and Automation systems primarily for electric utilities in the Philippines. … No. 4 Illinois St. Brgy. Silangan, District III Cubao, Quezon City Philippines 1109 Phone: (+632) 913-1347 … Email: info@nks.ph",
+"url": "https://www.nkstech.net/about.php",
+"date": "2026-10-21"
+},
+{
+"kind": "行业名录",
+"claim": "客户名单",
+"quote": "NKS's growing list of clients now include: National Grid Corporation of the Philippines (NGCP), Meralco, First Gen Corporation, DMCI, Citicore, Global Business Power Corporation, TransAsia, TEAM Energy, Manila Water and Palau Public Utilities.",
+"url": "https://www.pe2.org/members/nayon-kontrol-systems-nks",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "规模",
+"quote": "Nayon Kontrol Systems Information … Employees · 43 … Founded · 1996 … Address · No. 4 Illinois St, Brgy. Silangan, Cubao, Quezon City",
+"url": "https://rocketreach.co/nayon-kontrol-systems-profile_b7c271fac1827400",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：买了迈威的",
+"quote": "买了迈威的 / 富通天下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -52228,12 +52841,52 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Mark Delapaz",
+"role": "（NKS 员工，ZoomInfo 公开；职务待核）",
+"email": "—",
+"phone": "+632 8913 1347（公司）",
+"source": "https://www.zoominfo.com/p/Mark-Delapaz/-1345711402"
 }
 ],
 "grade_override": "B",
 "override_reason": "同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
 "notes": "一封'迈威对位 STI 工业线'邮件。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Nayon Kontrol Systems",
+"founded": "1996",
+"hq": "No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109（+632 8913 1347；info@nks.ph）",
+"size": "43（RocketReach）/ 46–60（ZoomInfo）",
+"other": "GE-Harris D20 RTU 专长；关联 NKS Solar One Inc."
+},
+"business_lines": [
+"电力 SCADA / 变电站自动化集成",
+"RTU / 网关 / 运维"
+],
+"channels": {
+"网站": "https://www.nkstech.net/",
+"电话": "+632 8913 1347（公开）",
+"邮箱": "info@nks.ph（官网公开）；info@nkstech.net（用户表）"
+},
+"signals": [
+"变电站自动化集成商已外采 Maiwe → DIN 管理型工业交换机（ERPS、IEC 61850 环境）第二来源",
+"客户 Citicore（SA-142）同在名单 → 可串联"
+],
+"risks": [
+"变电站需 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC → 仅限非认证场景）；电力公共事业按个案守界；亚太非主攻区"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）"
+},
+"email_hook": "Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?"
 }
 },
 {
@@ -135904,7 +136557,66 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-125",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-125",
+"name_official": "Core and Clad（Bahrain；Gmail；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "2011 年买过 2 次收发器；Intersec 2011",
+"quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ebrahim Y. Alsada",
+"role": "采购（用户表）",
+"email": "core.and.clad@gmail.com（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Core and Clad（待核）",
+"hq": "Bahrain",
+"size": "待核",
+"other": "2011 年成交 2 次（收发器）"
+},
+"business_lines": [
+"光纤产品贸易/工程（推测自公司名）"
+],
+"channels": {
+"邮箱": "core.and.clad@gmail.com（用户表）"
+},
+"signals": [
+"老客户（2 次成交）→ 以同品类（MC）复购切入"
+],
+"risks": [
+"中东非主攻区；Gmail；2011 后无互动"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 25,
+"why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）"
+},
+"email_hook": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?"
+}
 },
 {
 "name": "standardaudio.se",
@@ -173852,7 +174564,59 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-264",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-264",
+"name_official": "Fibercom Telecoms（fibercomtelecoms.com，Philippines；光纤/SFP 网络产品）",
+"researched_at": "2026-10-21",
+"website_status": "未单独核对（用户表注「网站：SFP networking」）",
+"summary": "菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "富通天下：买了很多跳线；网站 SFP networking",
+"quote": "买了很多跳线 / 网站：SFP networking / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Fibercom Telecoms（全称待核）",
+"hq": "Philippines",
+"size": "待核",
+"other": "光纤跳线大量进口"
+},
+"business_lines": [
+"光纤跳线/SFP/网络配件经销"
+],
+"channels": {
+"网站": "https://fibercomtelecoms.com/（未核）",
+"邮箱": "inquiry@fibercomtelecoms.com（用户表）"
+},
+"signals": [
+"跳线/SFP 经销商 → 2 SFP PoE 交换机与 MC 是自然延伸品类"
+],
+"risks": [
+"亚太非主攻区；1 次跟进无回复；配件商利润薄"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）"
+},
+"email_hook": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?"
+}
 },
 {
 "name": "intellcom.net",
@@ -174095,7 +174859,60 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-266",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-266",
+"name_official": "R-Spot Solutions（rspotsolutions.com，Philippines；布线/CCTV 供应）",
+"researched_at": "2026-10-21",
+"website_status": "未单独核对",
+"summary": "菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "富通天下：从 holink 买 HDMI；Cabling CCTV；从中国买很多",
+"quote": "从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "R-Spot Solutions（全称待核）",
+"hq": "Philippines（VisMin 区域邮箱）",
+"size": "待核",
+"other": "从中国大量进口（HDMI、布线、CCTV）"
+},
+"business_lines": [
+"结构化布线与 CCTV 产品供应",
+"HDMI/AV 配件"
+],
+"channels": {
+"网站": "https://rspotsolutions.com/（未核）",
+"邮箱": "vismin@rspotsolutions.com（用户表）"
+},
+"signals": [
+"已习惯从中国直采 → 价格敏感、决策快；CCTV 配套 PoE 8/16 口"
+],
+"risks": [
+"亚太非主攻区；1 次跟进无回复；低价竞争"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线"
+},
+"email_hook": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?"
+}
 },
 {
 "name": "stc-vietnam.com",

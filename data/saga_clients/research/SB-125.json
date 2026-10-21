@@ -1,0 +1,59 @@
+{
+ "code": "SB-125",
+ "name_official": "Core and Clad（Bahrain；Gmail；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "2011 年买过 2 次收发器；Intersec 2011",
+   "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ebrahim Y. Alsada",
+   "role": "采购（用户表）",
+   "email": "core.and.clad@gmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Core and Clad（待核）",
+  "hq": "Bahrain",
+  "size": "待核",
+  "other": "2011 年成交 2 次（收发器）"
+ },
+ "business_lines": [
+  "光纤产品贸易/工程（推测自公司名）"
+ ],
+ "channels": {
+  "邮箱": "core.and.clad@gmail.com（用户表）"
+ },
+ "signals": [
+  "老客户（2 次成交）→ 以同品类（MC）复购切入"
+ ],
+ "risks": [
+  "中东非主攻区；Gmail；2011 后无互动"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）"
+ },
+ "email_hook": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?"
+}

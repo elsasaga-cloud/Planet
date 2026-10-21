@@ -27,5 +27,33 @@
  "grade_override": "B",
  "override_reason": "2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。",
  "notes": "回访一封；待补证：完整公司名与网站。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "PT. Anugerah（pt-aag.co.id；全称待核）",
+  "hq": "Indonesia",
+  "size": "待核",
+  "other": "2011 年买过 12 台延长器；E 冷名单 1 次跟进"
+ },
+ "business_lines": [
+  "（待核）网络/安防设备贸易"
+ ],
+ "channels": {
+  "邮箱": "gunawan@pt-aag.co.id（用户表）"
+ },
+ "signals": [
+  "老客户（2011 延长器 12 台）→ 延长器类不在 Saga 现 SKU（Q-32），改推 PoE 交换机"
+ ],
+ "risks": [
+  "延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32"
+ },
+ "email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
 }

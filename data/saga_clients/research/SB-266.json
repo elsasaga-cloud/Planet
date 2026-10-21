@@ -1,0 +1,53 @@
+{
+ "code": "SB-266",
+ "name_official": "R-Spot Solutions（rspotsolutions.com，Philippines；布线/CCTV 供应）",
+ "researched_at": "2026-10-21",
+ "website_status": "未单独核对",
+ "summary": "菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "富通天下：从 holink 买 HDMI；Cabling CCTV；从中国买很多",
+   "quote": "从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "R-Spot Solutions（全称待核）",
+  "hq": "Philippines（VisMin 区域邮箱）",
+  "size": "待核",
+  "other": "从中国大量进口（HDMI、布线、CCTV）"
+ },
+ "business_lines": [
+  "结构化布线与 CCTV 产品供应",
+  "HDMI/AV 配件"
+ ],
+ "channels": {
+  "网站": "https://rspotsolutions.com/（未核）",
+  "邮箱": "vismin@rspotsolutions.com（用户表）"
+ },
+ "signals": [
+  "已习惯从中国直采 → 价格敏感、决策快；CCTV 配套 PoE 8/16 口"
+ ],
+ "risks": [
+  "亚太非主攻区；1 次跟进无回复；低价竞争"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线"
+ },
+ "email_hook": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?"
+}

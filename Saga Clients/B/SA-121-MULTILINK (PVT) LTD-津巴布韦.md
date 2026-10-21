@@ -1,5 +1,5 @@
 # MULTILINK (PVT) LTD
-**官方名称（调研核实）**：Multilink (Pvt) Ltd（津巴布韦）
+**官方名称（调研核实）**：Multilink (Pvt) Ltd → SECURICO Electronic Division（Harare, Zimbabwe；securico.co.zw）
 
 > **评级 B**　|　津巴布韦　|　档案编号 `SA-121`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -10,7 +10,7 @@ code: SA-121
 rating: B
 rating_auto: A
 rating_research: B  # 老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。
-name_official: "Multilink (Pvt) Ltd（津巴布韦）"
+name_official: "Multilink (Pvt) Ltd → SECURICO Electronic Division（Harare, Zimbabwe；securico.co.zw）"
 score: 63
 country: 津巴布韦
 region: 非洲
@@ -22,8 +22,8 @@ replies: 0
 followups: 1
 first_contact: 2025-10-07
 last_contact: 2025-10-07
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STC-28DGGPM
+price_tier: 25%
 research: done
 sources: 1
 updated: 2026-10-21
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：津巴布韦网络/安防设备公司，2011–2013 年多次成交（8V1D、16V1D、18 路机架光端机，2013 年买过 FS），E 冷名单 1 次跟进 0 回复。（调研 2026-10-21；表内兴趣：8V1D 16V1D 18机架  11 13年 13年买了FS 很多种类的）
+- **是谁**：津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。（调研 2026-10-21；表内兴趣：8V1D 16V1D 18机架  11 13年 13年买了FS 很多种类的）
 - **为什么是 B 级**：**调研后定级 B**（老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/津巴布韦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-07 → 2025-10-07）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -56,17 +56,49 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：津巴布韦网络/安防设备公司，2011–2013 年多次成交（8V1D、16V1D、18 路机架光端机，2013 年买过 FS），E 冷名单 1 次跟进 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线（母公司站）
+- **是谁**：津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。
 - **类型**：经销/集成商
 - **规模**：待补证
 - **【用户记录】2011–2013 年买过 8V1D/16V1D/18 机架光端机与 FS**
   > 8V1D 16V1D 18机架 11 13年 13年买了FS 很多种类的（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】公司定位与联系方式**
+  > DDNS Security Operations (Private) LTD trading as SECURICO was founded in 1998. … clientele base of over 5,000 country-wide … Ebenezer House, No. 5 Millwood Road, Workington, Harare
+  > 来源：https://www.securico.co.zw/（抓取 2024-10-22）
+- **【名录】Multi-Link 并购**
+  > In 2008, Securico acquired an electronic security systems company called Multi-Link.
+  > 来源：https://www.pindula.co.zw/Securico_Security_Services（抓取 2018-07-12）
+- **【名录】规模与电子事业部**
+  > with over 4,300 employees … an electronic security division offering burglar/fire alarms, access control, CCTV and offsite/remote monitoring. The electronic security arm grew from its 2008 acquisition of Multi-Link.
+  > 来源：https://www.monitoringstationguide.com/company/securico-harare（抓取 2026-06-27）
+- **【官网】联系方式**
+  > Email Us info@securico.co.zw Call Us +2632 621956/7 +263 772 140 773/4
+  > 来源：https://securico.co.zw/contact-us/（抓取 2024-08-21）
+- **【用户表】2011–2013 成交**
+  > 8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Samuel Kanoyangwa / Blessing Murondiwa（（用户表联系人；职务待核））info@securico.co.zw（用户表） +263 242 621 956（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。
 - 备注：一封老客户回访邮件（FS 对位 STI 工业线）即可。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | DDNS Security Operations (Private) Ltd t/a SECURICO（Multilink (Pvt) Ltd 为其 2008 年收购的电子事业部） |
+| 成立 | 1998（Securico） |
+| 总部/地址 | Ebenezer House, 10 Millwood Road, Workington, Harare（+263 242 621 956/7；+263 772 140 773/4；info@securico.co.zw） |
+| 其他 | 电子安防（CCTV、报警、门禁、远程监控）+ 保安/押运 |
+
+- **业务线**：电子安防系统集成与监控（原 Multi-Link）；保安、押运、风险管理
+- **触达通道（公开）**：网站: https://www.securico.co.zw/；电话: +263 242 621 956/7（公开）；邮箱（公开）: info@securico.co.zw
+- **近况信号**：
+  - 2011–2013 多次成交（光端机 + FS）→ 老客户复购；5,000+ 客户的电子安防部 = 稳定 PoE 交换机用量
+- **风险/边界**：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
+- **邮件切入句（英文）**：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -93,7 +125,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Samuel Kanoyangwa | — | info@securico.co.zw | 用户表原值 | Clients/ 表 |
+| Samuel Kanoyangwa / Blessing Murondiwa | （用户表联系人；职务待核） | info@securico.co.zw（用户表） / +263 242 621 956（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -109,20 +141,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -130,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -158,14 +189,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Samuel,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

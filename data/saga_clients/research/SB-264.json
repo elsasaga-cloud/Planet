@@ -1,0 +1,52 @@
+{
+ "code": "SB-264",
+ "name_official": "Fibercom Telecoms（fibercomtelecoms.com，Philippines；光纤/SFP 网络产品）",
+ "researched_at": "2026-10-21",
+ "website_status": "未单独核对（用户表注「网站：SFP networking」）",
+ "summary": "菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "富通天下：买了很多跳线；网站 SFP networking",
+   "quote": "买了很多跳线 / 网站：SFP networking / 富通天下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "Fibercom Telecoms（全称待核）",
+  "hq": "Philippines",
+  "size": "待核",
+  "other": "光纤跳线大量进口"
+ },
+ "business_lines": [
+  "光纤跳线/SFP/网络配件经销"
+ ],
+ "channels": {
+  "网站": "https://fibercomtelecoms.com/（未核）",
+  "邮箱": "inquiry@fibercomtelecoms.com（用户表）"
+ },
+ "signals": [
+  "跳线/SFP 经销商 → 2 SFP PoE 交换机与 MC 是自然延伸品类"
+ ],
+ "risks": [
+  "亚太非主攻区；1 次跟进无回复；配件商利润薄"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）"
+ },
+ "email_hook": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?"
+}

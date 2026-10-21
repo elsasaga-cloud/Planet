@@ -1,16 +1,55 @@
 {
  "code": "SA-140",
- "name_official": "AYK（ayk.com.pk，巴基斯坦）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "巴基斯坦网络产品公司，曾买过管理型 FS（用户记录），群发名单，无跟进互动。",
+ "name_official": "Ayk (Pvt.) Ltd.（Gujranwala, Pakistan；ayk.com.pk；电力测试/设备分销商，PLANET 产品经销）",
+ "website_status": "在线",
+ "summary": "巴基斯坦古杰兰瓦拉的电力测试与工程公司 Ayk (Pvt.) Ltd.（1996 年成立、2006 年注册；分支拉合尔/伊斯兰堡；~90 人；业务：变压器/电缆/开关设备高压测试服务、电力测试设备独家分销（Omicron、Chauvin Arnoux、Tempo、Opal-RT、Poly、SKB、Planet、b2、Vivax Metrotech），自制变电站蓄电池充电器（NTDC 认证，365+ 台）；官网设 PLANET 产品专区（工业以太网交换机、DIN 导轨 L2+/L3 环网、工业 PoE、EN50155、媒体转换器、光纤 bypass、串口服务器）；2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala；+92 55 3255800；info@ayk.com.pk）。用户表（谷歌 + 富通天下）：卖 PLANET 的 switch；买过管理 FS；群发无互动。PLANET 经销商 → Saga 作同口型低价线（分销 20%）；客户为电网/电力公司 → 按个案守界。",
  "type": "经销/集成商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "PLANET（经销）",
+  "Omicron",
+  "Chauvin Arnoux"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "买过管理 FS；0 次跟进",
    "quote": "买过管理FS（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "PLANET 工业产品专区",
+   "quote": "Ayk (Pvt.)Ltd. provides PLANET Industrial Ethernet Solution … DIN-rail Managed Ethernet Switches … Industrial Power over Ethernet … EN50155 Ethernet Switches … Industrial Media Converter … Optical Fiber Bypass Switch",
+   "url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址与联系方式",
+   "quote": "2nd Floor, U-Block, Trust Plaza, opposite Standard Chartered Bank Model Town, Gujranwala, 52250, Pakistan. +92-55-3822444 +92-55-3255800 … info@ayk.com.pk",
+   "url": "https://ayk.com.pk/contact-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "公司背景与规模",
+   "quote": "AYK (Pvt) Limited is an inspection and testing engineering company incorporated in the year 2006 … testing services for power transformers … line testing of xDSL, fiber, cables and wireless networks … manufacturing of grid-station battery charging systems",
+   "url": "https://www.lookup.pk/40466/ayk-pvt-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "员工数",
+   "quote": "Ayk Pvt … Number of Employees 90",
+   "url": "https://www.zoominfo.com/p/Arsal-Zahid/10217832419",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "卖 PLANET 的 switch；买过管理 FS",
+   "quote": "卖planet的switch / 买过管理FS / 谷歌",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -27,5 +66,66 @@
  "grade_override": "B",
  "override_reason": "历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。",
  "notes": "老客户回访一封。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "Ayk (Pvt.) Ltd.",
+  "founded": "1996（注册商号）/ 2006（公司）",
+  "hq": "2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala 52250（+92 55 3255800 / +92 55 3822444；info@ayk.com.pk；sales@ayk.com.pk）；分支 Lahore、Islamabad",
+  "size": "~90（ZoomInfo）",
+  "other": "PLANET 产品经销；电力测试设备独家分销多品牌；自制变电站充电器"
+ },
+ "business_lines": [
+  "电力测试与调试服务（变压器、电缆、开关设备）",
+  "测试设备与网络设备分销（PLANET 工业以太网）",
+  "变电站蓄电池充电器制造"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "DIN-rail L2+ Ring Managed Gigabit PoE Switch（系列）",
+   "spec": "工业 DIN L2+ 环网 PoE（官网专区）",
+   "saga": "STI-288DGGPM（$139.9@20）",
+   "url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "PLANET",
+   "model": "Industrial Media Converter（系列）",
+   "spec": "工业媒体转换器",
+   "saga": "STI-110GE（$22.4@20）",
+   "url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "PLANET",
+   "model": "EN50155 Ethernet Switches / Optical Fiber Bypass Switch",
+   "spec": "铁路与光纤 bypass",
+   "saga": "—（Saga 不做 EN50155；bypass 仅 SmartByte LT-IS6312*-FBP）",
+   "url": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "网站": "https://ayk.com.pk/products/planet-products/lan-switches/un-managed/",
+  "电话": "+92 55 3255800（公开）",
+  "邮箱（公开）": "info@ayk.com.pk / sales@ayk.com.pk",
+  "LinkedIn": "https://www.linkedin.com/company/aykprivatelimited/"
+ },
+ "signals": [
+  "PLANET 全线经销 + 电力行业客户 → 同口型 DIN L2+ PoE / MC 低价替代；买过管理 FS",
+  "电网/公用事业客户 → 守界按个案（民用变电站网络可做）"
+ ],
+ "risks": [
+  "已有 PLANET 关系（品牌忠诚）；南亚非主攻区；巴基斯坦外汇；无互动记录"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）"
+ },
+ "email_hook": "Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $139.9 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?"
 }

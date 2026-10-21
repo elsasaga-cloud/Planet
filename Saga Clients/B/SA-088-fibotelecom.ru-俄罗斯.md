@@ -1,5 +1,5 @@
 # fibotelecom.ru
-**官方名称（调研核实）**：fibotelecom.ru（俄罗斯；用户记录：DWDM 线索，采购 Anastasia Roshchupkina）
+**官方名称（调研核实）**：FIBO-TELECOM（fibotelecom.ru，Russia；光通信产品分销商，自有品牌 FIBO / FT-）
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SA-088`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -10,7 +10,7 @@ code: SA-088
 rating: B
 rating_auto: A
 rating_research: B  # DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'
-name_official: "fibotelecom.ru（俄罗斯；用户记录：DWDM 线索，采购 Anastasia Roshchupkina）"
+name_official: "FIBO-TELECOM（fibotelecom.ru，Russia；光通信产品分销商，自有品牌 FIBO / FT-）"
 score: 71
 country: 俄罗斯
 region: 俄语区
@@ -22,8 +22,8 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-110GE
-price_tier: 25%
+p1: STC-28DGGPM
+price_tier: 30%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯光传输/DWDM 领域采购线索（用户记录：买过飞宇的产品，属 DPtek 客户群），无任何跟进互动，2024 年线索。（调研 2026-10-21；表内兴趣：光模块 PON；SFP MC(光路的)  DPtek客户   后边链接）
+- **是谁**：俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过飞宇的产品；兴趣光模块 PON、SFP、MC；备注链接其交换机目录。自有品牌 + Marvell/Realtek 双线与 Saga 完全同构 → OEM 30%（贴 FIBO 牌）。（调研 2026-10-21；表内兴趣：光模块 PON；SFP MC(光路的)  DPtek客户   后边链接）
 - **为什么是 B 级**：**调研后定级 B**（DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+2 最近活动 2024
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -56,18 +56,54 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：俄罗斯光传输/DWDM 领域采购线索（用户记录：买过飞宇的产品，属 DPtek 客户群），无任何跟进互动，2024 年线索。
+- **状态：已调研（2026-10-21）**　网站状态：在线（电商）
+- **是谁**：俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过飞宇的产品；兴趣光模块 PON、SFP、MC；备注链接其交换机目录。自有品牌 + Marvell/Realtek 双线与 Saga 完全同构 → OEM 30%（贴 FIBO 牌）。
 - **类型**：运营商/光传输采购（待补证）
 - **规模**：待补证
-- **在卖/在用品牌**：飞宇（用户记录）, DPtek（用户记录）
+- **在卖/在用品牌**：飞宇（用户记录）, DPtek（用户记录）, FIBO / FT-（自有品牌）, DK（自有系列）
 - **【用户记录】DWDM 线索；0 次跟进；采购联系人具名**
   > DWDM lead, 0 fu, DPtek customer；买了飞宇的；Anastasia Roshchupkina / Purchasing（用户 Clients 表摘录）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【网店】DK 系列型号与价格**
+  > Коммутатор DK2310R-24T4X L3, 24*10/100/1000Base-T, 4*1G/2.5G/10G SFP+ Realtek 42 849,70 ₽ … DK2110R-8T2S L2, 8*10/100/1000Base-T, 2*1G SFP, Realtek 16 663,62 ₽ … DK2110M-8T2S L2, 8*10/100/1000 Base-T, 2*1000 Base-X SFP, Marvell 21 424,40 ₽ … DK2110M-24T4S L2, 24*10/100/1000Base-T, 4*1G SFP, Marvell 27 614,49 ₽
+  > 来源：https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet（抓取 2026-10-21）
+- **【网店】自有品牌 PoE 交换机**
+  > Коммутатор неуправляемый POE FT-S118FP-2T1S 8*10/100M RJ45 POE, 2*10/100M/1000 RJ45 1*SFP, корпус металл … 4 840,92 ₽
+  > 来源：https://fibotelecom.ru/catalog/kommutatory/kommutatory_poe（抓取 2026-10-21）
+- **【网店】自有品牌 SFP 与电话**
+  > FIBO FT-S1-C3940LD совместимый 1G CWDM SFP модуль 1390нм 40км … Звоните 8 (800) 550-22-45!
+  > 来源：https://fibotelecom.ru/catalog/sovmestimye_transivery/sfp_transivery/1g_cwdm_sfp_modul_1390nm_40km_ft_s1_c3940ld-compatible-fibo-ft_s1_c3940ld（抓取 2026-10-21）
+- **【用户表】MIPS 2024；采购 KP；买过飞宇；目录链接**
+  > 光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Anastasia Roshchupkina（Purchasing）roshchupkina@fibotelecom.ru 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。
 - 备注：若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | FIBO-TELECOM（ООО，全称待核） |
+| 总部/地址 | Россия（Москва/СПб 配送；8 800 550-22-45） |
+| 其他 | 自有品牌 FIBO / FT-；DK 系列（Marvell 与 Realtek 两条线） |
+
+- **业务线**：兼容 SFP / CWDM-DWDM 模块；交换机（PoE 非管理、L2/L2+/L3 管理）；媒体转换器、PON
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| FIBO DK | DK2110M-8T2S | L2 管理，8 GE + 2 SFP，Marvell；21,424 ₽ 含 VAT | STC-28DGGM/STC-28DGGPM 同平台（PoE 版 $87.4@30） | https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet（2026-10-21） |
+| FIBO DK | DK2110R-8T2S | L2 管理，8 GE + 2 SFP，Realtek；16,664 ₽ | STC-28GM（列表 $50.6）/ STC-28GPM（$62.2） | https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet（2026-10-21） |
+| FIBO DK | DK2310R-24T4X | L3，24 GE + 4×10G SFP+，Realtek；42,850 ₽ | STC-424XGGM(L3)（$291.5@30） | https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet（2026-10-21） |
+| FIBO FT | FT-S118FP-2T1S | 8 FE PoE + 2 GE + 1 SFP 非管理；4,841 ₽ | STC-028GP 千兆升级（$24.2） | https://fibotelecom.ru/catalog/kommutatory/kommutatory_poe（2026-10-21） |
+
+- **触达通道（公开）**：网店: https://fibotelecom.ru/catalog/kommutatory/kommutatory_ethernet；电话: 8 (800) 550-22-45（公开）；邮箱: roshchupkina@fibotelecom.ru / info@fibotelecom.ru（用户表）
+- **近况信号**：
+  - 自有品牌 DK 系列同时有 Marvell 与 Realtek 版本——与 Saga STI/STC 双线一一对应 → 贴牌第二来源（OEM 30%）
+  - 采购 KP 具名（Anastasia Roshchupkina）
+- **风险/边界**：俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X
+- **邮件切入句（英文）**：Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -107,20 +143,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（运营商/光传输采购（待补证）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（运营商/光传输采购（待补证）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -128,7 +163,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -156,14 +191,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Anastasia,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your FIBO DK DK2110M-8T2S at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
