@@ -76,6 +76,7 @@ updated: 2026-10-21
 - **KP**：Massimo Marzari（合伙人（法人名称所示））info@sicurmax.com +39 045 690 0922〔https://sicurmax.com/azienda〕
 - **调研后定级**：B（原自动 A）——17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

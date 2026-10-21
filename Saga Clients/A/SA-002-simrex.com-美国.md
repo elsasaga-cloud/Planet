@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：Frank Neuperger（General Manager（RocketReach 口径））frank@simrex.com（cage.report 公开记录） +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573〕
 - 备注：A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

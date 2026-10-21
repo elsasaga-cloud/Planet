@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：Kelvin Aist（创始人/负责人）sales@westwardsales.com +1 720-870-4500〔https://www.crunchbase.com/organization/westward-sales〕
 - 备注：A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

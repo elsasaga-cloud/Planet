@@ -27,8 +27,103 @@
    "quote": "Branche: Telekommunikation · Größe: 11–50 Beschäftigte · Hauptsitz: Darmstadt · Gegründet: 2015",
    "url": "https://de.linkedin.com/company/nynexfiberone",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "注册/RIPE",
+   "claim": "Frederik Kriewitz = NYNEX satellite OHG 的 RIPE 联系人，地址与电话公开",
+   "quote": "person: Frederik Kriewitz address: NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Germany phone: +49 6151 50074-009 e-mail: f.kriewitz@nynex.de nic-hdl: NX123",
+   "url": "https://ipinfo.io/AS200519/178.17.236.0/23",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司 2000 年创立、运营商 + 集成商、自有 AS62023",
+   "quote": "NYNEX satellite OHG ist ein inhabergeführter Netzbetreiber und Systemintegrator aus Darmstadt, gegründet im Oktober 2000 von Andreas Buxbaum und Gunter Frank … in einem eigenen Netz mit eigenem autonomem System (AS62023)",
+   "url": "https://nynex.de/leistungen.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "2026 年 26 周年并上线 nynex.ai；fiberONE 光纤自 2015 年",
+   "quote": "Chronik der NYNEX satellite OHG, Darmstadt: VSAT-Netze seit 2000, Glasfaser mit fiberONE seit 2015, KI-Infrastruktur mit nynex.ai seit 2026",
+   "url": "https://nynex.de/geschichte.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "公开文件",
+   "claim": "Kriewitz 与 Frank 代表 NYNEX/fiberONE 署名政策意见书（决策层）",
+   "quote": "Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025",
+   "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf",
+   "date": "2025-08-31"
   }
  ],
  "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "NYNEX satellite OHG（品牌 fiberONE）",
+  "founded": "2000-10（Andreas Buxbaum 与 Gunter Frank 创立）；fiberONE 光纤业务 2015 年起",
+  "hq": "Robert-Bosch-Str. 20, 64293 Darmstadt, Germany",
+  "staff": "11–50（LinkedIn）",
+  "registry": "RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz",
+  "ownership": "自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施",
+  "other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）"
+ },
+ "business_lines": [
+  "VSAT 卫星网络（Ku/Ka）",
+  "fiberONE：法兰克福/莱茵美因 FTTB/FTTH 自建网，楼宇千兆/10G 对称接入",
+  "B2B 专线、波长、楼宇网络",
+  "IP 中转/自有 AS",
+  "nynex.ai（2026 起）"
+ ],
+ "products_seen": [
+  {
+   "brand": "fiberONE（自有 logo 需求）",
+   "model": "楼宇接入侧 SFP / MC / 接入交换机",
+   "spec": "用户表：兴趣 SFP、MC 及周边并要「自己的 logo」；FTTB 楼宇侧需要带 SFP 上联的小口数 PoE/非 PoE 接入机",
+   "url": "https://fiberone.de/",
+   "date": "用户表 + 2026-10-21",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "直邮": "f.kriewitz@nynex.de（RIPE 公开，成单联系人）/ m.kopp@nynex.de / s.valaei@nynex.de（用户表）",
+  "电话": "+49 6151 50074-009（RIPE 公开）",
+  "网站": "https://fiberone.de/ · https://nynex.de/",
+  "LinkedIn": "https://de.linkedin.com/company/nynexfiberone"
+ },
+ "signals": [
+  "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
+  "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
+  "用户表：已成单（Frederik Kriewitz），要自有 logo"
+ ],
+ "risks": [
+  "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",
+  "自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货"
+ },
+ "email_hook": "For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.",
+ "kp": [
+  {
+   "name": "Frederik Kriewitz",
+   "role": "Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人）",
+   "email": "f.kriewitz@nynex.de",
+   "phone": "+49 6151 50074-009",
+   "source": "https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表"
+  },
+  {
+   "name": "Gunter Frank",
+   "role": "创始人/合伙人（1999/2000 创立）",
+   "email": "",
+   "phone": "",
+   "source": "https://nynex.de/company/"
+  }
+ ]
 }

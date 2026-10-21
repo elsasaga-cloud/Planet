@@ -5,7 +5,10 @@
  "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。",
  "type": "分销商/经销商（工业自动化）",
  "size": "未见人数；地区性大型供应商（自述）",
- "brands_seen": [],
+ "brands_seen": [
+  "Delta Electronics",
+  "Phoenix Contact"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -20,6 +23,27 @@
    "quote": "Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069",
    "url": "https://www.rio-krsk.ru/company/requisites/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）",
+   "quote": "DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы",
+   "url": "http://www.rio-krsk.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）",
+   "quote": "Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP",
+   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "电话与邮箱公开",
+   "quote": "(391) 291-14-24 rio-import2003@mail.ru",
+   "url": "http://www.rio-krsk.ru/contacts/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -32,5 +56,59 @@
   }
  ],
  "notes": "A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "ООО «РИО-ИМПОРТ»（RIO Group）",
+  "founded": "2009（ОГРН 1092468006047）",
+  "hq": "Krasnoyarsk, Russia",
+  "other": "自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN"
+ },
+ "business_lines": [
+  "工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）",
+  "工业连接器（M8/M12/M17/M23/M40）与端子",
+  "信号转换器、继电器",
+  "工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Phoenix Contact（官网新闻介绍）",
+   "model": "工业 PoE 1000 系列（非管理/管理）",
+   "spec": "全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化",
+   "url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Delta Electronics",
+   "model": "工业电源（DIN）",
+   "spec": "官网目录 Источники питания",
+   "url": "http://www.rio-krsk.ru/",
+   "date": "2026-10-21",
+   "saga": "—（配套）"
+  }
+ ],
+ "channels": {
+  "网站": "http://www.rio-krsk.ru/",
+  "电话": "(391) 291-14-24（官网）",
+  "直邮": "rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）",
+  "联系人": "Igor（成单，用户表）"
+ },
+ "signals": [
+  "官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）",
+  "用户表：成单客户"
+ ],
+ "risks": [
+  "俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路",
+  "俄语区非主攻，不额外投入"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
+ },
+ "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version."
 }

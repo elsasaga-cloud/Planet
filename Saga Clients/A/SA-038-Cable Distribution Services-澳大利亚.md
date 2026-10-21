@@ -79,6 +79,7 @@ updated: 2026-10-21
 - **KP**：Ross W.（创始人（官网「About」））sales@cabledistribution.com.au +61 8 9375 6522〔https://cabledistribution.com.au/about/〕
 - 备注：A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

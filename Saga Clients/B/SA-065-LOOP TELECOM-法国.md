@@ -70,6 +70,7 @@ updated: 2026-10-21
 - **KP**：Eric Piaget（V.P. Sales EMEA & India（用户表））eric-piaget@looptelecom.com +33 6 6767 1045〔Clients/A/Taiwan.xlsx〕
 - **调研后定级**：B（原自动 A）——台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

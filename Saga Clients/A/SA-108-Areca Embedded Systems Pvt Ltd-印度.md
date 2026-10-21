@@ -65,6 +65,7 @@ updated: 2026-10-21
 - **KP**：（见 Clients 表联系人）（） +91 90000 50555（WA）〔用户 Clients 表〕
 - 备注：规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

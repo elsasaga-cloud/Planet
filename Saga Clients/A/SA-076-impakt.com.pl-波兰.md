@@ -83,6 +83,7 @@ updated: 2026-10-21
 - **KP**：Bartosz Krawczyk（（用户记录））bartosz.krawczyk@impakt.com.pl 〔用户 Clients 表〕
 - 备注：体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

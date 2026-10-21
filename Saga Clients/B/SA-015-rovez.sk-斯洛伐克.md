@@ -83,6 +83,7 @@ updated: 2026-10-21
 - **KP**：Marián Ondrejíček（Key Principal（D&B 口径））rovez@rovez.sk +421 905 617 471〔https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/〕
 - **调研后定级**：B（原自动 A）——有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

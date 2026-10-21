@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：—（报价热线） +44 845 130 1585〔https://dev.megnet.co.uk/〕
 - 备注：A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

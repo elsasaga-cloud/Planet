@@ -70,6 +70,7 @@ updated: 2026-10-21
 - **KP**：Sugito Wibawa（负责人（代理名录口径））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
 - **调研后定级**：B（原自动 A）——成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

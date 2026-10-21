@@ -68,6 +68,7 @@ updated: 2026-10-21
 - **KP**：—（总机）info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
 - 备注：A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

@@ -32,5 +32,51 @@
   }
  ],
  "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研 + 用户表）"
+ },
+ "company_facts": {
+  "legal_name": "Resonant Networks Pte. Ltd.",
+  "founded": "2013 起运营；现公司 2020 注册",
+  "hq": "Singapore",
+  "staff": "11–50（LinkedIn）",
+  "revenue": "约 $3M（RocketReach 口径）",
+  "other": "2025 年主营业务代码改为「供应数据中心网络系统与专业服务」"
+ },
+ "business_lines": [
+  "数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）",
+  "数据中心网络系统供应与专业服务",
+  "光纤周边（MPO 等，用户表已成单）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目采购）",
+   "model": "MPO/光纤周边；数据中心机柜侧交换机",
+   "spec": "用户表：买过光纤周边，也能用到交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-448XGGM(L3)"
+  }
+ ],
+ "channels": {
+  "直邮": "trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com",
+  "LinkedIn": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
+  "网站": "https://resonantnetworks.com/"
+ },
+ "signals": [
+  "2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）",
+  "用户表：成单（Trevor Loi，solution provider）"
+ ],
+ "risks": [
+  "数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位",
+  "新加坡人工贵、单量小"
+ ],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 25,
+  "why": "DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货"
+ },
+ "email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before."
 }

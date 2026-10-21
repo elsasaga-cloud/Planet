@@ -87,6 +87,7 @@ updated: 2026-10-21
 - **KP**：김우경（Kim Woo-kyung）（代表（법인 대표））marketing@ez-net.co.kr +82 2-715-0372〔https://nextu.kr/article/q-a/6/12691〕
 - 备注：A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

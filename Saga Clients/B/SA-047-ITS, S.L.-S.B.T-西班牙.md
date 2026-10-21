@@ -79,6 +79,7 @@ updated: 2026-10-21
 - **KP**：Vicente Jimenez（联系人（用户表））vicente.jimenez@intecseg.com +34 616 913 800（WhatsApp 已加）〔Clients/A/DONE/其他优质欧洲客户.xlsx〕
 - **调研后定级**：B（原自动 A）——实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

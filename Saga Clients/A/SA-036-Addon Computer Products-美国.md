@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国加州的兼容光模块与高速线缆独立制造商（1999 年起），自称全球最大独立光模块制造商，250+ 员工，产品线含 MC（含 10G、串口转光纤）、复用器、光纤配件；在自有实验室编码/测试。用户表：买了 6 台 MC 样品，嫌交期长；联系人 Matt McCormick（matt@addoncomputer.com，用户表原值），WhatsApp 已加。（调研 2026-10-21；表内兴趣：MC 很多家的/有光路的；买了6台样品MC 嫌交期长）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 18 次（2025-04-03 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -76,8 +76,41 @@ updated: 2026-10-21
 - **【官网】产品线含 MC 等网络配件**
   > High quality transceivers, patch cables, media converters, & fiber connectivity solutions from 1999. · Network Accessories Multiplexers, media converters, fiber adapters, PCI cards
   > 来源：https://www.addoncomputer.com/（抓取 2026-10-21）
+- **【官网】ADD-GMC-SFP 千兆 RJ45→SFP MC 在售，多地库存，经 Ingram/TD Synnex**
+  > 10/100/1000Base-TX(RJ-45) to Open SFP Port Media Converter SKU: ADD-GMC-SFP Belgium: 71 in stock … North America: 50 in stock … Available from the following dealers: Ingram Micro® … TD Synnex US
+  > 来源：https://www.addonnetworks.com/products/media-converters/industry-standard/add-gmc-sfp（抓取 2026-10-21）
+- **【官网】ADD-MC-PRO-1000AS-SFP 标注 TAA Compliant: No / Country Of Origin: Varies**
+  > Country Of Origin · Varies … TAA Compliant · No … AddOn Part# · ADD-MC-PRO-1000AS-SFP
+  > 来源：https://www.addonnetworks.com/products/media-converters/industry-standard/add-mc-pro-1000as-sfp（抓取 2026-10-21）
 - **KP**：Matt McCormick（采购/产品联系人（用户表原值））matt@addoncomputer.com +1 949-735-4119（WhatsApp 已加）〔Clients/A/DONE/US.xlsx〕
 - 备注：A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | AddOn Networks（Add-On Computer Peripherals, LLC） |
+| 成立 | 1999 |
+| 总部/地址 | Tustin/Irvine, California, USA（另有 UK、Belgium 仓） |
+| 人数 | 250+（官网） |
+| 其他 | 自称全球最大独立光模块制造商；MC 产品线通过 Ingram Micro / TD Synnex / Insight 分销，各型号标注三地库存 |
+
+- **业务线**：兼容光模块 / DAC / AOC；媒体转换器（商用、工业、PoE、管理型）；光纤配件与复用器
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| AddOn | ADD-GMC-SFP | 10/100/1000Base-TX(RJ-45) → 开放 SFP 口 MC，非管理；北美/比利时有库存 | STI-110GE | https://www.addonnetworks.com/products/media-converters/industry-standard/add-gmc-sfp（2026-10-21） |
+| AddOn | ADD-MGMC-SFP | 千兆 RJ45→SFP 管理型 MC，120V AC 供电，北美 129 台库存 | STI-110GE（管理型待核） | https://www.addonnetworks.com/products/media-converters/industry-standard/add-mgmc-sfp（2026-10-21） |
+| AddOn | ADD-IGMCMN-SFP / ADD-IMGMC-SFP / ADD-IGMC-SFP-POE+ | 工业 Mini MC / 工业管理 MC / 工业 PoE+ MC（RJ45→SFP） | STI-110GE（工业 MC 对位待核） | https://www.addonnetworks.com/products/media-converters/industry-standard/add-igmcmn-sfp（2026-10-21） |
+| AddOn | ADD-MC-PRO-1000AS-SFP | 千兆 RJ45→SFP MC，5V DC，TAA Compliant: No，原产地 Varies | STI-110GE | https://www.addonnetworks.com/products/media-converters/industry-standard/add-mc-pro-1000as-sfp（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.addonnetworks.com/；直邮: matt@addoncomputer.com（Matt McCormick，用户表，WhatsApp 已加）/ anthony.giunta@addonnetworks.com（Director of Distribution, Channel Sales）；分销: Ingram Micro / TD Synnex / Insight（其下游）
+- **近况信号**：
+  - 官网 MC 型号页公开标注 TAA Compliant: No 与 Country Of Origin: Varies——其 MC 本就是外采贴牌，非 TAA 产品线（https://www.addonnetworks.com/…/add-mc-pro-1000as-sfp 2026-10-21）
+  - 用户表：买了 6 台 MC 样品，嫌交期长 → 交期是成交关键
+- **风险/边界**：大买家、对交期/一致性/返修率要求高；6 台样品后未放量，原因=交期；Saga 的 MC 来自 SmartByte（STI-110GE 等），需先确认批量交期承诺（10–15 天 MOQ 以上）再报
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈
+- **邮件切入句（英文）**：On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +178,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/制造商（兼容光模块；MC 等外采贴牌）） |
+| **P1** | STI-110GE | 深挖对位：AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/制造商（兼容光模块；MC 等外采贴牌）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -199,9 +232,9 @@ updated: 2026-10-21
 ```text
 Hi Matt,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your AddOn ADD-GMC-SFP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

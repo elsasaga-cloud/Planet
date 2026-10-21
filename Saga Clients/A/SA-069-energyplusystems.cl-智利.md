@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：Ling（用户表）（联系人）ventas@energyplusystems.cl +56 9 9218 8218〔https://energyplusystems.cl/sistemas-fotovoltaicos/〕
 - 备注：A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

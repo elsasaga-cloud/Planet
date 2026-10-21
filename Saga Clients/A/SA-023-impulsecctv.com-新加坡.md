@@ -82,6 +82,7 @@ updated: 2026-10-21
 - **KP**：—（总机邮箱）info@impulsecctv.com +1 778-508-3514（温哥华，ZoomInfo）〔https://impulsecctv.com/about-us/〕
 - 备注：A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：—（订单邮箱）zakaz@svn-video.ru +7 903 810 33 33〔https://svn-video.ru/contact-us〕
 - 备注：A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

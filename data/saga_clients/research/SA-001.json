@@ -8,7 +8,8 @@
  "brands_seen": [
   "ONV",
   "Deye",
-  "Inverex"
+  "Inverex",
+  "ASTEL"
  ],
  "evidence": [
   {
@@ -24,8 +25,90 @@
    "quote": "Deye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery … Inverex Solar Air Conditioner with Built-in Solar MPPT Inverter",
    "url": "https://asteldigicom.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有品牌 AST-IMC-GB-POE-8E2U2S-PSE 工业千兆 PoE 交换机规格",
+   "quote": "The AST-IMC-GB-PoE-8E2U2S-PSE-series is a full gigabit industrial PoE switch independently developed by ASTEL. It has 10x10/100/1000M RJ45 ports and 2x100/1000 SFP slot ports, Port 1-8 can support IEEE 802.3af/at … maximum POE output power is 240W … Power Supply No, you can purchase industrial power supply 48V/120W or 48V/240W",
+   "url": "https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "AST-IMC-POE-8E2U2S-PSE 网店价 AED 575 有库存；10G L3 工业 PoE AED 1,375",
+   "quote": "INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock",
+   "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
+   "date": "2026-10-21"
   }
  ],
  "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae）",
+  "hq": "UAE（Dubai，网店 + 门店）",
+  "other": "自有品牌 ASTEL/AST- 前缀工业 MC/交换机（产品页自称「independently developed by ASTEL」= 贴牌），网店标价 AED；GM Sanjay Singla 已成单"
+ },
+ "business_lines": [
+  "线缆/连接器（自称 House of all kinds of cables and connectors）",
+  "网络/电信：工业 MC 与工业 PoE 交换机（AST-IMC 系列，非管理/管理、10G L3）",
+  "光纤：工业千兆非 PoE MC/交换机（FOE-IMC 系列）",
+  "2026 主推：Deye/Inverex 储能与太阳能"
+ ],
+ "products_seen": [
+  {
+   "brand": "ASTEL",
+   "model": "AST-IMC-GB-POE-8E2U2S-PSE",
+   "spec": "工业非管理 8×GE PoE + 2×GE RJ45 + 2×SFP，240W/48VDC，af/at 30W/口，不含电源（需另购 48V/120W 或 240W 工业电源）",
+   "url": "https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "ASTEL",
+   "model": "AST-IMC-POE-8E2U2S-PSE（-O）",
+   "spec": "工业非管理 8×FE PoE + 2×GE combo + 2×SFP，网店价 AED 575，有库存",
+   "url": "https://asteldigicom.com/industrial-switch-unmanaged-8-port-poe-with-2xgbe-uplink-and-2xgb-sfp-ports.-a.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（千兆升级位）"
+  },
+  {
+   "brand": "ASTEL",
+   "model": "AST-IMC-10G-12E4S-SFP-O",
+   "spec": "工业 L3 管理 12×GE（8 PoE）+ 4×1G/10G SFP+，240W，网店价 AED 1,375",
+   "url": "https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html",
+   "date": "2026-10-21",
+   "saga": "STC-424XGGPM-280W（机架位）/ 工业 10G 待 SmartByte 核型"
+  },
+  {
+   "brand": "ASTEL",
+   "model": "FOE-IMC-GB-1E1S / 4E1S / 1E2F / 4E2F",
+   "spec": "工业千兆非 PoE MC/小交换机 RJ45+SFP/双纤",
+   "url": "https://asteldigicom.com/fiber-optic/all-products.html",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）",
+  "直邮": "asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）",
+  "联系人": "Sanjay Singla（GM，成单）"
+ },
+ "signals": [
+  "网店工业 PoE 交换机页面均「In stock」且有 -O 变体——在持续备货销售自有 AST 品牌（2026-10-21）",
+  "用户表：问过 ONV 工业 FS 与工业电源；已成单"
+ ],
+ "risks": [
+  "其 AST 系列规格（8E2U2S、10G L3）是典型华南 ODM 公版，价格竞争激烈，需以 Marvell 芯片 + 一致性 + 交期取胜",
+  "阿联酋转口贸易，可能分销到伊朗等受限地区——仅按 UAE 本地项目报，守界"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核"
+ },
+ "email_hook": "The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time."
 }

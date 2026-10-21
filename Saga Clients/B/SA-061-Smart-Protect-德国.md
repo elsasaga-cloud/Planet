@@ -70,6 +70,7 @@ updated: 2026-10-21
 - **KP**：Andrew Walker（Geschäftsführer/CEO）info@walker-security.systems +49 177 322 4215〔https://walker-security.systems/impressum〕
 - **调研后定级**：B（原自动 A）——微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

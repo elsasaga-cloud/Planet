@@ -74,6 +74,7 @@ updated: 2026-10-21
   > 来源：https://find-and-update.company-information.service.gov.uk/company/07614771（抓取 2026-10-21）
 - **调研后定级**：B（原自动 A）——小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

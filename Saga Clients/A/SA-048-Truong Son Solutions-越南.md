@@ -3,19 +3,19 @@
 
 > **评级 A**　|　越南　|　档案编号 `SA-048`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：分销商/电商（工业交换机垂直）（推断）　|　**历史关系**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）　|　**所在清单**：A已回复、A优质名单(Thailand)、AI评估(TH)·DONE、群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商/电商（工业交换机垂直）（推断）　|　**历史关系**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）　|　**所在清单**：A已回复、A优质名单(Thailand)、AI评估(TH)·DONE、群发(VN/VN)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-048
 rating: A
 rating_auto: A
 name_official: "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）"
-score: 82
+score: 67
 country: 越南
 region: 亚太
 website: truongsonsolutions.vn
 type: 分销商/电商（工业交换机垂直）
-tier_tags: ["A已回复", "A优质名单(Thailand)", "AI评估(TH)·DONE", "群发(VN/VN)"]
+tier_tags: ["A已回复", "A优质名单(Thailand)", "AI评估(TH)·DONE", "群发(VN/VN)", "在用同行产品"]
 deal: no
 replies: 1
 followups: 17
@@ -24,14 +24,14 @@ last_contact: 2025-12-15
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-sources: 5
+sources: 6
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。（调研 2026-10-21；表内兴趣：OEM/ODM；MC FS 机架 工业FS 很多牌子的 销售平台；商业POE 工业FS等；ONV产品的全线引进）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
+- **是谁**：胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。（调研 2026-10-21；表内兴趣：OEM/ODM；MC FS 机架 工业FS 很多牌子的 销售平台；商业POE 工业FS等；ONV产品的全线引进；MaiWe）
+- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）；最近一次客户回复：2025-12-15：INFO
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -44,13 +44,13 @@ updated: 2026-10-21
 |---|---|---|
 | 名称 | Truong Son Solutions | 事实（用户表） |
 | 国家 | 越南（另见：泰国） | 事实（用户表）|
-| 网站/域名 | truongsonsolutions.vn / truongsonsolutions.com / switchcongnghiep.com | 事实（用户表 URL/邮箱域名） |
+| 网站/域名 | truongsonsolutions.vn / truongsonsolutions.com / switchcongnghiep.com / switchcongnghiep.vn | 事实（用户表 URL/邮箱域名） |
 | 类型 | 分销商/电商（工业交换机垂直） | 推断（据兴趣/备注关键词） |
-| 联系人 | 可以尝试多跟进一下 / 分销一些有些名气的牌子 / 其他群发了 | 事实（用户表） |
+| 联系人 | 可以尝试多跟进一下 / 分销一些有些名气的牌子 / 其他群发了 / 发不过去 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
-| 兴趣（Interested in） | OEM/ODM / MC FS 机架 工业FS 很多牌子的<br>销售平台 / 商业POE 工业FS等 / ONV产品的全线引进 | 事实（用户表） |
+| 兴趣（Interested in） | OEM/ODM / MC FS 机架 工业FS 很多牌子的<br>销售平台 / 商业POE 工业FS等 / ONV产品的全线引进 / MaiWe | 事实（用户表） |
 | 用户备注（Remark） | 早期ai: 30% B<br>东南亚网络通信设备销售平台，主营工业交换机、媒体转换器及通信设备<br>发送工业交换机产品线邮件，强调稳定性和丰富型号<br>工业交换机、工业MC<br>官网产品线包含工业交换机、MC及通信设备，销售平台型客户<br>销售平台+很多牌子"= 典型的多品牌分销商，供应链复杂 \| max: 80% A<br>越南专业工业交换机分销商/电商，规模预估10-50人，业务100%聚焦工业级通信设备。<br>直击同行痛点，发送我司Marvell方案的工业PoE交换机目录，强调我们有充足芯片库存、极快交期及针对Hasivo/3onedata的价格竞争力。<br>工业PoE交换机（8/16/24口）、L2+管理型工业交换机<br>网站域名直译即“工业交换机”，纯度极高；大量代理3onedata、Hasivo等深圳/大陆纯绿灯品牌，供应链极度开放，替换/补充SKU的成功率极高。 \| gpt: 35% B<br>越南工业交换机垂直网站，主营工业网络设备，业务方向与工业Ethernet高度匹配<br>建议推广工业PoE、工业L2管理交换机，重点强调中国供应链、快速交付和OEM能力<br>工业交换机、工业PoE交换机、光纤上联交换机<br>网站名称和产品方向高度匹配工业交换机市场，但公司规模、品牌代理情况、中国供应链合作情况未确认 \| gemini: 65%  A<br>越南专业工业交换机与工业网络垂直方案商，核心主营Industrial Switch及PoE设备<br>发送工业交换机与PoE++产品线，强调支持ERPS环网、Marvell稳定方案、低成本OEM/ODM及CLI/MIB技术支持<br>8/16口工业PoE交换机、ERPS环网交换机、Centec核心交换机<br>网站全站聚焦工业交换机（主菜极度明确）；场景高度匹配（工业/视频监控/现场网络）；对中国工业网络供应链接受度高，适合长期跟进及技术定制合作 \| claude4.5: 40% A<br>越南小型工业交换机专营电商/分销商，约5-20人，主营工业以太网交换机<br>发送工业PoE全系列catalog，强调深圳供应链优势+库存充足+快速交期+OEM贴牌服务<br>8/16/24口工业PoE交换机、ERPS环网交换机、managed工业交换机<br>官网产品包含多个中国品牌（从产品页面看有典型深圳白牌特征）；网站域名"switchcongnghiep"（工业交换机）说明专注度高；越南市场对中国供应链接受度极高；公司规模小，决策快；交换机为100%主营 | 事实（用户表） |
-| 所在清单 | A已回复、A优质名单(Thailand)、AI评估(TH)·DONE、群发(VN/VN) | 事实（文件路径） |
+| 所在清单 | A已回复、A优质名单(Thailand)、AI评估(TH)·DONE、群发(VN/VN)、在用同行产品 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | ONV, Marvell, FS | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -71,6 +71,7 @@ updated: 2026-10-21
   > 来源：https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/（抓取 2026-10-21）
 - **KP**：—（总机/销售（官网））info@truongsonsolutions.com +84 909 490 007〔https://truongsonsolutions.vn/lien-he/〕
 - 备注：A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -106,13 +107,16 @@ updated: 2026-10-21
 
 ## 联系方式（已有 · 原值照录）
 
-- 邮箱：`info@truongsonsolutions.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`info@truongsonsolutions.com`〔企业邮箱；用户备注含「发不过去」——发送前核对是哪一个地址；来源：用户表原值〕
+- 邮箱：`info@switchcongnghiep.vn`〔企业邮箱；用户备注含「发不过去」——发送前核对是哪一个地址；来源：用户表原值〕
 - 联系人（原值）：可以尝试多跟进一下
 - 联系人（原值）：分销一些有些名气的牌子
 - 联系人（原值）：其他群发了
+- 联系人（原值）：发不过去
 - 网站/域名：truongsonsolutions.vn
 - 网站/域名：truongsonsolutions.com
 - 网站/域名：switchcongnghiep.com
+- 网站/域名：switchcongnghiep.vn
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
 ## 关键人（KP）与触达通道
@@ -121,11 +125,12 @@ updated: 2026-10-21
 |---|---|---|---|---|
 | — | 总机/销售（官网） | info@truongsonsolutions.com / +84 909 490 007 | 调研核实（公开页） | https://truongsonsolutions.vn/lien-he/ |
 
-- **通道建议**：企业邮箱可直发
+- **通道建议**：企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户由 **5 行**原始记录归并而成；归并键：`d:switchcongnghiep.com`, `d:truongsonsolutions.com`, `e:info@truongsonsolutions.com`。
+本客户由 **6 行**原始记录归并而成；归并键：`d:switchcongnghiep.com`, `d:truongsonsolutions.com`, `e:info@truongsonsolutions.com`, `m:SA-048+SC-1713`。
+曾用编号：SC-1713
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -134,6 +139,7 @@ updated: 2026-10-21
 | AI客户评估/DONE/AI客户评估_TH 09.28.xlsx#总表:7 | 6 | https://switchcongnghiep.com/san-pham/ | 泰国 |  | 谷歌 | MC FS 机架 工业FS 很多牌子的<br>销售平台 | info@truongsonsolutions.com | 早期ai: 30% B<br>东南亚网络通信设备销售平台，主营工业交换机、媒体转换器及通信设备<br>发送工业交换机产品线邮件，强调稳定性和丰富型号<br>工业交换机、工业MC<br>官网产品线包含工业交换机、MC及通信设备，销售平台型客户<br>销售平台+很多牌子"= 典型的多品牌分销商，供应链复杂 \| max: 80% A<br>越南专业工业交换机分销商/电商，规模预估10-50人，业务100%聚焦工业级通信设备。<br>直击同行痛点，发送我司Marvell方案的工业PoE交换机目录，强调我们有充足芯片库存、极快交期及针对Hasivo/3onedata的价格竞争力。<br>工业PoE交换机（8/16/24口）、L2+管理型工业交换机<br>网站域名直译即“工业交换机”，纯度极高；大量代理3onedata、Hasivo等深圳/大陆纯绿灯品牌，供应链极度开放，替换/补充SKU的成功率极高。 \| gpt: 35% B<br>越南工业交换机垂直网站，主营工业网络设备，业务方向与工业Ethernet高度匹配<br>建议推广工业PoE、工业L2管理交换机，重点强调中国供应链、快速交付和OEM能力<br>工业交换机、工业PoE交换机、光纤上联交换机<br>网站名称和产品方向高度匹配工业交换机市场，但公司规模、品牌代理情况、中国供应链合作情况未确认 \| gemini: 65%  A<br>越南专业工业交换机与工业网络垂直方案商，核心主营Industrial Switch及PoE设备<br>发送工业交换机与PoE++产品线，强调支持ERPS环网、Marvell稳定方案、低成本OEM/ODM及CLI/MIB技术支持<br>8/16口工业PoE交换机、ERPS环网交换机、Centec核心交换机<br>网站全站聚焦工业交换机（主菜极度明确）；场景高度匹配（工业/视频监控/现场网络）；对中国工业网络供应链接受度高，适合长期跟进及技术定制合作 \| claude4.5: 40% A<br>越南小型工业交换机专营电商/分销商，约5-20人，主营工业以太网交换机<br>发送工业PoE全系列catalog，强调深圳供应链优势+库存充足+快速交期+OEM贴牌服务<br>8/16/24口工业PoE交换机、ERPS环网交换机、managed工业交换机<br>官网产品包含多个中国品牌（从产品页面看有典型深圳白牌特征）；网站域名"switchcongnghiep"（工业交换机）说明专注度高；越南市场对中国供应链接受度极高；公司规模小，决策快；交换机为100%主营 | — |
 | E/群发/VN 09.09 09.10/VN.xlsx#总表:117 | 119 | https://switchcongnghiep.com/san-pham/ | 越南 | 分销一些有些名气的牌子 | 谷歌 | 商业POE 工业FS等 | info@truongsonsolutions.com |  | — |
 | E/群发/VN 09.09 09.10/VN.xlsx#总表:155 | 157 | https://switchcongnghiep.com/san-pham/ | 越南 | 其他群发了 | 谷歌 | ONV产品的全线引进 | info@truongsonsolutions.com |  | 7 条 |
+| 客户再筛选_在用同行的产品.xlsx#总表:37 | 36 | https://switchcongnghiep.vn/danh-muc-san-pham/maiwe | 越南 | 发不过去 | 谷歌 | MaiWe | info@switchcongnghiep.vn |  | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -222,7 +228,7 @@ https://sagatele.com/
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 A，分数 82）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 A，分数 67）
 
 ---
 

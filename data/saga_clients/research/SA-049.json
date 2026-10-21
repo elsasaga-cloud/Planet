@@ -32,6 +32,27 @@
    "quote": "PARTNER FOR: IBASE TECHNOLOGY INC TAIWAN VOLKTEK CORPORATION TAIWAN … Company size: 2-10 employees · Founded: 2019",
    "url": "https://in.linkedin.com/company/sundar-techno-solutions",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "电商/IndiaMART",
+   "claim": "STS 品牌工业交换机型号：STS-16UMES、STS-UM42POE、STS-UM608GP 等，MOQ 5，Made in India",
+   "quote": "Manufacturer of Industrial Ethernet Switches - STS 16 PORT UNMANAGED NON POE … Model Name/Number · STS-16UMES … 5 Port Unmanaged Industrial Ethernet Switch … STS-UM42POE … STS-UM608GP_Gigabit 8 port Industrial Unmanaged Ethernet POE Switch … Country of Origin · Made in India",
+   "url": "https://www.sundartechno.in/industrial-ethernet-switches.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "电商/IndiaMART",
+   "claim": "8 口千兆 + 2G SFP 工业机与 8+4×10G L3 工业 PoE 在售",
+   "quote": "STS 8 PORT 10/100/1000BASE-TX+2G SFP INDUSTRIAL ETHERNET SWITCH … Input Voltage · 12 to 52V DC redundant power … 8 Port gigabit +4 Port 10G SFP L3 Managed Industrial PoE Switch",
+   "url": "https://www.sundartechno.in/profinet-switch.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "电商/IndiaMART",
+   "claim": "16 口管理型 ST-IES-162G-SFP 与 STR016FP 16 口 PoE",
+   "quote": "STS 16-Port 10/100BASE-TX+2G SFP Managed Industrial Switch (ST-IES-162G-SFP), STR016FP 16-port 10/100-TX Industrial PoE Switch",
+   "url": "https://www.sundartechno.in/managed-switches.html",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -44,5 +65,92 @@
   }
  ],
  "notes": "A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Sundar Techno Solutions（STS）",
+  "founded": "2019（GST 注册）",
+  "hq": "Bengaluru, Karnataka, India",
+  "staff": "2–10 / 11–25（口径不一）",
+  "other": "IndiaMART 店铺 sundartechno.in 以「Manufacturer / Made in India」名义销售 STS 品牌工业交换机全线；另有 industrialcomputers.in 站点卖工控机"
+ },
+ "business_lines": [
+  "STS 品牌工业交换机（非管理/管理/PoE/Profinet/L3 10G/EN50155 铁路）",
+  "工业嵌入式 Box PC、面板 PC、KVM",
+  "串口服务器（ZLAN）、Profibus 连接器"
+ ],
+ "products_seen": [
+  {
+   "brand": "STS",
+   "model": "STS-UM608GP",
+   "spec": "千兆 8 口工业非管理 PoE",
+   "url": "https://www.sundartechno.in/industrial-ethernet-switches.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "STS",
+   "model": "STS 8 PORT 10/100/1000BASE-TX+2G SFP（8-Port + 2G SFP Industrial PoE Switch）",
+   "spec": "8×GE + 2 SFP，12–52VDC 冗余，143.7×125×47.7 mm",
+   "url": "https://www.sundartechno.in/profinet-switch.html",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "STS",
+   "model": "STS44G10P-M-SFP",
+   "spec": "4×GE PoE + 4×10G SFP L3 管理工业",
+   "url": "https://www.sundartechno.in/industrial-poe-switch.html",
+   "date": "2026-10-21",
+   "saga": "（10G 工业 L3 待 SmartByte 核型）"
+  },
+  {
+   "brand": "STS",
+   "model": "STS-16UMES / ST-IES-162G-SFP / STR016FP",
+   "spec": "16 口非管理千兆 / 16 FE + 2G SFP 管理 / 16 口 FE PoE",
+   "url": "https://www.sundartechno.in/managed-switches.html",
+   "date": "2026-10-21",
+   "saga": "STI-21616GP"
+  },
+  {
+   "brand": "STS",
+   "model": "STS05G / STS-UM42POE",
+   "spec": "5 口千兆非管理 / 4+1 百兆 PoE",
+   "url": "https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "STS",
+   "model": "STS1012-M 10GE EN50155 铁路交换机（M12）",
+   "spec": "铁路/圆形连接器——Saga 不做（守界）",
+   "url": "https://www.sundartechno.in/unmanaged-industrial-grade-ethernet-switch.html",
+   "date": "2026-10-21",
+   "saga": "—（不报）"
+  }
+ ],
+ "channels": {
+  "网站": "https://sundartechno.com/ · https://www.sundartechno.in/（IndiaMART）",
+  "直邮": "sales@sundartechno.com",
+  "电话/WhatsApp": "+91 98808 22633（用户表，已加）",
+  "联系人": "Manoj Kumar N（Founder & CEO，成单）"
+ },
+ "signals": [
+  "IndiaMART 店铺以 STS 品牌列出 20+ 款工业交换机，MOQ 1–5 台，「Made in India」——典型贴牌 + 本地组装/贴标模式，持续需要 ODM 货源（2026-10-21）",
+  "用户表：2023-06 成单（2×2 bypass 工业 FS 100 台需求），此后无跟进记录"
+ ],
+ "risks": [
+  "客户面向国防/铁路/智慧城市——国防与铁路项目守界，只供工厂/智慧城市民用项目",
+  "「Made in India」标注要求中性包装 + 可能要求 SKD/本地组装",
+  "2023 年后沉默 2 年，需重新激活"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "STS 全线与 Saga STI 工业线逐一对位：STS-UM608GP / 8+2G SFP → STI-288DGGPM；STS05G/UM42POE → STI-144GP；16 口 → STI-21616GP；贴 STS 标 30% 档；10G L3 与 EN50155 不报"
+ },
+ "email_hook": "Looking at the STS-UM608GP and the 8-port + 2G SFP PoE models in your range, the Marvell-based 8-port DIN managed PoE switch is the one we can build in STS neutral packing, so I am restarting with that and the 4+1 compact unit rather than the bypass model from 2023."
 }

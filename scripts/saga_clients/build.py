@@ -534,6 +534,35 @@ def main():
         elif nn and len(nn) >= 6 and nn not in NAME_STOP:
             link(rid, 'n:??|' + nn)
 
+    # 人工归并（T27 问 1）：data/saga_clients/人工归并.csv（编号A,编号B,理由,日期）
+    # 用上一轮 entities.json 的「来源定位」把两个编号名下的全部原始行连成一个实体；小编号保留，大编号进 code_aliases。
+    manual_merge_keys = {}
+    mm_path = os.path.join(DATA, '人工归并.csv')
+    prev_path = os.path.join(DATA, 'entities.json')
+    if os.path.exists(mm_path) and os.path.exists(prev_path):
+        prev = json.load(open(prev_path, encoding='utf-8'))
+        loc_by_code = {}
+        for e in prev:
+            locs = {(s['file'], s.get('sheet', ''), int(s.get('row', 0) or 0)) for s in e['sources']}
+            loc_by_code.setdefault(e['code'], set()).update(locs)
+            for a in e.get('code_aliases') or []:
+                loc_by_code.setdefault(a, set()).update(locs)
+        row_by_loc = {(r['file'], r.get('sheet', ''), int(r.get('row', 0) or 0)): r['_id'] for r in parsed}
+        for m in csv.DictReader(open(mm_path, encoding='utf-8-sig')):
+            a, b = (m.get('编号A') or '').strip(), (m.get('编号B') or '').strip()
+            if not a or not b:
+                continue
+            ids = sorted({row_by_loc[l] for c in (a, b) for l in loc_by_code.get(c, ()) if l in row_by_loc})
+            if len(ids) < 2:
+                print(f'人工归并：找不到 {a} / {b} 的原始行，跳过')
+                continue
+            key = f'm:{a}+{b}'
+            for rid in ids[1:]:
+                if dsu.find(ids[0]) != dsu.find(rid):
+                    merge_edges[(min(ids[0], rid), max(ids[0], rid))].append(key)
+                dsu.union(ids[0], rid)
+            manual_merge_keys[key] = set(ids)
+
     groups = defaultdict(list)
     for r in parsed:
         groups[dsu.find(r['_id'])].append(r)
@@ -553,6 +582,7 @@ def main():
             key_members['n:' + r['_country'][1] + '|' + nn].add(r['_id'])
         elif nn and len(nn) >= 6 and nn not in NAME_STOP:
             key_members['n:??|' + nn].add(r['_id'])
+    key_members.update(manual_merge_keys)
     shared_keys = {k: v for k, v in key_members.items() if len(v) >= 2}
 
     # 编号登记簿

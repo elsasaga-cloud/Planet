@@ -21,8 +21,8 @@ replies: 1
 followups: 2
 first_contact: 2024-11-09
 last_contact: 2025-05-29
-p1: STI-110GE
-price_tier: 25%
+p1: STC-28DGGPM
+price_tier: 30%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。（调研 2026-10-21；表内兴趣：SFP MC 周边产品 自己的logo）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 2 次（2024-11-09 → 2025-05-29）；最近一次客户回复：2024-11-09：非PoE, 全光，100G
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -81,7 +81,48 @@ updated: 2026-10-21
 - **【第三方（LinkedIn）】11–50 人，2015 年**
   > Branche: Telekommunikation · Größe: 11–50 Beschäftigte · Hauptsitz: Darmstadt · Gegründet: 2015
   > 来源：https://de.linkedin.com/company/nynexfiberone（抓取 2026-10-21）
+- **【注册/RIPE】Frederik Kriewitz = NYNEX satellite OHG 的 RIPE 联系人，地址与电话公开**
+  > person: Frederik Kriewitz address: NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Germany phone: +49 6151 50074-009 e-mail: f.kriewitz@nynex.de nic-hdl: NX123
+  > 来源：https://ipinfo.io/AS200519/178.17.236.0/23（抓取 2026-10-21）
+- **【官网】公司 2000 年创立、运营商 + 集成商、自有 AS62023**
+  > NYNEX satellite OHG ist ein inhabergeführter Netzbetreiber und Systemintegrator aus Darmstadt, gegründet im Oktober 2000 von Andreas Buxbaum und Gunter Frank … in einem eigenen Netz mit eigenem autonomem System (AS62023)
+  > 来源：https://nynex.de/leistungen.html（抓取 2026-10-21）
+- **【官网】2026 年 26 周年并上线 nynex.ai；fiberONE 光纤自 2015 年**
+  > Chronik der NYNEX satellite OHG, Darmstadt: VSAT-Netze seit 2000, Glasfaser mit fiberONE seit 2015, KI-Infrastruktur mit nynex.ai seit 2026
+  > 来源：https://nynex.de/geschichte.html（抓取 2026-10-21）
+- **【公开文件】Kriewitz 与 Frank 代表 NYNEX/fiberONE 署名政策意见书（决策层）**
+  > Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025
+  > 来源：https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf（抓取 2025-08-31）
+- **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
+- **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | NYNEX satellite OHG（品牌 fiberONE） |
+| 成立 | 2000-10（Andreas Buxbaum 与 Gunter Frank 创立）；fiberONE 光纤业务 2015 年起 |
+| 总部/地址 | Robert-Bosch-Str. 20, 64293 Darmstadt, Germany |
+| 人数 | 11–50（LinkedIn） |
+| 注册/税号 | RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz |
+| 股权/集团 | 自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施 |
+| 其他 | 2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名） |
+
+- **业务线**：VSAT 卫星网络（Ku/Ka）；fiberONE：法兰克福/莱茵美因 FTTB/FTTH 自建网，楼宇千兆/10G 对称接入；B2B 专线、波长、楼宇网络；IP 中转/自有 AS；nynex.ai（2026 起）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| fiberONE（自有 logo 需求） | 楼宇接入侧 SFP / MC / 接入交换机 | 用户表：兴趣 SFP、MC 及周边并要「自己的 logo」；FTTB 楼宇侧需要带 SFP 上联的小口数 PoE/非 PoE 接入机 | STC-28DGGPM | https://fiberone.de/（用户表 + 2026-10-21） |
+
+- **触达通道（公开）**：直邮: f.kriewitz@nynex.de（RIPE 公开，成单联系人）/ m.kopp@nynex.de / s.valaei@nynex.de（用户表）；电话: +49 6151 50074-009（RIPE 公开）；网站: https://fiberone.de/ · https://nynex.de/；LinkedIn: https://de.linkedin.com/company/nynexfiberone
+- **近况信号**：
+  - 2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）
+  - 2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）
+  - 用户表：已成单（Frederik Kriewitz），要自有 logo
+- **风险/边界**：运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明；自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货
+- **邮件切入句（英文）**：For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -110,7 +151,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Frederik Kriewitz | — | f.kriewitz@nynex.de / m.kopp@nynex.de | 用户表原值 | Clients/ 表 |
+| Frederik Kriewitz | Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人） | f.kriewitz@nynex.de / +49 6151 50074-009 | 调研核实（公开页） | https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表 |
+| Gunter Frank | 创始人/合伙人（1999/2000 创立） | — | 调研核实（公开页） | https://nynex.de/company/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -127,20 +169,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（运营商/ISP（终端 + 自有 logo 贴牌需求）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（运营商/ISP（终端 + 自有 logo 贴牌需求）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -148,7 +189,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 1 次实质回复（对方认识我们）；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -176,14 +217,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Frederik,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your fiberONE（自有 logo 需求） 楼宇接入侧 SFP / MC / 接入交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

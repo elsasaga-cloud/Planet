@@ -73,6 +73,7 @@ updated: 2026-10-21
 - **KP**：Okan S.（联系人（用户表））okans@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

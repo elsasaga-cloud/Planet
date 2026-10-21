@@ -70,6 +70,7 @@ updated: 2026-10-21
 - **KP**：Peter Tarquinio（联系人（用户表））petertarquinio@antronix.com 〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

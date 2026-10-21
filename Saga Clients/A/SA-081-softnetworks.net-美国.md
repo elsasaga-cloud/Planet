@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：Neal Cennamo（Vice President）nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
 - 备注：美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

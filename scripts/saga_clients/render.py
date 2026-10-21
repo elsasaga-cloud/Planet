@@ -206,7 +206,50 @@ def fmt_research(ent):
         lines.append(f"- **调研后定级**：{rs['grade_override']}（原自动 {ent['grade_auto']}）——{rs.get('override_reason', '')}")
     if rs.get('notes'):
         lines.append(f"- 备注：{rs['notes']}")
+    lines.append(fmt_deep(ent))
     return '\n'.join(lines)
+
+
+def fmt_deep(ent):
+    """加厚挖掘块（T27）：公司事实 / 业务线 / 在卖型号→Saga 对位 / 触达通道 / 近况信号 / 风险。字段缺失即不渲染。"""
+    rs = ent.get('research') or {}
+    dp = rs.get('deep')
+    if not dp:
+        return ''
+    L = ['', f"### 加厚挖掘（{dp.get('done_at', '')} · {dp.get('level', '深挖')}）", '']
+    cf = rs.get('company_facts') or {}
+    if cf:
+        L.append('| 公司事实 | 内容 |')
+        L.append('|---|---|')
+        for k, lbl in [('legal_name', '法定名称'), ('founded', '成立'), ('hq', '总部/地址'), ('staff', '人数'), ('revenue', '营收'), ('registry', '注册/税号'), ('ownership', '股权/集团'), ('other', '其他')]:
+            if cf.get(k):
+                L.append(f'| {lbl} | {md_escape(str(cf[k]))} |')
+        L.append('')
+    if rs.get('business_lines'):
+        L.append('- **业务线**：' + '；'.join(rs['business_lines']))
+    ps = rs.get('products_seen') or []
+    if ps:
+        L.append('')
+        L.append('| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |')
+        L.append('|---|---|---|---|---|')
+        for x in ps:
+            L.append(f"| {md_escape(x.get('brand', ''))} | {md_escape(x.get('model', ''))} | {md_escape(x.get('spec', ''))} | {md_escape(x.get('saga', '') or '—')} | {x.get('url', '')}{'（' + x['date'] + '）' if x.get('date') else ''} |")
+        L.append('')
+    ch = rs.get('channels') or {}
+    if ch:
+        L.append('- **触达通道（公开）**：' + '；'.join(f'{k}: {v}' for k, v in ch.items() if v))
+    if rs.get('signals'):
+        L.append('- **近况信号**：')
+        for x in rs['signals']:
+            L.append(f'  - {x}')
+    if rs.get('risks'):
+        L.append('- **风险/边界**：' + '；'.join(rs['risks']))
+    sf = rs.get('saga_fit') or {}
+    if sf:
+        L.append(f"- **Saga 对位结论**：P1 {sf.get('p1', '—')}（{sf.get('tier', '')}% 档）——{sf.get('why', '')}")
+    if rs.get('email_hook'):
+        L.append(f"- **邮件切入句（英文）**：{rs['email_hook']}")
+    return '\n'.join(L)
 
 
 def followup_plan(ent, grade, p1, tier):
@@ -424,8 +467,14 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         opener = 'Picking up our earlier exchange about PoE / industrial switches.'
     else:
         opener = 'We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.'
+    rs = ent.get('research') or {}
     sb = [b for b in brands if b in SWITCH_BRANDS]
     slot = f'the {sb[0]} class you work with' if sb else 'the usual Taiwan-grade units'
+    ps = [x for x in (rs.get('products_seen') or []) if x.get('model') and x.get('saga') == p1] or [x for x in (rs.get('products_seen') or []) if x.get('model')]
+    if ps:
+        slot = f"your {ps[0].get('brand', '').strip()} {ps[0]['model']}".replace('  ', ' ')
+    if rs.get('email_hook'):
+        opener = opener + ' ' + rs['email_hook'].strip()
     oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'
     short = re.split(r' \(|, ', desc)[0]
     subj = f'{p1} - {short} ({chip}, neutral label)'
@@ -459,6 +508,11 @@ def render_one(ent):
     typ = infer_type(ent)
     tier = infer_tier(ent, typ)
     p1, p1_why = infer_p1(ent)
+    sf = (ent.get('research') or {}).get('saga_fit') or {}
+    if sf.get('p1'):
+        p1, p1_why = sf['p1'], f"深挖对位：{sf.get('why', '')}"
+    if sf.get('tier') in (20, 25, 30):
+        tier = sf['tier']
     brands = brands_seen(ent)
     deal = bool(ent['flags'].get('deal') or ent['deal_in_fu'])
     rel = []

@@ -66,6 +66,7 @@ updated: 2026-10-21
 - **KP**：Hugo Hernàndez（联系人（用户表））info@suministros-industriales.es +34 93 590 94 12〔Clients/S 09.08.xlsx〕
 - **调研后定级**：B（原自动 A）——品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

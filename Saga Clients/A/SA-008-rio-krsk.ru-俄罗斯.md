@@ -21,7 +21,7 @@ replies: 2
 followups: 5
 first_contact: 2024-02-21
 last_contact: 2024-11-18
-p1: STC-424DGGPM-280W
+p1: STI-288DGGPM
 price_tier: 20%
 research: done
 sources: 2
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 5 次（2024-02-21 → 2024-11-18）；最近一次客户回复：2024-05-16：成单电口设备
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,14 +69,48 @@ updated: 2026-10-21
 - **是谁**：俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。
 - **类型**：分销商/经销商（工业自动化）
 - **规模**：未见人数；地区性大型供应商（自述）
+- **在卖/在用品牌**：Delta Electronics, Phoenix Contact
 - **【官网】自述：克拉斯诺亚尔斯克地区 АСУТП 全系设备最大供应商之一**
   > Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП, шкафного оборудования электронных компонентов.
   > 来源：http://www.rio-krsk.ru/（抓取 2026-10-21）
 - **【官网】法人与注册号**
   > Полное наименование: Общество с ограниченной ответственностью «РИО-ИМПОРТ» … ОГРН 1092468006047 · ИНН 2460214069
   > 来源：https://www.rio-krsk.ru/company/requisites/（抓取 2026-10-21）
+- **【官网】官网目录品牌与产品线（Delta、SUPU、Dinkle、Hongfa；PLC/HMI/变频/电源/连接器）**
+  > DELTA ELECTRONICS … SUPU ELECTRONICS … DINKLE ENTERPRISE … HONGFA … Преобразователи сигналов · Источники питания · ПЧ · УПП · Панели оператора · ПЛК · ТК · Сервоситемы
+  > 来源：http://www.rio-krsk.ru/（抓取 2026-10-21）
+- **【官网】官网新闻介绍工业 PoE 交换机（Phoenix Contact 1000 系列）**
+  > Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE новыми управляемыми и неуправляемыми коммутаторами … бюджету мощности PoE в 30 Вт на порт и наличию вариантов со стекловолоконными портами SFP
+  > 来源：http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/（抓取 2026-10-21）
+- **【官网】电话与邮箱公开**
+  > (391) 291-14-24 rio-import2003@mail.ru
+  > 来源：http://www.rio-krsk.ru/contacts/（抓取 2026-10-21）
 - **KP**：—（中央办公室）rio-import2003@mail.ru +7 (391) 291-14-24〔http://www.rio-krsk.ru/contacts/〕
 - 备注：A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ООО «РИО-ИМПОРТ»（RIO Group） |
+| 成立 | 2009（ОГРН 1092468006047） |
+| 总部/地址 | Krasnoyarsk, Russia |
+| 其他 | 自述克拉斯诺亚尔斯克地区最大的 АСУТП/机柜/电子元件供应商之一；官网目录品牌：Delta Electronics、SUPU、Dinkle、Hongfa、UPUN、Optimus Drive、WAIN |
+
+- **业务线**：工业自动化元件分销（PLC、HMI、变频器、软启、伺服、温控、电源）；工业连接器（M8/M12/M17/M23/M40）与端子；信号转换器、继电器；工业 PoE 交换机（官网新闻介绍 Phoenix Contact PoE 1000 系列）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Phoenix Contact（官网新闻介绍） | 工业 PoE 1000 系列（非管理/管理） | 全千兆、宽温、30W/口、SFP 变体；面向视频监控与楼宇/机器自动化 | STI-288DGGPM | http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/（2026-10-21） |
+| Delta Electronics | 工业电源（DIN） | 官网目录 Источники питания | —（配套） | http://www.rio-krsk.ru/（2026-10-21） |
+
+- **触达通道（公开）**：网站: http://www.rio-krsk.ru/；电话: (391) 291-14-24（官网）；直邮: rio-import2003@mail.ru（官网）/ rio-2003@mail.ru / rio-pavel@mail.ru（用户表）；联系人: Igor（成单，用户表）
+- **近况信号**：
+  - 官网目录以 Delta/SUPU/Dinkle 等中国台湾/大陆品牌为主——已习惯采购亚洲品牌（2026-10-21）
+  - 用户表：成单客户
+- **风险/边界**：俄罗斯：结算（T/T 受限）、物流、制裁合规——只做民用工业自动化，不碰军工/铁路；俄语区非主攻，不额外投入
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源
+- **邮件切入句（英文）**：For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -123,18 +157,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商（工业自动化）） |
+| **P1** | STI-288DGGPM | 深挖对位：自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商（工业自动化）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -144,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 2 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区；没有可靠直达通道
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：未见人数；地区性大型供应商（自述）
+- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：未见人数；地区性大型供应商（自述）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -173,14 +206,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Phoenix Contact（官网新闻介绍） 工业 PoE 1000 系列（非管理/管理） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -79,6 +79,7 @@ updated: 2026-10-21
 - **KP**：Thomas West（联系人（用户表））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
 - 备注：A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

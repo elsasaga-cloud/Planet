@@ -82,6 +82,7 @@ updated: 2026-10-21
 - **KP**：Jeffrey Allan Ferrier（Founder/Director（Companies House））sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited〕
 - 备注：A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

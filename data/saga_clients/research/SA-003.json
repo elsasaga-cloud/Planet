@@ -8,7 +8,8 @@
  "brands_seen": [
   "ZKTeco",
   "Eocortex",
-  "Cisco"
+  "Cisco",
+  "TVT"
  ],
  "evidence": [
   {
@@ -24,6 +25,20 @@
    "quote": "Eyescan Securities Systems was founded in 2001 and is a security solutions distributor based in Cyprus. They especialize in designing, selling, installing, integrating, and maintaining security systems",
    "url": "https://zkteco.eu/news-center/news/zkteco-strengthens-its-security-offerings-eyescan-cyprus",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "官方分销 TVT 与 ZKTeco；业务线 CCTV/报警/门禁/对讲/护士呼叫/疏散/楼宇自动化/ARC",
+   "quote": "Official Distributors of [TVT] [ZKTeco] … Proudly Protecting People and Businesses Since 2001 … Certified Integrator of major security vendors Cisco Certified Network Associate.",
+   "url": "https://eyescan.com.cy/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品页列出 11 条产品线（含 CCTV 4K、Access Control、Integrated Solutions）",
+   "quote": "Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products",
+   "url": "https://eyescan.com.cy/products/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -36,5 +51,65 @@
   }
  ],
  "notes": "A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Eyescan Private Security Services Ltd",
+  "founded": "2001（官网「Since 2001」）",
+  "hq": "Limassol, Cyprus",
+  "staff": "11–50（LinkedIn）",
+  "other": "塞浦路斯当局注册的持牌安防公司；团队含 Cisco CCNA；TVT 与 ZKTeco 的官方分销商（官网「Official Distributors of」）"
+ },
+ "business_lines": [
+  "入侵报警",
+  "CCTV（4K IP 系统）",
+  "火灾探测",
+  "门禁（QR/RFID 读头）",
+  "可视对讲",
+  "护士呼叫",
+  "语音疏散/广播",
+  "车联/Telematics",
+  "楼宇自动化",
+  "报警接收中心 ARC + 24/7 AI 视频分析/设备监控/机房环境监控"
+ ],
+ "products_seen": [
+  {
+   "brand": "TVT",
+   "model": "IP CCTV 全线（官方分销）",
+   "spec": "IP 摄像机 + NVR，需 PoE 接入层",
+   "url": "https://eyescan.com.cy/",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "ZKTeco",
+   "model": "门禁/考勤（官方分销）",
+   "spec": "IP 门禁控制器、读头，PoE 供电点位",
+   "url": "https://eyescan.com.cy/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站表单": "https://eyescan.com.cy/（含 PayPal 支付入口）",
+  "LinkedIn": "https://cy.linkedin.com/company/eyescan-security-systems",
+  "直邮": "marinos@eyescan.com.cy（用户表）/ info@eyescan.com.cy"
+ },
+ "signals": [
+  "2026-10：官网主推 QR/RFID 门禁读头、AI 视频分析、24/7 监控中心——持续在做项目型安防集成（https://eyescan.com.cy/ 2026-10-21）",
+  "用户表：已成单；问过 4 光 24 电工业机 + 2 光 24 商业级 PoE 管理型价格，并表示「国家小，买了卖给别人」= 兼做分销"
+ ],
+ "risks": [
+  "塞浦路斯市场小，单次量有限",
+  "分销 TVT/ZKTeco 产品线自带配套交换机，需用价格+管理功能切入"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W"
+ },
+ "email_hook": "For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers."
 }

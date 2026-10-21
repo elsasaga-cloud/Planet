@@ -85,6 +85,7 @@ updated: 2026-10-21
 - **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
 - 备注：3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

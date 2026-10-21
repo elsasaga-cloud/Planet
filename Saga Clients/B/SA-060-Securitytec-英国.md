@@ -80,6 +80,7 @@ updated: 2026-10-21
 - **KP**：Graham Smith（Director）graham@securitytec.co.uk +44 20 8660 5888〔https://www.securitytec.co.uk/contact〕
 - **调研后定级**：B（原自动 A）——3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

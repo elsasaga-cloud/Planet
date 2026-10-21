@@ -85,6 +85,7 @@ updated: 2026-10-21
 - **KP**：Vasilis Stavridis（CEO / Founder）imports@bselectronics.gr +30 697 224 0011（用户记录 WA）〔用户 Clients 表（ISAF 2025）+ 黄页法人信息〕
 - 备注：欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

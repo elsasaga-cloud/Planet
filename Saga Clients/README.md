@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4649 个客户**：A 78 / B 1369 / C 3202
+> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4637 个客户**：A 77 / B 1367 / C 3193
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -18,23 +18,23 @@
 
 | 区域 | A | B | C | 合计 |
 |---|---|---|---|---|
-| 北美 | 18 | 209 | 257 | 484 |
-| 欧洲 | 16 | 478 | 506 | 1000 |
+| 北美 | 17 | 210 | 257 | 484 |
+| 欧洲 | 16 | 476 | 506 | 998 |
 | 土耳其 | 6 | 142 | 63 | 211 |
-| 中东 | 6 | 84 | 235 | 325 |
-| 亚太 | 13 | 238 | 704 | 955 |
-| 俄语区 | 8 | 74 | 420 | 502 |
+| 中东 | 6 | 84 | 234 | 324 |
+| 亚太 | 13 | 238 | 700 | 951 |
+| 俄语区 | 8 | 74 | 418 | 500 |
 | 南亚 | 7 | 63 | 385 | 455 |
-| 拉美 | 3 | 23 | 225 | 251 |
+| 拉美 | 3 | 22 | 224 | 249 |
 | 非洲 | 1 | 53 | 283 | 337 |
-| 乌克兰 | 0 | 1 | 55 | 56 |
+| 乌克兰 | 0 | 1 | 54 | 55 |
 | 中国大陆 | 0 | 1 | 15 | 16 |
 | 未知 | 0 | 3 | 54 | 57 |
-| **合计** | 78 | 1369 | 3202 | 4649 |
+| **合计** | 77 | 1367 | 3193 | 4637 |
 
-状态分布：名单内 2012；已推送 1240；WhatsApp 528；用户判定不行 448；有回复 230；成交过 92；发不过去 84；回复暂无需求 15
+状态分布：名单内 2005；已推送 1239；WhatsApp 528；用户判定不行 445；有回复 230；成交过 92；发不过去 83；回复暂无需求 15
 
-C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548；综合分低 395；品类不符（VC/DWDM/CCTV 等） 343；无联系方式 148；低价值区域冷线索 143；发不过去 117；陈旧线索无互动 116；无邮箱（仅电话） 78；守界：乌克兰 54；体量过大/品牌厂商/运营商 47；用户备注不再跟进/Spam 44；中国大陆（非出口客户） 15；体量过大 5；调研后定级 C 3；疑似同行/休眠公司 1；已停业 1
+C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548；综合分低 394；品类不符（VC/DWDM/CCTV 等） 343；无联系方式 147；低价值区域冷线索 143；发不过去 116；陈旧线索无互动 116；无邮箱（仅电话） 78；守界：乌克兰 53；体量过大/品牌厂商/运营商 47；用户备注不再跟进/Spam 44；中国大陆（非出口客户） 15；体量过大 5；调研后定级 C 3；疑似同行/休眠公司 1；已停业 1
 
 ## 调研覆盖（A 候选逐家网页核实）
 
@@ -57,7 +57,7 @@ C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548�
 
 ## 索引
 
-### A 级（78）— `Saga Clients/A/`
+### A 级（77）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -93,7 +93,7 @@ C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548�
 | SA-044 | gtwave.co.kr | 韩国 | 品牌商（OEM/ODM 需求） | 有回复·跟进中 | 83 | 已 | [SA-044-gtwave.co.kr-韩国.md](A/SA-044-gtwave.co.kr-韩国.md) |
 | SA-045 | snexus.com.tr | 土耳其 | 品牌商/经销（自有品牌白牌采购） | 已推送 2 次·未回复 | 83 | 已 | [SA-045-snexus.com.tr-土耳其.md](A/SA-045-snexus.com.tr-土耳其.md) |
 | SA-046 | westwardsales.com | 美国 | 增值分销商/电商平台（工业） | 有回复·跟进中 | 83 | 已 | [SA-046-westwardsales.com-美国.md](A/SA-046-westwardsales.com-美国.md) |
-| SA-048 | Truong Son Solutions | 越南 | 分销商/电商（工业交换机垂直） | 有回复·跟进中 | 82 | 已 | [SA-048-Truong Son Solutions-越南.md](A/SA-048-Truong%20Son%20Solutions-越南.md) |
+| SA-048 | Truong Son Solutions | 越南 | 分销商/电商（工业交换机垂直） | 有回复·跟进中 | 67 | 已 | [SA-048-Truong Son Solutions-越南.md](A/SA-048-Truong%20Son%20Solutions-越南.md) |
 | SA-049 | sundartechno.com | 印度 | 方案商/自有品牌贴牌（成交客户） | 成交过·维护 | 82 | 已 | [SA-049-sundartechno.com-印度.md](A/SA-049-sundartechno.com-印度.md) |
 | SA-050 | bluewarrior.com | 美国 | 品牌商（白牌贴牌，OEM 目标） | 有回复·跟进中 | 81 | 已 | [SA-050-bluewarrior.com-美国.md](A/SA-050-bluewarrior.com-美国.md) |
 | SA-051 | rfog.pl | 波兰 | 分销商（自有型号贴牌） | 有回复·跟进中 | 81 | 已 | [SA-051-rfog.pl-波兰.md](A/SA-051-rfog.pl-波兰.md) |
@@ -133,18 +133,17 @@ C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548�
 | SA-120 | Latmedia Group, LLC | 乌兹别克斯坦 | IT 集成/贸易商 | 名单内·未触达 | 63 | 已 | [SA-120-Latmedia Group, LLC-乌兹别克斯坦.md](A/SA-120-Latmedia%20Group,%20LLC-乌兹别克斯坦.md) |
 | SA-124 | Pt.ras otomasi indonesia | 印度尼西亚 | 工业自动化/MEP 系统集成商 | 有回复·跟进中 | 63 | 已 | [SA-124-Pt.ras otomasi indonesia-印度尼西亚.md](A/SA-124-Pt.ras%20otomasi%20indonesia-印度尼西亚.md) |
 | SA-134 | bptehno.ru | 俄罗斯 | 分销商（光纤传输/视频光端机） | 有回复·跟进中 | 62 | 已 | [SA-134-bptehno.ru-俄罗斯.md](A/SA-134-bptehno.ru-俄罗斯.md) |
-| SA-135 | megatelindustries.com | 美国 | 品牌商/网店（OEM 采购） | 已推送 22 次·未回复 | 62 | 已 | [SA-135-megatelindustries.com-美国.md](A/SA-135-megatelindustries.com-美国.md) |
 | SA-147 | surlink-tech.com | 玻利维亚 | 批发分销商（布线/光纤/网络） | 有回复·跟进中 | 61 | 已 | [SA-147-surlink-tech.com-玻利维亚.md](A/SA-147-surlink-tech.com-玻利维亚.md) |
 | SA-150 | vicomsecurity.com | 印度 | 安防系统集成商 + 自有品牌 | 有回复·跟进中 | 61 | 已 | [SA-150-vicomsecurity.com-印度.md](A/SA-150-vicomsecurity.com-印度.md) |
 | SA-153 | Elite Team Security Ltd | 保加利亚 | 安保服务商 + 视频监控集成（终端用户/集成商） | 回复暂无需求 | 60 | 已 | [SA-153-Elite Team Security Ltd-保加利亚.md](A/SA-153-Elite%20Team%20Security%20Ltd-保加利亚.md) |
 | SA-154 | Falke security | 德国 | 安防经销/项目商 | 已推送 7 次·未回复 | 60 | 已 | [SA-154-Falke security-德国.md](A/SA-154-Falke%20security-德国.md) |
 | SA-159 | Telemobil | 土耳其 | IT/网络系统集成商 | WhatsApp 已加·未回复 | 60 | 已 | [SA-159-Telemobil-土耳其.md](A/SA-159-Telemobil-土耳其.md) |
 
-### B 级（1369）— `Saga Clients/B/`
+### B 级（1367）— `Saga Clients/B/`
 
-全部 1369 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1367 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
-### C 级（3202）— `Saga Clients/C/`
+### C 级（3193）— `Saga Clients/C/`
 
-全部 3202 个档案见 `Saga Clients/C/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 3193 个档案见 `Saga Clients/C/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 

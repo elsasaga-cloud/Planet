@@ -1,19 +1,19 @@
 # phukiendientu.vn
 
-> **评级 C**　|　越南　|　档案编号 `SC-1381`　|　优先级 —　|　状态：名单内·未触达
+> **评级 C**　|　越南　|　档案编号 `SC-1381`　|　优先级 —　|　状态：用户判定不行
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1381
 rating: C
 rating_auto: C
-score: 7
+score: -53
 country: 越南
 region: 亚太
 website: phukiendientu.vn
 type: 经销/集成（类型待核）
-tier_tags: ["群发(VN/VN)"]
+tier_tags: ["群发(VN/VN)", "用户判定不行"]
 deal: no
 replies: 0
 followups: 0
@@ -22,14 +22,14 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-sources: 1
+sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南的经销/集成（类型待核）；兴趣/在卖：switch
-- **为什么是 C 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；C 级细分：群发冷名单无回应
+- **为什么是 C 级**：-6 群发批次名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；C 级细分：用户判定不行/不相关
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
@@ -41,13 +41,13 @@ updated: 2026-10-21
 |---|---|---|
 | 名称 | phukiendientu.vn（取自域名，公司全名待核） | 推断 |
 | 国家 | 越南 | 事实（用户表）|
-| 网站/域名 | phukiendientu.vn | 事实（用户表 URL/邮箱域名） |
+| 网站/域名 | phukiendientu.vn / phukiendientu.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | switch | 事实（用户表） |
 | 用户备注（Remark） | — | 事实（用户表） |
-| 所在清单 | 群发(VN/VN) | 事实（文件路径） |
+| 所在清单 | 群发(VN/VN)、用户判定不行 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -66,6 +66,7 @@ updated: 2026-10-21
 
 - 邮箱：`phukiendientu.vn@gmail.com`〔免费邮箱；来源：用户表原值〕
 - 网站/域名：phukiendientu.vn
+- 网站/域名：phukiendientu.com
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
 ## 关键人（KP）与触达通道
@@ -78,16 +79,18 @@ updated: 2026-10-21
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`m:SC-1381+SC-2651`。
+曾用编号：SC-2651
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | E/群发/VN 09.09 09.10/VN.xlsx#总表:56 | 58 | https://phukiendientu.vn/switch-poe-24-port-kmetech-pse2416-bo-chia-poe-24-cong | 越南 |  | 谷歌 | switch | phukiendientu.vn@gmail.com |  | — |
+| 不行及不太相关的.xlsx#总表:262 | 290 | https://phukiendientu.com/products/switch-8-port-poe-10-100-1000mbps-kmetech-pse818-cong-suat-150w | 越南 |  | 谷歌 | switch |  |  | — |
 
 ## 跟进建议
 
 > C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
-> 不跟进理由：群发冷名单无回应。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-1381,B,理由` 后重跑即可。
+> 不跟进理由：用户判定不行/不相关。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-1381,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -132,7 +135,7 @@ updated: 2026-10-21
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 7）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -53）
 
 ---
 

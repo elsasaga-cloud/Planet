@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
 - 备注：A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

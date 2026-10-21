@@ -76,6 +76,7 @@ updated: 2026-10-21
 - **KP**：Alexander Rudnev（Director（用户表））air@td-fe.ru +7 812 953 13 59（官网总机）〔Clients/A/DONE/优质俄罗斯客户 2.9.xlsx〕
 - 备注：A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

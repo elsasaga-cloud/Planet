@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：—（总机）info@success-network.co.th +66 2 973 1966 / +66 81 659 4477（LINE @success_network）〔https://www.success-network.co.th/contact-us/〕
 - 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

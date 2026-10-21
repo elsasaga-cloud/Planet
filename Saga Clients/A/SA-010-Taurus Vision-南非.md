@@ -78,6 +78,7 @@ updated: 2026-10-21
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 口径）） +27 86 188 2266（总机）〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - 备注：A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

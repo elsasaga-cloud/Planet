@@ -67,6 +67,7 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 A）——无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。
 - 备注：下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

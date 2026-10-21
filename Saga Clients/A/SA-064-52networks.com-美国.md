@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。（调研 2026-10-21；表内兴趣：MC SFP 无源产品）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -76,9 +76,39 @@ updated: 2026-10-21
 - **【第三方（GSA eLibrary）】GSA 合同与联系人邮箱**
   > 52 NETWORKS, INC. … Email: uzair@52networks.com … Socio-Economic : Small Business SBA Certified Small Disadvantaged Business Current Option Period End Date : Jul 25, 2027
   > 来源：https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES（抓取 2026-10-21）
+- **【官网】网店类目：MC 27 款、网络硬件 20 款、光纤跳线 35 款、批量网线 91 款；2026-09-11 更新**
+  > Bulk Ethernet Cables 91 products … Fiber Optics Patch Cords 35 products … Network Hardware 20 products … Media Converters 27 products … admin_52 2026-09-11
+  > 来源：https://52networks.com/（抓取 2026-10-21）
 - **KP**：Uzair（GSA 登记联系人）（负责人）uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
 - **KP**：—（销售邮箱（用户表））sales@52networks.com +1 757-799-1359〔https://52networks.com/contact-us/〕
 - 备注：A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 52 Networks, Inc. |
+| 成立 | 2018 |
+| 总部/地址 | Woodbridge, Virginia, USA |
+| 人数 | 1–10 |
+| 营收 | <$1M（govtribe） |
+| 注册/税号 | GSA 合同 47QTCA22D00B3；SBA 小型弱势企业 |
+| 其他 | 网店 52networks.com：主营批量网线（Cat6/6A Plenum 1,000 ft 箱装 $199.99/$289.99），类目含 MC 27 款、网络硬件 20 款、光纤跳线 35 款 |
+
+- **业务线**：批量以太网线缆（91 款）；光纤跳线（35）；网络配件/线管/J-hook；媒体转换器（27 款）；网络硬件（20 款）；Speaker/Security 线缆；政府小额采购（GSA）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| 52Networks 店内（C2G/Tripp Lite/Transition/Perle/StarTech 代理） | Media Converters 类目 27 款 | 网店独立类目；用户表兴趣 MC/SFP/无源 | STI-110GE | https://52networks.com/product-category/media-converters（2026-10-21） |
+| 52Networks 店内 | Network Hardware 类目 20 款 | 交换机/配件类目（型号待抓） | STC-28DGGPM | https://52networks.com/product-category/network-hardware（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://52networks.com/（2026-09-11 更新）；直邮: sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）
+- **近况信号**：
+  - 2026-09-11 首页更新，Cat6A Plenum 促销——活跃电商（https://52networks.com/ 2026-10-21）
+  - 用户表：已成单（A 优质名单 US）
+- **风险/边界**：政府/GSA 渠道要求 TAA——Saga 产品非 TAA，只能供其商业客户与网店；小公司，单次量小；MC 单价低
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报
+- **邮件切入句（英文）**：For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -127,7 +157,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销商（政府/商业小单，已成交）） |
+| **P1** | STI-110GE | 深挖对位：已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报 | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销商（政府/商业小单，已成交）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -181,9 +211,9 @@ updated: 2026-10-21
 ```text
 Hi Uzair,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your 52Networks 店内（C2G/Tripp Lite/Transition/Perle/StarTech 代理） Media Converters 类目 27 款 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

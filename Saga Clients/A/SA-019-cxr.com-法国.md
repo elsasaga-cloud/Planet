@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
 - 备注：A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

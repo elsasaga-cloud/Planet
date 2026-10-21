@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：—（销售（官网公开））Sale@entasource.co.th +66 87 412 2552（LINE: lin.ee/mNnxD59）〔https://www.entasource.co.th/17906637/network-service〕
 - 备注：A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

@@ -26,6 +26,13 @@
    "quote": "52 NETWORKS, INC. … Email: uzair@52networks.com … Socio-Economic : Small Business SBA Certified Small Disadvantaged Business Current Option Period End Date : Jul 25, 2027",
    "url": "https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "网店类目：MC 27 款、网络硬件 20 款、光纤跳线 35 款、批量网线 91 款；2026-09-11 更新",
+   "quote": "Bulk Ethernet Cables 91 products … Fiber Optics Patch Cords 35 products … Network Hardware 20 products … Media Converters 27 products … admin_52 2026-09-11",
+   "url": "https://52networks.com/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -45,5 +52,63 @@
   }
  ],
  "notes": "A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "52 Networks, Inc.",
+  "founded": "2018",
+  "hq": "Woodbridge, Virginia, USA",
+  "staff": "1–10",
+  "revenue": "<$1M（govtribe）",
+  "registry": "GSA 合同 47QTCA22D00B3；SBA 小型弱势企业",
+  "other": "网店 52networks.com：主营批量网线（Cat6/6A Plenum 1,000 ft 箱装 $199.99/$289.99），类目含 MC 27 款、网络硬件 20 款、光纤跳线 35 款"
+ },
+ "business_lines": [
+  "批量以太网线缆（91 款）",
+  "光纤跳线（35）",
+  "网络配件/线管/J-hook",
+  "媒体转换器（27 款）",
+  "网络硬件（20 款）",
+  "Speaker/Security 线缆",
+  "政府小额采购（GSA）"
+ ],
+ "products_seen": [
+  {
+   "brand": "52Networks 店内（C2G/Tripp Lite/Transition/Perle/StarTech 代理）",
+   "model": "Media Converters 类目 27 款",
+   "spec": "网店独立类目；用户表兴趣 MC/SFP/无源",
+   "url": "https://52networks.com/product-category/media-converters",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  },
+  {
+   "brand": "52Networks 店内",
+   "model": "Network Hardware 类目 20 款",
+   "spec": "交换机/配件类目（型号待抓）",
+   "url": "https://52networks.com/product-category/network-hardware",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://52networks.com/（2026-09-11 更新）",
+  "直邮": "sales@52networks.com（用户表）/ uzair@52networks.com（GSA 登记）"
+ },
+ "signals": [
+  "2026-09-11 首页更新，Cat6A Plenum 促销——活跃电商（https://52networks.com/ 2026-10-21）",
+  "用户表：已成单（A 优质名单 US）"
+ ],
+ "risks": [
+  "政府/GSA 渠道要求 TAA——Saga 产品非 TAA，只能供其商业客户与网店",
+  "小公司，单次量小；MC 单价低"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报"
+ },
+ "email_hook": "For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on."
 }

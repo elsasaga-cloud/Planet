@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：Moonsoo Park（对外联系人（EC21 供应商页））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
 - 备注：A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

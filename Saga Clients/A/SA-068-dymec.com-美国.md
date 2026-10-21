@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：Thom Sherer（联系人（用户表邮箱））thom.sherer@dymec.com +1 713-826-0739〔https://www.dymec.com/〕
 - 备注：A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

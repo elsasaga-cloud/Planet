@@ -68,6 +68,7 @@ updated: 2026-10-21
   > 来源：https://www.linkedin.com/company/alfanetwork（抓取 2026-10-21）
 - 备注：A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

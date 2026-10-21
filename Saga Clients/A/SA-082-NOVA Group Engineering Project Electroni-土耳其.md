@@ -92,6 +92,7 @@ updated: 2026-10-21
 - **KP**：Ali Pekyürek（CEO（用户记录））ali@nova-grup.com +90 533 715 9226（用户记录）〔用户 Clients 表（ISAF 2025 现场）〕
 - 备注：土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：—（官网公开电话（WhatsApp 已加）） +91 96561 23414〔https://www.dncsolutions.co.in/〕
 - 备注：A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

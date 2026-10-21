@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：Stephen Lebowitz（President（ZoomInfo 口径））sales@optiviewusa.com（Crunchbase 公开） +1 904-805-1581〔https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f〕
 - 备注：A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

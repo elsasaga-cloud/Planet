@@ -21,7 +21,7 @@ replies: 3
 followups: 7
 first_contact: 2024-03-11
 last_contact: 2024-12-11
-p1: STC-424DGGPM-280W
+p1: STC-448XGGM(L3)
 price_tier: 25%
 research: done
 sources: 2
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。（调研 2026-10-21；表内兴趣：光（多是周边的 如MPO等） 也能用到交换机）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 3 次；推送 7 次（2024-03-11 → 2024-12-11）；最近一次客户回复：2024-10-24：useful
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-448XGGM(L3) — 深挖对位：DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -77,6 +77,31 @@ updated: 2026-10-21
   > 来源：https://sg.linkedin.com/company/resonant-networks-pte-ltd（抓取 2026-10-21）
 - **KP**：—（销售邮箱（Crunchbase 公开））sales@resonantnetworks.com +65 6871 4128〔https://www.crunchbase.com/organization/resonant-networks〕
 - 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 用户表））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Resonant Networks Pte. Ltd. |
+| 成立 | 2013 起运营；现公司 2020 注册 |
+| 总部/地址 | Singapore |
+| 人数 | 11–50（LinkedIn） |
+| 营收 | 约 $3M（RocketReach 口径） |
+| 其他 | 2025 年主营业务代码改为「供应数据中心网络系统与专业服务」 |
+
+- **业务线**：数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）；数据中心网络系统供应与专业服务；光纤周边（MPO 等，用户表已成单）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （项目采购） | MPO/光纤周边；数据中心机柜侧交换机 | 用户表：买过光纤周边，也能用到交换机 | STC-448XGGM(L3) | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：直邮: trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com；LinkedIn: https://sg.linkedin.com/company/resonant-networks-pte-ltd；网站: https://resonantnetworks.com/
+- **近况信号**：
+  - 2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）
+  - 用户表：成单（Trevor Loi，solution provider）
+- **风险/边界**：数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位；新加坡人工贵、单量小
+- **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货
+- **邮件切入句（英文）**：For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -127,7 +152,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商（数据中心·光网络）） |
+| **P1** | STC-448XGGM(L3) | 深挖对位：DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货 | $485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商（数据中心·光网络）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -136,9 +161,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448XGGM(L3)），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-448XGGM(L3)）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -148,7 +173,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 3 次实质回复（对方认识我们）
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：11–50 人；约 $3M 营收（LinkedIn / RocketReach）
+- **O**：P1 STC-448XGGM(L3) 按 25% 档报价，做现供应商的第二货源；规模（调研）：11–50 人；约 $3M 营收（LinkedIn / RocketReach）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -176,14 +201,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
 
 ```text
 Hi Trevor,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as your （项目采购） MPO/光纤周边；数据中心机柜侧交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

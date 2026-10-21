@@ -2,36 +2,36 @@
 
 > **评级 C**　|　伊朗　|　档案编号 `SC-1940`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成/工程商（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(杂)、群发(筛选后质量一般的_群发)、表:其他亚洲　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1940
 rating: C
 rating_auto: C
-score: -8
+score: -23
 country: 伊朗
 region: 中东
 website: namagostarco.ir
 type: 系统集成/工程商
-tier_tags: ["群发(杂)"]
+tier_tags: ["群发(杂)", "群发(筛选后质量一般的_群发)", "表:其他亚洲"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: none
 price_tier: 25%
 research: pending
-sources: 1
+sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：伊朗的系统集成/工程商；兴趣/在卖：project
-- **为什么是 C 级**：-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/伊朗；-10 来源为 2010–2015 年展会且无后续记录；C 级细分：群发冷名单无回应
+- **是谁**：伊朗的系统集成/工程商；兴趣/在卖：project；VC
+- **为什么是 C 级**：-6 群发批次名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/伊朗；-10 来源为 2010–2015 年展会且无后续记录；C 级细分：品类不符（VC/DWDM/CCTV 等）
 - **历史互动**：WhatsApp 已加
-- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（VC/光端机：Saga 不做（可只推交换机））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
 
@@ -40,14 +40,15 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | NamaGostar Electronic Hoshamand Co., Ltd | 事实（用户表） |
+| 其他名称写法 | NamaGostar Electronic Hoshmand Co. | 事实（用户表） |
 | 国家 | 伊朗 | 事实（用户表）|
 | 网站/域名 | namagostarco.ir | 事实（用户表 URL/邮箱域名） |
 | 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
-| 联系人 | H. Dashan / direct manager | 事实（用户表） |
-| 来源（From） | Intersec 2012 | 事实（用户表） |
-| 兴趣（Interested in） | project | 事实（用户表） |
+| 联系人 | H. Dashan / direct manager / M.Alipour | 事实（用户表） |
+| 来源（From） | Intersec 2012 / sales | 事实（用户表） |
+| 兴趣（Interested in） | project / VC | 事实（用户表） |
 | 用户备注（Remark） | 9891411 56089 已加<br>T 98411 5537606 | 事实（用户表） |
-| 所在清单 | 群发(杂) | 事实（文件路径） |
+| 所在清单 | 群发(杂)、群发(筛选后质量一般的_群发)、表:其他亚洲 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -65,9 +66,11 @@ updated: 2026-10-21
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`h.jahan.d@gmail.com`〔免费邮箱；来源：用户表原值〕
+- 邮箱：`mohammad.alipour57@gmail.com`〔免费邮箱；来源：用户表原值〕
 - 电话：`+989141156089`〔WhatsApp 已加；原值见来源表〕
 - 电话：`+984115537606`〔WhatsApp 已加；原值见来源表〕
 - 联系人（原值）：H. Dashan / direct manager
+- 联系人（原值）：M.Alipour
 - 网站/域名：namagostarco.ir
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
@@ -75,22 +78,25 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| H. Dashan | — | h.jahan.d@gmail.com / +989141156089 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| H. Dashan | — | h.jahan.d@gmail.com / mohammad.alipour57@gmail.com / +989141156089 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| M.Alipour | — | h.jahan.d@gmail.com / mohammad.alipour57@gmail.com / +989141156089 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`m:SC-1940+SC-2179`。
+曾用编号：SC-2179
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | E/群发/杂  08.13.xlsx#总表:148 |  | www.namagostarco.ir<br>NamaGostar Electronic Hoshamand Co., Ltd | 伊朗 | H. Dashan<br>direct manager | Intersec 2012 | project | h.jahan.d@gmail.com | 9891411 56089 已加<br>T 98411 5537606 | — |
+| E/群发/筛选后质量一般的_群发.xlsx#其他亚洲:5 | 4 | NamaGostar Electronic Hoshmand Co. | 伊朗 | M.Alipour | sales | VC | mohammad.alipour57@gmail.com |  | — |
 
 ## 跟进建议
 
 > C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
-> 不跟进理由：群发冷名单无回应。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-1940,B,理由` 后重跑即可。
+> 不跟进理由：品类不符（VC/DWDM/CCTV 等）。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-1940,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -134,7 +140,7 @@ updated: 2026-10-21
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -8）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -23）
 
 ---
 

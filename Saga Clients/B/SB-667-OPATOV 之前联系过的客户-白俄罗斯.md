@@ -2,18 +2,18 @@
 
 > **评级 B**　|　白俄罗斯　|　档案编号 `SB-667`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-667
 rating: B
 rating_auto: B
-score: 34
+score: 42
 country: 白俄罗斯
 region: 俄语区
-website: opatov.ru
+website: opl-sfp.by
 type: 经销/集成（类型待核）
-tier_tags: ["询盘流水"]
+tier_tags: ["同行经销商(Dpek)", "询盘流水"]
 deal: no
 replies: 0
 followups: 0
@@ -22,14 +22,14 @@ last_contact: unknown
 p1: none
 price_tier: 20%
 research: pending
-sources: 1
+sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：白俄罗斯的经销/集成（类型待核）
-- **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/白俄罗斯；+5 最近活动 2026
+- **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/白俄罗斯；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
@@ -42,13 +42,13 @@ updated: 2026-10-21
 |---|---|---|
 | 名称 | OPATOV 之前联系过的客户 | 事实（用户表） |
 | 国家 | 白俄罗斯 | 事实（用户表）|
-| 网站/域名 | opatov.ru | 事实（用户表 URL/邮箱域名） |
+| 网站/域名 | opl-sfp.by / opatov.by / opatov.ru | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Igor Dashchinski, Director | 事实（用户表） |
-| 来源（From） | 2026.7.20 | 事实（用户表） |
+| 来源（From） | 谷歌 / 2026.7.20 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
 | 用户备注（Remark） | Bypass模块 / from: 阿里巴巴询盘 | 事实（用户表） |
-| 所在清单 | 询盘流水 | 事实（文件路径） |
+| 所在清单 | 同行经销商(Dpek)、询盘流水 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -65,8 +65,11 @@ updated: 2026-10-21
 
 ## 联系方式（已有 · 原值照录）
 
+- 邮箱：`info@opatov.by`〔企业邮箱；来源：用户表原值〕
 - 邮箱：`dia@opatov.ru`〔企业邮箱；来源：用户表原值〕
 - 联系人（原值）：Igor Dashchinski, Director
+- 网站/域名：opl-sfp.by
+- 网站/域名：opatov.by
 - 网站/域名：opatov.ru
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
@@ -74,16 +77,18 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Igor Dashchinski, Director | — | dia@opatov.ru | 用户表原值 | Clients/ 表 |
+| Igor Dashchinski, Director | — | info@opatov.by / dia@opatov.ru | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`m:SB-667+SC-085`。
+曾用编号：SC-085
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
+| A/同行/Dpek.xlsx#总表:7 | 6 | https://opl-sfp.by/catalog/switches/industrial/ | 白俄罗斯 |  | 谷歌 |  | info@opatov.by |  | — |
 | 询盘统计表.xlsx#Sheet1:325 |  | OPATOV 之前联系过的客户 | 白俄罗斯 | Igor Dashchinski, Director | 2026.7.20 |  | dia@opatov.ru 2007年使用国际站 | Bypass模块 from: 阿里巴巴询盘 | — |
 
 ## 产品决策（Saga · 单一决策口径）
@@ -157,7 +162,7 @@ updated: 2026-10-21
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 42）
 
 ---
 

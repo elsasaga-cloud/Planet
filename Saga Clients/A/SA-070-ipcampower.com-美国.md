@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：Sean Nelson（Owner）sales@ipcampower.com 〔https://ipcampower.com/pages/about-us〕
 - 备注：A 确认（美国自有品牌 PoE + 老板直联 + 现供应商 ONV）：对位 IPCP-8G4G-AT1 ≈ STC-28DGGPM/非网管 8 PoE 款（需向 SmartByte 确认 extend-mode 非网管型号），30% OEM 档；强调 Marvell 方案与 FCC。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

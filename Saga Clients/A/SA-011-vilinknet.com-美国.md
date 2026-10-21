@@ -21,7 +21,7 @@ replies: 1
 followups: 19
 first_contact: 2023-12-09
 last_contact: 2025-12-08
-p1: STI-110GE
+p1: STI-288DGGPM
 price_tier: 30%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-21；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）；最近一次客户回复：2024-11-13：下单了
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,8 +66,41 @@ updated: 2026-10-21
 - **【第三方（Crunchbase）】成立 1993，Irvine CA，1–10 人，sales@vi-link.net**
   > Vilink Communications is a manufacturer of fiber optic digital transmission products. Founded Jan 1, 1993 · Irvine, California · 1-10 · sales@vi-link.net
   > 来源：https://www.crunchbase.com/organization/vilink-communications（抓取 2026-10-21）
+- **【官网】vilinknet.com 已跳转到 vilink.us，产品类目含工业以太网交换机、MC、SFP、AOC/DAC**
+  > AI Video · Broadcast Video Fiber Extension · Air Fiber · … · Media Converter · Industrial Ethernet Network Switches · Optical Transponder · ITS Data Transceiver · Telephone Extension · SFP module · AOC/DOC
+  > 来源：https://vilink.us/（抓取 2026-10-21）
+- **【官网】工业非管理交换机系列型号 IE5…IE216、IEN10…IEN84，定位智能交通控制**
+  > Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84
+  > 来源：https://vilink.us/industrial-ethernet-switch/（抓取 2026-10-21）
 - **KP**：Robin Sun（联系人（ProcessRegister 名录口径））sales@vilinknet.com（产品 PDF 页脚公开） +1 714-312-0654〔https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf〕
 - 备注：A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Vilink Communications, Inc.（品牌 Vi-Link） |
+| 成立 | 1993（Crunchbase/ZoomInfo 口径） |
+| 总部/地址 | Irvine/Brea, California, USA |
+| 人数 | 1–10 / 11–50（口径不一） |
+| 营收 | 约 $11–12M（ZoomInfo 口径，待核） |
+| 其他 | 2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此 |
+
+- **业务线**：AI 视频；广播级视频光纤延长；Air Fiber；Mini/Compact/Daisy-chain 视频光端机；HD 模拟视频（TVI/CVI/AHD）；音频光纤延长；媒体转换器；工业以太网交换机（非管理，ITS 交通控制）；光转发器；ITS 数据收发器；电话延长；SFP 模块；AOC/DAC 有源光缆
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Vi-Link | IE5 / IE8 / IE10 / IE12 / IE14 / IE18 / IE24 / IE28 / IE216 | 工业非管理以太网交换机系列（5–16 口，部分带 SFP），面向智能交通控制 ITCS | STI-144GP | https://vilink.us/industrial-ethernet-switch/（2026-10-21） |
+| Vi-Link | IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84 | 工业以太网交换机（IEN 系列，口数/光口组合不同） | STI-288DGGPM | https://vilink.us/industrial-ethernet-switch/（2026-10-21） |
+| Vi-Link | Media Converter 类目 + SFP 模块类目 | MC 与 SFP 为独立类目，与其光端机配套销售 | STI-110GE | https://vilink.us/media-converter/（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://vilink.us/（直销 + 购物车）；直邮: sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）
+- **近况信号**：
+  - 2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）
+  - 用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC
+- **风险/边界**：ITS/交通控制项目在美国常要求 NEMA TS2 与 Buy America/TAA——Saga 不做 UL/NEMA 认证，只能供非政府/商业项目；其交换机为自有品牌贴牌 → 30% OEM 档，且要求中性包装
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价
+- **邮件切入句（英文）**：Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -129,18 +162,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌） |
+| **P1** | STI-288DGGPM | 深挖对位：自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -150,7 +182,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -178,14 +210,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Robin,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Vi-Link IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

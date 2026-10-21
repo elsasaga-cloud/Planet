@@ -89,6 +89,7 @@ updated: 2026-10-21
 - **KP**：—（总机）info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
 - 备注：A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

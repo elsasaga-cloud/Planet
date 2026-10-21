@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。（调研 2026-10-21；表内兴趣：SFP MC 商业FS  也有ONV的工业FS）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 2 次（2025-09-29 → 2025-10-28）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -83,8 +83,43 @@ updated: 2026-10-21
 - **【官网】地址/联系方式**
   > Koptek Bilgisayar ve İletişim Sistemleri LTD.ŞTİ. … Fuat Sarp Sokak.No:5/1 Balmumcu-İSTANBUL · +90 212-2757953 · info@coptek.com.tr
   > 来源：https://www.coptek.com.tr/CS6570.html（抓取 2026-10-21）
+- **【官网】DCN 导轨工业 PoE 机型 IS2100D-2GFP8GT-P 规格**
+  > IS2100D(R2) serisi switchler DCNin yeni nesil Ray-Montaj Endüstriyel switchlerdir … 8*10/100/1000M UTP MDI/MDI-X POE + 2*SFP port … 802.3af 15W/802.3at 30W 240W Güç Bütçesi … -40°C - 85°C … 50 ~ 57 VDC
+  > 来源：https://www.coptek.com.tr/IS2100(R2).html（抓取 2026-10-21）
+- **【官网】DCN PoE 组合 8–48 口、125–740W、L2 到 L3、标准到工业**
+  > DCN POE Switch portföyümüz, 8 porttan 48 porta, 125W-740W güç bütçesi, Layer 2'den Layer 3'e, standarttan endüstriyele çok geniş bir yelpazeye sahiptir.
+  > 来源：http://www.coptek.com.tr/urunler.html（抓取 2026-10-21）
+- **【官网】S4600-10P-P-SI：8 口 PoE + 2 SFP，G.8032 环网**
+  > S4600-10P-P-SI Bakır Portlar · 10 adet 10/100/1000Base-T POE/POE+ … SFP/Mini GBIC Yuva · 2*SFP … ITU G.8032 Ring özelliği 50ms altında hat koruması
+  > 来源：http://www.coptek.com.tr/S4600-10P-P-SI.html（抓取 2026-10-21）
 - **KP**：—（总机）info@coptek.com.tr +90 212 275 79 53〔https://www.coptek.com.tr/CS6570.html〕
 - 备注：A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti. |
+| 成立 | 2006（注册）；2010 年起 DCN 土耳其分销 |
+| 总部/地址 | İstanbul, Türkiye |
+| 其他 | 官网自述 2020 年起在土运行 DCN 设备 10,000+ 台；DCN 全线：核心/数据中心/L2/L3/PoE/工业导轨 |
+
+- **业务线**：DCN 交换机分销（核心、数据中心、L2/L3、PoE 8–48 口 125–740W、工业 IS2100D 导轨系列）；无线控制器/AP、防火墙（DCN）；自建站询盘：工业光纤交换机 IM-FS280GW ×100（2026）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| DCN | IS2100D-2GFP8GT-P(R2) | 导轨工业 8×GE PoE + 2 SFP，240W，-40~85℃，IP40，DCNOS，50–57VDC | STI-288DGGPM | https://www.coptek.com.tr/IS2100(R2).html（2026-10-21） |
+| DCN | S4600-10P-P-SI | L2 接入 8×GE PoE/PoE+ + 2 SFP，20Gbps，G.8032/MRPP 环网，4K 防雷 | STC-28DGGPM | http://www.coptek.com.tr/S4600-10P-P-SI.html（2026-10-21） |
+| DCN | CS6200-28X-P-EI / CS6200-52X-P-EI | 24/48 口 PoE（af/at/bt）+ 10G 上联，L3，740W 预算（52 口） | STC-424XGGPM-280W | http://www.coptek.com.tr/CS6200-28X-P-EI.html（2026-10-21） |
+| ONV | 工业光纤交换机（用户表：也卖 ONV 工业 FS） | — | STI-288DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: http://www.coptek.com.tr/（产品页按型号独立 URL）；直邮: info@coptek.com.tr（用户表 + 官网）；联系人: Akgin Inceoglu（用户表）
+- **近况信号**：
+  - 2026：自建站询盘 IM-FS280GW 100 台（工业光纤交换机）——有明确项目量（用户表）
+  - 官网 DCN 产品页仍在更新（IS2100D R2 新一代导轨机型）
+- **风险/边界**：DCN 为中国品牌且已有完整 PoE/工业线 → Saga 只能以「非 DCN 项目 / 价格更低的替代」切入，避免正面替换其主代理线；土耳其进口税与 TL 汇率波动，报价需 USD EXW 并留有效期
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W
+- **邮件切入句（英文）**：For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +170,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商（网络设备，DCN 土耳其分销）） |
+| **P1** | STI-288DGGPM | 深挖对位：询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商（网络设备，DCN 土耳其分销）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -188,9 +223,9 @@ updated: 2026-10-21
 ```text
 Hi Akgin,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DCN IS2100D-2GFP8GT-P(R2) at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

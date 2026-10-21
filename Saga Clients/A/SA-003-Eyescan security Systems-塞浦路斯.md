@@ -22,7 +22,7 @@ followups: 6
 first_contact: 2025-03-18
 last_contact: 2025-10-08
 p1: STC-424DGGPM-280W
-price_tier: 20%
+price_tier: 25%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。（调研 2026-10-21；表内兴趣：工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM但会考虑）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,15 +69,46 @@ updated: 2026-10-21
 - **是谁**：塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。
 - **类型**：安防集成/经销（兼分销）
 - **规模**：11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）
-- **在卖/在用品牌**：ZKTeco, Eocortex, Cisco
+- **在卖/在用品牌**：ZKTeco, Eocortex, Cisco, TVT
 - **【第三方（LinkedIn）】规模与业务：11–50 人，专长含 IP CCTV、门禁、Distribution**
   > Industry: Security and Investigations · Company size: 11-50 employees · Headquarters: Limassol · Founded: 2001 · Specialties: Integrated Security Systems, Access Control Systems, IP CCTV, … and Distribution
   > 来源：https://cy.linkedin.com/company/eyescan-security-systems（抓取 2026-10-21）
 - **【第三方（ZKTeco）】被 ZKTeco 描述为塞浦路斯安防方案分销商**
   > Eyescan Securities Systems was founded in 2001 and is a security solutions distributor based in Cyprus. They especialize in designing, selling, installing, integrating, and maintaining security systems
   > 来源：https://zkteco.eu/news-center/news/zkteco-strengthens-its-security-offerings-eyescan-cyprus（抓取 2026-10-21）
+- **【官网】官方分销 TVT 与 ZKTeco；业务线 CCTV/报警/门禁/对讲/护士呼叫/疏散/楼宇自动化/ARC**
+  > Official Distributors of [TVT] [ZKTeco] … Proudly Protecting People and Businesses Since 2001 … Certified Integrator of major security vendors Cisco Certified Network Associate.
+  > 来源：https://eyescan.com.cy/（抓取 2026-10-21）
+- **【官网】产品页列出 11 条产品线（含 CCTV 4K、Access Control、Integrated Solutions）**
+  > Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products
+  > 来源：https://eyescan.com.cy/products/（抓取 2026-10-21）
 - **KP**：—（总机）info@eyescan.com.cy +357 25 333 300〔https://eyescan.com.cy/〕
 - 备注：A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Eyescan Private Security Services Ltd |
+| 成立 | 2001（官网「Since 2001」） |
+| 总部/地址 | Limassol, Cyprus |
+| 人数 | 11–50（LinkedIn） |
+| 其他 | 塞浦路斯当局注册的持牌安防公司；团队含 Cisco CCNA；TVT 与 ZKTeco 的官方分销商（官网「Official Distributors of」） |
+
+- **业务线**：入侵报警；CCTV（4K IP 系统）；火灾探测；门禁（QR/RFID 读头）；可视对讲；护士呼叫；语音疏散/广播；车联/Telematics；楼宇自动化；报警接收中心 ARC + 24/7 AI 视频分析/设备监控/机房环境监控
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| TVT | IP CCTV 全线（官方分销） | IP 摄像机 + NVR，需 PoE 接入层 | STC-424DGGPM-280W | https://eyescan.com.cy/（2026-10-21） |
+| ZKTeco | 门禁/考勤（官方分销） | IP 门禁控制器、读头，PoE 供电点位 | STC-28DGGPM | https://eyescan.com.cy/（2026-10-21） |
+
+- **触达通道（公开）**：网站表单: https://eyescan.com.cy/（含 PayPal 支付入口）；LinkedIn: https://cy.linkedin.com/company/eyescan-security-systems；直邮: marinos@eyescan.com.cy（用户表）/ info@eyescan.com.cy
+- **近况信号**：
+  - 2026-10：官网主推 QR/RFID 门禁读头、AI 视频分析、24/7 监控中心——持续在做项目型安防集成（https://eyescan.com.cy/ 2026-10-21）
+  - 用户表：已成单；问过 4 光 24 电工业机 + 2 光 24 商业级 PoE 管理型价格，并表示「国家小，买了卖给别人」= 兼做分销
+- **风险/边界**：塞浦路斯市场小，单次量有限；分销 TVT/ZKTeco 产品线自带配套交换机，需用价格+管理功能切入
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W
+- **邮件切入句（英文）**：For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -127,10 +158,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销（兼分销）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成/经销（兼分销）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -140,7 +171,7 @@ updated: 2026-10-21
 
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -148,7 +179,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -181,9 +212,9 @@ updated: 2026-10-21
 ```text
 Hi Marinos,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your TVT IP CCTV 全线（官方分销） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

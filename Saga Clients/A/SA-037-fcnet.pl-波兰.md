@@ -79,6 +79,7 @@ updated: 2026-10-21
 - **KP**：—（总机）info@fcnet.pl +48 77 541 84 75〔https://www.fcnet.pl/o-firmie〕
 - 备注：A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

@@ -22,7 +22,7 @@ followups: 36
 first_contact: 2024-05-07
 last_contact: 2025-11-27
 p1: STI-288DGGPM
-price_tier: 20%
+price_tier: 30%
 research: done
 sources: 3
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-21；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）；最近一次客户回复：2025-01-06：profile
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,14 +69,45 @@ updated: 2026-10-21
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。
 - **类型**：分销商/网店（线缆·网络·太阳能）
 - **规模**：未见规模数据（网店型中小经销商）
-- **在卖/在用品牌**：ONV, Deye, Inverex
+- **在卖/在用品牌**：ONV, Deye, Inverex, ASTEL
 - **【官网】定位：各类线缆与连接器一站式商店，全球发货、一站式、免费技术支持**
   > Astel Digicom I House of all kinds of cables and connectors … WORLDWIDE DELIVERY · ONE STOP SHOP · FREE TECHNICAL SUPPORT
   > 来源：https://asteldigicom.com/（抓取 2026-10-21）
 - **【官网】2026 年首页主推储能/太阳能（Deye BOS-B Pro、Inverex 11.8kWh 等），说明品类在向能源扩张**
   > Deye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery … Inverex Solar Air Conditioner with Built-in Solar MPPT Inverter
   > 来源：https://asteldigicom.com/（抓取 2026-10-21）
+- **【官网】自有品牌 AST-IMC-GB-POE-8E2U2S-PSE 工业千兆 PoE 交换机规格**
+  > The AST-IMC-GB-PoE-8E2U2S-PSE-series is a full gigabit industrial PoE switch independently developed by ASTEL. It has 10x10/100/1000M RJ45 ports and 2x100/1000 SFP slot ports, Port 1-8 can support IEEE 802.3af/at … maximum POE output power is 240W … Power Supply No, you can purchase industrial power supply 48V/120W or 48V/240W
+  > 来源：https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html（抓取 2026-10-21）
+- **【官网】AST-IMC-POE-8E2U2S-PSE 网店价 AED 575 有库存；10G L3 工业 PoE AED 1,375**
+  > INDUSTRIAL SWITCH UNMANAGED 8 PORT POE WITH 2 UPLINK AND 2 FIBER PORTS AED575.00 In stock … Industrial PoE Switch 16 Port 10G L3 Managed AED1,375.00 In stock
+  > 来源：https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html（抓取 2026-10-21）
 - 备注：成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae） |
+| 总部/地址 | UAE（Dubai，网店 + 门店） |
+| 其他 | 自有品牌 ASTEL/AST- 前缀工业 MC/交换机（产品页自称「independently developed by ASTEL」= 贴牌），网店标价 AED；GM Sanjay Singla 已成单 |
+
+- **业务线**：线缆/连接器（自称 House of all kinds of cables and connectors）；网络/电信：工业 MC 与工业 PoE 交换机（AST-IMC 系列，非管理/管理、10G L3）；光纤：工业千兆非 PoE MC/交换机（FOE-IMC 系列）；2026 主推：Deye/Inverex 储能与太阳能
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ASTEL | AST-IMC-GB-POE-8E2U2S-PSE | 工业非管理 8×GE PoE + 2×GE RJ45 + 2×SFP，240W/48VDC，af/at 30W/口，不含电源（需另购 48V/120W 或 240W 工业电源） | STI-288DGGPM | https://asteldigicom.com/industrial-media-converters-unmanaged-8-port-poe-full-gigabit.-a.html（2026-10-21） |
+| ASTEL | AST-IMC-POE-8E2U2S-PSE（-O） | 工业非管理 8×FE PoE + 2×GE combo + 2×SFP，网店价 AED 575，有库存 | STI-288DGGPM（千兆升级位） | https://asteldigicom.com/industrial-switch-unmanaged-8-port-poe-with-2xgbe-uplink-and-2xgb-sfp-ports.-a.html（2026-10-21） |
+| ASTEL | AST-IMC-10G-12E4S-SFP-O | 工业 L3 管理 12×GE（8 PoE）+ 4×1G/10G SFP+，240W，网店价 AED 1,375 | STC-424XGGPM-280W（机架位）/ 工业 10G 待 SmartByte 核型 | https://asteldigicom.com/industrial-poe-switch-16-port-10g-l3-managed.-a.html（2026-10-21） |
+| ASTEL | FOE-IMC-GB-1E1S / 4E1S / 1E2F / 4E2F | 工业千兆非 PoE MC/小交换机 RJ45+SFP/双纤 | STI-110GE | https://asteldigicom.com/fiber-optic/all-products.html（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://asteldigicom.com/（AED 标价，可下单；首页有 WhatsApp 按钮）；直邮: asteldig@asteldigicom.ae / asteldigicom@eim.ae / navsim@eim.ae（用户表）；联系人: Sanjay Singla（GM，成单）
+- **近况信号**：
+  - 网店工业 PoE 交换机页面均「In stock」且有 -O 变体——在持续备货销售自有 AST 品牌（2026-10-21）
+  - 用户表：问过 ONV 工业 FS 与工业电源；已成单
+- **风险/边界**：其 AST 系列规格（8E2U2S、10G L3）是典型华南 ODM 公版，价格竞争激烈，需以 Marvell 芯片 + 一致性 + 交期取胜；阿联酋转口贸易，可能分销到伊朗等受限地区——仅按 UAE 本地项目报，守界
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核
+- **邮件切入句（英文）**：The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,9 +194,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/网店（线缆·网络·太阳能）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：其主力 AST-IMC-GB-POE-8E2U2S-PSE（8 GE PoE + 2 SFP 工业）与 STI-288DGGPM 同位，自有品牌贴牌 30% 档；千兆 MC 对位 STI-110GE；10G L3 工业机需 SmartByte 另核 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/网店（线缆·网络·太阳能）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -175,7 +206,7 @@ updated: 2026-10-21
 
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -183,7 +214,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 2 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入；规模（调研）：未见规模数据（网店型中小经销商）
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入；规模（调研）：未见规模数据（网店型中小经销商）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -216,9 +247,9 @@ updated: 2026-10-21
 ```text
 Hi Sanjay,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your ASTEL AST-IMC-GB-POE-8E2U2S-PSE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

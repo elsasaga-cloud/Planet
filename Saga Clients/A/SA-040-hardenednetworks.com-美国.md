@@ -65,6 +65,7 @@ updated: 2026-10-21
   > 来源：https://hardenednetworks.com/products/（抓取 2026-10-21）
 - 备注：A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

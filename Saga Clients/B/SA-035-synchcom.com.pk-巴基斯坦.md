@@ -73,6 +73,7 @@ updated: 2026-10-21
 - **KP**：Asif（asif@）（销售负责人（Facebook 主页公开））asif@synchcom.com.pk +92 332 5933665（WhatsApp 已加）〔https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/〕
 - **调研后定级**：B（原自动 A）——样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）

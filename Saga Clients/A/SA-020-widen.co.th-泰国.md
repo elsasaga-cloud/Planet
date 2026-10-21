@@ -21,7 +21,7 @@ replies: 0
 followups: 18
 first_contact: 2024-04-30
 last_contact: 2025-10-15
-p1: STC-424DGGPM-280W
+p1: STI-288DGGPM
 price_tier: 30%
 research: done
 sources: 2
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。（调研 2026-10-21；表内兴趣：FS MC VC 都是自己的标 无源产品）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -63,8 +63,40 @@ updated: 2026-10-21
 - **【官网】定位：光纤设备进口分销；类目含 Fiber Optic Switch / Media Converter**
   > บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร … Fiber Optic Media Converter · Fiber Optic Switch · Fiber Optic Video Converter … Email : info@widen.co.th, thawat@widen.co.th LINE ID :@widencompany
   > 来源：http://www.widen.co.th/（抓取 2026-10-21）
+- **【官网】网店自述：光纤与配套设备进口分销商，ISO 9001:2015，2026-10-07 更新；电话/LINE/Messenger 公开**
+  > WIDEN NETWORK SOLUTIONS เราเป็นบริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร ได้การรับรองมาตรฐานการบริหารองค์กร ISO 9001 ปี 2015 Last update 07/10/2026 … 088-9498799 … @widencompany
+  > 来源：https://www.shop-widen.com/en（抓取 2026-10-21）
+- **【经销商】WIDEN 品牌产品线：SFP MC、PoE MC、机架机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）、PoE 延长器**
+  > WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท
+  > 来源：https://www.telepart.net/（抓取 2026-10-21）
 - **KP**：Thawat（负责人（官网公开直邮））thawat@widen.co.th +66 81-285-4599 / 02-149-3922〔http://www.widen.co.th/〕
 - 备注：A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS） |
+| 总部/地址 | Nonthaburi, Thailand |
+| 其他 | 自称光纤与配套设备进口分销商，ISO 9001:2015；网店 shop-widen.com 2026-10-07 更新；电话 088-9498799，LINE @widencompany，Messenger Widentradingcompany |
+
+- **业务线**：光纤全线（跳线、适配器、接头盒、FTTx 皮线光缆、CATV）；WIDEN 品牌 MC：SFP 千兆 MC、PoE MC、机架式 MC 机箱、工业 WDM MC（10/100 与千兆，1/2/4/8 口 PoE）；WIDEN PoE 光纤延长器（W-PoEEx）；交换机/HDMI 光端机（展会上询问）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| WIDEN | Fiber Optic Industrial WDM Media Converter 10/100/1000 1 Port / 2 Port RJ45 PoE | 工业 WDM 千兆 1/2 口 PoE MC（经销商 telepart.net 列表） | STI-110GE（PoE 版待核） | https://www.telepart.net/（2026-10-21） |
+| WIDEN | Industrial WDM Media Converter 10/100 4 Port / 8 Port RJ45 PoE | 工业 4/8 口 PoE 小交换机（百兆） | STI-144GP / STI-288DGGPM（千兆升级位） | https://www.telepart.net/（2026-10-21） |
+| WIDEN | W-PoEEx PoE Extender | PoE 延长 80–100 m，售价 1,950 THB | — | https://www.telepart.net/（2026-10-21） |
+| WIDEN | SFP Gigabit Ethernet Media Converter / Rack mountable Chassis | 千兆 SFP MC 与机架机箱 | STI-110GE | https://www.telepart.net/（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: http://www.widen.co.th/ · https://www.shop-widen.com/en；直邮: thawat@widen.co.th（Thawat）/ info@widen.co.th；电话: 088-9498799；LINE: @widencompany；Messenger: Widentradingcompany
+- **近况信号**：
+  - 网店 2026-10-07 更新——活跃（https://www.shop-widen.com/en 2026-10-21）
+  - 泰国经销商 telepart.net 在售 WIDEN 全系 MC/PoE 产品——WIDEN 有二级渠道，自有 logo 量稳定
+  - 用户表：FS/MC/VC 都贴自有标；CommunicAsia 问过交换机/HDMI 光端机
+- **风险/边界**：泰国本地价格极低（8+2 工业 PoE 零售 2,350 THB ≈ $65），对 Marvell 平台溢价接受度有限；自有 logo = 30% 档，但分销体量可按 25% 谈
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo
+- **邮件切入句（英文）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -129,18 +161,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/品牌商（光纤产品自有 logo，OEM 采购）） |
+| **P1** | STI-288DGGPM | 深挖对位：WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/品牌商（光纤产品自有 logo，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -150,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 18 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未见人数（中小分销商）
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未见人数（中小分销商）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -178,14 +209,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Thawat,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your WIDEN Fiber Optic Industrial WDM Media Converter 10/100/1000 1 Port / 2 Port RJ45 PoE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

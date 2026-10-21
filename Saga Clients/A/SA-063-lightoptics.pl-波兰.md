@@ -79,6 +79,7 @@ updated: 2026-10-21
 - **KP**：—（销售（用户表邮箱；电话即 WhatsApp））sales@fibermarkt.com +48 533 533 575〔https://inwestrut.pl/fibermarkt-sp-z-o-o/〕
 - 备注：A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

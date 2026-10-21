@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：Anders Hedin（联系人（用户表邮箱））anders.hedin@direktronik.se +46 8 52 400 700（总机）〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

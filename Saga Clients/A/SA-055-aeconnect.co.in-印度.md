@@ -69,6 +69,7 @@ updated: 2026-10-21
 - **KP**：—（总机/用户表 WhatsApp）info@aeconnect.co.in +91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）〔https://aeconnect.co.in/shop/〕
 - 备注：A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

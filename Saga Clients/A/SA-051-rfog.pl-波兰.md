@@ -79,6 +79,7 @@ updated: 2026-10-21
 - **KP**：Tomasz Paszkowski（联系人（用户表邮箱））tomasz.paszkowski@rfog.pl +48 602 794 466（官网）〔Clients/A/DONE/PL.xlsx〕
 - 备注：A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

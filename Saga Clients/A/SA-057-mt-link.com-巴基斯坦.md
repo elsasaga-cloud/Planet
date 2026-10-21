@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：—（总机（WhatsApp 已加））info@mt-link.com +92 317 9995719〔https://www.facebook.com/mtlinkpakistan/〕
 - 备注：A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

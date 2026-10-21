@@ -72,6 +72,7 @@ updated: 2026-10-21
 - **KP**：Wolfgang Marcus Bauer（Geschäftsführer） +49 89 894 222-22〔https://www.allnet.de/impressum.html〕
 - 备注：A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

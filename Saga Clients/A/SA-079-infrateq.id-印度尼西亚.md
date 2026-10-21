@@ -75,6 +75,7 @@ updated: 2026-10-21
 - **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
 - 备注：A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |

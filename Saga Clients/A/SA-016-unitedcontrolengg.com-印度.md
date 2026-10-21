@@ -21,7 +21,7 @@ replies: 3
 followups: 10
 first_contact: 2023-12-09
 last_contact: 2025-02-26
-p1: STI-288DGGPM
+p1: STI-144GP
 price_tier: 20%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。（调研 2026-10-21；表内兴趣：5/8非管理工业FS）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）；最近一次客户回复：2024-08-13：基本只需要电口 不要光
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,8 +69,38 @@ updated: 2026-10-21
 - **【官网】官方邮箱/电话**
   > +919311150492 · +919990632600 · Marketing@unitedcontrolengg.com · Office@unitedcontrolengg.com
   > 来源：https://unitedcontrolengg.com/（抓取 2026-10-21）
+- **【官网】交换机落地页列 Phoenix Contact FL SWITCH SFNB 5TX / 1016N 与 Teltonika TSW 系列**
+  > FL SWITCH SFNB 5TX This compact unmanaged switch … 5 RJ45 ports … FL SWITCH 1016N … 16 Ethernet ports … TSW100 A compact unmanaged Gigabit switch with PoE support for industrial applications … TSW200 A managed Industrial Ethernet Switch
+  > 来源：https://unitedcontrolengg.com/ethernet-switch/（抓取 2026-05-23）
 - **KP**：—（市场部）marketing@unitedcontrolengg.com +91 93111 50492〔https://unitedcontrolengg.com/〕
 - 备注：A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
+
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | United Control Engineers India Pvt. Ltd. |
+| 成立 | 2001 |
+| 总部/地址 | Greater Noida, Delhi NCR, India |
+| 人数 | 11–50（LinkedIn） |
+| 营收 | $10–15M（口径不一） |
+| 其他 | Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 授权渠道；官网有独立「Ethernet Switch」落地页（2026-05-23） |
+
+- **业务线**：工业自动化分销 + 系统集成；工业以太网交换机（Phoenix Contact FL SWITCH、Teltonika TSW 系列）；工业路由器（Teltonika）、SMPS、VFD
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Phoenix Contact | FL SWITCH SFNB 5TX | 5 口 RJ45 非管理 DIN 紧凑型 | STI-144GP（PoE 版） | https://unitedcontrolengg.com/ethernet-switch/（2026-05-23） |
+| Phoenix Contact | FL SWITCH 1016N | 16 口非管理工业 | STI-21616GP | https://unitedcontrolengg.com/ethernet-switch/（2026-05-23） |
+| Teltonika | TSW100 / TSW110 / TSW200 / TSW210 / TSW212 / TSW010 / TSW030 | TSW100 紧凑千兆 PoE 非管理；TSW200/210/212 管理型 | STI-144GP（TSW100 位）/ STI-288DGGPM（TSW200 位） | https://unitedcontrolengg.com/ethernet-switch/（2026-05-23） |
+
+- **触达通道（公开）**：网站: https://unitedcontrolengg.com/（有交换机落地页与询盘表单）；直邮: marketing@unitedcontrolengg.com（官网）；sumitagrwal@yahoo.com（Sumit Agrawal，成单，用户表）；WhatsApp: 已加（用户表）；LinkedIn: https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd
+- **近况信号**：
+  - 2026-05-23：官网新建「Industrial Ethernet Switch Solutions」页，列 Phoenix + Teltonika 全系——正在把交换机做成独立品类（https://unitedcontrolengg.com/ethernet-switch/）
+  - 用户表：3 次实质回复，兴趣 5/8 口非管理工业 FS，已成单
+- **风险/边界**：印度 BIS 认证（IS 13252）对部分 IT 设备强制，需确认交换机是否需 BIS；进口关税高；客户已有 Phoenix/Teltonika 授权线 → Saga 定位为低价第二品牌
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档
+- **邮件切入句（英文）**：Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -124,17 +154,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商 + 系统集成（工业自动化）） |
+| **P1** | STI-144GP | 深挖对位：其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商 + 系统集成（工业自动化）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-144GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -144,7 +175,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 3 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）；$10–50M（SignalHire）/ $15.2M（ZoomInfo）
+- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）；$10–50M（SignalHire）/ $15.2M（ZoomInfo）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -172,14 +203,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hi Sumit,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your Phoenix Contact FL SWITCH SFNB 5TX at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
