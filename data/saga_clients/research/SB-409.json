@@ -1,0 +1,52 @@
+{
+ "code": "SB-409",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "西班牙分销商/经销商：官网快照失败（http_error）；表内「基本都是DLINK的；销售平台」；群发 1 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "基本都是DLINK的；销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "西班牙",
+  "other": "官网 rister.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "西班牙",
+  "contact": "info@rister.com、mmv@rister.com"
+ },
+ "signals": [
+  "用户表兴趣/备注：基本都是DLINK的；销售平台",
+  "表内早期 AI 描述（未核实）：西班牙IT设备分销商，主营网络设备和工业通信设备"
+ ],
+ "risks": [
+  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+ ],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 20,
+  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：分销商/经销商→20%）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Manu, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

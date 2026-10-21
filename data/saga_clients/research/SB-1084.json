@@ -1,0 +1,59 @@
+{
+ "code": "SB-1084",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（omctech.com，快照 2026-10-21）",
+ "summary": "泰国网络/安防经销或集成（官网未见角色词，待核）：官网「omctech.com」；表内「VC MC 基本没有switch；好几个办事处的邮箱」；群发 9 次、无回复。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：omctech.com",
+   "quote": "",
+   "url": "https://omctech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 omctech.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "泰国",
+  "contact": "sales@omctech.com、rugged@omctech.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://omctech.com/）",
+  "用户表兴趣/备注：VC MC 基本没有switch；好几个办事处的邮箱"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+}

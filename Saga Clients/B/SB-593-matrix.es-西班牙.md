@@ -21,7 +21,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 30%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：西班牙的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：几个小有名气的牌子；提到的品牌：Moxa, Westermo
+- **是谁**：西班牙品牌商/贴牌需求（OEM/ODM）：官网「MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos」（es-ES）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：LTE-4G、RS485、RS232；表内「几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、C」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：几个小有名气的牌子）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +54,31 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-593.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（matrix.es，快照 2026-10-21）
+- **是谁**：西班牙品牌商/贴牌需求（OEM/ODM）：官网「MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos」（es-ES）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：LTE-4G、RS485、RS232；表内「几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、C」；表内未见跟进记录。
+- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **【官网快照】官网标题：MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
+  > Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.
+  > 来源：https://www.matrix.es/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工厂、能源或现场网络改造项目 工业级千兆交换机、8口工业PoE、ERPS环网交换机 官网路径直接为“Industrial Networking / Industr
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 西班牙 |
+| 其他 | 官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表 |
+
+- **业务线**：工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；网络交换 / PoE
+- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 西班牙；contact: info@matrix.es
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://www.matrix.es/）
+  - 用户表兴趣/备注：几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Daniel, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -110,7 +134,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -154,7 +178,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -164,7 +187,7 @@ updated: 2026-10-21
 ```text
 Hi Daniel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Daniel, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the Moxa class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

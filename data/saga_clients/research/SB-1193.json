@@ -1,0 +1,68 @@
+{
+ "code": "SB-1193",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（gponnetwork.com，快照 2026-10-21）",
+ "summary": "新加坡分销商/批发商：官网「GPON Network – trusted speedy network eqmt supply chain」（en-US）；品类词：无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、Huawei、Juniper；表内「需要工业FS；WDM SFP Switch等」；群发 8 次、无回复。",
+ "type": "分销商/批发商",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Huawei",
+  "Juniper"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：GPON Network – trusted speedy network eqmt supply chain；品类词 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Equipment Supply Chain for Cloud Infrastructure；Since 2000, we distribute major brands network equipment；Global references at competitive prices；Reduce Cost … Work on a budget!；Global Deliveries；WDM Solutions for Data Centers interconnectio",
+   "url": "https://gponnetwork.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "需要工业FS；WDM SFP Switch等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "无线 / WiFi",
+  "数据中心 / 企业 IT",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/批发商",
+  "region": "新加坡",
+  "contact": "info@gponnetwork.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://gponnetwork.com/）",
+  "官网公开邮箱：hk@gponnetwork.com、info@gponnetwork.com、sg@gponnetwork.com",
+  "用户表兴趣/备注：需要工业FS；WDM SFP Switch等"
+ ],
+ "risks": [
+  "企业级品牌为主（Cisco/Huawei/Juniper）：Saga 白牌只作价格补充线",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Mycal, alongside the Cisco / Huawei lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

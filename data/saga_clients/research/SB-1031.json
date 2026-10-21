@@ -1,0 +1,67 @@
+{
+ "code": "SB-1031",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mro-tek.com，快照 2026-10-21）",
+ "summary": "印度制造商（同行或 OEM 客户待核）：官网「MRO‑TEK — Integrating Next Generation Networks」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内型号：RJ-45、QSFP28、ECAT-01L、CORNUS-82P；表内「MC 工业FS 普通FS 周边产品；switch」；表内未见跟进记录。",
+ "type": "制造商（同行或 OEM 客户待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：MRO‑TEK — Integrating Next Generation Networks；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "MRO‑TEK is an Indian OEM of enterprise networking, telecom, and security products — designed, manufactured, and certified in India.",
+   "url": "https://www.mro-tek.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 工业FS 普通FS 周边产品；switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "印度",
+  "other": "官网 mro-tek.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "电信 / FTTH / ISP 设备",
+  "数据中心 / 企业 IT",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "制造商（同行或 OEM 客户待核）",
+  "region": "印度",
+  "contact": "arun.raj@mro-tek.com、satish@mro-tek.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.mro-tek.com/）",
+  "官网公开邮箱：info@mro-tek.com、sales@mro-tek.com、support@mro-tek.com",
+  "用户表兴趣/备注：MC 工业FS 普通FS 周边产品；switch"
+ ],
+ "risks": [
+  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Arun, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

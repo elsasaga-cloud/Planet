@@ -2,7 +2,7 @@
 
 > **评级 B**　|　以色列　|　档案编号 `SB-1032`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1032
@@ -12,7 +12,7 @@ score: 28
 country: 以色列
 region: 中东
 website: radwin.com
-type: 经销/集成（类型待核）
+type: 电商/网店
 tier_tags: ["AI评估(IL)·DONE"]
 deal: no
 replies: 0
@@ -21,7 +21,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：以色列的经销/集成（类型待核）；兴趣/在卖：Ethernet Switch
+- **是谁**：以色列电商/网店：官网「RADWIN | Carrier-Grade Fixed Wireless Access & Mobility Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内品牌：Aruba；产品页：introducing-dynamic-channel-switching-dc、shop、idu-s-26、idu-si-27；表内「Ethernet Switch」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：Ethernet Switch）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | radwin.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 以色列 | 事实（用户表）|
 | 网站/域名 | radwin.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
 | 联系人 | Dave Azria / Director of Product Management / Sharon Sher / CEO | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | Ethernet Switch | 事实（用户表） |
@@ -59,7 +59,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1032.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（radwin.com，快照 2026-10-21）
+- **是谁**：以色列电商/网店：官网「RADWIN | Carrier-Grade Fixed Wireless Access & Mobility Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内品牌：Aruba；产品页：introducing-dynamic-channel-switching-dc、shop、idu-s-26、idu-si-27；表内「Ethernet Switch」；表内未见跟进记录。
+- **类型**：电商/网店
+- **在卖/在用品牌**：Aruba
+- **【官网快照】官网标题：RADWIN | Carrier-Grade Fixed Wireless Access & Mobility Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > RADWIN delivers reliable, high-capacity wireless broadband and backhaul solutions that connect people, businesses, and infrastructure worldwide.
+  > 来源：https://www.radwin.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > Ethernet Switch
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 以色列 |
+| 其他 | 官网 radwin.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+
+- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
+- **触达通道（公开）**：role: 电商/网店；region: 以色列；contact: dave_a@radwin.com、sharon_sher@radwin.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://www.radwin.com/）
+  - 官网公开邮箱：rwp@radwin.com
+  - 用户表兴趣/备注：Ethernet Switch
+- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Dave, alongside the Aruba lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -112,7 +139,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -157,7 +184,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -167,9 +193,9 @@ updated: 2026-10-21
 ```text
 Hi Dave,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Dave, alongside the Aruba lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

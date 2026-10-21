@@ -1,0 +1,65 @@
+{
+ "code": "SB-519",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（abctech.cz，快照 2026-10-21）",
+ "summary": "捷克分销商/经销商：官网「ABCTECH - vÃ½poÄetnÃ­ technika a elektronika」（cs）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：MikroTik、Ubiquiti、TP-Link；站内型号：CRS804-4DDQ、CSS610-8P-2S、SPB9-63DC、MTP250-26V94-OD；表内「同行的 帧田的 也有tplink的」；群发 8 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "MikroTik",
+  "Ubiquiti",
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：ABCTECH - vÃ½poÄetnÃ­ technika a elektronika；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "ABCTECH - vÃ½poÄetnÃ­ technika a elektronika",
+   "url": "https://www.abctech.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "同行的 帧田的 也有tplink的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 abctech.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "捷克",
+  "contact": "info@abctech.cz、reklamace@abctech.cz"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.abctech.cz/）",
+  "在售同口型交换品牌：MikroTik、Ubiquiti、TP-Link → 直接对位替换",
+  "官网公开邮箱：info@abctech.cz、reklamace@abctech.cz",
+  "用户表兴趣/备注：同行的 帧田的 也有tplink的",
+  "表内早期 AI 描述（未核实）：捷克IT设备大型分销商，主营网络设备、电脑硬件、安防设备等，交换机产品线丰富"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the MikroTik / Ubiquiti lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

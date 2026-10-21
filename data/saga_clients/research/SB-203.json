@@ -1,0 +1,66 @@
+{
+ "code": "SB-203",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（softwareeffect.com，快照 2026-10-21）",
+ "summary": "美国电商/网店：官网「Software Effect Enterprises, Inc」（en-US）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Cisco、Juniper、Ubiquiti、MikroTik；产品页：cisco-switch、enable-ssh-on-cisco-switch、free-up-storage-space-on-juniper-switch、usb-port-on-front-of-juniper-ex2300-swit；表内「4光8管理MIB资料 / from: Shopify」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Juniper",
+  "Ubiquiti",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Software Effect Enterprises, Inc；品类词 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Specialized Products For Network Support；Recent Posts；Categories；Your IP Address",
+   "url": "https://www.seei.biz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "4光8管理MIB资料 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "无线 / WiFi",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "美国",
+  "contact": "charles@softwareeffect.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.seei.biz/）",
+  "在售同口型交换品牌：Ubiquiti、MikroTik → 直接对位替换",
+  "用户表兴趣/备注：4光8管理MIB资料 / from: Shopify"
+ ],
+ "risks": [
+  "企业级品牌为主（Cisco/Juniper）：Saga 白牌只作价格补充线"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "官网快照对位：交换机词频 17、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Charles, alongside the Cisco / Juniper lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

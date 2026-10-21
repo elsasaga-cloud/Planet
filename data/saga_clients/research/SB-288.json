@@ -1,0 +1,51 @@
+{
+ "code": "SB-288",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（unreachable）",
+ "summary": "德国经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「商业级 48V 0.5A 1G PoE injector；2013年使用国际站 49 94146 394179 Addr: DE , Bavaria , Reg」；表内未见跟进记录。",
+ "type": "经销/集成（类型待核，无官网快照）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业级 48V 0.5A 1G PoE injector；2013年使用国际站 49 94146 394179 Addr: DE , Bavaria , Regensburg , Lilienthalstr. 38；商业级 48V 0.5A 1G PoE injector / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 carb-tech.de，语言 ?，快照状态 unreachable；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "经销/集成（类型待核，无官网快照）",
+  "region": "德国",
+  "contact": "miloud30@gmail.com"
+ },
+ "signals": [
+  "用户表兴趣/备注：商业级 48V 0.5A 1G PoE injector；2013年使用国际站 49 94146 394179 Addr: DE , Bavaria , Regensburg , Lilienthalstr. 38；商业级 48V 0.5A"
+ ],
+ "risks": [
+  "官网快照失败（unreachable）：域名/证书待核，邮件可能退回"
+ ],
+ "saga_fit": {
+  "p1": "STC-448DGGPM",
+  "tier": 25,
+  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Karim, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

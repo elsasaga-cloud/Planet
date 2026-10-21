@@ -1,0 +1,63 @@
+{
+ "code": "SB-1081",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mse.com.tw，快照 2026-10-21）",
+ "summary": "台湾品牌商/贴牌需求（OEM/ODM）：官网「PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.」（en）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、EN60945、EN50155、RJ-45；表内「主要是POE 商业 工业 配件 自己的logo 工业白色外壳」；群发 19 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
+   "url": "https://www.mse.com.tw/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "台湾",
+  "contact": "arthur@mse.com.tw"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.mse.com.tw/）",
+  "官网公开邮箱：arthur@mse.com.tw、craig.paton@mstroniceurope.com",
+  "用户表兴趣/备注：主要是POE 商业 工业 配件 自己的logo 工业白色外壳"
+ ],
+ "risks": [
+  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Arthur, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

@@ -1,0 +1,64 @@
+{
+ "code": "SB-1212",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（keydence.com，快照 2026-10-21）",
+ "summary": "新加坡安防集成/经销：官网「CCTV Camera Installation Solutions Singapore | Keydence Systems」（en）；品类词：安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：ISO9001、KDS-DVR77200HGHI-F1、KDS-DVR77200HQHI-K1、KDS-NPX1245-R1；表内「监控摄像 警报 光纤布线 网络」；群发 8 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：CCTV Camera Installation Solutions Singapore | Keydence Systems；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "As Singapore's trusted Security Systems provider, Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems.",
+   "url": "https://www.keydence.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "监控摄像 警报 光纤布线 网络",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "数据中心 / 企业 IT",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "新加坡",
+  "contact": "lawrence@keydence.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.keydence.com/）",
+  "官网公开邮箱：sales@keydence.com",
+  "用户表兴趣/备注：监控摄像 警报 光纤布线 网络"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "官网快照对位：PoE 词频 9、监控 380 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Lawrance, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

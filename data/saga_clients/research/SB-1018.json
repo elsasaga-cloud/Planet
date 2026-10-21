@@ -1,0 +1,62 @@
+{
+ "code": "SB-1018",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nuthill.co.za，快照 2026-10-21）",
+ "summary": "南非系统集成/工程商：官网「Home」（en-gb）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 网络交换 / PoE；表内「7台Moxa工业8电口轻管理 / from: 自建站」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Home；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Who We Are；OUR CORE SERVICES；Nut Pro M；Our Clients；Glencore Coal South Africa；Columbus Stainless Steel",
+   "url": "https://nuthill.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "7台Moxa工业8电口轻管理 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "南非",
+  "other": "官网 nuthill.co.za，语言 en-gb，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "南非",
+  "contact": "accounts@nuthill.co.za"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://nuthill.co.za/）",
+  "官网公开邮箱：abrie@nuthill.co.za、charles@nuthill.co.za、info@nuthill.co.za",
+  "用户表兴趣/备注：7台Moxa工业8电口轻管理 / from: 自建站"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Ivanka, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

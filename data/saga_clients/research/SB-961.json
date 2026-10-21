@@ -1,0 +1,65 @@
+{
+ "code": "SB-961",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netcatsystems.de，快照 2026-10-21）",
+ "summary": "德国系统集成/工程商：官网「NetCat SYSTEMS GmbH」（de）；品类词：网络交换 / PoE；站内品牌：Ubiquiti、Cisco、Netgear；站内型号：ISO9001；表内「POE；T 49-2307-96100 加不上」；群发 15 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Netgear"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：NetCat SYSTEMS GmbH；品类词 网络交换 / PoE",
+   "quote": "We supply IT.；Wir übernehmen die Beschaffung für Sie.；Umfassende Produktpalette；Zuverlässigkeit；Maßgeschneiderte Lösungen；Supply Chain Solutions für",
+   "url": "https://netcatsystems.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "POE；T 49-2307-96100 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "德国",
+  "contact": "joerg.ridder@netcatsystems.de"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://netcatsystems.de/）",
+  "在售同口型交换品牌：Ubiquiti、Netgear → 直接对位替换",
+  "官网公开邮箱：sales@netcatsystems.de",
+  "用户表兴趣/备注：POE；T 49-2307-96100 加不上"
+ ],
+ "risks": [
+  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Joerg, alongside the Ubiquiti / Cisco lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

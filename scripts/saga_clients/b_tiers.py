@@ -30,11 +30,14 @@ def main():
         rpath = os.path.join(DATA, 'research', e['code'] + '.json')
         has_rs = os.path.exists(rpath)
         deep = bool(rs.get('deep')) if rs else False
+        level = (rs.get('deep') or {}).get('level', '') if rs else ''
         if not deep and has_rs:
             try:
-                deep = bool(json.load(open(rpath, encoding='utf-8')).get('deep'))
+                dpj = json.load(open(rpath, encoding='utf-8')).get('deep') or {}
+                deep, level = bool(dpj), dpj.get('level', '')
             except Exception:
                 pass
+        how = ('自动' if 'auto' in level else '人工') if deep else ''
         focus = (e.get('region') or '') in FOCUS
         eng = engaged(e)
         if eng and focus:
@@ -55,7 +58,7 @@ def main():
                      '样品': int(bool(f.get('sample'))), '互动备注': int(bool(f.get('engaged_note'))), '自有品牌': int(bool(f.get('own_brand'))),
                      '跟进次数': e.get('fu_count', len(e.get('followups') or [])),
                      '域名': ';'.join(e.get('domains') or []), '邮箱数': len(e.get('emails') or []),
-                     '已有调研': int(has_rs), '已加厚': int(deep),
+                     '已有调研': int(has_rs), '已加厚': int(deep), '加厚方式': how,
                      '快照状态': (digest.get(e['code']) or {}).get('status', ''),
                      '快照品牌': ','.join((digest.get(e['code']) or {}).get('brands') or [])[:80],
                      '快照自动P1': (digest.get(e['code']) or {}).get('auto_p1') or ''})
@@ -68,11 +71,12 @@ def main():
         w.writerows(rows)
     stats = {}
     for r in rows:
-        stats.setdefault(r['分批'], [0, 0])
+        stats.setdefault(r['分批'], [0, 0, 0])
         stats[r['分批']][0] += 1
         stats[r['分批']][1] += r['已加厚']
+        stats[r['分批']][2] += int(r['加厚方式'] == '自动')
     snap_ok = sum(1 for r in rows if r['快照状态'] == 'ok')
-    print(out, {k: f'{v[0]} (加厚 {v[1]})' for k, v in sorted(stats.items())}, f'| 快照在线 {snap_ok}/{len(rows)}')
+    print(out, {k: f'{v[0]} (加厚 {v[1]}，其中自动 {v[2]})' for k, v in sorted(stats.items())}, f'| 快照在线 {snap_ok}/{len(rows)}')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,60 @@
+{
+ "code": "SB-587",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（etobb.co.kr，快照 2026-10-21）",
+ "summary": "韩国系统集成/工程商：官网「(주)이투비비」（ko）；产品页：WhiteRabbitSwitch、WhiteRabbitSwitchv34；表内「无人机模块 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：(주)이투비비",
+   "quote": "(주)이투비비(ETOBB)는 사프란(SAFRAN) 한국 독점 대리점 및 투알콤(Tualcom)의 파트너사입니다. GPS/GNSS 시뮬레이터(GPS Simulator, GNSS Simulator), 타임서버(Time server), 실내위치(Indoor Position), 원자시계 (Atomic Clock) 등 다양하고 폭넓은 분야의 GPS/GNSS 솔루션(Solution)을 개발, 제공해 나가고 있습니다.",
+   "url": "http://www.etobb.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "无人机模块 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 etobb.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "韩国",
+  "contact": "kyungkil.kim@etobb.co.kr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，http://www.etobb.co.kr/）",
+  "官网公开邮箱：sales@eotbb.co.kr、sales@etobb.co、sales@etobb.co.kr",
+  "用户表兴趣/备注：无人机模块 / from: 阿里巴巴RFQ"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）"
+ },
+ "email_hook": "Kyungkil, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

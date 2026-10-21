@@ -1,0 +1,58 @@
+{
+ "code": "SB-078",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（felixdronarfoto.se，快照 2026-10-21）",
+ "summary": "瑞士系统集成/工程商：官网「Drönarpilot | Felix Drönarfoto AB | Stockholm」（sv）；表内「商业级 48V 0.5A 1G PoE injector；2023年使用国际站 46 7051 30708 Addr: SE , 11458 , Stockho」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Drönarpilot | Felix Drönarfoto AB | Stockholm",
+   "quote": "Felix Drönarfoto är din professionella partner när det gäller drönare. Med över 5 års erfarenhet erbjuder vi alla typer av drönartjänster som Drönarfotografering, Drönarfilm och inspektioner över hela Sverige.",
+   "url": "https://www.felixdronarfoto.se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业级 48V 0.5A 1G PoE injector；2023年使用国际站 46 7051 30708 Addr: SE , 11458 , Stockholm , Kommendorsgatan 39；商业级 48V 0.5A 1G PoE injector / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "瑞士",
+  "other": "官网 felixdronarfoto.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "瑞士",
+  "contact": "info@felixdronarfoto.se、felixlanestrand@hotmail.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.felixdronarfoto.se/）",
+  "官网公开邮箱：info@felixdronarfoto.se、info@mysite.com",
+  "用户表兴趣/备注：商业级 48V 0.5A 1G PoE injector；2023年使用国际站 46 7051 30708 Addr: SE , 11458 , Stockholm , Kommendorsgatan 39；商业级 48V 0.5A 1G "
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-448DGGPM",
+  "tier": 25,
+  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

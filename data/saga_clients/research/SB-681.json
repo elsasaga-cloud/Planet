@@ -1,0 +1,50 @@
+{
+ "code": "SB-681",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（arbybilgisayar.com.tr，快照 2026-10-21）",
+ "summary": "土耳其安防集成/经销：官网「Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması」（tr）；品类词：网络交换 / PoE；群发 1 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması；品类词 网络交换 / PoE",
+   "quote": "Arby Bilgisayar; İstanbul'un en iyi ve büyük kurumsal bilgisayar firmaları arasında, 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği sunar.",
+   "url": "https://www.arbybilgisayar.com.tr/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "土耳其",
+  "contact": "bilgi@arbybilgisayar.com.tr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.arbybilgisayar.com.tr/）",
+  "官网公开邮箱：bilgi@arbybilgisayar.com.tr、destek@arbybilgisayar.com.tr"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

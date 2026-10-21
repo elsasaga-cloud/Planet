@@ -1,0 +1,68 @@
+{
+ "code": "SB-637",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（focomm-cabling.com，快照 2026-10-21）",
+ "summary": "泰国安防集成/经销：官网「Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร」（th）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内型号：RS485、RS232、NF-716ADHS、NF-IPC715；表内「工业FS MC SFP 光猫 ONV的工业FS」；群发 16 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU และอุปกรณ์โครงข่าย สำหรับ SI โรงงาน โครงการราชการและเอกชนทุกประเภท จัดส่งทั่วไทย ติดต่อได้ที่ @focomm หรือโทร 02 97",
+   "url": "https://www.focomm-cabling.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC SFP 光猫 ONV的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "电信 / FTTH / ISP 设备",
+  "数据中心 / 企业 IT",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "泰国",
+  "contact": "info@focomm-cabling.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.focomm-cabling.com/）",
+  "官网公开邮箱：info@focomm-cabling.com",
+  "用户表兴趣/备注：工业FS MC SFP 光猫 ONV的工业FS",
+  "表内早期 AI 描述（未核实）：泰国光通信设备供应商，主营工业交换机和光纤设备"
+ ],
+ "risks": [
+  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

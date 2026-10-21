@@ -1,0 +1,64 @@
+{
+ "code": "SB-736",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（spectra.de，快照 2026-10-21）",
+ "summary": "德国工业自动化/IoT 方案商：官网「Spectra - Der Partner für Industrie-PC und Automation」（de-DE）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Schneider、ORing；站内型号：RGPS-R9244GP、IGPS-9084GP-LA、IGPS-9084GP-LA-24V、IGS-P9812GP-LV；表内「icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的」；群发 3 次、无回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [
+  "Schneider",
+  "ORing"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Spectra - Der Partner für Industrie-PC und Automation；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Spectra hat langjährige Erfahrungen in der Herstellung von Industrie-PC und der industriellen Automatisierung: ✓ Kompetent ✓ Zuverlässig ✓ Innovativ",
+   "url": "https://spectra.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 spectra.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "德国",
+  "contact": "info@spectra.de、juergen.rauscher@spectra.de"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://spectra.de/）",
+  "在售工业网络品牌：Schneider、ORing → 工业线对位",
+  "官网公开邮箱：info@spectra.de、sales@spectra.de",
+  "用户表兴趣/备注：icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Juergen, alongside the Schneider / ORing lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

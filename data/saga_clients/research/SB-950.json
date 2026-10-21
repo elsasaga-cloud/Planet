@@ -1,0 +1,63 @@
+{
+ "code": "SB-950",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（plvision.eu，快照 2026-10-21）",
+ "summary": "波兰系统集成/工程商：官网「PLVision: Leading Open Networking Transformation」（en-US）；品类词：电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE；站内品牌：Ubiquiti；站内型号：TR-178；表内「Marvell芯片 几个牌子的」；群发 8 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：PLVision: Leading Open Networking Transformation；品类词 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "Since 2007, PLVision has been driving global connectivity reach, delivering comprehensive and cutting-edge solutions and products to industry leaders, disruptive startups, and innovative enterprises.",
+   "url": "https://plvision.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Marvell芯片 几个牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 plvision.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "电信 / FTTH / ISP 设备",
+  "数据中心 / 企业 IT",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "波兰",
+  "contact": "contact@plvision.eu、olena.kozlova@plvision.eu"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://plvision.eu/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "官网公开邮箱：contact@plvision.eu",
+  "用户表兴趣/备注：Marvell芯片 几个牌子的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Olena, alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

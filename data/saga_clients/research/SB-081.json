@@ -1,0 +1,58 @@
+{
+ "code": "SB-081",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（schnetzler.ch，快照 2026-10-21）",
+ "summary": "瑞士系统集成/工程商：官网「Schnetzler Metallbau AG, Laufenburg」（de）；产品页：neubau-produktionshalle-jehle-ag-etzgen；表内「10G网交换机；2015年使用国际站；10G网交换机 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Schnetzler Metallbau AG, Laufenburg",
+   "quote": "Erstklassige Lösungen aus Metall und Glas；Schnetzler Metallbau AG；Unsere Fakten；Wie wir arbeiten",
+   "url": "https://www.schnetzler.ch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "10G网交换机；2015年使用国际站；10G网交换机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "瑞士",
+  "other": "官网 schnetzler.ch，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "瑞士",
+  "contact": "othmar@gmx.org"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.schnetzler.ch/）",
+  "官网公开邮箱：info@schnetzler.ch、oppiller@schnetzler.ch",
+  "用户表兴趣/备注：10G网交换机；2015年使用国际站；10G网交换机 / from: 阿里巴巴RFQ"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：系统集成/工程商→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Roland, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

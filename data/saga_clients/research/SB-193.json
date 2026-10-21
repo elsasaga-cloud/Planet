@@ -1,0 +1,64 @@
+{
+ "code": "SB-193",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（voxplus.it，快照 2026-10-21）",
+ "summary": "意大利IT / 网络安全服务商（交换机为附带）：官网「VOXplus - Innovazione Integrazione Connessione」（it-IT）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE；站内型号：MISCOM8212GP-4XGF、RS232、RS485、MI-1828564；表内「工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe」；群发 13 次、无回复。",
+ "type": "IT / 网络安全服务商（交换机为附带）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：VOXplus - Innovazione Integrazione Connessione；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "VOXplus è un System Integrator in grado di fornire ai propri clienti, soluzioni e competenze che permettano loro di massimizzare le...",
+   "url": "https://www.voxplus.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 voxplus.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "无线 / WiFi",
+  "数据中心 / 企业 IT",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "IT / 网络安全服务商（交换机为附带）",
+  "region": "意大利",
+  "contact": "info@voxplus.it、gianni.scandroglio@voxplus.it"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.voxplus.it/）",
+  "官网公开邮箱：info@voxplus.it、sales@voxplus.it、voxplus@pec.it",
+  "用户表兴趣/备注：工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe"
+ ],
+ "risks": [
+  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）",
+  "主业为 IT/网络安全服务：交换机只是附带采购，低预期"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：IT / 网络安全服务商（交换机为附带）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Gianni, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

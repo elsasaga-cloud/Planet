@@ -21,7 +21,7 @@ first_contact: 2025-05-20
 last_contact: 2025-05-20
 p1: STC-448XGGM(L3)
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾的系统集成/工程商；兴趣/在卖：BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；提到的品牌：Marvell
+- **是谁**：台湾系统集成/工程商：官网「netberg | Main」；品类词：电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28、BCM56870、D-2123IT、D-2145NT；表内「BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息」；群发 1 次、有回复。（调研 2026-10-21；表内兴趣：BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-05-20 → 2025-05-20）；最近一次客户回复：2025-05-20：BDM芯片
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-448XGGM(L3) — 深挖对位：L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +54,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-185.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（netbergtw.com，快照 2026-10-21）
+- **是谁**：台湾系统集成/工程商：官网「netberg | Main」；品类词：电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28、BCM56870、D-2123IT、D-2145NT；表内「BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息」；群发 1 次、有回复。
+- **类型**：系统集成/工程商
+- **【官网快照】官网标题：netberg | Main；品类词 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > Our products；Custom Networking Solutions；Ethernet Switches；Fully Programmable Switches；Open NOS；Latest news
+  > 来源：https://netbergtw.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 台湾 |
+| 其他 | 官网 netbergtw.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+
+- **业务线**：电信 / FTTH / ISP 设备；数据中心 / 企业 IT；光纤 / 媒体转换；网络交换 / PoE
+- **触达通道（公开）**：role: 系统集成/工程商；region: 台湾；contact: au@netbergtw.com、sales@netbergtw.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://netbergtw.com/）
+  - 官网公开邮箱：sales@netbergtw.com
+  - 用户表兴趣/备注：BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息
+- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
+- **Saga 对位结论**：P1 STC-448XGGM(L3)（25% 档）——L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Alexander, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -113,7 +139,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | L3 48 口 + 4×10G（Hohunet/CENTEC 线） | $485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STC-448XGGM(L3) | 深挖对位：L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -158,7 +184,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -168,7 +193,7 @@ updated: 2026-10-21
 ```text
 Hi Alexander,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alexander, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
 
 We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $485.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

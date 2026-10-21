@@ -1,0 +1,58 @@
+{
+ "code": "SB-705",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（herman.cz，快照 2026-10-21）",
+ "summary": "捷克安防集成/经销：官网「Herman | Inteligentní veřejná doprava」（cs）；品类词：网络交换 / PoE；站内型号：ECU-05LGM、ECU-08LM、PU-03、RS485；表内「PVC有意思」；群发 7 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Herman | Inteligentní veřejná doprava；品类词 网络交换 / PoE",
+   "quote": "Dodáváme informační, odbavovací, komunikační a řídicí systémy MHD a veřejné linkové dopravy.",
+   "url": "https://www.herman.cz/cs/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "PVC有意思",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 herman.cz，语言 cs，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "捷克",
+  "contact": "trade@herman.cz"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.herman.cz/cs/）",
+  "官网公开邮箱：herman@herman.cz、servis@herman.cz、trade@herman.cz",
+  "用户表兴趣/备注：PVC有意思"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：安防集成/经销→25%）"
+ },
+ "email_hook": "We are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

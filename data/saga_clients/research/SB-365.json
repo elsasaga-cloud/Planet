@@ -1,0 +1,66 @@
+{
+ "code": "SB-365",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netiks.rs，快照 2026-10-21）",
+ "summary": "塞尔维亚工业自动化/IoT 方案商：官网「Netiks」（sr-yu）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：TP-Link、MikroTik、Grandstream；站内型号：RJ-45、RS232、ST7501、A-DQ2YT；表内「有DCN的」；表内未见跟进记录。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [
+  "TP-Link",
+  "MikroTik",
+  "Grandstream"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Netiks；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "NETIKS - računarske mreže i komunikacije",
+   "url": "http://www.netiks.rs/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有DCN的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "塞尔维亚",
+  "other": "官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "塞尔维亚",
+  "contact": "info@netiks.rs、netiks@gmail.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，http://www.netiks.rs/）",
+  "在售同口型交换品牌：TP-Link、MikroTik、Grandstream → 直接对位替换",
+  "用户表兴趣/备注：有DCN的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 25,
+  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the TP-Link / MikroTik lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

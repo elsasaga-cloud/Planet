@@ -21,7 +21,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-424XGGM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大的安防集成/经销；兴趣/在卖：安防
+- **是谁**：加拿大安防集成/经销：官网「Cozzmic Communications & Security | Trusted Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；表内「安防」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：安防）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 官网快照对位：电信/FTTH 词频 5 → 汇聚 24 GE + 4×10G；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：官网快照对位：电信/FTTH 词频 5 → 汇聚 24 GE + 4×10G（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +64,31 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-636.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（cozzmic.com，快照 2026-10-21）
+- **是谁**：加拿大安防集成/经销：官网「Cozzmic Communications & Security | Trusted Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；表内「安防」；表内未见跟进记录。
+- **类型**：安防集成/经销
+- **【官网快照】官网标题：Cozzmic Communications & Security | Trusted Solutions；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
+  > Cozzmic Offers Seamless Telecommunications Solutions for Businesses. Enhance Communication, Security, and Infrastructure for Your Business
+  > 来源：https://cozzmic.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 安防
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 加拿大 |
+| 其他 | 官网 cozzmic.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+
+- **业务线**：安防监控（CCTV / 门禁）；电信 / FTTH / ISP 设备；无线 / WiFi；布线 / 线缆；网络交换 / PoE
+- **触达通道（公开）**：role: 安防集成/经销；region: 加拿大；contact: sales@cozzmic.com、sachinders@cozzmic.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://cozzmic.com/）
+  - 用户表兴趣/备注：安防
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——官网快照对位：电信/FTTH 词频 5 → 汇聚 24 GE + 4×10G（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Sachinder, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -117,7 +141,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGM | 官网快照对位：电信/FTTH 词频 5 → 汇聚 24 GE + 4×10G | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：电信/FTTH 词频 5 → 汇聚 24 GE + 4×10G（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -162,12 +186,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Sachinder,
+
+Picking up our earlier exchange about PoE / industrial switches. Sachinder, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,0 +1,61 @@
+{
+ "code": "SB-1201",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（interfacemasters.com，快照 2026-10-21）",
+ "summary": "美国系统集成/工程商：官网「Interface Masters Technologies Silicon Valley OEM for Network Appliances」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE；站内型号：BCM56850、ST18-001、CN98XX；表内「Marvell方案」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Interface Masters Technologies Silicon Valley OEM for Network Appliances；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "We provide you with innovative custom solutions in embedded appliances and managed switches network hardware technology, 100% designed and made in the USA.",
+   "url": "https://interfacemasters.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Marvell方案",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 interfacemasters.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "电信 / FTTH / ISP 设备",
+  "数据中心 / 企业 IT",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "美国",
+  "contact": "sales@interfacemasters.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://interfacemasters.com/）",
+  "官网公开邮箱：sales@interfacemasters.com",
+  "用户表兴趣/备注：Marvell方案"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：系统集成/工程商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

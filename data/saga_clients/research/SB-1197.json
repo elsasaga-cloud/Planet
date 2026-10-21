@@ -1,0 +1,62 @@
+{
+ "code": "SB-1197",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（icecom.is，快照 2026-10-21）",
+ "summary": "冰岛网络/安防经销或集成（官网未见角色词，待核）：官网「IceCom ehf. – Vörur og þjónusta」（is）；品类词：网络交换 / PoE；站内品牌：Teltonika、Cambium；站内型号：IES-2710C、EM-C107CSC、GM-C301ASC、RUT951；表内「switch」；表内未见跟进记录。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [
+  "Teltonika",
+  "Cambium"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：IceCom ehf. – Vörur og þjónusta；品类词 网络交换 / PoE",
+   "quote": "IceCom ehf veitir fyrirtækjum og stofnunum；heildarlausnir í tölvu- og fjarskiptakerfum.",
+   "url": "https://www.icecom.is/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "冰岛",
+  "other": "官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "冰岛",
+  "contact": "icecom@icecom.is"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.icecom.is/）",
+  "在售同口型交换品牌：Teltonika、Cambium → 直接对位替换",
+  "官网公开邮箱：hotel@icecom.is、icecom@icecom.is、sala@icecom.is",
+  "用户表兴趣/备注：switch"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Teltonika / Cambium lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

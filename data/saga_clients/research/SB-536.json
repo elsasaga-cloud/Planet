@@ -1,0 +1,65 @@
+{
+ "code": "SB-536",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（highlink.co.kr，快照 2026-10-21）",
+ "summary": "韩国工业自动化/IoT 方案商：官网「산업용무선 | 하이링크 | 대한민국」（ko）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、RS232、DIVA-120AC-P、DIVA-WRM2；表内「工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的」；群发 23 次、无回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：산업용무선 | 하이링크 | 대한민국；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다. 건물 층간 및 건물과 건물, 각종 설비 사이의 안정적인 네트워크 구성을 위해 고품질 광접속, 접속 후 품질 검사, 정보통신공사 서비스를 제공합니다. 또한 우수한 백본 광 네트워크를 기반으로 편리하고 빠른 네트워크를 구성할 수 있도록 고속 케이블 자재 및 유무선 네트워크",
+   "url": "https://www.highlink.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "韩国",
+  "contact": "support@highlink.co.kr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.highlink.co.kr/）",
+  "官网公开邮箱：support@highlink.co.kr",
+  "用户表兴趣/备注：工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的"
+ ],
+ "risks": [
+  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
+  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

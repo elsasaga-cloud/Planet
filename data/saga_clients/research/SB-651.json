@@ -1,0 +1,62 @@
+{
+ "code": "SB-651",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（virtware.pt，快照 2026-10-21）",
+ "summary": "葡萄牙系统集成/工程商：官网「Virtware - Sol. Integradas de TelecomunicaÃ§Ãµes」；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：TP-Link、Cisco；站内型号：CE700A、CS74U、TL-SL5428E、TL-SG5428；表内「很多知名小品牌的」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "TP-Link",
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Virtware - Sol. Integradas de TelecomunicaÃ§Ãµes；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Virtware - DistribuiÃ§Ã£o de produtos para sistemas de cablagem estruturada, switches, routers e diverso material para telecomunicaÃ§Ãµes.",
+   "url": "http://virtware.pt/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "很多知名小品牌的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "葡萄牙",
+  "other": "官网 virtware.pt，语言 ?，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "葡萄牙",
+  "contact": "info@virtware.pt、augusto@virtware.pt"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，http://virtware.pt/）",
+  "在售同口型交换品牌：TP-Link → 直接对位替换",
+  "用户表兴趣/备注：很多知名小品牌的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Augusto, alongside the TP-Link / Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

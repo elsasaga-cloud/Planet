@@ -1,0 +1,61 @@
+{
+ "code": "SB-207",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（visionarwindows.com，快照 2026-10-21）",
+ "summary": "加拿大制造商（可能是同行或 OEM 客户）：官网「Visionar Window Systems」（en-US）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；产品页：wocd-1、products、shop、v1500l-kidguard-left-wocd-3；表内「2光10电 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
+ "type": "制造商（可能是同行或 OEM 客户）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Visionar Window Systems；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Who we are and products that we are developing for the window industry.",
+   "url": "https://www.visionarwindows.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "2光10电 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 visionarwindows.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "制造商（可能是同行或 OEM 客户）",
+  "region": "加拿大",
+  "contact": "brent@visionarwindows.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.visionarwindows.com/）",
+  "官网公开邮箱：brent@visionarwindows.com、info@visionarwindows.com",
+  "用户表兴趣/备注：2光10电 / from: 阿里巴巴RFQ"
+ ],
+ "risks": [
+  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：制造商（可能是同行或 OEM 客户）→30%）；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Brent, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

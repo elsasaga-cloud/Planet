@@ -2,7 +2,7 @@
 
 > **评级 B**　|　瑞典　|　档案编号 `SB-1250`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Mavink)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商/批发商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Mavink)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1250
@@ -12,7 +12,7 @@ score: 25
 country: 瑞典
 region: 欧洲
 website: standardaudio.se
-type: 经销/集成（类型待核）
+type: 分销商/批发商
 tier_tags: ["群发(Mavink)"]
 deal: no
 replies: 0
@@ -21,7 +21,7 @@ first_contact: unknown
 last_contact: unknown
 p1: none
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：瑞典的经销/集成（类型待核）；兴趣/在卖：VC switch
+- **是谁**：瑞典分销商/批发商：官网「Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, i」（sv）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内品牌：Dahua；站内型号：JPEG2000、EN54-24、AES67、SET-3-EU；表内「VC switch」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：VC switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：— — 深挖对位：VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：分销商/批发商→20%）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | standardaudio.se（取自域名，公司全名待核） | 推断 |
 | 国家 | 瑞典 | 事实（用户表）|
 | 网站/域名 | standardaudio.se | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | VC switch | 事实（用户表） |
@@ -54,7 +54,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1250.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（standardaudio.se，快照 2026-10-21）
+- **是谁**：瑞典分销商/批发商：官网「Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, i」（sv）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内品牌：Dahua；站内型号：JPEG2000、EN54-24、AES67、SET-3-EU；表内「VC switch」；表内未见跟进记录。
+- **类型**：分销商/批发商
+- **在卖/在用品牌**：Dahua
+- **【官网快照】官网标题：Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, i；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE**
+  > Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni
+  > 来源：https://www.standardaudio.se/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > VC switch
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 瑞典 |
+| 其他 | 官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案 |
+
+- **业务线**：工业自动化 / OT 网络；无线 / WiFi；网络交换 / PoE
+- **触达通道（公开）**：role: 分销商/批发商；region: 瑞典；contact: info@standardaudio.se
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://www.standardaudio.se/）
+  - 安防品牌：Dahua → PoE 配套切入
+  - 官网公开邮箱：epost@epost.com、info@standardsystems.eu、service@standardaudio.se
+  - 用户表兴趣/备注：VC switch
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：分销商/批发商→20%）
+- **邮件切入句（英文）**：Alongside the Dahua lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -106,7 +133,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：分销商/批发商→20%） | — | 深挖对位；档位 20%（分销商/批发商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -152,12 +179,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hello,
+
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Dahua lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

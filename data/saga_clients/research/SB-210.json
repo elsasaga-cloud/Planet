@@ -1,0 +1,67 @@
+{
+ "code": "SB-210",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（axilogi.com，快照 2026-10-21）",
+ "summary": "捷克分销商/经销商：官网「Axilogi s.r.o.」（cs）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Hikvision、MikroTik、Ubiquiti、TP-Link；站内型号：CZ10964703、DS-2CD1047G3-LIU、DS-1276ZJ-SUS、DS-1275ZJ-SUS；表内「很多品牌子的」；群发 4 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "MikroTik",
+  "Ubiquiti",
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Axilogi s.r.o.；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Axilogi s.r.o.",
+   "url": "https://axilogi.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "很多品牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "捷克",
+  "contact": "sales@axilogi.cz、milan@axilogi.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://axilogi.com/）",
+  "在售同口型交换品牌：MikroTik、Ubiquiti、TP-Link → 直接对位替换",
+  "安防品牌：Hikvision → PoE 配套切入",
+  "官网公开邮箱：david@axilogi.com、hsrc@hikvision.com、sales@axilogi.cz",
+  "用户表兴趣/备注：很多品牌子的",
+  "表内早期 AI 描述（未核实）：捷克IT及网络设备分销商，销售多个品牌网络设备及通信产品"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 20,
+  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：分销商/经销商→20%）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Milan, alongside the Hikvision / MikroTik lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

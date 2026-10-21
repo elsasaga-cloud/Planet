@@ -1,0 +1,65 @@
+{
+ "code": "SB-623",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（visus.pt，快照 2026-10-21）",
+ "summary": "葡萄牙安防集成/经销：官网「OPTIVISUS」（en-gb）；品类词：电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Vivotek、Uniview、Ubiquiti；站内型号：CVE-2025-10547、MS9390-EHV、SC9133-RTL、FD9387-FR-V2；表内「CCTV为主 有Utepo的」；群发 4 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [
+  "Vivotek",
+  "Uniview",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：OPTIVISUS；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "OPTIVISUS - Solu��es reais para voz, dados e imagem.；visus telecom；visus video；Notícias & Updates；Telecom；Vídeo",
+   "url": "https://visus.pt/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "CCTV为主 有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "葡萄牙",
+  "other": "官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "电信 / FTTH / ISP 设备",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "葡萄牙",
+  "contact": "encomendas@visus.pt、rjorge@visus.pt"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://visus.pt/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "安防品牌：Vivotek、Uniview → PoE 配套切入",
+  "官网公开邮箱：cctv@visus.pt、cliente@visus.pt、comercial@visus.pt",
+  "用户表兴趣/备注：CCTV为主 有Utepo的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Rui, alongside the Vivotek / Uniview lines you carry, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

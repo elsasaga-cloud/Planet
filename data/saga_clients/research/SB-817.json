@@ -1,0 +1,65 @@
+{
+ "code": "SB-817",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（comtrol.co.uk，快照 2026-10-21）",
+ "summary": "英国分销商/批发商：官网「Comtrol UK Ltd -」（en-GB）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ubiquiti；产品页：omniconverter-poe-switches、omniconverter-10gpoe-…、omniconverter-glpoe-s…、omniconverter-10gpoe-…；表内「MC 光猫 工业FS 很多是omnitron的产品」；群发 19 次、无回复。",
+ "type": "分销商/批发商",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Comtrol UK Ltd -；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities.",
+   "url": "https://www.comtrol.co.uk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 光猫 工业FS 很多是omnitron的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "无线 / WiFi",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/批发商",
+  "region": "英国",
+  "contact": "sales@comtrol.co.uk、tim.jones@comtrol.co.uk"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.comtrol.co.uk/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "官网公开邮箱：accounts@comtrol.co.uk、sales@comtrol.co.uk、sales@comtrol.co.uksupport",
+  "用户表兴趣/备注：MC 光猫 工业FS 很多是omnitron的产品"
+ ],
+ "risks": [
+  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Tim, alongside the Ubiquiti lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

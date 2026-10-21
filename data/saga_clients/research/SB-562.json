@@ -1,0 +1,60 @@
+{
+ "code": "SB-562",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tacel.ca，快照 2026-10-21）",
+ "summary": "加拿大系统集成/工程商：官网「Tacel - Traffic Management & Road Safety Solutions」（en）；站内品牌：EtherWAN；表内「Etherwan的工业FS」；群发 8 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "EtherWAN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Tacel - Traffic Management & Road Safety Solutions",
+   "quote": "Tacel is a Canadian leader in providing traffic management, road safety, and intelligent transportation systems.",
+   "url": "https://www.tacel.ca/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Etherwan的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "加拿大",
+  "contact": "gabor.szabo@tacel.ca、gil.marques@tacel.ca"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.tacel.ca/en）",
+  "在售工业网络品牌：EtherWAN → 工业线对位",
+  "用户表兴趣/备注：Etherwan的工业FS"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Gabor, alongside the EtherWAN lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

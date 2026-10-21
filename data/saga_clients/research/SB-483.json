@@ -1,0 +1,58 @@
+{
+ "code": "SB-483",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（teleone.com.tr，快照 2026-10-21）",
+ "summary": "土耳其分销商/批发商：官网「Teleone: Think bigger, make better – Video Surveillance Solution Provider」（tr）；表内「Utepo」；群发 2 次、无回复。",
+ "type": "分销商/批发商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Teleone: Think bigger, make better – Video Surveillance Solution Provider",
+   "quote": "Think bigger, make better",
+   "url": "https://www.teleone.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Utepo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "分销商/批发商",
+  "region": "土耳其",
+  "contact": "info@teleone.com.tr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.teleone.com.tr/）",
+  "官网公开邮箱：info@teleone.com.tr",
+  "用户表兴趣/备注：Utepo"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "分销/网店 → 24 口 PoE L2+ 走量款（来源：角色默认；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

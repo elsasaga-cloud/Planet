@@ -1,0 +1,82 @@
+{
+ "code": "SB-133",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sysnetcenter.com，快照 2026-10-21）",
+ "summary": "泰国分销商/经销商：官网「Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network」（th）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Ruijie、TP-Link、Hikvision、Huawei、Ubiquiti、D-Link；站内型号：GS1300、RG-NIS3100-4GT2SFP-HP、RG-S5315-E、RG-CS83；表内「大口FS」；群发 1 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Ruijie",
+  "TP-Link",
+  "Hikvision",
+  "Huawei",
+  "Ubiquiti",
+  "D-Link",
+  "Cisco",
+  "Uniview",
+  "MikroTik",
+  "Dahua",
+  "Netgear",
+  "Zyxel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "จำหน่าย ติดตั้ง อุปกรณ์ Network มากกว่า 10 ปี พร้อมทีมงานเชี่ยวชาญ Wireless, Router, Switch, IP Camera, VOIP, VPN, ระบบ Lan, Fiber optic",
+   "url": "https://sysnetcenter.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "大口FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "泰国",
+  "contact": "info@sysnetcenter.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://sysnetcenter.com/）",
+  "在售同口型交换品牌：Ruijie、TP-Link、Ubiquiti、D-Link、MikroTik → 直接对位替换",
+  "安防品牌：Hikvision、Uniview、Dahua → PoE 配套切入",
+  "官网公开邮箱：info@sysnetcenter.com",
+  "用户表兴趣/备注：大口FS",
+  "表内早期 AI 描述（未核实）：泰国网络设备分销商，主营企业网络设备及L3交换机"
+ ],
+ "risks": [
+  "企业级品牌为主（Huawei/Cisco）：Saga 白牌只作价格补充线",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-448DGGPM",
+  "tier": 20,
+  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Ruijie / TP-Link lines you carry, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

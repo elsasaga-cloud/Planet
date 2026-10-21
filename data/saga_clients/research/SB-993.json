@@ -1,0 +1,67 @@
+{
+ "code": "SB-993",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nexlar.com，快照 2026-10-21）",
+ "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Commercial Security & Access Control System Installation」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：ZKTeco；产品页：industrial-gate-access-control-houston、industrial-thermal-perimeter-detection-a、san-antonio-industrial-video-analytics-s、industrial-yard-card-reader-austin-georg；表内「很多牌子的 有自己的logo」；表内未见跟进记录。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [
+  "ZKTeco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Commercial Security & Access Control System Installation；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "#1 Commercial Security, Access Control system & Security Camera installation company. Get the latest new technology for your business. Free Site Survey",
+   "url": "https://www.nexlar.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "很多牌子的 有自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "无线 / WiFi",
+  "数据中心 / 企业 IT",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "美国",
+  "contact": "info@nexlar.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.nexlar.com/）",
+  "安防品牌：ZKTeco → PoE 配套切入",
+  "官网公开邮箱：info@nexlar.com、rod@nexlar.com",
+  "用户表兴趣/备注：很多牌子的 有自己的logo"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the ZKTeco lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

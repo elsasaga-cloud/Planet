@@ -1,0 +1,52 @@
+{
+ "code": "SB-1136",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "基里巴斯经销/集成（类型待核，无官网快照）：无域名/未快照；表内「升压5电口 / from: 阿里巴巴询盘」；表内未见跟进记录。",
+ "type": "经销/集成（类型待核，无官网快照）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "升压5电口 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "基里巴斯",
+  "other": "无官网快照；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "经销/集成（类型待核，无官网快照）",
+  "region": "基里巴斯",
+  "contact": "teotinga1973@gmail.com"
+ },
+ "signals": [
+  "用户表兴趣/备注：升压5电口 / from: 阿里巴巴询盘"
+ ],
+ "risks": [
+  "无域名或未快照：仅表内信息，身份待核",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Teorabati, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

@@ -1,0 +1,60 @@
+{
+ "code": "SB-844",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kontron.com，快照 2026-10-21）",
+ "summary": "德国安防集成/经销：官网「The Power of IoT | Kontron」（en）；品类词：工业自动化 / OT 网络；站内型号：A-251-AML、NIS-2、AS9100D、A-151-TGL；表内「TSN 工业通讯 电口」；群发 14 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：The Power of IoT | Kontron；品类词 工业自动化 / OT 网络",
+   "quote": "Discover Kontron’s global expertise in IoT, 5G, edge computing and industrial embedded systems — powering smart industries and connected infrastructure.",
+   "url": "https://www.kontron.com/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "TSN 工业通讯 电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 kontron.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "德国",
+  "contact": "info@kontron.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.kontron.com/en）",
+  "官网公开邮箱：automotive.info@kontron.com、confidentialite.canada@kontron.com、contact@katek-group.com",
+  "用户表兴趣/备注：TSN 工业通讯 电口"
+ ],
+ "risks": [
+  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

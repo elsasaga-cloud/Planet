@@ -1,0 +1,62 @@
+{
+ "code": "SB-432",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（eltexcm.ru，快照 2026-10-21）",
+ "summary": "俄罗斯工业自动化/IoT 方案商：官网「Eltex - Российское сетевое и телекоммуникационное оборудование купить в Москве по выгодной」（ru）；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RJ-45、SFP28、ECSS-SC-1X、QSFP28；表内「switch 没办法突破」；表内未见跟进记录。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Eltex - Российское сетевое и телекоммуникационное оборудование купить в Москве по выгодной；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Официальный дилер «Элтекс Коммуникации» предлагает купить сетевое и телекоммуникационное оборудование российского производства Eltex: MES, ESR, SMG, TAU, WEP, WOP, SFP. Российское оборудование из реестра ЕРРРП. Статус ТОРП. Техподдержка 24/",
+   "url": "https://eltexcm.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "switch 没办法突破",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 eltexcm.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "俄罗斯",
+  "contact": "d.kozlov@eltexcm.ru"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://eltexcm.ru/）",
+  "官网公开邮箱：200@eltexcm.ru、a.stepanov@eltexcm.ru、afs@eltexcm.ru",
+  "用户表兴趣/备注：switch 没办法突破"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Dmitry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

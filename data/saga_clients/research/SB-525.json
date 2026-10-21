@@ -1,0 +1,59 @@
+{
+ "code": "SB-525",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（automationstore.it，快照 2026-10-21）",
+ "summary": "意大利网络/安防经销或集成（官网未见角色词，待核）：官网「One moment, please...」（en）；表内「商业switch」；群发 13 次、无回复。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：One moment, please...",
+   "quote": "",
+   "url": "https://automationstore.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "意大利",
+  "contact": "info@automationstore.it"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://automationstore.it/）",
+  "用户表兴趣/备注：商业switch"
+ ],
+ "risks": [
+  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

@@ -1,0 +1,63 @@
+{
+ "code": "SB-578",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（rapsodo.com，快照 2026-10-21）",
+ "summary": "新加坡网络/安防经销或集成（官网未见角色词，待核）：官网「Rapsodo® - Sports Performance & Analytics Technology」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；产品页：sitemap_products_1.xml?from=732817391630、keys-to-productive-golf-practice-less-co、rapsodo-launches-new-high-speed-slow-mot、rapsodo-mobile-launch-monitor-wins-ing-p；表内「问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-」；群发 7 次、无回复。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Rapsodo® - Sports Performance & Analytics Technology；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Launch and flight monitors for baseball, softball and golf that are affordable, portable and easy to use backed by data-driven technology trusted by the best players in the game. Play without limits with Rapsodo®",
+   "url": "https://rapsodo.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-05, Singapore 139964",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 rapsodo.com，语言 en-US，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "新加坡",
+  "contact": "kelvin.yeo@rapsodo.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://rapsodo.com/）",
+  "官网公开邮箱：sales@rapsodo.com",
+  "用户表兴趣/备注：问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-05, Singapore 139964"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Kelvin, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

@@ -1,0 +1,58 @@
+{
+ "code": "SB-843",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kbvdatacom.rs，快照 2026-10-21）",
+ "summary": "塞尔维亚系统集成/工程商：官网「KBV DATACOM | Projektovanje i inženjering | Početna」（sr-yu）；表内「Bypass模块 / from: 阿里巴巴RTS订单」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：KBV DATACOM | Projektovanje i inženjering | Početna",
+   "quote": "KBV DATACOM je lider u regionu u oblasti projektovanja, konsaltinga i izgradnje telekomunikacionih mreža i sistema i inženjeringa u oblasti telekomunikacija.",
+   "url": "http://www.kbvdatacom.rs/sr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Bypass模块 / from: 阿里巴巴RTS订单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "塞尔维亚",
+  "other": "官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "塞尔维亚",
+  "contact": "dponjavic@gmail.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，http://www.kbvdatacom.rs/sr/）",
+  "官网公开邮箱：office@kbvdatacom.com、office@kbvdatacom.me、office@kbvdatacom.rs",
+  "用户表兴趣/备注：Bypass模块 / from: 阿里巴巴RTS订单"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）"
+ },
+ "email_hook": "Dusan, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

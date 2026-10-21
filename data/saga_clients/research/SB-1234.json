@@ -1,0 +1,61 @@
+{
+ "code": "SB-1234",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（reweb.it，快照 2026-10-21）",
+ "summary": "意大利工业自动化/IoT 方案商：官网「REweb S.r.l.」（it-IT）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内品牌：Advantech；站内型号：ICR-1745、ADAM-6000、ADAM-200PN、ICR-1745-EU；表内「MC 工业FS 在卖Perle的产品」；表内未见跟进记录。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [
+  "Advantech"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：REweb S.r.l.；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Integration beyond technology Innovazione tecnologica dal 1983 Contattaci Le nostre soluzioni Di cosa ci occupiamo quotidianamente Sim M2M Connettività IoT multioperatore, adatta ad ogni dispositivo per le esigenze di connettività delle app",
+   "url": "https://www.reweb.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 工业FS 在卖Perle的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "意大利",
+  "contact": "cuse@reweb.it、m.colli@reweb.it"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.reweb.it/）",
+  "在售工业网络品牌：Advantech → 工业线对位",
+  "用户表兴趣/备注：MC 工业FS 在卖Perle的产品"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Advantech lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

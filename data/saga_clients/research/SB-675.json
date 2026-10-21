@@ -1,0 +1,61 @@
+{
+ "code": "SB-675",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（acuitybrands.com，快照 2026-10-21）",
+ "summary": "格鲁吉亚工业自动化/IoT 方案商：官网「Acuity Brands Lighting」（en）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE；产品页：industrial、wall-stations-and-switches、industrial-lighting、sensorswitch；表内「电口 网站产品较杂」；群发 6 次、无回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Acuity Brands Lighting；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "Acuity Brands Lighting provides sustainable, inspiring and intelligent lighting solutions that enrich communities where people live, learn, work and play.",
+   "url": "https://www.acuitybrands.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "电口 网站产品较杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "格鲁吉亚",
+  "other": "官网 acuitybrands.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "数据中心 / 企业 IT",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "格鲁吉亚",
+  "contact": "christopher.dudley@acuitybrands.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.acuitybrands.com/）",
+  "用户表兴趣/备注：电口 网站产品较杂"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "官网快照对位：工业/自动化词频 27、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Christopher, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

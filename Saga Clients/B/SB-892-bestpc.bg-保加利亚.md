@@ -2,7 +2,7 @@
 
 > **评级 B**　|　保加利亚　|　档案编号 `SB-892`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-892
@@ -12,7 +12,7 @@ score: 31
 country: 保加利亚
 region: 欧洲
 website: bestpc.bg
-type: 经销/集成（类型待核）
+type: 电商/网店
 tier_tags: ["同行经销商(Dpek)"]
 deal: no
 replies: 0
@@ -21,7 +21,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-424XGGM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：保加利亚的经销/集成（类型待核）
+- **是谁**：保加利亚电商/网店：官网「Магазин за лаптопи, компютри и компоненти - BestPC.BG」（bg）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Huawei；站内型号：AV1000、TL-WPA8631P、AV600、TL-PA7017；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | bestpc.bg（取自域名，公司全名待核） | 推断 |
 | 国家 | 保加利亚 | 事实（用户表）|
 | 网站/域名 | bestpc.bg | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -54,7 +54,29 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-892.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（bestpc.bg，快照 2026-10-21）
+- **是谁**：保加利亚电商/网店：官网「Магазин за лаптопи, компютри и компоненти - BestPC.BG」（bg）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Huawei；站内型号：AV1000、TL-WPA8631P、AV600、TL-PA7017；表内未见跟进记录。
+- **类型**：电商/网店
+- **在卖/在用品牌**：Huawei
+- **【官网快照】官网标题：Магазин за лаптопи, компютри и компоненти - BestPC.BG；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > Купи от BestPC.BG | Евтини лаптопи, таблети, телевизори, смартфони, компютри, монитори, периферия, компоненти. Ремонт, сервиз, диагностика на компютри и лаптопи
+  > 来源：https://bestpc.bg/（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 保加利亚 |
+| 其他 | 官网 bestpc.bg，语言 bg，快照状态 ok；角色判定来源：官网文案 |
+
+- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
+- **触达通道（公开）**：role: 电商/网店；region: 保加利亚；contact: store@bestpc.bg
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://bestpc.bg/）
+  - 官网公开邮箱：store@bestpc.bg
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Alongside the Huawei lines you carry, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -106,7 +128,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGM | 官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手 | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 47、交换机 22 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -153,12 +175,25 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hello,
+
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Huawei lines you carry, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

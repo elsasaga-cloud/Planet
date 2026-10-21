@@ -1,0 +1,66 @@
+{
+ "code": "SB-682",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（art2soft.eu，快照 2026-10-21）",
+ "summary": "塞浦路斯分销商/经销商：官网「A.K. ART2SOFT LTD – Your wireless partner」（en-US）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Ubiquiti、Ruijie、TP-Link、MikroTik、Cambium；表内「分销商」；群发 6 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Ruijie",
+  "TP-Link",
+  "MikroTik",
+  "Cambium"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：A.K. ART2SOFT LTD – Your wireless partner；品类词 无线 / WiFi / 网络交换 / PoE",
+   "quote": "About our company；We serve over 500 resellers all over Cyprus；500+；2000+；10000+；15+",
+   "url": "https://art2soft.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "塞浦路斯",
+  "other": "官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "无线 / WiFi",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "塞浦路斯",
+  "contact": "thomas.thoma@art2soft.eu"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://art2soft.eu/）",
+  "在售同口型交换品牌：Ubiquiti、Ruijie、TP-Link、MikroTik、Cambium → 直接对位替换",
+  "官网公开邮箱：info@art2soft.eu",
+  "用户表兴趣/备注：分销商"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Thomas, alongside the Ubiquiti / Ruijie lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

@@ -1,0 +1,66 @@
+{
+ "code": "SB-182",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（jpg.lt，快照 2026-10-21）",
+ "summary": "意大利分销商/经销商：官网「Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt」；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ajax、Teltonika；站内型号：LMR-400、RG174、RJ-45、LT-54312；表内「商业PoE 丰润达的 销售平台」；群发 12 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Ajax",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos, IP vaizdo stebėjimo kameros, IP valdomos ka",
+   "url": "https://jpg.lt/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业PoE 丰润达的 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 jpg.lt，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "意大利",
+  "contact": "info@jpg.lt"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://jpg.lt/）",
+  "在售同口型交换品牌：Teltonika → 直接对位替换",
+  "安防品牌：Ajax → PoE 配套切入",
+  "官网公开邮箱：info@magveda.lt",
+  "用户表兴趣/备注：商业PoE 丰润达的 销售平台"
+ ],
+ "risks": [
+  "群发 12 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Ajax / Teltonika lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

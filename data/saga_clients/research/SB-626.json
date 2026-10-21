@@ -1,0 +1,61 @@
+{
+ "code": "SB-626",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（burnsprecisionag.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚电商/网店：官网「- Burns Precision Ag」（en-US）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换；站内型号：SA102、SV100、AF100、AF718；表内「升压5口 / from: 阿里巴巴询盘」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：- Burns Precision Ag；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换",
+   "quote": "ISOBUS Terminal The most versatile certified ISO VT ISOBUS VT Manual Guidance Affordable Guidance SAGRO 10 Liquid Control ISOBUS Liquid Control IBX100 PAYMEN...",
+   "url": "https://burnsprecisionag.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 burnsprecisionag.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "光纤 / 媒体转换"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "澳大利亚",
+  "contact": "preston@burnsprecisionag.com.au"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://burnsprecisionag.com.au/）",
+  "官网公开邮箱：sales@burnsprecisionag.com.ai、sales@burnsprecisionag.com.au",
+  "用户表兴趣/备注：升压5口 / from: 阿里巴巴询盘"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：电商/网店→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Preston, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

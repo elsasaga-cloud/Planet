@@ -1,0 +1,60 @@
+{
+ "code": "SB-341",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（palwintec.com，快照 2026-10-21）",
+ "summary": "以色列电商/网店：官网「עמוד הבית - פאל ווינטק מערכות בע\"מ」（he-IL）；产品页：ip-monitors-and-audio-products、shop、shop-2、pwk-1000；表内「1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704」；群发 6 次、无回复。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：עמוד הבית - פאל ווינטק מערכות בע\"מ",
+   "quote": "המחירים המוצגים באתר זה הינם כוללים מע\"מ השירותים שלנו לעסקים, בתים ובניינים מערכות בקרת כניסה קרא עוד > התקנת מערכות אינטרקום קרא עוד > מערכת אינטרקום אלחוטית קרא עוד > קודן אינטרקום לבתים פרטיים קרא עוד > פאל ווינטק מערכות בע\"מ חברת פאל ו",
+   "url": "https://palwintec.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 palwintec.com，语言 he-IL，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "以色列",
+  "contact": "efi@palwintec.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://palwintec.com/）",
+  "官网公开邮箱：info@palwintec.com",
+  "用户表兴趣/备注：1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Efi, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

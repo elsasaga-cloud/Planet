@@ -1,0 +1,59 @@
+{
+ "code": "SB-195",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bome.com，快照 2026-10-21）",
+ "summary": "德国制造商（同行或 OEM 客户待核）：官网「Bome Software – MIDI Software and Hardware」（en-US）；品类词：无线 / WiFi；产品页：products、bmidi、sendsx、bomebox；表内「5电口板子；49 - 89 - 45219248 加不上 2014年使用国际站；5电口板子 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
+ "type": "制造商（同行或 OEM 客户待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Bome Software – MIDI Software and Hardware；品类词 无线 / WiFi",
+   "quote": "Bome Software is a manufacturer of software and hardware for music production on stage and studio. Our main focus is on MIDI control and MIDI networking,",
+   "url": "https://www.bome.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "5电口板子；49 - 89 - 45219248 加不上 2014年使用国际站；5电口板子 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 bome.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "无线 / WiFi"
+ ],
+ "channels": {
+  "role": "制造商（同行或 OEM 客户待核）",
+  "region": "德国",
+  "contact": "alibb@bome.com、florian.bomers@bome.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.bome.com/）",
+  "用户表兴趣/备注：5电口板子；49 - 89 - 45219248 加不上 2014年使用国际站；5电口板子 / from: 阿里巴巴RFQ"
+ ],
+ "risks": [
+  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+ ],
+ "saga_fit": {
+  "p1": "STC-448DGGPM",
+  "tier": 30,
+  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Florian, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

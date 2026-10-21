@@ -1,0 +1,59 @@
+{
+ "code": "SB-405",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（murrelektronik.de，快照 2026-10-21）",
+ "summary": "德国工业自动化/IoT 方案商：官网「Wir sind Experte für Automatisierungslösungen | Murrelektronik」（de）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：IP69K、IMPACT67；表内「电口」；群发 7 次、无回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Wir sind Experte für Automatisierungslösungen | Murrelektronik；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik. Erfahren sie hier mehr über uns und unsere Lösungen.",
+   "url": "https://my.murrelektronik.com/home/de",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "德国",
+  "contact": "shop@murrelektronik.de"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://my.murrelektronik.com/home/de）",
+  "官网公开邮箱：info@murrelektronik.de",
+  "用户表兴趣/备注：电口"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

@@ -1,0 +1,59 @@
+{
+ "code": "SB-1003",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（technopc.com.tr，快照 2026-10-21）",
+ "summary": "土耳其系统集成/工程商：官网「Technopc」（tr-TR）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：TPN14AW、TM-T10EA、TB154、TP-PRO-N100；表内「工业POE；工业POE 买的ewind的」；群发 2 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Technopc；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Technopc",
+   "url": "https://technopc.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业POE；工业POE 买的ewind的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "土耳其",
+  "contact": "info@technopc.com.tr、mithat.yucel@technopc.com.tr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://technopc.com.tr/）",
+  "官网公开邮箱：info@technopc.com.tr、teknik@technopc.com.tr",
+  "用户表兴趣/备注：工业POE；工业POE 买的ewind的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Mithat, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

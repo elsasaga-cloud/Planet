@@ -1,0 +1,61 @@
+{
+ "code": "SB-890",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（aurcore.net，快照 2026-10-21）",
+ "summary": "美国工业自动化/IoT 方案商：官网「AurCore Technology」（en）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28、AES8001、SFP28、AIS4001P；表内「DC Switch 常规的Switch」；表内未见跟进记录。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：AurCore Technology；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "AurCore Technology delivers high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S., scaled for the world.",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "DC Switch 常规的Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "数据中心 / 企业 IT",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "美国",
+  "contact": "bryan@aurcore.net、kyle.yu@aurcore.net"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.aurcore.net/）",
+  "官网公开邮箱：info@aurcore.net",
+  "用户表兴趣/备注：DC Switch 常规的Switch"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 25,
+  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Bryan, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

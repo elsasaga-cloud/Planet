@@ -2,7 +2,7 @@
 
 > **评级 B**　|　新加坡　|　档案编号 `SB-578`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 7 次（2025-03-20 → 2025-10-20）　|　**所在清单**：A优质名单(Singapore)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络/安防经销或集成（官网未见角色词，待核）（推断）　|　**历史关系**：推送 7 次（2025-03-20 → 2025-10-20）　|　**所在清单**：A优质名单(Singapore)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-578
@@ -12,7 +12,7 @@ score: 37
 country: 新加坡
 region: 亚太
 website: rapsodo.com
-type: 经销/集成（类型待核）
+type: 网络/安防经销或集成（官网未见角色词，待核）
 tier_tags: ["A优质名单(Singapore)"]
 deal: no
 replies: 0
@@ -20,8 +20,8 @@ followups: 7
 first_contact: 2025-03-20
 last_contact: 2025-10-20
 p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：新加坡的经销/集成（类型待核）；兴趣/在卖：问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的
+- **是谁**：新加坡网络/安防经销或集成（官网未见角色词，待核）：官网「Rapsodo® - Sports Performance & Analytics Technology」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；产品页：sitemap_products_1.xml?from=732817391630、keys-to-productive-golf-practice-less-co、rapsodo-launches-new-high-speed-slow-mot、rapsodo-mobile-launch-monitor-wins-ing-p；表内「问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-」；群发 7 次、无回复。（调研 2026-10-21；表内兴趣：问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-20 → 2025-10-20）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Rapsodo Pte ltd | 事实（用户表） |
 | 国家 | 新加坡 | 事实（用户表）|
 | 网站/域名 | rapsodo.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 网络/安防经销或集成（官网未见角色词，待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Kelvin Yeo / Engineering Manager | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的 | 事实（用户表） |
@@ -54,7 +54,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-578.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（rapsodo.com，快照 2026-10-21）
+- **是谁**：新加坡网络/安防经销或集成（官网未见角色词，待核）：官网「Rapsodo® - Sports Performance & Analytics Technology」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；产品页：sitemap_products_1.xml?from=732817391630、keys-to-productive-golf-practice-less-co、rapsodo-launches-new-high-speed-slow-mot、rapsodo-mobile-launch-monitor-wins-ing-p；表内「问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-」；群发 7 次、无回复。
+- **类型**：网络/安防经销或集成（官网未见角色词，待核）
+- **【官网快照】官网标题：Rapsodo® - Sports Performance & Analytics Technology；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
+  > Launch and flight monitors for baseball, softball and golf that are affordable, portable and easy to use backed by data-driven technology trusted by the best players in the game. Play without limits with Rapsodo®
+  > 来源：https://rapsodo.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-05, Singapore 139964
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 新加坡 |
+| 其他 | 官网 rapsodo.com，语言 en-US，快照状态 ok；角色判定来源：待核 |
+
+- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；网络交换 / PoE
+- **触达通道（公开）**：role: 网络/安防经销或集成（官网未见角色词，待核）；region: 新加坡；contact: kelvin.yeo@rapsodo.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://rapsodo.com/）
+  - 官网公开邮箱：sales@rapsodo.com
+  - 用户表兴趣/备注：问工业交换机是否为L2，光口速率 给名片时好像说是给他朋友问的；65-9649 9726 地址：Blk 20 Ayer Rajah Crescent, #08-05, Singapore 139964
+- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Kelvin, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -117,9 +143,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/安防经销或集成（官网未见角色词，待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -129,7 +155,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -137,7 +163,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -161,7 +187,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -171,9 +196,9 @@ updated: 2026-10-21
 ```text
 Hi Kelvin,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Kelvin, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

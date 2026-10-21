@@ -1,0 +1,65 @@
+{
+ "code": "SB-351",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（canacctv.com，快照 2026-10-21）",
+ "summary": "加拿大安防集成/经销：官网「CANACCTV – Supply for Video Surveillance」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Hikvision；站内型号：PA-5386、HK-8144、PA-531612、PA-531612B；表内「主要是CCTV 少量商业POE」；群发 15 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：CANACCTV – Supply for Video Surveillance；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "BEST SELLER；CCTV Pro-Monitor 24″ Up to 1080P Built-in Speakers + Wall mount；CHE-66B (FullHD HDMI/USB KVM Extender Over a CAT.5e cable up to 60M)；DB-35-WF (AI WiFi Doorbell ) 5MP；HE60 (Finger size HDMI Extender 1080P Over a CAT.5e cable up t",
+   "url": "https://canacctv.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是CCTV 少量商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "加拿大",
+  "contact": "admin@canacctv.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://canacctv.com/）",
+  "安防品牌：Hikvision → PoE 配套切入",
+  "用户表兴趣/备注：主要是CCTV 少量商业POE"
+ ],
+ "risks": [
+  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Hikvision lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

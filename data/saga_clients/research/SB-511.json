@@ -1,0 +1,58 @@
+{
+ "code": "SB-511",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（257.cz，快照 2026-10-21）",
+ "summary": "塞尔维亚网络/安防经销或集成（官网未见角色词，待核）：官网「257.cz - DomÃ©ny, expirovanÃ© domÃ©ny」；表内「几个有名气的牌子 工业FS」；群发 8 次、无回复。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：257.cz - DomÃ©ny, expirovanÃ© domÃ©ny",
+   "quote": "ExpirovanÃ© domÃ©ny .cz",
+   "url": "https://257.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "几个有名气的牌子 工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "塞尔维亚",
+  "other": "官网 257.cz，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "塞尔维亚",
+  "contact": "office@ep-solutions.rs"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://257.cz/）",
+  "官网公开邮箱：abuse@257.cz、root@257.cz",
+  "用户表兴趣/备注：几个有名气的牌子 工业FS"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

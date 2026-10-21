@@ -1,0 +1,65 @@
+{
+ "code": "SB-533",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（elfcams.com，快照 2026-10-21）",
+ "summary": "法国系统集成/工程商：官网「Elfcam | Votre spécialiste en équipements fibre optique et réseau」（fr-FR）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；站内品牌：Cisco；站内型号：FR36844111856、FR72942871351、ES00284989993、ITN0078120C；表内「商业POE 外壳普遍一般」；群发 8 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Elfcam | Votre spécialiste en équipements fibre optique et réseau；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Câbles fibre optique, SFP, Ethernet Cat6A–Cat8 et accessoires Starlink testés en laboratoire. Compatible tous fabricants. Expédition Europe, retours 30 jours.",
+   "url": "https://www.elfcams.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE 外壳普遍一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "官网 elfcams.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "电信 / FTTH / ISP 设备",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "法国",
+  "contact": "contact@elfcams.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.elfcams.com/）",
+  "官网公开邮箱：contact@elfcams.com、sav@elfcams.com",
+  "用户表兴趣/备注：商业POE 外壳普遍一般"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Franck, alongside the Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

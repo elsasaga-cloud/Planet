@@ -1,0 +1,64 @@
+{
+ "code": "SB-628",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（hmesolutions.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚系统集成/工程商：官网「Next Gen Mining | Fleet Management System | Asset Insight | Vital Data Link | HME Solution」（en）；品类词：工业自动化 / OT 网络 / 无线 / WiFi；站内品牌：Ubiquiti；表内「升压5口 / from: 阿里巴巴询盘」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Next Gen Mining | Fleet Management System | Asset Insight | Vital Data Link | HME Solution；品类词 工业自动化 / OT 网络 / 无线 / WiFi",
+   "quote": "At HME Solutions, we are changing Fleet Management for miners globally with AI and FMS Live™—our next-generation Fleet Management System built for both open-pit and underground environments. Unlike fragmented solutions that require multiple",
+   "url": "https://www.hmesolutions.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "升压5口 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 hmesolutions.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "无线 / WiFi"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "澳大利亚",
+  "contact": "info@hmesolutions.com.au"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.hmesolutions.com.au/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "官网公开邮箱：info@hmesolutions.com.au",
+  "用户表兴趣/备注：升压5口 / from: 阿里巴巴询盘"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：系统集成/工程商→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Todd, alongside the Ubiquiti lines you carry, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

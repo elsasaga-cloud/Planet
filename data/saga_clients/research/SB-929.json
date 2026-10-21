@@ -1,0 +1,61 @@
+{
+ "code": "SB-929",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（luxmediaplan.de，快照 2026-10-21）",
+ "summary": "德国网络/安防经销或集成（官网未见角色词，待核）：官网「LMP Lux Media Plan」；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：HD1200、RS232；表内「多功能」；群发 8 次、无回复。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：LMP Lux Media Plan；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Check the news for amazing boxes & the future of CERBERUS 4K.",
+   "url": "https://luxmediaplan.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "多功能",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 luxmediaplan.de，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "德国",
+  "contact": "friedel@luxmediaplan.de"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://luxmediaplan.de/）",
+  "官网公开邮箱：info@luxmediaplan.de",
+  "用户表兴趣/备注：多功能"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Friedel, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

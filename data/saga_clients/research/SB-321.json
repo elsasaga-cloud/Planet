@@ -1,0 +1,67 @@
+{
+ "code": "SB-321",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（maintechconnect.com，快照 2026-10-21）",
+ "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Main Tech Connect – Maintechconnect.com」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Intellinet；站内型号：SFP28、IPS-16GM02-518W、IPS-24GM02-518W；表内「看着像是深圳公司的外壳 自己的logo/型号 产品较少」；群发 23 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [
+  "Intellinet"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Main Tech Connect – Maintechconnect.com；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Main Tech Connect is your one-stop-shop for computer and networking accessories, audio and video products, TV mounts, barcode scanners, and networking switches and a vast selection of PoE Power over Ethernet products.",
+   "url": "https://maintechconnect.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 maintechconnect.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "美国",
+  "contact": "sales@maintechconnect.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://maintechconnect.com/）",
+  "在售同口型交换品牌：Intellinet → 直接对位替换",
+  "官网公开邮箱：aschlieck@icintracom.com、sales@maintechconnect.com、u003easchlieck@icintracom.com",
+  "用户表兴趣/备注：看着像是深圳公司的外壳 自己的logo/型号 产品较少"
+ ],
+ "risks": [
+  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "官网快照对位：工业/自动化词频 17、PoE 199 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Intellinet lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

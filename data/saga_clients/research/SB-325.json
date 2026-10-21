@@ -1,0 +1,60 @@
+{
+ "code": "SB-325",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（th-it.com，快照 2026-10-21）",
+ "summary": "马来西亚系统集成/工程商：官网「Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server 」（en）；品类词：无线 / WiFi；产品页：refurbish-product；表内「商业POE；邮件中有详细的联系信息」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi",
+   "quote": "Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.",
+   "url": "https://www.th-it.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "马来西亚",
+  "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "无线 / WiFi"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "马来西亚",
+  "contact": "inquiry@th-it.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.th-it.com/）",
+  "官网公开邮箱：inquiry@th-it.com",
+  "用户表兴趣/备注：商业POE；邮件中有详细的联系信息"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Lee, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

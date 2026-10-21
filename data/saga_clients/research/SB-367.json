@@ -1,0 +1,66 @@
+{
+ "code": "SB-367",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（petawise.com，快照 2026-10-21）",
+ "summary": "美国系统集成/工程商：官网「Petawise | Best cameras in Ontario | Best cameras in Canada」（en-US）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Uniview、Ruijie；产品页：poe-switch、switch、ip-cameras、hybrid-nvr；表内「全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonert」；群发 18 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Uniview",
+  "Ruijie"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Petawise | Best cameras in Ontario | Best cameras in Canada；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester.",
+   "url": "https://petawise.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-category/PoE-solutions/",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "美国",
+  "contact": "sales@petawise.com、johnk@petawise.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://petawise.com/）",
+  "在售同口型交换品牌：Ruijie → 直接对位替换",
+  "安防品牌：Uniview → PoE 配套切入",
+  "官网公开邮箱：sales@petawise.com",
+  "用户表兴趣/备注：全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-ca"
+ ],
+ "risks": [
+  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "John, alongside the Uniview / Ruijie lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

@@ -1,0 +1,68 @@
+{
+ "code": "SB-836",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（groundcontrol.com，快照 2026-10-21）",
+ "summary": "英国制造商（同行或 OEM 客户待核）：官网「Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control」（en-US）；品类词：网络交换 / PoE；产品页：rudics-vs-certus-100-time-to-switch、selecting-the-right-solution-ready-for-t、calling-uk-utility-providersget-switched、product；表内「PoE配件 Elink的」；群发 15 次、无回复。",
+ "type": "制造商（同行或 OEM 客户待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control",
+   "quote": "We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs. Discover our range of solutions.",
+   "url": "https://www.groundcontrol.com:443/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "PoE配件 Elink的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control；品类词 网络交换 / PoE",
+   "quote": "We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs. Discover our range of solutions.",
+   "url": "https://www.groundcontrol.com:443/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "制造商（同行或 OEM 客户待核）",
+  "region": "英国",
+  "contact": "hello@groundcontrol.com、scotty.thibodeaux@groundcontrol.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.groundcontrol.com:443/）",
+  "官网公开邮箱：hello@groundcontrol.com",
+  "用户表兴趣/备注：PoE配件 Elink的"
+ ],
+ "risks": [
+  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）",
+  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Scotty, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

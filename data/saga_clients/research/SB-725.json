@@ -1,0 +1,67 @@
+{
+ "code": "SB-725",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（pandacomdirekt.de，快照 2026-10-21）",
+ "summary": "德国系统集成/工程商：官网「Nets get connected! - Pan Dacom Direkt」（de）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Cisco、Ubiquiti；站内型号：SPEED-OTS-5000、STM-1、QSFP28、STM-4；表内「Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153」；群发 2 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Nets get connected! - Pan Dacom Direkt；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "PAN DACOM DIREKT | Ihr Spezialist für komplexe Übertragungsnetzwerke in Deieich bei Frankfurt am Main. Wir planen und realisieren: WDM-Lösungen, Richtfunk, uvm.",
+   "url": "https://www.pandacomdirekt.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 pandacomdirekt.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "电信 / FTTH / ISP 设备",
+  "无线 / WiFi",
+  "数据中心 / 企业 IT",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "德国",
+  "contact": "foerster@pandacomdirekt.de、foerster@pandacom.de"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.pandacomdirekt.de/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "用户表兴趣/备注：Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）"
+ },
+ "email_hook": "Markus, alongside the Cisco / Ubiquiti lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

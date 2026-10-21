@@ -1,0 +1,65 @@
+{
+ "code": "SB-428",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bettinivideo.com，快照 2026-10-21）",
+ "summary": "意大利安防集成/经销：官网「BETTINI | Specializes in providing comprehensive video surveillance solutions.」（en-GB）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Milesight；站内型号：MI-1506925、IT15090000009003、TB212EHA52-I、TD361EHA52-I；表内「用的ONV的 直接带标卖的 还有Comnet的」；群发 13 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [
+  "Milesight"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：BETTINI | Specializes in providing comprehensive video surveillance solutions.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand.",
+   "url": "https://www.bettinivideo.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "用的ONV的 直接带标卖的 还有Comnet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 bettinivideo.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "意大利",
+  "contact": "info@bettinivideo.com、walter.bettini@bettinivideo.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.bettinivideo.com/en/）",
+  "安防品牌：Milesight → PoE 配套切入",
+  "官网公开邮箱：info@bettinivideo.com",
+  "用户表兴趣/备注：用的ONV的 直接带标卖的 还有Comnet的"
+ ],
+ "risks": [
+  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "官网快照对位：PoE 词频 9、监控 271 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：安防集成/经销→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Walter, alongside the Milesight lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

@@ -1,0 +1,61 @@
+{
+ "code": "SB-1180",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dustin.fi，快照 2026-10-21）",
+ "summary": "芬兰电商/网店：官网「Dolphin Computers Limited」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：WIN-11、UX363EA、SE2219HX、EP-325；表内「planet；很多BTON的商业POE 也卖一些台湾牌子的产品」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Dolphin Computers Limited；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Featured Categories；Top Products Categories；Best Offer；Featured Products；​Best Selling Products；Discounted Products",
+   "url": "https://www.dolphin.com.bd/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "planet；很多BTON的商业POE 也卖一些台湾牌子的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "芬兰",
+  "other": "官网 dustin.fi，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "芬兰",
+  "contact": "info@dolphin.com.bd、asiakaspalvelu@dustin.fi"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.dolphin.com.bd/）",
+  "用户表兴趣/备注：planet；很多BTON的商业POE 也卖一些台湾牌子的产品"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

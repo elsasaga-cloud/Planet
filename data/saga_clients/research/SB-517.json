@@ -1,0 +1,58 @@
+{
+ "code": "SB-517",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kyber-e.com，快照 2026-10-21）",
+ "summary": "美国电商/网店：官网「Kyber」（en）；品类词：布线 / 线缆；产品页：all-products；表内「5电口」；群发 8 次、无回复。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Kyber；品类词 布线 / 线缆",
+   "quote": "Innovative engineering kits and tools",
+   "url": "https://www.kyber-e.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "5电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 kyber-e.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "布线 / 线缆"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "美国",
+  "contact": "justin@kyber-e.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.kyber-e.com/）",
+  "官网公开邮箱：info@kyber-e.com、info@my-domain.com",
+  "用户表兴趣/备注：5电口"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：电商/网店→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Justin, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

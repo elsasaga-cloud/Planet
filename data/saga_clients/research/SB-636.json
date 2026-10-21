@@ -1,0 +1,61 @@
+{
+ "code": "SB-636",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cozzmic.com，快照 2026-10-21）",
+ "summary": "加拿大安防集成/经销：官网「Cozzmic Communications & Security | Trusted Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；表内「安防」；表内未见跟进记录。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Cozzmic Communications & Security | Trusted Solutions；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "Cozzmic Offers Seamless Telecommunications Solutions for Businesses. Enhance Communication, Security, and Infrastructure for Your Business",
+   "url": "https://cozzmic.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "安防",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "加拿大",
+  "other": "官网 cozzmic.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "电信 / FTTH / ISP 设备",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "加拿大",
+  "contact": "sales@cozzmic.com、sachinders@cozzmic.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://cozzmic.com/）",
+  "用户表兴趣/备注：安防"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "官网快照对位：电信/FTTH 词频 5 → 汇聚 24 GE + 4×10G（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Sachinder, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

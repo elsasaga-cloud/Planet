@@ -1,0 +1,64 @@
+{
+ "code": "SB-418",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ctcu.com.tw，快照 2026-10-21）",
+ "summary": "台湾工业自动化/IoT 方案商：官网「主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。」（zh-TW）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：EN50155、FRM220、EN45545-2、QSW-4624CM；表内「和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.」；群发 9 次、有回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體開發系統遵循資安管理規範 IE",
+   "url": "https://www.ctcu.com/zh-TW/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "台湾",
+  "other": "官网 ctcu.com.tw，语言 zh-TW，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "电信 / FTTH / ISP 设备",
+  "数据中心 / 企业 IT",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "台湾",
+  "contact": "micro-chang@ctcu.com.tw、ctcgmgroup@ctcu.com.tw"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.ctcu.com/zh-TW/）",
+  "官网公开邮箱：sales@ctcu.com",
+  "用户表兴趣/备注：和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）"
+ },
+ "email_hook": "Gary, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

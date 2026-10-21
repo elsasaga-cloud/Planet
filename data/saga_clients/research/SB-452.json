@@ -1,0 +1,63 @@
+{
+ "code": "SB-452",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ninhthanh.com，快照 2026-10-21）",
+ "summary": "越南分销商/经销商：官网「NINH THANH PRODUCTION AND TRADING CO., LTD.」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Aruba；表内「商业千兆1光4电 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Aruba"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：NINH THANH PRODUCTION AND TRADING CO., LTD.；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "Ninh Thanh",
+   "url": "https://ninhthanh.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业千兆1光4电 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "越南",
+  "other": "官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "电信 / FTTH / ISP 设备",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "越南",
+  "contact": "dinhtu.vu@ninhthanh.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://ninhthanh.com/）",
+  "用户表兴趣/备注：商业千兆1光4电 / from: 阿里巴巴RFQ"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：分销商/经销商→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "DinhTu, alongside the Aruba lines you carry, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

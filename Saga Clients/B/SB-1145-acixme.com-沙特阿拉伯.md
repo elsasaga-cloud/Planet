@@ -21,7 +21,7 @@ first_contact: 2025-09-23
 last_contact: 2025-10-27
 p1: STI-280GE
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯的安防集成/经销；兴趣/在卖：有Utepo的；主要是CCTV；提到的品牌：Utepo
+- **是谁**：沙特阿拉伯安防集成/经销：官网「Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME」；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；产品页：products、lpr-system、parking-barrier-gate、pedestrian-access-gate；表内「有Utepo的；主要是CCTV」；群发 2 次、无回复。（调研 2026-10-21；表内兴趣：有Utepo的；主要是CCTV）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-23 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-280GE — 官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +64,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1145.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（acixme.com，快照 2026-10-21）
+- **是谁**：沙特阿拉伯安防集成/经销：官网「Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME」；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；产品页：products、lpr-system、parking-barrier-gate、pedestrian-access-gate；表内「有Utepo的；主要是CCTV」；群发 2 次、无回复。
+- **类型**：安防集成/经销
+- **【官网快照】官网标题：Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT**
+  > ACIX ME provides advanced access control systems in the UAE, offering scalable and fully integrated security solutions designed to protect businesses, people, and critical assets.
+  > 来源：https://www.acixme.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 有Utepo的；主要是CCTV
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 沙特阿拉伯 |
+| 其他 | 官网 acixme.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+
+- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；数据中心 / 企业 IT
+- **触达通道（公开）**：role: 安防集成/经销；region: 沙特阿拉伯；contact: sales@acixme.com、dipesh.p@acixme.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://www.acixme.com/）
+  - 官网公开邮箱：sales@acixme.com
+  - 用户表兴趣/备注：有Utepo的；主要是CCTV
+- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
+- **Saga 对位结论**：P1 STI-280GE（20% 档）——官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Dipesh, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -129,7 +155,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280GE | 官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手 | $46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STI-280GE | 深挖对位：官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -174,12 +200,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Dipesh,
+
+Picking up our earlier exchange about PoE / industrial switches. Dipesh, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

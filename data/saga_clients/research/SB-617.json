@@ -1,0 +1,64 @@
+{
+ "code": "SB-617",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（optokon.pl，快照 2026-10-21）",
+ "summary": "波兰品牌商/贴牌需求（OEM/ODM）：官网「Optokon Zakład Światłowodowy - światłowody, kable światłowodowe i akcesoria.」（pl）；品类词：电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco；站内型号：LMSW-E1、OFT-920、LS-800、PM-800-G；表内「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；群发 16 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Optokon Zakład Światłowodowy - światłowody, kable światłowodowe i akcesoria.；品类词 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "W naszej ofercie znajdą Państwo wszystko do światłowodów: kable światłowodowe, złącza, patchcordy, adaptery, tłumiki, sprzęgacze, przełącznice, mierniki, reflektometry i wiele innych niezbędnych akcesoriów.",
+   "url": "https://www.optokon.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 optokon.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "电信 / FTTH / ISP 设备",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "波兰",
+  "contact": "pytlak@optokon.com、info@optokon.ua"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.optokon.pl/）",
+  "官网公开邮箱：biuro@optokon.pl、nbiuro@optokon.pl",
+  "用户表兴趣/备注：SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics"
+ ],
+ "risks": [
+  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Pytlak, alongside the Cisco lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

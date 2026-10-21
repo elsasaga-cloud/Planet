@@ -1,0 +1,62 @@
+{
+ "code": "SB-413",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（stgm.com.tr，快照 2026-10-21）",
+ "summary": "土耳其工业自动化/IoT 方案商：官网「STG Engineering」（en-US）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco；站内型号：LAD-208、MIL-STD-810G、HDMI-ARINC818、MIL-STD-810H；表内「Cisco的工业交换机」；群发 2 次、无回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：STG Engineering；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Reliable Technology；STG Engineering；Remote Controlled Weapon Station；43″ Display；MULTI FUNCTION OPERATOR CONSOLES；Remote Firing Unit",
+   "url": "https://www.stgm.com.tr/en/home/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Cisco的工业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 stgm.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "土耳其",
+  "contact": "info@stgm.com.tr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.stgm.com.tr/en/home/）",
+  "官网公开邮箱：info@stgm.com.tr、test@stgm.com.tr",
+  "用户表兴趣/备注：Cisco的工业交换机"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Cisco lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

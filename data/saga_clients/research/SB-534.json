@@ -1,0 +1,71 @@
+{
+ "code": "SB-534",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（escadtrade.cz，快照 2026-10-21）",
+ "summary": "捷克分销商/经销商：官网「Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery」（cs）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Hikvision；站内型号：A3Z2812CS-MPWIR、A4Z1214CS-MPIR、AG3Z2812FCS-MPWIR-31、AG3Z2812KCS-MPWIR-V31；表内「卖几个有名牌子的 MILESIGHT」；群发 8 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi",
+   "quote": "Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery",
+   "url": "https://www.escadtrade.cz:443/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "卖几个有名牌子的 MILESIGHT",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery",
+   "url": "https://www.escadtrade.cz:443/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 escadtrade.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "捷克",
+  "contact": "obchod@escadtrade.cz"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.escadtrade.cz:443/）",
+  "安防品牌：Hikvision → PoE 配套切入",
+  "官网公开邮箱：benes@escadtrade.cz、faktury@escadtrade.cz、jitka@escadtrade.cz",
+  "用户表兴趣/备注：卖几个有名牌子的 MILESIGHT",
+  "表内早期 AI 描述（未核实）：捷克安防设备分销商，主营IP摄像机、监控系统及网络设备，PoE交换机为CCTV配套产品"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Hikvision lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

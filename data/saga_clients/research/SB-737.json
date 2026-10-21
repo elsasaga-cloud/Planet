@@ -1,0 +1,58 @@
+{
+ "code": "SB-737",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（switchio.com，快照 2026-10-21）",
+ "summary": "捷克安防集成/经销：官网「Payment Orchestration for Merchants | Switchio」（en-US）；品类词：网络交换 / PoE；产品页：switchio-expands-its-product-leadership-、home2、imprint；表内「public transport」；群发 4 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Payment Orchestration for Merchants | Switchio；品类词 网络交换 / PoE",
+   "quote": "Start optimizing your payments today with Switchio, the leading Payment Orchestration Platform for global businesses.",
+   "url": "https://switchio.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "public transport",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "捷克",
+  "other": "官网 switchio.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "捷克",
+  "contact": "info@switchio.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://switchio.com/）",
+  "官网公开邮箱：ababic@switchio.com、abigler@switchio.com、amanasova@switchio.com",
+  "用户表兴趣/备注：public transport"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "官网快照对位：交换机词频 131、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

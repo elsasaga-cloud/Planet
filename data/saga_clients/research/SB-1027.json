@@ -1,0 +1,60 @@
+{
+ "code": "SB-1027",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（hti.ly，快照 2026-10-21）",
+ "summary": "利比亚系统集成/工程商：官网「شركة الحداثة للإتصالات والتقنية – أعمال」（ar）；品类词：光纤 / 媒体转换；表内「Bypass模块 / from: 阿里巴巴询盘」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：شركة الحداثة للإتصالات والتقنية – أعمال；品类词 光纤 / 媒体转换",
+   "quote": "نتطلع للتوسع بأحدث الحلول لنمو الأعمال في كامل البلاد；2000；أعمال；25000；منازل；100",
+   "url": "https://hti.ly/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Bypass模块 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "利比亚",
+  "other": "官网 hti.ly，语言 ar，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤 / 媒体转换"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "利比亚",
+  "contact": "zied@hti.ly"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://hti.ly/）",
+  "官网公开邮箱：contact@hti.ly",
+  "用户表兴趣/备注：Bypass模块 / from: 阿里巴巴询盘"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）"
+ },
+ "email_hook": "Ziad, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

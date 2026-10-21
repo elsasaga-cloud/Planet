@@ -1,0 +1,67 @@
+{
+ "code": "SB-145",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（een.com，快照 2026-10-21）",
+ "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「AI Video Surveillance & Proactive security | Eagle Eye Networks」（en-US）；品类词：安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Bosch、Axis；站内型号：RJ-45、SW05M、SW26M；表内「自己的logo 商业FS CCTV 一些周边产品」；群发 10 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [
+  "Bosch",
+  "Axis"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：AI Video Surveillance & Proactive security | Eagle Eye Networks；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. Request a demo today.",
+   "url": "https://www.een.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "自己的logo 商业FS CCTV 一些周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 een.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "数据中心 / 企业 IT",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "美国",
+  "contact": "sales@een.com、jaime@alludolearning.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.een.com/）",
+  "安防品牌：Bosch、Axis → PoE 配套切入",
+  "官网公开邮箱：emeasales@een.com、japansales@een.com、sales@een.com",
+  "用户表兴趣/备注：自己的logo 商业FS CCTV 一些周边产品"
+ ],
+ "risks": [
+  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Jaime, alongside the Bosch / Axis lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

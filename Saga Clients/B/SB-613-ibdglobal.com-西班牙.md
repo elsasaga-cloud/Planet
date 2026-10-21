@@ -2,7 +2,7 @@
 
 > **评级 B**　|　西班牙　|　档案编号 `SB-613`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 2 次（2025-09-23 → 2025-11-06）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商/经销商（推断）　|　**历史关系**：推送 2 次（2025-09-23 → 2025-11-06）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-613
@@ -12,7 +12,7 @@ score: 36
 country: 西班牙
 region: 欧洲
 website: ibdglobal.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 分销商/经销商
 tier_tags: ["A优质名单(Spain)", "AI评估(ES)·DONE"]
 deal: no
 replies: 0
@@ -20,8 +20,8 @@ followups: 2
 first_contact: 2025-09-23
 last_contact: 2025-11-06
 p1: STC-424DGGPM-280W
-price_tier: 30%
-research: pending
+price_tier: 20%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：西班牙的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：有Utepo的；提到的品牌：Utepo
+- **是谁**：西班牙分销商/经销商：官网「Soluciones Profesionales de Seguridad | IBD Global」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Dahua、TP-Link、Teltonika、Bosch、Ajax；站内型号：AX1800、SG3452XMPP、SM5110-SR、EAP660；表内「有Utepo的」；群发 2 次、无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-23 → 2025-11-06）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | ibdglobal.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 西班牙 | 事实（用户表）|
 | 网站/域名 | ibdglobal.com / iptecno.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Jordi Bassa / Owner / Joan Balaguer / Projects & Solutions Director | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 有Utepo的 | 事实（用户表） |
@@ -54,7 +54,36 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-613.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（ibdglobal.com，快照 2026-10-21）
+- **是谁**：西班牙分销商/经销商：官网「Soluciones Profesionales de Seguridad | IBD Global」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Dahua、TP-Link、Teltonika、Bosch、Ajax；站内型号：AX1800、SG3452XMPP、SM5110-SR、EAP660；表内「有Utepo的」；群发 2 次、无回复。
+- **类型**：分销商/经销商
+- **在卖/在用品牌**：Dahua, TP-Link, Teltonika, Bosch, Ajax
+- **【官网快照】官网标题：Soluciones Profesionales de Seguridad | IBD Global；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > IBD Global, distribuidor de soluciones profesionales de seguridad para instaladores e integradores: videovigilancia, intrusión, accesos, incendio, ingeniería y soporte técnico.
+  > 来源：https://www.ibdglobal.com/en（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 有Utepo的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 西班牙 |
+| 其他 | 官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+
+- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
+- **触达通道（公开）**：role: 分销商/经销商；region: 西班牙；contact: info@ibdglobal.com、jordi@iptecno.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://www.ibdglobal.com/en）
+  - 在售同口型交换品牌：TP-Link、Teltonika → 直接对位替换
+  - 安防品牌：Dahua、Bosch、Ajax → PoE 配套切入
+  - 官网公开邮箱：backoffice@ibdglobal.com、info@ibdglobal.com
+  - 用户表兴趣/备注：有Utepo的
+  - 表内早期 AI 描述（未核实）：西班牙安防设备大型分销商，主营CCTV、门禁及视频监控网络设备
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Jordi, alongside the Dahua / TP-Link lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -119,10 +148,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -132,15 +161,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
+- **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -164,7 +193,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -174,9 +202,9 @@ updated: 2026-10-21
 ```text
 Hi Jordi,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jordi, alongside the Dahua / TP-Link lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

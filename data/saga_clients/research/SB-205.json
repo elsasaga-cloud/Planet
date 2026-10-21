@@ -1,0 +1,76 @@
+{
+ "code": "SB-205",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tier1ds.com，快照 2026-10-21）",
+ "summary": "英国系统集成/工程商：官网「Tier1 Data Systems | Your Own IT Solutions Hub」（en）；品类词：数据中心 / 企业 IT / 网络交换 / PoE；站内品牌：Cisco、Ubiquiti、Juniper、Fortinet、D-Link、Huawei；站内型号：GB311899586；表内「Cisco Switch / from: 阿里巴巴RFQ」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Ubiquiti",
+  "Juniper",
+  "Fortinet",
+  "D-Link",
+  "Huawei",
+  "Extreme",
+  "TP-Link",
+  "Netgear",
+  "Lantech",
+  "Teltonika",
+  "Siemens"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Tier1 Data Systems | Your Own IT Solutions Hub；品类词 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "NETWORKING, HARDWARE AND DATA CENTER；YOUR PARTNER IN SPARE PARTS；CONFIGURATIONS；Top Brands；About Us；Sales Process",
+   "url": "https://tier1ds.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Cisco Switch / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 tier1ds.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "数据中心 / 企业 IT",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "英国",
+  "contact": "sales@tier1ds.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://tier1ds.com/）",
+  "在售同口型交换品牌：Ubiquiti、D-Link、TP-Link、Netgear、Teltonika → 直接对位替换",
+  "在售工业网络品牌：Lantech、Siemens → 工业线对位",
+  "官网公开邮箱：sales@tier1ds.com",
+  "用户表兴趣/备注：Cisco Switch / from: 阿里巴巴RFQ"
+ ],
+ "risks": [
+  "企业级品牌为主（Cisco/Juniper/Fortinet）：Saga 白牌只作价格补充线"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Sameer, alongside the Cisco / Ubiquiti lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

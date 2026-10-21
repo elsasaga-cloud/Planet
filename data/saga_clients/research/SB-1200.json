@@ -1,0 +1,67 @@
+{
+ "code": "SB-1200",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（intelbras.com，快照 2026-10-21）",
+ "summary": "巴西品牌商/贴牌需求（OEM/ODM）：官网「Intelbras | Segurança, Conectividade e Energia」（pt-br）；品类词：网络交换 / PoE；产品页：switch-industrial-gerenciavel-poe-si-040、switch-16-portas-fast-ethernet-poe-sf-18、switch-16-portas-fast-ethernet-poe-sf-18、switch-9-portas-fast-ethernet-8-portas-p；表内「Pon 商业 POE配件 MC SFP 没工业FS 自己的logo」；表内未见跟进记录。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Intelbras | Segurança, Conectividade e Energia",
+   "quote": "Presente no Brasil inteiro e em varias partes do mundo, mas sempre perto de você. Conte com a gente para proteger, conectar, aproximar e transformar!",
+   "url": "https://www.intelbras.com/pt-br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Pon 商业 POE配件 MC SFP 没工业FS 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Intelbras | Segurança, Conectividade e Energia；品类词 网络交换 / PoE",
+   "quote": "Presente no Brasil inteiro e em varias partes do mundo, mas sempre perto de você. Conte com a gente para proteger, conectar, aproximar e transformar!",
+   "url": "https://www.intelbras.com/pt-br/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "巴西",
+  "other": "官网 intelbras.com，语言 pt-br，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "巴西",
+  "contact": "vanessa.ramos@intelbras.com.br"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.intelbras.com/pt-br/）",
+  "官网公开邮箱：ejemplo@email.com、example@email.com、exemplo@email.com",
+  "用户表兴趣/备注：Pon 商业 POE配件 MC SFP 没工业FS 自己的logo"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Vanessa, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

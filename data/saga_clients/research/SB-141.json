@@ -1,0 +1,59 @@
+{
+ "code": "SB-141",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ccontrols.de，快照 2026-10-21）",
+ "summary": "德国品牌商/贴牌需求（OEM/ODM）：官网「Contemporary Controls」（de）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：EISK5-GT、RJ-45、EIPE-1、EIPE-2；表内「工业FS MC POE 周边产品 自己的logo」；群发 8 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Contemporary Controls；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Innovative Lösungen；für Gebäudeautomation；Auftragsanfertigungen；Kundenspezifisches Design und Fertigung；Seit 1975；Erfahrung, der Sie vertrauen können",
+   "url": "https://ccontrols.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC POE 周边产品 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 ccontrols.de，语言 de，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "德国",
+  "contact": "info@ccontrols.de"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://ccontrols.de/）",
+  "官网公开邮箱：ccg.info@ccontrols.com、ccg.sales@ccontrols.com、ccg.support@ccontrols.com",
+  "用户表兴趣/备注：工业FS MC POE 周边产品 自己的logo"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

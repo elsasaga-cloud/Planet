@@ -1,0 +1,57 @@
+{
+ "code": "SB-1202",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（intshop.pl，快照 2026-10-21）",
+ "summary": "波兰分销商/经销商：官网「Site en construction」（fr-FR）；表内「工业FS MC SFP 周边产品 销售平台」；表内未见跟进记录。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Site en construction",
+   "quote": "Site en construction",
+   "url": "http://www.noning.pl",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC SFP 周边产品 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 intshop.pl，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "波兰",
+  "contact": "info@noning.pl"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，http://www.noning.pl）",
+  "用户表兴趣/备注：工业FS MC SFP 周边产品 销售平台"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

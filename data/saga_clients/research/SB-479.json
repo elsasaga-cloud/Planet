@@ -1,0 +1,53 @@
+{
+ "code": "SB-479",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（radioteknoloji.com.tr，快照 2026-10-21）",
+ "summary": "土耳其系统集成/工程商：官网「Radio Technology | Future-Shaping Communication Technologies」（tr）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：E6-STE、E6-ST28、E6-ST25、E6-ST18；群发 1 次、无回复。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Radio Technology | Future-Shaping Communication Technologies；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Expert solutions in communication, defense, energy and smart city sectors. Radio systems and data transmission infrastructure since 2015.",
+   "url": "https://www.radioteknoloji.com.tr/en/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 radioteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "土耳其",
+  "contact": "info@radioteknoloji.com.tr、salih.yildirim@radioteknoloji.com.tr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.radioteknoloji.com.tr/en/）"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "官网快照对位：工业/自动化词频 10、PoE 12 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：系统集成/工程商→25%）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Salih, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

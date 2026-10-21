@@ -1,0 +1,68 @@
+{
+ "code": "SB-376",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（winnerintertech.com，快照 2026-10-21）",
+ "summary": "泰国工业自动化/IoT 方案商：官网「Winner Intertech」（th-TH）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Korenix、Moxa；站内型号：EN50121-4、IEEE802、RJ-45、EN50155；表内「主要是巨联的」；群发 6 次、无回复。",
+ "type": "工业自动化/IoT 方案商",
+ "size": "",
+ "brands_seen": [
+  "Korenix",
+  "Moxa"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Winner Intertech；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "ตัวแทนจำหน่าย และ พาร์ทเนอร์ อย่างเป็นทางการ Moxa Adder Robustel Protempis ATcom จำหน่ายสินค้าโดยตรงจากโรงงานผู้ผลิต",
+   "url": "https://www.winnerintertech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是巨联的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "工业自动化/IoT 方案商",
+  "region": "泰国",
+  "contact": "sales01@winnerintertech.com、narathon@winnerintertech.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.winnerintertech.com/）",
+  "在售工业网络品牌：Korenix、Moxa → 工业线对位",
+  "官网公开邮箱：narathon@winnerintertech.com、office@winnerintertech.com、sales-m1@winnerintertech.com",
+  "用户表兴趣/备注：主要是巨联的",
+  "表内早期 AI 描述（未核实）：泰国工业网络设备供应商，主营工业自动化通信设备及工业交换机"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Korenix / Moxa lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

@@ -1,0 +1,60 @@
+{
+ "code": "SB-563",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（telco.com，快照 2026-10-21）",
+ "summary": "美国安防集成/经销：官网「BATM Networks」（en-US）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：XM-8424H、TM-8104、TM-8106、XM-8102；表内「L2/L3 Enterprise Networks」；群发 9 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：BATM Networks；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Telco Systems, a global telecom leader with 40+ years of experience in the design and development of high-performance network communications solutions. With its advanced software and hardware solutions, BATM NetworksBATM Networks provides a",
+   "url": "https://www.telco.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "L2/L3 Enterprise Networks",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 telco.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "数据中心 / 企业 IT",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "美国",
+  "contact": "sales@telco.com、dlee@telco.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.telco.com/）",
+  "用户表兴趣/备注：L2/L3 Enterprise Networks"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 25,
+  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Eran, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

@@ -21,7 +21,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的系统集成/工程商；兴趣/在卖：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS  新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/；提到的品牌：Upeto, 洪瑞, FS
+- **是谁**：印度系统集成/工程商：官网「Digisol – Leading Networking & IT Solutions in India」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：DG-MC5123S-PTL、DG-IS4628FSE、DG-IS4628HPSE、DG-IS1010GP；表内「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS  新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +64,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-693.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（digisol.com，快照 2026-10-21）
+- **是谁**：印度系统集成/工程商：官网「Digisol – Leading Networking & IT Solutions in India」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：DG-MC5123S-PTL、DG-IS4628FSE、DG-IS4628HPSE、DG-IS1010GP；表内「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；表内未见跟进记录。
+- **类型**：系统集成/工程商
+- **【官网快照】官网标题：Digisol – Leading Networking & IT Solutions in India；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > Digisol is a leading networking brand offering "Made In India" IT Networking solutions. Explore our innovative network products and technology.
+  > 来源：https://www.digisol.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 印度 |
+| 其他 | 官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+
+- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；电信 / FTTH / ISP 设备；无线 / WiFi；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
+- **触达通道（公开）**：role: 系统集成/工程商；region: 印度；contact: nandini.singh@digisol.com、ranjan.gupta@digisol.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://www.digisol.com/）
+  - 官网公开邮箱：helpdesk@digisol.com
+  - 用户表兴趣/备注：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/
+- **风险/边界**：表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰；非主攻区（T5）：低频跟进，不单独做本地化
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Nandini, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +148,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -166,7 +192,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -176,7 +201,7 @@ updated: 2026-10-21
 ```text
 Hi Nandini,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Nandini, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Upeto class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

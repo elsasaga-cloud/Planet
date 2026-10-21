@@ -1,0 +1,70 @@
+{
+ "code": "SB-1060",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cleverkey.ru，快照 2026-10-21）",
+ "summary": "俄罗斯系统集成/工程商：官网「Серверное оборудование от Клеверкей Ру - продажа серверов, СХД, сетевого оборудования и ко」（en）；品类词：网络交换 / PoE；站内品牌：Ruijie、Extreme、Juniper、Cisco、Huawei、H3C；站内型号：SR630、DL360、DL380、SR650；表内「有很多知名小品牌的」；表内未见跟进记录。",
+ "type": "系统集成/工程商",
+ "size": "",
+ "brands_seen": [
+  "Ruijie",
+  "Extreme",
+  "Juniper",
+  "Cisco",
+  "Huawei",
+  "H3C",
+  "Allied Telesis"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Серверное оборудование от Клеверкей Ру - продажа серверов, СХД, сетевого оборудования и ко；品类词 网络交换 / PoE",
+   "quote": "Компания Клеверкей РУ CleverKey предлагает серверное оборудование, сетевую инфраструктуру, системы хранения данных, комплектующие IBM, Dell, HP, Cisco, Juniper, Fujitsu, Huawei, Eaton, APC и многих других производителей.",
+   "url": "https://www.cleverkey.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "有很多知名小品牌的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "俄罗斯",
+  "other": "官网 cleverkey.ru，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "系统集成/工程商",
+  "region": "俄罗斯",
+  "contact": "mail@cleverkey.ru"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.cleverkey.ru/）",
+  "在售同口型交换品牌：Ruijie → 直接对位替换",
+  "官网公开邮箱：mail@cleverkey.ru",
+  "用户表兴趣/备注：有很多知名小品牌的"
+ ],
+ "risks": [
+  "企业级品牌为主（Extreme/Juniper/Cisco）：Saga 白牌只作价格补充线",
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Ruijie / Extreme lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

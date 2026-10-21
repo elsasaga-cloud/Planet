@@ -1,0 +1,60 @@
+{
+ "code": "SB-910",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（lorwen.it，快照 2026-10-21）",
+ "summary": "意大利电商/网店：官网「Lorwen - Soluzioni Sicurezza Video e Impianti di Videosorveglianza」（it-IT）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内型号：LW-NVR4KS9C4P、LW-NVR4KT9C4P、LW-NVR12S9C4P、LW-NVR12M9C8P；表内「switch 看着像是丰润达的」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Lorwen - Soluzioni Sicurezza Video e Impianti di Videosorveglianza；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+   "quote": "Lorwen propone un'ampia selezione di NVR, Telecamere IP, XVR e Accessori per impianti di videosorveglianza di alta qualità. Acquista subito online!",
+   "url": "https://lorwen.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "switch 看着像是丰润达的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 lorwen.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "意大利",
+  "contact": "（表内无邮箱）"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://lorwen.it/）",
+  "官网公开邮箱：info@lorwen.it",
+  "用户表兴趣/备注：switch 看着像是丰润达的"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

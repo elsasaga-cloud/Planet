@@ -1,0 +1,68 @@
+{
+ "code": "SB-702",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（g5network.tech，快照 2026-10-21）",
+ "summary": "美国电商/网店：官网「G5 Network Technology | Secondary Market Telecom, Network & IT Hardware」（en-US）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Ubiquiti、Cisco、Fortinet、Juniper；站内型号：AP5202、SPDB-15、AP5405、RJ-45；表内「知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and 」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Fortinet",
+  "Juniper"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：G5 Network Technology | Secondary Market Telecom, Network & IT Hardware；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "G5 Network Technology is a secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin.",
+   "url": "https://g5network.tech/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 g5network.tech，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "布线 / 线缆",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "美国",
+  "contact": "sales@g5network.tech"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://g5network.tech/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "官网公开邮箱：info@g5network.tech、sales@g5network.tech",
+  "用户表兴趣/备注：知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘"
+ ],
+ "risks": [
+  "企业级品牌为主（Cisco/Fortinet/Juniper）：Saga 白牌只作价格补充线"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "官网快照对位：交换机词频 35、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Adam, alongside the Ubiquiti / Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

@@ -1,0 +1,64 @@
+{
+ "code": "SB-545",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（lantronix.com，快照 2026-10-21）",
+ "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Intelligent IoT Solutions - Connect, Compute, Comprehend, Control」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换；产品页：best-kept-secret-video-security-surveill、transition-networks-poe-switches-dms-int、transition-networks-poe-switches-dms-int、need-sfps-with-your-switches-why-getting；表内「商业FS MC 工业FS 工业串口 有一部分是自己的logo」；群发 19 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Intelligent IoT Solutions - Connect, Compute, Comprehend, Control；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "IoT building blocks & gateways, cloud-based device management, automated downtime managers: Lantronix IoT products and services help you connect smart!",
+   "url": "https://www.lantronix.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业FS MC 工业FS 工业串口 有一部分是自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 lantronix.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "工业自动化 / OT 网络",
+  "数据中心 / 企业 IT",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "美国",
+  "contact": "sales@lantronix.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.lantronix.com/）",
+  "官网公开邮箱：logo-tagline@2x.avif",
+  "用户表兴趣/备注：商业FS MC 工业FS 工业串口 有一部分是自己的logo"
+ ],
+ "risks": [
+  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

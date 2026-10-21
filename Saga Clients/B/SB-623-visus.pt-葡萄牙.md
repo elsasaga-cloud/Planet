@@ -21,7 +21,7 @@ first_contact: 2025-06-20
 last_contact: 2025-09-23
 p1: STC-424XGGM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：葡萄牙的安防集成/经销；兴趣/在卖：CCTV为主 有Utepo的；提到的品牌：Utepo
+- **是谁**：葡萄牙安防集成/经销：官网「OPTIVISUS」（en-gb）；品类词：电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Vivotek、Uniview、Ubiquiti；站内型号：CVE-2025-10547、MS9390-EHV、SC9133-RTL、FD9387-FR-V2；表内「CCTV为主 有Utepo的」；群发 4 次、无回复。（调研 2026-10-21；表内兴趣：CCTV为主 有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/葡萄牙；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +64,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-623.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（visus.pt，快照 2026-10-21）
+- **是谁**：葡萄牙安防集成/经销：官网「OPTIVISUS」（en-gb）；品类词：电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Vivotek、Uniview、Ubiquiti；站内型号：CVE-2025-10547、MS9390-EHV、SC9133-RTL、FD9387-FR-V2；表内「CCTV为主 有Utepo的」；群发 4 次、无回复。
+- **类型**：安防集成/经销
+- **在卖/在用品牌**：Vivotek, Uniview, Ubiquiti
+- **【官网快照】官网标题：OPTIVISUS；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE**
+  > OPTIVISUS - Solu��es reais para voz, dados e imagem.；visus telecom；visus video；Notícias & Updates；Telecom；Vídeo
+  > 来源：https://visus.pt/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > CCTV为主 有Utepo的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 葡萄牙 |
+| 其他 | 官网 visus.pt，语言 en-gb，快照状态 ok；角色判定来源：用户表 |
+
+- **业务线**：电信 / FTTH / ISP 设备；网络交换 / PoE
+- **触达通道（公开）**：role: 安防集成/经销；region: 葡萄牙；contact: encomendas@visus.pt、rjorge@visus.pt
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://visus.pt/）
+  - 在售同口型交换品牌：Ubiquiti → 直接对位替换
+  - 安防品牌：Vivotek、Uniview → PoE 配套切入
+  - 官网公开邮箱：cctv@visus.pt、cliente@visus.pt、comercial@visus.pt
+  - 用户表兴趣/备注：CCTV为主 有Utepo的
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：Rui, alongside the Vivotek / Uniview lines you carry, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -128,7 +156,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGM | 官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手 | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 6、交换机 5 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：安防集成/经销→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -173,12 +201,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Rui,
+
+Picking up our earlier exchange about PoE / industrial switches. Rui, alongside the Vivotek / Uniview lines you carry, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

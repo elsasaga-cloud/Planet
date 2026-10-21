@@ -1,0 +1,62 @@
+{
+ "code": "SB-695",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（egesanteknoloji.com.tr，快照 2026-10-21）",
+ "summary": "土耳其分销商/批发商：官网「Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı」（tr）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Hikvision、Ruijie、Extreme、Huawei；站内型号：RG-ES08G-L、CR2032、CXS-4P2U、RG-ES05F；群发 1 次、无回复。",
+ "type": "分销商/批发商",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Ruijie",
+  "Extreme",
+  "Huawei"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "",
+   "url": "https://www.egesanteknoloji.com.tr/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "土耳其",
+  "other": "官网 egesanteknoloji.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/批发商",
+  "region": "土耳其",
+  "contact": "gokhan@egesanteknoloji.com.tr"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.egesanteknoloji.com.tr/）",
+  "在售同口型交换品牌：Ruijie → 直接对位替换",
+  "安防品牌：Hikvision → PoE 配套切入",
+  "官网公开邮箱：isim@domain.com、sim@adres.com、sim@adres.net"
+ ],
+ "risks": [
+  "企业级品牌为主（Extreme/Huawei）：Saga 白牌只作价格补充线"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "官网快照对位：PoE 词频 55、监控 46 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Gokhan, alongside the Hikvision / Ruijie lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

@@ -1,0 +1,57 @@
+{
+ "code": "SB-388",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（elarion.io，快照 2026-10-21）",
+ "summary": "立陶宛电商/网店：官网「Elarion」（en）；表内「无人机模块 / from: Shopify」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Elarion",
+   "quote": "",
+   "url": "https://elarion.io/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "无人机模块 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "立陶宛",
+  "other": "官网 elarion.io，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "（官网无品类词 / 无快照：按表内兴趣）"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "立陶宛",
+  "contact": "kristina@elarion.io"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://elarion.io/）",
+  "用户表兴趣/备注：无人机模块 / from: Shopify"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电商/网店→20%）"
+ },
+ "email_hook": "Kristina, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+}

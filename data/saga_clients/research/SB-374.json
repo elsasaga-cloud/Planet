@@ -1,0 +1,66 @@
+{
+ "code": "SB-374",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tinycontrol.pl，快照 2026-10-21）",
+ "summary": "波兰网络/安防经销或集成（官网未见角色词，待核）：官网「tinycontrol」（en）；品类词：网络交换 / PoE；产品页：poe-switch、poe-switch、poe-switch-4f1g、poe-switch-4f1g；表内「产品比较少 但看着都比较专业；2光10电；下边是客户CC的」；群发 22 次、无回复。",
+ "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：tinycontrol",
+   "quote": "",
+   "url": "https://tinycontrol.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "产品比较少 但看着都比较专业；2光10电；下边是客户CC的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：tinycontrol；品类词 网络交换 / PoE",
+   "quote": "",
+   "url": "https://tinycontrol.pl/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 tinycontrol.pl，语言 en，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "region": "波兰",
+  "contact": "info@tinycontrol.pl、notek@ats.pl"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://tinycontrol.pl/）",
+  "用户表兴趣/备注：产品比较少 但看着都比较专业；2光10电；下边是客户CC的"
+ ],
+ "risks": [
+  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Marcin, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+}

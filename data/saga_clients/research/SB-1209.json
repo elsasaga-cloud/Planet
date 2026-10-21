@@ -1,0 +1,62 @@
+{
+ "code": "SB-1209",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（kamsys.pl，快照 2026-10-21）",
+ "summary": "波兰电商/网店：官网「Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys」（pl-pl）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Dahua；站内型号：RS-485、RJ-11；表内「SFP MC 工业FS VC」；表内未见跟进记录。",
+ "type": "电商/网店",
+ "size": "",
+ "brands_seen": [
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "Szukasz nowoczesnych systemów zabezpieczeń antywłamaniowych i monitoringu? W sklepie internetowym Kamsys znajdziesz najlepsze rozwiązania dla domu i firmy.",
+   "url": "https://www.kamsys.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "SFP MC 工业FS VC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "电商/网店",
+  "region": "波兰",
+  "contact": "sklep@kamsys.pl、wyceny@kamsys.pl"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.kamsys.pl/）",
+  "安防品牌：Dahua → PoE 配套切入",
+  "官网公开邮箱：sklep@kamsys.pl",
+  "用户表兴趣/备注：SFP MC 工业FS VC"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Dahua lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+}

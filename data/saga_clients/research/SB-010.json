@@ -1,0 +1,64 @@
+{
+ "code": "SB-010",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（spacetronik.pl，快照 2026-10-21）",
+ "summary": "波兰品牌商/贴牌需求（OEM/ODM）：官网「Spacetronik.pl - Official Brand Store | Electronics & Technology.」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：SPU-E01、SPS-E27S、SPD-KVM23、SPH-KVM23；表内「洪瑞的 贴了自己的logo；工商Switch」；群发 1 次、无回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Spacetronik.pl - Official Brand Store | Electronics & Technology.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "A complete range of technological, installation, and ergonomic solutions in one place. Everything for a modern home and a professional office. Discover the world of the Spacetronik brand!",
+   "url": "https://spacetronik.pl/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "洪瑞的 贴了自己的logo；工商Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 spacetronik.pl，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "region": "波兰",
+  "contact": "store@spacetronik.eu"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://spacetronik.pl/en/）",
+  "官网公开邮箱：store@spacetronik.eu",
+  "用户表兴趣/备注：洪瑞的 贴了自己的logo；工商Switch"
+ ],
+ "risks": [
+  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+}

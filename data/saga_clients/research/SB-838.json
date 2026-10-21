@@ -1,0 +1,58 @@
+{
+ "code": "SB-838",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ifotec.com，快照 2026-10-21）",
+ "summary": "法国安防集成/经销：官网「Equipements et solutions de transmission sur fibres optiques」（fr-FR）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；产品页：switch-8-ports-poe-inet10x、inet6-switch-4-poe-2-sfp、inet6-switch-6-ports-dont-4-poe、inet4s-secure-industrial-switch；表内「工业FS SFP」；群发 8 次、无回复。",
+ "type": "安防集成/经销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Equipements et solutions de transmission sur fibres optiques；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Depuis 1999, IFOTEC conçoit et fabrique en France des équipements de transmission de signaux sur fibres optiques.",
+   "url": "https://www.ifotec.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "官网 ifotec.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "安防集成/经销",
+  "region": "法国",
+  "contact": "marketing@ifotec.com、gbillet@ifotec.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.ifotec.com/）",
+  "用户表兴趣/备注：工业FS SFP"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+}

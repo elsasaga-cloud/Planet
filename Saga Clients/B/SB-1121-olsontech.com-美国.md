@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-1121`　|　优先级 ★★　|　状态：已推送 11 次·未回复
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 11 次（2025-02-28 → 2025-10-24）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电商/网店（推断）　|　**历史关系**：推送 11 次（2025-02-28 → 2025-10-24）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1121
@@ -12,7 +12,7 @@ score: 26
 country: 美国
 region: 北美
 website: olsontech.com
-type: 经销/集成（类型待核）
+type: 电商/网店
 tier_tags: ["A优质名单(US)"]
 deal: no
 replies: 0
@@ -21,7 +21,7 @@ first_contact: 2025-02-28
 last_contact: 2025-10-24
 p1: STI-110GE
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +29,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：MC WDM模块 光产品
+- **是谁**：美国电商/网店：官网「OlsonTech」（en-US）；品类词：数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：edgeswitch、shop；表内「MC WDM模块 光产品」；群发 11 次、无回复。（调研 2026-10-21；表内兴趣：MC WDM模块 光产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2025-02-28 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | olsontech.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | olsontech.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 富通天下 | 事实（用户表） |
 | 兴趣（Interested in） | MC WDM模块 光产品 | 事实（用户表） |
@@ -54,7 +54,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1121.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（olsontech.com，快照 2026-10-21）
+- **是谁**：美国电商/网店：官网「OlsonTech」（en-US）；品类词：数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：edgeswitch、shop；表内「MC WDM模块 光产品」；群发 11 次、无回复。
+- **类型**：电商/网店
+- **【官网快照】官网标题：OlsonTech；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
+  > This is the homepage of the website
+  > 来源：https://olsontech.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > MC WDM模块 光产品
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 总部/地址 | 美国 |
+| 其他 | 官网 olsontech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+
+- **业务线**：数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
+- **触达通道（公开）**：role: 电商/网店；region: 美国；contact: sales@olsontech.com
+- **近况信号**：
+  - 官网在线（快照 2026-10-21，https://olsontech.com/）
+  - 官网公开邮箱：sales@olsontech.com
+  - 用户表兴趣/备注：MC WDM模块 光产品
+- **风险/边界**：群发 11 次无回复：换角度首触（不再发产品图，只问一个问题）
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -120,7 +146,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -166,7 +192,6 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -176,9 +201,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

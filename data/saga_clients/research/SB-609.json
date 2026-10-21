@@ -1,0 +1,69 @@
+{
+ "code": "SB-609",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bydemes.com，快照 2026-10-21）",
+ "summary": "西班牙分销商/经销商：官网「The leading distributor in security technologies | By Demes Group」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Dahua、Hikvision、Paradox、TP-Link；站内型号：TPLINK-327、PSM150-AC、TPLINK-326、EAP650GP；表内「Wi-tek的工商业swith 也有大华 的；Cudy的」；群发 7 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Dahua",
+  "Hikvision",
+  "Paradox",
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：The leading distributor in security technologies | By Demes Group；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "The leading distributor in security technologies. Wholesaler of video surveillance, security cameras, CCTV, alarm systems, intrusion, access control and fire detection.",
+   "url": "https://bydemes.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Wi-tek的工商业swith 也有大华 的；Cudy的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "西班牙",
+  "other": "官网 bydemes.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "西班牙",
+  "contact": "bydemes@bydemes.com、almacenbcn@bydemes.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://bydemes.com/）",
+  "在售同口型交换品牌：TP-Link → 直接对位替换",
+  "安防品牌：Dahua、Hikvision、Paradox → PoE 配套切入",
+  "官网公开邮箱：bydemes@bydemes.com、canarias@bydemes.com、carolina@bydemes.com",
+  "用户表兴趣/备注：Wi-tek的工商业swith 也有大华 的；Cudy的",
+  "表内早期 AI 描述（未核实）：大型国际安防分销集团，交换机在其官网中更像安防网络配套，不见明确OEM/技术定制需求迹象"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Ricardo, alongside the Dahua / Hikvision lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}

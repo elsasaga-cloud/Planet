@@ -1,0 +1,70 @@
+{
+ "code": "SB-927",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（zenlayer.com，快照 2026-10-21）",
+ "summary": "美国分销商/批发商：官网「Distributed Cloud for AI - Zenlayer」（en-US）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE；站内品牌：Ubiquiti；站内型号：CDN77；表内「DC Switch」；表内未见跟进记录。",
+ "type": "分销商/批发商",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Distributed Cloud for AI - Zenlayer；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT",
+   "quote": "The Distributed Cloud for AI Deploy and scale intelligence globally, powered by the world’s most distributed cloud. Get started Deploy and scale AI",
+   "url": "https://www.zenlayer.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "DC Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Distributed Cloud for AI - Zenlayer；品类词 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE",
+   "quote": "The Distributed Cloud for AI Deploy and scale intelligence globally, powered by the world’s most distributed cloud. Get started Deploy and scale AI",
+   "url": "https://www.zenlayer.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 zenlayer.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化 / OT 网络",
+  "数据中心 / 企业 IT",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/批发商",
+  "region": "美国",
+  "contact": "kap@zenlayer.com、joe@zenlayer.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://www.zenlayer.com/）",
+  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
+  "官网公开邮箱：legal@zenlayer.com、support@zenlayer.com",
+  "用户表兴趣/备注：DC Switch"
+ ],
+ "risks": [],
+ "saga_fit": {
+  "p1": "STC-448XGGM(L3)",
+  "tier": 20,
+  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：分销商/批发商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Craig, alongside the Ubiquiti lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+}

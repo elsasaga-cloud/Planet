@@ -1,0 +1,79 @@
+{
+ "code": "SB-907",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ifocusshop.com，快照 2026-10-21）",
+ "summary": "泰国分销商/经销商：官网「กล้องวงจรปิดเมืองพัทยา รับติดตั้ง พัทยา ชลบุรี | iFocus」（th）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；站内品牌：Dahua、Uniview、Hikvision、TP-Link、ZKTeco、Ruijie；站内型号：RS422、DS-3E1309P-EI、AI-DH-PFS3110-8ET-96、DH-PFS3006-4ET-60；表内「FS 在用Itoonertech商业POE 很多其他的牌子 产品」；群发 9 次、无回复。",
+ "type": "分销商/经销商",
+ "size": "",
+ "brands_seen": [
+  "Dahua",
+  "Uniview",
+  "Hikvision",
+  "TP-Link",
+  "ZKTeco",
+  "Ruijie",
+  "MikroTik",
+  "Ubiquiti",
+  "Cisco",
+  "D-Link",
+  "Zyxel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：กล้องวงจรปิดเมืองพัทยา รับติดตั้ง พัทยา ชลบุรี | iFocus；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด พัทยา ชลบุรี ดูแลระบบกล้องโทรทัศน์วงจรปิดในเมืองพัทยา สำหรับบ้าน ร้านค้า และองค์กร โดยโฟกัส ซิสเต็ม",
+   "url": "https://ifocusshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "安防监控（CCTV / 门禁）",
+  "电信 / FTTH / ISP 设备",
+  "无线 / WiFi",
+  "布线 / 线缆",
+  "光纤 / 媒体转换",
+  "网络交换 / PoE"
+ ],
+ "channels": {
+  "role": "分销商/经销商",
+  "region": "泰国",
+  "contact": "focus.sys@hotmail.com"
+ },
+ "signals": [
+  "官网在线（快照 2026-10-21，https://ifocusshop.com/）",
+  "在售同口型交换品牌：TP-Link、Ruijie、MikroTik、Ubiquiti、D-Link → 直接对位替换",
+  "安防品牌：Dahua、Uniview、Hikvision、ZKTeco → PoE 配套切入",
+  "用户表兴趣/备注：FS 在用Itoonertech商业POE 很多其他的牌子 产品",
+  "表内早期 AI 描述（未核实）：泰国安防设备销售平台，主营CCTV设备及PoE交换机"
+ ],
+ "risks": [
+  "非主攻区（T5）：低频跟进，不单独做本地化"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+ },
+ "email_hook": "Alongside the Dahua / Uniview lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+}
