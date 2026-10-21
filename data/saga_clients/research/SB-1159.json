@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（avnordic.se，快照 2026-10-21）",
- "summary": "瑞典分销商/批发商：官网「B2B-grossist för Kameraövervakning, Nätverk & Ljud | AV Nordic」（sv-SE）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Uniview、Milesight；站内型号：RJ-45、DVB-T-T2-C-S-S2-IP、IPC3232LR3、IPC32X；表内「switch 主要是witek的」；表内未见跟进记录。",
- "type": "分销商/批发商",
+ "summary": "瑞典 AV Nordic（面向企业/安装商/经销商的安防、网络与音响 B2B 批发：Uniview 17 / Milesight、Cvedia 分析、Global Caché；表内「switch 主要是 Wi-Tek 的」）；表内无跟进记录。",
+ "type": "安防/网络/音响 B2B 批发商（瑞典，Wi-Tek 交换机）",
  "size": "",
  "brands_seen": [
   "Uniview",
-  "Milesight"
+  "Milesight",
+  "Wi-Tek"
  ],
  "evidence": [
   {
@@ -24,6 +25,20 @@
    "quote": "switch 主要是witek的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "AV Nordic B2B 批发",
+   "quote": "AV Nordic – grossist av professionella system inom säkerhet, nätverk och ljud för företag, installatörer och återförsäljare.",
+   "url": "https://avnordic.se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch 主要是 Wi-Tek 的",
+   "quote": "switch 主要是witek的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -32,34 +47,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 avnordic.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防 / 网络 / 音响 B2B 批发"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "安防/网络/音响 B2B 批发商（瑞典，Wi-Tek 交换机）",
   "region": "瑞典",
   "contact": "info@avnordic.se"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://avnordic.se/）",
-  "安防品牌：Uniview、Milesight → PoE 配套切入",
-  "官网公开邮箱：info@avnordic.se",
-  "用户表兴趣/备注：switch 主要是witek的"
+  "官网：AV Nordic – grossist av professionella system inom säkerhet, nätverk och ljud för företag, installatörer och återförsäljare",
+  "站内 kw：uniview 17 / poe 58 / switch 58"
  ],
- "risks": [],
+ "risks": [
+  "现卖 Wi-Tek（深圳）价格基准低",
+  "无具名 KP（info@）；表内无跟进"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Alongside the Uniview / Milesight lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first?"
 }

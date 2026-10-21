@@ -2,7 +2,7 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-258`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-258
@@ -12,7 +12,7 @@ score: 46
 country: 印度
 region: 南亚
 website: alconlink.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）
 tier_tags: ["AI评估(IN)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度品牌商/贴牌需求（OEM/ODM）：官网「AlconLink Network Camera and NVR for Security Surveillance System」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内型号：AL-NVR5160-24DRAIDHS、AL-5001-MPC-HD2MVUDK、AL-5001-MPC-HD8MVDK、AL-5002-MPC-HD8MVDK；表内「商业PoE CCTV产品 自己的logo；91-97788 02333」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：商业PoE CCTV产品 自己的logo）
+- **是谁**：印度 AlconLink（CCTV 监控系统品牌：网络摄像机 / NVR（AL-NVR5160-24DRAIDHS）、AI/热成像/ANPR 方案；产品页 PoE 交换机与工业交换机（自有 logo）；表内「商业 PoE、CCTV 产品，自己的 logo」；KP Pratap（pratap@，+91 97788 02333））；表内无跟进记录。（调研 2026-10-21；表内兴趣：商业PoE CCTV产品 自己的logo）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 logo PoE 交换机（配 NVR 套装）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AlconLink 标；工业线 STI-288GP；24 口 NVR 配套 STC-424DGGPM-280W；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | alconlink.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | alconlink.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Pratap | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE CCTV产品 自己的logo | 事实（用户表） |
@@ -65,32 +65,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（alconlink.com，快照 2026-10-21）
-- **是谁**：印度品牌商/贴牌需求（OEM/ODM）：官网「AlconLink Network Camera and NVR for Security Surveillance System」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内型号：AL-NVR5160-24DRAIDHS、AL-5001-MPC-HD2MVUDK、AL-5001-MPC-HD8MVDK、AL-5002-MPC-HD8MVDK；表内「商业PoE CCTV产品 自己的logo；91-97788 02333」；表内未见跟进记录。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：印度 AlconLink（CCTV 监控系统品牌：网络摄像机 / NVR（AL-NVR5160-24DRAIDHS）、AI/热成像/ANPR 方案；产品页 PoE 交换机与工业交换机（自有 logo）；表内「商业 PoE、CCTV 产品，自己的 logo」；KP Pratap（pratap@，+91 97788 02333））；表内无跟进记录。
+- **类型**：印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）
 - **【官网快照】官网标题：AlconLink Network Camera and NVR for Security Surveillance System；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > AlconLink provides CCTV Surveillance System with best-in-class network camera and NVR for security surveillance system.
   > 来源：https://www.alconlink.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业PoE CCTV产品 自己的logo；91-97788 02333
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】AlconLink CCTV 监控系统**
+  > AlconLink provides CCTV Surveillance System with best-in-class network camera and NVR for security surveillance system.
+  > 来源：https://www.alconlink.com/（抓取 2026-10-21）
+- **【用户表】商业 PoE CCTV 产品，自己的 logo**
+  > 商业PoE CCTV产品 自己的logo；91-97788 02333
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Pratap（）pratap@alconlink.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 印度 |
 | 其他 | 官网 alconlink.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 印度；contact: pratap@alconlink.com
+- **业务线**：CCTV 摄像机 / NVR / AI 方案（自有品牌）；PoE / 工业交换机（自有 logo）
+- **触达通道（公开）**：role: 印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）；region: 印度；contact: pratap@alconlink.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.alconlink.com/）
-  - 官网公开邮箱：sales@alconlink.com
-  - 用户表兴趣/备注：商业PoE CCTV产品 自己的logo；91-97788 02333
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Pratap, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 产品页 /product/poe-switch/、/product/industrial-switch/、/page/industrial
+  - 官网：AlconLink provides CCTV Surveillance System with best-in-class network camera and NVR
+  - KP：Pratap（表内邮箱 + 手机）
+- **风险/边界**：印度 BIS：由 AlconLink 以其品牌取证；整机关税高 → SKD 可谈；现代工深圳：价格基准低；非主攻区（T5）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 logo PoE 交换机（配 NVR 套装）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AlconLink 标；工业线 STI-288GP；24 口 NVR 配套 STC-424DGGPM-280W
+- **邮件切入句（英文）**：Pratap, for the AlconLink-branded PoE and industrial switches on your product pages, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -129,7 +136,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pratap | — | pratap@alconlink.com / +919778802333 | 用户表原值 | Clients/ 表 |
+| Pratap | — | pratap@alconlink.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -145,7 +152,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：自有 logo PoE 交换机（配 NVR 套装）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AlconLink 标；工业线 STI-288GP；24 口 NVR 配套 STC-424DGGPM-280W | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -198,7 +205,7 @@ updated: 2026-10-21
 ```text
 Hi Pratap,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Pratap, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Pratap, for the AlconLink-branded PoE and industrial switches on your product pages, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

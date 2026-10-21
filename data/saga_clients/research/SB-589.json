@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（integranetwork.es，快照 2026-10-21）",
- "summary": "西班牙品牌商/贴牌需求（OEM/ODM）：官网「Integra Network | Soluciones completas de equipamiento informático」（es）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：EN50155、GS-R6616XFT、GS-L5416MGFT、EN50155SWITCHES；表内「在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和E」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "西班牙 Integra Network / Integra-NES（工业计算设备完整方案：分销、设计与制造；行业铁路、道路交通、海事；工业交换机选型页、EN 50155 交换机、面板 PC；在用 Lantech（GS-R6616XFT / GS-L5416MGFT / GS-R6804XT）；表内 AI「40% A：工业网络方案商/专业渠道，偏项目与技术实施」；KP Lola Lucena（lola.lucena@；表内写 Lola Medina，以邮箱为准待核））；表内无跟进记录。",
+ "type": "工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Lantech"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +23,83 @@
    "quote": "在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和ERPS/PoE++/宽温资料，强调可做功能/UI定制与持续供货；优先切入需要特殊MIB、前端管理或项目适配的场景 工业级千兆交换机、8口工业PoE、ERPS环网交换机 官网有独立“Switches Industriales”分类，交换机明显",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Integra Network 工业计算设备方案",
+   "quote": "En Integra Network desarrollamos soluciones completas de equipamiento informático industrial dirigido a aplicaciones en diversos sectores. ; Distribución, diseño y fabricación.",
+   "url": "https://integranetwork.es/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用 Lantech 的；AI 40% A",
+   "quote": "在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Lola Lucena",
+   "title": "（表内：Lola Medina；以邮箱为准待核）",
+   "email": "lola.lucena@integra-nes.es",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "西班牙",
   "other": "官网 integranetwork.es，语言 es，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业计算与网络方案（分销 / 设计 / 制造）",
+  "工业交换机（Lantech）/ 面板 PC"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界）",
   "region": "西班牙",
   "contact": "info@integra-nes.es、lola.lucena@integra-nes.es"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://integranetwork.es/）",
-  "官网公开邮箱：info@integra-nes.es、info@integra-net.es",
-  "用户表兴趣/备注：在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和ERPS/PoE++/宽温资料，强调可做功能/UI定制与持续供货；优先切入需要特殊"
+  "页面 /switches-industriales/、/en-50155-ethernet-switch/、/soluciones-switches-ethernet/；站内 GS-R6616XFT / GS-L5416MGFT / GS-R6804XT（Lantech）",
+  "官网：soluciones completas de equipamiento informático industrial … Distribución, diseño y fabricación；行业 Tecnología ferroviaria / Tráfico por carretera / Tecnología marina",
+  "表内 AI：40% A 西班牙工业网络方案商/专业渠道"
  ],
- "risks": [],
+ "risks": [
+  "守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做",
+  "现用 Lantech（台湾）供货稳定：需以价格/定制切入",
+  "KP 姓名表内不一致（Medina vs 邮箱 Lucena）：首触前核实"
+ ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 30,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报"
  },
- "email_hook": "Lola, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Lola, alongside the Lantech industrial switches you specify, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 4×10G units (−40~75 °C, ERPS, CE/RoHS) for road-traffic and factory projects from small lots — which Lantech model do you use most outside the EN 50155 scope, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "Lantech",
+   "model": "GS-R6616XFT",
+   "spec": "工业 L3 16 GE + 6×10G 管理（推断）",
+   "saga": "（Saga 无对应）",
+   "url": "https://integranetwork.es/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Lantech",
+   "model": "GS-R6804XT",
+   "spec": "工业 8 GE + 4×10G 管理（推断）",
+   "saga": "STI-488XGGPM（PoE 版）",
+   "url": "https://integranetwork.es/",
+   "date": "2026-10-21"
+  }
+ ]
 }

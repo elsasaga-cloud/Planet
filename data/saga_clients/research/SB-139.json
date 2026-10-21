@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（barox.de，快照 2026-10-21）",
- "summary": "德国品牌商/贴牌需求（OEM/ODM）：官网「Switches for Video | barox.ch」（en-us）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：barox；站内型号：IEEE802、VAR2-IPPOE、VAR2-POE、CH-5405；表内「工业FS MC POE 自己的logo 很多人在卖他们的」；群发 8 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "德国/瑞士 barox Kommunikation（视频与安防网络专用交换机、MC、IP 延长器制造商品牌：VAR2-IPPOE 等，与 VMS/PSIM 集成，24 口 10G 工业管理新品，培训课程体系；表内「工业 FS / MC / PoE，自己的 logo；很多人在卖他们的」；KP Rudolf Rohr（CEO，rohr.rudolf@barox.ch）、Jeneeben Jesujeevagan（Head of Engineering））；群发 8 次无回复。",
+ "type": "视频网络交换机品牌商（德/瑞，自有 logo，OEM 采购）",
  "size": "",
  "brands_seen": [
   "barox"
@@ -23,40 +23,71 @@
    "quote": "工业FS MC POE 自己的logo 很多人在卖他们的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "barox：视频与安防网络交换机制造商",
+   "quote": "barox is a manufacturer of innovative Switches, media converters, and IP extenders for video and security networks.",
+   "url": "https://www.barox.ch/en-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC PoE 自己的 logo，很多人在卖",
+   "quote": "工业FS MC POE 自己的logo；很多人在卖他们的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jeneeben Jesujeevagan",
+   "title": "Head of Engineering",
+   "email": "mail@barox.de",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Rudolf Rohr",
+   "title": "CEO",
+   "email": "rohr.rudolf@barox.ch",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 barox.de，语言 en-us，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "视频/安防网络交换机（自有品牌）",
+  "MC / IP 延长器"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "视频网络交换机品牌商（德/瑞，自有 logo，OEM 采购）",
   "region": "德国",
   "contact": "mail@barox.de、rohr.rudolf@barox.ch"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.barox.ch/en-us/）",
-  "在售工业网络品牌：barox → 工业线对位",
-  "用户表兴趣/备注：工业FS MC POE 自己的logo 很多人在卖他们的"
+  "官网：barox is a manufacturer of innovative Switches, media converters, and IP extenders for video and security networks",
+  "新闻 /en/news/barox-release-the-ultra-dynamic-kn-lgipr38-28ad-24-port-10gb-managed-industrial-e…；培训 /news/kursprogramm-2024-fuer-switche-und-poe-produkte/",
+  "KP：Rudolf Rohr / CEO；Jeneeben Jesujeevagan / Head of Engineering（表内）"
  ],
- "risks": [],
+ "risks": [
+  "成熟品牌（渠道广「很多人在卖」）：现有 ODM 体系稳定，导入需工程验证",
+  "VMS/PSIM 集成依赖其固件：需评估 Saga 固件 SNMP/API 配合度；8 次无回复 → 改向 Head of Engineering 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "barox 自有品牌靠 ODM 供货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 STI-288GPM（$85.5）作二供；VMS/PSIM 集成靠其固件层（需 SNMP/API 配合）"
  },
- "email_hook": "Rudolf, alongside the barox lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Jeneeben, for the entry PoE models in the barox video-network range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP commercial, DIN-rail industrial) from small lots with SNMP/LLDP support for your VMS integration — which model would you consider dual-sourcing first?"
 }

@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（intenet.com.tr，快照 2026-10-21）",
- "summary": "土耳其工业自动化/IoT 方案商：官网「INTENET İnternet, Telekominikasyon, Network ve Bilişim Sistemleri, Teiaş, Eneri Santral Ha」（en-US）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换；站内品牌：Cisco；站内型号：IEEE802、ISCOM3052G、DS200、EN50121-4；表内「工业交换机」；群发 2 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "土耳其 INTENET（变电站交钥匙方案：TEİAŞ 通信系统、变电站自动化/SCADA、光纤产品与基础设施、开关柜保护控制；站内工业交换机方案页、ISCOM3052G、EN50121-4；表内「工业交换机」；KP Ercan Ozturk（General Manager-Owner，ercan.ozturk@））；群发 2 次无回复。",
+ "type": "电力/变电站系统集成商（土耳其，守界）",
  "size": "",
  "brands_seen": [
-  "Cisco"
+  "Cisco",
+  "Raisecom"
  ],
  "evidence": [
   {
@@ -23,42 +24,64 @@
    "quote": "工业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "变电站交钥匙方案与 SCADA",
+   "quote": "Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) are equipped with turnkey high voltage protection control, Scada- Automation and communic…",
+   "url": "https://intenet.com.tr/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机",
+   "quote": "工业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ercan Ozturk",
+   "title": "General Manager-Owner",
+   "email": "ercan.ozturk@intenet.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 intenet.com.tr，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "变电站自动化 / SCADA / 通信系统集成",
+  "光纤产品与基础设施"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "电力/变电站系统集成商（土耳其，守界）",
   "region": "土耳其",
   "contact": "info@intenet.com.tr、ercan.ozturk@intenet.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://intenet.com.tr/en/）",
-  "官网公开邮箱：info@intenet.com.tr",
-  "用户表兴趣/备注：工业交换机"
+  "官网：Substations Turnkey Solutions INTENET transformer centers and power plants (HES, RES and Thermal power plants) … Scada- Automation and communication",
+  "页面 /en/our-solution/industrial-switch/；站内 ISCOM3052G / EN50121-4",
+  "KP：Ercan Ozturk / General Manager-Owner（表内）"
  ],
- "risks": [],
+ "risks": [
+  "守界：变电站/电力公用事业（TEİAŞ）核心网络不做；Saga 无 IEC 61850-3 / EN50121-4",
+  "公用事业项目周期长、认证门槛高；2 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "变电站/SCADA 为主 → 守界：IEC 61850-3 节点不报；仅非关键节点/园区网络位 STI-288GPM（$82.2 @25%）、STI-280GE"
  },
- "email_hook": "Ercan, alongside the Cisco lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mr. Ozturk, for the non-critical network nodes in your fiber and SCADA projects (site LAN, camera and office segments outside the IEC 61850 zone), we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from small lots — is there such a layer in your current projects?"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-300`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 17 次（2024-05-06 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：北美自有品牌网络产品商（兼销 Planet，OEM 采购）（推断）　|　**历史关系**：推送 17 次（2024-05-06 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-300
@@ -12,14 +12,14 @@ score: 44
 country: 加拿大
 region: 北美
 website: amer.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 北美自有品牌网络产品商（兼销 Planet，OEM 采购）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
 followups: 17
 first_contact: 2024-05-06
 last_contact: 2025-10-17
-p1: STI-110GE
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大品牌商/贴牌需求（OEM/ODM）：官网「Amer Networks |」（en-US）；品类词：无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、Netgear、Juniper；站内型号：PIG30、SGRD16、IEEE802、SS310；表内「MC SFP POE injector 自己logo switch 有自己的标 也有Planet的」；群发 17 次、无回复。（调研 2026-10-21；表内兴趣：MC SFP POE injector 自己logo switch 有自己的标 也有Planet的）
+- **是谁**：加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：MC SFP POE injector 自己logo switch 有自己的标 也有Planet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-06 → 2025-10-17）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | amer.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | amer.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 北美自有品牌网络产品商（兼销 Planet，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Yehuda Mor Yosef / Wai Lee / CEO / Toron Lee / Product Management, VP | 事实（用户表） |
 | 来源（From） | Amazon | 事实（用户表） |
 | 兴趣（Interested in） | MC SFP POE injector 自己logo<br>switch 有自己的标 也有Planet的 | 事实（用户表） |
@@ -66,34 +66,46 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（amer.com，快照 2026-10-21）
-- **是谁**：加拿大品牌商/贴牌需求（OEM/ODM）：官网「Amer Networks |」（en-US）；品类词：无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、Netgear、Juniper；站内型号：PIG30、SGRD16、IEEE802、SS310；表内「MC SFP POE injector 自己logo switch 有自己的标 也有Planet的」；群发 17 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
-- **在卖/在用品牌**：Cisco, Netgear, Juniper
+- **是谁**：加拿大 Amer Networks（自有品牌网络产品：交换机 SS2GR4010P / SGRD16 / SS310、MC-GT/SFP 光电转换器、PoE 注入器 PIG30、AP WAP44IO；同时卖 Planet GS-4210-8P2T2S；表内「MC / SFP / PoE injector 自己 logo；switch 有自己的标也有 Planet 的」；KP Wai Lee（CEO）、Toron Lee（VP Product Management）、Yehuda Mor Yosef）；群发 17 次无回复。
+- **类型**：北美自有品牌网络产品商（兼销 Planet，OEM 采购）
+- **在卖/在用品牌**：Cisco, Netgear, Juniper, Planet
 - **【官网快照】官网标题：Amer Networks |；品类词 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > We build Network Solutions for all your needs....；Contact Us；WAP44IO；PIG30；MC-GT/SFP；SG4P1Te
   > 来源：https://amer.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC SFP POE injector 自己logo switch 有自己的标 也有Planet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Amer Networks 产品线**
+  > We build Network Solutions for all your needs.... ; WAP44IO ; PIG30 ; MC-GT/SFP ; SG4P1Te ; SS2GR4010P
+  > 来源：https://amer.com/（抓取 2026-10-21）
+- **【用户表】自有 logo MC/SFP/注入器；switch 自有标 + Planet**
+  > MC SFP POE injector 自己logo；switch 有自己的标 也有Planet的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Toron Lee（）sales@amer.com 〔用户表〕
+- **KP**：Wai Lee（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 amer.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 加拿大；contact: sales@amer.com、info@amer.com
+- **业务线**：交换机 / MC / PoE 注入器 / AP（自有品牌 Amer）；Planet 经销
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Amer（自有） | SS2GR4010P | 8 PoE + 2 SFP（推断） | STC-28DGGPM | https://amer.com/（2026-10-21） |
+| Planet | GS-4210-8P2T2S | 8 PoE + 2 TP + 2 SFP 管理 | STC-28DGGPM（近似） | https://amer.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 北美自有品牌网络产品商（兼销 Planet，OEM 采购）；region: 加拿大；contact: sales@amer.com、info@amer.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://amer.com/）
-  - 在售同口型交换品牌：Netgear → 直接对位替换
-  - 官网公开邮箱：info@amer.com、sales@amer.com、sanjeevgpt214@gmail.com
-  - 用户表兴趣/备注：MC SFP POE injector 自己logo switch 有自己的标 也有Planet的
-- **风险/边界**：群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）；企业级品牌为主（Cisco/Juniper）：Saga 白牌只作价格补充线
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Yehuda, alongside the Cisco / Netgear lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 首页型号：WAP44IO / PIG30 / MC-GT/SFP / SG4P1Te / SS2GR4010P；站内 GS-4210-8P2T2S（Planet）
+  - 表内：switch 有自己的标 也有 Planet 的；KP Wai Lee / CEO；Toron Lee / Product Management, VP
+- **风险/边界**：现有 ODM + Planet 双源：切入需价差与交期；17 次无回复 → 改向 VP Product Management 具名首触；MC/SFP/注入器为主要兴趣：Saga 商用 MC 与配件无 SKU（Q-32）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32）
+- **邮件切入句（英文）**：Toron, for the Amer-branded 8-PoE + 2 SFP switches that sit next to the Planet GS-4210 in your line, we can be a second ODM source on a Marvell L2+ platform from small lots in your housing, with FCC/CE/RoHS reports — would a sample against your current unit be useful?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -155,8 +167,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Toron Lee | — | sales@amer.com | 调研核实（公开页） | 用户表 |
+| Wai Lee | — | — | 调研核实（公开页） | 用户表 |
 | Yehuda Mor Yosef | — | sales@amer.com / info@amer.com | 用户表原值 | Clients/ 表 |
-| Wai Lee | — | sales@amer.com / info@amer.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -173,18 +186,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自有标 8 PoE + 2 SFP 型号（与 Planet GS-4210-8P2T2S 同位）→ STC-28DGGPM（$87.4 @30%）贴 Amer 标；MC 位 STI-110GE；注入器/SFP Saga 价目无（Q-32） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（北美自有品牌网络产品商（兼销 Planet，OEM 采购）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -194,7 +206,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -222,14 +234,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Yehuda,
+Hi Toron,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Yehuda, alongside the Cisco / Netgear lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Toron, for the Amer-branded 8-PoE + 2 SFP switches that sit next to the Planet GS-4210 in your line, we can be a second ODM source on a Marvell L2+ platform from small lots in your housing, with FCC/CE/RoHS reports — would a sample against your current unit be useful?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Amer（自有） SS2GR4010P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

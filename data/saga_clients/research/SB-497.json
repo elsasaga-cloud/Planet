@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（eso.co.th，快照 2026-10-21）",
- "summary": "泰国工业自动化/IoT 方案商：官网「บริษัท อีเอสโอ เทค จำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม」（th-TH）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆；站内型号：CN-8031、IN1073、SW05E、CN-8032；表内「工业交换机」；群发 7 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "泰国 ESO Tech（工业传感器进口分销、PLC/HMI/SCADA 自动化系统设计、WECON 代理；站内 ethernet-switch 品类（SW05E 等）；表内「工业交换机」）；群发 7 次无回复。",
+ "type": "工业传感器与自动化分销商（泰国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "WECON"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "工业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "工业传感器进口分销与自动化系统",
+   "quote": "จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA , ตัวแทนจำหน่าย WECON",
+   "url": "https://www.eso.co.th/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机",
+   "quote": "工业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,37 +45,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "泰国",
   "other": "官网 eso.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "工业传感器进口分销",
+  "PLC / HMI / SCADA 系统（WECON）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业传感器与自动化分销商（泰国）",
   "region": "泰国",
   "contact": "info@eso.co.th、sales@eso.co.th"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.eso.co.th/）",
-  "官网公开邮箱：chonburi@eso.co.th、info@eso.co.th、sales@eso.co.th",
-  "用户表兴趣/备注：工业交换机",
-  "表内早期 AI 描述（未核实）：泰国工业通信设备供应商，主营工业交换机和自动化设备"
+  "官网：จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA, ตัวแทนจำหน่าย WECON",
+  "栏目 /category/9342/1091/ethernet-switch；站内 SW05E"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5）",
+  "传感器为主业：交换机为配套品类，量小；7 次无回复，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "自动化配套小型工业交换机（现 SW05E 类 5 口）→ 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the Ethernet-switch category next to your sensors and WECON HMIs, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from small lots, EXW — which port count do your PLC panels use most?"
 }

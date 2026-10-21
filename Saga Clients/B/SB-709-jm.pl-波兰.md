@@ -2,7 +2,7 @@
 
 > **评级 B**　|　波兰　|　档案编号 `SB-709`　|　优先级 ★★　|　状态：已推送 6 次·未回复
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：推送 6 次（2025-05-20 → 2025-10-10）　|　**所在清单**：A优质名单(PL)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：工业电子与自动化分销商（波兰，ICP DAS / InHand 线）（推断）　|　**历史关系**：推送 6 次（2025-05-20 → 2025-10-10）　|　**所在清单**：A优质名单(PL)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-709
@@ -12,7 +12,7 @@ score: 34
 country: 波兰
 region: 欧洲
 website: jm.pl
-type: 分销商/批发商
+type: 工业电子与自动化分销商（波兰，ICP DAS / InHand 线）
 tier_tags: ["A优质名单(PL)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰分销商/批发商：官网「Komputery przemysłowe, automatyka, komponenty, LoRaWAN」（pl）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Teltonika、D-Link；站内型号：RS-232、TANK-XM810、NS-205、NS-208PSE-IP67；表内「inhand的 试试跟进」；群发 6 次、无回复。（调研 2026-10-21；表内兴趣：inhand的 试试跟进）
+- **是谁**：波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：inhand的 试试跟进）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-05-20 → 2025-10-10）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：官网快照对位：工业/自动化词频 57、PoE 21 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | jm.pl（取自域名，公司全名待核） | 推断 |
 | 国家 | 波兰 | 事实（用户表）|
 | 网站/域名 | jm.pl | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | 工业电子与自动化分销商（波兰，ICP DAS / InHand 线） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | inhand的 试试跟进 | 事实（用户表） |
@@ -55,33 +55,44 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（jm.pl，快照 2026-10-21）
-- **是谁**：波兰分销商/批发商：官网「Komputery przemysłowe, automatyka, komponenty, LoRaWAN」（pl）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Teltonika、D-Link；站内型号：RS-232、TANK-XM810、NS-205、NS-208PSE-IP67；表内「inhand的 试试跟进」；群发 6 次、无回复。
-- **类型**：分销商/批发商
-- **在卖/在用品牌**：Teltonika, D-Link
+- **是谁**：波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。
+- **类型**：工业电子与自动化分销商（波兰，ICP DAS / InHand 线）
+- **在卖/在用品牌**：Teltonika, D-Link, ICP DAS, InHand
 - **【官网快照】官网标题：Komputery przemysłowe, automatyka, komponenty, LoRaWAN；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN
   > 来源：https://jm.pl/pl/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > inhand的 试试跟进
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】JM elektronik 工业电子分销**
+  > Komputery przemysłowe, automatyka, komponenty, LoRaWAN ; JM elektronik - dystrybucja komputerów przemysłowych, automatyki
+  > 来源：https://jm.pl/pl/（抓取 2026-10-21）
+- **【用户表】InHand 的，试试跟进**
+  > inhand的 试试跟进
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 波兰 |
 | 其他 | 官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：工业自动化 / OT 网络；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/批发商；region: 波兰；contact: jm@jm.pl
+- **业务线**：工业计算机 / 自动化 / 元件 / LoRaWAN 分销
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ICP DAS | NS-208PSE-IP67 | 工业 8 口 PoE 非管理（IP67 版） | STI-288GP（RJ45 版，非 IP67） | https://jm.pl/pl/（2026-10-21） |
+
+- **触达通道（公开）**：role: 工业电子与自动化分销商（波兰，ICP DAS / InHand 线）；region: 波兰；contact: jm@jm.pl
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://jm.pl/pl/）
-  - 在售同口型交换品牌：Teltonika、D-Link → 直接对位替换
-  - 官网公开邮箱：sprzedaz@jm.pl
-  - 用户表兴趣/备注：inhand的 试试跟进
-- **Saga 对位结论**：P1 STI-288GP（20% 档）——官网快照对位：工业/自动化词频 57、PoE 21 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Teltonika / D-Link lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN
+  - 新闻 /pl/nsm-208pse-m12_-nowa-wersja-popularnego-ethernetowego-switcha-produkcji-icp-das_…；站内 NS-205 / NS-208PSE-IP67
+  - 表内：inhand 的 试试跟进
+- **风险/边界**：现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低；M12 / IP67 需求 Saga 不做；6 次无回复，无具名 KP（jm@）
+- **Saga 对位结论**：P1 STI-288GP（20% 档）——在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做
+- **邮件切入句（英文）**：Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -143,7 +154,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：官网快照对位：工业/自动化词频 57、PoE 21 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
+| **P1** | STI-288GP | 深挖对位：在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做 | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业电子与自动化分销商（波兰，ICP DAS / InHand 线）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -198,7 +209,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the Teltonika / D-Link lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+Picking up our earlier exchange about PoE / industrial switches. Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

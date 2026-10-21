@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（trassir.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「TRASSIR - видеонаблюдение и интеллектуальная видеоаналитика для бизнеса / Внедрение модуле」；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：AIP256、AIP128、RA-14T、RA-16T；表内「自己的型号 商业POE」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 TRASSIR（DSSL 旗下视频监控与智能视频分析平台品牌：面向企业/设计院/分销商，产品含网络与线缆设备、PoE 交换机（自有型号）；表内「自己的型号，商业 PoE」）；表内无跟进记录。",
+ "type": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "自己的型号 商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TRASSIR 视频监控与分析平台",
+   "quote": "Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса.",
+   "url": "https://trassir.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的型号 商业 PoE",
+   "quote": "自己的型号 商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +43,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 trassir.ru，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "视频监控平台 / 视频分析（自有品牌）",
+  "网络与线缆设备（自有型号 PoE）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
   "region": "俄罗斯",
   "contact": "in@trassir.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://trassir.ru/）",
-  "官网公开邮箱：in@trassir.ru",
-  "用户表兴趣/备注：自己的型号 商业POE"
+  "目录 /products/setevoe_i_kabelnoe_oborudovanie/ethernet_poe/kommutatory_s_poe/",
+  "官网：полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики；栏目 ДЛЯ ДИСТРИБЬЮТОРОВ"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "大型平台品牌：现有 ODM 体系稳定；仅 in@ 公共邮箱，无具名 KP"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?"
 }
