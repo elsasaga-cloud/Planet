@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ethical-ltd.com，快照 2026-10-21）",
- "summary": "以色列分销商/批发商：官网「אתיקל - שרותי רכש ומוצרי תקשורת」（he）；品类词：光纤 / 媒体转换；站内型号：RS-232、RS-422、RS-485；表内「Switch 主要用的perle的」；群发 8 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "以色列 Ethical Ltd（采购服务与通信产品供应商：电子元件、电光设备、连接器、终端服务器、MC、网络延长器、工业交换机；表内「Switch 主要用的 Perle 的」「可以尝试多跟进一下」）；群发 8 次无回复。",
+ "type": "采购服务/通信产品供应商（以色列，Perle 为主）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Perle"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "Switch 主要用的perle的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Ethical 定位",
+   "quote": "אתיקל - שרותי רכש ומוצרי תקשורת ; ממירי מדיה מרחיקי רשת ומתגי רשת תעשייתיים",
+   "url": "https://www.ethical-ltd.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Switch 主要 Perle",
+   "quote": "Switch 主要用的perle的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 ethical-ltd.com，语言 he，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换"
+  "采购服务 / 通信与电子产品供应（以色列）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "采购服务/通信产品供应商（以色列，Perle 为主）",
   "region": "以色列",
   "contact": "ethical@ethical-ltd.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ethical-ltd.com/）",
-  "官网公开邮箱：ethical@ethical-ltd.com",
-  "用户表兴趣/备注：Switch 主要用的perle的"
+  "官网：אתיקל - שרותי רכש ומוצרי תקשורת ; שרת טרמינל סרבר, ממירי מדיה מרחיקי רשת ומתגי רשת תעשייתיים；页面 /products；kw ethernet 13",
+  "表内：Switch 主要用的 perle 的；可以尝试多跟进一下"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，以色列）；Perle 品牌粘性；8 次无回复，仅 ethical@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "Perle 工业交换机/MC 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、PoE MC STI-111GP（$27.8）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Alongside the Perle industrial switches and media converters you supply, we offer neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit/PoE MCs from single units, CE/RoHS, EXW USD — is there a budget position your procurement customers ask for below Perle?"
 }

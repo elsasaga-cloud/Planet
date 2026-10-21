@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（sunrichtech.com.hk，快照 2026-10-21）",
- "summary": "香港制造商（同行或 OEM 客户待核）：官网「ST Lab — Sunrich Technology | The Best Connection」（en）；品类词：网络交换 / PoE；站内型号：ISO9001-2008、ISO14001；表内「2.5G switch」；群发 8 次、无回复。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "香港 Sunrich Technology / ST Lab（1992 年起设计制造网络与连接硬件：PCIe 网卡、OCP 3.0、USB 扩展坞，提供 OEM/ODM；表内「2.5G switch」）；群发 8 次无回复。",
+ "type": "香港网络硬件制造商（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,53 @@
    "quote": "2.5G switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ST Lab 定位",
+   "quote": "ST Lab — Sunrich Technology | The Best Connection ; engineered and manufactured high-performance networking and connectivity hardware since 1992",
+   "url": "https://sunrichtech.com.hk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2.5G switch",
+   "quote": "2.5G switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "香港网络硬件制造同行；c_sub=同行/区域外",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "香港",
   "other": "官网 sunrichtech.com.hk，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "网卡 / 连接硬件制造（香港，OEM/ODM）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "香港网络硬件制造商（同行）",
   "region": "香港",
   "contact": "info@sunrichtech.com.hk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://sunrichtech.com.hk/）",
-  "官网公开邮箱：contact@st-lab.com",
-  "用户表兴趣/备注：2.5G switch"
+  "官网：ST Lab (Sunrich Technology) has engineered and manufactured high-performance networking and connectivity hardware since 1992 ; End-to-End Production Services；页面 /industrial.html；kw oem 3 / odm 3",
+  "表内：2.5G switch"
  ],
  "risks": [
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "同行：自研网络硬件制造（OEM/ODM 供应方）；非目标区（香港）；8 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": null,
   "tier": 30,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "香港/国内网络硬件制造商（自研 OEM/ODM，同行）→ 改 C"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：同行）"
 }

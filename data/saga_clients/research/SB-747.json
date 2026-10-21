@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（binhilal.ae，快照 2026-10-21）",
- "summary": "阿联酋安防集成/经销：官网「Bin Hilal Holdings Empowering by innovation」（en-US）；表内「5电口 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "阿联酋 Bin Hilal Group / Bin Hilal Holdings（多元化集团：安全与安防、能源与公用事业、贸易、建筑与基础设施、设施管理；阿里巴巴 RFQ「5 电口」；KP Mehar Asad（Head of Department Procurement，gmail 邮箱））；表内未跟进。",
+ "type": "多元化集团采购（阿联酋，5 口 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,61 @@
    "quote": "5电口 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Bin Hilal 定位",
+   "quote": "Bin Hilal Holdings Empowering by innovation ; Safety & Security ; Energy & Utilities ; Trading",
+   "url": "https://binhilal.ae/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5 电口 RFQ",
+   "quote": "5电口 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mehar Asad",
+   "title": "Head of Department Procurement",
+   "email": "mehar.asad786@gmail.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "阿联酋",
   "other": "官网 binhilal.ae，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "多元化集团（安防 / 能源 / 贸易 / 建筑，阿联酋）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "多元化集团采购（阿联酋，5 口 RFQ）",
   "region": "阿联酋",
   "contact": "mehar.asad786@gmail.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://binhilal.ae/）",
-  "官网公开邮箱：info@binhilal.ae",
-  "用户表兴趣/备注：5电口 / from: 阿里巴巴RFQ"
+  "官网：Bin Hilal Holdings Empowering by innovation ; Safety & Security ; Energy & Utilities ; Trading ; Construction & Infrastructure ; Facilities & Property Management",
+  "表内：5 电口 / from: 阿里巴巴 RFQ；KP Mehar Asad, Head of Department Procurement；mehar.asad786@gmail.com"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "采购负责人使用 gmail 免费邮箱（实体/身份待核）；集团自用采购（非渠道，量随项目）；非主攻区（T5，阿联酋）；RFQ 时效待核"
  ],
  "saga_fit": {
-  "p1": "STI-144GP",
+  "p1": "STI-050GE",
   "tier": 25,
-  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：安防集成/经销→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "RFQ 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；项目延伸 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）"
  },
- "email_hook": "Mehar, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mehar, following your request for 5-port switches: our DIN-rail 5-GE industrial unit (−40~75 °C, 12–57 V, CE/RoHS) ships from single units, EXW USD, 10–15 days — how many units does the project need, and will PoE or fibre uplinks be required elsewhere on the same site?"
 }

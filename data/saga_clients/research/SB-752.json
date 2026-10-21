@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "无域名",
- "summary": "德国电商/网店：无域名/未快照；表内「16槽管理机架 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "德国「Super Shops」（阿里巴巴 RFQ「16 槽管理机架」；KP Lorena Bosnjak，两个 hotmail 免费邮箱，无公司域名）；表内未跟进。",
+ "type": "个人/可疑 RFQ（免费邮箱）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,45 @@
    "quote": "16槽管理机架 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "16 槽管理机架 RFQ",
+   "quote": "16槽管理机架 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "个人/可疑 RFQ（免费邮箱）且品类不供；c_sub=个人买家",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "无官网快照；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（个人/可疑 RFQ）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "个人/可疑 RFQ（免费邮箱）",
   "region": "德国",
   "contact": "inesjovanovice@hotmail.com、tasnimlinahmifsud@hotmail.com"
  },
  "signals": [
-  "用户表兴趣/备注：16槽管理机架 / from: 阿里巴巴RFQ"
+  "表内：16 槽管理机架 / from: 阿里巴巴 RFQ；KP Lorena Bosnjak；inesjovanovice@hotmail.com / tasnimlinahmifsud@hotmail.com"
  ],
  "risks": [
-  "无域名或未快照：仅表内信息，身份待核"
+  "仅 hotmail 免费邮箱（两个）、无公司域名（可疑）；MC 机架品类 Saga 不供（Q-32）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 20,
-  "why": "分销/网店 → 24 口 PoE L2+ 走量款（来源：角色默认；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "无公司域名、多个免费邮箱、品类（MC 机架）Saga 不供 → 改 C"
  },
- "email_hook": "Lorena, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "（不发送：可疑零散 RFQ）"
 }

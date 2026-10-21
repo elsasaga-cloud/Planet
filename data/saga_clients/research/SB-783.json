@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（solucaonetwork.com.br，快照 2026-10-21）",
- "summary": "巴西系统集成/工程商：官网「Pra você (pagina principal) - Solução Network」（pt-BR）；表内「200G/400G DCI / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "巴西 Solução Network（网络/MESH 服务商；阿里巴巴 RFQ「200G/400G DCI」（数据中心互联，超范围）；KP Luciano Machado）；表内未跟进。",
+ "type": "网络服务商（巴西，DCI 超范围 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,53 @@
    "quote": "200G/400G DCI / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Solução 页面",
+   "quote": "Pra você (pagina principal) - Solução Network ; Você Sabe o Que É MESH?",
+   "url": "https://solucaonetwork.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "200G/400G DCI RFQ",
+   "quote": "200G/400G DCI / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "超范围品类 RFQ（DCI）且疑为运营商；c_sub=品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "巴西",
   "other": "官网 solucaonetwork.com.br，语言 pt-BR，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络 / MESH 服务（巴西）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "网络服务商（巴西，DCI 超范围 RFQ）",
   "region": "巴西",
   "contact": "luciano@solucaonetwork.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://solucaonetwork.com.br/）",
-  "用户表兴趣/备注：200G/400G DCI / from: 阿里巴巴RFQ"
+  "官网：Pra você (pagina principal) - Solução Network ; Você Sabe o Que É MESH?；kw 10g 2",
+  "表内：200G/400G DCI / from: 阿里巴巴 RFQ；KP Luciano Machado"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "品类不符：200G/400G DCI（Saga 不供）；疑为 ISP/网络服务商；非主攻区（巴西）"
  ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
+  "p1": null,
   "tier": 25,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "RFQ 品类 200G/400G DCI（Saga 不供）、疑为 ISP/服务商 → 改 C"
  },
- "email_hook": "Luciano, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "（不发送：超范围品类）"
 }

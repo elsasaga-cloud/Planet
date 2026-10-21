@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（engitel.com.mx，快照 2026-10-21）",
- "summary": "墨西哥系统集成/工程商：官网「Engitel S.A de C.V」；品类词：电信 / FTTH / ISP 设备；表内「2光10电 / from: 自建站」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "墨西哥 Engitel S.A. de C.V.（面向中小企业的 IT 咨询与方案实施，15 年以上；自建站询盘「2 光 10 电」；KP Enrique Camberos）；表内未跟进。",
+ "type": "IT 方案商（墨西哥，2 光 10 电询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,61 @@
    "quote": "2光10电 / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Engitel 定位",
+   "quote": "Engitel S.A de C.V ; servicios de consultoría e implementación de soluciones a pequeñas y medianas empresas",
+   "url": "https://www.engitel.com.mx/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2 光 10 电询盘",
+   "quote": "2光10电 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Enrique Camberos",
+   "title": "（职务待核）",
+   "email": "ecamberos@engitel.com.mx",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "墨西哥",
   "other": "官网 engitel.com.mx，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备"
+  "IT 咨询 / 方案实施（墨西哥）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "IT 方案商（墨西哥，2 光 10 电询盘）",
   "region": "墨西哥",
   "contact": "ecamberos@engitel.com.mx"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.engitel.com.mx/）",
-  "用户表兴趣/备注：2光10电 / from: 自建站"
+  "官网：Engitel S.A de C.V ; Brindar servicios de consultoría e implementación de soluciones a pequeñas y medianas empresas ; ¡ Con mas de 15 años de experiencia !",
+  "表内：2 光 10 电 / from: 自建站；KP Enrique"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，墨西哥）；2 光 10 电非标准口数（以 8+2 或 16+2 替代，待确认）；询盘时效待核"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）"
  },
- "email_hook": "Enrique, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Enrique, following your enquiry for a 2-fibre + 10-copper switch: we can offer 8-GE (PoE) + 2 SFP L2+ or 16-GE + 2 SFP configurations from single units, CE/RoHS, EXW USD, 10–15 days — are the 10 copper ports needed with PoE, and how many units?"
 }

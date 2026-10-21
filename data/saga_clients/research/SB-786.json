@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（trioms.com，快照 2026-10-21）",
- "summary": "新加坡电商/网店：官网「Trioms Technology - Technology Provider for Today and Tomorrow!」（en）；品类词：光纤 / 媒体转换；站内型号：EWS-PRO-2、WS-32、EFM-INV2、LRX-1；表内「AOA的工业MC 就这一款」；群发 14 次、无回复。",
- "type": "电商/网店",
+ "summary": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
+ "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "AOA"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "AOA的工业MC 就这一款",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Trioms MC 页",
+   "quote": "trioms.com ; /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
+   "url": "https://www.trioms.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "AOA 工业 MC 一款",
+   "quote": "AOA的工业MC 就这一款",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "新加坡",
   "other": "官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换"
+  "仪器 / 技术产品分销（新加坡）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
   "region": "新加坡",
   "contact": "sales@trioms.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.trioms.com/）",
-  "官网公开邮箱：sales@trioms.com",
-  "用户表兴趣/备注：AOA的工业MC 就这一款"
+  "官网：Trioms Technology - Technology Provider for Today and Tomorrow! ; JW Fishers Underwater search products ; Kestrel Meters ; Boltek；页面 /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
+  "表内：AOA 的工业 MC 就这一款"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-110FE",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?"
 }
