@@ -1,0 +1,59 @@
+{
+ "code": "SB-1017",
+ "name_official": "Necdet Şenkaya（bilecik@hotmail.com，TR；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Necdet Şenkaya（bilecik@hotmail.com）——要工业级 PoE 交换机；无电话、无公司名；无跟进。Hotmail + 邮箱名「bilecik」（比莱吉克省）→ 疑为该省的个体安装商；仅表内信息。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：要工业级 PoE 交换机；仅 Hotmail",
+   "quote": "要工业级POE交换机 / NECDET SENKACAYC / bilecik@hotmail.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Necdet Şenkaya",
+   "role": "（ISAF 名片）",
+   "email": "bilecik@hotmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "hq": "Türkiye（疑 Bilecik）",
+  "size": "待核",
+  "other": "仅 Hotmail"
+ },
+ "business_lines": [
+  "（待核）"
+ ],
+ "channels": {
+  "邮箱": "bilecik@hotmail.com（用户表）"
+ },
+ "signals": [
+  "明确要工业 PoE → 发土耳其语报价"
+ ],
+ "risks": [
+  "无公司信息；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）"
+ },
+ "email_hook": "Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim."
+}

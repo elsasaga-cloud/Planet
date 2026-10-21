@@ -105,24 +105,22 @@ SA-158,B,T1,Sitis Sarl,瑞士,欧洲,0,0,0,0,0,0,1,0,6,sitis.ch,1,1,1
 SB-422,B,T1,Optima Soft,土耳其,土耳其,0,0,0,0,0,0,1,0,2,optima-engineering.com;optima.tc,1,1,1
 SB-043,B,T1,STORM ICT,科索沃,欧洲,0,0,0,1,0,0,1,0,0,storm-ict.com;ict.com,2,1,1
 SB-054,B,T1,DE secure,土耳其,土耳其,0,0,0,1,0,0,1,0,0,desecuretechnology.com;desecure.com.tr,1,1,1
-SB-055,B,T1,F.A.S.T,土耳其,土耳其,0,0,0,1,0,0,1,0,0,fasttr.com,1,0,0
-SB-058,B,T1,LABOR,土耳其,土耳其,0,0,0,1,0,0,1,0,0,labormuhendislik.com.tr,1,0,0
+SB-055,B,T1,F.A.S.T,土耳其,土耳其,0,0,0,1,0,0,1,0,0,fasttr.com,1,1,1
+SB-058,B,T1,LABOR,土耳其,土耳其,0,0,0,1,0,0,1,0,0,labormuhendislik.com.tr,1,1,1
 SB-060,B,T1,ORAL GUVENLIK,土耳其,土耳其,0,0,0,1,0,0,1,0,0,oralcompanies.com;oralguvenlik.com,1,1,1
-SB-062,B,T1,acusenseteknoloji.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,acusenseteknoloji.com,1,0,0
+SB-062,B,T1,acusenseteknoloji.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,acusenseteknoloji.com,1,1,1
 SB-063,B,T1,ag-bilgisayar.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,ag-bilgisayar.com,1,1,1
 SB-072,B,T1,klasnet.com.tr,土耳其,土耳其,0,0,0,1,0,0,1,0,0,klasnet.com.tr,1,1,1
-SB-076,B,T1,sinerjik,土耳其,土耳其,0,0,0,1,0,0,1,0,0,sinerjik.net,1,0,0
+SB-076,B,T1,sinerjik,土耳其,土耳其,0,0,0,1,0,0,1,0,0,sinerjik.net,1,1,1
 SB-096,B,T1,ONSIS ELEKTRONIK,土耳其,土耳其,0,0,0,1,0,1,0,0,0,onsis.com.tr,1,1,1
-SB-1000,B,T1,stasanet.rs,土耳其,土耳其,0,0,0,1,0,0,1,0,0,stasanet.rs,0,0,0
-SB-1017,B,T1,NECDET SENKACAYC,土耳其,土耳其,0,0,0,1,0,0,0,0,0,,1,0,0
-SB-1040,B,T1,DIMAS TEKNOLOJI VE GUVENLIK,土耳其,土耳其,0,0,0,1,0,0,0,0,0,,1,0,0
-SB-160,B,T1,CESS Govalik,土耳其,土耳其,0,0,0,1,0,0,1,0,0,shnrise.com,1,0,0
-SB-250,B,T1,camsanordu.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,camsanordu.com,1,0,0
-SB-251,B,T1,ebatek.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,ebatek.com,1,0,0
-SB-252,B,T1,turkuaz,土耳其,土耳其,0,0,0,1,0,0,1,0,0,antalyaturkuaz.com,1,0,0
-SB-334,B,T1,3s.com.tr,土耳其,土耳其,0,0,0,1,0,0,0,0,0,3s.com.tr,1,0,0
-SB-337,B,T1,Go. Technology,土耳其,土耳其,0,0,0,1,0,0,0,0,0,goit.ps,1,0,0
-SB-338,B,T1,HCS,土耳其,土耳其,0,0,0,1,0,0,0,0,0,hescs.com,2,0,0
+SB-1000,B,T1,stasanet.rs,土耳其,土耳其,0,0,0,1,0,0,1,0,0,stasanet.rs,0,1,1
+SB-1017,B,T1,NECDET SENKACAYC,土耳其,土耳其,0,0,0,1,0,0,0,0,0,,1,1,1
+SB-1040,B,T1,DIMAS TEKNOLOJI VE GUVENLIK,土耳其,土耳其,0,0,0,1,0,0,0,0,0,,1,1,1
+SB-160,B,T1,CESS Govalik,土耳其,土耳其,0,0,0,1,0,0,1,0,0,shnrise.com,1,1,1
+SB-250,B,T1,camsanordu.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,camsanordu.com,1,1,1
+SB-251,B,T1,ebatek.com,土耳其,土耳其,0,0,0,1,0,0,1,0,0,ebatek.com,1,1,1
+SB-252,B,T1,turkuaz,土耳其,土耳其,0,0,0,1,0,0,1,0,0,antalyaturkuaz.com,1,1,1
+SB-334,B,T1,3s.com.tr,土耳其,土耳其,0,0,0,1,0,0,0,0,0,3s.com.tr,1,1,1
 SB-340,B,T1,PROVES,土耳其,土耳其,0,0,0,1,0,0,0,0,0,proves.com.tr,1,0,0
 SB-347,B,T1,alhossan.ly,土耳其,土耳其,0,0,0,1,0,0,0,0,0,alhossan.ly,1,0,0
 SB-355,B,T1,fhguvenlik.com,土耳其,土耳其,0,0,0,1,0,0,0,0,0,fhguvenlik.com,1,0,0

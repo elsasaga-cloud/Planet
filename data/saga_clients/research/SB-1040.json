@@ -1,0 +1,60 @@
+{
+ "code": "SB-1040",
+ "name_official": "Dimas Teknoloji ve Güvenlik（TR；无域名，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Mustafa Yıldız（dimasteknoloji@gmail.com，+90 530 934 12 80）——不会英文，要收发器价格，问在当地是否有经销商；无跟进。无域名/公开资料 → 仅表内信息。需求为光收发器（SFP）：价格表无 SFP 单列 → 需向 SmartByte 另询；「当地经销商」问题 = Saga 在土耳其无代理，可直供。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：不会英文；要收发器价格；问当地经销商",
+   "quote": "不会英文  要收发器价格  问在当地是否有经销商 / Mustafa YILDIZ / 0 530 934 12 80",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mustafa Yıldız",
+   "role": "（ISAF 名片；业主推测）",
+   "email": "dimasteknoloji@gmail.com（用户表）",
+   "phone": "+90 530 934 12 80（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Dimas Teknoloji ve Güvenlik（待核）",
+  "hq": "Türkiye（待核）",
+  "size": "微型安防/技术店（推测）",
+  "other": "仅 Gmail；不会英文"
+ },
+ "business_lines": [
+  "安防/技术安装（推测）"
+ ],
+ "channels": {
+  "电话": "+90 530 934 12 80（用户表）",
+  "邮箱": "dimasteknoloji@gmail.com（用户表）"
+ },
+ "signals": [
+  "收发器 + 问当地经销商 → 小额直供；可搭 MC/2 光口小机"
+ ],
+ "risks": [
+  "SFP 未在价格表；微型；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）"
+ },
+ "email_hook": "Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?"
+}

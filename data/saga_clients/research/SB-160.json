@@ -1,0 +1,59 @@
+{
+ "code": "SB-160",
+ "name_official": "CESS Güvenlik（shnrise.com，TR；官网未检索到）",
+ "researched_at": "2026-10-21",
+ "website_status": "未检索到",
+ "summary": "ISAF 记录：Şahin Öztürk（sahin@shnrise.com）——最主要问了收发器；无后续跟进。用户表公司名「CESS Govalik」（疑 CESS Güvenlik），域名 shnrise.com 无搜索结果 → 仅表内信息。需求为光收发器：价格表无 SFP 单列 → 待核型。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：最主要问了收发器",
+   "quote": "最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Şahin Öztürk",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "sahin@shnrise.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "官网未检索到 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "CESS Güvenlik（待核）",
+  "hq": "Türkiye（待核）",
+  "size": "待核",
+  "other": "域名 shnrise.com 与公司名不一致"
+ },
+ "business_lines": [
+  "安防（推测）"
+ ],
+ "channels": {
+  "邮箱": "sahin@shnrise.com（用户表）"
+ },
+ "signals": [
+  "收发器需求 → 需 SFP 价目（SmartByte 另询）"
+ ],
+ "risks": [
+  "SFP 未在价格表；无公开资料；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
+ },
+ "email_hook": "Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim."
+}

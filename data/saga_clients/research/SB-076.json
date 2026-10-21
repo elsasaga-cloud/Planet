@@ -1,0 +1,59 @@
+{
+ "code": "SB-076",
+ "name_official": "Sinerjik（sinerjik.net，TR；官网未检索到）",
+ "researched_at": "2026-10-21",
+ "website_status": "未检索到",
+ "summary": "ISAF 记录：Ufuk Gökalp（ufuk@sinerjik.net）——问了 PoE splitter（一个输入、两个输出），我方推了 5 口 PoE 延长器，客户想要小的那种；无后续跟进。域名 sinerjik.net 无搜索结果 → 仅表内信息。需求为 PoE 分离/延长类配件：Saga 价格表无 splitter / 延长器 / injector SKU（见 Q-32）→ 待核型；可替代方案为 DIN 4 口 PoE 小机（需外接电源）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：PoE splitter 1 进 2 出；推 5 口 PoE 延长器；要小的",
+   "quote": "问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种 / Ufuk GOKALP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ufuk Gökalp",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "ufuk@sinerjik.net（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "官网未检索到 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Sinerjik（待核）",
+  "hq": "Türkiye（待核）",
+  "size": "待核",
+  "other": "—"
+ },
+ "business_lines": [
+  "（待核）安防/网络安装"
+ ],
+ "channels": {
+  "邮箱": "ufuk@sinerjik.net（用户表）"
+ },
+ "signals": [
+  "需求是「一进两出」PoE 分配 → 小型 PoE 延长/分配器；Saga 无此 SKU"
+ ],
+ "risks": [
+  "产品缺口（splitter/extender）；无公开资料；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）"
+ },
+ "email_hook": "Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?"
+}

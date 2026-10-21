@@ -71734,7 +71734,104 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-055",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-055",
+"name_official": "F.A.S.T. — Fabrika Aygıtları Sistem Teknolojisi A.Ş.（İstanbul Ataşehir, TR；fasttr.com；工厂自动化分销商）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伊斯坦布尔 Ataşehir 的工厂自动化分销商 F.A.S.T.（1994 年成立；约 30 人（工程师/技师）；Meanwell 电源、Shihlin 变频、Renu PLC/HMI、RASCH HMI、Texcomputer、Siboni 的土耳其分销商；全国 16 个区域经销网络；技术论坛与培训；总经理 Şener Üstbaş；Küçükbakkalköy Mah. Dereyolu Sok. No:4 Ataşehir；+90 216 574 94 34；satis@fasttr.com）。ISAF 记录：Ercan Erinç——问了工业级 5 口 PoE 交换机，说自己也代理 PLC、IO 模块；无后续跟进。自动化分销商（Meanwell 电源 + PLC）→ DIN 工业交换机天然互补 → 分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Meanwell",
+"Shihlin",
+"Renu",
+"RASCH",
+"Texcomputer"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位与品牌",
+"quote": "Fabrika Aygıtları Sistem Teknolojisi (FAST), 1994 yılında fabrika otomasyonu konusunda hizmet vermek üzere kuruldu. … Meanwell, RASCH, Shihlin, Renu ve Texcomputer markalarının distribütörü",
+"url": "https://www.fasttr.com/",
+"date": "2026-03-24"
+},
+{
+"kind": "官网",
+"claim": "规模与经销网",
+"quote": "otomasyon konusunda uzmanlaşmış yaklaşık 30 kişilik deneyimli kadrosu … Türkiye'de 16 bölgeye yayılmış bayi ağı",
+"url": "https://www.fasttr.com/hakkimizda/",
+"date": "2024-12-04"
+},
+{
+"kind": "官网",
+"claim": "地址与联系方式",
+"quote": "Küçükbakkalköy Mah. Dereyolu Sok. No: 4 – 34750 Ataşehir / İstanbul … 0216 574 9434 … satis@fasttr.com support@fasttr.com",
+"url": "https://www.fasttr.com/iletisim/",
+"date": "2020-12-15"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：工业 5 口 PoE；代理 PLC/IO",
+"quote": "问了工业级5口POE交换机  说自己也代理PLC  IO模块",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ercan Erinç",
+"role": "（ISAF 名片；职务待核）",
+"email": "ercan@fasttr.com（用户表）",
+"phone": "+90 216 574 94 34（公司）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Şener Üstbaş",
+"role": "General Manager（LinkedIn 公开）",
+"email": "—",
+"phone": "—",
+"source": "https://www.linkedin.com/in/senerustbas/"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对）"
+},
+"company_facts": {
+"legal_name": "Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.）",
+"founded": "1994",
+"hq": "Küçükbakkalköy Mah. Dereyolu Sok. No:4, 34750 Ataşehir / İstanbul（+90 216 574 94 34；satis@fasttr.com）",
+"size": "约 30 人（官网）；11–50（Crunchbase）",
+"other": "分销 Meanwell/Shihlin/Renu/RASCH/Texcomputer；16 区域经销网"
+},
+"business_lines": [
+"工厂自动化元器件分销（PLC、HMI、变频、电源）",
+"技术支持/培训（FAST Teknik Destek）"
+],
+"channels": {
+"网站": "https://www.fasttr.com/",
+"电话": "+90 216 574 94 34（公开）",
+"邮箱（公开）": "satis@fasttr.com / support@fasttr.com"
+},
+"signals": [
+"明确询工业 5 口 PoE → STI-054GP；Meanwell DIN 电源 + Renu PLC 的客户正是 DIN 交换机用户；16 个区域经销商 = 二级分销放大"
+],
+"risks": [
+"分销商比价；工业交换机为新增品类需技术支持材料（土耳其语）；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-054GP",
+"tier": 20,
+"why": "分销 20% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，−40~+75 ℃，$31.2）对应「工业级 5 口 PoE」；带 SFP 的 STI-144GP（$34.1）；8 口 STI-288GP（$57.4）"
+},
+"email_hook": "Ercan Bey, ISAF'ta sorduğunuz 5 port endüstriyel PoE switch: DIN ray 4 PoE + 1 uplink, 48 V DC giriş (Meanwell DIN kaynaklarınızla uyumlu), −40/+75 °C, distribütör fiyatı EXW 31,2 USD — bayi ağınız için ilk sipariş 50 adet olur mu?"
+}
 },
 {
 "name": "Gigalight Pte ltd",
@@ -72524,7 +72621,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-058",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-058",
+"name_official": "Labor Mühendislik（labormuhendislik.com.tr，TR；官网未检索到）",
+"researched_at": "2026-10-21",
+"website_status": "未检索到（搜索引擎无该域结果）",
+"summary": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：不会英文；工业 PoE；要价格表",
+"quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ramazan Daş",
+"role": "（ISAF 名片；职务待核）",
+"email": "info@labormuhendislik.com.tr（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "官网未检索到 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Labor Mühendislik（待核）",
+"hq": "Türkiye（城市待核）",
+"size": "待核（工程公司）",
+"other": "仅 info@ 邮箱；不会英文"
+},
+"business_lines": [
+"工程承包（Mühendislik；细分待核）"
+],
+"channels": {
+"邮箱": "info@labormuhendislik.com.tr（用户表）"
+},
+"signals": [
+"主动要价格表 → 发土耳其语工业 PoE 价目（4/8/16 口）"
+],
+"risks": [
+"无公开资料；语言；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）"
+},
+"email_hook": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?"
+}
 },
 {
 "name": "Metalog International DMCC",
@@ -73205,7 +73361,77 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-062",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-062",
+"name_official": "Acusense Teknoloji（Hikvision 网店/项目供应商，İstanbul, TR；acusenseteknoloji.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线（电商）",
+"summary": "伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Hikvision（主销）"
+],
+"evidence": [
+{
+"kind": "电商站",
+"claim": "业务与联系方式",
+"quote": "Hikvision Kamera Sistemleri | Orijinal Ürün Güvenlik Sistemleri Satış Sitesi … Çağrı Merkezi 0542 839 68 98 0216 888 29 34 info@acusenseteknoloji.com … Hikvision Proje Ürünleri",
+"url": "https://www.acusenseteknoloji.com/proje-urunler/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：不会英文；找工业 PoE",
+"quote": "不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ümit Çelik",
+"role": "（ISAF 名片；职务待核）",
+"email": "info@acusenseteknoloji.com（用户表）",
+"phone": "+90 542 839 68 98（公司 GSM，公开）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（电商站核对）"
+},
+"company_facts": {
+"legal_name": "Acusense Teknoloji（待核法人）",
+"hq": "İstanbul（亚洲侧，0216）（+90 216 888 29 34；info@acusenseteknoloji.com）",
+"size": "小型电商/项目商",
+"other": "Hikvision 全线（含 AcuSense/DeepinView 项目机型）"
+},
+"business_lines": [
+"Hikvision 摄像/NVR 电商与项目供货"
+],
+"channels": {
+"电商": "https://www.acusenseteknoloji.com/",
+"电话": "+90 216 888 29 34 / +90 542 839 68 98（公开）",
+"邮箱（公开）": "info@acusenseteknoloji.com"
+},
+"signals": [
+"Hikvision 项目机型（高温/PTZ）多为工业现场 → 工业 PoE 交换机可作网店新增品类并随项目出货"
+],
+"risks": [
+"电商比价；语言；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）"
+},
+"email_hook": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?"
+}
 },
 {
 "name": "ag-bilgisayar.com",
@@ -77642,7 +77868,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-076",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-076",
+"name_official": "Sinerjik（sinerjik.net，TR；官网未检索到）",
+"researched_at": "2026-10-21",
+"website_status": "未检索到",
+"summary": "ISAF 记录：Ufuk Gökalp（ufuk@sinerjik.net）——问了 PoE splitter（一个输入、两个输出），我方推了 5 口 PoE 延长器，客户想要小的那种；无后续跟进。域名 sinerjik.net 无搜索结果 → 仅表内信息。需求为 PoE 分离/延长类配件：Saga 价格表无 splitter / 延长器 / injector SKU（见 Q-32）→ 待核型；可替代方案为 DIN 4 口 PoE 小机（需外接电源）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：PoE splitter 1 进 2 出；推 5 口 PoE 延长器；要小的",
+"quote": "问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种 / Ufuk GOKALP",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ufuk Gökalp",
+"role": "（ISAF 名片；职务待核）",
+"email": "ufuk@sinerjik.net（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "官网未检索到 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Sinerjik（待核）",
+"hq": "Türkiye（待核）",
+"size": "待核",
+"other": "—"
+},
+"business_lines": [
+"（待核）安防/网络安装"
+],
+"channels": {
+"邮箱": "ufuk@sinerjik.net（用户表）"
+},
+"signals": [
+"需求是「一进两出」PoE 分配 → 小型 PoE 延长/分配器；Saga 无此 SKU"
+],
+"risks": [
+"产品缺口（splitter/extender）；无公开资料；无后续跟进"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）"
+},
+"email_hook": "Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?"
+}
 },
 {
 "name": "wire.tech",
@@ -82899,7 +83184,93 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1000",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1000",
+"name_official": "STASANET d.o.o. Beograd-Vračar（Belgrade, 塞尔维亚；stasanet.rs；布拉格 Stasanet s.r.o. 分支）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Jablotron（合作伙伴）"
+],
+"evidence": [
+{
+"kind": "登记名录",
+"claim": "法人、地址、董事、股东",
+"quote": "STASANET doo je registrovano na adresi KNEZA STRACIMIRA 28, 11050, Beograd (Vračar), Srbija i posluje od 29.10.2013. … kontakt email cegar@stasanet.rs. Trenutni direktor je Predrag Čegar. Vlasnik: Predrag Čegar(15,00%) Vlasnik: MVA GROUP s.r.o.(85,00%) … Veličina preduzeća: Mikro",
+"url": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "布拉格母公司背景",
+"quote": "Stasanet DOO je osnovao g. Jakubik sa svojim partnerima iz Praga. Počinje sa radom kao osma i najmanja poslovnica evropske trgovinske kuće Stasanet SRO, sa centralom u Pragu koja duže vreme deluje na Evropskom tržištu kao distributer bezbednosne tehnike. Prvi uvoz opreme u januaru 2014.",
+"url": "https://www.stasanet.rs/o-nama",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模",
+"quote": "STASANETrs … Industry: Security and Investigations … Company size: 2-10 employees … Headquarters: Belgrade … Founded: 2013",
+"url": "https://rs.linkedin.com/company/stasanet-doo",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：Ady 加 WhatsApp，拿彩页",
+"quote": "Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Predrag Čegar",
+"role": "Direktor（登记公开）",
+"email": "cegar@stasanet.rs（登记公开）",
+"phone": "+381 65 247 0170（公开；用户表 WhatsApp 已加）",
+"source": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（登记 + 官网核对；国家更正 RS）"
+},
+"company_facts": {
+"legal_name": "STASANET doo BEOGRAD-VRAČAR（MB 20967374，PIB 108279647）",
+"founded": "2013-10-29",
+"hq": "Kneza Stracimira 28, 11050 Beograd (Vračar)；通讯 Vojvode Hrvoja 28（+381 65 247 0170；sales@stasanet.rs）",
+"size": "2–10（LinkedIn）；微型（登记）",
+"other": "布拉格 Stasanet s.r.o. 分支（MVA Group 85%）；安防技术分销 + 设计咨询；Jablotron 合作伙伴"
+},
+"business_lines": [
+"安防技术分销（报警、CCTV、门禁）",
+"技术保护系统设计与咨询"
+],
+"channels": {
+"网站": "https://www.stasanet.rs/",
+"电话": "+381 65 247 0170 / +381 11 4065 158（公开）",
+"邮箱（公开）": "sales@stasanet.rs；cegar@stasanet.rs（登记公开）"
+},
+"signals": [
+"安防分销商 + 布拉格母公司渠道 → 8 口 PoE 与工业机可进其目录；塞尔维亚非欧盟（清关/关税单独）"
+],
+"risks": [
+"小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-28GPM",
+"tier": 20,
+"why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）"
+},
+"email_hook": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+}
 },
 {
 "name": "stordis.com",
@@ -86707,7 +87078,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1017",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1017",
+"name_official": "Necdet Şenkaya（bilecik@hotmail.com，TR；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：Necdet Şenkaya（bilecik@hotmail.com）——要工业级 PoE 交换机；无电话、无公司名；无跟进。Hotmail + 邮箱名「bilecik」（比莱吉克省）→ 疑为该省的个体安装商；仅表内信息。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：要工业级 PoE 交换机；仅 Hotmail",
+"quote": "要工业级POE交换机 / NECDET SENKACAYC / bilecik@hotmail.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Necdet Şenkaya",
+"role": "（ISAF 名片）",
+"email": "bilecik@hotmail.com（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"hq": "Türkiye（疑 Bilecik）",
+"size": "待核",
+"other": "仅 Hotmail"
+},
+"business_lines": [
+"（待核）"
+],
+"channels": {
+"邮箱": "bilecik@hotmail.com（用户表）"
+},
+"signals": [
+"明确要工业 PoE → 发土耳其语报价"
+],
+"risks": [
+"无公司信息；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；4 口 STI-144GP（$35.5）"
+},
+"email_hook": "Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim."
+}
 },
 {
 "name": "Nuthill",
@@ -91811,7 +92241,67 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1040",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1040",
+"name_official": "Dimas Teknoloji ve Güvenlik（TR；无域名，Gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：Mustafa Yıldız（dimasteknoloji@gmail.com，+90 530 934 12 80）——不会英文，要收发器价格，问在当地是否有经销商；无跟进。无域名/公开资料 → 仅表内信息。需求为光收发器（SFP）：价格表无 SFP 单列 → 需向 SmartByte 另询；「当地经销商」问题 = Saga 在土耳其无代理，可直供。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：不会英文；要收发器价格；问当地经销商",
+"quote": "不会英文  要收发器价格  问在当地是否有经销商 / Mustafa YILDIZ / 0 530 934 12 80",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Mustafa Yıldız",
+"role": "（ISAF 名片；业主推测）",
+"email": "dimasteknoloji@gmail.com（用户表）",
+"phone": "+90 530 934 12 80（用户表）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Dimas Teknoloji ve Güvenlik（待核）",
+"hq": "Türkiye（待核）",
+"size": "微型安防/技术店（推测）",
+"other": "仅 Gmail；不会英文"
+},
+"business_lines": [
+"安防/技术安装（推测）"
+],
+"channels": {
+"电话": "+90 530 934 12 80（用户表）",
+"邮箱": "dimasteknoloji@gmail.com（用户表）"
+},
+"signals": [
+"收发器 + 问当地经销商 → 小额直供；可搭 MC/2 光口小机"
+],
+"risks": [
+"SFP 未在价格表；微型；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 25,
+"why": "默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）"
+},
+"email_hook": "Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?"
+}
 },
 {
 "name": "Fiberbase",
@@ -150120,7 +150610,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-160",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-160",
+"name_official": "CESS Güvenlik（shnrise.com，TR；官网未检索到）",
+"researched_at": "2026-10-21",
+"website_status": "未检索到",
+"summary": "ISAF 记录：Şahin Öztürk（sahin@shnrise.com）——最主要问了收发器；无后续跟进。用户表公司名「CESS Govalik」（疑 CESS Güvenlik），域名 shnrise.com 无搜索结果 → 仅表内信息。需求为光收发器：价格表无 SFP 单列 → 待核型。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：最主要问了收发器",
+"quote": "最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Şahin Öztürk",
+"role": "（ISAF 名片；职务待核）",
+"email": "sahin@shnrise.com（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "官网未检索到 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "CESS Güvenlik（待核）",
+"hq": "Türkiye（待核）",
+"size": "待核",
+"other": "域名 shnrise.com 与公司名不一致"
+},
+"business_lines": [
+"安防（推测）"
+],
+"channels": {
+"邮箱": "sahin@shnrise.com（用户表）"
+},
+"signals": [
+"收发器需求 → 需 SFP 价目（SmartByte 另询）"
+],
+"risks": [
+"SFP 未在价格表；无公开资料；无后续跟进"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
+},
+"email_hook": "Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim."
+}
 },
 {
 "name": "HANCHANG Infotech CO.,LTD",
@@ -169978,7 +170527,91 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-250",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-250",
+"name_official": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司历史与总部",
+"quote": "1984 yılında Türkiye, Orta Doğu ve Balkanların ilk, Avrupa'nın dördüncü MDF üreticisi olarak Ordu'da kurulan … 2011 yılından itibaren ÇAMSAN ORDU … 0 312 446 92 92 … info@camsanordu.com … Kızılırmak Mah. Dumlupınar Bul. A Blok No: 9A İç Kapı No: 685 (YDA Center 17. Kat) Çankaya / ANKARA",
+"url": "https://camsanordu.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "员工数",
+"quote": "Camsan Ordu Agac A.S. … incorporated on February 25, 2011. The total number of employees is currently 780 (2026).",
+"url": "https://www.emis.com/php/company-profile/TR/Camsan_Ordu_Agac_AS_en_3324679.html",
+"date": "2026-05-27"
+},
+{
+"kind": "名录",
+"claim": "MDF3 投资",
+"quote": "Çamsan Ordu made a huge investment of 70 million Euros for the new MDF 3 facility in 2019",
+"url": "https://www.tradeatlas.com/en/company-hs-codes/camsan-ordu-agac-sanayi-ve-tic-as/turkey?company-code=3YcDF5He",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：拿彩页未交谈；邮箱待核",
+"quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（姓名待核；邮箱前缀 sclcule.o）",
+"role": "（ISAF 名片；用户表注：邮箱需与客户再确认）",
+"email": "sclcule.o@camsanordu.com（用户表，待核）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.",
+"founded": "1984（工厂）/ 2011-02-25（现法人）",
+"hq": "Kızılırmak Mah. Dumlupınar Bul. A Blok No:9A İç Kapı 685 (YDA Center K:17) Çankaya / Ankara；工厂 Uzunisa Kökenli Köyü, Ordu（+90 452 225 53 00）",
+"size": "780 人（EMIS 2026）；501–1,000（LinkedIn）",
+"other": "MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂"
+},
+"business_lines": [
+"MDF / 层压板 / 强化地板制造与出口"
+],
+"channels": {
+"网站": "https://camsanordu.com/",
+"电话": "+90 312 446 92 92（总部，公开）",
+"邮箱（公开）": "info@camsanordu.com"
+},
+"signals": [
+"大型木业工厂（粉尘/宽温/长距离光纤）= 工业 DIN 交换机与 MC 的典型自用场景；MDF3 新线 = 新建网络点位",
+"工厂采购走 IT/电气部门 → 需先确认联系人"
+],
+"risks": [
+"终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）"
+},
+"email_hook": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?"
+}
 },
 {
 "name": "ebatek.com",
@@ -170109,7 +170742,84 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-251",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-251",
+"name_official": "Ebatek Bilişim Teknolojileri（Gaziantep, TR；ebatek.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位与地址",
+"quote": "Ebatek Bilişim Teknolojileri, 2005'te Gaziantep'te kurulmuş olup bilgisayar ve bilişim konusunda faaliyet gösterirken aynı zamanda kendi yazılım ürünleri, bilgisayar sarf malzemeleri danışmanlık ve eğitim hizmetleri … İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil / Gaziantep … Tel: +90 342 215 13 22 … info@ebatek.com",
+"url": "https://www.ebatek.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "MIS 项目业务",
+"quote": "önemli kamusal ve özel kuruluşların Yönetim Bilişim Sistemleri (MIS) projelerinde sistem çözümleme/tasarım ve uygulama yazılımı geliştirme uzmanlığını",
+"url": "https://www.ebatek.com/page.asp?s=hakkimizda",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：拿彩页；要求 WhatsApp",
+"quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "S. Coşkun Balkış",
+"role": "（ISAF 名片；负责人推测）",
+"email": "scbalkis@ebatek.com（用户表）",
+"phone": "—（要求用 WhatsApp 联系）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对）"
+},
+"company_facts": {
+"legal_name": "Ebatek Bilişim Teknolojileri",
+"founded": "2005",
+"hq": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（+90 342 215 13 22；info@ebatek.com）",
+"size": "小型（「genç, güçlü ve dinamik ekip」）",
+"other": "软件 + 硬件供应 + MIS 项目（公共机构项目按个案守界）"
+},
+"business_lines": [
+"IT 硬件/耗材供应与技术服务",
+"自有软件产品与 MIS 项目开发"
+],
+"channels": {
+"网站": "https://www.ebatek.com/",
+"电话": "+90 342 215 13 22 / 35 66（公开）",
+"邮箱（公开）": "info@ebatek.com"
+},
+"signals": [
+"IT 项目商在 MIS/硬件项目里顺带供网络设备 → 8/24 口 L2 PoE；要求 WhatsApp 沟通"
+],
+"risks": [
+"需求未表达；公共项目守界按个案；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
+}
 },
 {
 "name": "turkuaz",
@@ -170241,7 +170951,84 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-252",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-252",
+"name_official": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（Antalya Muratpaşa, TR；antalyaturkuaz.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线（含 B2B 门户）",
+"summary": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "业务与地址",
+"quote": "Endüstriyel Güvenlik Mühendisliği … yapay zeka destekli analiz, yüz tanıma, plaka okuma ve termal görüş … Kurumsal Network Altyapısı … Fiber optik sonlandırma, yapısal kablolama … 25+ Yıl … turkuaz@antalyaturkuaz.com … Altındağ Mah. 166. Sokak Doğan Apt No:24/C, Muratpaşa, Antalya",
+"url": "http://www.antalyaturkuaz.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "规模与电话",
+"quote": "Antalya Turkuaz Bilişim Teknolojileri … security camera systems, fire alarm systems, network systems, and cybersecurity solutions … revenue is <$5 Million … has 11-50 employees … Phone number: +90 2423453691",
+"url": "https://www.zoominfo.com/c/antalya-turkuaz-bilis%CC%A7im-teknolojileri/1339718310",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：不会英语，拿彩页",
+"quote": "不会说英语， 拿了彩页 / Gokhan naktar",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Gökhan Naktar",
+"role": "（ISAF 名片；职务待核）",
+"email": "naktar@antalyaturkuaz.com（用户表）",
+"phone": "+90 242 345 36 91（公司）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对）"
+},
+"company_facts": {
+"legal_name": "Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.",
+"hq": "Altındağ Mah. 166. Sokak Doğan Apt. No:24/C, Muratpaşa / Antalya（+90 242 345 36 91；turkuaz@antalyaturkuaz.com）",
+"size": "11–50（ZoomInfo）；营收 <$5M",
+"other": "安防工程 + 网络基础设施 + B2B 分销门户；守界：火灾报警主系统不供"
+},
+"business_lines": [
+"AI 安防工程（人脸/车牌/热成像）",
+"企业网络基础设施（光纤、布线、Wi-Fi）",
+"B2B 产品分销（b2b 门户）"
+],
+"channels": {
+"网站": "http://www.antalyaturkuaz.com/ · https://b2b.antalyaturkuaz.com/",
+"电话": "+90 242 345 36 91（公开）",
+"邮箱（公开）": "turkuaz@antalyaturkuaz.com"
+},
+"signals": [
+"既做工程又有 B2B 分销门户 → 可同时自用与上架；安塔利亚酒店/设施安防 → 24 口 PoE 与工业 8 口"
+],
+"risks": [
+"语言（土耳其语）；需求未表达；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）"
+},
+"email_hook": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
+}
 },
 {
 "name": "watchnetinc.com",
@@ -191992,7 +192779,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-334",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-334",
+"name_official": "3S（3s.com.tr，TR；官网未检索到）",
+"researched_at": "2026-10-21",
+"website_status": "未检索到（搜索被 ASELSAN「TULGAR」噪声淹没）",
+"summary": "ISAF 记录：Savaş Tulgar（savas@3s.com.tr）——要工业级交换机；无后续跟进。3s.com.tr 在搜索引擎无有效结果（同名 3-S Mühendislik Düzce 为润滑油厂，非本客户）→ 仅表内信息；需求明确 → 直接报工业机。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：要工业级交换机",
+"quote": "要工业级交换机 / SAVAS TULGAR / savas@3s.com.tr",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Savaş Tulgar",
+"role": "（ISAF 名片；职务待核）",
+"email": "savas@3s.com.tr（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "官网未检索到 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "3S（待核）",
+"hq": "Türkiye（待核）",
+"size": "待核",
+"other": "—"
+},
+"business_lines": [
+"（待核）"
+],
+"channels": {
+"邮箱": "savas@3s.com.tr（用户表）"
+},
+"signals": [
+"要工业级交换机 → 报 DIN 8 口（PoE/非 PoE 两版）"
+],
+"risks": [
+"无公开资料；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）；非 PoE STI-280GE（$48.6）；管理型 STI-288DGGPM（$145.7）"
+},
+"email_hook": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?"
+}
 },
 {
 "name": "Delta Consulting",
@@ -192689,10 +193535,69 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 土耳其/土耳其"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "名单内·未触达",
 "code": "SB-337",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-337",
+"name_official": "Go. Technology（goit.ps，巴勒斯坦；ISAF 参展记录为土耳其）",
+"researched_at": "2026-10-21",
+"website_status": "未核",
+"summary": "ISAF 记录：Saif Ghodayyah（info@goit.ps）——PoE 交换机；无跟进。域名指向巴勒斯坦 → C 区域外（资料保留）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "PoE 交换机；.ps 域名",
+"quote": "POE交换机 / Saif Ghodayyah / info@goit.ps",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Saif Ghodayyah",
+"role": "（ISAF 名片；职务待核）",
+"email": "info@goit.ps（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": "C",
+"override_reason": "区域外：.ps 域名（巴勒斯坦），用户表国家「土耳其」为 ISAF 参展地误记；不在 Saga 区域且物流/收款风险高",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 区域外降 C）"
+},
+"company_facts": {
+"legal_name": "Go. Technology（待核）",
+"hq": "Palestine（.ps）",
+"size": "待核",
+"other": "—"
+},
+"business_lines": [
+"（待核）IT/网络"
+],
+"channels": {
+"网站": "http://goit.ps/（未核）"
+},
+"signals": [
+"PoE 需求但区域外"
+],
+"risks": [
+"区域外 → C"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不推进（区域外）"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "HCS",
@@ -192830,7 +193735,109 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-338",
-"grade": "B"
+"grade": "A",
+"research": {
+"code": "SB-338",
+"name_official": "HCS Kablolama Sistemleri San. ve Tic. A.Ş.（HES Cabling Systems，İstanbul Başakşehir, TR；hescs.com；HES Hacılar Elektrik 集团）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"HCS / HES Cabling Systems（自有品牌）"
+],
+"evidence": [
+{
+"kind": "名录",
+"claim": "KP 职务、集团背景、规模",
+"quote": "Cihat Tunçbilek Manager, Product & Product Development at HCS Kablolama Sistemleri Sanayi ve Ticaret … HCS was conceived by HES HACILAR ELEKTRIK COMPANY , the largest cable producer in Turkey in order to provide the Turkish market with the highest quality, state-of-the-art cabling systems for local area networks … +90 2124382575 … Number of Employees 51-200",
+"url": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179",
+"date": "2026-10-21"
+},
+{
+"kind": "官网文件",
+"claim": "KP 签署 CPR 声明",
+"quote": "Signed for and on behalf of the manufacturer by: Cihat Tunçbilek Product & Product Development Manager",
+"url": "https://hescs.com/download/certificate/cpr/HCS%20Self-Declarations%20for%20Class%20EFca%20Cables/MFO-xxxxx-xxx-Fx.pdf",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模与成立",
+"quote": "HCS Kablolama Sistemleri … Sektör: Bilgisayar Ağları Ürünleri … Şirket büyüklüğü: 51 - 200 çalışan … Genel Merkez: İstanbul, Başakşehir … Kuruluş: 2000",
+"url": "https://tr.linkedin.com/company/hcskablolamasistemleri",
+"date": "2026-10-21"
+},
+{
+"kind": "Facebook",
+"claim": "地址与联系方式",
+"quote": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No: 3a Başakşehir, İstanbul … +90 212 438 25 75 info@hescs.com hescs.com",
+"url": "https://www.facebook.com/hescs/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：找商用 PoE，问 L2/L3",
+"quote": "找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Cihat Tunçbilek",
+"role": "Product & Product Development Manager（CPR 声明 + 名录公开）",
+"email": "ctuncbilek@hescs.com（用户表）",
+"phone": "+90 212 438 25 75（公司）",
+"source": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179"
+},
+{
+"name": "Fatma Sancar",
+"role": "Regional Sales Manager（名录公开）",
+"email": "—",
+"phone": "—",
+"source": "https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399"
+}
+],
+"grade_override": "A",
+"override_reason": "B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B→A 加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "HCS Kablolama Sistemleri Sanayi ve Ticaret A.Ş.",
+"founded": "2000-11-22",
+"hq": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a, Başakşehir / İstanbul（+90 212 438 25 75；info@hescs.com）；登记地址 Turgut Reis Mah. Barbaros Cad. Vadi Bulvarı No:1 Esenler",
+"size": "51–200（LinkedIn / ZoomInfo）",
+"other": "HES Hacılar Elektrik（土耳其最大电缆厂）子公司；结构化布线品牌；CPR 自我声明由 Cihat Tunçbilek 签署"
+},
+"business_lines": [
+"结构化布线系统（铜缆、光缆、配线架、模块）——HCS 品牌",
+"（拟新增）有源网络设备：商用 PoE 交换机 L2/L3"
+],
+"channels": {
+"网站": "https://hescs.com/",
+"电话": "+90 212 438 25 75（公开）",
+"邮箱（公开）": "info@hescs.com",
+"LinkedIn": "https://tr.linkedin.com/company/hcskablolamasistemleri"
+},
+"signals": [
+"产品开发经理问 L2/L3 商用 PoE = 为 HCS 品牌补交换机线 → OEM 贴牌（HCS 标、HES 集团渠道）",
+"布线品牌的客户是系统集成商 → 一旦上线即为稳定批量"
+],
+"risks": [
+"集团决策链长；可能同时比价多家中国厂；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 30,
+"why": "OEM 30% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$145.7）作 HCS 品牌主力 L2 PoE；L3 用 STC-424XGGM(L3)（24 GE + 4×10G，$291.5）；楼层 STC-28DGGPM（$87.4）"
+},
+"email_hook": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?"
+}
 },
 {
 "name": "Leamratech",

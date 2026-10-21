@@ -1,0 +1,102 @@
+{
+ "code": "SB-338",
+ "name_official": "HCS Kablolama Sistemleri San. ve Tic. A.Ş.（HES Cabling Systems，İstanbul Başakşehir, TR；hescs.com；HES Hacılar Elektrik 集团）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "HCS / HES Cabling Systems（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "KP 职务、集团背景、规模",
+   "quote": "Cihat Tunçbilek Manager, Product & Product Development at HCS Kablolama Sistemleri Sanayi ve Ticaret … HCS was conceived by HES HACILAR ELEKTRIK COMPANY , the largest cable producer in Turkey in order to provide the Turkish market with the highest quality, state-of-the-art cabling systems for local area networks … +90 2124382575 … Number of Employees 51-200",
+   "url": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网文件",
+   "claim": "KP 签署 CPR 声明",
+   "quote": "Signed for and on behalf of the manufacturer by: Cihat Tunçbilek Product & Product Development Manager",
+   "url": "https://hescs.com/download/certificate/cpr/HCS%20Self-Declarations%20for%20Class%20EFca%20Cables/MFO-xxxxx-xxx-Fx.pdf",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立",
+   "quote": "HCS Kablolama Sistemleri … Sektör: Bilgisayar Ağları Ürünleri … Şirket büyüklüğü: 51 - 200 çalışan … Genel Merkez: İstanbul, Başakşehir … Kuruluş: 2000",
+   "url": "https://tr.linkedin.com/company/hcskablolamasistemleri",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "地址与联系方式",
+   "quote": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No: 3a Başakşehir, İstanbul … +90 212 438 25 75 info@hescs.com hescs.com",
+   "url": "https://www.facebook.com/hescs/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：找商用 PoE，问 L2/L3",
+   "quote": "找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Cihat Tunçbilek",
+   "role": "Product & Product Development Manager（CPR 声明 + 名录公开）",
+   "email": "ctuncbilek@hescs.com（用户表）",
+   "phone": "+90 212 438 25 75（公司）",
+   "source": "https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179"
+  },
+  {
+   "name": "Fatma Sancar",
+   "role": "Regional Sales Manager（名录公开）",
+   "email": "—",
+   "phone": "—",
+   "source": "https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B→A 加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "HCS Kablolama Sistemleri Sanayi ve Ticaret A.Ş.",
+  "founded": "2000-11-22",
+  "hq": "İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a, Başakşehir / İstanbul（+90 212 438 25 75；info@hescs.com）；登记地址 Turgut Reis Mah. Barbaros Cad. Vadi Bulvarı No:1 Esenler",
+  "size": "51–200（LinkedIn / ZoomInfo）",
+  "other": "HES Hacılar Elektrik（土耳其最大电缆厂）子公司；结构化布线品牌；CPR 自我声明由 Cihat Tunçbilek 签署"
+ },
+ "business_lines": [
+  "结构化布线系统（铜缆、光缆、配线架、模块）——HCS 品牌",
+  "（拟新增）有源网络设备：商用 PoE 交换机 L2/L3"
+ ],
+ "channels": {
+  "网站": "https://hescs.com/",
+  "电话": "+90 212 438 25 75（公开）",
+  "邮箱（公开）": "info@hescs.com",
+  "LinkedIn": "https://tr.linkedin.com/company/hcskablolamasistemleri"
+ },
+ "signals": [
+  "产品开发经理问 L2/L3 商用 PoE = 为 HCS 品牌补交换机线 → OEM 贴牌（HCS 标、HES 集团渠道）",
+  "布线品牌的客户是系统集成商 → 一旦上线即为稳定批量"
+ ],
+ "risks": [
+  "集团决策链长；可能同时比价多家中国厂；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$145.7）作 HCS 品牌主力 L2 PoE；L3 用 STC-424XGGM(L3)（24 GE + 4×10G，$291.5）；楼层 STC-28DGGPM（$87.4）"
+ },
+ "email_hook": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?"
+}
