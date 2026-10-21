@@ -41,5 +41,54 @@
   }
  ],
  "notes": "A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研：KY- 型号与价格已入引文）"
+ },
+ "company_facts": {
+  "legal_name": "DYMEC",
+  "hq": "Katy/Houston, Texas & Blue Springs, Missouri, USA",
+  "other": "自有品牌 KY- 系列 DIN/机架 L2/L3 工业交换机（10G、PoE、bt）、Economy 线（Vitesse 芯片），部分 TAA + NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、公用事业"
+ },
+ "business_lines": [
+  "工业交换机 KY- 系列（DIN/机架、L2/L3、PoE/bt、10G）",
+  "Economy 线（KY-3120DM $590、KY-2189RG $299）",
+  "SFP 配套"
+ ],
+ "products_seen": [
+  {
+   "brand": "DYMEC",
+   "model": "KY-3120DM（Economy）",
+   "spec": "官网 $590",
+   "url": "https://www.dymec.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM（待核口型）"
+  },
+  {
+   "brand": "DYMEC",
+   "model": "KY-2189RG（Economy）",
+   "spec": "官网 $299，Vitesse 芯片",
+   "url": "https://www.dymec.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-144GP（待核口型）"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.dymec.com/",
+  "直邮": "thom.sherer@dymec.com / sales@dymec.com（用户表）"
+ },
+ "signals": [
+  "用户表：兴趣工业 FS / SFP，「有统一的型号」= 要求按其 KY- 型号体系贴牌"
+ ],
+ "risks": [
+  "TAA/NSA 认证型号不能由 Saga 供；只能进 Economy 线",
+  "Vitesse（Microchip）芯片口径 vs Saga Marvell——需说明兼容性"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档"
+ },
+ "email_hook": "For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first."
 }

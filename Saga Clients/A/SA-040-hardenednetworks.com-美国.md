@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国交通 ITS 领域的自有品牌加固交换机供应商（HN-8012-24 V3、HN-AIS-8300、80 系列 V3：L3 OSPF/BGP、4×USFP+ 10G、ESFP 2.5G 等），与 ITS Express 同一体系；产品页 2026-07 仍在更新。用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo。（调研 2026-10-21；表内兴趣：工业FS 工业MC Bypass  自己的logo）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；推送 10 次（2024-05-07 → 2025-03-03）；最近一次客户回复：2025-03-03：只用博通方案
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：HN 主力为 10G L3 加固机（Saga 无直接对位，需 SmartByte 核型）；可供的是其环网末端 8 口 PoE DIN（STI-288DGGPM，支持 bt 摄像机需核功率）与工业 MC（STI-110GE）；贴 HN 标 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -63,8 +63,40 @@ updated: 2026-10-21
 - **【官网】自有品牌加固 L3 交换机产品线（含 10G USFP+、2.5G ESFP、SHA-256）**
   > Hardened Networks/ITS Express Ethernet Switches · 80 Series V3 Switches -Hardened Full Layer 3 OSPF/PIM/VRRP/BGP -4 USFP+ Ports 1000Mb/2.5Gb/10Gb … HN-8012-24 V3 -Now Hardened Base Layer 3 … -V3 Technology -SHA-256 authentication
   > 来源：https://hardenednetworks.com/products/（抓取 2026-10-21）
+- **【官网】HN-8012-24 V3 / 24+ V3 规格**
+  > HN-8012-24 V3 -Now Hardened Base Layer 3 -4 USFP+ Ports 100Mb/1000Mb/2.5Gb/10Gb … -4 ESFP Ports … -16 Copper Ports 10Mb/100Mb/1000Mb TX -176 GB Back-Plane … HN-8012-24+ V3 … -Bypass fiber ports … -FIPS-197 compliant AES-256 encryption
+  > 来源：https://hardenednetworks.com/products/（抓取 2026-07-01）
+- **【官网 PDF】AIS-8300 交通摄像机：802.3bt 51W、NEMA TS2、UL、FL APL**
+  > Power IEEE802.3bt, Type 3, class 6, max 51 watt … -Safety: RoHS, UL … -Others: NEMA TS2 … -FL APL Approval # 682-002-025 … ITS EXPRESS By Hardened Networks
+  > 来源：https://hardenednetworks.com/wp-content/uploads/2025/07/HN-AIS-8300-2.5-20251507.pdf（抓取 2025-07-01）
+- **【分销站】HN8012-24+ bypass/环网特性**
+  > Built-in bypass fiber ports with switching time <10ms … Fast ITS ring recovery time< 10ms over 250 units of connections … Ring Protocols: STP, RSTP, MSTP, RPVST +, R-RVST+, ITS- Ring, Moxa/ Herschman/ Advatech Rings
+  > 来源：https://expresssupply.us/hn8012-24plus/（抓取 2026-10-21）
 - 备注：A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Hardened Networks / ITS Express（expresssupply.us） |
+| 总部/地址 | USA（ITS 交通领域） |
+| 其他 | 自有品牌 HN 加固交换机（V3：Hardened Base L3、4×USFP+ 10G、4×ESFP 2.5G、16×GE、176G 背板、SHA-256/AES-256、ITS-Ring、Moxa/Hirschmann/Cisco 环兼容）+ AIS-8300 4K 交通摄像机（NEMA TS2、FL APL 682-002-025、UL） |
+
+- **业务线**：ITS 加固交换机 HN-8012-24 V3 / 8012-24+ V3（bypass 光口）/ HN-8042 V3 / HN-3416 / HN-3488；ITS 交通摄像机 AIS-8300（802.3bt 51W）；ITS 配套（expresssupply.us 分销）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Hardened Networks | HN-8012-24 V3 / HN-8012-24+ V3 | L3 加固：4×USFP+（100M–10G）+ 4×ESFP（100M–2.5G）+ 16×GE，176G 背板，+ 型含 bypass 光口 <10ms，ITS-Ring 250 节点 | STC-424XGGM(L3)（机架位）/ 工业 10G L3 待 SmartByte 核型 | https://hardenednetworks.com/products/（2026-07-01） |
+| Hardened Networks | HN-8042 V3 | 4×SFP+ 10G + 16×GE，156G 背板，Hardened Base L3，超 NEMA TS-2 | （同上） | https://hardenednetworks.com/wp-content/uploads/2025/05/HN-8042-20252305.pdf（2025-05） |
+| ITS Express | AIS-8300 | 4K 31x 交通摄像机，802.3bt Type3 51W，NEMA TS2，UL，IP66/IK10 | —（PD 侧，需 bt 口交换机） | https://hardenednetworks.com/wp-content/uploads/2025/07/HN-AIS-8300-2.5-20251507.pdf（2025-07） |
+
+- **触达通道（公开）**：网站: https://hardenednetworks.com/ · https://expresssupply.us/；直邮: mark@expresssupply.net / sales@expresssupply.net（用户表）
+- **近况信号**：
+  - 产品页 2026-07-01 更新 V3 系列；2025-05/07 发布 HN-8042 与 AIS-8300 PDF——持续迭代自有品牌（2026-10-21）
+  - 用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo
+- **风险/边界**：ITS 公共项目：NEMA TS2 + UL + Buy America 是硬门槛，Saga 工业机无 NEMA/UL——只能供其非公共/测试或 MC/bypass 等配套；Bypass 光口与 L3 10G 工业机不在 Saga 标准型谱，需 SmartByte 定制评估
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——HN 主力为 10G L3 加固机（Saga 无直接对位，需 SmartByte 核型）；可供的是其环网末端 8 口 PoE DIN（STI-288DGGPM，支持 bt 摄像机需核功率）与工业 MC（STI-110GE）；贴 HN 标 30% 档
+- **邮件切入句（英文）**：Below the HN-8012-24 class core units, the 8-port gigabit PoE DIN switch and the gigabit media converter are the two edge pieces we can build in Hardened Networks packing, so I am quoting those rather than the 10G L3 platform for now.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -118,7 +150,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——ITS 加固交换机自有品牌） |
+| **P1** | STI-288DGGPM | 深挖对位：HN 主力为 10G L3 加固机（Saga 无直接对位，需 SmartByte 核型）；可供的是其环网末端 8 口 PoE DIN（STI-288DGGPM，支持 bt 摄像机需核功率）与工业 MC（STI-110GE）；贴 HN 标 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——ITS 加固交换机自有品牌） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -171,9 +203,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Below the HN-8012-24 class core units, the 8-port gigabit PoE DIN switch and the gigabit media converter are the two edge pieces we can build in Hardened Networks packing, so I am quoting those rather than the 10G L3 platform for now.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Hardened Networks HN-8012-24 V3 / HN-8012-24+ V3 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

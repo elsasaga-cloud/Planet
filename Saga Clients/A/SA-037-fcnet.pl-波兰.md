@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：波兰奥波莱的网络无源/有源元件分销商与进口商（原合伙制，2024 年改有限公司），Fluke Networks 波兰分销商，提供网络设计、外包、IP 电话；营收约 1,020 万 PLN。用户表：1 次实质回复，兴趣「自己的 logo」。（调研 2026-10-21；表内兴趣：自己的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 7 次（2025-02-04 → 2025-09-16）；最近一次客户回复：2025-04-18：price
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -76,9 +76,43 @@ updated: 2026-10-21
 - **【第三方（bizraport）】体量**
   > FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ … aktywa 6,2 mln zł · przychód 10,2 mln zł
   > 来源：https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia（抓取 2026-10-21）
+- **【官网】网店交换机目录与净价（TP-Link 8/16/24 口 PoE）**
+  > TP-Link TL-SG2428P, 24xGE PoE+ 250W, 4xGE SFP, 19" … Cena netto 1 037,15 PLN … TP-Link TL-SG2210MP, 8xGE PoE+ 150W, 2xGE SFP … Cena netto 543,01 PLN … TL-SG3428MP, 24xGE PoE+ 384W, 4xGE SFP, konsola … 1 311,25 PLN
+  > 来源：https://www.fcnet.pl/sprzet-sieciowy/switche.html（抓取 2026-10-21）
+- **【目录】automatyka.pl 列其类目含工业交换机/路由器/MC/UPS**
+  > Konwertery magistral i protokołów, mediakonwertery · Huby · Switche przemysłowe, przełączniki rack · Routery przemysłowe
+  > 来源：https://www.automatyka.pl/firmy/fcnet-future-communication-networks-spolka-cywilna-90964-1（抓取 2026-10-21）
+- **【官网】地址/电话/邮箱公开**
+  > Adres: Św. Jacka 2; 45-073 Opole, Polska Tel: (+48) 775-418-475 Email: info@fcnet.pl
+  > 来源：https://www.fcnet.pl/o-firmie（抓取 2026-10-21）
 - **KP**：—（总机）info@fcnet.pl +48 77 541 84 75〔https://www.fcnet.pl/o-firmie〕
 - 备注：A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149） |
+| 总部/地址 | ul. Św. Jacka 2, 45-073 Opole, Poland |
+| 营收 | 约 10.2M PLN |
+| 其他 | Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC |
+
+- **业务线**：网络有源/无源元件分销（网店）；网络设计、外包、IP 电话；工业交换机/路由器/MC（automatyka.pl 目录类目）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| TP-Link（转售） | TL-SG2428P（24×GE PoE+ 250W + 4 SFP） | 净价 1,037.15 PLN（≈$270） | STC-424DGGPM-280W | https://www.fcnet.pl/sprzet-sieciowy/switche.html（2026-10-21） |
+| TP-Link（转售） | TL-SG2210MP（8×GE PoE+ 150W + 2 SFP） | 净价 543.01 PLN（≈$140） | STC-28DGGPM | https://www.fcnet.pl/sprzet-sieciowy/switche.html（2026-10-21） |
+| TP-Link（转售） | TL-SG3428MP（24×GE PoE+ 384W + 4 SFP，L2+） | 净价 1,311.25 PLN（≈$340） | STC-424DGGPM-280W | https://www.fcnet.pl/sprzet-sieciowy/switche.html（2026-10-21） |
+| （配件） | Zasilacz PoE 48V 0,5A Gigabit 24W | PoE 电源 25.20 PLN 起 | — | https://www.fcnet.pl/sprzet-sieciowy/akcesoria/poe.html（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://www.fcnet.pl/；直邮: info@fcnet.pl（官网）/ biuro@fcnet.pl（用户表）；电话: +48 775-418-475
+- **近况信号**：
+  - 网店交换机价带：8 口 PoE ≈ $140、24 口 PoE+ ≈ $270–340 净价——Saga 同规格 EXW $84/$134–140 有 30–40% 空间供其自有 logo 定价（2026-10-21）
+  - 用户表：1 次实质回复，兴趣「自己的 logo」
+- **风险/边界**：TP-Link 价格锚点低，自有 logo 需靠更低进货价 + 本地化（波兰语说明书、CE/WEEE）支撑；小体量（~1,000 万 PLN 营收）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档
+- **邮件切入句（英文）**：Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -131,7 +165,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/进口商（自有 logo 采购）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/进口商（自有 logo 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -185,9 +219,9 @@ updated: 2026-10-21
 ```text
 Hi Jaroslaw,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your TP-Link（转售） TL-SG2428P（24×GE PoE+ 250W + 4 SFP） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

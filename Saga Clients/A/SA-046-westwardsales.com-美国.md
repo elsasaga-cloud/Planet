@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。（调研 2026-10-21；表内兴趣：工业FS 光猫 PoE Antaira牌子 销售平台）
 - **为什么是 A 级**：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）；最近一次客户回复：2025-10-12：Sample
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,9 +69,40 @@ updated: 2026-10-21
 - **【第三方（Crunchbase）】公开销售邮箱与电话**
   > 720-870-4500 · sales@westwardsales.com
   > 来源：https://www.crunchbase.com/organization/westward-sales（抓取 2026-10-21）
+- **【官网】Antaira LNP-0800G 平台售价、选项与交期**
+  > Antaira LNP-0800G (-24 -T) Industrial 8-Port PoE+ Gigabit Unmanaged Ethernet Switch … Availability: 3 - 4 Weeks or Less … $452.00 … 9 to 55 VDC | Standard, -10 to 65°C (+$182.00) … Extended, -40 to 75°C (+$216.00)
+  > 来源：https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch（抓取 2026-10-21）
+- **【官网】IP67 M12 版 $1,618（Saga 不做）**
+  > Antaira LNP-0800G-M12-67-24 (-T) 8-Port PoE Unmanaged 1Gb Ethernet Switch, IP67 … $1,618.00
+  > 来源：https://westwardsales.com/antaira-lnp-0800g-ethernet-switch（抓取 2026-10-21）
 - **KP**：Kelvin Aist（创始人/负责人）sales@westwardsales.com +1 720-870-4500〔https://www.crunchbase.com/organization/westward-sales〕
 - 备注：A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Westward Sales, Inc. |
+| 成立 | 2016（Kelvin Aist） |
+| 总部/地址 | Buena Vista / Aurora, Colorado, USA |
+| 人数 | 2–10 |
+| 其他 | 工业电子线上增值分销平台（Antaira 为主推，另 TRENDnet/Lanner/Axiomtek/Black Box），Antaira 8 口 PoE 非管理标价 $452 起、IP67 版 $1,618 |
+
+- **业务线**：工业以太网交换机（2–48 口至 10G）；蜂窝路由器、MC、串口服务器、Starlink、工控机；客户：能源、公用事业、交通、自动化、政府项目
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Antaira | LNP-0800G（-24 / -T） | 工业 8×GE PoE+ 30W/口 非管理，48–55VDC（-24 版 9–55V），IP30，DIN，5 年保；$452 起（-24 +$182，-T +$216） | STI-288DGGPM（EXW $140–152 vs 零售 $452–668） | https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch（2026-10-21） |
+| Antaira | LNP-0800G-M12-67-24 | IP67 M12 8 口 PoE，$1,618——Saga 不做 IP67/M12 | —（守界） | https://westwardsales.com/antaira-lnp-0800g-ethernet-switch（2026-10-21） |
+| Antaira | LNP-C501G-SFP-bt-24 | 5 口紧凑工业 bt + SFP，$966 | STI-144GP | https://www.antaira.com/products/gigabit-unmanaged-poe（2026-10-21） |
+
+- **触达通道（公开）**：网站/平台: https://westwardsales.com/（Request a Volume Quote）；直邮: sales@westwardsales.com（Kelvin Aist，用户表）
+- **近况信号**：
+  - 平台 Antaira 交付期标注 3–4 周，价格 $452–668——Saga 10–15 天交期 + EXW 价是明确差异化（2026-10-21）
+  - 用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS/光猫/PoE，主推 Antaira
+- **风险/边界**：平台型分销商以品牌商品为主，接受无牌/白牌需有产品页素材（英文规格书、UL/FCC 说明、保修条款）；政府/公用事业项目要 TAA/UL——不报
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档
+- **邮件切入句（英文）**：Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,7 +147,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（增值分销商/电商平台（工业）） |
+| **P1** | STI-288DGGPM | 深挖对位：平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（增值分销商/电商平台（工业）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -169,9 +200,9 @@ updated: 2026-10-21
 ```text
 Hi Kelvin,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Antaira class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Antaira LNP-0800G（-24 / -T） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

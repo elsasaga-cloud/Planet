@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。（调研 2026-10-21；表内兴趣：工业FS 机架式 bypass MC 几乎全线武汉迈威）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-08 → 2025-10-28）；最近一次客户回复：2024-05-28：price
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -79,6 +79,28 @@ updated: 2026-10-21
 - **KP**：Thomas West（联系人（用户表））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
 - 备注：A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研：官网型号与价格已入引文））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | BlueWARRIOR（bluewarrior.com） |
+| 总部/地址 | USA |
+| 其他 | 自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管、bypass、工业 MC，官网明码标价；宣称 UL Class 1 Div 2 与 Tesla 工厂案例；用户表判断「几乎全线武汉迈威(Maiwe)」贴牌 |
+
+- **业务线**：工业交换机（DIN/机架、L2/L3、PoE）；工业 bypass 交换机；工业 MC
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| BlueWARRIOR | BW2026（26 口机架） | 官网标价 $308 | STC-424DGGPM-280W（PoE 版） | https://bluewarrior.com/（2026-10（首轮调研）） |
+| BlueWARRIOR | BW3020G | 官网标价 $662 | STC-424XGGPM-280W（待核口型） | https://bluewarrior.com/（2026-10（首轮调研）） |
+| BlueWARRIOR | BW7212G | 官网标价 $500 | STI-288DGGPM（待核口型） | https://bluewarrior.com/（2026-10（首轮调研）） |
+
+- **触达通道（公开）**：网站: https://bluewarrior.com/（明码标价）；直邮: sales@bluewarrior.com（用户表）
+- **近况信号**：
+  - 用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会
+- **风险/边界**：UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号；迈威为 Saga 同行，价格战风险
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档
+- **邮件切入句（英文）**：For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +163,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（白牌贴牌，OEM 目标）） |
+| **P1** | STI-288DGGPM | 深挖对位：DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（白牌贴牌，OEM 目标）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -194,9 +216,9 @@ updated: 2026-10-21
 ```text
 Hi Thomas,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your BlueWARRIOR BW2026（26 口机架） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

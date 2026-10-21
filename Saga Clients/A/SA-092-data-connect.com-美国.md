@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。（调研 2026-10-21；表内兴趣：工业FS MC 串口  卖很多牌子的产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 16 次（2024-08-24 → 2025-10-31）；最近一次客户回复：2024-08-24：price 有兴趣
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,7 +69,7 @@ updated: 2026-10-21
 - **是谁**：美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。
 - **类型**：品牌商（自有品牌）+ 分销
 - **规模**：中小型（三地库存设施；人数待补证）
-- **在卖/在用品牌**：DCE（自有）, Ctek, Relcomm, Synxcom, Telenetics
+- **在卖/在用品牌**：DCE（自有）, Ctek, Relcomm, Synxcom, Telenetics, Canoga Perkins, GarrettCom
 - **【官网】三地库存、面向数据/语音/网络/SCADA；收购多品牌 IP，自称美国商用与工业级连接产品制造商**
   > We stock in our Maryland, New Jersey, and California facilities… Data Connect has acquired the intellectual property, manufacturing and/or licensing rights for a large number of products previously produced under Ctek, Relcomm, Synxcom, Telenetics… Today Data Connect is a premier U.S. manufacturer of commercial and industrial grade connectivity products
   > 来源：https://www.data-connect.com/（抓取 2026-10-21）
@@ -79,9 +79,43 @@ updated: 2026-10-21
 - **【GlobalSpec】DCE 工业千兆媒体转换器 EMC202GigE**
   > Industrial Gigabit Ethernet To Fiber Media Converter -- EMC202GigE… Supplier: Data Connect Enterprise, Inc.
   > 来源：https://www.globalspec.com/industrial-directory/video_signal_to_ethernet_converter（抓取 2026-10-21）
+- **【官网】DCE ANS208 工业 DIN 8 口 10/100 规格**
+  > The Data Connect ANS208 has 8 Ethernet Switching ports that support 10/100Base-T … DIN rail mount for industrial usage … ESD Protection: 8KV Contact Discharge 15KV Air-Gap Discharge
+  > 来源：https://www.data-connect.com/dce_ans208.htm（抓取 2026-10-21）
+- **【官网】加固以太网页：DCE/ANS208、ANS205CR + Canoga Perkins、GarrettCom 转售**
+  > Data Connect Industrial Ethernet Switches DCE/ANS208 8-PORT INDUSTRIAL ETHERNET SWITCH DCE/ANS205CR 5-PORT INDUSTRIAL ETHERNET SWITCH Canoga Perkins … GarrettCom mP62 Managed Hardened Switch
+  > 来源：https://www.data-connect.com/hardened_ethernet.htm（抓取 2026-10-21）
+- **【官网】DCE GMC 千兆 MC 系列**
+  > DCE GMC series comply with IEE802.3z/ab Gigabit Ethernet standard … 1000Base-T to 1000base-SX/LX … WDM Technology Combines Dual Fiber Cables into Single Fiber
+  > 来源：https://www.data-connect.com/dce_dt_gmc.htm（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +1 888-492-6526〔用户 Clients 表 + 官网〕
 - 备注：自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Data Connect Enterprise, Inc. |
+| 总部/地址 | Maryland, USA（另有 NJ、CA 设施） |
+| 其他 | 自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备 |
+
+- **业务线**：DCE 品牌 MC / 工业交换机 / 延长器 / 调制解调器 / KVM；Canoga Perkins、GarrettCom 加固以太网转售；数据/语音/SCADA 连接产品
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| DCE | ANS208 | 工业 DIN 8×10/100 非管理，宽压 DC，ESD 8/15KV，变电站/工业 | STI-288DGGPM（千兆 PoE 升级位） | https://www.data-connect.com/dce_ans208.htm（2026-10-21） |
+| DCE | ANS205CR | 工业 DIN 5 口 | STI-144GP | https://www.data-connect.com/hardened_ethernet.htm（2026-10-21） |
+| DCE | GMC Series 千兆 MC（含 WDM） | 1000Base-T → SX/LX，550 m–10 km | STI-110GE | https://www.data-connect.com/dce_dt_gmc.htm（2026-10-21） |
+| DCE | DFT Series 4×100FX + 4×10/100TX | FX/TX 交换/桥接 MC | STI-110GE（千兆位） | https://www.data-connect.com/dce_dt_dft.htm（2026-10-21） |
+| DCE | 2178HEE / 2178CEE+POE 以太网延长器 | $450–525（iComTech） | — | https://www.icomtechinc.com/data-connect/（2026-06-25） |
+
+- **触达通道（公开）**：网站: https://www.data-connect.com/（产品页陈旧但在线）；直邮: bpatton@data-connect.com / drowe@data-connect.com（用户表）；分销: iComTech 等
+- **近况信号**：
+  - DCE 工业交换机仍为 10/100 非管理（ANS208/205CR）——千兆 PoE 升级是明确空位（2026-10-21）
+  - 用户表：1 次回复、16 次跟进，兴趣工业 FS/MC/串口，「卖很多牌子的产品」
+- **风险/边界**：SCADA/公用事业客户可能要求 IEEE 1613/UL——不承诺；产品页多年未更新，采购活跃度待验证
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档
+- **邮件切入句（英文）**：Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,7 +178,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（自有品牌）+ 分销） |
+| **P1** | STI-288DGGPM | 深挖对位：DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（自有品牌）+ 分销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -197,9 +231,9 @@ updated: 2026-10-21
 ```text
 Hi Barry,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DCE ANS208 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

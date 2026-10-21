@@ -21,7 +21,7 @@ replies: 1
 followups: 21
 first_contact: 2024-05-02
 last_contact: 2025-12-29
-p1: STC-28DGGPM
+p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。（调研 2026-10-21；表内兴趣：VC HDMI FS 商业POE 光模块）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-10-30：4 8口price ds
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,9 +69,49 @@ updated: 2026-10-21
 - **【第三方（ZoomInfo）】总裁与规模**
   > Optiview $5.3M · Private · 1999 · Stephen Lebowitz President
   > 来源：https://www.zoominfo.com/c/optiview-inc/344525981（抓取 2026-10-21）
+- **【官网】OVPOE 系列型号表（8/16/24 口、DIN SFP、CAT6）与 5 年保修**
+  > Warranty | 5 Years … OVPOE8-125 | OVPOE8G-DR-SFP | OVPOE16-250 | OVPOE24-370-2GC … 8 Port 240W PoE Switch … 16 Port PoE + 2GB Switch … 24 Port PoE + 2GB Switch
+  > 来源：https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf（抓取 2026-10-21）
+- **【官网】OVPOE24X-400-2GC 24×GE PoE 400W**
+  > 24 Port 10/100/1000Base-TX PoE Switch with 2 x Gigabit combo's. Provides 24 x PoE injectors, 400W built-in power supply. 52Gbps
+  > 来源：https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/（抓取 2026-10-21）
+- **【官网】OVPOE12V-8+4-160-M 8+2 千兆 L2 管理 30W/口**
+  > OVPOE12V-8+4-160-M – 8 + 2 Port Gigabit Layer 2 Managed Switch with 30W PoE per Port … 240W Power over Ethernet … 12V / 24V DC Output Ports
+  > 来源：https://optiviewusa.com/product/ovpoe12v-8-4-160-m/（抓取 2026-06-11）
 - **KP**：Stephen Lebowitz（President（ZoomInfo 口径））sales@optiviewusa.com（Crunchbase 公开） +1 904-805-1581〔https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f〕
 - 备注：A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Optiview, Inc. |
+| 成立 | 1999 |
+| 总部/地址 | Jacksonville, Florida, USA（电话 904.805.1581） |
+| 人数 | 11–50 |
+| 营收 | 约 $5.3M |
+| 其他 | 自有品牌 OVPOE 系列交换机（5 年保修），面向安装商/经销商/集成商；网站需登录看价 |
+
+- **业务线**：CCTV 批发（NDAA 合规摄像机、NVR/DVR）；Networking/PoE：OVPOE 系列商用与工业 PoE 交换机、户外 NEMA3 PoE 箱；太阳能监控、线缆
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Optiview | OVPOE8-125 / OVPOE8-125V | 8×GE PoE + 2 GE（或 1 GE + 1 SFP），125W 外置电源，20G，5 年保 | STC-28DGGPM | https://optiviewusa.com/product/ovpoe8-125v/（2026-10-21） |
+| Optiview | OVPOE8G-DR-SFP | 8 口 240W PoE 千兆（DIN，SFP） | STI-288DGGPM | https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf（2026-10-21） |
+| Optiview | OVPOE12V-8-210 | 8 口工业 PoE+ 非管理 10/100，12V | STI-288DGGPM（千兆升级位） | https://optiviewusa.com/wp-content/uploads/2024/03/Optiview_OVPOE12V-8-210_SalesSpecSheet.pdf（2024-03） |
+| Optiview | OVPOE12V-8+4-160-M | 8+2 口千兆 L2 管理，30W/口 240W，12/24V DC 输出口（2026-06-11 页） | STI-288DGGPM | https://optiviewusa.com/product/ovpoe12v-8-4-160-m/（2026-06-11） |
+| Optiview | OVPOE16-250 | 16×FE PoE + 2 GE combo，250W | STI-21616GP（千兆升级位） | https://optiviewusa.com/product/ovpoe16-250/（2024-10-14） |
+| Optiview | OVPOE24-370-2GC / OVPOE24X-400-2GC | 24×FE PoE 370W / 24×GE PoE 400W + 2 GE combo（52Gbps） | STC-424DGGPM-280W | https://optiviewusa.com/product/ovpoe24-400-24-port-poe-switch/（2026-07-23） |
+| Optiview | WPNS-8-LED | NEMA3 户外防水箱 8 口 PoE 30W/口 | STC-28DGGPM（箱内机） | https://optiviewusa.com/poe/8/（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://optiviewusa.com/（登录看价，经销商制）；直邮: purchasing@optiviewusa.com（用户表）；sales@optiviewusa.com；Stephen Lebowitz（Crunchbase）；电话: 904.805.1581
+- **近况信号**：
+  - 2026-06/07 仍在更新 OVPOE 产品页（8+4 管理型、24X-400）——自有品牌 PoE 线活跃（2026-10-21）
+  - OVPOE16/24 仍为百兆 PoE 口——千兆升级是明确空位
+  - 用户表：S 重点，1 次实质回复，兴趣 VC/HDMI/FS/商业 PoE/光模块
+- **风险/边界**：美国 CCTV 渠道强调 NDAA——交换机不在 NDAA 889 范围但客户可能要求非中资芯片表述（Marvell 是美国芯片，可用）；UL：机架 PoE 电源类客户可能要 UL 列名，Saga 只有 CE/FCC
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档
+- **邮件切入句（英文）**：Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -134,17 +174,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -154,7 +195,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：11–50 人；$5.3M（ZoomInfo/RocketReach）
+- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：11–50 人；$5.3M（ZoomInfo/RocketReach）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -182,14 +223,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Stephen,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Optiview OVPOE24-370-2GC / OVPOE24X-400-2GC at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

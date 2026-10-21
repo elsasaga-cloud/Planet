@@ -31,6 +31,13 @@
    "quote": "SIMREX Corporation Buffalo, NY 14206 Manufacturer* ⚫$1 - 4.9 Mil Revenue",
    "url": "https://www.thomasnet.com/suppliers/usa/null-52091287",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "DataMover 交换机型号与规格（MS-5、MS-5GS、MSG-8E4S）",
+   "quote": "DATAMOVER MS-5GS - Hardened Gigabit Managed Switch Supported by SIMREX CRMS NMS … Five 10/100/1000 Mbit/s … DATAMOVER MSG-8E4S - Hardened Gigabit Managed Switch … Eight 10/100/1000 Mbit/s … Supports 802.3af/at devices if the 48-57VDC input is used. Max current 450mA per port",
+   "url": "https://www.simrex.com/site/apps/traffic.htm",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -43,5 +50,66 @@
   }
  ],
  "notes": "A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "SIMREX Corporation",
+  "founded": "1996",
+  "hq": "Buffalo, New York, USA",
+  "staff": "11–50",
+  "revenue": "$1–4.9M（Crunchbase）",
+  "other": "品牌 DataMover / ARIA Wireless / GLB；交换机与自家 CRMS NMS 配合；客户为交通 ITS、水务、能源、航空、轨道"
+ },
+ "business_lines": [
+  "DataMover 工业无线电台（900 MHz/2.4 GHz，PtP/PtMP/mesh）",
+  "DataMover 加固管理交换机 MS-5 / MS-5GS / MSG-8E4S（贴牌）",
+  "DataMover WB 以太网桥接延长套件（400 m，48V PoE 25W）"
+ ],
+ "products_seen": [
+  {
+   "brand": "SIMREX DataMover",
+   "model": "MS-5GS",
+   "spec": "加固千兆管理 5×GE，VLAN/IGMP/RSTP，CRMS NMS 支持，2A 总电流",
+   "url": "https://www.simrex.com/site/apps/traffic.htm",
+   "date": "2026-10-21",
+   "saga": "STI-144GP（管理型待核）"
+  },
+  {
+   "brand": "SIMREX DataMover",
+   "model": "MSG-8E4S",
+   "spec": "加固千兆管理 8×GE（+4 SFP 按型号名），802.3af/at（48–57VDC 输入时），450mA/口",
+   "url": "https://www.simrex.com/site/apps/traffic.htm",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "SIMREX DataMover",
+   "model": "MS-5",
+   "spec": "加固 5 口百兆管理，PoE 500mA/口",
+   "url": "https://www.simrex.com/site/apps/traffic.htm",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.simrex.com/（Product Inquiry Form）",
+  "直邮": "frank@simrex.com（Frank Neuperger，cage.report 公开）/ sales@simrex.com"
+ },
+ "signals": [
+  "交通页（traffic.htm）仍列 MS-5/MS-5GS/MSG-8E4S 全系——交换机为其 ITS 方案的固定组成（2026-10-21）",
+  "用户表：已成单（switch）"
+ ],
+ "risks": [
+  "ITS/交通控制 = 美国公共项目，常要求 NEMA TS2 与 Buy America——Saga 无 UL/NEMA，仅供其商业/私营项目或按客户自担认证",
+  "轨道客户部分守界（不做 EN50155）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "MSG-8E4S（8 GE PoE + SFP 加固管理）对位 STI-288DGGPM，MS-5GS 对位 STI-144GP；DataMover 贴牌 30% 档；要求与 CRMS NMS 兼容的 SNMP 口径"
+ },
+ "email_hook": "For the MSG-8E4S slot in your DataMover line, the Marvell-based 8-port gigabit PoE managed DIN switch with SNMP for CRMS polling is the unit I can supply in DataMover packing, so that is what I am quoting first."
 }

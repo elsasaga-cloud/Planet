@@ -42,5 +42,49 @@
   }
  ],
  "notes": "A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Antronix, Inc.",
+  "founded": "1980",
+  "hq": "Cranbury, New Jersey, USA",
+  "staff": "约 33",
+  "revenue": "约 $4.3M（口径）",
+  "other": "有线宽带射频设备制造商（multi-tap、光节点、放大器、无源），2023 年起光纤方案（与 Teleste 合资 Intercept）"
+ },
+ "business_lines": [
+  "有线电视/宽带 RF 设备",
+  "光纤接入方案",
+  "（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（拓展采购）",
+   "model": "商业 L2/L3 交换机 2.5G/10G（用户表）",
+   "spec": "问了 2.5G/10G 类产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.antronix.com/",
+  "直邮": "petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）"
+ },
+ "signals": [
+  "用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G"
+ ],
+ "risks": [
+  "北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢",
+  "10G/2.5G 机型需 SmartByte 规格确认"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档"
+ },
+ "email_hook": "On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing."
 }

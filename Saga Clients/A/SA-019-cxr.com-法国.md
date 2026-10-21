@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）；最近一次客户回复：2024-05-30：datasheet
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,9 +69,44 @@ updated: 2026-10-21
 - **【第三方（eTesters）】地址与总机邮箱**
   > CXR ANDERSON JACOBSON · Phone:33(0)237 628 800 · Email:contact@cxr.com · Address:17 Rue de l'Ornette Abondant, 28410 France
   > 来源：https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation（抓取 2026-10-21）
+- **【官网 PDF】SWMD-H 系列型号表（4/8/10 口，PoE 120/240W，-40~75/85℃）**
+  > SWMD-H-4TG-2GSF | SWMD-H-8TG-2GSF | SWMD-H-10TG-2GSF … Dual DC 12 ~ 55V … -40 ~ 85°C … SWMD-H-4TGPS-2GSF | SWMD-H-8TGPS-2GSF | SWMD-H-8TGPS-2TG-2GSF … PoE Power 120W 240W 240W … Dual DC 48 ~ 55V … -40 ~ 75°C
+  > 来源：https://www.cxr.com/documents/brochures/swmd_h_series_uk.pdf（抓取 2026-10-21）
+- **【官网 PDF】SWMD-H-8TPG-2GSF 满载 246W@52V，30W/口，163×110×46.5 mm，-40~75℃**
+  > No-load power: 6W@52V DC Full load power: 246W@52V DC (POE full load output) Max. power for single port: 30W … Installation：DIN-Rail Dimension（LxWxH）：163mm×110mm×46.5mm … Operating Temperature：-40〜75°C
+  > 来源：https://www.cxr.com/documents/brochures/swmd_h_8tpg_2gsf_uk.pdf（抓取 2026-10-21）
+- **【官网 PDF】SWMDH-3016 16 口 DIN PoE 管理平台**
+  > CXR's SWMDH-3016 Series is a hardened DIN-rail mounted 16-port Gigabit switching platform … 12 x 10/100/1000BASE-TX (8 x PoE … SWMDH-3016-12P-4S-2D … (44～57VDC), DIN mount, -40°~75°operating
+  > 来源：https://www.cxr.com/documents/brochures/swmdh_3016_uk.pdf（抓取 2026-10-21）
 - **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
 - 备注：A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | CXR Networks（CXR Anderson Jacobson） |
+| 成立 | 1974 |
+| 总部/地址 | Abondant, France |
+| 其他 | 自有 BDROS 平台的工业交换机品牌（SWMD-H 系列为典型华南 ODM 公版贴牌：IP40、6KV 防雷、DIN、-40~75/85℃） |
+
+- **业务线**：工业加固交换机 SWMD-H（DIN，4/8/10 口千兆 ±PoE，2 SFP；L3-lite 版）；SWMDH-3016 16 口 DIN PoE 管理型；SWMD-H-8TPS-2GX 百兆 PoE DIN；加密路由/传输/MC（地方政府、国防、能源、运营商、交通）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| CXR | SWMD-H-8TGPS-2GSF / 8TPG-2GSF | DIN 8×GE PoE + 2 SFP，240W（246W@52V 满载），-40~75℃，IP40，6KV；163×110×46.5 mm | STI-288DGGPM | https://www.cxr.com/documents/brochures/swmd_h_8tpg_2gsf_uk.pdf（2026-10-21） |
+| CXR | SWMD-H-4TGPS-2GSF | DIN 4×GE PoE + 2 SFP，120W | STI-144GP | https://www.cxr.com/documents/brochures/swmd_h_series_uk.pdf（2026-10-21） |
+| CXR | SWMD-H-8TG-2GSF-L | 8 GE + 2 SFP L3-lite 管理，双 12–55VDC，-40~85℃，MTBF 80 万小时 | STI-288DGGPM（非 PoE 版待核） | https://www.cxr.com/documents/brochures/swmd_h_8tg_2gsf_l_uk.pdf（2026-10-21） |
+| CXR | SWMDH-3016-12P-4S-2D | DIN 12×GE（8 PoE，60W）+ 4 SFP，44–57VDC 双电源，-40~75℃ | STI-21616GP（16 口位） | https://www.cxr.com/documents/brochures/swmdh_3016_uk.pdf（2026-10-21） |
+| CXR | SWMD-H-8TPS-2GX | DIN 8×FE PoE + 2 GE/SFP，180W | STI-288DGGPM（千兆升级位） | https://www.cxr.com/en/produits/swmd-h-8tps-2gx-169.html（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.cxr.com/（型号页 + PDF 手册）；直邮: contact@cxr.com；marco.divalerio@cxr.com（用户表）
+- **近况信号**：
+  - SWMD-H 系列手册「Version 1.0」+ 2026-08 新品——仍在扩充 ODM 来源的工业线（用户首轮调研 + 2026-10-21）
+  - 用户表：S 重点，1 次实质回复，用自己的牌子，「很多设备」
+- **风险/边界**：客户面向国防/交通/能源——国防项目守界，只供民用 ITS/能源/市政；已有 ODM 来源（规格与华南公版一致），Saga 需以 Marvell 平台 + 固件可定制（BDROS 风格 CLI）切入
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档
+- **邮件切入句（英文）**：Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +171,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌） |
+| **P1** | STI-288DGGPM | 深挖对位：SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -189,9 +224,9 @@ updated: 2026-10-21
 ```text
 Hi Marco,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your CXR SWMD-H-8TGPS-2GSF / 8TPG-2GSF at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -34,5 +34,45 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研 + 展会记录）"
+ },
+ "company_facts": {
+  "legal_name": "Falke Security（falke-security.de）",
+  "hq": "Duisburg, Germany",
+  "other": "摄像系统专业经销/项目商（HDCVI 与 IP，1–256 路项目，含网络搭建）；手机 +49 172 90 54 200 与用户记录一致"
+ },
+ "business_lines": [
+  "HDCVI / IP 摄像系统与配件",
+  "1–256 路摄像项目实施与网络环境搭建"
+ ],
+ "products_seen": [
+  {
+   "brand": "（展会兴趣）",
+   "model": "4 光 8 电 10G；2.5G 1 光 8 电",
+   "spec": "索价",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-424XGGPM-280W（10G 上联位）/ STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://falke-security.de/",
+  "直邮": "info@falke-security.de（用户表）",
+  "手机": "+49 172 90 54 200（官网公开）"
+ },
+ "signals": [
+  "用户表：展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价；7 次跟进 0 回复"
+ ],
+ "risks": [
+  "0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档"
+ },
+ "email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW."
 }

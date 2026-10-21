@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：美国自有品牌工业以太网供应商：KY- 系列 DIN/机架 L2/L3 工业交换机（含 10G、PoE、bt）、「Economy」线（KY-3120DM $590、KY-2189RG $299、Vitesse 芯片）、部分型号标 TAA 合规与 NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、工业、铁路。用户表：A 已回复 1 次，联系人 Thom Sherer；兴趣工业 FS / SFP，「有统一的型号」。（调研 2026-10-21；表内兴趣：工业FS SFP 有统一的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-23 → 2025-09-23）；最近一次客户回复：2025-09-23：Not out market
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -72,6 +72,27 @@ updated: 2026-10-21
 - **KP**：Thom Sherer（联系人（用户表邮箱））thom.sherer@dymec.com +1 713-826-0739〔https://www.dymec.com/〕
 - 备注：A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研：KY- 型号与价格已入引文））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | DYMEC |
+| 总部/地址 | Katy/Houston, Texas & Blue Springs, Missouri, USA |
+| 其他 | 自有品牌 KY- 系列 DIN/机架 L2/L3 工业交换机（10G、PoE、bt）、Economy 线（Vitesse 芯片），部分 TAA + NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、公用事业 |
+
+- **业务线**：工业交换机 KY- 系列（DIN/机架、L2/L3、PoE/bt、10G）；Economy 线（KY-3120DM $590、KY-2189RG $299）；SFP 配套
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| DYMEC | KY-3120DM（Economy） | 官网 $590 | STI-288DGGPM（待核口型） | https://www.dymec.com/（2026-10（首轮调研）） |
+| DYMEC | KY-2189RG（Economy） | 官网 $299，Vitesse 芯片 | STI-144GP（待核口型） | https://www.dymec.com/（2026-10（首轮调研）） |
+
+- **触达通道（公开）**：网站: https://www.dymec.com/；直邮: thom.sherer@dymec.com / sales@dymec.com（用户表）
+- **近况信号**：
+  - 用户表：兴趣工业 FS / SFP，「有统一的型号」= 要求按其 KY- 型号体系贴牌
+- **风险/边界**：TAA/NSA 认证型号不能由 Saga 供；只能进 Economy 线；Vitesse（Microchip）芯片口径 vs Saga Marvell——需说明兼容性
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档
+- **邮件切入句（英文）**：For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,7 +137,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（白牌贴牌，OEM 目标）） |
+| **P1** | STI-288DGGPM | 深挖对位：Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（白牌贴牌，OEM 目标）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -169,9 +190,9 @@ updated: 2026-10-21
 ```text
 Hi Thom,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DYMEC KY-3120DM（Economy） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

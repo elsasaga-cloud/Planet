@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。（调研 2026-10-21；表内兴趣：工业FS 好多都是Mlis MLB型号）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -86,9 +86,38 @@ updated: 2026-10-21
 - **【官网】MLB-E4208-14-F：10 电 + 4 SFP，双电源 12~58VDC，DIN 导轨，-40/+85°C 可选**
   > 10 Gigabit bakır bağlantı noktası artı 4 SFP… Çift güç girişi (12 ~ 58VDC)… DIN rayı ve duvara montaj… -40/+85 ˚C
   > 来源：https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4208-14-f/（抓取 2026-10-21）
+- **【官网】MLB-E4204-28-G-F 28 口管理机架工业机**
+  > 28 Port yönetilebilir switch MLB-E4204-28-G-F … rafa monte edilebilir … MTBF · > 25 yıl … Giriş Koruması · IP30 … 19 “rafa montaj
+  > 来源：https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/（抓取 2019-01-26）
+- **【官网】管理型类目型号列表**
+  > MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF
+  > 来源：https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/（抓取 2026-10-21）
 - **KP**：Berk（（用户记录：已有回复））info@iotsistem.com 〔用户 Clients 表〕
 - 备注：土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | IoT Sistem（Bosgem；USR IoT 土耳其官方分销） |
+| 总部/地址 | Türkiye |
+| 其他 | IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE |
+
+- **业务线**：USR IoT 串口服务器/网关分销；MLB-E 系列工业以太网交换机（机架 28 口管理、14 口、5/8 口非管理 DIN）；自动化与军工项目（守界：军工不供）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| MLB | MLB-E4204-28-G-F / MLB-E4204-28-F | 28 口千兆管理机架工业，IP30，MTBF >25 年 | STC-424XGGPM-280W（PoE 版）/ STC-448XGGM(L3) | https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/（2019-01-26） |
+| MLB | MLB E4202-10-F / E4202-10-GF；MLB-E4208-14-G-F | 10/14 口管理型 | STI-288DGGPM | https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/（2019-01） |
+| MLB | MLB-E4102-5-F / MLB-E4101-5 | 5 口非管理 DIN，-40~75℃ | STI-144GP | https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilemez-switch/mlb-e4102-5-f/（2018-11-26） |
+
+- **触达通道（公开）**：网站/网店: https://www.iotsistem.com/（「Fiyat Teklif Listesine Ekle」询价制）；直邮: info@iotsistem.com（用户表）
+- **近况信号**：
+  - MLB 系列页面最后日期 2018–2020——产品线陈旧，可能正在换源（2026-10-21）
+  - 用户表：工业 FS，好多都是 MLB 型号
+- **风险/边界**：提及军工项目——守界，只供自动化/商用；网店询价制，决策人不明
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档
+- **邮件切入句（英文）**：Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +165,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（工业/IoT 分销商（网店）） |
+| **P1** | STI-288DGGPM | 深挖对位：MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（工业/IoT 分销商（网店）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -189,9 +218,9 @@ updated: 2026-10-21
 ```text
 Hi Berk,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your MLB MLB E4202-10-F / E4202-10-GF；MLB-E4208-14-G-F at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

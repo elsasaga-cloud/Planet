@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。（调研 2026-10-21；表内兴趣：工业FS 也有E-link的5电口）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 16 次（2024-05-07 → 2025-10-14）；最近一次客户回复：78：A
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -79,9 +79,44 @@ updated: 2026-10-21
 - **【官网】销售邮箱/电话**
   > Sales sales@parallaxdigital.co.uk … Phone: +44 (0)1670 202001
   > 来源：https://parallaxdigital.co.uk/contact/（抓取 2026-10-21）
+- **【官网】自有品牌工业 PoE 交换机 PDT-NSU-7104-MP-SF-I 规格**
+  > The PDT-NSU-7104-MP-SF-I is an Ultra-Small Form Factor Industrial PoE Switch, supporting 4 x 10/100/1000 BASE-T PoE+ RJ45 Ports, and 1 x 100/1000 BASE-X auto-detecting SFP Port … 12-48VDC Power Input with Voltage Booster … Up to 120W PoE Budget (48VDC) … -40°C to +80°C … Manufacturer: Parallax Digital Technologies
+  > 来源：https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/（抓取 2026-10-21）
+- **【官网】公司注册信息与地址；销售/网络运维邮箱公开**
+  > Parallax Digital Technologies Ltd Unit 19 Endeavour Park, Baker Road, Nelson Park West, Cramlington, Northumberland, NE23 1XA Company No. 10314407 VAT No. GB251731130 … Sales sales@parallaxdigital.co.uk Network Support networkops@parallaxdigital.co.uk
+  > 来源：https://parallaxdigital.co.uk/contact/（抓取 2026-10-21）
+- **【官网】自称英国最大交换机库存之一；高层住宅消防探测网络用其交换产品**
+  > we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems
+  > 来源：https://parallaxdigital.co.uk/about-us/（抓取 2026-10-21）
 - **KP**：Jeffrey Allan Ferrier（Founder/Director（Companies House））sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited〕
 - 备注：A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Parallax Digital Technologies Ltd |
+| 成立 | 2016-08-05（Company No. 10314407，VAT GB251731130） |
+| 总部/地址 | Unit 19 Endeavour Park, Baker Road, Cramlington, Northumberland NE23 1XA, UK |
+| 人数 | 1 人申报（Endole）/ 2–10（LinkedIn） |
+| 营收 | <£1M |
+| 其他 | 自有 PDT- 前缀工业交换机 + Cisco 清仓 + Weipu/Riden 代理；自称「probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK」，eBay 店铺分类含工业 PoE 交换机/注入器/延长器/分离器 |
+
+- **业务线**：自有品牌工业交换机（PDT-NSU 系列 Micro-Net）；商用交换机转售（Cisco SG110D-08 £29.95，库存 414）、路由器、SFP、PoE 分离器；工业连接器（Weipu IP67/IP68）、电源（Riden/Meanwell）；FireAngel 消防报警产品与网关（高层住宅消防探测网络）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PDT（自有） | PDT-NSU-7104-MP-SF-I | 超小型工业 4×GE PoE+ + 1 SFP 非管理，12–48VDC 升压，120W@48V，IP40 铝壳，-40~80℃，DIN/壁挂 | STI-144GP | https://parallaxdigital.co.uk/shop/industrial-networking-equipment/micro-net/pdt-nsu-7104-mp-sf-i-4-port-10-100-1000-base-t-max-poe-1-port-10-100-1000-base-x-sfp-unmanaged-sff-industrial-switch-12-48vdc/（2026-10-21） |
+| Cisco（转售） | SG110D-08-BR-WS | 8 口桌面非管理，£29.95，库存 414 | STC-28DGGPM（PoE 升级位） | https://parallaxdigital.co.uk/shop/commercial-networking-equipment/commercial-unmanaged-non-poe-switches/cisco-sg110d-08-br-ws/（2026-10-21） |
+| E-link | 5 电口工业（用户表） | 已在用 | STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站/网店: https://parallaxdigital.co.uk/shop/；eBay: https://www.ebay.co.uk/str/parallaxdigitaltechnologies；直邮: sales@parallaxdigital.co.uk（官网）/ jeff.ferrier@parallaxdigital.co.uk / networkops@parallaxdigital.co.uk（用户表）；联系人: Jeffrey Allan Ferrier（董事）
+- **近况信号**：
+  - 自有 PDT-NSU-7104-MP-SF-I 在售——已在以自有品牌卖华南 ODM 工业 PoE 机，需要稳定货源（2026-10-21）
+  - 用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口
+- **风险/边界**：1 人公司，单次量小；消防探测网络 = 生命安全相关，Saga 只供其商用/工业网络部分，不承诺消防认证；eBay 清仓导向，价格压力大
+- **Saga 对位结论**：P1 STI-144GP（30% 档）——自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）
+- **邮件切入句（英文）**：Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,7 +179,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（微型 OEM/ODM 品牌商（自有品牌网络设备）） |
+| **P1** | STI-144GP | 深挖对位：自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%） | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（微型 OEM/ODM 品牌商（自有品牌网络设备）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -198,9 +233,9 @@ updated: 2026-10-21
 ```text
 Hi Jeffrey,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the E-link class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your PDT（自有） PDT-NSU-7104-MP-SF-I at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

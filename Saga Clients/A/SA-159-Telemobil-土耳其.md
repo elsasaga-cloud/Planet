@@ -1,5 +1,5 @@
 # Telemobil
-**官方名称（调研核实）**：Telemobil Bilgi ve İletişim Hizmetleri San. ve Tic. Ltd. Şti.（伊斯坦布尔，土耳其，2004 年）
+**官方名称（调研核实）**：TBI – Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（tbi.com.tr，Üsküdar/İstanbul）
 
 > **评级 A**　|　土耳其　|　档案编号 `SA-159`　|　优先级 ★★★　|　状态：WhatsApp 已加·未回复
 >
@@ -9,7 +9,7 @@
 code: SA-159
 rating: A
 rating_auto: A
-name_official: "Telemobil Bilgi ve İletişim Hizmetleri San. ve Tic. Ltd. Şti.（伊斯坦布尔，土耳其，2004 年）"
+name_official: "TBI – Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（tbi.com.tr，Üsküdar/İstanbul）"
 score: 60
 country: 土耳其
 region: 土耳其
@@ -30,10 +30,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：伊斯坦布尔 IT/网络/电信服务公司（2004 年创立，面向中小企业与大型企业：结构化布线、网络、安防/摄像、互联网与电信服务；微软/赛门铁克咨询、服务器/防火墙/路由器/NAS 及有源无源产品）；ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注'可重点跟进'；WA 已加。（调研 2026-10-21；表内兴趣：可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期；网站打不开 可重点跟进，有具体项目， 2光2电带PoE, 要求发价格， 现场给客户展示了2光4电带P）
+- **是谁**：用户联系人邮箱域 tbi.com.tr 对应 TBI Telemobil Bilgi İletişim Hizmetleri A.Ş.（2005-01-14 注册，Üsküdar/İstanbul，LinkedIn 51–200 人）：电气承包、弱电与自动化、数据中心（自称建成土耳其最大数据中心、Uptime 认证）、环境安防、X 光、港口方案、工业/楼宇自动化、网络方案、Mobese 城市监控、OTVT/OSOS/SCADA。与同名的 telemobil.com.tr（Ltd Şti，2004，中小企业 IT 服务）为不同主体，首轮调研误用后者。ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注「可重点跟进」。（调研 2026-10-21；表内兴趣：可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期；网站打不开 可重点跟进，有具体项目， 2光2电带PoE, 要求发价格， 现场给客户展示了2光4电带P）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -56,7 +56,7 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（telemobil.com.tr；用户记录称网站打不开，本次检索可见）
-- **是谁**：伊斯坦布尔 IT/网络/电信服务公司（2004 年创立，面向中小企业与大型企业：结构化布线、网络、安防/摄像、互联网与电信服务；微软/赛门铁克咨询、服务器/防火墙/路由器/NAS 及有源无源产品）；ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注'可重点跟进'；WA 已加。
+- **是谁**：用户联系人邮箱域 tbi.com.tr 对应 TBI Telemobil Bilgi İletişim Hizmetleri A.Ş.（2005-01-14 注册，Üsküdar/İstanbul，LinkedIn 51–200 人）：电气承包、弱电与自动化、数据中心（自称建成土耳其最大数据中心、Uptime 认证）、环境安防、X 光、港口方案、工业/楼宇自动化、网络方案、Mobese 城市监控、OTVT/OSOS/SCADA。与同名的 telemobil.com.tr（Ltd Şti，2004，中小企业 IT 服务）为不同主体，首轮调研误用后者。ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注「可重点跟进」。
 - **类型**：IT/网络系统集成商
 - **规模**：小型（待补证）
 - **在卖/在用品牌**：Microsoft, Symantec
@@ -66,9 +66,44 @@ updated: 2026-10-21
 - **【官网】法人全称与电话**
   > Telemobil Bilgi ve İletişim Hizmetleri Sanayi ve Ticaret Limited Şirketi Telefon: 0216 520 1224
   > 来源：http://www.telemobil.com.tr/iletisim.html（抓取 2026-10-21）
+- **【LinkedIn】TBI Telemobil：IT 服务，51–200 人，Üsküdar，2005 年**
+  > TBI - Telemobil … Sektör: BT Hizmetleri ve BT Danışmanlığı Şirket büyüklüğü: 51 - 200 çalışan Genel Merkez: ISTANBUL, Üsküdar … Kuruluş: 2005
+  > 来源：https://tr.linkedin.com/company/tbitelemobil（抓取 2026-10-21）
+- **【官网】自称建成土耳其最大数据中心；弱电与自动化；电气承包**
+  > TÜRKİYE’NİN EN BÜYÜK VERİ MERKEZİNİ BİZ YAPTIK … ZAYIF AKIM VE OTOMASYON … uçtan uca veri merkezi yapımında, projelendirmeden uygulamaya uptime sertifikalandırma dahil … Elektrik Taahhüt
+  > 来源：https://tbi.com.tr/（抓取 2026-10-21）
+- **【目录】业务范围（Devex）**
+  > Since 2005, Telemobil Bilgi İletişim Hizmetleri A.Ş. … Electric Contracting, Weak Current Systems, Data Center Solutions, Environmental Security Systems, X-Ray Solutions, Port Solutions, Industrial Automation, Building Automation, Network Solutions, Mobese Solutions, OTVT Solutions, OSOS Solutions and SCADA / DMS Solutions
+  > 来源：https://www.devex.com/organizations/telemobil-88634（抓取 2026-10-21）
+- **【EMIS】注册日期与地址**
+  > Headquarters Camlica Evleri Sitesi No:13-4 Kucuk Camlica Mahallesi Cilehane Yolu Caddesi Uskudar Istanbul … Incorporation Date: January 14, 2005
+  > 来源：https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +90 533 086 6289（WA）/ 0216 547 6700（用户记录）〔用户 Clients 表（ISAF 2025）〕
-- 备注：土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。
+- 备注：土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（更正主体））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（TBI） |
+| 成立 | 2005-01-14（EMIS） |
+| 总部/地址 | Çamlıca Evleri Sitesi No:13-4, Küçük Çamlıca Mah., Cilehane Yolu Cad., Üsküdar, İstanbul 34696 |
+| 人数 | 51–200（LinkedIn） |
+| 其他 | 业务：电气承包、弱电/自动化、数据中心建设（Uptime）、环境安防、X 光、港口、工业与楼宇自动化、网络、Mobese、OTVT、OSOS、SCADA/DMS |
+
+- **业务线**：数据中心 EPC（自称建成土耳其最大数据中心）；弱电与楼宇/工业自动化；网络方案（LAN/WAN/无线/安全：VLAN、802.1x、QoS、BGP/OSPF/MPLS）；Mobese 城市监控与环境安防；港口/X 光/OSOS/SCADA 项目
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （项目需求） | 2 光 2 电带 PoE 工业交换机（ISAF 2025 现场项目） | 索价 + 交期；现场展示 2 光 4 电 PoE | STI-144GP（4+1；2 光 2 电需 SmartByte 核型） | （本地 Clients/ 表格，无公开 URL）（ISAF 2025） |
+
+- **触达通道（公开）**：网站: https://tbi.com.tr/；直邮: kkisacik@tbi.com.tr（用户表）；LinkedIn: https://tr.linkedin.com/company/tbitelemobil
+- **近况信号**：
+  - ISAF 2025：有具体项目（2 光 2 电 PoE），问交期——短期可成交信号
+  - 公司规模 51–200、数据中心/Mobese 项目型——单项目量可观
+- **风险/边界**：Mobese/港口/SCADA 多为公共/关键基础设施项目——守界：仅供商业楼宇/数据中心弱电部分；大型项目型公司，付款账期长
+- **Saga 对位结论**：P1 STI-144GP（25% 档）——现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档
+- **邮件切入句（英文）**：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -110,7 +145,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（IT/网络系统集成商） |
+| **P1** | STI-144GP | 深挖对位：现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（IT/网络系统集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -164,9 +199,9 @@ updated: 2026-10-21
 ```text
 Hi Kaan,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your （项目需求） 2 光 2 电带 PoE 工业交换机（ISAF 2025 现场项目） at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

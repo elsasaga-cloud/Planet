@@ -1,8 +1,8 @@
 {
  "code": "SA-159",
- "name_official": "Telemobil Bilgi ve İletişim Hizmetleri San. ve Tic. Ltd. Şti.（伊斯坦布尔，土耳其，2004 年）",
+ "name_official": "TBI – Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（tbi.com.tr，Üsküdar/İstanbul）",
  "website_status": "在线（telemobil.com.tr；用户记录称网站打不开，本次检索可见）",
- "summary": "伊斯坦布尔 IT/网络/电信服务公司（2004 年创立，面向中小企业与大型企业：结构化布线、网络、安防/摄像、互联网与电信服务；微软/赛门铁克咨询、服务器/防火墙/路由器/NAS 及有源无源产品）；ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注'可重点跟进'；WA 已加。",
+ "summary": "用户联系人邮箱域 tbi.com.tr 对应 TBI Telemobil Bilgi İletişim Hizmetleri A.Ş.（2005-01-14 注册，Üsküdar/İstanbul，LinkedIn 51–200 人）：电气承包、弱电与自动化、数据中心（自称建成土耳其最大数据中心、Uptime 认证）、环境安防、X 光、港口方案、工业/楼宇自动化、网络方案、Mobese 城市监控、OTVT/OSOS/SCADA。与同名的 telemobil.com.tr（Ltd Şti，2004，中小企业 IT 服务）为不同主体，首轮调研误用后者。ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注「可重点跟进」。",
  "type": "IT/网络系统集成商",
  "size": "小型（待补证）",
  "brands_seen": [
@@ -23,6 +23,34 @@
    "quote": "Telemobil Bilgi ve İletişim Hizmetleri Sanayi ve Ticaret Limited Şirketi Telefon: 0216 520 1224",
    "url": "http://www.telemobil.com.tr/iletisim.html",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "TBI Telemobil：IT 服务，51–200 人，Üsküdar，2005 年",
+   "quote": "TBI - Telemobil … Sektör: BT Hizmetleri ve BT Danışmanlığı Şirket büyüklüğü: 51 - 200 çalışan Genel Merkez: ISTANBUL, Üsküdar … Kuruluş: 2005",
+   "url": "https://tr.linkedin.com/company/tbitelemobil",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自称建成土耳其最大数据中心；弱电与自动化；电气承包",
+   "quote": "TÜRKİYE’NİN EN BÜYÜK VERİ MERKEZİNİ BİZ YAPTIK … ZAYIF AKIM VE OTOMASYON … uçtan uca veri merkezi yapımında, projelendirmeden uygulamaya uptime sertifikalandırma dahil … Elektrik Taahhüt",
+   "url": "https://tbi.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "目录",
+   "claim": "业务范围（Devex）",
+   "quote": "Since 2005, Telemobil Bilgi İletişim Hizmetleri A.Ş. … Electric Contracting, Weak Current Systems, Data Center Solutions, Environmental Security Systems, X-Ray Solutions, Port Solutions, Industrial Automation, Building Automation, Network Solutions, Mobese Solutions, OTVT Solutions, OSOS Solutions and SCADA / DMS Solutions",
+   "url": "https://www.devex.com/organizations/telemobil-88634",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "EMIS",
+   "claim": "注册日期与地址",
+   "quote": "Headquarters Camlica Evleri Sitesi No:13-4 Kucuk Camlica Mahallesi Cilehane Yolu Caddesi Uskudar Istanbul … Incorporation Date: January 14, 2005",
+   "url": "https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -36,6 +64,53 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。",
- "researched_at": "2026-10-21"
+ "notes": "土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（更正主体）"
+ },
+ "company_facts": {
+  "legal_name": "Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（TBI）",
+  "founded": "2005-01-14（EMIS）",
+  "hq": "Çamlıca Evleri Sitesi No:13-4, Küçük Çamlıca Mah., Cilehane Yolu Cad., Üsküdar, İstanbul 34696",
+  "staff": "51–200（LinkedIn）",
+  "other": "业务：电气承包、弱电/自动化、数据中心建设（Uptime）、环境安防、X 光、港口、工业与楼宇自动化、网络、Mobese、OTVT、OSOS、SCADA/DMS"
+ },
+ "business_lines": [
+  "数据中心 EPC（自称建成土耳其最大数据中心）",
+  "弱电与楼宇/工业自动化",
+  "网络方案（LAN/WAN/无线/安全：VLAN、802.1x、QoS、BGP/OSPF/MPLS）",
+  "Mobese 城市监控与环境安防",
+  "港口/X 光/OSOS/SCADA 项目"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目需求）",
+   "model": "2 光 2 电带 PoE 工业交换机（ISAF 2025 现场项目）",
+   "spec": "索价 + 交期；现场展示 2 光 4 电 PoE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "ISAF 2025",
+   "saga": "STI-144GP（4+1；2 光 2 电需 SmartByte 核型）"
+  }
+ ],
+ "channels": {
+  "网站": "https://tbi.com.tr/",
+  "直邮": "kkisacik@tbi.com.tr（用户表）",
+  "LinkedIn": "https://tr.linkedin.com/company/tbitelemobil"
+ },
+ "signals": [
+  "ISAF 2025：有具体项目（2 光 2 电 PoE），问交期——短期可成交信号",
+  "公司规模 51–200、数据中心/Mobese 项目型——单项目量可观"
+ ],
+ "risks": [
+  "Mobese/港口/SCADA 多为公共/关键基础设施项目——守界：仅供商业楼宇/数据中心弱电部分",
+  "大型项目型公司，付款账期长"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档"
+ },
+ "email_hook": "For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed."
 }

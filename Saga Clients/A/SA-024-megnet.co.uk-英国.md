@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。（调研 2026-10-21；表内兴趣：自己的品牌 有人卖他们的 MC SFP AOC等较多）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）；最近一次客户回复：1.16：5个商业24 48口
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,9 +66,45 @@ updated: 2026-10-21
 - **【官网】产品范围含交换机与 MC**
   > OEM Networking Products : SFP, QSFP, AOC, DAC, and Switches … Media Converters
   > 来源：https://megnet.co.uk/（抓取 2026-10-21）
+- **【官网】Chimera PoE MC 型号与网店价格/条件**
+  > CHMC-302P-SFP-3S20-LC $10.55 … Product Category · Media Converter Condition · OEM Warranty · Lifetime Warranty Brand · Chimera … 2-port 10/100Base-T PoE/PoE+ to 100Base Fx SM 20km LC,with external power supply
+  > 来源：https://megnet.co.uk/product/chmc-302p-sfp-3s20-lc/（抓取 2026-10-21）
+- **【LinkedIn】公司规模/成立/专长（含 switches、media converters）**
+  > Megnet Limited | 5,083 followers … Company size: 11-50 employees … Founded: 2003 … Specialties: SFP, Memory, Patch Cords, … media converters, … AOC cables, DAC Cables, switches
+  > 来源：https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions（抓取 2026-10-21）
+- **【官网】Chimera 全线终身保修**
+  > we offer a lifetime warranty on all Chimera Networking products
+  > 来源：https://megnet.co.uk/warranty/（抓取 2026-07-02）
 - **KP**：—（报价热线） +44 845 130 1585〔https://dev.megnet.co.uk/〕
 - 备注：A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Megnet Limited |
+| 成立 | 2003 |
+| 总部/地址 | London, UK |
+| 人数 | 11–50（LinkedIn，5,083 followers） |
+| 其他 | 自称 Chimera 品牌全球唯一制造商/供应商；Chimera 全线终身保修；网店以 USD 标价、库存 1,000,000（占位值）；Chimera 产品也经 Netceed UK 等分销 |
+
+- **业务线**：兼容光模块（MSA/Cisco 等兼容）；Chimera 媒体转换器（百兆 PoE MC、千兆、10G XG100）；DAC/AOC、跳线、内存；交换机（LinkedIn 专长列出）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Chimera | CHMC-302P-SFP-3S20-LC | 2 口 10/100 PoE/PoE+ → 100Base-FX SM 20km LC MC，外接电源，网店 $10.55（占位价） | STI-110GE（PoE MC 版待核） | https://megnet.co.uk/product/chmc-302p-sfp-3s20-lc/（2026-10-21） |
+| Chimera | CHMC-102P-8M0.5-UK | PoE MC（百兆，多模 500 m） | STI-110GE | https://megnet.co.uk/product/chmc-102p-8m0-5-uk/（2026-03-04） |
+| Chimera | CHMC-XG100-8M0.3-UK / -3S10-UK | 10GBASE-T → 10G SFP+ MC（经 Netceed UK 分销） | —（10G MC 待 SmartByte 核型） | https://uk-store.netceed.com/chimera-media-converter-10gbase-t-to-10gbase-sr-300mtr-multimode-sfp-lc-chmc-xg100-8m0-3-uk.html（2026-10-21） |
+| Chimera | CHT-CIS-SFP-1G-TE | 1000BASE-T 铜 SFP（Cisco 兼容） | —（配套） | https://megnet.co.uk/product-category/media-converter/（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://megnet.co.uk/（Get Quote / Download Datasheet）；直邮: rajiv@megnet.co.uk / purchasing@megnet.co.uk（用户表）；LinkedIn: https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions
+- **近况信号**：
+  - 网店 MC 类目价格有效期至 2026-11-23——目录持续维护（2026-10-21）
+  - Chimera 10G MC 已进入 Netceed（大型运营商分销）渠道——有二级分销体量
+  - 用户表：S 重点，1 次实质回复，自己的品牌、有人卖他们的
+- **风险/边界**：Chimera 终身保修 → 对 ODM 来源的失效率与备件有硬要求；采购经理（purchasing@）导向价格，MC 单价极低（$10 级），利润薄
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降
+- **邮件切入句（英文）**：Between the CHMC-302P fast-Ethernet PoE converters and the XG100 10G units, a gigabit RJ45-to-SFP converter in Chimera packing is the SKU most buyers ask for, so I am quoting that first with an 8-port gigabit PoE switch as the second line.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -123,7 +159,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商 + 自有品牌（Chimera，OEM 采购）） |
+| **P1** | STI-110GE | 深挖对位：Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商 + 自有品牌（Chimera，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -177,9 +213,9 @@ updated: 2026-10-21
 ```text
 Hi Rajiv,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Between the CHMC-302P fast-Ethernet PoE converters and the XG100 10G units, a gigabit RJ45-to-SFP converter in Chimera packing is the SKU most buyers ask for, so I am quoting that first with an 8-port gigabit PoE switch as the second line.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Chimera CHMC-102P-8M0.5-UK at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

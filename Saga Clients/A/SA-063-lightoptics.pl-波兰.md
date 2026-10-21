@@ -21,8 +21,8 @@ replies: 2
 followups: 36
 first_contact: 2022-09-13
 last_contact: 2025-10-21
-p1: STC-448DGGPM
-price_tier: 30%
+p1: STI-144GP
+price_tier: 20%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。（调研 2026-10-21；表内兴趣：PoE FS SFP MC 磊通的 也有GXCOM的）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 36 次（2022-09-13 → 2025-10-21）；最近一次客户回复：2024-06-19：email发了2光8BT信息
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -76,9 +76,40 @@ updated: 2026-10-21
 - **【官网】品牌定位与客户群**
   > Light Optics to dostawca dobrej i sprawdzonej jakości modułów optycznych oraz konwerterów mediów w najlepszej cenie. Głównymi odbiorcami są firmy ISP oraz integratorzy.
   > 来源：https://fibermarkt.com/pl/brand/5-lightoptics?page=6（抓取 2026-10-21）
+- **【经销商】LO-IGS-4GT2GF-POE 规格与经销价**
+  > LO-IGS-4GT2GF-POE … Cena netto: 888,00 PLN netto … 4 porty PoE RJ45 10/100/1000 Mbps … 2 porty SFP 1000 Mbps … Budżet mocy PoE: 120 W … Redundantne zasilanie 48–57V DC … -40°C do +85°C … IP40
+  > 来源：https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe（抓取 2026-10-21）
+- **【经销商】LO-IGS-8GT2GF-POE 经销价 1,406 PLN 净**
+  > Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto
+  > 来源：https://profisystems.pl/pl/producer/lightoptics,103922（抓取 2026-10-21）
 - **KP**：—（销售（用户表邮箱；电话即 WhatsApp））sales@fibermarkt.com +48 533 533 575〔https://inwestrut.pl/fibermarkt-sp-z-o-o/〕
 - 备注：A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Fibermarkt Sp. z o.o.（品牌 LightOptics） |
+| 总部/地址 | Kraków, Poland |
+| 其他 | 自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67） |
+
+- **业务线**：兼容光模块（60+ 厂商编码）、DAC、xWDM；LightOptics MC 与工业/接入 PoE 交换机；ISP 与集成商供货，本地仓库与售后
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| LightOptics | LO-IGS-4GT2GF-POE | 工业非管理 4×GE PoE + 2 SFP，120W，48–57VDC 双电源，-40~85℃，IP40，DIN；经销价 888 PLN 净 | STI-144GP | https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe（2026-10-21） |
+| LightOptics | LO-IGS-8GT2GF-POE | 工业 8×GE PoE + 2 SFP；经销价 1,406 PLN 净 | STI-288DGGPM | https://profisystems.pl/pl/producer/lightoptics,103922（2026-10-21） |
+| LightOptics | LO-IGS-M8GT2GF-HPOE | 工业管理 8 PoE + 2 SFP（首轮调研） | STI-288DGGPM | https://fibermarkt.com/（2026-10（首轮调研）） |
+| LightOptics | LO-IGS-2GT1GF-POE / LO-IGS-4GT1GF-POE | 工业 2/4 PoE + 1 SFP（博客 2026-08-30 / Ceneo） | STI-144GP | https://fibermarkt.com/pl/blog/post/kamera-wifi-czy-poe-ktora-wybrac.html（2026-08-30） |
+| LightOptics | LO-IGS-4GT2GF（非 PoE） | 网店 €101.67（原 €125.05） | — | https://fibermarkt.com/en/search/?q=modu%C5%82-sfp-tx-lightoptics-lo-sf-1g-rj-l-sfp-rj45-10-100-1000-tx-utp（2026-10-21） |
+
+- **触达通道（公开）**：网站/网店: https://fibermarkt.com/（EUR/PLN）；直邮: sales@fibermarkt.com（用户表）；二级渠道: Profi Systems、Ceneo
+- **近况信号**：
+  - 2026-08-30 博客仍在推 LO-IGS PoE 系列——产品线活跃（fibermarkt.com）
+  - 用户表：磊通、GXCOM 为现供应商（华南 ODM）
+- **风险/边界**：现供应商为磊通/GXCOM（价格极低），Saga 需以 Marvell 平台 + 一致性切入而非底价；波兰语/CE/WEEE 合规
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档
+- **邮件切入句（英文）**：Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,20 +192,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商/电商（自有品牌贴牌）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-144GP | 深挖对位：LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/电商（自有品牌贴牌）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -182,7 +213,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达；自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-448DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 磊通, GXCOM：涨价、断货或交期拉长时切入；规模（调研）：未见人数（中小）
+- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 磊通, GXCOM：涨价、断货或交期拉长时切入；规模（调研）：未见人数（中小）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -210,14 +241,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the 磊通 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $334.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your LightOptics LO-IGS-4GT2GF-POE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

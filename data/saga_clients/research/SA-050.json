@@ -35,5 +35,62 @@
   }
  ],
  "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研：官网型号与价格已入引文）"
+ },
+ "company_facts": {
+  "legal_name": "BlueWARRIOR（bluewarrior.com）",
+  "hq": "USA",
+  "other": "自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管、bypass、工业 MC，官网明码标价；宣称 UL Class 1 Div 2 与 Tesla 工厂案例；用户表判断「几乎全线武汉迈威(Maiwe)」贴牌"
+ },
+ "business_lines": [
+  "工业交换机（DIN/机架、L2/L3、PoE）",
+  "工业 bypass 交换机",
+  "工业 MC"
+ ],
+ "products_seen": [
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW2026（26 口机架）",
+   "spec": "官网标价 $308",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424DGGPM-280W（PoE 版）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW3020G",
+   "spec": "官网标价 $662",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424XGGPM-280W（待核口型）"
+  },
+  {
+   "brand": "BlueWARRIOR",
+   "model": "BW7212G",
+   "spec": "官网标价 $500",
+   "url": "https://bluewarrior.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM（待核口型）"
+  }
+ ],
+ "channels": {
+  "网站": "https://bluewarrior.com/（明码标价）",
+  "直邮": "sales@bluewarrior.com（用户表）"
+ },
+ "signals": [
+  "用户表：几乎全线迈威贴牌——已有成熟中国 ODM 来源；对 Saga 是「第二来源 + Marvell 平台」机会"
+ ],
+ "risks": [
+  "UL Class 1 Div 2 宣称：Saga 无 UL，不能承接要求 UL 的型号",
+  "迈威为 Saga 同行，价格战风险"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档"
+ },
+ "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic."
 }

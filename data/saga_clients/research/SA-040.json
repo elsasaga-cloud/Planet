@@ -16,8 +16,87 @@
    "quote": "Hardened Networks/ITS Express Ethernet Switches · 80 Series V3 Switches -Hardened Full Layer 3 OSPF/PIM/VRRP/BGP -4 USFP+ Ports 1000Mb/2.5Gb/10Gb … HN-8012-24 V3 -Now Hardened Base Layer 3 … -V3 Technology -SHA-256 authentication",
    "url": "https://hardenednetworks.com/products/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "HN-8012-24 V3 / 24+ V3 规格",
+   "quote": "HN-8012-24 V3 -Now Hardened Base Layer 3 -4 USFP+ Ports 100Mb/1000Mb/2.5Gb/10Gb … -4 ESFP Ports … -16 Copper Ports 10Mb/100Mb/1000Mb TX -176 GB Back-Plane … HN-8012-24+ V3 … -Bypass fiber ports … -FIPS-197 compliant AES-256 encryption",
+   "url": "https://hardenednetworks.com/products/",
+   "date": "2026-07-01"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "AIS-8300 交通摄像机：802.3bt 51W、NEMA TS2、UL、FL APL",
+   "quote": "Power IEEE802.3bt, Type 3, class 6, max 51 watt … -Safety: RoHS, UL … -Others: NEMA TS2 … -FL APL Approval # 682-002-025 … ITS EXPRESS By Hardened Networks",
+   "url": "https://hardenednetworks.com/wp-content/uploads/2025/07/HN-AIS-8300-2.5-20251507.pdf",
+   "date": "2025-07-01"
+  },
+  {
+   "kind": "分销站",
+   "claim": "HN8012-24+ bypass/环网特性",
+   "quote": "Built-in bypass fiber ports with switching time <10ms … Fast ITS ring recovery time< 10ms over 250 units of connections … Ring Protocols: STP, RSTP, MSTP, RPVST +, R-RVST+, ITS- Ring, Moxa/ Herschman/ Advatech Rings",
+   "url": "https://expresssupply.us/hn8012-24plus/",
+   "date": "2026-10-21"
   }
  ],
  "notes": "A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Hardened Networks / ITS Express（expresssupply.us）",
+  "hq": "USA（ITS 交通领域）",
+  "other": "自有品牌 HN 加固交换机（V3：Hardened Base L3、4×USFP+ 10G、4×ESFP 2.5G、16×GE、176G 背板、SHA-256/AES-256、ITS-Ring、Moxa/Hirschmann/Cisco 环兼容）+ AIS-8300 4K 交通摄像机（NEMA TS2、FL APL 682-002-025、UL）"
+ },
+ "business_lines": [
+  "ITS 加固交换机 HN-8012-24 V3 / 8012-24+ V3（bypass 光口）/ HN-8042 V3 / HN-3416 / HN-3488",
+  "ITS 交通摄像机 AIS-8300（802.3bt 51W）",
+  "ITS 配套（expresssupply.us 分销）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Hardened Networks",
+   "model": "HN-8012-24 V3 / HN-8012-24+ V3",
+   "spec": "L3 加固：4×USFP+（100M–10G）+ 4×ESFP（100M–2.5G）+ 16×GE，176G 背板，+ 型含 bypass 光口 <10ms，ITS-Ring 250 节点",
+   "url": "https://hardenednetworks.com/products/",
+   "date": "2026-07-01",
+   "saga": "STC-424XGGM(L3)（机架位）/ 工业 10G L3 待 SmartByte 核型"
+  },
+  {
+   "brand": "Hardened Networks",
+   "model": "HN-8042 V3",
+   "spec": "4×SFP+ 10G + 16×GE，156G 背板，Hardened Base L3，超 NEMA TS-2",
+   "url": "https://hardenednetworks.com/wp-content/uploads/2025/05/HN-8042-20252305.pdf",
+   "date": "2025-05",
+   "saga": "（同上）"
+  },
+  {
+   "brand": "ITS Express",
+   "model": "AIS-8300",
+   "spec": "4K 31x 交通摄像机，802.3bt Type3 51W，NEMA TS2，UL，IP66/IK10",
+   "url": "https://hardenednetworks.com/wp-content/uploads/2025/07/HN-AIS-8300-2.5-20251507.pdf",
+   "date": "2025-07",
+   "saga": "—（PD 侧，需 bt 口交换机）"
+  }
+ ],
+ "channels": {
+  "网站": "https://hardenednetworks.com/ · https://expresssupply.us/",
+  "直邮": "mark@expresssupply.net / sales@expresssupply.net（用户表）"
+ },
+ "signals": [
+  "产品页 2026-07-01 更新 V3 系列；2025-05/07 发布 HN-8042 与 AIS-8300 PDF——持续迭代自有品牌（2026-10-21）",
+  "用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo"
+ ],
+ "risks": [
+  "ITS 公共项目：NEMA TS2 + UL + Buy America 是硬门槛，Saga 工业机无 NEMA/UL——只能供其非公共/测试或 MC/bypass 等配套",
+  "Bypass 光口与 L3 10G 工业机不在 Saga 标准型谱，需 SmartByte 定制评估"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "HN 主力为 10G L3 加固机（Saga 无直接对位，需 SmartByte 核型）；可供的是其环网末端 8 口 PoE DIN（STI-288DGGPM，支持 bt 摄像机需核功率）与工业 MC（STI-110GE）；贴 HN 标 30% 档"
+ },
+ "email_hook": "Below the HN-8012-24 class core units, the 8-port gigabit PoE DIN switch and the gigabit media converter are the two edge pieces we can build in Hardened Networks packing, so I am quoting those rather than the 10G L3 platform for now."
 }

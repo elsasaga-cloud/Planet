@@ -49,5 +49,47 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Alpha Net Communications",
+  "founded": "1986",
+  "hq": "San Antonio, Texas, USA",
+  "staff": "1–10",
+  "other": "结构化布线承包商/小型集成商：布线、光纤、电话、无线、摄像、门禁；在售 HPE/Extreme 交换机，Panduit/Hubbell/ICC 布线"
+ },
+ "business_lines": [
+  "结构化布线与光纤安装",
+  "电话系统、无线、摄像、门禁",
+  "交换机转售（HPE/Extreme/Avaya/Cisco）"
+ ],
+ "products_seen": [
+  {
+   "brand": "HPE / Extreme（转售）",
+   "model": "企业接入交换机",
+   "spec": "项目配套",
+   "url": "https://alphanetcom.com/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STC-424DGGPM-280W（低成本项目位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://alphanetcom.com/",
+  "直邮": "nate.cline@alphanetcom.com（用户表）"
+ },
+ "signals": [
+  "用户表：A 已回复 1 次（群发 US 表），兴趣工业 switch，「有比较多的供应商 产品面广」"
+ ],
+ "risks": [
+  "小承包商，项目型单量小；美国商业楼宇要 UL 的场景不供"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "布线承包商的摄像/门禁项目接入：24 口 PoE 管理（STC-424DGGPM-280W）+ 8 口（STC-28DGGPM）；集成商 25% 档"
+ },
+ "email_hook": "For camera and access-control jobs where an HPE or Extreme access switch is overkill, the Marvell-based 24-port PoE+ managed unit at EXW cost is the one I am quoting, with the 8-port version for small closets."
 }

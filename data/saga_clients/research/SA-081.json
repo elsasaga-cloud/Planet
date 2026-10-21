@@ -49,5 +49,47 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "Softnetworks Inc.",
+  "founded": "2012",
+  "hq": "Whippany, New Jersey, USA",
+  "staff": "11–50（Datanyze 18）",
+  "other": "二手/翻新网络设备经销 + IT 维修；目录含 Industrial Switches"
+ },
+ "business_lines": [
+  "Cisco/Juniper/Aruba/Meraki/Brocade/Dell/HP 翻新件",
+  "工业交换机类目",
+  "Chromebook/Apple 维修"
+ ],
+ "products_seen": [
+  {
+   "brand": "Cisco 等（翻新）",
+   "model": "Industrial Switches 类目",
+   "spec": "二手/翻新",
+   "url": "https://softnetworks.net/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM（新品替代位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://softnetworks.net/",
+  "直邮": "nealc@softnetworks.net（Neal Cennamo，副总，用户表）"
+ },
+ "signals": [
+  "用户表：兴趣工业 FS、Cisco 产品"
+ ],
+ "risks": [
+  "翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档"
+ },
+ "email_hook": "Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting."
 }

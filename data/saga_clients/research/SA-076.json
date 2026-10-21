@@ -34,6 +34,27 @@
    "quote": "w naszym portfolio znajdują się takie marki jak: Genesis, Lanberg, Natec, Fury, Armac oraz Audictus… Wielkość firmy: 51-200 pracowników",
    "url": "https://pl.linkedin.com/company/impakt-s-a",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Lanberg RSGE-24P-2GE-2S-250 规格",
+   "quote": "RSGE-24P-2GE-2S-250 … 28 portów, w tym 24 porty PoE+ (Gigabit Ethernet), 2 Uplink (Gigabit Ethernet) oraz 2 Uplink (SFP Gigabit) … REALNY BUDŻET POE: 250 W",
+   "url": "https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "RSGE-24P-2GE-2S-360 规格与 EAN/保修",
+   "quote": "Manufacturer code: RSGE-24P-2GE-2S-360 EAN: 5901969438697 Warranty: 24m Number of Ethernet ports: 26 Number of fiber ports: 2 Number of POE ports: 24 … Total budget for PoE 360 W … Bandwith 56 Gbps",
+   "url": "https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "零售",
+   "claim": "制造商/进口商信息公开（Impakt S.A. 地址与 product@ 邮箱）",
+   "quote": "LANBERG Impakt S.A. Stanisława Lema 16 62-050 Mosina Polska PL Email: product@impakt.com.pl",
+   "url": "https://www.komputronik.pl/product/825019/lanberg-rsge-24p-2ge-2s-250.html",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -55,5 +76,64 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Impakt S.A.",
+  "hq": "ul. Stanisława Lema 16, 62-050 Mosina, Poland（product@impakt.com.pl）",
+  "staff": ">150",
+  "revenue": "1.52 亿 PLN（2025）",
+  "other": "自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售"
+ },
+ "business_lines": [
+  "Lanberg 网络产品：机架 PoE 交换机 RSGE 系列（24 口 250/360W）、桌面交换机、布线/机柜",
+  "其他自有品牌消费 IT"
+ ],
+ "products_seen": [
+  {
+   "brand": "Lanberg",
+   "model": "RSGE-24P-2GE-2S-250",
+   "spec": "24×GE PoE+ + 2 GE + 2 SFP，250W，56Gbps，8K MAC，风扇，Extend 250 m，4kV 防雷，320×207×45 mm，24 个月保",
+   "url": "https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "Lanberg",
+   "model": "RSGE-24P-2GE-2S-360",
+   "spec": "24×GE PoE+ + 2 GE + 2 SFP，360W（EAN 5901969438697）",
+   "url": "https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "Lanberg",
+   "model": "RSGE-24P-2S-250 / RSGE-24P-2S-360",
+   "spec": "24 PoE+ + 2 SFP，250W（16K MAC 无风扇）/ 360W（FE PoE 口）",
+   "url": "https://lanberg.pl/en/produkt/RSGE-24P-2S-250",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  }
+ ],
+ "channels": {
+  "网站": "https://lanberg.pl/ · https://www.impakt.com.pl/",
+  "直邮": "lukasz.gasiewicz@impakt.com.pl / bartosz.krawczyk@impakt.com.pl（Product Dev Manager，用户表）；product@impakt.com.pl（零售页公开）"
+ },
+ "signals": [
+  "Lanberg RSGE 24 口 PoE 为非管理机型——管理型（L2+）与 8 口 PoE+2 SFP 是其线上的空位（2026-10-21）",
+  "用户表：曾就「一个定制品」回复——有定制采购流程"
+ ],
+ "risks": [
+  "大型品牌商：EAN/包装/波兰语手册/WEEE/保修 24 个月与退货率要求；首单需样机验证",
+  "价格导向强（零售 24 口 PoE 约 1,000 PLN）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%"
+ },
+ "email_hook": "The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line."
 }

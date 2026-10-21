@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：新泽西的有线宽带射频设备设计制造商（1980 年创立，约 33 人，营收口径 $4.3M），产品：multi-tap、光节点、放大器、无源器件，面向北美有线运营商；2023 年起强调光纤方案（与 Teleste 合资 Intercept）。用户表：A 已回复 1 次，联系人 Peter Tarquinio / Jim Taxdahl（VP Sales），问 L2/L3 10G、2.5G/10G 商业交换机。（调研 2026-10-21；表内兴趣：商业switch L2 L3 10G 问了2.5G 10G类产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-09 → 2025-08-09）；最近一次客户回复：2025-08-09：INFO
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -70,6 +70,29 @@ updated: 2026-10-21
 - **KP**：Peter Tarquinio（联系人（用户表））petertarquinio@antronix.com 〔Clients/A Replied 09.04.xlsx〕
 - 备注：A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Antronix, Inc. |
+| 成立 | 1980 |
+| 总部/地址 | Cranbury, New Jersey, USA |
+| 人数 | 约 33 |
+| 营收 | 约 $4.3M（口径） |
+| 其他 | 有线宽带射频设备制造商（multi-tap、光节点、放大器、无源），2023 年起光纤方案（与 Teleste 合资 Intercept） |
+
+- **业务线**：有线电视/宽带 RF 设备；光纤接入方案；（拓展）商业 L2/L3 交换机、2.5G/10G（用户表询问）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （拓展采购） | 商业 L2/L3 交换机 2.5G/10G（用户表） | 问了 2.5G/10G 类产品 | STC-424XGGPM-280W / STC-448XGGM(L3) | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://www.antronix.com/；直邮: petertarquinio@antronix.com / jimtaxdahl@antronix.com（用户表）
+- **近况信号**：
+  - 用户表：A 已回复 1 次（Peter Tarquinio），兴趣商业 L2/L3/10G、2.5G
+- **风险/边界**：北美有线运营商供应链要求 UL/ROHS/一致性与长期供货；交换机为其新品类，决策慢；10G/2.5G 机型需 SmartByte 规格确认
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档
+- **邮件切入句（英文）**：On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -112,7 +135,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌制造商（拓展以太网交换机产品线，OEM 目标）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：询问 2.5G/10G 商业机 → STC-424XGGPM-280W（24 GE PoE + 4×10G SFP+）与 STC-448XGGM(L3) 为对位；若以 Antronix 品牌上市按 30% 档 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌制造商（拓展以太网交换机产品线，OEM 目标）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -165,9 +188,9 @@ updated: 2026-10-21
 ```text
 Hi Jim,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your （拓展采购） 商业 L2/L3 交换机 2.5G/10G（用户表） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

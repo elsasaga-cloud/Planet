@@ -50,5 +50,58 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研 + ISAF 现场记录）"
+ },
+ "company_facts": {
+  "legal_name": "B&S Electronics（Βασίλειος Σταυρίδης）",
+  "founded": "2004",
+  "hq": "Kalamaria, Thessaloniki, Greece",
+  "staff": "20–49",
+  "revenue": "<$5M",
+  "other": "安防批发/零售（CCTV、报警、专业音频、自动化、电话交换机）；ISAF 2025 到访（CEO Vasilis Stavridis）；现工业交换机供应商 EWIND 合作 5 年"
+ },
+ "business_lines": [
+  "CCTV / 报警 / 专业音频 / 自动化 批发零售",
+  "工业交换机（EWIND）用于安防项目",
+  "对 2.5G 交换机有兴趣；看了防水交换机"
+ ],
+ "products_seen": [
+  {
+   "brand": "EWIND（现供应商 5 年）",
+   "model": "工业 PoE 交换机（IP camera 项目）",
+   "spec": "—",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "ISAF 2025",
+   "saga": "STI-288DGGPM（二供位）"
+  },
+  {
+   "brand": "（兴趣）",
+   "model": "2.5G PoE 交换机",
+   "spec": "现场表达兴趣",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "ISAF 2025",
+   "saga": "STC-424XGGPM-280W（2.5G 下行待核）"
+  }
+ ],
+ "channels": {
+  "网站": "https://bselectronics.gr/",
+  "直邮": "imports@bselectronics.gr（用户表）",
+  "联系人": "Vasilis Stavridis（CEO/创始人）"
+ },
+ "signals": [
+  "ISAF 2025：CEO 亲访；对 2.5G 感兴趣——2.5G 是切入差异点"
+ ],
+ "risks": [
+  "EWIND 关系牢固（5 年、熟悉）→ 不做替换，只做 2.5G/新品类二供",
+  "防水（IP67）交换机 Saga 不做"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 20,
+  "why": "客户兴趣点是 2.5G：以 STC-424XGGPM-280W（24 PoE + 4×10G，2.5G 下行需 SmartByte 核）切入，工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档"
+ },
+ "email_hook": "Since the 2.5G question came up at ISAF, the 24-port PoE+ unit with four 10G SFP+ uplinks is the platform I can price now, and the 8-port industrial PoE DIN model sits alongside your EWIND units rather than replacing them."
 }

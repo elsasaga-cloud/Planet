@@ -7,7 +7,8 @@
  "size": "约 25 人，营收 140.7 MSEK（nordicnet）",
  "brands_seen": [
   "Direktronik",
-  "E-link"
+  "E-link",
+  "PLANET"
  ],
  "evidence": [
   {
@@ -23,6 +24,27 @@
    "quote": "Direktronik AB … Omsättning (×1000): 140 657 · Antal anställda: 25 … E-post: info@direktronik.se",
    "url": "http://m.nordicnet.se/foretag/Direktronik-AB/8532",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Direktronik Pro 管理型 8 PoE + 2 SFP DIN 规格",
+   "quote": "En industriell Managed Ring PoE-switch med 8 adaptiva RJ45-portar … 2 Gigabit SFP … 30W per port … statisk routing … QoS och VLAN … Utökad Temperatur -40/+75 Montage DIN Ingångsspänning 48 - 57 V DC … PoE Budget 120",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/direktronik-pro-managerad-8xpoe--2xsfp/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）",
+   "quote": "Vi har samlat en serie av omanagerade switchar under namnet Direktronik Connect … Omanagerade Switchar med PoE och Watchdog samt mediakonverterare",
+   "url": "https://www.direktronik.se/losningarna/natverk/direktronik-se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "同时分销 PLANET IGS-624HPT",
+   "quote": "PLANET IGS-624HPT är en industriell PoE+ switch … fyra PoE+-portar och två fiberoptiska uplink-portar … strömbudget på upp till 120 watt",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -35,5 +57,82 @@
   }
  ],
  "notes": "A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Direktronik AB（Lagercrantz Group）",
+  "founded": "1986；2007 起属上市集团 Lagercrantz",
+  "hq": "Nynäshamn, Sweden",
+  "staff": "约 25",
+  "revenue": "约 1.4 亿 SEK",
+  "other": "自有系列 Direktronik Connect（非管理 PoE + Watchdog + MC）与 Direktronik Pro（管理型）；同时分销 PLANET（IGS-624HPT 等）；公共部门框架协议（Svenska Kraftnät）；2026 年收购 AB Qvintus 与挪威公司"
+ },
+ "business_lines": [
+  "自有品牌 Direktronik Connect/Pro 工业与商用交换机、MC",
+  "PLANET 等品牌分销",
+  "企业/公共部门网络硬件进口分销"
+ ],
+ "products_seen": [
+  {
+   "brand": "Direktronik Pro",
+   "model": "Managerad switch för DIN-skena, 8× 1 GbE POE, 2x SFP（Best.nr 系列）",
+   "spec": "工业管理环网 8×GE PoE 30W + 2 SFP，静态路由/QoS/VLAN，-40~75℃，48–57VDC，120W",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/direktronik-pro-managerad-8xpoe--2xsfp/",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Direktronik",
+   "model": "Omanagerad switch för DIN-skena, 4× 1 GbE POE, 1x SFP",
+   "spec": "4×GE PoE 30W + 1 SFP，-40~75℃，120W，ESD 6/8KV",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-mediakonverterare2/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "Direktronik",
+   "model": "Industriell POE switch PoE-powered 4 port + 2 SFP（Best.nr 20113781）",
+   "spec": "PoE 受电供电（bt 90W 入）4 GE PoE + 2 SFP，-40~80℃",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industrial-poe-powered-switch-5-port-101001000t2-port-sfp/",
+   "date": "2026-10-21",
+   "saga": "—（PD 供电型不在 Saga 型谱）"
+  },
+  {
+   "brand": "Direktronik",
+   "model": "4× 1 GbE POE++, 1 POE++ PD RJ45（Best.nr 20115161）",
+   "spec": "4×bt 90W PSE + 1 PD，-20~65℃",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/full-gigabit-poe---funkar-bade-som-psd-och-pd--2065c/",
+   "date": "2026-10-21",
+   "saga": "—"
+  },
+  {
+   "brand": "PLANET（分销）",
+   "model": "IGS-624HPT（Best.nr 20121139）",
+   "spec": "工业 4×GE bt + 2 SFP，12–54V 升压，120W",
+   "url": "https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://www.direktronik.se/（Kunskapsbanken + 产品 PDF）",
+  "直邮": "anders.hedin@direktronik.se / info@direktronik.se（用户表）"
+ },
+ "signals": [
+  "自有 Direktronik Connect/Pro 系列规格（Watchdog、环网、-40~75℃）与 E-link 公版一致——用户表「和 E-link 深度合作」，ODM 采购成熟（2026-10-21）",
+  "2026 年并购扩张（Qvintus、挪威）——采购体量上升"
+ ],
+ "risks": [
+  "E-link 深度合作 → 替换难，定位二供/新品类（2.5G/10G、bt）",
+  "瑞典公共部门框架要求文档/环保（RoHS/REACH）齐全，Saga 具备 CE/RoHS/REACH"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "Direktronik Pro 8 PoE + 2 SFP 管理 DIN 与 STI-288DGGPM 同位；Connect 4 PoE + 1 SFP 对位 STI-144GP；分销 20% 档（自有品牌贴标可 25%）"
+ },
+ "email_hook": "Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line."
 }

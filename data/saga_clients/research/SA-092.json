@@ -10,7 +10,9 @@
   "Ctek",
   "Relcomm",
   "Synxcom",
-  "Telenetics"
+  "Telenetics",
+  "Canoga Perkins",
+  "GarrettCom"
  ],
  "evidence": [
   {
@@ -33,6 +35,27 @@
    "quote": "Industrial Gigabit Ethernet To Fiber Media Converter -- EMC202GigE… Supplier: Data Connect Enterprise, Inc.",
    "url": "https://www.globalspec.com/industrial-directory/video_signal_to_ethernet_converter",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "DCE ANS208 工业 DIN 8 口 10/100 规格",
+   "quote": "The Data Connect ANS208 has 8 Ethernet Switching ports that support 10/100Base-T … DIN rail mount for industrial usage … ESD Protection: 8KV Contact Discharge 15KV Air-Gap Discharge",
+   "url": "https://www.data-connect.com/dce_ans208.htm",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "加固以太网页：DCE/ANS208、ANS205CR + Canoga Perkins、GarrettCom 转售",
+   "quote": "Data Connect Industrial Ethernet Switches DCE/ANS208 8-PORT INDUSTRIAL ETHERNET SWITCH DCE/ANS205CR 5-PORT INDUSTRIAL ETHERNET SWITCH Canoga Perkins … GarrettCom mP62 Managed Hardened Switch",
+   "url": "https://www.data-connect.com/hardened_ethernet.htm",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "DCE GMC 千兆 MC 系列",
+   "quote": "DCE GMC series comply with IEE802.3z/ab Gigabit Ethernet standard … 1000Base-T to 1000base-SX/LX … WDM Technology Combines Dual Fiber Cables into Single Fiber",
+   "url": "https://www.data-connect.com/dce_dt_gmc.htm",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -47,5 +70,80 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Data Connect Enterprise, Inc.",
+  "hq": "Maryland, USA（另有 NJ、CA 设施）",
+  "other": "自有 DCE 品牌：MC（10/100、千兆 GMC、WDM）、DFT 4FX+4TX 交换机、ANS205CR/ANS208 工业 DIN 交换机、工业调制解调器、以太网延长器（2178HEE/2178CEE+PoE）、串口服务器；拥有 Ctek/Relcomm/Synxcom/Telenetics 品牌 IP；同时转售 Canoga Perkins、GarrettCom 加固设备"
+ },
+ "business_lines": [
+  "DCE 品牌 MC / 工业交换机 / 延长器 / 调制解调器 / KVM",
+  "Canoga Perkins、GarrettCom 加固以太网转售",
+  "数据/语音/SCADA 连接产品"
+ ],
+ "products_seen": [
+  {
+   "brand": "DCE",
+   "model": "ANS208",
+   "spec": "工业 DIN 8×10/100 非管理，宽压 DC，ESD 8/15KV，变电站/工业",
+   "url": "https://www.data-connect.com/dce_ans208.htm",
+   "date": "2026-10-21",
+   "saga": "STI-288DGGPM（千兆 PoE 升级位）"
+  },
+  {
+   "brand": "DCE",
+   "model": "ANS205CR",
+   "spec": "工业 DIN 5 口",
+   "url": "https://www.data-connect.com/hardened_ethernet.htm",
+   "date": "2026-10-21",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "DCE",
+   "model": "GMC Series 千兆 MC（含 WDM）",
+   "spec": "1000Base-T → SX/LX，550 m–10 km",
+   "url": "https://www.data-connect.com/dce_dt_gmc.htm",
+   "date": "2026-10-21",
+   "saga": "STI-110GE"
+  },
+  {
+   "brand": "DCE",
+   "model": "DFT Series 4×100FX + 4×10/100TX",
+   "spec": "FX/TX 交换/桥接 MC",
+   "url": "https://www.data-connect.com/dce_dt_dft.htm",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（千兆位）"
+  },
+  {
+   "brand": "DCE",
+   "model": "2178HEE / 2178CEE+POE 以太网延长器",
+   "spec": "$450–525（iComTech）",
+   "url": "https://www.icomtechinc.com/data-connect/",
+   "date": "2026-06-25",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.data-connect.com/（产品页陈旧但在线）",
+  "直邮": "bpatton@data-connect.com / drowe@data-connect.com（用户表）",
+  "分销": "iComTech 等"
+ },
+ "signals": [
+  "DCE 工业交换机仍为 10/100 非管理（ANS208/205CR）——千兆 PoE 升级是明确空位（2026-10-21）",
+  "用户表：1 次回复、16 次跟进，兴趣工业 FS/MC/串口，「卖很多牌子的产品」"
+ ],
+ "risks": [
+  "SCADA/公用事业客户可能要求 IEEE 1613/UL——不承诺",
+  "产品页多年未更新，采购活跃度待验证"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档"
+ },
+ "email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series."
 }

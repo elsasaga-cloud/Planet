@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：波兰 IT 硬件'制造商+分销商'，自有品牌组合含网络品牌 Lanberg；>150 员工，2025 年营收 1.52 亿 PLN（约 3,500 万欧元），3,500+ 自有品牌 SKU，销往 40+ 国；联系人为 Product Dev Manager，曾就'一个定制品'回复。（调研 2026-10-21；表内兴趣：一个定制品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 8 次（2025-04-04 → 2025-10-21）；最近一次客户回复：2025-09-16：INFO
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -79,10 +79,44 @@ updated: 2026-10-21
 - **【LinkedIn】品牌组合含 Lanberg（网络/布线品牌），51–200 人，1997 年创立**
   > w naszym portfolio znajdują się takie marki jak: Genesis, Lanberg, Natec, Fury, Armac oraz Audictus… Wielkość firmy: 51-200 pracowników
   > 来源：https://pl.linkedin.com/company/impakt-s-a（抓取 2026-10-21）
+- **【官网】Lanberg RSGE-24P-2GE-2S-250 规格**
+  > RSGE-24P-2GE-2S-250 … 28 portów, w tym 24 porty PoE+ (Gigabit Ethernet), 2 Uplink (Gigabit Ethernet) oraz 2 Uplink (SFP Gigabit) … REALNY BUDŻET POE: 250 W
+  > 来源：https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250（抓取 2026-10-21）
+- **【官网】RSGE-24P-2GE-2S-360 规格与 EAN/保修**
+  > Manufacturer code: RSGE-24P-2GE-2S-360 EAN: 5901969438697 Warranty: 24m Number of Ethernet ports: 26 Number of fiber ports: 2 Number of POE ports: 24 … Total budget for PoE 360 W … Bandwith 56 Gbps
+  > 来源：https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w（抓取 2026-10-21）
+- **【零售】制造商/进口商信息公开（Impakt S.A. 地址与 product@ 邮箱）**
+  > LANBERG Impakt S.A. Stanisława Lema 16 62-050 Mosina Polska PL Email: product@impakt.com.pl
+  > 来源：https://www.komputronik.pl/product/825019/lanberg-rsge-24p-2ge-2s-250.html（抓取 2026-10-21）
 - **KP**：Łukasz Gąsiewicz（Product Dev Manager）lukasz.gasiewicz@impakt.com.pl 〔用户 Clients 表（已回复）〕
 - **KP**：Bartosz Krawczyk（（用户记录））bartosz.krawczyk@impakt.com.pl 〔用户 Clients 表〕
 - 备注：体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Impakt S.A. |
+| 总部/地址 | ul. Stanisława Lema 16, 62-050 Mosina, Poland（product@impakt.com.pl） |
+| 人数 | >150 |
+| 营收 | 1.52 亿 PLN（2025） |
+| 其他 | 自有品牌 Lanberg（网络）、Genesis、Natec、Fury、Armac、Audictus；3,500+ SKU，40+ 国；Lanberg 交换机 24 个月保修，通过 Komputronik/iVolta 等零售 |
+
+- **业务线**：Lanberg 网络产品：机架 PoE 交换机 RSGE 系列（24 口 250/360W）、桌面交换机、布线/机柜；其他自有品牌消费 IT
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Lanberg | RSGE-24P-2GE-2S-250 | 24×GE PoE+ + 2 GE + 2 SFP，250W，56Gbps，8K MAC，风扇，Extend 250 m，4kV 防雷，320×207×45 mm，24 个月保 | STC-424DGGPM-280W | https://lanberg.pl/produkt/RSGE-24P-2GE-2S-250（2026-10-21） |
+| Lanberg | RSGE-24P-2GE-2S-360 | 24×GE PoE+ + 2 GE + 2 SFP，360W（EAN 5901969438697） | STC-424DGGPM-280W | https://pl.lanberg.eu/produkt/switch-lanberg-rsge-24p-2ge-2s-360-24x-1gb-poe-2x-gb-2x-sfp-rack-19-gigabit-ethernet-360w（2026-10-21） |
+| Lanberg | RSGE-24P-2S-250 / RSGE-24P-2S-360 | 24 PoE+ + 2 SFP，250W（16K MAC 无风扇）/ 360W（FE PoE 口） | STC-424DGGPM-280W | https://lanberg.pl/en/produkt/RSGE-24P-2S-250（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://lanberg.pl/ · https://www.impakt.com.pl/；直邮: lukasz.gasiewicz@impakt.com.pl / bartosz.krawczyk@impakt.com.pl（Product Dev Manager，用户表）；product@impakt.com.pl（零售页公开）
+- **近况信号**：
+  - Lanberg RSGE 24 口 PoE 为非管理机型——管理型（L2+）与 8 口 PoE+2 SFP 是其线上的空位（2026-10-21）
+  - 用户表：曾就「一个定制品」回复——有定制采购流程
+- **风险/边界**：大型品牌商：EAN/包装/波兰语手册/WEEE/保修 24 个月与退货率要求；首单需样机验证；价格导向强（零售 24 口 PoE 约 1,000 PLN）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%
+- **邮件切入句（英文）**：The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +174,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（自有品牌 OEM 采购）+ 分销商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25% | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（自有品牌 OEM 采购）+ 分销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -194,9 +228,9 @@ updated: 2026-10-21
 ```text
 Hi Łukasz,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Lanberg RSGE-24P-2GE-2S-250 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

@@ -22,6 +22,27 @@
    "quote": "OEM Networking Products : SFP, QSFP, AOC, DAC, and Switches … Media Converters",
    "url": "https://megnet.co.uk/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Chimera PoE MC 型号与网店价格/条件",
+   "quote": "CHMC-302P-SFP-3S20-LC $10.55 … Product Category · Media Converter Condition · OEM Warranty · Lifetime Warranty Brand · Chimera … 2-port 10/100Base-T PoE/PoE+ to 100Base Fx SM 20km LC,with external power supply",
+   "url": "https://megnet.co.uk/product/chmc-302p-sfp-3s20-lc/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "公司规模/成立/专长（含 switches、media converters）",
+   "quote": "Megnet Limited | 5,083 followers … Company size: 11-50 employees … Founded: 2003 … Specialties: SFP, Memory, Patch Cords, … media converters, … AOC cables, DAC Cables, switches",
+   "url": "https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Chimera 全线终身保修",
+   "quote": "we offer a lifetime warranty on all Chimera Networking products",
+   "url": "https://megnet.co.uk/warranty/",
+   "date": "2026-07-02"
   }
  ],
  "kp": [
@@ -34,5 +55,76 @@
   }
  ],
  "notes": "A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Megnet Limited",
+  "founded": "2003",
+  "hq": "London, UK",
+  "staff": "11–50（LinkedIn，5,083 followers）",
+  "other": "自称 Chimera 品牌全球唯一制造商/供应商；Chimera 全线终身保修；网店以 USD 标价、库存 1,000,000（占位值）；Chimera 产品也经 Netceed UK 等分销"
+ },
+ "business_lines": [
+  "兼容光模块（MSA/Cisco 等兼容）",
+  "Chimera 媒体转换器（百兆 PoE MC、千兆、10G XG100）",
+  "DAC/AOC、跳线、内存",
+  "交换机（LinkedIn 专长列出）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Chimera",
+   "model": "CHMC-302P-SFP-3S20-LC",
+   "spec": "2 口 10/100 PoE/PoE+ → 100Base-FX SM 20km LC MC，外接电源，网店 $10.55（占位价）",
+   "url": "https://megnet.co.uk/product/chmc-302p-sfp-3s20-lc/",
+   "date": "2026-10-21",
+   "saga": "STI-110GE（PoE MC 版待核）"
+  },
+  {
+   "brand": "Chimera",
+   "model": "CHMC-102P-8M0.5-UK",
+   "spec": "PoE MC（百兆，多模 500 m）",
+   "url": "https://megnet.co.uk/product/chmc-102p-8m0-5-uk/",
+   "date": "2026-03-04",
+   "saga": "STI-110GE"
+  },
+  {
+   "brand": "Chimera",
+   "model": "CHMC-XG100-8M0.3-UK / -3S10-UK",
+   "spec": "10GBASE-T → 10G SFP+ MC（经 Netceed UK 分销）",
+   "url": "https://uk-store.netceed.com/chimera-media-converter-10gbase-t-to-10gbase-sr-300mtr-multimode-sfp-lc-chmc-xg100-8m0-3-uk.html",
+   "date": "2026-10-21",
+   "saga": "—（10G MC 待 SmartByte 核型）"
+  },
+  {
+   "brand": "Chimera",
+   "model": "CHT-CIS-SFP-1G-TE",
+   "spec": "1000BASE-T 铜 SFP（Cisco 兼容）",
+   "url": "https://megnet.co.uk/product-category/media-converter/",
+   "date": "2026-10-21",
+   "saga": "—（配套）"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://megnet.co.uk/（Get Quote / Download Datasheet）",
+  "直邮": "rajiv@megnet.co.uk / purchasing@megnet.co.uk（用户表）",
+  "LinkedIn": "https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions"
+ },
+ "signals": [
+  "网店 MC 类目价格有效期至 2026-11-23——目录持续维护（2026-10-21）",
+  "Chimera 10G MC 已进入 Netceed（大型运营商分销）渠道——有二级分销体量",
+  "用户表：S 重点，1 次实质回复，自己的品牌、有人卖他们的"
+ ],
+ "risks": [
+  "Chimera 终身保修 → 对 ODM 来源的失效率与备件有硬要求",
+  "采购经理（purchasing@）导向价格，MC 单价极低（$10 级），利润薄"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降"
+ },
+ "email_hook": "Between the CHMC-302P fast-Ethernet PoE converters and the XG100 10G units, a gigabit RJ45-to-SFP converter in Chimera packing is the SKU most buyers ask for, so I am quoting that first with an 8-port gigabit PoE switch as the second line."
 }

@@ -32,5 +32,49 @@
   }
  ],
  "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研 + 用户表）"
+ },
+ "company_facts": {
+  "legal_name": "Avenger Security / Security Tekton（getsecurityalarm.com）",
+  "hq": "Austin & Hutto, Texas, USA",
+  "revenue": "<$5M（ZoomInfo）",
+  "other": "员工持股安防服务商：商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控；服务奥斯汀/休斯敦/达拉斯/圣安东尼奥"
+ },
+ "business_lines": [
+  "商业/住宅入侵报警与 UL 中心站监控",
+  "消防报警",
+  "门禁",
+  "云视频监控（IP 摄像机 → 需 PoE 接入）"
+ ],
+ "products_seen": [
+  {
+   "brand": "（安装商自用）",
+   "model": "商业 PoE 交换机（用户表兴趣）",
+   "spec": "摄像机/门禁点位供电",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://getsecurityalarm.com/",
+  "直邮": "brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）",
+  "电话": "(512) 563-5361（用户表）"
+ },
+ "signals": [
+  "用户表：A 已回复，2 次实质回复，兴趣商业 PoE"
+ ],
+ "risks": [
+  "安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景",
+  "消防报警部分守界（生命安全）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档"
+ },
+ "email_hook": "For camera and access-control sites an 8-port gigabit PoE+ unit at EXW cost is usually where installers see the biggest gap versus distributor pricing, so I am sending that one first with the 24-port version as the larger-site option."
 }

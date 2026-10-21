@@ -48,5 +48,50 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1（沿用首轮调研）"
+ },
+ "company_facts": {
+  "legal_name": "FiberX LLC / FIBERX Inc.",
+  "founded": "2016",
+  "hq": "Guaynabo & Caguas, Puerto Rico（美国属地）",
+  "staff": "11–50",
+  "revenue": "约 $5.6M",
+  "registry": "AS6208",
+  "other": "光纤 ISP/运营商：互联网、Metro Ethernet、FTTH/FTTB、机房托管；覆盖波多黎各/哥伦比亚/美国"
+ },
+ "business_lines": [
+  "FTTH/FTTB 接入",
+  "Metro Ethernet 专线",
+  "机房托管"
+ ],
+ "products_seen": [
+  {
+   "brand": "（运营商自用）",
+   "model": "bypass 2 光 10 电工业交换机（用户记录：帖子下询价）",
+   "spec": "bypass 光口 + 10 电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STI-288DGGPM（无 bypass；bypass 需 SmartByte 核）"
+  }
+ ],
+ "channels": {
+  "网站": "https://fiberx.net/",
+  "直邮": "irivera@fiberx.net / info@fiberx.net（用户表）"
+ },
+ "signals": [
+  "用户表：1 次回复、20 次跟进；对 bypass 机型有具体兴趣"
+ ],
+ "risks": [
+  "bypass 光口机型不在 Saga 标准型谱",
+  "运营商采购要求固件（VLAN/QinQ/IGMP）与长期支持"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "FTTB 楼宇/机柜接入：STI-288DGGPM（8 GE PoE + 2 SFP 管理，环网冗余替代 bypass 需求）与 STC-28DGGPM；项目 25% 档；bypass 版本另询 SmartByte"
+ },
+ "email_hook": "On the 2-fibre 10-copper bypass unit you asked about, the closest standard platform is the 8-port gigabit PoE managed DIN switch with two SFP uplinks and ring redundancy, so I am quoting that now and checking the hardware-bypass variant separately."
 }

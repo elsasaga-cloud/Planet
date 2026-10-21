@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。（调研 2026-10-21；表内兴趣：4 8口PoE，CCTV 监控较多，光少一些/发price list, full info, 想专业一些，有比较多的项目）
 - **为什么是 A 级**：+6 有互动但表示暂无需求/已有供应商 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 1 次（2025-12-04 → 2025-12-04）；最近一次客户回复：2025-12-04：Interested 但 嫌价格贵
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：4/8 口 PoE 需求：STC-28DGGPM（8 PoE + 2 SFP 管理）为主、STI-144GP（4+1 工业，户外箱内）为辅；集成商 25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -69,9 +69,43 @@ updated: 2026-10-21
 - **【findbiz】销售 €0–2M，11–50 人，经理 Radka Ivanova**
   > SALES(€) 0-2m 2022 EMPLOYEES 11-50… Manager · RADKA ANGELOVA IVANOVA
   > 来源：https://findbiz.gr/en/company/elite-team-security/270037185652（抓取 2026-10-21）
+- **【注册】公司注册信息、规模、营收**
+  > ЕЛИТ - ТИМ - СЕКЮРИТИ … Оборот: 248 999 € оборот за 2020 г. Служители: 12 служители към 2021 г. … Седалище адрес: БЪЛГАРИЯ, гр. Враца (3000), жк. Река Лева, ул.Остри връх, 1
+  > 来源：https://papagal.bg/eik/202351530/4f70（抓取 2026-10-21）
+- **【公共采购】2023-07 投标弗拉察市视频监控项目**
+  > Изграждане на видеонаблюдение на територията на Община Враца … ЕЛИТ - ТИМ - СЕКЮРИТИ ООД … 05 юли 2023 … EUR 93 736,84
+  > 来源：https://app.eop.bg/today/308554（抓取 2023-07-05）
+- **【官网】AxxonSoft 西北保加利亚唯一官方合作伙伴**
+  > „Елит тийм секюрити“ е официалният и единствен партньор в Северозападна България на лидера в интелигентните системи за видеонаблюдение „AxxonSoft”
+  > 来源：https://elitteamsecurity.com/2022/11/（抓取 2022-11）
 - **KP**：（见 Clients 表联系人）（） +359 879 377 573（WA；与公司公开号码一致）〔用户 Clients 表 + AxxonSoft 页〕
 - 备注：已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ЕЛИТ-ТИМ-СЕКЮРИТИ ООД（Elite Team Security OOD） |
+| 成立 | 2012-12-07（ЕИК 202351530，VAT BG202351530） |
+| 总部/地址 | гр. Враца 3000, ж.к. Река Лева, ул. Остри връх 1, Bulgaria |
+| 人数 | 12（2021）/ 22（2022） |
+| 营收 | €249k（2020） |
+| 其他 | 持牌安保公司（全国财产保护许可）；AxxonSoft 西北保加利亚唯一官方合作伙伴；2023-07 投标弗拉察市政视频监控项目（报价 €93,736.84）；监控中心实时监看 3,000+ 摄像头 |
+
+- **业务线**：物理安保 + 报警响应；视频监控集成（城市监控、乡村监控、农业设施）；AxxonSoft AI 视频分析
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （集成商自用） | 4/8 口 PoE 交换机（用户记录） | CCTV 点位供电；要 price list 与完整资料 | STC-28DGGPM / STI-144GP | （本地 Clients/ 表格，无公开 URL）（用户表） |
+| AxxonSoft | 智能视频分析平台（合作伙伴） | — | — | https://elitteamsecurity.com/2022/11/（2022-11） |
+
+- **触达通道（公开）**：网站: https://elitteamsecurity.com/；直邮: ets@elitteamsecurity.com（用户表）；WhatsApp: 已加（用户表）；电话: +359879377573（首轮调研，与记录一致）
+- **近况信号**：
+  - 2023-07-05：参与 Община Враца 视频监控公共采购（€93.7k）——有市政项目型需求（https://app.eop.bg/today/308554）
+  - 用户表：4/8 口 PoE，项目较多，要 price list
+- **风险/边界**：公共采购（市政）部分守界：仅供集成商商用部分，不介入投标文件；量小（每项目数十台）
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——4/8 口 PoE 需求：STC-28DGGPM（8 PoE + 2 SFP 管理）为主、STI-144GP（4+1 工业，户外箱内）为辅；集成商 25% 档
+- **邮件切入句（英文）**：For the 4- and 8-port PoE positions on your camera sites, the 8-port gigabit PoE+ managed unit and the 4+1 industrial DIN model are the two I am sending with a full price list and datasheets as you asked.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,7 +147,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安保服务商 + 视频监控集成（终端用户/集成商）） |
+| **P1** | STC-28DGGPM | 深挖对位：4/8 口 PoE 需求：STC-28DGGPM（8 PoE + 2 SFP 管理）为主、STI-144GP（4+1 工业，户外箱内）为辅；集成商 25% 档 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安保服务商 + 视频监控集成（终端用户/集成商）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -166,9 +200,9 @@ updated: 2026-10-21
 ```text
 Hi Lachezar,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the 4- and 8-port PoE positions on your camera sites, the 8-port gigabit PoE+ managed unit and the 4+1 industrial DIN model are the two I am sending with a full price list and datasheets as you asked.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （集成商自用） 4/8 口 PoE 交换机（用户记录） at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

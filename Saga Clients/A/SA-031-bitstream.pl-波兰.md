@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-01-30
 last_contact: 2025-01-30
-p1: STI-288DGGPM
+p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
 sources: 1
@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。（调研 2026-10-21；表内兴趣：自己的牌子 工业FS SFP MC 一些其他产品 有人卖他们的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）；最近一次客户回复：2025-01-30：INFO
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -66,9 +66,44 @@ updated: 2026-10-21
 - **【官网】产品类目含 PoE/L2/L3 交换机与光纤 MC**
   > PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów
   > 来源：https://bitstream.pl/technologie/technika-swiatlowodowa/（抓取 2026-10-21）
+- **【官网】Hyperion 105 规格**
+  > Industrial managed switch with 8/4x RJ45 10/100Mbps or 4x RJ45 10/100/1000Mbps and 2/4x SFP 100M/1000M/2.5Gbps … PoE ÷ PoE++/High PoE (802.3bt) support up to 90W per UTP port (max. 240W on all ports)
+  > 来源：https://bitstream.pl/en/products/hyperion-105/（抓取 2026-10-21）
+- **【官网】Hyperion 402 机架 L2+ 规格**
+  > Industrial managed L2 + switches with 4x 10 / 2.5 / 1G and 8/16/24/32 ports 10M / 100M / 1G RJ45 PoE ÷ High PoE or SFP 100 / 1000M slots … 19 ”1U chassis … maximum total PoE power is 500W
+  > 来源：https://bitstream.pl/en/products/hyperion-402/（抓取 2026-10-21）
+- **【官网】Hyperion 200 含 PTPv2 服务器、4×10G**
+  > Managed industrial Ethernet switch with PTPv2 time synchronization server function and 4x 1/2,5/10 Gbps i 8/16x 10M/100M/1G RJ45 PoE÷High PoE IEEE802.3bt … Power supply 36-60 VDC or 80-360 VDC / 75-270 V AC
+  > 来源：https://bitstream.pl/en/products/hyperion-200/（抓取 2026-10-21）
 - **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
 - 备注：A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | BitStream S.A. |
+| 成立 | 15+ 年（2023 改制股份公司） |
+| 总部/地址 | Lublin, Poland |
+| 人数 | 小型（trade.gov.pl） |
+| 其他 | 自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌 |
+
+- **业务线**：Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）；MC、接口转换器；PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| BitStream | Hyperion 105 | 工业管理 8/4×RJ45（FE 或 4×GE）+ 2/4×SFP（2×2.5G），PoE~bt 90W/口（总 240W），ITU K.44 4kV | STI-288DGGPM / STI-144GP | https://bitstream.pl/en/products/hyperion-105/（2026-10-21） |
+| BitStream | Hyperion 200 | 工业管理 + PTPv2 服务器，4×1/2.5/10G + 8/16×GE PoE~bt（总 500W）或 SFP，DIN，-40~85℃ | STI-21616GP（16 口位，10G 上联待核） | https://bitstream.pl/en/products/hyperion-200/（2026-10-21） |
+| BitStream | Hyperion 300 | 工业 12/10 口（2×2.5G SFP + 6 SFP + 2 RJ45 或 8×GE PoE），RS232/485、DI/DO、1-wire，DIN IP-30 | STI-288DGGPM | https://bitstream.pl/en/products/hyperion-300/（2026-10-21） |
+| BitStream | Hyperion 402 | 19" 1U L2+ 4×10/2.5/1G + 8/16/24/32×GE PoE~bt（总 500W） | STC-424XGGPM-280W / STC-448XGGM(L3) | https://bitstream.pl/en/products/hyperion-402/（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://bitstream.pl/en/；直邮: mbeczek@bitstream.pl（出口名录）/ ahyz@bitstream.pl / dpietrzyk@bitstream.pl（用户表）
+- **近况信号**：
+  - Hyperion 全线规格远高于公版（PTPv2、PROFINET、OAM、500W bt）——自研能力强，Saga 可供的是其入门/非管理与机架 PoE 的成本位，而非替换 Hyperion（2026-10-21）
+  - 用户表：A 已回复，自己的牌子，有人卖他们的；回复中有详细联系方式
+- **风险/边界**：自研厂商对二供要求固件透明度/长期供货承诺（5–10 年）；竞品定位：若 Saga 以低价工业机切入可能被视为冲突其高端线——定位为「入门级/项目配套」
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档
+- **邮件切入句（英文）**：Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,17 +148,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -133,7 +168,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：小型（trade.gov.pl「Size Small」）
+- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：小型（trade.gov.pl「Size Small」）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -161,14 +196,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Aleksander,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your BitStream Hyperion 105 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

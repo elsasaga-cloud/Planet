@@ -33,7 +33,7 @@ updated: 2026-10-21
 - **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。（调研 2026-10-21；表内兴趣：商业PoE）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）；最近一次客户回复：2025-09-08：Price
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
@@ -68,6 +68,27 @@ updated: 2026-10-21
 - **KP**：—（总机）info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
 - 备注：A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
+### 加厚挖掘（2026-10-21 · 深挖 v1（沿用首轮调研 + 用户表））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Avenger Security / Security Tekton（getsecurityalarm.com） |
+| 总部/地址 | Austin & Hutto, Texas, USA |
+| 营收 | <$5M（ZoomInfo） |
+| 其他 | 员工持股安防服务商：商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控；服务奥斯汀/休斯敦/达拉斯/圣安东尼奥 |
+
+- **业务线**：商业/住宅入侵报警与 UL 中心站监控；消防报警；门禁；云视频监控（IP 摄像机 → 需 PoE 接入）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （安装商自用） | 商业 PoE 交换机（用户表兴趣） | 摄像机/门禁点位供电 | STC-28DGGPM | （本地 Clients/ 表格，无公开 URL）（用户表） |
+
+- **触达通道（公开）**：网站: https://getsecurityalarm.com/；直邮: brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）；电话: (512) 563-5361（用户表）
+- **近况信号**：
+  - 用户表：A 已回复，2 次实质回复，兴趣商业 PoE
+- **风险/边界**：安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景；消防报警部分守界（生命安全）
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档
+- **邮件切入句（英文）**：For camera and access-control sites an 8-port gigabit PoE+ unit at EXW cost is usually where installers see the biggest gap versus distributor pricing, so I am sending that one first with the 24-port version as the larger-site option.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -112,7 +133,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成/安装商（小型，自装自用采购）） |
+| **P1** | STC-28DGGPM | 深挖对位：安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成/安装商（小型，自装自用采购）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -165,9 +186,9 @@ updated: 2026-10-21
 ```text
 Hi Brandon,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For camera and access-control sites an 8-port gigabit PoE+ unit at EXW cost is usually where installers see the biggest gap versus distributor pricing, so I am sending that one first with the 24-port version as the larger-site option.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （安装商自用） 商业 PoE 交换机（用户表兴趣） at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Which switch model are you buying most often right now, and roughly how many units a month?
 

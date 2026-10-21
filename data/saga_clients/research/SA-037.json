@@ -22,6 +22,27 @@
    "quote": "FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ … aktywa 6,2 mln zł · przychód 10,2 mln zł",
    "url": "https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "网店交换机目录与净价（TP-Link 8/16/24 口 PoE）",
+   "quote": "TP-Link TL-SG2428P, 24xGE PoE+ 250W, 4xGE SFP, 19\" … Cena netto 1 037,15 PLN … TP-Link TL-SG2210MP, 8xGE PoE+ 150W, 2xGE SFP … Cena netto 543,01 PLN … TL-SG3428MP, 24xGE PoE+ 384W, 4xGE SFP, konsola … 1 311,25 PLN",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "目录",
+   "claim": "automatyka.pl 列其类目含工业交换机/路由器/MC/UPS",
+   "quote": "Konwertery magistral i protokołów, mediakonwertery · Huby · Switche przemysłowe, przełączniki rack · Routery przemysłowe",
+   "url": "https://www.automatyka.pl/firmy/fcnet-future-communication-networks-spolka-cywilna-90964-1",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址/电话/邮箱公开",
+   "quote": "Adres: Św. Jacka 2; 45-073 Opole, Polska Tel: (+48) 775-418-475 Email: info@fcnet.pl",
+   "url": "https://www.fcnet.pl/o-firmie",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -34,5 +55,73 @@
   }
  ],
  "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "FCNET Sp. z o.o.（原 FCNet Future Communication Networks s.c.；NIP 7542916466，REGON 160150149）",
+  "hq": "ul. Św. Jacka 2, 45-073 Opole, Poland",
+  "revenue": "约 10.2M PLN",
+  "other": "Fluke Networks 波兰分销商；网店卖 TP-Link/Netgear/Cisco/HPE/Ubiquiti/MikroTik 交换机，含 PoE 电源配件；automatyka.pl 类目含工业交换机/工业路由器/MC"
+ },
+ "business_lines": [
+  "网络有源/无源元件分销（网店）",
+  "网络设计、外包、IP 电话",
+  "工业交换机/路由器/MC（automatyka.pl 目录类目）"
+ ],
+ "products_seen": [
+  {
+   "brand": "TP-Link（转售）",
+   "model": "TL-SG2428P（24×GE PoE+ 250W + 4 SFP）",
+   "spec": "净价 1,037.15 PLN（≈$270）",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "TP-Link（转售）",
+   "model": "TL-SG2210MP（8×GE PoE+ 150W + 2 SFP）",
+   "spec": "净价 543.01 PLN（≈$140）",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM"
+  },
+  {
+   "brand": "TP-Link（转售）",
+   "model": "TL-SG3428MP（24×GE PoE+ 384W + 4 SFP，L2+）",
+   "spec": "净价 1,311.25 PLN（≈$340）",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/switche.html",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "（配件）",
+   "model": "Zasilacz PoE 48V 0,5A Gigabit 24W",
+   "spec": "PoE 电源 25.20 PLN 起",
+   "url": "https://www.fcnet.pl/sprzet-sieciowy/akcesoria/poe.html",
+   "date": "2026-10-21",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站/网店": "https://www.fcnet.pl/",
+  "直邮": "info@fcnet.pl（官网）/ biuro@fcnet.pl（用户表）",
+  "电话": "+48 775-418-475"
+ },
+ "signals": [
+  "网店交换机价带：8 口 PoE ≈ $140、24 口 PoE+ ≈ $270–340 净价——Saga 同规格 EXW $84/$134–140 有 30–40% 空间供其自有 logo 定价（2026-10-21）",
+  "用户表：1 次实质回复，兴趣「自己的 logo」"
+ ],
+ "risks": [
+  "TP-Link 价格锚点低，自有 logo 需靠更低进货价 + 本地化（波兰语说明书、CE/WEEE）支撑",
+  "小体量（~1,000 万 PLN 营收）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档"
+ },
+ "email_hook": "Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting."
 }
