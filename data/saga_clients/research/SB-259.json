@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（alternetivo.cz，快照 2026-10-21）",
- "summary": "捷克品牌商/贴牌需求（OEM/ODM）：官网「Alternetivo | IT distributor | Switching/routing, monitoring, sÃ­Å¥ovÃ¡ bezpeÄnost, kabel」（cs）；品类词：数据中心 / 企业 IT / 网络交换 / PoE；站内品牌：Zyxel、Cambium；站内型号：PM-1540、RKS-0447、CZ25098314、SK2023145113；表内「MC SFP 工业FS（标价高） 周边产品 JHA的反搜列表中有；Milan Krátký https://www.alternetivo.cz/industr」；群发 8 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "捷克 Alternetivo（IT 分销商：交换/路由、无线与光网络、结构化布线、网络安全、IP 监控；站内 NNET 工业非管理 PoE 交换机（备注 URL）；表内「MC / SFP / 工业 FS（标价高），周边产品；JHA 的反搜列表中有」「可以尝试多跟进一下」；KP Lukáš Reif（reif@）、Milan Krátký（kratky@））；群发 8 次无回复。",
+ "type": "IT 分销商（捷克，NNET 工业 PoE 在售）",
  "size": "",
  "brands_seen": [
   "Zyxel",
-  "Cambium"
+  "Cambium",
+  "NNET"
  ],
  "evidence": [
   {
@@ -24,40 +25,79 @@
    "quote": "MC SFP 工业FS（标价高） 周边产品 JHA的反搜列表中有；Milan Krátký https://www.alternetivo.cz/industrialni-neriditelny-poe-switch-2xrj-45-10-100-1000m-poe-2x100-1000m-sfp-poe-autocheck-relay-alarm-bez-adapteru_d99528.html",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Alternetivo 定位",
+   "quote": "Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabel ; Technologie pro přenos hlasu a dat",
+   "url": "https://www.alternetivo.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 工业 FS 标价高；NNET 的",
+   "quote": "MC SFP 工业FS（标价高）周边产品 JHA的反搜列表中有；Lukáš Reif NNET的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Lukáš Reif",
+   "title": "（表内联系人）",
+   "email": "reif@alternetivo.cz",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Milan Krátký",
+   "title": "（表内联系人）",
+   "email": "kratky@alternetivo.cz",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "捷克",
   "other": "官网 alternetivo.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "IT 分销（交换路由 / 无线光网 / 布线 / 安全 / IP 监控）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "IT 分销商（捷克，NNET 工业 PoE 在售）",
   "region": "捷克",
   "contact": "reif@alternetivo.cz、kratky@alternetivo.cz"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.alternetivo.cz/）",
-  "在售同口型交换品牌：Zyxel、Cambium → 直接对位替换",
-  "官网公开邮箱：eshop@alternetivo.cz、eshop@alternetivo.sk、info@alternetivo.cz",
-  "用户表兴趣/备注：MC SFP 工业FS（标价高） 周边产品 JHA的反搜列表中有；Milan Krátký https://www.alternetivo.cz/industrialni-neriditelny-poe-switch-2xrj-45-10-"
+  "备注 URL：https://www.alternetivo.cz/industrialni-neriditelny-poe-switch-2xrj-45-10-100-1000m-poe",
+  "官网：Technologie pro přenos hlasu a dat: switching/routing, bezdrátové a optické sítě, strukturované kabeláže, síťová bezpečnost, IP monitoring；kw distributor 18"
  ],
- "risks": [],
+ "risks": [
+  "现货源 NNET（深圳）价格基准低；JHA 反搜列表（同类白牌已触达）",
+  "8 次无回复 → 改向具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 30,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "在售 NNET 工业非管理 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE；SFP 不供（Q-32）"
  },
- "email_hook": "Lukáš, alongside the Zyxel / Cambium lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Lukáš, alongside the NNET industrial PoE switches you list, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which NNET port count do your integrators order most?",
+ "products_seen": [
+  {
+   "brand": "NNET",
+   "model": "Industriální neřiditelný PoE switch 2×RJ-45",
+   "spec": "工业非管理 PoE（小口）",
+   "saga": "STI-154GP / STI-288GP",
+   "url": "https://www.alternetivo.cz/industrialni-neriditelny-poe-switch-2xrj-45-10-100-1000m-poe",
+   "date": "2026-10-21"
+  }
+ ]
 }

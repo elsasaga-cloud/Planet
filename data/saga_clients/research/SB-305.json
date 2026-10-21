@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cloudtronics.com.au，快照 2026-10-21）",
- "summary": "澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Cloudtronics – Network Solutions and Transceivers Home page」（en-AU）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：SKY22、CLD-8POE-2SFP-IND、QSFP28；表内「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；群发 22 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。",
+ "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "N-net"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,44 +23,72 @@
    "quote": "N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Cloudtronics 定位",
+   "quote": "Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support ; Transceivers 100% Compatibility Guarantee",
+   "url": "https://cloudtronics.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "N-net 工业 FS 带自己的标",
+   "quote": "N-net的工业FS 带了自己的标 / N-net的 网页做的不错；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Robert Nathan",
+   "title": "Director",
+   "email": "rnathan@cloudtronics.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "兼容光模块 / 网络设备 / 定制 IoT 电子（自有品牌 Cloudtronics）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
   "region": "澳大利亚",
   "contact": "sales@cloudtronics.com.au、rnathan@cloudtronics.com.au"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://cloudtronics.com.au/）",
-  "官网公开邮箱：admin@cloudtronics.com.au、sales@cloudtronics.com.au",
-  "用户表兴趣/备注：N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-po"
+  "备注 URL：https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/；站内 CLD-8POE-2SFP-IND",
+  "官网：Cloudtronics® is proudly an Australian owned and operated company … Transceivers 100% Compatibility Guarantee ; Customised IoT Electronics in 6 WEEKS"
  ],
  "risks": [
-  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+  "22 次无回复 → 改向 Director 具名首触；主品类光模块 Saga 不供"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GP",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标"
  },
- "email_hook": "Robert, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?",
+ "products_seen": [
+  {
+   "brand": "Cloudtronics（自有标）",
+   "model": "CLD-8POE-2SFP-IND",
+   "spec": "工业 8 PoE + 2 SFP 非管理（N-net 代工）",
+   "saga": "STI-288GP",
+   "url": "https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
+   "date": "2026-10-21"
+  }
+ ]
 }

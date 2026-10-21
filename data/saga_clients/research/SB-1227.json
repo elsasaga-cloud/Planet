@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（pc-industriali.it，快照 2026-10-21）",
- "summary": "意大利工业自动化/IoT 方案商：官网「PC industriali - Hardware Solutions」（it）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：EN50155、UTC-300、UTC-500、TEC-2410；表内「工业FS 研华的」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "意大利 Hardware Solutions（pc-industriali.it：工业 PC 设计、生产与分销——Box PC、机架、工业平板、HMI、Panel PC；站内 Advantech UTC-300/500、TEC-2410、EN50155；表内「工业 FS 研华的」「质量一般」）；表内无跟进记录。",
+ "type": "工业 PC 制造/分销商（意大利，Advantech 工业 FS）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "工业FS 研华的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Hardware Solutions 定位",
+   "quote": "PC industriali - Hardware Solutions ; Hardware Solutions progetta, produce e distribuisce Industrial Personal Computer.",
+   "url": "https://pc-industriali.it/home",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 研华的",
+   "quote": "工业FS 研华的；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +45,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 pc-industriali.it，语言 it，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "工业 PC 设计生产与分销"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业 PC 制造/分销商（意大利，Advantech 工业 FS）",
   "region": "意大利",
   "contact": "info@hardwaresolutions.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://pc-industriali.it/home）",
-  "官网公开邮箱：info@hardwaresolutions.it",
-  "用户表兴趣/备注：工业FS 研华的"
+  "官网：Hardware Solutions progetta, produce e distribuisce Industrial Personal Computer；栏目 PC Box & RACK / TABLET INDUSTRIALI / HMI / Panel PC；站内 UTC-300 / UTC-500 / TEC-2410",
+  "表内：工业 FS 研华的"
  ],
- "risks": [],
+ "risks": [
+  "Advantech 既定线；交换机为 IPC 配套品类；表内「质量一般」",
+  "无具名 KP（info@）；无跟进记录；EN50155 轨道场景不涉"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）作 IPC 配套预算线"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the Advantech industrial switches you supply with your Box PCs and Panel PCs, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IPC customers order most?"
 }

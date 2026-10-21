@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（shoguncctv.com，快照 2026-10-21）",
- "summary": "香港安防集成/经销：官网「Shogun Technology Co.,Ltd」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：ISO9001、ISO14001、SG-EC2701、SG-IPS33148PFM；表内「ONV的工业FS；工业FS MC 换了PVC膜 无源产品 摄像头」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "香港 Shogun Technology Co., Ltd（贸易商：ONV 工业 FS / MC 换 PVC 膜贴 SG- 型号（SG-IPS33148PFM / SG-POE31024PFM / SG-EC2701）、无源产品、摄像机；表内无邮箱）；表内无跟进记录。",
+ "type": "香港贸易商（转卖 ONV 贴标，同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,53 @@
    "quote": "ONV的工业FS；工业FS MC 换了PVC膜 无源产品 摄像头",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Shogun 站内型号",
+   "quote": "Shogun Technology Co.,Ltd ; Welcome for visit our website. ; SG-IPS33148PFM ; SG-POE31024PFM ; SG-EC2701",
+   "url": "https://shoguncctv.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ONV 工业 FS 换 PVC 膜",
+   "quote": "ONV的工业FS / 工业FS MC 换了PVC膜 无源产品 摄像头；ONV的很多产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：香港贸易商（Shogun Technology，ONV 产品贴标出口），非海外渠道，表内无邮箱；c_sub=同行/贸易商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "香港",
   "other": "官网 shoguncctv.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络/安防产品贸易（ONV 贴标）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "香港贸易商（转卖 ONV 贴标，同行）",
   "region": "香港",
   "contact": "（表内无邮箱）"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://shoguncctv.com/）",
-  "用户表兴趣/备注：ONV的工业FS；工业FS MC 换了PVC膜 无源产品 摄像头"
+  "站内 SG-IPS33148PFM / SG-POE31024PFM / SG-EC2701（ONV 同款编号规律）；kw camera 66 / switch 34 / poe 22",
+  "表内：ONV 的工业 FS / 工业 FS MC 换了 PVC 膜 / 无源产品 摄像头；ONV 的很多产品"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "同行：香港贸易商（ONV 产品换 PVC 膜出口），非海外渠道客户；表内无邮箱"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "港资贸易商转卖深圳 ONV 贴标 = 同行出口商，非海外渠道；且表内无邮箱 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：同行）"
 }

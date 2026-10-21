@@ -2,7 +2,7 @@
 
 > **评级 B**　|　澳大利亚　|　档案编号 `SB-305`　|　优先级 ★★　|　状态：已推送 22 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 22 次（2024-05-11 → 2025-10-24）　|　**所在清单**：A优质名单(AU)、AI评估(AU)、E冷名单(印度尼西亚)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）（推断）　|　**历史关系**：推送 22 次（2024-05-11 → 2025-10-24）　|　**所在清单**：A优质名单(AU)、AI评估(AU)、E冷名单(印度尼西亚)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-305
@@ -12,14 +12,14 @@ score: 44
 country: 澳大利亚
 region: 亚太
 website: cloudtronics.com.au
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）
 tier_tags: ["A优质名单(AU)", "AI评估(AU)", "E冷名单(印度尼西亚)"]
 deal: no
 replies: 0
 followups: 22
 first_contact: 2024-05-11
 last_contact: 2025-10-24
-p1: STI-288DGGPM
+p1: STI-288GP
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Cloudtronics – Network Solutions and Transceivers Home page」（en-AU）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：SKY22、CLD-8POE-2SFP-IND、QSFP28；表内「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；群发 22 次、无回复。（调研 2026-10-21；表内兴趣：N-net的工业FS 带了自己的标；N-net的 网页做的不错）
+- **是谁**：澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。（调研 2026-10-21；表内兴趣：N-net的工业FS 带了自己的标；N-net的 网页做的不错）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 E 冷名单（按国家群发）；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-05-11 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | cloudtronics.com.au（取自域名，公司全名待核） | 推断 |
 | 国家 | 澳大利亚（另见：印度尼西亚） | 事实（用户表）|
 | 网站/域名 | cloudtronics.com.au / cloudtronics.co.id | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 / Robert Nathan / Director | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | N-net的工业FS 带了自己的标 / N-net的 网页做的不错 | 事实（用户表） |
@@ -65,32 +65,44 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（cloudtronics.com.au，快照 2026-10-21）
-- **是谁**：澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Cloudtronics – Network Solutions and Transceivers Home page」（en-AU）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：SKY22、CLD-8POE-2SFP-IND、QSFP28；表内「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；群发 22 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。
+- **类型**：澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）
+- **在卖/在用品牌**：N-net
 - **【官网快照】官网标题：Cloudtronics – Network Solutions and Transceivers Home page；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support
   > 来源：https://cloudtronics.com.au/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Cloudtronics 定位**
+  > Cloudtronics® is proudly an Australian owned and operated company. Cloudtronics provides unique, tailored solutions with built-in cloud support ; Transceivers 100% Compatibility Guarantee
+  > 来源：https://cloudtronics.com.au/（抓取 2026-10-21）
+- **【用户表】N-net 工业 FS 带自己的标**
+  > N-net的工业FS 带了自己的标 / N-net的 网页做的不错；可以多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Robert Nathan（）rnathan@cloudtronics.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 澳大利亚 |
 | 其他 | 官网 cloudtronics.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 澳大利亚；contact: sales@cloudtronics.com.au、rnathan@cloudtronics.com.au
+- **业务线**：兼容光模块 / 网络设备 / 定制 IoT 电子（自有品牌 Cloudtronics）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Cloudtronics（自有标） | CLD-8POE-2SFP-IND | 工业 8 PoE + 2 SFP 非管理（N-net 代工） | STI-288GP | https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/（2026-10-21） |
+
+- **触达通道（公开）**：role: 澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）；region: 澳大利亚；contact: sales@cloudtronics.com.au、rnathan@cloudtronics.com.au
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://cloudtronics.com.au/）
-  - 官网公开邮箱：admin@cloudtronics.com.au、sales@cloudtronics.com.au
-  - 用户表兴趣/备注：N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-po
-- **风险/边界**：群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Robert, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 备注 URL：https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/；站内 CLD-8POE-2SFP-IND
+  - 官网：Cloudtronics® is proudly an Australian owned and operated company … Transceivers 100% Compatibility Guarantee ; Customised IoT Electronics in 6 WEEKS
+- **风险/边界**：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报；22 次无回复 → 改向 Director 具名首触；主品类光模块 Saga 不供
+- **Saga 对位结论**：P1 STI-288GP（30% 档）——自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标
+- **邮件切入句（英文）**：Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -158,7 +170,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robert Nathan | — | sales@cloudtronics.com.au / rnathan@cloudtronics.com.au | 用户表原值 | Clients/ 表 |
+| Robert Nathan | — | rnathan@cloudtronics.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -176,17 +188,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288GP | 深挖对位：自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标 | $62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -196,7 +209,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 22 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 N-net：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GP 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 N-net：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -224,25 +237,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Robert,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Robert, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+Picking up our earlier exchange about PoE / industrial switches. Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the N-net class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

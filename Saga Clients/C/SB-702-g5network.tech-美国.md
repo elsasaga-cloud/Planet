@@ -1,25 +1,26 @@
 # g5network.tech
 
-> **评级 B**　|　美国　|　档案编号 `SB-702`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　美国　|　档案编号 `SB-702`　|　优先级 —　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：二手/二级市场品牌硬件经纪（非渠道）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-702
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # 非渠道：二级市场品牌硬件经纪（G5 Network Technology，BrokerBin），需求为品牌正品；c_sub=品类不符（品牌二手经纪）
 score: 34
 country: 美国
 region: 北美
 website: g5network.tech
-type: 电商/网店
+type: 二手/二级市场品牌硬件经纪（非渠道）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-28DGGPM
+p1: none
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,13 +30,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国电商/网店：官网「G5 Network Technology | Secondary Market Telecom, Network & IT Hardware」（en-US）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Ubiquiti、Cisco、Fortinet、Juniper；站内型号：AP5202、SPDB-15、AP5405、RJ-45；表内「知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and 」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
-- **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+2 最近活动 2024
+- **是谁**：美国 G5 Network Technology（德州二级市场电信/网络/IT 硬件经纪：Cisco / HP / HPE / Dell / Supermicro / IBM 等正品检测分级，BrokerBin 挂牌；阿里巴巴询盘为知名品牌产品；KP Adam Mason（Sales & Procurement Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **为什么是 C 级**：**调研后定级 C**（非渠道：二级市场品牌硬件经纪（G5 Network Technology，BrokerBin），需求为品牌正品；c_sub=品类不符（品牌二手经纪））；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+2 最近活动 2024；C 级细分：品类不符（品牌二手经纪）
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：交换机词频 35、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：二级市场品牌正品经纪（询盘为 Cisco/HP 等品牌货），白牌无切入 → 改 C）
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | g5network.tech（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | g5network.tech | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 二手/二级市场品牌硬件经纪（非渠道） | 推断（据兴趣/备注关键词） |
 | 联系人 | Adam Mason, Sales & Procurement Manager | 事实（用户表） |
 | 来源（From） | 2024.5.4 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（g5network.tech，快照 2026-10-21）
-- **是谁**：美国电商/网店：官网「G5 Network Technology | Secondary Market Telecom, Network & IT Hardware」（en-US）；品类词：安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Ubiquiti、Cisco、Fortinet、Juniper；站内型号：AP5202、SPDB-15、AP5405、RJ-45；表内「知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and 」；表内未见跟进记录。
-- **类型**：电商/网店
+- **是谁**：美国 G5 Network Technology（德州二级市场电信/网络/IT 硬件经纪：Cisco / HP / HPE / Dell / Supermicro / IBM 等正品检测分级，BrokerBin 挂牌；阿里巴巴询盘为知名品牌产品；KP Adam Mason（Sales & Procurement Manager））；表内无跟进记录。
+- **类型**：二手/二级市场品牌硬件经纪（非渠道）
 - **在卖/在用品牌**：Ubiquiti, Cisco, Fortinet, Juniper
 - **【官网快照】官网标题：G5 Network Technology | Secondary Market Telecom, Network & IT Hardware；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 网络交换 / PoE**
   > G5 Network Technology is a secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin.
@@ -64,25 +64,31 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】G5 Network 定位**
+  > G5 Network Technology is a secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin.
+  > 来源：https://g5network.tech/（抓取 2026-10-21）
+- **【用户表】品牌产品询盘**
+  > 知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Adam Mason（）sales@g5network.tech 〔用户表〕
+- **调研后定级**：C（原自动 B）——非渠道：二级市场品牌硬件经纪（G5 Network Technology，BrokerBin），需求为品牌正品；c_sub=品类不符（品牌二手经纪）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 g5network.tech，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；布线 / 线缆；网络交换 / PoE
-- **触达通道（公开）**：role: 电商/网店；region: 美国；contact: sales@g5network.tech
+- **业务线**：二级市场品牌 IT 硬件经纪
+- **触达通道（公开）**：role: 二手/二级市场品牌硬件经纪（非渠道）；region: 美国；contact: sales@g5network.tech
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://g5network.tech/）
-  - 在售同口型交换品牌：Ubiquiti → 直接对位替换
-  - 官网公开邮箱：info@g5network.tech、sales@g5network.tech
-  - 用户表兴趣/备注：知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘
-- **风险/边界**：企业级品牌为主（Cisco/Fortinet/Juniper）：Saga 白牌只作价格补充线
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——官网快照对位：交换机词频 35、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Adam, alongside the Ubiquiti / Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 官网：secondary market specialist for genuine telecom, networking & IT hardware — lab-tested, graded, and shipped from Texas. Listed on BrokerBin
+  - 表内：知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel / from: 阿里巴巴询盘
+- **风险/边界**：非渠道：二级市场品牌硬件经纪（BrokerBin），需求为品牌正品，白牌无切入
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——二级市场品牌正品经纪（询盘为 Cisco/HP 等品牌货），白牌无切入 → 改 C
+- **邮件切入句（英文）**：（不发送：品类不符）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -125,6 +131,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Adam Mason | — | sales@g5network.tech | 调研核实（公开页） | 用户表 |
 | Adam Mason, Sales & Procurement Manager | — | sales@g5network.tech / +9162820411 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -137,32 +144,10 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|---|---|---|
 | 询盘统计表.xlsx#Sheet1:12 |  | https://g5network.tech/ | 美国 | Adam Mason, Sales & Procurement Manager | 2024.5.4 |  | Sales@g5network.tech (916) 282-0411 加不上 cid.898f5ba51b274d26 | 知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avaya, DELL, Supermicro, IBM, and Intel from: 阿里巴巴询盘 | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：交换机词频 35、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：北美主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Cisco, HPE：涨价、断货或交期拉长时切入
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：品类不符（品牌二手经纪）。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-702,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -181,7 +166,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Cisco, HPE, Supermicro |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -190,25 +175,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hi Adam,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Adam, alongside the Ubiquiti / Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -220,11 +187,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → C
 
 ---
 

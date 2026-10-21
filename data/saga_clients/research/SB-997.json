@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（polyvision.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Оборудование для видеонаблюдения Polyvision™: AHD и IP видеокамеры, гибридные и IP видеоре」（ru）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内型号：PVC-IP5T-NZ10MPAI、PVC-IP2X-NF4P、PVC-IP2Z-DF2、PND-04P-2M；表内「有统一的型号 不过是不同外壳 商业POE CCTV为主 很多配件；商业POE 自己的logo 比较多的外壳」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 Polyvision™（视频监控设备品牌：AHD/IP 摄像机、混合/IP NVR、50 口非管理 PoE 交换机、可视对讲、大量配件；表内「有统一的型号不过是不同外壳；商业 PoE，CCTV 为主，自己的 logo；像是有 ONV 的；有人在卖他们的」）；表内无跟进记录。",
+ "type": "俄罗斯 CCTV 自有品牌商（PoE 贴标，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV（疑）"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "有统一的型号 不过是不同外壳 商业POE CCTV为主 很多配件；商业POE 自己的logo 比较多的外壳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Polyvision 首页新品",
+   "quote": "Оборудование для видеонаблюдения Polyvision™: AHD и IP видеокамеры, гибридные и IP видеорегистраторы ; 50-портовый неуправляемый PoE коммутатор",
+   "url": "https://www.polyvision.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 自己的 logo；多外壳；像 ONV",
+   "quote": "商业POE CCTV为主 很多配件 / 商业POE 自己的logo 比较多的外壳；像是有ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +45,42 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 polyvision.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "视频监控设备（自有品牌 Polyvision）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯 CCTV 自有品牌商（PoE 贴标，OEM 采购）",
   "region": "俄罗斯",
   "contact": "info@polyvision.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.polyvision.ru/）",
-  "官网公开邮箱：info@polyvision.ru",
-  "用户表兴趣/备注：有统一的型号 不过是不同外壳 商业POE CCTV为主 很多配件；商业POE 自己的logo 比较多的外壳"
+  "首页：50-портовый неуправляемый PoE коммутатор ; 80-канальный IP-видеорегистратор；站内 PND-04P-2M / PVC-IP5T-NZ10MPAI；kw poe 44",
+  "表内：有统一的型号 不过是不同外壳；商业 PoE 自己的 logo；像是有 ONV 的；有人在卖他们的"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流受限，非主攻区（T5）；现代工疑 ONV（深圳）价格基准低",
+  "无具名 KP（info@）；无跟进记录"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most?",
+ "products_seen": [
+  {
+   "brand": "Polyvision（自有）",
+   "model": "50-портовый неуправляемый PoE коммутатор",
+   "spec": "48+2 口非管理 PoE",
+   "saga": "STC-448XGGPM（L2+，注明）",
+   "url": "https://www.polyvision.ru/",
+   "date": "2026-10-21"
+  }
+ ]
 }

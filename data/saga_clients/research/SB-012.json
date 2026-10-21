@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（maxcomcorp.com，快照 2026-10-21）",
- "summary": "加拿大品牌商/贴牌需求（OEM/ODM）：官网「Manufacturer of fiber optic transport equipment and digital TV equipment | Maxcom, Inc.」（en-US）；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、RS455、MX555AGC-1、MX555AGC；表内「广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC」；群发 14 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "Maxcom, Inc.（光纤传输与数字电视设备制造商：光发射/接收、EDFA、编码器、WDM、RF 开关、光保护开关；表内「广州一个牌子 Gxcom 工业 FS 刷了自己的 logo；光路的 MC」；KP Steve Bradley（steve.bradley@，电话 916.705.4441 — 美国加州区号，表内国别「加拿大」待核）、Tom Maguire（Sales Executive））；群发 14 次无回复。",
+ "type": "光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Gxcom",
+  "光路"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,43 +24,70 @@
    "quote": "广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Maxcom 定位",
+   "quote": "Manufacturer of fiber optic transport equipment and digital TV equipment | Maxcom, Inc. ; Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA’s, Encoders",
+   "url": "https://www.maxcomcorp.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Gxcom 工业 FS 刷了自己的 logo；光路 MC",
+   "quote": "广州 一个牌子 Gxcom  工业FS 刷了自己的logo 光路的MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Steve Bradley",
+   "title": "（表内联系人，电话 916.705.4441）",
+   "email": "steve.bradley@maxcomcorp.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Tom Maguire",
+   "title": "Sales Executive",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 maxcomcorp.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤传输 / 数字电视设备制造（自有品牌 Maxcom）",
+  "工业交换机 / MC（贴标）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）",
   "region": "加拿大",
   "contact": "steve.bradley@maxcomcorp.com、sales@maxcomcorp.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.maxcomcorp.com/）",
-  "官网公开邮箱：maxcomcorp@yahoo.com、sales@maxcomcorp.com、support@maxcomcorp.com",
-  "用户表兴趣/备注：广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC"
+  "官网：Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA’s, Encoders … Wave Division Multiplex；页面 /product-details/fiber-optical-protection-switch/；kw fiber 170 / ethernet 47 / media converter 11",
+  "表内：广州 Gxcom 工业 FS 刷了自己的 logo；光路的 MC；KP Steve Bradley / 916.705.4441；Tom Maguire / Sales Executive"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现代工 Gxcom（广州）/ 光路 价格基准低",
+  "14 次无回复 → 改向 Steve Bradley 具名首触；国别待核（美国区号 916）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有标工业 FS（现 Gxcom 广州代工）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴 Maxcom 标；MC 位 STI-110GE（$24.3）对位光路 MC"
  },
- "email_hook": "Steve, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Steve, for the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?"
 }
