@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（giga-link.ru，快照 2026-10-21）",
- "summary": "俄罗斯工业自动化/IoT 方案商：官网「GIGALINK」；品类词：光纤 / 媒体转换 / 网络交换 / PoE；表内「MC SFP 工业FS POE 有洪瑞的商业FS」；群发 8 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "俄罗斯 GIGALINK（网络设备品牌：MC、SFP、工业 FS、PoE；表内「有洪瑞（HRUI）的商业 FS」→ Q-33 口径：仅推 SmartByte/Marvell 线）；群发 8 次无回复。",
+ "type": "网络设备品牌商（俄罗斯，HRUI 在供，Q-33 口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "MC SFP 工业FS POE 有洪瑞的商业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "GIGALINK 定位",
+   "quote": "GIGALINK ; Gigalink - Сетевое оборудование",
+   "url": "https://giga-link.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有洪瑞的商业 FS",
+   "quote": "MC SFP 工业FS POE；有洪瑞的商业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 giga-link.ru，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络设备（自有品牌 GIGALINK，俄罗斯）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "网络设备品牌商（俄罗斯，HRUI 在供，Q-33 口径）",
   "region": "俄罗斯",
   "contact": "info@giga-link.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://giga-link.ru/）",
-  "官网公开邮箱：info@giga-link.ru",
-  "用户表兴趣/备注：MC SFP 工业FS POE 有洪瑞的商业FS"
+  "官网：GIGALINK ; Gigalink - Сетевое оборудование；kw poe 10 / sfp 12",
+  "表内：MC SFP 工业 FS POE；有洪瑞的商业 FS"
  ],
  "risks": [
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "Q-33 口径：HRUI 在供，仅推 SmartByte/Marvell 线，避免渠道冲突；俄罗斯：结算/物流/合规风险；8 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "HRUI 在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 GIGALINK 标；MC/SFP 不重复报"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the managed PoE and industrial switch positions in the GIGALINK range, we can offer a Marvell L2+ platform (8-PoE + 2 SFP, DIN-rail 8-GE + 2 SFP managed) in your packaging from small lots, CE/RoHS; EAC by your side — which managed SKU would you want sampled first?"
 }

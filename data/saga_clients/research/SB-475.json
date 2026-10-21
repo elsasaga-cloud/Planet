@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（timeout）",
- "summary": "俄罗斯经销/集成（类型待核，无官网快照）：官网快照失败（timeout）；表内「Switch」；群发 17 次、有回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。",
+ "type": "电信设备企业（俄罗斯，有回复，用户标重要）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,61 @@
    "quote": "Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "比较重要；有回复",
+   "quote": "比较重要 Mikhail Afonin；Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mikhail Afonin",
+   "title": "（职务待核）",
+   "email": "afonin@npotelecom.ru",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Rashid Abdullin",
+   "title": "Sales and Marketing Specialist",
+   "email": "sale@npotelecom.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 npotelecom.ru，语言 ?，快照状态 timeout；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "电信设备（俄罗斯）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "电信设备企业（俄罗斯，有回复，用户标重要）",
   "region": "俄罗斯",
   "contact": "sale@npotelecom.ru、afonin@npotelecom.ru"
  },
  "signals": [
-  "用户表兴趣/备注：Switch"
+  "表内：Switch；比较重要 Mikhail Afonin；Rashid Abdullin / Sales and Marketing Specialist；有回复",
+  "快照：timeout"
  ],
  "risks": [
-  "官网快照失败（timeout）：域名/证书待核，邮件可能退回",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "有回复——沟通内容在 Gmail 待核（续谈勿重复首触）；用户标「比较重要」；俄罗斯：结算/物流/合规风险；官网 timeout"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "Switch 需求（有回复）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 NPO 标"
  },
- "email_hook": "Mikhail, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?"
 }

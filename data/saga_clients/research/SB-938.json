@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fiberopticsupply.com，快照 2026-10-21）",
- "summary": "美国电商/网店：官网「FiberOptic Supply」（en）；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：TYPE-Q102、SPCO-1、SPRI-121、TYPE-Q502S-KIT-8RH；表内「SFP MC 周边产品；卖别人的MC」；群发 2 次、无回复。",
- "type": "电商/网店",
+ "summary": "美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。",
+ "type": "光纤材料网店（美国，MC 为有源副线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "SFP MC 周边产品；卖别人的MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "FiberOptic Supply 定位",
+   "quote": "FiberOptic Supply ; We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components",
+   "url": "https://fiberopticsupply.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "卖别人的 MC",
+   "quote": "SFP MC 周边产品 / 卖别人的MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "光纤材料 / 工具 / 有源组件网店（美国）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "光纤材料网店（美国，MC 为有源副线）",
   "region": "美国",
   "contact": "sales@fiberopticsupply.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://fiberopticsupply.com/）",
-  "官网公开邮箱：sales@fiberopticsupply.com",
-  "用户表兴趣/备注：SFP MC 周边产品；卖别人的MC"
+  "官网：We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components；kw media converter 29 / sfp 29 / fiber 739",
+  "表内：SFP MC 周边产品 / 卖别人的 MC"
  ],
- "risks": [],
+ "risks": [
+  "主业光纤无源材料（Saga 不做）；SFP 需求 Saga 不供；2 次无回复，仅 sales@"
+ ],
  "saga_fit": {
   "p1": "STI-110GE",
   "tier": 20,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：电商/网店→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "有源组件分类 MC → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；商用桌面 MC 以 HRUI 列表价（注明）；SFP Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?"
 }

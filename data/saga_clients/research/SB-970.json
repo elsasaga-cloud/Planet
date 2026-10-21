@@ -3,14 +3,23 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（unreachable）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网快照失败（unreachable）；表内「有Utepo的工业FS 主要是商业POE 自己的型号」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 CMD-sec（安防：自有型号商用 PoE 为主，工业 FS 有 Utepo；官网 unreachable）；表内未跟进。",
+ "type": "安防品牌商（俄罗斯，自有型号 PoE）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
+   "quote": "有Utepo的工业FS 主要是商业POE 自己的型号",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的型号；Utepo",
    "quote": "有Utepo的工业FS 主要是商业POE 自己的型号",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
@@ -22,31 +31,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 cmd-sec.ru，语言 ?，快照状态 unreachable；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "安防 / PoE（自有型号，俄罗斯）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "安防品牌商（俄罗斯，自有型号 PoE）",
   "region": "俄罗斯",
   "contact": "sales@cmd-sec.ru"
  },
  "signals": [
-  "用户表兴趣/备注：有Utepo的工业FS 主要是商业POE 自己的型号"
+  "表内：有 Utepo 的工业 FS 主要是商业 POE 自己的型号",
+  "快照：unreachable"
  ],
  "risks": [
-  "官网快照失败（unreachable）：域名/证书待核，邮件可能退回",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流/合规风险；官网 unreachable（经营状态待核）；现供 Utepo 价格基准低；未跟进过，仅 sales@"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 Utepo 二供"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?"
 }

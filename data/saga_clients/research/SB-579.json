@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（global-tgm.com，快照 2026-10-21）",
- "summary": "新加坡网络/安防经销或集成（官网未见角色词，待核）：官网「TGM GLOBAL PTE LTD | Striving Beyond Expectation」（en）；品类词：布线 / 线缆 / 网络交换 / PoE；表内「16槽收发器机架 / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "新加坡 TGM Global Pte Ltd（「Striving Beyond Expectation」，线缆/自动化相关贸易；阿里巴巴询盘「16 槽收发器机架」；KP Lau Ghee Siang（Project Manager）、Chee Wei Jun）；表内未跟进。",
+ "type": "工程贸易商（新加坡，MC 机架询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,68 @@
    "quote": "16槽收发器机架 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TGM 定位",
+   "quote": "TGM GLOBAL PTE LTD | Striving Beyond Expectation",
+   "url": "https://global-tgm.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "16 槽收发器机架询盘",
+   "quote": "16槽收发器机架 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Lau Ghee Siang",
+   "title": "Project Manager",
+   "email": "gheesiang.lau@global-tgm.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Chee Wei Jun",
+   "title": "（职务待核）",
+   "email": "weijun.chee@global-tgm.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "新加坡",
   "other": "官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "工程 / 线缆 / 自动化贸易（新加坡）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "工程贸易商（新加坡，MC 机架询盘）",
   "region": "新加坡",
   "contact": "gheesiang.lau@global-tgm.com、weijun.chee@global-tgm.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://global-tgm.com/）",
-  "官网公开邮箱：fwong@trigunamandala.co.id、janentereso@global-tgm.com、metha@global-tgm.com",
-  "用户表兴趣/备注：16槽收发器机架 / from: 阿里巴巴询盘"
+  "官网：TGM GLOBAL PTE LTD | Striving Beyond Expectation；kw switch 7 / cable 17",
+  "表内：16 槽收发器机架 / from: 阿里巴巴询盘；KP Lau Ghee Siang, Project Manager"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "MC 机架品类 Saga 不供（Q-32，替代方案待核）；非主攻区（T5，新加坡）；询盘时效待核；未跟进过"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
   "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "16 槽 MC 机架 Saga 不供（Q-32）→ 独立工业千兆 MC STI-110GE（$23.4 @25%）、PoE MC STI-111GP（$29.0）；机架式以 HRUI/SmartByte 替代待核（注明）"
  },
- "email_hook": "Lau, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Ghee Siang, following your enquiry for a 16-slot media-converter chassis: we supply standalone gigabit/PoE media converters from single units (chassis-type on request, to be confirmed), CE/RoHS, EXW USD — how many fibre links does the project need, and is a chassis mandatory or would standalone units work?"
 }

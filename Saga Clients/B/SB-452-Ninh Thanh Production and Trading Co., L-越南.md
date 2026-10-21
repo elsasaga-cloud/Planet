@@ -2,7 +2,7 @@
 
 > **评级 B**　|　越南　|　档案编号 `SB-452`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电信/数字化贸易商（越南，1 光 4 电 RFQ）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-452
@@ -12,15 +12,15 @@ score: 40
 country: 越南
 region: 亚太
 website: ninhthanh.com
-type: 分销商/经销商
+type: 电信/数字化贸易商（越南，1 光 4 电 RFQ）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-144GP
-price_tier: 20%
+p1: STC-114GP
+price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：越南分销商/经销商：官网「NINH THANH PRODUCTION AND TRADING CO., LTD.」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Aruba；表内「商业千兆1光4电 / from: 阿里巴巴RFQ」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：越南 Ninh Thanh Production and Trading Co., Ltd.（电信、数字化转型方案、数字地图；分销/批发；阿里巴巴 RFQ「商业千兆 1 光 4 电」；KP Đinh Tú Vũ（CEO））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：分销商/经销商→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-114GP — 深挖对位：RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1）；$16.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Ninh Thanh Production and Trading Co., Ltd. | 事实（用户表） |
 | 国家 | 越南 | 事实（用户表）|
 | 网站/域名 | ninhthanh.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 电信/数字化贸易商（越南，1 光 4 电 RFQ） | 推断（据兴趣/备注关键词） |
 | 联系人 | DinhTu Vu, CEO | 事实（用户表） |
 | 来源（From） | 2025.10.9 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ninhthanh.com，快照 2026-10-21）
-- **是谁**：越南分销商/经销商：官网「NINH THANH PRODUCTION AND TRADING CO., LTD.」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Aruba；表内「商业千兆1光4电 / from: 阿里巴巴RFQ」；表内未见跟进记录。
-- **类型**：分销商/经销商
+- **是谁**：越南 Ninh Thanh Production and Trading Co., Ltd.（电信、数字化转型方案、数字地图；分销/批发；阿里巴巴 RFQ「商业千兆 1 光 4 电」；KP Đinh Tú Vũ（CEO））；表内未跟进。
+- **类型**：电信/数字化贸易商（越南，1 光 4 电 RFQ）
 - **在卖/在用品牌**：Aruba
 - **【官网快照】官网标题：NINH THANH PRODUCTION AND TRADING CO., LTD.；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE**
   > Ninh Thanh
@@ -64,23 +64,30 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 商业千兆1光4电 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Ninh Thanh 定位**
+  > NINH THANH PRODUCTION AND TRADING CO., LTD. ; Telecommunication ; Digital Transformation Solutions
+  > 来源：https://ninhthanh.com/（抓取 2026-10-21）
+- **【用户表】商业千兆 1 光 4 电 RFQ**
+  > 商业千兆1光4电 / from: 阿里巴巴RFQ
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Đinh Tú Vũ（）dinhtu.vu@ninhthanh.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 越南 |
 | 其他 | 官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；电信 / FTTH / ISP 设备；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 越南；contact: dinhtu.vu@ninhthanh.com
+- **业务线**：电信 / 数字化方案贸易（越南）
+- **触达通道（公开）**：role: 电信/数字化贸易商（越南，1 光 4 电 RFQ）；region: 越南；contact: dinhtu.vu@ninhthanh.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://ninhthanh.com/）
-  - 用户表兴趣/备注：商业千兆1光4电 / from: 阿里巴巴RFQ
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-144GP（20% 档）——工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：分销商/经销商→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：DinhTu, alongside the Aruba lines you carry, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：NINH THANH PRODUCTION AND TRADING CO., LTD. ; Telecommunication ; Digital Transformation Solutions ; Digital Map；kw automation 10 / distributor 3 / wholesale 2
+  - 表内：商业千兆 1 光 4 电 / from: 阿里巴巴 RFQ；KP DinhTu Vu, CEO
+- **风险/边界**：非主攻区（T5，越南）；1 光 4 电非 PoE 商用款不在 Saga 列表（以 HRUI/工业款替代，注明）；RFQ 时效待核；未跟进过
+- **Saga 对位结论**：P1 STC-114GP（25% 档）——RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1）
+- **邮件切入句（英文）**：Đinh Tú, following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -116,6 +123,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Đinh Tú Vũ | — | dinhtu.vu@ninhthanh.com | 调研核实（公开页） | 用户表 |
 | DinhTu Vu, CEO | — | dinhtu.vu@ninhthanh.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -132,20 +140,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 深挖对位：工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：分销商/经销商→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-114GP | 深挖对位：RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1） | $16.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（电信/数字化贸易商（越南，1 光 4 电 RFQ）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-114GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-144GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-114GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -153,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-114GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -182,25 +190,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi DinhTu,
+Hi Đinh,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. DinhTu, alongside the Aruba lines you carry, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+Picking up our earlier exchange about PoE / industrial switches. Đinh Tú, following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

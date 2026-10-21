@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tm.by，快照 2026-10-21）",
- "summary": "保加利亚电商/网店：官网「Интернет-магазин TM.by — доставка по Минску и Беларуси」（ru）；站内型号：GCAI150R、PAC105、FL-F-55304、WA-3475；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "白俄罗斯 TM.by（明斯克综合网上商城：工具、家电、设备、卫浴、电动工具、建材；表内国别误记为保加利亚）；表内未跟进。",
+ "type": "综合网上商城（白俄罗斯，品类不符）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,37 +14,47 @@
    "quote": "Онлайн площадка по продаже инструмента, бытовой техники, оборудования, сантехники, электроинструмента, товаров для стройки. Доставка в любую точку РБ — TM.by",
    "url": "https://tm.by/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TM.by 定位",
+   "quote": "Интернет-магазин TM.by — доставка по Минску и Беларуси ; инструмента, бытовой техники, оборудования, сантехники",
+   "url": "https://tm.by/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符（综合工具/家电商城）；c_sub=品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "保加利亚",
   "other": "官网 tm.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（待核）"
+  "综合网上商城（白俄罗斯）"
  ],
  "channels": {
-  "role": "电商/网店",
-  "region": "保加利亚",
+  "role": "综合网上商城（白俄罗斯，品类不符）",
+  "region": "白俄罗斯",
   "contact": "info@tm.by"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://tm.by/）",
-  "官网公开邮箱：info@tm.by"
+  "官网：Интернет-магазин TM.by — доставка по Минску и Беларуси ; Онлайн площадка по продаже инструмента, бытовой техники, оборудования, сантехники",
+  "表内：国别保加利亚（误记）"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：综合工具/家电商城；白俄罗斯结算与合规风险"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 20,
-  "why": "分销/网店 → 24 口 PoE L2+ 走量款（来源：角色默认；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "综合消费/工具商城（非网络渠道）→ 改 C；国别改白俄罗斯"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "（不发送：综合商城）",
+ "country_fix": "白俄罗斯"
 }

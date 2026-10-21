@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "沙特阿拉伯经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「Catalog；邮件中有详细的联系信息」；群发 1 次、有回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。",
+ "type": "IT/网络贸易商（沙特，有回复，业务待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,54 @@
    "quote": "Catalog；邮件中有详细的联系信息",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Catalog 有回复",
+   "quote": "Catalog；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Saeed Mohammed",
+   "title": "（职务待核）",
+   "email": "saeed@e-saudi.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "沙特阿拉伯",
   "other": "官网 e-saudi.net，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（待核，沙特）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "IT/网络贸易商（沙特，有回复，业务待核）",
   "region": "沙特阿拉伯",
   "contact": "saeed@e-saudi.net"
  },
  "signals": [
-  "用户表兴趣/备注：Catalog；邮件中有详细的联系信息"
+  "表内：Catalog；邮件中有详细的联系信息；有回复；KP Saeed Mohammed",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "有回复——邮件详情在 Gmail 待核（续谈勿重复首触）；非主攻区（T5，沙特）；官网 http_error（业务范围待核）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "已索取目录（有回复）→ 续谈：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业 8 GE + 2 SFP STI-280GE（$48.6）"
  },
- "email_hook": "Saeed, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Saeed, following the catalogue you requested: which of the lines fits your current projects — managed 8/24-PoE L2+ switches or DIN-rail industrial units — so I can send an EXW USD price list for that family first?"
 }

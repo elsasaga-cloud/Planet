@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ninhthanh.com，快照 2026-10-21）",
- "summary": "越南分销商/经销商：官网「NINH THANH PRODUCTION AND TRADING CO., LTD.」（en）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Aruba；表内「商业千兆1光4电 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "分销商/经销商",
+ "summary": "越南 Ninh Thanh Production and Trading Co., Ltd.（电信、数字化转型方案、数字地图；分销/批发；阿里巴巴 RFQ「商业千兆 1 光 4 电」；KP Đinh Tú Vũ（CEO））；表内未跟进。",
+ "type": "电信/数字化贸易商（越南，1 光 4 电 RFQ）",
  "size": "",
  "brands_seen": [
   "Aruba"
@@ -23,41 +23,61 @@
    "quote": "商业千兆1光4电 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Ninh Thanh 定位",
+   "quote": "NINH THANH PRODUCTION AND TRADING CO., LTD. ; Telecommunication ; Digital Transformation Solutions",
+   "url": "https://ninhthanh.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业千兆 1 光 4 电 RFQ",
+   "quote": "商业千兆1光4电 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Đinh Tú Vũ",
+   "title": "CEO",
+   "email": "dinhtu.vu@ninhthanh.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "越南",
   "other": "官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "网络交换 / PoE"
+  "电信 / 数字化方案贸易（越南）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "电信/数字化贸易商（越南，1 光 4 电 RFQ）",
   "region": "越南",
   "contact": "dinhtu.vu@ninhthanh.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ninhthanh.com/）",
-  "用户表兴趣/备注：商业千兆1光4电 / from: 阿里巴巴RFQ"
+  "官网：NINH THANH PRODUCTION AND TRADING CO., LTD. ; Telecommunication ; Digital Transformation Solutions ; Digital Map；kw automation 10 / distributor 3 / wholesale 2",
+  "表内：商业千兆 1 光 4 电 / from: 阿里巴巴 RFQ；KP DinhTu Vu, CEO"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，越南）；1 光 4 电非 PoE 商用款不在 Saga 列表（以 HRUI/工业款替代，注明）；RFQ 时效待核；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 20,
-  "why": "工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：分销商/经销商→20%）；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-114GP",
+  "tier": 25,
+  "why": "RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1）"
  },
- "email_hook": "DinhTu, alongside the Aruba lines you carry, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Đinh Tú, following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dasannetworks.com，快照 2026-10-21）",
- "summary": "韩国系统集成/工程商：官网「다산네트웍스」（ko）；品类词：电信 / FTTH / ISP 设备 / 网络交换 / PoE；表内「三旺的长期合作客户」；群发 22 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "韩国 다산네트웍스 DASAN Networks（上市网络设备集团：有线/无线互联网通信、车载通信方案、物流平台；表内「三旺的长期合作客户」「质量高」；KP Richard、jrcho@）；群发 22 次无回复。",
+ "type": "上市网络设备集团（韩国，同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,53 @@
    "quote": "三旺的长期合作客户",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "DASAN 定位",
+   "quote": "다산네트웍스 ; Global Networking Solution Company ; Connected Car Solution for Tomorrow",
+   "url": "https://dasannetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "三旺长期合作客户",
+   "quote": "三旺的长期合作客户",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "上市网络设备集团（同行/体量）；c_sub=体量过大/同行",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 dasannetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "网络交换 / PoE"
+  "网络设备 / 车载通信（上市集团，韩国）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "上市网络设备集团（韩国，同行）",
   "region": "韩国",
   "contact": "richard@dasannetworks.com、jrcho@dasannetworks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://dasannetworks.com/）",
-  "用户表兴趣/备注：三旺的长期合作客户"
+  "官网：다산네트웍스 ; 유무선 인터넷 통신, 자동차 전장용 통신 솔루션 개발, 공급 및 로지스틱스 플랫폼 사업 영위 ; Global Networking Solution Company",
+  "表内：三旺的长期合作客户；Richard / 质量高"
  ],
  "risks": [
-  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "体量/同行：上市网络设备集团（DZS 母公司）；22 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "上市网络设备制造集团（自研产品、集团采购）→ 改 C（体量/同行）"
  },
- "email_hook": "Richard, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：上市集团/同行）"
 }

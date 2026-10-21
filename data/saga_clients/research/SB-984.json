@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（istccorp.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「You are being redirected...」；品类词：网络交换 / PoE；产品页：amazing-touch-lcd-ultra-poe-switches-wit、incriveis-switches-lcd-de-toque-ultra-po、soluciones-flexibles-e-innovadoras-en-sw、specialized-products；表内「全线产品」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。",
+ "type": "BDCOM 美洲分销商（美国/拉美）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "BDCOM"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -28,6 +30,20 @@
    "quote": "",
    "url": "https://istccorp.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ISTC 页面",
+   "quote": "istccorp.com ; /amazing-touch-lcd-ultra-poe-switches-with-advanced-l2-l4-switching-and-security/ ; /es/soluciones-flexibles-e-innovadoras-en-switches-para-redes/",
+   "url": "https://istccorp.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "全线产品 BDCOM",
+   "quote": "全线产品；BDCOM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -36,29 +52,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 istccorp.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "网络设备分销（BDCOM，美洲）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "BDCOM 美洲分销商（美国/拉美）",
   "region": "美国",
   "contact": "marketing@istccorp.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://istccorp.com/）",
-  "用户表兴趣/备注：全线产品"
+  "页面 /amazing-touch-lcd-ultra-poe-switches-with-advanced-l2-l4-switching-and-security/、/es/soluciones-flexibles-e-innovadoras-en-switches-para-redes/、/specialized-products/",
+  "表内：全线产品；BDCOM"
  ],
- "risks": [],
+ "risks": [
+  "BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?"
 }

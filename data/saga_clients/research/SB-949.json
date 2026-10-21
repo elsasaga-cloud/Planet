@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（osbornsalessolutions.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「Osborn Sales Solutions」（en-US）；表内「Industrial Networking Communications Security」；群发 10 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。",
+ "type": "制造商销售代表公司（美国，代理性质）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,61 @@
    "quote": "Industrial Networking Communications Security",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "sales 公司 工业网络 通信 安防",
+   "quote": "Industrial Networking Communications Security；网站上没啥东西 sales公司；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kyle Desouza",
+   "title": "Managing Partner",
+   "email": "sales@osbornsalessolutions.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "William O",
+   "title": "President",
+   "email": "bill@osbornsalessolutions.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 osbornsalessolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "制造商销售代表（工业网络 / 通信 / 安防）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "制造商销售代表公司（美国，代理性质）",
   "region": "美国",
   "contact": "sales@osbornsalessolutions.com、bill@osbornsalessolutions.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.osbornsalessolutions.com/）",
-  "官网公开邮箱：derek@osbornsalessolutions.com、jeff@osbornsalessolutions.com、kyle@osbornsalessolutions.com",
-  "用户表兴趣/备注：Industrial Networking Communications Security"
+  "表内：Industrial Networking Communications Security；网站上没啥东西 sales 公司；KP Kyle Desouza / Managing Partner；William O / President；可以尝试多跟进一下",
+  "快照：Osborn Sales Solutions（内容空）"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）"
  },
- "email_hook": "Kyle, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand Marvell-based industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP managed, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?"
 }

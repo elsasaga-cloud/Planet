@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（acixme.com，快照 2026-10-21）",
- "summary": "沙特阿拉伯安防集成/经销：官网「Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME」；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；产品页：products、lpr-system、parking-barrier-gate、pedestrian-access-gate；表内「有Utepo的；主要是CCTV」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "阿联酋 ACIX ME（迪拜门禁与安防方案商：门禁 109 处、LPR、停车道闸、行人闸、自动化；表内国别误记沙特；「有 Utepo 的 / 主要是 CCTV」；KP Dipesh Patel（Sales Director）、Akkeef P（Operations Executive））；表内 2 次跟进无回复。",
+ "type": "门禁/安防集成商（阿联酋，Utepo 在用）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,43 +23,69 @@
    "quote": "有Utepo的；主要是CCTV",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ACIX ME 定位",
+   "quote": "Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME",
+   "url": "https://www.acixme.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo 的 主要是 CCTV",
+   "quote": "有Utepo的 / 主要是CCTV",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Dipesh Patel",
+   "title": "Sales Director",
+   "email": "dipesh.p@acixme.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Akkeef P",
+   "title": "Operations Executive",
+   "email": "sales@acixme.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "沙特阿拉伯",
   "other": "官网 acixme.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT"
+  "门禁 / LPR / 停车 / 安防方案（阿联酋）"
  ],
  "channels": {
-  "role": "安防集成/经销",
-  "region": "沙特阿拉伯",
+  "role": "门禁/安防集成商（阿联酋，Utepo 在用）",
+  "region": "阿联酋",
   "contact": "sales@acixme.com、dipesh.p@acixme.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.acixme.com/）",
-  "官网公开邮箱：sales@acixme.com",
-  "用户表兴趣/备注：有Utepo的；主要是CCTV"
+  "官网：Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME ; ACIX ME provides advanced access control systems in the UAE；页面 /products/lpr-system/、/products/parking-barrier-gate/；kw access control 109 / automation 26",
+  "表内：有 Utepo 的 / 主要是 CCTV；KP Dipesh Patel / Sales Director；Akkeef P / Operations Executive"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供"
  },
- "email_hook": "Dipesh, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first?",
+ "country_fix": "阿联酋"
 }

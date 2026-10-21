@@ -2,7 +2,7 @@
 
 > **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-431`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：经销/集成（类型待核，无官网快照）（推断）　|　**历史关系**：推送 1 次（2025-04-28 → 2025-04-28）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IT/网络贸易商（沙特，有回复，业务待核）（推断）　|　**历史关系**：推送 1 次（2025-04-28 → 2025-04-28）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-431
@@ -12,7 +12,7 @@ score: 41
 country: 沙特阿拉伯
 region: 中东
 website: e-saudi.net
-type: 经销/集成（类型待核，无官网快照）
+type: IT/网络贸易商（沙特，有回复，业务待核）
 tier_tags: ["A已回复"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「Catalog；邮件中有详细的联系信息」；群发 1 次、有回复。（调研 2026-10-21；表内兴趣：Catalog）
+- **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：Catalog）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-04-28 → 2025-04-28）；最近一次客户回复：2025-04-28：Info
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：已索取目录（有回复）→ 续谈：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业 8 GE + 2 SFP STI-280GE（$48.6）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | e-saudi.net（取自域名，公司全名待核） | 推断 |
 | 国家 | 沙特阿拉伯 | 事实（用户表）|
 | 网站/域名 | e-saudi.net | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核，无官网快照） | 推断（据兴趣/备注关键词） |
+| 类型 | IT/网络贸易商（沙特，有回复，业务待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Saeed Mohammed | 事实（用户表） |
 | 来源（From） | 领英 | 事实（用户表） |
 | 兴趣（Interested in） | Catalog | 事实（用户表） |
@@ -55,27 +55,32 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
-- **是谁**：沙特阿拉伯经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「Catalog；邮件中有详细的联系信息」；群发 1 次、有回复。
-- **类型**：经销/集成（类型待核，无官网快照）
+- **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。
+- **类型**：IT/网络贸易商（沙特，有回复，业务待核）
 - **【用户表】表内兴趣/备注**
   > Catalog；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】Catalog 有回复**
+  > Catalog；邮件中有详细的联系信息
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Saeed Mohammed（）saeed@e-saudi.net 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 沙特阿拉伯 |
 | 其他 | 官网 e-saudi.net，语言 ?，快照状态 http_error；角色判定来源：待核 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 经销/集成（类型待核，无官网快照）；region: 沙特阿拉伯；contact: saeed@e-saudi.net
+- **业务线**：（待核，沙特）
+- **触达通道（公开）**：role: IT/网络贸易商（沙特，有回复，业务待核）；region: 沙特阿拉伯；contact: saeed@e-saudi.net
 - **近况信号**：
-  - 用户表兴趣/备注：Catalog；邮件中有详细的联系信息
-- **风险/边界**：官网快照失败（http_error）：域名/证书待核，邮件可能退回；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Saeed, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 表内：Catalog；邮件中有详细的联系信息；有回复；KP Saeed Mohammed
+  - 快照：http_error
+- **风险/边界**：有回复——邮件详情在 Gmail 待核（续谈勿重复首触）；非主攻区（T5，沙特）；官网 http_error（业务范围待核）
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——已索取目录（有回复）→ 续谈：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业 8 GE + 2 SFP STI-280GE（$48.6）
+- **邮件切入句（英文）**：Saeed, following the catalogue you requested: which of the lines fits your current projects — managed 8/24-PoE L2+ switches or DIN-rail industrial units — so I can send an EXW USD price list for that family first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -109,7 +114,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Saeed Mohammed | — | saeed@e-saudi.net | 用户表原值 | Clients/ 表 |
+| Saeed Mohammed | — | saeed@e-saudi.net | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -125,7 +130,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核，无官网快照）） |
+| **P1** | STC-28DGGPM | 深挖对位：已索取目录（有回复）→ 续谈：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业 8 GE + 2 SFP STI-280GE（$48.6） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（IT/网络贸易商（沙特，有回复，业务待核）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -179,9 +184,9 @@ updated: 2026-10-21
 ```text
 Hi Saeed,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Saeed, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Saeed, following the catalogue you requested: which of the lines fits your current projects — managed 8/24-PoE L2+ switches or DIN-rail industrial units — so I can send an EXW USD price list for that family first?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
