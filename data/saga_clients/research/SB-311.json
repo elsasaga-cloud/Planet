@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fiberopticcableshop.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv」；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：LC-E2000、NEMA-4、ME-4040-SFP-POE、ME-3860-MM3-SFP2；表内「MC 14机架 FS 自己的标 周边产品 SFP」；群发 20 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Fiber Optic Cable Shop / Fibermailbox（光纤跳线/适配器/MC 网店：fiber 1483、SFP 148、MC 105，自有标 MC ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC；表内「MC、14 槽机架、FS 自己的标、周边、SFP」；KP Mark W（Sales，mark@））；群发 20 次无回复。",
+ "type": "光纤配件网店（美国，自有标 MC，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,72 @@
    "quote": "MC 14机架 FS 自己的标 周边产品 SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "光纤线缆与 MC 网店",
+   "quote": "Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv…",
+   "url": "https://www.fiberopticcableshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 14 机架 FS 自己的标 周边 SFP",
+   "quote": "MC 14机架 FS 自己的标 周边产品 SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mark W",
+   "title": "Sales",
+   "email": "mark@fibermailbox.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤跳线 / 适配器 / MC / SFP 网店（自有标）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光纤配件网店（美国，自有标 MC，OEM 采购）",
   "region": "美国",
   "contact": "sales@fibermailbox.com、mark@fibermailbox.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.fiberopticcableshop.com/）",
-  "官网公开邮箱：sales@fibermailbox.com",
-  "用户表兴趣/备注：MC 14机架 FS 自己的标 周边产品 SFP"
+  "站内型号 ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC（自有标 MC）；kw fiber 1483 / cable 1237 / sfp 148 / media converter 105",
+  "KP：Mark W / Sales（表内）"
  ],
  "risks": [
-  "群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "主需求为商用桌面 MC / 机架：Saga 价目无 SKU（Q-32），需先询价再报",
+  "20 次无回复 → 改向 Sales 具名首触，预期低"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM"
  },
- "email_hook": "Mark, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Mark, for the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "Fibermailbox（自有标）",
+   "model": "ME-4040-SFP-POE",
+   "spec": "PoE 千兆 MC（SFP）",
+   "saga": "STI-111GP（工业 PoE MC，非桌面）",
+   "url": "https://www.fiberopticcableshop.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

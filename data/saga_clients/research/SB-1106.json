@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（b-plus.com，快照 2026-10-21）",
- "summary": "德国工业自动化/IoT 方案商：官网「Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996」（de）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QX550、IEC62443-4-2、SFP28、QSFP28；表内「工业FS 周边产品」；群发 15 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
+ "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "工业FS 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "b-plus：自动驾驶与移动机械开发伙伴",
+   "quote": "Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996 ; b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
+   "url": "https://www.b-plus.com/de/home",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 周边产品，可着重跟",
+   "quote": "工业FS 周边产品；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +43,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "自动驾驶/ADAS 数据采集与存储工具",
+  "移动机械自动化"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
   "region": "德国",
   "contact": "services@b-plus.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.b-plus.com/de/home）",
-  "用户表兴趣/备注：工业FS 周边产品"
+  "官网：b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben",
+  "站内 kw：10g 39 / ethernet 53 / sfp 17；IEC62443-4-2 / QSFP28"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
+  "15 次无回复，仅 services@，无具名 KP；用户表「可以着重跟一下」但产品错位"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-488XGGPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?"
 }

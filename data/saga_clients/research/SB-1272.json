@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（zxtech.co，快照 2026-10-21）",
- "summary": "英国安防集成/经销：官网「Zxtech™ Home Security and CCTV Camera System | Official Site」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内型号：MN404PN、MCWBW55D、RS485、DC48V；表内「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "英国 Zxtech（家用安防摄像系统品牌：5MP/4K/12MP IP 与模拟套装、PoE 摄像机；经 domar.com 销售「Zxtech 6-Port 10/100M Switch with 4-Port PoE」；表内「CCTV 为主，有 PoE switch 但网站上没找到」「质量一般」）；表内无跟进记录。",
+ "type": "英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Zxtech 家用安防摄像系统",
+   "quote": "Zxtech produces Premium Home Security Cameras and Systems Extremely Quick and Simple to setup and install. Explore 5MP, 4K UHD, 12MP, Wireless, IP and Analog camera systems",
+   "url": "https://zxtech.co/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 为主，有 PoE switch（domar 渠道）",
+   "quote": "CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +43,43 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 zxtech.co，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "家用安防摄像系统（自有品牌 Zxtech）",
+  "配套 PoE 交换机（自有标）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购）",
   "region": "英国",
   "contact": "sales@zxtech.co"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://zxtech.co/）",
-  "用户表兴趣/备注：CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe"
+  "表内链接 https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+  "官网：Zxtech produces Premium Home Security Cameras and Systems … 5MP, 4K UHD, 12MP；首页 THE FLAGSHIP POE CAMERAS"
  ],
- "risks": [],
+ "risks": [
+  "消费级家用套装：价格基准极低，PoE 交换机为赠品级配件",
+  "网站未见交换机（仅 domar 渠道）：需求规模待核；无具名 KP"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-204GP",
+  "tier": 30,
+  "why": "自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most?",
+ "products_seen": [
+  {
+   "brand": "Zxtech（自有）",
+   "model": "6-Port 10/100M Switch with 4-Port PoE",
+   "spec": "4 FE PoE + 2 FE",
+   "saga": "STC-204GP（HRUI 千兆 4 PoE + 2 GE，列表价 $20.4）",
+   "url": "https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+   "date": "2026-10-21"
+  }
+ ]
 }

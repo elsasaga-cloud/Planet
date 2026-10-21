@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-311`　|　优先级 ★★　|　状态：已推送 20 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 20 次（2024-04-30 → 2025-10-30）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光纤配件网店（美国，自有标 MC，OEM 采购）（推断）　|　**历史关系**：推送 20 次（2024-04-30 → 2025-10-30）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-311
@@ -12,7 +12,7 @@ score: 44
 country: 美国
 region: 北美
 website: fiberopticcableshop.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 光纤配件网店（美国，自有标 MC，OEM 采购）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv」；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：LC-E2000、NEMA-4、ME-4040-SFP-POE、ME-3860-MM3-SFP2；表内「MC 14机架 FS 自己的标 周边产品 SFP」；群发 20 次、无回复。（调研 2026-10-21；表内兴趣：MC 14机架 FS 自己的标 周边产品 SFP）
+- **是谁**：美国 Fiber Optic Cable Shop / Fibermailbox（光纤跳线/适配器/MC 网店：fiber 1483、SFP 148、MC 105，自有标 MC ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC；表内「MC、14 槽机架、FS 自己的标、周边、SFP」；KP Mark W（Sales，mark@））；群发 20 次无回复。（调研 2026-10-21；表内兴趣：MC 14机架 FS 自己的标 周边产品 SFP）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-04-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | fiberopticcableshop.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | fiberopticcableshop.com / fibermailbox.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 光纤配件网店（美国，自有标 MC，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Mark W / Sales | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC 14机架 FS 自己的标 周边产品 SFP | 事实（用户表） |
@@ -65,32 +65,43 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（fiberopticcableshop.com，快照 2026-10-21）
-- **是谁**：美国品牌商/贴牌需求（OEM/ODM）：官网「Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv」；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：LC-E2000、NEMA-4、ME-4040-SFP-POE、ME-3860-MM3-SFP2；表内「MC 14机架 FS 自己的标 周边产品 SFP」；群发 20 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：美国 Fiber Optic Cable Shop / Fibermailbox（光纤跳线/适配器/MC 网店：fiber 1483、SFP 148、MC 105，自有标 MC ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC；表内「MC、14 槽机架、FS 自己的标、周边、SFP」；KP Mark W（Sales，mark@））；群发 20 次无回复。
+- **类型**：光纤配件网店（美国，自有标 MC，OEM 采购）
 - **【官网快照】官网标题：Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > OUR FEATURED PRODUCTS
   > 来源：https://www.fiberopticcableshop.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC 14机架 FS 自己的标 周边产品 SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】光纤线缆与 MC 网店**
+  > Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv…
+  > 来源：https://www.fiberopticcableshop.com/（抓取 2026-10-21）
+- **【用户表】MC 14 机架 FS 自己的标 周边 SFP**
+  > MC 14机架 FS 自己的标 周边产品 SFP
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mark W（）mark@fibermailbox.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 美国；contact: sales@fibermailbox.com、mark@fibermailbox.com
+- **业务线**：光纤跳线 / 适配器 / MC / SFP 网店（自有标）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Fibermailbox（自有标） | ME-4040-SFP-POE | PoE 千兆 MC（SFP） | STI-111GP（工业 PoE MC，非桌面） | https://www.fiberopticcableshop.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 光纤配件网店（美国，自有标 MC，OEM 采购）；region: 美国；contact: sales@fibermailbox.com、mark@fibermailbox.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.fiberopticcableshop.com/）
-  - 官网公开邮箱：sales@fibermailbox.com
-  - 用户表兴趣/备注：MC 14机架 FS 自己的标 周边产品 SFP
-- **风险/边界**：群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Mark, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 站内型号 ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC（自有标 MC）；kw fiber 1483 / cable 1237 / sfp 148 / media converter 105
+  - KP：Mark W / Sales（表内）
+- **风险/边界**：主需求为商用桌面 MC / 机架：Saga 价目无 SKU（Q-32），需先询价再报；20 次无回复 → 改向 Sales 具名首触，预期低
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM
+- **邮件切入句（英文）**：Mark, for the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -151,7 +162,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mark W | — | sales@fibermailbox.com / mark@fibermailbox.com | 用户表原值 | Clients/ 表 |
+| Mark W | — | mark@fibermailbox.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -168,7 +179,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（光纤配件网店（美国，自有标 MC，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -222,9 +233,9 @@ updated: 2026-10-21
 ```text
 Hi Mark,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mark, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mark, for the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Fibermailbox（自有标） ME-4040-SFP-POE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

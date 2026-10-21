@@ -127482,8 +127482,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（b-plus.com，快照 2026-10-21）",
-"summary": "德国工业自动化/IoT 方案商：官网「Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996」（de）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QX550、IEC62443-4-2、SFP28、QSFP28；表内「工业FS 周边产品」；群发 15 次、无回复。",
-"type": "工业自动化/IoT 方案商",
+"summary": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
+"type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -127500,6 +127500,20 @@
 "quote": "工业FS 周边产品",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "b-plus：自动驾驶与移动机械开发伙伴",
+"quote": "Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996 ; b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
+"url": "https://www.b-plus.com/de/home",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS 周边产品，可着重跟",
+"quote": "工业FS 周边产品；可以着重跟一下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -127508,35 +127522,35 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "德国",
 "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"工业自动化 / OT 网络",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"自动驾驶/ADAS 数据采集与存储工具",
+"移动机械自动化"
 ],
 "channels": {
-"role": "工业自动化/IoT 方案商",
+"role": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
 "region": "德国",
 "contact": "services@b-plus.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.b-plus.com/de/home）",
-"用户表兴趣/备注：工业FS 周边产品"
+"官网：b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben",
+"站内 kw：10g 39 / ethernet 53 / sfp 17；IEC62443-4-2 / QSFP28"
 ],
 "risks": [
-"群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+"车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
+"15 次无回复，仅 services@，无具名 KP；用户表「可以着重跟一下」但产品错位"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
+"p1": "STI-488XGGPM",
 "tier": 25,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低"
 },
-"email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+"email_hook": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?"
 }
 },
 {
@@ -153698,13 +153712,14 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（luxritesecurity.com，快照 2026-10-21）",
-"summary": "英国安防集成/经销：官网「Luxrite Ltd - Trade CCTV Distributor」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Ruijie、Dahua、Ajax；站内型号：DHIPD40、RG-ES210GS-P、RG-NBS3100-24GT4SFP-P-V2、RG-ES228GS-P；表内「主要是CCTV 少量商业POE」；表内未见跟进记录。",
-"type": "安防集成/经销",
+"summary": "英国 Luxrite Ltd（Trade CCTV 分销：HD/IP CCTV、入侵报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；在售 Ruijie RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P / RG-NBS5300、PoE 注入器；表内「主要是 CCTV，少量商业 PoE」「质量一般」）；表内无跟进记录。",
+"type": "英国 Trade 安防分销商（Ruijie PoE）",
 "size": "",
 "brands_seen": [
 "Ruijie",
 "Dahua",
-"Ajax"
+"Ajax",
+"Texecom"
 ],
 "evidence": [
 {
@@ -153720,6 +153735,20 @@
 "quote": "主要是CCTV 少量商业POE",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Luxrite Trade 安防分销",
+"quote": "Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.",
+"url": "https://www.luxritesecurity.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "主要 CCTV 少量商业 PoE",
+"quote": "主要是CCTV 少量商业POE；质量一般",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -153728,39 +153757,52 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "英国",
 "other": "官网 luxritesecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"布线 / 线缆",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"Trade 安防分销（CCTV / 报警 / 门禁 / 可视门禁）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "英国 Trade 安防分销商（Ruijie PoE）",
 "region": "英国",
 "contact": "sales@luxritesecurity.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.luxritesecurity.com/）",
-"在售同口型交换品牌：Ruijie → 直接对位替换",
-"安防品牌：Dahua、Ajax → PoE 配套切入",
-"官网公开邮箱：sales@luxritesecurity.com、technical@luxritesecurity.com",
-"用户表兴趣/备注：主要是CCTV 少量商业POE"
+"站内型号 RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P-V2 / RG-NBS5300-8MG2XS-UP（Ruijie）；页面 /rg-poe-af15、/POEINJECTOR",
+"官网：Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield)"
 ],
-"risks": [],
+"risks": [
+"CCTV 为主、PoE 少量（表内）：量小",
+"现卖 Ruijie（锐捷）价格基准低；无具名 KP（sales@）"
+],
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "在售 Ruijie RG-ES210GS-P（8 PoE + 2 SFP）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；RG-NBS3100-24GT4SFP-P → STC-424DGGPM-280W（$134.5）"
 },
-"email_hook": "Alongside the Ruijie / Dahua lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Alongside the Ruijie RG-ES210GS-P and NBS3100-24 PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models from small lots, CE/RoHS/UKCA — which Ruijie size do your trade customers order most, so we quote its equivalent first?",
+"products_seen": [
+{
+"brand": "Ruijie",
+"model": "RG-ES210GS-P",
+"spec": "8 PoE + 2 SFP 非管理/云管",
+"saga": "STC-28DGGPM",
+"url": "https://www.luxritesecurity.com/",
+"date": "2026-10-21"
+},
+{
+"brand": "Ruijie",
+"model": "RG-NBS3100-24GT4SFP-P-V2",
+"spec": "24 PoE + 4 SFP L2",
+"saga": "STC-424DGGPM-280W",
+"url": "https://www.luxritesecurity.com/",
+"date": "2026-10-21"
+}
+]
 }
 },
 {
@@ -165289,8 +165331,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（zxtech.co，快照 2026-10-21）",
-"summary": "英国安防集成/经销：官网「Zxtech™ Home Security and CCTV Camera System | Official Site」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内型号：MN404PN、MCWBW55D、RS485、DC48V；表内「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；表内未见跟进记录。",
-"type": "安防集成/经销",
+"summary": "英国 Zxtech（家用安防摄像系统品牌：5MP/4K/12MP IP 与模拟套装、PoE 摄像机；经 domar.com 销售「Zxtech 6-Port 10/100M Switch with 4-Port PoE」；表内「CCTV 为主，有 PoE switch 但网站上没找到」「质量一般」）；表内无跟进记录。",
+"type": "英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -165307,6 +165349,20 @@
 "quote": "CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Zxtech 家用安防摄像系统",
+"quote": "Zxtech produces Premium Home Security Cameras and Systems Extremely Quick and Simple to setup and install. Explore 5MP, 4K UHD, 12MP, Wireless, IP and Analog camera systems",
+"url": "https://zxtech.co/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "CCTV 为主，有 PoE switch（domar 渠道）",
+"quote": "CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -165315,33 +165371,45 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "英国",
 "other": "官网 zxtech.co，语言 en，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"无线 / WiFi",
-"网络交换 / PoE"
+"家用安防摄像系统（自有品牌 Zxtech）",
+"配套 PoE 交换机（自有标）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购）",
 "region": "英国",
 "contact": "sales@zxtech.co"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://zxtech.co/）",
-"用户表兴趣/备注：CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe"
+"表内链接 https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+"官网：Zxtech produces Premium Home Security Cameras and Systems … 5MP, 4K UHD, 12MP；首页 THE FLAGSHIP POE CAMERAS"
 ],
-"risks": [],
+"risks": [
+"消费级家用套装：价格基准极低，PoE 交换机为赠品级配件",
+"网站未见交换机（仅 domar 渠道）：需求规模待核；无具名 KP"
+],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 20,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-204GP",
+"tier": 30,
+"why": "自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）"
 },
-"email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most?",
+"products_seen": [
+{
+"brand": "Zxtech（自有）",
+"model": "6-Port 10/100M Switch with 4-Port PoE",
+"spec": "4 FE PoE + 2 FE",
+"saga": "STC-204GP（HRUI 千兆 4 PoE + 2 GE，列表价 $20.4）",
+"url": "https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+"date": "2026-10-21"
+}
+]
 }
 },
 {
@@ -176168,11 +176236,13 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（kti.de，快照 2026-10-21）",
-"summary": "德国品牌商/贴牌需求（OEM/ODM）：官网「Ihr Partner für aktive Netzwerktechnik - KTI Distribution GmbH」（de-DE）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ubiquiti；站内型号：NV-202G、NV-520G、KGS-1060、KGS-2422；表内「分销 有自己的牌子 也有别人的 POE MC 工业FS SFP」；群发 8 次、无回复。",
-"type": "品牌商/贴牌需求（OEM/ODM）",
+"summary": "德国 KTI Distribution GmbH（比勒费尔德；「主动网络技术直接来自制造商」——台湾 KTI Networks 的欧洲分销（自有 KTI 品牌 KGS-1060 / KGS-2422 / KGC-310M），兼售 Netsys NV-202G/NV-520G、Ubiquiti；表内「分销，有自己的牌子也有别人的；PoE / MC / 工业 FS / SFP」「质量高」；KP pkaiser@（P. Kaiser））；群发 8 次无回复。",
+"type": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
 "size": "",
 "brands_seen": [
-"Ubiquiti"
+"Ubiquiti",
+"KTI",
+"Netsys"
 ],
 "evidence": [
 {
@@ -176188,44 +176258,64 @@
 "quote": "分销 有自己的牌子 也有别人的 POE MC 工业FS SFP",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "KTI Distribution：主动网络技术直接来自制造商",
+"quote": "Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr. ; Aktive Netzwerktechnik direkt vom Hersteller.",
+"url": "https://kti.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "分销，有自己的牌子也有别人的；质量高",
+"quote": "分销 有自己的牌子 也有别人的；POE MC 工业FS SFP；质量高",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "P. Kaiser",
+"title": "（表内邮箱 pkaiser@，姓名待核）",
+"email": "pkaiser@kti.de",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "德国",
 "other": "官网 kti.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"网络设备 / 交换机 / MC 分销（KTI 自有品牌 + Netsys + Ubiquiti）"
 ],
 "channels": {
-"role": "品牌商/贴牌需求（OEM/ODM）",
+"role": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
 "region": "德国",
 "contact": "sales@kti.de、pkaiser@kti.de"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://kti.de/）",
-"在售同口型交换品牌：Ubiquiti → 直接对位替换",
-"官网公开邮箱：info@kti.de、sales@kti.de",
-"用户表兴趣/备注：分销 有自己的牌子 也有别人的 POE MC 工业FS SFP"
+"官网：Aktive Netzwerktechnik direkt vom Hersteller. KTI – Wir schaffen Verbindungen；Drei Jahrzehnte aktiv",
+"站内型号 KGS-1060 / KGS-2422 / KGC-310M（KTI）、NV-202G / NV-520G（Netsys）；kw oem 16 / odm 16"
 ],
-"risks": [],
+"risks": [
+"台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺",
+"8 次无回复；KP 仅邮箱前缀（pkaiser@）"
+],
 "saga_fit": {
-"p1": "STI-288DGGPM",
+"p1": "STI-288GPM",
 "tier": 30,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE"
 },
-"email_hook": "Alongside the Ubiquiti lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+"email_hook": "For the KTI-branded industrial and PoE switches you distribute from Bielefeld, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8-PoE + 2 SFP L2+ commercial) from small lots, CE/RoHS — is a lower-cost second line something your German customers ask for?"
 }
 },
 {
@@ -177312,11 +177402,13 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（ltsecurityinc.com.au，快照 2026-10-21）",
-"summary": "澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Security Cameras & CCTV Distributor Australia | LTS Security」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Ajax；站内型号：NVMS7000、LXIP3542W-28MDA、LXIP3C8PWI-SDL、LXIP8142W-28M；表内「工业FS MC 周边产品 Upeto的工业FS 自己的型号」；群发 21 次、无回复。",
-"type": "品牌商/贴牌需求（OEM/ODM）",
+"summary": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
+"type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
 "size": "",
 "brands_seen": [
-"Ajax"
+"Ajax",
+"Utepo",
+"LTS"
 ],
 "evidence": [
 {
@@ -177332,49 +177424,65 @@
 "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "LTS Security 澳洲授权分销",
+"quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
+"url": "https://www.ltsecurityinc.com.au/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Utepo 的工业 FS 自己的型号",
+"quote": "工业FS MC 周边产品；Upeto的工业FS 自己的型号",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "George Lu",
+"title": "Technical Support Specialist",
+"email": "george@ltsecurityinc.com.au",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "澳大利亚",
 "other": "官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"布线 / 线缆",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"安防分销（LTS CCTV / 对讲 / Ajax / KNX）",
+"工业 PoE 交换机（自有型号，Utepo 代工）"
 ],
 "channels": {
-"role": "品牌商/贴牌需求（OEM/ODM）",
+"role": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
 "region": "澳大利亚",
 "contact": "george@ltsecurityinc.com.au、info@ltsecurityinc.com.au"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.ltsecurityinc.com.au/）",
-"安防品牌：Ajax → PoE 配套切入",
-"官网公开邮箱：orders@ltsecurityinc.com.au",
-"用户表兴趣/备注：工业FS MC 周边产品 Upeto的工业FS 自己的型号"
+"官网：Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions",
+"表内：Utepo 的工业 FS 自己的型号；KP George Lu / Technical Support Specialist"
 ],
 "risks": [
-"群发 21 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"非主攻区（T5）；RCM 合规由客户申报",
+"现代工 Utepo（深圳）价格基准低；21 次无回复 → 改向具名技术支持首触，预期低"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
+"p1": "STI-288GP",
 "tier": 30,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM"
 },
-"email_hook": "George, alongside the Ajax lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+"email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?"
 }
 },
 {
@@ -188481,8 +188589,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（netbergtw.com，快照 2026-10-21）",
-"summary": "台湾系统集成/工程商：官网「netberg | Main」；品类词：电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28、BCM56870、D-2123IT、D-2145NT；表内「BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息」；群发 1 次、有回复。",
-"type": "系统集成/工程商",
+"summary": "台湾 netberg（数据中心以太网交换机 / 全可编程交换机 / 开放 NOS / 定制网络方案，Broadcom BCM56870/56771 平台；表内「BDM 方案，再看看聊天记录；基本都是数据中心交换机；Marvell BDM 芯片都有」，**已回复**，「邮件中有详细的联系信息」；KP Alexander Ustyuzhanin（Director，au@））；表内 1 次跟进，有回复。",
+"type": "数据中心白盒交换机厂商（台湾；有回复，园区接入位可谈）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -188499,45 +188607,67 @@
 "quote": "BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "netberg 产品栏目",
+"quote": "Our products ; Custom Networking Solutions ; Ethernet Switches ; Fully Programmable Switches ; Open NOS",
+"url": "https://netbergtw.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "BDM 方案，已回复，基本是数据中心交换机",
+"quote": "BDM方案 再看看聊天记录 / 基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Alexander Ustyuzhanin",
+"title": "Director",
+"email": "au@netbergtw.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "台湾",
 "other": "官网 netbergtw.com，语言 ?，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"电信 / FTTH / ISP 设备",
-"数据中心 / 企业 IT",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"数据中心以太网交换机 / 全可编程交换机 / 开放 NOS",
+"定制网络方案"
 ],
 "channels": {
-"role": "系统集成/工程商",
+"role": "数据中心白盒交换机厂商（台湾；有回复，园区接入位可谈）",
 "region": "台湾",
 "contact": "au@netbergtw.com、sales@netbergtw.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://netbergtw.com/）",
-"官网公开邮箱：sales@netbergtw.com",
-"用户表兴趣/备注：BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有；邮件中有详细的联系信息"
+"栏目 /products_tax/switch/、/products_tax/open-nos/、/products_tax/fully-programmable/、/products_tax/custom-networking-solutions/",
+"站内 BCM56870 / BCM56771 / QSFP28；首页 2025 July EOL Notice",
+"表内：已回复；邮件中有详细的联系信息；KP Alexander Ustyuzhanin / Director"
 ],
 "risks": [
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"主业数据中心白盒/可编程交换机：与 Saga 接入层产品错位，仅补位",
+"有回复但内容在 Gmail（s./a. 邮箱未导出）：续谈前须核对线程",
+"非主攻区（T5）"
 ],
 "saga_fit": {
-"p1": "STC-448XGGM(L3)",
-"tier": 25,
-"why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-424XGGM",
+"tier": 30,
+"why": "主业 DC 白盒（Saga 不做）→ 仅园区接入补位：24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、PoE 版 STC-424XGGPM-280W；BDM 方案讨论见 Gmail 线程（待导出核对）"
 },
-"email_hook": "Alexander, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+"email_hook": "Alexander, picking up our earlier exchange: if netberg needs a Marvell-based campus/access tier next to your data-center line, we can supply 24-GE + 4×10G L2+ (PoE+ option) and 8-PoE + 2 SFP units from small lots under your label — is an access-layer SKU on your roadmap?"
 }
 },
 {
@@ -225439,8 +225569,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（fiberopticcableshop.com，快照 2026-10-21）",
-"summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv」；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：LC-E2000、NEMA-4、ME-4040-SFP-POE、ME-3860-MM3-SFP2；表内「MC 14机架 FS 自己的标 周边产品 SFP」；群发 20 次、无回复。",
-"type": "品牌商/贴牌需求（OEM/ODM）",
+"summary": "美国 Fiber Optic Cable Shop / Fibermailbox（光纤跳线/适配器/MC 网店：fiber 1483、SFP 148、MC 105，自有标 MC ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC；表内「MC、14 槽机架、FS 自己的标、周边、SFP」；KP Mark W（Sales，mark@））；群发 20 次无回复。",
+"type": "光纤配件网店（美国，自有标 MC，OEM 采购）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -225457,44 +225587,74 @@
 "quote": "MC 14机架 FS 自己的标 周边产品 SFP",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "光纤线缆与 MC 网店",
+"quote": "Fiber Optic Cables, Fiber Optic Patch Cables, Fiber Optic Adapters, Fiber Optic Media Conv…",
+"url": "https://www.fiberopticcableshop.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC 14 机架 FS 自己的标 周边 SFP",
+"quote": "MC 14机架 FS 自己的标 周边产品 SFP",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Mark W",
+"title": "Sales",
+"email": "mark@fibermailbox.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "美国",
 "other": "官网 fiberopticcableshop.com，语言 ?，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"布线 / 线缆",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"光纤跳线 / 适配器 / MC / SFP 网店（自有标）"
 ],
 "channels": {
-"role": "品牌商/贴牌需求（OEM/ODM）",
+"role": "光纤配件网店（美国，自有标 MC，OEM 采购）",
 "region": "美国",
 "contact": "sales@fibermailbox.com、mark@fibermailbox.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.fiberopticcableshop.com/）",
-"官网公开邮箱：sales@fibermailbox.com",
-"用户表兴趣/备注：MC 14机架 FS 自己的标 周边产品 SFP"
+"站内型号 ME-4040-SFP-POE / ME-3860-MM3-SFP2 / ME-4010-MM3-POE-SC（自有标 MC）；kw fiber 1483 / cable 1237 / sfp 148 / media converter 105",
+"KP：Mark W / Sales（表内）"
 ],
 "risks": [
-"群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）"
+"主需求为商用桌面 MC / 机架：Saga 价目无 SKU（Q-32），需先询价再报",
+"20 次无回复 → 改向 Sales 具名首触，预期低"
 ],
 "saga_fit": {
 "p1": "STI-110GE",
 "tier": 30,
-"why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "自有标 MC（含 PoE MC）→ 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴标；商用桌面 MC 与 14 槽机架 Saga 价目无（Q-32，待向 HRUI 询价）；FS 位 STC-28DGGPM"
 },
-"email_hook": "Mark, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+"email_hook": "Mark, for the ME-series media converters under your label (including the PoE models), we can be a second ODM source for gigabit SFP and fixed-fiber converters from small lots, and quote a 14-slot rack on request — which ME model do you reorder most often?",
+"products_seen": [
+{
+"brand": "Fibermailbox（自有标）",
+"model": "ME-4040-SFP-POE",
+"spec": "PoE 千兆 MC（SFP）",
+"saga": "STI-111GP（工业 PoE MC，非桌面）",
+"url": "https://www.fiberopticcableshop.com/",
+"date": "2026-10-21"
+}
+]
 }
 },
 {
@@ -294480,8 +294640,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（kbcnetworks.com，快照 2026-10-21）",
-"summary": "美国制造商（同行或 OEM 客户待核）：官网「KBC Networks - KBC Networks」（en-gb）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内型号：RS485、WES5-KT；表内「工业FS MC 机架 SFP VC」；群发 10 次、无回复。",
-"type": "制造商（同行或 OEM 客户待核）",
+"summary": "美国/英国 KBC Networks（工业加固电源与传输方案制造商：无线以太网系统、移动监控、ThruLink 硬件 VPN、加固工业网络交换机、eCopper 同轴/UTP IP 传输、电源；表内「工业 FS / MC / 机架 / SFP / VC」「优质公司」；KP Steve Kuntz（President，skuntz@）、Craig Kennedy（Technical Solutions Architect）、David Schulman（VP, BD））；群发 10 次无回复。",
+"type": "工业传输方案品牌商（自有标加固交换机线，OEM 采购）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -294498,47 +294658,79 @@
 "quote": "工业FS MC 机架 SFP VC",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "KBC Networks：工业加固电源与传输方案制造商",
+"quote": "KBC Networks are a global manufacturer of industrial rugged power and transmission solutions.",
+"url": "https://kbcnetworks.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS MC 机架 SFP VC；优质公司",
+"quote": "工业FS MC 机架 SFP VC；优质公司",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "David Schulman",
+"title": "VP, Business Development",
+"email": "info@kbcnetworks.com",
+"phone": "",
+"source": "用户表"
+},
+{
+"name": "Steve Kuntz",
+"title": "President",
+"email": "skuntz@kbcnetworks.com",
+"phone": "",
+"source": "用户表"
+},
+{
+"name": "Craig Kennedy",
+"title": "Technical Solutions Architect",
+"email": "",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "美国",
 "other": "官网 kbcnetworks.com，语言 en-gb，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"无线以太网 / 移动监控 / 硬件 VPN",
+"加固工业交换机 / MC / 电源（自有品牌）"
 ],
 "channels": {
-"role": "制造商（同行或 OEM 客户待核）",
+"role": "工业传输方案品牌商（自有标加固交换机线，OEM 采购）",
 "region": "美国",
 "contact": "info@kbcnetworks.com、skuntz@kbcnetworks.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://kbcnetworks.com/）",
-"官网公开邮箱：apacsales@kbcnetworks.com、chinasales@kbcnetworks.com、emeasales@kbcnetworks.com",
-"用户表兴趣/备注：工业FS MC 机架 SFP VC"
+"官网：KBC Networks are a global manufacturer of industrial rugged power and transmission solutions；栏目 Rugged Industrial Network Switches / eCopper / ThruLink / Power Solutions",
+"KP：Steve Kuntz / President；Craig Kennedy / Technical Solutions Architect；David Schulman / VP, BD（表内）"
 ],
 "risks": [
-"群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）",
-"官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+"成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界",
+"机架 / SFP / VC 为其需求一部分：Saga 价目无（Q-32）；10 次无回复 → 改向 VP BD 具名首触"
 ],
 "saga_fit": {
-"p1": "STI-288DGGPM",
+"p1": "STI-288GPM",
 "tier": 30,
-"why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）"
 },
-"email_hook": "Steve, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+"email_hook": "David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?"
 }
 },
 {
@@ -309695,8 +309887,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（matrix.es，快照 2026-10-21）",
-"summary": "西班牙品牌商/贴牌需求（OEM/ODM）：官网「MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos」（es-ES）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：LTE-4G、RS485、RS232；表内「几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、C」；表内未见跟进记录。",
-"type": "品牌商/贴牌需求（OEM/ODM）",
+"summary": "西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。",
+"type": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -309713,42 +309905,72 @@
 "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工厂、能源或现场网络改造项目 工业级千兆交换机、8口工业PoE、ERPS环网交换机 官网路径直接为“Industrial Networking / Industr",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Matrix：IoT 方案与电子模块供应",
+"quote": "Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.",
+"url": "https://www.matrix.es/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "几个小有名气的牌子；AI 41% A",
+"quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Daniel Cortes",
+"title": "（表内联系人）",
+"email": "info@matrix.es",
+"phone": "",
+"source": "用户表"
+},
+{
+"name": "Jose Miguel",
+"title": "（表内联系人）",
+"email": "",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "西班牙",
 "other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"布线 / 线缆",
-"网络交换 / PoE"
+"IoT 方案 / 电子模块与设备供应",
+"工业网络（串口服务器等）/ 嵌入式计算"
 ],
 "channels": {
-"role": "品牌商/贴牌需求（OEM/ODM）",
+"role": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
 "region": "西班牙",
 "contact": "info@matrix.es"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.matrix.es/）",
-"用户表兴趣/备注：几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工"
+"官网：Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas；栏目 Wireless IoT / Networking Industrial / Embedded Computing",
+"表内 AI：41% A 西班牙工业网络专业渠道/方案商；KP Daniel Cortes / Jose Miguel"
 ],
-"risks": [],
+"risks": [
+"站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低",
+"无邮箱具名（info@）；表内无跟进"
+],
 "saga_fit": {
-"p1": "STC-424XGGPM-280W",
-"tier": 30,
-"why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STI-280GE",
+"tier": 20,
+"why": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低"
 },
-"email_hook": "Daniel, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+"email_hook": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?"
 }
 },
 {
@@ -344187,10 +344409,12 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（technics-india.com，快照 2026-10-21）",
-"summary": "印度工业自动化/IoT 方案商：官网「Technics Infosolutions Pvt. Ltd. – New Delhi」（en-US）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：UNO-4000、ADAM-5000、ADAM-6200、WISE-4000；表内「IM-FS240GM 250pcs；91 98112 35060」；表内未见跟进记录。",
-"type": "工业自动化/IoT 方案商",
+"summary": "印度 Technics Infosolutions Pvt. Ltd.（新德里工业自动化分销：Advantech UNO-4000 / ADAM-5000 / ADAM-6200 / WISE-4000，栏目 PoE 交换机、IEEE1588 工业交换机、本安型交换机；表内询价「**IM-FS240GM 250pcs**」；KP Prakash / opsharma@，+91 98112 35060）；表内无跟进记录。",
+"type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
 "size": "",
-"brands_seen": [],
+"brands_seen": [
+"Advantech"
+],
 "evidence": [
 {
 "kind": "官网快照",
@@ -344212,44 +344436,66 @@
 "quote": "",
 "url": "https://www.technics-india.com/",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Technics Infosolutions 新德里",
+"quote": "Technics Infosolutions Pvt. Ltd. – New Delhi",
+"url": "https://www.technics-india.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "IM-FS240GM 250pcs 询价",
+"quote": "IM-FS240GM 250pcs；91 98112 35060",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Prakash",
+"title": "（表内联系人）",
+"email": "opsharma@technicsonline.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "印度",
 "other": "官网 technics-india.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"布线 / 线缆",
-"网络交换 / PoE"
+"工业自动化分销（Advantech 等）",
+"工业以太网交换机品类"
 ],
 "channels": {
-"role": "工业自动化/IoT 方案商",
+"role": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
 "region": "印度",
 "contact": "opsharma@technicsonline.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.technics-india.com/）",
-"用户表兴趣/备注：IM-FS240GM 250pcs；91 98112 35060"
+"表内：IM-FS240GM 250pcs；91 98112 35060；KP Prakash",
+"栏目 /wpccategories/poe-ethernet-switches/、/ieee1588-industrial-ethernet-switch/、/intrinsic-safety-ethernet-switches-…；站内 UNO-4000 / ADAM-5000 / WISE-4000"
 ],
 "risks": [
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格",
+"印度 BIS / 关税：250 台整机进口需其持证；非主攻区（T5）",
+"本安型/IEEE1588 栏目：Saga 不做本安与 PTP"
 ],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-424XGGM",
+"tier": 20,
+"why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**"
 },
-"email_hook": "Prakash, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?"
 }
 },
 {
@@ -366715,17 +366961,17 @@
 "+5 最近活动 2025",
 "-10 推送 8 次无任何回复（聋名单）"
 ],
-"c_sub": "",
+"c_sub": "守界：军工",
 "status": "已推送 8 次·未回复",
 "code": "SB-822",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-822",
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（ecrin.com，快照 2026-10-21）",
-"summary": "法国安防集成/经销：官网「ECRIN Systems, l'innovation embarquée au coeur de vos systèmes !」（fr）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：D-Link；站内型号：CRYSTAL-23、MIL-DTL-38999、DO-160、MIL-STD-810；表内「几个品牌的交换机」；群发 8 次、无回复。",
-"type": "安防集成/经销",
+"summary": "法国 ECRIN Systems（加固计算机、嵌入式服务器与极端环境工业 IT 设计制造商：国防/航空（MIL-STD-810/461、DO-160、MIL-DTL-38999），Quartz 加固交换机；表内「几个品牌的交换机」）；群发 8 次无回复。",
+"type": "国防/航空加固计算制造商（军工）",
 "size": "",
 "brands_seen": [
 "D-Link"
@@ -366744,44 +366990,55 @@
 "quote": "几个品牌的交换机",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "ECRIN Systems 加固计算制造商",
+"quote": "Concepteur et fabricant de calculateurs durcis, serveurs embarqués et solutions informatiques industrielles adaptés aux environnements les plus extrêmes.",
+"url": "https://ecrin.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "几个品牌的交换机",
+"quote": "几个品牌的交换机",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "守界：法国国防/航空加固计算制造商（ECRIN Systems）；c_sub=守界：军工",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "法国",
 "other": "官网 ecrin.com，语言 fr，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"工业自动化 / OT 网络",
-"布线 / 线缆",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"加固计算机 / 嵌入式服务器 / 加固交换机（国防航空）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "国防/航空加固计算制造商（军工）",
 "region": "法国",
 "contact": "sales@ecrin.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://ecrin.com/）",
-"在售同口型交换品牌：D-Link → 直接对位替换",
-"官网公开邮箱：info@ecrin.com、sales@ecrin.com",
-"用户表兴趣/备注：几个品牌的交换机"
+"官网：Concepteur et fabricant de calculateurs durcis, serveurs embarqués et solutions informatiques industrielles adaptés aux environnements les plus extrêmes；首页 Défense",
+"页面 /quartz-switch-durcis、/en/quartz-rugged-switch；站内 MIL-DTL-38999 / DO-160 / MIL-STD-810 / MIL-STD-461"
 ],
-"risks": [],
+"risks": [
+"守界：国防/航空加固计算与交换机（MIL-STD / DO-160）"
+],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
+"p1": null,
 "tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "国防与航空加固设备制造商 = 守界 → 改 C"
 },
-"email_hook": "Alongside the D-Link lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "（不发送：军工守界）"
 }
 },
 {
@@ -367418,8 +367675,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（engeniustech.com，快照 2026-10-21）",
-"summary": "美国安防集成/经销：官网「EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Ubiquiti；站内型号：IEEE802、EPA5090XBT、EPA5090HBT、EPA5090GBT；表内「商业FS 大口 SFP PoE配件」；群发 10 次、无回复。",
-"type": "安防集成/经销",
+"summary": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
+"type": "台湾网络品牌美国公司（台湾厂商口径二供）",
 "size": "",
 "brands_seen": [
 "Ubiquiti"
@@ -367438,6 +367695,20 @@
 "quote": "商业FS 大口 SFP PoE配件",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "EnGenius 产品线",
+"quote": "EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs ; EnGenius WiFi Networks: Delivering best-in-class voice & data solutions",
+"url": "https://www.engeniustech.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "商业 FS 大口 SFP PoE 配件；质量高",
+"quote": "商业FS 大口 SFP PoE配件；质量高",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -367446,39 +367717,34 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "美国",
 "other": "官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"数据中心 / 企业 IT",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"Wi-Fi / 交换机 / 监控 / VPN 路由 / PDU（自有品牌）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "台湾网络品牌美国公司（台湾厂商口径二供）",
 "region": "美国",
 "contact": "sales@engeniustech.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.engeniustech.com/）",
-"在售同口型交换品牌：Ubiquiti → 直接对位替换",
-"用户表兴趣/备注：商业FS 大口 SFP PoE配件"
+"官网：EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs",
+"站内型号 EPA5090XBT / EPA5090HBT / EPA5060XBT（PoE 注入器）"
 ],
 "risks": [
-"群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+"台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
+"云管理生态（EnGenius Cloud）：Saga 不做云管理；10 次无回复，仅 sales@"
 ],
 "saga_fit": {
-"p1": null,
-"tier": 25,
-"why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：安防集成/经销→25%）"
+"p1": "STC-424XGGPM-280W",
+"tier": 30,
+"why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
 },
-"email_hook": "Alongside the Ubiquiti lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+"email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?"
 }
 },
 {
@@ -389083,8 +389349,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（datageneral.co，快照 2026-10-21）",
-"summary": "美国安防集成/经销：官网「Data General」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：DG-WS7005-1W4G、DG-S1930K-8GP2S-120W、DG-SG2100-FS1、DG-S6120-20XS4VXS2QXS；表内「常规Switch较多」；表内未见跟进记录。",
-"type": "安防集成/经销",
+"summary": "美国 Data General（datageneral.co / general-data.com；企业级无线与网络基础设施自有品牌：DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）、DG-S1930K-24GP4S-370W、DG-S5360-48GP4X L3、DG-S6120 10G/25G、AP DG-WS7005，云管理，英/西双语；表内「常规 switch 较多」；KP Paul S（Vice President, Operations，psanborn@））；表内无跟进记录。",
+"type": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -389101,44 +389367,83 @@
 "quote": "常规Switch较多",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Data General 企业级网络基础设施",
+"quote": "Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability.",
+"url": "https://datageneral.co/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "常规 switch 较多",
+"quote": "常规Switch较多",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Paul Sanborn",
+"title": "Vice President, Operations（表内 Paul S）",
+"email": "psanborn@general-data.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "美国",
 "other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"布线 / 线缆",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"企业无线 / 交换机 / 云管理（自有品牌 DG）"
 ],
 "channels": {
-"role": "安防集成/经销",
+"role": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
 "region": "美国",
 "contact": "psanborn@general-data.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://datageneral.co/）",
-"用户表兴趣/备注：常规Switch较多"
+"产品页 /product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/、/product/dg-s5360-48gp4x-740w-layer-3-10g-48-ports-poe-switch-4-sfp/",
+"官网：Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability；栏目 Cloud Management",
+"KP：Paul S / Vice President, Operations（表内）"
 ],
-"risks": [],
+"risks": [
+"现代工疑为锐捷/深圳体系（型号命名近 Ruijie S1930）：价格基准低",
+"云管理功能由其平台提供：Saga 仅硬件 L2+；表内无跟进 → 向 VP Operations 具名首触"
+],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
-"tier": 25,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W"
 },
-"email_hook": "Paul, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+"email_hook": "Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?",
+"products_seen": [
+{
+"brand": "Data General（自有）",
+"model": "DG-S1930K-8GP2S-120W",
+"spec": "8 PoE + 2 SFP 120W",
+"saga": "STC-28DGGPM",
+"url": "https://datageneral.co/product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/",
+"date": "2026-10-21"
+},
+{
+"brand": "Data General（自有）",
+"model": "DG-S1930K-24GP4S-370W",
+"spec": "24 PoE + 4 SFP 370W",
+"saga": "STC-424DGGPM-280W（280W，注明功率差）",
+"url": "https://datageneral.co/",
+"date": "2026-10-21"
+}
+]
 }
 },
 {
@@ -401068,10 +401373,12 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（kohen.ca，快照 2026-10-21）",
-"summary": "加拿大工业自动化/IoT 方案商：官网「Electronic Supply Products | Electronic Components Canada - Ko-Hen Electronics Supply Ltd.」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；表内「主要是Wago的」；群发 8 次、无回复。",
-"type": "工业自动化/IoT 方案商",
+"summary": "加拿大 Ko-Hen Electronics Supply（独立电子元件供应商 40 年以上：油气、自动化控制、计算机网络；表内「主要是 Wago 的」「可以多跟进一下」）；群发 8 次无回复。",
+"type": "电子元件分销商（加拿大，Wago 工业线）",
 "size": "",
-"brands_seen": [],
+"brands_seen": [
+"Wago"
+],
 "evidence": [
 {
 "kind": "官网快照",
@@ -401086,6 +401393,20 @@
 "quote": "主要是Wago的",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Ko-Hen 电子元件供应商",
+"quote": "We’re at Ko-Hen are independent electronics parts and components supplier in Canada with 40+ years of experience servicing the Oil and Gas Industry, Automation and Controls, and Computer Networking",
+"url": "https://kohen.ca/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "主要是 Wago 的",
+"quote": "主要是Wago的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -401094,35 +401415,34 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "加拿大",
 "other": "官网 kohen.ca，语言 en，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"工业自动化 / OT 网络",
-"无线 / WiFi",
-"布线 / 线缆",
-"网络交换 / PoE"
+"电子元件分销（油气 / 自动化 / 网络）"
 ],
 "channels": {
-"role": "工业自动化/IoT 方案商",
+"role": "电子元件分销商（加拿大，Wago 工业线）",
 "region": "加拿大",
 "contact": "sales@kohen.ca"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://kohen.ca/）",
-"用户表兴趣/备注：主要是Wago的"
+"官网：independent electronics parts and components supplier in Canada with 40+ years of experience servicing the Oil and Gas Industry, Automation and Controls, and Computer Networking",
+"表内：主要是 Wago 的；可以多跟进一下"
 ],
-"risks": [],
+"risks": [
+"Wago（德国）为主的元件分销：白牌仅价格补充",
+"油气行业：危险区/本安需求 Saga 不做，仅普通节点；8 次无回复，仅 sales@"
+],
 "saga_fit": {
-"p1": "STI-288GP",
-"tier": 25,
-"why": "官网快照对位：工业/自动化词频 26、PoE 7 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"p1": "STI-080GE",
+"tier": 20,
+"why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）"
 },
-"email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+"email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?"
 }
 },
 {
@@ -407938,10 +408258,16 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（baburtech.com，快照 2026-10-21）",
-"summary": "土耳其电商/网店：官网「BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAPTOP YEDEK PARÇA 0850 302 06 47」（tr）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：C740-15IML、FYG41、NM-C431、PV152501334；表内「switch；switch 有海思的」；群发 2 次、无回复。",
-"type": "电商/网店",
+"summary": "土耳其 Baburtech Bilişim A.Ş.（安卡拉笔记本配件/维修电商，兼售 Hikvision 77 / Dahua 74 / TP-Link 30 / Ubiquiti 19 / Planet 18 网络安防产品；表内「switch，有海思的」；KP Ayse Narinsoez（Project Manager，ayse@））；群发 2 次无回复。",
+"type": "电脑配件电商兼安防网络（土耳其）",
 "size": "",
-"brands_seen": [],
+"brands_seen": [
+"Hikvision",
+"Dahua",
+"TP-Link",
+"Ubiquiti",
+"Planet"
+],
 "evidence": [
 {
 "kind": "官网快照",
@@ -407956,43 +408282,66 @@
 "quote": "switch；switch 有海思的",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "Baburtech 笔记本配件电商",
+"quote": "BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAPTOP YEDEK PARÇA ; Laptop Yedek Parça, Ankara Laptop Yedek Parça",
+"url": "https://www.baburtech.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "switch 有海思的",
+"quote": "switch 有海思的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Ayse Narinsoez",
+"title": "Project Manager",
+"email": "ayse@baburtech.com",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "土耳其",
 "other": "官网 baburtech.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"无线 / WiFi",
-"光纤 / 媒体转换",
-"网络交换 / PoE"
+"笔记本配件与维修电商",
+"网络 / 安防产品兼营"
 ],
 "channels": {
-"role": "电商/网店",
+"role": "电脑配件电商兼安防网络（土耳其）",
 "region": "土耳其",
 "contact": "destek@baburtech.com、ayse@baburtech.com"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://www.baburtech.com/）",
-"官网公开邮箱：destek@baburtech.com",
-"用户表兴趣/备注：switch；switch 有海思的"
+"官网：BİLGİSAYAR, ORİJİNAL LAPTOP YEDEK PARÇA … Ankara Laptop Tamiri",
+"站内 kw：hikvision 77 / dahua 74 / tp-link 30 / planet 18 / oem 18",
+"KP：Ayse Narinsoez / Project Manager（表内）"
 ],
-"risks": [],
+"risks": [
+"主业笔记本配件：网络安防为兼营，量小",
+"土耳其：汇率敏感；2 次无回复"
+],
 "saga_fit": {
-"p1": "STC-424DGGPM-280W",
+"p1": "STC-28DGGPM",
 "tier": 20,
-"why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "兼售 Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
 },
-"email_hook": "Ayse, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+"email_hook": "Ayse, for the PoE switches you sell alongside Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band sells more for you?"
 }
 },
 {
@@ -411232,8 +411581,8 @@
 "name_official": "",
 "researched_at": "2026-10-21",
 "website_status": "在线（hunter-cctv.ru，快照 2026-10-21）",
-"summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Профессиональные бюджетные системы видеонаблюдения Hunter」（ru）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：HN-SW5MG、HN-SW5P、HN-SW8P、HN-SW8MG；表内「自己的logo 商业POE CCTV为主 很多配件 有人卖他们的」；表内未见跟进记录。",
-"type": "品牌商/贴牌需求（OEM/ODM）",
+"summary": "俄罗斯 HUNTER（hunter-cctv.ru；「专业预算型视频监控」品牌：自有 logo PoE 交换机 HN-SW5P / HN-SW8P / HN-SW5MG / HN-SW8MG、PoE NVR、配件；表内「自己的 logo，商业 PoE，CCTV 为主，很多配件，有人卖他们的」）；表内无跟进记录。",
+"type": "俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）",
 "size": "",
 "brands_seen": [],
 "evidence": [
@@ -411250,6 +411599,20 @@
 "quote": "自己的logo 商业POE CCTV为主 很多配件 有人卖他们的",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "HUNTER 预算型视频监控品牌",
+"quote": "Профессиональные бюджетные системы видеонаблюдения Hunter ; Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER",
+"url": "https://hunter-cctv.ru/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "自己的 logo 商业 PoE，有人卖他们的",
+"quote": "自己的logo 商业POE CCTV为主 很多配件 有人卖他们的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [],
@@ -411258,35 +411621,53 @@
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
-"level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
 "hq": "俄罗斯",
 "other": "官网 hunter-cctv.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
 },
 "business_lines": [
-"安防监控（CCTV / 门禁）",
-"网络交换 / PoE"
+"预算型 CCTV（自有品牌 HUNTER）",
+"PoE 交换机 / NVR / 配件（自有 logo）"
 ],
 "channels": {
-"role": "品牌商/贴牌需求（OEM/ODM）",
+"role": "俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）",
 "region": "俄罗斯",
 "contact": "info@hunter-cctv.ru"
 },
 "signals": [
-"官网在线（快照 2026-10-21，https://hunter-cctv.ru/）",
-"官网公开邮箱：info@hunter-cctv.ru",
-"用户表兴趣/备注：自己的logo 商业POE CCTV为主 很多配件 有人卖他们的"
+"页面 /poe-svitchi/hn-sw5p-kommutator-hunter/、/poe-svitchi/hn-sw8p-kommutator-hunter/；站内 HN-SW5MG / HN-SW8MG / HN-POE204",
+"官网：Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER … минимальная стоимость"
 ],
 "risks": [
-"非主攻区（T5）：低频跟进，不单独做本地化"
+"俄罗斯：结算/物流受限，非主攻区（T5）",
+"预算型品牌：价格基准极低；无具名 KP（info@）"
 ],
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+"why": "自有 HN-SW8P（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HUNTER 标；HN-SW5P 位 HRUI STC-204GP（$20.4）；百兆版 HRUI STC-028GFP（$17.6）"
 },
-"email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+"email_hook": "For the HN-SW5P / HN-SW8P PoE switches under the HUNTER label, we can supply the same layouts on a Marvell platform (plus an 8-PoE + 2 SFP L2+ step-up) from small lots in your housing — which HN-SW model do your dealers reorder most?",
+"products_seen": [
+{
+"brand": "HUNTER（自有）",
+"model": "HN-SW8P",
+"spec": "8 口 PoE",
+"saga": "STC-28DGGPM",
+"url": "https://hunter-cctv.ru/poe-svitchi/hn-sw8p-kommutator-hunter/",
+"date": "2026-10-21"
+},
+{
+"brand": "HUNTER（自有）",
+"model": "HN-SW5P",
+"spec": "4 PoE + 1 上联（推断）",
+"saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+"url": "https://hunter-cctv.ru/",
+"date": "2026-10-21"
+}
+]
 }
 },
 {

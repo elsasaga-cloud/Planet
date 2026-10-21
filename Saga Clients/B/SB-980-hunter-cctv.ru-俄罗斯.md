@@ -2,7 +2,7 @@
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-980`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-980
@@ -12,7 +12,7 @@ score: 29
 country: 俄罗斯
 region: 俄语区
 website: hunter-cctv.ru
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）
 tier_tags: ["群发(Russia)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Профессиональные бюджетные системы видеонаблюдения Hunter」（ru）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：HN-SW5MG、HN-SW5P、HN-SW8P、HN-SW8MG；表内「自己的logo 商业POE CCTV为主 很多配件 有人卖他们的」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：自己的logo 商业POE CCTV为主 很多配件 有人卖他们的）
+- **是谁**：俄罗斯 HUNTER（hunter-cctv.ru；「专业预算型视频监控」品牌：自有 logo PoE 交换机 HN-SW5P / HN-SW8P / HN-SW5MG / HN-SW8MG、PoE NVR、配件；表内「自己的 logo，商业 PoE，CCTV 为主，很多配件，有人卖他们的」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：自己的logo 商业POE CCTV为主 很多配件 有人卖他们的）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 HN-SW8P（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HUNTER 标；HN-SW5P 位 HRUI STC-204GP（$20.4）；百兆版 HRUI STC-028GFP（$17.6）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | hunter-cctv.ru（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | hunter-cctv.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 自己的logo 商业POE CCTV为主 很多配件 有人卖他们的 | 事实（用户表） |
@@ -55,32 +55,43 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（hunter-cctv.ru，快照 2026-10-21）
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Профессиональные бюджетные системы видеонаблюдения Hunter」（ru）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：HN-SW5MG、HN-SW5P、HN-SW8P、HN-SW8MG；表内「自己的logo 商业POE CCTV为主 很多配件 有人卖他们的」；表内未见跟进记录。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：俄罗斯 HUNTER（hunter-cctv.ru；「专业预算型视频监控」品牌：自有 logo PoE 交换机 HN-SW5P / HN-SW8P / HN-SW5MG / HN-SW8MG、PoE NVR、配件；表内「自己的 logo，商业 PoE，CCTV 为主，很多配件，有人卖他们的」）；表内无跟进记录。
+- **类型**：俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）
 - **【官网快照】官网标题：Профессиональные бюджетные системы видеонаблюдения Hunter；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE**
   > Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER. Передовые технологии, идущие в ногу со временем, минимальная стоимость, оперативное сервисное обслуживание, надежность и функциональность.
   > 来源：https://hunter-cctv.ru/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 自己的logo 商业POE CCTV为主 很多配件 有人卖他们的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】HUNTER 预算型视频监控品牌**
+  > Профессиональные бюджетные системы видеонаблюдения Hunter ; Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER
+  > 来源：https://hunter-cctv.ru/（抓取 2026-10-21）
+- **【用户表】自己的 logo 商业 PoE，有人卖他们的**
+  > 自己的logo 商业POE CCTV为主 很多配件 有人卖他们的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 俄罗斯 |
 | 其他 | 官网 hunter-cctv.ru，语言 ru，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 俄罗斯；contact: info@hunter-cctv.ru
+- **业务线**：预算型 CCTV（自有品牌 HUNTER）；PoE 交换机 / NVR / 配件（自有 logo）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| HUNTER（自有） | HN-SW8P | 8 口 PoE | STC-28DGGPM | https://hunter-cctv.ru/poe-svitchi/hn-sw8p-kommutator-hunter/（2026-10-21） |
+| HUNTER（自有） | HN-SW5P | 4 PoE + 1 上联（推断） | STC-204GP（HRUI 列表价 $20.4，非 SmartByte） | https://hunter-cctv.ru/（2026-10-21） |
+
+- **触达通道（公开）**：role: 俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）；region: 俄罗斯；contact: info@hunter-cctv.ru
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://hunter-cctv.ru/）
-  - 官网公开邮箱：info@hunter-cctv.ru
-  - 用户表兴趣/备注：自己的logo 商业POE CCTV为主 很多配件 有人卖他们的
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 页面 /poe-svitchi/hn-sw5p-kommutator-hunter/、/poe-svitchi/hn-sw8p-kommutator-hunter/；站内 HN-SW5MG / HN-SW8MG / HN-POE204
+  - 官网：Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER … минимальная стоимость
+- **风险/边界**：俄罗斯：结算/物流受限，非主攻区（T5）；预算型品牌：价格基准极低；无具名 KP（info@）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 HN-SW8P（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HUNTER 标；HN-SW5P 位 HRUI STC-204GP（$20.4）；百兆版 HRUI STC-028GFP（$17.6）
+- **邮件切入句（英文）**：For the HN-SW5P / HN-SW8P PoE switches under the HUNTER label, we can supply the same layouts on a Marvell platform (plus an 8-PoE + 2 SFP L2+ step-up) from small lots in your housing — which HN-SW model do your dealers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -131,7 +142,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：自有 HN-SW8P（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HUNTER 标；HN-SW5P 位 HRUI STC-204GP（$20.4）；百兆版 HRUI STC-028GFP（$17.6） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -185,9 +196,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the HN-SW5P / HN-SW8P PoE switches under the HUNTER label, we can supply the same layouts on a Marvell platform (plus an 8-PoE + 2 SFP L2+ step-up) from small lots in your housing — which HN-SW model do your dealers reorder most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your HUNTER（自有） HN-SW8P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

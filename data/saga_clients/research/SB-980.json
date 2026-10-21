@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hunter-cctv.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Профессиональные бюджетные системы видеонаблюдения Hunter」（ru）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：HN-SW5MG、HN-SW5P、HN-SW8P、HN-SW8MG；表内「自己的logo 商业POE CCTV为主 很多配件 有人卖他们的」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 HUNTER（hunter-cctv.ru；「专业预算型视频监控」品牌：自有 logo PoE 交换机 HN-SW5P / HN-SW8P / HN-SW5MG / HN-SW8MG、PoE NVR、配件；表内「自己的 logo，商业 PoE，CCTV 为主，很多配件，有人卖他们的」）；表内无跟进记录。",
+ "type": "俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "自己的logo 商业POE CCTV为主 很多配件 有人卖他们的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HUNTER 预算型视频监控品牌",
+   "quote": "Профессиональные бюджетные системы видеонаблюдения Hunter ; Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER",
+   "url": "https://hunter-cctv.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo 商业 PoE，有人卖他们的",
+   "quote": "自己的logo 商业POE CCTV为主 很多配件 有人卖他们的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +43,51 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 hunter-cctv.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "预算型 CCTV（自有品牌 HUNTER）",
+  "PoE 交换机 / NVR / 配件（自有 logo）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）",
   "region": "俄罗斯",
   "contact": "info@hunter-cctv.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://hunter-cctv.ru/）",
-  "官网公开邮箱：info@hunter-cctv.ru",
-  "用户表兴趣/备注：自己的logo 商业POE CCTV为主 很多配件 有人卖他们的"
+  "页面 /poe-svitchi/hn-sw5p-kommutator-hunter/、/poe-svitchi/hn-sw8p-kommutator-hunter/；站内 HN-SW5MG / HN-SW8MG / HN-POE204",
+  "官网：Профессиональное оборудование для систем видеонаблюдения торговой марки HUNTER … минимальная стоимость"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "预算型品牌：价格基准极低；无具名 KP（info@）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 HN-SW8P（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HUNTER 标；HN-SW5P 位 HRUI STC-204GP（$20.4）；百兆版 HRUI STC-028GFP（$17.6）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the HN-SW5P / HN-SW8P PoE switches under the HUNTER label, we can supply the same layouts on a Marvell platform (plus an 8-PoE + 2 SFP L2+ step-up) from small lots in your housing — which HN-SW model do your dealers reorder most?",
+ "products_seen": [
+  {
+   "brand": "HUNTER（自有）",
+   "model": "HN-SW8P",
+   "spec": "8 口 PoE",
+   "saga": "STC-28DGGPM",
+   "url": "https://hunter-cctv.ru/poe-svitchi/hn-sw8p-kommutator-hunter/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "HUNTER（自有）",
+   "model": "HN-SW5P",
+   "spec": "4 PoE + 1 上联（推断）",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://hunter-cctv.ru/",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（engeniustech.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Ubiquiti；站内型号：IEEE802、EPA5090XBT、EPA5090HBT、EPA5090GBT；表内「商业FS 大口 SFP PoE配件」；群发 10 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
+ "type": "台湾网络品牌美国公司（台湾厂商口径二供）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,6 +23,20 @@
    "quote": "商业FS 大口 SFP PoE配件",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EnGenius 产品线",
+   "quote": "EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs ; EnGenius WiFi Networks: Delivering best-in-class voice & data solutions",
+   "url": "https://www.engeniustech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 FS 大口 SFP PoE 配件；质量高",
+   "quote": "商业FS 大口 SFP PoE配件；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,37 +45,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "Wi-Fi / 交换机 / 监控 / VPN 路由 / PDU（自有品牌）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "台湾网络品牌美国公司（台湾厂商口径二供）",
   "region": "美国",
   "contact": "sales@engeniustech.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.engeniustech.com/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "用户表兴趣/备注：商业FS 大口 SFP PoE配件"
+  "官网：EnGenius: AI Surveillance | Wi-Fi | Switches | VPN Routers | PDUs",
+  "站内型号 EPA5090XBT / EPA5090HBT / EPA5060XBT（PoE 注入器）"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
+  "云管理生态（EnGenius Cloud）：Saga 不做云管理；10 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：安防集成/经销→25%）"
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
  },
- "email_hook": "Alongside the Ubiquiti lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?"
 }

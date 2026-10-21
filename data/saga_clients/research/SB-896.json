@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（datageneral.co，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「Data General」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：DG-WS7005-1W4G、DG-S1930K-8GP2S-120W、DG-SG2100-FS1、DG-S6120-20XS4VXS2QXS；表内「常规Switch较多」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "美国 Data General（datageneral.co / general-data.com；企业级无线与网络基础设施自有品牌：DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）、DG-S1930K-24GP4S-370W、DG-S5360-48GP4X L3、DG-S6120 10G/25G、AP DG-WS7005，云管理，英/西双语；表内「常规 switch 较多」；KP Paul S（Vice President, Operations，psanborn@））；表内无跟进记录。",
+ "type": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,81 @@
    "quote": "常规Switch较多",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Data General 企业级网络基础设施",
+   "quote": "Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability.",
+   "url": "https://datageneral.co/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "常规 switch 较多",
+   "quote": "常规Switch较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Paul Sanborn",
+   "title": "Vice President, Operations（表内 Paul S）",
+   "email": "psanborn@general-data.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 datageneral.co，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "企业无线 / 交换机 / 云管理（自有品牌 DG）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "美国自有品牌网络厂商（DG 系列交换机，OEM 采购）",
   "region": "美国",
   "contact": "psanborn@general-data.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://datageneral.co/）",
-  "用户表兴趣/备注：常规Switch较多"
+  "产品页 /product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/、/product/dg-s5360-48gp4x-740w-layer-3-10g-48-ports-poe-switch-4-sfp/",
+  "官网：Enterprise-grade wireless and network infrastructure designed for stability, performance and scalability；栏目 Cloud Management",
+  "KP：Paul S / Vice President, Operations（表内）"
  ],
- "risks": [],
+ "risks": [
+  "现代工疑为锐捷/深圳体系（型号命名近 Ruijie S1930）：价格基准低",
+  "云管理功能由其平台提供：Saga 仅硬件 L2+；表内无跟进 → 向 VP Operations 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W"
  },
- "email_hook": "Paul, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?",
+ "products_seen": [
+  {
+   "brand": "Data General（自有）",
+   "model": "DG-S1930K-8GP2S-120W",
+   "spec": "8 PoE + 2 SFP 120W",
+   "saga": "STC-28DGGPM",
+   "url": "https://datageneral.co/product/dg-s1930k-8gp2s-120w-poe-switch-8-port-gigabit-poe-sfp/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Data General（自有）",
+   "model": "DG-S1930K-24GP4S-370W",
+   "spec": "24 PoE + 4 SFP 370W",
+   "saga": "STC-424DGGPM-280W（280W，注明功率差）",
+   "url": "https://datageneral.co/",
+   "date": "2026-10-21"
+  }
+ ]
 }
