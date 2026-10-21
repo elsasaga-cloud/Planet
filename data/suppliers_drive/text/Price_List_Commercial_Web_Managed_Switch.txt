@@ -1,0 +1,38 @@
+# 来源：Google Drive /Realtek Based Commercial Switch/Commercial Web Managed Switch/Price List_Commercial Web Managed Switch.pdf（id 1MilMCyQFjGEdjJI_rv9V3UDJcdMk9o3C，736,854 B）
+# 读取方式：Drive 连接器 read_file_text，2026-10-21；提取文本原样（仅合并被折行的型号行）
+Saga Telecom, OEM Factory
+Tailored Managed Networking Solutions Provider
+Built to Last, Continuous Supply, Evolving Together
+Download Link(information for full category)
+https://drive.google.com/drive/folders/1ppSdjmjh8dOF2qS8WKJnOgfwSQmfWPm3?usp=drive_link
+Must-Know
+1, 2.5G Ethernet port(10/100/1000M auto-adaptive), 10G Ethernet port(10/100/1000M/2.5G/5G auto-adaptive)
+Please pay attention to the remark about FIBER PORT SPEED INFORMATION
+2, The power comes in AC and DC input. For AC type, it has internal AC-DC converter
+3.Power adapter is included in the price
+But optical module is NOT included, need to purchase individually
+For AC input models, there is a pair of mounting hangers in the packing box for rack mounting
+4, Some models are having a fan inside, the noise is relatively acceptable by the feedback from many clients
+Model Specification Price USD Picture
+Commercial Web Managed Switch(Non-PoE Models)
+STC-80XGWO 8*1G/2.5G/10G fiber ports, Without Ethernet port, fan-less, DC12V2A Remark: Fiber speed is auto-sensing, without extra configuration $94
+STC-120XGWO 12*10G fiber ports, Without Ethernet port, With fan, AC100-240V, Rack compatible Remark: Fiber port does NOT support 1G or 2.5G speed $143
+STC-05XGWE 5*100M/1G/2.5G/5G/10G Ethernet ports, Without optical port, With fan, DC12V2A, Rack compatible $138
+STC-08XGWE 8*100M/1G/2.5G/5G/10G Ethernet ports, Without optical port, With fan, AC100-240V, Rack compatible $193
+STC-15XGDGWE 1*10G fiber port+5*100M/1G/2.5G Ethernet ports, fan-less, DC12V1A Remark: Fiber port does NOT support 1G or 2.5G speed $44
+STC-18XGDGWE 1*10G fiber port+8*100M/1G/2.5G Ethernet ports, fan-less, DC12V1A Remark: Fiber port does NOT support 1G or 2.5G speed $55
+STC-24XGDGWE 2*1G/2.5G/10G fiber ports+4*100M/1G/2.5G Ethernet ports, fan-less, DC12V1A Remark: Fiber speed is auto-sensing, without extra configuration $40
+STC-224GWE 2*1G fiber ports+24*100M/1G Ethernet ports, fan-less, AC100-240V, Rack compatible $61
+STC-216XGDGWE 2*2.5G/10G fiber ports+16*100M/1G/2.5G Ethernet ports, fan-less, AC100-240V, Rack compatible Remark: Fiber speed is auto-sensing, without extra configuration, but it does NOT support 1G speed $187
+STC-224XGDGWE 2*2.5G/10G fiber ports+24*100M/1G/2.5G Ethernet ports, fan-less, AC100-240V, Rack compatible Remark: Fiber speed is auto-sensing, without extra configuration, but it does NOT support 1G speed $215
+STC-84XGWE 4*1G/2.5G/10G fiber ports+8*100M/1G/2.5G/10G Ethernet ports, fan-less, DC12V3A Remark: Fiber speed is auto-sensing, without extra configuration $204
+Commercial Web Managed Switch(PoE Models)
+STC-28GPW 2*1G fiber ports+8*100M/1G PoE ports, fan-less, AC100-240V, Rack compatible PoE af/at, 150W PoE budget, Internal 52V2.88A power converter $43
+STC-216GPW 2*1G fiber ports+16*100M/1G PoE ports, fan-less, AC100-240V, Rack compatible PoE af/at, 200W PoE budget, Internal 52V3.84A power converter $91
+STC-224GPW 2*1G fiber ports+24*100M/1G PoE ports, fan-less, AC100-240V, Rack compatible PoE af/at, 300W PoE budget, Internal 52V5.76A power converter $102
+STC-18XGDGPW 1*1G/2.5G/10G fiber port+8*100M/1G/2.5G PoE ports, fan-less, AC100-240V, Rack compatible PoE af/at, 100W PoE budget, Internal 52V1.92A power converter Remark: Fiber speed is auto-sensing, without extra configuration $66
+1. Prices are valid for 15 days
+2. Price term: EXW
+3. Warranty period: One year
+4. Lead time for less than 50pcs: 5~7 working days
+5. Customization is available

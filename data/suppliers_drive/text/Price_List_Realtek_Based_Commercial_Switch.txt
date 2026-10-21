@@ -1,0 +1,72 @@
+# 来源：Google Drive /Realtek Based Commercial Switch/Price List_Realtek Based Commercial Switch.pdf（id 1fr-8I3Fycd1f1YG95aUy1Lk2TkvXthOp，1,727,531 B）
+# 读取方式：Drive 连接器 read_file_text，2026-10-21；以下为提取文本原样（仅合并了被 PDF 折行的型号行）
+Saga Telecom, OEM Factory
+Tailored Managed Networking Solutions Provider
+Built to Last, Continuous Supply, Evolving Together
+Download Link(information for full category)
+https://drive.google.com/drive/folders/17hEtGThaxugf-ngPfyNYYcuIzeEoT5p0?usp=drive_link
+Must-Know
+1.Eco-friendly lead-free metal case
+2.Most PoE models are PoE af/at based, some support PoE BT 90W standard
+3.The power comes in AC and DC input. For AC type, it has internal AC-DC converter
+4.Power adapter is included in the price
+But optical module is NOT included, need to purchase individually
+For AC input models, there is a pair of mounting brackets in the packing box for rack mounting
+Commercial Ethernet Switch(Unmanaged, Non-PoE series)
+Model Specification Price Picture
+STC-05GE 5*10/100/1000M RJ45, DC5V1A, Desktop Type $6.1
+STC-08GE 8*10/100/1000M RJ45, DC5V2A, Desktop Type $10.5
+STC-016GE 16*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Rack compatible $33.0
+STC-024GE-D 24*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Desktop Type $42.9
+STC-024GE-U 24*10/100/1000M RJ45, Support Vlan/Extend mode, QoS, loop alarm, AC input, Rack compatible $48.4
+STC-224GE 2*Gigabit SFP+24*10/100/1000M RJ45 Support Vlan/Extend mode, QoS, AC input, Rack compatible $52.8
+STC-248GE 2*Gigabit SFP+48*10/100/1000M RJ45 Support Vlan mode, loop alarm, AC input, Rack compatible $137.5
+STC-15XGDGE 1*10G SFP+5*2.5G RJ45, downward compatible, DC12V1A, Desktop Type $38.5
+STC-18XGDGE 1*10G SFP+8*2.5G RJ45, downward compatible, DC12V2A, Desktop Type $50.1
+STC-216XGDGE 2*10G SFP+16*2.5G RJ45, downward compatible, Support Vlan mode, AC input, Rack compatible $181.5
+STC-224XGDGE 2*10G SFP+24*2.5G RJ45, downward compatible, Support Vlan mode, AC input, Rack compatible $203.5
+STC-08XGE 8*10G RJ45, downward compatible, AC input, Rack compatible $181.5
+STC-80XGO 8*10G SFP, downward compatible, DC12V2A, Desktop Type $82.5
+Commercial PoE Switch(Unmanaged series)
+STC-024FP 2*10/100M RJ45 Uplink+4*10/100M PoE Downlink PoE af/at, 55W budget, Support Vlan/Extend mode, AC input, Rack compatible $9.9
+STC-028FP 2*10/100M RJ45 Uplink+8*10/100M PoE Downlink PoE af/at, 96W budget, Support Vlan/Extend mode, AC input, Rack compatible $13.8
+STC-028GFP 2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink PoE af/at, 96W budget, Support Vlan/Extend mode, AC input, Rack compatible $17.6
+STC-0216GFP 2*10/100/1000M RJ45 Uplink+16*10/100M PoE Downlink PoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible $37.4
+STC-0224GFP 2*10/100/1000M RJ45 Uplink+24*10/100M PoE Downlink PoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible $52.8
+STC-128GFP 1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100M PoE Downlink PoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible $22.6
+STC-1216GFP 1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100M PoE Downlink PoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible $44.0
+STC-1224GFP 1*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100M PoE Downlink PoE af/at, 300W budget, Support Vlan/Extend mode, AC input, Rack compatible $60.5
+STC-024GP 2*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink PoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible $18.7
+STC-028GP 2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink PoE af/at, 120W budget, Support Vlan/Extend mode, AC input, Rack compatible $24.2
+STC-114GP 1*Gigabit SFP+1*10/100/1000M RJ45 Uplink+4*10/100/1000M PoE Downlink PoE af/at, 60W budget, Support Vlan/Extend mode, AC input, Rack compatible $16.5
+STC-204GP 2*Gigabit SFP+4*10/100/1000M PoE Downlink PoE af/at, 60W budget, Support Vlan/Extend, AC input, Rack compatible $20.4
+STC-208GP 2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink PoE af/at, 120W budget, Support Extend mode, AC input, Rack compatible $26.4
+STC-228GP 2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+8*10/100/1000M PoE Downlink PoE af/at, 120W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible $30.8
+STC-2016GP 2*Gigabit SFP+16*10/100/1000M PoE Downlink PoE af/at, 300W budget, Support Vlan/Extend, AC input, Rack compatible $88.0
+STC-2216GP 2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M PoE Downlink PoE af/at, 200W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible $94.6
+STC-2024GP 2*Gigabit SFP+24*10/100/1000M PoE Downlink PoE af/at, 300W budget, Support Vlan/Extend, QoS, AC input, Rack compatible $93.5
+STC-2224GP 2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+24*10/100/1000M PoE Downlink PoE af/at, 300W budget, Support Extend mode, PoE priority, PoE Watchdog, AC input, Rack compatible $99.0
+STC-114XGDGP 1*10 Gigabit SFP+1*2.5 RJ45 Uplink+4*2.5G PoE Downlink, downward compatible PoE af/at, 60W budget, Support PoE priority, AC input, Rack compatible $44.0
+STC-108XGDGP 1*10 Gigabit SFP+8*2.5G PoE Downlink, downward compatible PoE af/at, 100W budget, Support PoE priority, AC input, Rack compatible $63.8
+L2 Managed: VLAN, MAC address, QoS, Ring, STP/RSTP/MSTP, Web/Telnet/CLI/SSH...
+L3 Managed: ARP, IPV4/IPV6, RIP, OSPF...
+Commercial Managed Switch(Non-PoE Series)
+STC-28GM 2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port L2 managed, AC input, Rack compatible $50.6
+STC-424GM 4*Gigabit SFP+24*10/100/1000M RJ45+1*Console Port L2 managed, AC input, Rack compatible $99.0
+STC-424XGGM 4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible L3 managed, AC input, Rack compatible $126.5
+STC-4248XGGCM 4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port Downward compatible, L3 managed, AC input, Rack compatible $297.0
+STC-448XGGM 4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible L3 managed, AC input, Rack compatible $253.0
+STC-624XGDGM 6*10 Gigabit SFP+24*2.5G RJ45+1*Console Port, downward compatible L3 managed, AC input, Rack compatible $330.0
+STC-120XGM 12*10 Gigabit SFP+1*Console Port, downward compatible L3 managed, AC input, Rack compatible $159.5
+Commercial PoE Managed Switch
+STC-28GPM 2*Gigabit SFP+8*10/100/1000M RJ45+1*Console Port L2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible $62.2
+STC-2216GPM 2*Gigabit SFP+2*10/100/1000M RJ45 Uplink+16*10/100/1000M PoE Downlink+1*Console Port L2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible $137.5
+STC-4424GCPM 4*Gigabit SFP/RJ45(Combo ports)+24*10/100/1000M+1*Console Port L2 managed, PoE af/at, 120W budget, Support PoE management, PoE watchdog, AC input, Rack compatible $148.5
+STC-424XGGPM 4*10 Gigabit SFP+24*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible L3 managed, PoE af/at, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible $253.0
+STC-448XGGPM 4*10 Gigabit SFP+48*10/100/1000M RJ45+1*USB Port+1*Console Port, downward compatible L3 managed, PoE af/at/bt, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible $396.0
+STC-624XGDGPM 6*10 Gigabit SFP+24*2.5G RJ45+1*Console Port, downward compatible L3 managed, PoE af/at/bt, 400W budget, Support PoE management, PoE watchdog, AC input, Rack compatible $396.0
+1. Prices are valid for 15 days
+2. Price term: EXW
+3. Warranty period: One year
+4. Lead time for less than 50pcs: 5~7 working days
+5. Customization is available
