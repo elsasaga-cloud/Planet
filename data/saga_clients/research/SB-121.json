@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（vintronsmartvision.com，快照 2026-10-21）",
- "summary": "印度安防集成/经销：官网「CCTV Manufacturer India | Vintron | CCTV Manufacturer India — PoE Switches, Cameras & Powe」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：HA60P、MY007A、VS-POE-42065、VS-POE-82096；表内「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。",
+ "type": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "10Gtek"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,45 +23,84 @@
    "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(43740003)",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "1991 年起的印度 CCTV 制造商，CE/FCC/BIS 认证",
+   "quote": "CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty.",
+   "url": "https://vintronsmartvision.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 管理型 / 数据中心类，从 10Gtek 买",
+   "quote": "PoE switch CCTV为主 DVR NVR / POE managed switch / 数据中心类产品 / 从10G tek买东西",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Varun Gupta",
+   "title": "Director",
+   "email": "varun@vintronsmartvision.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "印度",
   "other": "官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "CCTV 摄像机 / NVR 制造（印度）",
+  "PoE 交换机（自有 VS-POE 系列）",
+  "EMS 代工服务"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
   "region": "印度",
   "contact": "lead@vintronsmartvision.com、varun@vintronsmartvision.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://vintronsmartvision.com/）",
-  "官网公开邮箱：lead@vintronsmartvision.com",
-  "用户表兴趣/备注：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000"
+  "品类页 /gold-poe-switches、/network-poe-switch、/ultra-poe-switches、/premium-poe-switches",
+  "站内型号 VS-POE-42065 / VS-POE-82096 / VS-POE-42078",
+  "KP：Varun Gupta / Director（表内，电话 +91 98181 22003）",
+  "官网：EMS Services（有自有产线）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行",
+  "非主攻区（T5）；表内另有 quippro.kz / airlinkwifi.net 域名（关联或误配，需核）"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源"
  },
- "email_hook": "Varun, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?",
+ "products_seen": [
+  {
+   "brand": "Vintron（自有）",
+   "model": "VS-POE-82096",
+   "spec": "8 口 PoE 96W 非管理",
+   "saga": "STC-028GP（HRUI 列表价 $24.2，非 SmartByte）",
+   "url": "https://www.vintronsmartvision.com/network-poe-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Vintron（自有）",
+   "model": "VS-POE-42065",
+   "spec": "4 口 PoE 65W",
+   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+   "url": "https://vintronsmartvision.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

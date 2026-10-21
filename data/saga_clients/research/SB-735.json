@@ -3,10 +3,16 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（serverblink.com，快照 2026-10-21）",
- "summary": "美国系统集成/工程商：官网「PC, Computer & Server Parts | IT Hardware Store | Server Blink」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内型号：XGS2220-30F、XS3800-28-ZZ0101F、XGS2220-30HP、XMG-105；表内「卖几个牌子的 有marvell方案」；群发 5 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "美国 IT 硬件网店 Server Blink（PC / 服务器配件与网络设备，全美发货；站内 Zyxel XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP 等多千兆与 10G 型号，PLANET、MikroTik、Ubiquiti、TP-Link、Cisco；表内「卖几个牌子的，有 Marvell 方案」）；群发 5 次无回复。",
+ "type": "IT 硬件电商（多品牌）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Zyxel",
+  "PLANET",
+  "MikroTik",
+  "Ubiquiti",
+  "TP-Link"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +27,20 @@
    "quote": "卖几个牌子的 有marvell方案",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IT 硬件 / 服务器配件电商，全美发货",
+   "quote": "Shop IT hardware, computer hardware, PC & server parts at Server Blink. Get genuine products, affordable prices, and fast shipping across the US.",
+   "url": "https://www.serverblink.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "多品牌，有 Marvell 方案",
+   "quote": "卖几个牌子的 有marvell方案",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,36 +49,60 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 serverblink.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "PC / 服务器配件电商",
+  "网络设备（交换机 / 无线 / 光模块）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "IT 硬件电商（多品牌）",
   "region": "美国",
   "contact": "sales@serverblink.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.serverblink.com/）",
-  "官网公开邮箱：sales@serverblink.com",
-  "用户表兴趣/备注：卖几个牌子的 有marvell方案"
+  "站内型号 XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP（Zyxel）",
+  "站内 kw：switch 313 / cable 338 / 10g 87 / gigabit 103"
  ],
- "risks": [],
+ "risks": [
+  "IT 硬件电商：以正品品牌为卖点（genuine products），白牌需单独品类",
+  "无具名 KP（sales@）",
+  "2.5G 多千兆位 Saga 无标准型"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 15、PoE 154 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Next to the Zyxel XGS2220 and XMG lines you list, we can supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and the 24-PoE+ version in neutral packing from small lots — would a listed price band under the Zyxel equivalents work for your store, and which of the two first?",
+ "products_seen": [
+  {
+   "brand": "Zyxel",
+   "model": "XGS2220-30HP",
+   "spec": "24 口 PoE + 4×10G L3 Lite",
+   "saga": "STC-424XGGPM-280W",
+   "url": "https://www.serverblink.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Zyxel",
+   "model": "XGS2220-30F",
+   "spec": "24 SFP + 4×10G",
+   "saga": "（Saga 无商用 24 SFP 标准型）",
+   "url": "https://www.serverblink.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Zyxel",
+   "model": "XMG-105HP",
+   "spec": "5 口 2.5G PoE++",
+   "saga": "（Saga 无 2.5G 全端口标准型）",
+   "url": "https://www.serverblink.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

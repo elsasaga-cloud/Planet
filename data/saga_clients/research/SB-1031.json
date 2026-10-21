@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mro-tek.com，快照 2026-10-21）",
- "summary": "印度制造商（同行或 OEM 客户待核）：官网「MRO‑TEK — Integrating Next Generation Networks」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内型号：RJ-45、QSFP28、ECAT-01L、CORNUS-82P；表内「MC 工业FS 普通FS 周边产品；switch」；表内未见跟进记录。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "印度班加罗尔 MRO-TEK Realty Ltd（1984 年起的印度网络/电信/安防 OEM：「designed, manufactured and certified in India」；工业交换机 CORNUS-82P/84P、L3 LAVENDER-84X；表内「MC / 工业 FS / 普通 FS / 周边，从 Raisecom 买一些产品」；KP Arun Raj（AVP-Solution Sales）、Satish）；表内无跟进记录。",
+ "type": "印度 OEM 品牌商（Make in India，外采 ODM 整机/SKD）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Raisecom"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,47 +23,91 @@
    "quote": "MC 工业FS 普通FS 周边产品；switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "印度 OEM：企业网络/电信/安防产品在印度设计制造认证",
+   "quote": "MRO‑TEK is an Indian OEM of enterprise networking, telecom, and security products — designed, manufactured, and certified in India.",
+   "url": "https://www.mro-tek.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从 Raisecom 买产品，MC / 工业 FS",
+   "quote": "MC 工业FS 普通FS 周边产品 / switch；从raisecom买一些产品 / 之前联系过",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Arun Raj",
+   "title": "AVP-Solution Sales",
+   "email": "arun.raj@mro-tek.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Satish",
+   "title": "（表内联系人）",
+   "email": "satish@mro-tek.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "印度",
   "other": "官网 mro-tek.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "企业网络 / 电信 / 安防产品（印度 OEM 品牌）",
+  "工业交换机（CORNUS / LAVENDER 系列）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "印度 OEM 品牌商（Make in India，外采 ODM 整机/SKD）",
   "region": "印度",
   "contact": "arun.raj@mro-tek.com、satish@mro-tek.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.mro-tek.com/）",
-  "官网公开邮箱：info@mro-tek.com、sales@mro-tek.com、support@mro-tek.com",
-  "用户表兴趣/备注：MC 工业FS 普通FS 周边产品；switch"
+  "产品页 /products/industrial/switches/cornus-82p-v5-i、/cornus-84p-v5-i、/lavender-84x-l3-i",
+  "官网：Network Products Built in India for India；Trusted Since 1984",
+  "表内：从 Raisecom 买产品 → 已接受中国 ODM",
+  "KP：Arun Raj / AVP-Solution Sales；Satish（表内）"
  ],
  "risks": [
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "印度 BIS 强制认证（交换机类）：Saga 无 BIS，需由 MRO-TEK 以其名义取证",
+  "Make in India 定位：整机进口敏感，SKD/CKD 更可行",
+  "非主攻区（T5）；印度付款条件需核（LC/预付）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」"
  },
- "email_hook": "Arun, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Arun, for the CORNUS industrial PoE family, we can be a second ODM source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches — full units or SKD kits for local assembly — from small lots with CE/RoHS/FCC test reports; would an SKD option for your Make-in-India line be of interest?",
+ "products_seen": [
+  {
+   "brand": "MRO-TEK（自有）",
+   "model": "CORNUS-82P",
+   "spec": "工业 8 PoE + 2 SFP 管理型",
+   "saga": "STI-288GPM",
+   "url": "https://www.mro-tek.com/products/industrial/switches/cornus-82p-v5-i",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "MRO-TEK（自有）",
+   "model": "LAVENDER-84X-L3-I",
+   "spec": "工业 L3 8 GE + 4×10G",
+   "saga": "STI-488XGGPM（L2+，L3 待核）",
+   "url": "https://www.mro-tek.com/products/industrial/switches/lavender-84x-l3-i",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-121`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-121
@@ -12,15 +12,15 @@ score: 52
 country: 印度
 region: 南亚
 website: vintronsmartvision.com
-type: 安防集成/经销
+type: 印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）
 tier_tags: ["AI评估(IN)·DONE", "E已回复"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424XGGPM-280W
-price_tier: 20%
+p1: STC-28DGGPM
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度安防集成/经销：官网「CCTV Manufacturer India | Vintron | CCTV Manufacturer India — PoE Switches, Cameras & Powe」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：HA60P、MY007A、VS-POE-42065、VS-POE-82096；表内「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多）
+- **是谁**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。（调研 2026-10-21；表内兴趣：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | vintronsmartvision.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度（另见：哈萨克斯坦、台湾） | 事实（用户表）|
 | 网站/域名 | vintronsmartvision.com / quippro.kz / airlinkwifi.net / airlink-ilife.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Varun Gupta / diector / Leann | 事实（用户表） |
 | 来源（From） | 谷歌 / CPSE<br>2023 / 富通天下 / 自建站 | 事实（用户表） |
 | 兴趣（Interested in） | PoE switch CCTV为主<br>DVR NVR / POE managed switch / 数据中心类产品<br>从10G tek买东西 / 周边产品比较多 | 事实（用户表） |
@@ -65,32 +65,47 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（vintronsmartvision.com，快照 2026-10-21）
-- **是谁**：印度安防集成/经销：官网「CCTV Manufacturer India | Vintron | CCTV Manufacturer India — PoE Switches, Cameras & Powe」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内型号：HA60P、MY007A、VS-POE-42065、VS-POE-82096；表内「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；表内未见跟进记录。
-- **类型**：安防集成/经销
+- **是谁**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。
+- **类型**：印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）
+- **在卖/在用品牌**：10Gtek
 - **【官网快照】官网标题：CCTV Manufacturer India | Vintron | CCTV Manufacturer India — PoE Switches, Cameras & Powe；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty. Call 1800-121-4322.
   > 来源：https://vintronsmartvision.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(43740003)
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】1991 年起的印度 CCTV 制造商，CE/FCC/BIS 认证**
+  > CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty.
+  > 来源：https://vintronsmartvision.com/（抓取 2026-10-21）
+- **【用户表】PoE 管理型 / 数据中心类，从 10Gtek 买**
+  > PoE switch CCTV为主 DVR NVR / POE managed switch / 数据中心类产品 / 从10G tek买东西
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Varun Gupta（）varun@vintronsmartvision.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 印度 |
 | 其他 | 官网 vintronsmartvision.com，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 印度；contact: lead@vintronsmartvision.com、varun@vintronsmartvision.com
+- **业务线**：CCTV 摄像机 / NVR 制造（印度）；PoE 交换机（自有 VS-POE 系列）；EMS 代工服务
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Vintron（自有） | VS-POE-82096 | 8 口 PoE 96W 非管理 | STC-028GP（HRUI 列表价 $24.2，非 SmartByte） | https://www.vintronsmartvision.com/network-poe-switch（2026-10-21） |
+| Vintron（自有） | VS-POE-42065 | 4 口 PoE 65W | STC-204GP（HRUI 列表价 $20.4，非 SmartByte） | https://vintronsmartvision.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）；region: 印度；contact: lead@vintronsmartvision.com、varun@vintronsmartvision.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://vintronsmartvision.com/）
-  - 官网公开邮箱：lead@vintronsmartvision.com
-  - 用户表兴趣/备注：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（20% 档）——24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Varun, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 品类页 /gold-poe-switches、/network-poe-switch、/ultra-poe-switches、/premium-poe-switches
+  - 站内型号 VS-POE-42065 / VS-POE-82096 / VS-POE-42078
+  - KP：Varun Gupta / Director（表内，电话 +91 98181 22003）
+  - 官网：EMS Services（有自有产线）
+- **风险/边界**：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行；非主攻区（T5）；表内另有 quippro.kz / airlinkwifi.net 域名（关联或误配，需核）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源
+- **邮件切入句（英文）**：Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -137,7 +152,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Varun Gupta | — | lead@vintronsmartvision.com / varun@vintronsmartvision.com / +919818122003 | 用户表原值 | Clients/ 表 |
+| Varun Gupta | — | varun@vintronsmartvision.com | 调研核实（公开页） | 用户表 |
 | Leann | — | lead@vintronsmartvision.com / varun@vintronsmartvision.com / +919818122003 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -157,27 +172,27 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424XGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -205,14 +220,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Varun,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Varun, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Vintron（自有） VS-POE-82096 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

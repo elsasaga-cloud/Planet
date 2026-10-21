@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（enercon.co.il，快照 2026-10-21）",
- "summary": "以色列制造商（同行或 OEM 客户待核）：官网「Enercon Technologies, Ltd. | Military Power Supplies and Networking Field-Proven Solutions」（en-il）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：MIL-STD-810、MIL-STD-461、MIL-STD-1275、MIL-STD-704；表内「工业FS MC 和平时看到的外观不太一样；Sagit Pesach-Mualem Hanita Atzmoni Guy Grabarsky」；群发 16 次、无回复。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "以色列 Enercon Technologies Ltd（军用电源 / 军用 PDU / 加固网络设备设计制造商，MIL-STD-810/461/1275/704，航空电子等军事应用；表内「工业 FS / MC，外观和平时看到的不太一样」，KP Tsahi Sucher、Hanita Atzmoni 等）；群发 16 次无回复。",
+ "type": "军工制造商（军用电源与加固网络）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,46 +21,54 @@
    "quote": "工业FS MC 和平时看到的外观不太一样；Sagit Pesach-Mualem Hanita Atzmoni Guy Grabarsky",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "军用电源、军用 PDU 与加固网络方案设计制造商",
+   "quote": "Enercon Technologies Ltd is a leading designer and manufacturer of military power supplies, military PDU and rugged networking solutions for a wide variety of military applications, including avionics",
+   "url": "https://enercon.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC",
+   "quote": "工业FS MC 和平时看到的外观不太一样",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "守界：以色列军工制造商（军用电源与加固网络，MIL-STD，航空电子应用）；c_sub=守界：军工",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 enercon.co.il，语言 en-il，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "军用电源 / PDU",
+  "加固网络设备（军事应用）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "军工制造商（军用电源与加固网络）",
   "region": "以色列",
   "contact": "tsahi.sucher@enercon.co.il、hanita.atzmoni@enercon.co.il"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://enercon.co.il/）",
-  "官网公开邮箱：sales@enercon.co.il",
-  "用户表兴趣/备注：工业FS MC 和平时看到的外观不太一样；Sagit Pesach-Mualem Hanita Atzmoni Guy Grabarsky"
+  "官网：Military Power Supplies and Networking Field-Proven Solutions；MIL-STD-810 / 461 / 1275 / 704"
  ],
  "risks": [
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "守界：军用电源与军用加固网络设备制造商，应用为军事/航空电子",
+  "16 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 25,
+  "why": "军事应用（MIL-STD、航空电子）= 守界（INH：military 不做）→ 改 C"
  },
- "email_hook": "Tsahi, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：军工守界）"
 }

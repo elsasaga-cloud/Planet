@@ -2,7 +2,7 @@
 
 > **评级 B**　|　法国　|　档案编号 `SB-533`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 8 次（2025-02-11 → 2025-10-22）　|　**所在清单**：A优质名单(FR)、AI评估(FR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：自有品牌网络配件电商（工厂直销定位，OEM 采购）（推断）　|　**历史关系**：推送 8 次（2025-02-11 → 2025-10-22）　|　**所在清单**：A优质名单(FR)、AI评估(FR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-533
@@ -12,15 +12,15 @@ score: 38
 country: 法国
 region: 欧洲
 website: elfcams.com
-type: 系统集成/工程商
+type: 自有品牌网络配件电商（工厂直销定位，OEM 采购）
 tier_tags: ["A优质名单(FR)", "AI评估(FR)·DONE"]
 deal: no
 replies: 0
 followups: 8
 first_contact: 2025-02-11
 last_contact: 2025-10-22
-p1: STC-28DGGPM
-price_tier: 25%
+p1: STC-424XGGM
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：法国系统集成/工程商：官网「Elfcam | Votre spécialiste en équipements fibre optique et réseau」（fr-FR）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；站内品牌：Cisco；站内型号：FR36844111856、FR72942871351、ES00284989993、ITN0078120C；表内「商业POE 外壳普遍一般」；群发 8 次、无回复。（调研 2026-10-21；表内兴趣：商业POE 外壳普遍一般）
+- **是谁**：法国 Elfcam（光纤与网络设备专家：FTTx / 数据中心光缆、SFP、Cat6A–Cat8、Starlink 专业配件；「Prix vente directe usine」自有品牌直销；品类页 /poe-switch、/home-fiber/10g-switch、/home-fiber/qsfp28-switch；10G 词频 203、SFP 211；表内「商业 PoE，外壳普遍一般」；KP Franck Dupont（Partner））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：商业POE 外壳普遍一般）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型；$138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | elfcams.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 法国 | 事实（用户表）|
 | 网站/域名 | elfcams.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 自有品牌网络配件电商（工厂直销定位，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Franck Dupont / Partner | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE 外壳普遍一般 | 事实（用户表） |
@@ -65,8 +65,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（elfcams.com，快照 2026-10-21）
-- **是谁**：法国系统集成/工程商：官网「Elfcam | Votre spécialiste en équipements fibre optique et réseau」（fr-FR）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆；站内品牌：Cisco；站内型号：FR36844111856、FR72942871351、ES00284989993、ITN0078120C；表内「商业POE 外壳普遍一般」；群发 8 次、无回复。
-- **类型**：系统集成/工程商
+- **是谁**：法国 Elfcam（光纤与网络设备专家：FTTx / 数据中心光缆、SFP、Cat6A–Cat8、Starlink 专业配件；「Prix vente directe usine」自有品牌直销；品类页 /poe-switch、/home-fiber/10g-switch、/home-fiber/qsfp28-switch；10G 词频 203、SFP 211；表内「商业 PoE，外壳普遍一般」；KP Franck Dupont（Partner））；群发 8 次无回复。
+- **类型**：自有品牌网络配件电商（工厂直销定位，OEM 采购）
 - **在卖/在用品牌**：Cisco
 - **【官网快照】官网标题：Elfcam | Votre spécialiste en équipements fibre optique et réseau；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Câbles fibre optique, SFP, Ethernet Cat6A–Cat8 et accessoires Starlink testés en laboratoire. Compatible tous fabricants. Expédition Europe, retours 30 jours.
@@ -74,23 +74,31 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 商业POE 外壳普遍一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】光纤与网络设备专家，实验室测试、兼容所有厂商、欧洲发货**
+  > Câbles fibre optique, SFP, Ethernet Cat6A–Cat8 et accessoires Starlink testés en laboratoire. Compatible tous fabricants. Expédition Europe, retours 30 jours.
+  > 来源：https://www.elfcams.com/（抓取 2026-10-21）
+- **【用户表】商业 PoE，外壳一般**
+  > 商业POE 外壳普遍一般
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Franck Dupont（）contact@elfcams.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 法国 |
 | 其他 | 官网 elfcams.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；电信 / FTTH / ISP 设备；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 系统集成/工程商；region: 法国；contact: contact@elfcams.com
+- **业务线**：光缆 / 光模块 / 铜缆（自有品牌直销）；交换机 & PoE；Starlink 专业配件
+- **触达通道（公开）**：role: 自有品牌网络配件电商（工厂直销定位，OEM 采购）；region: 法国；contact: contact@elfcams.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.elfcams.com/）
-  - 官网公开邮箱：contact@elfcams.com、sav@elfcams.com
-  - 用户表兴趣/备注：商业POE 外壳普遍一般
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Franck, alongside the Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Spécialiste fibre optique FTTx & Data Centre；Switches & PoE — le réseau prêt à déployer；Prix vente directe usine
+  - 站内 kw：sfp 211 / 10g 203 / poe 255 / fibre 174
+  - 文章页 /article/comment-choisir-switch（选购指南）
+- **风险/边界**：自有品牌电商：已有深圳货源（表内「外壳普遍一般」= 低价白牌），需以外壳/品质差异切入；群发 8 次无回复：改向 Partner 具名首触；全 10G/2.5G 小交换机（home-fiber 10g-switch 页）Saga 无标准型
+- **Saga 对位结论**：P1 STC-424XGGM（30% 档）——自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
+- **邮件切入句（英文）**：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -140,7 +148,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Franck Dupont | — | contact@elfcams.com | 用户表原值 | Clients/ 表 |
+| Franck Dupont | — | contact@elfcams.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -157,27 +165,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGM | 深挖对位：自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型 | $138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（自有品牌网络配件电商（工厂直销定位，OEM 采购）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：欧洲主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424XGGM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -205,25 +214,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Franck,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Franck, alongside the Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

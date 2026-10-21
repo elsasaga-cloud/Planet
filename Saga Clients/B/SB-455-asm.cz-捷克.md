@@ -2,7 +2,7 @@
 
 > **评级 B**　|　捷克　|　档案编号 `SB-455`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：推送 16 次（2024-05-08 → 2025-10-09）　|　**所在清单**：A优质名单(CZ)、AI评估(CZ)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：ICT 分销商（PLANET 捷克渠道，面向安装商/SI）（推断）　|　**历史关系**：推送 16 次（2024-05-08 → 2025-10-09）　|　**所在清单**：A优质名单(CZ)、AI评估(CZ)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-455
@@ -12,7 +12,7 @@ score: 40
 country: 捷克
 region: 欧洲
 website: asm.cz
-type: 分销商/经销商
+type: ICT 分销商（PLANET 捷克渠道，面向安装商/SI）
 tier_tags: ["A优质名单(CZ)", "AI评估(CZ)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：捷克分销商/经销商：官网「ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ」（cs-CZ）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS-232、RJ-45、RJ-10、EN50155；表内「POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的」；群发 16 次、无回复。（调研 2026-10-21；表内兴趣：POE　FS　光模块　CVI　SDI　同轴  工业FS等；POE　FS　光模块　CVI　SDI　同轴  工业FS等 很多都是Planet的）
+- **是谁**：捷克布尔诺 ASM 100MEGA Distribution spol. s r.o.（「数据与电信网络供应商」：面向安装公司与系统集成商的 ICT 分销，提供专业培训；站内 PLANET 词频 61（表内「很多都是 Planet 的」）、Dahua 105、Hikvision 60、TP-Link；表内兴趣 PoE FS / 光模块 / CVI / SDI / 同轴 / 工业 FS；KP Richard Hemzal（Purchasing，hemzal@））；群发 16 次无回复。（调研 2026-10-21；表内兴趣：POE　FS　光模块　CVI　SDI　同轴  工业FS等；POE　FS　光模块　CVI　SDI　同轴  工业FS等 很多都是Planet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-09）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | asm.cz（取自域名，公司全名待核） | 推断 |
 | 国家 | 捷克 | 事实（用户表）|
 | 网站/域名 | asm.cz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | ICT 分销商（PLANET 捷克渠道，面向安装商/SI） | 推断（据兴趣/备注关键词） |
 | 联系人 | Hemzal Richard / Purchasing可以多跟进一下 / Hemzal Richard / Purchasing | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | POE　FS　光模块　CVI　SDI　同轴  工业FS等 / POE　FS　光模块　CVI　SDI　同轴  工业FS等<br>很多都是Planet的 | 事实（用户表） |
@@ -55,33 +55,40 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（asm.cz，快照 2026-10-21）
-- **是谁**：捷克分销商/经销商：官网「ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ」（cs-CZ）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS-232、RJ-45、RJ-10、EN50155；表内「POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的」；群发 16 次、无回复。
-- **类型**：分销商/经销商
+- **是谁**：捷克布尔诺 ASM 100MEGA Distribution spol. s r.o.（「数据与电信网络供应商」：面向安装公司与系统集成商的 ICT 分销，提供专业培训；站内 PLANET 词频 61（表内「很多都是 Planet 的」）、Dahua 105、Hikvision 60、TP-Link；表内兴趣 PoE FS / 光模块 / CVI / SDI / 同轴 / 工业 FS；KP Richard Hemzal（Purchasing，hemzal@））；群发 16 次无回复。
+- **类型**：ICT 分销商（PLANET 捷克渠道，面向安装商/SI）
+- **在卖/在用品牌**：PLANET, Dahua, Hikvision, TP-Link
 - **【官网快照】官网标题：ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ
   > 来源：https://www.asm.cz/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】面向安装公司与系统集成商的 ICT 分销**
+  > ICT distribuce pro montážní firmy a systémové integrátory. ; Proč ASM? ; Naše specializace ; Odborná školení
+  > 来源：https://www.asm.cz/（抓取 2026-10-21）
+- **【用户表】PoE FS / 光模块 / 工业 FS，很多是 PLANET 的**
+  > POE FS 光模块 CVI SDI 同轴 工业FS等；很多都是Planet的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Richard Hemzal（）hemzal@asm.cz 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 捷克 |
 | 其他 | 官网 asm.cz，语言 cs-CZ，快照状态 ok；角色判定来源：表内早期 AI 描述 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 捷克；contact: hemzal@asm.cz
+- **业务线**：数据与电信网络产品分销（安装商 / SI）；安防（Dahua / Hikvision）配套；专业培训
+- **触达通道（公开）**：role: ICT 分销商（PLANET 捷克渠道，面向安装商/SI）；region: 捷克；contact: hemzal@asm.cz
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.asm.cz/）
-  - 官网公开邮箱：podpora@asm.cz
-  - 用户表兴趣/备注：POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的
-  - 表内早期 AI 描述（未核实）：捷克安防及通信设备分销商，销售PoE交换机、光模块、监控设备等
-- **风险/边界**：群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Hemzal, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 官网：ICT distribuce pro montážní firmy a systémové integrátory；Odborná školení（专业培训）
+  - 站内 kw：poe 382 / sfp 103 / planet 61 / dahua 105 / hikvision 60 / odm 34
+  - KP：Richard Hemzal / Purchasing（表内，「可以多跟进一下」）
+- **风险/边界**：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入；群发 16 次无回复：改向 Purchasing 具名首触；CVI/SDI/同轴类需求 Saga 不做（只报交换机/MC）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS
+- **邮件切入句（英文）**：Richard, next to the PLANET PoE range you distribute, we supply Marvell-based 24-PoE L2+ (4 SFP) and 8-PoE + 2 SFP switches in neutral packing from small lots, CE/RoHS — which PLANET port count do your installers pull most, so we quote the matching model first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -140,6 +147,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Richard Hemzal | — | hemzal@asm.cz | 调研核实（公开页） | 用户表 |
 | Hemzal Richard | — | hemzal@asm.cz | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -157,7 +165,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（ICT 分销商（PLANET 捷克渠道，面向安装商/SI）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -209,9 +217,9 @@ updated: 2026-10-21
 **主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hi Hemzal,
+Hi Richard,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Hemzal, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Richard, next to the PLANET PoE range you distribute, we supply Marvell-based 24-PoE L2+ (4 SFP) and 8-PoE + 2 SFP switches in neutral packing from small lots, CE/RoHS — which PLANET port count do your installers pull most, so we quote the matching model first?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（kzn-gps.ru，快照 2026-10-21）",
- "summary": "俄罗斯网络/安防经销或集成（官网未见角色词，待核）：官网「Главная」（ru）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ubiquiti、MikroTik；站内型号：LTE-4G-3G-2G-GSM、RJ-45、RJ45-RJ45、QSFP28；表内「Switch等啥都卖；7-9173910585 WA」；群发 14 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "俄罗斯喀山网络设备网店 kzn-gps.ru（品类：PoE 交换机、交换模块、PoE 电源、FTTH、路由；站内 MikroTik / Ubiquiti / TP-Link；表内「Switch 等啥都卖」，KP Alexander（Senior Manager），WhatsApp +7 917 391 0585）；群发 14 次无回复。",
+ "type": "网络设备电商（喀山）",
  "size": "",
  "brands_seen": [
   "Ubiquiti",
@@ -24,44 +24,64 @@
    "quote": "Switch等啥都卖；7-9173910585 WA",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "俄语网店品类：PoE 交换机 / 交换模块 / PoE 电源",
+   "quote": "/marshrutizatory-routery/kommutatory/poe-switches ; /aksessuary/switch-modules ; /pitanie/bloki-pitaniya-poe",
+   "url": "https://kzn-gps.ru/marshrutizatory-routery/kommutatory/poe-switches",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Switch 等啥都卖，有 WA",
+   "quote": "Switch等啥都卖；7-9173910585 WA",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Alexander",
+   "title": "Senior Manager",
+   "email": "admin@kzn-gps.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 kzn-gps.ru，语言 ru，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络设备电商（交换机 / 路由 / 光模块 / PoE 电源 / FTTH）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "网络设备电商（喀山）",
   "region": "俄罗斯",
   "contact": "admin@kzn-gps.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://kzn-gps.ru/）",
-  "在售同口型交换品牌：Ubiquiti、MikroTik → 直接对位替换",
-  "用户表兴趣/备注：Switch等啥都卖；7-9173910585 WA"
+  "品类页 /marshrutizatory-routery/kommutatory/poe-switches、/aksessuary/switch-modules、/pitanie/bloki-pitaniya-poe",
+  "站内 kw：poe 224 / sfp 123 / ethernet 81 / ftth 21",
+  "KP：Alexander / Senior Manager；WA +7 917 391 0585（表内）"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流经第三国，非主攻区（T5）",
+  "群发 14 次无回复：改 WhatsApp 短消息（表内有号码）",
+  "SFP 模块需求 Saga 无价目（Q-32）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）"
  },
- "email_hook": "Alexander, alongside the Ubiquiti / MikroTik lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24?"
 }

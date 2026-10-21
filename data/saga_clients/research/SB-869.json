@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tccomm.com，快照 2026-10-21）",
- "summary": "美国工业自动化/IoT 方案商：官网「TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions」；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS-422、RS-232、TC3846-6、TC3848-1；表内「工业FS MC 光猫；Switch 协议类产品」；群发 19 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "美国加州 TC Communications（光纤通信与工业以太网产品设计制造商：复用器、DIN 工业交换机、JumboSwitch；行业：公用事业 / 公共安全 / 政府 / 轨道 / 航空；表内「工业 FS / MC / 光猫，Switch 协议类产品」；KP Steve Cragg（stevec@）、Larry（novaca.com）、Fredrick Chow）；群发 19 次无回复。",
+ "type": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,73 @@
    "quote": "工业FS MC 光猫；Switch 协议类产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "为公用事业、公共安全、交通等工业网络设计制造光纤通信产品",
+   "quote": "TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks",
+   "url": "https://tccomm.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC / 光猫 / 协议类",
+   "quote": "工业FS MC 光猫 / Switch 协议类产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Steve Cragg",
+   "title": "（表内联系人）",
+   "email": "stevec@tccomm.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Fredrick Chow",
+   "title": "（表内联系人）",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 tccomm.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤复用器 / 工业以太网（自研）",
+  "DIN 工业交换机",
+  "行业：公用事业 / 公共安全 / 轨道 / 航空"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业光通信制造商（自有品牌，入门工业交换机可 OEM）",
   "region": "美国",
   "contact": "larry@novaca.com、stevec@tccomm.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://tccomm.com/）",
-  "官网公开邮箱：technicalsupport@tccomm.com",
-  "用户表兴趣/备注：工业FS MC 光猫；Switch 协议类产品"
+  "产品页 /FiberOpticProducts/Products/Multiplexers/Ethernet/192/DIN-Rail-Industrial-Ethernet-Swit…、/JumboSwitch/Index/Industrial_Networking",
+  "站内型号 TC3846-6 / TC3848-1 / TC3240",
+  "KP：Steve Cragg、Fredrick Chow、Larry（表内）"
  ],
  "risks": [
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "守界：公用事业 / 公共安全 / 政府 / 轨道 / 航空为关键基础设施，只供非关键节点、不进轨道车载",
+  "自研制造商：外采意愿未知，19 次无回复",
+  "表内 novaca.com 为另一域名（Larry）：身份需核"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自研高端复用器为主，DIN 入门工业交换机可外采 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 TC 标；MC 位 STI-110GE；仅报非关键节点（公用事业/公共安全/轨道守界）"
  },
- "email_hook": "Larry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?"
 }

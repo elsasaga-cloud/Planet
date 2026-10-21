@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（neteon.net，快照 2026-10-21）",
- "summary": "美国IT / 网络安全服务商（交换机为附带）：官网「Your Partner for Industrial Digital Transformation | Neteon」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Moxa；站内型号：MIL-STD-810H、EN51055、MPC-3000、BXP-A101；表内「串口 工业FS」；表内未见跟进记录。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "美国 Neteon Technologies（工业数字化方案分销 20+ 年：Moxa（词频 31，BXP-A101 边缘 AI）、Cincoze 面板 PC、ASUS IoT；方案页 OT 工业网络 / 边缘 AI / 无风扇 PC；表内「串口、工业 FS，在用很多有名的牌子」）；表内无跟进记录。",
+ "type": "工业网络与边缘计算分销商（Moxa 渠道）",
  "size": "",
  "brands_seen": [
-  "Moxa"
+  "Moxa",
+  "Cincoze"
  ],
  "evidence": [
   {
@@ -23,6 +24,20 @@
    "quote": "串口 工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "20+ 年工业网络方案经验，IIoT",
+   "quote": "Over 20+ years of providing Industrial Networking solutions have given us deep technological expertise and shaped a proven framework for our customers in the IIoT",
+   "url": "https://www.neteon.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "串口 / 工业 FS，多有名牌子",
+   "quote": "串口 工业FS；在用很多有名的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,36 +46,34 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 neteon.net，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "工业网络（Moxa）分销",
+  "边缘 AI / 工业 PC（Cincoze、ASUS IoT）"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "工业网络与边缘计算分销商（Moxa 渠道）",
   "region": "美国",
   "contact": "sales@neteon.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.neteon.net/）",
-  "在售工业网络品牌：Moxa → 工业线对位",
-  "用户表兴趣/备注：串口 工业FS"
+  "方案页 /solutions/ot-industrial-networking、/solutions/industrial-edge-ai",
+  "站内品牌 Moxa / Cincoze / ASUS；kw industrial 188"
  ],
  "risks": [
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期"
+  "Moxa 正规渠道：引入白牌意愿低",
+  "串口类需求 Saga 不做",
+  "无具名 KP（sales@）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：IT / 网络安全服务商（交换机为附带）→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做"
  },
- "email_hook": "Alongside the Moxa lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?"
 }

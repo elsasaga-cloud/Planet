@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（larch-networks.com，快照 2026-10-21）",
- "summary": "以色列工业自动化/IoT 方案商：官网「Larch Networks — Tailor-made Network Software and Hardware Development」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：LN-1508G-4XGF-I-M、LN-1508GP-4XGF-I-M、LN-1508G-4XGF-I、LN-1508GP-4XGF-I；表内「dcn 工业FS 中科德能的」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。",
+ "type": "网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "DCN",
+  "中科德能"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,44 +24,91 @@
    "quote": "dcn 工业FS 中科德能的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "系统工程 / 部署 / 实施，定制网络软硬件",
+   "quote": "Larch Networks is a company specializing in systems engineering, deployment, and implementation.",
+   "url": "https://larch-networks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DCN / 中科德能工业 FS",
+   "quote": "dcn 工业FS 中科德能的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Alexander Cheskis",
+   "title": "（表内联系人）",
+   "email": "alexander@larch-networks.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Andrey Zarudniy",
+   "title": "（表内联系人）",
+   "email": "azarudniy@larch-networks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "定制网络软件 / 硬件开发（SONiC）",
+  "自有品牌工业交换机（LN 系列）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）",
   "region": "以色列",
   "contact": "alexander@larch-networks.com、azarudniy@larch-networks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://larch-networks.com/）",
-  "官网公开邮箱：55-966-1282info@larch-networks.com、info@larch-networks.com",
-  "用户表兴趣/备注：dcn 工业FS 中科德能的"
+  "产品页 /larch-networks-devices/industrial-switches/8xpoe-industrial-switch/、/16xpoe-industrial-switch/、/48xpoe-industrial-switch/",
+  "站内型号 LN-1508G-4XGF-I-M / LN-1508GP-4XGF-I-M / LN-2308GP-2GE-I",
+  "官网：Electronica India 2026 参展；Hardware-Accelerated BFD+ for SONiC",
+  "KP：Alexander Cheskis、Andrey Zarudniy（表内邮箱）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "以色列（T5 非主攻区）；物流/保险条件需核",
+  "自有软件栈（SONiC/BFD+）：可能要求开放平台/SDK，Saga 需与 SmartByte 确认固件开放度",
+  "现供应商为 DCN/中科德能：价格基准已低"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-488XGGPM",
+  "tier": 30,
+  "why": "自有 LN-1508GP-4XGF-I-M（工业 8 PoE + 4×10G SFP+ 管理）→ Saga STI-488XGGPM（工业 8 PoE + 4×10G L2+，$178.7 @30%）；8 PoE + 2 GE 位 STI-288DGGPM；现供应商 DCN/中科德能 = 已接受中国 ODM，可谈二供"
  },
- "email_hook": "Alexander, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alexander, for the LN-1508GP-4XGF class industrial switches (8 PoE + 4×10G SFP+), we can be a second ODM source on a Marvell platform — your firmware/SONiC requirements discussed case by case — from small lots with CE/RoHS/FCC; which model in the LN range needs a second source first?",
+ "products_seen": [
+  {
+   "brand": "Larch（自有）",
+   "model": "LN-1508GP-4XGF-I-M",
+   "spec": "工业 8 PoE + 4×10G SFP+ 管理",
+   "saga": "STI-488XGGPM",
+   "url": "https://larch-networks.com/larch-networks-devices/industrial-switches/8xpoe-industrial-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Larch（自有）",
+   "model": "LN-2308GP-2GE-I",
+   "spec": "工业 8 PoE + 2 GE",
+   "saga": "STI-288GP / STI-288GPM",
+   "url": "https://larch-networks.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

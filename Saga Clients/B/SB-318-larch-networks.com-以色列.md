@@ -2,7 +2,7 @@
 
 > **评级 B**　|　以色列　|　档案编号 `SB-318`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-318
@@ -12,15 +12,15 @@ score: 44
 country: 以色列
 region: 中东
 website: larch-networks.com
-type: 工业自动化/IoT 方案商
+type: 网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）
 tier_tags: ["A已回复"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
-price_tier: 25%
+p1: STI-488XGGPM
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：以色列工业自动化/IoT 方案商：官网「Larch Networks — Tailor-made Network Software and Hardware Development」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：LN-1508G-4XGF-I-M、LN-1508GP-4XGF-I-M、LN-1508G-4XGF-I、LN-1508GP-4XGF-I；表内「dcn 工业FS 中科德能的」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：dcn 工业FS 中科德能的）
+- **是谁**：以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。（调研 2026-10-21；表内兴趣：dcn 工业FS 中科德能的）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-488XGGPM — 深挖对位：自有 LN-1508GP-4XGF-I-M（工业 8 PoE + 4×10G SFP+ 管理）→ Saga STI-488XGGPM（工业 8 PoE + 4×10G L2+，$178.7 @30%）；8 PoE + 2 GE 位 STI-288DGGPM；现供应商 DCN/中科德能 = 已接受中国 ODM，可谈二供；$178.8 USD EXW（30% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | larch-networks.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 以色列 | 事实（用户表）|
 | 网站/域名 | larch-networks.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 工业自动化/IoT 方案商 | 推断（据兴趣/备注关键词） |
+| 类型 | 网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Alexander Cheskis / Andrey Zarudniy | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | dcn 工业FS 中科德能的 | 事实（用户表） |
@@ -55,32 +55,48 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（larch-networks.com，快照 2026-10-21）
-- **是谁**：以色列工业自动化/IoT 方案商：官网「Larch Networks — Tailor-made Network Software and Hardware Development」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：LN-1508G-4XGF-I-M、LN-1508GP-4XGF-I-M、LN-1508G-4XGF-I、LN-1508GP-4XGF-I；表内「dcn 工业FS 中科德能的」；表内未见跟进记录。
-- **类型**：工业自动化/IoT 方案商
+- **是谁**：以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。
+- **类型**：网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）
+- **在卖/在用品牌**：DCN, 中科德能
 - **【官网快照】官网标题：Larch Networks — Tailor-made Network Software and Hardware Development；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Larch Networks is a company specializing in systems engineering, deployment, and implementation. The team is made up of experienced professionals with a strong background in managing complex projects, designing systems, and integrating fabr
   > 来源：https://larch-networks.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > dcn 工业FS 中科德能的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】系统工程 / 部署 / 实施，定制网络软硬件**
+  > Larch Networks is a company specializing in systems engineering, deployment, and implementation.
+  > 来源：https://larch-networks.com/（抓取 2026-10-21）
+- **【用户表】DCN / 中科德能工业 FS**
+  > dcn 工业FS 中科德能的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Alexander Cheskis（）alexander@larch-networks.com 〔用户表〕
+- **KP**：Andrey Zarudniy（）azarudniy@larch-networks.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 以色列 |
 | 其他 | 官网 larch-networks.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；数据中心 / 企业 IT；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 工业自动化/IoT 方案商；region: 以色列；contact: alexander@larch-networks.com、azarudniy@larch-networks.com
+- **业务线**：定制网络软件 / 硬件开发（SONiC）；自有品牌工业交换机（LN 系列）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Larch（自有） | LN-1508GP-4XGF-I-M | 工业 8 PoE + 4×10G SFP+ 管理 | STI-488XGGPM | https://larch-networks.com/larch-networks-devices/industrial-switches/8xpoe-industrial-switch/（2026-10-21） |
+| Larch（自有） | LN-2308GP-2GE-I | 工业 8 PoE + 2 GE | STI-288GP / STI-288GPM | https://larch-networks.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）；region: 以色列；contact: alexander@larch-networks.com、azarudniy@larch-networks.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://larch-networks.com/）
-  - 官网公开邮箱：55-966-1282info@larch-networks.com、info@larch-networks.com
-  - 用户表兴趣/备注：dcn 工业FS 中科德能的
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alexander, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 产品页 /larch-networks-devices/industrial-switches/8xpoe-industrial-switch/、/16xpoe-industrial-switch/、/48xpoe-industrial-switch/
+  - 站内型号 LN-1508G-4XGF-I-M / LN-1508GP-4XGF-I-M / LN-2308GP-2GE-I
+  - 官网：Electronica India 2026 参展；Hardware-Accelerated BFD+ for SONiC
+  - KP：Alexander Cheskis、Andrey Zarudniy（表内邮箱）
+- **风险/边界**：以色列（T5 非主攻区）；物流/保险条件需核；自有软件栈（SONiC/BFD+）：可能要求开放平台/SDK，Saga 需与 SmartByte 确认固件开放度；现供应商为 DCN/中科德能：价格基准已低
+- **Saga 对位结论**：P1 STI-488XGGPM（30% 档）——自有 LN-1508GP-4XGF-I-M（工业 8 PoE + 4×10G SFP+ 管理）→ Saga STI-488XGGPM（工业 8 PoE + 4×10G L2+，$178.7 @30%）；8 PoE + 2 GE 位 STI-288DGGPM；现供应商 DCN/中科德能 = 已接受中国 ODM，可谈二供
+- **邮件切入句（英文）**：Alexander, for the LN-1508GP-4XGF class industrial switches (8 PoE + 4×10G SFP+), we can be a second ODM source on a Marvell platform — your firmware/SONiC requirements discussed case by case — from small lots with CE/RoHS/FCC; which model in the LN range needs a second source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +138,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alexander Cheskis | — | alexander@larch-networks.com / azarudniy@larch-networks.com | 用户表原值 | Clients/ 表 |
+| Alexander Cheskis | — | alexander@larch-networks.com | 调研核实（公开页） | 用户表 |
+| Andrey Zarudniy | — | azarudniy@larch-networks.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -138,27 +155,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业自动化/IoT 方案商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-488XGGPM | 深挖对位：自有 LN-1508GP-4XGF-I-M（工业 8 PoE + 4×10G SFP+ 管理）→ Saga STI-488XGGPM（工业 8 PoE + 4×10G L2+，$178.7 @30%）；8 PoE + 2 GE 位 STI-288DGGPM；现供应商 DCN/中科德能 = 已接受中国 ODM，可谈二供 | $178.8 USD EXW（30% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488XGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-488XGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入
+- **O**：P1 STI-488XGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -186,25 +204,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Alexander,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alexander, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. Alexander, for the LN-1508GP-4XGF class industrial switches (8 PoE + 4×10G SFP+), we can be a second ODM source on a Marvell platform — your firmware/SONiC requirements discussed case by case — from small lots with CE/RoHS/FCC; which model in the LN range needs a second source first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 中科德能 class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

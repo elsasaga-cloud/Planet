@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（promeshswitch.com，快照 2026-10-21）",
- "summary": "德国系统集成/工程商：官网「PROmesh」（de-DE）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：promesh-b12-poe、promesh-p9、promesh-b8、promesh-u3；表内「工业FS」；群发 14 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "德国 PROmesh（Indu-Sol GmbH 的工业交换机品牌站：PROmesh B8 compact / B12 PoE / P9+ / U3 三大家族，「Bestpreise für Netzwerkprofis」；与 SB-314 InduSol America 同一集团；表内「工业 FS，质量高」）；群发 14 次无回复。",
+ "type": "同行厂商（Indu-Sol PROmesh 自产）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,54 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PROmesh 三大工业交换机家族",
+   "quote": "Die Serie der PROmesh Switches umfasst drei Familien leistungsfähiger Switches für alle industriellen Anwendungen.",
+   "url": "https://promeshswitch.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS，质量高",
+   "quote": "工业FS；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行厂商：Indu-Sol GmbH 自产 PROmesh 工业交换机品牌站，非 OEM 买家；c_sub=厂商办事处/同行",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 promeshswitch.com，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业交换机（PROmesh 自有品牌）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "同行厂商（Indu-Sol PROmesh 自产）",
   "region": "德国",
   "contact": "info@indu-sol.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://promeshswitch.com/）",
-  "官网公开邮箱：info@indu-sol.com",
-  "用户表兴趣/备注：工业FS"
+  "产品页 /product/promesh-b12-poe/、/promesh-p9/、/promesh-b8/、/promesh-u3/",
+  "官网：Die Serie der PROmesh Switches umfasst drei Familien"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "同行厂商：PROmesh 自研自产（德国），不会采购中国白牌",
+  "与 SB-314 InduSol America 同集团，两档均 C"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "PROmesh 为 Indu-Sol 自研自产工业交换机（德国）→ 非 OEM 买家 → 改 C（与 SB-314 同口径）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：同行厂商）"
 }
