@@ -1,0 +1,39 @@
+{
+ "code": "SA-067",
+ "name_official": "Direktronik AB（Nynäshamn, Sweden；Lagercrantz Group 子公司）",
+ "website_status": "在线",
+ "summary": "斯德哥尔摩南郊的网络/数据通信硬件进口分销商（1986 年创立，2007 年起属上市集团 Lagercrantz；约 25 人，营收约 1.4 亿 SEK），自有品牌产品 + 分销，面向企业/公共部门（Svenska Kraftnät 框架协议），2026 年收购 AB Qvintus、挪威 Nexlan。用户表：A 已回复 1 次，联系人 Anders Hedin；兴趣 MC / 工业 FS / VC / SDI / SFP 及周边，「和 E-link 深度合作」。",
+ "type": "分销商/进口商（自有品牌 + 多品牌）",
+ "size": "约 25 人，营收 140.7 MSEK（nordicnet）",
+ "brands_seen": [
+  "Direktronik",
+  "E-link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与集团归属",
+   "quote": "Inriktningen har hela tiden varit import och distribution av produkter och komponenter, framförallt inom området nätverk och datakommunikation … Sedan 2007 ingår Direktronik som ett helägt dotterbolag till Lagercrantz Group.",
+   "url": "https://www.direktronik.se/foretaget/om-foretaget/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（nordicnet）",
+   "claim": "规模",
+   "quote": "Direktronik AB … Omsättning (×1000): 140 657 · Antal anställda: 25 … E-post: info@direktronik.se",
+   "url": "http://m.nordicnet.se/foretag/Direktronik-AB/8532",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Anders Hedin",
+   "role": "联系人（用户表邮箱）",
+   "email": "anders.hedin@direktronik.se",
+   "phone": "+46 8 52 400 700（总机）",
+   "source": "Clients/A Replied 09.04.xlsx"
+  }
+ ],
+ "notes": "A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。",
+ "researched_at": "2026-10-21"
+}

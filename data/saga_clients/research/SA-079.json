@@ -1,0 +1,54 @@
+{
+ "code": "SA-079",
+ "name_official": "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）",
+ "website_status": "在线",
+ "summary": "印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。",
+ "type": "系统集成商+分销（VoIP/安防/工业网络）",
+ "size": "小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）",
+ "brands_seen": [
+  "VitalPBX（合作伙伴）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2001 年起的 VoIP/PA/云 PBX/联络中心/CCTV 供应商，面向中大型企业",
+   "quote": "Sejak tahun 2001, Divatel telah berada di garis depan dalam menyediakan solusi PA System, IP PBX, Cloud PBX, Omnichannel Contact Center… untuk perusahaan skala menengah hingga besar",
+   "url": "https://pa-system.infrateq.com/profile/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "CEO/创始人 Ismed Sitepu，业务含离网 CCTV、太阳能供电交换机、网络",
+   "quote": "CEO and Founder PT. Divatel Pratama 2001 - Present… Offgrid CCTV Surveillance - Solar Panel Switch / Hub - Video Conferencing",
+   "url": "https://www.linkedin.com/in/ismedsitepu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "合作伙伴页",
+   "claim": "infrateq.com 为其电商站，另提供网络解决方案",
+   "quote": "The further details of service and products we sell can be seen at our commerce website infrateq.com We also provide video conference solutions, Hyperconverge server and Networks solutions",
+   "url": "https://vitalpbx.com/vitalpbx-partners/pt-divatel-pratama/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "YouTube",
+   "claim": "业务含 CCTV、工业网络",
+   "quote": "PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel",
+   "url": "https://www.youtube.com/@DivatelPratama",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ismed Sitepu",
+   "role": "CEO & Founder",
+   "email": "ismed@divatel.co.id",
+   "phone": "+62 852-8940-4589（WA，官网与用户记录一致）",
+   "source": "用户 Clients 表 + LinkedIn + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

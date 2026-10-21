@@ -1,0 +1,65 @@
+{
+ "code": "SA-087",
+ "name_official": "VoIPDistri.com – Voice over IP Distribution（Mathias Gottensträter，Halle Westfalen，德国）",
+ "website_status": "在线（voip.world / shop.voipdistri.com）",
+ "summary": "德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。",
+ "type": "网店型分销商（VoIP + 工业网络）",
+ "size": "小型（个体企业主经营）",
+ "brands_seen": [
+  "Teltonika",
+  "Yealink",
+  "Grandstream",
+  "Fanvil",
+  "Akuvox",
+  "Dinstar",
+  "Gigaset",
+  "Alcatel",
+  "OpenVox",
+  "Tiptel",
+  "Flyingvoice",
+  "E-link（用户记录：工业交换机在采）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2003 年由 Mathias Gottensträter 创立，网店分销 VoIP 电话/系统与网络方案",
+   "quote": "VoIPDistri.com was founded in 2003 by Mathias Gottensträter and focuses on the distribution through its web shop",
+   "url": "https://voip.world/About-us",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Impressum：业主、地址、电话",
+   "quote": "Im Hagen 3 D-33790 Halle Westfalen Tel: +49 5201 730030… Geschäftsinhaber: Mathias Gottensträter E-Mail: communication@voip.world",
+   "url": "https://voip.world/Imprint",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Teltonika 官方批发商，服务 IT 经销商、集成商、工业客户与公共部门",
+   "quote": "As an official Teltonika wholesaler, VoIPDistri.com provides not only the hardware but also technical consulting… serves: IT resellers & system integrators, Industrial customers & public sector",
+   "url": "https://voip.world/Teltonika-RUTM20-compact-5G-Router-with-PoE-plus-passthrough",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "eBay",
+   "claim": "多品牌官方分销商名单",
+   "quote": "Akuvox, ALCATEL, Dinstar, Fanvil, Flyingvoice, Gigaset, Grandstream, OpenVox, Teltonika, Tiptel, Yealink und viele andere Hersteller!",
+   "url": "https://www.ebay.com/str/voipdistri",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mathias Gottensträter",
+   "role": "CEO / Owner",
+   "email": "communication@voipdistri.com",
+   "phone": "+49 5201 730030",
+   "source": "用户 Clients 表 + Impressum"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。",
+ "notes": "重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。",
+ "researched_at": "2026-10-21"
+}

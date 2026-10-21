@@ -1,0 +1,44 @@
+{
+ "code": "SA-060",
+ "name_official": "Securitytec Ltd（Coulsdon, Surrey, UK；Companies House 05585047）",
+ "website_status": "在线",
+ "summary": "伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。",
+ "type": "安防批发商（小型）",
+ "size": "3 人（2025 年报）",
+ "brands_seen": [
+  "Hikvision",
+  "HiLook",
+  "Ruijie Reyee",
+  "Utepo",
+  "Pyronix"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（Companies House 摘录）",
+   "claim": "规模与董事",
+   "quote": "SECURITYTEC LIMITED … Incorporated: 2005-10-06 · Employees: 3 (2025 accounts) … MR Graham David SMITH Director",
+   "url": "https://www.companiesintheuk.co.uk/ltd/securitytec-1",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "在售网络品类（含 Utepo）",
+   "quote": "Networking Products 78 item · Ruije Reyee Networks 55 item … Brand: Hikvision 404 item … Utepo 3 item",
+   "url": "https://www.securitytec.co.uk/our-products.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Graham Smith",
+   "role": "Director",
+   "email": "graham@securitytec.co.uk",
+   "phone": "+44 20 8660 5888",
+   "source": "https://www.securitytec.co.uk/contact"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

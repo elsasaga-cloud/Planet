@@ -1,0 +1,45 @@
+{
+ "code": "SA-084",
+ "name_official": "Erstech Technika Kft.（Tatárszentgyörgy，匈牙利）",
+ "website_status": "在线（erstechtechnika.hu；用户记录域 erstech.hu 另属一家土方工程公司，疑为邮箱域混用）",
+ "summary": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
+ "type": "安装商/小型集成商",
+ "size": "微型（营收 ≈2,800 万 HUF/2025；登记员工 0）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "企业登记",
+   "claim": "2003 年成立，电气安装，2025 年营收 27,975 千福林",
+   "quote": "Erstech Technika Kereskedelmi és Szolgáltató Kft… 4321 Villanyszerelés… Alapítás éve 2003… 27 975 ezer Ft (2025)",
+   "url": "https://webshop.opten.hu/erstech-technika-kft-c1309108843.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "承接摄像/报警/空调系统维护；电话 +36 70 708 7930",
+   "quote": "vállalja a nem saját telepítésű kamera- riasztó- és klímarendszerek időszakos karbantartását… Tel: +36 70 708 7930",
+   "url": "https://erstechtechnika.hu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "erstech.hu 域名对应 Erstech Kft.（2016 年起机械土方），与安防公司非同一主体",
+   "quote": "Cégünk, az Erstech Kft. 2016 óta foglalkozik gépi földmunkával és gépszállítással… info@erstech.hu",
+   "url": "https://tereprendezes-foldmunka.hu/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Janos Hogye",
+   "role": "Managing Director",
+   "email": "jhogye@erstech.hu",
+   "phone": "+36 70 708 7960（用户记录）",
+   "source": "用户 Clients 表（ISAF 2025）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。",
+ "notes": "重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。",
+ "researched_at": "2026-10-21"
+}

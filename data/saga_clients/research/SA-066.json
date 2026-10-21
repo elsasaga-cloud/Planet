@@ -1,0 +1,46 @@
+{
+ "code": "SA-066",
+ "name_official": "Antronix, Inc.（Cranbury, New Jersey, USA）",
+ "website_status": "在线",
+ "summary": "新泽西的有线宽带射频设备设计制造商（1980 年创立，约 33 人，营收口径 $4.3M），产品：multi-tap、光节点、放大器、无源器件，面向北美有线运营商；2023 年起强调光纤方案（与 Teleste 合资 Intercept）。用户表：A 已回复 1 次，联系人 Peter Tarquinio / Jim Taxdahl（VP Sales），问 L2/L3 10G、2.5G/10G 商业交换机。",
+ "type": "品牌制造商（拓展以太网交换机产品线，OEM 目标）",
+ "size": "约 33 人（crustdata）；11–50（LinkedIn）",
+ "brands_seen": [
+  "Antronix",
+  "Teleste"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（crustdata）",
+   "claim": "规模与管理层（含用户表联系人 Jim Taxdahl）",
+   "quote": "Antronix is a telecommunications company headquartered in Cranbury, New Jersey … The team counts 33 people … Antronix's leadership includes President/CEO Neil Tang … Vice President of Sales Jim Taxdahl",
+   "url": "https://profiles.crustdata.com/company/antronix",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务定位",
+   "quote": "Antronix designs and manufactures the components that enable broadband operators to upgrade networks across North America – engineered in-house.",
+   "url": "https://antronix.com/about-antronix/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jim Taxdahl",
+   "role": "Vice President of Sales U.S.A",
+   "email": "jimtaxdahl@antronix.com",
+   "phone": "+1 609-860-0160（总机）",
+   "source": "https://antronix.com/about-antronix/"
+  },
+  {
+   "name": "Peter Tarquinio",
+   "role": "联系人（用户表）",
+   "email": "petertarquinio@antronix.com",
+   "phone": "",
+   "source": "Clients/A Replied 09.04.xlsx"
+  }
+ ],
+ "notes": "A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。",
+ "researched_at": "2026-10-21"
+}

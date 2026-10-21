@@ -1,18 +1,20 @@
 # B&S electronics
+**官方名称（调研核实）**：B&S Electronics（Βασίλειος Σταυρίδης，塞萨洛尼基 Kalamaria，希腊）
 
 > **评级 A**　|　希腊　|　档案编号 `SA-083`　|　优先级 ★★★　|　状态：WhatsApp 已加·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防批发商/进口商（推断）　|　**历史关系**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-083
 rating: A
 rating_auto: A
+name_official: "B&S Electronics（Βασίλειος Σταυρίδης，塞萨洛尼基 Kalamaria，希腊）"
 score: 71
 country: 希腊
 region: 欧洲
 website: bselectronics.gr
-type: 系统集成/工程商
+type: 安防批发商/进口商
 tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
 deal: no
 replies: 0
@@ -21,19 +23,19 @@ first_contact: 2025-03-19
 last_contact: 2025-10-08
 p1: STC-424XGGPM-280W
 price_tier: 25%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：希腊的系统集成/工程商；兴趣/在卖：防水交换机，先看了帧田的，主要是安防项目，IP camera 工业级交换机有供应商了，合作了5年了，大概率是EWIND，似乎和她们很熟悉，对2.5G交换机有兴趣，给他介绍了升压5口，有兴趣，平时也会解一些solar项目，问能否做8口的
+- **是谁**：希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。（调研 2026-10-21；表内兴趣：防水交换机，先看了帧田的，主要是安防项目，IP camera 工业级交换机有供应商了，合作了5年了，大概率是EWIND，似乎和她们很熟悉，对2.5G交换机有兴趣，给他介绍了升压5口，有兴趣，平时也会解一些solar项目，问能否做8口的）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | B&S electronics | 事实（用户表） |
 | 国家 | 希腊 | 事实（用户表）|
 | 网站/域名 | bselectronics.gr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防批发商/进口商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Vasilis Stavridis / CEO-Founder | 事实（用户表） |
 | 来源（From） | 埃森展2024 | 事实（用户表） |
 | 兴趣（Interested in） | 防水交换机，先看了帧田的，主要是安防项目，IP camera 工业级交换机有供应商了，合作了5年了，大概率是EWIND，似乎和她们很熟悉，对2.5G交换机有兴趣，给他介绍了升压5口，有兴趣，平时也会解一些solar项目，问能否做8口的 | 事实（用户表） |
@@ -63,7 +65,25 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-083.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。
+- **类型**：安防批发商/进口商
+- **规模**：小型（20–49 人，营收 <$5M）
+- **在卖/在用品牌**：EWIND（用户记录：现供应商 5 年）
+- **【官网】进口+设计+销售高科技产品，专注安防/CCTV/专业音频/自动化/电话交换机；批发与超批发**
+  > με βασικό αντικείμενο τον σχεδιασμό , την εισαγωγή και εμπορία προϊόντων υψηλής τεχνολογίας… κλειστών κυκλωμάτων τηλεόρασης (CCTV)… καλύπτει τις χονδρικές και υπερχονδρικές παραγγελίες σας
+  > 来源：https://bselectronics.gr/（抓取 2026-10-21）
+- **【Facebook】2004 年成立，塞萨洛尼基**
+  > Η B&S electronics ιδρύθηκε το 2004… Παπανδρέου Ανδρέα 56, Thessaloníki… +30 231 086 0272
+  > 来源：https://www.facebook.com/bselectronics.gr/（抓取 2026-10-21）
+- **【ZoomInfo】20–49 人，营收 100–500 万美元**
+  > It employs 20to49 people and has 1Mto5M of revenue
+  > 来源：https://www.zoominfo.com/c/bs-electronics/510338778（抓取 2026-10-21）
+- **【黄页】法人为 Βασίλειος Σταυρίδης（Vassilios Stavridis）**
+  > BS ELECTRONICS (Stavridis Vassilios K.) Papandreou Andrea 54-56, Kalamaria
+  > 来源：https://www.vrisko.gr/en/details/52d_d4ajaf4f2i6i043h2c20c60d3i17（抓取 2026-10-21）
+- **KP**：Vasilis Stavridis（CEO / Founder）imports@bselectronics.gr +30 697 224 0011（用户记录 WA）〔用户 Clients 表（ISAF 2025）+ 黄页法人信息〕
+- 备注：欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -104,7 +124,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防批发商/进口商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

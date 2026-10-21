@@ -1,0 +1,59 @@
+{
+ "code": "SA-077",
+ "name_official": "Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）",
+ "website_status": "在线",
+ "summary": "阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。",
+ "type": "系统集成商（IT/ELV）",
+ "size": "小型（11–50 人，3 个本地办公室）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "20+ 年经验的阿联酋系统集成商，覆盖政府/企业/银行/机场/医疗/教育/酒店/电信",
+   "quote": "Tecpro Solutions, a leading System Integrator in UAE brings over 20+ years of industry experience… government, corporate, banking, airports, healthcare, education, hospitality, telecom, and contracting",
+   "url": "https://www.tecprosolutions.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "三地办公室与电话",
+   "quote": "DUBAI Saheel Tower 2… 00971 4 3266881… ABU DHABI… 00971 2 6767373… AL AIN… 00971 3 7662264",
+   "url": "https://www.tecprosolutions.com/contact-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "安防系统服务业，11–50 人，2004 年创立",
+   "quote": "Industry: Security Systems Services… Company size: 11-50 employees… Founded: 2004",
+   "url": "https://www.linkedin.com/company/tecprosolutionsllc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "Mohammed Rafi 为 Executive Director（2023 起），此前 17 年运营总监",
+   "quote": "Executive Director Tecpro Solutions Co. L.L.C. Jun 2023 - Present… Director Of Operations… Sep 2005 - Jun 2023",
+   "url": "https://www.linkedin.com/in/mohammed-rafi-30365656/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mohammed Rafi",
+   "role": "Executive Director",
+   "email": "",
+   "phone": "+971 50 4489928（用户记录 WA）",
+   "source": "用户 Clients 表 + LinkedIn 职务"
+  },
+  {
+   "name": "MD Shereef",
+   "role": "（用户记录）",
+   "email": "shereef@tecprosolutions.com",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

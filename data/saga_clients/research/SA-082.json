@@ -1,0 +1,55 @@
+{
+ "code": "SA-082",
+ "name_official": "Nova Grup Mühendislik（Novacom Technology，安卡拉/伊斯坦布尔，2002 年）",
+ "website_status": "在线（novacom.com.tr / nova-grup.com）",
+ "summary": "土耳其弱电/安防进口批发商（CCTV、卫星、报警、数据/光纤、消防、对讲），2002 年创立，安卡拉总部 + 伊斯坦布尔办公室，约 27–35 人，营收估 780 万–1,690 万美元；ISAF 2025 参展商，CEO Ali Pekyürek + 项目经理当面交流，已有商用交换机供应商（新桥/ONV），欲扩展工业线并询 OEM。",
+ "type": "进口批发商/分销商（弱电安防）",
+ "size": "中小型（27 人/2023 EMIS；35 人/RocketReach）",
+ "brands_seen": [
+  "新桥（用户记录）",
+  "ONV（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2002 年创立，弱电行业，以卫星与 CCTV 产品为主",
+   "quote": "Nova Grup Mühendislik, 2002 yılında… özellikle \"Zayıf Akım\" sektöründe, öncelikle \"Uydu ve CCTV\" ürünleri olmak üzere geniş bir ürün yelpazesiyle faaliyet göstermektedir",
+   "url": "https://www.novacom.com.tr/hakkimizda",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "安卡拉与伊斯坦布尔两地办公室",
+   "quote": "Ankara Aşağı Öveçler Mah.1332 Cad. No:8/1-3-5-7 Çankaya… İstanbul… Esenyurt… info@nova-grup.com",
+   "url": "https://nova-grup.com/iletisim",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "EMIS",
+   "claim": "2009 年注册，27 名员工（2023），电气设备批发",
+   "quote": "incorporated on January 30, 2009. It currently has a total number of 27 (2023) employees",
+   "url": "https://www.emis.com/php/company-profile/TR/Nova_Grup_Muh_Proje_Elekt_Elektr_Ilet_Sist_Ins_Ve_Tekssan_Tic_Ltd_Sti_en_9450576.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "弱电材料与安防系统进口公司，批发摄像机/报警/数据/光纤/卫星/消防/对讲",
+   "quote": "Zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine ithalat firması. Kamera,Alarm,Data,Fiber,Uydu,Yangın,İnterkom, Sistemleri üzerine toptan satış",
+   "url": "https://www.facebook.com/esmakdd/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ali Pekyürek",
+   "role": "CEO（用户记录）",
+   "email": "ali@nova-grup.com",
+   "phone": "+90 533 715 9226（用户记录）",
+   "source": "用户 Clients 表（ISAF 2025 现场）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。",
+ "researched_at": "2026-10-21"
+}

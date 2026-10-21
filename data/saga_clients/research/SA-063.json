@@ -1,0 +1,40 @@
+{
+ "code": "SA-063",
+ "name_official": "Fibermarkt Sp. z o.o.（自有品牌 LightOptics，Kraków, Poland）",
+ "website_status": "在线",
+ "summary": "克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。",
+ "type": "分销商/电商（自有品牌贴牌）",
+ "size": "未见人数（中小）",
+ "brands_seen": [
+  "LightOptics",
+  "磊通",
+  "GXCOM"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（inwestrut）",
+   "claim": "自有品牌含 PoE 网管交换机 + 联系方式",
+   "quote": "Model LO-IGS-M8GT2GF-HPOE – z obsługą PoE, PoE+ oraz PoE++ wyposażony w 8 portów 10/100/1000Mbps PoE i 2 porty 1000Mbps SFP … Fibermarkt Sp. z o.o. Adres: Śnieżna 18, 30-822 Kraków … Telefon: +48 533 533 575",
+   "url": "https://inwestrut.pl/fibermarkt-sp-z-o-o/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "品牌定位与客户群",
+   "quote": "Light Optics to dostawca dobrej i sprawdzonej jakości modułów optycznych oraz konwerterów mediów w najlepszej cenie. Głównymi odbiorcami są firmy ISP oraz integratorzy.",
+   "url": "https://fibermarkt.com/pl/brand/5-lightoptics?page=6",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "销售（用户表邮箱；电话即 WhatsApp）",
+   "email": "sales@fibermarkt.com",
+   "phone": "+48 533 533 575",
+   "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
+  }
+ ],
+ "notes": "A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
+ "researched_at": "2026-10-21"
+}

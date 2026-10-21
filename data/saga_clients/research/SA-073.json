@@ -1,0 +1,59 @@
+{
+ "code": "SA-073",
+ "name_official": "Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）",
+ "website_status": "在线",
+ "summary": "沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。",
+ "type": "系统集成商+电商分销",
+ "size": "中型（承包+集成+电商，具体人数未披露）",
+ "brands_seen": [
+  "Vivotek",
+  "TP-Link Omada",
+  "Huawei eKit",
+  "Dahua",
+  "Legrand",
+  "OTS（用户记录：工业FS在用）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2005 年成立的电信承包商，2015 年设 ICT 部门，自有品牌进零售，3,000+ 客户",
+   "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers… to introducing our own brands into the retail market",
+   "url": "https://www.ekhalas.com/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "eKhalas 为集成商/客户/厂商的 B2B 市场平台，品类含 Routers and Switches",
+   "quote": "‘eKhalas’ a marketspace platform for our system integrators, customers & Vendors all across Saudi Arabia… Routers and Switches, UPS and invertors, Satellite, Safety and Security",
+   "url": "https://www.ekhalas.com/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "运营主体 Al Rajhi Telecom Company，利雅得地址与电话",
+   "quote": "Al Rajhi Telecom Company… 7687 King Fahad Branch Road, Al Murabba Dist… +966114221089",
+   "url": "https://www.ekhalas.com/contact-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "平台在售 Vivotek PoE 交换机",
+   "quote": "VIVOTEK – POE-SWITCH AW-GEL-105A-110 EU… 705.00 + VAT",
+   "url": "https://www.ekhalas.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Inam",
+   "role": "（用户记录联系人）",
+   "email": "info@ekhalas.com",
+   "phone": "+966 11 4221089",
+   "source": "用户 Clients 表 + 官网联系页"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
+ "researched_at": "2026-10-21"
+}

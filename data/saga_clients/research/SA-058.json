@@ -1,0 +1,51 @@
+{
+ "code": "SA-058",
+ "name_official": "Success Network and Communication Co., Ltd.（Bangkok, Thailand）",
+ "website_status": "在线（2025-07 公告网站改版中）",
+ "summary": "曼谷的网络/安防设备综合分销与工程商（2011 年成立，登记规模极小），代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3 等）；页面含 L3 交换机、工业自动化、光纤收发器类目。用户表：A 已回复 1 次；「同行经销商(Smartbyte)」清单——即在售与 SmartByte 同源/同行产品；兴趣工商业 FS，有 Utepo。",
+ "type": "分销商/系统集成（多品牌）",
+ "size": "2 人（workventure 登记）",
+ "brands_seen": [
+  "PLANET",
+  "ORing",
+  "TRENDnet",
+  "Wi-Tek",
+  "W-LINK",
+  "C-DATA",
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "多品牌分销定位",
+   "quote": "อุปกรณ์เครือข่าย Switch, Router, Access Point และ Media Converter ครบวงจร … ด้วยแบรนด์คุณภาพ เช่น Planet, O-Ring, Trendnet, Wi-Tek, W-LINK, C-DATA",
+   "url": "https://www.success-network.co.th/products/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "在售 Utepo L3 PoE 交换机",
+   "quote": "UTP5628S-PSB-L3 - 20-Port Gigabit PoE+ 4-Port Gigabit Combo 4-Port 10G SFP+ L3 Managed Ethernet Switch",
+   "url": "https://www.success-network.co.th/utp5628s-psb-l3/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Success Network and Communication Co.,Ltd. 12 สุขาภิบาล 5 ซอย 5 แยก 3 … Tel : 02-973 1966 · Tel : 081-659-4477 · Email : info@success-network.co.th",
+   "url": "https://www.success-network.co.th/td-9421s3/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@success-network.co.th",
+   "phone": "+66 2 973 1966 / +66 81 659 4477（LINE @success_network）",
+   "source": "https://www.success-network.co.th/contact-us/"
+  }
+ ],
+ "notes": "A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。",
+ "researched_at": "2026-10-21"
+}

@@ -1,18 +1,20 @@
 # softnetworks.net
+**官方名称（调研核实）**：Softnetworks Inc.（Whippany, NJ，美国）
 
 > **评级 A**　|　美国　|　档案编号 `SA-081`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：二手/翻新网络设备经销商（推断）　|　**历史关系**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-081
 rating: A
 rating_auto: A
+name_official: "Softnetworks Inc.（Whippany, NJ，美国）"
 score: 73
 country: 美国
 region: 北美
 website: softnetworks.net
-type: 经销/集成（类型待核）
+type: 二手/翻新网络设备经销商
 tier_tags: ["E已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-04-30
 last_contact: 2025-10-01
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：工业FS Cisco产品；提到的品牌：Cisco, FS
+- **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | softnetworks.net（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | softnetworks.net | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 二手/翻新网络设备经销商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Neal | 事实（用户表） |
 | 来源（From） | 别人的RFQ | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS Cisco产品 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-081.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。
+- **类型**：二手/翻新网络设备经销商
+- **规模**：小型（11–50 人）
+- **在卖/在用品牌**：Cisco, Juniper, Aruba, Meraki, Brocade, Dell, HP
+- **【官网】30 年经验，新品与翻新 LAN/WAN/光纤硬件，目录含 Industrial Switches**
+  > premier value added provider of New, and refurbished secondary market… networking hardware solutions from manufacturers such as Cisco, Aruba, Meraki… INDUSTRIAL SWITCHES
+  > 来源：https://softnetworks.net/hardware/network-hardware/（抓取 2026-10-21）
+- **【官网】2012 年新泽西注册，起步网络硬件后扩展维修**
+  > Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions
+  > 来源：https://softnetworks.net/about-us/（抓取 2026-10-21）
+- **【Datanyze】18 名员工；Neal Cennamo 副总裁**
+  > Neal Cennamo Vice President… Softnetworks has 18 employees
+  > 来源：https://www.datanyze.com/companies/softnetworks/1100611077（抓取 2026-10-21）
+- **KP**：Neal Cennamo（Vice President）nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
+- 备注：美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -92,7 +109,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（二手/翻新网络设备经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

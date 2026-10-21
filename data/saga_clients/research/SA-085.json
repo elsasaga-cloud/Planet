@@ -1,0 +1,31 @@
+{
+ "code": "SA-085",
+ "name_official": "SIPe（sipe-corse.fr，科西嘉，法国）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "法国科西嘉的小型安装/集成商（用户记录：通过阿里巴巴 RTS 下单 3 件工业 PoE 配件，联系人 Olivier Donadio），此后 5 次推送 0 回复。",
+ "type": "安装商/小型集成商",
+ "size": "微型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "Alibaba RTS 成交 3 件工业 PoE 配件；0 回复 / 5 次推送",
+   "quote": "Alibaba RTS order 3 工业PoE配件；Olivier DONADIO（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Olivier Donadio",
+   "role": "（用户记录）",
+   "email": "odonadio@sipe-corse.fr",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。",
+ "notes": "复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。",
+ "researched_at": "2026-10-21"
+}

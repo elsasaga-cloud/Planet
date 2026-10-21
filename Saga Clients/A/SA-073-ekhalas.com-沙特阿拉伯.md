@@ -1,18 +1,20 @@
 # ekhalas.com
+**官方名称（调研核实）**：Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）
 
 > **评级 A**　|　沙特阿拉伯　|　档案编号 `SA-073`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 17 次（2024-06-05 → 2025-10-23）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成商+电商分销（推断）　|　**历史关系**：实质回复 1 次；推送 17 次（2024-06-05 → 2025-10-23）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-073
 rating: A
 rating_auto: A
+name_official: "Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）"
 score: 75
 country: 沙特阿拉伯
 region: 中东
 website: ekhalas.com
-type: 经销/集成（类型待核）
+type: 系统集成商+电商分销
 tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2024-06-05
 last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯的经销/集成（类型待核）；兴趣/在卖：工业FS 用的OTS的；提到的品牌：OTS, FS
+- **是谁**：沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。（调研 2026-10-21；表内兴趣：工业FS 用的OTS的）
 - **为什么是 A 级**：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-10-22：想测样
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | ekhalas.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 沙特阿拉伯 | 事实（用户表）|
 | 网站/域名 | ekhalas.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 系统集成商+电商分销 | 推断（据兴趣/备注关键词） |
 | 联系人 | Inam | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 用的OTS的 | 事实（用户表） |
@@ -63,7 +65,25 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-073.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。
+- **类型**：系统集成商+电商分销
+- **规模**：中型（承包+集成+电商，具体人数未披露）
+- **在卖/在用品牌**：Vivotek, TP-Link Omada, Huawei eKit, Dahua, Legrand, OTS（用户记录：工业FS在用）
+- **【官网】2005 年成立的电信承包商，2015 年设 ICT 部门，自有品牌进零售，3,000+ 客户**
+  > Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers… to introducing our own brands into the retail market
+  > 来源：https://www.ekhalas.com/about-us/（抓取 2026-10-21）
+- **【官网】eKhalas 为集成商/客户/厂商的 B2B 市场平台，品类含 Routers and Switches**
+  > ‘eKhalas’ a marketspace platform for our system integrators, customers & Vendors all across Saudi Arabia… Routers and Switches, UPS and invertors, Satellite, Safety and Security
+  > 来源：https://www.ekhalas.com/about-us/（抓取 2026-10-21）
+- **【官网】运营主体 Al Rajhi Telecom Company，利雅得地址与电话**
+  > Al Rajhi Telecom Company… 7687 King Fahad Branch Road, Al Murabba Dist… +966114221089
+  > 来源：https://www.ekhalas.com/contact-us/（抓取 2026-10-21）
+- **【官网】平台在售 Vivotek PoE 交换机**
+  > VIVOTEK – POE-SWITCH AW-GEL-105A-110 EU… 705.00 + VAT
+  > 来源：https://www.ekhalas.com/（抓取 2026-10-21）
+- **KP**：Inam（（用户记录联系人））info@ekhalas.com +966 11 4221089〔用户 Clients 表 + 官网联系页〕
+- 备注：有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -116,7 +136,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（系统集成商+电商分销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

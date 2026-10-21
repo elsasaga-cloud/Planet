@@ -1,0 +1,42 @@
+{
+ "code": "SA-061",
+ "name_official": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw，Nettetal, Germany）",
+ "website_status": "在线（新域名 walker-security.systems）",
+ "summary": "德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。",
+ "type": "安防安装商（微型）",
+ "size": "UG，注册资本 6,000 €（2 名管理人员）",
+ "brands_seen": [
+  "Dahua",
+  "Jablotron",
+  "Ajax"
+ ],
+ "evidence": [
+  {
+   "kind": "官网 Impressum",
+   "claim": "法人与联系方式",
+   "quote": "Walker Security Systems UG (haftungsbeschränkt) Geschäftsführer: Andrew Walker Ritzbruch 22, 41334 Nettetal Telefonnummer: +49 2153 909 7740 Mobil: +49 177 322 4215 … Registergericht: Krefeld Registernummer: HRB 20953",
+   "url": "https://walker-security.systems/impressum",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（openregister）",
+   "claim": "规模",
+   "quote": "Gründungsdatum 13.09.2018 · Aktiv · Register Amtsgericht Krefeld HRB 20953 … Kapital 6.000,00 €",
+   "url": "https://openregister.de/company/DE-HRB-R3306-95644",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Andrew Walker",
+   "role": "Geschäftsführer/CEO",
+   "email": "info@walker-security.systems",
+   "phone": "+49 177 322 4215",
+   "source": "https://walker-security.systems/impressum"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

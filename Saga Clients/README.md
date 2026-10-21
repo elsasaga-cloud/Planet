@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4649 个客户**：A 146 / B 1305 / C 3198
+> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4649 个客户**：A 135 / B 1315 / C 3199
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -18,23 +18,23 @@
 
 | 区域 | A | B | C | 合计 |
 |---|---|---|---|---|
-| 北美 | 20 | 208 | 256 | 484 |
-| 欧洲 | 44 | 453 | 503 | 1000 |
+| 北美 | 19 | 208 | 257 | 484 |
+| 欧洲 | 36 | 461 | 503 | 1000 |
 | 土耳其 | 9 | 139 | 63 | 211 |
 | 中东 | 12 | 78 | 235 | 325 |
-| 亚太 | 26 | 225 | 704 | 955 |
-| 俄语区 | 12 | 70 | 420 | 502 |
+| 亚太 | 25 | 226 | 704 | 955 |
+| 俄语区 | 11 | 71 | 420 | 502 |
 | 南亚 | 15 | 55 | 385 | 455 |
 | 拉美 | 5 | 21 | 225 | 251 |
 | 非洲 | 3 | 51 | 283 | 337 |
 | 乌克兰 | 0 | 1 | 55 | 56 |
 | 中国大陆 | 0 | 1 | 15 | 16 |
 | 未知 | 0 | 3 | 54 | 57 |
-| **合计** | 146 | 1305 | 3198 | 4649 |
+| **合计** | 135 | 1315 | 3199 | 4649 |
 
 状态分布：名单内 2012；已推送 1240；WhatsApp 528；用户判定不行 448；有回复 230；成交过 92；发不过去 84；回复暂无需求 15
 
-C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548；综合分低 395；品类不符（VC/DWDM/CCTV 等） 343；无联系方式 148；低价值区域冷线索 143；发不过去 117；陈旧线索无互动 116；无邮箱（仅电话） 78；守界：乌克兰 54；体量过大/品牌厂商/运营商 47；用户备注不再跟进/Spam 44；中国大陆（非出口客户） 15；体量过大 5； 1
+C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548；综合分低 395；品类不符（VC/DWDM/CCTV 等） 343；无联系方式 148；低价值区域冷线索 143；发不过去 117；陈旧线索无互动 116；无邮箱（仅电话） 78；守界：乌克兰 54；体量过大/品牌厂商/运营商 47；用户备注不再跟进/Spam 44；中国大陆（非出口客户） 15；体量过大 5； 2
 
 ## 配套文件
 
@@ -47,7 +47,7 @@ C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548�
 
 ## 索引
 
-### A 级（146）— `Saga Clients/A/`
+### A 级（135）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -92,35 +92,24 @@ C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548�
 | SA-055 | aeconnect.co.in | 印度 | 品牌商（部分进口贴牌 + 本地组装） | 有回复·跟进中 | 79 | 已 | [SA-055-aeconnect.co.in-印度.md](A/SA-055-aeconnect.co.in-印度.md) |
 | SA-056 | dncsolutions.co.in | 印度 | 品牌商（光纤配套，MC 贴牌） | 有回复·跟进中 | 79 | 已 | [SA-056-dncsolutions.co.in-印度.md](A/SA-056-dncsolutions.co.in-印度.md) |
 | SA-057 | mt-link.com | 巴基斯坦 | 品牌商（中国白牌贴牌，ODM 买家） | 有回复·跟进中 | 79 | 已 | [SA-057-mt-link.com-巴基斯坦.md](A/SA-057-mt-link.com-巴基斯坦.md) |
-| SA-058 | success-network.co.th | 泰国 | 经销/集成（类型待核） | 有回复·跟进中 | 79 | 待 | [SA-058-success-network.co.th-泰国.md](A/SA-058-success-network.co.th-泰国.md) |
-| SA-060 | Securitytec | 英国 | 安防集成/经销 | 成交过·维护 | 78 | 待 | [SA-060-Securitytec-英国.md](A/SA-060-Securitytec-英国.md) |
-| SA-061 | Smart-Protect | 德国 | 经销/集成（类型待核） | 有回复·跟进中 | 78 | 待 | [SA-061-Smart-Protect-德国.md](A/SA-061-Smart-Protect-德国.md) |
-| SA-063 | lightoptics.pl | 波兰 | 经销/集成（类型待核） | 有回复·跟进中 | 78 | 待 | [SA-063-lightoptics.pl-波兰.md](A/SA-063-lightoptics.pl-波兰.md) |
-| SA-064 | 52networks.com | 美国 | 经销/集成（类型待核） | 成交过·维护 | 77 | 待 | [SA-064-52networks.com-美国.md](A/SA-064-52networks.com-美国.md) |
-| SA-065 | LOOP TELECOM | 法国 | 工业自动化/IoT 方案商 | 有回复·跟进中 | 76 | 待 | [SA-065-LOOP TELECOM-法国.md](A/SA-065-LOOP%20TELECOM-法国.md) |
-| SA-066 | antronix.com | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 76 | 待 | [SA-066-antronix.com-美国.md](A/SA-066-antronix.com-美国.md) |
-| SA-067 | direktronik.se | 瑞典 | 经销/集成（类型待核） | 有回复·跟进中 | 76 | 待 | [SA-067-direktronik.se-瑞典.md](A/SA-067-direktronik.se-瑞典.md) |
-| SA-068 | dymec.com | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 76 | 待 | [SA-068-dymec.com-美国.md](A/SA-068-dymec.com-美国.md) |
-| SA-069 | energyplusystems.cl | 智利 | 经销/集成（类型待核） | 有回复·跟进中 | 76 | 待 | [SA-069-energyplusystems.cl-智利.md](A/SA-069-energyplusystems.cl-智利.md) |
-| SA-070 | ipcampower.com | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 76 | 待 | [SA-070-ipcampower.com-美国.md](A/SA-070-ipcampower.com-美国.md) |
-| SA-071 | murrinc.com | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 76 | 待 | [SA-071-murrinc.com-美国.md](A/SA-071-murrinc.com-美国.md) |
-| SA-072 | sge.com.tr | 土耳其 | 工业自动化/IoT 方案商 | 有回复·跟进中 | 76 | 待 | [SA-072-sge.com.tr-土耳其.md](A/SA-072-sge.com.tr-土耳其.md) |
-| SA-073 | ekhalas.com | 沙特阿拉伯 | 经销/集成（类型待核） | 有回复·跟进中 | 75 | 待 | [SA-073-ekhalas.com-沙特阿拉伯.md](A/SA-073-ekhalas.com-沙特阿拉伯.md) |
-| SA-074 | iotsistem.com | 土耳其 | 经销/集成（类型待核） | 已推送 2 次·未回复 | 75 | 待 | [SA-074-iotsistem.com-土耳其.md](A/SA-074-iotsistem.com-土耳其.md) |
-| SA-075 | Desk Technologies | 德国 | 品牌商/贴牌需求（OEM/ODM） | 已推送 7 次·未回复 | 74 | 待 | [SA-075-Desk Technologies-德国.md](A/SA-075-Desk%20Technologies-德国.md) |
-| SA-076 | impakt.com.pl | 波兰 | 经销/集成（类型待核） | 有回复·跟进中 | 74 | 待 | [SA-076-impakt.com.pl-波兰.md](A/SA-076-impakt.com.pl-波兰.md) |
-| SA-077 | Tecpro Solutions | 阿联酋 | 系统集成/工程商 | 有回复·跟进中 | 73 | 待 | [SA-077-Tecpro Solutions-阿联酋.md](A/SA-077-Tecpro%20Solutions-阿联酋.md) |
-| SA-078 | bsn-system.com | 印度尼西亚 | 经销/集成（类型待核） | 有回复·跟进中 | 73 | 待 | [SA-078-bsn-system.com-印度尼西亚.md](A/SA-078-bsn-system.com-印度尼西亚.md) |
-| SA-079 | infrateq.id | 印度尼西亚 | 经销/集成（类型待核） | 有回复·跟进中 | 73 | 待 | [SA-079-infrateq.id-印度尼西亚.md](A/SA-079-infrateq.id-印度尼西亚.md) |
-| SA-080 | itk.co.th | 泰国 | 品牌商/贴牌需求（OEM/ODM） | 成交过·维护 | 73 | 待 | [SA-080-itk.co.th-泰国.md](A/SA-080-itk.co.th-泰国.md) |
-| SA-081 | softnetworks.net | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 73 | 待 | [SA-081-softnetworks.net-美国.md](A/SA-081-softnetworks.net-美国.md) |
-| SA-082 | NOVA Group Engineering Project Electronic Co LTD | 土耳其 | 品牌商/贴牌需求（OEM/ODM） | 已推送 4 次·未回复 | 72 | 待 | [SA-082-NOVA Group Engineering Project Electroni-土耳其.md](A/SA-082-NOVA%20Group%20Engineering%20Project%20Electroni-土耳其.md) |
-| SA-083 | B&S electronics | 希腊 | 系统集成/工程商 | WhatsApp 已加·未回复 | 71 | 待 | [SA-083-B&S electronics-希腊.md](A/SA-083-B&S%20electronics-希腊.md) |
-| SA-084 | ERSTECH | 匈牙利 | 经销/集成（类型待核） | 已推送 6 次·未回复 | 71 | 待 | [SA-084-ERSTECH-匈牙利.md](A/SA-084-ERSTECH-匈牙利.md) |
-| SA-085 | SIPe | 法国 | 经销/集成（类型待核） | 已推送 5 次·未回复 | 71 | 待 | [SA-085-SIPe-法国.md](A/SA-085-SIPe-法国.md) |
-| SA-086 | Safe-tech CCTV systems Sweden AB | 瑞典 | 安防集成/经销 | WhatsApp 已加·未回复 | 71 | 待 | [SA-086-Safe-tech CCTV systems Sweden AB-瑞典.md](A/SA-086-Safe-tech%20CCTV%20systems%20Sweden%20AB-瑞典.md) |
-| SA-087 | VoIPDistri | 德国 | 分销商/经销商 | 已推送 7 次·未回复 | 71 | 待 | [SA-087-VoIPDistri-德国.md](A/SA-087-VoIPDistri-德国.md) |
-| SA-088 | fibotelecom.ru | 俄罗斯 | 电信/ISP/网络运营 | 成交过·维护 | 71 | 待 | [SA-088-fibotelecom.ru-俄罗斯.md](A/SA-088-fibotelecom.ru-俄罗斯.md) |
+| SA-058 | success-network.co.th | 泰国 | 分销商/系统集成（多品牌） | 有回复·跟进中 | 79 | 已 | [SA-058-success-network.co.th-泰国.md](A/SA-058-success-network.co.th-泰国.md) |
+| SA-063 | lightoptics.pl | 波兰 | 分销商/电商（自有品牌贴牌） | 有回复·跟进中 | 78 | 已 | [SA-063-lightoptics.pl-波兰.md](A/SA-063-lightoptics.pl-波兰.md) |
+| SA-064 | 52networks.com | 美国 | 经销商（政府/商业小单，已成交） | 成交过·维护 | 77 | 已 | [SA-064-52networks.com-美国.md](A/SA-064-52networks.com-美国.md) |
+| SA-066 | antronix.com | 美国 | 品牌制造商（拓展以太网交换机产品线，OEM 目标） | 有回复·跟进中 | 76 | 已 | [SA-066-antronix.com-美国.md](A/SA-066-antronix.com-美国.md) |
+| SA-067 | direktronik.se | 瑞典 | 分销商/进口商（自有品牌 + 多品牌） | 有回复·跟进中 | 76 | 已 | [SA-067-direktronik.se-瑞典.md](A/SA-067-direktronik.se-瑞典.md) |
+| SA-068 | dymec.com | 美国 | 品牌商（白牌贴牌，OEM 目标） | 有回复·跟进中 | 76 | 已 | [SA-068-dymec.com-美国.md](A/SA-068-dymec.com-美国.md) |
+| SA-069 | energyplusystems.cl | 智利 | 工业/矿业集成供应商（工业交换机为配套品类） | 有回复·跟进中 | 76 | 已 | [SA-069-energyplusystems.cl-智利.md](A/SA-069-energyplusystems.cl-智利.md) |
+| SA-070 | ipcampower.com | 美国 | 品牌商/电商（中国白牌贴牌，OEM 目标） | 有回复·跟进中 | 76 | 已 | [SA-070-ipcampower.com-美国.md](A/SA-070-ipcampower.com-美国.md) |
+| SA-072 | sge.com.tr | 土耳其 | 工程分销商/集成（能源自动化；工业交换机转售） | 有回复·跟进中 | 76 | 已 | [SA-072-sge.com.tr-土耳其.md](A/SA-072-sge.com.tr-土耳其.md) |
+| SA-073 | ekhalas.com | 沙特阿拉伯 | 系统集成商+电商分销 | 有回复·跟进中 | 75 | 已 | [SA-073-ekhalas.com-沙特阿拉伯.md](A/SA-073-ekhalas.com-沙特阿拉伯.md) |
+| SA-074 | iotsistem.com | 土耳其 | 工业/IoT 分销商（网店） | 已推送 2 次·未回复 | 75 | 已 | [SA-074-iotsistem.com-土耳其.md](A/SA-074-iotsistem.com-土耳其.md) |
+| SA-076 | impakt.com.pl | 波兰 | 品牌商（自有品牌 OEM 采购）+ 分销商 | 有回复·跟进中 | 74 | 已 | [SA-076-impakt.com.pl-波兰.md](A/SA-076-impakt.com.pl-波兰.md) |
+| SA-077 | Tecpro Solutions | 阿联酋 | 系统集成商（IT/ELV） | 有回复·跟进中 | 73 | 已 | [SA-077-Tecpro Solutions-阿联酋.md](A/SA-077-Tecpro%20Solutions-阿联酋.md) |
+| SA-078 | bsn-system.com | 印度尼西亚 | 安防/IT 集成商 | 有回复·跟进中 | 73 | 已 | [SA-078-bsn-system.com-印度尼西亚.md](A/SA-078-bsn-system.com-印度尼西亚.md) |
+| SA-079 | infrateq.id | 印度尼西亚 | 系统集成商+分销（VoIP/安防/工业网络） | 有回复·跟进中 | 73 | 已 | [SA-079-infrateq.id-印度尼西亚.md](A/SA-079-infrateq.id-印度尼西亚.md) |
+| SA-081 | softnetworks.net | 美国 | 二手/翻新网络设备经销商 | 有回复·跟进中 | 73 | 已 | [SA-081-softnetworks.net-美国.md](A/SA-081-softnetworks.net-美国.md) |
+| SA-082 | NOVA Group Engineering Project Electronic Co LTD | 土耳其 | 进口批发商/分销商（弱电安防） | 已推送 4 次·未回复 | 72 | 已 | [SA-082-NOVA Group Engineering Project Electroni-土耳其.md](A/SA-082-NOVA%20Group%20Engineering%20Project%20Electroni-土耳其.md) |
+| SA-083 | B&S electronics | 希腊 | 安防批发商/进口商 | WhatsApp 已加·未回复 | 71 | 已 | [SA-083-B&S electronics-希腊.md](A/SA-083-B&S%20electronics-希腊.md) |
 | SA-089 | Born SPb LLC | 俄罗斯 | 经销/集成（类型待核） | 有回复·跟进中 | 70 | 待 | [SA-089-Born SPb LLC-俄罗斯.md](A/SA-089-Born%20SPb%20LLC-俄罗斯.md) |
 | SA-090 | act-connectivity.com | 荷兰 | 经销/集成（类型待核） | 有回复·跟进中 | 70 | 待 | [SA-090-act-connectivity.com-荷兰.md](A/SA-090-act-connectivity.com-荷兰.md) |
 | SA-091 | alphanetcom.com | 美国 | 分销商/经销商 | 有回复·跟进中 | 70 | 待 | [SA-091-alphanetcom.com-美国.md](A/SA-091-alphanetcom.com-美国.md) |
@@ -198,11 +187,11 @@ C 级细分：群发冷名单无回应 1144；用户判定不行/不相关 548�
 | SA-166 | landatel.com | 西班牙 | 品牌商/贴牌需求（OEM/ODM） | 已推送 1 次·未回复 | 60 | 待 | [SA-166-landatel.com-西班牙.md](A/SA-166-landatel.com-西班牙.md) |
 | SA-167 | voltechelektronik.com | 土耳其 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 60 | 待 | [SA-167-voltechelektronik.com-土耳其.md](A/SA-167-voltechelektronik.com-土耳其.md) |
 
-### B 级（1305）— `Saga Clients/B/`
+### B 级（1315）— `Saga Clients/B/`
 
-全部 1305 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1315 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
-### C 级（3198）— `Saga Clients/C/`
+### C 级（3199）— `Saga Clients/C/`
 
-全部 3198 个档案见 `Saga Clients/C/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 3199 个档案见 `Saga Clients/C/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 

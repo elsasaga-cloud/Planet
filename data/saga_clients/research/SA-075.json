@@ -1,0 +1,31 @@
+{
+ "code": "SA-075",
+ "name_official": "Desk Technologies（desk-sicherheit.de，Daniel Rupp）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "德国安防/警务项目供应商（用户记录：Daniel Rupp CEO，做 police projects，关注 IP67 户外产品，曾被报 $80/台并询 OEM 与样品）。",
+ "type": "安防集成/项目商",
+ "size": "小型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "CEO 直接沟通；兴趣点为 IP67 户外交换机与 OEM；已报价 $80；之后 0 回复 / 7 次推送",
+   "quote": "Daniel Rupp / CEO；police projects；IP67 interest；OEM ask；$80 quote（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Daniel Rupp",
+   "role": "CEO",
+   "email": "dr@desk-sicherheit.de",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
+ "notes": "若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
+ "researched_at": "2026-10-21"
+}

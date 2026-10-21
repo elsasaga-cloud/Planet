@@ -1,0 +1,59 @@
+{
+ "code": "SA-076",
+ "name_official": "Impakt S.A.（Mosina，波兰；自有品牌 Genesis / Lanberg / Natec / Fury / Armac / Audictus）",
+ "website_status": "在线",
+ "summary": "波兰 IT 硬件'制造商+分销商'，自有品牌组合含网络品牌 Lanberg；>150 员工，2025 年营收 1.52 亿 PLN（约 3,500 万欧元），3,500+ 自有品牌 SKU，销往 40+ 国；联系人为 Product Dev Manager，曾就'一个定制品'回复。",
+ "type": "品牌商（自有品牌 OEM 采购）+ 分销商",
+ "size": "中型（>150 人，营收 ≈1.52 亿 PLN/2025）",
+ "brands_seen": [
+  "Genesis",
+  "Lanberg",
+  "Natec",
+  "Fury",
+  "Armac",
+  "Audictus"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": ">150 员工、>3,500 自有品牌 SKU、7,395 m² 仓储、40+ 国销售",
+   "quote": ">150 employees… >3500 brand product indexes… 7395 m^2 storage space… We sell in more than 40 countries around the world!",
+   "url": "https://en.impakt.com.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "企业登记",
+   "claim": "2025 年营收 1.52 亿 PLN，净利 860 万 PLN",
+   "quote": "Organizacja Impakt osiągnęła 152 188 554 zł przychodów… Zysk netto wyniósł 8 624 996 zł",
+   "url": "https://www.bizraport.pl/krs/0000585900/impakt-spolka-akcyjna",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "品牌组合含 Lanberg（网络/布线品牌），51–200 人，1997 年创立",
+   "quote": "w naszym portfolio znajdują się takie marki jak: Genesis, Lanberg, Natec, Fury, Armac oraz Audictus… Wielkość firmy: 51-200 pracowników",
+   "url": "https://pl.linkedin.com/company/impakt-s-a",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Łukasz Gąsiewicz",
+   "role": "Product Dev Manager",
+   "email": "lukasz.gasiewicz@impakt.com.pl",
+   "phone": "",
+   "source": "用户 Clients 表（已回复）"
+  },
+  {
+   "name": "Bartosz Krawczyk",
+   "role": "（用户记录）",
+   "email": "bartosz.krawczyk@impakt.com.pl",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
+ "researched_at": "2026-10-21"
+}

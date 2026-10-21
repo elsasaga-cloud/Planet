@@ -1,0 +1,40 @@
+{
+ "code": "SA-071",
+ "name_official": "Murrelektronik, Inc.（Suwanee, Georgia；德国 Murrelektronik 集团美国子公司）",
+ "website_status": "在线",
+ "summary": "德国自动化连接技术集团 Murrelektronik（1975 年创立，全球 3,200+ 员工）的美国总部与制造基地，自有 PoE 交换机（Tree 系列，-40~75°C，UL/CB 62368-1、MIL-STD-810F）、I/O 系统、电源、连接器。用户表：A 已回复 1 次，联系人 Connor Hudalla（Product Engineer）/ Jhonatas Bastos（Application Engineer）/ Dave Weinberg（Director of Channel Dev），兴趣「电口」。",
+ "type": "巨头/品牌制造商（自有交换机线）",
+ "size": "集团 3,200+ 员工（inddist）；美国站点 29 人",
+ "brands_seen": [
+  "Murrelektronik"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（inddist）",
+   "claim": "集团规模",
+   "quote": "Founded in Oppenweiler, Germany the family-owned company has a global reach with more than 3200 employees in over 50 countries, with its U.S. headquarters and manufacturing facility located in Suwanee, Georgia.",
+   "url": "https://www.inddist.com/home/packaging/company/13758463/murrelektronik-inc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "自有 PoE 交换机线",
+   "quote": "With their modern design, Murrelektronik Tree PoE switches are ideal for industrial applications that require compact solutions … compliance with essential sections of UL/CB(IEC) 62368-1, and MIL-STD-810F",
+   "url": "https://murrinc.com/index.php?eID=wes_download&hash=dbe46155bfff563d4981010d5072ea94cddd9e2a&path=fileadmin%2Fuser_upload%2FUnited_States_en_US%2FDownloads%2FBrochures%2FPOE_Switches_7.2020.pdf",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dave Weinberg",
+   "role": "Director of Channel Development（用户表）",
+   "email": "dweinberg@murrinc.com",
+   "phone": "+1 312-391-4770",
+   "source": "Clients/A Replied 09.04.xlsx"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "INH 巨头/品牌厂商规则：集团 3,200+ 人、自有 PoE 交换机线且要求 UL/MIL 认证，Saga（无 UL、SOHO 体量）不匹配；工程师回复属技术询问而非采购意向。若对方再来询，按 B 处理。",
+ "notes": "c_sub=体量过大/品牌厂商。",
+ "researched_at": "2026-10-21"
+}

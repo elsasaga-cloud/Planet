@@ -1,18 +1,20 @@
 # bsn-system.com
+**官方名称（调研核实）**：BSN System / Berkah Saudara Network（雅加达）
 
 > **评级 A**　|　印度尼西亚　|　档案编号 `SA-078`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防/IT 集成商（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-078
 rating: A
 rating_auto: A
+name_official: "BSN System / Berkah Saudara Network（雅加达）"
 score: 73
 country: 印度尼西亚
 region: 亚太
 website: bsn-system.com
-type: 经销/集成（类型待核）
+type: 安防/IT 集成商
 tier_tags: ["WA跟进"]
 deal: no
 replies: 2
@@ -20,20 +22,20 @@ followups: 14
 first_contact: 2024-04-28
 last_contact: 2025-10-09
 p1: STI-144GP
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度尼西亚的经销/集成（类型待核）；兴趣/在卖：5电口带POE  实际需求2光4带ERPS
+- **是谁**：印尼雅加达独立安防与 IT 解决方案公司（8 年经验，OSE 安防措施 + 外包运维）；用户记录 2 次回复、已加 WA，明确需要 2 光 4 电 ERPS 环网工业交换机。（调研 2026-10-21；表内兴趣：5电口带POE  实际需求2光4带ERPS）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了10gmc
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | bsn-system.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度尼西亚 | 事实（用户表）|
 | 网站/域名 | bsn-system.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防/IT 集成商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Array | 事实（用户表） |
 | 来源（From） | 2024.2.14 | 事实（用户表） |
 | 兴趣（Interested in） | 5电口带POE <br>实际需求2光4带ERPS | 事实（用户表） |
@@ -53,7 +55,18 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-078.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：印尼雅加达独立安防与 IT 解决方案公司（8 年经验，OSE 安防措施 + 外包运维）；用户记录 2 次回复、已加 WA，明确需要 2 光 4 电 ERPS 环网工业交换机。
+- **类型**：安防/IT 集成商
+- **规模**：小型
+- **【官网】独立安防/IT 组织，8 年经验，提供安全系统与外包运维**
+  > BSN adalah organisasi independen… Dengan 8 tahun pengalaman dan berorientasi layanan… Anda juga dapat mengalihdayakan layanan dan pemeliharaan lengkap Anda kepada kami
+  > 来源：https://bsn-system.com/（抓取 2026-10-21）
+- **【官网】地址与联系方式（雅加达西区）**
+  > Jalan Jembatan Besi No 23 A Grogol… Jakarta Barat 11320… 0819-3999-8899… info@bsn-system.com
+  > 来源：https://bsn-system.com/（抓取 2026-10-21）
+- **KP**：（用户记录联系人，Gmail 个人邮箱）（）sales@bsn-system.com +62 819-3999-8899（官网）〔官网 + 用户 Clients 表〕
+- 备注：有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -101,10 +114,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防/IT 集成商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -114,7 +127,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 

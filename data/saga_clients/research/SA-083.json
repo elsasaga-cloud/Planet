@@ -1,0 +1,54 @@
+{
+ "code": "SA-083",
+ "name_official": "B&S Electronics（Βασίλειος Σταυρίδης，塞萨洛尼基 Kalamaria，希腊）",
+ "website_status": "在线",
+ "summary": "希腊塞萨洛尼基安防批发/零售商（2004 年起；CCTV、报警、专业音频、自动化、电话交换机），进口+设计+销售，20–49 人、营收 <500 万美元；ISAF 2025 参展，CEO/创始人 Vasilis Stavridis 到访，现工业交换机供应商 EWIND 合作 5 年，对 2.5G 与升压 5 口机型有兴趣，要 8 口报价，已加 WA。",
+ "type": "安防批发商/进口商",
+ "size": "小型（20–49 人，营收 <$5M）",
+ "brands_seen": [
+  "EWIND（用户记录：现供应商 5 年）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "进口+设计+销售高科技产品，专注安防/CCTV/专业音频/自动化/电话交换机；批发与超批发",
+   "quote": "με βασικό αντικείμενο τον σχεδιασμό , την εισαγωγή και εμπορία προϊόντων υψηλής τεχνολογίας… κλειστών κυκλωμάτων τηλεόρασης (CCTV)… καλύπτει τις χονδρικές και υπερχονδρικές παραγγελίες σας",
+   "url": "https://bselectronics.gr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "2004 年成立，塞萨洛尼基",
+   "quote": "Η B&S electronics ιδρύθηκε το 2004… Παπανδρέου Ανδρέα 56, Thessaloníki… +30 231 086 0272",
+   "url": "https://www.facebook.com/bselectronics.gr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "ZoomInfo",
+   "claim": "20–49 人，营收 100–500 万美元",
+   "quote": "It employs 20to49 people and has 1Mto5M of revenue",
+   "url": "https://www.zoominfo.com/c/bs-electronics/510338778",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "黄页",
+   "claim": "法人为 Βασίλειος Σταυρίδης（Vassilios Stavridis）",
+   "quote": "BS ELECTRONICS (Stavridis Vassilios K.) Papandreou Andrea 54-56, Kalamaria",
+   "url": "https://www.vrisko.gr/en/details/52d_d4ajaf4f2i6i043h2c20c60d3i17",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Vasilis Stavridis",
+   "role": "CEO / Founder",
+   "email": "imports@bselectronics.gr",
+   "phone": "+30 697 224 0011（用户记录 WA）",
+   "source": "用户 Clients 表（ISAF 2025）+ 黄页法人信息"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。",
+ "researched_at": "2026-10-21"
+}

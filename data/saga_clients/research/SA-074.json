@@ -1,0 +1,48 @@
+{
+ "code": "SA-074",
+ "name_official": "IoT Sistem（Bosgem，USR IoT 土耳其官方分销）",
+ "website_status": "在线（产品页 2018–2020 年发布，更新停滞迹象）",
+ "summary": "土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。",
+ "type": "工业/IoT 分销商（网店）",
+ "size": "小型",
+ "brands_seen": [
+  "USR IoT",
+  "MLB（MLB-E4204-28-F 等工业交换机）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "USR IoT 土耳其官方分销商 Bosgem，在售 MLB 工业交换机",
+   "quote": "Usr iot Türkiye resmi distribütörü Bosgem… Ethernet Switch MLB-E4204-28-F… MLB E4202-10-F… MLB-E4103-5-P",
+   "url": "https://www.iotsistem.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业交换机用于自动化与军工项目；品类覆盖媒体转换器/可管理 PoE/可管理/非管理",
+   "quote": "Endüstriyel ethernet switch ürünlerimizi otomasyon ve askeri projeler gibi birçok projelerde kullanılabilir… Ethernet Medya Çevirici, Yönetilebilir PoE, Yönetilebilir Switch, Yönetilemez PoE, Yönetilemez Switch",
+   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "MLB-E4208-14-F：10 电 + 4 SFP，双电源 12~58VDC，DIN 导轨，-40/+85°C 可选",
+   "quote": "10 Gigabit bakır bağlantı noktası artı 4 SFP… Çift güç girişi (12 ~ 58VDC)… DIN rayı ve duvara montaj… -40/+85 ˚C",
+   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4208-14-f/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Berk",
+   "role": "（用户记录：已有回复）",
+   "email": "info@iotsistem.com",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
+ "researched_at": "2026-10-21"
+}

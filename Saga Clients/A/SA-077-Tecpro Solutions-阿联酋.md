@@ -1,18 +1,20 @@
 # Tecpro Solutions
+**官方名称（调研核实）**：Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）
 
 > **评级 A**　|　阿联酋　|　档案编号 `SA-077`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成商（IT/ELV）（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-077
 rating: A
 rating_auto: A
+name_official: "Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）"
 score: 73
 country: 阿联酋
 region: 中东
 website: tecprosolutions.com
-type: 系统集成/工程商
+type: 系统集成商（IT/ELV）
 tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE"]
 deal: no
 replies: 3
@@ -21,19 +23,19 @@ first_contact: 2023-11-29
 last_contact: 2025-10-27
 p1: none
 price_tier: 25%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋的系统集成/工程商；兴趣/在卖：HDMI converter 网站：看到了switch  电缆类目
+- **是谁**：阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。（调研 2026-10-21；表内兴趣：HDMI converter 网站：看到了switch  电缆类目）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）；最近一次客户回复：2024-10-25：最近来中国
 - **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | Tecpro Solutions | 事实（用户表） |
 | 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | tecprosolutions.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 系统集成商（IT/ELV） | 推断（据兴趣/备注关键词） |
 | 联系人 | MD Shereef | 事实（用户表） |
 | 来源（From） | 迪拜展 | 事实（用户表） |
 | 兴趣（Interested in） | HDMI converter<br>网站：看到了switch  电缆类目 | 事实（用户表） |
@@ -63,7 +65,25 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-077.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。
+- **类型**：系统集成商（IT/ELV）
+- **规模**：小型（11–50 人，3 个本地办公室）
+- **【官网】20+ 年经验的阿联酋系统集成商，覆盖政府/企业/银行/机场/医疗/教育/酒店/电信**
+  > Tecpro Solutions, a leading System Integrator in UAE brings over 20+ years of industry experience… government, corporate, banking, airports, healthcare, education, hospitality, telecom, and contracting
+  > 来源：https://www.tecprosolutions.com/（抓取 2026-10-21）
+- **【官网】三地办公室与电话**
+  > DUBAI Saheel Tower 2… 00971 4 3266881… ABU DHABI… 00971 2 6767373… AL AIN… 00971 3 7662264
+  > 来源：https://www.tecprosolutions.com/contact-us/（抓取 2026-10-21）
+- **【LinkedIn】安防系统服务业，11–50 人，2004 年创立**
+  > Industry: Security Systems Services… Company size: 11-50 employees… Founded: 2004
+  > 来源：https://www.linkedin.com/company/tecprosolutionsllc（抓取 2026-10-21）
+- **【LinkedIn】Mohammed Rafi 为 Executive Director（2023 起），此前 17 年运营总监**
+  > Executive Director Tecpro Solutions Co. L.L.C. Jun 2023 - Present… Director Of Operations… Sep 2005 - Jun 2023
+  > 来源：https://www.linkedin.com/in/mohammed-rafi-30365656/（抓取 2026-10-21）
+- **KP**：Mohammed Rafi（Executive Director） +971 50 4489928（用户记录 WA）〔用户 Clients 表 + LinkedIn 职务〕
+- **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
+- 备注：3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -120,7 +140,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | — | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | — | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 25%（系统集成商（IT/ELV）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

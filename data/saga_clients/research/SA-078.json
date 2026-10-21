@@ -1,0 +1,38 @@
+{
+ "code": "SA-078",
+ "name_official": "BSN System / Berkah Saudara Network（雅加达）",
+ "website_status": "在线",
+ "summary": "印尼雅加达独立安防与 IT 解决方案公司（8 年经验，OSE 安防措施 + 外包运维）；用户记录 2 次回复、已加 WA，明确需要 2 光 4 电 ERPS 环网工业交换机。",
+ "type": "安防/IT 集成商",
+ "size": "小型",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "独立安防/IT 组织，8 年经验，提供安全系统与外包运维",
+   "quote": "BSN adalah organisasi independen… Dengan 8 tahun pengalaman dan berorientasi layanan… Anda juga dapat mengalihdayakan layanan dan pemeliharaan lengkap Anda kepada kami",
+   "url": "https://bsn-system.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址与联系方式（雅加达西区）",
+   "quote": "Jalan Jembatan Besi No 23 A Grogol… Jakarta Barat 11320… 0819-3999-8899… info@bsn-system.com",
+   "url": "https://bsn-system.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（用户记录联系人，Gmail 个人邮箱）",
+   "role": "",
+   "email": "sales@bsn-system.com",
+   "phone": "+62 819-3999-8899（官网）",
+   "source": "官网 + 用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

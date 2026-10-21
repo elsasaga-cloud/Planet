@@ -1,0 +1,34 @@
+{
+ "code": "SA-088",
+ "name_official": "fibotelecom.ru（俄罗斯；用户记录：DWDM 线索，采购 Anastasia Roshchupkina）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "俄罗斯光传输/DWDM 领域采购线索（用户记录：买过飞宇的产品，属 DPtek 客户群），无任何跟进互动，2024 年线索。",
+ "type": "运营商/光传输采购（待补证）",
+ "size": "待补证",
+ "brands_seen": [
+  "飞宇（用户记录）",
+  "DPtek（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "DWDM 线索；0 次跟进；采购联系人具名",
+   "quote": "DWDM lead, 0 fu, DPtek customer；买了飞宇的；Anastasia Roshchupkina / Purchasing（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Anastasia Roshchupkina",
+   "role": "Purchasing",
+   "email": "roshchupkina@fibotelecom.ru",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。",
+ "notes": "若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。",
+ "researched_at": "2026-10-21"
+}

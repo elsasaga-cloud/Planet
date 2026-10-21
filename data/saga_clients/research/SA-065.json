@@ -1,0 +1,40 @@
+{
+ "code": "SA-065",
+ "name_official": "Loop Telecommunication International, Inc.（Loop Telecom，台湾上市 3025；EMEA 销售 VP 驻法国）",
+ "website_status": "在线",
+ "summary": "台湾电信/工业网络设备制造商（1991 年创立，台交所 3025），自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830 等）。用户表登记为法国（Eric Piaget, V.P. Sales EMEA & India），A 已回复 + A 台湾名单，兴趣工业 FS / MC / 工业物联网。",
+ "type": "台系品牌制造商（可能的低端 OEM 采购方）",
+ "size": "上市公司（台湾）",
+ "brands_seen": [
+  "Loop"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司性质",
+   "quote": "In 1991, a group of established professionals from the communications industry founded Loop Telecom. It is currently traded on the Taiwan Stock Exchange Corp., or TSEC (3025).",
+   "url": "https://www.looptelecom.com/en/about/Company-Overview",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自研工业/铁路交换机线（与 Saga 产品重叠）",
+   "quote": "Loop-IP6828 Industrial Rack-Mount L2/L3 Managed Gigabit Ethernet PoE/PoE+ Switch … Rugged industrial design for -40~75°C harsh environment operation",
+   "url": "https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Eric Piaget",
+   "role": "V.P. Sales EMEA & India（用户表）",
+   "email": "eric-piaget@looptelecom.com",
+   "phone": "+33 6 6767 1045",
+   "source": "Clients/A/Taiwan.xlsx"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

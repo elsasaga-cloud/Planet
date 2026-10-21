@@ -1,0 +1,33 @@
+{
+ "code": "SA-080",
+ "name_official": "ITK（itk.co.th，泰国）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "泰国网络产品经销商（用户记录：ONV 经销商），群发/跟进 16 次无任何回复。",
+ "type": "经销商",
+ "size": "待补证",
+ "brands_seen": [
+  "ONV（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "ONV 经销商；16 次跟进 0 回复",
+   "quote": "ONV reseller；0 reply / 16 follow-ups（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（无具名）",
+   "role": "",
+   "email": "sales@itk.co.th",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。",
+ "notes": "重启只做一次'ONV 对位 SKU + 价格差'单问邮件；无回应即停。",
+ "researched_at": "2026-10-21"
+}

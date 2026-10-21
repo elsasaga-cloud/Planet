@@ -1,0 +1,39 @@
+{
+ "code": "SA-070",
+ "name_official": "IPCamPower（Broken Arrow / Tulsa, Oklahoma, USA）",
+ "website_status": "在线",
+ "summary": "俄克拉荷马的自有品牌 PoE 产品商（2015 年由 Sean Nelson 创立，17 人，营收约 $3.9M；其前一家公司 Nelly's Security 为 CCTV 分销商，2023 年出售），专注面向 IP 摄像机安装商的非网管 PoE 交换机（如 IPCP-8G4G-AT1 8 PoE + 4 上联、extend mode）、注入器、延长器、PoE 监测器。用户表：A 已回复，联系人 Sean Nelson（Owner）；「主做 PoE，ONV 的」。",
+ "type": "品牌商/电商（中国白牌贴牌，OEM 目标）",
+ "size": "17 人；$3.9M（Datanyze）",
+ "brands_seen": [
+  "IPCamPower",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "创始人与定位",
+   "quote": "My name is Sean Nelson and I started IPCamPower in 2015 with one goal in mind: To supply POE switches that are designed primarily for IP Cameras … in 2023 I took the opportunity to sell the company [Nelly's Security] so I could focus on my growing passion of product creation and invention.",
+   "url": "https://ipcampower.com/pages/about-us",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Datanyze）",
+   "claim": "规模",
+   "quote": "IPCamPower specializes in providing Power Over Ethernet (POE) switches, extenders, splitters … Revenue $3.9 M · Employees 17 · Founded 2017 … Sean Nelson Owner",
+   "url": "https://www.datanyze.com/companies/ipcampower/468558538",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Sean Nelson",
+   "role": "Owner",
+   "email": "sales@ipcampower.com",
+   "phone": "",
+   "source": "https://ipcampower.com/pages/about-us"
+  }
+ ],
+ "notes": "A 确认（美国自有品牌 PoE + 老板直联 + 现供应商 ONV）：对位 IPCP-8G4G-AT1 ≈ STC-28DGGPM/非网管 8 PoE 款（需向 SmartByte 确认 extend-mode 非网管型号），30% OEM 档；强调 Marvell 方案与 FCC。",
+ "researched_at": "2026-10-21"
+}

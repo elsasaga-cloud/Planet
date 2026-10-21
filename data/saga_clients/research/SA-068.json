@@ -1,0 +1,45 @@
+{
+ "code": "SA-068",
+ "name_official": "DYMEC（Katy/Houston, Texas & Blue Springs, Missouri, USA）",
+ "website_status": "在线（产品页 2026-01 更新）",
+ "summary": "美国自有品牌工业以太网供应商：KY- 系列 DIN/机架 L2/L3 工业交换机（含 10G、PoE、bt）、「Economy」线（KY-3120DM $590、KY-2189RG $299、Vitesse 芯片）、部分型号标 TAA 合规与 NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、工业、铁路。用户表：A 已回复 1 次，联系人 Thom Sherer；兴趣工业 FS / SFP，「有统一的型号」。",
+ "type": "品牌商（白牌贴牌，OEM 目标）",
+ "size": "未见人数（小型品牌，多地址）",
+ "brands_seen": [
+  "DYMEC"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌工业交换机线及零售价",
+   "quote": "20-Port Layer 2 Managed Industrial Ethernet Switch … DYMEC Warranty:5 Year / Limited Lifetime … $590.00 sale price … KY-3120DM Managed Ethernet switch is a purpose built CyberLock- High Security Ethernet Industrial Switch",
+   "url": "https://www.dymec.com/products/economy-industrial-ethernet-switches/layer-2-managed/ky-3120dm/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "部分型号要求 TAA（中国产地冲突点）",
+   "quote": "20 Port Managed Layer 2 Ethernet Switch with 10GbE Uplink … NSA Endpoint Security Certified:YES … TAA Compliant:YES",
+   "url": "https://www.dymec.com/products/din-rail-rack-layer-2-industrial-ethernet-switches/ten-gigabit/ky-msx0812/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式（与用户表手机一致）",
+   "quote": "2243 N. Mason Rd, Suite 402, Katy, Texas 77449 Phone: (816) 988-7861, (713) 826-0739 E-Mail: sales@dymec.com",
+   "url": "https://www.dymec.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Thom Sherer",
+   "role": "联系人（用户表邮箱）",
+   "email": "thom.sherer@dymec.com",
+   "phone": "+1 713-826-0739",
+   "source": "https://www.dymec.com/"
+  }
+ ],
+ "notes": "A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,49 @@
+{
+ "code": "SA-064",
+ "name_official": "52 Networks, Inc.（Woodbridge, Virginia, USA）",
+ "website_status": "在线",
+ "summary": "弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。",
+ "type": "经销商（政府/商业小单，已成交）",
+ "size": "1–10 人；<$1M（govtribe）",
+ "brands_seen": [
+  "C2G",
+  "Tripp Lite",
+  "Transition Networks",
+  "Perle",
+  "StarTech"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（GovTribe）",
+   "claim": "规模与业务",
+   "quote": "52 Networks, Inc. … Employees: 1-10 · Estimated annual revenue: $0-$1M … networking infrastructure components (fiber optic cabling, media converters, HDMI cables, patch cords, switches, modular panels)",
+   "url": "https://govtribe.com/vendors/52-networks-inc-dot-907x4",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（GSA eLibrary）",
+   "claim": "GSA 合同与联系人邮箱",
+   "quote": "52 NETWORKS, INC. … Email: uzair@52networks.com … Socio-Economic : Small Business SBA Certified Small Disadvantaged Business Current Option Period End Date : Jul 25, 2027",
+   "url": "https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Uzair（GSA 登记联系人）",
+   "role": "负责人",
+   "email": "uzair@52networks.com",
+   "phone": "+1 571-402-8369",
+   "source": "https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES"
+  },
+  {
+   "name": "—",
+   "role": "销售邮箱（用户表）",
+   "email": "sales@52networks.com",
+   "phone": "+1 757-799-1359",
+   "source": "https://52networks.com/contact-us/"
+  }
+ ],
+ "notes": "A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。",
+ "researched_at": "2026-10-21"
+}

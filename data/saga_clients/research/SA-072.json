@@ -1,0 +1,55 @@
+{
+ "code": "SA-072",
+ "name_official": "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.（Istanbul, Türkiye）",
+ "website_status": "在线（含 shop.sge.com.tr 网店）",
+ "summary": "伊斯坦布尔的电气工程/能源自动化公司（2007 年成立，16 人），Sprecher Automation、Elspec 等测量/保护产品的土耳其分销商，销往中东/俄罗斯/突厥语国家/非洲；网店「工业网络产品」类目在售中国产工业 PoE 交换机（CIEN3206GP-2GF-4GTPOE 14,159 TL、CIEN2208-4F，交期 5 周，5 年保）。用户表：A 已回复 1 次，联系人 Murat Gül（Electrical Engineer）/ Okan S.；兴趣工业控制，「迈威的」。",
+ "type": "工程分销商/集成（能源自动化；工业交换机转售）",
+ "size": "16 人（EMIS 2025）",
+ "brands_seen": [
+  "Sprecher Automation",
+  "Elspec",
+  "迈威(Maiwe)",
+  "CIEN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与分销区域",
+   "quote": "SGE Mühendislik; 2007 yılında, elektrik mühendisliği alanında hizmet vermek için kurulmuş profesyonel bir mühendislik şirketidir … Distribütörü olduğumuz bu ürünleri Türkiye, Orta Doğu, Rusya, Türki Cumhuriyetler, Afrika ülkelerine satıyor",
+   "url": "https://www.sge.com.tr/kurumsal-hakkimizda-16.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "网店",
+   "claim": "在售进口工业 PoE 交换机（5 周交期 = 中国直采）",
+   "quote": "CIEN3206GP-2GF-4GTPOE-DC48 … 2xGbit SFP, 4xGbit PoE Switch Bu ürünün teslim süresi 5 haftadır. 14.159,62 TL … -40 ila 75°C çalışma sıcaklığı aralığı Endüstriyel donanımı sayesinde ürün 5 yıl garanti",
+   "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（EMIS）",
+   "claim": "规模",
+   "quote": "Sge Muhendislik Elektrik Otomasyon Bilgi Islem San. Ve Tic. Ltd. Sti. … was incorporated on November 28, 2007. 16 (2025) employees",
+   "url": "https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Murat Gül",
+   "role": "Electrical Engineer（用户表）",
+   "email": "muratg@sge.com.tr",
+   "phone": "",
+   "source": "Clients/A Replied 09.04.xlsx"
+  },
+  {
+   "name": "Okan S.",
+   "role": "联系人（用户表）",
+   "email": "okans@sge.com.tr",
+   "phone": "",
+   "source": "Clients/A Replied 09.04.xlsx"
+  }
+ ],
+ "notes": "A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,45 @@
+{
+ "code": "SA-086",
+ "name_official": "Safe-tech CCTV Systems SWEDEN AB（Markaryd，瑞典，org.nr 556732-8181）",
+ "website_status": "企业登记在线（safe-tech.se 未单独抓取）",
+ "summary": "瑞典小型 CCTV/安防批发商，2007 年注册，3 名员工，2024 年营收 463 万 SEK（同比 −24%，经营亏损 −48 万 SEK）；ISAF 2025 到访，Jimmy Johansson（CEO/Owner）取目录并加 WA，之后 6 次推送 0 回复。",
+ "type": "CCTV 批发/安装商",
+ "size": "微型（3 人，营收 ≈463 万 SEK/2024）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "企业登记",
+   "claim": "2007 年注册，3 名员工，SNI 46649 批发",
+   "quote": "Registreringsdatum 2007-06-28… Antal anställda 3… 46649 Partihandel… Ledamot Jimmy Leif Göran Johansson",
+   "url": "https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "企业登记",
+   "claim": "2024 年营收 4,630 千 SEK，同比 −24.3%，营业亏损 −480 千 SEK",
+   "quote": "Omsättning 4 630 KSEK (−24,3 % mot föregående år) Rörelseresultat −480 KSEK",
+   "url": "https://www.bolagsfakta.se/5567328181-Safe_tech_CCTV_Systems_SWEDEN_AB",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "关联站",
+   "claim": "Jimmy Johansson 为 CEO/Owner，电话 070-610 17 11",
+   "quote": "Jimmy Johansson CEO/Owner/Support 070-610 17 11 jimmy@safe-tech.se",
+   "url": "https://safevisioncctv.se/index.php?route=information/ourstaff",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jimmy Johansson",
+   "role": "CEO / Owner",
+   "email": "jimmy@safe-tech.se",
+   "phone": "+46 70 610 17 11",
+   "source": "用户 Clients 表（ISAF 2025）+ safevisioncctv.se 员工页"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。",
+ "notes": "保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。",
+ "researched_at": "2026-10-21"
+}

@@ -1,18 +1,20 @@
 # infrateq.id
+**官方名称（调研核实）**：PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）
 
 > **评级 A**　|　印度尼西亚　|　档案编号 `SA-079`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成商+分销（VoIP/安防/工业网络）（推断）　|　**历史关系**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-079
 rating: A
 rating_auto: A
+name_official: "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）"
 score: 73
 country: 印度尼西亚
 region: 亚太
 website: infrateq.id
-type: 经销/集成（类型待核）
+type: 系统集成商+分销（VoIP/安防/工业网络）
 tier_tags: ["WA跟进"]
 deal: no
 replies: 6
@@ -21,19 +23,19 @@ first_contact: 2024-05-11
 last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度尼西亚的经销/集成（类型待核）；兴趣/在卖：洪瑞的工业FS；提到的品牌：洪瑞, FS
+- **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。（调研 2026-10-21；表内兴趣：洪瑞的工业FS）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | infrateq.id（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度尼西亚 | 事实（用户表）|
 | 网站/域名 | infrateq.id / divatel.co.id | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 系统集成商+分销（VoIP/安防/工业网络） | 推断（据兴趣/备注关键词） |
 | 联系人 | Ismed S / 62 85289404589 WA | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 洪瑞的工业FS | 事实（用户表） |
@@ -53,7 +55,25 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-079.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。
+- **类型**：系统集成商+分销（VoIP/安防/工业网络）
+- **规模**：小型（LinkedIn 2–10 / Glints 51–200，口径不一；ZoomInfo 营收 2,360 万美元待核）
+- **在卖/在用品牌**：VitalPBX（合作伙伴）
+- **【官网】2001 年起的 VoIP/PA/云 PBX/联络中心/CCTV 供应商，面向中大型企业**
+  > Sejak tahun 2001, Divatel telah berada di garis depan dalam menyediakan solusi PA System, IP PBX, Cloud PBX, Omnichannel Contact Center… untuk perusahaan skala menengah hingga besar
+  > 来源：https://pa-system.infrateq.com/profile/（抓取 2026-10-21）
+- **【LinkedIn】CEO/创始人 Ismed Sitepu，业务含离网 CCTV、太阳能供电交换机、网络**
+  > CEO and Founder PT. Divatel Pratama 2001 - Present… Offgrid CCTV Surveillance - Solar Panel Switch / Hub - Video Conferencing
+  > 来源：https://www.linkedin.com/in/ismedsitepu/（抓取 2026-10-21）
+- **【合作伙伴页】infrateq.com 为其电商站，另提供网络解决方案**
+  > The further details of service and products we sell can be seen at our commerce website infrateq.com We also provide video conference solutions, Hyperconverge server and Networks solutions
+  > 来源：https://vitalpbx.com/vitalpbx-partners/pt-divatel-pratama/（抓取 2026-10-21）
+- **【YouTube】业务含 CCTV、工业网络**
+  > PA System, CCTV, Network Industri, Cloud PBX, Contact Center Omnichannel
+  > 来源：https://www.youtube.com/@DivatelPratama（抓取 2026-10-21）
+- **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
+- 备注：A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -104,7 +124,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（系统集成商+分销（VoIP/安防/工业网络）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
