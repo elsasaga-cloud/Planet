@@ -38,7 +38,7 @@ where environmental conditions are harsh and critical.
 |---|---|---|
 |  | Model No. | LT-IS6018G-2GX16GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 16 |
+|  | Interface | 2 \| 16 |
 |  | Ethernet | 16*10/100/1000Base-T<br>2*1000Base-X |
 |  | Alarm port | One relay output for power failure. Alarm relay current carry ability: 1A@24VDC |
 |  | Standard | IEEE 802.3<br>10Base-T<br>Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3ab Gigabit Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet |

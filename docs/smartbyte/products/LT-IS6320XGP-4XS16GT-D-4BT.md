@@ -58,7 +58,7 @@ where environmental conditions are harsh and critical
 |---|---|---|
 |  | Model No. | LT-IS6320XGP-4XS16GT-SD-4BT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 16 |
+|  | Interface | 4 \| 16 |
 |  | Ethernet | 16*10/100/1000Base-T RJ45 PoE<br>4*1G/2.5G/10GBase-X SFP+ |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

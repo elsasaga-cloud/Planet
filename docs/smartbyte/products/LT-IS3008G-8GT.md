@@ -39,7 +39,7 @@ where environmental conditions exceed commercial product specifications.
 |---|---|---|
 |  | (Model No. | LT-IS3008G-8GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 0 | 8 |
+|  | Interface | 0 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45 ports |
 |  | Standard | IEEE 802.3 Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3ab Gigabit Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet |
 |  | Dip Switch | 1.<br>Port Isolation (No.8 is the uplink port)<br>2.<br>Flow control<br>3.<br>QoS (1-2 ports<br>）<br>4.<br>Broadcast storm restrain |

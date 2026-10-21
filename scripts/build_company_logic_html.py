@@ -177,6 +177,18 @@ def price_sample_table():
     return tbl(["SmartByte 型号", "Saga 型号", "CNY 未税", "USD +20%", "USD +25%", "USD +30%", "对照说明"], rows, "small")
 
 
+def series_table():
+    g = OrderedDict()
+    for r in pm_rows:
+        g.setdefault(re.sub(r"\s+", " ", r["系列/节"].strip()), []).append(r)
+    rows = []
+    for k, v in g.items():
+        c = [float(x["CNY未税"]) for x in v if re.fullmatch(r"[\d.]+", x["CNY未税"].strip())]
+        saga = [x["Saga对应型号"] for x in v if x["Saga对应型号"] and not x["Saga对应型号"].startswith("（")]
+        rows.append((k[:80], len(v), f"{int(min(c))}–{int(max(c))}" if c else "", f"{len(saga)}/{len(v)}", "、".join(saga[:4]) + ("…" if len(saga) > 4 else "")))
+    return tbl(["价格表系列 / 节（SmartByte 2026-09 价格表原文）", "型号数", "CNY 未税区间", "有 Saga 名", "Saga 型号示例"], rows, "small")
+
+
 def country_table():
     rows = [(k, v) for k, v in country.most_common()]
     return tbl(["国家", "户数"], rows, "small")
@@ -328,7 +340,8 @@ A("<div class='two'><div>" + cat_table() + "</div><div class='box'><h4 style='ma
 # 4 报价逻辑
 A("<h2 id='s4'>4 · 报价逻辑</h2>")
 A(f"<div class='box'><b>公式</b>：USD EXW = SmartByte CNY 未税 × 档位系数 ÷ USD/CNY（当前 {rate} @ {rate_date}）。档位：分销商 / 电商 <b>+20%</b>，集成商 / 项目 <b>+25%</b>，OEM/ODM <b>+30%</b>。对外格式：<code>$xx USD EXW（快照日期，15 天有效，报价前核价）</code>。价格表 {len(pm_rows)} 个型号、有效期 2026-09-01 → 12-30；SmartByte 本身的加价项（DI/DO +60 元、RS485 +100 元、10G 光版 +10 USD、850 W 机型 +400、SC 双纤替代 SFP +33、只出板 −35）要先加进 CNY 再乘系数。</div>")
-A(price_sample_table())
+A("<h4>价格表 12 个系列：Saga 卖什么、在什么价位</h4>" + series_table())
+A("<h4>代表型号三档价</h4>" + price_sample_table())
 A("<p class='src'>全表：`data/价格主表.csv`（135 行）与 `docs/reference/价格表_三档加价_USD.md`。Saga 列表价与公式价的差异已搁置（T03）；STI-240/STI-050 等 Saga 名的端口含义以价格主表为准（Q-27 待批量复核）。</p>")
 
 # 5 技术路线与时间线

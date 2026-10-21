@@ -48,7 +48,7 @@ housing with Din-rail installation, wide operation temperature from -40°C to 75
 |---|---|---|
 |  | Model No. | LT-IS6318XG-2XS16GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 16 |
+|  | Interface | 2 \| 16 |
 |  | Ethernet | 16*10/100/1000Base-T RJ45<br>2*1G/2.5G/10GBase-X SFP+ |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

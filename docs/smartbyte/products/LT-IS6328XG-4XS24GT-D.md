@@ -54,7 +54,7 @@ where environmental conditions are harsh and critical
 |---|---|---|
 |  | Model No. | LT-IS6328XG-4XS24GT-D |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 24 |
+|  | Interface | 4 \| 24 |
 |  | Ethernet | 24*10/100/1000Base-T RJ45<br>4*1G/2.5G/10GBase-X SFP+ |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

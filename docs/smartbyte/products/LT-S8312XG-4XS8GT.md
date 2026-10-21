@@ -56,7 +56,7 @@ is a Layer 2+ full gigabit managed switch, which features 8-port 10/100/1000Base
 |---|---|---|
 |  | Model No. | LT-S8312XG-4XS8GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 8 |
+|  | Interface | 4 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45<br>4<br>*1<br>G/2.5G/10G<br>Base-X SFP<br>+ |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

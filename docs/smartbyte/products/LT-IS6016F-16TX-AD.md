@@ -39,7 +39,7 @@ where environmental conditions exceed commercial product specifications
 |---|---|---|
 |  | Model No. | LT-IS6016F-16TX-AD |
 |  | Interface | Fiber port \| Copper RJ45 ports |
-|  | Interface / 0 | 16 |
+|  | Interface | 0 \| 16 |
 |  | Ethernet | 16*10/100Base-TX RJ45 |
 |  | Standard | IEEE 802.3<br>10Base-T<br>Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet |
 |  | Dip Switch | 1.<br>Port Isolation<br>2.<br>Flow control<br>3.<br>QoS(1-2 ports<br>）<br>4.<br>Broadcast storm restrain |

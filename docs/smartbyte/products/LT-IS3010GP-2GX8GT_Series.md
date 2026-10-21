@@ -37,7 +37,7 @@ C as well as high-level EMI/EMC capability and so on. They are the best choice f
 |---|---|---|
 |  | Model No. | LT-IS3010GP-2GX8GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 8 |
+|  | Interface | 2 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T PoE<br>2*1000Base-X SFP (SC/ST optional) |
 |  | Standard | IEEE 802.3 Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3ab Gigabit Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet<br>IEEE 802.3af<br>Power-over-Ethernet<br>IEEE 802.3at Power-Over-Ethernet Plus PSE |
 |  | Dip Switch | 1.<br>Port Isolation<br>2.<br>250m long distance mode(1-4 ports)<br>3.<br>QoS(1-2 ports<br>）<br>4.<br>PoE watchdog |

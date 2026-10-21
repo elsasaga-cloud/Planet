@@ -77,7 +77,7 @@ full Gigabit access and unparalleled scalability to 10G performance. The LT-S8
 |---|---|---|
 |  | Model No. | LT-S8552XGP-4XS48GT-4BT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 48 |
+|  | Interface | 4 \| 48 |
 |  | Ethernet | 48<br>*10/100/1000Base-T RJ45<br>PoE<br>4<br>*1<br>G/2.5G/10G<br>Base-X SFP<br>+ |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 1GB |

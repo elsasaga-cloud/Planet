@@ -60,7 +60,7 @@ where environmental conditions are harsh and critical
 |---|---|---|
 |  | Model No. | LT-IS6306GP-2GX4GT-D-2BT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 8 |
+|  | Interface | 2 \| 8 |
 |  | Ethernet | 4*10/100/1000Base-T RJ45 PoE<br>2*1G/2.5GBase-X SFP |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

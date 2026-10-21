@@ -52,7 +52,7 @@ mobile transportation & vehicle mounted systems, solar-powered & off-deployments
 |---|---|---|
 |  | Model No. | LT-IS6312GP-4GX8GT-D-BST |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 8 |
+|  | Interface | 4 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45 PoE<br>4*1000/2500Base-X SFP |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

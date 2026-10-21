@@ -58,7 +58,7 @@ is the Layer 2+ managed Gigabit switch. The series deliver full Gigabit access a
 |---|---|---|
 |  | Model No. | LT-S8328XG-4XS24GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 24 |
+|  | Interface | 4 \| 24 |
 |  | Ethernet | 24<br>*10/100/1000Base-T RJ45<br>4<br>*1<br>G/2.5G/10G<br>Base-X SFP<br>+ |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

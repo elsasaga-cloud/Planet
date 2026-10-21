@@ -81,8 +81,13 @@ def parse_table(table):
             pending = (pending[0], pending[1] - 1)
             continue
         if pending and pending[1] > 0 and len(nonempty) >= 2:
-            # rowspan 键下的 子键/值
-            rows.append((section, f"{pending[0]} / {nonempty[0][1]}", " | ".join(t for _, t in nonempty[1:])))
+            first = nonempty[0][1]
+            if len(first) <= 3 or re.fullmatch(r"[\d.,/*+\-\s]+", first):
+                # rowspan 键下的 多列数值（如 Interface: Fiber ports | Copper ports → 2 | 8）
+                rows.append((section, pending[0], " | ".join(t for _, t in nonempty)))
+            else:
+                # rowspan 键下的 子键/值
+                rows.append((section, f"{pending[0]} / {first}", " | ".join(t for _, t in nonempty[1:])))
             pending = (pending[0], pending[1] - 1)
             continue
         pending = None

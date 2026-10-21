@@ -64,7 +64,7 @@ It offers a rack-mountable, affordable, safe and reliable power solution for SMB
 |---|---|---|
 |  | Model No. | LT-S8352GP-4GX48GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 48 |
+|  | Interface | 4 \| 48 |
 |  | Ethernet | 48<br>*10/100/1000Base-T RJ45<br>PoE<br>4<br>*1<br>G/2.5G<br>Base-X SFP |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

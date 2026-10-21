@@ -58,7 +58,7 @@ where environmental conditions are harsh and critical
 |---|---|---|
 |  | Model No. | LT-IS6312GP-4GX8GT-2FBP |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 8 |
+|  | Interface | 4 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45 PoE<br>4*1G/2.5GBase-X SFP |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

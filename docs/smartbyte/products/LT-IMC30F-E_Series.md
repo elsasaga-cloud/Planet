@@ -43,7 +43,7 @@ where environmental conditions exceed commercial product specifications
 |---|---|---|
 |  | Model No. | LT-IMC30F-E |
 |  | Interface | Fiber port \| Copper RJ45 port |
-|  | Interface / 1 | 1 |
+|  | Interface | 1 \| 1 |
 |  | Ethernet | 1*10/100Base-TX RJ45<br>1*100Base-FX SFP (SC/ST/FC optional) |
 |  | Standard | IEEE 802.3 10Base-T Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3x Full-Duplex Flow Control |
 |  | Dip Switch | 1. LFP<br>2. Flow control<br>3. Broadcast storm restrain<br>4. 10Kbytes jumbo frame |

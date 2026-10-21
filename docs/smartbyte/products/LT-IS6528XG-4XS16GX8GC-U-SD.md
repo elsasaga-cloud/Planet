@@ -57,7 +57,7 @@ where environmental conditions are harsh and critical
 |---|---|---|
 |  | Model No. | LT-IS6528XG-4XS16GX8GC-U-D |
 |  | Interface | Fiber ports \| Combo ports |
-|  | Interface / 20 | 8 |
+|  | Interface | 20 \| 8 |
 |  | Ethernet | 16*100/1000Base-X SFP<br>8*Combo RJ45/SFP<br>4*1G/2.5G/10GBase-X SFP+ |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 1GB |

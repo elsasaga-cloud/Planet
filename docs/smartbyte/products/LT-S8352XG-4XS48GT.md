@@ -59,7 +59,7 @@ LT-S8352XG-4XS48GT is a Layer 2+ managed Gigabit switch. The series deliver full
 |---|---|---|
 |  | Model No. | LT-S8352XG-4XS48GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 48 |
+|  | Interface | 4 \| 48 |
 |  | Ethernet | 48<br>*10/100/1000Base-T RJ45<br>4<br>*1<br>G/2.5G/10G<br>Base-X SFP<br>+ |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

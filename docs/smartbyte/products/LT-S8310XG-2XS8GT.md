@@ -56,7 +56,7 @@ is a Layer 2+ managed switch, which features 8-port 10/100/1000Base-T RJ45 and 2
 |---|---|---|
 |  | Model No. | LT-S8310XG-2XS8GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 8 |
+|  | Interface | 2 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45<br>2<br>*1<br>G/2.5G/10G<br>Base-X SFP<br>+ |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

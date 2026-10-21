@@ -39,7 +39,7 @@ where environmental conditions are harsh and crucial.
 |---|---|---|
 |  | Model No. | LT-IS3210G-2GX8GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 8 |
+|  | Interface | 2 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45<br>2*1000/2500Base-X SFP<br>（<br>SC/FC/ST optional<br>） |
 |  | Management port | 1*RJ45 Console |
 |  | Standard | IEEE 802.3 10Base-T Ethernet<br>IEEE 802.3u 100Base-TX Ethernet<br>IEEE 802.3ab 1000Base-T Ethernet<br>IEEE 802.3z 1000Base-X Ethernet<br>IEEE 802.3x Flow Control and Back Pressure<br>IEEE 802.1D Spanning Tree Protocol<br>IEEE 802.1w Rapid Spanning Tree Protocol<br>IEEE 802.1Q VLAN Tagging<br>ITU-T G.8032 ERPS<br>IEEE 802.1X Port Authentication Network Control<br>IEEE 802.1ab LLDP<br>IEEE 802.3ad LACP |

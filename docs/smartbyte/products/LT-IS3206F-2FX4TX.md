@@ -38,7 +38,7 @@ where environmental conditions are harsh and crucial.
 |---|---|---|
 |  | Model No. | LT-IS3206F-2FX4TX |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 4 |
+|  | Interface | 2 \| 4 |
 |  | Ethernet | 4*10/100-TX RJ45<br>2*100Base-FX SFP |
 |  | Management port | 1*RJ45 Console |
 |  | Standard | IEEE 802.3 10Base-T<br>IEEE 802.3u 100Base-TX<br>IEEE 802.3x flow control and back pressure<br>IEEE 802.1D spanning tree protocol<br>IEEE 802.1w rapid spanning tree protocol<br>IEEE 802.1Q VLAN tagging<br>ITU-T G.8032 ERPS<br>IEEE 802.1X port authentication network control<br>IEEE 802.1ab LLDP<br>IEEE 802.3ad LACP |

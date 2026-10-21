@@ -53,7 +53,7 @@ temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is
 |---|---|---|
 |  | Model No. | LT-IS6328GP-4GX24GT-SD |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 24 |
+|  | Interface | 4 \| 24 |
 |  | Ethernet | 24*10/100/1000Base-T RJ45 PoE<br>4*1G/2.5GBase-X SFP |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

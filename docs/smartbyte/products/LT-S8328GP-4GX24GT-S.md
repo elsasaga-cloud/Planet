@@ -100,7 +100,7 @@ t offers a rack-mountable, affordable, safe and reliable power solution for SMBs
 |---|---|---|
 |  | Model No. | LT-S8328GP-4GX24GT-S |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 24 |
+|  | Interface | 4 \| 24 |
 |  | Ethernet | 24<br>*10/100/1000Base-T RJ45<br>PoE<br>4<br>*1<br>G/2.5G<br>Base-X SFP |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

@@ -46,7 +46,7 @@ temperature from -40°C to 75°C as well as high-level EMI/EMC capability. It is
 |---|---|---|
 |  | Model No. | LT-IS6320XG-4XS8GX8GT-SD |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 12 | 8 |
+|  | Interface | 12 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45<br>8*100/1000Base-X SFP (9-16 ports)<br>4*1G/2.5G/10GBase-X SFP+ (17-20 ports) |
 |  | CPU | Marvell AC5 series 1.2GHz |
 |  | Size of RAM | 512MB |

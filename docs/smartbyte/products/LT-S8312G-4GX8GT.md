@@ -54,7 +54,7 @@ SmartByte LT-S8312G-4GX8GT is a Layer 2+ full gigabit managed switch, which feat
 |---|---|---|
 |  | Model No. | LT-S8312G-4GX8GT |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 8 |
+|  | Interface | 4 \| 8 |
 |  | Ethernet | 8*10/100/1000Base-T RJ45<br>4<br>*1<br>G/2.5G<br>Base-X SFP |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

@@ -58,7 +58,7 @@ is the Layer 2+ full gigabit managed switch, which provide high-density performa
 |---|---|---|
 |  | Model No. | LT-S8328G-20GX8GC |
 |  | Interface | 1G<br>/2.5G<br>Fiber ports \| 100/1000M<br>F<br>iber<br>ports \| Gigabit<br>C<br>ombo |
-|  | Interface / 4 | 16 \| 8 |
+|  | Interface | 4 \| 16 \| 8 |
 |  | Ethernet | 16*100/1000Base-X SFP<br>8<br>*<br>1G<br>COMBO<br>SFP/RJ45<br>4*1G/2.5GBase-X SFP |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

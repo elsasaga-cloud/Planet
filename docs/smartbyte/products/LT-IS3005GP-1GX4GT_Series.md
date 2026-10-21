@@ -42,7 +42,7 @@ where environmental conditions exceed commercial product specifications.
 |---|---|---|
 |  | Model No. | LT-IS3005GP-1GX4GT |
 |  | Interface | Fiber port \| Copper RJ45 ports |
-|  | Interface / 1 | 4 |
+|  | Interface | 1 \| 4 |
 |  | Ethernet | 4*10/100/1000Base-T PoE<br>1*1000Base-X SFP (SC/ST optional) |
 |  | Standard | IEEE 802.3<br>10Base-T<br>Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3ab Gigabit Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet<br>IEEE 802.3af Power-Over-Ethernet<br>IEEE 802.3at Power Over Ethernet plus PSE |
 |  | Dip Switch | 1.<br>Port Isolation<br>2.<br>250m long distance mode (1-2 ports)<br>3.<br>QoS(1-2 ports<br>）<br>4.<br>PoE watchdog |

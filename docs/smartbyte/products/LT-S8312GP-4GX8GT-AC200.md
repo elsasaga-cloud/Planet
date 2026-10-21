@@ -65,7 +65,7 @@ for different kinds of PoE applications, which provides a quick, safe and cost-e
 |---|---|---|
 |  | Model No. | LT-S8312GP-4GX8GT<br>-AC200 |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 4 | 8 |
+|  | Interface | 4 \| 8 |
 |  | Ethernet | 8<br>*10/100/1000Base-T RJ45<br>PoE<br>4<br>*1000<br>/2500<br>Base-X SFP |
 |  | CPU | Marvell AC5<br>series<br>1.2GHz |
 |  | Size of RAM | 512MB |

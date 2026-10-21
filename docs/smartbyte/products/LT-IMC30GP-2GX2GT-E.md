@@ -43,7 +43,7 @@ where environmental conditions exceed commercial product specifications
 |---|---|---|
 |  | Model No. | LT-IMC30GP-2GX2GT-E |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 2 |
+|  | Interface | 2 \| 2 |
 |  | Ethernet | 2*10/100/1000Base-T PoE<br>2*100/1000Base-X SFP |
 |  | Standard | IEEE 802.3 10Base-T Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3ab Gigabit Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet<br>IEEE 802.3af Power-Over-Ethernet<br>IEEE 802.3at Power Over Ethernet plus PSE |
 |  | Dip Switch | 1. Fiber redundant<br>2. Fiber port 100/1000M selection<br>3. 250m long distance mode (1-2 ports)<br>4. PoE watchdog |

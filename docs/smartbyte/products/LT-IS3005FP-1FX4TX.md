@@ -40,7 +40,7 @@ where environmental conditions exceed commercial product specifications.
 |---|---|---|
 |  | Model No. | LT-IS3005FP-1FX4TX |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 4 |
+|  | Interface | 2 \| 4 |
 |  | Ethernet | 4*10/100Base-TX PoE<br>1*100Base-FX SFP |
 |  | Standard | IEEE 802.3<br>10Base-T<br>Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet<br>IEEE 802.3af Power-Over-Ethernet<br>IEEE 802.3at Power Over Ethernet plus PSE |
 |  | Dip Switch | 1.<br>Port Isolation<br>2.<br>250m long distance mode (1-4 ports)<br>3.<br>QoS(1-2 ports<br>）<br>4.<br>PoE watchdog |

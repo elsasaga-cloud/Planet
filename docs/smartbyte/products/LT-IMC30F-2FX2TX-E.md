@@ -41,7 +41,7 @@ where environmental conditions exceed commercial product specifications
 |---|---|---|
 |  | Model No. | LT-IMC30F-2FX2TX-E |
 |  | Interface | Fiber ports \| Copper RJ45 ports |
-|  | Interface / 2 | 2 |
+|  | Interface | 2 \| 2 |
 |  | Ethernet | 2*10/100Base-TX RJ45<br>2*100Base-FX SFP |
 |  | Standard | IEEE 802.3 10Base-T Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet |
 |  | Dip Switch | 1. Fiber redundant<br>2. Flow control<br>3. Broadcast storm restrain<br>4. 10K Bytes Jumbo frame |

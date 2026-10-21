@@ -33,7 +33,7 @@ industrial field where installation space is limited and restricted
 |---|---|---|
 |  | Model No. | LT-IS3005F-5TX-M-AD |
 |  | Interface | Fiber port \| Copper RJ45 ports |
-|  | Interface / 0 | 5 |
+|  | Interface | 0 \| 5 |
 |  | Ethernet | 5*10/100Base-TX RJ45 |
 |  | Standard | IEEE 802.3<br>10Base-T<br>Ethernet<br>IEEE 802.3u Fast Ethernet<br>IEEE 802.3x Full-Duplex Flow Control<br>IEEE 802.3az Energy Efficient Ethernet |
 |  | LED Indicators | P(Power indicator)<br>Green \| Off: the device is power off or failed |
