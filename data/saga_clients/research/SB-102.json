@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（consteel-electronics.com，快照 2026-10-21）",
- "summary": "波兰安防集成/经销：官网「Industrial automation & electronics - CONSTEEL Electronics」（en）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS-485、RS485、RS-232、RS232；表内「3旺的；串口 工业FS MC 3旺的工业FS比较多」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "波兰 CONSTEEL Electronics（面向 BMS / CCTV / 汽车 / 工业自动化 / 数字标牌集成商与安装商的工业自动化与电子产品：工业以太网交换机、无线、工业 PC、显示器、协议网关；表内「3onedata 的工业 FS 比较多；串口 / 工业 FS / MC」「质量一般」；KP Bartosz Marciszewski（CEO））；表内 1 次跟进无回复。",
+ "type": "工业自动化产品分销商（波兰，3onedata 工业线）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "3onedata"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +23,62 @@
    "quote": "3旺的；串口 工业FS MC 3旺的工业FS比较多",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "CONSTEEL 面向集成商的工业产品",
+   "quote": "CONSTEEL Electronics offer is dedicated to integrators and installators from BMS, CCTV, automotive, industrial automation and digital signage industries.",
+   "url": "https://consteel-electronics.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "3onedata 的工业 FS 比较多",
+   "quote": "3旺的 / 串口 工业FS MC；3旺的工业FS比较多",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Bartosz Marciszewski",
+   "title": "CEO",
+   "email": "sklep@consteel-electronics.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 consteel-electronics.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业自动化与电子产品分销（工业交换机 / 无线 / 工业 PC / 网关）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "工业自动化产品分销商（波兰，3onedata 工业线）",
   "region": "波兰",
   "contact": "sklep@consteel-electronics.com、marketing@consteel-electronics.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://consteel-electronics.com/）",
-  "用户表兴趣/备注：3旺的；串口 工业FS MC 3旺的工业FS比较多"
+  "官网：CONSTEEL Electronics offer is dedicated to integrators and installators from BMS, CCTV, automotive, industrial automation and digital signage industries；栏目 Industrial Ethernet Switches / Protocol gateways",
+  "表内：3 旺的工业 FS 比较多；KP Bartosz Marciszewski / CEO"
  ],
- "risks": [],
+ "risks": [
+  "现货源 3onedata（深圳）价格基准低",
+  "站内交换机词少（switch 8）：品类占比小；1 次跟进无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 3onedata 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换；MC 位 STI-110GE"
  },
- "email_hook": "Bartosz, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?"
 }

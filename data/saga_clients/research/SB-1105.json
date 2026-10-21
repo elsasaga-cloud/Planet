@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（automationdirect.com，快照 2026-10-21）",
- "summary": "美国分销商/经销商：官网「AutomationDirect.com | #1 Value in Industrial Automation」（en）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：TK-E02、IP69K、SEP1-SW5U；表内「工业FS stride品牌 似乎是自己的；分销商 工业switch IO等；https://www.automationdirect.com/support」；群发 22 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "美国 AutomationDirect（大型工业自动化目录分销：PLC / HMI / 机柜 / 通信，自有品牌 Stride 工业交换机，免费技术支持与 2 日达；表内「工业 FS，Stride 品牌似乎是自己的；分销商」；KP Greg Philbrook、Bryan Sisler）；群发 22 次无回复。",
+ "type": "大型工业自动化目录分销（体量过大，自有 Stride 品牌有既定 ODM）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Stride"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,42 +23,54 @@
    "quote": "工业FS stride品牌 似乎是自己的；分销商 工业switch IO等；https://www.automationdirect.com/support",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "AutomationDirect 目录分销",
+   "quote": "AutomationDirect.com | #1 Value in Industrial Automation ; Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more!",
+   "url": "https://www.automationdirect.com/adc/home/home",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Stride 品牌似乎是自己的；分销商",
+   "quote": "工业FS stride品牌 似乎是自己的 / 分销商 工业switch IO等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "体量过大：美国大型工业自动化目录分销（AutomationDirect，Stride 自有品牌有既定 ODM），22 次无回复；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 automationdirect.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业自动化目录分销（PLC / HMI / 通信 / Stride 交换机）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "大型工业自动化目录分销（体量过大，自有 Stride 品牌有既定 ODM）",
   "region": "美国",
   "contact": "info@automationdirect.com、gphilbrook@automationdirect.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.automationdirect.com/adc/home/home）",
-  "用户表兴趣/备注：工业FS stride品牌 似乎是自己的；分销商 工业switch IO等；https://www.automationdirect.com/support"
+  "官网：Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery",
+  "表内：stride 品牌 似乎是自己的 / 分销商 工业 switch IO 等"
  ],
  "risks": [
-  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "体量过大：大型目录分销，供应商导入流程与合规要求超出 Saga 能力",
+  "Stride 自有品牌已有既定 ODM；22 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 25,
+  "why": "美国大型目录分销（数亿美元营收）+ Stride 自有品牌已有成熟 ODM + 22 次无回复 → 体量/门槛不匹配 → 改 C"
  },
- "email_hook": "Greg, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "（不发送：体量过大）"
 }

@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（lichtleiterkabel.com，快照 2026-10-21）",
- "summary": "德国分销商/经销商：官网「Online Shop für Lichtleiterkabel, LWL Kabel und LWL Konfektionierung」；品类词：光纤 / 媒体转换 / 网络交换 / PoE；表内「工业FS(planet) MC 周边产品 销售平台」；表内未见跟进记录。",
- "type": "分销商/经销商",
+ "summary": "德国 Lichtleiterkabel.com（光纤线缆与预端接 LWL 线缆网店；表内「工业 FS（Planet）、MC、周边；销售平台」「质量一般」）；表内无跟进记录。",
+ "type": "光纤线缆网店（德国，Planet 工业 FS）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Planet"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "工业FS(planet) MC 周边产品 销售平台",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Lichtleiterkabel.com 网店",
+   "quote": "Online Shop für Lichtleiterkabel, LWL Kabel und LWL Konfektionierung ; Wir sind Ihr Spezialist für konfektionierte LWL Kabel",
+   "url": "https://www.lichtleiterkabel.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS(Planet) MC 周边，销售平台",
+   "quote": "工业FS(planet) MC 周边产品 销售平台；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +45,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 lichtleiterkabel.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤线缆 / 预端接 LWL 网店"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "光纤线缆网店（德国，Planet 工业 FS）",
   "region": "德国",
   "contact": "info@lichtleiterkabel.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.lichtleiterkabel.com/）",
-  "官网公开邮箱：info@lichtleiterkabel.com、service@lichtleiterkabel.com",
-  "用户表兴趣/备注：工业FS(planet) MC 周边产品 销售平台"
+  "官网：Online Shop für Lichtleiterkabel, LWL Kabel und LWL Konfektionierung；Wir sind Ihr Spezialist für konfektionierte LWL Kabel",
+  "表内：工业 FS(planet) MC 周边产品 销售平台"
  ],
- "risks": [],
+ "risks": [
+  "线缆网店：交换机为配套，量小",
+  "无具名 KP（info@）；表内无跟进"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply Marvell-based DIN-rail 8-GE + 2 SFP (and PoE) switches and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?"
 }

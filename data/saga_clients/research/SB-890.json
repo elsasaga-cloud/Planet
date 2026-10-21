@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（aurcore.net，快照 2026-10-21）",
- "summary": "美国工业自动化/IoT 方案商：官网「AurCore Technology」（en）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28、AES8001、SFP28、AIS4001P；表内「DC Switch 常规的Switch」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "美国 AurCore Technology（开放架构网络硬件：AI 400G 以太网、智慧城市、工业环境，「built in the U.S.」；产品 AES 系列企业交换机、AIS4001P / AIS2002P 工业 PoE；60 天试用；表内「DC switch、常规 switch」；KP Bryan W（VP，bryan@）、Kyle Yu（Senior Product Manager，kyle.yu@））；表内无跟进记录。",
+ "type": "美国开放网络硬件品牌（工业 PoE 线可二供）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,89 @@
    "quote": "DC Switch 常规的Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "AurCore 开放架构网络硬件",
+   "quote": "AurCore Technology delivers high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S., scaled for the world.",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DC switch 常规 switch",
+   "quote": "DC Switch 常规的Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kyle Yu",
+   "title": "Senior Product Manager",
+   "email": "kyle.yu@aurcore.net",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Bryan W",
+   "title": "VP",
+   "email": "bryan@aurcore.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 aurcore.net，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "AI / 数据中心以太网（400G）",
+  "企业交换机（AES）/ 工业 PoE（AIS）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "美国开放网络硬件品牌（工业 PoE 线可二供）",
   "region": "美国",
   "contact": "bryan@aurcore.net、kyle.yu@aurcore.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.aurcore.net/）",
-  "官网公开邮箱：info@aurcore.net",
-  "用户表兴趣/备注：DC Switch 常规的Switch"
+  "官网：high-performance, open-architecture networking hardware for AI, smart cities, and industrial environments — built in the U.S.",
+  "站内型号 AES8001 / AIS4001P / AIS2002P；页面 /product/1/aes2001、/product/21/aes6001",
+  "KP：Bryan W / VP；Kyle Yu / Senior Product Manager（表内）"
  ],
- "risks": [],
+ "risks": [
+  "「built in the U.S.」口径：可能要求美国组装，贴标进口需核其口径",
+  "主业 AI/DC 400G：工业线为副线；表内无跟进"
+ ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
-  "tier": 25,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 AIS 工业 PoE 线（AIS4001P / AIS2002P）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 口 STI-154GP 作二供；DC/400G 线 Saga 不做"
  },
- "email_hook": "Bryan, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Kyle, for the AIS industrial PoE models in your range, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE and 8-PoE + 2 SFP, −40~75 °C) from small lots under the AurCore label with FCC/CE/RoHS reports — which AIS model would you dual-source first?",
+ "products_seen": [
+  {
+   "brand": "AurCore（自有）",
+   "model": "AIS4001P",
+   "spec": "工业 PoE（4 口，推断）",
+   "saga": "STI-154GP",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "AurCore（自有）",
+   "model": "AIS2002P",
+   "spec": "工业 PoE（推断）",
+   "saga": "STI-288GPM（近似）",
+   "url": "https://www.aurcore.net/",
+   "date": "2026-10-21"
+  }
+ ]
 }

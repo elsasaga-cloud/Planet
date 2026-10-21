@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（symanitron.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON」（ru）；品类词：电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IP-30、IEEE802、SWMP-82GC-AT、SWDGP-22-24V；表内「工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email」；群发 18 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 SYMANITRON（symanitron.ru / s-avt.ru；「俄罗斯工业网络与电信设备制造商」+ 合同制造：PoE 交换机 SWMP-82GC-AT、SWDGP-22（24V）；表内「工业 FS（带光开关）、SFP、工业 MC，自己的 logo」；KP Massov（地推），回执来自 koe@s-avt.ru）；群发 18 次无回复。",
+ "type": "俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,74 @@
    "quote": "工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SYMANITRON 俄罗斯工业网络制造商",
+   "quote": "Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON ; Российский производитель промышленного сетевого оборудования",
+   "url": "https://symanitron.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS（带光开关）SFP 工业 MC，自己的 logo",
+   "quote": "工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Massov",
+   "title": "（表内：地推）",
+   "email": "massov@symanitron.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 symanitron.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业网络设备（自有品牌）",
+  "合同制造"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）",
   "region": "俄罗斯",
   "contact": "massov@symanitron.ru、info@symanitron.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://symanitron.ru/）",
-  "官网公开邮箱：armosystems@armo.ru、ea@eksiton.ru、info.belarus@axoftglobal.com",
-  "用户表兴趣/备注：工业FS（带光开关） SFP 工业MC 自己的logo；koe@s-avt.ru 回复回执的是这个email"
+  "官网：Российский производитель промышленного сетевого оборудования；栏目 Контрактное производство",
+  "站内型号 SWMP-82GC-AT / SWDGP-22-24V / SWDGP-22；kw poe 86 / sfp 47",
+  "表内：massov@ 地推；koe@s-avt.ru 回复回执"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "「俄罗斯制造」口径（本地化）：可能只接受 SKD/板级；18 次无回复，回执邮箱 koe@s-avt.ru"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 logo 工业 PoE（SWMP-82GC = 8 PoE + 2 SFP）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 作二供；光开关版 Saga 无；MC 位 STI-110GE"
  },
- "email_hook": "Massov, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?",
+ "products_seen": [
+  {
+   "brand": "SYMANITRON（自有）",
+   "model": "SWMP-82GC-AT",
+   "spec": "工业 8 PoE + 2 SFP 管理（推断）",
+   "saga": "STI-288GPM",
+   "url": "https://symanitron.ru/",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（netwerkproducten.com，快照 2026-10-21）",
- "summary": "荷兰网络/安防经销或集成（官网未见角色词，待核）：官网「Welkom bij MP2 Netwerkproducten | MP2 Netwerkproducten」（nl）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT；站内型号：RS-232、NL8546、GSD-1020S；表内「比较多的外壳 有国内的 switch」；群发 15 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "荷兰 MP2 Netwerkproducten（网络产品网店：16 点前下单当天发货、满 100 欧包邮；交换机 94、MC 18、光纤 40；Planet GSD-1020S；表内「比较多的外壳，有国内的；switch」）；群发 15 次无回复。",
+ "type": "网络产品网店（荷兰）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Planet"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "比较多的外壳 有国内的 switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "MP2 Netwerkproducten 网店",
+   "quote": "Welkom bij MP2 Netwerkproducten ; Voor 16.00 uur besteld, vandaag verstuurd ; Gratis verzending vanaf 100 euro",
+   "url": "https://www.netwerkproducten.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "比较多外壳，有国内的；switch",
+   "quote": "比较多的外壳 有国内的 switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,37 +45,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "荷兰",
   "other": "官网 netwerkproducten.com，语言 nl，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络产品网店（交换机 / 线缆 / MC）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "网络产品网店（荷兰）",
   "region": "荷兰",
   "contact": "klantenservice@netwerkproducten.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.netwerkproducten.com/）",
-  "官网公开邮箱：klantenservice@netwerkproducten.com",
-  "用户表兴趣/备注：比较多的外壳 有国内的 switch"
+  "官网：Voor 16.00 uur besteld, vandaag verstuurd；Gratis verzending vanaf 100 euro",
+  "站内 kw：switch 94 / fiber 40 / media converter 18；GSD-1020S（Planet）"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "网店已有国内白牌多外壳供货：价格基准低",
+  "15 次无回复，仅客服邮箱"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "网店交换机品类（含国内白牌）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the switch category of your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 5/8-port unmanaged models from small lots, CE/RoHS, EU shipping — which band sells more for you, PoE or plain gigabit?"
 }

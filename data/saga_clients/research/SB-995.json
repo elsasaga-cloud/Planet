@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（pctelecom.co.th，快照 2026-10-21）",
- "summary": "泰国安防集成/经销：官网「PC Telecom – กล้องวงจรปิด จำหน่าย, ติดตั้งกล้องวงจรปิด ขายตรงจากผู้ผลิต LG」（th）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内品牌：Axis；站内型号：UTP7202GE-POE、UTP7204E-POE-A1、LNU-5460R、LNV-5460R；表内「工业FS Utepo的；主要是CCTV 有Utepo的」；群发 31 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "泰国 PC Telecom（CCTV 销售与安装，LG 摄像机直销；在售 Utepo UTP7202GE-POE / UTP7204E-POE-A1 / UTP7204GE / UTP7624GS-L3；Axis 45；表内「主要是 CCTV，有 Utepo 的工业 FS」）；群发 31 次无回复。",
+ "type": "CCTV 销售安装商（泰国，Utepo 交换机）",
  "size": "",
  "brands_seen": [
-  "Axis"
+  "Axis",
+  "Utepo",
+  "LG"
  ],
  "evidence": [
   {
@@ -23,6 +25,20 @@
    "quote": "工业FS Utepo的；主要是CCTV 有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PC Telecom CCTV 销售安装",
+   "quote": "PC Telecom – กล้องวงจรปิด จำหน่าย, ติดตั้งกล้องวงจรปิด ขายตรงจากผู้ผลิต LG",
+   "url": "https://www.pctelecom.co.th/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要 CCTV，有 Utepo 的工业 FS",
+   "quote": "工业FS Utepo的 / 主要是CCTV 有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,40 +47,42 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "泰国",
   "other": "官网 pctelecom.co.th，语言 th，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "CCTV 销售与安装（LG / Axis / Utepo）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "CCTV 销售安装商（泰国，Utepo 交换机）",
   "region": "泰国",
   "contact": "service@pctelecom.co.th"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.pctelecom.co.th/）",
-  "安防品牌：Axis → PoE 配套切入",
-  "官网公开邮箱：service@pctelecom.co.th",
-  "用户表兴趣/备注：工业FS Utepo的；主要是CCTV 有Utepo的",
-  "表内早期 AI 描述（未核实）：泰国CCTV通信设备供应商，主营安防网络设备"
+  "页面 /products/switch-utp7202ge-poe/、/switch-utp7204e-poe-a1/、/switch-utp7204ge/、/switch-utp7624gs-l3/",
+  "官网：PC Telecom – กล้องวงจรปิด จำหน่าย, ติดตั้งกล้องวงจรปิด ขายตรงจากผู้ผลิต LG"
  ],
  "risks": [
-  "群发 31 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5）；31 次无回复 → 预期极低，仅保留慢跟",
+  "现卖 Utepo（深圳）价格基准低；仅 service@ 邮箱"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-154GP",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Utepo UTP7204E-POE（4 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；商用 8 口位 STC-28DGGPM；L3 24 口不做"
  },
- "email_hook": "Alongside the Axis lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply Marvell-based 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "Utepo",
+   "model": "UTP7204E-POE-A1",
+   "spec": "4 PoE + 2 上联（推断）",
+   "saga": "STI-154GP / STC-204GP",
+   "url": "https://www.pctelecom.co.th/",
+   "date": "2026-10-21"
+  }
+ ]
 }

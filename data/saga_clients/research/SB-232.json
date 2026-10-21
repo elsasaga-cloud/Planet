@@ -3,11 +3,15 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（oncuguvenlik.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Öncü Güvenlik Sistemleri A.Ş.」（tr）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Hikvision；站内型号：S1500-16P2ES-H、S5700-24EP6X、IES200-V25-4S10T、IES2000-TU12S4T；表内「工业FS POE 丰润达 upeto的 有Sec-on这个标」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Öncü Güvenlik Sistemleri A.Ş.（多国际品牌安防/网络分销：PoE 交换机 / 网络交换机 / 工业交换机 / PoE 注入分离器栏目；在售 Hikvision、BDCOM（S1500-16P2ES-H / S5700-24EP6X）、Utepo（IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE）、丰润达；自有标「Sec-on」；KP Ibrahim（ibrahim@））；群发 2 次无回复。",
+ "type": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
  "size": "",
  "brands_seen": [
-  "Hikvision"
+  "Hikvision",
+  "Utepo",
+  "BDCOM",
+  "Fengrunda",
+  "Sec-on"
  ],
  "evidence": [
   {
@@ -23,41 +27,82 @@
    "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Öncü Güvenlik 多品牌分销",
+   "quote": "Öncü Güvenlik Sistemleri A.Ş. birçok uluslararası markayı tüketiciye en etkin ve verimli bir şekilde ulaştıran lider teknoloji firmasıdır.",
+   "url": "https://www.oncuguvenlik.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS PoE 丰润达/Utepo；Sec-on 标；BDCOM",
+   "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标；分销商 有很多家的产品 / 也有BDCOM的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ibrahim",
+   "title": "（表内联系人）",
+   "email": "ibrahim@oncuguvenlik.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "安防/网络多品牌分销",
+  "自有标 Sec-on"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
   "region": "土耳其",
   "contact": "info@oncuguvenlik.com.tr、ibrahim@oncuguvenlik.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.oncuguvenlik.com.tr/）",
-  "安防品牌：Hikvision → PoE 配套切入",
-  "官网公开邮箱：info@oncuguvenlik.com.tr",
-  "用户表兴趣/备注：工业FS POE 丰润达 upeto的 有Sec-on这个标"
+  "栏目 /tr/kategori/poe-switch、/network-switch、/endustriyel-switch、/poe-enjektorsplitter",
+  "站内型号 S1500-16P2ES-H / S5700-24EP6X（BDCOM）、IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE（Utepo）",
+  "表内：有 Sec-on 这个标；KP Ibrahim"
  ],
- "risks": [],
+ "risks": [
+  "现有 Utepo / BDCOM / 丰润达 多源：价格基准低",
+  "土耳其：汇率敏感；2 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）"
  },
- "email_hook": "Alongside the Hikvision lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Ibrahim, for the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?",
+ "products_seen": [
+  {
+   "brand": "Utepo",
+   "model": "IES200-V25-4S10T",
+   "spec": "工业 L2 管理（4 SFP + 10 TP）",
+   "saga": "STI-288GPM（近似）",
+   "url": "https://www.oncuguvenlik.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "BDCOM",
+   "model": "S1500-16P2ES-H",
+   "spec": "16 PoE + 2 SFP",
+   "saga": "STC-2016GP（HRUI 列表价 $88.0）",
+   "url": "https://www.oncuguvenlik.com.tr/",
+   "date": "2026-10-21"
+  }
+ ]
 }

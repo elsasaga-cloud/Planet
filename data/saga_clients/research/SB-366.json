@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（osd.com.au，快照 2026-10-21）",
- "summary": "澳大利亚工业自动化/IoT 方案商：官网「Optical Systems Design (OSD) - Video, Audio, Data & IP SolutionsOptical Systems Design | I」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEEE802、OSD2524P、OSD2184P、OSD2153P；表内「POE 工业FS VC」；群发 2 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "澳大利亚 Optical Systems Design（OSD；「Industrial Networking. Engineered in Australia」光纤通信系统方案：自有品牌 OSD2524P 24 口 PoE、OSD2184P、OSD2153P、MC/SFP；表内「PoE / 工业 FS / VC」；KP Nick Fitzsimmons（General Manager，nickf@））；群发 2 次无回复。",
+ "type": "澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,81 @@
    "quote": "POE 工业FS VC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "OSD：澳洲光纤通信系统方案",
+   "quote": "Optical Systems Design (OSD) is an innovative Australian company providing cost effective communication systems solutions based on optical fiber technology.",
+   "url": "https://osd.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 工业 FS VC",
+   "quote": "POE 工业FS VC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Nick Fitzsimmons",
+   "title": "General Manager",
+   "email": "nickf@osd.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 osd.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤通信 / 工业网络产品（自有品牌 OSD）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）",
   "region": "澳大利亚",
   "contact": "sales@osd.com.au、nickf@osd.com.au"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://osd.com.au/）",
-  "官网公开邮箱：sales@osd.com.au",
-  "用户表兴趣/备注：POE 工业FS VC"
+  "页面 /osd2524p-24-port-poe-switch/、/osd2184p-poe-for-all-powered-devices/、/poe/",
+  "官网：innovative Australian company providing cost effective communication systems solutions based on optical fiber technology；INDUSTRIAL NETWORKING. ENGINEERED IN AUSTRALIA",
+  "KP：Nick Fitzsimmons / General Manager（表内）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证",
+  "非主攻区（T5）；RCM 由客户申报；2 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做"
  },
- "email_hook": "Nick, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Nick, for the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first?",
+ "products_seen": [
+  {
+   "brand": "OSD（自有）",
+   "model": "OSD2524P",
+   "spec": "24 口 PoE 交换机",
+   "saga": "STC-424DGGPM-280W（商用，注明）",
+   "url": "https://www.osd.com.au/osd2524p-24-port-poe-switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "OSD（自有）",
+   "model": "OSD2184P",
+   "spec": "PoE 交换机（全 PD 供电）",
+   "saga": "STI-288GPM",
+   "url": "https://osd.com.au/",
+   "date": "2026-10-21"
+  }
+ ]
 }

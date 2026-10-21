@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hssl.us，快照 2026-10-21）",
- "summary": "美国电商/网店：官网「HSSL Technologies — Enterprise IT, Networking & Data Center」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：TO56-CAN、IL3522E、IL3685E、IL3185-3E；表内「卖Edgecore的 他们用到是marvell」；群发 7 次、无回复。",
- "type": "电商/网店",
+ "summary": "美国 HSSL Technologies（企业 IT 硬件目录经销：6,000+ 厂商，网络/数据中心/存储/安防/云，Cisco 208；表内「卖 Edgecore 的，他们用的是 Marvell」）；群发 7 次无回复。",
+ "type": "企业 IT 目录经销商（美国，Edgecore 等）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Edgecore",
+  "Cisco"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,20 @@
    "quote": "卖Edgecore的 他们用到是marvell",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HSSL 企业 IT 硬件经销",
+   "quote": "Enterprise IT hardware and solutions from 6,000+ manufacturers — networking, data center, storage, security and cloud.",
+   "url": "https://hssl.us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "卖 Edgecore 的，Marvell",
+   "quote": "卖Edgecore的 他们用到是marvell",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,37 +46,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 hssl.us，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "企业 IT 硬件目录经销"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "企业 IT 目录经销商（美国，Edgecore 等）",
   "region": "美国",
   "contact": "sales@hssl.us"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://hssl.us/）",
-  "官网公开邮箱：info@hssl.us、johnsmith@email.com、robkent@domain.com",
-  "用户表兴趣/备注：卖Edgecore的 他们用到是marvell"
+  "官网：Enterprise IT hardware and solutions from 6,000+ manufacturers — networking, data center, storage, security and cloud",
+  "表内：卖 Edgecore 的 他们用到是 marvell；站内 kw cisco 208 / data center 107"
  ],
- "risks": [],
+ "risks": [
+  "6,000+ 厂商目录经销：单品量小，白牌契合低",
+  "7 次无回复，仅 sales@"
+ ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
+  "p1": "STC-424XGGM",
   "tier": 20,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "目录经销白牌契合低 → 入门位 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作价格补充；预期低"
  },
- "email_hook": "We supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Alongside the Edgecore and Cisco lines in your catalogue, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots for budget requests — do you get asked for a lower-cost access switch often enough to list one?"
 }

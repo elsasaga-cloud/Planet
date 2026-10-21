@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（riverplus.com，快照 2026-10-21）",
- "summary": "泰国系统集成/工程商：官网「Riverplus 20th - Leading in Digital and Industry 4.0 Solutions」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Teltonika、Milesight；站内型号：TSW100、RUT200、RS-485、TSW114；表内「工业FS 串口等」；群发 9 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "泰国 Riverplus（2005 年起数字化与工业 4.0 方案进口分销：IoT、工业 5G/4G 路由网关（Teltonika RUT/TSW100/TSW114）、Milesight；博客 TSW010 工业 LAN 交换机、CCTV PoE 方案；表内「工业 FS、串口等」；KP Prapapim Phetnoi（System Engineer，prapapim@）、Jiraporn Teeramasvanich（Purchasing Manager））；群发 9 次无回复。",
+ "type": "工业 IoT 分销商（泰国，Teltonika 交换机线）",
  "size": "",
  "brands_seen": [
   "Teltonika",
@@ -24,48 +24,88 @@
    "quote": "工业FS 串口等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Riverplus 数字化与工业 4.0 方案",
+   "quote": "Riverplus 20th - Leading in Digital and Industry 4.0 Solutions ; ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร จากทั่วโลกตั้งแต่ปี 2005",
+   "url": "https://riverplus.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 串口等",
+   "quote": "工业FS 串口等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jiraporn Teeramasvanich",
+   "title": "Purchasing Manager",
+   "email": "sales@riverplus.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Prapapim Phetnoi",
+   "title": "System Engineer",
+   "email": "prapapim@riverplus.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "泰国",
   "other": "官网 riverplus.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业 IoT / 蜂窝路由 / 工业交换机分销（Teltonika / Milesight）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "工业 IoT 分销商（泰国，Teltonika 交换机线）",
   "region": "泰国",
   "contact": "sales@riverplus.com、prapapim@riverplus.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://riverplus.com/）",
-  "在售同口型交换品牌：Teltonika → 直接对位替换",
-  "安防品牌：Milesight → PoE 配套切入",
-  "官网公开邮箱：sales@riverplus.com、support@riverplus.com",
-  "用户表兴趣/备注：工业FS 串口等",
-  "表内早期 AI 描述（未核实）：泰国工业IoT解决方案公司，提供工业通信和IIoT系统"
+  "博客 /blogs/iot-solutions/teltonika-tsw100-110-industrial-ethernet-switch、/tsw010-industrial-lan-switch、/cctv-solution-with-poe-switch",
+  "官网：Riverplus ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร … ตั้งแต่ปี 2005",
+  "KP：Prapapim Phetnoi / System Engineer；Jiraporn Teeramasvanich / Purchasing Manager（表内）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5）",
+  "Teltonika（立陶宛）品牌生态强：白牌仅价格补充；9 次无回复 → 改向 Purchasing Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
-  "tier": 25,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-154GP",
+  "tier": 20,
+  "why": "在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP"
  },
- "email_hook": "Prapapim, alongside the Teltonika / Milesight lines you carry, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "Teltonika",
+   "model": "TSW100",
+   "spec": "工业 4 PoE + 1 GE 非管理",
+   "saga": "STI-154GP",
+   "url": "https://riverplus.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Teltonika",
+   "model": "TSW114",
+   "spec": "工业 5 GE 非管理",
+   "saga": "STI-050GE",
+   "url": "https://riverplus.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }
