@@ -1,0 +1,47 @@
+{
+ "code": "SA-027",
+ "name_official": "Parallax Digital Technologies Ltd（Cramlington, Northumberland, UK）",
+ "website_status": "在线",
+ "summary": "英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。",
+ "type": "微型 OEM/ODM 品牌商（自有品牌网络设备）",
+ "size": "1 人申报 / <£1M（Endole）",
+ "brands_seen": [
+  "E-link",
+  "Riden",
+  "Weipu"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌 OEM/ODM 网络设备，交换产品已部署于英国高层住宅消防探测网络",
+   "quote": "the Company has created and developed its own brand of digital products and services, incorporating a hybrid OEM/ODM model, including computer networking equipment … Our network designs and switching products have been in service in tower blocks in London and other cities, providing critical, secure, fault-tolerant infrastructure solutions for fire detection systems",
+   "url": "https://parallaxdigital.co.uk/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Endole）",
+   "claim": "规模：雇员 1，营业额 <£1M",
+   "quote": "Parallax Digital Technologies Limited … Turnover is under £1M · Under 10 employees … Employees 1",
+   "url": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "销售邮箱/电话",
+   "quote": "Sales sales@parallaxdigital.co.uk … Phone: +44 (0)1670 202001",
+   "url": "https://parallaxdigital.co.uk/contact/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jeffrey Allan Ferrier",
+   "role": "Founder/Director（Companies House）",
+   "email": "sales@parallaxdigital.co.uk",
+   "phone": "+44 1670 202001",
+   "source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited"
+  }
+ ],
+ "notes": "A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
+ "researched_at": "2026-10-21"
+}

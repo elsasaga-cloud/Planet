@@ -78,6 +78,7 @@ PLATFORM_DOMAINS = {
 }
 # 体量过大 / 巨头 / 知名品牌厂商（INH 规则：Ingram、TD SYNNEX、Arrow… 一律 C；品牌厂商非客户）
 GIANT_DOMAINS = {
+    'equinix.com', 'fiberhome.com', 'fhn-na.com', 'zte.com.cn', 'huawei.com', 'h3c.com', 'tp-link.com', 'tenda.com.cn', 'ruijie.com.cn', 'ruijienetworks.com',
     'supermicro.com', 'bt.com', 'btplc.com', 'convergint.com', 'adtran.com', 'adva.com', 'cisco.com', 'hpe.com', 'hp.com', 'dell.com',
     'ibm.com', 'intel.com', 'siemens.com', 'abb.com', 'se.com', 'schneider-electric.com', 'honeywell.com', 'bosch.com', 'jci.com',
     'johnsoncontrols.com', 'hikvision.com', 'dahuasecurity.com', 'axis.com', 'motorolasolutions.com', 'zebra.com', 'belden.com',
@@ -140,7 +141,16 @@ OWN_BRAND_WORDS = ['自己的logo', '自己的品牌', '自己的标', '自己�
 BIG_WORDS = ['大公司', '上市公司', '集团', '跨国', '世界500强', '运营商', 'telecom operator', '国企', '政府', '军']
 STOP_WORDS = ['不再跟进', '不跟进', '不用跟', 'Spam', 'spam', 'SPAM', '骗子', '诈骗', '垃圾', '拉黑', '删除', '别发了', '不要再发', 'unsubscribe',
               'remove me', '不相关', '没用', '无效', '倒闭', '关门', '已离职', '离职']
+DEAL_NEG_RE = re.compile(r'(想|没|没有|未|不|差点|差一点|准备|打算|可能|会|要|将|还没|尚未|否认|如果|若|不会|没能|没再|不再|之前想|说要|说想|考虑)\s*(下单|成单|成交|买|购买|返单|成样品单|样品单)|(下单|成单|成交|样品单)\s*(后|后续)?\s*(over|没|未|失败|取消|黄了|没成|无果|不了了之)')
 DEAL_RE = re.compile(r'成单|成交|已成|下单|买过|买了|返单|信保|已付款|付过款|order placed|purchased|ordered|repeat order|已出货|发过货|合作过|老客户|已合作|成样品单|样品单')
+
+
+def has_deal(text):
+    """成交判定：先剔除否定/未遂表述（想下单 / 差点成样品单 / 下单后续over），再看是否仍有成交词。"""
+    if not text:
+        return False
+    t = DEAL_NEG_RE.sub(' ', text)
+    return bool(DEAL_RE.search(t))
 ENGAGE_RE = re.compile(r'问了|问价|问过|询价|要了|拿了|已有回复|有回复|回复了|replied|回了|说了|聊了|交谈|见面|来了展位|来展位|去了他们展位|视频会|开了会|电话里|打电话|要资料|要报价|让发|让报|有意向|有兴趣|interested|感兴趣|想要|需要具体|报价80|quoted|报了价|报过价')
 SAMPLE_RE = re.compile(r'样品|样机|sample|Sample|测样|试用')
 AI_RE = re.compile(r'^\s*(\d{1,3})\s*%\s*([ABCD])', re.S)
@@ -309,7 +319,7 @@ def parse_row(r):
         'wa_added': '已加' in text_all,
         'wa_failed': '加不上' in text_all or '加不了' in text_all,
         'stop': any(w in text_all for w in STOP_WORDS),
-        'deal': bool(DEAL_RE.search(text_all)),
+        'deal': has_deal(text_all),
         'sample': bool(SAMPLE_RE.search(text_all)),
         'big': any(w in text_all for w in BIG_WORDS),
         'giant': any(d in GIANT_DOMAINS for d in domains + email_domains) or any(g.lower() in (name or '').lower() for g in GIANT_NAMES if len(g) > 3),
@@ -587,22 +597,32 @@ def main():
             ks.append('e:' + e)
         for ph in ent['phones']:
             ks.append('p:' + ph[-9:])
-        if ent['name']:
+        if ent['name'] and ent['name'] != '（未具名）' and len(norm_name(ent['name'])) >= 3:
             ks.append('n:' + ent['iso'] + '|' + norm_name(ent['name']))
         return ks
 
     entities.sort(key=lambda e: ({'A': 0, 'B': 1, 'C': 2}[e['grade_auto']], -e['score'], e['name'] or 'zzz'))
+    used_codes = set()
     for ent in entities:
         ks = stable_keys(ent)
         found = sorted({registry['keys'][k] for k in ks if k in registry['keys']})
-        if found:
-            code = found[0]
-            if len(found) > 1:
-                ent['code_aliases'] = found[1:]
+        found_free = [c for c in found if c not in used_codes]
+        if found_free:
+            code = found_free[0]
+            others = [c for c in found if c != code]
+            if others:
+                ent['code_aliases'] = others
         else:
             g = ent['grade_auto']
             code = f'S{g}-{registry["next"][g]:03d}'
             registry['next'][g] += 1
+            if found:
+                # 原实体被拆分（键归并规则修正）：本实体另发新号，并记录来源编号
+                ent['split_from'] = found
+                for k in ks:
+                    if registry['keys'].get(k) in found:
+                        registry['keys'][k] = code
+        used_codes.add(code)
         for k in ks:
             registry['keys'].setdefault(k, code)
         ent['code'] = code
@@ -763,7 +783,7 @@ def aggregate(members):
     letters = [p for p in plats if p in ('S', 'A', 'E')]
     ent['last_tier_letter'] = letters[-1] if letters else ''
     ent['wa_in_fu'] = any('whatsapp' in p.lower() or p == '微信' for p in plats)
-    ent['deal_in_fu'] = any(DEAL_RE.search(f['content'] + ' ' + f['reply'] + ' ' + f['note']) for f in followups)
+    ent['deal_in_fu'] = any(has_deal(f['content'] + ' ' + f['reply'] + ' ' + f['note']) for f in followups)
     txt = ' '.join(f['reply'] for f in followups)
     ent['fu_sample'] = bool(SAMPLE_RE.search(txt))
     ent['last_year'] = max([int(y) for y in fu_years] + [y for y in ent['years'] if 2015 <= y <= 2026] or [0])
@@ -938,9 +958,11 @@ def classify(ent):
         g, c_sub = 'C', '无联系方式'
     if reg == '中国大陆' and not deal:
         g, c_sub = 'C', '中国大陆（非出口客户）'
-    if reg == '乌克兰' and not deal:
+    if (reg == '乌克兰' or ent['iso'] == 'UA') and not deal:
         g = 'B' if ent['reply_sub'] else 'C'
         c_sub = '' if g == 'B' else '守界：乌克兰'
+        if g == 'B':
+            rs.append('封顶 B：乌克兰（守界：不主动投入，仅被动响应）')
     if ent['iso'] == 'TW' and g == 'A' and not deal and 'S重点' not in tagset:
         g = 'B'
         rs.append('封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）')

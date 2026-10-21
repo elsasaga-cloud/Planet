@@ -1,18 +1,20 @@
 # bitstream.pl
+**官方名称（调研核实）**：BitStream S.A.（Lublin, Poland）
 
 > **评级 A**　|　波兰　|　档案编号 `SA-031`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-031
 rating: A
 rating_auto: A
+name_official: "BitStream S.A.（Lublin, Poland）"
 score: 88
 country: 波兰
 region: 欧洲
 website: bitstream.pl
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）
 tier_tags: ["A已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-01-30
 last_contact: 2025-01-30
 p1: STI-288DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：自己的牌子 工业FS SFP MC 一些其他产品 有人卖他们的；提到的品牌：FS
+- **是谁**：波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。（调研 2026-10-21；表内兴趣：自己的牌子 工业FS SFP MC 一些其他产品 有人卖他们的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）；最近一次客户回复：2025-01-30：INFO
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | bitstream.pl（取自域名，公司全名待核） | 推断 |
 | 国家 | 波兰 | 事实（用户表）|
 | 网站/域名 | bitstream.pl | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | Aleksander Hyz / Technolog Produkcji / Dariusz Pietrzyk / President of the Board | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 自己的牌子 工业FS SFP MC<br>一些其他产品 有人卖他们的 | 事实（用户表） |
@@ -53,7 +55,19 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-031.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。
+- **类型**：品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）
+- **规模**：小型（trade.gov.pl「Size Small」）
+- **在卖/在用品牌**：BitStream, Hyperion
+- **【第三方（trade.gov.pl 官方出口名录）】定位、产品线与公开联系人**
+  > BitStream S.A. is a leading Polish technology company specializing in the design and manufacturing of advanced data transmission, time synchronization, and industrial networking equipment … Industrial Networking & Ethernet Switches: Managed and unmanaged DIN-rail/rack Ethernet switches supporting zero-failover redundancy protocols (PRP/HSR) … E-mail: mbeczek@bitstream.pl
+  > 来源：https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna（抓取 2026-10-21）
+- **【官网】产品类目含 PoE/L2/L3 交换机与光纤 MC**
+  > PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów
+  > 来源：https://bitstream.pl/technologie/technika-swiatlowodowa/（抓取 2026-10-21）
+- **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
+- 备注：A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -89,7 +103,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

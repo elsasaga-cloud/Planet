@@ -1,0 +1,45 @@
+{
+ "code": "SA-045",
+ "name_official": "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）",
+ "website_status": "在线",
+ "summary": "伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。",
+ "type": "品牌商/经销（自有品牌白牌采购）",
+ "size": "未见人数（小型）",
+ "brands_seen": [
+  "Snexus"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌并公开 USD 零售价",
+   "quote": "SN-ES1300-6P Price US$35.00 … SN-ES1300-10P Price US$115.00 … SN-ES1300-26FP Price US$320.00 … SN-GS1300-6FP Price US$110.00",
+   "url": "https://www.snexus.com.tr/en/shop",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "2 年换新保修（我方报价需对齐）",
+   "quote": "Snexus markalı ürünler … Ürünlerimiz 2 yıl birebir değişim garantisi sunar. 1. The warranty period is 2 years.",
+   "url": "https://www.snexus.com.tr/en/garanti",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式与地址",
+   "quote": "info@snexus.com.tr · ISTANBUL Sultançiftliği District Cyprus Street Neveser Site C4/1 Çekmeköy / Istanbul · SINGAPORE Rochor Canal Road 02-67 Sim Lim Square",
+   "url": "https://www.snexus.com.tr/en/iletisim",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@snexus.com.tr",
+   "phone": "+90 216 606 4445（webrate 登记）",
+   "source": "https://www.snexus.com.tr/en/iletisim"
+  }
+ ],
+ "notes": "A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。",
+ "researched_at": "2026-10-21"
+}

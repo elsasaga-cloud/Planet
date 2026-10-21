@@ -1,0 +1,31 @@
+{
+ "code": "SA-020",
+ "name_official": "WIDEN Co., Ltd.（Nonthaburi, Thailand）",
+ "website_status": "在线",
+ "summary": "泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。",
+ "type": "分销商/品牌商（光纤产品自有 logo，OEM 采购）",
+ "size": "未见人数（中小分销商）",
+ "brands_seen": [
+  "WIDEN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：光纤设备进口分销；类目含 Fiber Optic Switch / Media Converter",
+   "quote": "บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร … Fiber Optic Media Converter · Fiber Optic Switch · Fiber Optic Video Converter … Email : info@widen.co.th, thawat@widen.co.th LINE ID :@widencompany",
+   "url": "http://www.widen.co.th/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Thawat",
+   "role": "负责人（官网公开直邮）",
+   "email": "thawat@widen.co.th",
+   "phone": "+66 81-285-4599 / 02-149-3922",
+   "source": "http://www.widen.co.th/"
+  }
+ ],
+ "notes": "A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。",
+ "researched_at": "2026-10-21"
+}

@@ -1,18 +1,20 @@
 # sundartechno.com
+**官方名称（调研核实）**：Sundar Techno Solutions（STS, Bangalore, India）
 
 > **评级 A**　|　印度　|　档案编号 `SA-049`　|　优先级 ★★★　|　状态：成交过·维护
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：方案商/自有品牌贴牌（成交客户）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-049
 rating: A
 rating_auto: A
+name_official: "Sundar Techno Solutions（STS, Bangalore, India）"
 score: 82
 country: 印度
 region: 南亚
 website: sundartechno.com
-type: 系统集成/工程商
+type: 方案商/自有品牌贴牌（成交客户）
 tier_tags: ["WA跟进"]
 deal: yes
 replies: 0
@@ -20,20 +22,20 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-448DGGPM
-price_tier: 25%
-research: pending
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的系统集成/工程商；兴趣/在卖：工业FS 中科德能的；2*2 bypass 100个；提到的品牌：中科德能, FS
+- **是谁**：班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。（调研 2026-10-21；表内兴趣：工业FS 中科德能的；2*2 bypass 100个）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | sundartechno.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | sundartechno.com / embeddedaautomation.org | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 方案商/自有品牌贴牌（成交客户） | 推断（据兴趣/备注关键词） |
 | 联系人 | 91 98808 22633 / Manoj Kumar N / CEO 成单 | 事实（用户表） |
 | 来源（From） | Mavink / 2023.6.3 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 中科德能的 / 2*2 bypass 100个 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-049.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。
+- **类型**：方案商/自有品牌贴牌（成交客户）
+- **规模**：2–10 人（LinkedIn）/ 11–25 人（IndiaMART）
+- **在卖/在用品牌**：STS, Volktek, IBASE, 中科德能
+- **【官网】定位与客户行业**
+  > We are professionals with over two decades of experience in Industrial Automation, Embedded Computing, Industrial Communication … Our clientele includes Machine Builders, Process Automation companies, Transportation clients, Indian Defense & Space organizations … Phone: +91-9482081014 Email: sales@sundartechno.com
+  > 来源：https://sundartechno.com/（抓取 2026-10-21）
+- **【第三方（sourceindia）】自产工业交换机（贴牌需求来源）**
+  > We specialize in the design, development, and local production of rugged Panel PCs, Industrial Box PCs, Embedded SBCs, Edge Servers, KVM Consoles, Rugged Tablets and Industrial Ethernet Switches for applications in Defence, Aerospace, Indian Railways, Smart City
+  > 来源：https://react.sourceindia-electronics.com/companies/sundar-techno-solutions（抓取 2026-10-21）
+- **【第三方（LinkedIn）】合作伙伴与规模**
+  > PARTNER FOR: IBASE TECHNOLOGY INC TAIWAN VOLKTEK CORPORATION TAIWAN … Company size: 2-10 employees · Founded: 2019
+  > 来源：https://in.linkedin.com/company/sundar-techno-solutions（抓取 2026-10-21）
+- **KP**：Manoj Kumar N（Founder & CEO（成单联系人））sales@sundartechno.com +91 94820 81014（WhatsApp 已加）〔https://sundartechno.com/〕
+- 备注：A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -92,10 +109,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（方案商/自有品牌贴牌（成交客户）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -105,7 +122,7 @@ updated: 2026-10-21
 
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-448DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 

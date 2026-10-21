@@ -1,0 +1,38 @@
+{
+ "code": "SA-037",
+ "name_official": "FCNet Future Communication Networks / FCNET Sp. z o.o.（Opole, Poland）",
+ "website_status": "在线",
+ "summary": "波兰奥波莱的网络无源/有源元件分销商与进口商（原合伙制，2024 年改有限公司），Fluke Networks 波兰分销商，提供网络设计、外包、IP 电话；营收约 1,020 万 PLN。用户表：1 次实质回复，兴趣「自己的 logo」。",
+ "type": "分销商/进口商（自有 logo 采购）",
+ "size": "营收 10.2M PLN、资产 6.2M PLN（bizraport）",
+ "brands_seen": [
+  "Fluke Networks"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：无源+有源网络元件综合供应；Fluke Networks 分销商",
+   "quote": "Kompleksowa oferta pasywnych i aktywnych elementów sieci teleinformatycznych … Dystrybutorem na Polskę rozwiązań Fluke Networks jest firma FCNet Future Communication Networks",
+   "url": "https://www.fcnet.pl/o-firmie",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（bizraport）",
+   "claim": "体量",
+   "quote": "FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ … aktywa 6,2 mln zł · przychód 10,2 mln zł",
+   "url": "https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@fcnet.pl",
+   "phone": "+48 77 541 84 75",
+   "source": "https://www.fcnet.pl/o-firmie"
+  }
+ ],
+ "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
+ "researched_at": "2026-10-21"
+}

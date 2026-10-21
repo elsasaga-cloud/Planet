@@ -1,0 +1,46 @@
+{
+ "code": "SA-057",
+ "name_official": "MT-Link Technologies Co.（Karachi, Pakistan）",
+ "website_status": "在线",
+ "summary": "卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。",
+ "type": "品牌商（中国白牌贴牌，ODM 买家）",
+ "size": "未见人数（中小）",
+ "brands_seen": [
+  "MT-Link",
+  "BDCOM"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌定位",
+   "quote": "As Pakistan’s first leading networking solutions provider, we take immense pride in designing products specifically tailored to meet the unique requirements of Pakistan’s IT Industry … info@mt-link.com",
+   "url": "https://mt-link.com/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "交换机源自 BDCOM（证明其采购中国白牌）",
+   "quote": "MT-LINK MT-SG5612 is a new generation of aggregation 10GE switch introduced by Shanghai Baud Data Communication Co., LTD.",
+   "url": "https://mt-link.com/product/mt-sg5612/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Facebook）",
+   "claim": "总部与电话（与用户表 WhatsApp 号一致）",
+   "quote": "MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719",
+   "url": "https://www.facebook.com/mtlinkpakistan/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机（WhatsApp 已加）",
+   "email": "info@mt-link.com",
+   "phone": "+92 317 9995719",
+   "source": "https://www.facebook.com/mtlinkpakistan/"
+  }
+ ],
+ "notes": "A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。",
+ "researched_at": "2026-10-21"
+}

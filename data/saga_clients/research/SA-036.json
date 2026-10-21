@@ -1,0 +1,38 @@
+{
+ "code": "SA-036",
+ "name_official": "AddOn Networks / Add-On Computer Peripherals（Tustin/Irvine, CA）",
+ "website_status": "在线",
+ "summary": "美国加州的兼容光模块与高速线缆独立制造商（1999 年起），自称全球最大独立光模块制造商，250+ 员工，产品线含 MC（含 10G、串口转光纤）、复用器、光纤配件；在自有实验室编码/测试。用户表：买了 6 台 MC 样品，嫌交期长；联系人 Matt McCormick（matt@addoncomputer.com，用户表原值），WhatsApp 已加。",
+ "type": "品牌商/制造商（兼容光模块；MC 等外采贴牌）",
+ "size": "250+ 员工（官网）",
+ "brands_seen": [
+  "AddOn"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与规模",
+   "quote": "We have grown to be the world's largest independent manufacturer of optical transceivers and high speed cabling. With global headquarters in Tustin, California, we're proud to employ more than 250 team members worldwide.",
+   "url": "https://www.addoncomputer.com/aboutus",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品线含 MC 等网络配件",
+   "quote": "High quality transceivers, patch cables, media converters, & fiber connectivity solutions from 1999. · Network Accessories Multiplexers, media converters, fiber adapters, PCI cards",
+   "url": "https://www.addoncomputer.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Matt McCormick",
+   "role": "采购/产品联系人（用户表原值）",
+   "email": "matt@addoncomputer.com",
+   "phone": "+1 949-735-4119（WhatsApp 已加）",
+   "source": "Clients/A/DONE/US.xlsx"
+  }
+ ],
+ "notes": "A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。",
+ "researched_at": "2026-10-21"
+}

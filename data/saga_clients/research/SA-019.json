@@ -1,0 +1,45 @@
+{
+ "code": "SA-019",
+ "name_official": "CXR Networks（CXR Anderson Jacobson, Abondant, France）",
+ "website_status": "在线",
+ "summary": "法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌",
+ "size": "未见人数；历史悠久的中型设备商",
+ "brands_seen": [
+  "CXR"
+ ],
+ "evidence": [
+  {
+   "kind": "官网（新闻）",
+   "claim": "2026-08 发布自有品牌 DIN 导轨 PoE+ 工业交换机 SWMDL-H-4GPS-2USF-B 与 10G 工业交换机 SWMD-H-16TG-4GSF-4SFP+",
+   "quote": "Reduce your infrastructure costs with the SWMDL-H-4GPS-2USF-B switch 18/08/2026 … Compact DIN-rail form factor … Discover the CXR SWMD-H-16TG-4GSF-4SFP+ industrial switch",
+   "url": "https://www.cxr.com/en/news/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Tracxn）",
+   "claim": "产品组合含工业 PoE/L3 以太网交换机",
+   "quote": "Its product portfolio includes Ethernet switch, carrier Ethernet, Gigabit Ethernet Level 3 or Ethernet Industrial, Gigabit POE Industrial, Industrial DIN or l POE",
+   "url": "https://tracxn.com/d/companies/cxr/__05FT_y-RdFCUpyaLxwaVCJCPXWWwu7lYSUFd9KdNeTs",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（eTesters）",
+   "claim": "地址与总机邮箱",
+   "quote": "CXR ANDERSON JACOBSON · Phone:33(0)237 628 800 · Email:contact@cxr.com · Address:17 Rue de l'Ornette Abondant, 28410 France",
+   "url": "https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "contact@cxr.com",
+   "phone": "+33 2 37 62 88 00",
+   "source": "https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation"
+  }
+ ],
+ "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
+ "researched_at": "2026-10-21"
+}

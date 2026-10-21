@@ -1,0 +1,48 @@
+{
+ "code": "SA-049",
+ "name_official": "Sundar Techno Solutions（STS, Bangalore, India）",
+ "website_status": "在线",
+ "summary": "班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。",
+ "type": "方案商/自有品牌贴牌（成交客户）",
+ "size": "2–10 人（LinkedIn）/ 11–25 人（IndiaMART）",
+ "brands_seen": [
+  "STS",
+  "Volktek",
+  "IBASE",
+  "中科德能"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与客户行业",
+   "quote": "We are professionals with over two decades of experience in Industrial Automation, Embedded Computing, Industrial Communication … Our clientele includes Machine Builders, Process Automation companies, Transportation clients, Indian Defense & Space organizations … Phone: +91-9482081014 Email: sales@sundartechno.com",
+   "url": "https://sundartechno.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（sourceindia）",
+   "claim": "自产工业交换机（贴牌需求来源）",
+   "quote": "We specialize in the design, development, and local production of rugged Panel PCs, Industrial Box PCs, Embedded SBCs, Edge Servers, KVM Consoles, Rugged Tablets and Industrial Ethernet Switches for applications in Defence, Aerospace, Indian Railways, Smart City",
+   "url": "https://react.sourceindia-electronics.com/companies/sundar-techno-solutions",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "合作伙伴与规模",
+   "quote": "PARTNER FOR: IBASE TECHNOLOGY INC TAIWAN VOLKTEK CORPORATION TAIWAN … Company size: 2-10 employees · Founded: 2019",
+   "url": "https://in.linkedin.com/company/sundar-techno-solutions",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Manoj Kumar N",
+   "role": "Founder & CEO（成单联系人）",
+   "email": "sales@sundartechno.com",
+   "phone": "+91 94820 81014（WhatsApp 已加）",
+   "source": "https://sundartechno.com/"
+  }
+ ],
+ "notes": "A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
+ "researched_at": "2026-10-21"
+}

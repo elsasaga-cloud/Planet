@@ -1,0 +1,40 @@
+{
+ "code": "SA-007",
+ "name_official": "XSPEC Technology Sdn. Bhd.（Subang Jaya, Malaysia）",
+ "website_status": "在线",
+ "summary": "马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。",
+ "type": "分销商/制造商代表（NDT·国防安防·医疗）",
+ "size": "未见人数；经营 20+ 年",
+ "brands_seen": [
+  "Intron Plus"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自述：制造商代表，品类为油气海事、军警安防、生物实验室、医疗",
+   "quote": "We are a Reliable Manufacturing Representatives and are constantly developing new partnering sygnergies with Manufacturers all over the World … Oil, Gas & Marine · Military Defense & Security · Bio-Technology & Lab · Medical & Healthcare",
+   "url": "https://xspectechnology.com/my-homepage/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Intron Plus 代理名录）",
+   "claim": "联系人 Sugito Wibawa 与直邮",
+   "quote": "XSPEC TECHNOLOGY SDN BHD … Mr. SUGITO WIBAWA + 60 3 8023 1161 … sugito@xspec.com.my",
+   "url": "https://www.intron.ru/en/about-us/agents/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Sugito Wibawa",
+   "role": "负责人（代理名录口径）",
+   "email": "sugito@xspec.com.my",
+   "phone": "+60 3 8023 1161",
+   "source": "https://www.intron.ru/en/about-us/agents/"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

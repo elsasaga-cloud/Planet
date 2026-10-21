@@ -1,0 +1,50 @@
+{
+ "code": "SA-016",
+ "name_official": "United Control Engineers India Pvt. Ltd.（Greater Noida）",
+ "website_status": "在线",
+ "summary": "印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。",
+ "type": "分销商 + 系统集成（工业自动化）",
+ "size": "11–50 人（LinkedIn）；$10–50M（SignalHire）/ $15.2M（ZoomInfo）",
+ "brands_seen": [
+  "Delta",
+  "ABB",
+  "Phoenix Contact",
+  "nVent Hoffman",
+  "Schneider Electric",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：德里 NCR 工业自动化产品公司，2001 年起；类目含工业路由器",
+   "quote": "United Control Engineers India Pvt. Ltd., since 2001 is the top industrial automation products company in Delhi NCR … Industrial Router · SMPS · VFD · Power Supply",
+   "url": "https://unitedcontrolengg.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "规模",
+   "quote": "Industry: Automation Machinery Manufacturing · Company size: 11-50 employees · Headquarters: Greater Noida, Uttar Pradesh · Founded: 2001",
+   "url": "https://in.linkedin.com/company/united-control-engineers-india-pvt-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "官方邮箱/电话",
+   "quote": "+919311150492 · +919990632600 · Marketing@unitedcontrolengg.com · Office@unitedcontrolengg.com",
+   "url": "https://unitedcontrolengg.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "市场部",
+   "email": "marketing@unitedcontrolengg.com",
+   "phone": "+91 93111 50492",
+   "source": "https://unitedcontrolengg.com/"
+  }
+ ],
+ "notes": "A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
+ "researched_at": "2026-10-21"
+}

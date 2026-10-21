@@ -1,0 +1,38 @@
+{
+ "code": "SA-044",
+ "name_official": "GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）",
+ "website_status": "在线",
+ "summary": "韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。",
+ "type": "品牌商（OEM/ODM 需求）",
+ "size": "11–50 人（EC21）",
+ "brands_seen": [
+  "GT-Wave"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌产品线含 PoE 交换机/工业 AP",
+   "quote": "Intelligent PoE Switch / Outdoor AP / Public WiFi / Antenna / Wireless CCTV / Video Transmission for Drones … PoE Switch · PoE Injector · PoE Extender (repeater) · Network Switch … E-mail : master@gtwave.co.kr",
+   "url": "https://www.gtwave.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（EC21）",
+   "claim": "规模与联系人",
+   "quote": "Gtwave Co.,Ltd … Korea · 2001 · 11 - 50 … Main Products PoE Network Switch, 8Port PoE (GT8P-2G-HA) · Industrial PoE Network Switch, 4port Poe … Contact MOONSOO,PARK(Mr.)",
+   "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Moonsoo Park",
+   "role": "对外联系人（EC21 供应商页）",
+   "email": "master@gtwave.co.kr",
+   "phone": "+82 31 707 4670",
+   "source": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html"
+  }
+ ],
+ "notes": "A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。",
+ "researched_at": "2026-10-21"
+}

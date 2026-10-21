@@ -1,0 +1,39 @@
+{
+ "code": "SA-031",
+ "name_official": "BitStream S.A.（Lublin, Poland）",
+ "website_status": "在线",
+ "summary": "波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。",
+ "type": "品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）",
+ "size": "小型（trade.gov.pl「Size Small」）",
+ "brands_seen": [
+  "BitStream",
+  "Hyperion"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（trade.gov.pl 官方出口名录）",
+   "claim": "定位、产品线与公开联系人",
+   "quote": "BitStream S.A. is a leading Polish technology company specializing in the design and manufacturing of advanced data transmission, time synchronization, and industrial networking equipment … Industrial Networking & Ethernet Switches: Managed and unmanaged DIN-rail/rack Ethernet switches supporting zero-failover redundancy protocols (PRP/HSR) … E-mail: mbeczek@bitstream.pl",
+   "url": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品类目含 PoE/L2/L3 交换机与光纤 MC",
+   "quote": "PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów",
+   "url": "https://bitstream.pl/technologie/technika-swiatlowodowa/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "M. Beczek（mbeczek@）",
+   "role": "出口/商务联系人（官方名录公开）",
+   "email": "mbeczek@bitstream.pl",
+   "phone": "+48 691 161 866",
+   "source": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna"
+  }
+ ],
+ "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
+ "researched_at": "2026-10-21"
+}

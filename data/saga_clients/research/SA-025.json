@@ -1,0 +1,31 @@
+{
+ "code": "SA-025",
+ "name_official": "Sicurmax S.n.c. di Marzari Massimo & C.（Bovolone, Verona）",
+ "website_status": "在线",
+ "summary": "意大利维罗纳省的民用/工业安防集成商（1992 年起，ISO 9001、SOA OS5/OS19/OS30 资质，具备意大利军方与 NATO 场所施工资格），业务：防盗、视频监控（含城市/交通）、消防、门禁。用户表：WhatsApp 已加，兴趣工业 PoE 配件，17 次推送无回复。",
+ "type": "安防集成商（含军方/NATO 场所资质）",
+ "size": "未见人数（S.n.c. 合伙制小企业）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位、历史与资质",
+   "quote": "SICURMAX è specializzata in sistemi di sicurezza civili ed industriali. Dal 1992 opera con successo in tutto il Nord Italia … Certificazione del sistema di gestione Qualità ISO 9001-2015 · Attestazione SOA per le categorie OS5- OS19- OS30 … abilitazioni per realizzazioni presso Enti e Organizzazioni Militari Italiani e NATO",
+   "url": "https://sicurmax.com/azienda",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Massimo Marzari",
+   "role": "合伙人（法人名称所示）",
+   "email": "info@sicurmax.com",
+   "phone": "+39 045 690 0922",
+   "source": "https://sicurmax.com/azienda"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

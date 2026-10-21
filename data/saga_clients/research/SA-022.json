@@ -1,0 +1,25 @@
+{
+ "code": "SA-022",
+ "name_official": "Abdulaziz Al Jowasem（个人名，沙特；公司名/域名未知）",
+ "website_status": "无法核实（用户表仅有人名与手机号，无公司名/域名）",
+ "summary": "用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。",
+ "type": "未知（疑为个体贸易/集成）",
+ "size": "未知",
+ "brands_seen": [
+  "中科德能",
+  "金升阳（MORNSUN）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "仅有个人名 + 手机，无公司",
+   "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
+   "url": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx",
+   "date": "2026-10-21"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。",
+ "notes": "下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。",
+ "researched_at": "2026-10-21"
+}

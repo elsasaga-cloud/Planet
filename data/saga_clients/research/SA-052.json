@@ -1,0 +1,32 @@
+{
+ "code": "SA-052",
+ "name_official": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd., td-fe.ru, St. Petersburg, Russia）",
+ "website_status": "在线",
+ "summary": "圣彼得堡的 FARADAY 品牌工业电源制造/贸易公司：DIN 导轨开关电源 12–480W（EAC/CE/RoHS，3 年保），面向自动化系统，经 sintsec 等安防分销商销售。用户表：A 优质名单(优质俄罗斯客户)，5 次实质回复，12 次跟进；兴趣工业电源（只要导轨式）、ONV 工业 FS、PoE 配件；联系人 Alexander Rudnev（director）；AI 评 40% B。",
+ "type": "品牌商/贸易公司（电源主业，工业交换机为配套）",
+ "size": "未见人数（中小）",
+ "brands_seen": [
+  "FARADAY",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌 DIN 电源产品线与联系方式",
+   "quote": "240W/48V/DIN. Блок питания FARADAY на DIN рейку разработан ООО \"ТД \"Фарадей Электроникс\" … Сертифицирован (EAC, CE, ROHS) … Гарантия 3 года … +7 (812) 953-13-59 spb@td-fe.ru",
+   "url": "https://td-fe.ru/catalog/ps-on-din-rail/240W_48V_DIN.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Alexander Rudnev",
+   "role": "Director（用户表）",
+   "email": "air@td-fe.ru",
+   "phone": "+7 812 953 13 59（官网总机）",
+   "source": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx"
+  }
+ ],
+ "notes": "A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。",
+ "researched_at": "2026-10-21"
+}

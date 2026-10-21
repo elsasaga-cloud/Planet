@@ -1,0 +1,39 @@
+{
+ "code": "SA-054",
+ "name_official": "SVN（svn-video.ru，ИП Криволуцкая Ю.В., Kaluga, Russia）",
+ "website_status": "在线",
+ "summary": "俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。",
+ "type": "电商/安装商（自有型号贴牌）",
+ "size": "个体经营（小型）",
+ "brands_seen": [
+  "SVN",
+  "HRUI(洪瑞)"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务与联系方式",
+   "quote": "Системы видеонаблюдения, недорого в каталоге с ценой на сайте интернет-магазина SVN … zakaz@svn-video.ru … Наименование: ИП Криволуцкая Юлия Викторовна · ИНН: 402910363642 … г. Калуга, ул. Марата, д. 5",
+   "url": "https://svn-video.ru/contact-us",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "有批发栏目与自有 SVN 型号",
+   "quote": "Оптовикам … Уличная камера IP SVN-800SBA20MPOE 2,8мм 8Мп · SVN-Дача-4 на 4 уличные камеры 5Мп",
+   "url": "https://svn-video.ru/catalog",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "订单邮箱",
+   "email": "zakaz@svn-video.ru",
+   "phone": "+7 903 810 33 33",
+   "source": "https://svn-video.ru/contact-us"
+  }
+ ],
+ "notes": "A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。",
+ "researched_at": "2026-10-21"
+}

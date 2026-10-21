@@ -1,0 +1,38 @@
+{
+ "code": "SA-056",
+ "name_official": "DNC Technosolutions Pvt. Ltd.（Ernakulam, Kerala, India）",
+ "website_status": "在线",
+ "summary": "喀拉拉邦的光纤产品制造/方案商（2011 年），自有 DNC 品牌：跳线/尾纤/连接器/分路器、数据 MC（MC-10100G 等）、视频/电话光端机、SFP、MPO。用户表：WhatsApp 跟进，2 次实质回复，18 次跟进；兴趣 MC / FS / HDMI / SFP / VC，要求质量较高，用自己的 logo。",
+ "type": "品牌商（光纤配套，MC 贴牌）",
+ "size": "未见人数（小型）",
+ "brands_seen": [
+  "DNC"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与产品线",
+   "quote": "Established in the year 2011, DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products … Data to Fiber converters, Video to Fiber Converter, Telephone to Fiber Converters, SFP Modules, MPO Systems",
+   "url": "https://www.dncsolutions.co.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有品牌 MC 零售价与电话（与用户表一致）",
+   "quote": "10/100/1000 Mbps Duplex Data Media Converter … Part Number MC-10100G … +91-9656123414 Binanipuram … Brand DNC",
+   "url": "https://www.dncsolutions.co.in/101001000mbpsduplexdatamediaconverter/pid-2010203631",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "官网公开电话（WhatsApp 已加）",
+   "email": "",
+   "phone": "+91 96561 23414",
+   "source": "https://www.dncsolutions.co.in/"
+  }
+ ],
+ "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
+ "researched_at": "2026-10-21"
+}

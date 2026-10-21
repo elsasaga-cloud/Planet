@@ -1,0 +1,45 @@
+{
+ "code": "SA-033",
+ "name_official": "Optiview, Inc.（Jacksonville, FL）",
+ "website_status": "在线",
+ "summary": "美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。",
+ "type": "分销商/品牌商（CCTV 批发，自有品牌 OEM 采购）",
+ "size": "11–50 人；$5.3M（ZoomInfo/RocketReach）",
+ "brands_seen": [
+  "Optiview"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与客户群；产品自测与定制",
+   "quote": "Optiview has been a part of the surveillance industry for over 25 years … for our network of Clients, Dealers, & Integrators. Every product brought into Optiview’s 25,000 square foot warehouse is extensively tested by our R&D team, and customized to fit the needs of our client base.",
+   "url": "https://optiviewusa.com/about/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "类目含 Networking/PoE 与 NDAA 合规摄像机",
+   "quote": "Some of our most popular products include: - HD over COAX Cameras - IP/network cameras - NDAA-compliant cameras - Network video recorders (NVR) … - Networking/POE",
+   "url": "https://optiviewusa.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（ZoomInfo）",
+   "claim": "总裁与规模",
+   "quote": "Optiview $5.3M · Private · 1999 · Stephen Lebowitz President",
+   "url": "https://www.zoominfo.com/c/optiview-inc/344525981",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Stephen Lebowitz",
+   "role": "President（ZoomInfo 口径）",
+   "email": "sales@optiviewusa.com（Crunchbase 公开）",
+   "phone": "+1 904-805-1581",
+   "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
+  }
+ ],
+ "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",
+ "researched_at": "2026-10-21"
+}

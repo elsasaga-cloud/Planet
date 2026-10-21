@@ -1,0 +1,29 @@
+{
+ "code": "SA-012",
+ "name_official": "Go Green IT Ltd（Derby, UK）",
+ "website_status": "在线（简页）",
+ "summary": "英国德比小型 IT 咨询/绿色 IT 服务公司（2011 年注册，<25 人，<$5M），业务为服务器虚拟化、硬件升级、IT 设备回收。用户表：问过 90W bt 工业 PoE，1 次实质回复，仅 3 次推送。",
+ "type": "IT 服务商/终端（非渠道）",
+ "size": "<25 人；<$5M（NeverBounce 口径）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：可持续 IT 咨询",
+   "quote": "Sustainability is now a major focus for organizations … Go Green IT can help with this. … Registered Address : 222 Warwick Avenue, Derby, England, DE23 6HP",
+   "url": "http://gogreenit.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Companies House）",
+   "claim": "注册信息",
+   "quote": "GO GREEN IT LTD … Company status: Active · Private limited Company · Incorporated on 26 April 2011",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07614771",
+   "date": "2026-10-21"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,49 @@
+{
+ "code": "SA-048",
+ "name_official": "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）",
+ "website_status": "在线（truongsonsolutions.vn / switchcongnghiep.com）",
+ "summary": "胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。",
+ "type": "分销商/电商（工业交换机垂直）",
+ "size": "5 人（dauthau.asia 登记）",
+ "brands_seen": [
+  "ONV",
+  "Advantech",
+  "GTWave",
+  "Sambo",
+  "HUNT"
+ ],
+ "evidence": [
+  {
+   "kind": "官网（博客）",
+   "claim": "分销 ONV 工业 PoE 交换机",
+   "quote": "Truong Son Solutions Co.,Ltd là đơn vị phân phối Switch PoE công nghiệp ONV, Camera Sambo Hàn Quốc, Camera HUNT Taiwan … Email : info@truongsonsolutions.com 090949007",
+   "url": "https://truongsonsolutions.wordpress.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "同时引入韩国 GTWave Non-China 线（说明客户有非中国产线需求）",
+   "quote": "Switch công nghiệp có quản lý 8 cổng GTWave Non-China đạt NDAA GTW-D08M2",
+   "url": "https://truongsonsolutions.vn/thuong-hieu/gtwave/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（dauthau.asia）",
+   "claim": "注册信息与规模",
+   "quote": "TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5",
+   "url": "https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机/销售（官网）",
+   "email": "info@truongsonsolutions.com",
+   "phone": "+84 909 490 007",
+   "source": "https://truongsonsolutions.vn/lien-he/"
+  }
+ ],
+ "notes": "A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。",
+ "researched_at": "2026-10-21"
+}

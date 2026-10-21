@@ -1,0 +1,36 @@
+{
+ "code": "SA-041",
+ "name_official": "Al Salami Trading L.L.C.（AST, Dubai, UAE）",
+ "website_status": "在线",
+ "summary": "迪拜老牌电子安防集成商（1989 年创立，Al Salami 集团成员，11–50 人），业务为报警、监控、音视频安防系统的设计、集成、安装与维护。用户表：A 已回复 + 询盘流水，自官网询盘 2 台工业千兆 1 光 4 电。",
+ "type": "安防集成商（项目型小批量）",
+ "size": "11–50 人（LinkedIn）；10–19 人（Kompass）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "定位与规模",
+   "quote": "Al Salami Trading L.L.C (AST) – was founded in 1989 by its chairman Mr. Rashid Al Salami … AST deals in all aspects of Electronic Security and Surveillance systems … Company size: 11-50 employees · Headquarters: Dubai",
+   "url": "https://www.linkedin.com/company/al-salami-trading-establishment/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "PO Box: 27640, Dubai, UAE · +971 4 2650333 · alsalami@emirates.net.ae",
+   "url": "https://www.alsalami.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机（官网公开）",
+   "email": "alsalami@emirates.net.ae",
+   "phone": "+971 4 265 0333",
+   "source": "https://www.alsalami.com/"
+  }
+ ],
+ "notes": "A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。",
+ "researched_at": "2026-10-21"
+}

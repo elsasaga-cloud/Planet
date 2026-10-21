@@ -1,0 +1,25 @@
+{
+ "code": "SA-034",
+ "name_official": "XCAM CZech s.r.o.（Ostrava, Czech Republic）",
+ "website_status": "在线",
+ "summary": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
+ "type": "安防集成/安装商（小型）",
+ "size": "未见人数（小型 s.r.o.）",
+ "brands_seen": [
+  "AXIS",
+  "E-link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务范围",
+   "quote": "Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba … Adresa : Gen Piky 1A, Ostrava 1 … Email: info@xcam.cz Tel: 597 606 080 · IČO 29397839",
+   "url": "https://www.xcam.cz/",
+   "date": "2026-10-21"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

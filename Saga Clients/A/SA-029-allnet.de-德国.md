@@ -1,18 +1,20 @@
 # allnet.de
+**官方名称（调研核实）**：ALLNET GmbH Computersysteme（Germering bei München）
 
 > **评级 A**　|　德国　|　档案编号 `SA-029`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-07-09 → 2025-07-09）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商 + 自有品牌（ALLNET，OEM 采购）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-07-09 → 2025-07-09）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-029
 rating: A
 rating_auto: A
+name_official: "ALLNET GmbH Computersysteme（Germering bei München）"
 score: 88
 country: 德国
 region: 欧洲
 website: allnet.de
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 分销商 + 自有品牌（ALLNET，OEM 采购）
 tier_tags: ["A已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-07-09
 last_contact: 2025-07-09
 p1: STI-288DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：自己的logo 工业FS MC SFP  周边产品 有E-link的产品；提到的品牌：E-link, FS
+- **是谁**：德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。（调研 2026-10-21；表内兴趣：自己的logo 工业FS MC SFP  周边产品 有E-link的产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-09 → 2025-07-09）；最近一次客户回复：2025-07-09：自己有型号了
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | allnet.de（取自域名，公司全名待核） | 推断 |
 | 国家 | 德国 | 事实（用户表）|
 | 网站/域名 | allnet.de | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商 + 自有品牌（ALLNET，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量高 / Gerhard Zerwes | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 自己的logo 工业FS MC SFP <br>周边产品 有E-link的产品 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-029.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。
+- **类型**：分销商 + 自有品牌（ALLNET，OEM 采购）
+- **规模**：€58M 营收（2013，channelpartner）
+- **在卖/在用品牌**：ALLNET, E-link
+- **【第三方（Wikipedia）】定位：增值分销 + 自产 ALLNET 品牌产品**
+  > Die ALLNET GmbH Computersysteme ist ein deutscher Value add Distributor für Produkte im Bereich der Netzwerktechnik … Das Unternehmen produziert und vermarktet und dem Namen "ALLNET" zudem Produkte
+  > 来源：https://de.wikipedia.org/wiki/ALLNET（抓取 2026-10-21）
+- **【第三方（channelpartner）】体量**
+  > Platz 27: Allnet · Unternehmen: Allnet GmbH Computersysteme Schwerpunkt: Netzwerke Umsatz: 58 Mio. Euro (2013)
+  > 来源：https://www.channelpartner.de/g/die-groessten-distributoren-in-deutschland-rangliste-nach-umsatz,109904,5（抓取 2026-10-21）
+- **【官网】销售/新客户邮箱**
+  > Neukundenbetreuung Mail: neukunde(at)allnet.de · Vertrieb allgemein (Sales) Mail: sales(at)allnet.de Tel.: (089) 894-222-22
+  > 来源：https://distribution.allnet.de/contact-allnet-distribution.html（抓取 2026-10-21）
+- **KP**：Wolfgang Marcus Bauer（Geschäftsführer） +49 89 894 222-22〔https://www.allnet.de/impressum.html〕
+- 备注：A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -90,7 +107,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商 + 自有品牌（ALLNET，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

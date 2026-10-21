@@ -1,0 +1,40 @@
+{
+ "code": "SA-028",
+ "name_official": "Sewell Development Corp.（Sewell Direct, Orem, Utah）",
+ "website_status": "在线",
+ "summary": "美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。",
+ "type": "品牌商/电商（消费 AV 连接；PoE 电源复购客户）",
+ "size": "51–200 人（LinkedIn）/ 17 人（RocketReach）；$6.5M（RocketReach）",
+ "brands_seen": [
+  "Silverback by Sewell",
+  "Deadbolt by Sewell",
+  "Salt Labs"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "定位：产品型公司，设计/制造/直销，自有品牌",
+   "quote": "Sewell Development Corp. is a product-focused company specializing in design, manufacturing and a streamlined sales process … Silverback by Sewell and Deadbolt by Sewell brands … Company size: 51-200 employees · Headquarters: Orem, UT · Founded: 1983",
+   "url": "https://www.linkedin.com/company/sewelldirect.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（BBB）",
+   "claim": "管理层",
+   "quote": "Business Management: - Mr. David Sewell, CEO",
+   "url": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "David Sewell",
+   "role": "CEO（BBB 口径）",
+   "email": "",
+   "phone": "+1 801-356-3823",
+   "source": "https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003"
+  }
+ ],
+ "notes": "A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
+ "researched_at": "2026-10-21"
+}

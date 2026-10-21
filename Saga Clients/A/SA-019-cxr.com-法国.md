@@ -1,18 +1,20 @@
 # cxr.com
+**官方名称（调研核实）**：CXR Networks（CXR Anderson Jacobson, Abondant, France）
 
 > **评级 A**　|　法国　|　档案编号 `SA-019`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-019
 rating: A
 rating_auto: A
+name_official: "CXR Networks（CXR Anderson Jacobson, Abondant, France）"
 score: 100
 country: 法国
 region: 欧洲
 website: cxr.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌
 tier_tags: ["S重点"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2024-05-03
 last_contact: 2025-12-29
 p1: STI-288DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：法国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：MC 机架 工业FS（很多设备） 周边产品  自己的牌子；提到的品牌：FS
+- **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）；最近一次客户回复：2024-05-30：datasheet
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | cxr.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 法国 | 事实（用户表）|
 | 网站/域名 | cxr.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌 | 推断（据兴趣/备注关键词） |
 | 联系人 | Marco | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC 机架 工业FS（很多设备）<br>周边产品  自己的牌子 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-019.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。
+- **类型**：品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌
+- **规模**：未见人数；历史悠久的中型设备商
+- **在卖/在用品牌**：CXR
+- **【官网（新闻）】2026-08 发布自有品牌 DIN 导轨 PoE+ 工业交换机 SWMDL-H-4GPS-2USF-B 与 10G 工业交换机 SWMD-H-16TG-4GSF-4SFP+**
+  > Reduce your infrastructure costs with the SWMDL-H-4GPS-2USF-B switch 18/08/2026 … Compact DIN-rail form factor … Discover the CXR SWMD-H-16TG-4GSF-4SFP+ industrial switch
+  > 来源：https://www.cxr.com/en/news/（抓取 2026-10-21）
+- **【第三方（Tracxn）】产品组合含工业 PoE/L3 以太网交换机**
+  > Its product portfolio includes Ethernet switch, carrier Ethernet, Gigabit Ethernet Level 3 or Ethernet Industrial, Gigabit POE Industrial, Industrial DIN or l POE
+  > 来源：https://tracxn.com/d/companies/cxr/__05FT_y-RdFCUpyaLxwaVCJCPXWWwu7lYSUFd9KdNeTs（抓取 2026-10-21）
+- **【第三方（eTesters）】地址与总机邮箱**
+  > CXR ANDERSON JACOBSON · Phone:33(0)237 628 800 · Email:contact@cxr.com · Address:17 Rue de l'Ornette Abondant, 28410 France
+  > 来源：https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation（抓取 2026-10-21）
+- **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
+- 备注：A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -109,7 +126,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

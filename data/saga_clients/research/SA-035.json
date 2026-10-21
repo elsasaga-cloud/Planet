@@ -1,0 +1,47 @@
+{
+ "code": "SA-035",
+ "name_official": "SYNCHCOM (Pvt) Ltd（Islamabad, Pakistan）",
+ "website_status": "在线",
+ "summary": "巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。",
+ "type": "系统集成 + 分销（电信/IT/国防）",
+ "size": "11–50 人（ZoomInfo）",
+ "brands_seen": [
+  "LigoWave"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与行业",
+   "quote": "SynchCOM Private Limited is a system integrator and solution providing company … industry like IT, Telecom, Defence sector, Power & Energy, Oil & Gas, Utilities, Automation & Control etc.",
+   "url": "https://synchcom.com.pk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LigoWave 分销名录）",
+   "claim": "分销商身份与销售电话（与用户表 WhatsApp 号一致）",
+   "quote": "SYNCHCOM PRIVATE LIMITED Distributor in Pakistan · Tel: Sales # +92-335-5225522 · Tel: Sales # +92-332-5933665",
+   "url": "https://www.ligowave.com/distributors/asia-pacific",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Facebook）",
+   "claim": "公开联系人邮箱",
+   "quote": "693, Rehman Baba Road, Sector I-8/4, Islamabad, Pakistan +92 332 5933665 asif@synchcom.com.pk",
+   "url": "https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Asif（asif@）",
+   "role": "销售负责人（Facebook 主页公开）",
+   "email": "asif@synchcom.com.pk",
+   "phone": "+92 332 5933665（WhatsApp 已加）",
+   "source": "https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

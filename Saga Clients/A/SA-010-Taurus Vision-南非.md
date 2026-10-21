@@ -1,39 +1,41 @@
 # Taurus Vision
+**官方名称（调研核实）**：Taurus Vision（Pretoria, South Africa）
 
-> **评级 A**　|　南非　|　档案编号 `SA-010`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　南非　|　档案编号 `SA-010`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防集成商（CCTV/视频管理）（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-010
 rating: A
 rating_auto: A
-score: 117
+name_official: "Taurus Vision（Pretoria, South Africa）"
+score: 67
 country: 南非
 region: 非洲
 website: taurusvision.com
-type: 经销/集成（类型待核）
+type: 安防集成商（CCTV/视频管理）
 tier_tags: ["A优质名单(South Africa)", "AI评估(ZA)·DONE"]
-deal: yes
+deal: no
 replies: 3
 followups: 21
 first_contact: 2023-09-11
 last_contact: 2025-11-04
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：南非的经销/集成（类型待核）；兴趣/在卖：2015年使用国际站 27 - 123292951 没尝试加
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
-- **历史互动**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）；最近一次客户回复：2024-08-13：price list
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **是谁**：南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。（调研 2026-10-21；表内兴趣：2015年使用国际站 27 - 123292951 没尝试加）
+- **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
+- **历史互动**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）；最近一次客户回复：2024-08-13：price list
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | Taurus Vision | 事实（用户表） |
 | 国家 | 南非 | 事实（用户表）|
 | 网站/域名 | taurusvision.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防集成商（CCTV/视频管理） | 推断（据兴趣/备注关键词） |
 | 联系人 | Hendrik Bezuidenhout / 可以多跟进一下 | 事实（用户表） |
 | 来源（From） | RFQ<br>2023.2.13 | 事实（用户表） |
 | 兴趣（Interested in） | 2015年使用国际站<br>27 - 123292951 没尝试加 | 事实（用户表） |
@@ -63,7 +65,18 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-010.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。
+- **类型**：安防集成商（CCTV/视频管理）
+- **规模**：1–10 人；<$5M（ZoomInfo）
+- **【第三方（ZoomInfo）】地址、规模**
+  > Taurus Vision corporate office is located in 8 Malan St, Pretoria, 0084, South Africa and has 1-10 employees.
+  > 来源：https://www.zoominfo.com/pic/taurus-vision/348010963（抓取 2026-10-21）
+- **【官网】定位：端到端视频集成与管理，招募伙伴**
+  > END TO END OFFERINGS — Operational video integration and video management · BECOME A PATNER TODAY · sales@taurusvision.com · Tell: 086 188 2266
+  > 来源：https://www.taurusvision.com/（抓取 2026-10-21）
+- **KP**：Lynette Bowman（CCTV（ZoomInfo 口径）） +27 86 188 2266（总机）〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
+- 备注：A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -118,10 +131,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成商（CCTV/视频管理）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -129,9 +142,9 @@ updated: 2026-10-21
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -145,7 +158,7 @@ updated: 2026-10-21
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 117）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）
 
 ---
 

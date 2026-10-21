@@ -1,0 +1,40 @@
+{
+ "code": "SA-003",
+ "name_official": "Eyescan Private Security Services Ltd（EYESCAN Security Systems）",
+ "website_status": "在线",
+ "summary": "塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。",
+ "type": "安防集成/经销（兼分销）",
+ "size": "11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）",
+ "brands_seen": [
+  "ZKTeco",
+  "Eocortex",
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "规模与业务：11–50 人，专长含 IP CCTV、门禁、Distribution",
+   "quote": "Industry: Security and Investigations · Company size: 11-50 employees · Headquarters: Limassol · Founded: 2001 · Specialties: Integrated Security Systems, Access Control Systems, IP CCTV, … and Distribution",
+   "url": "https://cy.linkedin.com/company/eyescan-security-systems",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（ZKTeco）",
+   "claim": "被 ZKTeco 描述为塞浦路斯安防方案分销商",
+   "quote": "Eyescan Securities Systems was founded in 2001 and is a security solutions distributor based in Cyprus. They especialize in designing, selling, installing, integrating, and maintaining security systems",
+   "url": "https://zkteco.eu/news-center/news/zkteco-strengthens-its-security-offerings-eyescan-cyprus",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@eyescan.com.cy",
+   "phone": "+357 25 333 300",
+   "source": "https://eyescan.com.cy/"
+  }
+ ],
+ "notes": "A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。",
+ "researched_at": "2026-10-21"
+}

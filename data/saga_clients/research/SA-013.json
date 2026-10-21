@@ -1,0 +1,34 @@
+{
+ "code": "SA-013",
+ "name_official": "fiberONE（NYNEX satellite OHG, Darmstadt）",
+ "website_status": "在线",
+ "summary": "德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。",
+ "type": "运营商/ISP（终端 + 自有 logo 贴牌需求）",
+ "size": "11–50 人（LinkedIn）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法人与品牌关系",
+   "quote": "fiberONE — a brand of NYNEX satellite OHG … Robert-Bosch-Straße 20 64293 Darmstadt … Email: info@fiberone.de",
+   "url": "https://fiberone.de/impressum/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网（新闻）",
+   "claim": "规模：数千套住宅接入，最大项目 1,100 套，自建 AON 网络",
+   "quote": "Jüngster Meilenstein: die Wohnstadt Asemwald in Stuttgart, mit über 1.100 Wohnungen das bislang größte Projekt im Netz … 10 Gbit/s symmetrisch",
+   "url": "https://fiberone.de/presse/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "11–50 人，2015 年",
+   "quote": "Branche: Telekommunikation · Größe: 11–50 Beschäftigte · Hauptsitz: Darmstadt · Gegründet: 2015",
+   "url": "https://de.linkedin.com/company/nynexfiberone",
+   "date": "2026-10-21"
+  }
+ ],
+ "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。",
+ "researched_at": "2026-10-21"
+}

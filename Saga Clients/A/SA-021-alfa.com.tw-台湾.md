@@ -1,18 +1,20 @@
 # alfa.com.tw
+**官方名称（调研核实）**：ALFA Network Inc.（Taipei）
 
 > **评级 A**　|　台湾　|　档案编号 `SA-021`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商（台系无线网络品牌，PoE 交换机外采贴牌）（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-021
 rating: A
 rating_auto: A
+name_official: "ALFA Network Inc.（Taipei）"
 score: 95
 country: 台湾
 region: 亚太
 website: alfa.com.tw
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商（台系无线网络品牌，PoE 交换机外采贴牌）
 tier_tags: ["S重点"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2024-05-02
 last_contact: 2025-12-29
 p1: STC-28DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：商业POE 自己的logo POE配件 有人在卖他们的 自己的logo
+- **是谁**：台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo POE配件 有人在卖他们的 自己的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-08-15：price   company info
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | alfa.com.tw（取自域名，公司全名待核） | 推断 |
 | 国家 | 台湾 | 事实（用户表）|
 | 网站/域名 | alfa.com.tw | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商（台系无线网络品牌，PoE 交换机外采贴牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | Johnson | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE 自己的logo POE配件<br>有人在卖他们的 自己的logo | 事实（用户表） |
@@ -53,7 +55,18 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-021.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。
+- **类型**：品牌商（台系无线网络品牌，PoE 交换机外采贴牌）
+- **规模**：11–50 人（LinkedIn）
+- **在卖/在用品牌**：ALFA
+- **【官网】自有品牌 PoE 交换机产品线（16 口 PoE+2G、PoE 延长交换机等）**
+  > APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … APS104G-EX_PoE 60W Ultra PoE to 4-Port 802.3af/at Gigabit PoE Extender Switch
+  > 来源：https://www.alfa.com.tw/collections/power-over-ethernet-poe-switch（抓取 2026-10-21）
+- **【第三方（LinkedIn）】规模与定位**
+  > ALFA Network Inc. designs and manufacturers high-performance wireless network equipment … Company size: 11-50 employees · Headquarters: Taipei City · Founded: 2002 · Specialties: Wireless Routers, Wireless AP, Outdoor Wireless, USB Wireless Adapters, Antennas, PoE
+  > 来源：https://www.linkedin.com/company/alfanetwork（抓取 2026-10-21）
+- 备注：A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -107,7 +120,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（台系无线网络品牌，PoE 交换机外采贴牌）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

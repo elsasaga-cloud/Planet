@@ -1,18 +1,20 @@
 # gtwave.co.kr
+**官方名称（调研核实）**：GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）
 
 > **评级 A**　|　韩国　|　档案编号 `SA-044`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-04-15 → 2025-04-15）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商（OEM/ODM 需求）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-04-15 → 2025-04-15）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-044
 rating: A
 rating_auto: A
+name_official: "GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）"
 score: 83
 country: 韩国
 region: 亚太
 website: gtwave.co.kr
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商（OEM/ODM 需求）
 tier_tags: ["A已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-04-15
 last_contact: 2025-04-15
 p1: STI-288DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：自己的logo 工业FS FS PoE 海思的；提到的品牌：海思, FS
+- **是谁**：韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。（调研 2026-10-21；表内兴趣：自己的logo 工业FS FS PoE 海思的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-15 → 2025-04-15）；最近一次客户回复：2025-04-15：Company Info
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | gtwave.co.kr（取自域名，公司全名待核） | 推断 |
 | 国家 | 韩国 | 事实（用户表）|
 | 网站/域名 | gtwave.co.kr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商（OEM/ODM 需求） | 推断（据兴趣/备注关键词） |
 | 联系人 | Park | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 自己的logo 工业FS FS PoE<br>海思的 | 事实（用户表） |
@@ -53,7 +55,19 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-044.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。
+- **类型**：品牌商（OEM/ODM 需求）
+- **规模**：11–50 人（EC21）
+- **在卖/在用品牌**：GT-Wave
+- **【官网】自有品牌产品线含 PoE 交换机/工业 AP**
+  > Intelligent PoE Switch / Outdoor AP / Public WiFi / Antenna / Wireless CCTV / Video Transmission for Drones … PoE Switch · PoE Injector · PoE Extender (repeater) · Network Switch … E-mail : master@gtwave.co.kr
+  > 来源：https://www.gtwave.co.kr/（抓取 2026-10-21）
+- **【第三方（EC21）】规模与联系人**
+  > Gtwave Co.,Ltd … Korea · 2001 · 11 - 50 … Main Products PoE Network Switch, 8Port PoE (GT8P-2G-HA) · Industrial PoE Network Switch, 4port Poe … Contact MOONSOO,PARK(Mr.)
+  > 来源：https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html（抓取 2026-10-21）
+- **KP**：Moonsoo Park（对外联系人（EC21 供应商页））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
+- 备注：A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -89,7 +103,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（OEM/ODM 需求）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

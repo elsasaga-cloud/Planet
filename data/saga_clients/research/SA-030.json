@@ -1,0 +1,47 @@
+{
+ "code": "SA-030",
+ "name_official": "American Fibertek, Inc.（AFI, St. Petersburg, FL）",
+ "website_status": "在线",
+ "summary": "美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。",
+ "type": "品牌商（美国本土制造 + TAA 外采线）",
+ "size": "11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）",
+ "brands_seen": [
+  "American Fibertek"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：美国制造 + BAA，外采线要求 TAA 合规（TAA 名单不含中国）",
+   "quote": "American Fibertek provides superior fiber solutions for security applications manufactured in America by American citizens – meeting all BAA compliance requirements and standards. AFI also offers a full array of sourced TAA compliant products",
+   "url": "https://www.americanfibertek.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "产品线含以太网交换机与光纤交换机；规模",
+   "quote": "Product offerings include IP media conversion, video, data, contact closure alarm, audio, CCTV, intercom, telephone, Ethernet switches and fiber switches. · Company size: 11-50 employees · Founded: 1984",
+   "url": "https://www.linkedin.com/company/american-fibertek",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（PRNewswire）",
+   "claim": "2020 年被 Donna Poulos 收购，强调「降低外国元素风险」",
+   "quote": "American Fibertek Proudly Continues 35 Year History of Manufacturing American Products and Mitigating Risks of Foreign Elements … wholly acquired by seasoned industry leader Donna Poulos",
+   "url": "https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Donna Poulos",
+   "role": "President/Owner",
+   "email": "sales@americanfibertek.com（官网公开）",
+   "phone": "+1 800-323-0660",
+   "source": "https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
+ "notes": "INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
+ "researched_at": "2026-10-21"
+}

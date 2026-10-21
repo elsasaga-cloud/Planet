@@ -1,0 +1,39 @@
+{
+ "code": "SA-014",
+ "name_official": "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.（İstanbul）",
+ "website_status": "在线",
+ "summary": "土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。",
+ "type": "分销商（网络设备，DCN 土耳其分销）",
+ "size": "未见人数；自述在土装机 10,000+ 台 DCN",
+ "brands_seen": [
+  "DCN",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "DCN 分销商身份与装机量",
+   "quote": "Firmamız 2010 yılından beri DCN ürünlerinin distribütörlüğünü yapmaktadır … 2020 yılı itibariyle Türkiye'de çalışan ürün sayısı 10.000'in üzerindedir.",
+   "url": "http://www.coptek.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址/联系方式",
+   "quote": "Koptek Bilgisayar ve İletişim Sistemleri LTD.ŞTİ. … Fuat Sarp Sokak.No:5/1 Balmumcu-İSTANBUL · +90 212-2757953 · info@coptek.com.tr",
+   "url": "https://www.coptek.com.tr/CS6570.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@coptek.com.tr",
+   "phone": "+90 212 275 79 53",
+   "source": "https://www.coptek.com.tr/CS6570.html"
+  }
+ ],
+ "notes": "A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。",
+ "researched_at": "2026-10-21"
+}

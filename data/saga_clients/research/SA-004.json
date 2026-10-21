@@ -1,0 +1,35 @@
+{
+ "code": "SA-004",
+ "name_official": "SSL（sslcom.com，Kfar Hasidim, Israel）",
+ "website_status": "在线",
+ "summary": "以色列无线通信方案商（2001 年成立），代理 VTQ、SILVUS、ORION、MICROHARD、REICOM 等无线/战术通信品牌，案例含 Indian Army Communication、SILVUS Tactical Solutions、safe city。用户表：成单（买过 240W/24V 电源类）。",
+ "type": "系统集成/工程商（无线·战术通信·安全城市）",
+ "size": "<$5M 营收（ZoomInfo）",
+ "brands_seen": [
+  "SILVUS",
+  "Microhard",
+  "VTQ",
+  "ORION",
+  "REICOM"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自述：以色列领先无线通信公司，代理 VTQ/SILVUS/ORION/MICROHARD/REICOM",
+   "quote": "SSL is one of the leading wireless communication companies in Israel. In the year 2001 … SSL proudly represents the foremost wireless companies in the world, such as VTQ, SILVUS, ORION, MICROHARD SYSTEM, and REICOM.",
+   "url": "https://sslcom.com/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品/案例页含军方与战术通信",
+   "quote": "Wireless Communication - Indian Army Communication - … SILVUS Tactical Solutions - Tactical Solutions",
+   "url": "https://sslcom.com/product_cat/wireless-communication/",
+   "date": "2026-10-21"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "成单客户但核心业务是战术/军用无线与安全城市项目（INH 守界：军工/公共部门不主动投入）；交换机只是项目配套。保留为 B：被动响应其询价，不主动推。",
+ "notes": "用户如认为以色列项目配套值得主动跟，可在 人工定级.csv 改回 A。",
+ "researched_at": "2026-10-21"
+}

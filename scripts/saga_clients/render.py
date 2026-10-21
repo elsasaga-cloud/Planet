@@ -293,7 +293,10 @@ def render_one(ent):
         unknown.append('年走量与现供应商')
     yaml_tags = json.dumps(ent['tags'], ensure_ascii=False)
     lines = []
+    rs = ent.get('research') or {}
     lines.append(f'# {ent["name"]}')
+    if rs.get('name_official') and rs['name_official'].strip() != ent['name'].strip():
+        lines.append(f'**官方名称（调研核实）**：{rs["name_official"]}')
     lines.append('')
     lines.append(f'> **评级 {g}**　|　{ent["country"]}　|　档案编号 `{code}`　|　优先级 {stars(g)}　|　状态：{ent["status"]}')
     lines.append('>')
@@ -303,6 +306,10 @@ def render_one(ent):
     lines.append(f'code: {code}')
     lines.append(f'rating: {g}')
     lines.append(f'rating_auto: {ent["grade_auto"]}')
+    if rs.get('grade_override'):
+        lines.append(f'rating_research: {rs["grade_override"]}  # {rs.get("override_reason", "")[:80]}')
+    if rs.get('name_official'):
+        lines.append(f'name_official: {json.dumps(rs["name_official"], ensure_ascii=False)}')
     if ent.get('manual'):
         lines.append(f'rating_manual: {ent["manual"].get("等级", "")}  # {ent["manual"].get("理由", "")}')
     lines.append(f'score: {ent["score"]}')
@@ -330,8 +337,15 @@ def render_one(ent):
         who += '；兴趣/在卖：' + '；'.join(ent['interests'])[:160].replace('\n', ' ')
     if brands:
         who += f'；提到的品牌：{", ".join(brands)}'
+    if rs.get('summary'):
+        who = rs['summary'].strip() + f'（调研 {rs.get("researched_at", "")}；表内兴趣：' + ('；'.join(ent['interests'])[:120].replace('\n', ' ') if ent['interests'] else '—') + '）'
     lines.append(f'- **是谁**：{who}')
-    lines.append(f'- **为什么是 {g} 级**：' + '；'.join(ent['reasons']) + (f'；C 级细分：{ent["c_sub"]}' if g == 'C' and ent['c_sub'] else ''))
+    why = '；'.join(ent['reasons']) + (f'；C 级细分：{ent["c_sub"]}' if g == 'C' and ent['c_sub'] else '')
+    if ent.get('manual'):
+        why = f'**人工定级 {ent["manual"].get("等级", "")}**（{ent["manual"].get("理由", "")}）；自动分级 {ent["grade_auto"]}：' + why
+    elif rs.get('grade_override'):
+        why = f'**调研后定级 {rs["grade_override"]}**（{rs.get("override_reason", "")}）；自动分级 {ent["grade_auto"]}：' + why
+    lines.append(f'- **为什么是 {g} 级**：' + why)
     hist = '；'.join(rel)
     if last_reply:
         hist += f'；最近一次客户回复：{last_reply}'

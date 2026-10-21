@@ -1,0 +1,38 @@
+{
+ "code": "SA-011",
+ "name_official": "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）",
+ "website_status": "在线",
+ "summary": "美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌",
+ "size": "1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）",
+ "brands_seen": [
+  "Vi-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（ZoomInfo）",
+   "claim": "产品线含工业以太网交换机与工业光纤收发器——与 Saga STI 线直接对位",
+   "quote": "Their offerings include Optical Multiplexers … and Unmanaged Industrial Fast Ethernet switches for Traffic Control appli… Vi-Link also produces Industrial Fiber Optic Media Converters and robust Industrial Ethernet network switches",
+   "url": "https://www.zoominfo.com/c/vilink-communications-inc/40928131",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Crunchbase）",
+   "claim": "成立 1993，Irvine CA，1–10 人，sales@vi-link.net",
+   "quote": "Vilink Communications is a manufacturer of fiber optic digital transmission products. Founded Jan 1, 1993 · Irvine, California · 1-10 · sales@vi-link.net",
+   "url": "https://www.crunchbase.com/organization/vilink-communications",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Robin Sun",
+   "role": "联系人（ProcessRegister 名录口径）",
+   "email": "sales@vilinknet.com（产品 PDF 页脚公开）",
+   "phone": "+1 714-312-0654",
+   "source": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf"
+  }
+ ],
+ "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
+ "researched_at": "2026-10-21"
+}

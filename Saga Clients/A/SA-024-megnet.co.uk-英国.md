@@ -1,18 +1,20 @@
 # megnet.co.uk
+**官方名称（调研核实）**：Megnet Limited（London）
 
 > **评级 A**　|　英国　|　档案编号 `SA-024`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商 + 自有品牌（Chimera，OEM 采购）（推断）　|　**历史关系**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-024
 rating: A
 rating_auto: A
+name_official: "Megnet Limited（London）"
 score: 94
 country: 英国
 region: 欧洲
 website: megnet.co.uk
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 分销商 + 自有品牌（Chimera，OEM 采购）
 tier_tags: ["S重点"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-02-19
 last_contact: 2025-12-29
 p1: STI-110GE
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：自己的品牌 有人卖他们的 MC SFP AOC等较多
+- **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。（调研 2026-10-21；表内兴趣：自己的品牌 有人卖他们的 MC SFP AOC等较多）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）；最近一次客户回复：1.16：5个商业24 48口
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | megnet.co.uk（取自域名，公司全名待核） | 推断 |
 | 国家 | 英国 | 事实（用户表）|
 | 网站/域名 | megnet.co.uk | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商 + 自有品牌（Chimera，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Rajiv | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 自己的品牌 有人卖他们的<br>MC SFP AOC等较多 | 事实（用户表） |
@@ -53,7 +55,19 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-024.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。
+- **类型**：分销商 + 自有品牌（Chimera，OEM 采购）
+- **规模**：11–50 人（LinkedIn）
+- **在卖/在用品牌**：Chimera
+- **【第三方（LinkedIn）】定位与规模；自有品牌 Chimera 与 ISO 工厂合作生产**
+  > We are specialist suppliers of compatible fibre optic transceivers and related networking solutions products since 2003 … Our global brand Chimera is an in-house brand of compatible products; produced in partnership with leading ISO compliant industry manufacturers. · Company size: 11-50 employees · Headquarters: London
+  > 来源：https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions（抓取 2026-10-21）
+- **【官网】产品范围含交换机与 MC**
+  > OEM Networking Products : SFP, QSFP, AOC, DAC, and Switches … Media Converters
+  > 来源：https://megnet.co.uk/（抓取 2026-10-21）
+- **KP**：—（报价热线） +44 845 130 1585〔https://dev.megnet.co.uk/〕
+- 备注：A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -99,7 +113,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（分销商 + 自有品牌（Chimera，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

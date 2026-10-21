@@ -1,0 +1,20 @@
+{
+ "code": "SA-005",
+ "name_official": "Boecek Sec（boecek.de，用户表原值）",
+ "website_status": "未核实（公开搜索未检索到 boecek.de 相关页面）",
+ "summary": "德国安防客户（用户表：买了 5 电口样品，需要一起买工业电源，问了 2 款 2.5G 价格，对机架式工业管理交换机有兴趣，需要支持…）。网页搜索未找到该域名的公开页面，公司规模/类型待用户侧确认。",
+ "type": "安防集成/经销（据用户备注推断）",
+ "size": "未知",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "检索记录",
+   "claim": "2026-10-21 用 web_search 查「boecek.de Böcek Sicherheitstechnik Germany」无相关结果（返回同名无关公司 Sicherheitstechnik Bock / boeck GmbH）",
+   "quote": "（无可引用原文）",
+   "url": "https://www.google.com/search?q=boecek.de",
+   "date": "2026-10-21"
+  }
+ ],
+ "notes": "A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网页无法核实不扣分，但「最大未知」= 公司实体与规模。",
+ "researched_at": "2026-10-21"
+}

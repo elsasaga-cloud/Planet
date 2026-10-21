@@ -1,18 +1,20 @@
 # aeconnect.co.in
+**官方名称（调研核实）**：AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）
 
 > **评级 A**　|　印度　|　档案编号 `SA-055`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商（部分进口贴牌 + 本地组装）（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-055
 rating: A
 rating_auto: A
+name_official: "AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）"
 score: 79
 country: 印度
 region: 南亚
 website: aeconnect.co.in
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商（部分进口贴牌 + 本地组装）
 tier_tags: ["WA跟进"]
 deal: no
 replies: 3
@@ -21,19 +23,19 @@ first_contact: 2023-12-09
 last_contact: 2025-06-21
 p1: STI-110GE
 price_tier: 30%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：POE FS MC SFP   自己的logo；提到的品牌：FS
+- **是谁**：印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。（调研 2026-10-21；表内兴趣：POE FS MC SFP   自己的logo）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）；最近一次客户回复：2025-02-26：主要用RTL 有较为成熟的产品了 国内的
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | aeconnect.co.in（取自域名，公司全名待核） | 推断 |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | aeconnect.co.in | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商（部分进口贴牌 + 本地组装） | 推断（据兴趣/备注关键词） |
 | 联系人 | Devendra   重要 / Owner | 事实（用户表） |
 | 来源（From） | facebook | 事实（用户表） |
 | 兴趣（Interested in） | POE FS MC SFP   自己的logo | 事实（用户表） |
@@ -53,7 +55,19 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-055.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。
+- **类型**：品牌商（部分进口贴牌 + 本地组装）
+- **规模**：11–50 人（LinkedIn）；$8.1M（ZoomInfo）
+- **在卖/在用品牌**：AE Connect
+- **【官网】自有品牌 + 200+ 经销商 + 过去进口、现本地自产 PoE 交换机**
+  > The products have successively entered India and overseas with a wide network of 200+ dealers and distributors … For the last 5 years, we used to import some products from other countries. But now we are proud to announce that we are manufacturing PoE Switches in India.
+  > 来源：https://aeconnect.co.in/about-us/（抓取 2026-10-21）
+- **【官网】联系方式**
+  > +91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052
+  > 来源：https://aeconnect.co.in/shop/（抓取 2026-10-21）
+- **KP**：—（总机/用户表 WhatsApp）info@aeconnect.co.in +91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）〔https://aeconnect.co.in/shop/〕
+- 备注：A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -106,7 +120,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（部分进口贴牌 + 本地组装）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

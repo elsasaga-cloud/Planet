@@ -1,0 +1,36 @@
+{
+ "code": "SA-039",
+ "name_official": "Avenger Security / Security Tekton（Austin & Hutto, Texas）",
+ "website_status": "在线",
+ "summary": "德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。",
+ "type": "安防集成/安装商（小型，自装自用采购）",
+ "size": "<$5M（ZoomInfo）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务与联系方式",
+   "quote": "Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com",
+   "url": "https://getsecurityalarm.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网（关联站）",
+   "claim": "员工持股，双牌照，电话与用户表一致",
+   "quote": "Learn about Avenger Security, Austin’s employee-owned security monitoring company. Dual licensed for private security & fire alarm. … 512-563-5361 … Email: info@getsecurityalarm.com",
+   "url": "https://securitytekton.com/pages/about-us",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@getsecurityalarm.com",
+   "phone": "+1 512-563-5361",
+   "source": "https://securitytekton.com/pages/about-us"
+  }
+ ],
+ "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
+ "researched_at": "2026-10-21"
+}

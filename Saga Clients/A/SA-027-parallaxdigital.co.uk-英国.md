@@ -1,18 +1,20 @@
 # parallaxdigital.co.uk
+**官方名称（调研核实）**：Parallax Digital Technologies Ltd（Cramlington, Northumberland, UK）
 
 > **评级 A**　|　英国　|　档案编号 `SA-027`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 2 次；推送 16 次（2024-05-07 → 2025-10-14）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：微型 OEM/ODM 品牌商（自有品牌网络设备）（推断）　|　**历史关系**：实质回复 2 次；推送 16 次（2024-05-07 → 2025-10-14）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-027
 rating: A
 rating_auto: A
+name_official: "Parallax Digital Technologies Ltd（Cramlington, Northumberland, UK）"
 score: 89
 country: 英国
 region: 欧洲
 website: parallaxdigital.co.uk
-type: 经销/集成（类型待核）
+type: 微型 OEM/ODM 品牌商（自有品牌网络设备）
 tier_tags: ["A优质名单(UK)", "AI评估(UK)·DONE"]
 deal: no
 replies: 2
@@ -20,20 +22,20 @@ followups: 16
 first_contact: 2024-05-07
 last_contact: 2025-10-14
 p1: STI-144GP
-price_tier: 20%
-research: pending
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的经销/集成（类型待核）；兴趣/在卖：工业FS 也有E-link的5电口；提到的品牌：E-link, FS
+- **是谁**：英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。（调研 2026-10-21；表内兴趣：工业FS 也有E-link的5电口）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 16 次（2024-05-07 → 2025-10-14）；最近一次客户回复：78：A
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | parallaxdigital.co.uk（取自域名，公司全名待核） | 推断 |
 | 国家 | 英国 | 事实（用户表）|
 | 网站/域名 | parallaxdigital.co.uk | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 微型 OEM/ODM 品牌商（自有品牌网络设备） | 推断（据兴趣/备注关键词） |
 | 联系人 | Jeff Ferrier / Director 可以多跟进一下 / Jeff Ferrier / Director | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 也有E-link的5电口 | 事实（用户表） |
@@ -63,7 +65,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-027.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。
+- **类型**：微型 OEM/ODM 品牌商（自有品牌网络设备）
+- **规模**：1 人申报 / <£1M（Endole）
+- **在卖/在用品牌**：E-link, Riden, Weipu
+- **【官网】自有品牌 OEM/ODM 网络设备，交换产品已部署于英国高层住宅消防探测网络**
+  > the Company has created and developed its own brand of digital products and services, incorporating a hybrid OEM/ODM model, including computer networking equipment … Our network designs and switching products have been in service in tower blocks in London and other cities, providing critical, secure, fault-tolerant infrastructure solutions for fire detection systems
+  > 来源：https://parallaxdigital.co.uk/about-us/（抓取 2026-10-21）
+- **【第三方（Endole）】规模：雇员 1，营业额 <£1M**
+  > Parallax Digital Technologies Limited … Turnover is under £1M · Under 10 employees … Employees 1
+  > 来源：https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited（抓取 2026-10-21）
+- **【官网】销售邮箱/电话**
+  > Sales sales@parallaxdigital.co.uk … Phone: +44 (0)1670 202001
+  > 来源：https://parallaxdigital.co.uk/contact/（抓取 2026-10-21）
+- **KP**：Jeffrey Allan Ferrier（Founder/Director（Companies House））sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited〕
+- 备注：A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -117,10 +134,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（微型 OEM/ODM 品牌商（自有品牌网络设备）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -130,7 +147,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 

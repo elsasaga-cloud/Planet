@@ -1,0 +1,61 @@
+{
+ "code": "SA-017",
+ "name_official": "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU，Seoul）",
+ "website_status": "在线",
+ "summary": "韩国首尔网络/数码周边分销商（2004 年成立），自有品牌 NEXTU / NEXTLINK 约 1,000 个 SKU，网络产品线齐全：L2/L3/安防/90W/网管/非网管 PoE 交换机、工业 PoE、10G 工业 S-RING、政府采购业务；代表 김우경。用户表：Secon 2023 参展商，去过深圳，三次到访谈 bypass/2.5G/10G/波分，MC 与工业 FS 想用自己牌子，联系人 Roadman Kim。",
+ "type": "品牌商/分销商（自有品牌 NEXTU，OEM 采购）",
+ "size": "未见人数；自有品牌约 1,000 SKU（JobKorea）",
+ "brands_seen": [
+  "NEXTU",
+  "NEXTLINK",
+  "SUNIX"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "产品线：PoE/L2/L3/工业 PoE 交换机全覆盖",
+   "quote": "Network Equipment · PoE Switch Hub · Security PoE Switch · L2 PoE Switch · L3 PoE Switch · 90W High Power PoE Switch · Web Smart PoE Switch · Unmanaged PoE Switch · Ethernet Switch Hub … Industrial PoE Switch Hub",
+   "url": "https://www.ez-net.co.kr/en/sub/sub01_01.php?cat_no=237",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业 90W PoE / 10G 工业 S-RING / 政府采购",
+   "quote": "Network Equipment - High-Power PoE - CCTV - Wireless remote control - 10G Industrial S-RING - Procurement Business · Industrial 90W PoE Switch / Injector",
+   "url": "https://ez-net.co.kr/en/network/sub01_01.php",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（JobKorea）",
+   "claim": "2004 年成立，自有品牌 NEXT 约 1,000 SKU",
+   "quote": "㈜이지넷유비쿼터스는 2004년도에 설립하여 … 약 1000여개의 자사 전문브랜드인 ‘NEXT’제품으로",
+   "url": "https://www.jobkorea.co.kr/recruit/co_read/c/jjwpac22",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网（商城）",
+   "claim": "法人代表与官方邮箱",
+   "quote": "회사명 : (주)이지넷유비쿼터스 · 대표자 : 김우경 · 이메일 : marketing@ez-net.co.kr · 대표전화 : 02-715-0372",
+   "url": "https://nextu.kr/article/q-a/6/12691",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Roadman Kim",
+   "role": "展会名片联系人（用户表）",
+   "email": "",
+   "phone": "+82 2-715-3889 / +82 10-2503-1288",
+   "source": "Clients/A/DONE/KR.xlsx"
+  },
+  {
+   "name": "김우경（Kim Woo-kyung）",
+   "role": "代表（법인 대표）",
+   "email": "marketing@ez-net.co.kr",
+   "phone": "+82 2-715-0372",
+   "source": "https://nextu.kr/article/q-a/6/12691"
+  }
+ ],
+ "notes": "A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。",
+ "researched_at": "2026-10-21"
+}

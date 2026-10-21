@@ -1,0 +1,38 @@
+{
+ "code": "SA-055",
+ "name_official": "AE Connect India Pvt. Ltd.（Ahmedabad, Gujarat, India）",
+ "website_status": "在线",
+ "summary": "印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。",
+ "type": "品牌商（部分进口贴牌 + 本地组装）",
+ "size": "11–50 人（LinkedIn）；$8.1M（ZoomInfo）",
+ "brands_seen": [
+  "AE Connect"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌 + 200+ 经销商 + 过去进口、现本地自产 PoE 交换机",
+   "quote": "The products have successively entered India and overseas with a wide network of 200+ dealers and distributors … For the last 5 years, we used to import some products from other countries. But now we are proud to announce that we are manufacturing PoE Switches in India.",
+   "url": "https://aeconnect.co.in/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "+91 95379 10555 · info@aeconnect.co.in · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad - 380 052",
+   "url": "https://aeconnect.co.in/shop/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机/用户表 WhatsApp",
+   "email": "info@aeconnect.co.in",
+   "phone": "+91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）",
+   "source": "https://aeconnect.co.in/shop/"
+  }
+ ],
+ "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
+ "researched_at": "2026-10-21"
+}

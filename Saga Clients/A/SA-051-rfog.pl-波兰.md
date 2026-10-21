@@ -1,18 +1,20 @@
 # rfog.pl
+**官方名称（调研核实）**：RFoG（rfog.pl, Poland）
 
 > **评级 A**　|　波兰　|　档案编号 `SA-051`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-10）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商（自有型号贴牌）（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-10）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-051
 rating: A
 rating_auto: A
+name_official: "RFoG（rfog.pl, Poland）"
 score: 81
 country: 波兰
 region: 欧洲
 website: rfog.pl
-type: 经销/集成（类型待核）
+type: 分销商（自有型号贴牌）
 tier_tags: ["A优质名单(PL)", "AI评估(PL)·DONE"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2023-12-15
 last_contact: 2025-10-10
 p1: STC-448DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：MC 3GSDI CVI  很多国内供应商 VC(复杂的） 工业FS（小壳）；提到的品牌：FS
+- **是谁**：波兰光通信设备分销商：光纤 MC（含 10G）、PoE 交换机/MC、WDM/DWDM、光纤跳线与配件；同时销售 PLANET、MOXA，并以自有 RF- 型号前缀贴牌 N-Net 工业 PoE 交换机（型号后缀 -NNT）。用户表：A 优质名单(PL)，1 次回复，19 次跟进；联系人 Tomasz Paszkowski；备注「在和 N-Net 合作工业 FS」。（调研 2026-10-21；表内兴趣：MC 3GSDI CVI  很多国内供应商 VC(复杂的） 工业FS（小壳））
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-10）；最近一次客户回复：2024-03-28：有点兴趣 让发资料
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | rfog.pl（取自域名，公司全名待核） | 推断 |
 | 国家 | 波兰 | 事实（用户表）|
 | 网站/域名 | rfog.pl | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商（自有型号贴牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量高 Tomasz / Tomasz | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC 3GSDI CVI  很多国内供应商 VC(复杂的） 工业FS（小壳） | 事实（用户表） |
@@ -63,7 +65,19 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-051.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：波兰光通信设备分销商：光纤 MC（含 10G）、PoE 交换机/MC、WDM/DWDM、光纤跳线与配件；同时销售 PLANET、MOXA，并以自有 RF- 型号前缀贴牌 N-Net 工业 PoE 交换机（型号后缀 -NNT）。用户表：A 优质名单(PL)，1 次回复，19 次跟进；联系人 Tomasz Paszkowski；备注「在和 N-Net 合作工业 FS」。
+- **类型**：分销商（自有型号贴牌）
+- **规模**：未见人数（中小）
+- **在卖/在用品牌**：PLANET, MOXA, N-Net
+- **【官网】自有 RF- 型号贴牌 N-Net 工业 PoE 交换机**
+  > RF-GP2803PGM-INDU-POE-NNT to 10-portowy przełącznik sieciowy PoE o pełnej przepustowości gigabitowej, obsługujący do 8 portów 10/100/1000M PoE oraz 2 porty 1000M SFP. RF-EPG2802-INDU-POE-NNT to 10-portowy przemysłowy przełącznik/switch PoE
+  > 来源：https://www.rfog.pl/oferta,97,media-konwertery-poe-dla-kamer-ip（抓取 2026-10-21）
+- **【官网】经营范围**
+  > W ramach prowadzonej działalności firmy RFoG oferuje: urządzenia optyczne, konwertery mediów, multipleksery, przełącznice … elementy pasywne i WDM/DWDM
+  > 来源：https://www.rfog.pl/rfog,2,o-firmie（抓取 2026-10-21）
+- **KP**：Tomasz Paszkowski（联系人（用户表邮箱））tomasz.paszkowski@rfog.pl +48 602 794 466（官网）〔Clients/A/DONE/PL.xlsx〕
+- 备注：A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -120,7 +134,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商（自有型号贴牌）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

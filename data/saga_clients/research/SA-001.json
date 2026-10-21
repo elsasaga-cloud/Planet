@@ -1,0 +1,31 @@
+{
+ "code": "SA-001",
+ "name_official": "Astel Digicom（asteldigicom.com，关联 AVSS Group）",
+ "website_status": "在线（Magento 网店）",
+ "summary": "阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。",
+ "type": "分销商/网店（线缆·网络·太阳能）",
+ "size": "未见规模数据（网店型中小经销商）",
+ "brands_seen": [
+  "ONV",
+  "Deye",
+  "Inverex"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：各类线缆与连接器一站式商店，全球发货、一站式、免费技术支持",
+   "quote": "Astel Digicom I House of all kinds of cables and connectors … WORLDWIDE DELIVERY · ONE STOP SHOP · FREE TECHNICAL SUPPORT",
+   "url": "https://asteldigicom.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "2026 年首页主推储能/太阳能（Deye BOS-B Pro、Inverex 11.8kWh 等），说明品类在向能源扩张",
+   "quote": "Deye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery … Inverex Solar Air Conditioner with Built-in Solar MPPT Inverter",
+   "url": "https://asteldigicom.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
+ "researched_at": "2026-10-21"
+}

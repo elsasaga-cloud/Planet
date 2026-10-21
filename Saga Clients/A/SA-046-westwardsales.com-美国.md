@@ -1,18 +1,20 @@
 # westwardsales.com
+**官方名称（调研核实）**：Westward Sales, Inc.（Buena Vista / Aurora, Colorado）
 
 > **评级 A**　|　美国　|　档案编号 `SA-046`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：增值分销商/电商平台（工业）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-046
 rating: A
 rating_auto: A
+name_official: "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）"
 score: 83
 country: 美国
 region: 北美
 website: westwardsales.com
-type: 分销商/经销商
+type: 增值分销商/电商平台（工业）
 tier_tags: ["E已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-10-12
 last_contact: 2025-10-12
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的分销商/经销商；兴趣/在卖：工业FS 光猫 PoE Antaira牌子 销售平台；提到的品牌：Antaira, FS
+- **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。（调研 2026-10-21；表内兴趣：工业FS 光猫 PoE Antaira牌子 销售平台）
 - **为什么是 A 级**：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）；最近一次客户回复：2025-10-12：Sample
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | westwardsales.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | westwardsales.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 增值分销商/电商平台（工业） | 推断（据兴趣/备注关键词） |
 | 联系人 | Dawn Gumtow / 不让跟了 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 光猫 PoE Antaira牌子<br>销售平台 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-046.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。
+- **类型**：增值分销商/电商平台（工业）
+- **规模**：2–10 人（LinkedIn）
+- **在卖/在用品牌**：Antaira, TRENDnet, Lanner, Axiomtek, Black Box
+- **【官网博客】创始人与定位**
+  > Since founding Westward Sales in 2016, he has grown the company into an award-winning distributor of ruggedized computing, 5G cellular routers, industrial Ethernet switches, and Starlink solutions, serving commercial and government projects across energy, utilities, transportation, and automation.
+  > 来源：https://www.westwardsales.com/blog/exploring-industrial-wi-fi-mesh-network-systems/（抓取 2026-10-21）
+- **【第三方（LinkedIn）】规模**
+  > Westward Sales … Company size: 2-10 employees · Headquarters: Aurora, CO · Founded: 2016 · Specialties: industrial electronics, SFP modules, media converters, industrial ethernet switches
+  > 来源：https://www.linkedin.com/company/westward-sales（抓取 2026-10-21）
+- **【第三方（Crunchbase）】公开销售邮箱与电话**
+  > 720-870-4500 · sales@westwardsales.com
+  > 来源：https://www.crunchbase.com/organization/westward-sales（抓取 2026-10-21）
+- **KP**：Kelvin Aist（创始人/负责人）sales@westwardsales.com +1 720-870-4500〔https://www.crunchbase.com/organization/westward-sales〕
+- 备注：A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -89,7 +106,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（增值分销商/电商平台（工业）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

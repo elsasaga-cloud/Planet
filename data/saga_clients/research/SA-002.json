@@ -1,0 +1,47 @@
+{
+ "code": "SA-002",
+ "name_official": "SIMREX Corporation（Buffalo, NY）",
+ "website_status": "在线",
+ "summary": "美国纽约州 Buffalo 的工业无线数据通信设备制造商（1996 年成立，11–50 人，收入 $1–4.9M），品牌 ARIA Wireless / GLB Electronics / SIMREX；产品线含 DataMover 无线电台与 **DataMover 加固型管理交换机 MS-5 / MS-5GS / MSG-8E4S**（贴自有品牌的工业交换机）；行业：航空、轨道、能源、水务、交通 ITS。已成单。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——工业无线厂商自有品牌加固交换机",
+ "size": "11–50 人；$1–4.9M 营收（Crunchbase / Thomasnet）",
+ "brands_seen": [
+  "ARIA Wireless",
+  "GLB Electronics",
+  "DataMover"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（Crunchbase）",
+   "claim": "产品线含自有品牌加固管理交换机 MS-5/MS-5GS/MSG-8E4S，与其无线电台配套——正是 OEM 工业交换机需求",
+   "quote": "DataMover Managed Switches (MS-5, MS-5GS, MSG-8E4S) Hardened managed Ethernet switches with multiple ports, VLAN support, and diagnostics, designed to integrate with DataMover WB radios … Buffalo, New York … 11-50",
+   "url": "https://www.crunchbase.com/organization/simrex",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司自述：工业无线数据通信制造商，服务航空/轨道/能源/水务/交通",
+   "quote": "A wireless data communications equipment manufacturer for mobile and stationary wireless networks … Industries served: Aviation, Rail, Energy, Water/Wastewater, Traffic/ITS.",
+   "url": "http://www.simrex.com/site/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Thomasnet）",
+   "claim": "体量：制造商，$1–4.9M 营收",
+   "quote": "SIMREX Corporation Buffalo, NY 14206 Manufacturer* ⚫$1 - 4.9 Mil Revenue",
+   "url": "https://www.thomasnet.com/suppliers/usa/null-52091287",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Frank Neuperger",
+   "role": "General Manager（RocketReach 口径）",
+   "email": "frank@simrex.com（cage.report 公开记录）",
+   "phone": "+1 716-206-0174（总机）",
+   "source": "https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573"
+  }
+ ],
+ "notes": "A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。",
+ "researched_at": "2026-10-21"
+}

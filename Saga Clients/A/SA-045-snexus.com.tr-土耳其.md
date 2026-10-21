@@ -1,18 +1,20 @@
 # snexus.com.tr
+**官方名称（调研核实）**：Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）
 
 > **评级 A**　|　土耳其　|　档案编号 `SA-045`　|　优先级 ★★★　|　状态：已推送 2 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 2 次（2025-09-25 → 2025-10-23）　|　**所在清单**：ISAF2025展会、表:Ady、A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/经销（自有品牌白牌采购）（推断）　|　**历史关系**：推送 2 次（2025-09-25 → 2025-10-23）　|　**所在清单**：ISAF2025展会、表:Ady、A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-045
 rating: A
 rating_auto: A
+name_official: "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）"
 score: 83
 country: 土耳其
 region: 土耳其
 website: snexus.com.tr
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商/经销（自有品牌白牌采购）
 tier_tags: ["ISAF2025展会", "表:Ady", "A优质名单(土耳其客户)", "AI评估(TR)·DONE"]
 deal: no
 replies: 0
@@ -21,19 +23,19 @@ first_contact: 2025-09-25
 last_contact: 2025-10-23
 p1: STC-448DGGPM
 price_tier: 30%
-research: pending
+research: done
 sources: 4
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：Ady加了WhatsApp， 商业级POE交换机 说之前联系过， 最后一天走的时候问有没有商业级8光8  推了工业级 报了115usd, 想让我们当礼物送给他；商业FS 工业FS 自己的logo 价格不是很高 正常水平；提到的品牌：FS
+- **是谁**：伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp， 商业级POE交换机 说之前联系过， 最后一天走的时候问有没有商业级8光8  推了工业级 报了115usd, 想让我们当礼物送给他；商业FS 工业FS 自己的logo 价格不是很高 正常水平）
 - **为什么是 A 级**：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | snexus.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | snexus.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商/经销（自有品牌白牌采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Erdem Timur  Koca | 事实（用户表） |
 | 来源（From） | facebook | 事实（用户表） |
 | 兴趣（Interested in） | Ady加了WhatsApp， 商业级POE交换机 说之前联系过， 最后一天走的时候问有没有商业级8光8  推了工业级 报了115usd, 想让我们当礼物送给他 / 商业FS 工业FS 自己的logo<br>价格不是很高 正常水平 | 事实（用户表） |
@@ -70,7 +72,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-045.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。
+- **类型**：品牌商/经销（自有品牌白牌采购）
+- **规模**：未见人数（小型）
+- **在卖/在用品牌**：Snexus
+- **【官网】自有品牌并公开 USD 零售价**
+  > SN-ES1300-6P Price US$35.00 … SN-ES1300-10P Price US$115.00 … SN-ES1300-26FP Price US$320.00 … SN-GS1300-6FP Price US$110.00
+  > 来源：https://www.snexus.com.tr/en/shop（抓取 2026-10-21）
+- **【官网】2 年换新保修（我方报价需对齐）**
+  > Snexus markalı ürünler … Ürünlerimiz 2 yıl birebir değişim garantisi sunar. 1. The warranty period is 2 years.
+  > 来源：https://www.snexus.com.tr/en/garanti（抓取 2026-10-21）
+- **【官网】联系方式与地址**
+  > info@snexus.com.tr · ISTANBUL Sultançiftliği District Cyprus Street Neveser Site C4/1 Çekmeköy / Istanbul · SINGAPORE Rochor Canal Road 02-67 Sim Lim Square
+  > 来源：https://www.snexus.com.tr/en/iletisim（抓取 2026-10-21）
+- **KP**：—（总机）info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
+- 备注：A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -111,7 +128,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/经销（自有品牌白牌采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

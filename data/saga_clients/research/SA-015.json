@@ -1,0 +1,40 @@
+{
+ "code": "SA-015",
+ "name_official": "ROVEZ, s.r.o.（Trnava, Slovakia）",
+ "website_status": "在线",
+ "summary": "斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。",
+ "type": "安防集成商（Avigilon 经销）",
+ "size": "3–4 人；€0.5–1M（FinStat 2026）",
+ "brands_seen": [
+  "Avigilon"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与历史",
+   "quote": "ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON … Firma ROVEZ Trnava vznikla v roku 1993 a hlavným smerom jej podnikateľských aktivít boli inštalácie elektronických bezpečnostných systémov",
+   "url": "https://www.rovez.sk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（FinStat）",
+   "claim": "规模",
+   "quote": "Kategória zamestnancov 2026: 3-4 zamestnanci · Tržby: 500,000 - 1,000,000 €",
+   "url": "https://finstat.sk/36225801",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Marián Ondrejíček",
+   "role": "Key Principal（D&B 口径）",
+   "email": "rovez@rovez.sk",
+   "phone": "+421 905 617 471",
+   "source": "https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,49 @@
+{
+ "code": "SA-046",
+ "name_official": "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）",
+ "website_status": "在线",
+ "summary": "美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。",
+ "type": "增值分销商/电商平台（工业）",
+ "size": "2–10 人（LinkedIn）",
+ "brands_seen": [
+  "Antaira",
+  "TRENDnet",
+  "Lanner",
+  "Axiomtek",
+  "Black Box"
+ ],
+ "evidence": [
+  {
+   "kind": "官网博客",
+   "claim": "创始人与定位",
+   "quote": "Since founding Westward Sales in 2016, he has grown the company into an award-winning distributor of ruggedized computing, 5G cellular routers, industrial Ethernet switches, and Starlink solutions, serving commercial and government projects across energy, utilities, transportation, and automation.",
+   "url": "https://www.westwardsales.com/blog/exploring-industrial-wi-fi-mesh-network-systems/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "规模",
+   "quote": "Westward Sales … Company size: 2-10 employees · Headquarters: Aurora, CO · Founded: 2016 · Specialties: industrial electronics, SFP modules, media converters, industrial ethernet switches",
+   "url": "https://www.linkedin.com/company/westward-sales",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（Crunchbase）",
+   "claim": "公开销售邮箱与电话",
+   "quote": "720-870-4500 · sales@westwardsales.com",
+   "url": "https://www.crunchbase.com/organization/westward-sales",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Kelvin Aist",
+   "role": "创始人/负责人",
+   "email": "sales@westwardsales.com",
+   "phone": "+1 720-870-4500",
+   "source": "https://www.crunchbase.com/organization/westward-sales"
+  }
+ ],
+ "notes": "A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。",
+ "researched_at": "2026-10-21"
+}

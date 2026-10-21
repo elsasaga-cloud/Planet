@@ -1,18 +1,20 @@
 # mt-link.com
+**官方名称（调研核实）**：MT-Link Technologies Co.（Karachi, Pakistan）
 
 > **评级 A**　|　巴基斯坦　|　档案编号 `SA-057`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 20 次（2023-10-19 → 2025-06-26）　|　**所在清单**：DC线索、WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商（中国白牌贴牌，ODM 买家）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 20 次（2023-10-19 → 2025-06-26）　|　**所在清单**：DC线索、WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-057
 rating: A
 rating_auto: A
+name_official: "MT-Link Technologies Co.（Karachi, Pakistan）"
 score: 79
 country: 巴基斯坦
 region: 南亚
 website: mt-link.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商（中国白牌贴牌，ODM 买家）
 tier_tags: ["DC线索", "WA跟进"]
 deal: no
 replies: 2
@@ -21,19 +23,19 @@ first_contact: 2023-10-19
 last_contact: 2025-06-26
 p1: STC-448XGGM(L3)
 price_tier: 30%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴基斯坦的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：应该是BDCOM的；MC FS 无线AP 自己的logo  质量看着一般；提到的品牌：BDCOM, FS
+- **是谁**：卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。（调研 2026-10-21；表内兴趣：应该是BDCOM的；MC FS 无线AP 自己的logo  质量看着一般）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 20 次（2023-10-19 → 2025-06-26）；最近一次客户回复：2024-02-27：price
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | mt-link.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 巴基斯坦 | 事实（用户表）|
 | 网站/域名 | mt-link.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商（中国白牌贴牌，ODM 买家） | 推断（据兴趣/备注关键词） |
 | 联系人 | Adil | 事实（用户表） |
 | 来源（From） | 谷歌 / 公海 | 事实（用户表） |
 | 兴趣（Interested in） | 应该是BDCOM的 / MC FS 无线AP 自己的logo <br>质量看着一般 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-057.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。
+- **类型**：品牌商（中国白牌贴牌，ODM 买家）
+- **规模**：未见人数（中小）
+- **在卖/在用品牌**：MT-Link, BDCOM
+- **【官网】自有品牌定位**
+  > As Pakistan’s first leading networking solutions provider, we take immense pride in designing products specifically tailored to meet the unique requirements of Pakistan’s IT Industry … info@mt-link.com
+  > 来源：https://mt-link.com/about-us/（抓取 2026-10-21）
+- **【官网】交换机源自 BDCOM（证明其采购中国白牌）**
+  > MT-LINK MT-SG5612 is a new generation of aggregation 10GE switch introduced by Shanghai Baud Data Communication Co., LTD.
+  > 来源：https://mt-link.com/product/mt-sg5612/（抓取 2026-10-21）
+- **【第三方（Facebook）】总部与电话（与用户表 WhatsApp 号一致）**
+  > MT Link Technologies co. (HEAD OFFICE) 109,111&113 Elahi Centre Preedy Street, Saddar, Karachi, Pakistan +92 317 9995719
+  > 来源：https://www.facebook.com/mtlinkpakistan/（抓取 2026-10-21）
+- **KP**：—（总机（WhatsApp 已加））info@mt-link.com +92 317 9995719〔https://www.facebook.com/mtlinkpakistan/〕
+- 备注：A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -111,7 +128,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | L3 48 口 + 4×10G（Hohunet/CENTEC 线） | $505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-448XGGM(L3) | L3 48 口 + 4×10G（Hohunet/CENTEC 线） | $505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（中国白牌贴牌，ODM 买家）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

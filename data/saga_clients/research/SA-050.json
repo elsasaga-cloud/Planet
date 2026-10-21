@@ -1,0 +1,39 @@
+{
+ "code": "SA-050",
+ "name_official": "BlueWARRIOR（bluewarrior.com, USA）",
+ "website_status": "在线（产品页 2026-01 更新）",
+ "summary": "美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。",
+ "type": "品牌商（白牌贴牌，OEM 目标）",
+ "size": "未见人数（小型品牌）",
+ "brands_seen": [
+  "BlueWARRIOR",
+  "武汉迈威(Maiwe)"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌产品线与零售价",
+   "quote": "BW2026 Series $308.00 - 26 Port - Layer 2 Certified for Industrial Control Systems - 19″ Rack Mount Un-Managed … BW3020G-4GF-16GT-AD220 $662.00 … BW7212G-4GF-8GT $500.38 … Industrial By-Pass Ethernet Switches · Industrial Media Converters",
+   "url": "https://bluewarrior.com/products/layer-2-rack-un-managed-ethernet-switches/bw2026-series/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "宣称 UL C1D2 与 Tesla 案例（我方只报 CE/FCC，不承诺 UL）",
+   "quote": "Our products are UL Class 1 Division 2 (HazLoc) Hazardous Location. American Certified Ethernet. The BlueWARRIOR IP Switch was chosen for its rugged construction",
+   "url": "https://bluewarrior.com/solutions/factory-automation/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Thomas West",
+   "role": "联系人（用户表）",
+   "email": "sales@bluewarrior.com",
+   "phone": "",
+   "source": "Clients/A/DONE/US.xlsx"
+  }
+ ],
+ "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
+ "researched_at": "2026-10-21"
+}

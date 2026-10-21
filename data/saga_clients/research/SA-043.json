@@ -1,0 +1,38 @@
+{
+ "code": "SA-043",
+ "name_official": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส, Bangkok, Thailand）",
+ "website_status": "在线",
+ "summary": "曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。",
+ "type": "进口分销商（自有 logo）",
+ "size": "未见人数（中小）",
+ "brands_seen": [
+  "中科德能"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "进口分销定位与产品线",
+   "quote": "ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver … DIN-Rail Industrial Ethernet Switch … INDUSTRIAL POE SWITCH",
+   "url": "https://www.entasource.co.th/17430328/network",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "ENTA SOURCE CO., LTD. 11/72 Soi Phaholyothin 48 … Bangkok 10220 087-412-2552 … Sale@entasource.co.th",
+   "url": "https://www.entasource.co.th/17906637/network-service",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "销售（官网公开）",
+   "email": "Sale@entasource.co.th",
+   "phone": "+66 87 412 2552（LINE: lin.ee/mNnxD59）",
+   "source": "https://www.entasource.co.th/17906637/network-service"
+  }
+ ],
+ "notes": "A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
+ "researched_at": "2026-10-21"
+}

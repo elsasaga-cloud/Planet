@@ -1,18 +1,20 @@
 # NEXTU EZ-NET
+**官方名称（调研核实）**：(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU，Seoul）
 
 > **评级 A**　|　韩国　|　档案编号 `SA-017`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 2 次；推送 25 次（2024-05-09 → 2025-10-24）　|　**所在清单**：A已回复、A优质名单(KR)、表:Secon 2023、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/分销商（自有品牌 NEXTU，OEM 采购）（推断）　|　**历史关系**：实质回复 2 次；推送 25 次（2024-05-09 → 2025-10-24）　|　**所在清单**：A已回复、A优质名单(KR)、表:Secon 2023、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-017
 rating: A
 rating_auto: A
+name_official: "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU，Seoul）"
 score: 103
 country: 韩国
 region: 亚太
 website: ez-net.co.kr
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 品牌商/分销商（自有品牌 NEXTU，OEM 采购）
 tier_tags: ["A已回复", "A优质名单(KR)", "表:Secon 2023", "AI评估(KR)"]
 deal: no
 replies: 2
@@ -21,19 +23,19 @@ first_contact: 2024-05-09
 last_contact: 2025-10-24
 p1: STC-424XGGPM-280W
 price_tier: 30%
-research: pending
+research: done
 sources: 4
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设备，bypass；MC 工业FS 用自己的牌子 光模块 商业POE 产品介绍做的很棒；提到的品牌：FS
+- **是谁**：韩国首尔网络/数码周边分销商（2004 年成立），自有品牌 NEXTU / NEXTLINK 约 1,000 个 SKU，网络产品线齐全：L2/L3/安防/90W/网管/非网管 PoE 交换机、工业 PoE、10G 工业 S-RING、政府采购业务；代表 김우경。用户表：Secon 2023 参展商，去过深圳，三次到访谈 bypass/2.5G/10G/波分，MC 与工业 FS 想用自己牌子，联系人 Roadman Kim。（调研 2026-10-21；表内兴趣：知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设备，bypass；MC 工业FS 用自己的牌子 光模块 商业POE 产品介绍做的很棒）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 25 次（2024-05-09 → 2025-10-24）；最近一次客户回复：2025-05-20：问了价格
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -44,7 +46,7 @@ updated: 2026-10-21
 | 其他名称写法 | Ubiquitous Co., Ltd / NEXTU EZ-NET Ubiquitous Co.,Ltd | 事实（用户表） |
 | 国家 | 韩国 | 事实（用户表）|
 | 网站/域名 | ez-net.co.kr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商/分销商（自有品牌 NEXTU，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Roadman Kim / CEO / 质量高 | 事实（用户表） |
 | 来源（From） | Secon Korea<br>2023 / 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设备，bypass / MC 工业FS 用自己的牌子 光模块 商业POE 产品介绍做的很棒 | 事实（用户表） |
@@ -64,7 +66,26 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-017.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：韩国首尔网络/数码周边分销商（2004 年成立），自有品牌 NEXTU / NEXTLINK 约 1,000 个 SKU，网络产品线齐全：L2/L3/安防/90W/网管/非网管 PoE 交换机、工业 PoE、10G 工业 S-RING、政府采购业务；代表 김우경。用户表：Secon 2023 参展商，去过深圳，三次到访谈 bypass/2.5G/10G/波分，MC 与工业 FS 想用自己牌子，联系人 Roadman Kim。
+- **类型**：品牌商/分销商（自有品牌 NEXTU，OEM 采购）
+- **规模**：未见人数；自有品牌约 1,000 SKU（JobKorea）
+- **在卖/在用品牌**：NEXTU, NEXTLINK, SUNIX
+- **【官网】产品线：PoE/L2/L3/工业 PoE 交换机全覆盖**
+  > Network Equipment · PoE Switch Hub · Security PoE Switch · L2 PoE Switch · L3 PoE Switch · 90W High Power PoE Switch · Web Smart PoE Switch · Unmanaged PoE Switch · Ethernet Switch Hub … Industrial PoE Switch Hub
+  > 来源：https://www.ez-net.co.kr/en/sub/sub01_01.php?cat_no=237（抓取 2026-10-21）
+- **【官网】工业 90W PoE / 10G 工业 S-RING / 政府采购**
+  > Network Equipment - High-Power PoE - CCTV - Wireless remote control - 10G Industrial S-RING - Procurement Business · Industrial 90W PoE Switch / Injector
+  > 来源：https://ez-net.co.kr/en/network/sub01_01.php（抓取 2026-10-21）
+- **【第三方（JobKorea）】2004 年成立，自有品牌 NEXT 约 1,000 SKU**
+  > ㈜이지넷유비쿼터스는 2004년도에 설립하여 … 약 1000여개의 자사 전문브랜드인 ‘NEXT’제품으로
+  > 来源：https://www.jobkorea.co.kr/recruit/co_read/c/jjwpac22（抓取 2026-10-21）
+- **【官网（商城）】法人代表与官方邮箱**
+  > 회사명 : (주)이지넷유비쿼터스 · 대표자 : 김우경 · 이메일 : marketing@ez-net.co.kr · 대표전화 : 02-715-0372
+  > 来源：https://nextu.kr/article/q-a/6/12691（抓取 2026-10-21）
+- **KP**：Roadman Kim（展会名片联系人（用户表）） +82 2-715-3889 / +82 10-2503-1288〔Clients/A/DONE/KR.xlsx〕
+- **KP**：김우경（Kim Woo-kyung）（代表（법인 대표））marketing@ez-net.co.kr +82 2-715-0372〔https://nextu.kr/article/q-a/6/12691〕
+- 备注：A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -132,7 +153,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/分销商（自有品牌 NEXTU，OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

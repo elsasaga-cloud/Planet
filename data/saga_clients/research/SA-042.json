@@ -1,0 +1,24 @@
+{
+ "code": "SA-042",
+ "name_official": "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）",
+ "website_status": "在线",
+ "summary": "香港注册（2013）的中资 IT 配件制造+分销商，自称在中国/台湾/印度有工厂生产 PoE 交换机、CCTV、光纤设备、4G 路由器，办公室遍布香港、中国、迪拜、孟加拉、新加坡，覆盖 SAARC/APAC/MEA。用户表登记为沙特，电话是 +86 大陆手机号。",
+ "type": "中资同行（制造+分销）",
+ "size": "未披露",
+ "brands_seen": [
+  "Intelligent"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有工厂生产 PoE 交换机等——属同行而非客户",
+   "quote": "We are proud manufacturers of global brands and have a state-of-the-art, technology-driven manufacturing units in China, Taiwan & India where we manufacture various types of hi-tech devices such as POE Switches, CCTV Cameras & DVR/NVR, Fiber Optical devices, 4G Routers. … Headquartered in Hong Kong, Intelligent Technologies Traders Ltd. was established in 2013.",
+   "url": "https://www.intelligent.hk/",
+   "date": "2026-10-21"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。",
+ "notes": "c_sub=同行/中资贸易商。",
+ "researched_at": "2026-10-21"
+}

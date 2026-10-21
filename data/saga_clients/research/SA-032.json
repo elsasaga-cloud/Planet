@@ -1,0 +1,22 @@
+{
+ "code": "SA-032",
+ "name_official": "greentechme.net（用户表域名；公司实体未核实）",
+ "website_status": "未核实（2026-10-21 搜索仅找到 greentechme.com——黎巴嫩/阿联酋太阳能热水与离网光伏公司，与 .net 域名是否同一实体不能确认）",
+ "summary": "用户表：阿联酋，兴趣工业 PoE 配件，WhatsApp 已加，无跟进记录、无回复。若为 greentechme.com 同一公司，则主业是太阳能/热泵，网络产品仅为项目配套。",
+ "type": "未知（疑为太阳能/能源方案商）",
+ "size": "未知",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "检索记录",
+   "claim": "同名 .com 域名为太阳能公司（2007 年起，黎巴嫩+阿联酋）",
+   "quote": "Greentech delivers solar water heaters, heat pumps, and off-grid PV systems for homes and businesses in Lebanon and the UAE. Trusted since 2007 … UAE Call Now +97165235024",
+   "url": "https://greentechme.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

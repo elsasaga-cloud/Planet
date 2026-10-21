@@ -9,6 +9,7 @@ OUT_DIR = os.path.join(ROOT, 'Saga Clients')
 RESEARCH_DIR = os.path.join(DATA, 'research')
 
 FREEMAIL = {
+    'poczta.fm', 'poczta.onet.pl', 'op.pl', 'vp.pl', 'tlen.pl', 'spoko.pl', 'autograf.pl', 'go2.pl', 'buziaczek.pl', 'neostrada.pl', 'gazeta.pl', 'interia.eu', 'onet.eu',
     'gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'live.com', 'icloud.com', 'aol.com', 'msn.com', 'yandex.ru',
     'yandex.com', 'mail.ru', 'bk.ru', 'list.ru', 'inbox.ru', 'rambler.ru', 'ya.ru', 'naver.com', 'daum.net', 'hanmail.net',
     'qq.com', '163.com', '126.com', 'foxmail.com', 'protonmail.com', 'proton.me', 'gmx.de', 'gmx.net', 'web.de', 't-online.de',
@@ -34,7 +35,7 @@ TWO_LEVEL_TLD = {
     'com.mx', 'com.co', 'com.pe', 'com.ec', 'com.bo', 'com.py', 'com.uy', 'com.ve', 'com.gt', 'com.sv', 'com.do', 'com.pa', 'com.ph',
     'com.sg', 'com.hk', 'com.tw', 'com.cn', 'net.cn', 'org.cn', 'com.pk', 'com.bd', 'com.np', 'com.lk', 'com.eg', 'com.ng', 'co.ke',
     'co.tz', 'co.ug', 'co.zw', 'co.zm', 'com.gh', 'co.il', 'org.il', 'com.lb', 'com.jo', 'com.kw', 'com.qa', 'com.om', 'com.bh',
-    'com.ua', 'com.pl', 'com.ru', 'com.ge', 'com.kz', 'com.uz', 'com.by', 'com.mt', 'com.cy', 'com.gr', 'com.pt', 'com.es', 'com.ni',
+    'com.ua', 'net.ua', 'org.ua', 'kiev.ua', 'kyiv.ua', 'kh.ua', 'dp.ua', 'od.ua', 'lviv.ua', 'zp.ua', 'dn.ua', 'in.ua', 'com.pl', 'com.ru', 'com.ge', 'com.kz', 'com.uz', 'com.by', 'com.mt', 'com.cy', 'com.gr', 'com.pt', 'com.es', 'com.ni',
     'com.hn', 'com.cu', 'com.jm', 'com.tt', 'co.nz', 'net.nz', 'org.nz', 'co.id', 'or.id', 'web.id', 'com.kh', 'com.mm', 'com.bn',
     'com.mv', 'com.af', 'com.iq', 'com.sy', 'com.ly', 'com.tn', 'com.dz', 'co.ma', 'com.et', 'com.sd', 'com.mz', 'co.ao', 'co.mz',
     'com.ba', 'com.mk', 'com.al', 'com.au', 'co.ir', 'com.az', 'com.am', 'com.md', 'com.ee', 'com.lv', 'com.lt', 'com.hr', 'com.rs',

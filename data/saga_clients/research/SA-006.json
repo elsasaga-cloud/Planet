@@ -1,0 +1,36 @@
+{
+ "code": "SA-006",
+ "name_official": "Resonant Networks Pte. Ltd.（Singapore）",
+ "website_status": "在线",
+ "summary": "新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。",
+ "type": "系统集成/工程商（数据中心·光网络）",
+ "size": "11–50 人；约 $3M 营收（LinkedIn / RocketReach）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "第三方（公司注册信息）",
+   "claim": "主营：供应数据中心网络系统与专业服务；从 2013 年起建光网络，海缆项目经验",
+   "quote": "Its principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … Resonant Networks is a Singapore-based network engineering company specializing in optical network solutions for Data Centres, Telecommunications, and Cloud Operators",
+   "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "规模 11–50 人，2013 年成立",
+   "quote": "Industry: Telecommunications · Company size: 11-50 employees · Headquarters: Singapore · Founded: 2013",
+   "url": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "销售邮箱（Crunchbase 公开）",
+   "email": "sales@resonantnetworks.com",
+   "phone": "+65 6871 4128",
+   "source": "https://www.crunchbase.com/organization/resonant-networks"
+  }
+ ],
+ "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
+ "researched_at": "2026-10-21"
+}

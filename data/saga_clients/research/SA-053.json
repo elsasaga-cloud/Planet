@@ -1,0 +1,31 @@
+{
+ "code": "SA-053",
+ "name_official": "Suministros Industriales MP4, S.L.（Sabadell, Spain）",
+ "website_status": "在线",
+ "summary": "巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。",
+ "type": "工业 MRO 供应商（非网络渠道）",
+ "size": "未见人数（小型）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "经营范围为自动化与 condúctica，无网络设备线",
+   "quote": "Suministros industriales MP4 es una empresa situada en Sabadell. Somos especialistas en todo tipo de soluciones industriales integrales. Disponemos de productos y servicios de las siguientes divisiones: automatización, y condúctica. - info@suministros-industriales.es - +34 93 590 94 12",
+   "url": "https://suministros-industriales.es/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hugo Hernàndez",
+   "role": "联系人（用户表）",
+   "email": "info@suministros-industriales.es",
+   "phone": "+34 93 590 94 12",
+   "source": "Clients/S 09.08.xlsx"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
+ "notes": "",
+ "researched_at": "2026-10-21"
+}

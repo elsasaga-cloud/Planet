@@ -1,0 +1,46 @@
+{
+ "code": "SA-029",
+ "name_official": "ALLNET GmbH Computersysteme（Germering bei München）",
+ "website_status": "在线",
+ "summary": "德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。",
+ "type": "分销商 + 自有品牌（ALLNET，OEM 采购）",
+ "size": "€58M 营收（2013，channelpartner）",
+ "brands_seen": [
+  "ALLNET",
+  "E-link"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（Wikipedia）",
+   "claim": "定位：增值分销 + 自产 ALLNET 品牌产品",
+   "quote": "Die ALLNET GmbH Computersysteme ist ein deutscher Value add Distributor für Produkte im Bereich der Netzwerktechnik … Das Unternehmen produziert und vermarktet und dem Namen \"ALLNET\" zudem Produkte",
+   "url": "https://de.wikipedia.org/wiki/ALLNET",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方（channelpartner）",
+   "claim": "体量",
+   "quote": "Platz 27: Allnet · Unternehmen: Allnet GmbH Computersysteme Schwerpunkt: Netzwerke Umsatz: 58 Mio. Euro (2013)",
+   "url": "https://www.channelpartner.de/g/die-groessten-distributoren-in-deutschland-rangliste-nach-umsatz,109904,5",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "销售/新客户邮箱",
+   "quote": "Neukundenbetreuung Mail: neukunde(at)allnet.de · Vertrieb allgemein (Sales) Mail: sales(at)allnet.de Tel.: (089) 894-222-22",
+   "url": "https://distribution.allnet.de/contact-allnet-distribution.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Wolfgang Marcus Bauer",
+   "role": "Geschäftsführer",
+   "email": "",
+   "phone": "+49 89 894 222-22",
+   "source": "https://www.allnet.de/impressum.html"
+  }
+ ],
+ "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",
+ "researched_at": "2026-10-21"
+}

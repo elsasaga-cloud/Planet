@@ -1,0 +1,23 @@
+{
+ "code": "SA-040",
+ "name_official": "Hardened Networks / ITS Express（hardenednetworks.com · expresssupply.net，US）",
+ "website_status": "在线",
+ "summary": "美国交通 ITS 领域的自有品牌加固交换机供应商（HN-8012-24 V3、HN-AIS-8300、80 系列 V3：L3 OSPF/BGP、4×USFP+ 10G、ESFP 2.5G 等），与 ITS Express 同一体系；产品页 2026-07 仍在更新。用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——ITS 加固交换机自有品牌",
+ "size": "未见人数（专业小品牌）",
+ "brands_seen": [
+  "Hardened Networks",
+  "ITS Express"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有品牌加固 L3 交换机产品线（含 10G USFP+、2.5G ESFP、SHA-256）",
+   "quote": "Hardened Networks/ITS Express Ethernet Switches · 80 Series V3 Switches -Hardened Full Layer 3 OSPF/PIM/VRRP/BGP -4 USFP+ Ports 1000Mb/2.5Gb/10Gb … HN-8012-24 V3 -Now Hardened Base Layer 3 … -V3 Technology -SHA-256 authentication",
+   "url": "https://hardenednetworks.com/products/",
+   "date": "2026-10-21"
+  }
+ ],
+ "notes": "A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。",
+ "researched_at": "2026-10-21"
+}

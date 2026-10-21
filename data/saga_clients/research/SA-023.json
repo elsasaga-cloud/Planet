@@ -1,0 +1,46 @@
+{
+ "code": "SA-023",
+ "name_official": "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）",
+ "website_status": "在线",
+ "summary": "自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线",
+ "size": "51–200 人（Prospectoo 口径，待核）",
+ "brands_seen": [
+  "Impulse",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：工业级 CCTV 与 PoE 交换机制造商",
+   "quote": "Impulse CCTV is a global manufacturer of industrial grade CCTV surveillance and PoE Network Switches. Make in India Certified, Global certifications.",
+   "url": "https://impulsecctv.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "总部与办事处分布、产品类目含 Network Switches",
+   "quote": "Impulse is headquartered in Singapore, with North American headquarters in Vancouver, Canada and regional offices worldwide … Products - Network Cameras - Network Video Recorder (NVR) - Video Management System - Network Switches",
+   "url": "https://impulsecctv.com/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "交换机子类含机箱核心/企业级/L3+",
+   "quote": "Network Switches - Chassis Based Core Switch - Enterprise Grade Switch - Layer 3+ Switch",
+   "url": "https://impulsecctv.com/category/technology2/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机邮箱",
+   "email": "info@impulsecctv.com",
+   "phone": "+1 778-508-3514（温哥华，ZoomInfo）",
+   "source": "https://impulsecctv.com/about-us/"
+  }
+ ],
+ "notes": "A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
+ "researched_at": "2026-10-21"
+}
