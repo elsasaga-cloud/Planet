@@ -1,4 +1,5 @@
 # energus.eu
+**官方名称（调研核实）**：UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）
 
 > **评级 B**　|　波兰　|　档案编号 `SB-586`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-586
 rating: B
 rating_auto: B
+name_official: "UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）"
 score: 37
 country: 波兰
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: STI-288DGGPM
+price_tier: 25%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：switch ，拿了彩页
+- **是谁**：立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 B 25%。（调研 2026-10-21；表内兴趣：switch ，拿了彩页）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,48 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-586.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 B 25%。
+- **【官网】公司定位与规模**
+  > ENERGUS is one of Lithuania's largest engineering systems companies, specializing in electrical, low-current, process control, and automation systems. … Our team comprises over 150 skilled professionals.
+  > 来源：http://energus.eu/en/apie-mus/（抓取 2026-10-21）
+- **【登记名录】法人、营收、员工**
+  > ENERGUS GROUP, UAB – Savanorių pr. 176C, LT-02301 Vilnius. Activity: indoor security systems. Company code 304419130, founded in 2016 In 2025, the sales revenue of ENERGUS GROUP, UAB amounted to 12 954 561 Eur … the number of employees in the company is 109.
+  > 来源：https://rekvizitai.vz.lt/en/company/energus_group/（抓取 2026-10-21）
+- **【LinkedIn】集团规模与成立**
+  > ENERGUS GROUP … Company size: 51-200 employees … Headquarters: Vilnius … Founded: 2010 … Specialties: Electrical Engineering, Automatization, Electrical Installations, Intelligent Energy Solutions
+  > 来源：https://www.linkedin.com/company/uab-energus（抓取 2026-10-21）
+- **【官网】联系方式**
+  > Savanorių pr. 176C, LT-03154 Vilnius Tel.: +370 626 99994 Mail: uzklausos@energus.eu
+  > 来源：https://energysupport.lt/en/（抓取 2022-10-10）
+- **【LinkedIn】KP 职务**
+  > Daniel Šuškevič — Projektų vadovas, E, PVA, ER, GSS, AS sistemų
+  > 来源：https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe（抓取 2022-01-19）
+- **【登记名录】KP 现任新公司董事（可能已离职）**
+  > Daniel Šuškevič, Direktorius — Smartion … Įmonės amžius: 1 m. 10 mėn.
+  > 来源：https://rekvizitai.vz.lt/imone/smartion/daniel_suskevic_direktorius/（抓取 2026-10-21）
+- **【用户表】展会：switch，拿彩页**
+  > switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Daniel Šuškevič（Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职））info@energus.eu（用户表，通用箱） —〔https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家更正 LT））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | UAB „Energus Group“（公司代码 304419130；VAT LT100011259419） |
+| 成立 | 2016-11-02（集团）/ Energus 2010 |
+| 总部/地址 | Savanorių pr. 176C, LT-03154 Vilnius（+370 626 99994；uzklausos@energus.eu） |
+| 其他 | LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目 |
+
+- **业务线**：电气与自动化工程总包（零售中心、工业）；弱电/安防/火灾报警系统（守界：火警主系统不供）；能效与 IoT 能源管理平台
+- **触达通道（公开）**：网站: http://energus.eu/en/apie-mus/ · https://energus.lt/；电话: +370 626 99994（公开）；邮箱（公开）: uzklausos@energus.eu；info@energus.eu（用户表）
+- **近况信号**：
+  - 工业自动化总包 → DIN 工业管理型交换机（环网）与 PoE 接入是项目标配；大集团但采购经理级可触达
+- **风险/边界**：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）
+- **邮件切入句（英文）**：Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -74,6 +117,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Daniel Šuškevič | Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职） | info@energus.eu（用户表，通用箱） / — | 调研核实（公开页） | https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe |
 | Daniel Suskevic | — | info@energus.eu | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -90,20 +134,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -111,7 +154,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -135,19 +178,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Daniel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,0 +1,60 @@
+{
+ "code": "SB-792",
+ "name_official": "Elektronik LTD（Toshko Todorov；ISAF 参展记录为土耳其；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Toshko Todorov（「Elektronik LTD」，无邮箱/域名）——Ady 加了 WhatsApp，要商业级 PoE 交换机和 catalog，「不要推商业级的」（原文自相矛盾，按「只要商用级、不要工业级」理解待核），同事新桥拿了他们的彩页；无后续跟进。姓名为保加利亚式（Toshko Todorov）→ 国家待核（可能为保加利亚公司）；仅表内信息。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：商用 PoE + catalog；彩页在新桥处；WA 已加",
+   "quote": "Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Toshko Todorov",
+   "role": "（ISAF 名片）",
+   "email": "—",
+   "phone": "—（Ady WhatsApp）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "… Elektronik LTD（全称待核）",
+  "hq": "待核（ISAF 记为土耳其；人名为保加利亚式）",
+  "size": "待核",
+  "other": "公司彩页在新桥处（可据此补公司名/域名）"
+ },
+ "business_lines": [
+  "电子/安防分销（推测）"
+ ],
+ "channels": {
+  "WhatsApp": "Ady 已加",
+  "线下": "公司彩页（新桥持有）"
+ },
+ "signals": [
+  "要商用 PoE + catalog → 直接发目录与价目；先从新桥处的彩页补齐公司名/域名/国家"
+ ],
+ "risks": [
+  "国家与主体待核；无邮箱；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+}

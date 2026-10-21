@@ -1,0 +1,87 @@
+{
+ "code": "SB-588",
+ "name_official": "Fourline / Özel Elektronik（Bursa Yıldırım, TR；fourline.com.tr；卫星/CCTV/报警批发，自有品牌）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（B2B 经销商登录）",
+ "summary": "布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Fourline（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与品牌",
+   "quote": "ÖZEL ELEKTRONİK — Anten ve uydu sistemeri üzerine odaklanmış fırmayız. 2007 yılında markasının isim hakkını alarak ürünlerimizi toptan ve parakende olarak müşterilerimize hizmet vermekteyiz",
+   "url": "https://www.fourline.com.tr/hakkimizda.asp",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址、电话、邮箱、参考工程",
+   "quote": "şükraniye mah ankara cad no 242 yıldırım / BURSA · 0(555) 995 5442 · 0(224) 364 1888 · info@fourline.com.tr … lion inşaat bursa yıldırım 175 yıl mah … reform inşaat degirmen park evler",
+   "url": "https://www.fourline.com.tr/referanslar.asp",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有品牌产品",
+   "quote": "Bayi Girişi … fourline 10/32 santral kaskatlı … FRL2042 M GECE GÖRÜŞLÜ KAMAMERA … fourline hd uydu alıcı",
+   "url": "https://www.fourline.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：不会英文，要 catalog；WA 加不上",
+   "quote": "不会英文， 要catalog / 0(224) 364 1888 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（姓名未记录）",
+   "role": "业主/采购（待核）",
+   "email": "info@fourline.com.tr（用户表 = 官网公开）",
+   "phone": "+90 555 995 5442（官网 GSM，可试 WhatsApp）",
+   "source": "https://www.fourline.com.tr/referanslar.asp"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Özel Elektronik（FOURLINE 品牌，Setbaşı 税务所 2360002288）",
+  "founded": "品牌 2007",
+  "hq": "Şükraniye Mah. Ankara Cad. No:242 Yıldırım / Bursa（0224 364 1888；0555 995 5442；info@fourline.com.tr）",
+  "size": "小型批发商",
+  "other": "自有品牌 Fourline（卫星、对讲、摄像机、适配器）；经销商登录"
+ },
+ "business_lines": [
+  "天线/卫星系统批发零售",
+  "CCTV 与报警产品（自有品牌 Fourline）",
+  "住宅楼弱电工程"
+ ],
+ "channels": {
+  "网站": "https://www.fourline.com.tr/",
+  "电话": "+90 224 364 1888 / +90 555 995 5442（公开）",
+  "邮箱（公开）": "info@fourline.com.tr"
+ },
+ "signals": [
+  "已有自有品牌 + 经销网 → 4/8 口 PoE 贴 Fourline 牌是自然延伸；官网 GSM 0555 995 5442 可补加 WhatsApp"
+ ],
+ "risks": [
+  "低价卫星/CCTV 市场极度比价；语言；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-028GP",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）"
+ },
+ "email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
+}

@@ -194077,7 +194077,93 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-340",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-340",
+"name_official": "Proves Bilgi Teknolojileri（İzmir Bayraklı, TR；proves.com.tr；系统集成商）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Hanwha Vision（集成）"
+],
+"evidence": [
+{
+"kind": "名录",
+"claim": "KP 职务与公司定位",
+"quote": "Serdar KARASU is the Founder at Proves Bilgi Teknolojileri, a leading technology company based in Bayrakli, Izmir, Turkey … information technology solutions including security, infrastructure, and cybersecurity … physical and virtual server installations, network security, backup solutions, and system integration",
+"url": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "Hanwha 市政项目",
+"quote": "Denizli Pamukkale Municipality in Turkey required a reliable way to monitor its headquarters and surrounding areas around the clock. In collaboration with system integrator Proves Bilgi Teknolojileri, the municipality deployed 150 Hanwha Vision Q series cameras along with three NVRs.",
+"url": "https://www.linkedin.com/in/serdar-karasu-ba433b1a4/",
+"date": "2024-05-14"
+},
+{
+"kind": "LinkedIn",
+"claim": "成立时间",
+"quote": "Founder Proves Bilgi Teknolojileri Feb 2020 - Present",
+"url": "https://co.linkedin.com/in/serdar-karasu-ba433b1a4?_l=en",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：要工业级交换机报价单",
+"quote": "要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Serdar Karasu",
+"role": "Founder（LinkedIn/ZoomInfo 公开）",
+"email": "bilgi@proves.com.tr（用户表）",
+"phone": "—",
+"source": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（名录 + LinkedIn 核对）"
+},
+"company_facts": {
+"legal_name": "Proves Bilgi Teknolojileri",
+"founded": "2020-02",
+"hq": "Bayraklı / İzmir（ZoomInfo 地址 286/1 Sok. No:15）",
+"size": "小型集成商（ZoomInfo「334 人」疑为错误数据，待核）",
+"other": "Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri"
+},
+"business_lines": [
+"IT 基础设施与网络安全集成",
+"视频监控项目（Hanwha Vision）"
+],
+"channels": {
+"网站": "https://www.proves.com.tr/",
+"邮箱": "bilgi@proves.com.tr（用户表）",
+"LinkedIn": "https://www.linkedin.com/in/serdar-karasu-ba433b1a4/"
+},
+"signals": [
+"创始人亲自要工业交换机报价单 → 直接给价目表；150 台摄像机级别项目说明有 24 口 PoE 与工业环网需求"
+],
+"risks": [
+"市政项目公共部门（按个案守界）；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
+}
 },
 {
 "name": "Pal Wintec",
@@ -195375,10 +195461,69 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 土耳其/土耳其"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "名单内·未触达",
 "code": "SB-347",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-347",
+"name_official": "Alhossan（alhossan.ly，利比亚；ISAF 参展记录为土耳其）",
+"researched_at": "2026-10-21",
+"website_status": "未核",
+"summary": "ISAF 记录：Saad Fetury（s.fetury@alhossan.ly）——Ady 加了 WhatsApp，要商业级 PoE 交换机；无跟进。域名指向利比亚 → C 区域外（WhatsApp 已加，若对方主动询价可被动报价）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "商用 PoE；.ly 域名；WA 已加",
+"quote": "Ady加了WhatsApp  要商业级POE交换机 / Saad Fetury / s.fetury@alhossan.ly",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Saad Fetury",
+"role": "（ISAF 名片；职务待核）",
+"email": "s.fetury@alhossan.ly（用户表）",
+"phone": "—（WhatsApp 已加）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": "C",
+"override_reason": "区域外：.ly 域名（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；不在 Saga 区域，收款/物流风险高",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 区域外降 C）"
+},
+"company_facts": {
+"legal_name": "Alhossan（待核）",
+"hq": "Libya（.ly）",
+"size": "待核",
+"other": "—"
+},
+"business_lines": [
+"（待核）"
+],
+"channels": {
+"网站": "http://alhossan.ly/（未核）"
+},
+"signals": [
+"商用 PoE 需求但区域外；WhatsApp 已加 → 被动响应"
+],
+"risks": [
+"区域外 → C"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不推进（区域外；被动响应时报 STC-228GP $30.8）"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "autechcontrol.com.au",
@@ -197221,7 +197366,85 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-355",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-355",
+"name_official": "FH Güvenlik Sistemleri ve Bilişim San. Tic. Ltd. Şti.（İstanbul Beşiktaş / Perpa, TR；fhguvenlik.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "业务、地址、联系方式",
+"quote": "FH Güvenlik, 2025 yılında İstanbul'da kurulmuş olup; 15 yılı aşkın tecrübesiyle güvenlik sistemleri alanında … zayıf akım ve güvenlik sistemleri … Merkez Ofis: Sinan Paşa Mah. Süleyman Seba cad. NO:6 İç Kapı NO:4 Beşiktaş - İSTANBUL Teknik Ofis: Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli … 0534 594 63 61 - 0534 484 98 11 … info@fhguvenlik.com",
+"url": "https://fhguvenlik.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "登记名录",
+"claim": "法人成立日期",
+"quote": "FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ … Kuruluş Tarihi : 13 Şubat 2025 Perşembe",
+"url": "https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi",
+"date": "2025-03-27"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：工业级交换机",
+"quote": "工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Hasti F. Göller",
+"role": "（ISAF 名片；职务待核）",
+"email": "hasti@fhguvenlik.com（用户表）",
+"phone": "+90 534 594 63 61（公司）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 登记核对）"
+},
+"company_facts": {
+"legal_name": "FH Güvenlik Sistemleri ve Bilişim Sanayi Ticaret Limited Şirketi",
+"founded": "2025-02-13（登记）",
+"hq": "Sinan Paşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4, Beşiktaş / İstanbul；技术办公室 Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli（0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）",
+"size": "小型（新设公司）",
+"other": "弱电 + 安防 + 火灾报警集成"
+},
+"business_lines": [
+"CCTV 安防工程（模拟/AHD/IP）",
+"火灾报警与报警系统（守界）",
+"弱电/自动化集成"
+],
+"channels": {
+"网站": "https://fhguvenlik.com/",
+"电话": "+90 534 594 63 61 / +90 534 484 98 11（公开）",
+"邮箱（公开）": "info@fhguvenlik.com"
+},
+"signals": [
+"新公司组建期 → 供应商名单未固化；IP CCTV 工程 → 8 口 PoE 与工业现场 DIN 机"
+],
+"risks": [
+"新设公司规模小；火灾报警业务守界；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）"
+},
+"email_hook": "Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?"
+}
 },
 {
 "name": "hewtech.co.jp",
@@ -197515,7 +197738,91 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-357",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-357",
+"name_official": "Hiperonline İletişim Hizmetleri San. Tic. Ltd. Şti.（Eskişehir, TR；hiperonline.com.tr；区域 ISP）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "ISP 定位与网络",
+"quote": "Hiperonline, Eskişehir'de kendi kuruduğu fiber internet altyapısı ve kablosuz internet altyapısı üzerinden hizmet vermektedir. … yerleşik operatöre ait altyapı üzerinden fiber ve VDSL internet hizmetini Türkiye'nin 81 ilinde sunmaktadır. … 1000 Mbps'e varan hızlarla",
+"url": "https://hiperonline.com.tr/eskisehir-internet",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "法人与 BTK 授权",
+"quote": "HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ, internet erişim hizmetini BTK tarafından verilmiş yetkilendirme belgesi ile yasal olarak vermektedir.",
+"url": "https://hiperonline.com.tr/hizmet-bolgelerimiz",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "Metro Ethernet 10 Gbps",
+"quote": "Eskişehir'de 10.000 Mbps'e kadar kurumsal simetrik metro ethernet internet",
+"url": "https://hiperonline.com.tr/eskisehir-metro-ethernet-internet",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：看多口交换机；不会英文；WA 已加",
+"quote": "Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（姓名未记录；Eskişehir 办公室）",
+"role": "ISP 技术/采购（待核）",
+"email": "eskisehir@hiperonline.com（用户表）",
+"phone": "0850 840 98 83（公司）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对）"
+},
+"company_facts": {
+"legal_name": "Hiperonline İletişim Hizmetleri Sanayi Ticaret Limited Şirketi",
+"hq": "Eskişehir（0850 840 98 83）",
+"size": "区域 ISP（规模待核）",
+"other": "自建光纤 + airfiber 无线；Metro Ethernet 10 Gbps；全国 81 省转售"
+},
+"business_lines": [
+"住宅/企业宽带（光纤、VDSL、无线）",
+"企业 Metro Ethernet 专线"
+],
+"channels": {
+"网站": "https://hiperonline.com.tr/",
+"电话": "0850 840 98 83（公开）",
+"邮箱": "eskisehir@hiperonline.com（用户表）"
+},
+"signals": [
+"ISP 持续看多口交换机 → 24/48 口 + 10G 上联汇聚；无线基站/户外 CPE 供电 → PoE 与工业机",
+"WhatsApp 已加 → 用土耳其语发规格对照"
+],
+"risks": [
+"运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-424XGGM",
+"tier": 25,
+"why": "运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?"
+}
 },
 {
 "name": "hunters-wholesalers.co.uk",
@@ -252402,7 +252709,113 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-586",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-586",
+"name_official": "UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 B 25%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位与规模",
+"quote": "ENERGUS is one of Lithuania's largest engineering systems companies, specializing in electrical, low-current, process control, and automation systems. … Our team comprises over 150 skilled professionals.",
+"url": "http://energus.eu/en/apie-mus/",
+"date": "2026-10-21"
+},
+{
+"kind": "登记名录",
+"claim": "法人、营收、员工",
+"quote": "ENERGUS GROUP, UAB – Savanorių pr. 176C, LT-02301 Vilnius. Activity: indoor security systems. Company code 304419130, founded in 2016 In 2025, the sales revenue of ENERGUS GROUP, UAB amounted to 12 954 561 Eur … the number of employees in the company is 109.",
+"url": "https://rekvizitai.vz.lt/en/company/energus_group/",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "集团规模与成立",
+"quote": "ENERGUS GROUP … Company size: 51-200 employees … Headquarters: Vilnius … Founded: 2010 … Specialties: Electrical Engineering, Automatization, Electrical Installations, Intelligent Energy Solutions",
+"url": "https://www.linkedin.com/company/uab-energus",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "联系方式",
+"quote": "Savanorių pr. 176C, LT-03154 Vilnius Tel.: +370 626 99994 Mail: uzklausos@energus.eu",
+"url": "https://energysupport.lt/en/",
+"date": "2022-10-10"
+},
+{
+"kind": "LinkedIn",
+"claim": "KP 职务",
+"quote": "Daniel Šuškevič — Projektų vadovas, E, PVA, ER, GSS, AS sistemų",
+"url": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe",
+"date": "2022-01-19"
+},
+{
+"kind": "登记名录",
+"claim": "KP 现任新公司董事（可能已离职）",
+"quote": "Daniel Šuškevič, Direktorius — Smartion … Įmonės amžius: 1 m. 10 mėn.",
+"url": "https://rekvizitai.vz.lt/imone/smartion/daniel_suskevic_direktorius/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "展会：switch，拿彩页",
+"quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Daniel Šuškevič",
+"role": "Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职）",
+"email": "info@energus.eu（用户表，通用箱）",
+"phone": "—",
+"source": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 登记核对；国家更正 LT）"
+},
+"company_facts": {
+"legal_name": "UAB „Energus Group“（公司代码 304419130；VAT LT100011259419）",
+"founded": "2016-11-02（集团）/ Energus 2010",
+"hq": "Savanorių pr. 176C, LT-03154 Vilnius（+370 626 99994；uzklausos@energus.eu）",
+"size": "150+ 专业人员（集团）；109 员工（Sodra，Energus Group UAB）；2025 营收 1,295 万欧元",
+"other": "LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目"
+},
+"business_lines": [
+"电气与自动化工程总包（零售中心、工业）",
+"弱电/安防/火灾报警系统（守界：火警主系统不供）",
+"能效与 IoT 能源管理平台"
+],
+"channels": {
+"网站": "http://energus.eu/en/apie-mus/ · https://energus.lt/",
+"电话": "+370 626 99994（公开）",
+"邮箱（公开）": "uzklausos@energus.eu；info@energus.eu（用户表）"
+},
+"signals": [
+"工业自动化总包 → DIN 工业管理型交换机（环网）与 PoE 接入是项目标配；大集团但采购经理级可触达"
+],
+"risks": [
+"KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
+}
 },
 {
 "name": "etobb.co.kr",
@@ -252663,7 +253076,94 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-588",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-588",
+"name_official": "Fourline / Özel Elektronik（Bursa Yıldırım, TR；fourline.com.tr；卫星/CCTV/报警批发，自有品牌）",
+"researched_at": "2026-10-21",
+"website_status": "在线（B2B 经销商登录）",
+"summary": "布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Fourline（自有品牌）"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位与品牌",
+"quote": "ÖZEL ELEKTRONİK — Anten ve uydu sistemeri üzerine odaklanmış fırmayız. 2007 yılında markasının isim hakkını alarak ürünlerimizi toptan ve parakende olarak müşterilerimize hizmet vermekteyiz",
+"url": "https://www.fourline.com.tr/hakkimizda.asp",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "地址、电话、邮箱、参考工程",
+"quote": "şükraniye mah ankara cad no 242 yıldırım / BURSA · 0(555) 995 5442 · 0(224) 364 1888 · info@fourline.com.tr … lion inşaat bursa yıldırım 175 yıl mah … reform inşaat degirmen park evler",
+"url": "https://www.fourline.com.tr/referanslar.asp",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "自有品牌产品",
+"quote": "Bayi Girişi … fourline 10/32 santral kaskatlı … FRL2042 M GECE GÖRÜŞLÜ KAMAMERA … fourline hd uydu alıcı",
+"url": "https://www.fourline.com.tr/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：不会英文，要 catalog；WA 加不上",
+"quote": "不会英文， 要catalog / 0(224) 364 1888 加不上",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（姓名未记录）",
+"role": "业主/采购（待核）",
+"email": "info@fourline.com.tr（用户表 = 官网公开）",
+"phone": "+90 555 995 5442（官网 GSM，可试 WhatsApp）",
+"source": "https://www.fourline.com.tr/referanslar.asp"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对）"
+},
+"company_facts": {
+"legal_name": "Özel Elektronik（FOURLINE 品牌，Setbaşı 税务所 2360002288）",
+"founded": "品牌 2007",
+"hq": "Şükraniye Mah. Ankara Cad. No:242 Yıldırım / Bursa（0224 364 1888；0555 995 5442；info@fourline.com.tr）",
+"size": "小型批发商",
+"other": "自有品牌 Fourline（卫星、对讲、摄像机、适配器）；经销商登录"
+},
+"business_lines": [
+"天线/卫星系统批发零售",
+"CCTV 与报警产品（自有品牌 Fourline）",
+"住宅楼弱电工程"
+],
+"channels": {
+"网站": "https://www.fourline.com.tr/",
+"电话": "+90 224 364 1888 / +90 555 995 5442（公开）",
+"邮箱（公开）": "info@fourline.com.tr"
+},
+"signals": [
+"已有自有品牌 + 经销网 → 4/8 口 PoE 贴 Fourline 牌是自然延伸；官网 GSM 0555 995 5442 可补加 WhatsApp"
+],
+"risks": [
+"低价卫星/CCTV 市场极度比价；语言；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-028GP",
+"tier": 30,
+"why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）"
+},
+"email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
+}
 },
 {
 "name": "integranetwork.es",
@@ -253182,7 +253682,67 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-592",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-592",
+"name_official": "Marbim（marbim.com.tr，TR；官网未检索到）",
+"researched_at": "2026-10-21",
+"website_status": "未检索到（搜索仅返回无关 Marbim 基金/Ecevit 政治新闻）",
+"summary": "ISAF 记录：Ecevit（marbim.com.tr，无邮箱记录）——Ady 加了 WhatsApp；最主要要商业级 PoE，对「升压 5 口」感兴趣；无后续跟进。域名无搜索结果 → 仅表内信息。需求映射：5 口商用 PoE（4 PoE + 1 上联）= STC-114GP 类；「升压」（低压输入升至 48 V PoE）版本需向 HRUI 核实。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：商用 PoE；升压 5 口；WA 已加",
+"quote": "Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ecevit（姓氏待核）",
+"role": "（ISAF 名片）",
+"email": "—（无邮箱；WhatsApp）",
+"phone": "—（Ady WhatsApp）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "官网未检索到 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Marbim（待核；「bim」常为 Bilişim 缩写）",
+"hq": "Türkiye（待核）",
+"size": "待核",
+"other": "仅 WhatsApp 渠道"
+},
+"business_lines": [
+"（待核）IT/安防"
+],
+"channels": {
+"网站": "http://marbim.com.tr/（未核）",
+"WhatsApp": "Ady 已加（号码在 Ady 手机）"
+},
+"signals": [
+"明确对 5 口升压 PoE 感兴趣 → 走量小机；WhatsApp 直达"
+],
+"risks": [
+"无邮箱；升压版是否在 HRUI 现货需核；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-114GP",
+"tier": 25,
+"why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）"
+},
+"email_hook": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
+}
 },
 {
 "name": "matrix.es",
@@ -259420,7 +259980,108 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-624",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-624",
+"name_official": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（İstanbul Perpa, TR；aniltelekom.com；安防/通信总分销）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理，2022 至今；此前 Karel 区域销售经理 1990–2017）。分销商已有 TP-Link/Ruijie 线 → Saga 作「无品牌/贴牌低价线」补位 → 分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Dahua",
+"TP-Link",
+"Ruijie",
+"Karel",
+"Yealink",
+"Ajax",
+"Paradox"
+],
+"evidence": [
+{
+"kind": "名录",
+"claim": "KP 职务与履历；规模",
+"quote": "Cumhur Ölmez is a Pazarlama Ve Satış Yöneticisi at Anıl Telekom based in Okmeydani, Istanbul. Previously, Cumhur was a Bölge Satış Yöneticisi at Karel Electronics. … 1990-2017 … Anıl Telekom 2022-present … Number of Employees 11-50",
+"url": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140",
+"date": "2026-10-21"
+},
+{
+"kind": "Instagram",
+"claim": "分销品牌",
+"quote": "Ana Dağıtıcı 📷 Dahua 📱 Gigaset,Karel,Yealink,Panasonic 🌎 TpLink,Ruijie,Lande 🚨 Ajax,Paradox 🔈Westa,Decon 📞0212 292 90 90 aniltelekom@aniltelekom.com",
+"url": "https://www.instagram.com/aniltelekomunikasyon/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "总部地址",
+"quote": "Head Office PERPA TİC. MERKEZİ A BLOK NO:1440-1442-1575-1577-1579 KAT:10-11-12 ŞİŞLİ / İSTANBUL",
+"url": "https://www.aniltelekom.com/en/iletisim",
+"date": "2026-10-21"
+},
+{
+"kind": "YouTube",
+"claim": "成立年份",
+"quote": "Telefon: 0212 292 90 90 … E-Posta: info@aniltelekom.com Temelleri 2002 yılında at…",
+"url": "https://www.youtube.com/@aniltelekom",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "ISAF：给了名片",
+"quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Cumhur Ölmez",
+"role": "Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo/ContactOut 公开）",
+"email": "cumhur@aniltelekom.com（用户表）",
+"phone": "+90 212 292 90 90（公司）",
+"source": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri Sanayi Ticaret Limited Şirketi",
+"founded": "2002",
+"hq": "Perpa Ticaret Merkezi A Blok No:1440-1442-1575-1577-1579 Kat:10-11-12, Şişli / İstanbul（0212 292 90 90；aniltelekom@aniltelekom.com / info@aniltelekom.com）",
+"size": "11–50（ZoomInfo）",
+"other": "总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon"
+},
+"business_lines": [
+"安防（Dahua、Ajax、Paradox）分销",
+"通信（Karel、Yealink、Gigaset、Panasonic）分销",
+"网络（TP-Link、Ruijie、Lande 机柜）分销"
+],
+"channels": {
+"网站": "https://www.aniltelekom.com/",
+"电话": "+90 212 292 90 90（公开）",
+"邮箱（公开）": "aniltelekom@aniltelekom.com / info@aniltelekom.com",
+"Instagram": "https://www.instagram.com/aniltelekomunikasyon/"
+},
+"signals": [
+"Dahua + TP-Link/Ruijie 分销商 → CCTV 配套 PoE 交换机走量；可做「Anıl 自有标」低价线避免与 TP-Link 正面冲突"
+],
+"risks": [
+"已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）"
+},
+"email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
+}
 },
 {
 "name": "Arp",
@@ -287690,7 +288351,67 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-785",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-785",
+"name_official": "Düzgün Toptan Ticaret / Teksarf（teksarf.com，TR；官网未检索到；Gmail）",
+"researched_at": "2026-10-21",
+"website_status": "未检索到",
+"summary": "ISAF 记录：Düzgün Toptan Ticaret（duzgun.toptan.ticaret@gmail.com；名片域 teksarf.com）——Ady 加了 WhatsApp，不会英文，要商业级 PoE 交换机；无后续跟进。teksarf.com 无搜索结果（「Toptan Ticaret」= 批发贸易，「Teksarf」疑为技术耗材批发）→ 仅表内信息；批发商 → 分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：不会英文；商用 PoE；WA 已加",
+"quote": "Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（Düzgün 家族业主，姓名待核）",
+"role": "业主（推测）",
+"email": "duzgun.toptan.ticaret@gmail.com（用户表）",
+"phone": "—（Ady WhatsApp）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "官网未检索到 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Düzgün Toptan Ticaret（待核）",
+"hq": "Türkiye（待核）",
+"size": "小型批发商（推测）",
+"other": "Gmail 联系；WhatsApp 已加"
+},
+"business_lines": [
+"IT/安防耗材批发（推测）"
+],
+"channels": {
+"邮箱": "duzgun.toptan.ticaret@gmail.com（用户表）",
+"WhatsApp": "Ady 已加"
+},
+"signals": [
+"批发商要商用 PoE → 8/16/24 口非管理走量价"
+],
+"risks": [
+"无公开资料；语言；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）"
+},
+"email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+}
 },
 {
 "name": "trioms.com",
@@ -288458,7 +289179,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-790",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-790",
+"name_official": "Bilgen Elektronik（TR；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：2 光 8 电 bypass；PoE 功率；WA 已加",
+"quote": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "İbrahim（姓氏待核）",
+"role": "（ISAF 名片）",
+"email": "—",
+"phone": "—（Ady WhatsApp）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Bilgen Elektronik（待核）",
+"hq": "Türkiye（待核）",
+"size": "待核",
+"other": "仅 WhatsApp"
+},
+"business_lines": [
+"电子/安防（推测）"
+],
+"channels": {
+"WhatsApp": "Ady 已加"
+},
+"signals": [
+"问 bypass + PoE 功率 → 有具体工程；WhatsApp 直达"
+],
+"risks": [
+"无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）"
+},
+"email_hook": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
+}
 },
 {
 "name": "Comms Express Ltd",
@@ -288930,7 +289710,67 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-792",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-792",
+"name_official": "Elektronik LTD（Toshko Todorov；ISAF 参展记录为土耳其；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：Toshko Todorov（「Elektronik LTD」，无邮箱/域名）——Ady 加了 WhatsApp，要商业级 PoE 交换机和 catalog，「不要推商业级的」（原文自相矛盾，按「只要商用级、不要工业级」理解待核），同事新桥拿了他们的彩页；无后续跟进。姓名为保加利亚式（Toshko Todorov）→ 国家待核（可能为保加利亚公司）；仅表内信息。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：商用 PoE + catalog；彩页在新桥处；WA 已加",
+"quote": "Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Toshko Todorov",
+"role": "（ISAF 名片）",
+"email": "—",
+"phone": "—（Ady WhatsApp）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "… Elektronik LTD（全称待核）",
+"hq": "待核（ISAF 记为土耳其；人名为保加利亚式）",
+"size": "待核",
+"other": "公司彩页在新桥处（可据此补公司名/域名）"
+},
+"business_lines": [
+"电子/安防分销（推测）"
+],
+"channels": {
+"WhatsApp": "Ady 已加",
+"线下": "公司彩页（新桥持有）"
+},
+"signals": [
+"要商用 PoE + catalog → 直接发目录与价目；先从新桥处的彩页补齐公司名/域名/国家"
+],
+"risks": [
+"国家与主体待核；无邮箱；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+}
 },
 {
 "name": "Elettronica E Sicurezza",
@@ -289364,7 +290204,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-794",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-794",
+"name_official": "Fadi（TR；无公司名/域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：Fadi（无公司/邮箱/域名）——Ady 加了 WhatsApp，问了收发器和交换机，英文不是很好；无后续跟进。仅 WhatsApp 线索；收发器（SFP）不在价格表 → 另询；交换机按商用 8 口报。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：收发器和交换机；英文不好；WA 已加",
+"quote": "Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Fadi（姓氏待核）",
+"role": "（ISAF 名片）",
+"email": "—",
+"phone": "—（Ady WhatsApp）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"hq": "（待核；ISAF 记为土耳其）",
+"size": "待核",
+"other": "仅 WhatsApp"
+},
+"business_lines": [
+"（待核）"
+],
+"channels": {
+"WhatsApp": "Ady 已加"
+},
+"signals": [
+"收发器 + 交换机 → 光纤接入小组合（MC/2 SFP 小机 + SFP 另询）"
+],
+"risks": [
+"身份不明；SFP 未在价格表；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 25,
+"why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）"
+},
+"email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+}
 },
 {
 "name": "Fast-Track Systems & Services Pte Ltd",
@@ -291621,7 +292520,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-806",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-806",
+"name_official": "Uğur İmre（分销商，TR；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：分销商；不需 OEM；$70 报价；Not bad；微信未通过",
+"quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Uğur İmre",
+"role": "分销商（ISAF 记录）",
+"email": "—",
+"phone": "—（名片在 Ady 处）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"hq": "Türkiye（待核）",
+"size": "分销商（规模待核）",
+"other": "不需要 OEM；微信未通过"
+},
+"business_lines": [
+"网络/安防分销（推测）"
+],
+"channels": {
+"线下": "ISAF 名片（Ady）；微信申请未通过"
+},
+"signals": [
+"对 $70 报价回复 Not bad → 价格带接受；需从 Ady 名片补邮箱/电话再跟"
+],
+"risks": [
+"无联系渠道（微信未通过）；无后续跟进"
+],
+"saga_fit": {
+"p1": "STC-28GPM",
+"tier": 20,
+"why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）"
+},
+"email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
+}
 },
 {
 "name": "Ugur Simsek Netmax",
@@ -291742,7 +292700,66 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-807",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-807",
+"name_official": "Netmax（Uğur Şimşek，TR；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "ISAF 记录：Uğur Şimşek / Netmax（无邮箱/域名）——Ady 加了 WhatsApp；问了 bypass，具体问了 2 光 8 电带 PoE 带管理的价格，现场报价 $120；无后续跟进。仅表内信息。映射：2 SFP + 8 GE PoE 管理型工业 = STI-288GPM（L2，$82.2）/ STI-288DGGPM（L2+，$145.7）；现场 $120 介于两者之间，报价前核价并说明层级；bypass 仅 4 SFP 版（SmartByte 型号注明）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "ISAF：bypass；2 光 8 电 PoE 管理 $120；WA 已加",
+"quote": "Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Uğur Şimşek",
+"role": "（ISAF 名片；Netmax）",
+"email": "—",
+"phone": "—（Ady WhatsApp）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Netmax（待核；土耳其同名公司多，需从名片核实）",
+"hq": "Türkiye（待核）",
+"size": "待核",
+"other": "WhatsApp 已加"
+},
+"business_lines": [
+"网络/安防工程或分销（推测）"
+],
+"channels": {
+"WhatsApp": "Ady 已加"
+},
+"signals": [
+"已问到具体价格（$120）→ 需求真实；WhatsApp 直达"
+],
+"risks": [
+"现场报价与公式价差异需统一口径；bypass 缺口；无后续跟进"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）；L2 版 STI-288GPM（$82.2）；ISAF 现场报 $120（层级待核，报价前核价）；bypass 版 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3；Saga 暂无对应型号）"
+},
+"email_hook": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 145,7 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
+}
 },
 {
 "name": "annke.com",

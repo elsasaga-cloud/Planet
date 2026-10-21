@@ -1,0 +1,86 @@
+{
+ "code": "SB-340",
+ "name_official": "Proves Bilgi Teknolojileri（İzmir Bayraklı, TR；proves.com.tr；系统集成商）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hanwha Vision（集成）"
+ ],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "KP 职务与公司定位",
+   "quote": "Serdar KARASU is the Founder at Proves Bilgi Teknolojileri, a leading technology company based in Bayrakli, Izmir, Turkey … information technology solutions including security, infrastructure, and cybersecurity … physical and virtual server installations, network security, backup solutions, and system integration",
+   "url": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "Hanwha 市政项目",
+   "quote": "Denizli Pamukkale Municipality in Turkey required a reliable way to monitor its headquarters and surrounding areas around the clock. In collaboration with system integrator Proves Bilgi Teknolojileri, the municipality deployed 150 Hanwha Vision Q series cameras along with three NVRs.",
+   "url": "https://www.linkedin.com/in/serdar-karasu-ba433b1a4/",
+   "date": "2024-05-14"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "成立时间",
+   "quote": "Founder Proves Bilgi Teknolojileri Feb 2020 - Present",
+   "url": "https://co.linkedin.com/in/serdar-karasu-ba433b1a4?_l=en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：要工业级交换机报价单",
+   "quote": "要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Serdar Karasu",
+   "role": "Founder（LinkedIn/ZoomInfo 公开）",
+   "email": "bilgi@proves.com.tr（用户表）",
+   "phone": "—",
+   "source": "https://www.zoominfo.com/p/Serdar-Karasu/8496040136"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录 + LinkedIn 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Proves Bilgi Teknolojileri",
+  "founded": "2020-02",
+  "hq": "Bayraklı / İzmir（ZoomInfo 地址 286/1 Sok. No:15）",
+  "size": "小型集成商（ZoomInfo「334 人」疑为错误数据，待核）",
+  "other": "Hanwha Vision 合作集成商；YouTube 频道 @provesbilgiteknolojileri"
+ },
+ "business_lines": [
+  "IT 基础设施与网络安全集成",
+  "视频监控项目（Hanwha Vision）"
+ ],
+ "channels": {
+  "网站": "https://www.proves.com.tr/",
+  "邮箱": "bilgi@proves.com.tr（用户表）",
+  "LinkedIn": "https://www.linkedin.com/in/serdar-karasu-ba433b1a4/"
+ },
+ "signals": [
+  "创始人亲自要工业交换机报价单 → 直接给价目表；150 台摄像机级别项目说明有 24 口 PoE 与工业环网需求"
+ ],
+ "risks": [
+  "市政项目公共部门（按个案守界）；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
+}
