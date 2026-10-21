@@ -2,7 +2,7 @@
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-845`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 1 次（2025-11-03 → 2025-11-03）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：数据/有线电视网络集成兼设备商（俄罗斯）（推断）　|　**历史关系**：推送 1 次（2025-11-03 → 2025-11-03）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-845
@@ -12,7 +12,7 @@ score: 32
 country: 俄罗斯
 region: 俄语区
 website: konturm.ru
-type: 系统集成/工程商
+type: 数据/有线电视网络集成兼设备商（俄罗斯）
 tier_tags: ["A优质名单(优质俄罗斯客户)", "AI评估(RU)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯系统集成/工程商：官网「Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектировани」；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：D-Link、Cisco、Huawei；站内型号：MPEG-2、USB-2、MPEG-4、EQ8096；表内「全线产品」；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：全线产品）
+- **是谁**：俄罗斯 Контур-М Kontur-M（多业务数据与电视传输网络：设备、设计、安装；SFP/FTTH/有线电视头端（EQ8096、DTC-720）；品牌 D-Link、Cisco、Huawei、Dahua、BDCOM；表内「全线产品」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：全线产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | konturm.ru（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | konturm.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 数据/有线电视网络集成兼设备商（俄罗斯） | 推断（据兴趣/备注关键词） |
 | 联系人 | BDCOM | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 全线产品 | 事实（用户表） |
@@ -66,34 +66,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（konturm.ru，快照 2026-10-21）
-- **是谁**：俄罗斯系统集成/工程商：官网「Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектировани」；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：D-Link、Cisco、Huawei；站内型号：MPEG-2、USB-2、MPEG-4、EQ8096；表内「全线产品」；群发 1 次、无回复。
-- **类型**：系统集成/工程商
-- **在卖/在用品牌**：D-Link, Cisco, Huawei
+- **是谁**：俄罗斯 Контур-М Kontur-M（多业务数据与电视传输网络：设备、设计、安装；SFP/FTTH/有线电视头端（EQ8096、DTC-720）；品牌 D-Link、Cisco、Huawei、Dahua、BDCOM；表内「全线产品」）；表内 1 次跟进无回复。
+- **类型**：数据/有线电视网络集成兼设备商（俄罗斯）
+- **在卖/在用品牌**：D-Link, Cisco, Huawei, BDCOM, Dahua
 - **【官网快照】官网标题：Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектировани；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换**
   > Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж.
   > 来源：https://konturm.ru/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 全线产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Kontur-M 定位**
+  > Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж
+  > 来源：https://konturm.ru/（抓取 2026-10-21）
+- **【用户表】全线产品 BDCOM**
+  > 全线产品；BDCOM
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 俄罗斯 |
 | 其他 | 官网 konturm.ru，语言 ?，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：电信 / FTTH / ISP 设备；布线 / 线缆；光纤 / 媒体转换
-- **触达通道（公开）**：role: 系统集成/工程商；region: 俄罗斯；contact: info@konturm.ru
+- **业务线**：多业务数据 / 有线电视网络设备与集成（俄罗斯）
+- **触达通道（公开）**：role: 数据/有线电视网络集成兼设备商（俄罗斯）；region: 俄罗斯；contact: info@konturm.ru
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://konturm.ru/）
-  - 在售同口型交换品牌：D-Link → 直接对位替换
-  - 官网公开邮箱：webmaster@konturm.ru
-  - 用户表兴趣/备注：全线产品
-- **风险/边界**：企业级品牌为主（Cisco/Huawei）：Saga 白牌只作价格补充线；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the D-Link / Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Контур-М - мультисервисные сети передачи данных и телевидения: оборудование, проектирование и монтаж；页面 /catalog.php?id=tehn、/catalog.php?id=firm；kw sfp 17 / ftth 5 / dahua 6；brands D-Link / Cisco / Huawei
+  - 表内：全线产品；BDCOM
+- **风险/边界**：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；BDCOM/D-Link 价格基准低；仅 info@
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供
+- **邮件切入句（英文）**：For the access switches in your multiservice data and CATV network projects, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; EAC by your side — which access SKU do your projects use most alongside BDCOM and D-Link?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -151,7 +155,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
+| **P1** | STC-28DGGPM | 深挖对位：运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（数据/有线电视网络集成兼设备商（俄罗斯）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -204,7 +208,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the D-Link / Cisco lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the access switches in your multiservice data and CATV network projects, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; EAC by your side — which access SKU do your projects use most alongside BDCOM and D-Link?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

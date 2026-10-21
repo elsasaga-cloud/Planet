@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（golmar.es，快照 2026-10-21）",
- "summary": "西班牙安防集成/经销：官网「Golmar sistemas de comunicación | Golmar」（en-GB）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：CIP-4BWIFI、CIP-21D4E、CIP-124D2E、CIP-124D2MA；表内「主要是CCTV 也有一些商业POE」；群发 7 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "西班牙 Golmar（70 余年楼宇可视对讲制造商，安防方案：CCTV、门禁、入侵、消防、公共广播、家居自动化、医院；GCloud、G2+、IP G+ 系统；表内「主要是 CCTV 也有一些商业 PoE」「可以尝试多跟进一下」）；表内 7 次跟进无回复。",
+ "type": "楼宇对讲/安防制造商（西班牙，自有品牌，PoE 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "主要是CCTV 也有一些商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Golmar 定位",
+   "quote": "Golmar, Spanish manufacturer of video intercoms for over 70 years. Security solutions: CCTV, access control, intrusion detection, fire detection, public address systems, home automation",
+   "url": "https://golmar.es/home-en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 商业 PoE",
+   "quote": "主要是CCTV 也有一些商业POE；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +43,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "西班牙",
   "other": "官网 golmar.es，语言 en-GB，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "楼宇可视对讲 / 安防系统制造（自有品牌 Golmar）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "楼宇对讲/安防制造商（西班牙，自有品牌，PoE 为配套）",
   "region": "西班牙",
   "contact": "golmar@golmar.es"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://golmar.es/home-en）",
-  "用户表兴趣/备注：主要是CCTV 也有一些商业POE"
+  "官网：Golmar, Spanish manufacturer of video intercoms for over 70 years. Security solutions: CCTV, access control, intrusion detection, fire detection, public address systems, home automation；首页 Golmar GCloud ; IP G+ Endless possibilities；kw camera 129 / cctv 30 / nvr 22 / distributor 14",
+  "表内：主要是 CCTV 也有一些商业 PoE；可以尝试多跟进一下"
  ],
- "risks": [],
+ "risks": [
+  "体量：Golmar 为西班牙老牌制造商（采购流程长、可能已有稳定 PoE 供应）；PoE 为配套品类",
+  "7 次无回复，仅 golmar@ 总邮箱 → 需找采购/产品经理"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Golmar 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?"
 }

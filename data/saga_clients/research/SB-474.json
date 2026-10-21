@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ngapl.in，快照 2026-10-21）",
- "summary": "印度IT / 网络安全服务商（交换机为附带）：官网「NextGen – Solutions Simplified」（en-US）；品类词：工业自动化 / OT 网络；站内品牌：Siemens、Phoenix Contact；表内「EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴」；表内未见跟进记录。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "印度 NextGen Automation（NGAPL，「Solutions Simplified」工业自动化方案商：合作 MRA、VAHLE、Ouster、Kymati、Siemens；SCADA/自动化；阿里巴巴询盘「EHG6408 8 电口」（Atop 型号）；KP Rajendra Khamkar（Operation Head））；表内未跟进。",
+ "type": "工业自动化集成商（印度，Atop EHG6408 询盘）",
  "size": "",
  "brands_seen": [
   "Siemens",
-  "Phoenix Contact"
+  "Phoenix Contact",
+  "Atop"
  ],
  "evidence": [
   {
@@ -24,42 +25,61 @@
    "quote": "EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "NextGen 定位",
+   "quote": "NextGen – Solutions Simplified ; Business Associates ; MRA, Australia ; VAHLE ; OUSTER, USA ; KYMATI, GMBH ; Siemens",
+   "url": "https://ngapl.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "EHG6408 询盘",
+   "quote": "EHG6408 8电口 / from: 阿里巴巴",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Rajendra Khamkar",
+   "title": "Operation Head",
+   "email": "info@ngapl.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "印度",
   "other": "官网 ngapl.in，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "工业自动化 / SCADA 集成（印度）"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "工业自动化集成商（印度，Atop EHG6408 询盘）",
   "region": "印度",
   "contact": "info@ngapl.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ngapl.in/）",
-  "在售工业网络品牌：Siemens、Phoenix Contact → 工业线对位",
-  "官网公开邮箱：info@ngapl.com",
-  "用户表兴趣/备注：EHG6408 8电口；EHG6408 8电口 / from: 阿里巴巴"
+  "官网：NextGen – Solutions Simplified ; Business Associates ; MRA, Australia ; VAHLE ; OUSTER, USA ; KYMATI, GMBH ; Siemens；kw automation 20 / scada 6；brands Siemens / Phoenix Contact",
+  "表内：EHG6408 8 电口 / from: 阿里巴巴；KP Rajendra Khamkar / Operation Head"
  ],
  "risks": [
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，印度）：BIS 认证由客户侧办理；阿里巴巴询盘有效性待核；Siemens/Phoenix 生态价格基准高"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-080GE",
   "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：IT / 网络安全服务商（交换机为附带）→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理"
  },
- "email_hook": "Rajendra, alongside the Siemens / Phoenix Contact lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply Marvell-based DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?"
 }

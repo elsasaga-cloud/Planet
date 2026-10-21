@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-477`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
-> **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：推送 2 次（2025-09-26 → 2025-10-24）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：工业网络部件分销商（土耳其，现三旺）（推断）　|　**历史关系**：推送 2 次（2025-09-26 → 2025-10-24）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-477
@@ -12,7 +12,7 @@ score: 40
 country: 土耳其
 region: 土耳其
 website: portel.com.tr
-type: 工业自动化/IoT 方案商
+type: 工业网络部件分销商（土耳其，现三旺）
 tier_tags: ["A优质名单(土耳其客户)", "AI评估(TR)·DONE"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 2
 first_contact: 2025-09-26
 last_contact: 2025-10-24
 p1: STI-280GE
-price_tier: 25%
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其工业自动化/IoT 方案商：官网「Portel Teknoloji A.Ş.」（tr）；品类词：工业自动化 / OT 网络；表内「fiber networking；fiber networking 买3旺的」；群发 2 次、无回复。（调研 2026-10-21；表内兴趣：fiber networking；fiber networking 买3旺的）
+- **是谁**：土耳其 Portel Teknoloji A.Ş.（半导体与网络部件分销，目标进入领先行列的年轻公司；industrialnetworkcenter.com；行业：电商、能源、海事、铁路网络与控制；表内「fiber networking，买 3 旺（三旺）的」；KP Okay Yücedağ（Sales Manager））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：fiber networking；fiber networking 买3旺的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | portel.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | portel.com.tr / industrialnetworkcenter.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 工业自动化/IoT 方案商 | 推断（据兴趣/备注关键词） |
+| 类型 | 工业网络部件分销商（土耳其，现三旺） | 推断（据兴趣/备注关键词） |
 | 联系人 | 买3旺的 / Okay Yucedag / Sales Manager | 事实（用户表） |
 | 来源（From） | 富通天下 | 事实（用户表） |
 | 兴趣（Interested in） | fiber networking / fiber networking<br>买3旺的 | 事实（用户表） |
@@ -72,31 +72,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（portel.com.tr，快照 2026-10-21）
-- **是谁**：土耳其工业自动化/IoT 方案商：官网「Portel Teknoloji A.Ş.」（tr）；品类词：工业自动化 / OT 网络；表内「fiber networking；fiber networking 买3旺的」；群发 2 次、无回复。
-- **类型**：工业自动化/IoT 方案商
+- **是谁**：土耳其 Portel Teknoloji A.Ş.（半导体与网络部件分销，目标进入领先行列的年轻公司；industrialnetworkcenter.com；行业：电商、能源、海事、铁路网络与控制；表内「fiber networking，买 3 旺（三旺）的」；KP Okay Yücedağ（Sales Manager））；表内 2 次跟进无回复。
+- **类型**：工业网络部件分销商（土耳其，现三旺）
+- **在卖/在用品牌**：3onedata
 - **【官网快照】官网标题：Portel Teknoloji A.Ş.；品类词 工业自动化 / OT 网络**
   > Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır.
   > 来源：https://www.portel.com.tr/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > fiber networking；fiber networking 买3旺的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Portel 定位**
+  > Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır ; Demiryolu Ağ Oluşturma ve Kontrol Birimi Çözümleri
+  > 来源：https://www.portel.com.tr/（抓取 2026-10-21）
+- **【用户表】买三旺**
+  > fiber networking 买3旺的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Okay Yücedağ（）okay.yucedag@portel.com.tr 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 portel.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：工业自动化 / OT 网络
-- **触达通道（公开）**：role: 工业自动化/IoT 方案商；region: 土耳其；contact: bilgi@industrialnetworkcenter.com、okay.yucedag@portel.com.tr
+- **业务线**：半导体 / 工业网络部件分销（土耳其）
+- **触达通道（公开）**：role: 工业网络部件分销商（土耳其，现三旺）；region: 土耳其；contact: bilgi@industrialnetworkcenter.com、okay.yucedag@portel.com.tr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.portel.com.tr/）
-  - 官网公开邮箱：bilgi@industrialnetworkcenter.com
-  - 用户表兴趣/备注：fiber networking；fiber networking 买3旺的
-- **Saga 对位结论**：P1 STI-280GE（25% 档）——官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Okay, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 官网：Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır；首页 Enerji Sektörü ; Denizcilik Sektörü ; Demiryolu Ağ Oluşturma ve Kontrol Birimi Çözümleri
+  - 表内：fiber networking 买 3 旺的；KP Okay Yucedag / Sales Manager
+- **风险/边界**：现供三旺（深圳）价格基准低；守界备注：铁路为其行业之一——只供民用通用工业交换机；2 次无回复 → 改向 Sales Manager 具名首触
+- **Saga 对位结论**：P1 STI-280GE（20% 档）——工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）
+- **邮件切入句（英文）**：Okay, alongside the 3onedata lines you carry, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which fibre-networking SKU do your energy and maritime customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -140,6 +148,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Okay Yücedağ | — | okay.yucedag@portel.com.tr | 调研核实（公开页） | 用户表 |
 | Okay Yucedag | — | bilgi@industrialnetworkcenter.com / okay.yucedag@portel.com.tr | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -157,10 +166,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280GE | 深挖对位：官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业自动化/IoT 方案商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-280GE | 深挖对位：工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9） | $46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业网络部件分销商（土耳其，现三旺）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -170,7 +179,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -178,7 +187,7 @@ updated: 2026-10-21
 
 - **S**：土耳其主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-280GE 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-280GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -211,7 +220,7 @@ updated: 2026-10-21
 ```text
 Hi Okay,
 
-Picking up our earlier exchange about PoE / industrial switches. Okay, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. Okay, alongside the 3onedata lines you carry, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which fibre-networking SKU do your energy and maritime customers order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

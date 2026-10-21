@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（portel.com.tr，快照 2026-10-21）",
- "summary": "土耳其工业自动化/IoT 方案商：官网「Portel Teknoloji A.Ş.」（tr）；品类词：工业自动化 / OT 网络；表内「fiber networking；fiber networking 买3旺的」；群发 2 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "土耳其 Portel Teknoloji A.Ş.（半导体与网络部件分销，目标进入领先行列的年轻公司；industrialnetworkcenter.com；行业：电商、能源、海事、铁路网络与控制；表内「fiber networking，买 3 旺（三旺）的」；KP Okay Yücedağ（Sales Manager））；表内 2 次跟进无回复。",
+ "type": "工业网络部件分销商（土耳其，现三旺）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "3onedata"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,38 +23,62 @@
    "quote": "fiber networking；fiber networking 买3旺的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Portel 定位",
+   "quote": "Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır ; Demiryolu Ağ Oluşturma ve Kontrol Birimi Çözümleri",
+   "url": "https://www.portel.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "买三旺",
+   "quote": "fiber networking 买3旺的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Okay Yücedağ",
+   "title": "Sales Manager",
+   "email": "okay.yucedag@portel.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 portel.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "半导体 / 工业网络部件分销（土耳其）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业网络部件分销商（土耳其，现三旺）",
   "region": "土耳其",
   "contact": "bilgi@industrialnetworkcenter.com、okay.yucedag@portel.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.portel.com.tr/）",
-  "官网公开邮箱：bilgi@industrialnetworkcenter.com",
-  "用户表兴趣/备注：fiber networking；fiber networking 买3旺的"
+  "官网：Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır；首页 Enerji Sektörü ; Denizcilik Sektörü ; Demiryolu Ağ Oluşturma ve Kontrol Birimi Çözümleri",
+  "表内：fiber networking 买 3 旺的；KP Okay Yucedag / Sales Manager"
  ],
- "risks": [],
+ "risks": [
+  "现供三旺（深圳）价格基准低；守界备注：铁路为其行业之一——只供民用通用工业交换机",
+  "2 次无回复 → 改向 Sales Manager 具名首触"
+ ],
  "saga_fit": {
   "p1": "STI-280GE",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）"
  },
- "email_hook": "Okay, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Okay, alongside the 3onedata lines you carry, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which fibre-networking SKU do your energy and maritime customers order most?"
 }

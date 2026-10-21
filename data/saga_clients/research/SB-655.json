@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（c-techeg.com，快照 2026-10-21）",
- "summary": "埃及电商/网店：官网「C-TECH – Systems Integration Excellence」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE；产品页：shop；表内「工业1光1电PoE / from: 自建站」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "埃及 C-TECH（2017 年成立的系统集成商：数据中心、自动化、CCTV、门禁、7×24 支持；表内「工业 1 光 1 电 PoE / from: 自建站」；KP Ahmed Sonbol）；表内未跟进。",
+ "type": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,61 @@
    "quote": "工业1光1电PoE / from: 自建站",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "C-TECH 定位",
+   "quote": "C-TECH – Systems Integration Excellence ; Founded in 2017 ; End-to-End Integration ; 24/7/365 Support & Services",
+   "url": "https://c-techeg.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 1 光 1 电 PoE",
+   "quote": "工业1光1电PoE / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ahmed Sonbol",
+   "title": "（职务待核）",
+   "email": "ahmed.sonbol@c-techeg.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "埃及",
   "other": "官网 c-techeg.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "系统集成（数据中心 / 自动化 / 安防，埃及）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
   "region": "埃及",
   "contact": "ahmed.sonbol@c-techeg.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://c-techeg.com/）",
-  "官网公开邮箱：info@c-tech.com.eg、you@company.com",
-  "用户表兴趣/备注：工业1光1电PoE / from: 自建站"
+  "首页 Integrated Technology Solutions for Smarter, Safer, and Connected Businesses ; Founded in 2017 ; End-to-End Integration ; 24/7/365 Support；kw data center 27 / automation 20 / access control 16 / cctv 14",
+  "表内：工业 1 光 1 电 PoE / from: 自建站；KP Ahmed Sonbol"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，埃及）：外汇/进口手续风险；自建站询盘有效性待核"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-111GP",
+  "tier": 25,
+  "why": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）"
  },
- "email_hook": "Ahmed, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Ahmed, following your enquiry for an industrial 1-fibre + 1-PoE unit: we supply the DIN-rail PoE media converter (1 SFP + 1 GE PoE+, −40~75 °C, CE/RoHS) and 4-PoE + 1 SFP models from single units, EXW USD — how many points does the project need and what fibre type (single-mode/distance)?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nomios.de，快照 2026-10-21）",
- "summary": "荷兰安防集成/经销：官网「Nomios Deutschland | Sicherheits- und Netzwerklösungen für…」（de）；品类词：无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE；表内「Networking」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "荷兰 Nomios（nomios.de：DACH 区网络安全与 IT 网络厂商中立集成商，隶属泛欧 Nomios Group（原 Infradata，大型集成商集团）；Cisco 导向；表内「Networking」）；表内 1 次跟进无回复。",
+ "type": "泛欧大型安全/网络集成商集团",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,46 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Nomios 定位",
+   "quote": "Nomios Deutschland | Sicherheits- und Netzwerklösungen ; Nomios Germany ist Ihr Experte für Cybersicherheit und IT-Netzwerke in der DACH-Region. Als herstellerunabhängiger Integrator",
+   "url": "https://www.nomios.de/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "体量过大：泛欧大型集成商集团 Nomios Group（Cisco 等一线导向）；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "荷兰",
   "other": "官网 nomios.de，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "网络安全 / IT 网络集成（DACH，集团）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "泛欧大型安全/网络集成商集团",
   "region": "荷兰",
   "contact": "info@nomios.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.nomios.de/）",
-  "官网公开邮箱：info@brik.digital、info@nomios.de",
-  "用户表兴趣/备注：Networking"
+  "官网：Nomios Germany ist Ihr Experte für Cybersicherheit und IT-Netzwerke in der DACH-Region. Als herstellerunabhängiger Integrator entwickeln wir Lösungen；首页 Managed Services ; Professional Services ; Cybersicherheit；kw cisco 11 / wireless 18",
+  "表内：Networking；1 次跟进无回复"
  ],
- "risks": [],
+ "risks": [
+  "体量：Nomios Group 为泛欧大型安全/网络集成商集团，一线品牌导向，白牌无切入口"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：交换机词频 6、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "泛欧大型集成商集团（Nomios Group），Cisco/Juniper 等一线品牌导向 → 改 C（体量）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：集成商巨头）"
 }

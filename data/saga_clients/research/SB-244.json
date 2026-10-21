@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（wicomsolutions.it，快照 2026-10-21）",
- "summary": "意大利工业自动化/IoT 方案商：官网「Wi-Com Solutions Componenti elettronici」（it-IT）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：IEE1613、EN50155、EN50121-4、IEC60068-2-27；表内「工业FS MC switch 周边产品」；群发 6 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "意大利 Wi-Com Solutions（电子元器件/通信部件分销：天线（DAS/Small Cell/专网/RBS）、电池、switch/media converter 栏目（EN50155/EN50121-4/IEC 60255 等规格）；市场为电信、汽车、工业电子与军工；KP Alessandro Padovani（General Manager）；表内「工业 FS MC switch 周边产品」「可以尝试多跟进一下」）；表内 6 次跟进无回复。",
+ "type": "通信部件分销商（意大利，工业 FS/MC 栏目）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,63 @@
    "quote": "工业FS MC switch 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Wi-Com 定位",
+   "quote": "Wi-Com Solutions è fortemente legata ai mercati industriali Telecom, Automotive, Elettronica Industriale e Militare ; /en/products/switch-media-converter/",
+   "url": "https://www.wicomsolutions.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC switch",
+   "quote": "工业FS MC switch 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Alessandro Padovani",
+   "title": "General Manager",
+   "email": "info@wicomsolutions.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 wicomsolutions.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "天线 / 电池 / 通信部件分销",
+  "switch / media converter 栏目"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "通信部件分销商（意大利，工业 FS/MC 栏目）",
   "region": "意大利",
   "contact": "info@wicomsolutions.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.wicomsolutions.it/）",
-  "官网公开邮箱：info@wicomsolutions.it",
-  "用户表兴趣/备注：工业FS MC switch 周边产品"
+  "官网：Wi-Com Solutions è fortemente legata ai mercati industriali Telecom, Automotive, Elettronica Industriale e Militare；页面 /en/products/switch-media-converter/；站内 EN50155 / EN50121-4 / IEC60255-21-2；kw media converter 7 / wireless 25",
+  "表内：工业 FS MC switch 周边产品；KP Alessandro Padovani / General Manager"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：军工为其市场之一——只供民用通用工业交换机；EN50155/轨道规格 Saga 不做",
+  "6 次无回复 → 改向 GM 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）"
  },
- "email_hook": "Alessandro, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alessandro, for the switch and media-converter section of your catalogue, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial SKU do your telecom and industrial customers request most?"
 }

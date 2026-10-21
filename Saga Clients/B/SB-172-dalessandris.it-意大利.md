@@ -2,7 +2,7 @@
 
 > **评级 B**　|　意大利　|　档案编号 `SB-172`　|　优先级 ★★　|　状态：已推送 13 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 13 次（2024-05-14 → 2025-10-15）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：暖通/光伏网店（兼售 CCTV/PoE，意大利）（推断）　|　**历史关系**：推送 13 次（2024-05-14 → 2025-10-15）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-172
@@ -12,7 +12,7 @@ score: 49
 country: 意大利
 region: 欧洲
 website: dalessandris.it
-type: 安防集成/经销
+type: 暖通/光伏网店（兼售 CCTV/PoE，意大利）
 tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利安防集成/经销：官网「D'Alessandris - Termoidraulica e Fotovoltaico」（it）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；产品页：shelly-lan-switch、shelly-pro-3em-switch-add-on、shop、product-brand；表内「商业PoE Hisource的 主要是CCTV」；群发 13 次、无回复。（调研 2026-10-21；表内兴趣：商业PoE Hisource的 主要是CCTV）
+- **是谁**：意大利 D’Alessandris（Termoidraulica e Fotovoltaico：锅炉、热泵、光伏、空调为主的网店，兼售 Shelly LAN switch 等智能家居；表内「商业 PoE Hisource 的，主要是 CCTV」「可以尝试多跟进一下」）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：商业PoE Hisource的 主要是CCTV）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-05-14 → 2025-10-15）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV 配套商用 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI STC-114GP / STC-028GP（列表价，注明）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | dalessandris.it（取自域名，公司全名待核） | 推断 |
 | 国家 | 意大利 | 事实（用户表）|
 | 网站/域名 | dalessandris.it | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 暖通/光伏网店（兼售 CCTV/PoE，意大利） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE Hisource的<br>主要是CCTV | 事实（用户表） |
@@ -65,8 +65,9 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（dalessandris.it，快照 2026-10-21）
-- **是谁**：意大利安防集成/经销：官网「D'Alessandris - Termoidraulica e Fotovoltaico」（it）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；产品页：shelly-lan-switch、shelly-pro-3em-switch-add-on、shop、product-brand；表内「商业PoE Hisource的 主要是CCTV」；群发 13 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：意大利 D’Alessandris（Termoidraulica e Fotovoltaico：锅炉、热泵、光伏、空调为主的网店，兼售 Shelly LAN switch 等智能家居；表内「商业 PoE Hisource 的，主要是 CCTV」「可以尝试多跟进一下」）；群发 13 次无回复。
+- **类型**：暖通/光伏网店（兼售 CCTV/PoE，意大利）
+- **在卖/在用品牌**：Hisource, Shelly
 - **【官网快照】官网标题：D'Alessandris - Termoidraulica e Fotovoltaico；品类词 工业自动化 / OT 网络**
   > Risultati per:；Offerta Speciale；Esplora le Nostre Categorie；Caldaie；Pompe di Calore；Fotovoltaico
   > 来源：https://www.dalessandris.it/（抓取 2026-10-21）
@@ -76,23 +77,29 @@ updated: 2026-10-21
 - **【官网快照】官网标题：D'Alessandris - Termoidraulica e Fotovoltaico；品类词 工业自动化 / OT 网络 / 网络交换 / PoE**
   > Risultati per:；Offerta Speciale；Esplora le Nostre Categorie；Caldaie；Pompe di Calore；Fotovoltaico
   > 来源：https://www.dalessandris.it/（抓取 2026-10-21）
+- **【官网快照】D’Alessandris 定位**
+  > D’Alessandris - Termoidraulica e Fotovoltaico ; Caldaie ; Pompe di Calore ; Fotovoltaico ; /shelly-lan-switch/
+  > 来源：https://www.dalessandris.it/（抓取 2026-10-21）
+- **【用户表】商业 PoE Hisource**
+  > 商业PoE Hisource的 主要是CCTV；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 意大利 |
 | 其他 | 官网 dalessandris.it，语言 it，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：工业自动化 / OT 网络；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 意大利；contact: info@dalessandris.it
+- **业务线**：暖通 / 光伏 / 智能家居网店（意大利）
+- **触达通道（公开）**：role: 暖通/光伏网店（兼售 CCTV/PoE，意大利）；region: 意大利；contact: info@dalessandris.it
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.dalessandris.it/）
-  - 用户表兴趣/备注：商业PoE Hisource的 主要是CCTV
-- **风险/边界**：群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：D’Alessandris - Termoidraulica e Fotovoltaico ; Caldaie ; Pompe di Calore ; Fotovoltaico ; Climatizzazione；页面 /shelly-lan-switch/、/shop/
+  - 表内：商业 PoE Hisource 的 主要是 CCTV；可以尝试多跟进一下
+- **风险/边界**：主业暖通/光伏（Saga 不做），网络为边缘品类；现供 Hisource 价格基准低；13 次无回复，仅 info@
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——CCTV 配套商用 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI STC-114GP / STC-028GP（列表价，注明）
+- **邮件切入句（英文）**：For the PoE switches you list alongside CCTV and Shelly devices, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -158,7 +165,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：CCTV 配套商用 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI STC-114GP / STC-028GP（列表价，注明） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（暖通/光伏网店（兼售 CCTV/PoE，意大利）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -211,9 +218,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you list alongside CCTV and Shelly devices, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
