@@ -42,6 +42,9 @@ v2.4（2026-10-21，运行 #5 站点对运行器 IP 全 403 但剩余 593 张图
 v2.5（2026-10-21，运行 #7 成果丢失之后）：Actions 的 checkout 停在触发提交而非分支最新；两轮排队时后一轮的提交步骤
   与前一轮的提交冲突（工作流里 pull --rebase 失败被 || true 吞掉 → push 成空操作，本轮只剩 Release 附件）。
   开抓前先把工作区同步到分支最新（拿最新检查点、让提交步骤干净落地）；本地运行不受影响。
+v2.6（2026-10-21，运行 #8 图片 1493/1493 收齐但 Release 附件被逐轮 --clobber 覆盖、前 900 张二进制只剩 90 天期限的 Actions 产物之后）：
+  图片二进制也入 git（OUT/images/，总量 ≤ IMG_COMMIT_MB=400 才拷；型号页可直接内嵌显示）；
+  清单里"已完成"的图片若二进制既不在 BIN 也不在 OUT/images，则视为未完成重新下载，保证入库齐全。
 """
 import hashlib
 import json
@@ -67,6 +70,7 @@ MAX_PAGES = int(os.environ.get("MAX_PAGES", "1500"))
 DELAY = float(os.environ.get("DELAY", "1.2"))
 MAX_IMAGE_MB = float(os.environ.get("MAX_IMAGE_MB", "600"))
 PDF_COMMIT_MB = float(os.environ.get("PDF_COMMIT_MB", "120"))
+IMG_COMMIT_MB = float(os.environ.get("IMG_COMMIT_MB", "400"))  # 图片总量不超过它就拷进 OUT/images 入 git
 TIME_BUDGET_MIN = float(os.environ.get("TIME_BUDGET_MIN", "140"))
 UA = "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)"
 
@@ -568,7 +572,7 @@ def _sync_to_branch_tip():
 
 def main():
     _sync_to_branch_tip()
-    for d in ("html", "datasheet_text", "datasheets"):
+    for d in ("html", "datasheet_text", "datasheets", "images"):
         os.makedirs(os.path.join(OUT, d), exist_ok=True)
     for d in ("downloads", "images"):
         os.makedirs(os.path.join(BIN, d), exist_ok=True)
@@ -861,7 +865,14 @@ def main():
     save_state(p_state, queue, seen, downloads, images, external, "images", runs)
 
     # ---------- images (binary dir only) ----------
-    img_rows = [d for d in img_prev if d.get("file")]
+    def _img_bin_present(d):
+        f = d.get("file") or ""
+        return os.path.exists(os.path.join(BIN, f)) or os.path.exists(os.path.join(OUT, "images", os.path.basename(f)))
+
+    img_prev_ok = [d for d in img_prev if d.get("file")]
+    img_rows = [d for d in img_prev_ok if _img_bin_present(d)]
+    if len(img_rows) < len(img_prev_ok):
+        log(f"images: {len(img_prev_ok) - len(img_rows)} previously fetched but binary absent (Release clobbered) → re-download for git")
     done_img = {d["url"] for d in img_rows}
     todo_img = [(u, meta) for u, meta in sorted(images.items()) if u not in done_img]
     total = 0
@@ -928,6 +939,19 @@ def main():
             write_jsonl(p_img, img_rows)
     if img_stop is None:
         img_stop = "complete" if not skipped_site_img else f"blocked ({skipped_site_img} site-hosted left, CDN done) → resume later"
+    # v2.6：图片入 git
+    img_bytes = sum(d.get("bytes") or 0 for d in img_rows if d.get("file"))
+    imgs_committed = img_bytes <= IMG_COMMIT_MB * 1e6
+    n_copied = 0
+    if imgs_committed:
+        for d in img_rows:
+            if d.get("file"):
+                src = os.path.join(BIN, d["file"])
+                dst = os.path.join(OUT, "images", os.path.basename(d["file"]))
+                if os.path.exists(src) and not os.path.exists(dst):
+                    shutil.copy2(src, dst)
+                    n_copied += 1
+    log(f"images total {img_bytes / 1e6:.1f} MB → committed to git: {imgs_committed} (+{n_copied} copied into {OUT}/images)")
     write_jsonl(p_img, img_rows)
     log(f"images stop: {img_stop}; ok {sum(1 for d in img_rows if d['file'])}/{len(img_rows)} (+{n_new_img} this run), {total / 1e6:.1f} MB this run")
 
@@ -955,6 +979,7 @@ def main():
         "downloads_total": len(dl_rows), "downloads_ok": sum(1 for d in dl_rows if d["file"]),
         "downloads_left": max(0, len(todo_dl) - n_new_dl), "downloads_stop": dl_stop,
         "downloads_bytes": pdf_bytes, "pdfs_committed": pdfs_committed, "pdf_text_files": n_txt,
+        "images_bytes": img_bytes, "images_committed": imgs_committed,
         "images_total": len(img_rows), "images_ok": sum(1 for d in img_rows if d["file"]),
         "images_left": images_left, "images_stop": img_stop, "images_bytes_this_run": total,
         "external_hosts": {k: len(v) for k, v in sorted(external.items())},
