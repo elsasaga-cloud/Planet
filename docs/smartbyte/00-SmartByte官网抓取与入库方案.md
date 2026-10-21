@@ -76,3 +76,21 @@
 | 原始层 | `data/smartbyte_site_raw/` | 原样 HTML、sitemap、robots、三份清单（pages / downloads / images）、规格书文本、summary、日志；PDF 视体积入库或进 Release |
 | 整理层 | `docs/smartbyte/products/`、`docs/smartbyte/*.md`、`data/smartbyte_官网型号索引.csv` | 可读 Markdown + 索引（由 build.py 从原始层生成，不手改） |
 | 规则层 | `docs/reference/Saga商务条款速查.md`、`docs/rules/*` | 只收会影响报价/话术/边界的结论（官网 > 价格表 > Drive） |
+
+**T15 执行实况（截至 2026-10-21 01:47 UTC，详见 README「SmartByte 官网入库」表）**
+
+| 轮次 | 版本 | 结果 |
+|---|---|---|
+| 运行 #1 | v1 | 170 min 到顶被取消（无检查点） |
+| 运行 #2 | v2 | 站点对运行器全 403，只落盘诊断 |
+| 运行 #3 | v2.1 | 页面 348/350 抓齐（2 条站内死链 404）；规格书 PHP 下载口 403；图片 0（当时不收 CDN） |
+| 运行 #4 | v2.2 | **规格书 245/245 经 base64 path 解码的站内直链成功（83 MB，244 个唯一 PDF 入库 `datasheets/`，pdftotext 文本 `datasheet_text/`）**；CDN 图片 900/1,493（164 MB，Release 附件）后 CDN 读体中断把整轮打崩（检查点完整） |
+| 运行 #5 | v2.3 | 站点对该轮运行器 IP 全 403（间歇性，按出口段封）→ 本轮未动 |
+| 运行 #6 / #7 | v2.4 / v2.4.1 | 站点被封时改探 CDN，可取则继续图片阶段（剩 591 张 CDN 图 + 2 张站内二维码图） |
+
+**整理层（`scripts/smartbyte_crawl/build.py`，bs4 + lxml，约 25 s，不手改产物）**
+- 输入：`data/smartbyte_site_raw/html/*.html` + `pages_manifest.jsonl` + `downloads_manifest.jsonl` + `data/价格主表.csv`。
+- 输出：`data/smartbyte_site/products.json`（252 个产品页逐段结构化：Overview / Features / 规格表逐行 / 订购表 / 图片 URL / 规格书链接）、`docs/smartbyte/products/<型号>.md` ×252 + `README.md` 品类索引、`data/smartbyte_官网型号索引.csv` 252 行（含官网 URL / 规格书 URL / 本地 PDF / 文本 / Saga 对应 / 三档 USD）。
+- 价格主表匹配 182/252（精确 97 + 去后缀 85），70 个型号无价 → 型号页写「询价」。
+- 规格书行：有本地文件即写 `已归档 PDF data/smartbyte_site_raw/datasheets/<名>.pdf，文本 datasheet_text/<名>.txt`。
+- 解析要点：桌面 / 移动双份正文去重；Word 粘贴的规格表 colspan / rowspan（rowspan 行首格为数字或 ≤3 字符视为多值行，否则视为子键）；7 个 White Box 页无 `span.mobile-model` 从标题取型号。
