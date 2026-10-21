@@ -1,0 +1,66 @@
+{
+ "code": "SB-1048",
+ "name_official": "Seven Stars Group（阿联酋）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sevenstarsuae.com，快照 2026-10-21）",
+ "summary": "阿联酋多元集团（租车、运输、汽修、汽配、软件与 IT 方案），Director Nibu Basheer，表内「工程商 Switch，网站看着不太相关」；WA 23 次无实质回复。IT 方案为集团副业，低优先。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "多元业务：租车、运输、汽修、汽配、软件与 IT 方案；关键词 cctv 10",
+   "quote": "Seven Stars Group of companies, has diversified business segments such as Car Rental, Transportation, Auto Garage, Auto Spare Parts, Software and IT Solutions",
+   "url": "https://sevenstarsuae.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工程商 Switch；网站看着不太相关",
+   "quote": "兴趣：工程商 Switch 网站：看着不太相关",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Nibu Basheer",
+   "title": "Director",
+   "email": "nibu@sevenstarsuae.com",
+   "phone": "+971 50 441 0530",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：行业相关性低）"
+ },
+ "company_facts": {
+  "legal_name": "Seven Stars Group",
+  "founded": "",
+  "hq": "UAE",
+  "size": "多元集团（IT 为副业）",
+  "other": ""
+ },
+ "business_lines": [
+  "IT 方案 / CCTV（副业）",
+  "租车 / 运输 / 汽配"
+ ],
+ "channels": {
+  "role": "集团 IT 部门 / 小工程",
+  "region": "阿联酋"
+ },
+ "risks": [
+  "IT 非主业；WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "通用 CCTV 配套 8 PoE 管理机。"
+ },
+ "email_hook": "（低优先；若再询再报）"
+}

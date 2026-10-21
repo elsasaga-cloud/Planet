@@ -1,6 +1,7 @@
 # Engineering Group Contractors
+**官方名称（调研核实）**：Engineering Group Contractors (EGC)（黎巴嫩；表内误归阿联酋）
 
-> **评级 B**　|　阿联酋　|　档案编号 `SB-136`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 B**　|　黎巴嫩　|　档案编号 `SB-136`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：WhatsApp 已加；推送 19 次（2024-05-10 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -8,8 +9,10 @@
 code: SB-136
 rating: B
 rating_auto: B
+name_official: "Engineering Group Contractors (EGC)（黎巴嫩；表内误归阿联酋）"
 score: 50
-country: 阿联酋
+country: 黎巴嫩
+country_table: 阿联酋  # 表内原填；调研纠正为 黎巴嫩（research JSON country_fix）
 region: 中东
 website: egc-lb.com
 type: 系统集成/工程商
@@ -19,9 +22,9 @@ replies: 0
 followups: 19
 first_contact: 2024-05-10
 last_contact: 2025-10-27
-p1: none
+p1: STI-288GPM
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +32,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋的系统集成/工程商；兴趣/在卖：1,谈了switch,着重问了30个switch环网 2，问了VC，说之前用过，不过用的基本都是视频和数据，其他的功能用的少 3，问了2光10电，基本都懂，问了BNC转网 整体上比较专业
+- **是谁**：黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。（调研 2026-10-21；表内兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC，说之前用过，不过用的基本都是视频和数据，其他的功能用的少 3，问了2光10电，基本都懂，问了BNC转网 整体上比较专业）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 19 次（2024-05-10 → 2025-10-27）
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -42,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Engineering Group Contractors | 事实（用户表） |
-| 国家 | 阿联酋 | 事实（用户表）|
+| 国家 | 黎巴嫩 | 事实（用户表）|
 | 网站/域名 | egc-lb.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Mohammad Hammoud   GM | 事实（用户表） |
@@ -64,7 +67,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-136.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（egc-lb.com，快照 2026-10-21）
+- **是谁**：黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。
+- **【官网快照】业务：防雷接地、消防报警、监控、网络设计安装、PABX、BMS；EGC Lebanon；型号 KX-TDA100D（松下 PABX）、J-NET-EN54 网络卡**
+  > Lightning, protection, safety, Security… EGC Lebanon… NETWORK DESIGN AND INSTALLATION… SURVEILLANCE AND SECURITY SYSTEMS… FIRE ALARM SYSTEMS… KX-TDA100D… J-NET-EN54-SC-003
+  > 来源：https://egc-lb.com/（抓取 2026-10-21）
+- **【用户表】谈了 switch，着重问 30 个 switch 环网；问 VC（之前用过，基本视频和数据）；问 2 光 10 电、BNC 转网，基本都懂**
+  > 兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mohammad Hammoud（）egc@egc-lb.com +961 3 317 173〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Engineering Group Contractors (EGC) |
+| 成立 | （待核） |
+| 总部/地址 | Lebanon（电话 +961 3） |
+| 其他 | 消防 / 防雷 / 弱电多线；表内国家误为阿联酋 |
+
+- **业务线**：消防报警 / 应急照明（守界：消防系统本身不供，网络配套可）；防雷接地；监控 / 网络设计安装 / PABX / BMS
+- **触达通道（公开）**：role: 弱电总包 / 集成商；region: 黎巴嫩
+- **近况信号**：
+  - 具体项目：30 台交换机环网（ERPS 工业管理机）
+  - 懂 VC / BNC 转网 → 老旧同轴改造场景（Saga 无 BNC 转网，缺口）
+- **风险/边界**：黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款；消防 / 生命安全系统守界（只供网络层）；WA 19 次无回复
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。
+- **邮件切入句（英文）**：Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +152,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mohammad Hammoud   GM | — | egc@egc-lb.com / +9613317173 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Mohammad Hammoud | — | egc@egc-lb.com / +961 3 317 173 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -139,7 +169,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-288GPM | 深挖对位：30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。 | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -148,9 +178,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -160,7 +190,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：已推送 19 次无回复，邮件通道疲劳；中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -184,12 +214,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Mohammad,
+
+Picking up our earlier exchange about PoE / industrial switches. Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

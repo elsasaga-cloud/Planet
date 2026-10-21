@@ -1,0 +1,77 @@
+{
+ "code": "SB-105",
+ "name_official": "M. Al Barghash Trading & Contracting Co. (MBTC)（沙特东部省）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（mbtc.com.sa，快照 2026-10-21，仅欢迎页）",
+ "summary": "沙特东部省 1976 年成立的 100% 沙资贸易与承包公司（关联 AAM Industrial，ei-telcomlead@ 邮箱 = 电气仪表 / 电信项目组），项目型采购；表内 Project Manager Prabhu Manickam 与 Wasi Akthar，2024-01 对 2 光 4 工业机「有用但现在没需求」，WhatsApp 24 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "1976 年成立、东部省、100% 沙资",
+   "quote": "M-AL Barghash Company was established in the year 1976 in Eastern Province of Saudi Arabia, is a 100% Saudi Owned Company.",
+   "url": "https://mbtc.com.sa/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "做项目的，问了几个产品；2024-01 2 光 4→有用但现在没需求",
+   "quote": "兴趣：做项目的 问了几个产品；回复：有用但现在没需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Prabhu Manickam",
+   "title": "Project Manager",
+   "email": "prabhu@mbtc.com.sa",
+   "phone": "+966 57 201 2594",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Wasi Akthar",
+   "title": "（E&I / Telecom lead）",
+   "email": "ei-telcomlead@aamindustrial.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "M. Al Barghash Trading & Contracting Co.",
+  "founded": "1976",
+  "hq": "Eastern Province, Saudi Arabia（Dammam/Al Khobar，待核）",
+  "size": "中型承包商",
+  "other": "关联 AAM Industrial（aamindustrial.com）"
+ },
+ "business_lines": [
+  "工业 / 油气项目承包（电气仪表、电信）",
+  "贸易"
+ ],
+ "channels": {
+  "role": "项目承包商（EPC 分包）",
+  "region": "沙特东部省（油气区）"
+ },
+ "signals": [
+  "项目型：曾问多款产品；工业 2 光 4 有用"
+ ],
+ "risks": [
+  "沙特油气项目通常要求 Aramco 认证 / 厂牌清单，白牌难入",
+  "24 次 WA 跟进无回复 → 低响应"
+ ],
+ "saga_fit": {
+  "p1": "STI-244GP",
+  "tier": 25,
+  "why": "项目工业小壳 2 光 4 PoE → STI-244GP（$36.6 @25%）；项目 25%。"
+ },
+ "email_hook": "Prabhu, when the next E&I package comes up — the 2-SFP + 4-PoE DIN unit you found useful is CE/FCC/RoHS, −40~75 ℃, ships from 1 pc; do your specs call for IEC 61850 or plain industrial grade?"
+}

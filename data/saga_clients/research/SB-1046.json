@@ -1,0 +1,69 @@
+{
+ "code": "SB-1046",
+ "name_official": "Osool Communications & Technical Systems（Ras Al Khaimah）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（osoolct.com，快照 2026-10-21）",
+ "summary": "阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "服务：监控系统、结构化布线、TV / 电话系统；+971 50 686 8944 / +971 7 244 4355；项目页",
+   "quote": "Trusted Source in IT Services And Support… Surveillance Systems… Structured Cabling… Tv System… Telephone System… Executed Projects Ongoing Projects",
+   "url": "https://osoolct.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "需求 2 光 8 电工业级网管千兆 POE FS",
+   "quote": "兴趣：2光8电工业级网管千兆POE FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hossam Ayyad",
+   "title": "（负责人 / 项目）",
+   "email": "info@osoolct.com",
+   "phone": "+971 50 686 8944",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Osool Communications & Technical Systems",
+  "founded": "（待核）",
+  "hq": "Ras Al Khaimah, UAE",
+  "size": "小型集成商",
+  "other": ""
+ },
+ "business_lines": [
+  "监控 / 弱电集成",
+  "结构化布线 / 电话 / TV 系统"
+ ],
+ "channels": {
+  "role": "弱电集成商",
+  "region": "阿联酋北部酋长国"
+ },
+ "signals": [
+  "明确口型：2 光 8 电工业管理 PoE"
+ ],
+ "risks": [
+  "WA 无回复；小型项目量"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。"
+ },
+ "email_hook": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?"
+}

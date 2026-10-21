@@ -1,0 +1,55 @@
+{
+ "code": "SB-973",
+ "name_official": "Kennedy Bulaya（赞比亚；hotmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 Cisco Switch；2025-10 DAC→price info",
+   "quote": "兴趣：Cisco Switch；回复：price info",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Kennedy Bulaya",
+   "title": "（表内联系人）",
+   "email": "dbjcontrad@hotmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核，DBJ Contractors？）",
+  "founded": "",
+  "hq": "赞比亚",
+  "size": "",
+  "other": "hotmail"
+ },
+ "channels": {
+  "role": "（疑承包商）",
+  "region": "赞比亚"
+ },
+ "risks": [
+  "要 Cisco 原装与 DAC（缺口 Q-32）；身份不明"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "Cisco / DAC 需求不在 Saga 线。"
+ },
+ "email_hook": "（不主动发送）"
+}

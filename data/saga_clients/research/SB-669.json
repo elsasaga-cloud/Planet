@@ -1,0 +1,59 @@
+{
+ "code": "SB-669",
+ "name_official": "T3K Technology Co., Ltd.（缅甸）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（hotmail）",
+ "summary": "缅甸 IT 公司 T3K（Kyaw Aung Myint，hotmail），需求工业 4 光 8 电，2024-05 对 mini 工业机「暂时没需求」；WA 19 次无实质回复；网站「不是特别相关」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "工业 4 光 8 电；网站不是特别相关；2024-05 mini→暂时没需求",
+   "quote": "兴趣：工业4光8电 网站：不是特别相关；回复：暂时没需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Kyaw Aung Myint",
+   "title": "（表内联系人）",
+   "email": "kyawam@hotmail.com",
+   "phone": "+95 979 311 4588",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "T3K Technology Co., Ltd.",
+  "founded": "",
+  "hq": "缅甸",
+  "size": "小型",
+  "other": "hotmail"
+ },
+ "channels": {
+  "role": "IT / 网络（推断）",
+  "region": "缅甸"
+ },
+ "signals": [
+  "明确口型 4 光 8 电工业"
+ ],
+ "risks": [
+  "缅甸：外汇管制 / 制裁合规（守界核最终用户）",
+  "无需求表态"
+ ],
+ "saga_fit": {
+  "p1": "STI-488GP",
+  "tier": 25,
+  "why": "工业 4 光 8 电 PoE = STI-488GP（$112.1 @25%）；非 PoE 版 STI-480GE 待核。"
+ },
+ "email_hook": "（低优先；需求出现再报）"
+}

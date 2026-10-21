@@ -1,0 +1,66 @@
+{
+ "code": "SB-1005",
+ "name_official": "Telcofusion（墨西哥；Jose Gregorio）",
+ "researched_at": "2026-10-21",
+ "website_status": "域名不可达（telcofusion.com.mx）",
+ "summary": "墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "telcofusion.com.mx 不可达",
+   "quote": "status unreachable",
+   "url": "http://telcofusion.com.mx/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 reverse POE 板子；2024-08 10G MC→4 个",
+   "quote": "兴趣：reverse POE板子；回复：4个",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jose Gregorio",
+   "title": "（表内联系人）",
+   "email": "telcofusion1@gmail.com",
+   "phone": "+52 916 105 1657",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照不可达 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Telcofusion（待核）",
+  "founded": "",
+  "hq": "墨西哥",
+  "size": "小型",
+  "other": "gmail；域名失效"
+ },
+ "channels": {
+  "role": "电信承包 / ISP 配套",
+  "region": "墨西哥"
+ },
+ "signals": [
+  "曾要 4 台 10G MC（小单可成）"
+ ],
+ "risks": [
+  "reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）",
+  "域名失效"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。"
+ },
+ "email_hook": "Jose, for the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make."
+}

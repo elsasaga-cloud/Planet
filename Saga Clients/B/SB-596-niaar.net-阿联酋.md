@@ -1,4 +1,5 @@
 # niaar.net
+**官方名称（调研核实）**：NIAAR（Niaar Industrial Procurement，Dubai）
 
 > **评级 B**　|　阿联酋　|　档案编号 `SB-596`　|　优先级 ★★　|　状态：回复暂无需求
 >
@@ -8,6 +9,7 @@
 code: SB-596
 rating: B
 rating_auto: B
+name_official: "NIAAR（Niaar Industrial Procurement，Dubai）"
 score: 37
 country: 阿联酋
 region: 中东
@@ -21,7 +23,7 @@ first_contact: 2023-11-29
 last_contact: 2025-10-27
 p1: STI-110GE
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋的经销/集成（类型待核）；兴趣/在卖：收发器
+- **是谁**：迪拜工业采购与供应平台（能源、制造、基建、海事、技术；品牌页 ABB、Advantech、Schneider、Moxa、Hikvision、Dahua；ISO 9001），Pouriya Najafabadi（伊朗裔，+971 50 858 0255）；需求收发器，2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复。采购平台 = 项目驱动、比价。（调研 2026-10-21；表内兴趣：收发器）
 - **为什么是 B 级**：+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）；最近一次客户回复：2024-01-13：暂时没需求
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-596.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（niaar.net，快照 2026-10-21）
+- **是谁**：迪拜工业采购与供应平台（能源、制造、基建、海事、技术；品牌页 ABB、Advantech、Schneider、Moxa、Hikvision、Dahua；ISO 9001），Pouriya Najafabadi（伊朗裔，+971 50 858 0255）；需求收发器，2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复。采购平台 = 项目驱动、比价。
+- **在卖/在用品牌**：Advantech, Schneider, ABB, Moxa
+- **【官网快照】工业采购平台；行业能源 / 制造 / 基建 / 海事；品牌 Advantech、Schneider、ABB、Moxa；Office 109, Al Wasl Building, SZR, Dubai；+971 4 254 0929**
+  > NIAAR connects industrial buyers with trusted brands and suppliers across energy, manufacturing, infrastructure, marine and technology sectors… Office 109, Al wasl Building, Al Wasl, Sheikh Zayed Road, Dubai
+  > 来源：https://niaar.net/（抓取 2026-10-21）
+- **【用户表】兴趣收发器；2024-01 2 光 4→暂时没需求**
+  > 兴趣：收发器；回复：暂时没需求
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Pouriya Najafabadi（）pouriya@niaar.net +971 50 858 0255〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 守界标注））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | NIAAR（待核） |
+| 成立 | （待核） |
+| 总部/地址 | Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai |
+| 其他 | ISO 9001；伊朗裔经营（注意最终用户去向，守界：不供伊朗） |
+
+- **业务线**：工业品采购 / 供应（电气、自动化、IT 通信）
+- **触达通道（公开）**：role: 采购平台 / 贸易商；region: 阿联酋 + 中东（注意再出口）
+- **近况信号**：
+  - IT 通信品类页含工业交换机 → 询价会来
+- **风险/边界**：守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户；平台比价、无品牌忠诚
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。
+- **邮件切入句（英文）**：Pouriya, for transceiver / media-converter RFQs — we quote industrial gigabit MC and DIN switches EXW within a day, with end-user and destination stated on each quote; send the next spec sheet when it comes in.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -121,6 +150,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Pouriya Najafabadi | — | pouriya@niaar.net / +971 50 858 0255 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Pouriya | — | info@niaar.net / sales@niaar.net / +971508580255 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -137,7 +167,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-110GE | 深挖对位：收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。 | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -182,7 +212,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -190,9 +219,9 @@ updated: 2026-10-21
 **主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
 
 ```text
-Hi Mr.Pouriya,
+Hi Pouriya,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Pouriya, for transceiver / media-converter RFQs — we quote industrial gigabit MC and DIN switches EXW within a day, with end-user and destination stated on each quote; send the next spec sheet when it comes in.
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

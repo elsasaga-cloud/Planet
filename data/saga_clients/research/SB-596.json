@@ -1,0 +1,74 @@
+{
+ "code": "SB-596",
+ "name_official": "NIAAR（Niaar Industrial Procurement，Dubai）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（niaar.net，快照 2026-10-21）",
+ "summary": "迪拜工业采购与供应平台（能源、制造、基建、海事、技术；品牌页 ABB、Advantech、Schneider、Moxa、Hikvision、Dahua；ISO 9001），Pouriya Najafabadi（伊朗裔，+971 50 858 0255）；需求收发器，2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复。采购平台 = 项目驱动、比价。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Advantech",
+  "Schneider",
+  "ABB",
+  "Moxa"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业采购平台；行业能源 / 制造 / 基建 / 海事；品牌 Advantech、Schneider、ABB、Moxa；Office 109, Al Wasl Building, SZR, Dubai；+971 4 254 0929",
+   "quote": "NIAAR connects industrial buyers with trusted brands and suppliers across energy, manufacturing, infrastructure, marine and technology sectors… Office 109, Al wasl Building, Al Wasl, Sheikh Zayed Road, Dubai",
+   "url": "https://niaar.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣收发器；2024-01 2 光 4→暂时没需求",
+   "quote": "兴趣：收发器；回复：暂时没需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Pouriya Najafabadi",
+   "title": "（负责人）",
+   "email": "pouriya@niaar.net",
+   "phone": "+971 50 858 0255",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 守界标注）"
+ },
+ "company_facts": {
+  "legal_name": "NIAAR（待核）",
+  "founded": "（待核）",
+  "hq": "Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai",
+  "size": "小型采购平台",
+  "other": "ISO 9001；伊朗裔经营（注意最终用户去向，守界：不供伊朗）"
+ },
+ "business_lines": [
+  "工业品采购 / 供应（电气、自动化、IT 通信）"
+ ],
+ "channels": {
+  "role": "采购平台 / 贸易商",
+  "region": "阿联酋 + 中东（注意再出口）"
+ },
+ "signals": [
+  "IT 通信品类页含工业交换机 → 询价会来"
+ ],
+ "risks": [
+  "守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户",
+  "平台比价、无品牌忠诚"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。"
+ },
+ "email_hook": "Pouriya, for transceiver / media-converter RFQs — we quote industrial gigabit MC and DIN switches EXW within a day, with end-user and destination stated on each quote; send the next spec sheet when it comes in."
+}

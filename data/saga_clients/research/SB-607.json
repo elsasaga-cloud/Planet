@@ -1,0 +1,76 @@
+{
+ "code": "SB-607",
+ "name_official": "WAN Company（WAN Networking Technology，伊拉克库尔德斯坦）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（wannt.co → wannt.krd，快照 2026-10-21）",
+ "summary": "伊拉克库尔德斯坦（苏莱曼尼亚 +964 53）ICT 供应商 WAN Company（十余年；在线商店、WAN Academy、CCTV 展厅、合作与分销页；MikroTik），CEO Sarwar Ibrahim Saeed；表内 **与 Uniview 合作 3 年、与 PLANET 合作 10 年**，需要千兆工业 PoE 4/8/16 口；WA 10 次无实质回复。PLANET 十年伙伴 = 最对口的替换 / 补充对象。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "Uniview",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "ICT 供应商十余年；在线商店 / WAN Academy / CCTV 展厅 / 合作分销页；MikroTik；+964 53 321 0465 / +964 770 436 8881",
+   "quote": "Your trusted supplier for your ICT requirements… With more than a decade… Online Store Services WAN Academy Partners CCTV Showroom… Partnering & Distribution",
+   "url": "https://wannt.krd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "需要千兆工业 POE 4/8/16 口；和 uniview 合作了三年，和 Planet 合作了 10 年",
+   "quote": "兴趣：需要千兆工业POE 4/8/16口 和uniview合作了三年，和Planet合作了10年",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Sarwar Ibrahim Saeed",
+   "title": "CEO",
+   "email": "sarwar.ibrahim@wannt.co",
+   "phone": "+964 770 436 8880",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：PLANET 十年渠道）"
+ },
+ "company_facts": {
+  "legal_name": "WAN Networking Technology Co.",
+  "founded": "约 2014（十余年）",
+  "hq": "Sulaymaniyah, Kurdistan Region, Iraq",
+  "size": "中小型 ICT 分销 / 集成（有展厅与培训）",
+  "other": "PLANET 10 年伙伴、Uniview 3 年"
+ },
+ "business_lines": [
+  "ICT 分销（网络、CCTV、MikroTik）",
+  "集成与培训（WAN Academy）"
+ ],
+ "channels": {
+  "role": "区域分销 + 集成商（PLANET 渠道）",
+  "region": "伊拉克库尔德斯坦"
+ },
+ "signals": [
+  "PLANET 十年渠道 → 对台系工业 PoE 价位熟悉，Saga 可按 PLANET 型号对价（IGS-4215-4P4T / IGS-5225-8P2S 等）",
+  "明确口型 4/8/16 口千兆工业 PoE",
+  "CEO 直接对接"
+ ],
+ "risks": [
+  "伊拉克付款：T/T 预付；库尔德地区物流经土耳其 / 迪拜",
+  "PLANET 关系深，Saga 定位为低价补充线"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "4/8/16 口千兆工业 PoE 三档 = STI-144GP / STI-288GP / STI-21616GP；主推 8 口 STI-288GP（$57.4 @20%，对位 PLANET IGS-5225-8P2S 的一半以下）；分销 20%。"
+ },
+ "email_hook": "Sarwar, as a ten-year PLANET house you know the IGS price points — our gigabit industrial PoE in 4 / 8 / 16 ports (DIN, −40~75 ℃, Marvell on the managed ones) lands at roughly half; want the three-line EXW sheet to set beside your PLANET list?"
+}

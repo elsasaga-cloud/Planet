@@ -1,0 +1,74 @@
+{
+ "code": "SB-136",
+ "name_official": "Engineering Group Contractors (EGC)（黎巴嫩；表内误归阿联酋）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（egc-lb.com，快照 2026-10-21）",
+ "summary": "黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "业务：防雷接地、消防报警、监控、网络设计安装、PABX、BMS；EGC Lebanon；型号 KX-TDA100D（松下 PABX）、J-NET-EN54 网络卡",
+   "quote": "Lightning, protection, safety, Security… EGC Lebanon… NETWORK DESIGN AND INSTALLATION… SURVEILLANCE AND SECURITY SYSTEMS… FIRE ALARM SYSTEMS… KX-TDA100D… J-NET-EN54-SC-003",
+   "url": "https://egc-lb.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "谈了 switch，着重问 30 个 switch 环网；问 VC（之前用过，基本视频和数据）；问 2 光 10 电、BNC 转网，基本都懂",
+   "quote": "兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mohammad Hammoud",
+   "title": "General Manager",
+   "email": "egc@egc-lb.com",
+   "phone": "+961 3 317 173",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩）"
+ },
+ "company_facts": {
+  "legal_name": "Engineering Group Contractors (EGC)",
+  "founded": "（待核）",
+  "hq": "Lebanon（电话 +961 3）",
+  "size": "中小型承包商",
+  "other": "消防 / 防雷 / 弱电多线；表内国家误为阿联酋"
+ },
+ "business_lines": [
+  "消防报警 / 应急照明（守界：消防系统本身不供，网络配套可）",
+  "防雷接地",
+  "监控 / 网络设计安装 / PABX / BMS"
+ ],
+ "channels": {
+  "role": "弱电总包 / 集成商",
+  "region": "黎巴嫩"
+ },
+ "signals": [
+  "具体项目：30 台交换机环网（ERPS 工业管理机）",
+  "懂 VC / BNC 转网 → 老旧同轴改造场景（Saga 无 BNC 转网，缺口）"
+ ],
+ "risks": [
+  "黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款",
+  "消防 / 生命安全系统守界（只供网络层）",
+  "WA 19 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。"
+ },
+ "email_hook": "Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?",
+ "country_fix": "黎巴嫩"
+}

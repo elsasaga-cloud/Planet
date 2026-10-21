@@ -1,0 +1,69 @@
+{
+ "code": "SB-1078",
+ "name_official": "LineNet（第比利斯）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线但空页（line-net.ge 快照无内容）",
+ "summary": "格鲁吉亚网络公司 LineNet，Giorgi Beselia（展会 Asia 4 接触：先说交换机，后说 everything），2025-05 对 4/8/16 口工业 PoE 要价后嫌贵；WA 20 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "line-net.ge 首页无内容",
+   "quote": "status ok, empty",
+   "url": "https://line-net.ge/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "展会：先说的交换机 然后说 everything；2025-05 4 8 16 口工业 PoE→price 嫌贵",
+   "quote": "兴趣：展会：先说的交换机 然后说everything；回复：price 嫌贵",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Giorgi Beselia",
+   "title": "（表内联系人）",
+   "email": "giorgi@line-net.ge",
+   "phone": "+995 555 999 562",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照空页 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "LineNet（待核）",
+  "founded": "",
+  "hq": "Georgia",
+  "size": "小型",
+  "other": "展会接触"
+ },
+ "business_lines": [
+  "网络设备 / 工程（推断）"
+ ],
+ "channels": {
+  "role": "经销 / 工程",
+  "region": "格鲁吉亚"
+ },
+ "signals": [
+  "要过 4/8/16 口工业 PoE 价格"
+ ],
+ "risks": [
+  "价格敏感（嫌贵）",
+  "WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "价格敏感 → 以最低价工业 PoE 入口 STI-144GP（$35.5 @25%）/ STI-054GP 重新报价。"
+ },
+ "email_hook": "Giorgi, you found the industrial PoE pricing high in May — the entry 1-SFP + 4-PoE DIN unit is $35 EXW and the 5-PoE $32; if a Georgian project needs 20+ pcs I can go lower. Which port count is actually needed?"
+}

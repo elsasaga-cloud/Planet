@@ -1,4 +1,5 @@
 # telcofusion.com.mx
+**官方名称（调研核实）**：Telcofusion（墨西哥；Jose Gregorio）
 
 > **评级 B**　|　墨西哥　|　档案编号 `SB-1005`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1005
 rating: B
 rating_auto: B
+name_official: "Telcofusion（墨西哥；Jose Gregorio）"
 score: 29
 country: 墨西哥
 region: 拉美
@@ -19,9 +21,9 @@ replies: 0
 followups: 15
 first_contact: 2024-03-21
 last_contact: 2025-10-06
-p1: STC-424DGGPM-280W
+p1: none
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：墨西哥的经销/集成（类型待核）；兴趣/在卖：reverse POE板子
+- **是谁**：墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。（调研 2026-10-21；表内兴趣：reverse POE板子）
 - **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 15 次（2024-03-21 → 2025-10-06）；最近一次客户回复：2024-08-14：4个
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：— — 深挖对位：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,31 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1005.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：域名不可达（telcofusion.com.mx）
+- **是谁**：墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。
+- **【官网快照】telcofusion.com.mx 不可达**
+  > status unreachable
+  > 来源：http://telcofusion.com.mx/（抓取 2026-10-21）
+- **【用户表】兴趣 reverse POE 板子；2024-08 10G MC→4 个**
+  > 兴趣：reverse POE板子；回复：4个
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jose Gregorio（）telcofusion1@gmail.com +52 916 105 1657〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Telcofusion（待核） |
+| 总部/地址 | 墨西哥 |
+| 其他 | gmail；域名失效 |
+
+- **触达通道（公开）**：role: 电信承包 / ISP 配套；region: 墨西哥
+- **近况信号**：
+  - 曾要 4 台 10G MC（小单可成）
+- **风险/边界**：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）；域名失效
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。
+- **邮件切入句（英文）**：Jose, for the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
 
@@ -103,7 +129,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jose Gregorio | — | telcofusion1@gmail.com / +9161051657 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Jose Gregorio | — | telcofusion1@gmail.com / +52 916 105 1657 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -119,7 +145,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。 | — | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -140,7 +166,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：已推送 15 次无回复，邮件通道疲劳；拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -164,31 +190,26 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Jose,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Jose, for the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

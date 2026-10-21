@@ -1,4 +1,5 @@
 # netstar.in
+**官方名称（调研核实）**：Netstar（Ahmedabad，印度）
 
 > **评级 B**　|　印度　|　档案编号 `SB-1083`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1083
 rating: B
 rating_auto: B
+name_official: "Netstar（Ahmedabad，印度）"
 score: 27
 country: 印度
 region: 南亚
@@ -21,7 +23,7 @@ first_contact: 2024-04-22
 last_contact: 2025-06-21
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的经销/集成（类型待核）；兴趣/在卖：商业POE POE配件
+- **是谁**：印度艾哈迈达巴德 ISP/WISP/IT/电信产品与家庭自动化安防供应商（自有编号 NS-8G-RP、NS-RP071P-OD 反向 PoE / 室外 PoE 产品，RP-2U），switch@netstar.in；需求商用 PoE + PoE 配件；WA 13 次无实质回复。（调研 2026-10-21；表内兴趣：商业POE POE配件）
 - **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 13 次（2024-04-22 → 2025-06-21）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,38 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1083.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（netstar.in，快照 2026-10-21）
+- **是谁**：印度艾哈迈达巴德 ISP/WISP/IT/电信产品与家庭自动化安防供应商（自有编号 NS-8G-RP、NS-RP071P-OD 反向 PoE / 室外 PoE 产品，RP-2U），switch@netstar.in；需求商用 PoE + PoE 配件；WA 13 次无实质回复。
+- **【官网快照】ISP/WISP/IT/电信产品 + 家庭自动化安防；型号 NS-RP071P-OD、NS-8G-RP、RP-2U、SPG01；关键词 poe 38 / switch 38；+91 79 2676 4812**
+  > Welcome to ISP / WISP / IT / Telecom Products & Solutions Home Automation / Security Products & Solutions… models NS-RP071P-OD, NS-8G-RP, RP-2U
+  > 来源：https://www.netstar.in/（抓取 2026-10-21）
+- **【用户表】商业 POE、POE 配件**
+  > 兴趣：商业POE POE配件
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（交换机采购）（）switch@netstar.in +91 96876 88966〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Netstar（待核） |
+| 总部/地址 | Ahmedabad, Gujarat, India |
+| 其他 | 反向 PoE / 室外 PoE 产品线 |
+
+- **业务线**：ISP/WISP 产品（反向 PoE、PoE 配件、交换机）；家庭自动化 / 安防
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Netstar | NS-8G-RP / NS-RP071P-OD | 反向 PoE 交换机 / 室外 PoE | Saga 无反向 PoE（缺口 Q-32）；商用 PoE STC-28DGGPM 对位 | https://www.netstar.in/（2026-10-21） |
+
+- **触达通道（公开）**：role: ISP 产品供应商（自有编号 → OEM 可能）；region: 印度（古吉拉特）
+- **近况信号**：
+  - 自有编号产品 → 贴牌采购方（商用 PoE 可贴 NS- 标）
+  - 专设 switch@ 采购邮箱
+- **风险/边界**：反向 PoE 主品 Saga 无；WA 无回复；印度低价
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。
+- **邮件切入句（英文）**：For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +155,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28DGGPM | 深挖对位：商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -167,7 +200,6 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -177,9 +209,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Netstar NS-8G-RP / NS-RP071P-OD at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

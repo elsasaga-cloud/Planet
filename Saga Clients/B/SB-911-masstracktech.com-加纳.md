@@ -1,4 +1,5 @@
 # masstracktech.com
+**官方名称（调研核实）**：Masstrack Technologies（加纳）
 
 > **评级 B**　|　加纳　|　档案编号 `SB-911`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-911
 rating: B
 rating_auto: B
+name_official: "Masstrack Technologies（加纳）"
 score: 31
 country: 加纳
 region: 非洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 19
 first_contact: 2023-11-29
 last_contact: 2025-10-06
-p1: STC-448DGGPM
+p1: STI-154GP
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加纳的系统集成/工程商；兴趣/在卖：公司:物流运输 聊天: 说自己是工程师 谈了MC
+- **是谁**：加纳物流运输公司 Masstrack（David Opoku Akoto 自称工程师），谈过 MC，2024-08 对 4/8 口工业 PoE 回复「154」（疑指 1 光 5 电 4 PoE 口型）；WA 19 次无实质回复；域名停用。（调研 2026-10-21；表内兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC）
 - **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/加纳；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 19 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-08-17：154
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-154GP — 深挖对位：回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。；$39.2 USD EXW（25% 档，SmartByte LT-IS3006GP-1GT1GX4GT 210 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,29 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-911.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：域名停用（masstracktech.com「Account Suspended」）
+- **是谁**：加纳物流运输公司 Masstrack（David Opoku Akoto 自称工程师），谈过 MC，2024-08 对 4/8 口工业 PoE 回复「154」（疑指 1 光 5 电 4 PoE 口型）；WA 19 次无实质回复；域名停用。
+- **【官网快照】masstracktech.com 账户停用**
+  > title: Account Suspended
+  > 来源：http://masstracktech.com/（抓取 2026-10-21）
+- **【用户表】公司：物流运输；聊天说自己是工程师，谈了 MC；2024-08 4 8 口工业 PoE→154**
+  > 兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：David Opoku Akoto（）info@masstracktech.com +233 20 648 5957〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照停用 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Masstrack Technologies（待核） |
+| 总部/地址 | 加纳 |
+| 其他 | 物流 / 车队跟踪（推断）；域名停用 |
+
+- **触达通道（公开）**：role: 行业外 / 自用（物流 IT）；region: 加纳
+- **风险/边界**：域名停用；行业外；西非付款
+- **Saga 对位结论**：P1 STI-154GP（25% 档）——回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。
+- **邮件切入句（英文）**：（低优先；若再询再报）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -107,7 +131,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| David Opoku Akoto | — | info@masstracktech.com / +2330206485957 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| David Opoku Akoto | — | info@masstracktech.com / +233 20 648 5957 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -123,7 +147,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-154GP | 深挖对位：回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。 | $39.2 USD EXW（25% 档，SmartByte LT-IS3006GP-1GT1GX4GT 210 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -132,9 +156,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-154GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-154GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -144,7 +168,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：已推送 19 次无回复，邮件通道疲劳；非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-448DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-154GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -168,30 +192,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi David,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. （低优先；若再询再报）
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $321.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

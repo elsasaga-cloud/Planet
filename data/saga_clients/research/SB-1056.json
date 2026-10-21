@@ -1,0 +1,70 @@
+{
+ "code": "SB-1056",
+ "name_official": "Al Shuaib Control Equipments L.L.C（Ras Al Khaimah）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（alshuaib.ae，快照 2026-10-21）",
+ "summary": "阿联酋 RAK 弱电集成商（CCTV 安装测试、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲），Vijith（业务拓展）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "服务：CCTV、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲；+971 7 236 5697/8",
+   "quote": "CCTV SYSTEMS… CCTV Installation, Testing & Commissioning… Home Automation… Structured Cabling… Access Control System Building Management System PA SYSTEM IPTV/SMATV Intercom System",
+   "url": "https://alshuaib.ae/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 HDMI 延长器 工业 FS",
+   "quote": "兴趣：HDMI 延长器 工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Vijith",
+   "title": "Business Development",
+   "email": "vijith@alshuaib.ae",
+   "phone": "+971 55 236 1122",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Al Shuaib Control Equipments L.L.C",
+  "founded": "（待核）",
+  "hq": "Ras Al Khaimah, UAE",
+  "size": "小型集成商",
+  "other": ""
+ },
+ "business_lines": [
+  "CCTV / 门禁 / BMS 集成",
+  "结构化布线 / IPTV / PA"
+ ],
+ "channels": {
+  "role": "弱电集成商",
+  "region": "阿联酋北部酋长国"
+ },
+ "signals": [
+  "工业 FS 需求（CCTV 室外柜场景）"
+ ],
+ "risks": [
+  "HDMI 延长器 Saga 无（缺口）",
+  "WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。"
+ },
+ "email_hook": "Vijith, we don't carry HDMI extenders — but for the camera cabinets, the DIN-rail 8-PoE + 2-SFP (−40~75 ℃, 6 kV surge) is $60 EXW at 1 pc; want the sheet for your next RAK villa / plant job?"
+}

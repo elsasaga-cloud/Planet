@@ -1,0 +1,71 @@
+{
+ "code": "SB-572",
+ "name_official": "ALTVISION (22opt.ru，巴尔瑙尔)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（22opt.ru，快照 2026-10-21，俄语）",
+ "summary": "俄罗斯巴尔瑙尔（阿尔泰边疆区，+7 3852）安防系统批发网店（IP 摄像机、NVR、PoE 交换机品类页、Wi-Fi 网桥；8-800 热线），Gorodilov Pavel；需求工业级 PoE 交换机，问过 GPON（Saga 无）；WA 21 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "安防系统批发 + 网店；PoE 交换机品类；关键词 poe 107 / camera 46 / switch 24；+7 (3852) 99-79-59、8-800-700-10-76；zakaz@22opt.ru",
+   "quote": "ALTVISION - поставщик систем безопасности в Российской Федерации… /catalog/kommutatory_poe_/… +7 (3852) 99‒79‒59 8-800-700-10-76",
+   "url": "https://22opt.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业级 POE switch，问了 Gpon",
+   "quote": "兴趣：工业级POE switch 问了Gpon",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Gorodilov Pavel (Городилов Павел)",
+   "title": "（表内联系人）",
+   "email": "22opt@mail.ru",
+   "phone": "+7 983 177 0188",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "（待核，ООО «Алтвижен»）",
+  "founded": "",
+  "hq": "Барнаул, Алтайский край, Россия",
+  "size": "中小型安防批发 / 网店",
+  "other": "8-800 全俄热线"
+ },
+ "business_lines": [
+  "视频监控批发 / 网店",
+  "PoE 交换机 / 无线网桥 / 门禁"
+ ],
+ "channels": {
+  "role": "区域批发商 + 网店",
+  "region": "俄罗斯（西伯利亚）"
+ },
+ "signals": [
+  "PoE 交换机为其品类 → 工业 PoE 可上架",
+  "全俄热线 → 批发规模"
+ ],
+ "risks": [
+  "俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）",
+  "GPON 需求不供"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。"
+ },
+ "email_hook": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?"
+}
