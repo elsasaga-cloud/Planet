@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（parked_or_empty）",
- "summary": "加拿大经销/集成（类型待核，无官网快照）：官网快照失败（parked_or_empty）；表内「也有光路的工业FS」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。",
+ "type": "多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "光路"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -14,38 +16,61 @@
    "quote": "也有光路的工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Lendoux 定位",
+   "quote": "Lendoux Specialized Store offers the most comprehensive collection of data center equipment, telecommunication networks, security systems, and industrial instrumentation",
+   "url": "https://lendoux.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "也有光路的工业 FS",
+   "quote": "也有光路的工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Rasel Haddadi",
+   "title": "CEO",
+   "email": "info@lendoux.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 lendoux.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "数据中心 / 电信 / 安防 / 工业仪表多品牌商店（加拿大）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）",
   "region": "加拿大",
   "contact": "info@lendoux.com"
  },
  "signals": [
-  "用户表兴趣/备注：也有光路的工业FS"
+  "官网：Lendoux Specialized Store offers the most comprehensive collection of data center equipment, telecommunication networks, security systems, and industrial instrumentation from reputable global brands；站内 DCS810-AS9516-32D / MSN4410-WS2FC",
+  "表内：也有光路的工业 FS；KP Rasel Haddadi / CEO 未显示邮箱"
  ],
  "risks": [
-  "官网停放/空站（快照 2026-10-21）：疑似停业或换域名，发前核实"
+  "快照 parked_or_empty（经营状态待核）；CEO 邮箱未显示（仅 info@）；现供光路价格基准低"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）"
  },
- "email_hook": "Rasel, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Rasel, alongside the brands in your industrial networking category, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and 24-GE + 4×10G L2+ from single units, FCC/CE/RoHS, EXW USD — which industrial switch SKU do your customers order most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dnaelektro.cz，快照 2026-10-21）",
- "summary": "捷克网络/安防经销或集成（官网未见角色词，待核）：官网「Úvodní stránka | DNA Elektro」（cs）；品类词：网络交换 / PoE；站内型号：SPS54B、BP-150、MPT-142、BT77-WH；表内「外壳比较杂」；群发 8 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "捷克 DNA Elektro（电子产品网店：网络路由器与交换机、PoE 网络组件、游戏外设等；表内「外壳比较杂」「可以尝试多跟进一下」）；群发 8 次无回复。",
+ "type": "电子产品网店（捷克）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -28,6 +28,20 @@
    "quote": "DNA Elektro",
    "url": "https://www.dnaelektro.cz/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "DNA Elektro 分类页",
+   "quote": "Úvodní stránka | DNA Elektro ; /site/sitove-komponenty/poe-sitove-komponenty/",
+   "url": "https://www.dnaelektro.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "外壳比较杂",
+   "quote": "外壳比较杂；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -36,30 +50,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "捷克",
   "other": "官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "电子 / 网络产品网店（捷克）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "电子产品网店（捷克）",
   "region": "捷克",
   "contact": "info@dnaelektro.cz"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dnaelektro.cz/）",
-  "官网公开邮箱：info@dnaelektro.cz",
-  "用户表兴趣/备注：外壳比较杂"
+  "页面 /pocitace-a-kancelarska-technika/site/sitove-routery-a-switche/lan-routery/、/site/sitove-komponenty/poe-sitove-komponenty/；kw ubiquiti 1",
+  "表内：外壳比较杂；可以尝试多跟进一下"
  ],
- "risks": [],
+ "risks": [
+  "综合电子网店（白牌契合度待核）；8 次无回复，仅 info@"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches in your networking category, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count sells most in your Czech shop?"
 }

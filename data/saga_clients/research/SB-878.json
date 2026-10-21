@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（worldstarsecuritycameras.com，快照 2026-10-21）",
- "summary": "美国网络/安防经销或集成（官网未见角色词，待核）：官网「worldstarsecuritycameras.com」；表内「商业PoE 新桥的」；群发 18 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "美国 WorldStar Security Cameras / WorldStar CCTV（CCTV 经销；表内「商业 PoE 新桥的」；KP Rolf Vilaire（BD）；官网快照空）；群发 18 次无回复。",
+ "type": "CCTV 经销商（美国，PoE 现新桥）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "新桥"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,39 +23,54 @@
    "quote": "商业PoE 新桥的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 新桥的",
+   "quote": "商业PoE 新桥的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Rolf Vilaire",
+   "title": "BD",
+   "email": "rv@worldstarcctv.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "CCTV / 安防产品经销（美国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "CCTV 经销商（美国，PoE 现新桥）",
   "region": "美国",
   "contact": "sales@worldstarcctv.com、rv@worldstarcctv.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://worldstarsecuritycameras.com/）",
-  "用户表兴趣/备注：商业PoE 新桥的"
+  "表内：商业 PoE 新桥的；KP Rolf Vilaire / BD",
+  "快照：内容为空"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Rolf, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Rolf, for the PoE switches you sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your dealer customers order most?"
 }

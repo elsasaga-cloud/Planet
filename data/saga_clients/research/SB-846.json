@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（lanode.com，快照 2026-10-21）",
- "summary": "英国网络/安防经销或集成（官网未见角色词，待核）：官网「don4L's hobbies」（en）；站内型号：SH2-101、NGC1893、NGC2238、NGC2239；表内「MC VC 串口 工业FS 10GMC 大口FS Transition和CTCU的较多；https://www.lanode.co.uk/optical-tra」；群发 19 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "英国 Lanode（lanode.co.uk：光通信/数据通信分销——MC、VC、串口、工业 FS、10G MC、大端口 FS、C/DWDM 复用器；Transition Networks 与 CTC Union 为主，bypass 用 CTC Union；KP Donal McDonnell；lanode.com 快照为个人天文摄影站（域名误判，待重抓））；群发 19 次无回复。",
+ "type": "光/数据通信分销商（英国，Transition/CTC Union）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Transition Networks",
+  "CTC Union"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,39 +24,62 @@
    "quote": "MC VC 串口 工业FS 10GMC 大口FS Transition和CTCU的较多；https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Transition/CTCU 较多；bypass CTCU",
+   "quote": "MC VC 串口 工业FS 10GMC 大口FS Transition和CTCU的较多；bypass用的CTCU的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "lanode.co.uk 产品页",
+   "quote": "optical-transport/c-dwdm-multiplexers",
+   "url": "https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Donal McDonnell",
+   "title": "（职务待核）",
+   "email": "donal@lanode.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 lanode.com，语言 en，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "光通信 / 数据通信产品分销（英国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "光/数据通信分销商（英国，Transition/CTC Union）",
   "region": "英国",
   "contact": "sales@lanode.com、donal@lanode.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://lanode.com/）",
-  "用户表兴趣/备注：MC VC 串口 工业FS 10GMC 大口FS Transition和CTCU的较多；https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers"
+  "表内：MC VC 串口 工业 FS 10GMC 大口 FS Transition 和 CTCU 的较多；bypass 用的 CTCU 的；备注 https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers；KP Donal McDonnell",
+  "快照：Home | don4L’s hobbies（与实体不符）"
  ],
  "risks": [
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "快照域名误判（lanode.com 为个人站，实际 lanode.co.uk 待重抓）；品牌分销导向（Transition/CTCU 粘性）；10G MC/C-DWDM/串口需求 Saga 不供；19 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "MC/工业 FS（现 Transition/CTCU）→ 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业 8 GE + 2 SFP STI-280GE（$46.6）、24 GE + 4×10G STC-424XGGM（$127.4）；10G MC/C-DWDM/串口 Saga 不供"
  },
- "email_hook": "Donal, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Donal, alongside the Transition Networks and CTC Union lines you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based DIN-rail 8-GE + 2 SFP managed switches from single units, CE/RoHS/UKCA, EXW USD — is there a budget MC or industrial switch position your customers ask for below the branded lines?",
+ "site_mismatch": true
 }

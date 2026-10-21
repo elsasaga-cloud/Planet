@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（galaxysecurity.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「Galaxy Security」（en）；产品页：sitemap_products_1.xml?from=100928294423、sitemap_products_2.xml?from=100928866880、sitemap_products_3.xml?from=100929667074、sitemap_products_4.xml?from=105041093921；表内「商业PoE 店铺形式的 卖的有点杂」；群发 19 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 Galaxy Security（CCTV、IP 摄像机、对讲、门机、门禁等安防网店；表内「商业 PoE，店铺形式的，卖的有点杂」；KP Annie Chen（CEO）、Sven Liang（Branch Manager））；群发 19 次无回复。",
+ "type": "安防网店/分销（美国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,68 @@
    "quote": "商业PoE 店铺形式的 卖的有点杂",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Galaxy Security 定位",
+   "quote": "Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators,Access Control & More",
+   "url": "https://www.galaxysecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 店铺形式",
+   "quote": "商业PoE 店铺形式的 卖的有点杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Annie Chen",
+   "title": "CEO",
+   "email": "annie@galaxysecurity.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Sven Liang",
+   "title": "Branch Manager",
+   "email": "info@galaxysecurity.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 galaxysecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "CCTV / 对讲 / 门禁安防网店（美国）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防网店/分销（美国）",
   "region": "美国",
   "contact": "info@galaxysecurity.com、annie@galaxysecurity.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.galaxysecurity.com/）",
-  "官网公开邮箱：info@galaxysecurity.com",
-  "用户表兴趣/备注：商业PoE 店铺形式的 卖的有点杂"
+  "官网：Galaxy Security | CCTV, IP Cameras, Video Surveillance Devices, Intercoms, Door Operators, Access Control & More",
+  "表内：商业 PoE 店铺形式的 卖的有点杂；KP Annie Chen / CEO；Sven Liang / Branch Manager"
  ],
  "risks": [
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "店铺式经营、品类杂（白牌契合度待核）；19 次无回复 → 改向 CEO 具名首触"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Annie, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　塞尔维亚　|　档案编号 `SB-843`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电信工程/集成商（塞尔维亚，bypass 模块订单）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-843
@@ -12,14 +12,14 @@ score: 32
 country: 塞尔维亚
 region: 欧洲
 website: kbvdatacom.rs
-type: 系统集成/工程商
+type: 电信工程/集成商（塞尔维亚，bypass 模块订单）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: none
+p1: STI-280GE
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：塞尔维亚系统集成/工程商：官网「KBV DATACOM | Projektovanje i inženjering | Početna」（sr-yu）；表内「Bypass模块 / from: 阿里巴巴RTS订单」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：塞尔维亚 KBV Datacom（区域电信网络设计、咨询与建设工程领先企业：光纤基础设施、设计、安防系统、电力系统；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（gmail））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）；—
+- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | kbvdatacom.rs（取自域名，公司全名待核） | 推断 |
 | 国家 | 塞尔维亚 | 事实（用户表）|
 | 网站/域名 | kbvdatacom.rs | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 电信工程/集成商（塞尔维亚，bypass 模块订单） | 推断（据兴趣/备注关键词） |
 | 联系人 | Dusan Ponjavic | 事实（用户表） |
 | 来源（From） | 2025.11.30 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,31 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（kbvdatacom.rs，快照 2026-10-21）
-- **是谁**：塞尔维亚系统集成/工程商：官网「KBV DATACOM | Projektovanje i inženjering | Početna」（sr-yu）；表内「Bypass模块 / from: 阿里巴巴RTS订单」；表内未见跟进记录。
-- **类型**：系统集成/工程商
+- **是谁**：塞尔维亚 KBV Datacom（区域电信网络设计、咨询与建设工程领先企业：光纤基础设施、设计、安防系统、电力系统；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（gmail））；表内未跟进。
+- **类型**：电信工程/集成商（塞尔维亚，bypass 模块订单）
 - **【官网快照】官网标题：KBV DATACOM | Projektovanje i inženjering | Početna**
   > KBV DATACOM je lider u regionu u oblasti projektovanja, konsaltinga i izgradnje telekomunikacionih mreža i sistema i inženjeringa u oblasti telekomunikacija.
   > 来源：http://www.kbvdatacom.rs/sr/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > Bypass模块 / from: 阿里巴巴RTS订单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】KBV 定位**
+  > KBV DATACOM | Projektovanje i inženjering ; lider u regionu u oblasti projektovanja, konsaltinga i izgradnje telekomunikacionih mreža
+  > 来源：http://www.kbvdatacom.rs/sr/（抓取 2026-10-21）
+- **【用户表】Bypass 模块 RTS 订单**
+  > Bypass模块 / from: 阿里巴巴RTS订单
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Dušan Ponjavić（）dponjavic@gmail.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 塞尔维亚 |
 | 其他 | 官网 kbvdatacom.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 系统集成/工程商；region: 塞尔维亚；contact: dponjavic@gmail.com
+- **业务线**：电信网络设计 / 建设 / 安防 / 电力系统（塞尔维亚）
+- **触达通道（公开）**：role: 电信工程/集成商（塞尔维亚，bypass 模块订单）；region: 塞尔维亚；contact: dponjavic@gmail.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，http://www.kbvdatacom.rs/sr/）
-  - 官网公开邮箱：office@kbvdatacom.com、office@kbvdatacom.me、office@kbvdatacom.rs
-  - 用户表兴趣/备注：Bypass模块 / from: 阿里巴巴RTS订单
-- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）
-- **邮件切入句（英文）**：Dusan, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+  - 官网：KBV DATACOM je lider u regionu u oblasti projektovanja, konsaltinga i izgradnje telekomunikacionih mreža ; Optička infrastruktura ; Sistemi obezbeđenja ; Elektroenergetski sistemi
+  - 表内：Bypass 模块 / from: 阿里巴巴 RTS 订单；KP Dusan Ponjavic；dponjavic@gmail.com
+- **风险/边界**：小国（塞尔维亚，非主动开拓区）；联系邮箱为 gmail 免费邮箱（实体待核）；bypass 模块品类 Saga 不供
+- **Saga 对位结论**：P1 STI-280GE（25% 档）——bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
+- **邮件切入句（英文）**：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -113,6 +120,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Dušan Ponjavić | — | dponjavic@gmail.com | 调研核实（公开页） | 用户表 |
 | Dusan Ponjavic | — | dponjavic@gmail.com / +381665000484 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -129,7 +137,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%） | — | 深挖对位；档位 25%（系统集成/工程商） |
+| **P1** | STI-280GE | 深挖对位：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2） | $48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（电信工程/集成商（塞尔维亚，bypass 模块订单）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -138,9 +146,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -150,7 +158,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-280GE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -182,9 +190,9 @@ updated: 2026-10-21
 **主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Dusan,
+Hi Dušan,
 
-Picking up our earlier exchange about PoE / industrial switches. Dusan, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

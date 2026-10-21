@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（digitclik.it，快照 2026-10-21）",
- "summary": "意大利分销商/经销商：官网「Viras」（sl）；表内「销售平台 工业FS 周边产品 像是国内的工商业switch」；群发 15 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "意大利 Digitclik（digitclik.it / digitclik.com：销售平台型网店，工业 FS 与周边产品，「像是国内的工商业 switch」；表内「可以尝试多跟进一下」；快照为斯洛文尼亚语「Stran v izdelavi」建设中页（域名/站点待核））；群发 15 次无回复。",
+ "type": "网络产品网店（意大利，站点待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,13 @@
    "quote": "销售平台 工业FS 周边产品 像是国内的工商业switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "销售平台 工业 FS 国内工商业 switch",
+   "quote": "销售平台 工业FS 周边产品 像是国内的工商业switch；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +36,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 digitclik.it，语言 sl，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络产品网店 / 销售平台（意大利）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "网络产品网店（意大利，站点待核）",
   "region": "意大利",
   "contact": "info@digitclik.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.viras.si）",
-  "官网公开邮箱：info@viras.si",
-  "用户表兴趣/备注：销售平台 工业FS 周边产品 像是国内的工商业switch"
+  "快照：Viras ; Stran v izdelavi ... ; KONTAKT:",
+  "表内：销售平台 工业 FS 周边产品 像是国内的工商业 switch；可以尝试多跟进一下"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?"
 }
