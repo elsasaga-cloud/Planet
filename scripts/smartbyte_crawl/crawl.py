@@ -844,10 +844,11 @@ def main():
     img_stop = None
     n_new_img = 0
     img_blocked = blocked
-    if blocked and todo_img and all(CDN_CONTENT_RE.match(u) for u, _ in todo_img):
-        # v2.4：站点封了运行器，但 CDN（gcdn.meidianbang.cn）是另一套；探一张能取就继续
+    cdn_todo = [u for u, _ in todo_img if CDN_CONTENT_RE.match(u)]
+    if blocked and cdn_todo:
+        # v2.4：站点封了运行器，但 CDN（gcdn.meidianbang.cn）是另一套；探一张能取就继续（站内图本轮跳过）
         try:
-            rp = S.get(todo_img[0][0], timeout=60, headers={"Referer": "https://www.smartbyte-switch.com/", "Accept": "image/*,*/*;q=0.8"})
+            rp = S.get(cdn_todo[0], timeout=60, headers={"Referer": "https://www.smartbyte-switch.com/", "Accept": "image/*,*/*;q=0.8"})
             body = rp.content if rp.status_code == 200 else b""
             if len(body) > 0:
                 img_blocked = False
@@ -857,10 +858,14 @@ def main():
                 log(f"site blocked and CDN probe → {rp.status_code} ({len(body)} B); images phase skipped")
         except Exception as e:  # noqa: BLE001
             log(f"site blocked and CDN probe failed: {e.__class__.__name__}; images phase skipped")
+    skipped_site_img = 0
     for i, (u, meta) in enumerate(todo_img):
         if img_blocked or banned():
-            img_stop = f"blocked ({len(todo_img) - i} left) → resume later"
+            img_stop = f"blocked ({len(todo_img) - i + skipped_site_img} left) → resume later"
             break
+        if blocked and not CDN_CONTENT_RE.match(u):
+            skipped_site_img += 1  # 站点被封：站内图留到下轮
+            continue
         rec = {"url": u, "alt": meta["alt"], "found_on": sorted(set(meta["found_on"]))[:20],
                "found_on_count": meta.get("n", len(meta["found_on"])), "run": RUN_ID, "status": None, "file": None, "bytes": None, "sha256": None}
         if total > MAX_IMAGE_MB * 1e6:
@@ -898,7 +903,7 @@ def main():
             log(f"images {i + 1}/{len(todo_img)} {total / 1e6:.0f} MB elapsed {elapsed() / 60:.1f} min")
             write_jsonl(p_img, img_rows)
     if img_stop is None:
-        img_stop = "complete"
+        img_stop = "complete" if not skipped_site_img else f"blocked ({skipped_site_img} site-hosted left, CDN done) → resume later"
     write_jsonl(p_img, img_rows)
     log(f"images stop: {img_stop}; ok {sum(1 for d in img_rows if d['file'])}/{len(img_rows)} (+{n_new_img} this run), {total / 1e6:.1f} MB this run")
 
