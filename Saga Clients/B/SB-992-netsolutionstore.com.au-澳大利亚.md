@@ -2,7 +2,7 @@
 
 > **评级 B**　|　澳大利亚　|　档案编号 `SB-992`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 7 次（2025-05-27 → 2025-11-05）　|　**所在清单**：A优质名单(AU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：Extreme Networks 专营网店（澳洲）（推断）　|　**历史关系**：推送 7 次（2025-05-27 → 2025-11-05）　|　**所在清单**：A优质名单(AU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-992
@@ -12,15 +12,15 @@ score: 29
 country: 澳大利亚
 region: 亚太
 website: netsolutionstore.com.au
-type: 系统集成/工程商
+type: Extreme Networks 专营网店（澳洲）
 tier_tags: ["A优质名单(AU)"]
 deal: no
 replies: 0
 followups: 7
 first_contact: 2025-05-27
 last_contact: 2025-11-05
-p1: STI-288GP
-price_tier: 25%
+p1: STC-424XGGM
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：澳大利亚系统集成/工程商：官网「Extreme Networks Products & Solutions | NetSolutionStore.com.au」（en-au）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Extreme；站内型号：QSFP28、AP7562、AP650X、AP650；表内「主要卖Extreme network的」；群发 7 次、无回复。（调研 2026-10-21；表内兴趣：主要卖Extreme network的）
+- **是谁**：澳大利亚 NetSolutionStore.com.au（Extreme Networks 专营网店：AP / 交换机 / 云网络全系列；表内「主要卖 Extreme Network 的」）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：主要卖Extreme network的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-05-27 → 2025-11-05）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：官网快照对位：工业/自动化词频 23、PoE 102 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | netsolutionstore.com.au（取自域名，公司全名待核） | 推断 |
 | 国家 | 澳大利亚 | 事实（用户表）|
 | 网站/域名 | netsolutionstore.com.au | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | Extreme Networks 专营网店（澳洲） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 主要卖Extreme network的 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（netsolutionstore.com.au，快照 2026-10-21）
-- **是谁**：澳大利亚系统集成/工程商：官网「Extreme Networks Products & Solutions | NetSolutionStore.com.au」（en-au）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Extreme；站内型号：QSFP28、AP7562、AP650X、AP650；表内「主要卖Extreme network的」；群发 7 次、无回复。
-- **类型**：系统集成/工程商
+- **是谁**：澳大利亚 NetSolutionStore.com.au（Extreme Networks 专营网店：AP / 交换机 / 云网络全系列；表内「主要卖 Extreme Network 的」）；群发 7 次无回复。
+- **类型**：Extreme Networks 专营网店（澳洲）
 - **在卖/在用品牌**：Extreme
 - **【官网快照】官网标题：Extreme Networks Products & Solutions | NetSolutionStore.com.au；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE**
   > NetSolutionStore.com.au stocks the full range of Extreme Networks wireless access points, switches, and cloud networking solutions. Call us Today! (02) 9388 1741.
@@ -64,23 +64,29 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 主要卖Extreme network的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Extreme Networks 全系列库存**
+  > NetSolutionStore.com.au stocks the full range of Extreme Networks wireless access points, switches, and cloud networking solutions.
+  > 来源：https://www.netsolutionstore.com.au/（抓取 2026-10-21）
+- **【用户表】主要卖 Extreme 的**
+  > 主要卖Extreme network的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 澳大利亚 |
 | 其他 | 官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；数据中心 / 企业 IT；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 系统集成/工程商；region: 澳大利亚；contact: sales@netsolutionstore.com.au
+- **业务线**：Extreme Networks 产品专营
+- **触达通道（公开）**：role: Extreme Networks 专营网店（澳洲）；region: 澳大利亚；contact: sales@netsolutionstore.com.au
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.netsolutionstore.com.au/）
-  - 用户表兴趣/备注：主要卖Extreme network的
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288GP（25% 档）——官网快照对位：工业/自动化词频 23、PoE 102 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Extreme lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 官网：stocks the full range of Extreme Networks wireless access points, switches, and cloud networking
+  - 栏目 /Switches.php、/Access-Edge-Switches.php、/Aggregation-Switches.php
+- **风险/边界**：Extreme 专营店：白牌契合度低，预期低；非主攻区（T5）；RCM 合规由客户申报；仅 sales@
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位
+- **邮件切入句（英文）**：Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -144,20 +150,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：官网快照对位：工业/自动化词频 23、PoE 102 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGM | 深挖对位：Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位 | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（Extreme Networks 专营网店（澳洲）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -165,7 +171,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Extreme：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Extreme：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -199,7 +205,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the Extreme lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

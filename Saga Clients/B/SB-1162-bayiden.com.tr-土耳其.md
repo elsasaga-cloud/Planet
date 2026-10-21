@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-1162`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电子综合网店（土耳其，在售 PowerMaster PoE）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1162
@@ -12,7 +12,7 @@ score: 25
 country: 土耳其
 region: 土耳其
 website: bayiden.com.tr
-type: 分销商/批发商
+type: 电子综合网店（土耳其，在售 PowerMaster PoE）
 tier_tags: ["群发(富通天下)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其分销商/批发商：官网「Bayiden - Teknolojinin Bayisi」（tr）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：MR25GA、HT-2835、HT-3903、HT-3902；表内「商业POE」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：商业POE）
+- **是谁**：土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：商业POE）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | bayiden.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | bayiden.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | 电子综合网店（土耳其，在售 PowerMaster PoE） | 推断（据兴趣/备注关键词） |
 | 联系人 | 很多种外壳 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE | 事实（用户表） |
@@ -55,31 +55,44 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（bayiden.com.tr，快照 2026-10-21）
-- **是谁**：土耳其分销商/批发商：官网「Bayiden - Teknolojinin Bayisi」（tr）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：MR25GA、HT-2835、HT-3903、HT-3902；表内「商业POE」；表内未见跟进记录。
-- **类型**：分销商/批发商
+- **是谁**：土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。
+- **类型**：电子综合网店（土耳其，在售 PowerMaster PoE）
+- **在卖/在用品牌**：PowerMaster
 - **【官网快照】官网标题：Bayiden - Teknolojinin Bayisi；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden&#39;de. Hızlı kargo fırsatları ile teknoloji kapınızda.
   > 来源：https://www.bayiden.com.tr/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】土耳其电子综合网店**
+  > Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden’de.
+  > 来源：https://www.bayiden.com.tr/（抓取 2026-10-21）
+- **【用户表】商业 PoE，很多种外壳**
+  > 商业POE；很多种外壳
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 bayiden.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/批发商；region: 土耳其；contact: info@bayiden.com.tr
+- **业务线**：电子综合网店（音响 / 安防 / 电脑 / LED / 元件）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PowerMaster | POE8-2 96W | 8×100M PoE + 2 上联 96W | STC-028GFP（HRUI 列表价 $17.6，非 SmartByte） | https://www.bayiden.com.tr/powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch（2026-10-21） |
+| PowerMaster | POE24FE-2GE-1SFP 300W | 24×100M PoE + 2 GE + 1 SFP 300W | STC-024FP 类（HRUI，待核） | https://www.bayiden.com.tr/（2026-10-21） |
+
+- **触达通道（公开）**：role: 电子综合网店（土耳其，在售 PowerMaster PoE）；region: 土耳其；contact: info@bayiden.com.tr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.bayiden.com.tr/）
-  - 官网公开邮箱：info@bayiden.com.tr
-  - 用户表兴趣/备注：商业POE
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 商品页 /powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch、/powermaster-poe24fe-2ge-1sfp-300w-…、/powermaster-poe-gigabit-ethernet-switch-16-port-…
+  - 站内 kw：switch 184 / fiber 85 / oem 31
+- **风险/边界**：综合网店：交换机为配套品类，量小；现卖 PowerMaster（土耳其本地品牌，深圳代工）价格基准低；无具名 KP（info@）
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）
+- **邮件切入句（英文）**：Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -133,7 +146,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
+| **P1** | STC-28DGGPM | 深挖对位：在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电子综合网店（土耳其，在售 PowerMaster PoE）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -186,9 +199,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your PowerMaster POE8-2 96W at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

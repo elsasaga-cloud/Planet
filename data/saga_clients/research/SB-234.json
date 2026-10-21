@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（rfteknoloji.com.tr，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「RF Radyo Data Modem, 3G/4G Endüstriyel Router Modem, RF Haberleşme Sistemleri, Kablosuz-Te」（tr-tr）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：LT70-868、WL-R520、WL-R200、WL-R210；表内「工业交换机 3旺的」；群发 2 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
+ "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "3onedata",
+  "CalAmp"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,20 @@
    "quote": "工业交换机 3旺的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "RF 数据电台、3G/4G 工业路由、无线数传",
+   "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi",
+   "url": "https://rfteknoloji.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机 3onedata 的",
+   "quote": "工业交换机 3旺的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +46,34 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "RF 数据电台 / 工业蜂窝路由（CalAmp）",
+  "工业交换机分销"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
   "region": "土耳其",
   "contact": "info@rfteknoloji.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://rfteknoloji.com.tr/）",
-  "官网公开邮箱：info@rfteknoloji.com.tr",
-  "用户表兴趣/备注：工业交换机 3旺的"
+  "官网栏目：3G/4G/5G Endüstriyel GSM Router Modem / RF Data Modemler / RFbox / Endüstriyel Switchler",
+  "站内 kw：switch 379 / ethernet 337 / poe 142 / fiber 66"
  ],
- "risks": [],
+ "risks": [
+  "现货源 3onedata（深圳）价格基准低",
+  "SCADA/数传客户多为公用事业：守界按单核",
+  "无具名 KP（info@）"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?"
 }

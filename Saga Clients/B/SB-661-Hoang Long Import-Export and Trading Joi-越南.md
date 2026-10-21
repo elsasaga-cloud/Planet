@@ -2,7 +2,7 @@
 
 > **评级 B**　|　越南　|　档案编号 `SB-661`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：越南工业网络品牌/贸易商（3onedata 合作，自有标）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-661
@@ -12,15 +12,15 @@ score: 34
 country: 越南
 region: 亚太
 website: hlc.vn
-type: 分销商/经销商
+type: 越南工业网络品牌/贸易商（3onedata 合作，自有标）
 tier_tags: ["群发(VN/VN)", "询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
-price_tier: 20%
+p1: STI-110GE
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：越南分销商/经销商：官网「CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG」（vi）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、RS-232、RS485、PG2-1600；表内「和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：和3旺有合作 工业FS MC VC）
+- **是谁**：越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。（调研 2026-10-21；表内兴趣：和3旺有合作 工业FS MC VC）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Hoang Long Import-Export and Trading Joint Stock Company | 事实（用户表） |
 | 国家 | 越南 | 事实（用户表）|
 | 网站/域名 | hlc.vn | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 越南工业网络品牌/贸易商（3onedata 合作，自有标） | 推断（据兴趣/备注关键词） |
 | 联系人 | Hoang Nguyen Anh | 事实（用户表） |
 | 来源（From） | 谷歌 / 2026.9.18 | 事实（用户表） |
 | 兴趣（Interested in） | 和3旺有合作<br>工业FS MC VC | 事实（用户表） |
@@ -55,32 +55,46 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（hlc.vn，快照 2026-10-21）
-- **是谁**：越南分销商/经销商：官网「CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG」（vi）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、RS-232、RS485、PG2-1600；表内「和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘」；表内未见跟进记录。
-- **类型**：分销商/经销商
+- **是谁**：越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。
+- **类型**：越南工业网络品牌/贸易商（3onedata 合作，自有标）
+- **在卖/在用品牌**：Lantronix, 3onedata
 - **【官网快照】官网标题：CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS, chúng tôi là một công ty ISO9001: 2008, hầu h
   > 来源：https://hlc.vn/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】专业生产工业交换机与光电转换器，FCC/CE/RoHS**
+  > Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS
+  > 来源：https://hlc.vn/（抓取 2026-10-21）
+- **【用户表】与 3onedata 合作；询盘 16 槽机架**
+  > 和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Hoang Nguyen Anh（）nguyenhoang@hlc.vn 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 越南 |
 | 其他 | 官网 hlc.vn，语言 vi，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：电信 / FTTH / ISP 设备；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 越南；contact: nguyenhoang@hlc.vn、hlctelecom@gmail.com
+- **业务线**：工业交换机 / 光电转换器（自有标）；Lantronix 工业 PoE 经销
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Lantronix | SISPM1040-3166-L | 工业 24 口 PoE 管理 | （工业 24 口 Saga 无标准型；16 口位 STI-21616GP） | https://hlc.vn/（2026-10-21） |
+| Lantronix | SISPM1040-3000-L3 | 工业 L3 28 口 | （Saga 无对应） | https://hlc.vn/（2026-10-21） |
+
+- **触达通道（公开）**：role: 越南工业网络品牌/贸易商（3onedata 合作，自有标）；region: 越南；contact: nguyenhoang@hlc.vn、hlctelecom@gmail.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://hlc.vn/）
-  - 官网公开邮箱：example@gmail.com、hlc@hlc.vn、hlctelecom@gmail.com
-  - 用户表兴趣/备注：和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：Công ty chuyên sản xuất … Switch công nghiệp, bộ chuyển đổi quang … FCC, CE, RoHS
+  - 首页在售 Lantronix SISPM1040-3166-L（24 口工业 PoE）、SISPM1040-3000-L3
+  - 表内：阿里巴巴询盘 16 槽收发器机架；KP Hoang Nguyen Anh
+- **风险/边界**：MC 机架（16 槽）Saga 价目无 SKU：需向 SmartByte/HRUI 询价后再报（Q-32 类配件缺口）；现合作 3onedata：价格基准低；非主攻区（T5）；表内 gmail 备用邮箱（hlctelecom@gmail.com）：只用企业邮箱
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）
+- **邮件切入句（英文）**：Following your enquiry on the 16-slot media-converter rack: we supply DIN-rail gigabit industrial media converters (SFP and fixed-fiber) and 8/16-port industrial PoE switches under your label from small lots, CE/RoHS/FCC — is the rack intended for SFP-based or fixed single-mode converters?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -120,7 +134,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hoang Nguyen Anh | — | nguyenhoang@hlc.vn / hlctelecom@gmail.com | 用户表原值 | Clients/ 表 |
+| Hoang Nguyen Anh | — | nguyenhoang@hlc.vn | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -137,27 +151,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110GE | 深挖对位：询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（越南工业网络品牌/贸易商（3onedata 合作，自有标）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -185,14 +200,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your enquiry on the 16-slot media-converter rack: we supply DIN-rail gigabit industrial media converters (SFP and fixed-fiber) and 8/16-port industrial PoE switches under your label from small lots, CE/RoHS/FCC — is the rack intended for SFP-based or fixed single-mode converters?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Lantronix SISPM1040-3166-L at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

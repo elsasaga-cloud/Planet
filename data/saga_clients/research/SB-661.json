@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hlc.vn，快照 2026-10-21）",
- "summary": "越南分销商/经销商：官网「CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG」（vi）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS232、RS-232、RS485、PG2-1600；表内「和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "分销商/经销商",
+ "summary": "越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。",
+ "type": "越南工业网络品牌/贸易商（3onedata 合作，自有标）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Lantronix",
+  "3onedata"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,43 +24,83 @@
    "quote": "和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "专业生产工业交换机与光电转换器，FCC/CE/RoHS",
+   "quote": "Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS",
+   "url": "https://hlc.vn/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "与 3onedata 合作；询盘 16 槽机架",
+   "quote": "和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Hoang Nguyen Anh",
+   "title": "（表内联系人）",
+   "email": "nguyenhoang@hlc.vn",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "越南",
   "other": "官网 hlc.vn，语言 vi，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业交换机 / 光电转换器（自有标）",
+  "Lantronix 工业 PoE 经销"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "越南工业网络品牌/贸易商（3onedata 合作，自有标）",
   "region": "越南",
   "contact": "nguyenhoang@hlc.vn、hlctelecom@gmail.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://hlc.vn/）",
-  "官网公开邮箱：example@gmail.com、hlc@hlc.vn、hlctelecom@gmail.com",
-  "用户表兴趣/备注：和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘"
+  "官网：Công ty chuyên sản xuất … Switch công nghiệp, bộ chuyển đổi quang … FCC, CE, RoHS",
+  "首页在售 Lantronix SISPM1040-3166-L（24 口工业 PoE）、SISPM1040-3000-L3",
+  "表内：阿里巴巴询盘 16 槽收发器机架；KP Hoang Nguyen Anh"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "MC 机架（16 槽）Saga 价目无 SKU：需向 SmartByte/HRUI 询价后再报（Q-32 类配件缺口）",
+  "现合作 3onedata：价格基准低；非主攻区（T5）",
+  "表内 gmail 备用邮箱（hlctelecom@gmail.com）：只用企业邮箱"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/经销商→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Following your enquiry on the 16-slot media-converter rack: we supply DIN-rail gigabit industrial media converters (SFP and fixed-fiber) and 8/16-port industrial PoE switches under your label from small lots, CE/RoHS/FCC — is the rack intended for SFP-based or fixed single-mode converters?",
+ "products_seen": [
+  {
+   "brand": "Lantronix",
+   "model": "SISPM1040-3166-L",
+   "spec": "工业 24 口 PoE 管理",
+   "saga": "（工业 24 口 Saga 无标准型；16 口位 STI-21616GP）",
+   "url": "https://hlc.vn/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Lantronix",
+   "model": "SISPM1040-3000-L3",
+   "spec": "工业 L3 28 口",
+   "saga": "（Saga 无对应）",
+   "url": "https://hlc.vn/",
+   "date": "2026-10-21"
+  }
+ ]
 }

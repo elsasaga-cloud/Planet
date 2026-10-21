@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hanelektronik.com，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Han Elektronik - Türkiye'nin Güvenlik Çözümü」（tr）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Milesight；站内型号：AI1024GC、AI1016GC、SF312A-LC-10KM、SF412A-LC-10KM；表内「商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Han Elektronik（「Türkiye’nin Güvenlik Çözümü」安防方案商，ISAF 参展商；自有「AI」系列 PoE 交换机商品页：AI806M 4 PoE + 2 上联 65W、AI8082M 8×100M PoE + 2 GE 96W、AI8024 24×100M PoE + 2 GE + 1 SFP 250W、VP-16PG-2SFP 16 口千兆 PoE 300W；站内 Milesight；表内「商业 PoE 看着有 HiSource 的，MC / 工业 FS / VC / 无源，很多种外壳」）；群发 2 次无回复。",
+ "type": "安防方案商 + 自有标 PoE 系列（HiSource 代工迹象，OEM 采购）",
  "size": "",
  "brands_seen": [
-  "Milesight"
+  "Milesight",
+  "HiSource"
  ],
  "evidence": [
   {
@@ -23,6 +24,20 @@
    "quote": "商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "土耳其安防方案商，ISAF 参展",
+   "quote": "Han Elektronik - Türkiye’nin Güvenlik Çözümü ; ISAF 2019 İSTANBUL FUARINI BAŞARI İLE TAMAMLADIK ; 2020 ISAF Exclusive Ankara Güvenlik Fuarı",
+   "url": "https://hanelektronik.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 看着有 HiSource 的，多种外壳",
+   "quote": "商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,33 +46,61 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 hanelektronik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防方案（摄像机 / NVR / 太阳能 Wi-Fi 摄像机）",
+  "自有标 PoE 交换机（AI / VP 系列）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防方案商 + 自有标 PoE 系列（HiSource 代工迹象，OEM 采购）",
   "region": "土耳其",
   "contact": "info@hanelektronik.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://hanelektronik.com/）",
-  "安防品牌：Milesight → PoE 配套切入",
-  "用户表兴趣/备注：商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品 很多种外壳"
+  "商品页 /ai806m-4-port-10100m-poe-2-port-100m-uplink-65w-poe-switch、/ai8082m-8-port-10100m-poe-2-port-gbit-uplink-96w-poe-switch、/vp-16pg-2sfp-16-port-gbit-poe-2-port-sfp-300w-poe-switch-dahili-power、/ai8024-24-port-…-250w-poe-switch",
+  "官网：ISAF 2019 İstanbul、2020 ISAF Exclusive Ankara 参展",
+  "站内 kw：poe 199 / wifi 180 / nvr 98 / oem 14"
  ],
- "risks": [],
+ "risks": [
+  "现代工 HiSource（深圳）：价格基准低，需以外壳选择/交期/Marvell 千兆升级切入",
+  "百兆 PoE 对价只能走 HRUI 列表价（非 SmartByte 公式）",
+  "土耳其：汇率敏感，报 EXW 美元"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）"
  },
- "email_hook": "Alongside the Milesight lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the AI-series PoE switches under your label (AI8082M / AI8024 / VP-16PG), we can supply the same layouts — 8 FE PoE + 2 GE, 24 FE PoE + 2 GE + SFP, 16 GE PoE + 2 SFP — plus a Marvell-based gigabit L2+ step-up model from small lots, neutral housing of your choice; which SKU do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "Han（自有 AI 系列）",
+   "model": "AI8082M",
+   "spec": "8×100M PoE + 2 GE 上联 96W",
+   "saga": "STC-028GFP（HRUI 列表价 $17.6，非 SmartByte）",
+   "url": "https://www.hanelektronik.com/ai8082m-8-port-10100m-poe-2-port-gbit-uplink-96w-poe-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Han（自有 AI 系列）",
+   "model": "AI8024",
+   "spec": "24×100M PoE + 2 GE + 1 SFP 250W",
+   "saga": "STC-024FP 类（HRUI，24 FE PoE，列表价待核）",
+   "url": "https://hanelektronik.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Han（自有 VP 系列）",
+   "model": "VP-16PG-2SFP",
+   "spec": "16 口千兆 PoE + 2 SFP 300W 内置电源",
+   "saga": "STC-2016GP（HRUI 列表价 $88.0，非 SmartByte）",
+   "url": "https://hanelektronik.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }
