@@ -36,6 +36,9 @@ v2.2（2026-10-21，运行 #3 页面 350/350 抓齐、但 245 份规格书经 in
      带 Referer 下载进二进制目录（随 Release 附件保存），主题/皮肤素材（/images/、/skinp/、/share/）仍不收。
 v2.3（2026-10-21，运行 #4 规格书 245/245 直链成功、图片 900/1493 后 CDN 断流 ChunkedEncodingError 把整轮打崩之后）：
   读响应体（r.content）一律包在 try 里：图片 / 附件读体中断只记该条错误并继续，不再让整轮崩；候选链判定也放进 try。
+v2.4（2026-10-21，运行 #5 站点对运行器 IP 全 403 但剩余 593 张图都在 CDN 之后）：
+  站点被封时若剩余任务只剩 CDN 图片，先探一张 CDN 图：能取就照常跑图片阶段（CDN 与站点不是同一套封禁）；
+  页面 / 附件 / 图片三阶段都无剩余时 complete=true，不再因本轮探测被拒而记为未完成。
 """
 import hashlib
 import json
@@ -840,8 +843,22 @@ def main():
     total = 0
     img_stop = None
     n_new_img = 0
+    img_blocked = blocked
+    if blocked and todo_img and all(CDN_CONTENT_RE.match(u) for u, _ in todo_img):
+        # v2.4：站点封了运行器，但 CDN（gcdn.meidianbang.cn）是另一套；探一张能取就继续
+        try:
+            rp = S.get(todo_img[0][0], timeout=60, headers={"Referer": "https://www.smartbyte-switch.com/", "Accept": "image/*,*/*;q=0.8"})
+            body = rp.content if rp.status_code == 200 else b""
+            if len(body) > 0:
+                img_blocked = False
+                CONSEC["n"] = 0
+                log(f"site blocked but CDN reachable (probe {rp.status_code}, {len(body)} B) → images phase continues")
+            else:
+                log(f"site blocked and CDN probe → {rp.status_code} ({len(body)} B); images phase skipped")
+        except Exception as e:  # noqa: BLE001
+            log(f"site blocked and CDN probe failed: {e.__class__.__name__}; images phase skipped")
     for i, (u, meta) in enumerate(todo_img):
-        if blocked or banned():
+        if img_blocked or banned():
             img_stop = f"blocked ({len(todo_img) - i} left) → resume later"
             break
         rec = {"url": u, "alt": meta["alt"], "found_on": sorted(set(meta["found_on"]))[:20],
@@ -894,8 +911,9 @@ def main():
                 and (d.get("status") in (403, 429) or d.get("status") is None)]
     refused = {"pages": _refused(pages, "binary-at-page-url"), "downloads": _refused(dl_rows, "\x00"), "images": _refused(img_rows, "skipped")}
     n_refused = sum(len(v) for v in refused.values())
-    complete = (not blocked and pages_ok > 0 and n_refused == 0
-                and pages_stop.startswith("complete") and dl_stop == "complete" and img_stop == "complete")
+    nothing_left = (not queue and dl_stop == "complete" and img_stop == "complete")
+    complete = (pages_ok > 0 and n_refused == 0 and dl_stop == "complete" and img_stop == "complete"
+                and (pages_stop.startswith("complete") or (blocked and nothing_left)))
     runs[-1].update(ended=now(), elapsed_s=round(elapsed()), pages_new=n_new_pages, downloads_new=n_new_dl,
                     images_new=n_new_img, pages_stop=pages_stop, downloads_stop=dl_stop, images_stop=img_stop)
     summary = {
