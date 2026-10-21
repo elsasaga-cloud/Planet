@@ -269,12 +269,18 @@ optional)
 | L T-S8528XGP-4XS24GT-AC850 | Layer<br>3<br>managed PoE switch with 4*1G/2.5G/1<br>0<br>G SFP+ ports<br>and<br>24*10/100/1000M RJ45 PoE ports<br>，<br>AC 100-240V 50/60Hz,<br>PoE output budget Max 740W |
 | L T-S8528XGP-4XS24GT-2AC850 | Layer<br>3<br>managed PoE switch with 4*1G/2.5G/1<br>0<br>G SFP+ ports<br>and<br>24*10/100/1000M RJ45 PoE ports<br>，<br>redundant<br>AC 100-240V 50/60Hz,<br>PoE output budget Max 740W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315380056BD4BE154282D67_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623153800B4CA60521C0C2D32_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231538005090118FBCD359CF_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315380078E0217829B49AC1_b.jpg
+![LT-S8528XGP-4XS24GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026062315380056BD4BE154282D67_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315380056BD4BE154282D67_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062315380056BD4BE154282D67_b.jpg`
+![LT-S8528XGP-4XS24GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623153800B4CA60521C0C2D32_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623153800B4CA60521C0C2D32_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623153800B4CA60521C0C2D32_b.jpg`
+![LT-S8528XGP-4XS24GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231538005090118FBCD359CF_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231538005090118FBCD359CF_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231538005090118FBCD359CF_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315380078E0217829B49AC1_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062315380078E0217829B49AC1_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

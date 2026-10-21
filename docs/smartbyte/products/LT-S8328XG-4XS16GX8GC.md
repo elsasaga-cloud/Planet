@@ -241,12 +241,18 @@ is the Layer 2+ managed Gigabit switch. The series deliver full Gigabit access a
 | LT-S8328XG-4XS16GX8GC-2AC | Layer 2+ managed Ethernet switch with 4*1G/2.5G/10G SFP+ ports + 16*100/1000M SFP ports，8*1G SFP/RJ45 COMBO ports，dual AC 100-240V 50/60Hz |
 | LT-S8328XG-4XS16GX8GC-AC-DC | Layer 2+ managed Ethernet switch with 4*1G/2.5G/10G SFP+ ports + 16*100/1000M SFP ports，8*1G SFP/RJ45 COMBO ports，one AC 100～240V 50/60Hz and one DC 36-72V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062309560453832DECDC9F33ED_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623095604758D24B96AFBE1F0_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062309560417597013E7AD28BF_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623095604FC4218B30536F6E3_b.jpg
+![LT-S8328XG-4XS16GX8GC](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026062309560453832DECDC9F33ED_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062309560453832DECDC9F33ED_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062309560453832DECDC9F33ED_b.jpg`
+![LT-S8328XG-4XS16GX8GC](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623095604758D24B96AFBE1F0_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623095604758D24B96AFBE1F0_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623095604758D24B96AFBE1F0_b.jpg`
+![LT-S8328XG-4XS16GX8GC](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026062309560417597013E7AD28BF_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062309560417597013E7AD28BF_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062309560417597013E7AD28BF_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623095604FC4218B30536F6E3_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623095604FC4218B30536F6E3_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

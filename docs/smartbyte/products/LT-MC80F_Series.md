@@ -83,10 +83,14 @@ It supports transmission in Multi-mode dual fiber, single mode dual fiber, singl
 | LT-MC80F-SC20A | 10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single fiber, 20km, SC, TX1310nm, standalone, external power adaptor; 40/60/80/100KM optional, ST/FC optional, enhanced function with Dip switch |
 | LT-MC80F-SC20B | 10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single fiber, 20km, SC, TX1550nm, standalone, external power adaptor; 40/60/80/100KM optional, ST/FC optional, enhanced function with Dip switch |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（2/3 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026070116245819B8AC3848AC4DD6_b.png
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026070116245952B20C9FC17AED28_b.png
+![LT-MC80F Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026070116245819B8AC3848AC4DD6_b.png)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026070116245819B8AC3848AC4DD6_b.png → `data/smartbyte_site_raw/images/comdata_70901_product_2026070116245819B8AC3848AC4DD6_b.png`
+![LT-MC80F Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026070116245952B20C9FC17AED28_b.png)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026070116245952B20C9FC17AED28_b.png → `data/smartbyte_site_raw/images/comdata_70901_product_2026070116245952B20C9FC17AED28_b.png`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

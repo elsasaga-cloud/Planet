@@ -233,9 +233,11 @@ is a Layer 2+ full gigabit managed switch, which features 8-port 10/100/1000Base
 |---|---|
 | LT-S8312XG-4XS8GT | Layer 2+ managed Ethernet switch with 4*1G/2.5G/10G SFP+ slots and 8*10/100/1000M RJ45 ports，internal power supply, AC 100～240V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（1/2 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606230946582D54320218CA5329_b.jpg
+![LT-S8312XG-4XS8GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606230946582D54320218CA5329_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606230946582D54320218CA5329_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606230946582D54320218CA5329_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

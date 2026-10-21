@@ -65,10 +65,14 @@ SmartByte LT-MC80X media converter is a 10G N-Base-T (10/100M/1G/2.5G/5G/10G) to
 |---|---|
 | LT-MC80X | 10G media converter with 1*10/100/1G/2.5G/5G/10G RJ45 port + 10G SFP+ slot, DC5-12V |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（2/3 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260701164959D7FC25804D528967_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026070209141549B4B8BE7F1C041E_b.jpg
+![LT-MC80X](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260701164959D7FC25804D528967_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260701164959D7FC25804D528967_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260701164959D7FC25804D528967_b.jpg`
+![LT-MC80X](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026070209141549B4B8BE7F1C041E_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026070209141549B4B8BE7F1C041E_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026070209141549B4B8BE7F1C041E_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

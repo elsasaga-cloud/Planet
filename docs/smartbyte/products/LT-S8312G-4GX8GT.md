@@ -230,9 +230,11 @@ SmartByte LT-S8312G-4GX8GT is a Layer 2+ full gigabit managed switch, which feat
 |---|---|
 | LT-S8312G-4GX8GT | Layer 2+ managed Ethernet switch with 4*1G/2.5G SFP slots + 8*10/100/1000M RJ45 ports，internal power supply, AC 100～240V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（1/2 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260622164123E2263CF1FB889B0E_b.jpg
+![LT-S8312G-4GX8GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260622164123E2263CF1FB889B0E_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260622164123E2263CF1FB889B0E_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260622164123E2263CF1FB889B0E_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

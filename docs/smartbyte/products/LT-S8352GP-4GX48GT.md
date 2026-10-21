@@ -251,12 +251,18 @@ It offers a rack-mountable, affordable, safe and reliable power solution for SMB
 | LT-S8352GP-4GX48GT-AC850 | Layer 2+ managed PoE switch with 4*2.5G/1G SFP ports and 48*10/100/1000M RJ45 PoE ports，AC 100-240V 50/60Hz, PoE output budget Max 740W |
 | LT-S8352GP-4GX48GT-2AC850 | Layer 2+ managed PoE switch with 4*2.5G/1G SFP ports and 48*10/100/1000M RJ45 PoE ports，redundant AC 100-240V 50/60Hz, PoE output budget Max 740W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623132610E95372E4BC1EFFF7_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231330268F7A955497E8366A_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062313261014BC8FDC6F2FF4CC_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062313261059C970A4456A4897_b.jpg
+![LT-S8352GP-4GX48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623132610E95372E4BC1EFFF7_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623132610E95372E4BC1EFFF7_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623132610E95372E4BC1EFFF7_b.jpg`
+![LT-S8352GP-4GX48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231330268F7A955497E8366A_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231330268F7A955497E8366A_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231330268F7A955497E8366A_b.jpg`
+![LT-S8352GP-4GX48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026062313261014BC8FDC6F2FF4CC_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062313261014BC8FDC6F2FF4CC_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062313261014BC8FDC6F2FF4CC_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062313261059C970A4456A4897_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062313261059C970A4456A4897_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

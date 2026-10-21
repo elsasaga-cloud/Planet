@@ -251,12 +251,18 @@ LT-S8552XG
 | LT-S8552XG-4XS48GT-2AC | Layer 3 managed Ethernet switch with 4*1G/2.5G/10G SFP+ ports + 48*10/100/1000M RJ45 ports，dual AC 100～240V 50/60Hz |
 | LT-S8552XG-4XS48GT-AC-DC | Layer 3 managed Ethernet switch with 4*1G/2.5G/10G SFP+ ports + 48*10/100/1000M RJ45 ports，one AC 100～240V 50/60Hz and one DC 36-72V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623152438BBED83099E687BA9_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231524389C4D5B9D2C642AA8_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623152438E2C0B876BE42480A_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623152438DE49CD3F8AE3CD2A_b.jpg
+![LT-S8552XG-4XS48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623152438BBED83099E687BA9_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623152438BBED83099E687BA9_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623152438BBED83099E687BA9_b.jpg`
+![LT-S8552XG-4XS48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231524389C4D5B9D2C642AA8_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231524389C4D5B9D2C642AA8_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231524389C4D5B9D2C642AA8_b.jpg`
+![LT-S8552XG-4XS48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623152438E2C0B876BE42480A_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623152438E2C0B876BE42480A_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623152438E2C0B876BE42480A_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623152438DE49CD3F8AE3CD2A_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623152438DE49CD3F8AE3CD2A_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

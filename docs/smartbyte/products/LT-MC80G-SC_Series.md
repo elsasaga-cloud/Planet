@@ -84,10 +84,14 @@ which can meet with the different application requirement
 | LT-MC80G-SC20A | 10<br>/100/1000Base-T to 1000Base-X, 1*Gigabit SC port +1*10/100/1000M RJ45 port, single-mode single fiber, 20km, SC standalone, TX1310nm, external power adaptor; 40/60/80KM optional, ST/FC optional, enhanced function with Dip switch |
 | LT-MC80G-SC20B | 10/100/1000Base-T to 1000Base-X,1*Gigabit SC port +1*10/100/1000M RJ45 port, single-mode single fiber,20km, SC standalone, TX1550nm, external power adaptor; 40/60/80KM optional, ST/FC optional, enhanced function with Dip switch |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（2/3 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026070116410128B79A3DE26DC61D_b.png
-- https://gcdn.meidianbang.cn/comdata/70901/product/202607011641022F563327F0371A77_b.png
+![LT-MC80G-SC Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026070116410128B79A3DE26DC61D_b.png)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026070116410128B79A3DE26DC61D_b.png → `data/smartbyte_site_raw/images/comdata_70901_product_2026070116410128B79A3DE26DC61D_b.png`
+![LT-MC80G-SC Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_202607011641022F563327F0371A77_b.png)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202607011641022F563327F0371A77_b.png → `data/smartbyte_site_raw/images/comdata_70901_product_202607011641022F563327F0371A77_b.png`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

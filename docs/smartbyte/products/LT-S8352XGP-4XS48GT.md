@@ -256,12 +256,18 @@ it offers a rack-mountable, affordable, safe and reliable power solution for SMB
 | LT-S8352XGP-4XS48GT-AC850 | L<br>ayer 2+ managed PoE switch with 4*1G/2.5G/10G SFP+ ports and 48*10/100/1000M RJ45 PoE ports，AC 100-240V 50/60Hz, PoE output budget Max 740W |
 | LT-S8352XGP-4XS48GT-2AC850 | Layer 2+ managed PoE switch with 4*1G/2.5G/10G SFP+ ports and 48*10/100/1000M RJ45 PoE ports，redundant AC 100-240V 50/60Hz, PoE output budget Max 740W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231501198F2F2C935A3B6D9E_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623150119616D77DCDDDE4A77_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623150119D832B77BF376DF97_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315012031D94E27A6307EF4_b.jpg
+![LT-S8352XGP-4XS48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231501198F2F2C935A3B6D9E_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231501198F2F2C935A3B6D9E_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231501198F2F2C935A3B6D9E_b.jpg`
+![LT-S8352XGP-4XS48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623150119616D77DCDDDE4A77_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623150119616D77DCDDDE4A77_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623150119616D77DCDDDE4A77_b.jpg`
+![LT-S8352XGP-4XS48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623150119D832B77BF376DF97_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623150119D832B77BF376DF97_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623150119D832B77BF376DF97_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315012031D94E27A6307EF4_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062315012031D94E27A6307EF4_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

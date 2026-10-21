@@ -269,12 +269,18 @@ deliver full Gigabit access and unparalleled scalability to 10G performance. The
 | LT-S8528XGP-4XS24GT-4BT-AC850 | Layer 3 managed PoE++ switch with 4*1G/2.5G/10G SFP+ ports and 24*10/100/1000M RJ45 PoE ports，1-4 ports support PoE++ 90W; AC 100-240V 50/60Hz input, Max PoE output budget 740W |
 | LT-S8528XGP-4XS24GT-4BT-2AC850 | Layer 3 managed PoE++ switch with 4*1G/2.5G/10G SFP+ ports and 24*10/100/1000M RJ45 PoE ports，1-4 ports support PoE++ 90W; Redundant AC 100-240V 50/60Hz input, Max PoE output budget 740W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260703152415D661FA62FC628ABC_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260703152415C6753F75EA43D910_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026070315241588893F5198C1BAA4_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260703152415043F82BD6623530B_b.jpg
+![LT-S8528XGP-4XS24GT-4BT Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260703152415D661FA62FC628ABC_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260703152415D661FA62FC628ABC_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260703152415D661FA62FC628ABC_b.jpg`
+![LT-S8528XGP-4XS24GT-4BT Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260703152415C6753F75EA43D910_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260703152415C6753F75EA43D910_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260703152415C6753F75EA43D910_b.jpg`
+![LT-S8528XGP-4XS24GT-4BT Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026070315241588893F5198C1BAA4_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026070315241588893F5198C1BAA4_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026070315241588893F5198C1BAA4_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260703152415043F82BD6623530B_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260703152415043F82BD6623530B_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

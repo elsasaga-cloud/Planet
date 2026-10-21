@@ -280,12 +280,18 @@ widely deployed in HD surveillance, high-density Wi-Fi 6 networking, smart build
 | LT-S8352XGP-4XS48GT-4BT-AC850 | Layer 2+ managed PoE++ switch with 4*1G/2.5G/10G SFP+ ports and 48*10/100/1000M RJ45 PoE ports，1-4 ports support PoE++ 90W; AC 100-240V 50/60Hz input, Max PoE output budget 740W |
 | LT-S8352XGP-4XS48GT-4BT-2AC850 | Layer 2+ managed PoE++ switch with 4*1G/2.5G/10G SFP+ ports and 48*10/100/1000M RJ45 PoE ports，1-4 ports support PoE++ 90W; Redundant AC 100-240V 50/60Hz input, Max PoE output budget 740W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202607031507028EB63EA47ADF4A5D_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026070315070203695B400D98B8F9_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260703150702EEAE144975693CE9_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202607031507026D352980E6C3270C_b.jpg
+![LT-S8352XGP-4XS48GT-4BT Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_202607031507028EB63EA47ADF4A5D_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202607031507028EB63EA47ADF4A5D_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202607031507028EB63EA47ADF4A5D_b.jpg`
+![LT-S8352XGP-4XS48GT-4BT Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026070315070203695B400D98B8F9_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026070315070203695B400D98B8F9_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026070315070203695B400D98B8F9_b.jpg`
+![LT-S8352XGP-4XS48GT-4BT Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260703150702EEAE144975693CE9_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260703150702EEAE144975693CE9_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260703150702EEAE144975693CE9_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/202607031507026D352980E6C3270C_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202607031507026D352980E6C3270C_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

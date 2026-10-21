@@ -251,12 +251,18 @@ optional)
 | L T-S8328XGP-4XS24GT-AC850 | Layer 2+ managed PoE switch with 4*1G/2.5G/10G SFP+ ports and 24*10/100/1000M RJ45 PoE ports，AC 100-240V 50/60Hz, PoE output budget Max 740W |
 | L T-S8328XGP-4XS24GT-2AC850 | Layer 2+ managed PoE switch with 4*1G/2.5G/10G SFP+ ports and 24*10/100/1000M RJ45 PoE ports，redundant AC 100-240V 50/60Hz, PoE output budget Max 740W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623143218BF34ECCE36D536CD_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623145358FE1443DBEE30BE56_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623143219E0355A0770BD7096_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623143219EA1111DB42F3C21F_b.jpg
+![LT-S8328XGP-4XS24GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623143218BF34ECCE36D536CD_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623143218BF34ECCE36D536CD_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623143218BF34ECCE36D536CD_b.jpg`
+![LT-S8328XGP-4XS24GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623145358FE1443DBEE30BE56_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623145358FE1443DBEE30BE56_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623145358FE1443DBEE30BE56_b.jpg`
+![LT-S8328XGP-4XS24GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623143219E0355A0770BD7096_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623143219E0355A0770BD7096_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623143219E0355A0770BD7096_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623143219EA1111DB42F3C21F_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623143219EA1111DB42F3C21F_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

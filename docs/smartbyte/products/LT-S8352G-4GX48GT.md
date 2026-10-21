@@ -237,12 +237,18 @@ LT-S8352G-4GX48GT is a Layer 2+ full gigabit managed switch. It provides high-de
 | LT-S8352G-4GX48GT-2AC | Layer 2+ managed E<br>thernet switch with 4*1G/2.5G SFP ports + 48*10/100/1000M RJ45 ports，dual AC 100-240V 50/60Hz |
 | LT-S8352G-4GX48GT-AC-DC | Layer 2+ managed Ethernet switch with 4*1G/2.5G SFP ports + 48*10/100/<br>1000M RJ45 ports，one AC 100-240V 50/60Hz and one DC 36-72V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260622175339E34D0D918E556560_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606221753395801FCDF0FF600D2_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217533963FE77C8EBBC3CDA_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217534098462DF44A4D3D57_b.jpg
+![LT-S8352G-4GX48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260622175339E34D0D918E556560_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260622175339E34D0D918E556560_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260622175339E34D0D918E556560_b.jpg`
+![LT-S8352G-4GX48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606221753395801FCDF0FF600D2_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606221753395801FCDF0FF600D2_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606221753395801FCDF0FF600D2_b.jpg`
+![LT-S8352G-4GX48GT](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026062217533963FE77C8EBBC3CDA_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217533963FE77C8EBBC3CDA_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062217533963FE77C8EBBC3CDA_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217534098462DF44A4D3D57_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062217534098462DF44A4D3D57_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

@@ -76,9 +76,11 @@ This ultra-compact media converter can be USB powered by USB 1.0 or 2.0 port, wh
 |---|---|
 | LT-MC60G-MN | Ultra-compact 10/100/1000Base-T to 1000Base-X media converter, 1*Gigabit SFP port + 1*10/100/1000M RJ45 port, without SFP module, DC 5V power supply |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（1/1 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202607020913286BE3AAA0A3AC411E_b.jpg
+![LT-MC60G-MN](../../../data/smartbyte_site_raw/images/comdata_70901_product_202607020913286BE3AAA0A3AC411E_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202607020913286BE3AAA0A3AC411E_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202607020913286BE3AAA0A3AC411E_b.jpg`
 
 ---
 来源：SmartByte 官网（T15 Actions 归档，原文照录，未做改写）；本文件由 `scripts/smartbyte_crawl/build.py` 生成，勿手改。

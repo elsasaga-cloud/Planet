@@ -252,9 +252,11 @@ for different kinds of PoE applications, which provides a quick, safe and cost-e
 |---|---|
 | LT-S8312XGP-4XS8GT-AC200 | Layer 2+ managed PoE switch with 4*1G/2.5G/10G SFP+ slots, 8*10/100/1000M RJ45 PoE ports，AC 100~240V, Max PoE power budget 180W |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（1/2 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231426399FC40338423E9E71_b.jpg
+![LT-S8312XGP-4XS8GT-AC200](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231426399FC40338423E9E71_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231426399FC40338423E9E71_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231426399FC40338423E9E71_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

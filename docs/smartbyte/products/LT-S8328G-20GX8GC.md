@@ -240,12 +240,18 @@ is the Layer 2+ full gigabit managed switch, which provide high-density performa
 | LT-S8328G-20GX8GC-2AC | Layer 2+ managed Ethernet switch with 16*100/1000Base-X, 8*Gigabit Combo SFP/RJ45 and 4*1G/2.5GBase-X SFP，dual AC 100-240V 50/60Hz input |
 | LT-S8328G-20GX8GC-AC-DC | Layer 2+ managed Ethernet switch with 16*100/1000Base-X, 8*Gigabit Combo SFP/RJ45 and 4*1G/2.5GBase-X SFP，one AC 100～240V 50/60Hz and one DC 36-72V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260622173810266397AA683ED21E_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260622173810A0D456D8A54A3340_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217381003C1FE1167F566D8_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217381072A5F5B2CCFA4E8C_b.jpg
+![LT-S8328G-20GX8GC](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260622173810266397AA683ED21E_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260622173810266397AA683ED21E_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260622173810266397AA683ED21E_b.jpg`
+![LT-S8328G-20GX8GC](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260622173810A0D456D8A54A3340_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260622173810A0D456D8A54A3340_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260622173810A0D456D8A54A3340_b.jpg`
+![LT-S8328G-20GX8GC](../../../data/smartbyte_site_raw/images/comdata_70901_product_2026062217381003C1FE1167F566D8_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217381003C1FE1167F566D8_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062217381003C1FE1167F566D8_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062217381072A5F5B2CCFA4E8C_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062217381072A5F5B2CCFA4E8C_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

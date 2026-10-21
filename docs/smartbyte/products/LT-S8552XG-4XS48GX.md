@@ -260,12 +260,18 @@ perform effective data traffic control for ISP and enterprise VoIP, video stream
 | LT-S8552XG-4XS48GX-2AC | Layer 3 managed Ethernet switch with 4*1G/2.5G/10G SFP+ slots uplink，48*100/1000M SFP ports downlink，dual AC 100～240V 50/60Hz |
 | LT-S8552XG-4XS48GX-AC-DC | Layer 3 managed Ethernet switch with 4*1G/2.5G/10G SFP+ slots uplink，48*100/1000M SFP ports downlink，one AC 100～240V 50/60Hz and one DC36-72V input |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（4/5 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231531197A068C70EE2682E2_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623153119D663625EC3D67E6C_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623153119EAA4957D5658D8C7_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315311985D8442D236962FD_b.jpg
+![LT-S8552XG-4XS48GX](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231531197A068C70EE2682E2_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231531197A068C70EE2682E2_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231531197A068C70EE2682E2_b.jpg`
+![LT-S8552XG-4XS48GX](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623153119D663625EC3D67E6C_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623153119D663625EC3D67E6C_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623153119D663625EC3D67E6C_b.jpg`
+![LT-S8552XG-4XS48GX](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623153119EAA4957D5658D8C7_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623153119EAA4957D5658D8C7_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623153119EAA4957D5658D8C7_b.jpg`
+- https://gcdn.meidianbang.cn/comdata/70901/product/2026062315311985D8442D236962FD_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_2026062315311985D8442D236962FD_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

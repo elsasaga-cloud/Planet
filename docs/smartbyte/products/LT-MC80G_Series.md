@@ -79,10 +79,14 @@ which can meet with the different application requirement
 |---|---|
 | LT-MC80G | 10/100/1000Base-T to 1000Base-F,1*Gigabit SFP port + 1*10/100/1000M RJ45 port, without SFP module, external power adaptor, enhanced function with Dip switch |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（2/3 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202607020913589DC73473B4152C2E_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202607020925422E3862AACA55FAD4_b.jpg
+![LT-MC80G Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_202607020913589DC73473B4152C2E_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202607020913589DC73473B4152C2E_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202607020913589DC73473B4152C2E_b.jpg`
+![LT-MC80G Series](../../../data/smartbyte_site_raw/images/comdata_70901_product_202607020925422E3862AACA55FAD4_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202607020925422E3862AACA55FAD4_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202607020925422E3862AACA55FAD4_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---

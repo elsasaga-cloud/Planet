@@ -268,11 +268,17 @@ the LT-S8328XG-4XS24GT-S performs effective data traffic control for ISP and ent
 |---|---|
 | LT-S8328XG-4XS24GT-S | Layer 2+ managed Ethernet switch with 4*1G/2.5G/10G SFP+ ports + 24*10/100/1000M RJ45 ports，AC 100～240V 50/60Hz |
 
-## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）
+## 图片（3/4 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）
 
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231026358FD338A91D4027D5_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/20260623102636D8C690AC2029DD14_b.jpg
-- https://gcdn.meidianbang.cn/comdata/70901/product/202606231026360549A9DAEB6DF0DD_b.jpg
+![LT-S8328XG-4XS24GT-S](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231026358FD338A91D4027D5_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231026358FD338A91D4027D5_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231026358FD338A91D4027D5_b.jpg`
+![LT-S8328XG-4XS24GT-S](../../../data/smartbyte_site_raw/images/comdata_70901_product_20260623102636D8C690AC2029DD14_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/20260623102636D8C690AC2029DD14_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_20260623102636D8C690AC2029DD14_b.jpg`
+![LT-S8328XG-4XS24GT-S](../../../data/smartbyte_site_raw/images/comdata_70901_product_202606231026360549A9DAEB6DF0DD_b.jpg)
+
+- https://gcdn.meidianbang.cn/comdata/70901/product/202606231026360549A9DAEB6DF0DD_b.jpg → `data/smartbyte_site_raw/images/comdata_70901_product_202606231026360549A9DAEB6DF0DD_b.jpg`
 - （栏目内图）https://gcdn.meidianbang.cn/images/imgbg.png
 
 ---
