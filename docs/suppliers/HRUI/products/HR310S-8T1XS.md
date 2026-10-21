@@ -1,7 +1,7 @@
 # HR310S-8T1XS
 
 > 来源：<https://www.hruitech.com/managed-switch/288.html>（抓取 2026-10-21T03:47:24Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR310S-8T1XS - 8-Port 2.5G and 1-Port 10G SFP+ Web Managed Switch  
+> 官网描述：8-Port 10/100/1000/2500T + 1-Port 10G SFP+ Web Managed Switch  
 > 类目：Managed Switch（site id 288）  
 > 接口：8*2.5Gbps RJ45 ports / 1*10Gbps SFP+ port；PoE 预算 —；交换带宽 60Gbps；电源 AC 100-240V 50/60Hz / DC 12V 1A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR310S_8T1XS-283-29.png)
 
 ## Datasheet
-- [HR310S_8T1XS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR310S_8T1XS.pdf) （本地：`data/hrui_site_raw/downloads/HR310S_8T1XS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR310S_8T1XS.txt`）
+- [HR310S_8T1XS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR310S_8T1XS.pdf) （本地：`data/hrui_site_raw/datasheets/HR310S_8T1XS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR310S_8T1XS.txt`）
 
 ## Feature and Benefits（原文）
 ```

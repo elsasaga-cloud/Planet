@@ -1,7 +1,7 @@
 # HR-AFR-21+
 
 > 来源：<https://www.hruitech.com/poe-accessory/158.html>（抓取 2026-10-21T03:47:11Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：100Mbps Ethernet PoE Extender HR-AFR-21+ | HRUI  
+> 官网描述：100Mbps Ethernet PoE Extender  
 > 类目：PoE Accessory（site id 158）  
 > 接口：1* 100Mbps PoE in RJ45 port / 2 *100Mbps PoE out ports；PoE 预算 25W；交换带宽 —；电源 PoE powered
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_098b7634-7bc8-4e78-b6b3-3f32edb14c69.png)
 
 ## Datasheet
-- [HR_AFR_21.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_AFR_21.pdf) （本地：`data/hrui_site_raw/downloads/HR_AFR_21.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_AFR_21.txt`）
+- [HR_AFR_21.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_AFR_21.pdf) （本地：`data/hrui_site_raw/datasheets/HR_AFR_21.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_AFR_21.txt`）
 
 ## Feature and Benefits（原文）
 ```

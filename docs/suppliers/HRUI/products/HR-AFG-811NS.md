@@ -1,7 +1,7 @@
 # HR-AFG-811NS
 
 > 来源：<https://www.hruitech.com/poe-switch/85.html>（抓取 2026-10-21T03:46:09Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：9-Port 1G and 1-Port 1G SFP PoE Switch | HRUI  
+> 官网描述：8-Port 10/100/1000T 802.3af/at PoE + 1-Port 10/100/1000T + 1-Port Gigabit SFP Ethernet Switch (150 Watts)  
 > 类目：PoE Switch（site id 85）  
 > 接口：8* 1G PoE ports / 1* 1G uplink port / 2*1G SFP port；PoE 预算 140W；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 52V 2.88A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_big_HR-AFG-811NS-284-29.png)
 
 ## Datasheet
-- [20241023175815583.pdf](https://www.hruitech.com/web/userfiles/productfile/20241023175815583.pdf) （本地：`data/hrui_site_raw/downloads/20241023175815583.pdf`；文本：`data/hrui_site_raw/datasheet_text/20241023175815583.txt`）
+- [20241023175815583.pdf](https://www.hruitech.com/web/userfiles/productfile/20241023175815583.pdf) （本地：`data/hrui_site_raw/datasheets/20241023175815583.pdf`；文本：`data/hrui_site_raw/datasheet_text/20241023175815583.txt`）
 
 ## Feature and Benefits（原文）
 ```

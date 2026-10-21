@@ -1,7 +1,7 @@
 # HR-BTGRW-21
 
 > 来源：<https://www.hruitech.com/poe-accessory/295.html>（抓取 2026-10-21T03:46:06Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR-BTGRW-21 Gigabit Outdoor IP67 PoE Extender  
+> 官网描述：Gigabit Outdoor IP67 PoE Extender  
 > 类目：PoE Accessory（site id 295）  
 > 接口：1*1Gbps PoE in port 2*1Gbps PoE out ports；PoE 预算 —；交换带宽 6Gbps；电源 PoE powered
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-BTGRW-21-4.png)
 
 ## Datasheet
-- [HR-BTGRW-21-28EN-29.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-BTGRW-21-28EN-29.pdf) （本地：`data/hrui_site_raw/downloads/HR-BTGRW-21-28EN-29.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-BTGRW-21-28EN-29.txt`）
+- [HR-BTGRW-21-28EN-29.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-BTGRW-21-28EN-29.pdf) （本地：`data/hrui_site_raw/datasheets/HR-BTGRW-21-28EN-29.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-BTGRW-21-28EN-29.txt`）
 
 ## Feature and Benefits（原文）
 ```

@@ -1,7 +1,7 @@
 # HR-CPE30A-1
 
 > 来源：<https://www.hruitech.com/wireless-bridge/108.html>（抓取 2026-10-21T03:48:58Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：300Mbps Wireless Digital Bridge HR-CPE30A-1 | HRUI  
+> 官网描述：300Mbps Outdoor Wireless Digital Bridge  
 > 类目：Wireless Solutions（site id 108）  
 > 接口：LAN 1* 10/100Mbps adaptive RJ45 port / DC power interface, suitable for connecting power plugs with an outer diameter of 5.5mm and an inner diameter of 2.1mm and a length of 9.5mm or more；PoE 预算 —；交换带宽 —；电源 —
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-CPE30A-1-04.png)
 
 ## Datasheet
-- [HR-CPE30A-1-28EN-29_UFEwR.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-CPE30A-1-28EN-29_UFEwR.pdf) （本地：`data/hrui_site_raw/downloads/HR-CPE30A-1-28EN-29_UFEwR.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-CPE30A-1-28EN-29_UFEwR.txt`）
+- [HR-CPE30A-1-28EN-29_UFEwR.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-CPE30A-1-28EN-29_UFEwR.pdf) （本地：`data/hrui_site_raw/datasheets/HR-CPE30A-1-28EN-29_UFEwR.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-CPE30A-1-28EN-29_UFEwR.txt`）
 
 ## Feature and Benefits（原文）
 ```

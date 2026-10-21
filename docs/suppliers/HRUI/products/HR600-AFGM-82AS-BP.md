@@ -1,9 +1,9 @@
 # HR600-AFGM-82AS-BP
 
 > 来源：<https://www.hruitech.com/industrial-poe-switch/125.html>（抓取 2026-10-21T03:47:32Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：10-Port Gigabit Industrial 2.5G SFP Bypass Managed PoE Switch  
+> 官网描述：Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP Bypass Managed Ethernet Switch  
 > 类目：Industrial PoE Switch（site id 125）  
-> 接口：8×Gigabit；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC12～55V / Type of input: 4 PIN Industrial Terminal（block V1+V1- V2+ V2-）
+> 接口：8 Gigabit PoE Ports + 2 *2.5G SFP Port(Compatible with 1.25G / 155M) + 1 Console Port；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC12～55V / Type of input: 4 PIN Industrial Terminal（block V1+V1- V2+ V2-）
 
 **Brief:** 2.5G ring network industiral managed PoE switch, integrated with Bypass protection function, 8*Gigabit PoE ports + 2*Gigabit uplink SFP ports + 1*Console port, 9-10 ports support 2.5G, bandwidth 26Gbps, Layer 2 management, support ERPS protocol, ring network redundancy, IP40 protection, Surge 6KV, ESD 15KV, DC48-55V power input, redundant power supply, adapt to -40°C~+85°C wide temperature
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-AFGM-82AS-BP-284-29.png)
 
 ## Datasheet
-- [HR600_AFGM_82AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_AFGM_82AS.pdf) （本地：`data/hrui_site_raw/downloads/HR600_AFGM_82AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_AFGM_82AS.txt`）
+- [HR600_AFGM_82AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_AFGM_82AS.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_AFGM_82AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_AFGM_82AS.txt`）
 
 ## Feature and Benefits（原文）
 ```

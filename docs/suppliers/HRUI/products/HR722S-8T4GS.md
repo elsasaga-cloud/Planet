@@ -1,7 +1,7 @@
 # HR722S-8T4GS
 
 > 来源：<https://www.hruitech.com/industrial-ethernet-switch/272.html>（抓取 2026-10-21T03:47:27Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR722S-8T4GS - 12-Port Gigabit Industrial Managed Switch  
+> 官网描述：Industrial L2+ 8-Port 10/100/1000T + 4-Port 1000X SFP Managed Ethemet Switch  
 > 类目：Industrial Ethernet Switch（site id 272）  
 > 接口：8*1Gbps RJ45 ports / 4*1Gbps SFP ports / 1*Console port；PoE 预算 —；交换带宽 24Gbps；电源 DC12~55V / Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)
 
@@ -11,7 +11,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR722S-8T4GS.png)
 
 ## Datasheet
-- [HR722S_8T4GS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR722S_8T4GS.pdf) （本地：`data/hrui_site_raw/downloads/HR722S_8T4GS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR722S_8T4GS.txt`）
+- [HR722S_8T4GS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR722S_8T4GS.pdf) （本地：`data/hrui_site_raw/datasheets/HR722S_8T4GS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR722S_8T4GS.txt`）
 
 ## Feature and Benefits（原文）
 ```

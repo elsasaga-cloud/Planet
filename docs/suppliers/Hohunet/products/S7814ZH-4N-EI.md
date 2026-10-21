@@ -66,9 +66,9 @@
 见 [software/software-spec-78b5976690.md](../software/software-spec-78b5976690.md)（283 行，EB / MS / MA 三档）
 
 ## Download
-- [DynamicDuo Series switches datasheet_EN_V1.4](https://hohunet.com/wp-content/uploads/2025/12/DynamicDuo-Series-switches-datasheet_EN_V1.4.pdf) （本地：`data/hohunet_site_raw/downloads/DynamicDuo-Series-switches-datasheet_EN_V1.4.pdf`）
-- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/downloads/HOS-Software-Features_EN_V2.4.pdf`）
-- [Performance of BigFlow Platform_EN_V2.1](https://hohunet.com/wp-content/uploads/2024/08/Performance-of-BigFlow-Platform_EN_V2.1.pdf) （本地：`data/hohunet_site_raw/downloads/Performance-of-BigFlow-Platform_EN_V2.1.pdf`）
+- [DynamicDuo Series switches datasheet_EN_V1.4](https://hohunet.com/wp-content/uploads/2025/12/DynamicDuo-Series-switches-datasheet_EN_V1.4.pdf) （本地：`data/hohunet_site_raw/datasheets/DynamicDuo-Series-switches-datasheet_EN_V1.4.pdf`）
+- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/datasheets/HOS-Software-Features_EN_V2.4.pdf`）
+- [Performance of BigFlow Platform_EN_V2.1](https://hohunet.com/wp-content/uploads/2024/08/Performance-of-BigFlow-Platform_EN_V2.1.pdf) （本地：`data/hohunet_site_raw/datasheets/Performance-of-BigFlow-Platform_EN_V2.1.pdf`）
 
 ## Description（原文）
 ```

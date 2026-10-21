@@ -1,9 +1,9 @@
 # HR600-SWG2086AS-BP
 
 > 来源：<https://www.hruitech.com/industrial-ethernet-switch/172.html>（抓取 2026-10-21T03:47:33Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：14-Port Gigabit Industrial Managed Ethernet Switch  
+> 官网描述：Industrial L2+ 8-Port 10/100/1000T + 6-Port 1G/2.5G SFP Bypass Managed Ethernet Switch  
 > 类目：Industrial Ethernet Switch（site id 172）  
-> 接口：8×Gigabit；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC12～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-） / Protect grade： IP40 / Installation ：DIN Rail / Product weight： 1 KG Package weight： 1.3KG（Without power） Produc Dimensions(L×W×H): 188mm*130mm*64mm / Package Dimensions(L×W× H): 250mm×210mm×88mm Standard packing(L×W× H): 608mm×500 mm×435mm
+> 接口：8 Gigabit Ports + 6 Gigabit SFP Port (13-14 Port support 2.5G, Compatible with 1.25G/155M) + 1 Console Port；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC12～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-） / Protect grade： IP40 / Installation ：DIN Rail / Product weight： 1 KG Package weight： 1.3KG（Without power） Produc Dimensions(L×W×H): 188mm*130mm*64mm / Package Dimensions(L×W× H): 250mm×210mm×88mm Standard packing(L×W× H): 608mm×500 mm×435mm
 
 **Brief:** 2.5G ring network industiral managed Ethernet switch, integrated with bypass protection function, 8*Gigabit RJ45 ports + 6*Gigabit uplink SFP ports + 1*Console port, 13-14 ports support 2.5G, bandwidth 34Gbps, Layer 2 management, support ERPS protocol, ring network redundancy, IP40 protection, Surge 6KV, ESD 15KV, DC12-55V power input, redundant power supply, adapt to -40°C~+75°C wide temperature
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-SWG2086AS-BP-285-29_kSVOD.png)
 
 ## Datasheet
-- [HR600_SWG2086AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_SWG2086AS_BP.pdf) （本地：`data/hrui_site_raw/downloads/HR600_SWG2086AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_SWG2086AS_BP.txt`）
+- [HR600_SWG2086AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_SWG2086AS_BP.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_SWG2086AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_SWG2086AS_BP.txt`）
 
 ## Feature and Benefits（原文）
 ```

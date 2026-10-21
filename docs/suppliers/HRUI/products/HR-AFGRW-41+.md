@@ -1,7 +1,7 @@
 # HR-AFGRW-41+
 
 > 来源：<https://www.hruitech.com/poe-accessory/312.html>（抓取 2026-10-21T03:46:05Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR-AFGRW-41+ - Weatherproof 1000Mbps Ethernet PoE Extender  
+> 官网描述：Weatherproof 1000Mbps Ethernet PoE Extender  
 > 类目：PoE Accessory（site id 312）  
 > 接口：1*1Gbps PoE in port / 4*1Gbps PoE out ports；PoE 预算 44W；交换带宽 10Gbps；电源 IEEE802.3af/at/HiPoE
 
@@ -16,7 +16,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_big_HR-AFRW-41-2B-287-29.png)
 
 ## Datasheet
-- [HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.pdf) （本地：`data/hrui_site_raw/downloads/HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.txt`）
+- [HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.pdf) （本地：`data/hrui_site_raw/datasheets/HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-AFGRW-41-2B-EF-BC-88EN-EF-BC-89.txt`）
 
 ## Feature and Benefits（原文）
 ```

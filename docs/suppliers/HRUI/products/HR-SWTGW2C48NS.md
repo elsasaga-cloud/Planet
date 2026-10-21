@@ -1,7 +1,7 @@
 # HR-SWTGW2C48NS
 
 > 来源：<https://www.hruitech.com/managed-switch/229.html>（抓取 2026-10-21T03:48:51Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：12-Port 10G Web Management Ethernet Switch | HRUI  
+> 官网描述：Layer3 4-Port 10GBASE-T and 8-Port 10G SFP+ Managed Switch  
 > 类目：Managed Switch（site id 229）  
 > 接口：4* 10G RJ45 ports / 8* 10G SFP+ ports；PoE 预算 —；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 12V 4A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-SWTGW2C48NS-284-29.png)
 
 ## Datasheet
-- [HR_SWTGW2C48NS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW2C48NS.pdf) （本地：`data/hrui_site_raw/downloads/HR_SWTGW2C48NS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW2C48NS.txt`）
+- [HR_SWTGW2C48NS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW2C48NS.pdf) （本地：`data/hrui_site_raw/datasheets/HR_SWTGW2C48NS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW2C48NS.txt`）
 
 ## Feature and Benefits（原文）
 ```

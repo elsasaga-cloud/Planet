@@ -1,7 +1,7 @@
 # HR310S-4T2XS
 
 > 来源：<https://www.hruitech.com/managed-switch/287.html>（抓取 2026-10-21T03:47:22Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR310S-4T2XS - 4-Port 2.5G and 2-Port 10G SFP+ Web Managed Switch  
+> 官网描述：4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Web Managed Switch  
 > 类目：Managed Switch（site id 287）  
 > 接口：4*2.5Gbps RJ45 ports / 2*10Gbps SFP+ ports；PoE 预算 —；交换带宽 60Gbps；电源 AC 100-240V 50/60Hz / DC 12V 1A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR310S_4T2XS-283-29.png)
 
 ## Datasheet
-- [HR310S_4T2XS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR310S_4T2XS.pdf) （本地：`data/hrui_site_raw/downloads/HR310S_4T2XS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR310S_4T2XS.txt`）
+- [HR310S_4T2XS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR310S_4T2XS.pdf) （本地：`data/hrui_site_raw/datasheets/HR310S_4T2XS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR310S_4T2XS.txt`）
 
 ## Feature and Benefits（原文）
 ```

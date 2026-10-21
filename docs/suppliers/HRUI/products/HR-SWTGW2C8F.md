@@ -1,9 +1,9 @@
 # HR-SWTGW2C8F
 
 > 来源：<https://www.hruitech.com/managed-switch/215.html>（抓取 2026-10-21T03:48:49Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：8-port 10G SFP+ Web Management Switch | HRUI - HR-SWTGW2C8F  
+> 官网描述：8-Port 10G SFP+ Web Managed Switch  
 > 类目：Managed Switch（site id 215）  
-> 接口：—；PoE 预算 —；交换带宽 —；电源 —
+> 接口：Port Switch configuration / Port Speed configuration / Port Duplex configuration / Port Flow Control configuration / EEE / Jumbo Frame；PoE 预算 —；交换带宽 —；电源 —
 
 **Brief:** HRUI Web Managed 8-Port 10G Switch is a high-performance switch with 8 10G SFP+ ports, which is ideal for high-speed connectivity between WiFi 7 access points, storage servers, and other devices. The product is easy to use, plug-and-play, and no configuration is required. Meanwhile, the product supports a cloud management function, which allows remote maintenance work with management platforms such as HRUI Cloud, making network management easier and smarter. Therefore, this switch is perfect for usage scenarios that require faster network speeds.
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-SWTGW2C8F-284-29.png)
 
 ## Datasheet
-- [HR_SWTGW2C8F.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW2C8F.pdf) （本地：`data/hrui_site_raw/downloads/HR_SWTGW2C8F.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW2C8F.txt`）
+- [HR_SWTGW2C8F.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW2C8F.pdf) （本地：`data/hrui_site_raw/datasheets/HR_SWTGW2C8F.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW2C8F.txt`）
 
 ## Feature and Benefits（原文）
 ```

@@ -264,9 +264,17 @@ def plain_rows(rows):
 
 def local_file_map(raw):
     """下载 / 图片 manifest：url → 本地文件（已归档的）。"""
-    dl = {r['url']: r.get('file') for r in read_jsonl(os.path.join(raw, 'downloads_manifest.jsonl')) if r.get('file')}
-    im = {r['url']: r.get('file') for r in read_jsonl(os.path.join(raw, 'images_manifest.jsonl')) if r.get('file')}
-    return dl, im
+    def fix(f):
+        # 工作流把 crawl_bin/downloads 落到 data/<site>_site_raw/datasheets/，manifest 里仍写 downloads/…
+        if f and not os.path.exists(os.path.join(raw, f)):
+            alt = 'datasheets/' + os.path.basename(f)
+            if os.path.exists(os.path.join(raw, alt)):
+                return alt
+            return None
+        return f
+    dl = {r['url']: fix(r.get('file')) for r in read_jsonl(os.path.join(raw, 'downloads_manifest.jsonl')) if r.get('file')}
+    im = {r['url']: fix(r.get('file')) for r in read_jsonl(os.path.join(raw, 'images_manifest.jsonl')) if r.get('file')}
+    return {k: v for k, v in dl.items() if v}, {k: v for k, v in im.items() if v}
 
 
 def product_hohunet(page, soup, base, dlmap, immap):
@@ -337,6 +345,16 @@ def product_hrui(page, soup, base, dlmap, immap, api_idx):
     cat_slug = urlparse(page['url']).path.strip('/').split('/')[0]
     pid = re.sub(r'\D', '', urlparse(page['url']).path.rsplit('/', 1)[-1])
     api = api_idx.get(pid, {})
+    # API 的 title / product_sn 通常最干净（页面标题有时带 " - 描述" 或整句描述；个别条目后台把两字段填反）
+    for cand in (api.get('product_sn'), api.get('title'), model):
+        cand = (cand or '').strip()
+        if re.match(r'^HR[0-9A-Z]*-?[0-9A-Z+/-]*$', cand.split(' ')[0]) and ' - ' not in cand and len(cand) <= 40:
+            model = cand.split(' ')[0] if ' ' in cand else cand
+            break
+    else:
+        model = model.split(' - ')[0].strip()
+    if api.get('category'):
+        cat_slug = api['category']
     pdfs = [urljoin(base, a['href']) for a in soup.select('ul.detail-product-btm a[href]') if a['href'].lower().endswith('.pdf')]
     dls = [dict(text='Datasheet', url=u, local=dlmap.get(u)) for u in pdfs]
     contents = soup.select('div.detail-product-content')
@@ -360,7 +378,9 @@ def product_hrui(page, soup, base, dlmap, immap, api_idx):
             gallery.append(urljoin(base, src))
     gallery = list(OrderedDict.fromkeys(gallery))
     sd = spec_dict(spec)
-    iface = sd.get('Interface', '')
+    iface = sd.get('Interface', '') or sd.get('Port Definition', '') or sd.get('Port Configure', '') or sd.get('Device interface', '') or sd.get('Port', '')
+    if not iface and api.get('title2'):
+        iface = api['title2']  # API 的 title2 本身就是端口描述（如 "16-Port 10/100/1000T 802.3af/at PoE + 2-Port 2.5G SFP ..."）
     return OrderedDict([
         ('model', model or api.get('product_sn') or ''), ('title', api.get('title2') or re.sub(r'\s*(?:-\s*PoE Switch and Industrial Switch Manufacturer)?\s*\|?\s*HRUI\s*$', '', page['title']).strip()),
         ('category', HRUI_CAT_NAMES.get(cat_slug, cat_slug)), ('category_slug', cat_slug), ('site_id', pid), ('url', page['url']), ('fetched_at', page['fetched_at']),
@@ -482,9 +502,16 @@ def write_hohunet_md(cfg, pr, pdir, sw_dir, sw_hashes):
     return os.path.relpath(fn, ROOT)
 
 
-def write_hrui_md(cfg, pr, pdir):
+def hrui_fname(pr, dup_models=()):
+    base = re.sub(r'[^A-Za-z0-9+._-]+', '_', pr['model']) or slug_of(pr['url'])
+    if pr['model'] in dup_models:
+        base += f"_{pr['site_id']}"
+    return base + '.md'
+
+
+def write_hrui_md(cfg, pr, pdir, dup_models=()):
     os.makedirs(pdir, exist_ok=True)
-    fn = os.path.join(pdir, (re.sub(r'[^A-Za-z0-9+._-]+', '_', pr['model']) or slug_of(pr['url'])) + '.md')
+    fn = os.path.join(pdir, hrui_fname(pr, dup_models))
     raw = cfg['raw']
     L = [f"# {pr['model'] or pr['title']}", '', f"> 来源：<{pr['url']}>（抓取 {pr['fetched_at']}；英文原文照录，中文仅为栏目名）  ",
          f"> 官网描述：{pr['title'] or '—'}  ", f"> 类目：{pr['category']}（site id {pr['site_id']}）  ",
@@ -593,10 +620,12 @@ def build(site):
             print(f'[{site}] 产品解析失败 {p["url"]}: {e}')
             continue
         products.append(pr)
-    # 同型号去重（HRUI 同一产品可能挂在多个类目 URL 下）
+    # 同型号去重（HRUI 同一产品可能挂在多个类目 / 方案 URL 下：按 site_id 归并，保留内容最全的一条）
+    if site == 'hrui':
+        products.sort(key=lambda x: -(len(x['spec']) + len(x['downloads']) + len(x['gallery'])))
     seen_m, dedup = set(), []
     for pr in products:
-        k = (pr['model'] or pr['url']).upper()
+        k = (pr.get('site_id') or pr['model'] or pr['url']).upper() if site == 'hrui' else (pr['model'] or pr['url']).upper()
         if k in seen_m:
             continue
         seen_m.add(k)
@@ -629,10 +658,11 @@ def build(site):
                 paths.append(write_hohunet_md(cfg, pr, pdir, os.path.join(docs, 'software'), sw_hashes))
         else:
             w.writerow(['官网型号', '官网描述', '类目', 'Interface', 'PoE 预算', '交换带宽', '电源', '尺寸/重量', '装箱', '规格书(本地)', 'URL', '抓取时间'])
+            dup_models = {m for m, n in Counter(p['model'] for p in products).items() if n > 1}
             for pr in products:
                 ds = next((d['local'] for d in pr['downloads'] if d.get('local')), '')
                 w.writerow([pr['model'], pr['title'], pr['category'], pr['interface'], pr['poe_budget'], pr['switching_bandwidth'], pr['power_supply'], pr['dimensions'], pr['packing'], ds, pr['url'], pr['fetched_at']])
-                paths.append(write_hrui_md(cfg, pr, pdir))
+                paths.append(write_hrui_md(cfg, pr, pdir, dup_models))
     # ---- 页面索引 MD ----
     by_type = defaultdict(list)
     for p in pages:
@@ -678,8 +708,9 @@ def build(site):
             L.append(f"## {g}（{len(groups[g])}）")
             L.append('| 官网型号 | 官网描述 | Interface | PoE 预算 | 规格书 | 单页 |')
             L.append('|---|---|---|---|---|---|')
+            dup_models = {m for m, n in Counter(p['model'] for p in products).items() if n > 1}
             for pr in groups[g]:
-                pth = (re.sub(r'[^A-Za-z0-9+._-]+', '_', pr['model']) or slug_of(pr['url'])) + '.md'
+                pth = hrui_fname(pr, dup_models)
                 ds = '✓' if any(d.get('local') for d in pr['downloads']) else '—'
                 L.append(f"| {md_escape(pr['model'])} | {md_escape(pr['title'] or '—')[:110]} | {md_escape(pr['interface'] or pr['ports'] or '—')} | {md_escape(pr['poe_budget'] or '—')} | {ds} | [{pth}](products/{pth}) |")
             L.append('')

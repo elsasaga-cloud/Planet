@@ -1,9 +1,9 @@
 # HR600-SWG20824AS-BP
 
 > 来源：<https://www.hruitech.com/industrial-ethernet-switch/170.html>（抓取 2026-10-21T03:47:34Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：2.5G SFP Bypass Managed Industrial Ethernet Switch | HRUI  
+> 官网描述：Industrial L2+ 8-Port 10/100/1000T + 2-Port 10/100/1000T + 4-Port 1G/2.5G SFP Bypass Managed Ethernet Switch  
 > 类目：Industrial Ethernet Switch（site id 170）  
-> 接口：8×Gigabit + 4×Gigabit；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC12～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-）
+> 接口：8 Gigabit Ports + 2 Gigabit Uplink Port+ 4 Gigabit SFP Port (13-14 Port support 2.5G, Compatible with 1.25G/155M)；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC12～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-）
 
 **Brief:** 2.5G ring network industiral managed Ethernet switch, integrated with bypass protection function, 8*Gigabit RJ45 ports + 2*Gigabit uplink RJ45 ports + 4*Gigabit uplink SFP ports + 1*Console port, 13-14 ports support 2.5G, bandwidth 34Gbps, Layer 2 management, support ERPS protocol, ring network redundancy, IP40 protection, Surge 6KV, ESD 15KV, DC12-55V power input, redundant power supply, adapt to -40°C~+85°C wide temperature
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-SWG20824AS-BP-284-29_LKaAT.png)
 
 ## Datasheet
-- [HR600_SWG20824AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_SWG20824AS_BP.pdf) （本地：`data/hrui_site_raw/downloads/HR600_SWG20824AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_SWG20824AS_BP.txt`）
+- [HR600_SWG20824AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_SWG20824AS_BP.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_SWG20824AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_SWG20824AS_BP.txt`）
 
 ## Feature and Benefits（原文）
 ```

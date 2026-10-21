@@ -65,9 +65,9 @@
 见 [software/software-spec-b810b0ee54.md](../software/software-spec-b810b0ee54.md)（289 行，EB / MS / MA 三档）
 
 ## Download
-- [S3700 Series switches datasheet_V1.3](https://hohunet.com/wp-content/uploads/2026/06/S3700-Series-switches-datasheet_V1.3.pdf) （本地：`data/hohunet_site_raw/downloads/S3700-Series-switches-datasheet_V1.3.pdf`）
-- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/downloads/HOS-Software-Features_EN_V2.4.pdf`）
-- [Performance of LightLink Platform_EN_1.0](https://hohunet.com/wp-content/uploads/2026/06/Performance-of-LightLink-Platform_EN_1.0.pdf) （本地：`data/hohunet_site_raw/downloads/Performance-of-LightLink-Platform_EN_1.0.pdf`）
+- [S3700 Series switches datasheet_V1.3](https://hohunet.com/wp-content/uploads/2026/06/S3700-Series-switches-datasheet_V1.3.pdf) （本地：`data/hohunet_site_raw/datasheets/S3700-Series-switches-datasheet_V1.3.pdf`）
+- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/datasheets/HOS-Software-Features_EN_V2.4.pdf`）
+- [Performance of LightLink Platform_EN_1.0](https://hohunet.com/wp-content/uploads/2026/06/Performance-of-LightLink-Platform_EN_1.0.pdf) （本地：`data/hohunet_site_raw/datasheets/Performance-of-LightLink-Platform_EN_1.0.pdf`）
 
 ## Description（原文）
 ```

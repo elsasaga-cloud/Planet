@@ -67,9 +67,9 @@
 见 [software/software-spec-78b5976690.md](../software/software-spec-78b5976690.md)（283 行，EB / MS / MA 三档）
 
 ## Download
-- [S7800 Series switches datasheet_EN_V1.1](https://hohunet.com/wp-content/uploads/2026/06/S7800-Series-switches-datasheet_EN_V1.1.pdf) （本地：`data/hohunet_site_raw/downloads/S7800-Series-switches-datasheet_EN_V1.1_d6ea85fe.pdf`）
-- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/downloads/HOS-Software-Features_EN_V2.4.pdf`）
-- [Performance of PowerLink Platform_EN_V1.0](https://hohunet.com/wp-content/uploads/2026/06/Performance-of-PowerLink-Platform_EN_V1.0.pdf) （本地：`data/hohunet_site_raw/downloads/Performance-of-PowerLink-Platform_EN_V1.0.pdf`）
+- [S7800 Series switches datasheet_EN_V1.1](https://hohunet.com/wp-content/uploads/2026/06/S7800-Series-switches-datasheet_EN_V1.1.pdf) （本地：`data/hohunet_site_raw/datasheets/S7800-Series-switches-datasheet_EN_V1.1_d6ea85fe.pdf`）
+- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/datasheets/HOS-Software-Features_EN_V2.4.pdf`）
+- [Performance of PowerLink Platform_EN_V1.0](https://hohunet.com/wp-content/uploads/2026/06/Performance-of-PowerLink-Platform_EN_V1.0.pdf) （本地：`data/hohunet_site_raw/datasheets/Performance-of-PowerLink-Platform_EN_V1.0.pdf`）
 
 ## Description（原文）
 ```

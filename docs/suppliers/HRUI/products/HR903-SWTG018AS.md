@@ -1,7 +1,7 @@
 # HR903-SWTG018AS
 
 > 来源：<https://www.hruitech.com/ethernet-switch/279.html>（抓取 2026-10-21T03:47:29Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR903-SWTG018AS - 8-Port 2.5G and 1-Port 10G SFP+ Ethernet Switch  
+> 官网描述：8-Port 10/100/1000/2500T + 1-Port 10G SFP+ Ethernet Switch   
 > 类目：Ethernet Switch（site id 279）  
 > 接口：8 * 2.5G RJ45 ports / 1 * 10G SFP+ port；PoE 预算 —；交换带宽 —；电源 AC 100-240V , 50/60Hz / DC 12V 1A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR903_SWTG018AS-283-29.png)
 
 ## Datasheet
-- [HR903_SWTG018AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR903_SWTG018AS.pdf) （本地：`data/hrui_site_raw/downloads/HR903_SWTG018AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR903_SWTG018AS.txt`）
+- [HR903_SWTG018AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR903_SWTG018AS.pdf) （本地：`data/hrui_site_raw/datasheets/HR903_SWTG018AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR903_SWTG018AS.txt`）
 
 ## Feature and Benefits（原文）
 ```

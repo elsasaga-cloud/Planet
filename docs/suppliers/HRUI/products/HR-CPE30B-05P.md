@@ -1,7 +1,7 @@
 # HR-CPE30B-05P
 
 > 来源：<https://www.hruitech.com/wireless-bridge/322.html>（抓取 2026-10-21T03:46:04Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR-CPE30B-05P  
+> 官网描述：2.4G Outdoor 300M Wireless Bridge  
 > 类目：Wireless Solutions（site id 322）  
 > 接口：1*10/100Mbps PoE port；PoE 预算 —；交换带宽 —；电源 Supports Standard and DC 12V power supply
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-CPE30B-05P-bm.png)
 
 ## Datasheet
-- [HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.pdf) （本地：`data/hrui_site_raw/downloads/HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.txt`）
+- [HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.pdf) （本地：`data/hrui_site_raw/datasheets/HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-CPE30B-05P-EF-BC-88EN-EF-BC-89.txt`）
 
 ## Feature and Benefits（原文）
 ```

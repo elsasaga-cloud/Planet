@@ -1,7 +1,7 @@
-# HR-PE08-SV+ & HR-PE08-IPC+
+# HR-PE08-SV+
 
 > 来源：<https://www.hruitech.com/poe-accessory/156.html>（抓取 2026-10-21T03:45:55Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HRUI 100Mbps Ethernet PoE Extender | HR-PE08-SV+ HR-PE08-IPC  
+> 官网描述：100Mbps Ethernet PoE Extender  
 > 类目：PoE Accessory（site id 156）  
 > 接口：1 *100 Mbps PoE in port / 1 *100Mbps PoE out port；PoE 预算 30W；交换带宽 —；电源 —
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_476cc04b-2dd6-49cb-8265-04ff78ddfa0c_vizxb.png)
 
 ## Datasheet
-- [HR_PE08_SV_HR_PE08_IPC.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_PE08_SV_HR_PE08_IPC.pdf) （本地：`data/hrui_site_raw/downloads/HR_PE08_SV_HR_PE08_IPC.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_PE08_SV_HR_PE08_IPC.txt`）
+- [HR_PE08_SV_HR_PE08_IPC.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_PE08_SV_HR_PE08_IPC.pdf) （本地：`data/hrui_site_raw/datasheets/HR_PE08_SV_HR_PE08_IPC.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_PE08_SV_HR_PE08_IPC.txt`）
 
 ## Feature and Benefits（原文）
 ```

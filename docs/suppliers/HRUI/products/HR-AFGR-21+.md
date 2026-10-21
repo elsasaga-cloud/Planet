@@ -1,7 +1,7 @@
 # HR-AFGR-21+
 
 > 来源：<https://www.hruitech.com/poe-accessory/157.html>（抓取 2026-10-21T03:46:08Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：1000Mbps Ethernet PoE Extender HR-AFGR-21+ | HRUI  
+> 官网描述： 1000Mbps Ethernet PoE Extender  
 > 类目：PoE Accessory（site id 157）  
 > 接口：1* 1000Mbps PoE in RJ45 port / 2 *1000Mbps PoE out ports；PoE 预算 25W；交换带宽 —；电源 PoE powered
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_0594f89a-8bbc-47cb-9d3c-c0999457e56f.png)
 
 ## Datasheet
-- [HR_AFGR_21.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_AFGR_21.pdf) （本地：`data/hrui_site_raw/downloads/HR_AFGR_21.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_AFGR_21.txt`）
+- [HR_AFGR_21.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_AFGR_21.pdf) （本地：`data/hrui_site_raw/datasheets/HR_AFGR_21.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_AFGR_21.txt`）
 
 ## Feature and Benefits（原文）
 ```

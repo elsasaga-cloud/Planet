@@ -1,7 +1,7 @@
 # HR-SWTGW2C12F
 
 > 来源：<https://www.hruitech.com/managed-switch/228.html>（抓取 2026-10-21T03:48:52Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR-SWTGW2C12F | 12-Port 10G SFP+ Web Managed Switch | HRUI  
+> 官网描述：12-Port 10G SFP+ Web Managed Switch  
 > 类目：Managed Switch（site id 228）  
 > 接口：12*10G SFP+ ports；PoE 预算 —；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 12V 8A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-SWTGW2C12F-284-29.png)
 
 ## Datasheet
-- [HR_SWTGW2C12F.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW2C12F.pdf) （本地：`data/hrui_site_raw/downloads/HR_SWTGW2C12F.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW2C12F.txt`）
+- [HR_SWTGW2C12F.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW2C12F.pdf) （本地：`data/hrui_site_raw/datasheets/HR_SWTGW2C12F.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW2C12F.txt`）
 
 ## Feature and Benefits（原文）
 ```

@@ -1,9 +1,9 @@
 # HR903-SWTG024AS
 
 > 来源：<https://www.hruitech.com/ethernet-switch/280.html>（抓取 2026-10-21T03:47:28Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR903-SWTG024AS - 4-Port 2.5G and 2-Port 10G SFP+ Ethernet Switch  
+> 官网描述：4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch   
 > 类目：Ethernet Switch（site id 280）  
-> 接口：—；PoE 预算 —；交换带宽 —；电源 —
+> 接口：4-Port 10/100/1000/2500T + 2-Port 10G SFP+ Ethernet Switch ；PoE 预算 —；交换带宽 —；电源 —
 
 **Brief:** The HR903-SWTG024AS is a versatile and powerful Ethernet switch designed for demanding network environments. It combines the speed of 2.5 Gigabit Ethernet with the flexibility of 10 Gigabit SFP+ connectivity. This switch provides a cost-effective solution for boosting network performance, handling bandwidth-intensive applications, and future-proofing your infrastructure.
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR903_SWTG024AS-283-29.png)
 
 ## Datasheet
-- [HR903_SWTG024AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR903_SWTG024AS.pdf) （本地：`data/hrui_site_raw/downloads/HR903_SWTG024AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR903_SWTG024AS.txt`）
+- [HR903_SWTG024AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR903_SWTG024AS.pdf) （本地：`data/hrui_site_raw/datasheets/HR903_SWTG024AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR903_SWTG024AS.txt`）
 
 ## Feature and Benefits（原文）
 ```

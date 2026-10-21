@@ -1,9 +1,9 @@
 # HR600-SWG2082AS-BP
 
 > 来源：<https://www.hruitech.com/industrial-ethernet-switch/174.html>（抓取 2026-10-21T03:47:35Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：Industrial 10-Port Gigabit 2.5G SFP Managed Ethernet Switch  
+> 官网描述：Industrial L2+ 8-Port 10/100/1000T + 2-Port 1G/2.5G SFP Bypass Managed Ethernet Switch  
 > 类目：Industrial Ethernet Switch（site id 174）  
-> 接口：8×Gigabit；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC 12～55V / Type of input: 4 PIN Industrial Terminal（block V1+V1- V2+ V2-）
+> 接口：8 Gigabit Ports +2 *2.5G SFP Port(Compatible with 1.25G / 155M) + 1 Console port；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC 12～55V / Type of input: 4 PIN Industrial Terminal（block V1+V1- V2+ V2-）
 
 **Brief:** 2.5G ring network industiral managed Ethernet switch, integrated with bypass protection function, 8*Gigabit RJ45 ports + 2*2.5G uplink SFP ports + 1*Console port, bandwidth 26Gbps, Layer 2 management, support ERPS protocol, ring network redundancy, IP40 protection, Surge 6KV, ESD 15KV, DC12-55V power input, redundant power supply, adapt to -40°C~+85°C wide temperature
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-SWG2082AS-BP-283-29_O1dlu.png)
 
 ## Datasheet
-- [HR600_SWG2082AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_SWG2082AS_BP.pdf) （本地：`data/hrui_site_raw/downloads/HR600_SWG2082AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_SWG2082AS_BP.txt`）
+- [HR600_SWG2082AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_SWG2082AS_BP.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_SWG2082AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_SWG2082AS_BP.txt`）
 
 ## Feature and Benefits（原文）
 ```

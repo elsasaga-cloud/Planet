@@ -1,7 +1,7 @@
 # HR-AFGM-82NS
 
 > 来源：<https://www.hruitech.com/managed-switch/226.html>（抓取 2026-10-21T03:48:53Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：10-Port Gigabit L2 Managed Intelligent PoE Switch | HRUI  
+> 官网描述：8-Port 10/100/1000T 802.3af/at PoE + 2-Port 1G SFP Managed Switch  
 > 类目：Managed Switch（site id 226）  
 > 接口：8*1Gbps PoE ports / 2*1Gbps SFP ports / 1*Console port；PoE 预算 100W；交换带宽 20Gbps；电源 AC 100-240V 50/60Hz / DC 52V 2.3A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-AFGM-82NS-284-29.png)
 
 ## Datasheet
-- [HR_AFGM_82NS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_AFGM_82NS.pdf) （本地：`data/hrui_site_raw/downloads/HR_AFGM_82NS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_AFGM_82NS.txt`）
+- [HR_AFGM_82NS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_AFGM_82NS.pdf) （本地：`data/hrui_site_raw/datasheets/HR_AFGM_82NS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_AFGM_82NS.txt`）
 
 ## Feature and Benefits（原文）
 ```

@@ -1,7 +1,7 @@
 # HR722P-8T4GS-A
 
 > 来源：<https://www.hruitech.com/industrial-poe-switch/268.html>（抓取 2026-10-21T03:46:11Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HR722P-8T4GS-A - 12-Port Gigabit Industrial Managed PoE Switch  
+> 官网描述： Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 4-Port 1000X SFP Managed Ethernet Switch  
 > 类目：Industrial PoE Switch（site id 268）  
 > 接口：8*1Gbps PoE ports / 4*1Gbps SFP ports / 1*Console port；PoE 预算 According to the adapter；交换带宽 24Gbps；电源 DC12~55V / DC48~55V (PoE) / Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)
 
@@ -11,7 +11,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR722P-8T4GS-X.png)
 
 ## Datasheet
-- [HR722P_8T4GS_A.pdf](https://www.hruitech.com/web/userfiles/productfile/HR722P_8T4GS_A.pdf) （本地：`data/hrui_site_raw/downloads/HR722P_8T4GS_A.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR722P_8T4GS_A.txt`）
+- [HR722P_8T4GS_A.pdf](https://www.hruitech.com/web/userfiles/productfile/HR722P_8T4GS_A.pdf) （本地：`data/hrui_site_raw/datasheets/HR722P_8T4GS_A.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR722P_8T4GS_A.txt`）
 
 ## Feature and Benefits（原文）
 ```

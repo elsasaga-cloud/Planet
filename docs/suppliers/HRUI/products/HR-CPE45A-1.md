@@ -1,7 +1,7 @@
 # HR-CPE45A-1
 
 > 来源：<https://www.hruitech.com/wireless-bridge/107.html>（抓取 2026-10-21T03:48:59Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：450Mbps Wireless Digital Bridge HR-CPE45A-1 | HRUI  
+> 官网描述：450Mbps Outdoor Wireless Digital Bridge  
 > 类目：Wireless Solutions（site id 107）  
 > 接口：LAN 1* 10/100Mbps adaptive RJ45 port；PoE 预算 —；交换带宽 —；电源 —
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-CPE45A-1-04.png)
 
 ## Datasheet
-- [HR-CPE45A-1-28EN-29.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-CPE45A-1-28EN-29.pdf) （本地：`data/hrui_site_raw/downloads/HR-CPE45A-1-28EN-29.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-CPE45A-1-28EN-29.txt`）
+- [HR-CPE45A-1-28EN-29.pdf](https://www.hruitech.com/web/userfiles/productfile/HR-CPE45A-1-28EN-29.pdf) （本地：`data/hrui_site_raw/datasheets/HR-CPE45A-1-28EN-29.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR-CPE45A-1-28EN-29.txt`）
 
 ## Feature and Benefits（原文）
 ```

@@ -1,9 +1,9 @@
 # HR600-AXGM-SWG20104AS-BP
 
 > 来源：<https://www.hruitech.com/industrial-poe-switch/130.html>（抓取 2026-10-21T03:47:31Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：14-Port Gigabit Industrial Bypass Managed BT90W PoE Switch  
+> 官网描述：Industrial L2+ 10-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 1000X SFP + 2-Port 2.5G SFP Bypass Managed Ethernet Switch  
 > 类目：Industrial PoE Switch（site id 130）  
-> 接口：10×Gigabit；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC48～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-）
+> 接口：10 Gigabit PoE Ports(9-10 Port Support BT) + 4 Gigabit SFP Port (13-14 Port support 2.5G, Compatible with 1.25G/155M) + 1 Console Port；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC48～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-）
 
 **Brief:** 2.5G ring network industiral managed BT90W PoE switch, integrated with Bypass protection function, 10*Gigabit PoE ports + 4*Gigabit uplink SFP ports + 1*Console port, 9-10 ports support BT90W power supply, 13-14 ports support 2.5G, bandwidth 34Gbps, Layer 2 management, support ERPS protocol, ring network redundancy, IP40 protection, Surge 6KV, ESD 15KV, DC48-55V power input, redundant power supply, adapt to -40°C~+85°C wide temperature
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-AXGM-SWG20104AS-BP-285-29.png)
 
 ## Datasheet
-- [HR600_AXGM_SWG20104AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_AXGM_SWG20104AS_BP.pdf) （本地：`data/hrui_site_raw/downloads/HR600_AXGM_SWG20104AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_AXGM_SWG20104AS_BP.txt`）
+- [HR600_AXGM_SWG20104AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_AXGM_SWG20104AS_BP.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_AXGM_SWG20104AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_AXGM_SWG20104AS_BP.txt`）
 
 ## Feature and Benefits（原文）
 ```

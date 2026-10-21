@@ -1,7 +1,7 @@
 # HR510S-4T2XS
 
 > 来源：<https://www.hruitech.com/managed-switch/202.html>（抓取 2026-10-21T03:47:37Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：6-port 10G Web Managed Ethernet Switch, HR510S-4T2XS | HRUI  
+> 官网描述：4-Port 10GBASE-T and 2-Port 10G SFP+ Web Managed Switch  
 > 类目：Managed Switch（site id 202）  
 > 接口：4* 10G RJ45 ports / 2* 10G SFP+optical ports；PoE 预算 —；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 12V 2.5A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR510S-4T2XS-284-29.png)
 
 ## Datasheet
-- [HR510S_4T2XS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR510S_4T2XS.pdf) （本地：`data/hrui_site_raw/downloads/HR510S_4T2XS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR510S_4T2XS.txt`）
+- [HR510S_4T2XS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR510S_4T2XS.pdf) （本地：`data/hrui_site_raw/datasheets/HR510S_4T2XS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR510S_4T2XS.txt`）
 
 ## Feature and Benefits（原文）
 ```

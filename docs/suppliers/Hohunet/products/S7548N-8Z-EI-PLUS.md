@@ -67,9 +67,9 @@
 见 [software/software-spec-6d2462d3cd.md](../software/software-spec-6d2462d3cd.md)（283 行，EB / MS / MA 三档）
 
 ## Download
-- [S7500 Series switches datasheet_EN_V3.7](https://hohunet.com/wp-content/uploads/2026/06/S7500-Series-switches-datasheet_EN_V3.7-1.pdf) （本地：`data/hohunet_site_raw/downloads/S7500-Series-switches-datasheet_EN_V3.7-1.pdf`）
-- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/downloads/HOS-Software-Features_EN_V2.4.pdf`）
-- [Performance of PowerLink Platform_EN_V1.0](https://hohunet.com/wp-content/uploads/2026/06/Performance-of-PowerLink-Platform_EN_V1.0.pdf) （本地：`data/hohunet_site_raw/downloads/Performance-of-PowerLink-Platform_EN_V1.0.pdf`）
+- [S7500 Series switches datasheet_EN_V3.7](https://hohunet.com/wp-content/uploads/2026/06/S7500-Series-switches-datasheet_EN_V3.7-1.pdf) （本地：`data/hohunet_site_raw/datasheets/S7500-Series-switches-datasheet_EN_V3.7-1.pdf`）
+- [HOS Software Features_EN_V2.4](https://hohunet.com/wp-content/uploads/2024/07/HOS-Software-Features_EN_V2.4.pdf) （本地：`data/hohunet_site_raw/datasheets/HOS-Software-Features_EN_V2.4.pdf`）
+- [Performance of PowerLink Platform_EN_V1.0](https://hohunet.com/wp-content/uploads/2026/06/Performance-of-PowerLink-Platform_EN_V1.0.pdf) （本地：`data/hohunet_site_raw/datasheets/Performance-of-PowerLink-Platform_EN_V1.0.pdf`）
 
 ## Description（原文）
 ```

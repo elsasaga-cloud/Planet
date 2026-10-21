@@ -1,7 +1,7 @@
 # HR-SWG2082NS
 
 > 来源：<https://www.hruitech.com/managed-switch/227.html>（抓取 2026-10-21T03:48:52Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HRUI 10-Port Gigabit L2 Managed Intelligent Ethernet Switch  
+> 官网描述：8-Port 10/100/1000T + 2-Port 1G SFP Managed Switch  
 > 类目：Managed Switch（site id 227）  
 > 接口：8*1Gbps RJ45 ports / 2*1Gbps SFP ports / 1*Console port；PoE 预算 —；交换带宽 20Gbps；电源 AC 100-240V 50/60Hz / DC 12V 2A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-SWG2082NS-284-29.png)
 
 ## Datasheet
-- [HR_SWG2082NS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWG2082NS.pdf) （本地：`data/hrui_site_raw/downloads/HR_SWG2082NS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWG2082NS.txt`）
+- [HR_SWG2082NS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWG2082NS.pdf) （本地：`data/hrui_site_raw/datasheets/HR_SWG2082NS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWG2082NS.txt`）
 
 ## Feature and Benefits（原文）
 ```

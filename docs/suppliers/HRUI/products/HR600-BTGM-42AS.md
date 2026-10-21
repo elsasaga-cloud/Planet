@@ -1,7 +1,7 @@
 # HR600-BTGM-42AS
 
 > 来源：<https://www.hruitech.com/industrial-poe-switch/104.html>（抓取 2026-10-21T03:46:10Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：6-Port Gigabit Industrial 2.5G SFP Managed BT90W PoE Switch  
+> 官网描述：Industrial L2+ 4-Port 10/100/1000T 802.3af/at/bt PoE + 2-Port 2.5G SFP Managed Ethernet Switch  
 > 类目：Industrial PoE Switch（site id 104）  
 > 接口：4 *1G PoE ports / 2 *2.5Gbps SFP ports(Compatible with 1.25G/155M) / 1 * Console port；PoE 预算 240W；交换带宽 —；电源 DC12～55V / DC48～55V (PoE) / Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-）
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-BTGM-42AS-284-29.png)
 
 ## Datasheet
-- [HR600_BTGM_42AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_BTGM_42AS.pdf) （本地：`data/hrui_site_raw/downloads/HR600_BTGM_42AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_BTGM_42AS.txt`）
+- [HR600_BTGM_42AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_BTGM_42AS.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_BTGM_42AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_BTGM_42AS.txt`）
 
 ## Feature and Benefits（原文）
 ```

@@ -1,7 +1,7 @@
 # HR200-BTTG-N901
 
 > 来源：<https://www.hruitech.com/poe-accessory/160.html>（抓取 2026-10-21T03:47:10Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：HRUI 90W 10G PoE Injector | HR200-BTTG-N901  
+> 官网描述：90W 10G PoE Injector  
 > 类目：PoE Accessory（site id 160）  
 > 接口：1* 10G PoE Port / 1* 10G RJ45 Port；PoE 预算 —；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 52V 1.92A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_34fc7520-d72a-4b04-b1b1-63be7104ea78.png)
 
 ## Datasheet
-- [HR200_BTTG_N901.pdf](https://www.hruitech.com/web/userfiles/productfile/HR200_BTTG_N901.pdf) （本地：`data/hrui_site_raw/downloads/HR200_BTTG_N901.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR200_BTTG_N901.txt`）
+- [HR200_BTTG_N901.pdf](https://www.hruitech.com/web/userfiles/productfile/HR200_BTTG_N901.pdf) （本地：`data/hrui_site_raw/datasheets/HR200_BTTG_N901.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR200_BTTG_N901.txt`）
 
 ## Feature and Benefits（原文）
 ```

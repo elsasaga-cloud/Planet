@@ -1,7 +1,7 @@
 # HR310S-4T2XT
 
 > 来源：<https://www.hruitech.com/managed-switch/79.html>（抓取 2026-10-21T03:47:21Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：4-Port 2.5G and 2-Port 10G Web Managed Ethernet Switch | HRUI  
+> 官网描述：4-Port 10/100/1000/2500T + 2-Port 10GBASE-T Web Managed Switch  
 > 类目：Managed Switch（site id 79）  
 > 接口：4*10G RJ45 ports / 2*10G RJ45 ports；PoE 预算 —；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 12V1A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_11_big_20241023135949191.png)
 
 ## Datasheet
-- [HR310S-4T2XT-28EN-29.pdf](https://www.hruitech.com/web/userfiles/productfile/HR310S-4T2XT-28EN-29.pdf) （本地：`data/hrui_site_raw/downloads/HR310S-4T2XT-28EN-29.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR310S-4T2XT-28EN-29.txt`）
+- [HR310S-4T2XT-28EN-29.pdf](https://www.hruitech.com/web/userfiles/productfile/HR310S-4T2XT-28EN-29.pdf) （本地：`data/hrui_site_raw/datasheets/HR310S-4T2XT-28EN-29.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR310S-4T2XT-28EN-29.txt`）
 
 ## Feature and Benefits（原文）
 ```

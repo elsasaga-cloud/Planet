@@ -1,7 +1,7 @@
 # HR600-AFGM-SWG2086AS-BP
 
 > 来源：<https://www.hruitech.com/industrial-poe-switch/123.html>（抓取 2026-10-21T03:47:30Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：14-Port Gigabit Industrial 2.5G SFP Managed PoE Switch  
+> 官网描述：Industrial L2+ 8-Port 10/100/1000T 802.3af/at PoE + 4-Port 1000X SFP + 2-Port 2.5G SFP Bypass Managed Ethernet Switch  
 > 类目：Industrial PoE Switch（site id 123）  
 > 接口：8 Gigabit PoE Ports + 6 Gigabit SFP Port (13-14 Port support 2.5G, Compatible with 1.25G/155M) + 1 Console Port；PoE 预算 —；交换带宽 —；电源 Input Voltage: DC48～55V / Type of input: 4 PIN terminal （block V1+V1- V2+ V2-）
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR600-AFGM-SWG2086AS-BP-285-29.png)
 
 ## Datasheet
-- [HR600_AFGM_SWG2086AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_AFGM_SWG2086AS_BP.pdf) （本地：`data/hrui_site_raw/downloads/HR600_AFGM_SWG2086AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_AFGM_SWG2086AS_BP.txt`）
+- [HR600_AFGM_SWG2086AS_BP.pdf](https://www.hruitech.com/web/userfiles/productfile/HR600_AFGM_SWG2086AS_BP.pdf) （本地：`data/hrui_site_raw/datasheets/HR600_AFGM_SWG2086AS_BP.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR600_AFGM_SWG2086AS_BP.txt`）
 
 ## Feature and Benefits（原文）
 ```

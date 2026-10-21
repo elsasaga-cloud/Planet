@@ -1,7 +1,7 @@
 # HR-SWTGW224AS
 
 > 来源：<https://www.hruitech.com/managed-switch/200.html>（抓取 2026-10-21T03:48:47Z；英文原文照录，中文仅为栏目名）  
-> 官网描述：6 Port 10G uplink 2.5G Web Managed Ethernet switch | HRUI  
+> 官网描述：6 Port 10G uplink 2.5G Web Managed Ethernet switch  
 > 类目：Managed Switch（site id 200）  
 > 接口：4 * 2.5G RJ45 ports / 2 * 10G SFP+ ports；PoE 预算 —；交换带宽 —；电源 AC 100-240V 50/60Hz / DC 12V 1A
 
@@ -14,7 +14,7 @@
 ![](../../../../data/hrui_site_raw/images/web_userfiles_product_productpic_big_HR-SWTGW224AS-284-29.png)
 
 ## Datasheet
-- [HR_SWTGW224AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW224AS.pdf) （本地：`data/hrui_site_raw/downloads/HR_SWTGW224AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW224AS.txt`）
+- [HR_SWTGW224AS.pdf](https://www.hruitech.com/web/userfiles/productfile/HR_SWTGW224AS.pdf) （本地：`data/hrui_site_raw/datasheets/HR_SWTGW224AS.pdf`；文本：`data/hrui_site_raw/datasheet_text/HR_SWTGW224AS.txt`）
 
 ## Feature and Benefits（原文）
 ```
