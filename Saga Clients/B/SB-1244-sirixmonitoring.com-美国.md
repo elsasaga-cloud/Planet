@@ -19,10 +19,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STI-280GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：美国的经销/集成（类型待核）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280GE — 官网快照对位：工业/自动化词频 48、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1244.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sirixmonitoring.com/　语言：en-CA　站点地图 URL 数：468
+- **标题**：24/7 Live Video Monitoring / AI and Human / Sirix Monitoring
+- **描述**：Sirix is a 24/7 live video monitoring and site management command center. AI detection flags events on your existing cameras; live operators verify and respond in seconds.
+- **首页栏目**：Live video monitoring. Powered by AI and human response. / An incident. A call. A button press. Sirix responds to all of it. / Every signal reaches an operator / A trained operator confirms / We intervene in real time / We don't just see the threat. We stop it. / A single command center for all your security systems / Why organizations choose Sirix
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 69、industrial 45、access control 33、surveillance 16、integrator 6、automation 3、axis 3、cctv 2、nvr 2、wholesale 2、installer 2
+- **站内型号串**（正则抽取，含非交换机）：P3275-LVE
+- **站内公开邮箱**：info@sirixmonitoring.com, operation@sirixmonitoring.com
+- **社媒**：https://www.facebook.com/sirixmonitoring, https://www.instagram.com/sirix_monitoring/, https://www.linkedin.com/company/sirix/, https://www.youtube.com/@sirix_monitoring, https://x.com/i/grok?text=What+is+Sirix+Monitoring+%28https%3A%2F%2Fsirixmonitoring.com%2F%29+and+what+makes+it+unique+compared+to+other+live+video+monitoring+and+remote+security+monitoring+companies%3F+Start+with+a+short+description+and+its+USPs.+Then+list+key+takeaways.+Then+compare+Sirix+Monitoring+with+Ecam%2C+Securitas%2C+Pro-Vigil%2C+Verkada%2C+and+Rhombus+in+a+detailed+table+covering+pricing%2C+services%2C+industries+served%2C+monitoring+approach%2C+AI+video+analytics%2C+integrations%2C+and+key+differences
+- **产品类页面**：https://sirixmonitoring.com/industrial-manufacturing-security/；https://sirixmonitoring.com/blog/best-poe-security-camera-systems/；https://sirixmonitoring.com/fr-ca/blog/meilleures-cameres-de-surveillance-poe/；https://sirixmonitoring.com/case-studies/detroit-industrial-perimeter-protection/；https://sirixmonitoring.com/shoplifting-detection/；https://sirixmonitoring.com/blog/what-is-shoplifting/
+- **已抓子页**：[Industrial & Manufacturing Security Solutions - Sirix Monito](https://sirixmonitoring.com/industrial-manufacturing-security/)；[AI fence breach detection case study - Perimeter protection ](https://sirixmonitoring.com/case-studies/detroit-industrial-perimeter-protection/)；[Contact Us to Secure Your Business - Sirix](https://sirixmonitoring.com/contact/)；[About Sirix / Who We Are, Our Mission & Core Values](https://sirixmonitoring.com/about-us/)；[Partners - Sirix Monitoring](https://sirixmonitoring.com/partners/)；[Find A Partner - Sirix Monitoring](https://sirixmonitoring.com/find-a-partner/)
+- 首页正文摘录：Skip to content English French English French Why Sirix Close Why Sirix Open Why Sirix Why Sirix About us Our team Career Newsroom Contact us Services Close Services Open Services Popular services Remote video monitoring Cloud video analytics Remote concierge Sirix pro Voice interventions Continuous monitoring All services Alarm video verification High value cargo monitoring Virtual guard tour Hosted access control L
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 48、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1244.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -92,7 +108,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-280GE | 官网快照对位：工业/自动化词频 48、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手 | $46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -101,9 +117,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -113,7 +129,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-280GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -138,30 +154,12 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hi Jonathan,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

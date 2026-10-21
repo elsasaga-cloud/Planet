@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1267.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://vidom.pl/　语言：pl　站点地图 URL 数：365
+- **标题**：Oświetlenie LED. Systemy Smart Home i Inteligentnego Domu - VIDOM
+- **描述**：VIDOM ➤ Oświetlenie LED i systemy Smart Home ⭐ Ekspresowa wysyłka. Profesjonalna obsługa ⭐ Bezpieczeństwo zakupów ✔️ Sprawdź naszą ofertę!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 72、cctv 64、switch 44、poe 15、sfp 10、gigabit 4
+- **站内型号串**（正则抽取，含非交换机）：FUT035W, ES111, FUT037W, CL2-P75V24, FUT038S, LIGER-11, TECH-22, FUT089, FUT035S, FUT036SA, PDS-4-PLUS, E2-WR
+- **站内公开邮箱**：sklep@vidom.pl
+- **站内公开电话**：+48 606 123 030
+- **社媒**：https://www.facebook.com/VIDOM-Inteligentne-Domy-i-Systemy-Bezpiecze%C5%84stwa-792044634299074, https://www.instagram.com/vidom.pl/
+- **产品类页面**：https://vidom.pl/Switche-c250；https://vidom.pl/Routery-switche-c110；https://vidom.pl/Produkty-c198；https://vidom.pl/blog/producenci；https://vidom.pl/Produkty-MiBOXER-c308
+- **已抓子页**：[Monitoring CCTV Telewizja Przemysłowa > Oświetlenie LED. Sys](https://vidom.pl/Monitoring-CCTV-Telewizja-Przemyslowa-c70)；[Produkty > Oświetlenie LED. Systemy Smart Home i Inteligentn](https://vidom.pl/Produkty-c198)；[Switche > Oświetlenie LED. Systemy Smart Home i Inteligentne](https://vidom.pl/Switche-c250)；[Smart Home Grenton](https://vidom.pl/smart_home_grenton)；[Smart Home Grenton](https://vidom.pl/smart_home_grenton)；[Produkty MiBOXER > Oświetlenie LED. Systemy Smart Home i Int](https://vidom.pl/Produkty-MiBOXER-c308)
+- 首页正文摘录：Koszyk jest pusty x Do bezpłatnej dostawy brakuje -,-- Darmowa dostawa! Suma Netto 0,00 zł Suma Brutto 0,00 zł Cena uwzględnia rabaty Realizuj zamówienie Strona korzysta z plików cookies zgodnie z Polityką Cookies w celu realizacji usług. Korzystanie z witryny oznacza, że będą one umieszczane w Twoim urządzeniu końcowym. Możesz określić warunki przechowywania lub dostępu do plików cookies w Twojej przeglądarce. Akcep
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 15、监控 64 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1267.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

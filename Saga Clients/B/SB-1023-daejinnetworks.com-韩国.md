@@ -74,7 +74,6 @@ updated: 2026-10-21
 - **首页栏目**：Disruptive & Reliable Network Solution Provider / DAEJIN NETWORKS / Product
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 42、ftth 8、ethernet 2、poe 1、sfp 1、10g 1
 - **站内型号串**（正则抽取，含非交换机）：V530-TAP, V550-TAP, V680-TAP, V580-TAP, CTC8180
-- **站内公开邮箱**：0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, 271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com, 460ff4620fa44cba8df530afde949785@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 - **已抓子页**：[Ethernert switch / 대진네트웍스](https://www.daejinnetworks.com/ethernert-switch)；[제품안내 / 대진네트웍스](https://www.daejinnetworks.com/product)；[Other products / 대진네트웍스](https://www.daejinnetworks.com/other-products)；[회사개요 / 대진네트웍스](https://www.daejinnetworks.com/about)
 - 首页正文摘录：top of page HOME 회사소개 회사개요 회사연혁 찾아오시는 길 제품안내 Ethernert switch SILICON FTTH AI Optical Other products 고객센터 공지사항 자료실 고객문의 그룹 공유 갤러리 Disruptive & Reliable Network Solution Provider TELCO class의 품질, 가격 경쟁력 있는 Total Solution과 Service를 제공으로 고객 만족을 실현하는 파트너가 되겠습니다. DAEJIN NETWORKS 2021년 3월 회사 설립 Centec (network switch solutions), Hisilicon (Optic transceivers), AI 등 global 시장에서 검증된, global top-tier 네트워크 솔루션 공급 서비스 제공 Market
 - **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）

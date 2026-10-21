@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1074.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.intrising.com.tw/　语言：en　站点地图 URL 数：166
+- **标题**：Home - Intrising Networks
+- **描述**：Smart & Simple Connectivity - Homepage of Intrising Networks
+- **首页栏目**：IEC 61850-3 / Protecting the Substation Starts with IEC 61850-3-Certified Switches / Industrial L3 Switches / Intrising Industrial Layer 3 Switches / Intrising PTP / Intrising PTP Provides Better Time Service / ISO 9001:2015 Certification / Elevating Excellence in Quality
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 107、industrial 56、poe 22、wireless 14、sfp 10、ethernet 8、10g 6、gigabit 3、automation 2、camera 1、surveillance 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, DAS-8GHP-4X, DBS-16GP-4X, DCS-8GP-2GS, DTS-8GP-4X, DAS-8GP-4X, IEC62439-2, EN50155, DVS-16MP-4Q
+- **站内公开邮箱**：kenlee@intrising.com.tw
+- **产品类页面**：https://www.intrising.com.tw/news/new_feature/poeplusplus_solution；https://www.intrising.com.tw/products；https://www.intrising.com.tw/products/av_over_ip；https://www.intrising.com.tw/products/accessories；https://www.intrising.com.tw/products/application；https://www.intrising.com.tw/products/av_over_ip/extender
+- **已抓子页**：[Industrial Switches - Intrising Networks](https://www.intrising.com.tw/products/industrial_switches/)；[D Series - Intrising Networks](https://www.intrising.com.tw/products/industrial_switches/d_series/)；[R Series - Intrising Networks](https://www.intrising.com.tw/products/industrial_switches/r_series/)；[K Series - Intrising Networks](https://www.intrising.com.tw/products/industrial_switches/k_series/)；[PRP / HSR Series - Intrising Networks](https://www.intrising.com.tw/products/industrial_switches/prp_hsr_series/)；[Layer 3 - Invaluable Inclusion to Your Network](https://www.intrising.com.tw/news/new_feature/layer_3/)
+- 首页正文摘录：... News New Feature Expo Case Study Products Industrial Switches D Series R Series K Series PRP / HSR Series Industrial Wireless Wireless Router Application Management AV over IP Extender Accessories DIN-Rail Power Supply SFP-MINI-GBIC Solutions Contact Us About Menu Home News Products Solutions Contact Us About IEC 61850-3 Protecting the Substation Starts with IEC 61850-3-Certified Switches Learn More IEC 61850-3 P
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 58、PoE 22 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1074.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

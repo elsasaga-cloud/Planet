@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1152.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.amplicon.com/　语言：en　站点地图 URL 数：2777
+- **标题**：Amplicon: Industrial Computers, Communications & Measurement
+- **描述**：Amplicon supply Industrial Computing, Data Communications, Measurement and Control, Security Automation solutions to systems integrators, OEMs and manufacturers
+- **首页栏目**：Industrial Computing / Data Communications / Measurement and Control / Engineering Services / Our partners / Custom Industrial Computers Designed & Manufactured in the UK / Bespoke Rackmount Test Cabinets and ATE integration services / Trusted Aerospace & Defence solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 225、ethernet 140、switch 129、moxa 88、poe 63、automation 49、gigabit 48、cisco 37、sfp 30、fibre 24、cable 21、distributor 14
+- **站内出现的品牌**：Cisco, Hirschmann, Advantech, Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS422, RS485, IEEE802, RED25, IE3100, IE1000, IE3400H, EKI-8510G, EKI-7700, EKI-5500, MSP30
+- **站内公开邮箱**：sales@amplicon.com, support@amplicon.com
+- **站内公开电话**：+44 (0)1273 570 220, +44 (0)1273 570220
+- **社媒**：http://www.ampliconbenelux.com, http://www.linkedin.com/company/amplicon-liveline-ltd, http://www.youtube.com/user/amplicontv, https://twitter.com/AmpliconUK, https://www.instagram.com/Amplicon_UK, https://www.youtube.com/user/amplicontv
+- **产品类页面**：https://www.amplicon.com/data-communications/industrial-ethernet/switches/；https://www.amplicon.com/product-range/industrial-panel-pcs/；https://www.amplicon.com/product-range/industrial-rackmount-computers/；https://www.amplicon.com/product-range/industrial-panel-pcs/senses-6000-8000-1200/；https://www.amplicon.com/product-range/industrial-panel-pcs/senses-1100-5600-5700/；https://www.amplicon.com/product-range/industrial-rackmount-computers/made-the-uk/
+- **已抓子页**：[Industrial Ethernet Switches / Rugged & Reliable / Amplicon](https://www.amplicon.com/data-communications/industrial-ethernet/switches/)；[Industrial Networking accessories / Amplicon](https://www.amplicon.com/data-communications/industrial-ethernet/networking-accessories/)；[KVM switches, KVM extenders, AV Products / Amplicon](https://www.amplicon.com/industrial-computing/kvm-switches-extenders/)；[Amplicon Partners: Top-tier industrial & electronics brands](https://www.amplicon.com/brands/)；[Impact‑R 12th Gen Industrial Rackmount Computer / Amplicon](https://www.amplicon.com/product-range/industrial-rackmount-computers/impact-r-12th-gen/)；[Industrial PC design & manufacture / UK based / Amplicon](https://www.amplicon.com/engineering-services/bespoke-industrial-pc-design-manufacture/)
+- 首页正文摘录：Call us +44 (0)1273 570220 Email us sales@amplicon.com Support support@amplicon.com Sign in Global Amplicon Select a country Ireland France Spain Benelux Italy Sweden United Arab Emirates United States All distributors About Us About Amplicon News & Events UK Manufacturing 50th Anniversary Our partners & brands International Distributors Quality Assurance CSR Customer feedback Customer surveys Sales Team Reviews Test
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 234、PoE 63 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1152.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +156,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

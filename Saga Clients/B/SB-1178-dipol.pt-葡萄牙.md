@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1178.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dipol.pt/　语言：pt　站点地图 URL 数：3839
+- **标题**：IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL
+- **描述**：CCTV IP sem fios, SAT-TV, TP-Link, antenas, câmeras, cabos coaxiais, dispositivos de rede, cabos par trançado, UTP, FTP, interruptores, comutadores, DVRs, lentes, roteadores ADSL, conversores, aparelhos TP-Link. Nós emitir guias técnicos, a aplicação diagramas. Produtor de antenas.
+- **首页栏目**：Sinal Pro / Máquinas de Soldar Signal Fire / Produtos recomendados / Switch PoE Atte IP-5-11-M2 (5xPoE, 1xUplink, 802.3af/at, PASSIVO, 96W, IP56) / Disco rígido Hikvision DS80HKAI-VX1 de 3,5", 8 TB / Disco rígido Hikvision DS60HKVS-VX1 de 3,5", 6 TB / Mastro de lastro não invasivo ZB-1100/50+RAM6/415*265 / Emenda Mecânica de Fibra Ótica: ULTIMODE FAST-MS1 [5 unid.]
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 242、switch 160、cctv 124、sfp 95、ethernet 78、industrial 57、hikvision 44、gigabit 28、dahua 17、nvr 16、10g 5、mikrotik 2
+- **站内出现的品牌**：Hikvision, Dahua, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DVB-T2, IEEE802, MRP-504, MRP-512, MRP-908, MS-508, MS-900, MS-916, MS-924, MS-932, PFA152-E-B, IP-5-11-M2
+- **站内公开邮箱**：office@dipol.pt
+- **站内公开电话**：+351 253 618 579, +45 (0) -40, +50 (2) (1) -25, +50 (2) -25, +65 (1) -30, +65 (3) -20
+- **社媒**：https://www.facebook.com/dipolnet, https://www.youtube.com/dipolpt
+- **产品类页面**：https://www.dipol.pt/switch_poe_hikvision_ds-kad606-p_para_sistemas_de_video-porteiro_ip_G74814.htm；https://www.dipol.pt/kit_de_intercomunicador_de_video_hikvision_ds-kis602_br_switch_4xpoe_microsd_16_gb_G73205…；https://www.dipol.pt/switch_poe_hikvision_ds-kad606_para_sistemas_de_video-porteiro_ip_sem_cabo_de_alimentacao…；https://www.dipol.pt/kit_de_intercomunicador_de_video_hikvision_ip_villa_2a_ger_ds-kis604-s_switch_4xpoe_micro…；https://www.dipol.pt/switch_signal_dvb-t-tv_a_cabo_E2022.htm；https://www.dipol.pt/protetor_de_surtos_netprotector_4p_poe_J2838.htm
+- **已抓子页**：[CCTV & IP, Switches](https://www.dipol.pt/oferta-cctv-ip-switches,7097.htm)；[LAN & WLAN, Switches](https://www.dipol.pt/oferta-lan-wlan-switches,5310.htm)；[TV/SAT, Multiswitches](https://www.dipol.pt/oferta-tv-sat-multiswitches,4424.htm)；[CCTV & IP](https://www.dipol.pt/oferta-cctv-ip,5146.htm)；[CCTV & IP, Kits](https://www.dipol.pt/oferta-cctv-ip-kits,7170.htm)
+- 首页正文摘录：Esse website utiliza cookies Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses. Se não concordar, isso não afetará a exibição dos anúncios, mas eles não corresponderão a si. Cookies necessários para o funcionamento da nossa loja São necessários para o bom funcionamento do nosso site, por isso não pode desistir deles. Utilizamos 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 57、PoE 242 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1178.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +158,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

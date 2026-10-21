@@ -22,7 +22,7 @@ last_contact: unknown
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1250.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.standardaudio.se/　语言：sv　站点地图 URL 数：0
+- **标题**：Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, inrymningslarm
+- **描述**：Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni
+- **首页栏目**：Cookie preferences Consent / Nyheter och kampanjer / Svensk distributör för Taskers kvalitetskablar / Electro-Voice Eviva / Dynacord IX Series / Nya kraftfullare EVOLVE 70 & EVOLVE 90 / Ultimat AV-lösning för mötesrum och klassrum / ARE YOU OUR NEW SALES MANAGER IN FINLAND?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 34、wireless 19、wifi 16、poe 9、automation 8、camera 3、installer 2、cable 1、dahua 1
+- **站内出现的品牌**：Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：JPEG2000, EN54-24, AES67, SET-3-EU, LLB2013G, AVX-3, SK-AVX-3, AVX-835, AVX-835-3-EU, AVX-ME2, AVX-ME2-3-EU, AVX-MKE2
+- **站内公开邮箱**：epost@epost.com, info@standardsystems.eu, service@standardaudio.se
+- **站内公开电话**：+46 (0)8 590 00 500
+- **已抓子页**：[Kontakta oss](https://www.standardaudio.se/kontakta-oss)；[Kamerasystem](https://www.standardaudio.se/2012-kamerasystem)；[Service och Support](https://www.standardaudio.se/service)
+- 首页正文摘录：Nyheter Service & Support Offerthjälp Tjänster Medarbetare Om Standard Audio Systems Kontakta oss Inloggning Den här webbplatsen använder sina egna och tredjepartscookies för att förbättra våra tjänster och analysera användarnas upplevelse. För att ge ditt samtycke till dess användning, tryck på knappen Jag accepterar. Mer information Customize cookies Neka alla Jag accepterar Cookie preferences Consent Functional co
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1250.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

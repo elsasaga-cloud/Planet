@@ -24,7 +24,7 @@ last_contact: 2025-10-16
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -103,6 +103,22 @@ updated: 2026-10-21
 - **风险/边界**：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
 - **邮件切入句（英文）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://iotech-italia.net/　语言：it　站点地图 URL 数：18
+- **标题**：Prodotti e soluzioni per macchine e Impianti Industriali
+- **描述**：Prodotti e soluzioni per la progettazione, la realizzazione, la conduzione e la manutenzione di macchine e impianti, industriali, M2M, IOT, IIOT, Industria 4.0
+- **首页栏目**：Componenti e Soluzioni Industriali / I nostri Brand / Chi siamo / Link ai siti dei nostri Brand
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 13、industrial 9、cable 9、wireless 3、switch 1、automation 1、distributor 1
+- **站内型号串**（正则抽取，含非交换机）：IEC-320, EC-320-C14, IEC-320-C14
+- **站内公开邮箱**：demo@netio.eu
+- **社媒**：https://www.linkedin.com/company/iotech-italia/
+- **产品类页面**：https://www.iotech-italia.net/netio-products
+- **已抓子页**：[Power Distribution Unit per controllo utenze elettriche](https://iotech-italia.net/netio-products)
+- 首页正文摘录：Questo sito NON utilizza COOKIES per raccogliere informazione sui propri visitatori Home 4next aspar dlm-uk egnite Elecnova erewireless hi-flying infinite inveo meatrol-rogowski netio-products scodeno teracom TopKodas wlink-tech Contatti Condizioni di Fornitura Componenti e Soluzioni Industriali Datalogger Modbus Moduli di espansione I/O su Modbus Termo-Igrometri Web Based Dianamometri Wireless alta capacità Energy m
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-180.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

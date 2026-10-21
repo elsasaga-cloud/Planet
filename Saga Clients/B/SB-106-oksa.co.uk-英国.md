@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STI-288DGGPM
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-07-04 → 2025-10-30）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-106.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://oksa.co.uk/　语言：en-US　站点地图 URL 数：2557
+- **标题**：Industrial Automation Solutions / OKSA Automation Limited
+- **描述**：Request a quote for industrial automation solutions from OKSA Automation Limited. Fast UK delivery, tech support, warranties and price match guarantees.
+- **首页栏目**：Comprehensive range of Industrial panel PCs, PCs & Monitors: / Smart Energy Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 456、ethernet 330、switch 230、automation 135、poe 84、wireless 83、wifi 32、sfp 30、media converter 28、camera 28、gigabit 22、fiber 8
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS-232, RS-485, EN50155, IEC-61850, MS100T, M60-LC, IO5202, ET-2200, AIOBOX-16, CN-8012, CN-8021, CN-8032
+- **站内公开邮箱**：sales@oksa.co.uk, support@oksa.co.uk
+- **社媒**：https://twitter.com/LimitedOksa, https://www.linkedin.com/company/oksa-automation-limited
+- **产品类页面**：https://1215244.eu11.myftpupload.com/product/i-8135w-5-port-10-100-mbps-fast-ethernet-switch-module/；https://1215244.eu11.myftpupload.com/product/pet-7005-8-channel-thermistor-input-4-channel-isolated-output-mod…；https://1215244.eu11.myftpupload.com/products/；https://1215244.eu11.myftpupload.com/product/i-87013w-g-4-channel-rtd-input-module/；https://1215244.eu11.myftpupload.com/product/i-87015w-g-7-channel-rtd-input-module/；https://1215244.eu11.myftpupload.com/product/i-87017w-g-8-channel-analog-input-module/
+- **已抓子页**：[Industrial PoE Switches Archives / OKSA Automation Limited](https://oksa.co.uk/product-category/ethernet-switches/industrial-poe-switches/)；[Industrial VPN Routers Archives / OKSA Automation Limited](https://oksa.co.uk/product-category/ethernet-switches/industrial-vpn-routers/)；[Industrial Wireless/Wi-Fi Archives / OKSA Automation Limited](https://oksa.co.uk/product-category/ethernet-switches/industrial-wireless-wi-fi/)；[Serial to WiFi Converters/Controllers Archives / OKSA Automa](https://oksa.co.uk/product-category/ethernet-switches/industrial-wireless-wi-fi/serial-to-wifi-converters-controllers/)；[Cellular Gateways & Wi-Fi Access Points Archives / OKSA Auto](https://oksa.co.uk/product-category/ethernet-switches/industrial-wireless-wi-fi/cellular-gateways-wi-fi-access-points/)；[KVM Switches & Extenders Archives / OKSA Automation Limited](https://oksa.co.uk/product-category/industrial-computing/kvm-switches-extenders/)
+- 首页正文摘录：Skip to content 020 3997 6277 sales@oksa.co.uk support@oksa.co.uk Search for products... Search 0 0 Sub-Total: £ 0.00 No products in the cart. 100% Secure Checkout! Log-in/Register Home Products Automation Controllers/PLCs Compact Programmable Automation Controllers (PACs) I/O Modules for PAC Series ODOT C3351 Programmable Automation Controller ViewPAC Series WinPAC Series XPAC Series Converters & Gateways Cellular R
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 462、PoE 84 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-106.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-08
 p1: STI-288DGGPM
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-05-29 → 2025-10-08）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1114.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.hms-networks.com/　语言：en　站点地图 URL 数：0
+- **标题**：HMS Networks - Hardware Meets Software™ / Industrial ICT
+- **描述**：HMS creates products that enable industrial equipment to communicate and share information with software and systems. In short: Hardware Meets Software™.
+- **首页栏目**：We enable machines, devices and systems to communicate / HMS product brands / News and stories / We shape the connected world! / Can industrial communication reduce CO2 emissions? / Three ways to buy products / Case studies — What our users say / What can we do for you?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 247、switch 84、ethernet 84、automation 70、wireless 34、gigabit 31、cable 24、poe 18、distributor 18、scada 17、data center 14、sfp 6
+- **站内型号串**（正则抽取，含非交换机）：NT7000, IN770AIR00SO000, RS-485, RS-232, NT7008-FX2-ST00, IN485MIT001A000, NT-7008-FX2-ST00, EC360W, NB1024, FRC-EP170, FRC-EP190, IN712MEB0500000
+- **站内公开电话**：008-000-0000
+- **社媒**：https://twitter.com/hmsnetworks, https://www.facebook.com/HMSNetworksAB/, https://www.instagram.com/hmsnetworks/, https://www.linkedin.com/company/hmsnetworks/, https://www.youtube.com/@HMSNetworks
+- **已抓子页**：[HMS Product Accessories / Products / HMS Networks](https://www.hms-networks.com/products/accessories)；[HMS software and tools / Products / HMS Networks](https://www.hms-networks.com/software-and-tools)；[Automotive PROFINET Alarms Solved Remotely](https://www.hms-networks.com/about-hms/case-studies/case-study/remote-network-service-for-an-automotive-manufacturer)；[Industrial wireless products](https://www.hms-networks.com/industrial-wireless-products)；[Switches & Infrastructure products / HMS Networks](https://www.hms-networks.com/switches-infrastructure-products)；[HMS Product Accessories / Products / HMS Networks](https://www.hms-networks.com/products/accessories)
+- 首页正文摘录：English Select language Language English English German Swedish Chinese Japanese Save Cancel Cancel Login Home Solutions What we solve All solutions Building control & connectivity CAN connectivity, access & diagnostics Functional safety Industrial network connectivity Industrial network diagnostics Industrial network infrastructure Industrial network security Industrial remote access Machine visualization/control Ve
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 269、PoE 18 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1114.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

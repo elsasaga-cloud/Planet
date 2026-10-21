@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1200.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.intelbras.com/pt-br/　语言：pt-br　站点地图 URL 数：3905
+- **标题**：Intelbras / Segurança, Conectividade e Energia
+- **描述**：Presente no Brasil inteiro e em varias partes do mundo, mas sempre perto de você. Conte com a gente para proteger, conectar, aproximar e transformar!
+- **首页栏目**：Intelbras / Para o ritmo da sua casa / Para o ritmo do seu negócio / Produtos para usar do seu jeito / Produtos fáceis de instalar / Soluções com instalação para residências e pequenas empresas / Para contratar a solução e a instalação / Soluções com instalação para médias empresas e condomínios
+- **站内公开邮箱**：ejemplo@email.com, example@email.com, exemplo@email.com, suporte@intelbras.com.br
+- **社媒**：https://www.facebook.com/intelbras, https://www.instagram.com/intelbras/, https://www.linkedin.com/company/intelbras/, https://www.youtube.com/c/Intelbras
+- **产品类页面**：https://www.intelbras.com/pt-br/switch-industrial-gerenciavel-poe-si-0402-poe；https://www.intelbras.com/pt-br/switch-16-portas-fast-ethernet-poe-sf-1821-poe；https://www.intelbras.com/pt-br/switch-16-portas-fast-ethernet-poe-sf-1822-hi-poe；https://www.intelbras.com/pt-br/switch-9-portas-fast-ethernet-8-portas-poe-sf-900-hi-poe；https://www.intelbras.com/pt-br/switch-5-portas-fast-ethernet-com-4-portas-poe-sf-500-hi-poe；https://www.intelbras.com/pt-br/switch-gerenciavel-24-portas-poe-gigabit-ethernet-sg-2404-poe
+- 首页正文摘录：Fale com nosso Assistente Virtual :) Fale conosco menu Produtos e Soluções Destaques Onde Encontrar Suporte Contato Sobre Nós Loja Intelbras Investidores Blog Parceiros Cursos pt English Español Português Sobre Acessibilidade A- A+ Contraste Investidores Blog Parceiros Cursos pt English Español Português Intelbras Faça sua busca Menu Principal Navegue por produtos Segurança Eletrônica Redes Comunicação Controle de Ac
+- 数据文件：`data/saga_clients/site_snapshots/SB-1200.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +150,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

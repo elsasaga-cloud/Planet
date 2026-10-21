@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1169.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.cae-groupe.com/　语言：fr　站点地图 URL 数：0
+- **标题**：Adaltra (ex CAE GROUPE) - We-make-the-connection
+- **描述**：ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures.
+- **首页栏目**：Découvrez notre gamme Réseaux de données / Découvrez notre câble SYT Plus gris / Nos marchés / Branchés sur vos contraintes / Nos meilleures ventes / Un partenaire de référence sur 14 marchés / Nos gammes de produits / Nos 10 gammes de solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 43、fibre 36、switch 35、gigabit 28、poe 14、wifi 9、data center 4、datacenter 3、cable 3
+- **站内型号串**（正则抽取，含非交换机）：EN50575, DMX512, DMX512N, ACBRECP24, AWG16
+- **站内公开电话**：+33 1 69 74 74 80
+- **社媒**：https://www.facebook.com/caegroupe/, https://www.linkedin.com/company/caegroupe/, https://www.youtube.com/channel/UCpEDKsvqXdjBGn6Pw7k7GMQ
+- **已抓子页**：[Switch Fast Ethernet et Gigabit Ethernet pour professionnels](https://www.cae-groupe.com/nos-produits/actifs-reseaux-audiovisuel/switch-fast-ethernet-et-gigabit-ethernet.html)；[Cordons RJ45 Réseau Ethernet pour professionnels / CAE](https://www.cae-groupe.com/nos-produits/cordons/cordons-rj45-reseau-ethernet.html)；[Câbles ERP IGH / Solutions conformes NF C 15-100 – ADALTRA](https://www.cae-groupe.com/nos-produits)；[Promo - Nos produits](https://www.cae-groupe.com/nos-produits/promo.html)；[Cordons : Ethernet, audio & vidéo / CAE Groupe](https://www.cae-groupe.com/nos-produits/cordons.html)；[Sonorisation : Toutes nos solutions / CAE Groupe](https://www.cae-groupe.com/nos-produits/sonorisation.html)
+- 首页正文摘录：The store will not work correctly when cookies are disabled. Nous rencontrons actuellement des problèmes techniques sur la vente de nos câbles à la coupe. En cas de difficulté, notre service client vous accompagne par téléphone au 01 73 37 79 91 . Nous restons à votre entière disposition. Notre présence Langues : France International Aller au contenu Mon Compte Contact Rechercher... Acheter en ligne Affichage navigat
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 14、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1169.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1186.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.fibersystem.com/　语言：en-US　站点地图 URL 数：206
+- **标题**：Fibersystem AB, Data Diodes / Fibersystem
+- **描述**：Based in Stockholm, Sweden, Fibersystem AB is an innovative developer of Fiber Optical transmission equipment, video, ethernet and security products.
+- **首页栏目**：Precision Security for Mission-Critical Systems / Product news / Thin Client 27" TEMPEST Level A & RÖS U1 / HDMI Diode TEMPEST Level B & RÖS U2 / Secure USB Disconnect Conference / Secure USB Disconnect Desktop / Monitor 75" TEMPEST Level B / Fiber Optical Switch 1×6 LC
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 197、switch 153、camera 35、ethernet 18、cable 4、cisco 2、10g 1、wireless 1、telecom 1、ftth 1
+- **站内型号串**（正则抽取，含非交换机）：RS232, FS25961PA3, DC556, SDIP-27, IEC60320, MIL810G, RS-232
+- **站内公开电话**：+46 8 564 828 80
+- **社媒**：https://www.facebook.com/fibersystemab, https://www.linkedin.com/company/fibersystem-ab
+- **产品类页面**：https://www.fibersystem.com/product/secure-key-switch/；https://www.fibersystem.com/product/fiber-optical-switch-1x4/；https://www.fibersystem.com/product/fiber-optical-switch-1x2-mm/；https://www.fibersystem.com/product/fiber-optical-switch-1x2-mpo/；https://www.fibersystem.com/product/fiber-optical-switch-1x4-mpo/；https://www.fibersystem.com/product/fiber-optical-switch-1x6-webgui/
+- **已抓子页**：[Fiber Optical Switch 1×6 LC / Fibersystem](https://www.fibersystem.com/product/fiber-optical-switch-1x6/)；[Fiber Optical Switches – Secure And Reliable Solutions](https://www.fibersystem.com/product-area/fiber-optical-switches/)；[Document Cameras – Secure And High-quality Imaging](https://www.fibersystem.com/product-area/document-cameras/)；[Fibersystem Unveils Enhanced Website And Premieres Advanced ](https://www.fibersystem.com/fibersystem-unveils-enhanced-website-and-premieres-advanced-tempest-level-a-and-ros-u1-certified-products/)；[HDBaseT Solutions – High-quality Signal Transmission](https://www.fibersystem.com/product-area/hdbaset/)；[KVM And Accessories – Secure Control Solutions](https://www.fibersystem.com/product-area/kvm-solutions/)
+- 首页正文摘录：Skip to content Search for: Product Areas C Computers Converters/Extenders Copiers D Data Diodes Data Tap Document Cameras F Fiber optical switches H HDBaseT Solutions I IP Phones K KVM Solutions M Monitors P Printers Projectors R Rack Modules Rack System Routers T TEMPEST Level A/RÖS U1 TEMPEST Level B/ RÖS U2 U USB Disconnect V Video Teleconference System TEMPEST/RÖS News News Pressrelease Contact About us Search f
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 153、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1186.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +158,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

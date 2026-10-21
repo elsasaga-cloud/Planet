@@ -1,0 +1,66 @@
+{
+ "code": "SB-153",
+ "name_official": "Rayvarz（rayvarz.com，伊朗）",
+ "researched_at": "2026-10-21",
+ "website_status": "（伊朗站点，不采用）",
+ "summary": "伊朗公司 Rayvarz（联系人 Mohammadhassan Mesbah，yahoo 邮箱，WA 已加），表内「在和 Teltonika 和 Ewind 合作」，2025-01 对引流机型回「price」；19 次推送 1 次实质回复。官网快照为波斯语验证跳转页。伊朗 → 与 SB-118 同口径降 C（区域外 + 制裁合规），资料保留。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "在和teltonika and Ewind合作；117 引流机型 → price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "站点状态",
+   "quote": "rayvarz.com 首页为波斯语验证跳转页（.wgchallenge），lang=fa，无正文",
+   "url": "https://rayvarz.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mohammadhassan Mesbah",
+   "role": "（职位未核）",
+   "email": "mohammad2974@yahoo.com",
+   "phone": "+98 912 384 6534（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "c_sub=区域外/伊朗制裁合规风险；与 SB-118 同口径：伊朗客户不主动开发（付款/物流合规无法保障），资料归档防重复开发",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗 · 区域外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "（伊朗公司）",
+  "founded": "待核",
+  "hq": "伊朗",
+  "size": "待核",
+  "other": "Mohammadhassan Mesbah mohammad2974@yahoo.com，+98 912 384 6534（WA 已加）"
+ },
+ "business_lines": [
+  "（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Mohammadhassan Mesbah mohammad2974@yahoo.com，+98 912 384 6534（WA 已加）"
+ },
+ "signals": [],
+ "risks": [
+  "伊朗：制裁与付款合规风险；非主攻区"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "C 级不对位；若用户决定对伊供货再评"
+ },
+ "email_hook": "（不主动发送）"
+}

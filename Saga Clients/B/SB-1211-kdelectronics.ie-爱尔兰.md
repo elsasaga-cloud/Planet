@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1211.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.kdelectronics.ie/　语言：en　站点地图 URL 数：0
+- **标题**：KD Electronics Ireland - Trade Supplier of CCTV, Security Systems, Audio Visual and Networking sol - CCTV, Fire, Security, TV, Audio & Networking Distributor Ir
+- **描述**：Wide range of affordable CCTV, Security, A/V, and Networking products. Dahua Largest Distributor, superior customer service and top-notch products for residential and commercial needs
+- **首页栏目**：Quick Order / Skip To / Banner / New Products / new / Restock alert subscription / Triax CAT6 UTP PVC White 305m Pull Box - Indoor PVC jacket / Triax CAT6 UTP LSZH Purple 305m Pull Box - Indoor PVC jacket
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 97、dahua 62、cable 60、camera 55、wireless 26、wifi 26、switch 22、tp-link 21、access control 14、automation 12、surveillance 10、nvr 8
+- **站内出现的品牌**：Dahua, Ajax, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IPC-HDW3849H-AS-PV-PRO-ATC, AJ-0010, AJ-0282, PFA109, PFB220C, PFA152-E, FSP11, VTM78, AJ-0600, AJ-0601, AJ-0613, AJ-0611
+- **站内公开邮箱**：accounts@kdelectronics.ie, info@kdelectronics.ie, name@domain.com, sales@kdelectronics.ie, salesdublin@kdelectronics.ie
+- **站内公开电话**：0010 149624
+- **社媒**：https://www.instagram.com/kdelectronics.ie/, https://www.linkedin.com/company/kd-electronics-ireland, https://www.youtube.com/@kdelectronics
+- **已抓子页**：[Network Switches - CCTV, Fire, Security, TV, Audio & Network](https://www.kdelectronics.ie/network-switches/c-203.html)；[Dahua 8MP IP TiOC Pro 2.8mm Fixed Dome Camera - CCTV, Fire, ](https://www.kdelectronics.ie/products/dahua-8mp-ip-tioc-pro-2-8mm-fixed-dome-camera-20125.html)；[TP-LINK Smart Wifi Products - CCTV, Fire, Security, TV, Audi](https://www.kdelectronics.ie/tp-link-smart-wifi-products/c-440.html)；[IMOU Smart Security Products - CCTV, Fire, Security, TV, Aud](https://www.kdelectronics.ie/imou-smart-security-products/c-2139.html)；[Ajax Doorbell Black - CCTV, Fire, Security, TV, Audio & Netw](https://www.kdelectronics.ie/products/ajax-doorbell-black-aj-0282.html)；[Ajax Hub BP Jeweller White - CCTV, Fire, Security, TV, Audio](https://www.kdelectronics.ie/products/ajax-hub-bp-jeweller-white-aj-0010.html)
+- 首页正文摘录：× Quick Order Please open the website on a larger device to use the quick order functionality. Search Product Code (or) Keyword(s) Quantity Unit Price Actions New rows are added automatically * Options Available Add search menu account_circle Products Dahua Alarm Kits Change Currency (€) GBP (£) Trade Login Skip To Use ↑/↓ or Tab to move • Enter to select • Esc to close Alta Demo Book a call Returns Contact us RMA Po
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1211.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +155,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

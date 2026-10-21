@@ -22,7 +22,7 @@ last_contact: 2025-10-25
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 21 次（2024-05-13 → 2025-10-25）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1085.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.psaproducts.com.au/　语言：en-AU　站点地图 URL 数：309
+- **标题**：PSA Products / Security Systems Wholesale in Australia
+- **描述**：Leading security systems distributor in Australia with brands like IntelLink, HomeGuard, Panacom, HiLook & Lifesaver. Contact for wholesale security equipment.
+- **首页栏目**：PSA LifeSaver / Proven Performance, / The Best Performing / Smoke Alarm / 240V Smoke Alarms / Wireless Smoke Alarms / Smoke Alarm Accessories / PSA Centrii
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 35、camera 26、access control 7、wireless 7、distributor 7、surveillance 5、poe 2、nvr 2、hikvision 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PAN920, PAN930, HG3000
+- **站内公开邮箱**：enquiries@psaproducts.com.au, enquiry@psaproducts.com.au, sales@psaproducts.com.au, support@psaproducts.com.au
+- **站内公开电话**：+61 3 9888 9889, +61 3 9888 9993
+- **社媒**：https://www.facebook.com/psaproducts, https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8, https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true, https://www.youtube.com/@PSAproducts, https://www.youtube.com/channel/UCUr3Hm4cadbcFr2s-orSU2A
+- **产品类页面**：https://www.psaproducts.com.au/；https://www.psaproducts.com.au/news/；https://www.psaproducts.com.au/buypsagetgarmin/；https://www.psaproducts.com.au/smoke-alarms-qld/；https://www.psaproducts.com.au/installer-upgrades-2/；https://www.psaproducts.com.au/the-dangers-of-carbon-monoxide/
+- **已抓子页**：[PSA Centrii CCTV / PSA Products](https://www.psaproducts.com.au/product-category/brand/psa-centrii/psa-centrii-cctv/)；[Our Range / PSA Products](https://www.psaproducts.com.au/product-category/brand/)；[Hilook Camera / CCTV & Security Solutions / PSA Products](https://www.psaproducts.com.au/product-category/brand/hilook/)；[Panacom Intercom & Video System Supplier / PSA Products](https://www.psaproducts.com.au/product-category/brand/panacom/)；[Lifesaver Smoke Alarm Supplier / PSA Products](https://www.psaproducts.com.au/product-category/brand/lifesaver/)；[HomeGuard Smoke Alarm / PSA Products](https://www.psaproducts.com.au/product-category/brand/homeguard/)
+- 首页正文摘录：Skip to content About PSA Current Promotions Smoke Alarm Legislations Australia Videos Support Register Product Fire Smoke Alarms Heat Alarms Carbon Monoxide Alarms Fire Blankets Fire Extinguishers Security Security Cameras Alarm Systems Intercom Access Control Lighting Networking Our Range PSA Centrii PSA Lifesaver PSA Panacom PSA HomeGuard Stockists Smoke Alarm Installs & Upgrades Search for: Image Without Border P
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 2、监控 68 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1085.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +191,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -1,0 +1,63 @@
+{
+ "code": "SB-598",
+ "name_official": "（布隆迪 · Paul Nsavyumwami，gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "布隆迪买家 Paul Nsavyumwami（gmail，WA 已加）。表内「让做合同 2 光 6 管理」（曾要求出合同），2024-03 对 2 光 8 PoE 管理出货信息回「price」，2025-10 对 2.5G/10G 网络回「price」；19 次推送 1 次实质回复。→ B 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "让做合同 2光6管理；2024.3.14 发了商业PoE2光8管理出货信息 → price；1011 2.5g/10g network → price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Paul Nsavyumwami",
+   "role": "（表内联系人）",
+   "email": "nsavyumwamip@gmail.com",
+   "phone": "+257 71 736 181（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+257 71 736 181；无公司名"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Paul Nsavyumwami nsavyumwamip@gmail.com，+257 71 736 181（WA 已加）"
+ },
+ "signals": [
+  "曾要求出具合同（2 光 6 管理）",
+  "2025-10 对 2.5G/10G 回 price"
+ ],
+ "risks": [
+  "布隆迪付款/物流门槛高",
+  "无公司实体信息"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "「2 光 6 管理」最近为 2 SFP + 8 PoE L2+（STC-28DGGPM）；2.5G/10G 需求用 STC-424XGGPM-280W"
+ },
+ "email_hook": "You asked twice for prices — the 2 SFP + 8-port managed PoE switch and, recently, the 2.5G/10G models — I can send both with a pro-forma contract as you requested before; which quantity should it cover?"
+}

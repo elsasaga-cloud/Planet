@@ -1,0 +1,63 @@
+{
+ "code": "SB-505",
+ "name_official": "（泰国 · Pongpanot Kwanmuang，hotmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "泰国项目型买家 Pongpanot Kwanmuang（hotmail，用户标注「可以尝试多跟进一下」）。需求 12 光 12 电、8 光 8 电、工业 MC；2024-06 问一个项目「工业 2+4 PoE、2+8」；19 次推送 1 次实质回复，无 WA 号码。工业小机需求具体 → B 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "12光12电 8光8电 工业MC等；2024.5.16 → Email发了引流型号信息；2024.6.21 发了几个商业交换机图 → 问了一个项目 需求：工业2+4PoE 2+8",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Pongpanot Kwanmuang",
+   "role": "（表内联系人）",
+   "email": "pongpanot.k@hotmail.com",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "无电话/公司；hotmail"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Pongpanot Kwanmuang pongpanot.k@hotmail.com（邮件）"
+ },
+ "signals": [
+  "2024-06 具体项目：工业 2 光 + 4 PoE、2 光 + 8 PoE",
+  "曾问 12 光 12 电 / 8 光 8 电（光口多的汇聚款）"
+ ],
+ "risks": [
+  "无电话与公司实体",
+  "12 光 12 电不在 Saga 价目（需另询）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "项目需求「工业 2+8 PoE」→ STI-288GP（2 SFP + 8 PoE，DIN）；2+4 用 STI-154GP/STI-054GP 类；多光口汇聚另询"
+ },
+ "email_hook": "For the project you described (industrial 2 SFP + 4 PoE and 2 SFP + 8 PoE) the DIN-rail 8-port unit is $57–62 EXW and the 4-port from $38 — is that project still live, and which quantities should I price?"
+}

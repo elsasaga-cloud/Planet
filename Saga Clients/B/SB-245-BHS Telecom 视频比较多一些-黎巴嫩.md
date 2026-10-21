@@ -1,4 +1,5 @@
 # BHS Telecom 视频比较多一些
+**官方名称（调研核实）**：BHS Media / BHS Telecom（bhs-media.com；迪拜 Media City 总部，黎巴嫩联系人）
 
 > **评级 B**　|　黎巴嫩　|　档案编号 `SB-245`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-245
 rating: B
 rating_auto: B
+name_official: "BHS Media / BHS Telecom（bhs-media.com；迪拜 Media City 总部，黎巴嫩联系人）"
 score: 47
 country: 黎巴嫩
 region: 中东
@@ -21,7 +23,7 @@ first_contact: 2023-11-30
 last_contact: 2025-10-06
 p1: none
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：黎巴嫩的电信/ISP/网络运营；兴趣/在卖：HDMI to IP,HDMI 网络延长器
+- **是谁**：卫星/广播电信服务集团 BHS Media（Dubai Media City 401 室；DTH 分发、contribution 链路、teleport、OTT；FB/ZoomInfo 均列迪拜地址与 +971 号码）。表内联系人 Khalil Haidar / Director（k.haidar@bhs-media.com，黎巴嫩 +961 3 597 100，WA 已加）要 HDMI over IP / HDMI 网络延长器（Saga 不做），2024-05 对 mini 工业交换机图回「will check」；19 次推送 1 次实质回复。主业广播传输，交换机只是机房配套 → B 25%，P1 待核（p1 null）。（调研 2026-10-21；表内兴趣：HDMI to IP,HDMI 网络延长器）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/黎巴嫩；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-11-30 → 2025-10-06）；最近一次客户回复：2024-05-16：will check
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：— — 深挖对位：主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,39 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-245.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（DotNetNuke 老站）
+- **是谁**：卫星/广播电信服务集团 BHS Media（Dubai Media City 401 室；DTH 分发、contribution 链路、teleport、OTT；FB/ZoomInfo 均列迪拜地址与 +971 号码）。表内联系人 Khalil Haidar / Director（k.haidar@bhs-media.com，黎巴嫩 +961 3 597 100，WA 已加）要 HDMI over IP / HDMI 网络延长器（Saga 不做），2024-05 对 mini 工业交换机图回「will check」；19 次推送 1 次实质回复。主业广播传输，交换机只是机房配套 → B 25%，P1 待核（p1 null）。
+- **【官网】定位：广播与电信基础设施**
+  > BHS Telecom aiming community where all people can communicate… We are here to build required infrastructure for broadcasting and telecommunication services
+  > 来源：http://bhs-media.com/（抓取 2026-10-21）
+- **【官网】DTH/TV 分发**
+  > Our Global satellite coverage and fiber network allow our clients to distribute their content easily and directly to home viewers (DTH). Currently we operate our own MCPC… digital satellite transmission platforms
+  > 来源：http://bhs-media.com/default.aspx?tabid=118（抓取 2026-10-21）
+- **【第三方】迪拜地址**
+  > BHS-media’s headquarters are located at No.401 Building No.1 Dubai Media City Sheikh Zayed Rd, Dubai… Phone number: +971 567000011
+  > 来源：https://www.zoominfo.com/pic/bhs-media/375098581（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Khalil Haidar（Director（表内））k.haidar@bhs-media.com +961 3 597 100（WA 已加）〔用户 Clients 表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 第三方核对 · 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | BHS Media（BHS Telecom；关联 bhssat.com「BHS Media Group」） |
+| 成立 | 待核（2012 年并购 OTT 软件服务商） |
+| 总部/地址 | No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai；+971 58 181 1356 / +971 56 700 0011；info@bhs-media.com |
+| 其他 | 表内国别「黎巴嫩」= 联系人所在地（+961）；公司注册/运营在迪拜 |
+
+- **业务线**：卫星 TV 分发（DTH、MCPC 平台）与 contribution 链路；teleport、地面光纤连接、播出/媒体管理服务器；OTT/IPTV 平台服务；广播与电信硬件方案
+- **触达通道（公开）**：official: info@bhs-media.com；contact: Khalil Haidar（Director）k.haidar@bhs-media.com，+961 3 597 100（WA 已加）
+- **近况信号**：
+  - 2024-05 对 mini 工业交换机回 will check
+- **风险/边界**：需求 HDMI over IP/延长器不在 Saga 产品线；黎巴嫩联系人所在地局势/付款风险；主业与接入交换机关联弱
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型
+- **邮件切入句（英文）**：We do not make HDMI-over-IP extenders, but for the IP side of a playout room our 8-port L2+ switch with IGMP snooping and 2 SFP uplinks is a common pairing — is there a current project where that would help?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -98,7 +132,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Khalil Haidar | — | k.haidar@bhs-media.com / +9613597100 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Khalil Haidar | Director（表内） | k.haidar@bhs-media.com / +961 3 597 100（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -114,7 +148,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 25%（电信/ISP/网络运营） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型 | — | 深挖对位；档位 25%（电信/ISP/网络运营） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -159,12 +193,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Khalil,
+
+Picking up our earlier exchange about PoE / industrial switches. We do not make HDMI-over-IP extenders, but for the IP side of a playout room our 8-port L2+ switch with IGMP snooping and 2 SFP uplinks is a common pairing — is there a current project where that would help?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -22,7 +22,7 @@ last_contact: 2025-10-09
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-01-30 → 2025-10-09）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1111.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.eltrox.cz/　语言：cs　站点地图 URL 数：2903
+- **标题**：Eltrox.cz / Zabezpečovací systémy a chytrá domácnost
+- **描述**：Vyberte si spolehlivé bezpečnostní systémy, vybavení chytré domácnosti a příslušenství. Kamery, alarmy, automatizace i poradenství za skvělé ceny.
+- **首页栏目**：Přihlášení k vašemu účtu / Zabezpečovací systémy a chytrá domácnost Eltrox.cz / Poslední komentáře / Poslední hodnocení / Zápatí / Kontakt / Informace / Odebírat newsletter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 47、odm 36、switch 35、sfp 29、hikvision 28、dahua 23、ethernet 15、wifi 12、nvr 11、ubiquiti 9、cctv 7、mikrotik 2
+- **站内出现的品牌**：Hikvision, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DVB-T2, PFA1320R, CUZE-16, PX500, UR340, UV150, SINUSPRO-1500E, SINUSPRO-500E, SINUSPRO-800E, SINUSPRO-1000W, SINUSPRO-2500W, SINUSPRO-1000E
+- **站内公开邮箱**：info@eltrox.cz, pr@soi.sk
+- **站内公开电话**：+420 721 143 829, +420 721 767 966, 0000 0027 0238 4423
+- **产品类页面**：https://www.eltrox.cz/poe-switche/；https://www.eltrox.cz/ip-zaznamniky-s-poe/；https://www.eltrox.cz/switch-netgear-gs108ge/；https://www.eltrox.cz/ubiquiti-edge-switch-es-12f/；https://www.eltrox.cz/multiswitch-smart-line-5-4-corab/；https://www.eltrox.cz/multiswitch-smart-line-5-8-corab/
+- **已抓子页**：[PoE switch a síťové přepínače pro kamery / Eltrox](https://www.eltrox.cz/poe-switche/)；[NVR/IP záznamníky s PoE](https://www.eltrox.cz/ip-zaznamniky-s-poe/)；[Kontakty - eltrox.cz](https://www.eltrox.cz/kontakty/)；[Klávesnice ke kamerám](https://www.eltrox.cz/klavesnice-ke-kameram/)；[Příslušenství ke kamerám a monitorovacím systémům / Eltrox.c](https://www.eltrox.cz/prislusenstvi-ke-kameram/)；[Venkovní panely - eltrox.cz](https://www.eltrox.cz/domaci-automatizace-interkomy-ip-a-digitalni--interkomy-s-kamerami-dratove-interkomy-venkovni-panely/)
+- 首页正文摘录：Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací Nastavení Odmítnout Souhlasím Přejít na obsah Přihlášení k vašemu účtu E-mail Heslo Nevyplňujte toto pole Surname Přihlásit se Nová registrace Zapomenuté heslo Pokračovat do košíku Zákaznická podpora: +420 721 143 829 info@eltrox.cz Obchodní podmínky Ochran
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 47、监控 18 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1111.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +165,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

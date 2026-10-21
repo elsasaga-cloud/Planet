@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2025-03-06 → 2025-11-04）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1072.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://htnetglobal.com/　语言：en　站点地图 URL 数：0
+- **标题**：HT Networks / Home
+- **首页栏目**：Hi- Tech Networks Technology Ltd. / Intelligent multi-service cloud management platform / Wireless Seamless Roaming / Load Balancing / Centralized Management Control / Multi-WAN Management / Cloud Management / Centralized / Local Forwarding
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 18、industrial 8、ethernet 8、poe 7、wireless 6、10g 5、sfp 3、media converter 3、fiber 3、camera 3、oem 3、odm 3
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ISO9001
+- **站内公开邮箱**：hello@htnetglobal.com
+- **站内公开电话**：+1 416 891 6564, +61731959433, +86 755 324213564
+- **已抓子页**：[HT Networks / Products](https://htnetglobal.com/products.html)；[HT Networks / About Us](https://htnetglobal.com/about-us.html)；[HT Networks / Contact Us](https://htnetglobal.com/contact-us.html)
+- 首页正文摘录：Hi- Tech Networks Technology Ltd. Founded in 2011, Head Quarter lies in Brisbane Australia and Regional Head office and Factory lies in Shenzhen China, HT-Net specializes in the design and manufacture of Industrial Ethernet switches, media converters, SFP transceiver and power over Ethernet products for applications where connectivity is crucial. With our core focus on Ethernet connectivity we do not compromise on qu
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 8、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1072.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,7 +167,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

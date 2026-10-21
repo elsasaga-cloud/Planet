@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1075.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ison-tech.com/　语言：zxx　站点地图 URL 数：106
+- **标题**：Home
+- **描述**：ISON stands for Industrial Solution Over Network. With the focus on Industrial Networking we play an important role in system planning & design for automation applications.
+- **首页栏目**：We Provide Professionals for Applications / Make Successful Business / 01 / 02 / 03 / Doing the right thing / Products We Provides / Contacts
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 113、poe 97、industrial 77、ethernet 16、wireless 14、automation 11、surveillance 9、gigabit 8、media converter 7、10g 3、cctv 3、sfp 2
+- **站内型号串**（正则抽取，含非交换机）：RH709, IS-RH709, IS-DF208T, ECS4150, ECS4150-54P, SDW102, SDW102-L, ECS4150-54T, IS-DG510-A, RJ-45, SFP28, IS-RX628P-4XG-24
+- **站内公开电话**：+886 3 3581123, +886 3 3582699
+- **产品类页面**：https://www.ison-tech.com/index.php/product/category?id=8；https://www.ison-tech.com/index.php/product/category?id=7；https://www.ison-tech.com/index.php/product/category?id=6；https://www.ison-tech.com/index.php/product/category?id=5；https://www.ison-tech.com/index.php/product/category?id=4；https://www.ison-tech.com/index.php/product/category?id=3
+- **已抓子页**：[Industrial PoE Switch Solutions](https://www.ison-tech.com/index.php/product/category/Industrial PoE Switch Solutions?id=7)；[Industrial Switch Solutions](https://www.ison-tech.com/index.php/product/category/Industrial Switch Solutions?id=1)；[Commercial Switch/PoE Solutions](https://www.ison-tech.com/index.php/product/category/Commercial Switch_PoE Solutions?id=17)；[Industrial Converter/PoE Solutions](https://www.ison-tech.com/index.php/product/category/Industrial Converter_PoE Solutions?id=11)；[IS-RH709 is the most compact size layer 2 ethernet switch!](https://www.ison-tech.com/index.php/blog/detail/2023_09_12_IS_RH709_is_the_most_compact_size_layer_2_ethernet_switch_)；[ISON Introduces Edgecore New Gigabit Ethernet Access Switche](https://www.ison-tech.com/index.php/blog/detail/2023_09_05_ISON_Introduces_Edgecore_New_Gigabit_Ethernet_Access_Switches_with_Six_25G_Uplinks_for_Unparalleled_Connectivity__Tailor_Made_for_ISPs_and_MSOs)
+- 首页正文摘录：Industrial Solution Over Network +886 3 3582699 [email protected] Home About ISON Company Why ISON Core Value Quality Career Green Promise Edgecore Network Products Industrial Switch Solutions Industrial PoE Switch Solutions Industrial Converter/PoE Solutions Serial Connectivties Solutions Commercial Switch/PoE Solutions Accessories Industrial Wireless Application Factory Automation ITS IP Surveillance Railway IT & I
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 82、PoE 97 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1075.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-18 → 2025-10-31）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-140.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.brainboxes.com/　语言：en-US　站点地图 URL 数：345
+- **标题**：Brainboxes / Trusted Connectivity: Switches, IoT, Serial, IO
+- **描述**：Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support
+- **首页栏目**：Industrial Ethernet Switches, IoT & Serial Connectivity Solutions / Find Smart Solutions... / Case Studies / Safeguarding Infrastructure: Supporting Smarter Bridge Performance / BB Eco Keep the Work Moving / Trusted Connectivity / Built for Life Warranty / Connected for Life Support
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 321、switch 233、industrial 204、gigabit 147、sfp 108、poe 82、fibre 14、automation 10、media converter 8、cable 7、fiber 1、cctv 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MK-103, SW-7717, MK-048, SW-7416, SW-7016, SW-7617, SW-195, SW-135, SW-535, SW-595, SW-125, SW-525
+- **站内公开邮箱**：support@brainboxes.com
+- **站内公开电话**：+1 (919) 241 8487, +44 (0)151 220 2500
+- **社媒**：https://www.linkedin.com/company/brainboxes/, https://www.youtube.com/@BrainboxesLtd, https://x.com/brainboxes_ltd
+- **产品类页面**：https://www.brainboxes.com/articles/discover-industrial-ethernet-switches；https://www.brainboxes.com/news/press-release-8-port-industrial-ethernet-switch-din-rail；https://www.brainboxes.com/news/brainboxes-launch-new-8-port-light-industrial-ethernet-switch；https://www.brainboxes.com/products/industrial-edge-controller-old；https://www.brainboxes.com/news/brainboxes-launches-industrial-range-of-usb-to-serial-products；https://www.brainboxes.com/news/brainboxes-launches-rs422485-4-8-port-industrial-usb-to-serial-products
+- **已抓子页**：[PoE Ethernet Switch - Brainboxes](https://www.brainboxes.com/products/industrial-ethernet-switches/poe)；[Industrial Ethernet Switches / Gigabit, PoE, Fast Ethernet](https://www.brainboxes.com/products/industrial-ethernet-switches)；[SFP - Brainboxes](https://www.brainboxes.com/products/industrial-ethernet-switches/sfp)；[Fast Ethernet Switch - Brainboxes](https://www.brainboxes.com/products/industrial-ethernet-switches/fast-ethernet)；[Hero Ethernet 16 Port - Brainboxes](https://www.brainboxes.com/products/industrial-ethernet-switches/hero-ethernet)；[Gigabit Ethernet Switch - Brainboxes](https://www.brainboxes.com/products/industrial-ethernet-switches/gigabit-ethernet)
+- 首页正文摘录：Contact Us Search Submit Clear GSA Capabilities Products Support Company Where to Buy Industrial Ethernet Switches, IoT & Serial Connectivity Solutions Find Smart Solutions... Open up machine monitoring Connect industrial IoT projects Innovate factory automation Make the remote feel right on-site Experience the future of industry today Explore Case Studies Case Studies Safeguarding Infrastructure: Supporting Smarter 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 209、PoE 82 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-140.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

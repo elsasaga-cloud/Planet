@@ -24,7 +24,7 @@ last_contact: 2025-10-16
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -93,6 +93,11 @@ updated: 2026-10-21
 - **风险/边界**：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线
 - **邮件切入句（英文）**：For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://eion.com/　语言：未标　站点地图 URL 数：0
+- 数据文件：`data/saga_clients/site_snapshots/SB-1099.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

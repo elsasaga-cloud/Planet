@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 23 次（2024-05-01 → 2025-10-29）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1090.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://top-fa.com/　语言：ko　站点地图 URL 数：0
+- **标题**：자동화의 모든것 TOP-FA!
+- **首页栏目**：팝업레이어 알림 / NOTICE / MAIN PRODUCTS / APPLICATION / NEWS / 제품정보 / 빠른견적요청
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 14、cable 12、automation 4
+- **站内出现的品牌**：D-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GIE72, GH-402ATXR, PCI-7432, I-7520AR, RS-232, RS-422, DAQ-2204, CMS631-H420E
+- **站内公开邮箱**：kijo1@adcsystem.co.kr, master@factos.co.kr
+- **已抓子页**：[PoE+ 임베디드 시스템 상품리스트 / 자동화의 모든것 TOP-FA!](https://top-fa.com/shop/list.php?ca_id=3040)；[산업용컴퓨터 & 메인보드 / 자동화의 모든것 TOP-FA!](https://top-fa.com/shop/productlist2.php?pro_id=7)；[견적요청 글쓰기 / 자동화의 모든것 TOP-FA!](https://top-fa.com/bbs/write.php?bo_table=estimate)；[자동화의 모든것 TOP-FA!](https://top-fa.com/sub11.php)；[Shop by Industry 1 페이지 / 자동화의 모든것 TOP-FA!](https://top-fa.com/bbs/board.php?bo_table=industry)
+- 首页正文摘录：팝업레이어 알림 팝업레이어 알림이 없습니다. CART HOME CONTACT US ADMIN Products Category DAQ, DIO, AIO 카드 I/O 모듈 모션 컨트롤러 비젼 시스템 산업용컴퓨터 & 메인보드 임베디드시스템 & 소형컴퓨터 컨버터 & 게이트웨이 IoT 관련 제품군 PAC Compact PCI & PXI Computer On Module Cable & Accessory COMPANY ADLINK 데이터수집(DAQ) 보드 산업용 컴퓨터 모션 컨트롤러 비전 시스템 임베디드 PC Compact PCI & PXI PC/104 & Small Form Factor Computer-On-Modules 기타(GPIB 등) Terminal Board ICP DAS PAC (PC기반의 PLC 제품) Remote I/O 모듈 DAQ 보드 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 14 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1090.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +187,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

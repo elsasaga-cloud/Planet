@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1144.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.accuratetechnologies.com/　语言：en-US　站点地图 URL 数：137
+- **标题**：ATI - Provides SW/HW Solutions for Control System Development
+- **描述**：ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis
+- **首页栏目**：Accelerating your ​ Electronic ​Control ​Unit Development / Analyze smarter. Collaborate faster. / ATI is Looking for Beta Testers / Get Early Access. Make an Impact. / ATI - Your Global Measurement, Calibration and Diagnostics Partner / Case Studies / From First Drive to Full Potential: Aixtreme Racing Advances the FS26 with ATI / Aixtreme Racing’s Shift to Electric Power with the Expertise of ATI
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 10、cable 9、oem 5、switch 3、industrial 3
+- **站内公开邮箱**：sales@accuratetechnologies.com
+- **站内公开电话**：+00 (1) 248 848 9200, +33 (0) 1 72 76 26 10, +44 (0) 1767 652 340 2026, +46 (0) 31 773 7140, +49 811 889 97351, +81-50-7103-6646
+- **社媒**：https://www.facebook.com/AccurateTechnologies, https://www.instagram.com/accuratetechnologiesinc/, https://www.linkedin.com/company/accurate-technologies, https://www.youtube.com/channel/UCxJ6_QObxJkpbdC_KeFCuIw/featured, https://www.youtube.com/playlist?list=PLUVwtzeuWqBkbZY26l9rlxdP1XnAbOe-1
+- **产品类页面**：https://www.accuratetechnologies.com/Products/ns-1-network-switch；https://www.accuratetechnologies.com/Products/VID；https://www.accuratetechnologies.com/CANBusProducts；https://www.accuratetechnologies.com/Products/CANary；https://www.accuratetechnologies.com/Products/Klaric；https://www.accuratetechnologies.com/Products/CANWAY
+- **已抓子页**：[Manufacturing Quality](https://www.accuratetechnologies.com/About ATI/Manufacturing)；[Network Analysis](https://www.accuratetechnologies.com/NetworkAnalysis)；[CAN Bus Products](https://www.accuratetechnologies.com/CANBusProducts)；[VISION Data Analyzer](https://www.accuratetechnologies.com/Products/vision-data-analyzer)；[About Us](https://www.accuratetechnologies.com/AboutATI)；[Contact Us](https://www.accuratetechnologies.com/ContactUs)
+- 首页正文摘录：Skip to search Skip to main content Electric Vehicle Development Our Products ECU Calibration Data Acquisition Data Analysis Diagnostics Services ECU Rapid Prototyping CAN Bus Products ECU Interfaces Network Solutions Test Cell Measurement Industries Electric Vehicle Automotive ECU and Powertrain Heavy Truck and Bus Two-Wheel Agricultural Construction and Off-Highway Marine Recreation Vehicles Aerospace About ATI Con
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 3、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1144.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

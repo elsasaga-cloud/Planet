@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-05-30 → 2025-10-17）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-175.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://frogfish.de/en/index.html　语言：en　站点地图 URL 数：71
+- **标题**：Home - frogfish surveillance GmbH
+- **首页栏目**：personalize your security / Surveillance Robot / Highlight Products / Bullet Premium Camera 5MP / Bullet Premium Camera 8MP / Fisheye Premium Camera 12MP / PTZ Premium Camera 5MP Smart / Are you missing a product?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 12、poe 6、switch 5、surveillance 5、gigabit 4、sfp 3、installer 2
+- **站内公开邮箱**：info@frogfish-usa.com, info@frogfish.de
+- **站内公开电话**：+49 3765 7890-90
+- **产品类页面**：https://frogfish.de/de/index/id-8port-gigabit-poe-2sfp-switch.html；https://frogfish.de/de/index/id-16port-gigabit-poe-1sfp-switch.html；https://frogfish.de/de/index/id-24port-gigabit-poe-2sfp-switch.html；https://frogfish.de/de/zubehoer/poe_injector.html；https://frogfish.de/de/index/outdoor_switch_box.html；https://frogfish.de/de/index/recorder-comfort-8poe.html
+- 首页正文摘录：Keywords Search Search DE Menü Skip navigation Home Downloads Login Skip navigation Cameras Recorder Accessories personalize your security NDAA compliant - Made in EU Your logo on camera and app Cheap and available Up to now, as an installer, you were dependent on the use of well-known hardware and software products. This allowed your end customer to compare prices directly and thus also the option to switch to the c
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 6、监控 17 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-175.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -165,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

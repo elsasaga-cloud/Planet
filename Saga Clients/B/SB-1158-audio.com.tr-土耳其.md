@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1158.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.audio.com.tr/　语言：tr-TR　站点地图 URL 数：229
+- **标题**：Audio Elektronik A.Ş./ Görüntülü Diafon, Akıllı Ev Sistemleri - İçinizi Rahatlatan Teknoloji
+- **描述**：Audio Görüntülü Diafonları ve Akıllı Ev Sistemleri 40 yıldır güven veren teknolojisi ve yüzde yüz yerli üretim ile müşterilerinin hizmetindedir.
+- **首页栏目**：Akıllı Ev Sistemleri Ürünlerimiz / IP Sistemler Ürünlerimiz / Görüntülü Diafon Ürünlerimiz / Sesli Diafon Ürünlerimiz / Audio Akıllı Ev Sistemini Keşfedin / Villa Çözümleri / Site-Apartman Çözümleri / Rezidans Çözümleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 1
+- **站内公开邮箱**：info@audio.com.tr
+- **社媒**：https://www.facebook.com/AudioElektronik/, https://www.instagram.com/audio_tr/, https://www.youtube.com/AudioElektronik
+- **产品类页面**：https://www.audio.com.tr/en/products/；https://www.audio.com.tr/dokumanlar/kataloglar/；https://www.audio.com.tr/en/documents/catalogues/；https://www.audio.com.tr/urunler/；https://www.audio.com.tr/muteahhit_urun_tanitim/；https://www.audio.com.tr/urunler/aksesuarlar/dekoratif-cerceve-1li/
+- **已抓子页**：[Ürünler / Audio Elektronik A.Ş. / Görüntülü Diafon, Akıllı E](https://www.audio.com.tr/urunler/)；[Yardımcı Ürünler / Audio Elektronik A.Ş. / Görüntülü Diafon](https://www.audio.com.tr/product-category/yardimci-urunler/)；[Aksesuarlar / Audio Elektronik A.Ş. / Görüntülü Diafon, Akıl](https://www.audio.com.tr/product-category/aksesuarlar/)；[Sesli Diafon / Audio Elektronik A.Ş. / Görüntülü Diafon, Akı](https://www.audio.com.tr/product-category/sesli-diafon/)；[IP Sistemleri / Audio Elektronik A.Ş. / Görüntülü Diafon, Ak](https://www.audio.com.tr/product-category/ip-sistemleri/)；[Zil Panelleri / Audio Elektronik A.Ş. / Görüntülü Diafon, Ak](https://www.audio.com.tr/product-category/zil-panelleri/)
+- 首页正文摘录：EN Kurumsal Tarihçe Bilgi Merkezi KVKK Politikası Gizlilik Sözleşmesi Çerez Politikası Misyon / Vizyon İlkeler / Değerler Kalite Politikamız Haberler Kurumsal Kimlik Çözümler Akıllı Ev Site-Apartman Çözümleri Rezidans Çözümleri Villa Çözümleri Dökümanlar Fiyat Listesi Kataloglar Belgeler Teknik Manuel Montaj ve Kullanım Kılavuzu Ürünler Ürün Tanıtım Filmi Akıllı Ev Sistemleri IP Sistemleri Görüntülü Diafon Sesli Diaf
+- 数据文件：`data/saga_clients/site_snapshots/SB-1158.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +150,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

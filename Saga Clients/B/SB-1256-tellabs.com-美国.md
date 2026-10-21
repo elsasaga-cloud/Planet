@@ -19,10 +19,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STI-288GP
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：美国的经销/集成（类型待核）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 官网快照对位：工业/自动化词频 6、PoE 9 → DIN 8 PoE+ 2 SFP 起手；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -60,6 +60,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1256.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tellabs.com/　语言：en-US　站点地图 URL 数：511
+- **标题**：Home - Tellabs
+- **描述**：Tellabs is a better way to build and operate true enterprise Optical LAN and broadband service provider networks.
+- **首页栏目**：Popular Links / A Solution that’s Right for You. / Featured Content / What Is the Difference Between Fiber and Copper Networking? / Zhone Technologies Announces Acquisition of Tellabs Access, LLC / EVENTS / Tellabs Joins the BICSI BEYOND 2026 Speaker Lineup / Wherever connecting is critical
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 102、fiber 88、switch 58、cable 13、poe 9、gigabit 9、10g 9、wireless 8、industrial 6、sfp 5、telecom 4、camera 3
+- **站内型号串**（正则抽取，含非交换机）：TR-008, GR-303, TR-57, T1X-XCVR, TR-057, GR303, ONT140C-TAA, ONT140C, ONT140C-R6, ONT140CL, ONT140CL-R6, ONT140W-TAA
+- **站内公开邮箱**：ask@tellabs.com
+- **站内公开电话**：+1 630 798 9900, +1 800 690 2324, +1 972 588 7000, +33 805 98 00 68, +44 808 175 3590, +65 800 101 3601
+- **社媒**：https://twitter.com/Tellabs, https://www.facebook.com/TellabsOfficial, https://www.linkedin.com/company/tellabs, https://www.youtube.com/channel/UCY2hL91348SM7aF7UgDxleA
+- **产品类页面**：https://tellabs.com/solutions/pon/innovations/switch-replace/；https://tellabs.com/why-enterprises-are-switching-to-optical-lan/；https://tellabs.com/solving-challenges-of-class-5-switch-replacement/；https://tellabs.com/solving-service-providers-class-5-switch-problems/；https://tellabs.com/webinar-tellabs-1000-msap-solution-for-tdm-switch-collapse/；https://tellabs.com/economics-of-using-the-t1000-ip-pots-card-for-tdm-switch-collapse/
+- **已抓子页**：[Contact - Tellabs](https://tellabs.com/about/contact/)；[Class-5 Switch Replacement - Tellabs](https://tellabs.com/solutions/modernization/class5-replace/)；[What Is the Difference Between Fiber and Copper Networking? ](https://tellabs.com/fiber-and-copper-networking-comparison/)；[Products - Tellabs](https://tellabs.com/products/)；[Broadband Ethernet - Tellabs](https://tellabs.com/solutions/modernization/ethernet/)；[Manufacturing - Tellabs](https://tellabs.com/solutions/industries/manufacturing/)
+- 首页正文摘录：News Releases Corporate news releases recognizing significant achievements of Tellabs operations, products, solutions and customers. Case Studies Hear directly from our customers about their successful installations, quantifiable benefits and sincere testimonials. Events Up-coming conferences, seminars and webinars where Tellabs products, solutions and people will be actively participating. Blogs & Articles Read thes
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1256.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -96,7 +113,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288GP | 官网快照对位：工业/自动化词频 6、PoE 9 → DIN 8 PoE+ 2 SFP 起手 | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -105,9 +122,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -117,7 +134,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -142,30 +159,12 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hi Heidi,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

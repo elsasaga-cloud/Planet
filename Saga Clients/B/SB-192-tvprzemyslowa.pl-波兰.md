@@ -24,7 +24,7 @@ last_contact: 2025-10-21
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -107,6 +107,22 @@ updated: 2026-10-21
 - **风险/边界**：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **邮件切入句（英文）**：Between the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://uniforce.pl/　语言：pl　站点地图 URL 数：0
+- **标题**：Uniforce - Elektroniczne systemy zabezpieczeń i drony
+- **描述**：Elektroniczne systemy zabezpieczeń i drony - Uniforce
+- **首页栏目**：Uniforce / Aktualności / Ascend 26: nowe funkcje dla Skydio X10D i premiera F10 Lightrunner / Na MSPO 2026 pokażemy wiele dronowych premier / Zapraszamy na Granice 2026 / Uniforce na Polsecure 2026
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 55、switch 53、axis 41、camera 19、cctv 16、nvr 11、ethernet 4、hikvision 4、dahua 3、wifi 2、industrial 1、media converter 1
+- **站内出现的品牌**：Axis, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MRM2-10AI, MRM2-10, SNYPER-5G, TSW200, TSW100, TSW110, D2124-VE, TP3604-E, P3408-VE, P3407-VE, P3285-LVE, P1486-LE
+- **站内公开邮箱**：kontakt@uniforce.pl
+- **站内公开电话**：+48 61 875 04 76
+- **已抓子页**：[Uniforce - Switche PoE / Telewizja przemysłowa / KATALOG PRO](https://uniforce.pl/pol_m_KATALOG-PRODUKTOW_Telewizja-przemyslowa_Switche-PoE-288.html)；[Uniforce - Telewizja przemysłowa / KATALOG PRODUKTÓW Elektro](https://uniforce.pl/pol_m_KATALOG-PRODUKTOW_Telewizja-przemyslowa-1245.html)；[Uniforce - Analizatory sygnałów sieciowych / KATALOG PRODUKT](https://uniforce.pl/pol_m_KATALOG-PRODUKTOW_Analizatory-sygnalow-sieciowych-2166.html)；[Uniforce - Siretta / Analizatory sygnałów sieciowych / KATAL](https://uniforce.pl/pol_m_KATALOG-PRODUKTOW_Analizatory-sygnalow-sieciowych_Siretta-2167.html)；[Uniforce - Akcesoria do kamer CCTV / Telewizja przemysłowa /](https://uniforce.pl/pol_m_KATALOG-PRODUKTOW_Telewizja-przemyslowa_Akcesoria-do-kamer-CCTV-293.html)；[Uniforce - KATALOG PRODUKTÓW Elektroniczne systemy zabezpiec](https://uniforce.pl/pol_m_KATALOG-PRODUKTOW-178.html)
+- 首页正文摘录：zł Język i waluta: pl / zł Dostawa do: Polska Waluta zł EUR (1 zł = 0.2287EUR) Zastosuj zmiany Zaloguj się Listy zakupowe 0 Dodaj do nich produkty, które lubisz i chcesz kupić później. Zapisz na liście zakupowej 0 Zapisz Stwórz nową listę zakupową Nazwa nowej listy Utwórz listę Zapisz 0,00 zł Produkt Ilość Cena Koszt dostawy od O FIRMIE KATALOG PRODUKTÓW Telewizja przemysłowa Kamery IP Rejestratory NVR Oprogramowanie
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 55、监控 46 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-192.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

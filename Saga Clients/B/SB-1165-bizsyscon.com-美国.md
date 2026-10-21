@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1165.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bizsyscon.com/　语言：en　站点地图 URL 数：6
+- **标题**：BSC
+- **描述**：BSC
+- **首页栏目**：Most searched for today / Wishlist / Shopping Cart / Our Catalog hide previews show previews / Products / Manufacturers / Contact Us / Deliver Intelligent Networks.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 874、planet 837、switch 660、industrial 536、ethernet 431、gigabit 376、sfp 297、ubiquiti 174、wireless 98、fiber 78、cable 69、media converter 44
+- **站内出现的品牌**：PLANET, Ubiquiti, MikroTik　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IGS-801T, WGS-4215-8T, WGS-803, WGS-804HPT, IGS-10020MT, IGS-500T, IPOE-171-95W, IGS-1600T, IPOE-162S, IECJ-400, RS232, RS422
+- **站内公开邮箱**：sales@bizsyscon.com
+- **站内公开电话**：+1 (636) 600-1400
+- **社媒**：https://twitter.com/BizSysCon, https://www.facebook.com/bizsyscon, https://www.linkedin.com/company/business-systems-connection-inc., https://www.youtube.com/@Bizsyscon/
+- **产品类页面**：https://bizsyscon.com/sitemap_products_1.xml?from=9982380081430&amp;to=9982471831830；https://bizsyscon.com/sitemap_products_2.xml?from=9982471864598&amp;to=15415623155990
+- **已抓子页**：[Industrial Ethernet Switch – BSC](https://bizsyscon.com/collections/industrial-ethernet-switch)；[Industrial PoE Injectors – BSC](https://bizsyscon.com/collections/industrial-poe-injectors)；[Industrial Ethernet – BSC](https://bizsyscon.com/collections/industrial-ethernet)；[All PoE Injectors / Splitters – BSC](https://bizsyscon.com/collections/power-over-ethernet-3)；[Planet Industrial Ethernet – BSC](https://bizsyscon.com/collections/industrial-ethernet-1)；[Power over Ethernet Switches – BSC](https://bizsyscon.com/collections/power-over-ethernet-switches)
+- 首页正文摘录：Skip to content Monday to Friday from 09:00 to 05:00 (except holidays) +1 (636) 600-1400 USER ACCOUNT Wishlist Cart Shopping Cart Most searched for today PRODUCT PRODUCT PRODUCT PRODUCT PRODUCT PRODUCT PRODUCT PRODUCT {"one"=>"{{ count }} result", "other"=>"{{ count }} results"} Monday to Friday from 09:00 to 05:00 (except holidays) +1 (636) 600-1400 USER ACCOUNT Wishlist Wishlist Add items to your wishlist now so yo
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 541、PoE 874 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1165.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +156,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

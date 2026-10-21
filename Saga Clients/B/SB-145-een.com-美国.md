@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-21 → 2025-10-22）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-145.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.een.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：AI Video Surveillance & Proactive security / Eagle Eye Networks
+- **描述**：AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. Request a demo today.
+- **首页栏目**：AI-powered surveillance video. Proactive security. Smarter business operations. / Smart surveillance is so much more than cameras. / Eagle Eye Cloud Video Management System (VMS) / Eagle Eye Updates / Unlimited flexibility to maximize your investment / Scale to unlimited locations, cameras, and users / Use your existing cameras / Works with any bandwidth
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 135、surveillance 43、switch 22、access control 21、poe 17、sfp 6、axis 4、data center 3、gigabit 2、10g 2、nvr 2、industrial 1
+- **站内出现的品牌**：Axis, Bosch, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, SW05M, SW26M
+- **站内公开邮箱**：emeasales@een.com, japansales@een.com, sales@een.com, u003eemeasales@een.com, u003ejapansales@een.com, u003esales@een.com
+- **站内公开电话**：+1 512 473 0500, +1-512-473-0500, +31 (0) 20 26 10 460, +31 20 26 10 460, +52 55 8526 4926, +81-3-6868-5527
+- **社媒**：https://twitter.com/EagleEyeCloud, https://www.facebook.com/BrivoInc/, https://www.facebook.com/eagleeyecloudvideo/, https://www.instagram.com/eagleeyenetworks/, https://www.linkedin.com/company/brivo-inc, https://www.linkedin.com/company/eagle-eye-networks
+- **已抓子页**：[Partners](https://www.een.com/partners/)；[Direct to Cloud Surveillance System / Brivo](https://www.brivo.com/platform/video-management-system/camera-direct/)；[CameraManager System Overview](https://www.een.com/product/cm-system-overview/)；[About Us](https://www.een.com/company/)；[Contact Us](https://www.een.com/company/contact/)；[PoE Switches / Surveillance Hardware / Eagle Eye Networks](https://www.een.com/hardware/switches/)
+- 首页正文摘录：Skip to content Search for: Login Cloud VMS CameraManager English Nederlands Français Deutsch 日本語 Español 1 408 869 5959 Products AI Video Surveillance Eagle Eye Cloud VMS Video API Platform Camera Direct Eagle Eye Complete Additional Features Gun Detection 911 Camera Sharing Remote Video Monitoring Face Match License Plate Recognition Precision Person & Vehicle Detection Point of Sale Integration Hardware Security C
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 17、监控 180 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-145.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +184,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

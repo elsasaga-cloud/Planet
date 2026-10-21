@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1197.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.icecom.is/　语言：is　站点地图 URL 数：0
+- **标题**：IceCom ehf. – Vörur og þjónusta
+- **首页栏目**：IceCom ehf veitir fyrirtækjum og stofnunum / heildarlausnir í tölvu- og fjarskiptakerfum.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 21、fibre 1
+- **站内出现的品牌**：Teltonika, Cambium　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IES-2710C, EM-C107CSC, GM-C301ASC, RUT951, BBP37, BBP85, BBP35, BBP72, BMP71, BMP51, BMP61, BMP-21
+- **站内公开邮箱**：hotel@icecom.is, icecom@icecom.is, sala@icecom.is
+- **社媒**：http://www.linkedin.com/shareArticle?mini=true&url=https://www.icecom.is/index.php/product/orbylgjusamband/, http://www.linkedin.com/shareArticle?mini=true&url=https://www.icecom.is/index.php/product/spori/, https://twitter.com/intent/tweet?text=https://www.icecom.is/index.php/product/orbylgjusamband/, https://twitter.com/intent/tweet?text=https://www.icecom.is/index.php/product/spori/, https://www.facebook.com/sharer/sharer.php?u=https://www.icecom.is/index.php/product/orbylgjusamband/, https://www.facebook.com/sharer/sharer.php?u=https://www.icecom.is/index.php/product/spori/
+- **已抓子页**：[Switch – IceCom ehf.](https://www.icecom.is/index.php/product-category/netbunadur/switch/)；[Spori – IceCom ehf.](https://www.icecom.is/index.php/product/spori/)；[Örbylgjusamband – IceCom ehf.](https://www.icecom.is/index.php/product/orbylgjusamband/)；[Netbúnaður – IceCom ehf.](https://www.icecom.is/index.php/product-category/netbunadur/)；[Prentvörur – IceCom ehf.](https://www.icecom.is/index.php/product-category/prentvorurur/)；[Öryggisvörur – IceCom ehf.](https://www.icecom.is/index.php/product-category/oryggisvorur/)
+- 首页正文摘录：0 Forsíða Vörur Netbúnaður Router Access point Switch Teltonika (4G routerar) Varaaflgjafar Riello Hótelkerfi Myndavélakerfi Snjallheimilið Devolo Net yfir rafmagn ABUS Fibaro Spori – Ferilvöktunarkerfi Spori Prentvörur Brady handprentarar Brady borðprentarar Brady skiltaprentarar Cab Magicard Öryggisvörur SPC uppsogsefni Röra/pípu merkingar Svæðis merkingar Öryggismerki Lockout tagout Stigar og tröppur Scafftag Pall
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 21、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1197.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +151,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

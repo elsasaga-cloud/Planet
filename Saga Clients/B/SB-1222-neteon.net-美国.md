@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1222.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.neteon.net/　语言：en　站点地图 URL 数：177
+- **标题**：Your Partner for Industrial Digital Transformation / Neteon
+- **描述**：Over 20+ years of providing Industrial Networking solutions have given us deep technological expertise and shaped a proven framework for our customers in the IIoT
+- **首页栏目**：Powering Industrial Digital Infrastructure / Start Your Mission-Ready Rugged Edge AI System / Moxa BXP-A101 / The Ultra-Compact Edge AI Computer That Never Quits / Cincoze Panel PCs / Rugged AI Without Compromise / ASUS IoT PE1000U Series / Cincoze MD-3000 Series
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 188、data center 33、moxa 31、ethernet 27、switch 20、automation 20、poe 19、wifi 16、camera 7、planet 7、scada 5、distributor 4
+- **站内出现的品牌**：Moxa, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MIL-STD-810H, EN51055, MPC-3000, BXP-A101, MIL-STD-810, RS-232, MPC-2000, PE1000U, MD-3000, DI-1200, MIC-770, PE1100N
+- **社媒**：https://www.linkedin.com/company/neteon/
+- **产品类页面**：https://www.neteon.net/solutions/industrial-edge-ai；https://www.neteon.net/solutions/industrial-panel-pc；https://www.neteon.net/solutions/industrial-fanless-pc；https://www.neteon.net/solutions/ot-industrial-networking；https://www.neteon.net/solutions/industrial-edge-computing；https://www.neteon.net/solutions/real-time-industrial-ethernet
+- **已抓子页**：[OT Network Infrastructure / Neteon](https://www.neteon.net/solutions/ot-industrial-networking)；[Enable Real-Time Industrial Network / OT Network Infrastruct](https://www.neteon.net/solutions/real-time-industrial-ethernet)；[OT Monitoring](https://www.neteon.net/solutions/ot-monitoring)；[OT Cybersecurity / Neteon](https://www.neteon.net/solutions/ot-cybersecurity)；[Industrial Edge AI](https://www.neteon.net/solutions/industrial-edge-ai)；[Industrial Panel PC](https://www.neteon.net/solutions/industrial-panel-pc)
+- 首页正文摘录：MOXA IPC IIoT Solutions Industrial Cybersecurity Real-Time OT Network Visibility Protect Your OT Networks Security Hardened Network Devices Industrial Network Infrastructure Slim Compact Rugged Unmanaged Switches Mission-Critical Industrial WiFi Real-Time Industrial Ethernet Industrial Edge Connectivity Cloud Ready Modular Remote I/O Monitor Your Power Systems Smarter Industrial Fanless PC Hazardous Area (C1D2/ATEX/I
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 198、PoE 19 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1222.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

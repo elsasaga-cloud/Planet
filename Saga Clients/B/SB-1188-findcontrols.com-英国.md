@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-144GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -92,6 +92,24 @@ updated: 2026-10-21
 - **风险/边界**：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供
 - **邮件切入句（英文）**：For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ralakde.com/　语言：en　站点地图 URL 数：11706
+- **标题**：Your partner in automation – Ralakde Automation
+- **描述**：We are an Industrial Supplies and Repairs company in UK. We are expert in repairing and sourcing PCB, PLC, Inverters, Drives, PCB, CNC, HMI, Power Supplies. Our team of engineers and technicians have extensive experience in providing repair services for various industrial machinery.
+- **首页栏目**：Ralakde Automations / Your Automation Solutions Partner / Why Choose Ralakde Automations? / Quality Assurance & Service Guarantees / We've Got You Covered — Always / Submit Critical Stock List / Emergency Breakdown Response / Request Area Sales Manager Visit
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 80、industrial 39、distributor 21、switch 18、cable 9、axis 2
+- **站内出现的品牌**：Schneider, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MS1500P, XKDF11440440, SSV66A150E1GP, QAX95, TR24-AB1ADC70E0, LV429371, XVLA134, S5-06303NR0, KH-TDR-R11, RF3030, IQL13, DF0402012B2LN
+- **站内公开邮箱**：example@email.com, sales@ralakde.com, your@email.com
+- **站内公开电话**：+1 (603) 272-7937, +44 1782 982393, 003004 5411011, 0095-00 3470009500 12
+- **社媒**：https://www.instagram.com/ralakdeautomation/, https://www.youtube.com/channel/UCT0jqtZ8_Nev5C3CN7hFOoA, https://x.com/plchub
+- **产品类页面**：https://ralakde.com/sitemap_products_1.xml?from=7530731208926&amp;to=7530847273182；https://ralakde.com/sitemap_products_2.xml?from=7530847338718&amp;to=7530904486110；https://ralakde.com/sitemap_products_3.xml?from=7530904518878&amp;to=7530972348638；https://ralakde.com/sitemap_products_4.xml?from=7530972381406&amp;to=7531041161438；https://ralakde.com/sitemap_products_5.xml?from=7531041292510&amp;to=7531118330078；https://ralakde.com/sitemap_products_6.xml?from=7531118428382&amp;to=7531215519966
+- **已抓子页**：[Switches – Ralakde Automation](https://ralakde.com/collections/switches)；[Industrial Component part – Ralakde Automation](https://ralakde.com/pages/industrial-component-part)；[about us – Ralakde Automation](https://ralakde.com/pages/about-us)；[Contact pix – Ralakde Automation](https://ralakde.com/pages/contact-pix)；[Manufacturer pix – Ralakde Automation](https://ralakde.com/pages/manufacturer-pix)；[Heating and Cooling Solutions – Ralakde Automation](https://ralakde.com/collections/heating-and-cooling-solutions)
+- 首页正文摘录：Home Components & Parts Sell to Us Manufacturers About Us Request a Repair USD AFN EUR ALL DZD EUR GBP XCD XCD GBP AMD AWG SHP AUD EUR AZN BSD GBP BDT BBD GBP EUR BZD XOF USD GBP BOB BAM BWP GBP USD USD BND EUR XOF BIF KHR XAF CAD CVE USD KYD XAF XAF GBP CNY AUD AUD GBP KMF XAF CDF NZD CRC XOF EUR ANG EUR CZK DKK DJF XCD DOP USD EGP USD XAF GBP EUR GBP ETB FKP DKK FJD EUR EUR EUR XPF EUR XOF GMD GBP EUR GBP GBP EUR D
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 44、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1188.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

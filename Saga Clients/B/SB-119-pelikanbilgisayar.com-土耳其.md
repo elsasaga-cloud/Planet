@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-28GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -86,6 +86,15 @@ updated: 2026-10-21
 - **风险/边界**：档口电商、比价为主；ISAF 未交谈；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
 - **邮件切入句（英文）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：pelikanbilgisayar.com
+  > https://pelikanbilgisayar.com/ conn: HTTPSConnectionPool(host='pelikanbilgisayar.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOF
+  > https://www.pelikanbilgisayar.com/ http 403 ct=text/html; charset=utf-8
+  > http://pelikanbilgisayar.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SB-119.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,6 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -1,4 +1,5 @@
 # ROCKBIOS Limited
+**官方名称（调研核实）**：ROCKBIOS Limited（加纳；仅电话）
 
 > **评级 B**　|　加纳　|　档案编号 `SB-296`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-296
 rating: B
 rating_auto: B
+name_official: "ROCKBIOS Limited（加纳；仅电话）"
 score: 44
 country: 加纳
 region: 非洲
@@ -19,9 +21,9 @@ replies: 2
 followups: 19
 first_contact: 2023-12-15
 last_contact: 2025-10-06
-p1: none
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加纳的经销/集成（类型待核）；兴趣/在卖：之前想要光端机 不能做   POE switch
+- **是谁**：加纳转售商 ROCKBIOS Limited（Abraham Sam，仅 WA 电话）。此前想要光端机（视频光端机，Saga 不做），转问 PoE 交换机；2023-12 要产品清单（已发商业与电源价格册），2024-02 对 24 光 combo 出货信息回「price」；19 次推送 1 次实质回复。→ B 20%（转售）。（调研 2026-10-21；表内兴趣：之前想要光端机 不能做   POE switch）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；-6 区域 非洲/加纳；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-06）；最近一次客户回复：2024-02-27：price
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,30 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-296.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：无域名（免费邮箱/仅电话）
+- **是谁**：加纳转售商 ROCKBIOS Limited（Abraham Sam，仅 WA 电话）。此前想要光端机（视频光端机，Saga 不做），转问 PoE 交换机；2023-12 要产品清单（已发商业与电源价格册），2024-02 对 24 光 combo 出货信息回「price」；19 次推送 1 次实质回复。→ B 20%（转售）。
+- **【用户表】表内需求与回复**
+  > 之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格册)；2024.2.27 发了24光combo出货信息 → price
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Abraham Sam（（表内联系人）） +233 26 465 3169（WA 已加）〔用户 Clients 表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 待核 |
+| 成立 | 待核 |
+| 总部/地址 | 待核 |
+| 其他 | +233 26 465 3169；无邮箱 |
+
+- **业务线**：待核（见表内需求）
+- **触达通道（公开）**：contact: Abraham Sam，+233 26 465 3169（WA 已加）
+- **近况信号**：
+  - 2024-02 对 24 光 combo 回 price
+- **风险/边界**：无邮箱与公司资料；加纳小额订单物流/付款
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）
+- **邮件切入句（英文）**：You asked the price of the 24-port fiber combo switch after we sent the catalog — I can quote it with the 8-port PoE model on one sheet; how many units would a first order be?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -96,7 +121,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Abraham Sam | — | +233264653169 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Abraham Sam | （表内联系人） | +233 26 465 3169（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单
 
@@ -112,18 +137,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -133,7 +157,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -158,12 +182,29 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 公司网站（表内无域名，无法核实是否仍在运营）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+
+```text
+Hi Abraham,
+
+Picking up our earlier exchange about PoE / industrial switches. You asked the price of the 24-port fiber combo switch after we sent the catalog — I can quote it with the 8-port PoE model on one sheet; how many units would a first order be?
+
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

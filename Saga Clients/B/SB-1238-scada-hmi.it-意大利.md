@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1238.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.scada-hmi.it/store2/　语言：en　站点地图 URL 数：0
+- **标题**：Sielco Sistemi Store
+- **首页栏目**：Compact I/O modules with Modbus RTU/ASCII / I/O modules with Modbus TCP and Webserver / Industrial I/O modules with Modbus RTU/ASCII / Send Modbus devices variables into the Cloud using MQTT protocol / Prodotti / Information / Contact Information
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 28、industrial 27、ethernet 9、cable 2
+- **站内出现的品牌**：Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS-485, IT02854460132, IEEE802, UL508, RUT500, DR-30-24, SS10000, RS485, MDR-40-24, MDR-10-24, DR-15-24
+- **站内公开邮箱**：info@sielcosistemi.com
+- **站内公开电话**：+39) 031899671
+- **社媒**：https://www.facebook.com/ScadaSoftware/
+- **已抓子页**：[Industrial I/O Modules](https://www.scada-hmi.it/store2/industrial-i-o-modules.html)；[Opal8 8 Port Entry Level Unmanaged Din-Rail Switch](https://www.scada-hmi.it/store2/opal8-8-port-entry-level-unmanaged-din-rail-switch.html)；[Opal5 5 Port Entry Level Unmanaged Din-Rail Switch](https://www.scada-hmi.it/store2/opal5-5-port-entry-level-unmanaged-din-rail-switch.html)；[Contact Us](https://www.scada-hmi.it/store2/contact/)；[Advanced Search](https://www.scada-hmi.it/store2/catalogsearch/advanced/)；[Accessories](https://www.scada-hmi.it/store2/accessories.html)
+- 首页正文摘录：Skip to Content Currency EUR - Euro USD - US Dollar Language English Italian Sign In Create an Account Toggle Nav My Cart Search Search Advanced Search Search Compare Products Menu Home Compact I/O Modules Webserver I/O Modules Industrial I/O Modules Converters Accessories Account Settings Language English Italian Currency EUR - Euro USD - US Dollar New data acquisition system available in the versions “Compact”,“Web
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 27、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1238.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-24 → 2025-11-04）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-177.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.urmet.de/　语言：de-DE　站点地图 URL 数：1
+- **标题**：Startseite / Urmet DE
+- **首页栏目**：Smarte Lösungen für jedes Zuhause / Alpha, der technische Fortschritt / News von uns / Die beste Unterstützung für Ihr Projekt. / Mehr von uns auf Instagram
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 75、poe 42、switch 29、ethernet 6、cctv 5、sfp 1、10g 1、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：RS485, HD14055, HD4019, HD4407, HD8035, CALIMA-800, SET-1784-716, LDT-HD4, LDT-HD8, AVTPSCOA000, BP-6M, TC-FD4013T-R
+- **站内公开邮箱**：info@grothe.de, info@urmet.de
+- **社媒**：https://www.facebook.com/GROTHE.GmbH/, https://www.instagram.com/grothe.gmbh/, https://youtube.com/@grothegmbh1892
+- **已抓子页**：[Videoüberwachung](https://www.urmet.de/Produkte/Videoueberwachung/)；[IP Netzwerk](https://www.urmet.de/Produkte/Videoueberwachung/IP-Netzwerk/)；[IP Videoüberwachungs-Sets](https://www.urmet.de/Produkte/Videoueberwachung/IP-Videoueberwachungs-Sets/)；[Videoüberwachung Zubehör](https://www.urmet.de/Produkte/Videoueberwachung/Videoueberwachung-Zubehoer/)；[Einschraubkontakte PROTACT](https://www.urmet.de/Produkte/Tuerklingeln/Verdrahtete-Klingel/Einschraubkontakte-PROTACT/)；[Kontakt](https://www.urmet.de/Service/Kontakt/)
+- 首页正文摘录：Zum Hauptinhalt springen Zur Suche springen Zur Hauptnavigation springen Produkte Sprechanlagen Videoüberwachung Alarmanlagen Zutrittskontrolle Türklingeln Infoboards Industriesignalisation Transformatoren und Netzgeräte Smart Home Verbindungstechnik Bewegungsmelder Sprechanlagen-Sets Türstationen Wohnungssprechstellen Sprechanlagensysteme Sprechanlagen Zubehör IP Netzwerk IP Videoüberwachungs-Sets Analog High Defini
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 42、监控 80 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-177.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-448DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-195.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bome.com/　语言：en-US　站点地图 URL 数：161
+- **标题**：Bome Software – MIDI Software and Hardware
+- **描述**：Bome Software is a manufacturer of software and hardware for music production on stage and studio. Our main focus is on MIDI control and MIDI networking,
+- **首页栏目**：Bome Software / News August 2026 / New! Bome Network 1.7 / New! Add-On Bome MIDI Translator BN / New! BomeBox Firmware 1.6.1 / BomeBox 2 Status
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：oem 14、distributor 7、installer 6、ethernet 5、wifi 3、cable 1
+- **社媒**：https://www.facebook.com/BomeSoftware, https://www.youtube.com/@Bome, https://www.youtube.com/BomeSoftware, https://www.youtube.com/playlist?list=PLzwHsH6-VZ8QGQ78WYw3thLAPTMbOb7xS
+- **产品类页面**：https://www.bome.com/products；https://www.bome.com/products/bmidi；https://www.bome.com/products/sendsx；https://www.bome.com/products/bomebox；https://www.bome.com/products/bomenet；https://www.bome.com/products/bomebox2
+- **已抓子页**：[Bome Network – Bome Software](https://www.bome.com/products/bomenet)；[Bome Network Pro (5 devices) – Bome Software](https://www.bome.com/shop/bomenetpro)；[Redeem – Bome Software](https://www.bome.com/redeem)；[Products – Bome Software](https://www.bome.com/products)；[Register Product – Bome Software](https://www.bome.com/register)；[BMIDI Virtual MIDI SDK – Bome Software](https://www.bome.com/products/bmidi)
+- 首页正文摘录：Skip to content Products Bome MIDI Translator Pro Bome Network BomeBox 1 BomeBox 2 Preview Bome Mouse Keyboard Bome Send SX More Restorator Renovator for ReBirth 2 CS1x-Edit MT Player OEM BMIDI Virtual MIDI SDK Shop Bome MIDI Translator Pro Bome Network Pro (5 devices) Bome MIDI Translator BN Unlimited Named MIDI Ports BomeBox All Products Cart Support Forum Video Tutorials Partners Contact Search for: Search Search 
+- 数据文件：`data/saga_clients/site_snapshots/SB-195.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-04-02 → 2025-11-04）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-184.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://nellyssecurity.com/　语言：en　站点地图 URL 数：125
+- **标题**：Nelly's Security / CCTV, Access Control, and Intrusion Alarms
+- **描述**：The web's top source for commercial-grade physical security equipment. We partner with security professionals like you to move your business forward.
+- **首页栏目**：Video Surveillance / Networking / Access Control / ID Management / Shop By Category / Security Cameras / Recorders / Alarms & Smart Home
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 280、nvr 240、poe 180、uniview 164、access control 100、surveillance 94、switch 75、tp-link 57、gigabit 44、cable 44、wireless 42、ethernet 40
+- **站内出现的品牌**：Uniview, Hanwha, ZKTeco, TP-Link, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：NVR504-32B-P16-IQ, NVR501-04B-P4, NVR301-04B-P4-IQ, RQ3-1C4P4B, NVR-104E2-P4, RQ5-4C32P16B, DC-7600, DC-8600, EAP225, IPC3618SR-ADF28KM-H, IPC3614SR-ADF28KM-H, IPC3624SR-ADF28KM-WP
+- **社媒**：https://twitter.com/rackmounts, https://www.dropbox.com/scl/fi/0fhawrqt9en9xwefdacyp/EZStation_B1130.3.17.1-IN.zip?rlkey=ofsogq1pnur3oaeok1633w2bz&st=6r3wi6lc&dl=0, https://www.dropbox.com/scl/fi/mwewzou1j15izjlwbudd6/GuardStation_B1130.3.15.5-IN.zip?rlkey=2kbzs82j8u7ucsjxdiqdnn6jl&st=50t9s2fs&dl=1, https://www.dropbox.com/scl/fi/p24huex4c2zr3hsu9f0vg/EZStation_Mac-B1113.3.15.2-IN-.pkg.zip?rlkey=up8arddebi4y71dksncx8436e&st=9zjz6qm5&dl=0, https://www.dropbox.com/scl/fo/ugfdo7c3douzjsv9zdxyl/AAnMSgQ0IIyygqF2pl6ylew/uniview/windows/EZPlayer-B1111.1.3.0.zip?rlkey=nhihtrjnpi3ol3h6zk3xb1vek&e=1&st=g0m9kmoc&dl=1, https://www.dropbox.com/scl/fo/ugfdo7c3douzjsv9zdxyl/AEY0cN_FHzzzMgTD7w_2jh8/uniview-nb/mac/GuardStation_Mac-B1113.3.10.1(IN).pkg.zip?rlkey=nhihtrjnpi3ol3h6zk3xb1vek&e=1&st=yw938xs2&dl=1
+- **产品类页面**：https://nellyssecurity.com/blogs/articles/remotely-manage-your-network-with-univiews-cloud-poe-switch-nsw3000；https://nellyssecurity.com/blogs/articles/working-smarter-not-harder-with-the-ipcp-poe-powered-spot-monitor；https://nellyssecurity.com/blogs/articles/what-is-power-over-ethernet-poe-and-how-can-it-change-your-ip-camera…；https://nellyssecurity.com/sitemap_products_1.xml?from=8159936807148&amp;to=15400198340844；https://nellyssecurity.com/blogs/articles/uniview-motorized-lens-ip-security-cameras-review-and-product-demo
+- **已抓子页**：[UNV 12MP 4 Channel Network Video Recorder with AI Facial Rec](https://nellyssecurity.com/products/unv-12mp-4-channel-network-video-recorder-with-ai-facial-recognition-4-poe-1-hdd-nvr301-04b-p4-iq)；[Guard Series 12MP 4 Channel Network Video Recorder with AI F](https://nellyssecurity.com/products/guard-series-12mp-4-channel-network-video-recorder-with-ai-facial-recognition-4-poe-1-hdd-rq3-1c4p4b)；[UNV 4K Ultra HD PoE 4-Channel NVR with 1 SATA HDD Bay, NDAA ](https://nellyssecurity.com/products/unv-4k-ultra-hd-poe-4-channel-nvr-with-1-sata-hdd-bay-ndaa-compliant-ip-network-video-recorder-nvr501-04b-p4)；[UNV 16MP UltraHD 32-Channel Network Video Recorder with 4 Ha](https://nellyssecurity.com/products/unv-16mp-ultrahd-32-channel-network-video-recorder-with-2-hard-drive-bays-16-poe-ports-and-intelligent-video-analytics-nvr504-32b-p16-iq)；[Uniarch by Uniview 4K UltraHD 8MP NDAA-Compliant 4-Channel I](https://nellyssecurity.com/products/uniarch-by-uniview-4k-ultrahd-8mp-ndaa-compliant-4-channel-ip-network-video-recorder-with-4-poe-ports-and-1-sata-hard-drive-bay-nvr-104e2-p4)；[16MP UltraHD 32-Channel Network Video Recorder with 4 Hard D](https://nellyssecurity.com/products/guard-series-16mp-ultrahd-32-channel-network-video-recorder-with-4-hard-drive-bays-16-poe-ports-and-intelligent-video-analytics-rq5-4c32p16b)
+- 首页正文摘录：Skip to content 855-340-9999 / 9AM - 5PM CST / Monday - Friday Help Center / Warranty & Returns / Request a Quote Sign In / Create an account Categories Categories Video Surveillance Video Surveillance Security Cameras Recorders Complete Systems Installation Access Control Access Control Boards & Systems Video Intercoms Visual Security Alarms & Smart Home Alarms & Smart Home Intrusion Alarms Smart Home ID Management 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 180、监控 636 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-184.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

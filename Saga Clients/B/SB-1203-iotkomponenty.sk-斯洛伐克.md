@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1203.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.iotkomponenty.sk/en/　语言：en　站点地图 URL 数：0
+- **标题**：IOT Components
+- **描述**：IOT Components
+- **首页栏目**：Deal Of The Day / USR-G785 / USR-SDR041 / USR-SDR080 / USR-SDR021 / USR-SDR050 / USR-G761W / Featured products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 135、ethernet 114、switch 42、wifi 22、fiber 11、wireless 10、poe 5
+- **站内型号串**（正则抽取，含非交换机）：USR-G781, USR-G806, USR-SDR041, USR-SDR080, USR-SDR021, USR-SDR050, SK2023841930, USR-DR302, USR-M511, USR-TCP232-410S, USR-K7, USR-W610
+- **站内公开邮箱**：info@iotkomponenty.sk
+- **站内公开电话**：+421 905 509 859
+- **社媒**：http://www.facebook.com/sharer.php?u=https://www.iotkomponenty.sk/en/industrial-network-devices/26-usr-g806.html, http://www.facebook.com/sharer.php?u=https://www.iotkomponenty.sk/en/industrial-network-devices/28-usr-g781.html, http://www.facebook.com/sharer.php?u=https://www.iotkomponenty.sk/en/industrial-network-devices/75-usr-sdr041.html, http://www.facebook.com/sharer.php?u=https://www.iotkomponenty.sk/en/industrial-network-devices/79-usr-g806w.html, https://twitter.com/intent/tweet?text=USR-G781 https://www.iotkomponenty.sk/en/industrial-network-devices/28-usr-g781.html, https://twitter.com/intent/tweet?text=USR-G806 https://www.iotkomponenty.sk/en/industrial-network-devices/26-usr-g806.html
+- **已抓子页**：[Industrial switches](https://www.iotkomponenty.sk/en/45-industrial-switches)；[Industrial network devices](https://www.iotkomponenty.sk/en/42-industrial-network-devices)；[USR-G806](https://www.iotkomponenty.sk/en/industrial-network-devices/26-usr-g806.html)；[USR-G781](https://www.iotkomponenty.sk/en/industrial-network-devices/28-usr-g781.html)；[USR-G806w](https://www.iotkomponenty.sk/en/industrial-network-devices/79-usr-g806w.html)；[USR-SDR041](https://www.iotkomponenty.sk/en/industrial-network-devices/75-usr-sdr041.html)
+- 首页正文摘录：Language: English Slovenčina English Slovenčina English Currency: € EUR CZK Kč EUR € CZK Kč EUR € info@iotkomponenty.sk +421 905 509 859 Sign in Or Register Menu All Categories Home --Converters and modules ----Serial-Ethernet ------Embedded Ethernet Module ------Serial Ethernet Converter ------Modbus Gateways ----Serial-Wifi ------Embedded Wi-Fi Modules ------Serial Wi-Fi Converter ----Serial-GSM ------2G GSM/GPRS S
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 135、PoE 5 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1203.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

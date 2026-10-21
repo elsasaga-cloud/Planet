@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -85,6 +85,19 @@ updated: 2026-10-21
 - **风险/边界**：ISAF 仅交换名片、需求未表达；无后续跟进
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）
 - **邮件切入句（英文）**：Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://foline.com.tr/　语言：未标　站点地图 URL 数：46
+- **标题**：FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN VE TİC LTD ŞTİ
+- **描述**：FOLINE BİLİŞİM TEKNOLOJİLERi Deneyimli Kadrosu İle Veri Merkezleri, KonteynerVeri Merkezleri, Zayıf Akım Sistemleri ve Yapısal Kablolama Sistemleri konularında mühendislik, danışmanlık ve uygulama hizmetleri vermektedir
+- **首页栏目**：Zayıf Akım Sistemleri / Fark Yaratan Hizmet / Hizmetlerimiz / Teklif Formu / E-bülten Aboneliği
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 21
+- **社媒**：https://t.me/kullanıcı adınızı yazınız, https://www.instagram.com/?hl=tr
+- **产品类页面**：https://foline.com.tr//urunler
+- **已抓子页**：[Hakkımızda](https://foline.com.tr/icerik/hakkimizda)；[İletişim](https://foline.com.tr/iletisim)；[Cctv çözümleri](https://foline.com.tr/hizmet/cctv-cozumleri)；[Network çözümleri](https://foline.com.tr/hizmet/network-cozumleri)
+- 首页正文摘录：Lütfen Site Dili Seçiniz Türkçe Telefon Telegram WhatsApp İnstagram 0 212 535 00 33 [email protected] Kurumsal Hakkımızda KVKK Çerez Politikası Hizmetler Yapısal kablolama Network çözümleri Veri merkezi altyapı Cctv çözümleri Telefon santrali çözümleri Personel takip ve geçiş sistemleri Acil anons sistemleri Yangın algılama ve i̇hbar sistemleri Bakım ve destek Tümünü Göster Çözüm Ortaklarımız Referanslar İletişim Zay
+- 数据文件：`data/saga_clients/site_snapshots/SB-111.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

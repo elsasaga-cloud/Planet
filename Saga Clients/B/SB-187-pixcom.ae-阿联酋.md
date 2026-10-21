@@ -24,7 +24,7 @@ last_contact: 2025-10-27
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -93,6 +93,20 @@ updated: 2026-10-21
 - **风险/边界**：主业数字标牌，网络交换机只是项目配套，量小且不定期；联系人用 gmail，职位不明（官网未列）；正式采购口应为 marketing@/采购部
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——表内需求「6 口管理交换机 + multicast support」→ 8 口 PoE+ 2 SFP L2+ 管理型（IGMP snooping/VLAN）最贴近；标牌项目按集成 25% 档
 - **邮件切入句（英文）**：You asked earlier about a small managed switch with multicast support for signage networks — our 8-port PoE+ L2+ model (2 SFP uplinks) does IGMP snooping/VLAN; would a one-unit sample for your next video-wall project be useful?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://pixcom.ae/　语言：en-US　站点地图 URL 数：127
+- **标题**：pixcom
+- **首页栏目**：Pixcom Visual Display & Solutions / Pixcom LED Displays / Pixcom New- Age Solutions / ONE STOP SOLUTION FOR ALL DIGITAL SIGNAGE NEEDS / WATCH THE VIDEO >>> / OUR LATEST PROJECTS / GIGA Display / Emirates NBD
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 1、camera 1、cctv 1、surveillance 1、access control 1、wireless 1、wifi 1
+- **站内公开邮箱**：marketing@pixcom.ae
+- **站内公开电话**：+971 4 580 6222
+- **社媒**：http://twitter.com, https://www.facebook.com/Pixcom/, https://www.facebook.com/Pixcom/videos/1545256072211582/, https://www.instagram.com/pixcomdubai/?hl=en, https://www.linkedin.com/company/13443911/, https://www.youtube.com/user/pixcomtech/videos
+- **产品类页面**：https://pixcom.ae/industrialists-entrepreneurs-welcome-the-strategy/；https://pixcom.ae/products/；https://pixcom.ae/portfolio/quill-shopping-mall/；https://pixcom.ae/portfolio/suzhou-shin-kong-shopping-mall/；https://pixcom.ae/explore-shopping-at-the-outlet-village-mall/
+- **已抓子页**：[contact](https://pixcom.ae/contact/)；[about us / Leading Digital Signage Solution provider in UAE](https://pixcom.ae/about-us/)；[MANUFACTURING / Leading Digital Signage Solution provider in](https://pixcom.ae/manufacturing/)；[Avaya / Leading Digital Signage Solution provider in UAE](https://pixcom.ae/avaya/)；[ICT Solution / Leading Digital Signage Solution provider in ](https://pixcom.ae/ict-solution/)；[INNOVATIVE DISPLAY SOLUTIONS / Leading Digital Signage Solut](https://pixcom.ae/innovative-display-solutions/)
+- 首页正文摘录：); HOME ABOUT PRODUCTS LED DISPLAY Indoor LED Display Outdoor LED Display Custom LED Display LED Controller INNOVATIVE LED DISPLAYS Interactive LED Display Transparent LED Display Free Form LED Display DIGITAL KIOSK Interactive Indoor Kiosk Interactive Outdoor Kiosk Custom Kiosk IP TELEPHONY SOLUTION Avaya Cloud Powerd by IPO Avaya Phones in UAE Avaya IP Phones in UAE Avaya J Series Phones in UAE Avaya Equinox™ Exper
+- 数据文件：`data/saga_clients/site_snapshots/SB-187.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1220.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mondoplast.ro/　语言：ro　站点地图 URL 数：0
+- **标题**：Mondo Plast - Cabluri si echipamente pentru telecomunicatii
+- **描述**：Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv
+- **首页栏目**：Oferte / Produse / Info / Curs valutar / 1 EURO = 5.3285 RON 1 USD = 4.7516 RON / Cablu Coaxial RG-59 3m, cu mufe F rapide BraunGroup - RG59FFQ3m / Cablu coaxial 75ohm Amiko - RG6W305CCW / Cablu F/FTP cat6A+ LSNH CPR:Dca 625MHz AWG23 Belden - 10GXE01D
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 16、switch 15、industrial 13、gigabit 10、wireless 10、cctv 8、10g 6、sfp 5、cable 4、ethernet 2、fibre 1、nvr 1
+- **站内出现的品牌**：PLANET, Hikvision, Hirschmann　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RO-12755240, AWG24, XTGK-45, AWG23, RG-59, YE00923-CTS, YE00918, HT-106C, HT-3141A, CMM5M-2U, CM3001H, FDB-12M
+- **站内公开邮箱**：bucuresti@mondoplast.net, financiar@mondoplast.ro, timisoara@mondoplast.net, webmaster@mondoplast.ro
+- **站内公开电话**：0000 0002 3005 7310, 0000 0119 7018, 0000 0119 7045, 0000 0119 7053, 000000053116, 00918 70.57
+- **社媒**：https://www.facebook.com/mondo.plast.srl
+- **已抓子页**：[Industrial networking - Mondo Plast - Cabluri si echipamente](https://www.mondoplast.ro/inet)；[Set/ Kit PoE pasiv, injector & splitter pentru camere suprav](https://www.mondoplast.ro/Set--Kit-PoE-pasiv--injector---splitter-pentru-camere-supraveghere-IP--peste-cablu-cat5E--10-100-Braun-Group-POE-KIT-F--POEKIT-pasiv-pg_ft-5801)；[Contact - Mondo Plast - Cabluri si echipamente pentru teleco](https://www.mondoplast.ro/contact)；[Camere de supraveghere video, echipamente supraveghere video](https://www.mondoplast.ro/sisteme-supraveghere-video-cctv)
+- 首页正文摘录：Cariere Produse Despre Contact Acasa Cauta produse Produsele se livreaza in 24-72 ore de la data comenzii. Oferte Black friday Produse noi Promotii Oferte speciale Lichidari stocuri Produse SOLAR Industrial networking Cabluri CATV - Cablu TV CCTV - Supraveghere video Conectori, adaptori, clesti Multimedia Satelit Receptie DVB-T Radio Wireless Wirenet Belden Retele LAN Pasive UTP/FTP Echipamente fibra optica Pasive fi
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 16 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1220.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +154,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

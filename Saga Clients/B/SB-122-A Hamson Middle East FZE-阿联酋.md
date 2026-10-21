@@ -24,7 +24,7 @@ last_contact: 2025-10-27
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -98,6 +98,19 @@ updated: 2026-10-21
 - **风险/边界**：思科/IBM 生态集成商，品牌替换意愿低；需求以原厂配件为主；Saga 无光模块价目
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）
 - **邮件切入句（英文）**：When a project does not require Cisco at the access layer, our 24-port PoE+ L2+ switch (4 SFP uplinks, Marvell-based) is the piece integrators use to keep budgets in line — would it help to have the datasheet on file for your Dubai tenders?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ahamson.com/　语言：en　站点地图 URL 数：0
+- **标题**：A Hamson Inc.
+- **描述**：We offer a full life-cycle of network integration services â design, build, operate and support of customer networks. With a unique operational model, best of breed portfolio and technical expertise around complex networking, we support known companies.
+- **首页栏目**：Building Marvels for A Better Tomorrow / Centralized Management / Business Upgradation From The Legacy Process To Automation / Accelerate your Business with Innovative Solutions / Converged Infrastructure / Managed Services / Security & Intelligence / Applications Services
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：datacenter 16、access control 11、wireless 10、data center 8、telecom 6、automation 4、cisco 3、switch 1、industrial 1、scada 1、ethernet 1
+- **社媒**：https://www.facebook.com/aHamsonInc/, https://www.linkedin.com/company/13267724/, https://www.twitter.com
+- **已抓子页**：[A Hamson Inc.](https://ahamson.com/about.html)；[A Hamson Inc.](https://ahamson.com/contact.html)；[A Hamson Inc.](https://ahamson.com/partnershipprogram.html)；[A HAMSON INC.](https://ahamson.com/services.html)；[A Hamson Inc.](https://ahamson.com/application.html)；[A Hamson Inc.](https://ahamson.com/services-detail.html)
+- 首页正文摘录：Converged Infrastructure Managed Services Security & Intelligence Applications Services Professional Services Home current About Us Services Services Converged Infrastructure Data Center Mobile infrastructure Mobile Device Management DCIM Network & Server Infrasturcture Software Defined Application Services Software Development Business Intelligence Software Asset Licencing Security & intelligence Compliance & govern
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 6、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-122.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

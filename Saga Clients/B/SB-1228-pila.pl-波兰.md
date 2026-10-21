@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1228.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.pila.pl/　语言：pl　站点地图 URL 数：5812
+- **标题**：Portal informacyjny miasta Piły - UM Piła
+- **描述**：Oficjalny serwis internetowy Urzędu Miasta Piły - aktualne wydarzenia, wiadomości, informacje praktyczne, turystyka, biznes i wiele innych.
+- **首页栏目**：UM Piła / Kalendarz wydarzeń / Najnowsze wydarzenia / Październik 2026 / Na skróty / Wyjątkowe miejsce / Polecamy / Stopka
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 4、poe 3
+- **站内公开邮箱**：architektura@um.pila.pl, audytor@um.pila.pl, bnw@um.pila.pl, bp@um.pila, brm@um.pila.pl, bzp@um.pila.pl
+- **站内公开电话**：+48 67 210 42 40, +48 67 210 42 70, +48 67 210 42 73, +48 67 210 42 91, +48 67 210 43 36, +48 67 212 35 66
+- **社媒**：https://www.facebook.com/groups/166481397495724/, https://www.facebook.com/miastopila, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.pila.pl%2Fkalendarz-wydarzen%2F6290-poetycko-jesiennie-pieknie.html, https://www.instagram.com/miasto_pila/, https://www.youtube.com/user/MiastoPila
+- **产品类页面**：https://www.pila.pl/kalendarz-wydarzen/3310-poezja-na-targowisku.html；https://www.pila.pl/kalendarz-wydarzen/3311-poezja-na-targowisku.html；https://www.pila.pl/kalendarz-wydarzen/3312-poezja-na-targowisku.html；https://www.pila.pl/kalendarz-wydarzen/poetycko-jesiennie-pieknie.html；https://www.pila.pl/kalendarz-wydarzen/poetycko-jesiennie-pieknie-2.html；https://www.pila.pl/kalendarz-wydarzen/poetycko-jesiennie-pieknie-3.html
+- **已抓子页**：[Poetycko, jesiennie, pięknie... - UM Piła](https://www.pila.pl/kalendarz-wydarzen/6290-poetycko-jesiennie-pieknie.html)；[Zapraszamy do kontaktu - UM Piła](https://www.pila.pl/kontakt.html)
+- 首页正文摘录：Strona korzysta z plików cookies w celu realizacji usług. Możesz określić warunki przechowywania lub dostępu do plików cookies klikając przycisk Ustawienia. Aby dowiedzieć się więcej zachęcamy do zapoznania się z Polityką Cookies oraz Polityką Prywatności. Ustawienia Odrzuć wszystkie Zezwól na wszystkie Ustawienia Szanujemy Twoją prywatność. Możesz zmienić ustawienia cookies lub zaakceptować je wszystkie. W dowolnym 
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 3 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1228.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

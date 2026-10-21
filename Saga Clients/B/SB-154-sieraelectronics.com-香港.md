@@ -22,7 +22,7 @@ last_contact: 2025-11-07
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-11 → 2025-11-07）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,17 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-154.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sieraelectronics.com/　语言：en-US　站点地图 URL 数：1005
+- **标题**：Siera Electronics /
+- **首页栏目**：North America / Central America and Caribbean / South America / Europe / Asia / Important Notice · Service update / Sieco Cameras Compatible with Alexa and Google Home / New Security Feature on UHF SAC 3690 Readers
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 6、access control 2、distributor 2、automation 1、surveillance 1、installer 1
+- **产品类页面**：https://sieraelectronics.com/en/products/；https://sieraelectronics.com/en/products/cctv/；https://sieraelectronics.com/en/products/cloud/；https://sieraelectronics.com/en/products/intercom/；https://sieraelectronics.com/en/products/access-control/；https://sieraelectronics.com/en/products/mobile-solutions/
+- **已抓子页**：[Products / Siera Electronics](https://sieraelectronics.com/en/products/)；[Contact / Siera Electronics](https://sieraelectronics.com/en/contact/)；[About Us / Siera Electronics](https://sieraelectronics.com/en/about-us/)；[Solutions / Siera Electronics](https://sieraelectronics.com/en/solutions/)
+- 首页正文摘录：Cloud Languages Log In Contact About Us Solutions Products News Warranty RMA Apply for a new RMA Ticket Ticket Status Cloud Languages Log In Contact About Us Solutions Products News Warranty RMA Apply for a new RMA Ticket Ticket Status North America Canada - English Canada - Français United States - English Central America and Caribbean Belice - English Costa Rica - Español El Salvador - Español Guatemala - Español H
+- 数据文件：`data/saga_clients/site_snapshots/SB-154.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +180,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

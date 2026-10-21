@@ -24,7 +24,7 @@ last_contact: 2025-10-27
 p1: STI-280DGGM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -104,6 +104,19 @@ updated: 2026-10-21
 - **风险/边界**：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-280DGGM（25% 档）——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
 - **邮件切入句（英文）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://saf-slk.de/　语言：de　站点地图 URL 数：67
+- **标题**：Startseite - Schaltanlagenbau Förderstedt GmbH
+- **描述**：Willkommen bei SAF Indivi­du­elle Schalt­an­lagen und Schutz­prü­fungen Herzlich willkommen bei Schalt­an­la­genbau Förder­stedt GmbH – Ihrem zuver­läs­sigen Partner für profes­sio­nellen Schalt­an­la­genbau und hochmo­derne Schutz­prü­fungen auf Nieder- und Mittel­span­nungs­ebene. Mit jahre­langer
+- **首页栏目**：Schalt­an­la­genbau Förder­stedt GmbH / Indivi­du­elle Schalt­an­lagen und Schutz­prü­fungen / Warum SAF? / Schalt­an­la­genbau / Schutz­prü­fungen / Expertise und Erfahrung / Qualität und Zuver­läs­sig­keit / Indivi­du­elle Beratung
+- **站内型号串**（正则抽取，含非交换机）：EC48-5A, EQN72RS
+- **站内公开邮箱**：bohne@saf-slk.de, duschka@saf-slk.de, info@saf-slk.de, jusko@saf-slk.de, roder-rosenov@saf-slk.de
+- **产品类页面**：https://saf-slk.de/shop/；https://saf-slk.de/produkt/e2405/；https://saf-slk.de/produkt/13818230/；https://saf-slk.de/produkt/saf-5002/；https://saf-slk.de/produkt/saf-5001/；https://saf-slk.de/produkt/7lf4501-5/
+- **已抓子页**：[Kontakt - Schaltanlagenbau Förderstedt GmbH](https://saf-slk.de/kontakt/)；[- Schaltanlagenbau Förderstedt GmbH](https://saf-slk.de/shop/)；[Partner - Schaltanlagenbau Förderstedt GmbH](https://saf-slk.de/partner/)
+- 首页正文摘录：Zum Inhalt springen Start Leistungen Partner Shop Downloads Karriere Kontakt 0 Schalt­an­la­genbau Förder­stedt GmbH Innova­tion, Sicher­heit, Effizienz – unsere Schalt­an­lagen setzen Maßstäbe! Kontakt aufnehmen Willkommen bei SAF Indivi­du­elle Schalt­an­lagen und Schutz­prü­fungen Herzlich willkommen bei Schalt­an­la­genbau Förder­stedt GmbH – Ihrem zuver­läs­sigen Partner für profes­sio­nellen Schalt­an­la­genbau
+- 数据文件：`data/saga_clients/site_snapshots/SB-120.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

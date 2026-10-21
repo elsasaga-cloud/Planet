@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1232.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.raytelsecurity.com/　语言：en　站点地图 URL 数：0
+- **标题**：Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel / Raytel Security Systems
+- **描述**：Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads, audio and video door entry handsets and audio and video entrance panels. We are Vimar Elvox, Soyal and Raytel Authorised Distributors in the UK.
+- **首页栏目**：Raytel Security Systems / Login Form / Registration / New Products / Elvox K62K0.xx Audio Door Entry Kits - 2 Door to 16 Door / Elvox K7549.R Roxie Video Door Entry Kit - 1 Door Colour - 2 Wire / Elvox K40515.R Roxie Video Door Entry Kit - 1 Door Colour - 2 Wire / Vimar Elvox 40170 Roxie Entrance Panel - 2 Wire
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：access control 76、switch 21、distributor 12、camera 11、wifi 11、poe 10、cable 5、cctv 1
+- **站内型号串**（正则抽取，含非交换机）：AR-888, AR-888H, ISO9001, AR-TAGK73, IP-MW7, IP-P1, AR-888U, AR-721U, AR-661U, AR-747HS-RAY, AR-727-EBR-1121-AJ, RSS-MW4
+- **站内公开邮箱**：info@raytelsecurity.com
+- **站内公开电话**：+44 (0) 1245 428 510, +44 (0) 1245 428 511, +44 (0)1245 428510, +44 (0)1245 428511
+- **社媒**：https://www.facebook.com/Raytel-Security-Systems-100264161814880/, https://www.linkedin.com/company/raytel-security-systems-limited, https://www.youtube.com/channel/UCMuVfTlf9vwVjDSnnEXk-9w
+- **已抓子页**：[Door Entry Low Rise Isolated Systems Porter Switchboards / R](https://www.raytelsecurity.com/door-entry-products/door-entry-apartment-units/door-entry-porter-switchboards.html)；[Site Map / Raytel Security Systems](https://www.raytelsecurity.com/catalog/seo_sitemap/product/)；[Access Control and Door Entry Systems and Associated Product](https://www.raytelsecurity.com/)；[Access Control and Door Entry Systems and Associated Product](https://www.raytelsecurity.com/)；[Access Control and Door Entry Systems and Associated Product](https://www.raytelsecurity.com/)；[Access Control and Door Entry Systems and Associated Product](https://www.raytelsecurity.com/)
+- 首页正文摘录：This website uses cookies to provide you with a full set of features. For more information on our cookie usage see our Privacy Policy page. You consent to our cookies by continuing to use this site. OK Home Quality Systems Links and Affiliations Special Products Product Sitemap Category Sitemap Advanced Search Orders and Returns NEED HELP ? - Call : Sales : +44 (0)1245 428510 / Technical Support : +44 (0)1245 428511 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 10、监控 12 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1232.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -62,7 +62,7 @@ updated: 2026-10-21
 - **标题**：Drönarpilot / Felix Drönarfoto AB / Stockholm
 - **描述**：Felix Drönarfoto är din professionella partner när det gäller drönare. Med över 5 års erfarenhet erbjuder vi alla typer av drönartjänster som Drönarfotografering, Drönarfilm och inspektioner över hela Sverige.
 - **首页栏目**：Hör av dig
-- **站内公开邮箱**：605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com, info@felixdronarfoto.se, info@mysite.com
+- **站内公开邮箱**：info@felixdronarfoto.se, info@mysite.com
 - **社媒**：https://www.facebook.com/FelixDronarfoto, https://www.instagram.com/felixdronarfoto, https://www.linkedin.com/in/felix-lanestrand-b76953168
 - 首页正文摘录：top of page Felixdronarfoto Start More Use tab to navigate through the menu items. Med över 75 kunder och en 100% kundnöjdhet så gör vi allt för att du som kund ska bli nöjd Vi har utfört över 500 lyckade kommersiella uppdrag åt allt från mäklare, artister till fastighetsförvaltare etc. Vi innehar alla tillstånd som krävs för att få flyga drönare kommersiellt i Sverige och Europa En drönarvideo är ett fantastiskt sät
 - 数据文件：`data/saga_clients/site_snapshots/SB-078.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1262.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ute.de/　语言：de　站点地图 URL 数：7124
+- **标题**：U.T.E. electronic / Pro AV- & IT-Großhandel – seit 1989
+- **描述**：Beratung, Vertrieb und Service aus der Metropole Ruhr / Großes eigenes Lager – über 100.000 Produkte im Portfolio / >> U.T.E. - Ihr B2B Partner seit 1989
+- **首页栏目**：U.T.E. electronic / Pro AV- & IT-Großhandel – seit 1989 / IP-Streaming-Lösungen mit 1G erobern den AV Markt / Unverbindlich Informationen anfordern
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 136、switch 109、ethernet 80、industrial 41、gigabit 19、sfp 5、wifi 5、planet 4、10g 3、distributor 3、automation 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：RS232, UH2-44A, RS485, RS422, RS-422, ENVIROMUX-1W, TPG-8K, IEEE802, ISW-504PS, RS-232, PT-MA-HD44DA, AMV250
+- **站内公开邮箱**：info@ute.de
+- **产品类页面**：https://www.ute.de/adder-produkte；https://www.ute.de/aurora-produkte；https://www.ute.de/kramer-produkte；https://www.ute.de/produkte/19-zoll-racks-und-zubehoer；https://www.ute.de/adder-produkte/adderlink-kvm-extender；https://www.ute.de/produkte/19-zoll-racks-und-zubehoer/19-zoll-racks
+- **已抓子页**：[Power over Ethernet (PoE)](https://www.ute.de/produkte/poe)；[Automatisierungstechnik / Komponenten zur Automatisierung](https://www.ute.de/produkte/automatisierung)；[UH2-44A: 4x4 4K HDMI2.0 Kreuzschiene / 4K@60Hz (4:4:4:), HDM](https://www.ute.de/produkte/videotechnik/videotechnik/video-kreuzschienen/hdmi-matrix-switch/4x4-ultrahd-hdmi2-0-matrixschalter-mit-integrierter-audiomatrix-uh2-44a.html)；[Überwachung - Monitoring und Control](https://www.ute.de/produkte/ueberwachung)；[Sicherer Überspannungsschutz / Die Lösung f. Ihr Unternehmen](https://www.ute.de/produkte/ueberspannungsschutz)；[U.T.E. electronic / Pro AV & IT-Großhandel mit großem Lager](https://www.ute.de/produkte)
+- 首页正文摘录：Öffnungszeiten Versandkosten Widerrufsrecht Warenkorb Newsletter Telefon: 02302 28 28 30 Benutzername Passwort Angemeldet bleiben Anmelden Kundenkonto eröffnen Benutzername vergessen? Passwort vergessen? x 0 x Zwischensumme x 0 Benutzername Passwort Angemeldet bleiben Anmelden Kundenkonto eröffnen Benutzername vergessen? Passwort vergessen? Produkte USV KVM Videotechnik Industrial/ Schaltschrankbau Überwachung Konsol
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 42、PoE 136 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1262.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +156,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1248.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.sphinxcomputer.de/　语言：de　站点地图 URL 数：6325
+- **标题**：Willkommen bei SPHINX - Components for Solutions
+- **描述**：SPHINX Computer - Ihr Spezialist für Datenkommunikation und Distributor für Industrieautomation, Netzwerktechnik, Cybersecurity, IoT und Embedded Computing. Lösungen und Services für industrielle Infrastruktur
+- **首页栏目**：Willkommen bei SPHINX - Components for Solutions / Produkte für / Control Center / Data Center / Cybersecurity / Public Transport / Railway Technology / Wireless
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 86、switch 85、ethernet 58、wireless 49、cable 17、media converter 15、automation 14、sfp 12、surveillance 10、data center 9、moxa 8、datacenter 7
+- **站内出现的品牌**：Moxa, Advantech, Siemens, Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEC-62443, ADAM-6521, ADAM-6520, ADAM-6520I, ADAM-6520L, ADAM-6521S, EKI-2428G-4CA, EKI-2428G-4CI, EKI-2428G-4FA, EKI-2525, EKI-2525I, EKI-2525LI
+- **站内公开电话**：+49 (0) 6201 75437, 000 (208) 10
+- **社媒**：https://www.s-connect-benelux.com/grp.php?teil=675, https://www.s-connect-benelux.com/index.php, https://www.s-connect-benelux.com/kontakt.php, https://www.s-connect-benelux.com/optio.php?gid=392&txt=Industrial Ethernet / Media Converter, https://www.s-connect-benelux.com/produkte.php?id=108, https://www.s-connect-benelux.com/produktgruppen.php
+- **产品类页面**：https://www.sphinxcomputer.de/optio.php?gid=1233&amp;txt=Industrial Ethernet / Media Converter&amp;hst[]=49&am…；https://www.sphinxcomputer.de/optio.php?gid=1223&amp;txt=Embedded / Industrial PCs / Thin Clients&amp;hst[]=55…；https://www.sphinxcomputer.de/optio.php?gid=680&amp;txt=Embedded / Industrial PCs / Thin Clients&amp;hst[]=55&…；https://www.sphinxcomputer.de/optio.php?gid=746&amp;txt=Industrial Ethernet / Media Converter&amp;hst[]=42&amp…；https://www.sphinxcomputer.de/optio.php?gid=445&amp;txt=Industrial Ethernet / Media Converter&amp;hst[]=42&amp…；https://www.sphinxcomputer.de/optio.php?gid=1215&amp;txt=Industrial Ethernet / Media Converter&amp;hst[]=42&am…
+- **已抓子页**：[SPHINX Computer - Products for Solutions](https://www.sphinxcomputer.de/produktgruppen_pfs.php)；[SPHINX Computer - TERZ Industrial Electronics](https://www.sphinxcomputer.de/produkte.php?id=108)；[SPHINX Computer - Industrial Ethernet / <br>Media Converter](https://www.sphinxcomputer.de/grp.php?teil=675)；[SPHINX Computer - Ethernet Switches](https://www.sphinxcomputer.de/optio.php?gid=392&txt=Industrial Ethernet / Media Converter&hst[]=39&hst[]=42&hst[]=49&hst[]=55&hst[]=75&hst[]=108&hst[]=109&hst[]=114&ansicht=breit&pfs=0)；[SPHINX Computer - Produktgruppen](https://www.sphinxcomputer.de/produktgruppen.php)；[SPHINX Computer - Kontakt](https://www.sphinxcomputer.de/kontakt.php)
+- 首页正文摘录：Willkommen bei SPHINX - Components for Solutions SPHINX in Europa Tel: +49 (0) 6201 75437 Login Kontakt English version Home Products for Solutions Control Center Cybersecurity Data Center Public Transport Railway Technology Technology Wireless Barix Produktgruppen Access Points Access Points Audio Audio over IP Converter Extender Embedded Audio Accessories Converter Mediaconverter Others Serial Embedded Device Embed
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 91、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1248.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +157,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

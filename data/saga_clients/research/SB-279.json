@@ -1,0 +1,59 @@
+{
+ "code": "SB-279",
+ "name_official": "Pelpaco（pelpaco.com，伊朗）",
+ "researched_at": "2026-10-21",
+ "website_status": "（伊朗站点，不采用）",
+ "summary": "伊朗公司 Pelpaco（Ahmad Solooki / Manager，solooki@pelpaco.com，WA 已加），主做 VC/AHD 监控，用户备注「网站不是很相关没啥东西」；2024-05 对 mini 工业交换机图回「more specs」；19 次推送 1 次实质回复。伊朗 → 降 C（区域外 + 制裁合规），资料保留。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "主做VC AHD 网站：不是很相关 没啥东西；2024.5.16 发了mini工业交换机图片 → more specs",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmad Solooki",
+   "role": "Manager（表内）",
+   "email": "solooki@pelpaco.com",
+   "phone": "+98 912 146 1043（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "c_sub=区域外/伊朗制裁合规风险；与 SB-118 同口径：伊朗客户不主动开发（付款/物流合规无法保障），资料归档防重复开发",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗 · 区域外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "（伊朗公司）",
+  "founded": "待核",
+  "hq": "伊朗",
+  "size": "待核",
+  "other": "Ahmad Solooki（Manager）solooki@pelpaco.com，+98 912 146 1043（WA 已加）"
+ },
+ "business_lines": [
+  "（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Ahmad Solooki（Manager）solooki@pelpaco.com，+98 912 146 1043（WA 已加）"
+ },
+ "signals": [],
+ "risks": [
+  "伊朗：制裁与付款合规风险；非主攻区"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "C 级不对位；若用户决定对伊供货再评"
+ },
+ "email_hook": "（不主动发送）"
+}

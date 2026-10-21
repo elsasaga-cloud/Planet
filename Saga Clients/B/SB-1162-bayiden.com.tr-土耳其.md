@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1162.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bayiden.com.tr/　语言：tr　站点地图 URL 数：7855
+- **标题**：Bayiden - Teknolojinin Bayisi
+- **描述**：Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden&#39;de. Hızlı kargo fırsatları ile teknoloji kapınızda.
+- **首页栏目**：Bayiden.com.tr - Teknolojinin Bayisi / Pil, Adaptör ve Akü: Her Cihazın Kendi Enerji Dili Var / Bilgisayarda Doğru Bileşen Seçimi Sessiz Bir Performans Kararıdır / Kablo Çeşitlerinde Görünmeyen Ama Belirleyici Bir Fark Var / Ses Sistemlerinde Mekan Ne Kadar Farklıysa Çözüm de O Kadar Farklı / Otomobil ve Motosiklette Araç İçi Deneyim Omaj Meselesiyle Başlar / Elektronik Malzeme Rafı Aslında Bir Tamirci Kütüphanesidir / Bir Çanak Antenin Çapı Neden Bu Kadar Önemli
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 184、fiber 85、ethernet 55、poe 53、cctv 36、wifi 35、gigabit 34、oem 31、sfp 20、wireless 20、nvr 16、tp-link 16
+- **站内型号串**（正则抽取，含非交换机）：MR25GA, HT-2835, HT-3903, HT-3902, MR21GA, HT-3905, HT3270, FT5325M, SWR3301A, AC1200, NCV-HIF2421GBL-C, TEF1106P
+- **站内公开邮箱**：info@bayiden.com.tr
+- **站内公开电话**：00070-3 4.7, 00070-3 700
+- **社媒**：https://www.facebook.com/bayiden, https://www.instagram.com/bayidencom.tr/, https://www.youtube.com/@12VoltElektronik, https://x.com/bayidencomtr
+- **产品类页面**：https://www.bayiden.com.tr/powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch；https://www.bayiden.com.tr/powermaster-poe24fe-2ge-1sfp-300w-10-100-mbps-ethernet-switch；https://www.bayiden.com.tr/powermaster-poe-gigabit-ethernet-switch-16-port-3-port-1000-uplink-200-watt-16fe-2g…；https://www.bayiden.com.tr/dip-switch-6x6x12-mm-buton；https://www.bayiden.com.tr/mersat-ms-os21-option-switch；https://www.bayiden.com.tr/powermaster-4-port-vga-switch
+- **已抓子页**：[Fiber Optik Ağ Ürünleri Modelleri ve Fiyatları - Bayiden](https://www.bayiden.com.tr/fiber-optik-ag-urunleri)；[Ağ Ürünleri Modelleri ve Fiyatları - Bayiden](https://www.bayiden.com.tr/ag-urunleri)；[Barkod Ürünleri Modelleri ve Fiyatları - Bayiden](https://www.bayiden.com.tr/barkod-urunleri)；[Ofis & Tüketim Ürünleri Modelleri ve Fiyatları - Bayiden](https://www.bayiden.com.tr/ofis-tuketim-urunleri)；[Ofis Tüketim Ürünleri Modelleri ve Fiyatları - Bayiden](https://www.bayiden.com.tr/ofis-tuketim-urunleri-1)；[Ethernet Switch Modelleri ve Fiyatları - Bayiden](https://www.bayiden.com.tr/ethernet-switch)
+- 首页正文摘录：Yapay Zeka ile Ara Sohbet ederek hızlı ve kolay ürün ara BayidenAI Yapay Zeka Asistanı Sohbeti Baştan Al Akıllı Arama sonuçları yapay zeka ile üretilir. Detaylar için Hizmet Sözleşmesi ve Kullanım Koşulları 'nı inceleyiniz. Akıllı arama hata yapabilir. Merhaba! Aradığın ürünü bana anlat, senin için bulayım. Örneğin: "12 volt 1 amper adaptör" 👋 Sohbeti baştan al Mevcut sohbet silinecek ve yeni bir sohbet başlatılacak.
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 3、交换机 184 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1162.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

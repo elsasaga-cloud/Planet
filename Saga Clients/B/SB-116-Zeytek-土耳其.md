@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +89,20 @@ updated: 2026-10-21
 - **风险/边界**：小团队、无库存能力；ISAF 未深谈；无后续跟进
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$80.7）配布线项目；24 口 STC-424DGGPM-280W（$134.5）；MC STI-110GE（$22.4）
 - **邮件切入句（英文）**：Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://zeytek.com.tr/　语言：tr　站点地图 URL 数：99
+- **标题**：ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ
+- **描述**：15 yıllık sektör tecrübesi ve bilgi birikimi ile kurulan şirketimiz, endüstriyel tesisler, hükümet binaları, hastahaneler, bankalar, zincir mağazalar, çok katlı binalar vb. yapılarda ihtiyaç olan, zayıf akıma yönelik yapısal kablolama, sistem odası ve altyapı sistemleri malzemelerinin tedarikini sağ
+- **首页栏目**：Neden Zeytek? / ÜRÜNLERİMİZ / Kataloğumuzu PDF olarak indirebilirsiniz. / You can download our catalog as a PDF. / BİZ KİMİZ ? / Hakkımızda / BİZE ULAŞIN / ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 13、fiber 8、switch 2、poe 2、sfp 1、media converter 1、ethernet 1
+- **站内公开邮箱**：info@zeytek.com.tr
+- **产品类页面**：http://zeytek.com.tr/public/kataloglar/Zeytek_Katalog.pdf；http://zeytek.com.tr/Urunler；http://zeytek.com.tr/Urunler/outdoor-kabinetler；http://zeytek.com.tr/Urunler/kabinet-aksesuarlari；http://zeytek.com.tr/Urunler/dikili-tip-kabinetler；http://zeytek.com.tr/Urunler/duvar-tipi-kabinetler
+- **已抓子页**：[Urunler - ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ](https://zeytek.com.tr/Urunler)；[Data Network Cozumleri - ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLER](https://zeytek.com.tr/Urunler/data-network-cozumleri)；[Hakkimizda - ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ](https://zeytek.com.tr/Hakkimizda)；[Outdoor Kabinetler - ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ](https://zeytek.com.tr/Urunler/outdoor-kabinetler)；[Kabinet Aksesuarlari - ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ](https://zeytek.com.tr/Urunler/kabinet-aksesuarlari)；[Dikili Tip Kabinetler - ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ](https://zeytek.com.tr/Urunler/dikili-tip-kabinetler)
+- 首页正文摘录：Anasayfa Hakkımızda Ürünler Dikili Tip Kabinetler Duvar Tipi Kabinetler Outdoor Kabinetler Kabinet Aksesuarları Data Network Çözümleri Data Center Çözümleri Referanslar İLETİŞİM Neden Zeytek? Sizlere, ihtiyaç duyduğunuz birçok ürünü tek bir çatı altında sunuyor, operasyon maliyetlerinizi minimize ederek, şirket verimliliğinizi arttırmayı hedefliyoruz. Uzmanlık Değerli müşterilerimiz ile kurduğumuz bağlar ve yılların 
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-116.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,7 +24,7 @@ last_contact: 2025-11-07
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 11 次（2024-05-17 → 2025-11-07）；最近一次客户回复：2024-08-13：后续不用跟了
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -105,6 +105,15 @@ updated: 2026-10-21
 - **风险/边界**：立陶宛为非主动挖掘国家（INH），仅跟现有线索；电商比价激烈，需以 20% 档
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：extradigital.eu
+  > https://extradigital.eu/ http 403 ct=text/html; charset=utf-8
+  > https://www.extradigital.eu/ http 403 ct=text/html; charset=utf-8
+  > http://extradigital.eu/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SB-129.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -202,6 +211,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

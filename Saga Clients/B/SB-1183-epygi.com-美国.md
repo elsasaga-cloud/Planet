@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1183.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.epygi.com/　语言：en-US　站点地图 URL 数：227
+- **标题**：Epygi Home - Epygi
+- **描述**：Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers.
+- **首页栏目**：Business / Communications. / Your Way. / EVIA / Assisted Living / with Epygi / Accelerate / AI Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：axis 15、surveillance 10、poe 8、telecom 7、integrator 7、switch 6、distributor 4、oem 3、industrial 2、camera 2、wireless 2、automation 1
+- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QX100, QX200, QX500, QX3000, QX5000, QX-DFXS4, QX-DFXS8, QX-DFXS16, QX-DFXS24
+- **站内公开邮箱**：dealers@epygi.com, sales@epygi.com, support@epygi.com
+- **站内公开电话**：+1 (212) 385 6126, +1 (212) 385 6129, +1 214-242-5900, +1 214-242-5999, +1 214.242.5900, +1 510 748 8230
+- **社媒**：https://twitter.com/Epygi_Tech, https://www.akuvox.com, https://www.facebook.com/epygitech/, https://www.linkedin.com/company/epygi-technologies, https://www.mobotix.com, https://www.youtube.com/c/EpygiTech
+- **产品类页面**：https://www.epygi.com/products/；https://www.epygi.com/products/ecmon/；https://www.epygi.com/2024/07/18/epygi-products-are-configurable-for-hipaa-compliance-ensuring-enhanced-securi…；https://www.epygi.com/2020/03/05/epygi-technologies-receives-2020-internet-telephony-product-of-the-year-award…；https://www.epygi.com/2019/11/04/epygi-technologies-and-alcatel-lucent-enterprise-unite-to-elevate-product-off…
+- **已抓子页**：[Product Warranty - Epygi](https://www.epygi.com/warranty/)；[ecMON - Epygi](https://www.epygi.com/products/ecmon/)；[Solution Partners - Epygi](https://www.epygi.com/solution-partners/)；[Contact - Epygi](https://www.epygi.com/contact/)；[About Us - Epygi](https://www.epygi.com/about-us/)；[Partners - Epygi](https://www.epygi.com/partners/)
+- 首页正文摘录：Skip to content Support Portal Facebook LinkedIn YouTube X Products Cloud PBX (ecQX) QX IP PBXs QX20 QX50 QX60 QX100 QX200 QX500 QX3000 QX5000 QX Gateways QXE1T1 QXFXO4 QX-DFXS4 QX-DFXS8 QX-DFXS16 QX-DFXS24 Communication Features ecMON Cloud Monitoring uQall Softphone QX Rack Kit Solutions AI-Powered Solutions EVIA – AI Virtual Assistant Call Center Solutions Education & School Safety Assisted Living Hospitality Secu
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 8、监控 12 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1183.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +155,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

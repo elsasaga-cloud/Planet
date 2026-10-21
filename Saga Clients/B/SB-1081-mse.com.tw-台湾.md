@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1081.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mse.com.tw/　语言：en　站点地图 URL 数：11
+- **标题**：PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.
+- **描述**：MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.
+- **首页栏目**：Your PoE Solutions Expert Your PoE Solutions Expert / WHO WE ARE / Company Overview / WHAT IS POE? / WHERE's THE PRODUCTS / Ultra High Power PoE Splitter with 48VDC PoE Input 80W 48V DC Output / 25W 12VDC 802.3at PoE Splitter with Operation Temperature -40C~+70C / 25W 5VDC 802.3at PoE Splitter with Operation Temperature -40C~+70C
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 556、gigabit 63、switch 62、10g 29、oem 18、odm 14、industrial 13、media converter 3、sfp 2、ethernet 2、surveillance 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, EN60945, EN50155, RJ-45, UL497B, PSE-SW5B15DBHM, DC48V, MIT-33G, MS-T901T, MS-T200G, MIT-96T-1256BDNM-M12-IP67, EX78934X-0VB
+- **站内公开邮箱**：arthur@mse.com.tw, craig.paton@mstroniceurope.com
+- **站内公开电话**：+44 (0)1415 304735, +44 (0)7522 399644, +44 (0)7522 399644 886-2-2292-8851, +886-2-2292-8851, +886-2-2293-0159
+- **产品类页面**：https://www.mse.com.tw/en/product.html；https://www.mse.com.tw/en/2-2379/product.html；https://www.mse.com.tw/en/2-2379/product_new.html
+- **已抓子页**：[Industrial DIN rail mount DC/DC Gigabit PoE Switch/Extender,](https://www.mse.com.tw/en/product-521672/Industrial-DIN-rail-mount-DC-DC-Gigabit-PoE-Switch-Extender-Dual-42-57VDC-PoE-input-56V-35W-outputx4-802-3at-Endspan-DIN-SW5G44B4.html)；[5 Port PoE Switch & Extender, 11-60VDC input, 4 port 802.3at](https://www.mse.com.tw/en/product-724989/5-Port-PoE-Switch-Extender-11-60VDC-input-4-port-802-3at-PoE-output-PSE-SW5B15DBHM.html)；[Solar Charge Controller+PoE Switch With IP66 Waterproof Box,](https://www.mse.com.tw/en/product-676766/Solar-Charge-Controller-PoE-Switch-With-IP66-Waterproof-Box-SOL10D24-SW4-56B1N-IP66.html)；[8-port Gigabit PoE Switch/Extender, 48VDC input, 7x 802.3at ](https://www.mse.com.tw/en/product-553726/8-port-Gigabit-PoE-Switch-Extender-48VDC-input-7x-802-3at-PoE-output-35W-Port-PSE-SW8G44B4.html)；[5-port Gigabit PoE Switch/Extender, 48VDC input, 4x 802.3at ](https://www.mse.com.tw/en/product-339155/5-port-Gigabit-PoE-Switch-Extender-48VDC-input-4x-802-3at-35W-PoE-Output-1x-802-3bt-PD-PoE-input-PSE-SW5G44BB.html)；[8-port Gigabit PoE Switch, 48VDC input, 7x LTPoE++ PoE outpu](https://www.mse.com.tw/en/product-553725/8-port-Gigabit-PoE-Switch-48VDC-input-7x-LTPoE-PoE-output-70W-Port-backward-compliant-802-3af-at-PSE-SW8G44D0.html)
+- 首页正文摘录：Note about cookies This site uses cookies to provide you with a better user experience. Our website uses cookies, which could include also third party cookies. For more information please visit our Privacy and Cookie Policy page. By continuing to use the site or closing this banner, you are agreeing to our terms of use. Close x Home Inquiry Cart Search Search worldwide English Japanese Russian Portuguese Indonesian A
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 556 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1081.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

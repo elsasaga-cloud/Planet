@@ -22,7 +22,7 @@ last_contact: 2025-10-07
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1243.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://simplifinetworks.com/　语言：en　站点地图 URL 数：1005
+- **标题**：Simplifi Networks
+- **描述**：The Master Distributor for networking and communications equipment for East and Central Africa
+- **首页栏目**：Sign Up For Our Newsletter Now / Information / Resources / Get In Touch / Huawei ekit AP771 outdoor WI-FI / Huawei eKit AR 180 Plus / Ubiquiti U7 Pro Max / D-Line Cable Protectors
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：distributor 19、wireless 12、telecom 9、gigabit 6、ubiquiti 6、switch 4、fiber 4、mikrotik 4、wifi 3、cable 3、installer 3、poe 2
+- **站内出现的品牌**：Huawei, Ubiquiti, Ruijie, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AR180, AP771, AC650-512AP, S530-24ST4XE, AR730, RG-M32, RG-M18, RG-EW300T
+- **站内公开邮箱**：info@simplifinetworks.com, kenya@simplifinetworks.com, uganda@simplifinetworks.com
+- **站内公开电话**：+254 727 401 262, +256 758 937 003
+- **社媒**：https://twitter.com/SimplifiNetwork/, https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.simplifinetworks.com%2Fproducts%2Fhuawei-ekitengine-ap771&text=Huawei%20eKitEngine%20AP771, https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.simplifinetworks.com%2Fproducts%2Fhuawei-ekitengine-ar180-plus&text=Huawei%20eKitEngine%20AR180%20Plus, https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.simplifinetworks.com%2Fproducts%2Fu7-pro-max&text=U7%20Pro%20Max, https://www.facebook.com/SimplifiNetworksLTD/, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.simplifinetworks.com%2Fproducts%2Fhuawei-ekitengine-ap771
+- **产品类页面**：https://www.simplifinetworks.com/products-catalogs；https://www.simplifinetworks.com/products；https://www.simplifinetworks.com/products/ltap；https://www.simplifinetworks.com/products/hap-ac；https://www.simplifinetworks.com/products/udm-beast；https://www.simplifinetworks.com/products/lhg-lte-kit
+- **已抓子页**：[Simplifi Networks](https://simplifinetworks.com/products)；[U7 Pro Max / Authorized Ubiquiti Distributor - Simplifi Netw](https://www.simplifinetworks.com/products/u7-pro-max)；[Huawei eKitEngine AP771 / Authorized Huawei Distributor - Si](https://simplifinetworks.com/products/huawei-ekitengine-ap771)；[Huawei eKitEngine AR180 Plus / Authorized Huawei Distributor](https://simplifinetworks.com/products/huawei-ekitengine-ar180-plus)；[About Simplifi Networks / Leading Connectivity Solutions Afr](https://simplifinetworks.com/about)；[Simplifi Networks](https://simplifinetworks.com/contact)
+- 首页正文摘录：Kenya: +254 727 401 262 Uganda: +256 758 937 003 Search Browse Catalogue Home Products Services Support Knowledge Hub About Us Contact Search Countries Of Operation Simplifi Networks is Master Distributor of networking and communications equipment in the following countries: KENYA UGANDA TANZANIA RWANDA BURUNDI DRC SOUTH SUDAN SOMALIA SOMALILAND ERITREA DJIBOUTI ETHIOPIA MALAWI ZANZIBAR SEYCHELLES MAURITIUS COMOROS M
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1243.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +159,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

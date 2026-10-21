@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1219.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mikrodev.com/　语言：en-US　站点地图 URL 数：208
+- **标题**：Mikrodev
+- **描述**：Mikrodev has been founded in 2006 in İstanbul. After completing turnkey product or system development projects, Mikrodev has started comme...
+- **首页栏目**：We are manufacturing industrial control & communication products since 2006. / How We Do, What We Do / Check out our latest products. / We develop reliable solutions in many sectors. / Announcement and more here.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 83、scada 74、industrial 66、ethernet 16、wifi 4、switch 3、camera 3、poe 1、access control 1
+- **站内型号串**（正则抽取，含非交换机）：RS485, RS232, XIO110, DM500, XIO211, DM100, MP110, MP211, MBS100, MDC100, MMS100, SC100
+- **站内公开邮箱**：info@mikrodev.com
+- **站内公开电话**：+90 850 217 34 28
+- **社媒**：https://www.facebook.com/MikrodevBilisim/, https://www.linkedin.com/company/mikrodevtr/mycompany/verification/, https://www.youtube.com/channel/UC-67KqN9lzKKQUuZaMt3Zhg
+- **产品类页面**：https://www.mikrodev.com/what-are-industrial-automation-products/；https://www.mikrodev.com/understanding-the-essence-of-industrial-automation/；https://www.mikrodev.com/opc-ua-and-mqtt-in-industrial-communication-integration-in-brownfield-factories/；https://www.mikrodev.com/industrial-scalability-in-mqtt-with-sparkplug-b-the-right-topology-and-automatic-disc…；https://www.mikrodev.com/ptp-ieee-1588-vs-ntp-millisecond-precision-time-synchronization-in-industrial-network…；https://www.mikrodev.com/products/
+- **已抓子页**：[DM50 Series RTU Routers (Industrial RTU Router) - Mikrodev](https://www.mikrodev.com/product-group/distributed-control-system-dcs-remote-terminal-unit-rtu/dm50-industrial-router/)；[Industrial Automation - Mikrodev](https://www.mikrodev.com/solution/industrial-automation/)；[About - Mikrodev](https://www.mikrodev.com/about/)；[Products - Mikrodev](https://www.mikrodev.com/products/)；[Expansion Modules - Mikrodev](https://www.mikrodev.com/product-group/expansion-modules-extansion/)
+- 首页正文摘录：Company About Blog Announcement Products Distributed Control System (DCS) DM100 Series RTU (Remote Terminal Unit) DM50 Series RTU Routers (Industrial RTU Router) DM500 Series RTU (Rack Mount Remote Terminal Unit) RTU100 Series RTU (Remote Terminal Unit) RTU300 Series RTU (Remote Terminal Unit) Programmable Logic Controller (PLC) MP110 Series PLC (Micro Level Controller) MP211 Series PLC (Compact Controller) IoT Proto
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 145、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1219.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

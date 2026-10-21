@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1234.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.reweb.it/　语言：it-IT　站点地图 URL 数：267
+- **标题**：Home / REweb S.r.l.
+- **描述**：Integration beyond technology Innovazione tecnologica dal 1983 Contattaci Le nostre soluzioni Di cosa ci occupiamo quotidianamente Sim M2M Connettività IoT multioperatore, adatta ad ogni dispositivo per le esigenze di connettività delle applicazioni industriali. Connettività IoT Soluzioni enterprise
+- **首页栏目**：Integration beyond technology / Le nostre soluzioni / Il tuo partner tecnologico per soluzioni IT ad alto valore. / Esperienza, supporto e valore per il tuo business / News & Eventi / Reweb e Opengear saranno sponsor dell’MSP Day 2026 / ADAM-6000/6200 Intelligente, flessibile, compatibile con l’IoT / ICR-1745 Gateway di connettività industriale 5G
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 14、cctv 2、wifi 2、switch 1、ethernet 1
+- **站内出现的品牌**：Advantech　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ICR-1745, ADAM-6000, ADAM-200PN, ICR-1745-EU, RS232, RS485, IEEE802
+- **社媒**：https://www.linkedin.com/company/reweb-s.r.l./, https://www.youtube.com/channel/UCHoG79A8vFkn5mk7K2pSWFQ
+- **产品类页面**：https://www.reweb.it/switch-industriali-poe/；https://www.reweb.it/switch-industriali/；https://www.reweb.it/switch-industriali-ethernet/；https://www.reweb.it/gli-switch-industriali-9-porte/；https://www.reweb.it/switch-industriale-gestito-ids-710hp/；https://www.reweb.it/il-sistema-alpr-utilizza-gli-switch-poe/
+- **已抓子页**：[ICR-1745 Gateway di connettività industriale 5G / REweb S.r.](https://www.reweb.it/icr-1745-gateway-di-connettivita-industriale-5g/)
+- 首页正文摘录：Salta al contenuto Via Ferruccio Ferrari 6, Reggio Emilia 0522 1712600 Azienda Lavora con noi Soluzioni News & Eventi Contatti Azienda Lavora con noi Soluzioni News & Eventi Contatti Integration beyond technology Innovazione tecnologica dal 1983 Contattaci Le nostre soluzioni Di cosa ci occupiamo quotidianamente Sim M2M Connettività IoT multioperatore, adatta ad ogni dispositivo per le esigenze di connettività delle 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 14、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1234.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +157,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

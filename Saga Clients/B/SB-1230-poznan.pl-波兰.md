@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1230.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.poznan.pl/　语言：pl　站点地图 URL 数：546
+- **标题**：Strona główna / Poznan.pl
+- **描述**：Strona główna
+- **首页栏目**：Komunikaty / Poznan.pl, oficjalna strona Miasta Poznania / menu / Aktualności / Informacje dodatkowe / Tramwaj z inteligentnym oświetleniem jeździ w Poznaniu / Czujniki czadu dla najemców ZKZL / SPP Ogrody - rusza sprzedaż identyfikatorów dla mieszkańców
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 14
+- **站内型号串**（正则抽取，含非交换机）：PBO27, PL-46081-20925-AEABE-27
+- **站内公开邮箱**：iod@um.poznan.pl, poczta@um.poznan.pl
+- **社媒**：http://www.facebook.com/share.php?u=https://www.poznan.pl/mim/public/main/pages.html?co=list&id=19&instance=1017&lang=&ch=20&p=&lhs=publications&, http://www.youtube.com/poznan, https://twitter.com/intent/tweet?url=https://www.poznan.pl/mim/public/main/pages.html?co=list&id=19&instance=1017&lang=&ch=20&p=&lhs=publications&, https://www.facebook.com/oficjalnyportalMiastaPoznania/, https://www.facebook.com/poznanbiznespartner/, https://www.instagram.com/miastopoznan_/
+- **产品类页面**：https://www.poznan.pl/mim/edziecko/katalog-linkow,p,16126,16127.html；https://www.poznan.pl/mim/komunikacja/katalog-mebli-miejskich,p,46823,46826.html；https://www.poznan.pl/mim/komunikacja/katalog-nawierzchni-chodnikow,p,46823,46828.html；https://www.poznan.pl/mim/inwestycje/produkcja,p,45407,45412.html
+- **已抓子页**：[POZnan*KONTAKT / Poznan.pl](https://www.poznan.pl/kontakt/)；[POZnan*KONTAKT / Poznan.pl](https://www.poznan.pl/mim/kontakt/)；[Ekran 1 z 2 - Formularz Kontaktowy / Informacja dla internau](https://www.poznan.pl/mim/forms/formularz_kontaktowy.html)；[Poznań Biznes Partner / Poznan.pl](https://www.poznan.pl/mim/biznes/)；[Współpraca międzynarodowa Poznania / Poznan.pl](https://www.poznan.pl/mim/main/miasta-partnerskie-poznania,p,19,20.html)
+- 首页正文摘录：Przejdź do menu głównego Przejdź do treści Komunikaty Oficjalna strona miasta Poznania pl polski english українська Podatek on-line Umów wizytę w UMP Oszczędzaj z OK Poznań Rozwiń Poznan.pl, oficjalna strona Miasta Poznania Szukaj szukaj informacji Wyszukaj Cofnij menu Dla Poznaniaków Cofnij menu Zasoby i rozwój Cofnij menu Biznes Cofnij menu Poznaj Poznań Cofnij menu Edukacja i rodzina Cofnij menu Zdrowie i wsparcie
+- 数据文件：`data/saga_clients/site_snapshots/SB-1230.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +155,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

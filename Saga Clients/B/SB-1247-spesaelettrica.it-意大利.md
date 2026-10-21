@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1247.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://spesaelettrica.it/　语言：it　站点地图 URL 数：0
+- **标题**：Spesa Elettrica
+- **描述**：Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini presenti su tutto il territorio italiano. Crediamo che offrire la più ampia gamma di materiale elettrico pro
+- **首页栏目**：Categorie / Prodotti
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 279、telecom 166、distributor 113、camera 84、switch 64、fibre 56、wifi 21、poe 14、media converter 14、wireless 14
+- **站内出现的品牌**：Siemens, Schneider　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **已抓子页**：[Prodotti Spesa Elettrica](https://spesaelettrica.it/prodotti/)；[Prodotti - Attrezzi & costruzione - Page 1 - Spesa Elettrica](https://spesaelettrica.it/prodotti/attrezzi-costruzione/)；[Prodotti - Attrezzi & costruzione - prodotti chimici - Spesa](https://spesaelettrica.it/prodotti/attrezzi-costruzione/prodotti-chimici/)；[Prodotti - Attrezzi & costruzione - utensili manuali - Page ](https://spesaelettrica.it/prodotti/attrezzi-costruzione/utensili-manuali/)；[Prodotti - Attrezzi & costruzione - utensili ausiliari - Spe](https://spesaelettrica.it/prodotti/attrezzi-costruzione/utensili-ausiliari/)；[Prodotti - Attrezzi & costruzione - utensili di consumo - Sp](https://spesaelettrica.it/prodotti/attrezzi-costruzione/utensili-di-consumo/)
+- 首页正文摘录：Toggle menu Cerca Numero Verde Gratuito 800 301 800 Carrello Confronta Accedi Categorie Prodotti Prodotti Attrezzi & costruzione accessori per utensili azionati meccanicamente accessori per aspiratori-soffiatori accessori per punte a tazza e trapani Accessori per ventilatore e pistola ad aria calda Avvolgicavo batterie per elettroutensili caricabatterie per utensili elettrici Disco per mola Punta per trapano Punta tr
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 279、PoE 14 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1247.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +149,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

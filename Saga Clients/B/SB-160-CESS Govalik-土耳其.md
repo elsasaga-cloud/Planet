@@ -24,7 +24,7 @@ last_contact: unknown
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: unreachable  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — 深挖对位：待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -79,6 +79,15 @@ updated: 2026-10-21
 - **风险/边界**：SFP 未在价格表；无公开资料；无后续跟进
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
 - **邮件切入句（英文）**：Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：shnrise.com
+  > https://shnrise.com/ conn: ('Connection aborted.', HTTPException('got more than 100 headers'))
+  > https://www.shnrise.com/ conn: ('Connection aborted.', HTTPException('got more than 100 headers'))
+  > http://shnrise.com/ conn: ('Connection aborted.', HTTPException('got more than 100 headers'))
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SB-160.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -166,6 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

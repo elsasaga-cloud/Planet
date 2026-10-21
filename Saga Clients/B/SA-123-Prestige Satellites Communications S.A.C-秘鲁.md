@@ -104,7 +104,7 @@ updated: 2026-10-21
 - **标题**：Prestigevsat.com / Yacht VSAT / Prestige Satellite Communications
 - **描述**：We specialize in providing quality Yacht VSAT, TVRO, and IT services to luxury vessels. Our team has over 30 years industry experience. VSAT / Prestige Satellite Communications Inc.
 - **首页栏目**：Maritime Managed Services
-- **站内公开邮箱**：605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 8c4075d5481d476e945486754f783364@sentry.io, rob@prestigevsat.com, will@prestigevsat.com
+- **站内公开邮箱**：rob@prestigevsat.com, will@prestigevsat.com
 - **站内公开电话**：+1 (954) 682-7616
 - **已抓子页**：[CONTACT / prestigevsat](https://www.prestigevsat.com/contact)；[ABOUT US / prestigevsat](https://www.prestigevsat.com/about-us)；[CONCIERGE PARTNERS / prestigevsat](https://www.prestigevsat.com/concierge-partners)；[SERVICES / prestigevsat](https://www.prestigevsat.com/services)
 - 首页正文摘录：top of page HOME ABOUT US OUR TEAM SERVICES MISSION STATEMENT ETO FOR CHARTER CONCIERGE PARTNERS CONTACT More... Use tab to navigate through the menu items. Maritime Managed Services bottom of page

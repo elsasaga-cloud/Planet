@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1181.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://se.rs-online.com/web/?referrer=distrelec　语言：sv-SE　站点地图 URL 数：255
+- **标题**：Industriella lösningar och elektriska komponenter / RS
+- **描述**：RS är den ledande leverantören av industriella och elektroniska lösningar. Säker onlinebeställning, leverans samma dag och gratis leverans tillgänglig.
+- **首页栏目**：Se dig omkring i webbutiken / Visa 9 underkategorier / Visa 32 underkategorier / Visa 15 underkategorier / Visa 8 underkategorier / Visa 19 underkategorier / Visa 4 underkategorier / Visa 10 underkategorier
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：datacenter 11、automation 6、switch 2、fiber 2、ethernet 2、data center 2、poe 1、sfp 1、oem 1、planet 1、moxa 1
+- **站内出现的品牌**：Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：WE1010, FTC260, AP7553, EDS-G205-1GTXSFP, FLUKE-115C, RS-833, TG165, TG165-X, RSVDV-100, BK650EI, SWL1100FR, SWL1100-12FR
+- **站内公开邮箱**：exemple@email.com, kund@rsonline.se
+- **社媒**：https://www.linkedin.com/company/rs-scandinavia/, https://www.youtube.com/@RSScandinavia
+- **产品类页面**：https://se.rs-online.com/sesv_products_0.xml.gz；https://se.rs-online.com/sesv_products_1.xml.gz；https://se.rs-online.com/sesv_products_10.xml.gz；https://se.rs-online.com/sesv_products_11.xml.gz；https://se.rs-online.com/sesv_products_12.xml.gz；https://se.rs-online.com/sesv_products_13.xml.gz
+- **已抓子页**：[Nya produkter / RS](https://se.rs-online.com/web/content/m/nya-produkter)；[Data Centres / RS](https://se.rs-online.com/web/content/m/data-centres?intcmp=SE-WEB-_-HP-HB2-_-0526-_-better_together)
+- 首页正文摘录：Våra tjänster Industry hub Support Nya produkter Meny Paketspårning Logga in / Registrera Visa varukorg 0 Meny Sök efter MPN Automation och styrutrustning Belysning HVAC, fläktar och termisk hantering Inkapslingar och serverrack Kabel och tråd Omkopplare Reläer och signalbehandling Säkringar och automatsäkringar Batterier och laddare Displayer och optoelektronik ESD-kontroll, renrum och prototyptillverkning av kretsk
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1181.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +156,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

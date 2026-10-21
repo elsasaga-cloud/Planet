@@ -1,5 +1,5 @@
 # Aarya ITES Pvt. Ltd.
-**官方名称（调研核实）**：Aarya ITES Pvt. Ltd.（印度）
+**官方名称（调研核实）**：Aarya ITES Pvt. Ltd.（CIN U72900GJ2008PTC055798，Ahmedabad，印度；a-ites.com）
 
 > **评级 B**　|　印度　|　档案编号 `SA-136`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-136
 rating: B
 rating_auto: A
 rating_research: B  # 需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。
-name_official: "Aarya ITES Pvt. Ltd.（印度）"
+name_official: "Aarya ITES Pvt. Ltd.（CIN U72900GJ2008PTC055798，Ahmedabad，印度；a-ites.com）"
 score: 61
 country: 印度
 region: 南亚
@@ -22,8 +22,8 @@ replies: 2
 followups: 18
 first_contact: 2023-11-04
 last_contact: 2025-06-21
-p1: STI-144GP
-price_tier: 20%
+p1: STI-288GPM
+price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度安防/IT 公司（摄像机、门禁），WA 在线，2 次回复、18 次跟进；询 2 光 4 电百兆 MC 外壳（外购款）。（调研 2026-10-21；表内兴趣：Cameras, access control；2光4电百兆MC外壳(外购那款)）
+- **是谁**：印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。（调研 2026-10-21；表内兴趣：Cameras, access control；2光4电百兆MC外壳(外购那款)）
 - **为什么是 B 级**：**调研后定级 B**（需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-11-04 → 2025-06-21）；最近一次客户回复：2025-02-26：L2 Managed & Web Managed
-- **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -57,17 +57,58 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：印度安防/IT 公司（摄像机、门禁），WA 在线，2 次回复、18 次跟进；询 2 光 4 电百兆 MC 外壳（外购款）。
+- **状态：已调研（2026-10-21）**　网站状态：在线（快照 2026-10-21 ok）
+- **是谁**：印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。
 - **类型**：安防集成/经销商
 - **规模**：待补证
 - **【用户记录】摄像/门禁；2 光 4 电百兆 MC 外壳；WA 已加**
   > Cameras, access control / 2光4电百兆MC外壳(外购那款)；91-98250 95206 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】业务线与地址**
+  > Smart Highway Solutions / Command & Control Centre / IT & Network Solutions / IP Video Surveillance / Entry Control & Monitoring / Fire Alarm & Voice Evacuation / Unified Communication / Emergency Call Box (ECB)… #209, Akshar Stadia… Ahmedabad-380054… info@a-ites.com aaryaites@gmail.com… ISO 9001:2015 I 20000-1:2018 I 27001:2022
+  > 来源：https://www.a-ites.com/（抓取 2026-10-21）
+- **【第三方】规模与成立**
+  > Industry: Security and Investigations; Company size: 11-50 employees; Headquarters: Ahmedabad, Gujarat; Founded: 2008
+  > 来源：https://in.linkedin.com/company/aarya-ites-pvt-ltd-（抓取 2026-10-21）
+- **【第三方】营收口径**
+  > AARYA ITES PVT.LTD. … $5.1 million in revenue and 39 employees… Phone · +91 92271 95201
+  > 来源：https://rocketreach.co/aarya-ites-pvtltd-profile_b5d87c6df42e53f1（抓取 2026-10-21）
+- **【第三方】登记**
+  > AARYA ITES PRIVATE LIMITED (CIN: U72900GJ2008PTC055798) … incorporated on 31 Dec 2008 … paid up capital is Rs. 2464000.00
+  > 来源：https://www.zaubacorp.com/AARYA-ITES-PRIVATE-LIMITED-U72900GJ2008PTC055798（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 98250 95206（WA）〔用户 Clients 表〕
+- **KP**：Manan Bhavsar（CEO）manan@a-ites.com +91 98250 95206（WA 已加）〔用户 Clients 表〕
+- **KP**：Chirag Shah（Manager）chirag.s@a-ites.com 〔用户 Clients 表〕
+- **KP**：Manish Meghwal（Manager）manish.m@a-ites.com 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。
 - 备注：WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + LinkedIn/登记核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798） |
+| 成立 | 2008-12-31 |
+| 总部/地址 | #209, Akshar Stadia, Opp. Symphony Ltd, Bodakdev, Ahmedabad-380054, Gujarat；+91 79 4899 5206 / +91 98250 95206；info@a-ites.com |
+| 其他 | ISO 9001:2015 / 20000-1:2018 / 27001:2022；IndiaMART 列为高速公路交通管理系统与 ECB 制造商；官网文字出现 PLANET、Axis、Ubiquiti |
+
+- **业务线**：智慧高速：收费管理 TMS、ATMS、VIDS、VMS、ECB 紧急电话（自产，BiDi 光纤接入）；指挥控制中心、IP 视频监控、门禁与入口监控；火警与语音疏散、统一通信；IT 与网络方案、集成软件
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET（官网提及） | （未列型号） | IT & Network 方案页品牌词 | 工业 4/8 口管理型 → STI-288GPM / STI-154GP | https://www.a-ites.com/（2026-10-21） |
+
+- **触达通道（公开）**：official: info@a-ites.com / aaryaites@gmail.com；+91 79 4899 5206；contact: Manan Bhavsar（CEO）manan@a-ites.com；Chirag Shah（Manager）chirag.s@a-ites.com；Manish Meghwal（Manager）manish.m@a-ites.com；+91 98250 95206（WA 已加）；linkedin: in.linkedin.com/company/aarya-ites-pvt-ltd-
+- **近况信号**：
+  - 2024-08-12 明确只要 4 & 8 口工业级
+  - 2025-02-26 要 L2 管理 / Web 管理版本
+  - 高速公路 ATMS/ECB 项目持续（路侧机柜 DIN 导轨场景）
+- **风险/边界**：印度政府/国道局招标多有本地化与认证要求（按单评估）；路侧高温环境需宽温与浪涌等级证明；价格敏感，常比价本地品牌
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核
+- **邮件切入句（英文）**：You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -128,6 +169,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Manan Bhavsar | CEO | manan@a-ites.com / +91 98250 95206（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Chirag Shah | Manager | chirag.s@a-ites.com | 调研核实（公开页） | 用户 Clients 表 |
+| Manish Meghwal | Manager | manish.m@a-ites.com | 调研核实（公开页） | 用户 Clients 表 |
 | Chirag Shah   Manager | — | chirag.s@a-ites.com / manish.m@a-ites.com / +919825095206 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 | Manan | — | chirag.s@a-ites.com / manish.m@a-ites.com / +919825095206 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
@@ -146,20 +190,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核 | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-144GP 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -167,7 +211,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -195,25 +239,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Chirag,
+Hi Manan,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

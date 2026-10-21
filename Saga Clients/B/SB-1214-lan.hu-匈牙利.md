@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1214.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://lan.hu/　语言：hu　站点地图 URL 数：1635
+- **标题**：LAN Számítástecnikai Szolgáltató Kft.
+- **描述**：LAN Számítástecnikai Szolgáltató Kft.
+- **首页栏目**：Legújabb termékek / Fésűs panel mini szekrényhez fekete DN-10-ORG-1-2U-B / Gyűrűs panel mini szekrényhez 10" fekete DN-10-ORG-1U-B / Fix tálca 10" szekrényhez fekete DN-10-TRAY-1-B / Villamos elosztó 8-as 19" C14 piros DN-95410-R / Hírek / Miért érdemes szünetmentes tápegységet használni otthon és az irodában? / X-Tech rackszekrények: hogyan válasszunk jól?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 1、sfp 1、media converter 1、wireless 1、cable 1、tp-link 1
+- **站内型号串**（正则抽取，含非交换机）：AWG23, DK-1743-VH-5, LSZH-3, AWG26, DK-1743-VH-305-MF-W, DN-93615, TA-180FTPC6ATD, DN-10-ORG-1-2U-B, DN-10-ORG-1U-B, DN-10-TRAY-1-B, DN-95410-R, DK-1613-VH-305
+- **站内公开邮箱**：info@shoprenter.hu, rendeles@lan.hu, sales@lan.hu, szolgaltatas@lan.hu, titkar@lan.hu, valaki@pelda.hu
+- **站内公开电话**：+36 1 415 2 300, +36 1 415 2300
+- **社媒**：https://hu.linkedin.com/company/lanszamitastechnika, https://www.facebook.com/lanszamitastechnika, https://www.instagram.com/lanszamitastechnika/, https://www.youtube.com/@lanszamitastechnikaikft.2722?app=desktop
+- **产品类页面**：https://lan.hu/planet-isw-504pt-ip30-5-porttp-poe-industrial-fast-ethernet-switch-2454；https://lan.hu/tp-link-tl-sf1008p-8port-switch-poe-2504；https://lan.hu/tp-link-10-port-gigabit-desktop-switch-with-8-port-poe-3650；https://lan.hu/tp-link-8-port-gigabit-poe-switch-perpoe-for-all-8-ports-2511；https://lan.hu/planet-isw-501t-ip30-5-port-industrial-fast-ethernet-switch-2453；https://lan.hu/tp-link-8-port-101001000-asztali-switch-nem-menedzselt-4poe-2510
+- 首页正文摘录：Ugrás a fő tartalomhoz Visszajelzés a kisegítő lehetőségekről Weboldalunk használatával jóváhagyja a cookie-k használatát a Cookie-kkal kapcsolatos irányelv értelmében. Beállítások módosítása Elfogadom Szükséges cookie-k Ezek a cookie-k segítenek abban, hogy a webáruház használható és működőképes legyen. Marketing cookie-k Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfelelő reklámokat és termé
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1214.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

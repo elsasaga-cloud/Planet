@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1265.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://versatek.com/　语言：en-US　站点地图 URL 数：510
+- **标题**：Versa Technology / Power over Ethernet / PoE Solutions
+- **描述**：Versa's PoE Business Solutions are empowering Smart Buildings, PoE Lighting, and the Autonomous Industry with innovative devices.
+- **首页栏目**：Versa's PoE Business Solutions / PoE Insights from our Blog / What to Consider When Using Outdoor PoE Devices / PoE Installation Design for Your Office Network / 5 Things You Need to Know About PoE Switches / Does PoE Lighting Save Energy Costs? / Industry Applications / Featured PoE Devices
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 874、switch 431、sfp 169、industrial 124、ethernet 98、gigabit 82、cable 42、camera 12、automation 10、2.5g 10、fiber 9、wireless 6
+- **站内出现的品牌**：Axis, Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：VX-GPU2610, VX-GPF1626, VX-GPU2626, VX-GPH8245, IEEE802, XC60-084-91-770, D60-044-90-DC, D62-084-MX-DCP, D62-040-30-BT, D40-044-91-DC, SD-202, SD-101
+- **站内公开邮箱**：sales@versatek.com
+- **社媒**：https://twitter.com/VersaTechnology, https://www.facebook.com/VersaTechnology/, https://www.instagram.com/VersaTechnology/, https://www.youtube.com/user/VersaTechnology, https://www.youtube.com/watch?v=u2IsdoBLU3k
+- **产品类页面**：https://versatek.com/product-release-vx-gpu2626-l2-24-port-managed-gbe-upoe-switch-2200w/；https://versatek.com/a-poe-injector-versus-poe-switch/；https://versatek.com/5-reasons-you-need-an-industrial-ethernet-switch/；https://versatek.com/expand-iot-networks-by-combining-poe-switches-and-ethernet-extenders/；https://versatek.com/the-mysterious-use-cases-of-industrial-power-over-ethernet-poe-networking-gear/；https://versatek.com/what-is-a-poe-injector/
+- **已抓子页**：[5-Port Gigabit Managed 802.3at PoE Switch / VX-GPH8245 / Ver](https://versatek.com/product/vx-gph8245-5-port-gigabit-ethernet-smart-managed-switch-with-4-poe-ports/)；[Versa Technology / High Power PoE Switches](https://versatek.com/products-solutions/poe-switches/)；[VX-GPU2626 (V2) L2+ 24-Port Managed GbE UPOE Switch (2000W) ](https://versatek.com/product/vx-gpu2626-l2-24-port-managed-gbe-upoe-switch/)；[8-Port Managed GbE UPoE Switch / VX-GPU2610 / Versa Technolo](https://versatek.com/product/vx-gpu2610-l2-8-port-managed-gbe-upoe-switch-250w/)；[PoE Switch 24 Port / VX-GPF1626 / Versa Technology](https://versatek.com/product/vx-gpf1626-24-port-gbe-rj45-2-port-gbe-rj45sfp-web-smart-gbe-managed-poe-switch/)；[Versa Technology / High Power PoE Switches](https://versatek.com/products-solutions/poe-switches/)
+- 首页正文摘录：Free ground shipping on orders $50+. Continental US only Versatek Products & Solutions Blog Support Contact Us Products search 0 No products in the cart. Search Extending Reach with Power over Ethernet Versa Technology High Power PoE Solutions Discover them now! Ultra PoE 802.3bt Ready PoE Power Budget of 740W Introducing the VX-GPU2610-9 Learn More Now! Here to help customers achieve their Power over Ethernet networ
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 129、PoE 874 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1265.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +154,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

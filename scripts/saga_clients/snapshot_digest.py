@@ -41,6 +41,8 @@ BRANDS = {
     r'\bhrui\b|\bhongrui\b': 'HRUI（！）', r'\bhohunet\b': 'Hohunet（！）', r'\bsaga ?tele': 'Saga（！）',
 }
 BRAND_RE = [(re.compile(k, re.I), v) for k, v in BRANDS.items()]
+# 监控/建站平台产生的伪邮箱（sentry/wix 哈希、example、图片名等）
+JUNK_EMAIL = re.compile(r'(sentry|wixpress|example\.|@.*\.(png|jpg|jpeg|gif|svg|webp)$|^[0-9a-f]{24,}@|noreply|no-reply|schema\.org)', re.I)
 
 # 只保留子串计数可靠的词（site_snapshot.py 用 str.count 子串计数：'din'/'olt'/'ups'/'isp'/'rack'/'onu' 等会被
 # coding/voltage/groups/display/track/bonus 污染，弃用）
@@ -114,7 +116,7 @@ def digest_one(snap):
         for m in (p.get('models') or []):
             if isinstance(m, (list, tuple)) and len(m) == 2:
                 models[str(m[0])] += int(m[1])
-        emails.update(e for e in (p.get('emails') or []) if '@' in e)
+        emails.update(e for e in (p.get('emails') or []) if '@' in e and not JUNK_EMAIL.search(e))
         phones.update(p.get('phones') or [])
         social.update(p.get('social') or [])
         t = ' '.join([p.get('title') or '', p.get('desc') or '', ' '.join(p.get('h') or []), p.get('text') or ''])

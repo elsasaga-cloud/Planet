@@ -24,7 +24,7 @@ last_contact: 2025-10-24
 p1: STI-280DGGM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -113,6 +113,21 @@ updated: 2026-10-21
 - **风险/边界**：与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-280DGGM（20% 档）——分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM
 - **邮件切入句（英文）**：Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.switchtec.com/　语言：en　站点地图 URL 数：8732
+- **标题**：Home - Switchtec Ltd Website
+- **描述**：Our Official Online Store
+- **首页栏目**：Featured Promotional Products / New Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 1735、cable 268、industrial 190、ethernet 84、telecom 56、cctv 14、oem 12、distributor 12、wholesale 6、installer 6、automation 3
+- **站内型号串**（正则抽取，含非交换机）：HF13F, HF18F, HF10FH, HF157F, HF18FF, HF18FF-A, RM157, HFE10, HFE19, HFE20, HFE22, HFE29
+- **站内公开邮箱**：sales@switchtec.com
+- **产品类页面**：https://www.switchtec.com/Switchtec-launches-a-new-range-of-SCL-Industrial-Plugs-and-Sockets；https://www.switchtec.com/products；https://www.switchtec.com/Products/relays；https://www.switchtec.com/Products/Hongfa-signal-relays；https://www.switchtec.com/Products/Hongfa-single-pole-signal-relays；https://www.switchtec.com/Products/hongfa-5-pin-version/HFD41A024HS
+- **已抓子页**：[Hongfa Industrial Relays - Switchtec Ltd Website](https://www.switchtec.com/Products/hongfa-industrial-relays)；[Plugs & Sockets - Switchtec Ltd Website](https://www.switchtec.com/Products/scl-industrial-plugs-and-sockets)；[Dinkle Opto Relays 6 Amp Switching - Switchtec Ltd Website](https://www.switchtec.com/Products/dinkle-opto-relays-6-amp-switching)；[Dinkle Opto Relays 10 Amp Switching - Switchtec Ltd Website](https://www.switchtec.com/Products/dinkle-opto-relays-10-amp-switching)；[Dinkle Signal Opto Relays up to 500mA Switching - Switchtec ](https://www.switchtec.com/Products/dinkle-signal-opto-relays-up-to-500ma-switching)；[Switchtec Ltd Website](https://www.switchtec.com/Products/)
+- 首页正文摘录：Home Products About Us News Contact Us Literature Quotations Login / Register Login Offers Home Relays, Sockets & Accessories Home Relays, Sockets & Accessories Hongfa Signal Relays Home Relays, Sockets & Accessories Hongfa Signal Relays View All Hongfa Signal Relays Hongfa Single Pole Signal Relays Hongfa Double Pole Signal Relays Hongfa Power Relays Home Relays, Sockets & Accessories Hongfa Power Relays View All Ho
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 193、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-191.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-06-27 → 2025-11-04）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1127.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://throughput.co.za/　语言：en　站点地图 URL 数：0
+- **标题**：Throughput Technologies â Powering Resilient Industrial Networks HP
+- **描述**：Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure.
+- **首页栏目**：Powering Resilient Industrial Networks / The Network Is Part of the Process / Engineering Experience Matters. Products Are Secondary. / Different Industries. Different Consequences. / Engineering the System Between the Systems / Question the Assumption / Proven Globally. Applied Locally. / From the Field
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 125、ethernet 41、fibre 19、switch 13、integrator 12、automation 5、wireless 3、scada 2、cable 2、media converter 1、camera 1、oem 1
+- **站内出现的品牌**：Westermo　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开电话**：+2711 705 2497, +2781 332 4530
+- **已抓子页**：[Industrial Ethernet Networks / Throughput Technologies](https://throughput.co.za/solutions/industrial-ethernet-networks.html)；[Partner Technologies & Product Solutions: Industrial Communi](https://throughput.co.za/partners/index-partner-product-solutions.html)；[Network Redundancy & Resilience / Throughput Technologies](https://throughput.co.za/solutions/network-redundancy-resilience.html)；[Network Diagnostics & Monitoring / Throughput Technologies](https://throughput.co.za/solutions/network-diagnostics-monitoring.html)；[Protocols & Industrial Communications / The Knowledge Hub](https://throughput.co.za/knowledge-hub/protocols-industrial-communications.html)；[Our Profile / Throughput Technologies](https://throughput.co.za/profile.html)
+- 首页正文摘录：SALES & SUPPORT Mon - Fri 8:30am - 5:00pm Industries Industries Overview Rail & Trackside Utilities [incl. Nuclear] Mining Manufacturing Smart Cities Critical / Smart Infrastructure Fire & Security Road Transportation & ITS Solutions Solutions / Overview Industrial Ethernet Networks Fibre Optic Communications Secure Remote Access Network Redundancy & Resilience OT Cybersecurity Network Diagnostics & Monitoring Knowle
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 132、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1127.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

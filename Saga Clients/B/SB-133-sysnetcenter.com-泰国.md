@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STC-448DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-13 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-133.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sysnetcenter.com/　语言：th　站点地图 URL 数：0
+- **标题**：Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network
+- **描述**：จำหน่าย ติดตั้ง อุปกรณ์ Network มากกว่า 10 ปี พร้อมทีมงานเชี่ยวชาญ Wireless, Router, Switch, IP Camera, VOIP, VPN, ระบบ Lan, Fiber optic
+- **首页栏目**：Line: @sysnet / TP-LINK ES210X-M2 Omada 8-Port 2.5G Easy Managed Switch SFP+ / RG-ES210GS-P Reyee PoE Switch 8 Port Gigabit 120W SFP Combo Cloud Managed / U7-Lite Ubiquiti UniFi Wi-Fi 7 Access Point, 5.0Gbps, 2.5GbE, PoE / NAS Synology DiskStation DS425+ Network Attatch Storage 4Bay CPU Intel / ER703WP-4G-Outdoor TP-Link Omada 4G+ Cat6 AX3000 WiFi 6 Outdoor Gateway / Insight S385Pi VIGI 8MP Outdoor IR Panoramic Bullet Network Camera 180องศา / EAP610 TP-Link Omada Wi-Fi 6 Access Point, AX1800, Gigabit, PoE
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 647、poe 486、cisco 182、sfp 151、gigabit 115、tp-link 111、wifi 92、wireless 82、ubiquiti 79、industrial 77、camera 69、10g 51
+- **站内出现的品牌**：Ruijie, TP-Link, Hikvision, Huawei, Ubiquiti, D-Link, Cisco, Uniview, PLANET, MikroTik, Dahua, Netgear　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GS1300, RG-NIS3100-4GT2SFP-HP, RG-S5315-E, RG-CS83, RG-CS85, RG-CS86, RG-S2900G-E, RG-S2915, RG-ES100, RG-S1800, RG-S2910XS-E, RG-S2910-H
+- **站内公开邮箱**：info@sysnetcenter.com
+- **已抓子页**：[Industrial Network Switches](https://sysnetcenter.com/industrial-network-switches)；[POE Switch อุปกรณ์ Network Switch รองรับการจ่ายไฟ POE](https://sysnetcenter.com/poe-switch)；[Passive POE Switch 24VDC สำหรับอุปกรณ์ Network ที่รองรับ POE](https://sysnetcenter.com/passive-poe-switch)；[POE Switch จ่ายไฟ POE จำนวน 4-8 Port มาตรฐาน 802.3af/at/bt](https://sysnetcenter.com/poe-switch-4-8-port)；[POE Switch จ่ายไฟ POE จำนวน 16-24 Port มาตรฐาน 802.3af/at/bt](https://sysnetcenter.com/poe-switch-16-24-port)；[Reyee Industrial Grade Switch RG-NIS3100 Series](https://sysnetcenter.com/reyee-industrial-grade-switch-nis3000)
+- 首页正文摘录：Line: @sysnet Line: @sysnet Contact Phone: 02-102-4284, 083-199-7002, 089-489-5970, 080-080-1115 Email: info@sysnetcenter.com เข้าสู่ระบบ Create an account Welcome, เข้าสู่ระบบ or Create an account shopping_cart รถเข็น: 0 Products - ฿0.00 ไม่มีสินค้าในตะกร้าของคุณแล้ว จัดส่ง รวมทั้งสิ้น ฿0.00 Check Out     หน้าหลัก   ร้าน SysNet Center แผนที่ Office Sysnet ราคาสินค้า Project Our Customer การรับประกันสินค้า สั่ง
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 77、PoE 486 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-133.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +162,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

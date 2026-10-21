@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1272.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://zxtech.co/　语言：en　站点地图 URL 数：6
+- **标题**：Zxtech™ Home Security and CCTV Camera System / Official Site
+- **描述**：Zxtech produces Premium Home Security Cameras and Systems Extremely Quick and Simple to setup and install. Explore 5MP, 4K UHD, 12MP, Wireless, IP and Analog camera systems for all type of Homes. Advanced software and Long lasting hardware leaves you with Peace of Mind.
+- **首页栏目**：UNMATCHED 4K CCTV CAMERAS / THE FLAGSHIP POE CAMERAS / Power. Data. Reliability. / Engineered to Endure / Trusted by Thousands / Built Without Compromise / Small Profile. Serious Impact. / COMPARE OUR 4K FUSION LIGHT POE CAMERAS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 204、poe 96、wifi 38、cctv 37、nvr 25、wireless 14、switch 4、surveillance 4、telecom 2、cable 2、ethernet 1、installer 1
+- **站内型号串**（正则抽取，含非交换机）：MN404PN, MCWBW55D, RS485, DC48V, MN904PN, MCWBW55B, IMX415, SSC338Q, RJ-45
+- **社媒**：https://www.instagram.com/zxtechuk/
+- **产品类页面**：https://zxtech.co/sitemap_products_1.xml?from=6575220752575&amp;to=15332611752311
+- **已抓子页**：[Zxtech Wireless Outdoor 5MP/4K 30M Night Vision Motion Detec](https://zxtech.co/products/zxtech-wireless-outdoor-5mp-30m-night-vision-motion-detection-cctv-camera)；[Zxtech Onyx 9CH 4-PoE 4K NVR Recorder – 10TB Bay](https://zxtech.co/products/zxtech-onyx-9ch-4-poe-nvr)；[Zxtech Onyx 16CH 8-PoE 4K NVR Recorder – 10TB Bay](https://zxtech.co/products/zxtech-onyx-16ch-8-poe-nvr)；[Zxtech Onyx 32CH 16-PoE 16MP/4K NVR Recorder – 20TB (2-Bay)](https://zxtech.co/products/zxtech-onyx-32ch-16-poe-nvr)；[Zxtech Onyx 32CH 24-PoE 16MP/4K NVR Recorder – 40TB (4-Bay)](https://zxtech.co/products/zxtech-onyx-32ch-24-poe-nvr)；[Zxtech 4K Wireless Security Camera - 5X Auto Zoom Colour Nig](https://zxtech.co/products/zxtech-4k-wireless-security-camera-5x-auto-zoom-colour-night-vision-intense-led-two-way-audio)
+- 首页正文摘录：Skip to content PoE Cameras Wifi Cameras Complete PoE System Complete Wifi System PTZ Cameras Recorders Accessories Camera Brackets Fusion Light Cameras NAS Cameras Face Detection Cameras 4K Cameras Infrared Cameras IK10 Cameras Log in Instagram PoE Cameras Wifi Cameras Complete PoE System Complete Wifi System PTZ Cameras Recorders Accessories Camera Brackets Fusion Light Cameras NAS Cameras Face Detection Cameras 4K
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 96、监控 270 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1272.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

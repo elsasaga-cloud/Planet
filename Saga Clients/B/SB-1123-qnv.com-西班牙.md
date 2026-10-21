@@ -22,7 +22,7 @@ last_contact: 2025-10-02
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-08 → 2025-10-02）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1123.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://qnv.com/　语言：es　站点地图 URL 数：1087
+- **标题**：Informática industrial, IA y automatización / QNV
+- **描述**：Soluciones de informática industrial, IA, comunicaciones y visión artificial. Tecnología para automatización y control en industria.
+- **首页栏目**：Informática industrial de extrema robustez a medida de cada aplicación / INDUSTRIA FERROVIARIA / EN50155/EN50121 / AUTOMATIZACIÓN INDUSTRIAL / NETWORKING / INDUSTRIA 4.0/IoT/Cloud / APLICACIONES DE VISIÓN / SUBESTACIONES ELÉCTRICAS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 447、switch 210、ethernet 203、poe 100、gigabit 40、sfp 32、cable 27、10g 22、telecom 22、wifi 13
+- **站内出现的品牌**：Korenix　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PC-104, RS232, CV-100, CS-100, EN50155, IIOT-M2M, EN50121, IEC61850, DP620, DP210-LV, DP208, DP208-LV
+- **站内公开邮箱**：marketing@qnv.com
+- **产品类页面**：https://qnv.com/2013/09/17/switches-ethernet-industrial-nivel-3/；https://qnv.com/2018/02/05/gran-oferta-switch-industrial-a-precio-de-switch-comercial/；https://qnv.com/automatizacion-industrial/；https://qnv.com/2020/03/26/switches-con-conector-m12/；https://qnv.com/informatica-industrial-disponibilidad/；https://qnv.com/2022/06/21/nueva-gama-de-tablets-industriales-en-qnv/
+- **已抓子页**：[Switch Ethernet Industrial PoE archivos - QNV Solutions](https://qnv.com/product-category/comunicaciones-industriales/switch-ethernet-industrial-poe/)；[Gestionables archivos - QNV Solutions](https://qnv.com/product-category/comunicaciones-industriales/switch-ethernet-industrial-poe/gestionables-switch-ethernet-industrial-poe/)；[No gestionables archivos - QNV Solutions](https://qnv.com/product-category/comunicaciones-industriales/switch-ethernet-industrial-poe/no-gestionables-switch-ethernet-industrial-poe/)；[Switch Ethernet Industrial archivos - QNV Solutions](https://qnv.com/product-category/comunicaciones-industriales/switch-ethernet-industrial/)；[Gestionables archivos - QNV Solutions](https://qnv.com/product-category/comunicaciones-industriales/switch-ethernet-industrial/gestionables/)；[No gestionables archivos - QNV Solutions](https://qnv.com/product-category/comunicaciones-industriales/switch-ethernet-industrial/no-gestionables/)
+- 首页正文摘录：Saltar al contenido Buscar por: Menu Inicio Empresa Política de Calidad y Medio Ambiente Productos Ordenadores Industriales Chasis Ordenador Industrial Backplanes Chasis compacto Chasis RACK 19″ Fuentes de alimentación CPU Industrial Formato largo (PICMG) Formato Corto Embedded PC-104, EPIC… Motherboard (ATX, mini ITX…) Computer-on-Modules COM Express ETX COM HPC Qseven SMARC OSM Carrier Sistemas Compact PCI y PXi CP
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 447、PoE 100 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1123.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

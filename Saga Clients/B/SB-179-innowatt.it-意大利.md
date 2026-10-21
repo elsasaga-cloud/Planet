@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 12 次（2024-05-31 → 2025-10-15）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-179.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.innowatt.it/　语言：it　站点地图 URL 数：25
+- **标题**：Innowatt - Tecnologia innovativa al tuo servizio
+- **描述**：Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone, fornendo soluzioni innovative che semplificano l'utilizzo della tecnologia con particolare attenzione alla sicurezza, offre prodotti affidabili e di
+- **首页栏目**：Il tuo carrello è vuoto / Il tuo carrello / Subtotale / Casa tua, al sicuro in 48 ore. / Ultimi articoli caricati / Anker Power Bank ligera - Capacidad 10000mAh - Entrada... / Caja de distribución de fibra para carril DIN - Incluye... / Controllo accessi con telecamera PoE IP65 IK09 - Scheda...
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 35、poe 29、camera 27、switch 17、wifi 15、gigabit 9、uniview 9、nvr 8、sfp 7、wireless 7、distributor 4、oem 3
+- **站内出现的品牌**：Ruijie, Hikvision, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS485, BL-T500-AC-ADAPTER, IEEE802, RG-NBS3200-24GT4XS, AX3000, DS-K1T502DBWX-CE1, DS-K1T502DBWX-CQRE1, AK-R20A, NBS3200, RP-PD4
+- **站内公开邮箱**：service@innowatt.it, shop@innowatt.it
+- **社媒**：https://www.facebook.com/InnoWatt.store, https://www.instagram.com/inno.watt/, https://www.linkedin.com/company/gruppo-cosola-impianti-tecnologici/
+- **产品类页面**：https://www.innowatt.it/sitemap_products_1.xml?from=8452673241437&amp;to=8453107253597；https://www.innowatt.it/sitemap_products_2.xml?from=8453107286365&amp;to=15614632231261；https://www.innowatt.it/sitemap_products_3.xml?from=15614636523869&amp;to=16205445529949；https://www.innowatt.it/sitemap_products_4.xml?from=16205448773981&amp;to=16520787657053；https://www.innowatt.it/sitemap_products_5.xml?from=16520788050269&amp;to=16539345191261；https://www.innowatt.it/es/sitemap_products_1.xml?from=8452673241437&amp;to=8453107253597
+- **已抓子页**：[Controllo accessi con telecamera PoE IP65 IK09 - Scheda MF D](https://www.innowatt.it/products/controllo-accessi-con-telecamera-poe-ip65-ik09-scheda-mf-desfire-qr-e-pin-10-000-utenti-300-000-registri-tcp-ip-wifi-rs485-e-wiegand-controller-integrato-ivms-4200-hik-connect)；[Controllo accessi con telecamera PoE IP65 IK09 - Scheda MF D](https://www.innowatt.it/products/controllo-accessi-con-telecamera-poe-ip65-ik09-scheda-mf-desfire-qr-dinamico-e-pin-10-000-utenti-300-000-registri-tcp-ip-wifi-rs485-e-wiegand-controller-integrato-ivms-4200-hik-connect)；[Videocitofono IP da superficie antivandalo - Telecamera 2 Mp](https://www.innowatt.it/products/videocitofono-ip-da-superficie-antivandalo-telecamera-2-mp-audio-bidirezionale-crystal-clear-apertura-tramite-scheda-em-mf-e-nfc-2-rele-poe-sip-standard-manutenzione-cloud-collegamento-monitor-e-postazione-esterna-tramite-cloud)；[Reyee Switch Cloud Layer 2+ - 24 porte RJ45 Gigabit - 4 port](https://www.innowatt.it/products/reyee-switch-cloud-layer-2-24-porte-rj45-gigabit-4-porte-sfp-10-gbps-static-lag-dhcp-snooping-igmp-snooping-port-mirroring-vlan-port-isolation-stp-rstp-acl-qos-montaggio-su-rack)；[Prodotti – Innowatt](https://www.innowatt.it/collections/all)；[BL-T500-AC-ADAPTER – Innowatt](https://www.innowatt.it/products/bl-t500-ac-adapter)
+- 首页正文摘录：Vai direttamente ai contenuti Il tuo carrello è vuoto Continua gli Acquisti Hai un account? Accedi per un check-out più veloce. Il tuo carrello Caricamento in corso... ORDER SPECIAL INSTRUCTIONS Istruzioni speciali per l'ordine Subtotale €0,00 EUR Imposte incluse. Spese di spedizione calcolate al check-out. Accetto i Termini e Condizioni di Innowatt Check-out Tutti i prodotti Tutte le categorie Home Store Novità I pi
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 29、监控 39 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-179.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

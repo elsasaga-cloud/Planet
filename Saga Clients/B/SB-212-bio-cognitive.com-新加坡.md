@@ -22,7 +22,7 @@ last_contact: 2025-07-07
 p1: STI-21616GP
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：问了一个型号
 - **P1（下一步唯一主推）**：STI-21616GP — 工业 16 PoE + 2 SFP；$170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-212.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bio-cognitive.com/　语言：en　站点地图 URL 数：17
+- **标题**：Convergence Security for IT/OT &amp; Physical / Bio-Cognitive
+- **描述**：Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring.
+- **首页栏目**：Converging Physical, IT and Operational Security for Modern Enterprises / Services / Articles / Contact
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 121、scada 48、surveillance 42、access control 20、automation 6、camera 6、cctv 4、data center 2、switch 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CIP-003-9, ISA-TR62443-2-2-2025, ISA-62443
+- **站内公开邮箱**：enquiries@bio-cognitive.com
+- **站内公开电话**：+65-6553-2128
+- **社媒**：https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience&text=Operational+Technology+Security+Services%3A+A+Strategic+Framework+for+Industrial+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience, https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience&text=Physical+Security+Controls+for+Industrial+Facilities%3A+A+Strategic+Guide+to+Operational+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience, https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fscada-network-security-assessment-a-strategic-reference-for-industrial-resilience&text=SCADA+Network+Security+Assessment%3A+A+Strategic+Reference+for+Industrial+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fscada-network-security-assessment-a-strategic-reference-for-industrial-resilience, https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fstrategic-manufacturing-plant-security-integration-a-framework-for-operational-resilience&text=Strategic+Manufacturing+Plant+Security+Integration%3A+A+Framework+for+Operational+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fstrategic-manufacturing-plant-security-integration-a-framework-for-operational-resilience, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience&t=Operational+Technology+Security+Services%3A+A+Strategic+Framework+for+Industrial+Resilience, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience&t=Physical+Security+Controls+for+Industrial+Facilities%3A+A+Strategic+Guide+to+Operational+Resilience
+- **产品类页面**：https://www.bio-cognitive.com/articles/ot-security-for-industrial-resilience；https://www.bio-cognitive.com/articles/scada-network-security-assessment-a-strategic-reference-for-industrial-…；https://www.bio-cognitive.com/articles/physical-security-controls-for-industrial-facilities-a-strategic-guide-…
+- **已抓子页**：[SCADA Network Security Assessment: A Strategic Reference for](https://www.bio-cognitive.com/articles/scada-network-security-assessment-a-strategic-reference-for-industrial-resilience)；[OT Security Services Framework for Industrial Resilience](https://www.bio-cognitive.com/articles/ot-security-for-industrial-resilience)；[Physical Security Controls for Industrial Facilities: A Stra](https://www.bio-cognitive.com/articles/physical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience)；[Strategic Manufacturing Plant Security Integration: A Framew](https://www.bio-cognitive.com/articles/strategic-manufacturing-plant-security-integration-a-framework-for-operational-resilience)
+- 首页正文摘录：Bio-Cognitive Solutions Home About Services Articles Contact Bio-Cognitive Solutions Home About Services Articles Contact Converging Physical, IT and Operational Security for Modern Enterprises Helping organizations protect people, assets, information, and critical operations through a unified security strategy. ABOUT US Bio-Cognitive Solutions delivers convergence security that brings physical security, cybersecurit
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 174、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-212.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +160,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

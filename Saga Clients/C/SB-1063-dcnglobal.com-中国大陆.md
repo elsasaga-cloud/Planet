@@ -25,7 +25,7 @@ last_contact: unknown
 p1: none
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -79,6 +79,13 @@ updated: 2026-10-21
 - **风险/边界**：同行厂商（渠道冲突）→ C
 - **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——不主动推进；被动 OEM 补充品类时按 30% 档（如 STI-288DGGPM $151.6）
 - **邮件切入句（英文）**：（不主动发送）
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dcnglobal.com/　语言：未标　站点地图 URL 数：0
+- **标题**：DCN Global
+- 首页正文摘录：æ­£å¨å è½½ï¼è¯·èå¿ç­å¾
+- 数据文件：`data/saga_clients/site_snapshots/SB-1063.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

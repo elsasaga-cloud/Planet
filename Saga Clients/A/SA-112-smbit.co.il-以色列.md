@@ -126,7 +126,7 @@ updated: 2026-10-21
 - **描述**：. SMBIT מערכות תקשורת מתקדמות, תכנון הקמה ואחזקה של מערכות תקשוב ,WIFI, GPON, גלים-מילימטריים, רשתות IoT לורה LoRaWAN. עשרות סוגי חיישני IoT לכל מגזרי התעשיה, ערים חכמות, לוגיסטיקה, חקלאות ועיר חכמה. מערכת של מערכות EkronWIDE לניהול כל עולמות התוכן של כולל סייבר, ניטור ומנוע חוקות
 - **首页栏目**：הופכים כל סביבת עבודה לחכמה יותר / המערכת היחידה הכוללת גיבוי של שתי מערכות תקשורת שונות ​ / מקרב לקוחותינו: / לחצן מצוקה ברשת לורה ​ / All Videos / הופכים ערים ויישובים לחכמים יותר / חליפת חיישני IoT מבוססת loRa לסביבת עבודה חכמה, בטוחה ויעילה יותר / EkronWide מערכת ניהול ובקרה מרכזית שמאחדת את כל סביבות עבודה
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 13、poe 2、switch 1、fiber 1、nvr 1、hikvision 1、axis 1
-- **站内公开邮箱**：0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com, 2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, 271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com, 460ff4620fa44cba8df530afde949785@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com, 88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com
+- **站内公开邮箱**：amit@smbit.co.il, avishay@smbit.co.il
 - **社媒**：https://www.facebook.com/SMBIT-1656958407671054/, https://www.linkedin.com/company/smbit-ltd, https://www.youtube.com/channel/UCiIBLVPJL44mTi-Df3i0R7A
 - **产品类页面**：https://www.smbit.co.il/switches；https://www.smbit.co.il/ubiquiti-switch；https://www.smbit.co.il/catalogs
 - **已抓子页**：[מתגי תקשורת מנוהלים](https://www.smbit.co.il/switches)；[צור קשר](https://www.smbit.co.il/contact-us)；[אודות](https://www.smbit.co.il/about-smbit)；[צוות החברה / smbit](https://www.smbit.co.il/company-team)；[אנליטיקה למצלמות](https://www.smbit.co.il/camera-analytics)；[מצלמות אבטחה](https://www.smbit.co.il/security-cameras)

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1239.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.securame.com/　语言：es　站点地图 URL 数：0
+- **标题**：Securame
+- **首页栏目**：Servicio al cliente / MF-CARD Tarjeta de proximidad Mifare MF pasivo / Formato CR80 / CON300-CAT6 Conector RJ45 CAT6 para crimpar / CON280A Conector alimentación 2.1mm hembra rápido / CON285A Conector alimentación 2.1mm macho rápido / DH-HAC-HDW1200CLQP-IL-A-0280B-S6 - Domo 4 en 1 de 2MP de exterior / Transceptor pasivo de video HD por par trenzado BA612P-HAC (par) / Fuente de alimentación (transformador) 12VDC 5A con 4 salidas 2.1mm DC12V5A
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 166、dahua 153、cable 96、wifi 64、switch 58、nvr 50、poe 38、industrial 20、cctv 2、tp-link 2
+- **站内出现的品牌**：Hikvision, Dahua, Ajax, ZKTeco, Paradox　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS485, CON300-CAT6, CON280A, CON285A, DH-HAC-HDW1200CLQP-IL-A-0280B-S6, BA612P-HAC, CR123A, DC12V5A, HUB2-4G, A-SC4, A-SS1
+- **站内公开邮箱**：contacto@securame.com, info@securame.com, su@email.com
+- **已抓子页**：[Contacte con nosotros](https://www.securame.com/contactenos)；[Contactos](https://www.securame.com/category/alarmas-contactos-c-122_125.html)；[Kits autoinstalables videovigilancia](https://www.securame.com/category/kits-camaras-vigilancia-cctv-c-18.html)
+- 首页正文摘录：Contacte con nosotros Servicio al cliente clear Servicio al cliente Contacto: De lunes a viernes: 9:00 am 2:00 / 3:00 pm a 6:00 pm Sábados y domingos cerrado Tel: 933 90 88 29 info@securame.com C. Sepúlveda, 161. 0801 Barcelona Entregas: Consulte nuestro apartado de Métodos y costes de envío . Métodos de pago: Tarjeta de crédito, transferencia bancaria y recogida en tienda. Devoluciones: Si en los 14 días naturales p
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 20、PoE 38 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1239.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

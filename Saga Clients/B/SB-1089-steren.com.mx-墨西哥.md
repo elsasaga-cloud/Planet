@@ -22,7 +22,7 @@ last_contact: 2025-10-07
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1089.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.steren.com.mx/　语言：es　站点地图 URL 数：0
+- **标题**：Steren La Mejor Tienda de Electrónica en México
+- **描述**：Compra en línea Lo Mejor en Electrónica / Compras Seguras / Envío Rápido y Seguro / Envíos Gratis a Partir de $499
+- **首页栏目**：Seguridad 2026 / Cuida tu hogar desde cualquier lugar / Lo más deseado en tecnología / Mantén vigilado el exterior / ¡Nuestros Productos Más Destacados! / Tu puerta también puede ser inteligente / ¡Energía de reserva para cualquier momento! / Mira quién llama antes de abrir
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 537、cctv 161、wifi 43、switch 28、ethernet 16、fiber 14、nvr 5、wireless 4、poe 1
+- **站内型号串**（正则抽取，含非交换机）：CCTV-305, CCTV-318, CCTV-314, CCTV-413, CCTV-315, CCTV-412, CCTV-320, CCTV-322, LOCK-400, BE3600, SHOME-300, SHOME-100
+- **站内公开邮箱**：ecommerce@steren.com.mx
+- **站内公开电话**：000 55 9107 8080
+- **已抓子页**：[Multicontactos: para conectar varios equipos a la vez. ¡Cómp](https://www.steren.com.mx/energia/tiras-multicontactos)；[Enchufe Inteligente / Práctico, seguro y confiable](https://www.steren.com.mx/smart-home/contactos-inteligentes)；[Accesorios para CCTV / Asegura protección en alta definición](https://www.steren.com.mx/seguridad/cables-y-accesorios-para-cctv)；[Cámara de Seguridad Wifi / Monitoreo efectivo para tus espac](https://www.steren.com.mx/smart-home/camaras-de-seguridad-wifi)；[Cámara CCTV / Videovigilancia que no falla](https://www.steren.com.mx/seguridad/grabadores-cctv-dvr-y-camaras-de-seguridad-cctv-alambricas)；[Accesorios para CCTV / Asegura protección en alta definición](https://www.steren.com.mx/seguridad/cables-y-accesorios-para-cctv)
+- 首页正文摘录：The store will not work correctly in the case when cookies are disabled. Local Storage seems to be disabled in your browser. For the best experience on our site, be sure to turn on Local Storage in your browser. Sign in Please enter your email below and we will send you a new password. Inicia sessión Forgotten? / Register Now Send Password Back to Form Login Create New Account Enviar Back to Form Login Sign in with F
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 1、监控 166 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1089.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +156,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-205.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tier1ds.com/　语言：en　站点地图 URL 数：0
+- **标题**：Tier1 Data Systems / Your Own IT Solutions Hub
+- **首页栏目**：NETWORKING, HARDWARE AND DATA CENTER / YOUR PARTNER IN SPARE PARTS / CONFIGURATIONS / Top Brands / About Us / Sales Process / Blade Servers / Dell PowerEdge server
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cisco 13、ubiquiti 6、switch 2、data center 2、oem 2、fiber 1、wireless 1、telecom 1、cable 1、tp-link 1、axis 1
+- **站内出现的品牌**：Cisco, Ubiquiti, Juniper, Fortinet, D-Link, Huawei, Extreme, TP-Link, Netgear, Axis, Lantech, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GB311899586
+- **站内公开邮箱**：sales@tier1ds.com
+- **站内公开电话**：+44-2033 71 5231, +44-2033715231 09
+- **已抓子页**：[Tier1 Data Systems / Your Own IT Solutions Hub](https://tier1ds.com/products.php)；[Tier1 Data Systems / Your Own IT Solutions Hub](https://tier1ds.com/contact.php)
+- 首页正文摘录：sales@tier1ds.com +44-2033715231 09 AM to 05 PM Home Customer Products Contact RMA Stock Available at your time NETWORKING, HARDWARE AND DATA CENTER Get quote available at your time YOUR PARTNER IN SPARE PARTS Customised Configurations to meet customers specific need CONFIGURATIONS Previous Next Top Brands Take a look at top Brands we deal with Previous Next About Us TIER1 Data Systems is a leading global IT Reseller
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-205.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +154,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -1,0 +1,54 @@
+{
+ "code": "SB-174",
+ "name_official": "Empicstar（empicstar.com，尼日利亚；域名现不可达）",
+ "researched_at": "2026-10-21",
+ "website_status": "域名不可达（快照 2026-10-21 unreachable）",
+ "summary": "尼日利亚网络产品平台/转售商 Empicstar（用户备注「FS MC 周边产品，似乎是平台，出现了 TP-Link、ONV 等牌子」；gmail + WA）。2024-03 对商业 PoE 128 信息回「price」；18 次推送 1 次实质回复。域名快照不可达 → 存续待核；→ B 20%（平台转售）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+234 803 428 6012；empicstar2014@gmail.com"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "empicstar2014@gmail.com，+234 803 428 6012（WA 已加）"
+ },
+ "signals": [
+  "2024-03 对商业 PoE 回 price"
+ ],
+ "risks": [
+  "域名不可达，平台可能已停",
+  "尼日利亚外汇/付款风险"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档"
+ },
+ "email_hook": "You asked for the price of our commercial PoE switches last year — for a platform listing alongside TP-Link/ONV, the 8-port PoE+ L2+ model is $81–87 EXW in small lots; want the full sheet?"
+}

@@ -1,0 +1,62 @@
+{
+ "code": "SB-276",
+ "name_official": "Elhem Trading Co. Sal（mtco-lb.com，黎巴嫩）",
+ "researched_at": "2026-10-21",
+ "website_status": "未核（mtco-lb.com 未抓取/未搜索）",
+ "summary": "黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Adnan Melhem",
+   "role": "Managing Director",
+   "email": "melhem@mtco-lb.com",
+   "phone": "+961 3 058 000（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于表内信息 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+961 3 058 000 / +961 1 245 000；mtco-lb.com（未抓到快照）"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Adnan Melhem（Managing Director）melhem@mtco-lb.com，+961 3 058 000（WA 已加）"
+ },
+ "signals": [
+  "2024-06 「近期可能会有需求」"
+ ],
+ "risks": [
+  "黎巴嫩付款/局势风险",
+  "需求描述不清（VC）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清"
+ },
+ "email_hook": "You mentioned a need might come up soon for commercial switches — I can keep a USD EXW sheet for the 8/16/24-port PoE models on file for you; is the VC price list you asked about for video-conferencing or camera kits?"
+}

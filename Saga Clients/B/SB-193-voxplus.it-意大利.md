@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2024-05-10 → 2025-10-15）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-193.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.voxplus.it/　语言：it-IT　站点地图 URL 数：80
+- **标题**：VOXplus - Innovazione Integrazione Connessione
+- **描述**：VOXplus è un System Integrator in grado di fornire ai propri clienti, soluzioni e competenze che permettano loro di massimizzare le...
+- **首页栏目**：Soluzioni su misura per il tuo business / Cybersecurity / Networking & Voip / Data Center & Cabling / Building Automation & IOT / Il mondo di VOX plus / Collaboriamo con i migliori per offrirti soluzioni innovative e di qualità / La tua azienda sta pensando di investire in Cloud e Cybersecurity?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 106、poe 36、ethernet 34、switch 29、data center 17、automation 11、wireless 7、scada 6、10g 2、integrator 2、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：MISCOM8212GP-4XGF, RS232, RS485, MI-1828564, MISCOM8212GP, MISCOM7028
+- **站内公开邮箱**：info@voxplus.it, sales@voxplus.it, voxplus@pec.it
+- **社媒**：https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Flayer-2-e-layer-3-nelle-reti-industriali-differenze-e-applicazioni%2F, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Fpoe-ad-alta-potenza-lo-switch-industriale-maisvch-miscom8212gp-4xgf-8gtpoe90%2F, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Frete-industriale-parchi-eolici-remoti-maisvch%2F, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Fridondanza-industrial-ethernet-thailandia-rstp-mrp-erps%2F, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Fserver-seriale-mqtt-rs232-rs485-integra-i-dispositivi-industriali-con-il-cloud%2F, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Fserver-seriale-wifi-industriale-rs232-rs485-iiot%2F
+- **产品类页面**：https://www.voxplus.it/mien2205p-4tpoe-switch-poe-industriale-5-porte/；https://www.voxplus.it/switch-industriale-poe-10g-layer-3-miscom8212gp-4xgf-8gtpoe90-dc48/；https://www.voxplus.it/maisvch-ethercat-etg-switch-industriali/；https://www.voxplus.it/switch-ethernet-industriale-admas2024-m12/；https://www.voxplus.it/mien2104-switch-ethernet-industriale-embedded/；https://www.voxplus.it/come-scegliere-uno-switch-industriale-ethernet/
+- **已抓子页**：[Switch PoE industriale 90W MISCOM8212GP-4XGF-8GTPoE90](https://www.voxplus.it/poe-ad-alta-potenza-lo-switch-industriale-maisvch-miscom8212gp-4xgf-8gtpoe90/)；[Ridondanza Industrial Ethernet in Thailandia: RSTP, MRP o ER](https://www.voxplus.it/ridondanza-industrial-ethernet-thailandia-rstp-mrp-erps/)；[Rete Ethernet industriale per parchi eolici - VOXplus](https://www.voxplus.it/rete-industriale-parchi-eolici-remoti-maisvch/)；[Server seriale Wi-Fi industriale RS232/RS485 per IIoT - VOXp](https://www.voxplus.it/server-seriale-wifi-industriale-rs232-rs485-iiot/)；[Layer 2 e Layer 3 nelle reti industriali, differenze e appli](https://www.voxplus.it/layer-2-e-layer-3-nelle-reti-industriali-differenze-e-applicazioni/)；[Server seriale MQTT RS232 RS485 Mport3101R-W per IIoT](https://www.voxplus.it/server-seriale-mqtt-rs232-rs485-integra-i-dispositivi-industriali-con-il-cloud/)
+- 首页正文摘录：Salta al contenuto Home voxp.login 2026-09-15T17:12:28+02:00 Innovazione Integrazione Connessione Innovazione Integrazione Connessione Soluzioni su misura per il tuo business Soluzioni su misura per il tuo business Scopri di più Contattaci Soluzioni Contattaci Resta aggiornato Ridondanza Industrial Ethernet in Thailandia: come scegliere tra RSTP, MRP ed ERPS / Voucher Cloud & Cybersecurity: la sicurezza digitale dive
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 117、PoE 36 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-193.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,7 +184,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

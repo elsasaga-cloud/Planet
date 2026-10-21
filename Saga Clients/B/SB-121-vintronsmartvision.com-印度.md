@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-121.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://vintronsmartvision.com/　语言：en　站点地图 URL 数：127
+- **标题**：CCTV Manufacturer India / Vintron / CCTV Manufacturer India — PoE Switches, Cameras & Power Supply
+- **描述**：CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty. Call 1800-121-4322.
+- **首页栏目**：About Vintron / EMS Services / We are Happy to Help
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 530、poe 210、switch 208、nvr 95、cctv 58、media converter 46、wifi 35、industrial 15、distributor 12、surveillance 3、cable 3、ethernet 2
+- **站内型号串**（正则抽取，含非交换机）：HA60P, MY007A, VS-POE-42065, VS-POE-82096, VS-POE-42078, VS-POE-421FGS, VS-POE-82120, VS-POE-82NG, VS-POE-822FGS, VS-POE-1621NGS, VS-POE-1621FGS, VS-POE-2422NGS
+- **站内公开邮箱**：lead@vintronsmartvision.com
+- **站内公开电话**：+91 9310004688
+- **社媒**：https://www.facebook.com/Vintronsmartvision, https://www.instagram.com/vintronsmartvision?igsi=MXc4M3o1dnNkNjR4eA==, https://www.linkedin.com/company/vintron-smartvision/
+- **产品类页面**：https://www.vintronsmartvision.com/gold-poe-switches；https://www.vintronsmartvision.com/network-poe-switch；https://www.vintronsmartvision.com/ultra-poe-switches；https://www.vintronsmartvision.com/premium-poe-switches；https://www.vintronsmartvision.com/network-poe-switch/diamond-6k-series/1-8-port；https://www.vintronsmartvision.com/network-poe-switch/ultra-poe-switches/1-4-port-poe-switch
+- **已抓子页**：[PoE Switch Manufacturer India / Vintron / PoE Switch Manufac](https://www.vintronsmartvision.com/network-poe-switch)；[Diamond 6K PoE Switch India / Vintron / Diamond 6K PoE Switc](https://www.vintronsmartvision.com/gold-poe-switches)；[Gold Series PoE Switch India / Vintron / Gold Series PoE Swi](https://www.vintronsmartvision.com/ultra-poe-switches)；[Ultra Series PoE Switch India / Vintron / Ultra Series PoE S](https://www.vintronsmartvision.com/premium-poe-switches)；[CCTV Product List India / Vintron / CCTV Product List India ](https://www.vintronsmartvision.com/product-catalogue.html)；[Vintron](https://www.vintronsmartvision.com/ip-old-products)
+- 首页正文摘录：MENU lead@vintronsmartvision.com +91 9310004688 Home About Us Company Profile Manufacturing Facility Certifications Products Media Converter Media Converters Extender Extenders NETWORK POE SWITCH PREMIUM POE SWITCHES ULTRA POE SWITCHES GOLD POE SWITCHES DIAMOND 6K SERIES CCTV POWER SUPPLY METAL POWER SUPPLY PLASTIC POWER SUPPLY AHD CAMERA Audio Over Coaxial Camera (AOC) WARM LIGHT CAMERA DVR SERIES 5MP REGULAR DVR 2M
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 15、PoE 210 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-121.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

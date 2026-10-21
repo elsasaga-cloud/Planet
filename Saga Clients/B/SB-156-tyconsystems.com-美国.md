@@ -22,7 +22,7 @@ last_contact: 2025-10-25
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-03-19 → 2025-10-25）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-156.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.tyconsystems.com/　语言：en-US　站点地图 URL 数：507
+- **标题**：Remote Solar Power, Mobile Surveillance Trailers & PoE Systems / Tycon Systems
+- **描述**：Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.
+- **首页栏目**：Remote Power and Connectivity Solutions for Critical Off-Grid Applications / Remote Solar Power & UPS Systems / Mobile Solar Trailers / PoE and Network Power / Current Featured Products / UPL12-100-300LE / UPSTL12-100-300LE / UPS12-50-300LE
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 407、switch 66、wireless 17、surveillance 15、industrial 12、gigabit 12、camera 11、ethernet 10、cable 9、10g 8、sfp 7、wifi 7
+- **站内型号串**（正则抽取，含非交换机）：TPDIN-SC48-20, TP-SW5G-D, TP-DCDC-1224, TP-DCDC-1248, TP-DCDC-1224G, TP-DCDC-2456GD-BT, TP-DCDC-1248D, POE-SPLT-4812G-P, TP-DCDC-1248GD-HP, TP-POE-HP-48G-RC, TP-DCDC-2448GD-HP, POE-SPLT-4824G-P
+- **站内公开邮箱**：sales@tyconsystems.com
+- **站内公开电话**：+1.801.432.0003
+- **社媒**：https://twitter.com/TyconSys, https://www.facebook.com/tyconsystems/, https://www.instagram.com/tyconsystems/, https://www.linkedin.com/company/tycon-systems-inc-/, https://www.youtube.com/@TyconsystemsHQ
+- **产品类页面**：https://www.tyconsystems.com/categories/poe-switches/6026428000002821090；https://www.tyconsystems.com/categories/managed-poe-switches/6026428000002821102；https://www.tyconsystems.com/categories/un-managed-poe-switches/6026428000002821096；https://www.tyconsystems.com/products/poe-ext-gd-hp/6026428000003327801；https://www.tyconsystems.com/products/tp-poe-24g-12w/6026428000002915747；https://www.tyconsystems.com/products/poe-conv-4824g/6026428000003665625
+- **已抓子页**：[Industrial PoE Switches / Managed, DC & 802.3bt / Tycon®](https://www.tyconsystems.com/categories/poe-switches/6026428000002821090)；[48V 20A MPPT Solar Controller + 7-Port PoE Switch / TPDIN-SC](https://www.tyconsystems.com/products/tpdin-sc48-20/6026428000003357520)；[Shop All Tycon Systems Products / Solar, PoE & Wireless](https://www.tyconsystems.com/categories/shop-all-products/6026428000053049080)；[PoE Lighting Power Solutions / Tycon Power® / Tycon Systems®](https://www.tyconsystems.com/categories/poe-lighting/6026428000002821132)；[PoE Injectors / AC, DC, Passive & 802.3bt / Tycon®](https://www.tyconsystems.com/categories/poe-injectors/6026428000002821032)；[PoE Splitters / 5V, 12V, 24V & 802.3bt / Tycon®](https://www.tyconsystems.com/categories/poe-splitters/6026428000002821114)
+- 首页正文摘录：Skip to main content View all 0 0 sales@tyconsystems.com +1.801.432.0003 Sign In Sign Up My Profile My Orders My Addresses My Wishlist My Quotes Sign Out 0 0 View all Quick Links Support Support Portal Knowledge Base System Calculators Support Request Sales Request a Quote Request a System Design Stock Status Resellers Join Our Reseller Network Customer Service Customer Service Warranty & RMA Requests Contact Us Pate
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 407 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-156.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

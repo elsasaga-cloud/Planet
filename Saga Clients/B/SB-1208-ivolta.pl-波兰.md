@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1208.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ivolta.pl/　语言：pl　站点地图 URL 数：818
+- **标题**：Systemy alarmowe i monitoringu CCTV / Sklep iVolta.pl
+- **描述**：W sklepie iVolta.pl oferujemy sprawdzone systemy alarmowe i monitoringu CCTV, jak również kompleksowe urządzenia pozwalające na zabezpieczenie mienia.
+- **首页栏目**：Systemy alarmowe i monitoringu CCTV / Autonomiczna czujka dymu SDA-250 SATEL / Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL / Głośnik sufitowy IPS301015-S UNIVIEW / Moduł podstawowy z 20 czujnikami – odstęp 2,5 m TORSUS COMPACT 50 DEA / Akademia zabezpieczeń – szkolenia / SATEL BE WAVE: Poznaj nowe centrale alarmowe HYBRID i WIRE - Rzeszów / Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 76、nvr 25、uniview 15、cctv 14、dahua 12、poe 10、tp-link 3、integrator 2、switch 1、ethernet 1、camera 1
+- **站内出现的品牌**：Hikvision, Uniview, Dahua, Ajax, Bosch　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-2CD20123G2-LIUY, DS-2CD1047G3-LIU, NEMA-4X, IP-64, SO-MF2, INT-TSH210, IPC-HDW3849H-ZAS-PV-PRO, DS-1275ZJ-SUS, DS-1280ZJ-XS, DS-7104NI-Q1, DS-7108NI-Q1, DS-7604NXI-K1
+- **站内公开邮箱**：hsrc@hikvision.com, info.pl@hikvision.com, kontakt@ivolta.pl, volta@volta.com.pl
+- **站内公开电话**：007-2013 2014-2026
+- **社媒**：https://pl.linkedin.com/company/volta-sp.-z-o.o./, https://www.facebook.com/voltapolska?ref=hl, https://www.youtube.com/user/VoltaCCTV/
+- **产品类页面**：https://ivolta.pl/Multiswitche/761/produkty/；https://ivolta.pl/Inne/644/produkty/；https://ivolta.pl/Inne/769/produkty/；https://ivolta.pl/Inne/732/produkty/；https://ivolta.pl/ROP-y/282/produkty/；https://ivolta.pl/prox/1046/produkty/
+- **已抓子页**：[Kontakt / Sklep iVolta.pl](https://ivolta.pl/contact/)；[Kamera IP 4Mpix ColorVu 3.0 IR+LED 30m 2.8mm mikr DS-2CD1047](https://ivolta.pl/ds-2cd1047g3-liu-2-8mm-kamera-ip-4mpix-colorvu-3-0-ir-led-30m-2-8mm-mikr/53679/produkt/)；[Kamera IP 12Mpix AcuSense IP67, IR+LED 40m 2.8mm DS-2CD20123](https://ivolta.pl/ds-2cd20123g2-liuy-sl-2-8mm-kamera-ip-12mpix-acusense-ip67-ir-led-40m-2-8mm/53705/produkt/)；[Porównywarka produktów / Sklep iVolta.pl](https://ivolta.pl/compare/)；[Sklep iVolta.pl](https://ivolta.pl/aktualnosci/)；[Monitoring / Sklep iVolta.pl](https://ivolta.pl/monitoring/940/produkty/)
+- 首页正文摘录：Logowanie × 22 295 06 06 Pon. - Pt. 8:00 - 16:00 kontakt@ivolta.pl PL PL PLN PLN EUR USD Logowanie W przypadku logowania klientów indywidualnych (nie B2B) jako login prosimy podać adres e-mail. Login * Hasło * Zaloguj się Nie posiadam konta, zarejestruj się! Zapomniałem hasła Zapomniałem loginu (Tylko klienci B2B) Porównywarka produktów 0,00 zł MENU Szukaj PL PLN Język: PL Waluta: PLN EUR USD W przypadku logowania kl
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 10、监控 40 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1208.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

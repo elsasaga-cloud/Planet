@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1159.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://avnordic.se/　语言：sv-SE　站点地图 URL 数：1032
+- **标题**：B2B-grossist för Kameraövervakning, Nätverk & Ljud / AV Nordic
+- **描述**：AV Nordic – grossist av professionella system inom säkerhet, nätverk och ljud för företag, installatörer och återförsäljare.
+- **首页栏目**：Kategorier / Våra favoriter / IP Smart Multi-Sensor, Vape Detektor & Luftkvalitetsmätare / Cvedia-RT Basic Analytics one camera license / LB ZL 100, Vit / LB S 2 T, Vit / LB DE Plan 400 / IPC MS-C5321-FPE, Multiriktad kamera, 4x5MP, IK10, IP66, AI
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 58、poe 58、uniview 17、gigabit 15、nvr 15、sfp 14、wireless 9、wifi 7、cctv 2、ethernet 1、camera 1、installer 1
+- **站内出现的品牌**：Uniview, Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, DVB-T-T2-C-S-S2-IP, IPC3232LR3, IPC32X, IPC36, PCMS328GF, IT83A, TR-JB04-C-IN, MS-WS30P, HC121, TS8CR-Z, TR-JB03-G-IN
+- **站内公开邮箱**：info@avnordic.se
+- **社媒**：http://www.facebook.com/avnordic, https://www.linkedin.com/company/31406093
+- **产品类页面**：https://avnordic.se/produkt/kvm-switch-for-usb-dp-m-m/；https://avnordic.se/produkt/itach-ip2sl/；https://avnordic.se/produkt/itach-wf2cc/；https://avnordic.se/produkt/itach-wf2sl/；https://avnordic.se/produkt/itach-gc-ire/；https://avnordic.se/produkt/masthuv-35mm/
+- **已抓子页**：[Wi-Tek PCMS328GF 28-ports Cloud Managed Gigabit-switch, 24xP](https://avnordic.se/produkt/wi-tek-pcms328gf-28-ports-cloud-managed-gigabit-switch-24xpoe-2xsfp-2xcombo/)；[Milesight MS-WS30P POE-matad hornhögtalare 30W, mic - AV Nor](https://avnordic.se/produkt/poe-matad-hornhogtalare-30w-mic/)；[Akuvox E12W porttelefon med POE, WiFi, video, RFID, relä, wi](https://avnordic.se/produkt/akuvox-e12w-porttelefon-med-poe-wifi-video-rfid-rela-wiegand-ip65/)；[Akuvox X915S porttelefon med POE, video, 8" display, RFID, r](https://avnordic.se/produkt/akuvox-x915s-porttelefon-med-poe-video-8-display-rfid-rela-wiegand-ip65-ik10/)；[Varumärken - AV Nordic](https://avnordic.se/produktkategori/varumarken/)；[Kameraövervakning - AV Nordic](https://avnordic.se/produktkategori/kameraovervakning/)
+- 首页正文摘录：Hej, vad söker du efter? × Menu Nyheter Kameraövervakning Nätverk Passage Ljud Bild Installationsmaterial Varumärken close Sök ÅF-login Nyheter Kameraövervakning Nätverk Passage Ljud Bild Installationsmaterial Varumärken Stäng Hej, vad söker du efter? × AV Nordic erbjuder professionella lösningar för kameraövervakning, nätverk och ljud Vi specialiserar oss på att leverera högkvalitativa system för säkerhet, passersys
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 58、监控 18 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1159.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +153,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

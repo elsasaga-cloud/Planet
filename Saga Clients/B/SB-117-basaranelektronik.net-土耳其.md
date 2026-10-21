@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -89,6 +89,19 @@ updated: 2026-10-21
 - **风险/边界**：微型、单量小；需求未表达；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）
 - **邮件切入句（英文）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://basaranelektronik.net/　语言：en　站点地图 URL 数：0
+- **标题**：Başaran Elektronik - Kamera Sistemleri - Alarm ve Güvenlik Sistemleri
+- **描述**：Edremit Körfezine hizmet veren firmamız Güvenlik Kamera sistemleri, Güvenlik ve Alarm Sistemleri konusunda uzman personelimiz ile siz değerli müşterilerimize hizmet vermektedir.
+- **首页栏目**：BAŞARAN ELEKTRONİK / HİZMETLERİMİZ / HİZMET BÖLGELERİMİZ / BALIKESİR / AYVALIK / GÖMEÇ / BURHANİYE / EDREMİT
+- **站内型号串**（正则抽取，含非交换机）：VG-250-DF, XVR5104, HAC-HFW2401EP, VG-250-BF, QX-5142FH-IP, QX-5342FH-IP, QX-5042FH-IP, QX-5303BD-IP, IPC-HDW1230SP-0280B, LC-100
+- **站内公开邮箱**：info@basaranelektronik.net
+- **社媒**：http://linkedin.com, https://twitter.com/, https://www.facebook.com/basaranelektronikgomec, https://www.instagram.com/basaranelektronikgomec/, https://www.youtube.com/
+- **已抓子页**：[Başaran Elektronik - Kamera Sistemleri - Alarm ve Güvenlik S](https://basaranelektronik.net/urunler)；[XVR5104 HE / Başaran Elektronik](https://basaranelektronik.net/urunler-xvr5104-he-17)；[HAC-HFW2401EP / Başaran Elektronik](https://basaranelektronik.net/urunler-hac-hfw2401ep-14)；[DSC ALARM SETİ / Başaran Elektronik](https://basaranelektronik.net/urunler-dsc-alarm-seti-20)；[VGuard - VG-250-BF / Başaran Elektronik](https://basaranelektronik.net/urunler-vguard-vg-250-bf-15)；[VGuard - VG-250-DF / Başaran Elektronik](https://basaranelektronik.net/urunler-vguard-vg-250-df-16)
+- 首页正文摘录：Lütfen Bekleyin... 0 (542) 744 96 95 info@basaranelektronik.net Anasayfa Kurumsal Hakkimizda Belgelerimiz Projelerimiz Ürünler S.S.S Hizmet Bölgelerimiz Bize Ulaşın BAŞARAN ELEKTRONİK Bizimle Güvendesiniz Bize Ulasın BAŞARAN ELEKTRONİK Kurumsal cözümlerinizin tek adresi Bize Ulasın BAŞARAN ELEKTRONİK Siz hayal edin biz gerçekleştirelim. Güvenlik Kamerası Sistemleri Ev veya iş yeriniz için ihtiyaç duyduğunuz kamera gü
+- 数据文件：`data/saga_clients/site_snapshots/SB-117.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

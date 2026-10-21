@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1223.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.norteh.com/　语言：en-US　站点地图 URL 数：3576
+- **标题**：CCTV Cameras & Security Equipment Online / Norteh
+- **描述**：Discover security cameras, alarm systems, video surveillance and access control solutions at Norteh.com. Quality security equipment at competitive prices
+- **首页栏目**：SURVEILLANCE CAMERAS / Camera kits / Video recorders / Alarm systems / Intercoms / Network equipment / Access control / Cables
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 712、cable 539、wireless 156、switch 138、poe 124、wifi 102、dahua 60、hikvision 54、access control 46、surveillance 43、nvr 41、automation 29
+- **站内型号串**（正则抽取，含非交换机）：RJ-11, LT100009310917, DS-2CD1043G2-LIU, BMSCFG200, BMSCFG400, BMSCKL5RC-DG, RJ-45, CMSBFG400, CMSBKL5RC-DG, DS-PDMCS-EG2-WE, DS-PKF1-WE, BMSCTHC500FKE-A
+- **站内公开邮箱**：info@norteh.com
+- **站内公开电话**：+37066377000, 00009310917
+- **产品类页面**：https://www.norteh.com/products.xml?locale=EN&amp;offset=0&amp;limit=2000；https://www.norteh.com/products.xml?locale=IT&amp;offset=0&amp;limit=2000；https://www.norteh.com/products.xml?locale=DE&amp;offset=0&amp;limit=2000；https://www.norteh.com/products.xml?locale=DK&amp;offset=0&amp;limit=2000；https://www.norteh.com/products.xml?locale=ES&amp;offset=0&amp;limit=2000；https://www.norteh.com/products.xml?locale=FI&amp;offset=0&amp;limit=2000
+- **已抓子页**：[Industrial monitors / Monitors / Catalog / Security Cameras,](https://www.norteh.com/catalog/monitors/industrial-monitors)；[Catalog / Security Cameras, Alarm Systems & Security Solutio](https://www.norteh.com/catalog)；[Cameras / Catalog / Security Cameras, Alarm Systems & Securi](https://www.norteh.com/catalog/cameras)；[Camera Kits / Catalog / Security Cameras, Alarm Systems & Se](https://www.norteh.com/catalog/camera-kits)；[IP cameras / Cameras / Catalog / Security Cameras, Alarm Sys](https://www.norteh.com/catalog/cameras/ip-cameras)；[HD Cameras / Cameras / Catalog / Security Cameras, Alarm Sys](https://www.norteh.com/catalog/cameras/hd-cameras)
+- 首页正文摘录：EN IT DE DK ES FI FR NO PT SE Login Compare goods ( 0 ) Login EN IT DE DK ES FI FR NO PT SE Your cart Cart is empty. Cart To get free delivery spend additional 299 € VAT incl. Cart is empty. Close Fast delivery in Europe! Contact us PRODUCT CATALOG Cameras Cameras IP Cameras WIFI cameras AHD cameras HD-CVI cameras HD-TVI cameras Analog cameras PTZ cameras Hidden cameras GSM cameras Hunter cameras Thermal cameras Numb
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 23、PoE 124 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1223.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

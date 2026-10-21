@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1180.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dolphin.com.bd/　语言：en-US　站点地图 URL 数：3808
+- **标题**：Home / Dolphin Computers Limited
+- **首页栏目**：Featured Categories / Top Products Categories / Best Offer / Featured Products / ​Best Selling Products / Discounted Products / Trending Products / Trusted By
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 243、cable 76、tp-link 53、wireless 47、hikvision 26、cctv 23、switch 17、media converter 16、nvr 16、dahua 12、wifi 11、gigabit 6
+- **站内型号串**（正则抽取，含非交换机）：WIN-11, UX363EA, SE2219HX, EP-325, MG07ACA, GA-H81M-DS2, MK220, EX215-22-A789, AC750, V14-FHD, X515JA-1035G1, UX425EA
+- **社媒**：https://www.facebook.com/dolphincomputersltd1, https://www.instagram.com/dolphincomputersltd/, https://www.linkedin.com/in/dolphin-computers-ltd/, https://www.youtube.com/@dolphincomputersltd/videos, https://x.com/DolphinCompute5
+- **产品类页面**：https://www.dolphin.com.bd/shop/category/store-5674；https://www.dolphin.com.bd/shop/category/laptop-5655；https://www.dolphin.com.bd/shop/category/gaming-5659；https://www.dolphin.com.bd/shop/category/camera-5667；https://www.dolphin.com.bd/shop/category/tablet-5673；https://www.dolphin.com.bd/shop/category/desktop-5656
+- **已抓子页**：[Shop / Dolphin Computers Limited](https://www.dolphin.com.bd/shop/category/security-system-network-switch-7571)；[Theme Prime: All Brands / Dolphin Computers Limited](https://www.dolphin.com.bd/shop/all-brands)；[Shop / Dolphin Computers Limited](https://www.dolphin.com.bd/shop/category/laptop-all-laptop-dcl-8672)；[Shop / Dolphin Computers Limited](https://www.dolphin.com.bd/shop/category/security-system-network-7567)；[Shop / Dolphin Computers Limited](https://www.dolphin.com.bd/shop/category/gaming-gaming-network-router-7530)；[Shop / Dolphin Computers Limited](https://www.dolphin.com.bd/shop/category/security-system-cctv-package-9846)
+- 首页正文摘录：Login • Register Shop By Categories Shop Laptop All Laptop HP Accessories Desktop Desktop PC Desktop Component Server Server Component Desktop Accessories Storage Monitor All Monitor Monitor Accessories POS Terminal Gaming Gaming Component Gaming Laptop Gaming Desktop PC Gaming Desktop Component Gaming Monitor Sound System Gaming Network Router Accessories Cable, Converter, HUB Bluetooth Adapter Electrical Power Prem
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 5、交换机 17 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1180.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

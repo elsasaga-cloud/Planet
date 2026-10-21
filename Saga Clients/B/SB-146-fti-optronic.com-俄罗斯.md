@@ -1,4 +1,5 @@
 # fti-optronic.com
+**官方名称（调研核实）**：ФТИ-Оптроник（FTI-Optronic，АО/ООО，圣彼得堡；fti-optronic.com）
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-146`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-146
 rating: B
 rating_auto: B
+name_official: "ФТИ-Оптроник（FTI-Optronic，АО/ООО，圣彼得堡；fti-optronic.com）"
 score: 50
 country: 俄罗斯
 region: 俄语区
@@ -19,22 +21,22 @@ replies: 1
 followups: 18
 first_contact: 2024-04-26
 last_contact: 2025-10-23
-p1: STI-110GE
-price_tier: 20%
-research: pending
-site_snapshot: none
+p1: STI-050GE
+price_tier: 30%
+research: done
+site_snapshot: unreachable  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯的经销/集成（类型待核）；兴趣/在卖：MC SFP 机架
+- **是谁**：俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。（调研 2026-10-21；表内兴趣：MC SFP 机架）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 18 次（2024-04-26 → 2025-10-23）；最近一次客户回复：2024-04-26：有兴趣
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推；$18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,55 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-146.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（搜索可见；快照 2026-10-21 unreachable——俄站对境外 IP 限制）
+- **是谁**：俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。
+- **【第三方】制造商定位**
+  > На сегодняшний день производит: Оптические трансиверы форм-факторов 1х9, SFP, SFP+ 10g, SFP xPON, XFP 10g, SFP CWDM и DWDM, QSFP 40g, CFP 100g, GBIC, X2; Медиаконвертеры оптические, конвертерные шасси… Санкт-Петербург, улица Политехническая, дом 28
+  > 来源：https://www.oborudunion.ru/company/4245169/（抓取 2026-10-21）
+- **【官网】自述**
+  > Мы производим оптические модули форм-факторов 1×9, SFP, SFP+ 10g, SFP xPON, XFP 10g, SFP CWDM и DWDM, QSFP 40g, CFP 100g, GBIC, X2
+  > 来源：https://www.fti-optronic.com/about_company/（抓取 2026-10-21）
+- **【官网】联系方式**
+  > Телефон: (812) 448-08-60; E-mail: info@fti-optronic.com; Адрес: 194021, Россия, г. Санкт-Петербург, ул. Политехническая, д.28
+  > 来源：https://www.fti-optronic.com/contacts/（抓取 2026-10-21）
+- **【第三方】登记**
+  > АО «ФТИ-Оптроник» ИНН 7802059121, КПП 780201001, ОГРН 1037804018911 … ОКВЭД: 46.69.5
+  > 来源：https://saby.ru/profile/7802059121-780201001（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对 · 同行品牌/OEM 判断））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | АО «ФТИ-Оптроник»（ИНН 7802059121）/ ООО «ФТИ-Оптроник»（ИНН 7802830545） |
+| 成立 | АО：2003（ОГРН 1037804018911） |
+| 总部/地址 | 194064 Санкт-Петербург, ул. Политехническая, д. 28, лит. А；(812) 448-08-60；info@fti-optronic.com |
+| 其他 | ОКВЭД 46.69.5 批发；自产光模块全形态 + 媒体转换器 + 机箱 + 固态激光器；有工业 MC 产品线（MCSFP2-10/100/1000-IT） |
+
+- **业务线**：光模块制造（SFP/SFP+/XFP/QSFP/CFP、CWDM/DWDM、xPON）；光纤媒体转换器与转换器机箱（含工业级）；固态激光器等光电产品
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ФТИ-Оптроник（自产） | MCSFP2-10/100/1000 / MCSFP2-10/100/1000-IT | SFP 千兆媒体转换器（1,310–1,454 ₽）/ 工业版（~8,005–8,961 ₽） | MC 与 STI-110GE 直接重叠（同行）；交换机为其空白品类 → 5/8 口非管理工业款可贴牌 | https://www.fti-optronic.com/catalog/konvertery-pod-sfp/sfp-mediakonverter-10-100-1000-mcsfp2-10-100-1000/（2026-10-21） |
+
+- **触达通道（公开）**：official: info@fti-optronic.com；8 (800) 333-04-94 / (812) 448-08-60；contact: （表内仅 info@；WA 已加，号码未记）
+- **近况信号**：
+  - 2024-04 对 5 电口非管理交换机回「有兴趣」（补品类）
+- **风险/边界**：同行：MC/SFP 不要推（其自产）；对俄供货合规/结算风险（用户自判）；品牌商要求贴牌、固件与包装定制
+- **Saga 对位结论**：P1 STI-050GE（30% 档）——其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推
+- **邮件切入句（英文）**：Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：fti-optronic.com
+  > https://fti-optronic.com/ conn: HTTPSConnectionPool(host='fti-optronic.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("
+  > https://www.fti-optronic.com/ conn: HTTPSConnectionPool(host='www.fti-optronic.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionErr
+  > http://fti-optronic.com/ conn: HTTPConnectionPool(host='fti-optronic.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HT
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SB-146.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -111,20 +161,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-050GE | 深挖对位：其唯一正向回复为 5 电口工业非管理款 → STI-050GE（$17.0–18.5）做贴牌样机；MC/SFP 不推 | $18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-050GE），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-050GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -132,7 +182,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：无具名决策人，仍是公司级触达；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-050GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -157,30 +207,26 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

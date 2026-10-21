@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1241.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.setik.biz/en/　语言：en　站点地图 URL 数：6275
+- **标题**：CCTV Cameras, Alarm Systems and Security Kits / Setik - Setik.biz
+- **描述**：Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik.
+- **首页栏目**：Setik.biz / Aggiunta al Carrello
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 150、switch 122、surveillance 99、dahua 96、camera 85、gigabit 55、cable 51、hikvision 49、access control 41、tp-link 32、ethernet 23、installer 19
+- **站内出现的品牌**：Dahua, Hikvision, Ajax, ZKTeco, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ES210GMP, IEEE802, IT09729650961, DS-KIS604-S, DS-3E0105-O, TL-PD30G-M2, PFS3008-8GT-V2, ES205G, ES208G, CS4006-4GT, CS4005-4ET1GT-36, CS4006-4ET2GT-36
+- **站内公开邮箱**：your@email.com
+- **站内公开电话**：+39 0362 1855440, +3903621855440
+- **社媒**：https://www.facebook.com/setik.biz, https://www.instagram.com/setikofficial/, https://www.youtube.com/user/setikBIZ
+- **产品类页面**：https://www.setik.biz/en/698-switch；https://www.setik.biz/fr/698-switch；https://www.setik.biz/it/698-switch；https://www.setik.biz/es/698-switch；https://www.setik.biz/de/698-switch；https://www.setik.biz/en/671-switches
+- **已抓子页**：[ES210GMP - TP-Link ES210GMP Switch with 10 Gigabit Ports wit](https://www.setik.biz/en/networking/11464-omada-es210gmp-tp-link-omada-es210gmp-switch-with-10-gigabit-ports-with-8-poe-ports-easy-managed.html)；[Switch - Setik.biz](https://www.setik.biz/en/698-switch)；[Switches - Setik.biz](https://www.setik.biz/en/671-switches)；[Accessori PoE - Setik.biz](https://www.setik.biz/en/762-accessori-poe)；[New products - Setik.biz](https://www.setik.biz/en/696-new-products)；[Security and CCTV Brands / Setik - Setik.biz](https://www.setik.biz/en/brands)
+- 首页正文摘录： Menu VIDEO SURVEILLANCE   Surveillance Kit Recording Devices Cameras Dashcam BURGLAR ALARMS   Complete Kit Control panels Sensors Fog Cannons   Fog Cannons Accessories Accessories burglar   Battery Cables Sirens Proximity Tag Keypad Modules Other Accessories Accessories Sensors Demo Case Spare parts VIDEO DOORPHONES   Video Door-Phones Kits IP Video Door-Phones Double-wire Video Door Phone WIFI VIDEO DOOR
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 150 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1241.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

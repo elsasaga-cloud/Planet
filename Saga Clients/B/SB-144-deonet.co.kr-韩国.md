@@ -22,7 +22,7 @@ last_contact: 2025-11-03
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 23 次（2024-05-07 → 2025-11-03）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,17 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-144.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.deonet.co.kr/　语言：ko　站点地图 URL 数：0
+- **标题**：ëì¤ë·
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 21、poe 18、sfp 9、ethernet 9、gigabit 9、10g 5、2.5g 3、wireless 1、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, AP1200, SM2824M, GNT245, SM213, SM5124, SB3008, GNT3520, SM2824P, SM2824G, SM2724F, GNT2100
+- **已抓子页**：[ëì¤ë·](https://www.deonet.co.kr/product/01_new/?cate01=2)；[ëì¤ë·](https://www.deonet.co.kr/product/01/)；[ëì¤ë·](https://www.deonet.co.kr/product/02/)；[ëì¤ë·](https://www.deonet.co.kr/product/05/)；[ëì¤ë·](https://www.deonet.co.kr/product/03/)；[ëì¤ë·](https://www.deonet.co.kr/product/04/)
+- 首页正文摘录：ì£¼ ë©ë´ ë°ë¡ê°ê¸° ë³¸ë¬¸ ë°ë¡ê°ê¸° íì¬ìê° ì¸ì¬ë§ ì¡°ì§ë ì°í ì¤ìëê¸¸ ì¸ì¬ì ë ESG ì¤ë¦¬ê²½ì íì§ê²½ì íê²½ê²½ì ì ë¬¸ê³ ì íìê° PON system CPE Multiplexer Network Switch Wi-Fi (AP) ì¨ë¼ì¸ ë¬¸ì ê³ ê°ì§ì ìë£ì¤ ê³µì§ì¬í­ ê¸ë¡ë² ì°êµ¬ê°ë° ì ë¬¸ë²¤ì²ê¸°ì ì¼ë¡ ìë¡ì´ ëì½ì íê² ìµëë¤. ëì¤ë·ì íìí ê¸°ì ë ¥ê³¼ ìì ë íì§ë¡
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 8、交换机 21 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-144.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -175,7 +186,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

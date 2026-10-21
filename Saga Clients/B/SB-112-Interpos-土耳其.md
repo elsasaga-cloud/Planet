@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-028GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -90,6 +90,14 @@ updated: 2026-10-21
 - **风险/边界**：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进
 - **Saga 对位结论**：P1 STC-028GP（20% 档）——配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）
 - **邮件切入句（英文）**：Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch liste fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://inter-pos.com/　语言：en　站点地图 URL 数：0
+- **标题**：We’re Revamping Our Website – Designed for a Smarter Experience
+- **首页栏目**：We’re Revamping Our Website – Designed for a Smarter Experience / Get in Touch
+- 首页正文摘录：We’re Revamping Our Website – Designed for a Smarter Experience To provide you with better service, we are revamping our website with updated content and enhanced usability. We're simplifying technical documentation, streamlining product access and optimizing mobile responsiveness. With our new layout: • You'll reach in-demand product categories more easily. • Discover content aligned with global trade standards. • E
+- 数据文件：`data/saga_clients/site_snapshots/SB-112.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

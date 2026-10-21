@@ -1,8 +1,8 @@
 {
  "code": "SA-107",
- "name_official": "4Demand Co（阿联酋）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "阿联酋 IT 贸易商，WA 在线，2 次回复、18 次跟进；需求为 Cisco SFP-10G-LR 光模块 25 只。",
+ "name_official": "4Demand Ltd（英国公司号 14564199，伦敦；迪拜采购联系人）",
+ "website_status": "在线（快照 2026-10-21 unreachable，搜索结果显示 2026-01 页面仍更新）",
+ "summary": "4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。",
  "type": "IT 贸易商",
  "size": "待补证",
  "brands_seen": [
@@ -15,6 +15,41 @@
    "quote": "Cisco SFP-10G-LR 25个；971 55 964 5463 已加（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "公司注册",
+   "quote": "4Demand Ltd … registration number 14564199, established on December 30, 2022… registered address is 227 Nether Street, London, N3 1NT",
+   "url": "https://immigrationgpt.co.uk/company/4demand-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "规模与董事",
+   "quote": "Micro · Turnover is under £1M · Under 10 employees … Mr Mohsen Tavakoli Zaniani PSC • Director",
+   "url": "https://open.endole.co.uk/insight/company/14564199-4demand-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务自述",
+   "quote": "4Demand is a London-based technology services company providing professional IT support, security systems, and smart technology solutions… IT services, equipment supply and maintenance, network implementation, CCTV and alarm systems",
+   "url": "https://www.4demand.co.uk/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "波斯湾背景",
+   "quote": "4Demand is a Holding Company that has emerged from the consolidation of several thriving enterprises… in the Persian Gulf region",
+   "url": "https://uk.tradeford.com/gb1064053/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "需求与回复",
+   "quote": "Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -24,10 +59,70 @@
    "email": "",
    "phone": "+971 55 964 5463（WA）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Mr. Ari",
+   "role": "采购（表内）",
+   "email": "procurement@4demand.co.uk",
+   "phone": "+971 55 964 5463（WA 已加）",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Mohsen Tavakoli Zaniani",
+   "role": "Director / PSC",
+   "email": "",
+   "phone": "",
+   "source": "Companies House（经 Endole）"
   }
  ],
  "grade_override": "B",
  "override_reason": "需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。",
  "notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（Companies House + 官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "4DEMAND LTD（Company No. 14564199）",
+  "founded": "2022-12-30",
+  "hq": "227 Nether Street, London N3 1NT（另见 Flat 62 North End Road, London W14 9EP）；020 3576 1986",
+  "size": "Micro：<10 人，营业额 <£1M（Endole，2024 年报）",
+  "other": "SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质"
+ },
+ "business_lines": [
+  "IT 支持与设备供应/维护",
+  "CCTV、报警与智能楼宇",
+  "进出口贸易（设备采购、国际运输）",
+  "网站/软件与电商 API"
+ ],
+ "products_seen": [
+  {
+   "brand": "Cisco",
+   "model": "SFP-10G-LR",
+   "spec": "10G 单模 SFP+（表内询 25 只）",
+   "saga": "Saga 价目无光模块（Q-32）；交换机侧可配 STC-424XGGM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "official": "4demand.co.uk/contact-us",
+  "contact": "Mr. Ari procurement@4demand.co.uk，+971 55 964 5463（WA 已加，迪拜）"
+ },
+ "signals": [
+  "2024-04 询 25 只 10G SFP+（项目补料）",
+  "2024-08 问 2 光 4 小机，2025-11 收 28 PoE 报价未回"
+ ],
+ "risks": [
+  "微型贸易公司，付款能力与项目真实性待核",
+  "主要询价为思科原厂光模块（Saga 不供）",
+  "表内国别「阿联酋」= 联系人所在地；法人在英国"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询"
+ },
+ "email_hook": "Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?"
 }

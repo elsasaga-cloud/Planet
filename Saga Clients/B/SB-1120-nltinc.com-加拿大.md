@@ -22,7 +22,7 @@ last_contact: 2025-10-16
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-15 → 2025-10-16）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1120.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://nltinc.com/　语言：en-CA　站点地图 URL 数：66
+- **标题**：Northern Light Technologies - Global Cap Lamp Innovation & Design
+- **描述**：Award-winning cap lamp technology, including the world’s most popular “all-in-one” Polaris.
+- **首页栏目**：Cap Lamps / Charging Lockers / Lighting Solutions / Networks / Cameras / Masks / Respirators / Lighting the Way with Advanced Underground Technologies / Latest Updates / NLT Celebrates 40 Years of Cap Lamp Innovation
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 7、distributor 3、automation 2、fiber 2、ethernet 2、cctv 2、cable 2
+- **站内公开邮箱**：info@nltchile.cl, info@nltdigital.com, info@nltinc.com
+- **站内公开电话**：+61 7 5495 2944, +61 7 5495 2966
+- **社媒**：https://twitter.com/intent/tweet?text=NLT%20Networks&url=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F, https://www.facebook.com/NLTLightingSolutions, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F, https://www.instagram.com/northern.light.technologies/, https://www.linkedin.com/company/nlt-lighting-solutions/?viewAsMember=true, https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fnltinc.com%2Fnlt-networks%2F
+- **已抓子页**：[About Us - Northern Light Technologies](https://nltinc.com/about-us/)；[Contact Us - Northern Light Technologies](https://nltinc.com/contact-us/)；[NLT Networks - Northern Light Technologies](https://nltinc.com/nlt-networks/)；[NLT Careers - Northern Light Technologies](https://nltinc.com/about-us/nlt-careers/)；[Lighting Solutions - Northern Light Technologies](https://nltinc.com/lighting-solutions/)
+- 首页正文摘录：Skip to main content Hit enter to search or ESC to close Close Search search Lamp Navigation Home Cap Lamps Lighting Solutions Networks Resources About Us NLT Careers Contact Us facebook linkedin Where To Buy search The culmination of 40+ years of NLT lighting innovation Explore the Aries Aries—the World’s Lightest, Brightest and Most Versatile Cap Lamp Track, detect and communicate underground Explore the Aries Flex
+- 数据文件：`data/saga_clients/site_snapshots/SB-1120.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +162,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

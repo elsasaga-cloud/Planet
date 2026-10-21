@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1177.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://danbit.dk/da/　语言：da　站点地图 URL 数：0
+- **标题**：Danbit - Leverandør af IT-produkter til professionelle
+- **描述**：DANBIT A/S er en danskejet teknologileverandør, der siden 1970 har været den foretrukne leverandør af specialvarer til professionelle.
+- **首页栏目**：Teknisk ekspertise og projektkompetencer / 32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål / Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE / Erfaring & ekspertise / Kvalitetsprodukter / Skræddersyede løsning / Pålidelig support / Udvalgte produkter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 87、poe 74、sfp 44、ethernet 30、fiber 27、10g 20、wifi 14、gigabit 7、industrial 4、2.5g 4、fibre 1、ubiquiti 1
+- **站内出现的品牌**：Ubiquiti, Korenix　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485, RS-232, ESW8G-M-SFP4P, DB15HD, ESW8G-M, HDMI-MATRIX32X32-M, RS-485, RS422, EN50155, PC104, USB-KEY3
+- **站内公开邮箱**：navn@firma.dk
+- **站内公开电话**：+45 56 66 20 20
+- **社媒**：https://www.instagram.com/danbit_dk/, https://www.linkedin.com/company/danbitdk/posts/?feedView=all, https://www.youtube.com/channel/UCfyraEu7YWUXbkqYci2xaXg
+- **已抓子页**：[8 porte 10/100 / 1000Mbit RJ45, PoE ++ 2 porte 100 / 1000Mbi](https://danbit.dk/da/switche/21355-8-ports-managed-switch-rj45-poe-2-ports-100-1000mbit-og-2-ports-10gbit-sfp-slot-din-48-56vdc.html)；[Video Omskifter / Switch / danbit.dk](https://danbit.dk/da/486-video-omskifter-switch)；[Embedded PC og Industi PC ⇒ Til hårdføre miljøer - DANBIT](https://danbit.dk/da/229-embedded-pc-industri-pc-panel-pc-pos)；[Industrielle switche til DIN-skinne: sådan vælger du](https://danbit.dk/da/content/137-industrielle-switche-til-din-skinne-saadan-vaelger-du)；[X-Bar KVM Quick Keys 4-Stick USB Programmable Keypad](https://danbit.dk/da/x-keys/27741-4-key-kvm-switch-usb-macro-programmeres-i-enheden.html)；[Industristyring - I/O moduler / danbit.dk](https://danbit.dk/da/90-industristyring-digital-io-analog-io-relae-over-eth-usb-og-seriel)
+- 首页正文摘录：Velkommen til DANBIT - Dansk Binær Teknik A/S B2B – Kun handel med virksomheder Log af Min Konto Log ind eller Registrer Shopping Cart 0,00 kr Vi tager forbehold for prisændringer grundet svingende komponentpriser. Varer markeret " På vej ind " vises med vejledende pris. Selv for varer, der er " Fysisk på lager ", kan prisen ændre sig ved næste levering. Ring til os nu +45 56 66 20 20 Send os en mail [email protected
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 74 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1177.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +155,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

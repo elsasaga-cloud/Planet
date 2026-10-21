@@ -22,7 +22,7 @@ last_contact: 2025-10-21
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-04-04 → 2025-10-21）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1122.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://promwad.com/　语言：en　站点地图 URL 数：1098
+- **标题**：Embedded Software, Hardware & FPGA Engineering – Promwad
+- **描述**：Promwad is your end-to-end engineering partner for complex tech products — embedded software, hardware design, FPGA, and manufacturing. Serving OEMs and innovators in the EU and US.
+- **首页栏目**：Your Engineering Partner for Complex Tech Products / Chosen by leading OEMs and innovators worldwide / Industries We Transform / Broadcasting & Media ► / Telecom ► / Automotive & Transportation ► / Industrial & Robotics ► / What We Deliver
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 156、automation 85、switch 61、ethernet 40、telecom 37、camera 14、scada 10、oem 10、media converter 7、wireless 6、poe 3、access control 3
+- **站内型号串**（正则抽取，含非交换机）：BCP-003, AMIC110, AMIC120, APPL-2020, PCB135, VSC7558, NEURON6050, FT6050, XMC4300, XMC4800, LAN9254, LAN9253
+- **站内公开邮箱**：info@promwad.com
+- **站内公开电话**：+37052141244, +4920148790148
+- **社媒**：https://www.facebook.com/promwad.electronics, https://www.linkedin.com/company/promwad/
+- **产品类页面**：https://promwad.com/news/edge-native-zero-trust-industrial-iot；https://promwad.com/news/mixed-rtos-linux-amp-industrial-systems；https://promwad.com/services/industrial-design/manufacturing/pcb；https://promwad.com/news/time-sensitive-networking-industrial-iot；https://promwad.com/industries/industrial/ethernet-apl-10base-t1l；https://promwad.com/news/latency-budget-industrial-control-systems
+- **已抓子页**：[In-Circuit Testing Services / ICT JTAG Boundary Scan and Fun](https://promwad.com/services/industrial-design/manufacturing/in-production-testing)；[Electronic Enclosure Production Launch Services / Manufactur](https://promwad.com/services/industrial-design/enclosures/production-launch)；[Network Switch Software / Ethernet Switch Hardware Design](https://promwad.com/industries/telecom/network-switches)；[Electronics Manufacturing Services EMS / Contract Manufactur](https://promwad.com/services/industrial-design/manufacturing)；[Industrial Network Design Solutions / Industrial Communicati](https://promwad.com/industries/industrial/industrial-networks-design)；[Building Automation Network Design / Home and Building Autom](https://promwad.com/industries/industrial/building-automation-networks)
+- 首页正文摘录：Skip to main content Services Overview & Product Design Hardware Design Hardware Design PCB Layout & Schematic Design High-Speed PCB Design SI / PI / Thermal Analysis Enclosures: Industrial & Mechanical Design Nvidia Carrier Boards Design Mechatronics Design Services FPGA & SoC Design FPGA & SoC Design FPGA & SoC Projects Review FPGA for Industrial & Robotics FPGA for AI Applications FPGA for Industrial Video Process
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 171、PoE 3 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1122.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

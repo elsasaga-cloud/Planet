@@ -118,7 +118,7 @@ updated: 2026-10-21
 - **首页栏目**：Success Network and Communication Co.,Ltd. / All Products / CCTV Product / Network Switch / Network Storage / Network Security / Software / Wireless
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 28、telecom 25、switch 24、nvr 18、cctv 17、poe 15、access control 15、wireless 15、fiber 10、camera 2、wifi 2、planet 2
 - **站内型号串**（正则抽取，含非交换机）：TC-S3608, S-H24OS-IR-B, TC-R3440, TC-C32MS, ST18000NT001, T-8807AW, T-8800KEY, T-8800ZX, S-SZN1204-W, S-SZN3128B-W, S-SZN3103-W, S-SZN3142-W
-- **站内公开邮箱**：info@success-network.co.th, someone@example.com
+- **站内公开邮箱**：info@success-network.co.th
 - **社媒**：https://www.facebook.com/SuccessNetworkD, https://www.youtube.com/@success_network
 - **产品类页面**：https://www.success-network.co.th/industrial-switches/；https://www.success-network.co.th/28-port-gigabit-web-smart-poe-switch-with-10g-sfp-slots/；https://www.success-network.co.th/wi-poe90x/；https://www.success-network.co.th/utp7308ge-poe/；https://www.success-network.co.th/utp7304ge-poe/；https://www.success-network.co.th/utp7208ge-poe/
 - **已抓子页**：[สินค้าทั้งหมด (All Product) / Success Network](https://www.success-network.co.th/products/)；[Server Storage/NAS Archives / Success Network](https://www.success-network.co.th/product-category/server-storage-nas/)；[ระบบจัดเก็บข้อมูล Archives / Success Network](https://www.success-network.co.th/product-category/server-storage-nas/ระบบจัดเก็บข้อมูล/)；[เกี่ยวกับเรา (About Us) / Success Network](https://www.success-network.co.th/about-us/)；[ช่องทางติดต่อ (Contact Us) / Success Network](https://www.success-network.co.th/contact-us/)；[โซลูชัน (Solution) / Success Network](https://www.success-network.co.th/solution/)

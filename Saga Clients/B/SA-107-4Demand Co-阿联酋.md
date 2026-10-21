@@ -1,5 +1,5 @@
 # 4Demand Co
-**官方名称（调研核实）**：4Demand Co（阿联酋）
+**官方名称（调研核实）**：4Demand Ltd（英国公司号 14564199，伦敦；迪拜采购联系人）
 
 > **评级 B**　|　阿联酋　|　档案编号 `SA-107`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-107
 rating: B
 rating_auto: A
 rating_research: B  # 需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。
-name_official: "4Demand Co（阿联酋）"
+name_official: "4Demand Ltd（英国公司号 14564199，伦敦；迪拜采购联系人）"
 score: 67
 country: 阿联酋
 region: 中东
@@ -22,8 +22,8 @@ replies: 2
 followups: 18
 first_contact: 2024-04-28
 last_contact: 2025-10-27
-p1: STC-424XGGPM-280W
-price_tier: 25%
+p1: STC-28DGGPM
+price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋 IT 贸易商，WA 在线，2 次回复、18 次跟进；需求为 Cisco SFP-10G-LR 光模块 25 只。（调研 2026-10-21；表内兴趣：Cisco SFP-10G-LR 25个）
+- **是谁**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。（调研 2026-10-21；表内兴趣：Cisco SFP-10G-LR 25个）
 - **为什么是 B 级**：**调研后定级 B**（需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-11-19：1120email发了28poe
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -57,18 +57,57 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：阿联酋 IT 贸易商，WA 在线，2 次回复、18 次跟进；需求为 Cisco SFP-10G-LR 光模块 25 只。
+- **状态：已调研（2026-10-21）**　网站状态：在线（快照 2026-10-21 unreachable，搜索结果显示 2026-01 页面仍更新）
+- **是谁**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。
 - **类型**：IT 贸易商
 - **规模**：待补证
 - **在卖/在用品牌**：Cisco（需求）
 - **【用户记录】需求 Cisco SFP-10G-LR ×25；WA 已加**
   > Cisco SFP-10G-LR 25个；971 55 964 5463 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【第三方】公司注册**
+  > 4Demand Ltd … registration number 14564199, established on December 30, 2022… registered address is 227 Nether Street, London, N3 1NT
+  > 来源：https://immigrationgpt.co.uk/company/4demand-ltd（抓取 2026-10-21）
+- **【第三方】规模与董事**
+  > Micro · Turnover is under £1M · Under 10 employees … Mr Mohsen Tavakoli Zaniani PSC • Director
+  > 来源：https://open.endole.co.uk/insight/company/14564199-4demand-ltd（抓取 2026-10-21）
+- **【官网】业务自述**
+  > 4Demand is a London-based technology services company providing professional IT support, security systems, and smart technology solutions… IT services, equipment supply and maintenance, network implementation, CCTV and alarm systems
+  > 来源：https://www.4demand.co.uk/about-us/（抓取 2026-10-21）
+- **【第三方】波斯湾背景**
+  > 4Demand is a Holding Company that has emerged from the consolidation of several thriving enterprises… in the Persian Gulf region
+  > 来源：https://uk.tradeford.com/gb1064053/（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +971 55 964 5463（WA）〔用户 Clients 表〕
+- **KP**：Mr. Ari（采购（表内））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
+- **KP**：Mohsen Tavakoli Zaniani（Director / PSC） 〔Companies House（经 Endole）〕
 - **调研后定级**：B（原自动 A）——需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。
 - 备注：WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（Companies House + 官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 4DEMAND LTD（Company No. 14564199） |
+| 成立 | 2022-12-30 |
+| 总部/地址 | 227 Nether Street, London N3 1NT（另见 Flat 62 North End Road, London W14 9EP）；020 3576 1986 |
+| 其他 | SIC 46900 非专业批发 / 62012 / 62020 / 62090；董事 Mohsen Tavakoli Zaniani（1992 年生）；Tradeford 简介称源自波斯湾地区企业合并；持技术工签担保资质 |
+
+- **业务线**：IT 支持与设备供应/维护；CCTV、报警与智能楼宇；进出口贸易（设备采购、国际运输）；网站/软件与电商 API
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Cisco | SFP-10G-LR | 10G 单模 SFP+（表内询 25 只） | Saga 价目无光模块（Q-32）；交换机侧可配 STC-424XGGM | （本地 Clients/ 表格，无公开 URL）（2026-10-21） |
+
+- **触达通道（公开）**：official: 4demand.co.uk/contact-us；contact: Mr. Ari procurement@4demand.co.uk，+971 55 964 5463（WA 已加，迪拜）
+- **近况信号**：
+  - 2024-04 询 25 只 10G SFP+（项目补料）
+  - 2024-08 问 2 光 4 小机，2025-11 收 28 PoE 报价未回
+- **风险/边界**：微型贸易公司，付款能力与项目真实性待核；主要询价为思科原厂光模块（Saga 不供）；表内国别「阿联酋」= 联系人所在地；法人在英国
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询
+- **邮件切入句（英文）**：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
 
@@ -122,7 +161,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mr.Ari | — | procurement@4demand.co.uk / +971559645463 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Mr. Ari | 采购（表内） | procurement@4demand.co.uk / +971 55 964 5463（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Mohsen Tavakoli Zaniani | Director / PSC | — | 调研核实（公开页） | Companies House（经 Endole） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -138,19 +178,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 24 口 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（IT 贸易商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（IT 贸易商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -158,7 +198,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424XGGPM-280W 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Cisco：涨价、断货或交期拉长时切入；规模（调研）：待补证
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Cisco：涨价、断货或交期拉长时切入；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -187,14 +227,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Mr.Ari,
+Hi Ari,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $188.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Cisco SFP-10G-LR at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

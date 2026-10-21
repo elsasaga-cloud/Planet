@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1163.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://binarteknik.se/sv/　语言：sv　站点地图 URL 数：0
+- **标题**：Industrielektronik och automation för proffs
+- **描述**：Binär Teknik levererar industrielektronik, nätverk, PoE, fiber, industridatorer och automation till professionella användare i Sverige.
+- **首页栏目**：Teknisk expertis och projektkompetens / 27" pekskärm med hög ljusstyrka, 1000 nits, IP65, HDMI/VGA/USB-C / Wi-Fi 7 5100MBPS Dual Band Access Point, utomhus, externa antenner, PoE / Erfarenhet och expertis / Kvalitetsprodukter / Skräddarsydda lösningar / Pålitlig support / Utvalda produkter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 99、switch 63、sfp 56、10g 51、gigabit 29、fiber 23、ethernet 21、wifi 14、2.5g 2、moxa 1
+- **站内型号串**（正则抽取，含非交换机）：RS485, RS232, WLAN-AP5100BE-DU, ESW8G-M-SFP4P, DB15HD, RS-232, ESW8G-M, AX1800, DNVGL-CG-0339, IACS-E10, MATRIX32X32-M, USB-KEY3
+- **站内公开邮箱**：namn@foretag.se
+- **社媒**：https://www.instagram.com/danbit_dk/, https://www.linkedin.com/company/danbitdk/posts/?feedView=all, https://www.youtube.com/channel/UCfyraEu7YWUXbkqYci2xaXg
+- **已抓子页**：[8 portar 10/100 / 1000Mbit RJ45, PoE ++ 2 portar 100 / 1000M](https://binarteknik.se/sv/naetverksvaexlar/21355-8-portars-managed-switch-rj45-poe-2-portars-1001000mbit-och-2-portars-10gbit-sfp-kortplats-din-48-56vdc.html)；[Omskifter / Switch / binarteknik.se](https://binarteknik.se/sv/486-omskifter-switch)；[X-Bar KVM Quick Keys 4-Stick USB programmerbart tangentbord](https://binarteknik.se/sv/x-keys/27741-4-ports-kvm-switch-usb-makro-programmeras-i-enheten.html)；[Wi-Fi 7 5100MBPS Dual Band Access Point, utomhus, för 5 x ex](https://binarteknik.se/sv/industriell/26030-wi-fi-7-5100mbps-dual-band-access-point-utomhus-externa-antenner-poe.html)；[6-siffrig PoE NTP-synkroniserad LED-väggklocka](https://binarteknik.se/sv/tillbehoer/27744-ntp-synkroniserad-6-siffrig-led-vaggklocka-poe-8023afat-visar-tid-hhmmss-och-datum.html)；[Nyheter / binarteknik.se](https://binarteknik.se/sv/nya-produkter)
+- 首页正文摘录：Välkommen till Binär Teknik B2B. Vi säljer endast till företag Log af Mitt Konto Log ind eller Registrer Shopping Cart 0,00 SEK Vi reserverar oss för prisändringar på grund av rörliga komponentpriser. Varor märkta " På väg in " visas med vägledande pris. Även för varor som är " Fysiskt i lager " kan priset ändras vid nästa leverans. Ring oss nu 042 14 10 85 Skicka ett mejl till oss [email protected] SEK DKK EUR GBP N
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 53、交换机 63 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1163.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +153,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

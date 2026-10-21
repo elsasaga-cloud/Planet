@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -105,6 +105,19 @@ updated: 2026-10-21
 - **风险/边界**：机场等公共关键设施守界按个案；16 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM
 - **邮件切入句（英文）**：For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.wave-electronics.com.cy/　语言：en-US　站点地图 URL 数：10
+- **标题**：Wave Electronics
+- **描述**：Wave Electronics prioritizes customer satisfaction, technological excellence, and continuous investment in human resources and infrastructure.
+- **首页栏目**：Who we are / Featured Projects / Five football stadiums / Bank of Cyprus shops and COOP Bank shops / Fire alarm systems in all the Hospitals / Nicosia and Limassol Hospitals Automations / Larnaca International Airport / Limassol General Hospital
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：distributor 7、access control 5、cctv 3、automation 2、wireless 2、fibre 1、ethernet 1、surveillance 1、cable 1、integrator 1、installer 1
+- **站内公开邮箱**：wavesecu@spidernet.com.cy
+- **产品类页面**：https://www.wave-electronics.com.cy/products-collaborators/
+- **已抓子页**：[Products & Collaborators - Wave Electronics](https://www.wave-electronics.com.cy/products-collaborators/)；[Contact - Wave Electronics](https://www.wave-electronics.com.cy/contact/)；[The Company - Wave Electronics](https://www.wave-electronics.com.cy/the-company/)；[Bank of Cyprus shops and COOP Bank shops – Wave Electronics](https://www.wave-electronics.com.cy/projects/bank-of-cyprus-shops-and-coop-bank-shops/)
+- 首页正文摘录：Skip to content Call: 22 57 30 57 Main Menu The Company Products Projects Contact Search Specialization and professionalism in Security Systems Specialized knowledge and reliability as a Guide Experienced and qualified personnel Dedicated to customer satisfaction and peace of mind Who we are Wave Electronics is dedicated to customer absolute satisfaction, to technological superiority and to an on-going investment in 
+- 数据文件：`data/saga_clients/site_snapshots/SB-1141.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

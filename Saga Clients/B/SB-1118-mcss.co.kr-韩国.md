@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1118.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mcss.co.kr/　语言：ko　站点地图 URL 数：571
+- **标题**：엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업
+- **描述**：(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다
+- **首页栏目**：BUSINESS / 상품소개 / 구축사례 / COMMUNITY / VIDEOS / CONTACT
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 314、switch 206、ethernet 112、media converter 106、planet 71、10g 63、sfp 48、industrial 43、wifi 30、camera 29、access control 29、gigabit 14
+- **站内出现的品牌**：PLANET, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IGS-6325-8UP2S2X, UCK-G2-PLUS, TAP100, RUT976, GS-4210-8P2S, ICG-2515P-NR, USW-16-POE-KR, USW-24-POE-KR, USW-48-POE-KR, US-8-60W-KR, US-8-150W-KR, US-16-150W-KR
+- **站内公开邮箱**：sales@mcss.co.kr
+- **社媒**：https://www.facebook.com/www.mcss.co.kr/?locale=ko_KR%2F, https://www.instagram.com/mcssolution?igsh=MWpycG9ydWRuaTdreQ%3D%3D, https://www.youtube.com/@mcssolution
+- **产品类页面**：https://www.mcss.co.kr/tt_shop_switch；https://www.mcss.co.kr/usw-24-poe；https://www.mcss.co.kr/usw-16-poe；https://www.mcss.co.kr/usw-48-poe；https://www.mcss.co.kr/us-xg-6poe；https://www.mcss.co.kr/usw-e8-poe
+- **已抓子页**：[엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업](https://www.mcss.co.kr/ost_shop_switch)；[엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업](https://www.mcss.co.kr/95390242)；[엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업](https://www.mcss.co.kr/95800282)；[엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업](https://www.mcss.co.kr/ost_switch)；[엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업](https://www.mcss.co.kr/ui_shop_psw)；[엠씨에스솔루션 / 네트워크 솔루션·ICT·IoT 전문기업](https://www.mcss.co.kr/PLANET_IndustrialSwitch)
+- 首页正文摘录：네이버 블로그 인스타그램 페이스북 유튜브 스마트 스토어 1일 동안 보지 않음 닫기 알림 뒤로 알림 설정 뒤로 더보기 게시물 알림 내 글 반응 내가 작성한 게시물이나 댓글에 다른 사람이 댓글이나 답글을 작성하면 알려줍니다. 공지사항 사이트에서 보내는 중요한 공지를 실시간으로 알려줍니다. Alarm 마이페이지 로그아웃 로그인이 필요합니다. 로그인 회사소개 인사말 사업영역 BUSINESS NI/SI SYSTEM ITO SERVICE 보안솔루션 사업연혁 사업실적 회사위치 제품소개 UI Console Wifi Gateway Data SW POE SW Camera Access Control Omnitron Media Converters miConverter S-series S/GXT 9439N-0-12 9439N-0-22 9169N-0-12 miConv
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 43、PoE 314 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1118.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

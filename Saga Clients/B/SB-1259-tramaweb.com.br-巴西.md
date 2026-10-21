@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1259.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.tramaweb.com.br/　语言：pt-BR　站点地图 URL 数：1231
+- **标题**：Grupo Trama Reputale / Agência de Comunicação Corporativa em SP
+- **描述**：Grupo Trama Reputale: formado pela Trama Comunicação, fundada em 1995, e pela Reputale Digital. Relações Públicas, Comunicação Interna e Marketing Digital.
+- **首页栏目**：Grupo Trama Reputale: Relações Públicas, Comunicação Interna e Digital. / Grupo Trama Reputale integra a WEConnect International / Sua marca aparece nos resultados de buscas feitas nas IAs? / Estamos entre as melhores agências de Comunicação Corporativa / Agência de Marketing Digital / Construa uma Marca Empregadora que Engaja e Retém Talentos / Grupo Trama Reputale / Nossos trabalhos
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 7、tp-link 7、oem 1
+- **站内公开邮箱**：adm@tramaweb.com.br
+- **社媒**：https://twitter.com/trama, https://www.facebook.com/TramaComunicacao/?fref=ts, https://www.instagram.com/trama_comunicacao/?hl=pt, https://www.linkedin.com/company/trama-comunicacao, https://www.youtube.com/user/tramacomunicacao
+- **产品类页面**：https://www.tramaweb.com.br/workshop-comunicacao-para-a-lideranca/；https://www.tramaweb.com.br/exposicao-marca-alem-produto/；https://www.tramaweb.com.br/producao-conteudo-valor-marcas/；https://www.tramaweb.com.br/mais-que-um-produto-um-personagem/；https://www.tramaweb.com.br/pesquisa-do-google-indica-processo-de-compra-de-produto-educacional-dura-seis-mese…
+- **已抓子页**：[O que é Endomarketing e quais são as vantagens para a empres](https://www.tramaweb.com.br/endomarketing-2/)；[Branded Content: o que é? - Grupo Trama Reputale](https://www.tramaweb.com.br/branded-content/)；[Employer Branding: o que é e qual é sua importância](https://www.tramaweb.com.br/employer-branding/)；[Inbound Marketing - Grupo Trama Reputale](https://www.tramaweb.com.br/inbound-marketing/)；[Planejamento de Endobranding / Grupo Trama Reputale](https://www.tramaweb.com.br/planejamento-de-endobranding/)；[Agência de Marketing Digital 360° / Grupo Trama Reputale](https://www.tramaweb.com.br/planejamento-de-marketing-digital/)
+- 首页正文摘录：Ir para o menu do site Ir para o conteúdo do site Menu Quem somos O Grupo Trama Reputale Sobre o Grupo Código de Ética e Conduta Canal de Denúncias Guia de Compras de Serviços de Comunicação Corporativa A Agência Sobre a Agência Nosso Propósito Lideranças Grupo Trama Reputale integra a WEConnect International O que fazemos Inteligência Reputação Algorítmica Planejamento de Relações Públicas Diagnóstico e Planejamento
+- 数据文件：`data/saga_clients/site_snapshots/SB-1259.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

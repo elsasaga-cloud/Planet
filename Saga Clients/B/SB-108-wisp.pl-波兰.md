@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-108.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.wisp.pl/　语言：未标　站点地图 URL 数：7816
+- **标题**：WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
+- **描述**：Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Tenda, Teltonika, Cudy, Solarix, Anteny WiFi i LTE, Światłowody, Sieci bezprzewodowe, radiowe, światłowodowe, Wi-Fi, wlan, urządzenia służące do budowy sieci bezprzewodowych, anteny 2,4 GHz, anteny 5 GHz, anteny 6 GHz, anteny 60 GHz, radio
+- **首页栏目**：Kategorie / Promocje / Najnowsze propozycje / Koszty przesyłki: / Subskrypcja / Szybki kontakt
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ubiquiti 82、poe 67、mikrotik 60、sfp 59、switch 47、industrial 35、ethernet 34、tp-link 34、cable 28、10g 27、fiber 18、wifi 17
+- **站内出现的品牌**：Ubiquiti, Tenda, MikroTik, TP-Link, Teltonika, Grandstream, Cisco, Dahua, D-Link, Cambium, Schneider, Edimax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GRP2601P, IT6-PCS, GRP2601, BU530, SFP28, GRP2601W, UDR-5G, QSFP28, QSFP56-DD, RS-232, AC1200, TR-069
+- **站内公开邮箱**：sklep@wisp.pl
+- **社媒**：https://poland.fedex.com/domestic-shipping/pub/tracktrace.do, https://www.fedex.com/pl-pl/home.html
+- **产品类页面**：https://www.wisp.pl/p12747,atte-apt-4-11-ca1-switch-poe-4-portowy-10-100mbps-extender-w-obudowie-zewnetrznej-i…；https://www.wisp.pl/k19,switche.html；https://www.wisp.pl/k374,tenda-switche.html；https://www.wisp.pl/k395,tp-link-switche.html；https://www.wisp.pl/k342,mikrotik-switche.html；https://www.wisp.pl/k277,ubiquiti-switche.html
+- **已抓子页**：[Katalog :: WISP.PL Dystrybutor sprzętu sieciowego](https://www.wisp.pl/katalog.html)；[Tenda IT6-PCS kamera 3MP UHD PoE :: WISP.PL Dystrybutor sprz](https://www.wisp.pl/p9588,tenda-it6-pcs-kamera-3mp-uhd-poe.html)；[Switche :: WISP.PL Dystrybutor sprzętu sieciowego](https://www.wisp.pl/k19,switche.html)；[Automatyka i Przemysł :: WISP.PL Dystrybutor sprzętu sieciow](https://www.wisp.pl/k309,automatyka-i-przemysl.html)；[Grandstream GRP2601P przewodowy telefon IP z PoE :: WISP.PL ](https://www.wisp.pl/p12722,grandstream-grp2601p-przewodowy-telefon-ip-z-poe.html)；[Ubiquiti UniFi Cloud Gateway Industrial (UCG-Industrial) :: ](https://www.wisp.pl/p12756,ubiquiti-unifi-cloud-gateway-industrial-ucg-industrial.html)
+- 首页正文摘录：WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego WISP.PL Język: PL EN Waluta: PLN $ - USD € - EUR Logowanie Rejestracja Koszyk 0 prod. 0,00 Szukasz najlepszej oferty? Zadzwoń 0 801 003 092 Menu HOME Nowości Promocje Cennik Dojazd Serwis Kontakt Kategorie Access Pointy (659) Akcesoria (434) Akcesoria GSM/LTE (374) Anteny (374) Automatyka i Przemysł (441) Części serwisowe (161) Elektryka (13) Inteligentny d
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 35、PoE 67 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-108.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

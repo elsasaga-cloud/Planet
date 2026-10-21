@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1221.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.multiproject.com.pl/　语言：pl　站点地图 URL 数：6390
+- **标题**：Multiproject Hurtownia Teletechniczna
+- **描述**：Multiproject Hurtownia Teletechniczna
+- **首页栏目**：Polecamy produkty / Kabel HDMI 2.1 8K DELL 5K0EH21501 1,8m / Przewód UTP kat.5e LSOH Madex 305m / Wtyk F kompresyjny złącze seria 9 / Zestaw do złącz kompresyjnych Hanlong HT-H526 / Czujnik PIR Blue Line Gen2 ISC-BPR2-W12 / Listwa montażowa Axing do uziemienia 11xgn.F podwó / Unifon cyfrowy INS-UP720B
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 20、cctv 18、switch 11、dahua 5、wifi 4、hikvision 4、ubiquiti 3、sfp 2、cable 2、ethernet 1、gigabit 1、tp-link 1
+- **站内出现的品牌**：Ubiquiti, Dahua, Hikvision, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RG-59, HT-H526, TVC-M3220-1-P, ISC-BPR2-W12, INS-UP720B, DT-360, IR-98, SK-22401M, MAGIC-POWER-GEL-250, UT-301A, PIL-19DLT, GW-KNX1
+- **站内公开邮箱**：biuro@multiproject.com.pl, damian.lis@multiproject.com.pl, slawek.janusch@multiproject.com.pl
+- **社媒**：https://twitter.com/share?url=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html&text=Przew%C3%B3d+RG-59%2B2x1%2C00+%C5%BCelowany+Pro+CCTV+300m, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html, https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html&title=Przew%C3%B3d+RG-59%2B2x1%2C00+%C5%BCelowany+Pro+CCTV+300m
+- **产品类页面**：https://www.multiproject.com.pl/switch-poe-tl-sg1008p-8xge-4xpoe-metalobudowa-p-1689.html；https://www.multiproject.com.pl/switch-tp-link-tl-sf1008p-8xfe-4xpoe-metalobud-p-2697.html；https://www.multiproject.com.pl/switch-tp-link-tl-sg1008pe-8xge-8xpoe-metalobud-p-2698.html；https://www.multiproject.com.pl/switch-de-m1008pse-8xfe-1xge-1xge-stp-8xpoe-rack-p-3422.html；https://www.multiproject.com.pl/poe-c-33_406_306.html；https://www.multiproject.com.pl/switche-c-185_195.html
+- **已抓子页**：[Automatyka bram](https://www.multiproject.com.pl/automatyka-przemyslowa-c-611.html)；[Multiproject Hurtownia Teletechniczna](https://www.multiproject.com.pl/polecane.html)；[Formularz kontaktowy sklepu](https://www.multiproject.com.pl/kontakt-f-1.html)；[Akcesoria CCTV](https://www.multiproject.com.pl/systemy-cctv-c-33.html)；[Akcesoria Sieciowe](https://www.multiproject.com.pl/akcesoria-sieciowe-informatyczne-c-185.html)；[Przewód RG-59+2x1,00 żelowany Pro CCTV 300m](https://www.multiproject.com.pl/przewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html)
+- 首页正文摘录：wyszukiwanie zaawansowane Zaloguj się Załóż konto Koszyk Twój koszyk jest pusty ... Regulamin Słownik Gwarancja Kontakt Strona główna Kategorie Akcesoria audio Akcesoria elektryczne Akcesoria gospodarstwa domowego Akcesoria komputerowe Akcesoria samochodowe Akcesoria sieciowe / informatyczne Akcesoria telefoniczne i komórkowe Akumulatory / Baterie Automatyka bramowa Automatyka przemysłowa CB Chemia Detektory / Czujni
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 20、监控 18 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1221.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +155,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

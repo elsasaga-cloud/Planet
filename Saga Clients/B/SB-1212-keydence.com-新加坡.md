@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：新加坡的安防集成/经销；兴趣/在卖：监控摄像 警报 光纤布线 网络
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-30 → 2025-10-14）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 9、监控 380 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1212.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.keydence.com/　语言：en　站点地图 URL 数：53
+- **标题**：CCTV Camera Installation Solutions Singapore / Keydence Systems
+- **描述**：As Singapore's trusted Security Systems provider, Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems.
+- **首页栏目**：SMART AND ECO SOLUTIONS / ELECTRICAL SYSTEMS / ​ / 3) Electrical Installation & Systems / SECURITY AND SAFETY ​ / NETWORK & COMMUNICATION / Nurse Call System / VEHICLES & FACILITIES ​
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 177、camera 138、cable 71、surveillance 59、fiber 39、access control 31、fibre 29、data center 18、installer 12、switch 10、poe 9、nvr 6
+- **站内型号串**（正则抽取，含非交换机）：ISO9001, KDS-DVR77200HGHI-F1, KDS-DVR77200HQHI-K1, KDS-NPX1245-R1, KDS-NPX1233-R1, KDS-NP12280-R1, KDS-2CD11023G0-I, KDS-2CD11043G0-I, KDS-2CD11123G0-I, KDS-ND99164-HZ, KDS-NVR22208-8P-4KS2, KDS-NVR22208-8P-S2
+- **站内公开邮箱**：sales@keydence.com
+- **站内公开电话**：+65 6459 0780
+- **社媒**：https://wa.me/6589134151?text=Hi%20there!%20I'm%20interested%20to%20know%20more.
+- **产品类页面**：https://www.keydence.com/post/introducing-cctv-cameras-with-poe-switch；https://www.keydence.com/product-page/led-tv；https://www.keydence.com/product-page/access-bio；https://www.keydence.com/product-page/pinhole-camera；https://www.keydence.com/product-page/cat6-rj45-jack；https://www.keydence.com/product-page/door-access-card
+- **已抓子页**：[CCTV Products, IP Surveillance Camera & POE Switch Singapore](https://www.keydence.com/cctv-products)；[CCTV Camera for Security Surveillance in Singapore](https://www.keydence.com/services/cctv-camera-security-surveillance)；[CCTV Camera for Security Surveillance in Singapore](https://www.keydence.com/services/cctv-camera-security-surveillance)；[Fiber Optic Cable Singapore / Network Data Cable Provider](https://www.keydence.com/fiber-optic-cable-data-network)；[PRODUCTS / Keydence Systems](https://www.keydence.com/our-products)；[Singapore's Solar Powered CCTV / Keydence Systems](https://www.keydence.com/services/solar-powered-cctv)
+- 首页正文摘录：top of page Mon - Fri, 9 AM - 6 PM +65 6459 0780 sales@keydence.com ABOUT US ABOUT US PAST PROJECTS CAREERS SERVICES SMART AND ECO SOLUTIONS 1) Smart Building Solutions Smart Hub System Smart Lighting Smart Pole Central Management System ​ 2) Eco Solutions ​ Solar Panels Solar-Powered CCTV Solar Lighting Energy Storage System Electric Vehicle (EV) Charger ELECTRICAL SYSTEMS ​ 3) Electrical Installation & Systems Elec
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 9、监控 380 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1212.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,7 +130,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 9、监控 380 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -158,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

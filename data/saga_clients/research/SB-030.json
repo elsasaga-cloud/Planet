@@ -1,0 +1,95 @@
+{
+ "code": "SB-030",
+ "name_official": "iTKATI UG Ltd（ITKATI Uganda，Kampala；itkati.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（搜索可见；快照 2026-10-21 unreachable——疑 GitHub 运行器 IP 被拦）",
+ "summary": "乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与联系方式",
+   "quote": "We believe that a robust network architecture is the foundation of a successful digital enterprise… SD-WAN, CLOUD Technologies… Plot 965, Kampala +256393225713 care@itkati.com… Plot 965, Kyadondo Kampala",
+   "url": "https://itkati.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "规模与经理",
+   "quote": "iTKATI UG LTD … Establishment year 2009 Employees 6-10 Company manager sarah basemera … +256785284579 +256704575328",
+   "url": "https://www.yellow.ug/company/40803/itkati-ug-ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "业务范围",
+   "quote": "prime focus on Corporate network infrastructure development, Cyber security and forensics analysis, internet bandwidth (telecom support), web hosting and domain, customized software development, app development security systems, intercoms VOIP services and cloud services… Registration Date: Jul 25, 2018",
+   "url": "https://eastafricatenders.com/directory/itkati-ug-ltd/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "需求与回复",
+   "quote": "对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Bob",
+   "role": "技术/采购（表内）",
+   "email": "technical@itkati.com",
+   "phone": "+256 704 575 328（WA 已加）",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Sarah Basemera",
+   "role": "Company manager（yellow.ug）",
+   "email": "",
+   "phone": "+256 785 284 579",
+   "source": "yellow.ug"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 黄页/FB 核对）"
+ },
+ "company_facts": {
+  "legal_name": "iTKATI UG LTD（ITKati Corp.）",
+  "founded": "2009（yellow.ug）/ 登记 2018-07（eastafricatenders）",
+  "hq": "Plot 965, Kyadondo, Makindye, Kampala, Uganda；+256 393 225 713；care@itkati.com / support@itkati.com",
+  "size": "6–10 人（yellow.ug）",
+  "other": "经理 Sarah Basemera（yellow.ug）；FB 联系 +256 704 575 328 itkaticorp@gmail.com；另有 eafricahost.itkati.com 主机业务"
+ },
+ "business_lines": [
+  "企业网络架构与布线、SD-WAN/云",
+  "CCTV 与安防系统、对讲/VoIP",
+  "Starlink/互联网带宽、Web 托管与软件开发"
+ ],
+ "products_seen": [],
+ "channels": {
+  "official": "care@itkati.com / +256 393 225 713",
+  "contact": "Bob technical@itkati.com，+256 704 575 328 / +256 785 284 579（WA 已加）",
+  "facebook": "facebook.com/itkati"
+ },
+ "signals": [
+  "对价格 OK、要样品并贴自有标（OEM 意向）",
+  "2024-02 要 4/8/16/24/64 口全系列价格"
+ ],
+ "risks": [
+  "小公司，贴标起订量与付款能力待核",
+  "乌干达物流/外汇；64 口不在 Saga 价目（48 口封顶）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "要全系列价 + 贴标 → 以 8 PoE + 2 SFP L2+ 起手做样机，OEM 30% 档；中性包装 + 丝印其 logo，MOQ 按型号另议"
+ },
+ "email_hook": "You mentioned the pricing was fine and you would like samples with your own label — we can ship one 8-port PoE unit in neutral packing with your logo silk-screened for evaluation; which port counts should the first batch cover?"
+}

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1245.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.soft-tronik.ru　语言：ru　站点地图 URL 数：0
+- **标题**：Софт-Троник Дистрибьютор сетевого оборудования, систем ip-видео наблюдения, систем хранения, периферии
+- **描述**：Description
+- **首页栏目**：Компания Софт-Троник / Для партнеров / Сертификаты / Новости / Ближайшие вебинары / Ближайшие встречи
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：dahua 48、axis 26、tp-link 19、poe 1、oem 1
+- **站内出现的品牌**：Dahua, Ruijie, Zyxel, TP-Link, D-Link, Vivotek, Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：EIA-568-C
+- **站内公开邮箱**：info@soft-tronik.ru, info_ekt@soft-tronik.ru, info_kazan@soft-tronik.ru, info_krd@soft-tronik.ru, info_krsk@soft-tronik.ru, info_nsk@soft-tronik.ru
+- **站内公开电话**：+7(343)312-12-40, +7(3452)68-40-80, +7(381)277-05-96, +7(383)252-00-75, +7(391)221-03-18, +7(423)205-15-06
+- **社媒**：https://app.box.com/s/uz4ycbu1i2km0fn2l0v0z4ibwybqrbt9, https://t.me/SoftTronikNews_bot, https://t.me/zyxelru, https://vk.com/zyxel_club, https://www.youtube.com/channel/UCcNN2UCEz1e49PEaAisN5ow/videos
+- **已抓子页**：[Кабельно-проводниковая продукция Каплекс](https://www.soft-tronik.ru/catalog/passivnoe-setevoe-oborudovanie-i-sks/kabelno-provodnikovaya-produktsiya-kapleks/)；[Контактная информация](https://www.soft-tronik.ru/contacts/)；[Сетевое оборудование Zyxel Networks](https://www.soft-tronik.ru/catalog/aktivnoe-setevoe-oborudovanie/setevoe-oborudovanie-zyxel-networks/)；[Сетевое оборудование Ruijie Networks](https://www.soft-tronik.ru/catalog/aktivnoe-setevoe-oborudovanie/setevoe-oborudovanie-ruijie-networks/)；[О компании](https://www.soft-tronik.ru/about/)；[Каталог](https://www.soft-tronik.ru/catalog/)
+- 首页正文摘录：Дистрибуторская компания Москва 8 495 787 48 84 Москва (495) 787-48-84 С.-Петербург (812) 718-55-07 Новосибирск (383) 252-00-75 Екатеринбург (343) 312-12-40 Владивосток (914) 790-02-36 Иркутск (395) 273-21-32 Казань (843) 240-00-72 Красноярск (391) 221-03-18 Краснодар (861) 992-36-85 Омск (3812) 77-05-96 Ростов-на-Дону (863) 295-77-43 Тюмень (3452) 68-40-80 Самара (846) 254-09-28 Найти Решения Активное сетевое оборуд
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1245.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +153,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

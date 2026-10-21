@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 14 次（2024-05-02 → 2025-10-14）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-151.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.microsens.com/　语言：en-US　站点地图 URL 数：3
+- **标题**：MICROSENS - Home
+- **首页栏目**：Profi Line X / Smart Sensor / Smart Building Solutions / Enterprise Networks / MICROSENS TechNews! / 10G Micro Switch / Industrial Ethernet / Optical Transport
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 123、industrial 55、poe 37、10g 31、fiber 18、automation 16、data center 14、wifi 13、ethernet 8、cable 8、media converter 7、sfp 1
+- **站内型号串**（正则抽取，含非交换机）：MSP3000, MSP1000, MSP800, IP500
+- **社媒**：https://www.linkedin.com/company/microsens-gmbh-&-co.-kg/, https://www.linkedin.com/company/microsens-gmbh-&-co.-kg/?viewAsMember=true, https://www.youtube.com/channel/UCxubH--ge55dyVnsAxFFXLA, https://www.youtube.com/channel/UCxubH--ge55dyVnsAxFFXLA?view_as=subscriber
+- **产品类页面**：https://www.microsens.com/?sitemap=products&amp;type=1533906435&amp;cHash=c17227fee3df2324ca59670de5e25dde
+- **已抓子页**：[MICROSENS - Profi Line Switches](https://www.microsens.com/products/industrial-solutions/profi-line)；[MICROSENS - Entry Line Switches](https://www.microsens.com/products/industrial-solutions/entry-line-switches)；[MICROSENS - Profi Line G6 Switches](https://www.microsens.com/products/industrial-solutions/profi-line-g6-din-/-19)；[MICROSENS - Industrial 10G Switches](https://www.microsens.com/products/industrial-solutions/industrial-10g-switches)；[MICROSENS - Entry Line PoE Injectors](https://www.microsens.com/products/industrial-solutions/entry-line-poe-injectors)；[MICROSENS - Ruggedized Micro Switches G6](https://www.microsens.com/products/industrial-solutions/ruggedized-micro-switches)
+- 首页正文摘录：X X Customer Satisfaction At MICROSENS, the satisfaction of our customers is our top priority. You will help us to become even better! Start now EN DE ES FR PL Login Englisch Deutsch Español Français Polski Company Company Get to know our company, learn more about our history and solution portfolio, find out about current events, news and press releases, study our publications. Company About MICROSENS Application Are
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 60、PoE 37 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-151.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,7 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

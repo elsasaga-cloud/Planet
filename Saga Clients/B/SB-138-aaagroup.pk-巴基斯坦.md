@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -84,6 +84,18 @@ updated: 2026-10-21
 - **风险/边界**：首要需求为 4 口 ONU（Saga 无 PON 产品线）；公司身份未核实，可能为贸易/工程综合体而非网络专业商
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页）
 - **邮件切入句（英文）**：Besides the 4-port ONU you asked about (not in our line), do your field projects use small fiber-to-copper media converters or 8-port PoE switches? Happy to send the two spec pages if so.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://daikool.pk/　语言：en-US　站点地图 URL 数：0
+- **标题**：Daikool – Daikool
+- **描述**：DELIVERS High Efficiency RANGE WITH Energy Saving COLLECTION FOR Fast Warm Up And Cool Down
+- **首页栏目**：CASSETTE INVERTER / Fan Coil Unit / PHARMA GRADE / Wall Mounted Split / DUCT CONNECTION TYPE / SELF CONTAINED TYPE / FLOOR STANDING / High Efficiency
+- **站内公开邮箱**：--aaakhi@aaagroup.pk, aaakhi@aaagroup.pk, service@aaagroup.pk
+- **社媒**：https://twitter.com/, https://www.facebook.com/daikoolpakistan/
+- **已抓子页**：[ABOUT – Daikool](https://daikool.pk/about/)；[CONTACT – Daikool](https://daikool.pk/contact/)
+- 首页正文摘录：Skip to content ABOUT LIGHT COMMERCIAL Cassette Split Wall Mounted Split Floor Standing Unit HVAC Air Handling Unit Duct Connection Type Fan Coil Unit Pharma Grade Self Contained Package Unit Floor Mounted Cabinet VRF System CONTACT Loading... CASSETTE INVERTER Optimized electric box, Ultra slim design, Fresh air intake, Quiet operation, Digital tube display Fan Coil Unit CHILLED WATER FAN COIL & AIR HANDLING UNITS P
+- 数据文件：`data/saga_clients/site_snapshots/SB-138.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

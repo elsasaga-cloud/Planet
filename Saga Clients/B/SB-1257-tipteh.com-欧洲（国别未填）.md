@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1257.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://tipteh.com/　语言：en-GB　站点地图 URL 数：2301
+- **标题**：Tipteh - your automation partner
+- **描述**：Tipteh is a leading industrial automation company and we are constantly expanding the scope of its activities and product range.
+- **首页栏目**：AUTOMATION: Our passion, your success! / Let's create your competitive advantage / Having problem? We got solution! / In Tipteh, automation is our passion and your success! / Be on top of industrial automation. Stay informed! / XDR-E DIN Rail Power Supplies MEAN WELL / Basler 10GigE Cameras and Components for High-Speed Machine Vision / Basler Stereo mini 3D Camera for Robotics and Logistics
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 151、switch 97、camera 85、automation 72、ethernet 51、10g 17、cable 15、poe 10、fiber 5、surveillance 3、wireless 3、scada 1
+- **站内出现的品牌**：Extreme, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GREYHOUND2000, BAT120, ROBOX300
+- **站内公开邮箱**：info@tipteh.ba, info@tipteh.mk, info@tipteh.rs, info@tipteh.si, tipteh@tipteh.hr
+- **站内公开电话**：+381 (0)11 8053 628, +385 (0)1 314 1550, +386 (0)1 200 5150, +387 33 452 427, +389 2 31 74 197
+- **社媒**：https://si.linkedin.com/company/tipteh-d.o.o., https://www.cognex.com/applications/customer-stories/automotive, https://www.cognex.com/en/Applications/Customer-Stories/Electronics/Perfect-Application-of-Cognex-In-Sight-in-Mobile-Phone-Battery-Inspection, https://www.facebook.com/Tipteh1/, https://www.youtube.com/channel/UCsxdqALPyE0DTqypazdpJSA, https://www.youtube.com/watch?v=k1-orL06-S0
+- **产品类页面**：https://tipteh.com/industrial-computers-networking/powerful-industrial-pc-with-poe-ports/；https://tipteh.com/ex-equipment/atex-safety-switches/；https://tipteh.com/industrial-computers-networking/secure-secomea-remote-access/；https://tipteh.com/industrial-computers-networking/fanless-industrial-pc-axiomtek/；https://tipteh.com/industrial-computers-networking/powerful-palm-sized-industrial-pc/；https://tipteh.com/industrial-computers-networking/secomea-simpler-and-more-reliable/
+- **已抓子页**：[Industrial Ethernet Switches connect devices in harsh enviro](https://tipteh.com/industrial-pcs-networking/industrial-ethernet-switches/)；[Industrial PCs & networking - Tipteh](https://tipteh.com/industrial-pcs-networking/)；[Industrial cameras for improved quality and performance](https://tipteh.com/machine-vision/industrial-cameras/)；[Basler 10GigE Cameras with RDMA for Machine Vision](https://tipteh.com/machine-vision/industrial-cameras/basler-10gige-cameras-rdma/)；[Stereo mini 3D Camera for Robotics and Logistics](https://tipteh.com/machine-vision/industrial-cameras/basler-stereo-mini-3d-camera-robotics-logistics/)；[OPC UA standard for communication in industrial automation](https://tipteh.com/opc-ua/)
+- 首页正文摘录：Search for: Search Button Skip to content Search for: Search Button Toggle Navigation Products Sensors Fork Sensors High Precision Sensors Optical Sensors Position Sensors Process Sensors Proximity Sensors Special Sensors Machine safety AS-Interface Electromechanical Machine Safety Equipment Safety Signal Processing Equipment Optoelectronic Machine Safety Equipment Identification and logistics Bar and 2D code readers
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 157、PoE 10 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1257.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +155,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

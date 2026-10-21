@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-18 → 2025-10-31）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-166.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://advance.technology/　语言：en-GB　站点地图 URL 数：72
+- **标题**：Advance Technology Solutions Ltd
+- **首页栏目**：Compatible, affordable. / Discover more about Advance, including our guarantees and warranty. / Who We Are / Recent Posts / Quick Links
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 512、cable 204、10g 88、gigabit 73、media converter 35、poe 30、fibre 25、2.5g 24、switch 12、cctv 6、ethernet 3、camera 2
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, RJ-45, A-MC-PS-V2-111-SFP, GB281168595
+- **站内公开电话**：+44 (0)1942 718493
+- **产品类页面**：https://advance.technology/poe-media-converters/；https://advance.technology/2017/11/08/tutorial-how-best-to-connect-switches-together/；https://advance.technology/2017/02/20/discussion-save-money-with-new-advance-products/；https://advance.technology/product-support/
+- **已抓子页**：[PoE Media Converters – Advance Technology Solutions Ltd](https://advance.technology/poe-media-converters/)；[Product Support – Advance Technology Solutions Ltd](https://advance.technology/product-support/)；[Product Information – Advance Technology Solutions Ltd](https://advance.technology/category/product-information/)；[Compatibility Guarantee – Advance Technology Solutions Ltd](https://advance.technology/compatibility-guarantee/)；[Contact Us – Advance Technology Solutions Ltd](https://advance.technology/contact-us/)
+- 首页正文摘录：Skip to content Home Products Gigabit SFP Gigabit Multimode SFP Gigabit Singlemode SFP Gigabit Copper SFP Gigabit Bi-Directional SFP Gigabit CWDM SFP 10G SFP+ 10G Multimode SFP+ 10G Singlemode SFP+ 10G Copper SFP+ 10G Bi-Directional SFP+ 10G SFP+ Direct Attach Cables 10G SFP+ Active Optical Cables 25G SFP28 25G Multimode SFP28 25G Singlemode SFP28 25G SFP28 Direct Attach Cables 25G SFP28 Active Optical Cables 40G QSF
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 112、交换机 12 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-166.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

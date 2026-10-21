@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-158.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.2mtechnology.net/　语言：en-US　站点地图 URL 数：419
+- **标题**：Advanced Security for High-Risk Environments / 2M Technology
+- **描述**：Explosion-proof cameras, X-ray scanners, container turnstiles, mobile trailers, UniFi & access control for high-risk environments. 2M Technology.
+- **首页栏目**：Engineered Security Systems for High-Risk & Critical Infrastructure / Drone Detection Trailers / Custom Container Security Checkpoints / Integrated Ubiquiti UniFi System Installations / Custom Explosion-Proof Surveillance / Mobile Solar Security Trailers / Explosion-Proof Lighting / Custom Security Installations
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 481、surveillance 147、access control 110、cctv 50、industrial 41、nvr 41、ubiquiti 32、cable 20、installer 14、poe 9、cisco 9、ethernet 8
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：NEMA-4X, CB62-E
+- **站内公开邮箱**：sales@2mtechnology.net
+- **社媒**：https://twitter.com/2m_technology, https://www.facebook.com/2MTechnologyInc, https://www.linkedin.com/company/2mtechnologyinc/, https://www.linkedin.com/company/2mtechnologyinc/?viewAsMember=true, https://www.youtube.com/c/2MTechnology/, https://www.youtube.com/c/2MTechnology/featured
+- **产品类页面**：https://www.2mtechnology.net/unifi-poe-budget-planning-guide/；https://www.2mtechnology.net/unifi-deployment-guide-industrial/；https://www.2mtechnology.net/industrial-perimeter-security-solutions/；https://www.2mtechnology.net/unifi-enterprise-switch-deployment-guide/；https://www.2mtechnology.net/unifi-aggregation-switch-deployment-guide/；https://www.2mtechnology.net/how-to-choose-a-poe-camera-security-system/
+- **已抓子页**：[Mobile Surveillance Trailers / Proven 2026 / 2M Technology](https://www.2mtechnology.net/mobile-surveillance-trailers/)；[Shop / 2M Technology](https://www.2mtechnology.net/shop/)；[Analog CCTV Cameras / Essential / 2M Technology](https://www.2mtechnology.net/analog-cctv/)；[Commercial Network IP Cameras / Proven Security / 2M Technol](https://www.2mtechnology.net/network-ip-cameras/)；[Network Box Cameras / 2M Technology](https://www.2mtechnology.net/network-box-cameras/)；[Network PTZ Cameras / 2M Technology](https://www.2mtechnology.net/network-ptz-cameras/)
+- 首页正文摘录：Skip to content Products Close Products Open Products Surveillance Explosion-Proof Access Control Screening Solar CCTV Plumbing Software Network IP Cameras Box Bullet Corner Dome Turret Fisheye PTZ Panoramic Long-Range PTZ All Cameras Network Recorders (NVRs) All NVRs 4 Channels 8 Channels 16 Channels 32 Channels 64 Channels 128 Channels Analog Cameras Bullet Dome Turret PTZ All Cameras Digital Recorders (DVRs) All D
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 41、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-158.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-448XGGM(L3)
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1138.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://precisionsolutions.com.br/　语言：pt-BR　站点地图 URL 数：35
+- **标题**：Precision Solutions - Tecnologia de Ponta para Redes de Fibra Óptica
+- **描述**：Equipamentos de teste, medição e certificação para redes de fibra óptica. Seu parceiro de confiança em infraestrutura de telecomunicações.
+- **首页栏目**：Tecnologia de ponta para sua infraestrutura / Seu parceiro estratégico em soluções de excelência / Nossa Trajetória / Fundação / ISO 17025 / Copa do Mundo / Olimpíadas Rio / Missão, Visão e Valores
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 5
+- **社媒**：https://br.linkedin.com/company/precisionsolutionsbr, https://wa.me/5511911673946, https://wa.me/5511911673946?text=Olá! Gostaria de saber mais sobre os produtos e serviços da Precision Solutions., https://wa.me/5511911673946?text=Olá! Gostaria de saber mais sobre os serviços da Precision Solutions., https://www.instagram.com/precisionsolutions.br/
+- **产品类页面**：https://precisionsolutions.com.br/produtos/；https://precisionsolutions.com.br/produtos/fpn-35/；https://precisionsolutions.com.br/produtos/otdr-f1500/；https://precisionsolutions.com.br/produtos/pda-pmt-900s/；https://precisionsolutions.com.br/produtos/clivador-cl-10/；https://precisionsolutions.com.br/produtos/caneta-limpeza/
+- 首页正文摘录：Home Produtos Serviços Cibersegurança Treinamentos Contato Fale Conosco Soluções em Telecomunicações Tecnologia de ponta para sua infraestrutura Equipamentos de teste, medição e certificação para sua rede de fibra óptica. Seu parceiro de confiança em infraestrutura de telecomunicações. Entre em Contato Ver Produtos +20 Anos de experiência +1k Projetos entregues ISO Certificação 17025 Sobre Nós Seu parceiro estratégic
+- 数据文件：`data/saga_clients/site_snapshots/SB-1138.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +149,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

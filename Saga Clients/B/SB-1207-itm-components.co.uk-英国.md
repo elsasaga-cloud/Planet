@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1207.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://itm-components.co.uk/　语言：en　站点地图 URL 数：298
+- **标题**：ITM Components / The Pro AV, KVM and Connectivity Experts
+- **描述**：ITM Components supply a wide range of Professional AV Systems, Video Switching, KVM Switches, Antennas and Wireless, Cables, Adapters and Connectors, Fibre Optics, Extenders, Conference Room Solutions, Lightning Protectors, NEMA Weatherproof Enclosures, Rackmount Drawers, USB 3.0 Technology and much
+- **首页栏目**：Country / Product Selector / New At ITM Components / A Guide to FAKRA Cable Applications / New 8K HDMI Matrix Switcher with Audio De-Embedding from Extron / New Cat6a Antibacterial Cables for Medical facilities and laboratories / L-com at ITM Components / See Product Videos From Other Suppliers Below
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 300、switch 157、poe 100、wireless 36、ethernet 35、camera 27、gigabit 26、industrial 24、fibre 22、wifi 14、distributor 14、sfp 10
+- **站内型号串**（正则抽取，含非交换机）：ENVIROMUX-5DB-IND, ENVIROMUX-2D, ENVIROMUX-5D-IND, CAT-5, RS232, BT-CAT5-E1, BT-CAT5-E1-4848, BT-CAT5-E1-4870, NB141207-4H0, BT-CAT5-P1, BT-CAT5-P1-4848, BT-CAT5-P1-4870
+- **站内公开邮箱**：sales@itm-components.co.uk
+- **站内公开电话**：+44 1202 872771
+- **社媒**：https://www.linkedin.com/company/384899/admin/feed/posts/, https://www.youtube.com/channel/UCzNk1XryhQ78tAnEF1Ty4-Q
+- **产品类页面**：https://itm-components.co.uk/blogs/news/aten-modular-matrix-switches-vm3200-1600；https://itm-components.co.uk/blogs/news/the-buyer-s-guide-to-nema-industrial-enclosures；https://itm-components.co.uk/blogs/news/96786566-did-you-know-about-aten-rack-kvm-switches；https://itm-components.co.uk/blogs/news/new-4k-hdmi-usb-kvm-switch-from-network-technologies；https://itm-components.co.uk/blogs/news/ethernet-control-for-serimux-console-serial-port-switch；https://itm-components.co.uk/blogs/news/96784518-aten-s-vm-seamless-switch-series-wins-red-dot-award
+- **已抓子页**：[PoE — ITM Components](https://itm-components.co.uk/collections/poe)；[E-5D-IND / NTI Medium Enterprise Environment Monitoring Syst](https://itm-components.co.uk/products/industrial-medium-enterprise-environment-monitoring-system-for-high-temperature-environments)；[E-5DB-IND / NTI Medium Enterprise Environment Monitoring Sys](https://itm-components.co.uk/products/industrial-medium-enterprise-environment-monitoring-system-for-high-temperature-environments-back-up-battery)；[E-5D-INDLT / NTI Medium Enterprise Environment Monitoring Sy](https://itm-components.co.uk/products/enviromux-5d-indlt-industrial-medium-enterprise-environment-monitoring-system-for-low-high-temperature-environments-40-to-185-f-40-to-85-c)；[E-5D-IND48VLT / NTI Medium Enterprise Environment Monitoring](https://itm-components.co.uk/products/enviromux-5d-ind48vlt-industrial-medium-enterprise-environment-monitoring-system-for-low-high-temperature-environments-40-to-185-f-40-to-85-c-48vdc-power)；[Switches & Matrix Switches for Pro AV Professionals / ITM Co](https://itm-components.co.uk/collections/switches-matrix-switches)
+- 首页正文摘录：Skip to content Email ITM Components Find us on LinkedIn Find us on Pinterest Find us on YouTube Country United Kingdom (GBP £) Austria (EUR €) Belgium (EUR €) Bosnia & Herzegovina (BAM КМ) Bulgaria (EUR €) Croatia (EUR €) Cyprus (EUR €) Czechia (CZK Kč) Denmark (DKK kr.) Estonia (EUR €) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Guernsey (GBP £) Hungary (HUF Ft) Iceland (ISK kr) Ireland (EUR €) Is
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 24、PoE 100 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1207.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

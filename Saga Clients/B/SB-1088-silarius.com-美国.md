@@ -22,7 +22,7 @@ last_contact: 2023-10-19
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2022-09-14 → 2023-10-19）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1088.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://silarius.com/　语言：en　站点地图 URL 数：589
+- **标题**：Security Cameras, Surveillance, IT and Access Control Superstore – Silarius
+- **描述**：Explore surveillance equipment, security cameras, audio-visual, IT hardware and software for home and business. Great reviews and fast shipping.
+- **首页栏目**：Security, IT and AV for business. 110,000+ products from 500+ brands. / Our own NDAA-compliant cameras, NVRs and switches / Shop by department / Popular categories / Hot deals, shipping the same day / Answer a few questions. Get the right part. / Solutions by industry / Real people watching your cameras, so you don’t have to
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 399、cable 223、switch 221、poe 107、surveillance 105、sfp 101、nvr 98、access control 76、wireless 63、ethernet 46、fiber 38、media converter 21
+- **站内出现的品牌**：Fortinet, Cisco, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SC900, AX9000G, FS-224E, RMK-84, LV5500R-400, LV5520T-400, LV5520R-400, LV5500T-400, SC800, HMX5150T-VGA, RMK-87
+- **站内公开邮箱**：info@silarius.com
+- **站内公开电话**：00000009.01, 00012-13 1100
+- **产品类页面**：https://silarius.com/sitemap_products_1.xml?from=4403784024167&amp;to=4665478643815；https://silarius.com/sitemap_products_2.xml?from=4665478742119&amp;to=6562308194407；https://silarius.com/sitemap_products_3.xml?from=6562309734503&amp;to=6707815120999；https://silarius.com/sitemap_products_4.xml?from=6707815841895&amp;to=6755457826919；https://silarius.com/sitemap_products_5.xml?from=6755458023527&amp;to=6772857536615；https://silarius.com/sitemap_products_6.xml?from=6772857634919&amp;to=6891115511911
+- **已抓子页**：[Network Switches / Silarius](https://silarius.com/collections/network-switches)；[KVM Switches & Consoles / Silarius](https://silarius.com/collections/kvm-switches)；[PoE Injectors & Splitters / Silarius](https://silarius.com/collections/poe-injectors)；[HDMI Extenders, Switchers & Matrix / Silarius](https://silarius.com/collections/av-signal-distribution)；[Network – Silarius](https://silarius.com/pages/network)；[Network Cables & Patch Cords / Silarius](https://silarius.com/collections/network-cables)
+- 首页正文摘录：Skip to content Surveillance View all Surveillance Black Color Cameras Box Cameras Bullet Cameras Dome Cameras DVR Camera Systems Fish-Eye/360 Cameras In-Ceiling/Flush-Mount Cameras LPR (License Plate Recognition) Mobile DVR NVR Camera Systems Panoramic Cameras PTZ Cameras Specialty Cameras Wedge Cameras Wi-Fi Surveillance XVR Thermal Cameras Perimeter Radar & Detection Aerial Surveillance Drones Analog Cameras Camer
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 11、交换机 221 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1088.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,7 +170,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-03-12 → 2025-10-14）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-139.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.barox.ch/en-us/　语言：en-us　站点地图 URL 数：444
+- **标题**：Switches for Video / barox.ch
+- **描述**：barox is a manufacturer of innovative Switches, media converters, and IP extenders for video and security networks.
+- **首页栏目**：We make video networks efficient and secure / Our Range / Our Advantages / Always Well Informed / This is where we provide more security / Seamless Integration with VMS and PSIM Systems / Login / In contact with barox
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 46、poe 40、camera 17、media converter 14、sfp 8、ethernet 7、integrator 6、installer 5、surveillance 3、cctv 2、industrial 1
+- **站内出现的品牌**：barox　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, VAR2-IPPOE, VAR2-POE, CH-5405
+- **站内公开电话**：+1-212-232-3060, +1-646-405-1027, +41 (0)56 511 10 30, +44 (0) 1622 910044, +49 7621 1593 100
+- **社媒**：https://ch.linkedin.com/company/barox-kommunikation-ag, https://www.youtube.com/@baroxkommunikationag4606
+- **产品类页面**：https://www.barox.ch/en/news/barox-release-the-ultra-dynamic-kn-lgipr38-28ad-24-port-10gb-managed-industrial-e…；https://www.barox.ch/en-us/news/course-program-2025-for-switches-and-poe-products/；https://www.barox.ch/news/jetzt-ist-er-da-unser-professional-workshop-switche-und-poe-produkte/；https://www.barox.ch/news/kursprogramm-2024-fuer-switche-und-poe-produkte/；https://www.barox.ch/news/barox-an-den-powertagen-in-zuerichkursprogramm-2024-fuer-switche-und-poe-produkte/；https://www.barox.ch/news/barox-ethernet-poe-switche-fuer-din-schienen-versorgen-die-bosch-mic-ip-7100i-kamera…
+- **已抓子页**：[barox and Digital Watchdog Launch New Plugin Integration, br](https://www.barox.ch/en-us/news/barox-poe-switches-certified-for-use-with-raytec-led-illuminators/)；[barox PoE switches certified for use with Raytec LED illumin](https://www.barox.ch/en-us/news/new-barox-integration-with-octave-coda-video-enhances-systems-operability-management-and-support/)；[Revolutionising the set-up and control of security networks,](https://www.barox.ch/en-us/news/revolutionising-the-set-up-and-control-of-security-networks-barox-launches-xnms/)；[Contact / barox.ch](https://www.barox.ch/en-us/contact/)；[Road Traffic / barox.ch](https://www.barox.ch/en-us/loesungen/road-traffic/)；[Freight and Logistics / barox.ch](https://www.barox.ch/en-us/loesungen/freight-and-logistics/)
+- 首页正文摘录：Support Contact DE FR EN EN (US) Registration Products Switches Media converters UTP/coax extender PoE injector/midspan/splitter DSL modems Accessories SFP Why barox News Solutions Courses About us Careers Team History Company Sustainability Downloads Software Brochures Contact Support Contact DE FR EN EN (US) Registration We make video networks efficient and secure barox is a manufacturer of innovative switches, med
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 40、监控 22 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-139.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

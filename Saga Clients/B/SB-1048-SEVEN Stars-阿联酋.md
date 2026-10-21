@@ -73,7 +73,6 @@ updated: 2026-10-21
 - **描述**：Seven Stars Group of companies, has diversified business segments such as Car Rental, Transportation, Auto Garage, Auto Spare Parts, Software and IT Solutions
 - **首页栏目**：SEVEN STARS / Terms & Conditions / Careers / Locations / sustainable future
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 10、access control 3、surveillance 2、fiber 1、camera 1
-- **站内公开邮箱**：2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com, 605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 - **社媒**：http://www.facebook.com/SevenStarsGroup, https://twitter.com/7starsrentacar
 - **产品类页面**：https://www.sevenstarsuae.com/products-services
 - **已抓子页**：[Seven Stars Product and Services](https://www.sevenstarsuae.com/products-services)；[Seven Stars Contact](https://www.sevenstarsuae.com/contact)；[Seven Stars Group of Companies](https://www.sevenstarsuae.com/about-us)；[Seven Stars Group of Companies](https://www.sevenstarsuae.com/our-company)；[Seven Stars Technology](https://www.sevenstarsuae.com/it-solutions)；[Five Stars General Transport](https://www.sevenstarsuae.com/general-passenger-transport-services)

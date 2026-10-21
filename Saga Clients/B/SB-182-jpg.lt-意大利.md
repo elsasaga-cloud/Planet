@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 12 次（2024-06-03 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-182.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://jpg.lt/　语言：未标　站点地图 URL 数：720
+- **标题**：Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt
+- **描述**：Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos, IP vaizdo stebėjimo kameros, IP valdomos ka
+- **首页栏目**：Tel. +370 656 65557 / Krauna... / Naujos prekės / LAN tinklo praplėtėjas 10/100M, iki 300m/ 500m / GPS seklys diMag UNI70-4G / GPS seklys diMag DM13-4G / Populiarios prekės / GPS seklys diMag DM92-4G (vidinė baterija)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 23、sfp 6、ethernet 1
+- **站内出现的品牌**：Ajax, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：LMR-400, RG174, RJ-45, LT-54312, UNI70-4G, DM13-4G, DM92-4G, ATC700-4G, DM15-4G, LT100003886310
+- **站内公开邮箱**：info@magveda.lt
+- **站内公开电话**：+370 656 65557, 00003886310
+- **社媒**：https://www.facebook.com/magveda/
+- **产品类页面**：https://jpg.lt/dahua-poe-005；https://jpg.lt/poe-10100m-spliteris-25-5w；https://jpg.lt/poe-10100m-spliteris-15-4w；https://jpg.lt/poe-sakotuvas-3220-16gt240；https://jpg.lt/poe-101001000m-prapletejas-100m；https://jpg.lt/poe-10100m-prapletejas-100m-ip66
+- **已抓子页**：[LAN ir PoE įranga / Vaizdo stebėjimo sistemos / jpg.lt](https://jpg.lt/vaizdo-stebejimo-sistemos-lan-ir-poe-iranga/)；[Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.l](https://jpg.lt/pages/about-us)；[Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.l](https://jpg.lt/pages/contact-us)
+- 首页正文摘录：Vaizdo stebėjimas Vaizdo stebėjimo sistemos IP vaizdo stebėjimo sistemos HD-CVI vaizdo stebėjimo sistemos Automobilinės kameros Žvėrių stebėjimo kameros LAN ir PoE įranga Maitinimo šaltiniai Duomenų laikmenos Objektyvai Vaizdo signalo keitikliai Domofonai LED prožektoriai Priedai Numerių atpažinimo sistema Apsaugos sistemos AJAX signalizacija GPS sekliai, priedai GPS sekliai, priedai GPS sekliai Priedai svečias Prisi
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 23、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-182.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

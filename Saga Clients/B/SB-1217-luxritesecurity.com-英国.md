@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1217.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.luxritesecurity.com/　语言：en　站点地图 URL 数：1225
+- **标题**：Luxrite Ltd - Trade CCTV Distributor
+- **描述**：Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.
+- **首页栏目**：Welcome To Luxrite Security Security You Can Trust / Request a Trade Account
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 67、poe 60、camera 32、switch 30、cable 25、sfp 18、10g 15、nvr 14、wireless 10、industrial 9、dahua 9、access control 7
+- **站内出现的品牌**：Ruijie, Ajax, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DHIPD40, RG-ES210GS-P, RG-NBS3100-24GT4SFP-P-V2, RG-ES228GS-P, RG-NBS5300-8MG2XS-UP, RG-ES110F-P, RG-ES110GS-P-L, RG-ES110GDS-P, RG-NBS3100-8GT2SFP, RG-NBS3100-8GT2SFP-P-V2, RG-NBS5500-12XS, RG-POE-AF15
+- **站内公开邮箱**：sales@luxritesecurity.com, technical@luxritesecurity.com
+- **站内公开电话**：+44 (0)1438 909168, +44 1438 909168, 000 (25) 10, 000 (64) 10
+- **社媒**：https://www.facebook.com/LuxriteLtd/, https://www.instagram.com/luxriteltd, https://www.linkedin.com/company/luxrite, https://www.youtube.com/@luxrite1
+- **产品类页面**：https://www.luxritesecurity.com/rg-poe-af15；https://www.luxritesecurity.com/rg-poe-at30；https://www.luxritesecurity.com/POEINJECTOR；https://www.luxritesecurity.com/lightswitch；https://www.luxritesecurity.com/poe-extenders；https://www.luxritesecurity.com/poe-injectors
+- **已抓子页**：[POE Switches / SPRO & Ruijie Reyee Network Solutions  Luxri](https://www.luxritesecurity.com/category-108)；[POE Extenders](https://www.luxritesecurity.com/poe-extenders)；[POE Injectors](https://www.luxritesecurity.com/poe-injectors)；[SPRO CCTV,RGL, Ruijie Reyee, Texecom, Ajax Systems & More  ](https://www.luxritesecurity.com/all-products)；[Latest Security Products / New Arrivals  Luxrite Security](https://www.luxritesecurity.com/new-products)；[Contact Us - Luxrite - CCTV Distributors](https://www.luxritesecurity.com/contact)
+- 首页正文摘录：Contact Us +44 1438 909168 New Account / Sign In / Wish List 0 0 £0.00 Home Products HD CCTV HD Cameras HD DVRs IP CCTV IP NVRs IP Cameras Networking Switches Wireless Bridges Access Points Wi-Fi Extenders Routers POE Extenders POE Injectors Accessories Video Intercom Camera Stations Mounts & Accessories Doorbells & Chimes Doorbells Chimes Cables CAT5e CAT6 Patch Leads RG59 Cable Accessories Intruder Ajax Dahua Texec
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 11、PoE 60 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1217.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

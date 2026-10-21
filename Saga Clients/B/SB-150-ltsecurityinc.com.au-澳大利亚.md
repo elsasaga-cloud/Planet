@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 21 次（2024-05-09 → 2025-10-27）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-150.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ltsecurityinc.com.au/　语言：en　站点地图 URL 数：0
+- **标题**：Security Cameras & CCTV Distributor Australia / LTS Security
+- **描述**：Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.
+- **首页栏目**：DeepVision / AJAX Systems / Direct Search / 12MP / 5K / Price Match Guarantee / KNX Certified / Register a Trade Account / Training with George
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 180、cctv 145、cable 61、poe 58、automation 55、nvr 49、access control 25、installer 23、switch 22、ethernet 22、wireless 19、industrial 18
+- **站内出现的品牌**：Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：NVMS7000, LXIP3542W-28MDA, LXIP3C8PWI-SDL, LXIP8142W-28M, CMHT1722W-CF, CMHD3553D-Z, LPR100, CMHR92T2, CMHT1722-28F, CMHT1352-28, CMHR9653DN-ZF, AJAX119709
+- **站内公开邮箱**：orders@ltsecurityinc.com.au
+- **社媒**：https://knowledge.akuvox.com/, https://knowledge.akuvox.com/docs/put-zigbee-devices-into-paring-mode, https://www.youtube.com/@LTSSecurityAustralia/featured
+- **已抓子页**：[Ethernet & PoE Over Coax and 2-Wire / LTS Security Australia](https://www.ltsecurityinc.com.au/blog/ethernet-or-poe-over-coax-and-2-wire/)；[CCTV & Recorders PRO-X Cameras](https://www.ltsecurityinc.com.au/cctv-recorders/pro-x/cameras/)；[CCTV & Recorders HD-TVI Cameras](https://www.ltsecurityinc.com.au/cctv-recorders/hd-tvi/cameras/)；[CCTV & Recorders Platinum Cameras](https://www.ltsecurityinc.com.au/cctv-recorders/platinum/cameras/)；[CCTV & Recorders Ajax CCTV Cameras](https://www.ltsecurityinc.com.au/cctv-recorders/ajax-cctv/cameras/)；[CCTV & Recorders PRO-X Camera Brackets](https://www.ltsecurityinc.com.au/cctv-recorders/pro-x/camera-brackets/)
+- 首页正文摘录：Trade Register Products About Us Solutions Ajax Systems - Intrusion / Access / CCTV Alarms / Access / Automation / CCTV Sim & Cloud Services Fibra (Hybrid Alarm) Ajax - Scenario Simulator Ajax - Installer & Reference Guide Multi-Transmitter (Old Alarm changeover) Armatura - Access Control CERTECH - Certified Cabling Cloud Storage Ethernet or POE over coax and 2-wire Intercoms / Access / Healthcare / Smart Home Health
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 23、PoE 58 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-150.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -176,7 +192,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1125.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://shoguncctv.com/　语言：en　站点地图 URL 数：0
+- **标题**：Shogun Technology Co.,Ltd
+- **首页栏目**：Welcome for visit our website.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 66、switch 34、poe 22、fiber 15、ethernet 14、cable 14、nvr 12、media converter 7、access control 7、industrial 6、gigabit 6、10g 2
+- **站内型号串**（正则抽取，含非交换机）：ISO9001, ISO14001, SG-EC2701, SG-IPS33148PFM, SG-POE31024PFM, SG-38028FM, SG-IPS36028PFM, SG-IPS33064PF, SG2100-10PE, SG-24242M, SG-H80, PFS4210-8GT-DP
+- **已抓子页**：[Products Category - Shogun Technology Co.,Ltd](https://shoguncctv.com/productscategory-43455-1-ethernet-poe-over-coax.html)；[Products Category - Shogun Technology Co.,Ltd](https://shoguncctv.com/productscategory-42029-1-switch.html)；[Products Category - Shogun Technology Co.,Ltd](https://shoguncctv.com/productscategory-46423-1-network-io.html)；[Products Category - Shogun Technology Co.,Ltd](https://shoguncctv.com/productscategory-42028-1-network-video-recorder.html)；[Products Category - Shogun Technology Co.,Ltd](https://shoguncctv.com/productscategory-42027-1-ip-camera.html)；[Products Category - Shogun Technology Co.,Ltd](https://shoguncctv.com/productscategory-45922-1-analog-camera.html)
+- 首页正文摘录：Home Product Download Contact Us About Us Welcome for visit our website. Shogun Corporation Limited is a leading and professional CCTV manufacturer located in Hongkong. We specialize in researching, producing and exporting CCTV Cameras and Stand-alone NVRs, providing the most stable digital security solutions. Till now our product range covers Megapixel Cameras, Indoor and Outdoor IP cameras, PTZ IP Cameras and H.265
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 22 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1125.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +150,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

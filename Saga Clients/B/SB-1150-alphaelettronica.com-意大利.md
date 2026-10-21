@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1150.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.alphaelettronica.com/　语言：it　站点地图 URL 数：7724
+- **标题**：Alpha Elettronica - Distribuzione di prodotti e accessori elettronici
+- **描述**：Distribuzione di prodotti e accessori elettronici dal 1975.
+- **首页栏目**：Account
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 439、switch 212、gigabit 78、ethernet 77、sfp 30、10g 12、camera 12、distributor 12、industrial 9、telecom 8、nvr 6、cctv 2
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, LL9010, SU2342, CK-001, CK-002, WTR84, REED001, REED010, REED011, REED012, NSG1005V1, NSG1008V1
+- **站内公开邮箱**：johndoe@domain.com
+- **站内公开电话**：+39) 0521 804427, 00000000000001, 00000000000003
+- **产品类页面**：https://www.alphaelettronica.com/multimedia/networking/switch.html；https://www.alphaelettronica.com/elettrico/adattatori/industriali.html；https://www.alphaelettronica.com/smart-home/elettrico/switch-wi-fi.html；https://www.alphaelettronica.com/sicurezza/networking/switch-di-rete.html；https://www.alphaelettronica.com/elettrico/adattatori/industriali/famiglia-23-71.html；https://www.alphaelettronica.com/elettrico/adattatori/industriali/famiglia-23-74.html
+- **已抓子页**：[Switch - Alpha Elettronica](https://www.alphaelettronica.com/multimedia/networking/switch.html)；[Networking - Alpha Elettronica](https://www.alphaelettronica.com/multimedia/networking.html)；[Extender - Alpha Elettronica](https://www.alphaelettronica.com/multimedia/networking/extender.html)；[Accessori - Alpha Elettronica](https://www.alphaelettronica.com/multimedia/networking/accessori.html)；[Armadi Rack - Alpha Elettronica](https://www.alphaelettronica.com/multimedia/networking/armadi-rack.html)
+- 首页正文摘录：× menu person_outline Mostra suggerimenti switch_camera Barcode Scanner close search switch_camera Barcode Scanner close ↑ ↓ per scorrere · ↵ per aprire · esc per chiudere Nascondi suggerimenti Stream new_releases Accedi lock Carrello Richiedi Offerta shopping_cart Non hai articoli nel carrello. Vai al carrello 0 it / en shopping_cart 0 search Alpha Elettronica Menu Tutti i Prodotti keyboard_arrow_down Energia Multim
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 9、PoE 439 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1150.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +151,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

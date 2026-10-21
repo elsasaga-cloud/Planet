@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -78,6 +78,22 @@ updated: 2026-10-21
 - **风险/边界**：亚太非主攻区；Gmail；无互动
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32
 - **邮件切入句（英文）**：Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $30.8 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://congtyminhphuoc.vn/　语言：未标　站点地图 URL 数：500
+- **标题**：Trang chủ
+- **描述**：Trang chủ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 104、switch 31、poe 23、wifi 22、hikvision 15、cisco 14、dahua 8、sfp 7、gigabit 5、mikrotik 5、ethernet 1
+- **站内出现的品牌**：Cisco, Dahua, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CBS220, HS-TF-D1, TL-SG105, IS-U4F2F, JL685A, CCR2004-16G-2S, JL683A, DS-3E1510P-EI, RB5009UG, DS-3E1309P-EI, CBS350, E-2G-EU
+- **站内公开邮箱**：tmphuocvn@gmail.com
+- **站内公开电话**：000 339 - 0919955991
+- **产品类页面**：https://congtyminhphuoc.vn/switch-ppoe；https://congtyminhphuoc.vn/hub---switch/switch-5-port-poe-aptek-sf1052p-unmanaged；https://congtyminhphuoc.vn/hub---switch/switch-16-port-100m-poe-unmanged-aptek-pn-sf1163p；https://congtyminhphuoc.vn/hub---switch/switch-8-port-poe-aptek-sg1080p-8-port-gigabit-unmanaged；https://congtyminhphuoc.vn/hang-cisco/thiet-bi-mang-switch-cisco-business-350-24p-4g-poe-managed；https://congtyminhphuoc.vn/hub---switch/switch-8-port-poe-100m-2-port-uplink-1g-aptek-pn-sf1082fp
+- **已抓子页**：[SWITCH PPOE](https://congtyminhphuoc.vn/switch-ppoe)；[Hub - Switch](https://congtyminhphuoc.vn/hub---switch)；[CAMERA IP](https://congtyminhphuoc.vn/camera-ip)；[TRỌN BỘ CAMERA](https://congtyminhphuoc.vn/tron-bo-camera)；[Xem demo camera](https://congtyminhphuoc.vn/xem-demo-camera)；[PHỤ KIỆN CAMERA](https://congtyminhphuoc.vn/phu-kien-camera)
+- 首页正文摘录：Trang chủ Tuyển dụng Giới thiệu Tin tức Tài Khoàn Công Ty Liên hệ Tài khoản Đăng nhập Đăng ký Giỏ hàng ( 0 ) Bảng Giá Đại Lý Tài Khoàn Công Ty Hướng dẫn sử dụng Xem demo camera Danh mục sản phẩm Thiết Bị Điện Thông Minh CÔNG TẮC CẢM ỨNG THIẾT BỊ CHỐNG TRỘM Dây Cáp Điện Đèn Năng Lượng Mặt Trời Công Tắc Điện Thông Minh Thiết Bị Điện Sino ỐNG XOẮN , HDPE Ống điện PVC, Ống ruột gà Thiết bị mạng Hub - Switch Hãng CISCO Th
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 23、监控 104 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-171.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

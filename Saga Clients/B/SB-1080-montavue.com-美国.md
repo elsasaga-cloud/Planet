@@ -22,7 +22,7 @@ last_contact: 2023-10-19
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2022-09-14 → 2023-10-19）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1080.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://montavue.com/　语言：en　站点地图 URL 数：230
+- **标题**：Montavue - 4K & 2K Security Systems for Home and Business - No Fees
+- **描述**：A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 2-year warranty. Free Shipping on orders over $150.
+- **首页栏目**：Montavue / MONTAVUE NEXUS 4K AI SYSTEMS / THE EVOLUTION OF SURVEILLANCE / CHOOSE YOUR SYSTEM / Hardwired NVR Kits & Specialized Solutions / Montavue Nexus / POWERFUL NVR-BASED WIRED SECURITY WITH AI / Montavue Home
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 343、nvr 174、poe 101、cable 60、wireless 50、surveillance 28、switch 21、cctv 13、industrial 7、wifi 7、installer 7、ethernet 4
+- **站内型号串**（正则抽取，含非交换机）：MHL-4-101, MNN-P162-16, MAC22MON, MTT8106-SMD, MTB180C, MTT4095, MHT-8-101, MHT-12-101, MTPP82-4-TH12101, MNN-P162-8, MNN-P82-8, MNB-4-101
+- **站内公开邮箱**：sales@montavue.com
+- **社媒**：https://twitter.com/intent/tweet?text=Montavue%20Nexus%2012MP%204K%20RGB%20Turret%20PoE%20Security%20Camera%20System%20with%2016-Channel%20Pro%20NVR%20%26%204TB%20HDD&url=https://montavue.com/products/12mp-4k-home-rgb-turret-ip-security-camera-system-with-pro-16-channel-poe-nvr-4tb-hdd, https://twitter.com/intent/tweet?text=Montavue%20Nexus%2012MP%204K%20RGB%20Turret%20PoE%20Security%20Camera%20System%20with%208-Channel%20Pro%20NVR%20%26%201TB%20HDD&url=https://montavue.com/products/12mp-4k-home-rgb-turret-ip-security-camera-system-with-pro-8-channel-poe-nvr-1tb-hdd, https://twitter.com/intent/tweet?text=Montavue%20Nexus%208MP%204K%20Smart%20Light%20Turret%20PoE%20Security%20Camera%20System%20with%208-Channel%20Pro%20NVR%20%26%201TB%20HDD&url=https://montavue.com/products/8mp-4k-home-smart-light-turret-ip-security-camera-system-with-pro-8-channel-poe-nvr-1tb-hdd, https://twitter.com/intent/tweet?text=Montavue%20Nexus%208MP%204K%20Smart%20Light%20Turret%20PoE%20Security%20Camera%20System%20with%208-Channel%20Smart%20NVR%20%26%201TB%20HDD&url=https://montavue.com/products/4mp-2k-nexus-smart-light-bullet-ip-security-camera-system-with-smart-8-channel-poe-nvr-1tb-hdd-copy, https://twitter.com/intent/tweet?text=Montavue%20Nexus%20Pro%2016-Channel%204K%20PoE%20NVR%20with%20AI%20%E2%80%93%20MNN-P162-16&url=https://montavue.com/products/mnn-l81-8-montavue-nexus-8-channel-poe-lite-network-video-recorder-copy, https://www.facebook.com/Montavue
+- **产品类页面**：https://montavue.com/blogs/news/should-i-use-a-poe-switch；https://montavue.com/blogs/news/maximize-your-security-using-a-poe-switch；https://montavue.com/blogs/news/adding-cameras-from-a-poe-switch-tutorial-montavue；https://montavue.com/blogs/news/protecting-your-poe-ip-cameras；https://montavue.com/blogs/news/montavue-nvr-series-8-channel-4k-poe-nvr；https://montavue.com/blogs/news/montavue-nvr-series-4-channel-4k-poe-nvr
+- **已抓子页**：[Montavue Nexus Pro 16-Channel 4K PoE NVR with AI – MNN-P162-](https://montavue.com/products/mnn-l81-8-montavue-nexus-8-channel-poe-lite-network-video-recorder-copy)；[Montavue Nexus 12MP 4K RGB Turret PoE Security Camera System](https://montavue.com/products/12mp-4k-home-rgb-turret-ip-security-camera-system-with-pro-8-channel-poe-nvr-1tb-hdd)；[Montavue Nexus 12MP 4K RGB Turret PoE Security Camera System](https://montavue.com/products/12mp-4k-home-rgb-turret-ip-security-camera-system-with-pro-16-channel-poe-nvr-4tb-hdd)；[Montavue Nexus 8MP 4K Smart Light Turret PoE Security Camera](https://montavue.com/products/8mp-4k-home-smart-light-turret-ip-security-camera-system-with-pro-8-channel-poe-nvr-1tb-hdd)；[Montavue Nexus 8MP 4K Smart Light Turret PoE Security Camera](https://montavue.com/products/4mp-2k-nexus-smart-light-bullet-ip-security-camera-system-with-smart-8-channel-poe-nvr-1tb-hdd-copy)；[PoE Switches and Accessories](https://montavue.com/collections/switches)
+- 首页正文摘录：Skip to content Shop Products DEALS Complete Camera Systems 8 Channel Smart Systems 8 Channel Pro Systems 16 Channel Pro Systems 32 Channel Pro Systems Security System by Feature Active Deterrence (Mic/Siren/Strobe) Vandal Proof Dome Advanced AI Add-On Cameras Network Video Recorders 8 Channel NVRs 16 Channel NVR 32 Channel NVR Accessories Hard Drives/MicroSD Cards Junction Boxes & Mounts PoE Switches/Injectors/Wirel
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 101 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1080.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -151,7 +167,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

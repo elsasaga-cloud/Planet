@@ -24,7 +24,7 @@ last_contact: 2025-10-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -102,6 +102,15 @@ updated: 2026-10-21
 - **风险/边界**：意向弱（「没太多意愿」）；14 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）
 - **邮件切入句（英文）**：Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://elsikr.it/　语言：it　站点地图 URL 数：0
+- **标题**：ELSI - Benvenuti
+- **首页栏目**：Promozioni in Vigore / I nostri marchi / Apprezziamo la tua privacy / Personalizza le preferenze di consenso
+- **社媒**：https://wa.me/393484008201, https://www.facebook.com/elsisrl.crotone, https://www.linkedin.com/company/elsi-srl, https://www.youtube.com/channel/UCYELhx7-ypmlfXBfYA9ufIA
+- 首页正文摘录：Home Chi Siamo Rete Vendita Servizi News Contatti Area Riservata Promozioni in Vigore â® â¯ I nostri marchi > Â© EL.SI. S.r.l. Via Enzo Ferrari 88900 Crotone (KR). P.IVA 01536710799. Tutti i diritti riservati. Home Chi Siamo Rete Vendita Servizi News Contatti Apprezziamo la tua privacy Utilizziamo i cookie per migliorare la tua esperienza di navigazione, per offrirti annunci o contenuti personalizzati e per analizz
+- 数据文件：`data/saga_clients/site_snapshots/SB-135.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

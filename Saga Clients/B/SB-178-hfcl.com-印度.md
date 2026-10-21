@@ -22,7 +22,7 @@ last_contact: 2025-01-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-01-08 → 2025-01-08）；最近一次客户回复：2025-01-08：MII
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-178.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.hfcl.com/　语言：en　站点地图 URL 数：605
+- **标题**：HFCL - Leading Provider of Telecom and Networking Solutions
+- **描述**：HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity, communication, and digital transformation. Explore our range of solutions designed to drive business success.
+- **首页栏目**：Leading the World to a More Connected Future / What we do / Trusted by global partners / Inside HFCL / Join the lead in tackling the world’s biggest network challenges / Defined strategy to lead the world in network transformation / HFCL aspires to make a positive impact on India and the world / Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 250、cable 192、telecom 33、switch 26、ftth 21、surveillance 15、datacenter 14、data center 8、ethernet 7、industrial 3、poe 2、automation 2
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GR-20-CORE
+- **社媒**：https://twitter.com/hfclg?lang=en, https://www.facebook.com/hfclg, https://www.instagram.com/hfcllimited/, https://www.linkedin.com/company/hfcl-limited, https://www.youtube.com/channel/UC7DsrJOOuofW4mfsJf6oEBA
+- **产品类页面**：https://www.hfcl.com/products/detail/24-port-l3-non-poe-switch；https://www.hfcl.com/products/detail/24-port-poe-l3-managed-switch；https://www.hfcl.com/products/detail/24-port-l3-managed-switch；https://www.hfcl.com/insights/blogs/network-switches-for-bfsi-security-compliance；https://www.hfcl.com/insights/blogs/c1-series-cloud-managed-network-switches-for-simplified-management；https://www.hfcl.com/insights/blogs/industrial-use-cases-of-optical-fiber-innovation-across-industries
+- **已抓子页**：[Network Switches / Scalable Switching Solutions / HFCL](https://www.hfcl.com/products/family/network-switches)；[io Canvas / AI Network Management / HFCL](https://www.hfcl.com/products/detail/io-canvas-unified-network-management-platform)；[Optical Fiber / HFCL's Global Innovation / HFCL](https://www.hfcl.com/products/optical-fiber)；[Optical Fiber Cables / HFCL's Global Connectivity / HFCL](https://www.hfcl.com/products/optical-fiber-cables)；[A1 Optical Fiber / Bend-Insensitive, Low Loss Connectivity /](https://www.hfcl.com/products/family/a1-optical-fiber)；[A2 Optical Fiber / FTTH Solutions / HFCL](https://www.hfcl.com/products/family/a2-optical-fiber)
+- 首页正文摘录：Check out our latest webinar on AI-Network Ops! Products Products Optical Fiber Optical Fiber Precision in Every Strand: Optical Fiber Excellence by HFCL A1 Optical Fiber This is some text inside of a div block. A2 Optical Fiber This is some text inside of a div block. HFCL 2D Optical Fiber This is some text inside of a div block. HFCL Eka Optical Fiber This is some text inside of a div block. Optical Fiber Cables Op
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-178.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,7 +159,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
