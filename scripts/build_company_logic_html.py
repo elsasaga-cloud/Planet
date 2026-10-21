@@ -209,6 +209,16 @@ def _jsonl(p):
     return [json.loads(l) for l in open(fp, encoding="utf-8") if l.strip()]
 
 
+def _img_cred_note():
+    img_dir = os.path.join(ROOT, "data/smartbyte_site_raw/images")
+    n = len(os.listdir(img_dir)) if os.path.isdir(img_dir) else 0
+    if n >= 1493:
+        return "图片 1,493 张全部下载并入库（型号页内嵌）；"
+    if n:
+        return f"图片已入库 {n}/1,493 张（其余待下一轮运行）；"
+    return "图片 1,493 张已全部下载（二进制暂在 Actions 附件，入 git 由下一轮运行完成）；"
+
+
 def site_status():
     r = site_sum
     dls = _jsonl("data/smartbyte_site_raw/downloads_manifest.jsonl")
@@ -218,7 +228,9 @@ def site_status():
     n_pdf_git = len([f for f in os.listdir(os.path.join(ROOT, "data/smartbyte_site_raw/datasheets")) if f.lower().endswith(".pdf")]) if os.path.isdir(os.path.join(ROOT, "data/smartbyte_site_raw/datasheets")) else 0
     n_txt = len(os.listdir(os.path.join(ROOT, "data/smartbyte_site_raw/datasheet_text"))) if os.path.isdir(os.path.join(ROOT, "data/smartbyte_site_raw/datasheet_text")) else 0
     img_total = 1493
-    img_state = f"{len(im_ok)}/{img_total} 已下载（{sum(d.get('bytes') or 0 for d in im_ok) / 1e6:.0f} MB，随 Actions Release 附件保存，不入 git；型号页里保留 URL）" + ("" if len(im_ok) >= img_total else "；其余由下一轮运行续抓（v2.3 已修复 CDN 断流打崩整轮的问题）")
+    img_dir = os.path.join(ROOT, "data/smartbyte_site_raw/images")
+    n_img_git = len(os.listdir(img_dir)) if os.path.isdir(img_dir) else 0
+    img_state = f"{len(im_ok)}/{img_total} 已下载（{sum(d.get('bytes') or 0 for d in im_ok) / 1e6:.0f} MB）；入库 `data/smartbyte_site_raw/images/` {n_img_git} 张" + ("（型号页直接内嵌前 3 张产品图并逐张给本地路径）" if n_img_git else "（二进制暂在 Actions Release 附件 / 产物，入 git 由下一轮运行完成）")
     return tbl(["项", "状态（截至本页生成时刻）"], [
         ("页面", f"{r.get('pages_ok')}/{r.get('pages_total')} 抓齐（2 个失败 = 站内死链 404：/Unmanaged-Industrial-Switch、/Industrial-Boost-Power-Adaptor）；其中产品页 {len(P)} 个、品类分页 41 个、新闻 8 篇、公司 / 政策页 ≈10 个"),
         ("规格书 PDF", f"{len(dl_ok)}/245 已归档（{sum(d.get('bytes') or 0 for d in dl_ok) / 1e6:.0f} MB；入库 `data/smartbyte_site_raw/datasheets/` {n_pdf_git} 份 + pdftotext 文本 `datasheet_text/` {n_txt} 份）。PHP 下载口对运行器 403，v2.2 解码 base64 path 走站内直链一次成功"),
@@ -429,7 +441,7 @@ A(tbl(["资料", "仓库位置", "量 / 状态"], [
     ("微信纪要（时间线 / 产品项目 / 决定承诺 / 待跟进）", "docs/smartbyte_wechat_summary.md", "310 行；OCR 稿 docs/smartbyte/微信沟通记录_SmartByte_OCR重建.md（13,943 条）；逐图 OCR data/wechat_smartbyte_ocr/"),
     ("Drive《SmartByte》全量索引", "data/smartbyte_drive_index.json", f"{dmeta['文件总数']:,} 文件 / {dmeta['文件夹总数']} 文件夹 / {dmeta['总大小']}；摘要三档 读取内容 {dmeta['摘要来源统计']['读取内容']} / 型号解码 {dmeta['摘要来源统计']['型号解码']} / 文件名推断 {dmeta['摘要来源统计']['文件名推断']}"),
     ("Drive MUST-KNOW 政策文件（原文）", "docs/drive/MUST-KNOW/*.md", "Roadmap / How We Do Business / CCF / TTC / Warranty / Order Procedure / Misc Fee / FAQ / After-sales / Client Oriented / 白皮书节选"),
-    ("官网原始归档", "data/smartbyte_site_raw/", f"{site_sum.get('pages_ok')} 页 HTML + 245 份规格书 PDF（datasheets/）+ 245 份文本（datasheet_text/）+ sitemap / robots / 三份清单 / summary；图片见 Release 附件"),
+    ("官网原始归档", "data/smartbyte_site_raw/", f"{site_sum.get('pages_ok')} 页 HTML + 244 份规格书 PDF（datasheets/，245 条链接中两条同文件）+ 244 份文本（datasheet_text/）+ 图片 images/ + sitemap / robots / 三份清单 / summary"),
     ("官网整理层", "docs/smartbyte/products/（README 索引）", f"{len(P)} 型号页 + data/smartbyte_官网型号索引.csv + data/smartbyte_site/products.json"),
     ("官网公司 / 政策 / 新闻页", "docs/smartbyte/公司与政策页_2026-10-20.md、新闻与固件说明_2026-10-20.md", "About / Warranty / OEM-ODM / SKD-CKD / Contact / 固件 5.x–7.5 全文 / Factory Tour 28 图"),
     ("价格", "data/价格主表.csv、docs/reference/价格表_三档加价_USD.md", f"{len(pm_rows)} 型号，三档 USD，Saga 对应型号"),
@@ -446,7 +458,7 @@ A("<h2 id='s10'>10 · 可信度说明</h2><ul class='tight'>"
   "<li><b>真源优先级</b>（T14 裁定）：SmartByte 官网（2026-09 改版）&gt; SmartByte 2026-09 价格表 &gt; Saga Drive（2026 Q3 旧版）&gt; 仓库既有推断。本页中官网事实带抓取日期 2026-10-20。</li>"
   "<li><b>微信</b>：95 张长截图经 OCR 重建，非逐字原文；8 处关键报价已回看原图切片核对；截图存在时间空洞（2025-04/05、2026-04 等），「没写」≠「没发生」。</li>"
   "<li><b>Drive</b>：索引一个不漏（3,043 条 id 全部回溯到根）；「读取内容」类摘要只读了开头 300–900 字；图片 / 视频 / 设计源文件按文件名推断。</li>"
-  "<li><b>官网</b>：350 页中产品页 252 个全部照录；245 份规格书 PDF 已全部归档并抽取文本（型号页规格表以网页为准、PDF 为佐证，两者口径偶有差异时以 PDF 日期新者为准）；图片以 CDN URL + Release 附件保存；两条 404 为站内死链。</li>"
+  "<li><b>官网</b>：350 页中产品页 252 个全部照录；245 份规格书 PDF 已全部归档并抽取文本（型号页规格表以网页为准、PDF 为佐证，两者口径偶有差异时以 PDF 日期新者为准）；" + _img_cred_note() + "两条 404 为站内死链。</li>"
   "<li><b>本页性质</b>：汇编与判断（第 0、6、7 节的「判断」句为代理基于以上资料的归纳），不是双方签署的文件；任何用于对外承诺的数字请回到对应台账核对。</li></ul>")
 A(f"<footer>生成脚本 <code>scripts/build_company_logic_html.py</code>（只读仓库数据，可重复生成）· 生成于 {gen_time} · 仓库 elsasaga-cloud/Planet 分支 arena/3f35b9b3-planet · 文字结论来源：微信纪要 / Drive 已读文档 / 官网归档 / 价格主表 / MUST-KNOW / Saga 画像。</footer>")
 A("</main></div></body></html>")

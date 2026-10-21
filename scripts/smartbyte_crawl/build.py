@@ -300,6 +300,7 @@ def product_from_html(path, page):
         "datasheets": list(ds.values()),
         "images": imgs,
         "diagram_images": diagrams,
+        "images_local": {u: IMG_LOCAL[u] for u in imgs + diagrams if u in IMG_LOCAL},
     }
 
 
@@ -311,6 +312,21 @@ def safe_name(s):
 
 def md_escape(s):
     return (s or "").replace("|", "\\|").replace("\n", "<br>")
+
+
+IMG_LOCAL = {}  # 图片 URL → data/smartbyte_site_raw/images/<文件名>（运行 #9 起图片二进制入 git）
+
+
+def load_image_index():
+    rows = load_jsonl(os.path.join(RAW, "images_manifest.jsonl"))
+    for d in rows:
+        f = d.get("file")
+        if not f:
+            continue
+        bn = os.path.basename(f)
+        if os.path.exists(os.path.join(RAW, "images", bn)):
+            IMG_LOCAL[d["url"]] = f"data/smartbyte_site_raw/images/{bn}"
+    return len(IMG_LOCAL)
 
 
 def render_md(p, pmatch, dl_by_url):
@@ -365,9 +381,22 @@ def render_md(p, pmatch, dl_by_url):
     for name, txt in p["extra_sections"].items():
         lines += [f"## {name}（原文）", "", txt, ""]
     if p["images"] or p["diagram_images"]:
-        lines += ["## 图片（CDN 链接；二进制随归档 Release 保存，不入 git）", ""]
-        lines += [f"- {u}" for u in p["images"]]
-        lines += [f"- （栏目内图）{u}" for u in p["diagram_images"]]
+        n_local = sum(1 for u in p["images"] + p["diagram_images"] if u in IMG_LOCAL)
+        if n_local:
+            lines += [f"## 图片（{n_local}/{len(p['images']) + len(p['diagram_images'])} 张已入库 `data/smartbyte_site_raw/images/`，其余仅 CDN 链接）", ""]
+        else:
+            lines += ["## 图片（CDN 链接；二进制待入库）", ""]
+        shown = 0
+        for u in p["images"]:
+            loc = IMG_LOCAL.get(u)
+            if loc and shown < 3:  # 前 3 张产品图直接内嵌显示（相对 docs/smartbyte/products/ 的路径）
+                lines.append(f"![{p['model'] or ''}](../../../{loc})")
+                lines.append("")
+                shown += 1
+            lines.append(f"- {u}" + (f" → `{loc}`" if loc else ""))
+        for u in p["diagram_images"]:
+            loc = IMG_LOCAL.get(u)
+            lines.append(f"- （栏目内图）{u}" + (f" → `{loc}`" if loc else ""))
         lines.append("")
     lines.append("---")
     lines.append("来源：SmartByte 官网（T15 Actions 归档，原文照录，未做改写）；本文件由 `scripts/smartbyte_crawl/build.py` 生成，勿手改。")
@@ -383,6 +412,7 @@ def main():
         if prev is None or (d.get("file") and not prev.get("file")):
             dl_by_url[d["url"]] = d
     pm = load_price_master()
+    n_img_local = load_image_index()
     products = []
     for pg in pages:
         if not pg.get("file"):
@@ -485,7 +515,7 @@ def main():
         L.append("")
     with open(os.path.join(OUT_MD_DIR, "README.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(L) + "\n")
-    print(f"products {len(products)} (with model {sum(1 for p in products if p['model'])}); price matched {n_match}; "
+    print(f"images local {n_img_local}; " + f"products {len(products)} (with model {sum(1 for p in products if p['model'])}); price matched {n_match}; "
           f"datasheet links {n_ds}, archived {n_ds_ok}; md files {len(used)}; csv rows {len(index_rows)}")
 
 
