@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（timeout）",
- "summary": "加拿大经销/集成（类型待核，无官网快照）：官网快照失败（timeout）；表内「工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "加拿大 YM Inc（yminc.ca；2025 年阿里巴巴 RFQ「工业 PoE Extender」；KP Mario Elia；官网 timeout，业务范围待核）；表内未跟进。",
+ "type": "网络/安防贸易商（加拿大，PoE 延长器 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,54 @@
    "quote": "工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 PoE Extender RFQ 2025",
+   "quote": "2025年使用国际站 / 工业PoE Extender / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mario Elia",
+   "title": "（职务待核）",
+   "email": "mario@yminc.ca",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 yminc.ca，语言 ?，快照状态 timeout；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（待核，加拿大）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "网络/安防贸易商（加拿大，PoE 延长器 RFQ）",
   "region": "加拿大",
   "contact": "mario@yminc.ca"
  },
  "signals": [
-  "用户表兴趣/备注：工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ"
+  "表内：2025 年使用国际站 / 工业 PoE Extender / from: 阿里巴巴 RFQ；KP Mario Elia",
+  "快照：timeout"
  ],
  "risks": [
-  "官网快照失败（timeout）：域名/证书待核，邮件可能退回"
+  "PoE 延长器品类 Saga 不供（Q-32）；官网 timeout（业务范围待核）；RFQ 时效待核（2025）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-054GP",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代"
  },
- "email_hook": "Mario, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mario, following your 2025 request for an industrial PoE extender: we do not carry extenders, but a compact DIN-rail 4-PoE + 1 uplink industrial switch (−40~75 °C, 12–57 V, 802.3at) can serve as a powered mid-span node from single units, EXW USD — how many drops and what distance does your site need?"
 }

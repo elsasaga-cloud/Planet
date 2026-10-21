@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（skipod.lk，快照 2026-10-21）",
- "summary": "斯里兰卡网络/安防经销或集成（官网未见角色词，待核）：官网「SkiPod Manufacture Pvt Ltd - Sri Lanka」（en）；表内「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "斯里兰卡 SkiPod Manufacture Pvt Ltd（混合现实滑雪模拟器设计制造商，BOI 支持的制造设施；2026 年阿里巴巴 RFQ「10 个 8 电口」；KP Akaloosha Dolage）；表内未跟进。",
+ "type": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,61 @@
    "quote": "10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SkiPod 定位",
+   "quote": "SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka",
+   "url": "https://skipod.lk/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "10 个 8 电口 RFQ 2026",
+   "quote": "2026年使用国际站 / 10个8电口 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Akaloosha Dolage",
+   "title": "（职务待核）",
+   "email": "akalooshad@skipod.lk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "斯里兰卡",
   "other": "官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "混合现实滑雪模拟器制造（斯里兰卡）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
   "region": "斯里兰卡",
   "contact": "akalooshad@skipod.lk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://skipod.lk/）",
-  "官网公开邮箱：dushyanthab@skipod.lk",
-  "用户表兴趣/备注：10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ"
+  "官网：SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka. BOI-backed manufacturing facility",
+  "表内：2026 年使用国际站 / 10 个 8 电口 / from: 阿里巴巴 RFQ；KP Akaloosha Dolage"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效"
  },
- "email_hook": "Akaloosha, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Akaloosha, following your request for ten 8-port copper switches: we can supply either a DIN-rail industrial 8-GE unit (−40~75 °C, 12–57 V, for inside the simulator cabinet) or a desktop 8-GE model, CE/RoHS, EXW USD, 10–15 days — which mounting and input voltage does your simulator need?"
 }

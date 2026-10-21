@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（unea-x.com，快照 2026-10-21）",
- "summary": "日本工业自动化/IoT 方案商：官网「UNEAX株式会社 | ビジネスを加速させるリーディングカンパニー」（ja）；品类词：网络交换 / PoE；产品页：switch、products；表内「工业switch 国内的外壳」；群发 2 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "日本 UNEAX 株式会社（高速存储、通信、IoT 方案、精密金属加工；站内 /switch/ 产品页；表内「工业 switch 国内的外壳」）；表内 2 次跟进无回复。",
+ "type": "IT/工业产品贸易商（日本，工业 switch 现国内货）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -28,6 +28,20 @@
    "quote": "未来をつくるテクノロジーで、あなたのビジネスに革命を。高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工。お客様の問題を定義し、解決へと導きます。詳細はお気軽にお問い合わせください。",
    "url": "https://unea-x.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "UNEAX 定位",
+   "quote": "UNEAX株式会社 ; 高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工 ; /switch/",
+   "url": "https://unea-x.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 switch 国内的外壳",
+   "quote": "工业switch 国内的外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -36,32 +50,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "日本",
   "other": "官网 unea-x.com，语言 ja，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "存储 / 通信 / IoT / 金属加工（日本）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "IT/工业产品贸易商（日本，工业 switch 现国内货）",
   "region": "日本",
   "contact": "info@unea-x.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://unea-x.com/）",
-  "官网公开邮箱：cuishengfu@gmail.com",
-  "用户表兴趣/备注：工业switch 国内的外壳"
+  "官网：UNEAX株式会社 | ビジネスを加速させるリーディングカンパニー ; 高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工；页面 /switch/、/products/",
+  "表内：工业 switch 国内的外壳"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供国内货价格基准低；2 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?"
 }

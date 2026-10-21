@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（video-svp.ru，快照 2026-10-21）",
- "summary": "俄罗斯制造商（同行或 OEM 客户待核）：官网「РУССБЫТ - российский производитель систем оповещения и управления эвакуацией, коммутаторов」（ru-RU）；站内型号：SVP-V400、SVP-V410CB、SVP-V410DBE、SVP-V4X0AB；表内「工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS」；群发 17 次、无回复。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。",
+ "type": "告警系统/交换机制造商（俄罗斯，用户标重要）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "E-link"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "РУССБЫТ 定位",
+   "quote": "РУССБЫТ - российский производитель систем оповещения и управления эвакуацией, коммутаторов",
+   "url": "https://sbvs.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "比较重要；E-link 工业 FS",
+   "quote": "有E-link的工业FS；比较重要",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +45,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 video-svp.ru，语言 ru-RU，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "疏散广播 / 告警系统（自有品牌，俄罗斯）",
+  "交换机 / MC（自有品牌 SVP）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "告警系统/交换机制造商（俄罗斯，用户标重要）",
   "region": "俄罗斯",
   "contact": "video@svp.ru、vladros@inbox.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://sbvs.ru/）",
-  "官网公开邮箱：info@sbvs.ru",
-  "用户表兴趣/备注：工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS"
+  "官网：РУССБЫТ - российский производитель систем оповещения и управления эвакуацией, коммутаторов ; Системы оповещения и управления эвакуацией；站内 SVP-V400 / SVP-V410CB",
+  "表内：工业 FS MC SFP 机架 VC / 工业 FS MC EOC 等；有 E-link 的工业 FS；比较重要"
  ],
  "risks": [
-  "群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为 inbox.ru 免费邮箱"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?"
 }

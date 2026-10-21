@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dclapac.com，快照 2026-10-21）",
- "summary": "香港系统集成/工程商：官网「Front Page - DCL Communication Limited」（en-US）；品类词：数据中心 / 企业 IT；产品页：bachmann-colourful-products、sp1-setup-workshop、dcl-workshop-registration、aidcmini-workshop-rag-empowerment；表内「Managed Networking」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "香港 DCL Communication Limited（金融业 IT 基础设施交钥匙方案：机柜到合规、数据中心（70 处）、PDU、工作坊；KP Marcus Chui（Chief Technology Officer）、William Chan（Senior Solution Advisor）；表内「Managed Networking」）；表内未跟进。",
+ "type": "香港数据中心集成商（非目标区/品类）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,46 @@
    "quote": "Managed Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "DCL 定位",
+   "quote": "Front Page - DCL Communication Limited ; Strategic Infrastructure, Unmatched Reliability ; We solve the FSI IT puzzle!",
+   "url": "https://www.dclapac.com/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "香港数据中心集成商（非目标区/品类）；c_sub=区域外/品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "香港",
   "other": "官网 dclapac.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "数据中心 / 企业 IT"
+  "金融业 IT 基础设施 / 数据中心（香港）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "香港数据中心集成商（非目标区/品类）",
   "region": "香港",
   "contact": "marcus.chui@dcl.com.hk、william.chan@dcl.com.hk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dclapac.com/）",
-  "官网公开邮箱：dcl@work.com、john@work.com、marketing@dcl.com.hk",
-  "用户表兴趣/备注：Managed Networking"
+  "官网：Front Page - DCL Communication Limited ; Strategic Infrastructure, Unmatched Reliability ; We solve the FSI IT puzzle!；kw datacenter 70",
+  "表内：Managed Networking；KP Marcus Chui / Chief Technology Officer；William Chan / Senior Solution Advisor"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非目标区（香港，国内可直采）；数据中心/金融 IT 导向（非接入层白牌位）"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "香港金融数据中心集成商（数据中心导向、非目标区域）→ 改 C"
  },
- "email_hook": "Marcus, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：香港/数据中心导向）"
 }

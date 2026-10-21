@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hti.ly，快照 2026-10-21）",
- "summary": "利比亚系统集成/工程商：官网「شركة الحداثة للإتصالات والتقنية – أعمال」（ar）；品类词：光纤 / 媒体转换；表内「Bypass模块 / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "利比亚 HTI 现代通信与技术公司（hti.ly：面向全国的宽带/通信服务——2,000 企业、25,000 家庭、100 合作伙伴（运营商/ISP 性质）；阿里巴巴询盘「Bypass 模块」；KP Ziad Jleli（CTO））；表内未跟进。",
+ "type": "通信服务商/ISP（利比亚，守界：运营商）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,53 @@
    "quote": "Bypass模块 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HTI 定位",
+   "quote": "شركة الحداثة للإتصالات والتقنية ; 2000 أعمال ; 25000 منازل",
+   "url": "https://hti.ly/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Bypass 模块询盘",
+   "quote": "Bypass模块 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "运营商/ISP 性质且区域外；c_sub=运营商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "利比亚",
   "other": "官网 hti.ly，语言 ar，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换"
+  "宽带 / 通信服务（利比亚）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "通信服务商/ISP（利比亚，守界：运营商）",
   "region": "利比亚",
   "contact": "zied@hti.ly"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://hti.ly/）",
-  "官网公开邮箱：contact@hti.ly",
-  "用户表兴趣/备注：Bypass模块 / from: 阿里巴巴询盘"
+  "官网：شركة الحداثة للإتصالات والتقنية – أعمال ; 2000 أعمال ; 25000 منازل ; 100 شريك نجاح",
+  "表内：Bypass 模块 / from: 阿里巴巴询盘；KP Ziad. Jleli, CTO"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "运营商/ISP（自用采购、合规与结算风险）；利比亚非目标区；bypass 模块 Saga 不供"
  ],
  "saga_fit": {
   "p1": null,
   "tier": 25,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：系统集成/工程商→25%）"
+  "why": "运营商/ISP 性质（自用网络）、利比亚非目标区、bypass 模块品类不供 → 改 C"
  },
- "email_hook": "Ziad, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "（不发送：运营商/ISP）"
 }
