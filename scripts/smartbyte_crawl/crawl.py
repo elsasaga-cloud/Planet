@@ -39,6 +39,9 @@ v2.3（2026-10-21，运行 #4 规格书 245/245 直链成功、图片 900/1493 �
 v2.4（2026-10-21，运行 #5 站点对运行器 IP 全 403 但剩余 593 张图都在 CDN 之后）：
   站点被封时若剩余任务只剩 CDN 图片，先探一张 CDN 图：能取就照常跑图片阶段（CDN 与站点不是同一套封禁）；
   页面 / 附件 / 图片三阶段都无剩余时 complete=true，不再因本轮探测被拒而记为未完成。
+v2.5（2026-10-21，运行 #7 成果丢失之后）：Actions 的 checkout 停在触发提交而非分支最新；两轮排队时后一轮的提交步骤
+  与前一轮的提交冲突（工作流里 pull --rebase 失败被 || true 吞掉 → push 成空操作，本轮只剩 Release 附件）。
+  开抓前先把工作区同步到分支最新（拿最新检查点、让提交步骤干净落地）；本地运行不受影响。
 """
 import hashlib
 import json
@@ -543,7 +546,28 @@ def save_state(path, queue, seen, downloads, images, external, phase, runs):
     os.replace(tmp, path)
 
 
+def _sync_to_branch_tip():
+    """仅在 GitHub Actions 里：把检出同步到分支最新提交（见 v2.5 说明）。"""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return
+    ref = os.environ.get("GITHUB_REF_NAME") or ""
+    if not ref:
+        return
+    try:
+        subprocess.run(["git", "fetch", "-q", "origin", ref], check=True, timeout=180)
+        head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True, timeout=30).stdout.strip()
+        tip = subprocess.run(["git", "rev-parse", "FETCH_HEAD"], capture_output=True, text=True, timeout=30).stdout.strip()
+        if head and tip and head != tip:
+            subprocess.run(["git", "checkout", "-q", "--detach", tip], check=True, timeout=120)
+            log(f"synced checkout {head[:7]} → branch tip {tip[:7]} ({ref})")
+        else:
+            log(f"checkout already at branch tip {head[:7]}")
+    except Exception as e:  # noqa: BLE001
+        log(f"sync to branch tip skipped: {e.__class__.__name__}: {e}")
+
+
 def main():
+    _sync_to_branch_tip()
     for d in ("html", "datasheet_text", "datasheets"):
         os.makedirs(os.path.join(OUT, d), exist_ok=True)
     for d in ("downloads", "images"):
