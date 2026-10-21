@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（elimopt.co.kr，快照 2026-10-21）",
- "summary": "韩国品牌商/贴牌需求（OEM/ODM）：官网「엘림광통신」（ko）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：EL-G48E6TG-POE、G24E4G-POE、G16E2G-POE、G8E4G-POE；表内「FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品」；群发 23 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "韩国 엘림광통신 Elim Optical Communication（网络设备/光传输设备：自有 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP（bypass）PoE 交换机；表内「FS / 工业 FS / MC / AHD / SDI；VC 是大头，自己的 logo」「质量高」「一些销售平台也在卖他们的产品」）；群发 23 次无回复。",
+ "type": "韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "엘림광통신 站点",
+   "quote": "엘림광통신 ; 네트워크 장비/광전송 장비 ; 솔루션 ; EL-G48E6TG-POE ; G24E4G-POE",
+   "url": "https://elimopt.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "VC 大头 自己的 logo",
+   "quote": "FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +43,58 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 elimopt.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络设备 / 光传输设备（自有品牌 Elim）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）",
   "region": "韩国",
   "contact": "h0824@elimopt.co.kr、khs10623@elimopt.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://elimopt.co.kr/）",
-  "官网公开邮箱：elimopt@elimopt.co.kr、jungsun@elimopt.co.kr",
-  "用户表兴趣/备注：FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品"
+  "站内 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP；kw poe 31 / cctv 11",
+  "表内：VC 是大头 自己的 logo；一些销售平台也在卖他们的产品；质量高"
  ],
  "risks": [
-  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP",
+  "现代工（深圳）价格基准低；VC 为其大头"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-424DGGPM-280W",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "Elim（自有）",
+   "model": "G24E4G-POE",
+   "spec": "24 PoE + 4 SFP",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://elimopt.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Elim（自有）",
+   "model": "G8E4G-POE",
+   "spec": "8 PoE + 4 上联",
+   "saga": "STC-28DGGPM",
+   "url": "https://elimopt.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Elim（自有）",
+   "model": "PG8E2G-BP",
+   "spec": "8 PoE bypass",
+   "saga": "SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
+   "url": "https://elimopt.co.kr/",
+   "date": "2026-10-21"
+  }
+ ]
 }

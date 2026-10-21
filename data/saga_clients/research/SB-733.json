@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（selectron.ch，快照 2026-10-21）",
- "summary": "瑞士IT / 网络安全服务商（交换机为附带）：官网「Selectron Start page | Selectron」（en）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：RS-485、RS485、EN50155、TS50701；表内「public transport」；群发 19 次、有回复。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "瑞士 Selectron Systems（轨道车辆控制与通信技术：EN50155 / EN50129 / TS50701，与 duagon 合作，车载交换机与中继器页；表内「public transport」，**有回复**（Gmail 待核））；群发 19 次。",
+ "type": "轨道车辆控制系统厂商（EN50155，守界）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,54 @@
    "quote": "public transport",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Selectron 首页",
+   "quote": "Selectron Start page | Selectron ; Built by Rail Experts – For Rail Experts ; Joint Strength for Rail: Selectron and duagon Working Together ; EN50155",
+   "url": "https://www.selectron.ch/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "public transport；有回复",
+   "quote": "public transport；reply True",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "守界：瑞士轨道车辆控制系统厂商（Selectron，EN50155 车载），Saga 无对应品类；有回复待核但品类不符；c_sub=守界：轨道",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞士",
   "other": "官网 selectron.ch，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "轨道车辆控制 / 通信 / I/O 系统"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "轨道车辆控制系统厂商（EN50155，守界）",
   "region": "瑞士",
   "contact": "info@selectron.ch"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.selectron.ch/en/）",
-  "官网公开邮箱：info@selectron.ch",
-  "用户表兴趣/备注：public transport"
+  "首页：Built by Rail Experts – For Rail Experts ; Joint Strength for Rail: Selectron and duagon Working Together ; Cyber Resilience Act；页面 /en/products-and-solutions-hidden/communication-technology/switches-and-repeater/",
+  "站内 EN50155 / EN50129 / TS50701；表内：public transport"
  ],
  "risks": [
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期"
+  "守界：轨道车辆控制/通信（EN50155、EN50129、TS50701 网络安全），Saga 无车载品类",
+  "**有回复**：线程在 Gmail（s./a. 邮箱待导出核对），但品类不符"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 6、PoE 1 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：IT / 网络安全服务商（交换机为附带）→25%）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "轨道车载（EN50155/EN50129）为唯一场景，Saga 无对应品类且守界；有回复但品类不符 → 改 C（回复线程留 Gmail 待核）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：轨道守界）"
 }

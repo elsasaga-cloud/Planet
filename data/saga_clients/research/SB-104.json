@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（karerguvenlik.com，快照 2026-10-21）",
- "summary": "土耳其分销商/批发商：官网「Karer Güvenlik Sistemleri」（tr）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：KR-S1718CFU-AP、SP01744、KR-S310CF-AP、SP01742；表内「商业PoE」；群发 2 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "土耳其 Karer Güvenlik Sistemleri（报警与安防摄像机批发零售；自有 KR- 标 PoE 交换机 KR-S1710GU-AP（8+2 千兆 PoE）/ KR-S310CF-AP（8+2 百兆）/ KR-S1718CFU-AP、Hitachi 4+2 PoE；表内「商业 PoE」「质量一般」；KP Nurbaki Karatas（Company Owner）、Samet Sahin（Director of Technical Services））；表内 2 次跟进无回复。",
+ "type": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hitachi"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,39 +23,87 @@
    "quote": "商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Karer Güvenlik 定位",
+   "quote": "Karer Güvenlik Sistemleri alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir...",
+   "url": "https://karerguvenlik.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业PoE；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Nurbaki Karatas",
+   "title": "Company Owner",
+   "email": "info@karerguvenlik.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Samet Sahin",
+   "title": "Director of Technical Services",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 karerguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "报警 / 安防摄像机批发零售（自有标 KR）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）",
   "region": "土耳其",
   "contact": "info@karerguvenlik.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://karerguvenlik.com/）",
-  "官网公开邮箱：info@karerguvenlik.com",
-  "用户表兴趣/备注：商业PoE"
+  "页面 /network-ekipmanlari/switchler/8-port/prd-kr-s1710gu-ap-82-port-poe-gbps-switch、/…/prd-kr-s310cf-ap-82-port-poe-mbps-switch、/…/4-port/prd-hiitachi-42-poe-swich；站内 KR-S1718CFU-AP",
+  "官网：alarm ve güvenlik kamerası sektöründe toptan ve perakende satışı yapmakta olan kurumsal bir şirkettir；KP Nurbaki Karatas / Company Owner；Samet Sahin / Director of Technical Services"
  ],
- "risks": [],
+ "risks": [
+  "土耳其：汇率敏感；现代工（深圳）价格基准低；表内「质量一般」",
+  "2 次跟进无回复 → 改向 Owner 具名首触"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有 KR-S1710GU-AP（8 PoE + 2 GE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 KR 标；百兆位 HRUI STC-028GFP（$17.6）；16 口位 STC-2216GPM（HRUI 列表价）"
  },
- "email_hook": "Nurbaki, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Nurbaki, for the KR-S1710GU-AP / KR-S310CF-AP PoE switches under your label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget FE/GE unmanaged PoE models from small lots in your packaging, CE/RoHS, EXW USD — which KR model do you reorder most?",
+ "products_seen": [
+  {
+   "brand": "Karer（自有标）",
+   "model": "KR-S1710GU-AP",
+   "spec": "8 PoE + 2 千兆上联",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.karerguvenlik.com/network-ekipmanlari/switchler/8-port/prd-kr-s1710gu-ap-82-port-poe-gbps-switch",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Karer（自有标）",
+   "model": "KR-S310CF-AP",
+   "spec": "8 PoE 百兆 + 2 上联",
+   "saga": "HRUI STC-028GFP（列表价，注明）",
+   "url": "https://karerguvenlik.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

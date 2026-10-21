@@ -3,12 +3,15 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（sicurtecnicanapoli.it，快照 2026-10-21）",
- "summary": "意大利网络/安防经销或集成（官网未见角色词，待核）：官网「sicurtecnicanapoli」（it-IT）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie、Uniview；站内型号：TVP-WMB-01、EVN3700-MM、TVP-CMB-02、TVP-PMB-02；表内「Utepo的工商业交换机」；群发 13 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "意大利 Sicurtecnica Napoli（那不勒斯安防经销网店：TruVision（UTC）、UNV、Safire、Crow、Ruijie；表内「Utepo 的工商业交换机」「可以尝试多跟进一下」；KP Arena Enzo（Tecnico））；群发 13 次无回复。",
+ "type": "安防经销网店（意大利，Utepo 工商业 FS 在售）",
  "size": "",
  "brands_seen": [
   "Ruijie",
-  "Uniview"
+  "Uniview",
+  "Utepo",
+  "TruVision",
+  "Safire"
  ],
  "evidence": [
   {
@@ -24,45 +27,62 @@
    "quote": "Utepo的工商业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Sicurtecnica Napoli 首页",
+   "quote": "Home - sicurtecnicanapoli ; TruVision ; Categorie in primo piano ; UTC ; UNV ; SAFIRE ; CROW Italia",
+   "url": "https://www.sicurtecnicanapoli.it/home/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 的工商业交换机",
+   "quote": "Utepo的工商业交换机；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Arena Enzo",
+   "title": "Tecnico",
+   "email": "info@sicurtecnicanapoli.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防产品经销（CCTV / 入侵 / 网络）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "安防经销网店（意大利，Utepo 工商业 FS 在售）",
   "region": "意大利",
   "contact": "info@sicurtecnicanapoli.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.sicurtecnicanapoli.it/home/）",
-  "在售同口型交换品牌：Ruijie → 直接对位替换",
-  "安防品牌：Uniview → PoE 配套切入",
-  "官网公开邮箱：info@sicurtecnicanapoli.it",
-  "用户表兴趣/备注：Utepo的工商业交换机"
+  "首页：TruVision ; UTC ; UNV ; SAFIRE ; CROW Italia ; ATS1700；kw poe 15 / camera 15 / uniview 4",
+  "表内：Utepo 的工商业交换机；KP Arena Enzo / Tecnico"
  ],
  "risks": [
-  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现卖 Utepo（深圳）价格基准低；网店量小",
+  "13 次无回复 → 改向技术负责人具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP"
  },
- "email_hook": "Arena, alongside the Ruijie / Uniview lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Enzo, alongside the Utepo commercial and industrial switches you list with TruVision and UNV cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE units from small lots, CE/RoHS, EXW USD — which Utepo model do your installers order most, so we quote its equivalent?"
 }

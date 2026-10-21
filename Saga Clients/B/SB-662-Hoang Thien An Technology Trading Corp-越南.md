@@ -2,7 +2,7 @@
 
 > **评级 B**　|　越南　|　档案编号 `SB-662`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光通信产品贸易商（越南，MC 机架询盘）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-662
@@ -12,7 +12,7 @@ score: 34
 country: 越南
 region: 亚太
 website: hoangthienan.com.vn
-type: 分销商/经销商
+type: 光通信产品贸易商（越南，MC 机架询盘）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：越南分销商/经销商：官网「http://hoangthienan.com.vn – CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN」（vi）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、EtherWAN、ORing、Huawei；站内型号：WT-9110G、WT-9110、WT-8110GSA-11-20、WT-8110SA-11-20；表内「16槽收发器机架 / from: 自建站」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：越南 Hoàng Thiên Ân Technology Trading Corp.（SFP 模块、GPON OLT SFP、Wintop WT-9110G MC、Cisco / EtherWAN / ORing / Huawei；自建站询盘「16 槽收发器机架」；KP Anh Phan（Project Director，anhpt@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：分销商/经销商→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Hoang Thien An Technology Trading Corp. | 事实（用户表） |
 | 国家 | 越南 | 事实（用户表）|
 | 网站/域名 | hoangthienan.com.vn | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 光通信产品贸易商（越南，MC 机架询盘） | 推断（据兴趣/备注关键词） |
 | 联系人 | Anh Phan, Project Director | 事实（用户表） |
 | 来源（From） | 2025.12.5 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,34 +55,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（hoangthienan.com.vn，快照 2026-10-21）
-- **是谁**：越南分销商/经销商：官网「http://hoangthienan.com.vn – CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN」（vi）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、EtherWAN、ORing、Huawei；站内型号：WT-9110G、WT-9110、WT-8110GSA-11-20、WT-8110SA-11-20；表内「16槽收发器机架 / from: 自建站」；表内未见跟进记录。
-- **类型**：分销商/经销商
-- **在卖/在用品牌**：Cisco, EtherWAN, ORing, Huawei
+- **是谁**：越南 Hoàng Thiên Ân Technology Trading Corp.（SFP 模块、GPON OLT SFP、Wintop WT-9110G MC、Cisco / EtherWAN / ORing / Huawei；自建站询盘「16 槽收发器机架」；KP Anh Phan（Project Director，anhpt@））；表内无跟进记录。
+- **类型**：光通信产品贸易商（越南，MC 机架询盘）
+- **在卖/在用品牌**：Cisco, EtherWAN, ORing, Huawei, Wintop
 - **【官网快照】官网标题：http://hoangthienan.com.vn – CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN；Giới thiệu；Module SFP；SFP GPON OLT；WT-SFP+-ZR；WT-9110G/SM/20/LC/D
   > 来源：https://hoangthienan.com.vn/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 16槽收发器机架 / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Hoàng Thiên Ân 站点**
+  > CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN ; Module SFP ; SFP GPON OLT ; WT-SFP+-ZR ; WT-9110G/SM/20/LC/D
+  > 来源：https://hoangthienan.com.vn/（抓取 2026-10-21）
+- **【用户表】16 槽收发器机架询盘**
+  > 16槽收发器机架 / from: 自建站
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Anh Phan（）anhpt@hoangthienan.com.vn 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 越南 |
 | 其他 | 官网 hoangthienan.com.vn，语言 vi，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 越南；contact: anhpt@hoangthienan.com.vn、sales@hoangthienan.com.vn
+- **业务线**：光通信产品贸易（SFP / MC / GPON）
+- **触达通道（公开）**：role: 光通信产品贸易商（越南，MC 机架询盘）；region: 越南；contact: anhpt@hoangthienan.com.vn、sales@hoangthienan.com.vn
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://hoangthienan.com.vn/）
-  - 在售工业网络品牌：EtherWAN、ORing → 工业线对位
-  - 官网公开邮箱：sales@hoangthienan.com.vn
-  - 用户表兴趣/备注：16槽收发器机架 / from: 自建站
-- **风险/边界**：企业级品牌为主（Cisco/Huawei）：Saga 白牌只作价格补充线；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-110GE（20% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：分销商/经销商→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Anh, alongside the Cisco / EtherWAN lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
+  - 表内：16槽收发器机架 / from: 自建站；KP Anh Phan / Project Director
+  - 站内 Module SFP / SFP GPON OLT / WT-SFP+-ZR / WT-9110G；kw sfp 38 / media converter 34 / cisco 16
+- **风险/边界**：询盘品类（MC 机架）Saga 列表无 → 代报需注明（Q-32）；非主攻区（T5）；主品类 SFP/GPON Saga 不供；无跟进记录
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）
+- **邮件切入句（英文）**：Anh, on the 16-slot media-converter chassis you asked about: we can quote it from our partner line together with the slide-in gigabit MC cards, and alongside offer DIN-rail industrial MCs and 8-PoE + 2 SFP switches from small lots, CE/RoHS, EXW USD — how many chassis and card slots does the project need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -120,6 +125,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Anh Phan | — | anhpt@hoangthienan.com.vn | 调研核实（公开页） | 用户表 |
 | Anh Phan, Project Director | — | anhpt@hoangthienan.com.vn / sales@hoangthienan.com.vn / +842836366340 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -136,7 +142,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：分销商/经销商→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| **P1** | STI-110GE | 深挖对位：询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（光通信产品贸易商（越南，MC 机架询盘）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -191,9 +197,9 @@ updated: 2026-10-21
 ```text
 Hi Anh,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Anh, alongside the Cisco / EtherWAN lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Anh, on the 16-slot media-converter chassis you asked about: we can quote it from our partner line together with the slide-in gigabit MC cards, and alongside offer DIN-rail industrial MCs and 8-PoE + 2 SFP switches from small lots, CE/RoHS, EXW USD — how many chassis and card slots does the project need?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

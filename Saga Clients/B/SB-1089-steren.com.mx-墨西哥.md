@@ -2,7 +2,7 @@
 
 > **评级 B**　|　墨西哥　|　档案编号 `SB-1089`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(墨西哥)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）（推断）　|　**历史关系**：推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(墨西哥)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1089
@@ -12,7 +12,7 @@ score: 27
 country: 墨西哥
 region: 拉美
 website: steren.com.mx
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）
 tier_tags: ["E冷名单(墨西哥)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：墨西哥品牌商/贴牌需求（OEM/ODM）：官网「Steren La Mejor Tienda de Electrónica en México」（es）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：CCTV-305、CCTV-318、CCTV-314、CCTV-413；表内「用的洪瑞的 商业POE 自己的型号」；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业POE 自己的型号）
+- **是谁**：墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业POE 自己的型号）
 - **为什么是 B 级**：-6 E 冷名单（按国家群发）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | steren.com.mx（取自域名，公司全名待核） | 推断 |
 | 国家 | 墨西哥 | 事实（用户表）|
 | 网站/域名 | steren.com.mx | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 用的洪瑞的<br>商业POE 自己的型号 | 事实（用户表） |
@@ -55,32 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（steren.com.mx，快照 2026-10-21）
-- **是谁**：墨西哥品牌商/贴牌需求（OEM/ODM）：官网「Steren La Mejor Tienda de Electrónica en México」（es）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：CCTV-305、CCTV-318、CCTV-314、CCTV-413；表内「用的洪瑞的 商业POE 自己的型号」；群发 1 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。
+- **类型**：墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）
+- **在卖/在用品牌**：HRUI
 - **【官网快照】官网标题：Steren La Mejor Tienda de Electrónica en México；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Compra en línea Lo Mejor en Electrónica | Compras Seguras | Envío Rápido y Seguro | Envíos Gratis a Partir de $499
   > 来源：https://www.steren.com.mx/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 用的洪瑞的 商业POE 自己的型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Steren 首页**
+  > Steren La Mejor Tienda de Electrónica en México ; Seguridad 2026 ; Cuida tu hogar desde cualquier lugar ; CCTV-305
+  > 来源：https://www.steren.com.mx/（抓取 2026-10-21）
+- **【用户表】用 HRUI 的；商业 PoE 自己的型号**
+  > 用的洪瑞的 商业POE 自己的型号
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 墨西哥 |
 | 其他 | 官网 steren.com.mx，语言 es，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 墨西哥；contact: info@steren.com.mx
+- **业务线**：电子产品零售连锁（自有品牌 Steren）
+- **触达通道（公开）**：role: 墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）；region: 墨西哥；contact: info@steren.com.mx
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.steren.com.mx/）
-  - 官网公开邮箱：ecommerce@steren.com.mx
-  - 用户表兴趣/备注：用的洪瑞的 商业POE 自己的型号
-- **风险/边界**：表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Steren La Mejor Tienda de Electrónica en México；首页 Seguridad 2026 ; Cuida tu hogar desde cualquier lugar；站内 CCTV-305 / CCTV-318；kw cable 537 / cctv 161
+  - 表内：用的洪瑞的；商业 PoE 自己的型号
+- **风险/边界**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；体量大（连锁零售，集中采购 + NOM 认证）；非主攻区（T5）；1 次跟进无回复，仅 info@
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位
+- **邮件切入句（英文）**：For the Steren-branded PoE switch range, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, FCC/CE/RoHS — would a managed step-up fit your CCTV category for small-business customers?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -137,7 +143,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -191,7 +197,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Steren-branded PoE switch range, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, FCC/CE/RoHS — would a managed step-up fit your CCTV category for small-business customers?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（balter.de，快照 2026-10-21）",
- "summary": "德国品牌商/贴牌需求（OEM/ODM）：官网「Balter.de」（de-de）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Aruba；站内型号：RJ-45、NTI-P3000IR、NTI-P6000IR、NTI-P12000IR；表内「UTEPO的 也有洪瑞的poE 自己的logo」；群发 8 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "德国 Balter（自有品牌专业视频监控、可视门禁与报警产品；表内「Utepo 的，也有洪瑞（HRUI）的 PoE；自己的 logo」；邮箱 support@）；群发 8 次无回复。",
+ "type": "德国安防自有品牌商（PoE 部分由 HRUI 供货 → Q-33 口径）",
  "size": "",
  "brands_seen": [
-  "Aruba"
+  "Aruba",
+  "Utepo",
+  "HRUI"
  ],
  "evidence": [
   {
@@ -23,6 +25,20 @@
    "quote": "UTEPO的 也有洪瑞的poE 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Balter 定位",
+   "quote": "Balter.de ; Professionelle Videoüberwachungs-Produkte, Video-Türsprechanlagen und Alarmanlagen.",
+   "url": "https://www.balter.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 与 HRUI 的 PoE，自己的 logo",
+   "quote": "UTEPO的 也有洪瑞的poE 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,34 +47,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 balter.de，语言 de-de，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "视频监控 / 可视门禁 / 报警（自有品牌 Balter）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "德国安防自有品牌商（PoE 部分由 HRUI 供货 → Q-33 口径）",
   "region": "德国",
   "contact": "support@balter.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.balter.de/）",
-  "官网公开邮箱：anmeldung@balter.net、info@balter.de、orders@balter.de",
-  "用户表兴趣/备注：UTEPO的 也有洪瑞的poE 自己的logo"
+  "官网：Professionelle Videoüberwachungs-Produkte, Video-Türsprechanlagen und Alarmanlagen；首页 Balter-BK-1-ST-G-P / Balter-BK-1-DU；站内 NTI-P3000IR / NTI-P6000IR",
+  "表内：UTEPO 的 也有洪瑞的 PoE；自己的 logo"
  ],
  "risks": [
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰"
+  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+  "8 次无回复，仅 support@，无具名 KP"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "官网快照对位：PoE 词频 10、监控 7 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "PoE 现由 Utepo/HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Balter 标作管理型上位"
  },
- "email_hook": "Alongside the Aruba lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the Balter-branded PoE switches that ship with your camera and door-intercom kits, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, CE/RoHS — would a managed step-up suit your larger installations?"
 }

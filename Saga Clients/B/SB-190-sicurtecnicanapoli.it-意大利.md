@@ -2,7 +2,7 @@
 
 > **评级 B**　|　意大利　|　档案编号 `SB-190`　|　优先级 ★★　|　状态：已推送 13 次·未回复
 >
-> **类型**：网络/安防经销或集成（官网未见角色词，待核）（推断）　|　**历史关系**：推送 13 次（2024-05-15 → 2025-10-16）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防经销网店（意大利，Utepo 工商业 FS 在售）（推断）　|　**历史关系**：推送 13 次（2024-05-15 → 2025-10-16）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-190
@@ -12,15 +12,15 @@ score: 49
 country: 意大利
 region: 欧洲
 website: sicurtecnicanapoli.it
-type: 网络/安防经销或集成（官网未见角色词，待核）
+type: 安防经销网店（意大利，Utepo 工商业 FS 在售）
 tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE"]
 deal: no
 replies: 0
 followups: 13
 first_contact: 2024-05-15
 last_contact: 2025-10-16
-p1: STC-424DGGPM-280W
-price_tier: 25%
+p1: STC-28DGGPM
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利网络/安防经销或集成（官网未见角色词，待核）：官网「sicurtecnicanapoli」（it-IT）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie、Uniview；站内型号：TVP-WMB-01、EVN3700-MM、TVP-CMB-02、TVP-PMB-02；表内「Utepo的工商业交换机」；群发 13 次、无回复。（调研 2026-10-21；表内兴趣：Utepo的工商业交换机）
+- **是谁**：意大利 Sicurtecnica Napoli（那不勒斯安防经销网店：TruVision（UTC）、UNV、Safire、Crow、Ruijie；表内「Utepo 的工商业交换机」「可以尝试多跟进一下」；KP Arena Enzo（Tecnico））；群发 13 次无回复。（调研 2026-10-21；表内兴趣：Utepo的工商业交换机）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-05-15 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | sicurtecnicanapoli.it（取自域名，公司全名待核） | 推断 |
 | 国家 | 意大利 | 事实（用户表）|
 | 网站/域名 | sicurtecnicanapoli.it | 事实（用户表 URL/邮箱域名） |
-| 类型 | 网络/安防经销或集成（官网未见角色词，待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防经销网店（意大利，Utepo 工商业 FS 在售） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Arena Enzo / Tecnico | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | Utepo的工商业交换机 | 事实（用户表） |
@@ -65,35 +65,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（sicurtecnicanapoli.it，快照 2026-10-21）
-- **是谁**：意大利网络/安防经销或集成（官网未见角色词，待核）：官网「sicurtecnicanapoli」（it-IT）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie、Uniview；站内型号：TVP-WMB-01、EVN3700-MM、TVP-CMB-02、TVP-PMB-02；表内「Utepo的工商业交换机」；群发 13 次、无回复。
-- **类型**：网络/安防经销或集成（官网未见角色词，待核）
-- **在卖/在用品牌**：Ruijie, Uniview
+- **是谁**：意大利 Sicurtecnica Napoli（那不勒斯安防经销网店：TruVision（UTC）、UNV、Safire、Crow、Ruijie；表内「Utepo 的工商业交换机」「可以尝试多跟进一下」；KP Arena Enzo（Tecnico））；群发 13 次无回复。
+- **类型**：安防经销网店（意大利，Utepo 工商业 FS 在售）
+- **在卖/在用品牌**：Ruijie, Uniview, Utepo, TruVision, Safire
 - **【官网快照】官网标题：sicurtecnicanapoli；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Spedizioni Per tutti gli Ordini Pagamenti Alla consegna (in Sede) Sostituzione o Garanzia Prodotto non funzionante
   > 来源：https://www.sicurtecnicanapoli.it/home/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > Utepo的工商业交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Sicurtecnica Napoli 首页**
+  > Home - sicurtecnicanapoli ; TruVision ; Categorie in primo piano ; UTC ; UNV ; SAFIRE ; CROW Italia
+  > 来源：https://www.sicurtecnicanapoli.it/home/（抓取 2026-10-21）
+- **【用户表】Utepo 的工商业交换机**
+  > Utepo的工商业交换机；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Arena Enzo（）info@sicurtecnicanapoli.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 意大利 |
 | 其他 | 官网 sicurtecnicanapoli.it，语言 it-IT，快照状态 ok；角色判定来源：待核 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 网络/安防经销或集成（官网未见角色词，待核）；region: 意大利；contact: info@sicurtecnicanapoli.it
+- **业务线**：安防产品经销（CCTV / 入侵 / 网络）
+- **触达通道（公开）**：role: 安防经销网店（意大利，Utepo 工商业 FS 在售）；region: 意大利；contact: info@sicurtecnicanapoli.it
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.sicurtecnicanapoli.it/home/）
-  - 在售同口型交换品牌：Ruijie → 直接对位替换
-  - 安防品牌：Uniview → PoE 配套切入
-  - 官网公开邮箱：info@sicurtecnicanapoli.it
-  - 用户表兴趣/备注：Utepo的工商业交换机
-- **风险/边界**：群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Arena, alongside the Ruijie / Uniview lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 首页：TruVision ; UTC ; UNV ; SAFIRE ; CROW Italia ; ATS1700；kw poe 15 / camera 15 / uniview 4
+  - 表内：Utepo 的工商业交换机；KP Arena Enzo / Tecnico
+- **风险/边界**：现卖 Utepo（深圳）价格基准低；网店量小；13 次无回复 → 改向技术负责人具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP
+- **邮件切入句（英文）**：Enzo, alongside the Utepo commercial and industrial switches you list with TruVision and UNV cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE units from small lots, CE/RoHS, EXW USD — which Utepo model do your installers order most, so we quote its equivalent?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -148,7 +152,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arena Enzo | — | info@sicurtecnicanapoli.it | 用户表原值 | Clients/ 表 |
+| Arena Enzo | — | info@sicurtecnicanapoli.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -165,20 +169,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/安防经销或集成（官网未见角色词，待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：在售 Utepo 工商业 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；非管理位 HRUI STC-028GP | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防经销网店（意大利，Utepo 工商业 FS 在售）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -186,7 +189,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 13 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -214,14 +217,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Arena,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Arena, alongside the Ruijie / Uniview lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Enzo, alongside the Utepo commercial and industrial switches you list with TruVision and UNV cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE units from small lots, CE/RoHS, EXW USD — which Utepo model do your installers order most, so we quote its equivalent?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

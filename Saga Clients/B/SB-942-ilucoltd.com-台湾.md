@@ -2,7 +2,7 @@
 
 > **评级 B**　|　台湾　|　档案编号 `SB-942`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:台湾、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：台湾贸易公司（多品类，网络产品为其一）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:台湾、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-942
@@ -12,15 +12,15 @@ score: 30
 country: 台湾
 region: 亚太
 website: ilucoltd.com
-type: 工业自动化/IoT 方案商
+type: 台湾贸易公司（多品类，网络产品为其一）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:台湾", "在用同行产品"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: none
-price_tier: 25%
+p1: STC-424XGGM
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾工业自动化/IoT 方案商：官网「SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP」（en）；品类词：安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：LevelOne；站内型号：RJ-45、CT5160、CT8096、CT7148；表内「POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：POE SFP Bypass模块 大口FS；基本都是海思的）
+- **是谁**：台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：POE SFP Bypass模块 大口FS；基本都是海思的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；—
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | ilucoltd.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 台湾 | 事实（用户表）|
 | 网站/域名 | ilucoltd.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 工业自动化/IoT 方案商 | 推断（据兴趣/备注关键词） |
+| 类型 | 台湾贸易公司（多品类，网络产品为其一） | 推断（据兴趣/备注关键词） |
 | 联系人 | Angus Tseng / President / 之前联系过 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | POE SFP Bypass模块 大口FS / 基本都是海思的 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ilucoltd.com，快照 2026-10-21）
-- **是谁**：台湾工业自动化/IoT 方案商：官网「SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP」（en）；品类词：安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：LevelOne；站内型号：RJ-45、CT5160、CT8096、CT7148；表内「POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息」；表内未见跟进记录。
-- **类型**：工业自动化/IoT 方案商
+- **是谁**：台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。
+- **类型**：台湾贸易公司（多品类，网络产品为其一）
 - **在卖/在用品牌**：LevelOne
 - **【官网快照】官网标题：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap
@@ -64,25 +64,30 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】iLu 首页**
+  > Welcome to iLu CO., LTD. ; Connectivity and Component, Equipment, Plastic and Miscellaneous ; SFP+ DAC Cable Ethernet Tester
+  > 来源：https://www.ilucoltd.com/en/（抓取 2026-10-21）
+- **【用户表】PoE SFP bypass 大口 FS；海思的**
+  > POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Angus Tseng（）angus@ilucoltd.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 台湾 |
 | 其他 | 官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 工业自动化/IoT 方案商；region: 台湾；contact: angus@ilucoltd.com、admin@ilucoltd.com
+- **业务线**：网络连接件 / 设备 / 塑料杂项贸易
+- **触达通道（公开）**：role: 台湾贸易公司（多品类，网络产品为其一）；region: 台湾；contact: angus@ilucoltd.com、admin@ilucoltd.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.ilucoltd.com/en/）
-  - 在售同口型交换品牌：LevelOne → 直接对位替换
-  - 官网公开邮箱：admin@ilucoltd.com、angus@ilucoltd.com、styven@ilucoltd.com
-  - 用户表兴趣/备注：POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）
-- **邮件切入句（英文）**：Angus, alongside the LevelOne lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+  - 官网：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap；首页 Connectivity and Component, Equipment, Plastic and Miscellaneous
+  - 表内：POE SFP Bypass 模块 大口 FS / 基本都是海思的；邮件中有详细的联系信息；KP Angus Tseng / President
+- **风险/边界**：贸易中间商（多品类杂货，偏好海思低价）：Marvell 方案价差难以成交；非主攻区（T5，台湾）；表内「之前联系过」：往来邮件在 Gmail（待核）；无跟进记录
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供
+- **邮件切入句（英文）**：Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -126,7 +131,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Angus Tseng | — | angus@ilucoltd.com / admin@ilucoltd.com | 用户表原值 | Clients/ 表 |
+| Angus Tseng | — | angus@ilucoltd.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -143,20 +148,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%） | — | 深挖对位；档位 25%（工业自动化/IoT 方案商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGM | 深挖对位：询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供 | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（台湾贸易公司（多品类，网络产品为其一）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -164,7 +169,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -197,7 +202,7 @@ updated: 2026-10-21
 ```text
 Hi Angus,
 
-Picking up our earlier exchange about PoE / industrial switches. Angus, alongside the LevelOne lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

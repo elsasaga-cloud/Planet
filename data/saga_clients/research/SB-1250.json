@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（standardaudio.se，快照 2026-10-21）",
- "summary": "瑞典分销商/批发商：官网「Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, i」（sv）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内品牌：Dahua；站内型号：JPEG2000、EN54-24、AES67、SET-3-EU；表内「VC switch」；表内未见跟进记录。",
- "type": "分销商/批发商",
+ "summary": "瑞典 Standard Audio Systems AB（AV 技术系统分销：专业音频（Electro-Voice / Dynacord）、语音疏散报警（EN54）、控制系统、门口机；Taskers 线缆瑞典分销；表内「VC / switch」）；表内无跟进记录。",
+ "type": "AV/专业音频系统分销商（瑞典）",
  "size": "",
  "brands_seen": [
-  "Dahua"
+  "Dahua",
+  "Electro-Voice",
+  "Dynacord"
  ],
  "evidence": [
   {
@@ -23,6 +25,20 @@
    "quote": "VC switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Standard Audio 定位",
+   "quote": "Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni",
+   "url": "https://www.standardaudio.se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "VC switch",
+   "quote": "VC switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,33 +47,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "AV 技术 / 专业音频 / 语音疏散 / 控制系统分销"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "AV/专业音频系统分销商（瑞典）",
   "region": "瑞典",
   "contact": "info@standardaudio.se"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.standardaudio.se/）",
-  "安防品牌：Dahua → PoE 配套切入",
-  "官网公开邮箱：epost@epost.com、info@standardsystems.eu、service@standardaudio.se",
-  "用户表兴趣/备注：VC switch"
+  "官网：systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni；kw switch 34 / wireless 19",
+  "站内 AES67 / EN54-24 / JPEG2000；表内：VC switch"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机",
+  "AV 行业偏好 Netgear AV / Luminex 等认证交换机；无具名 KP（info@）"
+ ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：分销商/批发商→20%）"
+  "why": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）"
  },
- "email_hook": "Alongside the Dahua lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms?"
 }
