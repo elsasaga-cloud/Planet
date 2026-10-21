@@ -3,10 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（binarteknik.se，快照 2026-10-21）",
- "summary": "瑞典工业自动化/IoT 方案商：官网「Industrielektronik och automation för proffs」（sv）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS485、RS232、WLAN-AP5100BE-DU、ESW8G-M-SFP4P；表内「antaria planet的 工业FS MC SFP」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27\" 工业触摸屏）；表内无跟进记录。",
+ "type": "工业电子与自动化分销商（瑞典，Antaira/Planet 工业线）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Antaira",
+  "Planet",
+  "Moxa"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +25,20 @@
    "quote": "antaria planet的 工业FS MC SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "瑞典工业电子与自动化分销",
+   "quote": "Binär Teknik levererar industrielektronik, nätverk, PoE, fiber, industridatorer och automation till professionella användare i Sverige.",
+   "url": "https://binarteknik.se/sv/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Antaira / Planet 的工业 FS MC SFP",
+   "quote": "antaria planet的 工业FS MC SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +47,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 binarteknik.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业电子 / 网络 / PoE / 光纤 / 工业电脑 / 自动化分销"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业电子与自动化分销商（瑞典，Antaira/Planet 工业线）",
   "region": "瑞典",
   "contact": "info@binarteknik.se"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://binarteknik.se/sv/）",
-  "官网公开邮箱：namn@foretag.se",
-  "用户表兴趣/备注：antaria planet的 工业FS MC SFP"
+  "官网：Binär Teknik levererar industrielektronik, nätverk, PoE, fiber, industridatorer och automation till professionella användare i Sverige",
+  "站内型号 ESW8G-M-SFP4P；kw poe 99 / sfp 56 / 10g 51 / moxa 1"
  ],
- "risks": [],
+ "risks": [
+  "现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入",
+  "无具名 KP（info@）；表内无跟进"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the Antaira and Planet industrial switches you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?"
 }

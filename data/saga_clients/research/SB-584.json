@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（certech.com.au，快照 2026-10-21）",
- "summary": "澳大利亚电商/网店：官网「CERTECH: Australia's Leader in Network Connectivity Solution -CERTECH」（en）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Edimax；站内型号：RJ-45、IGS-5654PLX、IGS-5428PLC、IGS-5218PLC；表内「Edimax的；工业FS 周边产品 在用edimax的」；群发 1 次、无回复。",
- "type": "电商/网店",
+ "summary": "澳大利亚 CERTECH（结构化布线 / 服务器机柜 / 网络连接方案供应商，1300 免费电话 + 网店；在售 Edimax 工业交换机 IGS-5654PLX / IGS-5428PLC / IGS-5218PLC / IGS-1210P；表内「Edimax 的，工业 FS 周边产品」；KP Thomas Boer（Senior Network Solutions Specialist，thomasb@）、Sophia Wong（Product & Brands Program Manager））；表内 1 次跟进无回复。",
+ "type": "布线与网络连接分销商（澳洲，Edimax 工业线）",
  "size": "",
  "brands_seen": [
   "Edimax"
@@ -23,45 +23,88 @@
    "quote": "Edimax的；工业FS 周边产品 在用edimax的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "澳洲布线、机柜与网络连接方案供应商",
+   "quote": "Discover CERTECH, Australia’s trusted provider of structured cabling, server racks, and network connectivity solutions.",
+   "url": "https://www.certech.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Edimax 的，工业 FS 周边产品",
+   "quote": "Edimax的 / 工业FS 周边产品；在用edimax的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Sophia Wong",
+   "title": "Product & Brands Program Manager",
+   "email": "info@certech.com.au",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Thomas Boer",
+   "title": "Senior Network Solutions Specialist",
+   "email": "thomasb@certech.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 certech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "结构化布线 / 机柜 / 网络连接产品分销"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "布线与网络连接分销商（澳洲，Edimax 工业线）",
   "region": "澳大利亚",
   "contact": "info@certech.com.au、thomasb@certech.com.au"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.certech.com.au/）",
-  "在售同口型交换品牌：Edimax → 直接对位替换",
-  "官网公开邮箱：info@certech.com.au",
-  "用户表兴趣/备注：Edimax的；工业FS 周边产品 在用edimax的"
+  "官网：Australia’s trusted provider of structured cabling, server racks, and network connectivity solutions",
+  "站内型号 IGS-5654PLX / IGS-5428PLC / IGS-5218PLC / IGS-1210P（Edimax 工业）",
+  "KP：Thomas Boer / Senior Network Solutions Specialist；Sophia Wong / Product & Brands Program Manager（表内）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5）；RCM 合规由客户申报",
+  "现有 Edimax（台湾）价格基准中等：需以价格/交期切入；1 次跟进无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GP",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核"
  },
- "email_hook": "Thomas, alongside the Edimax lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Sophia, alongside the Edimax industrial switches you carry, we can add a Marvell-based neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?",
+ "products_seen": [
+  {
+   "brand": "Edimax",
+   "model": "IGS-1210P",
+   "spec": "工业 8 PoE + 2 SFP 非管理",
+   "saga": "STI-288GP",
+   "url": "https://www.certech.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Edimax",
+   "model": "IGS-5218PLC",
+   "spec": "工业 16 PoE + 2 SFP 管理",
+   "saga": "STI-21616GP（非管理）/ 管理型待核",
+   "url": "https://www.certech.com.au/",
+   "date": "2026-10-21"
+  }
+ ]
 }

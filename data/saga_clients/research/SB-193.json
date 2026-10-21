@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（voxplus.it，快照 2026-10-21）",
- "summary": "意大利IT / 网络安全服务商（交换机为附带）：官网「VOXplus - Innovazione Integrazione Connessione」（it-IT）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 网络交换 / PoE；站内型号：MISCOM8212GP-4XGF、RS232、RS485、MI-1828564；表内「工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe」；群发 13 次、无回复。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "意大利 VOXplus（系统集成商：网络安全 / 网络与 VoIP / 数据中心与布线 / 楼宇自动化与 IoT；站内 Maiwe 工业交换机产品页 MIEN2205P-4T（5 口工业 PoE）、MISCOM8212GP-4XGF（8 PoE 90W + 4×10G L3）、ADMAS2024 M12、EtherCAT；表内「工业 FS / MC / 串口，有小壳但比较大；供应商 Maiwe」；KP Gianni Scandroglio（CEO，gianni.scandroglio@）、Fabio Frigerio（Project Manager））；群发 13 次无回复。",
+ "type": "系统集成商（意大利，工业线用 Maiwe）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Maiwe"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,44 +23,90 @@
    "quote": "工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "VOXplus 系统集成商",
+   "quote": "VOXplus è un System Integrator in grado di fornire ai propri clienti, soluzioni e competenze",
+   "url": "https://www.voxplus.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC 串口，供应商 Maiwe",
+   "quote": "工业FS MC 串口 有小壳但比较大；供应商Maiwe",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Gianni Scandroglio",
+   "title": "CEO",
+   "email": "gianni.scandroglio@voxplus.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Fabio Frigerio",
+   "title": "Project Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 voxplus.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "系统集成（网络安全 / 网络 VoIP / 数据中心布线 / 楼宇自动化 IoT）",
+  "工业交换机（Maiwe）"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "系统集成商（意大利，工业线用 Maiwe）",
   "region": "意大利",
   "contact": "info@voxplus.it、gianni.scandroglio@voxplus.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.voxplus.it/）",
-  "官网公开邮箱：info@voxplus.it、sales@voxplus.it、voxplus@pec.it",
-  "用户表兴趣/备注：工业FS MC 串口 有小壳但比较大；工业FS MC 串口 有小壳但比较大 供应商Maiwe"
+  "产品页 /mien2205p-4tpoe-switch-poe-industriale-5-porte/、/switch-industriale-poe-10g-layer-3-miscom8212gp-4xgf-8gtpoe90-dc48/、/switch-ethernet-industriale-admas2024-m12/",
+  "官网：VOXplus è un System Integrator … Cybersecurity / Networking & Voip / Data Center & Cabling / Building Automation & IOT",
+  "KP：Gianni Scandroglio / CEO；Fabio Frigerio / Project Manager（表内）"
  ],
  "risks": [
-  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期"
+  "现用 Maiwe（武汉）价格基准低",
+  "L3 10G / M12 / EtherCAT 需求 Saga 不覆盖",
+  "13 次无回复 → 改向 CEO 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-154GP",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：IT / 网络安全服务商（交换机为附带）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做"
  },
- "email_hook": "Gianni, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Gianni, next to the Maiwe industrial switches you specify, we supply Marvell-based DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?",
+ "products_seen": [
+  {
+   "brand": "Maiwe",
+   "model": "MIEN2205P-4T",
+   "spec": "工业 5 口 PoE（4 PoE + 1）",
+   "saga": "STI-154GP",
+   "url": "https://www.voxplus.it/mien2205p-4tpoe-switch-poe-industriale-5-porte/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Maiwe",
+   "model": "MISCOM8212GP-4XGF",
+   "spec": "工业 8 PoE 90W + 4×10G L3",
+   "saga": "STI-488XGGPM（L2+，非 L3）",
+   "url": "https://www.voxplus.it/",
+   "date": "2026-10-21"
+  }
+ ]
 }

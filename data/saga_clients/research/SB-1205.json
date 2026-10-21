@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ipcctv.ch，快照 2026-10-21）",
- "summary": "瑞士安防集成/经销：官网「IP CCTV GmbH IP Videosysteme und Videosprechanlagen」（de）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RG-59、CH-8447、NVR-RM2、NVR-RM4；表内「CVI POE 工业FS SDI 主要是围绕着CCTV来的」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "瑞士 IP CCTV GmbH（专业 HD/4K 视频监控与视频分析、对讲/可视对讲；网络监控与 HD-CVI、CVBS/AHD；站内 ePoE / PoE+ 交换机页；表内「CVI / PoE / 工业 FS / SDI，主要围绕 CCTV」）；表内无跟进记录。",
+ "type": "瑞士 CCTV 与对讲方案商/分销",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "CVI POE 工业FS SDI 主要是围绕着CCTV来的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "专业 HD/4K 视频监控与对讲",
+   "quote": "IP CCTV GmbH - Ihr Partner für professionelle HD und 4K Videoüberwachung mit Videoanalyse sowie Sprechanlagen und Videosprechanlagen",
+   "url": "https://ipcctv.ch/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CVI PoE 工业 FS SDI，围绕 CCTV",
+   "quote": "CVI POE 工业FS SDI 主要是围绕着CCTV来的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +43,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞士",
   "other": "官网 ipcctv.ch，语言 de，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "IP / HD-CVI 视频监控",
+  "视频对讲 / 门禁对讲"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "瑞士 CCTV 与对讲方案商/分销",
   "region": "瑞士",
   "contact": "info@ipcctv.ch"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ipcctv.ch/）",
-  "官网公开邮箱：info@ipcctv.ch",
-  "用户表兴趣/备注：CVI POE 工业FS SDI 主要是围绕着CCTV来的"
+  "官网：Ihr Partner für professionelle HD und 4K Videoüberwachung mit Videoanalyse sowie Sprechanlagen",
+  "页面 /epoe-switch_poe_plus_switch.htm、/products.htm；kw poe 147"
  ],
- "risks": [],
+ "risks": [
+  "ePoE 长距（250 m）需求：需核 SmartByte 型号支持",
+  "瑞士小型方案商：量小；无具名 KP（info@）"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE?"
 }

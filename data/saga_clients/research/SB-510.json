@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（techaya.com，快照 2026-10-21）",
- "summary": "以色列品牌商/贴牌需求（OEM/ODM）：官网「Military Rugged Ethernet Switches, Routers, USB HUBS and Media Converters | Techaya | Mili」；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：MIL-STD-810F、MIL-STD-1275、MIL-STD-461E、MIL-STD-461；表内「工业FS FS MC这两类不太一样 自己的logo」；群发 16 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "以色列 Techaya（军用加固以太网交换机 / 路由 / USB Hub / MC 设计制造商，面向陆海空军用平台；表内「工业 FS / MC，自己的 logo」；KP Udi Palgi）；群发 16 次无回复。",
+ "type": "军工制造商（军用加固以太网）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,52 @@
    "quote": "工业FS FS MC这两类不太一样 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "军用加固以太网通信方案设计制造商",
+   "quote": "Techaya is a leading designer, developer and manufacturer of rugged military ethernet communications solutions for military ground, air and naval applications.",
+   "url": "https://www.techaya.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS / MC，自己的 logo",
+   "quote": "工业FS FS MC这两类不太一样 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "守界：以色列军工制造商（军用加固以太网 Techaya）；c_sub=守界：军工",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 techaya.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "军用加固以太网交换机 / 路由 / MC"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "军工制造商（军用加固以太网）",
   "region": "以色列",
   "contact": "udi@techaya.com、info@techaya.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.techaya.com/）",
-  "官网公开邮箱：sales@enercon.co.il",
-  "用户表兴趣/备注：工业FS FS MC这两类不太一样 自己的logo"
+  "官网：rugged military ethernet communications solutions for military ground, air and naval applications；MIL-STD-810 / 1275 / 461"
  ],
  "risks": [
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "守界：军用加固以太网制造商，应用为军事"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 25,
+  "why": "军用平台（MIL-STD）= 守界 → 改 C（与 SB-404 Milpower / SB-1067 Enercon 同口径）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：军工守界）"
 }
