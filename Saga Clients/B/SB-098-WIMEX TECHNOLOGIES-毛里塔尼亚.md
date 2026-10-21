@@ -1,4 +1,5 @@
 # WIMEX TECHNOLOGIES
+**官方名称（调研核实）**：WIMEX Technologies（Groupe WIMEX，Nouakchott，毛里塔尼亚）
 
 > **评级 B**　|　毛里塔尼亚　|　档案编号 `SB-098`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-098
 rating: B
 rating_auto: B
+name_official: "WIMEX Technologies（Groupe WIMEX，Nouakchott，毛里塔尼亚）"
 score: 53
 country: 毛里塔尼亚
 region: 非洲
@@ -19,9 +21,9 @@ replies: 1
 followups: 19
 first_contact: 2023-11-30
 last_contact: 2025-10-06
-p1: none
-price_tier: 20%
-research: pending
+p1: STC-204GP
+price_tier: 25%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：毛里塔尼亚的经销/集成（类型待核）；兴趣/在卖：80KM光模块 2011年使用国际站
+- **是谁**：毛里塔尼亚最大的电信工程/集成集团之一（1993/1995 年创立，51–200 人；微波传输 FH 市场 70%+、GSM 站点交钥匙、光/有线网络、企业网、能源与广播；客户为运营商、油气与中小企业；PDG Mohamed Waled 任毛里塔尼亚工商会副主席）。表内联系人 Moustapha Elemine（moustapha@wimex.mr，官网合作页同邮箱，WA 已加，自填 Distributor/Wholesaler）要 80 km 光模块，2024-01 对 2 光 4 产品回「price」；19 次推送 1 次实质回复。非主攻区但为当地头部集成商 → B 25%。（调研 2026-10-21；表内兴趣：80KM光模块 2011年使用国际站）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/毛里塔尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-11-30 → 2025-10-06）；最近一次客户回复：2024-01-13：price
-- **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
+- **P1（下一步唯一主推）**：STC-204GP — 深挖对位：表内回价的「2 光 4」= 2 SFP + 4 PoE 小机 → STC-204GP（HRUI 列表价）；站点/企业网另备 STC-28DGGPM；80 km SFP 需另询；$20.4 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,7 +57,50 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-098.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（快照仅抓到标语页；子页 wimex.mr/wimexTechnologie/*）
+- **是谁**：毛里塔尼亚最大的电信工程/集成集团之一（1993/1995 年创立，51–200 人；微波传输 FH 市场 70%+、GSM 站点交钥匙、光/有线网络、企业网、能源与广播；客户为运营商、油气与中小企业；PDG Mohamed Waled 任毛里塔尼亚工商会副主席）。表内联系人 Moustapha Elemine（moustapha@wimex.mr，官网合作页同邮箱，WA 已加，自填 Distributor/Wholesaler）要 80 km 光模块，2024-01 对 2 光 4 产品回「price」；19 次推送 1 次实质回复。非主攻区但为当地头部集成商 → B 25%。
+- **【官网】定位与历史**
+  > Dès sa création en 1995, WIMEX TECHNOLOGIES a développé une stratégie orientée vers les services à forte valeur ajoutée… leadeur incontesté sur le marché Mauritanien et Ouest Africain
+  > 来源：https://wimex.mr/wimexTechnologie/Historique.html（抓取 2026-10-21）
+- **【官网】地址与电话**
+  > 55 Ilot C Zone Château d’Eau BP 3384 Nouakchott, Mauritanie; Téléphone: (+222) 45 25 23 56; Email: info@wimex.mr
+  > 来源：https://www.wimex.mr/wimexTechnologie/contact（抓取 2026-10-21）
+- **【官网】微波市场地位**
+  > Faisceau Hertzien: plus de 1000 Liaisons FH… WIMEX TECHNOLOGIES est le leader en Mauritanie dans ce domaine avec plus de 70% du marché
+  > 来源：http://www.wimex.mr/wimexTechnologie/referencesSolution（抓取 2026-10-21）
+- **【第三方】规模**
+  > Company size: 51-200 employees; Headquarters: Nouakchott; Founded: 1993
+  > 来源：https://mr.linkedin.com/company/wimex（抓取 2026-10-21）
+- **【第三方】联系人邮箱佐证**
+  > Wimex Ltd … Web: www.wimex.mr/wimexTechnologie … E-mail: moustapha@wimex.mr
+  > 来源：https://www.axxonsoft.com/partners/partner-locator/nigeria/wimex-ltd（抓取 2026-10-21）
+- **【第三方】PDG**
+  > Le PDG du Groupe WIMEX Mohamed Waled élu au poste de Vice-Président de la CCIAM
+  > 来源：https://emergence.mr/2023/03/17/le-pdg-du-groupe-wimex-mohamed-waled-elu-au-poste-de-vice-president-de-la-cciam/（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > 80KM光模块；2024.1.13 发了2光4产品信息 → price
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Moustapha Elemine（（表内自填 Distributor/Wholesaler；官网伙伴页邮箱））moustapha@wimex.mr +222 22 41 73 18（WA 已加）〔用户 Clients 表 + axxonsoft.com 伙伴页〕
+- **KP**：Mohamed Waled（PDG（集团总裁）） 〔emergence.mr 2023-03-17〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/伙伴页核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | WIMEX Technologies（Groupe WIMEX） |
+| 成立 | 1993（LinkedIn）/ 1995（官网） |
+| 总部/地址 | 55 Ilot C, Zone Château d’Eau, BP 3384 Nouakchott, Mauritanie；+222 45 25 23 56；info@wimex.mr |
+| 其他 | PDG Mohamed Waled（2023 当选 CCIAM 副主席）；AxxonSoft 合作伙伴页列 moustapha@wimex.mr |
+
+- **业务线**：微波传输（FH，1000+ 链路，PDH/SDH）；GSM 站点交钥匙、铁塔、机房与能源（太阳能/电池/发电机）；光纤与有线网络、企业网络；广播（TV/FM）、固话与交换
+- **触达通道（公开）**：official: info@wimex.mr / +222 45 25 23 56；contact: Moustapha Elemine moustapha@wimex.mr / moustaphaelemine@gmail.com，+222 22 41 73 18（WA 已加）；linkedin: mr.linkedin.com/company/wimex
+- **近况信号**：
+  - 2024-01-13 对 2 光 4 产品直接回「price」
+  - 法语市场，运营商/油气项目型采购
+- **风险/边界**：首问 80 km 光模块（Saga 价目无光模块，Q-32）；毛里塔尼亚付款/物流周期长；非主攻区
+- **Saga 对位结论**：P1 STC-204GP（25% 档）——表内回价的「2 光 4」= 2 SFP + 4 PoE 小机 → STC-204GP（HRUI 列表价）；站点/企业网另备 STC-28DGGPM；80 km SFP 需另询
+- **邮件切入句（英文）**：Vous aviez demandé le prix du petit switch 2 SFP + 4 ports PoE — je peux vous envoyer la grille en USD EXW (et, séparément, un devis pour les SFP 80 km). Préférez-vous un échange en français ?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -107,7 +152,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Moustapha ELEMINE | — | moustapha@wimex.mr / moustaphaelemine@gmail.com / +222222417318 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Moustapha Elemine | （表内自填 Distributor/Wholesaler；官网伙伴页邮箱） | moustapha@wimex.mr / +222 22 41 73 18（WA 已加） | 调研核实（公开页） | 用户 Clients 表 + axxonsoft.com 伙伴页 |
+| Mohamed Waled | PDG（集团总裁） | — | 调研核实（公开页） | emergence.mr 2023-03-17 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -123,20 +169,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI | — | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-204GP | 深挖对位：表内回价的「2 光 4」= 2 SFP + 4 PoE 小机 → STC-204GP（HRUI 列表价）；站点/企业网另备 STC-28DGGPM；80 km SFP 需另询 | $20.4 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-204GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-204GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -144,7 +190,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-204GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -168,12 +214,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Moustapha,
+
+Picking up our earlier exchange about PoE / industrial switches. Vous aviez demandé le prix du petit switch 2 SFP + 4 ports PoE — je peux vous envoyer la grille en USD EXW (et, séparément, un devis pour les SFP 80 km). Préférez-vous un échange en français ?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

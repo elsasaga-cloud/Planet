@@ -1,0 +1,70 @@
+{
+ "code": "SB-138",
+ "name_official": "AAA Group（aaagroup.pk；巴基斯坦，具体法人待核）",
+ "researched_at": "2026-10-21",
+ "website_status": "待核（aaagroup.pk 未被搜索引擎收录；同名 AAA Group 多家：aaa-group.com.pk 建筑/贸易/学院、aaa-solutions 纺织、aaagroup.online 拉合尔代工）",
+ "summary": "巴基斯坦 AAA Group（域名 aaagroup.pk，联系人 Nadeem Shar Din，企业邮箱 + WA）。2023-04 要「光猫 4 路」（4 口 ONU，Saga 不做），其后对工业电源、10G MC 信息回「will check」；21 次推送 2 次实质回复、主动发过新年贺卡 → 关系在但需求不在 Saga 产品线内 → B 慢跟，P1 待核（p1 null）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "需求：光猫 4 路；10G MC 回 will check",
+   "quote": "发了工业光猫图 DS → thanks 暂时没需求；发了10G MC信息 → will check",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "同名公司排除记录",
+   "quote": "AAA Group of Companies（aaa-group.com.pk：Construction / Trading / Science Academy）；AAA Solutions（纺织，North Karachi）——均非 aaagroup.pk",
+   "url": "https://aaa-group.com.pk/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Nadeem Shar Din",
+   "role": "（职位未核）",
+   "email": "nadeem.sd@aaagroup.pk",
+   "phone": "+92 300 402 5659（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份待核 · 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "待核（aaagroup.pk）",
+  "founded": "待核",
+  "hq": "巴基斯坦（城市待核；+92 300 402 5659 为移动号）",
+  "size": "待核",
+  "other": "搜索命中的多家 AAA Group（卡拉奇建筑贸易、北卡拉奇纺织、拉合尔代工）均未使用 aaagroup.pk 域，不能判定为同一主体"
+ },
+ "business_lines": [
+  "待核（表内需求：ONU/光猫、工业电源、10G 收发器→偏 ISP/网络工程采购）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Nadeem Shar Din nadeem.sd@aaagroup.pk，+92 300 402 5659（WA 已加）"
+ },
+ "signals": [
+  "2024-01-17 主动发新年贺卡（关系维持中）",
+  "2024-04-16 对 10G MC 信息回「will check」"
+ ],
+ "risks": [
+  "首要需求为 4 口 ONU（Saga 无 PON 产品线）",
+  "公司身份未核实，可能为贸易/工程综合体而非网络专业商"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页）"
+ },
+ "email_hook": "Besides the 4-port ONU you asked about (not in our line), do your field projects use small fiber-to-copper media converters or 8-port PoE switches? Happy to send the two spec pages if so."
+}

@@ -1,0 +1,96 @@
+{
+ "code": "SB-187",
+ "name_official": "Pixcom Technologies LLC（Dubai Production City，pixcom.ae）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（数字标牌集团官网）",
+ "summary": "迪拜数字标牌/LED 显示/互动一体机集团（2003/2004 年创立，Pixcom Technologies + Pixcom Industries + Prosign Systems 等子公司，员工 100–200+ 级，自称中东数字标牌 70% 份额）。表内联系人 Khaleel Aboobacker（gmail，WA 已加）2024-03 回复「multicast support switch」= 要支持组播的管理型小交换机（标牌/视频墙组播分发场景）；22 次推送 1 次实质回复。用户备注「网站不是很相关」属实（主业非网络设备），但标牌项目确有管理型 PoE/组播小交换机的配套需求 → B 慢跟 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：数字标牌一站式方案商",
+   "quote": "PIXCOM TECHNOLOGIES LLC is a full-service solution provider of digital signage, LED Displays interactive kiosks, Media network solutions… P O Box 252173, Dubai – UAE +971 4 580 6222 marketing@pixcom.ae",
+   "url": "https://pixcom.ae/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "创始人与集团公司",
+   "quote": "Two visionary brothers from Kerala, India, Shihas Kizhisseri and Shabab Kizhisseri founded Pixcom in 2004… Pixcom Technologies LLC (Dubai) / Pixcom Industries LLC (Dubai) / Prosign Systems FZ LLC (Dubai)",
+   "url": "https://pixcom.ae/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "规模口径",
+   "quote": "Revenue · $6.1 million; Employees · 122 (91 on RocketReach); Founded · 2003",
+   "url": "https://rocketreach.co/pixcom-profile_b5c73350f42e0d3d",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "市场地位（PR 稿）",
+   "quote": "the go-to provider of digital signage and interactive media technologies in the Middle East with over 70% market share… largest installer and supplier of indoor and outdoor LED displays in the Middle East",
+   "url": "https://www.matrixdubai.com/public-relations/clients/pixcom/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2024-03-15 回复：multicast support switch",
+   "quote": "发了2光8商业POE管理信息 → multicast support switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Khaleel Aboobacker",
+   "role": "（职位未核；表内联系人）",
+   "email": "khaleel.abckrk@gmail.com",
+   "phone": "+971 50 671 7325（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + LinkedIn/RocketReach 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Pixcom Technologies LLC",
+  "founded": "2003（LinkedIn/CB Insights）/ 2004（官网创始人叙述）",
+  "hq": "Company C05, Dubai Production City（IMPZ），P.O. Box 252173, Dubai, UAE；+971 4 580 6222；marketing@pixcom.ae",
+  "size": "LinkedIn 201–500；RocketReach 122 人 / 营收 $6.1M；Prospeo 101–200",
+  "other": "创始人 Shihas Kizhisseri 与 Shabab Kizhisseri 兄弟（喀拉拉裔）；集团含 Pixcom Industries（一体机/LED 结构制造）、Prosign Systems FZ LLC、Pixcom Engineering & Contracting；客户 Nakheel、Emaar、Meraas、Aldar"
+ },
+ "business_lines": [
+  "数字标牌与 LED 显示屏（室内外、楼宇幕墙、电梯屏网络）",
+  "互动一体机/Kiosk 设计制造",
+  "内容管理软件、托管服务、远程监控与运维",
+  "大型标识结构与土建安装"
+ ],
+ "products_seen": [],
+ "channels": {
+  "official": "marketing@pixcom.ae / +971 4 580 6222",
+  "contact": "Khaleel Aboobacker khaleel.abckrk@gmail.com，+971 50 671 7325（WA 已加）",
+  "linkedin": "linkedin.com/company/pixcom-technologies"
+ },
+ "signals": [
+  "2024-03-15 回复「multicast support switch」→ 需 IGMP snooping 管理型交换机做标牌组播分发",
+  "2018 年在 IMPZ 开设体验中心；持续承接 UAE 地标项目"
+ ],
+ "risks": [
+  "主业数字标牌，网络交换机只是项目配套，量小且不定期",
+  "联系人用 gmail，职位不明（官网未列）；正式采购口应为 marketing@/采购部"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "表内需求「6 口管理交换机 + multicast support」→ 8 口 PoE+ 2 SFP L2+ 管理型（IGMP snooping/VLAN）最贴近；标牌项目按集成 25% 档"
+ },
+ "email_hook": "You asked earlier about a small managed switch with multicast support for signage networks — our 8-port PoE+ L2+ model (2 SFP uplinks) does IGMP snooping/VLAN; would a one-unit sample for your next video-wall project be useful?"
+}

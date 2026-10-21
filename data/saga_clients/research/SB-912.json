@@ -1,0 +1,54 @@
+{
+ "code": "SB-912",
+ "name_official": "（沙特阿拉伯 · gmail 个人买家 mdirphanmdirphan151）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "2光16管理 4pcs；1211 mini → 1212：email发了22mini",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "沙特本地手机 +966 57 173 1310；无公司名"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "mdirphanmdirphan151@gmail.com，+966 57 173 1310（WA 已加）"
+ },
+ "signals": [
+  "2023-12 要 2 光 16 管理型 4 台（小项目）"
+ ],
+ "risks": [
+  "无公司实体信息，可能是一次性项目",
+  "沙特小额订单清关（SABER）成本高"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GPM",
+  "tier": 25,
+  "why": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核"
+ },
+ "email_hook": "You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day."
+}

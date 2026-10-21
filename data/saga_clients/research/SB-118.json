@@ -48,7 +48,7 @@
  ],
  "grade_override": "C",
  "override_reason": "区域外：公司实为伊朗大不里士的 IT/网络工程公司（电话 +98、波斯语官网、CEO Mehdi Pashapour），用户表国家「土耳其」为 ISAF 参展地误记；伊朗不在 Saga 区域且有制裁/收款风险",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「伊朗」（country_fix，依据见加厚块）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（身份核对 → 区域外降 C）"
@@ -78,5 +78,6 @@
   "tier": 25,
   "why": "不推进（区域外）"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "country_fix": "伊朗"
 }

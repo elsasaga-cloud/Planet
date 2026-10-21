@@ -40,7 +40,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网核对 · 国别更正）"
@@ -72,5 +72,6 @@
   "tier": 25,
   "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低"
  },
- "email_hook": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation."
+ "email_hook": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.",
+ "country_fix": "美国"
 }

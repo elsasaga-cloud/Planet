@@ -100,7 +100,7 @@ updated: 2026-10-21
 
 - **首页**：https://crec.com.ph/　语言：en　站点地图 URL 数：229
 - **描述**：CREC is a pure renewable energy company in the Philippines offering clean energy solutions to businesses through sustainable renewable energy projects.
-- **产品类页面**：https://crec.com.ph/press-room/crec-news-blogs/switching-to-green-leveraging-the-advantages-of-renewable-energy；https://crec.com.ph/press-room/external-news/citicore-expands-customer-base-by-250-to-industrial-users
+- **产品类页面**：https://crec.com.ph/press-room/external-news/citicore-expands-customer-base-by-250-to-industrial-users；https://crec.com.ph/press-room/crec-news-blogs/switching-to-green-leveraging-the-advantages-of-renewable-energ…
 - 数据文件：`data/saga_clients/site_snapshots/SA-142.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位

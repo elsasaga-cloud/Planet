@@ -72,7 +72,7 @@ updated: 2026-10-21
 - **站内型号串**（正则抽取，含非交换机）：RS232, RS-232, RS485, RS-485, EN50155, RS-422, RS422, SFP1000, LPP-266, IEC-61850, SEMIL-2200, IEC60945
 - **站内公开邮箱**：info@acceed.com
 - **站内公开电话**：+49 211 938898 0, +49 211 938898 28
-- **产品类页面**：https://acceed.com/de/products；https://acceed.com/en/products；https://acceed.com/de/category/industrial-notebooks/；https://acceed.com/en/category/industrial-notebooks/；https://acceed.com/de/category/cases-for-industrial-computing/；https://acceed.com/en/category/cases-for-industrial-computing/
+- **产品类页面**：https://acceed.com/de/category/poe-switches/；https://acceed.com/en/category/poe-switches/；https://acceed.com/de/category/poe-line/；https://acceed.com/en/category/poe-line/；https://acceed.com/de/category/poe-splitter/；https://acceed.com/en/category/poe-splitter/
 - **已抓子页**：[Produkte / acceed](https://acceed.com/de/products)；[Kontakt / acceed](https://acceed.com/de/contact)；[Über uns / acceed](https://acceed.com/de/about-us)；[Industrial Computers / Kategorien](https://acceed.com/de/category/industrial-computers/)；[Network / Kategorien](https://acceed.com/de/category/network/)；[Kundenservice / acceed](https://acceed.com/de/service)
 - 首页正文摘录：info@acceed.com +49 211 938898 0 DE / EN Startseite Produkte PC Server Industrial Computers PC Add-On Cards Network Vision & Video Software Signal Conditioning Sensors and Accessories Other Filter Neuigkeiten Kontakt Service Konto Login DE / EN 0 Ihr Warenkorb ist leer. Gesamt: 0.00 EUR Warenkorb ansehen Startseite Produkte PC Server Industrial Computers PC Add-On Cards Network Vision & Video Software Signal Conditio
 - **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 156、PoE 49 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）

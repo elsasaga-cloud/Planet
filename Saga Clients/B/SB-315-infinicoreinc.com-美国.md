@@ -1,7 +1,7 @@
 # infinicoreinc.com
 **官方名称（调研核实）**：Infinicore Incorporated（infinicoreinc.com，San Jose, CA, USA）
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-315`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-315`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 8 次（2025-02-28 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Infinicore Incorporated（infinicoreinc.com，San Jose, CA, USA）"
 score: 44
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: infinicoreinc.com
 type: 经销/集成（类型待核）
@@ -44,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | infinicoreinc.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大（另见：美国） | 事实（用户表）|
+| 国家 | 美国（另见：美国） | 事实（用户表）|
 | 网站/域名 | infinicoreinc.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 / David Chen | 事实（用户表） |
@@ -70,7 +71,7 @@ updated: 2026-10-21
 - **【用户表】登记国别「加拿大」（有误，实为美国）；WhatsApp 已加；8 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别更正））
 

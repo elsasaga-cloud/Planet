@@ -77,7 +77,7 @@ updated: 2026-10-21
 - **站内型号串**（正则抽取，含非交换机）：RJ-45, FD1700C, RACK19
 - **站内公开邮箱**：cyberteam@cyberteam.pl
 - **社媒**：https://twitter.com/Cyberteam_PL, https://www.facebook.com/CyberteamPL/, https://www.youtube.com/@cyberteam6580/featured
-- **产品类页面**：https://www.cyberteam.pl/produkt/25_skyeter18；https://www.cyberteam.pl/produkt/27_skyeter13；https://www.cyberteam.pl/produkt/28_kabel-h1000；https://www.cyberteam.pl/produkt/29_kabel-rf-5；https://www.cyberteam.pl/produkt/41_zaciskarka-ht-106n；https://www.cyberteam.pl/produkt/42_zaciskarka-ht-106s
+- **产品类页面**：https://www.cyberteam.pl/produkt/59_nz-f；https://www.cyberteam.pl/produkt/70_nm-f；https://www.cyberteam.pl/produkt/57_nz3-f；https://www.cyberteam.pl/produkt/58_nz2-f；https://www.cyberteam.pl/produkt/67_mcc-c；https://www.cyberteam.pl/produkt/69_nm2-d
 - **已抓子页**：[Switche](https://www.cyberteam.pl/katalog_produktow/100044_switche)；[LAN](https://www.cyberteam.pl/katalog_produktow/100015_lan)；[MikroTik](https://www.cyberteam.pl/katalog_produktow/100016_mikrotik)；[Ubiquiti](https://www.cyberteam.pl/katalog_produktow/100032_ubiquiti)；[Zasilacze UPS](https://www.cyberteam.pl/katalog_produktow/182_zasilacze-ups)；[Monitoring](https://www.cyberteam.pl/katalog_produktow/100030_monitoring)
 - 首页正文摘录：Rejestracja Logowanie waluta: PLN PLN EUR USD język: wszystkie kategorie producent: -Wszyscy producenci- Fibertechnic® LanTechnic® Cyberteam Sp. z o.o. 8level A-LAN Technologie ACAR Actina Alantec ALARMTEC Andrew Antaira APC Aruba Asmax ASUS Atcom ATTE BCS BDCOM Cablemedia Cambium Networks CAMSET CISCO Compex D-Link DAHUA DBII Delock Delta Digitus Dipol Draka EAST UPS Edimax Technology co. Eltek EMERSON ETA Ewimar Ex
 - **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 10、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）

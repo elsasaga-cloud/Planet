@@ -1,4 +1,5 @@
 # wellspeter8@gmail.com
+**官方名称（调研核实）**：（肯尼亚 · Peter Weru，gmail）
 
 > **评级 B**　|　肯尼亚　|　档案编号 `SB-1010`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-1010
 rating: B
 rating_auto: B
+name_official: "（肯尼亚 · Peter Weru，gmail）"
 score: 29
 country: 肯尼亚
 region: 非洲
@@ -19,9 +21,9 @@ replies: 2
 followups: 19
 first_contact: 2023-11-29
 last_contact: 2025-10-06
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: STI-110FE
+price_tier: 25%
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：肯尼亚的经销/集成（类型待核）；兴趣/在卖：百兆单纤小外电 50对 16年使用国际站
+- **是谁**：肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。（调研 2026-10-21；表内兴趣：百兆单纤小外电 50对 16年使用国际站）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/肯尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 19 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2025-04-07：price list
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110FE — 深挖对位：百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注；$20.6 USD EXW（25% 档，SmartByte LT-IMC30F-E 110 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,31 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1010.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：无域名（免费邮箱/仅电话）
+- **是谁**：肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。
+- **【用户表】表内需求与回复**
+  > 百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → price list
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Peter Weru（（职位未核））wellspeter8@gmail.com +254 725 011 213（WA 已加）〔用户 Clients 表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 待核 |
+| 成立 | 待核 |
+| 总部/地址 | 待核 |
+| 其他 | +254 725 011 213；无公司名 |
+
+- **业务线**：待核（见表内需求）
+- **触达通道（公开）**：contact: Peter Weru wellspeter8@gmail.com / pweruh@gmail.com，+254 725 011 213（WA 已加）
+- **近况信号**：
+  - 50 对单纤 MC 为明确数量需求
+  - 2025-04 要价格表
+- **风险/边界**：商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）；单纤需 BiDi SFP（Q-32）
+- **Saga 对位结论**：P1 STI-110FE（25% 档）——百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注
+- **邮件切入句（英文）**：For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -98,7 +124,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter Weru | — | wellspeter8@gmail.com / pweruh@gmail.com / +0725011213 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Peter Weru | （职位未核） | wellspeter8@gmail.com / +254 725 011 213（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -114,20 +140,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110FE | 深挖对位：百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注 | $20.6 USD EXW（25% 档，SmartByte LT-IMC30F-E 110 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110FE），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110FE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -135,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-110FE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -160,30 +186,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 公司网站（表内无域名，无法核实是否仍在运营）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Peter,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,8 +1,8 @@
 {
  "code": "SA-163",
- "name_official": "Cyber-Tec（cyber-tec.net，伊拉克）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "伊拉克 IT 公司，WA 在线，1 次回复、19 次跟进；兴趣型号 TA510-FE。",
+ "name_official": "Cyber Tec（cyber-tec.net，伊拉克卡尔巴拉；域名现不可达）",
+ "website_status": "域名不可达（快照 2026-10-21 unreachable；搜索无收录）",
+ "summary": "伊拉克卡尔巴拉的小型 IT/网络公司（联系人 Sarmad Alwakil，sarmad@cyber-tec.net + yahoo，WA 已加）。表内兴趣 TA510-FE（百兆工业收发器类型号），2024-03 问「价格含电源吗？电源价格」；19 次推送 1 次实质回复。域名已不可达、无公开资料 → 公司存续待核；伊拉克非主攻区 → B 慢跟 25%。",
  "type": "IT 经销/集成商",
  "size": "待补证",
  "brands_seen": [],
@@ -13,6 +13,20 @@
    "quote": "TA510-FE；964077361 04911 已加（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "需求与回复",
+   "quote": "兴趣 TA510-FE；2024.3.15 发了工业MC系列信息 → price 含电源嘛？电源价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "域名状态",
+   "quote": "site_snapshot 2026-10-21：cyber-tec.net unreachable（DNS/连接失败）；web 搜索无该域收录",
+   "url": "（data/saga_clients/site_snapshots/SA-163.json）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -22,10 +36,48 @@
    "email": "",
    "phone": "+964 773 610 4911（WA）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Sarmad Alwakil",
+   "role": "（职位未核）",
+   "email": "sarmad@cyber-tec.net / sarmad.karbala@yahoo.com",
+   "phone": "+964 773 610 4911（WA 已加）",
+   "source": "用户 Clients 表"
   }
  ],
  "grade_override": "B",
  "override_reason": "伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。",
  "notes": "WA 季度触达。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "Karbala, Iraq（表内邮箱 sarmad.karbala@yahoo.com）",
+  "size": "待核（小型）",
+  "other": "+964 773 610 4911（WA）"
+ },
+ "business_lines": [
+  "待核（表内：工业光纤收发器采购）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Sarmad Alwakil sarmad@cyber-tec.net / sarmad.karbala@yahoo.com，+964 773 610 4911（WA 已加）"
+ },
+ "signals": [
+  "2024-03-15 问工业 MC 价格是否含电源（在比价）"
+ ],
+ "risks": [
+  "官网域名失效，企业邮箱可能退信 → 先用 yahoo/WA",
+  "伊拉克清关与付款风险；非主攻区"
+ ],
+ "saga_fit": {
+  "p1": "STI-110FE",
+  "tier": 25,
+  "why": "TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计"
+ },
+ "email_hook": "You once asked whether our industrial media converter price includes the power adapter — it is quoted separately; shall I send the 100M and gigabit versions with and without the 48 V adapter?"
 }

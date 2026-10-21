@@ -54,7 +54,7 @@
  ],
  "grade_override": "C",
  "override_reason": "2026-10-21 核实：公司位于多米尼加共和国（用户表误记为美国），不在聚焦区域且 19 次跟进 0 回复 → C（子原因：区域外）。若用户决定开拓拉美可改回 B。",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「美国」更正为「多米尼加」（country_fix，依据见加厚块）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网 + LinkedIn 核对 · 国别更正）"
@@ -85,5 +85,6 @@
   "tier": 20,
   "why": "不推进（区域外）；若恢复按分销 20% 档报 STC-28DGGPM 配 Hanwha/Provision 项目"
  },
- "email_hook": "（不发送：区域外；若恢复）For the Provision-ISR and Hanwha kits you distribute, the 8-port PoE+ managed switch at $80.7 EXW is the usual add-on line; shall I quote a carton quantity?"
+ "email_hook": "（不发送：区域外；若恢复）For the Provision-ISR and Hanwha kits you distribute, the 8-port PoE+ managed switch at $80.7 EXW is the usual add-on line; shall I quote a carton quantity?",
+ "country_fix": "多米尼加"
 }

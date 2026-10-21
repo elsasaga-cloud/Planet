@@ -1,0 +1,62 @@
+{
+ "code": "SB-630",
+ "name_official": "（乌兹别克斯坦 · Marlen Sadybekov，仅电话）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "乌兹别克斯坦买家 Marlen Sadybekov（仅 WA 电话；表内号 8 775 748 2644 实为哈萨克斯坦 +7 775 号段，国别待核）。兴趣「商业 FS」，2024-04 对 10G MC 回「有 PON 产品吗？」（Saga 无 PON）；20 次推送 1 次实质回复。→ B 25%，俄语沟通。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "商业FS；2024.4.23 发了10G MC信息 → 有Pon产品嘛？",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Marlen Sadybekov",
+   "role": "（个人）",
+   "email": "",
+   "phone": "+7 775 748 2644（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "电话 8 775 748 2644（+7 775 = 哈萨克斯坦移动号段；表内国别乌兹别克斯坦待核）"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Marlen Sadybekov，+7 775 748 2644（WA 仅电话）"
+ },
+ "signals": [
+  "2024-04 问 PON 产品（ISP/FTTH 背景）"
+ ],
+ "risks": [
+  "无邮箱；国别待核（KZ vs UZ）",
+  "主需求可能是 PON（Saga 不做）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "「商业 FS」= 商用光纤交换机 → 8 PoE + 2 SFP L2+ 起手；PON 需求无法满足，如实告知"
+ },
+ "email_hook": "Вы спрашивали про PON — у нас его нет, но для коммерческих оптических коммутаторов (8 портов + 2 SFP, L2+) могу прислать прайс в USD; какое количество вам обычно нужно?"
+}

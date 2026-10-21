@@ -1,7 +1,7 @@
 # energus.eu
 **官方名称（调研核实）**：UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）
 
-> **评级 B**　|　波兰　|　档案编号 `SB-586`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　立陶宛　|　档案编号 `SB-586`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）"
 score: 37
-country: 波兰
+country: 立陶宛
+country_table: 波兰  # 表内原填；调研纠正为 立陶宛（research JSON country_fix）
 region: 欧洲
 website: energus.eu
 type: 经销/集成（类型待核）
@@ -44,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | energus.eu（取自域名，公司全名待核） | 推断 |
-| 国家 | 波兰 | 事实（用户表）|
+| 国家 | 立陶宛 | 事实（用户表）|
 | 网站/域名 | energus.eu | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Daniel Suskevic | 事实（用户表） |
@@ -80,7 +81,7 @@ updated: 2026-10-21
   > switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniel Šuškevič（Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职））info@energus.eu（用户表，通用箱） —〔https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家更正 LT））
 

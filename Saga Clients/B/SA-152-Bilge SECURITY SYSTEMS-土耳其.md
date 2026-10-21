@@ -95,7 +95,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：satis@bilgeguvenlik.com
 - **站内公开电话**：+90 (216) 291 12 12
 - **社媒**：https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/
-- **产品类页面**：https://www.bilgeguvenlik.com/urunler；https://www.bilgeguvenlik.com/urun；https://www.bilgeguvenlik.com/urun-xtext；https://www.bilgeguvenlik.com/urunlerimiz-xxtest3
+- **产品类页面**：https://www.bilgeguvenlik.com/urun；https://www.bilgeguvenlik.com/urunler；https://www.bilgeguvenlik.com/urun-xtext；https://www.bilgeguvenlik.com/urunlerimiz-xxtest3
 - **已抓子页**：[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/ag-iletisim-sistemleri)；[Bilge Güvenlik / Bize Ulaşın](https://www.bilgeguvenlik.com/tr/iletisim)；[Bilge Güvenlik / Markalar](https://www.bilgeguvenlik.com/tr/markalar)；[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/ip-video-sistemleri-cctv)；[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/video-analiz)；[Çözümler Detay](https://www.bilgeguvenlik.com/tr/cozumler/plaka-tanima)
 - 首页正文摘录：satis@bilgeguvenlik.com +90 (216) 291 12 12 Anasayfa Hakkımızda Biz Kimiz Projeler Hizmetler Markalar Çözümler IP Video Sistemleri IP video sistemleri, diğer adıyla CCTV (Kapalı Devre Televizyon), güvenlik ve video izleme amaçlı kullanılan bir teknolojidir. Geçiş Kontrol Sistemleri Geçiş kontrol sistemleri, bir alan veya tesisin içine giriş çıkış yapan kişilerin kimliklerini doğrulamak için kullanılan elektronik.. Ya
 - **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）

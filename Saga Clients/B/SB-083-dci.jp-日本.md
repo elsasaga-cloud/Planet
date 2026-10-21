@@ -75,7 +75,7 @@ updated: 2026-10-21
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 99、poe 76、10g 45、ethernet 8、2.5g 8
 - **站内型号串**（正则抽取，含非交换机）：DCWDM2108, DCWDM2108H, IEEE802, FRM220-1000DS, FRM220A-2000EAS, IGPS-9084GP, IGS-1080A, IGPS-1080-24V, POS-1002, POI-2002-V3, FRM220A, FRM220-1000EAS
 - **站内公开邮箱**：info@dci.jp
-- **产品类页面**：https://dci.jp/category/newproduct；https://dci.jp/product-tag/100gbps；https://dci.jp/product-tag/100mbps；https://dci.jp/product-tag/10gbps；https://dci.jp/product-tag/10mbps；https://dci.jp/product-tag/155mbps
+- **产品类页面**：https://dci.jp/product-tag/poe；https://dci.jp/product-tag/switch；https://dci.jp/product-tag/bypass-switch；https://dci.jp/product-tag/industrial_widetemp；https://dci.jp/category/newproduct；https://dci.jp/product-tag/1gps
 - **已抓子页**：[イーサネットスイッチ / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/ethernetswitch)；[産業用イーサネット / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/industrialethernet)；[PoE / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/061poe)；[PoE負荷テスター NuPoE 1SL/4SLシリーズ / データコントロルズ株式会社](https://dci.jp/product/tester/nupoe-1sl-4sl)；[製品紹介 / データコントロルズ株式会社](https://dci.jp/product)；[EOL 販売終了 / 製品紹介 / データコントロルズ株式会社](https://dci.jp/product/eol)
 - 首页正文摘录：コンテンツへスキップ ナビゲーションに移動 データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート ご購入方法 よくある質問 採用情報 Webショップ お問い合わせ 製品紹介 OSFP/QSFP/SFP＋/SFP（2芯/BIDI/CWDM/DWDM） メディアコンバータ 400/200/100G DWDM伝送プラットフォーム：DCOTNシリーズ マルチプラットフォーム FRM220シリーズ WDM マルチプロトコルリピータ：DCWDM2108 /DCWDM2108H 高密度10G/100G対応OT8200シリーズ 1G/10G 超コンパクトメディアコンバータ：MMCシリーズ 40G~100G 10~16Gbps 1G~4Gbps ファストイーサネット(10/100Mbps) イーサネット(10Mbps) VDSLコンバータ 光モデム 産業用イーサネット イー
 - **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 76、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）

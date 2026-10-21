@@ -65,7 +65,7 @@ updated: 2026-10-21
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 20、sfp 9、2.5g 6、wifi 1
 - **站内型号串**（正则抽取，含非交换机）：MV-IPG804MBT, MV-IPG804MBTN, MV-IPG804MBTN-2BP, MV-IPG802, XDR-240E-48, NDR-240-48
 - **站内公开邮箱**：sales@miraesignal.com
-- **产品类页面**：https://miraesignal.com/product-list.html?ca_id=1010；https://miraesignal.com/product-list.html?ca_id=101010；https://miraesignal.com/product-list.html?ca_id=101020；https://miraesignal.com/product-list.html?ca_id=101030；https://miraesignal.com/product-list.html?ca_id=1020；https://miraesignal.com/product-list.html?ca_id=102010
+- **产品类页面**：https://miraesignal.com/product-list.html?ca_id=1010；https://miraesignal.com/product-list.html?ca_id=1020；https://miraesignal.com/product-list.html?ca_id=1030；https://miraesignal.com/product-list.html?ca_id=1040；https://miraesignal.com/product-list.html?ca_id=1070；https://miraesignal.com/product-list.html?ca_id=1080
 - **已抓子页**：[산업용 PoE 스위치 - 제품소개 - 미래시그널](http://miraesignal.com/product-list.html?ca_id=1020)；[CONTACT US - 미래시그널](http://miraesignal.com/contactus.html)
 - 首页正文摘录：Home 제품소개 스위치 광통신자재 무선브릿지 다수공급자 계약 설치사례 고객지원 공지사항 다운로드 문의하기 회사소개 인사말 연혁 사업영역 채용안내 오시는길 CONTACT US 팝업레이어 알림 미래시그널 네트워크 광 스위치, SFP 모듈, 광접속자제 미래시그널 무선브릿지, 메쉬, 무선랜엑세스포인트 미래시그널 IoT WiFi Module, LoRa Module / 네트워크 광 스위치 광통신자재 무선랜 브릿지/AP IoT모듈 미래시그널은 유선/무선 네트워크 전문기업입니다. ㈜미래시그널은 네트워크 광 스위치, SFP모듈, 광통신자제 등 유선통신 제품과 장거리 무선브릿지, 무선랜 엑세스포인트, 무선메쉬네트워크 등 무선통신 제품, 그리고 LoRa, 무선랜 모듈 등 IoT모듈을 전문 공급합니다. Contact ㈜미래시그널에 문의사항이나 요구사항이 있으시면
 - **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 20、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）

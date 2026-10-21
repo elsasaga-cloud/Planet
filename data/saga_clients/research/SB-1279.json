@@ -1,0 +1,62 @@
+{
+ "code": "SB-1279",
+ "name_official": "（印度 · Suraj Katte，仅电话）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "印度个人买家 Suraj Katte（仅 WA 电话，无邮箱）。在单纤 MC 帖下留言，2023-08 问价格册和路由器；20 次推送 1 次实质回复，2024-10 后无跟进。→ B 低优先 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "单纤MC下留言；2023.8.17 发了商业POE组合图 → 问了价格册 还有router",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Suraj Katte",
+   "role": "（个人买家）",
+   "email": "",
+   "phone": "+91 76207 03705（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+91 76207 03705；无邮箱/公司"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Suraj Katte，+91 76207 03705（WA 仅电话）"
+ },
+ "signals": [
+  "2023-08 要价格册"
+ ],
+ "risks": [
+  "无邮箱，只能 WA",
+  "需求含路由器（Saga 不做）"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）"
+ },
+ "email_hook": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?"
+}

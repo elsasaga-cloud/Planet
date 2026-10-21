@@ -1,4 +1,5 @@
 # agilenetworks.com
+**官方名称（调研核实）**：Agile Network（菲律宾宿务；表内域名 agilenetworks.com 误配）
 
 > **评级 B**　|　菲律宾　|　档案编号 `SB-064`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-064
 rating: B
 rating_auto: B
+name_official: "Agile Network（菲律宾宿务；表内域名 agilenetworks.com 误配）"
 score: 55
 country: 菲律宾
 region: 亚太
@@ -19,22 +21,22 @@ replies: 1
 followups: 20
 first_contact: 2023-12-09
 last_contact: 2025-10-09
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
-site_snapshot: ok  # 2026-10-21
+p1: STI-288GP
+price_tier: 25%
+research: done
+site_snapshot: mismatch  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：菲律宾的经销/集成（类型待核）；兴趣/在卖：工业品
+- **是谁**：菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。（调研 2026-10-21；表内兴趣：工业品）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 20 次（2023-12-09 → 2025-10-09）；最近一次客户回复：2024-08-14：单多模价格一样吗？
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,21 +56,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-064.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：表内域名误配：agilenetworks.com = Agile Network Builders LLC（美国俄亥俄 ISP），非本客户；本客户无已知官网
+- **是谁**：菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。
+- **【第三方】agilenetworks.com 归属（排除）**
+  > Agile Network Builders LLC, founded in 2010, is a leading provider of telecommunications solutions… hybrid fiber wireless broadband data networks（Ohio, USA）
+  > 来源：https://agilenetworks.com/company/（抓取 2026-10-21）
+- **【用户表】表内地址与联系人**
+  > Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Neil Rule（CEO（表内））ph.agilenetwork@gmail.com +63 917 322 5477（WA 已加）〔用户 Clients 表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射））
 
-- **首页**：https://agilenetworks.com/　语言：en-US　站点地图 URL 数：42
-- **标题**：Agile Networks - Boundless Internet & Interoffice Connectivity
-- **描述**：Agile Network Builders LLC is a leading provider of broadband internet and telecommunications solutions in Ohio.
-- **首页栏目**：Welcome to Agile Networks / The Agile Network / Networking in “The Wilds”
-- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 4、wireless 4、telecom 4
-- **站内型号串**（正则抽取，含非交换机）：FIPS140-2
-- **站内公开邮箱**：info@agilenetworks.com, support@agilenetworks.com
-- **社媒**：https://www.facebook.com/agilenetworks, https://www.linkedin.com/company/agile-networks
-- **已抓子页**：[Company - Agile Networks](https://agilenetworks.com/company/)；[Contact - Agile Networks](https://agilenetworks.com/contact/)；[Request Services - Agile Networks](https://agilenetworks.com/request-services/)；[Request Services - Agile Networks](https://agilenetworks.com/request-services/)
-- 首页正文摘录：Skip to content Linkedin page opens in new window Facebook page opens in new window Agile Networks Secure, Reliable, High-Speed Data Network REQUEST SERVICE (888) 494-0549 COMPANY About Us FAQ Careers CUSTOMERS Residential Business Government SERVICES Transport Co-Location Internet CONTACT REQUEST SERVICES Search: SEARCH COMPANY About Us FAQ Careers CUSTOMERS Residential Business Government SERVICES Transport Co-Loca
-- 数据文件：`data/saga_clients/site_snapshots/SB-064.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 待核（表内 Agile Network / Agile Networks） |
+| 成立 | 待核 |
+| 总部/地址 | Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu City 6000, Philippines（表内地址） |
+| 其他 | 联系人 Neil Rule / CEO，+63 917 322 5477（WA 已加），ph.agilenetwork@gmail.com |
+
+- **业务线**：待核（表内：工业网络产品采购 / 10G 光纤收发器询价）
+- **触达通道（公开）**：contact: Neil Rule（CEO）ph.agilenetwork@gmail.com，+63 917 322 5477（WA 已加）
+- **近况信号**：
+  - 2024-08-14 问 10G MC 单模/多模是否同价（有具体项目在算料）
+- **风险/边界**：无企业域名/官网，公司实体规模不明；10G MC 不在 Saga 价目（需向 SmartByte 索价）
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）
+- **邮件切入句（英文）**：You asked last year whether our 10G media converter is priced the same for single-mode and multimode — for the industrial DIN-rail switches you were also looking at, the 8-port PoE + 2 SFP model is our most common starter; want the current price sheet?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
+
+- 尝试域名：agilenetworks.com
+  > agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-064.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,7 +134,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Neil Rule | — | ph.agilenetwork@gmail.com / +639173225477 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Neil Rule | CEO（表内） | ph.agilenetwork@gmail.com / +63 917 322 5477（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -129,19 +150,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GP | 深挖对位：表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -149,7 +171,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -173,30 +195,26 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Neil,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. You asked last year whether our 10G media converter is priced the same for single-mode and multimode — for the industrial DIN-rail switches you were also looking at, the 8-port PoE + 2 SFP model is our most common starter; want the current price sheet?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

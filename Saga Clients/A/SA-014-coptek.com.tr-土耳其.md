@@ -128,8 +128,8 @@ updated: 2026-10-21
 - **标题**：Omurga,Layer2,Layer3 POE Switchler
 - **描述**：Yüksek performanslý omurga,layer2,layer3,poe switchler,fiberoptik ürünler
 - **站内公开邮箱**：info@coptek.com.tr
-- **产品类页面**：http://www.coptek.com.tr/urunler.html；http://www.coptek.com.tr/omurgaswitch.html；http://www.coptek.com.tr/datacenterswitch.html；http://www.coptek.com.tr/poeswitch.html；http://www.coptek.com.tr/layer3switch.html；http://www.coptek.com.tr/layer2switch.html
-- **已抓子页**：[Endüstriyel Ethernet Ürünleri,RS-232 Ethernet Çevirici,Endüs](https://coptek.com.tr/end%C3%BCstriyelethernet.html)；[8,24,48 Port POE Switchler](https://coptek.com.tr/poeswitch.html)；[Ürünler](https://coptek.com.tr/urunler.html)；[Data Center Ethernet Switch](https://coptek.com.tr/CS6570.html)；[Omurga Switchler,Fiber Omurga](https://coptek.com.tr/omurgaswitch.html)；[Layer 3 Switch](https://coptek.com.tr/layer3switch.html)
+- **产品类页面**：http://www.coptek.com.tr/poeswitch.html；http://www.coptek.com.tr/files/IS2100-Din-Rail-Industrial-Ethernet-Switch.pdf；http://www.coptek.com.tr/files/ES1226P-POE Gigabits PoE Unmanaged Switch Datasheet V1.0.pdf；http://www.coptek.com.tr/files/IS2100D(R2) Din-rail Industrial Switch Datasheet V3.0_türkçe.pdf；http://www.coptek.com.tr/omurgaswitch.html；http://www.coptek.com.tr/layer3switch.html
+- **已抓子页**：[Endüstriyel Ethernet Ürünleri,RS-232 Ethernet Çevirici,Endüs](https://coptek.com.tr/endüstriyelethernet.html)；[8,24,48 Port POE Switchler](https://coptek.com.tr/poeswitch.html)；[Ürünler](https://coptek.com.tr/urunler.html)；[Data Center Ethernet Switch](https://coptek.com.tr/CS6570.html)；[Omurga Switchler,Fiber Omurga](https://coptek.com.tr/omurgaswitch.html)；[Layer 3 Switch](https://coptek.com.tr/layer3switch.html)
 - 数据文件：`data/saga_clients/site_snapshots/SA-014.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位

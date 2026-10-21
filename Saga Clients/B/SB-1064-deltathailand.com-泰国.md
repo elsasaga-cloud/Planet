@@ -61,7 +61,7 @@ updated: 2026-10-21
 - **首页**：https://deltathailand.com/　语言：未标　站点地图 URL 数：504
 - **标题**：บริษัท เดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด มหาชน
 - **描述**：บริษัท เดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด มหาชน
-- **产品类页面**：https://deltathailand.com/en/industrial-automation-solutions；https://deltathailand.com/en/products/Power-Electronics；https://deltathailand.com/en/products/Power-Electronics/Components；https://deltathailand.com/en/products/Power-Electronics/Components/Inductors；https://deltathailand.com/en/products/Power-Electronics/Components/RF-Inductors；https://deltathailand.com/en/products/Power-Electronics/Components/Transformers
+- **产品类页面**：https://deltathailand.com/en/products/Automation/Industrial-Automation；https://deltathailand.com/en/products/Automation/Industrial-Automation/1；https://deltathailand.com/en/products/Automation/Industrial-Automation/2；https://deltathailand.com/en/products/Automation/Industrial-Automation/Control；https://deltathailand.com/en/products/Power-Electronics/Merchant/Industrial-Power；https://deltathailand.com/en/products/Automation/Industrial-Automation/Field-Device
 - 首页正文摘录：login
 - 数据文件：`data/saga_clients/site_snapshots/SB-1064.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 

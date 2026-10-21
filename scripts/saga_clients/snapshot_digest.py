@@ -171,6 +171,16 @@ def main():
             print('skip', f, e)
             continue
         dg = digest_one(snap)
+        rp = os.path.join(DATA, 'research', dg['code'] + '.json')
+        if os.path.exists(rp):
+            try:
+                mm = json.load(open(rp, encoding='utf-8')).get('site_mismatch')
+            except Exception:
+                mm = None
+            if mm:  # 人工判定：抓到的网站不是本客户（表内域名误配）→ 整条摘要作废，只留说明
+                dg = {'code': dg['code'], 'status': 'mismatch', 'status_cn': '域名误配（快照到的网站不是本客户）',
+                      'fetched_at': dg.get('fetched_at', ''), 'domains': dg.get('domains') or [], 'errors': [str(mm)],
+                      'auto_p1': None, 'auto_p1_why': None, 'brands': [], 'models': [], 'emails': [], 'phones': []}
         out[dg['code']] = dg
         st[dg['status']] += 1
     json.dump(out, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)

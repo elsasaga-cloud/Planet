@@ -1,4 +1,5 @@
 # A Hamson Middle East FZE
+**官方名称（调研核实）**：A Hamson Inc.（ahamson.com；多伦多总部，迪拜 Burjuman Business Tower 与伊斯兰堡办公室）
 
 > **评级 B**　|　阿联酋　|　档案编号 `SB-122`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-122
 rating: B
 rating_auto: B
+name_official: "A Hamson Inc.（ahamson.com；多伦多总部，迪拜 Burjuman Business Tower 与伊斯兰堡办公室）"
 score: 51
 country: 阿联酋
 region: 中东
@@ -20,8 +22,8 @@ followups: 19
 first_contact: 2024-04-28
 last_contact: 2025-10-27
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋的经销/集成（类型待核）；兴趣/在卖：GLC-LH-SMD 9个
+- **是谁**：网络集成商 A Hamson Inc.（1985 年创立，总部多伦多，迪拜与伊斯兰堡设办公室；设计/建设/运维企业与运营商网络，IBM 合作伙伴；实际规模 51–200 人量级，LinkedIn 自报 1,001–5,000 存疑）。表内中东实体 A Hamson Middle East FZE，联系人 Tahmad（tahmad@ahamson.com，WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只，2025-09 对 2.5G 交换机回「问一下客户是否需要」；19 次推送 1 次实质回复。思科系集成商，Saga 产品只在边缘/配套项目有机会 → B 25%。（调研 2026-10-21；表内兴趣：GLC-LH-SMD 9个）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-09-16：问一下他客户是否需要
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,48 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-122.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：网络集成商 A Hamson Inc.（1985 年创立，总部多伦多，迪拜与伊斯兰堡设办公室；设计/建设/运维企业与运营商网络，IBM 合作伙伴；实际规模 51–200 人量级，LinkedIn 自报 1,001–5,000 存疑）。表内中东实体 A Hamson Middle East FZE，联系人 Tahmad（tahmad@ahamson.com，WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只，2025-09 对 2.5G 交换机回「问一下客户是否需要」；19 次推送 1 次实质回复。思科系集成商，Saga 产品只在边缘/配套项目有机会 → B 25%。
+- **【官网】业务与办公室**
+  > Design, Build and Support IT & Telecom networks for many regional leading public and private sector companies. MIDDLE EAST: Office: 920 Burjuman Business Towers Dubai… Pakistan: 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad
+  > 来源：https://www.ahamson.com/contact.html（抓取 2026-10-21）
+- **【第三方】成立与总部**
+  > Industry: Information Technology & Services; Company size: 1,001-5,000 employees; Headquarters: Toronto; Founded: 1985; Locations: Toronto, Dubai
+  > 来源：https://ca.linkedin.com/company/ahamson（抓取 2026-10-21）
+- **【第三方】实际规模口径**
+  > A Hamson Inc. … 67 Employees Found … Founded 1985 … HQ Toronto
+  > 来源：https://contactout.com/company/a-hamson-inc-7728830（抓取 2026-10-21）
+- **【第三方】IBM 伙伴**
+  > A HAMSON INC. … Address 12th, 3rd Floor Al Babar Center F-8 Markaz, Islamabad … http://www.ahamson.com
+  > 来源：https://www.ibm.com/partnerplus/directory/company/9661（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Tahmad（（职位未核；表内联系人））tahmad@ahamson.com +971 55 144 9500（WA 已加）〔用户 Clients 表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/IBM 伙伴页核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | A Hamson Inc.（中东：A Hamson Middle East FZE） |
+| 成立 | 1985 |
+| 总部/地址 | Toronto/Milton, Ontario, Canada；中东：920 Burjuman Business Towers, Dubai；巴基斯坦：3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad |
+| 其他 | IBM PartnerPlus 目录收录；巴基斯坦 Branches.pk 联系人 Mirza Naveed Hameed naveed@ahamson.com；hr@ahamson.com 招聘 |
+
+- **业务线**：IT 与电信网络的设计/建设/运维（公共与私营大客户）；软件开发、BI、DDoS 安全服务；项目型设备供应（思科光模块等）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Cisco | GLC-LH-SMD | 1000BASE-LX/LH SFP 单模 10 km（表内询 9 只） | Saga 价目无光模块（Q-32）；接入交换机可配 STC-424DGGPM-280W | （本地 Clients/ 表格，无公开 URL）（2026-10-21） |
+
+- **触达通道（公开）**：official: info@ahamson.com；ahamson.com/contact.html；contact: Tahmad tahmad@ahamson.com，+971 55 144 9500（WA 已加）
+- **近况信号**：
+  - 2024-04 询 Cisco SFP 9 只（项目补料型采购）
+  - 2025-09 对 2.5G 交换机表示会问客户
+- **风险/边界**：思科/IBM 生态集成商，品牌替换意愿低；需求以原厂配件为主；Saga 无光模块价目
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）
+- **邮件切入句（英文）**：When a project does not require Cisco at the access layer, our 24-port PoE+ L2+ switch (4 SFP uplinks, Marvell-based) is the piece integrators use to keep budgets in line — would it help to have the datasheet on file for your Dubai tenders?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -98,7 +141,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tahmad | — | tahmad@ahamson.com / +971551449500 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Tahmad | （职位未核；表内联系人） | tahmad@ahamson.com / +971 55 144 9500（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -114,10 +157,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -127,7 +170,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -135,7 +178,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -159,7 +202,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -169,9 +211,9 @@ updated: 2026-10-21
 ```text
 Hi Tahmad,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. When a project does not require Cisco at the access layer, our 24-port PoE+ L2+ switch (4 SFP uplinks, Marvell-based) is the piece integrators use to keep budgets in line — would it help to have the datasheet on file for your Dubai tenders?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Cisco GLC-LH-SMD at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -121,7 +121,7 @@ updated: 2026-10-21
 - **首页栏目**：MEDIA / ACADEMY / SECURITY / Connecting technology, people and vision. / Contact us / Caserta / Cologno M.se / Policy
 - **站内公开邮箱**：info@transaudiovideo.com, transaudiovideo@pec.it
 - **站内公开电话**：+39 039 791339, +39 0823 329970
-- **产品类页面**：https://transaudiovideo.com/idx-nuovi-prodotti-per-blackmagic-ursa-disponibili-presso-trans-audio-video/；https://transaudiovideo.com/sony-camera-pdw-850-xdcam-per-produzioni-broadcast-live-economiche/；https://transaudiovideo.com/tav-partner-tecnico-di-italian-cinema-workshop-2014/；https://transaudiovideo.com/sony-live-production-roadshow_caserta-16-dicembre-2014/；https://transaudiovideo.com/tav-partner-tecnico-del-workshop-di-taormina/；https://transaudiovideo.com/cammate-product-videos/
+- **产品类页面**：https://transaudiovideo.com/sony-xvs-g1-live-production-switcher/；https://transaudiovideo.com/atomos-shogun-7-monitor-recorder-switcher-da-7-hdr/；https://transaudiovideo.com/atomx-cast-trasforma-il-ninja-v-v-in-uno-switcher-a-4-ingressi-hdmi/；https://transaudiovideo.com/sony-technology-workshop/；https://transaudiovideo.com/workshop-cinema-eos-a-caserta/；https://transaudiovideo.com/workshop-trans-audio-video-aban/
 - 首页正文摘录：MEDIA broadcast / cinema / foto / video ACADEMY eventi / formazione / training SECURITY video security / ICT solutions Connecting technology, people and vision. Dal 1987 operiamo nel settore della distribuzione, offrendo prodotti e soluzioni dedicati ai professionisti del cinema, del broadcast, della fotografia, del video professionale e della security. TAV è organizzata in tre divisioni — Media, Academy e Security —
 - 数据文件：`data/saga_clients/site_snapshots/SA-149.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 

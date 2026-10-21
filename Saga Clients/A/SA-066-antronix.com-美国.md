@@ -114,7 +114,7 @@ updated: 2026-10-21
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 1
 - **站内公开邮箱**：support@antronix.com
 - **社媒**：https://antronix.com/, https://antronix.com/drop-passives/, https://antronix.com/filters-attenuators/, https://antronix.com/milenium-1-2-ghz-series/, https://antronix.com/residential-amplifiers/, https://antronix.com/retrofit-series/
-- **产品类页面**：https://antronix.com/product/；https://antronix.com/product-categories/；https://antronix.com/product-category/taps-and-line-passives/；https://antronix.com/product-category/milenium-1-2-ghz-series/；https://antronix.com/product-category/milenium-1-8-ghz-series/；https://antronix.com/product-category/2323/
+- **产品类页面**：https://antronix.com/product-category/2323/；https://antronix.com/product-category/taps-and-line-passives/；https://antronix.com/product-category/milenium-1-2-ghz-series/；https://antronix.com/product-category/milenium-1-8-ghz-series/；https://antronix.com/product-category/milenium-nxt-2-ghz-series/；https://antronix.com/product/
 - 首页正文摘录：PRODUCTS TAPS AND LINE PASSIVES 2.0 GHz MILENIUM NXT 1.8 GHz FACEPLATES 1.2 GHz MILENIUM RETROFIT DROP PASSIVES RESIDENTIAL AMPLIFIERS FILTERS & ATTENUATORS SPLICES & ADAPTORS GROUND BLOCKS WALL PLATES ABOUT ANTRONIX CONTACT Select Page Transforming Broadband Communications with Innovative Solutions Transforming Broadband Communications with Innovative Solutions Antronix designs and builds quality HFC mainline and dr
 - 数据文件：`data/saga_clients/site_snapshots/SA-066.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 

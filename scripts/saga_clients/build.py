@@ -675,6 +675,12 @@ def main():
             ent['research'] = rs
             if rs.get('grade_override') in ('A', 'B', 'C') and not ov:
                 ent['grade'] = rs['grade_override']
+            # 调研纠正国别（research JSON `country_fix`，如表内电话区号/官网证明国别填错）：改国家/ISO/区域，原值留 country_table
+            if rs.get('country_fix'):
+                cf = norm_country(rs['country_fix'])
+                if cf[1] != '??' and cf[0] != ent['country']:
+                    ent['country_table'] = ent['country']
+                    ent['country'], ent['iso'], ent['region'] = cf
         # 覆盖后的 C 级细分：从理由里取 c_sub=…，否则统一标「调研/人工定级 C」；覆盖为非 C 则清空细分
         if ent['grade'] == 'C' and ent['grade_auto'] != 'C' and not ent.get('c_sub'):
             reason = (ov or {}).get('理由', '') if ov else (rs or {}).get('override_reason', '')

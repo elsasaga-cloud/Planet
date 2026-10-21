@@ -116,7 +116,7 @@ updated: 2026-10-21
 - **站内出现的品牌**：Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：FD9189-HT, FD9189-H, FD9387-EHTV-A, FD9387-HTV-A, FD9389-EHTV, FD9389-EHV, CD9381-HNVF2, CD9381-HNTV, FD9167-HT, FD9360-H, FD9365-EHTV-A, FD9365-HTV-A
 - **站内公开邮箱**：e_t_security@abv.bg, ets@elitteamsecurity.com
-- **产品类页面**：https://elitteamsecurity.com/produkti/；https://elitteamsecurity.com/category/products/；https://elitteamsecurity.com/category/products/cameras/；https://elitteamsecurity.com/category/products/aiva/；https://elitteamsecurity.com/category/products/cameras/bulletcamera/；https://elitteamsecurity.com/category/products/vivotek/
+- **产品类页面**：https://elitteamsecurity.com/category/products/；https://elitteamsecurity.com/category/products/aiva/；https://elitteamsecurity.com/category/products/cameras/；https://elitteamsecurity.com/category/products/vivotek/；https://elitteamsecurity.com/category/products/cameras/360kameri/；https://elitteamsecurity.com/category/products/cameras/fixedkameri/
 - **已抓子页**：[Продукти – ЕЛИТ–ТИМ-СЕКЮРИТИ ООД](https://elitteamsecurity.com/produkti/)；[Контакти – ЕЛИТ–ТИМ-СЕКЮРИТИ ООД](https://elitteamsecurity.com/kontakti/)
 - 首页正文摘录：Поискай оферта × Изпрати Как помагаме Как използваме AI технологията Как обработваме получените сигнали Как реагираме на заплахи Как да започнем Услуги Умен дом Сигнално-охранителни системи (СОТ) Обществен трезор Земеделски земи и Периметрова охрана Видеонаблюдение Охрана на села Контрол на достъп - Жилищна сграда Интегрирани системи за сигурност (BSS) Физическа охрна на обекти Пожароизвестителни системи Домофонни си
 - 数据文件：`data/saga_clients/site_snapshots/SA-153.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。

@@ -135,7 +135,7 @@ updated: 2026-10-21
 - **站内出现的品牌**：Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内型号串**（正则抽取，含非交换机）：TPSPOE48050, TPSPOEWP48050, DC1561, TD-9544S5L-C, TD-9441S5L-C, TD-P0808W1-001, TD-P0404W1-001, TD-3008H1-8P-A1L, TD-3004H1-4P-A1L, WRLHDMI-020, TRG-HD5010, TRG-HD5000
 - **站内公开电话**：005 2310 860 278
-- **产品类页面**：https://bselectronics.gr/tpspoe48050_4；https://bselectronics.gr/tpspoe48050_8；https://bselectronics.gr/tpsmvpoe48050-8ch；https://bselectronics.gr/tpspoe48050_16；https://bselectronics.gr/tpspoewp48050_4；https://bselectronics.gr/tpspoewp48050_8
+- **产品类页面**：https://bselectronics.gr/poe_brd4；https://bselectronics.gr/poe_brd8；https://bselectronics.gr/poe-0520v；https://bselectronics.gr/poe-b1210；https://bselectronics.gr/nvrpoeups40；https://bselectronics.gr/nvrpoeups80
 - **已抓子页**：[Power Supplies and PoE UPS](https://bselectronics.gr/power-supplies-and-poe-ups)；[Η Εταιρεία](https://bselectronics.gr/about_us)
 - 首页正文摘录：B&S Electronics Μενου Το καλαθι σας Σύνδεση (Login) Δημιουργία Λογαριασμού Λίστα Αγαπημένων 0 0 προϊόν(τα) - 0,00€ 0 Το καλάθι αγορών είναι άδειο! Menu Αρχικη Εταιρεια Προϊοντα Συστήματα Ασφαλείας Κλειστό Κύκλωμα Εικόνας Ήχου Συστήματα Πυρανίχνευσης Modules - Τροφοδοτικά - Μεταλλικά & Πλαστικά Κυτία Μπαταρίες UPS Καλώδια Access Control Δικτυακά Προϊόντα Έξυπνες Λύσεις Αξεσουάρ-Εργαλεία Καμπίνες RACK 19" Προσφορες Νέα
 - **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 31、监控 10 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）

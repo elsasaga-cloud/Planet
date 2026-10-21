@@ -16,7 +16,7 @@ import sys
 from common import RESEARCH_DIR
 
 SET_FIELDS = ['deep', 'company_facts', 'business_lines', 'products_seen', 'channels', 'signals', 'risks', 'saga_fit', 'email_hook',
-              'website_status', 'type', 'size', 'summary', 'name_official', 'grade_override', 'override_reason']
+              'website_status', 'type', 'size', 'summary', 'name_official', 'grade_override', 'override_reason', 'country_fix', 'site_mismatch']
 
 
 def main():

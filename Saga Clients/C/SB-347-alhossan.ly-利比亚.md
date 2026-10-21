@@ -1,7 +1,7 @@
 # alhossan.ly
 **官方名称（调研核实）**：Alhossan（alhossan.ly，利比亚；ISAF 参展记录为土耳其）
 
-> **评级 C**　|　土耳其　|　档案编号 `SB-347`　|　优先级 —　|　状态：名单内·未触达
+> **评级 C**　|　利比亚　|　档案编号 `SB-347`　|　优先级 —　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,8 +12,9 @@ rating_auto: B
 rating_research: C  # 区域外：.ly 域名（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；不在 Saga 区域，收款/物流风险高
 name_official: "Alhossan（alhossan.ly，利比亚；ISAF 参展记录为土耳其）"
 score: 43
-country: 土耳其
-region: 土耳其
+country: 利比亚
+country_table: 土耳其  # 表内原填；调研纠正为 利比亚（research JSON country_fix）
+region: 非洲
 website: alhossan.ly
 type: 经销/集成（类型待核）
 tier_tags: ["ISAF2025展会", "表:Ady"]
@@ -44,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | alhossan.ly（取自域名，公司全名待核） | 推断 |
-| 国家 | 土耳其 | 事实（用户表）|
+| 国家 | 利比亚 | 事实（用户表）|
 | 网站/域名 | alhossan.ly | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Saad Fetury | 事实（用户表） |
@@ -63,7 +64,7 @@ updated: 2026-10-21
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Saad Fetury（（ISAF 名片；职务待核））s.fetury@alhossan.ly（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：C（原自动 B）——区域外：.ly 域名（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；不在 Saga 区域，收款/物流风险高
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「利比亚」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份判断 → 区域外降 C））
 

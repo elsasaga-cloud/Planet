@@ -80,7 +80,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：%20info@topica.mn, engsoftllc@gmail.com, info@topica.mn, john_doe@domain.com
 - **站内公开电话**：003 1 2008 1 2012 1 2019 1
 - **社媒**：https://www.facebook.com/Topica.Company, https://www.youtube.com/watch?v=DWmFQhMfYwg&list=PLZGehiXauylbZduKt8OESRyUeVUeYmQqR
-- **产品类页面**：https://119.40.100.146/shop；https://119.40.100.146/shop/category/1；https://119.40.100.146/shop/category/2；https://119.40.100.146/shop/category/3；https://119.40.100.146/shop/category/4；https://119.40.100.146/shop/category/5
+- **产品类页面**：https://119.40.100.146/shop/category/1；https://119.40.100.146/shop/category/2；https://119.40.100.146/shop/category/3；https://119.40.100.146/shop/category/4；https://119.40.100.146/shop/category/5；https://119.40.100.146/shop/category/7
 - **已抓子页**：[Бидний тухай / Топика](https://topica.mn/aboutus)；[Холбоо барих / Топика](https://topica.mn/contactus)；[Brands / Топика](https://topica.mn/brand-listing)；[Дэлгүүр / Топика](https://topica.mn/shop)；[Дэлгүүр / Топика](https://topica.mn/shop/category/1)；[Дэлгүүр / Топика](https://topica.mn/shop/category/19)
 - 首页正文摘录：True Утас: 75554488 ₮ Нийтийн үнийн жагсаалт ₮ ₮ Нийтийн үнийн жагсаалт ₮ SALE 0 0 Нэвтрэх Бүртгүүлэх Имэйл Нууц үг Амжилттай нэвтэрлээ Нэвтрэх Имэйл Баталгаажуулах Буцах Таны имэйл Таны нэр Нууц үг Нууц үгийг баталгаажуулах You are successfully register your account Sign up x НҮҮР ХУУДАС АНГИЛАЛ Компьютер Аяллын хэрэгсэл Байгууллагын хэрэгцээнд Автоматжуулалт БРЕНД КОМПЬЮТЕР БАЙГУУЛЛАГЫН ХЭРЭГЦЭЭНД АВТОМАТЖУУЛАЛТ АЯ
 - **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 89、交换机 21 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）

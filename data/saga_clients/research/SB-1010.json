@@ -1,0 +1,63 @@
+{
+ "code": "SB-1010",
+ "name_official": "（肯尼亚 · Peter Weru，gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → price list",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Peter Weru",
+   "role": "（职位未核）",
+   "email": "wellspeter8@gmail.com",
+   "phone": "+254 725 011 213（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+254 725 011 213；无公司名"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Peter Weru wellspeter8@gmail.com / pweruh@gmail.com，+254 725 011 213（WA 已加）"
+ },
+ "signals": [
+  "50 对单纤 MC 为明确数量需求",
+  "2025-04 要价格表"
+ ],
+ "risks": [
+  "商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）",
+  "单纤需 BiDi SFP（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": "STI-110FE",
+  "tier": 25,
+  "why": "百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注"
+ },
+ "email_hook": "For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?"
+}

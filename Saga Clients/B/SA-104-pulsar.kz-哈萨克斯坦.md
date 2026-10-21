@@ -128,7 +128,7 @@ updated: 2026-10-21
 - **站内出现的品牌**：Pulsar, ZKTeco, Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
 - **站内公开邮箱**：almaty@pulsar.kz, info@pulsar.kz
 - **站内公开电话**：+7 (702) 000-61-17, +7 (708) 486-29-08
-- **产品类页面**：https://pulsar.kz/catalog/introskopy/；https://pulsar.kz/catalog/；https://pulsar.kz/catalog/pulty-upravleniya/；https://pulsar.kz/catalog/dorozhnye-blokiratory-1/；https://pulsar.kz/catalog/povorotnye-ptz-videokamery/；https://pulsar.kz/catalog/turnikety-3/turniket-ts1000-plus/
+- **产品类页面**：https://pulsar.kz/catalog/；https://pulsar.kz/catalog/kamery/；https://pulsar.kz/catalog/datchiki/；https://pulsar.kz/catalog/terminaly/；https://pulsar.kz/catalog/introskopy/；https://pulsar.kz/catalog/domofoniya/
 - **已抓子页**：[Наши контакты / Pulsar Systems](https://pulsar.kz/contacts/)；[Доска магнитно-маркерная — купить в Казахстане, цены / Pulsa](https://pulsar.kz/catalog/zkteco/prochee_3/doska-magnitno-markernaya/)；[Стать партнером / Pulsar Systems](https://pulsar.kz/company/stat-partnerom/)；[Каталог оборудования для видеонаблюдения и безопасности в Ка](https://pulsar.kz/catalog/)；[2E — купить в Казахстане, цены / Pulsar Systems](https://pulsar.kz/catalog/2e/)；[TVT — купить в Казахстане, цены / Pulsar Systems](https://pulsar.kz/catalog/tvt/)
 - 首页正文摘录：NN Оборудование для систем безопасности и видеонаблюдения Главная Кабинет Корзина Избранные Сравнение Главная Кабинет Корзина Избранные Сравнение О компании Помощь г. Астана, пр. Бауыржана Момышулы, д. 2В, НП 16 info@pulsar.kz Поиск Войти Каталог товаров Hikvision Видеонаблюдение Домофония Досмотровое оборудование Zkteco Видеонаблюдение Досмотровое оборудование Комплектующие Accordtec Комплектующие Armatura Системы к
 - **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 539、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）

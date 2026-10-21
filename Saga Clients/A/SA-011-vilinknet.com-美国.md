@@ -110,7 +110,7 @@ updated: 2026-10-21
 - **首页栏目**：Your cart (items: 0) / Products in cart
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 16、ethernet 4、10g 4、switch 3、industrial 3、gigabit 2、sfp 1、cable 1
 - **站内型号串**（正则抽取，含非交换机）：AOC-1M, DAC-1M, RS-232
-- **产品类页面**：https://vilink.us/shop/；https://vilink.us/hdmi-splitters-switches/；https://vilink.us/managed-ethernet-switches/；https://vilink.us/industrial-ethernet-switches/；https://vilink.us/industrial-ethernet-switch/；https://vilink.us/shop/
+- **产品类页面**：https://vilink.us/industrial-ethernet-switch/；https://vilink.us/industrial-ethernet-switches/；https://vilink.us/hdmi-splitters-switches/；https://vilink.us/managed-ethernet-switches/；https://vilink.us/shop/；https://vilink.us/product/ie5/
 - **已抓子页**：[Industrial Ethernet Switches -](https://vilink.us/industrial-ethernet-switch/)；[All Products -](https://vilink.us/vilink-solutions/)；[About Vi-Link -](https://vilink.us/about-vilink/)；[Shop -](https://vilink.us/shop/)；[Air Fiber -](https://vilink.us/air-fiber/)；[Mini Fiber Video -](https://vilink.us/mini-fiber-video/)
 - 首页正文摘录：Skip to content About Vi-Link all Products Sales Vi-Link Solutions Search Search 0 Your cart (items: 0) Products in cart Product Details Total Subtotal $0.00 Shipping and discounts calculated at checkout. View cart Go to checkout Your shopping cart is empty Return to shop Notifications
 - **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 4、交换机 3 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）

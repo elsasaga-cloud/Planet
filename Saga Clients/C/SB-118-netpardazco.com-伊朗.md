@@ -1,7 +1,7 @@
 # netpardazco.com
 **官方名称（调研核实）**：NetPardaz（Net Pardaz Azar，Tabriz, 伊朗；netpardazco.com）
 
-> **评级 C**　|　土耳其　|　档案编号 `SB-118`　|　优先级 —　|　状态：WhatsApp 已加·未回复
+> **评级 C**　|　伊朗　|　档案编号 `SB-118`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：ISAF2025展会、表:Simon　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,8 +12,9 @@ rating_auto: B
 rating_research: C  # 区域外：公司实为伊朗大不里士的 IT/网络工程公司（电话 +98、波斯语官网、CEO Mehdi Pashapour），用户表国家「土耳其」为 ISAF 参展地
 name_official: "NetPardaz（Net Pardaz Azar，Tabriz, 伊朗；netpardazco.com）"
 score: 52
-country: 土耳其
-region: 土耳其
+country: 伊朗
+country_table: 土耳其  # 表内原填；调研纠正为 伊朗（research JSON country_fix）
+region: 中东
 website: netpardazco.com
 type: 经销/集成（类型待核）
 tier_tags: ["ISAF2025展会", "表:Simon"]
@@ -44,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | netpardazco.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 土耳其（另见：伊朗） | 事实（用户表）|
+| 国家 | 伊朗（另见：伊朗） | 事实（用户表）|
 | 网站/域名 | netpardazco.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Ayda Zahed / Ayda Zahed / BD | 事实（用户表） |
@@ -72,7 +73,7 @@ updated: 2026-10-21
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ayda Zahed（BD（用户表名片））zahed@netpardazco.com（用户表） +98 914 315 87 66（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：C（原自动 B）——区域外：公司实为伊朗大不里士的 IT/网络工程公司（电话 +98、波斯语官网、CEO Mehdi Pashapour），用户表国家「土耳其」为 ISAF 参展地误记；伊朗不在 Saga 区域且有制裁/收款风险
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「伊朗」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份核对 → 区域外降 C））
 

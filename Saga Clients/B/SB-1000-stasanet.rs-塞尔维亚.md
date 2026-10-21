@@ -1,7 +1,7 @@
 # stasanet.rs
 **官方名称（调研核实）**：STASANET d.o.o. Beograd-Vračar（Belgrade, 塞尔维亚；stasanet.rs；布拉格 Stasanet s.r.o. 分支）
 
-> **评级 B**　|　土耳其　|　档案编号 `SB-1000`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　塞尔维亚　|　档案编号 `SB-1000`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,8 +11,9 @@ rating: B
 rating_auto: B
 name_official: "STASANET d.o.o. Beograd-Vračar（Belgrade, 塞尔维亚；stasanet.rs；布拉格 Stasanet s.r.o. 分支）"
 score: 29
-country: 土耳其
-region: 土耳其
+country: 塞尔维亚
+country_table: 土耳其  # 表内原填；调研纠正为 塞尔维亚（research JSON country_fix）
+region: 欧洲
 website: stasanet.rs
 type: 经销/集成（类型待核）
 tier_tags: ["ISAF2025展会", "表:Ady"]
@@ -44,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | stasanet.rs（取自域名，公司全名待核） | 推断 |
-| 国家 | 土耳其 | 事实（用户表）|
+| 国家 | 塞尔维亚 | 事实（用户表）|
 | 网站/域名 | stasanet.rs | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Predrag | 事实（用户表） |
@@ -72,7 +73,7 @@ updated: 2026-10-21
   > Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Predrag Čegar（Direktor（登记公开））cegar@stasanet.rs（登记公开） +381 65 247 0170（公开；用户表 WhatsApp 已加）〔https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 官网核对；国家更正 RS））
 
@@ -103,7 +104,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：sales@stasanet.rs
 - **站内公开电话**：+381 11 4065 158, +381 64 88 00 999
 - **社媒**：https://twitter.com/share, https://www.facebook.com/STASANETrs, https://www.instagram.com/stasanetrs/, https://www.linkedin.com/company/stasanet-doo/posts/?feedView=all, https://www.youtube.com/@stasanetdoo
-- **产品类页面**：https://www.stasanet.rs/artikal/imvr-08poe-fullhd-nvr；https://www.stasanet.rs/artikal/dl-12-poe-splitter-napajanje；https://www.stasanet.rs/artikal/sibh-2020poe-ip-ptz-；https://www.stasanet.rs/artikal/rx-pse108ex-poe-switch；https://www.stasanet.rs/artikal/ji-114z-4ch-poe-switch；https://www.stasanet.rs/artikal/ubiquiti-usw-pro-24-poe-eu-configurable-gigabit-layer2-and-layer3-switch-with-auto-sensing-802-3at-poe--and-802-3bt-poe----usw-pro-24-poe-
+- **产品类页面**：https://www.stasanet.rs/artikal/rx-pse108ex-poe-switch；https://www.stasanet.rs/artikal/ji-114z-4ch-poe-switch；https://www.stasanet.rs/artikal/psw-4-se-poe-switch-4-port；https://www.stasanet.rs/artikal/psw-8-se-poe-switch-8-port；https://www.stasanet.rs/artikal/psw-8-v1-2-2xsfp-poe-switch；https://www.stasanet.rs/artikal/tdb2204s1-pe-4-port-poe-switch
 - **已抓子页**：[4CH 2MP IP POE KOMPLET - STASANET d.o.o.](https://www.stasanet.rs/artikal/4ch-2mp-ip-poe-komplet)；[Snimači - STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch)；[- STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/switch)；[Monitori - STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/monitori)；[Razno - STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/ups-oprema)；[- STASANET d.o.o.](https://www.stasanet.rs/video-nadzor/snimaci--memorija--switch/nvr-snimaci)
 - 首页正文摘录：B2B Gotova REŠENJA Kontakt Uputstva Politika privatnosti Alarmni sistemi Video nadzor Auto Tehnika Pešačke barijere Protivpožarni sistem Pristupni sistemi, kapije Solarni sistemi NOVO - EV punjači Specijalne kamere Memorije, napajanja, alati Mrežna oprema Moj nalog Prijavi se Registracija 0 Kategorije × Alarmni sistemi Jablotron 100 Mercury Akumulatori i baterije Nadzor disanja za bebe Video nadzor Kamere Kamere IP K
 - **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 5、监控 23 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
@@ -165,7 +166,7 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
+- **S**：欧洲主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差

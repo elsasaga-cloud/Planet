@@ -1,4 +1,5 @@
 # usman2c@hotmail.com
+**官方名称（调研核实）**：（巴基斯坦 · Usman，hotmail/gmail）
 
 > **评级 B**　|　巴基斯坦　|　档案编号 `SB-601`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-601
 rating: B
 rating_auto: B
+name_official: "（巴基斯坦 · Usman，hotmail/gmail）"
 score: 37
 country: 巴基斯坦
 region: 南亚
@@ -21,7 +23,7 @@ first_contact: 2023-08-29
 last_contact: 2025-06-21
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴基斯坦的经销/集成（类型待核）；兴趣/在卖：问了2光8管理 RMB price
+- **是谁**：巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。（调研 2026-10-21；表内兴趣：问了2光8管理 RMB price）
 - **为什么是 B 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-08-29 → 2025-06-21）；最近一次客户回复：2025-05-10：L2 managed
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,31 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-601.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：无域名（免费邮箱/仅电话）
+- **是谁**：巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。
+- **【用户表】表内需求与回复**
+  > 2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price in RMB；510 4 8 16口工业PoE → L2 managed
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Usman（（职位未核））usman2c@hotmail.com +92 331 471 3140（WA 已加）〔用户 Clients 表〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 待核 |
+| 成立 | 待核 |
+| 总部/地址 | 待核 |
+| 其他 | +92 331 471 3140；无公司名 |
+
+- **业务线**：待核（见表内需求）
+- **触达通道（公开）**：contact: Usman usman2c@hotmail.com / usman65@gmail.com，+92 331 471 3140（WA 已加）
+- **近况信号**：
+  - 6 次实质回复，反复询 50/100 台级价格
+  - 2025-05 明确要 L2 managed 工业 PoE
+- **风险/边界**：只要 RMB 最低价，利润薄；无公司实体信息，付款能力待核
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM
+- **邮件切入句（英文）**：You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -99,7 +125,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Usman | — | usman2c@hotmail.com / usman65@gmail.com / +923314713140 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Usman | （职位未核） | usman2c@hotmail.com / +92 331 471 3140（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -115,7 +141,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28DGGPM | 深挖对位：首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -160,7 +186,6 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 公司网站（表内无域名，无法核实是否仍在运营）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -170,7 +195,7 @@ updated: 2026-10-21
 ```text
 Hi Usman,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -14842,64 +14842,21 @@
 },
 "SB-064": {
 "code": "SB-064",
-"status": "ok",
+"status": "mismatch",
+"status_cn": "域名误配（快照到的网站不是本客户）",
 "fetched_at": "2026-10-21T09:23:46Z",
 "domains": [
 "agilenetworks.com"
 ],
-"errors": [],
-"final_url": "https://agilenetworks.com/",
-"http": 200,
-"title": "Agile Networks - Boundless Internet & Interoffice Connectivity",
-"desc": "Agile Network Builders LLC is a leading provider of broadband internet and telecommunications solutions in Ohio.",
-"lang": "en-US",
-"headings": [
-"Welcome to Agile Networks",
-"The Agile Network",
-"Networking in “The Wilds”"
+"errors": [
+"agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用"
 ],
-"kw": {
-"fiber": 4,
-"wireless": 4,
-"telecom": 4
-},
-"models": [
-"FIPS140-2"
-],
-"emails": [
-"info@agilenetworks.com",
-"support@agilenetworks.com"
-],
-"phones": [],
-"social": [
-"https://www.facebook.com/agilenetworks",
-"https://www.linkedin.com/company/agile-networks"
-],
-"brands": [],
-"subpages": [
-{
-"title": "Company - Agile Networks",
-"url": "https://agilenetworks.com/company/"
-},
-{
-"title": "Contact - Agile Networks",
-"url": "https://agilenetworks.com/contact/"
-},
-{
-"title": "Request Services - Agile Networks",
-"url": "https://agilenetworks.com/request-services/"
-},
-{
-"title": "Request Services - Agile Networks",
-"url": "https://agilenetworks.com/request-services/"
-}
-],
-"sitemap_count": 42,
-"product_pages": [],
-"excerpt": "Skip to content Linkedin page opens in new window Facebook page opens in new window Agile Networks Secure, Reliable, High-Speed Data Network REQUEST SERVICE (888) 494-0549 COMPANY About Us FAQ Careers CUSTOMERS Residential Business Government SERVICES Transport Co-Location Internet CONTACT REQUEST SERVICES Search: SEARCH COMPANY About Us FAQ Careers CUSTOMERS Residential Business Government SERVICES Transport Co-Loca",
 "auto_p1": null,
 "auto_p1_why": null,
-"status_cn": "在线"
+"brands": [],
+"models": [],
+"emails": [],
+"phones": []
 },
 "SB-065": {
 "code": "SB-065",

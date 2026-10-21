@@ -78,7 +78,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：msk@skeo.ru, rostov@skeo.ru, sales@skeo.ru
 - **站内公开电话**：+7 (812) 200-89-90, +7 (863) 303-35-37, +7 812 200-89-90
 - **社媒**：http://vk.com/nposkeo, http://www.youtube.com/channel/UCU8lAUnPr5cC0O3yjcB1rWg, https://twitter.com/NPOSkeo, https://www.facebook.com/NpoSkeo
-- **产品类页面**：https://skeo.ru/katalog；https://skeo.ru/katalog/fusion；https://skeo.ru/katalog/fusion/cleavers；https://skeo.ru/katalog/fusion/elektrody-dlya-apparatov；https://skeo.ru/katalog/fusion/nozhi-dlya-skalyvatelej；https://skeo.ru/katalog/fusion/splicers
+- **产品类页面**：https://skeo.ru/katalog；https://skeo.ru/katalog/kio；https://skeo.ru/katalog/fusion；https://skeo.ru/katalog/network；https://skeo.ru/katalog/passive；https://skeo.ru/katalog/fusion/tools
 - **已抓子页**：[Контакты СКЕО](https://skeo.ru/contact)；[Сетевое оборудование](https://skeo.ru/katalog/network)；[IPTV приставки](https://skeo.ru/katalog/network/iptv-pristavki)；[Каталог](https://skeo.ru/katalog)；[О компании](https://skeo.ru/info/about)；[Измерительные приборы](https://skeo.ru/katalog/kio)
 - 首页正文摘录：i ≡ Уплотнение ВОЛС CWDM CWDM мультиплексоры CWDM модули OADM Оптические фильтры CWDM Оптические модули CWDM DWDM Оптические фильтры DWDM Оптические циркуляторы Оптические фильтры FWDM Сварочное оборудование Аппараты для сварки волокон Скалыватели оптических волокон Электроды Ножи скалывателей Инструменты Оптические модули 1 - 10 Гбит/с Модули SFP Модули SFP+ Модули XFP Модули X2 Модули XENPAK Модули GBIC 40 - 400 Гб
 - 数据文件：`data/saga_clients/site_snapshots/SB-092.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。

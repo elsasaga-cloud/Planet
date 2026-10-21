@@ -84,7 +84,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：sait@telkolink.com, satis@gelecekbt.com, yusuf@telkolink.com, yusufolcer@gmail.com
 - **站内公开电话**：+90 212 3200255, +90 212 3208509
 - **社媒**：https://twitter.com/Gelecekbt, https://www.facebook.com/gelecekbt, https://www.instagram.com/gelecekbt/?hl=tr, https://www.linkedin.com/in/gelecekbt, https://www.youtube.com/@gelecekbt
-- **产品类页面**：http://telkolink.com/Katalog/1040G.pdf；http://telkolink.com/Katalog/10G-SFP.pdf；http://telkolink.com/Katalog/1100.pdf；http://telkolink.com/Katalog/1200.pdf；http://telkolink.com/Katalog/3012.pdf；http://telkolink.com/Katalog/40-QSFP-Modul.pdf
+- **产品类页面**：http://telkolink.com/Katalog/BFA.pdf；http://telkolink.com/Katalog/1100.pdf；http://telkolink.com/Katalog/1200.pdf；http://telkolink.com/Katalog/3012.pdf；http://telkolink.com/Katalog/ACDC.pdf；http://telkolink.com/Katalog/1040G.pdf
 - **已抓子页**：[Telkolink / ÃrÃ¼n KataloÄumuz](http://www.telkolink.com/tr/katalog.html)；[Telkolink Ä°letiÅim](http://www.telkolink.com/tr/iletisim.html)；[Telkolink HakkÄ±nda](http://www.telkolink.com/tr/hakkimizda.html)；[Telkolink / DistribÃ¼tÃ¶rlÃ¼klerimiz](http://www.telkolink.com/kurumsal/temsilciliklerimiz.html)
 - 首页正文摘录：ï»¿ Telkolink Kurumsal Bilgi Teknolojileri Bilgi Teknolojileri UzmanÄ± HakkÄ±mÄ±zda / Ä°letiÅim / Site HaritasÄ± Telkolink - Bilgi Teknolojileri Ã¼rÃ¼nleri TedarikÃ§isi BiliÅim ve Teknoloji ÃrÃ¼nleri tedarikÃ§isi ve aynÄ± zamanda ithalatÃ§Ä±sÄ± olan firmamÄ±z oldukÃ§a geniÅ Ã¼rÃ¼n yelpazesi ile IT sektÃ¶rÃ¼nde hizmet vermektedir. BirÃ§ok Global aktif ve pasif network Ã¼rÃ¼nleri Ã¼reticisinin TÃ¼rkiye distribÃ¼tÃ¶
 - **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 77 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）

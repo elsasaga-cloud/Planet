@@ -108,7 +108,7 @@ updated: 2026-10-21
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 23、scada 14、industrial 3、moxa 3、switch 1、fiber 1
 - **站内公开邮箱**：info@manilaetech.com, info@nks.ph, raulski@gmail.com, sales@manilaetech.com
 - **站内公开电话**：+632) 351-4181, +632) 364-1768, +632) 411-2337, +632) 514-6912, +632) 913-1347, +852) 9857-1406
-- **产品类页面**：http://www.nks.ph/products.php；http://www.nks.ph/products_scada.php；http://www.nks.ph/products_security.php；http://www.nks.ph/products_weather.php；http://www.nks.ph/products_gps.php；http://www.nks.ph/products_relays.php
+- **产品类页面**：http://www.nks.ph/products.php；http://www.nks.ph/products_gps.php；http://www.nks.ph/products_rtu.php；http://www.nks.ph/products_scada.php；http://www.nks.ph/products_relays.php；http://www.nks.ph/products_weather.php
 - **已抓子页**：[Nayon Kontrol Systems](https://nkstech.net/products.php)；[Nayon Kontrol Systems](https://nkstech.net/about.php)；[Nayon Kontrol Systems](https://nkstech.net/contact.php)；[Nayon Kontrol Systems](https://nkstech.net/partners.php)
 - 首页正文摘录：» Welcome to Nayon Kontrol Systems Nayon Kontrol Systems was established in 1996 as a technology-based company, providing smart solutions for SCADA and automation systems for electric utilities and other industries. The company focuses on system design, integration, and engineered automation solutions; utilizing value engineering concepts such as rational logic and functional analysis, in preserving or improving basi
 - **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 22、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）

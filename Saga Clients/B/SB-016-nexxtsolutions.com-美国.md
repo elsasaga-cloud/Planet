@@ -70,7 +70,7 @@ updated: 2026-10-21
 
 - **首页**：https://www.nexxtsolutions.com/　语言：en-US　站点地图 URL 数：134
 - **标题**：Nexxt Solutions
-- **产品类页面**：https://www.nexxtsolutions.com/connectivity/catalog；https://www.nexxtsolutions.com/infrastructure/catalog；https://www.nexxtsolutions.com/infrastructure/products；https://www.nexxtsolutions.com/connectivity/products/kits-en；https://www.nexxtsolutions.com/connectivity/products/whole-home-wi-fi；https://www.nexxtsolutions.com/infrastructure/solutions/industrial-solution
+- **产品类页面**：https://www.nexxtsolutions.com/infrastructure/solutions/industrial-solution；https://www.nexxtsolutions.com/es/infraestructura/soluciones/solucion-industrial；https://www.nexxtsolutions.com/connectivity/catalog；https://www.nexxtsolutions.com/infrastructure/catalog；https://www.nexxtsolutions.com/infrastructure/products；https://www.nexxtsolutions.com/es/conectividad/catalogo
 - 首页正文摘录：Find Out Find Out
 - 数据文件：`data/saga_clients/site_snapshots/SB-016.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 

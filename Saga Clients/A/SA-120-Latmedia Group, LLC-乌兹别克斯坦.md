@@ -119,7 +119,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：info@latmedia.uz
 - **站内公开电话**：+998 90 115-51-00
 - **社媒**：https://www.facebook.com/latmediauz/, https://www.instagram.com/latmedia_agency/, https://www.youtube.com/@latmedia_uz
-- **产品类页面**：https://latmedia.uz/production/；https://latmedia.uz/portfolio/uztex-production-2/；https://latmedia.uz/portfolio/askovostok-production-1/；https://latmedia.uz/portfolio/astoralliance-production-1/；https://latmedia.uz/portfolio/astoralliance-production-2/；https://latmedia.uz/portfolio/uztex-production-1/
+- **产品类页面**：https://latmedia.uz/portfolio/tegen-shop-web/；https://latmedia.uz/production/；https://latmedia.uz/portfolio/uztex-production-2/；https://latmedia.uz/portfolio/uztex-production-1/；https://latmedia.uz/portfolio/sergeli-production-1/；https://latmedia.uz/portfolio/urbanfood-production/
 - **已抓子页**：[Контакты - LATMEDIA.UZ](https://latmedia.uz/contacts/)；[Фото и видеосъемка в Ташкенте - LATMEDIA.UZ](https://latmedia.uz/production/)；[О нас - LATMEDIA.UZ](https://latmedia.uz/about/)；[Партнёры - LATMEDIA.UZ](https://latmedia.uz/partners/)；[LATMEDIA SERVICES - LATMEDIA.UZ](https://latmedia.uz/services/)
 - 首页正文摘录：Главная О нас О нас Партнёры Карьера Вселенная SMM WEB IT Решения PRODUCTION DESIGN SERVICES Кейсы Lifestyle Контакты LATMEDIA Community в Ташкенте LATMEDIA Community в Ташкенте Маркетинговое агентство Ташкент Маркетинговое агентство в Ташкенте Маркетинговые агентства Ташкент Маркетингового агентства Агентство по маркетингу Креативное агентство Ташкент Агентство маркетинговое Продвижение в рекламе Реклама и продвижен
 - 数据文件：`data/saga_clients/site_snapshots/SA-120.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。

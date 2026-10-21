@@ -1,0 +1,63 @@
+{
+ "code": "SB-983",
+ "name_official": "（巴基斯坦 · Ahmad Awan，hotmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "巴基斯坦个人/小公司买家 Ahmad Awan（hotmail，WA 已加）。2021 年问 E1 光纤 modem（Saga 不做），回「we use LAN/Ethernet to fiber」= 实际用以太网光纤收发器；2023 问价格是否更新、对 bypass 图回「有用」；22 次推送 3 次实质回复，互动尚可。→ B 25%，以 MC/工业小机切入。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Ethernet to fiber；2023.2.7 → 没进口证/价格更新了吗？；2023.6.15 发了bypass图 → 有用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmad Awan",
+   "role": "（职位未核）",
+   "email": "israr_awan@hotmail.com",
+   "phone": "+92 321 507 5737（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "founded": "待核",
+  "hq": "待核",
+  "size": "待核",
+  "other": "+92 321 507 5737；无公司名"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "israr_awan@hotmail.com，+92 321 507 5737（WA 已加）"
+ },
+ "signals": [
+  "2023-06 对工业 bypass 交换机图回「有用」",
+  "2023-02 主动问价格是否更新"
+ ],
+ "risks": [
+  "无公司实体信息",
+  "首问 E1 modem 非 Saga 产品"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "「LAN/Ethernet to fiber」→ 工业千兆收发器 STI-110GE 起手；bypass 需求对应 SmartByte LT-IS6312GP-4GX8GT-FBP（Saga 无自有型号，报价需标注）"
+ },
+ "email_hook": "You mentioned you use Ethernet-to-fiber converters rather than E1 modems — our DIN-rail gigabit media converter is $22–24 EXW in small lots; want the current sheet together with the bypass switch you found useful?"
+}

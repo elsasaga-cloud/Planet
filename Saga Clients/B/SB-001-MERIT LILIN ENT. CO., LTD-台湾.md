@@ -66,7 +66,7 @@ updated: 2026-10-21
 - **站内型号串**（正则抽取，含非交换机）：BTE08W, BTR09W, BTR10W, BCD01S, BCR02W, BCR03W, BCR04W, BCR05W, BCR05W-V1, BCR06W, BCR06W-V1, BTD01W
 - **站内公开邮箱**：sales@meritlilin.com.tw
 - **社媒**：https://www.linkedin.com/company/lilin-taiwan/, https://www.youtube.com/user/Meritlilin
-- **产品类页面**：https://meritlilin.com/en/production-line；https://meritlilin.com/tw/production-line；https://meritlilin.com/en/product-finder；https://meritlilin.com/tw/product-finder；https://meritlilin.com/en/product/category/1；https://meritlilin.com/tw/product/category/4
+- **产品类页面**：https://meritlilin.com/en/product/category/1；https://meritlilin.com/tw/product/category/4；https://meritlilin.com/en/product/category/4；https://meritlilin.com/tw/product/category/6；https://meritlilin.com/en/product/category/6；https://meritlilin.com/tw/product/category/7
 - **已抓子页**：[LILIN - Bracket](https://meritlilin.com/en/product/category/36)；[LILIN](https://meritlilin.com/en/support/file/type/catalog)；[LILIN - PTZ Dome IP Camera](https://meritlilin.com/en/product/ptz)；[LILIN - Camera AIDA Software](https://meritlilin.com/en/product/category/163)；[LILIN - Production Line Solution](https://meritlilin.com/en/solution/production-line)；[LILIN - RMA](https://meritlilin.com/en/rma)
 - 首页正文摘录：Products Frontend & Cameras AI Smart Cameras 7-Series / 6-Series Edge AI PTZ Cameras IMU stabilization / Dual-Spectral ToF Sensors 3D depth sensing technology AIDA Frontend Models For AI Cameras Backend & Systems NVR / NAV High-capacity recording servers X-Path Person search and tracking across cameras VMS Platform Navigator 5.0 management system Server-Based AIDA License/Models For AI servers AI Backend Server Video
 - **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）

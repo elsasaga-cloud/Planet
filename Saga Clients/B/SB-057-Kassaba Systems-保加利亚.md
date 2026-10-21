@@ -110,7 +110,7 @@ updated: 2026-10-21
 
 - **首页**：https://kassabasystems.com/__superjs/challenge?u=%2F　语言：未标　站点地图 URL 数：1952
 - **标题**：SuperJS check
-- **产品类页面**：https://www.kassabasystems.com/trx-4m35aw-poe-2-8-2-8mm-shirokoagalna-ip-poe-full-color-4mpx-bulet-kamera-s-vgraden-mikrofon-i-tsvetno-izobrazhenie-prez-noshtta；https://www.kassabasystems.com/2ip4b-poe-ip-tsifrov-komplekt-s-2br-poe-kameri-4mpx-dual-light-s-mikrofon-i-tsvetno-noshtno-vizhdane-4k-10-kanalen-nvr-i-poe-suich；https://www.kassabasystems.com/4mpx-poe-ip-komplekt-s-4-kameri-i-nvr；https://www.kassabasystems.com/trx-4980dl8a-poe-8mpx-4k-star-light-poe-ip-kamera-za-vanshen-montazh-s-mikrofon-i-tsvetno-noshtno-izobrazhenie；https://www.kassabasystems.com/vanshna-ip-camera-s-mikrofon-4megapiksela-TRX-4B40ADL-POE-2.8；https://www.kassabasystems.com/ip-kamera-trx-3032mpx20-poe
+- **产品类页面**：https://www.kassabasystems.com/ip-kamera-trx-3032mpx20-poe；https://www.kassabasystems.com/POE-ip-kamera-trx-3035l-2mpx；https://www.kassabasystems.com/ip-kamera-5mp-trx-b50fea-poe；https://www.kassabasystems.com/4mpx-poe-ip-komplekt-s-4-kameri-i-nvr；https://www.kassabasystems.com/5mp-bullet-ip-kamera-trx-TRX-B3750ADL-PoE；https://www.kassabasystems.com/5mp-ip-dome-camera-trx-trx-rds5adl-poe-2.8
 - 数据文件：`data/saga_clients/site_snapshots/SB-057.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位

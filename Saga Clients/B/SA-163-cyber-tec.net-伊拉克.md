@@ -1,5 +1,5 @@
 # cyber-tec.net
-**官方名称（调研核实）**：Cyber-Tec（cyber-tec.net，伊拉克）
+**官方名称（调研核实）**：Cyber Tec（cyber-tec.net，伊拉克卡尔巴拉；域名现不可达）
 
 > **评级 B**　|　伊拉克　|　档案编号 `SA-163`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-163
 rating: B
 rating_auto: A
 rating_research: B  # 伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。
-name_official: "Cyber-Tec（cyber-tec.net，伊拉克）"
+name_official: "Cyber Tec（cyber-tec.net，伊拉克卡尔巴拉；域名现不可达）"
 score: 60
 country: 伊拉克
 region: 中东
@@ -22,8 +22,8 @@ replies: 1
 followups: 19
 first_contact: 2023-11-29
 last_contact: 2025-10-06
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STI-110FE
+price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：伊拉克 IT 公司，WA 在线，1 次回复、19 次跟进；兴趣型号 TA510-FE。（调研 2026-10-21；表内兴趣：TA510-FE）
+- **是谁**：伊拉克卡尔巴拉的小型 IT/网络公司（联系人 Sarmad Alwakil，sarmad@cyber-tec.net + yahoo，WA 已加）。表内兴趣 TA510-FE（百兆工业收发器类型号），2024-03 问「价格含电源吗？电源价格」；19 次推送 1 次实质回复。域名已不可达、无公开资料 → 公司存续待核；伊拉克非主攻区 → B 慢跟 25%。（调研 2026-10-21；表内兴趣：TA510-FE）
 - **为什么是 B 级**：**调研后定级 B**（伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/伊拉克；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-03-15：price 含电源嘛？ 电源价格
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110FE — 深挖对位：TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计；$20.6 USD EXW（25% 档，SmartByte LT-IMC30F-E 110 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -57,17 +57,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：伊拉克 IT 公司，WA 在线，1 次回复、19 次跟进；兴趣型号 TA510-FE。
+- **状态：已调研（2026-10-21）**　网站状态：域名不可达（快照 2026-10-21 unreachable；搜索无收录）
+- **是谁**：伊拉克卡尔巴拉的小型 IT/网络公司（联系人 Sarmad Alwakil，sarmad@cyber-tec.net + yahoo，WA 已加）。表内兴趣 TA510-FE（百兆工业收发器类型号），2024-03 问「价格含电源吗？电源价格」；19 次推送 1 次实质回复。域名已不可达、无公开资料 → 公司存续待核；伊拉克非主攻区 → B 慢跟 25%。
 - **类型**：IT 经销/集成商
 - **规模**：待补证
 - **【用户记录】TA510-FE；WA 已加；1 次回复 / 19 次**
   > TA510-FE；964077361 04911 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】需求与回复**
+  > 兴趣 TA510-FE；2024.3.15 发了工业MC系列信息 → price 含电源嘛？电源价格
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】域名状态**
+  > site_snapshot 2026-10-21：cyber-tec.net unreachable（DNS/连接失败）；web 搜索无该域收录
+  > 来源：（data/saga_clients/site_snapshots/SA-163.json）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +964 773 610 4911（WA）〔用户 Clients 表〕
+- **KP**：Sarmad Alwakil（（职位未核））sarmad@cyber-tec.net / sarmad.karbala@yahoo.com +964 773 610 4911（WA 已加）〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。
 - 备注：WA 季度触达。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名核对 → 存续待核 · 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 待核 |
+| 成立 | 待核 |
+| 总部/地址 | Karbala, Iraq（表内邮箱 sarmad.karbala@yahoo.com） |
+| 其他 | +964 773 610 4911（WA） |
+
+- **业务线**：待核（表内：工业光纤收发器采购）
+- **触达通道（公开）**：contact: Sarmad Alwakil sarmad@cyber-tec.net / sarmad.karbala@yahoo.com，+964 773 610 4911（WA 已加）
+- **近况信号**：
+  - 2024-03-15 问工业 MC 价格是否含电源（在比价）
+- **风险/边界**：官网域名失效，企业邮箱可能退信 → 先用 yahoo/WA；伊拉克清关与付款风险；非主攻区
+- **Saga 对位结论**：P1 STI-110FE（25% 档）——TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计
+- **邮件切入句（英文）**：You once asked whether our industrial media converter price includes the power adapter — it is quoted separately; shall I send the 100M and gigabit versions with and without the 48 V adapter?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
 
@@ -121,7 +144,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sarmad Alwakil | — | sarmad.karbala@yahoo.com / sarmad@cyber-tec.net / +96407736104911 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Sarmad Alwakil | （职位未核） | sarmad@cyber-tec.net / sarmad.karbala@yahoo.com / +964 773 610 4911（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -137,20 +160,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（IT 经销/集成商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110FE | 深挖对位：TA510-FE 类百兆工业收发器 → STI-110FE（1×FE + 1×100M SFP，DIN）；报价注明电源适配器另计 | $20.6 USD EXW（25% 档，SmartByte LT-IMC30F-E 110 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（IT 经销/集成商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110FE），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110FE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -158,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-110FE 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -187,25 +210,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Sarmad,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. You once asked whether our industrial media converter price includes the power adapter — it is quoted separately; shall I send the 100M and gigabit versions with and without the 48 V adapter?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

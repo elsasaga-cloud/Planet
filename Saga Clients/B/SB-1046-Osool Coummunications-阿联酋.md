@@ -75,7 +75,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：example@email.com, info@osoolct.com
 - **站内公开电话**：+971 50 686 8944, +971 72 444 355, +971506868944
 - **社媒**：https://www.facebook.com/Osool-Communication-Technical-Systems-246325256469407/, https://www.instagram.com/osoolcts/
-- **产品类页面**：https://osoolct.com/scan-index-manager-delivers-productivity-at-beaumont-hospital/；https://osoolct.com/project/sturdy-products-uae-ltd/
+- **产品类页面**：https://osoolct.com/project/sturdy-products-uae-ltd/；https://osoolct.com/scan-index-manager-delivers-productivity-at-beaumont-hospital/
 - **已抓子页**：[Scan & index manager delivers productivity at beaumont hospi](https://osoolct.com/scan-index-manager-delivers-productivity-at-beaumont-hospital/)；[About – Osool](https://osoolct.com/about/)；[Contact Us – Osool](https://osoolct.com/contact-us/)；[Partners – Osool](https://osoolct.com/partners/)；[Services – Osool](https://osoolct.com/services/)
 - 首页正文摘录：From Small Beginnings Come Great Things Home About Projects Executed Projects Ongoing Projects Partners Services Contact Us Have any questions? Free: +971506868944 Search for: Home About Projects Executed Projects Ongoing Projects Partners Services Contact Us Have any questions? Free: +971506868944 Search for: Our company Trusted Source in IT Services And Support OSOOL Communications & Technical Systems is recognized
 - **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 6、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）

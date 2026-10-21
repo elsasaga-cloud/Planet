@@ -125,7 +125,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：info@anb-rimex.be
 - **站内公开电话**：+32 (0)4 229 37 97, 001 - 2010 2001
 - **社媒**：https://www.facebook.com/AnBRimex1981, https://www.linkedin.com/company/anb-securite-s.a./
-- **产品类页面**：https://anb-rimex.be/fr/professionnels/vip-access-eshop/；https://anb-rimex.be/fr/produits/；https://anb-rimex.be/fr/produits/intrusion/；https://anb-rimex.be/fr/produits/domotique/；https://anb-rimex.be/fr/produits/detection-incendie/；https://anb-rimex.be/fr/produits/cctv-dahua/
+- **产品类页面**：https://anb-rimex.be/fr/professionnels/vip-access-eshop/；https://anb-rimex.be/fr/produits/；https://anb-rimex.be/fr/produits/intrusion/；https://anb-rimex.be/fr/produits/domotique/；https://anb-rimex.be/fr/produits/cctv-dahua/；https://anb-rimex.be/fr/produits/controle-dacces/
 - **已抓子页**：[CCTV: Camera systems - AnB-Rimex](https://anb-rimex.be/en/solutions/cctv/)；[About us - AnB-Rimex](https://anb-rimex.be/en/about-us/)；[Work at AnB-Rimex - AnB-Rimex](https://anb-rimex.be/en/about-us/jobs/)；[Our story - AnB-Rimex](https://anb-rimex.be/en/about-us/story/)；[Contact - AnB-Rimex](https://anb-rimex.be/en/pages-de-contact/)；[Installers & Distributors - AnB-Rimex](https://anb-rimex.be/en/pages-de-contact/dealers/)
 - 首页正文摘录：Find a dealer English Français Nederlands Deutsch Solutions Intrusion Intrusion detection and alarm systems. Domotics Automation, I/O and smart home control. CCTV Camera systems for clear visual security. Access control Control who enters your building. Videophony / VDP Door entry and videophony systems. Fire detection Fire detection and warning systems. Assisted living Technology for independent and comfortable livi
 - **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 6、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）

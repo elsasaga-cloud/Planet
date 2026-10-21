@@ -255,7 +255,9 @@ def fmt_snapshot(ent):
         L.append(f"- 尝试域名：{', '.join(sg.get('domains') or [])}")
         for e in (sg.get('errors') or [])[:3]:
             L.append(f'  > {e}')
-        if sg.get('status') == 'parked_or_empty':
+        if sg.get('status') == 'mismatch':
+            L.append('- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。')
+        elif sg.get('status') == 'parked_or_empty':
             L.append('- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。')
         elif sg.get('status') == 'unreachable':
             L.append('- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。')
@@ -662,7 +664,9 @@ def render_one(ent):
             unknown.append('人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）')
         else:
             unknown.append('网页调研未做（公司规模/业务/在卖品牌待核）')
-    if website and sg and sg.get('status') not in ('ok', None, ''):
+    if website and sg and sg.get('status') == 'mismatch':
+        unknown.append('公司官网（表内域名经核实不属于本客户；真实官网未知）')
+    elif website and sg and sg.get('status') not in ('ok', None, ''):
         unknown.append(f"官网当前状态异常（{sg.get('status_cn', sg.get('status'))}）——公司是否仍在运营待核")
     if not unknown:
         unknown.append('年走量与现供应商')
@@ -689,6 +693,8 @@ def render_one(ent):
         lines.append(f'rating_manual: {ent["manual"].get("等级", "")}  # {ent["manual"].get("理由", "")}')
     lines.append(f'score: {ent["score"]}')
     lines.append(f'country: {ent["country"]}')
+    if ent.get('country_table'):
+        lines.append(f'country_table: {ent["country_table"]}  # 表内原填；调研纠正为 {ent["country"]}（research JSON country_fix）')
     lines.append(f'region: {ent["region"]}')
     lines.append(f'website: {website or "none"}')
     lines.append(f'type: {typ}')

@@ -1,7 +1,7 @@
 # Sedecorp
 **官方名称（调研核实）**：Security Development Corp, SRL（Sedecorp，sedecorp.com，Santo Domingo, República Dominicana）
 
-> **评级 C**　|　美国　|　档案编号 `SB-803`　|　优先级 —　|　状态：WhatsApp 已加·未回复
+> **评级 C**　|　多米尼加　|　档案编号 `SB-803`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 19 次（2024-05-10 → 2025-10-24）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,8 +12,9 @@ rating_auto: B
 rating_research: C  # 2026-10-21 核实：公司位于多米尼加共和国（用户表误记为美国），不在聚焦区域且 19 次跟进 0 回复 → C（子原因：区域外）。若用户决定开拓拉美可改
 name_official: "Security Development Corp, SRL（Sedecorp，sedecorp.com，Santo Domingo, República Dominicana）"
 score: 32
-country: 美国
-region: 北美
+country: 多米尼加
+country_table: 美国  # 表内原填；调研纠正为 多米尼加（research JSON country_fix）
+region: 拉美
 website: sedecorp.com
 type: 经销/集成（类型待核）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
@@ -44,7 +45,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Sedecorp | 事实（用户表） |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 多米尼加 | 事实（用户表）|
 | 网站/域名 | sedecorp.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Dinarys Garrido / Dinarys Garrido / Wilfredo Garcia / President | 事实（用户表） |
@@ -81,7 +82,7 @@ updated: 2026-10-21
 - **KP**：Wilfredo Suriel García（Presidente / CEO（LinkedIn 公开））—（未公开） +1 809-633-2323（公司）〔https://www.linkedin.com/company/sedecorp〕
 - **KP**：Boanergis Olmos Hane（Encargado de Ventas y Mercadeo（LinkedIn 公开））—（未公开） +1 809-633-2323（公司）〔https://www.linkedin.com/company/sedecorp〕
 - **调研后定级**：C（原自动 B）——2026-10-21 核实：公司位于多米尼加共和国（用户表误记为美国），不在聚焦区域且 19 次跟进 0 回复 → C（子原因：区域外）。若用户决定开拓拉美可改回 B。
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「美国」更正为「多米尼加」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对 · 国别更正））
 

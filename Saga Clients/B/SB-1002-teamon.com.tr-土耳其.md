@@ -82,7 +82,7 @@ updated: 2026-10-21
 - **站内公开邮箱**：info@teamon.com.tr
 - **站内公开电话**：+90 (312) 806 35 29
 - **社媒**：https://instagram.com/, https://mxtoolbox.com/NetworkTools.aspx, https://twitter.com/, https://www.facebook.com
-- **已抓子页**：[Ürünler](https://teamon.com.tr/urunler)；[Ürünler](https://teamon.com.tr/urunler/listesi)；[Hakkımızda](https://teamon.com.tr/hakkimizda)；[Ruijie Networks Cybrey Alt Markasını Duyurdu](https://www.teamon.com.tr/haberler/ruijie-networks-cybrey-alt-markasini-duyurdu)；[Sonuçlar](https://teamon.com.tr/aramalar?search%5Bicerik%5D=PLANET+switch)；[İletişim](https://teamon.com.tr/iletisim)
+- **已抓子页**：[Ürünler](https://teamon.com.tr/urunler)；[Ürünler](https://teamon.com.tr/urunler/listesi)；[Hakkımızda](https://teamon.com.tr/hakkimizda)；[Ruijie Networks Cybrey Alt Markasını Duyurdu](https://www.teamon.com.tr/haberler/ruijie-networks-cybrey-alt-markasini-duyurdu)；[Sonuçlar](https://teamon.com.tr/aramalar?search[icerik]=PLANET+switch)；[İletişim](https://teamon.com.tr/iletisim)
 - 首页正文摘录：TeamOn ile teknoloji elinizde! 49.75, 55.81 Ana Sayfa Ürünler Kategoriler Haberler Hakkımızda Hizmetler İletişim Kategoriler Ana Sayfa Ağ ASSMANN Switch Kablo Fiber Ethernet ALLIED TELESIS Switch Yönetilebilir Fiber Ethernet BEEK Cihazlar Kablo Fiber Multimetre NETGEAR Switch WiFi POE+ Yönetilebilir PLANET Switch Endüstriyel POE+ Yönetilebilir RUCKUS WIRELESS Switch Access Point POE+ SmartZone Kamera ASSMANN Kamera D
 - **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 31 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
 - 数据文件：`data/saga_clients/site_snapshots/SB-1002.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
