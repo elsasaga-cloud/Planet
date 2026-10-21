@@ -1,8 +1,8 @@
 {
  "code": "SA-094",
- "name_official": "ETRADINGKOREA Co., Ltd.（이트레이딩코리아，首尔）",
- "website_status": "在线",
- "summary": "韩国网络设备商，自有 ETK 品牌工业 bypass 交换机（L2/L3，2.5G/10G，ERPS，PoE++，-40~80℃，IP40，KC/TTA 认证）及 ETK-3100R/4100R/5100R 以太网交换机，同时分销 Cisco/Aruba/Juniper 等光模块；方案覆盖智慧工厂、CCTV、高速公路 ITS、铁路、充电桩、电厂；Secon 2023 展会线索，1 次回复、7 次跟进。",
+ "name_official": "ETRADINGKOREA Co., Ltd.（이트레이딩코리아）",
+ "website_status": "在线（etradingkorea.com，快照 2026-10-21，韩语）",
+ "summary": "韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。",
  "type": "品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销",
  "size": "小型（待补证）",
  "brands_seen": [
@@ -12,7 +12,8 @@
   "Juniper",
   "Arista",
   "Finisar",
-  "Intel"
+  "Intel",
+  "Fortinet"
  ],
  "evidence": [
   {
@@ -35,6 +36,20 @@
    "quote": "Smart Factory Solution… Expressway ITS Solution… Railroad Solution… Power Plant Solution",
    "url": "http://www.etradingkorea.co.kr/eng/index.asp",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "品牌 Cisco / Aruba / Fortinet / Juniper；自有型号 ETK-4000B / ETK-5000B / ETK-5000R / ETK-2000B；有 industrial_switch 下载页与 CCTV 方案页；关键词 cctv 18 / 10g 11 / 2.5g 7",
+   "quote": "brands Cisco, Aruba, Fortinet, Juniper; models ETK-4000B, ETK-5000B, ETK-5000R, ETK-2000B… /sub/download/industrial_switch.asp… /sub/solution/cctv.asp",
+   "url": "https://etradingkorea.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SECON 2023；2025-06 Alarm→INFO",
+   "quote": "回复：INFO",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -44,10 +59,68 @@
    "email": "（用户记录为 Gmail 个人邮箱）",
    "phone": "+82-2-6672-0008 / +82-10-6616-5491",
    "source": "用户 Clients 表（Secon 2023）"
+  },
+  {
+   "name": "Woosy",
+   "title": "（表内联系人）",
+   "email": "woosy777@naver.com",
+   "phone": "+82 10 6616 5491",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Reesung Park",
+   "title": "（表内联系人）",
+   "email": "reesung.park@etradingkorea.com",
+   "phone": "+82 2 6672 0008",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。",
  "notes": "重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "ETRADINGKOREA Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "Seoul, Korea（+82 2 6672 0008）",
+  "size": "中小型分销商",
+  "other": "自有 ETK 系列交换机"
+ },
+ "business_lines": [
+  "企业网络分销（Cisco / Aruba / Fortinet / Juniper）",
+  "自有品牌 ETK 交换机 / 工业交换机 / 2.5G / 10G",
+  "CCTV 方案"
+ ],
+ "products_seen": [
+  {
+   "brand": "ETK",
+   "model": "ETK-4000B / ETK-5000B / ETK-5000R",
+   "spec": "自有品牌交换机系列（贴牌）",
+   "saga": "Saga STC-28DGGPM / STC-424XGGPM-280W 贴牌对位",
+   "url": "https://etradingkorea.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "分销商 + 自有品牌",
+  "region": "韩国"
+ },
+ "signals": [
+  "自有 ETK 线（含工业 / 2.5G / 10G）→ 持续贴牌采购需求",
+  "CCTV 方案 → PoE 交换机量"
+ ],
+ "risks": [
+  "韩国 KC 认证要求（Saga 无 KC，需客户自认证）",
+  "表内仅 Alarm 功能一次 INFO"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。"
+ },
+ "email_hook": "Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?"
 }

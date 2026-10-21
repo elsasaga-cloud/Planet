@@ -1,0 +1,55 @@
+{
+ "code": "SB-1275",
+ "name_official": "Power Logic（巴基斯坦；Waseem Shah，gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "巴基斯坦联系人 Waseem Shah（powerlogic1965@gmail），要目录，2025-02 对 2 光 2 电 mini 回复「need info to promote」= 想代推；身份不明。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 catalog；2025-02 22 迷你→need info to promote...",
+   "quote": "回复：need info to promote...",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Waseem Shah",
+   "title": "（表内联系人）",
+   "email": "powerlogic1965@gmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核，Power Logic？）",
+  "founded": "",
+  "hq": "巴基斯坦",
+  "size": "",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（疑经销 / 代推）",
+  "region": "巴基斯坦"
+ },
+ "risks": [
+  "身份不明；只要资料推广"
+ ],
+ "saga_fit": {
+  "p1": "STI-220GE",
+  "tier": 25,
+  "why": "其回应的 2 光 2 电 mini → STI-220GE。"
+ },
+ "email_hook": "Waseem, to promote the mini industrial switch you'll need the datasheet and dealer price — which customers would you pitch it to (CCTV installers, ISPs, factories)? I'll send the matching pack."
+}

@@ -1,0 +1,62 @@
+{
+ "code": "SB-1273",
+ "name_official": "IT Broadcast & Cyber Security（印度尼西亚；Firman Wahyudi）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "印尼 IT / 广播 / 网络安全服务商（Firman Wahyudi，LinkedIn 来源），2023 年问如何购买、印尼是否有分销商、网站，对 bypass 系列宣传册回复有用。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "问如何买、印尼分销商、网站；管理小壳→Thanks for sharing；bypass 宣传册 + Ali 链接→有用",
+   "quote": "兴趣：1/如何买你们的产品 2/在印尼是否有分销商 3/网站；回复：Thanks for sharing；有用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Firman Wahyudi",
+   "title": "（表内联系人）",
+   "email": "kosovaku@gmail.com",
+   "phone": "+62 852 1819 7765",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "印度尼西亚",
+  "size": "小型",
+  "other": "gmail；LinkedIn 来源"
+ },
+ "business_lines": [
+  "IT / 广播 / 网络安全服务"
+ ],
+ "channels": {
+  "role": "集成 / 服务商",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "主动问购买渠道 → 有项目意向",
+  "对 bypass 工业机有用"
+ ],
+ "risks": [
+  "gmail；2023 后无互动"
+ ],
+ "saga_fit": {
+  "p1": "LT-IS6312GP-4GX8GT-FBP",
+  "tier": 25,
+  "why": "其认可的 bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，光旁路）（SmartByte 型号；Saga 暂无对应名，报价时注明）；无 bypass 需求时 STI-288GPM。"
+ },
+ "email_hook": "Firman, you asked how to buy and whether we have an Indonesian distributor — we sell direct EXW from 1 pc (no local stock yet); is the bypass industrial switch still for a broadcast link, and what fibre distance?"
+}

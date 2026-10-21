@@ -1,8 +1,8 @@
 {
  "code": "SA-100",
- "name_official": "TJ Computer（泰国）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "泰国小型电脑/网络经销商，询 5 电口交换机，1 次回复、1 次跟进，WA 加不上。",
+ "name_official": "TJ Computer（泰国；Peter Ponganan Ruenboon）",
+ "website_status": "域名不可达（tj2003.net）",
+ "summary": "泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。",
  "type": "小型经销商",
  "size": "微型（待补证）",
  "brands_seen": [],
@@ -11,6 +11,20 @@
    "kind": "用户记录",
    "claim": "5 电口需求，需要具体产品信息；WA 加不上",
    "quote": "5电口 需要具体的产品信息；0622179229 加不上（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "tj2003.net 不可达",
+   "quote": "status unreachable",
+   "url": "http://tj2003.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5 电口 需要具体的产品信息；2025-03 28PoE→Interested",
+   "quote": "兴趣：5电口 需要具体的产品信息；回复：Interested",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,10 +36,47 @@
    "email": "",
    "phone": "+66 62 217 9229（WA 未加上）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Peter (Ponganan Ruenboon)",
+   "title": "（经营者）",
+   "email": "tjcomputer2003@gmail.com",
+   "phone": "+66 62 217 9229",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
  "notes": "邮件一次性给 STI-244GP/5 口型号资料即可。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照不可达 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "TJ Computer（2003）",
+  "founded": "2003（域名推断）",
+  "hq": "泰国",
+  "size": "小型零售 / 安装",
+  "other": "CCTV 业务"
+ },
+ "business_lines": [
+  "电脑 / CCTV 零售安装"
+ ],
+ "channels": {
+  "role": "零售 / 安装商",
+  "region": "泰国"
+ },
+ "signals": [
+  "对 2 光 8 PoE Interested；5 口需求"
+ ],
+ "risks": [
+  "小店小量；域名失效"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "2 光 8 PoE Interested → STC-28DGGPM；5 口 → STI-050GE / 商用 5 口按 HRUI 另询。"
+ },
+ "email_hook": "Peter, you were interested in the 8-PoE + 2-SFP unit — $84 EXW at 1 pc; for the 5-port need, do you want PoE or plain gigabit? I'll send both sheets."
 }

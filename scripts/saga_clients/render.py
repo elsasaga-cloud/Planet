@@ -75,8 +75,13 @@ def load_prices():
         return by
     for r in csv.DictReader(open(PRICE_CSV, encoding='utf-8-sig')):
         k = r['Saga对应型号'].strip()
-        if k and k not in by:
+        if k and not k.startswith('（') and k not in by:
             by[k] = r
+    # 回退：Saga 暂无对应名的 SmartByte 型号（如 bypass 系列）按 SmartByte 型号索引，MD 中须注明「SmartByte 型号」
+    for r in csv.DictReader(open(PRICE_CSV, encoding='utf-8-sig')):
+        k2 = (r.get('SmartByte型号') or '').strip()
+        if k2 and k2 not in by:
+            by[k2] = r
     return by
 
 

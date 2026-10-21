@@ -1,5 +1,5 @@
 # ETRADINGKOREA Co., Ltd
-**官方名称（调研核实）**：ETRADINGKOREA Co., Ltd.（이트레이딩코리아，首尔）
+**官方名称（调研核实）**：ETRADINGKOREA Co., Ltd.（이트레이딩코리아）
 
 > **评级 B**　|　韩国　|　档案编号 `SA-094`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-094
 rating: B
 rating_auto: A
 rating_research: B  # 韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工
-name_official: "ETRADINGKOREA Co., Ltd.（이트레이딩코리아，首尔）"
+name_official: "ETRADINGKOREA Co., Ltd.（이트레이딩코리아）"
 score: 69
 country: 韩国
 region: 亚太
@@ -22,7 +22,7 @@ replies: 1
 followups: 7
 first_contact: 2025-06-19
 last_contact: 2025-10-29
-p1: STI-288DGGPM
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国网络设备商，自有 ETK 品牌工业 bypass 交换机（L2/L3，2.5G/10G，ERPS，PoE++，-40~80℃，IP40，KC/TTA 认证）及 ETK-3100R/4100R/5100R 以太网交换机，同时分销 Cisco/Aruba/Juniper 等光模块；方案覆盖智慧工厂、CCTV、高速公路 ITS、铁路、充电桩、电厂；Secon 2023 展会线索，1 次回复、7 次跟进。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：**调研后定级 B**（韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 7 次（2025-06-19 → 2025-10-29）；最近一次客户回复：2025-06-30：INFO
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -58,11 +58,11 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
-- **是谁**：韩国网络设备商，自有 ETK 品牌工业 bypass 交换机（L2/L3，2.5G/10G，ERPS，PoE++，-40~80℃，IP40，KC/TTA 认证）及 ETK-3100R/4100R/5100R 以太网交换机，同时分销 Cisco/Aruba/Juniper 等光模块；方案覆盖智慧工厂、CCTV、高速公路 ITS、铁路、充电桩、电厂；Secon 2023 展会线索，1 次回复、7 次跟进。
+- **状态：已调研（2026-10-21）**　网站状态：在线（etradingkorea.com，快照 2026-10-21，韩语）
+- **是谁**：韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。
 - **类型**：品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销
 - **规模**：小型（待补证）
-- **在卖/在用品牌**：ETK（自有）, Cisco, Aruba, Juniper, Arista, Finisar, Intel
+- **在卖/在用品牌**：ETK（自有）, Cisco, Aruba, Juniper, Arista, Finisar, Intel, Fortinet
 - **【官网】自称工业 bypass 交换机领先企业，支持 2.5G/10G、ERPS、PoE++、-40~80℃、IP40**
   > Leading company of Industrial Bypass Network Switch… Managed L2/L3 2.5G /10G Industrial Bypass Switch… Support to ERPS Ring & Smart Ring… PoE, PoE+, PoE++… Working Temperature : -40~80℃
   > 来源：http://www.etradingkorea.co.kr/eng/index.asp（抓取 2026-10-21）
@@ -72,10 +72,40 @@ updated: 2026-10-21
 - **【官网】方案含铁路/ITS/电厂（守界类）**
   > Smart Factory Solution… Expressway ITS Solution… Railroad Solution… Power Plant Solution
   > 来源：http://www.etradingkorea.co.kr/eng/index.asp（抓取 2026-10-21）
+- **【官网快照】品牌 Cisco / Aruba / Fortinet / Juniper；自有型号 ETK-4000B / ETK-5000B / ETK-5000R / ETK-2000B；有 industrial_switch 下载页与 CCTV 方案页；关键词 cctv 18 / 10g 11 / 2.5g 7**
+  > brands Cisco, Aruba, Fortinet, Juniper; models ETK-4000B, ETK-5000B, ETK-5000R, ETK-2000B… /sub/download/industrial_switch.asp… /sub/solution/cctv.asp
+  > 来源：https://etradingkorea.com/（抓取 2026-10-21）
+- **【用户表】SECON 2023；2025-06 Alarm→INFO**
+  > 回复：INFO
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Park Ree Sung（P.R. Sung）（（用户记录））（用户记录为 Gmail 个人邮箱） +82-2-6672-0008 / +82-10-6616-5491〔用户 Clients 表（Secon 2023）〕
+- **KP**：Woosy（）woosy777@naver.com +82 10 6616 5491〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Reesung Park（）reesung.park@etradingkorea.com +82 2 6672 0008〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。
 - 备注：重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 OEM））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ETRADINGKOREA Co., Ltd. |
+| 成立 | （待核） |
+| 总部/地址 | Seoul, Korea（+82 2 6672 0008） |
+| 其他 | 自有 ETK 系列交换机 |
+
+- **业务线**：企业网络分销（Cisco / Aruba / Fortinet / Juniper）；自有品牌 ETK 交换机 / 工业交换机 / 2.5G / 10G；CCTV 方案
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ETK | ETK-4000B / ETK-5000B / ETK-5000R | 自有品牌交换机系列（贴牌） | Saga STC-28DGGPM / STC-424XGGPM-280W 贴牌对位 | https://etradingkorea.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 分销商 + 自有品牌；region: 韩国
+- **近况信号**：
+  - 自有 ETK 线（含工业 / 2.5G / 10G）→ 持续贴牌采购需求
+  - CCTV 方案 → PoE 交换机量
+- **风险/边界**：韩国 KC 认证要求（Saga 无 KC，需客户自认证）；表内仅 Alarm 功能一次 INFO
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。
+- **邮件切入句（英文）**：Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -131,7 +161,8 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Park Ree Sung（P.R. Sung） | （用户记录） | （用户记录为 Gmail 个人邮箱） / +82-2-6672-0008 / +82-10-6616-5491 | 调研核实（公开页） | 用户 Clients 表（Secon 2023） |
-| Woosy | Director of Technical Sales | woosy777@naver.com / reesung.park@gmail.com / +82266720008 | 用户表原值 | Clients/ 表 |
+| Woosy | — | woosy777@naver.com / +82 10 6616 5491 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Reesung Park | — | reesung.park@etradingkorea.com / +82 2 6672 0008 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -149,17 +180,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -169,7 +200,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：小型（待补证）
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：小型（待补证）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -198,14 +229,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Park,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your ETK ETK-4000B / ETK-5000B / ETK-5000R at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

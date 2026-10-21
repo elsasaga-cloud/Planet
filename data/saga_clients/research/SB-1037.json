@@ -1,0 +1,41 @@
+{
+ "code": "SB-1037",
+ "name_official": "Bahrain Telecommunications Company (Batelco)（联系人 Fidel Zaide，gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "表内公司为巴林国家电信运营商 Batelco，联系人 Fidel Zaide 用 gmail（时差 5 h），2023 年对管理小壳、2×2 bypass 回复 let me check / 有用；国家运营商 = 规模过大 + 招标采购，非渠道 → 降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 product pictures；2023-05 管理小壳→let me check；2023-06 2*2 bypass→有用",
+   "quote": "回复：let me check；有用",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Fidel Zaide",
+   "title": "（表内联系人）",
+   "email": "zaidefidel@gmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "规模过大 / 运营商招标采购，且仅 gmail 个人联系（2023 后无互动）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 运营商降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不主动跟进；若其承包商来询再报。"
+ },
+ "email_hook": "（不主动发送）"
+}

@@ -268,25 +268,24 @@ SB-004,B,T2,TAILYN,台湾,亚太,0,1,0,0,0,0,0,1,10,tailyn.com.tw,6,1,1,ok,,STI-
 SB-005,B,T2,ASSMANN ASIA,台湾,亚太,0,1,0,0,0,0,0,0,10,assmann.com.tw,1,1,1,ok,,
 SB-007,B,T2,"Winsonic Electronics Co., Ltd.",台湾,亚太,0,1,0,0,0,0,0,0,10,ewinsonic.com,2,1,1,ok,,STI-288GP
 SB-1277,B,T2,ara.com.bd,孟加拉国,南亚,0,1,0,0,0,0,0,1,9,ara.com.bd,2,1,1,unreachable,,
-SB-006,B,T2,EDIMAX,台湾,亚太,0,1,0,0,0,0,0,0,8,edimax.com.tw;edimax.com,4,0,0,timeout,,
-SB-1037,B,T2,Bahrain telecommunacation company,巴林,中东,0,1,0,0,0,0,0,0,8,,1,0,0,,,
-SB-1273,B,T2,IT Broadcast & Cyber Security Infra System,印度尼西亚,亚太,0,1,0,0,0,0,0,0,8,,1,0,0,,,
-SB-1278,B,T2,Agility Elektrotekniks Pvt Ltd,印度,南亚,0,1,0,0,0,0,0,0,8,,1,0,0,,,
-SA-094,B,T2,"ETRADINGKOREA Co., Ltd",韩国,亚太,0,1,0,0,0,0,0,0,7,etradingkorea.com,4,1,0,ok,"Cisco,Aruba,Fortinet,Juniper",STC-424XGGM
-SB-162,B,T2,NKF wireless internet and services,菲律宾,亚太,0,1,0,0,0,0,0,1,6,,1,0,0,,,
-SB-029,B,T2,ite.net.pk,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,ite.net.pk,3,0,0,ok,"Cisco,Fortinet,Huawei,Ubiquiti,Juniper",
-SB-1275,B,T2,powerlogic1965@gmail.com,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,,1,0,0,,,
+SB-006,B,T2,EDIMAX,台湾,亚太,0,1,0,0,0,0,0,0,8,edimax.com.tw;edimax.com,4,1,1,timeout,,
+SB-1273,B,T2,IT Broadcast & Cyber Security Infra System,印度尼西亚,亚太,0,1,0,0,0,0,0,0,8,,1,1,1,,,
+SB-1278,B,T2,Agility Elektrotekniks Pvt Ltd,印度,南亚,0,1,0,0,0,0,0,0,8,,1,1,1,,,
+SA-094,B,T2,"ETRADINGKOREA Co., Ltd",韩国,亚太,0,1,0,0,0,0,0,0,7,etradingkorea.com,4,1,1,ok,"Cisco,Aruba,Fortinet,Juniper",STC-424XGGM
+SB-162,B,T2,NKF wireless internet and services,菲律宾,亚太,0,1,0,0,0,0,0,1,6,,1,1,1,,,
+SB-029,B,T2,ite.net.pk,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,ite.net.pk,3,1,1,ok,"Cisco,Fortinet,Huawei,Ubiquiti,Juniper",
+SB-1275,B,T2,powerlogic1965@gmail.com,巴基斯坦,南亚,0,1,0,0,0,0,0,0,4,,1,1,1,,,
 SB-1276,B,T2,vienthonggiatot.com,越南,亚太,0,1,0,0,0,0,0,0,4,vienthonggiatot.com,1,1,1,ok,"TP-Link,Cisco,PLANET,HRUI（！）,Ubiquiti,MikroTik,Grandstream,Siemens",STC-424XGGM
-SB-1333,B,T2,（未具名）,台湾,亚太,0,1,0,0,0,0,0,0,4,,0,0,0,,,
-SB-427,B,T2,automationsystem.in,印度,南亚,0,1,0,0,0,0,0,0,4,automationsystem.in,1,0,0,ok,Teltonika,STI-288GP
-SB-099,B,T2,agsplus.in,印度,南亚,0,1,0,0,0,0,0,0,2,agsplus.in;xexagon.co.in;imimg.com,4,0,0,parked_or_empty,,
-SB-297,B,T2,SMART SECURITY SYSTEMS,印度,南亚,0,1,0,0,0,0,0,0,2,,1,0,0,,,
-SB-656,B,T2,CORE IT SOLUTIONS,印度,南亚,0,1,0,0,0,0,0,0,2,citsindia.com,1,0,0,ok,,
-SA-100,B,T2,TJ Computer,泰国,亚太,0,1,0,0,0,0,1,0,1,tj2003.net,2,1,0,unreachable,,
-SA-118,B,T2,topica.mn,蒙古国,亚太,0,1,0,0,0,0,0,0,1,topica.mn,1,1,0,ok,"MikroTik,Cisco,Milesight,Schneider,ZKTeco,Ruijie,D-Link,Huawei,PLANET",STC-424XGGM
-SB-1286,B,T2,amineachoura21@gmail.com,阿尔及利亚,非洲,0,1,0,0,0,0,0,0,1,,1,0,0,,,
-SB-437,B,T2,pancakumala.co.id,印度尼西亚,亚太,0,1,0,0,0,0,0,0,1,pancakumala.co.id,2,0,0,ok,Hanwha,STI-288GP
-SB-472,B,T2,n-itus.com,韩国,亚太,0,1,0,0,0,0,0,0,1,n-itus.com,2,0,0,http_error,,
+SB-1333,B,T2,（未具名）,台湾,亚太,0,1,0,0,0,0,0,0,4,,0,1,1,,,
+SB-427,B,T2,automationsystem.in,印度,南亚,0,1,0,0,0,0,0,0,4,automationsystem.in,1,1,1,ok,Teltonika,STI-288GP
+SB-099,B,T2,agsplus.in,印度,南亚,0,1,0,0,0,0,0,0,2,agsplus.in;xexagon.co.in;imimg.com,4,1,1,parked_or_empty,,
+SB-297,B,T2,SMART SECURITY SYSTEMS,印度,南亚,0,1,0,0,0,0,0,0,2,,1,1,1,,,
+SB-656,B,T2,CORE IT SOLUTIONS,印度,南亚,0,1,0,0,0,0,0,0,2,citsindia.com,1,1,1,ok,,
+SA-100,B,T2,TJ Computer,泰国,亚太,0,1,0,0,0,0,1,0,1,tj2003.net,2,1,1,unreachable,,
+SA-118,B,T2,topica.mn,蒙古国,亚太,0,1,0,0,0,0,0,0,1,topica.mn,1,1,1,ok,"MikroTik,Cisco,Milesight,Schneider,ZKTeco,Ruijie,D-Link,Huawei,PLANET",STC-424XGGM
+SB-1286,B,T2,amineachoura21@gmail.com,阿尔及利亚,非洲,0,1,0,0,0,0,0,0,1,,1,1,1,,,
+SB-437,B,T2,pancakumala.co.id,印度尼西亚,亚太,0,1,0,0,0,0,0,0,1,pancakumala.co.id,2,1,1,ok,Hanwha,STI-288GP
+SB-472,B,T2,n-itus.com,韩国,亚太,0,1,0,0,0,0,0,0,1,n-itus.com,2,1,1,http_error,,
 SB-973,B,T2,dbjcontrad@hotmail.com,赞比亚,非洲,0,1,0,0,0,0,0,0,1,,1,0,0,,,
 SB-105,B,T2,mbtc.com.sa,沙特阿拉伯,中东,0,0,1,0,0,0,1,0,24,mbtc.com.sa;aamindustrial.com,2,0,0,ok,,
 SB-1012,B,T2,摄像头公司,俄罗斯,俄语区,0,0,1,0,0,0,0,0,23,dozor23.ru,1,0,0,ok,,

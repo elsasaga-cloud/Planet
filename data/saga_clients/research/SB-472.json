@@ -1,0 +1,76 @@
+{
+ "code": "SB-472",
+ "name_official": "N-ITUS Co., Ltd.（n-itus.com，韩国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 HTTP 错误）",
+ "summary": "韩国网络设备公司 N-ITUS（Director Peter 邮箱退信，另一联系人 yhahn@），兴趣商用以太网交换机，表内「质量一般」，2025-11 对升压 PoE 群发回复「Price and ODM」→ 有 ODM 意向（升压款 Saga 价目无，Q-32）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "n-itus.com HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://n-itus.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 Ethernet Switch / 商业 switch；Peter 发不过去；2025-11 升压→Price and ODM",
+   "quote": "兴趣：Ethernet Switch;商业switch；回复：Price and ODM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Y. H. Ahn",
+   "title": "（表内联系人）",
+   "email": "yhahn@n-itus.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Peter",
+   "title": "Director（邮箱退信）",
+   "email": "peter01@n-itus.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "N-ITUS Co., Ltd.（待核）",
+  "founded": "",
+  "hq": "韩国",
+  "size": "小型",
+  "other": "Director 邮箱退信"
+ },
+ "business_lines": [
+  "商用以太网交换机 / 网络设备"
+ ],
+ "channels": {
+  "role": "品牌 / 经销（ODM 意向）",
+  "region": "韩国"
+ },
+ "signals": [
+  "明确 ODM 意向 + 问价（2025-11）"
+ ],
+ "risks": [
+  "升压 PoE 款不在 Saga 价目（Q-32，按 SmartByte 另询）",
+  "联系人退信；韩国 KC"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "其询价对象为升压 PoE 款（价目无，待 Q-32 / SmartByte 另询）；ODM 口径 30%；常规商用线 STC-28DGGPM 备选。"
+ },
+ "email_hook": "Mr. Ahn, on the PoE boost (voltage-step-up) model you asked price and ODM for — to quote we need target input voltage range and PoE budget; meanwhile, the standard 8-PoE + 2-SFP L2+ is available ODM from small lots."
+}

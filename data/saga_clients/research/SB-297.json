@@ -1,0 +1,61 @@
+{
+ "code": "SB-297",
+ "name_official": "Smart Security Systems（印度；Rk Ahir，gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail）",
+ "summary": "印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站，商用 PoE 需求，2025-07 对 2 光 8 PoE 回复 price。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "2019 年加入国际站 商业 PoE；2025-07 28poe→price",
+   "quote": "兴趣：2019年加入国际站 商业PoE；回复：price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Rk Ahir",
+   "title": "（经营者）",
+   "email": "rkahir65@gmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Smart Security Systems",
+  "founded": "",
+  "hq": "印度",
+  "size": "小型",
+  "other": "gmail；阿里国际站买家"
+ },
+ "business_lines": [
+  "安防系统安装 / 经销"
+ ],
+ "channels": {
+  "role": "安防安装商",
+  "region": "印度"
+ },
+ "signals": [
+  "要了 2 光 8 PoE 价格（2025-07）"
+ ],
+ "risks": [
+  "gmail 小商；印度低价"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "2 光 8 PoE 询价 → STC-28DGGPM（$84.1 @25%）。"
+ },
+ "email_hook": "Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?"
+}

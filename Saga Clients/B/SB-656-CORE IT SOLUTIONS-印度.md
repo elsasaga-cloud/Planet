@@ -1,4 +1,5 @@
 # CORE IT SOLUTIONS
+**官方名称（调研核实）**：Core IT Solutions (CITS)（Mumbai）
 
 > **评级 B**　|　印度　|　档案编号 `SB-656`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-656
 rating: B
 rating_auto: B
+name_official: "Core IT Solutions (CITS)（Mumbai）"
 score: 34
 country: 印度
 region: 南亚
@@ -21,7 +23,7 @@ first_contact: 2025-06-17
 last_contact: 2025-10-02
 p1: STI-110GE
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的经销/集成（类型待核）；兴趣/在卖：SFP, MC, switch, router
+- **是谁**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。（调研 2026-10-21；表内兴趣：SFP, MC, switch, router）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-17 → 2025-10-02）；最近一次客户回复：2025-06-17：price
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-656.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（citsindia.com，快照 2026-10-21）
+- **是谁**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。
+- **【官网快照】服务：应用开发与 ERP、备份、云、FMS/AMC、ISP 服务、网络架构；+91 22 6901 1512 / +91 99876 76431**
+  > Application Development & ERP Backup Solution Cloud Solution FMS and AMCs Hosting… ISP Services IT Consultancy… Network Architect… +9122-69011512
+  > 来源：https://citsindia.com/（抓取 2026-10-21）
+- **【用户表】兴趣 SFP, MC, switch, router；2025-06 群发 10G MC→price；Sarwar 发不过去**
+  > 兴趣：SFP, MC, switch, router；回复：price
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Sarwar（）info@citsindia.com +91 99876 76431〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Core IT Solutions |
+| 成立 | （待核） |
+| 总部/地址 | Mumbai, India |
+| 其他 | info@citsindia.com |
+
+- **业务线**：IT 服务 / AMC / 云 / ISP 服务；网络硬件采购（SFP / MC / 交换机 / 路由）
+- **触达通道（公开）**：role: IT 服务商（项目采购）；region: 印度（孟买）
+- **近况信号**：
+  - 对 10G MC 要价（2025-06）
+- **风险/边界**：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
+- **邮件切入句（英文）**：Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -93,7 +121,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sarwar | — | info@citsindia.com | 用户表原值 | Clients/ 表 |
+| Sarwar | — | info@citsindia.com / +91 99876 76431 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 
@@ -109,7 +137,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-110GE | 深挖对位：MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。 | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -154,7 +182,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -164,7 +191,7 @@ updated: 2026-10-21
 ```text
 Hi Sarwar,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

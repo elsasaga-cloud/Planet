@@ -1,0 +1,84 @@
+{
+ "code": "SB-427",
+ "name_official": "Automation Systems and Solution（Delhi）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（automationsystem.in，快照 2026-10-21）",
+ "summary": "德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ONV",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "品类：工业网络设备、GSM/GPRS、数据采集、机器安全、网络交换机、SMPS；型号 IND-D-M-FG-0402-N / 0404 / 0802 / 1004；关键词 industrial 72 / switch 55 / automation 43；Delhi-110092；+91 98107 69077",
+   "quote": "Industrial Network Devices GSM/GPRS Modems Industrial Data Acquisition Machine safety… Network Switches… models IND-D-M-FG-0402-N, IND-D-M-FG-0404-N, IND-D-M-FG-0802-N, IND-D-M-FG-1004-N",
+   "url": "https://automationsystem.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从 ONV 买 几个台湾品牌；2025-04 群发 2 光 4 PoE→ds",
+   "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Azad Khan",
+   "title": "（表内联系人）",
+   "email": "infoautomation18@gmail.com",
+   "phone": "+91 99584 28786",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Automation Systems and Solution",
+  "founded": "（待核）",
+  "hq": "Delhi 110092, India",
+  "size": "小型工业分销",
+  "other": "自有编号工业交换机（IND-D-M-FG-xxxx）"
+ },
+ "business_lines": [
+  "工业自动化元器件分销",
+  "工业以太网交换机（ONV + 台湾品牌 + 自编号）",
+  "GSM 调制解调器 / 数据采集"
+ ],
+ "products_seen": [
+  {
+   "brand": "（自编号）",
+   "model": "IND-D-M-FG-0402-N / 0404-N / 0802-N / 1004-N",
+   "spec": "DIN 管理型工业交换机 4+2 / 4+4 / 8+2 / 10+4（推断）",
+   "saga": "Saga STI-244GP / STI-288GP / STI-4168… 对位",
+   "url": "https://automationsystem.in/all-switch.php",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "工业分销商（已从中国同行 ONV 采购）",
+  "region": "印度（德里）"
+ },
+ "signals": [
+  "已从 ONV 进口同类 → 可同规格替换",
+  "要了 2 光 4 PoE DS（2025-04）"
+ ],
+ "risks": [
+  "ONV 价格基准低；印度 BIS"
+ ],
+ "saga_fit": {
+  "p1": "STI-244GP",
+  "tier": 20,
+  "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。"
+ },
+ "email_hook": "Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?"
+}

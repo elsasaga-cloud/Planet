@@ -1,0 +1,55 @@
+{
+ "code": "SB-1286",
+ "name_official": "Amine Achoura（阿尔及利亚；个人 gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "2023-09 发了 WDM 手册和网页→WDM information",
+   "quote": "兴趣：WDM information",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Amine Achoura",
+   "title": "（表内联系人）",
+   "email": "amineachoura21@gmail.com",
+   "phone": "+213 669 116 595",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "阿尔及利亚",
+  "size": "",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "阿尔及利亚"
+ },
+ "risks": [
+  "需求 WDM（缺口）；身份不明"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "WDM 不在 Saga 线；无主推型。"
+ },
+ "email_hook": "（不主动发送）"
+}
