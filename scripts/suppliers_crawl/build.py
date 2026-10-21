@@ -170,7 +170,7 @@ def parse_page(site, cfg, rec, html_path):
     ])
 
 
-PORT_RE = re.compile(r'(\d+)\s*[x×\*]\s*(10/100/1000M?|10/100M?|100M|1000M|1G|2\.5G|5G|10G|25G|40G|100G|400G|800G|Gigabit|Fast Ethernet)[^,;|\n]{0,40}', re.I)
+PORT_RE = re.compile(r'(\d+)\s*[x×\*]\s*(10/100/1000M?|10/100M?|100M|1000M|1G|2\.5G|5G|10G|25G|40G|50G|100G|200G|400G|800G|Gigabit|Fast Ethernet)[^,;|\n]{0,40}', re.I)
 
 
 def port_summary(text):
@@ -188,34 +188,199 @@ def port_summary(text):
 
 
 MODEL_RE = {
-    'hohunet': re.compile(r'\b(S\d{4}[A-Z]*(?:-[0-9A-Z]+)*(?:-(?:EI|SI|PLUS))?)\b'),
-    'hrui': re.compile(r'\b(HR\d{3,}[A-Z0-9\-]*|[A-Z]{2,4}-?\d{2,}[A-Z0-9\-]*)\b'),
+    'hohunet': re.compile(r'\b(I?S\d{4}[A-Z0-9]*(?:-[0-9A-Z]+)*)'),
+    'hrui': re.compile(r'\b(HR[0-9A-Z]*(?:-[0-9A-Za-z+]+)+)'),
 }
+
+HRUI_CAT_NAMES = {'poe-switch': 'PoE Switch', 'ethernet-switch': 'Ethernet Switch', 'managed-switch': 'Managed Switch',
+                  'industrial-poe-switch': 'Industrial PoE Switch', 'industrial-ethernet-switch': 'Industrial Ethernet Switch',
+                  'optical-fiber-converter': 'Optical Fiber Converter', 'poe-accessory': 'PoE Accessory', 'wireless-bridge': 'Wireless Solutions'}
+
+
+def table_rows(t):
+    """rowspan/colspan 感知：返回 [(kind, cells)]，kind='§' 为整行跨列的节标题，否则 'r'；rowspan 的首列标签会补到续行。"""
+    out, carry = [], {}  # carry: col -> [text, remaining]
+    for tr in t.find_all('tr'):
+        tds = tr.find_all(['th', 'td'])
+        if not tds:
+            continue
+        row, col = [], 0
+        # 先填入上方 rowspan 延续下来的单元格
+        def fill_carry():
+            nonlocal col
+            while col in carry and carry[col][1] > 0:
+                row.append(carry[col][0])
+                carry[col][1] -= 1
+                col += 1
+        fill_carry()
+        if len(tds) == 1 and int(tds[0].get('colspan') or 1) > 1 and not row:
+            out.append(('§', [clean(tds[0].get_text(' '))]))
+            continue
+        for td in tds:
+            txt = clean(td.get_text(' '))
+            rs = int(td.get('rowspan') or 1)
+            cs = int(td.get('colspan') or 1)
+            row.append(txt)
+            if rs > 1:
+                carry[col] = [txt, rs - 1]
+            col += cs
+            fill_carry()
+        if any(row):
+            out.append(('r', row))
+    return out
+
+
+def flatten_spec(rows):
+    """[(kind, cells)] → [(label, value)]；节标题 → ('§', title)。"""
+    out = []
+    for kind, cells in rows:
+        if kind == '§':
+            out.append(('§', cells[0]))
+            continue
+        cells = [c for c in cells if c != '']
+        if not cells:
+            continue
+        if len(cells) == 1:
+            out.append((out[-1][0] if out and out[-1][0] != '§' else '', cells[0]))
+        else:
+            out.append((cells[0], ' / '.join(cells[1:])))
+    return out
+
+
+def spec_dict(spec):
+    """[(label, value)] → {label: 'v1 / v2'}（同名多行合并）。"""
+    d = OrderedDict()
+    for k, v in spec:
+        if k == '§' or not k:
+            continue
+        d[k] = (d[k] + ' / ' + v) if k in d else v
+    return d
+
+
+def plain_rows(rows):
+    """软件功能表等：丢掉 kind，保留单元格列表（节标题行保留为单格行）。"""
+    return [cells for _, cells in rows]
+
+
+def local_file_map(raw):
+    """下载 / 图片 manifest：url → 本地文件（已归档的）。"""
+    dl = {r['url']: r.get('file') for r in read_jsonl(os.path.join(raw, 'downloads_manifest.jsonl')) if r.get('file')}
+    im = {r['url']: r.get('file') for r in read_jsonl(os.path.join(raw, 'images_manifest.jsonl')) if r.get('file')}
+    return dl, im
+
+
+def product_hohunet(page, soup, base, dlmap, immap):
+    title = page['h1'][0] if page['h1'] else page['title'].split(' - ')[0]
+    m = MODEL_RE['hohunet'].search(title or '')
+    model = m.group(1) if m else ''
+    sd = soup.select_one('.woocommerce-product-details__short-description')
+    short = [clean(x.get_text(' ')) for x in sd.find_all(['li', 'p', 'strong'])] if sd else []
+    short = [x for x in short if x]
+    cats = [clean(a.get_text()) for a in soup.select('span.posted_in a')]
+    tabs = {}
+    for d in soup.select('div.woocommerce-Tabs-panel'):
+        tid = (d.get('id') or '').replace('tab-', '')
+        tabs[tid] = d
+    desc = tabs.get('description')
+    desc_text = '\n'.join(l for l in main_text(desc) if l) if desc else ''
+    desc_imgs = [urljoin(base, (i.get('data-src') or i.get('src') or '')) for i in desc.find_all('img')] if desc else []
+    hw = []
+    if tabs.get('hardware-specification'):
+        for t in tabs['hardware-specification'].find_all('table'):
+            hw += flatten_spec(table_rows(t))
+    sw = []
+    if tabs.get('software-specification'):
+        for t in tabs['software-specification'].find_all('table'):
+            sw += plain_rows(table_rows(t))
+    if not hw and tabs.get('datasheet'):  # 旧版产品页（S2xxx/S35xx）：Datasheet 页签 = 硬件表 + 软件表
+        ts = tabs['datasheet'].find_all('table')
+        if ts:
+            hw = flatten_spec(table_rows(ts[0]))
+        if len(ts) > 1:
+            sw = [[k, v] for k, v in flatten_spec(table_rows(ts[1]))]
+    lic = []
+    if tabs.get('license'):
+        for t in tabs['license'].find_all('table'):
+            lic += plain_rows(table_rows(t))
+    dls = []
+    if tabs.get('download'):
+        for a in tabs['download'].find_all('a', href=True):
+            u = urljoin(base, a['href'])
+            dls.append(dict(text=clean(a.get_text()), url=u, local=dlmap.get(u)))
+    gallery = [urljoin(base, a['href']) for a in soup.select('.woocommerce-product-gallery__image a[href]')]
+    hwd = spec_dict(hw)
+    hm = MODEL_RE['hohunet'].search(hwd.get('Model', '') or '')
+    if hm and (not model or hm.group(1).startswith(model)):
+        model = hm.group(1)
+    # 短描述去重（主题会把标题重复两遍）
+    short2 = []
+    for x in short:
+        if x != title and x not in short2:
+            short2.append(x)
+    short = short2
+    return OrderedDict([
+        ('model', model), ('title', title), ('categories', cats), ('url', page['url']), ('fetched_at', page['fetched_at']),
+        ('short', short), ('service_ports', hwd.get('Service Ports', hwd.get('Ethernet Port', ''))), ('switch_capacity', hwd.get('Packet Switch capacity', hwd.get('Switching capacity', hwd.get('Bandwidth', '')))),
+        ('throughput', hwd.get('Layer 2/Layer 3 Throughput', hwd.get('Throughput', ''))), ('power_supply', hwd.get('Power supply', '')),
+        ('cpu', hwd.get('CPU', '')), ('chipset_platform', hwd.get('Chipset Platform', '')), ('dimensions', hwd.get('Dimensions', '')),
+        ('ports', port_summary(hwd.get('Service Ports', '') or title)),
+        ('hardware', hw), ('software', sw[:400]), ('license', lic), ('downloads', dls), ('description', desc_text[:8000]),
+        ('description_images', [u for u in desc_imgs if u]), ('gallery', gallery), ('gallery_local', [immap.get(u) for u in gallery]),
+    ])
+
+
+def product_hrui(page, soup, base, dlmap, immap, api_idx):
+    t = soup.select_one('h3.detail-product-title') or soup.select_one('.detail-mdel')
+    model = clean(t.get_text()) if t else ''
+    brief = soup.select_one('.detail-product-brief')
+    brief = clean(brief.get_text(' ')) if brief else ''
+    cat_slug = urlparse(page['url']).path.strip('/').split('/')[0]
+    pid = re.sub(r'\D', '', urlparse(page['url']).path.rsplit('/', 1)[-1])
+    api = api_idx.get(pid, {})
+    pdfs = [urljoin(base, a['href']) for a in soup.select('ul.detail-product-btm a[href]') if a['href'].lower().endswith('.pdf')]
+    dls = [dict(text='Datasheet', url=u, local=dlmap.get(u)) for u in pdfs]
+    contents = soup.select('div.detail-product-content')
+    overview, features, spec, imgs_struct = '', [], [], []
+    if contents:
+        c0 = contents[0]
+        lines = main_text(c0)
+        overview = '\n'.join(lines)
+        features = [l for l in lines if l.startswith('■') or l.startswith('●') or l.startswith('•')]
+        for t in c0.find_all('table'):
+            spec += flatten_spec(table_rows(t))
+    if len(contents) > 1:
+        for t in contents[1].find_all('table'):
+            spec += flatten_spec(table_rows(t))
+    for c in contents[2:]:
+        imgs_struct += [urljoin(base, i.get('src') or '') for i in c.find_all('img') if i.get('src')]
+    gallery = []
+    for i in soup.find_all('img'):
+        src = i.get('src') or ''
+        if '/userfiles/product/' in src and '/big/' in src:
+            gallery.append(urljoin(base, src))
+    gallery = list(OrderedDict.fromkeys(gallery))
+    sd = spec_dict(spec)
+    iface = sd.get('Interface', '')
+    return OrderedDict([
+        ('model', model or api.get('product_sn') or ''), ('title', api.get('title2') or re.sub(r'\s*(?:-\s*PoE Switch and Industrial Switch Manufacturer)?\s*\|?\s*HRUI\s*$', '', page['title']).strip()),
+        ('category', HRUI_CAT_NAMES.get(cat_slug, cat_slug)), ('category_slug', cat_slug), ('site_id', pid), ('url', page['url']), ('fetched_at', page['fetched_at']),
+        ('brief', brief), ('interface', iface), ('poe_budget', sd.get('PoE Power Budget', '')), ('switching_bandwidth', sd.get('Switching Bandwidth', '')),
+        ('power_supply', sd.get('Power Supply', '')), ('dimensions', sd.get('Structure Information', '')), ('packing', sd.get('Package Information', '')),
+        ('ports', port_summary(iface or brief or overview)),
+        ('overview', overview[:6000]), ('features', features), ('spec', spec), ('downloads', dls), ('gallery', gallery),
+        ('gallery_local', [immap.get(u) for u in gallery]), ('structure_images', imgs_struct),
+    ])
 
 
 def product_record(site, page):
+    """通用兜底（非 hrui / hohunet）。"""
     text = page['title'] + '\n' + '\n'.join(page['h1']) + '\n' + page['text_excerpt']
     models = []
     for m in MODEL_RE.get(site, MODEL_RE['hrui']).findall(text):
         if m not in models:
             models.append(m)
-    model = models[0] if models else ''
-    spec_rows = []
-    for t in page['tables']:
-        for row in t:
-            if 1 <= len(row) <= 4 and len(' '.join(row)) < 400:
-                spec_rows.append(row)
-    cat = ''
-    if page['breadcrumb']:
-        bc = [c for c in page['breadcrumb'] if c.lower() not in ('home', 'products', 'product')]
-        cat = ' > '.join(bc[:-1]) if len(bc) > 1 else (bc[0] if bc else '')
-    return OrderedDict([
-        ('model', model), ('models_in_page', models[:8]), ('title', page['title']), ('h1', page['h1'][:1]),
-        ('category', cat), ('url', page['url']), ('fetched_at', page['fetched_at']),
-        ('ports', port_summary(text)), ('description', page['description']),
-        ('spec_rows', spec_rows[:120]), ('downloads', page['downloads']), ('images', page['images'][:40]),
-        ('excerpt', page['text_excerpt'][:2500]),
-    ])
+    return OrderedDict([('model', models[0] if models else ''), ('title', page['title']), ('url', page['url']), ('fetched_at', page['fetched_at']),
+                        ('ports', port_summary(text)), ('spec', []), ('downloads', page['downloads']), ('gallery', page['images'][:20])])
 
 
 def slug_of(url):
@@ -225,52 +390,141 @@ def slug_of(url):
 
 
 def md_escape(s):
-    return (s or '').replace('|', '\\|')
+    return (s or '').replace('|', '\\|').replace('\n', ' ')
 
 
-def write_product_md(cfg, prod, pages_dir):
-    os.makedirs(pages_dir, exist_ok=True)
-    fn = os.path.join(pages_dir, slug_of(prod['url']) + '.md')
-    L = []
-    title = prod['h1'][0] if prod['h1'] else prod['title']
-    L.append(f"# {title}")
-    L.append('')
-    L.append(f"> 来源：<{prod['url']}>（抓取 {prod['fetched_at']}，原文照录；中文仅为栏目名）  ")
-    if prod['model']:
-        L.append(f"> 官网型号：**{prod['model']}**" + (f"；页内其他型号：{', '.join(prod['models_in_page'][1:])}" if len(prod['models_in_page']) > 1 else ''))
-    if prod['category']:
-        L.append(f"> 类目：{prod['category']}")
-    if prod['ports']:
-        L.append(f"> 端口要点（正则抽取）：{prod['ports']}")
-    L.append('')
-    if prod['description']:
-        L.append('## Description (meta)')
-        L.append(prod['description'])
+def rel_from_docs(docs_dir, repo_rel):
+    """docs/suppliers/<Name>/products/x.md → 仓库相对路径的相对链接。"""
+    depth = len(docs_dir.strip('/').split('/'))
+    return '../' * depth + repo_rel
+
+
+def hohunet_fname(pr):
+    return (re.sub(r'[^A-Za-z0-9+._-]+', '_', pr['model']) or slug_of(pr['url'])) + '.md'
+
+
+def hohunet_series(pr):
+    for c in pr['categories']:
+        if re.match(r'^I?S\d{4}', c):
+            return c
+    return pr['categories'][0] if pr['categories'] else '（无类目）'
+
+
+def write_hohunet_md(cfg, pr, pdir, sw_dir, sw_hashes):
+    os.makedirs(pdir, exist_ok=True)
+    fn = os.path.join(pdir, hohunet_fname(pr))
+    raw = cfg['raw']
+    L = [f"# {pr['model'] or pr['title']}", '', f"> 来源：<{pr['url']}>（抓取 {pr['fetched_at']}；英文原文照录，中文仅为栏目名）  ",
+         f"> 官网标题：{pr['title']}  ", f"> 类目：{' / '.join(pr['categories']) or '—'}  ",
+         f"> 端口：{pr['service_ports'] or pr['ports'] or '—'}；交换容量 {pr['switch_capacity'] or '—'}；转发 {pr['throughput'] or '—'}；电源 {pr['power_supply'] or '—'}；芯片平台 {pr['chipset_platform'] or '—'}", '']
+    if pr['gallery']:
+        L.append('## 产品图')
+        for u, loc in zip(pr['gallery'][:6], pr['gallery_local'][:6]):
+            if loc:
+                L.append(f"![]({rel_from_docs(cfg['docs'] + '/products', raw + '/' + loc)})")
+            else:
+                L.append(f"- {u}")
         L.append('')
-    if prod['spec_rows']:
-        L.append('## Specification（表格逐行）')
+    if pr['short']:
+        L.append('## Highlights（官网短描述）')
+        for x in pr['short']:
+            L.append(f"- {x}")
+        L.append('')
+    if pr['hardware']:
+        L.append('## HARDWARE SPECIFICATION')
         L.append('| 项 | 值 |')
         L.append('|---|---|')
-        for row in prod['spec_rows']:
-            if len(row) == 1:
-                L.append(f"| **{md_escape(row[0])}** | |")
+        for k, v in pr['hardware']:
+            if k == '§':
+                L.append(f"| **{md_escape(v)}** | |")
             else:
-                L.append(f"| {md_escape(row[0])} | {md_escape(' / '.join(row[1:]))} |")
+                L.append(f"| {md_escape(k)} | {md_escape(v)} |")
         L.append('')
-    if prod['excerpt']:
-        L.append('## 页面正文摘录')
+    if pr['license']:
+        L.append('## License')
+        L.append('| ' + ' | '.join(md_escape(c) for c in pr['license'][0]) + ' |')
+        L.append('|' + '---|' * len(pr['license'][0]))
+        for row in pr['license'][1:]:
+            L.append('| ' + ' | '.join(md_escape(c) for c in row) + ' |')
+        L.append('')
+    if pr['software']:
+        h = __import__('hashlib').md5(json.dumps(pr['software'], ensure_ascii=False).encode()).hexdigest()[:10]
+        swf = os.path.join(sw_dir, f'software-spec-{h}.md')
+        if h not in sw_hashes:
+            os.makedirs(sw_dir, exist_ok=True)
+            S = [f"# Software Specification（HOS 功能表，{len(pr['software'])} 行）", '',
+                 f"> 首见于 <{pr['url']}>（抓取 {pr['fetched_at']}）；同一张表的型号在各产品页链接到此。列 EB / MS / MA = license 档（○ = 支持）。", '']
+            width = max(len(r) for r in pr['software'])
+            S.append('| ' + ' | '.join(md_escape(c) for c in (pr['software'][0] + [''] * (width - len(pr['software'][0])))) + ' |')
+            S.append('|' + '---|' * width)
+            for row in pr['software'][1:]:
+                row = row + [''] * (width - len(row))
+                S.append('| ' + ' | '.join(md_escape(c) for c in row) + ' |')
+            with open(swf, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(S))
+            sw_hashes[h] = []
+        sw_hashes[h].append(pr['model'] or pr['title'])
+        L.append(f"## Software Specification\n见 [software/software-spec-{h}.md](../software/software-spec-{h}.md)（{len(pr['software'])} 行，EB / MS / MA 三档）\n")
+    if pr['downloads']:
+        L.append('## Download')
+        for d in pr['downloads']:
+            loc = f"（本地：`{raw}/{d['local']}`）" if d.get('local') else '（未归档）'
+            L.append(f"- [{d['text'] or d['url'].rsplit('/', 1)[-1]}]({d['url']}) {loc}")
+        L.append('')
+    if pr['description']:
+        L.append('## Description（原文）')
         L.append('```')
-        L.append(prod['excerpt'])
+        L.append(pr['description'])
         L.append('```')
         L.append('')
-    if prod['downloads']:
-        L.append('## 下载')
-        for d in prod['downloads']:
-            L.append(f"- [{d['text'] or d['url'].rsplit('/', 1)[-1]}]({d['url']})")
+    with open(fn, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(L))
+    return os.path.relpath(fn, ROOT)
+
+
+def write_hrui_md(cfg, pr, pdir):
+    os.makedirs(pdir, exist_ok=True)
+    fn = os.path.join(pdir, (re.sub(r'[^A-Za-z0-9+._-]+', '_', pr['model']) or slug_of(pr['url'])) + '.md')
+    raw = cfg['raw']
+    L = [f"# {pr['model'] or pr['title']}", '', f"> 来源：<{pr['url']}>（抓取 {pr['fetched_at']}；英文原文照录，中文仅为栏目名）  ",
+         f"> 官网描述：{pr['title'] or '—'}  ", f"> 类目：{pr['category']}（site id {pr['site_id']}）  ",
+         f"> 接口：{pr['interface'] or pr['ports'] or '—'}；PoE 预算 {pr['poe_budget'] or '—'}；交换带宽 {pr['switching_bandwidth'] or '—'}；电源 {pr['power_supply'] or '—'}", '']
+    if pr['brief']:
+        L.append(f"**Brief:** {pr['brief']}")
         L.append('')
-    if prod['images']:
-        L.append('## 图片（官网 URL；本地副本见 data/<site>_site_raw/images/）')
-        for u in prod['images'][:20]:
+    if pr['gallery']:
+        L.append('## 产品图')
+        for u, loc in zip(pr['gallery'][:6], pr['gallery_local'][:6]):
+            if loc:
+                L.append(f"![]({rel_from_docs(cfg['docs'] + '/products', raw + '/' + loc)})")
+            else:
+                L.append(f"- {u}")
+        L.append('')
+    if pr['downloads']:
+        L.append('## Datasheet')
+        for d in pr['downloads']:
+            loc = f"（本地：`{raw}/{d['local']}`" + (f"；文本：`{raw}/datasheet_text/{os.path.splitext(os.path.basename(d['local']))[0]}.txt`" if d.get('local') else '') + '）' if d.get('local') else '（未归档）'
+            L.append(f"- [{d['url'].rsplit('/', 1)[-1]}]({d['url']}) {loc}")
+        L.append('')
+    if pr['overview']:
+        L.append('## Feature and Benefits（原文）')
+        L.append('```')
+        L.append(pr['overview'])
+        L.append('```')
+        L.append('')
+    if pr['spec']:
+        L.append('## Parameter（规格表逐行）')
+        L.append('| 项 | 值 |')
+        L.append('|---|---|')
+        for k, v in pr['spec']:
+            if k == '§':
+                L.append(f"| **{md_escape(v)}** | |")
+            else:
+                L.append(f"| {md_escape(k)} | {md_escape(v)} |")
+        L.append('')
+    if pr['structure_images']:
+        L.append('## Product structure / Application topology（图）')
+        for u in pr['structure_images'][:10]:
             L.append(f"- {u}")
         L.append('')
     with open(fn, 'w', encoding='utf-8') as f:
@@ -288,7 +542,13 @@ def build(site):
     if os.path.exists(os.path.join(raw, 'summary.json')):
         summary = json.load(open(os.path.join(raw, 'summary.json'), encoding='utf-8'))
     manifest = read_jsonl(os.path.join(raw, 'pages_manifest.jsonl'))
-    pages = []
+    dlmap, immap = local_file_map(raw)
+    api_idx = {}
+    api_file = os.path.join(raw, 'api', 'products_index.json')
+    if os.path.exists(api_file):
+        for it in json.load(open(api_file, encoding='utf-8')):
+            api_idx[str(it.get('id'))] = it
+    pages, soups = [], {}
     for rec in manifest:
         if rec.get('status') != 200 or not rec.get('file'):
             continue
@@ -296,10 +556,10 @@ def build(site):
         if not os.path.exists(hp):
             continue
         try:
-            pages.append(parse_page(site, cfg, rec, hp))
+            pg = parse_page(site, cfg, rec, hp)
+            pages.append(pg)
         except Exception as e:  # noqa
             print(f'[{site}] 解析失败 {rec["url"]}: {e}')
-    # 去重（同一 final_url 多次）
     uniq = OrderedDict()
     for p in pages:
         key = (p['final_url'] or p['url']).rstrip('/')
@@ -310,32 +570,78 @@ def build(site):
     os.makedirs(rp(cfg['out']), exist_ok=True)
     with open(rp(cfg['out']) + '/pages.json', 'w', encoding='utf-8') as f:
         json.dump(OrderedDict([('site', cfg['host']), ('summary', summary), ('pages', pages)]), f, ensure_ascii=False, indent=1)
-    products = [product_record(site, p) for p in pages if p['type'] == 'product']
+    # ---- 产品页：按站点专用解析（重开 HTML）----
+    products = []
+    for p in pages:
+        if p['type'] != 'product':
+            continue
+        with open(os.path.join(raw, p['file']), encoding='utf-8', errors='ignore') as f:
+            soup = BeautifulSoup(f.read(), 'lxml')
+        base = p['final_url'] or p['url']
+        try:
+            if site == 'hohunet':
+                pr = product_hohunet(p, soup, base, dlmap, immap)
+                if not pr['hardware'] and not pr['model']:
+                    continue  # 非交换机的「产品」页（云平台 / SONiC 文章）仍留在 pages.json
+            elif site == 'hrui':
+                pr = product_hrui(p, soup, base, dlmap, immap, api_idx)
+                if not pr['model']:
+                    continue
+            else:
+                pr = product_record(site, p)
+        except Exception as e:  # noqa
+            print(f'[{site}] 产品解析失败 {p["url"]}: {e}')
+            continue
+        products.append(pr)
+    # 同型号去重（HRUI 同一产品可能挂在多个类目 URL 下）
+    seen_m, dedup = set(), []
+    for pr in products:
+        k = (pr['model'] or pr['url']).upper()
+        if k in seen_m:
+            continue
+        seen_m.add(k)
+        dedup.append(pr)
+    products = sorted(dedup, key=lambda x: (x.get('category', '') if site == 'hrui' else hohunet_series(x), x['model']))
     with open(rp(cfg['out']) + '/products.json', 'w', encoding='utf-8') as f:
         json.dump(products, f, ensure_ascii=False, indent=1)
-    # CSV 页面索引
+    # ---- CSV 页面索引 ----
     with open(rp(cfg['csv_pages']), 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.writer(f, lineterminator='\r\n')
         w.writerow(['类型', 'URL', '标题', 'H1', '描述', '表格数', '下载数', '图片数', '正文行数', '抓取时间', '本地文件'])
         for p in pages:
             w.writerow([p['type'], p['url'], p['title'], ' | '.join(p['h1']), p['description'], len(p['tables']), len(p['downloads']), len(p['images']), p['text_lines'], p['fetched_at'], p['file']])
-    # CSV 产品索引
-    with open(rp(cfg['csv_products']), 'w', encoding='utf-8-sig', newline='') as f:
-        w = csv.writer(f, lineterminator='\r\n')
-        w.writerow(['官网型号', '标题', '类目', '端口要点', '规格行数', '下载数', 'URL', '抓取时间'])
-        for pr in products:
-            w.writerow([pr['model'], pr['h1'][0] if pr['h1'] else pr['title'], pr['category'], pr['ports'], len(pr['spec_rows']), len(pr['downloads']), pr['url'], pr['fetched_at']])
-    # docs
+    # ---- CSV 产品索引 + docs ----
     docs = rp(cfg['docs'])
     os.makedirs(docs, exist_ok=True)
+    pdir = os.path.join(docs, 'products')
+    for gen in (pdir, os.path.join(docs, 'software')):  # 生成目录整体重建，避免旧文件残留
+        if os.path.isdir(gen):
+            __import__('shutil').rmtree(gen)
+    paths = []
+    with open(rp(cfg['csv_products']), 'w', encoding='utf-8-sig', newline='') as f:
+        w = csv.writer(f, lineterminator='\r\n')
+        if site == 'hohunet':
+            w.writerow(['官网型号', '官网标题', '类目', 'Service Ports', '交换容量', '转发率', '电源', 'CPU', '芯片平台', '尺寸', '规格书(本地)', 'URL', '抓取时间'])
+            sw_hashes = {}
+            for pr in products:
+                ds = next((d['local'] for d in pr['downloads'] if d.get('local') and 'datasheet' in (d['text'] or '').lower()), '')
+                w.writerow([pr['model'], pr['title'], ' / '.join(pr['categories']), pr['service_ports'], pr['switch_capacity'], pr['throughput'], pr['power_supply'], pr['cpu'], pr['chipset_platform'], pr['dimensions'], ds, pr['url'], pr['fetched_at']])
+                paths.append(write_hohunet_md(cfg, pr, pdir, os.path.join(docs, 'software'), sw_hashes))
+        else:
+            w.writerow(['官网型号', '官网描述', '类目', 'Interface', 'PoE 预算', '交换带宽', '电源', '尺寸/重量', '装箱', '规格书(本地)', 'URL', '抓取时间'])
+            for pr in products:
+                ds = next((d['local'] for d in pr['downloads'] if d.get('local')), '')
+                w.writerow([pr['model'], pr['title'], pr['category'], pr['interface'], pr['poe_budget'], pr['switching_bandwidth'], pr['power_supply'], pr['dimensions'], pr['packing'], ds, pr['url'], pr['fetched_at']])
+                paths.append(write_hrui_md(cfg, pr, pdir))
+    # ---- 页面索引 MD ----
     by_type = defaultdict(list)
     for p in pages:
         by_type[p['type']].append(p)
     L = [f"# {cfg['name']} 官网页面索引（{cfg['host']}）", '',
-         f"> 由 `scripts/suppliers_crawl/build.py` 从 `{cfg['raw']}/` 生成；页面 {len(pages)}，产品页 {len(products)}。"
-         f" 抓取状态：complete={summary.get('complete')}，pages_ok={summary.get('pages_ok')}/{summary.get('pages_total')}，"
+         f"> 由 `scripts/suppliers_crawl/build.py` 从 `{cfg['raw']}/` 生成；HTML 页面 {len(pages)}（去重后），产品 {len(products)}。"
+         f" 抓取状态：complete={summary.get('complete')}，pages_ok={summary.get('pages_ok')}/{summary.get('pages_total')}（失败多为 sitemap 里的旧 URL 404），"
          f"downloads_ok={summary.get('downloads_ok')}/{summary.get('downloads_total')}，images_ok={summary.get('images_ok')}/{summary.get('images_total')}，"
-         f"crawled_at={summary.get('crawled_at')}。", '']
+         f"crawled_at={summary.get('crawled_at')}。原始 HTML / PDF / PDF 文本 / 图片均在 `{cfg['raw']}/`。", '']
     order = ['home', 'page', 'service', 'category', 'product', 'post']
     for t in order + [t for t in by_type if t not in order]:
         if t not in by_type:
@@ -348,20 +654,39 @@ def build(site):
         L.append('')
     with open(os.path.join(docs, '01-官网页面索引.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(L))
-    # 产品清单 + 单页
-    pdir = os.path.join(docs, 'products')
-    paths = []
-    for pr in products:
-        paths.append(write_product_md(cfg, pr, pdir))
-    L = [f"# {cfg['name']} 官网产品清单", '',
-         f"> {len(products)} 个产品页（原文照录见 `products/`）。端口要点为正则抽取，以单页规格表为准。", '',
-         '| 官网型号 | 标题 | 类目 | 端口要点 | 单页 |', '|---|---|---|---|---|']
-    for pr, pth in zip(products, paths):
-        L.append(f"| {md_escape(pr['model'])} | {md_escape((pr['h1'][0] if pr['h1'] else pr['title'])[:80])} | {md_escape(pr['category'])[:40]} | {md_escape(pr['ports'])} | [{os.path.basename(pth)}](products/{os.path.basename(pth)}) |")
+    # ---- 产品清单 MD ----
+    L = [f"# {cfg['name']} 官网产品清单（{len(products)} 款）", '',
+         f"> 由 `scripts/suppliers_crawl/build.py` 生成；每款一页见 `products/`，CSV 见 `{cfg['csv_products']}`。英文原文照录；「—」= 页面无此项。", '']
+    if site == 'hohunet':
+        groups = defaultdict(list)
+        for pr in products:
+            groups[hohunet_series(pr)].append(pr)
+        for g in sorted(groups):
+            L.append(f"## {g}（{len(groups[g])}）")
+            L.append('| 官网型号 | 其它类目 | Service Ports | 交换容量 | 电源 | 芯片平台 | 单页 |')
+            L.append('|---|---|---|---|---|---|---|')
+            for pr in groups[g]:
+                pth = hohunet_fname(pr)
+                others = ' / '.join(c for c in pr['categories'] if c != g) or '—'
+                L.append(f"| {md_escape(pr['model'])} | {md_escape(others)} | {md_escape(pr['service_ports'] or pr['ports'] or '—')[:120]} | {md_escape(pr['switch_capacity'] or '—')} | {md_escape(pr['power_supply'] or '—')} | {md_escape(pr['chipset_platform'] or '—')} | [{pth}](products/{pth}) |")
+            L.append('')
+    else:
+        groups = defaultdict(list)
+        for pr in products:
+            groups[pr['category']].append(pr)
+        for g in sorted(groups):
+            L.append(f"## {g}（{len(groups[g])}）")
+            L.append('| 官网型号 | 官网描述 | Interface | PoE 预算 | 规格书 | 单页 |')
+            L.append('|---|---|---|---|---|---|')
+            for pr in groups[g]:
+                pth = (re.sub(r'[^A-Za-z0-9+._-]+', '_', pr['model']) or slug_of(pr['url'])) + '.md'
+                ds = '✓' if any(d.get('local') for d in pr['downloads']) else '—'
+                L.append(f"| {md_escape(pr['model'])} | {md_escape(pr['title'] or '—')[:110]} | {md_escape(pr['interface'] or pr['ports'] or '—')} | {md_escape(pr['poe_budget'] or '—')} | {ds} | [{pth}](products/{pth}) |")
+            L.append('')
     with open(os.path.join(docs, '02-官网产品清单.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(L))
     tc = Counter(p['type'] for p in pages)
-    print(f"[{site}] pages={len(pages)} {dict(tc)} products={len(products)} models={sum(1 for p in products if p['model'])} complete={summary.get('complete')}")
+    print(f"[{site}] pages={len(pages)} {dict(tc)} products={len(products)} with_datasheet={sum(1 for p in products if any(d.get('local') for d in p['downloads']))} complete={summary.get('complete')}")
 
 
 if __name__ == '__main__':
