@@ -1,5 +1,5 @@
 {
-  "crawled_at": "2026-10-21T01:44:26Z",
+  "crawled_at": "2026-10-21T01:47:22Z",
   "host": "www.smartbyte-switch.com",
   "complete": false,
   "blocked": true,
@@ -99,9 +99,25 @@
       "pages_stop": "blocked (seed refused under every profile; see access_diag.json)",
       "downloads_stop": "complete",
       "images_stop": "blocked (593 left) → resume later"
+    },
+    {
+      "run": "6",
+      "started": "2026-10-21T01:45:59Z",
+      "resumed": true,
+      "budget_min": 140.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-21T01:47:22Z",
+      "elapsed_s": 83,
+      "pages_new": 0,
+      "downloads_new": 0,
+      "images_new": 0,
+      "pages_stop": "blocked (seed refused under every profile; see access_diag.json)",
+      "downloads_stop": "complete",
+      "images_stop": "blocked (593 left) → resume later"
     }
   ],
-  "elapsed_s": 87,
+  "elapsed_s": 83,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
   "time_budget_min": 140.0,

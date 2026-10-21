@@ -158,3 +158,32 @@ requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(68
 [01:44:26] pdftotext: 245
 [01:44:26] downloads total 83.0 MB → committed to git: True
 [01:44:26] images stop: blocked (593 left) → resume later; ok 900/900 (+0 this run), 0.0 MB this run
+===== run 6 =====
+[01:45:59] run 6 start; resume=True; budget 140.0 min; max_pages 1500; delay 0.8s
+[01:46:01] probe archiver https://www.smartbyte-switch.com/ → 403
+[01:46:05] probe archiver https://smartbyte-switch.com/ → 403
+[01:46:07] probe archiver http://www.smartbyte-switch.com/ → 403
+[01:46:10] probe archiver http://smartbyte-switch.com/ → 403
+[01:46:12] probe chrome-win https://www.smartbyte-switch.com/ → 403
+[01:46:14] probe chrome-win https://smartbyte-switch.com/ → 403
+[01:46:16] probe chrome-win http://www.smartbyte-switch.com/ → 403
+[01:46:19] probe chrome-win http://smartbyte-switch.com/ → 403
+[01:46:21] probe firefox-win https://www.smartbyte-switch.com/ → 403
+[01:46:23] probe firefox-win https://smartbyte-switch.com/ → 403
+[01:46:25] probe firefox-win http://www.smartbyte-switch.com/ → 403
+[01:46:28] probe firefox-win http://smartbyte-switch.com/ → 403
+[01:46:30] probe safari-mac https://www.smartbyte-switch.com/ → 403
+[01:46:32] probe safari-mac https://smartbyte-switch.com/ → 403
+[01:46:34] probe safari-mac http://www.smartbyte-switch.com/ → 403
+[01:46:36] probe safari-mac http://smartbyte-switch.com/ → 403
+[01:46:38] all requests profiles refused → trying Playwright (headless Chromium)
+[01:46:55] playwright bootstrap ok=True {"pip": 0, "install_with_deps": 0}
+[01:47:22] playwright seed → 403 ''
+[01:47:22] access mode = blocked (None) base None
+[01:47:22] BLOCKED: 站点对本运行器所有访问方式均拒绝（见 access_diag.json）→ 本轮不抓任何东西，只落盘诊断
+[01:47:22] resume: pages_done=350 queue=0 (retry 0) downloads=245 images=1493
+[01:47:22] BFS stop: blocked (seed refused under every profile; see access_diag.json); pages=350 (+0) downloads=245 images=1493
+[01:47:22] downloads stop: complete; ok 245/245 (+0 this run), 83.0 MB
+[01:47:22] pdftotext: 245
+[01:47:22] downloads total 83.0 MB → committed to git: True
+[01:47:22] images stop: blocked (593 left) → resume later; ok 900/900 (+0 this run), 0.0 MB this run
