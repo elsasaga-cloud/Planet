@@ -34,6 +34,8 @@ v2.2（2026-10-21，运行 #3 页面 350/350 抓齐、但 245 份规格书经 in
      文件名改用 name= 参数（规格书标题）+ .pdf，同名不同内容加 sha 前 8 位。PDF_COMMIT_MB 默认 60 → 120。
   ② 图片：站点自有图片全在 CDN（/comdata/<租户>/…），原先按「外站」跳过 → 现从已归档 HTML 里直接收集（不重抓页面），
      带 Referer 下载进二进制目录（随 Release 附件保存），主题/皮肤素材（/images/、/skinp/、/share/）仍不收。
+v2.3（2026-10-21，运行 #4 规格书 245/245 直链成功、图片 900/1493 后 CDN 断流 ChunkedEncodingError 把整轮打崩之后）：
+  读响应体（r.content）一律包在 try 里：图片 / 附件读体中断只记该条错误并继续，不再让整轮崩；候选链判定也放进 try。
 """
 import hashlib
 import json
@@ -381,11 +383,12 @@ def get_download(u, referer=None):
         for i in range(2):
             try:
                 r = S.get(c, timeout=120, allow_redirects=True, headers=hdr)
-            except requests.RequestException as e:
+                good = r.status_code == 200 and looks_file(r)  # looks_file 读 r.content，读体中断也在这里接住
+            except (requests.RequestException, OSError, ValueError) as e:
                 tried.append(f"{c.split('?')[0][-70:]}: {e.__class__.__name__}")
                 time.sleep(2 * (i + 1))
                 continue
-            if r.status_code == 200 and looks_file(r):
+            if good:
                 _note(True)
                 return r, None, c
             tried.append(f"{c.split('?')[0][-70:]}: HTTP {r.status_code} {(r.headers.get('content-type') or '')[:28]} {len(r.content)}B")
@@ -764,7 +767,12 @@ def main():
                 ct = (rec["content_type"] or "").lower()
                 fn += ".pdf" if "pdf" in ct else (".bin")
         fn = re.sub(r"[\\/:*?\"<>|]+", "_", fn).strip() or "download.bin"
-        data = r.content
+        try:
+            data = r.content
+        except Exception as e:  # noqa: BLE001
+            rec["error"] = f"body read failed: {e.__class__.__name__}"
+            dl_rows.append(rec)
+            continue
         h = sha256(data)
         base_fn = fn
         if fn in used and used[fn] != h:
@@ -854,7 +862,14 @@ def main():
             continue
         rec["status"] = r.status_code
         if r.status_code == 200:
-            data = r.content
+            try:
+                data = r.content
+            except Exception as e:  # noqa: BLE001  读体中断（ChunkedEncodingError / IncompleteRead）→ 记错继续，下轮重试
+                rec["error"] = f"body read failed: {e.__class__.__name__}"
+                img_rows.append(rec)
+                _note(False)
+                time.sleep(2)
+                continue
             fn = fname(u)
             with open(os.path.join(BIN, "images", fn), "wb") as f:
                 f.write(data)
