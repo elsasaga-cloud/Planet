@@ -2,7 +2,7 @@
 
 > **评级 B**　|　捷克　|　档案编号 `SB-1270`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:CZ　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:CZ　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1270
@@ -12,7 +12,7 @@ score: 25
 country: 捷克
 region: 欧洲
 website: yatun.cz
-type: 安防集成/经销
+type: 智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:CZ"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-28DGGPM
-price_tier: 25%
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：捷克安防集成/经销：官网「Domů | Yatun.cz」（cs）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Pulsar；站内型号：RS-232、CA-10、C4-T5IW8-WH、C4-T5IW8-MB；表内「商业POE 在卖别人的牌子」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：商业POE 在卖别人的牌子）
+- **是谁**：捷克 Yatun.cz（自动化、AV 控制、系统/智能电气安装与安防技术专业供应商：Control4、Ekinex、Pulsar；站内 PLANET 关键词；表内「商业 PoE 在卖别人的牌子」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：商业POE 在卖别人的牌子）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：Control4 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W（$134.5）作预算线；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | yatun.cz（取自域名，公司全名待核） | 推断 |
 | 国家 | 捷克 | 事实（用户表）|
 | 网站/域名 | yatun.cz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 智能家居/AV 集成分销商（捷克，PLANET 等品牌在售） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量一般 | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE 在卖别人的牌子 | 事实（用户表） |
@@ -55,33 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（yatun.cz，快照 2026-10-21）
-- **是谁**：捷克安防集成/经销：官网「Domů | Yatun.cz」（cs）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Pulsar；站内型号：RS-232、CA-10、C4-T5IW8-WH、C4-T5IW8-MB；表内「商业POE 在卖别人的牌子」；表内未见跟进记录。
-- **类型**：安防集成/经销
-- **在卖/在用品牌**：Pulsar
+- **是谁**：捷克 Yatun.cz（自动化、AV 控制、系统/智能电气安装与安防技术专业供应商：Control4、Ekinex、Pulsar；站内 PLANET 关键词；表内「商业 PoE 在卖别人的牌子」「质量一般」）；表内未跟进。
+- **类型**：智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）
+- **在卖/在用品牌**：Pulsar, Control4, PLANET, Ekinex
 - **【官网快照】官网标题：Domů | Yatun.cz；品类词 无线 / WiFi / 网络交换 / PoE**
   > Jsme specializovaný dodavatel technologií pro automatizaci, řízení audio a video techniky, systémovou i inteligentní elektroinstalaci a zabezpečení.
   > 来源：https://www.yatun.cz/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业POE 在卖别人的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Yatun 定位**
+  > Domů | Yatun.cz ; Jsme specializovaný dodavatel technologií pro automatizaci, řízení audio a video techniky, systémovou i inteligentní elektroinstalaci a zabezpečení
+  > 来源：https://www.yatun.cz/（抓取 2026-10-21）
+- **【用户表】商业 PoE 在卖别人的牌子**
+  > 商业POE 在卖别人的牌子；质量一般
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 捷克 |
 | 其他 | 官网 yatun.cz，语言 cs，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：无线 / WiFi；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 捷克；contact: info@yatun.cz
+- **业务线**：自动化 / AV 控制 / 智能电气安装 / 安防技术供应
+- **触达通道（公开）**：role: 智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）；region: 捷克；contact: info@yatun.cz
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.yatun.cz/）
-  - 安防品牌：Pulsar → PoE 配套切入
-  - 官网公开邮箱：email@email.cz
-  - 用户表兴趣/备注：商业POE 在卖别人的牌子
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Pulsar lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Jsme specializovaný dodavatel technologií pro automatizaci, řízení audio a video techniky, systémovou i inteligentní elektroinstalaci a zabezpečení；首页 Control4 8" T5 面板、Ekinex 温控；kw switch 30 / wifi 31 / planet 7
+  - 表内：商业 PoE 在卖别人的牌子；质量一般
+- **风险/边界**：品牌线既定（PLANET 等）；表内「质量一般」；仅 info@，未跟进过
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——Control4 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W（$134.5）作预算线
+- **邮件切入句（英文）**：Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -135,9 +140,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：Control4 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W（$134.5）作预算线 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -147,15 +152,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：欧洲主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -188,9 +193,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Pulsar lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

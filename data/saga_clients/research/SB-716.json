@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mnsbilisim.com，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「MNS Bilişim Hizmetleri」（en）；品类词：网络交换 / PoE；站内品牌：Ruijie、Ubiquiti；群发 1 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 MNS Bilişim Hizmetleri（企业网络方案 IT 服务商：UniFi AP 系列、Ruijie 6120 交换机系列「1G 价格 / 10G 性能」「25G/40G 光纤支持」；KP Mahmut Bektaş）；表内 1 次跟进无回复。",
+ "type": "企业网络集成商（土耳其，Ruijie/UniFi）",
  "size": "",
  "brands_seen": [
   "Ruijie",
@@ -17,38 +17,54 @@
    "quote": "MNS Bilişim Hizmetleri",
    "url": "https://mnsbilisim.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "MNS Bilişim 首页",
+   "quote": "Anasayfa - MNS Bilişim Hizmetleri ; Unifi Ap Serisi ; RUIJIE 6120 Switch Ailesi ; 1G Fiyat / 10G Performans ; Kurumsal Network Çözümleri",
+   "url": "https://mnsbilisim.com/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mahmut Bektaş",
+   "title": "（职务待核）",
+   "email": "mahmut.bektas@mnsbilisim.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 mnsbilisim.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "企业网络集成 / IT 服务"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "企业网络集成商（土耳其，Ruijie/UniFi）",
   "region": "土耳其",
   "contact": "mahmut.bektas@mnsbilisim.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://mnsbilisim.com/）",
-  "在售同口型交换品牌：Ruijie、Ubiquiti → 直接对位替换",
-  "官网公开邮箱：info@mnsbilisim.com"
+  "首页 Unifi Ap Serisi ; RUIJIE 6120 Switch Ailesi ; 30 Yıl MTBF ; 25G / 40G Fiber Desteği ; 1G Fiyat / 10G Performans ; Kurumsal Network Çözümleri",
+  "KP Mahmut（表内）→ mahmut.bektas@"
  ],
- "risks": [],
+ "risks": [
+  "Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424XGGM",
   "tier": 25,
-  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）"
  },
- "email_hook": "Mahmut, alongside the Ruijie / Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?"
 }

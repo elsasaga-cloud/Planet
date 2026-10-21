@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（raytelsecurity.com，快照 2026-10-21）",
- "summary": "英国安防集成/经销：官网「Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel | R」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：AR-888、AR-888H、ISO9001、AR-TAGK73；表内「主要是CCTV 少量商业POE」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
+ "type": "门禁/CCTV 分销商（英国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Elvox",
+  "Soyal"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,20 @@
    "quote": "主要是CCTV 少量商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Raytel 定位",
+   "quote": "Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel ; manufacturers and stockists including proximity readers, biometric readers, access keypads",
+   "url": "https://www.raytelsecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要是 CCTV 少量商业 PoE",
+   "quote": "主要是CCTV 少量商业POE；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +46,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 raytelsecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "门禁 / 门口机（Elvox / Soyal / 自有 AR 系列）",
+  "CCTV 与配套"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "门禁/CCTV 分销商（英国）",
   "region": "英国",
   "contact": "info@raytelsecurity.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.raytelsecurity.com/）",
-  "官网公开邮箱：info@raytelsecurity.com",
-  "用户表兴趣/备注：主要是CCTV 少量商业POE"
+  "官网：Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads；站内 AR-888 / AR-TAGK73 / IP-MW7；kw access control 76 / switch 21",
+  "表内：主要是 CCTV 少量商业 PoE；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?"
 }

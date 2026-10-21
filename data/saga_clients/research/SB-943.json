@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（inline-info.com，快照 2026-10-21）",
- "summary": "德国分销商/经销商：官网「IT- und Multimedia-Accessories von InLine | Der Kabel-Spezialist」（de-DE）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：IEEE1394、GST18、RS232、RS422；表内「有人卖他们的」；群发 8 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "德国 InLine（Intos Electronic AG 品牌：5000+ IT/多媒体配件「Der Kabel-Spezialist」，厂商直营服务；站内 PoE/交换机/SFP/FTTH 关键词；表内「有人卖他们的」「可以着重跟一下」）；群发 8 次无回复。",
+ "type": "德国配件品牌商（InLine / Intos，OEM 采购，用户标「着重跟」）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "有人卖他们的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "InLine 定位",
+   "quote": "IT- und Multimedia-Accessories von InLine | Der Kabel-Spezialist ; Entdecke über 5000 Markenartikel … Service direkt vom Hersteller | Qualität zum fairen Preis",
+   "url": "https://www.inline-info.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有人卖他们的；着重跟",
+   "quote": "有人卖他们的；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +43,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 inline-info.com，语言 de-DE，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "IT / 多媒体配件（自有品牌 InLine）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "德国配件品牌商（InLine / Intos，OEM 采购，用户标「着重跟」）",
   "region": "德国",
   "contact": "service@inline-info.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.inline-info.com/）",
-  "官网公开邮箱：service@inline-info.com",
-  "用户表兴趣/备注：有人卖他们的"
+  "官网：Entdecke über 5000 Markenartikel für Smartphone, Tablet, Laptop TV, Kamera Audio, Video und PC | Service direkt vom Hersteller；kw ethernet 25 / poe 17 / gigabit 15 / ftth 16 / switch 14",
+  "表内：有人卖他们的；可以着重跟一下"
  ],
- "risks": [],
+ "risks": [
+  "体量较大（Intos Electronic AG，5000+ SKU）：配件采购体系既定；仅 service@，无具名 KP",
+  "8 次无回复，用户标「着重跟」"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "官网快照对位：PoE 词频 17、监控 0 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 InLine 标网络产品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the switches and PoE products carried under the InLine label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU in the InLine range sells most through your dealers?"
 }

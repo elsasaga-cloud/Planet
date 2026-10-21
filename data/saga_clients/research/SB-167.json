@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（aixontec.com，快照 2026-10-21）",
- "summary": "德国电商/网店：官网「AIXONTEC SHOP」（de）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE；站内型号：UL-94V0、AWG26、RJ-45、AWG23；表内「工业FS 常总的」；群发 14 次、无回复。",
- "type": "电商/网店",
+ "summary": "德国 AIXONTEC（Netzwerktechnik 网店与方案：电缆、RFID 电缆资产管理、工业以太网、家庭光纤；表内「工业 FS 常总的」（现从国内供应商采购）「可以着重跟一下」；KP Ashkan Ghaznavi（Managing Director））；群发 14 次无回复。",
+ "type": "网络技术网店/自有品牌（德国，用户标「着重跟」）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,63 @@
    "quote": "工业FS 常总的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "AIXONTEC 定位",
+   "quote": "AIXONTEC SHOP ; AIXONTEC-SHOP Netzwerktechnik Systeme & Lösungen ; RFID Cable Asset Management",
+   "url": "https://aixontec.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 常总的；着重跟",
+   "quote": "工业FS 常总的；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ashkan Ghaznavi",
+   "title": "Managing Director",
+   "email": "ashkan.ghaznavi@aixontec.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 aixontec.com，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "网络技术网店（电缆 / 工业以太网 / 光纤）",
+  "RFID 电缆资产管理"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "网络技术网店/自有品牌（德国，用户标「着重跟」）",
   "region": "德国",
   "contact": "info@aixontec.com、ashkan.ghaznavi@aixontec.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://aixontec.com/）",
-  "用户表兴趣/备注：工业FS 常总的"
+  "官网：AIXONTEC-SHOP Netzwerktechnik Systeme & Lösungen；首页 RFID Cable Asset Management ; Wie verlege ich Glasfaser Zuhause?；kw cable 32 / ethernet 23 / industrial 22 / poe 10",
+  "表内：工业 FS 常总的；可以着重跟一下；KP Ashkan Ghaznavi / Managing Director"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现供国内厂商（表内「常总的」）：需以 Marvell 平台/管理功能差异化",
+  "14 次无回复 → 改向 MD 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "现从国内供应商采购工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AIXONTEC 标作替代；非管理 STI-288GP（$62.2）"
  },
- "email_hook": "Ashkan, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?"
 }

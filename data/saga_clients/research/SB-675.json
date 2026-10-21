@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（acuitybrands.com，快照 2026-10-21）",
- "summary": "格鲁吉亚工业自动化/IoT 方案商：官网「Acuity Brands Lighting」（en）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 网络交换 / PoE；产品页：industrial、wall-stations-and-switches、industrial-lighting、sensorswitch；表内「电口 网站产品较杂」；群发 6 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "Acuity Brands Lighting（美国上市照明巨头（NYSE），工业照明/控制/Sensor Switch；表内国别「格鲁吉亚」系美国佐治亚州（Georgia）误译 → 美国；表内「电口 网站产品较杂」；KP Christopher Dudley）；群发 6 次无回复。",
+ "type": "上市巨头（照明，美国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,54 @@
    "quote": "电口 网站产品较杂",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Acuity Brands 定位",
+   "quote": "Acuity Brands Lighting provides sustainable, inspiring and intelligent lighting solutions that enrich communities where people live, learn, work and play.",
+   "url": "https://www.acuitybrands.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "电口 网站产品较杂",
+   "quote": "电口 网站产品较杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "巨头：Acuity Brands Lighting（NYSE 上市照明集团），非网络渠道；c_sub=巨头/集团",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "格鲁吉亚",
   "other": "官网 acuitybrands.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "照明与控制（集团）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
-  "region": "格鲁吉亚",
+  "role": "上市巨头（照明，美国）",
+  "region": "美国",
   "contact": "christopher.dudley@acuitybrands.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.acuitybrands.com/）",
-  "用户表兴趣/备注：电口 网站产品较杂"
+  "官网：Acuity Brands Lighting provides sustainable, inspiring and intelligent lighting solutions；页面 /products/industrial、/who-we-are/acuity-brands-lighting/sensorswitch；kw distributor 14 / industrial 27",
+  "表内：电口 网站产品较杂；国别 格鲁吉亚（误）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "巨头：Acuity Brands（NYSE 上市照明集团）；交换机非其品类；国别更正（Georgia 州 → 美国）"
  ],
  "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 27、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "上市照明巨头，采购体系封闭，网络交换机非其品类 → 改 C；国别更正为美国"
  },
- "email_hook": "Christopher, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：巨头）",
+ "country_fix": "美国"
 }
