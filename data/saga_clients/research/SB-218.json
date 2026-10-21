@@ -3,12 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dodicelettronica.it，快照 2026-10-21）",
- "summary": "意大利分销商/批发商：官网「Dodic: soluzioni di sicurezza antifurto, video e domotica -」（it-IT）；站内品牌：Uniview、Hikvision；表内「Mauro邮件中带的；商业PoE」；群发 7 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "意大利 Dodic（1975 年起面向安装商的安防/防盗/视频监控/家居自动化官方分销商；培训课程 Hikvision、Risco、Micromac、UNV；表内「Mauro 邮件中带的 / 商业 PoE」「可以尝试多跟进一下」；KP Simone D’Andrea（General Manager e A.D.）、Ivan Stazio（CFO））；表内 7 次跟进无回复。",
+ "type": "安防分销商（意大利，面向安装商）",
  "size": "",
  "brands_seen": [
   "Uniview",
-  "Hikvision"
+  "Hikvision",
+  "Risco"
  ],
  "evidence": [
   {
@@ -24,39 +25,68 @@
    "quote": "Mauro邮件中带的；商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Dodic 定位",
+   "quote": "Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975 qualità e innovazione nella sicurezza",
+   "url": "https://www.dodicgroup.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "Mauro邮件中带的 / 商业PoE；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Simone D’Andrea",
+   "title": "General Manager e A.D.",
+   "email": "info@dodicelettronica.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Ivan Stazio",
+   "title": "CFO",
+   "email": "marketing@dodic.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "安防 / 防盗 / 视频监控 / 家居自动化分销（意大利）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "安防分销商（意大利，面向安装商）",
   "region": "意大利",
   "contact": "info@dodicelettronica.it、marketing@dodic.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.dodicgroup.it/）",
-  "安防品牌：Uniview、Hikvision → PoE 配套切入",
-  "官网公开邮箱：marketing@dodic.it",
-  "用户表兴趣/备注：Mauro邮件中带的；商业PoE"
+  "官网：Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975；首页 Corso Hikvision – Latina ; Corso Risco – Roma Ovest ; Corso UNV – Casoria",
+  "表内：Mauro 邮件中带的 / 商业 PoE；KP Simone D’Andrea / General Manager e A.D.；Ivan Stazio / CFO；可以尝试多跟进一下"
  ],
- "risks": [],
+ "risks": [
+  "多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Simone, alongside the Uniview / Hikvision lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?"
 }

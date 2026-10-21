@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-351`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 15 次（2024-05-13 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：CCTV 供应网店（加拿大）（推断）　|　**历史关系**：推送 15 次（2024-05-13 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-351
@@ -12,7 +12,7 @@ score: 43
 country: 加拿大
 region: 北美
 website: canacctv.com
-type: 安防集成/经销
+type: CCTV 供应网店（加拿大）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大安防集成/经销：官网「CANACCTV – Supply for Video Surveillance」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Hikvision；站内型号：PA-5386、HK-8144、PA-531612、PA-531612B；表内「主要是CCTV 少量商业POE」；群发 15 次、无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 少量商业POE）
+- **是谁**：加拿大 CANACCTV（视频监控供应网店：摄像机、NVR、监视器、HDMI/KVM 延长器；Hikvision；表内「主要是 CCTV 少量商业 PoE」「用的国内的」）；群发 15 次无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 少量商业POE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV 配套 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | canacctv.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | canacctv.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | CCTV 供应网店（加拿大） | 推断（据兴趣/备注关键词） |
 | 联系人 | 用的国内的 | 事实（用户表） |
 | 来源（From） | Marvink | 事实（用户表） |
 | 兴趣（Interested in） | 主要是CCTV 少量商业POE | 事实（用户表） |
@@ -65,8 +65,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（canacctv.com，快照 2026-10-21）
-- **是谁**：加拿大安防集成/经销：官网「CANACCTV – Supply for Video Surveillance」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内品牌：Hikvision；站内型号：PA-5386、HK-8144、PA-531612、PA-531612B；表内「主要是CCTV 少量商业POE」；群发 15 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：加拿大 CANACCTV（视频监控供应网店：摄像机、NVR、监视器、HDMI/KVM 延长器；Hikvision；表内「主要是 CCTV 少量商业 PoE」「用的国内的」）；群发 15 次无回复。
+- **类型**：CCTV 供应网店（加拿大）
 - **在卖/在用品牌**：Hikvision
 - **【官网快照】官网标题：CANACCTV – Supply for Video Surveillance；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
   > BEST SELLER；CCTV Pro-Monitor 24″ Up to 1080P Built-in Speakers + Wall mount；CHE-66B (FullHD HDMI/USB KVM Extender Over a CAT.5e cable up to 60M)；DB-35-WF (AI WiFi Doorbell ) 5MP；HE60 (Finger size HDMI Extender 1080P Over a CAT.5e cable up t
@@ -74,24 +74,29 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 主要是CCTV 少量商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】CANACCTV 定位**
+  > CANACCTV – Supply for Video Surveillance ; BEST SELLER ; CCTV Pro-Monitor 24″
+  > 来源：https://canacctv.com/（抓取 2026-10-21）
+- **【用户表】CCTV 少量商业 PoE 用国内的**
+  > 主要是CCTV 少量商业POE；用的国内的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 canacctv.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 加拿大；contact: admin@canacctv.com
+- **业务线**：视频监控设备网店（加拿大）
+- **触达通道（公开）**：role: CCTV 供应网店（加拿大）；region: 加拿大；contact: admin@canacctv.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://canacctv.com/）
-  - 安防品牌：Hikvision → PoE 配套切入
-  - 用户表兴趣/备注：主要是CCTV 少量商业POE
-- **风险/边界**：群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Hikvision lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：CANACCTV – Supply for Video Surveillance ; BEST SELLER ; CCTV Pro-Monitor 24″ ; CHE-66B (FullHD HDMI/USB KVM Extender)；kw camera 120 / nvr 110 / hikvision 16
+  - 表内：主要是 CCTV 少量商业 PoE；用的国内的
+- **风险/边界**：现用国内货（价格基准低）；PoE 用量少；15 次无回复，仅 admin@
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——CCTV 配套 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
+- **邮件切入句（英文）**：For the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -161,7 +166,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：CCTV 配套 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8/16 PoE 位 HRUI（列表价，注明） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（CCTV 供应网店（加拿大）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -214,9 +219,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Hikvision lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（maxtel.bg，快照 2026-10-21）",
- "summary": "保加利亚安防集成/经销：官网「Начало - Макстел」（bg-BG）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Vivotek、Bosch、Milesight；站内型号：ISO9001、ISO9002、ISO14001；表内「ONV的工业FS PoEswitch；e.slavev@maxtel.bg」；群发 15 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
+ "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
  "size": "",
  "brands_seen": [
   "Vivotek",
   "Bosch",
-  "Milesight"
+  "Milesight",
+  "ONV"
  ],
  "evidence": [
   {
@@ -25,42 +26,61 @@
    "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Maxtel 定位",
+   "quote": "МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление",
+   "url": "https://maxtel.bg/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ONV 工业 FS PoE switch",
+   "quote": "ONV的工业FS PoEswitch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Evelin Slavev",
+   "title": "（职务待核）",
+   "email": "e.slavev@maxtel.bg",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "保加利亚",
   "other": "官网 maxtel.bg，语言 bg-BG，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "安防 / 视频监控 / 门禁 / 通信 / 工业 LED 分销（保加利亚）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
   "region": "保加利亚",
   "contact": "info@maxtel.bg、varna@maxtel.bg"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://maxtel.bg/）",
-  "安防品牌：Vivotek、Bosch、Milesight → PoE 配套切入",
-  "官网公开邮箱：info@maxtel.bg、varna@maxtel.bg",
-  "用户表兴趣/备注：ONV的工业FS PoEswitch；e.slavev@maxtel.bg"
+  "官网：MAXTEL offers its customers a wide range of products for security, video surveillance, access control, communication and industrial LED lighting；brands Vivotek / Bosch / Milesight",
+  "表内：ONV 的工业 FS PoE switch；KP Evelin Slavev（e.slavev@maxtel.bg）"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
  },
- "email_hook": "Evelin, alongside the Vivotek / Bosch lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?"
 }

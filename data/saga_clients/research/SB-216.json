@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cryptolink.com.tr，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「CryptoLink A.Å.」（zxx）；站内型号：SW-2402、CRL-MC02、CRL-SFP-10G-LC、SFP-125；表内「工业FS 洪瑞的」；群发 2 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 CryptoLink A.Ş.（业务：边境安全、网络方案、网络安全、车牌识别、在线教育、信号屏蔽系统；自有 SW-2402 / CRL-MC02 / CRL-SFP 型号；表内「工业 FS 洪瑞的」）；表内 2 次跟进无回复。",
+ "type": "边境安全/信号屏蔽方案商（守界）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +23,53 @@
    "quote": "工业FS 洪瑞的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "CryptoLink 业务",
+   "quote": "CryptoLink A.Ş. ; Sınır Güvenliği ; Network Çözümleri ; Siber Güvenlik Çözümleri ; Plaka Tanımlama Sistemleri ; Sinyal Kesici Sistemler",
+   "url": "https://cryptolink.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 洪瑞的",
+   "quote": "工业FS 洪瑞的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "守界：边境安全与信号屏蔽系统（军警/公共安全）；c_sub=守界（军警/公共安全）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 cryptolink.com.tr，语言 zxx，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "边境安全 / 网络 / 网络安全 / 信号屏蔽（土耳其）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "边境安全/信号屏蔽方案商（守界）",
   "region": "土耳其",
   "contact": "info@cryptolink.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://cryptolink.com.tr/）",
-  "官网公开邮箱：info@cryptolink.com.tr、kariyer@cryptolink.com.tr",
-  "用户表兴趣/备注：工业FS 洪瑞的"
+  "官网：CryptoLink A.Ş. ; Hizmetlerimiz ; Sınır Güvenliği ; Network Çözümleri ; Siber Güvenlik Çözümleri ; Plaka Tanımlama Sistemleri ; Sinyal Kesici Sistemler；站内 SW-2402 / CRL-MC02 / CRL-SFP-10G-LC",
+  "表内：工业 FS 洪瑞的"
  ],
  "risks": [
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰"
+  "守界：边境安全、信号屏蔽系统（军警/公共安全）；现供 HRUI（Saga 在供厂商，Q-33 口径）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "边境安全与信号屏蔽（军警/公共安全）为主业 → 改 C（守界）；现供 HRUI（Q-33 口径）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：守界）"
 }

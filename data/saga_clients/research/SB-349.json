@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（axellence.de，快照 2026-10-21）",
- "summary": "德国工业自动化/IoT 方案商：官网「Berater der Entwicklung innovativer Systemhersteller」（de-DE）；产品页：produkte、easic、pixart、centec；表内「CENTEC Switch」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "德国 Axellence GmbH（创新系统厂商开发顾问/芯片与 IP 代理：代理 Insignis、IRYStec、NETSOL、Roa Logic、eASIC、PixArt、CENTEC 等；表内「CENTEC Switch」）；表内未跟进。",
+ "type": "半导体/IP 代理商（板级/芯片层，品类不符）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "CENTEC"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,38 +23,53 @@
    "quote": "CENTEC Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Axellence 定位",
+   "quote": "Berater der Entwicklung innovativer Systemhersteller ; /produkte/centec/ ; /produkte/easic/",
+   "url": "https://axellence.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CENTEC Switch",
+   "quote": "CENTEC Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符：半导体/IP 代理（芯片层面）；c_sub=品类不符（板级/芯片）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 axellence.de，语言 de-DE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "半导体 / IP 代理与开发咨询（德国）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "半导体/IP 代理商（板级/芯片层，品类不符）",
   "region": "德国",
   "contact": "info@axellence.eu"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://axellence.de/）",
-  "官网公开邮箱：info@axellence.eu",
-  "用户表兴趣/备注：CENTEC Switch"
+  "官网：Wir unterstützen die Entwicklungen der Kunden aus den Bereichen Automation, Automotiv, Avionics, Communications, Consumer, Medical mit Hard- und Software；页面 /produkte/centec/、/produkte/easic/、/produkte/pixart/",
+  "表内：CENTEC Switch"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：半导体/IP 代理（芯片层面），与整机白牌无交集"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "半导体与 IP 代理（芯片层面，CENTEC 为其代理线），不经销整机交换机 → 改 C"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：芯片代理）"
 }

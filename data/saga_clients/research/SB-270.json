@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（verdelon.com，快照 2026-10-21）",
- "summary": "瑞典工业自动化/IoT 方案商：官网「Verdelon | Industrial-Grade Networking Hardware」（en）；品类词：网络交换 / PoE；产品页：industrial-l2-managed-8-port-poe-switch、industrial-l2-managed-16-port-poe-switch、industrial-l2-managed-24-port-poe-switch、industrial-managed-44-port-poe-poe-switc；表内「Elink的」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "瑞典 Verdelon（「Industrial-Grade Networking Hardware」自有品牌：工业以太网/PoE 交换机（L2 管理 8/16/24/44 口 PoE）、MC、SFP、48V 电源；表内「Elink 的」）；表内未跟进。",
+ "type": "工业网络自有品牌商（瑞典，现 Elink ODM）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Elink"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -28,6 +30,20 @@
    "quote": "Industrial-grade Ethernet switches, PoE switches, media converters, SFP transceivers, and 48V DC power supplies. Engineered for harsh environments.",
    "url": "https://verdelon.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Verdelon 定位",
+   "quote": "Verdelon | Industrial-Grade Networking Hardware ; Industrial-grade Ethernet switches, PoE switches, media converters, SFP transceivers, and 48V DC power supplies ; /product/industrial-l2-managed-16-port-poe-switch",
+   "url": "https://verdelon.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Elink 的",
+   "quote": "Elink的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -36,29 +52,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "工业以太网 / PoE 交换机 / MC / 电源（自有品牌 Verdelon）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业网络自有品牌商（瑞典，现 Elink ODM）",
   "region": "瑞典",
   "contact": "info@verdelon.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://verdelon.com/）",
-  "用户表兴趣/备注：Elink的"
+  "官网：Verdelon | Industrial-Grade Networking Hardware ; Industrial-grade Ethernet switches, PoE switches, media converters, SFP transceivers, and 48V DC power supplies；页面 /product/industrial-l2-managed-8-port-poe-switch、/product/industrial-l2-managed-24-port-poe-switch、/product/industrial-managed-44-port-poe-poe-switch",
+  "表内：Elink 的"
  ],
- "risks": [],
+ "risks": [
+  "现供 Elink（深圳）价格基准低、规格对标需 Marvell 优势说明；小型品牌（量待核）；仅 info@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "角色/品类为工业 → DIN 8 PoE+ 2 SFP 起手（来源：角色默认；档位：工业自动化/IoT 方案商→25%）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "Verdelon 标工业 PoE（现 Elink）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、16 PoE STI-21616GP（$184.6）、工业 24 口 L2+ STI-4248XGGCM-U（注明）作二供；SFP/电源 Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the Verdelon industrial L2 managed PoE range (8/16/24-port), we can be a second ODM source on a Marvell platform (−40~75 °C, redundant 12–57 V, CE/RoHS) in your packaging from small lots — which port count do your Nordic customers reorder most?"
 }

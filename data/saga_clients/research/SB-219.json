@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dragonbard.com，快照 2026-10-21）",
- "summary": "美国电商/网店：官网「Welcome to Dragonbard.com」（en-US）；产品页：i-love-productivity；表内「2光8PoE管理 1pc / from: Shopify」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "美国 dragonbard.com（个人博客站；Shopify 订单「2 光 8 PoE 管理 1pc」；KP Kennedy Chris）；表内未跟进。",
+ "type": "个人零售买家（Shopify）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,53 @@
    "quote": "2光8PoE管理 1pc / from: Shopify",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "dragonbard.com 快照",
+   "quote": "Welcome to Dragonbard.com ; Family online ; Boring stuff",
+   "url": "https://dragonbard.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Shopify 1pc",
+   "quote": "2光8PoE管理 1pc / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "个人零售买家（Shopify 单台），非渠道；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 dragonbard.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（个人买家）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "个人零售买家（Shopify）",
   "region": "美国",
   "contact": "ckennedy@dragonbard.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://dragonbard.com/）",
-  "用户表兴趣/备注：2光8PoE管理 1pc / from: Shopify"
+  "快照：Welcome to Dragonbard.com ; Family online ; Other sites we like ; Boring stuff",
+  "表内：2 光 8PoE 管理 1pc / from: Shopify；KP Kennedy Chris"
  ],
- "risks": [],
+ "risks": [
+  "个人零售买家（非渠道）"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "个人博客域、单台 Shopify 订单，非渠道 → 改 C"
  },
- "email_hook": "Kennedy, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "（不发送：个人买家）"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tdg.com.tr，快照 2026-10-21）",
- "summary": "土耳其网络/安防经销或集成（官网未见角色词，待核）：官网「TDG」（tr）；站内型号：TESTBOX2010-RACK、TESTBOX2010-FIELD、TESTBOX1001；表内「PoE Splitter / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "土耳其 TDG EarthquakeSHM Systems（地震仪、预警与结构健康监测、数字化仪制造商（TESTBOX 系列）；阿里巴巴 RFQ「PoE Splitter」；KP Tolga Çelebi）；表内未跟进。",
+ "type": "地震监测仪器制造商（终端用户，分离器 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,53 @@
    "quote": "PoE Splitter / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TDG 产品",
+   "quote": "ANASAYFA | TDG ; /tr/urunler/sismometreler ; /tr/urunler/erken-uyari-ve-ysi ; TESTBOX2010-FIELD",
+   "url": "https://tdg.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE Splitter RFQ",
+   "quote": "PoE Splitter / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户 + PoE 分离器 RFQ（Saga 不供）；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 tdg.com.tr，语言 tr，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "地震仪 / 预警 / 结构健康监测（土耳其）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "地震监测仪器制造商（终端用户，分离器 RFQ）",
   "region": "土耳其",
   "contact": "tolga@tdg.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://tdg.com.tr/）",
-  "官网公开邮箱：info@tdg.com.tr",
-  "用户表兴趣/备注：PoE Splitter / from: 阿里巴巴RFQ"
+  "官网：ANASAYFA | TDG ; /tr/urunler/sismometreler ; /tr/urunler/erken-uyari-ve-ysi ; TESTBOX2010-RACK",
+  "表内：PoE Splitter / from: 阿里巴巴 RFQ；KP Tolga CELEBI"
  ],
- "risks": [],
+ "risks": [
+  "非渠道（仪器制造商自用）；RFQ 品类 PoE 分离器 Saga 不供（Q-32）"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "仪器制造商自用、RFQ 品类 PoE 分离器（Saga 不供）→ 改 C"
  },
- "email_hook": "Tolga, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：终端用户/品类不供）"
 }

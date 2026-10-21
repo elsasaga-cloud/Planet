@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（netonix.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「Netonix」（en）；品类词：网络交换 / PoE；表内「CCTV Switch」；群发 6 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 Netonix（WISP 市场自研 PoE 交换机品牌（WISP Switch 系列）；表内「CCTV Switch」；KP Eric、Nourhan Nour（Supervisor））；表内 6 次跟进无回复。",
+ "type": "自研 PoE 交换机品牌（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,46 @@
    "quote": "CCTV Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV Switch",
+   "quote": "CCTV Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：自研 WISP PoE 交换机品牌；c_sub=同行/自研",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 netonix.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "WISP PoE 交换机（自有品牌 Netonix）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "自研 PoE 交换机品牌（同行）",
   "region": "美国",
   "contact": "eric@netonix.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://netonix.com/）",
-  "用户表兴趣/备注：CCTV Switch"
+  "表内：CCTV Switch；KP Eric / Nourhan Nour / Supervisor",
+  "快照：Netonix（内容空）；kw switch 1 / distributor 1"
  ],
- "risks": [],
+ "risks": [
+  "同行：Netonix 自研 WISP PoE 交换机（有自有工程与制造链）；6 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "Netonix 自研自产 WISP PoE 交换机（同行），非 ODM 采购方 → 改 C"
  },
- "email_hook": "Eric, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：同行）"
 }

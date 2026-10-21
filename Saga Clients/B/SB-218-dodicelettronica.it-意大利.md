@@ -2,7 +2,7 @@
 
 > **评级 B**　|　意大利　|　档案编号 `SB-218`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：推送 7 次（2025-02-06 → 2025-10-15）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防分销商（意大利，面向安装商）（推断）　|　**历史关系**：推送 7 次（2025-02-06 → 2025-10-15）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-218
@@ -12,7 +12,7 @@ score: 48
 country: 意大利
 region: 欧洲
 website: dodicelettronica.it
-type: 分销商/批发商
+type: 安防分销商（意大利，面向安装商）
 tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利分销商/批发商：官网「Dodic: soluzioni di sicurezza antifurto, video e domotica -」（it-IT）；站内品牌：Uniview、Hikvision；表内「Mauro邮件中带的；商业PoE」；群发 7 次、无回复。（调研 2026-10-21；表内兴趣：Mauro邮件中带的；商业PoE）
+- **是谁**：意大利 Dodic（1975 年起面向安装商的安防/防盗/视频监控/家居自动化官方分销商；培训课程 Hikvision、Risco、Micromac、UNV；表内「Mauro 邮件中带的 / 商业 PoE」「可以尝试多跟进一下」；KP Simone D’Andrea（General Manager e A.D.）、Ivan Stazio（CFO））；表内 7 次跟进无回复。（调研 2026-10-21；表内兴趣：Mauro邮件中带的；商业PoE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-02-06 → 2025-10-15）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | dodicelettronica.it（取自域名，公司全名待核） | 推断 |
 | 国家 | 意大利 | 事实（用户表）|
 | 网站/域名 | dodicelettronica.it / dodicgroup.it / dodic.it | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防分销商（意大利，面向安装商） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Simone D'Andrea / General Manager e A.D. / Ivan Stazio / CFO | 事实（用户表） |
 | 来源（From） | 客户推荐 / Mauro提到的 | 事实（用户表） |
 | 兴趣（Interested in） | Mauro邮件中带的 / 商业PoE | 事实（用户表） |
@@ -65,33 +65,40 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（dodicelettronica.it，快照 2026-10-21）
-- **是谁**：意大利分销商/批发商：官网「Dodic: soluzioni di sicurezza antifurto, video e domotica -」（it-IT）；站内品牌：Uniview、Hikvision；表内「Mauro邮件中带的；商业PoE」；群发 7 次、无回复。
-- **类型**：分销商/批发商
-- **在卖/在用品牌**：Uniview, Hikvision
+- **是谁**：意大利 Dodic（1975 年起面向安装商的安防/防盗/视频监控/家居自动化官方分销商；培训课程 Hikvision、Risco、Micromac、UNV；表内「Mauro 邮件中带的 / 商业 PoE」「可以尝试多跟进一下」；KP Simone D’Andrea（General Manager e A.D.）、Ivan Stazio（CFO））；表内 7 次跟进无回复。
+- **类型**：安防分销商（意大利，面向安装商）
+- **在卖/在用品牌**：Uniview, Hikvision, Risco
 - **【官网快照】官网标题：Dodic: soluzioni di sicurezza antifurto, video e domotica -**
   > Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975 qualità e innovazione nella sicurezza
   > 来源：https://www.dodicgroup.it/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > Mauro邮件中带的；商业PoE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Dodic 定位**
+  > Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975 qualità e innovazione nella sicurezza
+  > 来源：https://www.dodicgroup.it/（抓取 2026-10-21）
+- **【用户表】商业 PoE**
+  > Mauro邮件中带的 / 商业PoE；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Simone D’Andrea（）info@dodicelettronica.it 〔用户表〕
+- **KP**：Ivan Stazio（）marketing@dodic.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 意大利 |
 | 其他 | 官网 dodicelettronica.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 分销商/批发商；region: 意大利；contact: info@dodicelettronica.it、marketing@dodic.it
+- **业务线**：安防 / 防盗 / 视频监控 / 家居自动化分销（意大利）
+- **触达通道（公开）**：role: 安防分销商（意大利，面向安装商）；region: 意大利；contact: info@dodicelettronica.it、marketing@dodic.it
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.dodicgroup.it/）
-  - 安防品牌：Uniview、Hikvision → PoE 配套切入
-  - 官网公开邮箱：marketing@dodic.it
-  - 用户表兴趣/备注：Mauro邮件中带的；商业PoE
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Simone, alongside the Uniview / Hikvision lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 官网：Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975；首页 Corso Hikvision – Latina ; Corso Risco – Roma Ovest ; Corso UNV – Casoria
+  - 表内：Mauro 邮件中带的 / 商业 PoE；KP Simone D’Andrea / General Manager e A.D.；Ivan Stazio / CFO；可以尝试多跟进一下
+- **风险/边界**：多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
+- **邮件切入句（英文）**：Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -142,7 +149,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Simone D'Andrea | — | info@dodicelettronica.it / marketing@dodic.it | 用户表原值 | Clients/ 表 |
+| Simone D’Andrea | — | info@dodicelettronica.it | 调研核实（公开页） | 用户表 |
+| Ivan Stazio | — | marketing@dodic.it | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -160,7 +168,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/批发商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
+| **P1** | STC-28DGGPM | 深挖对位：安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防分销商（意大利，面向安装商）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -213,7 +221,7 @@ updated: 2026-10-21
 ```text
 Hi Simone,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Simone, alongside the Uniview / Hikvision lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
