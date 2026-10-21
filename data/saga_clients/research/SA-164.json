@@ -1,12 +1,13 @@
 {
  "code": "SA-164",
- "name_official": "DABOS, Inc.（Rockville/North Bethesda, MD，美国）",
- "website_status": "在线",
- "summary": "美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。",
+ "name_official": "Dabos（dabos.com，美国）",
+ "website_status": "在线（dabos.com；快照 HTTP 错误）",
+ "summary": "美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。",
  "type": "综合采购/分销平台（非网络专业渠道）",
  "size": "小型（11–50 人；销售额 $10–25M 估）",
  "brands_seen": [
-  "Trendnet（询盘对象）"
+  "Trendnet（询盘对象）",
+  "TRENDnet"
  ],
  "evidence": [
   {
@@ -29,6 +30,20 @@
    "quote": "Name: David McNairy Title: President Company: DABOS, INC.",
    "url": "https://www.dnb.com/contact-directory/contact-profile.david_mcnairy.43e01d279265c3c74837d111a82337a0.html",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "dabos.com HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://dabos.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Trendnet 8 电口",
+   "quote": "兴趣：Trendnet 8电口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -38,10 +53,41 @@
    "email": "info@dabos.com（公开）",
    "phone": "+1 240-880-2485",
    "source": "用户 Clients 表 + 公开资料"
+  },
+  {
+   "name": "M. Zohaib Razzaq",
+   "title": "（表内联系人）",
+   "email": "zohaib@dabos.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。",
  "notes": "回复一次：Trendnet 8 口对位 STC-28DGGPM（FCC 文件齐），分销 20%；无回应即停。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Dabos（待核）",
+  "founded": "",
+  "hq": "USA",
+  "size": "小型",
+  "other": ""
+ },
+ "channels": {
+  "role": "经销 / 电商（推断）",
+  "region": "美国"
+ },
+ "risks": [
+  "需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）"
+ ],
+ "saga_fit": {
+  "p1": "STC-08GE",
+  "tier": 20,
+  "why": "TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。"
+ },
+ "email_hook": "Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?"
 }

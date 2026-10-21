@@ -1,0 +1,76 @@
+{
+ "code": "SB-254",
+ "name_official": "AADONA Communication Pvt. Ltd.（印度）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（aadona.com，快照 2026-10-21）",
+ "summary": "印度「Made in India」网络品牌 AADONA（交换机、服务器、CCTV、无线；有工业交换机产品页），CEO Pinaki Chatterjee / Govind Madhav；表内工业 FS 较多、监控；无跟进记录。自有品牌 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Made in India 网络产品：交换机、服务器、CCTV、无线",
+   "quote": "AADONA delivers Made in India networking products including switches, servers, CCTV, wireless systems and reliable IT solutions for businesses.",
+   "url": "https://aadona.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 比较多；监控；产品页 /industrial-switches/",
+   "quote": "兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Pinaki Chatterjee",
+   "title": "CEO",
+   "email": "ceo@aadona.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Govind Madhav",
+   "title": "（表内联系人）",
+   "email": "govind.madhav@aadona.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：自有品牌 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "AADONA Communication Pvt. Ltd.",
+  "founded": "（待核）",
+  "hq": "India",
+  "size": "中小型品牌商",
+  "other": "Make in India（SKD 组装可能）"
+ },
+ "business_lines": [
+  "网络交换机（含工业）/ 服务器 / CCTV / 无线（自有品牌）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM/SKD 采购）",
+  "region": "印度"
+ },
+ "signals": [
+  "自有品牌 + 工业交换机线 → 贴牌 / SKD 对象"
+ ],
+ "risks": [
+  "Make in India 要求 → 可能需 SKD；BIS",
+  "无互动记录"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业管理 PoE → STI-288GPM（$85.5 @30%）贴 AADONA 标 / SKD。"
+ },
+ "email_hook": "Mr. Madhav, for the AADONA industrial switch page — Marvell-based DIN managed 8-PoE + 2-SFP (and 16-PoE) can ship under your label or as SKD kits for local assembly; which format fits your Make-in-India requirement?"
+}

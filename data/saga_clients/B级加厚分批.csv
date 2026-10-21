@@ -354,24 +354,22 @@ SB-1139,B,T2,Tubal,埃及,非洲,0,0,0,0,0,0,1,0,1,tubal-egypt.com,1,1,1,ok,,
 SB-1164,B,T2,bitstreamcore.com,菲律宾,亚太,0,0,0,0,0,0,1,0,1,bitstreamcore.com,1,1,1,timeout,,
 SB-152,B,T2,nag.ru,俄罗斯,俄语区,0,0,0,0,0,0,1,0,1,nag.ru,3,1,1,ok,,
 SB-575,B,T2,Latitude,莫桑比克,非洲,0,0,0,0,0,0,1,0,1,voiptech.co.mz,2,1,1,http_error,,
-SB-1103,B,T2,Multi Technology System,未填,未知,0,0,0,0,0,0,1,0,0,multi-technology.com,1,0,0,ok,,
-SB-1138,B,T2,Precision,巴西,拉美,0,0,0,0,0,0,1,0,0,precisionsolutions.com.br,1,0,0,ok,,
-SB-254,B,T2,AADONA COMMUNICATION Pvt. Ltd.,印度,南亚,0,0,0,0,0,0,1,0,0,aadona.com,2,0,0,ok,,
-SB-255,B,T2,Bits&Byte CONSULTING PVT LTD,印度,南亚,0,0,0,0,0,0,1,0,0,bitsandbyte.net,2,0,0,ok,,STC-28DGGPM
-SB-257,B,T2,Saxco Marketing Sdn Bhd,马来西亚,亚太,0,0,0,0,0,0,1,0,0,saxco.com.my,2,0,0,http_error,,
-SB-629,B,T2,JTOPTICS,印度,南亚,0,0,0,0,0,0,1,0,0,jtoptics.com,1,0,0,ok,,STI-288GP
-SB-796,B,T2,Heitech Padu Berhad,马来西亚,亚太,0,0,0,0,0,0,1,0,0,secure-x.my;heitech.com.my,1,0,0,parked_or_empty,,
-SB-800,B,T2,Maxitulin,马来西亚,亚太,0,0,0,0,0,0,1,0,0,maxitulin.com,1,0,0,ok,Ubiquiti,STC-424DGGPM-280W
-SB-801,B,T2,Preciso Technology SDN BHD,马来西亚,亚太,0,0,0,0,0,0,1,0,0,precisotechnology.com.my,1,0,0,ok,,
-SB-802,B,T2,SIGMA RECTRIX SYSTEMS (M) SDN BHD,马来西亚,亚太,0,0,0,0,0,0,1,0,0,sigmarectrix.com,1,0,0,ok,Ubiquiti,
-SB-805,B,T2,Sun Energy Enterprise Sdn Bhd,马来西亚,亚太,0,0,0,0,0,0,1,0,0,sunenergy.com.my,1,0,0,ok,,
-SB-849,B,T2,lara-tel.com,伊朗,中东,0,0,0,0,0,0,1,0,0,lara-tel.com,1,0,0,ok,,
-SB-872,B,T2,tss-e.com,沙特阿拉伯,中东,0,0,0,0,0,0,1,0,0,tss-e.com,2,0,0,ok,,
-SB-874,B,T2,vulsanx.com,马来西亚,亚太,0,0,0,0,0,0,1,0,0,vulsanx.com,1,0,0,ok,,
-SB-958,B,T2,Alam Jaya Management,马来西亚,亚太,0,0,0,0,0,0,1,1,0,,1,0,0,,,
-SB-994,B,T2,parman.ir,伊朗,中东,0,0,0,0,0,0,1,0,0,parman.ir,1,0,0,ok,,STC-424DGGPM-280W
-SA-085,B,T3,SIPe,法国,欧洲,0,0,0,0,0,0,0,0,5,sipe-corse.fr,1,1,0,ok,,
-SA-164,B,T3,dabos.com,美国,北美,0,0,0,0,0,0,0,0,0,dabos.com,2,1,0,http_error,,
+SB-1103,B,T2,Multi Technology System,未填,未知,0,0,0,0,0,0,1,0,0,multi-technology.com,1,1,1,ok,,
+SB-1138,B,T2,Precision,巴西,拉美,0,0,0,0,0,0,1,0,0,precisionsolutions.com.br,1,1,1,ok,,
+SB-254,B,T2,AADONA COMMUNICATION Pvt. Ltd.,印度,南亚,0,0,0,0,0,0,1,0,0,aadona.com,2,1,1,ok,,
+SB-255,B,T2,Bits&Byte CONSULTING PVT LTD,印度,南亚,0,0,0,0,0,0,1,0,0,bitsandbyte.net,2,1,1,ok,,STC-28DGGPM
+SB-257,B,T2,Saxco Marketing Sdn Bhd,马来西亚,亚太,0,0,0,0,0,0,1,0,0,saxco.com.my,2,1,1,http_error,,
+SB-629,B,T2,JTOPTICS,印度,南亚,0,0,0,0,0,0,1,0,0,jtoptics.com,1,1,1,ok,,STI-288GP
+SB-796,B,T2,Heitech Padu Berhad,马来西亚,亚太,0,0,0,0,0,0,1,0,0,secure-x.my;heitech.com.my,1,1,1,parked_or_empty,,
+SB-800,B,T2,Maxitulin,马来西亚,亚太,0,0,0,0,0,0,1,0,0,maxitulin.com,1,1,1,ok,Ubiquiti,STC-424DGGPM-280W
+SB-801,B,T2,Preciso Technology SDN BHD,马来西亚,亚太,0,0,0,0,0,0,1,0,0,precisotechnology.com.my,1,1,1,ok,,
+SB-802,B,T2,SIGMA RECTRIX SYSTEMS (M) SDN BHD,马来西亚,亚太,0,0,0,0,0,0,1,0,0,sigmarectrix.com,1,1,1,ok,Ubiquiti,
+SB-805,B,T2,Sun Energy Enterprise Sdn Bhd,马来西亚,亚太,0,0,0,0,0,0,1,0,0,sunenergy.com.my,1,1,1,ok,,
+SB-872,B,T2,tss-e.com,沙特阿拉伯,中东,0,0,0,0,0,0,1,0,0,tss-e.com,2,1,1,ok,,
+SB-874,B,T2,vulsanx.com,马来西亚,亚太,0,0,0,0,0,0,1,0,0,vulsanx.com,1,1,1,ok,,
+SB-958,B,T2,Alam Jaya Management,马来西亚,亚太,0,0,0,0,0,0,1,1,0,,1,1,1,,,
+SA-085,B,T3,SIPe,法国,欧洲,0,0,0,0,0,0,0,0,5,sipe-corse.fr,1,1,1,ok,,
+SA-164,B,T3,dabos.com,美国,北美,0,0,0,0,0,0,0,0,0,dabos.com,2,1,1,http_error,,
 SB-492,B,T3,charter-controls.com,英国,欧洲,0,0,0,0,0,0,0,0,0,charter-controls.com,1,1,1,ok,SmartByte（！）,STI-288GP
 SB-765,B,T3,electricbray.com,英国,欧洲,0,0,0,0,0,0,0,0,0,electricbray.com,1,1,1,ok,SmartByte（！）,STI-280GE
 SB-901,B,T3,esoft.fi,芬兰,欧洲,0,0,0,0,0,0,0,0,0,esoft.fi,0,1,1,ok,"HRUI（！）,Cisco,Aruba,Fortinet,PLANET",STI-288GP

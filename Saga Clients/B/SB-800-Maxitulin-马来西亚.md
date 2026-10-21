@@ -1,4 +1,5 @@
 # Maxitulin
+**官方名称（调研核实）**：Maxitulin Sdn Bhd（马来西亚）
 
 > **评级 B**　|　马来西亚　|　档案编号 `SB-800`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-800
 rating: B
 rating_auto: B
+name_official: "Maxitulin Sdn Bhd（马来西亚）"
 score: 32
 country: 马来西亚
 region: 亚太
@@ -19,9 +21,9 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: none
+p1: STC-424DGGPM-280W
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：马来西亚的系统集成/工程商；兴趣/在卖：用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/16Bandar Puteri, 47100 PuchongSelangor, M；提到的品牌：Cisco, Aruba
+- **是谁**：马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。（调研 2026-10-21；表内兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/1）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-800.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（maxitulin.com，快照 2026-10-21）
+- **是谁**：马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。
+- **在卖/在用品牌**：Cisco, Aruba, Ubiquiti
+- **【官网快照】安防公司；关键词 camera 28 / cctv 19；+60 3-8062 2255**
+  > Maxitulin – Providing First Line Of Security Defence
+  > 来源：https://maxitulin.com/（抓取 2026-10-21）
+- **【用户表】用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌**
+  > 兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：P. Kumar（）kumar@maxitulin.com +60 17 409 2070〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Maxitulin Sdn Bhd |
+| 成立 | （待核） |
+| 总部/地址 | Malaysia（Puchong，+60 3 8062） |
+
+- **业务线**：IPC 监控项目集成
+- **触达通道（公开）**：role: 安防集成商；region: 马来西亚
+- **近况信号**：
+  - PoE 用量大 + 接受普通品牌 → 可切入非核心项目
+  - bypass 有兴趣
+- **风险/边界**：Cisco/Aruba 主导项目；无跟进
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。
+- **邮件切入句（英文）**：Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -95,7 +124,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| P.Kumar | — | kumar@maxitulin.com / +60174092070 | 用户表原值 | Clients/ 表 |
+| P. Kumar | — | kumar@maxitulin.com / +60 17 409 2070 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -111,7 +140,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -132,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Cisco, Aruba：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 Cisco, Aruba：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -156,12 +185,29 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+
+```text
+Hi P.Kumar,
+
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?
+
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

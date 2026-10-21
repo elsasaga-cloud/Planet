@@ -1,5 +1,5 @@
 # dabos.com
-**官方名称（调研核实）**：DABOS, Inc.（Rockville/North Bethesda, MD，美国）
+**官方名称（调研核实）**：Dabos（dabos.com，美国）
 
 > **评级 B**　|　美国　|　档案编号 `SA-164`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -10,7 +10,7 @@ code: SA-164
 rating: B
 rating_auto: A
 rating_research: B  # 综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。
-name_official: "DABOS, Inc.（Rockville/North Bethesda, MD，美国）"
+name_official: "Dabos（dabos.com，美国）"
 score: 60
 country: 美国
 region: 北美
@@ -22,7 +22,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-28DGGPM
+p1: STC-08GE
 price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。（调研 2026-10-21；表内兴趣：Trendnet 8电口）
+- **是谁**：美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。（调研 2026-10-21；表内兴趣：Trendnet 8电口）
 - **为什么是 B 级**：**调研后定级 B**（综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。）；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-08GE — 深挖对位：TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。；$10.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -67,11 +67,11 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
-- **是谁**：美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。
+- **状态：已调研（2026-10-21）**　网站状态：在线（dabos.com；快照 HTTP 错误）
+- **是谁**：美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。
 - **类型**：综合采购/分销平台（非网络专业渠道）
 - **规模**：小型（11–50 人；销售额 $10–25M 估）
-- **在卖/在用品牌**：Trendnet（询盘对象）
+- **在卖/在用品牌**：Trendnet（询盘对象）, TRENDnet
 - **【Facebook】100 万+ 实验室/工业/商用/家用产品，采购与批量订购**
   > Shop over 1 million lab, industrial, commercial, and home products. Dabos delivers top sourcing, bulk ordering options, logistics, and storage… 12266 Wilkins Avenue, Ste A, Rockville, MD
   > 来源：https://www.facebook.com/DabosInc/（抓取 2026-10-21）
@@ -81,10 +81,28 @@ updated: 2026-10-21
 - **【D&B】总裁 David McNairy**
   > Name: David McNairy Title: President Company: DABOS, INC.
   > 来源：https://www.dnb.com/contact-directory/contact-profile.david_mcnairy.43e01d279265c3c74837d111a82337a0.html（抓取 2026-10-21）
+- **【官网快照】dabos.com HTTP 错误**
+  > status http_error
+  > 来源：http://dabos.com/（抓取 2026-10-21）
+- **【用户表】Trendnet 8 电口**
+  > 兴趣：Trendnet 8电口
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表询盘联系人）（）info@dabos.com（公开） +1 240-880-2485〔用户 Clients 表 + 公开资料〕
+- **KP**：M. Zohaib Razzaq（）zohaib@dabos.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。
 - 备注：回复一次：Trendnet 8 口对位 STC-28DGGPM（FCC 文件齐），分销 20%；无回应即停。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Dabos（待核） |
+| 总部/地址 | USA |
+
+- **触达通道（公开）**：role: 经销 / 电商（推断）；region: 美国
+- **风险/边界**：需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）
+- **Saga 对位结论**：P1 STC-08GE（20% 档）——TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。
+- **邮件切入句（英文）**：Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -117,7 +135,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| M Zohaib Razzaq | — | www.@dabos.com / zohaib@dabos.com | 用户表原值 | Clients/ 表 |
+| M. Zohaib Razzaq | — | zohaib@dabos.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -135,17 +153,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（综合采购/分销平台（非网络专业渠道）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-08GE | 深挖对位：TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。 | $10.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（综合采购/分销平台（非网络专业渠道）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-08GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-08GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -155,7 +174,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Trendnet：涨价、断货或交期拉长时切入；规模（调研）：小型（11–50 人；销售额 $10–25M 估）
+- **O**：P1 STC-08GE 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Trendnet：涨价、断货或交期拉长时切入；规模（调研）：小型（11–50 人；销售额 $10–25M 估）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -184,25 +203,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Trendnet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

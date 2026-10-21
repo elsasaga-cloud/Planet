@@ -1,0 +1,58 @@
+{
+ "code": "SB-958",
+ "name_official": "Alam Jaya Management（马来西亚；yahoo）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（yahoo）",
+ "summary": "马来西亚 Alam Jaya Management（Thiruvaluvar Vajram，yahoo），展会谈了 1+2+8 商用 PoE，问了 OEM；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "谈了 1+2+8 商业 POE，问了 OEM",
+   "quote": "兴趣：谈了1+2+8商业POE，问了OEM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Thiruvaluvar Vajram",
+   "title": "（表内联系人）",
+   "email": "thiru_vajram@yahoo.com",
+   "phone": "+60 17 381 2169",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Alam Jaya Management（待核）",
+  "founded": "",
+  "hq": "Malaysia",
+  "size": "小型",
+  "other": "yahoo"
+ },
+ "channels": {
+  "role": "（疑经销 / 贴牌）",
+  "region": "马来西亚"
+ },
+ "signals": [
+  "问 OEM → 贴牌意向"
+ ],
+ "risks": [
+  "yahoo 邮箱、身份不明"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 30,
+  "why": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。"
+ },
+ "email_hook": "Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?"
+}

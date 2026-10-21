@@ -1,0 +1,40 @@
+{
+ "code": "SB-994",
+ "name_official": "Parman（پرتو تماس نوین，伊朗）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（parman.ir，快照 2026-10-21）",
+ "summary": "伊朗电信设备公司 Parman（WDM 与交换机；poe 18），Product Manager Mohammad Hadi 展会询工业 / 高速交换机并在 DWDM 柜拍照；伊朗 → 守界降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Parman – پرتو تماس نوین；关键词 poe 18",
+   "quote": "Parman – پرتو تماس نوین",
+   "url": "https://parman.ir/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从信泰出来，问了工业交换机高速交换机，在 DWDM 机柜拍了照；网站有 WDM 和交换机设备",
+   "quote": "兴趣：从信泰那谈了很久出来，问了工业交换机高速交换机，在DWDM机柜那拍了照",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "伊朗（制裁 / 守界）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不供伊朗。"
+ },
+ "email_hook": "（不主动发送）"
+}

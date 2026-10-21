@@ -1,0 +1,70 @@
+{
+ "code": "SB-629",
+ "name_official": "Jayani Technologies LLP（JTOptics，孟买）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（jtoptics.com，快照 2026-10-21）",
+ "summary": "印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "BTON"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "JTOptics 品牌光纤方案与网络连接产品；关键词 sfp 72 / media converter 43；+91 86930 99309",
+   "quote": "Jayani Technologies LLP, operating under the JTOptics brand, is a leading provider of fiber optic solutions and network connectivity products",
+   "url": "https://jtoptics.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Simon 之前联系很久；价格敏感；工业 MC 报了 25 说贵；在和 BTON 合作",
+   "quote": "兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Vijay Gupta",
+   "title": "CEO",
+   "email": "vijay@jtoptics.com",
+   "phone": "+91 98193 91910",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Jayani Technologies LLP",
+  "founded": "（待核）",
+  "hq": "Mumbai, India",
+  "size": "中小型光纤产品品牌商",
+  "other": "自有品牌 JTOptics（MC 贴牌）"
+ },
+ "business_lines": [
+  "光模块 / 光纤跳线 / MC（自有品牌）"
+ ],
+ "channels": {
+  "role": "品牌商（贴牌采购 MC）",
+  "region": "印度"
+ },
+ "signals": [
+  "自有品牌 MC 线 → 贴牌量采购（若价格匹配）"
+ ],
+ "risks": [
+  "极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。"
+ },
+ "email_hook": "Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it."
+}

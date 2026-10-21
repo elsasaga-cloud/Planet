@@ -1,0 +1,48 @@
+{
+ "code": "SB-849",
+ "name_official": "Lara-tel（lara-tel.com，伊朗 / 伊拉克库区？）",
+ "researched_at": "2026-10-21",
+ "website_status": "维护中页（快照）",
+ "summary": "表内国家伊朗（联系人 Shakhawan Abdullah 为库尔德名字，可能为伊拉克库区，待核），询盘要工商业 PoE；按表内国别伊朗 → 守界降 C（若核实为伊拉克可恢复 B）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "站点维护中",
+   "quote": "Site is undergoing maintenance",
+   "url": "https://lara-tel.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘 需要工商业 POE",
+   "quote": "兴趣：询盘 需要工商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Shakhawan Abdullah",
+   "title": "（表内联系人）",
+   "email": "shakhawan@lara-tel.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "表内国别伊朗（制裁 / 守界）；国别若核实为伊拉克库区可恢复 B",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 伊朗降 C，国别待核）"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不供伊朗。"
+ },
+ "email_hook": "（不主动发送）"
+}

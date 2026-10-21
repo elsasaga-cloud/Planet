@@ -1,0 +1,62 @@
+{
+ "code": "SB-1138",
+ "name_official": "Precision Solutions（圣保罗）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（precisionsolutions.com.br，快照 2026-10-21，葡语）",
+ "summary": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光纤网络测试、测量与认证设备",
+   "quote": "Equipamentos de teste, medição e certificação para redes de fibra óptica.",
+   "url": "https://precisionsolutions.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "对 1.6T 很感兴趣，DCI box，拍了照；离开后去了信泰",
+   "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Eduardo Ken",
+   "title": "Director",
+   "email": "eduardo.ken@precisionsolutions.com.br",
+   "phone": "+55 11 99620 2536",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：规格外）"
+ },
+ "company_facts": {
+  "legal_name": "Precision Solutions",
+  "founded": "",
+  "hq": "São Paulo, Brazil",
+  "size": "小型测试设备分销",
+  "other": ""
+ },
+ "channels": {
+  "role": "测试设备分销",
+  "region": "巴西"
+ },
+ "risks": [
+  "需求 1.6T / DCI 规格外"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "DCI / 1.6T 规格外；无主推型。"
+ },
+ "email_hook": "（不主动发送）"
+}

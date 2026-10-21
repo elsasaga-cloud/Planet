@@ -31999,9 +31999,9 @@
 "grade": "B",
 "research": {
 "code": "SA-085",
-"name_official": "SIPe（sipe-corse.fr，科西嘉，法国）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "法国科西嘉的小型安装/集成商（用户记录：通过阿里巴巴 RTS 下单 3 件工业 PoE 配件，联系人 Olivier Donadio），此后 5 次推送 0 回复。",
+"name_official": "SIPE Corse – Société Insulaire de Protection Electronique（阿雅克肖）",
+"website_status": "在线（sipe-corse.fr，快照 2026-10-21，法语）",
+"summary": "法国科西嘉阿雅克肖 40 年安防公司（人身财产安全系统：报警、监控、门禁），Olivier Donadio（+33 4 95 20 95 94），需求 3 个工业 PoE 配件（小量）；5 次跟进无实质回复。欧洲主攻区小型安装商。",
 "type": "安装商/小型集成商",
 "size": "微型（待补证）",
 "brands_seen": [],
@@ -32010,6 +32010,20 @@
 "kind": "用户记录",
 "claim": "Alibaba RTS 成交 3 件工业 PoE 配件；0 回复 / 5 次推送",
 "quote": "Alibaba RTS order 3 工业PoE配件；Olivier DONADIO（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "40 年阿雅克肖安防服务",
+"quote": "Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes",
+"url": "https://sipe-corse.fr/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "3 个工业 PoE 配件",
+"quote": "兴趣：3个工业PoE配件",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -32026,7 +32040,38 @@
 "grade_override": "B",
 "override_reason": "已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。",
 "notes": "复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "SIPE Corse SARL（待核）",
+"founded": "约 1985（40 年）",
+"hq": "Ajaccio, Corse, France",
+"size": "小型安防安装商",
+"other": ""
+},
+"business_lines": [
+"报警 / 监控 / 门禁安装（科西嘉）"
+],
+"channels": {
+"role": "安防安装商（终端采购）",
+"region": "法国（科西嘉）"
+},
+"signals": [
+"具体小量需求（3 件工业 PoE）→ 可直接成交样单"
+],
+"risks": [
+"小量、运费占比高（EXW → DAP 需报运费）",
+"法语沟通"
+],
+"saga_fit": {
+"p1": "STI-144GP",
+"tier": 25,
+"why": "小型工业 PoE（3 件）→ STI-144GP（1 SFP + 4 PoE，$35.5 @25%）；8 口 STI-288GP。"
+},
+"email_hook": "Bonjour Olivier, pour les 3 switches PoE industriels : 1 SFP + 4 PoE sur rail DIN à 35,5 $ pièce EXW (ou 2 SFP + 8 PoE à 60 $), expédition DHL vers Ajaccio en 5–7 jours ; de combien de ports PoE avez-vous besoin par site ?"
 }
 },
 {
@@ -59833,13 +59878,14 @@
 "grade": "B",
 "research": {
 "code": "SA-164",
-"name_official": "DABOS, Inc.（Rockville/North Bethesda, MD，美国）",
-"website_status": "在线",
-"summary": "美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。",
+"name_official": "Dabos（dabos.com，美国）",
+"website_status": "在线（dabos.com；快照 HTTP 错误）",
+"summary": "美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。",
 "type": "综合采购/分销平台（非网络专业渠道）",
 "size": "小型（11–50 人；销售额 $10–25M 估）",
 "brands_seen": [
-"Trendnet（询盘对象）"
+"Trendnet（询盘对象）",
+"TRENDnet"
 ],
 "evidence": [
 {
@@ -59862,6 +59908,20 @@
 "quote": "Name: David McNairy Title: President Company: DABOS, INC.",
 "url": "https://www.dnb.com/contact-directory/contact-profile.david_mcnairy.43e01d279265c3c74837d111a82337a0.html",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "dabos.com HTTP 错误",
+"quote": "status http_error",
+"url": "http://dabos.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Trendnet 8 电口",
+"quote": "兴趣：Trendnet 8电口",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -59871,12 +59931,43 @@
 "email": "info@dabos.com（公开）",
 "phone": "+1 240-880-2485",
 "source": "用户 Clients 表 + 公开资料"
+},
+{
+"name": "M. Zohaib Razzaq",
+"title": "（表内联系人）",
+"email": "zohaib@dabos.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。",
 "notes": "回复一次：Trendnet 8 口对位 STC-28DGGPM（FCC 文件齐），分销 20%；无回应即停。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+},
+"company_facts": {
+"legal_name": "Dabos（待核）",
+"founded": "",
+"hq": "USA",
+"size": "小型",
+"other": ""
+},
+"channels": {
+"role": "经销 / 电商（推断）",
+"region": "美国"
+},
+"risks": [
+"需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）"
+],
+"saga_fit": {
+"p1": "STC-08GE",
+"tier": 20,
+"why": "TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。"
+},
+"email_hook": "Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?"
 }
 },
 {
@@ -117871,7 +117962,70 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1103",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1103",
+"name_official": "Multi Technology System（国别未填；multi-technology.com）",
+"researched_at": "2026-10-21",
+"website_status": "域名误配（multi-technology.com 现为 9WOLF 数字市场页，与公司无关）",
+"summary": "「杂」表来源的 Multi Technology System（info@multi-technology.com），对工业 PoE 与非 PoE 工业机有兴趣；国别未填，域名现为无关的数字市场页（误配）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "multi-technology.com 现为 9WOLF 数字市场页（误配）",
+"quote": "title: 9WOLF – Digital Marketplace",
+"url": "https://multi-technology.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 POE 和不带 POE 的感兴趣；国别未填",
+"quote": "兴趣：工业POE 和不带POE的感兴趣",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@multi-technology.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Multi Technology System（待核）",
+"founded": "",
+"hq": "（未知）",
+"size": "",
+"other": "国别待核"
+},
+"channels": {
+"role": "（未知）",
+"region": "（未知）"
+},
+"risks": [
+"国别与身份不明；域名失效"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "工业 PoE → STI-288GP；非 PoE → STI-280GE。"
+},
+"email_hook": "（低优先；需先核国别）",
+"site_mismatch": true
+}
 },
 {
 "name": "allthegeek.com",
@@ -125960,7 +126114,69 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1138",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1138",
+"name_official": "Precision Solutions（圣保罗）",
+"researched_at": "2026-10-21",
+"website_status": "在线（precisionsolutions.com.br，快照 2026-10-21，葡语）",
+"summary": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "光纤网络测试、测量与认证设备",
+"quote": "Equipamentos de teste, medição e certificação para redes de fibra óptica.",
+"url": "https://precisionsolutions.com.br/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "对 1.6T 很感兴趣，DCI box，拍了照；离开后去了信泰",
+"quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Eduardo Ken",
+"title": "Director",
+"email": "eduardo.ken@precisionsolutions.com.br",
+"phone": "+55 11 99620 2536",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：规格外）"
+},
+"company_facts": {
+"legal_name": "Precision Solutions",
+"founded": "",
+"hq": "São Paulo, Brazil",
+"size": "小型测试设备分销",
+"other": ""
+},
+"channels": {
+"role": "测试设备分销",
+"region": "巴西"
+},
+"risks": [
+"需求 1.6T / DCI 规格外"
+],
+"saga_fit": {
+"p1": null,
+"tier": 20,
+"why": "DCI / 1.6T 规格外；无主推型。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "Tubal",
@@ -181169,7 +181385,83 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-254",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-254",
+"name_official": "AADONA Communication Pvt. Ltd.（印度）",
+"researched_at": "2026-10-21",
+"website_status": "在线（aadona.com，快照 2026-10-21）",
+"summary": "印度「Made in India」网络品牌 AADONA（交换机、服务器、CCTV、无线；有工业交换机产品页），CEO Pinaki Chatterjee / Govind Madhav；表内工业 FS 较多、监控；无跟进记录。自有品牌 → OEM 30%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Made in India 网络产品：交换机、服务器、CCTV、无线",
+"quote": "AADONA delivers Made in India networking products including switches, servers, CCTV, wireless systems and reliable IT solutions for businesses.",
+"url": "https://aadona.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS 比较多；监控；产品页 /industrial-switches/",
+"quote": "兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Pinaki Chatterjee",
+"title": "CEO",
+"email": "ceo@aadona.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Govind Madhav",
+"title": "（表内联系人）",
+"email": "govind.madhav@aadona.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：自有品牌 OEM）"
+},
+"company_facts": {
+"legal_name": "AADONA Communication Pvt. Ltd.",
+"founded": "（待核）",
+"hq": "India",
+"size": "中小型品牌商",
+"other": "Make in India（SKD 组装可能）"
+},
+"business_lines": [
+"网络交换机（含工业）/ 服务器 / CCTV / 无线（自有品牌）"
+],
+"channels": {
+"role": "品牌商（OEM/SKD 采购）",
+"region": "印度"
+},
+"signals": [
+"自有品牌 + 工业交换机线 → 贴牌 / SKD 对象"
+],
+"risks": [
+"Make in India 要求 → 可能需 SKD；BIS",
+"无互动记录"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 30,
+"why": "工业管理 PoE → STI-288GPM（$85.5 @30%）贴 AADONA 标 / SKD。"
+},
+"email_hook": "Mr. Madhav, for the AADONA industrial switch page — Marvell-based DIN managed 8-PoE + 2-SFP (and 16-PoE) can ship under your label or as SKD kits for local assembly; which format fits your Make-in-India requirement?"
+}
 },
 {
 "name": "Bits&Byte CONSULTING PVT LTD",
@@ -181291,7 +181583,84 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-255",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-255",
+"name_official": "Bits&Byte Consulting Pvt Ltd（班加罗尔）",
+"researched_at": "2026-10-21",
+"website_status": "在线（bitsandbyte.net，快照 2026-10-21）",
+"summary": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "工程型云、网络安全、网络与托管服务；contact@bitsandbyte.net；+91 95133 70890",
+"quote": "Engineering-led cloud, cybersecurity, networking and managed services.",
+"url": "https://bitsandbyte.net/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "问 Ring 时间能否小于 20ms；2 光 10 电不要 PoE 价格；4 光 10 电 10G 光；对 bypass 有兴趣看了接线图；问 100G/200G/400G 模块芯片方案",
+"quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ramachandra R",
+"title": "Director",
+"email": "ramachandra.r@bitsandbyte.net",
+"phone": "+91 94484 58595",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Ankit Arora",
+"title": "Executive Director",
+"email": "ankit@bitsandbyte.net",
+"phone": "+91 96206 18247",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内：技术型买家）"
+},
+"company_facts": {
+"legal_name": "Bits&Byte Consulting Pvt Ltd",
+"founded": "（待核）",
+"hq": "Bengaluru, India",
+"size": "中小型工程服务商",
+"other": "与 BTON（百通）有合作"
+},
+"business_lines": [
+"网络 / 云 / 安全工程与托管服务"
+],
+"channels": {
+"role": "工程型集成商",
+"region": "印度（班加罗尔）"
+},
+"signals": [
+"技术问题具体（ERPS <20 ms、bypass、10G 工业）→ 真实项目评估",
+"两位董事级联系人"
+],
+"risks": [
+"100G–400G 模块需求 Saga 无",
+"BTON 竞争在先"
+],
+"saga_fit": {
+"p1": "STI-280GM",
+"tier": 25,
+"why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。"
+},
+"email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
+}
 },
 {
 "name": "Digital systems",
@@ -181788,7 +182157,75 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-257",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-257",
+"name_official": "Saxco Marketing Sdn Bhd（马来西亚）",
+"researched_at": "2026-10-21",
+"website_status": "在线（saxco.com.my；快照 HTTP 错误）",
+"summary": "马来西亚安防产品分销商 Saxco Marketing（采购 Heng Lee Sun，purchaser5/6@），主动联系问网络交换机；无跟进记录。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "saxco.com.my HTTP 错误",
+"quote": "status http_error",
+"url": "http://saxco.com.my/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "主动联系问了 network switch；security products distributor",
+"quote": "兴趣：主动联系 问了network switch security products distributor",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Heng Lee Sun",
+"title": "Purchaser",
+"email": "purchaser5@saxco.com.my",
+"phone": "+60 12 418 8623",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+},
+"company_facts": {
+"legal_name": "Saxco Marketing Sdn Bhd",
+"founded": "（待核）",
+"hq": "Malaysia（+60 3 7880 2299）",
+"size": "中小型安防分销",
+"other": ""
+},
+"business_lines": [
+"安防产品分销"
+],
+"channels": {
+"role": "安防分销商",
+"region": "马来西亚"
+},
+"signals": [
+"主动询交换机（采购部）"
+],
+"risks": [
+"无跟进记录"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "安防分销配套 8 PoE 管理机（$80.7 @20%）。"
+},
+"email_hook": "Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $137.5, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?"
+}
 },
 {
 "name": "alconlink.com",
@@ -275165,7 +275602,77 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-629",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-629",
+"name_official": "Jayani Technologies LLP（JTOptics，孟买）",
+"researched_at": "2026-10-21",
+"website_status": "在线（jtoptics.com，快照 2026-10-21）",
+"summary": "印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。",
+"type": "",
+"size": "",
+"brands_seen": [
+"BTON"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "JTOptics 品牌光纤方案与网络连接产品；关键词 sfp 72 / media converter 43；+91 86930 99309",
+"quote": "Jayani Technologies LLP, operating under the JTOptics brand, is a leading provider of fiber optic solutions and network connectivity products",
+"url": "https://jtoptics.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Simon 之前联系很久；价格敏感；工业 MC 报了 25 说贵；在和 BTON 合作",
+"quote": "兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Vijay Gupta",
+"title": "CEO",
+"email": "vijay@jtoptics.com",
+"phone": "+91 98193 91910",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "Jayani Technologies LLP",
+"founded": "（待核）",
+"hq": "Mumbai, India",
+"size": "中小型光纤产品品牌商",
+"other": "自有品牌 JTOptics（MC 贴牌）"
+},
+"business_lines": [
+"光模块 / 光纤跳线 / MC（自有品牌）"
+],
+"channels": {
+"role": "品牌商（贴牌采购 MC）",
+"region": "印度"
+},
+"signals": [
+"自有品牌 MC 线 → 贴牌量采购（若价格匹配）"
+],
+"risks": [
+"极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。"
+},
+"email_hook": "Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it."
+}
 },
 {
 "name": "Marlen Sadybekov",
@@ -305652,7 +306159,77 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-796",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-796",
+"name_official": "HeiTech Padu Berhad（马来西亚，上市）",
+"researched_at": "2026-10-21",
+"website_status": "停放（secure-x.my 空；heitech.com.my 待核）",
+"summary": "马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "secure-x.my 为空页",
+"quote": "status parked_or_empty",
+"url": "http://secure-x.my/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "对 POE 很有兴趣，拿了彩页，主要看工业级，问电源口接线，也看了商业级；地址 HeiTech Village 2, Jalan Astaka U8/8",
+"quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ts. Rizaki bin Napi",
+"title": "Cybersecurity Consultant",
+"email": "rizaki@heitech.com.my",
+"phone": "+60 19 620 1681",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照空页 + 表内）"
+},
+"company_facts": {
+"legal_name": "HeiTech Padu Berhad",
+"founded": "1994（待核）",
+"hq": "HeiTech Village 2, No. 1, Jalan Astaka U8/8, Bukit Jelutong, Shah Alam, Malaysia",
+"size": "大型上市 ICT 集成商",
+"other": "政府项目多（守界：按单核）"
+},
+"business_lines": [
+"政府 / 企业 ICT 系统集成",
+"网络安全"
+],
+"channels": {
+"role": "大型系统集成商",
+"region": "马来西亚"
+},
+"signals": [
+"顾问级联系人对工业 PoE 兴趣具体（电源接线）"
+],
+"risks": [
+"大型上市公司采购流程长、倾向品牌；政府项目守界",
+"无跟进记录"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 25,
+"why": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。"
+},
+"email_hook": "Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab."
+}
 },
 {
 "name": "ITSS Inc/",
@@ -306627,7 +307204,80 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-800",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-800",
+"name_official": "Maxitulin Sdn Bhd（马来西亚）",
+"researched_at": "2026-10-21",
+"website_status": "在线（maxitulin.com，快照 2026-10-21）",
+"summary": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Cisco",
+"Aruba",
+"Ubiquiti"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "安防公司；关键词 camera 28 / cctv 19；+60 3-8062 2255",
+"quote": "Maxitulin – Providing First Line Of Security Defence",
+"url": "https://maxitulin.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌",
+"quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "P. Kumar",
+"title": "Design Analyst Engineer",
+"email": "kumar@maxitulin.com",
+"phone": "+60 17 409 2070",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "Maxitulin Sdn Bhd",
+"founded": "（待核）",
+"hq": "Malaysia（Puchong，+60 3 8062）",
+"size": "中小型安防集成",
+"other": ""
+},
+"business_lines": [
+"IPC 监控项目集成"
+],
+"channels": {
+"role": "安防集成商",
+"region": "马来西亚"
+},
+"signals": [
+"PoE 用量大 + 接受普通品牌 → 可切入非核心项目",
+"bypass 有兴趣"
+],
+"risks": [
+"Cisco/Aruba 主导项目；无跟进"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。"
+},
+"email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
+}
 },
 {
 "name": "Preciso Technology SDN BHD",
@@ -306739,7 +307389,76 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-801",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-801",
+"name_official": "Preciso Technology Sdn Bhd（马来西亚）",
+"researched_at": "2026-10-21",
+"website_status": "在线（precisotechnology.com.my，快照 2026-10-21，内容空）",
+"summary": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "precisotechnology.com.my 首页无内容",
+"quote": "status ok, empty",
+"url": "https://precisotechnology.com.my/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "系统集成商 IOT，会去深圳看展，拿了光路彩页，问工业级可以达到 85 度吗；地址 48-2, Jalan PJU 5/20D, The Strand Kota Damansara 47810",
+"quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "C.S. Chong（张志祥）",
+"title": "Senior Manager",
+"email": "cschong@precisotechnology.com.my",
+"phone": "+60 16 222 1954",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照空页 + 表内）"
+},
+"company_facts": {
+"legal_name": "Preciso Technology Sdn Bhd",
+"founded": "（待核）",
+"hq": "48-2, Jalan PJU 5/20D, The Strand, Kota Damansara 47810, Selangor, Malaysia",
+"size": "小型 SI（IoT）",
+"other": "中文沟通"
+},
+"business_lines": [
+"IoT / 系统集成"
+],
+"channels": {
+"role": "系统集成商",
+"region": "马来西亚"
+},
+"signals": [
+"计划访深圳 → 可约 SmartByte 工厂",
+"问 85 ℃ → 高温场景（需如实说明 75 ℃ 上限）"
+],
+"risks": [
+"85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 25,
+"why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。"
+},
+"email_hook": "张经理，上次您问工业机能否到 85 ℃：我们工业线标称 -40~75 ℃，85 ℃ 需原厂确认降额使用；您下次来深圳看展时，我可以安排到 SmartByte 工厂做一次高温箱实测。方便告诉我安装环境吗？"
+}
 },
 {
 "name": "SIGMA RECTRIX SYSTEMS (M) SDN BHD",
@@ -306850,7 +307569,75 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-802",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-802",
+"name_official": "Sigma Rectrix Systems (M) Sdn. Bhd.（赛城）",
+"researched_at": "2026-10-21",
+"website_status": "在线（sigmarectrix.com，快照 2026-10-21）",
+"summary": "马来西亚 Cyberjaya 方案提供商（+60 3 8318 6696；Ubiquiti），Pre-Sales 顾问 Mohamad Faiza bin Ismail 对 2 光 8 bypass 工业机很有兴趣，问跳线较多；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Sigma Rectrix Systems；sales@sigmarectrix.com；+603-8318 6696",
+"quote": "Sigma Rectrix Systems (M) Sdn. Bhd.",
+"url": "https://sigmarectrix.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "方案提供商，对 2 光 8 bypass 有挺大兴趣，对跳线问了比较多；地址 Suite 3-05, 4805 CBD Perdana 2, Jalan Perdana, Cyber 12, Cyberjaya",
+"quote": "兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Mohamad Faiza bin Ismail",
+"title": "Pre-Sales Consultant",
+"email": "mohamadfaiza@sigmarectrix.com",
+"phone": "+60 16 965 2260",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "Sigma Rectrix Systems (M) Sdn. Bhd.",
+"founded": "（待核）",
+"hq": "Suite 3-05, 4805 CBD Perdana 2, Cyber 12, 63000 Cyberjaya, Malaysia",
+"size": "小型方案商",
+"other": ""
+},
+"business_lines": [
+"ICT 方案 / 系统集成"
+],
+"channels": {
+"role": "方案提供商",
+"region": "马来西亚"
+},
+"signals": [
+"明确对 2 光 8 bypass 有兴趣"
+],
+"risks": [
+"无跟进"
+],
+"saga_fit": {
+"p1": "LT-IS6312GP-4GX8GT-FBP",
+"tier": 25,
+"why": "2 光 8 bypass → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP 光旁路，$194.3 @25%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；非 PoE 版 LT-IS6312G-4GX8GT-FBP $179.4。"
+},
+"email_hook": "Faiza, the optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?"
+}
 },
 {
 "name": "Sedecorp",
@@ -307623,7 +308410,75 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-805",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-805",
+"name_official": "Sun Energy Enterprise Sdn. Bhd.（吉隆坡）",
+"researched_at": "2026-10-21",
+"website_status": "在线（sunenergy.com.my，快照 2026-10-21，内容空）",
+"summary": "马来西亚本地安防公司（Kepong，+60 3 6242 6818），Managing Director Tan Chan Sun（会中文）对交换机有兴趣，特别关心电源输入最大值与防雷；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "sunenergy.com.my 首页无内容",
+"quote": "status ok, empty",
+"url": "https://sunenergy.com.my/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "本地做安防，会说中文，对交换机有兴趣，特别关心电源输入（最大值）和防雷；地址 54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong",
+"quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Tan Chan Sun（陈先生）",
+"title": "Managing Director",
+"email": "chansun@sunenergy.com.my",
+"phone": "+60 12 268 2818",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照空页 + 表内）"
+},
+"company_facts": {
+"legal_name": "Sun Energy Enterprise Sdn. Bhd.",
+"founded": "（待核）",
+"hq": "54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur",
+"size": "小型安防安装",
+"other": "中文沟通"
+},
+"business_lines": [
+"安防系统安装"
+],
+"channels": {
+"role": "安防安装商",
+"region": "马来西亚"
+},
+"signals": [
+"关心电源与防雷 → 室外 / 工业场景"
+],
+"risks": [
+"无跟进；小量"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。"
+},
+"email_hook": "陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？"
+}
 },
 {
 "name": "UGUR IMRE",
@@ -319303,10 +320158,58 @@
 "+5 有可核实的公司网站/域名",
 "+3 区域 中东/伊朗"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "名单内·未触达",
 "code": "SB-849",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-849",
+"name_official": "Lara-tel（lara-tel.com，伊朗 / 伊拉克库区？）",
+"researched_at": "2026-10-21",
+"website_status": "维护中页（快照）",
+"summary": "表内国家伊朗（联系人 Shakhawan Abdullah 为库尔德名字，可能为伊拉克库区，待核），询盘要工商业 PoE；按表内国别伊朗 → 守界降 C（若核实为伊拉克可恢复 B）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "站点维护中",
+"quote": "Site is undergoing maintenance",
+"url": "https://lara-tel.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "询盘 需要工商业 POE",
+"quote": "兴趣：询盘 需要工商业POE",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Shakhawan Abdullah",
+"title": "（表内联系人）",
+"email": "shakhawan@lara-tel.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": "C",
+"override_reason": "表内国别伊朗（制裁 / 守界）；国别若核实为伊拉克库区可恢复 B",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 伊朗降 C，国别待核）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不供伊朗。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "logilink.eu",
@@ -325821,7 +326724,75 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-872",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-872",
+"name_official": "TSS Co.（tss-e.com，沙特达曼）",
+"researched_at": "2026-10-21",
+"website_status": "在线（tss-e.com，快照 2026-10-21）",
+"summary": "沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "TSS Co.；sales@tss-e.com；+966 13 8468882；关键词 telecom 13",
+"quote": "Welcome to TSS Co.",
+"url": "https://tss-e.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业级带光的交换机、SFP 模块；前一阵子问了模块和 PSU",
+"quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Eng. Murad",
+"title": "（工程 / 采购）",
+"email": "murad@tss-e.com",
+"phone": "+966 59 832 3625",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "TSS Co.（待核）",
+"founded": "（待核）",
+"hq": "Dammam / Khobar, Eastern Province, Saudi Arabia",
+"size": "小型承包商",
+"other": ""
+},
+"business_lines": [
+"电信 / 安防工程承包"
+],
+"channels": {
+"role": "工程承包商",
+"region": "沙特东部省"
+},
+"signals": [
+"明确工业带光口交换机需求"
+],
+"risks": [
+"SFP / PSU 为配件需求（Q-32）；无跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。"
+},
+"email_hook": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?"
+}
 },
 {
 "name": "visarcctv.com",
@@ -326262,7 +327233,72 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-874",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-874",
+"name_official": "Vulsan X Sdn Bhd（马来西亚）",
+"researched_at": "2026-10-21",
+"website_status": "在线（vulsanx.com，快照 2026-10-21）",
+"summary": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Vulsan X – Cyber Security Expert；infosec@vulsanx.com；+606 851 5911",
+"quote": "Vulsan X – Cyber Security Expert",
+"url": "https://vulsanx.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "问了 POE switch，在用有名的牌子，主要是 24 48 口，4 8 口用得少；地址 No 59-1 & 59-2 Jalan MPK, Medan Perdagangan Kepayang",
+"quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Annamery Raja",
+"title": "OSINT Researcher",
+"email": "mery@vulsanx.com",
+"phone": "+60 11 5652 8663",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "Vulsan X Sdn Bhd",
+"founded": "（待核）",
+"hq": "Seremban, Negeri Sembilan, Malaysia",
+"size": "小型网络安全公司",
+"other": ""
+},
+"business_lines": [
+"网络安全服务"
+],
+"channels": {
+"role": "安全服务商（项目配套）",
+"region": "马来西亚"
+},
+"risks": [
+"硬件非主业；品牌偏好"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。"
+},
+"email_hook": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first."
+}
 },
 {
 "name": "wachendorff-prozesstechnik.de",
@@ -342852,7 +343888,65 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-958",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-958",
+"name_official": "Alam Jaya Management（马来西亚；yahoo）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（yahoo）",
+"summary": "马来西亚 Alam Jaya Management（Thiruvaluvar Vajram，yahoo），展会谈了 1+2+8 商用 PoE，问了 OEM；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "谈了 1+2+8 商业 POE，问了 OEM",
+"quote": "兴趣：谈了1+2+8商业POE，问了OEM",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Thiruvaluvar Vajram",
+"title": "（表内联系人）",
+"email": "thiru_vajram@yahoo.com",
+"phone": "+60 17 381 2169",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Alam Jaya Management（待核）",
+"founded": "",
+"hq": "Malaysia",
+"size": "小型",
+"other": "yahoo"
+},
+"channels": {
+"role": "（疑经销 / 贴牌）",
+"region": "马来西亚"
+},
+"signals": [
+"问 OEM → 贴牌意向"
+],
+"risks": [
+"yahoo 邮箱、身份不明"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 30,
+"why": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。"
+},
+"email_hook": "Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?"
+}
 },
 {
 "name": "JM Fiber Optics Inc",
@@ -349899,10 +350993,50 @@
 "+3 区域 中东/伊朗",
 "+2 最近活动 2024"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "名单内·未触达",
 "code": "SB-994",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-994",
+"name_official": "Parman（پرتو تماس نوین，伊朗）",
+"researched_at": "2026-10-21",
+"website_status": "在线（parman.ir，快照 2026-10-21）",
+"summary": "伊朗电信设备公司 Parman（WDM 与交换机；poe 18），Product Manager Mohammad Hadi 展会询工业 / 高速交换机并在 DWDM 柜拍照；伊朗 → 守界降 C。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Parman – پرتو تماس نوین；关键词 poe 18",
+"quote": "Parman – پرتو تماس نوین",
+"url": "https://parman.ir/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "从信泰出来，问了工业交换机高速交换机，在 DWDM 机柜拍了照；网站有 WDM 和交换机设备",
+"quote": "兴趣：从信泰那谈了很久出来，问了工业交换机高速交换机，在DWDM机柜那拍了照",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "伊朗（制裁 / 守界）",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不供伊朗。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "pctelecom.co.th",
