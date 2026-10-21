@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（technopc.com.tr，快照 2026-10-21）",
- "summary": "土耳其系统集成/工程商：官网「Technopc」（tr-TR）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：TPN14AW、TM-T10EA、TB154、TP-PRO-N100；表内「工业POE；工业POE 买的ewind的」；群发 2 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "土耳其 Technopc（本土安防/网络品牌：NVR（站内 83 处）、IPC、网络产品栏目 TPN14AW / TM-T10EA；表内「工业 PoE，买的 Ewind 的」；KP Mithat Yücel（General Manager）、Murat Yücel（Managing Partner））；表内 2 次跟进无回复。",
+ "type": "土耳其安防/网络品牌商（工业 PoE 现 Ewind）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ewind"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,39 +23,68 @@
    "quote": "工业POE；工业POE 买的ewind的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Technopc 站点",
+   "quote": "Technopc ; /katalog/ ; /network-urunleri/ ; TPN14AW",
+   "url": "https://technopc.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 PoE 买的 Ewind",
+   "quote": "工业POE / 工业POE 买的ewind的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Mithat Yücel",
+   "title": "General Manager",
+   "email": "mithat.yucel@technopc.com.tr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Murat Yücel",
+   "title": "Managing Partner",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 technopc.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "安防 NVR / IPC / 网络产品（自有品牌 Technopc）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "土耳其安防/网络品牌商（工业 PoE 现 Ewind）",
   "region": "土耳其",
   "contact": "info@technopc.com.tr、mithat.yucel@technopc.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://technopc.com.tr/）",
-  "官网公开邮箱：info@technopc.com.tr、teknik@technopc.com.tr",
-  "用户表兴趣/备注：工业POE；工业POE 买的ewind的"
+  "页面 /katalog/、/network-urunleri/、/kurumsal-urunler/；站内 TPN14AW / TM-T10EA / TP-PRO-N100；kw nvr 83",
+  "表内：工业 PoE 买的 ewind 的；KP Mithat Yuecel / General Manager；Murat Yucel / Managing Partner"
  ],
- "risks": [],
+ "risks": [
+  "现供 Ewind（深圳）价格基准低；土耳其汇率敏感；2 次跟进无回复 → 改向 GM 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）"
  },
- "email_hook": "Mithat, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Mithat, for the industrial PoE switches you sell under the Technopc label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C; 8/24-PoE L2+ commercial for NVR kits; CE/RoHS) in your packaging from small lots — which model do your dealers reorder most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（accuratetechnologies.com，快照 2026-10-21）",
- "summary": "美国系统集成/工程商：官网「ATI - Provides SW/HW Solutions for Control System Development」（en-US）；品类词：布线 / 线缆 / 网络交换 / PoE；产品页：ns-1-network-switch、VID、CANBusProducts、CANary；表内「poe network switch 产品较少 周边产品」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
+ "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "poe network switch 产品较少 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ATI 定位",
+   "quote": "ATI - Provides SW/HW Solutions for Control System Development ; control system development tools for calibration, data acquisition, rapid prototyping and network analysis ; /Products/ns-1-network-switch",
+   "url": "https://www.accuratetechnologies.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE network switch 产品较少",
+   "quote": "poe network switch 产品较少 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +43,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "ECU 开发工具（标定 / 采集 / 原型）",
+  "网络交换机 NS-1（配套）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "汽车 ECU 开发工具商（美国，交换机为配套）",
   "region": "美国",
   "contact": "sales@accuratetechnologies.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.accuratetechnologies.com/）",
-  "官网公开邮箱：sales@accuratetechnologies.com",
-  "用户表兴趣/备注：poe network switch 产品较少 周边产品"
+  "官网：ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis；页面 /Products/ns-1-network-switch、/CANBusProducts",
+  "表内：poe network switch 产品较少 周边产品"
  ],
- "risks": [],
+ "risks": [
+  "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?"
 }

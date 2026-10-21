@@ -2,7 +2,7 @@
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-955`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 17 次（2024-06-05 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：俄罗斯通信建设材料制造商（MC 为边缘品类）（推断）　|　**历史关系**：推送 17 次（2024-06-05 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-955
@@ -12,7 +12,7 @@ score: 30
 country: 俄罗斯
 region: 俄语区
 website: ssd.ru
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 俄罗斯通信建设材料制造商（MC 为边缘品类）
 tier_tags: ["A优质名单(优质俄罗斯客户)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「ССД - Разработка и производство материалов для строительства и ремонта линий связи」（ru）；站内型号：RAL9005；表内「MC 似乎是自己的牌子 switch 电源等」；群发 17 次、无回复。（调研 2026-10-21；表内兴趣：MC 似乎是自己的牌子 switch 电源等）
+- **是谁**：俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：MC 似乎是自己的牌子 switch 电源等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-31）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | ssd.ru（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | ssd.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 俄罗斯通信建设材料制造商（MC 为边缘品类） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC 似乎是自己的牌子<br>switch 电源等 | 事实（用户表） |
@@ -55,32 +55,37 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ssd.ru，快照 2026-10-21）
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「ССД - Разработка и производство материалов для строительства и ремонта линий связи」（ru）；站内型号：RAL9005；表内「MC 似乎是自己的牌子 switch 电源等」；群发 17 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。
+- **类型**：俄罗斯通信建设材料制造商（MC 为边缘品类）
 - **【官网快照】官网标题：ССД - Разработка и производство материалов для строительства и ремонта линий связи**
   > Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта линий связи и энергетики. Выгодные условия сотрудничества для юр. лиц и ИП. Оптовые поставки оборудования по всей России
   > 来源：https://ssd.ru/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC 似乎是自己的牌子 switch 电源等
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】ССД 定位**
+  > ССД - Разработка и производство материалов для строительства и ремонта линий связи ; СВЯЗЬСТРОЙДЕТАЛЬ — лидер рынка решений для телекоммуникационных сетей
+  > 来源：https://ssd.ru/（抓取 2026-10-21）
+- **【用户表】MC 似乎自己的牌子**
+  > MC 似乎是自己的牌子 switch 电源等
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 俄罗斯 |
 | 其他 | 官网 ssd.ru，语言 ru，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 俄罗斯；contact: mail@ssd.ru
+- **业务线**：通信线路建设 / 维修材料制造（俄罗斯）
+- **触达通道（公开）**：role: 俄罗斯通信建设材料制造商（MC 为边缘品类）；region: 俄罗斯；contact: mail@ssd.ru
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://ssd.ru/）
-  - 官网公开邮箱：ekb@ssd.ru、krasnodar@ssd.ru、mail@ssd.ru
-  - 用户表兴趣/备注：MC 似乎是自己的牌子 switch 电源等
-- **风险/边界**：群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта …；首页 лидер рынка решений для телекоммуникационных сетей；页面 /catalog/stroitelstvo-obektov-infrastruktury-svyazi/
+  - 表内：MC 似乎是自己的牌子 switch 电源等
+- **风险/边界**：主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险；17 次无回复，仅 mail@
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望
+- **邮件切入句（英文）**：For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -152,7 +157,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（俄罗斯通信建设材料制造商（MC 为边缘品类）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -171,9 +176,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
+- **S**：名单内已有联系记录，不是零起点
 - **W**：无具名决策人，仍是公司级触达；已推送 17 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -207,9 +212,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ioneresources.net，快照 2026-10-21）",
- "summary": "菲律宾IT / 网络安全服务商（交换机为附带）：官网「iOne Resources, Inc | Solutions That Drive Progress」（en-US）；品类词：网络交换 / PoE；站内品牌：TP-Link；站内型号：NLE2025；表内「from: 阿里巴巴主动推送的」；表内未见跟进记录。",
- "type": "IT / 网络安全服务商（交换机为附带）",
+ "summary": "菲律宾 iOne Resources, Inc.（「Solutions That Drive Progress」关键任务运营就绪：现场部署与技术运营、托管 ICT 服务、网络安全合规；TP-Link；表内「from: 阿里巴巴主动推送的」；KP Alberto Catangui（CEO））；表内未跟进。",
+ "type": "ICT 服务/集成商（菲律宾）",
  "size": "",
  "brands_seen": [
   "TP-Link"
@@ -23,42 +23,61 @@
    "quote": "from: 阿里巴巴主动推送的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "iOne Resources 定位",
+   "quote": "iOne Resources, Inc | Solutions That Drive Progress ; Mission-Critical Operations Readiness ; Field Deployment & Technical Operations ; Managed ICT Services",
+   "url": "https://ioneresources.net/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "阿里巴巴推送",
+   "quote": "from: 阿里巴巴主动推送的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Alberto Catangui",
+   "title": "CEO",
+   "email": "acatangui@ioneresources.net",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "菲律宾",
   "other": "官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "ICT 现场部署 / 托管服务 / 网络安全（菲律宾）"
  ],
  "channels": {
-  "role": "IT / 网络安全服务商（交换机为附带）",
+  "role": "ICT 服务/集成商（菲律宾）",
   "region": "菲律宾",
   "contact": "acatangui@ioneresources.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ioneresources.net/）",
-  "在售同口型交换品牌：TP-Link → 直接对位替换",
-  "官网公开邮箱：sales@ioneresources.net",
-  "用户表兴趣/备注：from: 阿里巴巴主动推送的"
+  "首页 Mission-Critical Operations Readiness ; Field Deployment & Technical Operations ; Managed ICT Services ; Cybersecurity & Compliance；kw tp-link 14",
+  "表内：from: 阿里巴巴主动推送的；KP Alberto Catangui, CEO"
  ],
  "risks": [
-  "主业为 IT/网络安全服务：交换机只是附带采购，低预期",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，菲律宾）；阿里巴巴推送来源（需求未确认）；TP-Link 价格基准低"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：IT / 网络安全服务商（交换机为附带）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Alberto, alongside the TP-Link lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alberto, for the access switches in your field deployments and managed-ICT sites, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count do your deployments standardise on alongside TP-Link?"
 }

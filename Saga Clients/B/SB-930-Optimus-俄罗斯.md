@@ -2,7 +2,7 @@
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-930`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 17 次（2024-06-12 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）（推断）　|　**历史关系**：推送 17 次（2024-06-12 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-930
@@ -12,7 +12,7 @@ score: 30
 country: 俄罗斯
 region: 俄语区
 website: optimus-cctv.ru
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）
 tier_tags: ["A优质名单(优质俄罗斯客户)", "AI评估(RU)", "群发(Russia)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「optimus-cctv.ru」；表内「SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的」；群发 17 次、无回复。（调研 2026-10-21；表内兴趣：SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的）
+- **是谁**：俄罗斯 Optimus（optimus-cctv.ru / red-dst.ru：CCTV 品牌，自有 logo 商用 PoE、PoE 配件、SFP 模块；表内「卖丰润达的」「商业 PoE CCTV 为主 很多配件」；KP Mokerova Alina（product manager）、Alla Kiyashkina（product manager））；群发 17 次无回复。（调研 2026-10-21；表内兴趣：SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 Optimus 标商用 PoE（现丰润达）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；SFP/PoE 配件 Saga 不供；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Optimus | 事实（用户表） |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | optimus-cctv.ru / red-dst.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达） | 推断（据兴趣/备注关键词） |
 | 联系人 | Mokerova Alina / product manager / Alla Kiyashkina / product manager / 有人卖他们的 | 事实（用户表） |
 | 来源（From） | CPSE<br>2023 / 谷歌 / 富通天下 | 事实（用户表） |
 | 兴趣（Interested in） | SFP module / 自己的logo 商业POE CCTV为主 很多配件 / 商业POE POE配件<br>主要是CCTV / 卖丰润达的 | 事实（用户表） |
@@ -65,30 +65,36 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（optimus-cctv.ru，快照 2026-10-21）
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「optimus-cctv.ru」；表内「SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的」；群发 17 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：俄罗斯 Optimus（optimus-cctv.ru / red-dst.ru：CCTV 品牌，自有 logo 商用 PoE、PoE 配件、SFP 模块；表内「卖丰润达的」「商业 PoE CCTV 为主 很多配件」；KP Mokerova Alina（product manager）、Alla Kiyashkina（product manager））；群发 17 次无回复。
+- **类型**：俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）
+- **在卖/在用品牌**：丰润达
 - **【官网快照】官网标题：optimus-cctv.ru**
   > 来源：https://optimus-cctv.ru/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】自己的 logo 商业 PoE；卖丰润达的**
+  > SFP module / 自己的logo 商业POE CCTV为主 很多配件 / 商业POE POE配件 主要是CCTV / 卖丰润达的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Mokerova Alina（）logist4@red-dst.ru 〔用户表〕
+- **KP**：Alla Kiyashkina（）logist23@red-dst.ru 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 俄罗斯 |
 | 其他 | 官网 optimus-cctv.ru，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 俄罗斯；contact: logist4@red-dst.ru、logist23@red-dst.ru
+- **业务线**：CCTV / PoE / 配件（自有品牌 Optimus）
+- **触达通道（公开）**：role: 俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）；region: 俄罗斯；contact: logist4@red-dst.ru、logist23@red-dst.ru
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://optimus-cctv.ru/）
-  - 用户表兴趣/备注：SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的
-- **风险/边界**：群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Mokerova, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 表内：SFP module / 自己的 logo 商业 PoE CCTV 为主 很多配件 / 商业 PoE PoE 配件 主要是 CCTV / 卖丰润达的；KP Mokerova Alina / product manager；Alla Kiyashkina / product manager
+  - 快照：optimus-cctv.ru 内容为空
+- **风险/边界**：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供丰润达（深圳）价格基准低；17 次无回复 → 改向 product manager 具名首触；官网快照空
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 Optimus 标商用 PoE（现丰润达）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；SFP/PoE 配件 Saga 不供
+- **邮件切入句（英文）**：Alina, for the Optimus-branded PoE switches bundled with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -142,8 +148,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mokerova Alina | — | logist4@red-dst.ru / logist23@red-dst.ru | 用户表原值 | Clients/ 表 |
-| Alla Kiyashkina | — | logist4@red-dst.ru / logist23@red-dst.ru | 用户表原值 | Clients/ 表 |
+| Mokerova Alina | — | logist4@red-dst.ru | 调研核实（公开页） | 用户表 |
+| Alla Kiyashkina | — | logist23@red-dst.ru | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -163,7 +169,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：自有 Optimus 标商用 PoE（现丰润达）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；SFP/PoE 配件 Saga 不供 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -216,7 +222,7 @@ updated: 2026-10-21
 ```text
 Hi Mokerova,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mokerova, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alina, for the Optimus-branded PoE switches bundled with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 丰润达 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

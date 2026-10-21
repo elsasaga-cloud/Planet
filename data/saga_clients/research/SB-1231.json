@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（pramoninisrysys.lt，快照 2026-10-21）",
- "summary": "意大利电商/网店：官网「Elseta online shop」（en-US）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：RS232、RS485、RS422、CT-1A；表内「Beijer sbjlink的工业FS」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "立陶宛 Elseta（pramoninisrysys.lt 为 Elseta 在线商店：面向配电网/公用事业智能电网数字化——Mini RTU、转换器、I/O 模块、软件；表内国别「意大利」有误（.lt 域名、Elseta 为立陶宛公司）；表内「Beijer sbjlink 的工业 FS」「质量一般」）；表内未跟进。",
+ "type": "智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Beijer",
+  "Westermo"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,20 @@
    "quote": "Beijer sbjlink的工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Elseta 定位",
+   "quote": "Elseta online shop ; Everything for DNO and Utilities smart Grid digitalization ; Digitalizing energy & Simplifying complexity ; Mini RTU",
+   "url": "https://shop.elseta.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Beijer 工业 FS",
+   "quote": "Beijer sbjlink的工业FS；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +46,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 pramoninisrysys.lt，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "智能电网 RTU / 转换器 / I/O（自有品牌 Elseta）"
  ],
  "channels": {
-  "role": "电商/网店",
-  "region": "意大利",
+  "role": "智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）",
+  "region": "立陶宛",
   "contact": "info@pramoninisrysys.lt"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://shop.elseta.com）",
-  "官网公开邮箱：austa@elseta.com、info@elseta.com",
-  "用户表兴趣/备注：Beijer sbjlink的工业FS"
+  "官网：Elseta online shop ; This is the place to buy Elseta products directly worldwide. Everything for DNO and Utilities smart Grid digitalization ; Mini RTU；页面 /shop/category/rtu-s-1、/shop/category/converters-4",
+  "表内：Beijer sbjlink 的工业 FS；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无",
+  "小国（立陶宛）；国别已更正（表内误填意大利）；Beijer/Westermo 价格基准高但品牌粘性强；表内「质量一般」"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?",
+ "country_fix": "立陶宛"
 }

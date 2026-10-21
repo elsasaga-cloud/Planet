@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（adj.it，快照 2026-10-21）",
- "summary": "意大利电商/网店：官网「ADJ」（it-IT）；品类词：网络交换 / PoE；站内型号：TA108、HD1080P；表内「商业POE」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "意大利 ADJ（意大利 IT/电子品牌：PC、笔记本、耳机、UPS、外设、扩展坞，39 欧免运费零售；表内「商业 PoE」「质量一般」）；表内未跟进。",
+ "type": "意大利 IT 消费/办公品牌（自有标，PoE 为边缘品类）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ADJ 定位",
+   "quote": "Home - ADJ ; ADJ un brand italiano dove trovare tutto per l’informatica e l’elettronica: pc, notebook, cuffie e non solo",
+   "url": "https://www.adj.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业POE；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,30 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 adj.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "IT / 消费电子品牌（ADJ）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "意大利 IT 消费/办公品牌（自有标，PoE 为边缘品类）",
   "region": "意大利",
   "contact": "info@adj.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.adj.it/）",
-  "官网公开邮箱：info@adj.it",
-  "用户表兴趣/备注：商业POE"
+  "官网：ADJ un brand italiano dove trovare tutto per l’informatica e l’elettronica: pc, notebook, cuffie e non solo；首页 SPEDIZIONE GRATUITA a partire da 39€ ; Gruppi di continuità；kw switch 6",
+  "表内：商业 PoE；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "消费/办公 IT 品牌（Saga 不做消费级；仅 SMB PoE 可对位）；表内「质量一般」；仅 info@，未跟进过"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?"
 }

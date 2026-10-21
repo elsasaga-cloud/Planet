@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nateks.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「НАТЕКС – отечественный разработчик」（ru-RU）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内型号：NX-5124-G、QSFP28、STM16、STM64；表内「工业FS SFP 很多周边产品 自己的牌子」；群发 18 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 НАТЕКС Nateks（「отечественный разработчик」俄本土通信设备研发制造商：35+ 年、40+ 国、300+ 伙伴、200 万台；SFP/10G/STM、IEC 61850、NX-5124-G 交换机；表内「工业 FS SFP 很多周边产品 自己的牌子」）；群发 18 次无回复。",
+ "type": "俄罗斯本土通信设备研发制造商（同行/国产替代导向）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,53 @@
    "quote": "工业FS SFP 很多周边产品 自己的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Nateks 定位",
+   "quote": "НАТЕКС – отечественный разработчик ; Производитель и поставщик современного оборудования связи ; 35+ на рынке ; 2 млн единиц",
+   "url": "https://www.nateks.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS SFP 自己的牌子",
+   "quote": "工业FS　SFP　很多周边产品 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行/俄国产替代厂商：Nateks 自研自产（国产替代定位），非渠道客户；c_sub=同行/专营俄产",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 nateks.ru，语言 ru-RU，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "通信设备研发制造（俄罗斯，自有品牌）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯本土通信设备研发制造商（同行/国产替代导向）",
   "region": "俄罗斯",
   "contact": "info@nateks.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.nateks.ru/）",
-  "官网公开邮箱：info@nateks.ru",
-  "用户表兴趣/备注：工业FS SFP 很多周边产品 自己的牌子"
+  "官网：НАТЕКС – отечественный разработчик ; 35+ на рынке ; 40+ стран применения ; 300+ партнеров ; 2 млн единиц ; Производитель и поставщик современного оборудования связи；站内 NX-5124-G / IEC61850；kw sfp 114 / ethernet 52 / 10g 28",
+  "表内：工业 FS SFP 很多周边产品 自己的牌子"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "同行/俄国产替代：Nateks 自研自产通信设备（「отечественный разработчик」），非 ODM 采购方；俄罗斯合规风险；18 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": null,
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "俄本土研发制造商（国产替代定位，自研交换机线），非 ODM 采购对象 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：同行/俄国产替代）"
 }

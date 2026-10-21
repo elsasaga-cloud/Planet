@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hightrade-international.com，快照 2026-10-21）",
- "summary": "法国分销商/经销商：官网「High'Trade International」（fr-FR）；品类词：工业自动化 / OT 网络；表内「40个 24口POE交换机 distributor」；表内未见跟进记录。",
- "type": "分销商/经销商",
+ "summary": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
+ "type": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,62 @@
    "quote": "40个 24口POE交换机 distributor",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "High’Trade 定位",
+   "quote": "Home - High’Trade International ; We provide the world industry from Hong Kong, Taiwan and China Mainland. ; Cost saving ; Logistics ; Distribution ; R&D",
+   "url": "https://www.hightrade-international.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "40 个 24 口 PoE 交换机 询盘",
+   "quote": "40个 24口POE交换机 distributor",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Thomas Lemaire",
+   "title": "（职务待核）",
+   "email": "thomas.lemaire@hightrade-international.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "法国",
   "other": "官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "跨境采购 / 分销中介（港台中国大陆 → 法国/欧洲）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
   "region": "法国",
   "contact": "thomas.lemaire@hightrade-international.com、info@hightrade-international.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.hightrade-international.com/）",
-  "用户表兴趣/备注：40个 24口POE交换机 distributor"
+  "首页 We provide the world industry from Hong Kong, Taiwan and China Mainland. ; Cost saving ; Logistics ; Distribution ; R&D ; Added-value services ; Green energy；kw distributor 9 / industrial 8",
+  "表内：40 个 24 口 PoE 交换机 distributor；KP Thomas Lemaireh（thomas.lemaire@）"
  ],
- "risks": [],
+ "risks": [
+  "采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）",
+  "仅信息型联系人（职务待核）"
+ ],
  "saga_fit": {
   "p1": "STC-424DGGPM-280W",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）"
  },
- "email_hook": "Thomas, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?"
 }

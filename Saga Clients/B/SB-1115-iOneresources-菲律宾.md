@@ -2,7 +2,7 @@
 
 > **评级 B**　|　菲律宾　|　档案编号 `SB-1115`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：IT / 网络安全服务商（交换机为附带）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：ICT 服务/集成商（菲律宾）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1115
@@ -12,7 +12,7 @@ score: 26
 country: 菲律宾
 region: 亚太
 website: ioneresources.net
-type: IT / 网络安全服务商（交换机为附带）
+type: ICT 服务/集成商（菲律宾）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：菲律宾IT / 网络安全服务商（交换机为附带）：官网「iOne Resources, Inc | Solutions That Drive Progress」（en-US）；品类词：网络交换 / PoE；站内品牌：TP-Link；站内型号：NLE2025；表内「from: 阿里巴巴主动推送的」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：菲律宾 iOne Resources, Inc.（「Solutions That Drive Progress」关键任务运营就绪：现场部署与技术运营、托管 ICT 服务、网络安全合规；TP-Link；表内「from: 阿里巴巴主动推送的」；KP Alberto Catangui（CEO））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：IT / 网络安全服务商（交换机为附带）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | iOneresources | 事实（用户表） |
 | 国家 | 菲律宾 | 事实（用户表）|
 | 网站/域名 | ioneresources.net | 事实（用户表 URL/邮箱域名） |
-| 类型 | IT / 网络安全服务商（交换机为附带） | 推断（据兴趣/备注关键词） |
+| 类型 | ICT 服务/集成商（菲律宾） | 推断（据兴趣/备注关键词） |
 | 联系人 | Alberto Catangui, CEO | 事实（用户表） |
 | 来源（From） | 2024.8.13 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ioneresources.net，快照 2026-10-21）
-- **是谁**：菲律宾IT / 网络安全服务商（交换机为附带）：官网「iOne Resources, Inc | Solutions That Drive Progress」（en-US）；品类词：网络交换 / PoE；站内品牌：TP-Link；站内型号：NLE2025；表内「from: 阿里巴巴主动推送的」；表内未见跟进记录。
-- **类型**：IT / 网络安全服务商（交换机为附带）
+- **是谁**：菲律宾 iOne Resources, Inc.（「Solutions That Drive Progress」关键任务运营就绪：现场部署与技术运营、托管 ICT 服务、网络安全合规；TP-Link；表内「from: 阿里巴巴主动推送的」；KP Alberto Catangui（CEO））；表内未跟进。
+- **类型**：ICT 服务/集成商（菲律宾）
 - **在卖/在用品牌**：TP-Link
 - **【官网快照】官网标题：iOne Resources, Inc | Solutions That Drive Progress；品类词 网络交换 / PoE**
   > Mission-Critical Operations Readiness；Our Services；Solutions that Drive Progress；Our Lifecycle of Technology Operations；Field Deployment & Technical Operations；Managed ICT Services
@@ -64,25 +64,30 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > from: 阿里巴巴主动推送的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】iOne Resources 定位**
+  > iOne Resources, Inc | Solutions That Drive Progress ; Mission-Critical Operations Readiness ; Field Deployment & Technical Operations ; Managed ICT Services
+  > 来源：https://ioneresources.net/（抓取 2026-10-21）
+- **【用户表】阿里巴巴推送**
+  > from: 阿里巴巴主动推送的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Alberto Catangui（）acatangui@ioneresources.net 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 菲律宾 |
 | 其他 | 官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：网络交换 / PoE
-- **触达通道（公开）**：role: IT / 网络安全服务商（交换机为附带）；region: 菲律宾；contact: acatangui@ioneresources.net
+- **业务线**：ICT 现场部署 / 托管服务 / 网络安全（菲律宾）
+- **触达通道（公开）**：role: ICT 服务/集成商（菲律宾）；region: 菲律宾；contact: acatangui@ioneresources.net
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://ioneresources.net/）
-  - 在售同口型交换品牌：TP-Link → 直接对位替换
-  - 官网公开邮箱：sales@ioneresources.net
-  - 用户表兴趣/备注：from: 阿里巴巴主动推送的
-- **风险/边界**：主业为 IT/网络安全服务：交换机只是附带采购，低预期；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：IT / 网络安全服务商（交换机为附带）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alberto, alongside the TP-Link lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 首页 Mission-Critical Operations Readiness ; Field Deployment & Technical Operations ; Managed ICT Services ; Cybersecurity & Compliance；kw tp-link 14
+  - 表内：from: 阿里巴巴主动推送的；KP Alberto Catangui, CEO
+- **风险/边界**：非主攻区（T5，菲律宾）；阿里巴巴推送来源（需求未确认）；TP-Link 价格基准低
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）
+- **邮件切入句（英文）**：Alberto, for the access switches in your field deployments and managed-ICT sites, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count do your deployments standardise on alongside TP-Link?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -120,7 +125,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alberto Catangui, CEO | — | acatangui@ioneresources.net / +6326383988 | 用户表原值 | Clients/ 表 |
+| Alberto Catangui | — | acatangui@ioneresources.net | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -136,7 +141,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：IT / 网络安全服务商（交换机为附带）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（IT / 网络安全服务商（交换机为附带）） |
+| **P1** | STC-28DGGPM | 深挖对位：现场部署/托管 ICT 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（ICT 服务/集成商（菲律宾）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -190,7 +195,7 @@ updated: 2026-10-21
 ```text
 Hi Alberto,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alberto, alongside the TP-Link lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alberto, for the access switches in your field deployments and managed-ICT sites, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count do your deployments standardise on alongside TP-Link?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

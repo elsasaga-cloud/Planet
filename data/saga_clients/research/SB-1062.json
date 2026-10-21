@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（comptek.kz，快照 2026-10-21）",
- "summary": "哈萨克斯坦分销商/批发商：官网「CompTek CA | Дистрибьютор сетевого и телекоммуникационного оборудования」（ru）；站内品牌：Cisco、Ubiquiti；表内「PoE Splitter / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "分销商/批发商",
+ "summary": "哈萨克斯坦 CompTek CA（网络与电信设备分销商：Cisco、Dell EMC、Ubiquiti、Avaya、F5，服务器/数据中心/网络安全；表内备注「PoE Splitter / from: 阿里巴巴 RFQ」；KP Faim Ahmetzjnov；邮箱 mail.ru）；表内未跟进。",
+ "type": "IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）",
  "size": "",
  "brands_seen": [
   "Cisco",
@@ -24,41 +24,61 @@
    "quote": "PoE Splitter / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "CompTek 定位",
+   "quote": "CompTek CA | Дистрибьютор сетевого и телекоммуникационного оборудования ; Cisco, Dell EMC, Ubiquiti, Avaya, F5, WiFi, VoIP и IT-инфраструктура",
+   "url": "https://comptek.kz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE Splitter 阿里 RFQ",
+   "quote": "PoE Splitter / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Faim Ahmetzjnov",
+   "title": "（职务待核）",
+   "email": "comtek@mail.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "哈萨克斯坦",
   "other": "官网 comptek.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络 / 电信 / 数据中心设备分销（哈萨克斯坦）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）",
   "region": "哈萨克斯坦",
   "contact": "comtek@mail.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://comptek.kz/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：sales@comptek.kz",
-  "用户表兴趣/备注：PoE Splitter / from: 阿里巴巴RFQ"
+  "官网：CompTek CA — поставщик телекоммуникационного и сетевого оборудования в Казахстане. Cisco, Dell EMC, Ubiquiti, Avaya, F5；首页 Серверы и ЦОД ; Кибербезопасность ; 20+",
+  "表内：PoE Splitter / from: 阿里巴巴 RFQ；KP Faim Ahmetzjnov"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "RFQ 品类（PoE 分离器）Saga 不供；非主攻区（T5，哈萨克斯坦）；联系邮箱为 mail.ru 免费邮箱；品牌分销导向（Cisco/Ubiquiti）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "RFQ 为 PoE 分离器（Saga 不供，Q-32）→ 转推配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
  },
- "email_hook": "Faim, alongside the Cisco / Ubiquiti lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Faim, following your PoE-splitter enquiry: we do not carry splitters, but we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches (90 W PoE++ options) from small lots, CE/RoHS, EXW USD — is there a PoE switch position in the same project we could quote?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（andasis.com，快照 2026-10-21）",
- "summary": "土耳其工业自动化/IoT 方案商：官网「Andasis | Network Access Controller Ethernet Switches | Routers」（en）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；表内「MC FS」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "土耳其 Andasis（嵌入式电子系统方案商：国防、汽车、工业、电信通信——网络接入控制器、以太网交换机、路由器「IN-HOUSE TECHNOLOGY」；表内「MC FS」「别人在卖他们的产品」）；表内未跟进。",
+ "type": "国防导向嵌入式/网络设备自研商（守界 + 同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,53 @@
    "quote": "MC FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Andasis 定位",
+   "quote": "Andasis | Network Access Controller Ethernet Switches | Routers ; embedded electronic system solutions specializing in communication for the Defence, Automotive, Industry, and Telecommunication sectors",
+   "url": "https://andasis.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS",
+   "quote": "MC FS；别人在卖他们的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "守界/同行：Andasis 国防导向、自研交换机与路由器；c_sub=守界（军工/国防）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 andasis.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "嵌入式通信系统（国防 / 汽车 / 工业 / 电信）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "国防导向嵌入式/网络设备自研商（守界 + 同行）",
   "region": "土耳其",
   "contact": "info@andasis.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://andasis.com/）",
-  "官网公开邮箱：info@andasis.com、info@pavo-group.com",
-  "用户表兴趣/备注：MC FS"
+  "官网：Andasis is a leading provider of embedded electronic system solutions specializing in communication for the Defence, Automotive, Industry, and Telecommunication sectors；首页 IN-HOUSE TECHNOLOGY IN COMMUNICATION",
+  "表内：MC FS；别人在卖他们的产品"
  ],
- "risks": [],
+ "risks": [
+  "守界：Andasis 以国防为首要领域（Defence, Automotive, Industry, Telecommunication），自研以太网交换机/路由器（同行）"
+ ],
  "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "国防为首要领域、自研交换机/路由器（同行）→ 改 C（守界）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "（不发送：守界/同行）"
 }
