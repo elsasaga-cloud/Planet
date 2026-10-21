@@ -1,12 +1,12 @@
 {
-  "crawled_at": "2026-10-21T01:47:22Z",
+  "crawled_at": "2026-10-21T02:30:19Z",
   "host": "www.smartbyte-switch.com",
-  "complete": false,
-  "blocked": true,
+  "complete": true,
+  "blocked": false,
   "access": {
-    "mode": "blocked",
-    "profile": null,
-    "base": null
+    "mode": "requests",
+    "profile": "archiver",
+    "base": "https://www.smartbyte-switch.com/"
   },
   "refused": {
     "pages": 0,
@@ -24,7 +24,7 @@
     "https://www.smartbyte-switch.com/Unmanaged-Industrial-Switch",
     "https://www.smartbyte-switch.com/Industrial-Boost-Power-Adaptor"
   ],
-  "pages_stop": "blocked (seed refused under every profile; see access_diag.json)",
+  "pages_stop": "complete (queue empty)",
   "queue_left": 0,
   "downloads_total": 245,
   "downloads_ok": 245,
@@ -33,11 +33,11 @@
   "downloads_bytes": 83004809,
   "pdfs_committed": true,
   "pdf_text_files": 245,
-  "images_total": 900,
-  "images_ok": 900,
-  "images_left": 593,
-  "images_stop": "blocked (593 left) → resume later",
-  "images_bytes_this_run": 0,
+  "images_total": 1493,
+  "images_ok": 1493,
+  "images_left": 0,
+  "images_stop": "complete",
+  "images_bytes_this_run": 89141474,
   "external_hosts": {
     "cdn-hk.wds168.cn": 1,
     "gcdn.meidianbang.cn": 347,
@@ -115,11 +115,27 @@
       "pages_stop": "blocked (seed refused under every profile; see access_diag.json)",
       "downloads_stop": "complete",
       "images_stop": "blocked (593 left) → resume later"
+    },
+    {
+      "run": "8",
+      "started": "2026-10-21T02:24:04Z",
+      "resumed": true,
+      "budget_min": 140.0,
+      "max_pages": 1500,
+      "delay_s": 0.8,
+      "ended": "2026-10-21T02:30:19Z",
+      "elapsed_s": 376,
+      "pages_new": 0,
+      "downloads_new": 0,
+      "images_new": 593,
+      "pages_stop": "complete (queue empty)",
+      "downloads_stop": "complete",
+      "images_stop": "complete"
     }
   ],
-  "elapsed_s": 83,
+  "elapsed_s": 376,
   "user_agent": "Mozilla/5.0 (compatible; SagaTelecom-site-archiver/1.0; +https://sagatele.com)",
   "delay_s": 0.8,
   "time_budget_min": 140.0,
-  "how_to_continue": "被封：站点对 GitHub Actions 运行器的所有访问方式都返回拒绝（access_diag.json 有状态码 / 响应头 / 正文片段）。办法：① 过几小时再到 Actions 页点 Run workflow（可能是运行 #1 长时间抓取触发的临时封禁）；② 在本地电脑运行 python scripts/smartbyte_crawl/crawl.py data/smartbyte_site_raw crawl_bin 后提交；③ 请 SmartByte 放行归档 UA / 运行器 IP。"
+  "how_to_continue": null
 }

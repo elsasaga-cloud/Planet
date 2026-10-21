@@ -187,3 +187,20 @@ requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(68
 [01:47:22] pdftotext: 245
 [01:47:22] downloads total 83.0 MB → committed to git: True
 [01:47:22] images stop: blocked (593 left) → resume later; ok 900/900 (+0 this run), 0.0 MB this run
+===== run 8 =====
+[02:24:04] synced checkout 52848be → branch tip 287d61e (arena/3f35b9b3-planet)
+[02:24:04] run 8 start; resume=True; budget 140.0 min; max_pages 1500; delay 0.8s
+[02:24:06] probe archiver https://www.smartbyte-switch.com/ → 200
+[02:24:06] access mode = requests (archiver) base https://www.smartbyte-switch.com/
+[02:24:06] resume: pages_done=350 queue=0 (retry 0) downloads=245 images=1493
+[02:24:06] BFS stop: complete (queue empty); pages=350 (+0) downloads=245 images=1493
+[02:24:13] cdn images harvested from archived html: +0 (images total 1493)
+[02:24:13] downloads stop: complete; ok 245/245 (+0 this run), 83.0 MB
+[02:24:13] pdftotext: 245
+[02:24:13] downloads total 83.0 MB → committed to git: True
+[02:25:15] images 100/593 15 MB elapsed 1.2 min
+[02:26:16] images 200/593 31 MB elapsed 2.2 min
+[02:27:16] images 300/593 46 MB elapsed 3.2 min
+[02:28:17] images 400/593 61 MB elapsed 4.2 min
+[02:29:20] images 500/593 75 MB elapsed 5.3 min
+[02:30:19] images stop: complete; ok 1493/1493 (+593 this run), 89.1 MB this run
