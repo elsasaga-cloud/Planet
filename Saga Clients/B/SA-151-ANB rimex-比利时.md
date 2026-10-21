@@ -1,5 +1,5 @@
 # ANB rimex
-**官方名称（调研核实）**：ANB Rimex（比利时）
+**官方名称（调研核实）**：A.N.B. Rimex SA（AnB-Rimex，Herstal/Liège, BE；anb-rimex.be；BE 0424.592.259）
 
 > **评级 B**　|　比利时　|　档案编号 `SA-151`　|　优先级 ★★　|　状态：已推送 6 次·未回复
 >
@@ -10,7 +10,7 @@ code: SA-151
 rating: B
 rating_auto: A
 rating_research: B  # 核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。
-name_official: "ANB Rimex（比利时）"
+name_official: "A.N.B. Rimex SA（AnB-Rimex，Herstal/Liège, BE；anb-rimex.be；BE 0424.592.259）"
 score: 60
 country: 比利时
 region: 欧洲
@@ -22,7 +22,7 @@ replies: 0
 followups: 6
 first_contact: 2025-03-20
 last_contact: 2025-10-08
-p1: STC-424DGGPM-280W
+p1: STI-144GP
 price_tier: 20%
 research: done
 sources: 2
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：比利时公司，展会交流：需求 IP67 网口、小体积、PoE 为主；取了很多同行彩页；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：IP67网口 小体积 PoE为主 拿了很多同行的彩页）
+- **是谁**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。（调研 2026-10-21；表内兴趣：IP67网口 小体积 PoE为主 拿了很多同行的彩页）
 - **为什么是 B 级**：**调研后定级 B**（核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,17 +66,51 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：比利时公司，展会交流：需求 IP67 网口、小体积、PoE 为主；取了很多同行彩页；6 次跟进 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线（含 eShop）
+- **是谁**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。
 - **类型**：集成/经销商
 - **规模**：待补证
+- **在卖/在用品牌**：TriCom（自有品牌）
 - **【用户记录】IP67 网口、小体积 PoE；拿了很多同行彩页；0 回复 / 6 次**
   > IP67网口 小体积 PoE为主 拿了很多同行的彩页；32 496 34 18 97（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【登记】法人、成立、规模**
+  > A.N.B. RIMEX (SA) … Established 26-07-1983 … Company size Medium-sized 12,7 FTE … Legal form Société anonyme (SA)
+  > 来源：https://www.companyweb.be/en/0424592259/a-n-b-rimex（抓取 2026-10-21）
+- **【Facebook】业务定位**
+  > Belgian developper, producer and integrator of Alarm and Home Automation systems. Distributor of CCTV, Access Control and Fire Detection products
+  > 来源：https://www.facebook.com/AnBRimex1981/（抓取 2025-12-26）
+- **【官网】INCERT CCTV 分销商与自研主机**
+  > 2018: AnB-Rimex est le PREMIER distributeur agréé INCERT CCTV 2019: TriCom, la nouvelle pièce maîtresse d'AnB-Rimex est présentée.
+  > 来源：https://anb-rimex.be/fr/a-propos-de-nous/histoire/（抓取 2026-10-21）
+- **【官网】联系方式**
+  > AnB-Rimex SA rue de l'Abbaye 89 Parc industriel des Hauts Sarts 4040 Herstal België +32 (0)4 229 37 97 info@anb-rimex.be
+  > 来源：https://anb-rimex.be/nl-be/eshop（抓取 2026-10-21）
+- **【用户表】IP67、小体积、PoE 为主；6 次推送 0 回复**
+  > IP67网口 小体积 PoE为主 拿了很多同行的彩页
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +32 496 34 18 97 / +32 4229 3797〔用户 Clients 表〕
+- **KP**：Ibrahim Tiryaki（Product Manager CCTV（用户表））it@anb-rimex.be（用户表） +32 496 34 18 97（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。
 - 备注：只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | A.N.B. Rimex SA（BE 0424.592.259） |
+| 成立 | 1983-07-26 |
+| 总部/地址 | Rue de l'Abbaye 89, Parc industriel des Hauts Sarts, 4040 Herstal, Belgium（+32 4 229 37 97；info@anb-rimex.be） |
+| 其他 | 自研报警/家庭自动化（TriCom）；INCERT 认证 CCTV 分销商（2018）；eShop + Academy |
+
+- **业务线**：报警与家庭自动化系统自研/生产（TriCom、TriCare）；CCTV / 门禁 / 可视对讲 / 火灾探测分销（守界：火灾主系统不供）；安装商培训 Academy 与 eShop
+- **触达通道（公开）**：网站: https://anb-rimex.be/；eShop: https://anb-rimex.be/nl-be/eshop；电话: +32 4 229 37 97（公开）；邮箱（公开）: info@anb-rimex.be
+- **近况信号**：
+  - 自有品牌（TriCom）+ eShop 分销 → 小体积 PoE 交换机可作 AnB 标配件进 eShop
+  - INCERT 认证渠道 → 对 CE/RoHS 文件要求明确
+- **风险/边界**：IP67 需求 Saga 不满足；6 次推送 0 回复
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱
+- **邮件切入句（英文）**：Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -108,6 +142,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ibrahim Tiryaki | Product Manager CCTV（用户表） | it@anb-rimex.be（用户表） / +32 496 34 18 97（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Lbrahim Tiryaki | — | it@anb-rimex.be / +32496341897 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -125,7 +160,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（集成/经销商） |
+| **P1** | STI-144GP | 深挖对位：分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（集成/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -134,9 +169,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -146,7 +181,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -174,14 +209,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
-Hi Lbrahim,
+Hi Ibrahim,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

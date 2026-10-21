@@ -1,5 +1,5 @@
 # Gmka
-**官方名称（调研核实）**：Gmka（希腊）
+**官方名称（调研核实）**：GEMKA – Karydis Bros O.E.（ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.，Egaleo/Athens, GR；gmka.gr）
 
 > **评级 B**　|　希腊　|　档案编号 `SA-155`　|　优先级 ★★　|　状态：已推送 6 次·未回复
 >
@@ -10,7 +10,7 @@ code: SA-155
 rating: B
 rating_auto: A
 rating_research: B  # 需求偶发、无回复 → 慢跟。
-name_official: "Gmka（希腊）"
+name_official: "GEMKA – Karydis Bros O.E.（ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.，Egaleo/Athens, GR；gmka.gr）"
 score: 60
 country: 希腊
 region: 欧洲
@@ -22,7 +22,7 @@ replies: 0
 followups: 6
 first_contact: 2025-03-20
 last_contact: 2025-10-08
-p1: STC-424DGGPM-280W
+p1: STI-144GP
 price_tier: 20%
 research: done
 sources: 2
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：希腊公司，偶尔用到交换机，索要目录；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：有时候会用到switch 让发catalog）
+- **是谁**：雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。（调研 2026-10-21；表内兴趣：有时候会用到switch 让发catalog）
 - **为什么是 B 级**：**调研后定级 B**（需求偶发、无回复 → 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,17 +66,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：希腊公司，偶尔用到交换机，索要目录；6 次跟进 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线（含 e-shop）
+- **是谁**：雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。
 - **类型**：集成/经销商
 - **规模**：待补证
+- **在卖/在用品牌**：Salto, CDVI, Silca
 - **【用户记录】有时候会用到 switch，让发 catalog；0 回复 / 6 次**
   > 有时候会用到switch 让发catalog；30 6947205247（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】业务与历史**
+  > H εταιρεία GEMKA – KARYDIS είναι μια πολυετής οικογενειακή επιχείρηση με έτος ίδρυσης το 1928 … Το 2009 η εταιρεία μετεγκαταστάθηκε σε νέα έδρα στην περιοχή του Ελαιώνα στο Αιγάλεω … Salto, Silca, Cisa … CDVI, Mul-T-Lock
+  > 来源：https://www.gmka.gr/el/06?scLang=el（抓取 2026-10-21）
+- **【LinkedIn】规模与客户**
+  > GEMKA – KARYDIS is a distribution and wholesales company of keys, key cutting machines, safes and locking systems … Their customers are locksmiths, door manufacturers, architecture offices, public and government buildings … Company size: 2-10 employees Headquarters: Egaleo, Athens … Founded: 1928
+  > 来源：https://gr.linkedin.com/company/gemka---karydis-oe（抓取 2026-10-21）
+- **【厂商名录】地址与邮箱**
+  > Karydis Bros OE GEMKA Agiou Panteleimonos 8, Athens Atiki Greece, Greece 12241 Phone : 0030 210 3243 000 Email : m.karydis@gmka.gr Website : http://gmka.gr
+  > 来源：https://www.lockdecoders.com/distributors_list.asp?func=1&c=Greece（抓取 2026-10-21）
+- **【用户表】偶尔用到 switch，索要目录；6 次推送 0 回复**
+  > 有时候会用到switch 让发catalog
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +30 694 720 5247〔用户 Clients 表〕
+- **KP**：Christos Karydis（GM（用户表））info@gmka.gr（用户表） +30 694 720 5247（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——需求偶发、无回复 → 慢跟。
 - 备注：季度触达一次。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros OE） |
+| 成立 | 1928 |
+| 总部/地址 | Αγ. Παντελεήμονος 8, 122 41 Αιγάλεω (Egaleo), Athens, Greece（+30 210 3243 000） |
+| 其他 | 钥匙/锁具/保险箱/门禁批发；Salto 等电子门禁；展厅 + 培训室 |
+
+- **业务线**：钥匙、开齿机、锁芯、保险箱批发；电子门禁（Salto、CDVI）与主钥匙系统
+- **触达通道（公开）**：网站: https://www.gmka.gr/；电话: +30 210 3243 000（公开）；邮箱（公开）: info@gmka.gr；m.karydis@gmka.gr（厂商分销名录公开）
+- **近况信号**：
+  - 电子门禁（Salto/CDVI）联网项目偶需 PoE 交换机 → 小口数 PoE 配套
+- **风险/边界**：主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复
+- **Saga 对位结论**：P1 STI-144GP（20% 档）——批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次
+- **邮件切入句（英文）**：Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -107,7 +137,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Christos Karydis | — | info@gmka.gr / +306947205247 | 用户表原值 | Clients/ 表 |
+| Christos Karydis | GM（用户表） | info@gmka.gr（用户表） / +30 694 720 5247（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -124,7 +154,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（集成/经销商） |
+| **P1** | STI-144GP | 深挖对位：批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次 | $34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（集成/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -133,9 +163,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -145,7 +175,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-144GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -173,14 +203,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
 Hi Christos,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

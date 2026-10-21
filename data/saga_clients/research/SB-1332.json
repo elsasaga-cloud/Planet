@@ -1,0 +1,51 @@
+{
+ "code": "SB-1332",
+ "name_official": "（未具名 · 西班牙 · Spain 2.9 总表 No.41）",
+ "researched_at": "2026-10-21",
+ "website_status": "无身份信息",
+ "summary": "身份待核：《Clients/A/DONE/Spain 2.9.xlsx》总表第 42 行（No.41）公司/联系人/邮箱全部为空，但跟进表挂有 12 条 WhatsApp 记录（2023-12-25 发商业 PoE 价格册，对方回复「问了一个别的东西」；之后发 2 光 4、工业 MC 等资料至 2024-11-18 无回复）。无任何联系方式可用——需 Simon 在原表或 WhatsApp 对话中核对该 No.41 对应的公司（可能是上方 No.38 Visiotech 的合并单元格溢出行，或已被清空的客户行）。按「有实质回复托底 B」保留 B，但在身份核实前不可跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "总表空行但有 12 条跟进",
+   "quote": "2023.12.25 发了商业POE价格册 → 回复：问了一个别的东西（Whatsapp）；2024.1.23 发了2光4相关信息；2024.2.25 发了工业MC系列信息 …（共 12 条，至 2024-11-18）",
+   "url": "（本地 Clients/A/DONE/Spain 2.9.xlsx 总表第 42 行 + 跟进表，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 待 Simon 核对：Spain 2.9 总表 No.41 的真实公司与 WhatsApp 号码；核实后用 人工归并.csv 并入对应实体或补充联系方式。",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（身份待核）"
+ },
+ "company_facts": {
+  "legal_name": "待核",
+  "hq": "西班牙（表格国家列）",
+  "size": "待核",
+  "other": "来源行：Clients/A/DONE/Spain 2.9.xlsx#总表:42（No.41）"
+ },
+ "business_lines": [
+  "待核"
+ ],
+ "channels": {
+  "WhatsApp": "跟进表记录为 WhatsApp，但号码未登记在总表"
+ },
+ "signals": [
+  "曾对商业 PoE 价格册作出回复（内容「问了一个别的东西」）"
+ ],
+ "risks": [
+  "无身份、无联系方式；可能是合并单元格造成的孤儿跟进行"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "身份核实前不推进"
+ },
+ "email_hook": "（无联系方式，不发送）"
+}

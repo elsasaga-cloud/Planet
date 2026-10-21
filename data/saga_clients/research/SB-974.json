@@ -1,0 +1,106 @@
+{
+ "code": "SB-974",
+ "name_official": "Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（İstanbul Ümraniye, TR；egemenelektronik.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（含交换机品类页与价目表）",
+ "summary": "伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Uniview（官方分销）",
+  "Hikvision（Platinum）",
+  "Ajax",
+  "Dahua",
+  "Netgear"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法人、地址、联系方式",
+   "quote": "Egemen Elektronik Güvenlik Bilgisayar Sis. San. ve Tic. Ltd. Şti. - Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 EGEMEN PLAZA ÜMRANİYE / İSTANBUL 0216 611 61 00 … satis@egemenelektronik.com … Vergi Numarası : 325 056 57 50",
+   "url": "https://www.egemenelektronik.com/tr/iletisim",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "成立与品牌",
+   "quote": "Egemen Elektronik … 2013 Temmuz Ayında Faaliyetine Başlamıştır … Şirketimiz HIKVISION , Haikon, HiLook , Ttec, Formrack, LigoWave, Netgear, Seagate, WD, Canavote, Dahua , Wisenet Samsung, Ajax , Westa, Decon Maxlogic & Mavigard markalarının dağıtıcısıdır.",
+   "url": "https://www.egemenelektronik.com/tr/hakkimizda",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "Uniview 官方分销与规模",
+   "quote": "Uniview Resmî Distribütör , Hikvision Platinum Dpp Partner , Ajax Kablosuz Alarm Sistemleri … Şirket büyüklüğü: 11 - 50 çalışan Genel Merkez: İSTANBUL, ÜMRANİYE … Kuruluş: 2013",
+   "url": "https://tr.linkedin.com/company/egemenelektronik",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "成立日期与增长",
+   "quote": "Egemen Elektronik Guvenlik Bilgisayar Sistemleri San. was incorporated on July 25, 2013. 10 (2025) employees … reported a net sales revenue increase of 201.3% in 2023.",
+   "url": "https://www.emis.com/php/company-profile/TR/Egemen_Elektronik_Guvenlik_Bilgisayar_Sistemleri_San_Ve_Tic_Ltd_Sti_en_14288247.html",
+   "date": "2026-03-05"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE、CCTV、配件；WhatsApp 已加；2 次跟进",
+   "quote": "商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Belkız Çınar",
+   "role": "Co-Owner（用户表）",
+   "email": "satis@egemenelektronik.com",
+   "phone": "+90 532 605 7018（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Levent Pişman",
+   "role": "Co-Owner（用户表）",
+   "email": "satis@egemenelektronik.com",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（VKN 325 056 57 50 Alemdağ）",
+  "founded": "2013-07-25",
+  "hq": "Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 Egemen Plaza, 34771 Ümraniye / İstanbul（+90 216 611 61 00；satis@egemenelektronik.com）",
+  "size": "11–50（LinkedIn）/ 10（EMIS 2025）；2023 年净销售额 +201%",
+  "other": "Uniview 官方分销；Hikvision Platinum；Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear 分销；B2B 网店 egemendepo.com"
+ },
+ "business_lines": [
+  "CCTV / 门禁 / 报警 / 消防报警分销（多品牌）",
+  "网络配件与交换机（品类页）"
+ ],
+ "channels": {
+  "网站": "https://www.egemenelektronik.com/（交换机品类 /tr/kategori/switchler）",
+  "B2B 网店": "http://www.egemendepo.com/",
+  "电话": "+90 216 611 61 00（公开）",
+  "邮箱（公开）": "satis@egemenelektronik.com"
+ },
+ "signals": [
+  "多品牌 CCTV 分销商自设交换机品类 → 白牌/自有标 PoE 交换机进其价目表（配 Uniview/Hikvision）",
+  "高增长（2023 +201%）、自有大楼 → 有库存采购能力"
+ ],
+ "risks": [
+  "已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表"
+ },
+ "email_hook": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?"
+}

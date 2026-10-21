@@ -1,18 +1,43 @@
 {
  "code": "SA-138",
- "name_official": "Top Italia（意大利）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "意大利网络产品公司，现从 ONV 采购（质量满意、价格偏高），展会现场问 12 光 12 电、WiFi（Saga 不供）、芯片与电源，提问专业；之后 14 次推送 0 回复。",
+ "name_official": "Top Italia S.r.l.（Misterbianco/Catania, IT；topsicurezza.com · videostar.it；自有品牌 Videostar）",
+ "website_status": "在线",
+ "summary": "意大利西西里 Misterbianco（CT）的安防进口分销商 Top Italia S.r.l.（2004-06 成立；P.IVA 04592850871；进口视频监控/防盗/消防产品并以自有品牌 Videostar 分销；Secolink 意大利独家代理，Texecom/Teletek 防盗分销，Teletek/Kentec/Apollo/Argus 消防分销；总机 +39 095 471449）。展会（IFSEC UK 2023）记录：从 ONV 买、质量满意但价格有时觉得高；问多光口 12 光 12 电、WiFi（Saga 不供）、芯片与电源，比较专业；之后 14 次推送 0 回复（发往 info@）。加厚发现：官网公开商务总监 Alfredo Timpanaro 直邮与手机、进口负责人 Tommaso Daniele——改向具名 KP 发 ONV 对位报价。",
  "type": "经销/集成商",
  "size": "待补证",
  "brands_seen": [
-  "ONV（在采）"
+  "ONV（在采）",
+  "Videostar（自有品牌）",
+  "Secolink",
+  "Texecom",
+  "Teletek"
  ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "从 ONV 买、价格有时觉得高；问 12 光 12 电、芯片、电源；0 回复 / 14 次",
    "quote": "从ONV买，质量比较满意，但是价格有时觉得高 问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公开 KP 与联系方式",
+   "quote": "Direttore Commerciale alfredo.timpanaro@topsicurezza.com +39 328 3654214 Alfredo Timpanaro … Responsabile Import import@topsicurezza.com +39 095 471449 int. 222 Tommaso Daniele … TOP ITALIA S.R.L. Via Comunità Economica Europea, 41 95045 Misterbianco (CT) … Partita IVA: 04592850871",
+   "url": "https://www.videostar.it/it/chi-siamo.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "行业媒体",
+   "claim": "公司定位、自有品牌与代理",
+   "quote": "Nata nel giugno 2004, occupandosi sostanzialmente dell'importazione di sistemi di videosorveglianza e anti-intrusione … Oltre a distribuire i prodotti a marchio Videostar, Top Italia è agente esclusivo per l'Italia del marchio Secolink e distributore dei marchi Texecom e Teletek nel settore antintrusione, e distributore dei marchi Teletek, Kentec, Apollo e Argus Security nel settore antincendio.",
+   "url": "https://www.snewsonline.com/aziende/top-italia/",
+   "date": "2022-02-13"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在采 ONV；问 12 光 12 电；14 次推送 0 回复",
+   "quote": "从ONV买，质量比较满意，但是价格有时觉得高 问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -24,10 +49,65 @@
    "email": "",
    "phone": "+39 095 471449",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Alfredo Timpanaro",
+   "role": "Direttore Commerciale（官网公开）",
+   "email": "alfredo.timpanaro@topsicurezza.com（官网公开）",
+   "phone": "+39 328 3654214（官网公开）",
+   "source": "https://www.videostar.it/it/chi-siamo.html"
+  },
+  {
+   "name": "Tommaso Daniele",
+   "role": "Responsabile Import（官网公开）",
+   "email": "import@topsicurezza.com（官网公开）",
+   "phone": "+39 095 471449 int. 222",
+   "source": "https://www.videostar.it/it/chi-siamo.html"
+  },
+  {
+   "name": "Ing. Giovanni Girone",
+   "role": "Responsabile Tecnico（官网公开）",
+   "email": "ufficiotecnico@topsicurezza.com",
+   "phone": "—",
+   "source": "https://www.videostar.it/it/chi-siamo.html"
   }
  ],
- "grade_override": "B",
- "override_reason": "意大利主攻区 + ONV 在采（可替换）+ 专业提问本应 A，但展后 14 次推送 0 回复 → 降 B；回复即升 A。",
+ "grade_override": "A",
+ "override_reason": "A 三条件：① 可追溯需求——在采 ONV（Saga 直接可替代的同类中国品牌）且嫌价高，展会问 12 光 12 电/芯片/电源，提问专业；② 直接具名联系人——官网公开 Direttore Commerciale Alfredo Timpanaro（alfredo.timpanaro@topsicurezza.com）与 Responsabile Import Tommaso Daniele（import@）；③ 可赢规模——西西里进口商、自有品牌 Videostar（OEM 贴牌买家），非巨头。",
  "notes": "重启用电话（固话在册）+ 一封'ONV 对位表'：12 光 12 电机型（核价）+ Marvell 芯片/电源规格答复。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B→A 加厚 v1（官网核对 + 具名 KP）"
+ },
+ "company_facts": {
+  "legal_name": "Top Italia S.r.l.（P.IVA 04592850871）",
+  "founded": "2004-06",
+  "hq": "Via Comunità Economica Europea 41, 95045 Misterbianco (CT), Italy（+39 095 471 449；info@topsicurezza.com）",
+  "size": "中小型进口商（人数待核）",
+  "other": "自有品牌 Videostar；Secolink 独家；技术支持热线 039 5787 178（Cologno/Milano 侧）"
+ },
+ "business_lines": [
+  "视频监控进口分销（Videostar 自有品牌）",
+  "防盗（Secolink 独家代理、Texecom、Teletek）",
+  "消防（Teletek、Kentec、Apollo、Argus；守界：主系统不供）"
+ ],
+ "channels": {
+  "网站": "https://www.topsicurezza.com/ · https://www.videostar.it/",
+  "电话": "+39 095 471 449（公开）",
+  "邮箱（公开）": "info@topsicurezza.com / import@topsicurezza.com"
+ },
+ "signals": [
+  "在采 ONV + 嫌价高 = 标准替代场景：按 ONV 型号逐一对位（PoE 交换机、光纤收发器）给 Videostar 贴牌价",
+  "问 12 光 12 电 → 机架式 STC-4168XGGCM（16 SFP + 8 Combo）"
+ ],
+ "risks": [
+  "14 次推送 0 回复——全部发往 info@，未触达 KP；消防线守界"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档（Videostar 贴牌）：STC-28DGGPM（8 PoE+ 2 SFP 管理，$87.4）对位 ONV 8 口 PoE；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；多光口 STC-4168XGGCM（16 SFP + 8 Combo，$408.1）回应「12 光 12 电」"
+ },
+ "email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?"
 }

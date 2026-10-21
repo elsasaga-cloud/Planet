@@ -1,16 +1,48 @@
 {
  "code": "SA-155",
- "name_official": "Gmka（希腊）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "希腊公司，偶尔用到交换机，索要目录；6 次跟进 0 回复。",
+ "name_official": "GEMKA – Karydis Bros O.E.（ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.，Egaleo/Athens, GR；gmka.gr）",
+ "website_status": "在线（含 e-shop）",
+ "summary": "雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。",
  "type": "集成/经销商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Salto",
+  "CDVI",
+  "Silca"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "有时候会用到 switch，让发 catalog；0 回复 / 6 次",
    "quote": "有时候会用到switch 让发catalog；30 6947205247（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务与历史",
+   "quote": "H εταιρεία GEMKA – KARYDIS είναι μια πολυετής οικογενειακή επιχείρηση με έτος ίδρυσης το 1928 … Το 2009 η εταιρεία μετεγκαταστάθηκε σε νέα έδρα στην περιοχή του Ελαιώνα στο Αιγάλεω … Salto, Silca, Cisa … CDVI, Mul-T-Lock",
+   "url": "https://www.gmka.gr/el/06?scLang=el",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与客户",
+   "quote": "GEMKA – KARYDIS is a distribution and wholesales company of keys, key cutting machines, safes and locking systems … Their customers are locksmiths, door manufacturers, architecture offices, public and government buildings … Company size: 2-10 employees Headquarters: Egaleo, Athens … Founded: 1928",
+   "url": "https://gr.linkedin.com/company/gemka---karydis-oe",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "厂商名录",
+   "claim": "地址与邮箱",
+   "quote": "Karydis Bros OE GEMKA Agiou Panteleimonos 8, Athens Atiki Greece, Greece 12241 Phone : 0030 210 3243 000 Email : m.karydis@gmka.gr Website : http://gmka.gr",
+   "url": "https://www.lockdecoders.com/distributors_list.asp?func=1&c=Greece",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "偶尔用到 switch，索要目录；6 次推送 0 回复",
+   "quote": "有时候会用到switch 让发catalog",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,10 +54,49 @@
    "email": "",
    "phone": "+30 694 720 5247",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Christos Karydis",
+   "role": "GM（用户表）",
+   "email": "info@gmka.gr（用户表）",
+   "phone": "+30 694 720 5247（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "需求偶发、无回复 → 慢跟。",
  "notes": "季度触达一次。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "ΓΕΜΚΑ Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros OE）",
+  "founded": "1928",
+  "hq": "Αγ. Παντελεήμονος 8, 122 41 Αιγάλεω (Egaleo), Athens, Greece（+30 210 3243 000）",
+  "size": "2–10（LinkedIn）",
+  "other": "钥匙/锁具/保险箱/门禁批发；Salto 等电子门禁；展厅 + 培训室"
+ },
+ "business_lines": [
+  "钥匙、开齿机、锁芯、保险箱批发",
+  "电子门禁（Salto、CDVI）与主钥匙系统"
+ ],
+ "channels": {
+  "网站": "https://www.gmka.gr/",
+  "电话": "+30 210 3243 000（公开）",
+  "邮箱（公开）": "info@gmka.gr；m.karydis@gmka.gr（厂商分销名录公开）"
+ },
+ "signals": [
+  "电子门禁（Salto/CDVI）联网项目偶需 PoE 交换机 → 小口数 PoE 配套"
+ ],
+ "risks": [
+  "主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 20,
+  "why": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次"
+ },
+ "email_hook": "Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?"
 }

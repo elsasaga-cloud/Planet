@@ -1,16 +1,46 @@
 {
  "code": "SA-102",
- "name_official": "inthouse.eu（捷克）",
- "website_status": "未单独检索（仅用户记录 + 用户 AI 评估）",
- "summary": "捷克小型网络设备贸易/项目商，历史 RFQ 询过 PoE 设备（5 口/8 口 PoE），6 次跟进 0 回复；用户 AI 评估：早期 35% B，后期 10% C（核心业务未确认）。",
+ "name_official": "Inthouse Systems s.r.o.（Praha, CZ；inthouse.eu；IČO 05405947）",
+ "website_status": "在线",
+ "summary": "布拉格的楼宇自动化软件/网关小公司 Inthouse Systems s.r.o.（IČO 05405947；Grafická 769/9 Praha 5；2013 年起、创始人 Matej Snoha；约 4 人；产品：Inthouse App/Studio/Cloud + Inthouse Hub 云网关，用于 Siemens Climatix PLC（暖通/热泵设备）远程控制，面向 64 家设备制造商伙伴、14 国、1 万台连接设备）。阿里 RFQ：升压 5 口 PoE；联系人 Andrej Hraško；6 次跟进 0 回复。用户 AI 评估曾判 C（核心业务未确认）——核实为 OEM 伙伴型 IoT 方案商，PoE 小交换机属其配套件，保留 B。",
  "type": "小型贸易/项目商",
  "size": "微型（待补证）",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens Climatix（生态）"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "升压 5 口需求；历史 RFQ 询 PoE；AI 评估 35%B / 10%C",
    "quote": "升压5口；早期ai: 35% B 小型网络设备贸易商/项目商，曾通过RFQ询价PoE设备… max: 10% C 核心业务未确认（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品与规模指标",
+   "quote": "Inthouse Hub … cloud gateways with enhanced features. Each Hub can connect up to 9 PLCs to the cloud … 12 Years on the market 14 Cooperation with countries 64 Partners and producers 10000 Connected devices",
+   "url": "https://inthouse.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "应用商店",
+   "claim": "法人与地址",
+   "quote": "Inthouse Systems s.r.o. support@inthouse.eu 769/9 Grafická 150 00 Praha Czechia +420 722 476 554",
+   "url": "https://inthouse.eu/play",
+   "date": "2024-10-28"
+  },
+  {
+   "kind": "名录",
+   "claim": "创始与人数",
+   "quote": "Inthouse is an unfunded company based in Prague (Czech Republic), founded in 2013 by Matej Snoha. It operates as a Provider of a mobile app as a home automation controller … Employee Count 4 as on Aug 31, 2026",
+   "url": "https://tracxn.com/d/companies/inthouse/__K80qGgTTbJ67xQkZEi-0WGoIjFzEcgFMIutXYhcRTkg",
+   "date": "2026-09-18"
+  },
+  {
+   "kind": "用户表",
+   "claim": "阿里 RFQ 升压 5 口；6 次跟进 0 回复",
+   "quote": "升压5电口 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -27,5 +57,37 @@
  "grade_override": "B",
  "override_reason": "0 回复 / 6 次推送，核心业务未确认，用户 AI 评估亦为 B→C 区间；RFQ 历史说明需求曾真实 → 不降 C，B 慢跟。",
  "notes": "一次性邮件给 5 口/8 口 PoE（STI-244GP / STC-28DGGPM）价格即可。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Inthouse Systems s.r.o.（IČO 05405947）",
+  "founded": "2013",
+  "hq": "Grafická 769/9, 150 00 Praha 5, Czechia（+420 722 476 554；support@inthouse.eu）",
+  "size": "4 人（Tracxn 2026-08）",
+  "other": "Siemens Climatix PLC 云网关与 App；64 伙伴/制造商；白标 App"
+ },
+ "business_lines": [
+  "Inthouse Hub 云网关 + App（Siemens Climatix PLC 远程控制）",
+  "面向暖通/热泵设备制造商的白标方案"
+ ],
+ "channels": {
+  "网站": "https://inthouse.eu/",
+  "电话": "+420 722 476 554（公开）",
+  "邮箱（公开）": "support@inthouse.eu"
+ },
+ "signals": [
+  "设备制造商伙伴的机柜内需要小 DIN PoE 交换机（Hub + 触摸屏 + PLC）→ 配套件、可白标"
+ ],
+ "risks": [
+  "规模极小（4 人）、单量小；6 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）"
+ },
+ "email_hook": "Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?"
 }

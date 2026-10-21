@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4636 个客户**：A 78 / B 1357 / C 3201
+> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4636 个客户**：A 80 / B 1354 / C 3202
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -19,7 +19,7 @@
 | 区域 | A | B | C | 合计 |
 |---|---|---|---|---|
 | 北美 | 17 | 208 | 259 | 484 |
-| 欧洲 | 17 | 468 | 512 | 997 |
+| 欧洲 | 19 | 465 | 513 | 997 |
 | 土耳其 | 6 | 142 | 63 | 211 |
 | 中东 | 6 | 84 | 234 | 324 |
 | 亚太 | 13 | 238 | 700 | 951 |
@@ -30,15 +30,15 @@
 | 乌克兰 | 0 | 1 | 54 | 55 |
 | 中国大陆 | 0 | 1 | 15 | 16 |
 | 未知 | 0 | 3 | 54 | 57 |
-| **合计** | 78 | 1357 | 3201 | 4636 |
+| **合计** | 80 | 1354 | 3202 | 4636 |
 
 状态分布：名单内 2004；已推送 1239；WhatsApp 528；用户判定不行 445；有回复 230；成交过 92；发不过去 83；回复暂无需求 15
 
-C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548；综合分低 394；品类不符（VC/DWDM/CCTV 等） 343；无联系方式 147；低价值区域冷线索 143；发不过去 116；陈旧线索无互动 116；无邮箱（仅电话） 78；守界：乌克兰 53；体量过大/品牌厂商/运营商 47；用户备注不再跟进/Spam 44；中国大陆（非出口客户） 15；调研后定级 C 11；体量过大 5；疑似同行/休眠公司 1；已停业 1
+C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548；综合分低 394；品类不符（VC/DWDM/CCTV 等） 343；无联系方式 147；低价值区域冷线索 143；发不过去 116；陈旧线索无互动 116；无邮箱（仅电话） 78；守界：乌克兰 53；体量过大/品牌厂商/运营商 47；用户备注不再跟进/Spam 44；中国大陆（非出口客户） 15；调研后定级 C 12；体量过大 5；疑似同行/休眠公司 1；已停业 1
 
 ## 调研覆盖（A 候选逐家网页核实）
 
-- 自动评级曾为 A 的候选 **全部** 做了网页核实：219 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 126 / 调研后降 B 79 / 调研后降 C 13。
+- 自动评级曾为 A 的候选 **全部** 做了网页核实：221 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 128 / 调研后降 B 76 / 调研后降 C 14。
 - 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。
 - B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。
 
@@ -57,7 +57,7 @@ C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548�
 
 ## 索引
 
-### A 级（78）— `Saga Clients/A/`
+### A 级（80）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -133,18 +133,20 @@ C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548�
 | SA-120 | Latmedia Group, LLC | 乌兹别克斯坦 | IT 集成/贸易商 | 名单内·未触达 | 63 | 已 | [SA-120-Latmedia Group, LLC-乌兹别克斯坦.md](A/SA-120-Latmedia%20Group,%20LLC-乌兹别克斯坦.md) |
 | SA-124 | Pt.ras otomasi indonesia | 印度尼西亚 | 工业自动化/MEP 系统集成商 | 有回复·跟进中 | 63 | 已 | [SA-124-Pt.ras otomasi indonesia-印度尼西亚.md](A/SA-124-Pt.ras%20otomasi%20indonesia-印度尼西亚.md) |
 | SA-134 | bptehno.ru | 俄罗斯 | 分销商（光纤传输/视频光端机） | 有回复·跟进中 | 62 | 已 | [SA-134-bptehno.ru-俄罗斯.md](A/SA-134-bptehno.ru-俄罗斯.md) |
+| SA-138 | Top Italia | 意大利 | 经销/集成商 | 已推送 14 次·未回复 | 61 | 已 | [SA-138-Top Italia-意大利.md](A/SA-138-Top%20Italia-意大利.md) |
 | SA-147 | surlink-tech.com | 玻利维亚 | 批发分销商（布线/光纤/网络） | 有回复·跟进中 | 61 | 已 | [SA-147-surlink-tech.com-玻利维亚.md](A/SA-147-surlink-tech.com-玻利维亚.md) |
+| SA-149 | trans audio video group | 意大利 | AV/安防集成商 | 已推送 14 次·未回复 | 61 | 已 | [SA-149-trans audio video group-意大利.md](A/SA-149-trans%20audio%20video%20group-意大利.md) |
 | SA-150 | vicomsecurity.com | 印度 | 安防系统集成商 + 自有品牌 | 有回复·跟进中 | 61 | 已 | [SA-150-vicomsecurity.com-印度.md](A/SA-150-vicomsecurity.com-印度.md) |
 | SA-153 | Elite Team Security Ltd | 保加利亚 | 安保服务商 + 视频监控集成（终端用户/集成商） | 回复暂无需求 | 60 | 已 | [SA-153-Elite Team Security Ltd-保加利亚.md](A/SA-153-Elite%20Team%20Security%20Ltd-保加利亚.md) |
 | SA-154 | Falke security | 德国 | 安防经销/项目商 | 已推送 7 次·未回复 | 60 | 已 | [SA-154-Falke security-德国.md](A/SA-154-Falke%20security-德国.md) |
 | SA-159 | Telemobil | 土耳其 | IT/网络系统集成商 | WhatsApp 已加·未回复 | 60 | 已 | [SA-159-Telemobil-土耳其.md](A/SA-159-Telemobil-土耳其.md) |
 | SB-079 | ISIMKO GmbH,Guhrower Straße | 德国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 54 | 已 | [SB-079-ISIMKO GmbH,Guhrower Straße-德国.md](A/SB-079-ISIMKO%20GmbH,Guhrower%20Straße-德国.md) |
 
-### B 级（1357）— `Saga Clients/B/`
+### B 级（1354）— `Saga Clients/B/`
 
-全部 1357 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1354 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
-### C 级（3201）— `Saga Clients/C/`
+### C 级（3202）— `Saga Clients/C/`
 
-全部 3201 个档案见 `Saga Clients/C/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 3202 个档案见 `Saga Clients/C/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 

@@ -1,5 +1,5 @@
 # Desk Technologies
-**官方名称（调研核实）**：Desk Technologies（desk-sicherheit.de，Daniel Rupp）
+**官方名称（调研核实）**：DESK Sicherheit GmbH（Karlsruhe, DE；desk-sicherheit.de；HRB 717686 Mannheim）
 
 > **评级 B**　|　德国　|　档案编号 `SA-075`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
@@ -10,7 +10,7 @@ code: SA-075
 rating: B
 rating_auto: A
 rating_research: B  # 核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘
-name_official: "Desk Technologies（desk-sicherheit.de，Daniel Rupp）"
+name_official: "DESK Sicherheit GmbH（Karlsruhe, DE；desk-sicherheit.de；HRB 717686 Mannheim）"
 score: 74
 country: 德国
 region: 欧洲
@@ -22,7 +22,7 @@ replies: 0
 followups: 7
 first_contact: 2025-04-14
 last_contact: 2025-11-05
-p1: STC-424DGGPM-280W
+p1: STI-288DGGPM
 price_tier: 25%
 research: done
 sources: 2
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国安防/警务项目供应商（用户记录：Daniel Rupp CEO，做 police projects，关注 IP67 户外产品，曾被报 $80/台并询 OEM 与样品）。（调研 2026-10-21；表内兴趣：和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67）
+- **是谁**：德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。（调研 2026-10-21；表内兴趣：和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67）
 - **为什么是 B 级**：**调研后定级 B**（核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。）；自动分级 A：+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-04-14 → 2025-11-05）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,17 +66,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：德国安防/警务项目供应商（用户记录：Daniel Rupp CEO，做 police projects，关注 IP67 户外产品，曾被报 $80/台并询 OEM 与样品）。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。
 - **类型**：安防集成/项目商
 - **规模**：小型（待补证）
 - **【用户记录】CEO 直接沟通；兴趣点为 IP67 户外交换机与 OEM；已报价 $80；之后 0 回复 / 7 次推送**
   > Daniel Rupp / CEO；police projects；IP67 interest；OEM ask；$80 quote（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网 Impressum】法人、登记、代表**
+  > DESK SICHERHEIT GmbH Roonstraße 25 76137 Karlsruhe Handelsregister: 717686 Registergericht: Mannheim Vertreten durch: Daniel Rupp Kontakt Telefon: 072182101964 E-Mail: info@desk-sicherheit.de … DESK Sicherheit verbindet klassischen Sicherheitsdienst mit intelligenter Videoüberwachung, KI-Videoanalyse, moderner Sicherheitstechnik und Drohnenabwehr.
+  > 来源：https://desk-sicherheit.de/impressum（抓取 2023-07-14）
+- **【官网新闻】CEO 公开直邮**
+  > DESK SICHERHEIT GmbH Daniel Rupp – CEO Telefon: +49 721 1812642-0 | +49 173 1590372 E-Mail: dr@desk-sicherheit.de
+  > 来源：https://desk-sicherheit.de/news/physische-penetrationstest（抓取 2025-04-15）
+- **【登记】UG→GmbH、注册资本**
+  > Desk Sicherheit GmbH 28.12.2022 Geschäftsführer: Daniel Salim Rupp · Kapital: 25.000 € … 22.02.2017 als Desk Sicherheit UG
+  > 来源：https://www.northdata.de/Rupp,%20Daniel%20Salim,%20Karlsruhe/ptu（抓取 2026-10-21）
+- **【用户表】展会互动：警方项目、IP67、$80 报价、OEM、样品；7 次推送 0 回复**
+  > 和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniel Rupp（CEO）dr@desk-sicherheit.de 〔用户 Clients 表〕
+- **KP**：Daniel Salim Rupp（CEO / Geschäftsführer（Impressum + 新闻稿公开））dr@desk-sicherheit.de（官网新闻稿公开） +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）〔https://desk-sicherheit.de/news/physische-penetrationstest〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。
 - 备注：若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（Impressum + 登记核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | DESK Sicherheit GmbH（HRB 717686 Amtsgericht Mannheim；USt-ID DE291361315） |
+| 成立 | 2017-02-22（UG）→ 2022-12 GmbH |
+| 总部/地址 | Roonstraße 25, 76137 Karlsruhe, Germany（+49 721 82101964；info@desk-sicherheit.de） |
+| 其他 | CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店 |
+
+- **业务线**：安保勤务（Sicherheitsdienst）；视频监控 / KI 视频分析 / 安防技术集成；无人机巡检与反无人机、物理渗透测试
+- **触达通道（公开）**：网站: https://desk-sicherheit.de/；电话: +49 721 1812642-0（新闻稿公开）；邮箱（公开）: info@desk-sicherheit.de；dr@desk-sicherheit.de（新闻稿公开 CEO 直邮）
+- **近况信号**：
+  - 项目型采购（警方/数据中心周界）→ 户外柜 DIN 工业 PoE（IP40）+ 户外防水箱方案可替代 IP67 需求
+  - 曾问 OEM 与样品 → 对贴牌开放
+- **风险/边界**：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67
+- **邮件切入句（英文）**：Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -110,6 +140,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Daniel Rupp | CEO | dr@desk-sicherheit.de | 调研核实（公开页） | 用户 Clients 表 |
+| Daniel Salim Rupp | CEO / Geschäftsführer（Impressum + 新闻稿公开） | dr@desk-sicherheit.de（官网新闻稿公开） / +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开） | 调研核实（公开页） | https://desk-sicherheit.de/news/physische-penetrationstest |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -126,18 +157,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防集成/项目商） |
+| **P1** | STI-288DGGPM | 深挖对位：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67 | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/项目商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -147,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（待补证）
+- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（待补证）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -175,14 +205,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Daniel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

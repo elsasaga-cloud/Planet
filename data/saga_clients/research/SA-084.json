@@ -27,6 +27,13 @@
    "quote": "Cégünk, az Erstech Kft. 2016 óta foglalkozik gépi földmunkával és gépszállítással… info@erstech.hu",
    "url": "https://tereprendezes-foldmunka.hu/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "升压 5 口、8 口、2 光 10 电、L2/L3 提问；6 次推送 0 回复",
+   "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -41,5 +48,36 @@
  "grade_override": "B",
  "override_reason": "微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。",
  "notes": "重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Erstech Technika Kft.",
+  "founded": "2003",
+  "hq": "Tatárszentgyörgy, Hungary（+36 70 708 7930）",
+  "size": "微型（2025 年营收 ≈2,800 万 HUF ≈ €70k）",
+  "other": "电气安装（TEÁOR 4321）+ 摄像/报警/空调维护；域名 erstech.hu 另属土方公司（邮箱域混用）"
+ },
+ "business_lines": [
+  "电气安装",
+  "摄像/报警/空调系统安装维护"
+ ],
+ "channels": {
+  "网站": "https://erstechtechnika.hu/",
+  "电话": "+36 70 708 7930（公开）"
+ },
+ "signals": [
+  "对「升压 5 口」与 2 光 10 电管理型有兴趣、问 L2/L3 → 小型安装商的典型小量采购"
+ ],
+ "risks": [
+  "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）"
+ },
+ "email_hook": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?"
 }

@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：德国 2003 年起的 VoIP/网络硬件网店型分销商（Akuvox、Alcatel、Dinstar、Fanvil、Gigaset、Grandstream、Teltonika、Yealink 等官方分销），服务 IT 经销商/集成商/工业客户/公共部门；用户记录：已在采购 E-link 工业交换机，询过 I/O 模块与分销商，7 次推送 0 回复。（调研 2026-10-21；表内兴趣：买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商）
 - **为什么是 B 级**：**调研后定级 B**（画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-04-15 → 2025-11-05）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -83,10 +83,30 @@ updated: 2026-10-21
 - **【eBay】多品牌官方分销商名单**
   > Akuvox, ALCATEL, Dinstar, Fanvil, Flyingvoice, Gigaset, Grandstream, OpenVox, Teltonika, Tiptel, Yealink und viele andere Hersteller!
   > 来源：https://www.ebay.com/str/voipdistri（抓取 2026-10-21）
+- **【用户表】在采 E-link 工业交换机；卖 Teltonika；问 I/O 模块、分销商；7 次推送 0 回复**
+  > 买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mathias Gottensträter（CEO / Owner）communication@voipdistri.com +49 5201 730030〔用户 Clients 表 + Impressum〕
 - **调研后定级**：B（原自动 A）——画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。
 - 备注：重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | VoIPDistri.com – Voice over IP Distribution（Inh. Mathias Gottensträter） |
+| 成立 | 2003 |
+| 总部/地址 | Halle (Westfalen), Germany（+49 5201 730030） |
+| 其他 | 网店 voip.world / shop.voipdistri.com；Teltonika/Yealink/Grandstream 等官方分销；已售 E-link 工业交换机 |
+
+- **业务线**：VoIP 话机/系统网店分销（Akuvox、Yealink、Grandstream、Fanvil 等）；工业网络：Teltonika 路由、E-link 工业交换机；面向 IT 经销商/集成商/工业客户/公共部门
+- **触达通道（公开）**：网店: https://voip.world/ · https://shop.voipdistri.com/；电话: +49 5201 730030（Impressum 公开）；邮箱（公开）: communication@voipdistri.com
+- **近况信号**：
+  - 已在售 E-link（中国）工业交换机 → 直接按 E-link 型号对位报 Saga 同规格价（DIN 8 PoE + 2 SFP、M12 不供）
+  - 问 I/O 模块与分销商 → 可回答：Saga 直供网店，不设德国分销
+- **风险/边界**：网店价格透明、比价激烈；7 次推送 0 回复
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电
+- **邮件切入句（英文）**：Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +158,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（网店型分销商（VoIP + 工业网络）） |
+| **P1** | STI-288DGGPM | 深挖对位：网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$139.9）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电 | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网店型分销商（VoIP + 工业网络）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -191,7 +211,7 @@ updated: 2026-10-21
 ```text
 Hi Mathias,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $139.9 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

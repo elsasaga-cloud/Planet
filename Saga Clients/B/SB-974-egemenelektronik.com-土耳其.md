@@ -1,4 +1,5 @@
 # egemenelektronik.com
+**官方名称（调研核实）**：Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（İstanbul Ümraniye, TR；egemenelektronik.com）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-974`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-974
 rating: B
 rating_auto: B
+name_official: "Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（İstanbul Ümraniye, TR；egemenelektronik.com）"
 score: 29
 country: 土耳其
 region: 土耳其
@@ -21,19 +23,19 @@ first_contact: 2025-09-26
 last_contact: 2025-10-28
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的安防集成/经销；兴趣/在卖：商业POE CCTV为主 很多配件
+- **是谁**：伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。（调研 2026-10-21；表内兴趣：商业POE CCTV为主 很多配件）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 2 次（2025-09-26 → 2025-10-28）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -67,7 +69,45 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-974.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（含交换机品类页与价目表）
+- **是谁**：伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。
+- **在卖/在用品牌**：Uniview（官方分销）, Hikvision（Platinum）, Ajax, Dahua, Netgear
+- **【官网】法人、地址、联系方式**
+  > Egemen Elektronik Güvenlik Bilgisayar Sis. San. ve Tic. Ltd. Şti. - Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 EGEMEN PLAZA ÜMRANİYE / İSTANBUL 0216 611 61 00 … satis@egemenelektronik.com … Vergi Numarası : 325 056 57 50
+  > 来源：https://www.egemenelektronik.com/tr/iletisim（抓取 2026-10-21）
+- **【官网】成立与品牌**
+  > Egemen Elektronik … 2013 Temmuz Ayında Faaliyetine Başlamıştır … Şirketimiz HIKVISION , Haikon, HiLook , Ttec, Formrack, LigoWave, Netgear, Seagate, WD, Canavote, Dahua , Wisenet Samsung, Ajax , Westa, Decon Maxlogic & Mavigard markalarının dağıtıcısıdır.
+  > 来源：https://www.egemenelektronik.com/tr/hakkimizda（抓取 2026-10-21）
+- **【LinkedIn】Uniview 官方分销与规模**
+  > Uniview Resmî Distribütör , Hikvision Platinum Dpp Partner , Ajax Kablosuz Alarm Sistemleri … Şirket büyüklüğü: 11 - 50 çalışan Genel Merkez: İSTANBUL, ÜMRANİYE … Kuruluş: 2013
+  > 来源：https://tr.linkedin.com/company/egemenelektronik（抓取 2026-10-21）
+- **【名录】成立日期与增长**
+  > Egemen Elektronik Guvenlik Bilgisayar Sistemleri San. was incorporated on July 25, 2013. 10 (2025) employees … reported a net sales revenue increase of 201.3% in 2023.
+  > 来源：https://www.emis.com/php/company-profile/TR/Egemen_Elektronik_Guvenlik_Bilgisayar_Sistemleri_San_Ve_Tic_Ltd_Sti_en_14288247.html（抓取 2026-03-05）
+- **【用户表】商业 PoE、CCTV、配件；WhatsApp 已加；2 次跟进**
+  > 商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Belkız Çınar（Co-Owner（用户表））satis@egemenelektronik.com +90 532 605 7018（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Levent Pişman（Co-Owner（用户表））satis@egemenelektronik.com —〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.（VKN 325 056 57 50 Alemdağ） |
+| 成立 | 2013-07-25 |
+| 总部/地址 | Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 Egemen Plaza, 34771 Ümraniye / İstanbul（+90 216 611 61 00；satis@egemenelektronik.com） |
+| 其他 | Uniview 官方分销；Hikvision Platinum；Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear 分销；B2B 网店 egemendepo.com |
+
+- **业务线**：CCTV / 门禁 / 报警 / 消防报警分销（多品牌）；网络配件与交换机（品类页）
+- **触达通道（公开）**：网站: https://www.egemenelektronik.com/（交换机品类 /tr/kategori/switchler）；B2B 网店: http://www.egemendepo.com/；电话: +90 216 611 61 00（公开）；邮箱（公开）: satis@egemenelektronik.com
+- **近况信号**：
+  - 多品牌 CCTV 分销商自设交换机品类 → 白牌/自有标 PoE 交换机进其价目表（配 Uniview/Hikvision）
+  - 高增长（2023 +201%）、自有大楼 → 有库存采购能力
+- **风险/边界**：已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表
+- **邮件切入句（英文）**：Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -94,6 +134,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Belkız Çınar | Co-Owner（用户表） | satis@egemenelektronik.com / +90 532 605 7018（用户表，WhatsApp 已加） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Levent Pişman | Co-Owner（用户表） | satis@egemenelektronik.com / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Belkiz Cinar | — | satis@egemenelektronik.com / +905326057018 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -111,7 +153,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -155,7 +197,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -163,9 +204,9 @@ updated: 2026-10-21
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Belkiz,
+Hi Belkız,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
