@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ipvoiceshop.nl，快照 2026-10-21）",
- "summary": "荷兰电商/网店：官网「IP Voice Shop」（nl-NL）；产品页：product-pagina、p820-ip-pro、p810-ip-pro、p810b-ip-pro；表内「主要是TPlink的商业交换机」；群发 15 次、无回复。",
- "type": "电商/网店",
+ "summary": "荷兰 IP Voice Shop（VoIP/IP 话机网店（P810/P820 IP Pro 等）；表内「主要是 TP-Link 的商业交换机」；官网快照显示「维护中」）；群发 15 次无回复。",
+ "type": "VoIP 网店（荷兰，TP-Link 交换机）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "主要是TPlink的商业交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IP Voice Shop 快照",
+   "quote": "IP Voice Shop ; De website is binnenkort weer toegankelijk ; Momenteel is de website in onderhoud ; /product/p820-ip-pro/",
+   "url": "https://ipvoiceshop.nl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "TP-Link 商业交换机",
+   "quote": "主要是TPlink的商业交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "荷兰",
   "other": "官网 ipvoiceshop.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "VoIP / IP 话机网店（荷兰）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "VoIP 网店（荷兰，TP-Link 交换机）",
   "region": "荷兰",
   "contact": "info@ipvoiceshop.nl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ipvoiceshop.nl/）",
-  "用户表兴趣/备注：主要是TPlink的商业交换机"
+  "官网：IP Voice Shop ; De website is binnenkort weer toegankelijk ; Momenteel is de website in onderhoud；页面 /product/p820-ip-pro/、/product/p810-ip-pro/",
+  "表内：主要是 TPlink 的商业交换机"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "官网维护中（经营状态待核）；TP-Link 价格基准低；15 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "IP 话机配套 PoE（现 TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the PoE switches you list next to IP phones, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your VoIP customers order most?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（techpoint-gmbh.de，快照 2026-10-21）",
- "summary": "德国网络/安防经销或集成（官网未见角色词，待核）：官网「Tech-Point GmbH」（de）；站内品牌：Siemens；产品页：produkte；表内「Networking」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "德国 Tech-Point GmbH（team-techpoint.de：零售业 IT 服务伙伴「Ihr Partner im Retail Service」，多地站点；表内「Networking」）；表内未跟进。",
+ "type": "零售 IT 服务商（德国）",
  "size": "",
  "brands_seen": [
   "Siemens"
@@ -23,6 +23,13 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Tech-Point 定位",
+   "quote": "Startseite - Tech-Point GmbH ; Effizienz trifft Innovation! ; Ihr Partner im Retail Service ; Standorte",
+   "url": "https://www.techpoint-gmbh.de/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,31 +38,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "零售业 IT 服务 / 现场服务（德国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "零售 IT 服务商（德国）",
   "region": "德国",
   "contact": "service@team-techpoint.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.techpoint-gmbh.de/）",
-  "在售工业网络品牌：Siemens → 工业线对位",
-  "官网公开邮箱：service@team-techpoint.de",
-  "用户表兴趣/备注：Networking"
+  "官网：Startseite - Tech-Point GmbH ; Effizienz trifft Innovation! ; Ihr Partner im Retail Service ; Standorte；页面 /produkte/；brands Siemens",
+  "表内：Networking"
  ],
- "risks": [],
+ "risks": [
+  "服务型公司（网络硬件采购量待核）；仅 service@ 邮箱，未跟进过"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "门店网络部署配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Alongside the Siemens lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the access switches in your retail-site rollouts, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your store installations standardise on?"
 }

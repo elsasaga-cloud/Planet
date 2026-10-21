@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fingerprint-access-control.com，快照 2026-10-21）",
- "summary": "英国网络/安防经销或集成（官网未见角色词，待核）：官网「fingerprint-access-control.com」；表内「有Utepo的；工业FS 比较少 像丰润达/upeto的」；群发 4 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "英国 Borer Data Systems（borer.co.uk / fingerprint-access-control.com：门禁/指纹门禁制造商，PoE 供电门禁体系；表内「有 Utepo 的；工业 FS 比较少；像丰润达/Utepo 的」）；表内 4 次跟进无回复。",
+ "type": "门禁系统制造商（英国，自有品牌，PoE 现 Utepo 系）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo",
+  "丰润达"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,13 @@
    "quote": "有Utepo的；工业FS 比较少 像丰润达/upeto的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo 的；像丰润达/Utepo 的",
+   "quote": "有Utepo的 / 工业FS 比较少 像丰润达/upeto的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,29 +39,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 fingerprint-access-control.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "门禁 / 指纹门禁系统制造（英国，自有品牌）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "门禁系统制造商（英国，自有品牌，PoE 现 Utepo 系）",
   "region": "英国",
   "contact": "info@borer.co.uk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://fingerprint-access-control.com/）",
-  "用户表兴趣/备注：有Utepo的；工业FS 比较少 像丰润达/upeto的"
+  "表内：有 Utepo 的 / 工业 FS 比较少 / 像丰润达/upeto 的；域名 fingerprint-access-control.com + borer.co.uk",
+  "快照：内容为空"
  ],
- "risks": [],
+ "risks": [
+  "现供 Utepo/丰润达系（价格基准低）；工业 FS 用量少；4 次无回复，仅 info@；官网快照空"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "门禁配套 PoE（现 Utepo/丰润达系）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Borer 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the PoE switches that power your access-control readers and controllers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 4/8-PoE) in Borer packaging from small lots, CE/RoHS/UKCA — which PoE SKU ships most with your installations?"
 }

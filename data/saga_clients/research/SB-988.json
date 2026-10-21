@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ltv-cctv.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「LTV - лучшая техника для видеонаблюдения от ЛУИС+」（ru-ru）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；产品页：ltv-hov-260h-12-poe、ltv-heb-320h-12-poe、ltv-ex-300-a-poe、ltv-ex-300-a-ir-poe；表内「自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 LTV / ЛУИС+（LTV 为大型安防分销商 ЛУИС+ 的自有视频监控设备品牌：「цена/качество」全线产品，含 PoE 护罩、防爆 PoE 摄像机；表内「自己的 logo 工业 FS SFP 等，外壳看着像国内的，基本都是用 Hasvio 的」「比较重要」；表内无邮箱）；表内未跟进。",
+ "type": "俄罗斯安防分销商自有品牌（LTV，工业 FS 现 Hasvio）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hasvio"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -28,6 +30,20 @@
    "quote": "Линейка оборудования LTV - это полнофункциональный набор устройств, оптимальных по соотношению «цена/качество», ассортимент которых постоянно пополняется, следуя новым тенденциям на рынке CCTV и создавая их. Марка LTV представлена во всех о",
    "url": "https://ltv-cctv.ru/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "LTV 定位",
+   "quote": "LTV - лучшая техника для видеонаблюдения от ЛУИС+ ; Линейка оборудования LTV - это полнофункциональный набор устройств, оптимальных по соотношению «цена/качество»",
+   "url": "https://ltv-cctv.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo 工业 FS；Hasvio；比较重要",
+   "quote": "自己的logo 工业FS SFP等 外壳看着像是国内的 / 基本都是用Hasvio的；比较重要",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -36,33 +52,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 ltv-cctv.ru，语言 ru-ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "视频监控设备（自有品牌 LTV，分销集团 ЛУИС+）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯安防分销商自有品牌（LTV，工业 FS 现 Hasvio）",
   "region": "俄罗斯",
   "contact": "（表内无邮箱）"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ltv-cctv.ru/）",
-  "官网公开邮箱：bryanin.dmitriy@luis.ru、danilov.maksim@luis.ru、derishev.evgeniy@luis.ru",
-  "用户表兴趣/备注：自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的"
+  "官网：LTV - лучшая техника для видеонаблюдения от ЛУИС+ ; Линейка оборудования LTV - это полнофункциональный набор устройств, оптимальных по соотношению «цена/качество»；页面 /links-page/termokojuhi_s_blokom_pitaniya/ltv-hov-260h-12-poe/、/links-page/vzryvozashchishchennoe-oborudovanie/ltv-ex-300-a-poe/",
+  "表内：自己的 logo 工业 FS SFP 等；外壳看着像是国内的 / 基本都是用 Hasvio 的；比较重要"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "邮箱待补（表内无邮箱；需找 ЛУИС+ 采购/产品经理）；俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 Hasvio（深圳）价格基准低",
+  "体量：ЛУИС+ 为大型分销集团（采购流程长）——用户标「比较重要」，保留 B"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the industrial PoE switches in the LTV range, we can be a second ODM source on a Marvell platform (DIN-rail 4/8-PoE + SFP, managed and unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most?"
 }

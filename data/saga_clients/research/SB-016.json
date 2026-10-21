@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nexxtsolutions.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Nexxt Solutions」（en-US）；产品页：industrial-solution、solucion-industrial、catalog、catalog；表内「一部分贴牌的商业PoE 其他周边产品」；群发 4 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Nexxt Solutions（拉美导向的网络/基础设施品牌（Intcomex 集团旗下）：connectivity 与 infrastructure 目录、工业方案页；表内「一部分贴牌的商业 PoE，其他周边产品」；KP Paula Aguilera、Luis Garcia）；表内 4 次跟进无回复。",
+ "type": "网络品牌商（美国/拉美，贴牌商用 PoE）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,69 @@
    "quote": "一部分贴牌的商业PoE 其他周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Nexxt 站点",
+   "quote": "Nexxt Solutions ; /connectivity/catalog ; /infrastructure/solutions/industrial-solution",
+   "url": "https://www.nexxtsolutions.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "贴牌商用 PoE",
+   "quote": "一部分贴牌的商业PoE 其他周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Paula Aguilera",
+   "title": "（职务待核）",
+   "email": "paguilera@nexxtsolutions.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Luis Garcia",
+   "title": "（职务待核）",
+   "email": "lgarcia@nexxtsolutions.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 nexxtsolutions.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络连接 / 基础设施品牌（Nexxt）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "网络品牌商（美国/拉美，贴牌商用 PoE）",
   "region": "美国",
   "contact": "paguilera@nexxtsolutions.com、lgarcia@nexxtsolutions.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.nexxtsolutions.com/）",
-  "用户表兴趣/备注：一部分贴牌的商业PoE 其他周边产品"
+  "页面 /infrastructure/solutions/industrial-solution、/connectivity/catalog、/infrastructure/catalog",
+  "表内：一部分贴牌的商业 PoE 其他周边产品；KP Paula Aguilera / Luis Garcia"
  ],
- "risks": [],
+ "risks": [
+  "体量：Intcomex 集团旗下品牌（采购流程长、既有 ODM 供应链）；4 次无回复 → 改向具名 KP 首触",
+  "官网快照空（仅页面路径）"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供"
  },
- "email_hook": "Paula, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Paula, for the Nexxt-branded PoE switches in your connectivity line, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your Latin-American distributors reorder most?"
 }
