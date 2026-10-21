@@ -1,4 +1,5 @@
 # glm.ge
+**官方名称（调研核实）**：GLM Group（ჯი.ელ.ემ ჯგუფი，第比利斯）
 
 > **评级 B**　|　格鲁吉亚　|　档案编号 `SB-027`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-027
 rating: B
 rating_auto: B
+name_official: "GLM Group（ჯი.ელ.ემ ჯგუფი，第比利斯）"
 score: 59
 country: 格鲁吉亚
 region: 俄语区
@@ -19,9 +21,9 @@ replies: 0
 followups: 15
 first_contact: 2024-05-10
 last_contact: 2025-10-07
-p1: STI-288DGGPM
+p1: STI-288GP
 price_tier: 30%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：格鲁吉亚的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：ONV的工业FS 自己的logo 但网站上说了产品来自ONV；提到的品牌：ONV, FS
+- **是谁**：格鲁吉亚安防与电信系统方案商 / 电商（消防报警、CCTV/NVR、门禁、Wi-Fi、PoE 设备 —— PoE 词频 245），在售 **ONV** PoE 交换机（ONV-H1064PSD、H1108PSD、H3108PS）并有自编号 GLMH1064PL；表内：ONV 工业 FS、自己的 logo（但网站标明来自 ONV）；15 次跟进无实质回复。（调研 2026-10-21；表内兴趣：ONV的工业FS 自己的logo 但网站上说了产品来自ONV）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-10 → 2025-10-07）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-027.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（glm.ge，快照 2026-10-21，格鲁吉亚语）
+- **是谁**：格鲁吉亚安防与电信系统方案商 / 电商（消防报警、CCTV/NVR、门禁、Wi-Fi、PoE 设备 —— PoE 词频 245），在售 **ONV** PoE 交换机（ONV-H1064PSD、H1108PSD、H3108PS）并有自编号 GLMH1064PL；表内：ONV 工业 FS、自己的 logo（但网站标明来自 ONV）；15 次跟进无实质回复。
+- **在卖/在用品牌**：ONV, GLM（自编号）
+- **【官网快照】安防与电信系统方案；型号 ONV-H1064PSD / ONV-H1108PSD / ONV-H3108PS、GLMH1064PL；关键词 poe 245 / nvr 68 / wifi 63；+995 32 205 0828**
+  > ჯი.ელ.ემ ჯგუფი - გადაწყვეტილებები უსაფრთხოებისა და სატელეკომუნიკაციო სისტემებისთვის… models GLMH1064PL, ONV-H1064PSD, ONV-H1108PSD, ONV-H3108PS
+  > 来源：https://glm.ge/（抓取 2026-10-21）
+- **【用户表】ONV 的工业 FS 自己的 logo，但网站上说了产品来自 ONV**
+  > 兴趣：ONV的工业FS 自己的logo 但网站上说了产品来自ONV
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（未具名）（）info@glm.ge +995 577 18 00 18〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ONV 贴牌））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | GLM Group LLC（待核） |
+| 成立 | （待核） |
+| 总部/地址 | Tbilisi, Georgia |
+| 其他 | 消防报警线（守界：仅供网络层） |
+
+- **业务线**：消防报警 / CCTV / 门禁系统；网络与 PoE 设备（ONV 贴牌 + 自编号）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ONV / GLM | GLMH1064PL（= ONV-H1064PSD） | 4 PoE + 2 上联（推断） | Saga STI-144GP / HRUI STC-114GP 对位 | https://glm.ge/（2026-10-21） |
+
+- **触达通道（公开）**：role: 方案商 + 电商（ONV 贴牌采购）；region: 格鲁吉亚
+- **近况信号**：
+  - 已贴自编号 GLM 的 ONV 产品 → 贴牌采购习惯成熟（OEM 30%）
+  - PoE 为核心品类
+- **风险/边界**：ONV 价格基准低；无具名联系人；消防系统守界（只供网络设备）
+- **Saga 对位结论**：P1 STI-288GP（30% 档）——自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。
+- **邮件切入句（英文）**：For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -136,17 +171,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-288GP | 深挖对位：自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。 | $62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -156,7 +192,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：无具名决策人，仍是公司级触达；已推送 15 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GP 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -181,30 +217,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

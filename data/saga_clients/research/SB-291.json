@@ -1,0 +1,77 @@
+{
+ "code": "SB-291",
+ "name_official": "INTERCOAX Co., Ltd.（인터코엑스，韩国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（intercoax.com，快照 2026-10-21，内容空）",
+ "summary": "韩国同轴 / 以太网延长（EoC）设备厂商 INTERCOAX（SECON 2023；此前买过样品的韩国客户），Byron / Jongmin 多次交谈并拿目录，问 2+2+8（2 SFP + 2 GE 上联 + 8 PoE）型号；44 次跟进无实质回复。自有品牌厂商 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "intercoax.com 首页无内容抓取",
+   "quote": "status ok, empty",
+   "url": "https://intercoax.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "之前买样的韩国客户；看了产品聊了几次拿了 catalog；问了 2+2+8 上联 2 光 2 网的型号；备注可以尝试多跟进一下",
+   "quote": "兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Byron",
+   "title": "（表内联系人，可多跟进）",
+   "email": "byron@intercoax.com",
+   "phone": "+82 10 3605 5714",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Jongmin",
+   "title": "（表内联系人）",
+   "email": "jongmin@intercoax.com",
+   "phone": "+82 31 365 3133",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照空页 + 表内：设备厂商 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "INTERCOAX Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "Gyeonggi-do, Korea（+82 31 365）",
+  "size": "中小型设备厂商",
+  "other": "EoC / 以太网延长产品品牌；曾购样"
+ },
+ "business_lines": [
+  "以太网 over 同轴 / 延长设备（自有品牌）",
+  "配套 PoE 交换机（外购）"
+ ],
+ "channels": {
+  "role": "设备厂商（OEM 采购配套）",
+  "region": "韩国 + 出口"
+ },
+ "signals": [
+  "曾购样 + 问具体口型 2+2+8 → 贴牌配套可能",
+  "Byron 可多跟进"
+ ],
+ "risks": [
+  "韩国 KC 认证；44 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 30,
+  "why": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。"
+ },
+ "email_hook": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($31) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?"
+}

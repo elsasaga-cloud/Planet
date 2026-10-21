@@ -1,4 +1,5 @@
 # Volktek
+**官方名称（调研核实）**：Volktek Corporation（台湾）
 
 > **评级 B**　|　台湾　|　档案编号 `SB-061`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-061
 rating: B
 rating_auto: B
+name_official: "Volktek Corporation（台湾）"
 score: 55
 country: 台湾
 region: 亚太
@@ -19,9 +21,9 @@ replies: 0
 followups: 8
 first_contact: 2025-03-20
 last_contact: 2025-10-21
-p1: STC-448XGGM(L3)
+p1: LT-IS6312GP-4GX8GT-FBP
 price_tier: 30%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解 公司地址：23553 新北市中和区连城路192号4楼 4F, 192 Liancheng Rd. Zhonghe,New Taipei City 23553, Taiwan
+- **是谁**：台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。（调研 2026-10-21；表内兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解 公司地址：23553 新北市中和区连城路192号4楼 4F, 192 Liancheng Rd. Zhonghe,New Taipei City 23）
 - **为什么是 B 级**：+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-20 → 2025-10-21）
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：LT-IS6312GP-4GX8GT-FBP — 深挖对位：其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。；$202.1 USD EXW（30% 档，SmartByte LT-IS6312GP-4GX8GT-FBP 1040 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-061.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（volktek.com，快照 2026-10-21）
+- **是谁**：台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。
+- **【官网快照】1994 年成立，自有工厂与 SMT/DIP 产线；L3 工业交换机、L3 PoE++、工业 PoE；+886 2 8242 1000**
+  > Volktek is a leading Taiwan-based company and manufacturer established in 1994. With our own advanced in-house factory and SMT/DIP production lines… Layer 3 Industrial Ethernet Switches… Layer 3 Managed PoE++ Switches
+  > 来源：https://www.volktek.com/index_en.php（抓取 2026-10-21）
+- **【用户表】想 OEM 工业级 L2 L3 管理需求；对 bypass 有兴趣，送了样品；对 CWDM 有一些了解；地址新北市中和区连城路 192 号 4 楼**
+  > 兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Karen Hua（皮凯太）（）karen.hua@volktek.com +886 2 8242 1000〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Joseph Pi（）joseph.pi@volktek.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Volktek Corporation |
+| 成立 | 1994 |
+| 总部/地址 | 4F, 192 Liancheng Rd., Zhonghe, New Taipei 23553, Taiwan |
+| 其他 | 已收 Saga bypass 样品 |
+
+- **业务线**：工业以太网 / PoE 交换机（L2/L3，自产）；MC / 光纤 / 10G 工业
+- **触达通道（公开）**：role: 台系制造商（OEM 补充 SKU）；region: 全球
+- **近况信号**：
+  - 已送 bypass 样品 + 明确 OEM 工业 L2/L3 意向
+  - 自有产线 → 只会外购其不做的 SKU（bypass / 特定口型）
+- **风险/边界**：台系厂商口径；同行竞争敏感；8 次跟进无回复 → 样品评估结果待追
+- **Saga 对位结论**：P1 LT-IS6312GP-4GX8GT-FBP（30% 档）——其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。
+- **邮件切入句（英文）**：Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -102,7 +132,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | joseph.pi@volktek.com / karen.hua@volktek.com | 用户表原值 | Clients/ 表 |
+| Karen Hua（皮凯太） | — | karen.hua@volktek.com / +886 2 8242 1000 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Joseph Pi | — | joseph.pi@volktek.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -118,7 +149,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGM(L3) | L3 48 口 + 4×10G（Hohunet/CENTEC 线） | $505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | LT-IS6312GP-4GX8GT-FBP | 深挖对位：其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。 | $202.1 USD EXW（30% 档，SmartByte LT-IS6312GP-4GX8GT-FBP 1040 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -127,9 +158,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448XGGM(L3)），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（LT-IS6312GP-4GX8GT-FBP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448XGGM(L3) 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 LT-IS6312GP-4GX8GT-FBP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -139,7 +170,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STC-448XGGM(L3) 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 LT-IS6312GP-4GX8GT-FBP 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -163,30 +194,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hello,
+Hi Karen,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.
 
-We supply a CENTEC-based 48-port Gigabit L3 switch with 10G uplinks - model STC-448XGGM(L3) - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $505.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

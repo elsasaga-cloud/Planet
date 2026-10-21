@@ -1,0 +1,84 @@
+{
+ "code": "SB-027",
+ "name_official": "GLM Group（ჯი.ელ.ემ ჯგუფი，第比利斯）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（glm.ge，快照 2026-10-21，格鲁吉亚语）",
+ "summary": "格鲁吉亚安防与电信系统方案商 / 电商（消防报警、CCTV/NVR、门禁、Wi-Fi、PoE 设备 —— PoE 词频 245），在售 **ONV** PoE 交换机（ONV-H1064PSD、H1108PSD、H3108PS）并有自编号 GLMH1064PL；表内：ONV 工业 FS、自己的 logo（但网站标明来自 ONV）；15 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ONV",
+  "GLM（自编号）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "安防与电信系统方案；型号 ONV-H1064PSD / ONV-H1108PSD / ONV-H3108PS、GLMH1064PL；关键词 poe 245 / nvr 68 / wifi 63；+995 32 205 0828",
+   "quote": "ჯი.ელ.ემ ჯგუფი - გადაწყვეტილებები უსაფრთხოებისა და სატელეკომუნიკაციო სისტემებისთვის… models GLMH1064PL, ONV-H1064PSD, ONV-H1108PSD, ONV-H3108PS",
+   "url": "https://glm.ge/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ONV 的工业 FS 自己的 logo，但网站上说了产品来自 ONV",
+   "quote": "兴趣：ONV的工业FS 自己的logo 但网站上说了产品来自ONV",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@glm.ge",
+   "phone": "+995 577 18 00 18",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：ONV 贴牌）"
+ },
+ "company_facts": {
+  "legal_name": "GLM Group LLC（待核）",
+  "founded": "（待核）",
+  "hq": "Tbilisi, Georgia",
+  "size": "中小型安防方案 / 电商",
+  "other": "消防报警线（守界：仅供网络层）"
+ },
+ "business_lines": [
+  "消防报警 / CCTV / 门禁系统",
+  "网络与 PoE 设备（ONV 贴牌 + 自编号）"
+ ],
+ "products_seen": [
+  {
+   "brand": "ONV / GLM",
+   "model": "GLMH1064PL（= ONV-H1064PSD）",
+   "spec": "4 PoE + 2 上联（推断）",
+   "saga": "Saga STI-144GP / HRUI STC-114GP 对位",
+   "url": "https://glm.ge/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "方案商 + 电商（ONV 贴牌采购）",
+  "region": "格鲁吉亚"
+ },
+ "signals": [
+  "已贴自编号 GLM 的 ONV 产品 → 贴牌采购习惯成熟（OEM 30%）",
+  "PoE 为核心品类"
+ ],
+ "risks": [
+  "ONV 价格基准低；无具名联系人",
+  "消防系统守界（只供网络设备）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。"
+ },
+ "email_hook": "For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most?"
+}

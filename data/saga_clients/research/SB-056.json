@@ -1,0 +1,71 @@
+{
+ "code": "SB-056",
+ "name_official": "Gigalight Pte. Ltd.（新加坡）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（gigalight.com.sg，快照 2026-10-21）",
+ "summary": "新加坡结构化布线 / 光纤配线分销商（+65 6353 3679；Schneider；telecom 19 / poe 12 / industrial 9），Director Jimmy Wee：做布线与 PoE，让发海报上的产品信息；7 次跟进无实质回复。（与深圳易飞扬 Gigalight 无关。）",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Schneider"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "结构化布线、光纤配线分销；+65 6353 3679；Schneider",
+   "quote": "Gigalight Pte. Ltd. – Structured Cabling, Fiber Optic Distri[bution]… +65 6353 3679",
+   "url": "https://gigalight.com.sg/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "做布线 PoE；让发海报上的产品信息",
+   "quote": "兴趣：做布线 PoE 让发海报上的产品信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jimmy Wee",
+   "title": "Director",
+   "email": "jw@gigalight.com.sg",
+   "phone": "+65 9023 9663",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Gigalight Pte. Ltd.",
+  "founded": "（待核）",
+  "hq": "Singapore",
+  "size": "小型布线分销",
+  "other": "与深圳 Gigalight（易飞扬）无关"
+ },
+ "business_lines": [
+  "结构化布线 / 光纤配线分销",
+  "PoE 配套"
+ ],
+ "channels": {
+  "role": "布线分销商",
+  "region": "新加坡"
+ },
+ "signals": [
+  "Director 直接要资料"
+ ],
+ "risks": [
+  "布线商硬件量小；无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?"
+}

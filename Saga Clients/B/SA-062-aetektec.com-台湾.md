@@ -1,4 +1,5 @@
 # aetektec.com
+**官方名称（调研核实）**：AETEK Inc.（台湾）
 
 > **评级 B**　|　台湾　|　档案编号 `SA-062`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SA-062
 rating: B
 rating_auto: B
+name_official: "AETEK Inc.（台湾）"
 score: 28
 country: 台湾
 region: 亚太
@@ -19,9 +21,9 @@ replies: 0
 followups: 8
 first_contact: unknown
 last_contact: unknown
-p1: STI-288GP
-price_tier: 25%
-research: pending
+p1: STI-288DGGPM-2BT
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾的系统集成/工程商；兴趣/在卖：Simon之前联系过，和回复邮件的人见面后做了交谈，台湾客户 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件，可能有机会下单 4，介绍了WDM，给了他们catalog，说是需求不大
+- **是谁**：台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。（调研 2026-10-21；表内兴趣：Simon之前联系过，和回复邮件的人见面后做了交谈，台湾客户 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件，可能有机会下单 4，介绍了WDM，给了他们catalo）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（? → ?）
-- **P1（下一步唯一主推）**：STI-288GP — 官网快照对位：工业/自动化词频 15、PoE 231 → DIN 8 PoE+ 2 SFP 起手；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM-2BT — 深挖对位：AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。；$171.0 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-062.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（aetektec.com，快照 2026-10-21）
+- **是谁**：台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。
+- **在卖/在用品牌**：Hanwha, Axis
+- **【官网快照】PoE 交换机、EPoX 系列、PoE 延长 / 注入 / MC / 浪涌 / 分离、备援 PoE 柜、摄像机护罩；+886 2 8245 2822；poe 231 / media converter 22**
+  > PoE Switch EPoX Series PoE Extender PoE Injector Media Converter PoE Surge Protector PoE Splitter Backup PoE Cabinet Camera Housing… Patent-awarded Ceiling PoE Solution… L2 PRO PoE Switches
+  > 来源：https://www.aetektec.com/（抓取 2026-10-21）
+- **【用户表】Simon 之前联系过，面谈：有时需要便宜方案可以找我们拿；可能他们提供软件让我们提供硬件；推了 2 光 10 电；有很多 BT 产品及配件，可能有机会下单**
+  > 兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：John Chen（）jone.chen@aetektec.com +886 2 8245 2822〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：台系品牌 ODM））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | AETEK Inc. |
+| 成立 | （待核） |
+| 总部/地址 | 新北市，台湾 |
+| 其他 | VNS Technologies（SB-247）为其阿联酋伙伴 |
+
+- **业务线**：PoE 交换机 / 延长 / 注入 / 备援（自有品牌）；监控配套
+- **触达通道（公开）**：role: 台系品牌商（低价 SKU 外购 / 软硬分工 ODM）；region: 全球（安防渠道）
+- **近况信号**：
+  - 明确表态：便宜方案找 Saga；软件 + Saga 硬件 → ODM 入口
+  - BT 产品多 → Saga BT 工业款可配
+- **风险/边界**：台系品牌商口径；软硬分工需 SmartByte 原厂固件配合；8 次跟进无回复
+- **Saga 对位结论**：P1 STI-288DGGPM-2BT（30% 档）——AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。
+- **邮件切入句（英文）**：John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -102,6 +132,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| John Chen | — | jone.chen@aetektec.com / +886 2 8245 2822 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | John | — | jone.chen@aetektec.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -118,20 +149,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 官网快照对位：工业/自动化词频 15、PoE 231 → DIN 8 PoE+ 2 SFP 起手 | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM-2BT | 深挖对位：AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。 | $171.0 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（系统集成/工程商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM-2BT），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM-2BT 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -139,7 +170,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM-2BT 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -163,12 +194,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi John,
+
+Picking up our earlier exchange about PoE / industrial switches. John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

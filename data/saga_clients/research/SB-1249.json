@@ -1,0 +1,70 @@
+{
+ "code": "SB-1249",
+ "name_official": "SSWM CCTV Shop（Siam Skyworth，泰国）",
+ "researched_at": "2026-10-21",
+ "website_status": "域名不可达（sswmcctvshop.com）",
+ "summary": "泰国 CCTV / 通讯产品销售平台（gmail siamskyworth@），在售丰润达工业 FS，兴趣工业 FS 等各种通讯产品；备注可多跟进；16 次跟进无实质回复；域名失效。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "丰润达（Fengrunda）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "sswmcctvshop.com 不可达",
+   "quote": "status unreachable",
+   "url": "http://sswmcctvshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 等各种通讯产品；有丰润达的工业 FS；销售平台；可以尝试多跟进一下",
+   "quote": "兴趣：工业FS等各种通讯产品 有丰润达的工业FS 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "siamskyworth@gmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照不可达 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "Thailand",
+  "size": "小型网店",
+  "other": "gmail；域名失效"
+ },
+ "business_lines": [
+  "CCTV / 通讯产品网店"
+ ],
+ "channels": {
+  "role": "网店（已售中国同行丰润达）",
+  "region": "泰国"
+ },
+ "signals": [
+  "已售丰润达工业 FS → 同类上架"
+ ],
+ "risks": [
+  "域名失效；gmail"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位丰润达工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+ },
+ "email_hook": "For your industrial switch listings — the 2-SFP + 8-PoE DIN unit (same class as the Fengrunda one) is $57 EXW at 1 pc, with Marvell managed and 4-port versions alongside; want photos and a price list for the shop?"
+}

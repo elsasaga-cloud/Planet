@@ -1,4 +1,5 @@
 # nag.ru
+**官方名称（调研核实）**：НАГ (NAG LLC, nag.ru，叶卡捷琳堡)
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-152`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-152
 rating: B
 rating_auto: B
+name_official: "НАГ (NAG LLC, nag.ru，叶卡捷琳堡)"
 score: 50
 country: 俄罗斯
 region: 俄语区
@@ -20,8 +22,8 @@ followups: 1
 first_contact: 2025-09-27
 last_contact: 2025-09-27
 p1: none
-price_tier: 20%
-research: pending
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯的经销/集成（类型待核）；兴趣/在卖：switch；问了400G模块 也看了相干模块
+- **是谁**：俄罗斯最大的运营商 / ISP 设备供应商之一（叶卡捷琳堡，自有品牌 **SNR**，2001 年起资讯门户 + 商城；量大、从中国 ODM 采购），联系人 L. Abrarova / Anatoly Kovtun（市场调研）：问过 400G 模块、相干模块，2025-09 对 Dual AC 回复「??」；需求偏 DWDM/高端（Saga 无）。NAG 自有 SNR 交换机线由中国厂 ODM → Saga 作为贸易商难介入，保留 B 低优先。（调研 2026-10-21；表内兴趣：switch；问了400G模块 也看了相干模块）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-27 → 2025-09-27）；最近一次客户回复：2025-09-27：??
-- **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
+- **P1（下一步唯一主推）**：— — 深挖对位：其询价对象为 400G / 相干模块（规格外）；接入交换机 ODM 需原厂层面（30% 口径），暂无主推型。；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,36 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-152.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（nag.ru，快照 2026-10-21，俄语；快照页为其行业资讯门户）
+- **是谁**：俄罗斯最大的运营商 / ISP 设备供应商之一（叶卡捷琳堡，自有品牌 **SNR**，2001 年起资讯门户 + 商城；量大、从中国 ODM 采购），联系人 L. Abrarova / Anatoly Kovtun（市场调研）：问过 400G 模块、相干模块，2025-09 对 Dual AC 回复「??」；需求偏 DWDM/高端（Saga 无）。NAG 自有 SNR 交换机线由中国厂 ODM → Saga 作为贸易商难介入，保留 B 低优先。
+- **在卖/在用品牌**：SNR（自有）
+- **【官网快照】2001 年起的 ISP 行业资讯门户（nag.ru）**
+  > Один из старейших в Рунете информационно-аналитических порталов об интернет-провайдинге. С 2001 г.
+  > 来源：https://nag.ru/（抓取 2026-10-21）
+- **【用户表】switch；问了 400G 模块，也看了相干模块；2025-09 Dual AC→??；Anatoly Kovtun 市场调查专员**
+  > 兴趣：switch;问了400G模块 也看了相干模块；回复：??
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：L. Abrarova（）l.abrarova@nag.ru +7 926 352 1056〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Anatoly Kovtun（）a.kovtun@nag.ru 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内：规格外 / 规模大））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ООО «НАГ» |
+| 成立 | 2001（门户） |
+| 总部/地址 | Екатеринбург, Россия |
+| 其他 | 中国 ODM 采购；制裁风险 |
+
+- **业务线**：运营商 / ISP 设备分销与自有品牌 SNR（交换机、光模块、DWDM）；行业资讯门户 nag.ru
+- **触达通道（公开）**：role: 大型分销 + 自有品牌（ODM 直采）；region: 俄罗斯及独联体
+- **近况信号**：
+  - 需求 400G / 相干 → 高端 DWDM（Saga 无）
+  - SNR 接入交换机 ODM 可能性（需 SmartByte 原厂直谈）
+- **风险/边界**：规模大 + 直接对接中国原厂 → 贸易商无空间；俄罗斯制裁 / 收款
+- **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——其询价对象为 400G / 相干模块（规格外）；接入交换机 ODM 需原厂层面（30% 口径），暂无主推型。
+- **邮件切入句（英文）**：（不主动发送；若其采购询接入层 ODM 再转 SmartByte 原厂）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -96,8 +127,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| L. Abrarova | — | l.abrarova@nag.ru / +7 926 352 1056 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Anatoly Kovtun | — | a.kovtun@nag.ru | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Abrarova | — | l.abrarova@nag.ru / sales@nag.ru / +79263521056 | 用户表原值 | Clients/ 表 |
-| Anatoly Kovtun | — | l.abrarova@nag.ru / sales@nag.ru / +79263521056 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -114,10 +146,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI | — | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：其询价对象为 400G / 相干模块（规格外）；接入交换机 ODM 需原厂层面（30% 口径），暂无主推型。 | — | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -127,7 +159,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -135,7 +167,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 — 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -159,12 +191,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Anatoly,
+
+Picking up our earlier exchange about PoE / industrial switches. （不主动发送；若其采购询接入层 ODM 再转 SmartByte 原厂）
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

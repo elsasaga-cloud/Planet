@@ -1,4 +1,5 @@
 # VNS technologies
+**官方名称（调研核实）**：VNS Technologies LLC（阿布扎比）
 
 > **评级 B**　|　阿联酋　|　档案编号 `SB-247`　|　优先级 ★★　|　状态：已推送 20 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-247
 rating: B
 rating_auto: B
+name_official: "VNS Technologies LLC（阿布扎比）"
 score: 47
 country: 阿联酋
 region: 中东
@@ -19,9 +21,9 @@ replies: 0
 followups: 20
 first_contact: 2024-05-10
 last_contact: 2025-11-28
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: STI-288GPM
+price_tier: 25%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿联酋的经销/集成（类型待核）；兴趣/在卖：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳
+- **是谁**：阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。（调研 2026-10-21；表内兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-05-10 → 2025-11-28）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,36 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-247.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（vnstech.com，快照 2026-10-21）
+- **是谁**：阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。
+- **在卖/在用品牌**：AETEK, H3C, Huawei, Network Optix, Rasilient
+- **【官网快照】组合品牌 H3C / Securicorp / Network Optix / Fortem / AETEK / Rasilient / Irisity / Huawei；+971 2 666 7757；surveillance 25**
+  > Portfolio H3C Securicorp Network Optix Fortem AETEK RASILIENT Infiniti IRISITY Huawei… +971 2 666 7757
+  > 来源：https://vnstech.com/（抓取 2026-10-21）
+- **【用户表】和 aetek 合作了 5 年；工业品看了 2 光 8 管理 POE；商业看了 2 光 24 电，问了管理是 2 层还是 3 层；会来深圳**
+  > 兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Abdul Gafoor（）gafoor@vnstech.com +971 2 666 7757〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：AETEK 渠道））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | VNS Technologies LLC |
+| 成立 | （待核） |
+| 总部/地址 | Abu Dhabi, UAE |
+| 其他 | AETEK 阿联酋伙伴 5 年 |
+
+- **业务线**：安防监控集成（VMS、存储、AI 分析）；网络（H3C / Huawei / AETEK PoE）
+- **触达通道（公开）**：role: 安防集成 + 分销（AETEK 渠道）；region: 阿联酋（阿布扎比）
+- **近况信号**：
+  - AETEK（台系 PoE 品牌）5 年渠道 → 对台系价位熟悉，Saga 可作低价补充
+  - 已看两款具体机型并问 L2/L3
+  - 计划访深圳 → 可安排 SmartByte 工厂参观
+- **风险/边界**：阿布扎比政府 / 关键设施项目守界（按单核）；20 次跟进无回复
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。
+- **邮件切入句（英文）**：Mr. Gafoor, to your L2-or-L3 question: the 24-PoE unit is L2+ (static routing) and there's a full L3 24+4×10G at $280; the industrial 2-SFP + 8-PoE is L2 managed at $82. When you're next in Shenzhen, shall I arrange the factory visit?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -125,7 +156,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Abdul Gafoor | — | gafoor@vnstech.com / +97126667757 | 用户表原值 | Clients/ 表 |
+| Abdul Gafoor | — | gafoor@vnstech.com / +971 2 666 7757 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -142,20 +173,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。 | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -163,7 +194,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 20 次无回复，邮件通道疲劳；中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -187,30 +218,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Abdul,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Mr. Gafoor, to your L2-or-L3 question: the 24-PoE unit is L2+ (static routing) and there's a full L3 24+4×10G at $280; the industrial 2-SFP + 8-PoE is L2 managed at $82. When you're next in Shenzhen, shall I arrange the factory visit?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,0 +1,62 @@
+{
+ "code": "SB-575",
+ "name_official": "Latitude / VoIPtech（莫桑比克）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（voiptech.co.mz；快照 HTTP 错误）",
+ "summary": "莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "voiptech.co.mz HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://voiptech.co.mz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "WDM Switch",
+   "quote": "兴趣：WDM Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Manuel Manjala",
+   "title": "（表内联系人）",
+   "email": "manjala@voiptech.co.mz",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "Mozambique",
+  "size": "小型",
+  "other": ""
+ },
+ "channels": {
+  "role": "VoIP / 网络服务商",
+  "region": "莫桑比克"
+ },
+ "risks": [
+  "需求含糊；莫桑比克付款 T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。"
+ },
+ "email_hook": "Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?"
+}

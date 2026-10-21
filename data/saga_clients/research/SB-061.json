@@ -1,0 +1,78 @@
+{
+ "code": "SB-061",
+ "name_official": "Volktek Corporation（台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（volktek.com，快照 2026-10-21）",
+ "summary": "台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "1994 年成立，自有工厂与 SMT/DIP 产线；L3 工业交换机、L3 PoE++、工业 PoE；+886 2 8242 1000",
+   "quote": "Volktek is a leading Taiwan-based company and manufacturer established in 1994. With our own advanced in-house factory and SMT/DIP production lines… Layer 3 Industrial Ethernet Switches… Layer 3 Managed PoE++ Switches",
+   "url": "https://www.volktek.com/index_en.php",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "想 OEM 工业级 L2 L3 管理需求；对 bypass 有兴趣，送了样品；对 CWDM 有一些了解；地址新北市中和区连城路 192 号 4 楼",
+   "quote": "兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Karen Hua（皮凯太）",
+   "title": "业务专员",
+   "email": "karen.hua@volktek.com",
+   "phone": "+886 2 8242 1000",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Joseph Pi",
+   "title": "（表内联系人）",
+   "email": "joseph.pi@volktek.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样）"
+ },
+ "company_facts": {
+  "legal_name": "Volktek Corporation",
+  "founded": "1994",
+  "hq": "4F, 192 Liancheng Rd., Zhonghe, New Taipei 23553, Taiwan",
+  "size": "中型制造商（自有工厂）",
+  "other": "已收 Saga bypass 样品"
+ },
+ "business_lines": [
+  "工业以太网 / PoE 交换机（L2/L3，自产）",
+  "MC / 光纤 / 10G 工业"
+ ],
+ "channels": {
+  "role": "台系制造商（OEM 补充 SKU）",
+  "region": "全球"
+ },
+ "signals": [
+  "已送 bypass 样品 + 明确 OEM 工业 L2/L3 意向",
+  "自有产线 → 只会外购其不做的 SKU（bypass / 特定口型）"
+ ],
+ "risks": [
+  "台系厂商口径；同行竞争敏感",
+  "8 次跟进无回复 → 样品评估结果待追"
+ ],
+ "saga_fit": {
+  "p1": "LT-IS6312GP-4GX8GT-FBP",
+  "tier": 30,
+  "why": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。"
+ },
+ "email_hook": "Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break."
+}

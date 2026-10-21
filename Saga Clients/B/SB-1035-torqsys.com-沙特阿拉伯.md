@@ -1,4 +1,5 @@
 # torqsys.com
+**官方名称（调研核实）**：Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）
 
 > **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-1035`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1035
 rating: B
 rating_auto: B
+name_official: "Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）"
 score: 28
 country: 沙特阿拉伯
 region: 中东
@@ -19,9 +21,9 @@ replies: 0
 followups: 7
 first_contact: 2023-03-30
 last_contact: 2023-09-11
-p1: STI-280GE
+p1: STI-288GPM
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯的系统集成/工程商；兴趣/在卖：做项目的  让发介绍资料
+- **是谁**：阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。（调研 2026-10-21；表内兴趣：做项目的  让发介绍资料）
 - **为什么是 B 级**：+4 仅已读（read）未回复；+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯
 - **历史互动**：推送 7 次（2023-03-30 → 2023-09-11）
-- **P1（下一步唯一主推）**：STI-280GE — 官网快照对位：工业/自动化词频 25、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1035.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（fuzzylogicautomation.com，快照 2026-10-21）
+- **是谁**：阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。
+- **【官网快照】SCADA / PLC / UPS / 控制系统，水、污水与工业厂站；100+ 客户；+971 545851777**
+  > Industrial automation experts in UAE offering SCADA, PLC, UPS, and control systems for water, sewage, and industrial plants. Trusted by 100+ clients.
+  > 来源：https://www.fuzzylogicautomation.com（抓取 2026-10-21）
+- **【用户表】做项目的，让发介绍资料；2023-04 featured models 宣传册→read**
+  > 兴趣：做项目的 让发介绍资料；回复：read
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Arjun Muralidharan（）arjun.murali@fuzzylogicautomation.com +971 54 585 1777〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Fuzzy Logic Automation LLC（待核） |
+| 成立 | （待核） |
+| 总部/地址 | UAE |
+| 其他 | 水务 / 污水厂站（公用事业，按单核） |
+
+- **业务线**：SCADA / PLC 控制系统集成；水 / 污水厂站自动化
+- **触达通道（公开）**：role: 工业自动化集成商；region: 阿联酋
+- **近况信号**：
+  - SCADA 厂站 = 工业管理交换机场景（ERPS、DIN、宽温）
+- **风险/边界**：公用事业项目（守界：民用水务可供，按单核最终用户）；无回复
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。
+- **邮件切入句（英文）**：Arjun, for the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -101,7 +129,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arjun Muralidharan | — | arjun.murali@fuzzylogicautomation.com | 用户表原值 | Clients/ 表 |
+| Arjun Muralidharan | — | arjun.murali@fuzzylogicautomation.com / +971 54 585 1777 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -117,7 +145,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280GE | 官网快照对位：工业/自动化词频 25、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手 | $48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-288GPM | 深挖对位：SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。 | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -126,9 +154,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -138,7 +166,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-280GE 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -162,12 +190,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hi Arjun,
+
+Picking up our earlier exchange about PoE / industrial switches. Arjun, for the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,0 +1,70 @@
+{
+ "code": "SB-1035",
+ "name_official": "Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fuzzylogicautomation.com，快照 2026-10-21）",
+ "summary": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "SCADA / PLC / UPS / 控制系统，水、污水与工业厂站；100+ 客户；+971 545851777",
+   "quote": "Industrial automation experts in UAE offering SCADA, PLC, UPS, and control systems for water, sewage, and industrial plants. Trusted by 100+ clients.",
+   "url": "https://www.fuzzylogicautomation.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "做项目的，让发介绍资料；2023-04 featured models 宣传册→read",
+   "quote": "兴趣：做项目的 让发介绍资料；回复：read",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Arjun Muralidharan",
+   "title": "（项目 / 技术）",
+   "email": "arjun.murali@fuzzylogicautomation.com",
+   "phone": "+971 54 585 1777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Fuzzy Logic Automation LLC（待核）",
+  "founded": "（待核）",
+  "hq": "UAE",
+  "size": "小型 SCADA 集成商",
+  "other": "水务 / 污水厂站（公用事业，按单核）"
+ },
+ "business_lines": [
+  "SCADA / PLC 控制系统集成",
+  "水 / 污水厂站自动化"
+ ],
+ "channels": {
+  "role": "工业自动化集成商",
+  "region": "阿联酋"
+ },
+ "signals": [
+  "SCADA 厂站 = 工业管理交换机场景（ERPS、DIN、宽温）"
+ ],
+ "risks": [
+  "公用事业项目（守界：民用水务可供，按单核最终用户）",
+  "无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。"
+ },
+ "email_hook": "Arjun, for the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?"
+}

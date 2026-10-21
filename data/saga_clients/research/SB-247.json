@@ -1,0 +1,78 @@
+{
+ "code": "SB-247",
+ "name_official": "VNS Technologies LLC（阿布扎比）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（vnstech.com，快照 2026-10-21）",
+ "summary": "阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "AETEK",
+  "H3C",
+  "Huawei",
+  "Network Optix",
+  "Rasilient"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "组合品牌 H3C / Securicorp / Network Optix / Fortem / AETEK / Rasilient / Irisity / Huawei；+971 2 666 7757；surveillance 25",
+   "quote": "Portfolio H3C Securicorp Network Optix Fortem AETEK RASILIENT Infiniti IRISITY Huawei… +971 2 666 7757",
+   "url": "https://vnstech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "和 aetek 合作了 5 年；工业品看了 2 光 8 管理 POE；商业看了 2 光 24 电，问了管理是 2 层还是 3 层；会来深圳",
+   "quote": "兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Abdul Gafoor",
+   "title": "Executive Director",
+   "email": "gafoor@vnstech.com",
+   "phone": "+971 2 666 7757",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：AETEK 渠道）"
+ },
+ "company_facts": {
+  "legal_name": "VNS Technologies LLC",
+  "founded": "（待核）",
+  "hq": "Abu Dhabi, UAE",
+  "size": "中小型安防集成 / 分销",
+  "other": "AETEK 阿联酋伙伴 5 年"
+ },
+ "business_lines": [
+  "安防监控集成（VMS、存储、AI 分析）",
+  "网络（H3C / Huawei / AETEK PoE）"
+ ],
+ "channels": {
+  "role": "安防集成 + 分销（AETEK 渠道）",
+  "region": "阿联酋（阿布扎比）"
+ },
+ "signals": [
+  "AETEK（台系 PoE 品牌）5 年渠道 → 对台系价位熟悉，Saga 可作低价补充",
+  "已看两款具体机型并问 L2/L3",
+  "计划访深圳 → 可安排 SmartByte 工厂参观"
+ ],
+ "risks": [
+  "阿布扎比政府 / 关键设施项目守界（按单核）",
+  "20 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。"
+ },
+ "email_hook": "Mr. Gafoor, to your L2-or-L3 question: the 24-PoE unit is L2+ (static routing) and there's a full L3 24+4×10G at $280; the industrial 2-SFP + 8-PoE is L2 managed at $82. When you're next in Shenzhen, shall I arrange the factory visit?"
+}

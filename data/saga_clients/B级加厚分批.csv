@@ -337,24 +337,23 @@ SB-818,B,T2,cybron.com.my,马来西亚,亚太,0,0,1,0,0,0,1,0,0,cybron.com.my,1,
 SB-887,B,T2,"VERTEX INVADER, ТОО",哈萨克斯坦,俄语区,0,0,1,0,0,0,1,0,0,,1,1,1,,,
 SB-891,B,T2,baldota.co.in,印度,南亚,0,0,1,0,0,0,0,0,0,baldota.co.in;mspllimited.com,1,1,1,ok,,
 SB-420,B,T2,JMP,韩国,亚太,0,0,0,0,0,0,1,0,52,jmpsys.com;jmpsystem.com,2,1,1,ok,,
-SB-291,B,T2,"INTERCOAX CO.,LTD",韩国,亚太,0,0,0,0,0,0,1,0,44,intercoax.com,3,0,0,ok,,
-SB-666,B,T2,NaSys Inc,韩国,亚太,0,0,0,0,0,0,1,0,35,nasys.kr,1,0,0,ok,,
-SB-274,B,T2,Blackbear TechHive,韩国,亚太,0,0,0,0,0,0,1,1,33,blackbear-ics.com,1,0,0,ok,,STI-288GP
-SB-144,B,T2,deonet.co.kr,韩国,亚太,0,0,0,0,0,0,1,0,23,deonet.co.kr,2,0,0,ok,,STC-424XGGM
-SB-247,B,T2,VNS technologies,阿联酋,中东,0,0,0,0,0,0,1,0,20,vnstech.com,1,0,0,ok,"Huawei,H3C",STC-28DGGPM
-SB-1249,B,T2,sswmcctvshop.com,泰国,亚太,0,0,0,0,0,0,1,0,16,sswmcctvshop.com,1,0,0,unreachable,,
-SB-027,B,T2,glm.ge,格鲁吉亚,俄语区,0,0,0,0,0,0,1,1,15,glm.ge,1,0,0,ok,,STC-424DGGPM-280W
-SB-456,B,T2,austec.net,澳大利亚,亚太,0,0,0,0,0,0,1,0,11,austec.net,1,0,0,ok,"Dahua,Cambium,D-Link,ONV,Teltonika",STI-288GP
-SA-062,B,T2,aetektec.com,台湾,亚太,0,0,0,0,0,0,1,0,8,aetektec.com,1,0,0,ok,Hanwha,STI-288GP
-SB-061,B,T2,Volktek,台湾,亚太,0,0,0,0,0,1,1,1,8,volktek.com,2,0,0,ok,,STI-288GP
-SB-056,B,T2,Gigalight Pte ltd,新加坡,亚太,0,0,0,0,0,0,1,0,7,gigalight.com.sg,2,0,0,ok,Schneider,STI-288GP
-SB-1035,B,T2,torqsys.com,沙特阿拉伯,中东,0,0,0,0,0,0,1,0,7,torqsys.com;fuzzylogicautomation.com,1,0,0,ok,,STI-280GE
-SB-294,B,T2,MAX protect,突尼斯,非洲,0,0,0,0,0,1,0,0,6,max-protect.com,1,0,0,ok,"Dahua,Hikvision,Uniview",STC-424DGGPM-280W
-SB-1139,B,T2,Tubal,埃及,非洲,0,0,0,0,0,0,1,0,1,tubal-egypt.com,1,0,0,ok,,
-SB-1164,B,T2,bitstreamcore.com,菲律宾,亚太,0,0,0,0,0,0,1,0,1,bitstreamcore.com,1,0,0,timeout,,
-SB-152,B,T2,nag.ru,俄罗斯,俄语区,0,0,0,0,0,0,1,0,1,nag.ru,3,0,0,ok,,
-SB-575,B,T2,Latitude,莫桑比克,非洲,0,0,0,0,0,0,1,0,1,voiptech.co.mz,2,0,0,http_error,,
-SB-668,B,T2,Siklu Communication,黎巴嫩,中东,0,0,0,0,0,0,1,0,1,siklu.com,1,0,0,ok,Ubiquiti,STI-280GE
+SB-291,B,T2,"INTERCOAX CO.,LTD",韩国,亚太,0,0,0,0,0,0,1,0,44,intercoax.com,3,1,1,ok,,
+SB-666,B,T2,NaSys Inc,韩国,亚太,0,0,0,0,0,0,1,0,35,nasys.kr,1,1,1,ok,,
+SB-274,B,T2,Blackbear TechHive,韩国,亚太,0,0,0,0,0,0,1,1,33,blackbear-ics.com,1,1,1,ok,,STI-288GP
+SB-144,B,T2,deonet.co.kr,韩国,亚太,0,0,0,0,0,0,1,0,23,deonet.co.kr,2,1,1,ok,,STC-424XGGM
+SB-247,B,T2,VNS technologies,阿联酋,中东,0,0,0,0,0,0,1,0,20,vnstech.com,1,1,1,ok,"Huawei,H3C",STC-28DGGPM
+SB-1249,B,T2,sswmcctvshop.com,泰国,亚太,0,0,0,0,0,0,1,0,16,sswmcctvshop.com,1,1,1,unreachable,,
+SB-027,B,T2,glm.ge,格鲁吉亚,俄语区,0,0,0,0,0,0,1,1,15,glm.ge,1,1,1,ok,,STC-424DGGPM-280W
+SB-456,B,T2,austec.net,澳大利亚,亚太,0,0,0,0,0,0,1,0,11,austec.net,1,1,1,ok,"Dahua,Cambium,D-Link,ONV,Teltonika",STI-288GP
+SA-062,B,T2,aetektec.com,台湾,亚太,0,0,0,0,0,0,1,0,8,aetektec.com,1,1,1,ok,Hanwha,STI-288GP
+SB-061,B,T2,Volktek,台湾,亚太,0,0,0,0,0,1,1,1,8,volktek.com,2,1,1,ok,,STI-288GP
+SB-056,B,T2,Gigalight Pte ltd,新加坡,亚太,0,0,0,0,0,0,1,0,7,gigalight.com.sg,2,1,1,ok,Schneider,STI-288GP
+SB-1035,B,T2,torqsys.com,沙特阿拉伯,中东,0,0,0,0,0,0,1,0,7,torqsys.com;fuzzylogicautomation.com,1,1,1,ok,,STI-280GE
+SB-294,B,T2,MAX protect,突尼斯,非洲,0,0,0,0,0,1,0,0,6,max-protect.com,1,1,1,ok,"Dahua,Hikvision,Uniview",STC-424DGGPM-280W
+SB-1139,B,T2,Tubal,埃及,非洲,0,0,0,0,0,0,1,0,1,tubal-egypt.com,1,1,1,ok,,
+SB-1164,B,T2,bitstreamcore.com,菲律宾,亚太,0,0,0,0,0,0,1,0,1,bitstreamcore.com,1,1,1,timeout,,
+SB-152,B,T2,nag.ru,俄罗斯,俄语区,0,0,0,0,0,0,1,0,1,nag.ru,3,1,1,ok,,
+SB-575,B,T2,Latitude,莫桑比克,非洲,0,0,0,0,0,0,1,0,1,voiptech.co.mz,2,1,1,http_error,,
 SB-1103,B,T2,Multi Technology System,未填,未知,0,0,0,0,0,0,1,0,0,multi-technology.com,1,0,0,ok,,
 SB-1138,B,T2,Precision,巴西,拉美,0,0,0,0,0,0,1,0,0,precisionsolutions.com.br,1,0,0,ok,,
 SB-254,B,T2,AADONA COMMUNICATION Pvt. Ltd.,印度,南亚,0,0,0,0,0,0,1,0,0,aadona.com,2,0,0,ok,,
