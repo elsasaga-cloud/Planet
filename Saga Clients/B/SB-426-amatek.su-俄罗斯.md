@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 35 次（2024-04-29 → 2025-10-31）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-426.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://amatek.su/　语言：ru　站点地图 URL 数：1423
+- **标题**：Amatek - cистемы видеонаблюдения
+- **描述**：Официальный сайт торговой марки Amatek. На сайте представлен каталог современного и надежного оборудования для видеонаблюдения по доступным ценам.
+- **首页栏目**：Новости / Новинки
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 557、sfp 43、nvr 30、ethernet 26、cctv 10、2.5g 3
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, AN-SXGM12P8S, AN-SXG10P8, AN-SXGM6P4, AN-SX8F, AN-SXGM28P24, AN-SXG6P4, AN-SXG6P4D, AN-SXG10P8D, AN-PI15PG, AN-S6P4D, APN-SXG12P8
+- **站内公开邮箱**：info@amatek.su, remont2@ksb.su, remont3@ksb.su, remont4@ksb.su, remont@amatek.su, support@ksb.su
+- **社媒**：https://vk.com/amatek, https://www.facebook.com/AmatekRussia/, https://www.instagram.com/ksb_amatek, https://www.youtube.com/channel/UCNSSCmYlGf7klcRsfhRLT6Q
+- **产品类页面**：https://amatek.su/pages/switch_faq；https://amatek.su/pages/passive-poe；https://amatek.su/pages/an-sw10p8_cloud-managed_switch；https://amatek.su/pages/poe-power-over-ethernet-poe-ultrapoe；https://amatek.su/news/novinka-amatek-kommutator-hipoe-poe-apn-sx10p；https://amatek.su/catalog
+- **已抓子页**：[Категории оборудования Amatek](https://amatek.su/categories/industrial_switches)；[Amatek - контакты](https://amatek.su/pages/contacts)；[Amatek - cистемы видеонаблюдения](https://amatek.su/pages/support_contacts)；[Коммутаторы](https://amatek.su/categories/switches)；[Коммутаторы Amatek](https://amatek.su/categories/ip_switches)；[Категории оборудования Amatek](https://amatek.su/categories/poe-injectors)
+- 首页正文摘录：Ваш город: Войти Найти Корзина: пусто 8-800-707-10-40 Пн-Пт 09.00-18.00 Отправить сообщение Каталог О нас Каталог Где купить Новости Документация Программное обеспечение Сертификаты Реклама Частые вопросы (FAQ) Гарантия Глоссарий Контакты поддержки Поддержка IP видеорегистраторы (NVR) IP видеокамеры Поворотные IP видеокамеры IP видеорегистраторы (NVR) ECO серия IP видеокамеры ECO серия Коммутаторы IP аксессуары IP ви
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 557、监控 40 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-426.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -200,7 +216,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-11-03
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-10-16 → 2025-11-03）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,6 +64,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-366.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://osd.com.au/　语言：en-US　站点地图 URL 数：709
+- **标题**：Optical Systems Design (OSD) - Video, Audio, Data & IP SolutionsOptical Systems Design / Industrial networking solutions. PoE switch, media converters. Data, vi
+- **描述**：Optical Systems Design (OSD) is an innovative Australian company providing cost effective communication systems solutions based on optical fiber technology.
+- **首页栏目**：INDUSTRIAL NETWORKING. ENGINEERED IN AUSTRALIA / Search the site / Latest News / Featured Product / OSD E-Newsletter
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 70、ethernet 65、poe 49、switch 40、industrial 23、gigabit 23、media converter 15、fiber 15、10g 8、distributor 7、2.5g 5、fibre 2
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, OSD2524P, OSD2184P, OSD2153P, OSD2524, OSD2010, OSD2892, OSD2054P, OSD2281P, OSD2284P, OSD2790SFP, OSD2890SFP
+- **站内公开邮箱**：sales@osd.com.au
+- **站内公开电话**：+61 2 9913 8540, +61 2 9913 8735
+- **产品类页面**：https://osd.com.au/osd2524p-24-port-poe-switch/；https://osd.com.au/poe/；https://osd.com.au/osd2184p-poe-for-all-powered-devices/；https://osd.com.au/products/client-login/；https://osd.com.au/product/osd152/osd152-2/；https://osd.com.au/product/osd137/osd137-ds/
+- **已抓子页**：[PoE Archives - Optical Systems DesignOptical Systems Design](https://osd.com.au/product_category/poe/)；[OSD2524P - 24 Port PoE Switch - Optical Systems DesignOptica](https://osd.com.au/osd2524p-24-port-poe-switch/)；[Industrial EthernetOptical Systems Design](https://osd.com.au/product_category/ethernet/)；[About -Optical Systems Design](https://osd.com.au/company-profile/)；[OSD Featured Products Archives - Optical Systems DesignOptic](https://osd.com.au/osd-products/)；[CATV/RFoF Archives - Optical Systems DesignOptical Systems D](https://osd.com.au/product_category/catvrfof/)
+- 首页正文摘录：Home About About Letter from the General Manager Quality Assurance and Warranty Quality, Health & Safety and Environment Policy OSD Return Policy OSD TERMS OF SALE Our Products Ethernet Power over Ethernet (PoE) ANALOG VIDEO DATA, AUDIO & ALARMS BROADCAST CATV/RFoF Accessories END OF LIFE / MAINTENANCE Featured Products News Projects Tech Corner Contact Contact OSD E-newsletter International Distributors Presentation
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 23、PoE 49 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-366.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,7 +169,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

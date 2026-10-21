@@ -19,10 +19,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-424XGGM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：伊朗的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：产品线很相似
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/伊朗
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 113、交换机 14 → 24 GE + 4×10G L2+ 起手；$138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-468.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ittelecom.ir/　语言：fa　站点地图 URL 数：506
+- **标题**：فروشگاه اینترنتی آی‌تی‌تلکام
+- **描述**：مرجع نقد و بررسی و فروش محصولات شبکه ، دوربین مدار بسته و فیبرنوری
+- **首页栏目**：فروشگاه اینترنتی آی‌تی‌تلکام / انجمن و تاپیک / cctv / دوربینهای خانگی / طراحی سوئیچ 8پورت گیگ غیرمدیریتی / بررسی لپ‏تاپ ام اس آی GE66 Raider مدل 2020 / بررسی مک بوک پرو ۱۳ اینچی M1 اپل / بررسی مایکروسافت سرفیس لپ تاپ گو
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 134、10g 84、poe 58、2.5g 29、ethernet 19、telecom 17、switch 14、cable 12、gigabit 11、fiber 9、access control 7、wifi 5
+- **站内型号串**（正则抽取，含非交换机）：SFP28, RS232, RS485, ITT-MCP-2G1SFP, ITT-SW-L3-48GE2TF4S, ITT-SW-L3-16GE12SFP, ITT-SW-L3-32GE, ITT-COR-L3-24SFP8GE4S, ITT-INJ-1GE-60W, TIA-1057, ICES-003, ITT-COR-L3-24SFP24GE6S
+- **站内公开邮箱**：h_hazeghi@ittelecom.ir, pooyanafzali@gmail.com, sale@ittelecom.ir
+- **社媒**：http://instagram.com/ittelecomco, https://t.me/Parhammee
+- **产品类页面**：https://ittelecom.ir/products/cat/ethernet-switches/poe-industrial-switch；https://ittelecom.ir/products/cat/ethernet-switches/industrialethernetswitches；https://ittelecom.ir/products/cat/ethernet-switches/layer-two-industrial-switch；https://ittelecom.ir/products/cat/ethernet-switches/layer-three-industrial-switch；https://ittelecom.ir/products/cat/ethernet-switches/gig-industrial-network-switch；https://ittelecom.ir/products/cat/media-converters/fiber-to-ethernet-industrial-poe
+- **已抓子页**：[سوئیچ شبکه لایه سه 48 پورت اترنت با4 پورت 10گیگ و 2پورت‌فیبر](https://ittelecom.ir/shop/layer3-network-switch-48ethernet-ports-four-10g-ports-and-two-40g-fiber-optic-ports)；[سوئیچ شبکه لایه 3 رکمونت 16پورت 10G شبکه و 4 پورت 25G فیبرنو](https://ittelecom.ir/shop/rack-mount-layer3-network-switch-with-16-10g-ports-and-4x25g-fiber-optic-ports)；[مدیاکانورتور 2 پورت شبکه POE یک پورت فیبرنوری / آی‌تی‌تلکام](https://ittelecom.ir/shop/2-gigabit-poe-switch-2sfp)；[Poe انجکتور صنعتی ۶۰ وات دین ریل / آی‌تی‌تلکام](https://ittelecom.ir/shop/1-port-10-100-1000mbps-industrial-ultra-poe-midspan-injector)；[خرید و قیمت انواع سوئیچ شبکه / آی‌تی‌تلکام](https://ittelecom.ir/products/cat/ethernet-switches)；[سوئیچ شبکه 32 پورت اترنت 10 گیگ لایه 3 رکمونت / آی‌تی‌تلکام](https://ittelecom.ir/shop/32-port-10g-layer-3-network-switch)
+- 首页正文摘录：فروشگاه اینترنتی آی‌تی‌تلکام / ۰ سبد ورود / ثبت‌نام دسته‌بندی‌ها سوئیچ شبکه مدیا کانورتر مبدل ویدیویی سیستم‌های انتقال مبدل سریال دوربین مدار بسته پسیو فیبر نوری پسیو شبکه مودم و روتر IP گیت وی سابرک‌ها پاور منبع تغذیه هدست بلاک چین کامپیوتر مقالات انجمن درباره ما تماس با ما کاتالوگ ۰۲۱-۴۴۴۴۶۰۱۲ sale@ittelecom.ir سوئیچ شبکه مدیا کانورتر مبدل ویدیویی سیستم‌های انتقال مبدل سریال دوربین مدار بسته پسیو فیبر نوری پسیو شبک
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 113、交换机 14 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-468.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -92,7 +108,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-424XGGM | 官网快照对位：10G/2.5G 词频 113、交换机 14 → 24 GE + 4×10G L2+ 起手 | $138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -101,9 +117,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -113,7 +129,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STC-424XGGM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -137,30 +153,12 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

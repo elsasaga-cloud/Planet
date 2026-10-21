@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-448DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-707.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.hstn.co.th/　语言：th-TH　站点地图 URL 数：6480
+- **标题**：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด
+- **描述**：งานระบบ Internet Network​ Digital TV IPTV MATV Signage OLED TV Hospitality Head-End ดิจิตอลทีวี ไอพีทีวี
+- **首页栏目**：What service are you looking for / Network Infrastructure Fiber Optic GPON FTTx / Network Infrastructure LAN And Fiber Optic / WiFi And Wired System / MATV SMATV CATV Systems / FRACARRO Philips MATV SMATV SAT HFC FTTx / ARISTA Pro IPTV Solution Hospitality IPTV System / LG Pro:Centric V, Direct, on Cloud
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 98、wifi 60、cctv 37、access control 23、switch 2、automation 1、wireless 1、ftth 1、cable 1、distributor 1
+- **站内型号串**（正则抽取，含非交换机）：ACE-WE-YZB-16-20, ACE-WR1088M, ACE-WT1550EM, ACE-WT1550DM, OFC-FIG8-XXC, ISO9001, ACE-WR1000SF, TXM-CMOT10R, WR-1001J, WR-1088-M, WS-1524J, WE-1550-YZC
+- **站内公开邮箱**：%20contact@hstn.co.th, contact@hstn.co.th
+- **社媒**：https://www.facebook.com/HighSolutionX, https://www.youtube.com/c/hstnofficial
+- **产品类页面**：https://www.hstn.co.th/product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp；https://www.hstn.co.th/en/product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp；https://www.hstn.co.th/products；https://www.hstn.co.th/e-catalogue；https://www.hstn.co.th/en/products；https://www.hstn.co.th/en/e-catalogue
+- **已抓子页**：[ระบบไฟเบอร์ออฟติก](https://www.hstn.co.th/fiberopticsystem)；[FTTx / HFC / FO System](https://www.hstn.co.th/gallery/1483/ไฟเบอร์ออฟติค)；[Network Infrastructure Fiber Optic LAN](https://www.hstn.co.th/networkinfrastructurefiberopticlan)；[Network Infrastructure Fiber Optic GPON FTTx](https://www.hstn.co.th/network-infrastructure-fiber-optic-gpon-fttx)；[hstn](https://www.hstn.co.th/cctv-highsolution)；[CCTV](https://www.hstn.co.th/gallery/1479/กล้องวงจรปิด)
+- 首页正文摘录：TH EN หน้าหลัก สินค้า GPON FTTx Networks Fiber Optic Equipment GPON FTTx Equipment Telephone Equipment Internet Equipment Digital TV Equipment IPTV Equipment LAN and Fiber Optic Networks WiFi and Wired System MATV and CATV System UHD 4K Encoder to IP & Digital TV Modulator Full HD Encoder to IP & Digital TV Modulator A/V Standard Definition Encoder to IP & Digital TV Modulator DVB-S/S2 & DVB-T/T2 Tuner to IP & Digita
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-707.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +161,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

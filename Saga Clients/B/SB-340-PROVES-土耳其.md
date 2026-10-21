@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -90,6 +90,17 @@ updated: 2026-10-21
 - **风险/边界**：市政项目公共部门（按个案守界）；无后续跟进
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://proves.com.tr/　语言：tr　站点地图 URL 数：27
+- **标题**：Proves Bilgi Teknolojileri – Güvenlik – Altyapı – Siber Güvenlik
+- **首页栏目**：Yenilikçi Teknolojilerle Geleceğinizi Şekillendiriyoruz / Proves / İş Süreçlerimiz / Çözümlerimiz / Çözüm Ortaklarımız / İletişim
+- **站内公开邮箱**：bilgi@proves.com.tr, info@proves.com.tr
+- **站内公开电话**：+90 (542) 563 30 82
+- **已抓子页**：[Hakkımızda – Proves Bilgi Teknolojileri](https://proves.com.tr/hakkimizda/)；[İletişim – Proves Bilgi Teknolojileri](https://proves.com.tr/iletisim/)；[Kamera ve Alarm Sistemleri – Proves Bilgi Teknolojileri](https://proves.com.tr/kamera-ve-alarm-sistemleri/)
+- 首页正文摘录：✕ Anasayfa Hakkımızda Çözümlerimiz İletişim Anasayfa Hakkımızda Çözümlerimiz İletişim Anasayfa Hakkımızda Çözümlerimiz İletişim ✅ Güvenilir altyapı, yüksek performans ve kesintisiz hizmet. ✅ İp Kamera Güvenlik çözümleri, Sanal ve fiziksel sunucular ve daha fazlası. Geleceğinizi Güçlendirin! İşletmenizin teknolojik dönüşümünü hızlandırın. Güçlü, güvenli ve kesintisiz bir dijital altyapıya sahip olun! Güvenli ve Kesin 
+- 数据文件：`data/saga_clients/site_snapshots/SB-340.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

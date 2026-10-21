@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-446.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://hamdaz.com/　语言：en-US　站点地图 URL 数：31
+- **标题**：Hamdaz
+- **首页栏目**：Delivering the Digital Future / TechCraft Innovations / Join the Hamdaz Team / Streamlined Excellence / How can we help your Business? / HAMDAZ Technologies / Our Managed Services / Discover Our Range of AI Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 15、automation 2
+- **站内公开邮箱**：hello@hamdaz.com
+- **站内公开电话**：+91 9207773300, +971 23090211, +971 26265780
+- **社媒**：https://wa.me/+919207773300, https://wa.me/9207773300, https://www.linkedin.com/company/hamdaz-technologies/
+- **产品类页面**：https://hamdaz.com/products/；https://hamdaz.com/product/sports/；https://hamdaz.com/product/online-education/；https://hamdaz.com/product/oil-and-gas-industry/；https://hamdaz.com/product/small-and-medium-enterprises-smes/；https://hamdaz.com/product/schools-and-educational-institutions/
+- **已抓子页**：[Products – Hamdaz](https://hamdaz.com/products/)；[Sports – Hamdaz](https://hamdaz.com/product/sports/)；[Online Education – Hamdaz](https://hamdaz.com/product/online-education/)；[Oil and Gas Industry – Hamdaz](https://hamdaz.com/product/oil-and-gas-industry/)；[Small and Medium Enterprises (SMEs) – Hamdaz](https://hamdaz.com/product/small-and-medium-enterprises-smes/)；[Schools and Educational Institutions – Hamdaz](https://hamdaz.com/product/schools-and-educational-institutions/)
+- 首页正文摘录：Home Who We Are What We Do GenerativeAI Cloud Services & Migration Information Security Services Data Center/Infra Structure Services Network Services Cabling /Structured Cabling More >> How We Do Oil and Gas Industry Schools and Educational Institutions Small and Medium Enterprises Online Education Sports Contact Us × Home Who We Are What We Do GenerativeAI Cloud Services & Migration Information Security Services Da
+- 数据文件：`data/saga_clients/site_snapshots/SB-446.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +151,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

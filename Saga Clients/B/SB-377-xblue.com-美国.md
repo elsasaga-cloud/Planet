@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-14 → 2025-10-28）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-377.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://xblue.com/　语言：en-US　站点地图 URL 数：513
+- **标题**：XBLUE.com - Business Phone Systems
+- **描述**：XBLUE easy to use, cost effective VoIP & Cloud phone systems increase productivity and efficiency of any size business
+- **首页栏目**：Powerful Cloud Phone Systems with Advanced AI Options / Advanced Cloud Phone Systems / On-Premise Systems / XBLUE Cloud AI / BOGO Free Phones! / When You Sign Up for A New XBLUE Cloud Phone System / Why Businesses Choose XBLUE / Real Business Phone Systems - Experts are Ready to Help!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 5、switch 3、wifi 2、telecom 2、cable 2、poe 1
+- **产品类页面**：https://xblue.com/product/8-port-poe-switch/；https://xblue.com/shop-for-xblue-products-services/；https://xblue.com/our-products/；https://xblue.com/customer-support-service/discontinued-products/；https://xblue.com/customer-support-service/discontinued-products-orginal/；https://xblue.com/shop-webdev-redux-q1-2025/
+- **已抓子页**：[XBLUE - XBLUE Phone Systems](https://xblue.com/our-products/)；[Registration - Register Your XBLUE System - XBLUE](https://xblue.com/registration/)；[QB System Parts Archives - XBLUE](https://xblue.com/product-category/qb-parts/)；[About - XBLUE](https://xblue.com/about/)；[1-866-925-8312 - Contact Us - XBLUE Networks](https://xblue.com/contact-us/)；[Support for XBLUE Phone Systems, Line Service and Cloud Burs](https://xblue.com/customer-support-service/)
+- 首页正文摘录：Skip to content 866-925-8312 913-599-2583 Send a Message Menu Close About Videos Reviews Products & Pricing Support Product Registration About Videos Reviews Products & Pricing Support Product Registration $ 0.00 0 Cart Powerful Cloud Phone Systems with Advanced AI Options XBLUE delivers reliable, scalable, and feature-rich cloud communications solutions for businesses of all sizes Work From Anywhere Keep Your Existi
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-377.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -172,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

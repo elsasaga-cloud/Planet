@@ -22,7 +22,7 @@ last_contact: 2025-10-08
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-03-13 → 2025-10-08）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-259.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.alternetivo.cz/　语言：cs　站点地图 URL 数：0
+- **标题**：Alternetivo / IT distributor / Switching/routing, monitoring, sÃ­Å¥ovÃ¡ bezpeÄnost, kabelÃ¡Å¾e, bezdrÃ¡tovÃ© a optickÃ© sÃ­tÄ
+- **描述**：Technologie pro pÅenos hlasu a dat: switching/routing, bezdrÃ¡tovÃ© a optickÃ© sÃ­tÄ, strukturovanÃ© kabelÃ¡Å¾e, sÃ­Å¥ovÃ¡ bezpeÄnost, IP monitoring
+- **首页栏目**：PÅihlÃ¡Å¡enÃ­
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 59、switch 21、distributor 18、ethernet 10、tp-link 5、datacenter 3、wifi 2
+- **站内出现的品牌**：Zyxel, Cambium　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PM-1540, RKS-0447, CZ25098314, SK2023145113
+- **站内公开邮箱**：eshop@alternetivo.cz, eshop@alternetivo.sk, info@alternetivo.cz, info@alternetivo.sk, rma@alternetivo.cz, support@alternetivo.cz
+- **站内公开电话**：+420 221 771 807, +420 221 771 815, +420 221 771 881, +420 221 771 882, +420 724 610 000, +420 724 610 001
+- **社媒**：https://cz.linkedin.com/company/alternetivo-s-r-o-, https://twitter.com/Alternetivo, https://www.facebook.com/Alternetivo/, https://www.youtube.com/user/alternetivo1
+- **已抓子页**：[O spoleÄnosti / Alternetivo](https://www.alternetivo.cz/default.asp?show=wm&wmpart=article&wmaid=3)；[Kontakty / Alternetivo](https://www.alternetivo.cz/kontakty_ma64.html)；[NetworkingovÃ© legendy / Alternetivo](https://www.alternetivo.cz/networkingove-legendy_ma1164.html)；[Alternetivo / IT distributor / Switching/routing, monitoring](https://www.alternetivo.cz/hledate-nahradu-za-cambium-networks-_ws928.html)；[Alternetivo / IT distributor / Switching/routing, monitoring](https://www.alternetivo.cz/wi-fi-ruckus-networks-pro-nemocnice-_ws739.html)；[Alternetivo / IT distributor / Switching/routing, monitoring](https://www.alternetivo.cz/hledate-nahradu-za-cambium-networks-_w928&special=1.html)
+- 首页正文摘录：Jazyk / Language EN SK OblÃ­benÃ© O nÃ¡s O spoleÄnosti Podporujeme KariÃ©ra ObchodnÃ­ podmÃ­nky DodacÃ­ podmÃ­nky ReklamaÄnÃ­ podmÃ­nky PodmÃ­nky dodÃ¡nÃ­ SaaS Kontakty Informace Produkty VyhledÃ¡vÃ¡nÃ­ SpeciÃ¡lnÃ­ nabÃ­dka Novinky VÃ½prodej OblÃ­benÃ© produkty SluÅ¾by ZÃ¡pÅ¯jÄky SluÅ¾by TSD ServisnÃ­ sluÅ¾by / SLA NÃ¡kup na splÃ¡tky Podpora Å kolenÃ­ PodmÃ­nky Å¡kolenÃ­ TermÃ­ny Å¡kolenÃ­ ZÃ¡znam webinÃ¡ÅÅ¯ PÅÃ
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 21、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-259.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

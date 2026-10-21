@@ -1,8 +1,8 @@
 {
  "code": "SA-115",
- "name_official": "Advance Digital（advancedigital.co.in，印度）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "印度网络/光通信产品贸易商，WA 在线，3 次回复、15 次跟进；要求报光产品价格。",
+ "name_official": "Advance Digital（advancedigital.co.in，印度；Subodh）",
+ "website_status": "停放/空站（快照「Welcome to」占位页）",
+ "summary": "印度古吉拉特（+91 94260）经销商 Subodh，2024 年起多轮索要光产品价格与资料（2 光 4、电口、mini 工业、10G MC），回复多为「有用 暂时没需求」；域名已成占位页，公司活跃度存疑。",
  "type": "贸易商",
  "size": "待补证",
  "brands_seen": [],
@@ -11,6 +11,20 @@
    "kind": "用户记录",
    "claim": "要光产品报价；WA 已加；3 次回复",
    "quote": "send price of optical product；94260 60606 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "域名为占位页",
+   "quote": "title: Welcome to（parked_or_empty）",
+   "url": "http://advancedigital.co.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 send price of optical product；回复 all info and price / ok / 有用暂时没需求 ×2 / thanks",
+   "quote": "兴趣：send price of optical product；回复：all info and price；有用 暂时没需求；thanks",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,10 +36,48 @@
    "email": "",
    "phone": "+91 94260 60606（WA）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Subodh",
+   "title": "（表内联系人）",
+   "email": "info@advancedigital.co.in",
+   "phone": "+91 94260 60606",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。",
  "notes": "WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "印度（古吉拉特号段）",
+  "size": "小型经销",
+  "other": "域名占位，可能已停用网站"
+ },
+ "business_lines": [
+  "光纤产品 / 网络设备经销（推断）"
+ ],
+ "channels": {
+  "role": "经销商",
+  "region": "印度"
+ },
+ "signals": [
+  "持续接收资料但无需求（2024–2025）"
+ ],
+ "risks": [
+  "网站占位 → 活跃度存疑；邮箱可能失效",
+  "印度低价竞争"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。"
+ },
+ "email_hook": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?"
 }

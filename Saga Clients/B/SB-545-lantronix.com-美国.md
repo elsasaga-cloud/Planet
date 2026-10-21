@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-24 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-545.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.lantronix.com/　语言：en-US　站点地图 URL 数：1444
+- **标题**：Intelligent IoT Solutions - Connect, Compute, Comprehend, Control
+- **描述**：IoT building blocks & gateways, cloud-based device management, automated downtime managers: Lantronix IoT products and services help you connect smart!
+- **首页栏目**：Out-of-Band Management / Software / Services / Industries / Network Infrastructure / Industrial IoT / SOMs & Dev Kits / Embedded Gateways
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 11、fiber 10、ethernet 6、data center 5、switch 4、sfp 3、media converter 3、camera 3、surveillance 3、automation 2、installer 2、wifi 1
+- **站内公开邮箱**：logo-tagline@2x.avif
+- **社媒**：https://www.lantronix.com/, https://www.lantronix.com/about-us/, https://www.lantronix.com/about-us/contact/, https://www.lantronix.com/buy/, https://www.lantronix.com/investor-relations/, https://www.lantronix.com/lantronix-products/lantronix-out-of-band-management/autonomous-out-of-band/
+- **产品类页面**：https://www.lantronix.com/blog/best-kept-secret-video-security-surveillance-applications-poe-switches/；https://www.lantronix.com/blog/transition-networks-poe-switches-dms-integrate-siemens-siveillance-video-client…；https://www.lantronix.com/blog/transition-networks-poe-switches-dms-integrate-milestone-xprotect-vms-smart-cli…；https://www.lantronix.com/blog/need-sfps-with-your-switches-why-getting-products-and-accessories-together-is-s…；https://www.lantronix.com/blog/transition-networks-self-enclosed-switch-wins-product-of-the-year/；https://www.lantronix.com/blog/self-enclosed-switch-wins-top-tier-product-award-from-mission-critical/
+- 首页正文摘录：About Us How to Buy Partners MyLantronix Investors Contact Us English Search Search Open Menu Out-of-Band Network Infrastructure Industrial IoT SOMs & Dev Kits Connectivity Modules Resources & Support Products Software Services Industries Out-of-Band Management Built for how enterprise networks work today. Autonomous Out-of-Band Closed Loop Automation KVMs Accessories Software Lantronix Centralized Management Softwar
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 13、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-545.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +173,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

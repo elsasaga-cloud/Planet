@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -87,6 +87,20 @@ updated: 2026-10-21
 - **风险/边界**：要求双清包税：Saga 需经货代做 DDP（土耳其清关风险）；无后续跟进；价格预期偏低
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期
 - **邮件切入句（英文）**：Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://makrosisas.com.tr/　语言：tr　站点地图 URL 数：563
+- **标题**：i-PRO TÃ¼rkiye & Panasonic GÃ¼venlik Sistemleri Premium DistribÃ¼tÃ¶rÃ¼ / Makro Sistem
+- **描述**：i-PRO (eski adÄ±yla Panasonic Security Systems) TÃ¼rkiye Premium DistribÃ¼tÃ¶rÃ¼ Makro Sistem. Edge AI gÃ¼venlik kameralarÄ±, NVR kayÄ±t sistemleri, CCTV ve yangÄ±n algÄ±lama Ã§Ã¶zÃ¼mleri.
+- **首页栏目**：60 YÄ±llÄ±k GeÃ§miÅe Sahip, GÃ¼vendiÄiniz Yeni Nesil Ä°Å OrtaÄÄ± / En YenilikÃ§i Teknolojilerle Maksimum GÃ¼venlik / i-PRO Core Teknolojisi / i-PRO Edge AI ÃÃ¶zÃ¼mÃ¼ / Siber GÃ¼venlik / Edge AI uygulama ortaklarÄ± / Neden i-PRO? / DonanÄ±m
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：distributor 8
+- **站内公开邮箱**：info@makrosisas.com.tr
+- **站内公开电话**：+90 (212) 272 47 92
+- **产品类页面**：https://makrosisas.com.tr/products/i-pro/system-products/poe-injectors；https://makrosisas.com.tr/products；https://makrosisas.com.tr/products/toa；https://makrosisas.com.tr/products/i-pro；https://makrosisas.com.tr/products/toa/ip-audio；https://makrosisas.com.tr/products/i-pro/accessories
+- **已抓子页**：[Ürünler - Markalar / i-PRO & TOA / Makro Sistem](https://makrosisas.com.tr/products)；[Ä°letiÅim / i-PRO TÃ¼rkiye DistribÃ¼tÃ¶rÃ¼ / Makro Sistem](https://makrosisas.com.tr/contact.html)；[HakkÄ±mÄ±zda / i-PRO TÃ¼rkiye & Panasonic GÃ¼venlik DistribÃ](https://makrosisas.com.tr/hakkimizda.html)
+- 首页正文摘录：Ana Sayfa HakkÄ±mÄ±zda Network ÃrÃ¼nler Arama Ä°letiÅim i-PRO TÃ¼rkiye â Eski AdÄ±yla Panasonic Security 60 YÄ±llÄ±k GeÃ§miÅe Sahip, GÃ¼vendiÄiniz Yeni Nesil Ä°Å OrtaÄÄ± Daha Ã¶nce Panasonic Security adÄ±yla bilinen i-PRO, Cyber-Secure Edge AI gÃ¼venlik kameralarÄ± alanÄ±nda Ã¶ncÃ¼ markalardan biridir. GÃ¼venlik sektÃ¶rÃ¼ndeki 60 yÄ±lÄ± aÅkÄ±n deneyimiyle i-PRO, Cyber-Secure Open Edge-AI donanÄ±mÄ± alanÄ±nda
+- 数据文件：`data/saga_clients/site_snapshots/SB-360.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

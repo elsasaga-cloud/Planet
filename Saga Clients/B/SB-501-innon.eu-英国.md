@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-501.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.innon.eu/　语言：en　站点地图 URL 数：7
+- **标题**：Be Ready For Anything™ - Europe — Innon Europe
+- **描述**：Innon is a Ready for Anything™ company targeting creative engineers offering the knowledge and the tools to equip buildings to be ready for any situation.
+- **首页栏目**：BMS hardware. In Europe. Ready to ship. / Testimonials / Main menu / Follow us / Innon Romania SRL Registered in Romania. / Country / Added to your cart:
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 14、wireless 14、industrial 12、switch 11、automation 7、sfp 7、ethernet 7、wifi 5、cable 4、distributor 4、integrator 3
+- **站内出现的品牌**：Milesight, Teltonika, Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：JACE-9000, JACE-9000-USD-SURCHARGE, RO43307689, SFAR-1M-4DI, RS485, SUP-1, SFAR-S-16RO, SFAR-S-16DI, SFAR-S-8AI2DO, SFAR-S-16DI-M, SFAR-S-8AO, SFAR-S-6RO
+- **站内公开邮箱**：office@innon..eu, office@innon.eu
+- **站内公开电话**：0044 (0) 2039534044
+- **社媒**：https://www.facebook.com/innonenergy, https://www.instagram.com/innon_energy/?hl=en, https://www.linkedin.com/company/innon/, https://www.youtube.com/channel/UCeM5DQ3Umugfm6pNLutR6dg?view_as=subscriber
+- **产品类页面**：https://www.innon.eu/sitemap_products_1.xml?from=5849302728859&amp;to=16134556746053
+- **已抓子页**：[SFAR — Innon Europe](https://www.innon.eu/collections/sfar-industrial-io)；[Products — Innon Europe](https://www.innon.eu/collections/all)；[All products — Innon Europe](https://www.innon.eu/collections/all-products)；[About Us — Innon Europe](https://www.innon.eu/pages/about-us)；[Contact Us — Innon Europe](https://www.innon.eu/pages/contact-us)；[Networking — Innon Europe](https://www.innon.eu/collections/networking)
+- 首页正文摘录：Skip to content Menu Search Cancel We ship world wide See Details here View cart Work with us Who we serve Open a business account Get a free personalised project consultation Login to your online account Jobs Get distributed by Innon Products Products By Brand Innon iSMA Controlli Tridium Milesight J2 Innovations - Siemens Carel Microtrol Kodaro Reflow Viltrus SierraMonitor SFAR Teltonika Enless Wireless Products by
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 17、PoE 14 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-501.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +156,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-670.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.technoversebs.com/　语言：en　站点地图 URL 数：702
+- **标题**：Technoverse Business Solutions / IT Hardware & Networking
+- **描述**：Unlock a world of I.T & Networking Products at Technoverse Business Solutions. Meet our team of T.E.C.H.N.O.V.E.R.S.E experts today!
+- **首页栏目**：ABOUT US / Client Input and Feedback / Team Behind Our Success
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 37、surveillance 22、sfp 16、wireless 14、automation 6、ethernet 6、poe 4、cable 4、cisco 4、tp-link 3、camera 2、mikrotik 1
+- **站内出现的品牌**：Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear, D-Link, Huawei, Fortinet, MikroTik, Ruijie, Grandstream　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@technoversebs.com, sales@technoversebs.com
+- **站内公开电话**：+91 98194 92971
+- **社媒**：https://wa.me/918356901419?text=Hello%20Technoverse%20Business%20Solutions.%0A%0AI%20found%20your%20company%20through%20Google.%0A%0AProduct%20Required%3A%20%0ABrand%3A%20%0AQuantity%3A%20%0ACountry%3A%20%0ACompany%20Name%3A%20%0A%0APlease%20share%20your%20best%20quotation., https://www.aramex.com/in/en, https://www.facebook.com/profile.php?id=61555805265468, https://www.fedex.com/en-us/tracking.html, https://www.instagram.com/technoversebs_, https://www.linkedin.com/company/technoverse-business-solutions
+- **产品类页面**：https://www.technoversebs.com/product-page/dl360；https://www.technoversebs.com/product-page/me5084；https://www.technoversebs.com/product-page/md3820i；https://www.technoversebs.com/product-page/ar1220e；https://www.technoversebs.com/product-page/c9410r-2；https://www.technoversebs.com/product-page/asr1001-x
+- **已抓子页**：[Switch / Technoverse](https://www.technoversebs.com/copy-of-about-us)；[Switches / Technoverse](https://www.technoversebs.com/switches)；[Router / Technoverse](https://www.technoversebs.com/copy-of-switch)；[Products / Technoverse](https://www.technoversebs.com/products)；[About Us / Technoverse](https://www.technoversebs.com/about-us)；[Contact Us / Technoverse](https://www.technoversebs.com/contact-us)
+- 首页正文摘录：top of page Home Products Routers Switches Firewall Wireless Access point GLC-SFP Transciever Storage Server Unified Communications video surveillance Gallery Services Shipping & Delivery Payment Options Privacy Policy Offers & Promotion Promotion Videos I.T & Networking Electrical & Automation About Us FAQS Switch Router Firewall Access point Storage Server Unified Communication Video Surveillance GLC SFP Transceive
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 4 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-670.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +156,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

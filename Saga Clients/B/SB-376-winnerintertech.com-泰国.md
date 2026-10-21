@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-05-27 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-376.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.winnerintertech.com/　语言：th-TH　站点地图 URL 数：53
+- **标题**：Winner Intertech
+- **描述**：ตัวแทนจำหน่าย และ พาร์ทเนอร์ อย่างเป็นทางการ Moxa Adder Robustel Protempis ATcom จำหน่ายสินค้าโดยตรงจากโรงงานผู้ผลิต
+- **首页栏目**：OUR SOLUTION FOR YOUR FIELDS / World class quility product for your business. / ข่าวประชาสัมพันธ์ / Adder KVM and Winner Intertech Join defense & security 2025 / JOIN MENUFACTURING EXPO 2025 / Winner Intertech Join Manufacturing Expo 2025 / Moxa x EGAT Floating Solar POC
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 246、industrial 133、poe 112、moxa 107、ethernet 95、gigabit 82、sfp 72、fiber 32、10g 26、media converter 23、cisco 14、automation 13
+- **站内出现的品牌**：Korenix, Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：EN50121-4, IEEE802, RJ-45, EN50155, AC220V, BETA238, BETA270, RS-232, RS-485, DC52V, EN50121-3-2, ZETA270
+- **站内公开邮箱**：narathon@winnerintertech.com, office@winnerintertech.com, sales-m1@winnerintertech.com, sales01@winnerintertech.com
+- **产品类页面**：https://www.winnerintertech.com/poeswitch；https://www.winnerintertech.com/industrial-switches；https://www.winnerintertech.com/category/9493/all-products；https://www.winnerintertech.com/category/10130/top-products；https://www.winnerintertech.com/minipc-industrialpc；https://www.winnerintertech.com/content/29572/industrial-router-4g-กับงานอุตสาหกรรม
+- **已抓子页**：[PoE](https://www.winnerintertech.com/poeswitch)；[industrial switches](https://www.winnerintertech.com/industrial-switches)；[managed](https://www.winnerintertech.com/managed)；[unmanaged](https://www.winnerintertech.com/unmanaged)；[the best of Mini PC a small size that fits](https://www.winnerintertech.com/minipc-industrialpc)；[Moxa](https://www.winnerintertech.com/moxa)
+- 首页正文摘录：Tel. 081-1100-659 / Email : office@winnerintertech.com HOME Products Adder KVM Adder Matrix Adder Extenders Adder Desktop Switches Adder Remote Accress Switches KVM Trays and Accressories ATCom IP PHONE Beijer Electronics Korenix unmanaged Switches Korenix Managed Switches Korenix PoE Switches HMI panels Moxa Network Unmanaged Switches Managed switches Media Converters Protocol Gateways Serial to LAN Converters Contr
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 140、PoE 112 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-376.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +170,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

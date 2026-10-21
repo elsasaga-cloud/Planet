@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 58、监控 7 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-684.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.artsistem.com/　语言：tr　站点地图 URL 数：6997
+- **标题**：Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
+- **描述**：22 yıldır 135 küresel markayı 5.000+ bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde tek tedarikçi.
+- **首页栏目**：Türkiye'nin Lider Teknoloji Dağıtıcısı / Öne Çıkan Kategoriler / Bilgisayar Parçaları / Güvenlik Ürünleri / Ağ Ürünleri / Baskı Çözümleri / Barkod Ürünleri / Enerji & UPS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 58、switch 52、hikvision 33、gigabit 22、sfp 17、wifi 16、ethernet 15、tp-link 15、dahua 13、oem 9、cctv 3、nvr 3
+- **站内出现的品牌**：Hikvision, Ruijie, TP-Link, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ST2000VX017, RG-RAP2200, SEDC600M, DS-530III, TP-7610, ID-100, SR650, DL380, GEN11, RTXPRO500, ST1000VX013, POE-8002-96W
+- **站内公开邮箱**：destek@artsistem.com
+- **社媒**：https://tr-tr.facebook.com/ArtSistem, https://tr.linkedin.com/company/artsistem, https://wa.me/902125525242, https://www.instagram.com/artsistem/, https://www.youtube.com/channel/UC5V1MNZYedlHLnzpPdHlWsw
+- **产品类页面**：https://www.artsistem.com/araclar/poe-guc-butcesi；https://www.artsistem.com/markalar/amd/urunler；https://www.artsistem.com/markalar/aoc/urunler；https://www.artsistem.com/markalar/cas/urunler；https://www.artsistem.com/markalar/dct/urunler；https://www.artsistem.com/markalar/dji/urunler
+- **已抓子页**：[Ağ Ürünleri · Art Sistem](https://www.artsistem.com/kategoriler/ag-urunleri)；[Güvenlik Ürünleri · Art Sistem](https://www.artsistem.com/kategoriler/guvenlik-urunleri)；[Barkod Ürünleri · Art Sistem](https://www.artsistem.com/kategoriler/barkod-urunleri)；[Kurumsal Ürünler · Art Sistem](https://www.artsistem.com/kategoriler/kurumsal-urunler)；[EPSON WORKFORCE DS-530III DOKUMAN TARAYICI A4 40 SAYFA/DK AD](https://www.artsistem.com/urunler/epson-workforce-ds-530iii-dokuman-tarayici-a4-40-sayfa-dk-adf-dublex-ct112eps0008)；[2 TB SEAGATE 3.5 SKYHAWK SATA 5900RPM 256MB 7/24 GUVENLIK ST](https://www.artsistem.com/urunler/2-tb-seagate-3-5-skyhawk-sata-5900rpm-256mb-7-24-guvenlik-st2000vx017-3-yil-resmi-dist-garantili-ad225sea0046)
+- 首页正文摘录：📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42 destek@artsistem.com · Bayi Başvurusu · B2B Giriş · TR EN Kurumsal Markalar Ürün Kategorileri Çözümler Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bilgisayar Bilgisayar Parçaları Hard disk, monitör, bellek, işlemci Taşınabilir Bilgisayar Notebook, aksesuar ve yedek parça Masaüstü Bilgisayar All in one, masaüstü, mini PC Kurumsal Ürünler Sunucu, iş istasyonu, veri
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 58、监控 7 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-684.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -95,7 +112,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 58、监控 7 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,7 +159,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

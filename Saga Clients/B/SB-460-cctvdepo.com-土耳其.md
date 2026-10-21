@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 44、监控 16 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-460.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://cctvdepo.com/bayi/　语言：tr　站点地图 URL 数：9
+- **标题**：CCTV Depo A.Å.
+- **首页栏目**：Geri Bildiriminiz / Kamera Sistemleri / Bilgisayar AksesuarlarÄ± / Network ÃrÃ¼nleri / Mobil Tel AksesuarlarÄ± / Montaj Malzemeleri / AkÄ±llÄ± GÃ¼venlik / Alarm Sistemleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 44、poe 44、fiber 10、ethernet 9、cctv 9、nvr 7、wifi 7、gigabit 4、sfp 2、wireless 2
+- **站内型号串**（正则抽取，含非交换机）：SZNT-PSY0420FL, SZNT-PSP0420FLR, SZNT-PSY0820FL, SZNT-PSP0820FLR, SZNT-PSP0420GLR, SZNT-FSA0402GSC, SZNT-PSY0802GL, SZNT-PSP0820GLR, SZNT-PSY0822GL, SZNT-FSA0802GSC, SZNT-PSY1621GL, SZNT-PSY2421GL
+- **站内公开邮箱**：asuman@cctvdepo.com, info@cctvdepo.com, mehmet@cctvdepo.com, mert@cctvdepo.com, sezai@cctvdepo.com, tolga@cctvdepo.com
+- **社媒**：https://twitter.com/cctvdepo, https://wa.me/905050183432, https://wa.me/905332716012, https://wa.me/905530895733, https://wa.me/905530909831, https://wa.me/905539669832
+- **产品类页面**：https://cctvdepo.com/bayi/category/87&amp;name=poe-network
+- **已抓子页**：[PoE ÃrÃ¼nler / CCTV Depo](https://cctvdepo.com/bayi/category/87&name=poe-urunler)；[Network Switchler / CCTV Depo](https://cctvdepo.com/bayi/category/121&name=network-switchler)；[Ä°letiÅim / CCTV Depo](https://cctvdepo.com/bayi/about/contact)；[Åarj ÃrÃ¼nleri / CCTV Depo](https://cctvdepo.com/bayi/category/119&name=sarj-urunleri)；[Proje ÃrÃ¼nleri / CCTV Depo](https://cctvdepo.com/bayi/category/100&name=proje-urunleri)；[Gaming ÃrÃ¼nler / CCTV Depo](https://cctvdepo.com/bayi/category/125&name=gaming-urunler)
+- 首页正文摘录：Ä°letiÅim WhatsApp Teknik Destek Teknik Servis 49.6 GÃ¼venlik Sistemleri TÃ¼ketici ElektroniÄi HakkÄ±mÄ±zda Bayimiz Olun Bayi GiriÅi Ara Sorun, Ãneri ve Åikayet Geri Bildiriminiz Sorun Ãneri Åikayet TeÅekkÃ¼r AdÄ±nÄ±z SoyadÄ±nÄ±z Telefon NumaranÄ±z E-posta Adresiniz MesajÄ±nÄ±z MesajÄ±nÄ±zÄ± sadece yÃ¶netim gÃ¶recektir GÃ¶nder ÃzgÃ¼nÃ¼z, kullandÄ±ÄÄ±nÄ±z web tarayÄ±cÄ± video desteklemiyor. Devam Et ÃzgÃ¼nÃ
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 44、监控 16 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-460.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -113,7 +128,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 44、监控 16 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -159,7 +174,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

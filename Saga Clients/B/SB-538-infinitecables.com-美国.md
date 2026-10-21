@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-20 → 2025-10-22）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-538.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.infinitecables.com/　语言：en　站点地图 URL 数：9
+- **标题**：Infinite Cables / Your Online Source for Connectivity Solutions
+- **描述**：North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras and more. Servicing the needs of IT products and the average home user for over a decade.
+- **首页栏目**：Infinite Cables / Featured Products / New Products / Distributors Resellers Installers / Government School Board Corporate PO's / Large Quantity Discounts / Custom Orders and OEM / Videos
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 215、poe 92、switch 69、fiber 59、sfp 41、gigabit 26、camera 18、ethernet 17、industrial 14、installer 8、media converter 6、cctv 4
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, NS-202-04, NS-202-08, FO-SFOC10M, SFOC10M, FO-MCC-CCU125, FO-MCC-CCU250, FO-MCC-WCS800, FO-MCC-WCS100, FO-MCC-WF44, FO-MCC-FA1, FO-MCC-S25
+- **站内公开邮箱**：sales@infinitecables.com
+- **社媒**：https://www.facebook.com/Infinite.cables.inc, https://www.instagram.com/infinite.cables.inc, https://www.youtube.com/InfiniteCablesOnline, https://x.com/infinitecables
+- **产品类页面**：https://www.infinitecables.com/sitemap_products_1.xml?from=7678076354801&amp;to=7680095387889；https://www.infinitecables.com/sitemap_products_2.xml?from=7680095420657&amp;to=7687607124209；https://www.infinitecables.com/sitemap_products_3.xml?from=7687607255281&amp;to=7696080339185；https://www.infinitecables.com/sitemap_products_4.xml?from=7696093774065&amp;to=9621850423537；https://www.infinitecables.com/sitemap_products_5.xml?from=9622300623089&amp;to=15238733824241
+- **已抓子页**：[4-Port Gigabit PoE+ Unmanaged Switch + 2-Port RJ45 60W](https://www.infinitecables.com/products/4-port-gigabit-poe-unmanaged-switch-2-port-rj45-60w)；[8-Port Gigabit PoE+ Unmanaged 1U Switch + 2-Port RJ45 120W](https://www.infinitecables.com/products/8-port-gigabit-poe-unmanaged-1u-switch-2-port-rj45-120w)；[Gigabit Ethernet Fiber Optical Media Converter, 2 x 10/100/1](https://www.infinitecables.com/products/gigabit-ethernet-fiber-optical-media-converter-2-x-10-100-1000base-tx-2-x-1000base-fx-ethernet-switch?_pos=1&_psq=fo-mc5000&_psid=2575d91e0&_ss=e)；[Network Switches & PoE Devices](https://www.infinitecables.com/collections/network-switches-poe-devices)；[PoE Switches](https://www.infinitecables.com/collections/poe-switches)；[Sticklers™ Fiber Optic Splice and Connector Cleaner Fluid - ](https://www.infinitecables.com/products/sticklers-fiber-optic-splice-and-connector-cleaner-fluid-10oz-pump-spray)
+- 首页正文摘录：Skip to content Home Products New Products SALE/CLEARANCE About Us Contact Us Shipping Need help? Call us 1-866-207-6442 sales@infinitecables.com Follow Us Facebook Twitter Instagram YouTube Back Products Adapters & Connectors Antenna Cables & Accessories Audio - Pro Audio Cables & Accessories Batteries Bulk Cable Cable Management CAT5E - CAT6 - CAT6A - CAT8 Custom Products Data Cables & Accessories Extenders - Split
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 14、PoE 92 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-538.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -166,7 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

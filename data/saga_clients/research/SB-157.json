@@ -1,0 +1,50 @@
+{
+ "code": "SB-157",
+ "name_official": "（未具名，赞比亚 +260 961）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "赞比亚 WhatsApp 客户，17 次跟进 5 次实质回复：对 2.5G/10G 有兴趣但已有供应商；24 光 combo「有兴趣稍后谈」；mini 工业机「近期可能有需求」；无邮箱无公司名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "回复链：工业电源→will check；2 光 4→暂无需求；24 光 combo 出货→有兴趣稍后谈；商用 PoE 128→暂无需求；mini 工业机→近期可能有需求",
+   "quote": "兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "赞比亚（表内）",
+  "size": "",
+  "other": "仅 WhatsApp +260 961 884 678"
+ },
+ "channels": {
+  "role": "（未知，推断 ISP/工程商）",
+  "region": "赞比亚"
+ },
+ "signals": [
+  "对 24 光 combo（汇聚）与 mini 工业机有潜在需求"
+ ],
+ "risks": [
+  "身份不明、无邮箱；只能 WhatsApp"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "其感兴趣的 24 光 combo / 2.5G-10G 汇聚 → Saga STC-424XGGM（24 GE + 4×10G SFP+）；mini 工业机备选 STI-050GE。"
+ },
+ "email_hook": "（无邮箱；WhatsApp 一句：You mentioned the 24-fibre combo unit — if that project is live, our 24-port + 4×10G SFP+ aggregation switch quotes from 1 pc EXW.）"
+}

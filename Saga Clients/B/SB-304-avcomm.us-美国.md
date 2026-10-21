@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 20 次（2024-04-30 → 2025-10-30）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-304.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.avcomm.us/　语言：en-US　站点地图 URL 数：1199
+- **标题**：Advanced Communication & Computing Solutions / Industrial Networking /
+- **描述**：AVCOMM empowers industries with Advanced Communication and Computing technologies. We specialize in reliable Industrial Ethernet Switches, IIoT, and edge computing solutions for smart manufacturing and public service.
+- **首页栏目**：Empowering Industries with Practical / AI Solutions . / AVCOMM is advancing industrial communication. / IoT by AVCOMM Where Connectivity Meets Intelligence . / Partnering with AVCOMM Crafting Tomorrow's Success Together . / AVCOMM has full inventory of industrial ethernet switches right now. / AVCOMM is our name, industrial networking is our game. / Building better life through industry
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 155、poe 79、wireless 20、sfp 17、ethernet 8、10g 8、automation 7、telecom 7、switch 2
+- **站内型号串**（正则抽取，含非交换机）：L3-POE, AP200, AP300, AP300-POE, AP400, AP200-LM, AP100-LM, AP144-LC, AP140-LR, AP322A-EC-LR, AP322A-EC-LTE-LR, SC-15
+- **站内公开邮箱**：info@avcomm.us
+- **站内公开电话**：+1 (713)-933-4534, 000000000002, 00000000001, 00000000003, 004.29 2004.29
+- **产品类页面**：http://inc.avcomm.us/shop/category/industrial-networking-poe-18；http://inc.avcomm.us/shop/category/industrial-networking-poe-400-poe-series-28；http://inc.avcomm.us/shop/category/industrial-networking-poe-4000-poe-series-27；http://inc.avcomm.us/shop/category/industrial-networking-poe-6000-poe-series-21；http://inc.avcomm.us/shop/category/industrial-networking-data-5100-poe-series-38；http://inc.avcomm.us/shop/category/industrial-iot-6
+- **已抓子页**：[Shop / AVCOMM Technologies Inc--Industrial IT Expert](https://inc.avcomm.us/shop/category/industrial-networking-poe-18)；[Shop / AVCOMM Technologies Inc--Industrial IT Expert](https://inc.avcomm.us/shop/category/industrial-networking-layer-3-4)；[Shop / AVCOMM Technologies Inc--Industrial IT Expert](https://inc.avcomm.us/shop/category/industrial-networking-unmanaged-2)；[Shop / AVCOMM Technologies Inc--Industrial IT Expert](https://inc.avcomm.us/shop/category/industrial-networking-fully-managed-3)；[Shop / AVCOMM Technologies Inc--Industrial IT Expert](https://www.avcomm.us/shop/category/industrial-networking-9)；[Shop / AVCOMM Technologies Inc--Industrial IT Expert](https://inc.avcomm.us/shop/category/industrial-networking-9)
+- 首页正文摘录：× Products Industrial Networking Unmanaged Fully Managed PoE Layer 3 Data Wireless Serial Server Accessories Industrial IoT IoT Gateway IoT Sensors IoT Software IoT Accessories LoRa Gateway SPD Signal Splitter Industrial Cyber Security Edge Firewall Edge Auditor Edge Commander Edge Gateway Industrial Computing Industrial Servers IPC Industrial Smart Application Video Compression Accessories AVC-PSs AVC-SFPs View All 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 160、PoE 79 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-304.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -172,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 20 次（2024-05-02 → 2025-10-30）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-359.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://inscapedata.com/　语言：en　站点地图 URL 数：462
+- **标题**：Outdoor PoE Switch, Leader in Outdoor Network Solutions, Outdoor 2, 4, 8 Port Gigabit PoE Switch, Outdoor PoE Managed Switch, Weatherproof Gigabit PoE Switch, W
+- **描述**：Founded in February 2004, 2017 marks Inscape Data Corporation's 13th year of business serving the industrial network, video security, and WIFI markets worldwide. Inscape Data Corporation is a U.S. based manufacturer of outdoor network system products, i.e., Outdoor Gigabit PoE switches, wireless, an
+- **首页栏目**：Contractor-Grade Outdoor Network Solutions / Outdoor PoE Switch System / Outdoor UPS Systems / Outdoor DIN-Rail PoE Systems / Built for the Extreme Outdoor Environments / Introducing Managed Outdoor UPS Systems / Industries We Serve / Resources
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 533、switch 255、sfp 128、industrial 49、fiber 29、2.5g 24、10g 20、ethernet 19、wireless 15、media converter 14、surveillance 14、gigabit 9
+- **站内出现的品牌**：Extreme, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AT-T1P, ATM-T1E, PL3-240084, PL3-480004, LPS3400ATM, LPS3400ATMP, LPS3802ATM, LPS3802ATMP, LPS3800ATM, LPS6844ATM, LPS7844ATM, LPS10868ATMP
+- **站内公开邮箱**：sales@inscapedata.com
+- **社媒**：https://www.linkedin.com/company/inscape-data-corporation/, https://www.youtube.com/@InscapeData, https://www.youtube.com/user/InscapeData
+- **产品类页面**：https://inscapedata.com/sol_industrial.htm；https://inscapedata.com/pdf/PoE Technology.pdf；https://inscapedata.com/pdf/whitepapers/Industrial.pdf；https://inscapedata.com/pdf/LPS1000-Fast-Ethernet-PoE.pdf；https://inscapedata.com/pdf/LPS1800 Managed Fast Ethernet Switch User Manual.pdf；https://inscapedata.com/products.htm
+- **已抓子页**：[Industrial PoE Switch Series / Inscape Data Corporation](https://inscapedata.com/industrial-poe-switch.html)；[Outdoor PoE Switch, Outdoor Gigabit 2, 4, 8 Port Managed PoE](https://inscapedata.com/commercial-poe-switch-fiber-optic-switch-SFP-transceiver.htm)；[White Paper - Innovative Outdoor PoE Switch Solutions / Insc](https://inscapedata.com/White-Paper-Inscape_Data-Innovative-Outdoor-PoE-Switch-Solutions.htm)；[Outdoor PoE Switch, Outdoor Gigabit 2, 4, 8 Port Managed PoE](https://inscapedata.com/outdoor-poe-switch.htm)；[Passive PoE Switches / Inscape Data Corporation](https://inscapedata.com/passive-poe-switch.html)；[Outdoor Din Rail & Rack Mount PoE Switch Series / Inscape Da](https://inscapedata.com/outdoor-dinrail-rackmount-poe-switch.html)
+- 首页正文摘录：Products & Solutions Outdoor PoE & Enclosure Solutions Outdoor PoE Switches Outdoor Din Rail & Rack Mount PoE Switches Outdoor UPS & UPS PoE Systems Outdoor Gigabit & 2.5Gb PoE Injectors Passive PoE Switches Industrial & Commercial PoE Solutions Industrial PoE Switches Industrial SFP Transceivers Commercial PoE Switches & SFP Transceivers Commercial PoE & Fiber Optic Media Converter Commercial SFP Fiber Optic Switche
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 49、PoE 533 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-359.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -175,7 +192,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

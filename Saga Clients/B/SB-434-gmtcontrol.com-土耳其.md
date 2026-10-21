@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -69,6 +69,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-434.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gmtcontrol.com/　语言：tr-TR　站点地图 URL 数：271
+- **标题**：GMT Endüstriyel Elektronik - GMTCNT - Yerli PLC Üreticisi
+- **描述**：GMT, yerli PLC üreticisi olarak operatör paneli, panel PC, hız kontrol cihazı, servo sistemler, step motorlar ve güç kaynaklarını güvenle sunmaktadır.
+- **首页栏目**：Endüstriyel PLC / Operatör Panelleri / SD7 Serisi Servo Sürücüler / Hız Kontrol Cihazları / WIN EURASIA 2026 / Çözümlerimiz / Bu Coğrafya'dan Bir Dünya Markası GMTCNT / Haberler
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 3、scada 3、ethernet 2
+- **站内型号串**（正则抽取，含非交换机）：GPC8-156, GPC8-215, RS485, GPM-156, GPM-215, RS-232, GPC8-215-J6412-8-128, GPC8-156-J6412-8-128, GPC8-101-J6412-8-128, GPC8-101-J1900-4-128, RJ-45, RS-485
+- **站内公开邮箱**：gmt@gmtcontrol.com
+- **社媒**：https://www.facebook.com/gmtplc, https://www.instagram.com/gmtcnt, https://www.linkedin.com/company/gmtcnt, https://www.youtube.com/c/GMTCNTE%C4%9E%C4%B0T%C4%B0M, https://www.youtube.com/watch?v=sLQ3ReZSAqY&list=PLe7P2wL_oFpV4z2W0fDV8UZYfQ4-SBwlJ, https://youtube.com/watch?v=Hcm-oyF-8Js&list=PLe7P2wL_oFpUXGgHefXNvfNyhxy75boA7
+- **产品类页面**：https://gmtcontrol.com/en/industrial-robots/；https://gmtcontrol.com/en/industrial-panel-pc/；https://gmtcontrol.com/en/industrial-communication/；https://gmtcontrol.com/en/what-is-a-plc-industrial-automation-plc-selection-guide-and-solutions/；https://gmtcontrol.com/urunler/；https://gmtcontrol.com/urunler/gsr-244l4di-4ro/
+- **已抓子页**：[ENDÜSTRİYEL MONİTÖRLER - Endüstriyel Monitör - GMTCNT](https://gmtcontrol.com/urunler/endustriyel-monitorler/)；[ENDÜSTRİYEL MONİTÖRLER - Endüstriyel Monitör - GMTCNT](https://gmtcontrol.com/urunler/endustriyel-monitorler/)；[Hakkımızda - GMTCNT](https://gmtcontrol.com/hakkimizda/)；[Endüstriyel Panel PC - GMTCNT](https://gmtcontrol.com/endustriyel-panel-pc/)；[Endüstriyel Robotlar - GMTCNT](https://gmtcontrol.com/endustriyel-robotlar/)；[Endüstriyel Haberleşme - GMTCNT](https://gmtcontrol.com/endustriyel-haberlesme/)
+- 首页正文摘录：Skip to content Skip to footer Anasayfa Hakkımızda Ürünler PLC (CPU ve Genişleme Modülleri) Ekranlı Mini PLC Üniversal PID Kontrol Cihazları HMI (Operatör Paneller) Endüstriyel Panel PC Endüstriyel Monitör AC Drive Solar Pompa Sürücüler SD6 Serisi Servo Motor ve Sürücüler SD7 Serisi Servo Motor ve Sürücüler Endüstriyel Robotlar Step Motor ve Sürücüler Endüstriyel Haberleşme Güç Kaynakları Destek Forum Eğitim Yazılıml
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 3、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-434.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

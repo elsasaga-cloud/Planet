@@ -22,7 +22,7 @@ last_contact: 2025-10-18
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2024-06-06 → 2025-10-18）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-553.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.nsidistribution.com/　语言：en　站点地图 URL 数：7
+- **标题**：NSI / Home
+- **描述**：NSI Distribution is a Canadian wholesale distributor specializing in security, access control, networking, and low-voltage solutions. With locations…
+- **首页栏目**：Shopping Cart / Popular Categories / Shop Your Favorite Brands / Hot Deals / Industry News
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 229、cable 157、switch 83、poe 68、oem 65、nvr 48、fiber 42、wireless 21、tp-link 17、access control 16、planet 16、surveillance 15
+- **站内出现的品牌**：Uniview, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：BLACK-CAT6A, BLUE-CAT6A, WHITE-CAT6A, YELLOW-CAT6A, RED-CAT6A, GREEN-CAT6A, RED-CAT6, YELLOW-CAT6, BLUE-CAT6, BLACK-CAT6, WHITE-CAT6, GREEN-CAT5E
+- **已抓子页**：[NSI / POE Switches](https://www.nsidistribution.com/networking/switches/poe-switches)；[NSI / Non-POE Switches](https://www.nsidistribution.com/networking/switches/non-poe-switches)；[NSI / Switches](https://www.nsidistribution.com/networking/switches)；[NSI / IP Cameras and NVRs](https://www.nsidistribution.com/cctv-security/ip-technology)；[NSI / TVI Cameras and DVRs](https://www.nsidistribution.com/cctv-security/tvi-technology)；[NSI / UNV Accessories](https://www.nsidistribution.com/cctv-security/uniview/camera-mounts)
+- 首页正文摘录：English Français Español EN English Français Español Support Blog About Us Contact Us English Français Español EN English Français Español All Categories Brands Deals Request a Quote Quick Order Welcome, Log in 0 Loading... Your cart is empty Start Shopping Shopping Cart 0 items Subtotal: CA$0.00 View Cart Checkout All Categories Access Control Door Intercom & Entry Systems Door Stations Indoor Monitors Intercom Kits
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 68、监控 303 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-553.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -172,7 +186,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

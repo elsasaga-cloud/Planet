@@ -22,7 +22,7 @@ last_contact: unknown
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-587.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://www.etobb.co.kr/　语言：ko　站点地图 URL 数：75
+- **标题**：(주)이투비비
+- **描述**：(주)이투비비(ETOBB)는 사프란(SAFRAN) 한국 독점 대리점 및 투알콤(Tualcom)의 파트너사입니다. GPS/GNSS 시뮬레이터(GPS Simulator, GNSS Simulator), 타임서버(Time server), 실내위치(Indoor Position), 원자시계 (Atomic Clock) 등 다양하고 폭넓은 분야의 GPS/GNSS 솔루션(Solution)을 개발, 제공해 나가고 있습니다.
+- **首页栏目**：Bringing it all together
+- **站内公开邮箱**：sales@eotbb.co.kr, sales@etobb.co, sales@etobb.co.kr
+- **社媒**：http://www.youtube.com/embed/KWS48HTf2AE
+- **产品类页面**：http://www.etobb.co.kr/WhiteRabbitSwitch；http://www.etobb.co.kr/WhiteRabbitSwitchv34
+- **已抓子页**：[고객센터](http://www.etobb.co.kr/Contact)；[회사소개](http://www.etobb.co.kr/Company)
+- 首页正文摘录：알림 뒤로 알림 설정 뒤로 더보기 게시물 알림 내 글 반응 내가 작성한 게시물이나 댓글에 다른 사람이 댓글이나 답글을 작성하면 알려줍니다. 공지사항 사이트에서 보내는 중요한 공지를 실시간으로 알려줍니다. Alarm 마이페이지 로그아웃 회사소개 사업분야 제품소개 GNSS 시뮬레이터 항재밍 시스템 실내 측위 원자 시계 (Atomic Clock) 타임 서버(Time Server) 고객센터 한국어 한국어 English 닫기 (주)이투비비 회사소개 사업분야 제품소개 GNSS 시뮬레이터 항재밍 시스템 실내 측위 원자 시계 (Atomic Clock) 타임 서버(Time Server) 고객센터 견적문의 SAFRAN 한국 독점 대리점, TUALCOM 한국 파트너 (주)이투비비 회사소개 사업분야 제품소개 GNSS 시뮬레이터 항재밍 시스템 실내 측위 원자 시계 
+- 数据文件：`data/saga_clients/site_snapshots/SB-587.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +150,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

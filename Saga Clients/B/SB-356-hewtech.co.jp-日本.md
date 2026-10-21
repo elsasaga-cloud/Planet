@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-10-08 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-356.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.hewtech.co.jp/　语言：ja　站点地图 URL 数：345
+- **标题**：平河ヒューテック
+- **首页栏目**：NEWS RELEASE / IR NEWS / COMPANY / RECRUIT / CONTACT
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 4、cable 3
+- **站内公开邮箱**：soumu@hewtech.co.jp
+- **站内公开电话**：+1(619)-420-0333, +1(619)-420-1818, +52(686)561-6551, +52(686)561-6582, +52(687)872-4083, +52(687)872-7906
+- **产品类页面**：https://www.hewtech.co.jp/products/cataloghtml/specialtube/；https://www.hewtech.co.jp/products/cataloghtml/fluorinetube/；https://www.hewtech.co.jp/products/news.html；https://www.hewtech.co.jp/products/cable.html；https://www.hewtech.co.jp/products/medical.html；https://www.hewtech.co.jp/contact/products.html
+- **已抓子页**：[製品に関するお問い合わせ / 平河ヒューテック](https://www.hewtech.co.jp/contact/products.html)；[事業所・営業所 / 平河ヒューテック](https://www.hewtech.co.jp/company/network.html)；[電線・加工品 / 平河ヒューテック](https://www.hewtech.co.jp/products/cable.html)；[医療部品他 / 平河ヒューテック](https://www.hewtech.co.jp/products/medical.html)；[その他のお問い合わせ / 平河ヒューテック](https://www.hewtech.co.jp/contact/etc.html)；[企業情報 / 平河ヒューテック](https://www.hewtech.co.jp/company/)
+- 首页正文摘录：go to the next stage. 時代が求める技術の追求、 次世代へ向けた持続的な挑戦、 存在感のある企業として go to the next stage. 時代が求める技術の追求、 次世代へ向けた持続的な挑戦、 存在感のある企業として go to the next stage. 時代が求める技術の追求、 次世代へ向けた持続的な挑戦、 存在感のある企業として go to the next stage. 時代が求める技術の追求、 次世代へ向けた持続的な挑戦、 存在感のある企業として 電線・加工品 放送／ネットワーク機器 医療部品 NEWS 電線・加工品 Cable&Assembly 技術変化の激しいデジタルエレクトロニクス分野に対応した高精度/高速伝送ケーブル 製品情報 放送／ネットワーク機器 Broadcast&Network 情報通信と放送の高速デジタル化に対応したデバイス機器・電子部品 製品情報 医療部品 Medi
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 4、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-356.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,7 +167,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

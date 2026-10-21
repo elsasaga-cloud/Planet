@@ -22,7 +22,7 @@ last_contact: 2025-11-03
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 23 次（2024-05-07 → 2025-11-03）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-494.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://elimopt.co.kr/　语言：ko　站点地图 URL 数：0
+- **标题**：엘림광통신
+- **描述**：엘림광통신
+- **首页栏目**：엘림광통신 / 네트워크 장비/광전송 장비 / 솔루션 / 회사소개 / 하단영역
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 31、cctv 11、sfp 8、switch 1、2.5g 1
+- **站内型号串**（正则抽取，含非交换机）：EL-G48E6TG-POE, G24E4G-POE, G16E2G-POE, G8E4G-POE, PG8E2G-BP, G8E2G-POE
+- **站内公开邮箱**：elimopt@elimopt.co.kr, jungsun@elimopt.co.kr
+- **站内公开电话**：000-2009 2009
+- **已抓子页**：[엘림광통신](https://elimopt.co.kr/network/network.php?cat_no=6)；[엘림광통신](https://elimopt.co.kr/solution/solution-05.php)；[엘림광통신](https://elimopt.co.kr/company/history.php)；[엘림광통신](https://elimopt.co.kr/company/greetings.php)；[엘림광통신](https://elimopt.co.kr/company/directions.php)；[엘림광통신](https://elimopt.co.kr/company/certificate.php)
+- 首页正文摘录：본문 바로가기 주메뉴 바로가기 회사소개 CEO인사말 회사연혁 인증서 및 특허 찾아오시는 길 솔루션 스마트 빌딩 네트워크 솔루션 스마트 시티 네트워크 솔루션 스마트 팩토리 솔루션 초고속 인증 아파트 네트워크 솔루션 공공 CCTV 네트워크 솔루션 HD-SDI 솔루션 다중화 솔루션 네트워크 장비 L3 스위치 L2 스위치 L2 POE 스위치 산업용 스위치 비관리형 POE 스위치 미디어 컨버터 POE 인젝터/익스텐더 SFP 모듈 광통신 자재 IP Matrix 영상감시장치 광전송 장비 아날로그HD 전송 디지털HD 전송 HDMI 전송 오디오 전송 데이터 전송 릴레이접점 전송 다중화 전송 커뮤니티 공지사항 자료실 견적 요청 고객센터 Q&A A/S 지원 KR EN 닫기 엘림광통신 30년간 축적된 양질의 노하우로 고객으로부터 신뢰 받는 기업 속도와 안정성의 완
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 31、监控 11 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-494.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -175,7 +190,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

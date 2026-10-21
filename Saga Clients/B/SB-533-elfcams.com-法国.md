@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-533.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.elfcams.com/　语言：fr-FR　站点地图 URL 数：681
+- **标题**：Elfcam / Votre spécialiste en équipements fibre optique et réseau
+- **描述**：Câbles fibre optique, SFP, Ethernet Cat6A–Cat8 et accessoires Starlink testés en laboratoire. Compatible tous fabricants. Expédition Europe, retours 30 jours.
+- **首页栏目**：ELFCAM / Spécialiste fibre optique FTTx & Data Centre / Solutions Starlink professionnelles / Prix vente directe usine — garanti / Switches & PoE — le réseau prêt à déployer / Câbles fibre optique / Modules optiques / Switches & Réseau
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 255、sfp 211、10g 203、fibre 174、ethernet 139、switch 133、gigabit 66、2.5g 41、cable 24、ftth 9、cisco 9、wifi 6
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FR36844111856, FR72942871351, ES00284989993, ITN0078120C, DE340181882, GB367772843, QSFP28, SFP28, HT1001K, IEEE802, ELF-6800
+- **站内公开邮箱**：contact@elfcams.com, sav@elfcams.com
+- **站内公开电话**：+33 (0)6 44 60 45 09, +33 (0)7 49 95 50 99, +33 (0)9 53 68 76 32, +33 6 68 54 91 77, +33 7 49 95 50 99, +44 (0)7 45 81 56 618
+- **社媒**：https://wa.me/33668549177, https://wa.me/33749955099
+- **产品类页面**：https://www.elfcams.com/poe-switch；https://www.elfcams.com/home-fiber/10g-switch；https://www.elfcams.com/home-fiber/qsfp28-switch；https://www.elfcams.com/article/comment-choisir-switch；https://www.elfcams.com/home-fiber/convertisseur/convertisseur-poe；https://www.elfcams.com/article/reseau-ftth-application-de-lonu-poe-inversee-exterieure-gepon
+- **已抓子页**：[Switch PoE Fibre Ethernet — 4/8/16/24 Ports SFP / Elfcam](https://www.elfcams.com/poe-switch)；[10G Switch ELFCAM - Fiber Solution Specialist](https://www.elfcams.com/home-fiber/10g-switch)；[Elfcam - 150W PoE Injecteur 2,5Gb/1,25Gb pour / Elfcam](https://www.elfcams.com/product/24310)；[Home Fiber ELFCAM — Switch, Convertisseur & PoE pour Réseau ](https://www.elfcams.com/home-fiber)；[Freebox Ultra : Câbles Fibre SC/APC, Modules SFP+ 10G & Swit](https://www.elfcams.com/free-ultra)；[Vidéos sur les produits ELFCAM - Fiber Solution Specialist](https://www.elfcams.com/video)
+- 首页正文摘录：ELFCAM Votre partenaire N°1 en solutions de communication et de connectivité De A à Z pour Data Centres, FTTx et réseaux télécoms Spécialiste fibre optique FTTx & Data Centre Jarretières, modules SFP, switches, soudeuses — fournisseur de A à Z depuis 2018. Expédition J+1, stock France. Voir les produits Assistance Solutions Starlink professionnelles Câbles d'extension, injecteurs PoE 150W, fixations IP66 — tout pour 
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 244、交换机 133 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-533.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

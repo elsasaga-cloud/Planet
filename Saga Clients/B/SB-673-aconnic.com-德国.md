@@ -22,7 +22,7 @@ last_contact: 2025-11-05
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 3 次（2025-09-17 → 2025-11-05）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-673.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.aconnic.com//　语言：en-US　站点地图 URL 数：382
+- **标题**：aconnic - communication networks / carbon capturing
+- **描述**：aconnic delivers communication systems including own hard- and software and professional and managed services to build communication networks
+- **首页栏目**：Built for Telecom Challenges / Secure, Scalable, Sovereign Connectivity / Network Security & Quantum Protection / Enterprise Networking / 100G Carrier Ethernet / Adaptive Growth for Seamless Connectivity / Multi-Vendor, Future-Ready Network Management / MORE SOLUTIONS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 50、gigabit 46、industrial 39、fiber 31、integrator 30、sfp 22、telecom 20、switch 5、poe 2、automation 2、fibre 1、10g 1
+- **站内型号串**（正则抽取，含非交换机）：DE000A0LBKW6
+- **站内公开邮箱**：office@aconnic.com, sales@aconnic.com
+- **站内公开电话**：+33 6 767326 34, +49 351 795256 0, +49 351 795256 11, +49 3722 6160, +49 3722 7351 0, +49 7154 9995 40
+- **社媒**：https://www.facebook.com/beaconnic/, https://www.instagram.com/be_aconnic/, https://www.linkedin.com/company/aconnic/, https://www.youtube.com/channel/UCz1Z8YkZ9RCF5R66k0x5vbw
+- **产品类页面**：https://www.aconnic.com/industrial-ethernet/；https://www.aconnic.com/de/industrial-ethernet/；https://www.aconnic.com/aconnic-launches-industrial-carrier-ethernet-10-gigabit-system-acceed-4108-dr/；https://www.aconnic.com/aconnic-and-arqit-join-forces-to-present-the-first-quantum-safe-industrial-ot-security…；https://www.aconnic.com/products/；https://www.aconnic.com/de/shop/
+- **已抓子页**：[Industrial Ethernet - aconnic](https://www.aconnic.com/industrial-ethernet/)；[aconnic - products to build better communication networks](https://www.aconnic.com/products/)；[SHDSL Solutions with a future-proof platform - aconnic](https://www.aconnic.com/shdsl/)；[Contact - aconnic](https://www.aconnic.com/contact/)；[Secure, Scalable, Sustainable Networks for Utility Providers](https://www.aconnic.com/utilities/)；[aconnic - communication networks / carbon capturing](https://www.aconnic.com/about-aconnic/)
+- 首页正文摘录：Skip to content Instagram LinkedIn Facebook YouTube Search for: Home Solutions BIG – Secure, Scalable and Sovereign Connectivity Software Defined Defence Network Security & Quantum Protection Enterprise Networking 100G Connectivity & Aggregation Software Defined Adaptive Growth GPON & XGS-PON SFP Utility Networks Critical Infrastructure SHDSL Network Lifecycle Extension Private 5G Networks Network Disaggregation Giga
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 41、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-673.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -141,7 +158,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

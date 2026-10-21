@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-22 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-527.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.commfront.com/　语言：未标　站点地图 URL 数：19
+- **标题**：Industrial Ethernet Switch USB RS232 RS485 RS422 Fiber Optic Converter – CommFront
+- **描述**：Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP, Serial to Ethernet Converters, SGS/TUV/ISO-9001 Certified, 5-Yr Warranty, 30-Day Guarantee / CommFront
+- **首页栏目**：Recently Viewed Products / The Keys to our Excellence
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 201、fiber 182、cable 131、industrial 119、switch 96、sfp 25、gigabit 24、media converter 9、wholesale 7、automation 5、fibre 5、surveillance 2
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485, RS422, SG-CE-100005, SG-FCC-100002, CVT-485-1, CVT-485A-1, CVT-422-1, CVT-232A-3, CVT-232B-3, SPD-485-1, SPD-422-1
+- **站内公开邮箱**：mllegeorgesand@gmail.com, sales@commfront.com, wholesale@commfront.com
+- **社媒**：https://twitter.com/share?url=https://www.commfront.com/collections/ethernet-switches&text=Ethernet Switches, https://twitter.com/share?url=https://www.commfront.com/collections/ethernet-to-fiber-optic-converters&text=Ethernet to Fiber Optic Converters (Point to Point), https://twitter.com/share?url=https://www.commfront.com/collections/managed-ethernet-switches&text=Managed Ethernet Switches, https://twitter.com/share?url=https://www.commfront.com/collections/unmanaged-ethernet-switches&text=Unmanaged Ethernet Switches, https://twitter.com/share?url=https://www.commfront.com/pages/connect&text=Connect - Connectivity with Industrial Ruggedness, https://www.facebook.com/CommFront/
+- **产品类页面**：https://www.commfront.com/blogs/keys/69888835-industrial-ruggedness-proven-since-2005；https://www.commfront.com/blogs/keys/69891523-lead-free-rohs-compliant-products；https://www.commfront.com/sitemap_products_1.xml?from=3022472899&amp;to=7178983112801
+- **已抓子页**：[Fast Ring Industrial Network Redundancy – CommFront](https://www.commfront.com/pages/fast-ring-industrial-network-redundancy)；[Ethernet Switches – CommFront](https://www.commfront.com/collections/ethernet-switches)；[Managed Ethernet Switches – CommFront](https://www.commfront.com/collections/managed-ethernet-switches)；[Unmanaged Ethernet Switches – CommFront](https://www.commfront.com/collections/unmanaged-ethernet-switches)；[Connect - Connectivity with Industrial Ruggedness – CommFron](https://www.commfront.com/pages/connect)；[Ethernet to Fiber Optic Converters (Point to Point) – CommFr](https://www.commfront.com/collections/ethernet-to-fiber-optic-converters)
+- 首页正文摘录：Log in My Cart (0) Products Ethernet Switches Managed Ethernet Switches Unmanaged Ethernet Switches SFP Transceivers DIN-Rail Power Supplies Serial Converters / Isolators / Repeaters / Hubs Serial Converters Serial to Ethernet Converters Opto Isolators Repeaters & Hubs Surge Protectors Fiber Optic Converters Ethernet to Fiber Optic Converters (Point to Point) Ethernet to Fiber Optic Converters (Multi-Drop) Serial to 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 124、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-527.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,7 +177,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

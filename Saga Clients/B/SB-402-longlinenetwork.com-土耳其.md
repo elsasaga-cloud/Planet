@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-402.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.longlinenetwork.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Anasayfa / Longline Network
+- **描述**：Sfp Transceiver, Nic Solutions Introduction, Cable Solutions, Media Converter Ürünleri Satış
+- **首页栏目**：Bazı Ürünlerimiz / XFP Tunable LL 80KM / Geleceğe Hazır Ağlar İçin 100G SFP’nin Avantajları ve Kullanım Alanları / LNG9260PF / CXP Transceiver Modülü Nedir ve Nasıl Kullanılır? / LNG9710HF TX/RX / LNG9804BF 4SFP+ / 1.8 PLC
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 329、industrial 227、ethernet 95、poe 67、sfp 65、gigabit 52、media converter 33、fiber 29、cable 26、10g 22、automation 7、data center 1
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, LNG3000, SFP28, LNG2000, LNG3048GE, LNG1000, LNG30316GE, LNG9260PF, LNG9710HF, LNG9804BF, LNG5700-24T4S, LNG3000-20T6S-IR
+- **站内公开邮箱**：info@longlinenetwork.com
+- **社媒**：https://twitter.com/longlinebilisim, https://wa.me/905464394746?text=Merhaba%2C%20Longline%20Network%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20ve%20fiyat%20almak%20istiyorum., https://www.facebook.com/longlinebilisim, https://www.instagram.com/longlinebilisim/, https://www.linkedin.com/company/longlinebilisim/, https://www.youtube.com/longlinebilisim
+- **已抓子页**：[POE Switch / Longline Network](https://www.longlinenetwork.com/urunler/category/switch/poe-switch/)；[Industrial Switch / Longline Network](https://www.longlinenetwork.com/industrial-switch/)；[Managed Industrial Switch / Longline Network](https://www.longlinenetwork.com/managed-industrial-switch/)；[Unmanaged Industrial Switch / Longline Network](https://www.longlinenetwork.com/unmanaged-industrial-switch/)；[PoE Ethernet Solutions / Longline Network](https://www.longlinenetwork.com/poe-ethernet-solutions/)；[Switch / Longline Network](https://www.longlinenetwork.com/urunler/category/switch/)
+- 首页正文摘录：Sfp Transceiver 100G QSFP28 100G CFP/CFP2/CFP4 40G QSFP+ 25G SFP28 10G SFP+/XFP Nic Solutions Introduction Industrial Automation PoE Ethernet Solutions Non-PoE Ethernet Solutions Server Ethernet Server Fiber Ethernet Solutions Server Copper Ethernet Solutions FTTD Ethernet 1 Gigabit FTTD Ethernet Solutions 10 Gigabit FTTD Ethernet Solutions 100M FTTD Ethernet Solutions Media Converter 10/100M Media Converter 10/100/1
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 232、PoE 67 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-402.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,7 +158,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

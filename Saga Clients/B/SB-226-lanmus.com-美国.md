@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-06-21 → 2025-10-22）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-226.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://lanmus.com/　语言：en-US　站点地图 URL 数：84
+- **标题**：Lanmus Networks / Networking Switches for your Network.
+- **描述**：Lanmus Networks offers a wide range of networking switches, including managed, unmanaged, industrial, and enterprise-level solutions.
+- **首页栏目**：Lanmus Xtreme Switches / Lanmus Networks / Make your business easy with seamless connectivity / High-Quality Networking Switches for Seamless Connectivity / How to Choose the Perfect Ethernet Switch for your Business Needs? / Unlocking actionable intelligence through connecting things / Explore Switches by Port / 4 Port Switches
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 719、industrial 353、poe 128、sfp 90、ethernet 57、gigabit 46、cctv 45、10g 42、fiber 31、cable 26、camera 25、integrator 21
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, LM-800UGP-I, LM-500UGP-I, LM-802FMGP-IL2, LM-2404FMGP-L2, LM402FMGP-IL2, LMT-GE-MM850, LM-1608C4XMGP-IL3, LM-2404XMGP-IL3, LM-4804XFMGP-L3, LM-402UGP, LM-4804FMGP-L2
+- **站内公开邮箱**：info@lanmus.com, sales@lanmus.com
+- **站内公开电话**：+1 (281) 995-9001, +1 (281) 995-9001 6725
+- **社媒**：https://wa.me/12819959001, https://wa.me/16188990506, https://www.facebook.com/lanmusnetworks, https://www.instagram.com/lanmusnetworks/, https://www.linkedin.com/company/lanmus-networks, https://www.youtube.com/@LanmusNetwork
+- **产品类页面**：https://lanmus.com/industrial-unmanaged-poe-switch/lm-800ugp-i/；https://lanmus.com/industrial-unmanaged-poe-switch/lm-500ugp-i/；https://lanmus.com/industrial-managed-poe-switch/lm402fmgp-il2/；https://lanmus.com/industrial-managed-poe-switch/lm1604fmgp-il2/；https://lanmus.com/industrial-managed-poe-switch/lm-802fmgp-il2/；https://lanmus.com/industrial-managed-poe-switch/lm-2404xmgp-il3/
+- **已抓子页**：[Industrial Managed PoE Switch / Lanmus / Your Global Partner](https://lanmus.com/industrial-managed-poe-switch/)；[Industrial Unmanaged PoE Switch / Lanmus / Your Global Partn](https://lanmus.com/industrial-unmanaged-poe-switch/)；[LM-500UGP-I / Reliable 5-Port Unmanaged Network Switch](https://lanmus.com/industrial-unmanaged-poe-switch/lm-500ugp-i/)；[LM-800UGP-I / Reliable 8-Port Industrial Unmanaged Switch](https://lanmus.com/industrial-unmanaged-poe-switch/lm-800ugp-i/)；[LM402FMGP-IL2 / Reliable 6-Port L2 Industrial Managed Switch](https://lanmus.com/industrial-managed-poe-switch/lm402fmgp-il2/)；[LM-802FMGP-IL2 / Powerful Layer 2 Managed Network Switch](https://lanmus.com/industrial-managed-poe-switch/lm-802fmgp-il2/)
+- 首页正文摘录：Skip to content Home About Us Products Unmanaged Switches Simple and Effective Networking Solutions. LM-402UGP LM-802UGP LM-1621FUGP LM-2421FUGP Explore Switches Managed Switches Managed Switches for Superior Control and Network Efficiency LM-2404FMGP-L2 LM-4804XFMGP-L3 LM-4804FMGP-L2+ Explore Switches Easy Managed Switch Simplified Network Management for Growing Businesses LM-802FEMGP Explore Switches Industrial Man
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 359、PoE 128 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-226.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

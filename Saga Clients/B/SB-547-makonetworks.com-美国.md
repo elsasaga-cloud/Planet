@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 20 次（2024-05-02 → 2025-10-30）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-547.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://makonetworks.com/　语言：en-US　站点地图 URL 数：339
+- **标题**：Mako Networks Home - Mako Networks
+- **描述**：Mako Networks is a network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management.
+- **首页栏目**：The Mako System / The Mako CMS / Features / Mako Voice / Mako Devices / Security Gateways / VPN Concentrators / Access Points
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 54、wireless 28、poe 16、installer 14、sfp 7、distributor 4、cctv 3、ethernet 2、camera 2、telecom 2、cable 2、odm 2
+- **站内公开邮箱**：media@makonetworks.com, sales@makonetworks.com
+- **站内公开电话**：+1 312 949 5252, +1 800 851 4691, +1 847 628 4194, +1 847.882.0388, +44 2037 693370, +61 2 8073 0546
+- **社媒**：https://twitter.com/MakoNetworks?s=20, https://twitter.com/intent/tweet?text=CrossAmerica+Partners+Goes+%E2%80%9CAll-In%E2%80%9D+With+Mako+Networks%2C+the+Industry%E2%80%99s+Fastest+Growing+Platform+for+Secure%2C+Cloud-Managed+Retail+Connectivity&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fcrossamerica-partners-goes-all-in-with-mako-networks-the-industrys-fastest-growing-platform-for-secure-cloud-managed-retail-connectivity%2F, https://twitter.com/intent/tweet?text=Mako+Networks%E2%80%99+Periscope+Named+Two-time+++Award-winning+New+Product+in+2025&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2025%2F11%2Fmako-networks-periscope-named-two-time-award-winning-new-product-in-2025%2F, https://twitter.com/intent/tweet?text=Petroleum+Marketing+Group+Goes+%E2%80%9CAll+In%E2%80%9D+With+Mako+Networks%2C+Standardizing+Entire+Retail+Fuel+Portfolio+on+Mako%E2%80%99s+Secure%2C+Cloud+Managed+Connectivity+Platform&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fpetroleum-marketing-group-goes-all-in-with-mako-networks-standardizing-entire-retail-fuel-portfolio-on-makos-secure-cloud-managed-connectivity-platform%2F, https://www.facebook.com/MakoNetworks, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2025%2F11%2Fmako-networks-periscope-named-two-time-award-winning-new-product-in-2025%2F
+- **产品类页面**：https://makonetworks.com/markets/industrial-and-manufacturing/；https://makonetworks.com/mako-system/mako-devices/managed-switches/；https://makonetworks.com/news/2020/04/mako-networks-releases-cms-managed-switch-line/；https://makonetworks.com/news/2013/12/holiday-shopping-safety-tips-from-mako-networks/；https://makonetworks.com/news/2013/08/mako-networks-hires-marketing-manager-julie-bishopp/；https://makonetworks.com/news/2011/10/mako-networks-receives-product-design-award/
+- **已抓子页**：[Mako Networks’ Periscope Named Two-time Award-winning New Pr](https://makonetworks.com/news/2025/11/mako-networks-periscope-named-two-time-award-winning-new-product-in-2025/)；[Petroleum Marketing Group Goes “All In” With Mako Networks, ](https://makonetworks.com/news/2026/04/petroleum-marketing-group-goes-all-in-with-mako-networks-standardizing-entire-retail-fuel-portfolio-on-makos-secure-cloud-managed-connectivity-platform/)；[About Mako Network Management Company - Mako Networks](https://makonetworks.com/about/)；[CrossAmerica Partners Goes “All-In” With Mako Networks, the ](https://makonetworks.com/news/2026/04/crossamerica-partners-goes-all-in-with-mako-networks-the-industrys-fastest-growing-platform-for-secure-cloud-managed-retail-connectivity/)；[Managed Switches - Mako Networks](https://makonetworks.com/mako-system/mako-devices/managed-switches/)；[Contact - Mako Networks](https://makonetworks.com/contact/)
+- 首页正文摘录：Search Mako CMS Login The Mako System The Mako System The Mako System The Mako System is a PCI-certified, cloud-managed, carrier-independent networking solution that makes it easy to connect and manage thousands of global sites in a high-performance business network that is secure, reliable, scalable and cost-effective. It consists of two parts: the Mako CMS management application and a range of managed Mako devices.
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 16、监控 5 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-547.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -24,7 +24,7 @@ last_contact: 2025-10-09
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -78,6 +78,23 @@ updated: 2026-10-21
 - **风险/边界**：亚太非主攻区；1 次跟进无回复；配件商利润薄
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）
 - **邮件切入句（英文）**：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fibercomtelecoms.com/　语言：en-US　站点地图 URL 数：41
+- **标题**：Fibercom Telecom / Leading Fiber & Turnkey ICT Solutions
+- **描述**：Finbuzz WordPress Business Theme
+- **首页栏目**：Accelerating Connectivity / Inspiring Progress / Your full turn key solutions provider / Fiber Solutions / Access / ICT / Cyber Security / Our Clients
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 198、cable 55、ftth 47、telecom 35、wireless 31、sfp 27、ethernet 23、10g 19、cisco 5、industrial 4、switch 3、surveillance 3
+- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP-3D, STM-1, ETX-1
+- **站内公开邮箱**：inquiry@fibercomtelecoms.com, sales@fibercomtelecoms.com
+- **站内公开电话**：+63 995 581 4199, +63 995-581-4199
+- **社媒**：https://www.linkedin.com/company/fibercom-telecom-phils-inc/posts/?feedView=all
+- **已抓子页**：[Excellence In Full Turnkey Solutions: 27 Years Of Success](https://fibercomtelecoms.com/excellence-turnkey-solutions/)；[Demarcation Devices: 7 Kickass Benefits For Network Performa](https://fibercomtelecoms.com/carrier-ethernet-network-demarcation-device/)；[Comprehensive Access Solutions: 2 Smart Ways For IIoT](https://fibercomtelecoms.com/fibercom-secure-access-solutions-iiot/)；[Fiber To The Home (Full Turn Key Solution) / Fibercom Teleco](https://fibercomtelecoms.com/fiber-to-the-home-full-turn-key-solution/)；[Fast Support In 3 Simple Steps / Contact Fibercom Telecom Ph](https://fibercomtelecoms.com/contact/)；[Reliable & Advanced Enterprise Networking Solutions 2025 / F](https://fibercomtelecoms.com/enterprise-networking/)
+- 首页正文摘录：Skip to content Product Fiber Outdoor Fiber Optic Cable Indoor Fiber Optic Cables Fiber Optic Closure Terminal Box Optical Distribution Frame (ODF) OSP Accessories SFP Tranceiver Module Access Wired Transport Wireless Transport ICT Enterprise Networking Smart Building Solutions Fiber Access ICT Cyber Security Engineering Use Cases Fiber to the Home (Full Turn Key Solution) Carrier Ethernet Network Demarcation Device 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-264.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

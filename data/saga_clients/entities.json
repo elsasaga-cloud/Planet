@@ -37395,19 +37395,41 @@
 "grade": "B",
 "research": {
 "code": "SA-099",
-"name_official": "Marvel ITCS（巴林）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "巴林 IT 经销/集成商，WA 在线，2 次回复、15 次跟进；需求点为'Cisco 型号'。",
+"name_official": "Marvel IT Solutions / Marvel Business Consultants（Bahrain）",
+"website_status": "在线（marvelitcs.com，快照 2026-10-21）",
+"summary": "巴林托管 IT 服务商（自称服务 500+ 本地企业）：数据网络、Wi-Fi 门户、机房、点对点无线、CCTV、门禁、IP 电话、SOPHOS 防火墙、数字营销；表内 Nasir 要「Cisco 同款型号」，2024-07 Passive PoE 手册回复 OK。",
 "type": "IT 经销/集成商",
 "size": "待补证",
 "brands_seen": [
-"Cisco（需求）"
+"Cisco（需求）",
+"Sophos"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "需要 Cisco 型号；WA 已加；2 次回复 / 15 次跟进",
 "quote": "需要Cisco model；973361 70186 已加（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "定位：巴林托管 IT 与安防；关键词 cctv 34 / access control 45 / wireless 45 / data center 18 / poe 4",
+"quote": "Marvel IT is the Leading IT Solution Company in Bahrain. We offer end-to-end Managed IT & Support Services… TRUSTED BY MORE THAN 500+ LOCAL BUSINESSES",
+"url": "https://marvelitcs.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "服务清单含数据网络 / 数据中心搭建 / 点对点无线 / CCTV / IP 电话 / SOPHOS",
+"quote": "Data Networking WiFi Captive Portal Data Center Setup & Maintenance Point-to-Point Wireless… CCTV Systems IP Telephony Solutions… SOPHOS Security",
+"url": "https://marvelitcs.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣：需要 Cisco model；2024-07 passive poe 手册→OK；2025-12 mini→hi",
+"quote": "兴趣：需要Cisco model；回复：OK；hi",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -37419,12 +37441,55 @@
 "email": "",
 "phone": "+973 3617 0186（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Nasir",
+"title": "（表内联系人）",
+"email": "info@marvelitcs.com",
+"phone": "+973 3617 0186",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。",
 "notes": "WA 一次性给'Cisco CBS/SG 对位 → STC 系列'替代表（分销 20%）；无回应即停。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对）"
+},
+"company_facts": {
+"legal_name": "Marvel Business Consultants W.L.L.（官网 About 页名；待核）",
+"founded": "",
+"hq": "Bahrain",
+"size": "小型 MSP（<50 人推断）",
+"other": "sales@marvelitcs.com；+973 3988 5090"
+},
+"business_lines": [
+"托管 IT / 数据网络 / 机房",
+"CCTV / 门禁 / 人流统计",
+"IP 电话 / 视频会议",
+"网络安全（SOPHOS）",
+"数字营销 / 软件开发"
+],
+"channels": {
+"role": "MSP / 安防集成（中小企业客户）",
+"region": "巴林 + 沙特"
+},
+"signals": [
+"CCTV + 门禁业务量大（页面词频）→ PoE 接入层需求稳定",
+"曾要 Cisco 等价型号 → 可给 Cisco CBS 对照表"
+],
+"risks": [
+"偏好 Cisco 品牌，白牌需以价格 + 对照说服",
+"MSP 单次量小"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "CCTV/门禁集成的 8 口 PoE 管理型入口；附 Cisco CBS250-8P 对照（其曾要 Cisco model）。"
+},
+"email_hook": "Nasir, you asked which of ours maps to a Cisco model — our 8-PoE + 2-SFP managed unit sits against the CBS250-8P-E-2G at roughly a third of the street price; want the one-page comparison for your CCTV / access-control sites?"
 }
 },
 {
@@ -43982,9 +44047,9 @@
 "grade": "B",
 "research": {
 "code": "SA-115",
-"name_official": "Advance Digital（advancedigital.co.in，印度）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "印度网络/光通信产品贸易商，WA 在线，3 次回复、15 次跟进；要求报光产品价格。",
+"name_official": "Advance Digital（advancedigital.co.in，印度；Subodh）",
+"website_status": "停放/空站（快照「Welcome to」占位页）",
+"summary": "印度古吉拉特（+91 94260）经销商 Subodh，2024 年起多轮索要光产品价格与资料（2 光 4、电口、mini 工业、10G MC），回复多为「有用 暂时没需求」；域名已成占位页，公司活跃度存疑。",
 "type": "贸易商",
 "size": "待补证",
 "brands_seen": [],
@@ -43993,6 +44058,20 @@
 "kind": "用户记录",
 "claim": "要光产品报价；WA 已加；3 次回复",
 "quote": "send price of optical product；94260 60606 已加（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "域名为占位页",
+"quote": "title: Welcome to（parked_or_empty）",
+"url": "http://advancedigital.co.in/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 send price of optical product；回复 all info and price / ok / 有用暂时没需求 ×2 / thanks",
+"quote": "兴趣：send price of optical product；回复：all info and price；有用 暂时没需求；thanks",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -44004,12 +44083,50 @@
 "email": "",
 "phone": "+91 94260 60606（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Subodh",
+"title": "（表内联系人）",
+"email": "info@advancedigital.co.in",
+"phone": "+91 94260 60606",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。",
 "notes": "WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "印度（古吉拉特号段）",
+"size": "小型经销",
+"other": "域名占位，可能已停用网站"
+},
+"business_lines": [
+"光纤产品 / 网络设备经销（推断）"
+],
+"channels": {
+"role": "经销商",
+"region": "印度"
+},
+"signals": [
+"持续接收资料但无需求（2024–2025）"
+],
+"risks": [
+"网站占位 → 活跃度存疑；邮箱可能失效",
+"印度低价竞争"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。"
+},
+"email_hook": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?"
 }
 },
 {
@@ -72197,10 +72314,43 @@
 "+3 区域 中东/伊朗",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "有回复·跟进中",
 "code": "SB-048",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-048",
+"name_official": "Bina Machine（bina-machine.com，伊朗）",
+"researched_at": "2026-10-21",
+"website_status": "在线但 403（快照被拒）",
+"summary": "伊朗客户（+98 912），2024 年多轮问价（2 光 4 管理 + BT、L2 管理 2 光 8、mini 工业、Passive PoE），表内注「后续目标价太低」；伊朗口径降 C，不主动发送。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "多轮问价；「问了 2 光 4 管理加 BT 后续目标价太低」",
+"quote": "回复：price catalog；问了2光4管理加BT 后续目标价太低；price；是管理的吗？",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "伊朗：制裁 / 收款与物流不可控；且目标价过低",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "伊朗客户不主动跟进。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "cablewindow.com",
@@ -84716,10 +84866,43 @@
 "+3 区域 中东/伊朗",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "有回复·跟进中",
 "code": "SB-097",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-097",
+"name_official": "Sepehr Modj Co.（伊朗）",
+"researched_at": "2026-10-21",
+"website_status": "域名不可达（sepehrmodjco.com）",
+"summary": "伊朗伊斯法罕 CCTV 分销商（Tiandy 合作），WhatsApp 多次要价目；按既定口径伊朗 = 制裁 / 区域外 → 降 C，不主动发送。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "CCTV 分销商，与 Tiandy 合作，要 VC 价目 / HDMI；回复 price list / price / 只用 100M 和 1G",
+"quote": "兴趣：CCTV distributor, work with Tiandy, VC price list, HDMI；回复：price list；price；只用100M和1G",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "伊朗：制裁 / 收款与物流不可控（与 SB-118、SB-153、SB-279 同口径）",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 伊朗降 C）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "伊朗客户不主动跟进。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "WIMEX TECHNOLOGIES",
@@ -113238,7 +113421,67 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-110",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-110",
+"name_official": "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（yahoo；仅表内信息）",
+"summary": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣 SFP 收发器兼容性；2025-03 工业 16/24 口出货图→要 datasheet；2025-04 Marvell 商用组合→「用锐捷」",
+"quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ade Tj",
+"title": "（表内联系人，已加微信）",
+"email": "adren_tj@yahoo.com",
+"phone": "+62 812 2212 3997",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核；表内名疑误录）",
+"founded": "",
+"hq": "印度尼西亚（表内）",
+"size": "",
+"other": "现用品牌 Ruijie（锐捷）"
+},
+"channels": {
+"role": "（未知，疑工程商）",
+"region": "印度尼西亚"
+},
+"signals": [
+"要过工业 16/24 口机 datasheet",
+"问 SFP 兼容（配件需求）"
+],
+"risks": [
+"主体不明（公司名疑误录）",
+"商用层已用 Ruijie"
+],
+"saga_fit": {
+"p1": "STI-21616GP",
+"tier": 25,
+"why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
+},
+"email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc."
+}
 },
 {
 "name": "Essentia technologies",
@@ -143099,7 +143342,55 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1280",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1280",
+"name_official": "Ruhan Farook（印度；个人）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "印度个人联系人，2024-02 对无线 IP / 24 光 combo 回复「catalog」，之后 16 次跟进无实质进展；无邮箱、无公司。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：对无线 IP 感兴趣；回复 catalog",
+"quote": "兴趣：对无线IP感兴趣；回复：catalog",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "印度",
+"size": "",
+"other": "仅 WhatsApp +91 99945 22298"
+},
+"channels": {
+"role": "（未知）",
+"region": "印度"
+},
+"risks": [
+"身份不明、无邮箱、仅一次「catalog」",
+"印度市场价格敏感"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "无明确需求，入门 8 口 PoE 管理型作目录钩子。"
+},
+"email_hook": "（无邮箱；WhatsApp：Catalogue is updated for 2026 — which switch size do you actually quote most, 8-port or 24-port?）"
+}
 },
 {
 "name": "Surya Namberdar",
@@ -143376,7 +143667,54 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1281",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1281",
+"name_official": "Surya Namberdar（印度；个人）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "印度个人联系人，2023-09 收到商用 PoE 价目后要「印度货币价格」，此后无实质进展；无邮箱、无公司。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：对多功能有兴趣；回复：印度货币价格",
+"quote": "兴趣：对多功能有兴趣；回复：印度货币价格",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "印度",
+"size": "",
+"other": "仅手机 09958628209"
+},
+"channels": {
+"role": "（未知）",
+"region": "印度"
+},
+"risks": [
+"要 INR 价 = 零售/末端客户特征；无邮箱"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "无明确需求；低优先。"
+},
+"email_hook": "（无邮箱；不主动跟进，待其再询）"
+}
 },
 {
 "name": "Sunmars Enterprises",
@@ -144112,10 +144450,50 @@
 "+2 最近活动 2024",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "有回复·跟进中",
 "code": "SB-1284",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-1284",
+"name_official": "Spearhead Group（巴基斯坦）",
+"researched_at": "2026-10-21",
+"website_status": "在线（spearheadgroup.pk，快照 2026-10-21）",
+"summary": "官网自述「国防与安全解决方案提供商」，2012 年起为军队、执法、私人安保与合法狩猎行业提供训练与供应；表内兴趣为 VC 安全防护、问过 4/8 口工业 PoE 价格。军工/执法主业 → 守界，降 C。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "定位：国防与安全解决方案，服务政府/执法/私人安保/狩猎",
+"quote": "Spearhead Group specializes in defense and security solutions for governments, law enforcement, private security, and the legal hunting industry… We Are Training & Supplying LEA's, Defense & Private Security Organizations Globally Since 2012",
+"url": "https://spearheadgroup.pk/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 VC 安全防护；2024-08 4/8 口工业 PoE→price",
+"quote": "兴趣：VC 安全防护；回复：price",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "守界：国防 / 执法供应商为主业（与 SB-885、SA-004 同口径）",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照身份判断 → 守界降 C）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "军工/执法主业，不主动供货。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "amineachoura21@gmail.com",
@@ -153201,7 +153579,57 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-157",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-157",
+"name_official": "（未具名，赞比亚 +260 961）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "赞比亚 WhatsApp 客户，17 次跟进 5 次实质回复：对 2.5G/10G 有兴趣但已有供应商；24 光 combo「有兴趣稍后谈」；mini 工业机「近期可能有需求」；无邮箱无公司名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "回复链：工业电源→will check；2 光 4→暂无需求；24 光 combo 出货→有兴趣稍后谈；商用 PoE 128→暂无需求；mini 工业机→近期可能有需求",
+"quote": "兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "赞比亚（表内）",
+"size": "",
+"other": "仅 WhatsApp +260 961 884 678"
+},
+"channels": {
+"role": "（未知，推断 ISP/工程商）",
+"region": "赞比亚"
+},
+"signals": [
+"对 24 光 combo（汇聚）与 mini 工业机有潜在需求"
+],
+"risks": [
+"身份不明、无邮箱；只能 WhatsApp"
+],
+"saga_fit": {
+"p1": "STC-424XGGM",
+"tier": 25,
+"why": "其感兴趣的 24 光 combo / 2.5G-10G 汇聚 → Saga STC-424XGGM（24 GE + 4×10G SFP+）；mini 工业机备选 STI-050GE。"
+},
+"email_hook": "（无邮箱；WhatsApp 一句：You mentioned the 24-fibre combo unit — if that project is live, our 24-port + 4×10G SFP+ aggregation switch quotes from 1 pc EXW.）"
+}
 },
 {
 "name": "2mtechnology.net",
@@ -172984,7 +173412,69 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-246",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-246",
+"name_official": "Gorgos Cristian（摩尔多瓦基希讷乌，安防客户；表内名为地址）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "摩尔多瓦基希讷乌安防安装商 Gorgos Cristian（Ion Creanga 66），2013 年起用阿里国际站，需求 50 台 2 光 8 电百兆 PoE，2024-04 问「4+2 百兆/千兆 100 台」价格；gmail 联系，俄语/罗马尼亚语区。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：50 个 2 光 8 电百兆 PoE；2013 年使用国际站；回复：问了 4+2 百兆千兆 100 个的价格",
+"quote": "兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Gorgos Cristian",
+"title": "（安防客户）",
+"email": "indexcristi@gmail.com",
+"phone": "+373 69 522 876",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "Chișinău, Ion Creangă 66, Moldova",
+"size": "小型安装商",
+"other": "阿里国际站老客户（2013）"
+},
+"business_lines": [
+"安防 / CCTV 安装"
+],
+"channels": {
+"role": "安防安装商（50–100 台级批量）",
+"region": "摩尔多瓦"
+},
+"signals": [
+"两次给出具体数量（50 台 / 100 台）= 真实项目体量"
+],
+"risks": [
+"要百兆 PoE 低价机，利润薄",
+"摩尔多瓦物流 / 付款：T/T 预付"
+],
+"saga_fit": {
+"p1": "STC-028GFP",
+"tier": 25,
+"why": "百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。"
+},
+"email_hook": "Cristian, you priced 100 pcs of a 4+2 PoE unit with us last year — if that site is still open, send the port mix (100M or gigabit downlinks) and I'll quote the 8-port and 4-port versions EXW in one line each."
+}
 },
 {
 "name": "VNS technologies",
@@ -175660,7 +176150,69 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-256",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-256",
+"name_official": "Digital Systems（印度；Jayesh Patel）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（hotmail；仅表内信息）",
+"summary": "印度古吉拉特（+91 98251）经销商 Jayesh Patel，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回复 Yes 并发名片，此后仅「Hi」。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：buy mc from local market / want to import MC；2024-04 10G MC→Yes 发名片",
+"quote": "兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Jayesh Patel",
+"title": "（经营者）",
+"email": "digital_sys@hotmail.com",
+"phone": "+91 98251 46654",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "印度（古吉拉特号段）",
+"size": "小型经销",
+"other": ""
+},
+"business_lines": [
+"网络配件 / 光纤收发器经销"
+],
+"channels": {
+"role": "本地经销商（想转直接进口）",
+"region": "印度"
+},
+"signals": [
+"明确意向：从本地采购转直接进口 MC；对 10G MC 回应积极"
+],
+"risks": [
+"印度进口小批量成本高（BIS 认证风险）",
+"hotmail 联系"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。"
+},
+"email_hook": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?"
+}
 },
 {
 "name": "Saxco Marketing Sdn Bhd",
@@ -182064,7 +182616,116 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-285",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-285",
+"name_official": "EPE RETELEM SPA（ex-SONATITE）",
+"researched_at": "2026-10-21",
+"website_status": "在线（retelem-dz.com，快照 2026-10-21，法语）",
+"summary": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Ubiquiti"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "定位：关键数字基础设施，1971 年起，EPE SPA，14 分支",
+"quote": "EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971… Entreprise publique économique Algérie · 14 agences",
+"url": "https://retelem-dz.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "集团",
+"claim": "ELEC EL DJAZAIR 控股子公司；电信 / 系统集成 / 培训",
+"quote": "RETELEM SPA est une entreprise publique économique… filiale de la Holding ELEC EL DJAZAIR… télécommunications, intégration des systèmes d'information et formation technique",
+"url": "https://eleceldjazair.dz/filiale/retelem/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "地址与联系：Bab El Oued, Alger；info@ / contact@retelem-dz.com",
+"quote": "Rue Omar Ben Aissa, Bab El Oued, Alger… info@retelem-dz.com contact@retelem-dz.com… 023 05 74 87",
+"url": "https://elmouchir.caci.dz/entreprise/28213",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "关键词：scada 6 / fibre 8 / data center 11；品牌 Ubiquiti",
+"quote": "kw scada 6, fibre 8, data center 11; brands Ubiquiti",
+"url": "https://retelem-dz.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "2024-04 工业交换机图→Datasheet；2024-06 商用 PoE 228 邮件；2024-08 4/8 口工业 PoE→对 2 光 8 PoE 有兴趣；2025-10 DAC→email",
+"quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Hichem Akchiche",
+"title": "（表内联系人）",
+"email": "hichem.akchiche@retelem-dz.com",
+"phone": "+213 770 760 449",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 集团/名录核对）"
+},
+"company_facts": {
+"legal_name": "EPE RETELEM SPA（ex-SONATITE）",
+"founded": "1971",
+"hq": "54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie",
+"size": "国有中大型（14 分支）",
+"other": "ELEC EL DJAZAIR 控股；法语"
+},
+"business_lines": [
+"LAN/WAN/Wi-Fi 与光纤传输",
+"数据中心 / 混合云",
+"SCADA 与工业网络",
+"视频监控 / 门禁 / 消防",
+"PABX / VoIP",
+"技术培训"
+],
+"products_seen": [
+{
+"brand": "Ubiquiti",
+"model": "（官网提及）",
+"spec": "无线/网络",
+"saga": "无对位（Saga 不做无线）",
+"url": "https://retelem-dz.com/",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "国有系统集成商（项目 / 招标）",
+"region": "阿尔及利亚全国"
+},
+"signals": [
+"明确对 2 光 8 电工业 PoE 有兴趣并要 datasheet",
+"SCADA / 工业网络是其业务线 → 工业交换机需求真实"
+],
+"risks": [
+"守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
+"国有采购走招标，周期长、需本地代理；付款 L/C 或 T/T 预付",
+"法语沟通"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。"
+},
+"email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?"
+}
 },
 {
 "name": "simplelogin.com",
@@ -209009,7 +209670,68 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-384",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-384",
+"name_official": "InterConnectivity Computer Solutions（菲律宾；表内名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：百兆小外电单纤 20 公里（2020-11）；2024-02 问 PoE 距离；谈工业 MC DIP 拨码",
+"quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ronald Dumaguing",
+"title": "（表内联系人）",
+"email": "",
+"phone": "+63 998 593 5820",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "菲律宾（表内）",
+"size": "小型（推断）",
+"other": "仅 WhatsApp"
+},
+"business_lines": [
+"网络 / 光纤接入工程（推断）"
+],
+"channels": {
+"role": "工程商 / 安装商",
+"region": "菲律宾"
+},
+"signals": [
+"明确型号级需求：100M 单纤 20 km MC + PoE 距离（长距 PoE）"
+],
+"risks": [
+"无邮箱；需求偏低价 MC"
+],
+"saga_fit": {
+"p1": "STI-110FE",
+"tier": 25,
+"why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。"
+},
+"email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）"
+}
 },
 {
 "name": "LTE ELEKTRONIK",
@@ -217216,7 +217938,70 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-423",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-423",
+"name_official": "Spring Network（南非；表内名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（gmail；仅表内信息）",
+"summary": "南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：4 光 8 工业大壳 PoE；回复：2 光 4 已经有了；4/8 口工业 PoE→有 154 了；DAC→email 也发了",
+"quote": "兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Sylvanus Adejumo",
+"title": "（表内联系人，备注「可以多跟进一下」）",
+"email": "adejumokojo@gmail.com",
+"phone": "+27 73 427 3414",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "",
+"hq": "南非（表内）",
+"size": "小型（gmail 联系）",
+"other": ""
+},
+"business_lines": [
+"网络 / 工业以太网安装（推断）"
+],
+"channels": {
+"role": "承包商 / 安装商",
+"region": "南非"
+},
+"signals": [
+"明确需求 4 光 8 电工业 PoE（大壳）",
+"已持有 2 光 4 与 154 同口型机 → 已有供应渠道，需差异化"
+],
+"risks": [
+"gmail 联系、公司信息不可核",
+"南非清关 / 付款：T/T 预付"
+],
+"saga_fit": {
+"p1": "STI-488GP",
+"tier": 25,
+"why": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。"
+},
+"email_hook": "Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?"
+}
 },
 {
 "name": "Tritonsystems spol. s r.o.",
@@ -261056,7 +261841,112 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-605",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-605",
+"name_official": "Matrix Vision Systems Ltd",
+"researched_at": "2026-10-21",
+"website_status": "在线（matrixsystems.co.ke；快照任务超时，web 检索可达）",
+"summary": "肯尼亚内罗毕电气工程 + 安防 + 软件集成商（11–50 人，10 年以上），Hikvision 战略伙伴，NCA/CA 认证 ICT 承包商；技术总监 Mogeni Enock 2024 年 3 月回复「有用，需与团队沟通是否拿样」，需求 = 光纤上行 IP 摄像机接入。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Hikvision"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "定位：工程 + 安防 + 软件集成，内罗毕 Westlands",
+"quote": "Matrix Vision Systems is a leading technology company providing engineering, security, and software integrated solutions… Mais. 7, B.S.K. Village, Muguga Green, Westlands, Nairobi +254 721 779 429",
+"url": "https://matrixsystems.co.ke/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "Hikvision 为战略伙伴（AIoT 与摄像机）",
+"quote": "HIKVision — CCTV Technology company — Partnership: AIoT solutions and reliable security camera systems, Strategic Partner",
+"url": "https://matrixsystems.co.ke/partners/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "规模 11–50 人；10 年以上经验",
+"quote": "Matrix Vision Systems Ltd is a leading Electrical engineering and Tech company… over 10 years of experience… 11-50",
+"url": "https://www.crunchbase.com/organization/matrix-vision-systems",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "持 NCA / ICT Authority 认证（承包资质）",
+"quote": "We are CA Certified, ICT Authority Certified, and NCA Certified & Compliant",
+"url": "https://matrixsystems.co.ke/products/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "2024-03-28 回复：商用 PoE 1×2+8 资料「有用 需要和 team 沟通一下是否拿样」；兴趣 ip cameras over fiber",
+"quote": "回复：有用 需要和team沟通一下是否拿样",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Mogeni Enock",
+"title": "Technical Director",
+"email": "mogeni@matrixsystems.co.ke",
+"phone": "+254 721 779 429",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Matrix Vision Systems Limited",
+"founded": "约 2013 前后（自述 10 年以上）",
+"hq": "Maisonette 7, BSK Village, Muguga Green, Westlands, Nairobi, Kenya",
+"size": "11–50 人（Crunchbase / ZoomInfo，<$5M）",
+"other": "Hikvision 战略伙伴；NCA/CA/ICT Authority 认证"
+},
+"business_lines": [
+"AI 视频监控 / 门禁 / 钥匙管理 / 报警（Hikvision）",
+"ICT 与通信基础设施（机房、UC、PABX）",
+"企业软件 / 设施资产管理"
+],
+"products_seen": [
+{
+"brand": "Hikvision",
+"model": "IP 摄像机 / NVR",
+"spec": "AIoT 安防",
+"saga": "配套接入层 PoE 交换机（Saga STC-28DGGPM / STC-228GP）",
+"url": "https://matrixsystems.co.ke/partners/",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "安防/ICT 系统集成商（项目）",
+"region": "肯尼亚 + 东非"
+},
+"signals": [
+"2024-03 技术总监表示 PoE 资料有用、考虑拿样（未落地）",
+"Hikvision 项目大量 PoE 口需求"
+],
+"risks": [
+"东非付款：建议 T/T 预付 / PayPal 小单",
+"Hikvision 自带 PoE 交换机竞争（需价格 + 光口上行差异）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "IP 摄像机走光纤上行：8 口 PoE + 2 SFP 管理型，正对其「ip cameras over fiber」需求；样品从 1 台起。"
+},
+"email_hook": "Mogeni, back in March 2024 you said the 8-PoE + 2-SFP unit was useful and you'd check with the team about a sample — for fibre-uplinked camera sites, is a single sample unit (we ship from 1 pc) the easiest way to restart?"
+}
 },
 {
 "name": "Truetech Security Solutions",
@@ -261360,7 +262250,61 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-606",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-606",
+"name_official": "Truetech Security Solutions（加纳；表内名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "对 POE switch 感兴趣；回复「在和 dja 合作」（已有供货方）",
+"quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（待核）",
+"founded": "（待核）",
+"hq": "加纳（表内）",
+"size": "（待核）",
+"other": "仅 WhatsApp +233 20 497 9197；表内联系人「İbrahim Gürgüneş」疑为串行录入"
+},
+"business_lines": [
+"安防（CCTV）安装 / 供应（表内推断）"
+],
+"channels": {
+"role": "安防安装商（推断）",
+"region": "加纳"
+},
+"signals": [
+"对 PoE 交换机有兴趣但已有供应商"
+],
+"risks": [
+"无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
+"联系人姓名疑录入错误"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。"
+},
+"email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）"
+}
 },
 {
 "name": "WAN networking technology",
@@ -325382,7 +326326,54 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-931",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-931",
+"name_official": "Usman（巴基斯坦；个人）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "巴基斯坦个人联系人，2023-11 对看门狗系列（5 口交换机）想测样但不想付样品费，此后无进展；无邮箱、无公司。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：5 口交换机；回复：想测样但不想付样品费",
+"quote": "兴趣：5口交换机；回复：想测样但不想付样品费",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "巴基斯坦（拉合尔号段 +92 300）",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "（未知）",
+"region": "巴基斯坦"
+},
+"risks": [
+"要免费样品、身份不明 → 低优先"
+],
+"saga_fit": {
+"p1": "STI-050GE",
+"tier": 25,
+"why": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。"
+},
+"email_hook": "（无邮箱；不主动跟进）"
+}
 },
 {
 "name": "Venus Comex Orbit",
@@ -336331,7 +337322,118 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-978",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-978",
+"name_official": "Futurist (Pvt) Ltd.",
+"researched_at": "2026-10-21",
+"website_status": "在线（futurist.com.pk；快照未覆盖）",
+"summary": "伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "名录",
+"claim": "公司信息：伊斯兰堡 I-10/4，2011 年，管理人 Aqeel Abbas / Tajamal Ishaq，关联 Yokogawa / OPNET / Furukawa",
+"quote": "Futurist (Pvt) Ltd. 524, Main Double Road, Street 19, I-10/4, Islamabad… Managed By: Mr. Aqeel Abbas Mr. Tajamal Ishaq… Y.O.E: 2011… Affiliations: Yokogawa Electric Corporation OPNET Technologies Co. Ltd. Furukawa Electric Group",
+"url": "https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "经营范围：网络承包、光缆、通信设备批发、CCTV、UPS、测试仪器",
+"quote": "dealing in Computer Networking Contractors, Computer Networks Equipment Dealers & Distributors, Optical Fiber Cables… Telecommunication Equipment & Supplies Wholesale Dealers… CCTv Equipment",
+"url": "https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd",
+"date": "2026-10-21"
+},
+{
+"kind": "海关",
+"claim": "进口商：128 票 / 47 家供应商（中国、美国）",
+"quote": "Futurist Pvt Limited Pakistan is an importer with 128 import shipments from 47 suppliers… China, and United States",
+"url": "https://www.volza.com/company-profile/futurist-pvt-limited-30979764/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "CEO Aqeel Abbas（2011 至今，前 Zong）",
+"quote": "2011 - now CEO @ FUTURIST (Pvt) Ltd; 2007 - 2011 Manager NPS @ ZonG",
+"url": "https://rocketreach.co/aqeel-abbas-email_44568110",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "回复链：2 光 8 管理 PoE 出货图→问价；工业电源→「可以搭配工业交换机」；2 光 4 小壳→price；mini 工业机→will check；4/8 口工业 PoE→发来竞品图（疑天博通信）",
+"quote": "发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Tajamal Ishaq",
+"title": "Manager（表内联系人）",
+"email": "tajamal@futurist.com.pk",
+"phone": "+92 333 519 9946",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Aqeel Abbas",
+"title": "CEO",
+"email": "",
+"phone": "",
+"source": "https://rocketreach.co/aqeel-abbas-email_44568110"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（名录 + 海关核对）"
+},
+"company_facts": {
+"legal_name": "Futurist (Pvt) Ltd.",
+"founded": "2011",
+"hq": "524 Main Double Road, I-10/4, Islamabad, Pakistan",
+"size": "小型（名录无人数；进口 128 票）",
+"other": "info@futurist.com.pk；座机 +92-51-4446394"
+},
+"business_lines": [
+"网络 / 光纤工程承包",
+"通信与测试设备进口经销（Yokogawa、Furukawa 关联）",
+"CCTV / UPS / 太阳能供应"
+],
+"products_seen": [
+{
+"brand": "（竞品）",
+"model": "4/8 口工业 PoE（客户回发图，疑天博通信）",
+"spec": "工业 PoE 交换机",
+"saga": "Saga STI-288GP / STI-144GP 同口型",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "进口经销 + 工程承包",
+"region": "巴基斯坦（伊斯兰堡）"
+},
+"signals": [
+"多轮问价（2 光 8 管理 PoE、2 光 4、mini 工业）",
+"有在比价的工业 PoE 竞品（天博通信）",
+"是 Volza 可查的活跃进口商"
+],
+"risks": [
+"比价型客户，目标价偏低概率高",
+"光猫 / ONU 需求 Saga 无（Q-32 外，PON 不做）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。"
+},
+"email_hook": "Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day."
+}
 },
 {
 "name": "garlandtechnology.com",

@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-694.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://dijitalbina.com/　语言：tr　站点地图 URL 数：122
+- **标题**：DİJİTAL BİNA / Kontrol Sistemleri / Schneider Elekctric EcoExpert
+- **描述**：Dijital Bina Schneider Electric EcoXpert & Jade Bird Partneri Güvenilir markalarla gücü hissedin… Hizmetlerimiz Dijital Bina / EcoXpert by Schneider Yangın Sistemleri Yangına erken müdahale hayat kurtarır. Ev ve iş yerleriniz için profesyonel çözümler. Detaylı Bilgi Dijital Bina / Jade Bird Yangın S
+- **首页栏目**：Anasayfa / Dijital Bina / Schneider Electric EcoXpert & Jade Bird Partneri / Dijital Bina / EcoXpert by Schneider / Yangın Sistemleri / Dijital Bina / Jade Bird / Dijital Bina Kontrol Sistemleri / Ev ve işyerleriniz için yangın algılama sistemleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 24
+- **站内出现的品牌**：Schneider　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：JBE-P2L1, FDP221, FDP252, EN54-23, FDP292, JBE-P2L1-2LE, JBE-P2L1-EXLP, JBE-P2L2-2LP, JBE-P2L2-IO, JBE-P2L2-NET, JBE-2111, JBE-2106
+- **站内公开邮箱**：info@dijitalbina.com
+- **站内公开电话**：+90 212 447 20 20
+- **产品类页面**：https://dijitalbina.com/urun/；https://dijitalbina.com/urun/us-esmi-impresia/；https://dijitalbina.com/urun/taban-siren-esmi-impresia/；https://dijitalbina.com/urun/bolge-modulu-esmi-impresia/；https://dijitalbina.com/urun/isi-dedektoru-esmi-impresia/；https://dijitalbina.com/urun/duman-dedektoru-esmi-impresia/
+- **已抓子页**：[Ürünler / Dijital Bina / EcoXpert Schneider Electric Türkiye](https://dijitalbina.com/urun/)；[Schneider / Dijital Bina / EcoXpert Schneider Electric Türki](https://dijitalbina.com/product-category/schneider/)；[Jade Bird / Dijital Bina / EcoXpert Schneider Electric Türki](https://dijitalbina.com/product-category/jade-bird/)；[Ürün Koruma Sistemleri / Dijital Bina / EcoXpert Schneider E](https://dijitalbina.com/hizmetler/urun-koruma-sistemleri/)；[Hakkımızda / Dijital Bina / EcoXpert Schneider Electric Türk](https://dijitalbina.com/hakkimizda/)；[İletişim Bilgileri / Dijital Bina / EcoXpert Schneider Elect](https://dijitalbina.com/iletisim/)
+- 首页正文摘录：Anasayfa Hizmetlerimiz Yangın Algılama ve İhbar Sistemleri Kapalı devre televizyon sistemi (CCTV) Kartlı Geçiş Sistemi Bina ve Enerji Otomasyon Sistemleri Data ve Network Çözümleri Güvenlik ve Hırsız Alarm Sistemleri Ürün Koruma Sistemleri Gazlı Söndürme Sistemleri Hakkımızda Ürünler Schneider Ürünleri Jade Bird Ürünleri Yararlı Bilgiler Bize Ulaşın Anasayfa admin 2026-10-20T10:24:16+00:00 Dijital Bina Schneider Elec
+- 数据文件：`data/saga_clients/site_snapshots/SB-694.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +158,7 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

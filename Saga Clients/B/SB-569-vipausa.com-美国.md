@@ -22,7 +22,7 @@ last_contact: 2025-10-25
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-30 → 2025-10-25）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-569.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://vipausa.com/　语言：en　站点地图 URL 数：0
+- **标题**：VIPA ControlsAmerica
+- **描述**：VIPA is the YASKAWA-owned German control automation manufacturer, offering advanced and cost-effective PLC, I/O, HMI and software solutions for 30 years.
+- **首页栏目**：Free Shipping / Genuine VIPA Products / Performance Guarantee / Free Awesome Support / Extensive Fieldbus Protocol Options / Most Popular Products / VIPA 972-0DP10 / EasyConn PROFIBUS Connector w/ Diagnostic LEDs - 90° / PROFINET/Industrial Ethernet RJ45 Connector / VIPA 972-0PN00
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 87、industrial 75、cable 60、switch 50、automation 13、distributor 8、scada 7、poe 1、oem 1、integrator 1、installer 1
+- **站内出现的品牌**：Siemens　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RRJ0-EB, RTP0-KB, AWG24, AWG26, PPC021, PPC015, PPC010, RS232, PN8-RD, PN5-RD, EN8-R, EN5-R
+- **站内公开邮箱**：admin@indusolamerica.com, info@vipausa.com, sales@vipausa.com, ventas@vipausa.com
+- **站内公开电话**：+1 (678) 880-6910, +1(678) 880-6910, +1.678.880.6910, +52 (55) 8526-6442
+- **社媒**：https://twitter.com/VIPAUSA, https://twitter.com/intent/tweet/?text=VIPA%20972-0PN00%20%7C%20PROFINET%2FIndustrial%20Ethernet%20Connector&url=https%3A%2F%2Fvipausa.com%2Fproducts%2Fprofinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html, https://www.linkedin.com/company/vipa-controls-america, https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvipausa.com%2Fproducts%2Fprofinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html&title=VIPA%20972-0PN00%20%7C%20PROFINET%2FIndustrial%20Ethernet%20Connector&summary=VIPA%20972-0PN00%20%7C%20PROFINET%2FIndustrial%20Ethernet%20Connector&source=https%3A%2F%2Fvipausa.com%2Fproducts%2Fprofinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html, https://www.youtube.com/channel/UCsjAowleVcZoyqSBr9-JUHQ
+- **已抓子页**：[Products - Accessories - Industrial Ethernet Switches - VIPA](https://vipausa.com/categories/products/accessories/industrial-ethernet-switches.html)；[Products - Accessories - Industrial Ethernet Patch Cables - ](https://vipausa.com/categories/accessories/products/industrial-ethernet-patch-cables.html)；[VIPA 972-0PN00 / PROFINET/Industrial Ethernet Connector](https://vipausa.com/products/profinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html)；[VIPA Product Videos](https://vipausa.com/pages/about/product-videos.html)；[Apply for Senior Support Engineer](https://vipausa.com/apply-for-senior-support-engineer-industrial-automation/)；[Products - HMI - Touch Screens - VIPA ControlsAmerica](https://vipausa.com/categories/products/teleservice-routers/touch-screens.html)
+- 首页正文摘录：Skip to main content close Free shipping on U.S. Orders over $98 Best Prices + Free, Awesome Support Toggle menu Search Your Account Access account and manage orders Sign in Register Compare Project close Fieldbus PROFIBUS PLCs Remote IO HMI Accessories PROFINET PLCs Remote IO HMI Accessories Modbus PLCs Remote IO HMI Accessories EtherCAT PLCs Remote IO HMI Accessories EtherNet/IP Remote IO Accessories OPC UA DeviceN
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 87、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-569.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

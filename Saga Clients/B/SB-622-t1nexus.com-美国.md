@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 3 次（2025-09-16 → 2025-11-06）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-622.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://t1nexus.com/　语言：en-US　站点地图 URL 数：155
+- **标题**：Affordable OEM Transceivers and OEM Cable
+- **描述**：Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables, and advanced end-user and production coding solutions.
+- **首页栏目**：Industries / Powering the AI Revolution with 1.6 Terabit Innovation / Our Product Range / Discover Smarter Cooling Strategies for AI Factories / ISO and TL9000 Quality with a Lifetime Warranty / Industries We Support / Service Providers / Data Centers
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 83、data center 32、sfp 25、media converter 18、oem 10、fiber 9、10g 4、ethernet 2、telecom 2、switch 1、poe 1、distributor 1
+- **站内出现的品牌**：PLANET, Cisco, Juniper　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TL9000, QSFP28, SFP28, T1-ACC-NDR-800G, ISO9001, ISO14001, QSFP56, T1-100G-QSFP28-LR4-TAA, T1-40G-AOC, T1-AOC-100G, T1-AOC-10G, T1-AOC-25G
+- **站内公开电话**：+1 877-816-3987, +1 877-816-3987 47257, +44 330-223-7987, +44 330-223-7987 47257
+- **社媒**：https://www.linkedin.com/company/t1nexus/
+- **产品类页面**：https://t1nexus.com/catalog/；https://t1nexus.com/products/；https://t1nexus.com/product/t1-ds2024g/；https://t1nexus.com/product/t1-sfp-1g-lx/；https://t1nexus.com/product/t1-sfp-1g-sx/；https://t1nexus.com/product/t1-sfp-10g-t/
+- **已抓子页**：[Products - T1Nexus](https://t1nexus.com/products/)；[About T1Nexus](https://t1nexus.com/about/)；[Careers T1Nexus](https://t1nexus.com/about/careers/)；[Contact us - T1Nexus](https://t1nexus.com/contact-t1nexus/)；[400G QSFP+ DAC Cable - T1Nexus](https://t1nexus.com/direct-attach-cables/)；[Active Optical Cables - T1Nexus](https://t1nexus.com/active-optical-cables/)
+- 首页正文摘录：Skip to navigation Skip to main content Resources Products OPTICAL TRANSCEIVERS CABLES IMMERSION COOLING EASYCODER MEDIA CONVERTERS PASSIVE NETWORKING Industries Industries Get direct access to our extensive portfolio of optical products and specialist technical expertise. Learn More Service Providers Data Centers 800G Data Centers Media Broadcasters Enterprises Healthcare Education Military & Government Partner With
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-622.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +159,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

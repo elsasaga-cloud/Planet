@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -86,6 +86,18 @@ updated: 2026-10-21
 - **风险/边界**：新设公司规模小；火灾报警业务守界；无后续跟进
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）
 - **邮件切入句（英文）**：Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fhguvenlik.com/　语言：en　站点地图 URL 数：4
+- **标题**：FH GÃ¼venlik Sistemleri ve BiliÅim
+- **描述**：GÃ¼venlikte YenilikÃ§i ÃÃ¶zÃ¼mler
+- **首页栏目**：Hizmetlerimiz / GÃ¼venlik Kamera Sistemleri / YangÄ±n Ä°hbar Sistemleri / Alarm Sistemleri / KartlÄ± GeÃ§iÅ Sistemleri / BakÄ±m ve Destek Hizmetleri / AÄ ve AltyapÄ± ÃÃ¶zÃ¼mleri / ÃÃ¶zÃ¼m OrtaklarÄ±
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 1
+- **站内公开邮箱**：info@fhguvenlik.com
+- **社媒**：https://www.linkedin.com/company/fh-g%C3%BCvenlik-sistemleri-ve-bili%C5%9Fim-ltd-%C5%9Fti/
+- 首页正文摘录：Skip to main content Ana Sayfa HakkÄ±mÄ±zda Hizmetler Galeri Ä°letiÅim Hizmetlerimiz GÃ¼venlik Kamera Sistemleri FH GÃ¼venlik olarak sizlere yÃ¼ksek Ã§Ã¶zÃ¼nÃ¼rlÃ¼klÃ¼ CCTV sistemleri sunuyoruz. Analog, AHD ve IP kameralar ile her tÃ¼rlÃ¼ ihtiyacÄ±nÄ±za uygun Ã§Ã¶zÃ¼mler saÄlÄ±yoruz. GeliÅmiÅ izleme seÃ§enekleri ile gÃ¼venliÄinizi artÄ±rÄ±n ve her an kontrol altÄ±nda tutun. Ekibimiz, kurulum sÃ¼recinde ve sonras
+- 数据文件：`data/saga_clients/site_snapshots/SB-355.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

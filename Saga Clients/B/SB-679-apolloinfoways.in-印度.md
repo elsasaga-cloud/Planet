@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-679.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mywatchdog.in/　语言：en　站点地图 URL 数：0
+- **标题**：WatchDog / Enterprise Networking, Data Center, Cloud & Security
+- **描述**：WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.
+- **首页栏目**：Switch / Router / Wireless / Server / Security Management / SFP Optical Transceivers / Firewall / Powering Global Networks with Proven Performance
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 187、data center 90、industrial 46、sfp 42、wireless 33、poe 24、automation 20、cable 12、ethernet 11、10g 10、access control 8、gigabit 7
+- **站内出现的品牌**：Ubiquiti, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, WD6822-24X6H, WD6822-48X6H, WD5890, WD25000AI, WD25000X, WD25000G, WD9875, WD9865, WD9850, WD16000-F, WD25004G
+- **站内公开邮箱**：info@mywatchdog.in
+- **已抓子页**：[Industrial Networking / WatchDog Rugged Switch Solutions](https://www.mywatchdog.in/industrial.html)；[Enterprise Networking / WatchDog Campus & Branch Solutions](https://www.mywatchdog.in/Enterprise.html)；[Switching Solutions / WatchDog Data Center, Enterprise & Ind](https://www.mywatchdog.in/solution-switch.html)；[Data Center Networking / WatchDog Switches & Fabric Solution](https://www.mywatchdog.in/datacenter.html)；[Solutions / WatchDog Network, Cloud & Security Portfolio](https://www.mywatchdog.in/switch-common.html)；[Powering Smarter, Secure & Connected Campuses / WatchDog](https://www.mywatchdog.in/industrial-enterprise.html)
+- 首页正文摘录：Home Products Switch Data Center Switches Enterprise Network Switches Industrial Switches Router Core Router Aggregation Router Access Router Wireless Outdoor Access Point Indoor Access Point Wireless Controller Server Edge Servers Rack Servers Storage Servers AI-Ready Servers Security Management SDN Controller Network Management System SD-WAN Network Access Control SFP Optical Transceivers SFP / SFP+ Modules QSFP / 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 53、PoE 24 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-679.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +164,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

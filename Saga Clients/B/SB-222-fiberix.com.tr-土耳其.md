@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-424XGGM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -89,6 +89,17 @@ updated: 2026-10-21
 - **风险/边界**：已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L3，$132.7）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报
 - **邮件切入句（英文）**：Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L3 switch EXW 132,7 USD, yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.fiberix.com.tr/　语言：未标　站点地图 URL 数：0
+- **标题**：Fiberix / Cebinize Dost Ýnternet
+- **描述**：Fiberix - Cebinize Dost Ýnternet - Ekonomik, Hýzlý, Fiber Ýnternet
+- **首页栏目**：Fiberix ile ucuz sýnýrsýz hýzlý mutlu yeni nesil internet / Öne çýkan paketlerimiz / FULL 20 LÝMÝTSÝZ 519 TL / FULL 35 LÝMÝTSÝZ 539 TL / FULL 50 LÝMÝTSÝZ 569 TL / FULL 100 LÝMÝTSÝZ 619 TL / Bu firmalar yanýlýyor olamaz / Hemen siz de Fiberix dünyasýna katýlýn.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 10、ethernet 1
+- **社媒**：https://www.fiberix.com.tr/anasayfa.html, https://www.fiberix.com.tr/cv.html, https://www.fiberix.com.tr/hizmet-158-airfiber_internet_hizmeti.html, https://www.fiberix.com.tr/hizmet-163-adsl_internet_hizmeti.html, https://www.fiberix.com.tr/hizmet-186-metro_ethernet_hizmeti.html, https://www.fiberix.com.tr/kurumsal-155-biz_kimiz_.html
+- 首页正文摘录：0850 333 27 00 Ana sayfa Kurumsal Biz Kimiz ? Neden Fiberix ? Deðerlerimiz Ýnsan Kaynaklarý Ýþ Baþvuru Formu Hizmetlerimiz ADSL Ýnternet Hizmeti AirFiber Ýnternet Hizmeti Metro Ethernet Hizmeti Tarifelerimiz Kampanyalarýmýz Destek Modem ayarlarý nasýl yapýlýr? Kablosuz modem þifresini nasýl deðiþtiririm? S.S.S. Hýz testi WhatsApp Fiberix avantajlar dünyasýna siz de katýlýn.. Limitsiz internetin keyfine varýn. Fatura 
+- 数据文件：`data/saga_clients/site_snapshots/SB-222.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -1,0 +1,47 @@
+{
+ "code": "SB-931",
+ "name_official": "Usman（巴基斯坦；个人）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "巴基斯坦个人联系人，2023-11 对看门狗系列（5 口交换机）想测样但不想付样品费，此后无进展；无邮箱、无公司。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：5 口交换机；回复：想测样但不想付样品费",
+   "quote": "兴趣：5口交换机；回复：想测样但不想付样品费",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "巴基斯坦（拉合尔号段 +92 300）",
+  "size": "",
+  "other": ""
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "巴基斯坦"
+ },
+ "risks": [
+  "要免费样品、身份不明 → 低优先"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 25,
+  "why": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。"
+ },
+ "email_hook": "（无邮箱；不主动跟进）"
+}

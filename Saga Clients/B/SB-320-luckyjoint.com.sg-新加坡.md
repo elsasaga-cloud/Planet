@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-01-29 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-320.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.luckyjoint.com.sg/　语言：en-US　站点地图 URL 数：46
+- **标题**：Home - Lucky Joint Construction Pte Ltd
+- **描述**：Connectivity Simplified Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore. Yearsof business intelecommunication industry 0 full timestaff strength 0 clients &business partners 0 projects
+- **首页栏目**：Connectivity Simplified / Services
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 17、fiber 16、telecom 10、wireless 4、cctv 2、surveillance 1
+- **站内公开邮箱**：sales@luckyjoint.com.sg
+- **社媒**：https://sg.linkedin.com/company/lucky-joint-constructions-pte-ltd, https://twitter.com/luckyjoint_ljc?lang=en, https://wa.me/6597337533, https://www.facebook.com/luckyjoint1982/, https://www.instagram.com/luckyjoint_ljc/
+- **已抓子页**：[Services - Lucky Joint Construction Pte Ltd](https://www.luckyjoint.com.sg/services/?t=product-distribution)；[Mobile Network - Lucky Joint Construction Pte Ltd](https://www.luckyjoint.com.sg/service/mobile-network/)；[Home - Lucky Joint Construction Pte Ltd](https://www.luckyjoint.com.sg/?t=product-distribution)；[Home Networking - Lucky Joint Construction Pte Ltd](https://www.luckyjoint.com.sg/service/home-networking/)；[Supply & Installation of Optical Distribution Network - Luck](https://www.luckyjoint.com.sg/service/supply-installation-of-optical-distribution-network/)；[Contact Us - Lucky Joint Construction Pte Ltd](https://www.luckyjoint.com.sg/contact-us/)
+- 首页正文摘录：Skip to content Home Who We Are Introduction Vision, Mission & Values BCA Workhead Quality Management Systems Certifications & Achievements Resources What We Do Communication Engineering / Telco Solution Security System ICT & Datacomm Professional Service Electrical Power Distribution, EV & Solar Solutions Product Distribution Industries Clients & Partners News Careers Sustainability Contact Us Home Who We Are Introd
+- 数据文件：`data/saga_clients/site_snapshots/SB-320.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

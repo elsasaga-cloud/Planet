@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-379.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://4sltd.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：4S Elektrik Elektronik // Telekominikasyon // İleri Teknoloji Ar & Ge Ltd. Şti.
+- **描述**：İzmir ve Türkiye'de Elektrik ve Elektronik Malzeme Satış, Thorguard Türkiye Satış, Secty Türkiye Satış, Dinnteco Türkiye Satış, Redlion Türkiye Satış
+- **首页栏目**：Referans Durumları / İhtiyaç ve ürün bilgilendirme için temasa geçiniz / 4S Teknoloji - Hakkımızda / Site Haritası / Ürünlerimiz / İletişime Geçin
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 4
+- **站内型号串**（正则抽取，含非交换机）：IEC61400, IEC62305, IEC61643, IEC62793, DINNTECO-100
+- **站内公开邮箱**：4steknolojiltd@gmail.com, info@4sltd.com.tr, info@natus.com.tr
+- **站内公开电话**：+90 (0)532 218 09 65, +90 (0)850 223 47 62, +90 (0)850 228 09 73, +90 224 416 01 80
+- **社媒**：https://www.youtube.com/watch?v=QViqoev8C1M
+- **已抓子页**：[4S Elektrik Elektronik // Telekominikasyon // İleri Teknoloj](https://4sltd.com.tr/urunler-4s-teknoloji.php)；[4S Elektrik Elektronik // Telekominikasyon // İleri Teknoloj](https://4sltd.com.tr/iletisim-4s-teknoloji.php)；[4S Elektrik Elektronik // Telekominikasyon // İleri Teknoloj](https://4sltd.com.tr/hakkimizda-4s-teknoloji.php)；[4S Elektrik Elektronik // Telekominikasyon // İleri Teknoloj](https://4sltd.com.tr/joslyn-clark-kontaktor-starter-pump-controllers-sistemleri-4s-teknoloji.php)；[4S Elektrik Elektronik // Telekominikasyon // İleri Teknoloj](https://4sltd.com.tr/partnerlerimiz-4s-teknoloji.php)
+- 首页正文摘录：4S Elektrik Elektronik Telekominikasyon İleri Teknoloji Ar & Ge Ltd. Şti. info@4sltd.com.tr - 4steknolojiltd@gmail.com +90 (0)850 223 47 62 +90 (0)532 218 09 65 info@4sltd.com.tr 4steknolojiltd@gmail.com Ana Sayfa Şirket Profili Ürünlerimiz Secty Electronics Thor Guard Red Lion Controls Meteorage Joslyn Clark K-Surge Uygulama Alanları Maden Endüstrisi Petro / Kimya Endüstrisi Denizcilik – Gemi - Liman Endüstrisi Yeni
+- 数据文件：`data/saga_clients/site_snapshots/SB-379.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,7 +159,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

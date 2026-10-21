@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: parked_or_empty  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-288GP — 深挖对位：集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -90,6 +90,15 @@ updated: 2026-10-21
 - **风险/边界**：微型团队、单量小；无后续跟进
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
 - **邮件切入句（英文）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+
+- 尝试域名：hisvisionhatay.com, vivabilgisayar.com
+  > https://hisvisionhatay.com/ conn: HTTPSConnectionPool(host='hisvisionhatay.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro
+  > https://www.hisvisionhatay.com/ conn: HTTPSConnectionPool(host='www.hisvisionhatay.com', port=443): Max retries exceeded with url: / (Caused by NameResolution
+  > http://hisvisionhatay.com/ conn: HTTPConnectionPool(host='hisvisionhatay.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(
+- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
+- 数据文件：`data/saga_clients/site_snapshots/SB-243.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,6 +186,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

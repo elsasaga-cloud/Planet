@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-01-31 → 2025-10-13）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-211.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bce.it/　语言：en-US　站点地图 URL 数：1968
+- **标题**：Homepage - BCE SRL Importation & Distribution Electronic Components
+- **首页栏目**：Quality Products – Innovative Solutions / Product Overview / Latest News / Market Applications and Solutions / Products Catalogue / Search for Market’s Application / About BCE SRL / Why Choose Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 151、industrial 140、automation 38、ethernet 35、wireless 35、fiber 31、cctv 21、switch 15、telecom 12、camera 7、10g 3、poe 2
+- **站内型号串**（正则抽取，含非交换机）：QFN20, BGA500, BGA289, BGA35, BGA121, BGA240, BGA1440, FCCSP78, BGA400, MSOP10, QFN40, BGA484
+- **站内公开邮箱**：bce@bce.it
+- **站内公开电话**：+39) 0536 811616
+- **社媒**：https://www.linkedin.com/in/paolo-romano-5b197646/
+- **产品类页面**：https://www.bce.it/2011/industrial-wire-harness/；https://www.bce.it/2018/industrial-automation-market-altw/；https://www.bce.it/2012/industrial-ethernet-m12-to-rj45-adaptor/；https://www.bce.it/2011/industrial-ethernet-rj45-usb-2-0-mini-din/；https://www.bce.it/2019/industrial-i-o-waterproof-connectors-holin/；https://www.bce.it/2019/power-socket-and-switch-wire-harness-·-jia-yi/
+- **已抓子页**：[Industrial Automation - products Archives - BCE SRL Importat](https://www.bce.it/category/industrial-automation/)；[Industrial Electronic Archives - BCE SRL Importation & Distr](https://www.bce.it/category/industrial-electronic/)；[Industrial Network Archives - BCE SRL Importation & Distribu](https://www.bce.it/category/industrial-network/)；[Fiber optic products Archives - BCE SRL Importation & Distri](https://www.bce.it/category/fiber-optic-products/)；[Industrial Relay Archives - BCE SRL Importation & Distributi](https://www.bce.it/category/industrial-relay/)；[EDP products Archives - BCE SRL Importation & Distribution E](https://www.bce.it/category/edp-products/)
+- 首页正文摘录：Home Company About us Where we are Certifications and Quality Our Main Customers Employment opportunities Work With US Terms and Conditions Products Adapters & Receptacles Agriculture Products Automotive products Batteries Battery connectors Board to Board connectors Board to Wire connectors Cable Assemblies Cable Gland Series Cable Joiner Capacitive Sensor CCTV and Security Circular connectors Costruction Machinerie
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 145、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-211.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

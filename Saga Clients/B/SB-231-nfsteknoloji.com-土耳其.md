@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-231.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://nfsteknoloji.com/　语言：tr　站点地图 URL 数：985
+- **标题**：NFS Teknoloji / Güvenlik Kamerası / Kamera Sistemleri
+- **描述**：güvenlik kamerası,kamera sistemleri,samsung kamera,güvenlik kamerası seti,güvenlik sistemleri,güvenlik kamera sistemleri,dome kamera,kayıt cihazı,ip kamera,cctv kamera,dvr kayıt cihazı,kamera kayıt cihazı,box kamera,2 mp güvenlik kamerası,3mp güvenlik kamerası,4mp güvenlik kamerası,5 mp güvenlik kam
+- **首页栏目**：TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ! / Sistem Entegratörü Proje Firmaları NFS Teknoloji ile Yol Alıyor... / HANWHA TECHWIN Güvenlik Kameraları / PELCO CCTV Sistemleri / OINONE Entegre IP CCTV Sistem Çözümleri / SURENIX Profesyoneller İçin Network Çözümleri / TDSI Geçiş Kontrol Sistemleri / IDENTIV Kartlı Geçiş Sistemleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 38、poe 35、camera 35、switch 30、cctv 20、gigabit 12、10g 10、sfp 7、ethernet 7、industrial 2、fiber 2
+- **站内出现的品牌**：Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SRX-4GS24PP, ONL-T61IR, OND-T62IR, ONL-T3610, ONL-T3620, OND-T3610, OND-P3610, OND-P3621-MZ, ONL-X3821-MZ, OND-X3821-MZ, ONB-X3801, ONL-P3621
+- **站内公开邮箱**：info@nfsteknoloji.com
+- **社媒**：https://twitter.com/nfsteknoloji/, https://www.facebook.com/nfsteknoloji/, https://www.linkedin.com/company/nfsteknoloji.com
+- **产品类页面**：http://nfsteknoloji.com/products/497/profesyonel-switchler/111/16-port-poe-network-switch.html；http://nfsteknoloji.com/guvenliksistemleri/510/8-port-poe-network-switch.html；http://nfsteknoloji.com/guvenliksistemleri/497/16-port-poe+-network-switch.html；http://nfsteknoloji.com/products/223/profesyonel-switchler/10/sfp-modul.html；http://nfsteknoloji.com/frontend/assets/uploads/products/datasheet/ONR-P3-7104POE.pdf；http://nfsteknoloji.com/products/215/profesyonel-switchler/10/surenix-network-switch.html
+- **已抓子页**：[Biz Kimiz? / NFS Teknoloji / Türkiye Distribütörü](http://nfsteknoloji.com/hakkimizda.html)；[IP Kamera - Güvenlik Sistemleri / NFS Teknoloji](http://nfsteknoloji.com/Oinone/4/ip-cctv/99/ip-kamera.html)；[AHD-TVI Kameralar - Güvenlik Sistemleri / NFS Teknoloji](http://nfsteknoloji.com/Oinone/4/analog-cctv/105/ahd-tvi-kameralar.html)；[PoE+NVR - Güvenlik Sistemleri / NFS Teknoloji](http://nfsteknoloji.com/Hanwha Techwin/112/hanwha-techwin/120/poe+nvr.html)；[Profesyonel Switchler - Güvenlik Sistemleri / NFS Teknoloji](http://nfsteknoloji.com/Oinone/4/profesyonel-switchler/121/profesyonel-switchler.html)；[Oinone](http://nfsteknoloji.com/products/Oinone/4)
+- 首页正文摘录：Gelin Birlikte Büyüyelim Bilginin olduğu yerde bilenler, aklın olduğu yerde düşünenler vardır. İIim iIim biImektir, iIim kendin biImektir, sen kendini biImezsen, bu nice okumaktır. Hayatta en büyük hata, kendini hatasız sanmaktır. Üç şey sürekli kalmaz; ticaretsiz mal, tekrarsız bilgi, cesaretsiz iktidar. Başkasında görüp hoşlanmadığın ayıbın kendinde olduğunu görmemekten büyük ayıp olamaz. Meyvesi çamura düşüyor diy
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 10、交换机 30 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-231.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -85,6 +85,17 @@ updated: 2026-10-21
 - **风险/边界**：语言（土耳其语）；需求未表达；无后续跟进
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）
 - **邮件切入句（英文）**：Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://antalyaturkuaz.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Antalya Turkuaz BiliÅim / Kurumsal Teknoloji ÃÃ¶zÃ¼mleri
+- **首页栏目**：BÃ¶lge DistribÃ¼tÃ¶rlÃ¼kleri / 360Â° Teknoloji Mimarisi / EndÃ¼striyel GÃ¼venlik MÃ¼hendisliÄi / Kurumsal Network AltyapÄ±sÄ± / Erken UyarÄ± & YangÄ±n AlgÄ±lama / Siber GÃ¼venlik & Veri Koruma / GÃ¼venilir Teknoloji OrtaÄÄ±nÄ±z / ReferanslarÄ±mÄ±z
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 1
+- **站内公开邮箱**：ornek@sirket.com, turkuaz@antalyaturkuaz.com
+- **站内公开电话**：+90 242 345 36 91
+- 首页正文摘录：Markalar ÃÃ¶zÃ¼mler Kurumsal Referanslar Ä°letiÅim Bayi GiriÅi Markalar ÃÃ¶zÃ¼mler Kurumsal Referanslar Ä°letiÅim GÃ¼Ã§lÃ¼ Ä°Å Birlikleri BÃ¶lge DistribÃ¼tÃ¶rlÃ¼kleri ÃÃ¶zÃ¼mlerimiz 360Â° Teknoloji Mimarisi Ä°htiyaca Ã¶zel tasarlanmÄ±Å, uÃ§tan uca entegre sistemler. EndÃ¼striyel GÃ¼venlik MÃ¼hendisliÄi SÄ±radan bir kamera kaydÄ±nÄ±n Ã¶tesinde; yapay zeka destekli analiz, yÃ¼z tanÄ±ma, plaka okuma ve termal g
+- 数据文件：`data/saga_clients/site_snapshots/SB-252.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

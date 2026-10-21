@@ -1,4 +1,5 @@
 # futurist.com.pk
+**官方名称（调研核实）**：Futurist (Pvt) Ltd.
 
 > **评级 B**　|　巴基斯坦　|　档案编号 `SB-978`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-978
 rating: B
 rating_auto: B
+name_official: "Futurist (Pvt) Ltd."
 score: 29
 country: 巴基斯坦
 region: 南亚
@@ -19,9 +21,9 @@ replies: 5
 followups: 18
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴基斯坦的经销/集成（类型待核）；兴趣/在卖：光猫
+- **是谁**：伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。（调研 2026-10-21；表内兴趣：光猫）
 - **为什么是 B 级**：+30 实质回复 5 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；-10 最近活动 2019（陈旧）
 - **历史互动**：实质回复 5 次；WhatsApp 已加；推送 18 次（? → ?）；最近一次客户回复：：发了右图 应该是天博通信的
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,50 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-978.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（futurist.com.pk；快照未覆盖）
+- **是谁**：伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。
+- **【名录】公司信息：伊斯兰堡 I-10/4，2011 年，管理人 Aqeel Abbas / Tajamal Ishaq，关联 Yokogawa / OPNET / Furukawa**
+  > Futurist (Pvt) Ltd. 524, Main Double Road, Street 19, I-10/4, Islamabad… Managed By: Mr. Aqeel Abbas Mr. Tajamal Ishaq… Y.O.E: 2011… Affiliations: Yokogawa Electric Corporation OPNET Technologies Co. Ltd. Furukawa Electric Group
+  > 来源：https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd（抓取 2026-10-21）
+- **【名录】经营范围：网络承包、光缆、通信设备批发、CCTV、UPS、测试仪器**
+  > dealing in Computer Networking Contractors, Computer Networks Equipment Dealers & Distributors, Optical Fiber Cables… Telecommunication Equipment & Supplies Wholesale Dealers… CCTv Equipment
+  > 来源：https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd（抓取 2026-10-21）
+- **【海关】进口商：128 票 / 47 家供应商（中国、美国）**
+  > Futurist Pvt Limited Pakistan is an importer with 128 import shipments from 47 suppliers… China, and United States
+  > 来源：https://www.volza.com/company-profile/futurist-pvt-limited-30979764/（抓取 2026-10-21）
+- **【名录】CEO Aqeel Abbas（2011 至今，前 Zong）**
+  > 2011 - now CEO @ FUTURIST (Pvt) Ltd; 2007 - 2011 Manager NPS @ ZonG
+  > 来源：https://rocketreach.co/aqeel-abbas-email_44568110（抓取 2026-10-21）
+- **【用户表】回复链：2 光 8 管理 PoE 出货图→问价；工业电源→「可以搭配工业交换机」；2 光 4 小壳→price；mini 工业机→will check；4/8 口工业 PoE→发来竞品图（疑天博通信）**
+  > 发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Tajamal Ishaq（）tajamal@futurist.com.pk +92 333 519 9946〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Aqeel Abbas（） 〔https://rocketreach.co/aqeel-abbas-email_44568110〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 海关核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Futurist (Pvt) Ltd. |
+| 成立 | 2011 |
+| 总部/地址 | 524 Main Double Road, I-10/4, Islamabad, Pakistan |
+| 其他 | info@futurist.com.pk；座机 +92-51-4446394 |
+
+- **业务线**：网络 / 光纤工程承包；通信与测试设备进口经销（Yokogawa、Furukawa 关联）；CCTV / UPS / 太阳能供应
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| （竞品） | 4/8 口工业 PoE（客户回发图，疑天博通信） | 工业 PoE 交换机 | Saga STI-288GP / STI-144GP 同口型 | （本地 Clients/ 表格，无公开 URL）（2026-10-21） |
+
+- **触达通道（公开）**：role: 进口经销 + 工程承包；region: 巴基斯坦（伊斯兰堡）
+- **近况信号**：
+  - 多轮问价（2 光 8 管理 PoE、2 光 4、mini 工业）
+  - 有在比价的工业 PoE 竞品（天博通信）
+  - 是 Volza 可查的活跃进口商
+- **风险/边界**：比价型客户，目标价偏低概率高；光猫 / ONU 需求 Saga 无（Q-32 外，PON 不做）
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。
+- **邮件切入句（英文）**：Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -97,6 +142,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Tajamal Ishaq | — | tajamal@futurist.com.pk / +92 333 519 9946 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Aqeel Abbas | — | — | 调研核实（公开页） | https://rocketreach.co/aqeel-abbas-email_44568110 |
 | Mr.Tajamal Ishaq | — | tajamal@futurist.com.pk / +923335199946 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -113,18 +160,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -134,7 +180,7 @@ updated: 2026-10-21
 
 - **S**：有 5 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -158,19 +204,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Mr.Tajamal,
+Hi Tajamal,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your （竞品） 4/8 口工业 PoE（客户回发图，疑天博通信） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

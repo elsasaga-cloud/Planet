@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-512.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.3tel.com.sg/　语言：en　站点地图 URL 数：235
+- **标题**：3Tel International Pte Ltd
+- **描述**：3Tel International Private Limited, a company incorporated in the Republic of Singapore, and in operations since 2013. We are committed to provide quality and unparalleled customer service in all aspects of our business We are BCA registered under CR01, CR07, ME04 & ME10 since 2013.
+- **首页栏目**：3Tel International Pte Ltd / Why Choose Us / Featured Products / Contact Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 39、cable 33、poe 31、camera 30、industrial 26、fiber 22、access control 22、nvr 13、telecom 13、wireless 7、cctv 6、surveillance 6
+- **站内型号串**（正则抽取，含非交换机）：DS-K2600, UTP3-SW04-TP60, DS-D5AW, DS-7204HQHI-K1, DS-2CD2421G0-IW, UTP3-GSW0802-TSP120, UTP7208E-POE-A1, UTP7524GE, UOF7201GE, UTP7201ER-POE, UTP101PV-HD12, ISO45000
+- **站内公开邮箱**：sales@3tel.com.sg
+- **社媒**：https://www.facebook.com/3tel.com.sg/
+- **产品类页面**：https://www.3tel.com.sg/industrial-8-channel-poe-switch；https://www.3tel.com.sg/l3-managed-poe-switch；https://www.3tel.com.sg/4-channel-poe-switch-2-uplink-ports；https://www.3tel.com.sg/8-channel-full-gigabit-poe-switch-2-uplink-ports；https://www.3tel.com.sg/utp7201er-poe；https://www.3tel.com.sg/4ch-nvr-c-w-poe
+- **已抓子页**：[POE Switches](https://www.3tel.com.sg/utepo-switches-and-acs/poe-switches)；[UTEPO Switches & ACs](https://www.3tel.com.sg/utepo-switches-and-acs)；[Accessories](https://www.3tel.com.sg/utepo-switches-and-acs/accessories)；[Shop](https://www.3tel.com.sg/products)；[About Us](https://www.3tel.com.sg/about-us)；[Contact Us](https://www.3tel.com.sg/contact-us)
+- 首页正文摘录：3Tel International Pte Ltd Login Register 0 Cart Your shopping cart is empty! About Us Career Blog Contact Us Cabling NETLAN Cable Patch Lead Accessory NIKOMAX Copper Copper Cables Essential Series Patch Panel NIKOMAX Fiber Optical Fiber Patch Cords Tester & Plugs Cable Testers Plugs Security HIK Camera & Recoder NVR TVI Camera Value IP PTZ DE PTZ AE TVI DVR HIK Door Access & Intercom DS-K2600 Series Access Controlle
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 26、PoE 31 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-512.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

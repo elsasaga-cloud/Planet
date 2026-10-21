@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-028GP
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -90,6 +90,17 @@ updated: 2026-10-21
 - **风险/边界**：低价卫星/CCTV 市场极度比价；语言；无后续跟进
 - **Saga 对位结论**：P1 STC-028GP（30% 档）——OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
 - **邮件切入句（英文）**：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.fourline.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：FOURLÄ°NE - UYDU - KAMERA - ALARM
+- **首页栏目**：BAYÄ° GÄ°RÄ°ÅÄ° / Son Eklenen ÃrÃ¼nler / ÃÃ¶zÃ¼m OrtaklarÄ±mÄ±z / botech / hiremco / komsis / yu-ma-tu / Gerekli Linkler
+- **站内型号串**（正则抽取，含非交换机）：FRL2042, FRL2036
+- **站内公开邮箱**：info@fourline.com.tr
+- **已抓子页**：[kamera - FOURLÄ°NE - UYDU - KAMERA - ALARM](https://www.fourline.com.tr/urun-kategori.asp?id=47)；[fourline 10/32 santral kaskatlÄ± - FOURLÄ°NE - UYDU - KAMERA](https://www.fourline.com.tr/urun_detay.asp?id=328)；[Ä°LETÄ°ÅÄ°M BÄ°LGÄ°LERÄ° - FOURLÄ°NE - UYDU - KAMERA - ALAR](https://www.fourline.com.tr/iletisim.asp)；[HAKKIMIZDA - FOURLÄ°NE - UYDU - KAMERA - ALARM](https://www.fourline.com.tr/hakkimizda.asp)
+- 首页正文摘录：info@fourline.com.tr 0(555) 995 5442 BAYÄ° GÄ°RÄ°ÅÄ° BAYÄ°LÄ°K BAÅVURUSU × Bayi GiriÅi Bayi Kodu Åifre GÄ°RÄ°Å YAP Kapat ANASAYFA HAKKIMIZDA BAYÄ°LERÄ°MÄ°Z ÃRÃNLER Ãanak Antenler lnb uydu recever sd uydu recever hd anten kablosu lcd askÄ± aparatlarÄ±.ve cam sehpa Ã§anak anten baglantÄ± elemanlarÄ± uydu anten santralÄ± aksesuarlar kamera Led TV ADAPTÃRLER led ampul REFERANSLAR KAMPANYALAR BÄ°NA ANALÄ°ZÄ° Ä°LE
+- 数据文件：`data/saga_clients/site_snapshots/SB-588.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

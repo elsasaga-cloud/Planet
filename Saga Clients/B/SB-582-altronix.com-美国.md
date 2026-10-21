@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-582.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://altronix.com/　语言：未标　站点地图 URL 数：2471
+- **标题**：Altronix Home
+- **描述**：Altronix Home Page. Product information. Interactive tools.
+- **首页栏目**：Altronix ® ...The Global Leader In Power and Data Transmission Solutions / Security / Access Control / Surveillance / Fire / Featured Products / Altronix Brands / About US / ALTRONIX PROUDLY SUPPORTS:
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 12、access control 8、switch 7、surveillance 5、ethernet 4、fiber 1、camera 1、cable 1、distributor 1
+- **站内型号串**（正则抽取，含非交换机）：EBC48, POE367
+- **站内公开邮箱**：info@altronix.com
+- **站内公开电话**：+1 718 567 8181, +1 718 567 9056, +1-718-567-8181
+- **社媒**：https://altronix.com/, https://altronix.com/altronix_catalogs, https://altronix.com/app_notes, https://altronix.com/categories, https://altronix.com/ebc48_battery_calculator, https://altronix.com/nac_power_extender_battery_calculator
+- **产品类页面**：https://www.altronix.com/categories/poe_switches；https://www.altronix.com/brands/fireswitch；https://www.altronix.com/categories/switches；https://www.altronix.com/categories/eoc_switches；https://www.altronix.com/poe_distance_voltage_calculator；https://www.altronix.com/categories/poe_media_converters
+- 首页正文摘录：Toggle navigation Home Products Featured Products Product Index Search by Brand Search by Category News & Events Calendar of Events Resources / News / Media Application Support Application notes Download Catalog and Brochures EBC48 Battery Calculator NAC Power Extender Battery/Load Calculator NetWay Spectrum Range Calculator System Design Tools Maximal/MaxFit Trove Design with System Surveyor Tango System Design Calc
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 12、监控 6 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-582.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +152,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

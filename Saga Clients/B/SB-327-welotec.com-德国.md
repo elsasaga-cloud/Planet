@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-03 → 2025-10-17）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-327.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://welotec.com/en-us　语言：en　站点地图 URL 数：186
+- **标题**：Substation Computing & Networking Solutions / Welotec
+- **描述**：Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments.
+- **首页栏目**：Language / Location / Cart ( 0 ) / Future-Ready Substations / The Foundation for Digital Substations / Connecting the Modern Distribution Grid / Secure, Connected and Ready for Industry 4.0 / Meet us at Enlit Europe
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 183、switch 57、automation 49、ethernet 40、sfp 12、gigabit 11、poe 10、fiber 5、fibre 5、cable 3、axis 2、scada 1
+- **站内出现的品牌**：Westermo　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEC61850, EG500, RJ-45, RS232, RB-FT3G-MV, F4G-T8G-LV, F24G-T4G-HVHV, EG600, EN50121-4, UES-106, RS-232, IEC60068-2-64
+- **站内公开邮箱**：info@welotec.com
+- **社媒**：https://www.facebook.com/Welotec, https://www.instagram.com/welotec/, https://www.instagram.com/welotec_atwork/, https://www.linkedin.com/company/welotec-gmbh/, https://www.youtube.com/user/welotecgmbh
+- **产品类页面**：https://welotec.com/blogs/knowledge/poe-and-poe-for-industrial-applications；https://welotec.com/blogs/whitepaper/how-to-choose-an-industrial-router；https://welotec.com/blogs/knowledge/how-to-choose-the-right-industrial-router-part3；https://welotec.com/blogs/knowledge/how-to-choose-the-right-industrial-router-part2；https://welotec.com/blogs/knowledge/how-to-choose-the-right-industrial-router-part1；https://welotec.com/blogs/events/edge-computing-advantages-of-industrial-iot-applications
+- **已抓子页**：[Industrial Ethernet Switches – Welotec](https://welotec.com/en-us/collections/industrial-ethernet-switches)；[DIN-Rail Substation Automation Switch / Westermo Lynx – Welo](https://welotec.com/en-us/products/lynx)；[Fanless High-Performance Industrial Computer – Alderamin Mk5](https://welotec.com/en-us/products/alderamin-mk5)；[Enhance Your Productivity with Advanced Edge Computing Solut](https://welotec.com/en-us/pages/productivity)；[19" Managed Substation Automation Switch / Westermo RedFox-5](https://welotec.com/en-us/products/redfox-5728)；[Your Innovation Partner for Energy and Productivity / Welote](https://welotec.com/en-us/pages/about-us)
+- 首页正文摘录：customer.current_location.name: customer.current_company.name: $t(Zum Inhalt springen) Your inquiry list Item number Configuration code Amount Total Contact a company Contact a company Welotec Products Industries Knowledge Company Career Search Search Account Account Wishlist Wishlist United States United States Austria (EUR €) Belgium (EUR €) Bulgaria (EUR €) Croatia (EUR €) Cyprus (EUR €) Czechia (EUR €) Denmark (E
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 189、PoE 10 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-327.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

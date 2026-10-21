@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -89,6 +89,19 @@ updated: 2026-10-21
 - **风险/边界**：需求 HDMI over IP/延长器不在 Saga 产品线；黎巴嫩联系人所在地局势/付款风险；主业与接入交换机关联弱
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型
 - **邮件切入句（英文）**：We do not make HDMI-over-IP extenders, but for the IP side of a playout room our 8-port L2+ switch with IGMP snooping and 2 SFP uplinks is a common pairing — is there a current project where that would help?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：http://bhs-media.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Home
+- **首页栏目**：BHS / ASCEND WITH US / DTH Services / What We Do / Contribution Services / Terrestrial Services / News / Media Management
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 3、fiber 2、cable 1、axis 1
+- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@bhs-media.com
+- **站内公开电话**：+97145515523, +97145515524
+- **已抓子页**：[Products & Solutions](http://bhs-media.com/default.aspx?tabid=111)；[Contact Us](http://bhs-media.com/Contact-Us)
+- 首页正文摘录：Toggle navigation Home About Us Satellite Fleet Contribution DTH Our Services TV Distribution Contribution Managed Broadcast Solutions Media Management & Playout Products & Solutions Contact Us BHS ASCEND WITH US DTH Services DTH Services Fleets What We Do Our Mission We are here to build required infrastructure for broadcasting and telecommunication services and provide people with cost effective, highly efficient s
+- 数据文件：`data/saga_clients/site_snapshots/SB-245.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

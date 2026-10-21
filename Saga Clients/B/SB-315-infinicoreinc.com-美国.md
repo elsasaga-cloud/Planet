@@ -25,7 +25,7 @@ last_contact: 2025-10-17
 p1: STC-424XGGM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +89,21 @@ updated: 2026-10-21
 - **风险/边界**：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低
 - **邮件切入句（英文）**：For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://infinicoreinc.com/　语言：en　站点地图 URL 数：0
+- **标题**：Infinicore Incorporated
+- **描述**：Infinicore builds high-performance network visibility, traffic analytics, and test systems for enterprise and government-grade environments.
+- **首页栏目**：Observe faster. Analyze deeper. Act with confidence. / One platform. Consistent operations across the portfolio. / FlowDirector / Service Node / FlowMagic / Start where you need. Expand as you grow. / Start with any one platform. / Bring the right platforms together.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 23、fiber 18、10g 17、switch 2、access control 2、industrial 1、ethernet 1、telecom 1、cisco 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FD-12K, FSN-32, FSN-400, FSN-3200, QSFP28, AES-256-GCM, SFP28, CRC32C, T40G-SRD, FM-5324, FM-6364, SHA-256
+- **站内公开邮箱**：support@infinicoreinc.com
+- **已抓子页**：[Products / Infinicore Incorporated](https://infinicoreinc.com/products.html)；[01Layer Operating System / Infinicore Incorporated](https://infinicoreinc.com/products/01layer/overview.html)；[FlowMagic / Infinicore Incorporated](https://infinicoreinc.com/products/flowmagic/overview.html)；[Legacy / EOL Models / Infinicore Incorporated](https://infinicoreinc.com/products/legacy-eol/overview.html)；[FlowDirector Network Packet Broker / Infinicore Incorporated](https://infinicoreinc.com/products/flowdirector/overview.html)；[Hardware & VM Product Life Cycle / Infinicore Incorporated](https://infinicoreinc.com/products/lifecycle/hardware-vm.html)
+- 首页正文摘录：OBSERVE. ANALYZE. ACT. Support Login Search www.01layer.com Home Products All Models All Models FlowMagic Overview FlowMagic-2100P FlowMagic-400 FlowMagic-3200 FlowMagic-3240 FlowDirector Overview FD-640v2 FD-3200v2 FD-12K FSN Series Overview FSN-32 FSN-400 FSN-3200 01Layer Platform Product Life Cycle FlowMagic Overview FlowMagic-2100P FlowMagic-400 FlowMagic-3200 FlowMagic-3240 FlowDirector Overview FD-640v2 FD-3200
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-315.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

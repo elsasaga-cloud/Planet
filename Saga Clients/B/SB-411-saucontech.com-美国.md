@@ -24,7 +24,7 @@ last_contact: 2025-10-23
 p1: STI-054GP
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -102,6 +102,20 @@ updated: 2026-10-21
 - **风险/边界**：公共交通客户（巴士运营/市政）→ 按个案守界；美国车载需 FCC + 振动证明；9 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-054GP（30% 档）——OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）
 - **邮件切入句（英文）**：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.saucontds.com/　语言：en-US　站点地图 URL 数：70
+- **标题**：Saucon Technologies
+- **描述**：Saucon's intelligent transportation management platform provides a full suite of cloud-based software, hardware, and analytics tools.
+- **首页栏目**：It’s Time to Switch to Smarter Intelligence / Operational Data in the Palm of your Hands / Smarter Telematics that Powers Performance / Turn Data into Operational Intelligence / Electrification Intelligence with Smarter Fleet Data / THE SAUCON PORTAL HAS GONE MOBILE / Customer Testimonial / Saucon Remote Service Tool (RST) puts your fleet at your finger tips
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 7、switch 2、surveillance 1、oem 1
+- **站内公开邮箱**：support@saucontech.com, tdsinfo@saucontech.com
+- **社媒**：https://twitter.com/SauconIoT, https://www.facebook.com/SauconTech/, https://www.linkedin.com/company/saucon-technologies/
+- **已抓子页**：[About Us - Saucon](https://www.saucontds.com/about-us/)；[Remote Service Tool - Saucon](https://www.saucontds.com/solutions/bus-motorcoach/remote-service-tool/)；[Solutions - Saucon](https://www.saucontds.com/solutions/)；[Bus & Motorcoach - Saucon](https://www.saucontds.com/solutions/bus-motorcoach/)；[Electrification - Saucon](https://www.saucontds.com/solutions/electrification/)；[TPMS - Saucon](https://www.saucontds.com/solutions/bus-motorcoach/tpms/)
+- 首页正文摘录：TECHNOLOGIES Technologies IoT Telematics Electric Revolution Smart Data Delivery Seamless Integration SOLUTIONS Bus and Motorcoach Real-Time Monitoring Safe Driver Electronic Driver Logs Mobile Apps and Data Integration Fleet Maintenance and DVIR Compliance Passenger Wi-Fi Onboard Video and Security Scheduling, Dispatch and Forecasting Saucon Vision AI Touch to Talk Remote Service Tool Tire Pressure Monitoring Remote
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-411.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,7 +22,7 @@ last_contact: 2023-08-07
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；推送 19 次（2021-10-10 → 2023-08-07）；最近一次客户回复：2021-10-10：要100G的
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-395.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://distribolutions.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：Distributed Business Solutions - Home
+- **首页栏目**：Business Solutions / Driving Business Value the Enterprise World / Analytics On BigFast Data Using aReal-Time Stream / Want To Bring Business Solutions / Welcome to Distributed solutions and services with a difference / Take advantage of our focused expertise, and excel in your field / Our Services to Clients / Technology and Resourcing Solutions , HR teams and SME businesses
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 15、switch 10、automation 8、fibre 6、surveillance 6、integrator 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开电话**：+971 4 3886508
+- **社媒**：https://facebook.com/, https://twitter.com/, https://www.linkedin.com/
+- **已抓子页**：[Distributed Business Solutions - ROUTING & SWITCHING SOLUTIO](https://distribolutions.com/routing-switching-solutions/)；[Distributed Business Solutions - NETWORK SECURITY SOLUTIONS](https://distribolutions.com/network-security-solutions/)；[Distributed Business Solutions - NETWORK MANAGEMENT SOLUTION](https://distribolutions.com/network-management-solutions/)；[Distributed Business Solutions - Contact Us](https://distribolutions.com/contact/)；[Distributed Business Solutions - About Us](https://distribolutions.com/about-us/)
+- 首页正文摘录：Navigation Home About Us Solutions Bigdata Solutions Enterprise Cloud Solutions Enterprise Infrastructure Solutions Enterprise Server Solutions Enterprise Storage Solutions Virtualization Solutions Realtime systems Monitoring Solutions Contact Center Unified Communications Database Solutions ORACLE DATABASE SOLUTIONS MYSQL DATABASE EDITIONS MICROSOFT SQL SERVER Enterprise Business Solutions ORACLE ENTERPRISE SOLUTION
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-395.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-09-23
 p1: STC-448XGGM(L3)
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
 - **P1（下一步唯一主推）**：STC-448XGGM(L3) — L3 48 口 + 4×10G（Hohunet/CENTEC 线）；$505.2 USD EXW（30% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-210.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://axilogi.com/　语言：cs　站点地图 URL 数：0
+- **标题**：Axilogi s.r.o.
+- **描述**：Axilogi s.r.o.
+- **首页栏目**：Axilogi s.r.o. / MEAN WELL XDR-120E-24 PrÅ¯myslovÃ½ zdroj na DIN liÅ¡tu, 120W, 24V / WD Ultrastar DC HA340, 3.5", 12TB, SATA / MEAN WELL XDR-480E-48 PrÅ¯myslovÃ½ zdroj na DIN liÅ¡tu, 480W, 48V / Ubiquiti UniFi patch kabel, 0,4m, Cat5e, modrÃ½, 24 pack / Seagate HDD IronWolf Pro, 3.5", 32TB, SATA / MikroTik CLAIRÃ Lite MultifunkÄnÃ­ senzor kvality ovzduÅ¡Ã­, Å¡edÃ¡ / Hikvision D20-AP(White), AdaptÃ©r k drÅ¾Ã¡kÅ¯m DS-1227ZJ
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 44、poe 25、mikrotik 25、odm 19、sfp 5、gigabit 5、distributor 3、tp-link 3、switch 2、10g 1、2.5g 1、ubiquiti 1
+- **站内出现的品牌**：Hikvision, MikroTik, Ubiquiti, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CZ10964703, DS-2CD1047G3-LIU, DS-1276ZJ-SUS, DS-1275ZJ-SUS, GNT-53003, GM-1210, DS-2CD1167G3-LIU, DS-2CD1147G3-LIU, HS-55DLC80D, MTP60-12V50-RS-DC, G1251-0150WNA, CRS812
+- **站内公开邮箱**：david@axilogi.com, hsrc@hikvision.com, sales@axilogi.cz, servis@axilogi.cz, sklad@axilogi.cz
+- **站内公开电话**：+420 371 420 570, +420 371 420 572, +420 371 420 573, +420 601 008 383, +420 601 358 102, +420 733 431 144
+- **社媒**：http://www.twitter.com, http://www.youtube.com, https://www.facebook.com/profile.php?id=100093086772467, https://www.facebook.com/sharer/sharer.php?u=https://axilogi.com/hikvision-ip-bullet-kamera-ds-2cd1047g3-liu-2-8mm-4mpx-2-8mm-colorvu-3-0_d11867.html, https://www.facebook.com/sharer/sharer.php?u=https://axilogi.com/hikvision-ip-dome-kamera-ds-2cd1147g3-liu-2-8mm-6mpx-2-8mm-colorvu-3-0_d11910.html, https://www.instagram.com/axilogi/
+- **已抓子页**：[Axilogi s.r.o.](https://axilogi.com/default.asp?cls=stoitems&stiidlist=11573,11572,11571,11570,11400)；[O nÃ¡s / Axilogi s.r.o.](https://axilogi.com/o-nas_d1500.html)；[Kontakty / Axilogi s.r.o.](https://axilogi.com/kontakty_d1502.html)；[Hikvision IP dome kamera DS-2CD1147G3-LIU(2.8mm), 6Mpx, 2.8m](https://axilogi.com/hikvision-ip-dome-kamera-ds-2cd1147g3-liu-2-8mm-6mpx-2-8mm-colorvu-3-0_d11910.html)；[Hikvision IP bullet kamera DS-2CD1047G3-LIU(2.8mm), 4Mpx, 2.](https://axilogi.com/hikvision-ip-bullet-kamera-ds-2cd1047g3-liu-2-8mm-4mpx-2-8mm-colorvu-3-0_d11867.html)
+- 首页正文摘录：O nÃ¡s Kontakty Doprava Reklamace KariÃ©ra EN CZ USD EUR CZK PÅihlÃ¡Å¡enÃ­ PÅihlÃ¡sit se TrvalÃ© pÅihlÃ¡Å¡enÃ­ Registrace ZapomnÄli jste heslo? Axilogi s.r.o. 0 KoÅ¡Ã­k je prÃ¡zdnÃ½ 0 Seznam produktÅ¯ PorovnÃ¡nÃ­ produktÅ¯ Smazat vÅ¡e Hledat Kategorie VÃ½robci Fotovoltaika BezdrÃ¡ty LAN MikroTik OptickÃ© sÃ­tÄ NapÃ¡jenÃ­ BezpeÄnostnÃ­ systÃ©my RozvadÄÄe DrÅ¾Ã¡ky a stoÅ¾Ã¡ry IoT a SMART NÃ¡ÅadÃ­ a instalaÄnÃ
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 25、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-210.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +164,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

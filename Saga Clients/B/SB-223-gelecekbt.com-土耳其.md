@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-223.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gelecekbt.com/　语言：tr　站点地图 URL 数：0
+- **标题**：GelecekBT Bilgi ve İletişim Teknolojileri
+- **描述**：Ethernet Switch, POE, CCTV Güvenlik, Hdmi Ses ve görüntü, Endüstriyel Seri haberleşme ve otomasyon. Fiber optik, RF koaksiyel ve yapısal kablolama ürünleri.
+- **首页栏目**：GelecekBT / Hesabım / Bilgi / İletişim Bilgileri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 428、fiber 424、sfp 346、poe 328、ethernet 213、10g 134、gigabit 127、media converter 49、2.5g 42、cctv 39、datacenter 21、wireless 16
+- **站内型号串**（正则抽取，含非交换机）：RS232, SFP28, QSFP28, EN50155, QSFP56, MIL-C-17, RS485, CLR-TGS-LR10, CLR-TGS-B20A, CLR-IES-T120N, CLR-SWT-3754F, EKI-2742FPI
+- **站内公开邮箱**：satis@gelecekbt.com
+- **社媒**：https://twitter.com/Gelecekbt, https://wa.me/905522074381, https://www.facebook.com/gelecekbt, https://www.instagram.com/gelecekbt/?hl=tr, https://www.linkedin.com/in/gelecekbt, https://www.youtube.com/@gelecekbt
+- **已抓子页**：[Endüstriyel Omurga Fiber POE Switch](https://gelecekbt.com/anahtarlar/endustriyel-omurga-fiber-poe-switch)；[Endüstriyel POE Switch Tip Dayanıklı 4-8-16-24Port](https://gelecekbt.com/anahtarlar/endustriyel-poe-switch)；[POE Switch - 4Port / 8Port /16Port /24Port](https://gelecekbt.com/anahtarlar/poe-switch)；[POE Switch Yapay Zeka AI Fonksiyonlu](https://gelecekbt.com/anahtarlar/AI-switch)；[PD PoE Switch Modelleri – Güç ve Veri Tek Kabloyla](https://gelecekbt.com/anahtarlar/pd-poe-switch)；[Endüstriyel Ethernet Switch](https://gelecekbt.com/anahtarlar/endustriyel-switch)
+- 首页正文摘录：E-Posta İletişim $ US Dollar Euro € Türk Lirası TL $ US Dollar 0 ürün - $0,00 Alışveriş sepetiniz boş! MENU Anasayfa + Markalar + Çözümlerimiz Ağ Çözümleri ve Entegrasyon Görüntü ve Ses Sistemleri Endüstriyel Haberleşme Çözümleri Endüstri 4.0 Çözümleri CCTV Güvenlik Çözümleri RF Haberleşme Çözümleri BT Kablolama Çözümleri Veri Depolama Çözümleri Sunucu Çözümleri Sanallaştırma Çözümleri BT Güvenlik Çözümleri Teknik Bi
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 328 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-223.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

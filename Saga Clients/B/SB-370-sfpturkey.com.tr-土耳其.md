@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-240GM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -91,6 +91,22 @@ updated: 2026-10-21
 - **风险/边界**：小团队、电商库存采购量小且比价；无后续跟进
 - **Saga 对位结论**：P1 STI-240GM（30% 档）——OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂无对应型号）
 - **邮件切入句（英文）**：Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.sfpturkey.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：SFP Turkey - SFP Çözüm Merkeziniz
+- **描述**：SFPTURKEY
+- **首页栏目**：KAMPANYALI ÜRÜNLER / EKİM 2026 KAMPANYASI-1 / EKİM KAMPANYASI 2026-2 / EKİM 2026 KAMPANYASI-3 / EN ÇOK SATAN ÜRÜNLER / GENERIC Uyumlu Gigabit SFP Modül - 1000Base-LX 1310nm 20Km LR SM LC DDM / GENERIC Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM LC DDM / ARUBA - HP Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM LC DDM
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 178、fiber 121、switch 42、ethernet 39、gigabit 35、10g 23、media converter 19、poe 16、planet 8、mikrotik 8、ubiquiti 8、tp-link 8
+- **站内出现的品牌**：Ubiquiti, Aruba, PLANET, MikroTik, Cisco, Moxa, Netgear, D-Link, Huawei, H3C, Ruijie, EtherWAN　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP28, QSFP28, FORCE10, KAMPANYASI-1, KAMPANYASI-3, RJ-45
+- **站内公开邮箱**：satis@sfpturkey.com.tr
+- **社媒**：https://tr.linkedin.com/company/sfpturkey, https://www.facebook.com/sfpturkiye/, https://www.instagram.com/sfpturkey/, https://www.twitter.com/sfpturkey, https://www.youtube.com/@sfpturkey
+- **已抓子页**：[SFP Turkey - SFP Çözüm Merkeziniz](https://www.sfpturkey.com.tr/products/667671489-network-switch)；[SFP Turkey - SFP Çözüm Merkeziniz](https://www.sfpturkey.com.tr/products/238088196-fiber-ethernet-karti)；[SFP Turkey - SFP Çözüm Merkeziniz](https://www.sfpturkey.com.tr/brands/extreme-networks)；[SFP Turkey - SFP Çözüm Merkeziniz](https://www.sfpturkey.com.tr/products/579233403-fiber-cozumler)；[SFP Turkey - SFP Çözüm Merkeziniz](https://www.sfpturkey.com.tr/products/334649537-transceiver)；[SFP Turkey - SFP Çözüm Merkeziniz](https://www.sfpturkey.com.tr/products/695327895-media-converter)
+- 首页正文摘录：0555 090 87 37 satis@sfpturkey.com.tr USD : 49.6524 TL Bayi Girişi Ara 0 KAMPANYALI ÜRÜNLER Favori Ekle EKİM 2026 KAMPANYASI-1 Talep Et Favori Ekle EKİM KAMPANYASI 2026-2 Talep Et Favori Ekle EKİM 2026 KAMPANYASI-3 Talep Et EN ÇOK SATAN ÜRÜNLER Favori Ekle GENERIC Uyumlu Gigabit SFP Modül - 1000Base-LX 1310nm 20Km LR SM LC DDM Sepete Ekle Favori Ekle GENERIC Uyumlu 10 Gigabit SFP+ Modül - 10GBase-SX SR 850nm 300Mt MM
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 24、交换机 42 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-370.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-05-27 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-591.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.macnica.co.jp/　语言：ja　站点地图 URL 数：10699
+- **标题**：株式会社マクニカ
+- **描述**：デジタルテクノロジーの革新は社会課題を解決する可能性をも秘めています。マクニカは、人と技術と経験をつないで、未来の可能性を信じて挑戦し続け、道先案内人としてお客さまに伴走し、共に新たな未来を切り拓いていきます。
+- **首页栏目**：サイト内検索 / 最新情報 / イベント・セミナー / お客様事例 / 事業 / コラム / 数字で見るマクニカ / 共創活動
+- **社媒**：https://www.linkedin.com/company/macnica/, https://www.youtube.com/@macnicaofficialchannel, https://x.com/macnica_inc
+- **产品类页面**：https://www.macnica.co.jp/business/ai_iot/products/；https://www.macnica.co.jp/business/energy/products/；https://www.macnica.co.jp/business/connectivity/products/；https://www.macnica.co.jp/business/semiconductor/macnica_products/；https://www.macnica.co.jp/business/ai_iot/products/hardware/senspider/；https://www.macnica.co.jp/business/semiconductor/macnica_products/spe/
+- **已抓子页**：[マクニカの今とこれから - 会社情報 - マクニカ](https://www.macnica.co.jp/company/aboutus/)；[Who We Are - マクニカ](https://www.macnica.co.jp/aboutus/)；[お問い合わせ - マクニカ](https://www.macnica.co.jp/contact/)；[Macnica's Voice - マクニカ](https://www.macnica.co.jp/aboutus/voice/)；[ネットワーク事業 - マクニカ](https://www.macnica.co.jp/business/network/)；[共創活動 - マクニカ](https://www.macnica.co.jp/aboutus/co-creation/)
+- 首页正文摘录：サイト内検索 SEARCH HOME マクニカの事業 半導体 ネットワーク セキュリティ スマートマニュファクチャリング スマートシティ/モビリティ AI DX サービスロボット サーキュラーエコノミー ヘルスケア CPSセキュリティ コネクティビティ コンサルティング フード・アグリテック 会社情報 マクニカについて 企業概要 拠点情報 IR情報 CSR情報 最新情報 電子公告 マクニカHDサイトへ グローバルサイトへ Who we are トップ Macnica's Voice テクノロジー セキュリティセンター ARIH BRAIL 共創活動 こだわりの品質 採用情報 総合採用サイト HOME マクニカの事業 半導体 ネットワーク セキュリティ スマートマニュファクチャリング スマートシティ/モビリティ AI DX サービスロボット サーキュラーエコノミー ヘルスケア CPSセキュリティ コネクティビティ コンサルティング
+- 数据文件：`data/saga_clients/site_snapshots/SB-591.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -146,7 +158,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

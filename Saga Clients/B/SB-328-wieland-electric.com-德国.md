@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-04-03 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-328.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.wieland-electric.com/en/　语言：en　站点地图 URL 数：1
+- **标题**：Wieland Electric: Pioneer for electrical connection technology
+- **描述**：Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology ► Discover now!
+- **首页栏目**：Best Choice / All Industries / Building Technology / Lighting Technology / Machine Building / Wind Power / Horticulture / EV Charging
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 28、cable 27、automation 21、distributor 21、switch 1、fibre 1、ethernet 1
+- **站内公开邮箱**：daniela.kapitz@wieland-electric.com, ebusiness@wieland-electric.com, info@wieland-electric.com
+- **站内公开电话**：+49 (951) 9324, +49 951 9324-0
+- **社媒**：http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wieland-electric.com%2Fen%2Fcompany%2Fnews%2Fpublic-relations%2Fnew-product-rst-direct%2F, https://www.linkedin.com/company/wielandelectric, https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.wieland-electric.com%2Fen%2Fcompany%2Fnews%2Fpublic-relations%2Fnew-product-rst-direct%2F, https://www.youtube.com/user/wielandelectric
+- **已抓子页**：[Industrial connectors & heavy-duty plugs / revos / Wieland E](https://www.wieland-electric.com/en/products/connection-technology/industrial-connectors/)；[Lead-Free Products & Compliance / Wieland Electric](https://www.wieland-electric.com/en/company/purchasing-quality/lead-free-products/)；[RST® DIRECT: Direct Connection / Product News / Wieland](https://www.wieland-electric.com/en/company/news/public-relations/new-product-rst-direct/)；[Why Wieland / Your Partner in Electrical Connection Technolo](https://www.wieland-electric.com/en/company/about-us/why-wieland/)；[Company History / Over 100 Years of Wieland Electric](https://www.wieland-electric.com/en/company/about-us/history/)；[Why Wieland / Your Partner in Electrical Connection Technolo](https://www.wieland-electric.com/en/company/about-us/why-wieland/)
+- 首页正文摘录：WEBSITE SETTINGS We use cookies on our website. Some of them are essential, while others help us improve this site and your experience. You can update your settings at any time. Privacy Policy Essential Statistic Marketing Accept All Save your choice Further information can be found in our privacy policy . Element Title EN / International International / English Česko / Čeština Deutschland / Deutsch España / Español 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 33、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-328.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,7 +183,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

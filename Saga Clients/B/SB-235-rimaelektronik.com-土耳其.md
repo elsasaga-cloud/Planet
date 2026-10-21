@@ -22,7 +22,7 @@ last_contact: 2025-10-29
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-235.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.rimaelektronik.com/　语言：tr-tr　站点地图 URL 数：0
+- **标题**：Rima / Kurumsal GÃ¼venlik ve BiliÅim ÃÃ¶zÃ¼mleri
+- **描述**：Ä°Åletmenizin ihtiyaÃ§larÄ±na Ã¶zel entegre biliÅim ve gÃ¼venlik Ã§Ã¶zÃ¼mleri sunar. AI destekli video analiz, IP kamera ve network altyapÄ± hizmetlerimizi keÅfedin.
+- **首页栏目**：KÄ°ÅÄ° ÃRÃN NESNE SAYMA / MILESTONE / IP KAMERA YAZILIMI / ENDÃSTRÄ°YEL AYDINLATMA / KABLOSUZ VÄ°DEO AKTARIMI / IP SES SÄ°STEMLERÄ° / LUXRIOT / PLAKA TANIMA SÄ°STEMLERÄ°
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 140、switch 116、axis 61、cctv 22、nvr 17、ethernet 10、wireless 9、dahua 8、2.5g 7、10g 6、cisco 5、gigabit 4
+- **站内型号串**（正则抽取，含非交换机）：ELEVEN11BOT, Q6411-LE
+- **站内公开邮箱**：bilgi@rimaelektronik.com
+- **站内公开电话**：+90 0212 424 1616, +90 212 424 1616, 0001 0020 5754 6801 8850 21, 0001 0020 5754 6801 8850 22, 0006 2000 5990 0006 2967 29, 0006 2000 5990 0009 0810 53
+- **社媒**：https://twitter.com/rimaelektronik, https://www.linkedin.com/company/rima-elektronik-ve-bilisim, https://www.youtube.com/user/rimaelektronik
+- **已抓子页**：[PoE Switch SeÃ§imi](https://www.rimaelektronik.com/poe-switch-secimi)；[PoE Switch Filtre](https://www.rimaelektronik.com/poe-switch-filtre?view=default&id=2&jalayout=default&itemperrow=5&itempercol=3&default_result_view=grid&show_more=0&fullpage=1&sticky=0&scrolltop=0&autopage=1&direction=vertical)；[Endüstriyel PoE Switch Filtre](https://www.rimaelektronik.com/endustriyel-poe-switch-filtre?view=default&id=3&jalayout=default&itemperrow=5&itempercol=3&default_result_view=grid&show_more=0&fullpage=1&sticky=0&scrolltop=0&autopage=1&direction=vertical)；[KÄ°ÅÄ° ÃRÃN NESNE SAYMA](https://www.rimaelektronik.com/cozumler/kisi-urun-nesne-sayma)；[Ä°letiÅim](https://www.rimaelektronik.com/iletisim)；[Ä°letiÅim](https://www.rimaelektronik.com/iletisim)
+- 首页正文摘录：Rima Kurumsal Referans Yasal UyarÄ± Ä°Å BaÅvuru Gizlilik PolitikasÄ± ÃÃ¶zÃ¼mler GÃ¼venlik Sistemleri ÃrÃ¼nler Ãreticiler PoE Switch SeÃ§imi EndÃ¼striyel PoE Switch Filtre PoE Switch Filtre Terimler YazÄ±lÄ±m MICROSOFT MICROSOFT Kurumsal ÃÃ¶zÃ¼m ve Hizmetleri SanallaÅtÄ±rma VMware SanallaÅtÄ±rma OnbeÅ BaÅlÄ±kta VMware VMware Sanal Sunucu: Ne, NasÄ±l, AvantajlarÄ±, DezavantajlarÄ± GÃ¼venlik YÃ¶netim ve GÃ¶zet
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 13、交换机 116 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-235.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +180,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-25 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-543.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://kbcnetworks.com/　语言：en-gb　站点地图 URL 数：0
+- **标题**：KBC Networks - KBC Networks - Home
+- **描述**：KBC Networks are a global manufacturer of industrial rugged power and transmission solutions.
+- **首页栏目**：KBC Networks / Wireless Ethernet Systems / Mobile Surveillance System / ThruLink™ Hardware VPN / Rugged Industrial Network Switches / eCopper™ IP over Coax & UTP / Power Solutions / Media Converters
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 60、poe 41、fiber 37、wireless 29、ethernet 23、media converter 20、sfp 19、surveillance 16、industrial 13、fibre 4、camera 4、gigabit 2
+- **站内型号串**（正则抽取，含非交换机）：RS485, WES5-KT
+- **站内公开邮箱**：apacsales@kbcnetworks.com, chinasales@kbcnetworks.com, emeasales@kbcnetworks.com, info@kbcnetworks.com, latamsales@kbcnetworks.com, na-sales@kbcnetworks.com
+- **站内公开电话**：+1 888 366 4276, +1 949 503 3470, +44 (0)1553600001, +52 33 3148 3286, +86 25 5882 1656
+- **社媒**：https://www.facebook.com/kbcnetworks, https://www.instagram.com/kbcnetworks/, https://www.linkedin.com/company/kbc-networks, https://www.twitter.com/kbcnetworks, https://www.youtube.com/kbcnetworks
+- **已抓子页**：[KBC Networks - NETWORK SWITCHES](https://kbcnetworks.com/products/column-1/network-switches)；[KBC Networks - NETWORK SWITCHES](https://kbcnetworks.com/products/column-1/network-switches)；[KBC Networks - FIBER SOLUTIONS](https://kbcnetworks.com/products/column-2/fiber-solutions)；[KBC Networks - FIBER SOLUTIONS](https://kbcnetworks.com/products/column-2/fiber-solutions)；[KBC Networks - WIRELESS ETHERNET SYSTEMS](https://kbcnetworks.com/products/column-2/wireless-ethernet-systems)
+- 首页正文摘录：PRODUCTS NETWORK SWITCHES THRULINK HARDWARE VPN ECOPPER SFP MODULES MEDIA CONVERTERS WIRELESS ETHERNET SYSTEMS MOBILE SURVEILLANCE POWER SOLUTIONS FIBER SOLUTIONS KBC NEXUS™ NEW Secure Infrastructure Networking and Management Platform Find out more NEW NEW IP and PoE++ over Coax with up to 90W PoE and over 1km distance Find out more SOLUTIONS REFERENCES CASE STUDIES/APPLICATIONS BROCHURES & INFOSHEETS SUPPORT SATISFA
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 13、PoE 41 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-543.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -165,7 +181,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 3 次（2025-08-21 → 2025-10-27）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-599.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://sheildify.com/　语言：en-US　站点地图 URL 数：334
+- **标题**：Security, Medical & Safety Equipment Store in Dubai, UAE.
+- **描述**：Dubai's trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment. Best brands & prices. Shop Shieldify now!
+- **首页栏目**：Special Offer / SHURE BLX24/PG58 Wireless Vocal System with PG58 Handheld Microphone Capsule / ZKTeco FBL4000 Single Lane Flap Barrier Turnstile / Hoyles DEAFGARD A101 Deafgard Fire Alarm Solution For The Hard Of Hearing / Drive DeVilbiss Compact 525 Oxygen Concentrator 5 Ltr / Resmed AirSense Series 10 CPAP with Humidifier & Mask / ZKTeco BioPro MV30 Face Recognition Reader / Yale Fingerprint Wall Reader for ENTR Door Lock
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 560、camera 509、switch 427、poe 228、fiber 164、access control 95、cctv 94、wifi 87、ethernet 82、industrial 81、gigabit 63、wireless 53
+- **站内出现的品牌**：Hikvision, Ubiquiti, D-Link, Teltonika, Hanwha, TP-Link, Dahua, Huawei, ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, CT100, BLX24, DH-PFS3005-4ET-60, DS-3E0105P-E, RUT955, UL9-12, SP-4001, DIN74, CR123A, ANC6UPGY24-305MT, LBC3484
+- **站内公开邮箱**：sales@sheildify.com
+- **站内公开电话**：+971 58 554 2050, +971-58 554 2050, 00523 220.00, 00528 700.00, 00537 950.00, 00542 990.00
+- **产品类页面**：https://sheildify.com/shop/；https://sheildify.com/product/ms-490-siren-motor-alarm-220v/；https://sheildify.com/product/data-networking-solutions-dubai-uae-218/；https://sheildify.com/product/data-networking-solutions-dubai-uae-217/；https://sheildify.com/product/data-networking-solutions-dubai-uae-216/；https://sheildify.com/product/data-networking-solutions-dubai-uae-215/
+- **已抓子页**：[POE Swiches - Sheildify](https://sheildify.com/product-category/data-networking/switches/poe-swiches/)；[Industrial Switches - Sheildify](https://sheildify.com/product-category/data-networking/switches/industrial-switches/)；[Switches - Sheildify](https://sheildify.com/product-category/data-networking/switches/)；[Managed Switches - Sheildify](https://sheildify.com/product-category/data-networking/switches/managed-switches/)；[Modular Switches - Sheildify](https://sheildify.com/product-category/data-networking/switches/modular-switches/)；[Unmanaged Switches - Sheildify](https://sheildify.com/product-category/data-networking/switches/unmanaged-switches/)
+- 首页正文摘录：Skip to navigation Skip to content Welcome to Sheildify About Blog Track Your Order My Account CCTV Systems IP CCTV Cameras Dome Cameras Bullet Cameras Turret Cameras Wifi Cameras Box Cameras PTZ Cameras PTRZ Cameras Fish Eye Cameras Panoramic Cameras VGA Thermal Cameras Explosion Proof Cameras ANPR Cameras Analog CCTV Cameras Dome Cameras Bullet Cameras Turret Cameras Wifi Cameras Box Cameras PTZ Cameras Accessories
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 86、PoE 228 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-599.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +159,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

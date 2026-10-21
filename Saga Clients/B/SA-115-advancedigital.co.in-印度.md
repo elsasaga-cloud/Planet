@@ -1,5 +1,5 @@
 # advancedigital.co.in
-**官方名称（调研核实）**：Advance Digital（advancedigital.co.in，印度）
+**官方名称（调研核实）**：Advance Digital（advancedigital.co.in，印度；Subodh）
 
 > **评级 B**　|　印度　|　档案编号 `SA-115`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-115
 rating: B
 rating_auto: A
 rating_research: B  # 需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。
-name_official: "Advance Digital（advancedigital.co.in，印度）"
+name_official: "Advance Digital（advancedigital.co.in，印度；Subodh）"
 score: 65
 country: 印度
 region: 南亚
@@ -22,8 +22,8 @@ replies: 3
 followups: 15
 first_contact: 2024-01-29
 last_contact: 2025-06-21
-p1: STC-424DGGPM-280W
-price_tier: 25%
+p1: STI-110GE
+price_tier: 20%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度网络/光通信产品贸易商，WA 在线，3 次回复、15 次跟进；要求报光产品价格。（调研 2026-10-21；表内兴趣：send price of optical product）
+- **是谁**：印度古吉拉特（+91 94260）经销商 Subodh，2024 年起多轮索要光产品价格与资料（2 光 4、电口、mini 工业、10G MC），回复多为「有用 暂时没需求」；域名已成占位页，公司活跃度存疑。（调研 2026-10-21；表内兴趣：send price of optical product）
 - **为什么是 B 级**：**调研后定级 B**（需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。）；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 2 次；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；回复暂无需求 2 次；WhatsApp 已加；推送 15 次（2024-01-29 → 2025-06-21）；最近一次客户回复：2024-09-09：thanks
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -57,17 +57,39 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：印度网络/光通信产品贸易商，WA 在线，3 次回复、15 次跟进；要求报光产品价格。
+- **状态：已调研（2026-10-21）**　网站状态：停放/空站（快照「Welcome to」占位页）
+- **是谁**：印度古吉拉特（+91 94260）经销商 Subodh，2024 年起多轮索要光产品价格与资料（2 光 4、电口、mini 工业、10G MC），回复多为「有用 暂时没需求」；域名已成占位页，公司活跃度存疑。
 - **类型**：贸易商
 - **规模**：待补证
 - **【用户记录】要光产品报价；WA 已加；3 次回复**
   > send price of optical product；94260 60606 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】域名为占位页**
+  > title: Welcome to（parked_or_empty）
+  > 来源：http://advancedigital.co.in/（抓取 2026-10-21）
+- **【用户表】兴趣 send price of optical product；回复 all info and price / ok / 有用暂时没需求 ×2 / thanks**
+  > 兴趣：send price of optical product；回复：all info and price；有用 暂时没需求；thanks
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 94260 60606（WA）〔用户 Clients 表〕
+- **KP**：Subodh（）info@advancedigital.co.in +91 94260 60606〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。
 - 备注：WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | （待核） |
+| 总部/地址 | 印度（古吉拉特号段） |
+| 其他 | 域名占位，可能已停用网站 |
+
+- **业务线**：光纤产品 / 网络设备经销（推断）
+- **触达通道（公开）**：role: 经销商；region: 印度
+- **近况信号**：
+  - 持续接收资料但无需求（2024–2025）
+- **风险/边界**：网站占位 → 活跃度存疑；邮箱可能失效；印度低价竞争
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
+- **邮件切入句（英文）**：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
 
@@ -113,7 +135,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Subodh | — | info@advancedigital.co.in / +9426060606 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Subodh | — | info@advancedigital.co.in / +91 94260 60606 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -129,20 +151,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（贸易商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110GE | 深挖对位：光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。 | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（贸易商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -150,7 +172,7 @@ updated: 2026-10-21
 
 - **S**：有 3 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -179,14 +201,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
 
 ```text
 Hi Subodh,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-02 → 2025-10-31）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-535.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.grandstream.com　语言：en　站点地图 URL 数：130
+- **标题**：Grandstream Networks - Networking & Unified Communications
+- **描述**：Grandstream has been connecting the world since 2002 with unified communications and networking solutions.
+- **首页栏目**：Experience Wi-Fi 7 / UC and Networking / What's New at Grandstream? / Blog Get to Know the GWN7800 Pro Series Pro-AV Features / Case Study Swan Hellenic UC Solution / New Products / New Grandstream HelpDesk Features / Vertical Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 118、switch 106、gigabit 72、wireless 43、sfp 36、ethernet 21、fiber 16、camera 10、10g 7、2.5g 5、cable 4、access control 1
+- **站内出现的品牌**：Grandstream, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GWN7700M, GWN7816, GWN7711, GWN7710R, GWN7806, GWN7721, GWN7302, GWN7700, GWN7800, GWN7062E, GWN7701P, GWN7701PA
+- **社媒**：http://twitter.com/GrandstreamNet, http://www.facebook.com/GrandstreamNetworksInc, http://www.linkedin.com/company/grandstream-networks, http://www.youtube.com/user/GrandstreamNetworks, https://twitter.com/GrandstreamNet
+- **产品类页面**：https://www.grandstream.com/ru/products/networking-solutions/aggregation-network-switches；https://www.grandstream.com/pt-br/products/networking-solutions/layer-2-lite-network-switches；https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7721series；https://www.grandstream.com/fr/products/networking-solutions/network-switches/product/gwn7721-gwn7721p；https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7700-p-pa-series；https://www.grandstream.com/it/products/networking-solutions/network-switches/product/gwn7721-gwn7721p
+- **已抓子页**：[GWN7816(P) / Grandstream Networks](https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7816p)；[GWN7806(P) / Grandstream Networks](https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7806p)；[GWN7710R / Grandstream Networks](https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7710r)；[GWN7711(P) Series / Grandstream Networks](https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7711pseries)；[GWN7700M Series / Grandstream Networks](https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7700m-series)；[GWN7721(P) Series / Grandstream Networks](https://www.grandstream.com/products/networking-solutions/network-switches/product/gwn7721-gwn7721p)
+- 首页正文摘录：menu Networking Networking All Networking Solutions Network Switches Fixed Wireless Bridges Indoor Wi-Fi Access Points Outdoor Wi-Fi Access Points Routers Network Management Product Search Tool Filter, search, and compare products all from this helpful tool. Learn More New Product: GWN7302 A PtP/PtMP bridge that can wirelessly connect two locations up to 5km away Learn More Comprehensive Cloud Management Configure, m
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 12、交换机 106 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-535.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +173,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-02 → 2025-10-31）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-621.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://symanitron.ru/　语言：ru　站点地图 URL 数：0
+- **标题**：Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON
+- **描述**：Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON /> <meta http-equiv=
+- **首页栏目**：Российский производитель промышленного сетевого оборудования / новости компании / Продукция компании / Контрактное производство
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 86、sfp 47、ethernet 8、telecom 4、10g 3
+- **站内型号串**（正则抽取，含非交换机）：IP-30, IEEE802, SWMP-82GC-AT, SWDGP-22-24V, SWDGP-22, SEWM12GP-D-4GSFP-8GP, SEWM12GP-D-4GSFP-8GP-48E-48E, SWMGP-842GSFP, SWMGP-842GSFP-24V, SWDGP-80-24V, SWMGP-84SFP-T, EN50155
+- **站内公开邮箱**：armosystems@armo.ru, ea@eksiton.ru, info.belarus@axoftglobal.com, info@axoftglobal.com, info@cg.ru, info@digitalliance.ru
+- **站内公开电话**：+375 (740) 740-90-31, +7 (342) 257-57-07, +7 (343) 23-724-73, +7 (347) 226-96-36, +7 (383) 222-06-08, +7 (495) 109-39-93
+- **已抓子页**：[Poe-коммутаторы от российского производителя](https://symanitron.ru/catalog/ustrojstva-dlya-energetiki/poe-energy/)；[PoE коммутаторы промышленные от российского производителя](https://symanitron.ru/catalog/kompaktnyie-promyishlennyie-kommutatoryi/poe-kommutatoryi-din/)；[Poe-коммутаторы — оптические коммутаторы 8 портов sfp](https://symanitron.ru/catalog/kompaktnyie-promyishlennyie-kommutatoryi/poe-kommutatoryi-19-inch/)；[Производитель сетевого оборудования — телекоммуникационное о](https://symanitron.ru/catalog/)；[Где купить сетевое и коммутационное оборудование российского](https://symanitron.ru/wherebuy)；[Промышленные коммутаторы, управляемые коммутаторы, компактны](https://symanitron.ru/catalog/energy-lite/)
+- 首页正文摘录：8 (499) 685-17-90 Каталог продукции Компания Продукция Контрактное производство Новости Поддержка Контакты 8 (499) 685-17-90 Промышленные коммутаторы Устройства для энергетики Промышленные коммутаторы ППР Преобразователи сред Коммутаторы агрегации и доступа Беспроводные устройства Коммутаторы ядра Промышленные телекоммуникационные шкафы Аксессуары Программное обеспечение Российский производитель промышленного сетевог
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 86、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-621.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -175,7 +190,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

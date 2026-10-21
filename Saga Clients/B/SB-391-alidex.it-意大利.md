@@ -22,7 +22,7 @@ last_contact: 2025-10-16
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-391.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.alidex.it/　语言：it-it　站点地图 URL 数：0
+- **标题**：ALIDEX / Networking Industriale, Reti IoT, Cybersecurity OT
+- **描述**：ALIDEX - Networking industriale. Switch e Router Industriali, Convertitori Ottici, Connettività Seriale, Network TAP, Infrastruttura di Rete e Sicurezza.
+- **首页栏目**：ALIDEX Soluzioni di Networking Industriale e Cybersecurity OT / NETWORKING INDUSTRIALE / Switch Ethernet Industriale / Router 4G/5G Industriali / CONNETTIVITÀ OTTICA / Media Converter Fibra / Converter Industriali / CYBERSECURITY INDUSTRIALE
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 112、industrial 84、ethernet 71、poe 44、sfp 43、gigabit 23、wireless 8、distributor 7、fiber 3、10g 3、automation 2、media converter 2
+- **站内出现的品牌**：ORing, Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：EN50155, IDS-710HP, IGS-T9062DGP, IGS-3084GP-LA, IGS-3164GP-LA, IT10924650962, RS232, CISPR32, IEC60068-2-27, IEC60068-2-31, IEC60068-2-6, NDR-75
+- **已抓子页**：[Perle IDS-710HP - Switch Managed Ethernet Industrial PoE/PoE](https://www.alidex.it/switch-ethernet-industriali/poe/perle-ids-710hp)；[Switch Ethernet Industriale - Unmanaged, Managed L2/L3, PoE](https://www.alidex.it/switch-ethernet-industriali)；[Switch Ethernet Industriali EN50155 - Normativa Ferroviaria](https://www.alidex.it/switch-ethernet-industriali/en50155)；[IGS-T9062DGP Switch Industriale Managed TSN / Alidex](https://www.alidex.it/switch-ethernet-industriali/managed/oring-igs-t9062dgp)；[IGS-3084GP-LA Managed Gigabit Switch with Fiber / Alidex](https://www.alidex.it/switch-ethernet-industriali/managed/oring-igs-3084gp-la)；[IGS-3164GP-LA Managed Industrial Ethernet Switch / Alidex](https://www.alidex.it/switch-ethernet-industriali/managed/oring-igs-3164gp-la)
+- 首页正文摘录：Toggle navigation Azienda Prodotti Soluzioni Fabbricanti Contatto Cerca Cerca ALIDEX Soluzioni di Networking Industriale e Cybersecurity OT NETWORKING INDUSTRIALE Switch Ethernet Industriale Router 4G/5G Industriali CONNETTIVITÀ OTTICA Media Converter Fibra Converter Industriali CYBERSECURITY INDUSTRIALE Network TAPs Sistemi Sicurezza OT Network TAPs Accesso Sicuro a Reti Dati Console Servers Gestione remota sicura C
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 86、PoE 44 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-391.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,7 +167,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

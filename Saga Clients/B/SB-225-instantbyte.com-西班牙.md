@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STC-448DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 4 次（2025-07-17 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-225.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.instantbyte.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yeal
+- **描述**：Mayorista especializado en soluciones networking: wireless, VoIP, videovigilancia e IoT.
+- **首页栏目**：Accede con tu cuenta / Ofertas Ver todas / Comunicados / Noticias Instant Byte / NETGEAR serie M4350: conectividad de hasta 100G y PoE++ en una sola plataforma / MikroTik LGO-LTE-W: antena compacta para LTE y LoRa® en instalaciones IoT / MikroTik Back to Home: acceso remoto seguro incluso sin IP pública / DAP-E3620: Wi-Fi 7 empresarial a medida del proyecto y del presupuesto
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 202、cable 110、switch 76、ubiquiti 57、sfp 39、gigabit 37、wifi 24、tp-link 20、ftth 15、mikrotik 15、cisco 15、nvr 12
+- **站内出现的品牌**：Huawei, Ubiquiti, MikroTik, Grandstream, TP-Link, Cisco, D-Link, Aruba, Cambium, Netgear, PLANET, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：APOE02, AP361, GE-SX-MM850, AP263, ERZ-POE4805-24W, POE-48-24W-G, APOE02-WM, ARS-NT5, ARS-NT5B7, ARS-N19, AWUS036ACH-C, RTL8188EUS
+- **站内公开邮箱**：comercial@instantbyte.com, soporte@instantbyte.com
+- **社媒**：https://twitter.com/InstantByte, https://www.facebook.com/instantbyte, https://www.instagram.com/instantbyte_esp/, https://www.linkedin.com/company/10945975, https://www.youtube.com/channel/UC_yWaJtmKy9dwFjqV4JT7uA
+- **已抓子页**：[Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking,](https://www.instantbyte.com/redes_switches-c-5001_5101.html)；[Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking,](https://www.instantbyte.com/redes_inyectores-_splitters_extensores-c-5001_5107.html)；[Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking,](https://www.instantbyte.com/contact_us.php)；[Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking,](https://www.instantbyte.com/index.php?manufacturers_id=223)
+- 首页正文摘录：91 084 10 11 Atención comercial: Lunes a jueves de 9:00 a 18:20, y los viernes de 8:00 a 18:20 Instant Blog Estilo vintage Categorías clásicas ES EN PT Mayoristas especializados Soluciones networking. Wireless, VoIP, videovigilancia e IoT Marca Todas las marcas Ubiquiti Grandstream Dahua TP-Link Mikrotik Yealink D-Link Hikvision Tiandy Cambium Gigaset Netgear Huawei Optixtar Huawei Enterprise Huawei eKit Datacom eRiz
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 202 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-225.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

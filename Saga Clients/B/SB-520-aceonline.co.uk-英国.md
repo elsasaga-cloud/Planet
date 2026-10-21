@@ -22,7 +22,7 @@ last_contact: 2025-11-05
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-520.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://aceonline.co.uk/　语言：en-GB　站点地图 URL 数：1972
+- **标题**：ACE Distributors
+- **描述**：We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment, Aerials and Satellites.
+- **首页栏目**：Featured Products / Trade Login / Upcoming Training Events for HD Media Partners / Become an Approved Ajax Installer / Sign Up For Exclusive News & Offers / Get In Touch / About us / Tell us more about your project
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 126、cable 78、dahua 57、poe 49、gigabit 33、tp-link 31、fibre 28、cctv 28、scada 12、automation 7、camera 7、surveillance 7
+- **站内出现的品牌**：Ajax, Dahua, TP-Link, Ubiquiti, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AJX-HUB2, BE3600, EAP723, LTE700, DH-PFS3010-8ET-96-V2, DH-PFS4218-16ET-240-V3, DH-PFS4226-24ET-360-V3, DH-PFS3006-4ET-60-V2, CF-POE16, CF-POE24, CF-POE4, CF-POE8V2
+- **站内公开邮箱**：example@email.com, sales@aceonline.co.uk
+- **社媒**：https://www.facebook.com/aerialsandcableequipment/, https://www.instagram.com/aerials_and_cable_equipment, https://www.linkedin.com/company/aerials-&-cable-equipment-ltd, https://www.twitter.com/@ACELtd1
+- **产品类页面**：https://aceonline.co.uk/clear-flow-4-port-gigabit--2ge-uplink-poe-switch-425-p.asp；https://aceonline.co.uk/tp-link-5-port-gigabit-desktop-switch-with-4-port-poe-6498-p.asp；https://aceonline.co.uk/clear-flow-8-port-gigabit--2ge-uplink-poe-switch-cf-poe8v2-426-p.asp；https://aceonline.co.uk/tp-link-8-port-gigabit-desktoprackmount-switch-with-8-port-poe-6516-p.asp；https://aceonline.co.uk/ajax-wallswitch-jeweller-4368-p.asp；https://aceonline.co.uk/hda-hdmi-switcher-max-4x1-4713-p.asp
+- **已抓子页**：[Dahua PoE Switches](https://aceonline.co.uk/dahua-poe-switches-262-c.asp)；[Network - Switches](https://aceonline.co.uk/network---switches-64-c.asp)；[Shop by Brand](https://aceonline.co.uk/shop-by-brand-134-c.asp)；[Multiswitches](https://aceonline.co.uk/multiswitches-20-c.asp)；[ACE Distributors Ltd About Us](https://aceonline.co.uk/about-us-1-w.asp)；[ACE Distributors Ltd Contact Us](https://aceonline.co.uk/contact-us-2-w.asp)
+- 首页正文摘录：01242 511511 Home Login Contact Aerial & Satellite IRS & Distribution Installation AV & HDMI Networking Security Shop by Brand Aerial & Satellite Aerials Amplifiers Bracketry LTE Filtering Masts Receivers Satellite Dishes Satellite LNB's Satellite Mounting Sky Accessories Splitters & Combiners View All IRS & Distribution Amplifiers & Processors Commercial Earth Bonding Enclosures Fibre Accessories Fibre Cables Fibre 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 17、PoE 49 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-520.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +179,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

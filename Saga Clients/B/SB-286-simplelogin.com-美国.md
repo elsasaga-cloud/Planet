@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -79,6 +79,18 @@ updated: 2026-10-21
 - **风险/边界**：身份不明；美国关税；无后续跟进
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）
 - **邮件切入句（英文）**：On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://simplelogin.io　语言：en　站点地图 URL 数：15
+- **标题**：SimpleLogin / Open source anonymous email service
+- **描述**：With email aliases , you can be anonymous online and protect your inbox against spams and phishing.
+- **首页栏目**：Receive and send emails anonymously / Recommended by / How does Email Alias work? / Create and manage your aliases everywhere / Developer / Company / Resources / Downloads
+- **站内型号串**（正则抽取，含非交换机）：CHE-354
+- **站内公开邮箱**：anything@my-domain.com, anything@your-domain.com, anything@your-subdomain.simplelogin.com, contact@simplelogin.io, contact@your-domain.com, hi@your-domain.com
+- **社媒**：https://twitter.com/SimpleLogin, https://twitter.com/mxschumacher, https://www.linkedin.com/in/nncuong/, https://www.youtube.com/watch?v=JMWfsOVrDkw
+- 首页正文摘录：Community Blog Stories about our journey to build an open-source tool to protect your privacy, what we've learnt and tips to take control of your privacy. Documentation How to get the most from SimpleLogin. GitHub Repo Read, review our code, share ideas. Make sure that SimpleLogin is doing what it says. Forum Discuss about new features, ask questions, share best practices, etc. Comparisons vs Plus Sign (+) Trick vs F
+- 数据文件：`data/saga_clients/site_snapshots/SB-286.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

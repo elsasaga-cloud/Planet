@@ -1,0 +1,62 @@
+{
+ "code": "SB-246",
+ "name_official": "Gorgos Cristian（摩尔多瓦基希讷乌，安防客户；表内名为地址）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "摩尔多瓦基希讷乌安防安装商 Gorgos Cristian（Ion Creanga 66），2013 年起用阿里国际站，需求 50 台 2 光 8 电百兆 PoE，2024-04 问「4+2 百兆/千兆 100 台」价格；gmail 联系，俄语/罗马尼亚语区。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：50 个 2 光 8 电百兆 PoE；2013 年使用国际站；回复：问了 4+2 百兆千兆 100 个的价格",
+   "quote": "兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Gorgos Cristian",
+   "title": "（安防客户）",
+   "email": "indexcristi@gmail.com",
+   "phone": "+373 69 522 876",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "Chișinău, Ion Creangă 66, Moldova",
+  "size": "小型安装商",
+  "other": "阿里国际站老客户（2013）"
+ },
+ "business_lines": [
+  "安防 / CCTV 安装"
+ ],
+ "channels": {
+  "role": "安防安装商（50–100 台级批量）",
+  "region": "摩尔多瓦"
+ },
+ "signals": [
+  "两次给出具体数量（50 台 / 100 台）= 真实项目体量"
+ ],
+ "risks": [
+  "要百兆 PoE 低价机，利润薄",
+  "摩尔多瓦物流 / 付款：T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STC-028GFP",
+  "tier": 25,
+  "why": "百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。"
+ },
+ "email_hook": "Cristian, you priced 100 pcs of a 4+2 PoE unit with us last year — if that site is still open, send the port mix (100M or gigabit downlinks) and I'll quote the 8-port and 4-port versions EXW in one line each."
+}

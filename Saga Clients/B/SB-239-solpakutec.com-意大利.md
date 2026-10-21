@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STI-288DGGPM
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-01-29 → 2025-10-13）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-239.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://solpakutec.com/en/　语言：en-US　站点地图 URL 数：25
+- **标题**：Solpakutec – Solpakutec
+- **描述**：SMART PRODUCTS FOR SMART INDUSTRY SMART PRODUCTS FOR SMART INDUSTRY All our products are extensively tested and checked before they are delivered. With our customised and tailor-made products, you can increase your efficiency and minimise costs due to downtime, as well as optimise processes
+- **首页栏目**：SMART PRODUCTS FOR SMART INDUSTRY / Guarantee of quality / Customised products / Professional service / COMPANY / Hardware-Development / Software-Development / SOLUTIONS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 67、switch 22、10g 4、sfp 2、poe 1
+- **站内型号串**（正则抽取，含非交换机）：IP69K, RS485, RS232, NSM-205GP, NS-205G, FSM-510G-4F, FSM-510G-2F, NSM-316G, SLEM7-107, SLEM10-110, SLM10-110, SLM12-112
+- **站内公开邮箱**：d.prieth@solpakutec.com
+- **站内公开电话**：+39 348 696 08 22
+- **社媒**：https://www.linkedin.com/company/solpakutec/
+- **已抓子页**：[KONTAKT – Solpakutec](https://solpakutec.com/kontakt/)；[SWITCH – Solpakutec](https://solpakutec.com/en/projects/switch-en/)；[STAINLESS STEEL DISPLAY – Solpakutec](https://solpakutec.com/en/projects/stainless-steel-display-en/)；[STAINLESS STEEL PANEL PC – Solpakutec](https://solpakutec.com/en/projects/stainless-steel-panel-pc-en/)；[INDUSTRIAL PANEL PC – Solpakutec](https://solpakutec.com/en/projects/industrial-panel-pc-en/)；[Contact – Solpakutec](https://solpakutec.com/en/contact/)
+- 首页正文摘录：Skip to content START PRODUCTS INDUSTRIAL PC STAINLESS STEEL PANEL PC INDUSTRIAL PANEL PC TABLET PC RUGGED PC INDUSTRIAL DISPLAY STAINLESS STEEL DISPLAY INDUSTRY DISPLAY HDBASET RFID RFID DATA COLLECTION RFID TRANSPONDER ACCESSORIES SWITCH MOUNTS SOFTWARE AUDIT APP ERP INFORMATION TERMS & CONDITIONS LEGAL INFORMATION REPAIR CONDITIONS PRIVACY POLICY LEGAL DISCLOSURE CONTACT START PRODUCTS INDUSTRIAL PC STAINLESS STEE
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 67、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-239.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

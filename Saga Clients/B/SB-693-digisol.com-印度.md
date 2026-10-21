@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-693.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.digisol.com/　语言：en-US　站点地图 URL 数：914
+- **标题**：Digisol – Leading Networking & IT Solutions in India
+- **描述**：Digisol is a leading networking brand offering "Made In India" IT Networking solutions. Explore our innovative network products and technology.
+- **首页栏目**：Home / Digisol: India’s Own IT Networking Choice / products Overview / Industries we serve / our Clients / Resource Centre / Media Center / Customer testimonials
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 101、ftth 43、industrial 38、fiber 37、media converter 28、sfp 16、surveillance 14、wireless 14、poe 7、ethernet 5、gigabit 5、10g 5
+- **站内型号串**（正则抽取，含非交换机）：DG-MC5123S-PTL, DG-IS4628FSE, DG-IS4628HPSE, DG-IS1010GP, DG-IS1006GP, DG-IS1010G, DG-IS1006G, DG-IS1005G, DG-IS1010FP, DG-IS1010F, DG-IS1006F, DG-IS1005F
+- **站内公开邮箱**：helpdesk@digisol.com
+- **社媒**：http://www.youtube.com/c/DIGISOL, https://twitter.com/DIGISOL_SNSL, https://wa.me/919607893444, https://www.facebook.com/DIGISOLINDIA/, https://www.instagram.com/digisol_solutions/, https://www.linkedin.com/company/digisol-systems-ltd
+- **产品类页面**：https://www.digisol.com/digisol-introduces-dg-is1006gp-unmanaged-poe-gigabit-switch-series-to-address-the-heav…；https://www.digisol.com/digisol-launches-dg-gs1528hp-poe-switch/；https://www.digisol.com/digisol-aims-to-empower-smes-launches-gigabit-ethernet-smart-managed-poe-switch/；https://www.digisol.com/introducing-digisols-revolutionary-range-of-multigig-l3-and-l2-poe-and-non-poe-switche…；https://www.digisol.com/introducing-digisols-revolutionary-range-of-multigig-l3-and-l2-poe-and-non-poe-switche…；https://www.digisol.com/it-hub-carries-coverage-on-digisol-24-port-gigabit-ethernet-layer-2-lite-managed-poe-s…
+- **已抓子页**：[Industrial Switches / Industrial Ethernet Switches - DIGISOL](https://www.digisol.com/product-category/switching-solutions/industrial-switches/)；[Switching Solutions / Industrial Switches - DIGISOL](https://www.digisol.com/products/switching-solutions/)；[Transceiver / Fiber Optical Transceiver / SFP Transceiver – ](https://www.digisol.com/product-category/switching-solutions/transceivers/)；[Chassis Switches - DIGISOL](https://www.digisol.com/product-category/switching-solutions/chassis-switches/)；[Media Converter / Single Fiber Media Converter - DIGISOL](https://www.digisol.com/product-category/switching-solutions/media-converters/)；[Multigig Switches / Multi Gig Ethernet Switch - Digisol](https://www.digisol.com/product-category/switching-solutions/multigig-switches/)
+- 首页正文摘录：Company About Us Our Founder Smartlink Holdings Limited Awards & Accolades Certifications Management team Board of Directors Careers Solutions Education Hospitality Real Estate Healthcare Products STRUCTURED CABLING Enterprise ConvergeX Copper Cabling Fiber Cabling Channel SCS Copper Cabling Fiber Cabling FTTH Cabling SWITCHING SOLUTIONS Industrial Switch Multigig Switches Fully Managed Lite/Smart Managed Unmanaged C
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 38、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-693.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

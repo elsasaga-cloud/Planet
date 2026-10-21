@@ -22,7 +22,7 @@ last_contact: 2025-10-02
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-01-30 → 2025-10-02）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-609.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://bydemes.com/　语言：en　站点地图 URL 数：6902
+- **标题**：The leading distributor in security technologies / By Demes Group
+- **描述**：The leading distributor in security technologies. Wholesaler of video surveillance, security cameras, CCTV, alarm systems, intrusion, access control and fire detection.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 33、installer 21、dahua 20、hikvision 13、switch 7、access control 7、wireless 7、cable 7、nvr 6、camera 3、tp-link 2
+- **站内出现的品牌**：Dahua, Hikvision, Paradox, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TPLINK-327, PSM150-AC, TPLINK-326, EAP650GP, AX3000, FOC-972, ACTV-ACD20, IMOU-0042, IPC-S3EP-3V0W-0280B, RAYTEC-94, DAHUA-4262-V1, DHI-ASI6213S-PW-V1
+- **站内公开邮箱**：bydemes@bydemes.com, canarias@bydemes.com, carolina@bydemes.com, chsantamaria@tycoint.com, clientes@bydemes.com, enaccounts@bydemes.com
+- **产品类页面**：https://bydemes.com/es/productos/networking/switching/fuentes-alimentacion/TPLINK-327；https://bydemes.com/es/productos/cctv/nvr-ip/nvrs/HIK-836；https://bydemes.com/es/productos/cctv/camaras-ip/bullet/IMOU-0042；https://bydemes.com/es/productos/cctv/camaras-ip/bullet/DAHUA-5548；https://bydemes.com/es/productos/cctv/camaras-ip/bullet/DAHUA-5571；https://bydemes.com/es/productos/incendio/accesorios/tester/FOC-972
+- **已抓子页**：[El distribuidor lÃ­der en tecnologÃ­as de seguridad / By Dem](https://bydemes.com/es/products/cctv/network-cameras)；[El distribuidor lÃ­der en tecnologÃ­as de seguridad / By Dem](https://bydemes.com/es/products/cctv/network-cameras/bullet/IMOU-0042)；[El distribuidor lÃ­der en tecnologÃ­as de seguridad / By Dem](https://bydemes.com/es/products/networking/switching)；[El distribuidor lÃ­der en tecnologÃ­as de seguridad / By Dem](https://bydemes.com/es/products/networking/switching/power-supplies/TPLINK-327)；[El distribuidor lÃ­der en tecnologÃ­as de seguridad / By Dem](https://bydemes.com/es/products/cctv/network-recorders)；[El distribuidor lÃ­der en tecnologÃ­as de seguridad / By Dem](https://bydemes.com/es/products/cctv/thermal-cameras)
+- 首页正文摘录：Company About us Solutions Top brands Employment News News Newsletters Events Events Calendar Support Download center RMA, DOA and credit notes Akuvox Cloud Installer QUBINO Configurator After Sales Technical Support Contact Commercial network Contact us Support Download center RMA, DOA and credit notes Akuvox Cloud Installer QUBINO Configurator After Sales Technical Support Contact Commercial network Contact us Sear
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 7、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-609.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +170,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

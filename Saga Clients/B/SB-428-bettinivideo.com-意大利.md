@@ -22,7 +22,7 @@ last_contact: 2025-10-16
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：意大利的经销/集成（类型待核）；兴趣/在卖：用的ONV的 直接带标卖的 还有Comnet的；提到的品牌：ONV, Comnet
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-05-10 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 9、监控 271 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-428.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bettinivideo.com/en/　语言：en-GB　站点地图 URL 数：200
+- **标题**：BETTINI / Specializes in providing comprehensive video surveillance solutions.
+- **描述**：Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand.
+- **首页栏目**：We meet all your needs / Our added value / Products for video surveillance designed and manufactured in Italy by Bettini / Over 1000 hours of professional training courses every year
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 194、camera 67、switch 12、surveillance 10、poe 9、ethernet 9、wifi 5、sfp 1、10g 1
+- **站内出现的品牌**：Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MI-1506925, IT15090000009003, TB212EHA52-I, TD361EHA52-I, EVR16W, EV16W, G2404-PSU, SDP110, G1206-PSU, SDP130, TA1000, JB03-I
+- **站内公开邮箱**：info@bettinivideo.com
+- **站内公开电话**：+39 0289651000
+- **社媒**：https://it.linkedin.com/company/bettini-srl
+- **产品类页面**：https://www.bettinivideo.com/attivita/comnet-switch-media-converter/；https://www.bettinivideo.com/catalogo-generale/；https://www.bettinivideo.com/en/general-catalogue/；https://www.bettinivideo.com/en/product-news/new-nvr-gams-eko/；https://www.bettinivideo.com/en/product-news/new-nvr-models-quadro-pxe/；https://www.bettinivideo.com/en/product-news/gams-softwares-and-applications/
+- **已抓子页**：[General catalogue​ / BETTINI](https://www.bettinivideo.com/en/general-catalogue/)；[Networking Archivi / BETTINI](https://www.bettinivideo.com/en/products/networking-systems/)；[IP Cameras Archivi / BETTINI](https://www.bettinivideo.com/en/products/ip-cameras/)；[Video Cameras Archivi / BETTINI](https://www.bettinivideo.com/en/products/video-cameras/)；[LPR Archivi / BETTINI](https://www.bettinivideo.com/en/products/lpr/)；[NVRs Archivi / BETTINI](https://www.bettinivideo.com/en/products/nvrs/)
+- 首页正文摘录：products General catalogue​ Price list​ Videorecording Video Analytics Video Cameras LPR Networking Services TECHNICAL HUB​ Firmware and software download​ Download GAMS firmware and software here​. Go to Download​ Technical support​ Request technical assistance here . ​ Contact the Technical Dept.​ Repair and substitution​ Request repair or substitutions of products here . ​ Contact the Service Dept.​ Faq COMING SOO
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 9、监控 271 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-428.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -125,7 +143,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 9、监控 271 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -170,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

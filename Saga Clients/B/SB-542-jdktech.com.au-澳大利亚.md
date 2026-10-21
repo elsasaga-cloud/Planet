@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 21 次（2024-05-10 → 2025-10-24）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-542.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.jdktech.com.au/　语言：en　站点地图 URL 数：67
+- **标题**：Home / JDK Technologies
+- **描述**：JDK Technologies â Industrial Networking & IoT Solutions for Australia. Industrial gateways, routers, PoE switches, and IoT sensors.
+- **首页栏目**：Connecting Industrial Australia to the Cloud / Featured Products / JIG02 / LG43 / Case Studies / Wireless Duress & Nurse Call System for a Private Hospital / PS-NS-NA Solar NB-IoT Sensors for Ventia Environmental Monitoring Stations / Have a project in mind?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 54、ethernet 32、wireless 14、poe 13、wifi 13、switch 12、camera 9、automation 8、scada 6、integrator 6、cable 4、axis 4
+- **站内型号串**（正则抽取，含非交换机）：RS485, JIG02, RS232, AU915, RS422, SX1302, JIG02-4G, JIG02-5G, SHT31, PT100, PT1000, IR302
+- **站内公开邮箱**：info@jdktech.com.au, jane@company.com.au
+- **产品类页面**：https://www.jdktech.com.au/products/jdk-poe-4p12/；https://www.jdktech.com.au/products/；https://www.jdktech.com.au/products/lg43/；https://www.jdktech.com.au/products/pb01/；https://www.jdktech.com.au/products/ds20l/；https://www.jdktech.com.au/products/ir302/
+- **已抓子页**：[JIG02 Industrial Edge Gateway / JDK Technologies](https://www.jdktech.com.au/products/jig02)；[Products / JDK Technologies](https://www.jdktech.com.au/products)；[LG43 Industrial LoRaWAN Gateway / JDK Technologies](https://www.jdktech.com.au/products/lg43)；[About Us / JDK Technologies](https://www.jdktech.com.au/about)；[Contact Us / JDK Technologies](https://www.jdktech.com.au/contact)；[Services / JDK Technologies](https://www.jdktech.com.au/services)
+- 首页正文摘录：JDK Technologies Products Services Case Studies Resources About Contact Us Industrial Networking & IoT â Australia Connecting Industrial Australia to the Cloud From remote mine sites to urban building automation â JDK Technologies supplies the industrial gateways, routers, and IoT hardware that keeps critical infrastructure online and data flowing. Browse Products View Case Studies Industrial Grade Wide-temp, EMC
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 65、PoE 13 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-542.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

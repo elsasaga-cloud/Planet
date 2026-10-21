@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-25 → 2025-11-04）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-565.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ubf.de/　语言：de　站点地图 URL 数：15
+- **标题**：UBF EDV Handel und Beratung Jürgen Fischer GmbH
+- **描述**：Netzwerk-Zubehör: Ethernet, Industrial Ethernet, PoE, Switch, SFP, NIC, LWL Kabel + Konverter seriell RS232/RS485/RS422 Feldbus, digital 24V, analog V/mA
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 281、ethernet 254、gigabit 193、sfp 170、switch 92、industrial 90、10g 43、fiber 14、fibre 3
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, EN60945, EN50155, RS-232, EIA-232, RS232, EIA-485, RS-485, EIA-422, RS-422, IEEE802, RJ-45R
+- **站内公开邮箱**：sales@ubf.de, vertrieb@ubf.de
+- **站内公开电话**：+49 (0)2305 9634 0, +49 (0)2305 9634 17
+- **产品类页面**：https://www.ubf.de/industrial-ethernet.htm；https://www.ubf.de/poe-power-over-ethernet.html
+- **已抓子页**：[Übersicht Industrial Ethernet Medienkonverter, Switches, PoE](https://ubf.de/shop/industrie-ethernet.shtml)；[PoE Power over Ethernet Injektor, Switch, Splitter](https://ubf.de/shop/poe-power-over-ethernet-shop.shtml)；[Ethernet Switches für die Montage im 19" Verteiler Schrank](https://ubf.de/shop/19-inch-ethernet-switch.shtml)；[Ethernet Netzwerk Adapter NIC](https://ubf.de/shop/ethernet-adapter-nic.shtml)；[Optische Überbrückung protokolltransparent -40°C..+70°C](https://ubf.de/shop/a09591093.htm)；[Übersicht Medienkonverter / Bridge / Stromkabel für USB Ansc](https://ubf.de/shop/usb-lwl-fiber-bridge.shtml)
+- 首页正文摘录：UBF EDV Handel und Beratung Jürgen Fischer GmbH Römerstr. 37 44579 Castrop-Rauxel DIN EN ISO 9001:2015 Tel: +49 (0)2305 9634 0 Fax: +49 (0)2305 9634 17 vertrieb@ubf.de Impressum Datenschutzerklärung Standort: Homepage Suchen Sie in unserem Angebot! o Netzwerk o Lichtwellentechnologie o industrielle Datenkommunikation News Index +++ Pressemeldung +++ press release +++ 27.05.2026 129650052 Industrial Gigabit Ethernet P
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 90、PoE 281 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-565.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

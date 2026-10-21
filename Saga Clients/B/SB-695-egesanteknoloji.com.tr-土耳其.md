@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 55、监控 46 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-695.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.egesanteknoloji.com.tr/　语言：tr　站点地图 URL 数：15
+- **标题**：Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 110、poe 55、switch 51、nvr 29、gigabit 22、wifi 20、cctv 14、sfp 12、fiber 7、ethernet 7、camera 3、cable 2
+- **站内出现的品牌**：Hikvision, Ruijie, Extreme, Huawei, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RG-ES08G-L, CR2032, CXS-4P2U, RG-ES05F, DS-PWA64, PG-H1108PFD, PG-H1108PGL, PG-H1108PLS, RG-ES118FGS-LP, RG-ES209GC-P, DS-3E1526P-SI, DS-3E0518P-E
+- **站内公开邮箱**：isim2@domain...vb, isim@domain.com, sim@adres.com, sim@adres.net
+- **站内公开电话**：00361056-12, 00361056-12) (0
+- **社媒**：https://wa.me/905421823236
+- **产品类页面**：https://www.egesanteknoloji.com.tr/xml/sitemap_product_2.xml?sr=6a5ef4367cf7e；https://www.egesanteknoloji.com.tr/xml/sitemap_product_3.xml?sr=6a5ef4367cfb2；https://www.egesanteknoloji.com.tr/xml/sitemap_product_4.xml?sr=6a5ef4367cfbb；https://www.egesanteknoloji.com.tr/xml/sitemap_product_1.xml?sr=6a5ef4367d00d
+- **已抓子页**：[TÜKENDİ](https://www.egesanteknoloji.com.tr/urun/coremax-cxs-4p2u-4port-poe-switch)；[PoE Switch](https://www.egesanteknoloji.com.tr/kategori/poe-switch)；[YENİ](https://www.egesanteknoloji.com.tr/urun/energizer-industrial-alk-aa-dp-10-12-7638900361056-12)；[YENİ](https://www.egesanteknoloji.com.tr/urun/reyee-rg-es08g-l-8-portlu-10-100-1000-gigabit-tek-calisir-switch-plastik-kasa)；[Solar ve Wifi Ürünler](https://www.egesanteknoloji.com.tr/kategori/solar-ve-wifi-urunler)；[](https://www.egesanteknoloji.com.tr/urun/coremax-50500-300m-2-1-0-50mm-cctv-kablosu)
+- 首页正文摘录：0 (252) 382 32 36 0 542 182 32 36 HD Kameralar DVR Cihazlar IP Kameralar NVR Cihazlar Seslendirme Alarm Network Uydu Kablolar Kategoriler Hoş Geldiniz Hızlı ve güvenli alışverişe giriş yapın! Beni Hatırla Şifremi Unuttum Giriş Yap Henüz Üye Değil Misiniz? Kolayca üye olabilirsiniz! Hemen Üye Ol Tüm Kategoriler HD Kameralar Hikvision HD Kameralar Coremax HD Kameralar DVR Cihazlar Hikvision HD DVR Coremax HD DVR IP Kam
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 55、监控 46 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-695.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -96,7 +112,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 55、监控 46 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,7 +158,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

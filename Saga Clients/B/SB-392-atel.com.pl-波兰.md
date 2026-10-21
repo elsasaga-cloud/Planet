@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-392.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.atel.com.pl/　语言：pl　站点地图 URL 数：3194
+- **标题**：Atel Electronics - Import i dystrybucja
+- **描述**：Importem i dystrybucja pasywnych oraz aktywnych elementów sieci teleinformatycznych, przyrządów pomiarowych, narzędzi instalacyjnych , akcesoriów audio-video, urządzeń do komunikacji bezprzewodowej, do komunikacji przemysłowej oraz szeroki asortyment komponentów używanych w technice światłowodowej
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 713、sfp 518、poe 462、tp-link 413、10g 150、gigabit 118、ethernet 113、ubiquiti 90、industrial 31、2.5g 17、mikrotik 7、wifi 5
+- **站内出现的品牌**：TP-Link, ORing　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, SFP28, AX3000, EN50155, AC1200, ECS4650-54P, IDGPS-C1042GP, WO-IS-2GF4GC, RJ-11, AX1800, BE3600, RGPS-R9244GP
+- **站内公开邮箱**：cust@atel.com.pl
+- **产品类页面**：https://www.atel.com.pl/wave_industrial.htm；https://www.atel.com.pl/katalogi.php；https://www.atel.com.pl/pdf/katalogi/Narzedzia.pdf；https://www.atel.com.pl/pdf/katalogi/Przyrzady_pomiarowe.pdf；https://www.atel.com.pl/pdf/katalogi/Akcesoria_audio-video.pdf；https://www.atel.com.pl/pdf/katalogi/Akcesoria_komputerowe.pdf
+- **已抓子页**：[Edge-corE ECS4650-54P, Switch zarządzalny, 48x 10/100/1000 R](https://www.atel.com.pl/produkt.php?hash=09787)；[Switche](https://www.atel.com.pl/Switche-Przelaczniki_sieciowe)；[PoE](https://www.atel.com.pl/tagi.php?tag=PoE)；[WAVE INDUSTRIAL - Przemysłowe transceivery SFP, urządzenia M](https://www.atel.com.pl/wave_industrial.htm)；[Switche przemysłowe](https://www.atel.com.pl/Switche_przemyslowe)；[Komunikacja Przemysłowa, Sieci Przemysłowe - Switche przemys](https://www.atel.com.pl/komunikacja_przemyslowa.htm)
+- 首页正文摘录：Ta strona wykorzystuje pliki cookies w celu świadczenia usług, dostosowania serwisu do preferencji użytkowników oraz w celach statystycznych i reklamowych. Nasi partnerzy zbierają dane i używają plików cookie do personalizacji reklam i mierzenia ich skuteczności. Kontynuując, przyjmujemy Twoją zgodę na wdrażanie plików cookies i ich zapisane w pamięci urządzenia zgodnie z naszą polityką prywatności . OK, Zamknij MENU
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 31、PoE 462 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-392.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

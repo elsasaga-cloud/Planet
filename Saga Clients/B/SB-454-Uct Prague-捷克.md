@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-454.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.vscht.cz/　语言：未标　站点地图 URL 数：2621
+- **标题**：Úvodní stránka - Vysoká škola chemicko-technologická
+- **首页栏目**：VŠCHT na veletrzích / 14 vědců a vědkyň z VŠCHT zařazeno mezi 2 % nejcitovanějších vědců / Nobelova cena za ekonomii 2026 / VŠCHT uspěla v iniciativě EIT již podruhé / SpheroSeg – pokročilá analýza nádorových sféroidů pomocí hlubokého učení / Kalendář / Proč studovat na VŠCHT Praha? / Fakulty
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 18
+- **站内型号串**（正则抽取，含非交换机）：CZ60461373, MPEG-4, MPEG-1
+- **站内公开邮箱**：dana.douderova@vscht.cz, eodatelna@vscht.cz, epodatelna@vscht.cz, faktury@vscht.cz, filip.kaftan@vscht.cz, henrietta.ottova@vscht.cz
+- **站内公开电话**：+420 220 442 630, +420 220 443 821, +420 220 444 356, +420 220 444 508, +420 220 445 204, +420 604 368 419
+- **社媒**：https://www.facebook.com/vscht, https://www.instagram.com/vschtpraha, https://www.linkedin.com/school/vysok%C3%A1-%C5%A1kola-chemicko-technologick%C3%A1-v-praze/, https://www.youtube.com/user/VSCHTPraha, https://x.com/vscht
+- **产品类页面**：https://www.vscht.cz/popularizace/setkej-se-s-vscht-praha/crp/letni_workshop_clone_25017；https://www.vscht.cz/popularizace/media/tiskove-zpravy/co-creation-workshop-projektu-cross；https://www.vscht.cz/popularizace/setkej-se-s-vscht-praha/crp/workshop_veda_hrou_clone_75637；https://www.vscht.cz/popularizace/setkej-se-s-vscht-praha/crp/workshop-k-chemquestu_clone_29776；https://www.vscht.cz/pivovar/exkurze-seminare-a-prodej-piva；https://www.vscht.cz/studium/studuji/prodluzovani-studia-a-poplatky
+- **已抓子页**：[Kontakt - Vysoká škola chemicko-technologická](https://www.vscht.cz/kontakt)；[Podatelna - Vysoká škola chemicko-technologická](https://www.vscht.cz/kontakt/podatelna)；[Mapa kampusu a jak se k nám dostat - Vysoká škola chemicko-t](https://www.vscht.cz/kontakt/mapa-kampusu)；[Vysoká škola chemicko-technologická](https://www.vscht.cz/studium/studuji/dekanaty-a-kontakty)；[Kontakty - Transfer technologií - Vysoká škola chemicko-tech](https://www.vscht.cz/veda-a-vyzkum/transfer-technologii/kontakty)；[Workshop mikroskopie - Vysoká škola chemicko-technologická](https://www.vscht.cz/hmch/dny-mikroskopie)
+- 首页正文摘录：Proč už nepodporujeme prohlížeč Internet Explorer Prohlížeč Internet Explorer již nepodporujeme a také důrazně nedoporučujeme, protože dlouhodobě funguje bez zásadních aktualizací, vylepšení a podpory. Obsahuje řadu závažných bezpečnostních rizik, které mohou způsobit únik citlivých informací a vašich osobních dat. Nehledě k tomu, že prohlížení a práce s webovými stránkami je v něm pomalejší až o 50 % v porovnání s o
+- 数据文件：`data/saga_clients/site_snapshots/SB-454.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

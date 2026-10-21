@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 13 次（2024-05-09 → 2025-10-15）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-523.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.armadi-rack.it/　语言：it　站点地图 URL 数：2908
+- **标题**：Armadi Rack
+- **描述**：Armadi Rack 19" e accessori, subrack porta moduli, contenitori per elettronica e meccatronica, fatti in Italia. Ampia scelta, produzione e vendita online.
+- **首页栏目**：Armadi e Contenitori Rack 19" / Telai Rack 19" / Subrack, Subunits, Pannelli Frontali / Armadi elettrici, Quadri di comando, Cassette, Consolle, Pulpiti e Leggii / Custodie e contenitori per elettronica / Parti ed accessori per armadi e quadri elettrici
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 31、switch 26、cable 15、sfp 10、industrial 8、camera 6、poe 5、media converter 5、ftth 5、data center 2、tp-link 2、telecom 1
+- **站内型号串**（正则抽取，含非交换机）：MDWCSAN17, MDWCSAN19, MDWCSAN20, TLWN725N, LP9196, LP9342, LP9197, TLWN823N, DN70101, TLWN822N, DN70100, DN70105
+- **站内公开邮箱**：info@armadi-rack.it
+- **站内公开电话**：+39 051.592119, +39 328.3333111
+- **产品类页面**：https://www.armadi-rack.it/294-switch-poe/；https://www.armadi-rack.it/294-switch-poe/?p=2；https://www.armadi-rack.it/288-hub-switch-industriali/；https://www.armadi-rack.it/288-hub-switch-industriali/?p=2；https://www.armadi-rack.it/290-kvm-switch/；https://www.armadi-rack.it/286-switch-10100/
+- **已抓子页**：[Networking: catalogo e vendita online](https://www.armadi-rack.it/278-networking/)；[Networking Wireless - pag. 1 di 3](https://www.armadi-rack.it/300-networking-wireless/)
+- 首页正文摘录：Accedi Carrello Wish List chiamaci 051.592119 orario ufficio 9.00 - 18.00 Accedi Registrati Rack 19'' Armadi rack 19 pollici Telai rack 19 pollici Contenitori rack Componenti Universal Rack Componenti Power Rack Componenti rack Digitus Accessori rack Lavorazioni speciali Subrack Telai subracks Subunits Pannelli frontali Subracks Platino Subracks Gold Subracks Silver Accessori comuni subracks Subracks con barra din Co
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 8、PoE 5 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-523.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +183,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

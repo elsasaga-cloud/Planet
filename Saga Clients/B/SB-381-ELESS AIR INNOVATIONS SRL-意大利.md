@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-381.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.eless.it/　语言：it-IT　站点地图 URL 数：12
+- **标题**：Eless - Eless Group
+- **描述**：Mettiamo a servizio di aziende, pubblica amministrazione e privati le migliori soluzioni tecnologiche per l’efficientamento energetico.
+- **首页栏目**：ELESS è stata intervistata alle Iene su Italia 1: / Efficientamento energetico, sanificazione dell'aria / ELESS / Termosifoni caldi anche con la caldaia spenta / CHI SIAMO / TECNOLOGIA PER UN FUTURO GREEN E SANO / LE 3 DIVISIONI TECNOLOGICHE ELESS / CALOR, TECH, AIR INNOVATION
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 2
+- **站内型号串**（正则抽取，含非交换机）：IT12099721008, IT15925771006
+- **站内公开邮箱**：info@eless.it
+- **站内公开电话**：+39 06.4554.2161
+- **社媒**：https://www.facebook.com/ELess.ilgiustocalore, https://www.geofelix.com/, https://www.linkedin.com/company/eless-international-s-r-l, https://www.youtube.com/channel/UCslN4M1ymb29i4i9hh0XBaw
+- 首页正文摘录：Vai al contenuto 800 976 518 info@eless.it Facebook Linkedin Youtube Eless Divisioni Eless STG Eless Calor Business Eless Calor Domestico Eless Tech Eless Air Innovation Eless Impianti Sanificazione naturale Efficientamento pompe piscine Chi siamo Contatti Eless Divisioni Eless STG Eless Calor Business Eless Calor Domestico Eless Tech Eless Air Innovation Eless Impianti Sanificazione naturale Efficientamento pompe pi
+- 数据文件：`data/saga_clients/site_snapshots/SB-381.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +153,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

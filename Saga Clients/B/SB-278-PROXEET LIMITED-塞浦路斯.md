@@ -24,7 +24,7 @@ last_contact: unknown
 p1: none
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -97,6 +97,17 @@ updated: 2026-10-21
 - **风险/边界**：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
 - **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选
 - **邮件切入句（英文）**：Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://proxeet.com/products/injector/　语言：en　站点地图 URL 数：0
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 15、cable 2
+- **站内公开邮箱**：info@proxeet.com
+- **站内公开电话**：+35725100999
+- **社媒**：https://t.me/proxeetcy, https://twitter.com/Proxeet_Cy, https://www.facebook.com/proxeet/, https://www.instagram.com/proxeet/, https://www.linkedin.com/company/proxeet/, https://www.youtube.com/@Proxeet
+- 首页正文摘录：About Us Products Contact us How it works Get in touch Power Forward with PRO X EET Introducing innovative PoE Injectors Learn More Power Forward with PRO X EET Introducing innovative PoE Injectors Learn More COMBO PoE Injector by PROXEET is perfect It is an innovative HiTech solution built to last long Order now on AMAZON Portable Powered by common power tool batteries (DeWalt, Milwaukee, etc.) Universal Suitable fo
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 15、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-278.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

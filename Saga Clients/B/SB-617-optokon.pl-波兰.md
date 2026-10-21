@@ -22,7 +22,7 @@ last_contact: 2025-10-21
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 5
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-03 → 2025-10-21）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,6 +71,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-617.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.optokon.pl/　语言：pl　站点地图 URL 数：258
+- **标题**：Optokon Zakład Światłowodowy - światłowody, kable światłowodowe i akcesoria.
+- **描述**：W naszej ofercie znajdą Państwo wszystko do światłowodów: kable światłowodowe, złącza, patchcordy, adaptery, tłumiki, sprzęgacze, przełącznice, mierniki, reflektometry i wiele innych niezbędnych akcesoriów.
+- **首页栏目**：Urządzenia i sprzęt militarny / Kable światłowodowe / Sprzęt pomiarowy / Popularne produkty / LS-800 - Źródło światła... / Transceiver SFP - 4,25 Gb/s / Kabel Typu DROP 4F do FTTx / Wewnętrzny kabel breakout 36F
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 40、fiber 9、ftth 9、cisco 3、poe 2、sfp 2、ethernet 2、integrator 1
+- **站内出现的品牌**：Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：LMSW-E1, OFT-920, LS-800, PM-800-G, LMSW-E33, LMSW-83M, LMSW-80MD, LMSW-E2U, BBD-500NR, BBD-1000, MOT-940, LS-240-MTP
+- **站内公开邮箱**：biuro@optokon.pl, nbiuro@optokon.pl
+- **站内公开电话**：+48 600 490 494
+- **产品类页面**：https://www.optokon.pl/28-switche；https://www.optokon.pl/69-wzmocnione-switche；https://www.optokon.pl/urzadzenia/40-switch-lmsw-83m.html；https://www.optokon.pl/urzadzenia/46-switch-lmsw-e33.html；https://www.optokon.pl/urzadzenia/165-switch-lmsw-8md.html；https://www.optokon.pl/urzadzenia/166-switch-lmsw-e2u.html
+- **已抓子页**：[O nas](https://www.optokon.pl/9-o-nas)；[Switche przemysłowe – Niezawodne sieci od Optokon](https://www.optokon.pl/28-switche)；[Wzmocnione switche światłowodowe, optyczne - Optokon Zakład ](https://www.optokon.pl/69-wzmocnione-switche)；[Produkty](https://www.optokon.pl/3-produkty-)；[Strona główna](https://www.optokon.pl/2-strona-glowna)；[Kontakt](https://www.optokon.pl/10-kontakt)
+- 首页正文摘录：Zadzwoń do nas: 600490494   Szukaj Menu Produkty Elementy pasywne Złącza optyczne Patchcordy Adaptery Tłumiki Sprzęgacze i Multipleksery (WDM, CWDM, DWDM) Systemy zarządzania włóknami Przełącznice ODF Przełącznice zewnętrzne ODF Akcesoria Szafy rackowe Gniazda abonenckie Urządzenia aktywne Transceivery Sprzęt GPON Switche Wi-Fi Sprzęt instalacyjny i pomiarowy Reflektometry optyczne Mini OTDR Mikroskopy i lokalizato
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-617.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -186,7 +203,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

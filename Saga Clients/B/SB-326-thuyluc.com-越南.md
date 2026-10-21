@@ -22,7 +22,7 @@ last_contact: 2025-01-07
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 12 次（2024-02-27 → 2025-01-07）；最近一次客户回复：2024-06-20：Email发了2光6小壳信息
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-326.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.thuyluc.com/　语言：vi　站点地图 URL 数：275
+- **标题**：Công ty Cổ Phần MTS
+- **描述**：Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực, Động cơ thủy lực, Lọc dầu, Tủ điện, Tủ điều tốc, Tủ hạ thế... / Địa chỉ: Số 166, Đường Tựu Liệt, xã Thanh Liệt, Hà Nội /
+- **首页栏目**：Công ty Cổ Phần MTS / Danh mục / XILANH THỦY LỰC / Cảm biến dây kéo áp suất cao SX200 cho xilanh thủy lực / Cảm biến dây kéo áp suất cao SX300 cho xilanh thủy lực / Bạc đồng cho xilanh, cửa van cơ khí thủy công, dẫn hướng / Bạc đồng cho cơ khí thủy công, cửa van, xilanh thủy lực, van bướm / Bạc đồng dùng cho ổ trục, máy móc, xilanh
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：scada 11、automation 1
+- **站内型号串**（正则抽取，含非交换机）：SX200, SX300, DN2600, SGH10, SGH25, SGH50, RMC75E-MA1, EXP70-AP2, DN1600, PN6-PN25, DN250, STF14H
+- **站内公开邮箱**：chuyengiathuykhi@gmail.com
+- 首页正文摘录：Hỗ trợ: 0912336758 Danh mục sản phẩm Ống mềm thủy lực Ống mềm và ống cứng Đầu nối và ống Xilanh thủy lực Trạm nguồn thủy lực Van thủy lực Tủ điện Động cơ thủy lực Thiết bị điện - cảm biến Van công nghiệp Bộ lọc nước cho nhà máy thủy điện Tời điện và thủy lực Thiết bị thủy lực Động cơ điện Menu XILANH THỦY LỰC THIẾT BỊ ĐIỆN-SCADA VAN CÔNG NGHIỆP ĐỘNG CƠ ĐIỆN MOTIVE THIẾT BỊ THỦY LỰC TỜI THỦY LỰC Tài khoản Đăng nhập & 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-326.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

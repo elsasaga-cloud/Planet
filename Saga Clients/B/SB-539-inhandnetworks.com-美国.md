@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 20 次（2024-05-02 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-539.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.inhand.com/　语言：en-US　站点地图 URL 数：1407
+- **标题**：InHand Networks - Accelerate Digital Transformation
+- **描述**：InHand provides cellular and industrial routers, IoT gateways, AI edge computers, Ethernet switches, and cloud services for digital transformation worldwide.
+- **首页栏目**：Business Networking / Business Branches / Hybrid Workplace / Instant Connectivity / Industrial IoT / Digital Factory / Preventive Maintenance / Digitalization of Utilities
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 239、industrial 237、poe 148、ethernet 127、sfp 38、gigabit 22、wireless 21、scada 14、camera 5、automation 4、cable 3、fiber 2
+- **站内型号串**（正则抽取，含非交换机）：EC312, CR602, VG814, ISM5310D, ISE5310D, ISM7312D, ISM5010D, ISE5306D, ISM5006D, ISM5026U, ISM7012D, IR624
+- **站内公开电话**：+1(703)348-2988
+- **产品类页面**：https://www.inhand.com/en/support/blogs/industrial-router-vs-home-router；https://www.inhand.com/de/support/blogs/industrial-router-vs-home-router/；https://www.inhand.com/ar/support/blogs/industrial-router-vs-home-router/；https://www.inhand.com/ja/support/blogs/industrial-router-vs-home-router/；https://www.inhand.com/es/support/blogs/industrial-router-vs-home-router/；https://www.inhand.com/tr/support/blogs/industrial-router-vs-home-router/
+- **已抓子页**：[ISE5306D Industrial PoE Switch Features and Specifications](https://www.inhand.com/en/products/poe-industrial-ethernet-switches/ise5306d/)；[ISE5310D Industrial PoE Switch: 8-Port Gigabit with SFP](https://www.inhand.com/en/products/poe-industrial-ethernet-switches/ise5310d/)；[ISM5310D Industrial PoE Switch: Managed Layer 2 with 8 Ports](https://www.inhand.com/en/products/poe-industrial-ethernet-switches/ism5310d/)；[ISM7312D Industrial PoE Switch: 8 Ports, 4 SFP Slots](https://www.inhand.com/en/products/poe-industrial-ethernet-switches/ism7312d/)；[ISM5006D Managed Industrial Switch with 2.5G SFP Ports](https://www.inhand.com/en/products/managed-industrial-ethernet-switches/ism5006d/)；[ISM5010D Managed Industrial Ethernet Switch: 8 Gigabit Ports](https://www.inhand.com/en/products/managed-industrial-ethernet-switches/ism5010d/)
+- 首页正文摘录：Ask AI Anything 跳过内容 Industries Business Networking Business Branches Hybrid Workplace Instant Connectivity Industrial IoT Digital Factory Preventive Maintenance Digitalization of Utilities Digital Energy Smart Power Distribution Energy Efficiency for Buildings IoT Connectivity of Clean Energy Smart Commerce Self-service Retail Mobility Public Transport Engineering Vehicles Smart Logistics Municipal & Public Safety P
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 255、PoE 148 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-539.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,7 +176,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

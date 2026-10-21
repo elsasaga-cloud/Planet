@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-228.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.metcom.com.tr/　语言：tr-TR　站点地图 URL 数：105
+- **标题**：Metcom Güvenlik Teknolojileri A.Ş.
+- **描述**：Metcom Güvenlik Teknolojileri A.Ş. ürün yelpazesi Plaka Tanıma Sistemi, Otopark Bariyer Sistemleri, Video Analiz, Kamera Montaj Aksesuarları ve daha birçok ürünü kapsamaktadır.
+- **首页栏目**：Türkiye'nin Lider Plaka Tanıma Sistemi / Ücretli Otopark Plaka Tanıma Sistemi / Site Plaka Tanıma Sistemi / AVM KGYS Plaka Tanıma Sistemi / YENİ ÜRÜNLER / BİZDEN HABERLER
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 31、poe 16、cctv 15、nvr 5、hikvision 4、fiber 2、dahua 2、wifi 1
+- **站内出现的品牌**：Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MTC-400, PNC360S, DH-TPCBF5421P, JQ-D70Z, TE-W300, DS-2TD2617B-6, DS-2TP31-3AUF, MTC-T05, MTC-T06, MTC-T07, MTC-T08, OK-680
+- **产品类页面**：https://www.metcom.com.tr/product-by-category/；https://www.metcom.com.tr/product-category-pts-trafik-dsp-kameralari.html/；https://www.metcom.com.tr/http-www-metcom-com-tr-product-category-aksesuarlar-cambox-kamera-montaj-aksesuarlar…；https://www.metcom.com.tr/products-by-skuid/；https://www.metcom.com.tr/destek/urun-sunumlari/；https://www.metcom.com.tr/haberler-2/urun-haberleri/
+- **已抓子页**：[PoE Switchler arşivleri - Metcom Plaka Tanıma Sistemi](https://www.metcom.com.tr/product-category/aksesuarlar/poe-switchler/)；[Mobil Ürünler arşivleri - Metcom Plaka Tanıma Sistemi](https://www.metcom.com.tr/product-category/mobil-urunler/)；[Lazer - Termal Ürünler arşivleri - Metcom Plaka Tanıma Siste](https://www.metcom.com.tr/product-category/lazer-termal-urunler/)；[Ürünler - Metcom Plaka Tanıma Sistemi](https://www.metcom.com.tr/guvenlik-kameralari-urunleri/)；[Lazer Kamera arşivleri - Metcom Plaka Tanıma Sistemi](https://www.metcom.com.tr/product-category/lazer-termal-urunler/lazer-kamera/)；[Termal Kamera arşivleri - Metcom Plaka Tanıma Sistemi](https://www.metcom.com.tr/product-category/lazer-termal-urunler/termal-kamera/)
+- 首页正文摘录：Skip to content Search for: Kurumsal Ürünler Plaka Tanıma Sistemi Plaka Tanıma Kameraları Ücretli Otopark Sistemleri Bariyerler ve Ek Donanımlar Lazer – Termal Ürünler Termal Kamera Lazer Kamera Mobil Ürünler Akıllı Binalar Elektrikli Araç Şarj İstasyonu Alarm ve Otomasyon Video Intercom Access Kontrol Aksesuarlar CamBox Montaj Aksesuarları Megapiksel Lensler Keyboardlar Haraket Üniteleri PoE Switchler Switchler Dist
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 16、监控 20 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-228.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

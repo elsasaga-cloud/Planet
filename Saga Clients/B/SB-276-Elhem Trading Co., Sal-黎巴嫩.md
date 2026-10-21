@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -80,6 +80,22 @@ updated: 2026-10-21
 - **风险/边界**：黎巴嫩付款/局势风险；需求描述不清（VC）
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清
 - **邮件切入句（英文）**：You mentioned a need might come up soon for commercial switches — I can keep a USD EXW sheet for the 8/16/24-port PoE models on file for you; is the VC price list you asked about for video-conferencing or camera kits?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.mtco-lb.com/　语言：en-US　站点地图 URL 数：66
+- **标题**：MTCO
+- **首页栏目**：About MTCO / We help you build and scale to new levels of security / Hikvision dealer partner / Best Partner for CCTV Solutions / Emphasizing Innovation and Customization / Tailored Audiovisual Experiences / Modernizing your security systems / Contact us today if you'd like to know more about how we help you
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 12、access control 10、hikvision 8、automation 4、surveillance 4、distributor 4、camera 2
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@mtco-lb.com
+- **站内公开电话**：+225 07 686 161 44, +961 1 245 000, +961 1 245 500, +961 76 058 000
+- **社媒**：https://lb.linkedin.com/company/mtco-lb, https://www.facebook.com/MELHEMTRADINGCO, https://www.instagram.com/mtco.lb/, https://www.youtube.com/watch?v=1bU5zFPPLgM, https://www.youtube.com/watch?v=PfTcVDYgGtg/
+- **产品类页面**：https://www.mtco-lb.com/products/；https://www.mtco-lb.com/shop/；https://www.mtco-lb.com/product/ds-2cd2t87g2-lsu-sl/
+- **已抓子页**：[About us – MTCO](https://www.mtco-lb.com/pages/aboutus/)；[Contact Us – MTCO](https://www.mtco-lb.com/pages/contact-us/)；[About us – MTCO](https://www.mtco-lb.com/pages/aboutus/)；[Contact Us – MTCO](https://www.mtco-lb.com/pages/contact-us/)；[Services – MTCO](https://www.mtco-lb.com/services/)
+- 首页正文摘录：+961 1 245 500 info@mtco-lb.com Mon - Sat: 9:00 - 18:00 Home About us Services Contact us About MTCO Founded in 2004, MTCO is a leading supplier and distributor of advanced security automation solutions, providing a full suite of technologies for surveillance, access control, alarm systems, and more. As a trusted partner to Hikvision, MTCO delivers high quality, innovative security solutions designed to meet the comp
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 4、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-276.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

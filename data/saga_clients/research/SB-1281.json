@@ -1,0 +1,47 @@
+{
+ "code": "SB-1281",
+ "name_official": "Surya Namberdar（印度；个人）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "印度个人联系人，2023-09 收到商用 PoE 价目后要「印度货币价格」，此后无实质进展；无邮箱、无公司。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：对多功能有兴趣；回复：印度货币价格",
+   "quote": "兴趣：对多功能有兴趣；回复：印度货币价格",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "印度",
+  "size": "",
+  "other": "仅手机 09958628209"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "印度"
+ },
+ "risks": [
+  "要 INR 价 = 零售/末端客户特征；无邮箱"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无明确需求；低优先。"
+ },
+ "email_hook": "（无邮箱；不主动跟进，待其再询）"
+}

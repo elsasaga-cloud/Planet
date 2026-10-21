@@ -22,7 +22,7 @@ last_contact: unknown
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-382.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://fbk.it/　语言：en　站点地图 URL 数：104
+- **标题**：AI for Tender Management / FBK
+- **描述**：AI-powered tender management platform that automates every stage of tendering for life sciences & healthcare.
+- **首页栏目**：Find, manage and win tenders / Trusted by Leaders / From tender to offer — fully automated / Data Tender Collector / Document Intelligence / Predictive Analytics / Tender Agents / Why FBK
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 5、distributor 5、cable 2、integrator 1
+- **站内型号串**（正则抽取，含非交换机）：IT11817860155
+- **站内公开邮箱**：bruce@wayneenterprises.com
+- **社媒**：https://www.linkedin.com/company/gofbk, https://x.com/GoFBK
+- **已抓子页**：[Market intelligence for healthcare public tenders / FBK](https://fbk.it/blog/connecting-market-signals)；[About FBK / FBK](https://fbk.it/about)；[Contact us / FBK](https://fbk.it/contact-us)；[Partnership / FBK](https://fbk.it/partnership)；[Tender Agents / FBK](https://fbk.it/solutions/tender-agents)；[Predictive Analytics / FBK](https://fbk.it/solutions/predictive-analytics)
+- 首页正文摘录：Platform Solutions Resources Company Get a demo Contact sales Platform Solutions Resources Company Contact sales Get a demo Find, manage and win tenders The AI-Powered platform that automates processes, enhances efficiency, and drives smarter decisions across every stage of tendering. Get a demo Explore the platform Search a tender for diabetes products in UK Key selection criteria in Nordics The top 10 hospital in I
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-382.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -137,7 +152,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

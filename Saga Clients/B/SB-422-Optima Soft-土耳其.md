@@ -24,7 +24,7 @@ last_contact: 2025-10-24
 p1: STI-144GP
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -103,6 +103,23 @@ updated: 2026-10-21
 - **风险/边界**：公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标
 - **邮件切入句（英文）**：Furkan Bey, plaka tanıma ve bariyer panolarınız için DIN ray 4 port gigabit PoE + 1 SFP endüstriyel switch (−40/+75 °C) Optima etiketiyle EXW 36,9 USD; Shenzhen ziyaretinizde numuneyi elden teslim edebiliriz — tarih belli mi?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.optima-engineering.com/en　语言：en　站点地图 URL 数：930
+- **标题**：Optima Engineering / Road Blockers / Bollards / Gates / Barriers / Security Automation Systems
+- **描述**：OPTIMA Engineering Products Road Blockers,, Barriers, Security Automation Systems, Gates, Bollards, Fence Systems, Tyre Killers, Armored Guard Houses, Individual Parking Barriers, Turnstiles, Vehicle Recognition Systems, Scada Application for 20 years serv
+- **首页栏目**：Select Language / Contact Form / About Optima / The Path from Engineering to Trust / Products / Gallery / After Sales Services / Your Assurance in Quality, We Are With You in Support
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：scada 14、industrial 7、access control 5、automation 1
+- **站内型号串**（正则抽取，含非交换机）：TL-200, FXB-CT-R5, FRB-01, RAB-800, SAB-100, BTK-300, BTK-600, BTK-300SM, BTK-600SM
+- **站内公开邮箱**：optima@optima.tc
+- **站内公开电话**：+90 312 815 15 00
+- **社媒**：https://wa.me/+971544633993, https://www.instagram.com/optima_engineering/?igshid=13ehned5ab0k2, https://www.linkedin.com/company/opti%CC%87ma-m%C3%BChendi%CC%87sli%CC%87k/, https://www.youtube.com/user/EngineeringOptima
+- **产品类页面**：https://www.optima-engineering.com/en/products/high-security-products/bollards；https://www.optima-engineering.com/ar/products/high-security-products/bollards；https://www.optima-engineering.com/ar/products/high-security-products/other-gates；https://www.optima-engineering.com/en/products/high-security-products/swing-gates；https://www.optima-engineering.com/ar/products/high-security-products/swing-gates；https://www.optima-engineering.com/en/products/high-security-products/sliding-gate
+- **已抓子页**：[Traffic Solutions / Traffic Lamp / Optima Engineering](https://www.optima-engineering.com/en/products/controlled-access-systems/traffic-solutions)；[Security Barriers / UVIS Under Vehicle Inspection System / P](https://www.optima-engineering.com/en/products)；[Bollards / Hydraulic / Fixed / Surface / Optima Engineering](https://www.optima-engineering.com/en/products/high-security-products/bollards)；[Swing Gate / Optima Engineering](https://www.optima-engineering.com/en/products/high-security-products/swing-gate)；[Sliding Gate / Optima Engineering](https://www.optima-engineering.com/en/products/high-security-products/sliding-gate)；[Arm Barriers / Manual / Hydraulic / Electromechanical / Opti](https://www.optima-engineering.com/en/products/high-security-products/arm-barriers)
+- 首页正文摘录：Search ✕ Popular: Barrier Road Blocker Bollard Sliding Gate Plate Recognition System +90 312 815 15 00 optima@optima.tc Products Road Blockers Bollards Gate Operators Security Doors Sliding Gate Folding Gates Swing Gate Cantilevered Gates Arm Barriers Fence Systems Tyre Killers Armored Guard Houses Turnstiles Licence Plate Recognition System Parking Barriers Vehicle Recognition Systems Scada Application Parking Payme
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 22、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-422.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

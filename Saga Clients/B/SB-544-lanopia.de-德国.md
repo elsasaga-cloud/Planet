@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-20 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-544.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.lanopia.de　语言：de　站点地图 URL 数：115
+- **标题**：Lanopia - LAN und WAN Netzwerk Lösungen - Startseite
+- **描述**：Führender Value-Added-Distributor für professionelle Fiber-Optik und Kupfer-Netzwerktechnologie.
+- **首页栏目**：Innovative and High Quality Network Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 247、switch 233、ethernet 158、industrial 126、fiber 112、10g 102、media converter 45、gigabit 33、sfp 12、2.5g 4、cable 2、access control 1
+- **站内型号串**（正则抽取，含非交换机）：RJ-45
+- **产品类页面**：https://www.lanopia.de/products/poe-poe-poe/protect-industrial-poe-switch/；https://www.lanopia.de/products/poe-poe-poe/outdoor-poe-switch/；https://www.lanopia.de/products/poe-poe-poe/poe-poe-fiber-switches/；https://www.lanopia.de/products/poe-poe-poe/poe-poe-copper-switches/；https://www.lanopia.de/news/omnitron-spoe-switches/；https://www.lanopia.de/products/poe-poe-poe/
+- **已抓子页**：[Lanopia - LAN und WAN Netzwerk Lösungen - Industrial PoE PSE](https://www.lanopia.de/products/industrial-switche/industrial-poe-pse-fiber-switches/)；[Lanopia - LAN und WAN Netzwerk Lösungen - Industrial PoE Cop](https://www.lanopia.de/products/industrial-switche/industrial-poe-copper-extenders/)；[Lanopia - LAN und WAN Netzwerk Lösungen - PoE / PoE+ Fiber S](https://www.lanopia.de/products/poe-poe-poe/poe-poe-fiber-switches/)；[Lanopia - LAN und WAN Netzwerk Lösungen - Ethernet Switches](https://www.lanopia.de/products/industrial-switche/ethernet-switches/)；[Lanopia - LAN und WAN Netzwerk Lösungen - Ethernet Switch Mo](https://www.lanopia.de/products/industrial-switche/ethernet-switch-modules/)；[Lanopia - LAN und WAN Netzwerk Lösungen - Industrial Etherne](https://www.lanopia.de/products/industrial-switche/industrial-ethernet-switches/)
+- 首页正文摘录：Navigation aufklappen/zuklappen Startseite Company Philosophie Partners Location News Omnitron SPoE Switches Products Media Converter iConverter Management iConverter Network Interface Devices (NID) iConverter Copper UTP to Fiber iConverter Serielle Konverter iConverter Fiber to Fiber iConverter Coax to Fiber iConverter 4-Port Copper Switch iConverter CWDM Transponder 1-Modul Industrial Chassis iConverter Chassis Opt
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 126、PoE 247 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-544.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

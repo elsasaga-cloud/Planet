@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-448DGGPM
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-255.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.bitsandbyte.net/　语言：en　站点地图 URL 数：50
+- **标题**：bits&BYTE / Infrastructure for what’s next
+- **描述**：Engineering-led cloud, cybersecurity, networking and managed services.
+- **首页栏目**：Complex environments. Simpler outcomes. / bits&BYTE at a glance / One integrated infrastructure. Many possibilities. / Your business & our engineers, working as one team. / Every stage of an attack meets a control we run. / Run by engineers, on a written operating model. / Local expertise. Global delivery. / Built for the realities of your industry.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 5、wireless 4、switch 1
+- **站内公开邮箱**：contact@bitsandbyte.net
+- **站内公开电话**：+91 95133 70890
+- **社媒**：https://wa.me/919513370890?text=Hello%20bits%26BYTE%2C%20I%20found%20you%20on%20your%20website%20and%20would%20like%20to%20talk%20about, https://www.facebook.com/profile.php?id=100064194990048, https://www.instagram.com/bits_and_byte/, https://www.linkedin.com/company/bitsandbyteitconsulting/, https://www.youtube.com/@bitsandbyteit
+- **已抓子页**：[Contact us / bits&BYTE](https://www.bitsandbyte.net/contact?ref=Sector:+Manufacturing)；[Networking & Connectivity / bits&BYTE](https://www.bitsandbyte.net/solutions/networking-connectivity)；[About us / bits&BYTE](https://www.bitsandbyte.net/about)；[CERT-In’s 180-day logs and clock sync: what your network has](https://www.bitsandbyte.net/learn/cert-in-log-retention-and-time-sync)；[Managed Services / bits&BYTE](https://www.bitsandbyte.net/solutions/managed-services)；[Cybersecurity / bits&BYTE](https://www.bitsandbyte.net/solutions/cybersecurity)
+- 首页正文摘录：Call 1800 569 0101 Email [email protected] WhatsApp (opens in a new tab) Book a meeting Book (opens the booking calendar in a new tab) Free Check your website, email and DNS security in one click, at no cost. Free security checks Try the tools → Solutions Industries Company Learn Careers Book a meeting (opens the booking calendar in a new tab) Infrastructure for what's next Complex environments. Simpler outcomes. Clo
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-255.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +165,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

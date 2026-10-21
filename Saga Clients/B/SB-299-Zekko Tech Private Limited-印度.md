@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-299.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://zekko.co.in/　语言：未标　站点地图 URL 数：184
+- **标题**：Zekko Tech Private Limited - An Enterprise, Telecom IT & Automation Solution Company
+- **首页栏目**：Products / Telecom Solutions / Enterprise Solutions / Industrial Automation & Networking / Smart Cities Solutions / Health Care Solutions / Zekko Tech Private Limited / Products & Services
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 27、industrial 22、automation 18、wireless 7、switch 4、poe 2、fiber 2、media converter 1、ethernet 1
+- **站内公开邮箱**：sales@zekko.co.in
+- **站内公开电话**：+91 91360 07767
+- **产品类页面**：http://www.zekko.co.in/products/product_enquiry.php?prdname=POE Switch；http://www.zekko.co.in/products/product_enquiry.php?prdname=Industrial Switch；http://www.zekko.co.in/products/industrial-automation-networking.html；http://www.zekko.co.in/products/telecom-solutions/switches-routers.html；http://www.zekko.co.in/products/product_enquiry.php?prdname=L2 / L3 Switches；http://www.zekko.co.in/products/industrial-automation-networking/mobile-computing.html
+- **已抓子页**：[Industrial Automation & Networking](https://zekko.co.in/products/industrial-automation-networking.html)；[Telecom Solutions](https://zekko.co.in/products/telecom-solutions.html)；[Enterprise Solutions](https://zekko.co.in/products/enterprise-solutions.html)；[Smart Cities Solutions](https://zekko.co.in/products/smart-cities-solutions.html)；[Services - Healthcare Solutions](https://zekko.co.in/products/health-care-solutions/healthcare-solutions.html)；[Products](https://zekko.co.in/products/products.html)
+- 首页正文摘录：Email : sales@zekko.co.in Home Products Services About Us Events & Media Contact Us Telecom Solutions Enterprise Solutions Industrial Automation & Networking Smart Cities Solutions Health Care Solutions Consultancy Services Telecom Solutions Total Telecom Solutions ! Sangoma Technologies Corporation is a trusted leader in delivering globally scalable Voice-Over-IP telephony systems. Serving customers in over 150 coun
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 27、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-299.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -147,7 +161,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

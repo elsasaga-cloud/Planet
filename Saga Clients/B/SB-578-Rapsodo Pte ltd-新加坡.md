@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-03-20 → 2025-10-20）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-578.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://rapsodo.com/　语言：en-US　站点地图 URL 数：321
+- **标题**：Rapsodo® - Sports Performance & Analytics Technology
+- **描述**：Launch and flight monitors for baseball, softball and golf that are affordable, portable and easy to use backed by data-driven technology trusted by the best players in the game. Play without limits with Rapsodo®
+- **首页栏目**：To Give Athletes Everywhere the Tools They Need to Play Like Never Before. / REVOLUTIONIZE YOUR GOLF GAME. / UNLOCK DATA THAT CREATES CHAMPIONS. / Tech Designed for Softball Player Development. / We help athletes reach their full potential
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 36、axis 32、wholesale 12、cable 5、switch 4、wifi 4、ethernet 2、wireless 2
+- **站内出现的品牌**：Axis　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：sales@rapsodo.com
+- **社媒**：https://twitter.com/rapsodo, https://twitter.com/rapsodogolf, https://twitter.com/rapsodosoftball, https://www.facebook.com/RapsodoDiamondSports/, https://www.facebook.com/RapsodoGolf/, https://www.instagram.com/rapsodobaseball/
+- **产品类页面**：https://rapsodo.com/sitemap_products_1.xml?from=7328173916309&amp;to=15580453110131；https://rapsodo.com/blogs/golf/keys-to-productive-golf-practice-less-comfort-more-chaos；https://rapsodo.com/blogs/baseball/rapsodo-launches-new-high-speed-slow-motion-video-product；https://rapsodo.com/blogs/golf/rapsodo-mobile-launch-monitor-wins-ing-product-ingenuity-technology-award
+- **已抓子页**：[Rapsodo® PRO 2.0 Ball Flight Monitor](https://rapsodo.com/products/pro-2-ball-flight-monitor)；[Rapsodo PRO 2.0 Softball Flight Monitor](https://rapsodo.com/products/pro-2-softball-flight-monitor)；[Rapsodo® PRO 3.0 Baseball Flight Monitor](https://rapsodo.com/products/rapsodo-pro-3-ball-flight-monitor)；[Rapsodo MLM2XPRO Golf Launch Monitor & Simulator](https://rapsodo.com/products/mlm2xpro-golf-launch-monitor-simulator)；[Rapsodo® MLM2PRO Mobile Launch Monitor + Golf Simulator](https://rapsodo.com/products/mlm2pro-mobile-launch-monitor-golf-simulator)；[Rapsodo® MLM1 - Mobile Launch Monitor](https://rapsodo.com/products/mlm1-mobile-launch-monitor?variant=52551486898547)
+- 首页正文摘录：HOME Careers SHOP All Products GOLF BASEBALL SOFTBALL CAREERS 0 0 SHOP Rapsodo Sports Technology: Data-Driven Performance Training for Golf, Baseball, and Softball More Ways to Play. More Ways to Improve. Meet MLM2XPRO — Rapsodo's fastest, most advanced launch monitor and golf simulator yet. LEARN MORE Shop Now THE MOST REALISTIC SIMULATOR EXPERIENCE FOR YOUR HOME Go beyond graphics. Experience premium golf destinati
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 4、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-578.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -146,7 +162,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

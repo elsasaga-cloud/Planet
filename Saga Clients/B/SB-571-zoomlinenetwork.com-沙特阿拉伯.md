@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-04-04 → 2025-10-22）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-571.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://zoomlinenetwork.com/　语言：en-US　站点地图 URL 数：476
+- **标题**：Networking Products and Security Solutions Distributors in UAE
+- **描述**：Zoom line Networks Technology is one of the largest IT, Networking & Security solutions distributors of renowned brands in the Middle East and Africa, houses other entities in the ME region.
+- **首页栏目**：Brands we work with / Best Selling Products / Ramcro - Ethernet Cables / Fujikura Fusion Splicer 99S / Fujikura Fusion Splicer / Fujikura CT50 / Core Alignment Fusion splicer 90S+ kit / DEM2 Dome Splice Enclosure
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 385、cable 339、fiber 334、industrial 95、ftth 77、camera 69、media converter 67、ubiquiti 58、cisco 58、mikrotik 56、cctv 52、surveillance 40
+- **站内出现的品牌**：TP-Link, Ubiquiti, MikroTik, Cisco, D-Link, Aruba, Schneider, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：sales@zoomlinenetwork.com
+- **站内公开电话**：+971 4 325 7866, +971 4325 7866, +971 55 378 6444
+- **社媒**：https://twitter.com/zoomlinenetwork, https://www.facebook.com/zoomlinenetwork/?ref=aymt_homepage_panel&eid=ARCIoz4eOFYSbAdDOc1Vurt8nXVxYuiyEM8u3maiCsqT2VDbw-XfzsSNEDtmsrpr_jH-kdmdom09CaFZ, https://www.instagram.com/zoomlinenetworkstechnology/, https://www.linkedin.com/company/zoomlinenetworks, https://www.linkedin.com/company/zoomlinenetworks/, https://www.youtube.com/channel/UCD9QKqH3CcAwkil77u_HANw
+- **产品类页面**：https://zoomlinenetwork.com/industrial-switches-distributor-ksa/；https://zoomlinenetwork.com/industrial-switches-and-ip-pbx-a-powerful-combination/；https://zoomlinenetwork.com/switches/；https://zoomlinenetwork.com/kvm-switch-ksa/；https://zoomlinenetwork.com/what-is-a-kvm-switch/；https://zoomlinenetwork.com/why-data-centre-needs-kvm-switch/
+- **已抓子页**：[Industrial Switches Supplier & Distributor in KSA / Zoomline](https://zoomlinenetwork.com/industrial-switches-distributor-ksa/)；[Shop - Zoom Line Networks Technology LLC](https://zoomlinenetwork.com/shop/)；[CCTV Cameras Supplier & Distributor in KSA / Zoomline Networ](https://zoomlinenetwork.com/cctv-cameras-in-ksa/)；[KVM Switches Supplier & Distributor in KSA / Zoomline Networ](https://zoomlinenetwork.com/kvm-switch-ksa/)；[LCD KVM Switches Supplier & Distributor in Dubai, UAE / Zoom](https://zoomlinenetwork.com/lcd-kvm-switches/)；[Rack KVM Switches Supplier & Distributor in Dubai, UAE / Zoo](https://zoomlinenetwork.com/rack-kvm-switches/)
+- 首页正文摘录：Skip to content +971 55 378 6444 +971 4 325 7866 sales@zoomlinenetwork.com Facebook Instagram Linkedin Youtube X-twitter Company Profile Home About us Categories All Accessories APC UPS Armoured Outdoor Backboxes Cabinets & Accessories Cable KVM Switches Cables CAT5e CAT6 CAT6A Computer Sharing Devices Copper Cables Copper Keystones Copper Patch cords Copper Patch Panels Copper Solutions Desktop KVM Switches Faceplat
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 97、PoE 4 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-571.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -165,7 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

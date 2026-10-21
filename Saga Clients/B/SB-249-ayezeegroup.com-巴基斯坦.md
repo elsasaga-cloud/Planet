@@ -24,7 +24,7 @@ last_contact: 2025-06-26
 p1: STI-288GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -95,6 +95,22 @@ updated: 2026-10-21
 - **风险/边界**：多次「暂时没需求」，项目驱动；巴基斯坦进口/外汇限制；规模口径不一
 - **Saga 对位结论**：P1 STI-288GP（20% 档）——电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档
 - **邮件切入句（英文）**：Your product page lists managed/unmanaged switches and media converters for telecom and power projects — when a tender calls for DIN-rail PoE switches, our 8-port + 2 SFP industrial model is $57–62 EXW; shall I send the spec so it is on file?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://ayezeegroup.com/　语言：en-US　站点地图 URL 数：11
+- **标题**：Ayezee Group
+- **首页栏目**：Affordable Telecom & Power Soluti o ns / Bridging the Gap in Your IT Soluti o ns / Software & Web Development Soluti o ns / Plan your business promotion with Our Experts / + / k / We can inspire and Offer Different Business Development Services / We’ll Ensure You Always Get the Best Guidance.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 23、fiber 6、cisco 4、switch 2、industrial 2、media converter 2、sfp 1、data center 1、cable 1
+- **站内出现的品牌**：Cisco, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@ayezeegroup.com
+- **站内公开电话**：+923008503939
+- **社媒**：https://wa.me/+923008503939, https://www.facebook.com/ayezeegroup, https://www.youtube.com/watch?v=6mkoGSqTqFI
+- **产品类页面**：https://ayezeegroup.com/products/
+- **已抓子页**：[Products -](https://ayezeegroup.com/products/)；[Our Partners -](https://ayezeegroup.com/our-partners/)；[Our Work -](https://ayezeegroup.com/our-work/)
+- 首页正文摘录：Skip to content Loading Islamabad, Pakistan info@ayezeegroup.com Mon-Fri: 9.00am To 6.00pm Products Services Why Choose Us? Our Partners Our Location Search for: Company Profile Call Us +923008503939 Islamabad, Pakistan info@ayezeegroup.com Mon-Fri: 9.00am To 6.00pm Search for: Company Profile Products Services Why Choose Us? Our Partners Our Location Welcome to Ayezee Group ! Affordable Telecom & Power Soluti o ns T
+- **自动对位建议**：STC-424XGGM（官网快照对位：电信/FTTH 词频 23 → 汇聚 24 GE + 4×10G；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-249.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

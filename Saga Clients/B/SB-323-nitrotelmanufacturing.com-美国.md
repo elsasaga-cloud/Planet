@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 20 次（2024-05-01 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-323.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.nitrotelmanufacturing.com/　语言：en-US　站点地图 URL 数：240
+- **标题**：Nitrotel Manufactoring – / Network Solutions / Networking Products / Miami,fl
+- **描述**：/ Network Solutions / Networking Products / Miami,fl
+- **首页栏目**：Feature Products / Our Solutions / Enterprise Networks / Data Center Solutions / Infrastructure Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 80、fiber 45、data center 29、media converter 14、ftth 8、poe 2、datacenter 2、distributor 1
+- **站内型号串**（正则抽取，含非交换机）：TIA-568, NTFFSM820, NTFFSM840, NTFFSM-840, EIA-568, NTNC6ARD-P, NTNC6AXXFTP-Y, NT-GJYXFH-Y1AY2, NT-GJYXH-Y1AY2, IEC-61754-7, TIA-604-5, TIA568
+- **站内公开邮箱**：sales@nitrotelmanufacturing.com
+- **社媒**：https://twitter.com/nitrotel, https://www.facebook.com/nitrotelgroup/, https://www.instagram.com/nitrotelmanufactoring/, https://www.linkedin.com/company/nitrotel-manufactoring/, https://www.youtube.com/results?search_query=nitrotel
+- **产品类页面**：https://www.nitrotelmanufacturing.com/product/category-6a-utp-cable/；https://www.nitrotelmanufacturing.com/product/category-5e-utp-cable/；https://www.nitrotelmanufacturing.com/product/category-6-enhanced-utp-cable/；https://www.nitrotelmanufacturing.com/product/exterior-category-6-utp-cable/；https://www.nitrotelmanufacturing.com/product/category-6-rj45-keystone-jack-module-180-degrees-shielded/；https://www.nitrotelmanufacturing.com/product/category-6-rj45-keystone-jack-module-180-degrees-unshielded/
+- **已抓子页**：[Catalog – Nitrotel Manufactoring](https://www.nitrotelmanufacturing.com/catalog/)；[Enterprise Networks Solutions – Nitrotel Manufactoring](https://www.nitrotelmanufacturing.com/enterprise-networks-solutions/)；[Category 6A U/UTP Cable – Nitrotel Manufactoring](https://www.nitrotelmanufacturing.com/product/category-6a-utp-cable/)；[ODF HD MPO/MTP-LC Patch Panel – Nitrotel Manufactoring](https://www.nitrotelmanufacturing.com/product/odf-hd-mpo-mtp-lc-patch-panel/)；[WALL MOUNT CABINETS / DOUBLE SECTION – Nitrotel Manufactorin](https://www.nitrotelmanufacturing.com/product/wall-mount-cabinets-double-section/)；[Nitrotel Fusion Premium Splicer Kit – Nitrotel Manufactoring](https://www.nitrotelmanufacturing.com/product/nitrotel-fusion-premium-splicer-kit/)
+- 首页正文摘录：Partner Locator Terms and Conditions Home About Us Our Solutions Enterprise Networks Data Center Broadband Infrastructure Training & Certifications Support Newsletter Contact us Customer Portal Access Certifications Nitrotel / Warranty Bulk Cable UL Certifications Bulk Cable ETL Certifications ETL Cat6 ETL Cat6A ETL Certifications Connectivity UL Certification Cabinets & Racks UL Certification Corporate Profile Produ
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-323.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -172,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

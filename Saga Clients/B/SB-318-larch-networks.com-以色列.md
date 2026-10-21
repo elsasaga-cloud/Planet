@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-318.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://larch-networks.com/　语言：en-US　站点地图 URL 数：79
+- **标题**：Larch Networks — Tailor-made Network Software and Hardware Development
+- **描述**：Larch Networks is a company specializing in systems engineering, deployment, and implementation. The team is made up of experienced professionals with a strong background in managing complex projects, designing systems, and integrating fabrication processes.
+- **首页栏目**：Hardware-Accelerated BFD+ for SONiC / Electronica India 2026
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 169、industrial 65、poe 48、sfp 40、10g 30、ethernet 14、data center 14、surveillance 5、wireless 2、2.5g 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：LN-1508G-4XGF-I-M, LN-1508GP-4XGF-I-M, LN-1508G-4XGF-I, LN-1508GP-4XGF-I, LN-2308GP-2GE-I, LN-2348GP-4XGF-IR, LN-2304M-P-2GF-I, LN-2308M-P-2GF-I, LN-2304GP-2GF-I, LN-2308GP-2GF-I, LN-2308GP-4GF-I, LN-2308G-4GF-I
+- **站内公开邮箱**：55-966-1282info@larch-networks.com, info@larch-networks.com
+- **站内公开电话**：+972 (3) 901-6117, +972 (3) 901-6118, +972 55-966-1282
+- **社媒**：https://www.facebook.com/larch.networks/, https://www.linkedin.com/company/larch-networks
+- **产品类页面**：https://larch-networks.com/larch-networks-devices/industrial-switches/8xpoe-industrial-switch/；https://larch-networks.com/larch-networks-devices/industrial-switches/16xpoe-industrial-switch/；https://larch-networks.com/larch-networks-devices/industrial-switches/48xpoe-industrial-switch/；https://larch-networks.com/larch-networks-devices/industrial-switches/8xpoe-industrial-switch-2/；https://larch-networks.com/industrial-switches/；https://larch-networks.com/sonic-switch/
+- **已抓子页**：[Industrial Switches Archives – Larch Networks — Network Prod](https://larch-networks.com/category/larch-networks-devices/industrial-switches/)；[Industrial Switches by Larch Networks](https://larch-networks.com/industrial-switches/)；[Contacts – Larch Networks — Network Product Development](https://larch-networks.com/about-larch-networks/contacts/)；[Network Switch Modules – Larch Networks — Network Product De](https://larch-networks.com/network-switch-modules/)；[Campus and Access Switches Archives – Larch Networks — Netwo](https://larch-networks.com/category/larch-networks-devices/campus-and-access-switches/)；[Larch Networks Team – Larch Networks — Network Product Devel](https://larch-networks.com/about-larch-networks/team/)
+- 首页正文摘录：Home About Us 10 switches running Larch Hardened SONiC and Dorado Cruz orchestrating and monitoring solution allow creation of accessible AI systems. Larch networks At a Glance News and Events Larch Networks Team Career at Larch Networks Contacts Business Latest Case : Hardware-Accelerated BFD+ for SONiC Clients Case Studies Partners SONIC/SAI Development Hardened SONiC NOS SONiC Based Product Development SONiC Adopt
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 65、PoE 48 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-318.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +156,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

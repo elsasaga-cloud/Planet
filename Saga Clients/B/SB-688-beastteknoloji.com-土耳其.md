@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -32,9 +32,9 @@ updated: 2026-10-21
 - **是谁**：土耳其的经销/集成（类型待核）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 13、监控 62 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-688.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.beastteknoloji.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Beast Teknoloji - Beast Teknoloji
+- **描述**：Markalar Tiandy Tiandy Detaylar Dahua Dahua Detaylar Hikvision Hikvision Detaylar Ajax Ajax Detaylar Destek Bayilik Başvuru Formu BAYİLİK BAŞVURU FORMU Tıklayın Fiyat Listeleri FİYAT LİSTELERİ Tıklayın Mail Order Formu MAIL ORDER FORMU Tıklayın Beast Güvenlik Teknolojileri ; 24 yılı aşkın süredir se
+- **首页栏目**：Markalar / Tiandy / Dahua / Hikvision / Ajax / Destek / Bayilik Başvuru Formu / BAYİLİK BAŞVURU FORMU
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：nvr 50、switch 30、hikvision 21、fiber 18、dahua 18、poe 13、cctv 12、wifi 6
+- **站内出现的品牌**：Hikvision, Dahua, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TPU-8125, TPU-9245, TPU-9245P, NVR5-I, DS-2CD1023G0E-IF, DS-2CD1043G0-IUF, DS-2CD1043G0E-IF, DS-2CD1123G0F-I, DS-2CD1143G0E-IF, TC-C32GN, TC-C32KS, SN-IPR5825DQAN-J4-Z
+- **站内公开电话**：+90 216 602 2 614, +90 216 602 26 14
+- **社媒**：https://www.facebook.com/BEAST-G%C3%BCvenlik-Teknolojileri-A%C5%9E-100678012283668, https://www.instagram.com/beastguvenlikteknolojileri/, https://www.linkedin.com/company/beast-guvenli%CC%87k-teknoloji%CC%87leri%CC%87-a-%C5%9F/?viewAsMember=true, https://www.youtube.com/channel/UCuZ96JlbukT1MxPDJ-u55ww
+- **已抓子页**：[Network Ürünler - Beast Teknoloji](https://www.beastteknoloji.com/product-category/dahua/network-urunler/)；[Network Ürünler - Beast Teknoloji](https://www.beastteknoloji.com/product-category/hikvision/network-urunler-hikvision/)；[IP Ürünler - Beast Teknoloji](https://www.beastteknoloji.com/product-category/tiandy/ip-urunler/)；[HDCVI Ürünler - Beast Teknoloji](https://www.beastteknoloji.com/product-category/dahua/hdcvi-urunler/)；[Mobil Ürünler - Beast Teknoloji](https://www.beastteknoloji.com/product-category/dahua/mobil-urunler/)；[PTZ Ürünler - Beast Teknoloji](https://www.beastteknoloji.com/product-category/hikvision/ptz-urunler/)
+- 首页正文摘录：Skip to content +90 216 602 26 14 Toggle Navigation ANA SAYFA HAKKIMIZDA ÜRÜNLER Tiandy NVR IP Speed Dome IP Ürünler VMS Serisi Keyboardlar Dahua Akıllı Ev – Otomasyon HDCVI Ürünler Lazer – Termal Ürünler Network Ürünler Mobil Ürünler Monitör ve Videowall Network Ürünler Trafik Çözümleri Hikvision Aksesuarlar Alarm Ürünleri Analog Ürünler Ekran Ve Kontrol İnteraktif Tablet – Monitörler Lazer-Termal Ürünler Mobil Ürün
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 13、监控 62 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-688.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -96,7 +112,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 13、监控 62 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,7 +158,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

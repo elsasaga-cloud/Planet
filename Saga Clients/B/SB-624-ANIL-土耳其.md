@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -93,6 +93,21 @@ updated: 2026-10-21
 - **风险/边界**：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
 - **邮件切入句（英文）**：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://aniltelekom.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Anıl Telekom
+- **描述**：dahua kamera, Hikvision güvenlik kamera, Lande kabinet, Yealink telefon, multitek santraller, dahua güvenlik sistemleri, karel santral, tplink modem, tp-link ürünleri, gigaset telsiz telefon, karel telefonlar
+- **首页栏目**：Yealink Görüntülü Sesli İletişim Sistemleri / YEALINK / Dahua Full-Color Kameralar / DAHUA / Gigasetpro Dect Telefon Çözümleri / GIGASET / Ofis Çözümleri Telefon ve Santraller / KAREL
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：dahua 47、switch 41、ubiquiti 31、cctv 30、nvr 29、poe 24、gigabit 15、sfp 14、tp-link 13、hikvision 6、10g 5、wifi 1
+- **站内出现的品牌**：Ubiquiti, Ruijie, Dahua, TP-Link, Hikvision, Ajax, Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AV500, DAE-HC3511GW-S8, ES-24-250W, SWH0605-P, SWH0606-P, SWH1024-GP, SWH6016-P, SWH6024-G, SWH6024-P, SWH6080L-G, SWH6010-P, RG-ES205GC-P
+- **社媒**：https://www.instagram.com/aniltelekomunikasyon/, https://www.linkedin.com/company/an%C4%B1l-telekom, https://www.linkedin.com/company/an%C4%B1l-telekom/, https://www.youtube.com/@aniltelekom
+- **已抓子页**：[Switchler - Anıl Telekom](https://aniltelekom.com/tr/urunler/network-urun-gruplari/switchler)；[Network Ürün Grupları - Anıl Telekom](https://aniltelekom.com/tr/urunler/network-urun-gruplari)；[Gigasetpro Dect El Ürünleri - Anıl Telekom](https://aniltelekom.com/tr/urunler/haberlesme-ve-iletisim-cozumleri/gigasetpro-dect-el-urunleri)；[Network Kayıt Cihazları - Anıl Telekom](https://aniltelekom.com/tr/urunler/cctv-guvenlik-cozumleri/network-kayit-cihazlari)；[IP Kameralar - Anıl Telekom](https://aniltelekom.com/tr/urunler/cctv-guvenlik-cozumleri/ip-kameralar)；[Wi-Fi Kameralar - Anıl Telekom](https://aniltelekom.com/tr/urunler/cctv-guvenlik-cozumleri/wi-fi-kameralar)
+- 首页正文摘录：Yükleniyor İletişim 0212 292 90 90 [email protected] [email protected] Satış Destek 0212 292 90 90 Türkçe Türkçe English Müşteri Hizmetleri 0212 292 90 90 Bayimiz Olun Bayilik Başvurusu ÜRÜN GRUPLARI CCTV & Güvenlik Çözümleri IP Kameralar Network Kayıt Cihazları Analog Kameralar Analog Kayıt Cihazları Wi-Fi Kameralar Monitörler Aksesuarlar Dahua CCTV Ürünleri Hemen İncele Haberleşme ve İletişim Çözümleri Telefon Sant
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 5、交换机 41 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-624.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

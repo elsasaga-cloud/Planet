@@ -22,7 +22,7 @@ last_contact: 2025-10-25
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-31 → 2025-10-25）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-568.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://vantrontech.us/　语言：en　站点地图 URL 数：361
+- **标题**：Embedded Industrial IOT Solutions / The Best IOT Solution Provider / Vantron
+- **描述**：Vantron, as an embedded solutions provider, offers embedded IoT solutions, including embedded board, all in one panel pc, for industrial, communication and other applications.
+- **首页栏目**：Featured Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 171、switch 30、automation 16、camera 9、wireless 3、axis 3、ethernet 1、2.5g 1、odm 1
+- **站内型号串**（正则抽取，含非交换机）：IBOX6425E, VT-SBC-IMX8MMN, EPC-R680E, RK3576, AG605, VPC-R5744, VOSM6490, EPC-H610-H, VT-SBC-SMARC-IMX95, VT-SBC-SMARC-3576, VT-SBC-RK3576-NT, TPC150-EKT
+- **站内公开邮箱**：robin.da@vantrontech.com, sales@vantrontech.com, u003esales@vantrontech.com
+- **社媒**：https://twitter.com/IotVantron, https://www.linkedin.com/company/vantron, https://www.youtube.com/@Vantron-iot
+- **产品类页面**：https://vantrontech.us/news/116-NewProductsPoweringIndustrialIntelligencefromRealTimeControltoEdgeVisionAI；https://vantrontech.us/news/70-NewProductsVantronUnveilsNewAndroidIndustrialTabletandWiFiHaLowUnitforSmarterIo…；https://vantrontech.us/news/61-NewProductsEmpoweringNextGenerationofIndustrialConnectivitywithVantronNewCommun…；https://vantrontech.us/news/63-NewProductsHighBrightnessIndustrialDisplaySolutionsforOutdoorCommercialandProfe…；https://vantrontech.us/news/62-NewProductsVantronUnveilsHighPerformanceOSMModuleandPicoITXIndustrialMotherboar…；https://vantrontech.us/news/115-NewProductsFromEdgeControltoMobileIntelligenceVantronExpandsItsIntelligentDisp…
+- **已抓子页**：[Vantron Technology](https://vantrontech.us/product?type=Industrial_Switch)；[Vantron Technology](https://vantrontech.us/product/list?category=Industrial_Switch&type=Managed_Industrial_Switch)；[M05R1 5" Android Rugged Industrial Tablet / Vantron Industri](https://vantrontech.us/product/3281-M05R15AndroidRuggedIndustrialTablet)；[M08R2 8" Android Rugged Industrial Tablet / Vantron Industri](https://vantrontech.us/product/3280-M08R28AndroidRuggedIndustrialTablet)；[M12 12" Windows General-Purpose Industrial Tablet / Vantron](https://vantrontech.us/product/3261-M1212WindowsGeneralPurposeIndustrialTablet)；[IBOX6425E ElkhartLake X86-based Windows Embedded Industrial ](https://vantrontech.us/product/1005-IBOX6425EElkhartLakeX86basedWindowsEmbeddedIndustrialComputer)
+- 首页正文摘录：Product Embedded Board Intel Single Board Computer MediaTek Single Board Computer NXP Single Board Computer Rockchip Single Board Computer Qualcomm Single Board Computer ST Single Board Computer System-on-Module Open Standard Module (OSM) SMARC Module Q-Seven Module COM Express Module Others Embedded Industrial Computer Multimedia Box PC Edge AI Box PC AGV / AMR Controller OPS Player HDBaseT Player Touchscreen Monito
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 176、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-568.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

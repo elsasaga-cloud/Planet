@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-10-23 → 2025-10-23）；最近一次客户回复：2025-10-23：CC了
 - **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-418.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ctcu.com/zh-TW/　语言：zh-TW　站点地图 URL 数：71
+- **标题**：主向位科技股份有限公司 / 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。
+- **描述**：主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體開發系統遵循資安管理規範 IEC62443，以提升產品應用在各產業的資安防護力。主向位科技秉持持續創新研發精神並提供全系列高品質可靠度、耐環境高低溫及
+- **首页栏目**：主向位科技股份有限公司 / 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。 / 公司優勢數據 / 0 / 0 % / 熱門產品 / 資安強化型PoE乙太網交換機(IGR-A804SM Series) / 網管型2.5G乙太網交換機(QSW-4624CM) / 雙通道串列光纖中繼器(SOR-200)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 204、ethernet 98、poe 92、industrial 86、telecom 41、10g 38、fiber 32、sfp 21、media converter 20、2.5g 17、automation 7、gigabit 7
+- **站内型号串**（正则抽取，含非交换机）：EN50155, FRM220, EN45545-2, QSW-4624CM, SOR-200, FRM220A, ISO9001, IEC62443, IGS-402CS-4PH24, IXR-G24044X-24PH, IEC-61850-3, GSW-4424MP
+- **站内公开邮箱**：sales@ctcu.com
+- **站内公开电话**：+886) 2-2659-0237, +886) 2-2659-1021
+- **社媒**：https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIGS-402CS-4PH24.html, https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIXR-G24044X-24PH.html, https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FQSW-4624CM.html, https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FSOR-200.html, https://twitter.com/intent/tweet?text=%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E6%98%AF%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81%E8%A3%BD%E9%80%A0%E5%95%86+%28%E5%8C%85%E5%90%AB%E7%AC%AC2%E5%B1%A4%E6%8F%9B%E6%A9%9F%2C+TDM%2C+%E8%BD%89%E7%99%BC%E5%99%A8%E3%80%81%E5%B7%A5%E6%A5%AD%E7%B4%9A%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8%E3%80%81%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%81%E4%BE%9B%E9%9B%BB%E5%99%A8%E7%AD%89%29%E3%80%82&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2F, https://twitter.com/intent/tweet?text=%E7%94%A2%E5%93%81%E6%AF%94%E8%BC%83%E8%A1%A8+%7C+%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&url=https%3A%2F%2Fwww.ctcu.com%2Fzh-TW%2Fpage%2Fproduct-comparison.html
+- **产品类页面**：https://www.ctcu.com/en/category/CATE-poe_switch.html；https://www.ctcu.com/en/category/CATE-industrial_products.html；https://www.ctcu.com/en/category/CATE-poe-product.html；https://www.ctcu.com/en/category/CATE-CPE-Switch.html；https://www.ctcu.com/en/category/CATE-synce_switch.html；https://www.ctcu.com/en/category/CATE-Access-Switch.html
+- **已抓子页**：[Optical Repeater / Industrial & Telecom Network Equipment Ma](https://www.ctcu.com/en/product/SOR-200.html)；[L2+ Managed 2.5G Ethernet Switch / Industrial & Telecom Netw](https://www.ctcu.com/en/product/QSW-4624CM.html)；[Industrial GbE PoE Switch / Industrial & Telecom Network Equ](https://www.ctcu.com/en/product/IGS-402CS-4PH24.html)；[Industrial Layer 3 10G PoE Switch / Industrial & Telecom Net](https://www.ctcu.com/en/product/IXR-G24044X-24PH.html)；[產品系列 DM / 主向位科技股份有限公司](https://www.ctcu.com/zh-TW/page/product-series-dm.html)；[產品比較表 / 主向位科技股份有限公司](https://www.ctcu.com/zh-TW/page/product-comparison.html)
+- 首页正文摘录：中文 (繁體) English Español Português Français Deutsch Русский 日本語 中文 (繁體) 主向位科技股份有限公司 / 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。 主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體開發系統遵循資安管理規範 IEC62443，以提升產品應用在各產業的資安防護力。主向位科技秉持持續創新
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 91、PoE 92 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-418.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

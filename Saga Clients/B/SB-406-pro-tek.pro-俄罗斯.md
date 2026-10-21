@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -91,6 +91,22 @@ updated: 2026-10-21
 - **风险/边界**：俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）
 - **邮件切入句（英文）**：Здравствуйте, рядом с Eltex MES2124P и PLANET в вашем каталоге: 24 GbE PoE+ (280 Вт) + 4 SFP L2+ — 140,1 USD EXW, 2 SFP + 8 GbE PoE L2 — 62,2 USD, нейтральная упаковка, расчёт в CNY. Для каких объектов (ЛВС, видеонаблюдение) вам чаще нужен бюджетный вариант?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://pro-tek.pro/　语言：ru　站点地图 URL 数：199
+- **标题**：Протэк — профессиональные технологии безопасности
+- **描述**：Системы безопасности и видеонаблюдения по ценам от производителя с доставкой по Новосибирску и области! ✔Монтаж ✔Доставка ✔Низкие цены ☎ Звоните: +7 (383) 383-50-14
+- **首页栏目**：Распродажа / 1000+ / Подберём готовую систему безопасности для вашего дома / Рекомендуем / Покупайте выгодно как юридическое лицо / Отзывы / От видеокамер до монтажного крепежа / Новости компании
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 81、hikvision 27、dahua 24、nvr 15、sfp 10、cctv 9、uniview 4、ethernet 2、10g 2、switch 1、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：SRG-3220, SPC-8FN, IPC-B020, TIP-H-4, CF-50, TPA-101, KKM11-009-230-01, DRT20-0028-0036, TSH-H-5, TIP-H-T-5, TIP-HOL-MT-8, TIP-H-7
+- **站内公开邮箱**：help@pro-tek.pro, nonparty@ngs.ru, zakaz@pro-tek.pro
+- **站内公开电话**：+7 (383) 383-50-14, +7(383) 383-50-14, +7(905)955-26-72, +7(923)121-10-68, +7(923)121-11-62, +7(923)121-12-47
+- **产品类页面**：https://pro-tek.pro/catalog/；https://pro-tek.pro/catalog/brends/；https://pro-tek.pro/favorite-products/；https://pro-tek.pro/news/company-news/protehk-diler-produkcii-vehrs-i-slinex.html
+- **已抓子页**：[Электротехническая продукция - купить со скидкой](https://pro-tek.pro/catalog/cid/elektrotehnicheskaya_produktsiya/)；[Сетевое оборудование - купить в PoE Коммутаторы по выгодной ](https://pro-tek.pro/catalog/cid/3109/)；[Коммутационное оборудование индустриальное IP67 - купить в Н](https://pro-tek.pro/catalog/cid/kommutacionnoe-oborudovanie-industrialnoe-ip67/)；[Поставка электротехнической продукции в Новосибирске. Купите](https://pro-tek.pro/catalog/cid/elektrotehnicheskaya-produkciya/)；[Контакты](https://pro-tek.pro/contacts/)；[Тестеры CCTV для систем видеонаблюдения - купить в Новосибир](https://pro-tek.pro/catalog/cid/testery-cctv-dlya-sistem-videonablyudeniya/)
+- 首页正文摘录：ЗАКАЗАТЬ ЗВОНОК Закажите звонок нашего специалиста, и вам перезвонят в указанное время. Ваше имя * Телефон * Город и удобное время для звонка Отправляя сообщение, вы даёте своё согласие на обработку персональных данных. Вход Электронная почта Пароль Войти Восстановить пароль Ошибка авторизации. Новосибирск Новосибирск Барнаул Кемерово Новокузнецк Томск Красноярск Выбран город Новосибирск Укажите свой город, чтобы уви
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 81、监控 24 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-406.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

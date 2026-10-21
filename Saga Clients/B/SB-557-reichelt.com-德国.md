@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-24 → 2025-11-04）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-557.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.reichelt.com/　语言：en　站点地图 URL 数：236
+- **标题**：notebooks, PC components, harddrives and electronic at reichelt
+- **描述**：Purchase over 150,000 technology & electronics products online at reichelt.com . Fast delivery & reasonable prices - reichelt elektronik - technology connects.
+- **首页栏目**：Catalog / Newsletter / Made for professionals / Durable and energy-efficient solutions / See clearly, work safely: / Nilko / The heart of every efficient NAS environment / Approved Reseller
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 2、automation 1、fibre 1、camera 1
+- **站内出现的品牌**：Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PT-E560BTSP
+- **站内公开邮箱**：info@reichelt.de, webmaster@reichelt.de
+- **社媒**：https://www.facebook.com/reichelt.co
+- **产品类页面**：https://www.reichelt.com/de/en/shop/manufacturer/A；https://www.reichelt.com/de/en/shop/manufacturer/B；https://www.reichelt.com/de/en/shop/manufacturer/C；https://www.reichelt.com/de/en/shop/manufacturer/D；https://www.reichelt.com/de/en/shop/manufacturer/E；https://www.reichelt.com/de/en/shop/manufacturer/F
+- 首页正文摘录：Please choose your location: Austria France Germany Ireland Italy Netherlands Poland Spain Switzerland -------------------------- Albania American Samoa Amerikanisch-Ozeanien Andorra Antarctica Antigua and Barbuda Argentina Aruba Australia Australisch-Ozeanien Austria Bahamas Bahrain Bangladesh Barbados Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Botswana Bouvet Island Brazil British Indian Oc
+- 数据文件：`data/saga_clients/site_snapshots/SB-557.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

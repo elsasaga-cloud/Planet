@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 23 次（2024-04-30 → 2025-10-27）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-536.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.highlink.co.kr/　语言：ko　站点地图 URL 数：79
+- **标题**：산업용무선 / 하이링크 / 대한민국
+- **描述**：하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다. 건물 층간 및 건물과 건물, 각종 설비 사이의 안정적인 네트워크 구성을 위해 고품질 광접속, 접속 후 품질 검사, 정보통신공사 서비스를 제공합니다. 또한 우수한 백본 광 네트워크를 기반으로 편리하고 빠른 네트워크를 구성할 수 있도록 고속 케이블 자재 및 유무선 네트워크 장치, 소방/조명/시설관리를 위한 제어 전송 장치를 제공합니다.
+- **首页栏目**：Best Products / ​모델명 : DIVA-IAP-AX / ​동작모드 : Access Point, Client, 802.11s Mesh / 무선 규격 : IEEE802.11a/b/g/n/ac/ax WiFi / 유선랜 인터페이스 : 기가비트 이더넷 2포트 / 입력 전원 : IEEE802.3at/af PoE, 12/24V DC / 35mm 딘레일, 벽면 장착 ​​ ​ ​​ / ​모델명 : DIVA-AXP
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 49、wifi 17、sfp 9、ethernet 7、10g 5、cctv 4
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, RS232, DIVA-120AC-P, DIVA-WRM2, RS422, DIVA-IS0508K, DIVA-IS0516K, DIVA-IS0505K, DIVA-RIO-DI4DO4, DIVA-IO-DI4DO4, DIVA-IS0503S, DIVA-IS0505S
+- **站内公开邮箱**：support@highlink.co.kr
+- **产品类页面**：https://www.highlink.co.kr/switch-poe；https://www.highlink.co.kr/switch-industrial-managed；https://www.highlink.co.kr/switch-industrial-unmanaged；https://www.highlink.co.kr/switch；https://www.highlink.co.kr/diva-ipoei；https://www.highlink.co.kr/switch-enterprise-managed
+- **已抓子页**：[산업용 이더넷 스위치 / DIVA-IS0503S / DIVA-IS0505S / DIVA-IS0505 / DI](https://www.highlink.co.kr/switch-industrial-unmanaged)；[DIVA-IPoEI / 산업용 PoE 인젝터 / 하이링크 / 12/24V DC PoE 컨버터 / PoE 리피](https://www.highlink.co.kr/diva-ipoei)；[DIVA-WRM2 / DIVA-WRM / 무선랜 로밍/핸드오프 클라이언트 / AGV / RGV / OHT /](https://www.highlink.co.kr/products-wifi-divawrm)；[하이링크 / 산업용 이더넷 / 디바 네트웍스 / DIVA Networks / 무선랜 AP / 로밍 핸드오프 ](https://www.highlink.co.kr/solutionguide/ethernet)；[DIVA-IAP-AX & DIVA-IAP-AC / 산업용 이중 무선랜 / 하이링크 / 공장자동화 무선 / 무](https://www.highlink.co.kr/products-wifi-diva120aci)；[DIVA-AXP & DIVA-120AC-P / 지향성 안테나 일체형 장거리 무선 솔루션 / 하이링크 / 이중](https://www.highlink.co.kr/products-wifi-diva120acp)
+- 首页正文摘录：top of page 솔루션 제품 네트워크 구성 견적/기술 문의 회사소개 더보기 Use tab to navigate through the menu items. ​ 산업용 유무선 네트워크 전문 기업 하이링크 주식회사 하이링크는 지속적 제품 개발과 생산, 분야별 전문가 파트너 협력 ​안정적인 고객지원으로 유무선 네트워크 융합을 선도합니다. 1/5 산업용 무선 유선랜 네트워크 시리얼 통신 I/O 데이터 산업용 USB 고객 맞춤 펌웨어 개발 Best Products 산업용 이중 무선랜 AP / CPE ​모델명 : DIVA-IAP-AX ​동작모드 : Access Point, Client, 802.11s Mesh 무선 규격 : IEEE802.11a/b/g/n/ac/ax WiFi 유선랜 인터페이스 : 기가비트 이더넷 2포트 입력 전원 : IEEE802.3
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 49、监控 4 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-536.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,7 +192,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

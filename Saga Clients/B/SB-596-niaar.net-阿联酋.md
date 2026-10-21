@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）；最近一次客户回复：2024-01-13：暂时没需求
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-596.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://niaar.net/　语言：en-US　站点地图 URL 数：407
+- **标题**：Industrial Procurement and Supply Solutions / Niaar
+- **描述**：NIAAR connects industrial buyers with trusted brands and suppliers across energy, manufacturing, infrastructure, marine and technology sectors.
+- **首页栏目**：Sourced for Performance. Trusted for Uptime. / Vision & Missions / The natural partner / Navigating complexity / Unlocking potential / Your choice regarding cookies on this site / Privacy Settings / Essential
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 155、automation 58、switch 19、cable 14、telecom 10、access control 5、scada 4、cisco 4、hikvision 4、dahua 4、fiber 3、ethernet 3
+- **站内出现的品牌**：Advantech, Schneider　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ISO9001
+- **站内公开邮箱**：info@niaar.net, pouriya@niaar.net
+- **站内公开电话**：+97142540929, +971508580255
+- **社媒**：https://wa.me/971508580255, https://www.facebook.com/Niaar.General.Trading.LLC/, https://www.linkedin.com/company/niaar/, https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fniaar.net%2Fbrand%2Fabb%2F, https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fniaar.net%2Fbrand%2Fdow%2F
+- **产品类页面**：https://niaar.net/product/industrial-adhesives-sealants/；https://niaar.net/product/switching-power-supplies-smps/；https://niaar.net/product/industrial-batteries-vrla-li-ion-ups-power-backup/；https://niaar.net/product/ro-membranes-industrial-reverse-osmosis-water-treatment/；https://niaar.net/2025/08/25/driving-industrial-excellence-with-advanced-machinery/；https://niaar.net/2025/07/23/empowering-industrial-growth-through-petrochemical-solutions/
+- **已抓子页**：[Industrial Products and Equipment / Niaar](https://niaar.net/products/?product_category=it-communication-networking-equipment)；[Partners Archive - Niaar](https://niaar.net/partners/)；[ABB products for electrification & automation / Niaar](https://niaar.net/brand/abb/)；[Dow products industrial sourcing / Niaar Dubai, UAE](https://niaar.net/brand/dow/)；[About Us - Niaar](https://niaar.net/why-niaar/)；[Contact Our Industrial Procurement Team / Niaar](https://niaar.net/contact-us/)
+- 首页正文摘录：Home Products Industries Brands Logistics Blog Contact us Home Products Industries Brands Logistics Blog Contact us Home Products Industries Brands Logistics Blog Contact us Office 109, Al wasl Building, Al Wasl, Sheikh Zayed Road, Dubai , United Arab Emirates info [at] niaar [dot] net Sourced for Performance. Trusted for Uptime. Niaar connects EPC contractors and engineering teams across Middle East with high-spec i
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 164、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-596.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +182,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

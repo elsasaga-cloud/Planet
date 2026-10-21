@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 19 次（2024-05-01 → 2025-10-27）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-308.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://edge-networks.us/　语言：en-gb　站点地图 URL 数：0
+- **标题**：Home
+- **描述**：Edge Networks CMS
+- **首页栏目**：Edge Networks / MARKETS / Security / Transport / Automation / Government / INDUSTRIAL NETWORKING SOLUTIONS / Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 38、fiber 34、switch 25、poe 23、media converter 18、automation 16、sfp 11、cable 9、10g 8、gigabit 7、industrial 5、scada 1
+- **站内型号串**（正则抽取，含非交换机）：GEMS2-8T, GEMUS-2T, GEMS2-16T, GEMS2-24T, GEUS-5T, SFP-FS2L-1313-20, SFP-GS2L-1313-20, SFP-XS2L-1313-10, PS24-18W, PS48-30W, PS48-60W, PS48-100W
+- **社媒**：https://twitter.com/, https://www.facebook.com/, https://www.linkedin.com/
+- **已抓子页**：[Ethernet Switches](https://edge-networks.us/index.php/products/ethernet-switches)；[Fiber Modems](https://edge-networks.us/index.php/products/fiber-modems)；[Products](https://edge-networks.us/index.php/products)；[Extenders](https://edge-networks.us/index.php/products/extenders)；[Accessories](https://edge-networks.us/index.php/products/accessories)；[Custom Products](https://edge-networks.us/index.php/products/custom-products)
+- 首页正文摘录：Products Ethernet Switches Media Converters Extenders Fiber Modems Custom Products Accessories Applications Security Transport Automation Government Support Sales Technical Customer Care Downloads About Us News and Events Our Story Login Products Ethernet Switches Media Converters Extenders Fiber Modems Custom Products Accessories Applications Security Transport Automation Government Support Sales Technical Customer 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 11、PoE 23 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-308.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

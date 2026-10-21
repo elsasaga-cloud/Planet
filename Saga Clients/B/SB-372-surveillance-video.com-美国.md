@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-07-23 → 2025-10-31）
 - **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-372.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.surveillance-video.com/　语言：en　站点地图 URL 数：682
+- **标题**：Home Security Cameras & Security Camera Systems
+- **描述**：Shop professional grade security cameras and surveillance systems at the lowest prices. Fast shipping & lifetime technical support with all purchases.
+- **首页栏目**：Top Rated Security Cameras & Surveillance Equipment / Shop Surveillance Categories / Surveillance Systems / Security Cameras / Smart Home / Networking / Monitors / Accessories
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 355、surveillance 87、poe 86、switch 75、cctv 37、access control 34、wireless 31、fiber 17、hikvision 16、automation 15、nvr 15、tp-link 15
+- **站内出现的品牌**：TRENDnet, TP-Link, ComNet, Intellinet, Bosch, Cisco, Dahua, Aruba, Axis, Vivotek, Hanwha　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：POE16ATN-EU, PD9601G-AC, POE1236-ATUS, POE1AT-EU, AP-GIC-010A-030, NETWAY16MV, SW08PE, EC-4BY1SWCPOE-W, SG3218XP-M2, TEG-7124WS, TI-UPG62, TI-PG541
+- **已抓子页**：[PoE Products - Power](https://www.surveillance-video.com/poe-products/)；[Top Rated Network Switches at the Guaranteed Lowest Price On](https://www.surveillance-video.com/network-switches/)；[Dimmers & Switches - Home Automation](https://www.surveillance-video.com/dimmers-switches/)；[Best Home Security Products at the Best Prices](https://www.surveillance-video.com/security-products/)；[Surveillance Power Products - Power](https://www.surveillance-video.com/surveillance-power-products/)；[Access Control Power products - Power](https://www.surveillance-video.com/access-control-power-products/)
+- 首页正文摘录：*Free Shipping on Orders Over $450 FREEUPS 800-955-5201 Toggle Nav Cart 0 Shopping Cart Search Search Advanced Search Search 800-955-5201 My Quotes Chat My Account My Account My Wishlist My Quote Log Out Log In Menu Complete Systems 4 Camera Systems 8 Camera Systems 16 Camera Systems 32 Camera Systems 64 Camera Systems 128 Camera Systems Cameras Bullet Cameras Dome Cameras Box Cameras PTZ Security Cameras License Pla
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 11、PoE 86 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-372.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +181,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

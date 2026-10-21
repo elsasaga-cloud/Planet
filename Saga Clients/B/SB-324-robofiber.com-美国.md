@@ -22,7 +22,7 @@ last_contact: 2025-10-28
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-28）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-324.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://robofiber.com/　语言：en　站点地图 URL 数：0
+- **标题**：ROBOfiber, Inc. - Your complete store for optical transceivers and hardened industrial Ethernet networking devices
+- **描述**：ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet, SONET and Fibre Channel
+- **首页栏目**：Main Menu / Shop By Category / Shop By Brand / Shop by Category / Shop by Brand / Featured Products / Current Top Sellers / New Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 715、sfp 511、switch 268、ethernet 218、gigabit 171、poe 156、10g 147、industrial 140、cable 134、media converter 32、2.5g 19、automation 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, HC-1002-SFP-PSE-BT, HGW-401S-PSE, HGW-2402A-PSE, HC-1002-SFP-PSE, HGW-802S-PSE, HGW-402LM-PSE, HGW-802SM-BT, H10-804SM-PSE, HGW-804SM-PSE, HGW-802SM-SER-PSE
+- **站内公开电话**：000-85 1000
+- **已抓子页**：[Fiber Networking - Industrial Ethernet - PoE Industrial Swit](https://robofiber.com/poe-industrial-switches/)；[Fiber Switches - Ethernet networking switches, commercial gr](https://robofiber.com/fiber-switches/)；[Industrial grade hardened Ethernet equipment for harsh envir](https://robofiber.com/industrial-ethernet/)；[About ROBOfiber](https://robofiber.com/about-robofiber/)；[ROBOfiber Products - ROBOfiber, Inc.](https://robofiber.com/brands/robofiber)；[Fiber Networking - Fiber Media Converters and Fiber Ethernet](https://robofiber.com/fiber-networking/)
+- 首页正文摘录：Toggle menu Toll-free: 888-27-FIBER * We're open 9-5 Pacific Time, Monday to Friday Login or Sign Up 0 Search × Search × Main Menu Store About ROBOfiber Contact Us Product Chart Source Customer Service Payment methods Privacy & Security Returns Shipping Government and Education Reseller Program Shop By Category 400G QSFP-DD 100G QSFP28 40G QSFP+ 25G SFP28 10G SFP+ Dual Fiber Bi-Directional CWDM DWDM Copper 10G XFP Du
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 141、PoE 156 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-324.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

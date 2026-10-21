@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-04-17：pls me the price for 8 16 & 24
 - **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -92,6 +92,15 @@ updated: 2026-10-21
 - **风险/边界**：黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）；官网为 2011 年老站，公司活跃度以 FB/WA 为准
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）
 - **邮件切入句（英文）**：You asked for prices on 8-, 16- and 24-port PoE switches for your CCTV/access-control installs — I can send all three on one USD EXW sheet today; roughly how many sites a month do you equip?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：technotower-lb.com
+  > https://technotower-lb.com/ conn: HTTPSConnectionPool(host='technotower-lb.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(
+  > https://www.technotower-lb.com/ conn: HTTPSConnectionPool(host='www.technotower-lb.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEr
+  > http://technotower-lb.com/ http 401 ct=text/html
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SB-281.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -195,6 +204,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

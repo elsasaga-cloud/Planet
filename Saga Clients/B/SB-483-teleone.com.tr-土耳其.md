@@ -22,7 +22,7 @@ last_contact: 2025-10-24
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -72,6 +72,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-483.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.teleone.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：Teleone: Think bigger, make better – Video Surveillance Solution Provider
+- **描述**：Think bigger, make better
+- **首页栏目**：Termal Kamera ile Hassas Vücut Isısı Ölçüm Çözümleri. / Müşteri Öyküleri / Referanslarımız
+- **站内公开邮箱**：info@teleone.com.tr
+- **社媒**：https://www.facebook.com/profile.php?id=493325330772788&ref=br_rs, https://www.instagram.com/
+- **已抓子页**：[Hakkımızda – Teleone: Think bigger, make better](https://www.teleone.com.tr/hakkimizda/)；[Devlet Malzeme Ofisi IP Kamera Sistemi – Teleone: Think bigg](https://www.teleone.com.tr/urun-tedarik-talebi/)；[İletişim – Teleone: Think bigger, make better](https://www.teleone.com.tr/iletisim/)
+- 首页正文摘录：0850 221 95 95 info@teleone.com.tr Anasayfa Kurumsal Hakkımızda Yol Haritası Kalite Anlayışımız Çözüm Ortaklarımız Çözümlerimiz Ürünlerimiz Paylaşımlar Haberler Duyurular İ.K. İletişim BAYİ GİRİŞİ Termal Kamera ile Hassas Vücut Isısı Ölçüm Çözümleri. Hassas Vücut Isısı Ölçme Teleone, Sunell termal kamera ile vücut ısısı ölçüm çözümleri, tüm rakiplerine göre medikal hassasiyette ölçüm yaparak güvenli tedbir imkanı sağ
+- 数据文件：`data/saga_clients/site_snapshots/SB-483.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,7 +173,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

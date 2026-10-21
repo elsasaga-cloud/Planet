@@ -22,7 +22,7 @@ last_contact: unknown
 p1: none
 price_tier: 25%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-453.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.novytel.cz/　语言：en-GB　站点地图 URL 数：0
+- **标题**：Novy Teleсom / Supply of machinery from Asia and China
+- **描述**：Novy Teleсom. We specialize in supplying a variety of products including industrial machinery, automotive parts, consumer goods, electronics, and more.
+- **首页栏目**：Novy Telecom / Supply of machinery from Asia and China / EXPORT / IMPORT / TRADE SERVICES / International deals / 8+ / 750+ / 24 / Low cost of production
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 28、oem 6、odm 6、industrial 1
+- **站内公开邮箱**：info@novytel.cz
+- **已抓子页**：[Novy Telecom / Your business partner / About our company](https://www.novytel.cz/about-our-company/)；[Map of Products / Novy Telecom](https://www.novytel.cz/map-of-products/)；[Contact / Novy Telecom](https://www.novytel.cz/our-contacts/)；[Novy Telecom / Our Services](https://www.novytel.cz/our-services/)
+- 首页正文摘录：Skip to content Novy Telecom Home About Our Services Map of Products Contact EN Menu Toggle EN CZ En / Cz Main Menu Supply of machinery from Asia and China EXPORT / IMPORT / TRADE SERVICES our services map of products We are ready to be your reliable partner in sourcing and supplying products from Asia and China. Novy Telecom International deals Our company provides a wide range of products from Asia and China, meeti
+- 数据文件：`data/saga_clients/site_snapshots/SB-453.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +150,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

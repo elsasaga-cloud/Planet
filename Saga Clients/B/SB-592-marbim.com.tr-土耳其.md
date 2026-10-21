@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-114GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-114GP — 深挖对位：默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）；$16.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -79,6 +79,15 @@ updated: 2026-10-21
 - **风险/边界**：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进
 - **Saga 对位结论**：P1 STC-114GP（25% 档）——默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）
 - **邮件切入句（英文）**：Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+
+- 尝试域名：marbim.com.tr
+  > https://marbim.com.tr/ http 403 ct=text/html
+  > https://www.marbim.com.tr/ http 403 ct=text/html
+  > http://marbim.com.tr/ http 403 ct=text/html
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SB-592.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,6 +170,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-436.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.maxlink.cz/cs/　语言：cs　站点地图 URL 数：1000
+- **标题**：MaxLink - výrobce síťových prvků a příslušenství
+- **描述**：Výrobce síťových prvků a příslušenství. Do našich produktů patří WiFi antény, Pigtaily, PoE injektory, PoE panely, SFP moduly a další.
+- **首页栏目**：MaxLink - výrobce síťových prvků a příslušenství / Nové produkty / MaxLink SFP+ 1/2.5/5/10G metalický modul, RJ-45, 30m, 10Gbps, H3C / MaxLink 10G SFP+ optický modul, SM, 1310nm, 40km, 2x LC konektor, DDM / Proč MaxLink / Široký sortiment a vysoká kvalita produktů / Nízká cena / Celosvětová nákupní síť
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 159、sfp 54、10g 44、switch 23、gigabit 17、wifi 12、2.5g 8、cisco 8、ethernet 2、distributor 2
+- **站内出现的品牌**：H3C, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ML-SFP-RJ45-10G-H3C, IIS01, AFA-1, RJ-45, MAXPI60-10G, POE-BOX1-G, MAXPI30, ML-S5531-20-HPE, ML-S3155-20-HPE, ML-S31D-20-HPE, POESG-8-7P, POE-BOX8-G
+- **产品类页面**：http://www.maxlink.cz/cs/poe-switche-13831782/category；http://www.maxlink.cz/en/poe-switches-13831782/category；http://www.maxlink.cz/en/poe-panels-13831770/category；http://www.maxlink.cz/cs/poe-panely-13831770/category；http://www.maxlink.cz/en/power-and-poe-13831768/category；http://www.maxlink.cz/en/poe-injectors-13831761/category
+- **已抓子页**：[PoE Switche / MaxLink](https://www.maxlink.cz/cs/poe-switche-13831782/category)；[Kontakt / MaxLink](https://www.maxlink.cz/cs/contact)；[PoE Panely / MaxLink](https://www.maxlink.cz/cs/poe-panely-13831770/category)；[PoE Injektory / MaxLink](https://www.maxlink.cz/cs/poe-injektory-13831761/category)；[Napájení a PoE / MaxLink](https://www.maxlink.cz/cs/napajeni-a-poe-13831768/category)；[MaxLink SFP+ 1/2.5/5/10G metalický modul, RJ-45, 30m, 10Gbps](https://www.maxlink.cz/cs/maxlink-sfpplus-125510g-metalicky-modul-rj-45-30m-10gbps-h3c-130610/product)
+- 首页正文摘录：MaxLink - výrobce síťových prvků a příslušenství EN CZ Domů Kontakt O nás Kde nakoupit Kategorie produktů WiFi Antény Všesměrové antény Směrové antény Anténní držáky Optické sítě SFP Moduly SFP+ Moduly DAC Kabely Napájení a PoE Baterie PoE Switche PoE Panely PoE Injektory Napájecí kabely a redukce Přepěťové Ochrany VF kabely a příslušenství Pigtaily pro miniPCI Venkovní pigtaily RF spojky RF konektory Montážní Krabic
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 52、交换机 23 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-436.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-06-12
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-06-12 → 2025-06-12）；最近一次客户回复：2025-06-12：有啥事?
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-265.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://intellcom.net/　语言：ka　站点地图 URL 数：2351
+- **标题**：ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
+- **首页栏目**：ენერგო უზრუნველყოფა / უსაფრთხოების სისტემები / LAN & WAN / ოპტიკური ქსელი / აუდიო ვიდეო / მონაცემთა შენახვა / ახალი პროდუქტები / საინფორმაციო ბლოკი
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 816、switch 94、ubiquiti 82、uniview 44、mikrotik 42、wifi 34、sfp 29、nvr 14、ethernet 12、gigabit 6、hikvision 2
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IG000000437, IG000000436, IG000000442, CSS610-8P-2S, IG000000508, XG-8, XG-24, XG-48, SWM282, NS-0318P-130, NS-0326P-230, IG000000412
+- **站内公开邮箱**：sale@intellcom.net
+- **站内公开电话**：+995 32 2 98 98 49, 00396 18.75, 00397 100.84, 00404 10.24, 00520 32.50, 00521 67.58
+- **产品类页面**：https://intellcom.net/en/catalog/20/Batteries/；https://intellcom.net/ka/catalog/26/On-Line-UPS/；https://intellcom.net/en/catalog/26/On-Line-UPS/；https://intellcom.net/en/catalog/29/Modular-UPS/；https://intellcom.net/en/catalog/9/Energy-Supply/；https://intellcom.net/ka/catalog/15/მზის-ენერგია/
+- **已抓子页**：[PoE კვება](https://intellcom.net/ka/catalog/44/PoE-კვება/)；[PoE კვება](https://intellcom.net/ka/catalog/152/PoE-კვება/)；[მართვადი PoE სვიჩები](https://intellcom.net/ka/catalog/156/მართვადი-PoE-სვიჩები/)；[მართვადი PoE სვიჩები](https://intellcom.net/ka/catalog/128/მართვადი-PoE-სვიჩები/)；[არამართვადი PoE სვიჩები](https://intellcom.net/ka/catalog/148/არამართვადი-PoE-სვიჩები/)；[არამართვადი PoE სვიჩები](https://intellcom.net/ka/catalog/130/არამართვადი-PoE-სვიჩები/)
+- 首页正文摘录：მომხმარებელი არ არის ვერიფიცირებული ვერიფიკაცია კომპანია სერვისები პირობები ზოგადი პირობები მიწოდების პირობები გადახდის პირობები საგარანტიო მომსახურების პირობები კონფიდენციალურობის პოლიტიკა დაბრუნების პოლიტიკა ვაკანსია 3 ტრენინგები ვებინარები 1 კონტაქტი ქარ ქართული ENGLISH შესვლა / რეგისტრაცია ენერგო უზრუნველყოფა მზის ენერგია მზის პანელები On-Grid ინვერტორები Off-Grid ინვერტორები ჰიბრიდული ინვერტორები MPPT კონტროლერე
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 816、监控 14 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-265.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -142,7 +158,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-593.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.matrix.es/　语言：es-ES　站点地图 URL 数：1287
+- **标题**：MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos
+- **描述**：Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.
+- **首页栏目**：Entremos juntos en la historia de la innovación. / Wireless IoT / Networking Industrial / Embedded Computing / Antenas y cables / Sensores / Fuentes de Alimentación / Iluminación LED
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 96、cable 40、wireless 31、switch 14、wifi 9、ethernet 3、poe 1
+- **站内型号串**（正则抽取，含非交换机）：LTE-4G, RS485, RS232
+- **站内公开电话**：+33 1 39 04 29 40, +34.91.560.27.37, +351 218 162 625, +91 11 4151 9011
+- **社媒**：https://www.linkedin.com/company/matrix-electronica
+- **产品类页面**：https://www.matrix.es/novedades-y-formacion/ultimas-novedades/matrix-electronica-se-complace-en-anunciar-su-ac…；https://www.matrix.es/panel-pcs-monitores-y-tablets-industriales；https://www.matrix.es/en/news-and-seminars/tarjetas-sd-industriales-de-atp；https://www.matrix.es/networking-industrial/modulo-conversor-serie-ethernet-xport2；https://www.matrix.es/novedades/que-es-edge-ai-guia-de-hardware-para-ia-industrial；https://www.matrix.es/en/news-and-seminars/what-is-edge-ai-hardware-guide-industrial
+- **已抓子页**：[Switches Industriales - Networking Industrial - MATRIX elect](https://www.matrix.es/networking-industrial/switches-industriales)；[Networking Industrial - MATRIX electrónica Industrial Networ](https://www.matrix.es/networking-industrial)；[Conversores de Serie - Networking Industrial - MATRIX electr](https://www.matrix.es/networking-industrial/conversores-de-serie)；[Servidores de Tiempo - Networking Industrial - MATRIX electr](https://www.matrix.es/networking-industrial/servidores-de-tiempo)；[Otros productos y componentes electrónicos - MATRIX electrón](https://www.matrix.es/otros-productos-y-componentes-electronicos)；[Relés - MATRIX electrónica](https://www.matrix.es/otros-productos-y-componentes-electronicos/reles)
+- 首页正文摘录：LinkedIn RMA Español Español es English Inglés en 0 Carrito de Compra Inicio Productos Wireless IoT Routers IoT Módems IoT Gateways IoT Celular / GSM Bluetooth GPS LoRa/Sigfox WiFi Wireless M-Bus Energía Solar Metering Networking Industrial Switches Industriales Conversores de Serie Dispositivos de Entradas y Salidas Servidores de Tiempo Embedded Computing Módulos industriales Industrial SBCs Industrial PCs Panel PCs
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 96、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-593.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +154,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

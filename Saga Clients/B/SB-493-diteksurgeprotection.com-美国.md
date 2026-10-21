@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-493.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.diteksurgeprotection.com/　语言：en-US　站点地图 URL 数：357
+- **标题**：DITEK Surge Protection - Home
+- **描述**：DITEK Surge Protection is your first line of defense for sensitive electrical and electronic systems in every commercial, industrial and residential application.
+- **首页栏目**：SURGE PROTECTION IS YOUR FIRST LINE OF DEFENSE. / Featured Products / RESOURCES / RECENT POSTS / Read all Blog Posts >
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 43、industrial 39、switch 32、ethernet 16、cctv 16、access control 16、distributor 15、gigabit 14、telecom 14、cable 5、sfp 4、surveillance 2
+- **站内型号串**（正则抽取，含非交换机）：MRJ45, DTK-120X12, DTK-KG2, DTK-SW24PL, DTK-SW16PL, DTK-SW5PT, DTK-SW8P, DTK-SW8PL
+- **社媒**：https://twitter.com/ditekcorp, https://www.facebook.com/diteksurgeprotection/, https://www.instagram.com/ditekcorp/, https://www.linkedin.com/company/ditek-corp/, https://www.youtube.com/@ditek1773
+- **产品类页面**：https://www.diteksurgeprotection.com/resources/whitepapers/wp-industrial-surge-protection/；https://www.diteksurgeprotection.com/solutions/automatic-transfer-switches-need-surge-protection/；https://www.diteksurgeprotection.com/solutions/protect-poe-devices-from-power-surges-and-other-disruptions/；https://www.diteksurgeprotection.com/beware-of-counterfeit-surge-protection-products-avoiding-fake-products-in…；https://www.diteksurgeprotection.com/products/；https://www.diteksurgeprotection.com/products/dtk-2mb/
+- **已抓子页**：[PoE Switches - DITEK Surge Protection](https://www.diteksurgeprotection.com/product-series/poe-switches/)；[Industrial Control Panel Protection - DITEK Surge Protection](https://www.diteksurgeprotection.com/product-categories/industrial-control-panel-protection/)；[Industrial & Commercial Power Protection - DITEK Surge Prote](https://www.diteksurgeprotection.com/product-categories/industrial-commercial-power-protection/)；[DITEK Networks - DITEK Surge Protection](https://www.diteksurgeprotection.com/product-categories/ditek_networks/)；[Network Protection - DITEK Surge Protection](https://www.diteksurgeprotection.com/product-categories/network-protection/)；[Analog CCTV Protection - DITEK Surge Protection](https://www.diteksurgeprotection.com/product-categories/analog-cctv-protection/)
+- 首页正文摘录：Skip to content Search for: About DITEK Credentials Leadership Team How to Buy Distributors Training Testimonials Career Opportunities Solutions Solutions by Application Protecting HVAC Systems Protecting Electrical Systems Protecting Security Systems Solutions by Market Case Studies Products **Product Selector Tool** Industrial & Commercial Power Protection 120S Series CM-CMX Plus Series D100 Series D150X Series D20
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 39、PoE 43 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-493.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +151,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

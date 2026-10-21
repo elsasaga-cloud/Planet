@@ -1,0 +1,111 @@
+{
+ "code": "SB-978",
+ "name_official": "Futurist (Pvt) Ltd.",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（futurist.com.pk；快照未覆盖）",
+ "summary": "伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "公司信息：伊斯兰堡 I-10/4，2011 年，管理人 Aqeel Abbas / Tajamal Ishaq，关联 Yokogawa / OPNET / Furukawa",
+   "quote": "Futurist (Pvt) Ltd. 524, Main Double Road, Street 19, I-10/4, Islamabad… Managed By: Mr. Aqeel Abbas Mr. Tajamal Ishaq… Y.O.E: 2011… Affiliations: Yokogawa Electric Corporation OPNET Technologies Co. Ltd. Furukawa Electric Group",
+   "url": "https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "经营范围：网络承包、光缆、通信设备批发、CCTV、UPS、测试仪器",
+   "quote": "dealing in Computer Networking Contractors, Computer Networks Equipment Dealers & Distributors, Optical Fiber Cables… Telecommunication Equipment & Supplies Wholesale Dealers… CCTv Equipment",
+   "url": "https://www.lookup.pk/company/112444-Futurist-Pvt-Ltd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "海关",
+   "claim": "进口商：128 票 / 47 家供应商（中国、美国）",
+   "quote": "Futurist Pvt Limited Pakistan is an importer with 128 import shipments from 47 suppliers… China, and United States",
+   "url": "https://www.volza.com/company-profile/futurist-pvt-limited-30979764/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "CEO Aqeel Abbas（2011 至今，前 Zong）",
+   "quote": "2011 - now CEO @ FUTURIST (Pvt) Ltd; 2007 - 2011 Manager NPS @ ZonG",
+   "url": "https://rocketreach.co/aqeel-abbas-email_44568110",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "回复链：2 光 8 管理 PoE 出货图→问价；工业电源→「可以搭配工业交换机」；2 光 4 小壳→price；mini 工业机→will check；4/8 口工业 PoE→发来竞品图（疑天博通信）",
+   "quote": "发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Tajamal Ishaq",
+   "title": "Manager（表内联系人）",
+   "email": "tajamal@futurist.com.pk",
+   "phone": "+92 333 519 9946",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Aqeel Abbas",
+   "title": "CEO",
+   "email": "",
+   "phone": "",
+   "source": "https://rocketreach.co/aqeel-abbas-email_44568110"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名录 + 海关核对）"
+ },
+ "company_facts": {
+  "legal_name": "Futurist (Pvt) Ltd.",
+  "founded": "2011",
+  "hq": "524 Main Double Road, I-10/4, Islamabad, Pakistan",
+  "size": "小型（名录无人数；进口 128 票）",
+  "other": "info@futurist.com.pk；座机 +92-51-4446394"
+ },
+ "business_lines": [
+  "网络 / 光纤工程承包",
+  "通信与测试设备进口经销（Yokogawa、Furukawa 关联）",
+  "CCTV / UPS / 太阳能供应"
+ ],
+ "products_seen": [
+  {
+   "brand": "（竞品）",
+   "model": "4/8 口工业 PoE（客户回发图，疑天博通信）",
+   "spec": "工业 PoE 交换机",
+   "saga": "Saga STI-288GP / STI-144GP 同口型",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "进口经销 + 工程承包",
+  "region": "巴基斯坦（伊斯兰堡）"
+ },
+ "signals": [
+  "多轮问价（2 光 8 管理 PoE、2 光 4、mini 工业）",
+  "有在比价的工业 PoE 竞品（天博通信）",
+  "是 Volza 可查的活跃进口商"
+ ],
+ "risks": [
+  "比价型客户，目标价偏低概率高",
+  "光猫 / ONU 需求 Saga 无（Q-32 外，PON 不做）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。"
+ },
+ "email_hook": "Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day."
+}

@@ -22,7 +22,7 @@ last_contact: 2025-10-01
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 4 次（2025-02-22 → 2025-10-01）；最近一次客户回复：2025-05-28：嫌价格高
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-262.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.compuspare.co.za/　语言：en-US　站点地图 URL 数：1434
+- **标题**：Home Page / CompuSpare
+- **描述**：SA's Supplier of choice for New and Pre-loved Servers, Laptops, Desktops, Pos And More
+- **首页栏目**：Servers / Desktop Pc's / Notebooks / Printers / Point Of Sale ( POS ) / Desktop PC's / POS (Point of Sale) / AIO (All-in-One) Pc's
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 20、ethernet 14、sfp 11、cisco 10、gigabit 9、10g 8、cable 6、fiber 5、poe 2、media converter 1、wifi 1、data center 1
+- **站内出现的品牌**：Cisco, Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RAL9005, DL380, S5148F-ON, SFP28, QSFP28, SX6015, DDR4-2400, DL180, DL388, DL580, DL360, DL560
+- **站内公开邮箱**：imran.ayob@compuspare.co.za, sales@compuspare.co.za
+- **站内公开电话**：+27 060 732 1321, +27 082 356 0000, +27 083 775 3602, +27 11 314 4969, +27 82 356 000, +27 83 775 3602
+- **社媒**：https://twitter.com/CompuSpare, https://wa.me/message/VT7RD6IKRDAVK1, https://www.facebook.com/Compuspare
+- **产品类页面**：https://www.compuspare.co.za/shop/category/it-products-1；https://www.compuspare.co.za/shop/category/it-products-cabling-18；https://www.compuspare.co.za/shop/category/it-products-appliances-3；https://www.compuspare.co.za/shop/category/it-products-add-on-cards-4；https://www.compuspare.co.za/shop/category/it-products-functional-browse-37；https://www.compuspare.co.za/shop/category/it-products-appliances-enterprise-servers-7
+- **已抓子页**：[Shop / CompuSpare](https://www.compuspare.co.za/shop/category/network-switches-and-routers-2701)；[Shop / CompuSpare](https://www.compuspare.co.za/shop/category/power-solutions-2710)；[Contact Us / CompuSpare](https://www.compuspare.co.za/contactus)；[Servers / Desktop Pc's / Notebooks / POS / Switches / Veeam](https://www.compuspare.co.za/shop)；[Shop / CompuSpare](https://www.compuspare.co.za/shop/category/servers-2687)；[Shop / CompuSpare](https://www.compuspare.co.za/shop/category/desktops-2688)
+- 首页正文摘录：Contact us Help Products Computers & Devices Laptops Desktop computers Components Servers Printers Monitors Televisions Office screens Projectors Electronics Power Solutions GPS & navigation Accessories Home audio Office audio Promotions All Promotions Server Specials Laptop & Desktop Specials Networks Servers Laptops 0 0 +27 82 356 000 Sign in Contact Us 0 0 Contact us Help Products Servers Laptops +27 82 356 000 Si
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 8、交换机 20 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-262.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,7 +162,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

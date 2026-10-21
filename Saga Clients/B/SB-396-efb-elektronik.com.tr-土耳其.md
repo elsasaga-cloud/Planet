@@ -22,7 +22,7 @@ last_contact: 2025-09-25
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-09-25 → 2025-09-25）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -56,6 +56,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-396.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.efb-elektronik.com.tr/　语言：tr-TR　站点地图 URL 数：48
+- **标题**：EFB-Elektronik Türkiye - We care for connection
+- **描述**：EFB-Elektronik network ve güvenlik teknolojileriyle birlikte endüstriyel sistem çözümlerinde önde gelen bir imalatçı ve sistem sağlayıcıdır.
+- **首页栏目**：EFB-Elektronik Türkiye / İletim Ağı Teknolojileri Kataloğu 2026/27 / Güvenlik Çözümleri: Uygulamalar ve referanslar / We care for connection since 1988 / Neuheiten / Angebote / Produkte / Downloads
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 48、ethernet 37、fiber 29、ftth 7、sfp 5、fibre 1、gigabit 1、10g 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：QSFP28
+- **站内公开邮箱**：info@efb-elektronik.com.tr, info@efb-elektronik.de
+- **站内公开电话**：+90 212 222 92 50
+- **社媒**：https://tr.linkedin.com/company/efb-elektronik-turkiye, https://www.facebook.com/EFB-Elektronik-Ltd%C5%9Eti-T%C3%BCrkiye-980478345310387/, https://www.youtube.com/channel/UCtFNGfz_2KI7nlFZycox4Uw
+- **产品类页面**：https://www.efb-elektronik.com.tr/coezuemler/remote-powering/poe；https://www.efb-elektronik.com.tr/katalogu；https://www.efb-elektronik.com.tr/hizmetler/indirilebilir/kataloglar
+- **已抓子页**：[PoE Ethernet Üzerinden Güç Aktarımı](https://www.efb-elektronik.com.tr/coezuemler/remote-powering/poe)；[EFB-Elektronik Türkiye](https://www.efb-elektronik.com.tr/hakkimizda)；[Endüstri için kablo montajı / EFB-Elektronik](https://www.efb-elektronik.com.tr/coezuemler/enduestriyel)；[Ağ Çözümleri](https://www.efb-elektronik.com.tr/ueruenler/ag-coezuemleri)；[Ürün ile ilgili BİREYSEL hizmetler](https://www.efb-elektronik.com.tr/hizmetler/bireysel/ueruen)；[Ürün görselleri / EFB-Elektronik EFB-Elektronik Türkiye](https://www.efb-elektronik.com.tr/hizmetler/indirilebilir/ueruen-goerselleri)
+- 首页正文摘录：Ana içeriğe geç Aramaya atla Ana navigasyona geç Ürünler Tüm ürünler Fiber Çözümler Bakır Çözümler Kabin sistemleri Multimedya Ağ Çözümleri Güvenlik Sistem Çözümleri Çözümler Tümünü göster Çözümler Tüm çözümler Güvenlik Çözümleri Kablo montajı, endüstriyel CAT 8 SPE IP koruma türlü uygulamalar Remote Powering FTTx PoE Ethernet FTTH Teknolojisi FTTx ağınızı FTTx Planlaması Birleştirme işlemi bu şekilde başarılı olur Ü
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 48、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-396.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,7 +160,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

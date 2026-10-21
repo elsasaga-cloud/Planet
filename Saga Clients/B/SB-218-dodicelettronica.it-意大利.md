@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-02-06 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-218.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dodicgroup.it/　语言：it-IT　站点地图 URL 数：0
+- **标题**：Dodic: soluzioni di sicurezza antifurto, video e domotica -
+- **描述**：Dodic è Distributore ufficiale di sistemi di sicurezza, antifurto, videosorveglianza e domotica per installatori. Dal 1975 qualità e innovazione nella sicurezza
+- **首页栏目**：Scopri le ultime novità Dodic! / Percorso formativo – CNA Roma / Corso Hikvision – Latina / Corso Risco – Roma Ovest / Corso Risco – Fiumicino / Corso Micromac – Latina / Corso UNV – Casoria / Corso UNV – Frosinone
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 5、integrator 2、distributor 1、uniview 1
+- **站内出现的品牌**：Uniview, Hikvision, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：marketing@dodic.it
+- **社媒**：https://www.facebook.com/dodic.1975, https://www.instagram.com/dodic_1975/, https://www.linkedin.com/company/652910/admin/dashboard/, https://www.youtube.com/@dodicelettronica
+- **已抓子页**：[Consulenza Prodotti - Dodic Group](https://www.dodicgroup.it/consulenza-prodotti/)
+- 首页正文摘录：0775 840029 marketing@dodic.it Richiedi un preventivo Home Chi siamo Sede di Frosinone Sede di Roma Nord Sede di Roma Sud Sede di Roma Ovest Sede di Fiumicino Sede di Latina Sede di Pescara Sede di Casoria Sede di Nola Settori Allarme antifurto Antifurto nebbiogeno Videosorveglianza Rilevazione incendio e gas Controllo accessi Automazioni Porte automatiche Smart home Sicurezza informatica Fotovoltaico e sistemi di ac
+- 数据文件：`data/saga_clients/site_snapshots/SB-218.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +177,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

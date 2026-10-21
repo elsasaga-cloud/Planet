@@ -1,0 +1,62 @@
+{
+ "code": "SB-256",
+ "name_official": "Digital Systems（印度；Jayesh Patel）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（hotmail；仅表内信息）",
+ "summary": "印度古吉拉特（+91 98251）经销商 Jayesh Patel，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回复 Yes 并发名片，此后仅「Hi」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：buy mc from local market / want to import MC；2024-04 10G MC→Yes 发名片",
+   "quote": "兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jayesh Patel",
+   "title": "（经营者）",
+   "email": "digital_sys@hotmail.com",
+   "phone": "+91 98251 46654",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "印度（古吉拉特号段）",
+  "size": "小型经销",
+  "other": ""
+ },
+ "business_lines": [
+  "网络配件 / 光纤收发器经销"
+ ],
+ "channels": {
+  "role": "本地经销商（想转直接进口）",
+  "region": "印度"
+ },
+ "signals": [
+  "明确意向：从本地采购转直接进口 MC；对 10G MC 回应积极"
+ ],
+ "risks": [
+  "印度进口小批量成本高（BIS 认证风险）",
+  "hotmail 联系"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。"
+ },
+ "email_hook": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?"
+}

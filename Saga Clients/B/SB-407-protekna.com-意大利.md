@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-13 → 2025-10-13）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-407.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.protekna.com/　语言：it　站点地图 URL 数：0
+- **标题**：Protekna - Prodotti e tecnologie per l'automazione
+- **描述**：Protekna SRL, esperienza pluriennale nell'automazione industriale. Distributore italiano di mitsubishi electric moxa murrelektronik hilscher grafos molex
+- **首页栏目**：PLC / MOTION / INVERTER PER MOTORI / PANNELLI OPERATORE / PLC DI SICUREZZA / FILTRI EMC E PROTEZIONE MOTORE / ALIMENTATORI DA BARRA DIN / SWITCH ETHERNET UNMANEGED
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 128、switch 116、sfp 106、fiber 78、cable 78、industrial 72、ethernet 54、media converter 52、moxa 46、wifi 39、gigabit 15、wireless 14
+- **站内出现的品牌**：Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS422, ECM-B3M, ASD-A2, RS485, ASD-B3A, EDS-2008-ELP, IEEE802, DC9-60V, DRF-24V960W3GBA, VFD037EL43A, W2150A-EU
+- **站内公开邮箱**：protekna@protekna.it
+- **站内公开电话**：+39 045 86 18 777, +39 045 860 0998
+- **已抓子页**：[Eds-2008-elp - Unmaneged 10/100 - Moxa](https://www.protekna.com/shop/unmaneged-10-100/eds-2008-elp)；[SWITCH ETHERNET MANAGED - Controllo Totale della Rete - Prot](https://www.protekna.com/shop/switch-ethernet-maneged)；[SWITCH ETHERNET UNMANEGED - Reti Semplici ed Efficienti - Pr](https://www.protekna.com/shop/switch-ethernet-unmaneged)；[Switch Ethernet Unmanaged 10/100 + PoE + FIBER - Protekna](https://www.protekna.com/shop/unmaneged-10-100-poe-fiber)；[INJECTOR PoE - Alimentazione PoE Affidabile - Protekna](https://www.protekna.com/shop/injector-poe)；[SWITCH PROFINET - Protekna](https://www.protekna.com/shop/switch-profinet)
+- 首页正文摘录：ita ita eng Spedizione gratuita in Italia con ordini superiori a 200€ - Pagamenti sicuri online e alla consegna +39 045 860 0998 Accedi/Registrati Prodotti Torna al menu PLC COMPATTI MODULARI SERIE DVP REMOTE I/O ETHERCAT REMOTE I/O MODBUS RS485 REMOTE I/O MODBUS TCPIP MOTION SERVO MOTORS ECM-B3M 1PH SERVO MOTORS ECMA-X 1PH SERVO MOTORS ECMA-X 3PH SERVO ASD-B3A 1PH SERVO ASD-A2 1PH SERVO ASD-A2 3PH ENCODER CABLE ECMA
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 72、PoE 128 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-407.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-01-30 → 2025-11-04）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-638.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.handsonsecurity.co.za/　语言：en-US　站点地图 URL 数：37
+- **标题**：Hands On – Security
+- **首页栏目**：CCTV / Welcome To Hands On Security / Get Best CCTV Solutions For House / What We Provide / Individual CCTV Solution / Commercial CCTV System / Office & Industrial Security / School & Hospital Security
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 56、cctv 25、wifi 10、surveillance 4、industrial 1、automation 1
+- **站内公开邮箱**：info@handsonsecurity.co.za, info@webmail.com
+- **站内公开电话**：+1 800 123 456 789, +1 800 987 654 321, +27(0)68 100 0777, +27(0)82 550 6884
+- **产品类页面**：https://www.handsonsecurity.co.za/shop/；https://www.handsonsecurity.co.za/shop-2/；https://www.handsonsecurity.co.za/product/cctv-camera/；https://www.handsonsecurity.co.za/product/hd-lens-camera/；https://www.handsonsecurity.co.za/product/hd-wifi-camera/；https://www.handsonsecurity.co.za/product/action-cameras/
+- **已抓子页**：[Action Cameras – Hands On](https://www.handsonsecurity.co.za/product/action-cameras/)；[Day Night Camera – Hands On](https://www.handsonsecurity.co.za/product/day-night-camera/)；[Tilt & Zoom Camera – Hands On](https://www.handsonsecurity.co.za/product/tilt-zoom-camera/)；[Bullet CC Camera – Hands On](https://www.handsonsecurity.co.za/product/bullet-cc-camera/)；[About – Hands On](https://www.handsonsecurity.co.za/about/)；[Contact – Hands On](https://www.handsonsecurity.co.za/contact/)
+- 首页正文摘录：Home About Services Shop Contact 0 No products in the cart. Get In Touch CCTV Protect Your Family Welcome To Hands On Security Get In Touch Our Services ABOUT US Get Best CCTV Solutions For House Hands on Security are up and running since 2000. This family business is situated in Meyerton and is operated by Thys Koekemoer. We passionate about security and combating crime in South Africa. Only the best service can be 
+- 数据文件：`data/saga_clients/site_snapshots/SB-638.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

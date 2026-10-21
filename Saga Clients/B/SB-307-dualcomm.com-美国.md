@@ -22,7 +22,7 @@ last_contact: 2025-10-30
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 20 次（2024-05-02 → 2025-10-30）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-307.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dualcomm.com/　语言：en　站点地图 URL 数：9
+- **标题**：Network Taps for Capturing and Monitoring Network Traffic – Dualcomm
+- **描述**：A Network Tap (Test Access Point), or Ethernet Tap, is a hardware device placed inline along a network link to capture live data traffic across the network link, which is sent to security or monitoring tools. Dualcomm designs and markets Network Taps which have been trusted by 15000+ satisfied users
+- **首页栏目**：Network TAP For Less / PRODUCTS & SOLUTIONS / NETWORK TAP / ETHERNET-OVER-COAX / The First 10G-25G Network TAP Below $1000 / Blog posts / Dualcomm DECA-100/DECA-200 EoC Kit Installation Guide / Do You Really Need Failsafe Network TAPs?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 40、10g 36、sfp 34、gigabit 18、fiber 15、poe 6、industrial 6、2.5g 6、cable 5、switch 3、camera 1、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：ETAP-2003, ETAP-2406, ETAP-2003R, ETAP-PI5, ETAP-PC1G, ETAP-PC10G, RMKIT-1000, DECA-100, DECA-200, DPM-1G-SX-01, DPM-1G-T-01, DPM-100M-FX-01
+- **站内公开邮箱**：info@dualcomm.com
+- **社媒**：https://twitter.com/Dualcomm
+- **产品类页面**：https://www.dualcomm.com/sitemap_products_1.xml?from=1401956106299&amp;to=7158032138288
+- **已抓子页**：[10G Network TAP – Dualcomm](https://www.dualcomm.com/products/etap-xg-10g-network-tap)；[10G Network TAP – Dualcomm](https://www.dualcomm.com/collections/featured-products/products/etap-xg-10g-network-tap)；[PCIe 1G-10G Network TAP Card – Dualcomm](https://www.dualcomm.com/collections/featured-products/products/pcie-xg-network-tap-cards)；[Zero-Delay 100M/1G SFP Network TAP – Dualcomm](https://www.dualcomm.com/collections/featured-products/products/dual-speed-sfp-network-tap)；[Raspberry Pi Network TAP Appliance – Dualcomm](https://www.dualcomm.com/collections/featured-products/products/raspberry-pi-network-appliance)；[10/100/1000Base-T Copper Network Tap – Dualcomm](https://www.dualcomm.com/collections/featured-products/products/usb-powered-10-100-1000base-t-network-tap)
+- 首页正文摘录：Skip to content Submit Close search Need Help? Email to info@dualcomm.com or Call (925) 658-4824. Submit Search Log in Cart NETWORK TAP ETHERNET OVER COAX OTHER STUFF WHERE TO BUY BLOGS ABOUT US NETWORK TAP ETHERNET OVER COAX OTHER STUFF WHERE TO BUY BLOGS ABOUT US Network TAP For Less 20+ YEARS IN BUSINESS & 20000+ CUSTOMERS WORLDWIDE PRODUCTS & SOLUTIONS NETWORK TAP Dualcomm is renowned for its long-standing reputa
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 6 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-307.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +187,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-258.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.alconlink.com/　语言：en　站点地图 URL 数：290
+- **标题**：AlconLink Network Camera and NVR for Security Surveillance System
+- **描述**：AlconLink provides CCTV Surveillance System with best-in-class network camera and NVR for security surveillance system.
+- **首页栏目**：Corporate Info / Why AlconLink / Request For Product / Enterprise Solutions / AI camera solution / Thermal camera solution / ANPR / Face Recognition
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 82、nvr 56、switch 40、poe 38、industrial 32、sfp 15、surveillance 10、wireless 8、gigabit 2、ethernet 1、10g 1、cctv 1
+- **站内型号串**（正则抽取，含非交换机）：AL-NVR5160-24DRAIDHS, AL-5001-MPC-HD2MVUDK, AL-5001-MPC-HD8MVDK, AL-5002-MPC-HD8MVDK, AL-5001-MPCT-HD2FRUDK, AL-5001-MPC-HD2MUDKL, AL-5003-MPC-HD544XIRATUDK-NXG, AL-PFS5006-4P-65, AL-PGS5006-4P-65, AL-PFS5010G-8P-125, AL-PFS5010-8P-125, AL-PGS5012-8P-2S-125
+- **站内公开邮箱**：sales@alconlink.com
+- **站内公开电话**：+0 (123) 456 78 90
+- **社媒**：https://twitter.com/alconlink, https://www.facebook.com/alconlink.ipsurveillance, https://www.instagram.com/alconlink.ipsurvellance/?hl=en, https://www.youtube.com/channel/UCiY2Cne9NDjOhemZGZYTDEQ/featured?view_as=subscriber
+- **产品类页面**：https://www.alconlink.com/product/poe-switch/；https://www.alconlink.com/product/industrial-switch/；https://www.alconlink.com/page/industrial；https://www.alconlink.com/page/other-products；https://www.alconlink.com/product/nvr/；https://www.alconlink.com/product/detail/96
+- **已抓子页**：[PoE Switch / Alcon CCTV & Surveillance Solutions India](https://www.alconlink.com/product/poe-switch/)；[Industrial Switch / Alcon CCTV & Surveillance Solutions Indi](https://www.alconlink.com/product/industrial-switch/)；[FIXED IP CAMERA / Alcon CCTV & Surveillance Solutions India](https://www.alconlink.com/product/fixed-ip-camera/)；[Automatic Network Replenishment Redundancy Service Provider](https://www.alconlink.com/page/industrial)；[NVR / Alcon CCTV & Surveillance Solutions India](https://www.alconlink.com/product/nvr/)
+- 首页正文摘录：Toggle navigation Home Products FIXED IP CAMERA Speed Dome NVR PoE Switch Industrial Switch Solution Building Healthcare Bank Education Industrial City Enterprise Shopping Mall test-1 Airport Transportation Seaport Retail Support Software FAQ Technical Videos Face Recognition HDD & Bandwidth Calculator User Manuals & Guide Warranty & RMA About Us Corporate Info News Event Career Opportunities Contact WireLess Call Us
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 32、PoE 38 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-258.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -146,7 +163,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

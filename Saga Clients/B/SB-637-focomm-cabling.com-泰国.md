@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-10 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-637.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.focomm-cabling.com/　语言：th　站点地图 URL 数：460
+- **标题**：Focomm Cabling / ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร
+- **描述**：โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU และอุปกรณ์โครงข่าย สำหรับ SI โรงงาน โครงการราชการและเอกชนทุกประเภท จัดส่งทั่วไทย ติดต่อได้ที่ @focomm หรือโทร 02 973 1966
+- **首页栏目**：Focomm Cabling ผู้นำด้านสายสัญญาณและอุปกรณ์เครือข่ายสำหรับงานระบบครบวงจร / สินค้าโฟคอมม์แนะนำ / IPC CCTV Camera Tester NF-716ADHS PRO / CCTV Tester NF-IPC715 / Multifunctional Thermal Imager NF-524 / Network Cable Tester NF-918S / หมวดหมู่สินค้าของเรา / Fiber Optic
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 171、sfp 149、fiber 140、cable 118、poe 88、industrial 87、media converter 84、data center 50、cctv 39、ethernet 36、gigabit 22、ftth 15
+- **站内型号串**（正则抽取，含非交换机）：RS485, RS232, NF-716ADHS, NF-IPC715, NF-524, NF-918S, RJ-45, IPS-M4GT-2SFP, IPS-M8GT-2SFP, IPS-M8GT-2SFP-A, IPS-M8GT-4SFP, IPS-M8GT-8SFP
+- **站内公开邮箱**：info@focomm-cabling.com
+- **社媒**：https://www.facebook.com/focommcabling, https://www.facebook.com/share/p/12LRyzshgHM/, https://www.youtube.com/@FocommThailand
+- **产品类页面**：https://www.focomm-cabling.com/industrial-poe-switch/；https://www.focomm-cabling.com/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/；https://www.focomm-cabling.com/industrial-web-smart-managed-poe-switch-4xports-1xgigabit-sfp/；https://www.focomm-cabling.com/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/；https://www.focomm-cabling.com/industrial-gigabit-l2-managed-poe-switch-4xports-2xgigabit-sfp/；https://www.focomm-cabling.com/industrial-gigabit-l2-managed-poe-switch-8xports-2xgigabit-sfp/
+- **已抓子页**：[Industrial POE Switch / Focomm Cabling](https://www.focomm-cabling.com/industrial-poe-switch/)；[Manage Switch POE by Focomm Cabling](https://www.focomm-cabling.com/manage-switch-poe/)；[Industrial Switch by Focomm Cabling](https://www.focomm-cabling.com/industrial-switch/)；[IOT Intelligent Industrail Switch by Focomm Cabling](https://www.focomm-cabling.com/iot-intelligent-industrail-switch/)；[Fiber Optic Switch by Focomm Cabling](https://www.focomm-cabling.com/fiber-optic-switch/)；[POE Ethernet Media Converter by Focomm Cabling](https://www.focomm-cabling.com/poe-ethernet-media-converter/)
+- 首页正文摘录：Skip to content เปิดทำการ : จันทร์-ศุกร์ เวลา 08:30 – 17.30 น. (หยุดเสาร์ – อาทิตย์) หน้าแรก เกี่ยวกับเรา สินค้าโฟคอมม์ Fiber Optic Fiber Optic Cable Accessories of Fiber Optic Data Center Cabling Product FTTA Cable FTTH Cable UTP UTP CAT6A for Data Center UTP CAT6 Cabling Product UTP CAT5E Cabling Product Network Cabinet IDC Data Center Network Cabinet Server/Network Cabinet Outdoor Cabinet Wall Cabinet Telecom Cabi
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 87、PoE 88 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-637.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

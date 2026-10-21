@@ -22,7 +22,7 @@ last_contact: 2025-10-21
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 5 次（2025-06-21 → 2025-10-21）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-404.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://milpower.com/　语言：en-us　站点地图 URL 数：0
+- **标题**：Home - Milpower Source, Inc. / Rugged Military Power Supplies and Networking Solutions
+- **描述**：Milpower Source military power supplies, power management units (PDU) and rugged Ethernet switches, routers and networking solutions for military applications. We design and develope MIL-Grade power supllies, VPX VITA 62, UPS, ethernet switches, rugeed routers, USB HUBS & Media converters for airbor
+- **首页栏目**：Your Partner for Field-Proven, Mil-Grade Power and Networking Solutions / Featured products / Find products by / Product Categories / Custom Solutions / The Milpower Source Difference / Our Customers / Categories
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：10g 201、fiber 196、poe 174、ethernet 103、switch 89、media converter 34、cable 8、camera 4、cisco 3、gigabit 2、surveillance 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：MIL-STD-810, MIL-STD-461, MIL-STD-1275, MIL-STD-704, MILTECH-910, MPQ-65, ANTPY-2, MIL-STD461, MIL-STD-1553, RS232
+- **站内公开邮箱**：sales@milpower.com
+- **社媒**：https://www.dropbox.com/scl/fo/aix0xaufb5mn3j3rz69nf/AFrSItv1IOjlb4Re_v0CEug?rlkey=by9ea2bk73xw1qqck0k1i0mnt&st=74elqpmg&dl=0, https://www.linkedin.com/company/milpowersource/
+- **已抓子页**：[Ethernet Switches - Milpower Source, Inc. / Rugged Military ](https://milpower.com/products/networking-solutions/ethernet-switches)；[Embedded Ethernet Switches - Milpower Source, Inc. / Rugged ](https://milpower.com/products/networking-solutions/embedded-ethernet-switches)；[PoE Solutions - Milpower Source, Inc. / Rugged Military Powe](https://milpower.com/products/networking-solutions/poe-solutions)；[Networking Solutions - Milpower Source, Inc. / Rugged Milita](https://milpower.com/products/networking-solutions)；[TSN - Milpower Source, Inc. / Rugged Military Power Supplies](https://milpower.com/products/networking-solutions/tsn)；[Rugged Routers - Milpower Source, Inc. / Rugged Military Pow](https://milpower.com/products/networking-solutions/routers)
+- 首页正文摘录：Home Products Power conversion solutions DC-DC Power Supplies DC-DC Holdup Units AC-DC Power Supplies AC+DC-DC Power Supplies DC-AC Inverters VITA 62 VPX SOLUTIONS Uninterruptible Power Supplies GCU Power Supplies Accessories Power Management Solutions (PDU) Networking solutions Ethernet Switches USB HUBS and Storage Devices Embedded Ethernet Switches Networking VPX Media Converters Rugged Routers TSN PoE Solutions V
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 201、交换机 89 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-404.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,7 +159,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

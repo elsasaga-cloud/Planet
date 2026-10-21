@@ -22,7 +22,7 @@ last_contact: 2025-10-21
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-21 → 2025-10-21）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-390.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://abcv.pl/　语言：pl　站点地图 URL 数：0
+- **标题**：ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV
+- **描述**：Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane! Posiadamy w stałej ofercie setki urządzeń służących do intalacji systemu monitoringu, monitoringu IP, HD-SDI, HD-CVI, HD-TVI, AHD, 3G, alarmowego, kontroli dostępu, telewizji naziemnej
+- **首页栏目**：BE WAVE HYBRID i WIRE / Monitoring bez kompromisów / Promocja Październik 2026 / Najnowsze promocje Zobacz wszystkie / Akumulator MWL 80-12 AGM 12V 80Ah MW Power / Autonomiczna optyczna czujka dymu ADR-20N / Kabel HDMI 2.0b NS-003/4K 3m Conotech / Switch PoE S124 Pulsar
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 86、switch 60、poe 41、cctv 21、axis 17、dahua 12、wifi 9、sfp 7、mikrotik 6、uniview 4、cable 3、ubiquiti 3
+- **站内出现的品牌**：Hikvision, Axis, Hanwha, Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TF-P100, ADR-20N, BRATECK-LCD-501N, DS-1299ZJ, MDR-10-12, DS-3E2318P, DS-3E0505D-E, DS-3E0524-E, DS-3E0526P-E, DS-3E0508D-E, DS-3E1105P-EI, DS-3E1326P-EI
+- **站内公开邮箱**：ksiegowosc@abcvision.pl, oferta@abcvision.pl, serwis@abcvision.pl, sklep@abcvision.pl, spedycja@abcvision.pl, technika@abcvision.pl
+- **站内公开电话**：+48 24 362-30-14, +48 516-689-427, +48 793-221-737
+- **已抓子页**：[Kontakt - ABC VISION - SYSTEMY ZABEZPIECZEŃ](https://abcv.pl/pl/contact)；[Telewizja przemysłowa - ABC VISION - SYSTEMY ZABEZPIECZEŃ](https://abcv.pl/pl/c/Telewizja-przemyslowa/1)；[Sieci LAN i Wi-Fi - ABC VISION - SYSTEMY ZABEZPIECZEŃ](https://abcv.pl/pl/c/Sieci-LAN-i-Wi-Fi/63)；[Sprzęt sieciowy - ABC VISION - SYSTEMY ZABEZPIECZEŃ](https://abcv.pl/pl/c/Sprzet-sieciowy/1249)；[Testery wideo CCTV - ABC VISION - SYSTEMY ZABEZPIECZEŃ](https://abcv.pl/pl/c/Testery-wideo-CCTV/1051)；[Dekodery i Enkodery sieciowe - ABC VISION - SYSTEMY ZABEZPIE](https://abcv.pl/pl/c/Dekodery-i-Enkodery-sieciowe/299)
+- 首页正文摘录：Przejdź do głównej treści polski / zł Region sklepu i język Polska (polski) Waluta PLN - złoty polski USD - dolar amerykański EUR - euro GBP - funt szterling Kontakt Kategorie produktów Otwórz wyszukiwarkę Szukaj Zamknij wyszukiwarkę Wyczyść Szukaj Otwórz wyszukiwarkę Szukaj Zamknij wyszukiwarkę Wyczyść Szukaj polski / zł Region sklepu i język Polska (polski) Waluta PLN - złoty polski USD - dolar amerykański EUR - eu
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 41、监控 22 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-390.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,7 +169,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

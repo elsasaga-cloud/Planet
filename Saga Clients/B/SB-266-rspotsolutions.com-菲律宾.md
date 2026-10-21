@@ -24,7 +24,7 @@ last_contact: 2025-10-09
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -78,6 +78,22 @@ updated: 2026-10-21
 - **风险/边界**：亚太非主攻区；1 次跟进无回复；低价竞争
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
 - **邮件切入句（英文）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.rspotsolutions.com/　语言：en-US　站点地图 URL 数：104
+- **标题**：RSPOT SOLUTIONS
+- **描述**：RSPOT Solutions, Inc. Value Added Distributor building opportunities for ICT, TELCO, Electrical and Construction System Integrators.
+- **首页栏目**：Your Reliable Network Solutions Provider / RSPOT Solutions, Inc. / Our Solutions / RoomAlert Monitoring / Rapid Deployment System / Wireless Solutions / Thermal Camera Solutions / Industrial GSM Gateway
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 38、industrial 34、data center 32、camera 14、cctv 13、wireless 10、cable 5、surveillance 2、telecom 2、hikvision 2、switch 1、automation 1
+- **站内出现的品牌**：Hikvision, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485
+- **社媒**：https://www.facebook.com/aveisph, https://www.facebook.com/profile.php?id=100064126988987, https://www.facebook.com/roomalert, https://www.facebook.com/shinhoph, https://www.facebook.com/vivancoph, https://www.smanex.com/
+- **产品类页面**：https://www.rspotsolutions.com/industrialiot；https://www.rspotsolutions.com/industrial-gsm-gateway；https://www.rspotsolutions.com/products/s16；https://www.rspotsolutions.com/products/x900；https://www.rspotsolutions.com/products/x910；https://www.rspotsolutions.com/products/x950
+- **已抓子页**：[RSPOT Inudstrial IoT](https://www.rspotsolutions.com/industrialiot)；[CCTV Solutions / RSPOT Solutions Inc.](https://www.rspotsolutions.com/cctv-solutions)；[Industrial GSM Gateway / RSPOT Solutions Inc.](https://www.rspotsolutions.com/industrial-gsm-gateway)；[Copper and Fiber Optics Workshop/Trainings](https://www.rspotsolutions.com/copper-and-fiber-optics-workshop/trainings)；[RSPOT Vivanco Products](https://www.rspotsolutions.com/vivanco)；[RSPOT Shinho Products](https://www.rspotsolutions.com/shinho-products)
+- 首页正文摘录：Skip to Content RSPOT SOLUTIONS INC. Follow us 0 My Cart Product Shinho Products Industrial IoT RSPOT Solutions is a Philippine based Private Company which specializes in IMPORTATION & VALUE ADDED DISTRIBUTION of Structured Cabling (Copper and Fiber Optics), Data Center & Industrial Grade Network Products. About Us​ Vivanco Products Copper Tools Fiber Tools Services WORKSHOPS Copper and Fiber Optics Trainings/Worksho
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 35、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-266.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

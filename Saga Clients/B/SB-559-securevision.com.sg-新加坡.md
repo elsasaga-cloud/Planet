@@ -22,7 +22,7 @@ last_contact: 2025-10-14
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-06-03 → 2025-10-14）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-559.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://securevision.com.sg/　语言：en-GB　站点地图 URL 数：248
+- **标题**：Security Systems & Solutions Singapore / Securevision
+- **描述**：Securevision delivers expert security systems in Singapore. Explore our CCTV, access control, intercom, and alarm solutions for your property.
+- **首页栏目**：Security That Works As One System, Not Separate Parts / Security Systems Designed to Work as One, Not Installed as Separate Parts / Where Do You Fit? / What Happens When Something Goes Wrong? / Does Any of This Sound Familiar? / Find the Right Solution for Your Property / Residential / Condominiums
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 132、cctv 83、access control 75、industrial 61、cable 36、surveillance 14、switch 12、nvr 12、wireless 12、integrator 11、poe 5、hikvision 5
+- **站内公开邮箱**：enquiry@securevision.com.sg, name@email.com, your@email.com
+- **站内公开电话**：+65 6286 4796, +65 9386 0466
+- **社媒**：https://wa.me/6593860466
+- **产品类页面**：https://www.securevision.com.sg/solutions/industrial；https://www.securevision.com.sg/solutions/industrial/logistics；https://www.securevision.com.sg/solutions/industrial/tech-park；https://www.securevision.com.sg/solutions/industrial/manufacturing；https://www.securevision.com.sg/portfolio/industrial/hoy-san-industrial；https://www.securevision.com.sg/portfolio/industrial/smartflex-tampines
+- **已抓子页**：[Industrial Security Systems Singapore / Securevision](https://securevision.com.sg/solutions/industrial/)；[Residential Security Singapore / Landed Homes / Securevision](https://securevision.com.sg/solutions/residential/)；[Security System Calculators Singapore / Securevision](https://securevision.com.sg/resources/calculators.html)；[Contact Securevision / Singapore Security Systems Integrator](https://securevision.com.sg/contact)；[Security System FAQ Singapore: CCTV, Alarm, Access Control &](https://securevision.com.sg/resources/faq.html)；[Security System Technical Guides Singapore / Securevision](https://securevision.com.sg/resources/guides.html)
+- 首页正文摘录：Security That Works As One System, Not Separate Parts Reduce manpower. Gain real-time visibility. Control your property with systems designed to work together. Book a Site Assessment Police Licensed / / BCA Registered / Sites Protected In Short Security Systems Designed to Work as One, Not Installed as Separate Parts Securevision helps property owners, managing agents, facility managers, and business operators design
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 64、PoE 5 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-559.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -169,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

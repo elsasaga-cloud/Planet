@@ -24,7 +24,7 @@ last_contact: 2025-10-24
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -98,6 +98,21 @@ updated: 2026-10-21
 - **风险/边界**：微型、采购量小；17 次推送 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）
 - **邮件切入句（英文）**：For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://longtek.co.uk/　语言：en　站点地图 URL 数：13
+- **标题**：Fire & Security Systems Across England / Longtek
+- **描述**：Longtek installs and maintains fire alarms, CCTV, intruder alarms and access control from Enfield, serving customers across England. Request a quotation.
+- **首页栏目**：Fire & Security Systems for Homes and Businesses / Professional Installation / Ongoing Maintenance / Practical Security Solutions / Our Products and Services / Fire Alarms / Intruder Alarms / CCTV
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 43、access control 21、surveillance 10、camera 2、industrial 1、wireless 1
+- **站内型号串**（正则抽取，含非交换机）：LOND220
+- **站内公开邮箱**：admin@longtek.co.uk
+- **站内公开电话**：+44 20 8805 0002, +44 20 8805 0002 12
+- **社媒**：https://web.facebook.com/people/Longtek-Electronics-Ltd/100071095517682
+- **已抓子页**：[CCTV Installation & Security Systems Across England / Longte](https://longtek.co.uk/cctvs)；[About Longtek Electronics (Europe) Ltd / Fire & Security](https://longtek.co.uk/aboutUs)；[Contact Longtek / Fire & Security Services England](https://longtek.co.uk/contacts)
+- 首页正文摘录：Skip to main content Call Now We use cookies We use strictly necessary cookies to make our website work. With your consent, we would also like to use analytics cookies to improve our services. View Cookie Policy Accept all Reject all Hot Line: +44 20 8805 0002 Mail Us: admin@longtek.co.uk FAQ Home Fire Alarms Intruder Alarms CCTV Access Control Maintenance About Contact Request a Quote Request a Quote Fire & Security
+- 数据文件：`data/saga_clients/site_snapshots/SB-319.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

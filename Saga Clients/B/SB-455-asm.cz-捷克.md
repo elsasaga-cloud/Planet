@@ -22,7 +22,7 @@ last_contact: 2025-10-09
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-09）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-455.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.asm.cz/　语言：cs-CZ　站点地图 URL 数：0
+- **标题**：ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ
+- **描述**：DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ
+- **首页栏目**：ICT distribuce pro montážní firmy a systémové integrátory. / Proč ASM? / Naše specializace: / Spojte se s námi / Naše produkty najdete všude / Zažijte skutečně individuální přístup / Odborná školení / Jsme v tom s vámi
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 382、switch 125、dahua 105、sfp 103、planet 61、hikvision 60、ethernet 50、odm 34、tp-link 19、cctv 14、nvr 14、10g 12
+- **站内型号串**（正则抽取，含非交换机）：RS-232, RJ-45, RJ-10, EN50155, VTO2000, VTO4202, GS-4210-8P2S, DS-3E1309P-EI, ISW-504PT-E, DS-3E0510HP-E, DS-3T0510HP-E, WGS-804HPT
+- **站内公开邮箱**：podpora@asm.cz
+- **站内公开电话**：+420 281 040 511, +420) 281 040 511
+- **已抓子页**：[PoE switche / ASM 100MEGA Distribution spol. s r.o. - DODAVA](https://www.asm.cz/cs/kategorie/146140-poe-switche)；[Ethernet switche / ASM 100MEGA Distribution spol. s r.o. - D](https://www.asm.cz/cs/kategorie/146106-ethernet-switche)；[PoE (Napájení po Ethernetu) / ASM 100MEGA Distribution spol.](https://www.asm.cz/cs/kategorie/146138-poe-napajeni-po-ethernetu)；[ePoE / ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO](https://www.asm.cz/cs/kategorie/146180-epoe)；[ePoE / ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO](https://www.asm.cz/cs/kategorie/182562-epoe)；[PoE splitery / ASM 100MEGA Distribution spol. s r.o. - DODAV](https://www.asm.cz/cs/kategorie/146141-poe-splitery)
+- 首页正文摘录：Odesílám... Prosím čekejte... Kategorie ASM 100MEGA Distribution s.r.o. Hledej Rozšířené hledání Přihlášení Registrace Přihlásit nebo pomocí Google Apple Zůstat přihlášen Zaslat přihlašovací údaje Dvoufázové přihlašování (2FA) Kategorie Cenová akce  Aktivní síťové prvky  Ethernet switche Bez správy Spravovatelné Modulární Příslušenství  Konvertory LAN/optika LAN/metal.vedení Telefon/optika RS-232/422/485  Průmysl
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 18、交换机 125 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-455.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

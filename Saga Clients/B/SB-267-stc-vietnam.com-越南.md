@@ -22,7 +22,7 @@ last_contact: 2025-01-03
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：实质回复 9 次；WhatsApp 已加；推送 12 次（2023-12-15 → 2025-01-03）；最近一次客户回复：2024-12-10：price
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-267.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://stc-vietnam.com/　语言：vi　站点地图 URL 数：6555
+- **标题**：Công ty TNHH TM DV Song Thành Công
+- **描述**：Công ty TNHH TM DV Song Thành Công, STC VietNam chuyên cung cấp Encoder NSD , Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam
+- **首页栏目**：Search / Hỗ trợ trực tuyến / Hãng sản xuất / Danh mục sản phẩm / Ứng dụng sản phẩm / Tin mới / Lượt truy cập / Giới thiệu
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 12、moxa 12、cable 6、switch 2、ethernet 2、camera 2、cisco 2
+- **站内出现的品牌**：Moxa, Cisco, Advantech　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：MARK-10, AWK-4131A, IG5377, VKV021, F-232M-AGD-22-W, EWS-100, W2E250-HL06-01, DHRZA-P5-012, RZMA-P1-010, GF100CXXC-0013200C-VXVOE0-XXXXAX-000, BS02-37V, V3RP-02Z
+- **站内公开邮箱**：duc@stc-vietnam.com, pricing@stc-vietnam.com, vantu@songthanhcong.com
+- **站内公开电话**：00355-12-00-00
+- **产品类页面**：https://stc-vietnam.com/san-pham/moxa-eds-p510a-8poe-2gtxsfp-bo-switch-cong-nghiep-moxa-vietnam.html；https://stc-vietnam.com/bai-viet/kg-auto-vietnam-dp-switch.html；https://stc-vietnam.com/bai-viet/kg-auto-vietnam-foot-switch.html；https://stc-vietnam.com/bai-viet/limit-switch-box-gild-takuwa.html；https://stc-vietnam.com/san-pham/eds-g205a-4poe-t-moxa-vietnam.html；https://stc-vietnam.com/bai-viet/kg-auto-vietnam-selector-switch.html
+- **已抓子页**：[Control Solutions Inc - Công ty TNHH TM DV Song Thành Công](https://stc-vietnam.com/nha-san-xuat/control-solutions-inc.html)
+- 首页正文摘录：Toggle navigation Menu bar Trang chủ Giới thiệu Sản Phẩm Dịch vụ Ứng dụng Thương Hiệu Bảng Giá Kho Tin tức Search Tìm sản phẩm Tìm bài viết Hỗ trợ trực tuyến HotLine pricing@stc-vietnam.com 0916869426 Mr. Văn Tú vantu@songthanhcong.com 0359643939 Mr Đức duc@stc-vietnam.com 0379720873 Hãng sản xuất Chọn hãng sản xuất E-T-A 3CTEST 4B ABB ABB ABB Abmark AC Infinity AC&T ACKSYS Adamantis/Video systems srl. Adca ADFWeb Ad
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-267.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +176,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

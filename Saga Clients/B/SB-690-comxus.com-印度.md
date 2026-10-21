@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-690.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://comxus.com/　语言：en-US　站点地图 URL 数：174
+- **标题**：Comxus / Complete Networking Solutions For Harsh Environment
+- **描述**：Comxus is a reliable networking solutions provider with rugged switches and managed devices, built to deliver seamless performance.
+- **首页栏目**：Who Are We / What We Do / Our Mission / Why Us / Oil & Gas / Transportation / Manufacturing / Smart City
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 357、industrial 227、poe 156、sfp 61、fiber 44、surveillance 39、ethernet 38、media converter 15、camera 14、gigabit 7、10g 6、automation 4
+- **站内型号串**（正则抽取，含非交换机）：CX-NPA-8GS40I-L3, CX-PS-487-R, CX-ND-0GSF24S20-L3, CX-NPA-8GS4I-L2, CX-NPA-16GS2I-L2, CX-NPA-8GS2I-L2, CX-NPA-24GS4I-L2, CX-NPA-16GS4I-L2, CX-SPD01-40K2P, CX-SPDP02-10KS1, CX-PS-485-D, CX-PS-482-D
+- **社媒**：https://www.facebook.com/comxusofficial/, https://www.instagram.com/comxusofficial/, https://www.linkedin.com/company/comxus
+- **产品类页面**：https://comxus.com/why-comxus-8-port-industrial-poe-switch-is-best-for-cctv-systems/；https://comxus.com/8-port-vs-16-port-industrial-poe-switch-which-one-should-you-choose/；https://comxus.com/top-industrial-poe-switches-for-cctv-access-control-and-smart-warehouses/；https://comxus.com/how-to-choose-an-8-port-industrial-poe-switch-for-plcs-in-industrial-automation/；https://comxus.com/how-to-select-industrial-grade-switches-based-on-port-count-poe-budget-data-speed/；https://comxus.com/how-comxus-8-port-industrial-poe-switch-ensures-reliable-connectivity-in-harsh-environments…
+- **已抓子页**：[Layer 3 Managed Industrial-Grade Switches For Indian Factori](https://comxus.com/product-category/industrial-network-switches/l3-industrial-poe-switches/)；[Industrial-Grade Managed PoE Switches / Comxus](https://comxus.com/product-category/industrial-network-switches/l2-network-industrial-poe-switches/)；[Industrial PoE Switches For Outdoor Surveillance System](https://comxus.com/industrial-poe-switches-outdoor-surveillance-system/)；[Network PoE Switch Archives - COMXUS](https://comxus.com/product-category/network-poe-switch/)；[Industrial-Grade Switches For Harsh Indian Environment / Com](https://comxus.com/product-category/industrial-grade-network-switches/)；[Unmanaged Switch Archives - COMXUS](https://comxus.com/product-category/network-poe-switch/unmanaged-switch/)
+- 首页正文摘录：Skip to content Home About Us Close About Us Open About Us Who Are We What We Do Our Mission Why Us Products Close Products Open Products Network Switches Unmanaged Network Switches Managed Network Switches L3 Network Managed Switches Network PoE Switches Unmanaged Network PoE Switches L2 Network Managed PoE Switches L3 Network Managed PoE Switches Industrial Network Switches L2 Industrial Network Switches L2 Industr
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 234、PoE 156 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-690.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,7 +163,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

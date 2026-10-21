@@ -1,0 +1,105 @@
+{
+ "code": "SB-605",
+ "name_official": "Matrix Vision Systems Ltd",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（matrixsystems.co.ke；快照任务超时，web 检索可达）",
+ "summary": "肯尼亚内罗毕电气工程 + 安防 + 软件集成商（11–50 人，10 年以上），Hikvision 战略伙伴，NCA/CA 认证 ICT 承包商；技术总监 Mogeni Enock 2024 年 3 月回复「有用，需与团队沟通是否拿样」，需求 = 光纤上行 IP 摄像机接入。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：工程 + 安防 + 软件集成，内罗毕 Westlands",
+   "quote": "Matrix Vision Systems is a leading technology company providing engineering, security, and software integrated solutions… Mais. 7, B.S.K. Village, Muguga Green, Westlands, Nairobi +254 721 779 429",
+   "url": "https://matrixsystems.co.ke/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Hikvision 为战略伙伴（AIoT 与摄像机）",
+   "quote": "HIKVision — CCTV Technology company — Partnership: AIoT solutions and reliable security camera systems, Strategic Partner",
+   "url": "https://matrixsystems.co.ke/partners/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "规模 11–50 人；10 年以上经验",
+   "quote": "Matrix Vision Systems Ltd is a leading Electrical engineering and Tech company… over 10 years of experience… 11-50",
+   "url": "https://www.crunchbase.com/organization/matrix-vision-systems",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "持 NCA / ICT Authority 认证（承包资质）",
+   "quote": "We are CA Certified, ICT Authority Certified, and NCA Certified & Compliant",
+   "url": "https://matrixsystems.co.ke/products/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2024-03-28 回复：商用 PoE 1×2+8 资料「有用 需要和 team 沟通一下是否拿样」；兴趣 ip cameras over fiber",
+   "quote": "回复：有用 需要和team沟通一下是否拿样",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mogeni Enock",
+   "title": "Technical Director",
+   "email": "mogeni@matrixsystems.co.ke",
+   "phone": "+254 721 779 429",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Matrix Vision Systems Limited",
+  "founded": "约 2013 前后（自述 10 年以上）",
+  "hq": "Maisonette 7, BSK Village, Muguga Green, Westlands, Nairobi, Kenya",
+  "size": "11–50 人（Crunchbase / ZoomInfo，<$5M）",
+  "other": "Hikvision 战略伙伴；NCA/CA/ICT Authority 认证"
+ },
+ "business_lines": [
+  "AI 视频监控 / 门禁 / 钥匙管理 / 报警（Hikvision）",
+  "ICT 与通信基础设施（机房、UC、PABX）",
+  "企业软件 / 设施资产管理"
+ ],
+ "products_seen": [
+  {
+   "brand": "Hikvision",
+   "model": "IP 摄像机 / NVR",
+   "spec": "AIoT 安防",
+   "saga": "配套接入层 PoE 交换机（Saga STC-28DGGPM / STC-228GP）",
+   "url": "https://matrixsystems.co.ke/partners/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "安防/ICT 系统集成商（项目）",
+  "region": "肯尼亚 + 东非"
+ },
+ "signals": [
+  "2024-03 技术总监表示 PoE 资料有用、考虑拿样（未落地）",
+  "Hikvision 项目大量 PoE 口需求"
+ ],
+ "risks": [
+  "东非付款：建议 T/T 预付 / PayPal 小单",
+  "Hikvision 自带 PoE 交换机竞争（需价格 + 光口上行差异）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "IP 摄像机走光纤上行：8 口 PoE + 2 SFP 管理型，正对其「ip cameras over fiber」需求；样品从 1 台起。"
+ },
+ "email_hook": "Mogeni, back in March 2024 you said the 8-PoE + 2-SFP unit was useful and you'd check with the team about a sample — for fibre-uplinked camera sites, is a single sample unit (we ship from 1 pc) the easiest way to restart?"
+}

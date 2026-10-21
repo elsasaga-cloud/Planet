@@ -22,7 +22,7 @@ last_contact: 2025-10-03
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-02 → 2025-10-03）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-570.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.womaster.eu/　语言：en　站点地图 URL 数：1609
+- **标题**：WoMaster-Master in IIoT World / Industrial 5G/LTE Routers & IIoT Networking
+- **描述**：WoMaster provides Industrial DIN-Rail and rackmount Ethernet switches, PoE switches, outdoor wireless AP, WiFi LTE Cat.4 cellular routers for IIoT.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 164、switch 142、poe 142、ethernet 60、10g 33、sfp 29、automation 28、wifi 24、gigabit 16、fiber 15、wireless 10、surveillance 4
+- **站内型号串**（正则抽取，含非交换机）：RS232, SCB1200, EN50155, AC110, DP208-LV, MP614, DC24V, INE610, DP101, WA512G, WR322GR, WR315GR
+- **站内公开邮箱**：info@womaster.eu
+- **站内公开电话**：000 -- -- -- 24
+- **社媒**：https://www.facebook.com/womaster.eu, https://www.linkedin.com/company/womaster/, https://www.youtube.com/channel/UClHL_pd-hbvbHpp57xUnmLA
+- **产品类页面**：http://www.womaster.eu/products_detail_Industrial-M2M_Rugged-Ethernet-|-PoE-Switch_DS108 series.htm；https://www.womaster.eu/news_detail_2_WoMaster-Launch-DP208LV-Industrial-8G-PoE-Switch-for-12V~24V-Power-Input…；https://www.womaster.eu/news_detail_2_WoMaster-Unveils-RS752-and-RP752:-High-Performance-Industrial-Layer-3-Ra…；http://www.womaster.eu/products_detail_Industrial-Secured-Network_Rugged-Ethernet-Switch_DS208.htm；https://www.womaster.eu/news_detail_2_WoMaster-Launch-DS410L-Industrial-10G-Resilient-Managed-Switch-.htm；https://www.womaster.eu/news_detail_2_400W-High-Power-High-Security-Multiple-Redundant-Rackmount-PoE-Switch.ht…
+- **已抓子页**：[Railway Ethernet PoE Switch](https://www.womaster.eu/products_list_Industrial-Secured-Network_Railway-Ethernet-PoE-Switch.htm)；[Rugged PoE Switch / WoMaster](https://www.womaster.eu/products_list_Industrial-Secured-Network_Rugged-PoE-Switch.htm)；[Industrial Rackmount Ethernet Switch IEEE 1588 / WoMaster](https://www.womaster.eu/products_list_Industrial-Secured-Network_Rackmount-L3-|-L2-10G-|-G-|-PoE-switch.htm)；[Industrial DIN-Rail Ethernet Switches / WoMaster](https://www.womaster.eu/products_list_Industrial-Secured-Network_Rugged-Ethernet-Switch.htm)；[Industrial Secure and Redundant Router Firewall VPN NAT Fibe](https://www.womaster.eu/products_list_Industrial-Secured-Network_Router-Switch.htm)；[WoMaster Launch DP208_LV Industrial 8G PoE Switch with 12/24](https://www.womaster.eu/news_detail_PressRelease_WoMaster-Launch-DP208LV-Industrial-8G-PoE-Switch-for-12V~24V-Power-Input.htm)
+- 首页正文摘录：WoMaster ABOUT US Brand Story Commitment to Quality Technology Expertise WoMaster Patents Ecosystem Partner Collaboration Strategic Business Partners Career PRODUCTS Smart City ＆ Industrial IoT AI Edge Computer / ThingsMaster / NetMaster Smart City Box / Electricity Water Meter Box / Sensor Box Industrial LTE / WLAN IoT Serial Router Industrial LTE / WLAN / PoE Router Industrial LPWAN NBIoT LoRa Gateway End Node Indu
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 170、PoE 142 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-570.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

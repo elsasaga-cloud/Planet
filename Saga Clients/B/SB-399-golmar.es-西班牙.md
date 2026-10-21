@@ -22,7 +22,7 @@ last_contact: 2025-10-02
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-01-31 → 2025-10-02）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-399.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://golmar.es/home-en　语言：en-GB　站点地图 URL 数：2834
+- **标题**：Golmar sistemas de comunicación / Golmar
+- **描述**：Golmar, Spanish manufacturer of video intercoms for over 70 years. Security solutions: CCTV, access control, intrusion detection, fire detection, public address systems, home automation, and hospital security.
+- **首页栏目**：Golmar GCloud / Supra door panel / NEW Kits CLIP / EDGE / You design it, we make it happen / Innovation in just one touch / G2+ The technology that unites us / IP G+ Endless possibilities / Solutions tailored to any project
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 129、cctv 30、nvr 22、cable 22、wireless 20、access control 17、distributor 14、wifi 8、switch 5、surveillance 2、gigabit 1
+- **站内型号串**（正则抽取，含非交换机）：CIP-4BWIFI, CIP-21D4E, CIP-124D2E, CIP-124D2MA, CIP-23V5MA, CIP-21D4D, CIP-21D4DU, CIP-121V2A, CIP-21D5C, CIP-21D8D, CIP-360F12, CIP-31D5W
+- **站内公开电话**：+34 934 800 696
+- **社媒**：https://twitter.com/GolmarGlobal, https://www.instagram.com/golmar_sistemas/, https://www.linkedin.com/company/golmar-global/about/, https://www.youtube.com/channel/UC4zWDLG150AzCZGTBF5YNOg
+- **产品类页面**：https://golmar.es/productos；https://golmar.es/productos/videoportero；https://golmar.es/productos/videoportero/recambios；https://golmar.es/productos/videoportero/tecnologia；https://golmar.es/productos/videoportero/abrepuertas；https://golmar.es/productos/videoportero/tecnologia/gb2
+- **已抓子页**：[CCTV](https://golmar.es/products/cctv/filter-1b90ef1d5c74a67693efb3f33a5b96c3)；[CCTV](https://golmar.es/products/cctv/filter-8b783015f0d90758f8a10a928d39e2a1)；[CCTV](https://golmar.es/products/cctv/filter-f098597c3e3b57593d6a4d9c7e295421)；[CCTV](https://golmar.es/products/cctv/filter-bb78f8ed49aec5f311847c69c5e74fa0)；[CCTV](https://golmar.es/products/cctv)；[Magnetic contacts / Golmar](https://golmar.es/products/intrusion/type-of-device/magnetic-contacts)
+- 首页正文摘录：Home Products Intercom Kits Door stations Apartment units 4+n 2 wires G2+ IP G+ GCloud Access control Controllers Readers Credentials Wiegand 2Safe Standalone CCTV IP cameras Analogue cameras NVR DVR Wi-Fi cameras Intrusion Central units and kits Detectors Contacts Keyboards and remote controls Sirens Wireless Accessories and power supplies Fire detection Conventional Analogue Sirens and push-buttons Modules and powe
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 5、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-399.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +161,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

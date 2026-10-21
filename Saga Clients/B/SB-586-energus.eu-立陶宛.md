@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -99,6 +99,16 @@ updated: 2026-10-21
 - **风险/边界**：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://energus.lt/　语言：未标　站点地图 URL 数：149
+- **标题**：Individualūs pastatų sprendimai kuriantys ateitį • Energus
+- **描述**：Patobulinsime pastatus, sukurdami individualius sprendimus, kurie garantuos komfortą, tvarų eksploatavimą ir investicijų atsiperkamumą!
+- **首页栏目**：ESAME ATEITIES ENERGETIKOS ARCHITEKTAI / PATIRTIS ĮVAIRIOS PASKIRTIES PASTATUOSE / Verslo pastatai / Logistikos centrai / Prekybos centrai / Gamyba ir pramonė / Automobilių salonai
+- **产品类页面**：https://energus.lt/en/go9-shopping-centre/；https://energus.lt/en/panorama-shopping-centre/；https://energus.lt/en/shopping-centre-akropole/；https://energus.lt/en/urban-hub-shopping-campus/；https://energus.lt/en/merkurijus-shopping-centre/
+- 首页正文摘录：Paslaugos Patirtis Mes Komanda EN Paslaugos Patirtis Mes Komanda EN ESAME ATEITIES ENERGETIKOS ARCHITEKTAI Partneriai, kurie pasitiki mumis PATIRTIS ĮVAIRIOS PASKIRTIES PASTATUOSE Energus prisitaiko prie unikalių įvairių tipų klientų poreikių, užtikrina inovacijas bei tvarumą kiekviename projekte. Individualūs sprendimai kiekvienam statiniui Verslo pastatai Modernūs biurų pastatai, projektuojami ir įrengiami pagal ta
+- 数据文件：`data/saga_clients/site_snapshots/SB-586.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

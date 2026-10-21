@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -90,6 +90,20 @@ updated: 2026-10-21
 - **风险/边界**：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
 - **邮件切入句（英文）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://camsanordu.com/　语言：en　站点地图 URL 数：272
+- **标题**：Çamsan
+- **描述**：Çamsan Ordu kalitesiyle üretilen Çamsan MDF ve Çamsan Parke ile mekânlarınızı hemen dönüştürün. Üstün kaliteli MDF, uzun ömürlü parke ve yüksek dayanıklılık bir
+- **首页栏目**：Institutional / Products / Privacy / Stay Informed About Our News
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 1
+- **站内公开邮箱**：info@camsanordu.com
+- **社媒**：https://www.facebook.com/, https://www.instagram.com/camsanordu/, https://www.linkedin.com/, https://www.x.com/, https://www.youtube.com/
+- **产品类页面**：https://camsanordu.com.tr/urunlerimiz/mdf；https://camsanordu.com.tr/urunlerimiz/mdflam；https://camsanordu.com.tr/urunlerimiz/astarlam；https://camsanordu.com.tr/urunlerimiz/supurgelik；https://camsanordu.com.tr/urunlerimiz/duvar-profili；https://camsanordu.com.tr/urunlerimiz/laminant-parke
+- **已抓子页**：[Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke](https://camsanordu.com/urunlerimiz/mdf)；[Çamsan MDF](https://camsanordu.com/urunlerimiz/mdflam)；[Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke](https://camsanordu.com/urunlerimiz/astarlam)；[Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke](https://camsanordu.com/urunlerimiz/supurgelik)；[Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke](https://camsanordu.com/urunlerimiz/duvar-profili)；[Çamsan Ordu Laminant Parke Modelleri / Dayanıklı ve Şık Zemi](https://camsanordu.com/urunlerimiz/laminant-parke)
+- 首页正文摘录：Home Page Institutional About Us President's Message Company Values Privacy Policy About Seveso News From Us Certificates Corporate Identity Sustainability Products Laminate Flooring MDFLAM Surbase Wall Profile MDF AstarLAM Sales Points Human Resources Blogs Contact EN Türkçe العربية Institutional About Us President's Message Company Values Privacy Policy About Seveso News From Us Certificates Corporate Identity Sust
+- 数据文件：`data/saga_clients/site_snapshots/SB-250.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

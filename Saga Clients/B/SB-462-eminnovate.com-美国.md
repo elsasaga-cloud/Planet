@@ -24,7 +24,7 @@ last_contact: 2025-10-01
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -77,6 +77,19 @@ updated: 2026-10-21
 - **风险/边界**：身份未核实；若为印度 IT 服务公司则不在目标区域/行业
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定
 - **邮件切入句（英文）**：Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.eminnovate.com/　语言：en　站点地图 URL 数：480
+- **标题**：HOME / EM Innovations
+- **首页栏目**：Call: 503-883-7055 / Networking and Communication / EXPLORE OUR PRODUCT LINES
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 1115、poe 908、ethernet 819、gigabit 490、industrial 238、media converter 210、sfp 57、10g 56、fiber 28、wireless 14、telecom 14
+- **站内型号串**（正则抽取，含非交换机）：EN50155
+- **产品类页面**：https://www.eminnovate.com/product-page/industrial-16-port-10-100tx-fast-ethernet-switch；https://www.eminnovate.com/product-page/compact-industrial-5-port-10-100-1000t-gigabit-ethernet-switch；https://www.eminnovate.com/product-page/industrial-4-port-10-100tx-poe-1-port-coax-long-reach-poe-extender；https://www.eminnovate.com/product-page/l3-24-port-10-100-1000t-802-3bt-poe-4-port-10g-sfp-managed-switch-1；https://www.eminnovate.com/product-page/industrial-2-channel-optical-fiber-bypass-switch-w-4-x-sc-multimode；https://www.eminnovate.com/product-page/industrial-2-channel-optical-fiber-bypass-switch-w-4x-lc-single-mode
+- **已抓子页**：[Industrial DIN-rail Unmanaged Gigabit PoE Switch / EM Innova](https://www.eminnovate.com/industrial-din-rail-unmanaged-gigab)；[Fast Ethernet PoE Switch / EM Innovations](https://www.eminnovate.com/fast-ethernet-poe-switch)；[Industrial Fast Ethernet Switch / EM Innovations](https://www.eminnovate.com/industrial-fast-ethernet-switch)；[802.3at PoE+ Fast Ethernet Switch / EM Innovations](https://www.eminnovate.com/802-3at-poe-fast-ethernet-switch)；[DIN-rail Managed Fast Ethernet PoE Switch / EM Innovations](https://www.eminnovate.com/din-rail-managed-fast-ethernet-poe)；[802.3at PoE+ L2/L4 Fast Ethernet Switch / EM Innovations](https://www.eminnovate.com/802-3at-poe-l2-l4-fast-ethernet-swi)
+- 首页正文摘录：top of page Call: 503-883-7055 DEALER LOG-IN CLOUD LOG-IN Log In HOME PRODUCTS LAN SWITCHES POWER OVER ETHERNET INDUSTRIAL ETHERNET MEDIA CONVERSION NETWORK SECURITY OVERVIEW LONG-REACH POE HIGH-POWERED DEVICES CLOUD SHOP ALL PRODUCTS LAN SWITCHES PRODUCTS POWER OVER ETHERNET PRODUCTS INDUSTRIAL ETHERNET MEDIA CONVERSION PRODUCTS NETWORK SECURITY PRODUCTS LONG REACH PoE SOLUTIONS CLOUD PRODUCTS HIGH POWERED DEVICES L
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 238、PoE 908 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-462.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

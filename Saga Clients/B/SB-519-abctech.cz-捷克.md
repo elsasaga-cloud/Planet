@@ -22,7 +22,7 @@ last_contact: 2025-10-08
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-03-14 → 2025-10-08）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-519.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.abctech.cz/　语言：cs　站点地图 URL 数：0
+- **标题**：ABCTECH - vÃ½poÄetnÃ­ technika a elektronika
+- **描述**：ABCTECH - vÃ½poÄetnÃ­ technika a elektronika
+- **首页栏目**：ABCTECH - vÃ½poÄetnÃ­ technika a elektronika / DC pojistka Carspa 1000V 20A, 10x38mm / BalancÃ©r Carspa BEL48 pro 4 baterie 12V s displejem / TP-Link Tapo C250 DomÃ¡cÃ­ bezpeÄnostnÃ­ Wi-Fi kamera s naklÃ¡pÄnÃ­m, 8Mpx / MikroTik IAQM-THC2V-W, CLAIRÃ Lite monitor kvality vzduchu, bÃ­lÃ½ / DC pojistka Carspa 1000V 10A, 10x38mm / JistiÄ DC 20A 2P Carspa SPB9-63DC 2-pÃ³lovÃ½ 6kA na DIN liÅ¡tu / JistiÄ DC 10A 2P Carspa SPB9-63DC 2-pÃ³lovÃ½ 6kA na DIN liÅ¡tu
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 83、mikrotik 35、gigabit 18、sfp 17、ethernet 17、switch 10、10g 10、tp-link 5、odm 4、ubiquiti 4、2.5g 2、wifi 2
+- **站内出现的品牌**：MikroTik, Ubiquiti, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CRS804-4DDQ, CSS610-8P-2S, SPB9-63DC, MTP250-26V94-OD, MTP250-53V47-OD, TS-35, QSFP56-DD, BEL48, IAQM-THC2V-W, RVV4-CLIP-1, NB450, BT5-LR8
+- **站内公开邮箱**：info@abctech.cz, reklamace@abctech.cz
+- **站内公开电话**：+420 491 041 044, +420 491 041 045
+- **社媒**：https://www.facebook.com/abctechcz/, https://www.facebook.com/sharer/sharer.php?u=http://www.abctech.cz/mikrotik-cloud-router-switch-crs804-4ddq-hrm_d44339.html, https://www.facebook.com/sharer/sharer.php?u=http://www.abctech.cz/mikrotik-css610-8p-2s-out-gbit-poe-switch-netpower-lite-8p_d44337.html, https://www.facebook.com/sharer/sharer.php?u=http://www.abctech.cz/mikrotik-gpoe-usb-poe-splitter-usb-c-5v-3a-15w-2-5g_d44776.html, https://www.facebook.com/sharer/sharer.php?u=http://www.abctech.cz/tp-link-tapo-c250-domaci-bezpecnostni-wi-fi-kamera-s-naklapenim-8mpx_d45111.html
+- **已抓子页**：[MikroTik CSS610-8P-2S+OUT Gbit PoE switch, netPower Lite 8P ](https://www.abctech.cz/mikrotik-css610-8p-2s-out-gbit-poe-switch-netpower-lite-8p_d44337.html)；[NapÃ¡jenÃ­ a PoE - strÃ¡nka 4 / ABCTECH - vÃ½poÄetnÃ­ techn](https://www.abctech.cz/napajeni-a-poe_c1505976.html)；[MikroTik Cloud Router Switch CRS804-4DDQ-hRM / ABCTECH - vÃ½](https://www.abctech.cz/mikrotik-cloud-router-switch-crs804-4ddq-hrm_d44339.html)；[MikroTik GPOE-USB PoE splitter USB-C, 5V, 3A, 15W, 2.5G / AB](https://www.abctech.cz/mikrotik-gpoe-usb-poe-splitter-usb-c-5v-3a-15w-2-5g_d44776.html)；[Cybersoft s.r.o.](https://www.abctech.cz/o-nas_d.html)；[TP-Link Tapo C250 DomÃ¡cÃ­ bezpeÄnostnÃ­ Wi-Fi kamera s nak](https://www.abctech.cz/tp-link-tapo-c250-domaci-bezpecnostni-wi-fi-kamera-s-naklapenim-8mpx_d45111.html)
+- 首页正文摘录：IndividuÃ¡lnÃ­ pÅÃ­stup RychlÃ© dodÃ¡nÃ­ 80 % zboÅ¾Ã­ skladem Doprava zdarma EN CZ SK CZK EUR PÅihlÃ¡Å¡enÃ­ PÅihlÃ¡Å¡enÃ­ E-mail Heslo Zapamatovat si mÄ ZapomenutÃ© heslo PÅihlÃ¡sit se ProÄ se registrovat PÅehled o svÃ© objednÃ¡vce OvÄÅenÃ­ zÃ¡ruky podle SN MoÅ¾nost zÃ­skÃ¡nÃ­ kreditu PÅehlednÃ¡ historie objednÃ¡vek PohodlnÃ¡ sprÃ¡va veÅ¡kerÃ½ch ÃºdajÅ¯ Registrovat se abc tech MAG O nÃ¡s O nÃ¡kupu DalÅ¡Ã­ s
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 12、交换机 10 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-519.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,7 +171,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

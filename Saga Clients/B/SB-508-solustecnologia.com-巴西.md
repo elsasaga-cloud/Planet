@@ -22,7 +22,7 @@ last_contact: 2025-10-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-01-02 → 2025-10-06）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,18 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-508.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://solustecnologia.com/　语言：pt-BR　站点地图 URL 数：32
+- **标题**：Solus Tecnologia / Segurança Eletrônica para Empresas, Residências e Grandes Projetos
+- **描述**：Mais de 20 anos em segurança eletrônica: CFTV, alarme, controle de acesso e automação para residências, empresas e órgãos públicos no ES. Solicite um projeto.
+- **首页栏目**：Tecnologias avançadas, para sua segurança. / Há mais de 20 anos entregando soluções completas em segurança eletrônica. / Soluções específicas para segmentos e cenários diferentes / Cada demanda de segurança eletrônica precisa da uma abordagem dedicada. / Segurança RESIDENCAL / Segurança EMPRESARIAL / Segurança CORPORATIVA & GOVERNO / Monitoramento de alarme profissional.
+- **站内公开邮箱**：contato@solustecnologia.com
+- **站内公开电话**：002 (27) 99910-3002
+- **社媒**：http://facebook.com/solusaracruz, https://wa.me/5527999103002?text=Ol%C3%A1%21%20Vim%20pelo%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.%20%5Bsolustecnologia.com%5D, https://www.instagram.com/solustecnologia/, https://www.linkedin.com/company/solustecnologia
+- 首页正文摘录：Pular para o Conteúdo Solus Tecnologia Início Sobre Soluções Soluções Residenciais Soluções Empresariais Projetos Corporativos e Governo Contato SOLUS Orienta Privacidade & LGPD Trabalhe Conosco Buscar Solus Tecnologia Tecnologias avançadas, para sua segurança. Há mais de 20 anos entregando soluções completas em segurança eletrônica. Atendemos residências, empresas e órgãos públicos com soluções sob medida, do projet
+- 数据文件：`data/saga_clients/site_snapshots/SB-508.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -146,7 +158,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

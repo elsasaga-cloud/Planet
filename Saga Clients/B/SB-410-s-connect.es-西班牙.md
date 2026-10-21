@@ -22,7 +22,7 @@ last_contact: 2025-11-06
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-11-06 → 2025-11-06）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-410.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://s-connect.es/　语言：es-ES　站点地图 URL 数：2
+- **标题**：S-Connect - Su socio para el IoT
+- **首页栏目**：Nuestras categorías destacadas de soluciones IoT / Switch Ethernet / Router 4G industrial / PC industrial / Gateway LoRaWAN / Convertidor RS232 a Ethernet / Conversor USB a RS485 / Switch KVM
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 1232、industrial 1160、ethernet 943、moxa 922、poe 588、gigabit 328、sfp 277、cable 62、scada 46、10g 44、wireless 24、wifi 24
+- **站内出现的品牌**：Moxa, Advantech, Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：EN61373, EN50155, MRX-G4064, EN50121-3-2, IEEE802, RS232, SDS-G3006, SDS-3006, EN45545-2, MRX-Q4064, EDS-G512E, SDS-3010
+- **站内公开电话**：+34 910 421 886, +34 933 396 542, 0068-2-6 10, 0068-2-6 271, 0068-2-6 84
+- **已抓子页**：[Switch PoE industrial: potencia y datos en un solo cable](https://s-connect.es/productos/red-industrial/switch-ethernet-industrial/switch-poe-industrial/)；[Switch Ethernet industrial / S-Connect](https://s-connect.es/productos/red-industrial/switch-ethernet-industrial/)；[Switch Capa 2: Conmutación eficiente y segura / S-Connect](https://s-connect.es/productos/red-industrial/switch-ethernet-industrial/switches-capa-2/)；[Switch Capa 3 - Enrutamiento IP avanzado / S-Connect](https://s-connect.es/productos/red-industrial/switch-ethernet-industrial/switches-capa-3/)；[Switch 8 puertos: red industrial robusta y segura / S-Connec](https://s-connect.es/productos/red-industrial/switch-ethernet-industrial/switch-8-puertos/)；[Switch carril DIN / S-Connect](https://s-connect.es/productos/red-industrial/switch-ethernet-industrial/switch-carril-din/)
+- 首页正文摘录：Iniciar sesión o Registro Servicio/ayuda Productos Marcas Training and Services Antenas y accesorios Cas d'usage Contactar Blog Inicio Quiénes somos Marcas Productos Accesorios Casos de uso Contactar Blog A la categoría Marcas Moxa Nport Moxa Moxa ioLogik Sintrones Semtech Sierra Wireless Milesight Lanner Electronics Inc. Advantech Kerlink Adder Technology InHand Networks Premio Taiwan Inc. (C&T Solution) Terz Indust
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 1206、PoE 588 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-410.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +159,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

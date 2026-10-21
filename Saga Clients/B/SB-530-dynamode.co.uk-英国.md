@@ -22,7 +22,7 @@ last_contact: 2025-10-31
 p1: STI-110GE
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-18 → 2025-10-31）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-530.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dynamode.co.uk/　语言：en　站点地图 URL 数：5
+- **标题**：Dynamode UK
+- **描述**：Dynamode UK
+- **首页栏目**：Country/region / Item added to your cart / Your One-Stop For Computer and Networking Devices / From the Manufacture To U / Exclusive Products / Satisfaction Guarantee / Fast Email & Chat Support / Our most popular collections:
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 75、camera 50、poe 41、media converter 41、ethernet 37、cctv 29、wifi 22、cable 17、fibre 10、gigabit 10、sfp 4、wireless 2
+- **站内出现的品牌**：Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SW40010-2-POE, SW40010-G-POE, SW80010-G-POE, SW80010-2-POE, SW2402100-G-POE, WL-AC-1200M-B, WL-AC-1200M-A, WL-GI-300-11N, WL-700N-DB-300, WL-700AN-AC, WL-700N-ART, WL-700-AC-600M
+- **产品类页面**：https://www.dynamode.co.uk/sitemap_products_1.xml?from=4998673465483&amp;to=15358053679483
+- **已抓子页**：[PoE Switches – Dynamode UK](https://www.dynamode.co.uk/collections/poe-switches)；[Ethernet Switches – Dynamode UK](https://www.dynamode.co.uk/collections/frontpage)；[CCTV Cameras – Dynamode UK](https://www.dynamode.co.uk/collections/cctv-cameras)；[Switches 10/100Mbps – Dynamode UK](https://www.dynamode.co.uk/collections/switches-10-100mbps)；[Wall Mount Data Cabinet / 6U 400mm + 6 Way 19" PDU Bundle – ](https://www.dynamode.co.uk/products/wall-mount-data-cabinet-6u-400mm-6-way-19-pdu-bundle?_pos=2&_psq=bundle&_ss=e&_v=1.0)；[Contact Us – Dynamode UK](https://www.dynamode.co.uk/pages/contact-us)
+- 首页正文摘录：Skip to content Free Shipping in UK Datacom Products Datacom Products USB3.0 Connectivity LAN Products LAN Products PoE Switches Switches 10/100Mbps Media Converters Media Converters Active Products Active Products Ethernet Switches USB Type-C USB Type-C USB Type-C IP Cameras IP Cameras CCTV Cameras Display Products Display Products HDMI Cables Structured Cabling PDU Power Distribution PDU Power Distribution Power Di
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 41、监控 79 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-530.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

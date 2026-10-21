@@ -22,7 +22,7 @@ last_contact: 2025-10-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2025-02-05 → 2025-10-23）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-306.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.crystalrugged.com/　语言：en　站点地图 URL 数：420
+- **标题**：Crystal Group: Rugged Tech. Zero Limits.
+- **描述**：Discover Crystal Group's rugged tech solutions—built to thrive in the toughest environments. Explore innovative, reliable, and durable technology today!
+- **首页栏目**：Our Mission: To Solve the Most Difficult Tech Challenges. / Reliable Solutions and Support - 24/7 / Defense / Industrial / Edge computing / Latest from Crystal Group / What our people are about / Maximum protection inside and out
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 52、switch 13、automation 5、10g 3、scada 2、fiber 1、surveillance 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AS9100D, EIA-310, RJ-45, RS232, RCS7550, RCS7850, ES3604L24, IS1200, IS2502, ICS200, ICS300, ICS400
+- **站内公开邮箱**：ellie.gretter@crystalrugged.com
+- **站内公开电话**：+1.319.378.1636 319.393.2338
+- **社媒**：http://www.facebook.com/pages/Crystal-Group/228381210553255, http://www.linkedin.com/company/crystal-group, https://www.instagram.com/crystalgrouprugged/, https://www.matrox.com/en, https://www.youtube.com/channel/UCoOusX7ngwp1YRICDZ0qnDg
+- **产品类页面**：https://www.crystalrugged.com/ruggedized-poe-switch-military/；https://www.crystalrugged.com/product/is300-industrial-3u-server/；https://www.crystalrugged.com/product/is200-industrial-2u-server/；https://www.crystalrugged.com/product/is100-industrial-1u-server/；https://www.crystalrugged.com/industrial/；https://www.crystalrugged.com/ruggedized-ruckus-switches/
+- **已抓子页**：[Industrial Commercial Servers - Crystal Group](https://www.crystalrugged.com/product/ics/)；[Industrial Commercial Servers & Rugged Industrial Solutions ](https://www.crystalrugged.com/products/industrial-commercial-servers/)；[Reliable Rugged Network Switches for Real-Time Data Transfer](https://www.crystalrugged.com/products/rugged-networking/)；[AI & Autonomy Solutions for Self-Driving Cars & Trucks - Cry](https://www.crystalrugged.com/products/ai-autonomous-vehicle-technology/)；[Rugged Computing for Industrial Environments / Crystal Group](https://www.crystalrugged.com/industrial/)；[Crystal Group launches ICS server line built for industrial ](https://www.crystalrugged.com/crystal-group-launches-ics-server-line-built-for-industrial-and-commercial-performance/)
+- 首页正文摘录：Skip to content Support Search Careers Email 1.800.378.1636 Request more info Support Search Careers Email 1.800.378.1636 Request more info Home Products Products Servers Embedded Displays Networking Storage AI & Autonomy Solutions Video Appliances Rapid Prototypes Energy Series (ES) Industrial Commercial Series Legacy Company Our Services How We Work Integrated Solutions Technical Services Who We Serve Defense Comme
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 59、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-306.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

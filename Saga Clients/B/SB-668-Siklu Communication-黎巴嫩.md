@@ -22,7 +22,7 @@ last_contact: 2025-10-10
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 1 次（2025-10-10 → 2025-10-10）
 - **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-668.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ceragon.com/products/siklu-by-ceragon　语言：en　站点地图 URL 数：619
+- **标题**：Siklu by Ceragon mmW PtP & PtMP / Ceragon Networks
+- **描述**：Discover Siklu by Ceragon's mmWave solutions for ultra-fast, cost-effective wireless connectivity. Achieve reliable, multi-gigabit performance for urban and enterprise environments.
+- **首页栏目**：Siklu by Ceragon Series / WHY SIKLU BY CERAGON MMW PTP & PTMP ? / Siklu by Ceragon Product Series / EtherHaul - PtP / MultiHaul TG - PtMP / MultiHaul TG - PtP / RELATED CONTENT: / CONTACT US
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 31、surveillance 22、automation 6、fiber 5、industrial 3、gigabit 2、switch 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IP-20N, IP-20A, IP-50FX, IP-50CX, IP-50C, IP-50GP, IP-20C-HP, IP-50E, IP-50EX, IP-100E, IP-100FR2, IP-50
+- **社媒**：https://twitter.com/Ceragon, https://www.facebook.com/ceragonnetworks/?fref=ts&rf=111891902159901, https://www.linkedin.com/company/14470, https://www.youtube.com/channel/UCLj2pBpXDAUR2ASM8ZzxZOg
+- **产品类页面**：https://www.ceragon.com/blog/rethinking-how-industrial-environments-are-monitored-and-managed；https://www.ceragon.com/products；https://www.ceragon.com/products/ims；https://www.ceragon.com/products/ip-20n；https://www.ceragon.com/products/ip-50e；https://www.ceragon.com/products/ip-50c
+- **已抓子页**：[NetMaster Network Management System / Ceragon](https://www.ceragon.com/products/network-management-netmaster)；[Intelligent Network Management / Ceragon Networks](https://www.ceragon.com/products/network-intelligence-management)；[Unified Network Management Suite](https://www.ceragon.com/products/insight-unified-network-management-suite)；[About Us / Ceragon](https://www.ceragon.com/about-ceragon)；[Products / Ceragon](https://www.ceragon.com/products)；[Unified Infrastructure Monitoring / Enhance Remote Operation](https://www.ceragon.com/products/ims)
+- 首页正文摘录：Markets Mobile Operators Energy Utilities Public Safety ISPs Smart Cities Other Markets Solutions Surveillance Secure Data IoT & Smart Systems Disaster Recovery Worker Safety Asset Connectivity Products All-Outdoor Microwave IP-50CX IP-50C Split-Mount & Disaggregated IP-20N IP-20A IP-50FX IP-50GP Series Long-Haul IP-20C-HP IP-20N IP-20A Offshore Stabilized Microwave PointLink Access PointLink Short-Haul PointLink Lon
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 8、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-668.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +155,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

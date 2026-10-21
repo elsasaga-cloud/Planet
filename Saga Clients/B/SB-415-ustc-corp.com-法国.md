@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: none
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-04-08 → 2025-10-22）
 - **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-415.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://netceed.com/　语言：en-US　站点地图 URL 数：34
+- **标题**：Netceed - Global Telecom & Data-Center Infrastructure Solutions
+- **描述**：Netceed is a global leader in telecom and broadband solutions, offering fiber, wireless, and network components with logistics, services, and support
+- **首页栏目**：We build reliable,flexible,smarter,innovative connections / We connect the world to its full potential / Discover our products / Active Solutions / Explore our product range / Expert integration and comprehensive services / Data Centers / End-to-end expertise for high-performance environments
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 103、telecom 98、fiber 72、fibre 30、cable 29、ftth 17、sfp 12、datacenter 6、switch 3、distributor 3、ethernet 2、wireless 2
+- **站内型号串**（正则抽取，含非交换机）：RHW-2, USE-2
+- **社媒**：https://www.linkedin.com/company/netceed/
+- **已抓子页**：[Netceed Partners with Actelis Networks to Offer Hybrid-Fiber](https://netceed.com/news/netceed-partners-with-actelis-networks-to-offer-hybrid-fiber-connectivity-solutions-for-traffic-signaling/)；[Networkshop 2026 - Netceed](https://netceed.com/events/networkshop-2026/)；[Network Planning, Installation & Management - Netceed](https://netceed.com/services/network-planning-installation-management/)；[Netceed Sponsors Data Center Nation (DCN) Riyadh 2026 - Netc](https://netceed.com/news/netceed-sponsors-data-center-nation-dcn-riyadh-2026/)；[Contact - Netceed](https://netceed.com/contact/)；[SCTE TechExpo 2025 – Washington, DC - Netceed](https://netceed.com/events/a-nice-heading-about-the-upcoming-event-6/)
+- 首页正文摘录：Skip to content What we do What we do What we do Our approach Solutions Services We build connections Industries Data Centers / AI Infrastructure Telecommunications Contractors Transportation Energy Discover our e-commerce platform Visit our ecommerce platform now and find everything you need to build smarter connections. Discover our products Discover our products Who we are Who we are Who we are Netceed at a glance
+- **自动对位建议**：STC-424XGGM（官网快照对位：电信/FTTH 词频 115 → 汇聚 24 GE + 4×10G；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-415.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +163,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

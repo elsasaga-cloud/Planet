@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 33 次（2024-06-07 → 2025-11-04）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-274.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://blackbear-ics.com/　语言：en-US　站点地图 URL 数：151
+- **标题**：Home｜BlackBear Cyber Security - Your Security isOur Duty
+- **描述**：BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity.
+- **首页栏目**：Your Security is Our Duty / We Protect You from Unknown Threats / Formidable Defense at a Friendly Price / Are we secure? / Understanding the risks / Ransomware and Virus / Eavesdropping and unauthorized information sniffing / Unauthorized actions through impersonation
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 21、switch 3、poe 2、automation 2、gigabit 2、scada 1、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：DD9000, BIG9000
+- **站内公开邮箱**：brenda.solano@blackbeartechhive.com, dewa@atop.com.tw, jenny.duong@blackbeartechhive.com, mohamed.hussien@xceltra.com, p.ghira@mexin.it, prashant.m@atop.com.tw
+- **站内公开电话**：+39 348 901 9351, +57 322 848 9815, +62 812 5954 4280, +84 932 751 852, +886 3 5508137, +886 968 386876
+- **社媒**：https://wa.me/84932751852, https://www.linkedin.com/company/blackbear-ics/
+- **产品类页面**：https://blackbear-ics.com/industrial-cybersecurity-guide/；https://blackbear-ics.com/ja/why-sboms-matter-for-industrial-and-critical-infrastructure-security/；https://blackbear-ics.com/es/why-sboms-matter-for-industrial-and-critical-infrastructure-security-2/；https://blackbear-ics.com/zh/why-sboms-matter-for-industrial-and-critical-infrastructure-security-3/
+- **已抓子页**：[Contact - BlackBear-Your Security is Our Duty](https://blackbear-ics.com/contact/)；[About BlackBear - BlackBear-Your Security is Our Duty](https://blackbear-ics.com/about-blackbear/)；[Solutions - BlackBear-Your Security is Our Duty](https://blackbear-ics.com/solutions/)
+- 首页正文摘录：Skip to content WHY BlackBear SOLUTIONS RESOURCES CONTACT English English 中文 (台灣) 日本語 Español Menu WHY BlackBear SOLUTIONS RESOURCES CONTACT English English 中文 (台灣) 日本語 Español Your Security is Our Duty We offer customized services and will guide you step by step along your journey to achieve your goals. We Protect You from Unknown Threats We provide solid protection to your networks and critical infrastructures. The
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 24、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-274.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -187,7 +204,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

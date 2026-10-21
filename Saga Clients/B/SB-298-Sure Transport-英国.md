@@ -24,7 +24,7 @@ last_contact: 2025-10-24
 p1: STI-050GE
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -109,6 +109,20 @@ updated: 2026-10-21
 - **风险/边界**：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复
 - **Saga 对位结论**：P1 STI-050GE（30% 档）——OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书
 - **邮件切入句（英文）**：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://suretransport.co.uk/　语言：en-gb　站点地图 URL 数：0
+- **标题**：Home
+- **描述**：SURE transport is known in the industry for supplying CCTV equipment to Tier 1 and 2 bus operators across the UK. With sister company SURE24 having been a CCTV brand for over a decade, we have camera and DVR specialists available on telephone, email and live chat at any time during work hours.
+- **首页栏目**：Discovering a World of Vehicle CCTV / CAMERAS / BUS CCTV / RECORDERS / HGV CCTV / MONITORS / VAN CCTV / SURE View
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 120、cctv 64、hikvision 20、cable 13、wifi 5、switch 1、poe 1、surveillance 1、telecom 1、axis 1
+- **站内出现的品牌**：Hikvision, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ST815, VB4112, SURE360, VB4112HR, DVRV400, DS-2CD2545FWD, AR0141, DSM5WGF-2, SURE24, DC12V, DS-2XM6726FWD-I, ST815-720P
+- **已抓子页**：[Careers](https://suretransport.co.uk/contact-info/careers-in-cctv)；[CCTV Cameras](https://suretransport.co.uk/vehicle-cctv-equipment/cctv-cameras)；[CCTV Kits](https://suretransport.co.uk/vehicle-cctv-equipment/cctv-kits-2-camera-4-camera)；[ST815 Cab Camera](https://suretransport.co.uk/vehicle-cctv-equipment/cctv-cameras/st815-cab-cameras)；[HikVision DS-2 Series](https://suretransport.co.uk/vehicle-cctv-equipment/cctv-cameras/hikvision-ds-2-series)；[Concept Pro Dome VB4112](https://suretransport.co.uk/vehicle-cctv-equipment/cctv-cameras/concept-pro-dome-vb4112)
+- 首页正文摘录：Equipment Cameras HikVision DS-2 Series Concept Pro Dome VB4112 ST815 Cab Camera Digital Video Recorders Timespace V Series Timespace R Series Timespace X Series SUREMDVR Range Monitors Accessories CCTV Kits INDUSTRIES Heavy Goods Vehicle (HGV) Bus and Coach Vans and Commercial Taxi and Car SOLUTIONS SURE Enterprise Vehicle Management Software SURE View SURE360 Drivers Aid Services SURE Cloud Servicing Tracking Train
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 1、监控 185 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-298.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

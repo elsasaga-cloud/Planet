@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-17）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-351.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://canacctv.com/　语言：en-US　站点地图 URL 数：341
+- **标题**：CANACCTV – Supply for Video Surveillance
+- **首页栏目**：BEST SELLER / CCTV Pro-Monitor 24″ Up to 1080P Built-in Speakers + Wall mount / CHE-66B (FullHD HDMI/USB KVM Extender Over a CAT.5e cable up to 60M) / DB-35-WF (AI WiFi Doorbell ) 5MP / HE60 (Finger size HDMI Extender 1080P Over a CAT.5e cable up to 180FT / 60M) / ON SALE / VGA-104A (VGA 1080p Splitter 1 to 4) / VGA-102A (VGA 1080p Splitter 1 to 2)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 120、nvr 110、cctv 28、cable 17、wifi 16、hikvision 16、oem 7、switch 1、ethernet 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PA-5386, HK-8144, PA-531612, PA-531612B, PA-5344, PA-5344B, PA-831612, PA-831612B, PA-8344, PA-8344B, PK-631612, PK-631612B
+- **产品类页面**：https://canacctv.com/product/hdb-201/；https://canacctv.com/product/ic8280hk/；https://canacctv.com/product/hdb-111k/；https://canacctv.com/product/lc2-5-10/；https://canacctv.com/product/fm-s60-100/；https://canacctv.com/product/power-adaptor-5a-cul/
+- **已抓子页**：[IP Network System – CANACCTV](https://canacctv.com/product-category/cctv-system/ip-network-system/)；[8ch NVR System – CANACCTV](https://canacctv.com/product-category/cctv-system/ip-network-system/8ch-nvr-system/)；[4ch NVR System – CANACCTV](https://canacctv.com/product-category/cctv-system/ip-network-system/4-ch-nvr-system/)；[5MP/6MP – CANACCTV](https://canacctv.com/product-category/cctv-system/ip-network-system/4-ch-nvr-system/5mp/)；[4K 8MP – CANACCTV](https://canacctv.com/product-category/cctv-system/ip-network-system/4-ch-nvr-system/4k-8mp/)；[16ch and up NVR System – CANACCTV](https://canacctv.com/product-category/cctv-system/ip-network-system/16ch-and-up-nvr-system/)
+- 首页正文摘录：Skip to content Menu HOME Monthly Deals PRODUCTS CCTV SYSTEMS NETWORK IP SYSTEMS 4CH NVR SYSTEMS 5MP/6MP 4K 8MP 8CH NVR SYSTEMS 5MP/6MP 4K 8MP 16CH and up NVR SYSTEMS 5MP/6MP 4K 8MP HD ANALOG SYSTEMS WIFI SYSTEMS CAMERAS IP CAMERAS HD ANALOG CAMERAS PTZ CAMERAS Wi-Fi CAMERAS VIDEO RECORDERS NVR DVR VIDEO DOOR PHONE VIDEO DOOR PHONE SET OUTDOOR UNIT INDOOR PANEL TRANSMISSION DATA NETWORKING VIDEO PROCESSING ACCESSORIE
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-351.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

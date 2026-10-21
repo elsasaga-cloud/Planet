@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-432.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://eltexcm.ru/　语言：ru　站点地图 URL 数：6631
+- **标题**：Eltex - Российское сетевое и телекоммуникационное оборудование купить в Москве по выгодной цене / Официальный дилер «Элтекс Коммуникации»
+- **描述**：Официальный дилер «Элтекс Коммуникации» предлагает купить сетевое и телекоммуникационное оборудование российского производства Eltex: MES, ESR, SMG, TAU, WEP, WOP, SFP. Российское оборудование из реестра ЕРРРП. Статус ТОРП. Техподдержка 24/7.
+- **首页栏目**：Каталог оборудования / Ethernet коммутаторы / Оборудование GPON / Беспроводной доступ / Маршрутизаторы ESR и ME / VoIP телефония / IoT и автоматизация / SFP модули Русмодуль
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 274、poe 125、10g 99、switch 52、ethernet 30、2.5g 23、cable 7
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, SFP28, ECSS-SC-1X, QSFP28, ECSS-10, SMG-1016M, SMG-3016, SMG-2016, RS-232, SMG-200, SMG-3116, SMG-2
+- **站内公开邮箱**：200@eltexcm.ru, a.stepanov@eltexcm.ru, afs@eltexcm.ru, am@eltexcm.ru, anb@eltexcm.ru, ar@eltexcm.ru
+- **站内公开电话**：+7 (495) 147-87-84, +7 (903) 599 20 48, +7 (903) 747 17 22, +7 (958) 611-88-06, +7 (964) 773-32-08, +7 (984) 266 94 72
+- **社媒**：https://t.me/eltexcmbot
+- **产品类页面**：https://eltexcm.ru/catalog/voip-telephoniya/softswitch/；https://eltexcm.ru/catalog/ethernet-kommutatory/kommutatory-dostupa-poe/；https://eltexcm.ru/catalog/；https://eltexcm.ru/catalog/voip-telephoniya/；https://eltexcm.ru/catalog/oborudovanie-xpon/；https://eltexcm.ru/catalog/besprovodnoj-dostup/
+- **已抓子页**：[Коммутаторы доступа PoE российского производства Eltex купит](https://eltexcm.ru/catalog/ethernet-kommutatory/kommutatory-dostupa-poe/)；[Softswitch купить в Москве российского производства Eltex по](https://eltexcm.ru/catalog/voip-telephoniya/softswitch/)；[REC купить в Москве российского производства Eltex по выгодн](https://eltexcm.ru/catalog/voip-telephoniya/softswitch/rec/)；[IVR купить в Москве российского производства Eltex по выгодн](https://eltexcm.ru/catalog/voip-telephoniya/softswitch/ivr/)；[СОРМ купить в Москве российского производства Eltex по выгод](https://eltexcm.ru/catalog/voip-telephoniya/softswitch/sorm/)；[Сервисы для Softswitch купить в Москве российского производс](https://eltexcm.ru/catalog/voip-telephoniya/softswitch/servisy/)
+- 首页正文摘录：Ваше имя* Телефон* Email* Название компании Ваш вопрос* * - Поля обязательные для заполнения Каталог Москва Мы доставляем оборудование в любую точку РФ Узнать цены Академия Москва Новосибирск Санкт-Петербург Казань Самара Нижний Новгород Челябинск Екатеринбург Ростов-на-Дону Симферополь Другой город +7 (495) 147-87-84 mail@eltexcm.ru Скопировать Скопировано Академия 0 Перейти в сравнение 0 Перейти в корзину Каталог E
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 122、交换机 52 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-432.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +153,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

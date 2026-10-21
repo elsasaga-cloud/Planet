@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -93,6 +93,22 @@ updated: 2026-10-21
 - **风险/边界**：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$139.9）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）
 - **邮件切入句（英文）**：Nalan Hanım, Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://pcgbilgisayar.com/　语言：tr　站点地图 URL 数：209
+- **标题**：PCG Bilgisayar / Gigabyte Enterprise Türkiye Distribütörü
+- **描述**：1998 yılından bu yana sektördeki yenilikçi yaklaşımıyla dikkat çeken PCG Bilgisayar, Gigabyte Enterprise Türkiye distribütörü ve NVIDIA Compute Partner olarak yüksek performanslı sunucu, workstation ve AI altyapı çözümleri sunuyor.
+- **首页栏目**：Gigabyte Enterprise Türkiye Distribütörü & NVIDIA Compute Partner / 27 YILI AŞKIN DENEYİMİMİZLE / Gigabyte G894-SG1-AAX1 GPU Sunucu / Gigabyte G894-AD3-AAX7 GPU Sunucu / Gigabyte G894-ZD3-AAX7 GPU Sunucu / Gigabyte R283-Z92-AAV1 Sunucu / Gigabyte R283-Z92-AAJ1 Sunucu / Gigabyte R283-Z92-AAJ3 Sunucu
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 14、industrial 4
+- **站内型号串**（正则抽取，含非交换机）：IM-32, AIP-SQ67, G894-SG1-AAX1, G894-AD3-AAX7, G894-ZD3-AAX7, R283-Z92-AAV1, R283-Z92-AAJ1, R283-Z92-AAJ3, W793-ZU0-LA71, W773-W80-AAF1, W753-W50-AA01, W533-W30-AA01
+- **站内公开电话**：+90 216 441 0
+- **社媒**：https://tr.linkedin.com/company/pcgbilltd, https://www.facebook.com/PCGBilgisayar/, https://www.instagram.com/pcgbilgisayar/, https://www.youtube.com/c/Pcgbilgisayar
+- **产品类页面**：https://pcgbilgisayar.com/product/gigabyte-r283-z90-aav1-sunucu；https://pcgbilgisayar.com/product/gigabyte-r283-s94-aav1-sunucu；https://pcgbilgisayar.com/product/gigabyte-r283-s92-aaj2-sunucu；https://pcgbilgisayar.com/product/gigabyte-r283-s92-aaj1-sunucu；https://pcgbilgisayar.com/product/gigabyte-r283-z92-aav1-sunucu；https://pcgbilgisayar.com/product/gigabyte-r283-z92-aaj1-sunucu
+- **已抓子页**：[Endüstriyel Çözümler](https://pcgbilgisayar.com/urunler/endustriyel-ai-cozumler/endustriyel-cozumler)；[Endüstriyel Box PC - PCG Bilgisayar](https://pcgbilgisayar.com/urunler/endustriyel-ai-cozumler/endustriyel-cozumler/endustriyel-box-pc)；[Endüstriyel Panel PC - PCG Bilgisayar](https://pcgbilgisayar.com/urunler/endustriyel-ai-cozumler/endustriyel-cozumler/endustriyel-panel-pc)；[Endüstriyel Monitörler - PCG Bilgisayar](https://pcgbilgisayar.com/urunler/endustriyel-ai-cozumler/endustriyel-cozumler/endustriyel-monitorler)；[Endüstriyel Grafik - MXM - PCG Bilgisayar](https://pcgbilgisayar.com/urunler/endustriyel-ai-cozumler/endustriyel-cozumler/endustriyel-grafik-mxm)；[Ürün Duyuruları - PCG Bilgisayar](https://pcgbilgisayar.com/kategori/haberler/urun-duyurulari)
+- 首页正文摘录：İçeriğe atla Türkiye Resmi Gigabyte Enterprise Distribütörü / NVidia Compute Partner ANA SAYFA ÜRÜNLER GIGABYTE ENTERPRISE ÇÖZÜMLERİ Gigabyte Sunucular GPU Sunucular HPC Sunucular EDGE Sunucular Storage Sunucular Gigabyte Anakartlar Gigabyte İş İstasyonları Gigabyte AI Mini PC Çözümleri Gigabyte Data Center Çözümleri NVIDIA GPU ÇÖZÜMLERİ E-VIEW ÇÖZÜMLERİ E-View İş İstasyonları E-View Sunucular E-View Network & Firewa
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 4、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-577.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

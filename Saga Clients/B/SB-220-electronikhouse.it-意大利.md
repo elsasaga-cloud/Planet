@@ -22,7 +22,7 @@ last_contact: 2025-10-13
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-01-31 → 2025-10-13）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-220.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://electronikhouse.it/　语言：it-IT　站点地图 URL 数：1009
+- **标题**：Home - Electronik House
+- **描述**：Fornitore di Componenti Elettronici Garantiamo un costante supporto ed attenzione verso i nostri clienti
+- **首页栏目**：Home / Cavo Mini Coassiale RG59 75 Ohm CU 200m HD / Staffa Per Telecamere VulTech Serie VS / Network Video Recorder 8 Canali POE – 5MP- H265 / Inseritore di Prossimità MB-IPROX 1 Ingresso / 1 Uscita OC + Buzzer – Bianco / Modulo di Espansione Filare MB-ES8IN 8 ingressi + 2 uscite BUS 485 / Fornitore di Componenti Elettronici / ARMADIO HOME PORTA VETRO 400x400x100 MM COLORE GRIGIO DIGITUS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 78、poe 49、wireless 40、camera 22、nvr 18、sfp 12、industrial 6、media converter 6、ftth 6、telecom 2、wifi 1、hikvision 1
+- **站内出现的品牌**：Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：UF-4600, VS-NVR6508-POE-5MP, VS-UVC4050BUMZ-LT, MB-ES8IN, CE278A, POE-5MP, TX4778, FAT32, TX-112, RG179, TX1604, TX-20
+- **站内公开邮箱**：info@electronikhouse.it
+- **社媒**：https://www.facebook.com/electronikhousesrl/, https://www.youtube.com/channel/UC1BIv5X2E0HHXyBPo-dFVJw/
+- **产品类页面**：https://electronikhouse.it/prodotto/network-video-recorder-4-canali-poe-8mp-uhd-h264/；https://electronikhouse.it/prodotto/network-video-recorder-8-canali-poe-8mp-uhd-h264/；https://electronikhouse.it/prodotti/；https://electronikhouse.it/prodotto/tester-per-cablaggio-rj45-bnc/；https://electronikhouse.it/prodotto/adattatore-alimentazione-femmina/；https://electronikhouse.it/prodotto/adattatore-alimentazione-maschio/
+- **已抓子页**：[Network Video Recorder 8 Canali POE - 5MP- H265](https://electronikhouse.it/prodotto/network-video-recorder-8-canali-poe-5mp-h265/)；[PENNA CON VIDEOCAMERA FULLHD PER REGISTRAZIONI AUDIOVIDEO](https://electronikhouse.it/prodotto/penna-con-videocamera-fullhd-per-registrazioni-audiovideo/)；[Telecamera Universale 5MPX 4 in 1 AHD Bullet ottica varifica](https://electronikhouse.it/prodotto/telecamera-universale-5mpx-4-in-1-ahd-bullet-ottica-varificale-motorizzata-28-12-mm/)；[Prodotti - Electronik House](https://electronikhouse.it/prodotti/)；[VIDEO GRABBER USB 2.0](https://electronikhouse.it/prodotto/video-grabber-usb-2-0/)；[TONER PER UF-4600/5600 3000 PAGINE](https://electronikhouse.it/prodotto/toner-per-uf-4600-5600-3000-pagine/)
+- 首页正文摘录：Salta al contenuto Ricerca per: Home Chi Siamo Dove Siamo Prodotti stampanti Wishlist Forniture Elettroniche Modena Home Chi Siamo Dove Siamo Prodotti stampanti Wishlist Home ELECTRONIK HOUSE FORNITURE ELETTRONICHE TECNICI PROFESSIONISTI DIGITALI Ultimi prodotti Batteria compatibile. 3 celle – 10.8 / 11.1 V – 3000 mAh – 33 Wh – colore NERO – peso 160 grammi circa – dimensioni STANDARD. Leggi tutto Batteria compatibil
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 6、PoE 49 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-220.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -22,7 +22,7 @@ last_contact: 2025-10-15
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 7 次（2025-04-24 → 2025-10-15）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-497.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.eso.co.th/　语言：th-TH　站点地图 URL 数：870
+- **标题**：บริษัท อีเอสโอ เทค จำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม
+- **描述**：จัดจำหน่ายและนำเข้าเซนเซอร์สำหรับอุตสาหกรรม, ออกแบบระบบควบคุมอัตโนมัติ PLC HMI SCADA , ตัวแทนจำหน่าย WECON , EYC-TECH , Leuze Thailand , Akusense
+- **首页栏目**：บทความ / ประวัติศาสตร์และวิวัฒนาการของจอ HMI WECON จากอดีตถึงปัจจุบัน / CODESYS คืออะไร? (What is CODESYS software ?) / Sensors for cleanroom solutions / เซนเซอร์สำหรับห้องคลีนรูม / ยกระดับประสิทธิภาพ Data Centers ด้วยเซนเซอร์จาก eyc-tech / กิจกรรมข่าวสาร / วิธีต่ออายุ V-NET 3.0 Account ด้วย Points / WECON / ประมวลภาพบรรยากาศ SMART MANUFACTURING 2026 ESO TECH × WECON
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 86、switch 41、ethernet 31、automation 23、cable 19、wifi 5、data center 2、poe 1、fiber 1、gigabit 1
+- **站内型号串**（正则抽取，含非交换机）：CN-8031, IN1073, SW05E, CN-8032, CT-121F, CT-222F, CT-124H, CT-3238, MIEN2205, MIEN2208, MIEN2208GE, MIEN2216
+- **站内公开邮箱**：chonburi@eso.co.th, info@eso.co.th, sales@eso.co.th
+- **社媒**：https://www.facebook.com/eso.co.th, https://www.instagram.com/eso.co.th/, https://www.youtube.com/@ESOTECHOFFICIAL
+- **产品类页面**：https://www.eso.co.th/category/9282/1973/flow-switch；https://www.eso.co.th/category/12350/industrial-sensors；https://www.eso.co.th/category/9342/1091/ethernet-switch；https://www.eso.co.th/category/12350/1569/cylinder-switch；https://www.eso.co.th/category/12350/1471/1039/level-switch；https://www.eso.co.th/category/12486/industrial-laser-machine
+- **已抓子页**：[Industrial Ethernet Switch](https://www.eso.co.th/ethernetswitch)；[Industrial Automation](https://www.eso.co.th/automation)；[Industrial Remote I/O Remote I/O ทางเลือกใหม่จาก Odot](https://www.eso.co.th/odotremoteio)；[Industrial Laser Machine / เครื่องเลเซอร์สำหรับงานอุตสาหกรรม](https://www.eso.co.th/lasermachine)；[เซนเซอร์สำหรับงานอุตสาหกรรม](https://www.eso.co.th/industrialsensor)；[เซนเซอร์สำหรับงานอุตสาหกรรม](https://www.eso.co.th/industrialsensor)
+- 首页正文摘录：เข้าสู่ระบบ สมัครสมาชิก หน้าหลัก สินค้าของเรา เซนเซอร์อุตสาหกรรม Inductive Sensors Capacitive Sensors Photoelectric Sensors Light Curtain Laser Sensors Ultrasonic sensors Vibration Sensors Laser Distance Sensors Pressure Sensor Differential Pressure Level Measurement Cylinder Switch Machine Vision Connection Cables เครื่องมือวัดและทดสอบ เครื่องมือวัดพลังงานไฟฟ้า Current Transformer เครื่องวัดวิเคราะห์คุณภาพน้ำ เซนเซอ
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 91、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-497.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,7 +168,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

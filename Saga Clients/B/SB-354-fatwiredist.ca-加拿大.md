@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 15 次（2024-04-30 → 2025-10-17）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-354.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.fatwiredist.ca/　语言：未标　站点地图 URL 数：0
+- **标题**：Fatwire Distributors / Electronic Parts Distribution / Edmonton, Alberta
+- **描述**：Fatwire is your #1 Dealer Source for Satellite Installation Products and Cabling in Canada
+- **首页栏目**：View All Product Categories / Integrator's Best Choice for Low Voltage and Signal Distribution Components / Integrator’s Best Choice for Low Voltage and Signal Distribution Components / Explore Our Online Product Catalog / Featured Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 183、switch 111、fiber 57、wireless 29、poe 27、ethernet 16、camera 14、gigabit 10、distributor 7、integrator 2、cctv 1
+- **站内型号串**（正则抽取，含非交换机）：LMR240, LMR400, LMR600, RG174, PT570, WI-PS305G, WI-PS308G, POE-DC-12-24-AT, WI-SG105, WI-SG108, WI-SG116
+- **已抓子页**：[Networking and PoE Switches products / Fatwire Distributors ](https://www.fatwiredist.ca/networking/poe-switches)；[Networking and Power over Ethernet products / Fatwire Distri](https://www.fatwiredist.ca/networking/poe)；[Networking and Network Switch products / Fatwire Distributor](https://www.fatwiredist.ca/networking/ns)；[Networking and Managed Switch products / Fatwire Distributor](https://www.fatwiredist.ca/networking/l2l3)；[Audio and Speaker Selectors and Switches products / Fatwire ](https://www.fatwiredist.ca/audio/select)；[HDMI and Switches products / Fatwire Distributors Edmonton](https://www.fatwiredist.ca/hdmi/switches)
+- 首页正文摘录：× View All Product Categories Accesories, LMR, Cellular Speaker Microphone Antennas LMR LTE & Cellular Signal Enhancement Audio Amps Converter Speaker Selectors and Switches Cable Alarm-Control Cable Cat 5e Cat 6 CAT 6A CAT 7 CAT6A 28Flex™ U/UTP Snagless Patch Cables LMR Mini Coax Patch Cables RG11 RG58 RG59 RG6 Speaker Wire Station Z Wire THERMOSTAT CABLE Connectors BNC / Adapters Cat5/Cat6 Mini Coax RG59 / RG6 / RG
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 27、监控 15 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-354.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +184,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

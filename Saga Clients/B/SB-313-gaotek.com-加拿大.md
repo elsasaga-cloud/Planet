@@ -22,7 +22,7 @@ last_contact: 2025-10-19
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-05-01 → 2025-10-19）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -66,6 +66,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-313.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://gaotek.com/　语言：en　站点地图 URL 数：172
+- **标题**：IoT Hardware / IoT Systems / Test Equipment - GAO Tek
+- **描述**：GAOTek is a leading global supplier of IoT hardware, IoT systems and a vast array of test equipment for all industries from it's offices in USA and Canada.
+- **首页栏目**：IoT Leader for Enterprises / GAO (Global Advanced Operations) Tek Inc. / GAO Tek’ Offers the Following Leading-Edge Technology Products / IoT Hardware / IoT Systems / IoT Guides / IoT Locations / Networks
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 236、industrial 133、ethernet 73、sfp 69、camera 41、cctv 34、media converter 28、telecom 21、data center 18、wireless 13、cable 12、switch 3
+- **站内型号串**（正则抽取，含非交换机）：RS485, MGD-499, MGD-923, MGD-179, TIIE-109, TIIE-102, OGD-172, OGD-106, LTP-154, FFS-135, EWF-109, FA-120
+- **站内公开邮箱**：sales@gaotek.com
+- **产品类页面**：https://gaotek.com/gaotek-news/applications-of-a-clamp-meter-in-manufacturing-and-industrial-maintenance/；https://gaotek.com/gaotek-news/gao-teks-formaldehyde-products-applications-in-public-administration/；https://gaotek.com/speakers/gaurav-goyal-product-manager-at-infovista/；https://gaotek.com/speakers/scott-jones-product-innovation-leader-entrepreneur/；https://gaotek.com/gaotek-news/gaotek-fiber-fusion-splicer-with-various-splicing-modes-product-id-gao-ffs-103/；https://gaotek.com/gaotek-news/world-oscilloscope-market-by-product-type-market-players-and-regions-forecast-t…
+- **已抓子页**：[Fiber Optic Test Equipment / Optical Test Equipment - GAOTek](https://gaotek.com/category/fiber-optics/)；[Industrial Gas Detectors / Commercial Gas Detectors – GAOTek](https://gaotek.com/category/environmental/industrial-gas-detectors/)；[Thermal Imager / Industrial Endoscopes - GAOTek](https://gaotek.com/category/structural-testers/thermal-imagers-endoscopes/)；[Multi Gas Detectors - GAO Tek](https://gaotek.com/category/environmental/industrial-gas-detectors/multi-gas-detectors/)；[Ozone Gas Detectors / Ozone Detector – GAOTek Inc.](https://gaotek.com/category/environmental/industrial-gas-detectors/ozone-gas-detectors/)；[Other Gas Detectors - GAO Tek](https://gaotek.com/category/environmental/industrial-gas-detectors/other-gas-detectors/)
+- 首页正文摘录：Skip to navigation Skip to main content A Global Top 10 B2B Tech Supplier Based in New York & Toronto - 3 Decades of Innovation OVERNIGHT SHIP IN USA & CANADA 1-877-585-9555 sales@gaotek.com 1-877-585-9555 sales@gaotek.com Search IOT LORAWAN LoRaWAN Gateways LoRaWAN End Devices LoRaWAN – Cloud, Server, PC & Mobile Systems LoRaWAN Accessories LoRaWAN Resources ZIGBEE Zigbee Gateways/Hubs Zigbee End Devices ZigBee – Cl
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 135、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-313.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +188,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

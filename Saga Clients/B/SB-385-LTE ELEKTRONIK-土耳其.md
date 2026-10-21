@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-144GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -90,6 +90,22 @@ updated: 2026-10-21
 - **风险/边界**：主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
 - **邮件切入句（英文）**：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ebcoelectronic.com/　语言：en　站点地图 URL 数：83
+- **标题**：EBCO Electronic
+- **描述**：Ebco Electronics is a supplier of IoT solutions such as cellular modules, lora and lorawan applications, antenna and active passive bomlist and components, etc.
+- **首页栏目**：Wireless Communication / About Us / Our Product Solutions / Recent Blog Posts
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 4、switch 3、industrial 3、cable 2、distributor 1
+- **站内公开邮箱**：info@ebcoelectronic.com, info@isijet.com, info@lte.com.tr
+- **站内公开电话**：+90 312 443 03 04
+- **社媒**：https://tr.linkedin.com/company/lte-elektronik, https://www.instagram.com/lteproducts/
+- **产品类页面**：https://www.ebcoelectronic.com/en/features/connectivity-switches；https://www.ebcoelectronic.com/en/products；https://www.ebcoelectronic.com/en/catalogs；https://www.ebcoelectronic.com/en/products-left；https://www.ebcoelectronic.com/en/products-right；https://www.ebcoelectronic.com/en/products-right/antenna
+- **已抓子页**：[Contact](https://www.ebcoelectronic.com/en/contact)；[About Us](https://www.ebcoelectronic.com/en/corporate/about-us)
+- 首页正文摘录：Home Line Card Our Team Representations Corporate About Us Contact 01 01 01 E-SHOP / Call Us Now 852 8191 0400 EBCO ELECTRONIC Wireless Communication We give value-added services to customers to provide their integration to the market fastly with their products. Our procurement includes Semiconductors, Passive Components, Connectors, Electromechanicals, Wires & Cables, PCBs, LED/LCD/TFT Displays etc. CONTACT / FOLLOW
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 3、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-385.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

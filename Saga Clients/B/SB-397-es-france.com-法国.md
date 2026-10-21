@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 2 次（2025-09-18 → 2025-10-22）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,20 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-397.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.es-france.com/　语言：fr-fr　站点地图 URL 数：0
+- **标题**：ES France / Distributeur à valeur ajoutée depuis 1963 : Composants, Instrumentation, Informatique, Réseaux - ES France
+- **描述**：Faites confiance à un spécialiste renommé en France. Contactez nos experts techniques dans ces 4 domaines : Composants, Instrumentation, Informatique et Réseaux. Echantillons, prêts, démonstrations de produits possibles.
+- **首页栏目**：Nos départements autonomes avec des experts techniques commerciaux dédiés / Composants & Modules / Mobilité & Systèmes Embarqués / RF & Hyperfréquences / Tests & Mesures / Univers NI / Puissance Énergie / Bio-Tests & Industries
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 51、fibre 31、switch 29、poe 25、surveillance 16、gigabit 15、telecom 10、industrial 6、cable 5、sfp 4、fiber 4、oem 4
+- **站内出现的品牌**：ORing　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：B601-RS, B601-DM, IGPS-1080-24V-I, RS-232, RS-422, RS-485, ET-S231, USRP-2901, EN50155, QPC0542, ESC8000, FWS-2290
+- **已抓子页**：[Switch Ethernet Gigabit PoE industriel 8 ports non-manageabl](https://www.es-france.com/18791-switch-ethernet-gigabit-poe-industriel-8-ports-non-manageables-avec-8-x-10-100-1000-base-tx-igps-1080-24v-i.html)；[Optique & Télécoms - ES France](https://www.es-france.com/10036-optique-ethernet)；[Solution d'affichage - ES France](https://www.es-france.com/11641-solution-d-affichage)；[Commande - ES France](https://www.es-france.com/commande)；[Afficheur - ES France](https://www.es-france.com/10501-afficheur)；[Nouveaux produits - ES France](https://www.es-france.com/nouveaux-produits)
+- 首页正文摘录：Close Menu Search Composants & Modules Mobilité & Systèmes Embarqués RF & Hyperfréquences Tests & Mesures NI - National Instruments Puissance Energie Bio-Tests & Industries Nos marchés Produits Obsolètes NOS SERVICES Service de Crédit-Bail Formations Prêt, Démo, Echantillon Prise de RDV en ligne Paiement en ligne SAV et Support Technique Livraisons Ressources Salons & Séminaires Evénements sur site LA SOCIÉTÉ A propo
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 25 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-397.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,7 +157,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

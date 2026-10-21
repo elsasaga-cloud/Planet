@@ -22,7 +22,7 @@ last_contact: 2025-11-04
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 9 次（2025-04-05 → 2025-11-04）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-526.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.avalan.com/　语言：en　站点地图 URL 数：69
+- **标题**：EMV / AvaLAN Networks / United States
+- **描述**：AvaLAN Networks has a secure wireless solution that installs in minutes!
+- **首页栏目**：No Digging / No Wires / No Hassle / AvaLAN Networks has a secure wireless solution that installs in minutes! / WHAT PEOPLE SAY ABOUT US / Erik Clay / ​ / Retail Systems Administrator,
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 17、switch 16、ethernet 13、poe 2、access control 1
+- **站内型号串**（正则抽取，含非交换机）：AW24PTPOE, GVR58EMVAPR, GVR584EMVSUR, AW58EMVAP, AW584EMVSU
+- **站内公开邮箱**：edwin.velez@fis-cal.com, laura.f.moore@fis-cal.com, sales@avalan.com, sales@volumeinc.com
+- **社媒**：http://www.facebook.com/AvalanWireless/, http://www.twitter.com/AvaLANWire, https://www.instagram.com/avalanwireless/, https://www.linkedin.com/company/avalan-wireless/, https://www.youtube.com/channel/UClfF6vuWeKhJUDkJhCrrAvw/
+- **产品类页面**：https://www.avalan.com/post/wifi-vs-industrial-wireless-and-why-you-should-care；https://www.avalan.com/post/why-do-you-need-an-ethernet-switch-in-a-fuel-dispenser；https://www.avalan.com/post/secure-industrial-wireless-connections-for-fuel-centers；https://www.avalan.com/post/everyone-wants-managed-switches-but-no-one-wants-to-manage-them；https://www.avalan.com/post/new-avalan-product-enables-current-loop-over-tcp-ip
+- **已抓子页**：[Ethernet Switches / AvaLAN Networks](https://www.avalan.com/ethernetswitches)；[Managed Network Services / AvaLAN Networks](https://www.avalan.com/managednetworkservices)；[About Us / AvaLAN Networks](https://www.avalan.com/about-us)；[Gilbarco Solutions / AvaLAN Networks](https://www.avalan.com/gvr)；[EMV Solutions / AvaLAN Networks](https://www.avalan.com/emv-solutions)
+- 首页正文摘录：top of page Home Fuel Center Solutions EMV Solutions Gilbarco Solutions Ethernet Switches Managed Network Services More About Us Blog More Use tab to navigate through the menu items. Home: Welcome No Digging No Wires No Hassle AvaLAN Networks has a secure wireless solution that installs in minutes! Learn More WHAT PEOPLE SAY ABOUT US Erik Clay ​ Retail Systems Administrator, Cumberland Farms "AvaLAN is a great soluti
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-526.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,7 +177,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

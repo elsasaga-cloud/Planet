@@ -22,7 +22,7 @@ last_contact: 2025-10-27
 p1: STI-288DGGPM
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-01-28 → 2025-10-27）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-282.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://advice.co.il/　语言：he　站点地图 URL 数：154
+- **标题**：אדוויס אלקטרוניקה בע"מ – ADVICE.CO.IL
+- **描述**：אדוויס אלקטרוניקה – מערכות אל פסק, ספקי כוח, סולאר, אגירת אנרגיה, עמדות טעינה לרכב חשמלי ופתרונות תקשורת וחדרי שרתים מאז 1988.
+- **首页栏目**：מוצרים ופתרונות / אל פסק / ספקי כוח / תקשורת ושרתים / טעינת רכבים חשמליים / אגירת אנרגיה וסולאר / מערכות אל פסק / Top Vision UPS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 31
+- **站内型号串**（正则抽取，含非交换机）：IGS-4215-4T2S, UIS16G-E, ISW-501T, ISW-511T, ISW-511TS15, ISW-511, ISW-511S15, IGTP-802TS, ISW-621T, ISW-621TS15, ISW-621, ISW-621S15
+- **社媒**：https://www.facebook.com/AdviceG, https://www.instagram.com/advice_electronics_ltd/, https://www.linkedin.com/in/advice-electronics-7a618610b/, https://www.youtube.com/@adviceelectronics5488
+- **产品类页面**：https://advice.co.il/sitemap_products_1.xml?from=2055977271345&amp;to=2056039137329；https://advice.co.il/sitemap_products_2.xml?from=2056039202865&amp;to=2056104050737；https://advice.co.il/sitemap_products_3.xml?from=2056104214577&amp;to=2056149336113；https://advice.co.il/sitemap_products_4.xml?from=2056149368881&amp;to=2056198225969；https://advice.co.il/sitemap_products_5.xml?from=2056198324273&amp;to=2147348709425；https://advice.co.il/sitemap_products_6.xml?from=2147353493553&amp;to=7448639865052
+- **已抓子页**：[מתגי תקשורת תעשייתים – ADVICE.CO.IL](https://advice.co.il/collections/network-communication-solutions-industrial-ethernet-industrial-ethernet-switches)；[מוצרי תקשורת תעשייתים – ADVICE.CO.IL](https://advice.co.il/pages/industrial-communication-products)；[מוצרי POE – ADVICE.CO.IL](https://advice.co.il/pages/power-over-ethernet)；[תקשורת אלחוטית כרטיסי רשת – ADVICE.CO.IL](https://advice.co.il/collections/network-communication-solutions-wireless-lan-ethernet-cards)；[מתגים - פתרונות ענן – ADVICE.CO.IL](https://advice.co.il/collections/cloud-solution-switches)；[פתרונות לחדרי שרתים – ADVICE.CO.IL](https://advice.co.il/collections/server-rooms-solutions-automatic-transfer-switch-ats)
+- 首页正文摘录：דלג לתוכן ברוכים הבאים לאתר אדוויס אלקטרוניקה ברוכים הבאים לאתר אדוויס אלקטרוניקה אדוויס מציגה- 38 שנות פתרונות הספק חכמים אדוויס מציגה- 38 שנות פתרונות הספק חכמים אדוויס מתמחה במתן שירות ופתרונות מעולים ללקוחותינו אדוויס מתמחה במתן שירות ופתרונות מעולים ללקוחותינו 🇮🇱 🇺🇸 HE ספקי כח אחורה ספקי כח ספקי כח AC/DC ספקי כח תעשייתים ספקי כח רפואיים ספקי כח מעבדתיים ספקי כח לתקשורת ספקי כח מוקשחים ספקי כח להרכבה בארון ספקי כ
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 31、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-282.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,7 +175,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

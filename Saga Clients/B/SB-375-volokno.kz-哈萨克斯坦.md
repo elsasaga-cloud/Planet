@@ -22,7 +22,7 @@ last_contact: 2025-10-22
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 17 次（2024-05-31 → 2025-10-22）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-375.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://volokno.kz/　语言：ru　站点地图 URL 数：338
+- **标题**：Волоконно оптический кабель купить в Алматы
+- **描述**：Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы от компании Альянс. Подробнее – на сайте
+- **首页栏目**：Линейная арматура для СИП 3 (6-35 кВ) / OK-SFP+-10G-AOC / Максимум выгоды / Каталог товаров / События компании / Услуги / Торгово-производственная компания "АЛЬЯНС" / Сотрудники
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：mikrotik 206、sfp 187、poe 165、ethernet 83、ubiquiti 27、ftth 21、cable 21、10g 17、switch 14、gigabit 4、wifi 3、2.5g 1
+- **站内出现的品牌**：MikroTik　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, DK2000, CF-WR619AC, CF-WR613N, QSFP28, OK-SC24, OK-4105-FE, OK-4108-FE, OK-4108-FE-P, OK-4105-GE, OK-SC24-2A, OK-SC24-20A
+- **站内公开邮箱**：arnur@volokno.kz, manager1@volokno.kz, manager2@volokno.kz, manager3@volokno.kz, manager4@volokno.kz, manager5@volokno.kz
+- **站内公开电话**：+7 (727) 220-84-55, +7 (727) 220-84-56, +7 (727) 220-84-57, +7 (777) 470 20 25, +7 (777) 470 20 27, +7 (777) 470 20 30
+- **社媒**：https://instagram.com/alliance.kz/, https://wa.me/87777101313, https://www.facebook.com/volokno.kz, https://www.youtube.com/channel/UCYDT_aTT15PrEudmbzSxTsQ
+- **产品类页面**：https://volokno.kz/product/
+- **已抓子页**：[Коммутаторы ETHERNET купить в Алматы](https://volokno.kz/product/aktivnoe-setevoe-oborudovanie-mediakonvertery-kommutatory-poe/kommutatory-ethernet/)；[Активное сетевое оборудование купить в Алматы](https://volokno.kz/product/aktivnoe-setevoe-oborudovanie-mediakonvertery-kommutatory-poe/)；[Активное сетевое оборудование купить в Алматы](https://volokno.kz/product/aktivnoe-setevoe-oborudovanie-mediakonvertery-kommutatory-poe/sfp-moduli/)；[Активное сетевое оборудование купить в Алматы](https://volokno.kz/product/aktivnoe-setevoe-oborudovanie-mediakonvertery-kommutatory-poe/kommutatory-s-poe/)；[Оборудование VoIP купить в Алматы / Альянс](https://volokno.kz/product/aktivnoe-setevoe-oborudovanie-mediakonvertery-kommutatory-poe/oborudovanie-voip/)；[Активное сетевое оборудование купить в Алматы](https://volokno.kz/product/aktivnoe-setevoe-oborudovanie-mediakonvertery-kommutatory-poe/oborudovanie-mikrotik/)
+- 首页正文摘录：Размер шрифта Цвет фона и шрифта Изображения Озвучивание текста Обычная версия сайта Торгово-производственная компания +7 (777) 470-20-25 +7 (777) 470-20-25 Абылгазина Айгерим +7 (777) 470-20-27 Иманбек Нурсултан +7 (777) 470-20-29 Агимова Мадина +7 (777) 470-20-30 Кусаинова Назым +7 (777) 710-13-13 Садыкова Мариям +7 (727) 220-84-55 Отдел продаж +7 (727) 220-84-56 Отдел продаж +7 (727) 220-84-57 Отдел продаж Заказат
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 18、交换机 14 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-375.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +191,7 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

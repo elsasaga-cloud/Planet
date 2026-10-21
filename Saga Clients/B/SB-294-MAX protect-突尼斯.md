@@ -22,7 +22,7 @@ last_contact: 2025-10-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-294.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://max-protect.com/　语言：fr-FR　站点地图 URL 数：0
+- **标题**：Max Protect – Vidéosurveillance, alarme et sécurité partout en Tunisie
+- **描述**：Caméras de surveillance, alarmes, visiophones et détection incendie Dahua, Uniview, Imou, Ajax, Elkron. Installation et livraison partout en Tunisie.
+- **首页栏目**：Max Protect, votre spécialiste de la sécurité partout en Tunisie / Nos univers / Les marques que nous distribuons / Nos 2 magasins / Produits populaires / Nouveaux produits
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 162、dahua 69、nvr 56、poe 38、hikvision 20、wifi 16、uniview 11、switch 6、ethernet 2、cable 2
+- **站内出现的品牌**：Dahua, Ajax, Hikvision, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IPC-B1E29-A-IL, IPC-HDW1439T1-A-IL, IPC-HFW1239S1-A-IL, HAC-HFW1549XP-A-PRO, NVR2104HS-4KS3, HDWT840, HAC-HDW1500CLQP-IL-A, HAC-HDW1200CLQP-IL-A, GT-Y280S-5BOL, DHI-ARD323-W2, IPC-B7ED-5M1TEA-EU, FSP14
+- **社媒**：https://twitter.com/intent/tweet?text=Dahua+2MP+%E2%80%93+Cam%C3%A9ra+IP+tube+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-B1E29-A-IL%29 https%3A%2F%2Fmax-protect.com%2F434-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-b1e29-a-il.html, https://twitter.com/intent/tweet?text=Dahua+2MP+%E2%80%93+Cam%C3%A9ra+IP+tube+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-HFW1239S1-A-IL%29 https%3A%2F%2Fmax-protect.com%2F517-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-hfw1239s1-a-il.html, https://twitter.com/intent/tweet?text=Dahua+4MP+%E2%80%93+Cam%C3%A9ra+IP+d%C3%B4me+Smart+Dual+Light+avec+micro%2C+PoE+%28IPC-HDW1439T1-A-IL%29 https%3A%2F%2Fmax-protect.com%2F515-dahua-4mp-camera-ip-dome-smart-dual-light-avec-micro-poe-ipc-hdw1439t1-a-il.html, https://www.facebook.com/maxprotecttunisie, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmax-protect.com%2F434-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-b1e29-a-il.html, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmax-protect.com%2F515-dahua-4mp-camera-ip-dome-smart-dual-light-avec-micro-poe-ipc-hdw1439t1-a-il.html
+- **已抓子页**：[Caméra IP : guide complet PoE, NVR, résolution – Max Protect](https://max-protect.com/content/10-camera-ip-guide-poe-nvr-choisir-tunisie)；[Caméra IP tube Dahua 2MP Dual Light micro – Tunisie](https://max-protect.com/434-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-b1e29-a-il.html)；[Caméra IP tube Dahua 2MP Dual Light micro PoE – Tunisie](https://max-protect.com/517-dahua-2mp-camera-ip-tube-smart-dual-light-avec-micro-poe-ipc-hfw1239s1-a-il.html)；[Caméra IP dôme Dahua 4MP Dual Light micro PoE – Tunisie](https://max-protect.com/515-dahua-4mp-camera-ip-dome-smart-dual-light-avec-micro-poe-ipc-hdw1439t1-a-il.html)；[Accueil](https://max-protect.com/2-accueil)；[Nouveaux produits](https://max-protect.com/nouveaux-produits)
+- 首页正文摘录：Appelez-nous : 72 324 111 Français ‫العربية  Connexion shopping_cart Panier 0 search Annuler Vidéosurveillance Caméra de Surveillance Caméra IP Caméra HD Caméra Sans Fil Caméras Solaires / 4G Speed Dome Caméras PTZ Kits vidéosurveillance Kits caméras IP Kits caméras HD XVR/NVR XVR DVR NVR Accessoire Videosurveillance Disque Dur Special Surveillance Bloc Alimentation Fiche Transformateur Micro de vidéosurveillance Bo
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 38、监控 218 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-294.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,7 +172,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

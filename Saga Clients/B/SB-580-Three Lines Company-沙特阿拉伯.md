@@ -22,7 +22,7 @@ last_contact: 2025-10-02
 p1: STC-448DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：WhatsApp 已加；推送 5 次（2023-02-28 → 2025-10-02）
 - **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,22 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-580.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.3lines.com.sa/en　语言：en　站点地图 URL 数：84
+- **标题**：3Lines Advanced Technologies Company / 3Lines
+- **描述**：3Lines Advanced Technologies Group was established in 2019 in alignment with Saudi Vision 2030 to localize military and civilian services within the Kingdom. The Group delivers integrated supply chain and technical services — procurement, logistics, maintenance, repair and manufacturing — supporting
+- **首页栏目**：Search this site / Services / Careers / Company / We provide Advanced Technologies Globally / How we deliver it / Supply Chain Management / Maintenance
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 5、industrial 1
+- **站内型号串**（正则抽取，含非交换机）：RFFA2148, AS9110, AS9120B, ASA-100, TPS-78
+- **站内公开邮箱**：info@3lines.com.sa
+- **站内公开电话**：+966112252433
+- **社媒**：https://www.linkedin.com/company/3lines, https://www.rtx.com/
+- **产品类页面**：https://www.3lines.com.sa/en/services/electronics-diagnostic-and-repair-workshops；https://www.3lines.com.sa/ar/services/electronics-diagnostic-and-repair-workshops；https://www.3lines.com.sa/ja/services/electronics-diagnostic-and-repair-workshops；https://www.3lines.com.sa/ko/services/electronics-diagnostic-and-repair-workshops
+- **已抓子页**：[About / 3Lines](https://www.3lines.com.sa/en/about)；[Contact / 3Lines](https://www.3lines.com.sa/en/contact)；[Strengthening Ground Support Equipment Sustainment / 3Lines](https://www.3lines.com.sa/en/news/ground-support-equipment-services)；[Electronics Diagnostic & Repair Workshops / 3Lines](https://www.3lines.com.sa/en/services/electronics-diagnostic-and-repair-workshops)；[Partners / 3Lines](https://www.3lines.com.sa/en/partners)；[Services / 3Lines](https://www.3lines.com.sa/en/services)
+- 首页正文摘录：Skip to main content LINES Advanced Technologies Company Home About Services Newsroom Contact Change language EN English EN العربية AR 日本語 JA 한국어 KO Close Search this site Search pages… About Services Newsroom Partners Careers Location LINES Advanced Technologies Company Close Services Careers Newsroom Contact Company Services Radar Maintenance, Electronics & Tactical Communications Sustainment Government Relations, 
+- 数据文件：`data/saga_clients/site_snapshots/SB-580.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -150,7 +166,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -1,0 +1,60 @@
+{
+ "code": "SB-110",
+ "name_official": "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（yahoo；仅表内信息）",
+ "summary": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 SFP 收发器兼容性；2025-03 工业 16/24 口出货图→要 datasheet；2025-04 Marvell 商用组合→「用锐捷」",
+   "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ade Tj",
+   "title": "（表内联系人，已加微信）",
+   "email": "adren_tj@yahoo.com",
+   "phone": "+62 812 2212 3997",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核；表内名疑误录）",
+  "founded": "",
+  "hq": "印度尼西亚（表内）",
+  "size": "",
+  "other": "现用品牌 Ruijie（锐捷）"
+ },
+ "channels": {
+  "role": "（未知，疑工程商）",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "要过工业 16/24 口机 datasheet",
+  "问 SFP 兼容（配件需求）"
+ ],
+ "risks": [
+  "主体不明（公司名疑误录）",
+  "商用层已用 Ruijie"
+ ],
+ "saga_fit": {
+  "p1": "STI-21616GP",
+  "tier": 25,
+  "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
+ },
+ "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc."
+}

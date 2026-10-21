@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -96,6 +96,23 @@ updated: 2026-10-21
 - **风险/边界**：Cisco 文化（品牌偏好）；南亚非主攻区；无回复
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）
 - **邮件切入句（英文）**：Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://comtech.net.pk/　语言：en-US　站点地图 URL 数：101
+- **标题**：Home - COMTECH ASSOCIATES
+- **描述**：Pakistan's Biggest Tech Show Meets Real Cisco DeploymentsComtech, a Silver Sponsor at ITCN Asia 2026, is showcasing Cisco networking, security, and data
+- **首页栏目**：Four Official Cisco Partner Badges. One Trusted Team. / Cisco Cloud and AI Infrastructure Partner / Cisco Networking Partner / Cisco Security Partner / Cisco Services Partner / Pakistan's Biggest Tech Show Meets Real Cisco Deployments / We’re Not Just an IT Vendor; We’re Your Infrastructure Partner! / What Drives Us
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cisco 71、data center 35、switch 17、wireless 15、industrial 10、ubiquiti 8、tp-link 8、telecom 5、distributor 5、integrator 4、datacenter 3、automation 2
+- **站内出现的品牌**：Cisco, D-Link, Ubiquiti, Huawei, TP-Link, H3C, Grandstream, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@comtech.com
+- **站内公开电话**：+92 213 4404440, +92 213 4404441, +92 331 1144220
+- **社媒**：https://www.facebook.com/Comtech.Associates, https://www.instagram.com/comtech_associate/, https://www.linkedin.com/company/comtechassociates/
+- **产品类页面**：https://comtech.net.pk/cisco-catalyst-1300-series-switches/；https://comtech.net.pk/cisco-catalyst-9200-advantage-series-switches/；https://comtech.net.pk/products/
+- **已抓子页**：[About Us - COMTECH ASSOCIATES](https://comtech.net.pk/about-comtech-associates-it-solutions-company-in-pakistan/)；[Networking - COMTECH ASSOCIATES](https://comtech.net.pk/services/networking-and-security-solutions/)；[Contact Us - COMTECH ASSOCIATES](https://comtech.net.pk/contact-us/)；[Partners - COMTECH ASSOCIATES](https://comtech.net.pk/partners/)；[Cisco Partner - COMTECH ASSOCIATES](https://comtech.net.pk/partners/cisco/)
+- 首页正文摘录：Services CyberSecurity Networking Data Center IT & Managed Services Custom Software Development Partners Cisco Huawei Ubiquiti DLink TP-Link H3C Fortinet Kaspersky Sangfor HPE Broadcom Dell Avaya Polycom Grandstream About Us Contact Us Resources Leadership Events Blogs Pakistan's Trusted IT Solutions Provider for Networking, Cybersecurity & Data Centers We design, secure, and manage the networking, cybersecurity, dat
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-430.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

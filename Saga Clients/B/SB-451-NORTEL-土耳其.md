@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -86,6 +86,21 @@ updated: 2026-10-21
 - **风险/边界**：ISAF 只要了目录；无后续跟进
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP
 - **邮件切入句（英文）**：Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://norteliletisim.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Nortel İletişim - Antalya 242 237 27 27
+- **描述**：Nortel İletişim Antalya – Fiber optik altyapı, telefon santrali kurulumu, güvenlik kamerası sistemleri, data kablolama, yangın algılama ve teknolojik altyapı çözümlerinde uzman firma.
+- **首页栏目**：Acil Anons Sistemleri / Kamera Sistemleri / Yangın Algılama Sistemleri / Telefon Santrali Sistemleri / Fiber Optik Altyapı / Hakkımızda / Vizyonumuz / Misyonumuz
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 17、switch 2、cctv 2
+- **站内公开邮箱**：info@norteliletisim.com
+- **站内公开电话**：+0242 237 27 27
+- **社媒**：https://www.facebook.com/, https://www.instagram.com/norteliletisim/, https://x.com/?lang=tr
+- **已抓子页**：[Nortel İletişim - Antalya 242 237 27 27](https://norteliletisim.com/Default/HizmetDetay/12)；[Nortel İletişim - Antalya 242 237 27 27](https://norteliletisim.com/Default/HizmetDetay/7)；[Nortel İletişim - Antalya 242 237 27 27](https://norteliletisim.com/Default/HizmetDetay/10)
+- 首页正文摘录：Nortel Hakkımızda Hizmetlerimiz Referanslarımız Galeri Bize Ulaşın Acil Anons Sistemleri Acil Anons Sistemleri Kamera Sistemleri 7/24 güvenlik çözümleri ile içiniz rahat olsun. Yangın Algılama Sistemleri Acil Anons Sistemleri Telefon Santrali Sistemleri IP & analog santral çözümleriyle iletişiminizi güçlendirin. Fiber Optik Altyapı Yüksek hızlı fiber sonlandırma ve test çözümleri. Memnun Müşteri Tamamlanmış Proje Saa
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-451.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

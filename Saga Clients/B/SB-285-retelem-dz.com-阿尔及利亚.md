@@ -1,4 +1,5 @@
 # retelem-dz.com
+**官方名称（调研核实）**：EPE RETELEM SPA（ex-SONATITE）
 
 > **评级 B**　|　阿尔及利亚　|　档案编号 `SB-285`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-285
 rating: B
 rating_auto: B
+name_official: "EPE RETELEM SPA（ex-SONATITE）"
 score: 45
 country: 阿尔及利亚
 region: 非洲
@@ -19,22 +21,22 @@ replies: 3
 followups: 16
 first_contact: 2024-04-28
 last_contact: 2025-10-03
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
-site_snapshot: none
+p1: STI-288GP
+price_tier: 25%
+research: done
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：阿尔及利亚的经销/集成（类型待核）；兴趣/在卖：工业交换机
+- **是谁**：阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。（调研 2026-10-21；表内兴趣：工业交换机）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/阿尔及利亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 16 次（2024-04-28 → 2025-10-03）；最近一次客户回复：2025-10-03：email
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -68,7 +70,64 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-285.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（retelem-dz.com，快照 2026-10-21，法语）
+- **是谁**：阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。
+- **在卖/在用品牌**：Ubiquiti
+- **【官网】定位：关键数字基础设施，1971 年起，EPE SPA，14 分支**
+  > EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971… Entreprise publique économique Algérie · 14 agences
+  > 来源：https://retelem-dz.com/（抓取 2026-10-21）
+- **【集团】ELEC EL DJAZAIR 控股子公司；电信 / 系统集成 / 培训**
+  > RETELEM SPA est une entreprise publique économique… filiale de la Holding ELEC EL DJAZAIR… télécommunications, intégration des systèmes d'information et formation technique
+  > 来源：https://eleceldjazair.dz/filiale/retelem/（抓取 2026-10-21）
+- **【名录】地址与联系：Bab El Oued, Alger；info@ / contact@retelem-dz.com**
+  > Rue Omar Ben Aissa, Bab El Oued, Alger… info@retelem-dz.com contact@retelem-dz.com… 023 05 74 87
+  > 来源：https://elmouchir.caci.dz/entreprise/28213（抓取 2026-10-21）
+- **【官网快照】关键词：scada 6 / fibre 8 / data center 11；品牌 Ubiquiti**
+  > kw scada 6, fibre 8, data center 11; brands Ubiquiti
+  > 来源：https://retelem-dz.com/（抓取 2026-10-21）
+- **【用户表】2024-04 工业交换机图→Datasheet；2024-06 商用 PoE 228 邮件；2024-08 4/8 口工业 PoE→对 2 光 8 PoE 有兴趣；2025-10 DAC→email**
+  > 回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Hichem Akchiche（）hichem.akchiche@retelem-dz.com +213 770 760 449〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 集团/名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | EPE RETELEM SPA（ex-SONATITE） |
+| 成立 | 1971 |
+| 总部/地址 | 54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie |
+| 其他 | ELEC EL DJAZAIR 控股；法语 |
+
+- **业务线**：LAN/WAN/Wi-Fi 与光纤传输；数据中心 / 混合云；SCADA 与工业网络；视频监控 / 门禁 / 消防；PABX / VoIP；技术培训
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Ubiquiti | （官网提及） | 无线/网络 | 无对位（Saga 不做无线） | https://retelem-dz.com/（2026-10-21） |
+
+- **触达通道（公开）**：role: 国有系统集成商（项目 / 招标）；region: 阿尔及利亚全国
+- **近况信号**：
+  - 明确对 2 光 8 电工业 PoE 有兴趣并要 datasheet
+  - SCADA / 工业网络是其业务线 → 工业交换机需求真实
+- **风险/边界**：守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）；国有采购走招标，周期长、需本地代理；付款 L/C 或 T/T 预付；法语沟通
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。
+- **邮件切入句（英文）**：Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://retelem-dz.com/　语言：fr　站点地图 URL 数：0
+- **标题**：RETELEM / Infrastructures numériques critiques
+- **描述**：EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971.
+- **首页栏目**：Un portefeuille intégré pour vos infrastructures critiques / Des architectures adaptées à chaque environnement / Du diagnostic au maintien en conditions opérationnelles / Plus de cinq décennies d’expérience de terrain / Que recherchez-vous ? / Des infrastructures numériques essentielles pour l’Algérie / Un socle industriel, une vision tournée vers les usages numériques / Intégration multi-domaines
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 11、fibre 8、scada 6、surveillance 2、switch 1、industrial 1、cable 1、cisco 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TIA-942
+- **站内公开邮箱**：info@retelem-dz.com
+- **站内公开电话**：+213 (0) 23 05 74 87, +213 (0) 23 05 74 87 54
+- 首页正文摘录：Aller au contenu EPE RETELEM SPA · Entreprise publique économique Algérie · 14 agences Assistance commerciale FR RETELEM Télématique Solutions ⌄ Secteurs ⌄ Services ⌄ Références RETELEM ⌄ Nous contacter ↗ Solutions Un portefeuille intégré pour vos infrastructures critiques Voir toutes les solutions → Infrastructures numériques Réseaux LAN, WAN et Wi-Fi Fibre optique et transmission Data centers et cloud hybride Commu
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-285.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -109,6 +168,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Hichem Akchiche | — | hichem.akchiche@retelem-dz.com / +213 770 760 449 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Hichem | — | hichem.akchiche@retelem-dz.com / +213770760449 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -126,19 +186,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GP | 深挖对位：其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。 | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -146,7 +207,7 @@ updated: 2026-10-21
 
 - **S**：有 3 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -170,30 +231,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Hichem,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

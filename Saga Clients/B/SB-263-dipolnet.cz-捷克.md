@@ -22,7 +22,7 @@ last_contact: 2025-10-08
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-03-13 → 2025-10-08）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-263.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.dipolnet.cz/　语言：cz　站点地图 URL 数：3838
+- **标题**：Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
+- **描述**：IP CCTV, WLAN, SAT TV, TP-Link, antény, kamery, koaxiální kabely, LAN zařízení, twisted pair kabely, UTP, FTP, přepínače, multipřepínače, digitální videorekordéry, objektivy, routery, ADSL, převodníky, TP-Link zařízení. Máme problém technické návody, aplikace diagramy. Výrobce antén.
+- **首页栏目**：Signal Pro / Signal Fire Welding Machines / Doporučené produkty / Anténní stožár ZB-1100/50+RAM6/415*265 (1,1m, pro pevné ploché střechy) / ULTIMODE FAST-MS1 (L925B) 5ks mechanických svárů. / Nůž na řezání optických vláken, multifunkční nástroj Signal Fire MC-16 / Venkovní zesilovač Terra AB011T (26 dB DC 5V/12V) / Stožárový zesilovač MA080T FM-VHF-UHF TERRA
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 136、poe 114、cctv 108、sfp 88、hikvision 71、dahua 31、ethernet 17、odm 14、distributor 7、10g 5、camera 5、fibre 3
+- **站内出现的品牌**：Hikvision, TP-Link, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DVB-T2, MS-508, MS-900, MS-916, MS-924, MS-932, ZB-1100, FAST-MS1, MC-16, EW-11, EW-12, AB011T
+- **站内公开邮箱**：dipolnet@t-cz.com
+- **站内公开电话**：+420 734 310 460, +45 (0) -40, +50 (2) (1) -25, +50 (2) -25, +55 (8) (4) -25, +65 (1) -30
+- **社媒**：https://www.facebook.com/dipolnet, https://www.youtube.com/dipolnetcz
+- **产品类页面**：https://www.dipolnet.cz/poe_switch_hikvision_ds-kad606_for_ip_video_door_phones_G74812.htm；https://www.dipolnet.cz/poe_switch_hikvision_ds-kad606-p_for_ip_video_door_phones_G74814.htm；https://www.dipolnet.cz/video_intercom_kit_hikvision_ds-kis602_br_4_x_poe_switch_microsd_16_gb_G73205.htm；https://www.dipolnet.cz/signal_hd_hdmi_switch_3x1_H3131.htm；https://www.dipolnet.cz/organizer_prepeti_netprotector_4p_poe_J2838.htm；https://www.dipolnet.cz/video_ip_ochrana_axon_pro_4xpoe_4xin_4xout_J2845.htm
+- **已抓子页**：[CCTV, Switch](https://www.dipolnet.cz/nabidka-cctv-switch,7097.htm)；[Databáze znalostí, Články, CCTV, Bezkontaktní měření tělesné](https://www.dipolnet.cz/clanky-cctv-bezkontaktni-mereni-telesne-teploty,6879.htm)；[WLAN, LAN, Switche](https://www.dipolnet.cz/nabidka-wlan-lan-switche,5310.htm)；[TV-SAT, Multiswitche](https://www.dipolnet.cz/nabidka-tv-sat-multiswitche,4424.htm)；[Obchod, Nové produkty](https://www.dipolnet.cz/nove_produkty,items-news.htm)；[CCTV](https://www.dipolnet.cz/nabidka-cctv,5146.htm)
+- 首页正文摘录：Přizpůsobíme se vám Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům. Pokud s tím nesouhlasíte, nebude to mít vliv na zobrazování reklam, pouze vám nebudou přizpůsobeny na míru. Soubory cookie, které zajišťují fungování našeho obchodu Jsou nezbytné pro správné fungování našich webových stránek, takže se z nich nemůžete o
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 5、交换机 136 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-263.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -149,7 +167,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

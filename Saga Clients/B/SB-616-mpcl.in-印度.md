@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -78,6 +78,21 @@ updated: 2026-10-21
 - **风险/边界**：邮箱不可达；印度 BIS 要求；南亚非主攻区
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：（原邮箱退信；待从官网重获联系方式后发）Hello MPCL team, for the commercial PoE switches you import: 2× SFP + 8× PoE unmanaged at $30.8 EXW, L2+ managed at $84.1, 24-port 280 W at $140.1 — which configuration do you buy most?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://mpcl.in/　语言：en-GB　站点地图 URL 数：45
+- **标题**：Micropoint Computers Private Limited / Building / Managing / Innovating /
+- **首页栏目**：Comprehensive IT solutions that adapt and scale with your business needs / Our Services / Empowering Your Business with Smart IT Solutions / Industry Experience / Certified Quality / Innovative Technology / Cost-Effective / Partners
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：data center 18、access control 7、oem 2、switch 1、industrial 1、automation 1、wireless 1、cable 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：sales@mpcl.in, ssales@mpcl.in
+- **站内公开电话**：+91 (022) 40956301
+- **社媒**：https://www.linkedin.com/company/mpcl-official/, https://www.linkedin.com/in/amul-mahale-769006302/, https://www.linkedin.com/in/chetan-goyani-98759a36/
+- **已抓子页**：[Networking & Security Solutions / Micropoint Computers Priva](https://mpcl.in/networking-security-solutions/)；[About Us / Micropoint Computers Private Limited / Building /](https://mpcl.in/about-us/)；[Contact Us / Micropoint Computers Private Limited / Building](https://mpcl.in/contact-us/)；[AI Solutions / Micropoint Computers Private Limited / Buildi](https://mpcl.in/ai-solutions/)；[Cyber Security Solutions for Compliance / Micropoint Compute](https://mpcl.in/cyber-security-solutions-for-compliance/)；[Enterprise Computing Solutions / Micropoint Computers Privat](https://mpcl.in/enterprise-computing-solutions-3/)
+- 首页正文摘录：Home About Us Services Enterprise Computing Solutions Hyper-Converged Infrastructure HCI AI Solutions Networking & Security Solutions Cyber Security Solutions for Compliance Data Center Project Managment Services End Points Case Studies Careers Contact Us Comprehensive IT solutions that adapt and scale with your business needs Giocare al tuo casino non aams preferito è facile e sicuro su smartphone e tablet, offrendo
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-616.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

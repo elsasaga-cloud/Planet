@@ -24,7 +24,7 @@ last_contact: 2025-10-27
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
 ```
@@ -111,6 +111,22 @@ updated: 2026-10-21
 - **风险/边界**：守界：客户市场含铁路与 M.O.D.——Saga 只供通用工业机，不做 EN50155/军规；UK 需 UKCA（Saga 有）；品牌商对固件/网管（自家 Open Management Platform）有整合要求，OEM 需 SNMP MIB 文档支持
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA
 - **邮件切入句（英文）**：For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.casecomms.com/　语言：en-GB　站点地图 URL 数：110
+- **标题**：Case Communications Case Communications Industrial Rugged Networks
+- **描述**：Case Communications Industrial Rugged Networks. Street – hardened networks for mission-critical applications, Fibre, Broadband, Cellular.
+- **首页栏目**：SMART Cities Solutions / Transport Solutions / Oil & Gas Industry Solutions / Communications Solutions / Case Communications Industrial Networks / Specialists in high-performance industrial networking solutions. / Case Communications / Leaders in Industrial Telecommunications Products
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 192、switch 179、industrial 162、ethernet 127、sfp 91、gigabit 50、10g 39、fibre 33、wireless 23、cable 15、media converter 14、access control 6
+- **站内型号串**（正则抽取，含非交换机）：PIGE-4T-2S-G, PIGE-16T-4S-G, PIGE-8T-2S-G, IEEE802, PIXE-12T-4SX-G, PIGE-8BT-4S-R, PIMC-2GB-2SFP, IMC-GB-SFP-2T, IEC61000-4-6, TX-RJ45, IEC61000-4-2, IEC61000-4-3
+- **站内公开邮箱**：admin@case.uk.com
+- **站内公开电话**：+44 (0) 1494 880 240, +44 (0) 1494 880 241
+- **产品类页面**：https://www.casecomms.com/product-overview/industrial-ethernet-switches/6-port-industrial-gigabit-poe-ethernet…；https://www.casecomms.com/product-overview/industrial-ethernet-switches/pige-8t-2s-g-industrial-poe-plus-ether…；https://www.casecomms.com/product-overview/industrial-ethernet-switches/r2-24txp-4s-g-28-port-managed-industri…；https://www.casecomms.com/12-port-poe-b-t-industrial-ethernet-switch/；https://www.casecomms.com/pige-14-port-industrial-gigabit-ethernet-poe-switch/；https://www.casecomms.com/r2-24txp-4s-g-28-port-layer-2-managed-industrial-gigabit-ethernet-poe-switch/
+- **已抓子页**：[PIXE 12T 4S MX-G - 10Gbps Industrial Ethernet Switch - Case ](https://www.casecomms.com/product-overview/industrial-ethernet-switches/10gbps-industrial-ethernet-switch/)；[PIGE-4T-2S-G b/t - 6 port Industrial Gigabit PoE Ethernet Sw](https://www.casecomms.com/product-overview/industrial-ethernet-switches/6-port-industrial-gigabit-poe-ethernet-switch/)；[PIGE-8T-2S-G Industrial PoE Plus Ethernet Switch](https://www.casecomms.com/product-overview/industrial-ethernet-switches/pige-8t-2s-g-industrial-poe-plus-ethernet-switch/)；[PIXE L3 8T 4X 1Gbps Layer 3 Industrial 90W PoE Ethernet Swit](https://www.casecomms.com/product-overview/industrial-ethernet-switches/pixe-l3-8t-4x-1gbps-layer-3-industrial-90w-poe-ethernet-switch/)；[26 Port Managed Industrial Gigabit Ethernet PoE Switch.](https://www.casecomms.com/product-overview/industrial-ethernet-switches/r2-24txp-4s-g-28-port-managed-industrial-gigabit-ethernet-poe-switch/)；[20 Port Managed PoE Industrial Gigabit Ethernet Switch](https://www.casecomms.com/product-overview/industrial-ethernet-switches/pige-16t-4s-g-managed-industrial-20-port-gigabit-poe-ethernet-switch-g-8032-ieee802-1q-4k-vlan/)
+- 首页正文摘录：Call us on +44 (0) 1494 880 240 or Email admin@case.uk.com Login Register User Profile Home About About Us Our International Partners Our Policies Products Industrial Rugged Routers 6401 ADSL Router 6402 ADSL LTE 4G Router 6944 Dual SIM 4G Router 6540 Broadband Router with V.DSL, ADSL, Fibre 6540M – MIL Spec Rugged Router Switch VoIP Router – Viper Industrial Ethernet Switches Overview Industrial Ethernet Switches Ov
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 162、PoE 192 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-459.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

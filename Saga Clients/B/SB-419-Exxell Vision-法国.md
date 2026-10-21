@@ -24,7 +24,7 @@ last_contact: 2025-10-22
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -103,6 +103,19 @@ updated: 2026-10-21
 - **风险/边界**：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%
 - **邮件切入句（英文）**：For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://exxell.fr/　语言：fr-FR　站点地图 URL 数：56
+- **标题**：Solutions de Sécurité Professionnelle / Exxell Vision
+- **描述**：Exxell Vision étudie, installe, modernise et maintient les systèmes de sécurité des sites professionnels, principalement en Île-de-France.
+- **首页栏目**：Sécuriser et maintenir les sites professionnels. / Partir du problème, pas du catalogue. / Gérer qui entre, où et quand / Clarifier le périmètre SSI / Reprendre la maîtrise de l’installation / Retrouver plus vite les images utiles / Mesurer le contexte, sans dramatiser. / Tout remplacer n’est pas toujours le bon point de départ.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 20、cable 2
+- **站内公开邮箱**：commercial@exxell.fr, vous@entreprise.fr
+- **社媒**：https://www.facebook.com/people/Exxell-Vision/61556510207776/, https://www.instagram.com/exxell_vision/, https://www.linkedin.com/company/exxell-vision/
+- **已抓子页**：[Demander un point technique - Exxell Vision](https://exxell.fr/contact/)；[Solutions de sécurité - Exxell Vision](https://exxell.fr/solutions/)；[Contrôle d’accès - Exxell Vision](https://exxell.fr/solutions/controle-acces/)；[Alarme intrusion - Exxell Vision](https://exxell.fr/solutions/alarme-intrusion/)；[Vidéosurveillance - Exxell Vision](https://exxell.fr/solutions/videosurveillance/)；[SSI / sécurité incendie - Exxell Vision](https://exxell.fr/solutions/ssi-securite-incendie/)
+- 首页正文摘录：Aller au contenu Solutions Secteurs Votre projet Exxell Vision Demander un point technique Sûreté électronique · Courants faibles · Maintenance Sécuriser et maintenir les sites professionnels. Contrôle d’accès, vidéosurveillance, intrusion, interphonie et réseaux/CFA : étude, installation, modernisation et suivi des équipements. Demander un point technique Découvrir la méthode Vos systèmes ● Objectif 01 Contrôle d’ac
+- 数据文件：`data/saga_clients/site_snapshots/SB-419.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

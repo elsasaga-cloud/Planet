@@ -24,7 +24,7 @@ last_contact: 2025-10-09
 p1: STI-050GE
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
 ```
@@ -88,6 +88,22 @@ updated: 2026-10-21
 - **风险/边界**：规模大、采购走品牌与招标（临界 C，按用户规则「太大」可降级）；16 次跟进 0 回复；WhatsApp 加不上
 - **Saga 对位结论**：P1 STI-050GE（20% 档）——批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜
 - **邮件切入句（英文）**：For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.elkov.cz/　语言：cs　站点地图 URL 数：10721
+- **标题**：Elektromateriál a svítidla / ELKOV
+- **描述**：Nabízíme přes 30 000 prodůktů elektrotechnického vybavení a svítidel. Pro firmy a kutily.
+- **首页栏目**：Vyberte si pobočku / Vybraní výrobci / Top kategorie / Akce / LED trubice (zářivka) RADIUM ESSENCE EM T8 18.3W 2200 lm 4000K 840 1500mm / Halogenidová výbojka Philips CDM-E MW ECO 360W/842 E40 / Jistič OEZ LTP-10B-1 6kA 42193 / Jistič OEZ LTP-16B-1 6kA 42195
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 12、switch 3、poe 3、sfp 3、wireless 1、hikvision 1
+- **站内型号串**（正则抽取，含非交换机）：UGR19, LOGUS90, RMQ-22, RMQ-16, LED-1L37CO3BTH1, RSI-20-20-X230-M, LTP-10B-1, LTP-16B-1, LTP-6B-1, PT-E720BT, ELAN-204, LED-PANEL-60X60BK
+- **站内公开邮箱**：adam.jegl@elkov.cz, antonie.husseinova@elkov.cz, david.marecek@elkov.cz, david.mastalir@elkov.cz, dusan.dolnicek@elkov.cz, eva.sedlackova@elkov.cz
+- **站内公开电话**：+420 543 538 804, +420 602 640 757, +420 603 261 612, +420 603 533 732, +420 603 577 233, +420 604 286 785
+- **产品类页面**：https://www.elkov.cz/katalogy-probihajicich-akci；https://www.elkov.cz/clanky/novy-b2b-e-shop；https://www.elkov.cz/abb-vyprodej；https://www.elkov.cz/letni-vyprodej；https://www.elkov.cz/prodejni-akce/abb-naradi；https://www.elkov.cz/prodejni-akce/printjet-mini
+- **已抓子页**：[O nás / ELKOV](https://www.elkov.cz/o-nas)；[Kontakty / ELKOV](https://www.elkov.cz/kontakty)
+- 首页正文摘录：Přejít na obsah Přihlášení Vítejte v ELKOV Přihlašovací e-mail Heslo Zůstat přihlášený Zapomenuté heslo Přihlásit se Nebo pokračovat přes Google Google Facebook Facebook Registrace Jste u nás poprvé? Vyberte si typ účtu a pokračujte. Koncový zákazník pro domácnosti Firma řemeslníci, OSVČ B2B Ceny Vyberte si pobočku X O nás Probíhající akce Kontakty Přihlásit se Vyberte si pobočku Brno - Kšírova (centrála) Otevřeno do
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 3 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-627.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

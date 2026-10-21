@@ -22,7 +22,7 @@ last_contact: 2025-10-21
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 8 次（2025-02-06 → 2025-10-21）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,19 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-435.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://leoptics.pl/　语言：pl-PL　站点地图 URL 数：801
+- **标题**：Leoptics – Leading equipment in Optics
+- **首页栏目**：Leoptics – Leading equipment in Optics / Polecane produkty / Miernik mocy z dodatkowym miernikiem (-70~+10dBm) PON LEO-PONPM-1070 / Telefon optyczny LEO-OPTEL – zestaw / Miernik mocy z wizualnym lokalizatorem uszkodzeń 1mW LEO-APM-1 / Źródło światła (1310, 1550 nm) LEO-ALS-1315 / Sklep / Strefa klienta
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 20、switch 12、gigabit 10、poe 6、10g 6、industrial 4
+- **站内型号串**（正则抽取，含非交换机）：LEO-APM-1, RS-232, RS-422, LEO-PONPM-1070, LEO-ALS-1315, LEO-VFL-30, LEO-620, LEO-STRIPPER-26, LEO-STRIPPER-11, LEO-MTD2650, LEO-OMM-1315-1, LEO-OMM-1315
+- **产品类页面**：https://leoptics.pl/solustions_all/duza-pracownia/video-switching-image/；https://leoptics.pl/solustions_all/invisapc-przelacznik-i-extender-kvm-oparty-na-protokole-ip/invisapc-industr…；https://leoptics.pl/produkty/；https://leoptics.pl/producenci/；https://leoptics.pl/produktyaaa/
+- **已抓子页**：[Przełączniki sieciowe - Leoptics - Leading equipment in Opti](https://leoptics.pl/kategoria-produktu/przelonczniki-sieciowe/)；[Produkty - Leoptics - Leading equipment in Optics](https://leoptics.pl/produkty/)；[KVM - Leoptics - Leading equipment in Optics](https://leoptics.pl/kategoria-produktu/kvm/)；[Modemy - Leoptics - Leading equipment in Optics](https://leoptics.pl/kategoria-produktu/modemy/)；[Konwertery - Leoptics - Leading equipment in Optics](https://leoptics.pl/kategoria-produktu/konwertery/)；[Mierniki mocy - Leoptics - Leading equipment in Optics](https://leoptics.pl/kategoria-produktu/mierniki-mocy/)
+- 首页正文摘录：Leoptics – Leading equipment in Optics Moje konto Zamówienia Koszyk 0 Producenci American Polywater Corporation Leoptics Black Box Corporation Pan Dacom Direkt GmbH Produkty Lubrykanty do kabli Uszczelniacze duktów Mierniki mocy Miernik mocy PON Źródło światła Tłumiki regulowane Wizualny lokalizator uszkodzeń Identyfikator transmisji we włóknie Systemy rezerwacji sal Systemy współpracy Modemy Technologia WDM Kontrole
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 6 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-435.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,7 +174,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

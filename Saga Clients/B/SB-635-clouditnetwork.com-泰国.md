@@ -22,7 +22,7 @@ last_contact: 2025-10-10
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 16 次（2024-05-14 → 2025-10-10）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,23 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-635.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.clouditnetwork.com/　语言：en-US　站点地图 URL 数：72
+- **标题**：CloudItNetwork ผู้นำด้านระบบ VoIP และ Cloud Solution
+- **描述**：สำหรับองค์กรยุคใหม่ ที่ต้องการความได้เปรียนในการแข่งขัน เราพร้อมแนะนำ Solution ด้าน VoIP และ Cloud ที่ตอบโจทย์ความคุ้มค่าและการใช้งาน
+- **首页栏目**：VoIP solution / Login
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 12、wifi 3、poe 2、ethernet 1、gigabit 1
+- **站内出现的品牌**：Grandstream　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：PBX800, FH-S01
+- **站内公开邮箱**：sales@clouditnetwork.com
+- **社媒**：https://twitter.com/clouditnetwork, https://www.facebook.com/clouditnetwork
+- **产品类页面**：https://www.clouditnetwork.com/product/lvswitches-ip-pbx-3000/；https://www.clouditnetwork.com/product/lvswitches-ip-pbx-6000/；https://www.clouditnetwork.com/product/lvswitches-ip-pbx-8000/；https://www.clouditnetwork.com/product/lvswitch-fxs-gateway-iad-100-4s/；https://www.clouditnetwork.com/products/；https://www.clouditnetwork.com/shop/
+- **已抓子页**：[LVswitches IP PBX Archives - Cloud It Network](https://www.clouditnetwork.com/product-category/voip/ippbx/lvswitches-ip-pbx/)；[VoIP - Cloud It Network](https://www.clouditnetwork.com/product-category/voip/)；[IP Phone จากแบรนด์ชั้นนำคุณภาพสูง เริ่มเพียง 1,250 บาท](https://www.clouditnetwork.com/product-category/voip/ip-phone/)；[Zycoo IP PBX - Cloud It Network](https://www.clouditnetwork.com/product-category/voip/ippbx/zycoo-ip-pbx/)；[Contact - Cloud It Network](https://www.clouditnetwork.com/contact/)；[ABOUT US - Cloud It Network](https://www.clouditnetwork.com/about-us/)
+- 首页正文摘录：Skip to content Search for: Home Store Blog ABOUT US นโยบายความเป็นส่วนตัว การรับประกันสินค้า Contact Login VoIP solution จำหน่ายระบบ VoIP ไม่ว่าจะเป็น IP PBX และ IP Phone พร้อมแนะนำสินค้าที่เหมาะสมกับการใช้งาน ดูสินค้าทั้งหมด Cloud It Network ให้บริการด้านระบบ VoIP ระบบโทรศัพท์ ครบวงจร Copyright 2026 © Cloud IT Network Co., Ltd Search for: Home Store Blog ABOUT US นโยบายความเป็นส่วนตัว การรับประกันสินค้า Contact Log
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-635.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,7 +173,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

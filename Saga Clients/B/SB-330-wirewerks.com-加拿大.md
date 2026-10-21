@@ -22,7 +22,7 @@ last_contact: 2025-10-16
 p1: STI-110GE
 price_tier: 30%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 10 次（2024-11-08 → 2025-10-16）
 - **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-330.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://wirewerks.com/en/　语言：en　站点地图 URL 数：0
+- **标题**：Wirewerks / Network innovations
+- **描述**：Network innovations on Wirewerks…
+- **首页栏目**：Network connectivity starts at the physical layer. / Connect with Confidence. Connect with Wirewerks. / Wirewerks Systems / Copper Network Products / Optical Fiber Network Products / Data Centers / Broadband / Enterprise
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 74、data center 18、cable 18、ethernet 10、telecom 8、installer 4、gigabit 3、10g 2、wireless 2、poe 1、automation 1、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：TIA-568, TIA-942-B, TIA-1179-A, TIA-4966-1, TIA-862-B-1
+- **站内公开邮箱**：certifications@wirewerks.com, customerservice@wirewerks.com, info@wirewerks.com, sales@wirewerks.com, techsupport@wirewerks.com, warranty@wirewerks.com
+- **社媒**：https://facebook.com/Wirewerks/, https://linkedin.com/company/wirewerks, https://youtube.com/channel/UCKplNTWACOCc9VnsFAi_ApQ
+- **已抓子页**：[Optical Fiber Network Products / Wirewerks](https://wirewerks.com/en/products-and-systems/optical-fiber-products/)；[Copper Network Products / Wirewerks](https://wirewerks.com/en/products-and-systems/copper-products/)；[Wirewerks Systems / Wirewerks](https://wirewerks.com/en/products-and-systems/wirewerks-systems/)；[Contact Us / Wirewerks](https://wirewerks.com/en/contact-us/)；[Markets & Applications / Wirewerks](https://wirewerks.com/en/markets-and-applications/)；[Solutions & Insights / Wirewerks](https://wirewerks.com/en/solutions-insights/)
+- 首页正文摘录：Contact Us FR Home Solutions & Insights Markets & Applications How to Buy Contact Us FR Wirewerks 19144, Cruickshank Avenue Baie-d’Urfé (Québec) H9X 3P1 Canada info@wirewerks.com 514.635.1103 888.993.4237 Network Connectivity Data Centers Wirewerks’ high-performance, high-density cabling systems and solutions for cloud, edge, hyperscale, multi-tenant, colocation, shared services and corporate Data Centers and SANs → 
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-330.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -163,7 +178,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

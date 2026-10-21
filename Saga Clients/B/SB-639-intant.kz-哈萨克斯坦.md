@@ -22,7 +22,7 @@ last_contact: 2025-10-17
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 18 次（2024-05-13 → 2025-10-17）
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-639.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://intant.kz/　语言：ru　站点地图 URL 数：4368
+- **标题**：Intant - Системы видеонаблюдения, безопасности, контроля доступа, пожаротушения
+- **描述**：Системы видеонаблюдения, безопасности, оповещения, контроля доступа, охранно-пожарной сигнализации и пожаротушения
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 26、sfp 12、nvr 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS-485, D-CF-7, DS-2CD1643G0-IZ, NVR-232MH-K, AE-MC0201-4, D-CF-3209
+- **站内公开邮箱**：intant@intant.net
+- **站内公开电话**：+7 (700) 027 85 85, +7 (700) 030 51 72, +7 (700) 039 08 88, +7 (700) 041 35 45, +7 (700) 091 41 06, +7 (705) 101 11 91
+- **产品类页面**：https://intant.kz/catalog/；https://intant.kz/catalog/ЦБ000004890/；https://intant.kz/catalog/ДЦ000001471/；https://intant.kz/catalog/ЦБ000003469/；https://intant.kz/catalog/ЦБ000004497/；https://intant.kz/catalog/ДЦ000006506/
+- **已抓子页**：[Кабельно-проводниковая продукция от компании Intant](https://intant.kz/catalog/kabelno-provodnikovaya-produktsiya/)；[Наши адреса](https://intant.kz/about/contacts/)；[Lan кабели от компании Intant](https://intant.kz/catalog/kabelno-provodnikovaya-produktsiya/lan-kabeli/)；[Силовые кабели от компании Intant](https://intant.kz/catalog/kabelno-provodnikovaya-produktsiya/silovye-kabeli/)；[Коаксиальные кабели от компании Intant](https://intant.kz/catalog/kabelno-provodnikovaya-produktsiya/koaksialnye-kabeli/)；[Оптические кабели от компании Intant](https://intant.kz/catalog/kabelno-provodnikovaya-produktsiya/opticheskie-kabeli/)
+- 首页正文摘录：Ваш город ###? Да Нет Например, ###1 или ###2 Продолжить с выбранным регионом Определить автоматически О нас Контакты Сервис +7 (707) 225-30-00 +7 (707) 225-30-00 +7 (747) 225-35-35 9:00 - 18:00 intant@intant.net г. Алматы, ул. Байзакова, 60 Прайс лист Русский RU 0 0 0 Каталог Извещатели охраны периметра Инструмент и материалы Интегрированные системы безопасности Источники питания Кабельно-проводниковая продукция Охр
+- 数据文件：`data/saga_clients/site_snapshots/SB-639.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,7 +185,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

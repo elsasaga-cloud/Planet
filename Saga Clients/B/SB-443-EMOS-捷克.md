@@ -24,7 +24,7 @@ last_contact: 2025-10-09
 p1: STC-024GP
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -89,6 +89,18 @@ updated: 2026-10-21
 - **风险/边界**：Legrand 集团采购合规/供应商准入流程长；15 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-024GP（30% 档）——OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）
 - **邮件切入句（英文）**：For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.emos.cz/　语言：cs　站点地图 URL 数：0
+- **标题**：EMOS - drobné elektro pro vás / Nakupujte výhodně / EMOS
+- **描述**：Specializujeme se na prodej drobného elektro zboží pod vlastní značkou EMOS. Nakupujte výhodně www.emos.cz
+- **首页栏目**：Využijte dnes slevu / Naše nabídka / Žárovky (284) / Svítilny a čelovky (110) / LED osvětlení (340) / Reflektory (115) / Lampičky a drobné osvětlení (53) / Vánoční osvětlení (268)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 4、distributor 2
+- **社媒**：https://www.facebook.com/EMOS.CZ, https://www.youtube.com/user/2012EMOS
+- **已抓子页**：[Porovnání produktů / EMOS](https://www.emos.cz/porovnani-produktu)；[EMOS jedna z největších firem v ČR v oboru elektro / EMOS](https://www.emos.cz/o-nas)
+- 首页正文摘录：Přeskočit na hlavní obsah Přeskočit na záhlaví Přeskočit na zápatí Přihlaste se k odběru novinek a získejte slevu Sleva 100 Kč na první nákup AKCE A DÁRKY Doprava a platba INFOCENTRUM Přihlášení Porovnání Prázdný Doprava zdarma. Na vše! Vyberte si kategorii Žárovky (284) Svítilny a čelovky (110) LED osvětlení (340) Reflektory (115) Lampičky a drobné osvětlení (53) Vánoční osvětlení (268) Meteostanice a budíky (38) Vá
+- 数据文件：`data/saga_clients/site_snapshots/SB-443.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -86,6 +86,21 @@ updated: 2026-10-21
 - **风险/边界**：需求未表达；公共项目守界按个案；无后续跟进
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.ebatek.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Ebatek BiliÅim Teknolojileri
+- **描述**：Gaziantep, YazÄ±lÄ±m, BiliÅim, Elektronik, Otomasyon, Bilgisayar, 3D YazÄ±cÄ±, Bilgisayar Sarf Malzemeleri, YazÄ±cÄ± Sarf Malzemeleri, YazÄ±cÄ± KartuÅu
+- **首页栏目**：HÄ°ZMETLERÄ°MÄ°Z / ÃÃZÃMLERÄ°MÄ°Z / BLOG / Ä°Å SÃREÃLERÄ°
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 8、oem 7、fiber 2、ethernet 1
+- **站内公开邮箱**：info@ebatek.com, info@erenyazilim.com
+- **站内公开电话**：+90 342 215 13 22, +90 342 215 35 66
+- **社媒**：https://www.facebook.com/ebatektr/, https://www.instagram.com/ebatek/, https://www.linkedin.com/in/ebatek-bili%C5%9Fim-teknolojileri-ve-yaz%C4%B1l%C4%B1m-a863b5141/
+- **已抓子页**：[Ebatek BiliÅim Teknolojileri](https://www.ebatek.com/page.asp?s=switch)；[Ebatek BiliÅim Teknolojileri](https://www.ebatek.com/iletisim.asp)
+- 首页正文摘录：ÃZEL BÃLÃM Dosyalar Digital Katalog ÃrÃ¼n BroÅÃ¼rleri KULLANICI Ä°ÅLEMLERÄ° Servis Talebi ÃaÄrÄ± Talebi Teklif Talebi SOSYAL MEDYA Ä°LETÄ°ÅÄ°M Tel: +90 342 215 13 22 Fax: +90 342 215 35 66 Ä°ncilipÄ±nar Mh. 36001 Nolu Sk. Emir Ä°Å Merkezi No:8/B Åehitkamil / Gaziantep / TÃ¼rkiye ANASAYFA KURUMSAL HAKKIMIZDA SEKTÃREL FAALÄ°YETLER ÃÃZÃM ORTAKLARI BANKA HESAP BÄ°LGÄ°LERÄ° Ä°NSAN KAYNAKLARI HÄ°ZMETLER BAKI
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 8、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-251.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 

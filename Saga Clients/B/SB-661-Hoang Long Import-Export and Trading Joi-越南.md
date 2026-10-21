@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,6 +55,21 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-661.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://hlc.vn/　语言：vi　站点地图 URL 数：0
+- **标题**：CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG
+- **描述**：Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS, chúng tôi là một công ty ISO9001: 2008, hầu hết các sản phẩm của UPCOM đã được xuất khẩu cho Đông Nam Á, 
+- **首页栏目**：Hoàng Long JSC cung cấp thiết bị quang / Sản Phẩm / Bộ chuyển mạch Switch công nghiệp / Switch Công Nghiệp POE 24 Cổng SISPM1040-3166-L - LANTRONIX / Switch Công Nghiệp Layer 3 28 Cổng SISPM1040-3000-L3 - LANTRONIX / Switch Công Nghiệp Quản Lý PTP 12 Cổng SISGM1040-284-LRT - LANTRONIX / Switch Công Nghiệp IES2100SL-16T-2LV / Switch Công Nghiệp IES2100SL-8T-2LV
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 310、poe 216、ethernet 165、sfp 80、gigabit 36、telecom 34、10g 19、wireless 13、cisco 7、camera 2、industrial 1
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS-232, RS485, PG2-1600, POE-UT-6408-POE, PG2-1604-SFP, PG2-1204-SFP2-10GSFP2-24, IPS3110-2GC-8POE, IPS316-2GC-4POE, IEC-61850, IES2312, IPS2000G-1GF-4GPOE
+- **站内公开邮箱**：example@gmail.com, hlc@hlc.vn, hlctelecom@gmail.com, kinhdoanh1@hlc.vn, nguyenhoang@hlc.vn
+- **社媒**：https://www.facebook.com/hoang.nguyenanh.1213, https://www.instagram.com/
+- **已抓子页**：[Switch công nghiệp 16 cổng điện Ethernet-PG2-1600](https://hlc.vn/bo-chuyen-switch-poe/switch-cong-nghiep-16-cong-dien-ethernet-pg2-1600.html)；[Switch công nghiệp 8 cổng điện Ethernet POE-UT-6408-POE](https://hlc.vn/bo-chuyen-switch-poe/switch-cong-nghiep-8-cong-dien-ethernet-poe-ut-6408-poe.html)；[Switch công nghiệp 16 cổng-PG2-1604-SFP](https://hlc.vn/bo-chuyen-switch-poe/switch-cong-nghiep-16-cong-pg2-1604-sfp--12-cong-dien-ethernet-va-4-cong-quang-sfp-.html)；[Switch công nghiệp 12 cổng-PG2-1204-SFP2-10GSFP2-24](https://hlc.vn/bo-chuyen-switch-poe/switch-cong-nghiep-12-cong-pg2-1204-sfp2-10gsfp2-24--8-cong-dien-ethernet-2-cong-quang-10gbe-sfp-va-2-cong-quang-1000base-sfp-.html)；[CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG](https://hlc.vn/bo-chuyen-doi-poe.html)；[CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG](https://hlc.vn/switches-poe-10100m.html)
+- 首页正文摘录：0911133313 nguyenhoang@hlc.vn Toggle navigation Hoàng Long JSC cung cấp thiết bị quang Hỗ trợ 24/7 0911133313 Giờ làm việc T2 - T7 Giờ hành chính 0 / 0 ₫ Tổng tiền: 0 ₫ Thanh toán Danh mục sản phẩm Switch Ethernet công nghiệp DIN-Rail Switches quản lý DIN-Rail Switches Rack mount Switches Rack mount Switches quản lý Switches Ethernet công nghiệp layer 3 Switches Ethernet RS-232/485 Bộ chuyển đổi Ethernet Switches Eth
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 19、交换机 310 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-661.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +155,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

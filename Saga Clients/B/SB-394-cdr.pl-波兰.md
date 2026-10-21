@@ -22,7 +22,7 @@ last_contact: 2025-10-20
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
-site_snapshot: none
+site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **历史互动**：推送 4 次（2025-07-17 → 2025-10-20）
 - **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,6 +65,24 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-394.json` 后由渲染器并入本节。
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://cdr.pl/　语言：未标　站点地图 URL 数：5351
+- **标题**：CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
+- **描述**：CDR - dystrybutor wysokiej jakości sprzętu dla operatorów internetowych i użytkowników domowych. Dogodne godziny urzędowania, zamówienia dokonane do godziny 16:30 realizowane tego samego dnia. Prowadzimy własny serwis.
+- **首页栏目**：D-Link M30 ISP / Huawei OptiXstar EG8145B7N-50 / ZTE ZXHN F6705
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：tp-link 104、mikrotik 95、sfp 85、switch 70、poe 49、ethernet 47、ubiquiti 31、gigabit 22、cable 16、10g 13、fiber 10、2.5g 9
+- **站内出现的品牌**：MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua, Grandstream, Hikvision, Netgear, TP-Link　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AX1800, AX3600, QSFP28, SFP28, AC1300, AX3000, IPQ-8072A, AC1200, AC600, CRS326-24G-2S, QSFP56, CRS354-48P-4S
+- **站内公开邮箱**：biuro@atte.pl, biuro@cdr.pl, bok@stalflex.pl, compliance@netgear.com, cyberbajt@cyberbajt.pl, eu@tvip.tv
+- **站内公开电话**：+1310) -68, +48 32 750 5000, +48 32-750-5000, 000 0024 1718 2116, 000 0090 3052 3519, 000 0090 3052 3535
+- **社媒**：https://www.facebook.com/wwwcdrpl, https://www.instagram.com/cdrpl/, https://www.youtube.com/channel/UCpr_pD42oLhqArvw8e6EwdQ
+- **产品类页面**：https://www.cdr.pl/k1012,switche-poe.html；https://www.cdr.pl/k1013,switche-bez-poe.html；https://www.cdr.pl/k1017,switche-poe-zarzadzalne.html；https://www.cdr.pl/k1016,switche-poe-niezarzadzalne.html；https://www.cdr.pl/k1015,switche-bez-poe-zarzadzalne.html；https://www.cdr.pl/k1014,switche-bez-poe-niezarzadzalne.html
+- **已抓子页**：[Switche](https://cdr.pl/k289,switche.html)；[MikroTik Chateau PRO ax router Wi-Fi 6 AX3600 5x GE, USB, 1x](https://cdr.pl/p10134,mikrotik-chateau-pro-ax-router-wi-fi-6-ax3600-5x-ge-usb-1x-poe-out.html)；[Testy produktów](https://cdr.pl/i14,testy-produktow.html)；[Kontakt](https://cdr.pl/kontakt.html)；[Katalog](https://cdr.pl/index.php?d=katalog)；[Karty sieciowe](https://cdr.pl/k272,karty-sieciowe.html)
+- 首页正文摘录：Szukaj w opisach Kontakt close Kontakt Serwis Wysyłka Testy produktów Regulamin Skontaktuj się z nami: alternate_email biuro@cdr.pl call +48 32 750 5000 pn. - pt. 9:00 - 17:00 Kontakt Logowanie close Logowanie Logowanie Nowy klient? Rejestracja PLN CZK EUR GBP USD close Waluta ZŁ - PLN € - EUR $ - USD Kč - CZK PL close Język Polski English Italiano Español Čeština Српски Deutsch Ελληνικά Slovenský Koszyk close Koszyk
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 22、交换机 70 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-394.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,7 +177,7 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
