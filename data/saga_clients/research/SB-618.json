@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（phicus.es，快照 2026-10-21）",
- "summary": "西班牙系统集成/工程商：官网「Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes」（es-ES）；品类词：电信 / FTTH / ISP 设备；产品页：nuevo-catalogo-integrado-en-krill、catalogo-certificado-equipos-integrados-、programa-de-apoyo-a-inversiones-producti；表内「Networking」；群发 4 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "西班牙 Phicus Tecnología（面向电信运营商的 GPON/DOCSIS/WiMAX 网络供给与监控软件及工程；KP Ignacio Sebastián（CEO）；表内「Networking」）；表内 4 次跟进无回复。",
+ "type": "运营商网络软件/工程公司（软件品类）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,46 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Phicus 定位",
+   "quote": "Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes ; Ingeniería para redes GPON, DOCSIS y WiMAX",
+   "url": "https://phicus.es/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "软件/工程服务公司（不经销硬件）；c_sub=品类不符（软件）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "西班牙",
   "other": "官网 phicus.es，语言 es-ES，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备"
+  "运营商网络软件 / 工程（西班牙）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "运营商网络软件/工程公司（软件品类）",
   "region": "西班牙",
   "contact": "phicus@phicus.es、irojo@phicus.es"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://phicus.es/）",
-  "官网公开邮箱：phicus@phicus.es",
-  "用户表兴趣/备注：Networking",
-  "表内早期 AI 描述（未核实）：西班牙网络系统集成商，主营企业网络运维、通信网络维护和IT基础设施服务"
+  "官网：Phicus Tecnología - Software de aprovisionamiento y monitoreo de redes ; Ingeniería para redes GPON, DOCSIS y WiMAX",
+  "表内：Networking；KP Ignacio Sebastian / CEO"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：运营商网络软件与工程服务；4 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": null,
   "tier": 25,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：系统集成/工程商→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "网络供给/监控软件公司（不经销硬件）→ 改 C（品类不符）"
  },
- "email_hook": "Ignacio, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：软件公司）"
 }

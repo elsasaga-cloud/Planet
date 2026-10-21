@@ -2,7 +2,7 @@
 
 > **评级 B**　|　捷克　|　档案编号 `SB-534`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：推送 8 次（2025-03-13 → 2025-10-08）　|　**所在清单**：A优质名单(CZ)、AI评估(CZ)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：CCTV 分销网店（捷克，多品牌）（推断）　|　**历史关系**：推送 8 次（2025-03-13 → 2025-10-08）　|　**所在清单**：A优质名单(CZ)、AI评估(CZ)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-534
@@ -12,14 +12,14 @@ score: 38
 country: 捷克
 region: 欧洲
 website: escadtrade.cz
-type: 分销商/经销商
+type: CCTV 分销网店（捷克，多品牌）
 tier_tags: ["A优质名单(CZ)", "AI评估(CZ)·DONE"]
 deal: no
 replies: 0
 followups: 8
 first_contact: 2025-03-13
 last_contact: 2025-10-08
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：捷克分销商/经销商：官网「Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery」（cs）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Hikvision；站内型号：A3Z2812CS-MPWIR、A4Z1214CS-MPIR、AG3Z2812FCS-MPWIR-31、AG3Z2812KCS-MPWIR-V31；表内「卖几个有名牌子的 MILESIGHT」；群发 8 次、无回复。（调研 2026-10-21；表内兴趣：卖几个有名牌子的 MILESIGHT）
+- **是谁**：捷克 Escad Trade（安防摄像机/CCTV 网店与分销：Milesight、Hikvision、Dahua、Axis、Planet、TP-Link；站内 PoE 交换机与非 PoE 交换机分类（/poe-switche-c1073/、Milesight MS-S0204-EL 页）；表内「卖几个有名牌子的 MILESIGHT」「可以尝试多跟进一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：卖几个有名牌子的 MILESIGHT）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-13 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | escadtrade.cz（取自域名，公司全名待核） | 推断 |
 | 国家 | 捷克 | 事实（用户表）|
 | 网站/域名 | escadtrade.cz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | CCTV 分销网店（捷克，多品牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 卖几个有名牌子的 MILESIGHT | 事实（用户表） |
@@ -55,9 +55,9 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（escadtrade.cz，快照 2026-10-21）
-- **是谁**：捷克分销商/经销商：官网「Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery」（cs）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Hikvision；站内型号：A3Z2812CS-MPWIR、A4Z1214CS-MPIR、AG3Z2812FCS-MPWIR-31、AG3Z2812KCS-MPWIR-V31；表内「卖几个有名牌子的 MILESIGHT」；群发 8 次、无回复。
-- **类型**：分销商/经销商
-- **在卖/在用品牌**：Hikvision
+- **是谁**：捷克 Escad Trade（安防摄像机/CCTV 网店与分销：Milesight、Hikvision、Dahua、Axis、Planet、TP-Link；站内 PoE 交换机与非 PoE 交换机分类（/poe-switche-c1073/、Milesight MS-S0204-EL 页）；表内「卖几个有名牌子的 MILESIGHT」「可以尝试多跟进一下」）；群发 8 次无回复。
+- **类型**：CCTV 分销网店（捷克，多品牌）
+- **在卖/在用品牌**：Hikvision, Milesight, Dahua, Axis, Planet, TP-Link
 - **【官网快照】官网标题：Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi**
   > Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery
   > 来源：https://www.escadtrade.cz:443/（抓取 2026-10-21）
@@ -67,25 +67,29 @@ updated: 2026-10-21
 - **【官网快照】官网标题：Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE**
   > Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery
   > 来源：https://www.escadtrade.cz:443/（抓取 2026-10-21）
+- **【官网快照】Escad 分类页**
+  > Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV ; /poe-switche-c1073/ ; /poe-switch-milesight-ms-s0204-el/
+  > 来源：https://www.escadtrade.cz:443/（抓取 2026-10-21）
+- **【用户表】有名牌子 Milesight**
+  > 卖几个有名牌子的 MILESIGHT；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 捷克 |
 | 其他 | 官网 escadtrade.cz，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 捷克；contact: obchod@escadtrade.cz
+- **业务线**：CCTV / 安防摄像机分销网店（捷克）
+- **触达通道（公开）**：role: CCTV 分销网店（捷克，多品牌）；region: 捷克；contact: obchod@escadtrade.cz
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.escadtrade.cz:443/）
-  - 安防品牌：Hikvision → PoE 配套切入
-  - 官网公开邮箱：benes@escadtrade.cz、faktury@escadtrade.cz、jitka@escadtrade.cz
-  - 用户表兴趣/备注：卖几个有名牌子的 MILESIGHT
-  - 表内早期 AI 描述（未核实）：捷克安防设备分销商，主营IP摄像机、监控系统及网络设备，PoE交换机为CCTV配套产品
-- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Hikvision lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 官网：Bezpečnostní kamery, kamerové systémy, zabezpečení, CCTV, webové IP-kamery；页面 /poe-switche-c1073/、/ethernet-switche-bez-poe-c1012/、/poe-switch-milesight-ms-s0204-el/；kw cctv 80 / planet 2 / tp-link 2 / hikvision 3 / axis 4
+  - 表内：卖几个有名牌子的 MILESIGHT；可以尝试多跟进一下
+- **风险/边界**：多品牌网店（白牌契合度待核）；8 次无回复，仅 obchod@
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **邮件切入句（英文）**：Alongside the Milesight and PLANET PoE switches in your catalogue, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -152,18 +156,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 深挖对位：24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（CCTV 分销网店（捷克，多品牌）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -171,9 +174,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：欧洲主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -201,14 +204,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Hikvision lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Milesight and PLANET PoE switches in your catalogue, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

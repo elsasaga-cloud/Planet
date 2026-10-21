@@ -3,15 +3,26 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网快照失败（http_error）；表内「商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000」；群发 8 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 HTVision（CCTV 品牌商：自有型号商用 PoE，工业 FS 有 ONV / Utepo / Ewind；表内「有很多国内的外壳」「发不过去」（邮箱退信）；官网 http_error；备注 lyvi.ru 商品链接）；群发 8 次无回复。",
+ "type": "CCTV 品牌商（俄罗斯，自有型号 PoE，邮箱退信）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ONV",
+  "Utepo",
+  "Ewind"
+ ],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
    "quote": "商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的型号；ONV/Utepo/Ewind；发不过去",
+   "quote": "商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；有很多国内的外壳 / 发不过去",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,31 +33,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 htvision.ru，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "CCTV / PoE（自有品牌 HTVision，俄罗斯）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "CCTV 品牌商（俄罗斯，自有型号 PoE，邮箱退信）",
   "region": "俄罗斯",
   "contact": "info@htvision.ru"
  },
  "signals": [
-  "用户表兴趣/备注：商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000"
+  "表内：商业 PoE 自己的型号 有 ONV Utepo Ewind 的工业 FS；有很多国内的外壳 / 发不过去；备注 https://lyvi.ru/p-g10999549758472032000",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "邮箱发不过去（info@ 退信）——邮箱待补；俄罗斯：结算/物流/合规风险；现供 ONV/Utepo/Ewind 价格基准低；官网 http_error"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?"
 }

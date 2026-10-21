@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（omnitron-systems.com，快照 2026-10-21）",
- "summary": "美国工业自动化/IoT 方案商：官网「You are being redirected...」；品类词：网络交换 / PoE；产品页：how-do-you-choose-between-a-commercial-v、omnitron-industrial-poe-switches-overvie、the-role-of-industrial-ethernet-and-poe-、poe-switches-for-ip-cameras-system；表内「工业switch」；群发 9 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "美国 Omnitron Systems（工业 PoE 交换机与 MC 自研制造商（加州 Irvine）；博客多篇工业 PoE 选型文章；KP Arie G（CEO）、Sankar R（VP Engineering and Product Management）；表内「工业 switch」）；群发 9 次无回复。",
+ "type": "工业交换机/MC 自研制造商（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -28,37 +28,53 @@
    "quote": "",
    "url": "https://omnitron-systems.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Omnitron 博客",
+   "quote": "omnitron-systems.com ; /blog/omnitron-industrial-poe-switches-overview-powering-networks-in-harsh-env…",
+   "url": "https://omnitron-systems.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 switch",
+   "quote": "工业switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：自研自产工业交换机/MC 厂商；c_sub=同行/自研",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 omnitron-systems.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "工业 PoE 交换机 / MC（自有品牌 Omnitron）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业交换机/MC 自研制造商（同行）",
   "region": "美国",
   "contact": "info@omnitron-systems.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://omnitron-systems.com/）",
-  "用户表兴趣/备注：工业switch"
+  "页面 /blog/omnitron-industrial-poe-switches-overview-powering-networks-in-harsh-env…、/blog/how-do-you-choose-between-a-commercial-vs-industrial-poe-switch",
+  "表内：工业 switch；KP Arie G / CEO；Sankar R / VP Engineering and Product Management"
  ],
- "risks": [],
+ "risks": [
+  "同行：自研自产工业 PoE 交换机与 MC；9 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "Omnitron 自研自产工业交换机与 MC（同行），非 ODM 采购方 → 改 C"
  },
- "email_hook": "Arie, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：同行自研）"
 }

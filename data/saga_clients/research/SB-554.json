@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nvtphybridge.com，快照 2026-10-21）",
- "summary": "美国分销商/经销商：官网「nvtphybridge.com」；表内「好几个系列的产品 PoE分销」；群发 11 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "美国 NVT Phybridge（长距 PoE 交换机厂商（CLEER/PoLRE 等自研产品线）；表内「好几个系列的产品，PoE 分销」「优质 PoE 公司」；KP Andres Mosqueda（Biz Dev）、Richard Kasslack（Senior Vice President Sales and Corporate Development））；群发 11 次无回复。",
+ "type": "自研长距 PoE 交换机厂商（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,46 @@
    "quote": "好几个系列的产品 PoE分销",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "好几个系列 PoE 分销",
+   "quote": "好几个系列的产品 PoE分销；优质PoE公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：自研长距 PoE 交换机厂商；c_sub=同行/自研",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 nvtphybridge.com，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "长距 PoE 交换机（自有品牌 NVT Phybridge）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "自研长距 PoE 交换机厂商（同行）",
   "region": "美国",
   "contact": "andres.mosqueda@nvtphybridge.com、insidesales@nvtphybridge.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，http://nvtphybridge.com/）",
-  "用户表兴趣/备注：好几个系列的产品 PoE分销"
+  "表内：好几个系列的产品 PoE 分销；Andres Mosqueda / Biz Dep 优质 PoE 公司；Richard Kasslack / Senior Vice President Sales and Corporate Development",
+  "快照：内容为空"
  ],
  "risks": [
-  "群发 11 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "同行：自研长距 PoE 产品线（有固定 ODM/制造链）；11 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "NVT Phybridge 自研差异化产品线（长距 PoE），非标准 ODM 采购方；11 次无回复 → 改 C（同行）"
  },
- "email_hook": "Andres, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "（不发送：同行自研）"
 }

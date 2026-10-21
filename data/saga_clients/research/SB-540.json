@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（interlogix.com，快照 2026-10-21）",
- "summary": "美国网络/安防经销或集成（官网未见角色词，待核）：官网「IIS Windows Server」；表内「MC 机架 工业FS PoE 写的是IFS牌子(似乎就是他们的)；有几个国家的办事处」；群发 10 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "美国 Interlogix（Carrier/UTC 旗下安防品牌，IFS 为其网络产品线（MC 机架、工业 FS、PoE）；Interlogix 已于 2019–2020 年退出北美市场；表内「写的是 IFS 牌子（似乎就是他们的）」「有几个国家的办事处」；快照 IIS 默认页）；群发 10 次无回复。",
+ "type": "集团安防品牌（Carrier，IFS 线；已退市）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "IFS"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,39 +23,46 @@
    "quote": "MC 机架 工业FS PoE 写的是IFS牌子(似乎就是他们的)；有几个国家的办事处",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "IFS 牌子 几个国家办事处",
+   "quote": "MC 机架 工业FS PoE 写的是IFS牌子(似乎就是他们的)；有几个国家的办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "集团品牌（Carrier）且已退出北美市场；c_sub=体量过大/集团自有线",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 interlogix.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "安防 / 网络产品（集团品牌 Interlogix / IFS）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "集团安防品牌（Carrier，IFS 线；已退市）",
   "region": "美国",
   "contact": "questions@interlogix.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.interlogix.com/）",
-  "用户表兴趣/备注：MC 机架 工业FS PoE 写的是IFS牌子(似乎就是他们的)；有几个国家的办事处"
+  "表内：MC 机架 工业 FS PoE 写的是 IFS 牌子（似乎就是他们的）；有几个国家的办事处；可以尝试多跟进一下",
+  "快照：IIS Windows Server（默认页）"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "体量/集团：Carrier 旗下品牌；Interlogix 已退出北美市场（2019–2020）；快照为 IIS 默认页；10 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "Carrier 集团旗下品牌（集团采购体系），IFS 为集团自有线且 Interlogix 已退出北美 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：集团/已退市品牌）"
 }

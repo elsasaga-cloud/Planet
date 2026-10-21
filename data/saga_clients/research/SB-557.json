@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（reichelt.com，快照 2026-10-21）",
- "summary": "德国电商/网店：官网「notebooks, PC components, harddrives and electronic at reichelt」（en）；站内品牌：Aruba；站内型号：PT-E560BTSP；表内「工业FS 有宇航的」；群发 8 次、无回复。",
- "type": "电商/网店",
+ "summary": "德国 reichelt elektronik（15 万+ 技术/电子产品的大型目录电商（家族企业）；表内「工业 FS 有宇航的」「可以着重跟一下」）；群发 8 次无回复。",
+ "type": "大型电子目录电商（德国，用户着重）",
  "size": "",
  "brands_seen": [
   "Aruba"
@@ -23,6 +23,20 @@
    "quote": "工业FS 有宇航的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "reichelt 定位",
+   "quote": "notebooks, PC components, harddrives and electronic at reichelt ; Purchase over 150,000 technology & electronics products online at reichelt.com",
+   "url": "https://www.reichelt.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 有宇航；着重跟",
+   "quote": "工业FS 有宇航的；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,30 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 reichelt.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "电子 / IT / 自动化产品目录电商（德国）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "大型电子目录电商（德国，用户着重）",
   "region": "德国",
   "contact": "info@reichelt.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.reichelt.com/）",
-  "官网公开邮箱：info@reichelt.de、webmaster@reichelt.de",
-  "用户表兴趣/备注：工业FS 有宇航的"
+  "官网：Purchase over 150,000 technology & electronics products online at reichelt.com ; Made for professionals；页面 /de/en/shop/manufacturer/A…",
+  "表内：工业 FS 有宇航的；可以着重跟一下"
  ],
- "risks": [],
+ "risks": [
+  "体量：大型目录电商（供应商准入与上架流程长）——用户标「可以着重跟一下」，保留 B；8 次无回复，仅 info@"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位"
  },
- "email_hook": "Alongside the Aruba lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the industrial Ethernet switch category at reichelt, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP managed and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS) neutral-brand or private-label from small lots, EXW USD — who handles listing new industrial networking suppliers?"
 }

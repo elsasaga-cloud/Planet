@@ -2,7 +2,7 @@
 
 > **评级 B**　|　波兰　|　档案编号 `SB-550`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：推送 8 次（2025-02-03 → 2025-10-21）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IT 分销商（波兰，Intellinet 代理，用户着重）（推断）　|　**历史关系**：推送 8 次（2025-02-03 → 2025-10-21）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-550
@@ -12,14 +12,14 @@ score: 38
 country: 波兰
 region: 欧洲
 website: netinet.pl
-type: 分销商/批发商
+type: IT 分销商（波兰，Intellinet 代理，用户着重）
 tier_tags: ["A优质名单(PL)", "AI评估(PL)·DONE"]
 deal: no
 replies: 0
 followups: 8
 first_contact: 2025-02-03
 last_contact: 2025-10-21
-p1: STI-110GE
+p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰分销商/批发商：官网「Profesjonalne rozwiązania sieciowe i technologie IT | Netinet」（pl-PL）；表内「SFP MC PoE FS 都是intellinet这个牌子的」；群发 8 次、无回复。（调研 2026-10-21；表内兴趣：SFP MC PoE FS  都是intellinet这个牌子的）
+- **是谁**：波兰 Netinet（30 余年 IT 分销商：网络方案、IT 技术与配件；「Reprezentant wybranych marek」；表内「SFP MC PoE FS 都是 Intellinet 这个牌子的」「可以着重跟一下」；KP Marek Niewczas（GM））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：SFP MC PoE FS  都是intellinet这个牌子的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-03 → 2025-10-21）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：分销商/批发商→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：Intellinet 线（IC Intracom）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、工业 8 GE + 2 SFP STI-280GE（$46.6）作白牌预算位；SFP Saga 不供；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | netinet.pl（取自域名，公司全名待核） | 推断 |
 | 国家 | 波兰 | 事实（用户表）|
 | 网站/域名 | netinet.pl | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | IT 分销商（波兰，Intellinet 代理，用户着重） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以着重跟一下 / Marek Niewczas / GM | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | SFP MC PoE FS <br>都是intellinet这个牌子的 | 事实（用户表） |
@@ -65,31 +65,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（netinet.pl，快照 2026-10-21）
-- **是谁**：波兰分销商/批发商：官网「Profesjonalne rozwiązania sieciowe i technologie IT | Netinet」（pl-PL）；表内「SFP MC PoE FS 都是intellinet这个牌子的」；群发 8 次、无回复。
-- **类型**：分销商/批发商
+- **是谁**：波兰 Netinet（30 余年 IT 分销商：网络方案、IT 技术与配件；「Reprezentant wybranych marek」；表内「SFP MC PoE FS 都是 Intellinet 这个牌子的」「可以着重跟一下」；KP Marek Niewczas（GM））；群发 8 次无回复。
+- **类型**：IT 分销商（波兰，Intellinet 代理，用户着重）
+- **在卖/在用品牌**：Intellinet
 - **【官网快照】官网标题：Profesjonalne rozwiązania sieciowe i technologie IT | Netinet**
   > Netinet – od ponad 30 lat dostarczamy profesjonalne rozwiązania sieciowe, technologie IT i akcesoria dla firm. Wspieramy biznes w zakresie sieci, bezpieczeństwa i nowoczesnych instalacji.
   > 来源：https://netinet.pl/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > SFP MC PoE FS 都是intellinet这个牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Netinet 定位**
+  > Profesjonalne rozwiązania sieciowe i technologie IT | Netinet ; od ponad 30 lat ; Dystrybutor IT z doświadczeniem
+  > 来源：https://netinet.pl/（抓取 2026-10-21）
+- **【用户表】都是 Intellinet；着重跟**
+  > SFP MC PoE FS 都是intellinet这个牌子的；可以着重跟一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Marek Niewczas（）marek.niewczas@netinet.pl 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 波兰 |
 | 其他 | 官网 netinet.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 分销商/批发商；region: 波兰；contact: info@netinet.pl、marek.niewczas@netinet.pl
+- **业务线**：IT / 网络方案分销（波兰）
+- **触达通道（公开）**：role: IT 分销商（波兰，Intellinet 代理，用户着重）；region: 波兰；contact: info@netinet.pl、marek.niewczas@netinet.pl
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://netinet.pl/）
-  - 官网公开邮箱：b2b@netinet.pl、info@netinet.pl、serwis@netinet.pl
-  - 用户表兴趣/备注：SFP MC PoE FS 都是intellinet这个牌子的
-- **Saga 对位结论**：P1 STI-110GE（20% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：分销商/批发商→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Marek, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
+  - 官网：Netinet – od ponad 30 lat dostarczamy profesjonalne rozwiązania sieciowe, technologie IT i akcesoria dla firm ; Dystrybutor IT z doświadczeniem ; Reprezentant wybranych marek
+  - 表内：SFP MC PoE FS 都是 intellinet 这个牌子的；KP Marek Niewczas / GM；可以着重跟一下
+- **风险/边界**：Intellinet 代理（品牌粘性，IC Intracom 自有 ODM 链）；8 次无回复 → 改向 GM 具名首触（用户标「可以着重跟一下」）
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——Intellinet 线（IC Intracom）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、工业 8 GE + 2 SFP STI-280GE（$46.6）作白牌预算位；SFP Saga 不供
+- **邮件切入句（英文）**：Marek, alongside the Intellinet lines you represent, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail industrial units from small lots, CE/RoHS, EXW USD — is there a project-price position your integrator customers ask for below Intellinet?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -139,7 +147,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marek Niewczas | — | info@netinet.pl / marek.niewczas@netinet.pl | 用户表原值 | Clients/ 表 |
+| Marek Niewczas | — | marek.niewczas@netinet.pl | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -156,18 +164,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：分销商/批发商→20%）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：Intellinet 线（IC Intracom）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、工业 8 GE + 2 SFP STI-280GE（$46.6）作白牌预算位；SFP Saga 不供 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（IT 分销商（波兰，Intellinet 代理，用户着重）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -177,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -205,14 +212,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Marek,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Marek, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Marek, alongside the Intellinet lines you represent, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail industrial units from small lots, CE/RoHS, EXW USD — is there a project-price position your integrator customers ask for below Intellinet?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

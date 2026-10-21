@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-622`　|　优先级 ★★　|　状态：已推送 3 次·未回复
 >
-> **类型**：制造商（同行或 OEM 客户待核）（推断）　|　**历史关系**：推送 3 次（2025-09-16 → 2025-11-06）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：兼容光模块/线缆品牌商（美国，MC/交换机副线）（推断）　|　**历史关系**：推送 3 次（2025-09-16 → 2025-11-06）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-622
@@ -12,7 +12,7 @@ score: 36
 country: 美国
 region: 北美
 website: t1nexus.com
-type: 制造商（同行或 OEM 客户待核）
+type: 兼容光模块/线缆品牌商（美国，MC/交换机副线）
 tier_tags: ["A优质名单(US)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国制造商（同行或 OEM 客户待核）：官网「Affordable OEM Transceivers and OEM Cable」（en-US）；品类词：数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、Juniper；站内型号：TL9000、QSFP28、SFP28、T1-ACC-NDR-800G；表内「MC 光路的」；群发 3 次、无回复。（调研 2026-10-21；表内兴趣：MC 光路的）
+- **是谁**：美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：MC 光路的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-09-16 → 2025-11-06）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | t1nexus.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | t1nexus.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 制造商（同行或 OEM 客户待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 兼容光模块/线缆品牌商（美国，MC/交换机副线） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | Angacom<br>2025 | 事实（用户表） |
 | 兴趣（Interested in） | MC 光路的 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（t1nexus.com，快照 2026-10-21）
-- **是谁**：美国制造商（同行或 OEM 客户待核）：官网「Affordable OEM Transceivers and OEM Cable」（en-US）；品类词：数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Cisco、Juniper；站内型号：TL9000、QSFP28、SFP28、T1-ACC-NDR-800G；表内「MC 光路的」；群发 3 次、无回复。
-- **类型**：制造商（同行或 OEM 客户待核）
+- **是谁**：美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。
+- **类型**：兼容光模块/线缆品牌商（美国，MC/交换机副线）
 - **在卖/在用品牌**：Cisco, Juniper
 - **【官网快照】官网标题：Affordable OEM Transceivers and OEM Cable；品类词 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables, and advanced end-user and production coding solutions.
@@ -64,23 +64,29 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > MC 光路的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】T1 Nexus 定位**
+  > Affordable OEM Transceivers and OEM Cable ; quality-checked next-gen switches, compatible coded oem transceivers ; /product/t1-ds2024g/
+  > 来源：https://t1nexus.com/（抓取 2026-10-21）
+- **【用户表】MC 光路的**
+  > MC 光路的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：数据中心 / 企业 IT；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 制造商（同行或 OEM 客户待核）；region: 美国；contact: info@t1nexus.com
+- **业务线**：兼容光模块 / 线缆 / MC / 交换机（自有品牌 T1）
+- **触达通道（公开）**：role: 兼容光模块/线缆品牌商（美国，MC/交换机副线）；region: 美国；contact: info@t1nexus.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://t1nexus.com/）
-  - 用户表兴趣/备注：MC 光路的
-- **风险/边界**：企业级品牌为主（Cisco/Juniper）：Saga 白牌只作价格补充线；官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Cisco / Juniper lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Access cost-effective, quality-checked next-gen switches, compatible coded oem transceivers, oem cables ; ISO and TL9000 Quality with a Lifetime Warranty；页面 /product/t1-ds2024g/、/product/t1-sfp-1g-lx/；kw media converter 18 / sfp 25 / cable 83
+  - 表内：MC 光路的
+- **风险/边界**：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供
+- **邮件切入句（英文）**：For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -139,7 +145,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（制造商（同行或 OEM 客户待核）） |
+| **P1** | STI-110GE | 深挖对位：T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（兼容光模块/线缆品牌商（美国，MC/交换机副线）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -194,7 +200,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Cisco / Juniper lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

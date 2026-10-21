@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（akton.net，快照 2026-10-21）",
- "summary": "斯洛文尼亚系统集成/工程商：官网「Akton」（en）；品类词：电信 / FTTH / ISP 设备；表内「Networking」；群发 1 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "斯洛文尼亚 Akton（Akton Group：国际电信运营/网络与在线服务提供商「Network & presence」；表内「Networking」）；表内 1 次跟进无回复。",
+ "type": "电信运营商集团（斯洛文尼亚）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,46 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Akton 定位",
+   "quote": "Home - Akton ; Services ; Why use Akton? ; Network & presence ; Akton Group",
+   "url": "https://akton.net/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "运营商集团；c_sub=运营商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "斯洛文尼亚",
   "other": "官网 akton.net，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备"
+  "电信运营 / 网络服务（集团）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "电信运营商集团（斯洛文尼亚）",
   "region": "斯洛文尼亚",
   "contact": "info@akton.si"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://akton.net/）",
-  "官网公开邮箱：data.services@akton.si、filip.lepsina@akton.si、info@akton.ba",
-  "用户表兴趣/备注：Networking"
+  "官网：Home - Akton ; Services ; Network & presence ; Akton Group；kw telecom 3",
+  "表内：Networking"
  ],
- "risks": [],
+ "risks": [
+  "运营商集团采购体系；小国（斯洛文尼亚）"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "电信运营商（Akton Group）→ 改 C（运营商）；小国"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：运营商）"
 }

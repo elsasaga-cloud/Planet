@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（automationstore.it，快照 2026-10-21）",
- "summary": "意大利网络/安防经销或集成（官网未见角色词，待核）：官网「One moment, please...」（en）；表内「商业switch」；群发 13 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "意大利 Automationstore.it（自动化产品网店；表内「商业 switch」「可以尝试多跟进一下」；快照为验证等待页）；群发 13 次无回复。",
+ "type": "自动化产品网店（意大利）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,13 @@
    "quote": "商业switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 switch",
+   "quote": "商业switch；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +36,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 automationstore.it，语言 en，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "自动化产品网店（意大利）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "自动化产品网店（意大利）",
   "region": "意大利",
   "contact": "info@automationstore.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://automationstore.it/）",
-  "用户表兴趣/备注：商业switch"
+  "快照：One moment, please...",
+  "表内：商业 switch；可以尝试多跟进一下"
  ],
  "risks": [
-  "群发 13 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "快照为验证等待页（内容待核）；13 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "商用 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 5/8 GE STI-050GE / STI-080GE（$17.0 / $31.4）作自动化配套"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the switches in your automation store, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 5/8-GE industrial units from single units, CE/RoHS, EXW USD — which switch SKU do your automation customers order most?"
 }
