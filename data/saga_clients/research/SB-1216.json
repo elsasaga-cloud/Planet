@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（luminex.be，快照 2026-10-21）",
- "summary": "比利时制造商（同行或 OEM 客户待核）：官网「Luminex」（en-US）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内型号：SFP28、AES67、EN55032、EN55035；表内「光模块 VC和FS的结合使用场景」；表内未见跟进记录。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "比利时 Luminex Network Intelligence（专业灯光/音频/视频数据分发设备制造商：自研 GigaCore 网络交换机系列（S30-I / O26-I / 10t-IP）、LumiNode，Q-SYS 认证；表内「光模块 / VC 和 FS 的结合使用场景」「网站偏实用性」）；表内无跟进记录。",
+ "type": "AV 网络交换机厂商（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,53 @@
    "quote": "光模块 VC和FS的结合使用场景",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Luminex 定位",
+   "quote": "Luminex Network Intelligence, a Belgium-based manufacturer of data distribution equipment for professional lighting, audio and video applications, offers a complete range of network switches validated",
+   "url": "https://www.luminex.be/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "光模块 VC 和 FS 结合",
+   "quote": "光模块 VC和FS的结合使用场景；网站偏实用性",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：比利时 AV 网络交换机厂商（Luminex GigaCore，自研自产），非渠道客户；c_sub=同行/厂商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "比利时",
   "other": "官网 luminex.be，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "专业 AV/灯光网络交换机制造（自有品牌 Luminex）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "AV 网络交换机厂商（同行）",
   "region": "比利时",
   "contact": "info@luminex.be"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.luminex.be/）",
-  "官网公开邮箱：info@luminex.be、sales@luminex.be、support@luminex.be",
-  "用户表兴趣/备注：光模块 VC和FS的结合使用场景"
+  "官网：Luminex Network Intelligence, a Belgium-based manufacturer of data distribution equipment for professional lighting, audio and video applications, offers a complete range of network switches validated",
+  "首页：NEW - GigaCore S30-I ; GIGACORE O26-I ; GIGACORE 10t-IP ; LUMINODE 8-IP"
  ],
  "risks": [
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+  "同行：自研 GigaCore AV 交换机系列（EN55032/AES67 认证），非渠道客户"
  ],
  "saga_fit": {
   "p1": null,
-  "tier": 30,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）"
+  "tier": 25,
+  "why": "自研自产 AV 专用交换机（GigaCore）的厂商 = 同行，非渠道客户 → 改 C"
  },
- "email_hook": "We are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "（不发送：同行/厂商）"
 }

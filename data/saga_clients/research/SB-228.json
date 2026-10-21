@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（metcom.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Metcom Güvenlik Teknolojileri A.Ş.」（tr-TR）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Hikvision、Dahua；站内型号：MTC-400、PNC360S、DH-TPCBF5421P、JQ-D70Z；表内「POE CCTV 16槽机架 FS 工业MC VC 周边产品」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Metcom Güvenlik Teknolojileri A.Ş.（车牌识别系统（「Türkiye’nin Lider Plaka Tanıma Sistemi」）、停车场道闸、视频分析、摄像机安装配件；安卡拉分部；Hikvision / Dahua；表内「PoE / CCTV / 16 槽机架 FS / 工业 MC / VC 周边产品」）；表内 2 次跟进无回复。",
+ "type": "车牌识别/停车系统方案商（土耳其）",
  "size": "",
  "brands_seen": [
   "Hikvision",
@@ -24,6 +24,20 @@
    "quote": "POE CCTV 16槽机架 FS 工业MC VC 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Metcom 定位",
+   "quote": "Metcom Güvenlik Teknolojileri A.Ş. ürün yelpazesi Plaka Tanıma Sistemi, Otopark Bariyer Sistemleri, Video Analiz, Kamera Montaj Aksesuarları ve daha birçok ürünü kapsamaktadır.",
+   "url": "https://www.metcom.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE CCTV 16 槽机架 工业 MC",
+   "quote": "POE CCTV 16槽机架 FS 工业MC VC 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -32,31 +46,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 metcom.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "车牌识别 / 停车场系统 / 视频分析 / 摄像机配件"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "车牌识别/停车系统方案商（土耳其）",
   "region": "土耳其",
   "contact": "info@metcom.com.tr、ankara@metcom.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.metcom.com.tr/）",
-  "安防品牌：Hikvision、Dahua → PoE 配套切入",
-  "用户表兴趣/备注：POE CCTV 16槽机架 FS 工业MC VC 周边产品"
+  "官网：ürün yelpazesi Plaka Tanıma Sistemi, Otopark Bariyer Sistemleri, Video Analiz, Kamera Montaj Aksesuarları；首页 Ücretli Otopark / Site / AVM KGYS Plaka Tanıma",
+  "表内：PoE CCTV 16 槽机架 FS 工业 MC VC 周边产品"
  ],
- "risks": [],
+ "risks": [
+  "土耳其：汇率敏感；MC 机架品类 Saga 无",
+  "2 次跟进无回复；仅 info@/ankara@，无具名 KP"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "LPR/停车场点位 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；室外箱工业位 STI-154GP / STI-288GPM；16 槽 MC 机架 Saga 无（Q-32）"
  },
- "email_hook": "Ankara, alongside the Hikvision / Dahua lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the PoE switches at your LPR and parking-barrier sites, we supply Marvell-based 8-PoE + 2 SFP L2+ units and DIN-rail industrial 4/8-PoE models for outdoor cabinets (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which do your installers use more, indoor rack or cabinet-mounted?"
 }

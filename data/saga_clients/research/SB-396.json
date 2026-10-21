@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（efb-elektronik.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「EFB-Elektronik Türkiye - We care for connection」（tr-TR）；品类词：电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28；表内「MC 机架 SFP DAC FS 工业设备」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 EFB-Elektronik Türkiye（德国 EFB-Elektronik 集团（1988 年起，布线与网络产品制造商）土耳其公司：传输网络技术目录 2026/27、安防方案、PoE 远程供电方案页；表内「MC / 机架 / SFP / DAC / FS / 工业设备」；KP Tuğrul Akarsu（a.tugrul@））；表内 1 次跟进无回复。",
+ "type": "德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,62 @@
    "quote": "MC 机架 SFP DAC FS 工业设备",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EFB-Elektronik Türkiye 定位",
+   "quote": "EFB-Elektronik network ve güvenlik teknolojileriyle birlikte endüstriyel sistem çözümlerinde önde gelen bir imalatçı ve sistem sağlayıcıdır. ; We care for connection since 1988",
+   "url": "https://www.efb-elektronik.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 机架 SFP DAC FS 工业设备",
+   "quote": "MC 机架 SFP DAC FS 工业设备",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Tuğrul Akarsu",
+   "title": "（表内联系人）",
+   "email": "a.tugrul@efb-elektronik.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 efb-elektronik.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "布线 / 传输网络 / 安防产品（自有品牌 EFB）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）",
   "region": "土耳其",
   "contact": "a.tugrul@efb-elektronik.com.tr、info@efb-elektronik.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.efb-elektronik.com.tr/）",
-  "官网公开邮箱：info@efb-elektronik.com.tr、info@efb-elektronik.de",
-  "用户表兴趣/备注：MC 机架 SFP DAC FS 工业设备"
+  "官网：EFB-Elektronik network ve güvenlik teknolojileriyle birlikte endüstriyel sistem çözümlerinde önde gelen bir imalatçı ve sistem sağlayıcıdır ; We care for connection since 1988",
+  "页面 /coezuemler/remote-powering/poe、/katalogu；kw poe 48 / ethernet 37 / fiber 29；KP Tuğrul Akarsu"
  ],
- "risks": [],
+ "risks": [
+  "集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供",
+  "土耳其：汇率敏感；1 次跟进无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）"
  },
- "email_hook": "Tuğrul, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Tuğrul, for the EFB-labelled PoE and industrial switches in your transmission catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, commercial 8/24-PoE L2+) from small lots, CE/RoHS — is product sourcing for Türkiye decided locally or through Bielefeld?"
 }

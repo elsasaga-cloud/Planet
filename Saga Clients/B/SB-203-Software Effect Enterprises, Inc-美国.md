@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-203`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络支持产品小型经销商（美国，已询 MIB 资料）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-203
@@ -12,14 +12,14 @@ score: 48
 country: 美国
 region: 北美
 website: softwareeffect.com
-type: 电商/网店
+type: 网络支持产品小型经销商（美国，已询 MIB 资料）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-28DGGPM
+p1: STI-488DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国电商/网店：官网「Software Effect Enterprises, Inc」（en-US）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Cisco、Juniper、Ubiquiti、MikroTik；产品页：cisco-switch、enable-ssh-on-cisco-switch、free-up-storage-space-on-juniper-switch、usb-port-on-front-of-juniper-ex2300-swit；表内「4光8管理MIB资料 / from: Shopify」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：美国 Software Effect Enterprises, Inc（网络支持专用产品小型经销/技术站：Cisco/Juniper 交换机操作文章；Shopify 询盘「4 光 8 电管理型交换机 MIB 资料」；KP Charles H. Deling（charles@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：交换机词频 17、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-488DGGPM — 深挖对位：询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料；$147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Software Effect Enterprises, Inc | 事实（用户表） |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | softwareeffect.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 网络支持产品小型经销商（美国，已询 MIB 资料） | 推断（据兴趣/备注关键词） |
 | 联系人 | Charles H. Deling | 事实（用户表） |
 | 来源（From） | 2026.4.17 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（softwareeffect.com，快照 2026-10-21）
-- **是谁**：美国电商/网店：官网「Software Effect Enterprises, Inc」（en-US）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Cisco、Juniper、Ubiquiti、MikroTik；产品页：cisco-switch、enable-ssh-on-cisco-switch、free-up-storage-space-on-juniper-switch、usb-port-on-front-of-juniper-ex2300-swit；表内「4光8管理MIB资料 / from: Shopify」；表内未见跟进记录。
-- **类型**：电商/网店
+- **是谁**：美国 Software Effect Enterprises, Inc（网络支持专用产品小型经销/技术站：Cisco/Juniper 交换机操作文章；Shopify 询盘「4 光 8 电管理型交换机 MIB 资料」；KP Charles H. Deling（charles@））；表内无跟进记录。
+- **类型**：网络支持产品小型经销商（美国，已询 MIB 资料）
 - **在卖/在用品牌**：Cisco, Juniper, Ubiquiti, MikroTik
 - **【官网快照】官网标题：Software Effect Enterprises, Inc；品类词 无线 / WiFi / 网络交换 / PoE**
   > Specialized Products For Network Support；Recent Posts；Categories；Your IP Address
@@ -64,24 +64,30 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 4光8管理MIB资料 / from: Shopify
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Software Effect 首页**
+  > Software Effect Enterprises, Inc ; Specialized Products For Network Support ; Recent Posts ; Categories
+  > 来源：https://www.seei.biz/（抓取 2026-10-21）
+- **【用户表】4 光 8 管理 MIB 资料询盘**
+  > 4光8管理MIB资料 / from: Shopify
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Charles H. Deling（）charles@softwareeffect.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 softwareeffect.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：无线 / WiFi；网络交换 / PoE
-- **触达通道（公开）**：role: 电商/网店；region: 美国；contact: charles@softwareeffect.com
+- **业务线**：网络支持专用产品经销 / 技术博客
+- **触达通道（公开）**：role: 网络支持产品小型经销商（美国，已询 MIB 资料）；region: 美国；contact: charles@softwareeffect.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.seei.biz/）
-  - 在售同口型交换品牌：Ubiquiti、MikroTik → 直接对位替换
-  - 用户表兴趣/备注：4光8管理MIB资料 / from: Shopify
-- **风险/边界**：企业级品牌为主（Cisco/Juniper）：Saga 白牌只作价格补充线
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——官网快照对位：交换机词频 17、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Charles, alongside the Cisco / Juniper lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 表内：4光8管理MIB资料 / from: Shopify；KP Charles H. Deling
+  - 快照：Specialized Products For Network Support；页面 /category/cisco-switch/、/enable-ssh-on-cisco-switch/
+- **风险/边界**：小型经销/技术站：量小；询盘为技术资料（MIB），需随附 SNMP 资料；无跟进记录；Cisco/Juniper 内容为主
+- **Saga 对位结论**：P1 STI-488DGGPM（20% 档）——询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料
+- **邮件切入句（英文）**：Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -116,7 +122,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Charles H. Deling | — | charles@softwareeffect.com / +7703280882 | 用户表原值 | Clients/ 表 |
+| Charles H. Deling | — | charles@softwareeffect.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -132,17 +138,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：交换机词频 17、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-488DGGPM | 深挖对位：询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料 | $147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络支持产品小型经销商（美国，已询 MIB 资料）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-488DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -152,7 +159,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-488DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -181,25 +188,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Charles,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Charles, alongside the Cisco / Juniper lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

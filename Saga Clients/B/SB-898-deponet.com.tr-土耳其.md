@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-898`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络产品分销商（土耳其，多品牌）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-898
@@ -12,7 +12,7 @@ score: 31
 country: 土耳其
 region: 土耳其
 website: deponet.com.tr
-type: 电商/网店
+type: 网络产品分销商（土耳其，多品牌）
 tier_tags: ["同行经销商(Dpek)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其电商/网店：官网「Deponet Elektronik Mamulleri A.Å.」（tr）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie、Teltonika、Allied Telesis；产品页：urunler、hasan-turunckapi、maipu-urunlerinin-tanitim-toplantisi、icx-7850-crn-tarafindan-yilin-ag-urunu-s；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：土耳其 Deponet Elektronik Mamulleri A.Ş.（网络技术产品分销：Ruijie / Teltonika / Allied Telesis / Maipu（产品推介会）、无线（18）、MC、光纤；表内无兴趣记录）；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：PoE 词频 3 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | deponet.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | deponet.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 网络产品分销商（土耳其，多品牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,29 +55,32 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（deponet.com.tr，快照 2026-10-21）
-- **是谁**：土耳其电商/网店：官网「Deponet Elektronik Mamulleri A.Å.」（tr）；品类词：无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie、Teltonika、Allied Telesis；产品页：urunler、hasan-turunckapi、maipu-urunlerinin-tanitim-toplantisi、icx-7850-crn-tarafindan-yilin-ag-urunu-s；表内未见跟进记录。
-- **类型**：电商/网店
-- **在卖/在用品牌**：Ruijie, Teltonika, Allied Telesis
+- **是谁**：土耳其 Deponet Elektronik Mamulleri A.Ş.（网络技术产品分销：Ruijie / Teltonika / Allied Telesis / Maipu（产品推介会）、无线（18）、MC、光纤；表内无兴趣记录）；表内无跟进记录。
+- **类型**：网络产品分销商（土耳其，多品牌）
+- **在卖/在用品牌**：Ruijie, Teltonika, Allied Telesis, Maipu
 - **【官网快照】官网标题：Deponet Elektronik Mamulleri A.Å.；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Cart Items 0；Network Teknoloji ÃrÃ¼nleri；Deponet Ä°htiyacÄ±nÄ±za Ãzel ÃÃ¶zÃ¼mler；BiliÅim SektÃ¶rÃ¼ndeki Deponuz；Ä°htiyaÃ§larÄ±nÄ±za uygun Ã§Ã¶zÃ¼mler；Haberler & YazÄ±lar
   > 来源：https://deponet.com.tr/（抓取 2026-10-21）
+- **【官网快照】Deponet 首页**
+  > Deponet Elektronik Mamulleri A.Ş. ; Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz ; maipu-urunlerinin-tanitim-toplantisi
+  > 来源：https://deponet.com.tr/（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 deponet.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：无线 / WiFi；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 电商/网店；region: 土耳其；contact: info@deponet.com.tr
+- **业务线**：网络技术产品分销
+- **触达通道（公开）**：role: 网络产品分销商（土耳其，多品牌）；region: 土耳其；contact: info@deponet.com.tr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://deponet.com.tr/）
-  - 在售同口型交换品牌：Ruijie、Teltonika → 直接对位替换
-  - 官网公开邮箱：ankara@deponet.com.tr、info@deponet.com.tr、istanbul@deponet.com.tr
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——官网快照对位：PoE 词频 3 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Ruijie / Teltonika lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 页面 /urunler/、/maipu-urunlerinin-tanitim-toplantisi/、/icx-7850-crn-tarafindan-yilin-ag-urunu-secildi/；站内品牌 Ruijie / Teltonika / Allied Telesis
+  - 首页：Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz
+- **风险/边界**：土耳其：汇率敏感；品牌授权分销为主，白牌需靠价差；无具名 KP（info@）；无跟进记录
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE
+- **邮件切入句（英文）**：Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -129,7 +132,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：PoE 词频 3 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
+| **P1** | STC-28DGGPM | 深挖对位：多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络产品分销商（土耳其，多品牌）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -147,9 +150,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：土耳其主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；土耳其主攻区，复购与口碑可外溢
 - **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -184,9 +187,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Ruijie / Teltonika lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

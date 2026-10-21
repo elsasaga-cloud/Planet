@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（autechcontrol.com.au，快照 2026-10-21）",
- "summary": "澳大利亚电商/网店：官网「Automation Product and Services Provider in Australia」（en-AU）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Advantech、Schneider、Maiwe；站内型号：RS232、WOP-200K、ECU-1251D、RS485；表内「串口 工业FS」；群发 4 次、无回复。",
- "type": "电商/网店",
+ "summary": "澳大利亚 Autech Control Group（自动化产品与服务：Schneider 电表、Horner HMI、COME-STAR 串口服务器、Advantech ECU 网关、Maiwe 5 口 DIN 导轨工业交换机；表内「串口 / 工业 FS」；KP Zifei Li（Automation Products Manager，zli@））；表内 4 次跟进无回复。",
+ "type": "自动化产品分销/服务商（澳洲，Maiwe 工业 FS 在售）",
  "size": "",
  "brands_seen": [
   "Advantech",
   "Schneider",
-  "Maiwe"
+  "Maiwe",
+  "Horner"
  ],
  "evidence": [
   {
@@ -25,44 +26,72 @@
    "quote": "串口 工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Autech Control 定位",
+   "quote": "An experienced automation product and services provider in Australia, Autech Control Groups is committed to delivering quality solutions.",
+   "url": "https://autechcontrol.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "串口 工业 FS",
+   "quote": "串口 工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Zifei Li",
+   "title": "Automation Products Manager",
+   "email": "zli@autechcontrol.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 autechcontrol.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "自动化产品分销与服务"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "自动化产品分销/服务商（澳洲，Maiwe 工业 FS 在售）",
   "region": "澳大利亚",
   "contact": "sales@autechcontrol.com.au、zli@autechcontrol.com.au"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://autechcontrol.com.au/）",
-  "在售工业网络品牌：Advantech、Schneider、Maiwe → 工业线对位",
-  "官网公开邮箱：sales@autechcontrol.com.au",
-  "用户表兴趣/备注：串口 工业FS"
+  "页面 /product/maiwe-5-port-10-100m-din-rail-layer-2-industrial-ethernet-switch/、/product/advantech-ecu-1251d-industrial-communication-gateway/",
+  "官网：An experienced automation product and services provider in Australia；KP Zifei Li / Automation Products Manager"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5），RCM 由客户申报；Maiwe/Advantech 既定线",
+  "4 次跟进无回复 → 改向 Automation Products Manager 具名首触（中文姓名，可中文跟进）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-050GE",
+  "tier": 25,
+  "why": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做"
  },
- "email_hook": "Zifei, alongside the Advantech / Schneider lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?",
+ "products_seen": [
+  {
+   "brand": "Maiwe",
+   "model": "5-port 10/100M DIN-rail L2 switch",
+   "spec": "工业 5 口百兆",
+   "saga": "STI-050GE",
+   "url": "https://autechcontrol.com.au/product/maiwe-5-port-10-100m-din-rail-layer-2-industrial-ethernet-switch/",
+   "date": "2026-10-21"
+  }
+ ]
 }

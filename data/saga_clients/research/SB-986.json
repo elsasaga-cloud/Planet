@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（lemaxguvenlik.com，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik」（tr）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；产品页：4-kamerali-4k-1440p-full-hd-sesli-poe-ip、6-kamerali-4k-1440p-full-hd-sesli-poe-ip、8-kamerali-4k-1440p-full-hd-sesli-poe-ip、2-kamerali-4k-1440p-full-hd-sesli-poe-ip；表内「switch」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
+ "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "新桥（疑）"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Lemax 网店",
+   "quote": "Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik ; 4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi",
+   "url": "https://www.lemaxguvenlik.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch；新桥的",
+   "quote": "switch；新桥的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +45,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "安防摄像机套装网店"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "CCTV 套装网店（土耳其，PoE 现新桥）",
   "region": "土耳其",
   "contact": "satis@lemaxguvenlik.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.lemaxguvenlik.com/）",
-  "官网公开邮箱：satis@lemaxguvenlik.com",
-  "用户表兴趣/备注：switch"
+  "页面 /urun/4-kamerali-4k-…-poe-ip-kamera-sistemi…、/urun/8-kamerali-…；kw poe 40",
+  "表内：switch；新桥的"
  ],
- "risks": [],
+ "risks": [
+  "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
+  "土耳其：汇率敏感；2 次跟进无回复，仅 satis@"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches in your 4/6/8-camera 4K kits, we supply budget 4/8-port unmanaged PoE units and a Marvell-based 8-PoE + 2 SFP L2+ model from small lots, CE/RoHS, EXW USD — which kit size sells most?"
 }
