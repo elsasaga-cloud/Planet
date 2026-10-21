@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（plus-nn.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°Ð½ Ð½Ð¸ Ðº Ð¾Ð´Ð½Ð¾Ð¹ Ð¸Ð· Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¹ Ð½Ð° Ñ」（ru）；表内「有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsA」；群发 18 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。",
+ "type": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,13 @@
    "quote": "有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsApp)",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "国内多家商业 PoE 含 HRUI；自己的型号",
+   "quote": "有国内好几家商业POE 也有洪瑞的 / 用的洪瑞的 商业PoE 自己的型号",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +38,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 plus-nn.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "商用 PoE 交换机（自有型号，多家国内供货）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
   "region": "俄罗斯",
   "contact": "praid-city@yandex.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://plus-nn.ru/）",
-  "官网公开邮箱：bills@beget.com、manager@beget.com、support@beget.com",
-  "用户表兴趣/备注：有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsApp)"
+  "表内：有国内好几家商业 PoE 也有洪瑞的 / 用的洪瑞的 商业 PoE 自己的型号；7 903 848 22 27 (linked to Viber and WhatsApp)",
+  "快照：Домен не прилинкован ни к одной из директорий（域名未绑定）"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+  "俄罗斯：结算/物流/合规风险；域名未绑定站点、联系邮箱为 yandex 免费邮箱（实体待核）；18 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-448DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$334.2 USD EXW（30% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望"
  },
- "email_hook": "We supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the PoE switches you sell under your own model numbers, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; EAC by your side — which configuration do your customers order most?"
 }

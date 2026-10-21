@@ -2,7 +2,7 @@
 
 > **评级 B**　|　澳大利亚　|　档案编号 `SB-499`　|　优先级 ★★　|　状态：已推送 22 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 22 次（2024-05-02 → 2025-10-20）　|　**所在清单**：A优质名单(AU)、AI评估(AU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）（推断）　|　**历史关系**：推送 22 次（2024-05-02 → 2025-10-20）　|　**所在清单**：A优质名单(AU)、AI评估(AU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-499
@@ -12,7 +12,7 @@ score: 39
 country: 澳大利亚
 region: 亚太
 website: fibreoptic.com.au
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）
 tier_tags: ["A优质名单(AU)", "AI评估(AU)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Australian Fibre Optic & Copper Solutions | Fibre Optic Systems」（en-au）；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；产品页：products；表内「MC switch 其他的是周边产品 自己的牌子」；群发 22 次、无回复。（调研 2026-10-21；表内兴趣：MC switch 其他的是周边产品 自己的牌子）
+- **是谁**：澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。（调研 2026-10-21；表内兴趣：MC switch 其他的是周边产品 自己的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-05-02 → 2025-10-20）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | fibreoptic.com.au（取自域名，公司全名待核） | 推断 |
 | 国家 | 澳大利亚 | 事实（用户表）|
 | 网站/域名 | fibreoptic.com.au | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 光纤方案制造商（澳大利亚，自有标 MC/交换机为配套） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 / Pav Arneja / General Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC switch 其他的是周边产品<br>自己的牌子 | 事实（用户表） |
@@ -66,32 +66,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（fibreoptic.com.au，快照 2026-10-21）
-- **是谁**：澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Australian Fibre Optic & Copper Solutions | Fibre Optic Systems」（en-au）；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；产品页：products；表内「MC switch 其他的是周边产品 自己的牌子」；群发 22 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。
+- **类型**：光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）
 - **【官网快照】官网标题：Australian Fibre Optic & Copper Solutions | Fibre Optic Systems；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换**
   > FOS is Australia’s trusted manufacturer of optical fibre & copper solutions—delivering innovation, quality, and fast turnaround. Explore our product range!
   > 来源：https://www.fibreoptic.com.au/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC switch 其他的是周边产品 自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】FOS 定位**
+  > Australian Fibre Optic & Copper Solutions | Fibre Optic Systems ; FOS is Australia’s trusted manufacturer of optical fibre & copper solutions
+  > 来源：https://www.fibreoptic.com.au/（抓取 2026-10-21）
+- **【用户表】MC switch 自己的牌子**
+  > MC switch 其他的是周边产品 自己的牌子；可以多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Pav Arneja（）sales@fibreoptic.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 澳大利亚 |
 | 其他 | 官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：电信 / FTTH / ISP 设备；布线 / 线缆；光纤 / 媒体转换
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 澳大利亚；contact: info@fibreoptic.com.au、sales@fibreoptic.com.au
+- **业务线**：光纤 / 铜缆方案制造（自有品牌 FOS）
+- **触达通道（公开）**：role: 光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）；region: 澳大利亚；contact: info@fibreoptic.com.au、sales@fibreoptic.com.au
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.fibreoptic.com.au/）
-  - 官网公开邮箱：info@fibreoptic.com.au
-  - 用户表兴趣/备注：MC switch 其他的是周边产品 自己的牌子
-- **风险/边界**：群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）；非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Pav, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：FOS is Australia’s trusted manufacturer of optical fibre & copper solutions—delivering innovation, quality, and fast turnaround；首页 Kingfisher Test Equipment ; CoreLink Plus Enclosure Range；kw fibre 52 / cable 33
+  - 表内：MC switch 其他的是周边产品 自己的牌子；可以多跟进一下；KP Pav Arneja / General Manager
+- **风险/边界**：非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套；22 次无回复 → 改向 General Manager 具名首触
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）
+- **邮件切入句（英文）**：Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -155,7 +161,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pav Arneja | — | info@fibreoptic.com.au / sales@fibreoptic.com.au | 用户表原值 | Clients/ 表 |
+| Pav Arneja | — | sales@fibreoptic.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -172,7 +178,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -191,9 +197,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
+- **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 22 次无回复，邮件通道疲劳
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -226,9 +232,9 @@ updated: 2026-10-21
 ```text
 Hi Pav,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Pav, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

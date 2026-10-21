@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "加拿大品牌商/贴牌需求（OEM/ODM）：官网快照失败（http_error）；表内「工业FS MC 光猫 KAPDE功能的设备 自己的牌子 标价很高」；群发 17 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "加拿大 Fiber Optic Link（官网快照 HTTP 错误；表内「工业 FS MC 光猫 KAPDE 功能的设备；自己的牌子，标价很高」「很有实力」；KP Gary Gunning、Albert G（Executive Vice President）、Cesar H（Purchasing Agent））；群发 17 次无回复。",
+ "type": "光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,68 @@
    "quote": "工业FS MC 光猫 KAPDE功能的设备 自己的牌子 标价很高",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自有牌子 工业 FS MC 光猫；标价高",
+   "quote": "工业FS MC 光猫 KAPDE功能的设备 自己的牌子 标价很高；很有实力 Gary Gunning",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Cesar H",
+   "title": "Purchasing Agent",
+   "email": "info@fiberopticlink.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Gary Gunning",
+   "title": "（职务待核）",
+   "email": "ggunning@fiberopticlink.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Albert G",
+   "title": "Executive Vice President",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 fiberopticlink.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "光纤网络设备（自有品牌：工业 FS / MC / ONU）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）",
   "region": "加拿大",
   "contact": "ggunning@fiberopticlink.com、info@fiberopticlink.com"
  },
  "signals": [
-  "用户表兴趣/备注：工业FS MC 光猫 KAPDE功能的设备 自己的牌子 标价很高"
+  "表内：工业 FS MC 光猫 KAPDE 功能的设备 自己的牌子 标价很高；很有实力 Gary Gunning；Albert G / Executive Vice President；Cesar H / Purchasing Agent",
+  "快照：fiberopticlink.com http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "官网快照 HTTP 错误（站点待核）；17 次无回复 → 改向 Purchasing Agent 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有标工业 FS/MC（标价高）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标，留足其毛利空间；光猫（ONU）Saga 不供"
  },
- "email_hook": "Albert, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Cesar, for the industrial switches and media converters sold under the Fiber Optic Link label, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit/PoE MC; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which model do your dealers reorder most?"
 }

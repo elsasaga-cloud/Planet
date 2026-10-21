@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（draytek.com.au，快照 2026-10-21）",
- "summary": "澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「draytek.com.au」；表内「大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html」；群发 22 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "DrayTek 澳大利亚分销站（draytek.com.au；备注链接 draytek.de VigorSwitch G2280）：DrayTek 为台湾厂商，澳/德站为其区域分销/办事处；表内「大口 FS PoE 周边产品 自己的 logo」「质量高」）；群发 22 次无回复。",
+ "type": "台湾厂商区域分销/办事处（DrayTek）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,46 @@
    "quote": "大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DrayTek 自己的 logo 大口 FS",
+   "quote": "大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "台湾厂商区域办事处/分销站：DrayTek（自研 VigorSwitch），非渠道客户；c_sub=厂商办事处/台湾厂商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 draytek.com.au，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络设备（DrayTek 品牌，区域分销）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "台湾厂商区域分销/办事处（DrayTek）",
   "region": "澳大利亚",
   "contact": "sales@draytek.com.au"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://draytek.com.au/）",
-  "用户表兴趣/备注：大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html"
+  "表内：大口 FS PoE 周边产品 自己的 logo；https://www.draytek.de/vigorswitch-g2280.html；质量高",
+  "快照：draytek.com.au 内容为空"
  ],
  "risks": [
-  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "台湾厂商区域办事处/分销站：DrayTek 自研 VigorSwitch（G2280 等），非 ODM 采购方；22 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": null,
   "tier": 30,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "DrayTek（台湾厂商）自研 VigorSwitch 线，区域分销站非采购决策方 → 改 C"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：台湾厂商/办事处）"
 }

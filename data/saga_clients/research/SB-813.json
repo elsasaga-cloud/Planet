@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cctvroom.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「CCTVRoom | Secure Your Future」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络；产品页：industrial；表内「MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC」；群发 18 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "美国 CCTVRoom / VIZMA Technology LLC（住宅/商业/工业视频安防方案与 DIY；表内「MC SFP 工业 FS 都有但产品不多；优普托（Utepo）的工业 FS」）；群发 18 次无回复。",
+ "type": "安防集成/网店（美国，Utepo 工业 FS 在售）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "CCTVRoom 定位",
+   "quote": "CCTVRoom | Secure Your Future ; premium video security solutions for homes, businesses, and industrial needs ; /industrial",
+   "url": "https://www.cctvroom.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Utepo 工业 FS；产品不多",
+   "quote": "MC SFP 工业FS 都有 但是产品不多；优普托的工业FS；VIZMA Technology LLC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 cctvroom.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络"
+  "视频安防方案（住宅 / 商业 / 工业）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防集成/网店（美国，Utepo 工业 FS 在售）",
   "region": "美国",
   "contact": "info@cctvroom.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.cctvroom.com/）",
-  "官网公开邮箱：info@cctvroom.com、user@domain.com",
-  "用户表兴趣/备注：MC SFP 工业FS 都有 但是产品不多；VIZMA Technology LLC"
+  "官网：Discover premium video security solutions for homes, businesses, and industrial needs；页面 /industrial；kw cctv 29 / surveillance 23 / industrial 14",
+  "表内：MC SFP 工业 FS 都有 但是产品不多；优普托的工业 FS；VIZMA Technology LLC"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现供 Utepo（深圳）价格基准低；产品不多（量小）；18 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现售 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代；商用 STC-28DGGPM（$84.1）；MC STI-110GE（$23.4）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the Utepo industrial switches in your industrial security packages, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, 8-PoE + 2 SFP L2+ commercial switches and gigabit MCs from single units, FCC/CE/RoHS, EXW USD — which configuration do your industrial installs use most?"
 }

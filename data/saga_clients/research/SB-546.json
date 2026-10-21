@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "德国品牌商/贴牌需求（OEM/ODM）：官网快照失败（http_error）；表内「工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comu」；群发 27 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。",
+ "type": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -12,6 +12,13 @@
    "kind": "用户表",
    "claim": "表内兴趣/备注",
    "quote": "工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的牌子；主要是工业电缆；重要",
+   "quote": "工业FS  自己的牌子  质量还行 主要是工业电缆 / 自己的牌子；可以着重跟一下；比较重要",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,31 +29,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 luetze.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业电缆 / 自动化（LÜTZE 集团）",
+  "工业通信（自有标工业交换机）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
   "region": "德国",
   "contact": "info@luetze.de、sales.gb@lutze.co.uk"
  },
  "signals": [
-  "用户表兴趣/备注：工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial"
+  "表内：工业 FS 自己的牌子 质量还行 主要是工业电缆；https://www.luetze.com/es-es/catalogo/Control/Comunicación-industrial；可以着重跟一下；比较重要",
+  "快照：luetze.com http_error（目录页未抓到）"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 27 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@",
+  "用户标「比较重要」「着重跟」→ 优先换渠道（LinkedIn 采购/产品经理）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观"
  },
- "email_hook": "Dimitrios, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?"
 }

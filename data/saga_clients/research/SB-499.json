@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fibreoptic.com.au，快照 2026-10-21）",
- "summary": "澳大利亚品牌商/贴牌需求（OEM/ODM）：官网「Australian Fibre Optic & Copper Solutions | Fibre Optic Systems」（en-au）；品类词：电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换；产品页：products；表内「MC switch 其他的是周边产品 自己的牌子」；群发 22 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。",
+ "type": "光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,62 @@
    "quote": "MC switch 其他的是周边产品 自己的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "FOS 定位",
+   "quote": "Australian Fibre Optic & Copper Solutions | Fibre Optic Systems ; FOS is Australia’s trusted manufacturer of optical fibre & copper solutions",
+   "url": "https://www.fibreoptic.com.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC switch 自己的牌子",
+   "quote": "MC switch 其他的是周边产品 自己的牌子；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Pav Arneja",
+   "title": "General Manager",
+   "email": "sales@fibreoptic.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 fibreoptic.com.au，语言 en-au，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "光纤 / 铜缆方案制造（自有品牌 FOS）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）",
   "region": "澳大利亚",
   "contact": "info@fibreoptic.com.au、sales@fibreoptic.com.au"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.fibreoptic.com.au/）",
-  "官网公开邮箱：info@fibreoptic.com.au",
-  "用户表兴趣/备注：MC switch 其他的是周边产品 自己的牌子"
+  "官网：FOS is Australia’s trusted manufacturer of optical fibre & copper solutions—delivering innovation, quality, and fast turnaround；首页 Kingfisher Test Equipment ; CoreLink Plus Enclosure Range；kw fibre 52 / cable 33",
+  "表内：MC switch 其他的是周边产品 自己的牌子；可以多跟进一下；KP Pav Arneja / General Manager"
  ],
  "risks": [
-  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套",
+  "22 次无回复 → 改向 General Manager 具名首触"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）"
  },
- "email_hook": "Pav, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?"
 }

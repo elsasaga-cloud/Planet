@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（gotinc.co.kr，快照 2026-10-21）",
- "summary": "韩国品牌商/贴牌需求（OEM/ODM）：官网「gotinc.co.kr」（ko）；表内「自己的logo 拿的G-net的 工业FS POE 海思的」；群发 22 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "韩国 GOT Inc.（官网快照为防机器人验证页；表内「自己的 logo，拿的 G-net 的；工业 FS PoE 海思的」「可以尝试多跟进一下」）；群发 22 次无回复。",
+ "type": "韩国网络品牌商（自有标，现 G-net 海思方案）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "G-net"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,13 @@
    "quote": "自己的logo 拿的G-net的 工业FS POE 海思的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "自己的 logo；G-net 海思工业 PoE",
+   "quote": "自己的logo 拿的G-net的 工业FS POE 海思的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +38,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 gotinc.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业 PoE 交换机（自有品牌，G-net 供货）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "韩国网络品牌商（自有标，现 G-net 海思方案）",
   "region": "韩国",
   "contact": "gotsales@gotinc.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://gotinc.co.kr/）",
-  "用户表兴趣/备注：自己的logo 拿的G-net的 工业FS POE 海思的"
+  "表内：自己的 logo 拿的 G-net 的 工业 FS PoE 海思的；可以尝试多跟进一下",
+  "快照：防机器人验证页"
  ],
  "risks": [
-  "群发 22 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "现供 G-net（深圳）价格基准低；官网快照为验证页（待核）；非主攻区（T5，韩国）",
+  "22 次无回复，仅 gotsales@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?"
 }
