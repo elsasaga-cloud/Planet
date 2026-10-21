@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "波兰经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「工商Switch」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "波兰 x-kom（波兰最大电子/IT 电商之一（大型集团）；表内「工商 Switch」「网站打不开」；KP Kacper Borawski、Damian Cholewa）；表内未跟进。",
+ "type": "大型 IT 电商集团（波兰，巨头）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,46 @@
    "quote": "工商Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工商 Switch",
+   "quote": "工商Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "大型电商集团（体量）；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 x-kom.pl，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "IT / 电子产品电商（波兰，大型）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "大型 IT 电商集团（波兰，巨头）",
   "region": "波兰",
   "contact": "kacper.borawski@x-kom.pl、damian.cholewa@x-kom.pl"
  },
  "signals": [
-  "用户表兴趣/备注：工商Switch"
+  "表内：工商 Switch；Kacper Borawsk / 网站打不开；damian.cholewa@x-kom.pl",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "体量：波兰大型 IT 电商集团；官网 http_error（快照）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "大型电商集团（采购体系/供应商准入门槛高）→ 改 C（体量）"
  },
- "email_hook": "Kacper, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：巨头电商）"
 }

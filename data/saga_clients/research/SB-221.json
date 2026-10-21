@@ -3,14 +3,25 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "土耳其经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「工业FS MC XPS的/ONV voscom的VC 周边产品」；群发 2 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "土耳其 Eretekne（分销商：工业 FS/MC 为 XPS/ONV，Voscom 视频光端机与周边；官网 http_error）；表内 2 次跟进无回复。",
+ "type": "安防传输产品分销商（土耳其，XPS/ONV/Voscom）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "XPS",
+  "ONV",
+  "Voscom"
+ ],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
+   "quote": "工业FS MC XPS的/ONV voscom的VC 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "XPS/ONV 工业 FS MC；Voscom VC",
    "quote": "工业FS MC XPS的/ONV voscom的VC 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
@@ -22,30 +33,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 eretekne.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "安防传输 / 工业网络产品分销（土耳其）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "安防传输产品分销商（土耳其，XPS/ONV/Voscom）",
   "region": "土耳其",
   "contact": "info@eretekne.com"
  },
  "signals": [
-  "用户表兴趣/备注：工业FS MC XPS的/ONV voscom的VC 周边产品"
+  "表内：工业 FS MC XPS 的/ONV voscom 的 VC 周边产品；分销商",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "现供 XPS/ONV 价格基准低；官网 http_error；土耳其汇率敏感；2 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?"
 }

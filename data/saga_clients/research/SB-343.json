@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（wooridulinfo.com，快照 2026-10-21）",
- "summary": "韩国网络/安防经销或集成（官网未见角色词，待核）：官网「wooridulinfo.com」；表内「Fortinet交换机 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "韩国 Wooridulinfo Co., Ltd（阿里巴巴 RFQ「Fortinet 交换机」（品牌指定采购）；KP Jinyoung Lee（CEO））；表内未跟进。",
+ "type": "IT 公司（韩国，品牌指定 RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,46 @@
    "quote": "Fortinet交换机 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Fortinet 交换机 RFQ",
+   "quote": "Fortinet交换机 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品牌指定采购 RFQ（Fortinet），非白牌需求；c_sub=品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 wooridulinfo.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "IT（韩国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "IT 公司（韩国，品牌指定 RFQ）",
   "region": "韩国",
   "contact": "jylee@wooridulinfo.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，http://wooridulinfo.com/）",
-  "用户表兴趣/备注：Fortinet交换机 / from: 阿里巴巴RFQ"
+  "表内：Fortinet 交换机 / from: 阿里巴巴 RFQ；KP jinyoung lee, CEO",
+  "快照：内容为空"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "品牌指定采购（Fortinet 原厂设备，非白牌）；非主攻区（韩国）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "RFQ 为 Fortinet 品牌指定采购（非白牌需求）、非主攻区 → 改 C（品类不符）"
  },
- "email_hook": "Jinyoung, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：品牌指定采购）"
 }

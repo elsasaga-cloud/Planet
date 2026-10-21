@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "土耳其经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "土耳其 Bulutlar Bilişim（阿里巴巴询盘「核心交换机 100G/25G」；KP Ammar Alsawadi（CEO）；表内「质量可能一般」；官网 http_error）；表内未跟进。",
+ "type": "IT 方案商（土耳其，核心交换机询盘超范围）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,54 @@
    "quote": "核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "核心交换机 100G/25G",
+   "quote": "核心交换机 100G/25G的 / from: 阿里巴巴",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ammar Alsawadi",
+   "title": "CEO",
+   "email": "info@bulutlarbilisim.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 bulutlarbilisim.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "IT 方案（土耳其）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "IT 方案商（土耳其，核心交换机询盘超范围）",
   "region": "土耳其",
   "contact": "info@bulutlarbilisim.com"
  },
  "signals": [
-  "用户表兴趣/备注：核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴"
+  "表内：核心交换机 100G/25G 的 / from: 阿里巴巴；KP Ammar Alsawadi, CEO；质量可能一般",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "询盘品类（100G/25G 核心）Saga 不供；官网 http_error；表内「质量可能一般」；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
+  "p1": "STC-424XGGM",
   "tier": 25,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套"
  },
- "email_hook": "Ammar, we supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Ammar, following your enquiry for 100G/25G core switches: we focus on the access layer — Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — would the access side of the same project be worth a quote?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（luckyjoint.com.sg，快照 2026-10-21）",
- "summary": "新加坡分销商/批发商：官网「Lucky Joint Construction Pte Ltd」（en-US）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；表内「POE switch POE网口能传250m吗」；群发 8 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "新加坡 Lucky Joint Construction Pte Ltd（独立电信网络设计、建设与维护公司；表内「PoE switch / PoE 网口能传 250m 吗」「可以多跟进一下」；KP Kee Ching Hai、Jackson Ho（Senior Manager (Network Engineering)））；群发 8 次无回复。",
+ "type": "电信网络工程商（新加坡，PoE 长距需求）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,68 @@
    "quote": "POE switch POE网口能传250m吗",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "LJC 定位",
+   "quote": "Home - Lucky Joint Construction Pte Ltd ; leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore",
+   "url": "https://www.luckyjoint.com.sg/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 网口能传 250m 吗",
+   "quote": "POE switch POE网口能传250m吗；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jackson Ho",
+   "title": "Senior Manager (Network Engineering)",
+   "email": "robin@luckyjoint.com.sg",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Kee Ching Hai",
+   "title": "（职务待核）",
+   "email": "sales@luckyjoint.com.sg",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "新加坡",
   "other": "官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "电信网络设计 / 建设 / 维护（新加坡）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "电信网络工程商（新加坡，PoE 长距需求）",
   "region": "新加坡",
   "contact": "sales@luckyjoint.com.sg、robin@luckyjoint.com.sg"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.luckyjoint.com.sg/）",
-  "官网公开邮箱：sales@luckyjoint.com.sg",
-  "用户表兴趣/备注：POE switch POE网口能传250m吗"
+  "官网：Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore ; Connectivity Simplified",
+  "表内：POE switch POE 网口能传 250m 吗；KP Kee Ching Hai 可以多跟进一下；Jackson Ho / Senior Manager (Network Engineering)"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "250 m 长距模式参数待核（SmartByte 规格）；非主攻区（T5，新加坡）；工程商（量随项目）；8 次无回复 → 改向 Senior Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "PoE 长距（250 m）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%，长距模式 250 m@10 Mbps 待核）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）"
  },
- "email_hook": "Kee, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（unreachable）",
- "summary": "德国经销/集成（类型待核，无官网快照）：官网快照失败（unreachable）；表内「商业级 48V 0.5A 1G PoE injector；2013年使用国际站 49 94146 394179 Addr: DE , Bavaria , Reg」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "德国 Carb UG (haftungsbeschränkt)（2013 年阿里巴巴询盘「商业级 48V 0.5A 1G PoE injector」；KP Karim Belkacem（CEO），仅 gmail；地址 Regensburg；官网 unreachable）；表内未跟进。",
+ "type": "陈旧询盘（2013，PoE 注入器，免费邮箱）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,46 @@
    "quote": "商业级 48V 0.5A 1G PoE injector；2013年使用国际站 49 94146 394179 Addr: DE , Bavaria , Regensburg , Lilienthalstr. 38；商业级 48V 0.5A 1G PoE injector / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2013 PoE injector 询盘",
+   "quote": "2013年使用国际站；商业级 48V 0.5A 1G PoE injector",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "陈旧询盘（2013）且品类不供、免费邮箱；c_sub=陈旧询盘",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 carb-tech.de，语言 ?，快照状态 unreachable；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（陈旧询盘）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "陈旧询盘（2013，PoE 注入器，免费邮箱）",
   "region": "德国",
   "contact": "miloud30@gmail.com"
  },
  "signals": [
-  "用户表兴趣/备注：商业级 48V 0.5A 1G PoE injector；2013年使用国际站 49 94146 394179 Addr: DE , Bavaria , Regensburg , Lilienthalstr. 38；商业级 48V 0.5A"
+  "表内：2013 年使用国际站；商业级 48V 0.5A 1G PoE injector；KP Karim Belkacem, CEO；miloud30@gmail.com",
+  "快照：unreachable"
  ],
  "risks": [
-  "官网快照失败（unreachable）：域名/证书待核，邮件可能退回"
+  "陈旧询盘（2013 年）；PoE 注入器 Saga 不供（Q-32）；仅 gmail；官网 unreachable"
  ],
  "saga_fit": {
-  "p1": "STC-448DGGPM",
-  "tier": 25,
-  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "2013 年陈旧询盘、品类（注入器）Saga 不供、仅免费邮箱、官网不可达 → 改 C"
  },
- "email_hook": "Karim, we supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：陈旧询盘）"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "德国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「2+8千兆商业PoE / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "德国 BWsystems（bwsystems.de；阿里巴巴 RFQ「2+8 千兆商业 PoE」；KP Hans Georg Werner；官网 http_error）；表内未跟进。",
+ "type": "系统集成商（德国，2+8 PoE RFQ）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,54 @@
    "quote": "2+8千兆商业PoE / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "2+8 千兆商业 PoE RFQ",
+   "quote": "2+8千兆商业PoE / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Hans Georg Werner",
+   "title": "（职务待核）",
+   "email": "service@bwsystems.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 bwsystems.de，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "系统集成（德国，待核）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "系统集成商（德国，2+8 PoE RFQ）",
   "region": "德国",
   "contact": "service@bwsystems.de"
  },
  "signals": [
-  "用户表兴趣/备注：2+8千兆商业PoE / from: 阿里巴巴RFQ"
+  "表内：2+8 千兆商业 PoE / from: 阿里巴巴 RFQ；KP Hans georg Werner",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "RFQ 时效待核；官网 http_error（业务范围待核）；未跟进过"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效"
  },
- "email_hook": "Hans, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units?"
 }

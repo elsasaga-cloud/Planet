@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（th-it.com，快照 2026-10-21）",
- "summary": "马来西亚系统集成/工程商：官网「Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server 」（en）；品类词：无线 / WiFi；产品页：refurbish-product；表内「商业POE；邮件中有详细的联系信息」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。",
+ "type": "IT 设备租赁商（马来西亚）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,61 @@
    "quote": "商业POE；邮件中有详细的联系信息",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TH IT 定位",
+   "quote": "Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental",
+   "url": "https://www.th-it.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业POE；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Lee",
+   "title": "（职务待核）",
+   "email": "inquiry@th-it.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "马来西亚",
   "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "无线 / WiFi"
+  "IT 设备租赁（马来西亚）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "IT 设备租赁商（马来西亚）",
   "region": "马来西亚",
   "contact": "inquiry@th-it.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.th-it.com/）",
-  "官网公开邮箱：inquiry@th-it.com",
-  "用户表兴趣/备注：商业POE；邮件中有详细的联系信息"
+  "官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/",
+  "表内：商业 POE；邮件中有详细的联系信息；KP Lee"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
  },
- "email_hook": "Lee, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?"
 }
