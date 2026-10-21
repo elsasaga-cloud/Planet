@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "英国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「switch PoE配件 有utepo的」；群发 16 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "英国 DVS Ltd（英国大型 CCTV/安防分销商；表内「switch PoE 配件 有 Utepo 的」「可以多跟进一下」；KP Scott Abraham（Purchasing and Logistics Manager）；官网 http_error）；群发 16 次无回复。",
+ "type": "安防分销商（英国，大型，Utepo 在供）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -14,39 +16,54 @@
    "quote": "switch PoE配件 有utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch PoE 配件 Utepo",
+   "quote": "switch PoE配件 有utepo的；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Scott Abraham",
+   "title": "Purchasing and Logistics Manager",
+   "email": "scott.abraham@dvs.co.uk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 dvs.co.uk，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "CCTV / 安防产品分销（英国）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "安防分销商（英国，大型，Utepo 在供）",
   "region": "英国",
   "contact": "contact@dvs.co.uk、scott.abraham@dvs.co.uk"
  },
  "signals": [
-  "用户表兴趣/备注：switch PoE配件 有utepo的"
+  "表内：switch PoE 配件 有 utepo 的；KP Scott Abraham / Purchasing and Logistics Manager；可以多跟进一下",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "体量：大型分销商（供应商准入流程长）；PoE 配件需求 Saga 不供（Q-32）；现供 Utepo 价格基准低；官网 http_error；16 次无回复 → 改向采购经理具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、工业 8 PoE + 2 SFP STI-288GP（$57.4）作预算位；PoE 配件 Saga 不供（Q-32）"
  },
- "email_hook": "Scott, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Scott, alongside the Utepo PoE switches you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units from small lots, CE/RoHS/UKCA, EXW USD — is there a budget managed-PoE position your installer customers ask for?"
 }

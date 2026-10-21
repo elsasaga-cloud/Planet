@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "意大利经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备」；群发 1 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。",
+ "type": "工业网络分销商（意大利，Planet 为主）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Planet"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -14,38 +16,61 @@
    "quote": "主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "几乎全是 Planet 的设备",
+   "quote": "主要是planet的 / 工业FS MC SFP 工业电源 几乎全是Planet的设备",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Filippo Gnocco",
+   "title": "General Manager",
+   "email": "fgnocco@qubix.it",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Davide Villotti",
+   "title": "Business Developer Manager",
+   "email": "info@qubix.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 qubix.it，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业网络产品分销（意大利）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "工业网络分销商（意大利，Planet 为主）",
   "region": "意大利",
   "contact": "info@qubix.it、fgnocco@qubix.it"
  },
  "signals": [
-  "用户表兴趣/备注：主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备"
+  "表内：主要是 planet 的 / 工业 FS MC SFP 工业电源 几乎全是 Planet 的设备；KP Filippo Gnocco / General Manager；Davide Villotti / Business Developer Manager；质量一般",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "Planet 单品牌粘性；官网 http_error；表内「质量一般」；1 次无回复 → 改向 GM 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "Planet 工业线预算位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；SFP/工业电源 Saga 不供"
  },
- "email_hook": "Filippo, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Filippo, alongside the PLANET industrial range you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your integrator customers ask for?"
 }

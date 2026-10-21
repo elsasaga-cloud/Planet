@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "美国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「商业PoE」；群发 10 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "美国 Eclipse CCTV / Eclipse Security（迈阿密 CCTV 品牌/分销；表内「商业 PoE」「可以尝试多跟进一下」；KP Tony Forbes（Sales Executive）、Manuel Alvarez（Support Engineer）；官网 http_error）；群发 10 次无回复。",
+ "type": "CCTV 品牌/分销商（美国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,61 @@
    "quote": "商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业PoE；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Tony Forbes",
+   "title": "Sales Executive",
+   "email": "tony@eclipsecctv.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Manuel Alvarez",
+   "title": "Support Engineer",
+   "email": "sales@eclipsecctv.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "CCTV 品牌 / 分销（美国）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "CCTV 品牌/分销商（美国）",
   "region": "美国",
   "contact": "sales@eclipsecctv.com、tony@eclipsecctv.com"
  },
  "signals": [
-  "用户表兴趣/备注：商业PoE"
+  "表内：商业 PoE；KP Tony Forbes / Sales Executive；Manuel Alvarez / Support Engineer；可以尝试多跟进一下",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Tony, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?"
 }

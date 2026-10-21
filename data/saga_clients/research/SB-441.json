@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（unreachable）",
- "summary": "德国电商/网店：官网快照失败（unreachable）；表内「OM-FBS-22-SLC / from: Shopify 珊姐跟进了」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "德国 4G GmbH（4g-gmbh.de；Shopify 订单 OM-FBS-22-SLC（光旁路/光开关类配件），「珊姐跟进了」；KP Michael Kleiböhmer（CEO）；官网 unreachable）；表内未跟进（已有订单接触）。",
+ "type": "IT/网络公司（德国，Shopify 成交客户）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,54 @@
    "quote": "OM-FBS-22-SLC / from: Shopify 珊姐跟进了",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Shopify 订单 OM-FBS-22-SLC",
+   "quote": "OM-FBS-22-SLC / from: Shopify 珊姐跟进了",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Michael Kleiböhmer",
+   "title": "CEO",
+   "email": "mk@4g-gmbh.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 4g-gmbh.de，语言 ?，快照状态 unreachable；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "IT / 网络（德国，待核）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "IT/网络公司（德国，Shopify 成交客户）",
   "region": "德国",
   "contact": "mk@4g-gmbh.de"
  },
  "signals": [
-  "用户表兴趣/备注：OM-FBS-22-SLC / from: Shopify 珊姐跟进了"
+  "表内：OM-FBS-22-SLC / from: Shopify 珊姐跟进了；KP Michael Kleiboehmer, CEO",
+  "快照：unreachable"
  ],
  "risks": [
-  "官网快照失败（unreachable）：域名/证书待核，邮件可能退回"
+  "已有订单接触（珊姐跟进中，勿重复首触、先核对沟通记录）；官网 unreachable；订单品类为光配件（Saga 列表外）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "分销/网店 → 24 口 PoE L2+ 走量款（来源：角色默认；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）"
  },
- "email_hook": "Michael, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote?"
 }

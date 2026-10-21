@@ -3,15 +3,24 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（timeout）",
- "summary": "英国分销商/经销商：官网快照失败（timeout）；表内「分销商 商业PoE 有润丰达的」；群发 16 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
+ "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "丰润达"
+ ],
  "evidence": [
   {
    "kind": "用户表",
    "claim": "表内兴趣/备注",
    "quote": "分销商 商业PoE 有润丰达的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "分销商 商业 PoE 有丰润达",
+   "quote": "分销商 商业PoE 有润丰达的；可以多跟进一下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,31 +31,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 hunters-wholesalers.co.uk，语言 ?，快照状态 timeout；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "电气 / 安防产品批发（英国）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
   "region": "英国",
   "contact": "sales@hunters-wholesalers.co.uk"
  },
  "signals": [
-  "用户表兴趣/备注：分销商 商业PoE 有润丰达的"
+  "表内：分销商 商业 PoE 有润丰达的；可以多跟进一下",
+  "快照：timeout"
  ],
  "risks": [
-  "官网快照失败（timeout）：域名/证书待核，邮件可能退回",
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?"
 }

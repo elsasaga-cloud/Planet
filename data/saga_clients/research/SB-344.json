@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（yellowbox.app，快照 2026-10-21）",
- "summary": "澳大利亚系统集成/工程商：官网「Smart Locker Systems for Workplaces | Yellowbox」（en-AU）；品类词：工业自动化 / OT 网络 / 无线 / WiFi；产品页：product；表内「千兆PoE Injector / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "澳大利亚 Yellowbox Co Pty Ltd（职场智能储物柜系统：柜体、管理软件、智能锁；阿里巴巴 RFQ「千兆 PoE Injector」；KP Adrian Brossard）；表内未跟进。",
+ "type": "智能储物柜系统商（澳大利亚，PoE 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,61 @@
    "quote": "千兆PoE Injector / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Yellowbox 定位",
+   "quote": "Smart Locker Systems for Workplaces | Yellowbox ; the leading smart locker system for modern workplaces",
+   "url": "https://yellowboxglobal.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "千兆 PoE Injector RFQ",
+   "quote": "千兆PoE Injector / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Adrian Brossard",
+   "title": "（职务待核）",
+   "email": "contact@yellowbox.app",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "澳大利亚",
   "other": "官网 yellowbox.app，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi"
+  "智能储物柜系统（澳大利亚）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "智能储物柜系统商（澳大利亚，PoE 为配套）",
   "region": "澳大利亚",
   "contact": "contact@yellowbox.app"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://yellowboxglobal.com/）",
-  "官网公开邮箱：contact@yellowbox.com.au、contact@yellowboxglobal.com、example@company.com",
-  "用户表兴趣/备注：千兆PoE Injector / from: 阿里巴巴RFQ"
+  "官网：Yellowbox is the leading smart locker system for modern workplaces and offices. Seamless locker access, management software and smart locker lock technology；kw automation 10 / wireless 12",
+  "表内：千兆 PoE Injector / from: 阿里巴巴 RFQ；KP Adrian Brossard"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "PoE 注入器品类 Saga 不供（Q-32）；非主攻区（T5，澳大利亚；RCM 由客户侧）；配套需求（量随项目）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-054GP",
+  "tier": 30,
+  "why": "PoE 注入器 Saga 不供（Q-32）→ 储物柜控制器供电改用工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）"
  },
- "email_hook": "Adrian, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Adrian, following your request for gigabit PoE injectors: we do not carry injectors, but a compact 4-PoE + 1 GE industrial switch (12–57 V input, 802.3at) or an 8-PoE + 2 SFP L2+ switch can power several locker controllers from one unit, from single units, CE/RoHS; RCM by your side — how many PoE drops does a typical locker bank need?"
 }

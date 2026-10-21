@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hewtech.co.jp，快照 2026-10-21）",
- "summary": "日本系统集成/工程商：官网「平河ヒューテック」（ja）；品类词：工业自动化 / OT 网络 / 布线 / 线缆；产品页：specialtube、fluorinetube、news.html、cable.html；表内「Switch」；群发 2 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "日本 平河ヒューテック Hirakawa Hewtech（东证上市线缆/管材制造商；IR 页面；KP Eiji Ebihara（Deputy Managing Director）；表内「Switch」）；表内 2 次跟进无回复。",
+ "type": "上市线缆制造商（日本）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,46 @@
    "quote": "Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Hewtech 页面",
+   "quote": "平河ヒューテック ; IR NEWS ; /products/cable.html",
+   "url": "https://www.hewtech.co.jp/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "上市集团且品类非主业；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "日本",
   "other": "官网 hewtech.co.jp，语言 ja，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆"
+  "线缆 / 特种管材制造（上市，日本）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "上市线缆制造商（日本）",
   "region": "日本",
   "contact": "eigyo@hewtech.co.jp、eiji.ebihara@hewtech.co.jp"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.hewtech.co.jp/）",
-  "官网公开邮箱：soumu@hewtech.co.jp",
-  "用户表兴趣/备注：Switch"
+  "官网：平河ヒューテック ; NEWS RELEASE ; IR NEWS；页面 /products/cataloghtml/specialtube/、/products/cable.html",
+  "表内：Switch；KP Eiji Ebihara / Deputy Managing Director"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "体量：东证上市集团；主业线缆/管材（交换机非主业）；非主攻区（日本）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "上市制造集团（主业线缆/氟树脂管，交换机为非主业）→ 改 C（体量/品类）"
  },
- "email_hook": "Eiji, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：上市集团）"
 }
