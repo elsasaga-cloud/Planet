@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（pfsw.com，快照 2026-10-21）",
- "summary": "瑞典安防集成/经销：官网「PacketFront Software」（en-US）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Ubiquiti；站内型号：SE-101；表内「Networking」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "瑞典 PacketFront Software（网络编排与服务管理软件 BECS；表内「Networking」）；表内 1 次跟进无回复。",
+ "type": "网络软件公司（品类不符）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,41 +23,52 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PacketFront Software 定位",
+   "quote": "Home - PacketFront Software ; Network orchestration and service management for complex environments",
+   "url": "https://pfsw.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符：PacketFront Software 纯软件公司；c_sub=品类不符（软件）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 pfsw.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "网络交换 / PoE"
+  "网络编排 / 服务管理软件"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "网络软件公司（品类不符）",
   "region": "瑞典",
   "contact": "info@pfsw.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://pfsw.com/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：gary.iredale@pfsw.com、gdpr@pfsw.com、info@pfsw.com",
-  "用户表兴趣/备注：Networking"
+  "官网：Network orchestration and service management for complex environments. Automate workflows, strengthen control and reduce costs；首页 BECS Security Module；kw automation 41 / telecom 32"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：网络编排软件公司（BECS），无硬件采购"
+ ],
  "saga_fit": {
-  "p1": "STI-280GE",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "纯软件公司（网络编排/OSS），不采购交换机 → 改 C"
  },
- "email_hook": "Alongside the Ubiquiti lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：品类不符）"
 }

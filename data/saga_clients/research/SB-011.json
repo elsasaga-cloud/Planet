@@ -3,10 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（konakguvenlik.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Anasayfa」（tr）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：OPAX-2427、OPAX-1619、OPAX-0810；表内「洪瑞 丰润达的商业POE」；群发 2 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Konak Güvenlik（安防电商：报警、摄像机、OPAX PoE 交换机 OPAX-2427 / OPAX-1619 / OPAX-0810；表内「洪瑞（HRUI）、丰润达的商业 PoE」；KP Erkut Sevin（+90 531…））；表内 2 次跟进无回复。",
+ "type": "安防电商（土耳其，HRUI/丰润达在售 → Q-33 口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI",
+  "丰润达",
+  "OPAX"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +25,62 @@
    "quote": "洪瑞 丰润达的商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Konak Güvenlik 站点",
+   "quote": "Anasayfa ; KABLOSUZ ALARM SİSTEMİ KAMPANYASI ; OPAX-2427 ; OPAX-1619 ; OPAX-0810",
+   "url": "https://www.konakguvenlik.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "HRUI 丰润达的商业 PoE",
+   "quote": "洪瑞 丰润达的商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Erkut Sevin",
+   "title": "（职务待核）",
+   "email": "satis@konakguvenlik.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 konakguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "安防电商（报警 / 摄像机 / PoE）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防电商（土耳其，HRUI/丰润达在售 → Q-33 口径）",
   "region": "土耳其",
   "contact": "satis@konakguvenlik.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.konakguvenlik.com.tr/）",
-  "用户表兴趣/备注：洪瑞 丰润达的商业POE"
+  "站内 OPAX-2427 / OPAX-1619 / OPAX-0810；kw ethernet 17 / poe 9 / cctv 5 / nvr 5",
+  "表内：洪瑞 丰润达的商业 PoE；KP Erkut Sevin / 90 5315637721"
  ],
  "risks": [
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰"
+  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；丰润达价格基准低",
+  "土耳其：汇率敏感；2 次跟进无回复；KP 职务待核"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "现售 HRUI/丰润达商用 PoE → 按 Q-33 口径不碰 HRUI 同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "Erkut, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?"
 }

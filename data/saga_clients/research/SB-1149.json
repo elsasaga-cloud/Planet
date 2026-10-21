@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（algosolutions.com，快照 2026-10-21）",
- "summary": "加拿大系统集成/工程商：官网「Algo Communication Products Ltd.」（en-US）；品类词：网络交换 / PoE；站内品牌：Cisco；产品页：sunwire-solswitch、sunwire-solswitch、metaswitch、metaswitch；表内「IP-based产品 也牵涉到了POE」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "加拿大 Algo Communication Products（IP 寻呼与应急通知平台：SIP 扬声器、适配器、频闪灯、门口对讲；PoE 供电终端；表内「IP-based 产品 也牵涉到了 PoE」「质量一般」）；表内未跟进。",
+ "type": "IP 寻呼终端厂商（加拿大，交换机非其品类）",
  "size": "",
  "brands_seen": [
   "Cisco"
@@ -23,6 +23,20 @@
    "quote": "IP-based产品 也牵涉到了POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Algo 定位",
+   "quote": "Home - Algo Communication Products Ltd. ; Explore Algo’s complete IP paging and emergency notification platform, including SIP speakers, adapters, strobe lights, and door intercom systems",
+   "url": "https://www.algosolutions.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "IP-based 产品 牵涉 PoE",
+   "quote": "IP-based产品 也牵涉到了POE；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,30 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 algosolutions.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "IP 寻呼 / 应急通知终端（自有品牌 Algo）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "IP 寻呼终端厂商（加拿大，交换机非其品类）",
   "region": "加拿大",
   "contact": "info@algosolutions.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.algosolutions.com/）",
-  "官网公开邮箱：info@algosolutions.com",
-  "用户表兴趣/备注：IP-based产品 也牵涉到了POE"
+  "官网：Explore Algo’s complete IP paging and emergency notification platform, including SIP speakers, adapters, strobe lights, and door intercom systems；kw poe 7 / switch 3",
+  "表内：IP-based 产品 也牵涉到了 PoE；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核"
  },
- "email_hook": "Alongside the Cisco lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?"
 }

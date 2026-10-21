@@ -2,7 +2,7 @@
 
 > **评级 B**　|　比利时　|　档案编号 `SB-1070`　|　优先级 ★★　|　状态：已推送 12 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 12 次（2022-11-22 → 2023-10-19）　|　**所在清单**：群发(已重新审核/谷歌 自己的logo)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光纤配件品牌商（比利时，自有标 MC；官网待核）（推断）　|　**历史关系**：推送 12 次（2022-11-22 → 2023-10-19）　|　**所在清单**：群发(已重新审核/谷歌 自己的logo)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1070
@@ -12,7 +12,7 @@ score: 27
 country: 比利时
 region: 欧洲
 website: fybera.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 光纤配件品牌商（比利时，自有标 MC；官网待核）
 tier_tags: ["群发(已重新审核/谷歌 自己的logo)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：比利时品牌商/贴牌需求（OEM/ODM）：官网快照失败（unreachable）；表内「MC 自己的logo 周边产品较多 看着像国内的外壳」；群发 12 次、无回复。（调研 2026-10-21；表内兴趣：MC 自己的logo  周边产品较多 看着像国内的外壳）
+- **是谁**：比利时 Fybera（官网快照不可达；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）；群发 12 次无回复。（调研 2026-10-21；表内兴趣：MC 自己的logo  周边产品较多 看着像国内的外壳）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；-10 推送 12 次无任何回复（聋名单）
 - **历史互动**：推送 12 次（2022-11-22 → 2023-10-19）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | fybera.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 比利时 | 事实（用户表）|
 | 网站/域名 | fybera.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 光纤配件品牌商（比利时，自有标 MC；官网待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC 自己的logo  周边产品较多<br>看着像国内的外壳 | 事实（用户表） |
@@ -55,27 +55,31 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：快照失败（unreachable）
-- **是谁**：比利时品牌商/贴牌需求（OEM/ODM）：官网快照失败（unreachable）；表内「MC 自己的logo 周边产品较多 看着像国内的外壳」；群发 12 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：比利时 Fybera（官网快照不可达；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）；群发 12 次无回复。
+- **类型**：光纤配件品牌商（比利时，自有标 MC；官网待核）
 - **【用户表】表内兴趣/备注**
   > MC 自己的logo 周边产品较多 看着像国内的外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】MC 自己的 logo 国内外壳**
+  > MC 自己的logo  周边产品较多 看着像国内的外壳
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 比利时 |
 | 其他 | 官网 fybera.com，语言 ?，快照状态 unreachable；角色判定来源：用户表 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 比利时；contact: sales@fybera.com
+- **业务线**：光纤配件 / MC（自有品牌 Fybera）
+- **触达通道（公开）**：role: 光纤配件品牌商（比利时，自有标 MC；官网待核）；region: 比利时；contact: sales@fybera.com
 - **近况信号**：
-  - 用户表兴趣/备注：MC 自己的logo 周边产品较多 看着像国内的外壳
-- **风险/边界**：官网快照失败（unreachable）：域名/证书待核，邮件可能退回；群发 12 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 表内：MC 自己的 logo 周边产品较多 看着像国内的外壳
+  - 快照：fybera.com unreachable
+- **风险/边界**：官网快照不可达（站点状态待核）；12 次无回复，仅 sales@
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标
+- **邮件切入句（英文）**：For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
 
@@ -135,7 +139,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（光纤配件品牌商（比利时，自有标 MC；官网待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -191,7 +195,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

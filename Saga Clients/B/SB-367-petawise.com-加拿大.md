@@ -1,6 +1,6 @@
 # petawise.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-367`　|　优先级 ★★　|　状态：已推送 18 次·未回复
+> **评级 B**　|　加拿大　|　档案编号 `SB-367`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
 > **类型**：Uniview 加拿大分销商（PoE 现 Itoonertech）（推断）　|　**历史关系**：推送 18 次（2024-05-03 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-367
 rating: B
 rating_auto: B
 score: 43
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: petawise.com
 type: Uniview 加拿大分销商（PoE 现 Itoonertech）
@@ -42,7 +43,7 @@ updated: 2026-10-21
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | petawise.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | petawise.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | Uniview 加拿大分销商（PoE 现 Itoonertech） | 推断（据兴趣/备注关键词） |
 | 联系人 | John K / 在用Itoonertech商业PoE / Stephane Lavigueur / Vice President of Product and Engineering / Ebin Nazar / Sales Engineer | 事实（用户表） |
@@ -97,7 +98,7 @@ updated: 2026-10-21
 - **近况信号**：
   - 官网：Petawise is the Canadian Arm of Uniview Technologies Co. Ltd. … Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester；页面 /product-category/accessories/poe-switch/；kw distributor 15
   - 表内：全线用 itoonertech 的 FS IPC 比较多 主要是 CCTV 领域；在用 Itoonertech 商业 PoE（https://petawise.com/product-category/PoE-solutions/）；KP Stephane Lavigueur / Vice President of Product and Engineering；Ebin Nazar / Sales Engineer；John K
-- **风险/边界**：Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低；18 次无回复 → 改向 VP Product & Engineering 具名首触
+- **风险/边界**：Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低；18 次无回复 → 改向 VP Product & Engineering 具名首触；国别更正：官网「Best cameras in Ontario | Best cameras in Canada」→ 加拿大（表内美国）
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）
 - **邮件切入句（英文）**：Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（is5com.com，快照 2026-10-21）",
- "summary": "加拿大系统集成/工程商：官网「iS5 Communications â Phoenix Contact Network Communications Inc.」（en-US）；站内品牌：Phoenix Contact；表内「MC 工业FS等」；群发 8 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "加拿大 iS5 Communications → 现为 Phoenix Contact Network Communications Inc.（被菲尼克斯电气收购；工业网络产品自研）；表内「MC 工业 FS 等」「质量高」）；群发 8 次无回复。",
+ "type": "集团旗下工业网络厂商（Phoenix Contact）",
  "size": "",
  "brands_seen": [
   "Phoenix Contact"
@@ -23,38 +23,53 @@
    "quote": "MC 工业FS等",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "iS5 / Phoenix Contact",
+   "quote": "iS5 Communications – Phoenix Contact Network Communications Inc. ; Phoenix Contact Network Communications Inc.",
+   "url": "https://is5com.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 工业 FS 等",
+   "quote": "MC 工业FS等；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "集团/同行：iS5 已并入 Phoenix Contact（自研工业交换机），非渠道客户；c_sub=巨头/集团（同行）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "加拿大",
   "other": "官网 is5com.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业网络设备（Phoenix Contact 集团）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "集团旗下工业网络厂商（Phoenix Contact）",
   "region": "加拿大",
   "contact": "info@is5com.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://is5com.com/）",
-  "在售工业网络品牌：Phoenix Contact → 工业线对位",
-  "用户表兴趣/备注：MC 工业FS等"
+  "官网标题 iS5 Communications – Phoenix Contact Network Communications Inc.；首页 Phoenix Contact Network Communications Inc.",
+  "表内：MC 工业 FS 等；质量高"
  ],
- "risks": [],
+ "risks": [
+  "集团/同行：iS5 现为 Phoenix Contact Network Communications Inc.（集团自研工业网络产品），非 ODM 采购方"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "已并入 Phoenix Contact 集团（自研工业交换机），非渠道客户 → 改 C"
  },
- "email_hook": "Alongside the Phoenix Contact lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：集团/同行）"
 }

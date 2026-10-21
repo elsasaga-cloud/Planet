@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（alston-systems.com，快照 2026-10-21）",
- "summary": "阿联酋工业自动化/IoT 方案商：官网「Alston Systems Inc.」（en-US）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆；站内型号：IEEE802、UX-300；表内「FS SFP模块 MC」；群发 16 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "阿联酋 Alston Systems Inc.（铜缆/光纤布线系统、机柜、电源方案品牌；站内 PoE MC、工业 PDU、Cat 7/7A 系统；表内「FS SFP 模块 MC」；KP Kennedy / Ross）；群发 16 次无回复。",
+ "type": "布线系统品牌商（阿联酋，MC/FS 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,46 +21,70 @@
    "quote": "FS SFP模块 MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Alston Systems 首页",
+   "quote": "Alston Systems Inc. ; Popular Categories Copper Systems Optical Systems Racks, Cabinets & Enclosures Power Solutions ; /product/poe-media-converters/",
+   "url": "https://alston-systems.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "FS SFP 模块 MC",
+   "quote": "FS SFP模块 MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kennedy",
+   "title": "（姓氏/职务待核）",
+   "email": "kennedy@alston-systems.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Ross",
+   "title": "（姓氏/职务待核）",
+   "email": "purchase@alston-systems.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "阿联酋",
   "other": "官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "铜缆 / 光纤布线系统（自有品牌 Alston）",
+  "PoE MC / PDU / 机柜"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "布线系统品牌商（阿联酋，MC/FS 为配套）",
   "region": "阿联酋",
   "contact": "purchase@alston-systems.com、kennedy@alston-systems.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://alston-systems.com/）",
-  "官网公开邮箱：info@digimarkagency.com、mea@alston-systems.com、sales@akston-systems.com",
-  "用户表兴趣/备注：FS SFP模块 MC"
+  "首页 Popular Categories Copper Systems Optical Systems Racks, Cabinets & Enclosures Power Solutions；页面 /product/poe-media-converters/、/product/industrial-pdu/；kw media converter 25 / ethernet 90 / cable 209 / distributor 14",
+  "表内：FS SFP 模块 MC；KP Kennedy/Ross"
  ],
  "risks": [
-  "群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套",
+  "16 次无回复；KP 姓名/职务待核"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供"
  },
- "email_hook": "Kennedy, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?"
 }

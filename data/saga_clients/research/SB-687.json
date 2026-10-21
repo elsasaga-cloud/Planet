@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（basarimuhendislik.com，快照 2026-10-21）",
- "summary": "土耳其工业自动化/IoT 方案商：官网「Başarı Mühendislik」（tr）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内品牌：Milesight、Siemens、Korenix；产品页：endustriyel-gigabit-poe-switch、endustriyel-yonetilemeyen-poe-switch、endustriyel-yonetilebilir-poe-switch、endustriyel-switch；群发 1 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "土耳其 Başarı Mühendislik（能源监测与能源自动化、工业 IoT、SCADA & RTU、通信系统、保护与控制；站内工业千兆 PoE / 可管理与非管理工业 PoE 交换机栏目；品牌 Korenix / Milesight / Siemens；KP Hakan Öztürk）；表内 1 次跟进无回复。",
+ "type": "能源自动化集成商（土耳其，Korenix 在售；仅民用口径）",
  "size": "",
  "brands_seen": [
   "Milesight",
@@ -18,40 +18,56 @@
    "quote": "Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin,",
    "url": "https://www.basarimuhendislik.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Başarı Mühendislik 定位",
+   "quote": "Ana Sayfa - Başarı Mühendislik ; Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin ; /endustriyel-gigabit-poe-switch/",
+   "url": "https://www.basarimuhendislik.com/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Hakan Öztürk",
+   "title": "（职务待核）",
+   "email": "hakan.ozturk@basarimuhendislik.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 basarimuhendislik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "能源监测 / 能源自动化 / SCADA & RTU",
+  "工业 IoT / 通信系统（工业交换机栏目）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "能源自动化集成商（土耳其，Korenix 在售；仅民用口径）",
   "region": "土耳其",
   "contact": "hakan.ozturk@basarimuhendislik.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.basarimuhendislik.com/）",
-  "在售工业网络品牌：Siemens、Korenix → 工业线对位",
-  "安防品牌：Milesight → PoE 配套切入",
-  "官网公开邮箱：satis@basarimuhendislik.com"
+  "页面 /endustriyel-gigabit-poe-switch/、/endustriyel-ethernet-switch/endustriyel-yonetilebilir-poe-switch/、/endustriyel-switch/；首页 Enerji Çözümleri ; Scada & RTU Sistemleri ; Haberleşme Sistemleri；站内品牌 Korenix / Milesight / Siemens",
+  "官网：Enerji İzleme, Enerji Otomasyonu çözümlerimizle enerji altyapınızı optimize edin；KP Hakan（hakan.ozturk@）"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：能源/电力场景——只供民用通用工业交换机；IEC 61850-3 认证 Saga 无",
+  "土耳其：汇率敏感；1 次跟进无回复；KP 职务待核"
+ ],
  "saga_fit": {
-  "p1": "STI-280GE",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）"
  },
- "email_hook": "Hakan, alongside the Milesight / Siemens lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?"
 }

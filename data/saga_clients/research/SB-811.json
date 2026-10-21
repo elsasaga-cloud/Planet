@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（canarycom.com，快照 2026-10-21）",
- "summary": "美国网络/安防经销或集成（官网未见角色词，待核）：官网「Home」；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RJ-45、GT-55PD、RS-232、GF-55RD；表内「从VOLKTEK 买MC」；群发 10 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "美国 Canary Communications（光纤 MC/交换机品牌商：GT-55PD / GF-55RD / GF-55TD 等；表内「从 VOLKTEK 买 MC」「可以尝试多跟进一下」；KP Charles McKee（Account Executive））；群发 10 次无回复。",
+ "type": "光纤 MC 品牌商（美国，现 Volktek 供货）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Volktek"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,41 +23,62 @@
    "quote": "从VOLKTEK 买MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Canary 站点型号",
+   "quote": "Home ; Product Summary ; GT-55PD ; GF-55RD ; GF-55TD",
+   "url": "https://canarycom.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从 Volktek 买 MC",
+   "quote": "从VOLKTEK 买MC；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Charles McKee",
+   "title": "Account Executive",
+   "email": "cmckee@canarycom.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 canarycom.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光纤 MC / 交换机（自有品牌 Canary）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "光纤 MC 品牌商（美国，现 Volktek 供货）",
   "region": "美国",
   "contact": "info@canarycom.com、cmckee@canarycom.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://canarycom.com/）",
-  "官网公开邮箱：info@canarycom.com",
-  "用户表兴趣/备注：从VOLKTEK 买MC"
+  "站内 GT-55PD / GF-55RD / GF-55TD；kw fiber 108 / ethernet 47 / switch 15 / media converter 8 / distributor 11",
+  "表内：从 VOLKTEK 买 MC；可以尝试多跟进一下；KP Charles M / Account Executive"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "现供 Volktek（台湾，品质基准高）：需以价格/交期差异化",
+  "10 次无回复 → 改向 Account Executive 具名首触"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "现从 Volktek（台湾）采购 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 Canary 标作二供；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE"
  },
- "email_hook": "Charles, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Charles, for the media converters in the Canary range, we can be a second source alongside your current Taiwanese supplier — industrial gigabit and PoE MCs plus 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC model do your distributors reorder most?"
 }

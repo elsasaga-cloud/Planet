@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（sarmatt.ru，快照 2026-10-21）",
- "summary": "俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Sarmatt: профессиональное оборудование для видеонаблюдения」（ru）；品类词：网络交换 / PoE；产品页：catalog、dvrs、ip-cameras、accessories；表内「主要是CCTV 有一些商业POE 自己的logo」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "俄罗斯 Sarmatt（专业视频监控设备品牌：DVR、IP 摄像机、配件目录；表内「主要是 CCTV 有一些商业 PoE 自己的 logo」）；表内未跟进。",
+ "type": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "主要是CCTV 有一些商业POE 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Sarmatt 定位",
+   "quote": "Sarmatt: профессиональное оборудование для видеонаблюдения ; /catalog/dvrs/ ; /catalog/ip-cameras/",
+   "url": "https://sarmatt.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 有一些商业 PoE 自己的 logo",
+   "quote": "主要是CCTV 有一些商业POE 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +43,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 sarmatt.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "网络交换 / PoE"
+  "视频监控设备（自有品牌 Sarmatt）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
   "region": "俄罗斯",
   "contact": "info@sarmatt.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://sarmatt.ru/）",
-  "官网公开邮箱：info@sarmatt.ru",
-  "用户表兴趣/备注：主要是CCTV 有一些商业POE 自己的logo"
+  "官网：Sarmatt: профессиональное оборудование для видеонаблюдения；页面 /catalog/dvrs/、/catalog/ip-cameras/、/catalog/accessories/；kw poe 6",
+  "表内：主要是 CCTV 有一些商业 PoE 自己的 logo"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量",
+  "未跟进过，仅 info@"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?"
 }

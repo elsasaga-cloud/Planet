@@ -2,7 +2,7 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-758`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光模块品牌网店（德国，MC 为副线；邮箱待补）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-758
@@ -12,7 +12,7 @@ score: 33
 country: 德国
 region: 欧洲
 website: blueoptics-shop.de
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 光模块品牌网店（德国，MC 为副线；邮箱待补）
 tier_tags: ["A优质名单(DE)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国品牌商/贴牌需求（OEM/ODM）：官网「Blueoptics - Shop | BlueOptics-Shop」（de）；品类词：光纤 / 媒体转换；站内型号：SFP28、QSFP28、QSFP56、SFP56；表内「自己的logo SFP MC AOC等为主」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：自己的logo SFP MC AOC等为主）
+- **是谁**：德国 BlueOptics-Shop（CBO 旗下 BlueOptics 光模块与光纤配件网店，德国发货；站内 SFP/SFP28/QSFP28/QSFP56/QSFP112；表内「自己的 logo；SFP MC AOC 等为主」「可以着重跟一下」；无邮箱）；表内未跟进。（调研 2026-10-21；表内兴趣：自己的logo SFP MC AOC等为主）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：主业光模块/AOC（Saga 不供，Q-32）→ 仅 MC 可对位：工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 BlueOptics 标；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | blueoptics-shop.de（取自域名，公司全名待核） | 推断 |
 | 国家 | 德国 | 事实（用户表）|
 | 网站/域名 | blueoptics-shop.de | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 光模块品牌网店（德国，MC 为副线；邮箱待补） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以着重跟一下 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 自己的logo<br>SFP MC AOC等为主 | 事实（用户表） |
@@ -55,30 +55,37 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（blueoptics-shop.de，快照 2026-10-21）
-- **是谁**：德国品牌商/贴牌需求（OEM/ODM）：官网「Blueoptics - Shop | BlueOptics-Shop」（de）；品类词：光纤 / 媒体转换；站内型号：SFP28、QSFP28、QSFP56、SFP56；表内「自己的logo SFP MC AOC等为主」；表内未见跟进记录。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：德国 BlueOptics-Shop（CBO 旗下 BlueOptics 光模块与光纤配件网店，德国发货；站内 SFP/SFP28/QSFP28/QSFP56/QSFP112；表内「自己的 logo；SFP MC AOC 等为主」「可以着重跟一下」；无邮箱）；表内未跟进。
+- **类型**：光模块品牌网店（德国，MC 为副线；邮箱待补）
 - **【官网快照】官网标题：Blueoptics - Shop | BlueOptics-Shop；品类词 光纤 / 媒体转换**
   > Transceiver und LWL Zubehör - Versand aus Deutschland
   > 来源：https://www.blueoptics-shop.de/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 自己的logo SFP MC AOC等为主
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】BlueOptics-Shop 定位**
+  > Blueoptics - Shop | BlueOptics-Shop ; Transceiver und LWL Zubehör - Versand aus Deutschland ; SFP28 ; QSFP28 ; QSFP112
+  > 来源：https://www.blueoptics-shop.de/（抓取 2026-10-21）
+- **【用户表】自己的 logo SFP MC AOC；着重跟**
+  > 自己的logo SFP MC AOC等为主；可以着重跟一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 德国 |
 | 其他 | 官网 blueoptics-shop.de，语言 de，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：光纤 / 媒体转换
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 德国；contact: （表内无邮箱）
+- **业务线**：光模块 / AOC / 光纤配件网店（自有品牌 BlueOptics）
+- **触达通道（公开）**：role: 光模块品牌网店（德国，MC 为副线；邮箱待补）；region: 德国；contact: （表内无邮箱）
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.blueoptics-shop.de/）
-  - 用户表兴趣/备注：自己的logo SFP MC AOC等为主
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 官网：Blueoptics - Shop | BlueOptics-Shop ; Transceiver und LWL Zubehör - Versand aus Deutschland；kw sfp 566 / 10g 46 / 2.5g 7
+  - 表内：自己的 logo SFP MC AOC 等为主；可以着重跟一下
+- **风险/边界**：邮箱待补：表内与快照均无邮箱（需网站表单/CBO 官网另寻）；主业光模块（Saga 不供），MC 为副线，契合度低；用户标「着重跟」
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——主业光模块/AOC（Saga 不供，Q-32）→ 仅 MC 可对位：工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 BlueOptics 标
+- **邮件切入句（英文）**：For the media converters sold under the BlueOptics label next to your transceiver range, we can supply gigabit MCs (desktop or industrial DIN/wall, CE/RoHS) in your packaging from small lots — which MC configuration sells most alongside your SFP modules?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -126,7 +133,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：主业光模块/AOC（Saga 不供，Q-32）→ 仅 MC 可对位：工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 BlueOptics 标 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（光模块品牌网店（德国，MC 为副线；邮箱待补）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -180,7 +187,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the media converters sold under the BlueOptics label next to your transceiver range, we can supply gigabit MCs (desktop or industrial DIN/wall, CE/RoHS) in your packaging from small lots — which MC configuration sells most alongside your SFP modules?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
