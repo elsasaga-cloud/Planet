@@ -46,6 +46,14 @@ v2.6（2026-10-21，运行 #8 图片 1493/1493 收齐但 Release 附件被逐轮
   图片二进制也入 git（OUT/images/，总量 ≤ IMG_COMMIT_MB=400 才拷；型号页可直接内嵌显示）；
   清单里"已完成"的图片若二进制既不在 BIN 也不在 OUT/images，则视为未完成重新下载，保证入库齐全。
 v2.6.1（2026-10-21，运行 #9 图片 1487/1493 入 git、6 张 CDN 读体中断之后）：图片读体失败就地重试一次（隔 3 s）再记错。
+v3.0（2026-10-21，T25：Saga 另两家供应商 HRUI / Hohunet 官网也要入库，而工作流 yml 不可改）：
+  ① 通用化：站点由 CRAWL_HOST 决定；sitemap 索引（<loc> 指向子 sitemap / 产品 / 图片）当页面抓到后展开；
+     <img> 多收 data-lazy-src / data-large_image；WordPress / 建站 CMS 的垃圾链接（feed / wp-json / ?replytocom / ?p= / 购物车等）不入队。
+  ② 入库规则改为按文件：文档类（pdf/doc/xls/ppt…）单文件 ≤60 MB、固件压缩包 ≤15 MB、任何文件 ≤95 MB（GitHub 单文件上限）且累计 ≤PDF_COMMIT_MB
+     才拷进 OUT/datasheets；图片累计 ≤IMG_COMMIT_MB 才拷进 OUT/images；图片按「出现页数少的先抓」排序（产品图优先于页眉 logo）。
+  ③ 编排：在 GitHub Actions 里以工作流固定命令（SmartByte）启动且 SmartByte 已 complete 时跳过重抓，
+     然后顺序以子进程抓 EXTRA_SITES（HRUI → Hohunet，各自 OUT / BIN / 预算），结束后 git add 它们的 OUT 目录，
+     由工作流原有的提交步骤一并提交。CRAWL_RECRAWL=1 可强制重抓 SmartByte；CRAWL_EXTRA_SITES=0 可关闭编排。
 """
 import hashlib
 import json
@@ -67,6 +75,16 @@ BASE = f"{SCHEME}://{HOST}/"
 HOSTS_OK = {HOST.lower(), HOST[4:].lower() if HOST.lower().startswith("www.") else ("www." + HOST).lower()}
 OUT = sys.argv[1] if len(sys.argv) > 1 else "data/smartbyte_site_raw"
 BIN = sys.argv[2] if len(sys.argv) > 2 else "crawl_bin"
+SITE = os.environ.get("CRAWL_SITE") or ("smartbyte" if HOST.lower().endswith("smartbyte-switch.com") else HOST.lower())
+# v3.0：工作流命令固定抓 SmartByte；其后顺序抓这些站（T25：Saga 的另两家供应商）
+EXTRA_SITES = [
+    {"site": "hrui", "host": "www.hruitech.com", "out": "data/hrui_site_raw", "bin": "crawl_bin_hrui"},
+    {"site": "hohunet", "host": "hohunet.com", "out": "data/hohunet_site_raw", "bin": "crawl_bin_hohunet"},
+]
+# 不入队的垃圾 / 无限组合链接（WordPress、WooCommerce、建站 CMS 常见）
+JUNK_RE = re.compile(r"(/feed/?$|/feed/|/wp-json|xmlrpc\.php|wp-login|wp-admin|/wp-includes/|[?&](?:replytocom|p|share|add-to-cart|orderby|"
+                     r"attachment_id|s|min_price|max_price|filter_[a-z_]+|product-page|preview|customize_changeset_uuid)=|"
+                     r"/cart/?$|/checkout/?$|/my-account|/comments/|/trackback|/print/?$|/amp/?$)", re.I)
 MAX_PAGES = int(os.environ.get("MAX_PAGES", "1500"))
 DELAY = float(os.environ.get("DELAY", "1.2"))
 MAX_IMAGE_MB = float(os.environ.get("MAX_IMAGE_MB", "600"))
@@ -153,6 +171,10 @@ def kind(u):
     q = p.query.lower()
     if "downdetail" in path.lower() or "downdetail" in q or "a=download" in q:
         return "download"
+    if path.endswith(IMG_EXT) or path.endswith(FILE_EXT):
+        pass  # 图片 / 附件不受垃圾链接规则影响
+    elif JUNK_RE.search(u):
+        return "skip"
     if path.endswith(IMG_EXT):
         return "image"
     if path.endswith(FILE_EXT):
@@ -703,8 +725,11 @@ def main():
                 m = re.search(r"<title[^>]*>(.*?)</title>", html, flags=re.I | re.S)
                 rec.update(file=f"html/{name}", bytes=len(html.encode("utf-8")), sha256=sha256(html.encode("utf-8")),
                            title=re.sub(r"\s+", " ", m.group(1)).strip() if m else None)
-                # links
-                for href in re.findall(r"""href\s*=\s*["']([^"'#]+)""", html, flags=re.I):
+                # links（v3.0：sitemap / sitemap 索引 XML 的 <loc> / <image:loc> 一并当链接展开）
+                hrefs = re.findall(r"""href\s*=\s*["']([^"'#]+)""", html, flags=re.I)
+                if "xml" in ct or html.lstrip()[:60].lower().startswith("<?xml") or "<urlset" in html[:2000] or "<sitemapindex" in html[:2000]:
+                    hrefs += re.findall(r"<(?:image:|video:)?loc>\s*(.*?)\s*</(?:image:|video:)?loc>", html, flags=re.I | re.S)
+                for href in hrefs:
                     if href.lower().startswith(("javascript:", "mailto:", "tel:", "whatsapp:", "data:")):
                         continue
                     n = norm(href, r.url)
@@ -725,9 +750,9 @@ def main():
                         found(downloads.setdefault(n, {"found_on": []}), u)
                     elif k == "image":
                         found(images.setdefault(n, {"found_on": [], "alt": ""}), u)
-                for m2 in re.finditer(r"""<img[^>]+?(?:src|data-src|data-original)\s*=\s*["']([^"']+)["'][^>]*>""", html, flags=re.I):
+                for m2 in re.finditer(r"""<img[^>]+?(?:src|data-src|data-original|data-lazy-src|data-large_image)\s*=\s*["']([^"']+)["'][^>]*>""", html, flags=re.I):
                     n = norm(m2.group(1), r.url)
-                    if n is None:
+                    if n is None or kind(n) == "skip":
                         continue
                     alt = re.search(r"""alt\s*=\s*["']([^"']*)""", m2.group(0), flags=re.I)
                     d = found(images.setdefault(n, {"found_on": [], "alt": ""}), u)
@@ -853,16 +878,28 @@ def main():
     write_jsonl(p_dl, dl_rows)
     log(f"pdftotext: {n_txt}")
 
-    # ---------- commit PDFs into git only if small enough ----------
+    # ---------- commit downloads into git（v3.0：按文件规则 + 累计上限；此前是全有或全无） ----------
     pdf_bytes = sum(d["bytes"] or 0 for d in dl_rows if d["file"])
-    pdfs_committed = pdf_bytes <= PDF_COMMIT_MB * 1e6
-    if pdfs_committed:
-        for d in dl_rows:
-            if d["file"]:
-                src = os.path.join(BIN, d["file"])
-                if os.path.exists(src):
-                    shutil.copy2(src, os.path.join(OUT, "datasheets", d["filename"]))
-    log(f"downloads total {pdf_bytes / 1e6:.1f} MB → committed to git: {pdfs_committed}")
+    cum = 0
+    n_commit = 0
+    n_ok_dl = 0
+    for d in sorted((d for d in dl_rows if d["file"]), key=lambda d: d.get("bytes") or 0):
+        n_ok_dl += 1
+        size = d.get("bytes") or 0
+        dst = os.path.join(OUT, "datasheets", d["filename"])
+        if not commit_ok(d["filename"], size) or cum + size > PDF_COMMIT_MB * 1e6:
+            d["committed"] = False
+            continue
+        src = os.path.join(BIN, d["file"])
+        if os.path.exists(src) and not os.path.exists(dst):
+            shutil.copy2(src, dst)
+        if os.path.exists(dst):
+            d["committed"] = True
+            cum += size
+            n_commit += 1
+    pdfs_committed = n_commit == n_ok_dl
+    write_jsonl(p_dl, dl_rows)
+    log(f"downloads total {pdf_bytes / 1e6:.1f} MB → committed to git: {n_commit}/{n_ok_dl} files ({cum / 1e6:.1f} MB; all={pdfs_committed})")
     save_state(p_state, queue, seen, downloads, images, external, "images", runs)
 
     # ---------- images (binary dir only) ----------
@@ -875,7 +912,8 @@ def main():
     if len(img_rows) < len(img_prev_ok):
         log(f"images: {len(img_prev_ok) - len(img_rows)} previously fetched but binary absent (Release clobbered) → re-download for git")
     done_img = {d["url"] for d in img_rows}
-    todo_img = [(u, meta) for u, meta in sorted(images.items()) if u not in done_img]
+    # v3.0：出现页数少的先抓（产品图只在 1-2 页出现；logo / 皮肤图每页都有，排最后，预算不够时先放弃它们）
+    todo_img = [(u, meta) for u, meta in sorted(images.items(), key=lambda kv: (len(kv[1].get("found_on") or []), kv[0])) if u not in done_img]
     total = 0
     img_stop = None
     n_new_img = 0
@@ -961,7 +999,7 @@ def main():
     n_copied = 0
     if imgs_committed:
         for d in img_rows:
-            if d.get("file"):
+            if d.get("file") and (d.get("bytes") or 0) <= 95e6:
                 src = os.path.join(BIN, d["file"])
                 dst = os.path.join(OUT, "images", os.path.basename(d["file"]))
                 if os.path.exists(src) and not os.path.exists(dst):
@@ -1003,11 +1041,12 @@ def main():
         "time_budget_min": TIME_BUDGET_MIN,
         "how_to_continue": None if complete else (
             "被封：站点对 GitHub Actions 运行器的所有访问方式都返回拒绝（access_diag.json 有状态码 / 响应头 / 正文片段）。"
-            "办法：① 过几小时再到 Actions 页点 Run workflow（可能是运行 #1 长时间抓取触发的临时封禁）；"
-            "② 在本地电脑运行 python scripts/smartbyte_crawl/crawl.py data/smartbyte_site_raw crawl_bin 后提交；"
-            "③ 请 SmartByte 放行归档 UA / 运行器 IP。" if blocked else
+            "办法：① 过几小时再到 Actions 页点 Run workflow（可能是长时间抓取触发的临时封禁）；"
+            f"② 在本地电脑运行 CRAWL_HOST={HOST} python scripts/smartbyte_crawl/crawl.py {OUT} {BIN} 后提交；"
+            "③ 请站方放行归档 UA / 运行器 IP。" if blocked else
             f"未抓完（被拒 403/429/网络错误 {n_refused} 个；页面阶段 {pages_stop}；附件 {dl_stop}；图片 {img_stop}）："
             "在 GitHub Actions 页对 SmartByte site archive 点 Run workflow（或再推一次 crawl.py），会从 crawl_state.json 续抓并重试失败项"),
+        "site": SITE,
     }
     with open(os.path.join(OUT, "summary.json"), "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
@@ -1018,6 +1057,68 @@ def main():
     save_state(p_state, queue, seen, downloads, images, external, "done" if complete else "images", runs)
     log(json.dumps({k: v for k, v in summary.items() if k not in ("pages_failed", "external_hosts", "runs")}, ensure_ascii=False))
     log("COMPLETE" if complete else "INCOMPLETE → re-run to continue")
+
+
+DOC_EXT = (".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".csv")
+
+
+def commit_ok(fn, size):
+    """单个附件是否入 git：任何文件 ≤95 MB（GitHub 单文件 100 MB 硬限）；文档 ≤60 MB；固件 / 压缩包 ≤15 MB。"""
+    ext = os.path.splitext(fn or "")[1].lower()
+    if size > 95e6:
+        return False
+    if ext in DOC_EXT:
+        return size <= 60e6
+    return size <= 15e6
+
+
+def _already_complete(out):
+    try:
+        with open(os.path.join(out, "summary.json"), encoding="utf-8") as f:
+            return bool(json.load(f).get("complete"))
+    except Exception:
+        return False
+
+
+def run_extra_sites():
+    """v3.0 编排（仅 GitHub Actions、仅工作流固定命令那次调用）：顺序以子进程抓 EXTRA_SITES，再 git add 它们的 OUT 目录。
+    预算：作业上限 170 分钟，给 zip / 提交留 20 分钟；余下在各站之间平分（每站最多 55 分钟）。"""
+    if os.environ.get("CRAWL_HOST") or os.environ.get("CRAWL_EXTRA_SITES", "1") == "0" or not os.environ.get("GITHUB_ACTIONS"):
+        return
+    outs = []
+    for site in EXTRA_SITES:
+        left = 150 - elapsed() / 60
+        n_left = len(EXTRA_SITES) - EXTRA_SITES.index(site)
+        budget = max(8, min(55, left / n_left))
+        if left < 10:
+            log(f"[extra] {site['site']}: no time left ({left:.0f} min) → next run")
+            continue
+        env = dict(os.environ, CRAWL_HOST=site["host"], CRAWL_SCHEME=site.get("scheme", "https"), CRAWL_SITE=site["site"],
+                   TIME_BUDGET_MIN=f"{budget:.0f}", MAX_IMAGE_MB=os.environ.get("EXTRA_MAX_IMAGE_MB", "250"),
+                   IMG_COMMIT_MB=os.environ.get("EXTRA_IMG_COMMIT_MB", "250"), PDF_COMMIT_MB=os.environ.get("EXTRA_PDF_COMMIT_MB", "250"))
+        log(f"[extra] ===== {site['site']} ({site['host']}) → {site['out']}; budget {budget:.0f} min =====")
+        try:
+            subprocess.run([sys.executable, os.path.abspath(__file__), site["out"], site["bin"]], env=env, check=False,
+                           timeout=(budget + 12) * 60)
+        except subprocess.TimeoutExpired:
+            log(f"[extra] {site['site']}: child timed out (budget {budget:.0f} min + 12) → checkpoints on disk, resume next run")
+        except Exception as e:  # noqa: BLE001
+            log(f"[extra] {site['site']}: child failed to run: {e!r}")
+        if os.path.isdir(site["out"]):
+            outs.append(site["out"])
+            try:
+                with open(os.path.join(site["out"], "summary.json"), encoding="utf-8") as f:
+                    sm = json.load(f)
+                log(f"[extra] {site['site']}: complete={sm.get('complete')} pages {sm.get('pages_ok')}/{sm.get('pages_total')} "
+                    f"downloads {sm.get('downloads_ok')}/{sm.get('downloads_total')} images {sm.get('images_ok')}/{sm.get('images_total')}")
+            except Exception:
+                log(f"[extra] {site['site']}: no summary.json")
+    if outs:
+        try:
+            subprocess.run(["git", "add", "-A", *outs], check=True, timeout=600)
+            log(f"[extra] git add -A {' '.join(outs)} → staged for the workflow's commit step")
+        except Exception as e:  # noqa: BLE001
+            log(f"[extra] git add failed: {e!r}")
 
 
 def _crash(exc):
@@ -1047,10 +1148,15 @@ def _crash(exc):
 
 if __name__ == "__main__":
     try:
-        main()
+        if _already_complete(OUT) and not os.environ.get("CRAWL_RECRAWL"):
+            # v3.0：该站已整站抓齐（summary.json complete=true）→ 不重抓（CRAWL_RECRAWL=1 强制）
+            for d in ("downloads", "images"):
+                os.makedirs(os.path.join(BIN, d), exist_ok=True)  # 工作流的 zip 步骤要 cd 进 BIN
+            log(f"{SITE}: {OUT}/summary.json complete=true → skip recrawl (set CRAWL_RECRAWL=1 to force)")
+        else:
+            main()
     except Exception as e:  # noqa: BLE001
         _crash(e)
-        sys.exit(0)
     finally:
         try:
             if _PW.get("browser"):
@@ -1058,3 +1164,8 @@ if __name__ == "__main__":
                 _PW["pw"].stop()
         except Exception:
             pass
+    try:
+        run_extra_sites()
+    except Exception as e:  # noqa: BLE001
+        log(f"[extra] orchestrator failed: {e!r}")
+    sys.exit(0)
