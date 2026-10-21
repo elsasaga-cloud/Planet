@@ -1,0 +1,56 @@
+{
+ "code": "SB-887",
+ "name_official": "ТОО «VERTEX INVADER»（哈萨克斯坦；表内误归俄罗斯）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（mail.ru）",
+ "summary": "ТОО（哈萨克斯坦有限责任公司法律形式）VERTEX INVADER，电话 +7 778（哈萨克斯坦移动号），邮箱 invest_01otp@mail.ru；询盘表来源，无兴趣描述；WA 无实质回复。表内国家俄罗斯 → 更正哈萨克斯坦；身份不明。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ТОО 法律形式 + 电话 77784080220（哈萨克斯坦）；询盘统计表来源，无兴趣描述",
+   "quote": "VERTEX INVADER, ТОО；77784080220",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "invest_01otp@mail.ru",
+   "phone": "+7 778 408 0220",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（country_fix 哈萨克斯坦）"
+ },
+ "company_facts": {
+  "legal_name": "ТОО «VERTEX INVADER»",
+  "founded": "",
+  "hq": "Kazakhstan",
+  "size": "",
+  "other": "mail.ru；身份不明"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "哈萨克斯坦"
+ },
+ "risks": [
+  "身份不明、邮箱似投资类；无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型。"
+ },
+ "email_hook": "（低优先）",
+ "country_fix": "哈萨克斯坦"
+}

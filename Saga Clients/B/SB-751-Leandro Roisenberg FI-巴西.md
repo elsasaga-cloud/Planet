@@ -1,4 +1,5 @@
 # Leandro Roisenberg FI
+**官方名称（调研核实）**：LRI Automação Industrial（圣保罗）
 
 > **评级 B**　|　巴西　|　档案编号 `SB-751`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-751
 rating: B
 rating_auto: B
+name_official: "LRI Automação Industrial（圣保罗）"
 score: 33
 country: 巴西
 region: 拉美
@@ -19,9 +21,9 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STI-288GPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴西的经销/集成（类型待核）
+- **是谁**：巴西圣保罗（+55 11 4020 2470）工业自动化产品分销商：电源、DC/DC 转换、**工业交换机（ORing）**、嵌入式计算机、数据采集；巴西有库存开 NF-e 发票；站内 switch 344 / industrial 150 / poe 99 / sfp 47；Director Leandro Roisenberg（表内电话为以色列号 +972，疑双国籍）；询盘表来源；WA 无实质回复。ORing 之下的低价工业线有位置。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西；+2 最近活动 2024
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-751.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（lri.com.br，快照 2026-10-21，葡语）
+- **是谁**：巴西圣保罗（+55 11 4020 2470）工业自动化产品分销商：电源、DC/DC 转换、**工业交换机（ORing）**、嵌入式计算机、数据采集；巴西有库存开 NF-e 发票；站内 switch 344 / industrial 150 / poe 99 / sfp 47；Director Leandro Roisenberg（表内电话为以色列号 +972，疑双国籍）；询盘表来源；WA 无实质回复。ORing 之下的低价工业线有位置。
+- **在卖/在用品牌**：ORing
+- **【官网快照】电源、DC/DC、工业交换机、嵌入式计算机、数据采集；巴西库存 + NF-e；ORing；+55 11 4020-2470**
+  > Fontes de alimentação, conversores CC/CC, switches industriais, computadores embarcados e aquisição de dados para automação. Estoque no Brasil e NF-e… brands ORing
+  > 来源：https://lri.com.br/（抓取 2026-10-21）
+- **【用户表】询盘统计表来源；Leandro Roisenberg, director**
+  > （空）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Leandro Roisenberg（）leandro@lri.com.br +972 50 665 0861（表内；巴西座机 +55 11 4020 2470）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ORing 渠道））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | LRI Automação Industrial Ltda（待核） |
+| 成立 | （待核） |
+| 总部/地址 | São Paulo, Brazil |
+| 其他 | ORing 巴西渠道 |
+
+- **业务线**：工业电源 / DC-DC；工业以太网交换机（ORing）；嵌入式工控 / 数据采集
+- **触达通道（公开）**：role: 工业自动化分销商（库存型）；region: 巴西
+- **近况信号**：
+  - 整站工业交换机为核心品类 → 需要 ORing 之下的低价第二品牌
+  - 库存型分销 → 批量采购
+- **风险/边界**：巴西 ANATEL（交换机一般豁免，需核）、进口税高；ORing（台系）价位与 Saga 差距大 → 以 Marvell / 价格切入
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。
+- **邮件切入句（英文）**：Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 2-year warranty; would a 10-pc stock trial with your NF-e flow make sense?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -94,7 +124,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Leandro Roisenberg, director | — | leandro@lri.com.br / roisenberg@hotmail.com / +972506650861 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Leandro Roisenberg | — | leandro@lri.com.br / +972 50 665 0861（表内；巴西座机 +55 11 4020 2470） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -110,7 +140,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288GPM | 深挖对位：ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。 | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -119,9 +149,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -131,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达
 - **W**：拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -156,30 +186,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 2-year warranty; would a 10-pc stock trial with your NF-e flow make sense?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

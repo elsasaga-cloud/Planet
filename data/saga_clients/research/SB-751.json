@@ -1,0 +1,74 @@
+{
+ "code": "SB-751",
+ "name_official": "LRI Automação Industrial（圣保罗）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（lri.com.br，快照 2026-10-21，葡语）",
+ "summary": "巴西圣保罗（+55 11 4020 2470）工业自动化产品分销商：电源、DC/DC 转换、**工业交换机（ORing）**、嵌入式计算机、数据采集；巴西有库存开 NF-e 发票；站内 switch 344 / industrial 150 / poe 99 / sfp 47；Director Leandro Roisenberg（表内电话为以色列号 +972，疑双国籍）；询盘表来源；WA 无实质回复。ORing 之下的低价工业线有位置。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ORing"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "电源、DC/DC、工业交换机、嵌入式计算机、数据采集；巴西库存 + NF-e；ORing；+55 11 4020-2470",
+   "quote": "Fontes de alimentação, conversores CC/CC, switches industriais, computadores embarcados e aquisição de dados para automação. Estoque no Brasil e NF-e… brands ORing",
+   "url": "https://lri.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源；Leandro Roisenberg, director",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Leandro Roisenberg",
+   "title": "Director",
+   "email": "leandro@lri.com.br",
+   "phone": "+972 50 665 0861（表内；巴西座机 +55 11 4020 2470）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：ORing 渠道）"
+ },
+ "company_facts": {
+  "legal_name": "LRI Automação Industrial Ltda（待核）",
+  "founded": "（待核）",
+  "hq": "São Paulo, Brazil",
+  "size": "中小型工业自动化分销（有库存）",
+  "other": "ORing 巴西渠道"
+ },
+ "business_lines": [
+  "工业电源 / DC-DC",
+  "工业以太网交换机（ORing）",
+  "嵌入式工控 / 数据采集"
+ ],
+ "channels": {
+  "role": "工业自动化分销商（库存型）",
+  "region": "巴西"
+ },
+ "signals": [
+  "整站工业交换机为核心品类 → 需要 ORing 之下的低价第二品牌",
+  "库存型分销 → 批量采购"
+ ],
+ "risks": [
+  "巴西 ANATEL（交换机一般豁免，需核）、进口税高",
+  "ORing（台系）价位与 Saga 差距大 → 以 Marvell / 价格切入"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。"
+ },
+ "email_hook": "Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 2-year warranty; would a 10-pc stock trial with your NF-e flow make sense?"
+}

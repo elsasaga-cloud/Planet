@@ -1,4 +1,5 @@
 # JMP
+**官方名称（调研核实）**：JMP System Co., Ltd.（제이엠피시스템，韩国）
 
 > **评级 B**　|　韩国　|　档案编号 `SB-420`　|　优先级 ★★　|　状态：已推送 52 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-420
 rating: B
 rating_auto: B
+name_official: "JMP System Co., Ltd.（제이엠피시스템，韩国）"
 score: 41
 country: 韩国
 region: 亚太
@@ -19,9 +21,9 @@ replies: 0
 followups: 52
 first_contact: 2024-05-01
 last_contact: 2025-11-04
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+p1: STC-024FP
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 5
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国的安防集成/经销；兴趣/在卖：洪瑞全百兆6口 4个POE 10个；包装盒要印他们的logo，换掉标签，想要比工业级realtek那个更便宜点的，说是在线上卖的商业级的都太便宜了。提到了想要简单的网管，可以监控到设备是否有掉线；提到的品牌：洪瑞
+- **是谁**：韩国无线通信设备 / CCTV / 公共 Wi-Fi 方案商 JMP System（SECON 2023 接触；Hong Soon Jin，Soo Yeon Choi），**52 次跟进**：要 HRUI 全百兆 6 口（4 PoE）×10 台，包装盒印其 logo、换标签，想要比工业级 Realtek 款更便宜（线上商用款太便宜不信任），要简单网管可监控端口；= 小批量贴牌 OEM（30%），但 FE 低价段 Saga 价目仅 HRUI 列表价。（调研 2026-10-21；表内兴趣：洪瑞全百兆6口 4个POE 10个；包装盒要印他们的logo，换掉标签，想要比工业级realtek那个更便宜点的，说是在线上卖的商业级的都太便宜了。提到了想要简单的网管，可以监控到设备是否有掉线）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-22 推送 52 次无任何回复（聋名单）
 - **历史互动**：推送 52 次（2024-05-01 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-024FP — 深挖对位：全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。；$9.9 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -65,7 +67,36 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-420.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（jmpsystem.com，快照 2026-10-21，韩语）
+- **是谁**：韩国无线通信设备 / CCTV / 公共 Wi-Fi 方案商 JMP System（SECON 2023 接触；Hong Soon Jin，Soo Yeon Choi），**52 次跟进**：要 HRUI 全百兆 6 口（4 PoE）×10 台，包装盒印其 logo、换标签，想要比工业级 Realtek 款更便宜（线上商用款太便宜不信任），要简单网管可监控端口；= 小批量贴牌 OEM（30%），但 FE 低价段 Saga 价目仅 HRUI 列表价。
+- **在卖/在用品牌**：HRUI
+- **【官网快照】无线通信设备、CCTV、公共 Wi-Fi 方案**
+  > 제이엠피시스템은 무선통신장비, CCTV, 공공와이파이 등 다양한 솔루션을 제공하는 국내 대표 기업입니다
+  > 来源：https://jmpsystem.com/（抓取 2026-10-21）
+- **【用户表】洪瑞全百兆 6 口 4 个 POE 10 个；包装盒印 logo、换标签；比工业级 Realtek 更便宜；要简单网管可监控**
+  > 兴趣：洪瑞全百兆6口 4个POE 10个;包装盒要印他们的logo，换掉标签，想要比工业级realtek那个更便宜点的… 提到了想要简单的网管，可以监控到
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Hong Soon Jin（）cs@jmpsystem.com +82 10 2965 8868〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Soo Yeon Choi（）aircess@gmail.com +82 10 5282 8980〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内：小批量贴牌））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | JMP System Co., Ltd. |
+| 成立 | （待核） |
+| 总部/地址 | Seoul, Korea（+82 2 415 0020） |
+| 其他 | 公共 Wi-Fi / CCTV 项目 |
+
+- **业务线**：无线通信设备 / 公共 Wi-Fi；CCTV 方案
+- **触达通道（公开）**：role: 方案商（小批量贴牌）；region: 韩国
+- **近况信号**：
+  - 具体需求：FE 6 口 4 PoE ×10，印 logo 换标 → 可成小单
+  - 要简单网管 → 升级到 HRUI 管理型 / Saga STC-28DGGPM 有机会
+- **风险/边界**：FE 低价段无 SmartByte 价目（HRUI 列表价 STC-024FP $9.9 级），10 台印 logo 的包装起订量需与 HRUI 核；韩国 KC 认证
+- **Saga 对位结论**：P1 STC-024FP（30% 档）——全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。
+- **邮件切入句（英文）**：Mr. Hong, for the 10 × 6-port fast-Ethernet PoE units with your logo on the carton — doable at that quantity (label + box print); but the 'simple management to monitor ports' needs the gigabit L2+ model instead. Which matters more for this job, the price point or the monitoring?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -159,7 +190,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hong Soon Jin | — | aircess@gmail.com / cs@jmpsystem.com / +821029658868 | 用户表原值 | Clients/ 表 |
+| Hong Soon Jin | — | cs@jmpsystem.com / +82 10 2965 8868 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Soo Yeon Choi | — | aircess@gmail.com / +82 10 5282 8980 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Soon Jin Hong | — | aircess@gmail.com / cs@jmpsystem.com / +821029658868 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 52 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -180,19 +212,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-024FP | 深挖对位：全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。 | $9.9 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 30%（安防集成/经销） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-024FP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-024FP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -200,7 +233,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 52 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
+- **O**：P1 STC-024FP 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -224,30 +257,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Hong,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Mr. Hong, for the 10 × 6-port fast-Ethernet PoE units with your logo on the carton — doable at that quantity (label + box print); but the 'simple management to monitor ports' needs the gigabit L2+ model instead. Which matters more for this job, the price point or the monitoring?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,0 +1,85 @@
+{
+ "code": "SB-487",
+ "name_official": "Công ty TNHH Công Nghệ Quang Lâm（Quang Lam Technology，胡志明市）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（quanglam.com.vn / wintop.com.vn，快照 2026-10-21，越南语）",
+ "summary": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "AOA",
+  "MikroTik",
+  "Wintop（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光设备分销；自产跳线 / ODF；分销 SFP/SFP+/XFP/GBIC/QSFP、GPON OLT/ONU、施工工具；关键词 sfp 262 / poe 170 / switch 144 / industrial 33",
+   "quote": "Phân phối Thiết bị quang. Sản xuất Dây nhảy, dây nối quang, Hộp ODF. Phân phối Module quang SFP, SFP+, XFP, GBIC, QSFP,...Thiết bị GPON OLT, ONU",
+   "url": "https://quanglam.com.vn/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业交换机；AOA 的工业 FS 比较多，有自己的 logo MC VC FS 周边产品",
+   "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hồ Lâm (Ho Lam)",
+   "title": "CEO",
+   "email": "lamho@quanglam.com.vn",
+   "phone": "+84 908 505 685",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "Công ty TNHH Công Nghệ Quang Lâm",
+  "founded": "（待核）",
+  "hq": "Ho Chi Minh City, Vietnam",
+  "size": "中小型光通信分销 + 自产无源",
+  "other": "自有品牌（wintop.com.vn）"
+ },
+ "business_lines": [
+  "光模块 / GPON / 无源器件分销与自产",
+  "工业 / 商用交换机、MC（AOA 代工贴牌）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Wintop/Quang Lam（AOA 代工）",
+   "model": "工业 FS 系列",
+   "spec": "工业光纤交换机",
+   "saga": "Saga STI-288GP / STI-244GP 同规格替换",
+   "url": "https://quanglam.com.vn/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "分销商 + 自有品牌（OEM 采购）",
+  "region": "越南"
+ },
+ "signals": [
+  "自有 logo 的 MC / FS 线 → OEM 30% 对象",
+  "现供应商 AOA → Marvell 管理型差异化"
+ ],
+ "risks": [
+  "越南低价市场、AOA 价格基准低",
+  "SFP 为其主业（Saga 无）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。"
+ },
+ "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?"
+}

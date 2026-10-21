@@ -1,0 +1,68 @@
+{
+ "code": "SB-818",
+ "name_official": "Cybron System Sdn Bhd（马来西亚）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cybron.com.my，快照 2026-10-21）",
+ "summary": "马来西亚 CCTV 公司 Cybron System（camera 119 / cctv 28），Hussen；要 5 电口具体资料，实际需要带光口的工业 PoE；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "CYBRON SYSTEM SDN BHD；关键词 camera 119 / cctv 28",
+   "quote": "Home - CYBRON SYSTEM SDN BHD",
+   "url": "https://cybron.com.my/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "5 电口 需要具体的产品信息；实际需要带光的工业 POE",
+   "quote": "兴趣：5电口 需要具体的产品信息 实际需要带光的工业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hussen",
+   "title": "（表内联系人）",
+   "email": "hussen@cybron.com.my",
+   "phone": "+60 19 386 1632",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Cybron System Sdn Bhd",
+  "founded": "",
+  "hq": "Malaysia",
+  "size": "小型 CCTV 集成",
+  "other": ""
+ },
+ "business_lines": [
+  "CCTV 集成"
+ ],
+ "channels": {
+  "role": "安防集成商",
+  "region": "马来西亚"
+ },
+ "signals": [
+  "明确：带光口的工业 PoE（CCTV 室外）"
+ ],
+ "risks": [
+  "WA 无回复；马来西亚 SIRIM 一般不涉交换机"
+ ],
+ "saga_fit": {
+  "p1": "STI-154GP",
+  "tier": 25,
+  "why": "带光口小型工业 PoE → STI-154GP（1 SFP + 5 口含 4 PoE，$39.2 @25%）；2 光 8 PoE → STI-288GP。"
+ },
+ "email_hook": "Hussen, for camera poles you said you really need fibre uplink + PoE — the 1-SFP + 4-PoE DIN unit is $39 EXW and the 2-SFP + 8-PoE is $60; which fits the pole count?"
+}

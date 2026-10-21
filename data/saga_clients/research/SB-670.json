@@ -1,0 +1,72 @@
+{
+ "code": "SB-670",
+ "name_official": "Technoverse Business Solutions（孟买）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（technoversebs.com，快照 2026-10-21）",
+ "summary": "孟买 IT 硬件与网络产品经销商（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear；switch 37、sfp 16），Suyash Mishra；询盘表来源，无兴趣描述；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "TP-Link",
+  "Aruba",
+  "Juniper",
+  "Netgear"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "IT 与网络产品经销；品牌 Ubiquiti / Cisco / TP-Link / Aruba / Juniper / Netgear；+91 98194 92971",
+   "quote": "Unlock a world of I.T & Networking Products at Technoverse Business Solutions… brands Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear",
+   "url": "https://technoversebs.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Suyash Mishra",
+   "title": "（表内联系人）",
+   "email": "sales@technoversebs.com",
+   "phone": "+91 74001 75292",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Technoverse Business Solutions",
+  "founded": "",
+  "hq": "Mumbai, India",
+  "size": "小型 IT 经销",
+  "other": ""
+ },
+ "business_lines": [
+  "IT 硬件 / 网络产品经销（多品牌）"
+ ],
+ "channels": {
+  "role": "经销商",
+  "region": "印度（孟买）"
+ },
+ "risks": [
+  "品牌经销为主，白牌接受度待验证"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。"
+ },
+ "email_hook": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 2-year warranty); worth a 5-pc trial for SMB CCTV jobs?"
+}

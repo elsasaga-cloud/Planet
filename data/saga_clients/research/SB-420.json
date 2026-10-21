@@ -1,0 +1,80 @@
+{
+ "code": "SB-420",
+ "name_official": "JMP System Co., Ltd.（제이엠피시스템，韩国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（jmpsystem.com，快照 2026-10-21，韩语）",
+ "summary": "韩国无线通信设备 / CCTV / 公共 Wi-Fi 方案商 JMP System（SECON 2023 接触；Hong Soon Jin，Soo Yeon Choi），**52 次跟进**：要 HRUI 全百兆 6 口（4 PoE）×10 台，包装盒印其 logo、换标签，想要比工业级 Realtek 款更便宜（线上商用款太便宜不信任），要简单网管可监控端口；= 小批量贴牌 OEM（30%），但 FE 低价段 Saga 价目仅 HRUI 列表价。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "HRUI"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "无线通信设备、CCTV、公共 Wi-Fi 方案",
+   "quote": "제이엠피시스템은 무선통신장비, CCTV, 공공와이파이 등 다양한 솔루션을 제공하는 국내 대표 기업입니다",
+   "url": "https://jmpsystem.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "洪瑞全百兆 6 口 4 个 POE 10 个；包装盒印 logo、换标签；比工业级 Realtek 更便宜；要简单网管可监控",
+   "quote": "兴趣：洪瑞全百兆6口 4个POE 10个;包装盒要印他们的logo，换掉标签，想要比工业级realtek那个更便宜点的… 提到了想要简单的网管，可以监控到",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hong Soon Jin",
+   "title": "（负责人）",
+   "email": "cs@jmpsystem.com",
+   "phone": "+82 10 2965 8868",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Soo Yeon Choi",
+   "title": "（表内联系人）",
+   "email": "aircess@gmail.com",
+   "phone": "+82 10 5282 8980",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内：小批量贴牌）"
+ },
+ "company_facts": {
+  "legal_name": "JMP System Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "Seoul, Korea（+82 2 415 0020）",
+  "size": "小型方案商",
+  "other": "公共 Wi-Fi / CCTV 项目"
+ },
+ "business_lines": [
+  "无线通信设备 / 公共 Wi-Fi",
+  "CCTV 方案"
+ ],
+ "channels": {
+  "role": "方案商（小批量贴牌）",
+  "region": "韩国"
+ },
+ "signals": [
+  "具体需求：FE 6 口 4 PoE ×10，印 logo 换标 → 可成小单",
+  "要简单网管 → 升级到 HRUI 管理型 / Saga STC-28DGGPM 有机会"
+ ],
+ "risks": [
+  "FE 低价段无 SmartByte 价目（HRUI 列表价 STC-024FP $9.9 级），10 台印 logo 的包装起订量需与 HRUI 核",
+  "韩国 KC 认证"
+ ],
+ "saga_fit": {
+  "p1": "STC-024FP",
+  "tier": 30,
+  "why": "全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。"
+ },
+ "email_hook": "Mr. Hong, for the 10 × 6-port fast-Ethernet PoE units with your logo on the carton — doable at that quantity (label + box print); but the 'simple management to monitor ports' needs the gigabit L2+ model instead. Which matters more for this job, the price point or the monitoring?"
+}

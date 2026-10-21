@@ -1,0 +1,67 @@
+{
+ "code": "SB-1258",
+ "name_official": "TPNET Informática（巴西里约）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tpnet.com.br，快照 2026-10-21，葡语）",
+ "summary": "巴西里约（+55 21）面向 ISP（provedor）的网络设备分销 / 电商（TP-Link；PoE 词频 40、交换机 28），Sanche；询盘表来源，无兴趣描述；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "面向 ISP 的产品方案；TP-Link；sanche@ / timmers@tpnet.com.br",
+   "quote": "conheça nossos produtos, e ache uma solução ideal para seu provedor… brands TP-Link",
+   "url": "https://tpnet.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Sanche",
+   "title": "（表内联系人）",
+   "email": "sanche@tpnet.com.br",
+   "phone": "+55 21 98147 8149",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "TPNET Informática",
+  "founded": "",
+  "hq": "Rio de Janeiro, Brazil",
+  "size": "小型 ISP 设备分销",
+  "other": ""
+ },
+ "business_lines": [
+  "ISP 网络设备分销（交换机、PoE、无线）"
+ ],
+ "channels": {
+  "role": "ISP 渠道分销",
+  "region": "巴西"
+ },
+ "risks": [
+  "巴西 ANATEL / 进口税；TP-Link 价位竞争"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "ISP 渠道 8 PoE + 2 SFP 管理机（Marvell，对位 TP-Link TL-SG3210XHP-M2 以下价位）。"
+ },
+ "email_hook": "Sanche, for your ISP customers — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW and 24-PoE + 4 uplinks at $135; do you import direct or via a Manaus/Santos agent? I'll send the sheet accordingly."
+}

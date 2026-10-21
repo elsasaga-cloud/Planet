@@ -1,0 +1,62 @@
+{
+ "code": "SB-163",
+ "name_official": "Negoh-Op（以色列）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（negoh-op.com，快照 2026-10-21，内容空）",
+ "summary": "以色列 Negoh-Op（CEO Dov Abraham），需求 10G 光模块（Saga 无，Q-32）；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "negoh-op.com 首页无内容",
+   "quote": "status ok, empty",
+   "url": "https://negoh-op.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "10G 光模块",
+   "quote": "兴趣：10G光模块",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dov Abraham",
+   "title": "CEO",
+   "email": "dov@negoh-op.com",
+   "phone": "+972 52 661 4126",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照空页 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Negoh-Op（待核）",
+  "founded": "",
+  "hq": "Israel",
+  "size": "小型",
+  "other": ""
+ },
+ "channels": {
+  "role": "（光通信经销，推断）",
+  "region": "以色列"
+ },
+ "risks": [
+  "需求 10G 模块不在 Saga 线"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "10G 光模块（Q-32）；无主推型。"
+ },
+ "email_hook": "（待 Q-32；不主动发送）"
+}

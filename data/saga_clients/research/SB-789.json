@@ -1,0 +1,71 @@
+{
+ "code": "SB-789",
+ "name_official": "Aptvel Global Technologies（沙特 / 阿联酋）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（aptvelglobal.com，快照 2026-10-21）",
+ "summary": "电气 / 自动化 / IoT 方案商 Aptvel Global（automation 24），联系人 Arunima Raj（+971 50，另一邮箱为 klasseducation.com），表内两份名单：要 **PLANET 48 口交换机**、交谈中问 bypass；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "电气、自动化与 IoT 方案；info@/sales@aptvelglobal.com",
+   "quote": "Aptvel Global specializes in electrical, automation, and IoT solutions to enhance efficiency, security, and sustainability across industries",
+   "url": "https://aptvelglobal.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Planet 48 口交换机；交谈中问了 bypass",
+   "quote": "兴趣：Planet 48口交换机 交谈中问了bypass",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Arunima Raj",
+   "title": "（表内联系人）",
+   "email": "info@aptvelglobal.com",
+   "phone": "+971 50 839 4997",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内：PLANET 对价）"
+ },
+ "company_facts": {
+  "legal_name": "Aptvel Global Technologies（待核）",
+  "founded": "",
+  "hq": "（沙特 / 阿联酋，待核）",
+  "size": "小型方案商",
+  "other": "关联 Klass Education"
+ },
+ "business_lines": [
+  "电气 / 自动化 / IoT 方案"
+ ],
+ "channels": {
+  "role": "方案商 / 集成",
+  "region": "海湾"
+ },
+ "signals": [
+  "明确型号需求：PLANET 48 口（GS-4210-48T4S 级）→ Saga 可直接对价",
+  "问 bypass 工业机"
+ ],
+ "risks": [
+  "WA 无回复；国别待核"
+ ],
+ "saga_fit": {
+  "p1": "STC-448XGGM",
+  "tier": 25,
+  "why": "PLANET 48 口对位 → Saga STC-448XGGM（48 GE + 4×10G SFP+ L2+，$274.7 @25%）；PoE 版 STC-448XGGPM；bypass → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）。"
+ },
+ "email_hook": "Arunima, for the PLANET 48-port requirement — our 48 GE + 4×10G SFP+ L2+ (Marvell) is $275 EXW at 1 pc, PoE version $349; and yes we have a fibre-bypass industrial model. Is the 48-port for a non-PoE core or camera aggregation?"
+}

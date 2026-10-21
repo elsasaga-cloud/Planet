@@ -1,0 +1,62 @@
+{
+ "code": "SB-597",
+ "name_official": "NNC（nnc.net.vn，越南）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 HTTP 错误）",
+ "summary": "越南公司 NNC（业务邮箱 kinhdoanh8@，联系人 Hoa），询盘表来源，无兴趣描述；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "nnc.net.vn HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://nnc.net.vn/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hoa",
+   "title": "Kinh doanh（销售）",
+   "email": "kinhdoanh8@nnc.net.vn",
+   "phone": "+84 946 129 891",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "NNC（待核）",
+  "founded": "",
+  "hq": "Vietnam",
+  "size": "",
+  "other": ""
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "越南"
+ },
+ "risks": [
+  "身份不明；无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型。"
+ },
+ "email_hook": "（低优先）"
+}

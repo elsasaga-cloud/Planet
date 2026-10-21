@@ -320,24 +320,23 @@ SB-059,B,T2,Metalog International DMCC,阿联酋,中东,0,0,1,0,0,0,1,0,0,metalo
 SB-1029,B,T2,jentronics,马来西亚,亚太,0,0,1,0,0,0,0,0,0,,1,1,1,,,
 SB-1098,B,T2,3sti-technologies.com,尼日尔,非洲,0,0,1,0,0,0,0,0,0,3sti-technologies.com,2,1,1,ok,,STC-28DGGPM
 SB-115,B,T2,Vernetzen Pty Ltd,澳大利亚,亚太,0,0,1,0,0,0,0,0,0,vernetzen.com.au,1,1,1,ok,Ubiquiti,STI-288GP
-SB-1258,B,T2,tpnet.com.br,巴西,拉美,0,0,1,0,0,0,0,0,0,tpnet.com.br,1,0,0,ok,TP-Link,STC-424XGGM
-SB-163,B,T2,Negoh-Op,以色列,中东,0,0,1,0,0,0,0,0,0,negoh-op.com,1,0,0,ok,,
-SB-260,B,T2,arcanlibya.com,利比亚,非洲,0,0,1,1,0,0,1,0,0,arcanlibya.com,1,0,0,ok,,
-SB-299,B,T2,Zekko Tech Private Limited,印度,南亚,0,0,1,0,0,1,0,0,0,zekko.co.in,2,0,0,ok,,STI-288GP
-SB-339,B,T2,Leamratech,阿曼,中东,0,0,1,0,0,0,0,0,0,leamratech.com,1,0,0,ok,,STI-280GE
-SB-446,B,T2,HAMDAZTECH TECHNOLOGIES INC LLC,沙特阿拉伯,中东,0,0,1,0,0,0,0,0,0,hamdaz.com,1,0,0,ok,,
-SB-468,B,T2,ittelecom.ir,伊朗,中东,0,0,1,0,0,0,0,1,0,ittelecom.ir,1,0,0,ok,,STC-424XGGM
-SB-487,B,T2,Cong Ty TNHH CONG NGHE QUANG LAM,越南,亚太,0,0,1,0,0,0,0,1,0,wintop.com.vn;quanglam.com.vn,2,0,0,ok,MikroTik,STI-288GP
-SB-597,B,T2,nnc.net.vn,越南,亚太,0,0,1,0,0,0,0,0,0,nnc.net.vn,1,0,0,http_error,,
-SB-602,B,T2,vanphatdat.vn,越南,亚太,0,0,1,0,0,0,0,0,0,vanphatdat.vn,1,0,0,ok,,
-SB-663,B,T2,LMD Hitech India (P) Ltd.,印度,南亚,0,0,1,0,0,0,0,0,0,radiantgroup.org,1,0,0,unreachable,,
-SB-670,B,T2,Technoverse Business Solutions,印度,南亚,0,0,1,0,0,0,0,0,0,technoversebs.com,2,0,0,ok,"Ubiquiti,Cisco,TP-Link,Aruba,Juniper,Netgear,D-Link,Huawei,Fortinet,MikroTik,Rui",STI-288GP
-SB-751,B,T2,Leandro Roisenberg FI,巴西,拉美,0,0,1,0,0,0,0,0,0,lri.com.br,2,0,0,ok,ORing,STI-288GP
-SB-789,B,T2,Aptvel global technologies,沙特阿拉伯,中东,0,0,1,0,0,0,1,0,0,aptvelglobal.com;klasseducation.com,2,0,0,ok,,STI-280GE
-SB-818,B,T2,cybron.com.my,马来西亚,亚太,0,0,1,0,0,0,1,0,0,cybron.com.my,1,0,0,ok,,
-SB-887,B,T2,"VERTEX INVADER, ТОО",俄罗斯,俄语区,0,0,1,0,0,0,1,0,0,,1,0,0,,,
-SB-891,B,T2,baldota.co.in,印度,南亚,0,0,1,0,0,0,0,0,0,baldota.co.in;mspllimited.com,1,0,0,ok,,
-SB-420,B,T2,JMP,韩国,亚太,0,0,0,0,0,0,1,0,52,jmpsys.com;jmpsystem.com,2,0,0,ok,,
+SB-1258,B,T2,tpnet.com.br,巴西,拉美,0,0,1,0,0,0,0,0,0,tpnet.com.br,1,1,1,ok,TP-Link,STC-424XGGM
+SB-163,B,T2,Negoh-Op,以色列,中东,0,0,1,0,0,0,0,0,0,negoh-op.com,1,1,1,ok,,
+SB-260,B,T2,arcanlibya.com,利比亚,非洲,0,0,1,1,0,0,1,0,0,arcanlibya.com,1,1,1,ok,,
+SB-299,B,T2,Zekko Tech Private Limited,印度,南亚,0,0,1,0,0,1,0,0,0,zekko.co.in,2,1,1,ok,,STI-288GP
+SB-339,B,T2,Leamratech,阿曼,中东,0,0,1,0,0,0,0,0,0,leamratech.com,1,1,1,ok,,STI-280GE
+SB-446,B,T2,HAMDAZTECH TECHNOLOGIES INC LLC,沙特阿拉伯,中东,0,0,1,0,0,0,0,0,0,hamdaz.com,1,1,1,ok,,
+SB-487,B,T2,Cong Ty TNHH CONG NGHE QUANG LAM,越南,亚太,0,0,1,0,0,0,0,1,0,wintop.com.vn;quanglam.com.vn,2,1,1,ok,MikroTik,STI-288GP
+SB-597,B,T2,nnc.net.vn,越南,亚太,0,0,1,0,0,0,0,0,0,nnc.net.vn,1,1,1,http_error,,
+SB-602,B,T2,vanphatdat.vn,越南,亚太,0,0,1,0,0,0,0,0,0,vanphatdat.vn,1,1,1,ok,,
+SB-663,B,T2,LMD Hitech India (P) Ltd.,印度,南亚,0,0,1,0,0,0,0,0,0,radiantgroup.org,1,1,1,unreachable,,
+SB-670,B,T2,Technoverse Business Solutions,印度,南亚,0,0,1,0,0,0,0,0,0,technoversebs.com,2,1,1,ok,"Ubiquiti,Cisco,TP-Link,Aruba,Juniper,Netgear,D-Link,Huawei,Fortinet,MikroTik,Rui",STI-288GP
+SB-751,B,T2,Leandro Roisenberg FI,巴西,拉美,0,0,1,0,0,0,0,0,0,lri.com.br,2,1,1,ok,ORing,STI-288GP
+SB-789,B,T2,Aptvel global technologies,沙特阿拉伯,中东,0,0,1,0,0,0,1,0,0,aptvelglobal.com;klasseducation.com,2,1,1,ok,,STI-280GE
+SB-818,B,T2,cybron.com.my,马来西亚,亚太,0,0,1,0,0,0,1,0,0,cybron.com.my,1,1,1,ok,,
+SB-887,B,T2,"VERTEX INVADER, ТОО",哈萨克斯坦,俄语区,0,0,1,0,0,0,1,0,0,,1,1,1,,,
+SB-891,B,T2,baldota.co.in,印度,南亚,0,0,1,0,0,0,0,0,0,baldota.co.in;mspllimited.com,1,1,1,ok,,
+SB-420,B,T2,JMP,韩国,亚太,0,0,0,0,0,0,1,0,52,jmpsys.com;jmpsystem.com,2,1,1,ok,,
 SB-291,B,T2,"INTERCOAX CO.,LTD",韩国,亚太,0,0,0,0,0,0,1,0,44,intercoax.com,3,0,0,ok,,
 SB-666,B,T2,NaSys Inc,韩国,亚太,0,0,0,0,0,0,1,0,35,nasys.kr,1,0,0,ok,,
 SB-274,B,T2,Blackbear TechHive,韩国,亚太,0,0,0,0,0,0,1,1,33,blackbear-ics.com,1,0,0,ok,,STI-288GP

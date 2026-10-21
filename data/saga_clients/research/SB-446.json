@@ -1,0 +1,62 @@
+{
+ "code": "SB-446",
+ "name_official": "Hamdaztech Technologies（沙特 / 印度）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（hamdaz.com，快照 2026-10-21）",
+ "summary": "Hamdaz（站内电话 +91 92077 73300，表内国家沙特；Rea Cabidog），询盘表来源，无兴趣描述；WA 无实质回复；身份与国别待核。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "hello@hamdaz.com；+91 9207773300",
+   "quote": "emails hello@hamdaz.com; phones +91 9207773300",
+   "url": "https://hamdaz.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Rea Cabidog",
+   "title": "（表内联系人）",
+   "email": "rea@hamdaz.com",
+   "phone": "+966 52 864 8341（待核）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Hamdaztech Technologies Inc LLC（待核）",
+  "founded": "",
+  "hq": "（沙特 / 印度，待核）",
+  "size": "小型",
+  "other": ""
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "沙特 / 印度"
+ },
+ "risks": [
+  "身份不明；无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型。"
+ },
+ "email_hook": "（低优先）"
+}

@@ -1,0 +1,69 @@
+{
+ "code": "SB-260",
+ "name_official": "Arcan Libya（的黎波里）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（arcanlibya.com，快照 2026-10-21，内容空）",
+ "summary": "利比亚的黎波里（+218 21）IT / 网络公司 Arcan，GM Ahmed Ezzarrough，2025 伊斯坦布尔 ISAF 展接触：问 8 光 8 电价格、要价格表、要工业级 PoE 管理交换机；WA 无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "arcanlibya.com 首页无内容",
+   "quote": "status ok, empty",
+   "url": "https://arcanlibya.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF 2025：问了 8 光 8 价格，要价格表，要工业级 PoE 管理交换机",
+   "quote": "兴趣：问了8光8价格，要价格表，要工业级POE管理交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmed Ezzarrough",
+   "title": "General Manager",
+   "email": "info@arcanlibya.com",
+   "phone": "+218 91 366 2420",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照空页 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Arcan Libya（待核）",
+  "founded": "",
+  "hq": "Tripoli, Libya（+218 21 712 8108）",
+  "size": "小型",
+  "other": "ISAF 2025 展会线索"
+ },
+ "business_lines": [
+  "网络 / 安防集成（推断）"
+ ],
+ "channels": {
+  "role": "集成 / 经销商",
+  "region": "利比亚"
+ },
+ "signals": [
+  "展会面谈，明确问 8 光 8 电 + 工业管理 PoE 价格"
+ ],
+ "risks": [
+  "利比亚：付款需 T/T 预付或迪拜中转；物流经土耳其 / 马耳他",
+  "WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-488DGGGM",
+  "tier": 25,
+  "why": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。"
+ },
+ "email_hook": "Ahmed, from ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?"
+}

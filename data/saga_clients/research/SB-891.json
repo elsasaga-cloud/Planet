@@ -1,0 +1,69 @@
+{
+ "code": "SB-891",
+ "name_official": "The Baldota Group / MSPL Limited（印度）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（baldota.co.in，快照 2026-10-21）",
+ "summary": "印度 1961 年成立的大型铁矿开采集团（MSPL Limited，兼营风电、气体、海运），P.S. Vijaykumar（mspllimited.com）询盘；终端用户（矿业）项目型需求；WA 无实质回复。规模大但为终端用户，保留 B 低优先。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "1961 年成立，印度领先铁矿开采集团，兼风电等",
+   "quote": "The Baldota Group was established in 1961 and is one of India's leading iron ore mining companies. And various other business areas that includes wind power.",
+   "url": "https://baldota.co.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "询盘统计表来源，无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "P.S. Vijaykumar",
+   "title": "（MSPL，表内联系人）",
+   "email": "ps.vijay@mspllimited.com",
+   "phone": "+91 99160 60959",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：终端用户）"
+ },
+ "company_facts": {
+  "legal_name": "MSPL Limited（Baldota Group）",
+  "founded": "1961",
+  "hq": "Hospet, Karnataka / Mumbai, India",
+  "size": "大型集团（终端用户）",
+  "other": "铁矿 / 风电 / 气体 / 海运"
+ },
+ "business_lines": [
+  "铁矿开采（终端用户）",
+  "风电、工业气体、海运"
+ ],
+ "channels": {
+  "role": "终端用户（矿业项目）",
+  "region": "印度"
+ },
+ "signals": [
+  "矿业现场工业网络需求（项目型）"
+ ],
+ "risks": [
+  "大集团采购流程长、倾向品牌；无需求描述"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。"
+ },
+ "email_hook": "（低优先；若其集成商来询再报）"
+}
