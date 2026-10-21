@@ -1,0 +1,378 @@
+Datasheet
+
+
+
+
+       16-Port Gigabit and 2-Port 2.5G
+       SFP Web Managed PoE Switch
+
+
+
+
+  Product Highlights
+
+  n Support 16*1Gbps PoE ports+2*2.5Gbps SFP ports
+
+  n Comply with IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, and IEEE802.3z standards
+
+  n Ethernet Ports support 10/100/1000Mbps self-adaptive
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n Adopt a storage and forwarding exchange mechanism
+
+  n All ports support line speed switching
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Support QoS data priority
+
+  n Support web management
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+
+    Model                                            HR210P-16T2MS-300
+
+
+                                                     16*1Gbps PoE ports
+    Interface
+                                                     2*2.5Gbps SFP ports
+                                                     IEEE 802.3: Ethernet Media Access Control (MAC) Protocol
+                                                     IEEE 802.3i: 10BASE-T Ethernet
+                                                     IEEE 802.3u: 100BASE-TX Fast Ethernet
+    Port Standard                                    IEEE 802.3ab: 1000BASE-T GigabitEthernet
+                                                     IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber optic)
+                                                     IEEE 802.3x: Flow Control
+
+    Switching Bandwidth                               42Gbps
+
+
+    Packet Forwarding Rate                            31.24Mpps
+
+
+    Packet Buffer                                     8.4Mbit
+
+
+    MAC Address Table                                 16K
+
+
+    Jumbo Frame                                       12Kbytes
+
+
+    VLAN                                             VLAN range 1-4094, maximum active VLAN is 31
+
+
+
+    Transmission Method                              Store and Forward
+
+
+                                                     IEEE802.3af (15.4W)
+    PoE Standard                                     IEEE802.3at (30W)
+
+
+    PoE Port Output Voltage                          DC 44-57V
+
+
+
+    PoE Ports                                        Ports 1-16 PoE power output <30W
+
+
+
+    PoE Power Budget                                  285W
+
+
+                                                      AC 100-240V 50/60Hz
+    Power Supply
+                                                      DC 52V 5.77A
+
+    Mainboard Power Consumption                       10.4W
+
+                                                      Product Dimensions: 440*204*44mm
+                                                      Packaging Dimensions: 500*290*85mm
+    Structure Information
+                                                      Product Net Weight: 2.8KG
+                                                      Product Gross Weight: 3.38KG
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+                                                      Carton Dimensions: 520*445*310mm
+    Packing Information                               Packing Quantity: 5PCS
+                                                      Packing Weight: 18KG
+
+                                                      Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs, Rack-
+    Package Contents
+                                                      mounting kit 1pair
+
+    Fan Quantity                                      0
+
+    Installation                                      Desktop, Rack-mounting
+
+                                                      Port Surge: Common mode 6KV, Differential mode 2KV (Class C)
+    Surge Protection                                  Electrostatic ESD: Air 8KV, Contact 6KV (Class B)
+                                                      Power Supply: Common mode 4KV, Differential mode 2KV (Class C)
+
+    Operating Temperature                             0~40°C
+
+
+    Storage Temperature                               -40~70°C
+
+
+    Operation Humidity                                10%~90%, non condensing
+
+
+    Storage Humidity                                  5%~95%, non condensing
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+
+                                                      Flashing: System startup in progress
+    SYS Green LED
+                                                      On: The system is running normally
+
+
+                                                      Green LED on: 1Gbps Link normal
+                                                      Yellow LED on: 10/100Mbps Link normal
+    Ports 1-16 Green LED
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+
+                                                     On: PoE powered on
+    PoE Yellow LED
+                                                     Off: PoE powered off
+
+                                                      Green LED on: 2.5Gbps Link normal
+                                                      Yellow LED on: 1Gbps Link normal
+    Ports 17-18
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+
+                                                      Off: Indicate that the PoE power usage is less than 90%
+    PoE Max Green LED                                 Flashing(Once per second): Indicate that the PoE power usage of 90% ≤ P ≤ 95%
+                                                      On: Indicate that the PoE power is used at 95%<P<100%
+
+
+    Reset                                            Long press for 6 seconds to restore factory settings
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                   www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+    L2 Function
+
+                                                     Port Switch configuration
+
+                                                     Port Description configuration
+
+                                                     Port Speed configuration
+    Port
+                                                     Port Duplex configuration
+
+                                                     Port Flow Control configuration
+
+                                                     Jumbo Frame
+
+                                                     Static Group
+
+
+                                                     Up to 2 groups
+
+                                                     Up to 4 groups
+    Link Aggregation
+                                                     Max. 4 members per group
+
+                                                     Max. 8 members per group
+
+                                                     LACP
+
+                                                     Boardcast suppression
+
+    Storm Control                                    Unknown Multicast
+
+                                                     Unknown Unicast
+
+    Port Mirroring                                   Support
+
+    Port Isolation                                   Support
+
+    Port Rate-limit                                  Support
+
+    Loopback Detection                               Support
+
+                                                     Access/Trunk/Hybrid
+
+    VLAN                                             VLAN range 1-4094, maximum active VLAN is 31
+
+                                                     Port VLAN
+
+                                                     Dynamic MAC address
+
+    MAC Address                                      Static MAC address
+
+                                                     Address Lookup
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                             www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+                                                     STP/RSTP/MSTP
+    Spanning Tree Protocol
+                                                     Edge Port
+
+                                                     IGMP Snooping
+    Multicast
+                                                     IGMP V1/V2
+
+                                                     Traffic classification, supporting SP and WRR scheduling
+
+                                                     Port Priority
+
+    QoS                                              IP DSCP Priority
+
+                                                     COS Pirority
+
+                                                     Support up to 8 queues per port
+
+    PoE
+
+                                                     PoE used power
+
+                                                     PoE Type/Level/Power/Voltage/Current query
+
+                                                     PoE Switch Configuration
+
+                                                     PoE Watchdog
+    PoE Configuration
+                                                     Enlong Mode
+
+                                                     Force
+
+                                                     PoE power AF/AT adaptation
+
+                                                     PoE Priority
+
+     Services
+
+     Access Protocol                                 HTTP
+
+     Security
+
+                                                     Global
+
+     DHCP Snooping                                   Option 82
+
+                                                     Circuit ID
+
+     Diagnostics
+
+     Port Statistics                                 Support
+
+     Copper Test                                     Support
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+     Equipment Management
+
+     Manager Access                                  HTTP
+
+                                                     Static Address
+
+                                                     DHCP Client
+     Manager IP
+                                                     Manager VLAN
+
+                                                     DNS
+
+     User Management                                 Support
+
+     Firmware Management                             Firmware upgrade
+
+     Configuration Management                        Upload/Backup Configuration
+
+     Save                                            Support
+
+     Restart                                         Support
+
+     Factory Defaults                                Support
+
+    Standard Compliance
+
+     IEEE 802.3x flow control and back pressure
+
+     IEEE 802.3ad port trunk with LACP
+
+     IEEE 802.1D Spanning Tree Protocol
+
+     IEEE 802.1w Rapid Spanning Tree Protocol
+
+     IEEE 802.1s Multiple Spanning Tree Protocol
+
+     IEEE 802.1Q VLAN tagging
+
+     IEEE 802.3af Power over Ethernet
+
+     IEEE 802.3at Power over Ethernet Plus
+
+     RFC 768 UDP
+
+     RFC 791 IP
+
+     RFC 792 ICMP
+
+     RFC 2068 HTTP
+
+     RFC 1112 IGMP v1
+
+     RFC 2236 IGMP v2
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+Datasheet
+
+
+
+
+ Mounting ear diagram (Standard, support to install on the cabinet)
+ Unit of size: mm
+
+
+                                                          Rack mounting ears
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                        www.hruitech.com
+

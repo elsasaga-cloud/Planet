@@ -1,0 +1,671 @@
+                                     Shenzhen Toby Technology Co., Ltd.
+                                                                                   Report No.: TB-FCC168745
+                                                                                   Page:       1 of 22
+
+
+                    FCC Part 15B Test Report
+
+  Report No.               :     TB-FCC168745
+  Applicant                :     ShenZheng HongRui Optical Technology Co., Ltd.
+  Equipment Under Test (EUT)
+  EUT Name                 :     32-Ports 10/100/1000M Managed PoE Switches
+  Model No.                :     HR-AFGM-2444S-400
+  Serial Model No.         :     N/A
+  Brand Name               :     HRUI
+  Receipt Date             :     2019-09-03
+  Test Date                :     2019-09-04 to 2019-10-09
+  Issue Date               :     2019-10-09
+  Standards                :     FCC Part 15:2018 Subpart B (Class A)
+  Conclusions              :     PASS
+                                 In the configuration tested, the EUT complied with the standards specified above
+                                 The EUT technically complies with the FCC requirements
+
+
+
+  Test/Witness Engineer          :
+                                                                 Rebeca
+
+  Engineer Supervisor            :
+                                                                 Ivan Su
+  Engineer Manager               :
+                                                                 Ray Lai
+
+This report details the results of the testing carried out on one sample. The results contained in
+this test report do not relate to other samples of the same product. The manufacturer should
+ensure that all products in series production are in conformity with the product sample detailed in
+the report.
+
+
+
+                                                                                                            TB-RF-074-1.0
+
+      1A/F., Bldg.6, Yusheng Industrial Zone, The National Road No.107 Xixiang Section 467, Xixiang,
+                                           Bao’an, Shenzhen, China
+                                Tel: +86 75526509301     Fax: +86 75526509195
+                                                                                                               Report No.: TB-FCC168745
+                                                                                                               Page:       2 of 22
+
+
+
+
+                                                                 Contents
+
+CONTENTS............................................................................................................................................. 2
+1.  GENERAL INFORMATION ...................................................................................................... 4
+    1.1 Client Information ................................................................................................................. 4
+    1.2 General Description of EUT (Equipment Under Test) ................................................... 4
+    1.3 Block Diagram Showing The Configuration of System Tested..................................... 5
+    1.4 Description of Support Units .............................................................................................. 5
+    1.5 Description of Test Mode .................................................................................................... 5
+    1.6 Test standards ...................................................................................................................... 6
+    1.7 Test Facility ........................................................................................................................... 6
+    1.8 Measurement Uncertainty .................................................................................................. 6
+2.  TEST SUMMARY ....................................................................................................................... 7
+3.  TEST EQUIPMENT USED ....................................................................................................... 7
+4.  LABEL REQUIREMENTS & STATEMENT REQUIREMENTS ......................................... 8
+5.  CONDUCTED EMISSION TEST ............................................................................................. 9
+    5.1 Test Standard and Limit ...................................................................................................... 9
+    5.2 Test Setup ............................................................................................................................. 9
+    5.3 Test Procedure ................................................................................................................... 10
+    5.4 Test Data ............................................................................................................................. 10
+6.  RADIATED EMISSION TEST ................................................................................................ 11
+    6.1 Test Standard and Limit .................................................................................................... 11
+    6.2 Test Setup ........................................................................................................................... 11
+    6.3 Test Procedure ................................................................................................................... 12
+    6.4 Test Data ............................................................................................................................. 12
+7.  PHOTOGRAPHS - CONSTRUCTIONAL DETAILS .......................................................... 13
+8.  PHOTOGRAPHS - TEST SETUP ......................................................................................... 18
+ATTACHMENT A--CONDUCTED EMISSION DATA .................................................................... 19
+ATTACHMENT B--RADIATED EMISSION TEST DATA ............................................................. 21
+
+
+
+
+                                                                                                                                   TB-RF-074-1.0
+                                                      Report No.: TB-FCC168745
+                                                      Page:       3 of 22
+
+
+
+
+                         Revision History
+ Report No.    Version          Description                       Issued Date
+
+TB-FCC168745   Rev.01       Initial issue of report               2019-10-09
+
+
+
+
+                                                                  TB-RF-074-1.0
+                                                                   Report No.: TB-FCC168745
+                                                                   Page:       4 of 22
+
+
+
+
+1. General Information
+1.1 Client Information
+
+    Applicant         : ShenZheng HongRui Optical Technology Co., Ltd.
+    Address           : 2 Floor, B Building, Shuangjinhui Industrial Park, Yonghe Road,
+                        Heping Village, Fuyong Town, Bao'an Dis., Shenzhen, China.
+    Manufacturer      : ShenZheng HongRui Optical Technology Co., Ltd.
+    Address           : 2 Floor, B Building, Shuangjinhui Industrial Park, Yonghe Road,
+                        Heping Village, Fuyong Town, Bao'an Dis., Shenzhen, China.
+
+1.2 General Description of EUT (Equipment Under Test)
+
+    EUT Name          : 32-Ports 10/100/1000M Managed PoE Switches
+    Model(s)          : HR-AFGM-2444S-400
+    Model
+                      : N/A
+    Difference
+    Brand Name        : HRUI
+    Power Supply      : Input: 110-264Vac, 50/60Hz
+                        Output: 52V 7.69A
+    Equipment         :      Class A      Class B
+    Class A Equipment: the Equipment is not intended primarily for use in a residential
+    environment.
+    Class B Equipment: the Equipment is intended primarily for use in a residential
+    environment.
+
+
+
+
+                                                                               TB-RF-074-1.0
+                                                                       Report No.: TB-FCC168745
+                                                                       Page:       5 of 22
+
+
+
+
+1.3 Block Diagram Showing The Configuration of System Tested
+
+      Power Supply                   EUT                    Notebook
+
+
+
+
+    Control Room
+
+
+1.4 Description of Support Units
+
+                                     Equipment Information
+        Name               Model                S/N            Manufacturer          Used “√”
+       Notebook          161301-CN         15987/00203076         Xiaomi                  √
+
+
+1.5 Description of Test Mode
+  To investigate the maximum EMI emission characteristics generates from EUT, the test
+  system was pre-scanning tested base on the consideration of following EUT operation
+  mode or test configuration mode which possible have effect on EMI emission level. Each
+  of these EUT operation mode(s) or test configuration mode(s) mentioned follow was
+  evaluated respectively.
+                                   For Conducted Test
+       Final Test Mode     Description
+       Mode 1              Normal Mode
+
+                                     For Radiated Test
+       Final Test Mode     Description
+       Mode 1              Normal Mode
+
+
+
+
+                                                                                   TB-RF-074-1.0
+                                                                       Report No.: TB-FCC168745
+                                                                       Page:       6 of 22
+
+
+
+
+1.6 Test standards
+
+    The objective is to determine compliance with FCC Part 15, Subpart B, and section 15.107,
+    15.109 rules.
+    Maintenance of compliance is the responsibility of the manufacturer. Any modification of the
+    product, which result in lowering the emission, should be checked to ensure compliance has
+    been maintained.
+
+
+1.7 Test Facility
+
+    The testing report were performed by the Shenzhen Toby Technology Co., Ltd., in their
+    facilities located at 1A/F., Bldg.6, Yusheng Industrial Zone, The National Road No.107
+    Xixiang Section 467, Xixiang, Bao’an, Shenzhen, Guangdong, China. At the time of testing,
+    the following bodies accredited the Laboratory:
+
+    CNAS (L5813)
+    The Laboratory has been accredited by CNAS to ISO/IEC 17025: 2005 General
+    Requirements for the Competence of Testing and Calibration Laboratories for the
+    competence in the field of testing. And the Registration No.: CNAS L5813.
+
+    A2LA Certificate No.: 4750.01
+    The laboratory has been accredited by American Association for Laboratory
+    Accreditation(A2LA) to ISO/IEC 17025：2005 General Requirements for the Competence of
+    Testing and Calibration Laboratories for the technical competence in the field of Electrical
+    Testing. And the A2LA Certificate No.: 4750.01.
+
+    IC Registration No.: (11950A-1)
+    The Laboratory has been registered by Certification and Engineering Bureau of Industry
+    Canada for radio equipment testing. The site registration: Site# 11950A-1.
+
+1.8 Measurement Uncertainty
+    The reported uncertainty of measurement y ± U，where expended uncertainty U is based
+    on a standard uncertainty multiplied by a coverage factor of k=2，providing a level of
+    confidence of approximately 95 %.
+                                                     Expanded               Expanded
+             Test              Parameters
+                                                  Uncertainty (ULab)     Uncertainty (UCispr)
+                              Level Accuracy:
+                                                      ±3.42 dB                ±4.0 dB
+      Conducted Emission       9kHz~150kHz
+                                                      ±3.42 dB                ±3.6 dB
+                             150kHz to 30MHz
+                             Level Accuracy:
+       Radiated Emission                              ±4.20 dB                   N/A
+                             Above 1000MHz
+                              Level Accuracy:
+       Radiated Emission                              ±4.40 dB                ±5.2 dB
+                            30MHz to 1000 MHz
+
+
+                                                                                    TB-RF-074-1.0
+                                                                               Report No.: TB-FCC168745
+                                                                               Page:       7 of 22
+
+
+
+
+2. Test Summary
+  Test Items                           Test Requirement               Test Method           Result
+  Conducted Emission              FCC Part 15:2018 Subpart B          ANSI C63.4               Pass
+  Radiated Emission               FCC Part 15:2018 Subpart B          ANSI C63.4               Pass
+  Note: N/A is an abbreviation for Not Applicable.
+
+
+
+
+3. Test Equipment Used
+ Conducted Emission Test
+ Equipment          Manufacturer           Model No.     Serial No.      Last Cal.       Cal.Due Date
+ EMI Test
+                    Rohde & Schwarz        ESCI          100321          Jul. 13, 2019   Jul. 12, 2020
+ Receiver
+ RF Switching       Compliance Direction
+                                           RSU-A4        34403           Jul. 13, 2019   Jul. 12, 2020
+ Unit               Systems Inc
+ AMN                SCHWARZBECK            NNBL 8226-2   8226-2/164      Jul. 13, 2019   Jul. 12, 2020
+ LISN               Rohde & Schwarz        ENV216        101131          Jul. 13, 2019   Jul. 12, 2020
+
+
+ Radiation Emission Test
+ Equipment          Manufacturer           Model No.     Serial No.      Last Cal.       Cal.Due Date
+ Spectrum
+                    Agilent                E4407B        MY45106456      Jul. 13, 2019   Jul. 12, 2020
+ Analyzer
+ EMI Test
+                    Rohde & Schwarz        ESCI          101165          Jul. 13, 2019   Jul. 12, 2020
+ Receiver
+ Bilog Antenna      ETS-LINDGREN           3142E         00117537        Jan. 27, 2019   Jan. 26, 2020
+ Bilog Antenna      ETS-LINDGREN           3142E         00117542        Jan. 27, 2019   Jan. 26, 2020
+ Horn Antenna       ETS-LINDGREN           3117          00143207        Mar. 03, 2019   Mar. 02, 2020
+ Horn Antenna       ETS-LINDGREN           3117          00143209        Mar. 03, 2019   Mar. 02, 2020
+ Pre-amplifier      HP                     11909A        185903          Mar. 04, 2019   Mar. 03, 2020
+ Pre-amplifier      HP                     8449B         3008A00849      Mar. 03, 2019   Mar. 02, 2020
+ Cable              HUBER+SUHNER           100           SUCOFLEX        Mar. 03, 2019   Mar. 02, 2020
+ Signal Generator   Rohde & Schwarz        SML03         IKW682-054      Mar. 03, 2019   Mar. 02, 2020
+ Positioning
+                    ETS-LINDGREN           2090          N/A             N/A             N/A
+ Controller
+
+
+
+
+                                                                                           TB-RF-074-1.0
+                                                                    Report No.: TB-FCC168745
+                                                                    Page:       8 of 22
+
+
+
+
+4. Label Requirements & Statement Requirements
+
+      Class B Label Requirements
+  Class B digital device subject to certification by the FCC shall carry a warning
+  label which includes the following statement:
+                                      ***WARNING***
+                This device complies with Part 15 of the FCC Rules. Operation is
+              subject to the following two conditions: (1) this device may not cause
+             harmful interference, and (2) this device must accept any interference
+              received, including interference that may cause undesired operation.
+
+
+      Class A Statement Requirements
+  The operator’s manual for a Class A digital device shall contain the following statements
+  or their equivalent:
+
+                                    ***WARNING***
+
+  This equipment has been tested and found to comply with the limits for a Class A
+  digital device, pursuant to part 15 of the FCC Rules. These limits are designed to
+  provide reasonable protection against harmful interference when the equipment is
+  operated in a commercial environment This equipment generates, uses, and can
+  radiate radio frequency energy and, if not installed and uses in accordance with the
+  instruction manual, may cause harmful interference to radio communications Operation
+  of this equipment in a residential area is likely to cause harmful interference in which
+  case the user will be required to correct the interference at his own expense.
+  Notice: The changes or modifications not expressly approved by the party responsible
+  for compliance could void the user's authority to operate the equivalent.
+
+                                          *********
+
+  If the EUT was tested with special shielded cables the operator’s manual for such
+  product shall also contain the following statements or their equivalent:
+  Shielded interface cables and/or AC power cord, if any, must be used in order to
+  comply with the emission limits.
+
+
+
+
+                                                                                TB-RF-074-1.0
+                                                                Report No.: TB-FCC168745
+                                                                Page:       9 of 22
+
+
+
+
+5. Conducted Emission Test
+5.1 Test Standard and Limit
+
+5.1.1 Test Standard
+       FCC Part 15 B: 2018
+5.1.2. Test Limit
+                             Conducted Emission Test Limit (Class A)
+                    Frequency                  Maximum RF Line Voltage (dBV)
+                      (MHz)               Quasi-peak Level           Average Level
+                     0.15~0.50                    79                      66
+                      0.50~30                     73                      60
+
+                           Conducted Emission Test Limit (Class B)
+                    Frequency                  Maximum RF Line Voltage (dBV)
+                      (MHz)                Quasi-peak Level        Average Level
+                     0.15~0.5                  66 ~ 56 *             56 ~ 46 *
+                      0.50~5                      56                     46
+                       5~30                       60                     50
+       *decreasing linearly with logarithm of the frequency
+
+
+
+
+5.2 Test Setup
+
+
+
+
+                            0.15m
+
+
+
+
+                                                                            TB-RF-074-1.0
+                                                                   Report No.: TB-FCC168745
+                                                                   Page:       10 of 22
+
+
+
+
+5.3 Test Procedure
+
+   The EUT was placed 0.15 meters from the horizontal ground plane with EUT being
+   connected to the power mains through a line impedance stabilization network (LISN). All
+   other support equipments powered from additional LISN(s). The LISN provide 50 Ohm/
+   50uH of coupling impedance for the measuring instrument.
+
+   The cables shall be insulated (by up to 15 cm) from the horizontal ground reference plane,
+    and shall be folded back and forth in the center forming a bundle 30 to 40 cm long.
+
+   I/O cables that are not connected to a peripheral shall be bundled in the center. The end of
+   the cable may be terminated, if required, using the correct terminating impedance. The
+   overall length shall not exceed 1 m.
+
+   LISN at least 80 cm from nearest part of EUT chassis.
+
+   The bandwidth of EMI test receiver is set at 9kHz, and the test frequency band is from
+   0.15MHz to 30MHz.
+
+
+5.4 Test Data
+
+   Please refer to the Attachment A.
+
+
+
+
+                                                                                TB-RF-074-1.0
+                                                                          Report No.: TB-FCC168745
+                                                                          Page:       11 of 22
+
+
+
+
+6. Radiated Emission Test
+6.1 Test Standard and Limit
+
+  6.1.1 Test Standard
+        FCC Part 15 B: 2018
+
+  6.1.2 Test Limit
+                              Radiated Emission Test Limit (Class A)
+                      Frequency                                 Field Strengths Limits
+                         MHz                                           dB(V/m)
+                        30 ~ 88                                          49.0
+                        88 ~ 216                                         53.5
+                       216 ~ 960                                         56.4
+                       960 ~ 1000                                        59.5
+                              Radiated Emission Test Limit (Class B)
+                      Frequency                                 Field Strengths Limits
+                         MHz                                           dB(V/m)
+                        30 ~ 88                                          40.0
+                        88 ~ 216                                         43.5
+                       216 ~ 960                                         46.0
+                       960 ~ 1000                                        54.0
+   * The lower limit shall apply at the transition frequency.
+   * The test distance is 3m.
+
+6.2 Test Setup
+
+
+
+
+                                                                                0.15m
+
+
+
+
+                                                                                        TB-RF-074-1.0
+                                                                   Report No.: TB-FCC168745
+                                                                   Page:       12 of 22
+
+
+
+
+6.3 Test Procedure
+
+   The EUT was placed on the top of a rotating table which is 0.15 meters above the ground.
+   EUT is set 3.0 meters away from the receiving antenna that mounted on a antenna tower.
+   The table was rotated 360 degrees to determine the position of the highest radiation, the
+   antenna can be moved up and down between 1.0 meter and 4 meters to find out the
+   maximum emission level. Both horizontal and vertical polarizations of the antenna are set to
+   make the measurement.
+   Measurements shall be made with a quasi-peak measuring receiver in the frequency range
+   30MHz to 1000MHz. If the Peak Mode measured value compliance with and lower than
+   quasi-peak mode Limit, the EUT shall be deemed to meet QP Limits and then no additional
+   QP Mode measurement performed.
+
+
+6.4 Test Data
+
+   Please refer to the Attachment B.
+
+
+
+
+                                                                                TB-RF-074-1.0
+                                                  Report No.: TB-FCC168745
+                                                  Page:       13 of 22
+
+
+
+
+7. Photographs - Constructional Details
+                    Photo 1 Appearance of EUT
+
+
+
+
+                      Photo 2 Appearance of EUT
+
+
+
+
+                                                              TB-RF-074-1.0
+                            Report No.: TB-FCC168745
+                            Page:       14 of 22
+
+
+
+
+Photo 3 Appearance of EUT
+
+
+
+
+ Photo 4 Internal of EUT
+
+
+
+
+                                        TB-RF-074-1.0
+                            Report No.: TB-FCC168745
+                            Page:       15 of 22
+
+
+
+
+Photo 5 Appearance of PCB
+
+
+
+
+Photo 6 Appearance of PCB
+
+
+
+
+                                        TB-RF-074-1.0
+                            Report No.: TB-FCC168745
+                            Page:       16 of 22
+
+
+
+
+Photo 7 Appearance of PCB
+
+
+
+
+Photo 8 Appearance of PCB
+
+
+
+
+                                        TB-RF-074-1.0
+                             Report No.: TB-FCC168745
+                             Page:       17 of 22
+
+
+
+
+Photo 9 Appearance of PCB
+
+
+
+
+Photo 10 Appearance of PCB
+
+
+
+
+                                         TB-RF-074-1.0
+                                                  Report No.: TB-FCC168745
+                                                  Page:       18 of 22
+
+
+
+
+8. Photographs - Test Setup
+                  Conducted Emission Test Setup
+
+
+
+
+                  Radiated Emission Test Setup
+
+
+
+
+                                                              TB-RF-074-1.0
+                                                                  Report No.: TB-FCC168745
+                                                                  Page:       19 of 22
+
+
+
+
+Attachment A--Conducted Emission Data
+     Temperature:     25 ℃                   Relative Humidity:   55%
+     Pressure:        1010 hPa
+     Test Voltage:    AC 120V/60 Hz
+     Terminal:        Line
+     Test Mode:       Mode 1
+     Remark:
+
+
+
+
+     Emission Level= Read Level+ Correct Factor
+
+
+                                                                              TB-RF-074-1.0
+                                                             Report No.: TB-FCC168745
+                                                             Page:       20 of 22
+
+
+
+
+Temperature:     25 ℃                   Relative Humidity:   55%
+Pressure:        1010 hPa
+Test Voltage:    AC 120V/60 Hz
+Terminal:        Neutral
+Test Mode:       Mode 1
+Remark:
+
+
+
+
+Emission Level= Read Level+ Correct Factor
+
+
+
+                                                                         TB-RF-074-1.0
+                                                                     Report No.: TB-FCC168745
+                                                                     Page:       21 of 22
+
+
+
+
+Attachment B--Radiated Emission Test Data
+----Below 1G
+
+        Temperature:     25 ℃                   Relative Humidity:   55%
+        Test Voltage:    AC 120V/60 Hz
+        Ant. Pol.        Horizontal
+        Test Mode:       Mode 1
+        Remark:
+
+
+
+
+        Emission Level= Read Level+ Correct Factor
+
+
+
+
+                                                                                 TB-RF-074-1.0
+                                                             Report No.: TB-FCC168745
+                                                             Page:       22 of 22
+
+
+
+
+Temperature:     25 ℃                   Relative Humidity:   55%
+Test Voltage:    AC 120V/60 Hz
+Ant. Pol.        Vertical
+Test Mode:       Mode 1
+Remark:
+
+
+
+
+Emission Level= Read Level+ Correct Factor
+
+
+
+                            -----END OF REPORT-----
+
+
+
+
+                                                                         TB-RF-074-1.0
+

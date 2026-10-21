@@ -1,0 +1,900 @@
+           Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+ HR-AFM-2422GS
+
+Managed PoE Switch
+
+  WEB MANUAL
+                                                                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+1 Login Web Interface.................................................................................................................... 1
+       1.1 Login Network Management Client.................................................................................... 1
+2 Administrator.............................................................................................................................. 1
+       2.1 System Information.......................................................................................................... 2
+       2.2 Account/Password........................................................................................................... 2
+       2.3 IP Configuration............................................................................................................... 2
+       2.4 SNMP Settings................................................................................................................ 3
+       2.5 NTP Settings................................................................................................................... 3
+       2.6 syslog Settings................................................................................................................ 3
+       2.7 Configuration................................................................................................................... 4
+       2.8 Load Factory Default........................................................................................................ 4
+       2.9 Firmware Update............................................................................................................. 5
+       2.10 Reboot Device............................................................................................................... 5
+3 PoE Configuration.......................................................................................................................5
+       3.1 PoE Settings................................................................................................................... 5
+       3.2 PoE Auto Check...............................................................................................................6
+       3.3 PoE Power Delay............................................................................................................. 7
+       3.4 PoE Scheduling............................................................................................................... 8
+       3.5 PoE Event....................................................................................................................... 9
+4 Basic Configuration.................................................................................................................. 10
+       4.1 Port Link State.............................................................................................................. 10
+       4.2 Port Mirror Function....................................................................................................... 11
+       4.3 Broadcast Storm Protection............................................................................................ 12
+       4.4 Bandwidth Control......................................................................................................... 12
+5 VLAN Configuration.................................................................................................................. 13
+       5.1 VLAN Setting................................................................................................................ 13
+6 QoS Configuration.................................................................................................................... 15
+       6.1 QoS Group Member...................................................................................................... 15
+       6.2 QoS Mode Set.............................................................................................................. 16
+       6.3 QoS Out Queue Aging................................................................................................... 16
+       6.4 QoS Remap.................................................................................................................. 17
+       6.5 Class of Service............................................................................................................ 18
+       6.6 802.1p Base................................................................................................................. 18
+       6.7 DSCP Base.................................................................................................................. 18
+       6.8 TCP/UDP Port Base...................................................................................................... 19
+7 ACL Configuration.................................................................................................................... 19
+       7.1 ACL Profile List..............................................................................................................20
+       7.2 ACL Ctag Settings......................................................................................................... 20
+       7.3 ACL Stag Settings......................................................................................................... 20
+       7.4 ACL VLAN Settings........................................................................................................21
+       7.5 ACL Bandwidth Settings................................................................................................. 21
+       7.6 ACL DSCP Settings....................................................................................................... 22
+8 Security................................................................................................................................... 22
+       8.1 Port-MAC-IP Port Setting............................................................................................... 22
+       8.2 Port-MAC-IP Table......................................................................................................... 23
+       8.3 DHCP Snooping Table................................................................................................... 23
+       8.4 MAC Binding Table........................................................................................................ 24
+9 Advanced Features.................................................................................................................. 24
+       9.1 Spanning Tree Protocol..................................................................................................25
+                                                                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+              9.1.1 STP Global Settings............................................................................................ 25
+              9.1.2 STP Port Settings............................................................................................... 25
+              9.1.3 MST Configuration Identification...........................................................................26
+              9.1.4 STP Instance Settings......................................................................................... 26
+              9.1.5 MSTP Port Information........................................................................................ 26
+       9.2 Trunk & Link Aggregation............................................................................................... 27
+       9.3 IGMP Snooping............................................................................................................. 27
+              9.3.1 IGMP Snooping Settings..................................................................................... 27
+              9.3.2 IGMP Snooping Router Ports Settings.................................................................. 27
+              9.3.3 IGMP Snooping Groups...................................................................................... 28
+       9.3.4 IGMP Snooping Ports................................................................................................. 28
+       9.4 MLD Snooping.............................................................................................................. 29
+              9.4.1 MLD Snooping Settings....................................................................................... 29
+              9.4.2 MLD Snooping Router Ports Settings................................................................... 29
+              9.4.3 MLD Snooping Groups........................................................................................ 29
+              9.4.4 MLD Snooping Ports........................................................................................... 30
+       9.4 DHCP Relay Agent........................................................................................................ 30
+       9.5 Loop Detect................................................................................................................ 31
+       9.6 GVRP...........................................................................................................................32
+       9.7 Neighbor MACID Settings.............................................................................................. 32
+       9.8 Voice VLAN................................................................................................................ 33
+       9.8.1 Voice VLAN State....................................................................................................... 33
+       9.8.2 Voice VLAN Port Setting........................................................................................... 33
+       9.8.3 OUI List..................................................................................................................... 34
+       9.9 LLDP............................................................................................................................34
+       9.9.1 LLDP Global Setting................................................................................................... 34
+       9.9.2 LLDP Port Setting.....................................................................................................35
+10 Monitoring............................................................................................................................. 35
+       10.1 Mib Counter................................................................................................................ 35
+       10.2 Scan MACID Lookup Table........................................................................................... 36
+       10.3 LLDP Remote MIB....................................................................................................... 37
+       10.4 Syslog........................................................................................................................ 37
+       10.5 CPU Resource Utilization............................................................................................. 37
+                                                  Shenzhen Hongrui Optical Technology Co., Ltd.
+
+1 Login Web Interface
+1.1 Login Network Management Client
+
+Users can access the switch through the Web browser, and input the default address of system：
+http://192.168.2.1，press enter button.
+As shown below, input the user name: admin and password: admin. Click (Log in) button, you’ll
+see the switch system information.
+
+
+
+
+Login Interface
+
+
+
+
+2 Administrator
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+2.1 System Information
+
+Users can set the name of the switch, location, contacts.
+Operating Steps:
+
+1.Click the "Administrator > System Information" menu in the navigation bar, enter “System
+Information” interface. As shown in the below figure:
+
+
+
+
+2.2 Account/Password
+
+User can set user’s name and password.
+Operating Steps:
+1.Click the "Administrator > Account/Password" menu in the navigation bar, enter
+“Account/Password” interface. As shown in the below figure:
+
+
+
+
+2.3 IP Configuration
+
+Users can modify the switch management IPV4 and IPV6 address.
+Operating Steps:
+1.Click the "Administrator > IP Configuration > IPv4" menu in the navigation bar, enter “IPv4”
+interface. As shown in the below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2.4 SNMP Settings
+
+Users can modify the SNMP.
+Operating Steps:
+1.Click the " Administrator > SNMP Settings > SNMP View Table " menu in the navigation bar, as
+shown in the below figure:
+
+
+
+
+2.5 NTP Settings
+
+Users can set NTP time, proofreading the switch time.
+Operating Steps:
+1.Click the " Administrator > NTP Settings" menu in the navigation bar, as shown in the below
+figure:
+
+
+
+
+2.6 syslog Settings
+
+Users can set the syslog, to know the switch running.
+Operating Steps:
+1.Click the " Administrator > Syslog Settings" menu in the navigation bar, as shown in the below
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+figure:
+
+
+
+
+2.7 Configuration
+
+Users can do backup and import the configuration file of the switch.
+Operating Steps:
+1.Click the " Administrator > Configuration > Backup " menu in the navigation bar, as shown in
+the below figure:
+
+
+
+
+2.Click the " Administrator > Configuration > Restore " menu in the navigation bar, as shown in
+the below figure:
+
+
+
+
+2.8 Load Factory Default
+
+Users can restore the factory settings
+Operating Steps:
+1.Click the "Administrator > Load Factory Default" menu in the navigation bar, enter “Load
+Factory Default”interface. As shown in the below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2.9 Firmware Update
+
+Users can upgrade the firmware of the switch
+Operating Steps:
+1.Click the "Administrator> Firmware Update" menu in the navigation bar, enter “Firmware
+Update”interface. As shown in the below figure:
+
+
+
+
+2.10 Reboot Device
+
+Users can restart the switch and save the switch configuration
+Operating Interface:
+
+
+
+
+3 PoE Configuration
+3.1 PoE Settings
+
+If the network equipment deployment is flexible and requires wiring in a variety of complex
+environments, the PoE power function of the switch can be used to solve this problem.
+1.Click the "PoE Configuration > PoE Settings" menu in the navigation bar, enter “PoE Settings”
+interface. As shown in the below figure:
+                                                  Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Description of interface:
+Configuration items       Description
+Max available power       Input maximum power output:
+                          Range:0-864 watts.
+State                     The status of the PoE Switch
+Mode                      POE and POE+mode
+Budget                    Maximum power of single port is 36 watts
+2.Fill in the corresponding configuration items;
+3.Click “Apply” to complete the configuration.
+
+
+
+3.2 PoE Auto Check
+
+In practical applications, the users may encounter problems such as PD device crashes,
+temporary failures, etc., such as normal power supply but abnormal data, which are often
+difficult to find out, cost more time and labor costs; In order to solve these problems more
+efficiently and accurately, PoE Auto Check supports automatic monitoring of PD working status
+and flow running status through PING data packets, so as to achieve accurate and effective
+management without manual intervention, shorten the time of fault detection and recovery, and
+improve work efficiency.
+1.Click the "PoE Configuration > PoE Auto Check" menu in the navigation bar, enter “PoE Auto
+Check”interface. As shown in the below figure:
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Global Settings
+Configuration     Description
+items
+Check             Automatic monitoring of PD interval time, default 60
+                  seconds, range 10-600 seconds
+Wake up           PoE port power supply automatic restart delay time, default
+                  10 seconds, range 1-255 seconds
+
+
+Port Settings
+Configuration     Description
+Items
+Port              PoE Port Selection List
+State             enable: enable the corresponding PoE port Auto Check
+                  function.
+                  disable：disable the corresponding PoE port Auto Check
+                  function.
+IP of device to IP address of the PD device connected to the PoE port
+check
+Application       Application configuration
+
+
+
+
+3.3 PoE Power Delay
+
+1.Click the "POE Configuration >PoE Power Delay" menu in the navigation bar, enter “PoE Power
+Delay”interface. As shown in the below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Description of interface:
+Configuration Description
+items
+Delay Mode       Individual choice，enable and disable for optional
+               The default is to enable, PoE delay is valid only when
+               configured in the enabled state
+Delay      Time 0-300s
+(0~300)
+Port No.          Support multiple choice
+2.Fill in the corresponding configuration items;
+3.Click “Apply” to complete the configuration.
+
+
+
+3.4 PoE Scheduling
+
+1.Click the "POE Configuration >PoE Schedule" menu in the navigation bar, enter “ PoE
+Schedule”interface. As shown in the below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Description of interface:
+Configuration Description
+items
+Schedule on Support multiple choice
+Port
+Schedule         Individual choice，enable and disable for optional
+Mode
+
+Schedule          Choose AM/PM
+AM/PM
+Time              The valid time of PoE you can choose
+configuration
+2.Fill in the corresponding configuration items;
+3.Click “Apply” to complete the configuration.
+
+
+
+3.5 PoE Event
+
+1 Click the "POE Configuration > PoE Event" menu in the navigation bar, enter “PoE Event”
+interface. As shown in the below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+4 Basic Configuration
+4.1 Port Link State
+
+Users can check the status of configured port
+1 Click the "Basic Configuration > Port Link State" menu in the navigation bar. As shown in the
+below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Configuration   Description
+items
+Tx/Rx Ability     Enable and disable for optional
+                  , the default is to enable
+Auto-Negotiat Enable and disable for optional
+ion               , the default is to enable
+Speed             Ethernet port support 10Mbits/s、100Mbits/s、1000Mbit/s
+Duplex            The definition of Full-duplex Mode ： Full-duplex Mode and
+                  Half-duplex Mode, the default is full duplex mode
+Pause             The state of flow control can be enabled or disabled, the
+                  default is enable
+Backpressure The state of flow control can be enabled or disabled, the
+                  default is enable
+Address           Enable and disable for optional
+Learning          , the default is to enable
+2.Fill in the corresponding configuration items;
+3.Click “Apply” to complete the configuration.
+
+
+
+4.2 Port Mirror Function
+
+Users can check and configure port mirroring
+1 Click the "Basic Configuration > Port Mirror Function" menu in the navigation bar. As shown in
+the below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+4.3 Broadcast Storm Protection
+
+Users can set the storm suppression of the port
+1 Click the "Basic Configuration > Broadcast Storm Protection " menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+4.4 Bandwidth Control
+
+Users can set port speed limit
+                                                  Shenzhen Hongrui Optical Technology Co., Ltd.
+1 Click the "Basic Configuration > Bandwidth Control" menu in the navigation bar. As shown in
+the below figure:
+
+
+
+
+5 VLAN Configuration
+5.1 VLAN Setting
+
+Configuration environment
+In order to allow the link between Sw1 and Sw2 to support both user communication in VLAN 1
+and user communication in VLAN 2, you need to configure the connection interface to join two
+VLANs                            at                        the                         same
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+time.
+Change VLAN mode
+1 Click the " VLAN configuration > VLAN Mode " menu in the navigation bar. As shown in the
+below figure:
+
+
+
+
+Add vlan2
+2 Click the " VLAN configuration > VLAN Tag-based Entry config " menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+Port 1 set to remove, PVID set to 1, Port 3 configured as VLAN2 by default
+3 Click the " VLAN configuration > VLAN port config " menu in the navigation bar. As shown in the
+below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Port 10 set to vlan1、vlan2 with tag
+4 Click the " VLAN configuration > VLAN Tag-based Entry config " menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+5.Verify configuration results
+Configure PC1 and PC3 on one network segment, such as 192.168.100.0/24. Configure PC2 and
+PC4 on a network segment, such as 192.168.200.0/24.
+PC1 and PC3 can ping each other, but they cannot ping PC2 and PC4. PC2 and PC4 can ping each
+other, but they cannot ping PC1 and PC3.
+
+
+
+
+6 QoS Configuration
+6.1 QoS Group Member
+
+Check and edit port grouping
+                                                  Shenzhen Hongrui Optical Technology Co., Ltd.
+1 Click the " QoS Configuration > QoS Group Member " menu in the navigation bar. As shown in
+the below figure:
+
+
+
+
+6.2 QoS Mode Set
+
+1 Click the " QoS Configuration > QoS Mode Set" menu in the navigation bar. As shown in the
+below figure:
+
+
+
+
+6.3 QoS Out Queue Aging
+
+Check and edit queue configuration
+1 Click the " QoS Configuration > QoS Out Queue Aging" menu in the navigation bar. As shown
+in the below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+6.4 QoS Remap
+
+Check and edit remap
+1 Click the " QoS Configuration > QoS Remap" menu in the navigation bar. As shown in the below
+figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+6.5 Class of Service
+
+Check and edit service level configuration
+1 Click the " QoS Configuration > Class of Service" menu in the navigation bar. As shown in the
+below figure:
+
+
+
+
+6.6 802.1p Base
+
+Check and edit 802.1P configuration
+1 Click the " QoS Configuration > 802.1p Base" menu in the navigation bar. As shown in the
+below figure:
+
+
+
+
+6.7 DSCP Base
+
+Check and edit DSCP configuration
+1 Click the " QoS Configuration > DSCP Base" menu in the navigation bar. As shown in the below
+figure:
+                                                  Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+6.8 TCP/UDP Port Base
+
+Check and edit TCP/UDP configuration
+1 Click the " QoS Configuration > TCP/UDP Port Base" menu in the navigation bar. As shown in
+the below figure:
+
+
+
+
+7 ACL Configuration
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+7.1 ACL Profile List
+
+Check and edit ACL list
+1 Click the " ACL Configuration > ACL Profile List" menu in the navigation bar. As shown in the
+below figure:
+
+
+
+
+7.2 ACL Ctag Settings
+
+Check and edit ACL internal label setting
+1 Click the " ACL Configuration > ACL Ctag Settings" menu in the navigation bar. As shown in the
+below figure:
+
+
+
+
+7.3 ACL Stag Settings
+
+Check and edit ACL external label setting
+1 Click the " ACL Configuration > ACL Stag Settings" menu in the navigation bar. As shown in the
+below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+7.4 ACL VLAN Settings
+
+Check and edit ACL VLAN setting
+1 Click the " ACL Configuration > ACL VLAN Settings" menu in the navigation bar. As shown in
+the below figure:
+
+
+
+
+7.5 ACL Bandwidth Settings
+
+Check and edit ACL speed limit setting
+1 Click the " ACL Configuration > ACL Bandwidth Settings" menu in the navigation bar. As shown
+in the below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+7.6 ACL DSCP Settings
+
+Check and edit ACL DSCP setting
+1 Click the " ACL Configuration > ACL DSCP Settings" menu in the navigation bar. As shown in
+the below figure:
+
+
+
+
+8 Security
+8.1 Port-MAC-IP Port Setting
+
+Check and edit Port-MAC-IP Port, binding global configuration
+1 Click the " Security > Port-MAC-IP Binding > Port-MAC-IP Port Setting " menu in the navigation
+bar. As shown in the below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+8.2 Port-MAC-IP Table
+
+Check and edit Port-MAC-IP, whitelist setting
+1 Click the " Security > Port-MAC-IP Binding > Port-MAC-IP Table" menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+8.3 DHCP Snooping Table
+
+Check and edit DHCP Snooping configuration
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+1 Click the " Security > Port-MAC-IP Binding > DHCP Snooping Entry Setting" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+8.4 MAC Binding Table
+
+MAC address table binding
+1 Click the " Security > MAC Address Binding" menu in the navigation bar. As shown in the below
+figure:
+
+
+
+
+9 Advanced Features
+                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+
+9.1 Spanning Tree Protocol
+
+9.1.1 STP Global Settings
+
+Enable or disable the STP protocol globally
+1 Click the " Advanced Features > Spanning Tree Protocol > STP Global Settings" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.1.2 STP Port Settings
+
+Enable or disable the STP protocol under the port
+1 Click the " Advanced Features > Spanning Tree Protocol > STP Port Settings" menu in the
+navigation bar. As shown in the below figure:
+                                                  Shenzhen Hongrui Optical Technology Co., Ltd.
+9.1.3 MST Configuration Identification
+
+MST domain configuration
+1 Click the " Advanced Features > Spanning Tree Protocol > MST Configuration" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.1.4 STP Instance Settings
+
+CIST instance configuration
+1 Click the " Advanced Features > Spanning Tree Protocol > STP Instance Settings" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.1.5 MSTP Port Information
+
+Check the STP role of the port
+1 Click the " Advanced Features > Spanning Tree Protocol > MSTP Port Information" menu in the
+navigation bar. As shown in the below figure:
+                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.2 Trunk & Link Aggregation
+
+Enable or disable static and dynamic port aggregation
+1 Click the " Advanced Features > Trunk & Link Aggregation" menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+9.3 IGMP Snooping
+
+9.3.1 IGMP Snooping Settings
+
+Enable or disable IGMP-Snooping
+1 Click the " Advanced Features > IGMP Snooping > IGMP Snooping Settings" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.3.2 IGMP Snooping Router Ports Settings
+
+Set routing port
+1 Click the " Advanced Features > IGMP Snooping > IGMP Snooping Router Ports Settings" menu
+in the navigation bar. As shown in the below figure:
+                                             Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.3.3 IGMP Snooping Groups
+
+Establish a static multicast table
+1 Click the " Advanced Features > IGMP Snooping > IGMP Snooping Groups" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.3.4 IGMP Snooping Ports
+
+Check the status of IGMP Snooping under the port
+1 Click the " Advanced Features > IGMP Snooping > IGMP Snooping Ports" menu in the
+navigation bar. As shown in the below figure:
+                                                Shenzhen Hongrui Optical Technology Co., Ltd.
+
+9.4 MLD Snooping
+
+9.4.1 MLD Snooping Settings
+
+Enable or disable MLD Snooping
+1 Click the " Advanced Features > MLD Snooping > MLD Snooping Settings" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.4.2 MLD Snooping Router Ports Settings
+
+Set the static routing port
+1 Click the " Advanced Features > MLD Snooping > MLD Snooping Router Ports Settings" menu
+in the navigation bar. As shown in the below figure:
+
+
+
+
+9.4.3 MLD Snooping Groups
+
+Establish a static multicast table
+1 Click the " Advanced Features > MLD Snooping > MLD Snooping Groups" menu in the
+navigation bar. As shown in the below figure:
+                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.4.4 MLD Snooping Ports
+
+Check the status of MLD Snooping
+1 Click the " Advanced Features > MLD Snooping > MLD Snooping Ports" menu in the navigation
+bar. As shown in the below figure:
+
+
+
+
+9.4 DHCP Relay Agent
+
+Enable DHCP relay globally
+1 Click the " Advanced Features > DHCP RelayAgent" menu in the navigation bar. As shown in
+the below figure:
+                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.5 Loop Detect
+
+Enable loop detection the port
+1 Click the " Advanced Features > Loop Detect" menu in the navigation bar. As shown in the
+below figure:
+                                                Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.6 GVRP
+
+Enable GVRP in global mode
+1 Click the " Advanced Features > GVRP" menu in the navigation bar. As shown in the below
+figure:
+
+
+
+
+9.7 Neighbor MACID Settings
+
+Check the mac address of the IPV6 neighbor
+1 Click the " Advanced Features > Neighbor MACID Settings" menu in the navigation bar. As
+shown in the below figure:
+                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.8 Voice VLAN
+
+9.8.1 Voice VLAN State
+
+Enable voice VLAN globally
+1 Click the " Advanced Features > Voice VLAN Setting> Voice VLAN State" menu in the
+navigation bar. As shown in the below figure:
+
+
+
+
+9.8.2 Voice VLAN Port Setting
+
+Enable Voice VLAN on the port
+1 Click the " Advanced Features > Voice VLAN Setting> Voice VLAN Port Setting" menu in the
+navigation bar. As shown in the below figure:
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.8.3 OUI List
+
+Set the OUI list globally
+1 Click the " Advanced Features > Voice VLAN Setting> OUI List" menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+9.9 LLDP
+
+9.9.1 LLDP Global Setting
+
+Enable or disable LLDP in global mode
+1 Click the " Advanced Features > LLDP> LLDP Global Setting" menu in the navigation bar. As
+shown in the below figure:
+                                                Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+9.9.2 LLDP Port Setting
+
+Enable or disable LLDP on the port
+1 Click the " Advanced Features > LLDP> LLDP Port Setting" menu in the navigation bar. As
+shown in the below figure:
+
+
+
+
+10 Monitoring
+10.1 Mib Counter
+
+Check the traffic statistics on the port
+1 Click the " Monitoring > Mib Counter" menu in the navigation bar. As shown in the below
+figure:
+                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+10.2 Scan MACID Lookup Table
+
+Check the mac address of the port
+1 Click the " Monitoring > Scan MACID Lookup Table" menu in the navigation bar. As shown in
+the below figure:
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+10.3 LLDP Remote MIB
+
+Check the status of LLDP remotes MIB
+1 Click the " Monitoring > LLDP Remote MIB" menu in the navigation bar. As shown in the below
+figure:
+
+
+
+
+10.4 Syslog
+
+Check the syslog of the switch
+1 Click the " Monitoring > Syslog" menu in the navigation bar. As shown in the below figure:
+
+
+
+
+10.5 CPU Resource Utilization
+
+Check the utilization rate of the CPU
+1 Click the " Monitoring > CPU Resource Utilization" menu in the navigation bar. As shown in the
+below figure:
+Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+      Update on 10th April 2019
+

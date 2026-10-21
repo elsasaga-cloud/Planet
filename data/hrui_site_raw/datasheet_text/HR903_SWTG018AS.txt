@@ -1,0 +1,128 @@
+Datasheet
+
+
+
+
+   8-Port 2.5G and 1-Port 10G SFP+
+            Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n 8 *2.5G RJ45 ports+1 *10G SFP+ port
+
+  n Complies with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3z,IEEE
+
+    802.3ae, and IEEE 802.3x standards
+
+  n RJ45 port supports 100M/1G/2.5G adaptive
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Model                                             HR903-SWTG018AS
+
+                                                      8 * 2.5G RJ45 ports
+    Interface                                         1 * 10G SFP+ port
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3ab (Gigabit Ethernet)
+    Port Standard                                     IEEE802.3z (Gigabit Ethernet Fiber Standard)
+                                                      IEEE802.3bz (2.5G Ethernet)
+                                                      IEEE 802.3ae (10G Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+    Bandwidth                                          60Gbps
+
+    Packet Forwarding Rate                             44.64Mpps
+
+    Packet Buffer                                      8Mbit
+
+    MAC Address Table                                  4K
+
+    Transmission Method                               Store and Forward
+
+                                                       AC 100-240V , 50/60Hz
+    Power Supply
+                                                       DC 12V 1A
+
+    Mainboard Power Consumption                        8.75W
+
+                                                       Product Dimensions :160*90*35mm
+
+                                                       Packaging Dimensions : 175*120*73mm
+    Structure Information
+                                                       Product Net Weight: 0.32KG
+
+                                                       Product Gross Weight:0.46KG
+
+                                                       Carton Dimensions :520*335*205mm
+    Packing Information                                Packing Quantity: 20PCS
+
+                                                       Packing Weight: 10.2KG
+
+    Package Contents                                   Switch 1pcs, Power adapter 1pcs, manual 1pcs,certificate of qualification 1pcs
+
+    Fan Quantity                                       0
+
+    Installation                                       Desktop
+
+    Surge Protection
+
+    Operating Temperature                              0~40°C
+
+    Storage Temperature                                -40 °C to 70 °C
+
+    Operation Humidity                                 10%~90%,non condensing
+
+    Storage Humidity                                   5%~95%,non condensing
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                              www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                      Green LED On:2.5G Link normal
+                                                      Yellow LED On:10M/100M/1G Link normal
+    1-8
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+                                                      Blue LED On:10G Link normal
+                                                      Green LED On:2.5G Link normal
+    9
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                               www.hruitech.com
+

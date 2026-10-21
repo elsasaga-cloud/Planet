@@ -1,0 +1,588 @@
+S5600 SERIES SWITCHES
+DATASHEET
+10G Enterprise Switch
+Version: V1.4
+Release Date: 2025/12/31
+
+Product Overview
+The S5600 Series switches are designed with
+two generations of domestic Switch Chips,
+namely the widely favored VastLakes Series
+Chip platform and the high-performance
+PeakNetX Series Chip platform. The S5600
+Series switches have various port options
+and offer rich L2/L3 features, making them
+the perfect choice as aggregation or access
+switches for enterprise, government, specific
+industry networks.
+
+Key features of the S5600 Series Switches
+• POE++ provide max 90W power of ports.
+• Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.
+• MLAG which can build an Active-Active system to improve the reliability of the network
+  links from single board grade to device grade.
+• Implementing Vxlan and BGP protocols to build EVPN applications for data
+  centers scenario.
+• Switch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.
+• Precision Timing Protocol.
+• Rich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.
+
+
+The S5600 Series switches provide various power supply solutions for customers choosing,
+fixed single power supply, fixed redundant power supplies, and redundant hot-swappable
+power supplies (AC and DC are both available). The Fan solutions also have multiple bays
+with Field replaceable fan modules and build in fans. Generally, air flow of S5600 Series is
+front to rear (AFO), and some of models can do customization of rear to front (AFI) airflow.
+
+
+
+
+                                                1
+S5600 SERIES SWITCHES                                                  DataSheet
+
+
+Table 1: Feasible PSU and airflow of S5600 Series Switches
+
+Items               AC      DC     PoE Ports AFO       AFI   Power Input FAN
+
+S5648T-8Z-EI        ◯       ◯      X          ◯        ◯     2          4
+
+S5648T-4X2Z-EI      ◯       ◯      X          ◯        ◯     2          4
+
+S5648T-4X2Z-SI      ◯       X      X          ◯        X     1          4
+
+S5648X-2Z-SI        ◯       X      X          ◯        X     1          4
+
+S5624X-2Z-EI        ◯       ◯      X          ◯        ◯     2          2
+
+S5624X-2Z-SI        ◯       X      X          ◯        X     1          4
+
+S5624X-8N-EI        ◯       ◯      X          ◯        ◯     2          2
+
+S5624T-2Z-EI        ◯       ◯      X          ◯        ◯     2          2
+
+S5624T-2Z-SI        ◯       X      X          ◯        X     1          4
+
+S5624T-8N-EI        ◯       ◯      X          ◯        ◯     2          2
+
+S5624P-2Z-EI        ◯       ◯      24         ◯        X     2          2
+
+S5624P-8N-EI        ◯       ◯      24         ◯        X     2          2
+
+S5612X-16G8N2Q-EI ◯         ◯      X          ◯        ◯     2          2
+
+
+
+
+                                         2
+S5600 SERIES SWITCHES                                                               DataSheet
+
+
+
+ The S5600 Series switches support varied management ways, include console port / in-band
+ network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command
+ Line Interface), web management, Telnet and FTP connection. Support OAM to make
+ management more convenient, and support SSH2.0, SSL, etc. to ensure security of
+ management.
+ Moreover, leveraging its profound technical expertise and in-depth understanding of
+ campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud
+ Management System (DHCS). It enhances network management and maintenance efficiency,
+ reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure
+ and reliable network to better meet user requirements.
+
+
+
+
+                                              2
+S5600 SERIES SWITCHES                                                            DataSheet
+
+
+
+
+ Visual WEB GUI
+ HOS allows you to quickly configure common configuration items using a visual WEB GUI,
+ which lowers the application threshold for users.
+
+
+
+
+                                           3
+S5600 SERIES SWITCHES                                                        DataSheet
+
+
+
+ The S5600 family of Ethernet switches consists of the following models
+ Table 2: Family of the S5600 Series switches
+ Models          Ethernet Ports            Management       PSU 1/PSU 2 Cooling
+                                          Console: RJ45 to               4 x Fan
+                 48 x 100M/1G/2.5G/5G/10G
+                                          RS232             550W /       Modules
+ S5648T-8Z-EI    Base-T,
+                                          Ethernet: 1G Port 550W CRPS    (front-to-back
+                 8 x 100G QSFP 28
+                                          Storage: USB                   airflow)
+                48 x 100M/1G/2.5G/5G/10G Console: RJ45 to                4 x Fan
+                Base-T,                  RS232             350W /        Modules
+ S5648T-4X2Z-EI 4 x 10G SFP+,            Ethernet: 1G Port 350W CRPS     (front-to-back
+                2 x 100G QSFP 28         Storage: USB                    airflow)
+                48 x100M/1G/2.5G/5G/10G Console: RJ45 to
+                                                          Fixed single 4 x fixed fans
+                Base-T,                 RS232
+ S5648T-4X2Z-SI 4 x 10G SFP+,                             power        (front-to-back
+                                        Ethernet: 1G Port
+                                                          supply       airflow)
+                2 x 100G QSFP 28        Storage: USB
+                                           Console: RJ45 to
+                                                             Fixed single 4 x fixed fans
+                 48 x 10G SFP+,            RS232
+ S5648X-2Z-SI                                                power        (front-to-back
+                 2 x 100G QSFP 28          Ethernet: 1G Port
+                                                             supply       airflow)
+                                           Storage: USB
+                                           Console: RJ45 to              2 x Fan
+                 24 x 10G SFP+,            RS232             350W /      Modules
+ S5624X-2Z-EI
+                 2 x 100G QSFP 28          Ethernet: 1G Port 350W CRPS   (front-to-back
+                                           Storage: USB                  airflow)
+                                           Console: RJ45 to
+                                                             Fixed single 4 x fixed fans
+                 24 x 10G SFP+,            RS232
+ S5624X-2Z-SI                                                power        (front-to-back
+                 2 x 100G QSFP 28          Ethernet: 1G Port
+                                                             supply       airflow)
+                                           Storage: USB
+                                           Console: RJ45 to              2 x Fan
+                 24 x 10G SFP+,            RS232             350W /      Modules
+ S5624X-8N-EI
+                 8 x 25G SFP 28            Ethernet: 1G Port 350W CRPS   (front-to-back
+                                           Storage: USB                  airflow)
+                                         Console: RJ45 to                2 x Fan
+                 24 x100M/1G/2.5G/5G/10G
+                                         RS232             350W /        Modules
+ S5624T-2Z-EI    Base-T,
+                                         Ethernet: 1G Port 350W CRPS     (front-to-back
+                 2 x 100G QSFP28
+                                         Storage: USB                    airflow)
+                                         Console: RJ45 to
+                 24 x100M/1G/2.5G/5G/10G                   Fixed single 4 x fixed fans
+                                         RS232
+ S5624T-2Z-SI    Base-T,                                   power        (front-to-back
+                                         Ethernet: 1G Port
+                 2 x 100G QSFP28                           supply       airflow)
+                                         Storage: USB
+
+
+
+
+                                       3
+S5600 SERIES SWITCHES                                                           DataSheet
+
+
+Models         Ethernet Ports               Management          PSU 1/PSU 2 Cooling
+                                      Console: RJ45 to                     2 x Fan
+             24 x 100M/1G/2.5G/5G/10G
+                                      RS232                     350W       Modules
+S5624T-8N-EI Base-T,
+                                      Ethernet: 1G Port         /350W CRPS (front-to-back
+             8 x 25G SFP28
+                                      Storage: USB                         airflow)
+                                        Console: RJ45 to                    2 x Fan
+               24 x 100M/1G/2.5G/5G/10G                         600W /
+                                        RS232                               Modules
+S5624P-2Z-EI   Base-T（PoE++ 90W),                               600W (by
+                                        Ethernet: 1G Port                   (front-to-back
+               2 x 100G QSFP 28                                 default)
+                                        Storage: USB                        airflow)
+                                      Console: RJ45 to                      2 x Fan
+             24 x 100M/1G/2.5G/5G/10G                           600W /
+                                      RS232                                 Modules
+S5624P-8N-EI Base-T (PoE++ 90W),                                600W (by
+                                      Ethernet: 1G Port                     (front-to-back
+             8 x 25G SFP 28                                     default)
+                                      Storage: USB                          airflow)
+               12 x 10G SFP+,
+                                            Console: RJ45 to              2 x Fan
+               8 x 1G Base-T,
+S5612X-                                     RS232               350W /    Modules
+               8 x 1G SFP,
+16G8N2Q-EI                                  Ethernet: 1G Port   350W CRPS (front-to-back
+               8 x 25G SFP28,
+                                            Storage: USB                  airflow)
+               2 x 40G QSFP+
+
+
+
+
+                                        4
+S5600 SERIES SWITCHES                                                        DataSheet
+
+
+S5600 Physical Specifications
+Packet Switch capacity (Gbps)                  Weight (Net weight/Gross weight)
+• S5648T-8Z-EI: 2560Gbps (bidirectional)       • S5648T-8Z-EI: 7.2kg/10.3kg
+• S5648T-4X2Z-EI: 1440Gbps (bidirectional)     • S5648T-4X2Z-EI: TBD
+• S5648T-4X2Z-SI: 1440Gbps (bidirectional)     • S5648T-4X2Z-SI: TBD
+• S5648X-2Z-SI: 1360Gbps (bidirectional)       • S5648X-2Z-SI: 4.03kg/6.5kg
+• S5624X-2Z-EI: 880Gbps (bidirectional)        • S5624X-2Z-EI: 5kg/9kg
+• S5624X-2Z-SI: 880Gbps (bidirectional)        • S5624X-2Z-SI: 5kg/8.5kg
+• S5624X-8N-EI: 880Gbps(bidirectional)         • S5624X-8N-EI: 5kg/8.5kg
+• S5624T-2Z-EI: 880Gbps (bidirectional)        • S5624T-2Z-EI: 5kg/9kg
+• S5624T-2Z-SI: 880Gbps (bidirectional)        • S5624T-2Z-SI: 6.96kg/10kg
+• S5624T-8N-EI: 880Gbps (bidirectional)        • S5624T-8N-EI: 6.96kg/10kg
+• S5624P-2Z-EI: 880Gbps (bidirectional)        • S5624P-2Z-EI: 6.96kg/8.8kg
+• S5624P-8N-EI: 880Gbps (bidirectional)        • S5624P-8N-EI: 6.96kg/10kg
+• S5612X-16G8N2Q-EI: 832Gbps (bidirectional)   • S5612X-16G8N2Q-EI: 6.96kg/9kg
+
+
+
+Layer 2/Layer 3 Throughput (Mpps)             Dimensions (W x H x D) without package
+• S5648T-8Z-EI: 3809.28Mpps (bidirectional)   • S5648T-8Z-EI: 44.2×4.4×42cm
+• S5648T-4X2Z-EI: 2142.72Mpps (bidirectional) • S5648T-4X2Z-EI: 44.2×4.4×38cm
+• S5648T-4X2Z-SI: 2142.72Mpps (bidirectional) • S5648T-4X2Z-SI: 44.2×4.4×37.1cm
+• S5648X-2Z-SI: 2023.68Mpps (bidirectional)   • S5648X-2Z-SI: 44.2×4.4×29cm
+• S5624X-2Z-EI: 1309.44Mpps (bidirectional)   • S5624X-2Z-EI: 44.2×4.4×35.7cm
+• S5624X-2Z-SI: 1309.44Mpps (bidirectional)   • S5624X-2Z-SI: 44.2×4.4×29cm
+• S5624X-8N-EI: 1309.44Mpps (bidirectional)   • S5624X-8N-EI: 44.2×4.4×35.7cm
+• S5624T-2Z-EI: 1309.44Mpps (bidirectional)   • S5624T-2Z-EI: 44.2×4.4×35.7cm
+• S5624T-2Z-SI: 1309.44Mpps (bidirectional)   • S5624T-2Z-SI: 44.2×4.4×29.1cm
+• S5624T-8N-EI: 1309.44Mpps (bidirectional)   • S5624T-8N-EI: 44.2×4.4×35.6cm
+• S5624P-2Z-EI: 1309.44Mpps (bidirectional)   • S5624P-2Z-EI: 44.2×4.4×35.5cm
+• S5624P-8N-EI: 1309.44Mpps (bidirectional)   • S5624P-8N-EI: 44.2×4.4×35.6cm
+• S5612X-16G8N2Q-EI: 1238Mpps (bidirectional) • S5612X-16G8N2Q-EI: 44.2×4.4×35.7cm
+
+
+
+
+                                          6
+S5600 SERIES SWITCHES                                                          DataSheet
+
+Dimensions (W x H x D) with package       Power consumption
+• S5648T-8Z-EI: 66.5×15×56.5cm            Worst case, all ports used, line-rate traffic
+• S5648T-4X2Z-EI: 55.7×15×49.5cm          • S5648T-8Z-EI: 260W
+• S5648T-4X2Z-SI: 55.7×15×49.5cm          • S5648T-4X2Z-EI: TBD
+• S5648X-2Z-SI: 55.7×15×49.5cm            • S5648T-4X2Z-SI: TBD
+• S5624X-2Z-EI: 55.7×15×49.5cm            • S5648X-2Z-SI: TBD
+• S5624X-2Z-SI: 55.7×15×49.5cm            • S5624X-2Z-EI: 64W
+• S5624X-8N-EI: 55.7×15×49.5cm            • S5624X-2Z-SI: 55W
+• S5624T-2Z-EI: 55.7×15×49.5cm            • S5624X-8N-EI: 76W
+• S5624T-2Z-SI: 55.7×15×49.5cm            • S5624T-2Z-EI: 106W
+• S5624T-8N-EI: 55.7×15×49.5cm            • S5624T-2Z-SI: 112W
+• S5624P-2Z-EI: 55.7×15×49.5cm            • S5624T-8N-EI: TBD
+• S5624P-8N-EI: 55.7×15×49.5cm            • S5624P-2Z-EI: 112W
+• S5612X-16G8N2Q-EI: 55.7×15×49.5cm       • S5624P-8N-EI: 116W
+                                          • S5612X-16G8N2Q-EI: 72W
+
+
+Operating altitude                        Typical power consumption
+• S5648T-8Z-EI: 0~5km                     • S5648T-8Z-EI: 257W
+• S5648T-4X2Z-EI: 0~5km                   • S5648T-4X2Z-EI: TBD
+• S5648T-4X2Z-SI: 0~3km                   • S5648T-4X2Z-SI: TBD
+• S5648X-2Z-SI: 0~3km                     • S5648X-2Z-SI: TBD
+• S5624X-2Z-EI: 0~5km                     • S5624X-2Z-EI: TBD
+• S5624X-2Z-SI: 0~3km                     • S5624X-2Z-SI: TBD
+• S5624X-8N-EI: 0~5km                     • S5624X-8N-EI: 74W
+• S5624T-2Z-EI: 0~5km                     • S5624T-2Z-EI: 73W
+• S5624T-2Z-SI: 0~3km                     • S5624T-2Z-SI: 94W
+• S5624T-8N-EI: 0~5km                     • S5624T-8N-EI: TBD
+• S5624P-2Z-EI: 0~5km                     • S5624P-2Z-EI: 106W
+• S5624P-8N-EI: 0~5km                     • S5624P-8N-EI: 65W
+• S5612X-16G8N2Q-EI: 0~5km                • S5612X-16G8N2Q-EI: 49W
+
+
+ Temperature alarm                        PoE Power Budget
+ • Alarm threshold: 50ºC                  • S5624P-2Z-EI: 1000W
+                                          • S5624P-8N-EI: 1000W
+
+
+
+
+                                      7
+S5600 SERIES SWITCHES                                                          DataSheet
+
+Memory                                          Cooling [CFM]-Total Maximum airflow
+• eMMc: 8GB on all models                       • S5648T-8Z-EI：120.84cfm
+• DRAM: 2GB on all models                       • S5648T-4X2Z-EI：105.32cfm
+                                                • S5648T-4X2Z-SI：157.98cfm
+CPU                                             • S5648X-2Z-SI：46.48cfm
+  VastLake Platform                             • S5624X-2Z-EI：68.76cfm
+• Dual-core processor, ARM A53(1.2GHz)          • S5624X-2Z-SI：46.48cfm
+  on following models                           • S5624X-8N-EI：68.76cfm
+  S5648T-4X2Z-EI                                • S5624T-2Z-EI：68.76cfm
+  S5648T-4X2Z-SI                                • S5624T-2Z-SI：46.48cfm
+  S5648X-2Z-SI                                  • S5624T-8N-EI：68.76cfm
+  S5624X-2Z-EI                                  • S5624P-2Z-EI：72.78cfm
+  S5624X-2Z-SI                                  • S5624P-8N-EI：72.78cfm
+  S5624X-8N-EI                                  • S5612X-16G8N2Q-EI：68.76cfm
+  S5624T-2Z-EI
+  S5624T-2Z-SI                                  MTBF
+  S5624T-8N-EI                                  • EI (Swapable PSU and FAN):≥ 90000h
+  S5624P-2Z-EI                                    (~10.3 Years)
+  S5624P-8N-EI                                  • SI (Fixed PSU and FAN): ≥70000h
+  S5612X-16G8N2Q-EI                               (~8.0 Years)
+
+  PeakNetX Platform
+• Dual-core processor, ARM A53(1GHz) on
+  following models
+  PeakNetX Platform
+  S5648T-8Z-EI
+
+
+Environmental ranges
+• Operating temperature: 0ºC to 45ºC
+• Storage temperature: -40ºC to 70ºC
+• Running Humidity: 10% to 90% (No condensation)
+• Store Humidity: 5 to 95% (No condensation)
+
+
+
+
+                                            8
+S5600 SERIES SWITCHES                                                                                     DataSheet
+
+
+S5600 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported by
+the devices are listed in the document ‘HOS Software features’ .
+
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+
+                                         HOS Network Platform
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+      Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+       LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+     Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+                                                                          Operating Systems TCP/IP Stacks
+             Advanced integration Suite
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+
+               CENTEC Switch Chipset             Hardware layer                  CPU Subsystem
+
+                 Cooling SubSystem
+                                                         x                     AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+ All HOHUNET switches use a normalized software platform and image package file
+ Unified software version iteration plan
+ Unified user experience
+
+
+                                                         9
+S5600 SERIES SWITCHES                                                          DataSheet
+
+
+Ordering Information
+S5600 Series Switches
+Item               Description
+
+                   10G Data Center Switch with 48 x 10G Base-T, 8 x 100G QSFP28, 2 x
+S5648T-8Z-EI
+                   power supply modules, 2 x hot-swap fan modules
+
+                   10G Data Center Switch with 48 x 10G Base-T, 4 x 10G SFP+, 2 x 100G
+S5648T-4X2Z-EI
+                   QSFP28, 2 x power supply modules, 4 x hot-swap fan modules
+
+                   10G Enterprise and Campus Network Switch with 48 x 10G Base-T, 4 x
+S5648T-4X2Z-SI
+                   10G SFP+, 2 x 100G QSFP28, Fixed single power supply, 4 x Fixed Fans
+
+                   10G Enterprise and Campus Network Switch with 48 x 10G SFP+, 2 x
+S5648X-2Z-SI
+                   100G QSFP28, Fixed single power supply, 4 x Fixed Fans
+
+                   10G Date Center Switch with 24 x 10G SFP+, 2 x 100G QSFP28, Dual
+S5624X-2Z-EI
+                   power supply modules, 2 x Hot-swap fan modules
+
+                   10G Enterprise and Campus Network Switch with 24 x 10G SFP+, 2 x
+S5624X-2Z-SI
+                   100G QSFP28, Single Fixed power supply, 4 x Fixed Fans
+
+                   10G Data Center Switch with 24 x 10G SFP+, 8 x 25G SFP28, Dual power
+S5624X-8N-EI
+                   supply modules, 2 x hot-swap Fan modules
+
+                   10G Data Center Switch with 24 x 10G Base-T, 2 x 100GQSFP28, Dual
+S5624T-2Z-EI
+                   power supply modules, 2 x hot-swap Fan modules
+
+                   10G Enterprise and Campus Network Switch with 24 x 10G Base-T, 2 x
+S5624T-2Z-SI
+                   100GQSFP28, Fixed single power supply, 4 x Fixed Fans
+                   10G Enterprise and Campus Network Switch with 24 x 10G Base-T, 8 x
+S5624T-8N-EI
+                   25G QSFP28, Dual power supply modules, 2 x hot-swap fan modules
+                   10G Enterprise and Campus Network Switch with 24 x 10G Base-T
+S5624P-2Z-EI       (PoE++90W), 2 x 100G QSFP28, Dual power supply modules, 2 x hot-
+                   swap fan modules
+                   10G Enterprise and Campus Network Switch with 24 x 10G Base-T
+S5624P-8N-EI       (PoE++90W), 8 x 25G QSFP28, Dual power supply modules, 2 x hot-
+                   swap fan modules
+                10G Enterprise and Campus Network Switch with 12 x 10G SFP+, 8 x 1G
+S5612X-16G8N2Q-
+                Base-T, 8 x 1G SFP, 8 x 25G SFP28, 2 x 40G QSFP+, Dual power supply
+EI
+                modules, 2 x Hot-swap fan modules
+
+
+
+
+                                          10
+S5600 SERIES SWITCHES                                                             DataSheet
+
+
+AC/DC Power Supplies use for S5600 Series EI model
+Items               Description
+
+PSU-550-DC-AFO      S5600 Series 550 W DC power supply (front-to-back airflow)
+
+
+PSU-600-AC-AFO      S5600 Series 600 W AC POE power supply (front-to-back airflow)
+
+
+PSU-600-DC-AFO      S5600 Series 600 W DC POE power supply (front-to-back airflow)
+
+
+PSU-900-AC-AFO      S5600 Series 900 W AC POE power supply (front-to-back airflow)
+
+
+PSU-900-DC-AFO      S5600 Series 900 W DC POE power supply (front-to-back airflow)
+
+
+PSU-1200-AC-AFO S5600 Series 1200 W AC POE power supply (front-to-back airflow)
+
+
+PSU-1200-DC-AFO S5600 Series 1200 W DC POE power supply (front-to-back airflow)
+
+
+
+
+Software Licenses
+Items               Description
+
+
+Software License    EB, Basic L3 software features, Preinstalled on SI models
+
+
+Software License    MS, L3 enhance features software license key, Preinstalled on EI models
+
+
+Software License    MA, MPLS features software license key
+
+
+Software License    ST, Stacking feature software license key
+
+
+
+
+                                            12
+S5600 SERIES SWITCHES                                                  DataSheet
+
+
+Accessory of S5600 Series
+                                                                   Console
+                Front    Rear     Rear Rack M4    Power   Ground
+Items                                                              (RS232 to
+                Mounting Mounting Rail      Screw Cord    Cord
+                                                                   RJ45)
+
+S5648T-8Z-EI    2       2        2          12   2        1        1
+
+S5648T-4X2Z-EI 2        2        2          12   2        1        1
+
+S5648T-4X2Z-SI 2        /        /          12   1        1        1
+
+S5648X-2Z-SI    2       /        /          12   1        1        1
+
+S5624X-2Z-EI    2       2        2          12   2        1        1
+
+S5624X-2Z-SI    2       /        /          12   1        1        1
+
+S5624X-8N-EI    2       2        2          12   2        1        1
+
+S5624T-2Z-EI    2       2        2          12   2        1        1
+
+S5624T-2Z-SI    2       /        /          12   1        1        1
+
+S5624T-8N-EI    2       2        2          12   2        1        1
+
+S5624P-2Z-EI    2       2        2          12   2        1        1
+
+S5624P-8N-EI    2       2        2          12   2        1        1
+
+S5612X-
+                2       2        2          12   2        1        1
+16G8N2Q-EI
+
+
+
+
+                                       13
+S5600 SERIES SWITCHES                                                                                DataSheet
+
+
+About HOHUNET:
+
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

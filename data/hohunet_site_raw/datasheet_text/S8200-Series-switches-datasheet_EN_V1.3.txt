@@ -1,0 +1,276 @@
+S8200 SERIES SWITCHES
+DATASHEET
+High Performance Data Center Switch
+Version:V1.4
+Release Date:2026/5/29
+
+
+
+Product Overview
+The S8200 Series switches designed on a
+domestic new generation switch Chip,
+which called PowerLink Series Chip
+platform. With 32*200G QSFP56 high
+speed ports and rich features, these
+switches will perfectly meets the
+requirements of Metro, Enterprise, Data
+Center, and Hyper converged
+infrastructure (HCI) networks.
+
+Key features of the S8200 Switch
+
+l   MPLS technology, with label switching as its core, combines the flexibility of IP networks
+    and the reliability of connection-oriented networks, enabling isolated bearing of multiple
+    services, precise traffic scheduling, and fast fault self-healing while reducing the
+    deployment and operation costs of complex networking, thus adapting to the efficient
+    networking needs of governments, enterprises, operators and other multi-scenarios.
+l   MLAG which can build an Active-Active system to improve the reliability of the network
+    links from single board grade to device grade.
+l   Implementing Vxlan and BGP protocols to build EVPN applications for data centers
+    scenario.
+l   Switch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.
+l   Precision Timing Protocol.
+l   Rich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.
+
+
+
+
+                                                1
+S8232 SWITCH                                                                              DataSheet
+
+
+
+ The S8200 Series switches provide redundant hot-swappable power supplies (AC and DC are
+ both available) and 6 bays with Field replaceable fan modules. Generally, airflow of S8200
+ Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable.
+
+
+ Table 1: Feasible PSU and airflow of S8232
+
+ Items                    AC           DC            AFO        AFI         Power Input FAN
+
+ S8232-2X-EI              ◯            ◯             ◯          ◯           2              5
+
+
+  The S8200 Series switches support varied management ways, include console port / in-band
+  network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI
+  (Command Line Interface), web management, Telnet and FTP connection. Support OAM to
+  make management more convenient, and support SSH2.0, SSL, etc. to ensure security of
+  management.
+  Moreover, leveraging its profound technical expertise and in-depth understanding of
+  campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud
+  Management System (DHCS). It enhances network management and maintenance efficiency,
+  reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure
+  and reliable network to better meet user requirements.
+
+
+
+
+                                                 2
+S8232 SWITCH                                                                     DataSheet
+
+
+
+Visual WEB GUI
+HOS allows you to quickly configure common configuration items using a visual WEB GUI,
+which lowers the application threshold for users.
+
+
+
+
+The S8200 family of Ethernet switches consists of the following models
+Table 2: Family of the S8200 Series switches
+Models          Ethernet Ports         Management          PSU 1/PSU 2     Cooling
+                                  Console: RJ45 to                         5 x Fan
+                32 x 200G QSFP56， RS232                    800W /800W      Modules
+S8232-2X-EI
+                2 x 10G SFP+      Ethernet: 1G Port        CRPS            (front-to-back
+                                  Storage: USB                             airflow)
+
+
+
+
+                                            3
+S8232 SWITCH                                                                          DataSheet
+
+
+
+
+S8232 Physical Specifications
+
+Packet Switch capacity (Tbps)                  Weight (Net weight/Gross weight)
+l S8232-2X-EI: 12.8 Tbps (bidirectional)       l S8232-2X-EI: 9.2kg/11kg
+
+Layer 2/Layer 3 Throughput (BPPS)              Power consumption
+l S8232-2X-EI: 1.82 BPPS                       Worst case, all ports used, line-rate traffic
+                                               l S8232-2X-EI: TBD
+CPU                                            No-load power consumption
+l 4-core processor, ARM A53(1GHz)              l S8232-2X-EI: TBD
+
+Memory                                         Environmental ranges
+l eMMc: 8GB on all models                      l Operating temperature: 0ºC to 45ºC
+l DRAM: 4GB on all models                      l Storage temperature: -40ºC to 70ºC
+                                               l Running Humidity: 10% to 90% (No
+Dimensions (W x H x D) with package              condensation)
+l S8232-2X-EI: 66.5 x 15 x 61cm                l Store Humidity: 5 to 95% (No
+                                                 condensation)
+Dimensions (W x H x D) without package         l Operating altitude:
+l S8232-2X-EI: 44.2 x 4.4 x 47cm                 S8232: 0~5km
+
+Temperature alarm                              MTBF
+l Alarm threshold: 50ºC                        l S8232-2X-EI: ≥90000h (~10.3 Years)
+
+
+Cooling [CFM] - Total maximum airflow
+l S8232-2X-EI: 264.16
+
+
+
+
+                                           4
+S8232 SWITCH                                                                                              DataSheet
+
+
+S8232 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported by
+the devices are listed in the document ‘HOS Software features’ .
+
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                         HOS Network Platform
+
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+      Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+       LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+     Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+
+             Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+                                                 Hardware layer
+
+               CENTEC Switch Chipset                                             CPU Subsystem
+
+                 Cooling SubSystem                                             AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* All HOHUNET switches use a normalized software platform and image package file
+* Unified software version iteration plan
+* Unified user experience
+
+
+                                                         5
+S8232 SWITCH                                                                      DataSheet
+
+
+Ordering Information
+S8232 Switch
+Items                    Description
+
+                         200G Data Center Switch, with 32*200G QSFP56, 2*10G SFP+,
+S8232-2X-EI
+                         Dual power supply modules(C13), 5 hot-swappable fan modules.
+
+
+
+AC Power Supplies use for all models
+Items                    Description
+
+                         S8232 800 W AC power supply (front-to-back airflow)
+PSU-800-AC-AFO
+                         Input: 100–240V AC; Output: 12V DC 106.6A Max
+
+
+
+Software Licenses
+Items                    Description
+
+
+Software License         MS, L3 enhance features software license key, Preinstalled
+
+
+Software License         MA, MPLS features software license key
+
+
+Software License         ST, Stacking feature software license key
+
+
+
+
+Accessory of S8232
+                                                                              Console
+                     Front             Rear
+Items                                               Screw      Power Cord     (RS232 to
+                     Mounting          Mounting
+                                                                              RJ45)
+
+S8232-2X-EI:         2                 2            14         2              1
+
+
+
+
+                                            6
+S8232 SWITCH                                                                                         DataSheet
+
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyrignt 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

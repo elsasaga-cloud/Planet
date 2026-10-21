@@ -1,0 +1,22 @@
+{
+  "probed_at": "2026-10-21T04:10:34Z",
+  "runner_ip": null,
+  "tried": [
+    {
+      "profile": "archiver",
+      "url": "https://hohunet.com/",
+      "status": 200,
+      "final_url": "https://hohunet.com/",
+      "content_type": "text/html; charset=utf-8",
+      "server": "nginx/1.24.0 (Ubuntu)",
+      "cf_ray": null,
+      "cf_mitigated": null,
+      "x_powered_by": "PHP/8.2.13",
+      "via": null,
+      "body_head": "<!doctype html> <html lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\"profile\" href=\"//gmpg.org/xfn/11\"> <style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size: 3000px 1500px }</style> <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home --> <title>Shenzhen Hohunet Technology Co., Ltd - For better networking！</title><link rel=\"preload\" as=\"style\" href=\"https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C400"
+    }
+  ],
+  "mode": "requests",
+  "profile": "archiver",
+  "base": "https://hohunet.com/"
+}

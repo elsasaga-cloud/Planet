@@ -1,0 +1,484 @@
+Datasheet
+
+
+
+
+                         6-Port Gigabit Industrial
+                            Managed Switch
+
+
+
+
+  Product Highlights
+
+  n Support: IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3z / ab, IEEE802.1Q, IEEE802.1p,
+
+    IEEE802.1d/w
+
+  n Support HRUI Cloud Managed
+
+  n Support SNMP v1/v2/v3 Simple Network Management Protocol
+
+  n Support IGMP Snooping, static multicast filtering, and MLD Snooping filtering
+
+  n Support 802.1x port authentication and AAA authentication to enhance network security
+
+  n Support WEB, Telnet, CLI, SSH management
+
+  n IP40 protection level, high-strength housing, DIN35 rail installation
+
+  n Industrial grade 4-level design, operating temperature from -40~75 ° C
+
+  n Support redundant power supply connection and anti reverse connection
+
+
+
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                               www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                      Specification
+
+    Model                                            HR722S-4T2GS
+
+
+
+                                                     4*1Gbps RJ45 ports
+
+    Interface                                        2*1Gbps SFP ports
+
+                                                     1*Console port
+
+
+
+
+                                                     IEEE802.3 (Ethernet)
+                                                     IEEE802.3u (Fast Ethernet)
+                                                     IEEE 802.3ab (Gigabit Ethernet)
+    Port Standard                                    IEEE 802.3z (Gigabit Ethernet Fiber Standard)
+                                                     IEEE802.3x (Flow Control)
+                                                     IEEE 802.1w Rapid Spanning Tree Protocol
+                                                     IEEE 802.1D Spanning Tree Protocol
+
+
+
+
+    Switching Bandwidth                               12Gbps
+
+
+
+    Packet Forwarding Rate                            8.928Mpps
+
+
+
+    Packet Buffer                                     4.1Mbit
+
+
+
+    MAC Address Table                                 8K
+
+
+    Jumbo Frame                                       10Kbytes
+
+
+    VLAN                                              VLAN range 1-4094, maximum active VLAN is 4K
+
+
+    Transmission Method                              Store and Forward
+
+
+                                                      DC12~55V
+    Power Supply
+                                                      Power wiring: 4 PIN industrial terminals (redundant V1+V1-, V2+V2-)
+
+
+
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                                                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+
+    Mainboard Power Consumption                       6.2W
+
+
+                                                      Product Dimensions: 138*108*51mm
+                                                      Packaging Dimensions : 245*190*70mm
+    Structure Information
+                                                      Product Net Weight: 0.81KG
+                                                      Product Gross Weight: 1KG (excluding power supply)
+
+                                                      Carton Dimensions: 520*380*400mm
+    Packing Information                               Packing Quantity: 20PCS
+                                                      Packing Weight: 21KG
+
+    Package Contents                                  Switch 1pcs, Serial cable 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+    Fan Quantity                                      0
+
+    Installation                                      Desktop, Wall mounting installation, Rail installation
+
+                                                      Port Surge: Common mode 6KV, Differential mode 2KV(Class B)
+    Surge Protection
+                                                      Electrostatic ESD: Air 15KV, Contact 8KV(Class B)
+
+    Operating Temperature                             -40~75°C
+
+    Storage Temperature                               -40~85°C
+
+    Operation Humidity                                10%~90%, non condensing
+
+    Storage Humidity                                  5%~95%, non condensing
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+                                                      Flashing: System startup in progress
+    SYS Green LED
+                                                      On: The system is running normally
+
+                                                      Slow Flashing: 10/100/1000Mbps Link normal
+    Ports 1-4 Green LED                               Off: Link blocked
+                                                      Fast Flashing: Data transmitting
+
+                                                     On: 10/100/1000Mbps Link normal
+    Ports G5-G6 Green LED                            Off: Link blocked
+                                                     Flashing: Data transmitting
+
+    Reset                                            Short press to restart, long press for 6 seconds to restore factory settings
+
+
+
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                                                                       www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+    L2+ Function
+                                                     IPv4 VLAN Interface
+    IPv4                                             IPv4 Static Routes
+                                                     ARP
+                                                     IPv6 VLAN Interface
+    IPv6                                             IPv6 Static Routes
+                                                     IPv6 ND
+    L2 Function
+                                                     Port Switch configuration
+                                                     Port Description configuration
+                                                     Port Speed configuration
+                                                     Port Duplex configuration
+    Port
+                                                     Port Flow Control configuration
+                                                     Jumbo Frame
+                                                     EEE
+                                                     Fiber Module(DDM)
+
+                                                     Support load balance policy; Base on MAC and IP-MAC
+
+                                                     Static and Dynamic Group
+    Link Aggregation
+                                                     Up to 8 groups
+
+                                                     Support LACP
+
+                                                     Boardcast suppression
+
+    Storm Control                                    Unknown Multicast
+
+                                                     Unknown Unicast
+
+                                                     One to one monitor
+
+                                                     Many to one monitor
+    Port Mirroring
+                                                     Ingress/Egress/Both
+
+                                                     Up to 4 session groups
+
+                                                     MAC Address Constraints
+
+    Port Security                                    Port Security MAC Address
+
+                                                     Protect/Restrict/Shutdown
+
+    Port Isolation                                   Support
+
+    Port Rate-limit                                  Support
+
+    Loopback Detection                               Support
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                                                    www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+                                                     Access/Trunk/Hybrid
+                                                     VLAN Tunnel (Q-in-Q Tunnel)
+                                                     VLAN range 1-4094, maximum active VLAN is 4K
+                                                     Voice VLAN
+    VLAN
+                                                     MAC VLAN
+                                                     Surveillance VLAN
+                                                     Protocol VLAN
+                                                     GVRP
+                                                     Dynamic MAC address
+    MAC Address                                      Static MAC address
+                                                     Filtering MAC Address
+                                                     STP/RSTP/MSTP
+                                                     BPDU Filter
+    Spanning Tree Protocol
+                                                     BPDU Guard
+                                                     Edge Port
+                                                     LLDP
+    LLDP
+                                                     LLDP MED
+
+                                                     IGMP Snooping
+
+                                                     IGMP V1/V2/V3
+
+                                                     Router Port
+
+                                                      Static IGMP group address
+    Multicast
+                                                      IGMP groups filtering
+
+                                                     Querier
+
+                                                     MLD Snooping
+
+                                                     MVR
+
+                                                     Traffic classification based, Strict priority and WRR
+
+                                                     Port Priority
+
+                                                     802.1P Priority
+
+    QoS                                              IP TOS Priority
+
+                                                     IP DSCP Priority
+
+                                                     Support up to 8 queues per port
+
+                                                     Priority Remarking
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                                                      www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+     Description                                      Specification
+    ERPS                                             Only SFP port
+
+     Services
+
+                                                     DHCP Server
+
+                                                     IP Pool
+
+     DHCP                                            Static Binding
+
+                                                     Option 43
+
+                                                     DHCP Relay
+
+                                                     HTTP
+
+                                                     HTTPS
+
+
+                                                     Telnet
+
+
+                                                     SSHv2
+
+     Access Protocol
+                                                     Manager ACL
+
+
+                                                     Session Timeout
+
+
+                                                     Password Retry Count
+
+
+                                                     Silent Time
+
+
+     Security
+
+
+                                                     RADIUS
+
+
+                                                     TACACS+
+     AAA
+                                                     802.1X
+
+
+                                                     Base on port/MAC/local/WEB
+
+
+                                                     Global/VLAN
+
+
+     DHCP Snooping                                   Option 82
+
+
+                                                     Circuit ID
+
+
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                           www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+     IP Source Guard                                 Support
+
+     Dynamic ARP Inspection                          Support
+     DoS                                             Support
+                                                     MAC ACL
+     ACL                                             IPv4 ACL
+                                                     IPv6 ACL
+     Diagnostics
+                                                     Logging Message
+     Syslog
+                                                     Remote Server
+     Ping                                            Support
+     Traceroute                                      Support
+     Copper Test                                     Support
+     UDLD                                            Support
+     Port Statistics                                 Support
+     Equipment Management
+                                                     Console
+
+                                                     HTTP/HTTPS
+
+
+     Manager Access                                  Telnet
+
+                                                     SSH
+
+                                                     SNMP
+
+                                                     Static Address
+
+                                                     DHCP Client
+
+     Manager IP                                      Support IPv4 and IPv6 address
+
+                                                     Manager VLAN
+
+                                                     DNS
+
+                                                     SNTP
+     Time Synchronization
+                                                     Manual Time
+
+                                                     V1/V2C/V3
+
+                                                     Community
+
+     SNMP                                            V3 User
+
+                                                     Group
+
+                                                     Trap Host
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                              www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+                                                     RFC 1213 MIB-II
+                                                     RFC 1493 Bridge MIB
+                                                     RFC 1643 Ethernet MIB
+     SNMP MIB                                        RFC 2819 RMON MIB (Groups 1, 2, 3 and 9)
+                                                     RFC 2863 Interface MIB
+                                                     LLDP
+                                                     Private MIB
+                                                     Statistics
+                                                     History Configuration
+     RMON
+                                                     Event Configuration
+                                                     Alarm Configuration
+     User Management                                 Support
+     Firmware Management                             Firmware upgrade
+     Configuration Management                        Upload and download
+     Save                                            Support
+     Restart                                         Support
+
+     Factory Defaults                                Support
+
+    Standard Compliance
+
+     IEEE 802.3x flow control and back pressure
+
+     IEEE 802.3ad port trunk with LACP
+
+     IEEE 802.1D Spanning Tree Protocol
+
+     IEEE 802.1w Rapid Spanning Tree Protocol
+
+     IEEE 802.1s Multiple Spanning Tree Protocol
+
+     IEEE 802.1p Class of Service
+
+     IEEE 802.1Q VLAN tagging
+
+     IEEE 802.1x Port Authentication Network Control
+
+     IEEE 802.1ab LLDP
+
+     RFC 768 UDP
+
+     RFC 793 TFTP
+
+     RFC 791 IP
+
+
+
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd                                         www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                      Specification
+     RFC 792 ICMP
+
+     RFC 2068 HTTP
+
+     RFC 1112 IGMP v1
+
+     RFC 2236 IGMP v2
+
+     RFC 3376 IGMP v3
+
+     RFC 2710 MLD v1
+
+     FRC 3810 MLD v2
+
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2025 Shenzhen HongRui Technology Co.,Ltd               www.hruitech.com
+

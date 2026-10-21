@@ -1,0 +1,631 @@
+S3508 SERIES SWITCHES DATASHEET
+
+S3524 Series Switches Datasheet
+
+
+
+
+  S3524-6X: 24 Ports 2.5G L3 Managed Switch, with 24*100/1000M/2.5GBase-T and 6* 10G
+
+SFP+ Uplink Ports, Built-in 96W AC/DC power supply and built-in fan.
+
+  S3524-6X-D: 24 Ports 2.5G L3 Managed Switch, with 24*100/1000M/2.5GBase-T and 6*
+
+10G SFP+ Uplink Ports, Built-in 150W AC/DC dual power supply, built-in fan
+
+  S3524P-6X: 24 Ports 2.5G L3 Managed POE++ Switch, with 24* 100/1000M/2.5GBase-T
+
+(Max90w/port) and 6* 10G SFP+ Uplink Ports, Built-in 450W POE power supply, built-in fan
+
+  S3524PB-6X: 24 Ports 2.5G L3 Managed POE++ Switch, with 24* 100/1000M/2.5GBase-T
+
+(Max90w/port) and 6* 10G SFP+ Uplink Ports, Built-in 880W POE power supply, built-in fan
+
+
+OVERVIEW
+
+S3524 Series routing switches, high-performance Layer 3 Ethernet switch with 2.5G
+
+Multi-Gigabit and 10G SFP+ Ports compact 1U form factor. The HOS delivers robust feature
+
+support，Provide Layer 3 network features.
+
+Built from the ground up with the combination of advanced hardware and software, the
+
+switch provides a Layer 3 routing solution for next generation SMB / Enterprise / Wi-Fi 6 AX
+
+Access/ high speed NAS networks.
+
+Varied Port Types
+
+Support 10M/100M/1G /2.5G /10G ports to meet different network requirements.
+
+Ultra-Long-Distance PoE++
+
+
+                                              -1-
+S3508 SERIES SWITCHES DATASHEET
+
+Optical-electrical synergy, implementing 300 m PoE+ (90W /Port) and 10 Gbit/s access for
+
+Wi-Fi 6 Aps and other PDs. Compatible 802.3af/at/bt standard.
+
+
+
+
+CHARACTERISTICS
+
+  Product Name        S3524-6X        S3524-6X-D        S3524P-6X        S3524PB-6X
+
+                    - 24 *100M/1000M/2.5G BASE-T
+ Ethernet Ports
+                    -6*10G SFP+
+
+                                                       24*AF/AT/BT       24*AF/AT/BT
+ PoE Ports          N/A             N/A
+                                                       90W Max           90W Max
+
+                                                       450W AC to DC     880W AC to DC
+                                     2*150W AC to
+                    96W AC to DC                       power             power
+                                     DC power
+                    power supply,                      supply,110Vac-    supply,110Vac-
+                                     supply,
+ Power Supplies     110Vac-260Vac                      260Vac Input,     260Vac Input,
+                                     110Vac-260Vac
+                    Input, 12Vdc                       400W 54Vdc        800W 54Vdc
+                                     Input, 12Vdc
+                    Output                             Output, 50W       Output, 80W
+                                     Output
+                                                       12Vdc Output.     12Vdc Output.
+
+ Management
+                    1*Console Port (RJ45)
+ Ports
+
+ Fans                     3* Fan            3* Fan          5* Fan            5* Fan
+
+ Airflow            Front to Rear
+
+ Flash Memory       128Mb
+
+ DRAM               4GB
+
+ Switching          240Gbps
+                                            -2-
+S3508 SERIES SWITCHES DATASHEET
+
+ Capacity
+
+ MAC address        32K
+
+ Size               440mmx290mmx43.6mm
+
+ Weight             4.06KG            4.41KG              4.55KG   4.46KG
+
+ Operating
+                    -10℃ to 50℃
+ Temperature
+
+ Storage
+                    -40℃ to 70℃
+ Temperature
+
+ Operating
+                    10% to 90% (Non-condensing)
+ Humidity
+
+ Storage
+                    0 to 95% (Non-condensing)
+ Humidity
+
+ Temperature
+                    55℃
+ Alarm
+
+
+
+
+SOFTWARE FEATURE LIST
+
+            Type                                      Feature
+
+MAC Address Table            32K
+
+Jumbo Frame                  12K
+
+                             802.3x (Full-duplex)   Yes
+
+Flow Control                 Back-Pressure
+                                                    Yes
+                             (Half-duplex)
+
+Spanning Tree                IEEE 802.1D (STP)      Yes
+                                             -3-
+S3508 SERIES SWITCHES DATASHEET
+
+                           IEEE 802.1w (RSTP)     Yes
+
+                           IEEE 802.1s (MSTP)     64 instances
+
+                           Auto Edge Port         Yes
+
+                           BPDU Filtering         Yes
+
+                           Self Loop Detection    Yes
+
+                           IEEE 802.3ad LACP      Yes
+
+                           Static Trunk           Yes
+
+                           Max. Group             64
+Link Aggregation
+                           Max. Ports/Group       8
+
+                           Traffic Load
+                                                  Yes
+                           Balancing
+
+VLAN
+
+                           Static VLAN            4K
+
+                           Port-based             Yes
+
+                           IEEE 802.1Q
+                                                  Yes
+                           Tagged-based
+Voice VLAN
+                           Protocol-based         8 groups
+
+                           MAC-based              1K (shared)
+
+                           OUI Mode
+                                                  16 OUI
+                           (Auto/Manual)
+
+                           OUI Mode
+Surveillance VLAN                                 16 OUI
+                           (Auto/Manual)
+
+QinQ (IEEE 802.1ad)        Basic                  Yes
+
+                                            -4-
+S3508 SERIES SWITCHES DATASHEET
+
+GARP VLAN
+
+Registration Protocol      Yes
+
+(GVRP)
+
+Multicast
+
+                           Multicast Groups         1K
+
+                           Immediate Leave          Yes
+
+                           Static/Forbidden
+                                                    Yes
+                           Router Port
+Common
+                           Static/Forbidden
+                                                    Yes
+                           Forward Port
+
+                           Filtering                128 profiles
+
+                           Throttling               Yes
+
+                           IGMP v1/v2               Yes
+
+IGMP Snooping              IGMP v3 Basic (BISS)     Yes
+
+                           IGMP v2/v3 Querier       Yes
+
+MLD Snooping               MLD v1/v2                Yes
+
+Multicast VLAN
+                                                    Yes
+Registration (MVR)
+
+QoS Features
+
+Priority Queue             8 queues/port
+
+                           WRR                      Yes
+
+Queue Scheduling           WFQ                      Yes
+
+                           Strict Pripority         Yes
+
+                                              -5-
+S3508 SERIES SWITCHES DATASHEET
+
+                            Hybrid(WRR+SP or
+                                                   Yes
+                            WFQ+SP)
+
+                            Port-based             Yes
+
+Class of Service            802.1p                 Yes
+
+                            IP TOS Precedence      Yes
+
+                            IP DSCP                Yes
+
+Trusted QoS                                        Yes
+
+                            Port-based
+Rate Limit                                         Yes
+                            (Ingress/Egress)
+
+Access Control List (ACL)
+
+Access Rules                2048
+
+                            L2/L3/L4               Yes
+
+                            MAC-based
+ACL Type
+                            IPv4-based             512
+
+                            IPv6-based
+
+Security
+
+AAA                         Authentication         Yes
+
+TACACS+                     8
+
+RADIUS                      8
+
+                            IEEE 802.1X            Yes
+
+Authentication              MAC Auth               Yes
+
+Manager                     Web Auth               Yes
+
+                            Guest VLAN             Yes
+
+                                             -6-
+S3508 SERIES SWITCHES DATASHEET
+
+                           Port-based             Yes
+
+                           Host-based             Yes
+
+                           Local Authenticatoin   Yes
+
+                           Multiple User
+                                                  8
+                           Account
+Account Manager
+                           Multi-Level Security   Yes
+
+                           Password Recovery
+                                                  Yes
+                           Procedures
+
+                           Management VLAN        Yes
+Management Access
+                           Management ACL         256
+
+                           SSLv2                  Yes
+
+SSL                        SSLv3                  Yes
+
+                           TLSv1                  Yes
+
+WebUI                      HTTPS                  Yes
+
+CLI                        SSH v1/v2              Yes
+
+Port Security              Dynamic Lock           256
+
+                           Broadcast              Yes
+
+Storm Control              Unknown Multicast      Yes
+
+                           Unknown Unicast        Yes
+
+Spanning Tree              BPDU Guard             Yes
+
+Protected Port (Port
+                           Yes
+Isolation)
+
+Black Hole MAC             Yes
+
+                                           -7-
+S3508 SERIES SWITCHES DATASHEET
+
+CPU Defence Engine                                Yes
+
+DoS Prevention                                    Yes
+
+DHCP Snooping (with
+                                                  Yes
+Option 82)
+
+Dynamic ARP
+                                                  Yes
+Inspection
+
+IP Source Guard                                   256
+
+IP/MAC/Port Binding
+                                                  Yes
+(IMPB)
+
+IPv6
+
+                           Auto Configuration     Yes
+
+                           Static IPv6 Address
+                                                  Yes
+                           and Prefix Length
+
+                           Static IPv6 Default
+                                                  Yes
+                           Gateway
+IPv6 Host
+                           IPv6 Neighbor
+                                                  Yes
+                           Discovery (ND)
+
+                           IPv6 Duplicate
+                                                  Yes
+                           Address Detection
+
+                           ICMPv6                 Yes
+
+                           HTTP/HTTPS             Yes
+
+IPv6 Application           TELNET                 Yes
+
+                           SSH                    Yes
+
+                                            -8-
+S3508 SERIES SWITCHES DATASHEET
+
+                           SNMP                   Yes
+
+                           TFTP                   Yes
+
+                           Syslog                 Yes
+
+                           PING                   Yes
+
+                           DHCPv6                 Yes
+
+Management
+
+                           Console                3 sessions
+CLI
+                           Telnet (RFC854)
+
+                           HTTP                   Yes
+
+WebUI                      v1                     Yes
+
+                           v2c                    Yes
+
+SNMP                       v3                     Yes
+
+                           Firmware
+                                                  Yes
+                           Upgrade/Backup
+
+                           Dual Images            Yes
+
+File Management            Configuration
+                                                  Yes
+                           Download/Backup
+
+                           Multiple
+                                                  Yes
+                           Configurations
+
+                           TFTP (RFC783)          Yes
+
+Upload/Download            HTTP                   Yes
+
+                           UART                   Yes
+
+Time Management            Local                  Yes
+
+                                            -9-
+S3508 SERIES SWITCHES DATASHEET
+
+                           SNTP                      Yes
+
+                           Friendly Port Name
+                                                     Yes
+                           (Port Description)
+Port Management
+                           Error Disabled
+                                                     Yes
+                           Recovery
+
+                           Console                   Yes
+
+Line Management            Telnet (RFC854)           Yes
+
+                           SSH v1/v2                 Yes
+
+                           Client                    Yes
+
+                           DHCP SNOOPING             yes
+
+DHCP                       Server                    yes
+
+                           Relay                     yes
+
+                           option82                  yes
+
+DNS                        Client                    Yes
+
+Software Reset Button      Yes
+
+EEE (802.3az)              Yes
+
+RMON Management            32 entries / type
+
+Discovery
+
+IEEE 802.1AB Link Layer
+
+Discovery Protocol         Yes
+
+(LLDP)
+
+ANSI/TIA-1057 LLDP
+                           Yes
+Media Endpoint
+
+                                            - 10 -
+S3508 SERIES SWITCHES DATASHEET
+
+Discovery (LLDP-MED)
+
+Diagnostics
+
+                           Port-based (Many to
+Mirroring                                           4 sessions
+                           One)
+
+                           Local RAM                Yes
+
+Syslog (RFC3164)           Local Flash              Yes
+
+                           Remote Server            8
+
+                           CPU Utilization          Yes
+
+System Diagnostics         Memory Utilization       Yes
+
+                           Port Utilization         Yes
+
+                           Cable Test               Yes
+Port Diagnostics
+                           Fiber Module Status      Yes
+
+                           Ping Test                Yes
+Network Diagnostics
+                           Traceroute               Yes
+
+UDLD                       Yes
+
+MIB
+
+RFC1213 MIBII (System
+                           Yes
+& Interface groups)
+
+RFC2819 RMON I
+                           Yes
+(1,2,3, & 9 groups)
+
+RFC1215 Generic Traps      Yes
+
+RFC1493 Bridge             Yes
+
+RFC2674 Bridge MIB         Yes
+
+                                           - 11 -
+S3508 SERIES SWITCHES DATASHEET
+
+Extensions
+
+RFC2737 Entity             Yes
+
+RFC3635 Ethernet-Like      Yes
+
+RFC2863 Interface
+                           Yes
+Group
+
+SNMP-Community-MIB Yes
+
+SNMPv3                     Yes
+
+                           POE port config        Yes
+
+                           POE timer              Yes
+
+                           Legacy PD detection    Yes
+POE (S3508P/S3508PB)
+                           max power
+                                                  Yes
+                           management
+
+                           Priority management    Yes
+
+RIP                        v1/v2                  Yes
+
+OSPF                       v1/v2                  Yes
+
+Web GUI language           Chinese / English      Yes
+
+
+
+
+ACCESSORIES
+
+      Product Name                                 Quantity
+
+ Console Cable             1PCS
+
+ Power Cords               1PCS
+
+ Rack Mount Brackets       2PCS
+
+ Bracket Screws            6PCS
+                                         - 12 -
+S3508 SERIES SWITCHES DATASHEET
+
+ Cat5e Cable                  1PCS
+
+ Grounding Cable              1PCS
+
+
+
+
+ORDER INFORMATION
+
+     Product Name                                      Description
+
+                          -    24 Ports 2.5G L3 Managed Switch, with
+
+  S3524-6X                     24*100/1000M/2.5GBase-T and 6* 10G SFP+ Uplink Ports,
+
+                               Built-in 96W AC/DC power supply and built-in fan.
+
+                          -    24 Ports 2.5G L3 Managed Switch, with
+
+  S3524-6X-D                   24*100/1000M/2.5GBase-T and 6* 10G SFP+ Uplink Ports,
+
+                               Built-in 150W AC/DC dual power supply, built-in fan
+
+                          -    24 Ports 2.5G L3 Managed POE++ Switch, with 24*
+
+
+  S3524P-6X                    100/1000M/2.5GBase-T (Max90w/port) and 6* 10G SFP+ Uplink Ports,
+
+
+                               Built-in 450W POE power supply, built-in fan
+
+                          -    24 Ports 2.5G L3 Managed POE++ Switch, with 24*
+
+
+  S3524PB-6X                   100/1000M/2.5GBase-T (Max90w/port) and 6* 10G SFP+ Uplink Ports,
+
+
+                               Built-in 880W POE power supply, built-in fan
+
+
+
+
+                                              - 13 -
+

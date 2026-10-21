@@ -1,0 +1,226 @@
+Datasheet
+
+
+
+
+              2.4G Outdoor 300M Wireless
+                        Bridge
+
+
+
+
+   Product Highlights
+
+
+   n 1*10/100Mbps port
+
+   n Supporting IP65 protection level shell design, easily adapting to various harsh outdoor environments
+
+   n Support Standard PoE remote power supply and DC 12V local power supply
+
+   n Support 802.11n WiFi 300M wireless transmission
+
+   n Paired with high gain antennas, the transmission distance can reach 500m in an open and unobstructed
+
+       environment
+
+   n Support wall mounted and pole mounted installation methods, with simple construction
+
+   n Automatically selects channels to ensure stable signal
+
+   n Compatible with mainstream cameras on the market
+
+   n No configuration required, easy to use
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+    Description                                       Specification
+
+    Model                                             HR-CPE30B-05P
+
+
+    Interface                                         1*10/100Mbps PoE port
+
+
+    Port Standard                                     IEEE802.3 (Ethernet), IEEE802.3u (Fast Ethernet)
+
+
+    Reset                                             Long press for 10 seconds to restore factory settings
+
+
+    DIP Switch                                        Master/Slave mode switch (Left: Master, Right: Slave)
+
+
+    Power Specification                               DC 12V 0.5A
+
+
+    Power Interface                                   DC jack, 5.5mm outer diameter, 2.1mm inner diameter
+
+
+    Power Supply                                      Supports Standard and DC 12V power supply
+
+
+                                                      Built-in dual-polarized 6dBi directional panel antenna (Horizontal angle 70°, vertical
+    Antenna
+                                                      angle 60°)
+
+
+    MIMO                                              2x2 MIMO
+
+
+    Maximum Transmit Power                            20dBm
+
+
+    Maximum Power                                     3W
+
+
+    Frequency Range                                   2.4~2.4835GHz
+
+
+                                                      China: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+    Supported Channels
+                                                      USA: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+
+                                                      IEEE802.11b: DSSS (DQPSK, DBPSK, CCK)
+    Modulation Modes                                  IEEE802.11g: OFDM (BPSK, QPSK, 16-QAM)
+                                                      IEEE802.11n: OFDM (BPSK, QPSK, 16-QAM, 64-QAM)
+
+
+    Transmission Speed                                11b max 11Mbps, 11g max 54Mbps, 11n max 300Mbps
+
+
+                                                      11b: ≤-97±1.5dBm @1Mbps, ≤-87±1.5dBm @11Mbps
+                                                      11g: ≤-92±1.5dBm @6Mbps, ≤-75±1.5dBm @54Mbps
+    Receive Sensitivity
+                                                      11n 20MHz: ≤-91±1.5dBm @MCS0, ≤-72±1.5dBm @MCS7
+                                                      11n 40MHz: ≤-88±1.5dBm @MCS0, ≤-69±1.5dBm @MCS7
+
+                                                      11b: ≥18±1.5dBm @11Mbps
+    Transmit Power                                    11g: ≥17dBm ±1.5dBm @54Mbps
+                                                      11n: ≥15dBm ±1.5dBm @MCS7
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                                www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+    Description                                       Specification
+
+    Transmission Distance                             500 meters
+
+
+    Certification                                     FCC, CE, RoHS
+
+
+    Enclosure Material                                ABS
+
+
+    IP Rating                                         IP65
+
+
+    Pole Mount Diameter                               14~60mm
+
+
+    Installation                                      Pole-mount, wall-mount
+
+
+    Electrostatic Protection                          Contact ±6KV; Air ±10KV
+
+
+    Operating Temperature                             -30~55°C
+
+
+    Storage Temperature                               -40~70°C
+
+
+    Operating Humidity                                 10%~90%, non condensing
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+                                                      Product Dimensions: 140.52*77.39*53.23mm
+                                                      Packaging Dimensions: 145*196*90mm
+    Structure Information
+                                                      Product Net Weight: 0.13KG*2
+                                                      Product Gross Weight: 0.56KG
+                                                      Carton Dimensions: 465*310*425mm
+    Packing Information                               Packing Quantity: 20PCS
+                                                      Packing Weight: 12.2KG
+
+                                                      Device ×2, Manual ×1, Certificate of Inspection ×1, Cable ties ×2, Power adapter ×2,
+    Package Contents
+                                                      Passive PoE injector ×1
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                             www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+    Description                                       Specification
+
+    Operating Mode                                    Bridge Access Point, Bridge Client
+
+    Forwarding Mode                                   Bridge / Routing (NAT)
+
+    Networking Mode                                   Point-to-Point, Point-to-Multipoint
+
+                                                      802.11b/g/n mode, Auto channel selection, On-site channel analysis,
+                                                      Transmit power adjustment
+                                                      Wireless security: WPA/WPA2, WPA-PSK/WPA2-PSK (AES/TKIP)
+    Wireless Settings                                 encryption
+                                                      SSID broadcast/hide, Channel bandwidth selection, AP isolation,
+                                                      WMM
+                                                      Wireless MAC address filtering
+
+    Country code                                      China, USA
+
+    LAN Settings                                      IP address, Subnet mask, Gateway, DNS
+
+                                                      Custom bridge SSID, Interference signal viewer, One-click channel
+    WiFi Bridging
+                                                      optimization
+
+                                                      Enable/disable, Configure independent management SSID, Hide SSID,
+    WiFi Management
+                                                      Management policy (manage master device or device group)
+
+    RF Settings                                       Bandwidth switching, Channel switching, 3-level power adjustment
+
+    Packet Control                                    Multicast packet flow control, Broadcast packet flow control
+
+    Multi-language                                    Chinese / English
+
+    Status Monitoring                                 System status, Bridge status, Interface status
+
+    Access Control                                    MAC-based access control (effective on management WiFi)
+
+    Tools & Management                                Ping test, Tracert, Domain name query
+
+                                                      Reboot, Restore factory settings, Change password, Backup/restore,
+    System Management
+                                                      Firmware upgrade, Time settings, Management IP settings
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                  www.hruitech.com
+Datasheet
+
+
+     Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

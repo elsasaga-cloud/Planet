@@ -1,0 +1,101 @@
+Datasheet
+
+
+
+
+                            90W 10G PoE Injector
+
+
+
+
+  Product Highlights
+
+  n Support 1*10G PoE power supply port+1*10G RJ45 port
+
+  n Comply with IEEE802.3af (15.4W), IEEE802.3at (30W), and IEEE802.3bt (90W)
+
+  n Support AC 100-240V power supply
+
+  n Metal casing, IP20 protection level, operating temperature range of -20~50°C
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                    www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Model                                             HR200-BTTG-N901
+
+                                                       1*10G PoE Port
+    Interface                                          1*10G RJ45 Port
+
+                                                       IEEE802.3 (Ethernet)
+                                                       IEEE802.3u (Fast Ethernet)
+
+    Port Standard                                      IEEE802.3ab (1000Mbps Ethernet)
+                                                       IEEE802.3ae (10G Ethernet)
+                                                       IEEE802.3x (Flow Control)
+
+                                                       15.4 W (IEEE 802.3af)
+    PoE Standard                                       30 W (IEEE 802.3at)
+                                                       90 W (IEEE 802.3bt)
+
+    PoE Port Output Voltage                           DC 44-57V
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 52V 1.92A
+
+    PoE port                                          Port PoE power output<90W
+
+                                                       Product Dimensions: 186*92*41mm
+                                                       Packaging Dimensions: 245*190*60mm
+    Structure Information                              Product Net Weight: 0.47KG
+                                                       Product Gross Weight: 0.71KG
+
+                                                       Carton Dimensions: 520*320*400mm
+    Packing Information                                Packing Quantity: 20PCS
+                                                       Packing Weight: 15.2KG
+
+
+    Package Contents                                   Injector 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+    Certification                                      CE, FCC, RoHS
+
+    Installation                                       Wall Mounting
+
+    Operating Temperature                              -10~50°C
+
+    Storage Temperature                                -40~85°C
+
+
+    Operation Humidity                                 5%~90%, non condensing
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+                                                       On: Powered on
+    PWR
+                                                       Off: Powered off
+
+                                                       Port surge: Differential mode 2KV, Common mode 6KV
+    Surge protection
+                                                       Electrostatic ESD 6KV, Air 8KV
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                     www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

@@ -1,0 +1,392 @@
+S5700 SERIES SWITCHES
+DATASHEET
+10G Enterprise Switch
+Version: V1.5
+Release Date: 2025/12/12
+
+Product Overview
+The S5700 Series switches are designed
+based on new generations of domestic
+Switch Chips platform — BigFlow Series
+Chip platform with outstanding
+performance and cost effeciency, The S5700
+Series switches have various port options
+and offer rich L2/L3 features, making them
+the perfect choice as aggregation or access
+switches for enterprise, government, specific
+industry networks.
+
+
+Key features of the S5700 Series Switches
+• Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.
+• MLAG which can build an Active-Active system to improve the reliability of the network
+  links from single board grade to device grade.
+• Implementing Vxlan and BGP protocols to build EVPN applications for data
+  centers scenario.
+• Switch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.
+• Precision Timing Protocol.
+• Rich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.
+
+The S5700 Series switches provide various power supply solutions for customers choosing,
+fixed single power supply, fixed redundant power supplies, and redundant hot-swappable
+power supplies (AC and DC are both available). The Fan solutions also have multiple bays
+with Field replaceable fan modules and build in fans. Generally, air flow of S5700 Series is
+front to rear (AFO), and some of models can do customization of rear to front (AFI) airflow.
+
+
+
+
+                                                1
+S5700 SERIES SWITCHES                                                               DataSheet
+
+
+Table 1: Feasible PSU and airflow of S5700 Series Switches
+
+Items               AC        DC        AFO       AFI       Power Input         FAN
+
+S5748X-8Z-EI        ◯         ◯         ◯         ◯         2                   4
+
+S5748X-8Z-SI        ◯         X         ◯         X         1                   4
+
+S5732-16N4Z-EI      ◯         ◯         ◯         ◯         2                   4
+
+S5732-16N4Z-SI      ◯         X         ◯         X         1                   4
+
+S5724X-8Z-EI        ◯         ◯         ◯         ◯         2                   4
+
+S5724X-8Z-SI        ◯         X         ◯         X         1                   4
+
+
+The S5700 Series switches support varied management ways, include console port / in-band
+network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command
+Line Interface), web management, Telnet and FTP connection. Support OAM to make
+management more convenient, and support SSH2.0, SSL, etc. to ensure security of
+management.
+Moreover, leveraging its profound technical expertise and in-depth understanding of
+campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud
+Management System (DHCS). It enhances network management and maintenance efficiency,
+reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure
+and reliable network to better meet user requirements.
+
+
+
+
+                                              2
+S5700 SERIES SWITCHES                                                            DataSheet
+
+Visual WEB GUI
+HOS allows you to quickly configure common configuration items using a visual WEB GUI,
+which lowers the application threshold for users.
+
+
+
+
+                                            3
+S5700 SERIES SWITCHES                                                         DataSheet
+
+
+The S5700 family of Ethernet switches consists of the following models
+Table 2: Family of the S5700 Series switches
+Models            Ethernet Ports         Management          PSU 1/PSU 2 Cooling
+                                         Console: RJ45 to              4 x Fan
+                  48 x 10G SFP+ + 8 x    RS232               550W /    Modules
+S5748X-8Z-EI
+                  100G QSFP 28           Ethernet: 1G Port   550W CRPS (front-to-back
+                                         Storage: USB                  airflow)
+                                         Console: RJ45 to
+                                                             Fixed single 4 x fixed fans
+                  48 x 10G SFP+ + 8 x    RS232
+S5748X-8Z-SI                                                 power        (front-to-back
+                  100G QSFP 28           Ethernet: 1G Port
+                                                             supply       airflow)
+                                         Storage: USB
+                                         Console: RJ45 to              4 x Fan
+                  32 x 10G SFP+
+                                         RS232               550W /    Modules
+S5732-16N4Z-EI    +16x 10G/25G SFP28,
+                                         Ethernet: 1G Port   550W CRPS (front-to-back
+                  4 x 100G QSFP28
+                                         Storage: USB                  airflow)
+                                         Console: RJ45 to
+                  32*10G SFP+                                Fixed single 4 x fixed fans
+                                         RS232
+S5732-16N4Z-SI    +16*10G/25G SFP28,                         power        (front-to-back
+                                         Ethernet: 1G Port
+                  4*100G QSFP28                              supply       airflow)
+                                         Storage: USB
+                                         Console: RJ45 to              2 x Fan
+                  24 x 10G SFP+ + 8 x    RS232               350W /    Modules
+S5724X-8Z-EI
+                  100G QSFP 28           Ethernet: 1G Port   350W CRPS (front-to-back
+                                         Storage: USB                  airflow)
+                                         Console: RJ45 to
+                                                             Fixed single 4 x fixed fans
+                  24 x 10G SFP+ + 8 x    RS232
+S5724X-8Z-SI                                                 power        (front-to-back
+                  100G QSFP 28           Ethernet: 1G Port
+                                                             supply       airflow)
+                                         Storage: USB
+
+
+
+
+                                          4
+S5700 SERIES SWITCHES                                                                DataSheet
+
+
+S5700 Physical Specifications
+
+Packet Switch capacity (Gbps)                     Weight (Net weight/Gross weight)
+• S5748X-8Z-EI: 2560 Gbps (bidirectional)         • S5748X-8Z-EI: 7.9kg/10.1kg
+• S5748X-8Z-SI: 2560 Gbps (bidirectional)         • S5748X-8Z-SI: 5.9kg/8.1kg
+• S5732-16N4Z-EI: 2.24Tbps (bidirectional)        • S5732-16N4Z-EI: 7.5kg/9.7kg
+• S5732-16N4Z-SI: 2.24Tbps (bidirectional)        • S5732-16N4Z-SI: 5kg/7.2kg
+• S5724X-8Z-EI: 2080 Gbps (bidirectional)         • S5724X-8Z-EI: 6.6kg/8.8kg
+• S5724X-8Z-SI: 2080 Gbps (bidirectional)         • S5724X-8Z-SI: 4.1kg/6.3kg
+
+Layer 2/Layer 3 Throughput (Mpps)                 Dimensions (W x H x D) without package
+• S5748X-8Z-EI: 3809.28Mpps (bidirectional)       • S5748X-8Z-EI: 44.2×4.4×42 cm
+• S5748X-8Z-SI: 3809.28Mpps (bidirectional)       • S5748X-8Z-SI: 44.2×4.4×35.5 cm
+• S5732-16N4Z-EI: 3.333Gpps (bidirectional)       • S5732-16N4Z-EI: 44.2×4.4×42 cm
+• S5732-16N4Z-SI: 3.333Gpps (bidirectional)       • S5732-16N4Z-SI: 44.2×4.4×35.6 cm
+• S5724X-8Z-EI: 3095.04Mpps (bidirectional)       • S5724X-8Z-EI: 44.2×4.4×41 cm
+• S5724X-8Z-SI: 3095.04Mpps (bidirectional)       • S5724X-8Z-SI: 44.2×4.4×35.7 cm
+
+Dimensions (W x H x D) with package               Temperature alarm
+• S5748X-8Z-EI: 66.5×15×56.5 cm                   • Alarm threshold: 50ºC
+• S5748X-8Z-SI: 55.7×15×49.5 cm
+• S5732-16N4Z-EI: 66.5×15×56.5 cm
+• S5732-16N4Z-SI: 55.7×15×49.5 cm                 Memory
+• S5724X-8Z-EI: 55.7×15×49.5 cm                   • eMMc: 8GB on all models
+• S5724X-8Z-SI: 55.7×15×49.5 cm                   • DRAM: 2GB on all models
+
+CPU                                               MTBF
+• Dual-core processor, ARM A53(1.2GHz)            • EI (Swapable PSU and FAN):≥ 90000h
+  on following models                               (~10.3 Years)
+  S5748X-8Z-EI                                    • SI (Fixed PSU and FAN): ≥70000h
+  S5748X-8Z-SI                                      (~8.0 Years)
+  S5732-16N4Z-EI
+  S5732-16N4Z-SI
+  S5724X-8Z-EI
+  S5724X-8Z-SI
+
+
+
+
+                                              5
+S5700 SERIES SWITCHES                                                           DataSheet
+
+
+
+Environmental ranges                       Power consumption
+• Operating temperature: 0ºC to 45ºC       Worst case, all ports used, line-rate traffic
+• Storage temperature: -40ºC to 70ºC       • S5748X-8Z-EI: 140.36W
+• Running Humidity: 10% to 90% (No         • S5748X-8Z-SI: 138.38W
+  condensation)                            • S5732-16N4Z-EI: 122W
+• Store Humidity: 5% to 95% (No            • S5732-16N4Z-SI: 119.68W
+  condensation)                            • S5724X-8Z-EI: 117W
+                                           • S5724X-8Z-SI: 98.7W
+Operating altitude                         Typical power consumption
+• S5748X-8Z-EI: 0~5km                      • S5748X-8Z-EI: 129.14W
+• S5748X-8Z-SI: 0~3km                      • S5748X-8Z-SI: 128.26W
+• S5732-16N4Z-EI: 0~5km                    • S5724X-8Z-EI: 105W
+• S5732-16N4Z-SI: 0~3km                    • S5724X-8Z-SI: 91.74W
+• S5724X-8Z-EI: 0~5km                      • S5732-16N4Z-EI: 110W
+• S5724X-8Z-SI: 0~3km                      • S5732-16N4Z-SI: 108.02W
+
+
+
+
+                                       6
+S5700 SERIES SWITCHES                                                                                     DataSheet
+
+
+S5700 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported by
+the devices are listed in the document ‘HOS Software features’ .
+
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+
+                                         HOS Network Platform
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+      Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+       LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+     Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+                                                                          Operating Systems TCP/IP Stacks
+             Advanced integration Suite
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+
+               CENTEC Switch Chipset                                             CPU Subsystem
+
+                 Cooling SubSystem                       H                     AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+ All HOHUNET switches use a normalized software platform and image package file
+ Unified software version iteration plan
+ Unified user experience
+
+
+                                                         7
+S5700 SERIES SWITCHES                                                         DataSheet
+
+
+Ordering Information
+S5700 Series Switches
+Item              Description
+
+                  10G Data Center Switch with 48*10G SFP+, 8*100G QSFP28, Dual power
+S5748X-8Z-EI
+                  supply modules, 4 hot-swap fan modules
+
+                  10G Enterprise and Campus Network Switch with 48*10G SFP+, 8*100G
+S5748X-8Z-SI
+                  QSFP28, Fixed single power supply, 4 Fixed Fans
+
+                  10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G
+S5732-16N4Z-EI
+                  QSFP28, Dual power supply modules, 2 hot-swap fan modules
+
+                  10G Data Center Switch with 32*10G SFP+, 16*10G/25G SFP28, 4*100G
+S5732-16N4Z-SI
+                  QSFP28, Fixed single power supply, 4 Fixed Fans
+
+                  10G Data Center Switch with 24*10G SFP+, 8*100G QSFP28, Dual power
+S5724X-8Z-EI
+                  supply modules, 2 hot-swap fan modules
+
+                  10G Enterprise and Campus Network Switch with 24*10G SFP+, 8*100G
+S5724X-8Z-SI
+                  QSFP28, Fixed single power supply, 4 Fixed Fans
+
+
+
+
+AC/DC Power Supplies use for S5700 Series EI model
+Items             Description
+
+PSU-350-AC-AFO    S5700 Series 350W AC power supply (front-to-back airflow)
+
+
+PSU-550-DC-AFO    S5700 Series 550W DC power supply (front-to-back airflow)
+
+
+PSU-550-AC-AFO    S5700 Series 550W AC POE power supply (front-to-back airflow)
+
+
+PSU-550-DC-AFO    S5700 Series 550W DC POE power supply (front-to-back airflow)
+
+
+
+
+                                         8
+S5700 SERIES SWITCHES                                                               DataSheet
+
+Software Licenses
+Items               Description
+
+
+Software License    EB, Basic L3 software features, Preinstalled on SI models
+
+
+Software License    MS, L3 enhance features software license key, Preinstalled on EI models
+
+
+Software License    MA, MPLS features software license key
+
+
+Software License    ST, Stacking feature software license key
+
+
+
+
+Accessory of S5700 Series
+                                                                                Console
+                        Front          Rear
+Items                                                 Screw      Power Cord     (RS232 to
+                        Mounting       Mounting
+                                                                                RJ45)
+
+S5748X-8Z-EI            2              2              14         2              1
+
+S5748X-8Z-SI            2              /              14         1              1
+
+S5732-16N4Z-EI          2              2              14         2              1
+
+S5732-16N4Z-SI          2              /              14         1              1
+
+S5724X-8Z-EI            2              2              14         2              1
+
+S5724X-8Z-SI            2              /              14         1              1
+
+
+
+
+                                             9
+S5700 SERIES SWITCHES                                                                                DataSheet
+
+
+About HOHUNET:
+
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

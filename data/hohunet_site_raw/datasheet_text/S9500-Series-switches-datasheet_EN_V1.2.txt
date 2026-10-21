@@ -1,0 +1,265 @@
+S9500 SERIES SWITCHES
+DATASHEET
+High Performance Data Center Switch
+
+Version:V 1.2
+Release Date:2025/12/20
+
+
+Product Overview
+The S9500 Series switches designed on a
+domestic new generation switch Chip,
+which called SerdesX Series Chip platform.
+With 32 x 800G high speed ports and rich
+features, these switches will perfectly
+meets the requirements of
+supercomputing, Data Center, and AI/ML
+Networks.
+
+
+Key features of the S9500 Series switches
+
+l   High-density 800G switch, 32*800G OSFP
+l   Redundant hot-swappable power and fans ensure continuous stability
+l   MPLS (label-switching-based) integrates IP flexibility and connection-oriented reliability,
+    enabling isolated multi-service bearing, precise traffic scheduling, fast fault self-healing,
+    and lower networking costs to meet multi-scenario efficient needs
+l   Support VXLAN/EVPN tunnel technology, unlimited data transmission
+l   RDMA end-to-end data forwarding, build a lossless network without packet loss
+l   Support MLAG, cross-device link aggregation technology
+
+The S9500 Series switches provide redundant hot-swappable power supplies (AC and DC are
+both available) and 4 bays with Field replaceable fan modules. Generally, airflow of S9500
+Series is front to rear (AFO), but a customization of rear to front (AFI) airflow is also acceptable.
+
+Table 1: Feasible PSU and airflow of S9532
+
+Items                   AC           DC           AFO         AFI         Power Input FAN
+
+S9532-EI                ◯            ◯            ◯           ◯           2               4
+
+
+
+
+                                                  1
+S9500 SERIES SWITCH                                                                DataSheet
+
+
+The S9500 Series switches support varied management ways, include console port / in-band
+network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command
+Line Interface), web management, Telnet and FTP connection. Support OAM to make
+management more convenient, and support SSH2.0, etc. to ensure security of management.
+Moreover, leveraging its profound technical expertise and in-depth understanding of
+campus and enterprise networking needs, Hohunet has launched the Da Hu Cloud
+Management System (DHCS). It enhances network management and maintenance efficiency,
+reduces costs, elevates management intelligence, and delivers a faster, smarter, more secure
+and reliable network to better meet user requirements.
+
+
+
+
+ Visual WEB GUI
+
+ HOS allows you to quickly configure common configuration items using a visual WEB GUI,
+ which lowers the application threshold for users.
+
+
+
+
+                                              2
+S9500 SERIES SWITCH                                                          DataSheet
+
+
+
+
+The S9500 ports at a glance
+
+Table 2: Family of the S9500 Series switches
+
+
+Models         Ethernet Ports        Management          PSU 1/PSU 2   Cooling
+
+                                     Console: RJ45 to                  4 x Fan Modules
+S9532-EI       32 x 800G OSFP        RS232               2 x CRPS      (front-to-back
+                                     Ethernet: 1G Port                 airflow)
+
+
+
+
+                                               3
+S9500 SERIES SWITCH                                                         DataSheet
+
+
+
+S9500 Series Physical Specifications
+
+Packet Switch capacity (Tbps)            Dimensions (W x H x D) without package
+l S9532-EI: 51.2 Tbps (bidirectional)    l S9532-EI: 44.2 x 8.8 x 56cm
+
+Layer 2/Layer 3 Throughput (Gpps)        Weight (Net weight/Gross weight)
+l S9532-EI: 76.19 Gpps (bidirectional)   l S9532-EI: 11.8kg/16kg
+
+CPU                                      Environmental ranges
+l Quad-core processor, ARM A53           l Operating temperature: 0ºC to 45ºC
+                                         l Storage temperature: -40ºC to 70ºC
+MTBF
+                                         l Running Humidity: 10% to 90% (No
+l S9532-EI: ≥90000H
+                                           condensation)
+Memory                                   l Store Humidity: 5 to 95% (No
+l eMMc: 8GB on all models                  condensation)
+l DRAM: 4GB on all models                Temperature alarm
+                                         l Alarm threshold: 50ºC
+
+
+
+
+                                         4
+S9500 SERIES SWITCH                                                                                       DataSheet
+
+
+S9500 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported by
+the devices are listed in the document ‘HOS Software features’ .
+
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                         HOS Network Platform
+
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+      Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+       LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+     Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+
+             Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+                                                 Hardware layer
+
+               CENTEC Switch Chipset                                             CPU Subsystem
+
+                 Cooling SubSystem                                             AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* All HOHUNET switches use a normalized software platform and image package file
+* Unified software version iteration plan
+* Unified user experience
+
+
+                                                         5
+S9500 SERIES SWITCH                                                                    DataSheet
+
+
+Ordering Information
+
+S9500 Series
+Items                     Description
+
+                          800G Data Center Switch, with 32*800G OSFP, Dual power supply
+S9532-EI
+                          modules(C13), 4 hot-swappable fan modules.
+
+
+
+AC Power Supplies use for S9500
+Items                          Description
+
+PSU-3200-AC-AFO                S9500 Series 3200W AC power supply (front-to-back airflow)
+
+
+
+Software Licenses
+
+Items                     Description
+
+
+Software License          MS, L3 enhance features software license key, Preinstalled
+
+
+Software License              MA, MPLS features software license key
+
+
+Software License              ST, Stacking feature software license key
+
+
+
+
+Accessory of S9532-EI
+                                                                       Console
+                   Front           Rear                     Power                  Grounding
+Items                                               Screw              (RS232 to
+                   Mounting        Mounting                 Cord                   Cable
+                                                                       RJ45)
+
+SS9532-EI          2               4                14      2          1           1
+
+
+
+
+                                                6
+S9500 SERIES SWITCH                                                                                  DataSheet
+
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd.
+
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

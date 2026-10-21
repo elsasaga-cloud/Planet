@@ -1,0 +1,22 @@
+{
+  "probed_at": "2026-10-21T03:42:34Z",
+  "runner_ip": null,
+  "tried": [
+    {
+      "profile": "archiver",
+      "url": "https://www.hruitech.com/",
+      "status": 200,
+      "final_url": "https://www.hruitech.com/",
+      "content_type": "text/html",
+      "server": "cloudflare",
+      "cf_ray": "a4dd40cc49406881-ORD",
+      "cf_mitigated": null,
+      "x_powered_by": "ASP.NET",
+      "via": null,
+      "body_head": "<!DOCTYPE html> <html> <head> <meta charset=\"utf-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,Chrome=1\" /> <meta name=\"author\" content=\"Mr.D.M\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1,user-scalable=no\" /> <title>PoE Switch and Industrial Switch Manufacturer | HRUI</title> <meta name=\"renderer\" content=\"webkit\"> <meta name=\"format-detection\" content=\"telphone=no, email=no\" /> <meta name=\"keywords\" content=\"PoE Switch,Managed Switch Supplier,Industrial PoE Switch Factory,China Industrial Ethernet Switch,Optica"
+    }
+  ],
+  "mode": "requests",
+  "profile": "archiver",
+  "base": "https://www.hruitech.com/"
+}

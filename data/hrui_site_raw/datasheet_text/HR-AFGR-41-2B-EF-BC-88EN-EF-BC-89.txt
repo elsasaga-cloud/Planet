@@ -1,0 +1,158 @@
+Datasheet
+
+
+
+
+           Gigabit Ethernet PoE Extender
+
+
+
+
+  Product Highlights
+
+  n 1*1Gbps PoE in port+4*1Gbps PoE out ports
+
+  n Comply with IEEE 802.3, IEEE 802.3ab, IEEE 802.3u, and IEEE 802.3x standards
+
+  n Support HiPoE 60W in
+
+  n Support IEEE802.3af/at power supply standard
+
+  n Ethernet Ports support 10/100/1000Mbps self-adaptive
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n Support VLAN mode
+
+  n Having network and PoE relay extension roles
+
+  n Flow control method, full duplex adopts IEEE 802.3x standard, and half duplex adopts Back
+
+    pressure standard
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR-AFGR-41+
+
+
+                                                      1*1Gbps PoE in port
+    Interface
+                                                      4*1Gbps PoE out ports
+
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+    Port Standard                                     IEEE802.3ab (Gigabit Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+
+    Switching Bandwidth                                10Gbps
+
+
+    Packet Forwarding Rate                             7.44Mpps
+
+
+    MAC Address Table                                  2K
+
+
+    Transmission Method                               Store and Forward
+
+                                                      IEEE802.3af (15.4W)
+    PoE Standard                                      IEEE802.3at (30W)
+
+    PoE Port Output Voltage                           DC 44-57V
+
+
+    PoE Ports                                         Port PoE out <30W
+
+
+    PoE Power Budget                                  44W
+
+
+    Power Supply                                       IEEE802.3af/at/HiPoE
+
+
+    Mainboard Power Consumption                        1.59W
+
+                                                       Product Dimensions: 96*66.5*28mm
+                                                       Packaging Dimensions: 100*72*31mm
+    Structure Information
+                                                       Product Net Weight: 0.08KG
+                                                       Product Gross Weight: 0.093KG
+                                                       Carton Dimensions: 375*335*220mm
+    Packing Information                                Packing Quantity: 100PCS
+                                                       Packing Weight: 10.3KG
+
+
+    Package Contents                                   PoE Extender 1pcs, Certificate of Inspection 1pcs
+
+
+    Fan Quantity                                       0
+
+
+    Installation                                       Desktop, Wall mounting installation, Rail installation
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                 www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+
+    Surge Protection                                   Port Surge: Differential mode 4KV (Class C)
+
+
+
+    Operating Temperature                              0~40°C
+
+
+
+    Storage Temperature                                -40~70°C
+
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Link normal
+    Port Green LED                                     Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                      OFF: Normal mode, all ports can communicate with each other, transmission
+                                                      distance is within 100 meters, transmission rate is 10/100//1000Mbps adaptive(PoE
+    OFF/ON Modes Buttons                              Watchdog off)
+                                                      ON: VLAN mode, PoE ports are isolated from each other, communicating with uplink
+                                                      port, and automatically activate the PoE watchdog mode
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

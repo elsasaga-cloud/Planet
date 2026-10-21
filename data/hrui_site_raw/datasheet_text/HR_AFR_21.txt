@@ -1,0 +1,152 @@
+Datasheet
+
+
+
+
+      100Mbps Ethernet PoE Extender
+
+
+
+
+  Product Highlights
+
+  n 1* 100Mbps PoE in RJ45 port+2 *100Mbps PoE out ports
+
+  n Complies with IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standards
+
+  n Support IEEE802.3af/at power supply standard
+
+  n RJ45 port supports 10/100Mbps adaptive and PoE functionality
+
+  n The panel indicator lights will monitor the working status and assist in fault analysis
+
+  n Supports automatic port flipping (Auto MDI/MDIX)
+
+  n One click intelligent activation of long-distance mode
+
+  n Having network and PoE relay extension roles
+
+  n Flow control method, full duplex adopts IEEE 802.3x standard, and half duplex adopts Back
+
+    pressure standard
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                               www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR-AFR-21+
+
+
+                                                      1* 100Mbps PoE in RJ45 port
+    Interface
+                                                      2 *100Mbps PoE out ports
+
+
+
+                                                      IEEE802.3 (Ethernet)
+    Port Standard                                     IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+
+    Switching Capacity                                 0.6Gbps
+
+
+    Packet Forwarding Rate                             0.446Mpps
+
+
+    MAC Address Table                                  2K
+
+
+    Transmission Method                               Store and Forward
+
+                                                      IEEE802.3af （15.4W）
+    PoE Standard                                      IEEE802.3at （30W）
+
+    PoE Port Output Voltage                           DC 44-57V
+
+
+    PoE Ports                                         Port PoE out <30W
+
+
+    PoE Power Budget                                  25W
+
+
+    Power Supply                                       PoE powered
+
+
+    Mainboard Power Consumption                        0.96W
+
+                                                       Product Dimensions :100*49*25mm
+                                                       Packaging Dimensions : 102*50*27mm
+    Structure Information
+                                                       Product Net Weight:0.060KG
+                                                       Product Gross Weight:0.065KG
+                                                       Carton Dimensions :430*295*275mm
+    Packing Information                                Packing Quantity: 200PCS
+                                                       Packing Weight: 14KG
+
+
+    Package Contents                                   PoE Extender 1pcs, manual 1pcs，certificate of qualification 1pcs
+
+
+    Fan Quantity                                       0
+
+
+    Installation                                       Desktop
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                           www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+
+    Surge Protection                                   Surge protection: common mode 4KV
+
+
+
+    Operating Temperature                              0~40°C
+
+
+
+    Storage Temperature                                -40 °C to 70 °C
+
+
+
+    Operation Humidity                                 10%~90%，non condensing
+
+
+
+    Storage Humidity                                   5%~95%，non condensing
+
+
+                                                       On: Link normal
+    Port Light                                         Off: Link blocked
+                                                       Blinking: Data transmitting
+
+                                                      OFF: Link extension mode OFF
+    OFF/ON Modes Buttons                              ON: Link extension mode, port PoE out and data transmission distance can be
+                                                      extended to 250 meters, transmission speed is 10Mbps
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                          www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

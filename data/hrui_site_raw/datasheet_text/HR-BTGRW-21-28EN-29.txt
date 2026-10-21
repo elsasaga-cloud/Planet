@@ -1,0 +1,147 @@
+Datasheet
+
+
+
+
+           Outdoor Gigabit PoE Extender
+
+
+
+
+  Product Highlights
+
+  n 1*1Gbps PoE in port+2*1Gbps PoE out ports
+
+  n Comply with IEEE802.3af (15.4W), IEEE802.3at (30W), HiPoE (60W)
+
+  n Die cast aluminum casing, IP67 protection level, operating temperature range of -40~75°C
+
+  n Support PoE and Ethernet transmission distance extension of 100 meters
+
+  n Automatically detect and protect PoE devices from damage caused by incorrect installation.
+
+  n Support wall mounted installation
+
+  n Plug and play, easy to install
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                        www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+
+    Model                                             HR-BTGRW-21
+
+
+                                                      1*1Gbps PoE in port
+    Interface
+                                                      2*1Gbps PoE out ports
+
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+    Port Standard                                     IEEE802.3ab (Gigabit Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+
+    Switching Bandwidth                                6Gbps
+
+
+    Packet Forwarding Rate                             4.46Mpps
+
+
+    MAC Address Table                                  2K
+
+
+    Transmission Method                               Store and Forward
+
+                                                      IEEE802.3af (15.4W)
+    PoE Standard                                      IEEE802.3at (30W)
+                                                      HiPoE (60W)
+
+    PoE Port Output Voltage                           DC 44-57V
+
+                                                      Port 1 supports PoE out <30W
+    PoE Ports                                         Port 2 supports HiPoE 60W
+
+    PoE IN                                            IEEE802.3af/at/bt90W
+
+
+    Power Supply                                       PoE powered
+
+
+    Mainboard Power Consumption                        2.32W
+
+                                                       Product Dimensions: 111.9*72.9*41.5mm
+                                                       Packaging Dimensions: 210*160*67mm
+    Structure Information
+                                                       Product Net Weight: 0.2KG
+                                                       Product Gross Weight: 0.36KG
+                                                       Carton Dimensions: 447*360*340mm
+    Packing Information                                Packing Quantity: 20PCS
+                                                       Packing Weight: 8.2KG
+
+                                                       PoE Extender 1pcs, Waterproof joint 3pcs, Waterproof cover 1pcs, thin open-end
+    Package Contents
+                                                       wrench 1pcs, Grounding wire 1pcs, Expansion screw 1pcs
+
+    Fan Quantity                                       0
+
+
+    Installation                                       Desktop
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                           www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Port Surge: Common mode 6KV, Differential mode 4KV(Class B)
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV(Class B)
+
+
+    Operating Temperature                              -40~75°C
+
+
+
+    Storage Temperature                                -40~85°C
+
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Link normal
+    PoE in Green LED                                   Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                       On: Link normal
+    PoE out Green LED                                  Off: Link blocked
+                                                       Flashing: Data transmitting
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                      www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

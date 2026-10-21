@@ -1,0 +1,147 @@
+Datasheet
+
+
+
+
+             24-Port 2.5G and 2-Port 10G
+                SFP+ Ethernet Switch
+
+
+
+
+  Product Highlights
+
+  n 24*2.5Gbps RJ45 ports+2*10Gbps SFP+ ports
+
+  n Comply with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3z,
+
+    IEEE802.3ae, and IEEE 802.3x standards
+
+  n Ethernet Ports support 10M/100M/1G/2.5Gbps self-adaptive
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Model                                             HR300S-24T2XS
+
+                                                      24*2.5Gbps RJ45 ports
+    Interface                                         2*10Gbps SFP+ ports
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3ab (Gigabit Ethernet)
+    Port Standard                                     IEEE802.3z (Gigabit Ethernet Fiber Standard)
+                                                      IEEE802.3bz (2.5G Ethernet)
+                                                      IEEE 802.3ae (10G Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+    Switching Bandwidth                                160Gbps
+
+    Packet Forwarding Rate                             119.04Mpps
+
+    Packet Buffer                                      8Mbit
+
+
+    MAC Address Table                                  4K
+
+    Transmission Method                               Store and Forward
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 12V 3A
+
+    Mainboard Power Consumption                        29.19W
+
+                                                       Product Dimensions: 270*181*44mm
+                                                       Packaging Dimensions: 312*262*84mm
+    Structure Information
+                                                       Product Net Weight: 1.31KG
+                                                       Product Gross Weight: 1.84KG
+
+
+                                                       Carton Dimensions: 540*450*332mm
+    Packing Information                                Packing Quantity: 10PCS
+                                                       Packing Weight: 19.4KG
+
+                                                       Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs, Rack-
+    Package Contents
+                                                       mounting kit 1pair
+
+    Fan Quantity                                       0
+
+    Installation                                       Desktop, Rack-mounting
+                                                       Port Surge: Common mode 4KV, Differential mode 2KV(Class B)
+    Surge Protection                                   Electrostatic ESD: Air 8KV, Contact 6KV(Class B)
+                                                       Power Supply: Common mode 2KV, Differential mode 2KV (Class B)
+    Operating Temperature                              0~40°C
+
+    Storage Temperature                                -40~70°C
+
+    Operation Humidity                                 10%~90%, non condensing
+
+    Storage Humidity                                   5%~95%, non condensing
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                      Green LED on: 2.5Gbps Link normal
+                                                      Yellow LED on: 10/100/1000Mbps Link normal
+    Ports 1-24
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+                                                      Blue LED on: 10Gbps Link normal
+                                                      Green LED on: 1G/2.5Gbps Link normal
+    Ports 25-26
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                    www.hruitech.com
+Datasheet
+
+
+Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+Datasheet
+
+
+
+
+ Mounting ear diagram (Standard, support to install on the cabinet)
+ Unit of size: mm
+
+
+
+
+                                                           Rack mounting ears
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                 www.hruitech.com
+

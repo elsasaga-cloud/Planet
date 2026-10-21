@@ -1,0 +1,3833 @@
+                      Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+      HR-SWTG3448S
+48-Gigabit Port + 4-10Gigabit SFP Port
+
+
+
+
+         Web Manual
+
+
+
+
+               Ver. 1.0
+
+
+
+
+                  1
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+Revision history
+
+ Date              Version   Description
+
+
+ Sep. 10, 2020     V 1.0     The first edition
+
+
+
+
+                                                 2
+                                                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+Contents
+ZX-SWTG3448S.........................................................................................................................1
+   48-Gigabit Port + 4-10Gigabit SFP Port............................................................................ 1
+Web Manual.............................................................................................................................. 1
+   Ver. 1.0................................................................................................................................... 1
+0 Foreword.................................................................................................................................7
+   0.1 Target Audience..............................................................................................................7
+   0.2 Manual Convention........................................................................................................ 7
+1 Management Software Specification................................................................................... 8
+2 Web Page Login...................................................................................................................10
+   2.1 Log in the Network Management Client.................................................................... 10
+   2.2 Constitution of Client Interface....................................................................................11
+   2.3 Navigation Tree on Web Interface.............................................................................. 11
+3 System Configuration.......................................................................................................... 18
+   3.1 System Info.................................................................................................................... 18
+   3.2 Network Configuration.................................................................................................19
+   3.3 User Configuration........................................................................................................19
+   3.4 Log Configuration.........................................................................................................20
+   3.5 Telnet Configuration.....................................................................................................22
+   3.6 HTTPS Configuration.................................................................................................... 22
+   3.7 Diagnostics Test............................................................................................................ 23
+       3.7.1 Ping......................................................................................................................... 23
+       3.7.2 Traceroute.............................................................................................................. 24
+       3.7.3 Copper Test............................................................................................................ 25
+4 Port Configuration............................................................................................................... 26
+   4.1 Physical Port.................................................................................................................. 26
+   4.2 Storm Control................................................................................................................27
+   4.3 Port Rate limit................................................................................................................29
+   4.4 Port Mirroring................................................................................................................30
+   4.5 Link Aggregation...........................................................................................................32
+
+                                                                                   3
+                                                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+       4.5.1 Static Link Aggregation......................................................................................... 33
+       4.5.2 LACP........................................................................................................................35
+   4.6 Protected Port............................................................................................................... 39
+   4.7 Port Statistics................................................................................................................. 40
+5 L2 Configuration.................................................................................................................. 41
+   5.1 VLAN Configuration......................................................................................................41
+   5.2 MAC VLAN.....................................................................................................................48
+   5.3 Protocol VLAN...............................................................................................................51
+   5.4 Voice VLAN....................................................................................................................56
+   5.5 MAC Address Table...................................................................................................... 61
+       5.5.1 Dynamic Address................................................................................................... 62
+       5.5.2 Static Address.........................................................................................................63
+   5.6 Spanning Tree............................................................................................................... 64
+       5.6.1 Global Configuration............................................................................................. 65
+       5.6.2 MST Instance.......................................................................................................... 67
+       5.6.3 MST Port Setting.................................................................................................... 69
+       5.6.4 Port Setting.............................................................................................................71
+   5.7 Multicast.........................................................................................................................75
+       5.7.1 IGMP Snooping...................................................................................................... 76
+       5.7.2 Group Address....................................................................................................... 78
+6 Security................................................................................................................................. 79
+   6.1 DoS Attack Resistance.................................................................................................. 79
+       6.1.1 Property.................................................................................................................. 79
+       6.1.2 Port Setting.............................................................................................................80
+   6.2 DHCP Snooping............................................................................................................ 81
+       6.2.1 DHCP Snooping Global Configuration................................................................ 82
+       6.2.2 Static Binding..........................................................................................................83
+       6.2.3 DHCP Snooping Option82....................................................................................85
+7 ACL........................................................................................................................................ 90
+   7.1 MAC ACL....................................................................................................................... 90
+
+
+
+                                                                                   4
+                                                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+   7.2 IPv4 ACL.........................................................................................................................93
+   7.3 IPv6 ACL.........................................................................................................................95
+   7.4 ACL Binding Configuration.......................................................................................... 98
+8 QoS........................................................................................................................................99
+   8.1 QoS General Configuration....................................................................................... 101
+       8.1.1 Basic Configuration..............................................................................................101
+       8.1.2 Queue Scheduling............................................................................................... 102
+       8.1.3 CoS Mapping....................................................................................................... 103
+       8.1.4 DSCP Mapping.....................................................................................................104
+       8.1.5 IP Precedence Mapping...................................................................................... 106
+9 LLDP Configuration........................................................................................................... 107
+   9.1 LLDP Configuration.....................................................................................................108
+   9.2 Port Setting..................................................................................................................109
+   9.3 Neighbor......................................................................................................................110
+10 DHCP.................................................................................................................................111
+   10.1 DHCP Server brief introduction...............................................................................111
+   10.2 IP address assignment of DHCP..............................................................................111
+       10.2.1 IP address allocation strategy...........................................................................111
+       10.2.2 Dynamic IP address acquisition process..........................................................112
+   10.3 DHCP global configuration......................................................................................113
+   10.4 IP Pool Setting...........................................................................................................114
+   10.5 VLAN IF Address Group Setting.............................................................................. 115
+   10.6 Client List................................................................................................................... 116
+   10.7 Client Static Binding Table....................................................................................... 117
+11 Management....................................................................................................................117
+   11.1 DNS Configuration................................................................................................... 117
+   11.2 System Time.............................................................................................................. 119
+   11.3 SNMP Configuration................................................................................................ 120
+       11.3.1 View.....................................................................................................................121
+       11.3.2 Group.................................................................................................................. 122
+
+
+
+                                                                                   5
+                                                                                 Shenzhen Hongrui Optical Technology Co., Ltd.
+   11.3.3 Community.........................................................................................................123
+   11.3.4 User..................................................................................................................... 124
+   11.3.5 Engine ID............................................................................................................ 126
+   11.3.6 Trap Event...........................................................................................................126
+   11.3.7 Notification.........................................................................................................127
+11.4 RMON Configuration............................................................................................... 128
+   11.4.1 Statistics.............................................................................................................. 129
+   11.4.2 History.................................................................................................................130
+   11.4.3 Event................................................................................................................... 131
+   11.4.4 Alarm...................................................................................................................132
+11.5 Configuration............................................................................................................ 134
+   11.5.1 Configuration Upgrade..................................................................................... 134
+   11.5.2 Configuration Saving.........................................................................................135
+11.6 Reboot....................................................................................................................... 136
+11.7 Firmware Management............................................................................................ 137
+
+
+
+
+                                                                            6
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+0 Foreword
+
+0.1 Target Audience
+     This manual is prepared for the installers and system administrators who are responsible for
+network installation, configuration and maintenance. It assumes that the user has understood all
+network communication and management protocols, as well as the technical terms, theoretical
+principles, practical skills, and expertise of devices, protocols and interfaces related to networking. Work
+experience in Graphical User Interface (GUI), Command-line Interface, Simple Network Management
+Protocol (SNMP) and Web Explorer is also required.
+
+0.2 Manual Convention
+    The following approaches should prevail.
+
+
+ GUI Convention           Description
+
+
+  Interpretation          Describe operations and add necessary information.
+
+
+       Caution            Remind the user of cautions as improper operations will result
+                          in data loss or equipment damage.
+
+
+
+
+                                                     7
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+1 Management Software Specification
+
+
+1. Layer 2 Functions
+1.1      Port               Enable/disable ports                   Available
+         Management
+                            Configure the speed, duplex and Available
+                            MTU
+                            Flow control                    Available
+                            Check the port information             Available
+1.2      Port Mirroring     Ingress/egress directions of port Available
+                            and aggregation group
+1.3      Rate Limit         Determine the bit rate by chips   Available
+                                                              Bit rate of 16
+                                                              Kbps
+1.4      Protected Port     Configure port isolation               Available
+1.5      Storm Control      Suppress the storms generated Available
+                            from unknown unicast, unknown
+                            multicast, and broadcast
+1.6      Link Aggregation   Static link aggregation in manual Available
+                            mode
+                            Dynamic aggregation in LACP Available
+                            mode
+1.7      VLAN               Access                      Available
+                            Trunk                                  Available
+                            Hybrid                                 Available
+                            QinQ and VLAN division based on Available
+                            port, protocol and MAC
+                            Dynamic VLAN registration of (128) Available
+                            GVRP
+                            Voice VLAN (to be available)           (16 OUI)
+                                                                   Available
+1.8      MAC                Add or delete statically               Available
+                            Restrict the number of MAC Available
+                            address entries learned by an
+                            interface
+                            Set the dynamic aging time             Available
+
+
+                                                   8
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+1.9      Spanning Tree       802.1d (STP)                            Available
+
+                             802.1w (RSTP)                           Available
+                             802.1s (MSTP)                           Available
+1.10     Multicast           Add or delete statically;               Available
+                             IGMP Snooping
+                             MLD Snooping                            Available
+                             V1/2/3    dynamic            multicast Available
+                             snooping
+1.11     DDM                 SFP/SFP+DDM                             Available
+2. Extended Functions
+2.1      ACL                 Port     numbers       based    on Available
+                             Source/Destination MAC, protocol
+                             type, Source/Destination IP, and L4
+                             port.
+2.2      QoS                 Classified by 802.1p (CoS)          Available
+                             Classified by DSCP                      Available
+                             Classified by Source/Destination IP Available
+                             and port
+                             SP and WRR scheduling algorithms Available
+                             Committed Access Rate (CAR)             Available
+2.3      LLDP                Link Layer Discovery          Protocol Available
+                             (LLDP)
+2.4      User Account        Add/delete a user                       Available
+2.5      Log                 Login, operation, state, and event Available
+                             logs
+2.6      Attack Resistance   DoS defense                        Available
+                             Protect CPU and restrict message Available
+                             uploading rate
+                             ARP binding (IP, MAC, Port)             Available
+2.7      Authentication      802.1x port authentication              Available
+                             AAA                                     Available
+2.8      Diagnostics         Ping, Telnet and traceroute             Available
+2.9      Management          Unit     resetting, configuration Available
+                             saving/restoring, upgrade, time
+                             setting, etc.
+3. Management Functions
+
+
+                                                   9
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+3.1         CLI                Manage serial port command lines      Available
+
+3.2         Telnet             Remotely control Telnet               Available
+3.3         SSH                Remotely control SSHv1/SSHv2          Available
+3.4         SNMP               SNMP v1/2/3                           Available
+                               Trap:     ColdStart,    WarmStart, Available
+                               LinkDown, and LinkUp
+3.5         Web                L2 setting, L2&3 discovery         Available
+
+3.6         RMON               RMON v1                               Available
+4. Other Functions
+      5.1 DHCP Snooping and Option 82
+      5.2 Dynamic ARP inspection
+      5.3 TACACS and RADIUS
+      5.4 DNS, SNTP
+      5.5 Port security
+      5.6 MVR
+      5.7 VCT
+      5.8 UDLD protocol
+
+
+
+
+2 Web Page Login
+
+2.1 Log in the Network Management Client
+      Type in the default switch address: http://192.168.2.1 and press “Enter”.
+
+
+      Description:
+    Browser standards: superior to IE 9.0, Chrome 23.0 and Firefox 20.0
+    Keep the IP network segment of PC consistent with that of switch but differentiate the IP address as
+you log in. Set PC’s IP address of 192.168.2.x and the subnet mask of 255.255.255.0 for the first login
+(1< x ≤254).
+
+   A login window appears as follows. Type in the default username of “admin” and the password of
+“admin”. Click the “Log in” to see the switch system.
+
+
+
+
+                                                    10
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2.2 Constitution of Client Interface
+   The typical operation interface of Web network management system is as follows.
+
+
+
+
+2.3 Navigation Tree on Web Interface
+   Menu items such as system state, network configuration, port, PoE setting, VLAN function, MAC
+
+                                               11
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+address table, STP, topology discovery, multicast, security, ACL, QoS, device diagnostics and
+management are available on the web network management client. Each item contains submenus.
+Navigation tree is detailed as follows:
+Menu Items   Submenus            Secondary         Description
+                                 Submenus
+Status       System                                Display the port state and product
+             Information                           info
+             Logging                               Display the device running and
+             Message                               operation logs
+             Port                Statistics        Display the detailed port statistics
+                                 Error Disabled    Display the faults occurring to ports
+                                 Bandwidth         Display the bandwidth utilization per
+                                 Utilization       unit time of all ports
+             Link                                  Display the aggregation group state
+             Aggregation                           and members
+             MAC       Address                     Display the MAC address table of
+             Table                                 the current device
+Network      DNS                                   Configure and view the DNS and
+                                                   server setting
+             Hosts                                 Configure and view the DNS Server
+                                                   and dynamic host mapping table
+             System Time                           Configure and view the current
+                                                   system time
+Port         Port Setting                          Configure and view all ports
+             Error Disabled                        Configure     and    view   the    fault
+                                                   protection
+             Link                Group             Configure and view the port &
+             Aggregation                           strategy      balancing     algorithms
+                                                   contained in LAG
+                                 Port Setting      Configure and view the LAG
+                                 LACP              Check LACP system priority and port
+                                                   configuration
+             EEE                                   Configure and view the EEE state
+                                                   and info
+             Jumbo Frame                           Configure and view the length of the
+                                                   max message forwarded by system
+             Port Security                         Configure and view the rate limiting
+                                                   of port security, as well as port state
+             Protected Port                        Configure     and    view   the    port
+                                                   isolation
+
+
+
+                                                  12
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+              Storm Control                           Configure and view the port storm
+                                                      policing
+              Mirroring                               Configure     and    view      the    port
+                                                      mirroring
+VLAN          VLAN                  Create VLAN       Configure and view the VLAN info of
+                                                      the device
+                                    VLAN              Configure     and   view      the    VLAN
+                                    Configuration     configuration of all ports
+                                    Membership        Configure and view the port info of
+                                                      VLANs
+                                    Port Setting      Configure and view the PVID and
+                                                      VLAN attributes of ports
+              Voice VLAN            Property          Configure and view the function
+                                                      switch and port state
+                                    Voice OUI         Configure     and    view      the    OUI
+                                                      performance
+              Protocol VLAN         Protocol Group    Configure and view the protocol
+                                                      VLAN group
+                                    Group Binding     Configure and view the protocol
+                                                      VLAN port and group binding.
+              MAC VLA               MAC Group         Configure and view the MAC VLAN
+                                                      group
+                                    Group Binding     Configure and view the MAC VLAN
+                                                      port and group binding
+              GVRP                  Property          Configure and view the functional
+                                                      system and port state
+                                    Membership        Configure and view the VLANs
+                                                      learned and the port members
+                                    Statistics        Configure and view the message
+                                                      statistics related to ports
+MAC Address   Dynamic                                 Configure and view the dynamic
+Table         Address                                 MAC addresses and aging time of
+                                                      the device
+              Static Address                          Configure and view the static MAC
+                                                      address tables of the device
+              Filtering Address                       Configure     and    view     the    MAC
+                                                      address tables to be filtered
+              Port       Security                     Configure     and    view     the    MAC
+              Address                                 address     table   learned     by    port
+                                                      security
+Spanning      Property                                Configure and view the STP state
+
+
+                                                     13
+                                                            Shenzhen Hongrui Optical Technology Co., Ltd.
+Tree                                                      and attributes
+            Port Setting                                  Configure      and      view   the    port
+                                                          attributions of STP
+            MST Instance                                  Configure and view the instance
+                                                          attributes of STPs
+            MST            Port                           Configure and view the instances
+            Setting                                       (incl. port info) of STPs
+            Statistics                                    Configure      and      view   the    STP
+                                                          message statistics of each port
+Discovery   LLDP                  Property                Configure and view the attributes
+                                                          related to LLDP
+                                  Port Setting            Configure and view the transmitting
+                                                          & receiving state of LLDP at each
+                                                          port
+                                  MED          Network    Configure      and    view     the   MED
+                                  Policy                  network strategy table entry
+                                  MED Port Setting        Configure and view the MED state at
+                                                          each port
+                                  Packet view             Configure and view the detailed
+                                                          LLDP messages at each port
+                                  Local Information       Configure and view the LLDP and
+                                                          LLDP-MED state
+                                  Neighbor                Configure      and    view     the   LLDP
+                                                          neighbor info
+                                  Statistics              Configure and view the transmitting
+                                                          & receiving state of LLDP message
+                                                          at each port
+Multicast   General               Property                Configure and view the function
+                                                          configuration
+                                  Group Address           Configure and view the relevant
+                                                          static multicast info
+                                  Router Port             Configure and view the multicast
+                                                          routed port info
+                                  Forwarding All          Configure and view the multicast
+                                                          forwarding port info
+                                  Throttling              Configure and view the multicast
+                                                          limit at each port
+                                  Filtering Profile       Configure and view the multicast
+                                                          addresses filtered
+                                  Filtering Binding       Configure and view the binding info
+                                                          related to filtering rule and ports
+
+
+                                                         14
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+           IGMP Snooping    Property             Configure and view the switch,
+                                                 version, etc.
+                            Querier              Configure and view the querier state
+                            Statistics           Configure and view the protocol
+                                                 messages
+           MLD Snooping     Property             Configure and view the protocol,
+                                                 switch, etc.
+                            Statistics           Configure and view the protocol
+                                                 messages
+           MVR              Property             Configure and view the attribute info
+                                                 such as switch
+                            Port Setting         Configure and view the state at each
+                                                 port
+                            Group Address        Configure and view the function,
+                                                 VLAN and group address
+Security   RADIUS                                Configure and view the info related
+                                                 to the servers
+           TACACS+                               Configure and view the info related
+                                                 to the servers
+           AAA              Method List          Configure      and     view    the    login
+                                                 authentication method
+                            Login                Configure        and          view     the
+                            Authentication       authentication methods of terminals
+           Management       Management           Configure and view the service
+           Access           Service              management mode and relevant
+                                                 attributes
+                            Management ACL       Configure and view the ACL aiming
+                                                 at management channels
+                            Management ACE       Configure      and     view     the   ACE
+                                                 configuration        of       management
+                                                 channels
+           Authentication   Property             Configure        and          view     the
+           Management                            authentication attributes
+                            Port Setting         Configure        and          view     the
+                                                 authentication info at each port
+                            MAC Local Account    Configure and view the list of MAC
+                                                 local accounts
+                            Web Local Account    Configure and view the list of Web
+                                                 local accounts
+                            Sessions             Configure and view the info related
+                                                 to session authentication
+
+
+                                                15
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+      DoS                 Property               Configure and view the switch
+                                                 option
+                          Port Setting           Configure   and       view   the   switch
+                                                 option at ports
+      Dynamic       ARP   Property               Configure and view the dynamic
+      Inspection                                 ARP inspection
+                          Statistics             Configure and view the messages
+                                                 statistics in APR inspection state at
+                                                 each port
+      DHCP Snooping       Property               Configure and view the switch and
+                                                 state
+                          Statistics             Configure       and   view   the   DHCP
+                                                 message statistics received by each
+                                                 port
+                          Option82 Property      Configure and view the attributes
+                                                 related to Option 82
+                          Option82 Circuit ID    Configure and view the Circuit ID of
+                                                 Option 82
+      IP Source Guard     Port Setting           Configure and view the state at
+                                                 ports
+                          IMPV Binding           Configure and view the binding
+                                                 tables of IP, MAC, Port and VLAN
+                          Save Database          Configure and view the storage and
+                                                 info of the binding table entry
+ACL   MAC ACL                                    Configure and view the MAC ACL
+                                                 rules
+      MAC ACE                                    Configure and view the MAC ACE
+                                                 table entries
+      IPv4 ACL                                   Configure and view the IPv4 ACL
+                                                 rules
+      IPv4 ACE                                   Configure and view the IPv4 ACE
+                                                 table entries
+      IPv6 ACL                                   Configure and view the IPv6 ACL
+                                                 rules
+      IPv6 ACE                                   Configure and view the IPv6 ACE
+                                                 table entries
+      ACL Binding                                Configure and view the ACL rules
+                                                 and the port binding application
+QoS   Basic Function      Property               Configure and view the QoS switch
+                                                 and state
+                          Queue Scheduling       Configure and view the algorithm of
+
+
+                                                16
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+                                                     queue scheduling
+                              CoS Mapping            Configure and view the priority and
+                                                     local queue mapping table
+                              DSCP Mapping           Configure and view the priority and
+                                                     local queue mapping table
+                              IP      Precedence     Configure and view the priority and
+                              Mapping                local queue mapping table
+              Rate Limiting   Ingress/Egress Port    Configure        and         view     the
+                                                     configuration of port rate limiting
+                              Egress Queue           Configure and view the rate limiting
+                                                     configuration        based   on     egress
+                                                     queue
+Diagnostics   Logging         Property               Configure and view the switch and
+                                                     state
+                              Remote Server          Configure and view the address of
+                                                     remote servers
+              Ping                                   Network diagnostics by Ping
+              Traceroute                             Network diagnostics by traceroute
+              Copper Test                            Electrical interface link diagnostics
+                                                     by VCT
+              Fiber Module                           Check the SFP module at optical
+                                                     interfaces
+              UDLD Protocol   Property               Configure and view the switch and
+                                                     state
+                              Neighbor               Configure and view the neighbor
+                                                     state
+Management    User                                   Configure and view the user info
+              Firmware        Upgrade                Update software
+              Configuration   Upgrade                Update configuration files
+                              Save Configuration     Save     the     configuration        files
+                                                     supporting device running
+              SNMP            View                   Configure      and    view the      SNMP
+                                                     function view table entry
+                              Group                  Configure and view the SNMP group
+                              Community              Configure      and    view the      SNMP
+                                                     Community
+                              User                   Configure and view the SNMP user
+                                                     attributes
+                              Engine ID              Configure and view the SNMP and
+                                                     remote Engine IDs
+
+
+                                                    17
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+                                 Trap Event           Configure and view the SNMP Trap
+                                                      switch and state
+                                 Notification         Configure      and   view the     SNMP
+                                                      Notification server state
+               RMON              Statistics           Configure and view the message
+                                                      statistics history of all ports
+                                 History              Configure and view the history
+                                                      record state
+                                 Event                Configure and view the event state
+                                 Alarm                Configure and view the alarm state
+
+
+
+
+3 System Configuration
+
+3.1 System Info
+     According to the switch connected, web network management panel directly displays the port and
+product info, incl.: number of ports, port states, product info, device states, function on-off states, etc.
+Instructions:
+1. Click the “Status > System Information” in the navigation tree as follows:
+
+
+
+
+                                                    18
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+
+    Description:
+    Mouseover a port to check the port No., type, rate and state. “Modify” the “System Name”,
+“Location” and “Contact” in the product info. “Apply” and finish.
+
+
+
+3.2 Network Configuration
+     Change the management IP address on web interface.
+Instructions:
+1. Click the “Routing > IPv4 Management and Interfaces > IPv4 Interface” in the navigation bar to
+    discover IPv4 address of 192.168.2.1/24 by default as follows:
+2. Check the corresponding interface, click Modify to enter the IPv4 address modification interface,
+    input the IPv4 address 192.168.2.10, the subnet mask is 255.255.255.0, and click "Apply".
+
+
+
+
+3.3 User Configuration
+     Users can check and modify the current username, password and authority of the switch.
+Instructions:
+1. Click the “Device Management > User Configuration” in the navigation bar to discover the
+    username of “admin” and the authority of “administrator” by default as follows:
+
+
+
+
+2. “Add” a new user account and “Modify” the selected user attribute as follows:
+
+
+
+
+                                                 19
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+3.4 Log Configuration
+     It configures log switch, info integration, aging time and configuration level. It also uploads the
+switch’s work logs to the TFTP Server.
+
+Instructions:
+
+1. Click the “Diagnostics > Logging > Property” in the navigation bar to switch logs on/off, select the
+   egress terminal, configure the severity level, etc. as follows:
+
+
+
+
+                                                  20
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Click the “Diagnostics > Logging > Remote Server” in the navigation bar to add and view the server
+   configuration as follows:
+
+
+
+
+3. “Add” a new remote log server and “Modify” the selected configuration. “Apply” and finish as
+   follows:
+
+
+
+
+                                                 21
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+3.5 Telnet Configuration
+     Users can enable or disable the Telnet login option on web interface.
+Instructions:
+1. Click the “Security > Management Access > Management Services” in the navigation bar to enable
+    or disable the service by checking the “Telnet” tag. “Apply” and finish as follows:
+
+
+
+
+3.6 HTTPS Configuration
+Users can enable or disable the HTTP & HTTPS login options on web interface.
+Instructions:
+1. Click the “Security > Management Access > Management Services” in the navigation bar to enable
+
+                                               22
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+   or disable the services by checking the “HTTP” and “HTTPS” tags. “Apply” and finish as follows:
+
+
+
+
+3.7 Diagnostics Test
+
+3.7.1 Ping
+
+     Ping command checks the availability of specified IP addresses and host names and transmits
+statistics accordingly.
+Instructions:
+1. Click the “Diagnostics > Ping” in the navigation bar to enter a host name or an IP address, as well as
+    the number of tests as follows:
+
+
+
+
+2. Click the “Ping” to accept the packet-transmitting test from system to verify address validity, and
+   output the result as follows:
+
+
+
+
+                                                   23
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+3.7.2 Traceroute
+
+     Traceroute measures the duration from transmitting a small packet to receiving it back from the
+target device.
+Instructions:
+1. Click the “Diagnostics > Traceroute” in the navigation bar to enter a host name or IP address to
+    define the message existence time as follows:
+
+
+
+
+2. “Apply” to test and output the result as follows:
+
+
+
+
+                                                   24
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+3.7.3 Copper Test
+
+     Copper test evaluates the ingress cable state and locates the faults (about 5 m by error) according
+to the reflected voltage strength
+Instructions:
+1. Click the “Diagnostics > Copper Test” in the navigation bar to select a port for test as follows:
+
+
+
+
+2. Click the “Copper Test” and output the result as follows:
+
+
+
+
+                                                   25
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+4 Port Configuration
+
+4.1 Physical Port
+     Interfaces should be identified so that users can inquire and configure Ethernet interfaces as they
+want.
+Instructions:
+1. Click the “Port > Port Setting” in the navigation bar:
+
+
+
+
+2. Select the port(s) to be configured, and “Modify” as follows:
+
+
+
+
+Configuration items are as follows.
+
+
+                                                   26
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+Configuration        Description
+Items
+Interpretation       Users can identify the specified ports by interpreting them as
+                     required.
+State                Users can enable or disable the ports as required.
+Rate                 Configurable auto negotiation with mandatory 10 Mb, 100 Mb
+                     and 1,000 Mb states. Interface rates including 10 Mbit/s, 100
+                     Mbit/s and 1,000 Mbit/s are available to Ethernet electrical
+                     interfaces and are optional as required.
+Duplex               Configurable auto negotiation with full or half duplexes.
+Flow Control         After it is enabled on both local network and opposite network
+                     devices, the local one will notify the other to stop transmitting
+                     messages in the presence of network congestion. The opposite
+                     one will execute the command temporarily to ensure zero
+                     message loss.
+                     Disable-Disabled reception and transmission of PAUSE frame;
+                     Enable-Enabled reception and transmission of PAUSE frame;
+                     Auto negotiation-Negotiate PAUSE frame with opposite
+                     network devices automatically.
+
+
+
+4.2 Storm Control
+     Storms generated via broadcast, unknown multicast and unicast messages are prevented as follows.
+These messages will be suppressed subject to packet rates respectively. The average rate of the
+messages received by monitoring interfaces will be compared with the max threshold configured during
+an inspection interval. Configured storm policing will be performed at this interface if the average rate
+exceeds the max threshold.
+When a L2 Ethernet interface receives the broadcast, unknown multicast or unicast messages, the
+device will forward them to other L2 interfaces in a same VLAN (Virtual Local Area Network) if the egress
+interface cannot be recognized according to destination MAC addresses. As a result, broadcast storm
+may occur to degrade device operation performance.
+Three kinds of message flow can be controlled by storm policing characteristics to stay away from
+broadcast storms.
+Instructions:
+1. Click the “Port > Storm Control” in the navigation bar to configure the attributes related to storm
+    policing such as mode as follows:
+
+
+
+
+                                                  27
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Select the appropriate port and “Modify” it by configuring the policing rates of broadcast, unknown
+   multicast and unicast storms at each port.
+
+
+
+
+3. Configure info such as storm switch and rate, “Apply” and finish as follows:
+
+
+
+
+                                                   28
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+4.3 Port Rate limit
+     It refers to the rate restriction on transmitting and receiving data at physical interfaces.
+Background:
+     Restrict the rate limiting at the egress before transmitting flow, thus controlling all outgoing
+message flow;
+     Restrict the rate limiting at the ingress before receiving flow, thus controlling all incoming message
+flow;
+Instructions:
+1. Click the “QoS > Rate Limit > Ingress/Egress Port” in the navigation bar to choose a rate-limiting
+    port and check the current configuration as follows:
+
+
+
+
+2. Select the port (s) for rate limiting, “Modify” it at the bottom to switch the function and specify the
+   rate. “Apply” and finish as follows:
+
+
+
+
+Configuration parameters
+
+
+                                                    29
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+Configuration Items                Description
+Ingress         Enabled            Rate limiting switch
+                Rate               Rate ranges from 16 to 1,000,000 Kbps
+Egress          Enabled            Rate limiting switch
+                Rate               Rate ranges from 16 to 1,000,000 Kbps
+
+
+
+4.4 Port Mirroring
+    Port Mirroring copies the message of a specified switch port to the destination port. The copied
+port is the Source Port, and the copying port is the Destination Port. Destination Port accesses to data
+inspection devices so that users can analyze the messages received to monitor network and
+troubleshoot as follows:
+
+
+
+
+Instance
+     PC1 and PC2 access Switch A through interface GE1 and GE2 respectively.
+     Users intend to monitor the messages transmitted from PC2 to PC1.
+
+Instructions:
+1. Click the “Port > Mirroring” in the navigation bar. 4 sets of flow mirroring rules can be configured as
+    follows:
+
+
+
+
+                                                   30
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Select one session and “Modify” it in the mirroring group configuration interface:
+
+
+
+
+Interface data are as follows
+ Configuration          Description
+ Items
+ Session ID            The switch has 4 session IDs by default.
+
+
+                                                   31
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+ State                The mirroring group can be enabled or not.
+ Destination Port     Only one ordinary physical port can be selected, excluding link
+                      aggregation port and source port.
+ Source     Ingress Any message received will be mirrored to the destination port.
+ Port
+ Source Egress Port Any message transmitted will be mirrored to the destination port.
+
+
+
+4.5 Link Aggregation
+     Link Aggregation broadens bandwidth and reliability by bundling a group of physical interfaces
+into a single logical interface.
+LAG (Link Aggregation Group) is a logical link bundled by multiple Ethernet links (Eth-Trunk).
+     Ceaselessly expanding network size increases users’ demands of link bandwidth and reliability.
+Traditionally, high-speed interface board or the compatible equipment is usually replaced to optimize
+bandwidth, which is expensive and inflexible.
+Link Aggregation Technology bundles multiple physical interfaces into a single logical interface without
+upgrading hardware. Its backup mechanism not only improves reliability, but also shares the flow load
+on different physical links.
+     As shown below, Switch A is linked with Switch B through three Ethernet links which are bundled
+into an Eth-Trunk logical link. Its bandwidth equals to that of the three links in total, thus broadening
+the bandwidth. Meanwhile, these three links back up mutually to be more reliable.
+
+
+
+
+Link Aggregation can meet the following demands:
+ Insufficient bandwidth of two switches connected with one link.
+ Insufficient reliability of two switches connected with one link.
+
+
+                                                   32
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+Link Aggregation can be divided into Manual Mode and LACP Mode in accordance with Link
+Aggregation Control Protocol (LACP) state.
+     In the first mode, Eth-Trunk establishment, member interface access should be added manually
+without LACP. It is also called the Load-sharing Mode because all links are involved in data forwarding
+and load sharing. In case any active link fails, LAG will average load with the remaining ones. This mode
+is preferred under the circumstance that two directly connected devices require a larger link bandwidth
+but has no access to LACP.
+
+
+4.5.1 Static Link Aggregation
+
+Instructions for adding a Static Link Aggregation:
+1. Click the “Port > Link Aggregation > Group”, select a load-balancing algorithm with a radio button.
+    “Apply” and finish as follows:
+
+
+
+
+2. Select one of 8 LAGs available, “Modify” the configuration page as follows:
+
+
+
+
+                                                   33
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows
+ Configuration Items          Description
+ LAG                         There are 8 LAGs numbering from 1 to 8.
+ Name                        Description of LAG, which can be modified as needed.
+ Mode                        Select from the manual mode and the LACP mode.
+ Member                      Up to 8 member ports are available in LAG.
+
+
+Illustration:
+      As shown below, Switch A and Switch B connect VLAN 10 and 20 via Ethernet respectively, with
+large data flow between them.
+Both Switch A and B are expected to provide superior link bandwidth for VLAN communication.
+Meanwhile, there should be the redundancy for reliable data transmission and links.
+Networking diagram LAG in manual mode
+
+
+
+
+                                                  34
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Instructions:
+1. Similar to the steps of Switch B configuration, Switch A creates an Eth-Trunk interface and accesses
+member interfaces to broaden link bandwidth. Click the “Port > Link Aggregation > Group”, choose
+“LAG 1” and port GE1, 2 and 3 and move them to the selected ports on the right. “Apply” and finish as
+follows.
+
+
+
+
+4.5.2 LACP
+
+    LACP (Link Aggregation Control Protocol), based on IEEE 802.3ad Standard, dynamically
+
+                                                  35
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+aggregates and disaggregates links. It exchanges info with the opposite network devices through
+LACPDU (Link Aggregation Control Protocol Data Unit).
+After a port uses LACP, it will inform the opposite network device of system priority, system MAC, port
+priority and No., and operation Key by transmitting a LACPDU. The opposite device will compare such
+info with that saved by other ports after receiving it, thus reaching an agreement on port participation in
+or quitting from a dynamic aggregation.
+     Dynamic LACP aggregation is automatically created or deleted by system, that is, internal ports can
+be added or removed by themselves. Only the ports connected to a same device with the same rate,
+duplex, and basic configuration can be aggregated.
+Instructions for adding a dynamic link aggregation:
+1. Click the “Port > Link Aggregation > Group” in the navigation bar, select the LAG ID and LACP
+    mode, “Modify” them as follows:
+
+
+
+
+2. Click the “Port >Link Aggregation > LACP” in the navigation bar to configure the LACP attributes
+   such as system priority, port priority and timeout method as follows:
+
+
+
+
+                                                    36
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows
+ Configuration        Description
+ Items
+ Mode                Static mode and LACP mode
+                     Static mode
+                     A static link aggregation should be created and the member
+                     interfaces should be added for better bandwidth and reliability
+                     between two devices in case LACP is unavailable to one of them.
+                     LACP mode
+                     Links between two devices are able to backup redundantly in the
+                     dynamic LACP mode. Backup links ensure the uninterrupted data
+                     transmission by replacing the partially failed links.
+ System Priority     LACP determines the active and passive modes between two
+                     devices subject to priority standard.
+ Port Priority       LACP determines the dynamic LAG member mode subject to the
+                     port priority with a superior system.
+ Timeout Period      It decides the transmission frequency of LACP messages.
+
+
+
+    Description:
+    Please make sure there is no member interface accessing the Eth-Trunk before changing its work
+pattern, otherwise it fails.
+    Work pattern of the local network devices should be consistent with that of the opposite network
+devices.
+
+                                                  37
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+Illustration
+      Ethernet Switch A aggregates 3 ports from GE1 to GE3 to Switch B, so as to share the load by each
+member port.
+      The following configurations are exampled by means of dynamic aggregation.
+
+
+
+
+    Description:
+     The following is the configuration of Switch A only, which should stay the same with that of Switch
+B for port aggregation.
+
+Instructions:
+1. Click the “Port > Link Aggregation > Group” in the navigation bar, “Modify” with LAG 2, select
+    GE1-GE3 in LACP mode. “Apply” and finish as follows:
+
+
+
+
+                                                  38
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+4.6 Protected Port
+     Messages of broadcast, multicast, etc. will flood at each port even though the flow needs no mutual
+communication sometimes. Under this circumstance, port isolation can separate the messages between
+two ports.
+Instructions:
+1. Click the “Port > Protected Port” in the navigation bar, check the port(s) to be isolated, “Modify” to
+switch this function as follows:
+
+
+
+
+    The following figure illustrates that PC1, 2 and 3 access GE1, 2 and 3 severally, but they are
+expected to be isolated.
+
+Instructions:
+1. Click the “Port > Protected Port” in the navigation bar, check and “Modify” the GE1, 2 and 3 to be
+isolated. “Apply” and finish as follows:
+
+
+
+
+                                                   39
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+    GE1, 2 and 3 fail to communicate mutually like other non-isolated ports.
+
+
+
+4.7 Port Statistics
+a. Introduce the detailed flow statistics of all ports and that to be refreshed or cleared manually by users.
+
+     Note:
+   Cleared flow statistics cannot be restored. Please think twice before operation.
+
+
+
+Instructions:
+1. Click the “Management > RMON > Statistics” in the navigation bar as follows:
+
+
+
+
+    Description:
+“Refresh” to get the updated flow statistics.
+“Clear” to remove the flow statistics at all ports and refresh the page.
+“View” the specified port for detailed flow statistics.
+
+
+b. Introduce the detailed flow statistics at a port and the info to be refreshed or cleared manually by
+
+                                                     40
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+users.
+
+1. Click the “Status > Port > Statistics” in the navigation bar as follows:
+
+
+
+
+    Description:
+ “Clear” the flow statistics at the current port and refresh the page.
+
+
+
+
+5 L2 Configuration
+
+5.1 VLAN Configuration
+     VLAN is formulated not restricted to physical locations, which means the hosts in a same VLAN can
+be placed at will. As shown below, each VLAN, as a broadcast domain, divides a physical LAN into
+logical LANs. Hosts can exchange messages by means of traditional communication. For the hosts in
+different VLANs, the device such as router or L3 switch is a must.
+
+
+
+
+                                                     41
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+VLAN is superior to the traditional Ethernet in terms of:
+ Broadcast domain coverage: the broadcast message in a LAN is limited in a VLAN to save the
+     bandwidth and handle the network-related issues more efficiently.
+ LAN security: VLAN hosts fail to communicate with each other since the messages are separated by
+     the broadcast domain in the data link layer. They need a router or a Layer 3 switch for Layer 3
+     forwarding.
+ Flexibility of creating a virtual working team: VLAN can create a virtual working team beyond the
+     control of physical network. Users have access to the network without changing the configuration if
+     their physical locations are moving within the scope. This management switch is compatible with
+     VLAN types based on 802.1Q, protocols, MAC, and ports. For default configuration, 802.1Q VLAN
+     mode should be adopted. Port VLAN is divided subject to a switch’s interface No. Network
+     administrator gives each switch interface a different PVID, namely a port default VLAN. If a data
+     frame without a VLAN tag flows into a switch interface with a PVID, it will be marked with the same
+     PVID, or it will get rid of an additional tag even though the interface has a PVID.
+ The solution to a VLAN frame depends on the interface type, which eases member definition but
+     re-configures VLAN in case of member mobility.
+a. Instructions for creating a new VLAN:
+1. Click the “VLAN > VLAN > Create VLAN” to select a name in the valid VLAN box, move it to the
+     VLAN creating box on the right (up to 256 VLANs can be created). “Apply” and finish as follows:
+
+
+
+
+                                                  42
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. The VLAN created will be displayed in the VLAN Table. Users can “Modify” the VLAN as follows:
+
+
+
+
+Interface data are as follows.
+  Configuratio Description
+  n Items
+  VLAN ID         It is required to select an ID ranging from 1 to 4,094. For example,
+                  1-3,5,7 and 9. LAN 1 is the default, which won’t be repeated in
+                  another new VLAN.
+  Name            It is optional to modify the VLAN description as required.
+
+
+b. Instructions for adding the current port to a specified VLAN
+     There are two methods. One is to add multiple ports under a single VLAN. The other is to add a
+port to multiple VLANs. They are configured according to different purposes.
+The first method:
+1. Click the “VLAN > VLAN > VLAN Configuration” in the navigation tree, select the VLAN ID on the
+     upper left, and then click the port info as follows:
+
+
+
+
+                                                  43
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+Configuration Items      Description
+VLAN                    VLAN ID to be configured
+Member                  Member roles at the VLAN port:
+                        Excluded: the port is out of this VLAN
+                        Tagged: the port is a tagged member of this VLAN
+                        Untagged: the port is an untagged member of this VLAN
+PVID                    Whether this VLAN is the port PVID
+Forbidden               Whether the VLAN message is forbidden to be forwarded at
+                        this port
+
+The second method:
+1. Click the “VLAN > VLAN > Membership” in the navigation tree, select the port to be configured and
+   “Modify” to configure its attributes:
+
+
+
+
+                                                   44
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+Configuration Items       Description
+Port                     Port No. to be configured
+Mode                     Modify the current VLAN mode in port configuration:
+                         Hybrid: port in this mode can serve as the Tagged &
+                         Untagged members of VLANs.
+                         Access: port in this mode serves as the only one member of
+                         VLAN
+                         Trunk: port in this mode serves as the Untagged member of
+                         PVID only and the Tagged member of VLANs
+Member                   The port is the attribute of VLAN ID and VLAN:
+                         Forbidden: do not forward the VLAN message
+                         Excluded: the port out of the VLAN
+                         Tagged: the Tagged member of the VLAN
+                         Untagged: the Untagged member of the VLAN
+                         PVID: whether the VLAN is the port PVLAN
+
+
+
+
+c. Introduction to 802.1q
+      Trunk configuration. Connected with other switches, Trunk interfaces mainly connect trunk links to
+allow the VLAN frames to flow through. IEEE 802.1q is the encapsulation protocol of Trunk link and
+considers the formal standard for Virtual Bridged Local Area Networks. It changes the frame format of
+Ethernet by adding a 4-bit 802.1q Tag between the source MAC address field and the protocol field.
+802.1q frame format
+
+                                                     45
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Meanings of 802.1q tag fields
+Field     Length Name                                 Analysis
+TPID       2         Tag Protocol Identifier    to It refers to the 802.1q Tag
+           bytes     describe the frame type       frame when the value is
+                                                   0x8,100, which will be discarded
+                                                   if relevant equipment fails to
+                                                   receive it.
+PRI        3 bits    Frame Priority                It ranges from 0 to 7, with the
+                                                   higher priority represented by
+                                                   larger number. Data frame with
+                                                   higher priority will be sent
+                                                   preferentially in case of switch
+                                                   congestion.
+CFI        1 bit     Canonical Format Indicator to MAC address is classical when
+                     reveal whether the MAC CFI is 0 and non-classical when
+                     address is classical or not.  CFI is 1. It promotes the
+                                                   compatibility between Ethernet
+                                                   and token ring. CFI will be 0 in
+                                                   the Ethernet.
+VID        12 bits   VLAN ID indicates the VLAN It ranges from 0 to 4,095, with 1
+                     to which the frame belongs.   to 4,094 valid since 0 and 4,095
+                                                   are the protocol retention
+                                                   values.
+
+     Packets sent by each switch supporting 802.1q protocol contain a VLAN ID to indicate the VLAN to
+which the switch belongs. Therefore, Ethernet frames are divided into two types as follows in a VLAN
+switching network:
+ Tagged frame: it refers to the frame adding a 4-bit 802.1q Tag.
+ Untagged frame: it refers to the original frame without a 4-bit 802.1q Tag.
+     Connected with other switches, Trunk interfaces mainly connect trunk links to allow the VLAN
+frames to flow through.
+
+d. Instructions for trunk interface configuration:
+1. Click the “VLAN > VLAN > Port Setting” in the navigation tree, select the port and “Modify” it to
+   configure the attributes:
+
+
+
+                                                 46
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+Configuration Items          Description
+Port                        Port No. to be configured
+Mode                        Modify the current VLAN mode in the port
+                            configuration:
+                            Hybrid: port in this mode serves as the member of
+                            Tagged and Untagged ports of VLANs
+                            Access: port in this mode serves as the only member of
+                            VLAN
+                            Trunk: port in this mode serves as the only Untagged
+                            member of PVID and the Tagged member of VLANs
+PVID                        Port PVLAN
+
+                                                 47
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+Accept Frame Type          Message types received by ports
+                           All: all messages
+                           Tag Only: only Tagged messages will be received
+                           Untag Only: only Untagged messages will be received
+Ingress Filtering          A switch to decide to filter VLAN messages excluded at
+                           the port
+Uplink                     Whether in uplink mode or not
+TPID                       Identification No. of VLAN Tag
+
+
+Illustration:
+      Connection interfaces and 2 VLANs should be added to support the user communication in VLAN 2
+and 3 of the links between Switch A and B. That is, VLAN 2 and 3 should be added to the GE1-3
+Ethernet Interfaces of Switch A and B.
+
+Instructions:
+     Create VLAN 2 and 3 in Switch A and B. Add GE1 port connected to user interfaces to VLAN2, with
+GE2 to VLAN3. Set GE3 in the trunk work pattern and add it to VLAN2 and 3.
+
+
+
+5.2 MAC VLAN
+     MAC-based VLANs are divided subject to the MAC addresses in the network card. Administrators
+will prepare the mapping scheme between MAC address and VLAN ID which will be added if the switch
+receives untagged frames.
+     Strength: There is no need to re-configure VLAN when the physical location of a terminal user
+changes, which ensures user security and access flexibility. Shortcoming: It applies to the scene where
+network card and simple network environment are infrequently replaced, with members defined in
+advance.
+Instructions:
+1. Click the “VLAN > MAC VLAN > MAC Group” in the navigation tree, and “Add” a new MAC group as
+   follows:
+
+
+
+
+                                                  48
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+Configuration          Description
+Items
+Group ID              MAC VLAN Group ID
+MAC Address           The MAC address to be bound with VLAN
+Mask                  It indicates the MAC address port. Enter 48 if it is an exact
+                      match. Others should be consistent with the masks of IP
+                      addresses.
+
+     For example, a company with high info security requirements allows its PCs only to access the
+internal network. As is shown, switch GE1 connects the uplink ports of Switch A while its downstream
+ports connect PC1, 2 and 3. As a result, PC1, 2 and 3 can access the internal network through Switch A
+and Switch, while other PCs can’t.
+Configuration logic: following steps are used to divide the VLAN based on MAC address.
+1. Create a relevant VLAN.
+2. Add Ethernet interfaces to the VLAN in a correct way.
+3. Connect the VLAN with the MAC addresses of PC1, 2 and 3.
+Data preparation: following data should be prepared for the configuration instance:
+ Set GE1 PVID of 100 on the switch.
+ Set GE1 to access VLAN10 in the Untagged way on the switch.
+ Set GE2 to access VLAN10 in the Tagged way on the switch.
+ Set the Switch A interface by default, namely all interfaces will be added to VLAN1 in an Untagged
+     way.
+ Connect the MAC addresses of PC1, 2 and 3 with VLAN10.
+
+Draw a networking diagram for VLAN division based on MAC addresses:
+Instructions:
+1. Create a VLAN to recognize the VLANs where employees belong. Click the “VLAN > VLAN > Create
+   VLAN” in the navigation tree, add VLAN10 to the VLAN Creating List on the right, “Apply” and finish
+   as follows:
+
+
+
+
+                                                 49
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Configure Switch’s GE1 in Hybrid mode with PVID of 100 to serve as an Untagged member of
+   VLAN10. Configure GE2 in Trunk mode to serve as a Tagged member of VLAN10.
+
+
+
+
+3. Configure the Switch A’s interfaces by default, namely all interfaces access VLAN1 in an Untagged
+   way. Connect the MAC addresses of PC1, 2 and 3 with VLAN10. Click the “VLAN > MAC VLAN >
+   MAC Group” in the navigation tree, enter the MAC addresses of PC1 (0022-0022-0022), PC2
+   (0033-0033-0033) and PC3 (0044-0044-0044), with the mask of 48-bit exact match as follows:
+
+
+
+
+4. Click the “VLAN > MAC VLAN > Group Binding” in the navigation tree, “Add” to select the Hybrid
+
+
+                                                50
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+   port only, MAC group ID to be bound, and specified VLAN ID. “Apply” and finish:
+
+
+
+
+5. Configuration verification
+   Only PC1, 2 and 3 have access to the internal network.
+
+
+
+5.3 Protocol VLAN
+     Protocol-based VLAN distributes different VLAN IDs according to the protocol (family) type and
+encapsulation format of the messages received by the interfaces.
+     Administrators should prepare the mapping scheme between the protocol domain of Ethernet
+frame and VLAN ID which will be added if untagged frames are received. Strength: Such division
+method will enhance the management and maintenance by binding the network services and VLANs.
+Shortcomings: Initial configuration of the mapping relation scheme is necessary. Address formats of
+protocols should be analyzed and converted, thus leading to a lower speed due to a large number of
+resources consumed.
+Instructions:
+1. Click the “VLAN > Protocol VLAN > Protocol Group” in the navigation tree as follows:
+
+
+
+
+                                                 51
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+Interface data are as follows.
+ Configuration Items       Description
+ Group ID                 Protocol VLAN Group
+ Message Type             Frame types: Ether2, LLC, RFC 1042
+ Protocol Value           It ranges from 0x600 to 0xFFFE
+
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish.
+
+
+
+
+4. Click the “VLAN > Protocol VLAN > Group Binding” in the navigation tree to bind the protocol No.,
+   port No. and VLAN ID, to bring the configuration into effect as follows:
+
+
+
+
+                                                  52
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+   Description:
+    Configure the matching protocols IPv4 and IPv6, as well as the ARP protocol.
+    For example, PC1 and 3 can access mutually, with IPv4 communication protocol binding with
+VLAN10. PC2 and 4 can access mutually, with IPv6 communication protocol binding with VLAN20.
+Networking diagram of protocol VLAN division
+
+
+
+
+Instructions:
+1. Create a VLAN to recognize the VLANs where employees belong. Click the “VLAN > VLAN > Create
+   VLAN”, add the VLAN10 and 20 to the VLAN Creating List on the right, “Apply” and finish:
+
+
+
+
+                                              53
+                                                   Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Configure GE2 and GE3 interfaces of Switch A in Hybrid mode. Click the “VLAN > VLAN > Port
+   Setting”, “Modify” the interfaces in Hybrid mode:
+
+
+
+
+3. Add the Untagged GE2 and GE3 to VLAN10 and VLAN20 respectively. Click the “VLAN > VLAN >
+   VLAN Configuration”, drop down the list to choose VLAN10 and the Untagged GE2 port. Following
+   the same steps, add the untagged GE3 to VLAN20 as follows:
+
+
+
+
+                                              54
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+4. Add the Untagged GE2 and GE3 interfaces of Switch B to VLAN whose ports need links. Steps are
+   similar to 2 and 3.
+
+5. Add the Tagged GE1 interface of Switch A to VLAN10 and 20. Click the “VLAN > VLAN > VLAN
+   Configuration”, drop down the list to select VLAN10 and the Tagged member of GE1. Configure
+   VLAN20 similarly.
+
+
+
+
+6. Related protocol and VLAN. VLAN IDs are assigned according to the protocol (family) type and
+   encapsulation format of the messages received by interfaces. Click the “VLAN > Protocol VLAN >
+   Protocol Group” in the navigation tree to add 2 rules for protocol groups:
+
+
+
+
+7. Port, protocol group, and VLAN binding. Click the “VLAN > Protocol Group > Group Binding”, “Add”
+
+
+                                                55
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+  to bind GE2 and binding group ID1 with VLAN10, and to bind GE3 and binding group ID2 with
+  VLAN20:
+
+
+
+
+5.4 Voice VLAN
+     Traditionally, ACL (Access Control List) will be applied to distinguish Voice Data and QoS (Quality of
+Service) will be used to ensure transmission quality, thus enhancing the priority. In order to simplify user
+configuration and facilitate voice flow management, Voice VLAN emerges. Enabled interface judges
+whether it is Voice Data flow or not according to the source MAC address field accessing the interface
+data flow. The message in the source MAC address is the Voice Data flow, which confirms to the OUI
+(Organizationally Unique Identifier) of the voice devices that are configured by the system. The
+interfaces receiving Voice Data flow will automatically transmit to Voice VLAN, thus simplifying user
+configuration and Voice Data management.
+
+OUI of Voice VLAN
+     OUI represents a MAC address field. Its address can be calculated based on the 48-bit MAC
+address and the corresponding bit of mask. The number of bits of ingress MAC address and matching
+OUI is determined by the length of the all-“1” -bit in the mask. For example, if the MAC address is
+1-1-1 and the mask is FFFF-FF00–0000, the result of execution and calculation of MAC address and
+corresponding mask, namely OUI, will be 0001–0000–0000.
+     As long as the first 24 bits of the ingress MAC address are matched with those of OUI, the enabled
+Voice VLAN interface identifies the data flow and the ingress device as the Voice Data flow and voice
+device respectively.
+     Voice VLAN is divided for user Voice Data flow. Voice VLANs are created to connect the interfaces
+linked with voice devices to transmit the Voice Data inside in a centralized way.
+   Voice Data and non-Voice Data often exist in the same network. Voice Data needs a higher priority
+than other business data during transmission to reduce the possible delay and packet loss.
+1. Click the “VLAN > Voice VLAN > Property” in the navigation tree as follows.
+
+
+
+
+                                                    56
+     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+57
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+ Configuration Description
+ Items
+ State           Check and enable the Voice VLAN
+ VLAN            Specify the VLAN ID added ranging from 1 to 4,094, e.g. 1-3, 5, 7
+                 and 9, with VLAN 1 by default. Other VLANs must be added in an
+                 untagged way to the port needing links.
+ CoS Remark      Whether to redefine the Voice VLAN message priority or not
+ Aging Time      Table aging time
+ Port            Enabled Voice VLAN port
+ Mode            Voice VLAN port can be operated in auto mode and manual mode.
+ QoS Strategy    Select the message to be affected by QoS
+
+
+2. Click the “VLAN > Voice VLAN > Voice OUI” in the navigation tree to configure the address
+   segment of OUI of Voice VLAN as follows:
+
+
+
+
+3. Fill in corresponding configuration items.
+4. “Apply” and finish as follows.
+
+
+
+
+                                                58
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+    For example, configure the Voice VLAN in manual mode so that the ports accessing IP telephony
+can ingress/egress the Voice VLAN and transmit voice flow within it. Create VLAN2 to operate Voice
+VLAN securely, which allows only Voice Data to flow through. IP telephony transmits Untagged voice
+flow to GE1, the ingress Trunk port. Users have to customize an OUI (0011-22 31-05e1) and configure
+the Voice VLAN networking diagram in automatic mode.
+
+
+
+
+Instructions:
+1. Create a VLAN to recognize the VLANs where employees belong. Click the “VLAN > VLAN > Create
+   VLAN” in the navigation tree to add VLAN2 to the VLAN list on the right. “Apply” and finish:
+
+
+
+
+                                                59
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Configure the Ethernet interface GE1 of Switch A in Trunk mode. Click the “VLAN > VLAN > Port
+   Setting” in the navigation tree, “Modify” GE1 in Trunk mode:
+
+
+
+
+3. Click the “VLAN > Voice VLAN > Voice OUI” in the navigation tree to configure and add the range
+   of OUI MAC address, and enter the first 24 bits of MAC address of voice device: 00:11:22. “Apply”
+   and finish as follows:
+
+
+
+
+4. Enable the Voice VLAN of port GE1. Click the “VLAN > Voice VLAN > Property” in the navigation
+   tree to enable the global configuration, select VLAN2. Select port GE1 in the configuration list,
+   “Modify” and enable the auto mode. “Apply” and finish as follows:
+
+
+                                                60
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+     Note:
+
+   With the auto mode enabled, ports will forward Voice VLAN messages even though there is no port
+    in VLAN2.
+
+
+
+5.5 MAC Address Table
+    Ethernet switches are mainly innovated to forward according to the purposes in the data link layer.
+That is, MAC address will transmit the messages to corresponding ports according to the purposes.
+MAC address forwarding table is a L2 table illustrating MAC addresses and forwarding ports, which is
+the basis of fast forwarding of L2 messages.
+MAC address forwarding table contains following data:
+ Destination MAC Address
+ VLAN ID belonging to port
+ Forwarding ingress No. of this device
+There are two message forwarding types according to MAC address table info:
+ Unicast mode: the switch directly transmits the messages from the table’s egress when MAC
+    address forwarding table contains corresponding entries with the destination MAC address.
+ Broadcast mode: When the switch receives the messages with the destination address full of F-bits,
+    or there is no entry corresponding to the MAC destination address in the forwarding table, the
+    switch will forward the messages to all ports excluding the receiving port in this way.
+
+
+
+
+                                                  61
+                                                           Shenzhen Hongrui Optical Technology Co., Ltd.
+
+5.5.1 Dynamic Address
+
+     Aging time and table info of MAC addresses can be configured and checked on this page.
+     MAC address table needs constant updates to cater to network changes. It automatically generates
+entries that are limited by their lifetime (i.e. aging time). Those entries not refreshed after expiration will
+be deleted. The aging time of an entry will be recalculated if its record is refreshed before expiration.
+     Proper aging time helps to achieve the aging target of MAC address. Shortage of aging time may
+lead a large number of switches broadcast to discover the packets of destination MAC addresses, thus
+influencing the switch performance.
+Aging too long can cause the switch to save outdated MAC address entries, thus exhausting the
+forwarding resources and failing to update the forwarding table based on network changes.
+     The switch may remove valid MAC address table entries due to too short aging time, thus reducing
+forwarding efficiency.
+Generally speaking, the aging time recommended is 300 seconds by default.
+Instructions for aging time setting:
+1. Click the “MAC Address Table > Dynamic Address” in the navigation tree to the configuration and
+   display interface:
+
+
+
+
+Interface data are as follows
+    Configuration Items Description
+    MAC Aging Time          Enter the aging time of MAC address
+
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish.
+
+   MAC Table stores the MAC address, VLAN No., Ingress/Egress info, etc. that are learned by switches.
+When forwarding data, it will fast locate the device egress in accordance with the destination MAC
+address and VLAN No. query table of Ethernet frames.
+Check the instructions for MAC address table:
+
+
+                                                      62
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+1. Click the “Status > MAC Address Table” to check all MAC address info as follows:
+
+
+
+
+Interface data are as follows.
+    Query         Description
+    Items
+   MAC            Destination MAC Address
+   VLAN           VLAN ID belonging to MAC address
+   Port           Message egress corresponding to MAC address
+   Type           Dynamic MAC Address refers to the entry which will age with the set
+                  aging time. Switches can add entries based on the learning mechanism
+                  of MAC address or manual creation.
+                  Static MAC address refers to the specified table which is manually
+                  configured and won’t age.
+                  Management MAC address refers to the address at the management
+                  port.
+
+
+
+5.5.2 Static Address
+
+    Static table is manually configured by users and distributed to each interface board, which won’t
+age.
+Steps of establishing a static MAC address
+1. Click the “MAC Address Table > Static Address” as follows:
+
+
+
+
+                                                  63
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configurati Description
+ on Items
+ MAC           Required. Enter the new MAC address e.g.: HH:HH:HH:HH:HH:HH
+ VLAN          Required. Specify the VLAN ID
+ Port           Required. Select the interface type and enter the interface name
+                Description: it must be the member port of the configured VLANs.
+2. Fill in corresponding configuration items.
+3. “Apply” and finish.
+
+
+
+5.6 Spanning Tree
+     Redundant links are often used for link backup and network reliability in the Ethernet switching
+network. However, such links will generate loops on the switching network, leading to broadcast storm,
+unstable MAC address list and other faults, thus worsening users’ communication quality, or even
+interrupting the communication. As a result, STP (Spanning Tree Protocol) appears.
+     Same with the development of other protocols, from the original STP defined in IEEE 802.1D, to
+RSTP (Rapid Spanning Tree Protocol) defined in IEEE 802.1W and to MSTP (Multiple Spanning Tree
+Protocol) defined in IEEE 802.1S, STP keeps upgrading.
+     MSTP is compatible with RSTP and STP while RSTP is compatible with STP. The contrast among
+these 3 protocols is shown in the table.
+The contrast among 3 protocols
+ STP        Characteristic                               Application
+ STP        A tree rid of loops as the solution to       All VLANs can be shared
+            broadcast storms and redundant backups.      without discrimination in user
+            It converges slowly.                         or business flow.
+ RSTP       A tree rid of loops as the solution to
+            broadcast storms and redundant backups.
+            It converges rapidly.
+ MSTP       A tree rid of loops as the solution to       Distinguish   the   user   and
+
+
+                                                  64
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+           broadcast storms and redundant backups.       business flow for load sharing.
+           It converges rapidly.                         Different VLANs forward the
+           Spanning trees balance the load among         flow     through      separate
+           VLANs. Flow of different VLANs will be        spanning trees.
+           forwarded subject to paths.
+After STP is deployed, the following objectives can be achieved by calculating the loops with topology:
+ Loop elimination: eliminate possible communication loops by blocking redundant links.
+ Link backups: activate redundant links to restore network connectivity if the active path fails.
+
+
+
+5.6.1 Global Configuration
+
+     Configure STP global parameters. In specific network environment, STP parameters of some
+devices have to be adjusted to achieve the best performance.
+Instructions:
+1. Click the “Spanning Tree > Property” in the navigation tree as follows:
+
+
+
+
+                                                  65
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ Enabled               It is checked by default to enable the spanning tree on behalf of
+                       switches.
+ Running Mode          3 modes are available, namely STP, RSTP and MSTP.
+ Path Cost Mode        In Long mode and Short mode
+ BPDU Forwarding The method to handle the BPDU messages received by the
+ Method          device
+ Priority              Port priority
+
+
+
+                                                  66
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+ Hello Time           Intervals between Hello messages
+ Max Age              Max aging time
+
+ Forward Delay        Forward delay time
+
+ Domain Name           MST domain name. Switch master board sets the MAC address
+                       by default.
+                       Together with the VLAN mapping table of MST domain and the
+                       revision level of MSTP, switch domain name will jointly determine
+                       the domain to which it belongs.
+2. Fill in corresponding configuration items.
+3. “Apply” and finish.
+
+
+
+5.6.2 MST Instance
+
+    A switching network is divided into multiple domains by MSTP, with independent spanning trees
+formed within each domain. Each Spanning Tree is called a MSTI (Multiple Spanning Tree Instance), and
+each domain is called a MST Region: Multiple Spanning Tree Region).
+
+    Description:
+    An instance is a group of VLANs that reduces communication cost and resource utilization rate.
+Each instance, independently calculated with topology, can balance the load. VLANs with the same
+topology can be mapped to a same instance, and they are forwarded according to the port state in
+corresponding MSTP instances.
+    In simple terms, mapped to the specified MST instance, one or more VLANs are distributed to a
+spanning tree at a time.
+
+Instructions:
+1. Click the “Spanning Tree > MST Instance” in the navigation tree, “Modify” the selected spanning tree
+   instances to be configured as follows:
+
+
+
+
+                                                  67
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Description
+ Items
+ MSTI             Instance No. of spanning trees ranges from 0 to 15
+
+
+                                                  68
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+ VLAN            VLAN No. mapped from instances
+ Priority        Set the priority of a multiple of 4,096 for the specified instance,
+                 ranging from 0 to 65,535 with 32,768 as default.
+ Bridge ID   The bridge ID of the spanning tree instance corresponding to this
+             device consists of the priority and MAC address.
+ Root Bridge The elected instance root bridge ID consists of the priority and MAC
+ ID          address.
+ Root Port   The elected instance root port ID
+ Root Cost       Path cost to the root bridge
+
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish as follows.
+
+
+
+
+5.6.3 MST Port Setting
+
+1. Click the “Spanning Tree > MST Port Setting” in the navigation tree, check the port to be modified
+   from the list of all ports of the device, “Modify” to enter the detailed configuration interface as
+   follows:
+
+
+
+
+                                                 69
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration      Description
+ Items
+ MSTI              Select the instance for configuration through the drop-down box in
+                   the upper left.
+ Port              Select the port to be configured by users
+ Path Cost         Enter the path cost value of the interface Use IEEE 802.1t Standard
+                   with the value ranging from 0 to 200,000,000
+ Priority          Select the port priority with smaller value representing higher
+                   priority.
+                   Interface priority affects the role of the interface on the specified
+                   MSTI. On different MSTI, users can configure the priorities for a same
+                   interface. As a result, flow of different VLANs can be forwarded along
+                   physical links to achieve VLAN load sharing.
+                   Description: MSTP will recalculate the interface role and migrate its
+                   state when its priority changes.
+ Port Role         3 types of root ports, namely specified port, backup port and
+                   disabled port.
+ Port State        Including 3 states, namely Discarding, Forwarding and Disabled
+ Mode              Current STP mode
+ Type              The port types in the instance contain boundary and internal ports
+
+
+2. Fill in corresponding configuration items.
+
+
+                                                  70
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+3. “Apply” and finish.
+
+
+
+5.6.4 Port Setting
+
+   In specific network environment, STP parameters of some devices need to be adjusted for the best
+performance.
+1. Click the “Spanning Tree > Port Setting” in the navigation tree, select the port and “Modify” to
+   configure its attributes:
+
+
+
+
+Interface data are as follows.
+
+                                                71
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+ Configuration      Description
+ Items
+ Port               The port No. to configure attributes
+ State              Enable STP or not
+ Edge Port          Rather than another switch or network segment, the edge port
+                    should be connected directly to user terminals. It can quickly transit
+                    to the forward state since topology changes create no loops. An
+                    edge port under configuration is allowed to be quickly transitioned
+                    to forward state by STP. To achieve this, it is recommended that
+                    Ethernet ports connected directly to user terminals should be
+                    configured as edge ports.
+ BPDU Filter        Enable BPDU Filter or not
+ BPDU Guard         Enable BPDU Guard or not. Unchecked by default. If BPDU Guard is
+                    enabled, the device will shut down the interfaces receiving BPDU
+                    and notify the NMS. Such interfaces can only be restored manually
+                    by network administrators.
+ Point-to-Point     Select enabled, shutdown, and auto modes.
+                    Auto mode: it indicates the connect state between the default auto
+                    inspection and point-to-point links.
+                    Enabled mode: it indicates the specific port is connected to the
+                    point-to-point links.
+                    Shutdown mode: it indicates the specific port fails to connect the
+                    point-to-point links.
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish.
+
+Example of MSTP function configuration:
+    Switch A, B, C and D all run MSTP which introduces instances to share the load of VLAN10 and 20.
+MSTP can set up the VLAN mapping table to associate VLANs with spanning tree instances, and to map
+VLAN10 from instance 1 and VLAN20 from instance 2.
+
+
+
+
+                                                   72
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Instructions:
+1. Switch A, B, C and D create VLAN10 and 20 to configure the L2 forwarding function of the devices on
+   the Ring. Click the “VLAN > VLAN > Create VLAN” in the navigation tree, fill in the corresponding
+   configurations. “Apply” and finish as follows.
+
+
+
+
+                                                 73
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+2. VLANs are added to the switch ports ingress loops. Click the “VLAN > VLAN > Membership” in the
+   navigation tree, select the ring port to be configured, move VLAN10 and 20 to the right box and
+   mark them with “Tagged”. “Apply” and finish:
+
+
+
+
+3. Click the “Spanning Tree > Property” in the navigation tree, and choose MSTP mode as follows:
+
+
+
+
+                                                 74
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+4. Configure the VLAN mapping between instance MSTI1 and MSTI2. Click the “Spanning Tree > MST
+   Instance” to fill in corresponding parameters, and “Add” them as follows:
+
+
+
+
+    Note:
+   Set the priority of MSTI1 to 0 and MSTI2 to 4,096 before configuring Switch A.
+   Set the priority of MSTI1 to 4,096 and MSTI2 to 0 before configuring Switch B.
+   The priority must be a multiple of 4,096.
+
+
+
+5. Switch B serves as the root bridge of MSTI2 and the backup root bridge of MSTI1 in the domain.
+   Please refer to 5 for instructions.
+6. The tree-shaped network will eliminate loops.
+
+
+
+5.7 Multicast
+     IGMP Snooping (Internet Group Management Protocol Snooping) is a constraint mechanism on L2
+devices to manage and control multicast groups.
+By analyzing the IGMP messages received, L2 devices establish a mapping between ports and MAC
+multicast addresses and forward the multicast data accordingly.
+As shown below, multicast data are transmitted on L2 without IGMP snooping. When IGMP snooping
+runs, known multicast group data are transmitted to specified receivers while unknown multicast data
+are still on Layer 2.
+
+
+
+
+                                                  75
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+5.7.1 IGMP Snooping
+
+     IGMP Snooping is on the L2 switch between the multicast routers and the user hosts, applicable to
+deploy IPv4 networks. It is configured in a VLAN to snoop the IGMP/MLD messages transmitted
+between routers and hosts, and to establish a L2 forwarding table for multicast data, so as to manage
+and control the multicast data forwarding in L2 network.
+     Global IGMP Snooping function should be enabled since it is disabled by default.
+Instructions:
+1. Click the “Multicast > IGMP Snooping > Property”, select the VLAN to be configured from the created
+   VLAN info, and “Modify” the details as follows:
+
+
+
+
+                                                 76
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Items      Description
+ VLAN                    VLAN ID to be configured
+ State                   Enable or disable the IGMP Snooping in this VLAN
+ Routed Port Learning
+ Fast Leave
+ Number of Query         Max number of multicast queries
+ Query Interval          The interval between message queries
+ Max Response Time Timeout (over the max response time) of a query message
+ of Queries
+ Number of Queries Max number of queries for a specified group
+ for a Specified Group
+ Query Intervals for a The interval between message queries for a specified group
+ Specified Group
+2. Fill in corresponding configuration items.
+3. “Apply” and finish.
+
+                                                    77
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+5.7.2 Group Address
+
+     According to the previous request mode of multicast, the multicast router will copy and forward
+data to each VLAN containing receivers when users in different VLANs request the same multicast
+group, which wastes a great deal of bandwidth. IGMP Snooping configures multicast VLAN by
+connecting the different users of switch ports to a same multicast VLAN to receive multicast data. In this
+way, multicast flow can only be transmitted within a multicast VLAN, thus saving bandwidth. In addition,
+security and bandwidth are guaranteed because multicast VLANs are completely isolated from user
+VLANs.
+Instructions
+1. Click the “Multicast > Group Address”, “Add” a new static multicast item, and “Modify” the existing
+   ones as follows:
+
+
+
+
+Interface data are as follows.
+
+
+
+                                                   78
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+ Configuration        Description
+ Items
+ VLAN                 VLAN ID to which the multicast group belongs. Drop down to
+                      select an existing VLAN.
+ IP Version           Whether v4 or v6 is the version of multicast IP address
+ Multicast Address    Enter the multicast address
+ Member               Add multicast member(s)
+
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish as follows.
+
+
+
+
+6 Security
+
+6.1 DoS Attack Resistance
+
+6.1.1 Property
+
+     Enable the Attack Resistance option to make the switch more secure.
+Instructions
+1. Click the “Security > DoS > Property” to the “DoS Global Configuration” to enable the “PoD Attack
+Resistance”, “Land Attack Resistance”, “Source/Destination MAC Same Packet Discarding”, “ICMP
+Fragment Packet Discarding”. “Apply” and finish as follows.
+
+
+
+
+                                                    79
+                                                           Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+6.1.2 Port Setting
+
+     DoS attack resistance is enabled based on ports.
+Instructions
+1. Click the “Security > DoS > Port Setting” as follows:
+
+
+
+
+                                                    80
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+2. Select and “Modify” the port to enable or disable the DoS attack resistance function as follows.
+
+
+
+
+6.2 DHCP Snooping
+     For sake of security, the network administrator may need to record the IP address of a user surfing
+the Internet and to confirm the correspondence between the IP address obtained from DHCP Server
+and the host’s MAC address.
+     Switch can record the user’s IP address through the secure DHCP relay at the network layer.
+     Switch can monitor DHCP messages and record the user’s IP address through DHCP Snooping at
+the data link layer. In addition, private DHCP Server in the network may lead to wrong IP address for the
+user. To ensure that users obtain IP addresses through legal DHCP Server, the DHCP Snooping security
+mechanism divides the ports into Trust Port and Untrust Port.
+     Trust Port directly or indirectly connects legal DHCP Server. It forwards the DHCP messages
+received to ensure the correct IP address for DHCP Client. Untrust Port connects illegal DHCP Server.
+DHCPACK and DHCPOFFER messages received from the DHCP Server on the Untrust Port will be
+discarded to prevent incorrect IP addresses.
+
+
+
+
+                              Typical Networking of DHCP Snooping
+The following methods are used to obtain the IP address and user MAC address from DHCP Server:
+
+
+                                                   81
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+   Snooping the DHCPREQUEST message
+   Snooping the DHCPACK message
+
+
+
+6.2.1 DHCP Snooping Global Configuration
+
+     Enable DHCP Snooping
+Instructions:
+1. Click the “Security > DHCP Snooping > Property”. DHCP Snooping interface is divided into global
+   configuration and port configuration. Select the port to be modified in the port configuration and
+   “Modify” the details as follows:
+
+
+
+
+                                                 82
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Items       Description
+ State                    Enable and disable the DHCP Snooping
+ VLAN                     Valid VLAN No. of DHCP Snooping
+ Port                     Configure the port No. of DHCP Snooping
+ Trust                    Whether the port is a Trust Port
+ Client        Address Whether the consistency inspection for Client addresses is
+ Inspection            enabled
+ Rate Limit            Whether the port enables rate limit and configures the
+                       value
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish as follows.
+
+
+
+
+6.2.2 Static Binding
+
+     In DHCP network, users (non-DHCP users) obtaining IP addresses statically may attack the network
+by imitating DHCP Server, constructing DHCP Request message, etc. Legal DHCP users may suffer from
+security risks when using the network normally.
+     Enabling the static MAC entries based on the interface generated by DHCP Snooping binding table
+can prevent such attacks. The device then, based on the DHCP Snooping binding table corresponding
+to all DHCP users, automatically executes the command to generate static MAC entries and disable the
+
+                                                   83
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+interface’s learning ability of dynamic entries. Only messages that match the source MAC and static
+MAC entries can flow through the interface. Therefore, for non-DHCP users, only the messages of static
+MAC entries that are manually configured by the administrators can flow through, while others will be
+discarded.
+Instructions:
+1. Click the “Security > IP Source Guard > IMPV Binding”, “Add” a new binding group of
+   IP-MAC-Port-VLAN as follows:
+
+
+
+
+Interface data are as follows.
+ Configuration Description
+ Items
+ Port             The port No. of binding group
+ VLAN             VLAN ID bound
+ Binding          Select the binding relation from IPMV and IPV
+ MAC Address      MAC address bound
+ IP Address       IP address bound
+
+
+2. Fill in corresponding configuration items.
+3. “Apply” and finish as follows.
+
+
+
+
+                                                  84
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+6.2.3 DHCP Snooping Option82
+
+    Private DHCP Servers in the network may lead to wrong IP addresses obtained by users. DHCP
+Snooping security mechanism based on PS7024 Ethernet switch divides the ports into Trust Port and
+Untrust Port in order to provide the IP addresses through legal DHCP Servers.
+ Trust Port directly or indirectly connects legal DHCP Server. It ensures the correct IP address for
+    DHCP Client by forwarding the DHCP messages received.
+ Untrust Port connects illegal DHCP servers. DHCP ACK and DHCPOFFER messages responded by
+    DHCP Server on untrusted ports will be discarded to prevent incorrect IP addresses.
+    Option 82 is the Relay Agent Information Option in DHCP messages, which records the location of
+DHCP Client. When the DHCP relay (or DHCP Snooping device) receives the Request message sent from
+DHCP Client to DHCP Server, administrators can add the Option 82 to locate the DHCP Client and
+control the security, cost, etc. More flexible approaches to address allocation are created by the servers
+supporting Option 82 in line with the IP addresses and other parameters allocation policies.
+    Up to 255 sub-options are contained in the Option 82. At least one sub-option should be defined if
+Option 82 is defined. The current device supports 2 sub-options: Circuit ID Sub-option and Remote ID
+Sub-option
+    Manufacturers usually fill options as needed since RFC 3046 fails to uniform the Option 82 options.
+As the DHCP relay device, Ethernet switch supports the extended padding formats for Option 82
+sub-options and the padding defaults are as follows:
+ Sub-option 1: VLAN No. and port index (port physical number minuses 1) of the port receiving the
+    Request message sent by DHCP Client.
+ Sub-option 2: bridge MAC address of DHCP relay device receiving the DHCP Client Request
+    message.
+    Sub-option 1: VLAN No. and port index (port physical number minuses 1) of the port receiving the
+Request message sent by DHCP Client as follows.
+
+
+
+
+   Sub-option 2: bridge MAC address of DHCP relay device receiving the DHCPREQUEST message of
+DHCP Client.
+
+                                                   85
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+DHCP Relay Supporting Mechanism of Option 82
+     The processes of DHCP Client acquiring IP address from DHCP Server through DHCP relay is
+basically the same as that directly from DHCP Server. Steps of discovery, provision, selection, and
+validation are essential. The supporting mechanism of DHCP relay is introduced as follows:
+(1) DHCP relay will check the Option 82 in the DHCPREQUEST message received and handle it
+accordingly.
+ For existing Option 82 messages, DHCP relay will process according to the configuration policies
+     (discarding, replacing with relay Option 82, or maintaining original Option 82), and then forward to
+     DHCP Server.
+ For messages without Option 82, DHCP relay will add and forward the new messages to DHCP
+     Server.
+(2) DHCP relay will peel off Option 82 from the response message received from DHCP Server, and then
+forward the message with DHCP configuration info to DHCP Client.
+
+
+    Description:
+     DHCP Client transmits a DHCPDISCOVERY message and a DHCPREQUEST message. DHCP relay
+will add Option 82 to both messages due to different processing mechanisms of DHCP Servers of
+manufacturers for Request message. Some devices handle Option 82 in the DHCPDISCOVERY message,
+while others handle it in the DHCPREQUEST message.
+
+     A switch configured with DHCP Snooping and Option 82 functions receives DHCPREQUEST
+messages with Option 82 sent by DHCP Clients. DHCP Snooping takes different processing mechanisms
+according to different configuration processing strategies and sub-option contents.
+Instructions:
+1. Click the “Security > DHCP Snooping > Option82 Property”. Global and port configurations are
+   contained. Select the port to be configured and “Modify” the details as follows:
+
+
+
+
+                                                   86
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Items Description
+ Remote ID             Fill in the Remote ID fields in Option 82 (such as
+                       user-defined abcd)
+ Port                  Whether the port No. of Option 82 is enabled
+ Untrust Port Access   Untrust Port processes messages with Option 82 enabled:
+                       Maintaining: leave Option 82 in the message unchanged and
+                       forward it
+                       Discarding: discard the message
+                       Replacing: replace and forward the Option 82 field in the
+                       message according to the Circuit ID configuration
+
+
+   Description:
+     Option 82 field independently configures Circuit ID or Remote ID sub-options.
+It can be configured individually or simultaneously in no particular order.
+DHCP Option 82 must be configured in the user bar, otherwise DHCP messages sent to DHCP Server
+won’t carry Option 82.
+When receiving the DHCP response message from DHCP Server, the message containing Option 82 will
+be forwarded after deleting the field, or forwarded directly if the message contains no Option 82.
+
+
+
+                                                87
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+2. Fill in corresponding configuration items.
+3. “Apply” and finish as follows.
+
+
+
+
+  Illustration of DHCP Snooping Typical Configuration
+As shown below, Switch port GE1-5 is connected to DHCP Server, and ports GE1-1, 2 and 3 are
+connected to DHCP Client A, B and C respectively.
+ Enable the DHCP Snooping on the switch.
+ Set the GE1-5 as the trust port of DHCP Snooping.
+ Enable the Option 82 supporting function on the switch. For GE1-3 message flowing through the
+     port, fill in the Option 82 according to the default configuration of Circuit ID and Remote ID.
+
+
+
+
+Instructions:
+
+
+                                                88
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+1. Enable the DHCP Snooping of switch. Click the “Security > DHCP Snooping > Property” in the
+   navigation tree to enable the function as follows:
+
+
+
+
+2. Set the GE1-5 as the trust port of DHCP Snooping, fill in corresponding configurations and “Modify”
+   as follows:
+
+
+
+
+3. Configure on the port GE1-3 so that user defined remote ID can be set by Option 82. Click the
+   “Security > DHCP Snooping > Option82 Property”, check and configure the port. “Apply” and finish
+   as follows:
+
+
+
+
+                                                 89
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+4. Configure on the port GE1-3 so that the circuit ID can be set by Option 82. Click the “Security >
+   DHCP Snooping > Option82 Circuit ID” to configure the port. “Apply” and finish as follows:
+
+
+
+
+7 ACL
+
+     Expanding network scale and mounting flow strengthen the position of network security control
+and bandwidth allocation. Packet filtering prevents illegal users from accessing, control flow and saves
+network resources. ACL (Access Control List) filters packets by configuring the message matching rules
+and processing methods.
+     The switch port receiving messages analyzes the field according to the current ACL rules. Once a
+particular message is identified, it will be allowed or forbidden to flow through according to
+predetermined policies.
+     The packet matching rules defined by ACL can also be referenced by other functions requiring flow
+distinction such as the definition of QoS flow classification rules.
+ACL can filter packets by setting matching rules and processing methods. ACL is a collection of
+permission and denial conditions applicable to packets. When the interface receives the packets, the
+switch compares the fields and ACL to determine the permitted and denied packets subject to specified
+standards. ACL classifies packets by matching conditions, which can be the source/destination MAC
+address, source/destination IP address, port No. and so on. ACL classifies packets by matching
+conditions, which can be the source/destination address, port No., etc. ACL can be divided into the
+following categories according to application purposes:
+     Basic IP ACL formulates rules based only on the source IP address of packets. ACL ID ranges from
+100 to 999. Advanced IP ACL prepares rules according to packets’ source/destination IP address,
+protocol types carried by IP, and Layer 3 or 4 info such as protocol characteristics. ACL ID ranges from
+100 to 999.
+     L2 ACL: Rules are made according to the packets’ source/destination MAC address, 802.1p priority,
+and L2 info such as protocol type. ACL ID ranges from 1 to 99.
+
+
+
+7.1 MAC ACL
+     L2 ACL: Rules are made according to source/destination MAC address, VLAN priority, and L2 info
+such as protocol type.
+Instructions:
+
+                                                  90
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+1. Click on the “ACL > MAC ACL” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration Items              Description
+ ACL Name                         Name the MAC ACL Rules
+
+
+2. Click on the “ACL > MAC ACE” in the navigation tree, “Add” the ACL name as follows:
+
+
+
+
+Interface data are as follows.
+ Configuration Items              Description
+ ACL Name                         ACL rule list is prepared based on MAC ACL
+                                  configuration.
+
+3. Fill in corresponding configuration items.
+
+
+
+
+                                                  91
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ Serial No.             MAC ACL ranges from 1 to 2,147,483,647
+ Action              ACL actions are divided into “Permit” or “Deny”, as well as
+                     “Shutdown”.
+ Source          MAC Enter the source MAC address and mask of ACL rules with the
+ Address             format of H.H.H.H.H.H. Select “Any” to represent any MAC
+                     address
+ Destination     MAC Enter the destination MAC address and mask of ACL rules with
+ Address             the format of H.H.H.H.H.H. Select “Any” to represent any MAC
+                     address
+ Ethernet Type          Enter the Ethernet type of ACL rules ranging from 0 x 600 to 0 x
+                        ffff, select “Any” to represent any type.
+ VLAN                   Enter the VLAN of ACL rules ranging from 1 to 4,094, select “Any”
+                        to represent any VLAN
+ 802.1p                 Enter the VLAN priority and mask of ACL rules ranging from 1 to
+                        7, select “Any” to represent any VLAN priority
+
+4. “Apply” and finish as follows.
+
+
+
+
+                                                   92
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+7.2 IPv4 ACL
+     IPv4-based ACL (Basic IP ACL) formulates rules as per the source IP address of packets only. ACL ID
+ranges from 100 to 999.
+     Advanced IP ACL Rules are made according to the packets’ source/destination IP address, protocol
+type carried by IP, and Layer 3 or 4 info such as protocol characteristics. ACL ID ranges from 100 to 999.
+Instructions
+1. Click on the “ACL > IPv4 ACL” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration Items              Description
+ ACL Name                         Name the IPv4 ACL rules
+
+
+2. Click on the “ACL > IPv4 ACE” in the navigation tree, “Add” the ACL Name as follows:
+
+
+
+
+Interface data are as follows.
+ Configuration Items              Description
+ ACL Name                         ACL rule list is made based on IPv4 ACL configuration.
+
+
+3. Fill in corresponding configuration items.
+
+
+
+
+                                                   93
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Items Description
+ No.                 IPv4 ACL ranges from 1 to 2,147,483,647.
+ Action              ACL actions are divided into “Permit” or “Deny”, as well as
+                     “Shutdown”.
+ Protocol            It is required to select the protocol type such as ICMP, TCP and
+
+                                               94
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+                        UDP. Select “Any” to represent any protocol.
+ Source IP              Enter the source IP and mask of ACL rules. Select “Any” to
+                        represent any source IP.
+ Destination IP         Enter the destination IP and mask of ACL rules. Select “Any” to
+                        represent any destination IP.
+ Service Type           Enter the service type of ACL rules, such as DSCP (0-63) and IP
+                        priority (0-7). Select “Any” to represent any service type.
+ Source Port            Enter the source port of ACL rules, such as single port No. or
+                        range segment (0-65,535). Select “Any” to represent any source
+                        port.
+ Destination Port       Enter the destination port of ACL rules, such as single port No. or
+                        range segment (0-65,535). Select “Any” to represent any
+                        destination port.
+ TCP Flags              Enter the TCP flags of ACL rules, such as URG, ACK, PSH, RST,
+                        SYN, FIN, with the actions such as “Set”, “Unset” and “Don’t care”.
+ ICMP Type              Enter the ICMP message type of ACL rules. Select “Any” to
+                        represent any ICMP type.
+ ICMP Field             Enter the ICMP field value of ACL rules. Select “Any” to represent
+                        any field value.
+
+3. “Apply” and finish as follows.
+
+
+
+
+7.3 IPv6 ACL
+Instructions
+1. Click the “ACL > IPv6 ACL” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration Items                Description
+ ACL Name                           Name the IPv6 ACL rules
+
+
+                                                    95
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+2. Click the “ACL > IPv6 ACE” in the navigation tree, “Add” the ACL Name as follows:
+
+
+
+
+Interface data are as follows.
+ Configuration Items              Description
+ ACL Name                         ACL rule list is made based on IPv6 ACL configuration.
+
+
+3. Fill in corresponding configuration items
+
+
+
+
+                                                   96
+                                                    Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Items Description
+ No.                 IPv6 ACL ranges from 1 to 2,147,483,647.
+ Action              ACL actions are divided into “Permit” or “Deny”, as well as
+                     “Shutdown”.
+ No.                 MAC ACL ranges from 1 to 2,147,483,647.
+ Protocol            It is required to select the protocol type such as ICMP, TCP and
+                     UDP. Select “Any” to represent any protocol.
+
+                                               97
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+ Source IP              Enter the source IP and mask of ACL rules. Select “Any” to
+                        represent any source IP.
+ Destination IP         Enter the destination IP and mask of ACL rules. Select “Any” to
+                        represent any destination IP.
+ Service Type           Enter the service type of ACL rules, such as DSCP (0-63) and IP
+                        priority (0-7). Select “Any” to represent any service type.
+ Source Port            Enter the source port of ACL rules, such as single port No. or
+                        range segment (0-65,535). Select “Any” to represent any source
+                        port.
+ Destination Port       Enter the destination port of ACL rules, such as single port No. or
+                        range segment (0-65,535). Select “Any” to represent any
+                        destination port.
+ TCP Flags              Enter the TCP flags of ACL rules, such as URG, ACK, PSH, RST,
+                        SYN, FIN, with the actions such as “Set”, “Unset” and “Don’t care”.
+ ICMP Type              Enter the ICMP message type of ACL rules. Select “Any” to
+                        represent any ICMP type.
+ ICMP Field             Enter the ICMP field value of ACL rules. Select “Any” to represent
+                        any field value.
+
+4. “Apply” and finish as follows.
+
+
+
+
+7.4 ACL Binding Configuration
+     Once the list is created, it must be bound to each required interface.
+Instructions:
+1. Click the “ACL > ACL Binding” in the navigation tree as follows.
+
+
+
+
+                                                    98
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ MAC ACL               MAC ACL name bound to the port
+ IPv4 ACL              IPv4 ACL name bound to the port (mutually exclusive with IPv6
+                       ACL)
+ IPv6 ACL              IPv6 ACL name bound to the port (mutually exclusive with IPv4
+                       ACL)
+
+2. Fill in corresponding configuration items, taking the created MAC ACL a, IPv4 ACL b, IPv6 ACL c as
+examples.
+3. “Apply” and finish as follows.
+
+
+
+
+8 QoS
+
+     QoS (Quality of Service) assesses the ability of service providers to meet customer needs and the
+ability of transmitting packets over the Internet. Diversified services can be assessed based on different
+aspects. QoS usually refers to the evaluation of service capabilities that support core requirements such
+as bandwidth, delay, delay variation, and packet loss rate during delivery. Bandwidth, also known as
+throughput, refers to the average rate of business flow in a given period of time, with the unit of Kbit/s.
+Delay refers to the average time required for business flowing through the network. For a network
+device, the followings are general levels of delay requirements. There are two delay levels, that is, the
+high-priority business can be served as soon as possible by scheduling method of priority queue, while
+the low-priority business gets services after that. Delay variation refers to the time change of business
+flowing through the network. Packet loss rate refers to the percentage of lost business flow during
+transmission. As modern transmission systems are very reliable, information is often lost in network
+congestion. Packet loss due to queue overflow is the most common situation.
+     All messages in a traditional IP network are treated equally. Every network device processes the
+
+                                                    99
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+messages on a FIFO basis, and makes every effort to transmit them to destinations without
+guaranteeing reliability, transfer delay, or other performance.
+     Network service quality is constantly improved as new applications keep springing up in the rapidly
+changing IP network. For example, VoIP, video and other delay-sensitive services have set higher
+standards on message transmission delay. Message transmission in a short period has been the
+common trend. In order to support voice, video and data services with different requirements, the
+network needs to identify business types and provide corresponding services.
+     The ability to distinguish business types is the prerequisite to provide corresponding services, so
+the traditional best-effort service no longer meets the application needs. Therefore, QoS comes into
+being. It regulates the network flow to avoid and handle network congestion and reduce packet loss
+rate. Meanwhile, users can enjoy dedicated bandwidths while business can improve service quality, thus
+perfecting the network service capacity.
+     QoS priorities vary with message types. For instance, the VLAN message uses 802.1p, also known as
+the CoS (Class of Service) field, while the IP message uses DSCP. To maintain the priority, these fields
+need to be mapped at the gateway connected with various networks when messages flow through the
+network.
+802.1p priority in the VLAN frame header
+     Typically, VLAN frames are interacted between Layer 2 devices. The PRI field (i.e. 802.1p priority), or
+CoS field, in the VLAN frame header identifies the quality of service requirements according to the
+definitions in IEEE 802.1Q.
+802.1p priority in the VLAN frame
+
+
+
+
+     The 802.1Q header contains 3-bit PRI fields. PRI field defines 8 CoS of business priority ranging
+from 7 to 0 from high to low.
+IP Precedence/DSCP Field
+     According to RFC791 definition, ToS (Type of Service) domain in the IP message header is
+composed of 8 bits. Among them, the 3-bit long Precedence field, as located in the following, identifies
+the IP message priority.
+IP Precedence/DSCP Field
+
+
+
+
+                                                    100
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+     0 to 2 bits are Precedence fields representing the 8 priorities of message transmission ranging from
+7 to 0 from high to low, with either Level 7 or 6 as the highest priority that is generally reserved for
+routing or updating network control communication. User-level applications only have access to Level 0
+to 5.
+     ToS domain, in addition to Precedence fields, also includes D, T and R bits: D-bit represents the
+Delay requirement (0 for normal delay and 1 for low delay). T-bit represents the throughput (0 for
+normal throughput and 1 for high throughput). R-bit represents the reliability (0 for normal reliability
+and 1 for high reliability). ToS domain reserves the 6 and 7 bits.
+     RFC1349 redefines the ToS domain by adding a C-bit to represent the Monetary Cost. The IETF
+DiffServ group then redefines the 0 to 5 bits of ToS domain in the IPv4 message header of RFC2474 as
+DSCP and renames it as DS (Differentiated Service) byte as shown in the figure above.
+     The first 6 bits (0-5 bits) of DS field distinguish the DSCP (DS Code Point), and the higher 2 bits (6-7
+bits) are reserved. The lower 3 bits (0-2 bits) are CSCP (Class Selector Code Point), with the same CSCP
+value representing the DSCP of the same class. DS nodes select corresponding PHB (Per-Hop Behavior)
+according to DSCP values.
+
+
+
+8.1 QoS General Configuration
+
+8.1.1 Basic Configuration
+
+    Network congestion resulting from the competition for resource use rights among messages at the
+same time is usually solved by queue scheduling, thus avoiding intermittent congestions. Queue
+scheduling technologies include SP (Strict-Priority), WFQ (Weighted Fair Queue), WRR (Weighted
+Round Robin), and DRR (Deficit Round Robin, which is also expanded from RR technology).
+
+Instructions for global and port scheduling configuration
+1. Click the “QoS > General > Property” in the navigation tree as follows.
+
+
+
+
+                                                    101
+                                                             Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data of global configuration are as follows.
+ Configuration         Description
+ Items
+ State                 Switch of global QoS function
+ Trust Mode            It can be divided into CoS, DSCP, CoS-DSCP and IP priority
+
+
+Interface data of port configuration are as follows.
+ Configuration          Description
+ Items
+ CoS                   Ranging from 0 to 7
+ Port Trust Mode       Switch of port QoS function
+ CoS                   Mark the CoS field
+ DSCP                  Mark the DSCP field
+ IP Priority           Mark the IP Priority field
+
+
+
+8.1.2 Queue Scheduling
+
+1. Click the “QoS > General > Queue Scheduling”. “Apply” and finish as follows.
+
+
+
+
+                                                       102
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ SP                    SP mode
+ WRR                   WRR mode
+ Weight                Bandwidth percentage of WRR accounted for by Queue
+
+
+
+8.1.3 CoS Mapping
+
+1. Click the “QoS > General > CoS Mapping” in the navigation tree. “Apply” and finish as follows.
+
+
+
+
+                                                  103
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ SP                    SP mode
+ WRR                   WRR mode
+ Weight                Bandwidth percentage of WRR accounted for by Queue
+
+
+
+8.1.4 DSCP Mapping
+
+1. Click the “QoS > General > DSCP Mapping”. “Apply” and finish as follows.
+
+
+
+
+                                                 104
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ SP                    SP mode
+ WRR                   WRR mode
+ Weight                Bandwidth percentage of WRR accounted for by Queue
+
+
+
+
+                                               105
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+8.1.5 IP Precedence Mapping
+
+1. Click the “QoS > General > IP Precedence Mapping”, enter this page and click “Apply”, finish as
+   follows.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ SP                    SP mode
+ WRR                   WRR mode
+ Weight                Bandwidth percentage of WRR accounted for by Queue
+
+
+
+
+                                               106
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+9 LLDP Configuration
+
+     LLDP (Link Layer Discovery Protocol) is defined in IEEE 802.1ab. It is a standard L2 discovery method
+which integrates the info such as management addresses, device and interface identifications of local
+network devices and transmits to the neighbor devices. After receiving the info, they will save it in form
+of standard MIB (Management Information Base) for NMS query and link communication judgment.
+     It can also integrate the info and transmit to its own remote devices. The info received by the local
+network device will be kept in the form of MIB. The following shows how it works.
+Block diagram of LLDP principles
+
+
+
+
+LLDP is realized based on:
+ LLDP module updates its local system MIB, as well as the customized extension MIB, through the
+    interaction between LLDP agent and MIBs of physical topology, entity, interface and other types.
+ Encapsulate the info of local network device into LLDP frames and transmit to the remote device.
+ Receive the LLDP frame sent by the remote device to update LLDP remote system MIB and
+    customized extension MIB.
+ Master the info of remote device such as connection interface and MAC address through the
+    transmitting & receiving function of LLDP agent.
+ The local system MIB stores local device info, including device and interface IDs, system name and
+    description, interface description, network management address, etc.
+ The remote system MIB stores local device info, including device and interface IDs, system name
+    and description, interface description, network management address, etc.
+      Based on LLDP, LLDP-MED allows other units to expand. The info checked by network devices
+facilitates fault analysis and deepens the accurate understanding of network topology by management
+system.
+
+
+
+
+                                                   107
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+9.1 LLDP Configuration
+Instructions:
+1. Click the “Discovery > LLDP > Property” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ State                 Enable or disable the LLDP
+ LLDP      Message LLDP messages will be processed by means of “Filtering”,
+ Processing        “Bridging” and “Flooding” when disabling the LLDP.
+ Transmission       30s by default ranging from 5 to 32,768s.
+ Period
+ Hold Multiplier       Transmission period product with 4 by default ranges from 2 to
+                       10. Transmission period * product should be no more than
+                       65,535.
+ Delay                  2s by default ranging from:1 to 10s.
+ Re-initialization
+ Transfer Delay        2s by default ranging from:1 to 8,191s.
+ Repeat      Count 3s by default of the LLDP-MED port ranging from 1 to 10s.
+ Quick Start
+Ethernet message encapsulated with LLDPDU (LLDP Data Unit) are recognized as LLDP message. Each
+TLV is a unit of LLDPDU carried with specified info.
+2. Fill in corresponding configuration items
+
+
+                                                    108
+                                                               Shenzhen Hongrui Optical Technology Co., Ltd.
+3. “Apply” and finish.
+
+
+
+9.2 Port Setting
+Instructions
+1. Click the “Discovery > LLDP > Port Setting” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration           Description
+ Items
+ Port                    Multiple ports are available.
+ Transmitting   & LLDP transmitting & receiving mode
+ Receiving Mode
+ Selected TLV     Info of selected TLV and VLAN
+
+
+    LLDP can work in 4 patterns: Transmit: transmit LLDP messages only; Receive: receive LLDP
+messages only; Normal: transmit and receive LLDP messages; Disable: neither transmit nor receive LLDP
+messages.
+2. Check corresponding port and “Modify” the port configuration. “Apply” and finish as follows.
+
+
+
+
+                                                         109
+                                                           Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Port                 Multiple ports are available
+ Transmitting   & LLDP transmitting & receiving mode. Transmit: transmit LLDP
+ Receiving Mode   messages only; Receive: receive LLDP messages only; Normal:
+                  transmit and receive LLDP messages; Disable: neither transmit
+                  nor receive LLDP messages.
+ Optional TLV     Select the info of TLV and VLAN
+ VLAN Name            Select the VLAN name
+
+
+
+9.3 Neighbor
+Instructions for LLDP neighbor displaying
+1. Click the “Discovery > LLDP > Neighbor” in the navigation tree as follows.
+
+
+
+
+                                                     110
+                                                           Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+10 DHCP
+
+10.1 DHCP Server brief introduction
+     With the expansion of network scale and the improvement of network complexity, network
+configuration is becoming more and more complex. Computer location changes (such as portable
+computer or wireless network) and the number of computers exceeds the IP address that can be
+allocated.
+     Dynamic Host Configuration Protocol (DHCP) is developed to meet these requirements. The DHCP
+protocol works in the client / server mode. The DHCP client requests the configuration information from
+the DHCP server dynamically, and the DHCP server returns the corresponding configuration information
+according to the policy.
+     In a typical application of DHCP, it generally includes a DHCP server and multiple clients (such as
+PC and laptop), as shown in Figure 1-1.
+
+
+
+
+                                      Figure 1-1. In a typical application of DHCP
+
+
+
+
+10.2 IP address assignment of DHCP
+
+10.2.1 IP address allocation strategy
+
+    According to the different needs of clients, DHCP provides three IP address allocation strategies
+     Manual address assignment: the administrator binds the fixed IP address for a few specific
+        clients (such as WWW server). Send the configured fixed IP address to the client through
+        DHCP.
+     Automatic address assignment: DHCP assigns IP addresses with unlimited lease term to clients.
+     Dynamic address assignment: DHCP assigns IP address with valid period to client, and client
+        needs to re-apply for address after expiration of service life. The vast majority of clients get this
+
+                                                     111
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+         dynamic address assignment.
+
+
+
+10.2.2 Dynamic IP address acquisition process
+
+    The message interaction process between DHCP client and DHCP server is shown in Figure 1-2.
+
+
+
+
+                                    Figure 2-1.   Interaction process
+
+
+
+     In order to obtain the legal dynamic IP address, the DHCP client interacts different information with
+the server at different stages. Generally, there are three modes as follows:
+     (1) DHCP client logs in to the network for the first time
+     When the DHCP client logs in to the network for the first time, it mainly establishes contact with the
+DHCP server through four stages
+      The discovery phase: the stage in which the DHCP client looks for the DHCP server. The client
+          sends the DHCP discover message in broadcast mode, and only the DHCP server will respond.
+      The stage of providing IP address: that is, the stage when the DHCP server provides IP address.
+          After receiving the DHCP discover message from the client, the DHCP server selects an
+          unassigned IP address from the IP address pool and assigns it to the client, and sends the
+          DHCP offer message containing the leased IP address and other settings to the client.
+      The selection stage: the stage in which the DHCP client selects the IP address. If more than one
+          DHCP server sends a DHCP offer message to the client, the client only accepts the first
+          received DHCP offer message, and then responds to the DHCP request message by
+          broadcasting to each DHCP server. The information contains the content of requesting IP
+          address from the selected DHCP server.
+      The confirmation stage: the stage in which the DHCP server confirms the IP address provided.
+          When the DHCP server receives the DHCP request message answered by the DHCP client, it
+          will send the dhcp-ack confirmation message containing the IP address and other settings
+          provided by the client; otherwise, it will return the dhcp-nak message, indicating that the
+
+                                                   112
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+         address cannot be assigned to the client. After receiving the dhcp-ack confirmation message
+         returned by the server, the client will send ARP (the destination address is the address to which
+         it is assigned) in broadcast mode for address detection. If no response is received within the
+         specified time, the client will use this address.
+
+     (2) The DHCP client logs on to the network again
+     When the DHCP client logs in to the network again, it mainly establishes contact with the DHCP
+server through the following steps.
+      After the DHCP client logs in to the network correctly for the first time and then logs in to the
+          network again, it only needs to broadcast the DHCP request message containing the IP
+          address assigned last time, and it is not necessary to send the DHCP discover message again.
+      After receiving the DHCP request message, if the address requested by the client is not
+          assigned, the dhcp-ack confirmation message will be returned to notify the DHCP client to
+          continue using the original IP address.
+      If the IP address cannot be assigned to the DHCP client (for example, it has been assigned to
+          other clients), the DHCP server will return a dhcp-nak message. After receiving the message,
+          the client sends the DHCP discover message again to request a new IP address.
+
+     (3) DHCP client extends lease validity of IP address
+     The dynamic IP address assigned by the DHCP server to the client usually has a certain lease term.
+After the expiration, the server will take back the IP address. If the DHCP client wants to continue using
+the address, the IP lease needs to be updated.
+     In practice, the DHCP client sends a DHCP request message to the DHCP server by default when
+the IP address lease term reaches half to complete the IP lease update. If the IP address is valid, the
+DHCP server will respond to the dhcp-ack message to inform the DHCP client that a new lease has been
+obtained.
+
+
+
+10.3 DHCP global configuration
+DHCP global and static binding configuration
+1. Click the “DHCP > Property” in the navigation tree as follows.
+
+
+
+
+                                                   113
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Port DHCP configuration
+2. Click the “DHCP > Property”, and select the port and click “Edit” as follows.
+
+
+
+
+     Note:
+   Enable DHCP server or DHCP relay mode, port needs to enable this function
+
+
+
+10.4 IP Pool Setting
+DHCP IP pool configuration
+1. Click the “DHCP > IP Pool Setting”, Click “Add” to add IP pool as follows.
+
+
+
+
+                                                    114
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+    Note:
+   The start address and end address cannot be configured or contain a gateway address
+
+
+
+10.5 VLAN IF Address Group Setting
+Server group configuration
+1. Click the “DHCP > VLAN IF Address Group Setting”, enter the DHCP Server Group Table and click
+“Add” to configure the server group as follows.
+
+
+
+
+                                               115
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+VLAN interface and server group binding configuration
+1. Click the “DHCP > VLAN IF Address Group Setting”, enter the Vlan Interface Address Pool Table,
+select the interface and server group, and then click “Apply” as follows.
+
+
+
+
+10.6 Client List
+Client list information
+1. Click the “DHCP > Client List”, enter DHCP Client list as follows.
+
+
+
+
+                                                    116
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+10.7 Client Static Binding Table
+Static IP address assignment configuration
+1. Click the “DHCP > Client Static Binding Table”, enter Static Binding Table, and click “Add” as follows.
+
+
+
+
+Notice:
+The IP configuration of static binding is required to be within the scope of IP address assignment
+
+
+
+
+11 Management
+
+11.1 DNS Configuration
+     DNS is short for Domain Name System to name computers and network services from units to domain
+hierarchies. A domain name consists of the dots separated by a series of words or abbreviations, each
+corresponding to a unique IP address. DNS is the server on the Internet that resolves domain names.
+Applicable to Internet and other TCP/IP networks, DNS name retrieves computers and services through
+user-friendly names. As one of the core Internet services, DNS is a distributed database that maps domain
+names and IP addresses mutually.
+Instructions:
+
+                                                   117
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+1. Click on the “Network > DNS” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration        Description
+ Items
+ DNS State            DNS switch
+ DNS         Default Enter the DNS default name
+ Name
+
+2. “Add” to configure DNS server.
+
+
+
+
+3. “Apply” and finish as follows.
+
+
+
+
+                                                  118
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+11.2 System Time
+     It is mainly used to configure the system time, and select the time source, daylight-saving time, etc.
+Instructions
+1. Click on the “Network > System Time” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Time Source           Select the time source in SNTP, PC or manual modes
+ Time Zone             Set the time zone
+ Address Type          Host name or IPv4 address (with time source set by SNTP)
+
+                                                   119
+                                                      Shenzhen Hongrui Optical Technology Co., Ltd.
+ Server Address      Server Address (with time source set by SNTP)
+ Server Port No.     Server Port No. (with time source set by SNTP)
+ Date                Date info: DD/MM/YYYY (with time source set in manual mode)
+ Time                Time info: SS/MM/HH (with time source set in manual mode)
+ Type                Daylight-saving time types are divided into None, cyclic,
+                     non-cyclic, United States and Europe.
+ Reimbursed Time     Reimbursed Time of daylight-saving time
+ Cyclic Mode         Configure the cyclic mode of daylight-saving time
+ Non-cyclic Mode     Configure the non-cyclic mode of daylight-saving time
+
+
+
+11.3 SNMP Configuration
+    SNMP (Simple Network Management Protocol) is widely used in TCP/IP network. It manages
+devices by the central computer which operates network management software (i.e. network
+management workstation). SNMP is:
+ Simple: The polling-driving SNMP has the fundamental functionality set that is applicable to
+    small-scale environment with fast speed and low cost. Besides, UDP-driven SNMP is compatible
+    with most devices. Powerful: SNMP aims to ensure the management info transmission between two
+    nodes so that administrators can retrieve, modify and troubleshoot the info easily. There are 3
+    common versions, namely SNMPv1, v2c and v3. Its system contains NMS (Network Management
+    System), Agent, Management object and MIB (Management Information Base).
+ NMS, as the management center, will manage all devices. Each device under management includes
+    the resident Agent, MIB and management objects. NMS interacts with the Agent running on the
+    management object which will operate the MIB to execute NMS orders.
+SNMP management model
+
+
+
+
+                                                120
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+NMS
+ As the network administrator, NMS manages/monitors network devices by SNMP on its server. It
+    can request the Agent to inquire or modify specified parameter(s). NMS can receive the Trap
+    actively sent by the Agent to be updated with the states of the managed devices.
+Agent
+ As an agent process of the managed devices, it maintains device data and responds to the NMS
+    requests by reporting management data. Agent will fulfill relevant orders through MIB Table and
+    transmit the results back to NMS after receiving its request. Devices will take the initiative to
+    transmit info related to the current statues of devices to NMS through Agent once a fault or
+    another event occurs.
+Management object
+ It refers to the object under management. Each device may have more than one objects, including
+    a piece of hardware (e.g. an interface board), partial hardware and software (e.g. routing protocol),
+    as well as other configuration item sets
+MIB
+ MIB is a database specifying the variables maintained by the management object (i.e. the info that
+    can be inquired and set by the Agent). MIB defines the attributes of the management object,
+    including the name, state, access right and data type. The following functions can be realized
+    through MIB: Agent will master the instant device info by inquiring MIB and set the state
+    configuration items by changing MIB.
+
+
+
+11.3.1 View
+
+1. Click the “Management > SNMP > View” in the navigation tree as follows.
+
+
+
+                                                  121
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ View                 View name
+ OID                  View OID
+ Type                 View type: “Included” or “Excluded”
+
+
+2. “Add” the corresponding configuration, “Apply” and finish.
+
+
+
+
+11.3.2 Group
+
+1. Click the “Management > SNMP > Group” in the navigation tree as follows.
+
+
+
+
+                                                  122
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Group                 Group name
+ Version               V1, V2, V3
+ Security Level        Security level
+ View                  Views are divided into view reading, writing and notification.
+
+
+2. Click the “Add” to fill in corresponding configuration. “Apply” and finish.
+
+
+
+
+11.3.3 Community
+
+1. Click the “Management > SNMP > Community” in the navigation tree as follows.
+
+
+                                                    123
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Community            Community configuration
+ Group                Group name
+ View                 View name
+ Access:              Authority: read only or read-write
+
+
+2. “Add” the corresponding configuration. “Apply” and finish.
+
+
+
+
+11.3.4 User
+
+1. Click the “Management > SNMP > User” in the navigation tree as follows.
+
+
+
+
+                                                  124
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ User                 Username
+ Group                Group name
+ Security Level       Security level
+ Authentication       Authentication mode
+ Privacy Password     Encryption mode
+
+
+2. “Add” the corresponding configuration. “Apply” and finish.
+
+
+
+
+                                                  125
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+11.3.5 Engine ID
+
+1. Click the “Management > SNMP > Engine ID” in the navigation tree as follows.
+
+
+
+
+2. Click the “User Automation” to fill in corresponding ID value. “Apply” and finish.
+
+
+
+11.3.6 Trap Event
+
+1. Click the “Management > SNMP > Trap Event” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Authen Failure       Authentication error
+
+
+
+                                                    126
+                                                            Shenzhen Hongrui Optical Technology Co., Ltd.
+ Link Up/Down            Port link up/down
+ Cold start              Cold start
+ Warm start              Warm start
+2. “Apply” and finish.
+
+
+
+11.3.7 Notification
+
+1. Click the “Management > SNMP > Notification” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Address Type          Address type: “Host Name”, “IPv4” or “IPv6”
+ Server Address          Server address info
+ Version                 SNMP versions: v1, v2 and v3
+ Type                    Notification type: “Trap” or “Inform”
+ Community/User          Community or username
+ Security Level          Security level
+ Server port No.         162 by default ranging from 1 to 65,535
+ Timeout                 Timeout period: 15s by default ranging from 1 to 300s.
+ Retry                   The retry interval ranges from 1 to 255s with 3s by default.
+
+
+2. “Add” the corresponding configuration. “Apply” and finish.
+
+
+
+
+                                                      127
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+11.4 RMON Configuration
+    RMON (Remote Monitoring) is a MIB defined by the IETF (Internet Engineering Task Force) and
+significantly emphasizes the MIB II standard. It mainly monitors data flow in a network segment or even
+the whole network, which is one of the widely used network management standards. RMON includes
+NMS (Network Management Station) and Agent running on various Network devices. RMON Agent
+running on network monitors or detectors will track and count flow info (e.g. the total number of
+messages on a network segment during a certain period of time, or that of correct messages sent to a
+host) on the network segment connected to the port. Based on SNMP architecture, RMON is
+compatible with the existing SNMP framework. SNMP monitors remote network devices in a more
+efficient and active manner to supervise subnet operation. RMON can reduce communication flow
+between NMS and SNMP Agent to manage the large-scale interconnection network conveniently and
+effectively. Multiple monitors are allowed to collect data by 2 means: The exclusive RMON probe is used
+to collect data, and the NMS directly manages info and controls network resources. All RMON MIB info
+can be obtained. RMON Agent with direct access to network devices (router, switch, HUB, etc.) will
+become the network facility with RMON probe function. RMON NMS exchanges data with SNMP Agent
+with SNMP basic command to collect network management info. However, limited by device resources,
+it generally fails to obtain all data of RMON MIB. Most devices collect data from only four groups: alarm,
+event, history and statistics groups. Area-type switch realizes RMON in the second way. RMON Agent
+directly accessing switches will become the network facility with RMON probe function. By running the
+SNMP Agent supported by switches, NMS can obtain overall flow, error statistics, performance statistics
+and other info on the network segments connected to ports, so as to manage the network.
+
+
+
+
+                                                   128
+                                                           Shenzhen Hongrui Optical Technology Co., Ltd.
+
+11.4.1 Statistics
+
+     The statistics group info reflects the statistics of each monitoring interface on the switch, namely the
+info accumulated from the beginning of group creation. Statistics include the number of network
+conflicts, CRC error messages, too-small (too-large) data messages, broadcast/multicast messages,
+bytes and messages received, etc. With the RMON statistics and management functions, port usage and
+errors occurred can be monitored and counted respectively.
+Instructions
+1. Click the “Management > RMON > Statistics” in the navigation tree as follows, which reveals the
+port-related message statistics.
+
+
+
+
+2. “Clear” and “Refresh” the statistics of the selected port. “View” such statistics as follows.
+
+
+
+
+3. Select the specified refresh frequency to operate automatically.
+
+
+
+
+                                                     129
+                                                          Shenzhen Hongrui Optical Technology Co., Ltd.
+
+11.4.2 History
+
+     Once configuring the RMON history group, the switches will periodically collect and temporarily
+store the network statistics for processing ease, providing historical data on network segment flow, error
+packets, broadcast packets, bandwidth utilization, and other statistics. Historical data management can
+be used to set up devices in terms of historical data collection including periodical collection and
+maintenance of the data of specified ports.
+Instructions
+1. Click the “Management > RMON > History” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration          Description
+ Items
+ Entry                 Serial No. of event groups
+ Port                  Ports to be counted
+ Interval              Sampling interval ranging from 1 to 3,600 (unit: s), with 1,800s by
+                       default.
+ Owner                 Owner
+ Maximum               The max number of samples ranges from 0 to 50, with 50 by
+                       default.
+ Current               Current number of samples
+
+
+2. “Add” corresponding configuration items to configure history group.
+
+
+
+
+                                                    130
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+3. “Apply” and finish as follows.
+
+
+
+
+11.4.3 Event
+
+     Defining event No. and process way, event group is mainly for the events triggered by alarm group
+configuration items and extended alarm group configuration items. There are several solutions to them:
+recording in a log table; transmitting a Trap messages to NMS; recording a log and transmitting a Trap
+message; Don’t care.
+Instructions
+ 1. Click the “Management > RMON > Event” in the navigation tree as follows.
+
+
+
+
+Interface data are as follows.
+ Configuration         Description
+ Items
+ Entry                Serial No. of event groups
+ Community            Community name
+ Description          Description
+ Notification         Notification
+ Timer                Time
+
+
+                                                   131
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+ Owner                Owner
+
+
+2. “Add” corresponding configuration items to configure the event group.
+
+
+
+
+3. “Add” and finish as follows.
+
+
+
+
+11.4.4 Alarm
+
+     RMON alarm management monitors specific alarm variables, such as port statistics. An alarm event
+occurs when the value of monitored data exceeds the defined threshold in the corresponding direction,
+which will be treated according to the prescribed treatment mode. Event definition is realized in event
+group. System will process as follows after a user defines the alarm entry: The alarm-variable defined by
+sampling-time should be sampled and the value should be compared with the threshold. For higher
+threshold, the corresponding event will be triggered.
+1. Click the “Management > RMON > Alarm” in the navigation tree as follows.
+
+
+
+
+                                                  132
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+Interface data are as follows.
+ Configuration Items       Description
+ Entry                    Serial No. of alarm groups
+ Port                     Enter the ports to be counted
+ Counter                  Sample parameters of alarms
+ Interval                 Sampling interval ranges from 1 to 2,147,483,647 with the unit
+                          of second. 100s by default.
+ Sampling                 Sample types: Absolute and Delete
+ Owner                    Owner
+ Threshold (Rising)       The threshold of rising edge ranges from 0 to 2,147,483,647.
+ Event (Rising)           Event group index. Corresponding event will be activated when
+                          alarm is triggered.
+ Threshold (Falling)      The threshold of falling edge ranges from 0 to 21,474,836,475.
+ Event (Falling)          Event group index. Corresponding event will be activated when
+                          alarm is triggered.
+
+2. “Add” corresponding configuration items to configure the alarm group.
+
+
+
+
+                                                  133
+                                                       Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+3. “Apply” and finish as follows.
+
+
+
+
+11.5 Configuration
+
+11.5.1 Configuration Upgrade
+
+1. Click the “Management > Configuration > Upgrade” in the navigation tree as follows.
+
+
+
+
+                                                 134
+                                                         Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+2. Instructions for configuration file upgrade: click the “Upgrade” in mode of “TFTP” or “HTTP”, select the
+corresponding files to be upgraded (servers should be illustrated in TFTP mode). “Apply” and finish as
+follows.
+
+
+
+
+3. Instructions for file backup configuration: click the “Backup” in mode of “TFTP” or “HTTP”, select the
+files or logs to be upgraded (servers should be illustrated in TFTP mode). “Apply” and finish as follows.
+
+
+
+
+11.5.2 Configuration Saving
+
+Instructions:
+1. Click the “Management > Configuration > Save Configuration” in the navigation tree, select the
+source and target files to be saved, “Apply” and finish. Click the “Factory Reset” as needed as follows:
+
+                                                   135
+                                                        Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+     Note:
+   Click the “Factory Reset” and “Device Restart” to restore factory settings.
+   Save the “Running Configuration” as the “Start Configuration” (which can be saved as “Backup
+    Configuration” or “Running Configuration”) and the “Backup Configuration” (which can be saved as
+    the “Start Configuration” or “Running Configuration”).
+
+2. Click the “Save” on the upper right to save the running configuration as the start configuration as
+follows.
+
+
+
+
+11.6 Reboot
+1. Click the “Reboot” on the upper right as guided as follows.
+
+
+
+
+                                                  136
+                                                     Shenzhen Hongrui Optical Technology Co., Ltd.
+
+
+
+
+11.7 Firmware Management
+Instructions:
+1. Click the “Management > Firmware > Upgrade” in the navigation tree as follows.
+Check the “Upgrade” in mode of “TFTP” or “HTTP” and select the system files (xx.bix) to be upgrade.
+“Apply” and finish as follows.
+
+
+
+
+                                               137
+

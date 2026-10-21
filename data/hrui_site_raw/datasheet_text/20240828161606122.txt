@@ -1,0 +1,104 @@
+8-port 10G SFP+ Switch
+
+
+
+
+Highlights
+
+   n 8 * 10G SFP+optical port
+
+   n Supports IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3 bz, IEEE 802.3 ae, IEEE 802.3. x
+
+   n SFP+optical port supports 1.25G/2.5G/10G
+
+   n Supports automatic port flipping (automatic MDI/MDIX)
+
+   n The panel indicator lights will monitor the working status and assist in fault analysis
+
+   n Flow control mode, full duplex using IEEE802.3x standard, half duplex using backpressure
+
+     standard
+Specifications
+Product Application
+Specifications
+   Hardware Features & Performance
+  Model                                       HR-SWTG1C8F
+
+
+                Interface                     8 * 10G SFP+optical port
+
+                                              IEEE802.3 (Ethernet)
+  General                                     IEEE802.3u (Fast Ethernet)
+                                              IEEE 802.3ab (Gigabit Ethernet)
+                Port Standard
+                                              IEEE 802.3z (Gigabit Ethernet Fiber Standard)
+                                              IEEE 802.3ae (10 Gigabit Ethernet)
+                                              IEEE802.3x (Flow Control)
+
+                Switching Capacity            160Gbps
+
+                Packet Forwarding Rate        119.04Mpps
+
+  Performance   Packet Buffer                 12Mbit
+
+                MAC Address Table             16K
+
+                Transmission Method           Store and Forward
+
+                                              AC 100-240V , 50/60Hz
+                Power Supply
+                                              DC 12V 2A
+
+                Mainboard Power Consumption   13.8W
+
+                                              Product Dimensions :220*126*28mm
+                                              Packaging Dimensions :259*228*60mm
+                Structure Information
+                                              Product Net Weight:0.62KG
+                                              Product Gross Weight:0.86KG
+  Physical
+                                              Carton Dimensions :535*320*480mm
+                Packing Information           Packing Quantity: 20PCS
+                                              Packing Weight: 18.2KG
+
+                                              switch 1pcs, power adapter 1pcs, instruction manual 1pcs，certificate
+                Packing List
+                                              of qualification 1pcs
+
+                Fan Quantity                  0
+
+                Installation                  desktop
+
+                Surge Protection
+
+                Operating Temperature         0~40°C
+
+  Environment   Storage Temperature           -40 °C to 70 °C
+
+                Operation Humidity            10%~90%，non condensing
+
+                Storage Humidity              5%~95%，non condensing
+Specifications
+   Hardware Features & Performance
+              PWR                    On: Powered on
+                                     Off: Powered off
+
+              SYS                    Flashing: System startup in progress
+                                     On: System startup completed
+  Buttons&                           Blue Led ON：10G Link normal
+  Indicator
+  Lights                             Green Led ON：1000/2500Mbps Link normal
+              SFP+ Led
+                                     Off: Link blocked
+                                     Flashing: Data transmitting
+                                     1: The speed of ports 1-8 is 10G/1G;
+              Speed Modes Buttons    2: The speed of ports 1-8 is 10G/2.5G;
+                                     3: The speed of ports 1-4 is 10G/1G;The speed of ports 5-8 is 10G/2.5G;
+Specifications
+Product Pictures
+
+
+
+
+Product Structure Diagram
+

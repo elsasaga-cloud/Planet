@@ -1,0 +1,167 @@
+Datasheet
+
+
+
+
+        9-Port 1G and 1-Port 1G SFP
+                 PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 8* 1G PoE ports+1 *1G uplink port+1 *1G SFP port
+
+  n Complies with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and IEEE 802.3x standards
+
+  n RJ45 port supports 10M/100M/1G adaptive
+
+  n PoE port automatically activates PoE watchdog mode in VLAN and Extend modes
+
+  n Flow control method: Full duplex uses IEEE 802.3x standard, while half duplex uses Back
+
+    pressure standard
+
+  n The panel indicator LED will monitor the working status and assist in fault analysis
+
+  n Supports 1-8 port PoE power supply priority, with ports in the top priority being higher
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+   Description                                       Specification
+  Model                                             HR-AFG-811NS
+
+                                                    8* 1G PoE ports
+
+  Interface                                         1* 1G uplink port
+
+                                                    2*1G SFP port
+                                                    IEEE802.3 (Ethernet)
+                                                    IEEE802.3u (Fast Ethernet)
+  Port Standard                                     IEEE802.3ab (1000Mbps Ethernet)
+                                                    IEEE802.3x (Flow Control)
+
+  Bandwidth                                          20Gbps
+
+  Packet Forwarding Rate                             14.88Mpps
+
+
+  Packet Buffer                                      4Mbit
+
+
+  MAC Address Table                                  8K
+
+  Transmission Method                               Store and Forward
+
+                                                    IEEE802.3af (15.4W)
+  PoE Standard                                      IEEE802.3at (30W)
+
+  PoE Port Output Voltage                           DC 44-57V
+
+  PoE Ports                                         Port 1-8 PoE power output <30W
+
+  PoE Power Budget                                   140W
+
+
+  Surge Protection                                   Surge protection: common mode 4KV
+
+  Operating Temperature                              0~40°C
+  Storage Temperature                                -40 °C to 70 °C
+  Operation Humidity                                 10%~90%,non condensing
+  Storage Humidity                                   5%~95%,non condensing
+                                                     AC 100-240V 50/60Hz
+  Power Supply
+                                                     DC 52V 2.88A
+  Mainboard Power Consumption                        6.7W
+                                                     Product Dimensions :220*161*44mm
+                                                     Packaging Dimensions : 315*215*85mm
+   Structure Information                             Product Net Weight: 1.03KG
+                                                     Product Gross Weight:1.37KG
+
+                                                     Carton Dimensions :445*445*335mm
+   Packing Information                               Packing Quantity: 10PCS
+                                                     Packing Weight: 14.7KG
+
+   Security certification                            CE、RoHS
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                            www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+    Package Contents                                   Switch 1pcs, power cord 1pcs, manual 1pcs,certificate of qualification 1pcs
+
+
+     Fan Quantity                                      0
+
+
+     Installation                                      Desktop
+
+                                                       Green LED On: Powered on
+    PWR LED
+                                                       Green LED Off: Powered off
+
+                                                       Green LED On: 10M/100M/1G link connection is normal
+                                                       Green LED Off: Link locked
+    1-8 LED                                            Yellow LED On: PoE powered on
+                                                       Yellow LED Off: PoE powered off
+                                                       Flashing: Data transmission
+
+                                                       Green LED On: 10M/100M/1G link connection is normal
+                                                       Green LED Off: Link locked
+    9 LED
+                                                       Flashing: Data transmission
+
+
+
+
+                                                       Green LED On: 1G link is normal
+
+    10 SFP LED                                         Green LED Off: Link locked:
+                                                       Flashing: Data transmission
+
+
+                                                       Green LED On: indicates PoE power usage is less than 90%
+
+    PoE Max LED                                        Flashing: indicates PoE power usage of 90% ≤ P ≤ 95%
+                                                       Green LED Off: indicates that PoE power is used at 95%<P<100%
+
+
+    PoE LED Buttons                                   Dual color light selection: default green (link data), switch yellow light (PoE)
+
+
+                                                      VLAN: Isolation mode, 1-8 ports isolated from each other, communicating with 9-10
+                                                      ports, port PoE watchdog mode enabled
+                                                      Default: Normal mode, all interfaces can communicate with each other, transmission
+                                                      distance is within 100 meters, transmission rate is 10/100/1000Mbps adaptive, port
+    VLAN/Default/Extend Modes Buttons
+                                                      PoE watchdog mode is turned off
+                                                      Extend: Link extension mode,7-8port PoE power supply and data transmission
+                                                      distance can be extended to 250 meters, transmission speed is 10Mbps, port PoE
+                                                      watchdog mode is enabled
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                                  www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

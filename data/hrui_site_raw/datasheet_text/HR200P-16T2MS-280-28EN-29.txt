@@ -1,0 +1,192 @@
+Datasheet
+
+
+
+
+       16-Port Gigabit and 2-Port 2.5G
+              SFP PoE Switch
+
+
+
+
+  Product Highlights
+
+  n 16*1Gbps PoE ports+2*2.5Gbps SFP ports
+
+  n Support IEEE802.3, IEEE802.3u, IEEE802.3x, IEEE802.3ab, IEEE802.3z
+
+  n Ethernet Ports support 10/100/1000Mbps self-adaptive
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n Adopt a storage and forwarding exchange mechanism
+
+  n PoE ports automatically enable PoE watchdog mode in Extend and VLAN modes
+
+  n Support loop protection function
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Ports 1-2 support HiPoE 60W
+
+  n Support PoE priority to be enabled by default, with a priority order of 1-16
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                     www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+
+    Model                                            HR200P-16T2MS-280
+
+
+                                                     16*1Gbps PoE ports
+    Interface
+                                                     2*2.5Gbps SFP ports
+                                                     IEEE 802.3: Ethernet Media Access Control (MAC) Protocol
+                                                     IEEE 802.3i: 10BASE-T Ethernet
+                                                     IEEE 802.3u: 100BASE-TX Fast Ethernet
+    Port Standard                                    IEEE 802.3ab: 1000BASE-T GigabitEthernet
+                                                     IEEE 802.3z: 1000BASE-X Gigabit Ethernet (Fiber optic)
+                                                     IEEE 802.3x: Flow Control
+
+    Switching Bandwidth                               42Gbps
+
+
+    Packet Forwarding Rate                            31.24Mpps
+
+
+    Packet Buffer                                     8.4Mbit
+
+
+    MAC Address Table                                 16K
+
+
+    Jumbo Frame                                       12Kbytes
+
+
+    VLAN                                             VLAN range 1-4094, maximum active VLAN is 31
+
+
+    Transmission Method                              Store and Forward
+
+                                                     IEEE802.3af (15.4W)
+    PoE Standard                                     IEEE802.3at (30W)
+
+
+    PoE Port Output Voltage                          DC 44-57V
+
+                                                     Ports 3-16 PoE power output <30W
+    PoE Ports                                        Port 1-2 supports HiPoE 60W
+
+
+    PoE Power Budget                                  265W
+
+
+                                                      AC 100-240V 50/60Hz
+    Power Supply
+                                                      DC 53.5V 5.23A
+
+    Mainboard Power Consumption                       10.4W
+
+                                                      Product Dimensions: 440*204*44mm
+                                                      Packaging Dimensions: 500*290*85mm
+    Structure Information
+                                                      Product Net Weight: 2.8KG
+                                                      Product Gross Weight: 3.38KG
+                                                      Carton Dimensions: 520*445*310mm
+    Packing Information                               Packing Quantity: 5PCS
+                                                      Packing Weight: 18KG
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                         www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                     Specification
+                                                      Switch 1pcs, Power Cord 1pcs, Manual 1pcs, Certificate of Inspection 1pcs, Rack-
+    Package Contents
+                                                      mounting kit 1pair
+
+
+    Fan Quantity                                      1
+
+
+    Installation                                      Desktop, Rack-mounting
+
+                                                      Port Surge: Common mode 6KV, Differential mode 2KV (Class C)
+    Surge Protection                                  Electrostatic ESD: Air 8KV, Contact 6KV (Class B)
+                                                      Power Supply: Common mode 4KV, Differential mode 2KV (Class C)
+
+    Operating Temperature                             0~40°C
+
+    Storage Temperature                               -40~70°C
+
+    Operation Humidity                                10%~90%, non condensing
+
+    Storage Humidity                                  5%~95%, non condensing
+
+                                                      On: Powered on
+    PWR Green LED
+                                                      Off: Powered off
+
+                                                      Green LED on: 1Gbps Link normal
+                                                      Yellow LED on: 10/100Mbps Link normal
+                                                      Off: Link blocked
+    Ports 1-16
+                                                      Flashing: Data transmitting
+                                                      Slow Flashing: When a local or cross-product loop is detected, the port will flash
+                                                      slowly
+
+                                                     On: PoE powered on
+    PoE Yellow LED
+                                                     Off: PoE powered off
+
+                                                      Green LED on: 2.5Gbps Link normal
+                                                      Yellow LED on: 1Gbps Link normal
+    Ports 17-18
+                                                      Off: Link blocked
+                                                      Flashing: Data transmitting
+
+                                                      Off: Indicate that the PoE power usage is less than 90%
+    PoE Max Green LED                                 Flashing(Once per second): Indicate that the PoE power usage of 90% ≤ P ≤ 95%
+                                                      On: Indicate that the PoE power is used at 95%<P<100%
+
+                                                     VLAN: VLAN mode, ports 1-14 are isolated from each other, communicating with
+                                                     ports 15-18, and automatically activate the PoE watchdog mode
+                                                     Default: Normal mode, all ports can communicate with each other, transmission
+                                                     distance is within 100 meters, transmission rate is 10/100//1000Mbps adaptive(PoE
+    VLAN/Default/Extend Modes Buttons
+                                                     Watchdog off)
+                                                     Extend: Extend mode, when the PoE port is in Extend mode, ports 9-16 force
+                                                     10Mbps to extend the transmission distance to 250meters, and automatically
+                                                     activate the PoE watchdog mode
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                                                                       www.hruitech.com
+Datasheet
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd   www.hruitech.com
+Datasheet
+
+
+
+
+ Mounting ear diagram (Standard, support to install on the cabinet)
+ Unit of size: mm
+
+
+                                                          Rack mounting ears
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Technology Co.,Ltd                        www.hruitech.com
+

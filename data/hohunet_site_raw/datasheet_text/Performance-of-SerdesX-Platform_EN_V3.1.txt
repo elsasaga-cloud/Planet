@@ -1,0 +1,462 @@
+HOHUNET SERDESX PLATFORM
+PERFORMANCE
+High Performance Switching Hardware Platform
+Version: V3.1
+Release Date: 2025/11/24
+
+Platform Overview
+SerdesX platform a high-performance, high-density hardware switching platform that provides
+high-bandwidth network support for AI applications. SerdexX platform supports multiple port
+forms such as 100G/200G/400G/800G and can adapt to various network deployment
+requirements.
+
+Key Features of the SerdesX Platform
+• Rich network virtualization and intelligent lossless network features, support priority-based
+  flow control (PFC), explicit congestion notification (ECN), MLAG (Multi-Chassis Link
+  Aggregation) etc.
+• Full set of Layer 2 and Layer 3 protocol.
+• Intelligent Ethernet OAM Security feature set.
+
+Performance of the SerdesX Platform
+Table 1: Performance of SerdesX Platform
+
+Type                        Specification                      Value
+
+Ethernet Basic
+Jumbo Frame                  Maximum jumbo frame size           9600
+                                                                Default profile:122880
+                                                                IPv6 profile: 65536
+                             MAC address capacity
+                                                                Layer3 profile: 65536
+                                                                MPLS profile: 131072
+Unicast MAC
+                             MAC learning rate (SW)             > 4000pps
+                             MAC learning rate (HW)             > 10Gbps
+                             Blackhole MAC address
+                                                                128
+                             capacity
+                                                                Default profile: 2048
+                                                                IPv6 profile: 1024
+Multicast MAC                MAC address capacity
+                                                                Layer3 profile: 1024
+                                                                MPLS profile: 2048
+                                               1
+SERDESX PLATFORM                                                           Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                       Specification                Value
+
+Ethernet Basic
+                           VLAN IDs                     4094
+VLAN                       VLAN instances               4094
+                           VLANs to enable statistics   256
+                           Maximum mapping table        64
+VLAN Mapping
+                           Maximum rules number         3072
+EVC                        Maximum EVC number           4094
+                           Maximum member number
+                                                        No limitation
+                           per group
+
+Link Aggregation (Static   Maximum Group Num            64
+& LACP)                                                 Static/Dlb/RR/Resilient/Self-
+                           Load balance key mode
+                                                        healing
+                           Convergence time             < 50ms
+                           Maximum rule number          4096
+                           Maximum group number         1
+                           Base MAC capacity            512
+VLAN Classification
+                           Base IPv4 capacity           448
+                           Base IPv6 capacity           32
+                           Base protocol capacity       7
+Ethernet Ring Protection
+STP                        Convergence time             < 30s
+RSTP                       Convergence time             < 1s
+                           Instance number              64
+MSTP
+                           Convergence time             < 1s
+                           Domain number                16
+                                                        1 Primary ring/domain
+                           Ring number
+                                                        2 Sub ring/domain
+ERPS
+                           Protection instance number
+                                                        64
+                           per Ring
+                           Switchover time              < 50 ms
+
+                                             2
+SERDESX PLATFORM                                                             Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                  Value
+
+Ethernet OAM
+                        Maximum session number         1024
+                        Maximum domain number          8
+                        CCM interval types             7
+CFM (802.1ag)           CCM minimum interval           3.3ms
+                        Maximum down MEP number        1024
+                        Maximum up MEP number          1024
+                        Maximum LMEP number            1024
+IPv4 Unicast
+                                                       Default profile: 16384
+                                                       IPv6 profile: 16384
+ARP                     ARP capacity
+                                                       Layer3 profile: 20480
+                                                       MPLS profile: 16384
+                                                       Default profile: 61440
+                                                       IPv6 profile: 32768
+IPv4                    FIB
+                                                       Layer3 profile: 61440
+                                                       MPLS profile: 61440
+ECMP                    ECMP group                     240 (Share with IPv6)
+                        Policy route map               64
+PBR
+                        Policy based routing ACE       1024
+                        Maximum static neighbors       256
+OSPF
+                        Maximum summary address        2048
+IPv4 Multicast
+                                                       Default profile: 2048
+                                                       IPv6 profile: 1024
+                        Multicast routing table
+                                                       Layer3 profile: 2048
+IPMC
+                                                       MPLS profile: 1024
+                        Multicast routing downstream
+                                                       Default profile: 4096
+                        interfaces
+
+                                           3
+SERDESX PLATFORM                                                             Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                  Value
+
+IPv4 Multicast
+                                                       IPv6 profile: 2048
+                        Multicast routing downstream
+IPMC                                                   Layer3 profile: 5120
+                        interfaces
+                                                       MPLS profile: 2048
+                        Maximum groups number          2048
+IGMP Snooping
+                        Maximum member number          N/A
+                                                       Default profile: 2048
+                                                       IPv6 profile: 1024
+                        Maximum group number
+                                                       Layer3 Profile: 2048
+                                                       MPLS profile: 1024
+MVR
+                                                       Default profile: 4096
+                                                       IPv6 profile: 2048
+                        Maximum member number
+                                                       Layer3 profile: 5120
+                                                       MPLS profile: 2048
+IPv6 Unicast
+                                                       Default profile: 2048
+                                                       IPv6 profile: 8192
+Host Route              NDP capacity
+                                                       Layer3 Profile: 2048
+                                                       MPLS profile: 2048
+                                                       Default profile: 4096
+                                                       IPv6 profile: 16384
+                        FIBv6
+IPv6                                                   Layer3 Profile: 4096
+                                                       MPLS profile: 2048
+                        ECMP group                     240 (share with IPv4)
+IPv6 Multicast
+                                                       Default profile: 256
+                                                       IPv6 profile: 512
+IPMC                    Multicast routing table
+                                                       Layer3 Profile: 0
+                                                       MPLS profile: 1024
+
+                                          4
+SERDESX PLATFORM                                                               Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                     Value
+
+IPv6 Multicast
+                                                          Default profile: 512
+
+                        Number of interfaces that         IPv6 profile: 1024
+IPMC
+                        support Multicast routing table   Layer3 Profile: 0
+                                                          MPLS profile: 2048
+                                                          Default profile: 256
+                                                          IPv6 Profile: 512
+                        Maximum entry number
+                                                          Layer3 Profile: 0
+                                                          MPLS profile: 0
+MVR V6
+                                                          Default profile: 512
+                                                          IPv6 profile: 1024
+                        Maximum member number
+                                                          Layer3 Profile: 0
+                                                          MPLS profile: 0
+IP tunnel
+IP Tunnel               Tunnel peer capacity              8
+QoS
+                        Unicast queue                     10
+Per-port Queue Number   Multicast queue                   10
+                        Monitor queue                     10
+Packet Buffer           System packet buffer capacity     128MByte
+                                                          0~2M: 10K
+                                                          2M~100M: 40K
+                        Policer granularity               100M~1G: 80K
+Granularity                                               1G~2G: 120K
+                                                          2G~4G: 250K
+                        Queue shape granularity           4G~10G: 500K
+                        Port shape granularity            10k
+                        Ingress port QoS ipv4 flow
+Flow Entry                                                1532
+                        entries
+
+                                              5
+SERDESX PLATFORM                                                                Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                      Value
+
+QoS
+                        Ingress port QoS ipv6 flow
+                                                           1532
+                        entries
+Flow Entry
+                        Ingress port qos flow statistics
+                                                           511
+                        entries
+ACL
+                                                           Default Profile: 2877
+                                                           IPv6 Profile: 2877
+                        Ingress Port ACL for MAC
+                                                           Layer3 Profile: 2880
+                                                           MPLS profile: 2880
+                                                           Default Profile: 2877
+                                                           IPv6 Profile: 2877
+                        Ingress VLAN ACL for MAC
+                                                           Layer3 Profile: 2880
+                                                           MPLS profile: 2880
+MAC ACL
+                                                           Default Profile: 1389
+                                                           IPv6 Profile: 1389
+                        Egress Port ACL for MAC
+                                                           Layer3 Profile: 1440
+                                                           MPLS profile: 1440
+                                                           Default Profile: 1389
+                                                           IPv6 Profile: 1389
+                        Egress VLAN ACL for MAC
+                                                           Layer3 Profile: 1440
+                                                           MPLS profile: 1440
+                                                           Default Profile: 2877
+                                                           IPv6 Profile: 2877
+                        Ingress port ACL for IPv4
+                                                           Layer3 Profile: 2880
+                                                           MPLS profile: 2880
+IPv4 ACL
+                                                           Default Profile: 2877
+                                                           IPv6 Profile: 2877
+                        Ingress VLAN ACL for IPv4
+                                                           Layer3 Profile: 2880
+                                                           MPLS profile: 2880
+                                           6
+SERDESX PLATFORM                                                            Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                  Value
+
+ACL
+                                                       Default Profile: 1389
+                                                       IPv6 Profile: 1389
+                        Egress port ACL for IPv4
+                                                       Layer3 Profile: 1440
+                                                       MPLS profile: 1440
+IPv4 ACL
+                                                       Default Profile: 1389
+                                                       IPv6 Profile: 1389
+                        Egress VLAN ACL for IPv4
+                                                       Layer3 Profile: 1440
+                                                       MPLS profile: 1440
+                                                       Default Profile: 2877
+                                                       IPv6 Profile: 2877
+                        Ingress port ACL for IPv6
+                                                       Layer3 Profile: 2880
+                                                       MPLS profile: 2880
+                                                       Default Profile: 2877
+                                                       IPv6 Profile: 2877
+                        Ingress VLAN ACL for IPv6
+                                                       Layer3 Profile: 2880
+                                                       MPLS profile: 2880
+IPv6 ACL
+                                                       Default Profile: 1389
+                                                       IPv6 Profile: 1389
+                        Egress port ACL for IPv6
+                                                       Layer3 Profile: 1440
+                                                       MPLS profile: 1440
+                                                       Default Profile: 1389
+                                                       IPv6 Profile: 1389
+                        Egress VLAN ACL for IPv6
+                                                       Layer3 Profile: 1440
+                                                       MPLS profile: 1440
+                                                       Default Profile: 2877
+
+                        Ingress ACL flow statistics    IPv6 Profile: 2877
+ACL Flow Statistics
+                        entries                        Layer3 Profile: 2880
+                                                       MPLS profile: 2880
+
+                                           7
+SERDESX PLATFORM                                                            Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                  Value
+
+ACL
+                                                       Default Profile: 1389
+
+                        Egress ACL flow statistics     IPv6 Profile: 1389
+ACL Flow Statistics
+                        entries                        Layer3 Profile: 1440
+                                                       MPLS profile: 1440
+                        CoPP rules                     1500
+CoPP
+                        CoPP flow statistics entries   1500
+                        UDF rules                      512
+UDF
+                        UDF flow stats entries         1024
+Security
+                        IPv4 maximum rules number      2048
+IP Source Guard
+                        IPv6 maximum rules number      64
+802.1x Base MAC         Maximum entries                512
+DHCP Snooping           Maximum bound entry            4096
+IPFIX
+IPFIX                   IPFIX member                   4096
+Reliability
+BFD                     Maximum session number         Share 256
+S-BFD                   Maximum session number         Share 256
+VRRP                    Maximum group number           63
+                        Maximum group number           16
+Smart Link              Maximum instance number        64
+                        Switchover time                <50ms
+                        Maximum group number           16
+Monitor Link            Maximum up-link number per
+                                                       24
+                        group
+Data Center
+VARP                    Virtual IP number per port     15
+VXLAN                   VXLAN tunnel                   Default Profile: 16384
+
+                                           8
+SERDESX PLATFORM                                                             Performance
+
+
+Table 1: Performance of SerdesX Platform (Continued)
+
+Type                    Specification                  Value
+
+Data Center
+                                                       IPv6 Profile: 16384
+                        VXLAN tunnel                   Layer3 Profile: 16384
+                                                       MPLS profile: 4096
+                                                       Default Profile: 4092
+                                                       IPv6 Profile: 4092
+                        VNI
+VXLAN                                                  Layer3 Profile: 4092
+                                                       MPLS profile: 2000
+                                                       Default Profile: 2048
+                                                       IPv6 Profile: 2048
+                        VTEP peer
+                                                       Layer3 Profile: 2048
+                                                       MPLS profile: 128
+
+
+
+
+                                        9
+ SERDESX PLATFORM                                                Performance
+
+
+ Product List Based on SerdesX Platform
+ Table 2: Product List Based on SerdesX Platform
+
+Series      Model                 Specification
+                                  32*800G OSFP, 2U
+S9500       S9532-EI              4*Hot-swappable Fan Modules
+                                  2*Hot-swappable CRPS Modules
+                                  64*400G QSFP112, 2U
+            S8564-EI              4*Hot-swappable Fan Modules
+                                  2*Hot-swappable CRPS Modules
+S8500
+                                  32*400G QSFP112
+            S8532-EI              6*Hot-swappable Fan Modules
+                                  2*Hot-swappable CRPS Modules
+                                  64*200G QSFP56, 2U
+            S8264-EI              6*Hot-swappable Fan Modules
+                                  2*Hot-swappable CRPS Modules
+S8200
+                                  32*200G QSFP56, 2*25G SFP28
+            S8232-2N-EI           6*Hot-swappable Fan Modules
+                                  2*Hot-swappable CRPS Modules
+                                  64*100G QSFP28, 2U
+S7800       S7864Z-EI             6*Hot-swappable Fan Modules
+                                  2*Hot-swappable CRPS Modules
+
+
+
+
+                                         10
+SERDESX PLATFORM                                                                                 Performance
+
+
+About HOHUNET:
+
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data
+centers, and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyrignt 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer, or
+otherwise revise this publication without notice.
+

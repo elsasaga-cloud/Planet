@@ -1,0 +1,167 @@
+Datasheet
+
+
+
+
+                HR-CPE30A-1 Wireless Digital
+                         Bridge
+
+
+
+
+   Product Highlights
+
+
+   n 1* 10/100Mbps PoE port
+
+   n Supporting IP65 protection level shell design, easily adapting to various harsh outdoor environments
+
+   n Supports 24V PoE remote power supply and DC 12V local power supply
+
+   n Supports 802.11b/g/n WiFi 300M wireless transmission
+
+   n Paired with high gain antennas, the transmission distance can reach 500m in an open and unobstructed
+
+       environment
+
+   n Supports wall mounted and pole mounted installation methods, with simple construction
+
+   n No configuration required, easy to use
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                             www.hruitech.com
+Datasheet
+
+
+   Specifications
+
+      Hardware Features & Performance
+
+    Model                                             HR-CPE30A-1
+
+
+    Wireless Technology                               802.11b/g/n 300Mbps MIMO technology
+
+
+                                                      LAN 1* 10/100Mbps adaptive RJ45 port
+
+    Interface                                         DC power interface, suitable for connecting power plugs with an outer diameter of
+
+                                                      5.5mm and an inner diameter of 2.1mm and a length of 9.5mm or more
+
+                                                      Reset to factory/digital composite button, short press to adjust digital tube value, long
+    Button                                            press for 5 seconds to restore factory settings
+
+                                                      PWR power indicator light, LAN port status indicator light
+    Indicator Light                                   SIG1/SIG2/SIG3 signal strength indicator light, digital tube
+
+                                                      Built in dual polarized 8dBi directional plate antenna (horizontal lobe angle 90 °,
+    Antenna
+                                                      vertical lobe angle 90 °)
+                                                       24V/0.5A PoE remote power supply
+    Power supply
+                                                       DC 12V/1A
+
+                                                       Product Dimensions :140*75*34mm
+                                                       Packaging Dimensions :145*196*90mm
+    Structure Information
+                                                       Product Net Weight:0.15kg
+
+                                                       Product Gross Weight:0.65kg
+
+                                                       Carton Dimensions :465*310*425mm
+    Packing Information                                Packing Quantity: 20pair
+
+                                                       Packing Weight: 14.06kg
+
+
+                                                       Wireless Digital Bridge*1，24V PoE power adapter * 1, plastic clamp * 2,Ethernet
+    Package Contents
+                                                       cable * 1, manual (including warranty card)*1
+
+
+    Installation                                       Pole mounted installation
+
+
+    Operating Temperature                              -30℃～55℃
+
+
+    Storage Temperature                                -40 °C to 70 °C
+
+
+    Operation Humidity                                 10%~90%，non condensing
+
+
+    Storage Humidity                                   5%~95%，non condensing
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                                 www.hruitech.com
+Datasheet
+
+
+    Hardware Features & Performance
+
+    Frequency Range                                   802.11b/g/n:2.4~2.4835GHz
+
+
+    Channel Distribution                              1、2、3、4、5、6、7、8、9、10、11、12、13
+
+                                                      802.11b: DSSS (DQPSK, DBPSK, CCK)
+    Modulation Mode                                   802.11g: OFDM (BPSK, QPSK,16-QAM)
+                                                      802.11n: OFDM (BPSK, QPSK,16-QAM, 64-QAM)
+
+    Transmission Speed                                11b maximum 11Mbps, 11g maximum 54Mbps, 11n maximum 300Mbps
+                                                      11b：≤-90±1.5dBm @1Mbps，≤-84±1.5dBm @11Mbps
+                                                      11g：≤-86±1.5dBm @6Mbps，≤-69±1.5dBm @54Mbps
+    Receiving Sensitivity                             11n 20MHz：≤-85±1.5dBm @MCS0，≤-67±1.5dBm @MCS7
+                                                      11n 40MHz：≤-82±1.5dBm @MCS0，≤-64±1.5dBm @MCS7
+                                                      11b: ≥17±1.5dBm@11Mbps
+    Transmission Power                                11g: ≥15dBm±1.5dBm@54Mbps
+                                                      11n: ≥14dBm±1.5dBm@MCS7
+
+    Transmission Distance                             500m@50Mbps
+
+
+
+
+      Software Features & Performance
+
+    Working Mode                                      Bridge access point, bridge client
+
+
+    Networking Method                                  Point to point
+
+
+    Management Style                                   Chinese and English WEB management
+
+    State                                              System status, bridge status, interface status
+
+                                                       Wireless mode: Bridge access point/Bridge client
+                                                       Bridge access point: bridging SSID, bridging password, wireless protocol, wireless
+    Bridge Configuration                               bandwidth, wireless channel, wireless power
+                                                       Bridge client: bridging SSID, encryption method, bridging password, peer MAC
+                                                       address, wireless channel, wireless power
+                                                       Address acquisition method: automatic acquisition/static IP
+    Network Settings
+                                                       IP address, subnet mask, gateway, DNS1, DNS2
+
+    System Management                                  System debugging, password modification, restart/reset/upgrade
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                              www.hruitech.com
+Datasheet
+
+
+     Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

@@ -1,0 +1,343 @@
+                                                                         S2600 SERIES SWITCHES DATASHEET
+
+
+S2624-4X 10G Uplink 24 Port Gigabit Managed Ethernet Switch
+
+
+
+
+Product Description
+28-port 10 Gigabit uplink 24-port Gigabit managed Ethernet switch. Support 24 * 10/100/1000 adaptive
+electrical ports, 4 * 10 Gb SFP+ ports, 1 console port, and 1 USB serial port. Perfect security control strategy
+and CPU protect policy improve fault tolerance and ensure stable operation of the network and load
+balancing of the interconnection; The device supports automatic DoS attack defense and SNMP, IEEE 802.1,
+STP, RSTP, Link aggregation, and other functions. With advanced security functions and quality of service
+(QoS), it can be used as core layer, distribution layer ,and access layer switch with high density port and
+easy management, is an ideal choice for various business network applications.
+
+
+
+Features
+Support IEEE 802.1d、IEEE 802.1w、IEEE 802.1s、IEEE 802.1p、IEEE 802.3、IEEE 802.3u、IEEE 802.3x、IEEE
+802.3z、IEEE 802.3ab、IEEE 802.3ae standards ;
+L3 management, support DHCP Server, QoS, ACL, SNMP V1/V2/V3, IGMP Snooping v1/v2；
+Support STP/RSTP/MSTP (ERPS), Support loop detection and self-healing, support remote loopback
+monitoring and control（802.3ah OAM）; Support IPV4/IPV6,RIP,OSPF
+Support multiple VLAN division, MAC VLAN, Protocol VLAN, Private VLAN;
+Support IP address + MAC address + VLAN+Port binding, DHCP Snooping, support IP source and DAI
+protection.
+
+
+
+Application Environment
+Metropolitan area fiber broadband network: telecommunications, cable TV, network system integration,
+etc., network operators.
+Broadband private network: Suitable for financial, government, oil, railway, electric power, public security,
+transportation, education and other industries.
+Multimedia transmission: image, voice, data integrated transmission, suitable for remote teaching,
+                                                       1
+                                                                      S2600 SERIES SWITCHES DATASHEET
+
+conference TV, videophone and other applications.
+Real-time monitoring: simultaneous transmission of real-time control signals, images, data
+CHARACTERISTICS
+                                            Input/output Port
+
+        AC INPUT           AC100-240V，50/60Hz
+
+                           24 * 10/100/1000Mbps RJ45 Port
+                           4 * 10G SFP+ Port
+      Ethernet Port
+                           1 * RJ45 Console Port
+                           1 * USB Port
+
+                                               Performance
+
+       Bandwidth           128Gbps
+
+ Packet Buffer Memory      95.23Mpps
+
+      DDR SDRAM            128MB
+
+     Flash Memory          16MB
+
+     Package cache         12Mbit
+
+      MAC Address          16K
+
+      Jumbo frame          12Kbytes
+
+         VLANs             4096
+
+          MTBF             100000 hour
+
+                                                   Standard
+
+                           IEEE 802.3：Ethernet MAC Protocol
+
+                           IEEE 802.3i：10BASE-T Ethernet
+
+   Network Protocols       IEEE 802.3u：100BASE-TX Fast Ethernet
+
+                           IEEE 802.3ab：1000BASE-T Gigabit Ethernet
+
+                           IEEE 802.3z：1000BASE-X Gigabit Ethernet (optical fiber)
+
+
+                                                      2
+                                                                   S2600 SERIES SWITCHES DATASHEET
+
+
+                       IEEE 802.3ae：10G Ethernet (optical fiber)
+
+                       IEEE 802.3az：Energy Efficient Ethernet
+
+                       IEEE 802.3ad：Standard method for performing link aggregation
+
+                       IEEE 802.3x：Flow control
+
+                       IEEE 802.1ab： LLDP/LLDP-MED (Link Layer Discovery Protocol)
+
+                       IEEE 802.1p ： LAN Layer QoS/CoS Protocol Traffic Prioritization(Multicast
+
+                       filtering function)
+
+                       IEEE 802.1q：VLAN Bridge Operation
+
+                       IEEE 802.1x：Client/Server Access Control and Authentication Protocol
+
+                       IEEE 802.1d：STP
+
+                       IEEE 802.1s：MSTP
+
+                       IEEE 802.1w：RSTP
+
+                       EMI: FCC Part 15 CISPR (EN55032) class A
+ Industry Standard
+                       EMS: EN61000-4-2 (ESD)、EN61000-4-4 (EFT)、EN61000-4-5 (Surge)
+
+
+                       10BASE-T: Cat3、4、5 or above UTP(≤100 M)
+
+                       100BASE-TX: Cat5 or above UTP(≤100 M)
+
+  Network Media        1000BASE-TX: Cat5 or above UTP(≤100 M)
+
+                       Multi-mode Fiber: 50/125、62.5/125、100/140um
+
+                       Single-mode Fiber: 8/125、8.7/125、9/125、10/125um
+
+                                             Certification
+
+  Safety Certificate   CE、FCC、RoHS
+
+                                     Environmental standards
+
+                       Operating temperature: -10~50°C
+Working Environment
+                       Storage temperature: -40~70°C
+
+                                                  3
+                                                                        S2600 SERIES SWITCHES DATASHEET
+
+
+                            Operating Humidity: 10%~90%, No condensation
+                            Storage Humidity: 5%~90%, No condensation
+
+                                             Function indication
+
+ PWR(Power indicator)       Lighting：Powered , Un-Light：No Power
+
+
+   SYS(System lights)       Lighting： System is normal , Flashing：system startup
+
+
+    Link(Link light)        Lighting：Connecting       , Un-Light：Disconnect
+
+
+    Act(data light)         Flashing：Data Transmit , Un-Light：Disconnect
+
+                                            Physical specifications
+
+                            Product Dimensions: 440*205*44mm
+                            Package Dimensions: 500*290*85mm
+  Product Information
+                            Product N.W: 2.53KG
+                            Product G.W: 3.14KG
+
+                            Carton Dimensions: 520*445*300mm
+  Packing Information       Packing Qantity: 5 PCS
+                            Packing weight: 16.7KG
+
+                            Input Voltage: AC100-240V/50-60Hz
+        Voltage
+                            Power supply: 12V3A
+
+                            Ethernet switch 1 Set , Instruction manual 1 PCS , Certificate 1 PCS , Power
+      Packing list          cord 1PCS
+                            Serial cable 1PCS , Rack ear: 1 Pairs
+
+
+
+Software function
+                        Support hardware watchdog, factory reset, system and port LED
+
+  Basic function        Support global information, statistical information, log information
+
+                        Support User management, alarm management, configuration management
+
+
+
+                                                       4
+                                                                      S2600 SERIES SWITCHES DATASHEET
+
+                    Support Port rate, duplex, flow control, maximum frame length configuration
+
+                    Support Port mirroring, port speed limit, port energy saving
+
+                    Support Layer 3 interface
+
+                    Support IPv4, IPv6 address configuration
+Layer 3 Interface
+                    Support ARP configuration
+
+                    Support ND configuration
+
+                    Support IPv4 static routing
+
+                    Support IPv6 static routing
+Layer 3 Routing
+                    Support RIP V1/V2
+
+                    Support OSPF
+
+                    Support DHCP server
+
+     DHCP           Support DHCP relay
+
+                    Support DHCP Snooping
+
+                    Support 4K VLAN
+
+                    Support 802.1Q VLAN，baesd on port VLAN
+
+
+                    SupportAccess、Trunk、Hybrid VLAN mode
+     VLAN
+                    Support GVRP (VLAN registration protocol)
+
+                    Support MAC VLAN 、IP VLAN
+
+                    Support Voice VLAN
+
+                    Support MAC address automatic learning and aging
+ MAC Address
+                    Support Static, dynamic, filtered address table
+
+                    Password protection
+Security features
+                    Support Restrict user access based on port number, IP address, MAC address
+
+
+                                                  5
+                                                                  S2600 SERIES SWITCHES DATASHEET
+
+
+                 Support HTTPS、SSH V1/V2
+
+                 Support IP-MAC-PORT-VLAN binding
+
+                 Support ARP detection, IP source protection, DoS protection
+
+                 Support DHCP Snooping、DHCP Attack protection
+
+                 Support 802.1X Certification
+
+                 SupportAAA (Authentication, Authorization, Accounting), Support RADIUS
+                 protocal,TACACS+
+
+                 Support Port security, port isolation
+
+                 Support L2(Layer 2)～L4(Layer 4) Packet filtering function
+Access control
+                 Support Port mirroring, flow rate limiting, QoS remarking
+
+                 Support 8 port queues
+
+      QOS        Support Port priority, 802.1P priority, DSCP priority
+
+                 Support SP, WRR Priority scheduling algorithm
+
+                 Support STP(IEEE 802.1d), RSTP(IEEE 802.1w) and MSTP(IEEE 802.1s) protocal
+
+Spanning tree    Support Multi-instance, Support Aggregate interface
+
+                 Support BPDU protection
+
+                 Support IGMP v1/v2/v3 Snooping
+
+                 Support MLD v1/v2 Snooping
+
+                 Support Layer 2 multicast fast leave mechanism, querier
+  Multicast
+                 Support Layer 2 IPv4 static multicast
+
+                 Support Layer 2 IPv6 static multicast
+
+                 Support IGMP v1/v2/v3 Layer 3 multicast
+
+    Storm        Support multicast suppression
+
+ suppression     Support broadcast storm suppression
+
+                                                6
+                                                                    S2600 SERIES SWITCHES DATASHEET
+
+                   Support unknown unicast suppression
+
+Ring protection    Support Ring protection
+
+                   Support Static Aggregation
+
+                   Support LACP Dynamic Aggregation
+Link Aggregation
+                   Support based on IP, MAC, mixed load-balancing modes
+
+                   Maximum support 32 aggregation groups (8 ports per aggregation group)
+
+                   Support IPv6 Ping、IPv6 Traceroute、IPv6 Telnet
+
+     IPv6          Support IPv6 SSH
+
+                   Support IPv6 HTTP 、IPv6 HTTPS
+
+
+                   Support WEB Management (HTTP、HTTPS)
+
+                   Support CLI (Telnet, SSH V1/V2, Local serial port)
+
+                   Support SNMP V1/V2/V3
+
+                   Support RMON V2
+Management and
+                   Support LLDP Device discovery
+ Maintenance
+                   Support SNTP Time synchronization
+
+                   Support CPU Monitoring, Memory Monitoring
+
+                   Support System log, classification warning
+
+                   Support Ping, Traceroute detection, cable detection
+
+
+
+
+                                                  7
+    S2600 SERIES SWITCHES DATASHEET
+
+
+
+
+8
+

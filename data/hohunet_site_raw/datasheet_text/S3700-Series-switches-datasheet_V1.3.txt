@@ -1,0 +1,481 @@
+S3700 SERIES SWITCHES
+DATASHEET
+New Generation Access Switch
+Version: V1.3
+Release Date: 2026/6/10
+
+
+
+
+Product Overview
+The S3700 Series Switch designed on a
+domestic new generation switch Chip,
+which called LightLink platform . With 8,
+24, 48 GE Downlink, 10G Uplink ports and
+rich features, these switches will perfectly
+meets the requirements of Enterprise,
+Campus and ISP networks.
+
+
+
+
+Key features of The S3700 Switch
+l   Support ZTP(Zero-Touch Provisioning ), which greatly reduces the workload of deployment.
+l   Redundant power input, like 12V battery input for uninterrupted operation.
+l   Visually display the status of stack groups and the location of devices
+l   MLAG which can build an Active-Active system to improve the reliability of the network links
+    from single board grade to device grade.
+l   Precision Timing Protocol.
+l   Support Dying Gasp
+l   Rich L2/L3 features like IPv6, OSPF, BGP, VxLan, PIM, etc.
+
+The S3700 Series Switch provide multiple power supply solutions for customers choosing, fixed
+single power supply, 12V Battery supply model and redundant hot-swappable power supplies
+(AC and DC are both available). The Fan solutions also have build in fans and swapped field
+replaceable fan modules. Generally, air flow of S3700 Series is front to rear (AFO), and some of
+models can do customization of rear to front (AFI) airflow.
+
+
+
+
+                                               1
+S3700 SERIES SWITCHES                                                           DataSheet
+
+
+
+  Table 1: Feasible PSU and airflow of S3700 Series
+   l● In default；○ Customizable；X No support
+
+          Items             AC         DC         AFO         AFI    Power Input     FAN
+
+  S3748-6X-EI               ●           ○          ●          ○            2           3
+
+  S3748-6X-SI               ●           X          ●          X            1           3
+
+  S3748PB-6X-EI             ●           ○          ●          ○            2           3
+
+  S3748P-6X-SI              ●           X          ●          X            1           4
+
+  S3724-6X-EI               ●           ○          ●          ○            2           2
+
+  S3724-6X-SI               ●           X          ●          X            1           2
+
+  S3724PB-6X-EI             ●           ○          ●          ○            2           3
+
+  S3724P-6X-SI              ●           X          ●          X            1           4
+
+  S3724S-8T6X-EI            ●           ○          ●          ○            2           3
+
+  S3724S-8T6X-SI            ●           X          ●          X           1            3
+
+  S3708P-2X-SI              ●           X          ●          X           2            1
+
+
+
+
+ The S3700 Series Switch support varied management ways, include console port / in-band
+ network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command
+ Line Interface), web management, Telnet and FTP connection. Support OAM to make
+ management more convenient, and support SSH2.0, SSL, etc. to ensure security of
+ management.
+ Moreover, leveraging its profound technical expertise and in-depth understanding of campus
+ and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management
+ System (DHCS). It enhances network management and maintenance efficiency, reduces costs,
+ elevates management intelligence, and delivers a faster, smarter, more secure and reliable
+ network to better meet user requirements.
+
+
+
+
+                                            2
+S3700 SERIES SWITCHES                                                            DataSheet
+
+
+
+
+ Visual WEB GUI
+ HOS allows you to quickly configure common configuration items using a visual WEB GUI,
+ which lowers the application threshold for users.
+
+
+
+
+                                             3
+S3700 SERIES SWITCHES                                                             DataSheet
+
+
+The S3700 family of Ethernet switches consists of the following models
+Table 2: A Glance of The S3700 Series Switches
+
+
+    Models         Ethernet Ports       POE        Management PSU 1/PSU 2          Cooling
+
+S3748-6X-EI                             None                         2*75W          3 x Fan
+                 48 x 1G BaseT, 6x
+                                                                                   (Front to
+                     10G SFP+
+S3748-6X-SI                             None                         1*60W       Rear airflow)
+
+                                                                                    3 x Fan
+S3748PB-6X-EI                        Port 1-48BT                     2*900W        (Front to
+                                                                                 Rear airflow)
+                  48 x 1G Base-T
+                  + 6 x 10G SFP+
+                                                                                    4 x Fan
+                                      Port 1-4BT
+S3748P-6X-SI                                                         1*780W        (Front to
+                                     Port 5-48AT
+                                                                                 Rear airflow)
+
+
+S3724-6X-EI       24 x 1G Base-T        None       RJ45 Console:     2*75W           2 x Fan
+                  + 6 x 10G SFP+                    Out of band                    (Front to
+                  24 x 1G Base-T                    1G Ethernet                  Rear airflow)
+S3724-6X-SI                             None           Port,         1*60W
+                  + 6 x 10G SFP+
+                                                   USB (Type A
+                                                                                    3 x Fan
+S3724PB-6X-EI                        Port 1-24BT                     2*600W
+                                                                                   (Front to
+                  24 x 1G Base-T                                                 Rear airflow)
+                  + 6 x 10G SFP+
+                                      Port 1-4BT                                    4 x Fan
+S3724P-6X-SI                                                         1*450W
+                                     Port 5-24AT                                   (Front to
+                                                                                 Rear airflow)
+S3724S-8T6X-EI                          None                         2*75W
+               16 x 1G SFP, 8x1G                                                     3 x Fan
+                Base-T or 8x1G                                                     (Front to
+                  SFP Combo,                                                     Rear airflow)
+S3724S-8T6X-SI                          None                         1*60W
+                  6x10G SFP+                                                        irflow)
+
+                                                                                    1 x Fan
+                   8 x 1G Base-T                                   1*150W/1*24
+S3708P-2X-SI                         Port 1-8 AT RJ45 Console:                     (Front to
+                  + 2 x 10G SFP+                                        W
+                                                                                 Rear airflow)
+
+
+
+
+                                            4
+S3700 SERIES SWITCHES                                                                 DataSheet
+
+
+S3700 Physical Specifications
+
+Power consumption(220V 20°C)                    Weight (Net weight/Gross weight)
+Worst case, all ports used, line-rate traffic   l S3748-6X-EI:5.3kg/TBD
+l S3748-6X-EI:52W                               l S3748-6X-SI:3.6kg/TBD
+l S3748-6X-SI:49W                               l S3748PB-6X-EI:7kg/TBD
+l S3748PB-6X-EI:66W                             l S3748P-6X-SI:TBD/TBD
+l S3748P-6X-SI:61W                              l S3724-6X-EI:4.3kg/TBD
+l S3724-6X-EI:39W                               l S3724-6X-SI:TBD/TBD
+l S3724-6X-SI:28W                               l S3724PB-6X-EI:6.9kg/TBD
+l S3724PB-6X-EI:66W                             l S3724P-6X-SI:3.6kg/TBD
+l S3724P-6X-SI:47W                              l S3724S-8T6X-EI:5.2kg/TBD
+l S3724S-8T6X-EI:45W                            l S3724S-8T6X-SI:3.4kg/TBD
+l S3724S-8T6X-SI:43W                            l S3708P-2X-SI:1.5kg/TBD
+l S3708P-2X-SI:TBD
+Typical power consumption                       Dimensions (W x H x D) with package
+l S3748-6X-EI:40W                               l S3748-6X-EI:TBD
+l S3748-6X-SI:38W                               l S3748-6X-SI:TBD
+l S3748PB-6X-EI:60W                             l S3748PB-6X-EI:TBD
+l S3748P-6X-SI:55W                              l S3748P-6X-SI:TBD
+l S3724-6X-EI:33W                               l S3724-6X-EI:TBD
+l S3724-6X-SI:23W                               l S3724-6X-SI:TBD
+l S3724PB-6X-EI:60W                             l S3724PB-6X-EI:TBD
+l S3724P-6X-SI:42W                              l S3724P-6X-SI:TBD
+l S3724S-8T6X-EI:41W                            l S3724S-8T6X-EI:TBD
+l S3724S-8T6X-SI:39W                            l S3724S-8T6X-SI:TBD
+l S3708P-2X-SI:TBD                              l S3708P-2X-SI:TBD
+
+
+Cooling [CFM] - Total maximum airflow           Dimensions (W x H x D) without package
+l S3748-6X-EI:34.8cfm(±10%)                     l S3748-6X-EI:440 x 44 x 320
+l S3748-6X-SI:34.8cfm(±10%)                     l S3748-6X-SI:440 x 44 x 280
+l S3748PB-6X-EI:34.8cfm(±10%)                   l S3748PB-6X-EI:440 x 44 x 385
+l S3748P-6X-SI:46.4cfm(±10%)                    l S3748P-6X-SI:440 x 44 x 330
+l S3724-6X-EI:23.2cfm(±10%)                     l S3724-6X-EI:440 x 44 x 260
+l S3724-6X-SI:23.2cfm(±10%)                     l S3724-6X-SI:440 x 44 x260
+l S3724PB-6X-EI:34.8cfm(±10%)                   l S3724PB-6X-EI:442 x 44 x 385
+l S3724P-6X-SI:46.4cfm(±10%)                    l S3724P-6X-SI:440 x 44 x 280
+l S3724S-8G6X-EI:34.8cfm(±10%)                  l S3724S-8T6X-EI:440 x 44 x 320
+l S3724S-8G6X-SI:34.8cfm(±10%)                  l S3724S-8T6X-SI:440 x 44 x 280
+l S3708P-2X-SI:11.6cfm(±10%)                    l S3708P-2X-SI:319 x44 x208
+
+                                                5
+S3700 SERIES SWITCHES                                                     DataSheet
+
+
+S3700 Physical Specifications
+
+
+CPU                                       MTBF
+l Quad-core, RISC-V(1.2GHz)               l EI (Swapable PSU and FAN):≥90000h
+                                            (~10.3 Years)
+Memory
+l eMMc: 8G                                l SI (Fixed PSU and FAN):≥70000h
+l DRAM: 2G                                   (~8.0 Years)
+
+Temperature alarm                         l Packet Switch capacity (Gbps)
+l Alarm threshold:50ºC                    l S3748-6X-EI:216Gbps (bidirectional)
+                                          l S3748-6X-SI:216Gbps (bidirectional)
+Environmental ranges                      l S3748PB-6X-EI:216Gbps (bidirectional)
+l Operating temperature:0ºC to 45ºC       l S3748P-6X-SI:216Gbps (bidirectional)
+l Storage temperature:-40ºC to 70ºC       l S3724-6X-EI:168Gbps (bidirectional)
+l Running Humidity:10% to 90% (No         l S3724-6X-SI:168Gbps (bidirectional)
+  condensation)                           l S3724PB-6X-EI:168Gbps (bidirectional)
+l Store Humidity:5 to 95% (No             l S3724P-6X-SI:168Gbps (bidirectional)
+  condensation)                           l S3724S-8T6X-EI:184Gbps (bidirectional)
+l Operating altitude:0~5km                l S3724S-8T6X-SI:184Gbps (bidirectional)
+                                          l S3708P-2X-SI:56Gbps (bidirectional)
+
+PoE Power Budget
+                                          l Layer 2/Layer 3 Throughput (MPPS)
+l S3748PB-6X-EI:TBD
+                                          l S3748-6X-EI:178 MPPS
+l S3748P-6X-SI:700W
+                                          l S3748-6X-SI:178 MPPS
+l S3724PB-6X-EI:TBD
+                                          l S3748PB-6X-EI:178 MPPS
+l S3724P-6X-SI:TBD
+                                          l S3748P-6X-SI:178 MPPS
+                                          l S3724-6X-EI:151 MPPS
+                                          l S3724-6X-SI:151 MPPS
+                                          l S3724PB-6X-EI:151 MPPS
+                                          l S3724P-6X-SI:151 MPPS
+                                          l S3724S-8T6X-EI:151 MPPS
+                                          l S3724S-8T6X-SI:151 MPPS
+                                          l S3708P-2X-SI:151 MPPS
+
+
+
+
+                                      6
+S3700 SERIES SWITCHES                                                                                     DataSheet
+
+
+S7500 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported by
+the devices are listed in the document ‘HOS Software features’ .
+
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                         HOS Network Platform
+
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+      Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+       LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+     Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+
+             Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+                                                 Hardware layer
+
+               CENTEC Switch Chipset                                             CPU Subsystem
+
+                 Cooling SubSystem                                             AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* All HOHUNET switches use a normalized software platform and image package file
+* Unified software version iteration plan
+* Unified user experience
+
+
+                                                         7
+S3700 SERIES SWITCHES                                                     DataSheet
+
+
+Ordering Information
+S3700 Series Switches
+Items             Description
+
+                  48 Ports Access Switch, with 48*1G Base-T ， 6*10G SFP+,Dual power
+S3748-6X-EI
+                  supply modules(C13), hot-swap fan modules.
+
+                  48 Ports Access Switch, with 48*1G Base-T，6*10G SFP+, Fixed power
+S3748-6X-SI
+                  supply modules(C13), Fixed fans.
+
+                  48 Ports Access Switch, with 48*1G POE++ Base-T ，6*10G SFP+,Dual
+S3748PB-6X-EI
+                  power supply modules(C13), hot-swap fan modules.
+
+                  48 Ports Access Switch, with 48 x 1G BaseT (1-4prot PoE++,5-48port
+S3748P-6X-SI
+                  PoE+)，6*10G SFP+, Fixed power supply modules(C13), Fixed fans.
+
+                  24 Ports Access Switch, with 24*1G Base-T ， 6*10G SFP+,Dual power
+S3724-6X-EI
+                  supply modules(C13), Fixed fans
+
+                  24 Ports Access Switch, with 24*1G Base-T，6*10G SFP+, Fixed power
+S3724-6X-SI
+                  supply modules(C13), Fixed fans
+
+                  24 Ports Access Switch, with, 24*1G POE++ Base-T，6*10G SFP+,Dual
+S3724PB-6X-EI
+                  power supply modules(C13), hot-swap fan modules.
+
+                  24 Ports Access Switch, with 24 x 1G BaseT (1-4prot PoE++,5-24port
+S3724P-6X-SI
+                  PoE+)，6*10G SFP+, Fixed power supply modules(C13), Fixed fans.
+
+                  24 Ports Optical Access Switch, with 16*1G SFP+，8* 1G Combo Ports,
+S3724S-8T6X-EI
+                  6*10G SFP+, Dual power supply modules(C13), hot-swap fan modules.
+
+                  24 Ports Access Switch, with 16*1G SFP+，8* 1G Combo Ports, 6*10G
+S3724S-8T6X-SI
+                  SFP+, Fixed power supply modules(C13), Fixed fans.
+
+                  8 Ports Access Switch, with 8*1G POE+ Base-T, 2*10G SFP+, Fixed
+S3708P-2X-SI
+                  power supply modules(C13), Fixed fan.
+
+
+
+
+                                        8
+S3700 SERIES SWITCHES                                                            DataSheet
+
+
+AC Power Supplies use for S3700
+Items                   Description
+
+PSU-60-AC-AFO           S3700 Series 60W AC power supply (front-to-back airflow)
+
+
+PSU-75-AC-AFO           S3700 Series 75W AC power supply (front-to-back airflow)
+
+
+PSU-600-AC-AFO          S3700 Series 600W AC POE power supply (front-to-back airflow)
+
+
+PSU-1200-AC-AFO         S3700 Series 1200W AC POE power supply (front-to-back airflow)
+
+
+
+Software Licenses
+Items                      Description
+
+Software License           EB, Basic L3 software features, Preinstalled
+
+
+Software License           MS, L3 enhance features software license key, Optional
+
+
+Software License           MA, MPLS features software license key, Optional
+
+
+Software License           ST, Stacking feature software license key, Optional
+
+
+
+
+                                            9
+S3700 SERIES SWITCHES                                                   DataSheet
+
+
+Accessory of S3700 Series
+
+                 Front Rear      Rear        Scre           Groun   Console
+                                                    Power
+Models           Mounti Mounting Mountin     w              d       Cord
+                 ng     -A       g-B                Cord
+                                             (M4)           Cord    (RJ45 to DB9)
+S3748-6X-EI        2        2       2         12      2       1          1
+
+S3748-6X-SI        2        /       /         12      1       1          1
+
+S3748PB-6X-EI      2        2       2         12      2       1          1
+
+S3748P-6X-SI       2        /       /         12      1       1          1
+
+S3724-6X-EI        2        2       2         12      2       1          1
+
+S3724-6X-SI        2        /       /         12      1       1          1
+
+S3724PB-6X-EI      2        2       2         12      2       1          1
+
+S3724P-6X-SI       2        /       /         12      1       1          1
+
+S3724S-8T6X-EI     2        2       2         12      2       1          1
+
+S3724S-8T6X-SI     2        /       /         12      1       1          1
+
+S3708P-2X-SI       2        /       /         12      1       1          1
+
+
+
+
+                                        10
+S7500 SERIES SWITCHES                                                                                DataSheet
+
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

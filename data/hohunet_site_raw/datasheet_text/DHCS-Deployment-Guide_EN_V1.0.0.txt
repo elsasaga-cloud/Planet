@@ -1,0 +1,782 @@
+                                DHCS Deployment Guide
+
+                                                release v 1 . 0 . 0
+
+
+
+
+1. Installation Requirements
+    1.1. Hardware Resource Requirements
+    1.2. Software Resources
+2. Installation Media
+    2.1. Operating System Images
+    2.2. DHCS Installation Packages
+3. Open Ports
+4. Installing DHCS
+    4.1. Binary File Installation
+        4.1.1. Install Ubuntu Operating System
+        4.1.2. Install OpenSSH (Optional)
+        4.1.3. Upload Installation Package
+        4.1.4. Install DHCS
+        4.1.5. Initialization Wizard
+    4.2. Podman Image Deployment
+        4.2.1. Environment Preparation
+        4.2.2. Install Podman
+        4.2.3. Upload Image Package
+        4.2.4. Installation Process
+        4.2.5. Initialization
+    4.3. VMware Workstation Deployment
+        4.3.1. Import Virtual Machine
+        4.3.2. Start and Setup
+        4.3.3. Initial Configuration
+    4.4. VMware ESXi Deployment
+        4.4.1. Create Virtual Machine
+        4.4.2. Initial Configuration
+        4.4.3. Login Information
+5. System Login
+    5.1. Login Methods
+    5.2. Login Account
+    5.3. Login Page
+6. Troubleshooting
+    6.1. Check Services
+    6.2. Check Processes
+    6.3. Check Ports
+    6.4. Common Issues
+7. Advanced Maintenance Mode
+    7.1 Advanced Maintenance Mode
+8. offline Podman install
+    8.1. offline Podman installation packages
+
+
+
+
+1. Installation Requirements
+DHCS supports the following four deployment scenarios:
+     One-click script installation on Ubuntu
+
+     Containerized deployment via Podman
+
+     VMware Workstation virtual machine import
+
+     VMware ESXi virtual machine import
+
+
+1.1. Hardware Resource Requirements
+The minimum hardware resources required for server, Podman, or virtual machine operation are
+as follows:
+
+
+  Item              Requirements                      Remarks
+
+                    4 Cores 8 Threads, frequency >
+  Processor                                           X86 Platform
+                    2.8 GHz
+
+                                                      Adjustable based on the scale of
+  Memory            >= 8 GB
+                                                      managed devices
+
+                                                      Adjustable based on the scale of
+  Disk Storage      >= 500 GB
+                                                      managed devices
+
+  Network           Gigabit Ethernet Card (Fiber or
+                                                      1000 Mbps port or higher
+  Card              Copper)
+
+  Bandwidth         ≥ 3 Mbps                          For internet communication
+
+
+▲ Table 1: Hardware Resources
+
+
+1.2. Software Resources
+The required versions for the operating system and VMware Virtual Machine are as follows:
+
+
+  Item                     Requirements               Remarks
+
+                           Ubuntu 20.04.6 LTS
+                                                      Server edition, Kernel ≥ 4.14 (Check with
+  OS                       Ubuntu 22.04.5 LTS
+                                                      uname -r )
+                           Ubuntu 24.04.3 LTS
+
+  Virtualization           VMware Workstation
+  Software                 15.1.0
+
+  Virtualization
+                           VMware ESXi 8.0
+  Software
+
+
+▲ Table 2: Software Resources
+
+
+2. Installation Media
+2.1. Operating System Images
+     Ubuntu 20.04.6 LTS
+     https://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-live-server-amd64.iso
+    Ubuntu 22.04.5 LTS
+    https://releases.ubuntu.com/22.04.5/ubuntu-22.04.5-live-server-amd64.iso
+
+    Ubuntu 24.04.3 LTS
+    https://releases.ubuntu.com/24.04.3/ubuntu-24.04.3-live-server-amd64.iso
+
+
+2.2. DHCS Installation Packages
+You can download the DHCS deployment installation files from the following links:
+
+    DHCS for Ubuntu
+
+    http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/dhcs-V1.0.0-ubuntu20.tar.gz
+
+    http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/dhcs-V1.0.0-ubuntu22.tar.gz
+
+    http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/dhcs-V1.0.0-ubuntu24.tar.gz
+
+    DHCS for VM/ESXi
+    http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/dhcs-vm-ubuntu24.zip
+
+    DHCS for Podman
+    http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/dhcs-V1.0.0-podman.tar.xz
+
+
+3. Open Ports
+Ensure the following ports on the DHCS server are open in the firewall and accessible via the
+network:
+
+
+   No.     Service             Port               Description
+
+    1      HTTP                80/tcp             Web Management Interface
+
+    2      HTTPS               443/tcp            Encrypted Web Management Interface
+
+    3      MQTT                883/tcp            Device Communication
+
+    4      FRP                 7000/tcp           Intranet Penetration Service
+
+    5      FRP Proxy           6000-6100/tcp      Device Proxy Port Range
+
+
+▲ Table 3: Open Ports
+
+
+4. Installing DHCS
+This guide describes four installation methods for DHCS:
+
+    Binary File Installation
+
+    Podman Image Deployment
+
+    VMware Workstation Deployment
+
+    VMware ESXi Deployment
+4.1. Binary File Installation
+4.1.1. Install Ubuntu Operating System
+The DHCS binary installation package requires one of the following Ubuntu versions:
+
+    Ubuntu 20.04.6 LTS
+
+    Ubuntu 22.04.5 LTS
+
+    Ubuntu 24.04.3 LTS
+
+Please download the corresponding Ubuntu image from Chapter 2 Installation Media, complete
+the system installation, configure the network, and record the root account password.
+
+
+4.1.2. Install OpenSSH (Optional)
+To facilitate remote management, you can install and enable the SSH service:
+
+  1. Update the package list (to ensure the latest version can be downloaded) and install the SSH
+    server:
+
+
+       # Update package list
+       sudo apt update
+
+
+       # Install SSH server
+       sudo apt install openssh-server -y
+
+
+       # Start SSH service
+       sudo systemctl start ssh
+
+
+       # Enable auto-start on boot
+       sudo systemctl enable ssh
+
+
+       # Verify SSH service status
+       sudo systemctl status ssh
+
+
+    If the system firewall (UFW) is enabled, open the SSH port:
+
+
+       # Allow SSH connections (default port 22)
+       sudo ufw allow ssh
+
+
+       # Check firewall status
+       sudo ufw status
+
+
+
+4.1.3. Upload Installation Package
+    SCP Method
+
+    First, download the appropriate installation package locally, then use the scp command to
+    upload it to a specified directory on the server.
+
+     scp (Secure Copy) is a secure copy command based on SSH, available on almost all systems
+    with SSH installed (Linux, macOS, Windows 10/11).
+       # Command format: scp <local_file_path> <username>@<server_ip>:<target_path>
+       scp dhcs-v1.0.2-ubuntu24.tar dhcs@172.16.121.201:/home/dhcs/
+
+    wget Download (Direct Server Download)
+
+    If the server has internet access, you can download the installation package directly on the
+    server:
+
+
+       # Navigate to target directory
+
+
+       # Download installation package (replace with actual URL)
+       wget http://www.hohunet.com/download/dhcs/ubuntu/dhcs-v1.0.2-ubuntu24.tar
+
+
+    SSH Client Tool Upload
+
+       1. Establish an SSH connection: Use a tool to connect to the target server.
+
+       2. Open the file transfer interface:
+
+              Usually via a toolbar icon or right-click menu to open an SFTP/SCP transfer window.
+
+              Some tools support dragging and dropping files directly onto the terminal interface
+              for automatic upload.
+
+       3. Perform the upload operation:
+
+              Select the local installation package file in the file transfer interface.
+
+              Specify the server target directory (e.g., /home/dhcs/ ).
+
+              Execute the upload.
+
+    Note: The specific interface varies slightly between tools, but generally follows the common
+    process: "Connect → Open Transfer Interface → Select File → Upload".
+
+
+4.1.4. Install DHCS
+Step 1: Set System Timezone
+
+
+  timedatectl status | grep "Time zone"
+
+
+  sudo timedatectl set-timezone Asia/Shanghai
+
+
+  echo "Asia/Shanghai" | sudo tee /etc/timezone
+
+
+Step 2: Extract and Execute the Installation Script
+
+Navigate to the directory containing the downloaded installation package and execute the
+following commands to extract it:
+  # Extract the installation package
+  sudo tar -xvf dhcs-xxxx.tgz
+
+
+  # Enter the extracted directory
+  cd dhcs-ubuntu24
+
+
+  # Grant execute permission to the installation script
+  sudo chmod +x dhcs-install.sh
+
+
+  # Execute the installation script
+  sudo ./dhcs-install.sh
+
+
+Step 3: Verify Installation Result
+
+After installation completes, the following prompt information will be displayed:
+
+
+  Start the AUTH service...
+  Start the DHCS service...
+  service installation is complete!
+  The AUTH/DHCS service can be managed using the following commands.:
+  start: systemctl start auth/dhcs
+  stop: systemctl stop auth/dhcs
+  restart: systemctl restart auth/dhcs
+  status: systemctl status auth/dhcs
+  [Thu Nov 27 12:08:09 PM UTC 2025] The execution of install-portal was successful.
+  DHCS installation completed
+  HTTP：http://IP|domain
+  HTTPS：https://IP|domain, Default self-signed certificate, certificate directory：
+  \etc\nginx\ssl\site
+  test@ubuntu:~/dhcs-ubuntu24$
+
+
+
+4.1.5. Initialization Wizard
+After DHCS installation is complete, system initialization must be performed via the web page.
+
+  1. Access the Initialization Page
+     Open a browser and enter http://<server_ip> to access the initialization interface.
+
+
+
+
+  2. Set Basic Information
+     Configure platform owner, cloud service domain/IP, system language, business mode
+     (tenant/private), etc.
+      Default Language: Specifies the language in which the user interface is displayed.
+
+      Company Name: The owner of the DHCS platform assets, can be displayed to users
+      where necessary.
+
+      Cloud Service Address: Used for communication with network devices, e.g., device
+      reporting, establishing management tunnels, etc.
+
+      Business Mode: Tenant mode or Private mode. Can only be set for the first time after
+      installation and cannot be modified later.
+3. Set Customization Information
+  Configure platform display name, corporate copyright information, logo, user agreement, etc.
+4. Set Up Email Service
+  Configure SMTP server information for system notifications, password reset, and other
+  functions.
+       Warning
+    Email notifications require the associated Email Templates to be enabled for use
+    simultaneously.
+5. Activate System
+  Set the superadmin password to complete system activation.
+4.2. Podman Image Deployment
+4.2.1. Environment Preparation
+Podman deployment requires one of the following Ubuntu versions:
+
+    ✨ Ubuntu 20.04.6
+    ✨ Ubuntu 22.04.5
+    ✨ Ubuntu 24.04.3
+
+4.2.2. Install Podman
+Execute the corresponding installation script based on the system version:
+
+
+  #!/bin/bash
+
+
+  # Get current Ubuntu version
+  UBUNTU_VERSION=$(lsb_release -rs)
+
+
+  # Install Podman based on different Ubuntu versions
+  case $UBUNTU_VERSION in
+      "20.04"|"22.04")
+           echo "Detected Ubuntu $UBUNTU_VERSION"
+           # Add Podman PPA
+           . /etc/os-release
+              sudo sh -c "echo 'deb
+  https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/xU
+  buntu_${VERSION_ID}/ /' >
+  /etc/apt/sources.list.d/devel:kubic:libcontainers:stable.list"
+              wget -qO -
+  https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/xU
+  buntu_${VERSION_ID}/Release.key | gpg --dearmor | sudo tee
+  /etc/apt/trusted.gpg.d/devel_kubic_libcontainers_stable.gpg > /dev/null
+              sudo apt-get update -qq
+              sudo apt-get install -y podman
+              ;;
+         "24.04")
+              echo "Detected Ubuntu $UBUNTU_VERSION"
+              # Install Podman using default repositories
+              sudo apt-get update -qq
+              sudo apt-get install -y podman
+              ;;
+         *)
+              echo "Unsupported Ubuntu version: $UBUNTU_VERSION"
+              exit 1
+              ;;
+  esac
+
+
+  # Verify installation
+  podman --version
+
+
+
+4.2.3. Upload Image Package
+Refer to 4.1.3. Upload Installation Package to upload the appropriate installation package to the
+server.
+
+
+4.2.4. Installation Process
+In the directory containing the software package, execute the following commands to install:
+
+
+  # Extract the image package
+  sudo tar -xzvf dhcs-1.0.1-podman.tgz
+
+
+  # Enter the extracted directory
+  cd dhcs-container/
+
+
+  # Grant execute permission to the installation script
+  sudo chmod +x dhcs-install-pod.sh
+
+
+  # Execute the installation script
+  sudo ./dhcs-install-pod.sh
+
+
+Upon completion, the following information will be displayed:
+  dhcs-emqx.jarConfiguration successful
+  dhcs-portal.jarConfiguration successful
+  Start the dhcs-broker service
+  Start the dhcs-proxy service
+  Start the dhcs-portal service
+  DHCS installation completed
+  HTTP：http://IP|domain
+  HTTPS：https://IP|domain, Default self-signed certificate, certificate directory：
+  data\etc\nginx\ssl\site
+
+
+
+4.2.5. Initialization
+After installation, please refer to 4.1.5 Initialization Wizard to complete system initialization
+configuration.
+
+
+4.3. VMware Workstation Deployment
+4.3.1. Import Virtual Machine
+Currently supports importing DHCS VM images into VMware Workstation 15.1.0. Procedure:
+
+  1. Upload and extract the VM image package to the virtual machine server.
+     Download the required DHCS for VM version from Installation Media, and save the
+     downloaded dhcs_vm.zip locally.
+
+  2. Open VMware Workstation, select File → Open.
+3. Browse to the extraction directory, select the server.ovf file, and click Open.
+
+
+
+
+4. Set the virtual machine name and storage path, then click Import.
+
+
+
+
+5. If a version compatibility prompt appears, select Retry and Ignore to continue.
+4.3.2. Start and Setup
+  1. Start the imported virtual machine.
+
+
+
+
+  2. Follow the on-screen prompts to complete initial configuration such as network and
+     timezone.
+
+  3. The system will automatically install and start the DHCS service.
+
+
+4.3.3. Initial Configuration
+After installation, please refer to Virtual Machine Initialization to complete system initialization
+configuration.
+
+
+4.4. VMware ESXi Deployment
+Currently supports importing DHCS VM images into VMware ESXi 8.0. Procedure:
+
+
+4.4.1. Create Virtual Machine
+  1. Log in to the ESXi management interface, go to Virtual Machines, click Create / Register
+     VM.
+2. Select creation type
+  Select the type of virtual machine to create. For DHCS, create from an OVF or OVA file as
+  shown:
+
+
+
+
+3. Select OVF and VMDK files
+  Enter a name for the virtual machine and upload the virtual machine file downloaded from
+  the installation media.
+4. Select storage
+  Select a storage system for the virtual machine.
+
+
+
+
+5. Select deployment options
+6. Ready to complete
+  After confirming the configuration information is correct, click the Finish button.
+
+
+
+
+7. Power on the virtual machine
+  Select the virtual machine to start and click the Power on button.
+
+
+
+
+  After the virtual machine starts, access its console to enter the setup interface.
+4.4.2. Initial Configuration
+After the virtual machine starts, configure the following information in sequence:
+
+     Configure DHCS IP
+
+
+
+
+     Subnet Mask
+Default Gateway
+
+
+
+
+DNS Server
+System Timezone
+
+
+
+
+After configuration is complete, the system will automatically complete service deployment
+and restart.
+4.4.3. Login Information
+
+  Service              Username                     Password
+
+  SSH                  dhcs                         admin123
+
+  Web                  superadmin                   Set during installation
+
+
+Table 4: System Default Accounts
+
+
+5. System Login
+5.1. Login Methods
+  Type                     Address
+
+  http                     http://<ip_or_domain>
+
+  https                    https://<ip_or_domain>
+
+
+Table 5: Management Interface Access Addresses
+
+
+5.2. Login Account
+Username: superadmin
+
+Password: The super administrator password set during the installation process.
+
+
+5.3. Login Page
+6. Troubleshooting
+6.1. Check Services
+  # Check related service status
+  systemctl status emqx
+  systemctl status dhcs
+  systemctl status redis
+  systemctl status mysql
+  systemctl status influxd
+
+
+
+6.2. Check Processes
+  # Check each service process
+  ps aux | grep emqx
+  ps aux | grep dhcs
+  ps aux | grep redis
+  ps aux | grep mysql
+  ps aux | grep influxd
+
+
+
+6.3. Check Ports
+  # Verify key port listening status
+  ss -na | grep :80
+  ss -na | grep :443
+  ss -na | grep :883
+  ss -na | grep :7000
+  ss -na | grep :6000
+
+
+
+6.4. Common Issues
+Physical machine/virtual machine installations can be fully diagnosed using the commands in this
+guide.
+
+     Note
+  The troubleshooting approach for container deployments is the same, with the only
+  difference being the specific commands. Use systemctl status container-dhcs-xxx ,
+  where the exact service name depends on the container package creation.
+
+Issue 1: Web Management Interface Unreachable
+Troubleshooting Steps:
+
+  1. Check DHCS Service Status
+
+
+         systemctl status dhcs
+  2. Check Nginx Proxy Service
+
+
+      systemctl status nginx
+
+
+
+
+  3. View DHCS Logs
+
+
+      tail -f /data/dhcs/logs/sys-info.log
+      tail -f /data/dhcs/logs/sys-error.log
+
+
+
+
+  4. View Nginx Error Logs
+
+
+      tail -f /var/log/nginx/error.log
+
+
+
+
+Issue 2: Remote Tunnel Unable to Connect
+Troubleshooting Steps:
+
+  1. Check FRP Service Status
+
+
+      systemctl status frps
+  2. Check if FRP Authentication Tokens Match
+
+
+      # View token
+      cat /data/frps/frps.toml
+
+
+
+
+    Ensure the authentication token in the frps.toml configuration matches the token in the
+    DHCS platform under System Settings → Advanced Settings → Parameter Configuration
+    → Tunnel Address Configuration. Also, verify that the IP or domain configured is accessible
+    from the devices.
+
+    Refer to Enabling Advanced Settings
+
+Issue 3: Device Unable to Connect to Platform
+Troubleshooting Steps:
+
+  1. Check EMQX Service Status
+
+
+      systemctl status emqx
+    Normal status as shown below:
+
+
+
+
+  2. Check Device Authentication Service
+
+
+      systemctl status auth
+
+
+    Normal status as shown below:
+
+
+
+
+  3. View Authentication Service Logs
+
+
+      tail -f /data/auth/logs/sys-info.log
+      tail -f /data/auth/logs/sys-error.log
+
+
+
+
+  4. View EMQX Service Logs
+
+
+      tail -f /data/emqx/logs/emqx.log.1
+
+
+
+
+Container Deployment Notes
+If deployed via Podman, use the following commands to check container service status:
+  # View container running status
+  podman ps
+
+
+  # View container logs
+  podman logs <container_name>
+
+
+
+7. Advanced Maintenance Mode
+7.1 Advanced Maintenance Mode
+Use the dhcs-mode tool when you need to reset the superadmin password or adjust the system
+operation mode.
+
+
+  dhcs@dhcs:~$ dhcs-mode
+
+
+  Please select an operation:
+  1) Reset the superadmin password
+  2) Advanced Model (The advanced mode allows for the maintenance of system
+  settings information after logging in as a superuser)
+  3) Standard Model (This mode is adopted during the regular operation)
+  4) Exit
+  Please entry option(1-4): 1
+  The password for the superadmin account has been reset to the default password
+  'admin@123'. Please login to the system immediately to change the password.
+
+
+     Option 1: Resets the superadmin password to admin@123. Change it immediately after login.
+
+     Option 2: Enables Advanced Mode, opening the system advanced settings page.
+
+     Option 3: Switches back to Standard Operation Mode.
+
+
+8. offline Podman install
+8.1. offline Podman installation packages
+ubuntu 20.04.6 LTS
+http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/podman-offline-ubuntu20.04.tar.gz
+
+ubuntu 22.04.5 LTS
+
+http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/podman-offline-ubuntu22.04.tar.gz
+
+ubuntu 24.04.3 LTS
+http://hohunet.oss-cn-shenzhen.aliyuncs.com/DHCS/podman-offline-ubuntu24.04.tar.gz
+
+Download the offline installation package for the corresponding system and upload it to the
+server:
+# Unzip the offline installation package
+tar -xvf podman-offline-ubuntu24.04.tar.gz
+# Go to the offline installation package directory
+cd podman-offline-ubuntu24.04
+# Install the required deb
+sudo dpkg -i *.deb
+# Verify the Podman installation
+podman --version
+

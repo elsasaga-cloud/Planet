@@ -1,0 +1,372 @@
+                                                                       S2600 SERIES SWITCHES DATASHEET
+
+
+
+S2624P-4X 10G Uplink 24 Port Gigabit L3 Managed Ethernet POE Switch
+
+
+
+
+Product Description
+28 Port 10G Uplink 24 Port Gigabit L3 Managed Ethernet POE Switch, which provide 24*10/100/1000
+adaptive POE electrical port, 4*10G SFP+ Port,1*Console port, 1*USB series port. Used the high quality
+high speed network IC and the most stable POE chips, POE port satisified IEEE 802.3 af/at standard, this
+series POE Switch can provide no gap link for 10/100/1000M ethernet, and the PoE power supply port can
+automatically detect and supply power to the power receiving device that meets the standard, intelligent
+detection of non-PoE devices does not supply power, only transmits data. Completed       security    control
+strategy and CPU protect policy improve fault tolerance, ensure stable network operation and link load
+balance; equipment supports automatic DoS attack prevention and SNMP, IEEE 802.1, spanning tree and
+rapid spanning tree protocol, link aggregation and other functions . With advanced security functions and
+quality of service (QoS), it can be used as core layer, distribution layer ,and access layer switch with high
+density port and easy management, is an ideal choice for various business network applications.
+
+
+
+Main Features
+Compatible with IEEE 802.1d、IEEE 802.1w、IEEE 802.1s、IEEE 802.1p、IEEE 802.3、IEEE 802.3u、IEEE
+802.3x、IEEE 802.3z、IEEE 802.3ab、IEEE 802.3ae standard;
+L3 Management,support DHCP Server, QoS, ACL control, support SNMP V1/V2/V3, 支 持 IGMP Snooping
+v1/v2；
+Support Spanning Tree Protocol STP/RSTP/MSTP （ERPS), Support loop detection and self-healing, support
+remote loopback monitoring and control (802.3ah OAM);
+Support multiple VLAN divisions, mac VLAN, protocol VLAN, private VLAN;
+Support IP address + MAC address + VLAN + port binding, support DHCP Snooping, support IP source and
+DAI protection;
+Support IPV4/IPV6,RIP,OSPF
+Compatible with IEEE802.3at (30W) and IEEE802.3af (15.4w) power supply standards
+Support PoE management, PoE watchdog
+
+
+                                                     1
+                                                                     S2600 SERIES SWITCHES DATASHEET
+
+
+Application Environments
+Metropolitan fiber broadband network: telecommunications, cable television, network system integration,
+etc., data network operators
+Broadband private network: applicable to private networks in finance, government, petroleum, electric
+power, public security, education and other industries
+Multimedia transmission: Image, Voice, Data transmission, for distance learning, conference television,
+video phones and other applications
+Real-time monitoring: real-time control signal, image and data transmission at the same time
+
+
+
+CHARACTERISTICS
+                                                 I/O Interface
+
+         Power         AC100-240V/50-60Hz
+                       24*10/100/1000Mbps POE Port
+                       4*10G SFP+ Port
+       Ethernet
+                       1*RJ45 Console Port
+                       1*USB Port
+
+                                                 Performance
+
+        Capacity       128Gbps
+
+   Packet Forwaring
+                       95.23Mpps
+          Rate
+
+      DDR SDRAM        128MB
+
+     Flash Memory      16MB
+
+     Packet Buffer
+                       12Mbit
+        Memory
+
+     MAC Address       16K
+
+     Jumbo Frame       12Kbytes
+
+         VLANs         4096
+
+         MTBF          100000 hours
+
+                                                   Standard
+
+   Network Protocol IEEE 802.3: Ethernet MAC Protocol
+
+
+                                                     2
+                                                                    S2600 SERIES SWITCHES DATASHEET
+                     IEEE 802.3i: 10BASE-T Ethernet
+                     IEEE 802.3u: 100BASE-TX Fast Ethernet
+                     IEEE 802.3ab: 1000BASE-T Gigabit Ethernet
+                     IEEE 802.3z: 1000BASE-X Gigabit Ethernet (optical fiber)
+
+                     IEEE 802.3ae: 10G Ethernet（optical fiber）
+
+                     IEEE 802.3az: Energy-efficient Ethernet
+                     IEEE 802.3ad: Standard method of performing link aggregation
+                     IEEE 802.3x: flow control
+
+                     IEEE 802.1ab: LLDP/LLDP-MED（Link Layer Discovery Protocol）
+
+                     IEEE 802.1p: LAN Layer 2 Qos/Cos protocol (multicast filtering function) related to
+                     traffic priority
+                     IEEE 802.1q: VLAN Bridge Operation
+                     IEEE 802.1x: Client/Server Access Control and Authentication Protocol
+                     IEEE 802.1d: STP
+                     IEEE 802.1s: MSTP
+                     IEEE 802.1w: RSTP
+
+                      IEEE802.3af（15.4W）
+  PoE Protocol
+                      IEEE802.3at （30W）
+
+                      EMI: FCC Part 15 CISPR
+Industry Standard     (EN55032) class A EMS:
+                      EN61000-4-2 (ESD)
+                      10Base-T: Cat3, 4, 5 or above UTP/STP(≤100m)
+                      100Base-TX: Cat5 or above UTP/STP(≤100m)
+
+Network Medium        1000Base-TX: Cat5 or above UTP/STP(≤100m)
+                      Multi-mode Fiber: 50/125, 62.5/125, 100/140um
+
+                      Single-mode Fiber: 8/125、8.7/125、9/125、10/125um
+
+                                                 Certification
+
+Safety Certificate    CE、FCC、RoHS
+
+                                                 Environment
+
+    Working
+                      Working Temperature: -10~50°C
+  Environment
+
+
+                                                     3
+                                                                  S2600 SERIES SWITCHES DATASHEET
+                   Storage Temperature: -40~70°C
+
+                   Working Humidity ：10%~90%，non-condensing
+
+                   Storage Temperature：5%~90%，non-
+
+                   condensing
+
+                                          Function Indication
+
+                   Lighting：Powered
+   PWR (Power
+    Indicator)     Un-Light：No Power
+
+   SYS (System     Flashing: not start or fail
+    Indicator)     Lighting: System Running
+
+                   Lighting: Link connection
+   Link（Link
+                   Flashing: Data transmission
+   Indicator）
+                   Un-Light: Link disconnect
+
+    PoE/ACT        Lighting：PoE on
+
+（PoE Indicator）    Un-Light：PoE off
+
+                   Steady on: Link connected
+
+ACT（Data light）    Flashing: data transmission
+
+                   No light: The link is unreachable
+
+                                         Physical Specification
+
+                   Product Dimensions: 440*280*44mm
+  Structure Size   Packing Dimensions: 503*385.5*91mm
+
+                   Product N.W: 4.03KG
+                   Product G.W: 5.15KG
+
+                   Carton Dimensions: 520*380*405mm
+   Packing Info
+                   Packing quantity: 4 sets
+                   Packing weight: 21.4KG
+
+                   Input voltage: AC100-240V/50-60Hz
+  Power Voltage
+                   Power supply: 52V 7.5A 12V4A
+
+Power Consumption Product Consumption：33W
+
+
+                                                 4
+                                                             S2600 SERIES SWITCHES DATASHEET
+               PoE Budget：390W
+
+               Total Power Consumption: 440W
+
+               Ethernet switch 1 set, Instruction manual 1 pcs, Certificate1 pcs, Power cord 1 pcs
+Package List
+               Serial cable 1 pcs, Brackets 1 pair
+
+
+
+
+                                             5
+                                                                       S2600 SERIES SWITCHES DATASHEET
+Software Function
+
+                     Support hardware watchdog, factory reset, system and port LED
+
+                     Support global information, statistical information, log information
+
+   Basic Function    Support User management, alarm management, configuration management
+
+                     Support Port rate, duplex, flow control, max frame length configuration
+
+                     Support Port mirroring, port speed limit, port energy saving
+
+                     Support three-layer interface
+
+                     Support IPv4, IPv6 address configuration
+ Layer 3 interface
+                     Support ARP configuration
+
+                     Support ND configuration
+
+                     Support IPv4 static routing
+
+                     Support IPv6 static routing
+  Layer 3 routing
+                     Support RIP V1/V2
+
+                     Support OSPF
+
+                     Support DHCP server
+
+      DHCP           Support DHCP relay
+
+                     Support DHCP Snooping
+
+                     Support 4K VLAN
+
+                     Support 802.1Q VLAN, port-based VLAN
+
+                     Support Access, Trunk, Hybrid VLAN mode
+      VLAN
+                     Support GVRP (VLAN Registration Protocol)
+
+                     Support MAC VLAN, IP VLAN
+
+                     Support Voice VLANN
+
+                     Support MAC address automatic learning and aging
+   MAC address
+                     Support Static, dynamic, filtered address table
+
+                     Password protection
+ Security Features
+                     Support Restrict user access based on port number, IP address, MAC address
+
+                     Support HTTPS, SSH V1/V2
+
+
+
+                                                     6
+                                                                     S2600 SERIES SWITCHES DATASHEET
+                    Support VLAN-IP-MAC-PORT binding
+
+                    Support ARP detection, IP source protection, DoS protection
+
+                    Support DHCP Snooping、DHCP Attack protection
+
+                    Support 802.1X certification
+
+                    Support AAA (Authentication, Authorization, Accounting), Support RADIUS+
+
+                    Support Port security, port isolation
+
+                    Support L2(Layer 2)～L4(Layer 4) Packet filtering function
+ Access Control
+                    Support Port mirroring, flow rate limiting, QoS remarking
+
+                    Support 8 port queues
+
+      QOS           Support Port priority, 802.1P priority, DSCP priority
+
+                    Support SP, WRR Priority scheduling algorithm
+
+                    Support L2(Layer 2)～L4(Layer 4) Packet filtering function
+ Access Control
+                    Support Port mirroring, flow rate limiting, QoS remarking
+
+                    Support 8 port queues
+
+      QOS           Support Port priority, 802.1P priority, DSCP priority
+
+                    Support SP, WRR Priority scheduling algorithm
+
+                    Support STP(IEEE 802.1d), RSTP(IEEE 802.1w) & MSTP(IEEE 802.1s) protocol
+
+  Spanning Tree     Support Multi-instance, Support Aggregate interface
+
+                    Support BPDU Protection
+
+                    Support IGMP v1/v2/v3 Snooping
+
+                    Support MLD v1/v2 Snooping
+
+                    Support Layer 2 multicast fast leave mechanism, querier
+    Multicast
+                    Support Layer 2 IPv4 static multicast
+
+                    Support Layer 2 IPv6 static multicast
+
+                    Support IGMP v1/v2/v3 Layer 3 multicast
+
+                    Support multicast suppression
+Storm Suppression
+                    Support broadcast storm suppression
+
+
+
+                                                    7
+                                                                   S2600 SERIES SWITCHES DATASHEET
+                   Support unknown uni-cast suppression
+
+Ring Protection    Support Ring protection
+
+                   Support Static Aggregation
+
+                   Support LACP Dynamic Aggregation
+Link Aggregation
+                   Support based on IP, MAC, mixed load-balancing modes
+
+                   Maximum support 8 aggregation groups (8 ports per aggregation group)
+
+                   Support IPv6 Ping、IPv6 Traceroute、IPv6 Telnet
+
+     IPv6
+                   Support IPv6 SSH
+
+                   Support IPv6 HTTP, IPv6 HTTPS
+
+                   Support WEB Management（HTTP, HTTPS）
+
+                   Support CLI (Telnet, SSH V1/V2, Local serial port)
+
+                   Support SNMP V1/V2/V3
+
+                   Support RMON V2
+Management &
+ Maintenance       Support LLDP Device discovery
+
+                   Support SNTP Time synchronization
+
+                   Support CPU Monitoring, Memory Monitoring
+
+                   Support System log, classification warning
+
+                   Support Ping, Traceroute detection, cable detection
+
+
+
+
+                                                  8
+

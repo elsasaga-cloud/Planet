@@ -1,0 +1,461 @@
+S5500 SERIES SWITCHES
+DATASHEET
+High Performance Enterprise and Campus Network Switch
+Version:V1.3
+Release Date:2025/12/25
+
+Product Overview
+The S5500 Series switches designed on
+a domestic new generation switch Chip,
+which called VastLakes Series Chip
+platform . With 48 x 1G or 24 x 1G high
+speed ports and rich features, these
+switches will perfectly meets the
+requirements of Metro, Enterprise and
+campus networks.
+
+
+Key features of the S5500 Series Switches
+
+l   Support MPLS Features
+l   Varied port types support 100M/1G/25G/40G ports to meet different network requirement
+l   Implementing Vxlan and BGP protocols to build EVPN applications for Enterprise and
+    Campus scenario.
+l   Switch-to-switch encryption using MACsec (Media Access Control Security) AES-CMAC.
+l   Precision Timing Protocol.
+l   Rich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.
+
+The S5500 Series switches provide various power supply solutions for customers choosing,
+fixed single power supply, fixed redundant power supplies, and redundant hot-swappable
+power supplies (AC and DC are both available). The Fan solutions also have two bays with
+Field replaceable fan modules and build in fans. Generally, air flow of S5500 Series is front
+to rear (AFO), and some of models can do customization of rear to front (AFI) airflow.
+
+Table 1: Feasible PSU and airflow of S5500 Series
+
+Items                 AC        DC         PoE Port AFO         AFI      Power Input FAN
+
+S5548PB-2Q4X-EI       ◯         ◯          48         ◯         X        2             2
+
+
+
+                                                1
+S5500 SERIES SWITCHES                                                            DataSheet
+
+
+Items               AC        DC        PoE Ports AFO      AFI      Power Input FAN
+
+S5548P-2Q4X-SI      ◯         X         48        ◯        X        1             4
+S5548P-2Q4X-EI      ◯         ◯         48        ◯        X        2             2
+S5548-2Q4X-SI       ◯         X         0         ◯        X        1             4
+S5548-2Q4X-EI       ◯         ◯         0         ◯        ◯        2             2
+S5524PB-2Q4X-EI     ◯         ◯         24        ◯        ◯        2             2
+S5524P-2Q4X-SI      ◯         X         24        ◯        X        1             4
+S5524-2Q4X-SI       ◯         X         0         ◯        X        1             4
+S5524-2Q4X-EI       ◯         ◯         0         ◯        ◯        2             2
+
+
+The S5500 Series switches support varied management ways, include console port / in-band
+network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI (Command
+Line Interface), web management, Telnet and FTP connection. Support OAM to make
+management more convenient, and support SSH2.0, SSL, etc. to ensure security of
+management.
+Moreover, leveraging its profound technical expertise and in-depth understanding of campus
+and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management System
+(DHCS). It enhances network management and maintenance efficiency, reduces costs, elevates
+management intelligence, and delivers a faster, smarter, more secure and reliable network to
+better meet user requirements.
+
+
+
+
+                                             2
+S5500 SERIES SWITCHES                                                            DataSheet
+
+
+ Visual WEB GUI
+
+ HOS allows you to quickly configure common configuration items using a visual WEB GUI,
+ which lowers the application threshold for users.
+
+
+
+
+ The S5500 family of Ethernet switches consists of the following models:
+
+Models        Ethernet Ports         Management PSU 1/PSU 2            Cooling
+              48 x 10/100/1000Mb Console: RJ45
+                                               1200W AC/1200W 2 x hot-swappable
+S5548PB-      BaseT(PoE++ 90W) + RS232
+                                               AC hot-swappable Fan Modules (Front to
+2Q4X-EI       4 x 25G SFP28 + 2 x Ethernet: 1G
+                                               Modules          Rear airflow)
+              40G QSFP+           Port
+              48 x 10/100/1000Mb Console: RJ45
+S5548P-       BaseT(PoE+ 30W) + 4 RS232        Fixed one power         4 x fixed Fans (Front
+2Q4X-SI       x 25G SFP28 + 2 x   Ethernet: 1G supply                  to Rear airflow)
+              40G QSFP+           Port
+              48 x 10/100/1000Mb Console: RJ45
+                                               500W AC/500W 2 x hot-swappable
+S5548P-       BaseT(PoE+ 30W) + 4 RS232
+                                               AC hot-swappable Fan Modules (Front to
+2Q4X-EI       x 25G SFP28 + 2 x   Ethernet: 1G
+                                               Modules          Rear airflow)
+              40G QSFP+           Port
+            48 x 10/100/1000Mb       Console: RJ45
+S5548-2Q4X- BaseT + 4 x 25G          RS232         Fixed one power     4 x fixed Fans (Front
+SI          SFP28 + 2 x 40G          Ethernet: 1G supply               to Rear airflow)
+            QSFP+                    Port
+
+
+                                            3
+S5500 SERIES SWITCHES                                                       DataSheet
+
+
+
+Models       Ethernet Ports      Management PSU 1/PSU 2          Cooling
+            48 x 10/100/1000Mb   Console: RJ45
+                                               120W AC/120W 2 x hot-swappable
+S5548-2Q4X- BaseT + 4 x 25G      RS232
+                                               AC hot-swappable Fan Modules (Front to
+EI          SFP28 + 2 x 40G      Ethernet: 1G
+                                               Modules          Rear airflow)
+            QSFP+                Port
+             24 x 10/100/1000Mb Console: RJ45
+                                              500W AC/500W 2 x hot-swappable
+S5524PB-     BaseT(PoE++ 90W) + RS232
+                                              AC hot-swappable Fan Modules (Front to
+2Q4X-EI      4 x 25G SFP28 + 2 x Ethernet: 1G
+                                              Modules          Rear airflow)
+             40G QSFP+           Port
+             24 x 10/100/1000Mb Console: RJ45
+S5524P-      BaseT(PoE+ 30W) + 4 RS232        Fixed one power    4 x fixed Fans (Front
+2Q4X-SI      x 25G SFP28 + 2 x   Ethernet: 1G supply             to Rear airflow)
+             40G QSFP+           Port
+            24 x 10/100/1000Mb   Console: RJ45
+                                               120W AC/120W 2 x hot-swappable
+S5524-2Q4X- BaseT + 4 x 25G      RS232
+                                               AC hot-swappable Fan Modules (Front to
+EI          SFP28 + 2 x 40G      Ethernet: 1G
+                                               Modules          Rear airflow)
+            QSFP+                Port
+            24 x 10/100/1000Mb   Console: RJ45
+S5524-2Q4X- BaseT + 4 x 25G      RS232         Fixed one power   4 x fixed Fans (Front
+SI          SFP28 + 2 x 40G      Ethernet: 1G supply             to Rear airflow)
+            QSFP+                Port
+
+
+
+
+                                         4
+S5500 SERIES SWITCHES                                                         DataSheet
+
+S5500 Physical Specifications
+Package Switch capacity (Gbps)                   Dimensions (W x H x D) with package
+l S5548PB-2Q4X-EI: 456Gbps (bidirectional)       l S5548PB-2Q4X-EI: 55.7 x 15 x 49.5cm
+l S5548P-2Q4X-SI: 456Gbps (bidirectional)        l S5548P-2Q4X-SI: 55.7 x 15 x 49.5cm
+l S5548P-2Q4X-EI: 456Gbps (bidirectional)        l S5548P-2Q4X-EI: 55.7 x 15 x 49.5cm
+l S5548-2Q4X-SI: 456Gbps (bidirectional)         l S5548-2Q4X-SI: 55.7 x 15 x 49.5cm
+l S5548-2Q4X-EI: 456Gbps (bidirectional)         l S5548-2Q4X-EI: 55.7 x 15 x 49.5cm
+l S5524PB-2Q4X-EI: 408Gbps(bidirectional)        l S5524PB-2Q4X-EI: 55.7 x 15 x 49.5cm
+l S5524P-2Q4X-SI: 408Gbps(bidirectional)         l S5524P-2Q4X-SI: 55.7 x 15 x 49.5cm
+l S5524-2Q4X-SI: 408Gbps(bidirectional)          l S5524-2Q4X-SI: 55.7 x 15 x 49.5cm
+l S5524-2Q4X-EI: 408Gbps(bidirectional)          l S5524-2Q4X-EI: 55.7 x 15 x 49.5cm
+
+                                                 Dimensions (W x H x D) without package
+Layer 2/Layer 3 Throughput (Mpps)                l S5548PB-2Q4X-EI: 44.2x 4.4 x 42cm
+l S5548PB-2Q4X-EI: 678.53Mpps (bidirectional)    l S5548P-2Q4X-SI: 44.2 x 4.4 x 32.1cm
+l S5548P-2Q4X-SI: 678.53Mpps (bidirectional)     l S5548P-2Q4X-EI: 44.2 x 4.4 x 41cm
+l S5548P-2Q4X-EI: 678.53Mpps (bidirectional)     l S5548-2Q4X-SI: 44.2 x 4.4 x 32.1cm
+l S5548-2Q4X-SI: 678.53Mpps (bidirectional)      l S5548-2Q4X-EI: 44.2 x 4.4 x 41cm
+l S5548-2Q4X-EI: 678.53Mpps (bidirectional)      l S5524PB-2Q4X-EI: 44.2 x 4.4 x 41cm
+l S5524PB-2Q4X-EI: 607.10Mpps (bidirectional)    l S5524P-2Q4X-SI: 44.2 x 4.4 x 37.1cm
+l S5524P-2Q4X-SI: 607.10Mpps (bidirectional)     l S5524-2Q4X-SI: 44.2 x 4.4 x 32cm
+l S5524-2Q4X-SI: 607.10Mpps (bidirectional)      l S5524-2Q4X-EI: 44.2 x 4.4 x 41cm
+l S5524-2Q4X-EI: 607.10Mpps (bidirectional)
+
+
+
+Weight (Net Weight/Gross Weight)                 Cooling [CFM]-Total Maximum airflow
+l S5548PB-2Q4X-EI: 8.36/10.6kg                   l S5548PB-2Q4X-EI: 72.78
+l S5548P-2Q4X-SI: 5.38/7.62kg                    l S5548P-2Q4X-SI: 44.30
+l S5548P-2Q4X-EI: 7.76/10kg                      l S5548P-2Q4X-EI: 78.28
+l S5548-2Q4X-SI: 4.09/6.33kg                     l S5548-2Q4X-SI: 46.48
+l S5548-2Q4X-EI: 7.16/9kg                        l S5548-2Q4X-EI: 46.48
+l S5524PB-2Q4X-EI: 7.36/9.6kg                    l S5524PB-2Q4X-EI: 75.27
+l S5524P-2Q4X-SI: 6.96/9.2kg                     l S5524P-2Q4X-SI: 46.48
+l S5524-2Q4X-SI: 3.9/6.14kg                      l S5524-2Q4X-SI: 46.48
+l S5524-2Q4X-EI: 6.67/9kg                        l S5524-2Q4X-EI: 46.48
+
+
+
+
+                                             5
+S5500 SERIES SWITCHES                                                            DataSheet
+
+Power consumption                                   Environmental ranges
+Worst case, all ports used, line-rate traffic       l Operating temperature: 0ºC to 40ºC
+l S5548PB-2Q4X-EI: 72W                              l Storage temperature: -40ºC to 70ºC
+l S5548P-2Q4X-SI: 86W                               l Running Humidity: 10% to 90% (No
+l S5548P-2Q4X-EI: 70W                                 condensation)
+l S5548-2Q4X-SI: 72W                                l Store Humidity: 5 to 95% (No
+l S5548-2Q4X-EI: 60W                                  condensation)
+l S5524PB-2Q4X-EI: 54W
+l S5524P-2Q4X-SI: 70W                               Operating altitude
+l S5524-2Q4X-SI: 51W                                l S5548PB-2Q4X-EI: ≤5000m
+l S5524-2Q4X-EI: 60W                                l S5548P-2Q4X-SI: ≤5000m
+                                                    l S5548P-2Q4X-EI: ≤5000m
+Typical power consumption                           l S5548-2Q4X-SI: ≤2000m
+l S5548PB-2Q4X-EI: 61W                              l S5548-2Q4X-EI: ≤5000m
+l S5548P-2Q4X-SI: 84W                               l S5524PB-2Q4X-EI: ≤5000m
+l S5548P-2Q4X-EI: 58W                               l S5524P-2Q4X-SI: ≤5000m
+l S5548-2Q4X-SI: 69W                                l S5524-2Q4X-SI: ≤2000m
+l S5548-2Q4X-EI: 59W                                l S5524-2Q4X-EI: ≤5000m
+l S5524PB-2Q4X-EI: 53W
+l S5524P-2Q4X-SI: 69W
+                                                    Temperature alarm
+l S5524-2Q4X-SI: 51W
+                                                    l Alarm threshold: 50ºC
+l S5524-2Q4X-EI: 36W
+
+                                                    MTBF
+CPU                                                 l EI (Swapable PSU and FAN): ≥90000h
+l Dual-core processor, ARM A53 on all                 (~10.3 Years)
+  models                                            l SI (Fixed PSU and FAN): ≥70000h
+                                                      (~8.0 Years)
+Memory
+l eMMc: 8GB on all models                           PoE Power Budget
+l DRAM: 2GB on all models                           l S5548PB-2Q4X-EI: 2200W
+                                                    l S5548P-2Q4X-SI: 780W
+                                                    l S5548P-2Q4X-EI: 740W
+                                                    l S5524PB-2Q4X-EI: 740W
+                                                    l S5524P-2Q4X-SI: 380W
+
+
+
+
+                                                6
+S5500 SERIES SWITCHES                                                                                     DataSheet
+
+
+S5500 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported by
+the devices are listed in the document ‘HOS Software features’ .
+
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                         HOS Network Platform
+
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+      Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+       LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+     Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+
+             Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+                                                 Hardware layer
+
+               CENTEC Switch Chipset                                             CPU Subsystem
+
+                 Cooling SubSystem                                             AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* All HOHUNET switches use a normalized software platform and image package file
+* Unified software version iteration plan
+* Unified user experience
+
+
+                                                         7
+S5500 SERIES SWITCHES                                                         DataSheet
+
+
+Ordering Information
+S5500 Series Switches
+Items                   Description
+
+                        1G Enterprise and Campus Network switch,with 48*1G Base-T(PoE++
+S5548PB-2Q4X-EI         90W),4*25G SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-
+                        swap fan modules
+
+                        1G Enterprise and Campus Network switch,with 48*1G Base-T(PoE+
+S5548P-2Q4X-SI
+                        30W),4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans
+
+                        1G Enterprise and Campus Network switch,with 48*1G Base-T(PoE+
+S5548P-2Q4X-EI          30W),4*25G SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-
+                        swap fan modules
+
+                        1G Enterprise and Campus Network switch,with 48*1G Base-T,4*25G
+S5548-2Q4X-SI
+                        SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans
+
+                        1G Enterprise and Campus Network switch,with 48*1G Base-T,4*25G
+S5548-2Q4X-EI           SFP28,2*40G QSFP+,Dual power supply modules, 2 hot-swap fan
+                        modules
+
+                        1G Enterprise and Campus Network switch, with 24*1G Base-T
+S5524PB-2Q4X-EI         (PoE++ 90W),4*25G SFP28,2*40G QSFP+, Dual power supply
+                        modules, 2 hot-swap fan modules
+
+                        1G Enterprise and Campus Network switch,with 24*1G Base-T(PoE+
+S5524P-2Q4X-SI
+                        30W),4*25G SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans
+
+
+                        1G Enterprise and Campus Network switch,with 24*1G Base-T,4*25G
+S5524-2Q4X-SI
+                        SFP28,2*40G QSFP+,One fixed power supply,4 Fixed fans
+
+                        1G Enterprise and Campus Network switch, with 24*1G Base-T,4*25G
+S5524-2Q4X-EI           SFP28,2*40G QSFP+, Dual power supply modules, 2 hot-swap fan
+                        modules
+
+
+
+
+                                           8
+S5500 SERIES SWITCHES                                                      DataSheet
+
+
+AC/DC Power Supplies use for S5500 Series EI model
+Items                   Description
+
+PSU-120-AC-AFO          S5500 Series 120W AC power supply (Front to Rear Airflow)
+
+
+PSU-120-DC-AFO          S5500 Series 120W DC power supply (Front to Rear Airflow)
+
+
+PSU-500-AC-AFO          S5500 Series 500W AC power supply (Front to Rear Airflow)
+
+
+PSU-500-DC-AFO          S5500 Series 500W DC power supply (Front to Rear Airflow)
+
+
+PSU-550-AC-AFO          S5500 Series 550W AC power supply (Front to Rear Airflow)
+
+
+PSU-550-DC-AFO          S5500 Series 550W DC power supply (Front to Rear Airflow)
+
+
+PSU-1200-AC-AFO         S5500 Series 1200W AC power supply (Front to Rear Airflow)
+
+
+PSU-1200-DC-AFO         S5500 Series 1200W DC power supply (Front to Rear Airflow)
+
+
+
+Software Licenses
+Items                   Description
+
+
+Software License        EB, Basic L3 software features, Preinstalled
+
+
+Software License        MS, L3 enhance features software license key
+
+
+Software License        MA, MPLS features software license key
+
+
+Software License        ST, Stacking feature software license key
+
+
+
+
+                                         9
+S5500 SERIES SWITCHES                                                  DataSheet
+
+Accessory of S5500 Series
+                        Front      Rear                            Console
+Items                                         Screw   Power Cord
+                        Mounting   Mounting                        (DB9 to RJ45)
+
+S5548PB-2Q4X-EI         2          2          14      2            1
+
+S5548P-2Q4X-SI          2          /          14      1            1
+
+S5548P-2Q4X-EI          2          2          14      2            1
+
+S5548-2Q4X-SI           2          /          14      1            1
+
+S5548-2Q4X-EI           2          2          14      2            1
+
+S5524PB-2Q4X-EI         2          2          14      2            1
+
+S5524P-2Q4X-SI          2          /          14      1            1
+
+S5524-2Q4X-SI           2          /          14      1            1
+
+S5524-2Q4X-EI           2          2          14      2            1
+
+
+
+
+                                       10
+S5500 SERIES SWITCHES                                                                                DataSheet
+
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

@@ -1,0 +1,375 @@
+Datasheet
+
+
+
+
+               8-Port 2.5G and 1-Port 10G
+               SFP+ Web Managed Switch
+
+
+
+
+  Product Highlights
+
+  n 8*2.5Gbps RJ45 ports+1*10Gbps SFP+ port
+
+  n Comply with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3bz, IEEE 802.3z,IEEE
+
+    802.3ae, and IEEE 802.3x standards
+
+  n Ethernet Ports support 10M/100M/1G/2.5G self-adaptive
+
+  n Support automatic port flipping (Auto MDI/MDIX)
+
+  n The panel indicator LEDs will monitor the working status and assist in fault analysis
+
+  n Flow control method, IEEE802.3x standard for full duplex and Backpressure standard for half
+
+    duplex
+
+  n Support QoS data priority
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                             www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+
+     Description                                       Specification
+
+    Model                                              HR310S-8T1XS
+
+                                                      8*2.5Gbps RJ45 ports
+    Interface                                         1*10Gbps SFP+ port
+
+                                                      IEEE802.3 (Ethernet)
+                                                      IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3ab (Gigabit Ethernet)
+    Port Standard                                     IEEE802.3z (Gigabit Ethernet Fiber Standard)
+                                                      IEEE802.3bz (2.5G Ethernet)
+                                                      IEEE 802.3ae (10G Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+
+    Switching Bandwidth                                60Gbps
+
+
+    Packet Forwarding Rate                             44.64Mpps
+
+
+    Packet Buffer                                      8Mbit
+
+
+    MAC Address Table                                  4K
+
+
+
+    Jumbo Frame                                       16K
+
+
+
+    VLAN                                               VLAN range 1-4094, maximum active VLAN is 31
+
+
+
+    Transmission Method                               Store and Forward
+
+
+                                                       AC 100-240V 50/60Hz
+    Power Supply
+                                                       DC 12V 1A
+
+
+    Mainboard Power Consumption                        11.29W
+
+
+                                                       Product Dimensions: 160*90*35mm
+                                                       Packaging Dimensions: 175*1120*73mm
+    Structure Information
+                                                       Product Net Weight: 0.33KG
+                                                       Product Gross Weight: 0.47KG
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                       www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                      Specification
+                                                       Carton Dimensions: 520*385*205mm
+    Packing Information                                Packing Quantity: 20PCS
+                                                       Packing Weight: 10.4KG
+
+
+    Package Contents                                   Switch 1pcs, Ac adapter 1pcs, Manual 1pcs, Certificate of Inspection 1pcs
+
+
+    Fan Quantity                                       0
+
+
+    Installation                                       Desktop
+
+                                                       Port Surge: Common mode 4KV, Differential mode 2KV
+    Surge Protection
+                                                       Electrostatic ESD: Air 8KV, Contact 6KV
+
+    Operating Temperature                              0~40°C
+
+
+    Storage Temperature                                -40~70°C
+
+
+    Operation Humidity                                 10%~90%, non condensing
+
+
+    Storage Humidity                                   5%~95%, non condensing
+
+
+                                                       On: Powered on
+    PWR Green LED
+                                                       Off: Powered off
+
+                                                       Green LED on: 2.5Gbps Link normal
+                                                       Yellow LED on: 10/100/1000Mbps Link normal
+    Ports 1-8
+                                                       Off: Link blocked
+                                                       Flashing: Data transmitting
+
+                                                       Blue LED on: 10Gbps Link normal
+                                                       Green LED on: 1G/2.5Gbps Link normal
+    Port 9
+                                                       Off: Link blocked
+                                                       Flashing: Data transmitting
+
+
+    Reset                                             Long press for 6 seconds to restore factory settings
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                             www.hruitech.com
+Datasheet
+
+
+   Software Features
+     Description                                       Specification
+    L2 Function
+
+
+                                                      Port Switch configuration
+
+
+                                                      Port Speed configuration
+
+
+    Port                                              Port Duplex configuration
+
+
+                                                      Port Flow Control configuration
+
+
+                                                      Jumbo Frame
+
+
+                                                      Up to 2 groups
+
+
+                                                      Static Group
+    Link Aggregation
+
+                                                      LACP
+
+                                                       Max. 4 members per group
+
+                                                      Boardcast suppression
+
+
+    Storm Control                                     Unknown Multicast
+
+
+                                                      Unknown Unicast
+
+
+    Port Mirroring                                    Support
+
+
+                                                      Access/Trunk/Hybrid
+    VLAN
+                                                      VLAN range 1-4094, maximum active VLAN is 31
+
+
+    Port Isolation                                    Support
+
+
+    Port Rate-limit                                   Support
+
+
+                                                      Filtering MAC Address
+    MAC Address
+                                                      Static MAC address
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                      www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+     Description                                       Specification
+
+                                                      STP/RSTP
+
+    Spanning Tree Protocol
+
+                                                      Edge Port
+
+
+
+                                                      IGMP Snooping
+
+    Multicast
+
+                                                      IGMP V1/V2
+
+
+
+                                                      Traffic classification, supporting SP and WRR scheduling
+
+
+
+    QoS                                                Port Priority
+
+
+
+                                                      Support up to 8 queues per port
+
+
+
+     Services
+
+
+
+     Access Protocol                                  HTTP
+
+
+
+     Security                                         DHCP Snooping
+
+
+
+     Diagnostics
+
+
+
+     Port Statistics                                  Support
+
+
+
+     Equipment Management
+
+
+
+     Manager Access                                   HTTP
+
+
+
+                                                      Static Address
+
+     Manager IP
+
+                                                      DHCP Client
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                  www.hruitech.com
+Datasheet
+
+
+   Software Features
+
+     Description                                       Specification
+
+     User Management                                  Support
+
+
+     Firmware Management                              Firmware upgrade
+
+
+     Configuration Management                         Upload/Backup Configuration
+
+
+     Save                                             Support
+
+
+     Restart                                          Support
+
+
+     Factory Defaults                                 Support
+
+
+    Standard Compliance
+
+
+     IEEE 802.3x flow control and back pressure
+
+
+     IEEE 802.1D Spanning Tree Protocol
+
+
+     IEEE 802.1w Rapid Spanning Tree Protocol
+
+
+     IEEE 802.1p Class of Service
+
+
+     IEEE 802.1Q VLAN tagging
+
+
+     IEEE 802.3af Power over Ethernet
+
+
+     IEEE 802.3at Power over Ethernet Plus
+
+
+     IEEE 802.3bt PoE++ Power over Ethernet Plus Plus
+
+
+     RFC 768 UDP
+
+
+     RFC 791 IP
+
+
+     RFC 792 ICMP
+
+
+     RFC 2068 HTTP
+
+
+     RFC 1112 IGMP v1
+
+
+     RFC 2236 IGMP v2
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                     www.hruitech.com
+Datasheet
+
+
+
+   Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

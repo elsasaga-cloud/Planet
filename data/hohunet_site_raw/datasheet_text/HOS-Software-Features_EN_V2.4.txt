@@ -1,0 +1,873 @@
+HOS (HOHUNET OPERATING SYSTEM)
+UNIFIED SWTICH SOFTWARE FEATURES LIST
+
+Version: V2.4（HOS Firmware Version: V3.0.22）
+Release Date: 2025/12/12
+
+Overview
+HOS, launched by HOHUNET, is a switch operating system, which is also an unified software
+platform used by all HOHUNET switches. HOS has experienced through commercial
+application test over 10 years. Its advanced modular flexible architecture offers good
+hardware decoupling capability. HOHUENT constantly iterates and releases an updated
+versions every quarter to fix bugs or update features, ensuring better adaptation to an ever-
+changing network environment.
+
+keywords
+• Accumulating and iterating over a span of 10 years.
+• An unified Software Platform.
+• Being verified in the extensive commercial network environment.
+• The features are modularized, which allows for pruning, and the code can be easily ported
+  for the same reason.
+
+Features List table
+Tips for reading：
+EB-Basic license MS-Advanced license MA-Metropolitan Area Network License
+ST-Stacking license ◯-support X-nonsupport
+
+Type         Sub Type Feature            Description                 EB    MS    MA Remark
+
+                                         Ethernet interface
+                                         operating modes(full
+                                                                     ◯     ◯     ◯
+                                         duplex, half duplex, and
+                                         auto-negotiation)
+Ethernet                Interface        Ethernet interface
+basic        Ethernet                                                ◯     ◯     ◯
+                                         operating rates
+features
+                                         Jumbo Frame                 ◯     ◯     ◯
+                                         port-xconnect               ◯     ◯     ◯
+                        Flow-control     Flow-control tx/rx          ◯     ◯     ◯
+
+                                              1
+HOS Platform Features List
+
+
+Type        Sub Type Feature            Description                EB   MS   MA Remark
+
+                                        Port based storm-control   ◯    ◯    ◯
+                       Storm-control    VLAN based storm-
+                                                                   ◯    ◯    ◯
+                                        control
+                                        Port-block(know/unknown
+                       Port-block       unicast; know/unknown   ◯       ◯    ◯
+                                        multicast/broadcast)
+                                        L2/L3/All Port-isolate     ◯    ◯    ◯
+            Ethernet   Port-isolate
+                                        Uni-direction isolate      ◯    ◯    ◯
+                                        L2 Protocol
+                       L2 Protocol      Tunnel(support
+                                                                   ◯    ◯    ◯
+                       Tunnel           CFM/DOT1X/SLOW-
+                                        PROTO/STP
+                                        Store-and-forward          ◯    ◯    ◯
+                       Forward mode
+                                        Cut-through                ◯    ◯    ◯
+
+                       VLAN Access      Access/Trunk               ◯    ◯    ◯
+                       mode             Default VLAN               ◯    ◯    ◯
+Ethernet
+basic                                   VLAN Classification(port
+                       VLAN
+features                                based/mac based/IP         ◯    ◯    ◯
+                       Classification
+                                        based/protocol based)
+                                        Basic QinQ                 ◯    ◯    ◯
+
+            VLAN                        Selective QinQ             ◯    ◯    ◯
+                       QinQ
+                                        VLAN Mapping(1:1 VLAN
+                                                                   ◯    ◯    ◯
+                                        Translation)
+                       VLAN Statistics VLAN Statistics             ◯    ◯    ◯
+                       Private VLAN     Private VLAN               ◯    ◯    ◯
+                       Voice VLAN       Voice VLAN                 ◯    ◯    ◯
+                       Guest VLAN       Guest VLAN                 ◯    ◯    ◯
+                                        Automatic learning and
+                                                                   ◯    ◯    ◯
+                                        aging of MAC addresses
+
+                       MAC Address      Hardware Learning          ◯    ◯    ◯
+            MAC
+                       Table            Static and dynamic MAC
+                                                                   ◯    ◯    ◯
+                                        address entries
+                                        Blackhole MAC              ◯    ◯    ◯
+
+
+                                            2
+HOS Platform Features List
+
+
+Type         Sub Type Feature           Description                EB   MS   MA Remark
+
+                         MAC Flapping
+                                        MAC Flapping detect        ◯    ◯    ◯
+             MAC         detect
+                         Port Bridge    Port Bridge                ◯    ◯    ◯
+                                        Static-LAG & LACP          ◯    ◯    ◯
+Ethernet                                LAG load balance(SLB)      ◯    ◯    ◯
+basic
+features                                LAG load balance(DLB)      ◯    ◯    ◯
+                         Link
+             LAG                        LAG load balance(RR)       ◯    ◯    ◯
+                         aggregation
+                                        LAG Self-healing           ◯    ◯    ◯
+                                        Link aggregation
+                                                                   ◯    ◯    ◯
+                                        weighting
+                         STP            Spanning-Tree Protocol     ◯    ◯    ◯
+                                        Rapid Spanning-Tree
+                         RSTP                                      ◯    ◯    ◯
+                                        Protocol
+                                        Multi-instance Spanning-
+                         MSTP                                      ◯    ◯    ◯
+                                        Tree Protocol
+             xSTP
+                                        BPDU Filter/Guard          ◯    ◯    ◯
+                         Spanning-Tree Root Guard                  ◯    ◯    ◯
+Ethernet                 Protocol
+Ring                     Protection    Loop Guard                  ◯    ◯    ◯
+protection                              Anti TC-BPDU attack        ◯    ◯    ◯
+features
+                                        Single ERPS ring           ◯    ◯    ◯
+                                        tangent ERPS rings         ◯    ◯    ◯
+             ERPS        ERPS
+                                        intersecting ERPS rings    ◯    ◯    ◯
+                                        compatible with RRPP       ◯    ◯    ◯
+             Loop
+                         Loop back
+             back                       Loop back detection        ◯    ◯    ◯
+                         Detect
+             Detect
+                                        IGMPv1/v2/v3 Snooping      ◯    ◯    ◯
+                         IGMP           Fast leave                 ◯    ◯    ◯
+Layer2       Layer2      Snooping
+                                        Static IGMP snooping
+Multicast    Multicast                                             ◯    ◯    ◯
+                                        group
+                                        MVR(Multicast VLAN
+                         MVR                                       ◯    ◯    ◯
+                                        Registration)
+
+
+                                            3
+HOS Platform Features List
+
+
+Type         Sub Type Feature           Description               EB   MS   MA Remark
+
+                                        Static and dynamic ARP
+                                                                  ◯    ◯    ◯
+                                        entries
+                         ARP
+                                        Aging of ARP entries      ◯    ◯    ◯
+             ARP
+                                        Gratuitous ARP            ◯    ◯    ◯
+                                        basic ARP-Proxy           ◯    ◯    ◯
+                         ARP proxy
+                                        local ARP-Proxy           ◯    ◯    ◯
+                                        IPv4 Static Routes        ◯    ◯    ◯
+                                        Black hole Routes         ◯    ◯    ◯
+                         IPv4 Static    co-work with IP SLA       ◯    ◯    ◯
+                         Routes
+                                        VRF(Virtual Routing and
+                                                                  ◯    ◯    ◯
+                                        Forwarding)
+                                        uRPF check                ◯    ◯    ◯
+                         RIP            RIPv1/v2                  ◯    ◯    ◯
+                         OSPFv2         OSPFv2                    X    ◯    ◯
+                         IS-IS          IS-IS                     X    ◯    ◯
+IPv4         IPv4                       IBGP                      X    ◯    ◯
+Forwarding   Unicast     BGP
+                                        EBGP                      X    ◯    ◯
+             Routing
+                                        Route-map                 ◯    ◯    ◯
+                         Route policy
+                                        IPv4 prefix-list          ◯    ◯    ◯
+                         PBR            PBR(Policy-based Routing) ◯    ◯    ◯
+                                        ICMP redirect             ◯    ◯    ◯
+                         ICMP
+                                        ICMP unreachable          ◯    ◯    ◯
+                                        ECMP(SLB)                 ◯    ◯    ◯
+                                        ECMP(DLB)                 ◯    ◯    ◯
+                         ECMP
+                                        ECMP(RR)                  ◯    ◯    ◯
+                                        ECMP Self-healing         ◯    ◯    ◯
+                                        IGMPv1/v2/v3              ◯    ◯    ◯
+                         IGMP           IGMP-Proxy                ◯    ◯    ◯
+             IPv4
+             Multicast                  IGMP SSM Mapping          ◯    ◯    ◯
+             Routing
+                                        PIM-SM                    X    ◯    ◯
+                         PIM
+                                        PIM-DM                    X    ◯    ◯
+                                             4
+HOS Platform Features List
+
+
+Type          Sub Type Feature               Description             EB   MS   MA Remark
+
+              IPv6 Basic ICMPv6              ICMPv6                  X    ◯    ◯
+              Protocol NDP                   NDP                     X    ◯    ◯
+                          IPv6 Static
+                                             IPv6 Static Routes      X    ◯    ◯
+                          Routes
+              IPv6        RIPng              RIPng                   X    ◯    ◯
+              Unicast
+                          OSPFv3             OSPFv3                  X    ◯    ◯
+              Routing
+                          IS-IS              IS-IS                   X    ◯    ◯
+                          BGP4+              BGP4+                   X    ◯    ◯
+                          MLD v1/v2          MLD v1/v2               X    ◯    ◯
+IPv6          IPv6        MLD v1/v2
+                                             MLD v1/v2 Snooping      X    ◯    ◯
+Forwarding    Multicast   Snooping
+              Routing     MVR6               MVR6                    X    ◯    ◯
+                          PIM-SM v6          PIM-SM v6               X    ◯    ◯
+                          IPv6 over IPv4
+                                             IPv6 over IPv4 Tunnel   X    ◯    ◯
+                          Tunnel
+              IP Tunnel
+                          6to4 Tunnel        6to4 Tunnel             X    ◯    ◯
+                          ISATAP Tunnel ISATAP Tunnel                X    ◯    ◯
+                                             DHCPv6 Relay            X    ◯    ◯
+              IPv6        DHCPv6
+                                             DHCPv6 Snooping         X    ◯    ◯
+              Service
+                          IPv6 Prefix List   IPv6 Prefix-list        X    ◯    ◯
+                                             BFD for Static route    X    ◯    ◯
+                                             BFD for OSPFv2          X    ◯    ◯
+              BFD         BFD
+                                             BFD for VRRP/Track      X    ◯    ◯
+                                             BFD for PBR             X    ◯    ◯
+Device                                       VRRP                    ◯    ◯    ◯
+reliability   VRRP        VRRP
+features                                     Track for VRRP          ◯    ◯    ◯
+                                             multi-instance          ◯    ◯    ◯
+
+              Smart                          load balance            ◯    ◯    ◯
+                          Smart Link
+              Link                           Multi-Link              ◯    ◯    ◯
+                                             Monitor-link            ◯    ◯    ◯
+
+
+                                                  5
+HOS Platform Features List
+
+
+Type          Sub Type Feature           Description               EB   MS   MA Remark
+
+                                         MLAG basic                ◯    ◯    ◯
+              MLAG       MLAG
+                                         MLAG orphan Port          ◯    ◯    ◯
+Device
+reliability                              Maximum number of
+features                                 stacked devices: 8
+              Stacking   Stacking                                  ◯    ◯    ◯   *1
+                                         Stack port: Any port or
+                                         AGG
+                                         Auto detection            X    ◯    ◯
+                                         Network fault detection   X    ◯    ◯
+              EFM        EFM (802.3ah)
+                                         Network fault handle      X    ◯    ◯
+                                         remote loop back          X    ◯    ◯
+Ethernet
+                                         Hardware CCM detect       X    ◯    ◯
+OAM
+              CFM        CFM (802.1ag) MAC Ping                    X    ◯    ◯
+                                         MAC Trace                 X    ◯    ◯
+                                         Loss measure(LM)          X    ◯    ◯   *2
+              Y.1731     Y.1731
+                                         Latency and Jitter measure X   ◯    ◯
+                                         Power supply on-spot
+                                                                   ◯    ◯    ◯
+                                         detection
+                         System Power    Power supply capability
+                                                                   ◯    ◯    ◯
+                         management      detection
+                                         Power capability auto
+                                                                   ◯    ◯    ◯
+                                         configuration (PSE)
+                                         Legacy PD detection       ◯    ◯    ◯
+                                         PD max power
+                                                                   ◯    ◯    ◯
+                                         management
+PoE features PoE
+                         Power Supply    PD priority management    ◯    ◯    ◯
+                         Management
+                                         Power Supply Task Plan
+                                                                   ◯    ◯    ◯
+                                         management(Not ready)
+                                         PD Mandatory power
+                                                                   ◯    ◯    ◯
+                                         supply
+                                         PSE log                   ◯    ◯    ◯
+                         operations      PSE Chipset temperature
+                                                                   ◯    ◯    ◯
+                         management      inquire
+                                         PSE firmware update       ◯    ◯    ◯
+
+                                             6
+HOS Platform Features List
+
+
+Type        Sub Type Feature              Description                    EB   MS   MA Remark
+
+                                          Traffic classification based
+                                          on COS/DSCP (simple            ◯    ◯    ◯
+                                          classification)
+                                          Traffic classification based
+                       Traffic
+                                          on ACL ( complex               ◯    ◯    ◯
+                       classification
+                                          classification)
+                                          Traffic classification based
+                                          on inner header of the         ◯    ◯    ◯
+                                          tunnel packets
+                                          Queue scheduling               ◯    ◯    ◯
+                                          Remark the priority
+                                          fields(COS/DSCP) of the        ◯    ◯    ◯
+                                          packet based on ACL
+                       Traffic            Remark the priority
+                       behaviors          fields(COS/DSCP) of the
+                                                                         ◯    ◯    ◯
+                                          packet based on Table
+                                          Map
+                                          Flow redirection               ◯    ◯    ◯
+QoS                                       Flow mirror                    ◯    ◯    ◯
+            QoS
+features
+                                          Traffic policing based on
+                                                                         ◯    ◯    ◯
+                                          direction(in/out) of Port
+                                          Traffic policing based on
+                                                                         ◯    ◯    ◯
+                                          direction(in/out) of VLAN
+                       Traffic policing   Traffic policing based on
+                                                                         ◯    ◯    ◯
+                                          direction(in/out) of flow
+                                          Traffic policing based on
+                                          direction(in/out) of           ◯    ◯    ◯
+                                          aggregated flow
+                                          Queue based traffic
+                                                                         ◯    ◯    ◯
+                       Traffic shaping    shaping
+                                          Port based traffic shaping     ◯    ◯    ◯
+                                          SP(Strict
+                                                                         ◯    ◯    ◯
+                                          Priority)scheduling
+                       Congestion         WDRR(Weighted Deficit
+                                                                         ◯    ◯    ◯   *3
+                       management         Round Robin)scheduling
+                                          SP + WDRR mixed
+                                                                         ◯    ◯    ◯   *4
+                                          scheduling
+                                              7
+HOS Platform Features List
+
+
+Type          Sub Type Feature            Description                    EB   MS   MA Remark
+
+                                          TD(Tail Drop)                  ◯    ◯    ◯
+                       Congestion
+                       avoidance          WRED(Weighted Random
+                                                                         ◯    ◯    ◯
+                                          Early Detection)
+                                          Packet counts and bytes
+                                          statistics based on traffic    ◯    ◯    ◯
+                                          classification
+                                          Packet counts and bytes
+QoS
+              QoS      Traffic statistics statistics based on the        ◯    ◯    ◯
+features
+                                          color after traffic policing
+                                          Forwarded and discarded
+                                          packet counts and bytes        ◯    ◯    ◯
+                                          statistics
+
+                       ECN (Explicit      ECN tags based on Tail
+                                                                         ◯    ◯    ◯   *5
+                       congestion         Drop
+                       notification)      ECN tags based on WRED ◯            ◯    ◯
+                                          VARP(Virtual-ARP)              ◯    ◯    ◯
+              VARP     Virtual gateway
+                                          VARP subnet                    ◯    ◯    ◯
+                                          Manual configure VxLAN
+                                                                         ◯    ◯    ◯
+                                          tunnel
+                                          VxLAN distributed
+                                                                         ◯    ◯    ◯
+                                          gateway
+                                          VxLAN active-active
+                                                                         ◯    ◯    ◯
+                                          access
+                                          Interconnect across Data
+                       VxLAN                                             ◯    ◯    ◯
+                                          Centers based on VxLAN
+Data Center
+                                          Edit DSCP in VxLan outer
+              Tunnel                                                     ◯    ◯    ◯
+                                          header
+                                          BGP EVPN                       X    ◯    ◯
+                                          Support to enable/disable
+                                          overlay split horizon per- ◯        ◯    ◯
+                                          VNI
+                       GRE Tunnel         GRE Tunnel                     ◯    ◯    ◯
+                       NVGRE Tunnel NVGRE Tunnel                         ◯    ◯    ◯
+                       GENEVE
+                                          GENEVE Tunnel                  ◯    ◯    ◯
+                       Tunnel
+
+                                               8
+ HOS Platform Features List
+
+
+Type         Sub Type Feature          Description             EB   MS   MA Remark
+
+                        DCBX           LLDP support DCBX TLV   ◯    ◯    ◯
+Data Center DCB
+                        PFC            PFC                     ◯    ◯    ◯
+                        LDP            LDP                     X    X    ◯
+                        MPLS
+                                       MPLS Forwarding         X    X    ◯
+                        Forwarding
+                        VPWS           VPWS (L2VPN)            X    X    ◯
+                        VPLS           VPLS (L2VPN)            X    X    ◯
+Metro
+             MPLS
+Feature                 L3VPN          L3VPN                   X    X    ◯
+                        MPLS OAM       MPLS OAM                X    X    ◯
+                        MPLS Stats     MPLS Stats              X    X    ◯
+                        ACL            ACL                     X    X    ◯
+                        Qos            Qos                     X    X    ◯
+                                       SSHv1/v2                ◯    ◯    ◯
+                        SSH
+                                       RSA Key generation      ◯    ◯    ◯
+                        RADIUS         RADIUS                  ◯    ◯    ◯
+                        TACAS+         TACAS+                  ◯    ◯    ◯
+                                       Authentication          ◯    ◯    ◯
+                        AAA            Authorization           ◯    ◯    ◯
+                                       Accounting              ◯    ◯    ◯
+                                       Port based dot1x        ◯    ◯    ◯
+
+Security and System     Dot1x          MAC based dot1x         ◯    ◯    ◯
+management Security                    Guest VLAN              ◯    ◯    ◯
+                                       MAC/IP ACL              ◯    ◯    ◯
+                                       Basic Mode ACL          ◯    ◯    ◯
+                                       Port-group ACL          ◯    ◯    ◯
+                        ACL            VLAN-group ACL          ◯    ◯    ◯
+                                       IPv6 ACL                ◯    ◯    ◯
+                                       ACL UDF                 ◯    ◯    ◯
+                                       Time Range              ◯    ◯    ◯
+                        ARP Inspection ARP Inspection          ◯    ◯    ◯
+
+                                             9
+ HOS Platform Features List
+
+
+Type           Sub Type Feature           Description                EB   MS   MA Remark
+
+                          IP Source
+                                          IP Source Guard            ◯    ◯    ◯
+                          Guard
+                                          Limitation on MAC
+                          Port Security   address learning on        ◯    ◯    ◯
+                                          interface
+                                          Limitation on MAC
+                          VLAN Security                            ◯      ◯    ◯
+                                          address learning on VLAN
+
+                          Control Plane   Black list/wihte list      ◯    ◯    ◯
+                          Policy (COPP)   Rate limit                 ◯    ◯    ◯
+                          CPU Traffic
+               System                     CPU Traffic Limit          ◯    ◯    ◯
+                          Limit
+               Security
+                                          Prevent DDOS attack
+                          Prevent DDOS    (ICMP
+                                                                  ◯       ◯    ◯
+                          attack          Flood/Smurf/Fraggle/LAN
+                                          D/SYN Flood)
+                                          Telnet/SSH ACL filtering   ◯    ◯    ◯
+                          Login filter    Telnet/SSH IPv6 ACL
+                                                                     ◯    ◯    ◯
+                                          filtering
+Security and
+management                MAC Security    MacSec(802.1AE)            ◯    ◯    ◯   *6
+                          Link-Flapping
+                                          Link-Flapping detection    ◯    ◯    ◯
+                          detection
+                                          DHCP Server                ◯    ◯    ◯
+                                          DHCP Relay                 ◯    ◯    ◯
+                                          DHCP Snooping              ◯    ◯    ◯
+                          DHCP
+                                          DHCP Client                ◯    ◯    ◯
+                                          DHCP Option82              ◯    ◯    ◯
+
+               Network                    DHCP Option252             ◯    ◯    ◯
+               Manage     RMON            RMON                       ◯    ◯    ◯
+               ment
+                          sFlow           sFlow v4/v5                ◯    ◯    ◯
+                          IP SLA          IP SLA                     ◯    ◯    ◯
+                          IPFIX           IPFIX                      ◯    ◯    ◯
+                          EFD             Elephant Flow Detection    ◯    ◯    ◯   *7
+                                          NTP(Network Time
+                          NTP                                        ◯    ◯    ◯
+                                          Protocol)
+                                              10
+ HOS Platform Features List
+
+
+Type           Sub Type Feature         Description                 EB   MS   MA Remark
+
+                                        TC（Support P2P/E2E、
+                                                                ◯        ◯    ◯
+                                        Ethernet/Udp Transport）
+
+                          PTP（IEEE      BC/OC(Support
+                          1588）         OneStep/TwoStep、
+                                        Request-response/Peer-      ◯    ◯    ◯
+               Network
+                                        delay Ethernet/Udp
+               Manage
+                                        Transport)
+               ment
+                                        Err-disable detection and
+                          Err-disable                               ◯    ◯    ◯
+                                        recovery
+                          DNS           Static DNS Client           ◯    ◯    ◯
+                          LLDP          LLDP                        ◯    ◯    ◯
+                                       Configurations through
+Security and              Command Line
+                                       CLI (Command Line            ◯    ◯    ◯
+management                Interface
+                                       Interface)
+                                        Banner configuration        ◯    ◯    ◯
+                          Help
+                          information   Help information in
+                                                                    ◯    ◯    ◯
+                                        English
+               Terminal   Terminal      Vty Terminal service        ◯    ◯    ◯
+               Services   service       Console Terminal service    ◯    ◯    ◯
+                                        In-band management
+                                        interface and               ◯    ◯    ◯
+                          Management    configuration
+                          interface     Out-band management
+                                        interface and               ◯    ◯    ◯
+                                        configuration
+                                        Network management
+                                                               ◯         ◯    ◯
+                                        based on SNMPv1/v2c/v3
+                          SNMP          Public and private MIB      ◯    ◯    ◯
+
+                                        Public and private Trap     ◯    ◯    ◯
+              Configur
+Configuration
+              ation                     Configuration and
+and
+maintenance
+              Manage      WEB           management based on         ◯    ◯    ◯
+              ment                      WEB UI
+                                        Automatic device
+                                                                    ◯    ◯    ◯
+                          Cloud         connection management
+                                                                                  *8
+                          Management    Zero-configuration
+                                                                    ◯    ◯    ◯
+                                        deployment
+                                            11
+ HOS Platform Features List
+
+
+Type            Sub Type Feature            Description                EB   MS   MA Remark
+
+                                            Automatic network
+                                                                       ◯    ◯    ◯
+                                            topology
+                                            Network monitoring and
+                                                                       ◯    ◯    ◯
+                                            alarm notification
+                                            Configuration and one-
+                           Cloud                                       ◯    ◯    ◯
+                                            click rollback                           *8
+                           Management
+                                            Cross-network tunneling
+                                            connection to network      ◯    ◯    ◯
+                                            device(web/ssh/telnet)
+                                            Scheduled tasks
+                                                                       ◯    ◯    ◯
+                Configur                    deployment
+                ation
+                                            Configuration and
+                Manage
+                           RPC-API          management based on        ◯    ◯    ◯
+                ment
+                                            RPC-API
+                                            Smart
+                                            Config(Automatically
+                           Smart Config                               ◯     ◯    ◯
+                                            configuration when system
+                                            start)
+Configuration
+and                                         change the system
+                           system profile
+maintenance                                 specifications by choose   ◯    ◯    ◯
+                           configuration
+                                            different STM Profiles
+                           Restore factory
+                                           Restore factory default
+                           default                                     ◯    ◯    ◯
+                                           configuration
+                           configuration
+                                            File system(support
+                           File system      directory and file         ◯    ◯    ◯
+                                            management)
+                File
+                                            Upload and download files
+                System                                                ◯     ◯    ◯
+                           Upload and       through FTP or TFTP
+                           download         Upload and download files
+                                                                      ◯     ◯    ◯
+                                            through Xmodem
+                                            per-module Debug
+                                                                       ◯    ◯    ◯
+                           Debug            features
+                Debuggi
+                ng And                      ICMP Debug                 ◯    ◯    ◯
+                Maintena                    Software process monitor:
+                nce                                                   ◯     ◯    ◯
+                           BHM              BHM(Beat Heart Monitor)
+                                            Hardware Watch Dog         ◯    ◯    ◯
+
+                                                12
+ HOS Platform Features List
+
+
+Type         Sub Type Feature             Description                EB   MS   MA Remark
+
+                                          CPU usage display and
+                                                                     ◯    ◯    ◯
+                                          alarm
+                                          Memory usage display
+                                                                     ◯    ◯    ◯
+                                          and alarm
+                                          Device temperature, PSU,
+                         Log & alarm      FAN, status display and    ◯    ◯    ◯
+                                          alarm
+                                          User operation logs        ◯    ◯    ◯
+                                          Management of logs,
+                                          alarms, and debugging      ◯    ◯    ◯
+                                          information
+                         VCT              VCT(Virtual Cable Test)    ◯    ◯    ◯
+                         system           Detailed Diagnostic-
+                                                                     ◯    ◯    ◯
+                         diagnostics      information collection
+                                          Manual reboot              ◯    ◯    ◯
+
+                         Reboot           Schedule Reboot            ◯    ◯    ◯
+              Debuggi
+Configuration                             Reboot Information
+              ng And                                                 ◯    ◯    ◯
+and                                       logging
+              Maintena
+maintenance
+              nce                         Ping                       ◯    ◯    ◯
+                         network
+                                          IPv6 Ping                  ◯    ◯    ◯
+                         diagnostics
+                                          Trace route                ◯    ◯    ◯
+                                          Port mirror                ◯    ◯    ◯
+                                          Flow mirror                ◯    ◯    ◯
+                                          Remote mirror              ◯    ◯    ◯
+                                          Multi-destination
+                                                                     ◯    ◯    ◯
+                         mirror           mirror(m:n)
+                                          Use CPU as mirror source   ◯    ◯    ◯
+                                          Use CPU as mirror
+                                          destination and analyze    ◯    ◯    ◯
+                                          packet
+                                          ERSPAN                     ◯    ◯    ◯
+                                          To CPU/From CPU
+                         CPU statistics                              ◯    ◯    ◯
+                                          packets statistics
+                                              13
+ HOS Platform Features List
+
+
+Type          Sub Type Feature            Description                   EB   MS   MA Remark
+
+                                          layer2 network
+                           L2 Ping        connectivity detection -      ◯    ◯    ◯
+                                          L2Ping (MAC Ping/Trace)
+                                          UDLD(Unidirectional Link
+                           UDLD                                         ◯    ◯    ◯
+                                          Detection)
+              Debuggi
+                                          unidirectional forwarding
+              ng And   unidirectional                                   ◯    ◯    ◯
+                                          of the fiber
+              Maintena
+Configuration nce                         port loop back                ◯    ◯    ◯
+and                    Loop back          hardware loop
+maintenance                                                             ◯    ◯    ◯
+                                          back(internal/external)
+                                          Time configuration            ◯    ◯    ◯
+                           System time
+                                          Timezone                      ◯    ◯    ◯
+                           System
+              Software     software       Update via TFTP               ◯    ◯    ◯
+                           upgrate
+              upgrate      Uboot upgrate Uboot upgrate                  ◯    ◯    ◯
+
+
+
+
+Remark:
+
+*1. Requires ST licence.
+*2. Loss measure(LM) is not available on BigFlow and SerdesX Platform.
+*3. WDRR(Weighted Deficit Round Robin)scheduling is not available on SerdesX platform.
+*4. SP + WDRR mixed scheduling is not available on SerdesX platform.
+*5. ECN tags based on Tail Drop is not available on SerdesX platform.
+*6. MacSec(802.1AE) is not available on BigFlow Platform.
+*7. Elephant Flow Detection is not available on BigFlow Platform.
+*8. Cloud Management feature needs to be used with the DHCS Cloud Management system.
+DHCS can be deployed on public clouds or in a private environment.
+
+
+
+
+                                              14
+HOS Platform Features List
+
+
+Supported MIB
+• RFC 1155 SMI
+• RFC 1157 SNMPv1
+• RFC 1212, RFC 1213, RFC 1215 MIB-II, Ethernet-Like MIB and TRAPs
+• RFC 1493 Bridge MIB
+• RFC 1643 Ethernet MIB
+• RFC 1657 BGP-4 MIB
+• RFC 1724 RIPv2 MIB
+• RFC 1850 OSPFv2 MIB
+• RFC 1905 RFC 1907 SNMP v2c, SMIv2 and Revised MIB-II
+• RFC 2011 SNMPv2 for Internet Protocol using SMIv2
+• RFC 2012 SNMPv2 for transmission control protocol using SMIv2
+• RFC 2013 SNMPv2 for user datagram protocol suing SMIv2
+• RFC 2096 IPv4 Forwarding Table MIB
+• RFC 2287 System Application Packages MIB
+• RFC 2570–2575 SNMPv3, user based security, encryption and authentication
+• RFC 2576 Coexistence between SNMP Version 1, Version 2 and and Version 3
+• RFC 2578 SNMP Structure of Management Information MIB
+• RFC 2579 SNMP Textual Conventions for SMIv2
+• RFC 2665 Ethernet-like interface MIB
+• RFC 2819 RMON MIB
+• RFC 2863 Interface Group MIB
+• RFC 2863 Interface MIB
+• RFC 3413 SNMP Application MIB
+• RFC 3414 User-based Security model for SNMPv3
+• RFC 3415 View-based Access Control Model for SNMP
+• RFC 4188 STP and Extensions MIB
+• RFC 4363 Definitions of Managed Objects for Bridges with Traffic Classes, Multicast Filtering,
+and VLAN extensions
+• Draft – blumenthal – aes – usm - 08
+• Draft – reeder - snmpv3 – usm - 3desede -00
+• Draft-ietf-idmr-igmp-mib-13
+                                               15
+HOS Platform Features List
+
+
+Supported RFC
+
+• RFC 826 ARP
+• RFC 854 Telnet client and server
+• RFC 894 IP over Ethernet
+• RFC 906 TFTP Bootstrap
+• RFC 1027 Proxy ARP
+• RFC 1058 RIP v1
+• RFC 1112 IGMP v1
+• RFC 1122 Host Requirements
+• RFC 1195 Use of OSI IS-IS for Routing in TCP/IP and Dual Environments (TCP/IP transport
+only)
+• RFC 1492 TACACS+RFC 1519 CIDR
+• RFC 1587 OSPF NSSA Option
+• RFC 1591 DNS
+• RFC 1812 Requirements for IP Version 4 Routers
+• RFC 2030 SNTP, Simple Network Time Protocol
+• RFC 2068 HTTP server
+• RFC 2080 RIPng for IPv6
+• RFC 2131 BOOTP/DHCP relay agent and DHCP server
+• RFC 2138 RADIUS Authentication
+• RFC 2139 RADIUS Accounting
+• RFC 2154 OSPF w/Digital Signatures (password, MD-5)
+• RFC 2236 IGMP v2
+• RFC 2267 Network Ingress Filtering
+• RFC 2328 OSPF v2 (edge-mode)
+• RFC 2338 VRRP
+• RFC 2362 PIM-SM (edge-mode)
+• RFC 2370 OSPF Opaque LSA Option
+• RFC 2453 RIP v2
+• RFC 2460 Internet Protocol, Version 6 (IPv6) Specification
+• RFC 2461 Neighbor Discovery for IP Version 6 (IPv6)
+
+                                               16
+HOS Platform Features List
+
+
+Supported RFC (The End)
+
+• RFC 2463 Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6
+(IPv6) Specification
+• RFC 2464 Transmission of IPv6 Packets over Ethernet Networks
+• RFC 2474 DiffServ Precedence, including 12 queues/port
+• RFC 2475 DiffServ Core and Edge Router Functions
+• RFC 2526 Reserved IPv6 Subnet Anycast Addresses
+• RFC 2597 DiffServ Assured Forwarding (AF)
+• RFC 2598 DiffServ Expedited Forwarding (EF)
+• RFC 2740 OSPF for IPv6
+• RFC 3176 sFlow
+• RFC 3376 IGMP v3
+
+
+
+
+                                                17
+HOS Platform Features List
+
+
+About HOHUNET:
+
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data
+centers, and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd.
+
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer, or
+otherwise revise this publication without notice.
+

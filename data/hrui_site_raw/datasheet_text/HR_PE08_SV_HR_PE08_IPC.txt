@@ -1,0 +1,99 @@
+Datasheet
+
+
+
+
+      100Mbps Ethernet PoE Extender
+
+
+
+
+  Product Highlights
+
+  n 1 *100Mbps PoE in port+1 *100Mbps PoE out port
+
+  n Compliant with IEEE 802.3, IEEE 802.3u, and IEEE 802.3x standards
+
+  n Support IEEE802.3af/at power supply standard
+
+  n Supports 800 meter transmission
+
+  n Support network and PoE expansion
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd         www.hruitech.com
+Datasheet
+
+
+   Hardware Features
+     Description                                       Specification
+    Model                                             HR-PE08-IPC+/SV+
+
+                                                      1 *100Mbps PoE in port
+    Interface
+                                                      1 *100Mbps PoE out port
+
+                                                      IEEE802.3 (Ethernet)
+    Port Standard                                     IEEE802.3u (Fast Ethernet)
+                                                      IEEE802.3x (Flow Control)
+
+    Switching Capacity                                 0.4Gbps
+
+    Packet Forwarding Rate                             0.297Mpps
+
+    MAC Address Table                                  2K
+
+    Transmission Method                               Store and Forward
+                                                      IEEE802.3af （15.4W）
+    PoE Standard                                      IEEE802.3at （30W）
+
+    PoE Port Output Voltage                           DC 44-57V
+
+    PoE Port                                          Port PoE power output <30W
+
+    PoE Power Budget                                   30W
+
+                                                       Product Dimensions :100*49*25mm
+                                                       Packaging Dimensions : 102*50*27mm
+    Structure Information                              Product Net Weight:0.060KG
+                                                       Product Gross Weight:0.065KG
+
+                                                       Carton Dimensions :430*295*275mm
+    Packing Information                                Packing Quantity: 200PCS
+                                                       Packing Weight: 14KG
+
+    Package Contents                                   Extender 1pcs,manual 1pcs，certificate of qualification 1pcs
+
+    Installation                                       desktop
+                                                       Port Surge: common mode 4KV, differential mode 2KV
+    Surge Protection
+                                                       Electronic ESD: air 8KV
+
+    Operating Temperature                              0~40°C
+
+    Storage Temperature                                -40 °C to 70 °C
+
+    Operation Humidity                                 10%~90%，non condensing
+    Storage Humidity                                   5%~95%，non condensing
+                                                       ON: Normal mode, transmission distance is within 100 meters
+    Extend Button                                      Extend: Link extension mode, PoE power supply and data transmission distance
+                                                       can be extended to 800 meters, transmission speed is 10Mbps
+
+                                                      On:Link normal
+    Port Led                                          Off: Link blocked
+                                                      Blinking: Data transmitting
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd                                                          www.hruitech.com
+Datasheet
+
+
+  Product Structure Diagram
+
+
+
+
+   Copyright © 2024 Shenzhen HongRui Optical Technology Co.,Ltd   www.hruitech.com
+

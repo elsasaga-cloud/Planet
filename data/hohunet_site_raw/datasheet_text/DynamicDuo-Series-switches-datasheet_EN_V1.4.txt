@@ -1,0 +1,557 @@
+DynamicDuo SERIES SWITCHES
+DATASHEET
+Flexible Campus and Enterprise Switch
+Version: V1.4
+Release Date: 2025/12/17
+
+Product Overview
+The DynamicDuo Series switches designed
+on a domestic popular switch chip, which
+called VastLakes and BigFlow Series Chip
+platform with 10G/25G/40G/100G high
+speed ports and rich features, these switches
+will perfectly meets the requirements of
+Campus, Enterprise, Data Center, and SDVoE
+networks.
+
+Key features of the DynamicDuo Series Switches
+l Built-in SDVoE API Server simplifies user operation steps.
+l Supports the implementation of physical dual-machine redundancy in 1U space,
+  reducing the user's usage cost.
+l MLAG which can build an Active-Active system to improve the reliability of the network
+  links from single board grade to device grade.
+l Supports Precision Timing Protocol.
+l Rich L2/L3 features like IPv6, OSPF, BGP, PIM, etc.
+
+The DynamicDuo Series switches provide various power supply solutions for customers
+choosing, fixed single power supply, and redundant hot-swappable power supplies (AC and
+DC are both available). The fan solutions also have 1 bay with field replaceable fan modules
+and build in fans. Generally, air flow of DynamicDuo Series is front to back (AFO), and some
+of models can do customization of back to front (AFI) airflow.
+Table 1: Feasible PSU and airflow of DynamicDuo Series
+
+Items                 AC         DC          AFO        AFI       Power Input FAN
+
+S7814ZH-4N-EI         ◯          ◯           ◯          ◯         2             2
+
+S7606X-2Z-EI          ◯          ◯           ◯          ◯         1             1
+
+S7606X-2Z/SI          ◯          X           ◯          X         1             2
+
+                                                1
+DynamicDuo SERIES SWITCHES                                                          DataSheet
+
+
+Items                AC         DC         AFO         AFI        Power Input FAN
+
+S5624XH-2Z-EI        ◯          ◯          ◯           ◯          1             1
+
+S5624XH-2Z-SI        ◯          X          ◯           X          1             2
+
+S5612X12TH-2Z-EI     ◯          ◯          ◯           ◯          1             1
+
+S5612X12TH-2Z-SI     ◯          X          ◯           X          1             2
+
+S5624TH-2Z-EI        ◯          ◯          ◯           ◯          1             1
+
+S5624TH-2Z-SI        ◯          X          ◯           X          1             2
+
+
+
+l   Visual WEB GUI
+
+HOS allows users to quickly configure common configuration items using a visual WEB GUI,
+which lowers the application threshold for users.
+Moreover, SDVoE switches built-in SDVoE API Server, users no need to purchase additional
+SDVoE controller, simplifying the network architecture. The web page is simple and easy to
+operate, without complicated steps, only the following three simple parts: SDVoE, Multicast,
+DHCP Server, you can complete the relevant configuration of SDVoE, and reduce the overall
+time cost and project cost of users.
+
+
+
+
+                                             2
+DynamicDuo SERIES SWITCHES                                                      DataSheet
+
+
+l   Outstanding management features
+
+The DynamicDuo Series switches support varied management ways, include console port /
+in-band network ports / out-of-band network port. Support SNMP v1/v2/v3, Support CLI
+(Command Line Interface), web management, Telnet and FTP connection. Support OAM to
+make management more convenient, and support SSH2.0, etc. to ensure security of
+management.
+Moreover, leveraging its profound technical expertise and in-depth understanding of campus
+and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management
+System (DHCS). It enhances network management and maintenance efficiency, reduces costs,
+elevates management intelligence, and delivers a faster, smarter, more secure and reliable
+network to better meet user requirements.
+
+
+
+
+                                            3
+DynamicDuo SERIES SWITCHES                                                                               DataSheet
+
+
+l   Support MLAG Active-active dual-system hot backup
+
+Support MLAG (Multi-Chassis Link Aggregation) to aggregate links across different devices.
+MLAG can build an Active-Active system to improve the reliability of the network links from
+single board grade to device grade. MLAG use a peer link between to devices to aggregate
+two devices and make them as one device logically. Ports of two different devices join the
+aggregate ports together and all port can transmit the data traffic. MLAG need to
+management the device respectively, but the configurations are easier than stacking, reboot
+is NOT required after MLAG is configured. Forwarding and configuring are processing on
+local device, in normal condition the traffic do NOT transmit trough the peer link, the
+bandwidth of peer link is not the bottleneck of the network and the latency is low.
+
+ MLAG Active-active dual-system hot backup
+
+            Gateway                            Gateway                                         Gateway
+                                               Core switch                  Active             Core switch
+           Core switch
+
+
+
+         Access switch                        Access switch                             Access switch
+Active                      Active                                     Active                                Active
+              PC
+                                                  PC                                              PC
+
+
+
+
+l   Supports Multiple Dual-system Physical Hot Backup
+
+Dual Physical backup
+
+                                                                         Redundant backup cables for the
+         Core switch                       Core switch                        dual power supplies
+
+
+
+                             Access          Access           Access                AC Power       AC Power
+                             switch          switch           switch                Input          Input
+
+
+    1 Switches links for             2 Dual-homing for                          3
+                                                                                    Dual reduntant power
+      server access in 1U              access switches in 1U                        supplies（support RPS）
+
+
+
+
+                                                   4
+DynamicDuo SERIES SWITCHES                                                             DataSheet
+
+
+l   Flexible and Diverse Deployment modes, with 1U for Dual Physical Redundancy
+
+1 Single-cabinet Installation with 1U                          2 1U Wall-mounted Installation
+
+
+
+
+1 Install the rear slide rail       2 Mounting racks             1   Wall-mounted Installation
+
+3 Two-node Installation in 1U Cabinet
+
+
+
+
+1 Two-node Installation             2 Fix screws                 3   Install mounting brackets
+
+4   Single-row stacking without cabinets
+
+
+
+
+     1 Install stack bracket                        2 Install front stack bracket
+
+5 Two-node Installation without Cabinet
+
+
+
+
+     1 Two-node Installation            2 Fix screws           3 Install stacking brackets
+
+
+
+
+                                                5
+DynamicDuo SERIES SWITCHES                                                    DataSheet
+
+
+The DynamicDuo family of Ethernet switches consists of the following models:
+Table 2: Family of the DynamicDuo Series switches
+
+Models          Ethernet Ports      Management            PSU 1/PSU 2    Cooling
+                                                                         2 x hot-
+                                                                         swappable Fan
+                14 x 100G QSFP28,                         300W/300W
+S7814ZH-4N-EI                                                            Module
+                4 x 25G SFP28                             CRPS
+                                                                         (front-to-back
+                                                                         airflow)
+                                    Console: RJ45 RS232                  1 x hot-
+                                    Ethernet: 1G Port                    swappable Fan
+S7606X-2Z-EI                        Storage: USB        350W CRPS        Module
+                6 x 40G QSFP+,                                           (front-to-back
+                2 x 100G QSFP28                                          airflow)
+                                                          150W Fixed     2 x fixed fans
+S7606X-2Z-SI                                              single power   (front-to-back
+                                                          supply         airflow)
+                                                                         1 x hot-
+                                                                         swappable Fan
+S5624XH-2Z-EI                                             550W CRPS      Module
+                24 x 10G SFP+,                                           (front-to-back
+                2 x 100G QSFP28                                          airflow)
+                                                          150W Fixed     2 x fixed fans
+S5624XH-2Z-SI                                             single power   (front-to-back
+                                                          supply         airflow)
+                                                                         1 x hot-
+                                                                         swappable Fan
+S5612X12TH-
+                                                          550W CRPS      Module
+2Z-EI           12 x 10G SFP+,
+                                    Console: RJ45 RS232                  (front-to-back
+                12 x 10G Base-T,                                         airflow)
+                                    Ethernet: 1G Port
+                2 x 100G QSFP28
+                                                                         3 x fixed fans
+S5612X12TH-                                               Fixed single
+                                                                         (front-to-back
+2Z-SI                                                     power supply
+                                                                         airflow)
+                                                                         1 x hot-
+                                                                         swappable Fan
+S5624TH-2Z-EI                                             550W CRPS      Module
+                24 x 10G Base-T,                                         (front-to-back
+                2 x 100G QSFP28                                          airflow)
+                                                          300W Fixed     2 x fixed fans
+S5624TH-2Z-SI                                             single power   (front-to-back
+                                                          supply         airflow)
+
+
+
+
+                                          6
+DynamicDuo SERIES SWITCHES                                                      DataSheet
+
+
+DynamicDuo Physical Specifications
+
+Packet Switch capacity (bidirectional)       Layer 2/Layer 3 Throughput (bidirectional)
+l S7814ZH-4N-EI: 3.0Tbps                     l S7814ZH-4N-EI: 4464Mpps
+l S7606X-2Z-EI: 880Gbps                      l S7606X-2Z-EI: 1309.44Mpps
+l S7606X-2Z-SI: 880Gbps                      l S7606X-2Z-SI: 1309.44Mpps
+l S5624XH-2Z-EI: 880Gbps                     l S5624XH-2Z-EI: 1309.44Mpps
+l S5624XH-2Z-SI: 880Gbps                     l S5624XH-2Z-SI: 1309.44Mpps
+l S5612X12TH-2Z-EI: 880Gbps                  l S5612X12TH-2Z-EI: 1309.44Mpps
+l S5612X12TH-2Z-SI: 880Gbps                  l S5612X12TH-2Z-SI: 1309.44Mpps
+l S5624TH-2Z-EI: 880Gbps                     l S5624TH-2Z-EI: 1309.44Mpps
+l S5624TH-2Z-SI: 880Gbps                     l S5624TH-2Z-SI: 1309.44Mpps
+
+
+Environmental ranges                         Temperature alarm
+l Operating temperature: 0ºC to 40ºC         l Alarm threshold: 50ºC
+l Storage temperature: -40ºC to 70ºC
+                                             Memory
+l Running Humidity: 10% to 90% (No
+                                             l eMMc: 8GB on all models
+  condensation)
+                                             l DRAM: 2GB on all models
+l Store Humidity: 0 to 95% (No
+  condensation)                              CPU
+                                             l Dual-core processor, ARM A53
+
+
+Acoustic in dBA                              Cooling [CFM]
+l S7814ZH-4N-EI: 62.67dB                     l S7814ZH-4N-EI: 21.61cfm
+l S7606X-2Z-EI: 43.67dB                      l S7606X-2Z-EI: 34.38cfm
+l S7606X-2Z-SI: 47.1dB                       l S7606X-2Z-SI: 23.24cfm
+l S5624XH-2Z-EI: 39.1dB                      l S5624XH-2Z-EI: 34.38cfm
+l S5624XH-2Z-SI: 46.87dB                     l S5624XH-2Z-SI: 23.24cfm
+l S5612X12TH-2Z-EI: 49.4dB                   l S5612X12TH-2Z-EI: 38.49cfm
+l S5612X12TH-2Z-SI: TBD                      l S5612X12TH-2Z-SI:TBD
+l S5624TH-2Z-EI: 45.47dB                     l S5624TH-2Z-EI: 38.49cfm
+l S5624TH-2Z-SI: 39.1dB                      l S5624TH-2Z-SI: 41.43cfm
+
+
+MTBF                                         MTBF(continued)
+l S7814ZH-4N-EI: ≥90000H                     l S5612X12TH-2Z-EI: ≥90000H
+l S7606X-2Z-EI: ≥90000H                      l S5612X12TH-2Z-SI: ≥70000H
+l S7606X-2Z-SI: ≥70000H                      l S5624TH-2Z-EI: ≥90000H
+l S5624XH-2Z-EI: ≥90000H                     l S5624TH-2Z-SI: ≥70000H
+l S5624XH-2Z-SI: ≥70000H
+                                         7
+DynamicDuo SERIES SWITCHES                                                         DataSheet
+
+
+DynamicDuo Physical Specifications
+Power consumption                                   Typical Power consumption
+Worst case, all ports used, line-rate traffic       l S7814ZH-4N-EI: 123W
+l S7814ZH-4N-EI: 133W                               l S7606X-2Z-EI: 55W
+l S7606X-2Z-EI: 56W                                 l S7606X-2Z-SI: TBD
+l S7606X-2Z-SI: TBD                                 l S5624XH-2Z-EI: 39W
+l S5624XH-2Z-EI: 64W                                l S5624XH-2Z-SI: 36W
+l S5624XH-2Z-SI: 38W                                l S5612X12TH-2Z-EI: 77W
+l S5612X12TH-2Z-EI: 81W                             l S5612X12TH-2Z-SI: TBD
+l S5612X12TH-2Z-SI: TBD                             l S5624TH-2Z-EI: 100W
+l S5624TH-2Z-EI: 101W                               l S5624TH-2Z-SI: 94W
+l S5624TH-2Z-SI: 98W
+
+
+Dimensions (W x H x D) without package              Dimensions (W x H x D) with package
+l S7814ZH-4N-EI: 21.5x4.4x40.8cm                    l S7814ZH-4N-EI: 55.7x15x49.5cm
+l S7606X-2Z-EI: 21.5x4.4x35.5cm                     l S7606X-2Z-EI: 48.5x12.5x34.3cm
+l S7606X-2Z-SI: 21.5x4.4x35.5cm                     l S7606X-2Z-SI: 48.5x12.5x34.3cm
+l S5624XH-2Z-EI: 21.5x4.4x35.5cm                    l S5624XH-2Z-EI: 48.5x12.5x34.3cm
+l S5624XH-2Z-SI: 21.5x4.4x35.5cm                    l S5624XH-2Z-SI: 48.5x12.5x34.3cm
+l S5612X12TH-2Z-EI: 21.5x4.4x35.6cm                 l S5612X12TH-2Z-EI: 48.5x12.5x34.3cm
+l S5612X12TH-2Z-SI: 21.5x4.4x35.6cm                 l S5612X12TH-2Z-SI: 48.5x12.5x34.3cm
+l S5624TH-2Z-EI: 21.5x4.4x35.6cm                    l S5624TH-2Z-EI: 48.5x12.5x34.3cm
+l S5624TH-2Z-SI: 21.5x4.4x35.6cm                    l S5624TH-2Z-SI: 48.5x12.5x34.3cm
+
+
+Weight (Net Weight/Gross Weight)                    Operating altitude
+l S7814ZH-4N-EI: 4.5kg/7kg                          l S7814ZH-4N-EI: ≤5000m
+l S7606X-2Z-EI: 3.3kg/5.3kg                         l S7606X-2Z-EI: ≤5000m
+l S7606X-2Z-SI: 3kg/5kg                             l S7606X-2Z-SI: ≤3000m
+l S5624XH-2Z-EI: 3.5kg/5.5kg                        l S5624XH-2Z-EI: ≤5000m
+l S5624XH-2Z-SI: 2.7kg/4.7kg                        l S5624XH-2Z-SI: ≤3000m
+l S5612X12TH-2Z-EI: 3.5kg/5.5kg                     l S5612X12TH-2Z-EI: ≤5000m
+l S5612X12TH-2Z-SI: 3kg/5kg                         l S5612X12TH-2Z-SI: ≤5000m
+l S5624TH-2Z-EI: 3.5kg/5.5kg                        l S5624TH-2Z-EI: ≤5000m
+l S5624TH-2Z-SI: 3kg/5kg                            l S5624TH-2Z-SI: ≤5000m
+
+
+
+
+                                                8
+DynamicDuo SERIES SWITCHES                                                                              DataSheet
+
+
+DynamicDuo Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities
+supported by the devices are listed in the document ‘HOS Software features’ .
+
+   Integrated Management Interface (CLl, SNMP, WEB, RMON, RPC-API, Netconf, etc)
+
+
+                                       HOS Network Platform
+
+        Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+   IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+       Multiprotocol Label                      Virtual Private LAN
+                                                                               Virtual Routing and Switching
+        Switching(MPLS)                            Service(VPLS)
+
+    Generalized Multiprotocol                    IPv6 Tunneling and
+                                                                                      IP/MPLS OAM
+     LabelSwitching(GMPLS)                     TransitionTechnologies
+
+
+   Service management module                   Fault Managemet (FM)                High Availability (HA)
+
+
+
+                             Hardware and platform abstraction layer
+
+
+           Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+            CENTEC swtich chip SDK
+
+                                                                          Linux , IPv4/Pv6 Dual Stack
+       Silicon in Pizza, Stacking or Chassis
+                   Configuration
+
+
+
+                                               Hardware layer
+
+             CENTEC Switch Chipset                                             CPU Subsystem
+
+               Cooling SubSystem                                             AC/DC DC/DC CLK
+
+     Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* All HOHUNET switches use a normalized software platform and image package file
+* Unified software version iteration plan
+* Unified user experience
+
+                                                        9
+DynamicDuo SERIES SWITCHES                                                 DataSheet
+
+
+Ordering Information
+DynamicDuo Series Switches
+Items               Description
+
+                    100G enterprise switch, with 14*100G QSFP28, 4*25G SFP28,
+S7814ZH-4N-EI
+                    2*hot-swap PSU modules(C13), 2*hot-swap fan modules.
+                    40G enterprise switch, with 6*40G QSFP+, 2*100G QSFP28, 1*hot-
+S7606X-2Z-EI
+                    swap PSU module(C13), 1*hot-swap fan module.
+                    40G enterprise switch, with 6*40G QSFP+, 2*100G QSFP28, 1*fixed
+S7606X-2Z-SI
+                    PSU(C13), 2 fixed Fans.
+                    10G enterprise switch, with 24*10G SFP+, 2*100G QSFP28, 1*hot-
+S5624XH-2Z-EI
+                    swap PSU module(C13), 1*hot-swap fan module.
+                    10G enterprise switch, with 24*10G SFP+, 2*100G QSFP28, 1*fixed
+S5624XH-2Z-SI
+                    PSU(C13), 2 fixed Fans.
+                    10G enterprise switch, with 12*10G SFP+, 12*10G Base-T, 2*100G
+S5612X12TH-2Z-EI
+                    QSFP28, 1*hot-swap PSU module(C13), 1*hot-swap fan module.
+                    10G enterprise switch, with 12*10G SFP+, 12*10G Base-T, 2*100G
+S5612X12TH-2Z-SI
+                    QSFP28, 1*fixed PSU(C13), 2 fixed Fans.
+                    10G enterprise switch, with 24*10G Base-T, 2*100G QSFP28, 1*hot-
+S5624TH-2Z-EI
+                    swap PSU module(C13), 1*hot-swap fan module.
+                    10G enterprise switch, with 24*10G Base-T, 2*100G QSFP28,
+S5624TH-2Z-SI
+                    1*fixed PSU(C13), 2 fixed Fans.
+
+
+
+
+AC/DC Power Supplies use for S7814ZH-4N-EI, S7606X-2Z-EI, S5624XH-2Z-EI,
+S5612X12TH-2Z-EI, S5624TH-2Z-EI.
+Items               Description
+
+PSU-300-AC-AFO      DynamicDuo Series 300 W AC power supply (front-to-back airflow)
+
+PSU-350-AC-AFO      DynamicDuo Series 350 W AC power supply (front-to-back airflow)
+
+PSU-550-AC-AFO      DynamicDuo Series 550 W AC power supply (front-to-back airflow)
+
+PSU-550-DC-AFO      DynamicDuo Series 550 W DC power supply (front-to-back airflow)
+
+
+
+
+                                       10
+DynamicDuo SERIES SWITCHES                                           DataSheet
+
+
+Accessory of DynamicDuo Series
+                 Front    Front
+                                   Rear               Wall-    Middle Middle
+                 Mounting Mounting          Sliding
+Items                              Mounting           Mounting Mounts- Mounts-
+                 Bracket- Bracket-          Rail
+                                   Bracket            Bracket  Female Male
+                 Short    Long
+S7814ZH-4N-EI    1           1     1          1       2        1       1
+
+S7606X-2Z-EI     1           1     1          1       2        1       1
+
+S7606X-2Z-SI     1           1     0          0       0        1       1
+
+S5624XH-2Z-EI    1           1     1          1       2        1       1
+
+S5624XH-2Z-SI    1           1     0          0       0        1       1
+
+S5612X12TH-2Z-EI 1           1     1          1       2        1       1
+
+S5612X12TH-2Z-SI 1           1     0          0       0        1       1
+
+S5624TH-2Z-EI    1           1     1          1       2        1       1
+
+S5624TH-2Z-SI    1           1     0          0       0        1       1
+                                                               Stack   Stack
+                 Groundin Power               Console M4
+Items                              RPS Cord                    bracket bracket
+                 g Cable Cord                 Cable   Screws
+                                                               Front   Back
+S7814ZH-4N-EI    1           1     1          1       12       2       2
+
+S7606X-2Z-EI     1           1     1          1       12       0       0
+
+S7606X-2Z-SI     1           1     1          1       12       0       0
+
+S5624XH-2Z-EI    1           1     1          1       12       2       2
+
+S5624XH-2Z-SI    1           1     1          1       12       0       0
+
+S5612X12TH-2Z-EI 1           1     1          1       12       2       2
+
+S5612X12TH-2Z-SI 1           1     1          1       12       0       0
+
+S5624TH-2Z-EI    1           1     1          1       12       2       2
+
+S5624TH-2Z-SI    1           1     1          1       12       0       0
+
+
+
+
+                                       11
+DynamicDuo SERIES SWITCHES                                                     DataSheet
+
+
+Software Licenses
+Items               Description
+
+Software License    EB, L3 features software license key, preinstalled on SI models.
+
+                    MS, L3 enhance features software license key, preinstalled on EI
+Software License
+                    models.
+
+Software License    MA, MPLS features software license key
+
+Software License    ST, Stacking feature software license key
+
+
+
+
+                                        12
+DynamicDuo SERIES SWITCHES                                                                           DataSheet
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data
+centers, and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd.
+
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

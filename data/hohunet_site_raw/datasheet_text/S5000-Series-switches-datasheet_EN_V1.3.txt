@@ -1,0 +1,334 @@
+S5000 SERIES SWITCHES
+DATASHEET
+Flexible Campus and Enterprise Switch
+Version: V1.3
+Release Date: 2025/12/04
+
+
+Product Overview
+S5000 series switches, high-performance
+layer 3 Ethernet switch, which are designed
+based on high-performance hardware
+platform VastLakes Series Chip platform, with
+various ports, compact 1U form factor.
+S5000 series switches provide complete
+Layer 3 ne two rk fe a ture s to me e t the
+re quire me nt o f M e tro / E nt e r p r i s e / H C I
+networks.
+
+Key Features of the S5000 Series Switches
+l    Support MPLS features (L2/L3 VPN) to build a unified and converged network platform.
+l    2.5G downlink ports and various uplink ports to meet different network requirements.
+l    Rich L2/L3 features such as IPv6, OSPF, BGP, PIM etc.
+l    Support CLI/WEB/SNMP/SSH for flexible operation.
+
+The S5000 series switches provide various power supply solutions for customers choosing.
+Generally, air flow of S5000 series is front to back (AFO), and some of models can do
+customization of back to front (AFI) airflow.
+Table 1: Feasible PSU and Airflow of S5000 Series
+Items                    AC          DC          PoE          AFO   AFI   Power Input FAN
+
+S5048-4X2Q-EI            ◯           ◯           ×            ◯     ◯     2          2
+
+S5048-4X2Q-SI            ◯           ×           ×            ◯     ×     1          4
+
+S5040P-8T2Q4N-EI ◯                   ◯           48           ◯     ◯     2          2
+
+S5032P-16T8N-EI          ◯           ◯           48           ◯     ◯     2          2
+
+S5016P-8T8N-EI           ◯           ◯           24           ◯     ◯     2          2
+
+                                                          1
+S5000 SERIES SWITCHES                                                             DataSheet
+
+
+The S5000 series switches support varied management ways, include console, and support
+SNMP v1/v2/v3, Support CLI (Command Line Interface), web management, Telnet and FTP
+connection. Support OAM to make management more convenient, and support SSH2.0, etc.
+to ensure security of management.
+Moreover, leveraging its profound technical expertise and in-depth understanding of campus
+and enterprise networking needs, Hohunet has launched the Da Hu Cloud Management
+System (DHCS). It enhances network management and maintenance efficiency, reduces costs,
+elevates management intelligence, and delivers a faster, smarter, more secure and reliable
+network to better meet user requirements.
+
+
+
+
+Visual WEB GUI
+The S5000 series allows you to quickly configure common configuration items using a visual
+WEB GUI, which lowers the application threshold for users.
+
+
+
+
+                                             2
+S5000 SERIES SWITCHES                                                                 DataSheet
+
+
+ The S5000 family of Ethernet switches consists of the following models:
+
+ Table 2: Family of the S5000 Series switches
+Models        Ethernet Ports              Management           PSU 1/PSU 2      Cooling
+
+              48 x 100M/1G/2.5G Base-T, Console: RJ45 to                        2 x Fan modules
+S5048-
+              4 x 25G/10G SFP28, 2 x    RS232                  350W/350W        (front-to-back
+4X2Q-EI
+              40G QSFP+                 Ethernet: 1G Port                       airflow)
+              48 x 100M/1G/2.5G Base-T, Console: RJ45 to       Fixed single     4 x Fixed fans
+S5048-
+              4 x 25G/10G SFP28, 2 x    RS232                  96W power        (front-to-back
+4X2Q-SI
+              40G QSFP+                 Ethernet: 1G Port      supply           airflow)
+              40 x 100M/1G/2.5G Base-T, Console: RJ45 to
+                                                                           2 x Fan modules
+S5040P-       8 x 10G Base-T, 4 x       RS232
+                                                               1200W/1200W (front-to-back
+8T2Q4N-EI     25G/10G SFP28, 2 x 40G    Ethernet: 1G Port
+                                                                           airflow)
+              QSFP+                     Storage: USB
+                                        Console: RJ45 to
+              32 x 100M/1G/2.5G Base-T,                                    2 x Fan modules
+S5032P-                                 RS232
+              16 x 10G Base-T, 8 x                             1200W/1200W (front-to-back
+16T8N-EI                                Ethernet: 1G Port
+              25G/10G SFP28                                                airflow)
+                                        Storage: USB
+                                        Console: RJ45 to
+              16 x 100M/1G/2.5G Base-T,                                         2 x Fan modules
+S5016P-                                 RS232
+              8 x 10G Base-T, 8 x                              600W/600W        (front-to-back
+8T8N-EI                                 Ethernet: 1G Port
+              25G/10G SFP28                                                     airflow)
+                                        Storage: USB
+
+
+ S5000 Physical Specifications
+
+ Packet Switch Capacity (bidirectional)            Layer 2/Layer 3 Throughput (bidirectional)
+ l S5048-4X2Q-EI: 600Gbps                          l S5048-4X2Q-EI: 892.8Mbps
+ l S5048-4X2Q-SI: 600Gbps                          l S5048-4X2Q-SI: 892.8Mbps
+ l S5040P-8T2Q4N-EI: 720Gbps                       l S5040P-8T2Q4N-EI: 1071.36Mbps
+ l S5032P-16T8N-EI: 880Gbps                        l S5032P-16T8N-EI: 1309.44Mbps
+ l S5016P-8T8N-EI: 640Gbps                         l S5016P-8T8N-EI: 952.32Mbps
+
+ Environmental ranges                              Memory
+ l Operating temperature: 0ºC to 40ºC              l eMMc: 8GB
+ l Storage temperature: -40ºC to 70ºC              l DRAM: 2GB
+ l Running Humidity: 10% to 90% (No
+                                                   CPU
+   condensation)
+                                                   l Dualcore, ARM A53(1.2GHz)
+ l Store Humidity: 5% to 95% (No
+   condensation)
+                                                   Temperature alarm
+                                                   l Alarm threshold: 50ºC
+
+
+                                               3
+S5000 SERIES SWITCHES                                                                DataSheet
+
+
+S5000 Physical Specifications
+Power consumption                                   MTBF (Hours)
+Worst case, all ports used, line-rate traffic       l S5048-4X2Q-EI: ≥90000
+l S5048-4X2Q-SI: 66W                                l S5048-4X2Q-SI: ≥70000
+l S5040P-8T2Q4N-EI: 161.18W                         l S5040P-8T2Q4N-EI: ≥90000
+l S5032P-16T8N-EI: 152.24W                          l S5032P-16T8N-EI: ≥90000
+l S5016P-8T8N-EI: 98.78W                            l S5016P-8T8N-EI: ≥90000
+
+Operating altitude                                  Cooling [CFM] - Total maximum airflow
+l S5048-4X2Q-EI: ≤5000m                             l S5048-4X2Q-EI: 68.76
+l S5048-4X2Q-SI: ≤3000m                             l S5048-4X2Q-SI: 46.48
+l S5040P-8T2Q4N-EI: ≤5000m                          l S5040P-8T2Q4N-EI: 46.48
+l S5032P-16T8N-EI: ≤5000m                           l S5032P-16T8N-EI: 105.32
+l S5016P-8T8N-EI: ≤5000m                            l S5016P-8T8N-EI: 46.48
+
+Dimensions (W x H x D) without Package              Dimensions (W x H x D) with Package
+l S5048-4X2Q-EI: 442*44*357mm                       l S5048-4X2Q-EI: 557*150*495mm
+l S5048-4X2Q-SI: 442*44*290mm                       l S5048-4X2Q-SI: 557*150*495mm
+l S5040P-8T2Q4N-EI: 442*44*420mm                    l S5040P-8T2Q4N-EI: 665*150*565mm
+l S5032P-16T8N-EI: 442*44*449mm                     l S5032P-16T8N-EI: 665*150*565mm
+l S5016P-8T8N-EI: 442*44*420mm                      l S5016P-8T8N-EI: 665*150*565mm
+
+Weight (Net/Gross)                                  PoE budget
+l S5048-4X2Q-EI: 7.2KG/10.3KG                       l S5040P-8T2Q4N-EI: 2000W
+l S5048-4X2Q-SI: 6KG/8.3KG                          l S5032P-16T8N-EI: 2000W
+l S5040P-8T2Q4N-EI：7.9kg/11.1kg                     l S5016P-8T8N-EI: 1000W
+l S5032P-16T8N-EI：8.3kg/11.5kg
+l S5016P-8T8N-EI：7.2kg/10.4kg
+
+
+
+
+                                                4
+S5000 SERIES SWITCHES                                                                                     DataSheet
+
+
+S5000 Software Specifications
+HOHUNET implements a unified software platform, and the software capabilities supported
+by the devices are listed in the document ‘HOS Software features’ .
+
+    Integrated Management Interface (CLl, SNMP，WEB, RMON ,RPC-API , Netconf,etc)
+
+
+                                         HOS Network Platform
+
+          Layer 2 switching                 IPv4/lPv6 Unicast Routing                        QoS
+
+
+     IP Multicast Snooping/Proxy           IPv4/lPv6 Multi cast Routing                      VRRP
+
+         Multiprotocol Label                      Virtual Private LAN
+                                                                                 Virtual Routing and Switching
+          Switching(MPLS)                            Service(VPLS)
+
+     Generalized Multi protocol                    IPv6 Tunneling and
+                                                                                        IP/MPLS OAM
+      Label Switching(GMPLS)                     TransitionTechnologies
+
+
+    Service management module                    Fault Managemet (FM)                High Availability (HA)
+
+
+
+                               Hardware and platform abstraction layer
+
+
+             Advanced integration Suite                                   Operating Systems TCP/IP Stacks
+
+              CENTEC swtich chip SDK
+
+                                                                            Linux , IPv4/Pv6 Dual Stack
+         Silicon in Pizza, Stacking or Chassis
+                     Configuration
+
+
+
+                                                 Hardware layer
+
+               CENTEC Switch Chipset                                             CPU Subsystem
+
+                 Cooling SubSystem                                             AC/DC DC/DC CLK
+
+       Environmental Management Subsystem                                    Logical Control Subunit
+
+
+
+
+* All HOHUNET switches use a normalized software platform and image package file
+* Unified software version iteration plan
+* Unified user experience
+
+
+                                                         5
+S5000 SERIES SWITCHES                                                             DataSheet
+
+
+ Ordering Information
+ S5000 Series Switches
+Items                   Description
+                        2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G
+S5048-4X2Q-EI           SFP28, 2 x 40G QSFP+, Dual power supply modules, 2 x Hot-
+                        swappable fan modules.
+                        2.5G enterprise switch, with 48 x 100M/1G/2.5G Base-T, 4 x 25G/10G
+S5048-4X2Q-SI
+                        SFP28, 2 x 40G QSFP+, Fixed single power supplies, 4 x Fixed fans.
+                        2.5G enterprise switch, with 40 x 100M/1G/2.5G Base-T(PoE++90W),
+S5040P-8T2Q4N-EI        10 x 10G Base-T(PoE++90W), 4 x 25G/10G SFP28, 2 x 40G QSFP+,
+                        Dual power supply modules, 2 x Hot-swappable fan modules.
+                        2.5G enterprise switch, with 32 x 100M/1G/2.5G Base-T(PoE++90W),
+S5032P-16T8N-EI         16 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28, Dual power supply
+                        modules, 2 x Hot-swappable fan modules.
+                        2.5G enterprise switch, with 16 x 100M/1G/2.5G Base-T(PoE++90W),
+S5016P-8T8N-EI          8 x 10G Base-T(PoE++90W), 8 x 25G/10G SFP28, Dual power supply
+                        modules, 2 x Hot-swappable fan modules.
+
+
+
+ AC/DC Power Supplies use for S5000 Series Switches.
+Items                   Description
+
+PSU-350-AC-AFO          S5000 Series 350W AC power supply (front-to-back airflow)
+
+PSU-600-AC-AFO          S5000 Series 600W AC power supply (front-to-back airflow)
+
+PSU-1200-AC-AFO         S5000 Series 1200W AC power supply (front-to-back airflow)
+
+
+
+
+ Software licenses for S5000 Series Switches.
+ Items             Description
+
+Software License   EB, Basic L3 software features, Preinstalled on SI models
+
+Software License   MS, L3 enhance features software license key, Preinstalled on EI models
+
+Software License   MA, MPLS features software license key
+
+Software License   ST, Stacking feature software license key
+
+
+                                              6
+S5000 SERIES SWITCHES                                                    DataSheet
+
+
+ Accessory of S5000 Series
+              Front    Rear       Rear Rack M4      Power   Ground   Console
+Items
+              Mounting Mounting   Rail      Screw   Cord    lead     (DB9 to RJ45)
+S5048-4X2Q-EI 2         2         2         12      2       1        1
+
+S5048-4X2Q-SI 2         /         /         12      1       1        1
+S5040P-
+              2         2         2         12      2       1        1
+8T2Q4N-EI
+S5032P-16T8N-
+              2         2         2         12      2       1        1
+EI
+S5016P-8T8N-
+             2          2         2         12      2       1        1
+EI
+
+
+
+
+                                       7
+S5000 SERIES SWITCHES                                                                                DataSheet
+
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data centers,
+and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyrignt 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+

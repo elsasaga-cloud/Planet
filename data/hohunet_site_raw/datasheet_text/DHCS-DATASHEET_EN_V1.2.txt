@@ -1,0 +1,395 @@
+DHCS(DA HU CLOUD SYSTEM) DATASHEET
+
+
+Version: V1.2
+Release Date: 2026/01/14
+
+Overview
+DHCS (DA HU CLOUD SYSTEM) is a networking management system independently
+developed by HOHUNET, designed for enterprise networks, campus networks and SMB
+network environments. It provides comprehensive management functionalities—from ZTP
+(Zero Touch Provisioning) deployment to device on boarding, device monitoring, remote
+configuration and maintenance, OTA upgrades, panel simulation, configuration rollback, and
+template-based configuration.
+
+keywords
+l   Support public cloud deployment and internal local area network deployment via the
+    same Software Platform.
+l   Integrated secure remote tunneling technology enables network operation and
+    maintenance from anywhere.
+l   Support ZTP (Zero Touch Provisioning) management and launch.
+l   Automatic topology discovery and visualization.
+l   Simulation panel control and monitoring.
+l   Support both multi-organization mode and single-organization mode simultaneously.
+
+Graphical Simulation Panel
+DHCS adopts a graphical simulation panel for operation, providing customers with an
+unparalleled operational experience.
+
+
+
+
+                                            1
+DHCS DATASHEET
+
+
+Automatic TOP Discovery and Visualization.
+DHCS automatically discovers network nodes based on the neighbor discovery protocol and
+automatically generates a network topology map.
+
+
+
+
+Multi-network Domain Management
+DHCS supports multi-domain network management and assigns different management
+permissions to different network domains.
+
+
+
+
+                                          2
+ DHCS DATASHEET
+
+
+ Intelligent POE Network Energy Management and Control
+ Support the energy planning function and provide programmable capabilities for the POE
+ energy network.
+
+
+
+
+ DHCS Installation Package and Image
+Release List
+
+DHCS for Ubuntu install package（ubuntu 20.04.6 LTS /22.04.5 LTS /24.04.3 LTS)
+
+DHCS for VM and ESXi image
+
+DHCS for Podman image                            3
+
+
+
+
+ DHCS Minimum Installation Host Technical Requirements
+ Item              requirements                                            Remark
+
+                   ubuntu 20.04.6 LTS
+                                                     Server version, kernel ≥ 4.14
+ OS                ubuntu 22.04.5 LTS
+                                                      (check with uname -r)
+                   ubuntu 24.04.3 LTS
+
+ CPU               X86 4 cores with 8 threads, and frequency is over 2.8 GHz
+
+ Memory            >=4GB                             Based on 2000 devices
+
+ HD                >=500G                            Based on 2000 devices
+
+ NIC               >=100M                            Based on 2000 devices
+
+ Bandwidth         >=3M                              Based on 2000 devices
+
+
+                                             3
+DHCS DATASHEET
+
+
+DHCS Features List table
+
+Type            Feature                                                         Remark
+
+                                               Provide device management
+                Public cloud deployment        services based on the public
+Deployment                                     network
+mode                                           Provide device management
+                Local Area Network
+                                               services based on the local
+                Deployment
+                                               area network
+                                               Multiple
+                                               enterprises/groups/organizatio
+                Multi-organization
+                                               ns share a management
+Operating       operation
+                                               platform with isolated
+model                                          permissions.
+                Single organization            A single organization uses a
+                operation                      single management platform.
+Multi-
+                Multiple "networks" can be created, and independent
+network
+                management permissions can be configured for each.
+management
+                Graphical simulation panel
+                Port connection status monitoring
+                CPU utilization monitoring
+Basic device
+                Memory utilization monitoring
+management
+                Flash utilization monitoring
+                FAN utilization monitoring
+                PSU utilization monitoring
+                Vendor information discovered
+                Module type information display
+Optic
+Transceivers    Temperature monitoring
+status          Voltage(V) monitoring
+monitoring
+                Current(mA) monitoring
+                Tx /RxPower(dBm) monitoring
+                                               Daily /Weekly/ Specified Date
+                Custom port
+Port Schedule                                  Multiple plans
+                enable/disable plan
+                                               Custom port range
+
+
+                                                4
+DHCS DATASHEET
+
+
+Type            Feature                                                       Remark
+
+                Upstream Traffic monitoring
+
+Port traffic    Downstream Traffic monitoring
+monitoring      Upstream Packet Rate
+                Downstream Packet Rate
+                ShowRunningConfig
+
+Configuration   ShowStartupConfig
+Management      One-click Configuration Rollback
+                Configure the switch based on the reference template
+                                              Enable / Disable PoE
+                                              Priority adjustment
+                POE Config
+                                              Alarm Threshold Config
+                                              System Reserved Power Config
+                                              Port Power Status
+                                              Port Current(mA)/Voltage(V)
+POE
+Management                                    Port PSE Chip Temperature(℃)
+                                              Port Priority
+                POE Monitoring
+                                              Port Actual Power(W)
+                                              System PoE Total Power
+                                              budget
+                                              System Total Used / Available
+                                              Power
+
+Log and         Obtain device logs
+Diagnosis       Obtain the device diagnostic report
+                Remote WEB access based on tunneling technology
+Remote
+                Remote SSH access based on tunneling technology
+Maintenance
+                Remote TELNET access based on tunneling technology
+                                              Automatic drawing based on
+Network TOP                                   the neighbor discovery
+discovery and   TOP drawing                   protocol
+mapping
+                                              Manual drawing and editing
+
+
+
+                                               5
+DHCS DATASHEET
+
+
+Type            Feature                                                      Remark
+
+                                           Computer
+                                           Switch
+                                           Printer
+Network TOP
+                Manually add third-
+discovery and                              Router
+                party device
+mapping
+                                           Server
+                                           Custom
+                                           AP
+                                           USB disk ZTP method
+                                           DHDP Automatic discovery
+                Registration to DHCS       protocol
+Device
+registration                               Manual CLI registration
+and binding                                WEB GUI interface registration
+
+                Bind a device to a         Binding code binding
+                network                    Network number binding
+                Port number and connection relationship
+                Alarm indication bubble
+Top detail
+                Adjust the top direction
+function
+                Zom in/out
+                Top Download
+                                           Automatically generate
+                Handover                   handover report
+Network
+                                           Automatic transfer of authority
+handover and
+authorization                              Provide temporary or
+                authorization              permanent network access
+                                           privileges for other accounts.
+                                           Loop Detection Alarm
+                Network Alarm              CRC Error Alarm
+                                           Link Aggregation Group Alarm
+Alarm                                      Optical Power Degradation
+                                           Alarm
+                Optical Alarm
+                                           Temperature Alarm
+                                           Voltage Alarm
+                                           6
+DHCS DATASHEET
+
+
+Type            Feature                                                      Remark
+
+                Optical Alarm              Current Alarm
+                                           CPU Usage Alarm
+                                           Memory Usage Alarm
+                                           Storage Usage Alarm
+                                           Critical Port Failure
+                                           Temperature Alarm
+                                           Fan Alarm (Speed 100%)
+                Resource Alarm
+                                           Fan Alarm (Speed 0%)
+                                           Fan Alarm (Fail)
+                                           Downlink Traffic
+                                           Uplink Traffic
+Alarm
+                                           POE Power Alarm (Threshold)
+                                           POE Power Alarm (Reserved)
+                                           Manual Reboot
+                Reboot Alarm               Power Off Reboot
+                                           Over Temperature Reboot
+                                           Top bubble
+                                           E-Mail
+                                           Mobile phone message
+                Alarm message
+                                           service
+                notification
+                                           WeChat
+                                           Customized other message
+                                           channels
+                Upgrade package file management
+                Scheduled upgrade package delivery
+OTA upgrade
+                Scheduled restart function (reducing the impact of network
+                interruptions on business operations)
+Configuration
+                Configuration template addition, edit, download, and
+Template
+                deletion
+Management
+ZTP template    Automatically generate ZTP templates
+
+
+                                          7
+DHCS DATASHEET
+
+
+Type             Feature                                                         Remark
+
+                                              CPU/Memory/Disk/TCP
+                 DHCS Host machine
+                                              Connection Status/System
+                 monitoring
+                                              /Network Traffic
+                                              Platform Owner Setting
+                                              cloud service domain name or
+                                              ip address Setting
+                                              Default Language Setting
+                                              System Display Name Setting
+                                              Copyright information Setting
+                                              Privacy Policy Setting
+System           Platform Setting
+                                              User Agreement Setting
+setting
+                                              Service Agreement Setting
+                                              Login Page Logo Setting
+                                              Browser Icon Setting
+                                              Top-left Logo Setting
+                                              SMTP Server and ID Setting
+                                              WeChat Setting
+                                              Automatically record all user
+                 Operate Log
+                                              operation logs
+                                              Customize Email Notification
+                 Email Template
+                                              Message Template
+                 Purchase license files flexibly based on the size of the
+License
+                 network.
+                                              Account addition / edit / lock /
+                 account
+                                              deletion
+                                              Customized roles and role
+Account, Role,   roles
+                                              permissions
+Authorization
+                                              Granting authorization to
+                 Authorization                accounts based on role
+                                              definitions
+
+
+
+
+                                             8
+DHCS DATASHEET
+
+
+DHCS Order List
+
+DHCS V1.0          DHCS Software V1.0, Includes 5 free nodes
+
+                   DHCS 50-node license, with multiple licenses that can be cumulatively
+DHCS license 50
+                   added.
+
+                   DHCS 100-node license, with multiple licenses that can be
+DHCS license 100
+                   cumulatively added.
+
+
+
+
+                                        9
+DHCS DATASHEET
+
+
+About HOHUNET:
+
+HOHUNET was established in 2015 as a technology-oriented company specializing in the
+independent development of switch products based on domestic chips. With the continuous
+evolution of chip technology, HOHUNET has launched a range of differentiated products
+based on this chip platform. Currently, the company's product line covers a range from 1G to
+800G and can be used in scenarios such as enterprise networks, carrier networks, data
+centers, and AI computing power. Currently, the main cooperation model for the company is
+OEM/ODM, dedicated to providing customers with flexible and end-to-end customized
+products and technical consulting services. Becoming the most trusted business partner for
+customers has always been the company's mission and principle.
+
+
+
+
+Contact us:
+Shenzhen Haohu Network Technology Co.,Ltd.
+
+Headquarter Address:
+Lining Center Building, Nanshan Hi-Tech Park, Nanshan, Shenzhen, Guangdong, China
+Corporate and Sales Email: business@hohunet.com
+Telephone: 0086-755-26418565
+
+Website: www.hohunet.com
+
+
+
+
+Copyright 2024 Shenzhen Haohu Network Technology Co.,Ltd. All rights reserved. HOHUNET is registered
+trademarks of Shenzhen Haohu Technology Co., Ltd in China and other countries. HOHUNET assumes no
+responsibility for any inaccuracies in this document. HOHUNET reserves the right to change, modify, transfer,
+or otherwise revise this publication without notice.
+
