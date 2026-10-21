@@ -1,0 +1,76 @@
+{
+ "code": "SB-1002",
+ "name_official": "TeamOn Teknoloji Çözümleri（安卡拉）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（teamon.com.tr，快照 2026-10-21）",
+ "summary": "土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "Allied Telesis",
+  "Netgear",
+  "Ruijie",
+  "Teltonika",
+  "D-Link",
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "品牌 PLANET / Allied Telesis / Netgear / Ruijie / Teltonika / D-Link / TP-Link；+90 (312) 806 35 29；info@teamon.com.tr",
+   "quote": "TeamOn Teknoloji Çözümleri… brands PLANET, Allied Telesis, Netgear, Ruijie, Teltonika, D-Link, TP-Link",
+   "url": "https://teamon.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch；主要是几个有名的牌子",
+   "quote": "兴趣：switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@teamon.com.tr",
+   "phone": "+90 312 806 35 29",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "TeamOn Teknoloji Çözümleri",
+  "founded": "",
+  "hq": "Ankara, Türkiye",
+  "size": "小型 IT 方案 / 经销",
+  "other": "PLANET 在售"
+ },
+ "business_lines": [
+  "IT 方案 / 网络设备经销"
+ ],
+ "channels": {
+  "role": "经销商（PLANET 在售）",
+  "region": "土耳其"
+ },
+ "signals": [
+  "PLANET 在售 → 直接对价 PLANET 型号"
+ ],
+ "risks": [
+  "仅 info@；品牌偏好"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。"
+ },
+ "email_hook": "Merhaba — next to the PLANET IGS/GS lines you sell, our 2-SFP + 8-PoE industrial is $57 EXW and the Marvell L2+ GS-4210-class is $81; would a 1+1 sample to Ankara help you compare?"
+}

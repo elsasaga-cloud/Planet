@@ -1,0 +1,76 @@
+{
+ "code": "SB-407",
+ "name_official": "Protekna S.r.l.（维罗纳）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（protekna.it，快照 2026-10-21，意语）",
+ "summary": "意大利维罗纳（+39 045 861 8777）工业自动化分销商（Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Molex 意大利分销；switch 116 / poe 128 / sfp 106 / media converter 52），Owner Stefano Turrina；表内「MaiWe；工业 FS MC 串口 SFP 很多牌子，销售平台」；群发 1 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "Mitsubishi Electric",
+  "Murrelektronik",
+  "Hilscher",
+  "Molex",
+  "MaiWe"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业自动化分销：Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Molex；+39 045 86 18 777",
+   "quote": "Protekna SRL, esperienza pluriennale nell'automazione industriale. Distributore italiano di mitsubishi electric moxa murrelektronik hilscher grafos molex",
+   "url": "https://protekna.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MaiWe；工业 FS MC 串口 SFP 很多牌子；销售平台",
+   "quote": "兴趣：MaiWe;工业FS MC 串口 SFP 很多牌子 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Stefano Turrina",
+   "title": "Owner",
+   "email": "stefano.turrina@protekna.it",
+   "phone": "+39 045 861 8777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Protekna S.r.l.",
+  "founded": "",
+  "hq": "Verona, Italy",
+  "size": "中小型工业自动化分销",
+  "other": "已接触中国同行 MaiWe（迈威）"
+ },
+ "business_lines": [
+  "工业自动化元器件与工业网络分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "意大利"
+ },
+ "signals": [
+  "已接触 MaiWe → 对中国工业交换机接受度高",
+  "Owner 具名"
+ ],
+ "risks": [
+  "Moxa 主线；比价 MaiWe"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "MaiWe 同价位带、Marvell 差异 → STI-288GPM（$78.9 @20%）；串口服务器不供。"
+ },
+ "email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?"
+}

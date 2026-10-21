@@ -1,0 +1,73 @@
+{
+ "code": "SB-772",
+ "name_official": "IC Intracom Bulgaria（索非亚）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ic-intracom.bg，快照 2026-10-21）",
+ "summary": "保加利亚网络设备 / 光缆 / 机柜 / 配件供应商（IC Intracom 集团保加利亚公司，面向企业与安装商；Moxa、TP-Link；sfp 246 / switch 133 / poe 108 / industrial 103 / media converter 31；+359 2 923 1781），Hristo Chankov；表内商用 PoE、MC；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "TP-Link",
+  "Intellinet（IC Intracom 自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "网络设备、光缆与 LAN 线缆、机柜、连接器；服务企业与安装商；品牌 Moxa / TP-Link；+359 2 9231781",
+   "quote": "Explore network equipment, fiber optic and LAN cables, server racks, connectors and accessories. IC Intracom supplies businesses and installers.",
+   "url": "https://ic-intracom.bg/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 POE MC；也有一些有名的牌子",
+   "quote": "兴趣：商业POE MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Hristo Chankov",
+   "title": "（表内联系人）",
+   "email": "hristo.chankov@ic-intracom.bg",
+   "phone": "+359 2 923 1781",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "IC Intracom Bulgaria EOOD（待核）",
+  "founded": "",
+  "hq": "Sofia, Bulgaria",
+  "size": "中型分销（IC Intracom 集团：Intellinet / Manhattan 品牌）",
+  "other": "集团自有品牌 Intellinet 网络产品"
+ },
+ "business_lines": [
+  "网络设备 / 布线 / 机柜分销"
+ ],
+ "channels": {
+  "role": "分销商（集团分支）",
+  "region": "保加利亚（小国，非主攻）"
+ },
+ "signals": [
+  "集团自有品牌 Intellinet（德国 IC Intracom）→ 贴牌采购由集团总部决定",
+  "工业 / MC 品类深"
+ ],
+ "risks": [
+  "保加利亚为小国名单（不主动挖）；采购权在德国总部"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。"
+ },
+ "email_hook": "Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?"
+}

@@ -1,0 +1,60 @@
+{
+ "code": "SB-877",
+ "name_official": "Westermo Data Communications GmbH（Westermo 奥地利 / 德国办事处）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（westermo.at → westermo.com）",
+ "summary": "Westermo（瑞典工业网络制造商，Beijer 集团）奥地利 / 德语区办事处；表内兴趣工业 FS / MC / 串口，「质量高」；厂商办事处非渠道客户（INH 规则）→ 降 C。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Westermo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Westermo 奥地利：网络安全工业网络",
+   "quote": "Westermo Österreich bietet cybersichere industrielle Netzwerke für geschäftskritische Systeme",
+   "url": "https://www.westermo.at/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC 串口；质量高",
+   "quote": "兴趣：工业FS MC 串口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "厂商（Westermo）区域办事处，非渠道客户（INH 规则：品牌商 / 区域办事处不是客户）",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 厂商办事处降 C）"
+ },
+ "company_facts": {
+  "legal_name": "Westermo Data Communications GmbH",
+  "founded": "",
+  "hq": "Austria / Germany",
+  "size": "厂商办事处",
+  "other": "Beijer Electronics Group"
+ },
+ "business_lines": [
+  "工业网络设备制造（竞品）"
+ ],
+ "channels": {
+  "role": "厂商（竞品）办事处",
+  "region": "德语区"
+ },
+ "signals": [],
+ "risks": [
+  "厂商办事处非客户（INH 规则）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "不主动跟进（竞品厂商）。"
+ },
+ "email_hook": "（不主动发送）"
+}

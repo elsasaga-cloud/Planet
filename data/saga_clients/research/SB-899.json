@@ -1,0 +1,74 @@
+{
+ "code": "SB-899",
+ "name_official": "Econnet S.r.l.（意大利）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（econnet.it，快照 2026-10-21）",
+ "summary": "意大利增值分销商（网络安全 Stormshield / Bitdefender / Kaspersky、UC Fanvil / Yeastar / Yealink、AP / NAS；TP-Link、Ubiquiti、Moxa、Milesight；switch 46 / poe 42 / industrial 35），表内「商业 PoE，丰润达的；还有其他牌子，分销商」；无邮箱（仅 marketing@ 快照）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "丰润达（Fengrunda）",
+  "TP-Link",
+  "Ubiquiti",
+  "Moxa",
+  "Milesight"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "增值分销：Stormshield、UTM、Bitdefender、Kaspersky、AP、NAS、UC（Fanvil / Yeastar / Yealink）；品牌 TP-Link / Ubiquiti / Moxa / Milesight；marketing@econnet.it",
+   "quote": "Econnet, Stormshield, UTM, Firewall, BitDefender, Kaspersky, AccessPoint, NAS, Sicurezza… Fanvil, Yeastar, Yealink",
+   "url": "https://econnet.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 丰润达的；还有其他牌子 分销商",
+   "quote": "兴趣：商业PoE 丰润达的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（市场部）",
+   "title": "Marketing",
+   "email": "marketing@econnet.it",
+   "phone": "",
+   "source": "https://econnet.it/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Econnet S.r.l.",
+  "founded": "",
+  "hq": "Italy",
+  "size": "中小型增值分销",
+  "other": "已售中国同行丰润达商用 PoE"
+ },
+ "business_lines": [
+  "网络安全 / UC / 网络增值分销"
+ ],
+ "channels": {
+  "role": "增值分销商（已售丰润达）",
+  "region": "意大利"
+ },
+ "signals": [
+  "已售丰润达商用 PoE → 同类替换（Marvell 差异）"
+ ],
+ "risks": [
+  "仅 marketing@；品牌分销导入流程"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "对位丰润达商用 8 PoE → STC-28DGGPM（$80.7 @20%）。"
+ },
+ "email_hook": "For the PoE switches you carry from Fengrunda — our Marvell L2+ 8-PoE + 2-SFP is $81 EXW with a 2-year warranty and EU CE/RoHS files; who manages the switch line at Econnet so I can send the comparison sheet?"
+}

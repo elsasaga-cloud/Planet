@@ -1,0 +1,84 @@
+{
+ "code": "SB-225",
+ "name_official": "Instant Byte S.L.（西班牙）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（instantbyte.com，快照 2026-10-21，西语）",
+ "summary": "西班牙网络 / 无线 / VoIP / 视频监控 / IoT 专业批发商（Huawei、Ubiquiti、MikroTik、Grandstream、TP-Link、Cisco、D-Link；poe 202 / switch 76），CEO Juan Prieto、技术经理 Eduardo Valle；表内「安防为主，有中科（ZKTeco？）的」；群发 4 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Huawei",
+  "Ubiquiti",
+  "MikroTik",
+  "Grandstream",
+  "TP-Link",
+  "Cisco",
+  "D-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "网络方案批发：无线、VoIP、视频监控、IoT；品牌 Huawei / Ubiquiti / MikroTik / Grandstream / TP-Link / Cisco / D-Link；comercial@/soporte@",
+   "quote": "Mayorista especializado en soluciones networking: wireless, VoIP, videovigilancia e IoT.",
+   "url": "https://instantbyte.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "安防为主；有中科的；销售平台",
+   "quote": "兴趣：安防为主 有中科的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Juan Prieto",
+   "title": "CEO",
+   "email": "ejprieto@instantbyte.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Eduardo Valle",
+   "title": "Technical Manager",
+   "email": "comercial@instantbyte.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Instant Byte S.L.",
+  "founded": "",
+  "hq": "Spain（马德里，待核）",
+  "size": "中小型批发商",
+  "other": ""
+ },
+ "business_lines": [
+  "网络 / 安防 / VoIP 批发"
+ ],
+ "channels": {
+  "role": "批发分销商",
+  "region": "西班牙"
+ },
+ "signals": [
+  "PoE 词频 202 → PoE 交换机为核心品类",
+  "CEO 具名邮箱"
+ ],
+ "risks": [
+  "多品牌批发比价；群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
+ },
+ "email_hook": "Juan, for the videovigilancia channel — a Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, neutral packing, CE/RoHS; would you test 2 units against the TP-Link units you stock?"
+}

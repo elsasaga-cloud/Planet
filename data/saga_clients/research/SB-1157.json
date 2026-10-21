@@ -1,0 +1,82 @@
+{
+ "code": "SB-1157",
+ "name_official": "ASIT S.r.l.（意大利）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（asit.it，快照 2026-10-21）",
+ "summary": "意大利 CCTV / 网络分销商（在线商店；Ubiquiti、Dahua、D-Link、Huawei、Netgear、Zyxel；switch 86 / poe 39），Owner & CEO Jacopo Ganz、VP Sales Marco Gabriele；表内 CCTV 分销商；群发 4 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Dahua",
+  "D-Link",
+  "Huawei",
+  "Netgear",
+  "Zyxel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Asit Online Store；品牌 Ubiquiti / Dahua / D-Link / Huawei / Netgear / Zyxel",
+   "quote": "Asit Online Store – Innovation Delivered… brands Ubiquiti, Dahua, D-Link, Huawei, Netgear, Zyxel",
+   "url": "https://asit.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV 分销商",
+   "quote": "兴趣：CCTV 分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jacopo Ganz",
+   "title": "Owner & CEO",
+   "email": "jacopo.ganz@asit.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Marco Gabriele",
+   "title": "VP Sales",
+   "email": "marco.gabriele@asit.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "ASIT S.r.l.（待核）",
+  "founded": "",
+  "hq": "Italy",
+  "size": "中小型分销 / 电商",
+  "other": ""
+ },
+ "business_lines": [
+  "CCTV / 网络设备分销（电商）"
+ ],
+ "channels": {
+  "role": "分销商",
+  "region": "意大利"
+ },
+ "signals": [
+  "CEO / VP Sales 具名"
+ ],
+ "risks": [
+  "品牌分销为主；群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。"
+ },
+ "email_hook": "Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?"
+}

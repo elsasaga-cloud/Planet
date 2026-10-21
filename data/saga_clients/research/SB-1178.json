@@ -1,0 +1,74 @@
+{
+ "code": "SB-1178",
+ "name_official": "DIPOL Portugal / Skua Technology（葡萄牙）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dipol.pt，快照 2026-10-21，葡语）",
+ "summary": "葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "TP-Link",
+  "DIPOL（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "IP CCTV、LAN、WLAN、SAT-TV、天线、线缆；品牌 Hikvision / Dahua / TP-Link；+351 253 618 579；office@dipol.pt",
+   "quote": "IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL… brands Hikvision, Dahua, TP-Link… +351 253 618 579",
+   "url": "https://dipol.pt/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS SFP VC；很多牌子的产品",
+   "quote": "兴趣：MC FS SFP VC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（办公室）",
+   "title": "Office",
+   "email": "office@dipol.pt",
+   "phone": "+351 253 618 579",
+   "source": "https://dipol.pt/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Skua Technology Lda（DIPOL Portugal）",
+  "founded": "",
+  "hq": "Braga, Portugal",
+  "size": "中小型批发（集团分支）",
+  "other": "DIPOL 集团（波兰）自有品牌配件"
+ },
+ "business_lines": [
+  "CCTV / 网络 / 电视天线批发"
+ ],
+ "channels": {
+  "role": "批发分销商（集团分支）",
+  "region": "葡萄牙"
+ },
+ "signals": [
+  "PoE / 工业词频高 → 配套 PoE 与工业 FS 品类成熟",
+  "DIPOL 集团自有品牌 → 贴牌可能（需总部）"
+ ],
+ "risks": [
+  "采购可能由波兰总部统一；无具名联系人"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。"
+ },
+ "email_hook": "For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?"
+}

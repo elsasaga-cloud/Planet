@@ -1,0 +1,71 @@
+{
+ "code": "SB-391",
+ "name_official": "ALIDEX S.r.l.（意大利；西班牙分支 = SB-934）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（alidex.it，快照 2026-10-21）",
+ "summary": "意大利工业网络 / IoT / OT 安全分销商（工业交换机与路由、光纤转换器、串口、Network TAP；ORing；industrial 84 / switch 112 / sfp 43），仅 info@；表内「几个台湾牌子，MC SFP 光猫 工业 FS 啥都卖」；西班牙站 alidex.es（SB-934）为同一公司；群发 1 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ORing"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业网络、IoT、OT 安全；工业交换机 / 路由、光纤转换、串口、TAP；ORing",
+   "quote": "ALIDEX - Networking industriale. Switch e Router Industriali, Convertitori Ottici, Connettività Seriale, Network TAP… brands ORing",
+   "url": "https://alidex.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "几个台湾牌子；MC SFP 光猫 工业 FS 啥都卖；台湾的比较多",
+   "quote": "兴趣：几个台湾牌子;MC SFP 光猫 工业FS 啥都卖",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@alidex.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "ALIDEX S.r.l.",
+  "founded": "",
+  "hq": "Italy",
+  "size": "中小型工业网络分销（意 + 西）",
+  "other": "同一公司：SB-934 alidex.es"
+ },
+ "business_lines": [
+  "工业网络 / IoT / OT 安全分销"
+ ],
+ "channels": {
+  "role": "工业分销商（台系品牌）",
+  "region": "意大利 + 西班牙"
+ },
+ "signals": [
+  "台系工业品牌为主 → 低价第二品牌位置",
+  "两国覆盖"
+ ],
+ "risks": [
+  "仅 info@；台系品牌忠诚"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。"
+ },
+ "email_hook": "For ALIDEX Italy and Spain — a Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW as the value tier under your Taiwanese lines; who runs product selection across the two countries?"
+}

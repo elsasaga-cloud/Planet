@@ -1,0 +1,72 @@
+{
+ "code": "SB-392",
+ "name_official": "Atel Electronics（波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（atel.com.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰网络无源 / 有源元件、测量仪器、安装工具、AV 配件进口分销商（TP-Link、ORing；switch 713 / sfp 518 / poe 462），仅 cust@；表内「MC / Switch 等，价格比较高；MC 工业 FS SFP；ORing 的，商业 FS TP-Link」；群发 1 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "TP-Link",
+  "ORing"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "进口分销：网络无源与有源元件、测量仪器、安装工具、AV 配件；品牌 TP-Link / ORing；cust@atel.com.pl",
+   "quote": "Importem i dystrybucja pasywnych oraz aktywnych elementów sieci teleinformatycznych, przyrządów pomiarowych, narzędzi instalacyjnych… brands TP-Link, ORing",
+   "url": "https://atel.com.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC Switch 等；价格比较高 MC 工业 FS SFP；Oring 的 商业 FS Tp-link",
+   "quote": "兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（客服）",
+   "title": "Customer service",
+   "email": "cust@atel.com.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Atel Electronics（待核）",
+  "founded": "",
+  "hq": "Poland",
+  "size": "中型进口分销",
+  "other": "ORing 工业线在售（高价）"
+ },
+ "business_lines": [
+  "网络元件 / 工具 / AV 进口分销"
+ ],
+ "channels": {
+  "role": "进口分销商",
+  "region": "波兰"
+ },
+ "signals": [
+  "ORing 工业线价格高 → 低价工业线补位",
+  "SFP / MC 品类深"
+ ],
+ "risks": [
+  "仅 cust@；比价"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "ORing 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?"
+}

@@ -1,0 +1,76 @@
+{
+ "code": "SB-727",
+ "name_official": "PC Tedarik（土耳其）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（pctedarik.com，快照 2026-10-21，土耳其语）",
+ "summary": "土耳其 IT 批发网店（硬盘、安防摄像机、电脑批发；Ruijie、TP-Link、Hikvision、Dahua、Zyxel、Huawei、Tenda；switch 79 / poe 80 / oem 25），仅 info@；无兴趣记录；群发 1 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Ruijie",
+  "TP-Link",
+  "Hikvision",
+  "Dahua",
+  "Zyxel",
+  "Huawei",
+  "Tenda"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "批发硬盘 / 安防摄像机 / 电脑；品牌 Ruijie / TP-Link / Hikvision / Dahua / Zyxel / Huawei / Tenda；oem 25",
+   "quote": "Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar… brands Ruijie, TP-Link, Hikvision, Dahua, Zyxel, Huawei, Tenda",
+   "url": "https://pctedarik.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@pctedarik.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "PC Tedarik（待核）",
+  "founded": "",
+  "hq": "Türkiye",
+  "size": "中小型 IT 批发网店",
+  "other": "OEM 词频 25（自有标？）"
+ },
+ "business_lines": [
+  "IT / 安防产品批发网店"
+ ],
+ "channels": {
+  "role": "批发网店",
+  "region": "土耳其"
+ },
+ "signals": [
+  "安防 + 交换机品类 → PoE 走量机上架；OEM 词频 → 自有标可能"
+ ],
+ "risks": [
+  "仅 info@；网店比价"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "安防批发走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
+ },
+ "email_hook": "Merhaba — for the toptan güvenlik kamerası channel, a 24-PoE + 4-uplink L2+ (Marvell, 280 W) at $135 EXW and 8-PoE at $81, neutral carton or your own label; which size moves most with your Hikvision/Dahua kits?"
+}
