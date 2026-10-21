@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nemon.co.kr，快照 2026-10-21）",
- "summary": "韩国网络/安防经销或集成（官网未见角色词，待核）：官网「Nemon」；表内「bypass 大口FS」；群发 23 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "韩国 Nemon（nemon.co.kr；表内「bypass 大口 FS」「质量高」；官网快照仅标题，业务范围待核；仅 support@）；群发 23 次无回复。",
+ "type": "网络设备商（韩国，bypass/大口 FS 需求）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,13 @@
    "quote": "bypass 大口FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "bypass 大口 FS",
+   "quote": "bypass 大口FS；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +36,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 nemon.co.kr，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（待核，韩国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "网络设备商（韩国，bypass/大口 FS 需求）",
   "region": "韩国",
   "contact": "support@nemon.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，http://nemon.co.kr/）",
-  "用户表兴趣/备注：bypass 大口FS"
+  "表内：bypass 大口 FS；质量高",
+  "快照：Nemon（内容空）"
  ],
  "risks": [
-  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 support@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-424XGGM",
+  "tier": 30,
+  "why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first?"
 }

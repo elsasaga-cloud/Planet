@@ -2,7 +2,7 @@
 
 > **评级 B**　|　埃及　|　档案编号 `SB-1101`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防/业务方案集成商（埃及）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1101
@@ -12,14 +12,14 @@ score: 26
 country: 埃及
 region: 非洲
 website: integrated-ps.com
-type: 安防集成/经销
+type: 安防/业务方案集成商（埃及）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-280GE
+p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：埃及安防集成/经销：官网「IPS – Integrated Premium Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络；产品页：bentsai-handheld-printer-revolutionizing；表内「4V1D 1080P / from: 自建站」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/埃及；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：官网快照对位：工业/自动化词频 9、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | IPS | 事实（用户表） |
 | 国家 | 埃及 | 事实（用户表）|
 | 网站/域名 | integrated-ps.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防/业务方案集成商（埃及） | 推断（据兴趣/备注关键词） |
 | 联系人 | Ahmed | 事实（用户表） |
 | 来源（From） | 2025.3.13 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,32 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（integrated-ps.com，快照 2026-10-21）
-- **是谁**：埃及安防集成/经销：官网「IPS – Integrated Premium Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络；产品页：bentsai-handheld-printer-revolutionizing；表内「4V1D 1080P / from: 自建站」；表内未见跟进记录。
-- **类型**：安防集成/经销
+- **是谁**：埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。
+- **类型**：安防/业务方案集成商（埃及）
 - **【官网快照】官网标题：IPS – Integrated Premium Solutions；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络**
   > We protect your property, enhance service, improve safety & security；What We Do?；Introducing Our New Solution；Digital Signature Pad；Edikio Card Printer；Agilia Card Printer
   > 来源：https://integrated-ps.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 4V1D 1080P / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】IPS 定位**
+  > IPS – Integrated Premium Solutions ; We protect your property, enhance service, improve safety & security
+  > 来源：https://integrated-ps.com/（抓取 2026-10-21）
+- **【用户表】4V1D 1080P 自建站询盘**
+  > 4V1D 1080P / from: 自建站
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ahmed（）ahmed@integrated-ps.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 埃及 |
 | 其他 | 官网 integrated-ps.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络
-- **触达通道（公开）**：role: 安防集成/经销；region: 埃及；contact: ahmed@integrated-ps.com
+- **业务线**：安防 / 门禁 / 业务方案集成（埃及）
+- **触达通道（公开）**：role: 安防/业务方案集成商（埃及）；region: 埃及；contact: ahmed@integrated-ps.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://integrated-ps.com/）
-  - 官网公开邮箱：info@integrated-ps.com
-  - 用户表兴趣/备注：4V1D 1080P / from: 自建站
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-280GE（25% 档）——官网快照对位：工业/自动化词频 9、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Ahmed, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 官网：IPS – Integrated Premium Solutions ; We protect your property, enhance service, improve safety & security ; Edikio Card Printer ; BENTSAI Inkjet Printer；kw camera 33 / access control 23 / automation 25
+  - 表内：4V1D 1080P / from: 自建站；KP Ahmed
+- **风险/边界**：非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供
+- **邮件切入句（英文）**：Ahmed, following your enquiry on our site: for the PoE switches behind your camera and access-control installations we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count does your current project need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -117,7 +123,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmed | — | ahmed@integrated-ps.com / +201021900904 | 用户表原值 | Clients/ 表 |
+| Ahmed | — | ahmed@integrated-ps.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -133,18 +139,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280GE | 深挖对位：官网快照对位：工业/自动化词频 9、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防/业务方案集成商（埃及）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -154,7 +159,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-280GE 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -183,21 +188,25 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Ahmed,
 
-Picking up our earlier exchange about PoE / industrial switches. Ahmed, we supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ahmed, following your enquiry on our site: for the PoE switches behind your camera and access-control installations we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count does your current project need?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

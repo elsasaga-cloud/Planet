@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（servo-tech.co.kr，快照 2026-10-21）",
- "summary": "韩国工业自动化/IoT 方案商：官网「(주)써보테크TS」（ko）；表内「工业FS」；群发 17 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "韩国 (주)써보테크TS Servo-Tech TS（自动化分销：PLC、伺服电机、变频器、减速机、线缆；三菱、Apex、Weidmüller、Alpha Robotics 特约店；表内「工业 FS」「质量高」）；群发 17 次无回复。",
+ "type": "工业自动化分销商（韩国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Mitsubishi",
+  "Weidmüller"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +24,20 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Servo-Tech 定位",
+   "quote": "(주)써보테크TS ; 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
+   "url": "https://servo-tech.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 质量高",
+   "quote": "工业FS；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +46,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 servo-tech.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "工业自动化产品分销（韩国）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业自动化分销商（韩国）",
   "region": "韩国",
   "contact": "sales@servo-tech.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://servo-tech.co.kr/）",
-  "官网公开邮箱：sales@servo-tech.co.kr",
-  "用户表兴趣/备注：工业FS"
+  "官网：(주)써보테크TS ; 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
+  "表内：工业 FS；质量高"
  ],
  "risks": [
-  "群发 17 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels?"
 }

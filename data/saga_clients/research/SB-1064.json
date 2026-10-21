@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（deltathailand.com，快照 2026-10-21）",
- "summary": "泰国工业自动化/IoT 方案商：官网「บริษัท เดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด มหาชน」；产品页：Industrial-Automation、1、2、Control；表内「工业FS SFP」；群发 9 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "泰国 Delta Electronics (Thailand) PCL（台达集团泰国上市公司；工业自动化产品线；表内「工业 FS SFP」「可以尝试多跟进一下」）；群发 9 次无回复。",
+ "type": "上市集团（台达，巨头）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,46 @@
    "quote": "工业FS SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Delta Thailand 页面",
+   "quote": "บริษัท เดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด มหาชน ; /en/products/Automation/Industrial-Automation",
+   "url": "https://deltathailand.com/",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "巨头/上市集团（台达）；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "泰国",
   "other": "官网 deltathailand.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "电源 / 工业自动化（上市集团）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "上市集团（台达，巨头）",
   "region": "泰国",
   "contact": "info@deltathailand.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://deltathailand.com/）",
-  "用户表兴趣/备注：工业FS SFP"
+  "官网：บริษัท เดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด มหาชน；页面 /en/products/Automation/Industrial-Automation",
+  "表内：工业 FS SFP；可以尝试多跟进一下"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "体量：台达集团上市公司（自有 DVS 工业交换机线）；9 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "台达集团上市公司（自有工业以太网产品线、集团采购）→ 改 C（巨头）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：巨头）"
 }

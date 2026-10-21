@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（timeout）",
- "summary": "塞浦路斯经销/集成（类型待核，无官网快照）：官网快照失败（timeout）；表内「管理交换机 HDMI转网带USB」；群发 21 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "塞浦路斯 KN Electrologic Services Ltd（电气工程服务；KP Nikolas Konomou（Electrical Engineer）；表内「管理交换机 HDMI 转网带 USB」；官网 timeout）；群发 21 次无回复。",
+ "type": "电气工程承包商（塞浦路斯）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,54 @@
    "quote": "管理交换机 HDMI转网带USB",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "管理交换机 HDMI 转网带 USB",
+   "quote": "管理交换机 HDMI转网带USB",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Nikolas Konomou",
+   "title": "Electrical Engineer",
+   "email": "info@electrologicservices.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "塞浦路斯",
   "other": "官网 electrologicservices.com，语言 ?，快照状态 timeout；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "电气工程服务（塞浦路斯）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "电气工程承包商（塞浦路斯）",
   "region": "塞浦路斯",
   "contact": "info@electrologicservices.com"
  },
  "signals": [
-  "用户表兴趣/备注：管理交换机 HDMI转网带USB"
+  "表内：管理交换机 HDMI 转网带 USB；KP Nikolas Konomou / Electrical Engineer",
+  "快照：timeout"
  ],
  "risks": [
-  "官网快照失败（timeout）：域名/证书待核，邮件可能退回",
-  "群发 21 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "HDMI over IP（KVM）品类 Saga 不供（Q-32）；小型承包商（量小）；官网 timeout；21 次无回复"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：经销/集成（类型待核，无官网快照）→25%）"
+  "why": "管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；HDMI over IP（带 USB）Saga 不供（Q-32）"
  },
- "email_hook": "Nikolas, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Nikolas, for the managed switches in your electrical and AV installations, we supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ models (VLAN/IGMP for AV-over-IP) from single units, CE/RoHS, EXW USD — which port count does your current project need?"
 }

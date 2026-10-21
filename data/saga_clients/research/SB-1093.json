@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（uplinker.ru，快照 2026-10-21）",
- "summary": "俄罗斯分销商/批发商：官网「ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы」（ru）；品类词：布线 / 线缆 / 光纤 / 媒体转换；站内型号：QSFP28、SFP28、MC-WDM1000B、MC-1000-SFP-MINI；表内「有很多DCN的；WDM SFP」；表内未见跟进记录。",
- "type": "分销商/批发商",
+ "summary": "俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。",
+ "type": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "DCN"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "有很多DCN的；WDM SFP",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ЛИНКЕР 定位",
+   "quote": "ООО «ЛИНКЕР» продажа телекоммуникационного оборудования ; Оптические трансиверы UPLINK ; MC-WDM1000B",
+   "url": "https://uplinker.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有很多 DCN 的；WDM SFP",
+   "quote": "有很多DCN的 / WDM SFP",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "俄罗斯",
   "other": "官网 uplinker.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "光纤 / 媒体转换"
+  "电信设备销售 / 光模块（自有品牌 UPLINK，俄罗斯）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "电信设备经销商（俄罗斯，自有品牌 UPLINK）",
   "region": "俄罗斯",
   "contact": "sales@uplink.ru、sales@uplinker.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://uplinker.ru/）",
-  "用户表兴趣/备注：有很多DCN的；WDM SFP"
+  "官网：ЛИНКЕР продажа телекоммуникационного оборудования UPLINK - оптические трансиверы ; Оптические трансиверы UPLINK для любых задач；站内 MC-WDM1000B / MC-1000-SFP-MINI；页面 /item/pdh_opticheskiy_multipleksor_uplink_2e1_1fe_sfp_dt_22_industrial/",
+  "表内：有很多 DCN 的 / WDM SFP"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@"
  ],
  "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
-  "tier": 20,
-  "why": "L3 48 口 + 4×10G（Hohunet/CENTEC 线）（来源：用户表兴趣；档位：分销商/批发商→20%）；$466.4 USD EXW（20% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供"
  },
- "email_hook": "We supply the Marvell-based 48-port L3 switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?"
 }

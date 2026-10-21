@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "德国系统集成/工程商：官网快照失败（http_error）；表内「DWDM / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "德国 DC Engineering & Solution GmbH（deutsches-center.de；阿里巴巴询盘「DWDM」；KP Thomas Hubert；官网 http_error，业务范围待核）；表内未跟进。",
+ "type": "工程方案公司（德国，DWDM 询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,46 @@
    "quote": "DWDM / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "DWDM 询盘",
+   "quote": "DWDM / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "询盘品类 DWDM（Saga 不供）且业务不可核；c_sub=品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 deutsches-center.de，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "（待核，德国）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "工程方案公司（德国，DWDM 询盘）",
   "region": "德国",
   "contact": "sales@deutsches-center.de"
  },
  "signals": [
-  "用户表兴趣/备注：DWDM / from: 阿里巴巴询盘"
+  "表内：DWDM / from: 阿里巴巴询盘；KP Thomas Hubert",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "品类不符：DWDM 询盘（Saga 不供）；官网 http_error；未跟进过"
  ],
  "saga_fit": {
   "p1": null,
   "tier": 25,
-  "why": "DWDM/OTDR：Saga 不做（来源：用户表兴趣；档位：系统集成/工程商→25%）"
+  "why": "询盘品类 DWDM（Saga 不供），官网不可达、业务待核 → 改 C（品类不符）"
  },
- "email_hook": "Thomas, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "（不发送：DWDM 品类）"
 }

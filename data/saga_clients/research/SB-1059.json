@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（c4line.com，快照 2026-10-21）",
- "summary": "韩国网络/安防经销或集成（官网未见角色词，待核）：官网「C4Line」（ko-kr）；品类词：无线 / WiFi / 网络交换 / PoE；站内型号：C4L2000G-WB6E-2E、C4L6400-2W-BT；表内「PoE相关」；群发 23 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "韩国 C4Line（IP 延长器与通信设备先驱：自研自产 Ethernet over Coax/UTP/2-Wire 工业调制解调器，千兆/百兆/无线混合延长器；KP Sung Kim（President）、Gun Kim（OEM/ODM Product Manager）；表内「PoE 相关」「可以尝试多跟进一下」）；群发 23 次无回复。",
+ "type": "IP 延长器制造商（韩国，PoE 交换机为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,68 @@
    "quote": "PoE相关",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "C4Line 定位",
+   "quote": "C4Line is the pioneer technology company for the IP Extender & Communication devices ; Gigabit Extenders (1Gbps)",
+   "url": "https://c4line.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 相关",
+   "quote": "PoE相关；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Gun Kim",
+   "title": "OEM/ODM Product Manager",
+   "email": "shkim@c4line.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Sung Kim",
+   "title": "President",
+   "email": "info@c4line.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 c4line.com，语言 ko-kr，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "IP 延长器 / EoC / 工业调制解调器（自有品牌 C4Line）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "IP 延长器制造商（韩国，PoE 交换机为配套）",
   "region": "韩国",
   "contact": "info@c4line.com、shkim@c4line.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://c4line.com/）",
-  "用户表兴趣/备注：PoE相关"
+  "官网：C4Line is the pioneer technology company for the IP Extender & Communication devices ; Gigabit Extenders (1Gbps) ; Fast Ethernet Extenders (100Mbps) ; Wireless & Wired Extenders (Hybrid)；站内 C4L2000G-WB6E-2E",
+  "表内：PoE 相关；KP Sung Kim / President；Gun Kim / Oem/odm Product Manager；可以尝试多跟进一下"
  ],
  "risks": [
-  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）"
  },
- "email_hook": "Sung, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?"
 }
