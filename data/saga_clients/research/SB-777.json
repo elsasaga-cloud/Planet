@@ -1,0 +1,57 @@
+{
+ "code": "SB-777",
+ "name_official": "NAPAD.PL（波兰安防网店）",
+ "researched_at": "2026-10-21",
+ "website_status": "（见官网快照）",
+ "summary": "波兰安防 / 网络网店 napad.pl（关联 ipox.pl 品牌；表内「工商 Switch，很多人在卖他们的，销售平台」）；列于 SmartByte 经销名单 → Q-33。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ Q-33",
+   "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工商 Switch 很多人在卖他们的；销售平台",
+   "quote": "兴趣：工商Switch 很多人在卖他们的;销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（网店）",
+   "title": "Sklep",
+   "email": "sklep@napad.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
+ },
+ "channels": {
+  "role": "SmartByte 经销 / 用户（渠道冲突）",
+  "region": "波兰"
+ },
+ "risks": [
+  "Q-33：供应商渠道冲突，默认不主动发送"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "Q-33 待裁定；不主动报价。"
+ },
+ "email_hook": "（Q-33 待裁定，默认不主动发送）"
+}

@@ -1,0 +1,57 @@
+{
+ "code": "SB-506",
+ "name_official": "REPOTEC Co., Ltd.（台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "（见官网快照）",
+ "summary": "台湾网络品牌 REPOTEC（MC / FS / 工业小壳 / SFP），表内「不跟了，他们那在面谈了」（SmartByte 原厂已直接面谈）→ 台系品牌 + SmartByte 直接客户 → Q-33 且不跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "SmartByte（！）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "列于 Clients/A/同行/Smartbyte.xlsx（SmartByte 经销名单）→ Q-33",
+   "quote": "Clients/A/同行/Smartbyte.xlsx 总表",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS 工业品（有小壳类产品）SFP；不跟了 他们那在面谈了",
+   "quote": "兴趣：MC FS 工业品（有小壳类产品） SFP；备注：不跟了 他们那在面谈了",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Sales",
+   "email": "sales@repotec.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（名单识别：SmartByte 经销 → Q-33）"
+ },
+ "channels": {
+  "role": "SmartByte 经销 / 用户（渠道冲突）",
+  "region": "台湾"
+ },
+ "risks": [
+  "Q-33：供应商渠道冲突，默认不主动发送"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "Q-33 待裁定；不主动报价。"
+ },
+ "email_hook": "（Q-33 待裁定，默认不主动发送）"
+}
