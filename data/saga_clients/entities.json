@@ -358078,7 +358078,7 @@
 }
 },
 {
-"name": "blueoptics-shop.de",
+"name": "cbo-it.de",
 "name_src": "domain",
 "names": [],
 "country": "德国",
@@ -358086,39 +358086,83 @@
 "region": "欧洲",
 "other_countries": [],
 "domains": [
+"cbo-it.de",
 "blueoptics-shop.de"
 ],
 "urls": [
+"https://www.cbo-it.de/en/blog/industrial-poe-switch-vs-commercial-poe-switch-a-discussion.html",
 "https://www.blueoptics-shop.de/41824blueoptics-10g-ethernet-medienkonverter-2x-sfp-sr-rj45-30-meter"
 ],
 "platform_links": [],
-"emails": [],
-"corp_emails": [],
+"emails": [
+"info@cbo-it.de"
+],
+"corp_emails": [
+"info@cbo-it.de"
+],
 "phones": [],
 "persons": [
-"可以着重跟一下"
+"质量高",
+"可以着重跟一下",
+"Sandra Go / Project Manager"
 ],
 "positions": [],
 "froms": [
 "谷歌"
 ],
 "interests": [
+"工业FS",
 "自己的logo\nSFP MC AOC等为主"
 ],
 "remarks": [],
 "categories": [],
 "tags": [
-"A优质名单(DE)"
+"A优质名单(DE)",
+"AI评估(DE)·DONE"
 ],
 "flags": {
 "own_brand": 1
 },
 "fit": {
+"switch": 2,
 "mc_sfp": 1
 },
-"ai_evals": [],
+"ai_evals": [
+{
+"file": "Clients/AI客户评估/DONE/AI客户评估_DE 09.23.xlsx",
+"ai": {
+"pct": 20,
+"grade": "B",
+"text": "20% B\n德国IT/网络方案商，官网有工业PoE交换机相关技术博客文章，说明对工业交换机有一定认知和需求。但从官网整体看，核心业务更偏IT服务/网络集成，交换机为配菜。\n长期跟进，以技术型内容切入（工业PoE vs 商业PoE选型指南），附上产品线信息\n工业PoE交换机、24口商业PoE交换机\n官网有工业PoE交换机专业技术文章（说明有场景需求）；核心为IT服务/集成；品牌合作关系未确认"
+}
+}
+],
 "years": [],
 "sources": [
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"sheet": "总表",
+"row": 46,
+"no": "45",
+"tags": [
+"A优质名单(DE)"
+],
+"company": "https://www.cbo-it.de/en/blog/industrial-poe-switch-vs-commercial-poe-switch-a-discussion.html",
+"country": "德国",
+"person": "质量高",
+"from": "谷歌",
+"interest": "工业FS",
+"contact": "info@cbo-it.de",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 19
+},
 {
 "file": "Clients/A/DONE/DE 1.22.xlsx",
 "sheet": "总表",
@@ -358142,59 +358186,335 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 0
+},
+{
+"file": "Clients/AI客户评估/DONE/AI客户评估_DE 09.23.xlsx",
+"sheet": "总表",
+"row": 10,
+"no": "9",
+"tags": [
+"AI评估(DE)·DONE"
+],
+"company": "https://www.cbo-it.de/en/blog/industrial-poe-switch-vs-commercial-poe-switch-a-discussion.html",
+"country": "德国",
+"person": "Sandra Go\nProject Manager",
+"from": "谷歌",
+"interest": "工业FS",
+"contact": "info@cbo-it.de",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "20% B\n德国IT/网络方案商，官网有工业PoE交换机相关技术博客文章，说明对工业交换机有一定认知和需求。但从官网整体看，核心业务更偏IT服务/网络集成，交换机为配菜。\n长期跟进，以技术型内容切入（工业PoE vs 商业PoE选型指南），附上产品线信息\n工业PoE交换机、24口商业PoE交换机\n官网有工业PoE交换机专业技术文章（说明有场景需求）；核心为IT服务/集成；品牌合作关系未确认",
+"claude_eval": "",
+"followups": 0
 }
 ],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
+"followups": [
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2024.4.2",
+"date_iso": "2024-04-02",
+"content": "发了16电口信息",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2024.4.27",
+"date_iso": "2024-04-27",
+"content": "发了5电口信息",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2024.5.27",
+"date_iso": "2024-05-27",
+"content": "发了4光24导轨式信息",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2024.6.29",
+"date_iso": "2024-06-29",
+"content": "2光8BT",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2024.7.30",
+"date_iso": "2024-07-30",
+"content": "10G MC",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2024.8.27",
+"date_iso": "2024-08-27",
+"content": "2光2小壳",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "927",
+"date_iso": "2024-09-27",
+"content": "8电口",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "1011",
+"date_iso": "2024-10-11",
+"content": "24passive",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "116",
+"date_iso": "2024-11-06",
+"content": "28poe",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "1114",
+"date_iso": "2024-11-14",
+"content": "群发了10gweb",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "124",
+"date_iso": "2024-12-04",
+"content": "48口",
+"reply": "",
+"platform": "Email",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "2025.2.11",
+"date_iso": "2025-02-11",
+"content": "4 24",
+"reply": "",
+"platform": "S",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "4.1",
+"date_iso": "2025-04-01",
+"content": "list",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "5.2",
+"date_iso": "2025-05-02",
+"content": "16电",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "711",
+"date_iso": "2025-07-11",
+"content": "24poe",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "825",
+"date_iso": "2025-08-25",
+"content": "alarm",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "922",
+"date_iso": "2025-09-22",
+"content": "dac",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "1027",
+"date_iso": "2025-10-27",
+"content": "28bt",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+},
+{
+"file": "Clients/A/DONE/DE 1.22.xlsx",
+"no": "45",
+"date": "63",
+"date_iso": null,
+"content": "bypass",
+"reply": "",
+"platform": "A",
+"note": "",
+"reply_kind": ""
+}
+],
+"fu_count": 19,
+"fu_first": "2024-04-02",
+"fu_last": "2025-10-27",
+"fu_years": [
+"2024",
+"2025"
+],
 "reply_sub": 0,
 "reply_neg": 0,
 "reply_read": 0,
 "reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
+"platforms": [
+"Email",
+"A",
+"S"
+],
+"last_tier_letter": "A",
 "wa_in_fu": false,
 "deal_in_fu": false,
 "fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
+"last_year": 2025,
+"merge_keys": [
+"d:cbo-it.de",
+"e:info@cbo-it.de",
+"m:SB-758+SB-812"
+],
 "grade_auto": "B",
-"score": 33,
+"score": 44,
 "reasons": [
 "+6 在 A/DONE 优质国家名单（已做过整轮推送）",
+"+2 在 AI 客户评估名单",
+"+4 AI/Claude 评估 B",
 "+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
 "+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/德国"
+"+8 区域 欧洲/德国",
+"+5 最近活动 2025",
+"-16 推送 19 次无任何回复（聋名单）"
 ],
 "c_sub": "",
-"status": "名单内·未触达",
+"status": "已推送 19 次·未回复",
+"code_aliases": [
+"SB-812"
+],
 "code": "SB-758",
 "grade": "B",
 "research": {
 "code": "SB-758",
 "name_official": "",
 "researched_at": "2026-10-21",
-"website_status": "在线（blueoptics-shop.de，快照 2026-10-21）",
-"summary": "德国 BlueOptics-Shop（CBO 旗下 BlueOptics 光模块与光纤配件网店，德国发货；站内 SFP/SFP28/QSFP28/QSFP56/QSFP112；表内「自己的 logo；SFP MC AOC 等为主」「可以着重跟一下」；无邮箱）；表内未跟进。",
-"type": "光模块品牌网店（德国，MC 为副线；邮箱待补）",
+"website_status": "在线（cbo-it.de / blueoptics-shop.de，快照 2026-10-21）",
+"summary": "德国 CBO GmbH（「Offizieller BlueOptics SFP Hersteller」：BlueOptics 品牌光模块（SFP/QSFP28/SFP56/QSFP112）、DAC/AOC、光纤跳线、MPO/MTP；主站 cbo-it.de + 品牌商城 blueoptics-shop.de（原 SB-812 与 SB-758 两行，2026-10-21 人工归并为一家）；表内「工业 FS」「质量高」「自己的 logo；SFP MC AOC 等为主」「可以着重跟一下」；KP Sandra Go（Project Manager））；群发 19 次无回复。",
+"type": "光模块品牌商（德国，BlueOptics，工业 FS 为副线）",
 "size": "",
-"brands_seen": [],
+"brands_seen": [
+"BlueOptics"
+],
 "evidence": [
 {
 "kind": "官网快照",
-"claim": "官网标题：Blueoptics - Shop | BlueOptics-Shop；品类词 光纤 / 媒体转换",
-"quote": "Transceiver und LWL Zubehör - Versand aus Deutschland",
-"url": "https://www.blueoptics-shop.de/",
+"claim": "官网标题：Offizieller BlueOptics SFP Hersteller；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+"quote": "Kaufen Sie BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel direkt ab Lager. Versand heute.",
+"url": "https://www.blueoptics.de/",
 "date": "2026-10-21"
 },
 {
 "kind": "用户表",
 "claim": "表内兴趣/备注",
-"quote": "自己的logo SFP MC AOC等为主",
+"quote": "工业FS",
 "url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "CBO 定位",
+"quote": "Offizieller BlueOptics SFP Hersteller ; BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel",
+"url": "https://www.blueoptics.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS 质量高",
+"quote": "工业FS；质量高",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "官网标题：Blueoptics - Shop | BlueOptics-Shop；品类词 光纤 / 媒体转换",
+"quote": "Transceiver und LWL Zubehör - Versand aus Deutschland",
+"url": "https://www.blueoptics-shop.de/",
 "date": "2026-10-21"
 },
 {
@@ -358212,7 +358532,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Sandra Go",
+"title": "Project Manager",
+"email": "info@cbo-it.de",
+"phone": "",
+"source": "用户表"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -358222,30 +358550,32 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 blueoptics-shop.de，语言 de，快照状态 ok；角色判定来源：用户表"
+"other": "官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案"
 },
 "business_lines": [
-"光模块 / AOC / 光纤配件网店（自有品牌 BlueOptics）"
+"光模块 / DAC / AOC / 跳线 / MPO（自有品牌 BlueOptics，主站 + 商城）"
 ],
 "channels": {
-"role": "光模块品牌网店（德国，MC 为副线；邮箱待补）",
+"role": "光模块品牌商（德国，BlueOptics；工业 FS / MC 为副线；用户着重）",
 "region": "德国",
-"contact": "（表内无邮箱）"
+"contact": "info@cbo-it.de"
 },
 "signals": [
+"官网：Offizieller BlueOptics SFP Hersteller ; Kaufen Sie BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel direkt ab Lager；kw sfp 397 / 10g 62 / 2.5g 9 / oem 8",
+"表内：工业 FS；质量高；KP Sandra Go / Project Manager",
 "官网：Blueoptics - Shop | BlueOptics-Shop ; Transceiver und LWL Zubehör - Versand aus Deutschland；kw sfp 566 / 10g 46 / 2.5g 7",
 "表内：自己的 logo SFP MC AOC 等为主；可以着重跟一下"
 ],
 "risks": [
-"邮箱待补：表内与快照均无邮箱（需网站表单/CBO 官网另寻）",
-"主业光模块（Saga 不供），MC 为副线，契合度低；用户标「着重跟」"
+"主业光模块/AOC（Saga 不供，Q-32），工业 FS / MC 为副线；19 次无回复 → 改向 Project Manager 具名首触；用户标「可以着重跟一下」",
+"归并：blueoptics-shop.de（原 SB-758）与 cbo-it.de（原 SB-812）为同一公司 CBO GmbH，编号保留 SB-758，SB-812 进曾用编号"
 ],
 "saga_fit": {
-"p1": "STI-110GE",
+"p1": "STI-280GE",
 "tier": 30,
-"why": "主业光模块/AOC（Saga 不供，Q-32）→ 仅 MC 可对位：工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 BlueOptics 标"
+"why": "BlueOptics 标工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）贴标；MC 副线 STI-110GE（$24.3）；光模块/DAC/AOC Saga 不供"
 },
-"email_hook": "For the media converters sold under the BlueOptics label next to your transceiver range, we can supply gigabit MCs (desktop or industrial DIN/wall, CE/RoHS) in your packaging from small lots — which MC configuration sells most alongside your SFP modules?"
+"email_hook": "Sandra, to complement the BlueOptics transceiver range with an active line, we can supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) under the BlueOptics label from small lots — is an industrial switch or MC SKU on your roadmap?"
 }
 },
 {
@@ -372849,448 +373179,6 @@
 "why": "现从 Volktek（台湾）采购 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 Canary 标作二供；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE"
 },
 "email_hook": "Charles, for the media converters in the Canary range, we can be a second source alongside your current Taiwanese supplier — industrial gigabit and PoE MCs plus 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC model do your distributors reorder most?"
-}
-},
-{
-"name": "cbo-it.de",
-"name_src": "domain",
-"names": [],
-"country": "德国",
-"iso": "DE",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"cbo-it.de"
-],
-"urls": [
-"https://www.cbo-it.de/en/blog/industrial-poe-switch-vs-commercial-poe-switch-a-discussion.html"
-],
-"platform_links": [],
-"emails": [
-"info@cbo-it.de"
-],
-"corp_emails": [
-"info@cbo-it.de"
-],
-"phones": [],
-"persons": [
-"质量高",
-"Sandra Go / Project Manager"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业FS"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"A优质名单(DE)",
-"AI评估(DE)·DONE"
-],
-"flags": {},
-"fit": {
-"switch": 2
-},
-"ai_evals": [
-{
-"file": "Clients/AI客户评估/DONE/AI客户评估_DE 09.23.xlsx",
-"ai": {
-"pct": 20,
-"grade": "B",
-"text": "20% B\n德国IT/网络方案商，官网有工业PoE交换机相关技术博客文章，说明对工业交换机有一定认知和需求。但从官网整体看，核心业务更偏IT服务/网络集成，交换机为配菜。\n长期跟进，以技术型内容切入（工业PoE vs 商业PoE选型指南），附上产品线信息\n工业PoE交换机、24口商业PoE交换机\n官网有工业PoE交换机专业技术文章（说明有场景需求）；核心为IT服务/集成；品牌合作关系未确认"
-}
-}
-],
-"years": [],
-"sources": [
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"sheet": "总表",
-"row": 46,
-"no": "45",
-"tags": [
-"A优质名单(DE)"
-],
-"company": "https://www.cbo-it.de/en/blog/industrial-poe-switch-vs-commercial-poe-switch-a-discussion.html",
-"country": "德国",
-"person": "质量高",
-"from": "谷歌",
-"interest": "工业FS",
-"contact": "info@cbo-it.de",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 19
-},
-{
-"file": "Clients/AI客户评估/DONE/AI客户评估_DE 09.23.xlsx",
-"sheet": "总表",
-"row": 10,
-"no": "9",
-"tags": [
-"AI评估(DE)·DONE"
-],
-"company": "https://www.cbo-it.de/en/blog/industrial-poe-switch-vs-commercial-poe-switch-a-discussion.html",
-"country": "德国",
-"person": "Sandra Go\nProject Manager",
-"from": "谷歌",
-"interest": "工业FS",
-"contact": "info@cbo-it.de",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "20% B\n德国IT/网络方案商，官网有工业PoE交换机相关技术博客文章，说明对工业交换机有一定认知和需求。但从官网整体看，核心业务更偏IT服务/网络集成，交换机为配菜。\n长期跟进，以技术型内容切入（工业PoE vs 商业PoE选型指南），附上产品线信息\n工业PoE交换机、24口商业PoE交换机\n官网有工业PoE交换机专业技术文章（说明有场景需求）；核心为IT服务/集成；品牌合作关系未确认",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2024.4.2",
-"date_iso": "2024-04-02",
-"content": "发了16电口信息",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2024.4.27",
-"date_iso": "2024-04-27",
-"content": "发了5电口信息",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2024.5.27",
-"date_iso": "2024-05-27",
-"content": "发了4光24导轨式信息",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2024.6.29",
-"date_iso": "2024-06-29",
-"content": "2光8BT",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2024.7.30",
-"date_iso": "2024-07-30",
-"content": "10G MC",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2024.8.27",
-"date_iso": "2024-08-27",
-"content": "2光2小壳",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "927",
-"date_iso": "2024-09-27",
-"content": "8电口",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "1011",
-"date_iso": "2024-10-11",
-"content": "24passive",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "116",
-"date_iso": "2024-11-06",
-"content": "28poe",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "1114",
-"date_iso": "2024-11-14",
-"content": "群发了10gweb",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "124",
-"date_iso": "2024-12-04",
-"content": "48口",
-"reply": "",
-"platform": "Email",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "2025.2.11",
-"date_iso": "2025-02-11",
-"content": "4 24",
-"reply": "",
-"platform": "S",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "4.1",
-"date_iso": "2025-04-01",
-"content": "list",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "5.2",
-"date_iso": "2025-05-02",
-"content": "16电",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "711",
-"date_iso": "2025-07-11",
-"content": "24poe",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "825",
-"date_iso": "2025-08-25",
-"content": "alarm",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "922",
-"date_iso": "2025-09-22",
-"content": "dac",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "1027",
-"date_iso": "2025-10-27",
-"content": "28bt",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-},
-{
-"file": "Clients/A/DONE/DE 1.22.xlsx",
-"no": "45",
-"date": "63",
-"date_iso": null,
-"content": "bypass",
-"reply": "",
-"platform": "A",
-"note": "",
-"reply_kind": ""
-}
-],
-"fu_count": 19,
-"fu_first": "2024-04-02",
-"fu_last": "2025-10-27",
-"fu_years": [
-"2024",
-"2025"
-],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [
-"Email",
-"A",
-"S"
-],
-"last_tier_letter": "A",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 2025,
-"merge_keys": [
-"d:cbo-it.de",
-"e:info@cbo-it.de"
-],
-"grade_auto": "B",
-"score": 32,
-"reasons": [
-"+6 在 A/DONE 优质国家名单（已做过整轮推送）",
-"+2 在 AI 客户评估名单",
-"+4 AI/Claude 评估 B",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/德国",
-"+5 最近活动 2025",
-"-16 推送 19 次无任何回复（聋名单）"
-],
-"c_sub": "",
-"status": "已推送 19 次·未回复",
-"code": "SB-812",
-"grade": "B",
-"research": {
-"code": "SB-812",
-"name_official": "",
-"researched_at": "2026-10-21",
-"website_status": "在线（cbo-it.de，快照 2026-10-21）",
-"summary": "德国 CBO GmbH（「Offizieller BlueOptics SFP Hersteller」：BlueOptics 品牌光模块（SFP/QSFP28/SFP56）、DAC/AOC、光纤跳线、MPO/MTP；表内「工业 FS」「质量高」；KP Sandra Go（Project Manager））；群发 19 次无回复。疑似与 SB-758（BlueOptics）为同一实体，待人工归并确认。",
-"type": "光模块品牌商（德国，BlueOptics，工业 FS 为副线）",
-"size": "",
-"brands_seen": [
-"BlueOptics"
-],
-"evidence": [
-{
-"kind": "官网快照",
-"claim": "官网标题：Offizieller BlueOptics SFP Hersteller；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-"quote": "Kaufen Sie BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel direkt ab Lager. Versand heute.",
-"url": "https://www.blueoptics.de/",
-"date": "2026-10-21"
-},
-{
-"kind": "用户表",
-"claim": "表内兴趣/备注",
-"quote": "工业FS",
-"url": "（本地 Clients/ 表格，无公开 URL）",
-"date": "2026-10-21"
-},
-{
-"kind": "官网快照",
-"claim": "CBO 定位",
-"quote": "Offizieller BlueOptics SFP Hersteller ; BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel",
-"url": "https://www.blueoptics.de/",
-"date": "2026-10-21"
-},
-{
-"kind": "用户表",
-"claim": "工业 FS 质量高",
-"quote": "工业FS；质量高",
-"url": "（本地 Clients/ 表格，无公开 URL）",
-"date": "2026-10-21"
-}
-],
-"kp": [
-{
-"name": "Sandra Go",
-"title": "Project Manager",
-"email": "info@cbo-it.de",
-"phone": "",
-"source": "用户表"
-}
-],
-"grade_override": null,
-"override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-"deep": {
-"done_at": "2026-10-21",
-"level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
-},
-"company_facts": {
-"hq": "德国",
-"other": "官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案"
-},
-"business_lines": [
-"光模块 / DAC / AOC / 跳线（自有品牌 BlueOptics）"
-],
-"channels": {
-"role": "光模块品牌商（德国，BlueOptics，工业 FS 为副线）",
-"region": "德国",
-"contact": "info@cbo-it.de"
-},
-"signals": [
-"官网：Offizieller BlueOptics SFP Hersteller ; Kaufen Sie BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel direkt ab Lager；kw sfp 397 / 10g 62 / 2.5g 9 / oem 8",
-"表内：工业 FS；质量高；KP Sandra Go / Project Manager"
-],
-"risks": [
-"疑似重复：SB-758（BlueOptics）与本实体（cbo-it.de）待人工归并确认",
-"主业光模块（Saga 不供），工业 FS 为副线；19 次无回复 → 改向 Project Manager 具名首触"
-],
-"saga_fit": {
-"p1": "STI-280GE",
-"tier": 30,
-"why": "BlueOptics 标工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）贴标；光模块/DAC Saga 不供"
-},
-"email_hook": "Sandra, for an industrial switch line to complement BlueOptics transceivers, we can supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) under the BlueOptics label from small lots — is an industrial switch SKU on your roadmap?"
 }
 },
 {

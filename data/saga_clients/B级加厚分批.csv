@@ -387,8 +387,8 @@ SB-253,B,T3,watchnetinc.com,美国,北美,0,0,0,0,0,0,0,0,19,watchnetinc.com,3,1
 SB-308,B,T3,edge-networks.us,美国,北美,0,0,0,0,0,0,0,1,19,edge-networks.us,3,1,1,人工,ok,,STI-288GP
 SB-528,B,T3,dmsimfg.com,美国,北美,0,0,0,0,0,0,0,1,19,dmsimfg.com,6,1,1,人工,ok,,
 SB-644,B,T3,lanshack.com,美国,北美,0,0,0,0,0,0,0,0,19,lanshack.com,2,1,1,人工,ok,,STI-288GP
+SB-758,B,T3,cbo-it.de,德国,欧洲,0,0,0,0,0,0,0,1,19,cbo-it.de;blueoptics-shop.de,1,1,1,人工,ok,,
 SB-809,B,T3,arcdyn.com,美国,北美,0,0,0,0,0,0,0,0,19,arcdyn.com,2,1,1,人工,ok,Uniview,STI-288GP
-SB-812,B,T3,cbo-it.de,德国,欧洲,0,0,0,0,0,0,0,0,19,cbo-it.de,1,1,1,人工,ok,,STC-424XGGM
 SB-817,B,T3,comtrol.co.uk,英国,欧洲,0,0,0,0,0,0,0,0,19,comtrol.co.uk,2,1,1,人工,ok,Ubiquiti,STC-28DGGPM
 SB-829,B,T3,fluxlight.com,美国,北美,0,0,0,0,0,0,0,1,19,fluxlight.com,1,1,1,人工,ok,"Cisco,Juniper,D-Link,Aruba,Allied Telesis,Netgear,Huawei,H3C,Fortinet",STI-280GE
 SB-833,B,T3,galaxysecurity.com,美国,北美,0,0,0,0,0,0,0,0,19,galaxysecurity.com,3,1,1,人工,ok,,
@@ -862,7 +862,6 @@ SB-634,B,T3,avanis.de,德国,欧洲,0,0,0,0,0,0,0,0,0,avanis.de,3,1,1,人工,ok,
 SB-636,B,T3,cozzmic.com,加拿大,北美,0,0,0,0,0,0,0,0,0,cozzmic.com,3,1,1,人工,ok,,STC-424XGGM
 SB-651,B,T3,virtware.pt,葡萄牙,欧洲,0,0,0,0,0,0,0,0,0,virtware.pt,2,1,1,人工,ok,"TP-Link,Cisco",STC-28DGGPM
 SB-652,B,T3,visiondynamics.de,德国,欧洲,0,0,0,0,0,0,0,0,0,visiondynamics.de,2,1,1,人工,ok,,
-SB-758,B,T3,blueoptics-shop.de,德国,欧洲,0,0,0,0,0,0,0,1,0,blueoptics-shop.de,0,1,1,人工,ok,,
 SB-772,B,T3,ic-intracom.bg,保加利亚,欧洲,0,0,0,0,0,0,0,0,0,ic-intracom.bg,2,1,1,人工,ok,"Moxa,TP-Link",STI-288GP
 SB-776,B,T3,maplesystems.com,美国,北美,0,0,0,0,0,0,0,0,0,maplesystems.com,2,1,1,人工,ok,,STI-288GP
 SB-778,B,T3,netronicsnetworks.com,美国,北美,0,0,0,0,0,0,0,0,0,netronicsnetworks.com,1,1,1,人工,ok,,
