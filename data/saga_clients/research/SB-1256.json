@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tellabs.com，快照 2026-10-21）",
- "summary": "美国电信/ISP/网络运营：官网「Tellabs」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内型号：TR-008、GR-303、TR-57、T1X-XCVR；表内未见跟进记录。",
- "type": "电信/ISP/网络运营",
+ "summary": "美国 Tellabs（企业光 LAN（PON/OLT/ONT）与宽带运营商网络厂商；站内新闻「Zhone Technologies Announces Acquisition of Tellabs Access」；表内 KP Heidi Feltz（Marketing Director））；表内无跟进记录。",
+ "type": "光 LAN / PON 设备厂商（非渠道）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,43 +14,54 @@
    "quote": "Tellabs is a better way to build and operate true enterprise Optical LAN and broadband service provider networks.",
    "url": "https://tellabs.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Tellabs 定位",
+   "quote": "Tellabs is a better way to build and operate true enterprise Optical LAN and broadband service provider networks. ; Zhone Technologies Announces Acquisition of Tellabs Access, LLC",
+   "url": "https://tellabs.com/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "kp": [
+  {
+   "name": "Heidi Feltz",
+   "title": "Marketing Director",
+   "email": "heidi.feltz@tellabs.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "非渠道：光 LAN/PON 厂商（Tellabs，已并入 Zhone/DZS），品类不符；c_sub=厂商/品类不符（PON）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 tellabs.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "企业光 LAN / PON 设备"
  ],
  "channels": {
-  "role": "电信/ISP/网络运营",
+  "role": "光 LAN / PON 设备厂商（非渠道）",
   "region": "美国",
   "contact": "heidi.feltz@tellabs.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://tellabs.com/）",
-  "官网公开邮箱：ask@tellabs.com"
+  "官网：Tellabs is a better way to build and operate true enterprise Optical LAN and broadband service provider networks；页面 /solutions/pon/innovations/switch-replace/",
+  "新闻：Zhone Technologies Announces Acquisition of Tellabs Access, LLC"
  ],
- "risks": [],
+ "risks": [
+  "非渠道：PON/光 LAN 厂商（自研 OLT/ONT），Saga 不做 PON（价格主表无 ONU/PON）"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 6、PoE 9 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：电信/ISP/网络运营→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "PON/光 LAN 厂商（已并入 DZS/Zhone），Saga 不做 PON、对方不采购成品交换机 → 改 C"
  },
- "email_hook": "Heidi, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：厂商非渠道）"
 }

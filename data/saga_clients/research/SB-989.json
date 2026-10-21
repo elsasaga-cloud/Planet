@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（magnusgulf.com，快照 2026-10-21）",
- "summary": "阿联酋安防集成/经销：官网「Magnus : Offering End to End IT Products and Solutions | UAE」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi；站内品牌：Ubiquiti、Cisco、Netgear、D-Link、Aruba、Teltonika；产品页：vivotek-aw-ihb-1040-industrial-poe-switc、poe-switch-for-cctv-dubai、poe-switch-supplier-in-the-uae、how-do-industrial-switches-work；表内「安防 networking；一些小有名气的牌子」；群发 3 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "阿联酋 Magnus Gulf（IT 产品与方案分销：Cisco / Aruba / Ubiquiti / Netgear / D-Link / Teltonika / Vivotek，页面「PoE switch supplier in the UAE」「Vivotek AW-IHB-1040 industrial PoE switch」；表内「安防 networking，一些小有名气的牌子」「分销商」；KP Saleem Shaikh（Managing Director，saleem.a@）、Vishnu Nagaraj（Product Specialist））；表内 3 次跟进无回复。",
+ "type": "IT 分销商（阿联酋，Vivotek 工业 PoE 在售）",
  "size": "",
  "brands_seen": [
   "Ubiquiti",
@@ -29,49 +29,79 @@
    "quote": "安防 networking；一些小有名气的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Magnus Gulf 定位",
+   "quote": "We’re a one-stop shop for a variety of partners, offering end-to-end IT products and solutions from leading global vendors.",
+   "url": "https://magnusgulf.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "安防 networking，小有名气的牌子；分销商",
+   "quote": "安防 networking / 一些小有名气的牌子；分销商",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Saleem Shaikh",
+   "title": "Managing Director",
+   "email": "saleem.a@magnusgulf.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Vishnu Nagaraj",
+   "title": "Product Specialist",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "阿联酋",
   "other": "官网 magnusgulf.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "IT 产品分销（网络 / 安防 / 无线）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "IT 分销商（阿联酋，Vivotek 工业 PoE 在售）",
   "region": "阿联酋",
   "contact": "sales@magnusgulf.com、saleem.a@magnusgulf.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://magnusgulf.com/）",
-  "在售同口型交换品牌：Ubiquiti、Netgear、D-Link、Teltonika → 直接对位替换",
-  "安防品牌：Vivotek → PoE 配套切入",
-  "官网公开邮箱：name@company.ae、sales@magnusgulf.com",
-  "用户表兴趣/备注：安防 networking；一些小有名气的牌子"
+  "页面 /vivotek-aw-ihb-1040-industrial-poe-switch-uae/、/poe-switch-for-cctv-dubai/、/poe-switch-supplier-in-the-uae/",
+  "官网：one-stop shop … end-to-end IT products and solutions from leading global vendors；KP Saleem Shaikh / Managing Director；Vishnu Nagaraj / Product Specialist"
  ],
  "risks": [
-  "企业级品牌为主（Cisco/Aruba）：Saga 白牌只作价格补充线",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5）；Cisco/Aruba 品牌货为主",
+  "3 次跟进无回复 → 改向 Managing Director 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "官网快照对位：工业/自动化词频 13、PoE 4 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：安防集成/经销→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Vivotek 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 CCTV PoE 位 STC-28DGGPM / STC-424DGGPM-280W"
  },
- "email_hook": "Saleem, alongside the Ubiquiti / Cisco lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Saleem, alongside the Vivotek and Netgear PoE switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8/24-PoE L2+ models from small lots, CE/RoHS, neutral packing, EXW USD — which band do your CCTV partners order most?",
+ "products_seen": [
+  {
+   "brand": "Vivotek",
+   "model": "AW-IHB-1040",
+   "spec": "工业 PoE 交换机",
+   "saga": "STI-288GPM",
+   "url": "https://magnusgulf.com/vivotek-aw-ihb-1040-industrial-poe-switch-uae/",
+   "date": "2026-10-21"
+  }
+ ]
 }

@@ -3,10 +3,15 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（fotech.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Fotech – Uçtan Uca Bilişim Çözüm ve Ürünleri」（tr）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：TW3742AJ、TW150、TW3872E、TW4722；表内「台湾CTS的工业品 黑盒的MC」；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。",
+ "type": "IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "CTS",
+  "Black Box",
+  "Fluke Networks",
+  "EXFO"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +26,62 @@
    "quote": "台湾CTS的工业品 黑盒的MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Fotech 代理品牌",
+   "quote": "Fotech ;Fiber Optik Test OTDR ve Senkronizasyon ;Fluke Networks,Black Box,Exfo,Sumitomo,Microsemi-Microchip,Trend Networks,Tallysman Türkiye Dağıtıcısı",
+   "url": "https://www.fotech.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CTS 工业品，Black Box MC",
+   "quote": "台湾CTS的工业品 黑盒的MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "（ssahin）",
+   "title": "（表内邮箱，姓名职务待核）",
+   "email": "ssahin@fotech.com.tr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 fotech.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "IT 产品分销（光纤测试 / 数据中心 / 网络 / AV）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC）",
   "region": "土耳其",
   "contact": "ssahin@fotech.com.tr、info@fotech.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.fotech.com.tr/）",
-  "官网公开邮箱：info@fotech.com.tr",
-  "用户表兴趣/备注：台湾CTS的工业品 黑盒的MC"
+  "官网：Fluke Networks, Black Box, Exfo, Sumitomo, Microsemi-Microchip, Trend Networks, Tallysman Türkiye Dağıtıcısı；30 Yıllık Yolculuk；kw fiber 271 / cctv 59 / switch 44",
+  "表内：台湾 CTS 的工业品，黑盒的 MC"
  ],
- "risks": [],
+ "risks": [
+  "既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充",
+  "土耳其：汇率敏感；1 次跟进无回复；ssahin@ 职务待核"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?"
 }

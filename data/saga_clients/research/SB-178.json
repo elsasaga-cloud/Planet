@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hfcl.com，快照 2026-10-21）",
- "summary": "印度品牌商/贴牌需求（OEM/ODM）：官网「HFCL - Leading Provider of Telecom and Networking Solutions」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT；站内品牌：Ubiquiti；站内型号：GR-20-CORE；表内「工业FS 自己的logo；回复里有详细联系方式」；群发 1 次、有回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
+ "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,46 +23,73 @@
    "quote": "工业FS 自己的logo；回复里有详细联系方式",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HFCL 定位与 IO 交换机",
+   "quote": "HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity ; /products/detail/24-port-poe-l3-managed-switch",
+   "url": "https://www.hfcl.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的 logo；有回复",
+   "quote": "工业FS 自己的logo；回复里有详细联系方式",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Shantanu Rana",
+   "title": "（有回复，职务待核）",
+   "email": "shantanu.kumar@hfcl.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "印度",
   "other": "官网 hfcl.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光缆 / FTTH / 数据中心 / IO 网络设备（自有品牌）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
   "region": "印度",
   "contact": "shantanu.kumar@hfcl.com、iosales@hfcl.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.hfcl.com/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "用户表兴趣/备注：工业FS 自己的logo；回复里有详细联系方式"
+  "页面 /products/detail/24-port-poe-l3-managed-switch、/products/detail/24-port-l3-non-poe-switch、/insights/blogs/network-switches-for-bfsi-security-compliance",
+  "官网：HFCL is a global leader in delivering innovative telecom and networking solutions；kw fiber 250 / cable 192 / telecom 33",
+  "表内：回复里有详细联系方式；KP Shantanu Rana"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径",
+  "**有回复**：详细联系方式在 Gmail 线程（s./a. 邮箱待导出核对）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W"
  },
- "email_hook": "Shantanu, alongside the Ubiquiti lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Shantanu, following your reply: for the IO industrial switch line, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units under your label from small lots (−40~75 °C, CE/RoHS; BIS/SKD route to be discussed) — which model would you evaluate first?",
+ "products_seen": [
+  {
+   "brand": "HFCL IO（自有标）",
+   "model": "24-port PoE L3 managed switch",
+   "spec": "24 口 PoE L3 管理",
+   "saga": "STC-424XGGPM-280W（商用）/ STI-448XGGGPM(L3)（工业）",
+   "url": "https://www.hfcl.com/products/detail/24-port-poe-l3-managed-switch",
+   "date": "2026-10-21"
+  }
+ ]
 }

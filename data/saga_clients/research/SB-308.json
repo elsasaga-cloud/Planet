@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（edge-networks.us，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Home」（en-gb）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：GEMS2-8T、GEMUS-2T、GEMS2-16T、GEMS2-24T；表内「MC Switch 自己的牌子」；群发 19 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Edge Networks（工业网络方案：安防、交通、自动化、政府市场；自有 GEMS2-8T/16T/24T 管理、GEUS-5T/GEMUS-2T 非管理交换机与 MC；表内「MC / Switch 自己的牌子」；KP Christopher Costa（President，ccosta@））；群发 19 次无回复。",
+ "type": "美国工业网络自有品牌商（OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,80 @@
    "quote": "MC Switch 自己的牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Edge Networks 市场与产品",
+   "quote": "Edge Networks ; MARKETS ; Security ; Transport ; Automation ; Government ; INDUSTRIAL NETWORKING SOLUTIONS ; GEMS2-8T ; GEUS-5T",
+   "url": "https://edge-networks.us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC Switch 自己的牌子",
+   "quote": "MC Switch 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Christopher Costa",
+   "title": "President",
+   "email": "ccosta@edge-networks.us",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 edge-networks.us，语言 en-gb，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业交换机 / MC（自有品牌 Edge Networks）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "美国工业网络自有品牌商（OEM 采购）",
   "region": "美国",
   "contact": "sales@edge-networks.us、ccosta@edge-networks.us"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://edge-networks.us/）",
-  "用户表兴趣/备注：MC Switch 自己的牌子"
+  "首页：MARKETS ; Security ; Transport ; Automation ; Government ; INDUSTRIAL NETWORKING SOLUTIONS；站内 GEMS2-8T / GEMS2-16T / GEMS2-24T / GEUS-5T / GEMUS-2T",
+  "表内：MC Switch 自己的牌子；KP Christopher Costa / President"
  ],
  "risks": [
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "守界备注：市场含政府/交通——只供通用工业交换机，不涉项目",
+  "19 次无回复 → 改向 President 具名首触；现代工价格基准未知"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 GEMS2 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ GEUS-5T 位 STI-050GE（$18.5）贴 Edge 标；MC 位 STI-110GE（$24.3）"
  },
- "email_hook": "Christopher, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Christopher, for the GEMS2 / GEUS switch and media-converter range, we can be a second ODM source on a Marvell platform (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?",
+ "products_seen": [
+  {
+   "brand": "Edge Networks（自有）",
+   "model": "GEMS2-8T",
+   "spec": "工业 8 口管理",
+   "saga": "STI-288GPM",
+   "url": "https://edge-networks.us/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Edge Networks（自有）",
+   "model": "GEUS-5T",
+   "spec": "工业 5 GE 非管理",
+   "saga": "STI-050GE",
+   "url": "https://edge-networks.us/",
+   "date": "2026-10-21"
+  }
+ ]
 }

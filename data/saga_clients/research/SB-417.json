@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（waystream.com，快照 2026-10-21）",
- "summary": "瑞典分销商/批发商：官网「Waystream | Connecting the Future. One Fiber at a Time.」（en-US）；品类词：电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：MS8000、ASR8000、MS7700、ASR7700；表内「商业switch」；群发 1 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "瑞典 Waystream（FTTx 接入交换机与路由器研发商：MS7000/MS8000/ASR8000，「Made in Sweden」，Nasdaq First North 上市；表内「商业 switch，质量不错」）；表内 1 次跟进无回复。",
+ "type": "接入交换机厂商（同行/上市）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,52 @@
    "quote": "商业switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Waystream 定位",
+   "quote": "Waystream develops and distributes future-oriented digital infrastructure, such as switches and routers, with a focus on the FTTx market. ; Made in Sweden",
+   "url": "https://www.waystream.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 switch 质量不错",
+   "quote": "商业switch；质量不错",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：瑞典 FTTx 接入交换机厂商（Waystream，自研自产、上市），非渠道客户；c_sub=同行/厂商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 waystream.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "FTTx 接入交换机 / 路由器研发"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "接入交换机厂商（同行/上市）",
   "region": "瑞典",
   "contact": "sales@waystream.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.waystream.com/en/）",
-  "官网公开邮箱：cs@waystream.com、info@waystream.com、sales@waystream.com",
-  "用户表兴趣/备注：商业switch"
+  "官网：Waystream develops and distributes future-oriented digital infrastructure, such as switches and routers, with a focus on the FTTx market ; Made in Sweden；页面 /en/products-solutions/access-switches/"
  ],
- "risks": [],
+ "risks": [
+  "同行：自研自产接入交换机（Made in Sweden），上市公司，非渠道客户"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/批发商→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 25,
+  "why": "自研自产 FTTx 接入交换机的上市厂商 = 同行，非渠道客户 → 改 C"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "（不发送：同行/厂商）"
 }
