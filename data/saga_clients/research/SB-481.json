@@ -1,0 +1,90 @@
+{
+ "code": "SB-481",
+ "name_official": "Sistel Networking (SISTEL srl)",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sistel-networking.it；并档 Planet 渠道档案 PB-015）",
+ "summary": "诺瓦拉省的小型网络方案商，给安装商做布线+机柜+PLANET 工业交换机的整包。类型：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）。信号：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET。Planet 渠道档案 PB-015 评级 B（需求：PLANET 工业专页；触达 info@ 通用；体量小（资本 €10k）；无具名 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-481，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "D-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 工业交换机专页",
+   "quote": "Switch industriali Planet, Industrial switch PoE SFP … Planet Switch Industrial Ethernet » Managed - Unmanaged Ethernet Switch 100Mb to 10Gb … Planet PoE Industrial Ethernet Switch »",
+   "url": "https://www.sistel-networking.it/prodotti/switch-industriali-planet/",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "定位与客户：专业安装商与 IT 经理",
+   "quote": "Siamo il partner di fiducia per Installatori Professionali e IT Manager … Consulenza di rete … Materiale di rete … Fibra ottica",
+   "url": "https://www.sistel-networking.it/prodotti/planet-switch/",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "SISTEL srl 内部事业部；资本 €10,000",
+   "quote": "Sistel Networking è la divisione interna della Società SISTEL srl … Cap. Sociale € 10.000,00",
+   "url": "https://www.sistel-networking.it/prodotti/industrial-ethernet-solution/",
+   "date": "2026-10-19"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-015，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Sistel Networking (SISTEL srl)",
+  "founded": "",
+  "hq": "Suno (NO), 意大利",
+  "size": "",
+  "other": "Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主）"
+ },
+ "business_lines": [
+  "集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-620TF",
+   "spec": "工业 4×GE + 2 SFP 非管理",
+   "saga": "STI-240GE",
+   "url": "https://sistel-networking.it",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-10020HPT",
+   "spec": "工业 8 PoE + 2 SFP",
+   "saga": "STI-288DGGPM",
+   "url": "https://sistel-networking.it",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）",
+  "region": "意大利"
+ },
+ "signals": [
+  "小型方案商，PLANET 工业线是其主推；安装商客户需要 DIN PoE"
+ ],
+ "risks": [
+  "年台数；决策人（SISTEL srl 业主）",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 4 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求："
+ },
+ "email_hook": "Sistel Networking builds its industrial Ethernet offer around PLANET DIN-rail switches for installers, so a second source in the same form factor protects your delivery dates. Which DIN-rail PoE size do your installers specify most, 8 PoE + 2 SFP or the 4 SFP version?"
+}

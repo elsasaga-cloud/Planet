@@ -1,4 +1,5 @@
 # rimaelektronik.com
+**官方名称（调研核实）**：Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-235`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-235
 rating: B
 rating_auto: B
+name_official: "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti."
 score: 48
 country: 土耳其
 region: 土耳其
@@ -19,9 +21,9 @@ replies: 0
 followups: 2
 first_contact: 2025-09-30
 last_contact: 2025-10-29
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+p1: STC-424DGGPM-280W
+price_tier: 25%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：Antaria工业FS；Antaria工业FS  网站适合推Marvell；提到的品牌：Marvell, FS
+- **是谁**：伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-235，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：Antaria工业FS；Antaria工业FS  网站适合推Marvell）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求：；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -71,7 +73,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-235.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（rimaelektronik.com；并档 Planet 渠道档案 PB-032）
+- **是谁**：伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-235，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET
+- **【卖方目录】PLANET PoE 在售**
+  > 8 Port: Planet PL GS 4210 8P2S PoE Switch - IP Kamera Güvenlik Sistemleri … 12 Port: Planet IGS 5225 8P4S Endüstriyel PoE Switch
+  > 来源：https://www.rimaelektronik.com/ip-ekipmanlari/poe-switch/8-port/planet-pl-gs-4210-8p2s-poe-switch.html（抓取 2026-10-19）
+- **【公司自述】联系与业务；客户评价证明自装项目**
+  > bilgi@rimaelektronik.com … 1. İnönü Cad. No:18 Kat:1 Beşyol / Florya İSTANBUL … Dört farklı lokasyonda yer alan kampüslerimiz için yapmış oldukları güvenlik kamera sisteminin projelendirilmesi, kurulum ve devreye alınması
+  > 来源：https://www.rimaelektronik.com/iletisim（抓取 2026-10-19）
+- **【第三方】业务描述**
+  > Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）
+  > 来源：https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed（抓取 2026-10-19）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti. |
+| 总部/地址 | İstanbul（Florya）, 土耳其 |
+| 其他 | Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商 |
+
+- **业务线**：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | PL-GS-4210-8P2S | 8×GE PoE+ + 2 SFP | STC-28DGGPM | https://rimaelektronik.com（2026-10-19） |
+| PLANET | IGS-5225-8P4S | 工业 8 口 PoE + 4 SFP | STI-488DGGPM | https://rimaelektronik.com（2026-10-19） |
+
+- **触达通道（公开）**：role: 安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）；region: 土耳其
+- **近况信号**：
+  - 自己做校园级监控项目（客户评价：四个校区的监控系统设计与安装）→ PoE 交换机是其每个项目的标配；小公司 bilgi@ 直达
+- **风险/边界**：年项目数与交换机台数；是否也转售给其他安装商；Planet 首触邮件未发送（Elsa 账号待定）；Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求：
+- **邮件切入句（英文）**：Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -136,19 +172,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求： | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -156,7 +193,7 @@ updated: 2026-10-21
 
 - **S**：土耳其主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -180,19 +217,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Salih,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET PL-GS-4210-8P2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

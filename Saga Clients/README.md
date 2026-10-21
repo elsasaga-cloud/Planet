@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4636 个客户**：A 82 / B 1320 / C 3234
+> 生成：2026-10-21　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4636 个客户**：A 86 / B 1316 / C 3234
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -18,8 +18,8 @@
 
 | 区域 | A | B | C | 合计 |
 |---|---|---|---|---|
-| 北美 | 17 | 207 | 259 | 483 |
-| 欧洲 | 19 | 462 | 517 | 998 |
+| 北美 | 18 | 206 | 259 | 483 |
+| 欧洲 | 22 | 459 | 517 | 998 |
 | 土耳其 | 8 | 131 | 68 | 207 |
 | 中东 | 6 | 70 | 248 | 324 |
 | 亚太 | 13 | 238 | 700 | 951 |
@@ -30,7 +30,7 @@
 | 乌克兰 | 0 | 1 | 54 | 55 |
 | 中国大陆 | 0 | 0 | 16 | 16 |
 | 未知 | 0 | 2 | 54 | 56 |
-| **合计** | 82 | 1320 | 3234 | 4636 |
+| **合计** | 86 | 1316 | 3234 | 4636 |
 
 状态分布：名单内 2004；已推送 1239；WhatsApp 528；用户判定不行 445；有回复 230；成交过 92；发不过去 83；回复暂无需求 15
 
@@ -38,7 +38,7 @@ C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548�
 
 ## 调研覆盖（A 候选逐家网页核实）
 
-- 自动评级曾为 A 的候选 **全部** 做了网页核实：502 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 376 / 调研后降 B 75 / 调研后降 C 46。
+- 自动评级曾为 A 的候选 **全部** 做了网页核实：529 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 399 / 调研后降 B 75 / 调研后降 C 46。
 - 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。
 - B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。
 
@@ -57,7 +57,7 @@ C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548�
 
 ## 索引
 
-### A 级（82）— `Saga Clients/A/`
+### A 级（86）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -140,13 +140,17 @@ C 级细分：群发冷名单无回应 1139；用户判定不行/不相关 548�
 | SA-153 | Elite Team Security Ltd | 保加利亚 | 安保服务商 + 视频监控集成（终端用户/集成商） | 回复暂无需求 | 60 | 已 | [SA-153-Elite Team Security Ltd-保加利亚.md](A/SA-153-Elite%20Team%20Security%20Ltd-保加利亚.md) |
 | SA-154 | Falke security | 德国 | 安防经销/项目商 | 已推送 7 次·未回复 | 60 | 已 | [SA-154-Falke security-德国.md](A/SA-154-Falke%20security-德国.md) |
 | SA-159 | Telemobil | 土耳其 | IT/网络系统集成商 | WhatsApp 已加·未回复 | 60 | 已 | [SA-159-Telemobil-土耳其.md](A/SA-159-Telemobil-土耳其.md) |
+| SB-020 | 4power.it | 意大利 | 分销商/经销商 | 已推送 6 次·未回复 | 59 | 已 | [SB-020-4power.it-意大利.md](A/SB-020-4power.it-意大利.md) |
 | SB-079 | ISIMKO GmbH,Guhrower Straße | 德国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 54 | 已 | [SB-079-ISIMKO GmbH,Guhrower Straße-德国.md](A/SB-079-ISIMKO%20GmbH,Guhrower%20Straße-德国.md) |
+| SB-1262 | ute.de | 德国 | 分销商/经销商 | 名单内·未触达 | 25 | 已 | [SB-1262-ute.de-德国.md](A/SB-1262-ute.de-德国.md) |
+| SB-183 | kyma.it | 意大利 | 经销/集成（类型待核） | 已推送 12 次·未回复 | 49 | 已 | [SB-183-kyma.it-意大利.md](A/SB-183-kyma.it-意大利.md) |
 | SB-336 | Eds protection technology | 土耳其 | 经销/集成（类型待核） | 已推送 2 次·未回复 | 43 | 已 | [SB-336-Eds protection technology-土耳其.md](A/SB-336-Eds%20protection%20technology-土耳其.md) |
 | SB-338 | HCS | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 43 | 已 | [SB-338-HCS-土耳其.md](A/SB-338-HCS-土耳其.md) |
+| SB-553 | norelcosafecam.com | 加拿大 | 经销/集成（类型待核） | 已推送 13 次·未回复 | 38 | 已 | [SB-553-norelcosafecam.com-加拿大.md](A/SB-553-norelcosafecam.com-加拿大.md) |
 
-### B 级（1320）— `Saga Clients/B/`
+### B 级（1316）— `Saga Clients/B/`
 
-全部 1320 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1316 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
 ### C 级（3234）— `Saga Clients/C/`
 

@@ -1,0 +1,104 @@
+{
+ "code": "SB-1173",
+ "name_official": "Coel Distribution srl",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（coeldistribution.it；并档 Planet 渠道档案 PB-024）",
+ "summary": "米兰北郊的布线+网络分销商，给安装商/集成商供货，PLANET 工业小交换机在其目录中有自有货号。类型：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）。信号：官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking。Planet 渠道档案 PB-024 评级 B（需求：PLANET 工业线在售 + 布线/网络分销渠道；触达：info@coeldistribution.it（官网 contattaci）；体量 11–50 人、€9.4M，可赢；Mikrotik 仓库 A-191 已建档 → 本仓 B 并档，首触以 Mikrotik 仓库为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1173，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 品牌页",
+   "quote": "Planet Networking … Via Fratelli Bandiera, 9A 20835 Muggiò (MB) Tel. +39 039.578.831",
+   "url": "https://www.coeldistribution.it/brands/planet-networking/",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "卖方目录",
+   "claim": "IGS-801T 在售（自有货号）",
+   "quote": "IGS-801T Planet Networking COD. COEL: PLT0086 PRODUTTORE: IGS-801T … Industriale",
+   "url": "https://www.coeldistribution.it/igs-801t/",
+   "date": "2025-10-18"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "联系方式与法人",
+   "quote": "Coel Distribution srl +39 039 578 831 … Email: info@coeldistribution.it C.F. e P. IVA: 11989650152",
+   "url": "https://www.coeldistribution.it/contattaci/",
+   "date": "2024-12-04"
+  },
+  {
+   "kind": "第三方",
+   "claim": "规模、成立、客户群",
+   "quote": "Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Muggiò · Data di fondazione: 1994（LinkedIn）；reportaziende：Fatturato 2023: € 9.413.657",
+   "url": "https://www.reportaziende.it/coel_distribution_srl_mb_11989650152",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "Mikrotik 仓库",
+   "claim": "A-191 同户（人工 A，info@ 公开）",
+   "quote": "A-191 Coel Distribution srl 意大利 集成商/代理（Allied Telesis）… info@coeldistribution.it [Publicly listed; delivery not tested]",
+   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+   "date": "2026-10-19"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Coel Distribution srl",
+  "founded": "",
+  "hq": "Muggiò (MB), 意大利",
+  "size": "",
+  "other": "Planet 渠道档案 PB-024（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比"
+ },
+ "business_lines": [
+  "分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-801T",
+   "spec": "8×GE 工业非管理（Saga 暂无对应型号，沿用 SmartByte 型号 STI-080GE）",
+   "saga": "STI-080GE",
+   "url": "https://coeldistribution.it",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "WGS-5225-8T2SV",
+   "spec": "PLANET 为 8GE+2SFP 壁挂管理型（非 PoE）；Saga 以 8 口 PoE L2+ 工业覆盖并带 PoE",
+   "saga": "STI-288DGGPM",
+   "url": "https://coeldistribution.it",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）",
+  "region": "意大利"
+ },
+ "signals": [
+  "Mikrotik 仓库 A-191（人工 A，info@）同户——本仓只补 PLANET 侧证据并并档，不重复首触；其 PLANET 在售偏工业非管理（IGS-801T/WGS-803）→ Saga 工业线可对位"
+ ],
+ "risks": [
+  "Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 4 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求："
+ },
+ "email_hook": "Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line. Do your installers take the PLANET industrial 8-port units mainly unmanaged (IGS-801T) or managed (WGS-5225)?"
+}

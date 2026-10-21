@@ -1,4 +1,5 @@
 # unifibre.it
+**官方名称（调研核实）**：Unifibre Srl（Optoplast Srl 承接业务）
 
 > **评级 B**　|　意大利　|　档案编号 `SB-1261`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-1261
 rating: B
 rating_auto: B
+name_official: "Unifibre Srl（Optoplast Srl 承接业务）"
 score: 25
 country: 意大利
 region: 欧洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
+p1: STI-288GPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的经销/集成（类型待核）；兴趣/在卖：工业FS  全部是transtion的；提到的品牌：FS
+- **是谁**：米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET。类型：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌。信号：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16P2T2S 1 155 €、IGS-624HPT 558 €、IGS-1020PTF 569 €（均「Su ordinazione」）；serie civile：GS-4210-24T4S 379 €、8P+2SFP managed 325 €、24-port PoE 300 W 433 €。Planet 渠道档案 PB-092 评级 B（需求：「Switch Industriali」类目 10 款全为 PLANET 带欧元价 + 商用类目 3 款 → 有源类目采购真实且只此一家品牌；触达：uniteam@optoplast.org / uniteam@unifibre.it + +39 02 3355501 公开（/contattaci），无具名 KP；体量：30 余年光纤 VAD，被 Optoplast 收购业务 → 中型、可赢但整合期不确定；Gmail：Elsa 账号 2025-04-01 → 2026-08-31 以 BCC 群发 9 封至 uniteam@unifibre.it，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无具名 KP + 整合期））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1261，意大利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS  全部是transtion的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿用 Planet 档案 PB-092）；需求：；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,57 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1261.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（unifibre.it；并档 Planet 渠道档案 PB-092）
+- **是谁**：米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET。类型：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌。信号：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16P2T2S 1 155 €、IGS-624HPT 558 €、IGS-1020PTF 569 €（均「Su ordinazione」）；serie civile：GS-4210-24T4S 379 €、8P+2SFP managed 325 €、24-port PoE 300 W 433 €。Planet 渠道档案 PB-092 评级 B（需求：「Switch Industriali」类目 10 款全为 PLANET 带欧元价 + 商用类目 3 款 → 有源类目采购真实且只此一家品牌；触达：uniteam@optoplast.org / uniteam@unifibre.it + +39 02 3355501 公开（/contattaci），无具名 KP；体量：30 余年光纤 VAD，被 Optoplast 收购业务 → 中型、可赢但整合期不确定；Gmail：Elsa 账号 2025-04-01 → 2026-08-31 以 BCC 群发 9 封至 uniteam@unifibre.it，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无具名 KP + 整合期））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1261，意大利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET
+- **【官网】工业交换机类目 10 款 PLANET 带价**
+  > # Switch Industriali … ISW-621T 134,00 € … ISW-621TS15 231,00 € … IGS-1020TF 349,00 € … IGS-1820TF 566,00 € … IGS-42154T2S 366,00 € … IGS-12040MT 867,00 € … IGS42158P2T2S 766,00 € … IGS421516P2T2S 1.155,00 € … IGS-624HPT 558,00 € … IGS-1020PTF 569,00 € … Visualizzati 1-10 su 10 articoli … Su ordinazione
+  > 来源：https://www.unifibre.it/32-switch-industriali（抓取 2026-10-20）
+- **【官网（搜索快照）】法律实体 / 地址 / 联系方式**
+  > Unifibre srl Via Luigi Galvani, 36 - 20019 - Settimo Milanese (MI) Italy +39 02 3355501 uniteam@unifibre.it … UNIFIBRE s.r.l. – P.IVA 07122930154
+  > 来源：https://www.unifibre.it/contattaci（抓取 2026-10-20）
+- **【官网（搜索快照）】Optoplast 收购 Unifibre 业务 + 新联系地址**
+  > Con l'acquisizione da parte di Optoplast del ramo d'azienda di Unifibre, nasce una collaborazione … OPTOPLAST Srl Via Onorato Vigliani, 143/B 10127 – Torino Magazzino Via Luigi Galvani, 36 20019 – Settimo Milanese uniteam@optoplast.org +39 02 3355501
+  > 来源：https://www.unifibre.it/switch-serie-civile/203-switch-managed-gigabit-poe-8-porte-101001000-mbps-2-porte-fibra-sfp.html（抓取 2026-10-20）
+- **【官网（搜索快照）】公司定位**
+  > Unifibre è un Distributore a Valore Aggiunto che da oltre 30 anni ricerca, seleziona e commercializza i migliori prodotti nel settore delle fibre ottiche per trasmissione dati e telecomunicazioni.
+  > 来源：https://www.unifibre.it/（抓取 2026-10-20）
+- **【官网（搜索快照）】商用类目 PLANET 带价**
+  > GS-4210-24T4S 379 € ｜ Switch managed Gigabit PoE 8 porte + 2 porte SFP 325 € ｜ 24-port PoE 300 W 433 €
+  > 来源：https://www.unifibre.it/33-switch-serie-civile（抓取 2026-10-20）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-092，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Unifibre Srl（Optoplast Srl 承接业务） |
+| 总部/地址 | Settimo Milanese (MI)（Via Luigi Galvani 36；Optoplast 总部 Torino）, 意大利 |
+| 其他 | Planet 渠道档案 PB-092（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档 |
+
+- **业务线**：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | IGS-4215-8P2T2S | 工业 8×GE PoE+ + 2×SFP + 2×GE 管理 → Saga 8×GE PoE+ + 2×SFP 管理 $78.9 USD EXW | STI-288GPM | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-624HPT | 工业 4×GE PoE+ + 2×SFP 非管理 → Saga 同口型（4×GE PoE + 2×SFP）$35.2 USD EXW | STI-244GP | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-4215-16P2T2S | 工业 16×GE PoE+ + 2×SFP + 2×GE 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（非 PoE，PoE 款另报） | STI-2160XGGM | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-4215-4T2S | 工业 4×GE + 2×SFP 管理 → Saga 最近为 STI-240GE 非管理 $28.0 USD EXW（非对等，不进首触） | STI-240GE | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-12040MT | 工业 8×GE + 4×SFP 管理 → Saga 8×GE + 2×SFP 管理 $68.2 USD EXW（SFP 口数不同） | STI-280GM | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-1020TF | 工业 8×GE + 2×SFP 非管理 → Saga 同口型 $46.6 USD EXW | STI-280GE | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-1820TF | 工业 16×GE + 2×SFP 非管理：Saga 16 口位为管理型（非对等，不报） | — | https://unifibre.it（2026-10-19） |
+| PLANET | IGS-1020PTF | 工业 8×GE PoE + 2×SFP 非管理 → Saga 同口型 $57.4 USD EXW | STI-288GP | https://unifibre.it（2026-10-19） |
+| PLANET | ISW-621T | 工业 4×FE + 2×SC 光口固定：Saga 无固定光口款 | — | https://unifibre.it（2026-10-19） |
+| PLANET | GS-4210-24T4S | 商用 24×GE + 4×SFP L2+ → Saga 同口型 $82.5 USD EXW | STC-424DGGM | https://unifibre.it（2026-10-19） |
+
+- **触达通道（公开）**：role: 光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌；region: 意大利
+- **近况信号**：
+  - 光纤分销商的有源类目整条压在 PLANET 上（工业 10 款 + 商用），客户为光纤施工 / 楼宇集成商 → Saga STI / STC 同口型、Marvell 方案、中性包装 EXW，作其有源类目第二来源；Optoplast 接手后正在整合供应链，是切入时点
+  - 首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）
+  - 样机：1 台到 Settimo Milanese 并行比对（PoE 预算 / 管理功能 / 温度范围）
+- **风险/边界**：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档；Planet 首触邮件未发送（Elsa 账号待定）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿用 Planet 档案 PB-092）；需求：
+- **邮件切入句（英文）**：Your Switch Industriali range is PLANET end-to-end (IGS-4215-8P2T2S at €766) — a Marvell-based, neutral-packed STI line at EXW gives the same slots a second source while you consolidate suppliers under Optoplast. In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -110,17 +162,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288GPM | 深挖对位：其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿用 Planet 档案 PB-092）；需求： | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -130,7 +183,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -154,30 +207,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Your Switch Industriali range is PLANET end-to-end (IGS-4215-8P2T2S at €766) — a Marvell-based, neutral-packed STI line at EXW gives the same slots a second source while you consolidate suppliers under Optoplast. In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

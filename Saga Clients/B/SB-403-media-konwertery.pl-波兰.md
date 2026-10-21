@@ -1,4 +1,5 @@
 # media-konwertery.pl
+**官方名称（调研核实）**：INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)
 
 > **评级 B**　|　波兰　|　档案编号 `SB-403`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-403
 rating: B
 rating_auto: B
+name_official: "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)"
 score: 42
 country: 波兰
 region: 欧洲
@@ -21,7 +23,7 @@ first_contact: 2025-10-20
 last_contact: 2025-10-20
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：MC Switch等；工业MC Repotec的
+- **是谁**：波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：MC Switch等；工业MC Repotec的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-403.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（media-konwertery.pl；并档 Planet 渠道档案 PB-017）
+- **是谁**：波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET
+- **【卖方目录】PLANET 工业交换机在售**
+  > IGS-4215-4P4T … IGS-6325 … FGSD-1022VHP（商品页，检索摘要）
+  > 来源：https://www.media-konwertery.pl/（抓取 2026-10-19）
+- **【公司自述】法人与地址**
+  > INTER-COMP.PL KOWALSKI sp. z o.o., ul. Pogodna 13, 86-010 Koronowo（页脚/联系页，检索摘要）
+  > 来源：https://www.media-konwertery.pl/（抓取 2026-10-19）
+- **KP**：Marek Kowalski（） +48 52 511-88-33〔https://www.media-konwertery.pl/〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl) |
+| 总部/地址 | Koronowo, 波兰 |
+| 其他 | Planet 渠道档案 PB-017（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；是否经 FEN/ACTION 进货 |
+
+- **业务线**：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | IGS-4215-4P4T | 工业 4 PoE + 4 铜 | STI-088GP（近似） | https://media-konwertery.pl（2026-10-19） |
+| PLANET | IGS-6325 | PLANET 为 L3 工业；Saga 工业 L2+ | STI-488DGGPM（近似，L3 系列） | https://media-konwertery.pl（2026-10-19） |
+| PLANET | FGSD-1022VHP | FE PoE：Saga 暂无对应（无 FE PoE 线） | — | https://media-konwertery.pl（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）；region: 波兰
+- **近况信号**：
+  - 小型专业电商，品类正是转换器/工业交换机；业主 Marek Kowalski 具名（无直邮）
+- **风险/边界**：年台数；是否经 FEN/ACTION 进货；Planet 首触邮件未发送（Elsa 账号待定）；Saga 群发已推送 1 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：
+- **邮件切入句（英文）**：media-konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -103,7 +138,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@media-konwertery.pl | 用户表原值 | Clients/ 表 |
+| Marek Kowalski | — | +48 52 511-88-33 | 调研核实（公开页） | https://www.media-konwertery.pl/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -121,7 +156,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求： | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -165,7 +200,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -173,11 +207,11 @@ updated: 2026-10-21
 **主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Marek,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. media-konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET IGS-4215-4P4T at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,4 +1,5 @@
 # triotronik.com
+**官方名称（调研核实）**：TRIOTRONIK Computerhandels GmbH
 
 > **评级 B**　|　德国　|　档案编号 `SB-1260`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-1260
 rating: B
 rating_auto: B
+name_official: "TRIOTRONIK Computerhandels GmbH"
 score: 25
 country: 德国
 region: 欧洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
+p1: STC-424DGGPM-280W
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国的分销商/经销商；兴趣/在卖：POE 工业FS MC SFP VC 销售平台 很多牌子的产品；提到的品牌：FS
+- **是谁**：施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1260，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：POE 工业FS MC SFP VC 销售平台 很多牌子的产品）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,37 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1260.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（triotronik.com；并档 Planet 渠道档案 PB-038）
+- **是谁**：施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1260，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET, MikroTik
+- **【卖方目录】PLANET 专页**
+  > TRIOTRONIK - PLANET online kaufen … Wer ist PLANET? … PLANET liefert preisgekrönte, energiesparende und leistungsstarke Netzwerkprodukte und -lösungen in 10 Hauptkategorien … LAN Switches, Industrial Ethernet, Power over Ethernet
+  > 来源：https://www.triotronik.com/de/Ueber-uns/Planet---4.8.html（抓取 2026-10-19）
+- **【Mikrotik 仓库】A-469 同户（人工 A）**
+  > A-469 TRIOTRONIK 奥地利 分销（MikroTik 官方）… +43 3172 42299 0 / mikrotik@triotronik.com … «der Netzwerkdistributor»
+  > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-038，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | TRIOTRONIK Computerhandels GmbH |
+| 总部/地址 | Weiz, 奥地利 |
+| 其他 | Planet 渠道档案 PB-038（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch） |
+
+- **业务线**：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | GS-4210-24P4C | 24×GE PoE+ + 4 Combo | STC-424DGGPM-280W | https://triotronik.com（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）；region: 奥地利
+- **近况信号**：
+  - 奥地利唯一命中的专业网络分销（此前 AT 检索仅电商）；Mikrotik 仓库 A-469（人工 A）同户——本仓并档只补 PLANET 侧证据
+- **风险/边界**：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）；Planet 首触邮件未发送（Elsa 账号待定）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：
+- **邮件切入句（英文）**：PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -98,17 +130,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求： | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -118,7 +151,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -142,19 +175,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET GS-4210-24P4C at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

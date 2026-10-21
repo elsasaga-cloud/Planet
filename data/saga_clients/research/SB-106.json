@@ -1,0 +1,182 @@
+{
+ "code": "SB-106",
+ "name_official": "OKSA Automation Limited",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（oksa.co.uk；并档 Planet 渠道档案 PB-081）",
+ "summary": "伦敦温布利一家工业自动化分销商，把 PLANET 工业交换机当主推线（PROFINET / 环网 / PoE 壁挂款），面向 SI 与 OEM。类型：工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）。信号：oksa.co.uk：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」；商品页 IGS-801M（8×GE 工业管理）、ISW-514PTF £160.89、WGS-818HP £219.00、IGS-800T-PN £269.00、WGS-4215-8P2X、IGS-6325-5X1T、DCS-7342-32C2X £8,699.00；新闻页「Compact PROFINET Switch for Smarter Automation」（PLANET IGS-800T-PN）；LinkedIn 公司页多条「our range of PLANET Technology networking products and solutions」推文。Planet 渠道档案 PB-081 评级 B（需求：PLANET IGS 专属类目 + 多款带价商品页 + 新闻 / LinkedIn 持续推 PLANET → 工业交换机进货真实；触达：sales@oksa.co.uk + support@ 公开（Contact 页），具名仅「James」（客户评价 + Elsa 历史群发收件人 james@oksa.co.uk，姓氏 / 职务未公开 → 不计具名 KP）；体量：11 人以下小型分销（Companies House 13062295，2020 年注册），可赢；Gmail：Elsa 账号 2025-03-30 → 2025-10-11 以 BCC 群发 7 封至 sales@oksa.co.uk / james@oksa.co.uk，0 回复 → 非首触、通用通道已疲劳；Mikrotik 仓无此户 → B ★★（PLANET 主推 + 公开邮箱；无具名 KP + 群发疲劳，不到 A））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-106，英国，Saga 群发已推送 5 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "联系方式与法律实体",
+   "quote": "OKSA Automation Limited East Lane Business Park Office 202, 11 Courtenay Road Wembley, HA9 7ND … 020 3997 6277 … sales@oksa.co.uk … support@oksa.co.uk",
+   "url": "https://oksa.co.uk/contact-us/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司自述（分销商 / 行业 / 客群）",
+   "quote": "OKSA Automation Limited is a UK-leading solutions provider and distributor of innovative industrial automation, industrial networking, and computing products and solutions. We offer a broad range of data acquisition, data communications, industrial IoT solutions, and automation products to manufacturers, OEMs, system integrators, and test houses … process control, security, telecommunications, water & wastewater, transport, smart grid, and building automation … Great customer service, James is always helpful and he knows his stuff.",
+   "url": "https://oksa.co.uk/about-us/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "首页工业交换机板块",
+   "quote": "Wide range of Industrial Ethernet Switches, Media Converters & Routers … Managed and Unmanaged Switches with PoE … Lowest price guaranteed & free UK shipping cost … Shortest lead-time (delivery within 10-days)",
+   "url": "https://oksa.co.uk/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "PLANET IGS 专属类目 + ISW-514PTF 带价",
+   "quote": "ISW-514PTF Industrial 4-Port 10/100TX 802.3at PoE+ plus 1-Port 100FX Ethernet Switch … £160.89 SKU: 11113279 Categories: Ethernet Switches, Managed Ethernet Switches, PLANET IGS Series (L2/L3 Managed Ring Switches)",
+   "url": "https://oksa.co.uk/product/isw-514ptf-industrial-4-port-10-100tx-802-3at-poe-plus-1-port-100fx-ethernet-switch/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-801M 商品页",
+   "quote": "IGS-801M 8-Port 10/100/1000Mbps Managed Industrial Ethernet Switch - OKSA … The PLANET IGS-801M is an Industrial 8-Port Full Gigabit Managed Ethernet Switch",
+   "url": "https://oksa.co.uk/product/igs-801m-8-port-10-100-1000mbps-managed-industrial-ethernet-switch/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "WGS-818HP / IGS-800T-PN 带价 + PLANET 新闻页",
+   "quote": "WGS-818HP Industrial 8-Port 10/100/1000T Wall-mounted Gigabit PoE+ Switch … £219.00 SKU: 11112782 Categories: Ethernet Switches, PLANET IGS Series … IGS-800T-PN Compact Industrial 8-port 10/100/1000T PROFINET Switch … £269.00 … Compact PROFINET Switch for Smarter Automation - OKSA The PLANET IGS-800T-PN",
+   "url": "https://oksa.co.uk/news/compact-profinet-switch-for-smarter-automation/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "第三方（LinkedIn 搜索快照）",
+   "claim": "公司页推文明示 PLANET 产品线",
+   "quote": "Contact our technical sales team via sales@oksa.co.uk or 02039976277 for more information about our range of PLANET Technology networking products and solutions. OKSA Automation Limited offers a wide range of PLANET network gateways, media converters, PoE splitters and switches",
+   "url": "https://uk.linkedin.com/company/oksa-automation-limited",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "第三方（Companies House）",
+   "claim": "注册号 / 注册日期 / 地址",
+   "quote": "OKSA AUTOMATION LIMITED … Registered office address: Office 202 11 Courtenay Road, East Lane Business Park, Wembley, England, HA9 7ND … Company status: Active … Incorporated on: 4 December 2020",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13062295",
+   "date": "2026-10-20"
+  }
+ ],
+ "kp": [
+  {
+   "name": "James（姓氏未公开）",
+   "title": "销售 / 技术（客户评价「James is always helpful」）；非公开页面：地址来自 Elsa 账号历史群发收件人（内部记录，2025-10-11 封 BCC），已收 Elsa 群发无回复；姓氏 / 职务待核 → 不作首触主入口",
+   "email": "james@oksa.co.uk",
+   "phone": "",
+   "source": "https://oksa.co.uk/about-us/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-081，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "OKSA Automation Limited",
+  "founded": "",
+  "hq": "Wembley, London（East Lane Business Park, Office 202, 11 Courtenay Road, HA9 7ND）, 英国",
+  "size": "",
+  "other": "Planet 渠道档案 PB-081（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / UKCA 文件"
+ },
+ "business_lines": [
+  "工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-801M",
+   "spec": "工业 8×GE 管理 DIN → Saga 8×GE + 2×SFP L2 管理 $68.2 EXW",
+   "saga": "STI-280GM",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-800T-PN",
+   "spec": "工业 8×GE PROFINET 款（£269）：Saga 无 PROFINET 协议栈，以普通 L2 管理对位，需说明",
+   "saga": "STI-280GM",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "ISW-514PTF",
+   "spec": "工业 4×FE PoE+ + 1×100FX SFP 非管理（£160.89）→ Saga 4×FE PoE + 2×SFP $32.3",
+   "saga": "STI-244FP",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "WGS-818HP",
+   "spec": "工业壁挂 8×GE PoE+ 非管理（£219）→ Saga 8×GE PoE + 2×SFP 非管理 $57.4（DIN 而非壁挂，需说明）",
+   "saga": "STI-288GP",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "WGS-4215-8P2X",
+   "spec": "工业壁挂 L2+ 8×GE PoE+ + 2×10G SFP+ → Saga 8×GE PoE+ + 2×SFP L2 管理 $78.9（上联 1G/2.5G，非 10G，需说明）",
+   "saga": "STI-288GPM",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-6325-5X1T",
+   "spec": "全 10G 工业 L3：Saga 无",
+   "saga": "—",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "XGS-6350-24X4C",
+   "spec": "24×10G SFP+ + 4×100G L3 核心（£1,399）：Saga 无",
+   "saga": "—",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "DCS-7342-32C2X",
+   "spec": "32×100G 数据中心：Saga 无",
+   "saga": "—",
+   "url": "https://oksa.co.uk",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）",
+  "region": "英国"
+ },
+ "signals": [
+  "工业自动化分销商把 PLANET 工业线当主推（PROFINET、环网、PoE 壁挂款），客群是制造 / 水务 / 楼宇 / 交通的 SI 与 OEM → Saga STI 工业 DIN 线（IP30、-40~75 °C、冗余 DC、管理 / PoE）同口型、中性包装 EXW，可作其「lowest price guaranteed」承诺下的第二线",
+  "首触：工业 8×GE 管理 DIN vs IGS-801M / IGS-800T-PN £269；第二来源 + 中性包装 EXW",
+  "样机：1 台到温布利比对（ERPS 环网 + Modbus TCP 先问清）"
+ ],
+ "risks": [
+  "James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / UKCA 文件",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 5 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GM",
+  "tier": 20,
+  "why": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Planet 档案 PB-081）；需求："
+ },
+ "email_hook": "Your industrial networking shelf is built on PLANET IGS / WGS units — a neutral-packed Marvell-based DIN-rail line at EXW gives you a second source for the same slots without touching your lowest-price guarantee. Which industrial managed switch sizes do your automation customers specify most — 8-port Gigabit (IGS-801M class) or PoE+ variants — so I send the right sample first?"
+}

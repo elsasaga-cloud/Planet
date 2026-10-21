@@ -1,0 +1,89 @@
+{
+ "code": "SB-235",
+ "name_official": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（rimaelektronik.com；并档 Planet 渠道档案 PB-032）",
+ "summary": "伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-235，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET PoE 在售",
+   "quote": "8 Port: Planet PL GS 4210 8P2S PoE Switch - IP Kamera Güvenlik Sistemleri … 12 Port: Planet IGS 5225 8P4S Endüstriyel PoE Switch",
+   "url": "https://www.rimaelektronik.com/ip-ekipmanlari/poe-switch/8-port/planet-pl-gs-4210-8p2s-poe-switch.html",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "公司自述",
+   "claim": "联系与业务；客户评价证明自装项目",
+   "quote": "bilgi@rimaelektronik.com … 1. İnönü Cad. No:18 Kat:1 Beşyol / Florya İSTANBUL … Dört farklı lokasyonda yer alan kampüslerimiz için yapmış oldukları güvenlik kamera sisteminin projelendirilmesi, kurulum ve devreye alınması",
+   "url": "https://www.rimaelektronik.com/iletisim",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "第三方",
+   "claim": "业务描述",
+   "quote": "Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）",
+   "url": "https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed",
+   "date": "2026-10-19"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+  "founded": "",
+  "hq": "İstanbul（Florya）, 土耳其",
+  "size": "",
+  "other": "Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商"
+ },
+ "business_lines": [
+  "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "PL-GS-4210-8P2S",
+   "spec": "8×GE PoE+ + 2 SFP",
+   "saga": "STC-28DGGPM",
+   "url": "https://rimaelektronik.com",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-5225-8P4S",
+   "spec": "工业 8 口 PoE + 4 SFP",
+   "saga": "STI-488DGGPM",
+   "url": "https://rimaelektronik.com",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）",
+  "region": "土耳其"
+ },
+ "signals": [
+  "自己做校园级监控项目（客户评价：四个校区的监控系统设计与安装）→ PoE 交换机是其每个项目的标配；小公司 bilgi@ 直达"
+ ],
+ "risks": [
+  "年项目数与交换机台数；是否也转售给其他安装商",
+  "Planet 首触邮件未发送（Elsa 账号待定）",
+  "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求："
+ },
+ "email_hook": "Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?"
+}

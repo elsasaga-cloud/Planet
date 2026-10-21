@@ -1,4 +1,5 @@
 # shop4power.nl
+**官方名称（调研核实）**：Shop4Power (Shop4power / shop4networks)
 
 > **评级 B**　|　荷兰　|　档案编号 `SB-860`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-860
 rating: B
 rating_auto: B
+name_official: "Shop4Power (Shop4power / shop4networks)"
 score: 32
 country: 荷兰
 region: 欧洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 15
 first_contact: 2024-05-13
 last_contact: 2025-10-07
-p1: STI-288DGGPM
+p1: STI-488XGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：荷兰的经销/集成（类型待核）；兴趣/在卖：中科德能的工业FS；提到的品牌：中科德能, FS
+- **是谁**：上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：中科德能的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-07）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-488XGGPM — 深挖对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：；$165.0 USD EXW（20% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -70,7 +72,50 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-860.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（shop4power.nl；并档 Planet 渠道档案 PB-045）
+- **是谁**：上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET, MikroTik
+- **【公司自述】PLANET 专营自述 + 联系方式**
+  > Shop4Power - Power Supply, Switches & Planet Ethernet Specialist … Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen. Wij leveren de meeste producten uit voorraad én tegen scherpe prijzen. … ADRES Duisterendijk 5A, 8131 RA Wijhe TELEFOON +31 (0)85 40 19 230 E-MAIL info@shop4power.nl
+  > 来源：https://shop4power.nl/（抓取 2026-10-19）
+- **【卖方目录】PLANET 工业 PoE 现货**
+  > The IGS-5225-8P2S2X Industrial L3 8-port Gb POE+ + 2-port 1G/2,5G SFP + 2-port 10G SFP Switch is available from stock at shop4power.nl … Gb Switches: All Planet Gb+ switches listed.
+  > 来源：https://shop4power.nl/en/s/merken/shop4power/（抓取 2026-10-19）
+- **【公司自述】覆盖 NL/BE**
+  > Over Shop4Power - De Power Specialist van Nederland & België … Wij zijn gevestigd in Wijhe (Overijssel) en leveren ook vanuit daar de producten uit.
+  > 来源：https://shop4power.nl/over-ons/（抓取 2023-01-12）
+- **【公司自述】法人/品牌名**
+  > Complete contactgegevens: Shop4power/shop4networks Duisterendijk 5a 8131 RA WIJHE / Nederland T 085 – 401 92 30 E info@shop4power.nl
+  > 来源：https://shop4power.nl/privacybeleid/（抓取 2025-06-11）
+- **【Mikrotik 仓库】C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌**
+  > C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突
+  > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Shop4Power (Shop4power / shop4networks) |
+| 总部/地址 | Wijhe（Overijssel）, 荷兰 |
+| 其他 | Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货 |
+
+- **业务线**：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | IGS-5225-8P2S2X | PLANET 为工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+；Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明） | STI-488XGGPM | https://shop4power.nl（2026-10-19） |
+| PLANET | FSD-2405 | 24 口百兆非管理，Saga 暂无对应型号（不推） | — | https://shop4power.nl（2026-10-19） |
+| PLANET | GS-4210-24P4C | 商用 24 PoE 对位 | STC-424DGGPM-280W | https://shop4power.nl（2026-10-19） |
+
+- **触达通道（公开）**：role: 专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）；region: 荷兰
+- **近况信号**：
+  - 荷兰少见的 PLANET 专营网店（此前 NL 只有泛电商与 Alarmsysteemexpert）——PLANET 是其交换机主线，E-Link 为其第二条（疑自有/白牌）线；Mikrotik 侧按「自有品牌太难」沉 C，本仓按 OEM 角度视为机会；info@ 官网多页公开
+  - 第二货源对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）
+  - 样机到 Wijhe：30 天并行测试，不要求承诺；兼容其在用 SFP
+- **风险/边界**：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货；Planet 首触邮件未发送（Elsa 账号待定）；Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）
+- **Saga 对位结论**：P1 STI-488XGGPM（20% 档）——对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：
+- **邮件切入句（英文）**：You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -145,17 +190,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-488XGGPM | 深挖对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求： | $165.0 USD EXW（20% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488XGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-488XGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -165,7 +211,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：无具名决策人，仍是公司级触达；已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入
+- **O**：P1 STI-488XGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -190,30 +236,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 中科德能 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

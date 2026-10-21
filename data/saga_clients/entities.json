@@ -66117,7 +66117,129 @@
 "c_sub": "",
 "status": "已推送 6 次·未回复",
 "code": "SB-020",
-"grade": "B"
+"grade": "A",
+"research": {
+"code": "SB-020",
+"name_official": "4Power S.r.l.",
+"researched_at": "2026-10-21",
+"website_status": "在线（4power.it；并档 Planet 渠道档案 PA-001）",
+"summary": "那不勒斯的 B2B 专业分销商，PLANET 意大利官方分销 + 自有网络品牌 4Net，11–50 人。类型：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销。信号：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B。Planet 渠道档案 PA-001 评级 A（需求面：PLANET 官方分销 + 自有品牌 4Net（OEM/ODM 需求 = 用户最优先客户类型）；触达：公开邮箱 info@/commerciale1@ + 第三方名录具名管理层 Pasquale Pirozzi；体量 11–50 人可拿下；区域意大利）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-020，意大利，Saga 群发已推送 6 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "公司自述",
+"claim": "4Power 是 PLANET 意大利官方分销商，服务 system integrator 与安装商",
+"quote": "4Power è distributore ufficiale PLANET Technology in Italia: switch PoE, industriali, WiFi, media converter e transceiver con supporto tecnico B2B … supportato da un team tecnico italiano che conosce bene le esigenze di system integrator e installatori.",
+"url": "https://www.4power.it/planet-soluzioni-networking-avanzate/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述（结构化数据）",
+"claim": "自有品牌 4Net / Eurogroup；B2B 分销 UPS、网络、布线、机柜",
+"quote": "4Power S.R.L. è un'azienda italiana specializzata nella distribuzione B2B di gruppi di continuità UPS, soluzioni per il networking, cablaggio strutturato e armadi rack. Attraverso i marchi Eurogroup e 4Net ed in qualità di distributore ufficiale Planet Technology…",
+"url": "http://www.4power.it/contatti/",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方（LinkedIn 公司页摘要）",
+"claim": "规模 11–50 人，2003 年成立，Casandrino (Napoli)",
+"quote": "Settore: Vendita all'ingrosso · Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Casandrino, Napoli · Data di fondazione: 2003",
+"url": "https://it.linkedin.com/company/4power-srl",
+"date": "2026-10-19"
+},
+{
+"kind": "行业媒体",
+"claim": "定位「专业分销商而非多品牌分销」，B2B 间接渠道",
+"quote": "4Power nasce nel 2003 fondata da un gruppo di tecnici, progettisti e commerciali … puntando sul ruolo di distributore specialista e non distributore multimarca. L'offerta 4Power è centrata sul \"business to business\"",
+"url": "https://www.snewsonline.com/aziende/4power/",
+"date": "2026-10-19"
+}
+],
+"kp": [
+{
+"name": "Pasquale Pirozzi",
+"title": "Management（第三方名录 cylex 口径，待官网/工商核实）；第三方名录级·待核",
+"email": "",
+"phone": "+39 081 8193441",
+"source": "https://www.cylex-italia.it/casandrino/4power-srl-10110617.html"
+}
+],
+"grade_override": "A",
+"override_reason": "Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "4Power S.r.l.",
+"founded": "",
+"hq": "Casandrino (NA), 意大利",
+"size": "",
+"other": "Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）"
+},
+"business_lines": [
+"方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GS-4210-24P4C",
+"spec": "24×GE PoE+ + 4 上联；PLANET 为 4 Combo，Saga 为 4×1G/2.5G SFP",
+"saga": "STC-424DGGPM-280W",
+"url": "https://4power.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-5220-16S8CR",
+"spec": "16×SFP + 8 Combo L2+；Saga 为 L3 档 $413 列表，报价按公式",
+"saga": "STC-4168XGGCM",
+"url": "https://4power.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-514PT",
+"spec": "工业 4 PoE + 1 上联非管理，近似",
+"saga": "STI-054GP",
+"url": "https://4power.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "LRP-111U-KIT",
+"spec": "Long Reach PoE 延长器：Saga 暂无对应，SmartByte 亦无",
+"saga": "—",
+"url": "https://4power.it",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销",
+"region": "意大利"
+},
+"signals": [
+"自有品牌 4Net 已在做网络产品 → 贴牌/ODM 第二货源切入；PLANET 分销身份说明其接受台系价位与亚洲供货",
+"4Net 贴牌试探（第二货源）：4Net 自有品牌 + PLANET 分销：同口数同 PoE 预算的 Marvell L2+ 机，中性包装贴 4Net 型号，价格低于 PLANET 进货价",
+"样机并行测试：寄一台到 Casandrino 做 30 天并行测试（VLAN/ERPS/PoE 看门狗）"
+],
+"risks": [
+"4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 6 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）"
+},
+"email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?"
+}
 },
 {
 "name": "AVICAM Ltd.",
@@ -102268,7 +102390,157 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1052",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1052",
+"name_official": "Acceed GmbH",
+"researched_at": "2026-10-21",
+"website_status": "在线（acceed.com；并档 Planet 渠道档案 PB-098）",
+"summary": "杜塞尔多夫工业计算 / 工业通信 VAD，PLANET 为其工业网络补充线（2025 起公告 AP / TSN 交换机）。类型：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）。信号：acceed.com/en/news/IAP-1800AX（2025-01-15）：「The German distributor Acceed has now incorporated the new high-speed access point IAP-1800AX from Planet into its programme … informs about the new access points, TSN switches and further products from Planet for industrial networks, automation, IIoT applications」；/en/products 第 67 页：WDAP-1800AX / WDAP-3000AX from Planet；/media/manual/manuals/em-img-120t_v1-1.pdf：PLANET IMG-120T 手册；/de/news 列表：「der jetzt bei Acceed erhältlich neue unmanaged Switch IGS-182GP」（品牌未注明）。Planet 渠道档案 PB-098 评级 B（需求：PLANET 为其工业网络类目在售品牌（新闻稿公告 2025-01 + 托管手册 + 产品页），但主线为 ORing / Neousys，PLANET 交换机无具名在售型号带价 → 需求真实但为补充线；触达：info@acceed.com / support@acceed.com + 电话 +49 211 938 898-0 公开（Impressum / About），总经理 Dr. Werner Kunze 具名但无公开邮箱；两信箱已被 Elsa 账号群发 9 封 0 回复；体量：25 年 VAD（人数未公开，ISO 9001）→ 可赢 → B ★（无价无具名邮箱，PLANET 非主线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1052，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"ORing"
+],
+"evidence": [
+{
+"kind": "官网新闻稿（搜索快照，2025-01-15）",
+"claim": "PLANET 进入其产品线；工业 AP / TSN 交换机",
+"quote": "The German distributor Acceed has now incorporated the new high-speed access point IAP-1800AX from Planet into its programme … The German distributor Acceed informs about the new access points, TSN switches and further products from Planet for industrial networks, automation, IIoT applications and Smart Home solutions under www.acceed.com in detail.",
+"url": "https://www.acceed.com/en/news/IAP-1800AX",
+"date": "2026-10-20"
+},
+{
+"kind": "官网产品列表（搜索快照）",
+"claim": "PLANET 户外 AP 在其产品线",
+"quote": "With the new WDAP-1800AX and WDAP-3000AX from Planet, Acceed from Düsseldorf, Germany, has extended its programme with two cost-efficient dual outdoor access points",
+"url": "https://acceed.com/en/products/?a=true&amp=&page=67",
+"date": "2026-10-20"
+},
+{
+"kind": "官网托管文档（搜索快照）",
+"claim": "站内托管 PLANET IMG-120T 手册",
+"quote": "User's Manual of IMG-120T … PLANET has added the Industrial Modbus TCP/IP Protocol to its IMG-120T Industrial-level 2-port RS422/485 Modbus Gateway",
+"url": "https://acceed.com/media/manual/manuals/em-img-120t_v1-1.pdf",
+"date": "2026-10-20"
+},
+{
+"kind": "官网新闻列表（搜索快照）",
+"claim": "新上非管理交换机 IGS-182GP（品牌未注明）",
+"quote": "Mit seinem kompakten Metallgehäuse (41 x 90 x 127 mm), insgesamt 10 Netzwerk-Schnittstellen und dem erweiterten Temperaturbereich von -40 to +75°C erfüllt der jetzt bei Acceed erhältlich neue unmanaged Switch IGS-182GP genau diese Bedingungen.",
+"url": "https://acceed.com/de/news/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网 Impressum（搜索快照）",
+"claim": "法律实体 / 总经理 / 联系",
+"quote": "Acceed GmbH Arnoldstr. 19 40479 Düsseldorf Germany Tel.: +49 211 938 898-0 Fax: +49 211 938 898-28 E-Mail: support@acceed.com Geschäftsführer: Dr. Werner Kunze Registergericht: Amtsgericht Düsseldorf Registernummer: HRB 40029 … Ust-IdNr.: DE 214 316 846",
+"url": "https://acceed.com/de/page/impressum/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网 About（搜索快照）",
+"claim": "定位 / 年限 / 总信箱",
+"quote": "acceed GmbH, headquartered in Düsseldorf, Germany, has specialized in the distribution and technical consulting of industrial computing, communication, automation, and measurement technology since 2000 … Technical consulting instead of pure product distribution … info@acceed.com … +49 211 938898 0",
+"url": "https://acceed.com/en/about-us",
+"date": "2026-10-20"
+},
+{
+"kind": "官网首页（搜索快照）",
+"claim": "选品口径（性价比优先）+ 合作品牌",
+"quote": "Markennamen allein beeindrucken uns nicht. Bei der Auswahl unserer Produkte entscheidet stets deren Leistung … Wir suchen stets nach dem für unsere Kunden effektivsten und kosteneffizientesten … adlink.png artila.png nhr.png oring.png quancom_.png rayon.png",
+"url": "https://acceed.com/de/?filter1=adlink&filter2=&filter3=",
+"date": "2026-10-20"
+},
+{
+"kind": "官网新闻列表（fetch_page 2026-10-20）",
+"claim": "近 12 个月新闻全为 Neousys / ADLINK 工业计算（PLANET 为补充线）",
+"quote": "GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb … 19.10.2026 … NRU-161V-AWP … 16.09.2026 … SEMIL-2200 … 21.08.2026 … Nuvo-11531 … 28.07.2026",
+"url": "https://acceed.com/de/news/",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-098，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Acceed GmbH",
+"founded": "",
+"hq": "Düsseldorf（Arnoldstr. 19, 40479 Düsseldorf, NRW）, 德国",
+"size": "",
+"other": "Planet 渠道档案 PB-098（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否（分销 + 项目定制，无自有交换机品牌）；最大未知：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁路 EN50155（ORing 线暗示部分项目要 → 守界）"
+},
+"business_lines": [
+"工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IAP-1800AX",
+"spec": "工业 Wi-Fi 6 AP：Saga 不供",
+"saga": "—",
+"url": "https://acceed.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WDAP-1800AX",
+"spec": "户外 Wi-Fi 6 AP（IP67）：Saga 不供",
+"saga": "—",
+"url": "https://acceed.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WDAP-3000AX",
+"spec": "户外 Wi-Fi 6 AP（IP67）：Saga 不供",
+"saga": "—",
+"url": "https://acceed.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IMG-120T",
+"spec": "Modbus 网关：Saga 不供",
+"saga": "—",
+"url": "https://acceed.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-182GP（品牌未注明）",
+"spec": "新闻列表所称「unmanaged Switch IGS-182GP，10 个网络口，-40~75 °C」品牌未注明 → 若为 8×GE PoE + 2×SFP 非管理即对位 Saga STI-288GP $57.4 USD EXW（待核）",
+"saga": "STI-288GP",
+"url": "https://acceed.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）",
+"region": "德国"
+},
+"signals": [
+"工业通信 VAD，工业交换机主线为 ORing、PLANET 为补充线；其口径「Markennamen allein beeindrucken uns nicht … stets nach dem kosteneffizientesten」= 选品看性价比 → Saga STI 工业管理型（Marvell、ERPS、宽温）中性包装 EXW，可作其项目型报价的低成本第二来源；德国第 9 户",
+"首触（第一封具名信）：性价比第二来源 + 中性包装 EXW（只谈一个型号；不贬 ORing / PLANET）",
+"样机：1 台到 Düsseldorf 并行比对（ERPS / PoE 看门狗 / 宽温 / CLI-SNMP）"
+],
+"risks": [
+"PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁路 EN50155（ORing 线暗示部分项目要 → 守界）",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（自称 distributor，走量 + 自定毛利）→ 20%；项目定制需求出现时再谈 25% / 30%（沿用 Planet 档案 PB-098）；需求："
+},
+"email_hook": "Your industrial network programme already carries PLANET next to ORing — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives your project quotes a cost-efficient second source in the 8-port PoE+ class. In your industrial network projects, is the 8-port Gigabit PoE+ managed DIN-rail class the unit you quote most often, or the non-PoE 8×GE + 2×SFP managed class — so I send the matching sample first?"
+}
 },
 {
 "name": "aiportek.com",
@@ -104746,7 +105018,189 @@
 "c_sub": "",
 "status": "已推送 5 次·未回复",
 "code": "SB-106",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-106",
+"name_official": "OKSA Automation Limited",
+"researched_at": "2026-10-21",
+"website_status": "在线（oksa.co.uk；并档 Planet 渠道档案 PB-081）",
+"summary": "伦敦温布利一家工业自动化分销商，把 PLANET 工业交换机当主推线（PROFINET / 环网 / PoE 壁挂款），面向 SI 与 OEM。类型：工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）。信号：oksa.co.uk：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」；商品页 IGS-801M（8×GE 工业管理）、ISW-514PTF £160.89、WGS-818HP £219.00、IGS-800T-PN £269.00、WGS-4215-8P2X、IGS-6325-5X1T、DCS-7342-32C2X £8,699.00；新闻页「Compact PROFINET Switch for Smarter Automation」（PLANET IGS-800T-PN）；LinkedIn 公司页多条「our range of PLANET Technology networking products and solutions」推文。Planet 渠道档案 PB-081 评级 B（需求：PLANET IGS 专属类目 + 多款带价商品页 + 新闻 / LinkedIn 持续推 PLANET → 工业交换机进货真实；触达：sales@oksa.co.uk + support@ 公开（Contact 页），具名仅「James」（客户评价 + Elsa 历史群发收件人 james@oksa.co.uk，姓氏 / 职务未公开 → 不计具名 KP）；体量：11 人以下小型分销（Companies House 13062295，2020 年注册），可赢；Gmail：Elsa 账号 2025-03-30 → 2025-10-11 以 BCC 群发 7 封至 sales@oksa.co.uk / james@oksa.co.uk，0 回复 → 非首触、通用通道已疲劳；Mikrotik 仓无此户 → B ★★（PLANET 主推 + 公开邮箱；无具名 KP + 群发疲劳，不到 A））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-106，英国，Saga 群发已推送 5 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "联系方式与法律实体",
+"quote": "OKSA Automation Limited East Lane Business Park Office 202, 11 Courtenay Road Wembley, HA9 7ND … 020 3997 6277 … sales@oksa.co.uk … support@oksa.co.uk",
+"url": "https://oksa.co.uk/contact-us/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "公司自述（分销商 / 行业 / 客群）",
+"quote": "OKSA Automation Limited is a UK-leading solutions provider and distributor of innovative industrial automation, industrial networking, and computing products and solutions. We offer a broad range of data acquisition, data communications, industrial IoT solutions, and automation products to manufacturers, OEMs, system integrators, and test houses … process control, security, telecommunications, water & wastewater, transport, smart grid, and building automation … Great customer service, James is always helpful and he knows his stuff.",
+"url": "https://oksa.co.uk/about-us/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "首页工业交换机板块",
+"quote": "Wide range of Industrial Ethernet Switches, Media Converters & Routers … Managed and Unmanaged Switches with PoE … Lowest price guaranteed & free UK shipping cost … Shortest lead-time (delivery within 10-days)",
+"url": "https://oksa.co.uk/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET IGS 专属类目 + ISW-514PTF 带价",
+"quote": "ISW-514PTF Industrial 4-Port 10/100TX 802.3at PoE+ plus 1-Port 100FX Ethernet Switch … £160.89 SKU: 11113279 Categories: Ethernet Switches, Managed Ethernet Switches, PLANET IGS Series (L2/L3 Managed Ring Switches)",
+"url": "https://oksa.co.uk/product/isw-514ptf-industrial-4-port-10-100tx-802-3at-poe-plus-1-port-100fx-ethernet-switch/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "IGS-801M 商品页",
+"quote": "IGS-801M 8-Port 10/100/1000Mbps Managed Industrial Ethernet Switch - OKSA … The PLANET IGS-801M is an Industrial 8-Port Full Gigabit Managed Ethernet Switch",
+"url": "https://oksa.co.uk/product/igs-801m-8-port-10-100-1000mbps-managed-industrial-ethernet-switch/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "WGS-818HP / IGS-800T-PN 带价 + PLANET 新闻页",
+"quote": "WGS-818HP Industrial 8-Port 10/100/1000T Wall-mounted Gigabit PoE+ Switch … £219.00 SKU: 11112782 Categories: Ethernet Switches, PLANET IGS Series … IGS-800T-PN Compact Industrial 8-port 10/100/1000T PROFINET Switch … £269.00 … Compact PROFINET Switch for Smarter Automation - OKSA The PLANET IGS-800T-PN",
+"url": "https://oksa.co.uk/news/compact-profinet-switch-for-smarter-automation/",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（LinkedIn 搜索快照）",
+"claim": "公司页推文明示 PLANET 产品线",
+"quote": "Contact our technical sales team via sales@oksa.co.uk or 02039976277 for more information about our range of PLANET Technology networking products and solutions. OKSA Automation Limited offers a wide range of PLANET network gateways, media converters, PoE splitters and switches",
+"url": "https://uk.linkedin.com/company/oksa-automation-limited",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（Companies House）",
+"claim": "注册号 / 注册日期 / 地址",
+"quote": "OKSA AUTOMATION LIMITED … Registered office address: Office 202 11 Courtenay Road, East Lane Business Park, Wembley, England, HA9 7ND … Company status: Active … Incorporated on: 4 December 2020",
+"url": "https://find-and-update.company-information.service.gov.uk/company/13062295",
+"date": "2026-10-20"
+}
+],
+"kp": [
+{
+"name": "James（姓氏未公开）",
+"title": "销售 / 技术（客户评价「James is always helpful」）；非公开页面：地址来自 Elsa 账号历史群发收件人（内部记录，2025-10-11 封 BCC），已收 Elsa 群发无回复；姓氏 / 职务待核 → 不作首触主入口",
+"email": "james@oksa.co.uk",
+"phone": "",
+"source": "https://oksa.co.uk/about-us/"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-081，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "OKSA Automation Limited",
+"founded": "",
+"hq": "Wembley, London（East Lane Business Park, Office 202, 11 Courtenay Road, HA9 7ND）, 英国",
+"size": "",
+"other": "Planet 渠道档案 PB-081（2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json）；自有品牌：否；最大未知：James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / UKCA 文件"
+},
+"business_lines": [
+"工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-801M",
+"spec": "工业 8×GE 管理 DIN → Saga 8×GE + 2×SFP L2 管理 $68.2 EXW",
+"saga": "STI-280GM",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-800T-PN",
+"spec": "工业 8×GE PROFINET 款（£269）：Saga 无 PROFINET 协议栈，以普通 L2 管理对位，需说明",
+"saga": "STI-280GM",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ISW-514PTF",
+"spec": "工业 4×FE PoE+ + 1×100FX SFP 非管理（£160.89）→ Saga 4×FE PoE + 2×SFP $32.3",
+"saga": "STI-244FP",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WGS-818HP",
+"spec": "工业壁挂 8×GE PoE+ 非管理（£219）→ Saga 8×GE PoE + 2×SFP 非管理 $57.4（DIN 而非壁挂，需说明）",
+"saga": "STI-288GP",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WGS-4215-8P2X",
+"spec": "工业壁挂 L2+ 8×GE PoE+ + 2×10G SFP+ → Saga 8×GE PoE+ + 2×SFP L2 管理 $78.9（上联 1G/2.5G，非 10G，需说明）",
+"saga": "STI-288GPM",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-6325-5X1T",
+"spec": "全 10G 工业 L3：Saga 无",
+"saga": "—",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "XGS-6350-24X4C",
+"spec": "24×10G SFP+ + 4×100G L3 核心（£1,399）：Saga 无",
+"saga": "—",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "DCS-7342-32C2X",
+"spec": "32×100G 数据中心：Saga 无",
+"saga": "—",
+"url": "https://oksa.co.uk",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）",
+"region": "英国"
+},
+"signals": [
+"工业自动化分销商把 PLANET 工业线当主推（PROFINET、环网、PoE 壁挂款），客群是制造 / 水务 / 楼宇 / 交通的 SI 与 OEM → Saga STI 工业 DIN 线（IP30、-40~75 °C、冗余 DC、管理 / PoE）同口型、中性包装 EXW，可作其「lowest price guaranteed」承诺下的第二线",
+"首触：工业 8×GE 管理 DIN vs IGS-801M / IGS-800T-PN £269；第二来源 + 中性包装 EXW",
+"样机：1 台到温布利比对（ERPS 环网 + Modbus TCP 先问清）"
+],
+"risks": [
+"James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / UKCA 文件",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 5 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-280GM",
+"tier": 20,
+"why": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Planet 档案 PB-081）；需求："
+},
+"email_hook": "Your industrial networking shelf is built on PLANET IGS / WGS units — a neutral-packed Marvell-based DIN-rail line at EXW gives you a second source for the same slots without touching your lowest-price guarantee. Which industrial managed switch sizes do your automation customers specify most — 8-port Gigabit (IGS-801M class) or PoE+ variants — so I send the right sample first?"
+}
 },
 {
 "name": "cleverkey.ru",
@@ -110734,7 +111188,144 @@
 "c_sub": "",
 "status": "已推送 1 次·未回复",
 "code": "SB-108",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-108",
+"name_official": "Allnet Sp. z o.o. Sp.k.（WISP.PL）",
+"researched_at": "2026-10-21",
+"website_status": "在线（wisp.pl；并档 Planet 渠道档案 PB-065）",
+"summary": "西里西亚 Bełk 一家 2–10 人的 WISP 设备网店（MikroTik VAD），PLANET 只剩工业 FE 款与媒体转换器，已主推中国品牌 Scodeno 工业交换机。类型：分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）。信号：wisp.pl 交换机类目 /k19,switche.html 品牌筛选「Producent Planet (4)」（≈350 款交换机里的边线品牌：Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel 为主）；媒体转换器类目 /k116 「Planet (4)」；产品页 ISW-621（工业 4×FE + 2×FX）、MC-RPS130（135,30 zł brutto，Dostępny）、VC-231（已停产，后继 VC-231G）；首页横幅推 Scodeno 工业交换机（中国品牌）。Planet 渠道档案 PB-065 评级 B（需求：PLANET 仅 4 款交换机 + 4 款媒体转换器，且主力为 MikroTik/Ubiquiti/TP-Link → PLANET 为边线、需求弱；但网店已主推 Scodeno 中国工业交换机 → 对 Saga 品类有真实需求；触达：sklep@wisp.pl 公开（第三方 MikroTik 经销商名录转载），无具名 KP；体量：2–10 人、MikroTik VAD → 可赢但单量小；Mikrotik 仓 A-380 已人工 A 且有邮箱 → 本仓并档，首触以 Mikrotik 仓库为准（INH 规则：Mikrotik A 有邮箱的并档行不从本仓发）→ B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-108，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"TP-Link",
+"Ubiquiti",
+"MikroTik",
+"Teltonika",
+"Netgear",
+"D-Link",
+"Zyxel",
+"Cisco",
+"Cudy",
+"Tenda"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司法务信息与 MikroTik 分销身份",
+"quote": "Założony w 2003 roku sklep internetowy WISP.PL jest prowadzony przez firmę Allnet Sp. z o.o. Sp.k. z siedzibą przy ulicy Dębowej 2A w Bełku koło Rybnika… KRS: 0000379258… NIP: 642-315-64-22… Jesteśmy oficjalnym dystrybutorem firmy MikroTik. Posiadamy status: MikroTik Value Added Distributor",
+"url": "https://www.wisp.pl/info.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "交换机类目品牌筛选含 PLANET 4 款（边线）",
+"quote": "Switche … Producent … Planet (4) …（Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel）",
+"url": "https://www.wisp.pl/k19,switche.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET ISW-621 产品页",
+"quote": "Planet ISW-621 … 4-portowy switch przemysłowy 10/100 + 2×100Base-FX",
+"url": "https://www.wisp.pl/p1735,planet-isw-621.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET MC-RPS130 在售（现货）",
+"quote": "Planet MC-RPS130 … 135,30 zł brutto / 110,00 zł netto … Dostępność: Dostępny",
+"url": "https://www.wisp.pl/p5758,planet-mc-rps130.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET VC-231 已停产（后继 VC-231G）",
+"quote": "Planet VC-231 … Model wycofany, następca: Planet VC-231G",
+"url": "https://www.wisp.pl/p3515,planet-vc-231.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "首页主推 Scodeno 工业交换机（中国品牌）",
+"quote": "WISP.PL … MikroTik, Ubiquiti, TP-Link, Tenda, Teltonika, Cudy, Solarix, StalFlex … Scodeno switche przemysłowe",
+"url": "https://www.wisp.pl/m242,scodeno.html",
+"date": "2026-10-20"
+},
+{
+"kind": "名录",
+"claim": "体量",
+"quote": "Wielkość firmy: 2–10 pracowników; Siedziba Bełk; Data założenia 2008; Master Distributor & VAD",
+"url": "https://pl.linkedin.com/company/wisppl",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-065，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Allnet Sp. z o.o. Sp.k.（WISP.PL）",
+"founded": "",
+"hq": "Bełk（Rybnik 附近，ul. Dębowa 2A）, 波兰",
+"size": "",
+"other": "Planet 渠道档案 PB-065（2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json）；自有品牌：否；最大未知：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）"
+},
+"business_lines": [
+"分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "ISW-621",
+"spec": "工业 DIN 4×FE + 2×100M SFP 非管理（PLANET 为固定 FX 口），同槽位",
+"saga": "STI-240FE",
+"url": "https://wisp.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "MC-RPS130",
+"spec": "媒体转换器机箱电源：Saga 无此品类，不硬凑",
+"saga": "—",
+"url": "https://wisp.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "VC-231",
+"spec": "VDSL2 转换器：Saga 无此品类，不硬凑",
+"saga": "—",
+"url": "https://wisp.pl",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）",
+"region": "波兰"
+},
+"signals": [
+"WISP 网店已在卖中国工业交换机品牌 Scodeno（首页横幅主推）→ 对中国直供工业 DIN 导轨款没有心理门槛；PLANET 在它这里只剩 ISW-621 类工业 FE 款与媒体转换器 → Saga 工业 DIN 8×GE + 2×SFP 非管理（STI-280GE）正是 WISP 塔站/机柜的走量槽位，价位（$46.6 EXW）可与 Scodeno 同台",
+"PLANET 侧预案（并档，不从本仓发）：工业 DIN 8+2 非管理 vs ISW-621/Scodeno；EXW",
+"样机：1 台到 Bełk 做塔站测试"
+],
+"risks": [
+"Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 1 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-280GE",
+"tier": 20,
+"why": "其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求："
+},
+"email_hook": "Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; a Marvell-based 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec. For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?"
+}
 },
 {
 "name": "montavue.com",
@@ -129822,7 +130413,129 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1160",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1160",
+"name_official": "Avstek Oy",
+"researched_at": "2026-10-21",
+"website_status": "在线（avstek.fi；并档 Planet 渠道档案 PB-094）",
+"summary": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目 4/4 为 PLANET、全部在库带价 → 采购真实且单一品牌；触达：myynti@avstek.fi 在 Yritysesittely 页公开（「myynti (ät) avstek.fi」），无具名 KP；体量：2015 年成立的小型承包商 + 网店（Suomen Vahvimmat AA）→ 可赢但年量小；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 13 封至 myynti@avstek.fi，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（体量小 + 无具名））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1160，芬兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"Dahua"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "PoE 交换机类目 4 款全 PLANET 在库带价",
+"quote": "# PoE kytkimet 4 tuotetta … PLANET GSD-804P KYTKIN 8P 4xPoE 144,33 € Varastossa … PLANET GSD-908HP KYTKIN 8xPoE 181,17 € Varastossa … PLANET GSW-2620HP KYTKIN 24xPoE 351,20 € Varastossa … PLANET GSW-1600HP KYTKIN 16xPoE 260,11 € Varastossa … Näytetään 1 - 4 / 4 tuotteesta",
+"url": "https://avstek.fi/kauppa/44-poe-kytkimet",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "公司简介 / 成立年 / 资质 / 公开邮箱",
+"quote": "Avstek Oy on perustettu vuonna 2015. … toimitusohjelmame käsittää useita tuhansia tuotteita … ole yhteydessä myyntiimme > myynti (ät) avstek.fi … Sähköurakoitsija - Tukes S3 … Turvaurakoitsija - Turvallisuusalan elinkeinolupa … Suomen Vahvimmat AA",
+"url": "https://avstek.fi/kauppa/content/4-yritysesittely",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "GSD-908HP 商品页",
+"quote": "PLANET GSD-908HP on metallikoteloitu High PoE-kytkin kahdeksalla 10/10/1000Base-T PoE-porttilla (8x PoE / 4x PoE+) sekä yhdellä 10/100/1000Base-T uplink-portilla. Kytkimen PoE-virransyöttökapasiteetti on 120W.",
+"url": "https://avstek.fi/kauppa/poe-kytkimet/232-planet-gsd-908hp-kytkin-8-x-poe.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET AP 在售",
+"quote": "WBS-202N 2.4GHz 300M WLAN tukiasema sisä- ja ulko … PLANET WBS-202N",
+"url": "https://avstek.fi/kauppa/wifi-laite-antenni/339-wbs-202n-24ghz-300m-wlan-tukiasema-sisae-ja-ulko.html",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-094，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Avstek Oy",
+"founded": "",
+"hq": "（芬兰；具体城市官网未列，待补证）, 芬兰",
+"size": "",
+"other": "Planet 渠道档案 PB-094（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）"
+},
+"business_lines": [
+"安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GSD-908HP",
+"spec": "8×GE PoE + 1×GE 上行 120 W → Saga 8×GE PoE + 2×SFP 管理 $80.7 USD EXW",
+"saga": "STC-28DGGPM",
+"url": "https://avstek.fi",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-804P",
+"spec": "8×GE 中 4×PoE+ 60 W → Saga 8×GE PoE + 2×SFP 管理（同款覆盖）",
+"saga": "STC-28DGGPM",
+"url": "https://avstek.fi",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSW-2620HP",
+"spec": "24×GE PoE+ + 2×SFP 220 W → Saga 24×GE PoE+ + 4×SFP 280 W 管理 $134.5 USD EXW",
+"saga": "STC-424DGGPM-280W",
+"url": "https://avstek.fi",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSW-1600HP",
+"spec": "16×GE PoE+ 非管理：Saga 商用线无 16 口 PoE 款（以 24 口 STC-424DGGPM-280W 覆盖，需说明）",
+"saga": "—",
+"url": "https://avstek.fi",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WBS-202N",
+"spec": "2.4 GHz 室外 AP：Saga 无",
+"saga": "—",
+"url": "https://avstek.fi",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库",
+"region": "芬兰"
+},
+"signals": [
+"小型安防安装商 + 网店，PoE 交换机类目 100% PLANET 且备库 → Saga STC 商用 PoE 同口型（8 口 / 24 口）中性包装 EXW，直接替换其自用 + 网店 SKU；体量小但决策快、无供应商审核",
+"首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+"样机：1 台到 芬兰（地址待补） 并行比对（PoE 预算 / 管理功能 / 温度范围）"
+],
+"risks": [
+"所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需求："
+},
+"email_hook": "Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?"
+}
 },
 {
 "name": "batna24.com",
@@ -130401,7 +131114,107 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1165",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1165",
+"name_official": "Business Systems Connection Inc.",
+"researched_at": "2026-10-21",
+"website_status": "在线（bizsyscon.com；并档 Planet 渠道档案 PB-022）",
+"summary": "圣路易斯郊区的微型 WISP 分销商，自有品牌 Lysora，PLANET 是其工业 PoE 货源之一。类型：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora。信号：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家。Planet 渠道档案 PB-022 评级 B（需求：PLANET + 自有品牌；触达 sales@ 通用（具名 Joseph Barros / James Shaw / Nijaz Mustedanagic 邮箱被遮蔽）；体量微型；Mikrotik A-532 同户——本仓不重复首触，B 并档）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1165，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"Ubiquiti",
+"MikroTik",
+"Cambium"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 商用与工业 PoE 在售",
+"quote": "GS-4210-24P4C $522 … IGS-5225-8P4S-12V $809.60（商品页，检索摘要）",
+"url": "https://www.bizsyscon.com/",
+"date": "2026-10-19"
+},
+{
+"kind": "Mikrotik 仓库",
+"claim": "A-532（人工定级 A，sales@bizsyscon.com，自有品牌 Lysora）",
+"quote": "客户名单_反向信号_2026-09.csv 行 A-532",
+"url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+"date": "2026-10-19"
+}
+],
+"kp": [
+{
+"name": "Joseph Barros",
+"title": "（名录口径，角色待核）；具名无公开直邮（遮蔽，不猜）",
+"email": "",
+"phone": "636-600-1400",
+"source": "名录摘要"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-022，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Business Systems Connection Inc.",
+"founded": "",
+"hq": "Fenton, MO, 美国",
+"size": "",
+"other": "Planet 渠道档案 PB-022（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Lysora）；最大未知：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM"
+},
+"business_lines": [
+"分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-5225-8P4S-12V",
+"spec": "工业 8 PoE + 4 SFP（PLANET 为 12V 升压版，Saga 需核 12V 输入）",
+"saga": "STI-488DGGPM",
+"url": "https://bizsyscon.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-24P4C",
+"spec": "24 PoE",
+"saga": "STC-424DGGPM-280W",
+"url": "https://bizsyscon.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-4215-8P2T2S",
+"spec": "8 PoE + 2 SFP",
+"saga": "STI-288DGGPM",
+"url": "https://bizsyscon.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora",
+"region": "美国"
+},
+"signals": [
+"自有品牌 Lysora 已是贴牌货（NSI 加拿大也分销 Lysora）→ OEM 对象；Mikrotik 仓库 A-532 已记录 sales@bizsyscon.com，勿重复首触"
+],
+"risks": [
+"Mikrotik 侧是否已首触及结果；Lysora 现有 ODM",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-488DGGPM",
+"tier": 20,
+"why": "同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求："
+},
+"email_hook": "Lysora is already your own switch label, so a Marvell-based industrial 8-port PoE+ with ERPS could join the line without a new supplier onboarding. Which Lysora or PLANET industrial PoE size do your WISP customers take most, 8+4 SFP or 8+2?"
+}
 },
 {
 "name": "bluenote.ro",
@@ -131542,7 +132355,111 @@
 "c_sub": "",
 "status": "已推送 4 次·未回复",
 "code": "SB-1173",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1173",
+"name_official": "Coel Distribution srl",
+"researched_at": "2026-10-21",
+"website_status": "在线（coeldistribution.it；并档 Planet 渠道档案 PB-024）",
+"summary": "米兰北郊的布线+网络分销商，给安装商/集成商供货，PLANET 工业小交换机在其目录中有自有货号。类型：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）。信号：官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking。Planet 渠道档案 PB-024 评级 B（需求：PLANET 工业线在售 + 布线/网络分销渠道；触达：info@coeldistribution.it（官网 contattaci）；体量 11–50 人、€9.4M，可赢；Mikrotik 仓库 A-191 已建档 → 本仓 B 并档，首触以 Mikrotik 仓库为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1173，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"MikroTik"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 品牌页",
+"quote": "Planet Networking … Via Fratelli Bandiera, 9A 20835 Muggiò (MB) Tel. +39 039.578.831",
+"url": "https://www.coeldistribution.it/brands/planet-networking/",
+"date": "2026-10-19"
+},
+{
+"kind": "卖方目录",
+"claim": "IGS-801T 在售（自有货号）",
+"quote": "IGS-801T Planet Networking COD. COEL: PLT0086 PRODUTTORE: IGS-801T … Industriale",
+"url": "https://www.coeldistribution.it/igs-801t/",
+"date": "2025-10-18"
+},
+{
+"kind": "公司自述",
+"claim": "联系方式与法人",
+"quote": "Coel Distribution srl +39 039 578 831 … Email: info@coeldistribution.it C.F. e P. IVA: 11989650152",
+"url": "https://www.coeldistribution.it/contattaci/",
+"date": "2024-12-04"
+},
+{
+"kind": "第三方",
+"claim": "规模、成立、客户群",
+"quote": "Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Muggiò · Data di fondazione: 1994（LinkedIn）；reportaziende：Fatturato 2023: € 9.413.657",
+"url": "https://www.reportaziende.it/coel_distribution_srl_mb_11989650152",
+"date": "2026-10-19"
+},
+{
+"kind": "Mikrotik 仓库",
+"claim": "A-191 同户（人工 A，info@ 公开）",
+"quote": "A-191 Coel Distribution srl 意大利 集成商/代理（Allied Telesis）… info@coeldistribution.it [Publicly listed; delivery not tested]",
+"url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+"date": "2026-10-19"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Coel Distribution srl",
+"founded": "",
+"hq": "Muggiò (MB), 意大利",
+"size": "",
+"other": "Planet 渠道档案 PB-024（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比"
+},
+"business_lines": [
+"分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-801T",
+"spec": "8×GE 工业非管理（Saga 暂无对应型号，沿用 SmartByte 型号 STI-080GE）",
+"saga": "STI-080GE",
+"url": "https://coeldistribution.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WGS-5225-8T2SV",
+"spec": "PLANET 为 8GE+2SFP 壁挂管理型（非 PoE）；Saga 以 8 口 PoE L2+ 工业覆盖并带 PoE",
+"saga": "STI-288DGGPM",
+"url": "https://coeldistribution.it",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）",
+"region": "意大利"
+},
+"signals": [
+"Mikrotik 仓库 A-191（人工 A，info@）同户——本仓只补 PLANET 侧证据并并档，不重复首触；其 PLANET 在售偏工业非管理（IGS-801T/WGS-803）→ Saga 工业线可对位"
+],
+"risks": [
+"Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 4 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求："
+},
+"email_hook": "Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line. Do your installers take the PLANET industrial 8-port units mainly unmanaged (IGS-801T) or managed (WGS-5225)?"
+}
 },
 {
 "name": "connectixcablingsystems.com",
@@ -131917,7 +132834,201 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1176",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1176",
+"name_official": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
+"researched_at": "2026-10-21",
+"website_status": "在线（cyberbajt.pl；并档 Planet 渠道档案 PB-069）",
+"summary": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」。Planet 渠道档案 PB-069 评级 B（需求：PLANET 商用交换机 5 款有价有货期 + 工业线（Moxa/Antaira）在售 → 对 Saga 两条线都有真实槽位；触达：官网 dział handlowy 具名销售邮箱公开（Mikrotik 仓 R49 自官网抄录 6 位，本仓快照见 Michał Błaszczyk 具名）；体量：个体经营（Tadeusz Nowak）但自述「największy sklep internetowy dla instalatorów i operatorów ISP」+ 自有 CBF 品牌 → 可赢；Mikrotik 仓 A-512（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1176，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"TP-Link",
+"Ubiquiti",
+"MikroTik",
+"Moxa",
+"Teltonika",
+"D-Link",
+"Antaira"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "PLANET WGS-4215-8P2S 在售（价格与货期）",
+"quote": "Switch przemysłowy PLANET Managed 8-port 10/100/1000T … WGS-4215-8P2S … 1017.63 zł … 1251.68 zł brutto … Towar będzie u Ciebie za 7 dni",
+"url": "https://www.cyberbajt.pl/produkt/14809/switch-przemyslowy-planet-managed-8-port-101001000t.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET WGSW-20160HP 商品页",
+"quote": "PLANET WGSW-20160HP",
+"url": "https://www.cyberbajt.pl/produkt/14816/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET GSD-804P / GSD-804 / FSD-803 商品页",
+"quote": "PLANET GSD-804P … ; GSD-804 … 57.15 zł ; FSD-803 … 114.30 zł",
+"url": "https://www.cyberbajt.pl/produkt/14730/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET GT-805A 媒体转换器在售",
+"quote": "PLANET GT-805A media konwerter 10/100/1000Base-T do 1000Base-LX … 168.22 zł szt … 206.91 zł brutto … Towar będzie u Ciebie za 4 dni … Producent Planet",
+"url": "https://www.cyberbajt.pl/produkt/11041/planet-gt-805a-media-konwerter-101001000base-t.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "媒体转换器类目品牌筛选含 Planet（与 Antaira / Moxa 同柜）",
+"quote": "Filtrowanie: Antaira · ATTE · CBF · Cudy · D-Link · Digitus · Fibrain · Mikrotik · Moxa · OEM · Opton · Planet · Qoltec · Tenda · TP-LINK · Ubiquiti … Planet IGTP-815AT przemysłowy media konwerter 100/1000BASE-X 10/100/1000BASE-T 802.3at PoE+",
+"url": "https://www.cyberbajt.pl/grupa/769/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "公司法务信息与自述定位",
+"quote": "Adres: Cyberbajt Tadeusz Nowak ul. Młyńska 27 22-400 Zamość · NIP: 922-100-32-43 · Regon: 950190918 … Cyberbajt jest wiodącym dostawcą i dystrybutorem sprzętu sieciowego do radiowej i optycznej transmisji danych oraz producentem anten radiowych",
+"url": "https://www.cyberbajt.pl/page/29/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "客群定位（安装商与 ISP）",
+"quote": "Cyberbajt - największy sklep internetowy dla instalatorów i operatorów telekomunikacyjnych ISP. Bogata oferta: światłowody, monitoring, Mikrotik, Ubiquiti, maszty, switche, routery…",
+"url": "https://www.cyberbajt.pl/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "自有品牌 CBF 与天线制造",
+"quote": "Cyberbajt to nie tylko jeden z najwiekszych sklepów internetowych z produktami WiFi i światłowodami (marka CBF). To także jeden z czołowych producentów wysokiej jakości anten",
+"url": "https://www.cyberbajt.pl/producent/cyberbajt/",
+"date": "2026-10-20"
+},
+{
+"kind": "名录",
+"claim": "成立年份",
+"quote": "Od 2002 roku Cyberbajt z sukcesem działa … NIP: 9221003243 REGON: 950190918",
+"url": "https://www.krs-online.com.pl/firma/2602012-cyberbajt",
+"date": "2026-10-20"
+}
+],
+"kp": [
+{
+"name": "Michał Błaszczyk",
+"title": "技术/销售（dział handlowy）；公开（官网 /handlowcy/；邮箱由 Mikrotik 仓 R49 自同页抄录，本仓搜索快照见姓名，未重新逐一打开核对）",
+"email": "m.blaszczyk@cyberbajt.pl",
+"phone": "600 601 602 / (84) 638 10 70",
+"source": "https://www.cyberbajt.pl/handlowcy/"
+},
+{
+"name": "D. Jonik 等 5 位销售",
+"title": "sales（dział handlowy）；公开（同上；另有 k.godzisz@ / e.raciborski@ / g.gozdz@ / s.sirko@，见 Mikrotik 仓 A-512 行）",
+"email": "d.jonik@cyberbajt.pl",
+"phone": "",
+"source": "https://www.cyberbajt.pl/handlowcy/"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-069，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
+"founded": "",
+"hq": "Zamość（ul. Młyńska 27）, 波兰",
+"size": "",
+"other": "Planet 渠道档案 PB-069（2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json）；自有品牌：是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机；最大未知：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）"
+},
+"business_lines": [
+"分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "WGS-4215-8P2S",
+"spec": "8×GE PoE+ + 2×SFP L2+ 管理，同槽位（PLANET 为壁挂款）",
+"saga": "STC-28DGGPM",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WGSW-20160HP",
+"spec": "PLANET 为 16×GE PoE + 4×SFP；Saga 商用线无 16 口 → 以 24 口 280W 款作上位替代",
+"saga": "STC-424DGGPM-280W",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-804P",
+"spec": "8×GE 桌面非管理 PoE：Saga 商用线无非管理型号，不硬凑",
+"saga": "—",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-804",
+"spec": "8×GE 桌面非管理：不硬凑",
+"saga": "—",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FSD-803",
+"spec": "8×FE 桌面非管理：不硬凑",
+"saga": "—",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GT-805A",
+"spec": "GE 媒体转换器：Saga 对位为工业级 1×GE + 1×SFP（规格上位）",
+"saga": "STI-110GE",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGTP-815AT",
+"spec": "工业 PoE+ 媒体转换器，同槽位",
+"saga": "STI-111GP",
+"url": "https://cyberbajt.pl",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）",
+"region": "波兰"
+},
+"signals": [
+"ISP/安装商网店同时上架 PLANET 商用款（WGS-4215-8P2S 壁挂管理 PoE、GSD-804P 桌面 PoE）与 Moxa/Antaira 工业款 → 两条线 Saga 都有对位；自家 CBF 品牌说明它习惯做贴牌/自有品牌 → 对中性包装 OEM 没有门槛；8×GE PoE + 2 SFP 管理型（STC-28DGGPM，$80.7 EXW）直接对位其 WGS-4215-8P2S 槽位",
+"PLANET 侧预案（并档，不从本仓发）：8×GE PoE + 2 SFP 管理 vs WGS-4215-8P2S；EXW",
+"样机：1 台到 Zamość 做实验室测试（其有 technika 部门）"
+],
+"risks": [
+"PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求："
+},
+"email_hook": "You list the PLANET WGS-4215-8P2S next to Moxa and Antaira DIN-rail units; a Marvell-based 8×GE PoE + 2 SFP managed switch at EXW slots in between on price, and the same factory line covers the industrial DIN-rail class. For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?"
+}
 },
 {
 "name": "danbit.dk",
@@ -132015,7 +133126,217 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1177",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1177",
+"name_official": "Danbit A/S (Dansk Binær Teknik A/S)",
+"researched_at": "2026-10-21",
+"website_status": "在线（danbit.dk；并档 Planet 渠道档案 PB-089）",
+"summary": "丹麦 Køge 一家 1970 年起的工业 IT 分销商（瑞典有姊妹公司 Binär Teknik），把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖，是典型的贴牌买家。类型：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）。信号：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed to work with Planet products」、MGB SFP「可装于 PLANET Switch 产品」；binarteknik.se（同目录）：ESW8G-M-SFP2-PWM 4,462 SEK「industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner」、ESW8G-M-SFP2 8,770 SEK「Industrial 8-Port Gigabit 802.3at PoE+ Switch … IP30 … <50 ms」、PLANET ICS-2105A / TDS-715。Planet 渠道档案 PB-089 评级 B（需求：PLANET 多类目在售（媒体转换器 / 串口服务器 / PoE 分离器 / SFP 兼容说明）+ 自编货号 ESW 系列工业 PoE 管理交换机文案含「PLANET 智能 PoE 功能」且「Fysiskt i lager」→ 工业交换机进货真实、贴牌习惯明确；触达：salg@danbit.dk + +45 56 66 20 20、Binär Teknik info@binarteknik.se 公开，无具名 KP；体量：1970 年起私营，6,000+ 产品，子公司于 PGJ Investments ApS，丹麦 + 瑞典 + 挪威 → 可赢；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 10 封（salg@danbit.dk / info@binarteknik.se），0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★（贴牌买家画像强，无具名 KP + 群发疲劳不到 A））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1177，丹麦，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司历史 / 体量 / 瑞典挪威分支",
+"quote": "Dansk Binary Technology A/S or DANBIT in daily talk is a Danish privately owned technology supplier, who has been the preferred supplier of specialty products since 1970 … Today, DANBIT is a supplier of more than 6,000 special products … Imported mainly from Taiwan, Hong Kong, China, Korea, Japan, USA … In 1996, DANBIT expanded its activities and established a Swedish branch in Helsingborg. It is now an independent company - Binär Teknik AB. In 1997, DANBIT opened a branch in Oslo, Norway.",
+"url": "https://danbit.dk/en/content/4-about-us",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（品牌经销商页）",
+"claim": "地址 / 电话 / 邮箱",
+"quote": "DANBIT A/S Værkstedsvej 39-41 4600 Køge Danmark Telefonnr. +45 56 66 20 20 E-mail: salg@danbit.dk",
+"url": "https://www.iqtronic.com/where-to-buy/danbit/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "瑞典姊妹公司联系方式",
+"quote": "Binär Teknik AB Lugna Gaten 39 211 59 Malmö Sverige Ring oss: 042 14 10 85 Org. nr.: 559181-6201",
+"url": "https://www.danbit.dk/en/contact-us",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "自编货号工业 PoE 管理交换机文案含 PLANET",
+"quote": "8 portar Managed switch 8 x 10/100/1000Mbit RJ45. Fiber 2 x 100/1000Mbit SFP-kortplats, PoE+, Väggmonterbar, magneter, 48-57VDC … 4 462,00 SEK Fysiskt i lager Artikelnummer ESW8G-M-SFP2-PWM … ESW8G-M-SFP2-PWM är en industriell väggmonterad PoE Managed Switch med LCD-pekskärm med PLANET intelligenta PoE-funktioner",
+"url": "https://binarteknik.se/sv/naetverksvaexlar/21308-8-portar-managed-switch-8-x-101001000mbit-rj45-fiber-2-x-1001000mbit-sfp-kortplats-poe-vaggmonterbar-magneter-48-57vdc.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "自编货号工业 8×GE PoE+ 管理 DIN 款（IGS-10020HPT 文案）",
+"quote": "Referens: ESW8G-M-SFP2 8 770 SEK … ESW8G-M-SFP2 Industrial 8-Port Gigabit 802.3at PoE + Switch, är utrustad med robust IP30 metallhölje … felåterställningstiderna vara mindre än 50 ms … 48-55VDC / 5AMP (240W)",
+"url": "https://binarteknik.se/sv/poe-power-over-ethernet/16996-8-portar-managed-switch-8-x-1001000mbit-rj45-fiber-2-x-10010002500-mbit-sfp-kortplats-poe-40-75c-12-48vdc.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "丹麦站同款（同目录）",
+"quote": "8 ports Managed switch 8 x 10/100/1000Mbit RJ45. Fiber 2 x 100/1000Mbit SFP slot, PoE+, Vægmonteres, magneter, 48-57VDC … Op til 36 watt for hver PoE-port Total PoE effekt er 240Watt",
+"url": "https://www.danbit.dk/da/switche/21308-8-ports-managed-switch-8-x-101001000mbit-rj45-fiber-2-x-1001000mbit-sfp-slot-poe-vaegmonteres-magneter-48-57vdc.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET 工业媒体转换器类目",
+"quote": "Industriel - for DIN … PLANET IFT-802T Media Converter RJ45 to fiber, RJ45 10 / 100Mbit, 100Mbit fiber Multimode, SC",
+"url": "https://danbit.dk/en/45-industriel-for-din",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET PoE 分离器 / SFP 兼容说明",
+"quote": "PLANET 1 port PoE-171S splitterx50 Watt. Gigabit. Output voltage 12VDC,19VDC ｜ CNV-SFP2.5G mm … Transceiver modules are specially designed to work with Planet products with 2.5 g of SFP interface",
+"url": "https://www.danbit.dk/en/57-splitter",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET 串口服务器（瑞典站）",
+"quote": "Planet TDS-712 är en extern RS232-port via Internet och Ethernet. För PoE eller extern strömförsörjning … 1 590,00 SEK ｜ PLANET ICS-2105A er en 1 port seriel port server via fibernetværk RS232/422/485, SFP modul",
+"url": "https://binarteknik.se/sv/seriel-port-rs232/9380-serial-device-server-med-rs232.html",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（企业信息）",
+"claim": "法律实体 / VAT / 母公司",
+"quote": "VAT No: DK78788216 … Company: Danbit A/S … Dansk Binær Teknik A/S (legal name) … Telephone: +45 56662020 … Subsidiary company to: PGJ Investments ApS (DK)",
+"url": "https://www.largestcompanies.com/company/Danbit-AS-94160",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（瑞典行业名录）",
+"claim": "Binär Teknik 邮箱",
+"quote": "Binär Teknik AB Lugna gatan 39 211 59 Malmö Sweden Ring oss: 042 14 10 85 Maila oss: info@binarteknik.se",
+"url": "https://alltomteknikindustrin.se/foretag/foretag-b/binar-teknik-ab/",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-089，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Danbit A/S (Dansk Binær Teknik A/S)",
+"founded": "",
+"hq": "Køge（Værkstedsvej 39-41, 4600 Køge）；瑞典姊妹公司 Binär Teknik AB（Malmö）, 丹麦",
+"size": "",
+"other": "Planet 渠道档案 PB-089（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：是（自编货号 ESW- 等贴牌转售 PLANET 等工业交换机 / 串口服务器）；最大未知：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购"
+},
+"business_lines": [
+"工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "ESW8G-M-SFP2",
+"spec": "工业 8×GE PoE+ + 2×SFP 管理 DIN（8,770 SEK）→ Saga 同口型 $85.5 @30%（$78.9 @20%）",
+"saga": "STI-288GPM",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ESW8G-M-SFP2-PWM",
+"spec": "壁挂 LCD 触屏 PoE 管理款（4,462 SEK）→ Saga DIN 款对位，无 LCD 需说明",
+"saga": "STI-288GPM",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IFT-802T",
+"spec": "工业 FE 媒体转换器：Saga 价格表有工业 MC 系列（型号另议），本轮不作 P1",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "POE-171S",
+"spec": "PoE 分离器：Saga 无",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "TDS-712",
+"spec": "串口服务器：Saga 无",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "TDS-715",
+"spec": "串口服务器：Saga 无",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ICS-2105A",
+"spec": "光纤串口服务器：Saga 无",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IVS-H125P",
+"spec": "视频服务器（EOL 清仓）：Saga 无",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IVS-2120",
+"spec": "视频服务器（EOL）：Saga 无",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "CNV-SFP2.5G（PLANET 兼容）",
+"spec": "SFP 模块：Saga 不卖",
+"saga": "—",
+"url": "https://danbit.dk",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）",
+"region": "丹麦"
+},
+"signals": [
+"北欧工业 IT 分销商已习惯把 PLANET 工业交换机换成自编货号 ESW 系列卖（文案仍留 PLANET 字样）→ 正是 Saga「中性包装 / 贴牌 EXW」的理想买家：同口型 STI 工业 8×GE PoE+ + 2×SFP 管理（$85.5 @30% OEM 档）可直接接 ESW8G-M-SFP2 位，价差空间大（其售价 8,770 SEK ≈ $930）",
+"首触：工业 8×GE PoE+ + 2×SFP 管理 vs ESW8G-M-SFP2（8,770 SEK）；中性 / 贴牌 EXW",
+"样机：1 台到 Køge 比对（PoE 预算 240W / ERPS / Web UI / 贴标样）"
+],
+"risks": [
+"采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 30,
+"why": "其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转售 → OEM/ODM 口径 30%（沿用 Planet 档案 PB-089）；需求："
+},
+"email_hook": "You already sell PLANET industrial PoE managed switches under your own ESW item numbers — a Marvell-based 8×GE PoE+ + 2×SFP DIN unit shipped neutral or under your ESW code at EXW fits the same slot with room under your current SEK pricing. For your ESW8G-M-SFP2 slot, do customers mostly take the DIN-rail unit or the wall-mount LCD version — so I send the matching sample first?"
+}
 },
 {
 "name": "dipol.pt",
@@ -136477,7 +137798,204 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1207",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1207",
+"name_official": "ITM Components Ltd",
+"researched_at": "2026-10-21",
+"website_status": "在线（itm-components.co.uk；并档 Planet 渠道档案 PB-087）",
+"summary": "多塞特一家 Pro-AV / 连接件分销商，网络交换机货架基本是 PLANET（PoE 接入 + Long Reach PoE），服务 AV 集成商与机房项目。类型：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）。信号：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-2620HP、GSD-604HP；/collections/switches-matrix-switches 同列 PLANET 款；商品页 PT-LRP-101C-KIT / PT-LRP-822CS（SKU 前缀 PT- = Planet）。Planet 渠道档案 PB-087 评级 B（需求：Shopify 商城 switch 类目 9 款以上 PLANET 商品带英镑价（含 24 口 PoE 与 Long Reach PoE 系列）→ PLANET 为其网络类目主线；触达：sales@itm-components.co.uk + 电话 +44 1202 872771 公开，NTI 经销页给出具名 Neil Stratford / Philip Savill（无个人邮箱 → 不计具名 KP）；体量：Companies House 03129914，LinkedIn 11–50 人、营收约 £1–2M（Endole「Micro」）→ 可赢；Gmail：Elsa 账号 2025-03-30 → 2026-09-04 以 BCC 群发 11 封至 sales@itm-components.co.uk，0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1207，英国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "联系方式与法律实体",
+"quote": "ITM Components Ltd, 10 Whittle Road, Ferndown Industrial Estate, Wimborne, Dorset BH21 7RU … sales@itm-components.co.uk … +44 (0)1202 872771 … VAT GB777520602 … EORI GB777520602000 … Mon–Fri 09:00–16:30",
+"url": "https://itm-components.co.uk/pages/contact-us",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "switch 类目 PLANET 款带英镑价",
+"quote": "Planet Long Reach PoE Solution … LRP-1622CS £2,937.20 … FGSW-1822VHP £224.55 … FGSW-2622VHP £398.80 … FGSD-1022VHP £190.41 … GS-4210-16UP4C … GS-4210-24PL4C … GSW-2620HP … GSD-604HP",
+"url": "https://itm-components.co.uk/collections/switch",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "Pro-AV switch 类目同列 PLANET 款",
+"quote": "16-Port 10/100/1000Base-T Ultra PoE + 4-Port Gigabit TP/SFP Combo Managed Switch … Planet GS-4210-16UP4C … Planet's FGSW-1822VHP … 24-Port 10/100/1000T 802.3at PoE + 4-Port Gigabit TP/SFP Combo Managed Switch 440 Watt … GS-4210-24PL4C … Planet's GSW-2620HP … Planet's FGSW-2622VHP … Planet's GSD-604HP",
+"url": "https://itm-components.co.uk/collections/switches-matrix-switches",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET 商品页（SKU 前缀 PT-）",
+"quote": "8-Port Long Reach PoE over Coax Rack Mount Managed Switch … Planet LRP-822CS, a brand-new Multi-channel Long Reach PoE Switch",
+"url": "https://itm-components.co.uk/products/pt-lrp-822cs-8-port-long-reach-poe-over-coax-rack-mount-managed-switch",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "品牌分销身份",
+"quote": "ITM Components Ltd are distributors for L-Com, Network Technologies (NTI), Extron, Video Products Inc. (VPI), Gefen, Acces I/O, Aten, Smart AVI, Austin Hughes, EKS, Kramer, Hetec and Newnex.",
+"url": "https://itm-components.co.uk/pages/about-us",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（Companies House）",
+"claim": "注册号 / 地址",
+"quote": "ITM COMPONENTS LIMITED … Registered office address: 10 Whittle Road, Ferndown Industrial Estate, Wimborne, Dorset, BH21 7RU",
+"url": "https://find-and-update.company-information.service.gov.uk/company/03129914",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（LinkedIn 搜索快照）",
+"claim": "体量",
+"quote": "ITM Components Ltd … Company size: 11-50 employees … Headquarters: Wimborne, Dorset … Founded: 1991 … Specialties: Connectivity Components, Pro AV Solutions, KVM Solutions …",
+"url": "https://www.linkedin.com/company/itm-components-ltd",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（NTI 经销商页）",
+"claim": "具名联系人 / 电话",
+"quote": "ITM Components Ltd 10 Whittle Road Ferndown Industrial Estate Wimborne, Dorset, BH21 7RU UK Tel: +44 (0) 1202-872-771 … Contact: Neil Stratford or Philip Savill",
+"url": "https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU",
+"date": "2026-10-20"
+}
+],
+"kp": [
+{
+"name": "Neil Stratford / Philip Savill",
+"title": "NTI 经销联系人（职务未公开）；姓名来自 NTI 官网经销商页，无个人邮箱 → 电话指名",
+"email": "",
+"phone": "+44 (0)1202 872771",
+"source": "https://www.networktechinc.com/intl_form.html?varname=ITMCBH217RU"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-087，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "ITM Components Ltd",
+"founded": "",
+"hq": "Wimborne, Dorset（10 Whittle Road, Ferndown Industrial Estate, BH21 7RU）, 英国",
+"size": "",
+"other": "Planet 渠道档案 PB-087（2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json）；自有品牌：否；最大未知：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；交换机年量；是否要求 UKCA / 英式电源线"
+},
+"business_lines": [
+"连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GS-4210-16UP4C",
+"spec": "16×GE Ultra PoE + 4 combo 管理 → Saga 24×GE PoE+ + 4×SFP L2+（$134.5；口数多 8，Ultra PoE 60W 位需说明 Saga 为 802.3at 30W）",
+"saga": "STC-424DGGPM-280W",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-24PL4C",
+"spec": "24×GE PoE+ + 4 combo 440W 管理 → Saga 同口型 280W 档（另有 STC-424DGGPM-440W 档可按预算对位）",
+"saga": "STC-424DGGPM-280W",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSW-2620HP",
+"spec": "24×GE PoE+ + 2×SFP 非管理 → Saga 以 L2+ 管理款对位（非管理款 Saga 商用线无 24 口 PoE）",
+"saga": "STC-424DGGPM-280W",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FGSD-1022VHP",
+"spec": "8×FE PoE+ + 2 combo 桌面（£190.41）→ Saga 8×GE PoE+ + 2×SFP L2+ $80.7（千兆升级位）",
+"saga": "STC-28DGGPM",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FGSW-1822VHP",
+"spec": "16×FE PoE+ + 2 combo（£224.55）：Saga 商用线无 FE PoE 16 口，可用 STC-424DGGPM-280W 升级对位",
+"saga": "—",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FGSW-2622VHP",
+"spec": "24×FE PoE+ + 2 combo（£398.80）→ Saga 24×GE PoE+ 千兆升级位",
+"saga": "STC-424DGGPM-280W",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-604HP",
+"spec": "4×GE PoE+ + 2×GE 桌面非管理：Saga 商用线无 4 口 PoE（工业线 STI-054GP 可提）",
+"saga": "—",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "LRP-822CS",
+"spec": "Long Reach PoE over Coax 8 口（£2,937.20 为 16 口款）：Saga 无同轴 PoE 产品",
+"saga": "—",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "LRP-1622CS",
+"spec": "同上，Saga 无",
+"saga": "—",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "LRP-101C-KIT",
+"spec": "PoE over Coax 延长套件：Saga 无",
+"saga": "—",
+"url": "https://itm-components.co.uk",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）",
+"region": "英国"
+},
+"signals": [
+"Pro-AV / 连接件分销商的网络类目几乎全是 PLANET（PoE 接入 + Long Reach PoE），客群是 AV 集成商 / 会议室 / 机房监控项目 → Saga STC 接入层 PoE（24×GE PoE+ + 4×SFP、8×GE PoE+ + 2×SFP）中性包装 EXW 可作其 PLANET 位的第二来源；小公司（11–50 人）决策快",
+"首触：24×GE PoE+ + 4×SFP L2+ vs GS-4210-24PL4C / GSW-2620HP；第二来源 + 中性包装 EXW",
+"样机：1 台到 Wimborne 比对（PoE 预算 / Web UI / 英式电源线）"
+],
+"risks": [
+"Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；交换机年量；是否要求 UKCA / 英式电源线",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商 → 20%（沿用 Planet 档案 PB-087）；需求："
+},
+"email_hook": "Your switch shelf is PLANET GS-4210 / FGSD PoE units — a neutral-packed Marvell-based L2+ PoE line at EXW gives the same slots a second source without changing your AV-integrator pitch. Which PoE switch size moves most with your AV-integrator customers — the 24-port PoE+ rack unit (GS-4210-24PL4C class) or the 8-port desktop (FGSD-1022VHP class) — so I quote the right one first?"
+}
 },
 {
 "name": "ivolta.pl",
@@ -137534,7 +139052,136 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1214",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1214",
+"name_official": "LAN Számítástechnikai Szolgáltató Kft.",
+"researched_at": "2026-10-21",
+"website_status": "在线（lan.hu；并档 Planet 渠道档案 PB-093）",
+"summary": "布达佩斯的网络 / 布线 / 机柜分销商，有源类目以 PLANET 工业交换机为主并自编货号。类型：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号。信号：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货。Planet 渠道档案 PB-093 评级 B（需求：5 款 PLANET 工业交换机商品页带 HUF 净价 / 含税价 + 自编货号 + 实时库存口径 → 有源类目采购真实；触达：sales@lan.hu / titkar@lan.hu + +36 1 415 2300 公开（页脚 / FAQ），无公开具名 KP（Bcc 中 jhegedus@ / wbea@ 两个具名地址角色未公开 → 不作 KP）；体量：布达佩斯分销商（D&B 「pénzügyileg legstabilabb」认证 2026-07）→ 中型、可赢；Gmail：Elsa 账号 2025-02-18 → 2026-08-13 以 BCC 群发 13 封（含 jhegedus@ / wbea@），0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无公开具名 KP））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1214，匈牙利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"Digitus"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "法律实体 / 地址 / 公开邮箱 / 电话 / 服务口径",
+"quote": "LAN Számítástechnikai Szolgáltató Kft. … H-1155 Budapest Kolozsvár utca 7. … Telefon: +36 1 415 2300 … E-mail: sales@lan.hu, ha a vásárlás mellett a kivitelezés is érdekel: szolgaltatas@lan.hu … titkar@lan.hu … Valós idejű a készletinformáció? Igen",
+"url": "https://lan.hu/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "IGS-10020MT 商品页带价 / 自编货号",
+"quote": "Planet IP30 Industral Managed Ehternet Switch … 120.140 Ft + ÁFA ( 152.578 Ft ) … Cikkszám: LIGS-10020MT … 8 10/100/1000BASE-T RJ-45 … 2 100/1000/2500BASE-X mini-GBIC SFP ports",
+"url": "https://lan.hu/planet-ip30-industral-managed-ehternet-switch-4167",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "IGS-801T / ISW-801T 商品页带价",
+"quote": "Planet IGS-801T IP30 8-port Industrial Gigabit Ethernet Switch … 46.800 Ft + ÁFA ( 59.436 Ft ) ｜ Planet ISW-801T Fast Ethernet Switch … 36.015 Ft … Cikkszám: LISW-801T",
+"url": "https://lan.hu/planet-igs-801t-ip30-8-port-industrial-gigabit-ethernet-switch-2452",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "IGSW-24040T / IGS-1020TF 商品页带价",
+"quote": "Planet Industrial L2+ 20-Port 10/100/100 +4-Port TP/SFP Combo Managed Switch … 253.780 Ft + ÁFA ( 322.301 Ft ) … Cikkszám: LIGSW-24040T ｜ Planet Industrial 8-Port 10/100/1000T + 2-Port 100/1000X SFP Ethernet Switch … 102.019 Ft",
+"url": "https://lan.hu/planet-industrial-l2-20-port-10100100-4-port-tpsfp-combo-managed-switch-3647",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "体量 / 信用口径",
+"quote": "Tanúsítvány a pénzügyileg legstabilabb cégeknek … Dun & Bradstreet … Így került kiválasztásra cégünk, a Lan Számítástechnikai Szolgáltató Kft. is, mint a pénzügyileg legstabilabb cégek egyike.（2026. 07. 22.）",
+"url": "https://lan.hu/hirek_1/tanusitvany-a-penzugyileg-legstabilabb-cegeknek-222",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-093，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "LAN Számítástechnikai Szolgáltató Kft.",
+"founded": "",
+"hq": "Budapest（H-1155 Budapest, Kolozsvár utca 7）, 匈牙利",
+"size": "",
+"other": "Planet 渠道档案 PB-093（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（货号前缀 L 为自编码，非品牌）；最大未知：采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓"
+},
+"business_lines": [
+"网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-10020MT",
+"spec": "工业 8×GE + 2×SFP 管理 → Saga 同口型 $68.2 USD EXW",
+"saga": "STI-280GM",
+"url": "https://lan.hu",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-801T",
+"spec": "工业 8×GE 非管理 DIN → Saga 同口型 $31.4 USD EXW",
+"saga": "STI-080GE",
+"url": "https://lan.hu",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ISW-801T",
+"spec": "工业 8×FE 非管理 DIN → Saga 同口型 $24.4 USD EXW",
+"saga": "STI-080FE",
+"url": "https://lan.hu",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGSW-24040T",
+"spec": "工业 L2+ 20×GE + 4 Combo 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（口数 / 口型不同，需说明）",
+"saga": "STI-2160XGGM",
+"url": "https://lan.hu",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-1020TF",
+"spec": "工业 8×GE + 2×SFP 非管理 → Saga 同口型 $46.6 USD EXW",
+"saga": "STI-280GE",
+"url": "https://lan.hu",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号",
+"region": "匈牙利"
+},
+"signals": [
+"布达佩斯布线 / 机柜分销商的有源类目靠 PLANET 工业交换机，客户是布线施工商与中小 IT 集成商 → Saga STI 工业管理型同口型、中性包装 EXW，作其有源类目第二来源；匈牙利已有 5 户可互证渠道价位",
+"首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+"样机：1 台到 Budapest 并行比对（PoE 预算 / 管理功能 / 温度范围）"
+],
+"risks": [
+"采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-280GM",
+"tier": 20,
+"why": "其在售 IGS-10020MT（工业 8×GE + 2×SFP 管理，120 140 Ft 净价 ≈ 300 €）→ Saga STI-280GM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理），20% 档 $68.2 USD EXW；IGS-801T / ISW-801T 由 STI-080GE / STI-080FE 第二封对位；分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PB-093）；需求："
+},
+"email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?"
+}
 },
 {
 "name": "lichtleiterkabel.com",
@@ -138654,7 +140301,127 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1221",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1221",
+"name_official": "PHU Multiproject",
+"researched_at": "2026-10-21",
+"website_status": "在线（multiproject.com.pl；并档 Planet 渠道档案 PB-097）",
+"summary": "格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 zł netto（Numer katalogowy 17809）；GSW-4800 1 476,00 zł brutto / 1 200,00 zł netto「Chwilowo niedostępny」。Planet 渠道档案 PB-097 评级 B（需求：PLANET 工业 PoE IGS-624HPT 独立商品页带净价 / 含税价 + GSD-1002M / GSW-4800 → 有 PLANET 在售线，但三款中两款「Chwilowo niedostępny」且站点为含汽车 / 家用的全品类批发目录 → 需求真实性中等；触达：商品页侧栏具名 Damian Lis（+48 535 840 740，damian.lis@）/ Sławomir Janusch（slawek.janusch@）+ biuro@ 公开 → 具名邮箱可用且未被群发触达；体量：PHU（个体经营）区域批发 → 可赢但小。按 net-s.pl 口径全品类目录型本不建档，因具名 KP 邮箱公开而例外建 B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1221，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "IGS-624HPT 商品页：价 / 缺货 / 联系人侧栏 / NIP（2026-10-20 fetch_page，片段复述）",
+"quote": "Switch PoE przemysłowy IGS-624HPT 4xGE 4xPoE 2xSFP … Planet IGS-624HPT 4-portowy przemysłowy przełącznik Ethernet 10/100/1000T 802.3at PoE + 2 porty 100/1000X SFP … Cena brutto: 1 661,12 zł … Cena netto: 1 350,50 zł … Chwilowo niedostępny … Kontakt: Damian Lis 535 840 740 damian.lis@multiproject.com.pl … Sławomir Janusch slawek.janusch@multiproject.com.pl … biuro@multiproject.com.pl … NIP 5842509422",
+"url": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "GSD-1002M 商品页：类目路径 / 价",
+"quote": "Strona główna » Akcesoria sieciowe / informatyczne » Switche » Switch Planet GSD-1002M 8xGE 2xSFP … Numer katalogowy: 17809 Cena brutto: 479,92 zł Cena netto: 390,18 zł … Zarządzalny switch z 8 portami 10/100/1000 Mb/s + 2 portami 100/1000X SFP",
+"url": "https://www.multiproject.com.pl/switch-planet-gsd-1002m-8xge-2xsfp-p-16280.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "GSW-4800 商品页：价 / 缺货",
+"quote": "Switch Planet GSW-4800 48xGE … Numer katalogowy: 19118 Cena brutto: 1 476,00 zł Cena netto: 1 200,00 zł Chwilowo niedostępny Niezarządzalny przełącznik PLANET GSD-4800",
+"url": "https://www.multiproject.com.pl/switch-planet-gsw-4800-48xge-p-17435.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "同类目在售竞品（Pulsar PoE 交换机）→ 安防批发定位",
+"quote": "Switch PoE Pulsar SG108-B 10xGE 8xPoE zasil. bufor … ilość portów: 10 portów (8xPoE + 2xUPLINK) … IEEE 802.3af/at, 52VDC / 30W/port (PoE+)",
+"url": "https://www.multiproject.com.pl/switch-poe-pulsar-sg108-b-10xge-8xpoe-zasil-bufor-p-19286.html",
+"date": "2026-10-20"
+}
+],
+"kp": [
+{
+"name": "Damian Lis",
+"title": "联系人（商品页侧栏「Kontakt」具名，职务未注明）；公开（商品页侧栏，2026-10-20 fetch）；未被 Elsa 账号群发触达（Bcc 仅 biuro@）",
+"email": "damian.lis@multiproject.com.pl",
+"phone": "+48 535 840 740",
+"source": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html"
+},
+{
+"name": "Sławomir Janusch",
+"title": "联系人（商品页侧栏「Kontakt」具名，职务未注明）；公开（商品页侧栏，2026-10-20 fetch）；未被群发触达",
+"email": "slawek.janusch@multiproject.com.pl",
+"phone": "",
+"source": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "PHU Multiproject",
+"founded": "",
+"hq": "Gdańsk, 波兰",
+"size": "",
+"other": "Planet 渠道档案 PB-097（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档"
+},
+"business_lines": [
+"格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-624HPT",
+"spec": "工业 4×GE PoE+ + 2×SFP 非管理 DIN（1 350,50 zł 净价，缺货）→ Saga 同口型 $35.2 USD EXW",
+"saga": "STI-244GP",
+"url": "https://multiproject.com.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-1002M",
+"spec": "桌面 8×GE + 2×SFP 管理型（390,18 zł 净价）→ Saga 8×GE PoE + 2×SFP 管理型 $80.7 USD EXW（非 PoE 款 STC-28DGGM 暂停，沿用 PoE 款，注明）",
+"saga": "STC-28DGGPM",
+"url": "https://multiproject.com.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSW-4800",
+"spec": "机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $236.8 USD EXW（管理型对非管理，规格高一级，注明）",
+"saga": "STC-448DGGM",
+"url": "https://multiproject.com.pl",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）",
+"region": "波兰"
+},
+"signals": [
+"安防批发商的工业 PoE 位由 PLANET IGS-624HPT 占着但缺货 → Saga STI-244GP 同口型（4×GE PoE + 2×SFP）、Marvell 方案、中性包装 EXW，正好补其「Chwilowo niedostępny」的窗口；商品页侧栏公开两位具名联系人邮箱且未被群发打过",
+"首触（第一封具名信）：补其缺货位 + 同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+"样机：1 台到 Gdańsk 并行比对（PoE 预算 / 温度范围 / 外观中性）"
+],
+"risks": [
+"PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-244GP",
+"tier": 20,
+"why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求："
+},
+"email_hook": "Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a Marvell-based, neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?"
+}
 },
 {
 "name": "neteon.net",
@@ -141949,7 +143716,169 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1246",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1246",
+"name_official": "Solimedia Technology Inc",
+"researched_at": "2026-10-21",
+"website_status": "在线（solimedia.net；并档 Planet 渠道档案 PB-078）",
+"summary": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204.08 CAD Out of stock（2025-10）、GSW-1601 / GSW-2401 / GS-4210-8P2S；但 /brand/planet/ 与工业类目 404，/product/gsd-1603/ 与 48 口管理款商品页 301 → Grandstream GWN7802P-Pro / GWN7806P → PLANET 线正被 Grandstream 替换。Planet 渠道档案 PB-078 评级 B（需求：PLANET 工业款缺货 + 工业类目下线、商用款已被 Grandstream 替换 → 工业 DIN 槽位真实空缺，但 PLANET 退出也说明其对该副线投入收缩；触达：sales@solimedia.net + 两部电话公开（Contact 页），无具名 KP；体量：温哥华单店分销，可赢；Gmail：Elsa 账号 2025-04-05 → 2026-09-08 已向 sales@solimedia.net 群发 10 封、0 回复 → 非首触、通用群发通道已疲劳；Mikrotik 仓 A-448 人工定级 A（R53 升级）→ 并档、首触以 Mikrotik 仓库为准；本仓 B ★（PLANET 退出 + 群发 10 封无回应））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1246，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"MikroTik",
+"Grandstream",
+"Optcore"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "PLANET GSW-1600HP 在库、归入清仓类目",
+"quote": "16-Port 1G 802.3at PoE+ Ethernet Switch $286.62CAD + same day shipping … PLANET GSW-1600HP … Availability: In stock … SKU: GSW-1600HP Category: Deals & Bargains",
+"url": "https://solimedia.net/product/gsw-1600hp/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "同页关联商品 PLANET GSD-504 带价",
+"quote": "Planet GSD-504 … 5-Port Gigabit Ethernet Switch $28.95CAD",
+"url": "https://solimedia.net/product/gsw-1600hp/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "联系方式与地址",
+"quote": "+1 604 336 7000 / +1 604 568 9797 … sales@solimedia.net … support@solimedia.net … 329-470 Granville Street, Vancouver BC V6C1V5",
+"url": "https://solimedia.net/contact/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET 工业款 IGS-801M 缺货",
+"quote": "8 Port Gig Managed Industrial Switch … PLANET IGS-801M … $204.08CAD … Out of stock",
+"url": "https://solimedia.net/product/8-port-gig-managed-industrial-switch/",
+"date": "2026-10-20（搜索快照 pageAge 2025-10-27）"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "PLANET GS-4210-48T4S 曾带价在售；2026-10-20 直接访问该 URL 已 301 → /product/gwn7806p/（Grandstream）",
+"quote": "48-Port 1G Base-T + 4 Port 1G Base-X SFP Managed Switch … GS-4210-48T4S … CAD$593.14",
+"url": "https://solimedia.net/product/48-port-1g-base-t-4-port-1g-base-x-sfp-managed-switch/",
+"date": "2026-10-20（搜索快照 pageAge 2025-04-09）"
+},
+{
+"kind": "官网",
+"claim": "PLANET 品牌页已下线（工业类目 /product-category/data-switch/planet_industrial_switch/ 同为 404；/product/gsd-1603/ 301 → /product/gwn7802p-pro/）",
+"quote": "404 Not Found",
+"url": "https://solimedia.net/brand/planet/",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Solimedia Technology Inc",
+"founded": "",
+"hq": "Vancouver, BC（329-470 Granville Street, V6C 1V5）, 加拿大",
+"size": "",
+"other": "Planet 渠道档案 PB-078（2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json）；自有品牌：否；最大未知：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）"
+},
+"business_lines": [
+"分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GSW-1600HP",
+"spec": "16×GE 802.3at PoE+ 非管理清仓款（$286.62 CAD）；Saga 商用线无 16 口 PoE，以 24×GE PoE+ 280W L2+（$134.5 EXW）向上对位，需说明",
+"saga": "STC-424DGGPM-280W",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-504",
+"spec": "5×GE 桌面非管理：Saga 商用线无非管理型号，不硬凑",
+"saga": "—",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-1603",
+"spec": "16×GE 桌面非管理（商品页已 301 → Grandstream GWN7802P-Pro）：不硬凑",
+"saga": "—",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-48T4S",
+"spec": "48×GE + 4×SFP L2+ 管理（CAD$593.14 快照；商品页已 301 → GWN7806P）vs Saga $236.8 EXW",
+"saga": "STC-448DGGM",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-801M",
+"spec": "工业 8×GE 管理 DIN（CAD$204.08 Out of stock）→ Saga 8×GE + 2×SFP 管理 $68.2 EXW",
+"saga": "STI-280GM",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSW-1601",
+"spec": "16×GE 非管理：不硬凑",
+"saga": "—",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSW-2401",
+"spec": "24×GE 非管理：不硬凑",
+"saga": "—",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-8P2S",
+"spec": "8×GE PoE+ + 2×SFP 管理（2022 快照）→ Saga $80.7 EXW",
+"saga": "STC-28DGGPM",
+"url": "https://solimedia.net",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）",
+"region": "加拿大"
+},
+"signals": [
+"PLANET 退出中：商用款换成 Grandstream GWN，但 Grandstream 无工业 DIN 线，而其 PLANET 工业款 IGS-801M 已 Out of stock、工业类目下线 → 工业 DIN（管理 / PoE）出现空位；Saga STI 线以中性包装 EXW 补这个空位，不与 MikroTik / Grandstream 正面竞争",
+"PLANET 侧预案（并档，不从本仓发）：PLANET 清仓 / IGS-801M 缺货 / Grandstream 无工业线 → 工业 DIN 空位；EXW 中性包装",
+"样机：1 台到温哥华比对"
+],
+"risks": [
+"PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需求："
+},
+"email_hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?"
+}
 },
 {
 "name": "spesaelettrica.it",
@@ -144119,7 +146048,81 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1260",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1260",
+"name_official": "TRIOTRONIK Computerhandels GmbH",
+"researched_at": "2026-10-21",
+"website_status": "在线（triotronik.com；并档 Planet 渠道档案 PB-038）",
+"summary": "施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1260，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"MikroTik"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 专页",
+"quote": "TRIOTRONIK - PLANET online kaufen … Wer ist PLANET? … PLANET liefert preisgekrönte, energiesparende und leistungsstarke Netzwerkprodukte und -lösungen in 10 Hauptkategorien … LAN Switches, Industrial Ethernet, Power over Ethernet",
+"url": "https://www.triotronik.com/de/Ueber-uns/Planet---4.8.html",
+"date": "2026-10-19"
+},
+{
+"kind": "Mikrotik 仓库",
+"claim": "A-469 同户（人工 A）",
+"quote": "A-469 TRIOTRONIK 奥地利 分销（MikroTik 官方）… +43 3172 42299 0 / mikrotik@triotronik.com … «der Netzwerkdistributor»",
+"url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+"date": "2026-10-19"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-038，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "TRIOTRONIK Computerhandels GmbH",
+"founded": "",
+"hq": "Weiz, 奥地利",
+"size": "",
+"other": "Planet 渠道档案 PB-038（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）"
+},
+"business_lines": [
+"分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GS-4210-24P4C",
+"spec": "24×GE PoE+ + 4 Combo",
+"saga": "STC-424DGGPM-280W",
+"url": "https://triotronik.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）",
+"region": "奥地利"
+},
+"signals": [
+"奥地利唯一命中的专业网络分销（此前 AT 检索仅电商）；Mikrotik 仓库 A-469（人工 A）同户——本仓并档只补 PLANET 侧证据"
+],
+"risks": [
+"Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求："
+},
+"email_hook": "PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?"
+}
 },
 {
 "name": "unifibre.it",
@@ -144220,7 +146223,175 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1261",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1261",
+"name_official": "Unifibre Srl（Optoplast Srl 承接业务）",
+"researched_at": "2026-10-21",
+"website_status": "在线（unifibre.it；并档 Planet 渠道档案 PB-092）",
+"summary": "米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET。类型：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌。信号：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16P2T2S 1 155 €、IGS-624HPT 558 €、IGS-1020PTF 569 €（均「Su ordinazione」）；serie civile：GS-4210-24T4S 379 €、8P+2SFP managed 325 €、24-port PoE 300 W 433 €。Planet 渠道档案 PB-092 评级 B（需求：「Switch Industriali」类目 10 款全为 PLANET 带欧元价 + 商用类目 3 款 → 有源类目采购真实且只此一家品牌；触达：uniteam@optoplast.org / uniteam@unifibre.it + +39 02 3355501 公开（/contattaci），无具名 KP；体量：30 余年光纤 VAD，被 Optoplast 收购业务 → 中型、可赢但整合期不确定；Gmail：Elsa 账号 2025-04-01 → 2026-08-31 以 BCC 群发 9 封至 uniteam@unifibre.it，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无具名 KP + 整合期））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1261，意大利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "工业交换机类目 10 款 PLANET 带价",
+"quote": "# Switch Industriali … ISW-621T 134,00 € … ISW-621TS15 231,00 € … IGS-1020TF 349,00 € … IGS-1820TF 566,00 € … IGS-42154T2S 366,00 € … IGS-12040MT 867,00 € … IGS42158P2T2S 766,00 € … IGS421516P2T2S 1.155,00 € … IGS-624HPT 558,00 € … IGS-1020PTF 569,00 € … Visualizzati 1-10 su 10 articoli … Su ordinazione",
+"url": "https://www.unifibre.it/32-switch-industriali",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "法律实体 / 地址 / 联系方式",
+"quote": "Unifibre srl Via Luigi Galvani, 36 - 20019 - Settimo Milanese (MI) Italy +39 02 3355501 uniteam@unifibre.it … UNIFIBRE s.r.l. – P.IVA 07122930154",
+"url": "https://www.unifibre.it/contattaci",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "Optoplast 收购 Unifibre 业务 + 新联系地址",
+"quote": "Con l'acquisizione da parte di Optoplast del ramo d'azienda di Unifibre, nasce una collaborazione … OPTOPLAST Srl Via Onorato Vigliani, 143/B 10127 – Torino Magazzino Via Luigi Galvani, 36 20019 – Settimo Milanese uniteam@optoplast.org +39 02 3355501",
+"url": "https://www.unifibre.it/switch-serie-civile/203-switch-managed-gigabit-poe-8-porte-101001000-mbps-2-porte-fibra-sfp.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "公司定位",
+"quote": "Unifibre è un Distributore a Valore Aggiunto che da oltre 30 anni ricerca, seleziona e commercializza i migliori prodotti nel settore delle fibre ottiche per trasmissione dati e telecomunicazioni.",
+"url": "https://www.unifibre.it/",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "商用类目 PLANET 带价",
+"quote": "GS-4210-24T4S 379 € ｜ Switch managed Gigabit PoE 8 porte + 2 porte SFP 325 € ｜ 24-port PoE 300 W 433 €",
+"url": "https://www.unifibre.it/33-switch-serie-civile",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-092，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Unifibre Srl（Optoplast Srl 承接业务）",
+"founded": "",
+"hq": "Settimo Milanese (MI)（Via Luigi Galvani 36；Optoplast 总部 Torino）, 意大利",
+"size": "",
+"other": "Planet 渠道档案 PB-092（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档"
+},
+"business_lines": [
+"光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-4215-8P2T2S",
+"spec": "工业 8×GE PoE+ + 2×SFP + 2×GE 管理 → Saga 8×GE PoE+ + 2×SFP 管理 $78.9 USD EXW",
+"saga": "STI-288GPM",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-624HPT",
+"spec": "工业 4×GE PoE+ + 2×SFP 非管理 → Saga 同口型（4×GE PoE + 2×SFP）$35.2 USD EXW",
+"saga": "STI-244GP",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-4215-16P2T2S",
+"spec": "工业 16×GE PoE+ + 2×SFP + 2×GE 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（非 PoE，PoE 款另报）",
+"saga": "STI-2160XGGM",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-4215-4T2S",
+"spec": "工业 4×GE + 2×SFP 管理 → Saga 最近为 STI-240GE 非管理 $28.0 USD EXW（非对等，不进首触）",
+"saga": "STI-240GE",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-12040MT",
+"spec": "工业 8×GE + 4×SFP 管理 → Saga 8×GE + 2×SFP 管理 $68.2 USD EXW（SFP 口数不同）",
+"saga": "STI-280GM",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-1020TF",
+"spec": "工业 8×GE + 2×SFP 非管理 → Saga 同口型 $46.6 USD EXW",
+"saga": "STI-280GE",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-1820TF",
+"spec": "工业 16×GE + 2×SFP 非管理：Saga 16 口位为管理型（非对等，不报）",
+"saga": "—",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-1020PTF",
+"spec": "工业 8×GE PoE + 2×SFP 非管理 → Saga 同口型 $57.4 USD EXW",
+"saga": "STI-288GP",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ISW-621T",
+"spec": "工业 4×FE + 2×SC 光口固定：Saga 无固定光口款",
+"saga": "—",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-24T4S",
+"spec": "商用 24×GE + 4×SFP L2+ → Saga 同口型 $82.5 USD EXW",
+"saga": "STC-424DGGM",
+"url": "https://unifibre.it",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌",
+"region": "意大利"
+},
+"signals": [
+"光纤分销商的有源类目整条压在 PLANET 上（工业 10 款 + 商用），客户为光纤施工 / 楼宇集成商 → Saga STI / STC 同口型、Marvell 方案、中性包装 EXW，作其有源类目第二来源；Optoplast 接手后正在整合供应链，是切入时点",
+"首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+"样机：1 台到 Settimo Milanese 并行比对（PoE 预算 / 管理功能 / 温度范围）"
+],
+"risks": [
+"Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿用 Planet 档案 PB-092）；需求："
+},
+"email_hook": "Your Switch Industriali range is PLANET end-to-end (IGS-4215-8P2T2S at €766) — a Marvell-based, neutral-packed STI line at EXW gives the same slots a second source while you consolidate suppliers under Optoplast. In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?"
+}
 },
 {
 "name": "ute.de",
@@ -144356,7 +146527,172 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1262",
-"grade": "B"
+"grade": "A",
+"research": {
+"code": "SB-1262",
+"name_official": "U.T.E. Electronic GmbH & Co. KG",
+"researched_at": "2026-10-21",
+"website_status": "在线（ute.de；并档 Planet 渠道档案 PA-017）",
+"summary": "Witten 的家族式 Pro-AV / IT / USV B2B 分销商，PLANET 是其工业以太网类目主力品牌，业主兼总经理邮箱公开。类型：Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款。信号：ute.de/produkte/marke/planet：PLANET 品牌页（分页 1/2，results 25-48）；商品页 ISW-504PS 5-Port PoE Switch 178,50 € netto（nicht lagernd，2 Wochen）、ISW-501T 57,40 €（Lagernd 1–2 Werktage）、IGS-501T 94,50 €、IGS-801T Brutto 129 €、IGS-1600T、WGS-804HP；/produkte/automatisierung/industrial-ethernet/hersteller/planet 子类目；同页并列 Delta / Eaton USV 授权分销。Planet 渠道档案 PA-017 评级 A（需求：PLANET 独立品牌页两页约 48 款 + 工业以太网子类目以 PLANET 为主 + 商品页带净价 / 库存状态（ISW-501T Lagernd）→ 工业交换机采购真实、持续；触达：业主兼总经理 Volker Pompetzki（Geschäftsführer / Inhaber）volker.pompetzki@ute.de + 电话 02302 / 28283-18 在 2026-05 / 2026-09 新闻稿与 /ansprechpartner 页公开 → 具名决策人直达；体量：家族式 B2B 分销（约 8 人，RocketReach；1989 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封（含 volker.pompetzki@ / nils.linnemann@ / info@），0 回复 → 非首触、通道疲劳，需换具名 + 电话入口；Mikrotik 仓无此户 → A）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1262，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "PLANET 品牌页 + 法律实体 / 地址 / B2B 口径",
+"quote": "U.T.E. electronic | Pro AV & IT-Großhandel mit großem Lager PLANET … # PLANET … Seite 1 von 2 … U.T.E. Electronic GmbH & Co. KG, Friedrich-Ebert-Str. 86, 58454 Witten, oder durch eine E-Mail an info@ute.de … Unser Angebot gilt ausschließlich für gewerbliche Kunden, Behörden sowie Fachhändler und Systemhäuser. Kein Verkauf an Endkunden.",
+"url": "https://www.ute.de/produkte/marke/planet",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "ISW-504PS 商品页带净价 / 交期",
+"quote": "5-Port PoE Switch ISW-504PS von PLANET … 178,50 € netto … nicht lagernd, ca. 2 Wochen",
+"url": "https://www.ute.de/produkte/automatisierung/5-port-poe-switch-isw-504ps-von-planet.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "ISW-501T 商品页（库存款）",
+"quote": "ISW-501T 5-Port Fast Ethernet Switch … 57,40 € … Lagernd, 1–2 Werktage",
+"url": "https://www.ute.de/produkte/automatisierung/isw-501t-5-port-fast-ethernet-switch.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "IGS-501T / IGS-801T 商品页",
+"quote": "IGS-501T … 94,50 € ｜ IGS-801T … Brutto 129 €",
+"url": "https://www.ute.de/produkte/automatisierung/industrial-ethernet/igs-501t.html",
+"date": "2026-10-20"
+},
+{
+"kind": "官网（搜索快照）",
+"claim": "具名负责人与角色",
+"quote": "Ihre Ansprechpartner bei U.T.E. … Nils Linnemann - Marketing · Tel.: 02302 / 28283-16 … Volker Pompetzki - Geschäftsführer · Tel.: 02302 / 28283-18",
+"url": "https://www.ute.de/ansprechpartner",
+"date": "2026-10-20"
+},
+{
+"kind": "新闻稿（第三方站）",
+"claim": "总经理公开邮箱",
+"quote": "Volker Pompetzki GF/Marketing Telefon: +49 (0)2302 28283-18 … E-Mail: volker.pompetzki@ute.de",
+"url": "https://www.pressecontrol.de/2026/09/28/u-t-e-electronic-prsentiert-die-neue-modulare-videomatrix-x4-maximale-flexibilitt-fr-professionelle-av-installationen/",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方名录",
+"claim": "体量 / 销售负责人姓名",
+"quote": "Geschäftsführung: Herr Volker Pompetzki · Marketingleitung: Herr Nils Linnemann · Verkaufsleitung: Herr Uwe Elgert, Herr Christian Kruppke, Herr Vladimir Spektor, Herr Christian Tugend",
+"url": "https://www.wlw.de/de/firma/ute-electronic-gmbh-co-kg-550972?q=Glasfaserkabel",
+"date": "2026-10-20"
+}
+],
+"kp": [
+{
+"name": "Volker Pompetzki",
+"title": "Geschäftsführer / Inhaber（GF / Marketing）；公开（2026-05-11 / 2026-09-28 新闻稿署名联系人；/ansprechpartner 页列 Geschäftsführer）；Elsa 账号已 BCC 群发 9 封无回复 → 改具名 + 电话",
+"email": "volker.pompetzki@ute.de",
+"phone": "+49 2302 28283-18",
+"source": "https://www.pressecontrol.de/2026/09/28/u-t-e-electronic-prsentiert-die-neue-modulare-videomatrix-x4-maximale-flexibilitt-fr-professionelle-av-installationen/"
+},
+{
+"name": "Nils Linnemann",
+"title": "Marketing（非采购；仅作线索）；公开姓名 / 电话（/ansprechpartner）；邮箱 JS 保护未抄录 → 不写",
+"email": "",
+"phone": "+49 2302 28283-16",
+"source": "https://www.ute.de/ansprechpartner"
+}
+],
+"grade_override": "A",
+"override_reason": "Planet 渠道档案 PA-017 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PA-017，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "U.T.E. Electronic GmbH & Co. KG",
+"founded": "",
+"hq": "Witten（Friedrich-Ebert-Str. 86, 58454 Witten, NRW）, 德国",
+"size": "",
+"other": "Planet 渠道档案 PA-017（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（有自有 U.T.E. ATS 系列转换开关，交换机无自有品牌）；最大未知：PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人）"
+},
+"business_lines": [
+"Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "ISW-504PS",
+"spec": "工业 4×FE PoE + 1×FE 非管理 DIN → Saga 同口型 $29.1 USD EXW",
+"saga": "STI-054FP",
+"url": "https://ute.de",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ISW-501T",
+"spec": "工业 5×FE 非管理 DIN（其库存款）→ Saga 同口型 $15.2 USD EXW（-M 档；-E 宽压档另报）",
+"saga": "STI-050FE",
+"url": "https://ute.de",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-501T",
+"spec": "工业 5×GE 非管理 DIN → Saga 同口型 $17.0 USD EXW（-M 档）",
+"saga": "STI-050GE",
+"url": "https://ute.de",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-801T",
+"spec": "工业 8×GE 非管理 DIN → Saga 同口型 $31.4 USD EXW",
+"saga": "STI-080GE",
+"url": "https://ute.de",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-1600T",
+"spec": "工业 16×GE 非管理 DIN：Saga 16 口位为管理型 STI-2160XGGM（非对等，不报）",
+"saga": "—",
+"url": "https://ute.de",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WGS-804HP",
+"spec": "壁挂 8×GE PoE+ 非管理 → Saga 8×GE PoE+ + 2×SFP 非管理 $57.4 USD EXW",
+"saga": "STI-288GP",
+"url": "https://ute.de",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款",
+"region": "德国"
+},
+"signals": [
+"工业 DIN 导轨交换机是其自动化 / 配电柜类目的刚需品，PLANET 占主位但价位高（ISW-504PS 178,50 € 净价 4×FE PoE）→ Saga STI 工业系列同口型、Marvell 方案、中性包装 EXW，给其一个可自定毛利的第二来源；业主兼总经理具名邮箱公开，可直达决策人",
+"首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+"样机：1 台到 Witten 并行比对（PoE 预算 / 管理功能 / 温度范围）"
+],
+"risks": [
+"PLANET 线年量与库存深度；是否要求德文文档 / 德国仓交付；8 人团队中谁负责工业以太网采购（总经理 vs 销售负责人）",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STI-054FP",
+"tier": 20,
+"why": "其在售 ISW-504PS（工业 4×FE PoE + 1×FE 非管理 DIN，178,50 € 净价）→ Saga STI-054FP 同口型，20% 档 $29.1 USD EXW，价差最直观；其库存款 ISW-501T 由 STI-050FE 第二封对位；B2B 分销商（走量、自定毛利）→ 20%（沿用 Planet 档案 PA-017）；需求："
+},
+"email_hook": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a Marvell-based, neutral-packed STI line at EXW gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?"
+}
 },
 {
 "name": "vadatech.com",
@@ -165795,7 +168131,107 @@
 "c_sub": "",
 "status": "已推送 12 次·未回复",
 "code": "SB-183",
-"grade": "B"
+"grade": "A",
+"research": {
+"code": "SB-183",
+"name_official": "Kyma Srl",
+"researched_at": "2026-10-21",
+"website_status": "在线（kyma.it；并档 Planet 渠道档案 PA-006）",
+"summary": "雷焦艾米利亚的三人家族进口商，30 年卖 PLANET、近年加卖中国 3onedata，业主自己回邮件。类型：分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）。信号：官网自述 1994 年起进口分销 PLANET；同时代理中国品牌 3onedata（已直接从中国进口工业交换机）。Planet 渠道档案 PA-006 评级 A（需求面：PLANET 进口分销 30 年 + 已进口中国品牌；触达：info@kyma.it 直达业主（3 人公司，业主具名）；体量 €3.52M 营收（2024）可赢；区域意大利（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-183，意大利，Saga 群发已推送 12 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"3onedata"
+],
+"evidence": [
+{
+"kind": "公司自述",
+"claim": "1994 年起进口分销 PLANET 与 3onedata",
+"quote": "importatore e distributore … PLANET … 3onedata（检索摘要，原文待 fetch 核对）",
+"url": "https://www.kyma.it/",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "员工 3 人，2024 营收 €3.52M，家族经营（Zisios）",
+"quote": "ufficiocamerale 摘要：3 dipendenti；fatturato 2024 €3,52M（检索摘要）",
+"url": "https://www.ufficiocamerale.it/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "联系方式",
+"quote": "info@kyma.it · +39 0522 232208 · Via Masaccio 6 / Via Zacchetti 31, 42124 Reggio Emilia",
+"url": "https://www.kyma.it/contatti-2/",
+"date": "2026-10-19"
+}
+],
+"kp": [
+{
+"name": "Davide Zisios",
+"title": "Titolare（业主，家族企业）；具名（官网/工商摘要）；邮箱为公司通用 info@（3 人公司）",
+"email": "info@kyma.it",
+"phone": "+39 0522 232208",
+"source": "https://www.kyma.it/contatti-2/"
+}
+],
+"grade_override": "A",
+"override_reason": "Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Kyma Srl",
+"founded": "",
+"hq": "Reggio Emilia, 意大利",
+"size": "",
+"other": "Planet 渠道档案 PA-006（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：3onedata 是否独家/排他；年进口台数"
+},
+"business_lines": [
+"分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-4215-8P2T2S",
+"spec": "工业 8 口 PoE + 2 SFP",
+"saga": "STI-288DGGPM",
+"url": "https://kyma.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-24P4C",
+"spec": "24 口 PoE 商用",
+"saga": "STC-424DGGPM-280W",
+"url": "https://kyma.it",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）",
+"region": "意大利"
+},
+"signals": [
+"已习惯从中国直接进口（3onedata）；3 人公司 info@ 直达业主 Davide/Mara Zisios；PLANET 在其线上是高价档",
+"第二货源对位：与 3onedata 同价位带但 Marvell 芯片 + ERPS<20ms；直采流程他们已熟",
+"样机到 Reggio Emilia：30 天并行测试，不要求承诺；兼容其在用 SFP"
+],
+"risks": [
+"3onedata 是否独家/排他；年进口台数",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 12 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "其 3onedata/PLANET 双线均以工业 DIN 交换机为主，8×GE PoE + 2 SFP 是入门走量款；分销走量 → 20%（沿用 Planet 档案 PA-006）；需求：工业 DIN PoE、ERPS、宽温；商用 24 口 PoE"
+},
+"email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?"
+}
 },
 {
 "name": "nellyssecurity.com",
@@ -174370,7 +176806,173 @@
 "c_sub": "",
 "status": "已推送 2 次·未回复",
 "code": "SB-223",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-223",
+"name_official": "GelecekBT Bilgi Teknolojileri",
+"researched_at": "2026-10-21",
+"website_status": "在线（gelecekbt.com；并档 Planet 渠道档案 PB-054）",
+"summary": "伊斯坦布尔 Perpa 商贸中心的小型网络/工业通信分销商，卖 PLANET 工业件，同时独家分销本地品牌 CLR Networks。类型：分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）。信号：gelecekbt.com/planet 品牌页在售：ELA-100、WGR-500、FSD-805S15、BSP-300、BSP-360、POE-TESTER、IGS-5227-4MP2MT、MC-1500R、AIS-1000、FTP-802、GPL-GSFP-C+、GT-802S、XT-705A、POE-163（多数「İletişime Geçiniz」询价制）。Planet 渠道档案 PB-054 评级 B（需求：PLANET 品牌页 14+ 款在售 + 主业工业/PoE 交换机 + 本地品牌独家分销；触达：satis@gelecekbt.com（官网页脚公开）、bayi@gelecekbt.com（Perpa 商贸中心名录 / list.istanbul 名录，待核）；体量小（2–10 人），决策链短；土耳其在区域内（T05）→ B。贸易条款按 Q-07 默认 USD EXW）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-223，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 品牌页与在售型号",
+"quote": "Planet … [ELA-100 @ Ethernet Hattı Yıldırım Koruyucu] … [Endüstriyel Router 5 Port Gigabit Duvara Monte Edilebilir @ WGR-500] İletişime Geçiniz … [Ethernet Switch 8 Port 100M RJ45 + 1 Port 100M SC SM @ FSD-805S15] … [Güneş Enerjisi Beslemeli Endüstriyel POE Switch BSP-360] … [M12 Endüstriyel PoE Switch 4 Port M12 POE + 2 Port M12 IP67 @ IGS-5227-4MP2MT] … [MC-1500R @ Media Converter Rack 19\" 15 Slot Dual AC Power] … [Planet AIS-1000 …] … [Planet FTP-802 / FTP-802S15 PoE Fiber Media Converter]",
+"url": "https://gelecekbt.com/planet",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "主业与品牌代理、法人",
+"quote": "fiber optik altyapı, yapısal kablolama, endüstriyel switch ve PoE çözümleri … Ethernet Ağ Anahtarları ve SFP modüller, Endüstriyel Haberleşme ürünleri … CCTV Güvenlik sistemleri … Firmamız … CLR Networks’ün Türkiye tek yetkili dağıtıcısıdır. Gelecekbt.com Gelecek Yönetim Merkezi Egt. Dan. Ve Teknoloji Hiz. İth. İhr. San. Tic. Ltd. Şti firmamıza aittir. … Perpa Ticaret Merkezi A Blok Kat:13 No:1990 Şişli İstanbul - satis@gelecekbt.com - 0212 912 43 49",
+"url": "https://gelecekbt.com/hakkimizda",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方名录",
+"claim": "经销商渠道邮箱与代理品牌",
+"quote": "Gelecekbt, Bilgi teknolojilerinde hizmet vermektedir. CLR Networks, ONET , Telkolink , Netkablo gibi markaların türkiye dağıtıcısıdır. GelecekBT- Ethernet Switch, CCTV Güvenlik, Hdmi Ses ve görüntü aktarımı, Endüstriyel Seri haberleşme … E-Posta · : bayi@gelecekbt.com",
+"url": "https://www.perpa.com.tr/company/view/6525/gelecekbt-bilgi-teknolojileri",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方名录",
+"claim": "成立年份与体量",
+"quote": "Gelecek BT Bilgi Teknolojileri … Şirket büyüklüğü: 2-10 çalışan … Genel Merkez: Sisli, Istanbul … Kuruluş: 2004",
+"url": "https://tr.linkedin.com/company/gelecekbt",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方名录",
+"claim": "类型自述「Distribütör」、关键词 POE Switch",
+"quote": "GelecekBT Bilgi Teknolojileri … Tür: Distribütör … Kuruluş yılı: 2004 … Anahtar: POE Switch, fiber optik, SFP Modül … bayi@gelecekbt.com",
+"url": "https://list.istanbul/tr/company-list/gelecekbt-bilgi-teknolojileri",
+"date": "2026-10-20"
+},
+{
+"kind": "卖方目录",
+"claim": "【W10 补证】工业 PoE 类目品牌计数：CLR Networks 为主力、PLANET 为补充",
+"quote": "Endüstriyel POE Switch Tip Dayanıklı 4-8-16-24Port … Markalar - 3Onedata (3) - Advantech (1) - Allied Telesis (1) - CLR Networks (44) - HP (1) - Microsens (1) - Moxa (1) - ONET Cabling Solutions (1) - Planet (3)",
+"url": "https://gelecekbt.com/endustriyel-poe-switch",
+"date": "2026-10-20"
+},
+{
+"kind": "卖方目录",
+"claim": "【W10 补证】CLR-IES-G824P 标 EoL（切入口）",
+"quote": "Endüstriyel PoE Switch 10 Port RJ45 (8 POE) + 4 SFP Yönetilebilir @ CLR-IES-G824P … CLR Networks · Ürün Kodu: CLR-IES-G824P · Stok Durumu: EoL",
+"url": "https://gelecekbt.com/CLR-IES-G824P",
+"date": "2026-10-20"
+},
+{
+"kind": "第三方（品牌站）",
+"claim": "【W10 补证】CLR Networks 有独立品牌站（无公司信息）",
+"quote": "CLR Networks 8 ports RJ45 10/100/1000M PoE and 2 SFP (1G) slots Fiber Optic Industrial Ethernet Switch Home > Products > Industrial POE Products > CLR-IES-G82P",
+"url": "http://www.clrnetworks.com/products/CLR-IES-G82P_main.html",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-054，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "GelecekBT Bilgi Teknolojileri",
+"founded": "",
+"hq": "Istanbul（Şişli，Perpa Ticaret Merkezi）, 土耳其",
+"size": "",
+"other": "Planet 渠道档案 PB-054（2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json）；自有品牌：疑似（待首触核实）：独家分销的 CLR Networks 为其工业 PoE 类目主力（品牌计数 CLR Networks 44 / Planet 3 / 3Onedata 3），有独立品牌站 clrnetworks.com（英文、无公司信息），型号命名（CLR-IES-G82P / G824P / 4361P / M12S-5008P）为中国 ODM 通用命名 → 大概率为其自控贴牌线；最大未知：CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效"
+},
+"business_lines": [
+"分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-5227-4MP2MT",
+"spec": "M12/IP67 工业 PoE，Saga 暂无对应型号（不推）",
+"saga": "—",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "BSP-300",
+"spec": "太阳能工业 PoE，Saga 暂无对应型号（不推）",
+"saga": "—",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "BSP-360",
+"spec": "太阳能工业 PoE，Saga 暂无对应型号（不推）",
+"saga": "—",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FSD-805S15",
+"spec": "FE + SC 光口桌面型，Saga 暂无对应型号（不推）",
+"saga": "—",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "WGR-500",
+"spec": "工业路由器，Saga 不做",
+"saga": "—",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "ELA-100 / POE-TESTER / MC-1500R / FTP-802 / GT-802S / XT-705A / POE-163 / GPL-GSFP",
+"spec": "防雷器/测试仪/媒体转换器/注入器/SFP，Saga 暂无对应",
+"saga": "—",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "（其工业交换机主线）",
+"spec": "以 Saga 工业 8 口 PoE 管理型切入，不对位具体 PLANET 型号",
+"saga": "STI-288DGGPM",
+"url": "https://gelecekbt.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商/经销（2004 年起；以太网交换机、PoE 与工业交换机、SFP、光纤/视频转换器、CCTV、工业串口通信、结构化布线；CLR Networks 土耳其独家分销 + ONET / Telkolink / Netkablo 分销；2–10 人）",
+"region": "土耳其"
+},
+"signals": [
+"【W10 升级】主线不是 PLANET 而是 CLR Networks（44 款工业 PoE，疑似自控贴牌、中国 ODM 来源）→ 首触直接谈「CLR 线的第二 ODM 货源」：CLR-IES-G824P（8 GbE PoE + 2 GbE + 4 SFP 管理型）站内已标 EoL → 用 STI-288DGGPM 作替代/续档；PLANET 3 款仅作其高端补充。档位：若确认自控贴牌按 30%（OEM/ODM），否则 20%",
+"CLR 线 ODM 切入（EoL 替代）：以 EoL 的 CLR-IES-G824P 为切口，STI-288DGGPM 贴 CLR 标；EXW、小批量",
+"CLR 贴牌线核实：问其 CLR Networks 的来源与是否接受第二 ODM"
+],
+"risks": [
+"CLR Networks 品牌归属与现 ODM 来源（决定 30% 档与话术）；年走量；bayi@ 是否有效",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "其自述主业「endüstriyel switch ve PoE çözümleri」、PLANET 页以工业件为主（BSP / IGS M12 / WGR-500 / ELA-100）→ 工业 8 口千兆 PoE 管理型 DIN 导轨为对位主推；默认 20%（分销商）；首触确认 CLR Networks 为自控贴牌后改按 30%（OEM/ODM 定制）报价（沿用 Planet 档案 PB-054）；需求："
+},
+"email_hook": "Your CLR Networks industrial PoE range lists the CLR-IES-G824P as EoL; a Marvell-based 8-port Gigabit PoE managed DIN-rail unit can take that slot under the CLR label, EXW, with the same 2-SFP uplink layout. For the CLR-IES-G824P slot, is a replacement with 8 Gigabit PoE+ ports and 2 SFP uplinks (managed, DIN-rail) what you need, or do you want the 4-SFP layout kept?"
+}
 },
 {
 "name": "hanelektronik.com",
@@ -176503,7 +179105,96 @@
 "c_sub": "",
 "status": "已推送 2 次·未回复",
 "code": "SB-235",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-235",
+"name_official": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+"researched_at": "2026-10-21",
+"website_status": "在线（rimaelektronik.com；并档 Planet 渠道档案 PB-032）",
+"summary": "伊斯坦布尔的安防集成商，自己设计安装校园/企业监控系统并在线销售 PLANET PoE 交换机。类型：安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）。信号：网店在售 Planet PL-GS-4210-8P2S、IGS-5225-8P4S（「IP Ekipmanları › PoE Switch」类目）。Planet 渠道档案 PB-032 评级 B（需求：PLANET PoE/工业 PoE 在售 + 自装监控项目；触达：bilgi@rimaelektronik.com 官网公开，无具名；体量小型 Ltd.，可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-235，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET PoE 在售",
+"quote": "8 Port: Planet PL GS 4210 8P2S PoE Switch - IP Kamera Güvenlik Sistemleri … 12 Port: Planet IGS 5225 8P4S Endüstriyel PoE Switch",
+"url": "https://www.rimaelektronik.com/ip-ekipmanlari/poe-switch/8-port/planet-pl-gs-4210-8p2s-poe-switch.html",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "联系与业务；客户评价证明自装项目",
+"quote": "bilgi@rimaelektronik.com … 1. İnönü Cad. No:18 Kat:1 Beşyol / Florya İSTANBUL … Dört farklı lokasyonda yer alan kampüslerimiz için yapmış oldukları güvenlik kamera sisteminin projelendirilmesi, kurulum ve devreye alınması",
+"url": "https://www.rimaelektronik.com/iletisim",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "业务描述",
+"quote": "Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）",
+"url": "https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed",
+"date": "2026-10-19"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
+"founded": "",
+"hq": "İstanbul（Florya）, 土耳其",
+"size": "",
+"other": "Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商"
+},
+"business_lines": [
+"安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "PL-GS-4210-8P2S",
+"spec": "8×GE PoE+ + 2 SFP",
+"saga": "STC-28DGGPM",
+"url": "https://rimaelektronik.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-5225-8P4S",
+"spec": "工业 8 口 PoE + 4 SFP",
+"saga": "STI-488DGGPM",
+"url": "https://rimaelektronik.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）",
+"region": "土耳其"
+},
+"signals": [
+"自己做校园级监控项目（客户评价：四个校区的监控系统设计与安装）→ PoE 交换机是其每个项目的标配；小公司 bilgi@ 直达"
+],
+"risks": [
+"年项目数与交换机台数；是否也转售给其他安装商",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "监控项目最走量的 24 口 PoE；其在售 8 口 PL-GS-4210-8P2S 对位 STC-28DGGPM 作第二台阶；集成/安装型 → 25%（沿用 Planet 档案 PB-032）；需求："
+},
+"email_hook": "Every multi-campus camera project you deliver needs PoE switching; a 24-port PoE+ at integrator pricing lowers your bill of materials without changing the design. On a typical campus camera project, do you deploy one 24-port PoE+ per building or several 8-port units per floor?"
+}
 },
 {
 "name": "sea-srl.it",
@@ -220386,7 +223077,105 @@
 "c_sub": "",
 "status": "已推送 1 次·未回复",
 "code": "SB-403",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-403",
+"name_official": "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)",
+"researched_at": "2026-10-21",
+"website_status": "在线（media-konwertery.pl；并档 Planet 渠道档案 PB-017）",
+"summary": "波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 工业交换机在售",
+"quote": "IGS-4215-4P4T … IGS-6325 … FGSD-1022VHP（商品页，检索摘要）",
+"url": "https://www.media-konwertery.pl/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "法人与地址",
+"quote": "INTER-COMP.PL KOWALSKI sp. z o.o., ul. Pogodna 13, 86-010 Koronowo（页脚/联系页，检索摘要）",
+"url": "https://www.media-konwertery.pl/",
+"date": "2026-10-19"
+}
+],
+"kp": [
+{
+"name": "Marek Kowalski",
+"title": "Właściciel（业主）；具名无公开直邮（不猜）",
+"email": "",
+"phone": "+48 52 511-88-33",
+"source": "https://www.media-konwertery.pl/"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl)",
+"founded": "",
+"hq": "Koronowo, 波兰",
+"size": "",
+"other": "Planet 渠道档案 PB-017（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；是否经 FEN/ACTION 进货"
+},
+"business_lines": [
+"分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-4215-4P4T",
+"spec": "工业 4 PoE + 4 铜",
+"saga": "STI-088GP（近似）",
+"url": "https://media-konwertery.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-6325",
+"spec": "PLANET 为 L3 工业；Saga 工业 L2+",
+"saga": "STI-488DGGPM（近似，L3 系列）",
+"url": "https://media-konwertery.pl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FGSD-1022VHP",
+"spec": "FE PoE：Saga 暂无对应（无 FE PoE 线）",
+"saga": "—",
+"url": "https://media-konwertery.pl",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）",
+"region": "波兰"
+},
+"signals": [
+"小型专业电商，品类正是转换器/工业交换机；业主 Marek Kowalski 具名（无直邮）"
+],
+"risks": [
+"年台数；是否经 FEN/ACTION 进货",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 1 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求："
+},
+"email_hook": "media-konwertery.pl is built around converters and industrial switches, so a Marvell-based DIN PoE switch with ERPS fits your catalogue logic exactly. Which industrial PoE size sells most on your sites: 4-port, 8-port, or 16-port?"
+}
 },
 {
 "name": "milpower.com",
@@ -237797,7 +240586,97 @@
 "c_sub": "",
 "status": "已推送 4 次·未回复",
 "code": "SB-481",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-481",
+"name_official": "Sistel Networking (SISTEL srl)",
+"researched_at": "2026-10-21",
+"website_status": "在线（sistel-networking.it；并档 Planet 渠道档案 PB-015）",
+"summary": "诺瓦拉省的小型网络方案商，给安装商做布线+机柜+PLANET 工业交换机的整包。类型：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）。信号：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET。Planet 渠道档案 PB-015 评级 B（需求：PLANET 工业专页；触达 info@ 通用；体量小（资本 €10k）；无具名 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-481，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"D-Link"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 工业交换机专页",
+"quote": "Switch industriali Planet, Industrial switch PoE SFP … Planet Switch Industrial Ethernet » Managed - Unmanaged Ethernet Switch 100Mb to 10Gb … Planet PoE Industrial Ethernet Switch »",
+"url": "https://www.sistel-networking.it/prodotti/switch-industriali-planet/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "定位与客户：专业安装商与 IT 经理",
+"quote": "Siamo il partner di fiducia per Installatori Professionali e IT Manager … Consulenza di rete … Materiale di rete … Fibra ottica",
+"url": "https://www.sistel-networking.it/prodotti/planet-switch/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "SISTEL srl 内部事业部；资本 €10,000",
+"quote": "Sistel Networking è la divisione interna della Società SISTEL srl … Cap. Sociale € 10.000,00",
+"url": "https://www.sistel-networking.it/prodotti/industrial-ethernet-solution/",
+"date": "2026-10-19"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-015，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Sistel Networking (SISTEL srl)",
+"founded": "",
+"hq": "Suno (NO), 意大利",
+"size": "",
+"other": "Planet 渠道档案 PB-015（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：年台数；决策人（SISTEL srl 业主）"
+},
+"business_lines": [
+"集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-620TF",
+"spec": "工业 4×GE + 2 SFP 非管理",
+"saga": "STI-240GE",
+"url": "https://sistel-networking.it",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-10020HPT",
+"spec": "工业 8 PoE + 2 SFP",
+"saga": "STI-288DGGPM",
+"url": "https://sistel-networking.it",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）",
+"region": "意大利"
+},
+"signals": [
+"小型方案商，PLANET 工业线是其主推；安装商客户需要 DIN PoE"
+],
+"risks": [
+"年台数；决策人（SISTEL srl 业主）",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 4 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求："
+},
+"email_hook": "Sistel Networking builds its industrial Ethernet offer around PLANET DIN-rail switches for installers, so a second source in the same form factor protects your delivery dates. Which DIN-rail PoE size do your installers specify most, 8 PoE + 2 SFP or the 4 SFP version?"
+}
 },
 {
 "name": "syserso.com",
@@ -258306,7 +261185,113 @@
 "c_sub": "",
 "status": "已推送 13 次·未回复",
 "code": "SB-553",
-"grade": "B"
+"grade": "A",
+"research": {
+"code": "SB-553",
+"name_official": "NSI Distribution (2164929 Ontario Inc.)",
+"researched_at": "2026-10-21",
+"website_status": "在线（nsidistribution.com；并档 Planet 渠道档案 PA-004）",
+"summary": "多伦多郊区的安防批发商，全国 9 个门店卖摄像机/门禁/网络给安装商；自己已经做贴牌品牌，PLANET 是其 PoE 交换机货源之一。类型：安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务。信号：PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌）。Planet 渠道档案 PA-004 评级 A（需求面：PLANET 品牌页 17 款 PoE 在售 + 已分销两家贴牌品牌；触达：Norm Matinnia 直邮 norm@nsidistribution.com（官网门店页/招聘页公开）；体量：区域安防批发 9 分部，可赢；区域加拿大（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-553，加拿大，Saga 群发已推送 13 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 品牌页 17 款在售",
+"quote": "Planet Technology #### 17 Products 8 Port Gigabit POE Switch + 2 Uplinks … 16 Port Gigabit POE Switch + 2 RJ45 + 2 SFP … GSW-2620HP",
+"url": "https://www.nsidistribution.com/Brands/Planet-Technology-Corporation",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "自述提供 OEM 设计与制造服务，并有自有品牌 Norelco SafeCam",
+"quote": "offers OEM design and manufacturing services（检索摘要，原文页待 fetch 核对）",
+"url": "https://www.nsidistribution.com/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "Norm Matinnia 直邮在官网公开",
+"quote": "norm@nsidistribution.com（门店页与招聘页均列出；招聘页另列 carlo@/paul@/mike@/david@）",
+"url": "https://www.nsidistribution.com/our-stores",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "分销 Lysora（Business Systems Connection 的自有品牌）",
+"quote": "Lysora … distributed by NSI Distribution（检索摘要）",
+"url": "https://www.nsidistribution.com/",
+"date": "2026-10-19"
+}
+],
+"kp": [
+{
+"name": "Norm Matinnia",
+"title": "Sales and Product Development（zoominfo 口径；官网门店页列为联系人）；公开（官网 /our-stores 与 /careers 页）",
+"email": "norm@nsidistribution.com",
+"phone": "1-800-668-3402",
+"source": "https://www.nsidistribution.com/our-stores"
+}
+],
+"grade_override": "A",
+"override_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "NSI Distribution (2164929 Ontario Inc.)",
+"founded": "",
+"hq": "Brampton, ON, 加拿大",
+"size": "",
+"other": "Planet 渠道档案 PA-004（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Norelco SafeCam；官网自述提供 OEM 设计与制造服务）；最大未知：Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数"
+},
+"business_lines": [
+"安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GSW-2620HP",
+"spec": "PLANET 为 24 口 PoE 非管理+2 SFP；Saga 为 L2+ 管理型，功能上覆盖",
+"saga": "STC-424DGGPM-280W",
+"url": "https://nsidistribution.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-24P4C",
+"spec": "24×GE PoE+ + 4 Combo，280W",
+"saga": "STC-424DGGPM-280W",
+"url": "https://nsidistribution.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务",
+"region": "加拿大"
+},
+"signals": [
+"安防批发商自带贴牌诉求（Norelco/Lysora 都是贴牌货）；9 个分部走量 24 口 PoE；Norm Matinnia（销售与产品开发）直邮公开",
+"第二货源对位：GSW-2620HP 同位且带 L2+ 管理；贴牌中性包装",
+"样机到 Brampton：30 天并行测试，不要求承诺；兼容其在用 SFP"
+],
+"risks": [
+"Norelco 现有交换机贴牌来源（是否已有深圳供应商）；9 分部年 PoE 台数",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 13 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
+},
+"email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?"
+}
 },
 {
 "name": "nvtphybridge.com",
@@ -293093,7 +296078,142 @@
 "c_sub": "",
 "status": "已推送 5 次·未回复",
 "code": "SB-731",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-731",
+"name_official": "Saratota Ltd",
+"researched_at": "2026-10-21",
+"website_status": "在线（saratota.com；并档 Planet 渠道档案 PB-043）",
+"summary": "赫特福德郡的小型进口代理商，代理 PLANET / Patton / LAVA 等六家厂商，向经销商与燃气/石油/公用事业/政府客户供工业 PoE 与电信接入产品。类型：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）。信号：官网 PLANET 专页（URL 自述 planet-technology-networking-communication-uk-distributor-planet-supplier）；工业 PoE 类目 Planet Technology Corp 20 款；首页主推 IPOE-175 / IGS-624HPT / IPOE-173S / BSP-360；Mikrotik 仓库 C-116 标「分销（PLANET 授权）」。Planet 渠道档案 PB-043 评级 B（需求：PLANET 专页 + 工业 PoE 20 款 + 进口代理定位；触达：sales@saratota.com（官方 Facebook 主页 + Patton/FiberPlex 官方资料「Distributed in the UK by SARATOTA … Email: sales@saratota.com」），admin@saratota.com（官网隐私页）；无具名（Companies House 4 名董事未取名）；体量 2–10 人，可赢；区域英国（一线）；Mikrotik C-116「B下放·无邮箱」，本仓补到邮箱 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-731，英国，Saga 群发已推送 5 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"MikroTik"
+],
+"evidence": [
+{
+"kind": "公司自述",
+"claim": "PLANET 专页（URL 自述 UK distributor / supplier）",
+"quote": "Planet Technology Corp — BSP-360 Industrial solar controller with 4 ports POE 802.3at managed switch … CONTACT SARATOTA LTD Unit 21 Little Ridge Ind. Estate Welwyn Garden City Hertfordshire AL7 2BH TEL: +44 (0) 1707 331447",
+"url": "https://www.saratota.com/planet-technology-networking-communication-uk-distributor-planet-supplier",
+"date": "2026-10-19"
+},
+{
+"kind": "卖方目录",
+"claim": "首页主推 PLANET 工业 PoE",
+"quote": "20+ YEARS EXPERIENCE IN NETWORK AND TELECOMMUNICATION SOLUTIONS … IGS-624HPT - Industrial 4-Port 10/100/1000T 802.3at PoE+ w/ 2-Port 100/1000X SFP Ethernet Switch Brand: Planet Technology Corp … IPOE-173S Industrial 10/100/1000Mbps 802.3bt PoE++ Splitter",
+"url": "https://www.saratota.com/",
+"date": "2026-10-19"
+},
+{
+"kind": "卖方目录",
+"claim": "工业 PoE 类目 PLANET 20 款",
+"quote": "Industrial PoE — Aetek Inc. (1) · EtherWAN Systems Inc (1) · Planet Technology Corp (20)",
+"url": "https://www.saratota-direct.co.uk/index.php?route=product/category&path=109",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "代理厂商名单与规模（LinkedIn 公司页）",
+"quote": "Saratota Ltd represents Manufacturers of Networking and Communications products. We import and distribute these products to a range of business sectors. Our Manufacturers • Planet - wide range of networking equipment switches, POE, Media converters, Wireless and industrial Ethernet • LAVA • Patton Electronics • Flexdsl • Loop Technology • Netsys … Company size: 2-10 employees · Founded: 2005",
+"url": "https://uk.linkedin.com/company/saratota-ltd",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "销售邮箱（官方 Facebook 主页）",
+"quote": "Saratota Ltd — Networking and Communications Specialist · Welwyn Garden City, United Kingdom +44 1707 331447 sales@saratota.com saratota.com",
+"url": "https://www.facebook.com/SaratotaLtd/",
+"date": "2026-10-19"
+},
+{
+"kind": "厂商口径",
+"claim": "销售邮箱（Patton/FiberPlex 官方资料页）",
+"quote": "Distributed in the UK by: SARATOTA LTD, Unit 21 Little Ridge Ind. Estate, Welwyn Garden City, Hertfordshire, AL7 2BH, United Kingdom Tel: +44 (0) 1707 331447 Web: www.saratota.com Email: sales@saratota.com",
+"url": "https://www.lydisplus.nl/content/pdf/wgf-6/fiberplex%20wgf-6%20datasheet%20(en)%20v1.0.pdf",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "客户行业（名录自述）",
+"quote": "Saratota import, Distribute and Provide I/P Technology, LAN Networking, VOIP and WAN Telecommunications products If you are a reseller please contact us for special pricing … specialist products for the gas, oil and utility companies as well as Government organisation",
+"url": "https://welwyn-garden-city.cylex-uk.co.uk/company/saratota-19665217.html",
+"date": "2021-12-11"
+},
+{
+"kind": "Mikrotik 仓库",
+"claim": "C-116 同户：分销（PLANET 授权），B下放·无邮箱",
+"quote": "C-116 Saratota 英国 分销（PLANET 授权）… B下放·无邮箱 … saratota.com 页面标注 Planet Technology UK distributor / supplier，上架 PLANET 工业 PoE 与太阳能供电交换机 … 经 EtherWAN 渠道名录确认为其分销商",
+"url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+"date": "2026-09-22"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-043，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Saratota Ltd",
+"founded": "",
+"hq": "Welwyn Garden City（Hertfordshire）, 英国",
+"size": "",
+"other": "Planet 渠道档案 PB-043（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）"
+},
+"business_lines": [
+"进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-624HPT",
+"spec": "PLANET 为工业 4 PoE + 2 SFP；Saga 以工业 8 PoE + 2 SFP L2+ 覆盖（端口数上移，注明）",
+"saga": "STI-288DGGPM",
+"url": "https://saratota.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "BSP-360",
+"spec": "太阳能控制器 + PoE 交换机，Saga 暂无对应型号（不推）",
+"saga": "—",
+"url": "https://saratota.com",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IPOE-175",
+"spec": "IP67 PoE++ 注入器，Saga 不做 IP67（守界）",
+"saga": "—",
+"url": "https://saratota.com",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）",
+"region": "英国"
+},
+"signals": [
+"PLANET 是其六个代理厂商之首且专设 planet-direct.co.uk——小型进口代理（2–10 人），面向燃气/石油/公用事业与政府客户的工业 PoE；Mikrotik 侧「无邮箱」沉 C，本仓从其官方 Facebook 主页与 Patton 官方资料页补到 sales@saratota.com → 满足其重评条件①",
+"第二货源对位：对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖",
+"样机到 Welwyn Garden City：30 天并行测试，不要求承诺；兼容其在用 SFP"
+],
+"risks": [
+"公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 5 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求："
+},
+"email_hook": "You import PLANET industrial PoE for utility and reseller customers; a DIN-rail PoE+ L2+ switch sourced direct gives you a lower-cost line beside PLANET without changing the spec sheet. On your utility and reseller orders, is the 4/8-port industrial PoE+ class what ships most, or do PoE injectors and extenders lead?"
+}
 },
 {
 "name": "schrack.cz",
@@ -304444,7 +307564,80 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-788",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-788",
+"name_official": "Wood Communications Ltd",
+"researched_at": "2026-10-21",
+"website_status": "在线（woodcomm.ie；并档 Planet 渠道档案 PB-013）",
+"summary": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 品牌页",
+"quote": "Brands › Planet Technology（目录品牌页，检索摘要）",
+"url": "https://www.woodcomm.ie/catalogue/brands/planet-technology/",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "L7 Ballymount Ind. Est., Dublin D12 FV07；约 16 人；数据中心基础设施分销",
+"quote": "distributor IP/infrastructure/security for data centres, 16 staff（名录摘要）",
+"url": "https://www.woodcomm.ie/",
+"date": "2026-10-19"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Wood Communications Ltd",
+"founded": "",
+"hq": "Dublin 12, 爱尔兰",
+"size": "",
+"other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人"
+},
+"business_lines": [
+"分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GSD-804P",
+"spec": "PLANET 为 8 口其中 4 PoE 非管理；Saga 为 8 PoE + 2 SFP 管理型，功能覆盖、价位相近",
+"saga": "STC-28DGGPM（近似）",
+"url": "https://woodcomm.ie",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）",
+"region": "爱尔兰"
+},
+"signals": [
+"爱尔兰本地分销，给集成商供基础设施产品；PLANET 品牌页在目录内"
+],
+"risks": [
+"PLANET 在其交换机销量占比；采购决策人",
+"Planet 首触邮件未发送（Elsa 账号待定）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求："
+},
+"email_hook": "Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?"
+}
 },
 {
 "name": "Aptvel global technologies",
@@ -323283,7 +326476,121 @@
 "c_sub": "",
 "status": "已推送 15 次·未回复",
 "code": "SB-860",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-860",
+"name_official": "Shop4Power (Shop4power / shop4networks)",
+"researched_at": "2026-10-21",
+"website_status": "在线（shop4power.nl；并档 Planet 渠道档案 PB-045）",
+"summary": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"MikroTik"
+],
+"evidence": [
+{
+"kind": "公司自述",
+"claim": "PLANET 专营自述 + 联系方式",
+"quote": "Shop4Power - Power Supply, Switches & Planet Ethernet Specialist … Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen. Wij leveren de meeste producten uit voorraad én tegen scherpe prijzen. … ADRES Duisterendijk 5A, 8131 RA Wijhe TELEFOON +31 (0)85 40 19 230 E-MAIL info@shop4power.nl",
+"url": "https://shop4power.nl/",
+"date": "2026-10-19"
+},
+{
+"kind": "卖方目录",
+"claim": "PLANET 工业 PoE 现货",
+"quote": "The IGS-5225-8P2S2X Industrial L3 8-port Gb POE+ + 2-port 1G/2,5G SFP + 2-port 10G SFP Switch is available from stock at shop4power.nl … Gb Switches: All Planet Gb+ switches listed.",
+"url": "https://shop4power.nl/en/s/merken/shop4power/",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "覆盖 NL/BE",
+"quote": "Over Shop4Power - De Power Specialist van Nederland & België … Wij zijn gevestigd in Wijhe (Overijssel) en leveren ook vanuit daar de producten uit.",
+"url": "https://shop4power.nl/over-ons/",
+"date": "2023-01-12"
+},
+{
+"kind": "公司自述",
+"claim": "法人/品牌名",
+"quote": "Complete contactgegevens: Shop4power/shop4networks Duisterendijk 5a 8131 RA WIJHE / Nederland T 085 – 401 92 30 E info@shop4power.nl",
+"url": "https://shop4power.nl/privacybeleid/",
+"date": "2025-06-11"
+},
+{
+"kind": "Mikrotik 仓库",
+"claim": "C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌",
+"quote": "C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突",
+"url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+"date": "2026-10-19"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Shop4Power (Shop4power / shop4networks)",
+"founded": "",
+"hq": "Wijhe（Overijssel）, 荷兰",
+"size": "",
+"other": "Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+},
+"business_lines": [
+"专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-5225-8P2S2X",
+"spec": "PLANET 为工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+；Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
+"saga": "STI-488XGGPM",
+"url": "https://shop4power.nl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "FSD-2405",
+"spec": "24 口百兆非管理，Saga 暂无对应型号（不推）",
+"saga": "—",
+"url": "https://shop4power.nl",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-4210-24P4C",
+"spec": "商用 24 PoE 对位",
+"saga": "STC-424DGGPM-280W",
+"url": "https://shop4power.nl",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）",
+"region": "荷兰"
+},
+"signals": [
+"荷兰少见的 PLANET 专营网店（此前 NL 只有泛电商与 Alarmsysteemexpert）——PLANET 是其交换机主线，E-Link 为其第二条（疑自有/白牌）线；Mikrotik 侧按「自有品牌太难」沉 C，本仓按 OEM 角度视为机会；info@ 官网多页公开",
+"第二货源对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）",
+"样机到 Wijhe：30 天并行测试，不要求承诺；兼容其在用 SFP"
+],
+"risks": [
+"E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-488XGGPM",
+"tier": 20,
+"why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求："
+},
+"email_hook": "You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?"
+}
 },
 {
 "name": "signamax.com",
@@ -339384,7 +342691,146 @@
 "c_sub": "",
 "status": "已推送 15 次·未回复",
 "code": "SB-939",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-939",
+"name_official": "Fiberworks AS（fiberworks.no）",
+"researched_at": "2026-10-21",
+"website_status": "在线（fiberworks.no；并档 Planet 渠道档案 PB-073）",
+"summary": "奥斯陆一家光纤产品专业分销商（收发器/WDM/光缆/仪表），有源设备货架同时上 PLANET 全线（9 子类）与 ORing 工业交换机。类型：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）。信号：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2240 NOK）、SGS-6310-24T4X（L3 24×GE + 4×10G 可堆叠）、TSN-5225-4T2S、IGS-6325-4T2X、GS-5220-16S8CR、IGS-6325-20T4C4X、GSD-1022UP、「L2+ 8x GE RJ45 802.3at PoE+ 2x 2.5G SFP wall-mount Ind. Switch w/LCD」；并列「ORing Industrial Switches」类目。Planet 渠道档案 PB-073 评级 B（需求：PLANET 独立类目 9 子类（工业 DIN 13 件、PoE 17 件）+ ORing 类目 → 工业/PoE 槽位真实且已双品牌；触达：salg@fiberworks.no + +47 23 03 53 30 公开（官网页脚），无具名 KP；体量：Oslo 单仓、ISO 9001/14001 的光纤专业分销 → 可赢；Mikrotik 仓 B-517（ORing 名录导入，R49 补到邮箱回升 B）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-939，挪威，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"ORing"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "PLANET 独立类目及筛选计数（PoE 17 / DIN 13 / 工业温度 2）",
+"quote": "PLANET leverer en bred portefølje av nettverksprodukter som svitsjer, rutere og aksesspunkter. Her presenterer vi noen få av dem. For komplett utvalg, gå til https://www.planet.com.tw/en … Ja, PoE output (PSE) (17) … For DIN-skinne (13) … Industriell temp. (2)",
+"url": "https://www.fiberworks.no/en-us/produkter/aktivt-utstyr/planet-nettverksprodukter",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET IGS-510TF 商品页与价格",
+"quote": "IGS-510TF DC IP30 GigEthernet Switch 1x SFP - 4x RJ45, 12-48V DC, ind. temp. … Product nr: MC-PLANET-IGS-510TF … 2240.0",
+"url": "https://www.fiberworks.no/en/planet/mc-planet-igs-510tf/igs-510tf-dc-ip30-gigethernet-switch-1x-sfp-4x-rj45-12-48v-dc-ind-temp",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "PLANET SGS-6310-24T4X 商品页",
+"quote": "PLANET L3 24x GE RJ45, 4x 10G SFP+ Stackable Managed Switch",
+"url": "https://www.fiberworks.no/en-us/planet/pln-sgs-6310-24t4x/planet-l3-24x-ge-rj45-4x-10g-sfp-plus--stackable-managed-switch",
+"date": "2026-10-20"
+},
+{
+"kind": "官网",
+"claim": "公司法务信息、联系方式、ISO 认证（页脚）",
+"quote": "+47 23 03 53 30 · salg@fiberworks.no · Eikenga 11 0579 Oslo · Fiberworks AS Org. nr. 959 977 046 · ISO 9001:2015 … ISO 14001:2015",
+"url": "https://www.fiberworks.no/",
+"date": "2026-10-20"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Fiberworks AS（fiberworks.no）",
+"founded": "",
+"hq": "Oslo（Eikenga 11, 0579 Oslo）, 挪威",
+"size": "",
+"other": "Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）"
+},
+"business_lines": [
+"分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "IGS-510TF",
+"spec": "PLANET 工业 4×GE + 1×SFP 非管理（2240 NOK）；Saga 工业 4×GE + 2×SFP 非管理，同槽位",
+"saga": "STI-240GE",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "SGS-6310-24T4X",
+"spec": "PLANET 为 L3 可堆叠；Saga STC-424XGGM 另有 L3 档（$269.1），不支持堆叠",
+"saga": "STC-424XGGM",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "TSN-5225-4T2S",
+"spec": "PLANET 为 TSN 工业 4×GE + 2×SFP；Saga 为 L2+ 同口型，无 TSN，功能下位",
+"saga": "STI-240DGGM",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-6325-4T2X",
+"spec": "工业 L3 4×GE + 2×10G SFP+：Saga 工业 10G 上行款为 8×GE + 4×10G（STI-480XGGM），口型不同，不硬凑",
+"saga": "—",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GS-5220-16S8CR",
+"spec": "16×SFP + 8 combo + 4×10G 全光：Saga 对位 STC-4168XGGCM 为 L3（$376.7），PLANET 为 L2+，仅作参考",
+"saga": "—",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "IGS-6325-20T4C4X",
+"spec": "PLANET 工业 L3 20×GE + 4 combo + 4×10G；Saga 工业 16×GE + 2×10G SFP+（L2+ $269.1 / L3 $358.7）作近位",
+"saga": "STI-2160XGGM",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "GSD-1022UP",
+"spec": "8×PoE++ 非管理商用：Saga 商用线无非管理型号，不硬凑",
+"saga": "—",
+"url": "https://fiberworks.no",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）",
+"region": "挪威"
+},
+"signals": [
+"光纤专业分销的有源货架同时上 PLANET 全线（工业 DIN 13 件、PoE 17 件）与 ORing → 工业 PoE DIN 槽位两家都在它架上；Saga 工业 8×GE PoE+ + 2×SFP 管理型（STI-288GPM，$78.9 EXW）对位其 PLANET 工业 PoE 管理款与 ORing IGPS 级，SFP 上行与它的收发器主业天然搭配；工业 4×GE + 2×SFP 非管理（STI-240GE，$28.0）对位 IGS-510TF（2240 NOK）",
+"PLANET 侧预案（并档，不从本仓发）：工业 8×GE PoE+ + 2 SFP 管理 vs PLANET IGS-10020 级 / ORing IGPS 级；EXW",
+"样机：1 台到 Oslo 仓做入库测试（其有 ISO 9001 流程）"
+],
+"risks": [
+"PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求："
+},
+"email_hook": "Your active-equipment shelf already carries both PLANET industrial/PoE units and ORing; a Marvell-based industrial PoE line with SFP uplinks at EXW gives you a third price point in the same DIN-rail slot, and it pairs with your transceiver business. For the industrial PoE DIN-rail units you list under PLANET and ORing, is the demand mostly 8-port Gigabit PoE+ with two SFP uplinks, or are customers asking for 10G SFP+ uplinks now?"
+}
 },
 {
 "name": "giga-link.ru",
@@ -346537,7 +349983,111 @@
 "c_sub": "",
 "status": "已推送 2 次·未回复",
 "code": "SB-968",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-968",
+"name_official": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
+"researched_at": "2026-10-21",
+"website_status": "在线（bimel.com.tr；并档 Planet 渠道档案 PB-031）",
+"summary": "安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-968，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+"type": "",
+"size": "",
+"brands_seen": [
+"PLANET",
+"Netgear"
+],
+"evidence": [
+{
+"kind": "卖方目录",
+"claim": "PLANET 产品页（自有 PL- 货号）",
+"quote": "bimel :: Ürün :: Planet - PL-GS-4210-24P4C … PL-GS-4210-24PL4C Yönetilebilir Gigabit PoE Switch",
+"url": "https://www.bimel.com.tr/urun/pl-gs-4210-24p4c",
+"date": "2026-10-19"
+},
+{
+"kind": "卖方目录",
+"claim": "工业 PoE 在售",
+"quote": "Planet - PL-IGS-5225-8P2T2S Endüstriyel Tip Yönetilebilir Ethernet Switch … Planet - PL-WGS-5225-8P2SV Endüstriyel Duvar Tip Yönetilebilir Switch",
+"url": "https://www.bimel.com.tr/urunler/bbyonetilebilir_endustriyel_tip_layer2_poe_switch/planet",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "品牌组合与定位",
+"quote": "bilgisayar ve yan ürünleri, güvenlik ürünleri, aktif ve pasif network ürünlerinin dağıtıcılığını yapmaktadır. Assmann, Aten, Beek, Netgear, Planet, Ruckus Wireless başlıca markalarımızdan biri.",
+"url": "https://www.find.com.tr/Company/bimelistanbulelektronikmamulleripazarlamalimitedsirketi",
+"date": "2026-10-19"
+},
+{
+"kind": "公司自述",
+"claim": "联系方式",
+"quote": "E-Posta: bimel@bimel.com.tr … İstanbul (Avrupa): (212) 347-7540 … İzmir: (232) 489-0755",
+"url": "https://www.bimel.com.tr/tr/iletisim",
+"date": "2026-10-19"
+},
+{
+"kind": "第三方",
+"claim": "规模与成立",
+"quote": "Bimel Elektronik Mamulleri Pazarlama A.S. … incorporated on January 27, 1984. There are currently 80 (2026) people employed（EMIS）；LinkedIn 51-200，Founded 1984",
+"url": "https://www.emis.com/php/company-profile/TR/Bimel_Elektronik_Mamulleri_Pazarlama_AS_en_3358519.html",
+"date": "2026-05-05"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（并档 Planet 渠道档案 PB-031，W 批次调研 2026-10-19/20）"
+},
+"company_facts": {
+"legal_name": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
+"founded": "",
+"hq": "Ankara（分部 İstanbul ×2 / İzmir / Bursa）, 土耳其",
+"size": "",
+"other": "Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
+},
+"business_lines": [
+"分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "PL-GS-4210-24P4C",
+"spec": "24×GE PoE+ + 4 Combo",
+"saga": "STC-424DGGPM-280W",
+"url": "https://bimel.com.tr",
+"date": "2026-10-19"
+},
+{
+"brand": "PLANET",
+"model": "PL-IGS-5225-8P2T2S",
+"spec": "工业 8 口 PoE+2 SFP L2+",
+"saga": "STI-288DGGPM",
+"url": "https://bimel.com.tr",
+"date": "2026-10-19"
+}
+],
+"channels": {
+"role": "分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）",
+"region": "土耳其"
+},
+"signals": [
+"土耳其 PLANET 主力分销（PL- 货号体系说明其为进口方）；80 人规模、家族制 A.Ş.，决策链短于 Arena 等巨头；仅 bimel@ 公开，无具名 PM → B"
+],
+"risks": [
+"PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人",
+"Planet 首触邮件未发送（Elsa 账号待定）",
+"Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求："
+},
+"email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?"
+}
 },
 {
 "name": "cebecigrup.com",

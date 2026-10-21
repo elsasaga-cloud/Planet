@@ -1,4 +1,5 @@
 # bizsyscon.com
+**官方名称（调研核实）**：Business Systems Connection Inc.
 
 > **评级 B**　|　美国　|　档案编号 `SB-1165`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-1165
 rating: B
 rating_auto: B
+name_official: "Business Systems Connection Inc."
 score: 25
 country: 美国
 region: 北美
@@ -19,9 +21,9 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STI-488DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：planet  POE延长器；提到的品牌：planet
+- **是谁**：圣路易斯郊区的微型 WISP 分销商，自有品牌 Lysora，PLANET 是其工业 PoE 货源之一。类型：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora。信号：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家。Planet 渠道档案 PB-022 评级 B（需求：PLANET + 自有品牌；触达 sales@ 通用（具名 Joseph Barros / James Shaw / Nijaz Mustedanagic 邮箱被遮蔽）；体量微型；Mikrotik A-532 同户——本仓不重复首触，B 并档）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1165，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：planet  POE延长器）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-488DGGPM — 深挖对位：同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求：；$147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1165.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（bizsyscon.com；并档 Planet 渠道档案 PB-022）
+- **是谁**：圣路易斯郊区的微型 WISP 分销商，自有品牌 Lysora，PLANET 是其工业 PoE 货源之一。类型：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora。信号：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家。Planet 渠道档案 PB-022 评级 B（需求：PLANET + 自有品牌；触达 sales@ 通用（具名 Joseph Barros / James Shaw / Nijaz Mustedanagic 邮箱被遮蔽）；体量微型；Mikrotik A-532 同户——本仓不重复首触，B 并档）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1165，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET, Ubiquiti, MikroTik, Cambium
+- **【卖方目录】PLANET 商用与工业 PoE 在售**
+  > GS-4210-24P4C $522 … IGS-5225-8P4S-12V $809.60（商品页，检索摘要）
+  > 来源：https://www.bizsyscon.com/（抓取 2026-10-19）
+- **【Mikrotik 仓库】A-532（人工定级 A，sales@bizsyscon.com，自有品牌 Lysora）**
+  > 客户名单_反向信号_2026-09.csv 行 A-532
+  > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **KP**：Joseph Barros（） 636-600-1400〔名录摘要〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-022，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Business Systems Connection Inc. |
+| 总部/地址 | Fenton, MO, 美国 |
+| 其他 | Planet 渠道档案 PB-022（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Lysora）；最大未知：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM |
+
+- **业务线**：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | IGS-5225-8P4S-12V | 工业 8 PoE + 4 SFP（PLANET 为 12V 升压版，Saga 需核 12V 输入） | STI-488DGGPM | https://bizsyscon.com（2026-10-19） |
+| PLANET | GS-4210-24P4C | 24 PoE | STC-424DGGPM-280W | https://bizsyscon.com（2026-10-19） |
+| PLANET | IGS-4215-8P2T2S | 8 PoE + 2 SFP | STI-288DGGPM | https://bizsyscon.com（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora；region: 美国
+- **近况信号**：
+  - 自有品牌 Lysora 已是贴牌货（NSI 加拿大也分销 Lysora）→ OEM 对象；Mikrotik 仓库 A-532 已记录 sales@bizsyscon.com，勿重复首触
+- **风险/边界**：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM；Planet 首触邮件未发送（Elsa 账号待定）
+- **Saga 对位结论**：P1 STI-488DGGPM（20% 档）——同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求：
+- **邮件切入句（英文）**：Lysora is already your own switch label, so a Marvell-based industrial 8-port PoE+ with ERPS could join the line without a new supplier onboarding. Which Lysora or PLANET industrial PoE size do your WISP customers take most, 8+4 SFP or 8+2?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -94,7 +129,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@bizsyscon.com | 用户表原值 | Clients/ 表 |
+| Joseph Barros | — | 636-600-1400 | 调研核实（公开页） | 名录摘要 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -110,7 +145,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-488DGGPM | 深挖对位：同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求： | $147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -119,9 +154,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-488DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-488DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -130,8 +165,8 @@ updated: 2026-10-21
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 planet：涨价、断货或交期拉长时切入
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STI-488DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -147,7 +182,7 @@ updated: 2026-10-21
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ planet |
 | 采购量/预算 | ❓ 未确认 |
@@ -156,30 +191,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hello,
+Hi Joseph,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Lysora is already your own switch label, so a Marvell-based industrial 8-port PoE+ with ERPS could join the line without a new supplier onboarding. Which Lysora or PLANET industrial PoE size do your WISP customers take most, 8+4 SFP or 8+2?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

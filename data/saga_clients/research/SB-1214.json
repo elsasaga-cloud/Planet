@@ -1,0 +1,129 @@
+{
+ "code": "SB-1214",
+ "name_official": "LAN Számítástechnikai Szolgáltató Kft.",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（lan.hu；并档 Planet 渠道档案 PB-093）",
+ "summary": "布达佩斯的网络 / 布线 / 机柜分销商，有源类目以 PLANET 工业交换机为主并自编货号。类型：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号。信号：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货。Planet 渠道档案 PB-093 评级 B（需求：5 款 PLANET 工业交换机商品页带 HUF 净价 / 含税价 + 自编货号 + 实时库存口径 → 有源类目采购真实；触达：sales@lan.hu / titkar@lan.hu + +36 1 415 2300 公开（页脚 / FAQ），无公开具名 KP（Bcc 中 jhegedus@ / wbea@ 两个具名地址角色未公开 → 不作 KP）；体量：布达佩斯分销商（D&B 「pénzügyileg legstabilabb」认证 2026-07）→ 中型、可赢；Gmail：Elsa 账号 2025-02-18 → 2026-08-13 以 BCC 群发 13 封（含 jhegedus@ / wbea@），0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无公开具名 KP））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1214，匈牙利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "Digitus"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法律实体 / 地址 / 公开邮箱 / 电话 / 服务口径",
+   "quote": "LAN Számítástechnikai Szolgáltató Kft. … H-1155 Budapest Kolozsvár utca 7. … Telefon: +36 1 415 2300 … E-mail: sales@lan.hu, ha a vásárlás mellett a kivitelezés is érdekel: szolgaltatas@lan.hu … titkar@lan.hu … Valós idejű a készletinformáció? Igen",
+   "url": "https://lan.hu/",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-10020MT 商品页带价 / 自编货号",
+   "quote": "Planet IP30 Industral Managed Ehternet Switch … 120.140 Ft + ÁFA ( 152.578 Ft ) … Cikkszám: LIGS-10020MT … 8 10/100/1000BASE-T RJ-45 … 2 100/1000/2500BASE-X mini-GBIC SFP ports",
+   "url": "https://lan.hu/planet-ip30-industral-managed-ehternet-switch-4167",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGS-801T / ISW-801T 商品页带价",
+   "quote": "Planet IGS-801T IP30 8-port Industrial Gigabit Ethernet Switch … 46.800 Ft + ÁFA ( 59.436 Ft ) ｜ Planet ISW-801T Fast Ethernet Switch … 36.015 Ft … Cikkszám: LISW-801T",
+   "url": "https://lan.hu/planet-igs-801t-ip30-8-port-industrial-gigabit-ethernet-switch-2452",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网（搜索快照）",
+   "claim": "IGSW-24040T / IGS-1020TF 商品页带价",
+   "quote": "Planet Industrial L2+ 20-Port 10/100/100 +4-Port TP/SFP Combo Managed Switch … 253.780 Ft + ÁFA ( 322.301 Ft ) … Cikkszám: LIGSW-24040T ｜ Planet Industrial 8-Port 10/100/1000T + 2-Port 100/1000X SFP Ethernet Switch … 102.019 Ft",
+   "url": "https://lan.hu/planet-industrial-l2-20-port-10100100-4-port-tpsfp-combo-managed-switch-3647",
+   "date": "2026-10-20"
+  },
+  {
+   "kind": "官网",
+   "claim": "体量 / 信用口径",
+   "quote": "Tanúsítvány a pénzügyileg legstabilabb cégeknek … Dun & Bradstreet … Így került kiválasztásra cégünk, a Lan Számítástechnikai Szolgáltató Kft. is, mint a pénzügyileg legstabilabb cégek egyike.（2026. 07. 22.）",
+   "url": "https://lan.hu/hirek_1/tanusitvany-a-penzugyileg-legstabilabb-cegeknek-222",
+   "date": "2026-10-20"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-093，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "LAN Számítástechnikai Szolgáltató Kft.",
+  "founded": "",
+  "hq": "Budapest（H-1155 Budapest, Kolozsvár utca 7）, 匈牙利",
+  "size": "",
+  "other": "Planet 渠道档案 PB-093（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否（货号前缀 L 为自编码，非品牌）；最大未知：采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓"
+ },
+ "business_lines": [
+  "网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "IGS-10020MT",
+   "spec": "工业 8×GE + 2×SFP 管理 → Saga 同口型 $68.2 USD EXW",
+   "saga": "STI-280GM",
+   "url": "https://lan.hu",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-801T",
+   "spec": "工业 8×GE 非管理 DIN → Saga 同口型 $31.4 USD EXW",
+   "saga": "STI-080GE",
+   "url": "https://lan.hu",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "ISW-801T",
+   "spec": "工业 8×FE 非管理 DIN → Saga 同口型 $24.4 USD EXW",
+   "saga": "STI-080FE",
+   "url": "https://lan.hu",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGSW-24040T",
+   "spec": "工业 L2+ 20×GE + 4 Combo 管理 → Saga 16×GE + 2×10G SFP+ L2+ $269.1 USD EXW（口数 / 口型不同，需说明）",
+   "saga": "STI-2160XGGM",
+   "url": "https://lan.hu",
+   "date": "2026-10-19"
+  },
+  {
+   "brand": "PLANET",
+   "model": "IGS-1020TF",
+   "spec": "工业 8×GE + 2×SFP 非管理 → Saga 同口型 $46.6 USD EXW",
+   "saga": "STI-280GE",
+   "url": "https://lan.hu",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号",
+  "region": "匈牙利"
+ },
+ "signals": [
+  "布达佩斯布线 / 机柜分销商的有源类目靠 PLANET 工业交换机，客户是布线施工商与中小 IT 集成商 → Saga STI 工业管理型同口型、中性包装 EXW，作其有源类目第二来源；匈牙利已有 5 户可互证渠道价位",
+  "首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+  "样机：1 台到 Budapest 并行比对（PoE 预算 / 管理功能 / 温度范围）"
+ ],
+ "risks": [
+  "采购负责人姓名（jhegedus@ / wbea@ 角色）；PLANET 线年量；是否要求匈牙利语文档 / 匈牙利仓",
+  "Planet 首触邮件未发送（Elsa 账号待定）"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GM",
+  "tier": 20,
+  "why": "其在售 IGS-10020MT（工业 8×GE + 2×SFP 管理，120 140 Ft 净价 ≈ 300 €）→ Saga STI-280GM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理），20% 档 $68.2 USD EXW；IGS-801T / ISW-801T 由 STI-080GE / STI-080FE 第二封对位；分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PB-093）；需求："
+ },
+ "email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?"
+}

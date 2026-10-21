@@ -1,13 +1,16 @@
 # 4power.it
+**官方名称（调研核实）**：4Power S.r.l.
 
-> **评级 B**　|　意大利　|　档案编号 `SB-020`　|　优先级 ★★　|　状态：已推送 6 次·未回复
+> **评级 A**　|　意大利　|　档案编号 `SB-020`　|　优先级 ★★★　|　状态：已推送 6 次·未回复
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：推送 6 次（2025-01-29 → 2025-10-13）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-020
-rating: B
+rating: A
 rating_auto: B
+rating_research: A  # Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升
+name_official: "4Power S.r.l."
 score: 59
 country: 意大利
 region: 欧洲
@@ -20,8 +23,8 @@ followups: 6
 first_contact: 2025-01-29
 last_contact: 2025-10-13
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,13 +32,13 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的分销商/经销商；兴趣/在卖：工商业FS 很多国内的产品 分销商 主要是3个品牌；提到的品牌：FS
-- **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
+- **是谁**：那不勒斯的 B2B 专业分销商，PLANET 意大利官方分销 + 自有网络品牌 4Net，11–50 人。类型：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销。信号：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B。Planet 渠道档案 PA-001 评级 A（需求面：PLANET 官方分销 + 自有品牌 4Net（OEM/ODM 需求 = 用户最优先客户类型）；触达：公开邮箱 info@/commerciale1@ + 第三方名录具名管理层 Pasquale Pirozzi；体量 11–50 人可拿下；区域意大利）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-020，意大利，Saga 群发已推送 6 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工商业FS 很多国内的产品 分销商 主要是3个品牌）
+- **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-01-29 → 2025-10-13）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **最大未知**：年走量与现供应商
+- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -64,7 +67,50 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-020.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（4power.it；并档 Planet 渠道档案 PA-001）
+- **是谁**：那不勒斯的 B2B 专业分销商，PLANET 意大利官方分销 + 自有网络品牌 4Net，11–50 人。类型：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销。信号：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B。Planet 渠道档案 PA-001 评级 A（需求面：PLANET 官方分销 + 自有品牌 4Net（OEM/ODM 需求 = 用户最优先客户类型）；触达：公开邮箱 info@/commerciale1@ + 第三方名录具名管理层 Pasquale Pirozzi；体量 11–50 人可拿下；区域意大利）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-020，意大利，Saga 群发已推送 6 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET
+- **【公司自述】4Power 是 PLANET 意大利官方分销商，服务 system integrator 与安装商**
+  > 4Power è distributore ufficiale PLANET Technology in Italia: switch PoE, industriali, WiFi, media converter e transceiver con supporto tecnico B2B … supportato da un team tecnico italiano che conosce bene le esigenze di system integrator e installatori.
+  > 来源：https://www.4power.it/planet-soluzioni-networking-avanzate/（抓取 2026-10-19）
+- **【公司自述（结构化数据）】自有品牌 4Net / Eurogroup；B2B 分销 UPS、网络、布线、机柜**
+  > 4Power S.R.L. è un'azienda italiana specializzata nella distribuzione B2B di gruppi di continuità UPS, soluzioni per il networking, cablaggio strutturato e armadi rack. Attraverso i marchi Eurogroup e 4Net ed in qualità di distributore ufficiale Planet Technology…
+  > 来源：http://www.4power.it/contatti/（抓取 2026-10-19）
+- **【第三方（LinkedIn 公司页摘要）】规模 11–50 人，2003 年成立，Casandrino (Napoli)**
+  > Settore: Vendita all'ingrosso · Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Casandrino, Napoli · Data di fondazione: 2003
+  > 来源：https://it.linkedin.com/company/4power-srl（抓取 2026-10-19）
+- **【行业媒体】定位「专业分销商而非多品牌分销」，B2B 间接渠道**
+  > 4Power nasce nel 2003 fondata da un gruppo di tecnici, progettisti e commerciali … puntando sul ruolo di distributore specialista e non distributore multimarca. L'offerta 4Power è centrata sul "business to business"
+  > 来源：https://www.snewsonline.com/aziende/4power/（抓取 2026-10-19）
+- **KP**：Pasquale Pirozzi（） +39 081 8193441〔https://www.cylex-italia.it/casandrino/4power-srl-10110617.html〕
+- **调研后定级**：A（原自动 B）——Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 4Power S.r.l. |
+| 总部/地址 | Casandrino (NA), 意大利 |
+| 其他 | Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核） |
+
+- **业务线**：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | GS-4210-24P4C | 24×GE PoE+ + 4 上联；PLANET 为 4 Combo，Saga 为 4×1G/2.5G SFP | STC-424DGGPM-280W | https://4power.it（2026-10-19） |
+| PLANET | GS-5220-16S8CR | 16×SFP + 8 Combo L2+；Saga 为 L3 档 $413 列表，报价按公式 | STC-4168XGGCM | https://4power.it（2026-10-19） |
+| PLANET | IGS-514PT | 工业 4 PoE + 1 上联非管理，近似 | STI-054GP | https://4power.it（2026-10-19） |
+| PLANET | LRP-111U-KIT | Long Reach PoE 延长器：Saga 暂无对应，SmartByte 亦无 | — | https://4power.it（2026-10-19） |
+
+- **触达通道（公开）**：role: 方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销；region: 意大利
+- **近况信号**：
+  - 自有品牌 4Net 已在做网络产品 → 贴牌/ODM 第二货源切入；PLANET 分销身份说明其接受台系价位与亚洲供货
+  - 4Net 贴牌试探（第二货源）：4Net 自有品牌 + PLANET 分销：同口数同 PoE 预算的 Marvell L2+ 机，中性包装贴 4Net 型号，价格低于 PLANET 进货价
+  - 样机并行测试：寄一台到 Casandrino 做 30 天并行测试（VLAN/ERPS/PoE 看门狗）
+- **风险/边界**：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）；Planet 首触邮件未发送（Elsa 账号待定）；Saga 群发已推送 6 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）
+- **邮件切入句（英文）**：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -117,7 +163,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pasquale Pirozzi | — | info@4power.it / direzione@4power.it | 用户表原值 | Clients/ 表 |
+| Pasquale Pirozzi | — | +39 081 8193441 | 调研核实（公开页） | https://www.cylex-italia.it/casandrino/4power-srl-10110617.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -134,10 +180,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（分销商/经销商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -147,15 +193,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -175,11 +221,10 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -189,11 +234,11 @@ updated: 2026-10-21
 ```text
 Hi Pasquale,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET GS-4210-24P4C at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+One question: Which switch model are you buying most often right now, and roughly how many units a month?
 
 If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -214,11 +259,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-04**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
 
 ---
 

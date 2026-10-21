@@ -1,4 +1,5 @@
 # woodcomm.ie
+**官方名称（调研核实）**：Wood Communications Ltd
 
 > **评级 B**　|　爱尔兰　|　档案编号 `SB-788`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-788
 rating: B
 rating_auto: B
+name_official: "Wood Communications Ltd"
 score: 33
 country: 爱尔兰
 region: 欧洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：爱尔兰的经销/集成（类型待核）；兴趣/在卖：Ethernet Switch
+- **是谁**：都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：Ethernet Switch）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱尔兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,37 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-788.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（woodcomm.ie；并档 Planet 渠道档案 PB-013）
+- **是谁**：都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET
+- **【卖方目录】PLANET 品牌页**
+  > Brands › Planet Technology（目录品牌页，检索摘要）
+  > 来源：https://www.woodcomm.ie/catalogue/brands/planet-technology/（抓取 2026-10-19）
+- **【第三方】L7 Ballymount Ind. Est., Dublin D12 FV07；约 16 人；数据中心基础设施分销**
+  > distributor IP/infrastructure/security for data centres, 16 staff（名录摘要）
+  > 来源：https://www.woodcomm.ie/（抓取 2026-10-19）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Wood Communications Ltd |
+| 总部/地址 | Dublin 12, 爱尔兰 |
+| 其他 | Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人 |
+
+- **业务线**：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | GSD-804P | PLANET 为 8 口其中 4 PoE 非管理；Saga 为 8 PoE + 2 SFP 管理型，功能覆盖、价位相近 | STC-28DGGPM（近似） | https://woodcomm.ie（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）；region: 爱尔兰
+- **近况信号**：
+  - 爱尔兰本地分销，给集成商供基础设施产品；PLANET 品牌页在目录内
+- **风险/边界**：PLANET 在其交换机销量占比；采购决策人；Planet 首触邮件未发送（Elsa 账号待定）
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：
+- **邮件切入句（英文）**：Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -108,18 +140,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求： | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -129,7 +160,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -153,19 +184,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Louise,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your PLANET GSD-804P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,0 +1,74 @@
+{
+ "code": "SB-1260",
+ "name_official": "TRIOTRONIK Computerhandels GmbH",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（triotronik.com；并档 Planet 渠道档案 PB-038）",
+ "summary": "施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1260，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "PLANET",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "卖方目录",
+   "claim": "PLANET 专页",
+   "quote": "TRIOTRONIK - PLANET online kaufen … Wer ist PLANET? … PLANET liefert preisgekrönte, energiesparende und leistungsstarke Netzwerkprodukte und -lösungen in 10 Hauptkategorien … LAN Switches, Industrial Ethernet, Power over Ethernet",
+   "url": "https://www.triotronik.com/de/Ueber-uns/Planet---4.8.html",
+   "date": "2026-10-19"
+  },
+  {
+   "kind": "Mikrotik 仓库",
+   "claim": "A-469 同户（人工 A）",
+   "quote": "A-469 TRIOTRONIK 奥地利 分销（MikroTik 官方）… +43 3172 42299 0 / mikrotik@triotronik.com … «der Netzwerkdistributor»",
+   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+   "date": "2026-10-19"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-038，W 批次调研 2026-10-19/20）"
+ },
+ "company_facts": {
+  "legal_name": "TRIOTRONIK Computerhandels GmbH",
+  "founded": "",
+  "hq": "Weiz, 奥地利",
+  "size": "",
+  "other": "Planet 渠道档案 PB-038（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）"
+ },
+ "business_lines": [
+  "分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "GS-4210-24P4C",
+   "spec": "24×GE PoE+ + 4 Combo",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://triotronik.com",
+   "date": "2026-10-19"
+  }
+ ],
+ "channels": {
+  "role": "分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）",
+  "region": "奥地利"
+ },
+ "signals": [
+  "奥地利唯一命中的专业网络分销（此前 AT 检索仅电商）；Mikrotik 仓库 A-469（人工 A）同户——本仓并档只补 PLANET 侧证据"
+ ],
+ "risks": [
+  "Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）",
+  "Planet 首触邮件未发送（Elsa 账号待定）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求："
+ },
+ "email_hook": "PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?"
+}

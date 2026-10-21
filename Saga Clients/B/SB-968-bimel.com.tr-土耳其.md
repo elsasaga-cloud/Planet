@@ -1,4 +1,5 @@
 # bimel.com.tr
+**官方名称（调研核实）**：Bimel Elektronik Mamulleri Pazarlama A.Ş.
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-968`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-968
 rating: B
 rating_auto: B
+name_official: "Bimel Elektronik Mamulleri Pazarlama A.Ş."
 score: 29
 country: 土耳其
 region: 土耳其
@@ -19,9 +21,9 @@ replies: 0
 followups: 2
 first_contact: 2025-09-30
 last_contact: 2025-10-29
-p1: STI-288DGGPM
+p1: STC-424DGGPM-280W
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）；兴趣/在卖：几个有名牌子的MC POE 商业FS 工业品较少；提到的品牌：FS
+- **是谁**：安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-968，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：几个有名牌子的MC POE 商业FS 工业品较少）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -68,7 +70,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-968.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（bimel.com.tr；并档 Planet 渠道档案 PB-031）
+- **是谁**：安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-968，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET, Netgear
+- **【卖方目录】PLANET 产品页（自有 PL- 货号）**
+  > bimel :: Ürün :: Planet - PL-GS-4210-24P4C … PL-GS-4210-24PL4C Yönetilebilir Gigabit PoE Switch
+  > 来源：https://www.bimel.com.tr/urun/pl-gs-4210-24p4c（抓取 2026-10-19）
+- **【卖方目录】工业 PoE 在售**
+  > Planet - PL-IGS-5225-8P2T2S Endüstriyel Tip Yönetilebilir Ethernet Switch … Planet - PL-WGS-5225-8P2SV Endüstriyel Duvar Tip Yönetilebilir Switch
+  > 来源：https://www.bimel.com.tr/urunler/bbyonetilebilir_endustriyel_tip_layer2_poe_switch/planet（抓取 2026-10-19）
+- **【第三方】品牌组合与定位**
+  > bilgisayar ve yan ürünleri, güvenlik ürünleri, aktif ve pasif network ürünlerinin dağıtıcılığını yapmaktadır. Assmann, Aten, Beek, Netgear, Planet, Ruckus Wireless başlıca markalarımızdan biri.
+  > 来源：https://www.find.com.tr/Company/bimelistanbulelektronikmamulleripazarlamalimitedsirketi（抓取 2026-10-19）
+- **【公司自述】联系方式**
+  > E-Posta: bimel@bimel.com.tr … İstanbul (Avrupa): (212) 347-7540 … İzmir: (232) 489-0755
+  > 来源：https://www.bimel.com.tr/tr/iletisim（抓取 2026-10-19）
+- **【第三方】规模与成立**
+  > Bimel Elektronik Mamulleri Pazarlama A.S. … incorporated on January 27, 1984. There are currently 80 (2026) people employed（EMIS）；LinkedIn 51-200，Founded 1984
+  > 来源：https://www.emis.com/php/company-profile/TR/Bimel_Elektronik_Mamulleri_Pazarlama_AS_en_3358519.html（抓取 2026-05-05）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-031，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Bimel Elektronik Mamulleri Pazarlama A.Ş. |
+| 总部/地址 | Ankara（分部 İstanbul ×2 / İzmir / Bursa）, 土耳其 |
+| 其他 | Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人 |
+
+- **业务线**：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | PL-GS-4210-24P4C | 24×GE PoE+ + 4 Combo | STC-424DGGPM-280W | https://bimel.com.tr（2026-10-19） |
+| PLANET | PL-IGS-5225-8P2T2S | 工业 8 口 PoE+2 SFP L2+ | STI-288DGGPM | https://bimel.com.tr（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）；region: 土耳其
+- **近况信号**：
+  - 土耳其 PLANET 主力分销（PL- 货号体系说明其为进口方）；80 人规模、家族制 A.Ş.，决策链短于 Arena 等巨头；仅 bimel@ 公开，无具名 PM → B
+- **风险/边界**：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人；Planet 首触邮件未发送（Elsa 账号待定）；Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：
+- **邮件切入句（英文）**：Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -128,17 +170,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求： | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -148,7 +191,7 @@ updated: 2026-10-21
 
 - **S**：土耳其主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -172,19 +215,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Goenuel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET PL-GS-4210-24P4C at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

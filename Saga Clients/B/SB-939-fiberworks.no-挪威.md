@@ -1,4 +1,5 @@
 # fiberworks.no
+**官方名称（调研核实）**：Fiberworks AS（fiberworks.no）
 
 > **评级 B**　|　挪威　|　档案编号 `SB-939`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-939
 rating: B
 rating_auto: B
+name_official: "Fiberworks AS（fiberworks.no）"
 score: 30
 country: 挪威
 region: 欧洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 15
 first_contact: 2024-05-09
 last_contact: 2025-10-08
-p1: STI-288DGGPM
-price_tier: 30%
-research: pending
+p1: STI-288GPM
+price_tier: 20%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：挪威的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：SFP 主要（自己的标）MC（几个牌子 光路） 工业FS（Oring)；交换机 SFP；光路等很多牌子的MC 周边产品；提到的品牌：Oring, FS
+- **是谁**：奥斯陆一家光纤产品专业分销商（收发器/WDM/光缆/仪表），有源设备货架同时上 PLANET 全线（9 子类）与 ORing 工业交换机。类型：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）。信号：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2240 NOK）、SGS-6310-24T4X（L3 24×GE + 4×10G 可堆叠）、TSN-5225-4T2S、IGS-6325-4T2X、GS-5220-16S8CR、IGS-6325-20T4C4X、GSD-1022UP、「L2+ 8x GE RJ45 802.3at PoE+ 2x 2.5G SFP wall-mount Ind. Switch w/LCD」；并列「ORing Industrial Switches」类目。Planet 渠道档案 PB-073 评级 B（需求：PLANET 独立类目 9 子类（工业 DIN 13 件、PoE 17 件）+ ORing 类目 → 工业/PoE 槽位真实且已双品牌；触达：salg@fiberworks.no + +47 23 03 53 30 公开（官网页脚），无具名 KP；体量：Oslo 单仓、ISO 9001/14001 的光纤专业分销 → 可赢；Mikrotik 仓 B-517（ORing 名录导入，R49 补到邮箱回升 B）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-939，挪威，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：SFP 主要（自己的标）MC（几个牌子 光路） 工业FS（Oring)；交换机 SFP；光路等很多牌子的MC 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/挪威；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-09 → 2025-10-08）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求：；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,51 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-939.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（fiberworks.no；并档 Planet 渠道档案 PB-073）
+- **是谁**：奥斯陆一家光纤产品专业分销商（收发器/WDM/光缆/仪表），有源设备货架同时上 PLANET 全线（9 子类）与 ORing 工业交换机。类型：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）。信号：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2240 NOK）、SGS-6310-24T4X（L3 24×GE + 4×10G 可堆叠）、TSN-5225-4T2S、IGS-6325-4T2X、GS-5220-16S8CR、IGS-6325-20T4C4X、GSD-1022UP、「L2+ 8x GE RJ45 802.3at PoE+ 2x 2.5G SFP wall-mount Ind. Switch w/LCD」；并列「ORing Industrial Switches」类目。Planet 渠道档案 PB-073 评级 B（需求：PLANET 独立类目 9 子类（工业 DIN 13 件、PoE 17 件）+ ORing 类目 → 工业/PoE 槽位真实且已双品牌；触达：salg@fiberworks.no + +47 23 03 53 30 公开（官网页脚），无具名 KP；体量：Oslo 单仓、ISO 9001/14001 的光纤专业分销 → 可赢；Mikrotik 仓 B-517（ORing 名录导入，R49 补到邮箱回升 B）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-939，挪威，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **在卖/在用品牌**：PLANET, ORing
+- **【官网】PLANET 独立类目及筛选计数（PoE 17 / DIN 13 / 工业温度 2）**
+  > PLANET leverer en bred portefølje av nettverksprodukter som svitsjer, rutere og aksesspunkter. Her presenterer vi noen få av dem. For komplett utvalg, gå til https://www.planet.com.tw/en … Ja, PoE output (PSE) (17) … For DIN-skinne (13) … Industriell temp. (2)
+  > 来源：https://www.fiberworks.no/en-us/produkter/aktivt-utstyr/planet-nettverksprodukter（抓取 2026-10-20）
+- **【官网】PLANET IGS-510TF 商品页与价格**
+  > IGS-510TF DC IP30 GigEthernet Switch 1x SFP - 4x RJ45, 12-48V DC, ind. temp. … Product nr: MC-PLANET-IGS-510TF … 2240.0
+  > 来源：https://www.fiberworks.no/en/planet/mc-planet-igs-510tf/igs-510tf-dc-ip30-gigethernet-switch-1x-sfp-4x-rj45-12-48v-dc-ind-temp（抓取 2026-10-20）
+- **【官网】PLANET SGS-6310-24T4X 商品页**
+  > PLANET L3 24x GE RJ45, 4x 10G SFP+ Stackable Managed Switch
+  > 来源：https://www.fiberworks.no/en-us/planet/pln-sgs-6310-24t4x/planet-l3-24x-ge-rj45-4x-10g-sfp-plus--stackable-managed-switch（抓取 2026-10-20）
+- **【官网】公司法务信息、联系方式、ISO 认证（页脚）**
+  > +47 23 03 53 30 · salg@fiberworks.no · Eikenga 11 0579 Oslo · Fiberworks AS Org. nr. 959 977 046 · ISO 9001:2015 … ISO 14001:2015
+  > 来源：https://www.fiberworks.no/（抓取 2026-10-20）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Fiberworks AS（fiberworks.no） |
+| 总部/地址 | Oslo（Eikenga 11, 0579 Oslo）, 挪威 |
+| 其他 | Planet 渠道档案 PB-073（2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json）；自有品牌：否；最大未知：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发） |
+
+- **业务线**：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | IGS-510TF | PLANET 工业 4×GE + 1×SFP 非管理（2240 NOK）；Saga 工业 4×GE + 2×SFP 非管理，同槽位 | STI-240GE | https://fiberworks.no（2026-10-19） |
+| PLANET | SGS-6310-24T4X | PLANET 为 L3 可堆叠；Saga STC-424XGGM 另有 L3 档（$269.1），不支持堆叠 | STC-424XGGM | https://fiberworks.no（2026-10-19） |
+| PLANET | TSN-5225-4T2S | PLANET 为 TSN 工业 4×GE + 2×SFP；Saga 为 L2+ 同口型，无 TSN，功能下位 | STI-240DGGM | https://fiberworks.no（2026-10-19） |
+| PLANET | IGS-6325-4T2X | 工业 L3 4×GE + 2×10G SFP+：Saga 工业 10G 上行款为 8×GE + 4×10G（STI-480XGGM），口型不同，不硬凑 | — | https://fiberworks.no（2026-10-19） |
+| PLANET | GS-5220-16S8CR | 16×SFP + 8 combo + 4×10G 全光：Saga 对位 STC-4168XGGCM 为 L3（$376.7），PLANET 为 L2+，仅作参考 | — | https://fiberworks.no（2026-10-19） |
+| PLANET | IGS-6325-20T4C4X | PLANET 工业 L3 20×GE + 4 combo + 4×10G；Saga 工业 16×GE + 2×10G SFP+（L2+ $269.1 / L3 $358.7）作近位 | STI-2160XGGM | https://fiberworks.no（2026-10-19） |
+| PLANET | GSD-1022UP | 8×PoE++ 非管理商用：Saga 商用线无非管理型号，不硬凑 | — | https://fiberworks.no（2026-10-19） |
+
+- **触达通道（公开）**：role: 分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）；region: 挪威
+- **近况信号**：
+  - 光纤专业分销的有源货架同时上 PLANET 全线（工业 DIN 13 件、PoE 17 件）与 ORing → 工业 PoE DIN 槽位两家都在它架上；Saga 工业 8×GE PoE+ + 2×SFP 管理型（STI-288GPM，$78.9 EXW）对位其 PLANET 工业 PoE 管理款与 ORing IGPS 级，SFP 上行与它的收发器主业天然搭配；工业 4×GE + 2×SFP 非管理（STI-240GE，$28.0）对位 IGS-510TF（2240 NOK）
+  - PLANET 侧预案（并档，不从本仓发）：工业 8×GE PoE+ + 2 SFP 管理 vs PLANET IGS-10020 级 / ORing IGPS 级；EXW
+  - 样机：1 台到 Oslo 仓做入库测试（其有 ISO 9001 流程）
+- **风险/边界**：PLANET 类目哪些 SKU 真有库存（默认只列在库品，价格多需登录）；工业/PoE 的终端客群（offshore / infrastruktur？）；Forsvar（国防）方案占比（守界）；选品负责人；Mikrotik 仓 B-517 首触是否已发（本仓不发）；Planet 首触邮件未发送（Elsa 账号待定）；Saga 群发已推送 15 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求：
+- **邮件切入句（英文）**：Your active-equipment shelf already carries both PLANET industrial/PoE units and ORing; a Marvell-based industrial PoE line with SFP uplinks at EXW gives you a third price point in the same DIN-rail slot, and it pairs with your transceiver business. For the industrial PoE DIN-rail units you list under PLANET and ORing, is the demand mostly 8-port Gigabit PoE+ with two SFP uplinks, or are customers asking for 10G SFP+ uplinks now?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -148,19 +194,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：其 PLANET 类目筛选 PoE PSE 17 件 + DIN 导轨 13 件 → 工业 PoE 管理型是其 PLANET 侧主量；STI-288GPM（8×GE PoE+ + 2×SFP，L2 管理，-40~75°C）同时对位 PLANET IGS-10020 级与 ORing IGPS-9084 级；分销/网店 → 20%（沿用 Planet 档案 PB-073）；需求： | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（品牌商/贴牌需求（OEM/ODM）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -168,7 +215,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Oring：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Oring：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -192,30 +239,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Trond,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Your active-equipment shelf already carries both PLANET industrial/PoE units and ORing; a Marvell-based industrial PoE line with SFP uplinks at EXW gives you a third price point in the same DIN-rail slot, and it pairs with your transceiver business. For the industrial PoE DIN-rail units you list under PLANET and ORing, is the demand mostly 8-port Gigabit PoE+ with two SFP uplinks, or are customers asking for 10G SFP+ uplinks now?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Oring class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 
