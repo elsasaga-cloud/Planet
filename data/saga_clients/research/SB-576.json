@@ -1,0 +1,59 @@
+{
+ "code": "SB-576",
+ "name_official": "Marmaris Bilişim（Marmaris/Muğla, TR；无域名、无邮箱，仅 WhatsApp）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Marmaris Bilişim（+90 533 358 54 80，WhatsApp 已加）——不会英文，说 fiber out，拿别的公司的产品册问了 PoE splitter、PON；无邮箱/域名；无跟进。马尔马里斯本地 IT 店；所询 PoE 分离器与 PON 非 Saga 主线（价格表无 splitter/PON）→ 仅表内信息，B 托底。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：不会英文；fiber out；问 PoE splitter、PON",
+   "quote": "不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（Marmaris Bilişim 店主，姓名待核）",
+   "role": "—",
+   "email": "—",
+   "phone": "+90 533 358 54 80（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Marmaris Bilişim（待核）",
+  "hq": "Marmaris / Muğla, Türkiye（推测）",
+  "size": "微型",
+  "other": "不会英文（用土耳其语）"
+ },
+ "business_lines": [
+  "本地 IT/网络服务（推测）"
+ ],
+ "channels": {
+  "电话": "+90 533 358 54 80（用户表，WhatsApp 已加）"
+ },
+ "signals": [
+  "光纤到户/PON 场景 → 可推 MC 与 2 光 8 电小机；splitter/PON 不供"
+ ],
+ "risks": [
+  "需求不在 Saga 主线；语言；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供"
+ },
+ "email_hook": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
+}

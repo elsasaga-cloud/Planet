@@ -1,4 +1,5 @@
 # STORM ICT
+**官方名称（调研核实）**：STORM ICT LLC（Pristina, 科索沃；storm-ict.com；克罗地亚 Storm Group 成员）
 
 > **评级 B**　|　科索沃　|　档案编号 `SB-043`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-043
 rating: B
 rating_auto: B
+name_official: "STORM ICT LLC（Pristina, 科索沃；storm-ict.com；克罗地亚 Storm Group 成员）"
 score: 57
 country: 科索沃
 region: 欧洲
@@ -20,20 +22,20 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：科索沃的经销/集成（类型待核）；兴趣/在卖：英文很好， 平时用工业级交换机，POE用的多， 带管理， 拿了彩页；英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页
+- **是谁**：科索沃普里什蒂纳的 ICT 系统集成商 Storm ICT LLC（2013 年成立；克罗地亚 Storm Group 成员；科索沃 + 北马其顿办公室；11–50 人（RocketReach 6）；业务：有源/无源网络基础设施、信息通信方案、专业服务、行业与应用方案；CEO Alban S. Beqiri（20+ 年 IT/金融业经验）；CTO Vegim Zhitija；Rruga Tahir Zajmi (Kosovatex) pn, 10000 Prishtinë；+383 38 732 731/732；info@storm-ict.com）。ISAF 记录：英文很好，平时用工业级交换机、PoE 用得多、带管理，拿了彩页；WhatsApp 两个号都加不上；无后续跟进。用户表邮箱 alban.beqiri@storm.ict.com 域名疑有误（公司域为 storm-ict.com）。（调研 2026-10-21；表内兴趣：英文很好， 平时用工业级交换机，POE用的多， 带管理， 拿了彩页；英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/科索沃；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-043.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：科索沃普里什蒂纳的 ICT 系统集成商 Storm ICT LLC（2013 年成立；克罗地亚 Storm Group 成员；科索沃 + 北马其顿办公室；11–50 人（RocketReach 6）；业务：有源/无源网络基础设施、信息通信方案、专业服务、行业与应用方案；CEO Alban S. Beqiri（20+ 年 IT/金融业经验）；CTO Vegim Zhitija；Rruga Tahir Zajmi (Kosovatex) pn, 10000 Prishtinë；+383 38 732 731/732；info@storm-ict.com）。ISAF 记录：英文很好，平时用工业级交换机、PoE 用得多、带管理，拿了彩页；WhatsApp 两个号都加不上；无后续跟进。用户表邮箱 alban.beqiri@storm.ict.com 域名疑有误（公司域为 storm-ict.com）。
+- **【官网】法人与地址**
+  > Storm ICT, A limited liability company Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovë +383 38 732 731 +383 38 732 732 info@storm-ict.com
+  > 来源：https://www.storm-ict.com/en/about-us/general-informations（抓取 2026-10-21）
+- **【LinkedIn】集团归属、规模、业务**
+  > STORM ICT LLC (Kosovo & North Macedonia Office) is a solution oriented company … STORM ICT is the newest member of the STORM Group - leading Croatian companies … Company size: 11-50 employees … Founded: 2013 … Specialties: … Active and passive network infrastructure
+  > 来源：https://www.linkedin.com/company/storm-ict-llc（抓取 2026-10-21）
+- **【LinkedIn】CEO**
+  > Alban S. Beqiri - CEO at STORM ICT LLC (member of Storm Group) … 20+ years of professional experience in IT and Financial Industry … CEO STORM ICT LLC Sep 2013 - Present … Kosovo … Sep 2020 - Present … North Macedonia
+  > 来源：https://www.linkedin.com/in/albanbeqiri/（抓取 2025-09-29）
+- **【用户表】ISAF：英文好；用工业级管理 PoE；WA 加不上**
+  > 英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Alban S. Beqiri（CEO（LinkedIn 公开））alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核） +383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）〔https://www.linkedin.com/in/albanbeqiri/〕
+- **KP**：Vegim Zhitija（CTO（名录公开））— —〔https://www.zoominfo.com/c/storm-ict-llc/430375477〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | STORM ICT L.L.C. |
+| 成立 | 2013 |
+| 总部/地址 | Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovo（+383 38 732 731；info@storm-ict.com） |
+| 其他 | Storm Group（克罗地亚）成员；北马其顿办公室（2020） |
+
+- **业务线**：有源/无源网络基础设施集成；ICT 方案、专业服务与应用方案（金融/企业）
+- **触达通道（公开）**：网站: https://www.storm-ict.com/；电话: +383 38 732 731 / 732（公开）；邮箱（公开）: info@storm-ict.com；LinkedIn: https://www.linkedin.com/company/storm-ict-llc
+- **近况信号**：
+  - 明确「平时用工业级管理型 PoE」→ 直接报 STI-288DGGPM；CEO 英文好、ISAF 主动交流；集团背景可带北马其顿项目
+- **风险/边界**：科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对
+- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）
+- **邮件切入句（英文）**：Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -80,6 +115,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Alban S. Beqiri | CEO（LinkedIn 公开） | alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核） / +383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上） | 调研核实（公开页） | https://www.linkedin.com/in/albanbeqiri/ |
+| Vegim Zhitija | CTO（名录公开） | — / — | 调研核实（公开页） | https://www.zoominfo.com/c/storm-ict-llc/430375477 |
 | Alban Beqiri | CEO | alban.beqiri@storm.ict.com / info@storm-ict.com / +38338732732 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -97,9 +134,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -109,7 +146,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -117,7 +154,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -141,7 +178,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -151,9 +187,9 @@ updated: 2026-10-21
 ```text
 Hi Alban,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

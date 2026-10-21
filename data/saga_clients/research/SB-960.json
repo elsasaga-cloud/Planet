@@ -1,0 +1,60 @@
+{
+ "code": "SB-960",
+ "name_official": "LLT d.o.o. / Solarstore.hr（克罗地亚；联系人 Ildar Salimov，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（太阳能零售）",
+ "summary": "阿里巴巴 RFQ：Ildar Salimov（Director，ildar.i.salimov@gmail.com，+385 92 392 9537，WhatsApp 已加）——100 pcs OSW1x2 latching 12V switch；无跟进。需求为光开关组件（非以太网交换机），公司域名为太阳能零售 → C（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "RFQ：100 pcs OSW1x2 latching 12V switch",
+   "quote": "100 pcs OSW1x2 latching 12V switch / solarstore.hr / Mr. Ildar Salimov / Director",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ildar Salimov",
+   "role": "Director（用户表）",
+   "email": "ildar.i.salimov@gmail.com（用户表）",
+   "phone": "+385 92 392 9537（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "产品外 + 区域规则：RFQ 为「OSW1x2 latching 12V」= 1×2 锁存式光开关（光纤无源/机电组件）×100，Saga 不供；域名 solarstore.hr 为太阳能零售站，且克罗地亚属不主动开发的小国",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（需求判断 → 产品外降 C）"
+ },
+ "company_facts": {
+  "legal_name": "LLT d.o.o.（待核）",
+  "hq": "Croatia",
+  "size": "待核",
+  "other": "solarstore.hr 太阳能零售"
+ },
+ "business_lines": [
+  "太阳能设备零售（域名）",
+  "（RFQ）光开关组件"
+ ],
+ "channels": {
+  "网站": "https://solarstore.hr/"
+ },
+ "signals": [
+  "需求为光开关组件 → 不匹配"
+ ],
+ "risks": [
+  "产品外 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

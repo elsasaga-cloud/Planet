@@ -1,0 +1,59 @@
+{
+ "code": "SB-286",
+ "name_official": "（身份未明）Alex Malinovich —— simplelogin.com 匿名别名邮箱（用户表国家：美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "无企业域名（邮箱别名服务）",
+ "summary": "自建站询盘：Alex Malinovich（unpledged154@simplelogin.com，WhatsApp 已加）询「2 光 8 PoE 管理 Vitesse」机型；无跟进。simplelogin.com 为 Proton 旗下邮箱别名服务，非公司域名 → 公司身份/规模无法核实，仅表内信息；B 托底（有可达邮箱 + 明确型号需求）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "自建站询盘：2 光 8 PoE 管理 Vitesse；别名邮箱",
+   "quote": "2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Alex Malinovich",
+   "role": "（自建站询盘人）",
+   "email": "unpledged154@simplelogin.com（用户表）",
+   "phone": "—（WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "hq": "（用户表：美国）",
+  "size": "待核",
+  "other": "别名邮箱，公司不明"
+ },
+ "business_lines": [
+  "（待核）"
+ ],
+ "channels": {
+  "邮箱": "unpledged154@simplelogin.com（用户表）"
+ },
+ "signals": [
+  "明确询 2 光 8 PoE 管理型 → 先问清公司与用途再报价"
+ ],
+ "risks": [
+  "身份不明；美国关税；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）"
+ },
+ "email_hook": "On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?"
+}

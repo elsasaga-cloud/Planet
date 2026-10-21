@@ -1,0 +1,66 @@
+{
+ "code": "SB-380",
+ "name_official": "BTM Electronic（btmelectronics.com；联系人 Mehmet Karakoyunlu，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "身份不符",
+ "summary": "ISAF 记录：Mehmet Karakoyunlu（mehmetkarakoyunlu@gmail.com，+90 532 352 48 95，WhatsApp 已加）——没做过多交谈；备注「可调查一下网站：电子消费品」；无跟进。核对：btmelectronics.com 名录归 Shalimar Electronics（巴基斯坦，+92 321 816 0009），土耳其另有同名无关公司（BTM 保温材料、BTM Teknoloji Balıkesir 等）。采购主体不明 → C（资料保留）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "名录",
+   "claim": "域名归属",
+   "quote": "Shalimar Electronics's official website is www.btmelectronics.com … Phone number: +92 3218160009",
+   "url": "https://www.zoominfo.com/c/shalimar-electronics/1271784510",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：未深谈；网站为消费电子",
+   "quote": "没做过多交谈，可调查一下网站 / 网站：电子消费品 / 90 53235 24895 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Mehmet Karakoyunlu",
+   "role": "（ISAF 名片；职务待核）",
+   "email": "mehmetkarakoyunlu@gmail.com（用户表）",
+   "phone": "+90 532 352 48 95（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "行业外/主体不明：btmelectronics.com 在名录中归属巴基斯坦 Shalimar Electronics（+92）的消费电子站；联系人仅 Gmail；用户表亦注「网站：电子消费品」——无可核实的网络设备业务主体",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名核对 → 主体不明降 C）"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "hq": "（用户表：土耳其，+90 532）",
+  "size": "待核",
+  "other": "域名归属与联系人不一致"
+ },
+ "business_lines": [
+  "消费电子（网站）"
+ ],
+ "channels": {
+  "网站": "http://btmelectronics.com/（归属存疑）"
+ },
+ "signals": [
+  "需先在 WhatsApp 确认公司名与业务"
+ ],
+ "risks": [
+  "主体不明 → C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "主体确认前不推进"
+ },
+ "email_hook": "（不主动发送）"
+}

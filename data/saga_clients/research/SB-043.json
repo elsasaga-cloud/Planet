@@ -1,0 +1,92 @@
+{
+ "code": "SB-043",
+ "name_official": "STORM ICT LLC（Pristina, 科索沃；storm-ict.com；克罗地亚 Storm Group 成员）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "科索沃普里什蒂纳的 ICT 系统集成商 Storm ICT LLC（2013 年成立；克罗地亚 Storm Group 成员；科索沃 + 北马其顿办公室；11–50 人（RocketReach 6）；业务：有源/无源网络基础设施、信息通信方案、专业服务、行业与应用方案；CEO Alban S. Beqiri（20+ 年 IT/金融业经验）；CTO Vegim Zhitija；Rruga Tahir Zajmi (Kosovatex) pn, 10000 Prishtinë；+383 38 732 731/732；info@storm-ict.com）。ISAF 记录：英文很好，平时用工业级交换机、PoE 用得多、带管理，拿了彩页；WhatsApp 两个号都加不上；无后续跟进。用户表邮箱 alban.beqiri@storm.ict.com 域名疑有误（公司域为 storm-ict.com）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法人与地址",
+   "quote": "Storm ICT, A limited liability company Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovë +383 38 732 731 +383 38 732 732 info@storm-ict.com",
+   "url": "https://www.storm-ict.com/en/about-us/general-informations",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "集团归属、规模、业务",
+   "quote": "STORM ICT LLC (Kosovo & North Macedonia Office) is a solution oriented company … STORM ICT is the newest member of the STORM Group - leading Croatian companies … Company size: 11-50 employees … Founded: 2013 … Specialties: … Active and passive network infrastructure",
+   "url": "https://www.linkedin.com/company/storm-ict-llc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "CEO",
+   "quote": "Alban S. Beqiri - CEO at STORM ICT LLC (member of Storm Group) … 20+ years of professional experience in IT and Financial Industry … CEO STORM ICT LLC Sep 2013 - Present … Kosovo … Sep 2020 - Present … North Macedonia",
+   "url": "https://www.linkedin.com/in/albanbeqiri/",
+   "date": "2025-09-29"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ISAF：英文好；用工业级管理 PoE；WA 加不上",
+   "quote": "英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Alban S. Beqiri",
+   "role": "CEO（LinkedIn 公开）",
+   "email": "alban.beqiri@storm.ict.com（用户表；域名疑误，应为 storm-ict.com——待核）",
+   "phone": "+383 38 732 732（公司）；+383 49 637 000（用户表，WA 加不上）",
+   "source": "https://www.linkedin.com/in/albanbeqiri/"
+  },
+  {
+   "name": "Vegim Zhitija",
+   "role": "CTO（名录公开）",
+   "email": "—",
+   "phone": "—",
+   "source": "https://www.zoominfo.com/c/storm-ict-llc/430375477"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
+ },
+ "company_facts": {
+  "legal_name": "STORM ICT L.L.C.",
+  "founded": "2013",
+  "hq": "Rruga Tahir Zajmi (KOSOVATEX), pn, 10000 Prishtinë, Kosovo（+383 38 732 731；info@storm-ict.com）",
+  "size": "11–50（LinkedIn）；6（RocketReach）",
+  "other": "Storm Group（克罗地亚）成员；北马其顿办公室（2020）"
+ },
+ "business_lines": [
+  "有源/无源网络基础设施集成",
+  "ICT 方案、专业服务与应用方案（金融/企业）"
+ ],
+ "channels": {
+  "网站": "https://www.storm-ict.com/",
+  "电话": "+383 38 732 731 / 732（公开）",
+  "邮箱（公开）": "info@storm-ict.com",
+  "LinkedIn": "https://www.linkedin.com/company/storm-ict-llc"
+ },
+ "signals": [
+  "明确「平时用工业级管理型 PoE」→ 直接报 STI-288DGGPM；CEO 英文好、ISAF 主动交流；集团背景可带北马其顿项目"
+ ],
+ "risks": [
+  "科索沃物流/清关；WhatsApp 加不上（走邮件 info@ + CEO）；邮箱域名需核对"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "集成商 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）对应「工业级 + PoE + 管理」；16 口 STI-21616GP（$177.5）"
+ },
+ "email_hook": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?"
+}

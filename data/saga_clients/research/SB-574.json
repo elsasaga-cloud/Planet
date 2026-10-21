@@ -1,0 +1,59 @@
+{
+ "code": "SB-574",
+ "name_official": "Holil（ISAF 名片，TR；无域名、无邮箱，仅 WhatsApp）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "ISAF 记录：Holil（+90 538 985 94 29，WhatsApp 已加）——要 PoE 交换机、拿了彩页；无邮箱、无公司名/域名；无跟进。仅 WhatsApp 可达 → 仅表内信息，B 托底（有明确 PoE 需求 + 可达渠道）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ISAF：要 PoE 交换机，拿彩页；仅电话",
+   "quote": "要PoE交换机 拿了彩页 / 90 538 985 9429 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Holil",
+   "role": "（ISAF 名片）",
+   "email": "—",
+   "phone": "+90 538 985 94 29（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "hq": "Türkiye（城市待核）",
+  "size": "待核",
+  "other": "仅 WhatsApp"
+ },
+ "business_lines": [
+  "（待核）"
+ ],
+ "channels": {
+  "电话": "+90 538 985 94 29（用户表，WhatsApp 已加）"
+ },
+ "signals": [
+  "明确要 PoE 交换机 → WhatsApp 发 8 口 PoE 报价并问公司名"
+ ],
+ "risks": [
+  "无邮箱/公司信息；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）"
+ },
+ "email_hook": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 30,8 USD, yönetilebilir sürüm 62,2 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
+}

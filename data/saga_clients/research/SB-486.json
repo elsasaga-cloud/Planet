@@ -1,0 +1,59 @@
+{
+ "code": "SB-486",
+ "name_official": "Bora Teknoloji Dünyası（Ağrı, TR；无域名，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "商业级 2 光 8 PoE 10 pcs；自建站 + WhatsApp",
+   "quote": "商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Bora Erim",
+   "role": "业主（推测）",
+   "email": "boraerim@gmail.com（用户表）",
+   "phone": "+90 542 587 66 85（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Bora Teknoloji Dünyası（待核）",
+  "hq": "Ağrı, Türkiye",
+  "size": "微型门店",
+  "other": "仅 Gmail"
+ },
+ "business_lines": [
+  "IT/安防零售安装（推测，待核）"
+ ],
+ "channels": {
+  "电话": "+90 542 587 66 85（用户表，WhatsApp 已加）"
+ },
+ "signals": [
+  "10 台 2 光 8 PoE 商业机 = 可立即成交的小单；价格敏感地区"
+ ],
+ "risks": [
+  "微型、无域名；运费占比高；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 25,
+  "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）"
+ },
+ "email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?"
+}
