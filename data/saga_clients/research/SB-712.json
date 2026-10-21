@@ -3,15 +3,27 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mavialarm.com.tr，快照 2026-10-21）",
- "summary": "土耳其安防集成/经销：官网「Mavi Alarm Kamera ve Güvenlik Sistemleri」；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换；产品页：urunler；群发 1 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "土耳其 Mavi Alarm（摄像系统、防盗报警、火灾探测、门禁与工业方案安装商；Hikvision/Dahua/Uniview/Axis；「Ücretsiz Teklif İsteyin」）；表内 1 次跟进无回复。",
+ "type": "安防安装商（土耳其）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "Uniview",
+  "Axis"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
    "claim": "官网标题：Mavi Alarm Kamera ve Güvenlik Sistemleri；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换",
    "quote": "Güvenlik sistemleri kategorisinde kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri üzerine faaliyet gösteriyoruz.",
+   "url": "https://mavialarm.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Mavi Alarm 定位",
+   "quote": "Mavi Alarm Kamera ve Güvenlik Sistemleri ; kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri ; Endüstriyel Çözümler",
    "url": "https://mavialarm.com.tr/",
    "date": "2026-10-21"
   }
@@ -22,29 +34,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换"
+  "摄像 / 报警 / 火灾探测 / 门禁安装（土耳其）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防安装商（土耳其）",
   "region": "土耳其",
   "contact": "info@mavialarm.com.tr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://mavialarm.com.tr/）"
+  "官网：Güvenlik sistemleri kategorisinde kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri ; Endüstriyel Çözümler；kw fiber 15 / cctv 7",
+  "表内：无兴趣备注"
  ],
- "risks": [],
+ "risks": [
+  "安装商（单项目量小）；Hikvision/Dahua 自带 PoE 价格基准低；守界备注：火灾报警本体不碰；1 次无回复"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "摄像/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your industrial-site projects use most?"
 }

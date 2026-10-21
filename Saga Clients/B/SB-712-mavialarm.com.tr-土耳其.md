@@ -2,7 +2,7 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-712`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 1 次（2025-10-29 → 2025-10-29）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防安装商（土耳其）（推断）　|　**历史关系**：推送 1 次（2025-10-29 → 2025-10-29）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-712
@@ -12,7 +12,7 @@ score: 34
 country: 土耳其
 region: 土耳其
 website: mavialarm.com.tr
-type: 安防集成/经销
+type: 安防安装商（土耳其）
 tier_tags: ["A优质名单(土耳其客户)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其安防集成/经销：官网「Mavi Alarm Kamera ve Güvenlik Sistemleri」；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换；产品页：urunler；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：土耳其 Mavi Alarm（摄像系统、防盗报警、火灾探测、门禁与工业方案安装商；Hikvision/Dahua/Uniview/Axis；「Ücretsiz Teklif İsteyin」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-29 → 2025-10-29）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：摄像/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | mavialarm.com.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | mavialarm.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防安装商（土耳其） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | IASF 2025 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -56,26 +56,32 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（mavialarm.com.tr，快照 2026-10-21）
-- **是谁**：土耳其安防集成/经销：官网「Mavi Alarm Kamera ve Güvenlik Sistemleri」；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换；产品页：urunler；群发 1 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：土耳其 Mavi Alarm（摄像系统、防盗报警、火灾探测、门禁与工业方案安装商；Hikvision/Dahua/Uniview/Axis；「Ücretsiz Teklif İsteyin」）；表内 1 次跟进无回复。
+- **类型**：安防安装商（土耳其）
+- **在卖/在用品牌**：Hikvision, Dahua, Uniview, Axis
 - **【官网快照】官网标题：Mavi Alarm Kamera ve Güvenlik Sistemleri；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换**
   > Güvenlik sistemleri kategorisinde kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri üzerine faaliyet gösteriyoruz.
   > 来源：https://mavialarm.com.tr/（抓取 2026-10-21）
+- **【官网快照】Mavi Alarm 定位**
+  > Mavi Alarm Kamera ve Güvenlik Sistemleri ; kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri ; Endüstriyel Çözümler
+  > 来源：https://mavialarm.com.tr/（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；光纤 / 媒体转换
-- **触达通道（公开）**：role: 安防集成/经销；region: 土耳其；contact: info@mavialarm.com.tr
+- **业务线**：摄像 / 报警 / 火灾探测 / 门禁安装（土耳其）
+- **触达通道（公开）**：role: 安防安装商（土耳其）；region: 土耳其；contact: info@mavialarm.com.tr
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://mavialarm.com.tr/）
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Güvenlik sistemleri kategorisinde kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri ; Endüstriyel Çözümler；kw fiber 15 / cctv 7
+  - 表内：无兴趣备注
+- **风险/边界**：安装商（单项目量小）；Hikvision/Dahua 自带 PoE 价格基准低；守界备注：火灾报警本体不碰；1 次无回复
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——摄像/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **邮件切入句（英文）**：For the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your industrial-site projects use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -128,7 +134,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：摄像/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防安装商（土耳其）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -183,9 +189,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your industrial-site projects use most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

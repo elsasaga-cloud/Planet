@@ -2,7 +2,7 @@
 
 > **评级 B**　|　捷克　|　档案编号 `SB-732`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：推送 7 次（2025-03-13 → 2025-10-08）　|　**所在清单**：A优质名单(CZ)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）（推断）　|　**历史关系**：推送 7 次（2025-03-13 → 2025-10-08）　|　**所在清单**：A优质名单(CZ)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-732
@@ -12,14 +12,14 @@ score: 34
 country: 捷克
 region: 欧洲
 website: schrack.cz
-type: 分销商/经销商
+type: 电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）
 tier_tags: ["A优质名单(CZ)"]
 deal: no
 replies: 0
 followups: 7
 first_contact: 2025-03-13
 last_contact: 2025-10-08
-p1: STC-28DGGPM
+p1: STI-280GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：捷克分销商/经销商：官网「Schrack Technik | Výrobce elektroinstalačních materiálů」（cs）；品类词：网络交换 / PoE；站内型号：CZ15039137；表内「销售平台 工商业 台湾厂商的」；群发 7 次、无回复。（调研 2026-10-21；表内兴趣：销售平台 工商业 台湾厂商的）
+- **是谁**：捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。（调研 2026-10-21；表内兴趣：销售平台 工商业 台湾厂商的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-13 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | schrack.cz（取自域名，公司全名待核） | 推断 |
 | 国家 | 捷克 | 事实（用户表）|
 | 网站/域名 | schrack.cz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 电气材料集团分销商（捷克，自有标网络线来自台湾 ODM） | 推断（据兴趣/备注关键词） |
 | 联系人 | Jakub Drbohlav / 可以尝试多跟进一下 | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 销售平台 工商业 台湾厂商的 | 事实（用户表） |
@@ -55,31 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（schrack.cz，快照 2026-10-21）
-- **是谁**：捷克分销商/经销商：官网「Schrack Technik | Výrobce elektroinstalačních materiálů」（cs）；品类词：网络交换 / PoE；站内型号：CZ15039137；表内「销售平台 工商业 台湾厂商的」；群发 7 次、无回复。
-- **类型**：分销商/经销商
+- **是谁**：捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。
+- **类型**：电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）
 - **【官网快照】官网标题：Schrack Technik | Výrobce elektroinstalačních materiálů；品类词 网络交换 / PoE**
   > Nejvhodnější elektromateriály již více jak 30 let v ČR. S námi nakupujete kvalitu, kterou nám i Vy pomáháte stále zlepšovat svou praxí.
   > 来源：https://www.schrack.cz/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 销售平台 工商业 台湾厂商的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Schrack 定位**
+  > Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR
+  > 来源：https://www.schrack.cz/（抓取 2026-10-21）
+- **【用户表】台湾厂商的 销售平台**
+  > 销售平台 工商业 台湾厂商的；可以尝试多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jakub Drbohlav（）p.simek@schrack.cz 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 捷克 |
 | 其他 | 官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 捷克；contact: p.simek@schrack.cz、v.jurek@schrack.cz
+- **业务线**：电气安装材料制造与分销（集团）；网络 / 数据产品线（自有标）
+- **触达通道（公开）**：role: 电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）；region: 捷克；contact: p.simek@schrack.cz、v.jurek@schrack.cz
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.schrack.cz/）
-  - 官网公开邮箱：info@schrack.cz、j.bouska@schrack.cz、johndoe@domain.com
-  - 用户表兴趣/备注：销售平台 工商业 台湾厂商的
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Jakub, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 官网：Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR
+  - 表内：销售平台 工商业 台湾厂商的；KP Jakub Drbohlav；可以尝试多跟进一下
+- **风险/边界**：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复
+- **Saga 对位结论**：P1 STI-280GE（20% 档）——Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）
+- **邮件切入句（英文）**：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -129,7 +136,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jakub Drbohlav | — | p.simek@schrack.cz / v.jurek@schrack.cz | 用户表原值 | Clients/ 表 |
+| Jakub Drbohlav | — | p.simek@schrack.cz | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -145,17 +152,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-280GE | 深挖对位：Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5） | $46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -165,7 +173,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-280GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -193,25 +201,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Jakub,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jakub, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

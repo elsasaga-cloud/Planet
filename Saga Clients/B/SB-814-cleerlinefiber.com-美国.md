@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-814`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
-> **类型**：网络/安防经销或集成（官网未见角色词，待核）（推断）　|　**历史关系**：推送 18 次（2024-05-09 → 2025-10-28）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光纤品牌商（美国，有源配件现光路）（推断）　|　**历史关系**：推送 18 次（2024-05-09 → 2025-10-28）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-814
@@ -12,15 +12,15 @@ score: 32
 country: 美国
 region: 北美
 website: cleerlinefiber.com
-type: 网络/安防经销或集成（官网未见角色词，待核）
+type: 光纤品牌商（美国，有源配件现光路）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
 deal: no
 replies: 0
 followups: 18
 first_contact: 2024-05-09
 last_contact: 2025-10-28
-p1: STC-424XGGPM-280W
-price_tier: 25%
+p1: STI-110GE
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国网络/安防经销或集成（官网未见角色词，待核）：官网「cleerlinefiber.com」；表内「工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商」；群发 18 次、无回复。（调研 2026-10-21；表内兴趣：工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商）
+- **是谁**：美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。（调研 2026-10-21；表内兴趣：工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-28）
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | cleerlinefiber.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | cleerlinefiber.com / clrtec.com / cleerline.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 网络/安防经销或集成（官网未见角色词，待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 光纤品牌商（美国，有源配件现光路） | 推断（据兴趣/备注关键词） |
 | 联系人 | 光路是供应商 / Ryan Prentice / Partner | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS 10GMC SFP 周边产品 / 工业FS 10GMC SFP 周边产品<br>光路是供应商 | 事实（用户表） |
@@ -65,30 +65,35 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（cleerlinefiber.com，快照 2026-10-21）
-- **是谁**：美国网络/安防经销或集成（官网未见角色词，待核）：官网「cleerlinefiber.com」；表内「工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商」；群发 18 次、无回复。
-- **类型**：网络/安防经销或集成（官网未见角色词，待核）
+- **是谁**：美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。
+- **类型**：光纤品牌商（美国，有源配件现光路）
+- **在卖/在用品牌**：光路
 - **【官网快照】官网标题：cleerlinefiber.com**
   > 来源：https://cleerlinefiber.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】工业 FS 10G MC SFP；光路是供应商**
+  > 工业FS 10GMC SFP 周边产品 / 光路是供应商
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ryan Prentice（）ryan@cleerline.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 网络/安防经销或集成（官网未见角色词，待核）；region: 美国；contact: info@clrtec.com、ryan@cleerline.com
+- **业务线**：SSF 光纤 / 有源配件（自有品牌 Cleerline）
+- **触达通道（公开）**：role: 光纤品牌商（美国，有源配件现光路）；region: 美国；contact: info@clrtec.com、ryan@cleerline.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://cleerlinefiber.com/）
-  - 用户表兴趣/备注：工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商
-- **风险/边界**：群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（25% 档）——24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Ryan, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 表内：工业 FS 10GMC SFP 周边产品 / 光路是供应商；KP Ryan Prentice / Partner
+  - 快照：内容为空（cleerlinefiber.com / clrtec.com）
+- **风险/边界**：现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）
+- **邮件切入句（英文）**：Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -141,7 +146,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ryan Prentice | — | info@clrtec.com / ryan@cleerline.com | 用户表原值 | Clients/ 表 |
+| Ryan Prentice | — | ryan@cleerline.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -158,27 +163,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/安防经销或集成（官网未见角色词，待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-110GE | 深挖对位：有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（光纤品牌商（美国，有源配件现光路）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 18 次无回复，邮件通道疲劳
-- **O**：P1 STC-424XGGPM-280W 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -206,14 +212,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
 
 ```text
 Hi Ryan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ryan, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $188.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（perkotek.com，快照 2026-10-21）",
- "summary": "土耳其电商/网店：官网「Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri」（tr）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：SC702、UK-560、CTC-940、TR3800；群发 1 次、无回复。",
- "type": "电商/网店",
+ "summary": "土耳其 Perkotek（指纹识别/人脸识别考勤（PDKS）、闸机、停车道闸、X 光机与手持探测器品牌；CCTV 37 处；KP cenk@）；表内 1 次跟进无回复。",
+ "type": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,54 @@
    "quote": "Parmak izi okuma biyometrik sistemler parmak izi okuyucu yüz tanıma personel takip sistemi pdks turnike sistemi otopark bariyeri ve üst arama dedektörü.",
    "url": "https://www.perkotek.com/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Perkotek 定位",
+   "quote": "Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak İzi Okuma Sistemi ; Personel Takip Sistemi ; Turnike Sistemi",
+   "url": "https://www.perkotek.com/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Cenk",
+   "title": "（职务待核）",
+   "email": "cenk@perkotek.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 perkotek.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "指纹 / 人脸识别考勤、闸机、道闸（自有品牌 Perkotek）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "门禁/考勤系统品牌商（土耳其，PoE 为配套）",
   "region": "土耳其",
   "contact": "cenk@perkotek.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.perkotek.com/）",
-  "官网公开邮箱：info@perkotek.com"
+  "官网：Perkotek Parmak İzi Okuma | X Ray Cihazı | Turnike Ve Otopark Bariyeri ; Parmak izi okuma biyometrik sistemler ; personel takip sistemi pdks turnike sistemi otopark bariyeri；kw cctv 37 / access control 3",
+  "KP cenk@perkotek.com（表内）"
  ],
- "risks": [],
+ "risks": [
+  "PoE 为门禁系统配套（量随项目）；土耳其汇率敏感；1 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "官网快照对位：PoE 词频 1、监控 37 → 24 口 PoE L2+ 走量款（来源：官网快照；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "门禁/闸机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Perkotek 标；工业 4 PoE + 1 SFP STI-154GP（$40.8）用于停车场柜"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Cenk, for the PoE switches that power your face-recognition terminals, turnstiles and car-park cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE units under the Perkotek label from small lots, CE/RoHS — which PoE SKU ships most with your access-control projects?"
 }

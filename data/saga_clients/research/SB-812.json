@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cbo-it.de，快照 2026-10-21）",
- "summary": "德国制造商（同行或 OEM 客户待核）：官网「Offizieller BlueOptics SFP Hersteller」（de）；品类词：光纤 / 媒体转换 / 网络交换 / PoE；站内型号：QSFP28、SFP28、QSFP56、SFP56；表内「工业FS」；群发 19 次、无回复。",
- "type": "制造商（同行或 OEM 客户待核）",
+ "summary": "德国 CBO GmbH（「Offizieller BlueOptics SFP Hersteller」：BlueOptics 品牌光模块（SFP/QSFP28/SFP56）、DAC/AOC、光纤跳线、MPO/MTP；表内「工业 FS」「质量高」；KP Sandra Go（Project Manager））；群发 19 次无回复。疑似与 SB-758（BlueOptics）为同一实体，待人工归并确认。",
+ "type": "光模块品牌商（德国，BlueOptics，工业 FS 为副线）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "BlueOptics"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,42 +23,62 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "CBO 定位",
+   "quote": "Offizieller BlueOptics SFP Hersteller ; BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel",
+   "url": "https://www.blueoptics.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 质量高",
+   "quote": "工业FS；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Sandra Go",
+   "title": "Project Manager",
+   "email": "info@cbo-it.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 cbo-it.de，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "光模块 / DAC / AOC / 跳线（自有品牌 BlueOptics）"
  ],
  "channels": {
-  "role": "制造商（同行或 OEM 客户待核）",
+  "role": "光模块品牌商（德国，BlueOptics，工业 FS 为副线）",
   "region": "德国",
   "contact": "info@cbo-it.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.blueoptics.de/）",
-  "官网公开邮箱：info@blueoptics.de、info@cbo-it.de、security@blueoptics.de",
-  "用户表兴趣/备注：工业FS"
+  "官网：Offizieller BlueOptics SFP Hersteller ; Kaufen Sie BlueOptics SFP, SFP+, QSFP und QSFP28 Transceiver, DAC und AOC Kabel direkt ab Lager；kw sfp 397 / 10g 62 / 2.5g 9 / oem 8",
+  "表内：工业 FS；质量高；KP Sandra Go / Project Manager"
  ],
  "risks": [
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "官网自称制造/自有品牌：先确认是同行厂商还是 OEM 买家"
+  "疑似重复：SB-758（BlueOptics）与本实体（cbo-it.de）待人工归并确认",
+  "主业光模块（Saga 不供），工业 FS 为副线；19 次无回复 → 改向 Project Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-280GE",
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：制造商（同行或 OEM 客户待核）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "BlueOptics 标工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）贴标；光模块/DAC Saga 不供"
  },
- "email_hook": "Sandra, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Sandra, for an industrial switch line to complement BlueOptics transceivers, we can supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) under the BlueOptics label from small lots — is an industrial switch SKU on your roadmap?"
 }

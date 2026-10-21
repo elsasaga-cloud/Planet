@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（madalix.co.il，快照 2026-10-21）",
- "summary": "以色列工业自动化/IoT 方案商：官网「Industrial Computers And Monitors Supplier | Madalix」（en）；品类词：工业自动化 / OT 网络；产品页：15-industrial-touch-monitor、13-3-inch-industrial-montior、12-1-industrial-touch-monitor-1、rco-1000-compact-size-industrial-fanless；表内「工业FS 有迈威的」；群发 14 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。",
+ "type": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Maiwe"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,41 +23,61 @@
    "quote": "工业FS 有迈威的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Madalix 定位",
+   "quote": "Industrial Computers And Monitors Supplier | Madalix ; Industrial computing solutions provider in Israel",
+   "url": "https://www.madalix.co.il/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 有迈威",
+   "quote": "工业FS 有迈威的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Daniel",
+   "title": "（职务待核）",
+   "email": "daniel@madalix.co.il",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 madalix.co.il，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络"
+  "工业计算 / 显示方案分销（以色列）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
   "region": "以色列",
   "contact": "info@madalix.co.il、daniel@madalix.co.il"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.madalix.co.il/）",
-  "用户表兴趣/备注：工业FS 有迈威的"
+  "官网：Madalix - Industrial computing solutions provider in Israel: Industrial PC, Monitor, Touch Display, Panel PC, Industrial Computer, Fanless PC；页面 /product-page/rco-1000-compact-size-industrial-fanless-computer",
+  "表内：工业 FS 有迈威的；2024.3.14 Daniel；可以尝试多跟进一下"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?"
 }

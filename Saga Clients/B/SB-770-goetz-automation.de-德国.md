@@ -2,7 +2,7 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-770`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
-> **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：推送 8 次（2025-02-12 → 2025-10-28）　|　**所在清单**：A优质名单(DE)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：自动化工程事务所（德国，机器网络配套）（推断）　|　**历史关系**：推送 8 次（2025-02-12 → 2025-10-28）　|　**所在清单**：A优质名单(DE)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-770
@@ -12,14 +12,14 @@ score: 33
 country: 德国
 region: 欧洲
 website: goetz-automation.de
-type: 工业自动化/IoT 方案商
+type: 自动化工程事务所（德国，机器网络配套）
 tier_tags: ["A优质名单(DE)", "询盘流水"]
 deal: no
 replies: 0
 followups: 8
 first_contact: 2025-02-12
 last_contact: 2025-10-28
-p1: STI-144GP
+p1: STI-050GE
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国工业自动化/IoT 方案商：官网「Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik」；表内「10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ」；群发 8 次、无回复。（调研 2026-10-21；表内兴趣：10台升压5口）
+- **是谁**：德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：10台升压5口）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-12 → 2025-10-28）
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）；$17.8 USD EXW（25% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | goetz-automation.de（取自域名，公司全名待核） | 推断 |
 | 国家 | 德国 | 事实（用户表）|
 | 网站/域名 | goetz-automation.de | 事实（用户表 URL/邮箱域名） |
-| 类型 | 工业自动化/IoT 方案商 | 推断（据兴趣/备注关键词） |
+| 类型 | 自动化工程事务所（德国，机器网络配套） | 推断（据兴趣/备注关键词） |
 | 联系人 | Peter Goetz / 可以着重跟一下 / Peter Goetz | 事实（用户表） |
 | 来源（From） | 2024.9.13RFQ / 2024.9.13 | 事实（用户表） |
 | 兴趣（Interested in） | 10台升压5口 | 事实（用户表） |
@@ -55,30 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（goetz-automation.de，快照 2026-10-21）
-- **是谁**：德国工业自动化/IoT 方案商：官网「Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik」；表内「10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ」；群发 8 次、无回复。
-- **类型**：工业自动化/IoT 方案商
+- **是谁**：德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。
+- **类型**：自动化工程事务所（德国，机器网络配套）
 - **【官网快照】官网标题：Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik**
   > Automatisierung von Maschinen und Industrieanlagen. Unser Aufgabengebiet ist: Entwurf - Projektierung - SPS Programmierung, Visualisierungen, Dokumentation. Unsere Erfahrung in Antriebs- & Steuerungstechnik bringt solide, einfache & preiswe
   > 来源：https://goetz-automation.de/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Goetz 定位**
+  > Goetz Ing. Buero für Automation SPS Programmierung Antriebstechnik ; Automatisierung von Maschinen und Industrieanlagen
+  > 来源：https://goetz-automation.de/（抓取 2026-10-21）
+- **【用户表】10 台升压 5 口 RFQ 2008**
+  > 2008年使用国际站 / 10台升压5口 / from: 阿里巴巴RFQ；可以着重跟一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Peter Goetz（）peter@goetz-automation.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 德国 |
 | 其他 | 官网 goetz-automation.de，语言 ?，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 工业自动化/IoT 方案商；region: 德国；contact: peter@goetz-automation.de
+- **业务线**：机器 / 工业设备自动化工程（德国）
+- **触达通道（公开）**：role: 自动化工程事务所（德国，机器网络配套）；region: 德国；contact: peter@goetz-automation.de
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://goetz-automation.de/）
-  - 用户表兴趣/备注：10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ
-- **Saga 对位结论**：P1 STI-144GP（25% 档）——工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Peter, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 官网：Automatisierung von Maschinen und Industrieanlagen. Unser Aufgabengebiet ist: Entwurf - Projektierung - SPS Programmierung, Visualisierungen, Dokumentation
+  - 表内：10 台升压 5 口 / from: 阿里巴巴 RFQ；2008 年使用国际站；KP Peter Goetz；可以着重跟一下
+- **风险/边界**：RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B
+- **Saga 对位结论**：P1 STI-050GE（25% 档）——5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）
+- **邮件切入句（英文）**：Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +130,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter Goetz | — | peter@goetz-automation.de / +496220922222 | 用户表原值 | Clients/ 表 |
+| Peter Goetz | — | peter@goetz-automation.de | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -139,7 +147,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 深挖对位：工业 4 PoE + 1 SFP 小壳（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业自动化/IoT 方案商） |
+| **P1** | STI-050GE | 深挖对位：5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6） | $17.8 USD EXW（25% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（自动化工程事务所（德国，机器网络配套）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -148,9 +156,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-050GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-144GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-050GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -160,7 +168,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 8 次无回复，邮件通道疲劳
-- **O**：P1 STI-144GP 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-050GE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -188,25 +196,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Peter,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Peter, we supply the Marvell-based compact DIN-rail 4-port PoE+ industrial switch with 1 SFP uplink as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $35.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 
