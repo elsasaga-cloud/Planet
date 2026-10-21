@@ -1,4 +1,5 @@
 # dauren.boltaev@mail.ru
+**官方名称（调研核实）**：Dauren Boltayev（乌兹别克斯坦；通讯产品贸易商；mail.ru）
 
 > **评级 B**　|　乌兹别克斯坦　|　档案编号 `SB-1108`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -8,6 +9,7 @@
 code: SB-1108
 rating: B
 rating_auto: B
+name_official: "Dauren Boltayev（乌兹别克斯坦；通讯产品贸易商；mail.ru）"
 score: 26
 country: 乌兹别克斯坦
 region: 俄语区
@@ -19,21 +21,21 @@ replies: 0
 followups: 27
 first_contact: 2023-09-13
 last_contact: 2025-10-21
-p1: STC-424DGGPM-280W
+p1: STC-228GP
 price_tier: 20%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：乌兹别克斯坦的分销商/经销商；兴趣/在卖：trader, 处理通讯产品
+- **是谁**：用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。（调研 2026-10-21；表内兴趣：trader, 处理通讯产品）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+0 区域 俄语区/乌兹别克斯坦；+5 最近活动 2025；-22 推送 27 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 27 次（2023-09-13 → 2025-10-21）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,29 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1108.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：无域名
+- **是谁**：用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。
+- **【用户表】贸易商；成交；WA 已加；27 次跟进**
+  > trader, 处理通讯产品 / 770099 91388 已加 / 成单客户
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Dauren Boltayev（贸易商（用户表））dauren.boltaev@mail.ru（用户表） +998 77 009 91 388（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | （个人贸易商；公司待核） |
+| 总部/地址 | Uzbekistan（+998 77 009 91 388） |
+| 其他 | 成交 2 次；WA 已加；27 次推送无回复 |
+
+- **业务线**：通讯产品贸易
+- **触达通道（公开）**：邮箱: dauren.boltaev@mail.ru（用户表）；WhatsApp: +998 77 009 91 388（用户表，已加）
+- **近况信号**：
+  - 成交 2 次 → 老客户；27 次推送无回复 → 改为俄语短消息 + 一款新品价
+- **风险/边界**：俄语区非主攻区；无回复；付款路径（CNY/USD）
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）
+- **邮件切入句（英文）**：Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 30,8 USD EXW (управляемый 62,2 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -104,7 +128,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dauren Boltayev | — | dauren.boltaev@mail.ru / +77009991388 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Dauren Boltayev | 贸易商（用户表） | dauren.boltaev@mail.ru（用户表） / +998 77 009 91 388（用户表） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 27 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -121,7 +145,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
+| **P1** | STC-228GP | 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2） | $30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -130,9 +154,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-228GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -142,7 +166,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；WhatsApp 直达
 - **W**：已推送 27 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -167,30 +191,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 公司网站（表内无域名，无法核实是否仍在运营）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Dauren,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Picking up our earlier exchange about PoE / industrial switches. Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 30,8 USD EXW (управляемый 62,2 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

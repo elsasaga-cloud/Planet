@@ -1,0 +1,60 @@
+{
+ "code": "SB-1108",
+ "name_official": "Dauren Boltayev（乌兹别克斯坦；通讯产品贸易商；mail.ru）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "贸易商；成交；WA 已加；27 次跟进",
+   "quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dauren Boltayev",
+   "role": "贸易商（用户表）",
+   "email": "dauren.boltaev@mail.ru（用户表）",
+   "phone": "+998 77 009 91 388（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（个人贸易商；公司待核）",
+  "hq": "Uzbekistan（+998 77 009 91 388）",
+  "size": "个体/小型贸易商",
+  "other": "成交 2 次；WA 已加；27 次推送无回复"
+ },
+ "business_lines": [
+  "通讯产品贸易"
+ ],
+ "channels": {
+  "邮箱": "dauren.boltaev@mail.ru（用户表）",
+  "WhatsApp": "+998 77 009 91 388（用户表，已加）"
+ },
+ "signals": [
+  "成交 2 次 → 老客户；27 次推送无回复 → 改为俄语短消息 + 一款新品价"
+ ],
+ "risks": [
+  "俄语区非主攻区；无回复；付款路径（CNY/USD）"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）"
+ },
+ "email_hook": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 30,8 USD EXW (управляемый 62,2 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?"
+}

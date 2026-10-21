@@ -16,10 +16,46 @@
    "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
    "url": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "谈合作；看过中科德能工业 FS + 金升阳工业电源；WA 已加",
+   "quote": "谈合作，看了中科德能的工业FS还有金升阳的工业电源 / 966 5036 69457 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "grade_override": "B",
  "override_reason": "无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。",
  "notes": "下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；无公司主体）"
+ },
+ "company_facts": {
+  "legal_name": "（个人名；公司待核）",
+  "hq": "沙特阿拉伯（+966 50 366 9457）",
+  "size": "待核",
+  "other": "WhatsApp 已加；1 次实质回复；20 次推送"
+ },
+ "business_lines": [
+  "（待核）安防/工业网络采购或贸易"
+ ],
+ "channels": {
+  "WhatsApp": "+966 50 366 9457（用户表，已加）"
+ },
+ "signals": [
+  "谈合作并看过中科德能工业光纤交换机 + 金升阳（MORNSUN）工业电源 → 工业 DIN 机 + 电源组合需求",
+  "1 次实质回复后 19 次推送无回应 → 换问题式短消息"
+ ],
+ "risks": [
+  "无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）"
+ },
+ "email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
 }

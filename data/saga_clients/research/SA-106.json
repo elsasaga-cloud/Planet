@@ -1,18 +1,55 @@
 {
  "code": "SA-106",
- "name_official": "Zelax（zelax.ru，俄罗斯）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "俄罗斯电信设备厂商/供应商（用户记录：曾采购迈威 Maiwe 交换机），17 次跟进 0 回复。",
+ "name_official": "ООО НПП «Зелакс» / Zelax（Zelenograd, Moscow, Russia；zelax.ru；俄罗斯电信设备制造商）",
+ "website_status": "在线",
+ "summary": "俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。",
  "type": "设备厂商/分销",
  "size": "待补证",
  "brands_seen": [
-  "迈威 Maiwe（用户记录：在采）"
+  "迈威 Maiwe（用户记录：在采）",
+  "Zelax ZES（自有）",
+  "Maiwe 迈威（在采）"
  ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "买了迈威的交换机；0 回复 / 17 次跟进",
    "quote": "买了迈威的 Switch（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司定位与产品线",
+   "quote": "Zelax — ведущий российский разработчик и производитель решений для сетей передачи данных. … Собственное производство и исследовательский центр Zelax, расположенные в Зеленограде … выпускает системы оптического уплотнения, маршрутизаторы, коммутаторы, мультиплексоры, модемы, шлюзы TDM через IP, конвертеры",
+   "url": "https://www.zelax.ru/company/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "工业交换机 ZES",
+   "quote": "Индустриальный коммутатор Zelax ZES — интеллектуальное устройство, предназначенное для построения сетей Ethernet по оптимальной цене.",
+   "url": "https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立",
+   "quote": "Zelax … Company size: 51-200 employees … Headquarters: Москва, г. Зеленоград … Founded: 1988",
+   "url": "https://www.linkedin.com/company/zelax",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "客户类型（守界线索）",
+   "quote": "Репутацию производителя надежного телекоммуникационного оборудования компания заработала в результате многолетнего сотрудничества с крупнейшими предприятиями стратегически важных отраслей российской экономики и государственными структурами.",
+   "url": "https://eloborud.ru/zelax/",
+   "date": "2021-01-28"
+  },
+  {
+   "kind": "用户表",
+   "claim": "买了迈威交换机；17 次跟进",
+   "quote": "买了迈威的 Switch / 富通天下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -29,5 +66,65 @@
  "grade_override": "B",
  "override_reason": "在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。",
  "notes": "重启一次：'迈威工业系列对位 STI 工业 PoE 机型 + 价差'邮件。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО Научно-производственное предприятие «Зелакс»（ИНН 5044097824）",
+  "founded": "1988",
+  "hq": "Zelenograd, Moscow（研发 + 生产）；Подолино（莫斯科州）",
+  "size": "51–200（LinkedIn）",
+  "other": "自有品牌 Speedway 平台、ZES 交换机系列；产品含 SFP 模块"
+ },
+ "business_lines": [
+  "电信传输设备制造（光复用、路由、交换、复用器）",
+  "工业交换机 ZES-22xx（疑外采贴牌）",
+  "运营商与企业网项目"
+ ],
+ "products_seen": [
+  {
+   "brand": "Zelax",
+   "model": "ZES-2220S（ZES-22xx 系列）",
+   "spec": "工业交换机（官网；疑外采贴牌）",
+   "saga": "STI-288GPM（$85.5@30）/ STI-288DGGPM（$151.6@30）",
+   "url": "https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Zelax",
+   "model": "ZES-20xx / ZES-32xx",
+   "spec": "企业局域网接入交换机",
+   "saga": "STC-424XGGM（$138.0@30）",
+   "url": "https://model.rubytech.ru/vendors/ooo-npp-zelaks/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Maiwe 迈威",
+   "model": "（型号未记录）",
+   "spec": "用户记录：买了迈威的 Switch",
+   "saga": "—",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.zelax.ru/",
+  "邮箱": "sales@zelax.ru（用户表 = 官网销售箱）",
+  "LinkedIn": "https://www.linkedin.com/company/zelax"
+ },
+ "signals": [
+  "自有品牌制造商、已外采 Maiwe 交换机 → ZES 系列贴牌第二来源（OEM 30%）",
+  "官网售 SFP 模块 → 可配套"
+ ],
+ "risks": [
+  "客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）"
+ },
+ "email_hook": "Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?"
 }

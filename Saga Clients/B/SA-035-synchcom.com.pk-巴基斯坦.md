@@ -22,8 +22,8 @@ replies: 0
 followups: 8
 first_contact: 2025-02-22
 last_contact: 2025-06-21
-p1: STC-28DGGPM
-price_tier: 20%
+p1: STC-28GPM
+price_tier: 25%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。（调研 2026-10-21；表内兴趣：问MC Dual Fiber FE/GE 25km SM；8口网管交换机，只要PCB板子   成样品单）
 - **为什么是 B 级**：**调研后定级 B**（样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-22 → 2025-06-21）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -70,9 +70,29 @@ updated: 2026-10-21
 - **【第三方（Facebook）】公开联系人邮箱**
   > 693, Rehman Baba Road, Sector I-8/4, Islamabad, Pakistan +92 332 5933665 asif@synchcom.com.pk
   > 来源：https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/（抓取 2026-10-21）
+- **【用户表】样品单：MC 双纤 25 km + 8 口网管 PCB**
+  > 问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Asif（asif@）（销售负责人（Facebook 主页公开））asif@synchcom.com.pk +92 332 5933665（WhatsApp 已加）〔https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/〕
 - **调研后定级**：B（原自动 A）——样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | SYNCHCOM (Pvt) Ltd |
+| 成立 | 2005 |
+| 总部/地址 | Islamabad, Pakistan（+92 332 593 3665 / +92 335 522 5522，均已加 WA） |
+| 其他 | LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化 |
+
+- **业务线**：系统集成与分销（无线、MC、工业网络、布线）；电信运营商与能源/油气项目
+- **触达通道（公开）**：网站: https://synchcom.com.pk/；邮箱: asif@synchcom.com.pk / mehmood@synchcom.com.pk（用户表）；WhatsApp: 2 个号已加
+- **近况信号**：
+  - 成样品单：MC 双纤 25 km + 「8 口网管交换机只要 PCB 板子」→ 有自行装配/贴牌能力 → 可谈整机 OEM 或裸板（需向 HRUI/SmartByte 核裸板供货）
+  - 客户面含政府/国防 → 守界：仅民用电信/能源项目
+- **风险/边界**：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
+- **Saga 对位结论**：P1 STC-28GPM（25% 档）——集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
+- **邮件切入句（英文）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -127,19 +147,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（系统集成 + 分销（电信/IT/国防）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28GPM | 深挖对位：集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核 | $62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（系统集成 + 分销（电信/IT/国防）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28GPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28GPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -147,7 +168,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；WhatsApp 直达
 - **W**：已推送 8 次无回复，邮件通道疲劳；南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（ZoomInfo）
+- **O**：P1 STC-28GPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（ZoomInfo）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -175,25 +196,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Asif,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Picking up our earlier exchange about PoE / industrial switches. Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

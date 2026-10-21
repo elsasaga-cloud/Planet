@@ -22,7 +22,7 @@ replies: 1
 followups: 20
 first_contact: 2024-03-28
 last_contact: 2025-10-27
-p1: STI-288DGGPM
+p1: STI-288GP
 price_tier: 25%
 research: done
 sources: 2
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。（调研 2026-10-21；表内兴趣：谈合作，看了中科德能的工业FS还有金升阳的工业电源）
 - **为什么是 B 级**：**调研后定级 B**（无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 20 次（2024-03-28 → 2025-10-27）；最近一次客户回复：2024-07-16：暂时没需求
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -64,9 +64,28 @@ updated: 2026-10-21
 - **【用户表】仅有个人名 + 手机，无公司**
   > Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源
   > 来源：Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx（抓取 2026-10-21）
+- **【用户表】谈合作；看过中科德能工业 FS + 金升阳工业电源；WA 已加**
+  > 谈合作，看了中科德能的工业FS还有金升阳的工业电源 / 966 5036 69457 已加
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **调研后定级**：B（原自动 A）——无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。
 - 备注：下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；无公司主体））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | （个人名；公司待核） |
+| 总部/地址 | 沙特阿拉伯（+966 50 366 9457） |
+| 其他 | WhatsApp 已加；1 次实质回复；20 次推送 |
+
+- **业务线**：（待核）安防/工业网络采购或贸易
+- **触达通道（公开）**：WhatsApp: +966 50 366 9457（用户表，已加）
+- **近况信号**：
+  - 谈合作并看过中科德能工业光纤交换机 + 金升阳（MORNSUN）工业电源 → 工业 DIN 机 + 电源组合需求
+  - 1 次实质回复后 19 次推送无回应 → 换问题式短消息
+- **风险/边界**：无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）
+- **Saga 对位结论**：P1 STI-288GP（25% 档）——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）
+- **邮件切入句（英文）**：Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -129,17 +148,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（未知（疑为个体贸易/集成）） |
+| **P1** | STI-288GP | 深挖对位：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7） | $59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（未知（疑为个体贸易/集成）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -149,7 +169,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付；有 1 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入；规模（调研）：未知
+- **O**：P1 STI-288GP 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入；规模（调研）：未知
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -178,25 +198,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Picking up our earlier exchange about PoE / industrial switches. Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 中科德能 class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

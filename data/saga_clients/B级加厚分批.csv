@@ -136,18 +136,18 @@ SB-792,B,T1,Elektronik LTD,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,1,1
 SB-794,B,T1,Fadi,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,1,1
 SB-806,B,T1,UGUR IMRE,土耳其,土耳其,0,0,0,1,0,0,0,1,0,,0,1,1
 SB-807,B,T1,Ugur Simsek Netmax,土耳其,土耳其,0,0,0,1,0,0,1,0,0,,0,1,1
-SA-022,B,T2,Abdulaziz Al Jowasem,沙特阿拉伯,中东,1,1,1,0,0,0,0,0,20,,0,1,0
-SA-007,B,T2,Xspec Technology Sdn Bhd,马来西亚,亚太,1,1,1,0,0,0,1,0,3,xspectechnology.com;xspec.com.my,1,1,0
-SB-1108,B,T2,dauren.boltaev@mail.ru,乌兹别克斯坦,俄语区,1,0,1,0,0,0,0,0,27,,1,0,0
-SA-035,B,T2,synchcom.com.pk,巴基斯坦,南亚,1,0,1,0,0,1,0,0,8,synchcom.com.pk,2,1,0
-SA-026,B,T2,BitBook LLC,俄罗斯,俄语区,1,0,1,0,0,0,0,0,0,bitbuk.ru;bitbook.ru,2,1,0
-SA-032,B,T2,greentechme.net,阿联酋,中东,1,0,1,0,0,0,0,0,0,greentechme.net,1,1,0
-SB-272,B,T2,353311@mail.ru,俄罗斯,俄语区,1,0,1,0,0,0,0,0,0,,2,0,0
-SB-277,B,T2,Hamed electronics LLC,阿联酋,中东,1,0,1,0,0,0,0,0,0,,1,0,0
-SB-795,B,T2,Fast-Track Systems & Services Pte Ltd,新加坡,亚太,1,0,1,0,0,1,0,0,0,,1,0,0
-SA-104,B,T2,pulsar.kz,哈萨克斯坦,俄语区,1,0,0,0,0,0,0,0,17,pulsar.kz,1,1,0
-SA-106,B,T2,zelax.ru,俄罗斯,俄语区,1,0,0,0,0,0,0,0,17,zelax.ru,1,1,0
-SA-080,B,T2,itk.co.th,泰国,亚太,1,0,0,0,0,0,0,1,16,itk.co.th,1,1,0
+SA-022,B,T2,Abdulaziz Al Jowasem,沙特阿拉伯,中东,1,1,1,0,0,0,0,0,20,,0,1,1
+SA-007,B,T2,Xspec Technology Sdn Bhd,马来西亚,亚太,1,1,1,0,0,0,1,0,3,xspectechnology.com;xspec.com.my,1,1,1
+SB-1108,B,T2,dauren.boltaev@mail.ru,乌兹别克斯坦,俄语区,1,0,1,0,0,0,0,0,27,,1,1,1
+SA-035,B,T2,synchcom.com.pk,巴基斯坦,南亚,1,0,1,0,0,1,0,0,8,synchcom.com.pk,2,1,1
+SA-026,B,T2,BitBook LLC,俄罗斯,俄语区,1,0,1,0,0,0,0,0,0,bitbuk.ru;bitbook.ru,2,1,1
+SA-032,B,T2,greentechme.net,阿联酋,中东,1,0,1,0,0,0,0,0,0,greentechme.net,1,1,1
+SB-272,B,T2,353311@mail.ru,俄罗斯,俄语区,1,0,1,0,0,0,0,0,0,,2,1,1
+SB-277,B,T2,Hamed electronics LLC,阿联酋,中东,1,0,1,0,0,0,0,0,0,,1,1,1
+SB-795,B,T2,Fast-Track Systems & Services Pte Ltd,新加坡,亚太,1,0,1,0,0,1,0,0,0,,1,1,1
+SA-104,B,T2,pulsar.kz,哈萨克斯坦,俄语区,1,0,0,0,0,0,0,0,17,pulsar.kz,1,1,1
+SA-106,B,T2,zelax.ru,俄罗斯,俄语区,1,0,0,0,0,0,0,0,17,zelax.ru,1,1,1
+SA-080,B,T2,itk.co.th,泰国,亚太,1,0,0,0,0,0,0,1,16,itk.co.th,1,1,1
 SA-121,B,T2,MULTILINK (PVT) LTD,津巴布韦,非洲,1,0,0,0,0,0,0,0,1,securico.co.zw,1,1,0
 SA-122,B,T2,PT. ANUGERAH,印度尼西亚,亚太,1,0,0,0,0,0,0,0,1,pt-aag.co.id,1,1,0
 SA-127,B,T2,testronix.ph,菲律宾,亚太,1,0,0,0,0,0,0,0,1,testronix.ph;testronix.com.ph,1,1,0
@@ -167,11 +167,11 @@ SA-148,B,T2,technosys.co.in,印度,南亚,1,0,0,0,0,0,0,0,0,technosys.co.in,1,1,
 SB-033,B,T2,regionprof.ru,俄罗斯,俄语区,1,0,0,0,0,0,0,0,0,regionprof.ru,1,0,0
 SB-035,B,T2,xn--80ah4a5a.xn--p1ai,俄罗斯,俄语区,1,0,0,0,0,0,0,0,0,xn--80ah4a5a.xn--p1ai;dcoa.ru,1,0,0
 SB-046,B,T2,telconet.net,厄瓜多尔,拉美,1,0,0,0,0,0,0,0,0,telconet.net;telconet.ec,1,0,0
-SB-047,B,T2,"Anfiris, lda",安哥拉,非洲,1,0,0,0,0,1,0,0,0,,1,0,0
+SB-047,B,T2,"Anfiris, lda",安哥拉,非洲,1,0,0,0,0,1,0,0,0,,1,1,1
 SB-1063,B,T2,dcnglobal.com,中国大陆,中国大陆,1,0,0,0,0,0,0,0,0,dcnglobal.com;dcneurope.eu,1,0,0
 SB-171,B,T2,congtyminhphuoc.vn,越南,亚太,1,0,0,0,0,0,0,0,0,congtyminhphuoc.vn,1,0,0
 SB-406,B,T2,pro-tek.pro,俄罗斯,俄语区,1,0,0,0,0,0,0,0,0,pro-tek.pro;module-ltd.ru,2,0,0
-SB-445,B,T2,Groupe Penda Telecoms,塞内加尔,非洲,1,0,0,0,0,1,0,0,0,,1,0,0
+SB-445,B,T2,Groupe Penda Telecoms,塞内加尔,非洲,1,0,0,0,0,1,0,0,0,,1,1,1
 SB-616,B,T2,mpcl.in,印度,南亚,1,0,0,0,0,0,0,0,0,mpcl.in,1,0,0
 SA-113,B,T2,Euro Technology,阿联酋,中东,0,1,1,0,0,0,0,0,41,eurotechnology.ae;netontechnologies.com,2,1,0
 SB-430,B,T2,comtech.net.pk,巴基斯坦,南亚,0,1,1,0,0,0,0,0,40,comtech.net.pk,0,0,0

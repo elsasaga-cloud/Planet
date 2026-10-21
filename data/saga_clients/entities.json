@@ -2550,6 +2550,13 @@
 "quote": "XSPEC TECHNOLOGY SDN BHD … Mr. SUGITO WIBAWA + 60 3 8023 1161 … sugito@xspec.com.my",
 "url": "https://www.intron.ru/en/about-us/agents/",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "CEO 对交换机/PoE 有兴趣；地址；Skype",
+"quote": "对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -2564,7 +2571,40 @@
 "grade_override": "B",
 "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "XSPEC Technology Sdn. Bhd.",
+"founded": "2005（注册）",
+"hq": "No. 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia（+60 12 988 8086 手机）",
+"size": "小型制造商代表/分销商",
+"other": "代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新"
+},
+"business_lines": [
+"制造商代表/分销（NDT、安防、医疗）",
+"项目供货（交换机/PoE 作配套）"
+],
+"channels": {
+"网站": "https://xspectechnology.com/ · xspec.com.my",
+"邮箱": "sugito@xspec.com.my（用户表）",
+"WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）"
+},
+"signals": [
+"CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销",
+"军警安防代理线 → 守界：仅民用项目供货"
+],
+"risks": [
+"亚太非主攻区；交换机非其主业；军警客户守界"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
+},
+"email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
 }
 },
 {
@@ -8680,12 +8720,48 @@
 "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
 "url": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "谈合作；看过中科德能工业 FS + 金升阳工业电源；WA 已加",
+"quote": "谈合作，看了中科德能的工业FS还有金升阳的工业电源 / 966 5036 69457 已加",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "grade_override": "B",
 "override_reason": "无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。",
 "notes": "下一步只问一句：Which company are you with, and do you have a website? 回答后补 research 再评。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；无公司主体）"
+},
+"company_facts": {
+"legal_name": "（个人名；公司待核）",
+"hq": "沙特阿拉伯（+966 50 366 9457）",
+"size": "待核",
+"other": "WhatsApp 已加；1 次实质回复；20 次推送"
+},
+"business_lines": [
+"（待核）安防/工业网络采购或贸易"
+],
+"channels": {
+"WhatsApp": "+966 50 366 9457（用户表，已加）"
+},
+"signals": [
+"谈合作并看过中科德能工业光纤交换机 + 金升阳（MORNSUN）工业电源 → 工业 DIN 机 + 电源组合需求",
+"1 次实质回复后 19 次推送无回应 → 换问题式短消息"
+],
+"risks": [
+"无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）"
+},
+"email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
 }
 },
 {
@@ -10082,6 +10158,13 @@
 "quote": "Купить Сетевое PoE оборудование оптом и в розницу в интернет-магазине БитБук® … PoE injector … IEEE 802.3af",
 "url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "成交 2 次；WA 已加；兴趣 2 光 8 管理 PoE",
+"quote": "商业2光8管理POE / FS 一些很杂的类目 / 7 908 906 7874 已加 / 成单客户",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -10096,7 +10179,40 @@
 "grade_override": "B",
 "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "ООО «БитБук» / BitBook LLC",
+"founded": "2018（注册）；自称 15+ 年经验",
+"hq": "Нижний Тагил, Россия（+7 908 906 7874，已加 WA）",
+"size": "小型开发/生产/分销商",
+"other": "自有品牌 БитБук，产品在俄罗斯与中国工厂生产；官网有「网络 PoE 设备」类目并招经销商"
+},
+"business_lines": [
+"条码/自动化设备开发与生产（自有品牌）",
+"网络 PoE 设备分销（官网类目）"
+],
+"channels": {
+"网站": "https://bitbook.ru/ · bitbuk.ru",
+"邮箱": "info@bitbook.ru / info@bitbuk.ru（用户表）",
+"WhatsApp": "+7 908 906 7874（已加）"
+},
+"signals": [
+"成交 2 次 + 自有品牌在中国代工 → 2 光 8 电管理 PoE 贴 БитБук 牌是现成路径（OEM 30%）",
+"官网招经销商 → 其渠道可放大"
+],
+"risks": [
+"俄罗斯：结算路径（CNY）与物流需单独安排；无邮件回复记录"
+],
+"saga_fit": {
+"p1": "STC-28GPM",
+"tier": 30,
+"why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
+},
+"email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?"
 }
 },
 {
@@ -12075,12 +12191,48 @@
 "quote": "Greentech delivers solar water heaters, heat pumps, and off-grid PV systems for homes and businesses in Lebanon and the UAE. Trusted since 2007 … UAE Call Now +97165235024",
 "url": "https://greentechme.com/",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "成交 2 次；工业 PoE 配件；WA 已加",
+"quote": "工业POE配件 / 971 55 572 1640 已加 / 成单客户",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "grade_override": "B",
 "override_reason": "实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；主体未核）"
+},
+"company_facts": {
+"legal_name": "（greentechme.net 主体未核；与 greentechme.com 太阳能公司是否同一实体不能确认）",
+"hq": "UAE（+971 55 572 1640，已加 WA）",
+"size": "待核",
+"other": "成交 2 次；无邮件回复"
+},
+"business_lines": [
+"（待核）太阳能/离网项目 + 网络配套"
+],
+"channels": {
+"邮箱": "shaji@greentechme.net（用户表）",
+"WhatsApp": "+971 55 572 1640（已加）"
+},
+"signals": [
+"成交 2 次 + 兴趣「工业 PoE 配件」→ 若为太阳能/离网项目，需求是 DC 输入工业 PoE 与配件（injector/splitter → Q-32）"
+],
+"risks": [
+"主体未核；配件 SKU 缺口；中东非主攻区"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32"
+},
+"email_hook": "Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?"
 }
 },
 {
@@ -13195,6 +13347,13 @@
 "quote": "693, Rehman Baba Road, Sector I-8/4, Islamabad, Pakistan +92 332 5933665 asif@synchcom.com.pk",
 "url": "https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "样品单：MC 双纤 25 km + 8 口网管 PCB",
+"quote": "问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -13209,7 +13368,40 @@
 "grade_override": "B",
 "override_reason": "样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "SYNCHCOM (Pvt) Ltd",
+"founded": "2005",
+"hq": "Islamabad, Pakistan（+92 332 593 3665 / +92 335 522 5522，均已加 WA）",
+"size": "11–50（ZoomInfo）/ 101–200（businesslist 口径）",
+"other": "LigoWave 巴基斯坦分销商；面向电信/政府/国防/能源/油气/自动化"
+},
+"business_lines": [
+"系统集成与分销（无线、MC、工业网络、布线）",
+"电信运营商与能源/油气项目"
+],
+"channels": {
+"网站": "https://synchcom.com.pk/",
+"邮箱": "asif@synchcom.com.pk / mehmood@synchcom.com.pk（用户表）",
+"WhatsApp": "2 个号已加"
+},
+"signals": [
+"成样品单：MC 双纤 25 km + 「8 口网管交换机只要 PCB 板子」→ 有自行装配/贴牌能力 → 可谈整机 OEM 或裸板（需向 HRUI/SmartByte 核裸板供货）",
+"客户面含政府/国防 → 守界：仅民用电信/能源项目"
+],
+"risks": [
+"南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期"
+],
+"saga_fit": {
+"p1": "STC-28GPM",
+"tier": 25,
+"why": "集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核"
+},
+"email_hook": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
 }
 },
 {
@@ -29822,19 +30014,41 @@
 "grade": "B",
 "research": {
 "code": "SA-080",
-"name_official": "ITK（itk.co.th，泰国）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "泰国网络产品经销商（用户记录：ONV 经销商），群发/跟进 16 次无任何回复。",
+"name_official": "ITK Connecting（itk.co.th，Bangkok, Thailand；IT 产品电商 + 安装；ONV 工业交换机在售）",
+"website_status": "在线（电商）",
+"summary": "曼谷 IT 产品电商/安装商 ITK Connecting（itk.co.th；「จำหน่ายสินค้า IT และงานติดตั้ง」；02-460-9200；曼谷 4–9 小时速递、外府 1 天；5 年保修）。网店在售 ONV 工业交换机全线：ONV-IPS33108PF（8 GE PoE + 2 SFP 非管理工业）฿8,330 未税、ONV-IPS33148PFM（L2+ 10 GE/8 PoE + 4 SFP）฿14,960、ONV-IPS38036PFM（L3 24 PoE + 8 SFP + 4 SFP+）฿47,990。用户表：成交 1 次；16 次跟进无回复；「工业 FS 也有一些有名的牌子，有 ONV 的」。多品牌经销商 → 分销 20%，以 ONV 同口型对价切入。",
 "type": "经销商",
 "size": "待补证",
 "brands_seen": [
-"ONV（用户记录）"
+"ONV（用户记录）",
+"ONV（在售）"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "ONV 经销商；16 次跟进 0 回复",
 "quote": "ONV reseller；0 reply / 16 follow-ups（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "在售 ONV 工业机及价格",
+"quote": "[ONV-IPS33108PF] ONV Unmanaged industrial PoE 8*10/100/1000M RJ45 ports and 2*1000M uplink SFP slot ports … ราคายังไม่รวม ภาษีมูลค่าเพิ่ม 7% ฿8,330 … รับประกันสินค้า 5 ปี … ติดต่อเรา 02-460-9200",
+"url": "https://itk.co.th/network-switch/onv-switch/onv-ips33108pf",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "L2+ / L3 工业机价格",
+"quote": "ONV-IPS33148PFM … ฿14,960 … ONV-IPS38036PFM L3 managed industrial PoE switch with 24*10/100/1000M RJ45 ports and 8*100/1000M SFP ports and 4*1/10G SFP+ … ฿47,990",
+"url": "https://www.itk.co.th/network-switch/poe/onv-ips38036pfm",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "多品牌；有 ONV；成交",
+"quote": "工业FS 也有一些有名的牌子 有ONV的",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -29851,7 +30065,65 @@
 "grade_override": "B",
 "override_reason": "16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。",
 "notes": "重启只做一次'ONV 对位 SKU + 价格差'单问邮件；无回应即停。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（网店核对）"
+},
+"company_facts": {
+"legal_name": "ITK Connecting（泰文全称待核）",
+"hq": "Bangkok, Thailand（02-460-9200）",
+"size": "中小型电商/安装商",
+"other": "ONV 工业交换机、多品牌 IT；5 年保修；Project inquiry 通道"
+},
+"business_lines": [
+"IT 网络产品电商（交换机、PoE、工业交换机）",
+"安装工程"
+],
+"products_seen": [
+{
+"brand": "ONV",
+"model": "ONV-IPS33108PF",
+"spec": "8 GE PoE + 2 SFP 非管理工业；网店 ฿8,330 未税",
+"saga": "STI-288GP（同口型，$57.4@20）",
+"url": "https://itk.co.th/network-switch/onv-switch/onv-ips33108pf",
+"date": "2026-10-21"
+},
+{
+"brand": "ONV",
+"model": "ONV-IPS33148PFM",
+"spec": "L2+ 10 GE（8 PoE）+ 4 SFP 工业；฿14,960",
+"saga": "STI-288DGGPM（近似，$139.9@20）",
+"url": "https://itk.co.th/network-switch/poe/onv-ips33148pfm",
+"date": "2026-10-21"
+},
+{
+"brand": "ONV",
+"model": "ONV-IPS38036PFM",
+"spec": "L3 24 PoE + 8 SFP + 4 SFP+ 工业；฿47,990",
+"saga": "无工业同口型；商用 STC-424XGGPM-280W（$181.2@20）",
+"url": "https://www.itk.co.th/network-switch/poe/onv-ips38036pfm",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"网店": "https://itk.co.th/network-switch/onv-switch",
+"电话": "+66 2 460 9200（公开）",
+"邮箱": "sales@itk.co.th（用户表）"
+},
+"signals": [
+"ONV 8 PoE + 2 SFP 工业机零售 ฿8,330（≈$250）vs Saga 同口型 $57.4 → 价差巨大，可作第二品牌/自有标",
+"已成交 1 次 → 账户已开"
+],
+"risks": [
+"亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）"
+},
+"email_hook": "Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?"
 }
 },
 {
@@ -38445,19 +38717,59 @@
 "grade": "B",
 "research": {
 "code": "SA-104",
-"name_official": "Pulsar（pulsar.kz，哈萨克斯坦）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "哈萨克斯坦网络/安防设备经销商，已从 UniPoE 采购商业 PoE 交换机（1216POE），17 次跟进 0 回复。",
+"name_official": "TOO «Pulsar Systems»（Astana / Almaty, Kazakhstan；pulsar.kz；ZKTeco / Hikvision 官方分销商，UNIPOE / TVT / Secuscan 独家分销）",
+"website_status": "在线（含网店 shop.pulsar.kz）",
+"summary": "哈萨克斯坦安防分销商 Pulsar Systems LLP（ZKTeco、Hikvision 官方分销商；TVT（CCTV）、Secuscan（X 光）、UNIPOE（PoE 交换机）在哈萨克斯坦与俄罗斯的独家分销商；阿斯塔纳 +7 702 000-61-16、阿拉木图 +7 702 000-61-17；网店在售 UNIPOE PM3018GSNL-330 V2（16 PoE + 2 SFP）118,195 ₸、PM3010FSN（8 FE PoE + 2 上联）26,467 ₸、PM3026GSNL-330 V2（24 PoE + 2 SFP）、Dahua PoE 交换机）。用户表：从 UniPoE 买商用 PoE（1216POE）；17 次跟进 0 回复。已是 UniPoE 独家分销 → Saga 只能作「第二来源/自有标」切入，分销 20%。",
 "type": "经销商",
 "size": "待补证",
 "brands_seen": [
-"UniPoE（在用）"
+"UniPoE（在用）",
+"UNIPOE（独家分销）",
+"Hikvision",
+"ZKTeco",
+"Dahua",
+"TVT"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "从 UniPoE 买商业 PoE（1216POE）；0 回复 / 17 次跟进",
 "quote": "从UnipoE买一些商业poE / 买了Unipoe的1216POE（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "分销身份",
+"quote": "TOO «Pulsar Systems» является официальным дистрибьютором в Казахстане: ZKTeco, Hikvision",
+"url": "https://pulsar.kz/company/",
+"date": "2026-10-21"
+},
+{
+"kind": "展会名录",
+"claim": "UNIPOE/TVT/Secuscan 独家分销",
+"quote": "Pulsar Systems is the exclusive distributor in Kazakhstan and Russia of TVT (CCTV), Secuscan (X-Ray systems) and UNIPOE (PoE switches) companies.",
+"url": "https://reg.iteca.kz/list/en/details.aspx?link=0x60e8ffb98fed6a418c710d6933467cdd",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "UNIPOE 16 PoE 价格",
+"quote": "Коммутатор UNIPOE PM3018GSNL-330 V2 (16 PoE + 2 SFP) … 118 195 ₸",
+"url": "https://shop.pulsar.kz/p51552357-kommutator-unipoe-pm3018gsnl.html",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "电话与 Dahua 在售",
+"quote": "Сетевой POE-коммутатор DAHUA DH-LR2226-24ET-360 226 550 ₸ В наличии +7 (702) 000-61-16 Отдел продаж г. Астана +7 (702) 000-61-17 Отдел продаж г. Алматы",
+"url": "https://shop.pulsar.kz/g6999863-poe-porta",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "从 UniPoE 买商用 PoE；17 次跟进",
+"quote": "从UnipoE买一些商业poE / 买了Unipoe的1216POE",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -38474,7 +38786,74 @@
 "grade_override": "B",
 "override_reason": "品类完全对位（商业 PoE，UniPoE 在用）但 17 次推送 0 回复，俄语区非主攻 → 慢跟。",
 "notes": "重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 网店核对）"
+},
+"company_facts": {
+"legal_name": "TOO «Pulsar Systems»（Pulsar Systems LLP）",
+"hq": "Astana（+7 702 000-61-16）/ Almaty（+7 702 000-61-17），Kazakhstan",
+"size": "中型分销商（规模待核）",
+"other": "ZKTeco / Hikvision 官方分销；UNIPOE / TVT / Secuscan 独家分销（KZ + RU）"
+},
+"business_lines": [
+"安防设备分销（CCTV、门禁、X 光）",
+"PoE 交换机分销（UNIPOE、Dahua）",
+"项目供货与安装"
+],
+"products_seen": [
+{
+"brand": "UNIPOE",
+"model": "PM3018GSNL-330 V2",
+"spec": "16 GE PoE + 2 SFP 非管理；网店 118,195 ₸",
+"saga": "STC-2016GP（同口型，列表 $88.0）",
+"url": "https://shop.pulsar.kz/p51552357-kommutator-unipoe-pm3018gsnl.html",
+"date": "2026-10-21"
+},
+{
+"brand": "UNIPOE",
+"model": "PM3010FSN",
+"spec": "8 FE PoE + 2 上联；26,467 ₸",
+"saga": "STC-028GP（千兆升级，$24.2）",
+"url": "https://pulsar.kz/p51552352-kommutator-unipoe-pm3010fsn.html",
+"date": "2026-10-21"
+},
+{
+"brand": "UNIPOE",
+"model": "PM3026GSNL-330 V2",
+"spec": "24 GE PoE + 2 SFP 非管理",
+"saga": "STC-2024GP（$93.5）",
+"url": "https://pulsar.kz/catalog/setevye-kommutatory/kommutator-24ge-poe-2sfp-unmanaged-poe-switch-model-pm3026gsnl-330-v2/",
+"date": "2026-10-21"
+},
+{
+"brand": "Dahua",
+"model": "DH-LR2226-24ET-360",
+"spec": "24 PoE 交换机；226,550 ₸",
+"saga": "STC-2024GP（$93.5）",
+"url": "https://shop.pulsar.kz/g6999863-poe-porta",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"网站": "https://pulsar.kz/company/ · https://shop.pulsar.kz/",
+"电话": "+7 702 000-61-16 / -61-17（公开）",
+"邮箱": "info@pulsar.kz（用户表）"
+},
+"signals": [
+"UNIPOE 独家分销 → 对 UniPoE 价格/交期敏感时可引入第二来源；网店零售价（16 PoE 118,195 ₸ ≈ $220）与 Saga 列表 $88 价差大",
+"ZKTeco/Hikvision 分销商 → PoE 配套走量"
+],
+"risks": [
+"UNIPOE 独家关系（冲突）；17 次推送 0 回复；俄语区非主攻区；Hikvision 分销商体量偏大"
+],
+"saga_fit": {
+"p1": "STC-2016GP",
+"tier": 20,
+"why": "分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）"
+},
+"email_hook": "Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?"
 }
 },
 {
@@ -39166,19 +39545,56 @@
 "grade": "B",
 "research": {
 "code": "SA-106",
-"name_official": "Zelax（zelax.ru，俄罗斯）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "俄罗斯电信设备厂商/供应商（用户记录：曾采购迈威 Maiwe 交换机），17 次跟进 0 回复。",
+"name_official": "ООО НПП «Зелакс» / Zelax（Zelenograd, Moscow, Russia；zelax.ru；俄罗斯电信设备制造商）",
+"website_status": "在线",
+"summary": "俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。",
 "type": "设备厂商/分销",
 "size": "待补证",
 "brands_seen": [
-"迈威 Maiwe（用户记录：在采）"
+"迈威 Maiwe（用户记录：在采）",
+"Zelax ZES（自有）",
+"Maiwe 迈威（在采）"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "买了迈威的交换机；0 回复 / 17 次跟进",
 "quote": "买了迈威的 Switch（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位与产品线",
+"quote": "Zelax — ведущий российский разработчик и производитель решений для сетей передачи данных. … Собственное производство и исследовательский центр Zelax, расположенные в Зеленограде … выпускает системы оптического уплотнения, маршрутизаторы, коммутаторы, мультиплексоры, модемы, шлюзы TDM через IP, конвертеры",
+"url": "https://www.zelax.ru/company/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "工业交换机 ZES",
+"quote": "Индустриальный коммутатор Zelax ZES — интеллектуальное устройство, предназначенное для построения сетей Ethernet по оптимальной цене.",
+"url": "https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模与成立",
+"quote": "Zelax … Company size: 51-200 employees … Headquarters: Москва, г. Зеленоград … Founded: 1988",
+"url": "https://www.linkedin.com/company/zelax",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "客户类型（守界线索）",
+"quote": "Репутацию производителя надежного телекоммуникационного оборудования компания заработала в результате многолетнего сотрудничества с крупнейшими предприятиями стратегически важных отраслей российской экономики и государственными структурами.",
+"url": "https://eloborud.ru/zelax/",
+"date": "2021-01-28"
+},
+{
+"kind": "用户表",
+"claim": "买了迈威交换机；17 次跟进",
+"quote": "买了迈威的 Switch / 富通天下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -39195,7 +39611,67 @@
 "grade_override": "B",
 "override_reason": "在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。",
 "notes": "重启一次：'迈威工业系列对位 STI 工业 PoE 机型 + 价差'邮件。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "ООО Научно-производственное предприятие «Зелакс»（ИНН 5044097824）",
+"founded": "1988",
+"hq": "Zelenograd, Moscow（研发 + 生产）；Подолино（莫斯科州）",
+"size": "51–200（LinkedIn）",
+"other": "自有品牌 Speedway 平台、ZES 交换机系列；产品含 SFP 模块"
+},
+"business_lines": [
+"电信传输设备制造（光复用、路由、交换、复用器）",
+"工业交换机 ZES-22xx（疑外采贴牌）",
+"运营商与企业网项目"
+],
+"products_seen": [
+{
+"brand": "Zelax",
+"model": "ZES-2220S（ZES-22xx 系列）",
+"spec": "工业交换机（官网；疑外采贴牌）",
+"saga": "STI-288GPM（$85.5@30）/ STI-288DGGPM（$151.6@30）",
+"url": "https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/",
+"date": "2026-10-21"
+},
+{
+"brand": "Zelax",
+"model": "ZES-20xx / ZES-32xx",
+"spec": "企业局域网接入交换机",
+"saga": "STC-424XGGM（$138.0@30）",
+"url": "https://model.rubytech.ru/vendors/ooo-npp-zelaks/",
+"date": "2026-10-21"
+},
+{
+"brand": "Maiwe 迈威",
+"model": "（型号未记录）",
+"spec": "用户记录：买了迈威的 Switch",
+"saga": "—",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"网站": "https://www.zelax.ru/",
+"邮箱": "sales@zelax.ru（用户表 = 官网销售箱）",
+"LinkedIn": "https://www.linkedin.com/company/zelax"
+},
+"signals": [
+"自有品牌制造商、已外采 Maiwe 交换机 → ZES 系列贴牌第二来源（OEM 30%）",
+"官网售 SFP 模块 → 可配套"
+],
+"risks": [
+"客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 30,
+"why": "OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）"
+},
+"email_hook": "Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?"
 }
 },
 {
@@ -69591,7 +70067,66 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-047",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-047",
+"name_official": "Anfiris, Lda（安哥拉；Gmail；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "8 口交换机成样品单",
+"quote": "8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Carlos da Silva",
+"role": "（用户表）",
+"email": "repintalimitada@gmail.com（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Anfiris, Lda（待核）",
+"hq": "Angola（城市待核）",
+"size": "待核",
+"other": "Gmail（repintalimitada = 疑另一公司 Repinta Limitada）"
+},
+"business_lines": [
+"（待核）IT/电气贸易或安装"
+],
+"channels": {
+"邮箱": "repintalimitada@gmail.com（用户表）"
+},
+"signals": [
+"8 口交换机样品已成交 → 复购点是同口型批量价"
+],
+"risks": [
+"非洲非主攻区；无公司资料；葡语市场"
+],
+"saga_fit": {
+"p1": "STC-08GE",
+"tier": 25,
+"why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）"
+},
+"email_hook": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?"
+}
 },
 {
 "name": "bina-machine.com",
@@ -112891,7 +113426,67 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-1108",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1108",
+"name_official": "Dauren Boltayev（乌兹别克斯坦；通讯产品贸易商；mail.ru）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "贸易商；成交；WA 已加；27 次跟进",
+"quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Dauren Boltayev",
+"role": "贸易商（用户表）",
+"email": "dauren.boltaev@mail.ru（用户表）",
+"phone": "+998 77 009 91 388（用户表）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（个人贸易商；公司待核）",
+"hq": "Uzbekistan（+998 77 009 91 388）",
+"size": "个体/小型贸易商",
+"other": "成交 2 次；WA 已加；27 次推送无回复"
+},
+"business_lines": [
+"通讯产品贸易"
+],
+"channels": {
+"邮箱": "dauren.boltaev@mail.ru（用户表）",
+"WhatsApp": "+998 77 009 91 388（用户表，已加）"
+},
+"signals": [
+"成交 2 次 → 老客户；27 次推送无回复 → 改为俄语短消息 + 一款新品价"
+],
+"risks": [
+"俄语区非主攻区；无回复；付款路径（CNY/USD）"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）"
+},
+"email_hook": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 30,8 USD EXW (управляемый 62,2 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?"
+}
 },
 {
 "name": "deltaww.com",
@@ -174560,7 +175155,67 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-272",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-272",
+"name_official": "Vasiliy Kryukov（俄罗斯；在用洪瑞（HRUI）产品；mail.ru）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "用户表（「客户再筛选_在用同行的产品」，成单客户）：Vasiliy Kryukov（353311@mail.ru / vas555@list.ru；+7 903 324-3333，已加 WA）——在用「洪瑞产品」（HRUI，即 Saga Realtek 线原厂）；成交 1 次；无后续。无公司主体 → 仅表内信息；已用 HRUI 同源产品 → Saga STC 线可直接对位 → 分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "在用洪瑞产品；成交；WA 已加",
+"quote": "洪瑞产品 / 7 903 324-3333 已加 / 成单客户",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Vasiliy Kryukov",
+"role": "（用户表）",
+"email": "353311@mail.ru（用户表）",
+"phone": "+7 903 324-3333（用户表）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（公司待核）",
+"hq": "Russia（+7 903 324-3333）",
+"size": "待核",
+"other": "在用 HRUI 产品；成交 1 次"
+},
+"business_lines": [
+"网络设备贸易/集成（推测）"
+],
+"channels": {
+"邮箱": "353311@mail.ru / vas555@list.ru（用户表）",
+"WhatsApp": "+7 903 324-3333（已加）"
+},
+"signals": [
+"在用 HRUI 同源产品 → Saga STC 型号即同配置，报价对位零摩擦"
+],
+"risks": [
+"俄罗斯结算/物流；无公司资料"
+],
+"saga_fit": {
+"p1": "STC-28GPM",
+"tier": 20,
+"why": "分销 20% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，HRUI 同源，列表 $62.2）；STC-228GP（$30.8）；24 口 STC-2024GP（$93.5）"
+},
+"email_hook": "Василий, вы уже работаете с продукцией HRUI — наша линейка STC это те же платформы: 2 SFP + 8 PoE управляемый 62,2 USD, неуправляемый 30,8 USD, 24 PoE 93,5 USD EXW. Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен?"
+}
 },
 {
 "name": "BWsystems",
@@ -175867,7 +176522,91 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-277",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-277",
+"name_official": "Hamed Electronics LLC（Deira Dubai, UAE；hamedelectronics.com；Nasser Abdullatif Ahmed Lootah Group 弱电集成商）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位、集团、联系方式",
+"quote": "HAMED ELECTRONICS LLC IS A LEADING SPECIALIZED COMPANY IN LOW VOLTAGE SYSTEM INTEGRATION FROM YEAR 1985 AS A PART OF NASSER ABDULLATIF AHMED LOOTAH GROUP. … Approved By Dubai Police … CCTV, SMATV, Security, Access Control, P.A, Central Clock, Telephone … P. O. Box: 379738, Deira Dubai, UAE Telephone: 04-2281214 Email: info@hamedelectronics.com",
+"url": "https://hamedelectronics.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "规模与 KP 职务",
+"quote": "Hamed Electronics … <$5M … 1-10 … Anil Joseph Project Manager … clients span across various sectors including hospitality, education, government, and healthcare",
+"url": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Intersec 2012；PoE 手册；买了 2ch 样品；WA 已加",
+"quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Anil P. Joseph",
+"role": "Project Manager（ZoomInfo）/ 工程师（用户表）",
+"email": "agrajan@eim.ae（用户表，待核归属）",
+"phone": "+971 50 452 6169（用户表）",
+"source": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106"
+},
+{
+"name": "A.G. Varghese",
+"role": "Director（用户表）",
+"email": "—",
+"phone": "+971 50 654 0470（用户表）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Hamed Electronics LLC",
+"founded": "1985",
+"hq": "Deira, Dubai, UAE（P.O. Box 379738；+971 4 228 1214；info@hamedelectronics.com）",
+"size": "1–10（ZoomInfo）；营收 <$5M",
+"other": "Lootah 集团成员；Dubai Police 认证安防承包商"
+},
+"business_lines": [
+"弱电集成（CCTV、SMATV、门禁、PA、时钟、电话）",
+"酒店/教育/政府/医疗项目"
+],
+"channels": {
+"网站": "https://hamedelectronics.com/",
+"电话": "+971 4 228 1214（公开）；手机 +971 50 452 6169 / +971 50 654 0470（用户表，WA 已加）",
+"邮箱（公开）": "info@hamedelectronics.com；agrajan@eim.ae（用户表）"
+},
+"signals": [
+"已购样品 + 项目型集成商 → CCTV 项目 PoE 交换机复购；政府客户按个案守界"
+],
+"risks": [
+"小团队、项目节奏；2012 后无互动；中东非主攻区"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?"
+}
 },
 {
 "name": "PROXEET LIMITED",
@@ -218010,7 +218749,66 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-445",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-445",
+"name_official": "Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "千兆 SFP 成样品单；自有货代",
+"quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Seydou Jah",
+"role": "（用户表）",
+"email": "bigbocar@hotmail.com（用户表）",
+"phone": "—",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Groupe Penda Telecoms（待核）",
+"hq": "Senegal（待核）",
+"size": "待核",
+"other": "自有货代；Hotmail"
+},
+"business_lines": [
+"电信/网络设备贸易（推测）"
+],
+"channels": {
+"邮箱": "bigbocar@hotmail.com（用户表）"
+},
+"signals": [
+"SFP 样品已成交 + 自有货代 → 复购门槛低；法语市场"
+],
+"risks": [
+"SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
+},
+"email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+}
 },
 {
 "name": "HAMDAZTECH TECHNOLOGIES INC LLC",
@@ -290372,7 +291170,76 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-795",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-795",
+"name_official": "Fast-Track Systems & Services Pte Ltd（Singapore；UEN 200002876C；楼宇工程设计与顾问）",
+"researched_at": "2026-10-21",
+"website_status": "无官网（仅注册信息）",
+"summary": "新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记名录",
+"claim": "注册信息、地址、电话",
+"quote": "FAST-TRACK SYSTEMS & SERVICES PTE LTD was incorporated on 5 April 2000 … principal activity is in GENERAL BUILDING ENGINEERING DESIGN AND CONSULTANCY SERVICES … 113 EUNOS AVENUE 3 #04-18 GORDON INDUSTRIAL BUILDING SINGAPORE (409838) … +65-67496390 +65-97611286",
+"url": "https://www.sgpbusiness.com/company/Fast-track-Systems-Services-Pte-Ltd",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "光猫 8 个样品单；WA 已加",
+"quote": "光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Alan Tan",
+"role": "负责人（用户表）",
+"email": "alan_ftss@yahoo.com.sg（用户表）",
+"phone": "+65 9761 1286（注册名录公开 + 用户表）",
+"source": "https://www.sgpbusiness.com/company/Fast-track-Systems-Service-Pte-Ltd"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（注册名录核对）"
+},
+"company_facts": {
+"legal_name": "FAST-TRACK SYSTEMS & SERVICES PTE LTD（UEN 200002876C）",
+"founded": "2000-04-05",
+"hq": "113 Eunos Avenue 3 #04-18 Gordon Industrial Building, Singapore 409838（+65 6749 6390；+65 9761 1286）",
+"size": "小型（豁免私人公司）",
+"other": "楼宇工程设计/顾问 + 弱电供货（样品单为 ONU）"
+},
+"business_lines": [
+"楼宇工程设计与顾问",
+"弱电/网络设备项目供货"
+],
+"channels": {
+"邮箱": "alan_ftss@yahoo.com.sg（用户表）",
+"WhatsApp": "+65 9761 1286（用户表 = 注册电话）"
+},
+"signals": [
+"已成样品单（8 台 ONU）→ 付款与物流通畅；楼宇项目 → 8/24 口 PoE"
+],
+"risks": [
+"ONU 不在 Saga 线；小公司；亚太非主攻区；2020 后无互动"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）"
+},
+"email_hook": "Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?"
+}
 },
 {
 "name": "Heitech Padu Berhad",

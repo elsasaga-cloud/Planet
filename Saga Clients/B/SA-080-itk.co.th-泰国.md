@@ -1,5 +1,5 @@
 # itk.co.th
-**官方名称（调研核实）**：ITK（itk.co.th，泰国）
+**官方名称（调研核实）**：ITK Connecting（itk.co.th，Bangkok, Thailand；IT 产品电商 + 安装；ONV 工业交换机在售）
 
 > **评级 B**　|　泰国　|　档案编号 `SA-080`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -10,7 +10,7 @@ code: SA-080
 rating: B
 rating_auto: A
 rating_research: B  # 16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。
-name_official: "ITK（itk.co.th，泰国）"
+name_official: "ITK Connecting（itk.co.th，Bangkok, Thailand；IT 产品电商 + 安装；ONV 工业交换机在售）"
 score: 73
 country: 泰国
 region: 亚太
@@ -22,7 +22,7 @@ replies: 0
 followups: 16
 first_contact: 2024-05-13
 last_contact: 2025-10-13
-p1: STC-424DGGPM-280W
+p1: STI-288GP
 price_tier: 20%
 research: done
 sources: 2
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：泰国网络产品经销商（用户记录：ONV 经销商），群发/跟进 16 次无任何回复。（调研 2026-10-21；表内兴趣：工业FS 也有一些有名的牌子 有ONV的）
+- **是谁**：曼谷 IT 产品电商/安装商 ITK Connecting（itk.co.th；「จำหน่ายสินค้า IT และงานติดตั้ง」；02-460-9200；曼谷 4–9 小时速递、外府 1 天；5 年保修）。网店在售 ONV 工业交换机全线：ONV-IPS33108PF（8 GE PoE + 2 SFP 非管理工业）฿8,330 未税、ONV-IPS33148PFM（L2+ 10 GE/8 PoE + 4 SFP）฿14,960、ONV-IPS38036PFM（L3 24 PoE + 8 SFP + 4 SFP+）฿47,990。用户表：成交 1 次；16 次跟进无回复；「工业 FS 也有一些有名的牌子，有 ONV 的」。多品牌经销商 → 分销 20%，以 ONV 同口型对价切入。（调研 2026-10-21；表内兴趣：工业FS 也有一些有名的牌子 有ONV的）
 - **为什么是 B 级**：**调研后定级 B**（16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 16 次（2024-05-13 → 2025-10-13）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -56,18 +56,50 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：泰国网络产品经销商（用户记录：ONV 经销商），群发/跟进 16 次无任何回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线（电商）
+- **是谁**：曼谷 IT 产品电商/安装商 ITK Connecting（itk.co.th；「จำหน่ายสินค้า IT และงานติดตั้ง」；02-460-9200；曼谷 4–9 小时速递、外府 1 天；5 年保修）。网店在售 ONV 工业交换机全线：ONV-IPS33108PF（8 GE PoE + 2 SFP 非管理工业）฿8,330 未税、ONV-IPS33148PFM（L2+ 10 GE/8 PoE + 4 SFP）฿14,960、ONV-IPS38036PFM（L3 24 PoE + 8 SFP + 4 SFP+）฿47,990。用户表：成交 1 次；16 次跟进无回复；「工业 FS 也有一些有名的牌子，有 ONV 的」。多品牌经销商 → 分销 20%，以 ONV 同口型对价切入。
 - **类型**：经销商
 - **规模**：待补证
-- **在卖/在用品牌**：ONV（用户记录）
+- **在卖/在用品牌**：ONV（用户记录）, ONV（在售）
 - **【用户记录】ONV 经销商；16 次跟进 0 回复**
   > ONV reseller；0 reply / 16 follow-ups（用户 Clients 表摘录）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【网店】在售 ONV 工业机及价格**
+  > [ONV-IPS33108PF] ONV Unmanaged industrial PoE 8*10/100/1000M RJ45 ports and 2*1000M uplink SFP slot ports … ราคายังไม่รวม ภาษีมูลค่าเพิ่ม 7% ฿8,330 … รับประกันสินค้า 5 ปี … ติดต่อเรา 02-460-9200
+  > 来源：https://itk.co.th/network-switch/onv-switch/onv-ips33108pf（抓取 2026-10-21）
+- **【网店】L2+ / L3 工业机价格**
+  > ONV-IPS33148PFM … ฿14,960 … ONV-IPS38036PFM L3 managed industrial PoE switch with 24*10/100/1000M RJ45 ports and 8*100/1000M SFP ports and 4*1/10G SFP+ … ฿47,990
+  > 来源：https://www.itk.co.th/network-switch/poe/onv-ips38036pfm（抓取 2026-10-21）
+- **【用户表】多品牌；有 ONV；成交**
+  > 工业FS 也有一些有名的牌子 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（无具名）（）sales@itk.co.th 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。
 - 备注：重启只做一次'ONV 对位 SKU + 价格差'单问邮件；无回应即停。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ITK Connecting（泰文全称待核） |
+| 总部/地址 | Bangkok, Thailand（02-460-9200） |
+| 其他 | ONV 工业交换机、多品牌 IT；5 年保修；Project inquiry 通道 |
+
+- **业务线**：IT 网络产品电商（交换机、PoE、工业交换机）；安装工程
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| ONV | ONV-IPS33108PF | 8 GE PoE + 2 SFP 非管理工业；网店 ฿8,330 未税 | STI-288GP（同口型，$57.4@20） | https://itk.co.th/network-switch/onv-switch/onv-ips33108pf（2026-10-21） |
+| ONV | ONV-IPS33148PFM | L2+ 10 GE（8 PoE）+ 4 SFP 工业；฿14,960 | STI-288DGGPM（近似，$139.9@20） | https://itk.co.th/network-switch/poe/onv-ips33148pfm（2026-10-21） |
+| ONV | ONV-IPS38036PFM | L3 24 PoE + 8 SFP + 4 SFP+ 工业；฿47,990 | 无工业同口型；商用 STC-424XGGPM-280W（$181.2@20） | https://www.itk.co.th/network-switch/poe/onv-ips38036pfm（2026-10-21） |
+
+- **触达通道（公开）**：网店: https://itk.co.th/network-switch/onv-switch；电话: +66 2 460 9200（公开）；邮箱: sales@itk.co.th（用户表）
+- **近况信号**：
+  - ONV 8 PoE + 2 SFP 工业机零售 ฿8,330（≈$250）vs Saga 同口型 $57.4 → 价差巨大，可作第二品牌/自有标
+  - 已成交 1 次 → 账户已开
+- **风险/边界**：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
+- **Saga 对位结论**：P1 STI-288GP（20% 档）——分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）
+- **邮件切入句（英文）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -131,7 +163,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销商） |
+| **P1** | STI-288GP | 深挖对位：分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5） | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -140,9 +172,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -152,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：已推送 16 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV, Cisco, MikroTik：涨价、断货或交期拉长时切入；规模（调研）：待补证
+- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV, Cisco, MikroTik：涨价、断货或交期拉长时切入；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -180,25 +212,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Picking up our earlier exchange about PoE / industrial switches. Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

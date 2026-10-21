@@ -1,0 +1,59 @@
+{
+ "code": "SB-445",
+ "name_official": "Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "千兆 SFP 成样品单；自有货代",
+   "quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Seydou Jah",
+   "role": "（用户表）",
+   "email": "bigbocar@hotmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Groupe Penda Telecoms（待核）",
+  "hq": "Senegal（待核）",
+  "size": "待核",
+  "other": "自有货代；Hotmail"
+ },
+ "business_lines": [
+  "电信/网络设备贸易（推测）"
+ ],
+ "channels": {
+  "邮箱": "bigbocar@hotmail.com（用户表）"
+ },
+ "signals": [
+  "SFP 样品已成交 + 自有货代 → 复购门槛低；法语市场"
+ ],
+ "risks": [
+  "SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
+ },
+ "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+}

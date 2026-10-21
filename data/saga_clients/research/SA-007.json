@@ -22,6 +22,13 @@
    "quote": "XSPEC TECHNOLOGY SDN BHD … Mr. SUGITO WIBAWA + 60 3 8023 1161 … sugito@xspec.com.my",
    "url": "https://www.intron.ru/en/about-us/agents/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CEO 对交换机/PoE 有兴趣；地址；Skype",
+   "quote": "对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8 Taman Perindustrian USJ 1 47600 Subang Jaya, Selangor, Malaysia / Sugito Wibawa Chief Executive Officer",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -36,5 +43,38 @@
  "grade_override": "B",
  "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "XSPEC Technology Sdn. Bhd.",
+  "founded": "2005（注册）",
+  "hq": "No. 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia（+60 12 988 8086 手机）",
+  "size": "小型制造商代表/分销商",
+  "other": "代理 NDT 检测、军警安防、医疗、生物实验室设备；覆盖马/印尼/新"
+ },
+ "business_lines": [
+  "制造商代表/分销（NDT、安防、医疗）",
+  "项目供货（交换机/PoE 作配套）"
+ ],
+ "channels": {
+  "网站": "https://xspectechnology.com/ · xspec.com.my",
+  "邮箱": "sugito@xspec.com.my（用户表）",
+  "WhatsApp / Skype": "+60 12 988 8086 / sugitowibawa（用户表）"
+ },
+ "signals": [
+  "CEO 直接表示对交换机/PoE 感兴趣并有 2 次实质回复 → 可作东南亚项目配套分销",
+  "军警安防代理线 → 守界：仅民用项目供货"
+ ],
+ "risks": [
+  "亚太非主攻区；交换机非其主业；军警客户守界"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）作安防/实验室项目配套；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
+ },
+ "email_hook": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
 }

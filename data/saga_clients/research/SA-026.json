@@ -22,6 +22,13 @@
    "quote": "Купить Сетевое PoE оборудование оптом и в розницу в интернет-магазине БитБук® … PoE injector … IEEE 802.3af",
    "url": "https://bitbuk.ru/category/sistemy-videonablyudeniya/setevoe-poe-oborudovanie/",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "成交 2 次；WA 已加；兴趣 2 光 8 管理 PoE",
+   "quote": "商业2光8管理POE / FS 一些很杂的类目 / 7 908 906 7874 已加 / 成单客户",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -36,5 +43,38 @@
  "grade_override": "B",
  "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «БитБук» / BitBook LLC",
+  "founded": "2018（注册）；自称 15+ 年经验",
+  "hq": "Нижний Тагил, Россия（+7 908 906 7874，已加 WA）",
+  "size": "小型开发/生产/分销商",
+  "other": "自有品牌 БитБук，产品在俄罗斯与中国工厂生产；官网有「网络 PoE 设备」类目并招经销商"
+ },
+ "business_lines": [
+  "条码/自动化设备开发与生产（自有品牌）",
+  "网络 PoE 设备分销（官网类目）"
+ ],
+ "channels": {
+  "网站": "https://bitbook.ru/ · bitbuk.ru",
+  "邮箱": "info@bitbook.ru / info@bitbuk.ru（用户表）",
+  "WhatsApp": "+7 908 906 7874（已加）"
+ },
+ "signals": [
+  "成交 2 次 + 自有品牌在中国代工 → 2 光 8 电管理 PoE 贴 БитБук 牌是现成路径（OEM 30%）",
+  "官网招经销商 → 其渠道可放大"
+ ],
+ "risks": [
+  "俄罗斯：结算路径（CNY）与物流需单独安排；无邮件回复记录"
+ ],
+ "saga_fit": {
+  "p1": "STC-28GPM",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
+ },
+ "email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?"
 }

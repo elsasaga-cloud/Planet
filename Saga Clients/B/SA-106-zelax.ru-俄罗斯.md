@@ -1,5 +1,5 @@
 # zelax.ru
-**官方名称（调研核实）**：Zelax（zelax.ru，俄罗斯）
+**官方名称（调研核实）**：ООО НПП «Зелакс» / Zelax（Zelenograd, Moscow, Russia；zelax.ru；俄罗斯电信设备制造商）
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SA-106`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -10,7 +10,7 @@ code: SA-106
 rating: B
 rating_auto: A
 rating_research: B  # 在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。
-name_official: "Zelax（zelax.ru，俄罗斯）"
+name_official: "ООО НПП «Зелакс» / Zelax（Zelenograd, Moscow, Russia；zelax.ru；俄罗斯电信设备制造商）"
 score: 68
 country: 俄罗斯
 region: 俄语区
@@ -22,8 +22,8 @@ replies: 0
 followups: 17
 first_contact: 2024-05-13
 last_contact: 2025-11-03
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STI-288DGGPM
+price_tier: 30%
 research: done
 sources: 1
 updated: 2026-10-21
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯电信设备厂商/供应商（用户记录：曾采购迈威 Maiwe 交换机），17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：买了迈威的  Switch）
+- **是谁**：俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。（调研 2026-10-21；表内兴趣：买了迈威的  Switch）
 - **为什么是 B 级**：**调研后定级 B**（在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 17 次（2024-05-13 → 2025-11-03）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -56,18 +56,57 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：俄罗斯电信设备厂商/供应商（用户记录：曾采购迈威 Maiwe 交换机），17 次跟进 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。
 - **类型**：设备厂商/分销
 - **规模**：待补证
-- **在卖/在用品牌**：迈威 Maiwe（用户记录：在采）
+- **在卖/在用品牌**：迈威 Maiwe（用户记录：在采）, Zelax ZES（自有）, Maiwe 迈威（在采）
 - **【用户记录】买了迈威的交换机；0 回复 / 17 次跟进**
   > 买了迈威的 Switch（用户 Clients 表摘录）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】公司定位与产品线**
+  > Zelax — ведущий российский разработчик и производитель решений для сетей передачи данных. … Собственное производство и исследовательский центр Zelax, расположенные в Зеленограде … выпускает системы оптического уплотнения, маршрутизаторы, коммутаторы, мультиплексоры, модемы, шлюзы TDM через IP, конвертеры
+  > 来源：https://www.zelax.ru/company/（抓取 2026-10-21）
+- **【官网】工业交换机 ZES**
+  > Индустриальный коммутатор Zelax ZES — интеллектуальное устройство, предназначенное для построения сетей Ethernet по оптимальной цене.
+  > 来源：https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/（抓取 2026-10-21）
+- **【LinkedIn】规模与成立**
+  > Zelax … Company size: 51-200 employees … Headquarters: Москва, г. Зеленоград … Founded: 1988
+  > 来源：https://www.linkedin.com/company/zelax（抓取 2026-10-21）
+- **【名录】客户类型（守界线索）**
+  > Репутацию производителя надежного телекоммуникационного оборудования компания заработала в результате многолетнего сотрудничества с крупнейшими предприятиями стратегически важных отраслей российской экономики и государственными структурами.
+  > 来源：https://eloborud.ru/zelax/（抓取 2021-01-28）
+- **【用户表】买了迈威交换机；17 次跟进**
+  > 买了迈威的 Switch / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。
 - 备注：重启一次：'迈威工业系列对位 STI 工业 PoE 机型 + 价差'邮件。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ООО Научно-производственное предприятие «Зелакс»（ИНН 5044097824） |
+| 成立 | 1988 |
+| 总部/地址 | Zelenograd, Moscow（研发 + 生产）；Подолино（莫斯科州） |
+| 其他 | 自有品牌 Speedway 平台、ZES 交换机系列；产品含 SFP 模块 |
+
+- **业务线**：电信传输设备制造（光复用、路由、交换、复用器）；工业交换机 ZES-22xx（疑外采贴牌）；运营商与企业网项目
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Zelax | ZES-2220S（ZES-22xx 系列） | 工业交换机（官网；疑外采贴牌） | STI-288GPM（$85.5@30）/ STI-288DGGPM（$151.6@30） | https://www.zelax.ru/products/routers-switches/industrial-switch-zes-22xx/（2026-10-21） |
+| Zelax | ZES-20xx / ZES-32xx | 企业局域网接入交换机 | STC-424XGGM（$138.0@30） | https://model.rubytech.ru/vendors/ooo-npp-zelaks/（2026-10-21） |
+| Maiwe 迈威 | （型号未记录） | 用户记录：买了迈威的 Switch | — | （本地 Clients/ 表格，无公开 URL）（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.zelax.ru/；邮箱: sales@zelax.ru（用户表 = 官网销售箱）；LinkedIn: https://www.linkedin.com/company/zelax
+- **近况信号**：
+  - 自有品牌制造商、已外采 Maiwe 交换机 → ZES 系列贴牌第二来源（OEM 30%）
+  - 官网售 SFP 模块 → 可配套
+- **风险/边界**：客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）
+- **邮件切入句（英文）**：Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -125,20 +164,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（设备厂商/分销） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0） | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（设备厂商/分销） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -146,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：无具名决策人，仍是公司级触达；已推送 17 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入；规模（调研）：待补证
+- **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -175,14 +213,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Zelax ZES-2220S（ZES-22xx 系列） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,18 +1,58 @@
 {
  "code": "SA-104",
- "name_official": "Pulsar（pulsar.kz，哈萨克斯坦）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "哈萨克斯坦网络/安防设备经销商，已从 UniPoE 采购商业 PoE 交换机（1216POE），17 次跟进 0 回复。",
+ "name_official": "TOO «Pulsar Systems»（Astana / Almaty, Kazakhstan；pulsar.kz；ZKTeco / Hikvision 官方分销商，UNIPOE / TVT / Secuscan 独家分销）",
+ "website_status": "在线（含网店 shop.pulsar.kz）",
+ "summary": "哈萨克斯坦安防分销商 Pulsar Systems LLP（ZKTeco、Hikvision 官方分销商；TVT（CCTV）、Secuscan（X 光）、UNIPOE（PoE 交换机）在哈萨克斯坦与俄罗斯的独家分销商；阿斯塔纳 +7 702 000-61-16、阿拉木图 +7 702 000-61-17；网店在售 UNIPOE PM3018GSNL-330 V2（16 PoE + 2 SFP）118,195 ₸、PM3010FSN（8 FE PoE + 2 上联）26,467 ₸、PM3026GSNL-330 V2（24 PoE + 2 SFP）、Dahua PoE 交换机）。用户表：从 UniPoE 买商用 PoE（1216POE）；17 次跟进 0 回复。已是 UniPoE 独家分销 → Saga 只能作「第二来源/自有标」切入，分销 20%。",
  "type": "经销商",
  "size": "待补证",
  "brands_seen": [
-  "UniPoE（在用）"
+  "UniPoE（在用）",
+  "UNIPOE（独家分销）",
+  "Hikvision",
+  "ZKTeco",
+  "Dahua",
+  "TVT"
  ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "从 UniPoE 买商业 PoE（1216POE）；0 回复 / 17 次跟进",
    "quote": "从UnipoE买一些商业poE / 买了Unipoe的1216POE（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "分销身份",
+   "quote": "TOO «Pulsar Systems» является официальным дистрибьютором в Казахстане: ZKTeco, Hikvision",
+   "url": "https://pulsar.kz/company/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "展会名录",
+   "claim": "UNIPOE/TVT/Secuscan 独家分销",
+   "quote": "Pulsar Systems is the exclusive distributor in Kazakhstan and Russia of TVT (CCTV), Secuscan (X-Ray systems) and UNIPOE (PoE switches) companies.",
+   "url": "https://reg.iteca.kz/list/en/details.aspx?link=0x60e8ffb98fed6a418c710d6933467cdd",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "网店",
+   "claim": "UNIPOE 16 PoE 价格",
+   "quote": "Коммутатор UNIPOE PM3018GSNL-330 V2 (16 PoE + 2 SFP) … 118 195 ₸",
+   "url": "https://shop.pulsar.kz/p51552357-kommutator-unipoe-pm3018gsnl.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "网店",
+   "claim": "电话与 Dahua 在售",
+   "quote": "Сетевой POE-коммутатор DAHUA DH-LR2226-24ET-360 226 550 ₸ В наличии +7 (702) 000-61-16 Отдел продаж г. Астана +7 (702) 000-61-17 Отдел продаж г. Алматы",
+   "url": "https://shop.pulsar.kz/g6999863-poe-porta",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从 UniPoE 买商用 PoE；17 次跟进",
+   "quote": "从UnipoE买一些商业poE / 买了Unipoe的1216POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -29,5 +69,72 @@
  "grade_override": "B",
  "override_reason": "品类完全对位（商业 PoE，UniPoE 在用）但 17 次推送 0 回复，俄语区非主攻 → 慢跟。",
  "notes": "重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 网店核对）"
+ },
+ "company_facts": {
+  "legal_name": "TOO «Pulsar Systems»（Pulsar Systems LLP）",
+  "hq": "Astana（+7 702 000-61-16）/ Almaty（+7 702 000-61-17），Kazakhstan",
+  "size": "中型分销商（规模待核）",
+  "other": "ZKTeco / Hikvision 官方分销；UNIPOE / TVT / Secuscan 独家分销（KZ + RU）"
+ },
+ "business_lines": [
+  "安防设备分销（CCTV、门禁、X 光）",
+  "PoE 交换机分销（UNIPOE、Dahua）",
+  "项目供货与安装"
+ ],
+ "products_seen": [
+  {
+   "brand": "UNIPOE",
+   "model": "PM3018GSNL-330 V2",
+   "spec": "16 GE PoE + 2 SFP 非管理；网店 118,195 ₸",
+   "saga": "STC-2016GP（同口型，列表 $88.0）",
+   "url": "https://shop.pulsar.kz/p51552357-kommutator-unipoe-pm3018gsnl.html",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "UNIPOE",
+   "model": "PM3010FSN",
+   "spec": "8 FE PoE + 2 上联；26,467 ₸",
+   "saga": "STC-028GP（千兆升级，$24.2）",
+   "url": "https://pulsar.kz/p51552352-kommutator-unipoe-pm3010fsn.html",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "UNIPOE",
+   "model": "PM3026GSNL-330 V2",
+   "spec": "24 GE PoE + 2 SFP 非管理",
+   "saga": "STC-2024GP（$93.5）",
+   "url": "https://pulsar.kz/catalog/setevye-kommutatory/kommutator-24ge-poe-2sfp-unmanaged-poe-switch-model-pm3026gsnl-330-v2/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Dahua",
+   "model": "DH-LR2226-24ET-360",
+   "spec": "24 PoE 交换机；226,550 ₸",
+   "saga": "STC-2024GP（$93.5）",
+   "url": "https://shop.pulsar.kz/g6999863-poe-porta",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "网站": "https://pulsar.kz/company/ · https://shop.pulsar.kz/",
+  "电话": "+7 702 000-61-16 / -61-17（公开）",
+  "邮箱": "info@pulsar.kz（用户表）"
+ },
+ "signals": [
+  "UNIPOE 独家分销 → 对 UniPoE 价格/交期敏感时可引入第二来源；网店零售价（16 PoE 118,195 ₸ ≈ $220）与 Saga 列表 $88 价差大",
+  "ZKTeco/Hikvision 分销商 → PoE 配套走量"
+ ],
+ "risks": [
+  "UNIPOE 独家关系（冲突）；17 次推送 0 回复；俄语区非主攻区；Hikvision 分销商体量偏大"
+ ],
+ "saga_fit": {
+  "p1": "STC-2016GP",
+  "tier": 20,
+  "why": "分销 20% 档：STC-2016GP（16 GE PoE + 2 SFP 非管理，Saga Realtek 线列表 $88.0）= UNIPOE PM3018GSNL-330 同口型；24 口 STC-2024GP（$93.5）；8 口 STC-028GP（$24.2）"
+ },
+ "email_hook": "Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?"
 }

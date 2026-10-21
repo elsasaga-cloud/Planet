@@ -1,4 +1,5 @@
 # Groupe Penda Telecoms
+**官方名称（调研核实）**：Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）
 
 > **评级 B**　|　塞内加尔　|　档案编号 `SB-445`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -8,6 +9,7 @@
 code: SB-445
 rating: B
 rating_auto: B
+name_official: "Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）"
 score: 40
 country: 塞内加尔
 region: 非洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-110GE
+p1: none
 price_tier: 25%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：塞内加尔的电信/ISP/网络运营；兴趣/在卖：千兆SFP收发器   成样品单 有自己的货代
+- **是谁**：用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。（调研 2026-10-21；表内兴趣：千兆SFP收发器   成样品单 有自己的货代）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；-6 区域 非洲/塞内加尔；-10 最近活动 2019（陈旧）
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：— — 深挖对位：待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,29 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-445.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：无域名
+- **是谁**：用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。
+- **【用户表】千兆 SFP 成样品单；自有货代**
+  > 千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Seydou Jah（（用户表））bigbocar@hotmail.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Groupe Penda Telecoms（待核） |
+| 总部/地址 | Senegal（待核） |
+| 其他 | 自有货代；Hotmail |
+
+- **业务线**：电信/网络设备贸易（推测）
+- **触达通道（公开）**：邮箱: bigbocar@hotmail.com（用户表）
+- **近况信号**：
+  - SFP 样品已成交 + 自有货代 → 复购门槛低；法语市场
+- **风险/边界**：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）
+- **邮件切入句（英文）**：Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -73,6 +97,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Seydou Jah | （用户表） | bigbocar@hotmail.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Seydou Jah | — | bigbocar@hotmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -89,7 +114,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（电信/ISP/网络运营） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8） | — | 深挖对位；档位 25%（电信/ISP/网络运营） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -98,9 +123,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -110,7 +135,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区；没有可靠直达通道
-- **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -135,30 +160,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 公司网站（表内无域名，无法核实是否仍在运营）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Mr.Seydou,
+Hi Seydou,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Picking up our earlier exchange about PoE / industrial switches. Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 
