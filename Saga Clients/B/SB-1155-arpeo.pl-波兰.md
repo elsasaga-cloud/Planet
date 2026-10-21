@@ -2,7 +2,7 @@
 
 > **评级 B**　|　波兰　|　档案编号 `SB-1155`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电工/线缆附件分销商（波兰，工业交换机为副线）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1155
@@ -12,14 +12,14 @@ score: 25
 country: 波兰
 region: 欧洲
 website: arpeo.pl
-type: 电商/网店
+type: 电工/线缆附件分销商（波兰，工业交换机为副线）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:PL"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-21616GP
+p1: STI-080GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰电商/网店：官网「arpeo.pl - Z Arpeo Twoje kable będą bezpieczne. Przepusty kablowe, systemy prowadzenia kab」（pl-PL）；品类词：网络交换 / PoE；站内型号：AISI304、AISI316L、AISI314；表内「工业电源 5 8 16电口」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：工业电源 5 8 16电口）
+- **是谁**：波兰 Arpeo（电缆穿墙密封、线缆导向系统、金属软管、接地夹、工业信号灯等电工产品商；站内有「switch-ethernet-przemyslowy-esn」工业以太网交换机产品页；表内「工业电源 5 8 16 电口」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业电源 5 8 16电口）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-21616GP — 深挖对位：工业 16 PoE + 2 SFP（来源：用户表兴趣；档位：电商/网店→20%）；$170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-080GE — 深挖对位：工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供；$31.4 USD EXW（20% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | arpeo.pl（取自域名，公司全名待核） | 推断 |
 | 国家 | 波兰 | 事实（用户表）|
 | 网站/域名 | arpeo.pl | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 电工/线缆附件分销商（波兰，工业交换机为副线） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量一般 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业电源 5 8 16电口 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（arpeo.pl，快照 2026-10-21）
-- **是谁**：波兰电商/网店：官网「arpeo.pl - Z Arpeo Twoje kable będą bezpieczne. Przepusty kablowe, systemy prowadzenia kab」（pl-PL）；品类词：网络交换 / PoE；站内型号：AISI304、AISI316L、AISI314；表内「工业电源 5 8 16电口」；表内未见跟进记录。
-- **类型**：电商/网店
+- **是谁**：波兰 Arpeo（电缆穿墙密封、线缆导向系统、金属软管、接地夹、工业信号灯等电工产品商；站内有「switch-ethernet-przemyslowy-esn」工业以太网交换机产品页；表内「工业电源 5 8 16 电口」「质量一般」）；表内未跟进。
+- **类型**：电工/线缆附件分销商（波兰，工业交换机为副线）
 - **【官网快照】官网标题：arpeo.pl - Z Arpeo Twoje kable będą bezpieczne. Przepusty kablowe, systemy prowadzenia kab**
   > W Arpeo znajdziesz przejścia kablowe uszczelniające wraz z całym systemem prowadzenia kabli. Ekranowanie przewodów i uziemienie transformatorów i rozdzielni. Lampy przemysłowe stanowiskowe i sygnalizacyjne. Zasilacze przemysłowe, filtry zak
   > 来源：https://arpeo.pl/（抓取 2026-10-21）
@@ -66,23 +66,29 @@ updated: 2026-10-21
 - **【官网快照】官网标题：arpeo.pl - Z Arpeo Twoje kable będą bezpieczne. Przepusty kablowe, systemy prowadzenia kab；品类词 网络交换 / PoE**
   > W Arpeo znajdziesz przejścia kablowe uszczelniające wraz z całym systemem prowadzenia kabli. Ekranowanie przewodów i uziemienie transformatorów i rozdzielni. Lampy przemysłowe stanowiskowe i sygnalizacyjne. Zasilacze przemysłowe, filtry zak
   > 来源：https://arpeo.pl/（抓取 2026-10-21）
+- **【官网快照】Arpeo 站点**
+  > arpeo.pl - Z Arpeo Twoje kable będą bezpieczne. Przepusty kablowe, systemy prowadzenia kab… ; /produkty/switch-ethernet-przemyslowy-esn/
+  > 来源：https://arpeo.pl/（抓取 2026-10-21）
+- **【用户表】工业电源 5 8 16 电口**
+  > 工业电源 5 8 16电口；质量一般
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 波兰 |
 | 其他 | 官网 arpeo.pl，语言 pl-PL，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：网络交换 / PoE
-- **触达通道（公开）**：role: 电商/网店；region: 波兰；contact: arpeo@arpeo.pl
+- **业务线**：电缆穿墙 / 线缆导向 / 电工附件（波兰）；工业以太网交换机 ESN（副线）
+- **触达通道（公开）**：role: 电工/线缆附件分销商（波兰，工业交换机为副线）；region: 波兰；contact: arpeo@arpeo.pl
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://arpeo.pl/）
-  - 官网公开邮箱：arpeo@arpeo.pl
-  - 用户表兴趣/备注：工业电源 5 8 16电口
-- **Saga 对位结论**：P1 STI-21616GP（20% 档）——工业 16 PoE + 2 SFP（来源：用户表兴趣；档位：电商/网店→20%）；$170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail 16-port PoE+ industrial switch with 2 SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：W Arpeo znajdziesz przejścia kablowe uszczelniające wraz z całym systemem prowadzenia kabli ; Lampy przemysłowe；页面 /produkty/switch-ethernet-przemyslowy-esn/
+  - 表内：工业电源 5 8 16 电口；质量一般
+- **风险/边界**：主业电工附件（Saga 不做），交换机为副线；16 口非 PoE 工业型号与工业电源 Saga 不供；表内「质量一般」；仅通用邮箱
+- **Saga 对位结论**：P1 STI-080GE（20% 档）——工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供
+- **邮件切入句（英文）**：For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -133,7 +139,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-21616GP | 深挖对位：工业 16 PoE + 2 SFP（来源：用户表兴趣；档位：电商/网店→20%）；$170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $170.4 USD EXW（20% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
+| **P1** | STI-080GE | 深挖对位：工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供 | $31.4 USD EXW（20% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电工/线缆附件分销商（波兰，工业交换机为副线）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,9 +148,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-21616GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-080GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-21616GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-080GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -154,7 +160,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-21616GP 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-080GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -182,25 +188,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail 16-port PoE+ industrial switch with 2 SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+Picking up our earlier exchange about PoE / industrial switches. For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $170.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（elfa.se，快照 2026-10-21）",
- "summary": "瑞典系统集成/工程商：官网「Industriella lösningar och elektriska komponenter | RS」（sv-SE）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Siemens；站内型号：WE1010、FTC260、AP7553、EDS-G205-1GTXSFP；表内「MOXA的工业FS 工业MC POE」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "瑞典 Elfa（elfa.se 现为 RS Group（原 Elfa Distrelec）瑞典站：工业与电子元器件巨头分销商，站内 Moxa EDS-G205、Planet 等；表内「Moxa 的工业 FS 工业 MC PoE」）；表内未跟进。",
+ "type": "元器件巨头分销商（RS Group）",
  "size": "",
  "brands_seen": [
-  "Siemens"
+  "Siemens",
+  "Moxa",
+  "Planet"
  ],
  "evidence": [
   {
@@ -23,42 +25,53 @@
    "quote": "MOXA的工业FS 工业MC POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Elfa/RS 定位",
+   "quote": "Industriella lösningar och elektriska komponenter | RS ; RS är den ledande leverantören av industriella och elektroniska lösningar",
+   "url": "https://se.rs-online.com/web/?referrer=distrelec",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Moxa 工业 FS MC PoE",
+   "quote": "MOXA的工业FS 工业MC POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "体量过大：RS Group（Elfa Distrelec）巨头分销商；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 elfa.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业 / 电子元器件分销（巨头）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "元器件巨头分销商（RS Group）",
   "region": "瑞典",
   "contact": "offert@elfa.se、order@elfa.se"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://se.rs-online.com/web/?referrer=distrelec）",
-  "在售工业网络品牌：Siemens → 工业线对位",
-  "官网公开邮箱：exemple@email.com、kund@rsonline.se",
-  "用户表兴趣/备注：MOXA的工业FS 工业MC POE"
+  "官网：Industriella lösningar och elektriska komponenter | RS ; RS är den ledande leverantören av industriella och elektroniska lösningar；站内 EDS-G205-1GTXSFP / FLUKE-115C；kw datacenter 11 / moxa 1 / planet 1",
+  "表内：MOXA 的工业 FS 工业 MC PoE"
  ],
- "risks": [],
+ "risks": [
+  "体量：RS Group（Elfa Distrelec）全球巨头分销商，供应商准入体系，白牌无切入口"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：系统集成/工程商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "RS Group（Elfa Distrelec）为全球元器件巨头分销商 → 改 C（体量）"
  },
- "email_hook": "Alongside the Siemens lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：巨头分销商）"
 }

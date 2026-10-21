@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（safeguard.se，快照 2026-10-21）",
- "summary": "波兰系统集成/工程商：官网「SafeGuard Sverige | Företagslarm och säkerhetslösningar」（sv-SE）；表内「PoE switch」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "瑞典 SafeGuard Sverige（斯德哥尔摩/梅拉伦地区企业报警、摄像监控、门禁与卷帘安装商；表内国别「波兰」有误（.se、Stockholm）；KP Amanda Andén / Sara；表内「PoE switch」「质量一般」）；表内未跟进。",
+ "type": "安防安装商（瑞典，PoE 配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,62 @@
    "quote": "PoE switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SafeGuard 定位",
+   "quote": "SafeGuard Sverige | Företagslarm och säkerhetslösningar ; erbjuder företagslarm, kameraövervakning, passersystem och jalusier för företag och BRF:er i Stockholm och Mälardalen",
+   "url": "https://www.safeguard.se/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE switch",
+   "quote": "PoE switch；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Amanda Andén",
+   "title": "（职务待核）",
+   "email": "sara@safeguard.se",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 safeguard.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "企业报警 / 摄像监控 / 门禁安装（瑞典）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
-  "region": "波兰",
+  "role": "安防安装商（瑞典，PoE 配套）",
+  "region": "瑞典",
   "contact": "sara@safeguard.se、info@safeguard.se"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.safeguard.se/）",
-  "官网公开邮箱：email1@domain.com、email2@domain.com、email3@domain.com",
-  "用户表兴趣/备注：PoE switch"
+  "官网：SafeGuard Sverige erbjuder företagslarm, kameraövervakning, passersystem och jalusier för företag och BRF:er i Stockholm och Mälardalen",
+  "表内：PoE switch；KP Amanda Andén；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "安装商（单项目量小）；国别已更正为瑞典；表内「质量一般」"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：系统集成/工程商→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "监控/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Amanda, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Amanda, for the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your Stockholm-area sites use most?",
+ "country_fix": "瑞典"
 }

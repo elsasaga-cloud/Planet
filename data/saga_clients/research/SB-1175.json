@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cratsol.ae，快照 2026-10-21）",
- "summary": "英国网络/安防经销或集成（官网未见角色词，待核）：官网「cratsol.ae」；表内「10G DAC 3米 300个单价」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。",
+ "type": "IT 贸易商（英国/阿联酋，DAC 询盘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,13 @@
    "quote": "10G DAC 3米 300个单价",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "10G DAC ×300 询盘",
+   "quote": "10G DAC 3米 300个单价；Issac Grant Skype人名 Amir Zahirshah 质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,29 +36,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "英国",
   "other": "官网 cratsol.ae，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "IT 产品贸易（英国 / 阿联酋）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "IT 贸易商（英国/阿联酋，DAC 询盘）",
   "region": "英国",
   "contact": "sales@cratsol.co.uk"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://cratsol.ae/）",
-  "用户表兴趣/备注：10G DAC 3米 300个单价"
+  "表内：10G DAC 3 米 300 个单价；Issac Grant Skype 人名 Amir Zahirshah；质量一般",
+  "快照：内容为空（cratsol.ae / cratsol.co.uk）"
  ],
- "risks": [],
+ "risks": [
+  "询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@"
+ ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位"
  },
- "email_hook": "Issac, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?"
 }

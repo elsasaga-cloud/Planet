@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（elfon.com.pl，快照 2026-10-21）",
- "summary": "波兰系统集成/工程商：官网「Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe」；站内型号：OP-H4；表内「商业POE」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "波兰 ELFON（数字对讲/可视对讲制造商：Optima 255 系统、模拟/双线对讲、电源与继电器、PC-OPTIMA 软件；表内「商业 PoE」）；表内未跟进。",
+ "type": "楼宇对讲制造商（波兰，自有品牌，PoE 为配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "商业POE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ELFON 定位",
+   "quote": "Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe ; Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe",
+   "url": "https://elfon.com.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,30 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 elfon.com.pl，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "楼宇对讲 / 可视对讲制造（波兰，自有品牌 ELFON）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "楼宇对讲制造商（波兰，自有品牌，PoE 为配套）",
   "region": "波兰",
   "contact": "zamowienia@elfon.com.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://elfon.com.pl/）",
-  "官网公开邮箱：biuro@elfon.com.pl、biuro@labelia.com.pl、greon@elfon.com.pl",
-  "用户表兴趣/备注：商业POE"
+  "官网：Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe ; Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe, systemy domofonowe, wideodomofony, zasilacze",
+  "表内：商业 PoE"
  ],
- "risks": [],
+ "risks": [
+  "对讲产品线以模拟/双线为主（IP PoE 用量待核）；仅 zamowienia@（订单邮箱），未跟进过"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "IP 对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ELFON 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?"
 }

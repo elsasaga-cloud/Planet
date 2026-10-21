@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cellco.com.pl，快照 2026-10-21）",
- "summary": "波兰网络/安防经销或集成（官网未见角色词，待核）：官网「Kable ¶wiat³owodowe - CWDM - GPON - patchcord sc - prze³±cznice ¶wiat³owodowe」；品类词：电信 / FTTH / ISP 设备 / 光纤 / 媒体转换；站内型号：CELLCO24；表内「MC较多 没咋看到switch」；表内未见跟进记录。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "波兰 Cellco（「jeden z największych dostawców technologii światłowodowej」光纤技术主要供应商之一：光缆、CWDM、GPON、跳线、光纤配线架、10G/FTTH；表内「MC 较多 没咋看到 switch」「质量一般」；KP Tomasz Wieczorek）；表内未跟进。",
+ "type": "光纤技术分销商（波兰，MC 为有源副线）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,61 @@
    "quote": "MC较多 没咋看到switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Cellco 定位",
+   "quote": "Cellco to jeden z największych dostawców technologii światłowodowej. W naszej ofercie znajdziesz patchcord sc, kable światłowodowe, przełącznice światłowodowe",
+   "url": "http://www.cellco.com.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC 较多",
+   "quote": "MC较多 没咋看到switch；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Tomasz Wieczorek",
+   "title": "（职务待核）",
+   "email": "tomasz.wieczorek@cellco.com.pl",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 cellco.com.pl，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "光纤 / 媒体转换"
+  "光缆 / CWDM / GPON / 光纤配线分销（波兰）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "光纤技术分销商（波兰，MC 为有源副线）",
   "region": "波兰",
   "contact": "tomasz.wieczorek@cellco.com.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，http://www.cellco.com.pl/）",
-  "官网公开邮箱：adam.szymanowski@cellco.com.pl、bartosz.pajaczek@cellco.com.pl、bartosz.wieczorek@cellco.com.pl",
-  "用户表兴趣/备注：MC较多 没咋看到switch"
+  "官网：Kable światłowodowe - CWDM - GPON - patchcord sc - przełącznice światłowodowe ; Cellco to jeden z największych dostawców technologii światłowodowej；kw 10g 13 / ftth 10 / sfp 7",
+  "表内：MC 较多 没咋看到 switch；质量一般；KP Tomasz Wieczorek"
  ],
- "risks": [],
+ "risks": [
+  "主业无源光纤（Saga 不供 SFP/跳线），MC 为副线；表内「质量一般」；未跟进过"
+ ],
  "saga_fit": {
   "p1": "STI-110GE",
-  "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most?"
 }

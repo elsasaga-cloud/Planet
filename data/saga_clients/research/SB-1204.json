@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ipcamerawebwinkel.nl，快照 2026-10-21）",
- "summary": "荷兰电商/网店：官网「Webdesign en IT diensten in de omgeving Rotterdam - Zeevalk webdesign en IT」（nl-NL）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi；站内品牌：Hikvision；产品页：webshops；表内「线缆 POE相关的 产品较少」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "荷兰 ipcamerawebwinkel.nl / Zeevalk（鹿特丹网页设计与 IT 服务公司经营的 IP 摄像机网店；Hikvision；表内「线缆 PoE 相关 产品较少」）；表内未跟进。",
+ "type": "IP 摄像机网店（荷兰，IT 服务公司兼营）",
  "size": "",
  "brands_seen": [
   "Hikvision"
@@ -23,6 +23,20 @@
    "quote": "线缆 POE相关的 产品较少",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Zeevalk 定位",
+   "quote": "Webdesign en IT diensten in de omgeving Rotterdam - Zeevalk webdesign en IT ; Een website of webshop laten maken",
+   "url": "https://www.zeevalk.nl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "线缆 PoE 产品较少",
+   "quote": "线缆 POE相关的 产品较少",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,32 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "荷兰",
   "other": "官网 ipcamerawebwinkel.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi"
+  "IP 摄像机网店 / 网页设计与 IT 服务（荷兰）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "IP 摄像机网店（荷兰，IT 服务公司兼营）",
   "region": "荷兰",
   "contact": "info@zeevalk.nl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.zeevalk.nl/）",
-  "安防品牌：Hikvision → PoE 配套切入",
-  "官网公开邮箱：info@zeevalk.nl",
-  "用户表兴趣/备注：线缆 POE相关的 产品较少"
+  "官网（zeevalk.nl）：Webdesign en IT diensten in de omgeving Rotterdam ; Een website of webshop laten maken；页面 /webshops/；kw camera 32 / installer 41；brands Hikvision",
+  "表内：线缆 PoE 相关的 产品较少"
  ],
- "risks": [],
+ "risks": [
+  "网店为 IT 服务公司兼营（量小）；PoE 相关产品少；仅 info@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Alongside the Hikvision lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the PoE switches you list with IP cameras, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your camera-kit buyers choose most?"
 }
