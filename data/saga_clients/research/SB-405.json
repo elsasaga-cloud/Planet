@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（murrelektronik.de，快照 2026-10-21）",
- "summary": "德国工业自动化/IoT 方案商：官网「Wir sind Experte für Automatisierungslösungen | Murrelektronik」（de）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：IP69K、IMPACT67；表内「电口」；群发 7 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。",
+ "type": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "电口",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Murrelektronik 定位",
+   "quote": "Wir sind Experte für Automatisierungslösungen | Murrelektronik ; Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik ; /product-portfolio/industrial-switches",
+   "url": "https://my.murrelektronik.com/home/de",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "电口；着重跟",
+   "quote": "电口；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +43,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "分布式自动化（I/O、连接、电源）",
+  "工业交换机 / 工业无线"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
   "region": "德国",
   "contact": "shop@murrelektronik.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://my.murrelektronik.com/home/de）",
-  "官网公开邮箱：info@murrelektronik.de",
-  "用户表兴趣/备注：电口"
+  "页面 /home/en/technologies-systems/product-portfolio/industrial-switches、…/industrial-switches/industrial-wireless；官网：Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik；站内 IP69K / IMPACT67",
+  "表内：电口；可以着重跟一下"
  ],
- "risks": [],
+ "risks": [
+  "体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做",
+  "7 次无回复，仅 shop@，无具名 KP；用户标「着重跟」"
+ ],
  "saga_fit": {
   "p1": "STI-280GE",
-  "tier": 25,
-  "why": "官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做"
  },
- "email_hook": "We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?"
 }

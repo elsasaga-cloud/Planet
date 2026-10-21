@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（smanex.com，快照 2026-10-21）",
- "summary": "台湾品牌商/贴牌需求（OEM/ODM）：官网「SMANEX｜M2M+AIoT Solutions」（en）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内型号：SW3108G-C、SD102-C、SR402、SW3105GP-1GF；表内「工业FS 自己的品牌」；群发 3 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "台湾 SMANEX（M2M + AIoT 方案：工业 IoT 网关、工业以太网交换机 SW3108G-C / SW3105GP-1GF / SW3110GP-2GF、蜂窝连接、SDRMS 远程设备管理；Hannover Messe 2025 参展；表内「工业 FS 自己的品牌」）；表内 3 次跟进无回复。",
+ "type": "台湾工业网络厂商（同行）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,53 @@
    "quote": "工业FS 自己的品牌",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "SMANEX 定位",
+   "quote": "SMANEX｜M2M+AIoT Solutions ; SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions",
+   "url": "https://www.smanex.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的品牌",
+   "quote": "工业FS 自己的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "同行：台湾工业网络厂商 SMANEX（自有工业交换机系列），非渠道客户；c_sub=同行/台湾厂商",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "台湾",
   "other": "官网 smanex.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "工业 IoT 网关 / 工业以太网交换机（自有品牌 SMANEX）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "台湾工业网络厂商（同行）",
   "region": "台湾",
   "contact": "info@smanex.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.smanex.com/）",
-  "官网公开邮箱：example@mysite.com、info@smanex.com",
-  "用户表兴趣/备注：工业FS 自己的品牌"
+  "官网：SMANEX provides industrial IoT gateways, industrial Ethernet switches, cellular connectivity and SDRMS remote device management solutions；站内 SW3108G-C / SW3105GP-1GF / SW3110GP-2GF；页面 hannover-messe-2025",
+  "表内：工业 FS 自己的品牌"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "同行：台湾自有品牌工业以太网交换机与 IoT 网关厂商，非渠道客户"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": null,
   "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "台湾自有品牌工业交换机/网关厂商（同行），非渠道客户 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：同行/台湾厂商）"
 }

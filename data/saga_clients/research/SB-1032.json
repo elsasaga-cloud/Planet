@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（radwin.com，快照 2026-10-21）",
- "summary": "以色列电商/网店：官网「RADWIN | Carrier-Grade Fixed Wireless Access & Mobility Solutions」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内品牌：Aruba；产品页：introducing-dynamic-channel-switching-dc、shop、idu-s-26、idu-si-27；表内「Ethernet Switch」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "以色列 RADWIN（运营商级固定无线接入与回传厂商：RADWIN 2000 PtP、TerraNet 60 GHz、QORA、托管服务；网店 IDU-S / IDU-SI 室内单元；表内「Ethernet Switch」；KP Dave Azria（Director of Product Management）、Sharon Sher（CEO））；表内未跟进。",
+ "type": "固定无线设备厂商（以色列，体量大；配套交换机 OEM）",
  "size": "",
  "brands_seen": [
   "Aruba"
@@ -23,44 +23,70 @@
    "quote": "Ethernet Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "RADWIN 定位",
+   "quote": "RADWIN | Carrier-Grade Fixed Wireless Access & Mobility Solutions ; reliable, high-capacity wireless broadband and backhaul solutions that connect people, businesses, and infrastructure worldwide",
+   "url": "https://www.radwin.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Ethernet Switch",
+   "quote": "Ethernet Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Dave Azria",
+   "title": "Director of Product Management",
+   "email": "dave_a@radwin.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Sharon Sher",
+   "title": "CEO",
+   "email": "sharon_sher@radwin.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 radwin.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "固定无线接入 / 回传设备（自有品牌 RADWIN）",
+  "托管服务"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "固定无线设备厂商（以色列，体量大；配套交换机 OEM）",
   "region": "以色列",
   "contact": "dave_a@radwin.com、sharon_sher@radwin.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.radwin.com/）",
-  "官网公开邮箱：rwp@radwin.com",
-  "用户表兴趣/备注：Ethernet Switch"
+  "官网：RADWIN delivers reliable, high-capacity wireless broadband and backhaul solutions；首页 Introducing QORA ; TerraNet 60GHz mmWave Series ; Smart city, rural access & industrial connectivity；页面 /shop/idu-s-26、/shop/idu-si-27；kw wireless 63 / switch 18",
+  "表内：Ethernet Switch；KP Dave Azria / Director of Product Management；Sharon Sher / CEO"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "体量大（全球无线厂商）：配件供应链既定，准入长；非主攻区（T5，以色列）",
+  "未跟进过；具名 KP 为产品总监/CEO（高层，首触回复率低）"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：电商/网店→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做"
  },
- "email_hook": "Dave, alongside the Aruba lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?"
 }

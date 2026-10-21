@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（nodactechnology.com，快照 2026-10-21）",
- "summary": "美国分销商/批发商：官网「Security & Low Voltage Solutions Distributor USA | Nodac Technology」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换；站内品牌：Uniview、ZKTeco、Hikvision；站内型号：IPC3615SE-ADF28KM-WL-I0、OCB-UNIPC4744-BEZK、AC324-FD4M、AE-DC2015-B1；表内「很多品牌子的」；群发 5 次、无回复。",
- "type": "分销商/批发商",
+ "summary": "美国 Nodac Technology（安防与弱电分销商：CCTV、报警、门禁、网络、VoIP、智能安防，覆盖美国/加勒比/中美洲；Uniview / ZKTeco / Hikvision；经销商与项目登记计划；表内「很多品牌子的；销售平台」）；表内 5 次跟进无回复。",
+ "type": "安防弱电分销商（美国/加勒比）",
  "size": "",
  "brands_seen": [
   "Uniview",
   "ZKTeco",
-  "Hikvision"
+  "Hikvision",
+  "Axis"
  ],
  "evidence": [
   {
@@ -25,6 +26,20 @@
    "quote": "很多品牌子的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Nodac 定位",
+   "quote": "Security & Low Voltage Solutions Distributor USA | Nodac Technology ; We distribute CCTV, alarms, access control, networking, VoIP, and smart security systems in the USA, Caribbean, and Central America",
+   "url": "https://nodactechnology.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "很多品牌",
+   "quote": "很多品牌子的；销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -33,35 +48,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 nodactechnology.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防 / 弱电分销（CCTV、报警、门禁、网络、VoIP）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "安防弱电分销商（美国/加勒比）",
   "region": "美国",
   "contact": "info@nodactechnology.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://nodactechnology.com/）",
-  "安防品牌：Uniview、ZKTeco、Hikvision → PoE 配套切入",
-  "官网公开邮箱：info@nodac.com、info@nodactechnology.com",
-  "用户表兴趣/备注：很多品牌子的"
+  "官网：We distribute CCTV, alarms, access control, networking, VoIP, and smart security systems in the USA, Caribbean, and Central America；首页 DealerShip ; Project Registration；kw camera 42 / poe 16 / cctv 20",
+  "表内：很多品牌子的；销售平台"
  ],
- "risks": [],
+ "risks": [
+  "多品牌分销（Uniview/Hikvision 自带 PoE）：白牌为预算补位；仅 info@，无具名 KP",
+  "5 次跟进无回复"
+ ],
  "saga_fit": {
-  "p1": "STI-288GP",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "官网快照对位：工业/自动化词频 5、PoE 16 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "安防分销配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "Alongside the Uniview / ZKTeco lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Alongside the Uniview and ZKTeco lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus budget 8/16-port PoE units for installer kits from small lots, FCC/CE/RoHS, EXW USD — which port count do your dealers order most?"
 }

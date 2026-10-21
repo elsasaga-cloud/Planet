@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-014`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 10 次（2024-11-08 → 2025-10-16）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：CCTV 品牌商（加拿大，自有标 PoE；官网待核）（推断）　|　**历史关系**：推送 10 次（2024-11-08 → 2025-10-16）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-014
@@ -12,7 +12,7 @@ score: 61
 country: 加拿大
 region: 北美
 website: ovisscctv.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: CCTV 品牌商（加拿大，自有标 PoE；官网待核）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大品牌商/贴牌需求（OEM/ODM）：官网「ovisscctv.com」；表内「商业POE 自己的logo 主要是CCTV」；群发 10 次、无回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo  主要是CCTV）
+- **是谁**：加拿大 OVISS CCTV（官网快照为空页；表内「商业 PoE 自己的 logo，主要是 CCTV」「可以多跟进一下」；邮箱 hello@）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo  主要是CCTV）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 10 次（2024-11-08 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | ovisscctv.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | ovisscctv.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | CCTV 品牌商（加拿大，自有标 PoE；官网待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE 自己的logo <br>主要是CCTV | 事实（用户表） |
@@ -65,30 +65,33 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ovisscctv.com，快照 2026-10-21）
-- **是谁**：加拿大品牌商/贴牌需求（OEM/ODM）：官网「ovisscctv.com」；表内「商业POE 自己的logo 主要是CCTV」；群发 10 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：加拿大 OVISS CCTV（官网快照为空页；表内「商业 PoE 自己的 logo，主要是 CCTV」「可以多跟进一下」；邮箱 hello@）；群发 10 次无回复。
+- **类型**：CCTV 品牌商（加拿大，自有标 PoE；官网待核）
 - **【官网快照】官网标题：ovisscctv.com**
   > 来源：https://ovisscctv.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 商业POE 自己的logo 主要是CCTV
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】商业 PoE 自己的 logo 主要是 CCTV**
+  > 商业POE 自己的logo 主要是CCTV；可以多跟进一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 ovisscctv.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 加拿大；contact: hello@ovisscctv.com
+- **业务线**：CCTV 与配套 PoE（自有品牌）
+- **触达通道（公开）**：role: CCTV 品牌商（加拿大，自有标 PoE；官网待核）；region: 加拿大；contact: hello@ovisscctv.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://ovisscctv.com/）
-  - 用户表兴趣/备注：商业POE 自己的logo 主要是CCTV
-- **风险/边界**：群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 表内：商业 PoE 自己的 logo 主要是 CCTV；可以多跟进一下
+  - 快照：标题/描述/栏目均为空（ovisscctv.com）
+- **风险/边界**：官网快照空页（站点状态待核，可能改版/关闭）；10 次无回复，仅 hello@
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
+- **邮件切入句（英文）**：For the PoE switches you bundle under your own label with camera systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, FCC/CE/RoHS, EXW USD — which port count do your installers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -144,7 +147,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（CCTV 品牌商（加拿大，自有标 PoE；官网待核）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -197,7 +200,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches you bundle under your own label with camera systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, FCC/CE/RoHS, EXW USD — which port count do your installers order most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

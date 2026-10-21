@@ -2,7 +2,7 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-405`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
-> **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：推送 7 次（2025-02-25 → 2025-11-04）　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）（推断）　|　**历史关系**：推送 7 次（2025-02-25 → 2025-11-04）　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-405
@@ -12,7 +12,7 @@ score: 42
 country: 德国
 region: 欧洲
 website: murrelektronik.de
-type: 工业自动化/IoT 方案商
+type: 德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）
 tier_tags: ["A优质名单(DE)"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 7
 first_contact: 2025-02-25
 last_contact: 2025-11-04
 p1: STI-280GE
-price_tier: 25%
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国工业自动化/IoT 方案商：官网「Wir sind Experte für Automatisierungslösungen | Murrelektronik」（de）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：IP69K、IMPACT67；表内「电口」；群发 7 次、无回复。（调研 2026-10-21；表内兴趣：电口）
+- **是谁**：德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：电口）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-02-25 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | murrelektronik.de（取自域名，公司全名待核） | 推断 |
 | 国家 | 德国 | 事实（用户表）|
 | 网站/域名 | murrelektronik.de | 事实（用户表 URL/邮箱域名） |
-| 类型 | 工业自动化/IoT 方案商 | 推断（据兴趣/备注关键词） |
+| 类型 | 德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以着重跟一下 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 电口 | 事实（用户表） |
@@ -55,31 +55,37 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（murrelektronik.de，快照 2026-10-21）
-- **是谁**：德国工业自动化/IoT 方案商：官网「Wir sind Experte für Automatisierungslösungen | Murrelektronik」（de）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：IP69K、IMPACT67；表内「电口」；群发 7 次、无回复。
-- **类型**：工业自动化/IoT 方案商
+- **是谁**：德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。
+- **类型**：德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）
 - **【官网快照】官网标题：Wir sind Experte für Automatisierungslösungen | Murrelektronik；品类词 工业自动化 / OT 网络 / 网络交换 / PoE**
   > Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik. Erfahren sie hier mehr über uns und unsere Lösungen.
   > 来源：https://my.murrelektronik.com/home/de（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 电口
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Murrelektronik 定位**
+  > Wir sind Experte für Automatisierungslösungen | Murrelektronik ; Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik ; /product-portfolio/industrial-switches
+  > 来源：https://my.murrelektronik.com/home/de（抓取 2026-10-21）
+- **【用户表】电口；着重跟**
+  > 电口；可以着重跟一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 德国 |
 | 其他 | 官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：工业自动化 / OT 网络；网络交换 / PoE
-- **触达通道（公开）**：role: 工业自动化/IoT 方案商；region: 德国；contact: shop@murrelektronik.de
+- **业务线**：分布式自动化（I/O、连接、电源）；工业交换机 / 工业无线
+- **触达通道（公开）**：role: 德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）；region: 德国；contact: shop@murrelektronik.de
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://my.murrelektronik.com/home/de）
-  - 官网公开邮箱：info@murrelektronik.de
-  - 用户表兴趣/备注：电口
-- **Saga 对位结论**：P1 STI-280GE（25% 档）——官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 页面 /home/en/technologies-systems/product-portfolio/industrial-switches、…/industrial-switches/industrial-wireless；官网：Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik；站内 IP69K / IMPACT67
+  - 表内：电口；可以着重跟一下
+- **风险/边界**：体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做；7 次无回复，仅 shop@，无具名 KP；用户标「着重跟」
+- **Saga 对位结论**：P1 STI-280GE（30% 档）——自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做
+- **邮件切入句（英文）**：For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -143,10 +149,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-280GE | 深挖对位：官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（来源：官网快照；档位：工业自动化/IoT 方案商→25%）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（工业自动化/IoT 方案商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-280GE | 深挖对位：自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做 | $50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -156,7 +162,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -164,7 +170,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-280GE 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-280GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -197,7 +203,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. We supply the Marvell-based DIN-rail 8-port gigabit industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

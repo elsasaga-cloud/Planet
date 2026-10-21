@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（mahanet-jp.com，快照 2026-10-21）",
- "summary": "日本安防集成/经销：官网「業務用防犯カメラ マハネット － 東北・山形 | 防犯カメラの設置および販売、総合セキュリティシステムをご提供します。」（ja）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内型号：MH-IPC2230S、MH-IPC2231Z、MH-DH1230、NVR-WT504；表内「安防为主 有Utepo的交换机」；群发 7 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "日本 マハネット Mahanet（山形/东北业务用防犯摄像机销售与安装、综合安防系统；自有 MH- 系列 IP 摄像机、NVR、PoE 交换 HUB MH-7204E/7208E/7216E-L2/7224E-L2；表内「安防为主 有 Utepo 的交换机」）；表内 7 次跟进无回复。",
+ "type": "日本安防安装商/自有标（Utepo PoE 在售）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Utepo"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "安防为主 有Utepo的交换机",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Mahanet 定位",
+   "quote": "業務用防犯カメラ マハネット － 東北・山形 | 防犯カメラの設置および販売、総合セキュリティシステムをご提供します ; /product/poe-switching-hub-mh-7216e-poe-l2/",
+   "url": "https://www.mahanet-jp.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "安防为主 有 Utepo 的交换机",
+   "quote": "安防为主 有Utepo的交换机",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,33 +45,51 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "日本",
   "other": "官网 mahanet-jp.com，语言 ja，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "业务用防犯摄像机销售安装（山形/东北）",
+  "自有 MH 系列（摄像机 / NVR / PoE HUB）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "日本安防安装商/自有标（Utepo PoE 在售）",
   "region": "日本",
   "contact": "info@mahanet-jp.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.mahanet-jp.com/）",
-  "用户表兴趣/备注：安防为主 有Utepo的交换机"
+  "页面 /product/poe-switching-hub-mh-7204e-poe/、/mh-7208e-poe/、/mh-7216e-poe-l2/、/mh-7224e-poe-l2/；站内 MH-IPC2230S / NVR-WT504；kw poe 30",
+  "表内：安防为主 有 Utepo 的交换机"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，日本）；现供 Utepo（深圳）价格基准低；PSE/VCCI 由客户申报",
+  "7 次无回复，仅 info@"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the MH-series PoE switching hubs you bundle with your camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; PSE/VCCI by your side — which model do your installations use most?",
+ "products_seen": [
+  {
+   "brand": "Mahanet（自有，Utepo 代工）",
+   "model": "MH-7208E-POE",
+   "spec": "8 口 PoE 交换 HUB",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.mahanet-jp.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Mahanet（自有）",
+   "model": "MH-7224E-POE-L2",
+   "spec": "24 口 PoE L2 交换 HUB",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://www.mahanet-jp.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }
