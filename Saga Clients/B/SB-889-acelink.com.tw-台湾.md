@@ -79,6 +79,14 @@ updated: 2026-10-21
 - 网站/域名：acelink.com.tw
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| —（未具名） | 公司级 | contact@acelink.com.tw | 用户表原值 | Clients/ 表 |
+
+- **通道建议**：企业邮箱可直发
+
 ## 来源与归并（不漏 · 原始行定位）
 
 本客户只有 1 行原始记录。
@@ -107,6 +115,13 @@ updated: 2026-10-21
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
+## SWOT
+
+- **S**：名单内已有联系记录，不是零起点
+- **W**：无具名决策人，仍是公司级触达
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
 ## 触达与风险红线
 
 1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
@@ -114,6 +129,57 @@ updated: 2026-10-21
 3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
 4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
 5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ❌ 未识别（公司级） |
+| 触达通道 | ✅ 企业邮箱 |
+| 现用/在卖交换品牌 | ❓ 未知 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
+- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+
+```text
+Hello,
+
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 

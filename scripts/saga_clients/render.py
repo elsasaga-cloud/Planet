@@ -236,6 +236,223 @@ def followup_plan(ent, grade, p1, tier):
     ])
 
 
+
+P1_EN = {
+    'STC-448DGGPM': ('48-port Gigabit PoE+ L2+ managed switch', 'Marvell-based'),
+    'STC-424DGGPM-280W': ('24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks)', 'Marvell-based'),
+    'STC-424XGGPM-280W': ('24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks', 'Marvell-based'),
+    'STC-448XGGM(L3)': ('48-port Gigabit L3 switch with 10G uplinks', 'CENTEC-based'),
+    'STI-21616GP': ('16-port Gigabit PoE+ industrial switch with 2 SFP uplinks', 'Marvell-based'),
+    'STI-288DGGPM': ('industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP', 'Marvell-based'),
+    'STI-144GP': ('compact industrial switch, 4x Gigabit PoE+ plus 1 SFP', 'Marvell-based'),
+    'STC-28DGGPM': ('8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks', 'Marvell-based'),
+    'STI-110GE': ('industrial mini Gigabit media converter (1 fiber + 1 copper)', 'Marvell-based'),
+}
+SWITCH_BRANDS = {'ONV', 'Utepo', 'Upeto', 'Ewind', 'HRUI', 'E-link', 'Elink', 'E-Link', 'BDCOM', 'PLANET', 'Planet', 'planet', 'Cisco', 'Redlion', 'redlion',
+                 'Red Lion', 'Moxa', 'MOXA', 'Antaira', 'TP-Link', 'Mikrotik', 'MikroTik', 'Ubiquiti', 'Netgear', 'Trendnet', 'TRENDnet', '迈威', 'Maiwe',
+                 'Oring', 'ORing', 'Korenix', 'Westermo', 'Hirschmann', 'Phoenix', 'Advantech', 'Lantech', 'Comnet', 'ComNet', 'Perle', 'Transition',
+                 'Allied Telesis', 'D-Link', 'Zyxel', 'Tenda', 'Ruijie', 'H3C', 'Huawei', 'Aruba', 'HPE', 'Dell', 'Juniper', 'Extreme', 'Cambium',
+                 'EtherWAN', 'Black Box', 'StarTech', 'FS.com', 'Kyland', 'Ruggedcom', 'Scalance', 'Siemens', 'Weidmuller', 'Weidmüller', 'Belden',
+                 'CTCU', 'N-net', 'UniPoE', '优力普', 'G-net', 'Gnet', 'Hioso', 'Raisecom', 'Dptek', 'DPTEK', 'Witek', 'GXCOM', 'Gxcom', '丰润达', '磊通', '洪瑞', '中科德能'}
+_BRANDS_LOW = {b.lower() for b in BRANDS} | {'maiwe', 'bdcom', 'utepo', 'onv', 'planet', 'cisco', 'moxa', 'hikvision', 'dahua', 'tplink', 'tp-link', 'ubiquiti', 'mikrotik', 'netgear', 'trendnet', 'dlink', 'd-link', 'zyxel', 'huawei', 'h3c', 'ruijie'}
+_LATIN_NAME = re.compile(r"^[A-Za-zÀ-ÿĀ-žİıŞşĞğÇçÖöÜü'.\-]{2,}$")
+
+
+def kp_rows(ent):
+    """关键人表：调研 KP（具名）+ 用户表原值联系人/邮箱/电话；每行带状态与来源。"""
+    rows = []
+    rs = ent.get('research') or {}
+    for kp in rs.get('kp', []):
+        nm = (kp.get('name') or '').strip()
+        if not nm or nm.startswith('（'):
+            continue
+        rows.append((nm, kp.get('role') or '—', ' / '.join(x for x in [kp.get('email'), kp.get('phone')] if x) or '—', '调研核实（公开页）', kp.get('source') or '调研'))
+    wa = 'WhatsApp 已加' if ent['flags'].get('wa_added') or ent['wa_in_fu'] else ''
+    seen = {re.sub(r'[^a-z]', '', r[0].lower())[:12] for r in rows}
+    for p in ent['persons'][:8]:
+        nm = re.sub(r'[\u4e00-\u9fff].*$', '', re.split(r'[/|]', p)[0]).strip(' -–:：')
+        if not nm or not re.search(r'[A-Za-zÀ-ÿĀ-ž]', nm):
+            continue  # 纯中文备注（如「自建站是后边网站」）不是人名
+        key = re.sub(r'[^a-z]', '', nm.lower())[:12]
+        if key and key in seen:
+            continue
+        seen.add(key)
+        rows.append((nm, (ent.get('positions') or ['—'])[0], ' / '.join(ent['emails'][:2] + [f'+{x}' for x in ent['phones'][:1]]) or '—', '用户表原值' + ('·' + wa if wa else ''), 'Clients/ 表'))
+        if len(rows) >= 5:
+            break
+    if not rows:
+        ch = ' / '.join(ent['emails'][:2] + [f'+{x}' for x in ent['phones'][:2]]) or '—'
+        rows.append(('—（未具名）', '公司级', ch, '用户表原值' + ('·' + wa if wa else ''), 'Clients/ 表'))
+    return rows
+
+
+def channel_advice(ent, g):
+    wa = ent['flags'].get('wa_added') or ent['wa_in_fu']
+    deaf = ent['fu_count'] >= 8 and not ent['reply_sub']
+    corp = bool(ent['corp_emails'])
+    out = []
+    if wa:
+        out.append('首选 WhatsApp 短消息（已加），邮件只做正式报价')
+    elif ent['phones']:
+        out.append('有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件')
+    if deaf:
+        out.append(f'邮件已推送 {ent["fu_count"]} 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板')
+    elif corp:
+        out.append('企业邮箱可直发')
+    elif ent['emails']:
+        out.append('仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）')
+    else:
+        out.append('无邮箱：只能电话 / WhatsApp / 官网表单')
+    if ent['flags'].get('bounce'):
+        out.append('备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删')
+    return '；'.join(out)
+
+
+def swot(ent, g, typ, p1, tier, brands):
+    rs = ent.get('research') or {}
+    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    S, W, O, T = [], [], [], []
+    if deal:
+        S.append('有成交史，信任与开户成本已付')
+    if ent['reply_sub']:
+        S.append(f'有 {ent["reply_sub"]} 次实质回复（对方认识我们）')
+    if ent['flags'].get('wa_added') or ent['wa_in_fu']:
+        S.append('WhatsApp 直达')
+    if '品牌' in typ or 'OEM' in typ:
+        S.append('自有品牌/贴牌需求 = 现成 OEM 客户')
+    if ent['region'] in ('北美', '欧洲', '土耳其'):
+        S.append(f'{ent["region"]}主攻区，复购与口碑可外溢')
+    if 'ISAF2025展会' in ent['tags']:
+        S.append('ISAF 2025 面对面建立过联系')
+    if not S:
+        S.append('名单内已有联系记录，不是零起点')
+    if not ent['persons'] and not any(not (k.get('name') or '').startswith('（') for k in rs.get('kp', [])):
+        W.append('无具名决策人，仍是公司级触达')
+    if ent['fu_count'] >= 8 and not ent['reply_sub']:
+        W.append(f'已推送 {ent["fu_count"]} 次无回复，邮件通道疲劳')
+    if ent['region'] in ('南亚', '非洲', '拉美', '中东', '俄语区'):
+        W.append(f'{ent["region"]}：物流/收款/汇率摩擦高于主攻区')
+    if not ent['corp_emails'] and not ent['phones']:
+        W.append('没有可靠直达通道')
+    if not W:
+        W.append('Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局')
+    O.append(f'P1 {p1 or "—"} 按 {tier}% 档报价，做现供应商的第二货源')
+    if '品牌' in typ or 'OEM' in typ:
+        O.append('贴牌 + 定制 UI/型号 → 30% 档与长期绑定')
+    sb = [b for b in brands if b in SWITCH_BRANDS]
+    if sb:
+        O.append(f'对位其在用/在卖的 {", ".join(sb[:3])}：涨价、断货或交期拉长时切入')
+    if rs.get('size'):
+        O.append(f'规模（调研）：{rs["size"]}')
+    T.append('深圳同行（ONV / Utepo / 迈威等）价格战')
+    if sb:
+        T.append('现有品牌分销协议可能限制同品类采购')
+    T.append('汇率与海运波动吃掉 20–30% 的价差')
+    return '\n'.join([f'- **S**：{"；".join(S)}', f'- **W**：{"；".join(W)}', f'- **O**：{"；".join(O)}', f'- **T**：{"；".join(T)}'])
+
+
+def qualification(ent, g, brands):
+    rs = ent.get('research') or {}
+    txt = ' '.join(ent['interests'] + ent['remarks'])
+    need = '✅' if re.search(r'PoE|POE|poe|switch|Switch|交换机|工业|industrial|MC|收发器|FS', txt) else '❓ 表内兴趣不含交换机关键词'
+    named = bool(ent['persons']) or any(not (k.get('name') or '').startswith('（') for k in rs.get('kp', []))
+    kp = '✅' if named else '❌ 未识别（公司级）'
+    if ent['corp_emails']:
+        ch = '✅ 企业邮箱'
+    elif ent['flags'].get('wa_added') or ent['wa_in_fu']:
+        ch = '✅ WhatsApp 已加'
+    elif ent['emails']:
+        ch = '⚠️ 仅免费邮箱'
+    elif ent['phones']:
+        ch = '⚠️ 仅电话'
+    else:
+        ch = '❌ 无'
+    br = ('✅ ' + ', '.join(brands[:4])) if brands else '❓ 未知'
+    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    vol = '✅ 有成交史（量待确认）' if deal else ('❓ 未确认（有回复但未报量）' if ent['reply_sub'] else '❓ 未确认')
+    if g == 'A':
+        concl = '**技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进**'
+    elif g == 'B':
+        concl = '**技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟**'
+    else:
+        concl = '**不合格（见 C 级细分）→ 不主动跟进**'
+    return '\n'.join(['| 门槛 | 状态 |', '|---|---|', f'| 需求面成立（在卖/在用交换机或 PoE） | {need} |', f'| 决策人识别 | {kp} |',
+                      f'| 触达通道 | {ch} |', f'| 现用/在卖交换品牌 | {br} |', f'| 采购量/预算 | {vol} |', f'| 商业资格结论 | {concl} |'])
+
+
+def greeting_name(ent):
+    rs = ent.get('research') or {}
+    cands = []
+    for kp in rs.get('kp', []):
+        nm = (kp.get('name') or '').strip()
+        if nm and not nm.startswith('（'):
+            cands.append(nm)
+    cands += ent['persons']
+    titles = {'sales', 'info', 'mr', 'mrs', 'ms', 'miss', 'dr', 'eng', 'ing', 'attn', 'sr', 'sra', 'herr', 'frau', 'mme', 'sig', 'bay', 'bayan', 'team', 'dear'}
+    garbage = {'array', 'none', 'null', 'n/a', 'test', 'unknown', 'contact', 'purchase', 'purchasing', 'manager', 'director', 'owner', 'ceo', 'md'}
+    company_first = re.sub(r'[^a-z]', '', (ent['name'].split() or [''])[0].lower())
+    for nm in cands:
+        for tok in re.split(r'[\s/|,;（(]+', nm.strip())[:3]:
+            if not tok or not _LATIN_NAME.match(tok):
+                break
+            low = tok.lower().strip('.')
+            if low in titles:
+                continue
+            if len(low) <= 2 or low in garbage or re.sub(r'[^a-z]', '', low) == company_first or low in _BRANDS_LOW:
+                break  # 首字母缩写 / 垃圾值 / 公司名当人名 → 退回 Hello,
+            return tok[0].upper() + tok[1:].rstrip('.')
+    return ''
+
+
+def email_draft(ent, g, typ, p1, tier, brands, first_q):
+    if g == 'C':
+        return '> C 级不出邮件样板（不主动跟进）。'
+    if not p1 or p1 not in P1_EN:
+        return '> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。'
+    desc, chip = P1_EN[p1]
+    r = PRICES.get(p1)
+    col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
+    price = f"${r[col]} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)" if r else 'price on request'
+    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    name = greeting_name(ent)
+    hi = f'Hi {name},' if name else 'Hello,'
+    if 'ISAF2025展会' in ent['tags']:
+        opener = 'Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.'
+    elif deal:
+        opener = 'Thank you again for your earlier order with us - this is a short update rather than a cold mail.'
+    elif ent['reply_sub']:
+        opener = 'Picking up our earlier exchange about PoE / industrial switches.'
+    else:
+        opener = 'We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.'
+    sb = [b for b in brands if b in SWITCH_BRANDS]
+    slot = f'the {sb[0]} class you work with' if sb else 'the usual Taiwan-grade units'
+    oem = ' under your own label with neutral packaging' if ('品牌' in typ or 'OEM' in typ or '分销' in typ or '经销' in typ) else ' with neutral packaging'
+    short = re.split(r' \(|, ', desc)[0]
+    subj = f'{p1} - {short} ({chip}, neutral label)'
+    body = '\n'.join([
+        hi, '',
+        opener, '',
+        f'We supply a {chip} {desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. '
+        f'Current price: {price}.', '',
+        f'One question: {first_q}', '',
+        'If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.', '',
+        'Best regards,',
+        'Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)',
+        'https://sagatele.com/',
+    ])
+    return '\n'.join([f'**主题**：{subj}', '', '```text', body, '```', '',
+                      '> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。'])
+
+
+def next_review(g):
+    d = dt.date.today()
+    if g == 'A':
+        return f'- **{(d + dt.timedelta(days=14)).isoformat()}**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。'
+    if g == 'B':
+        return f'- **{(d + dt.timedelta(days=30)).isoformat()}**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。'
+    return '- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。'
+
+
 def render_one(ent):
     g = ent['grade']
     code = ent['code']
@@ -427,6 +644,15 @@ def render_one(ent):
     lines.append('')
     lines.append(fmt_contacts(ent))
     lines.append('')
+    lines.append('## 关键人（KP）与触达通道')
+    lines.append('')
+    lines.append('| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |')
+    lines.append('|---|---|---|---|---|')
+    for r in kp_rows(ent):
+        lines.append('| ' + ' | '.join(md_escape(str(x)) for x in r) + ' |')
+    lines.append('')
+    lines.append(f'- **通道建议**：{channel_advice(ent, g)}')
+    lines.append('')
     lines.append('## 来源与归并（不漏 · 原始行定位）')
     lines.append('')
     if len(ent['sources']) > 1:
@@ -457,6 +683,11 @@ def render_one(ent):
     lines.append('')
     lines.append(followup_plan(ent, g, p1, tier))
     lines.append('')
+    if g != 'C':
+        lines.append('## SWOT')
+        lines.append('')
+        lines.append(swot(ent, g, typ, p1, tier, brands))
+        lines.append('')
     lines.append('## 触达与风险红线')
     lines.append('')
     lines.append('1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。')
@@ -464,6 +695,33 @@ def render_one(ent):
     lines.append('3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。')
     lines.append('4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。')
     lines.append('5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。')
+    lines.append('')
+    lines.append('## Qualification 清单')
+    lines.append('')
+    lines.append(qualification(ent, g, brands))
+    lines.append('')
+    lines.append('## Unknowns（待问清单 · 跟进后逐项消除）')
+    lines.append('')
+    for u in unknown:
+        lines.append(f'- [ ] {u}')
+    if unknown and '年走量与现供应商' not in unknown:
+        lines.append('- [ ] 年走量与现供应商')
+    lines.append('')
+    lines.append('## 英文跟进邮件（样板 · 可直接发送）')
+    lines.append('')
+    lines.append(email_draft(ent, g, typ, p1, tier, brands, first_q))
+    lines.append('')
+    lines.append('## 新跟进记录（仓库外发出后补）')
+    lines.append('')
+    lines.append('| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |')
+    lines.append('|---|---|---|---|---|---|---|')
+    lines.append('|  |  |  |  |  |  |  |')
+    lines.append('')
+    lines.append('> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。')
+    lines.append('')
+    lines.append('## 下次复核')
+    lines.append('')
+    lines.append(next_review(g))
     lines.append('')
     lines.append('## 变更日志')
     lines.append('')
@@ -532,6 +790,22 @@ def write_readme(ents, index):
     L.append('')
     csub = Counter(e['c_sub'] for e in ents if e['grade'] == 'C')
     L.append('C 级细分：' + '；'.join(f'{k} {v}' for k, v in csub.most_common()))
+    L.append('')
+    rsn = sum(1 for e in ents if e.get('research'))
+    ovr = Counter((e['research'].get('grade_override') or 'keep') for e in ents if e.get('research'))
+    L.append('## 调研覆盖（A 候选逐家网页核实）')
+    L.append('')
+    L.append(f'- 自动评级曾为 A 的候选 **全部** 做了网页核实：{rsn} 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；'
+             f'维持 A {ovr["keep"]} / 调研后降 B {ovr["B"]} / 调研后降 C {ovr["C"]}。')
+    L.append('- 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；'
+             '已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。')
+    L.append('- B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。')
+    L.append('')
+    L.append('## 档案结构（与 `profile/` 同骨架）')
+    L.append('')
+    L.append('头部引言（评级/编号/状态）→ `yaml structured_profile` → SALES BRIEF → 基本事实（分层）→ 用户 AI/Claude 评估原文 → 客户调研（引文+URL+日期）→ 在卖/在用品牌→Saga 对位 → '
+             '历史跟进记录（原表照录）→ 联系方式（原值）→ 关键人（KP）与触达通道 → 来源与归并（原始行定位）→ 产品决策（P1 + 备选 + 价格快照）→ 跟进建议（3 步）→ SWOT → '
+             '触达与风险红线 → Qualification 清单 → Unknowns → 英文跟进邮件（样板）→ 新跟进记录 → 下次复核 → 变更日志。C 级省略产品决策/SWOT/邮件样板。')
     L.append('')
     L.append('## 配套文件')
     L.append('')
