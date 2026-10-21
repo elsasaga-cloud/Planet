@@ -2229,6 +2229,7 @@
     "columns": [
      "no",
      "company",
+     "country",
      "person",
      "from",
      "interest",
@@ -5104,6 +5105,7 @@
     "columns": [
      "no",
      "company",
+     "country",
      "person",
      "from",
      "interest",
@@ -7714,7 +7716,9 @@
     "columns": [
      "no",
      "company",
+     "category",
      "person",
+     "from",
      "interest",
      "contact",
      "remark"

@@ -1,0 +1,136 @@
+# seco-larm.com
+
+> **评级 C**　|　美国　|　档案编号 `SC-2151`　|　优先级 —　|　状态：已推送 20 次·未回复
+>
+> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 20 次（2024-03-28 → 2025-10-27）　|　**所在清单**：A优质名单(US)、AI评估(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SC-2151
+rating: C
+rating_auto: C
+score: -16
+country: 美国
+region: 北美
+website: seco-larm.com
+type: 品牌商/贴牌需求（OEM/ODM）
+tier_tags: ["A优质名单(US)", "AI评估(US)", "用户判定不行"]
+deal: no
+replies: 0
+followups: 20
+first_contact: 2024-03-28
+last_contact: 2025-10-27
+p1: STC-28DGGPM
+price_tier: 30%
+research: pending
+sources: 3
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：美国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：商业PoE 自己的logo；商业POE 自己的logo
+- **为什么是 C 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）；C 级细分：用户判定不行/不相关
+- **历史互动**：推送 20 次（2024-03-28 → 2025-10-27）
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
+- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **下一步**：不跟进；仅归档防重复开发
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | seco-larm.com（取自域名，公司全名待核） | 推断 |
+| 国家 | 美国 | 事实（用户表）|
+| 网站/域名 | seco-larm.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 联系人 | Catherine S / Administrator | 事实（用户表） |
+| 来源（From） | 谷歌 | 事实（用户表） |
+| 兴趣（Interested in） | 商业PoE 自己的logo / 商业POE 自己的logo | 事实（用户表） |
+| 用户备注（Remark） | — | 事实（用户表） |
+| 用户 AI 评估 | AI 25% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
+| 所在清单 | A优质名单(US)、AI评估(US)、用户判定不行 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+### 用户 AI / Claude 评估原文
+
+- **AI**（AI客户评估_US.xlsx）：
+  > 25% B
+  > 美国中型安防配件品牌商（SECO-LARM），商业PoE交换机有自有logo，主营安防配件/门禁/报警
+  > 推送商业PoE交换机OEM方案，强调可定制logo+CCTV场景+性价比
+  > 8口/16口商业PoE交换机
+  > 自有logo的商业PoE交换机（安防配套），有OEM贴牌模式；安防配件为核心但交换机为配角
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2151.json` 后由渲染器并入本节。
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 20 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2024-03-28 | 2024.3.28 | 发了16电口信息 |  | Email |  | US.xlsx#174 |
+| 2024-04-26 | 2024.4.26 | 发了2层2光8pOE管理信息 |  | Email |  | US.xlsx#174 |
+| 2024-05-22 | 2024.5.22 | 发了工业MC信息 |  | Email |  | US.xlsx#174 |
+| 2024-06-21 | 2024.6.21 | 发了2光8BT信息 |  | Email |  | US.xlsx#174 |
+| 2024-07-25 | 2024.7.25 | 8电口 |  | Email |  | US.xlsx#174 |
+| 2024-08-22 | 2024.8.22 | 工业24光combo |  | Email |  | US.xlsx#174 |
+| 2024-09-25 | 925 | 24passive |  | Email |  | US.xlsx#174 |
+| 2024-11-02 | 112 | 48口 |  | Email |  | US.xlsx#174 |
+| 2024-11-30 | 1130 | 群发8电口 |  | Email |  | US.xlsx#174 |
+| 2024-12-19 | 1219 | 24poe |  | Email |  | US.xlsx#174 |
+| 2025-01-28 | 1.28 | 24fiber |  | A |  | US.xlsx#174 |
+| 2025-03-18 | 2025.3.18 | bypass |  | A |  | US.xlsx#174 |
+| 2025-04-18 | 418 | 芯片 |  | A |  | US.xlsx#174 |
+| 2025-05-20 | 520 | PoE |  | A |  | US.xlsx#174 |
+| 2025-06-14 | 614 | 16电 |  | A |  | US.xlsx#174 |
+| 2025-07-16 | 716 | alarm |  | A |  | US.xlsx#174 |
+| 2025-08-14 | 814 | 22迷你 |  | A |  | US.xlsx#174 |
+| 2025-10-07 | 107 | dac |  | A |  | US.xlsx#174 |
+| 2025-10-27 | 1027 | 28bt |  | A |  | US.xlsx#174 |
+| ? | 99 | 28poe |  | A |  | US.xlsx#174 |
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`info@seco-larm.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`sales@seco-larm.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`cschwab@seco-larm.com`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：Catherine S / Administrator
+- 网站/域名：seco-larm.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **3 行**原始记录归并而成；归并键：`d:seco-larm.com`, `e:info@seco-larm.com`, `e:sales@seco-larm.com`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/US.xlsx#总表:175 | 174 | https://www.seco-larm.com/producto/ns-508ut-gaq/?lang=es | 美国 |  | 谷歌 | 商业PoE 自己的logo | info@seco-larm.com<br>sales@seco-larm.com |  | 20 条 |
+| AI客户评估/AI客户评估_US.xlsx#总表:42 | 41 | https://www.seco-larm.com/producto/ns-508ut-gaq/?lang=es | 美国 | Catherine S<br>Administrator | 谷歌 | 商业PoE 自己的logo | cschwab@seco-larm.com |  | — |
+| 不行及不太相关的.xlsx#总表:681 |  | https://www.seco-larm.com/producto/ns-508ut-gaq/?lang=es | 美国 |  | 谷歌 | 商业POE 自己的logo | info@seco-larm.com<br>sales@seco-larm.com |  | — |
+
+## 跟进建议
+
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：用户判定不行/不相关。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-2151,B,理由` 后重跑即可。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -16）
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

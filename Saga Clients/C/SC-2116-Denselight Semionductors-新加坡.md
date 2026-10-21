@@ -1,0 +1,101 @@
+# Denselight Semionductors
+
+> **评级 C**　|　新加坡　|　档案编号 `SC-2116`　|　优先级 —　|　状态：成交过·维护
+>
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SC-2116
+rating: C
+rating_auto: C
+score: -15
+country: 新加坡
+region: 亚太
+website: denselight.com
+type: 经销/集成（类型待核）
+tier_tags: ["用户判定不行"]
+deal: yes
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: STI-110GE
+price_tier: 20%
+research: pending
+sources: 2
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：新加坡的经销/集成（类型待核）；兴趣/在卖：2011年买过2台收发器自用
+- **为什么是 C 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；C 级细分：发不过去
+- **历史互动**：成交/下单过
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
+- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **下一步**：不跟进；仅归档防重复开发
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Denselight Semionductors | 事实（用户表） |
+| 国家 | 新加坡 | 事实（用户表）|
+| 网站/域名 | denselight.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 联系人 | Mr. Jasper Chong 技术 / 发不过去 / Mr. Jasper Chong 技术 / 质量一般 发不过去 | 事实（用户表） |
+| 来源（From） | 公司网站 | 事实（用户表） |
+| 兴趣（Interested in） | 2011年买过2台收发器自用 | 事实（用户表） |
+| 用户备注（Remark） | xx | 事实（用户表） |
+| 所在清单 | 用户判定不行 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2116.json` 后由渲染器并入本节。
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`ccchong@denselight.com`〔企业邮箱；用户备注含「发不过去」——发送前核对是哪一个地址；来源：用户表原值〕
+- 联系人（原值）：Mr. Jasper Chong 技术 / 发不过去
+- 联系人（原值）：Mr. Jasper Chong 技术 / 质量一般 发不过去
+- 网站/域名：denselight.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **2 行**原始记录归并而成；归并键：`d:denselight.com`, `e:ccchong@denselight.com`, `n:SG|denselight semionductors`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| 不行及不太相关的.xlsx#总表:147 | 175 | Denselight Semionductors | 新加坡 | Mr. Jasper Chong 技术<br>发不过去 | 公司网站 | 2011年买过2台收发器自用 | ccchong@denselight.com |  | — |
+| 不行及不太相关的.xlsx#总表:473 |  | Denselight Semionductors | 新加坡 | Mr. Jasper Chong 技术<br>质量一般 发不过去 | 公司网站 | 2011年买过2台收发器自用 | ccchong@denselight.com | xx | — |
+
+## 跟进建议
+
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：发不过去。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-2116,B,理由` 后重跑即可。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -15）
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

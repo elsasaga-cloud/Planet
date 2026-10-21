@@ -1,0 +1,99 @@
+# Microcomms Networking Solutions W.L.L.
+
+> **评级 C**　|　巴林　|　档案编号 `SC-2159`　|　优先级 —　|　状态：成交过·维护
+>
+> **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SC-2159
+rating: C
+rating_auto: C
+score: -17
+country: 巴林
+region: 中东
+website: microcomms.net
+type: 系统集成/工程商
+tier_tags: ["用户判定不行"]
+deal: yes
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: none
+price_tier: 25%
+research: pending
+sources: 1
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：巴林的系统集成/工程商；兴趣/在卖：1V1D 买过两次光端机 SC口
+- **为什么是 C 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-60 用户已归入「不行及不太相关的」；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/巴林；-10 来源为 2010–2015 年展会且无后续记录；C 级细分：品类不符（VC/DWDM/CCTV 等）
+- **历史互动**：成交/下单过
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（VC/光端机：Saga 不做（可只推交换机））
+- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **下一步**：不跟进；仅归档防重复开发
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Microcomms Networking Solutions W.L.L. | 事实（用户表） |
+| 国家 | 巴林 | 事实（用户表）|
+| 网站/域名 | microcomms.net | 事实（用户表 URL/邮箱域名） |
+| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 联系人 | Mr. Mody Joseph / GM | 事实（用户表） |
+| 来源（From） | Intersec 2011 | 事实（用户表） |
+| 兴趣（Interested in） | 1V1D<br>买过两次光端机 SC口 | 事实（用户表） |
+| 用户备注（Remark） | — | 事实（用户表） |
+| 所在清单 | 用户判定不行 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2159.json` 后由渲染器并入本节。
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`mody@microcomms.net`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：Mr. Mody Joseph / GM
+- 网站/域名：microcomms.net
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| 不行及不太相关的.xlsx#总表:146 | 174 | www.microcomms.net<br>Microcomms Networking Solutions W.L.L., | 巴林 | Mr. Mody Joseph<br>GM | Intersec 2011 | 1V1D<br>买过两次光端机 SC口 | mody@microcomms.net |  | — |
+
+## 跟进建议
+
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：品类不符（VC/DWDM/CCTV 等）。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-2159,B,理由` 后重跑即可。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -17）
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -1,0 +1,157 @@
+# Fiberbase
+
+> **评级 B**　|　韩国　|　档案编号 `SB-1041`　|　优先级 ★★　|　状态：已推送 23 次·未回复
+>
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 23 次（2024-05-01 → 2025-10-28）　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-1041
+rating: B
+rating_auto: B
+score: 27
+country: 韩国
+region: 亚太
+website: fiberbase.co.kr
+type: 经销/集成（类型待核）
+tier_tags: ["A优质名单(KR)", "AI评估(KR)"]
+deal: no
+replies: 0
+followups: 23
+first_contact: 2024-05-01
+last_contact: 2025-10-28
+p1: STI-110GE
+price_tier: 20%
+research: pending
+sources: 2
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：韩国的经销/集成（类型待核）；兴趣/在卖：买的MC  全都是Diva这个牌子 公司：MC POE switch 机架 光猫；提到的品牌：Diva
+- **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
+- **历史互动**：推送 23 次（2024-05-01 → 2025-10-28）
+- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Fiberbase | 事实（用户表） |
+| 国家 | 韩国 | 事实（用户表）|
+| 网站/域名 | fiberbase.co.kr / fiberbase-net.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 联系人 | Michael Kang  质量高 / https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=42&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&&com_board_id=17#tab1 / Michael Kang / https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=42&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&&com_board_id=17#tab1 | 事实（用户表） |
+| 来源（From） | 朱姐转的 | 事实（用户表） |
+| 兴趣（Interested in） | 买的MC  全都是Diva这个牌子<br>公司：MC POE switch 机架 光猫 | 事实（用户表） |
+| 用户备注（Remark） | https://fiberbase-net.com/default/product/sub2.php<br>https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=40&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&#tab1?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=10&&com_board_idx=30#tab1 | 事实（用户表） |
+| 用户 AI 评估 | AI 30% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
+| 所在清单 | A优质名单(KR)、AI评估(KR) | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | Diva | 事实（用户备注）/ 推断 |
+
+### 用户 AI / Claude 评估原文
+
+- **AI**（AI客户评估_KR.xlsx）：
+  > 30% B
+  > 韩国中小型光纤/网络设备公司，主营MC、PoE交换机、机架、光猫，大量使用Diva品牌产品
+  > 发送PoE交换机和MC产品线邮件，强调可替代Diva品牌+OEM贴牌+深度管理界面定制
+  > 24口PoE交换机、工业PoE交换机
+  > 大量采购Diva品牌MC产品（需确认Diva是否为深圳白牌）；有PoE交换机产品线；但核心业务偏MC和光纤，交换机为配角；韩国缺KC认证是障碍
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1041.json` 后由渲染器并入本节。
+
+## 在卖/在用品牌 → Saga 对位
+
+| 备注所见品牌 | 含义 | Saga 切入 |
+|---|---|---|
+| Diva | 深圳/国内白牌或品牌供应商 | 对方已在买中国货：以 Marvell 芯片 + L2+ 功能 + 交期为差异点做第二货源 |
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 23 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2024-05-01 | 2024.5.1 | 发了工业24光combo信息 |  | Email |  | KR.xlsx#13 |
+| 2024-05-27 | 2024.5.27 | 发了4光24导轨式信息 |  | Email |  | KR.xlsx#13 |
+| 2024-06-19 | 2024.6.19 | 发了2光8BT信息 |  | Email |  | KR.xlsx#13 |
+| 2024-07-19 | 2024.7.19 | 10G MC |  | Email |  | KR.xlsx#13 |
+| 2024-08-19 | 2024.8.19 | 2.5G poe bt |  | Email |  | KR.xlsx#13 |
+| 2024-09-11 | 2024.9.11 | PC |  | Email |  | KR.xlsx#13 |
+| 2024-10-17 | 1017 | 8电口 |  | Email |  | KR.xlsx#13 |
+| 2024-11-19 | 1119 | 48口 |  | Email |  | KR.xlsx#13 |
+| 2024-12-13 | 1213 | 24fiber |  | Email |  | KR.xlsx#13 |
+| 2025-01-15 | 1.15 | 4 24 |  | Email |  | KR.xlsx#13 |
+| 2025-02-06 | 2025.2.6 | 52 |  | A |  | KR.xlsx#13 |
+| 2025-02-26 | 2025.2.26 | 2 16 |  | A |  | KR.xlsx#13 |
+| 2025-03-21 | 321 | list |  | A |  | KR.xlsx#13 |
+| 2025-04-10 | 410 | bypass |  | A |  | KR.xlsx#13 |
+| 2025-05-26 | 526 | 芯片 |  | A |  | KR.xlsx#13 |
+| 2025-06-11 | 611 | alarm |  | A |  | KR.xlsx#13 |
+| 2025-07-23 | 723 | 22迷你 |  | A |  | KR.xlsx#13 |
+| 2025-08-27 | 827 | 28bt |  | A |  | KR.xlsx#13 |
+| 2025-09-12 | 912 | pcb |  | A |  | KR.xlsx#13 |
+| 2025-09-29 | 929 | dac |  | A |  | KR.xlsx#13 |
+| 2025-10-28 | 1028 | 24poe |  | A |  | KR.xlsx#13 |
+| ? | 55 | 28bt |  | A |  | KR.xlsx#13 |
+| ? | 71 | 16电 |  | A |  | KR.xlsx#13 |
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`michael_kang@fiberbase.co.kr`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：Michael Kang  质量高 / https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=42&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&&com_board_id=17#tab1
+- 联系人（原值）：Michael Kang / https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=42&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&&com_board_id=17#tab1
+- 网站/域名：fiberbase.co.kr
+- 网站/域名：fiberbase-net.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **2 行**原始记录归并而成；归并键：`d:fiberbase-net.com`, `d:fiberbase.co.kr`, `e:michael_kang@fiberbase.co.kr`, `n:KR|fiberbase`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/KR.xlsx#总表:14 | 13 | Fiberbase<br>http://www.fiberbase.co.kr/ | 韩国 | Michael Kang  质量高<br>https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=42&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&&com_board_id=17#tab1 | 朱姐转的 | 买的MC  全都是Diva这个牌子<br>公司：MC POE switch 机架 光猫 | michael_kang@fiberbase.co.kr | https://fiberbase-net.com/default/product/sub2.php<br>https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=40&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&#tab1?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=10&&com_board_idx=30#tab1 | 23 条 |
+| AI客户评估/AI客户评估_KR.xlsx#总表:10 | 9 | Fiberbase<br>http://www.fiberbase.co.kr/ | 韩国 | Michael Kang  <br>https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=42&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&&com_board_id=17#tab1 | 朱姐转的 | 买的MC  全都是Diva这个牌子<br>公司：MC POE switch 机架 光猫 | michael_kang@fiberbase.co.kr | https://fiberbase-net.com/default/product/sub2.php<br>https://www.fiberbase-net.com/default/product/sub1.php?com_board_basic=read_form&com_board_idx=40&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=17&#tab1?com_board_basic=read_form&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=10&&com_board_idx=30#tab1 | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -1,0 +1,101 @@
+# casmarglobal.com
+
+> **评级 C**　|　西班牙　|　档案编号 `SC-811`　|　优先级 —　|　状态：名单内·未触达
+>
+> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SC-811
+rating: C
+rating_auto: C
+score: 15
+country: 西班牙
+region: 欧洲
+website: casmarglobal.com
+type: 品牌商/贴牌需求（OEM/ODM）
+tier_tags: ["AI评估(ES)·DONE"]
+deal: no
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: STC-424DGGPM-280W
+price_tier: 30%
+research: pending
+sources: 1
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：西班牙的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：Security system supplier；提到的品牌：Hikvision, Dahua
+- **为什么是 C 级**：+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；C 级细分：无邮箱（仅电话）
+- **历史互动**：名单内·无互动记录
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
+- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **下一步**：不跟进；仅归档防重复开发
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | casmarglobal.com（取自域名，公司全名待核） | 推断 |
+| 国家 | 西班牙 | 事实（用户表）|
+| 网站/域名 | casmarglobal.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 联系人 | Montse Castro Roca / Mariluz Cejas Lopez | 事实（用户表） |
+| 来源（From） | 谷歌 | 事实（用户表） |
+| 兴趣（Interested in） | Security system supplier | 事实（用户表） |
+| 用户备注（Remark） | 早期ai: 打不开网站 \| max: 9% C<br>国际化安防分销集团倾向明显，交换机更可能只是安防配套；未见明确OEM/定制迹象<br>集团型客户供应商准入通常更严，且我司官网与认证条件不占优 \| gpt: 20% B<br>西班牙通信设备供应商，核心业务未完全确认<br>建议人工确认是否涉及网络设备分销或项目采购<br>PoE交换机、工业交换机<br>公开信息不足，无法确认交换机地位 \| gemini: 35%  B<br>西班牙与中南美知名跨国安防分销商，成立超20年，规模约100-250人，主营CCTV监控、入侵报警及PoE网络配件<br>发送CCTV PoE交换机及工业PoE产品线资料，宣传性价比补位与OEM合作潜力<br>8口/16口/24口PoE交换机、工业PoE交换机<br>安防设备分销商，交换机为CCTV配套产品（配角）；主要代理Hikvision、Dahua等黄灯品牌及主流安防巨头，供应链替换难度中等 \| claude4.5: 15%  C<br>官网信息不足，无法确认核心业务和产品线<br>建议人工介入或暂时跳过 | 事实（用户表） |
+| 所在清单 | AI评估(ES)·DONE | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | Hikvision, Dahua | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-811.json` 后由渲染器并入本节。
+
+## 在卖/在用品牌 → Saga 对位
+
+| 备注所见品牌 | 含义 | Saga 切入 |
+|---|---|---|
+| Hikvision | 安防摄像头品牌 | 对方是安防集成/经销：主推 PoE 交换机配套（看门狗、长距、bt 口） |
+| Dahua | 安防摄像头品牌 | 对方是安防集成/经销：主推 PoE 交换机配套（看门狗、长距、bt 口） |
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 联系方式（已有 · 原值照录）
+
+- 联系人（原值）：Montse Castro Roca / Mariluz Cejas Lopez
+- 网站/域名：casmarglobal.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| AI客户评估/DONE/AI客户评估_ES 09.30.xlsx#总表:20 | 19 | https://www.casmarglobal.com/es/ | 西班牙 | Montse Castro Roca<br><br>Mariluz Cejas Lopez | 谷歌 | Security system supplier |  | 早期ai: 打不开网站 \| max: 9% C<br>国际化安防分销集团倾向明显，交换机更可能只是安防配套；未见明确OEM/定制迹象<br>集团型客户供应商准入通常更严，且我司官网与认证条件不占优 \| gpt: 20% B<br>西班牙通信设备供应商，核心业务未完全确认<br>建议人工确认是否涉及网络设备分销或项目采购<br>PoE交换机、工业交换机<br>公开信息不足，无法确认交换机地位 \| gemini: 35%  B<br>西班牙与中南美知名跨国安防分销商，成立超20年，规模约100-250人，主营CCTV监控、入侵报警及PoE网络配件<br>发送CCTV PoE交换机及工业PoE产品线资料，宣传性价比补位与OEM合作潜力<br>8口/16口/24口PoE交换机、工业PoE交换机<br>安防设备分销商，交换机为CCTV配套产品（配角）；主要代理Hikvision、Dahua等黄灯品牌及主流安防巨头，供应链替换难度中等 \| claude4.5: 15%  C<br>官网信息不足，无法确认核心业务和产品线<br>建议人工介入或暂时跳过 | — |
+
+## 跟进建议
+
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：无邮箱（仅电话）。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-811,B,理由` 后重跑即可。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 15）
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

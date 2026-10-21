@@ -1,0 +1,101 @@
+# Alfaro Subsea
+
+> **评级 C**　|　印度尼西亚　|　档案编号 `SC-1638`　|　优先级 —　|　状态：发不过去
+>
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E冷名单(印度尼西亚)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SC-1638
+rating: C
+rating_auto: C
+score: 1
+country: 印度尼西亚
+region: 亚太
+website: alfarosubsea.com
+type: 经销/集成（类型待核）
+tier_tags: ["E冷名单(印度尼西亚)", "询盘流水"]
+deal: no
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: STC-424DGGPM-280W
+price_tier: 20%
+research: pending
+sources: 2
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：印度尼西亚的经销/集成（类型待核）；兴趣/在卖：1V1D  发不过去
+- **为什么是 C 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 E 冷名单（按国家群发）；-25 邮件发不过去且无 WhatsApp 通道；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2026；C 级细分：发不过去
+- **历史互动**：名单内·无互动记录
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
+- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **下一步**：不跟进；仅归档防重复开发
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | Alfaro Subsea | 事实（用户表） |
+| 国家 | 印度尼西亚 | 事实（用户表）|
+| 网站/域名 | alfarosubsea.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 联系人 | Maulana Hakim Swistiawan, S.Tr.T., ROV Pilot, Survey Engineer | 事实（用户表） |
+| 来源（From） | 2026.2.12 | 事实（用户表） |
+| 兴趣（Interested in） | 1V1D  发不过去 | 事实（用户表） |
+| 用户备注（Remark） | 62 812 2374 2769 l. Terusan Tubagus lsmailIndah No. 5A, Bandung,Jawa Barat / 1V1D / from: 阿里巴巴询盘 | 事实（用户表） |
+| 所在清单 | E冷名单(印度尼西亚)、询盘流水 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-1638.json` 后由渲染器并入本节。
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`swistiawan@alfarosubsea.com`〔企业邮箱；用户备注含「发不过去」——发送前核对是哪一个地址；来源：用户表原值〕
+- 电话：`+6281223742769`〔电话/WhatsApp 状态未记；原值见来源表〕
+- 联系人（原值）：Maulana Hakim Swistiawan, S.Tr.T., ROV Pilot, Survey Engineer
+- 网站/域名：alfarosubsea.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **2 行**原始记录归并而成；归并键：`d:alfarosubsea.com`, `e:swistiawan@alfarosubsea.com`, `n:ID|alfaro subsea`, `p:223742769`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| E/2026.08.07/印度尼西亚.xlsx#总表:23 | 22 | Alfaro Subsea | 印度尼西亚 | Maulana Hakim Swistiawan, S.Tr.T., ROV Pilot, Survey Engineer |  | 1V1D  发不过去 | hakim,swistiawan@alfarosubsea.com | 62 812 2374 2769 l. Terusan Tubagus lsmailIndah No. 5A, Bandung,Jawa Barat | — |
+| 询盘统计表.xlsx#Sheet1:269 |  | Alfaro Subsea | 印度尼西亚 | Maulana Hakim Swistiawan, S.Tr.T., ROV Pilot, Survey Engineer | 2026.2.12 |  | hakim,swistiawan@alfarosubsea.com 名片如右图 62 812 2374 2769 l. Terusan Tubagus lsmailIndah No. 5A, Bandung,Jawa Barat | 1V1D from: 阿里巴巴询盘 | — |
+
+## 跟进建议
+
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：发不过去。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-1638,B,理由` 后重跑即可。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 1）
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

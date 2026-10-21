@@ -37,10 +37,11 @@ os.makedirs(OUT, exist_ok=True)
 HEADER_MAP = OrderedDict([
     ('no', ['no.', 'no', '序号']),
     ('company', ['company', '客户名称', '公司']),
-    ('country', ['country', 'e或a', '国家']),
+    ('country', ['country', 'e或a', '国家', 'a']),   # UK.xlsx / CZ.xlsx 的国家列表头写成了 "A"
+    ('category', ['category', '类别等级', '分类']),   # 土耳其客户：1类 / 2类（用户自己的质量分档）
     ('person', ['person', 'name', '联系人', '姓名']),
     ('position', ['position', '职位']),
-    ('from', ['from', 'date', '客户来源', '来源', '日期']),
+    ('from', ['from', 'date', '客户来源', '来源', '日期', '类别']),   # 土耳其客户：来源列表头写成了 "类别"
     ('interest', ['interested in', 'interested', '兴趣', '需求']),
     ('contact', ['contact', 'e-mail', 'email', '邮箱', '联系方式']),
     ('mobile', ['mobile', '电话', '其他联系方式']),
@@ -239,7 +240,7 @@ def main():
             elif ext == 'docx':
                 paras = docx_text(path)
                 rep['sheets'].append({'sheet': '(docx)', 'type': 'docx', 'rows': len(paras)})
-                rows_all.append(OrderedDict(file=rel, sheet='(docx)', row=0, no='', company='', country='', person='', position='', from_='', interest='', contact='', mobile='', website='', remark='', ai_eval='', claude_eval='', extra='', docx_paragraphs=paras))
+                rows_all.append(OrderedDict(file=rel, sheet='(docx)', row=0, no='', company='', country='', category='', person='', position='', from_='', interest='', contact='', mobile='', website='', remark='', ai_eval='', claude_eval='', extra='', docx_paragraphs=paras))
             else:
                 rep['sheets'].append({'sheet': '(binary)', 'type': ext, 'rows': 0})
             report.append(rep)
