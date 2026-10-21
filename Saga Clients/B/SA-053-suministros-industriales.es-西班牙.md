@@ -22,8 +22,8 @@ replies: 1
 followups: 18
 first_contact: 2023-12-15
 last_contact: 2025-11-29
-p1: STC-424DGGPM-280W
-price_tier: 25%
+p1: STI-050GE
+price_tier: 20%
 research: done
 sources: 1
 updated: 2026-10-21
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。（调研 2026-10-21；表内兴趣：价格 网站比较抽象）
 - **为什么是 B 级**：**调研后定级 B**（品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2023-12-15 → 2025-11-29）；最近一次客户回复：2023-12-15：问问价近期会不会变化
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）；$17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,6 +66,21 @@ updated: 2026-10-21
 - **KP**：Hugo Hernàndez（联系人（用户表））info@suministros-industriales.es +34 93 590 94 12〔Clients/S 09.08.xlsx〕
 - **调研后定级**：B（原自动 A）——品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Suministros Industriales MP4, S.L. |
+| 总部/地址 | Sabadell (Barcelona), España |
+| 其他 | 产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」 |
+
+- **业务线**：工业自动化元器件与机柜供应（MRO）；Condúctica（拖链、滑触线）
+- **触达通道（公开）**：网站: https://suministros-industriales.es/；联系人: Hugo Hernàndez（用户表）
+- **近况信号**：
+  - 卖机柜与电柜配件 → 可补 DIN 导轨工业交换机作柜内配套 SKU；对方关注价格
+- **风险/边界**：无网络品类经验；1 次回复后 18 次无果
+- **Saga 对位结论**：P1 STI-050GE（20% 档）——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
+- **邮件切入句（英文）**：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -123,20 +138,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（工业 MRO 供应商（非网络渠道）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-050GE | 深挖对位：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6） | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业 MRO 供应商（非网络渠道）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-050GE），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-050GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -144,7 +159,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：未见人数（小型）
+- **O**：P1 STI-050GE 按 20% 档报价，做现供应商的第二货源；规模（调研）：未见人数（小型）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -172,25 +187,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Hugo,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

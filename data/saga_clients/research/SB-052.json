@@ -1,0 +1,83 @@
+{
+ "code": "SB-052",
+ "name_official": "Addon Technology Ltd（Co. 04256748，London N11；addon-tech.com；自有品牌 ADDON）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ADDON（自有品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "品牌与产品线",
+   "quote": "Since 2001 ADDON has been providing our loyal customers a personal service with quality products at market-leading prices … UK Manufacturer of Networking and Accessories. - Networking - ADSL & Routers - Wifi Range Extenders - Wired Networking - Wireless Adapters",
+   "url": "https://www.addon-tech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "渠道",
+   "quote": "Addon Technology Ltd., founded in the year 2001, has been providing high quality networking products to customers across Europe through distributors, system builders, VARS and e-traders.",
+   "url": "https://addon-tech.com/browse/information/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "登记",
+   "claim": "法人登记",
+   "quote": "ADDON TECHNOLOGY LTD … Ground Floor Building 3 Oakleigh Road South, North London Business Centre, London, England, N11 1GN … Incorporated on: 23 July 2001",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04256748",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "营收规模",
+   "quote": "Addon Technology … Revenue <$5 Million … Industry Manufacturing, Telecommunication Equipment",
+   "url": "https://www.zoominfo.com/c/addon-technology-ltd/354088490",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "17 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Addon Technology Ltd（Companies House 04256748，2001-07-23；SIC 62090）",
+  "hq": "Ground Floor, Building 3, North London Business Park, Oakleigh Road South, London N11 1GN（+44 844 801 1286）",
+  "size": "<$5M（ZoomInfo）；小型",
+  "other": "渠道：distributors / system builders / VARs / e-traders across Europe"
+ },
+ "business_lines": [
+  "ADDON 品牌 SOHO 网络产品（路由器、WiFi 扩展器、网卡、有线网络）",
+  "电脑配件与 Travelmate 移动配件"
+ ],
+ "channels": {
+  "网站": "https://www.addon-tech.com/",
+  "电话": "+44 844 801 1286（官网公开）"
+ },
+ "signals": [
+  "自有品牌 + 欧洲分销网络 → 贴 ADDON 标的 5/8 口千兆与 PoE 桌面交换机可直接进其目录"
+ ],
+ "risks": [
+  "SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-028GP",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
+ },
+ "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
+}

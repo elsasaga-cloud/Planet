@@ -1,4 +1,5 @@
 # longtek
+**官方名称（调研核实）**：Longtek Electronics (Europe) Ltd（Co. 05227994，Enfield, London；longtek.co.uk）
 
 > **评级 B**　|　英国　|　档案编号 `SB-319`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-319
 rating: B
 rating_auto: B
+name_official: "Longtek Electronics (Europe) Ltd（Co. 05227994，Enfield, London；longtek.co.uk）"
 score: 44
 country: 英国
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 17
 first_contact: 2024-06-13
 last_contact: 2025-10-24
-p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+p1: STC-28DGGPM
+price_tier: 25%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的经销/集成（类型待核）；兴趣/在卖：用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格
+- **是谁**：伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,38 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-319.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。
+- **【官网】业务与联系方式**
+  > At Longtek Electronics (Europe) Ltd, we have been at the forefront of security technology since 2004, serving Enfield Town … installation, maintenance, and repair of state-of-the-art CCTV systems, alarm systems (including intruder alarms and fire alarms) and access control systems … admin@longtek.co.uk … +44 20 8805 0002 … 12 Bishops Close, Enfield EN1 3QJ
+  > 来源：https://longtek.co.uk/aboutUs（抓取 2026-10-21）
+- **【登记】法人登记**
+  > LONGTEK ELECTRONICS EUROPE LTD Company number 05227994 … 12 Bishops Close, Enfield, Mddx, EN1 3QJ … Incorporated on: 10 September 2004
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/05227994（抓取 2026-10-21）
+- **【名录】规模与创办人**
+  > Micro Turnover is under £1M … Under 10 employees … Security systems service activities (80200) … Thevarajah Thevalojan Founder Appointed in Sep 2004
+  > 来源：https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd（抓取 2026-10-21）
+- **【用户表】17 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Thevarajah Thevalojan（Founder / Director（Companies House 公开））admin@longtek.co.uk（公司公开） +44 20 8805 0002〔https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200） |
+| 总部/地址 | 12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611） |
+| 其他 | SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022） |
+
+- **业务线**：CCTV / 入侵报警 / 门禁安装与维护；火灾报警安装（守界：火灾主系统不供）
+- **触达通道（公开）**：网站: https://longtek.co.uk/；电话: +44 20 8805 0002（官网公开）；邮箱（公开）: admin@longtek.co.uk
+- **近况信号**：
+  - 小型安装商，每项目 1 台 4/8 口 PoE；可作样品级试单
+- **风险/边界**：微型、采购量小；17 次推送 0 回复
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）
+- **邮件切入句（英文）**：For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -106,6 +139,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Thevarajah Thevalojan | Founder / Director（Companies House 公开） | admin@longtek.co.uk（公司公开） / +44 20 8805 0002 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd |
 | Logan Raj | — | logan@longtek.co.uk / +02088050002 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -123,20 +157,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -144,7 +177,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -168,19 +201,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Logan,
+Hi Thevarajah,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

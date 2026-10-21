@@ -1,0 +1,50 @@
+{
+ "code": "SB-080",
+ "name_official": "JguyTech（法国；联系人 J.-Y. Guibreteau，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "OM4301 网络延长器 1 对成样品单（成交）",
+   "quote": "OM4301网络延长器 1对 成样品单",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（已成交）"
+ },
+ "company_facts": {
+  "legal_name": "JguyTech（表内；未能核实）",
+  "hq": "法国",
+  "size": "微型/个体"
+ },
+ "business_lines": [
+  "弱电/网络延长安装（推断）"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）"
+ },
+ "signals": [
+  "已成交（样品单）→ 直接复购邀约"
+ ],
+ "risks": [
+  "个体、单量小；0 次跟进记录（需补跟进）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件"
+ },
+ "email_hook": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
+}

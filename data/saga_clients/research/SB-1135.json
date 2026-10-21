@@ -1,0 +1,51 @@
+{
+ "code": "SB-1135",
+ "name_official": "Julien Desbrosses（法国；自建站询盘）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "法国个人 Julien Desbrosses，通过 Saga 自建站询盘「5 电口」交换机；WhatsApp 已加；无跟进记录。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "自建站询盘 5 电口；WhatsApp 已加",
+   "quote": "5电口 / from: 自建站",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（需求已映射）"
+ },
+ "company_facts": {
+  "legal_name": "个人（Julien Desbrosses）",
+  "hq": "法国",
+  "size": "个人"
+ },
+ "business_lines": [
+  "未知（5 电口需求）"
+ ],
+ "channels": {
+  "WhatsApp": "已加",
+  "来源": "自建站询盘"
+ },
+ "signals": [
+  "自建站主动询盘 → 真实需求；5 电口 → STI-050GE / STC-05GE"
+ ],
+ "risks": [
+  "个人、单台"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 25,
+  "why": "终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景"
+ },
+ "email_hook": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?"
+}

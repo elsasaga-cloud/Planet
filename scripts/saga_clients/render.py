@@ -70,9 +70,30 @@ def load_prices():
 PRICES = load_prices()
 
 
+def load_alt_prices():
+    """Saga 对外价（HRUI Realtek 线 / Hohunet CENTEC 线对照表）——SmartByte 价格主表无此型号时的回退。"""
+    alt = {}
+    for fn, src in (('hrui_STC对照表.csv', 'HRUI Realtek 线'), ('hohunet_STH对照表.csv', 'Hohunet CENTEC 线')):
+        fp = os.path.join(ROOT, 'data', fn)
+        if not os.path.exists(fp):
+            continue
+        for r in csv.DictReader(open(fp, encoding='utf-8-sig')):
+            k = (r.get('Saga型号') or '').strip()
+            price = (r.get('Saga对外价USD_EXW') or r.get('Saga对外价USD') or '').strip()
+            if k and price and k not in alt:
+                alt[k] = (price, src, fn)
+    return alt
+
+
+ALT_PRICES = load_alt_prices()
+
+
 def price_line(model, tier):
     r = PRICES.get(model)
     if not r:
+        a = ALT_PRICES.get(model)
+        if a:
+            return f"${a[0]} USD EXW（Saga 对外列表价，{a[1]}，见 data/{a[2]}；非 SmartByte 加价公式，报价前核价）"
         return '价格待核（价格主表无此型号）'
     col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
     return (f"${r[col]} USD EXW（{tier}% 档，SmartByte {r['SmartByte型号']} {r['CNY未税']} CNY × {1 + tier / 100:.2f} ÷ {r['汇率']}，"

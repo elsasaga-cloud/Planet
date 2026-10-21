@@ -1,0 +1,129 @@
+{
+ "code": "SB-191",
+ "name_official": "Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Kyland",
+  "MEAN WELL",
+  "SCL"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与规模",
+   "quote": "Switchtec Ltd operates as a UK franchisee for world-wide manufacturers of quality components … For more 40 years … carries over seven thousand product lines ex-stock",
+   "url": "https://www.switchtec.com/About_Us",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Kyland 工业交换机品类",
+   "quote": "Unmanaged Ethernet Switches … EN50155 Ethernet Switches … Managed Ethernet Switches … Kyland Industrial Ethernet Switches",
+   "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "地址、电话、邮箱",
+   "quote": "Switchtec Ltd, Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH Telephone: 01785 818600 … Email: sales@switchtec.com … No minimum order quantity",
+   "url": "https://www.switchtec.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "行业媒体",
+   "claim": "CEO 与 Kyland 引入",
+   "quote": "Says CEO Jeremy Lester, \"… we have many new products coming through including solutions from leading global innovator in industrial internet technology Kyland.\"",
+   "url": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "登记",
+   "claim": "法人登记",
+   "quote": "SWITCHTEC LIMITED … Brooms Road, Stone Business Park, Stone, Staffordshire, ST15 0SH … Incorporated on: 12 February 1982",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "17 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Jeremy Lester",
+   "role": "CEO（行业媒体公开）",
+   "email": "sales@switchtec.com（公司公开）",
+   "phone": "+44 1785 818600",
+   "source": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years"
+  },
+  {
+   "name": "Mark Stevens",
+   "role": "Southern Area Sales Manager（官网新闻公开）",
+   "email": "—（未公开）",
+   "phone": "+44 1785 818600",
+   "source": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Switchtec Limited（Companies House 01613368，1982-02-12）",
+  "founded": "1982",
+  "hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com）",
+  "size": "11–50（LinkedIn）；7,000+ 现货品类",
+  "other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道"
+ },
+ "business_lines": [
+  "工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）",
+  "工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）",
+  "现场技术选型支持（销售工程师）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Kyland",
+   "model": "Opal 系列（非管理）",
+   "spec": "4×10/100 RJ45 + 1 光/电口，冗余电源，IP30 金属壳，SC/ST/SFP 可选",
+   "url": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches",
+   "date": "2026-10-21",
+   "saga": "STI-140FE（4 FE + 1 SFP，$24.3）/ STI-140GE（$28.0）"
+  },
+  {
+   "brand": "Kyland",
+   "model": "EN50155 / 管理型系列",
+   "spec": "铁路与管理型工业交换机",
+   "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
+   "date": "2026-10-21",
+   "saga": "STI-280DGGM（管理 8 GE + 2 SFP）；EN50155 守界不供"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.switchtec.com/",
+  "电话": "+44 1785 818600（官网公开）",
+  "邮箱（公开）": "sales@switchtec.com",
+  "LinkedIn": "https://www.linkedin.com/company/switchtec-ltd"
+ },
+ "signals": [
+  "已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI"
+ ],
+ "risks": [
+  "与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-280DGGM",
+  "tier": 20,
+  "why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
+ },
+ "email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?"
+}

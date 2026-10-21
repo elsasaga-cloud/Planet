@@ -44,5 +44,59 @@
  "grade_override": null,
  "override_reason": "",
  "notes": "画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先）"
+ },
+ "company_facts": {
+  "legal_name": "Megatel Industries（美国）",
+  "hq": "美国",
+  "size": "小型（待补证）",
+  "other": "自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复"
+ },
+ "business_lines": [
+  "自有品牌工业以太网交换机/介质转换器网店（OEM 采购）"
+ ],
+ "products_seen": [
+  {
+   "brand": "Megatel",
+   "model": "IGS-803SM-8PH24",
+   "spec": "工业 8 GE PoE 管理 + 3 SFP，售 $699",
+   "url": "https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html",
+   "date": "首轮调研",
+   "saga": "STI-288DGGPM（8 PoE+ 2 SFP 管理，$151.6 @30）"
+  },
+  {
+   "brand": "Megatel",
+   "model": "IPSW-G04-1GE1SFP",
+   "spec": "6 口工业非管理 PoE，售 $145",
+   "url": "https://www.megatelindustries.com/ipinun6gipoe.html",
+   "date": "首轮调研",
+   "saga": "STI-154GP（4 PoE + 1 SFP + 1 GE，$40.8 @30）"
+  },
+  {
+   "brand": "Megatel",
+   "model": "IMC-1000MS-PHE12",
+   "spec": "管理型千兆 PoE 介质转换器，售 $345",
+   "url": "https://www.megatelindustries.com/imc1000100012.html",
+   "date": "首轮调研",
+   "saga": "STI-111GP（$30.1 @30）"
+  }
+ ],
+ "channels": {
+  "网店": "https://www.megatelindustries.com/"
+ },
+ "signals": [
+  "售价/成本比 4–5 倍 → 换源动机强；型号命名与 CTC Union 一致 → 对比表可直接给出"
+ ],
+ "risks": [
+  "用户定级 B 低优先；22 次推送 0 回复；现有贴牌来源稳定"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12"
+ },
+ "email_hook": "A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?"
 }

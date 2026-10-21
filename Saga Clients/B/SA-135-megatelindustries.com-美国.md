@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：美国工业以太网产品网店/品牌商：自有 logo 的 IFS/IGS/IMC/ITP/IPSW/FMC 系列（工业管理型 PoE 交换机、工业介质转换器、IP40 非管理交换机），用户记录其大多为 CTCU（CTC Union）贴牌、亦有 ONV 设备；标价高（8 口千兆管理 PoE 标 $1,800 售 $699；6 口非管理 PoE 售 $145）；S 重点名单，22 次推送 0 回复。（调研 2026-10-21；表内兴趣：有自己的logo 大多数还是CTCU的  工业FS MC POE SFP）
 - **为什么是 B 级**：**人工定级 B**（T27 用户原话「这个客户不用咋管 慢慢来」→ B 慢慢跟进；22 封 0 回复的 S 重点 OEM 买家，不再主动投入，对方有动静再升）；自动分级 A：+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）；+5 跟进表最近平台标记 S
 - **历史互动**：推送 22 次（2024-01-03 → 2025-11-28）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -73,6 +73,28 @@ updated: 2026-10-21
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表（S 重点）〕
 - 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Megatel Industries（美国） |
+| 总部/地址 | 美国 |
+| 其他 | 自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复 |
+
+- **业务线**：自有品牌工业以太网交换机/介质转换器网店（OEM 采购）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Megatel | IGS-803SM-8PH24 | 工业 8 GE PoE 管理 + 3 SFP，售 $699 | STI-288DGGPM（8 PoE+ 2 SFP 管理，$151.6 @30） | https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html（首轮调研） |
+| Megatel | IPSW-G04-1GE1SFP | 6 口工业非管理 PoE，售 $145 | STI-154GP（4 PoE + 1 SFP + 1 GE，$40.8 @30） | https://www.megatelindustries.com/ipinun6gipoe.html（首轮调研） |
+| Megatel | IMC-1000MS-PHE12 | 管理型千兆 PoE 介质转换器，售 $345 | STI-111GP（$30.1 @30） | https://www.megatelindustries.com/imc1000100012.html（首轮调研） |
+
+- **触达通道（公开）**：网店: https://www.megatelindustries.com/
+- **近况信号**：
+  - 售价/成本比 4–5 倍 → 换源动机强；型号命名与 CTC Union 一致 → 对比表可直接给出
+- **风险/边界**：用户定级 B 低优先；22 次推送 0 回复；现有贴牌来源稳定
+- **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12
+- **邮件切入句（英文）**：A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -139,7 +161,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/网店（OEM 采购）） |
+| **P1** | STI-288DGGPM | 深挖对位：OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12 | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/网店（OEM 采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -192,9 +214,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Megatel IGS-803SM-8PH24 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

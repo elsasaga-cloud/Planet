@@ -38,10 +38,48 @@
    "email": "acan@cansisteknoloji.com",
    "phone": "+90 541 541 0010（WA）/ +90 332 447 4226",
    "source": "官网 + 行业目录 + 用户 Clients 表"
+  },
+  {
+   "name": "Ahmet Can",
+   "role": "店主（行业目录公开）",
+   "email": "—（见官网）",
+   "phone": "0541 541 0010",
+   "source": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi"
   }
  ],
  "grade_override": "B",
  "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
  "notes": "WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji）",
+  "hq": "Çumra / Konya, Türkiye",
+  "size": "微型（店主 Ahmet Can）",
+  "other": "安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加"
+ },
+ "business_lines": [
+  "安防摄像与报警安装（科尼亚）",
+  "电脑维修与销售"
+ ],
+ "channels": {
+  "网站": "http://www.cansisteknoloji.com",
+  "Facebook": "https://www.facebook.com/cansisteknoloji/",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "已报价 $150（12 光 12 电 PoE 网管）→ 等待回音；可用 STC-4168XGGCM 或 Realtek 线对位"
+ ],
+ "risks": [
+  "微型店；询价可能是一次性项目"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）"
+ },
+ "email_hook": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?"
 }

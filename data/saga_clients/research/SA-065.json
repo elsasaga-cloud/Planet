@@ -36,5 +36,35 @@
  "grade_override": "B",
  "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
+ },
+ "company_facts": {
+  "legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
+  "hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
+  "size": "上市公司",
+  "other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
+ },
+ "business_lines": [
+  "电信接入与传输设备制造（自有品牌 Loop）",
+  "工业/铁路以太网交换机（自研，与 Saga 重叠）"
+ ],
+ "channels": {
+  "网站": "https://www.looptelecom.com/",
+  "联系人": "Eric Piaget, V.P. Sales EMEA & India（用户表）"
+ },
+ "signals": [
+  "兴趣点为工业 FS / MC / 工业物联网 → 可能为低端补线 OEM 采购（Loop 自研线偏高端）"
+ ],
+ "risks": [
+  "台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
+ },
+ "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?"
 }

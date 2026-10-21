@@ -1,0 +1,58 @@
+{
+ "code": "SA-156",
+ "name_official": "IST Surveillance Ltd（Co. 11228236，London N5；istsurveillance.co.uk）",
+ "researched_at": "2026-10-21",
+ "website_status": "未被索引（仅登记信息）",
+ "summary": "伦敦 Highbury 的微型监控服务公司（2018-02-27 注册；SIC 82990 其他商业支持服务；注册地 Office 408, Screenworks, 22 Highbury Grove, London N5 2ER）；官网未被搜索引擎索引，规模与产品线不可核。用户表：17 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "登记",
+   "claim": "法人登记",
+   "quote": "IST SURVEILLANCE LTD Company number 11228236 Registered office address: Office 408, Screenworks 22 Highbury Grove, London, United Kingdom, N5 2ER … Incorporated on: 27 February 2018 … 82990 - Other business support service activities not elsewhere classified",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11228236",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "17 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（Companies House 核对 · 官网不可见）"
+ },
+ "company_facts": {
+  "legal_name": "IST Surveillance Ltd（Companies House 11228236，2018-02-27；SIC 82990）",
+  "hq": "Office 408, Screenworks, 22 Highbury Grove, London N5 2ER, UK",
+  "size": "微型（共享办公地址）",
+  "other": "账目截至 2025-04-30 应于 2026-01-31 前提交"
+ },
+ "business_lines": [
+  "监控/安防服务（细节不可核）"
+ ],
+ "channels": {
+  "登记": "https://find-and-update.company-information.service.gov.uk/company/11228236"
+ },
+ "signals": [
+  "无公开业务信息；仅凭用户表邮箱可触达"
+ ],
+ "risks": [
+  "规模与业务不可核；17 次推送 0 回复 → 低优先"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定"
+ },
+ "email_hook": "If your monitoring installs still use 8-camera PoE cabinets, the gigabit 8-port PoE+ managed switch with 2 SFP is $84.1 EXW; which recorder brand do you pair it with?"
+}

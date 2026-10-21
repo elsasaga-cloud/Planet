@@ -22,7 +22,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 25%
 research: done
 sources: 3
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。（调研 2026-10-21；表内兴趣：问12光12电带POE 带网管  问了价格 报价150usd；问12光12电带PoE 带网管  问了价格 报价150usd）
 - **为什么是 B 级**：**调研后定级 B**（微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -71,9 +71,25 @@ updated: 2026-10-21
   > CAN-SİS GÜVENLİK VE BİLGİSAYAR SİSTEMLERİ AHMET CAN 03324474226 05415410010
   > 来源：https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-firmalari/（抓取 2026-10-21）
 - **KP**：Ahmet Can（店主）acan@cansisteknoloji.com +90 541 541 0010（WA）/ +90 332 447 4226〔官网 + 行业目录 + 用户 Clients 表〕
+- **KP**：Ahmet Can（店主（行业目录公开））—（见官网） 0541 541 0010〔https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi〕
 - **调研后定级**：B（原自动 A）——微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。
 - 备注：WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji） |
+| 总部/地址 | Çumra / Konya, Türkiye |
+| 其他 | 安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加 |
+
+- **业务线**：安防摄像与报警安装（科尼亚）；电脑维修与销售
+- **触达通道（公开）**：网站: http://www.cansisteknoloji.com；Facebook: https://www.facebook.com/cansisteknoloji/；WhatsApp: 已加
+- **近况信号**：
+  - 已报价 $150（12 光 12 电 PoE 网管）→ 等待回音；可用 STC-4168XGGCM 或 Realtek 线对位
+- **风险/边界**：微型店；询价可能是一次性项目
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）
+- **邮件切入句（英文）**：Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -98,6 +114,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Ahmet Can | 店主 | acan@cansisteknoloji.com / +90 541 541 0010（WA）/ +90 332 447 4226 | 调研核实（公开页） | 官网 + 行业目录 + 用户 Clients 表 |
+| Ahmet Can | 店主（行业目录公开） | —（见官网） / 0541 541 0010 | 调研核实（公开页） | https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -115,18 +132,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（小型安防/电脑零售安装商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（小型安防/电脑零售安装商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -136,7 +152,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：微型
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：微型
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -164,14 +180,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Ahmet,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth.
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,0 +1,51 @@
+{
+ "code": "SB-159",
+ "name_official": "Arsenal TV（罗马尼亚；联系人 Moise Nicolae，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；2 次实质回复、14 次跟进",
+   "quote": "40 7664 78524 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Arsenal TV（表内；未能核实）",
+  "hq": "罗马尼亚",
+  "size": "微型"
+ },
+ "business_lines": [
+  "电视/视频（据名称推断）"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "2 次实质回复 → 曾有真实兴趣；适合 AV 传输 + 小交换机"
+ ],
+ "risks": [
+  "身份不可核；罗马尼亚非主动开拓市场"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机"
+ },
+ "email_hook": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+}

@@ -1,4 +1,5 @@
 # JM Fiber Optics Inc
+**官方名称（调研核实）**：JM Fiber Optics, Inc.（Chino, CA, USA；jmfiberoptics.com）
 
 > **评级 B**　|　美国　|　档案编号 `SB-959`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-959
 rating: B
 rating_auto: B
+name_official: "JM Fiber Optics, Inc.（Chino, CA, USA；jmfiberoptics.com）"
 score: 29
 country: 美国
 region: 北美
@@ -19,21 +21,21 @@ replies: 0
 followups: 18
 first_contact: 2024-06-07
 last_contact: 2025-10-28
-p1: STI-110GE
-price_tier: 20%
-research: pending
+p1: STC-4168XGGCM
+price_tier: 25%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：his colleague Aaron is more interested in MC
+- **是谁**：加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。（调研 2026-10-21；表内兴趣：his colleague Aaron is more interested in MC）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-06-07 → 2025-10-28）
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-4168XGGCM — 深挖对位：集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目；$392.4 USD EXW（25% 档，SmartByte LT-S8528XG-4XS16GX8GC 2100 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-959.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。
+- **【官网】公司定位与政府资质**
+  > JM Fiber Optics was established in 1992 as a full service communications company, servicing commercial, and government customers alike … We are an approved Department of Defense supplier/contractor … Headquarters 13941 Ramona Avenue, Suite A, Chino, CA 91710 USA Phone 1-909-628-3445 … Email info@jmfiberoptics.com GSA Schedule – GS-35F-0328S
+  > 来源：https://jmfiberoptics.com/aboutus/（抓取 2024-01-05）
+- **【政府名录】业务范围（含 CCTV 与交通系统）**
+  > JM Fiber Optics is a value added reseller and systems integrator of fiber optic and copper voice, video and data communication networks, CCTV and surveillance systems, perimeter and tunnel intrusion detection technology, transit passenger information systems and ETA certified fiber optic installer and technician training courses.
+  > 来源：https://www.navair.navy.mil/osbp/node/4566（抓取 2026-10-21）
+- **【LinkedIn】规模**
+  > JM Fiber Optics, Inc. … Company size: 11-50 employees Headquarters: Chino, CA … Founded: 1992
+  > 来源：https://www.linkedin.com/company/jm-fiber-optics-inc（抓取 2026-10-21）
+- **【名录】营收**
+  > JM Fiber Optics Inc. … Chino, CA, 91710-8412 … Revenue: $3.02 million Modelled
+  > 来源：https://www.dnb.com/business-directory/company-profiles.jm_fiber_optics_inc.535c7f6135c212ca574c96928b972d77.html（抓取 2026-10-21）
+- **【用户表】18 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | JM Fiber Optics, Inc. |
+| 成立 | 1992（Bloomberg 登记 1993-02-16） |
+| 总部/地址 | 13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com） |
+| 其他 | GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训 |
+
+- **业务线**：光纤网络设计、施工、熔接、测试与机架安装；CCTV/周界/隧道入侵检测集成（守界：交通/军方项目不供）；光纤技师培训（ETA 认证）；政府采购（GSA / DoD）——守界
+- **触达通道（公开）**：网站: https://jmfiberoptics.com/；电话: +1 909-628-3445 / 1-888-343-4237（官网公开）；邮箱（公开）: info@jmfiberoptics.com；LinkedIn: https://www.linkedin.com/company/jm-fiber-optics-inc
+- **近况信号**：
+  - 商用光纤到楼/园区项目需要多 SFP 口汇聚交换机（STC-4168XGGCM 16 SFP + 8 Combo + 4×10G）与 PoE 接入；培训教室亦需光口交换机作教具
+- **风险/边界**：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进
+- **Saga 对位结论**：P1 STC-4168XGGCM（25% 档）——集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目
+- **邮件切入句（英文）**：For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -112,20 +148,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-4168XGGCM | 深挖对位：集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目 | $392.4 USD EXW（25% 档，SmartByte LT-S8528XG-4XS16GX8GC 2100 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-4168XGGCM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-4168XGGCM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -133,7 +169,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：已推送 18 次无回复，邮件通道疲劳
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-4168XGGCM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -157,30 +193,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Fred,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

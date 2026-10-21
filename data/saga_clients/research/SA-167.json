@@ -27,5 +27,34 @@
  "grade_override": "B",
  "override_reason": "微型安装商、需求仅'找工业 PoE 网管'且无后续互动；土耳其主攻区故保留 B。",
  "notes": "WA 一次：STI-288DGGPM 图片+价格（项目 25%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Voltech Elektronik",
+  "hq": "Silivri / İstanbul, Türkiye",
+  "size": "微型（官网建设中）",
+  "other": "摄像系统、报警、电脑、电话交换机、电气电子服务；ISAF 2025 取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25）"
+ },
+ "business_lines": [
+  "安防/电气电子服务（Silivri）"
+ ],
+ "channels": {
+  "网站": "http://www.voltechelektronik.com/（建设中）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "明确找工业级 PoE 网管 → STI-288DGGPM 直接对位"
+ ],
+ "risks": [
+  "微型；官网未建成"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）"
+ },
+ "email_hook": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?"
 }

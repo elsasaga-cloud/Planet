@@ -1,4 +1,5 @@
 # pulsar.pl
+**官方名称（调研核实）**：Pulsar（pulsar.pl，Siechnice/Wrocław 一带，PL；自有品牌电源与 PoE 交换机制造商）
 
 > **评级 B**　|　波兰　|　档案编号 `SB-075`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-075
 rating: B
 rating_auto: B
+name_official: "Pulsar（pulsar.pl，Siechnice/Wrocław 一带，PL；自有品牌电源与 PoE 交换机制造商）"
 score: 55
 country: 波兰
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 16
 first_contact: 2024-05-08
 last_contact: 2025-10-21
-p1: STC-448DGGPM
-price_tier: 20%
-research: pending
+p1: STC-28DGGPM
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：用ONV的，工业电源是他们自己设计的，有POE看门狗的需求，和他说了24V/48V自识别的，他说欧洲有一些国家在用了，他们可能还没计划；提到的品牌：ONV
+- **是谁**：波兰电源/缓冲电源制造商 Pulsar，自有品牌 PoE 交换机产品线（S108/S108-90W/S108WP 8 口、S116/S116WP/USF1816P/SF116 16 口、SFG120-BT 16 GE + 4 GE + 4 SFP 802.3bt，工业 DIN PoE 交换机）；零售净价 8 口 325–434 zł、16 口 542–999 zł、SFG120-BT 1,187 zł；特色是 48–54 V DC 输入「WP（无电源）」版本配合自家缓冲电源（SWB-120 52 VDC/2×17Ah）。典型 OEM 买家（整机外采贴牌）。用户表：16 次跟进 0 回复。（调研 2026-10-21；表内兴趣：用ONV的，工业电源是他们自己设计的，有POE看门狗的需求，和他说了24V/48V自识别的，他说欧洲有一些国家在用了，他们可能还没计划）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-21）
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,48 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-075.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：波兰电源/缓冲电源制造商 Pulsar，自有品牌 PoE 交换机产品线（S108/S108-90W/S108WP 8 口、S116/S116WP/USF1816P/SF116 16 口、SFG120-BT 16 GE + 4 GE + 4 SFP 802.3bt，工业 DIN PoE 交换机）；零售净价 8 口 325–434 zł、16 口 542–999 zł、SFG120-BT 1,187 zł；特色是 48–54 V DC 输入「WP（无电源）」版本配合自家缓冲电源（SWB-120 52 VDC/2×17Ah）。典型 OEM 买家（整机外采贴牌）。用户表：16 次跟进 0 回复。
+- **在卖/在用品牌**：Pulsar（自有品牌）, MEAN WELL（电源代理）
+- **【官网】自有品牌 PoE 交换机线**
+  > Switche PoE firmy Pulsar oferują wiele korzyści … Zgodne ze standardami IEEE 802.3af/at/bt, urządzenia te zapewniają moc wyjściową od 15,4 W do 60 W
+  > 来源：https://www.pulsar.pl/PL_117_switche-poe（抓取 2026-10-21）
+- **【官网】16 口系列价格与规格**
+  > S116 | 16 - 10/100 Mb/s | 30W | 2 - 1 Gb/s | … 740.00 | S116WP … 48 - 54 V DC … 570.00 | … SF116 … 2 - 1 Gb/s SFP … 999.00 | SFG120-BT | 16 - 1 Gb/s | 30W 60W | 4 - 1 Gb/s | 4 - 1 Gb/s | … 1 187.00
+  > 来源：https://www.pulsar.pl/PL_121_seria-sf（抓取 2026-10-21）
+- **【官网】8 口系列价格**
+  > S108 | 8 - 10/100 Mb/s | 30W | 2 - 10/100 Mb/s | … 52 V DC … 434.00 | S108-90W … 325.00 | S108WP …
+  > 来源：https://www.pulsar.pl/PL_120_8-portowe（抓取 2026-10-21）
+- **【官网】工业 DIN PoE 交换机与缓冲电源**
+  > Standard DIN - Switche PoE przemysłowe - Transformatory … Zasilacze - Buforowe - Seria DING2 … Seria DRC ( MEAN WELL )
+  > 来源：https://www.pulsar.pl/PL_182_switche-poe-przemyslowe（抓取 2026-10-21）
+- **【用户表】16 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网目录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Pulsar（pulsar.pl；法人全称待核） |
+| 总部/地址 | 波兰（Siechnice/Wrocław 区域，待核） |
+| 其他 | 产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt |
+
+- **业务线**：缓冲/开关电源与变压器制造（自有品牌）；PoE 交换机（商用 8/16 口；工业 DIN；bt 60W）；PoE 缓冲供电系统（SWB-120）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Pulsar | S108-90W | 8×FE PoE + 2×FE 上联，90W，桌面，325 zł 净 | STC-028GP（8 GE PoE，$24.2）/ STC-28DGGPM（管理） | https://www.pulsar.pl/PL_9999_S108-90W_（2026-10-21） |
+| Pulsar | S108WP | 8×FE PoE，48–57 V DC 输入（无电源版） | STI-088GP（8 GE PoE，DC 44–57 V，$45.7 @30） | https://www.pulsar.pl/PL_120_S108WP_switch-poe-10-portowy-s108wp-bez-zasilacza-do-8-kamer-ip（2026-10-21） |
+| Pulsar | SF116 / SFG120-BT | 16 PoE + 2 GE + 2 SFP（999 zł）/ 16 GE PoE bt 60W + 4 GE + 4 SFP（1,187 zł） | STI-21616GP（16 GE PoE + 2 SFP，$184.6 @30） | https://www.pulsar.pl/PL_121_seria-sf（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.pulsar.pl/；目录: https://www.pulsar.pl/PL_117_switche-poe
+- **近况信号**：
+  - 整机外采贴牌型制造商；其 WP（48–54 V DC 无电源）版本与 Saga STI DC 输入系列天然匹配；缺千兆 8 口管理与 2.5G 型号 → 可补线
+- **风险/边界**：已有稳定 OEM 来源（多为深圳厂）；对价格极敏感；16 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W
+- **邮件切入句（英文）**：Your WP switches run from 48–54 V DC buffered supplies; our DIN 8-port gigabit PoE units take 44–57 V DC natively and can carry the Pulsar label — would a gigabit S108WP-class model fill the gap in your series?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -126,20 +169,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -147,7 +189,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 16 次无回复，邮件通道疲劳
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -171,19 +213,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Nobert,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your WP switches run from 48–54 V DC buffered supplies; our DIN 8-port gigabit PoE units take 44–57 V DC natively and can carry the Pulsar label — would a gigabit S108WP-class model fill the gap in your series?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Pulsar S108-90W at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -20,5 +20,34 @@
  "grade_override": "B",
  "override_reason": "母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。",
  "notes": "若用户确认其北美公司独立采购且有持续需求，可改回 A。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "FiberHome North America（用户备注「烽火美国分公司」；网页未核实）",
+  "hq": "美国",
+  "size": "母公司大型；分公司规模未核",
+  "other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送"
+ },
+ "business_lines": [
+  "电信设备（母公司）",
+  "北美项目/实验室采购（推断）"
+ ],
+ "channels": {
+  "网站": "fhn-na.com（未核实）"
+ },
+ "signals": [
+  "曾接近样品单（光模块）→ 以光模块 + 小交换机维持联系"
+ ],
+ "risks": [
+  "中资大厂分公司，采购走集团渠道；机会型而非渠道型"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示"
+ },
+ "email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
 }

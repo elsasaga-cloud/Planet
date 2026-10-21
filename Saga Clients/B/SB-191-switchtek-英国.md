@@ -1,4 +1,5 @@
 # switchtek
+**官方名称（调研核实）**：Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）
 
 > **评级 B**　|　英国　|　档案编号 `SB-191`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-191
 rating: B
 rating_auto: B
+name_official: "Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）"
 score: 49
 country: 英国
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 17
 first_contact: 2024-06-13
 last_contact: 2025-10-24
-p1: STC-424DGGPM-280W
+p1: STI-280DGGM
 price_tier: 20%
-research: pending
+research: done
 sources: 3
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的分销商/经销商；兴趣/在卖：分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch；Kyland；提到的品牌：Kyland
+- **是谁**：英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch；Kyland）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280DGGM — 深挖对位：分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM；$125.6 USD EXW（20% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,53 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-191.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。
+- **在卖/在用品牌**：Kyland, MEAN WELL, SCL
+- **【官网】公司定位与规模**
+  > Switchtec Ltd operates as a UK franchisee for world-wide manufacturers of quality components … For more 40 years … carries over seven thousand product lines ex-stock
+  > 来源：https://www.switchtec.com/About_Us（抓取 2026-10-21）
+- **【官网】Kyland 工业交换机品类**
+  > Unmanaged Ethernet Switches … EN50155 Ethernet Switches … Managed Ethernet Switches … Kyland Industrial Ethernet Switches
+  > 来源：https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch（抓取 2026-10-21）
+- **【官网】地址、电话、邮箱**
+  > Switchtec Ltd, Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH Telephone: 01785 818600 … Email: sales@switchtec.com … No minimum order quantity
+  > 来源：https://www.switchtec.com/（抓取 2026-10-21）
+- **【行业媒体】CEO 与 Kyland 引入**
+  > Says CEO Jeremy Lester, "… we have many new products coming through including solutions from leading global innovator in industrial internet technology Kyland."
+  > 来源：https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years（抓取 2026-10-21）
+- **【登记】法人登记**
+  > SWITCHTEC LIMITED … Brooms Road, Stone Business Park, Stone, Staffordshire, ST15 0SH … Incorporated on: 12 February 1982
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/01613368（抓取 2026-10-21）
+- **【用户表】17 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Jeremy Lester（CEO（行业媒体公开））sales@switchtec.com（公司公开） +44 1785 818600〔https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years〕
+- **KP**：Mark Stevens（Southern Area Sales Manager（官网新闻公开））—（未公开） +44 1785 818600〔https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Switchtec Limited（Companies House 01613368，1982-02-12） |
+| 成立 | 1982 |
+| 总部/地址 | Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com） |
+| 其他 | CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道 |
+
+- **业务线**：工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）；工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）；现场技术选型支持（销售工程师）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Kyland | Opal 系列（非管理） | 4×10/100 RJ45 + 1 光/电口，冗余电源，IP30 金属壳，SC/ST/SFP 可选 | STI-140FE（4 FE + 1 SFP，$24.3）/ STI-140GE（$28.0） | https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches（2026-10-21） |
+| Kyland | EN50155 / 管理型系列 | 铁路与管理型工业交换机 | STI-280DGGM（管理 8 GE + 2 SFP）；EN50155 守界不供 | https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.switchtec.com/；电话: +44 1785 818600（官网公开）；邮箱（公开）: sales@switchtec.com；LinkedIn: https://www.linkedin.com/company/switchtec-ltd
+- **近况信号**：
+  - 已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI
+- **风险/边界**：与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复
+- **Saga 对位结论**：P1 STI-280DGGM（20% 档）——分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM
+- **邮件切入句（英文）**：Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -111,6 +159,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Jeremy Lester | CEO（行业媒体公开） | sales@switchtec.com（公司公开） / +44 1785 818600 | 调研核实（公开页） | https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years |
+| Mark Stevens | Southern Area Sales Manager（官网新闻公开） | —（未公开） / +44 1785 818600 | 调研核实（公开页） | https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches |
 | Dan Kelsall | — | dan@switchtec.co.uk / sales@switchtec.co.uk / +4401785818600 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -129,7 +179,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商/经销商） |
+| **P1** | STI-280DGGM | 深挖对位：分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM | $125.6 USD EXW（20% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -138,9 +188,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280DGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280DGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -150,7 +200,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Kyland：涨价、断货或交期拉长时切入
+- **O**：P1 STI-280DGGM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Kyland：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -174,30 +224,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Dan,
+Hi Jeremy,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Kyland class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

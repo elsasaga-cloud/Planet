@@ -1,5 +1,5 @@
 # Liveye
-**官方名称（调研核实）**：Liveye（德国）
+**官方名称（调研核实）**：LivEye GmbH（Föhren/Trier, Rheinland-Pfalz, DE；liveye.com；移动视频监控塔制造与服务商）
 
 > **评级 B**　|　德国　|　档案编号 `SA-157`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -10,7 +10,7 @@ code: SA-157
 rating: B
 rating_auto: A
 rating_research: B  # 无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。
-name_official: "Liveye（德国）"
+name_official: "LivEye GmbH（Föhren/Trier, Rheinland-Pfalz, DE；liveye.com；移动视频监控塔制造与服务商）"
 score: 60
 country: 德国
 region: 欧洲
@@ -22,8 +22,8 @@ replies: 0
 followups: 7
 first_contact: 2025-04-11
 last_contact: 2025-11-04
-p1: STC-424DGGPM-280W
-price_tier: 25%
+p1: STI-144GP
+price_tier: 30%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国安防产品公司（名片显示安防产品），展会交流中对工商业 PoE 交换机介绍仅附和、未表达具体需求；WA 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品）
+- **是谁**：德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品）
 - **为什么是 B 级**：**调研后定级 B**（无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-11 → 2025-11-04）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,17 +66,57 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：德国安防产品公司（名片显示安防产品），展会交流中对工商业 PoE 交换机介绍仅附和、未表达具体需求；WA 已加，7 次跟进 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；WhatsApp 已加，7 次跟进 0 回复。
 - **类型**：安防产品商
 - **规模**：待补证
+- **在卖/在用品牌**：LivEye（自有品牌）
 - **【用户记录】介绍工商 PoE 交换机，对方附和无具体需求；WA 已加；0 回复 / 7 次**
   > 给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品；49 173 51 67073 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】公司定位与规模**
+  > LivEye GmbH is a renowned security firm specialising in the protection of temporary high-risk areas. Under the LivEye brand, we develop and manufacture state-of-the-art video surveillance systems. With more than 2,500 security systems and a state-of-the-art control centre … Europa Allee 56b, 54343 Föhren … info@liveye.com
+  > 来源：https://www.liveye.uk/company-liveye-technological-market-leader/（抓取 2026-09-08）
+- **【行业媒体】规模、生产基地、总经理**
+  > Mit über 1.500 modernen Videotürmen, einer hausinternen Leitstelle … Der in 2024 eröffnete Produktionsstandort in Badem … Als Geschäftsführer leitet Carsten Simons das Unternehmen mit rund 95 Mitarbeitern an fünf Standorten in der D-A-CH-Region sowie in Polen.
+  > 来源：https://git-sicherheit.de/de/business-partner/liveye-gmbh/（抓取 2026-10-21）
+- **【官网 PDF】里程碑与股权**
+  > 2019 Gründung der LivEye GmbH > 35 Mitarbeiter 2022 > 50 Mitarbeiter > 1.000 Videosicherheitssysteme im Markt NORD HOLDING erwirbt 70% 2025 > 130 Mitarbeiter > 2.000 Videosicherheitssysteme im Markt
+  > 来源：https://www.liveye.com/wp-content/uploads/2023/09/LivEye_Broschuere_08-2022-deutsch.pdf（抓取 2026-10-21）
+- **【行业媒体】新任总经理**
+  > LivEye beruft Markus Diederichs in die Geschäftsführung … Mit der Erweiterung verstärkt das Sicherheitsunternehmen den Kurs auf Souveränität „made in Germany"
+  > 来源：https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung（抓取 2025-10-08）
+- **【LinkedIn】规模**
+  > LivEye … Größe: 51–200 Beschäftigte Hauptsitz: Föhren, Rheinland-Pfalz … Gegründet: 2018
+  > 来源：https://de.linkedin.com/company/liveye-gmbh（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +49 173 516 7073（WA）/ +49 6502 403 4722〔用户 Clients 表〕
+- **KP**：Carsten Simons（Geschäftsführer（行业媒体公开））info@liveye.com（公司公开） —〔https://git-sicherheit.de/de/business-partner/liveye-gmbh/〕
+- **KP**：Markus Diederichs（Geschäftsführer（2025-10 起；行业媒体公开））—（未公开） —〔https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung〕
 - **调研后定级**：B（原自动 A）——无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。
 - 备注：WA 季度触达。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 行业媒体核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | LivEye GmbH |
+| 成立 | 2018（品牌）/ 2019（GmbH） |
+| 总部/地址 | Europa-Allee 56b（另见 27），54343 Föhren, Germany（info@liveye.com）；生产基地 Badem（2024） |
+| 其他 | Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装 |
+
+- **业务线**：移动视频监控塔研发制造（PRO 2.0、PRO SOLAR、ONE+、LIGHT+、FALCON、DOCU）；24/7 自营监控中心与全服务（规划、技术、服务、监控）；长期固定安装订阅（NSTR）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| LivEye | PRO 2.0 / PRO SOLAR | 太阳能/市电移动视频塔，AI 异常检测，4G/5G 回传 | 塔内 STI-144GP（4 PoE + 1 SFP，DC 44–57 V）/ STI-288DGGPM | https://www.marktplatz-mittelstand.de/foehren/liveye-gmbh-mobile-videoueberwachung-baustellenschutz-aX3PKE.html（2026-10-21） |
+
+- **触达通道（公开）**：网站: https://www.liveye.com/；邮箱（公开）: info@liveye.com；LinkedIn: https://de.linkedin.com/company/liveye-gmbh
+- **近况信号**：
+  - 自产 2,000+ 视频塔、年产数百台 → 塔内 PoE 交换机为批量 BOM 件；太阳能塔需低功耗宽温 DC 输入机（STI 12–58 V DC）
+  - 『Souveränität made in Germany』路线：对供应链来源敏感 → 以中性包装 + 元器件声明应对
+- **风险/边界**：已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）
+- **Saga 对位结论**：P1 STI-144GP（30% 档）——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM
+- **邮件切入句（英文）**：For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -109,6 +149,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Carsten Simons | Geschäftsführer（行业媒体公开） | info@liveye.com（公司公开） / — | 调研核实（公开页） | https://git-sicherheit.de/de/business-partner/liveye-gmbh/ |
+| Markus Diederichs | Geschäftsführer（2025-10 起；行业媒体公开） | —（未公开） / — | 调研核实（公开页） | https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung |
 | Florian Hoffmann | — | f.hoffmann@liveye.com / +491735167073 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -126,20 +168,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防产品商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-144GP | 深挖对位：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM | $36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防产品商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-144GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-144GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -147,7 +189,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-144GP 按 30% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -175,14 +217,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
 
 ```text
-Hi Florian,
+Hi Carsten,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your LivEye PRO 2.0 / PRO SOLAR at a lower landed cost, and we can ship it with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

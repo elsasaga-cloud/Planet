@@ -1,0 +1,51 @@
+{
+ "code": "SB-461",
+ "name_official": "（未具名）美国 · computerwayne@gmail.com（电话 +1 318 路易斯安那）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "美国路易斯安那（+1 318）个人/小型 IT 服务商 Wayne（Gmail）：需求工业 PoE 注入器（引用 Red Lion 100-PoE 产品页作参照）；WhatsApp 已加（两次）、邮件跟进，1 次回复后 20 次跟进无果。Saga 价目无独立 PoE 注入器——以工业 PoE 交换机替代。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "需求工业 PoE injector（Red Lion 参照）；WhatsApp 已加；1 次回复、20 次跟进",
+   "quote": "工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po…",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（需求已映射）"
+ },
+ "company_facts": {
+  "legal_name": "未具名（个人邮箱）",
+  "hq": "美国（+1 318）",
+  "size": "个人/微型"
+ },
+ "business_lines": [
+  "IT/工业现场服务（推断）"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "参照 Red Lion 工业 PoE 注入器 → 工业场景；可用 STI-144GP/STI-054GP 单口替代"
+ ],
+ "risks": [
+  "Saga 无独立注入器 SKU；20 次跟进无果"
+ ],
+ "saga_fit": {
+  "p1": "STI-054GP",
+  "tier": 25,
+  "why": "工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）"
+ },
+ "email_hook": "Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?"
+}

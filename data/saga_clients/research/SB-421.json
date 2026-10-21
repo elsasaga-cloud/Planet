@@ -1,0 +1,51 @@
+{
+ "code": "SB-421",
+ "name_official": "Metal Union（波兰；邮箱 pro.onet.pl；电话 +48 34 Częstochowa 区号）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "购买 2 个模块 + 1 个 MC，€50（成交）；WhatsApp 加不上",
+   "quote": "买了2个模块+1个MC 50Euros … 4834/3661300 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（已成交）"
+ },
+ "company_facts": {
+  "legal_name": "Metal Union（表内；未能核实法人）",
+  "hq": "波兰（+48 34 区号）",
+  "size": "微型/小型"
+ },
+ "business_lines": [
+  "金属加工（据名称推断）",
+  "车间网络自建"
+ ],
+ "channels": {
+  "邮箱": "（表内 onet.pl）"
+ },
+ "signals": [
+  "已成交 €50（模块 + MC）→ 车间扩展时需要 DIN 工业交换机"
+ ],
+ "risks": [
+  "单量小；WhatsApp 加不上；0 次跟进记录"
+ ],
+ "saga_fit": {
+  "p1": "STI-280DGGM",
+  "tier": 25,
+  "why": "工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）"
+ },
+ "email_hook": "Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?"
+}

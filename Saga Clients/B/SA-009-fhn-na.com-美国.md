@@ -22,7 +22,7 @@ replies: 1
 followups: 19
 first_contact: 2023-08-29
 last_contact: 2025-11-04
-p1: STI-110GE
+p1: STC-424XGGM
 price_tier: 25%
 research: done
 sources: 1
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。（调研 2026-10-21；表内兴趣：收发器/差点成样品单）
 - **为什么是 B 级**：**调研后定级 B**（母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。）；自动分级 C：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-45 巨头/品牌厂商/运营商/军工（INH 规则：体量不匹配或非客户）
 - **历史互动**：实质回复 1 次；推送 19 次（2023-08-29 → 2025-11-04）；最近一次客户回复：2023-08-29：Full FE 2+4
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -67,6 +67,21 @@ updated: 2026-10-21
 - **调研后定级**：B（原自动 C）——母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。
 - 备注：若用户确认其北美公司独立采购且有持续需求，可改回 A。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | FiberHome North America（用户备注「烽火美国分公司」；网页未核实） |
+| 总部/地址 | 美国 |
+| 其他 | 兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送 |
+
+- **业务线**：电信设备（母公司）；北美项目/实验室采购（推断）
+- **触达通道（公开）**：网站: fhn-na.com（未核实）
+- **近况信号**：
+  - 曾接近样品单（光模块）→ 以光模块 + 小交换机维持联系
+- **风险/边界**：中资大厂分公司，采购走集团渠道；机会型而非渠道型
+- **Saga 对位结论**：P1 STC-424XGGM（25% 档）——机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示
+- **邮件切入句（英文）**：Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -125,7 +140,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（中资大厂海外分公司（终端/项目采购）） |
+| **P1** | STC-424XGGM | 深挖对位：机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示 | $132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（中资大厂海外分公司（终端/项目采购）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -134,9 +149,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -146,7 +161,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；北美主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源；规模（调研）：母公司为大型企业；分公司规模未核
+- **O**：P1 STC-424XGGM 按 25% 档报价，做现供应商的第二货源；规模（调研）：母公司为大型企业；分公司规模未核
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -174,25 +189,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi George,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

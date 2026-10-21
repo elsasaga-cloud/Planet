@@ -27,5 +27,35 @@
  "grade_override": "B",
  "override_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
  "notes": "",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Suministros Industriales MP4, S.L.",
+  "hq": "Sabadell (Barcelona), España",
+  "size": "小型（未见人数）",
+  "other": "产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」"
+ },
+ "business_lines": [
+  "工业自动化元器件与机柜供应（MRO）",
+  "Condúctica（拖链、滑触线）"
+ ],
+ "channels": {
+  "网站": "https://suministros-industriales.es/",
+  "联系人": "Hugo Hernàndez（用户表）"
+ },
+ "signals": [
+  "卖机柜与电柜配件 → 可补 DIN 导轨工业交换机作柜内配套 SKU；对方关注价格"
+ ],
+ "risks": [
+  "无网络品类经验；1 次回复后 18 次无果"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）"
+ },
+ "email_hook": "Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?"
 }

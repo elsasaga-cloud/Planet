@@ -1,17 +1,54 @@
 {
  "code": "SA-109",
- "name_official": "Telcam Fire & Security Ltd（英国）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "英国消防与安防分销商（用户记录：展会现场交流，懂一点 WDM，对交换机有兴趣，希望 OEM 并问能否提供技术培训），之后 17 次推送 0 回复。",
+ "name_official": "Telcam Fire & Security Ltd（Co. 12383574）/ Tel-Cam Security System Ltd（Co. 04066468），Hanwell, London W7，telcam.co.uk",
+ "website_status": "在线",
+ "summary": "伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。",
  "type": "安防/消防分销商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Texecom（入侵报警）"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "UK 分销、希望 OEM、问技术培训；0 回复 / 17 次跟进",
    "quote": "懂一点WDM 对switch有兴趣 在UK做分销的 希望OEM 如果他们分销我们的产品能提供技术培训嘛？（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务范围与运营主体",
+   "quote": "Installation & Maintenance of Intruder Alarms, Access Control and CCTV Systems … Company Name: Tel-Cam Security Systems Ltd Company # 04066468 5 Broadway Buildings Boston Road Hanwell London W7 3TT … 020 8840 2111",
+   "url": "https://telcam.co.uk/",
+   "date": "2025-04-14"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与定位",
+   "quote": "Telcam is a Tier 1 Security & Safety Systems provider, operating Nationwide across England & Wales … Company size: 11-50 employees … Founded: 2000",
+   "url": "https://uk.linkedin.com/company/telcam",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "登记",
+   "claim": "法人登记",
+   "quote": "TELCAM FIRE & SECURITY LTD … Registered office address: 5 Broadway Buildings, Boston Road, London, England, W7 3TT … Incorporated on: 2 January 2020 … 80200 - Security systems service activities",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12383574",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "登记",
+   "claim": "运营主体 SIC",
+   "quote": "TEL-CAM SECURITY SYSTEM LIMITED … Incorporated on: 6 September 2000 … 47429 - Retail sale of telecommunications equipment other than mobile telephones; 61900 - Other telecommunications activities",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04066468",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "客户规模",
+   "quote": "From September 2000 – 2019, Telcam's primary method for expansion was via \"word of mouth\" … producing over 2,500 clients across England & Wales, most with multiple site portfolios.",
+   "url": "https://telcam-ap.co.uk/",
    "date": "2026-10-21"
   }
  ],
@@ -27,5 +64,38 @@
  "grade_override": "B",
  "override_reason": "英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。",
  "notes": "重启角度：直接回答其当年问题——'可提供远程技术培训 + 英文手册 + UKCA/CE 文件 + 中性包装'，附 STC-28DGGPM/STC-424DGGPM-280W OEM 价（30%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+ },
+ "company_facts": {
+  "legal_name": "Telcam Fire & Security Ltd（12383574，2020-01-02；曾名 Telcam Security Services Ltd）；运营主体 Tel-Cam Security System Ltd（04066468，2000-09-06）",
+  "hq": "5 Broadway Buildings, Boston Road, Hanwell, London W7 3TT（020 8840 2111；WhatsApp 07388 351670；safety@telcam.co.uk）",
+  "size": "11–50（LinkedIn）；2,500+ 客户（自述）",
+  "other": "Texecom 入侵报警安装；门禁、CCTV、火灾报警（守界：火灾主系统不供）、保险柜、闸门；2026-02 一名董事辞任"
+ },
+ "business_lines": [
+  "入侵报警 / 门禁 / 专项 CCTV 安装与维护",
+  "火灾报警系统（守界）",
+  "保险柜、安防闸门、家庭自动化"
+ ],
+ "channels": {
+  "网站": "https://telcam.co.uk/",
+  "电话": "+44 20 8840 2111（官网公开）",
+  "邮箱（公开）": "safety@telcam.co.uk",
+  "LinkedIn": "https://uk.linkedin.com/company/telcam"
+ },
+ "signals": [
+  "多站点客户组合（2,500+ 客户、多为多址）→ 每个 CCTV 站点 1 台 8/16 口 PoE；希望 OEM + 技术培训 → 可提供英文 CLI/Web 手册与远程培训作为 OEM 配套"
+ ],
+ "risks": [
+  "安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册"
+ },
+ "email_hook": "You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?"
 }

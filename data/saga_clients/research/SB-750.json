@@ -1,0 +1,51 @@
+{
+ "code": "SB-750",
+ "name_official": "Le Reveil（加拿大渥太华区号 613；联系人 François Burton，Gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "加拿大（电话 +1 613，渥太华地区）个人/小型需求方 François Burton（Gmail）：明确需求「8/12 个 SFP+ 甚至更高规格光口、不要网管(或不要电口)、工业级温度」；WhatsApp 已加、以邮件跟进为主，15 次跟进 0 回复。Saga 工业线最多 4×10G SFP+（STI-488DGGGM：8×1G SFP + 4×10G SFP+ + 8 GE），无 8/12 口 SFP+ 工业机型——待核型。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "需求：8/12×SFP+ 以上光口、工业级温度；WhatsApp 已加、邮件跟进为主；15 次跟进 0 回复",
+   "quote": "8/12个SFP+甚至更高规格的光 不要网 工业级温度!!",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（需求已映射）"
+ },
+ "company_facts": {
+  "legal_name": "Le Reveil（表内名称；未能核实法人）",
+  "hq": "加拿大（+1 613 渥太华区号）",
+  "size": "未知（个人邮箱）"
+ },
+ "business_lines": [
+  "未知（需求为工业级多 SFP+ 光口交换机）"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "需求具体（8/12×SFP+、工业温度）→ 若有 10G 光口密集机型可成单"
+ ],
+ "risks": [
+  "Saga 工业线 SFP+ 最多 4 口；15 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号"
+ },
+ "email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?"
+}

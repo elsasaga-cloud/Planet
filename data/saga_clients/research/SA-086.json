@@ -41,5 +41,35 @@
  "grade_override": "B",
  "override_reason": "3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。",
  "notes": "保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Safe-tech CCTV Systems SWEDEN AB（org.nr 556732-8181）",
+  "hq": "Markaryd, Sverige",
+  "size": "3 人；2024 年营收 4,630 千 SEK（−24%），营业亏损 −480 千 SEK",
+  "other": "2007 年注册，SNI 46649 批发；CEO/Owner Jimmy Johansson（070-610 17 11）；关联站 safevisioncctv.se；ISAF 2025 到访取目录并加 WA"
+ },
+ "business_lines": [
+  "CCTV/安防设备批发（瑞典）",
+  "安装与小型工程"
+ ],
+ "channels": {
+  "网站": "safe-tech.se / https://safevisioncctv.se/",
+  "登记": "https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab"
+ },
+ "signals": [
+  "批发身份 + 展会主动到访 → 可按 20% 档谈小批量；营收下滑 → 对低价白牌 PoE 敏感"
+ ],
+ "risks": [
+  "3 人、亏损；6 次推送 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP"
+ },
+ "email_hook": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?"
 }

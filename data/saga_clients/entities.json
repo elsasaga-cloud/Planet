@@ -3233,7 +3233,36 @@
 "grade_override": "B",
 "override_reason": "母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。",
 "notes": "若用户确认其北美公司独立采购且有持续需求，可改回 A。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "FiberHome North America（用户备注「烽火美国分公司」；网页未核实）",
+"hq": "美国",
+"size": "母公司大型；分公司规模未核",
+"other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送"
+},
+"business_lines": [
+"电信设备（母公司）",
+"北美项目/实验室采购（推断）"
+],
+"channels": {
+"网站": "fhn-na.com（未核实）"
+},
+"signals": [
+"曾接近样品单（光模块）→ 以光模块 + 小交换机维持联系"
+],
+"risks": [
+"中资大厂分公司，采购走集团渠道；机会型而非渠道型"
+],
+"saga_fit": {
+"p1": "STC-424XGGM",
+"tier": 25,
+"why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示"
+},
+"email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
 }
 },
 {
@@ -20100,7 +20129,37 @@
 "grade_override": "B",
 "override_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Suministros Industriales MP4, S.L.",
+"hq": "Sabadell (Barcelona), España",
+"size": "小型（未见人数）",
+"other": "产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」"
+},
+"business_lines": [
+"工业自动化元器件与机柜供应（MRO）",
+"Condúctica（拖链、滑触线）"
+],
+"channels": {
+"网站": "https://suministros-industriales.es/",
+"联系人": "Hugo Hernàndez（用户表）"
+},
+"signals": [
+"卖机柜与电柜配件 → 可补 DIN 导轨工业交换机作柜内配套 SKU；对方关注价格"
+],
+"risks": [
+"无网络品类经验；1 次回复后 18 次无果"
+],
+"saga_fit": {
+"p1": "STI-050GE",
+"tier": 20,
+"why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）"
+},
+"email_hook": "Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?"
 }
 },
 {
@@ -22988,7 +23047,37 @@
 "grade_override": "B",
 "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw）",
+"hq": "Nettetal / Mönchengladbach, Germany",
+"size": "微型 UG（注册资本 €6,000；2 名管理人员）",
+"other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统"
+},
+"business_lines": [
+"视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）",
+"电话系统与智能安防"
+],
+"channels": {
+"网站": "https://walker-security.systems/",
+"Impressum": "https://walker-security.systems/impressum"
+},
+"signals": [
+"Dahua 认证安装商 → 现用 Dahua PFS 系列 PoE；A 邮箱已有 1 次回复（告知更名）"
+],
+"risks": [
+"微型、单量小；偏好品牌原厂 PoE"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP"
+},
+"email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?"
 }
 },
 {
@@ -24623,7 +24712,37 @@
 "grade_override": "B",
 "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
 "notes": "",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
+},
+"company_facts": {
+"legal_name": "Loop Telecommunication International, Inc.（Loop Telecom；台湾上市 3025）",
+"hq": "台湾新竹；EMEA & India 销售 VP Eric Piaget 驻法国",
+"size": "上市公司",
+"other": "自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830）"
+},
+"business_lines": [
+"电信接入与传输设备制造（自有品牌 Loop）",
+"工业/铁路以太网交换机（自研，与 Saga 重叠）"
+],
+"channels": {
+"网站": "https://www.looptelecom.com/",
+"联系人": "Eric Piaget, V.P. Sales EMEA & India（用户表）"
+},
+"signals": [
+"兴趣点为工业 FS / MC / 工业物联网 → 可能为低端补线 OEM 采购（Loop 自研线偏高端）"
+],
+"risks": [
+"台系品牌制造商（规则：台湾厂商/办事处原则上非客户）；同行采购风险（比价/套方案）；仅在明确 OEM 补线意向时推进"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 30,
+"why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
+},
+"email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?"
 }
 },
 {
@@ -31571,7 +31690,37 @@
 "grade_override": "B",
 "override_reason": "3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。",
 "notes": "保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Safe-tech CCTV Systems SWEDEN AB（org.nr 556732-8181）",
+"hq": "Markaryd, Sverige",
+"size": "3 人；2024 年营收 4,630 千 SEK（−24%），营业亏损 −480 千 SEK",
+"other": "2007 年注册，SNI 46649 批发；CEO/Owner Jimmy Johansson（070-610 17 11）；关联站 safevisioncctv.se；ISAF 2025 到访取目录并加 WA"
+},
+"business_lines": [
+"CCTV/安防设备批发（瑞典）",
+"安装与小型工程"
+],
+"channels": {
+"网站": "safe-tech.se / https://safevisioncctv.se/",
+"登记": "https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab"
+},
+"signals": [
+"批发身份 + 展会主动到访 → 可按 20% 档谈小批量；营收下滑 → 对低价白牌 PoE 敏感"
+],
+"risks": [
+"3 人、亏损；6 次推送 0 回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP"
+},
+"email_hook": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?"
 }
 },
 {
@@ -38477,7 +38626,37 @@
 "grade_override": "B",
 "override_reason": "小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。",
 "notes": "重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Tricomp Sp. z o.o.（华沙；2002-07-04 注册，注册资本 5 万 PLN）",
+"hq": "Warszawa, Polska",
+"size": "1–24 人（D&B）/ 51–200（LinkedIn 自报，口径不一）",
+"other": "总裁 James Francis Ofwona；业务：IT/电信咨询、设计、监理、布线与电信方案实施、项目管理"
+},
+"business_lines": [
+"IT/电信工程咨询与实施（布线、电信方案）",
+"软硬件方案与项目管理"
+],
+"channels": {
+"网站": "tricomp.com.pl",
+"LinkedIn/名录": "https://www.crunchbase.com/organization/tricomp"
+},
+"signals": [
+"布线与电信实施项目 → 每项目机柜级接入/汇聚交换机采购；1 次回复说明邮箱有效"
+],
+"risks": [
+"规模口径不一（可能仅数人）；14 次推送无回复"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W"
+},
+"email_hook": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?"
 }
 },
 {
@@ -39858,18 +40037,55 @@
 "grade": "B",
 "research": {
 "code": "SA-109",
-"name_official": "Telcam Fire & Security Ltd（英国）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "英国消防与安防分销商（用户记录：展会现场交流，懂一点 WDM，对交换机有兴趣，希望 OEM 并问能否提供技术培训），之后 17 次推送 0 回复。",
+"name_official": "Telcam Fire & Security Ltd（Co. 12383574）/ Tel-Cam Security System Ltd（Co. 04066468），Hanwell, London W7，telcam.co.uk",
+"website_status": "在线",
+"summary": "伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。",
 "type": "安防/消防分销商",
 "size": "待补证",
-"brands_seen": [],
+"brands_seen": [
+"Texecom（入侵报警）"
+],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "UK 分销、希望 OEM、问技术培训；0 回复 / 17 次跟进",
 "quote": "懂一点WDM 对switch有兴趣 在UK做分销的 希望OEM 如果他们分销我们的产品能提供技术培训嘛？（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "业务范围与运营主体",
+"quote": "Installation & Maintenance of Intruder Alarms, Access Control and CCTV Systems … Company Name: Tel-Cam Security Systems Ltd Company # 04066468 5 Broadway Buildings Boston Road Hanwell London W7 3TT … 020 8840 2111",
+"url": "https://telcam.co.uk/",
+"date": "2025-04-14"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模与定位",
+"quote": "Telcam is a Tier 1 Security & Safety Systems provider, operating Nationwide across England & Wales … Company size: 11-50 employees … Founded: 2000",
+"url": "https://uk.linkedin.com/company/telcam",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人登记",
+"quote": "TELCAM FIRE & SECURITY LTD … Registered office address: 5 Broadway Buildings, Boston Road, London, England, W7 3TT … Incorporated on: 2 January 2020 … 80200 - Security systems service activities",
+"url": "https://find-and-update.company-information.service.gov.uk/company/12383574",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "运营主体 SIC",
+"quote": "TEL-CAM SECURITY SYSTEM LIMITED … Incorporated on: 6 September 2000 … 47429 - Retail sale of telecommunications equipment other than mobile telephones; 61900 - Other telecommunications activities",
+"url": "https://find-and-update.company-information.service.gov.uk/company/04066468",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "客户规模",
+"quote": "From September 2000 – 2019, Telcam's primary method for expansion was via \"word of mouth\" … producing over 2,500 clients across England & Wales, most with multiple site portfolios.",
+"url": "https://telcam-ap.co.uk/",
 "date": "2026-10-21"
 }
 ],
@@ -39885,7 +40101,40 @@
 "grade_override": "B",
 "override_reason": "英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。",
 "notes": "重启角度：直接回答其当年问题——'可提供远程技术培训 + 英文手册 + UKCA/CE 文件 + 中性包装'，附 STC-28DGGPM/STC-424DGGPM-280W OEM 价（30%）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + Companies House 核对）"
+},
+"company_facts": {
+"legal_name": "Telcam Fire & Security Ltd（12383574，2020-01-02；曾名 Telcam Security Services Ltd）；运营主体 Tel-Cam Security System Ltd（04066468，2000-09-06）",
+"hq": "5 Broadway Buildings, Boston Road, Hanwell, London W7 3TT（020 8840 2111；WhatsApp 07388 351670；safety@telcam.co.uk）",
+"size": "11–50（LinkedIn）；2,500+ 客户（自述）",
+"other": "Texecom 入侵报警安装；门禁、CCTV、火灾报警（守界：火灾主系统不供）、保险柜、闸门；2026-02 一名董事辞任"
+},
+"business_lines": [
+"入侵报警 / 门禁 / 专项 CCTV 安装与维护",
+"火灾报警系统（守界）",
+"保险柜、安防闸门、家庭自动化"
+],
+"channels": {
+"网站": "https://telcam.co.uk/",
+"电话": "+44 20 8840 2111（官网公开）",
+"邮箱（公开）": "safety@telcam.co.uk",
+"LinkedIn": "https://uk.linkedin.com/company/telcam"
+},
+"signals": [
+"多站点客户组合（2,500+ 客户、多为多址）→ 每个 CCTV 站点 1 台 8/16 口 PoE；希望 OEM + 技术培训 → 可提供英文 CLI/Web 手册与远程培训作为 OEM 配套"
+],
+"risks": [
+"安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册"
+},
+"email_hook": "You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?"
 }
 },
 {
@@ -46771,9 +47020,9 @@
 "grade": "B",
 "research": {
 "code": "SA-131",
-"name_official": "SABMARtv（波兰）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "波兰视频/电视技术公司，曾成一笔压缩 HDMI 光端机样品单（用户记录），WA 已加，无后续跟进记录。",
+"name_official": "Sabmartv Marcin Wypior（SABMARtv / KIM Group，Rybnik, PL；sabmar.tv）",
+"website_status": "在线",
+"summary": "波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。",
 "type": "视频/广电技术经销商",
 "size": "待补证",
 "brands_seen": [],
@@ -46782,6 +47031,34 @@
 "kind": "用户记录",
 "claim": "压缩 HDMI 光端机成样品单；WA 已加",
 "quote": "压缩HDMI光端机 成样品单；48-5017 76652 已加（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "业务与设备",
+"quote": "OB VAN 2 wozy transmisyjne FullHD. 8 torów SMPTE, CCU, Replay, Grafiki CG, 4 Encodery, Interkom … STUDIO Wirtualne studio Unreal Engine 5. 18 stanowisk, 2 reżyserki … biuro@sabmar.tv … +48 501 776 652",
+"url": "http://www.sabmar.tv/",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人与地址",
+"quote": "6421823587 - NIP Sabmartv\" Marcin Wypior … Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych (PKD 59.11.Z) - Modrzewiowa 22, 44-270 Rybnik",
+"url": "https://mapa.targeo.pl/6421823587/nip/firma",
+"date": "2019-04-25"
+},
+{
+"kind": "媒体",
+"claim": "直播规模",
+"quote": "Łącznie wykonaliśmy osiemnaście transmisji na żywo, gdzie oglądano nas z 420 tys. komputerów.",
+"url": "https://sportowefakty.wp.pl/zuzel/664514/18-transmisji-ponad-pol-miliona-widzow-sabmartv-pokazywal-to-czego-nie-chcialy-w",
+"date": "2017-02-07"
+},
+{
+"kind": "用户表",
+"claim": "压缩 HDMI 光端机成样品单；WhatsApp 已加",
+"quote": "（用户表字段）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -46793,12 +47070,52 @@
 "email": "",
 "phone": "+48 501 776 652（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Marcin Wypiór",
+"role": "Owner（官网/媒体公开）",
+"email": "biuro@sabmar.tv（公司公开）",
+"phone": "+48 501 776 652",
+"source": "http://www.sabmar.tv/"
 }
 ],
 "grade_override": "B",
 "override_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
 "notes": "若其视频项目需 PoE 交换机再报；不主动投入。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 登记核对）"
+},
+"company_facts": {
+"legal_name": "Sabmartv Marcin Wypior（NIP 6421823587）",
+"hq": "Modrzewiowa 22, 44-270 Rybnik, Polska（+48 501 776 652；biuro@sabmar.tv）",
+"size": "微型（家族经营，Marcin + Błażej Wypiór）",
+"other": "PKD 59.11.Z 影视制作；27.31.Z 光缆生产（登记）；Facebook 53 评 98% 推荐"
+},
+"business_lines": [
+"体育/文化/会议赛事网络直播与电视信号制作（OB van）",
+"虚拟演播室与远程制作",
+"光纤/HDMI 信号传输自用与小批量采购"
+],
+"channels": {
+"网站": "http://www.sabmar.tv/",
+"电话": "+48 501 776 652（官网公开）",
+"邮箱（公开）": "biuro@sabmar.tv / telewizjasabmar@gmail.com",
+"Facebook": "https://www.facebook.com/sabmartv/"
+},
+"signals": [
+"已成样品单（HDMI 光端机）→ 信任基础；转播车 IP 化（NDI/SMPTE 2110）需 10G 上联交换机与 SFP+ 光模块"
+],
+"risks": [
+"终端用户、采购量小且不定期；需求偏 AV 传输而非交换机"
+],
+"saga_fit": {
+"p1": "STC-424XGGM",
+"tier": 25,
+"why": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购"
+},
+"email_hook": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?"
 }
 },
 {
@@ -48345,7 +48662,61 @@
 "grade_override": null,
 "override_reason": "",
 "notes": "画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先）"
+},
+"company_facts": {
+"legal_name": "Megatel Industries（美国）",
+"hq": "美国",
+"size": "小型（待补证）",
+"other": "自有 logo 工业以太网线：IFS/IGS/IMC/ITP/IPSW/FMC 系列（多为 CTC Union 贴牌，亦有 ONV）；标价高（IGS-803SM-8PH24 标 $1,800 售 $699；IPSW-G04-1GE1SFP 售 $145；IMC-1000MS-PHE12 售 $345）；S 重点名单，22 次推送 0 回复"
+},
+"business_lines": [
+"自有品牌工业以太网交换机/介质转换器网店（OEM 采购）"
+],
+"products_seen": [
+{
+"brand": "Megatel",
+"model": "IGS-803SM-8PH24",
+"spec": "工业 8 GE PoE 管理 + 3 SFP，售 $699",
+"url": "https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html",
+"date": "首轮调研",
+"saga": "STI-288DGGPM（8 PoE+ 2 SFP 管理，$151.6 @30）"
+},
+{
+"brand": "Megatel",
+"model": "IPSW-G04-1GE1SFP",
+"spec": "6 口工业非管理 PoE，售 $145",
+"url": "https://www.megatelindustries.com/ipinun6gipoe.html",
+"date": "首轮调研",
+"saga": "STI-154GP（4 PoE + 1 SFP + 1 GE，$40.8 @30）"
+},
+{
+"brand": "Megatel",
+"model": "IMC-1000MS-PHE12",
+"spec": "管理型千兆 PoE 介质转换器，售 $345",
+"url": "https://www.megatelindustries.com/imc1000100012.html",
+"date": "首轮调研",
+"saga": "STI-111GP（$30.1 @30）"
+}
+],
+"channels": {
+"网店": "https://www.megatelindustries.com/"
+},
+"signals": [
+"售价/成本比 4–5 倍 → 换源动机强；型号命名与 CTC Union 一致 → 对比表可直接给出"
+],
+"risks": [
+"用户定级 B 低优先；22 次推送 0 回复；现有贴牌来源稳定"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 30,
+"why": "OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12"
+},
+"email_hook": "A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?"
 }
 },
 {
@@ -49117,18 +49488,50 @@
 "grade": "B",
 "research": {
 "code": "SA-137",
-"name_official": "Avesta（英国）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "英国网络产品贸易商，展会现场详谈：只对非管理商用 PoE 有兴趣，计划 7 月来深圳参观，问 2 光 24 电特点（混速/全千兆、extend 250 m、可 OEM），承诺发需求（MOQ/规格），另问电力线产品；之后 17 次推送 0 回复。",
+"name_official": "Avesta (Manchester) Ltd（Co. 07964960；avestatek.co.uk，HiLook UK Authorised Distributor）",
+"website_status": "在线（网店）",
+"summary": "曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。",
 "type": "贸易商/分销",
 "size": "待补证",
-"brands_seen": [],
+"brands_seen": [
+"Hikvision",
+"HiLook",
+"HA（自有编码）"
+],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "只对非管理 PoE 商业有兴趣；计划来深圳；问 2 光 24 电；可 OEM；0 回复 / 17 次",
 "quote": "只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点…3，可以OEM，价格好 客户说会发需求以及想知道的信息（MOQ/规格等）（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "网店",
+"claim": "HiLook 授权分销与在售 PoE 交换机",
+"quote": "HiLook 8 Port Fast Ethernet Unmanaged POE Switch NS-0109P-60 … 8 x 100 Mbps PoE ports, 1 x 1000 Mbps RJ45 port, and 1 x 1000 Mbps SFP port … 60 W PoE power budget … HiLook UK Authorised Distributor | Avesta Manchester Ltd",
+"url": "https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/",
+"date": "2025-04-30"
+},
+{
+"kind": "网店",
+"claim": "自有编码白牌 PoE 交换机",
+"quote": "4 x 100 Mbps PoE ports and 2 x 10/100 Mbps UPLINK RJ45 … 60-Watts PoE Budget … SKU: HA-POES806 £19.00 £24.00 Exc. VAT",
+"url": "https://avestatek.co.uk/product-category/offers/",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "法人与业务",
+"quote": "Avesta (manchester) … 07964960 … Wholesale distributor of CCTV and security equipment, supplying Hikvision and HiLook cameras, DVR/NVR recorders, alarm systems, video doorbells, PoE switches, cables, brackets, and related surveillance accessories through an online store.",
+"url": "https://firmbase.co/resources/industry-lists/it-distribution-companies-in-the-uk-manchester",
+"date": "2026-05-28"
+},
+{
+"kind": "Facebook",
+"claim": "地址与联系方式",
+"quote": "Avesta (Manchester) LTD is a wholesale supplier of security equipment based in Manchester … 64 Waterloo Road, Manchester, United Kingdom +44 333 344 0789 +44 7413 040743 sales@avestatek.co.uk",
+"url": "https://www.facebook.com/AvestaManchesterLTD/",
 "date": "2026-10-21"
 }
 ],
@@ -49144,7 +49547,65 @@
 "grade_override": "B",
 "override_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
 "notes": "重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（网店目录核对）"
+},
+"company_facts": {
+"legal_name": "Avesta (Manchester) Ltd（Companies House 07964960）",
+"hq": "64 Waterloo Road, Manchester, UK（+44 333 344 0789 / +44 7413 040743；sales@avestatek.co.uk）",
+"size": "小型批发商（网店 + 门店）",
+"other": "HiLook UK Authorised Distributor；Facebook 7 评 66% 推荐"
+},
+"business_lines": [
+"Hikvision/HiLook CCTV 批发与网店",
+"PoE 交换机、线缆、支架等配件（含自有编码 HA- 白牌）"
+],
+"products_seen": [
+{
+"brand": "HiLook",
+"model": "NS-0109P-60",
+"spec": "8×FE PoE + 1 GE RJ45 + 1 SFP，60W，extend 250 m",
+"url": "https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/",
+"date": "2025-04-30",
+"saga": "STC-028GP（8 GE PoE 非管理，Saga 列表 $24.2）"
+},
+{
+"brand": "HiLook",
+"model": "4 Port FE Unmanaged PoE",
+"spec": "4×FE PoE + 1 上联，35W，£28 ex VAT",
+"url": "https://avestatek.co.uk/product/hilook-4-port-fast-ethernet-unmanaged-poe-switch/",
+"date": "2026-10-21",
+"saga": "STC-024GP（4 GE PoE + 2 上联，$18.7）"
+},
+{
+"brand": "HA（自有编码）",
+"model": "HA-POES806",
+"spec": "4×FE PoE + 2×FE 上联，60W，£19（原 £24）ex VAT",
+"url": "https://avestatek.co.uk/product-category/offers/",
+"date": "2026-10-21",
+"saga": "STC-024FP（$9.9）/ STC-024GP"
+}
+],
+"channels": {
+"网店": "https://avestatek.co.uk/",
+"电话": "+44 333 344 0789（公开）",
+"邮箱（公开）": "sales@avestatek.co.uk",
+"Facebook": "https://www.facebook.com/AvestaManchesterLTD/"
+},
+"signals": [
+"已在卖自有编码白牌 PoE（HA-POES806）→ 具备 OEM 采购习惯；明确问 2 光 24 电非管理 → Saga Realtek 线 STC-2024GP（2 SFP + 24 GE PoE 300W，列表 $93.5）正对"
+],
+"risks": [
+"价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供"
+],
+"saga_fit": {
+"p1": "STC-2024GP",
+"tier": 20,
+"why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈"
+},
+"email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?"
 }
 },
 {
@@ -52629,7 +53090,36 @@
 "grade_override": "B",
 "override_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
 "notes": "WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Bilge Güvenlik Sistemleri（Bilge Security Systems，bilgeguvenlik.com）",
+"hq": "土耳其",
+"size": "小型安防安装/经销",
+"other": "ISAF 2025 现场：不懂英文，取彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进"
+},
+"business_lines": [
+"安防系统安装与经销（土耳其）"
+],
+"channels": {
+"网站": "bilgeguvenlik.com",
+"WhatsApp": "已加"
+},
+"signals": [
+"现场明确要 PoE 交换机；语言障碍 → 用土耳其语短消息 + 图片报价"
+],
+"risks": [
+"不懂英文；规模小"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价"
+},
+"email_hook": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?"
 }
 },
 {
@@ -53831,7 +54321,65 @@
 "c_sub": "",
 "status": "已推送 17 次·未回复",
 "code": "SA-156",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SA-156",
+"name_official": "IST Surveillance Ltd（Co. 11228236，London N5；istsurveillance.co.uk）",
+"researched_at": "2026-10-21",
+"website_status": "未被索引（仅登记信息）",
+"summary": "伦敦 Highbury 的微型监控服务公司（2018-02-27 注册；SIC 82990 其他商业支持服务；注册地 Office 408, Screenworks, 22 Highbury Grove, London N5 2ER）；官网未被搜索引擎索引，规模与产品线不可核。用户表：17 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "法人登记",
+"quote": "IST SURVEILLANCE LTD Company number 11228236 Registered office address: Office 408, Screenworks 22 Highbury Grove, London, United Kingdom, N5 2ER … Incorporated on: 27 February 2018 … 82990 - Other business support service activities not elsewhere classified",
+"url": "https://find-and-update.company-information.service.gov.uk/company/11228236",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "17 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（Companies House 核对 · 官网不可见）"
+},
+"company_facts": {
+"legal_name": "IST Surveillance Ltd（Companies House 11228236，2018-02-27；SIC 82990）",
+"hq": "Office 408, Screenworks, 22 Highbury Grove, London N5 2ER, UK",
+"size": "微型（共享办公地址）",
+"other": "账目截至 2025-04-30 应于 2026-01-31 前提交"
+},
+"business_lines": [
+"监控/安防服务（细节不可核）"
+],
+"channels": {
+"登记": "https://find-and-update.company-information.service.gov.uk/company/11228236"
+},
+"signals": [
+"无公开业务信息；仅凭用户表邮箱可触达"
+],
+"risks": [
+"规模与业务不可核；17 次推送 0 回复 → 低优先"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定"
+},
+"email_hook": "If your monitoring installs still use 8-camera PoE cabinets, the gigabit 8-port PoE+ managed switch with 2 SFP is $84.1 EXW; which recorder brand do you pair it with?"
+}
 },
 {
 "name": "Liveye",
@@ -54071,18 +54619,55 @@
 "grade": "B",
 "research": {
 "code": "SA-157",
-"name_official": "Liveye（德国）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "德国安防产品公司（名片显示安防产品），展会交流中对工商业 PoE 交换机介绍仅附和、未表达具体需求；WA 已加，7 次跟进 0 回复。",
+"name_official": "LivEye GmbH（Föhren/Trier, Rheinland-Pfalz, DE；liveye.com；移动视频监控塔制造与服务商）",
+"website_status": "在线",
+"summary": "德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；WhatsApp 已加，7 次跟进 0 回复。",
 "type": "安防产品商",
 "size": "待补证",
-"brands_seen": [],
+"brands_seen": [
+"LivEye（自有品牌）"
+],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "介绍工商 PoE 交换机，对方附和无具体需求；WA 已加；0 回复 / 7 次",
 "quote": "给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品；49 173 51 67073 已加（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位与规模",
+"quote": "LivEye GmbH is a renowned security firm specialising in the protection of temporary high-risk areas. Under the LivEye brand, we develop and manufacture state-of-the-art video surveillance systems. With more than 2,500 security systems and a state-of-the-art control centre … Europa Allee 56b, 54343 Föhren … info@liveye.com",
+"url": "https://www.liveye.uk/company-liveye-technological-market-leader/",
+"date": "2026-09-08"
+},
+{
+"kind": "行业媒体",
+"claim": "规模、生产基地、总经理",
+"quote": "Mit über 1.500 modernen Videotürmen, einer hausinternen Leitstelle … Der in 2024 eröffnete Produktionsstandort in Badem … Als Geschäftsführer leitet Carsten Simons das Unternehmen mit rund 95 Mitarbeitern an fünf Standorten in der D-A-CH-Region sowie in Polen.",
+"url": "https://git-sicherheit.de/de/business-partner/liveye-gmbh/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网 PDF",
+"claim": "里程碑与股权",
+"quote": "2019 Gründung der LivEye GmbH > 35 Mitarbeiter 2022 > 50 Mitarbeiter > 1.000 Videosicherheitssysteme im Markt NORD HOLDING erwirbt 70% 2025 > 130 Mitarbeiter > 2.000 Videosicherheitssysteme im Markt",
+"url": "https://www.liveye.com/wp-content/uploads/2023/09/LivEye_Broschuere_08-2022-deutsch.pdf",
+"date": "2026-10-21"
+},
+{
+"kind": "行业媒体",
+"claim": "新任总经理",
+"quote": "LivEye beruft Markus Diederichs in die Geschäftsführung … Mit der Erweiterung verstärkt das Sicherheitsunternehmen den Kurs auf Souveränität „made in Germany\"",
+"url": "https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung",
+"date": "2025-10-08"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模",
+"quote": "LivEye … Größe: 51–200 Beschäftigte Hauptsitz: Föhren, Rheinland-Pfalz … Gegründet: 2018",
+"url": "https://de.linkedin.com/company/liveye-gmbh",
 "date": "2026-10-21"
 }
 ],
@@ -54093,12 +54678,70 @@
 "email": "",
 "phone": "+49 173 516 7073（WA）/ +49 6502 403 4722",
 "source": "用户 Clients 表"
+},
+{
+"name": "Carsten Simons",
+"role": "Geschäftsführer（行业媒体公开）",
+"email": "info@liveye.com（公司公开）",
+"phone": "—",
+"source": "https://git-sicherheit.de/de/business-partner/liveye-gmbh/"
+},
+{
+"name": "Markus Diederichs",
+"role": "Geschäftsführer（2025-10 起；行业媒体公开）",
+"email": "—（未公开）",
+"phone": "—",
+"source": "https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung"
 }
 ],
 "grade_override": "B",
 "override_reason": "无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。",
 "notes": "WA 季度触达。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 行业媒体核对）"
+},
+"company_facts": {
+"legal_name": "LivEye GmbH",
+"founded": "2018（品牌）/ 2019（GmbH）",
+"hq": "Europa-Allee 56b（另见 27），54343 Föhren, Germany（info@liveye.com）；生产基地 Badem（2024）",
+"size": "约 95 人（GIT）～130+（自述 2025）；51–200（LinkedIn）；营收估 €3.5M（旧口径）",
+"other": "Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装"
+},
+"business_lines": [
+"移动视频监控塔研发制造（PRO 2.0、PRO SOLAR、ONE+、LIGHT+、FALCON、DOCU）",
+"24/7 自营监控中心与全服务（规划、技术、服务、监控）",
+"长期固定安装订阅（NSTR）"
+],
+"products_seen": [
+{
+"brand": "LivEye",
+"model": "PRO 2.0 / PRO SOLAR",
+"spec": "太阳能/市电移动视频塔，AI 异常检测，4G/5G 回传",
+"url": "https://www.marktplatz-mittelstand.de/foehren/liveye-gmbh-mobile-videoueberwachung-baustellenschutz-aX3PKE.html",
+"date": "2026-10-21",
+"saga": "塔内 STI-144GP（4 PoE + 1 SFP，DC 44–57 V）/ STI-288DGGPM"
+}
+],
+"channels": {
+"网站": "https://www.liveye.com/",
+"邮箱（公开）": "info@liveye.com",
+"LinkedIn": "https://de.linkedin.com/company/liveye-gmbh"
+},
+"signals": [
+"自产 2,000+ 视频塔、年产数百台 → 塔内 PoE 交换机为批量 BOM 件；太阳能塔需低功耗宽温 DC 输入机（STI 12–58 V DC）",
+"『Souveränität made in Germany』路线：对供应链来源敏感 → 以中性包装 + 元器件声明应对"
+],
+"risks": [
+"已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）"
+],
+"saga_fit": {
+"p1": "STI-144GP",
+"tier": 30,
+"why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM"
+},
+"email_hook": "For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?"
 }
 },
 {
@@ -55190,12 +55833,50 @@
 "email": "acan@cansisteknoloji.com",
 "phone": "+90 541 541 0010（WA）/ +90 332 447 4226",
 "source": "官网 + 行业目录 + 用户 Clients 表"
+},
+{
+"name": "Ahmet Can",
+"role": "店主（行业目录公开）",
+"email": "—（见官网）",
+"phone": "0541 541 0010",
+"source": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi"
 }
 ],
 "grade_override": "B",
 "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
 "notes": "WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji）",
+"hq": "Çumra / Konya, Türkiye",
+"size": "微型（店主 Ahmet Can）",
+"other": "安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加"
+},
+"business_lines": [
+"安防摄像与报警安装（科尼亚）",
+"电脑维修与销售"
+],
+"channels": {
+"网站": "http://www.cansisteknoloji.com",
+"Facebook": "https://www.facebook.com/cansisteknoloji/",
+"WhatsApp": "已加"
+},
+"signals": [
+"已报价 $150（12 光 12 电 PoE 网管）→ 等待回音；可用 STC-4168XGGCM 或 Realtek 线对位"
+],
+"risks": [
+"微型店；询价可能是一次性项目"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）"
+},
+"email_hook": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?"
 }
 },
 {
@@ -56362,7 +57043,36 @@
 "grade_override": "B",
 "override_reason": "微型安装商、需求仅'找工业 PoE 网管'且无后续互动；土耳其主攻区故保留 B。",
 "notes": "WA 一次：STI-288DGGPM 图片+价格（项目 25%）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Voltech Elektronik",
+"hq": "Silivri / İstanbul, Türkiye",
+"size": "微型（官网建设中）",
+"other": "摄像系统、报警、电脑、电话交换机、电气电子服务；ISAF 2025 取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25）"
+},
+"business_lines": [
+"安防/电气电子服务（Silivri）"
+],
+"channels": {
+"网站": "http://www.voltechelektronik.com/（建设中）",
+"WhatsApp": "已加"
+},
+"signals": [
+"明确找工业级 PoE 网管 → STI-288DGGPM 直接对位"
+],
+"risks": [
+"微型；官网未建成"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$145.7）；预算型 STI-288GP 非管理（$59.8）"
+},
+"email_hook": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?"
 }
 },
 {
@@ -62221,7 +62931,134 @@
 "c_sub": "",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-023",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-023",
+"name_official": "Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"GRUNDIG Security（许可品牌）"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "品牌许可与定位",
+"quote": "As a licensee of the well-known GRUNDIG Security brand, Abetechs GmbH distributes state-of-the-art products and solutions for professional video security worldwide.",
+"url": "https://grundig-security.com/company/career/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "Imprint：法人、总经理、登记",
+"quote": "Abetechs GmbH (Grundig Security) Steinhof 39 40699 Erkrath Germany Managing Director: Ludwig Bergschneider Entry in the trade register of Wuppertal HRB 35197 VAT No.: DE 315 133 441 Phone: +49 211 5380 680",
+"url": "https://grundig-security.com/contacts/imprint/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网新闻",
+"claim": "已有 OEM PoE 交换机线",
+"quote": "NDAA compliant switches from Grundig Security! … we have added have expanded our SMART product line with three NDAA-compliant PoE switches (4-, 8- and 16-port models). The smart managed switches … enable PoE transmission up to 250 metres, and offer 4 KV surge protection.",
+"url": "https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/",
+"date": "2026-10-21"
+},
+{
+"kind": "登记名录",
+"claim": "登记与管理层、资本",
+"quote": "Abetechs GmbH (Grundig Security) wird im Handelsregister beim Amtsgericht Düsseldorf unter der Nummer HRB 82264 geführt … 40699 ERKRATH, Steinhof 39 … Bergschneider Ludwig und Demirak Yalcin … Kapital … 800.000 EUR",
+"url": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模",
+"quote": "Grundig Security … Größe: 11–50 Beschäftigte Hauptsitz: Erkrath, Nordrhein-Westfalen … Gegründet: 2010",
+"url": "https://de.linkedin.com/company/grundig-security",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "WhatsApp 已加；7 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ludwig Bergschneider",
+"role": "Managing Director（Imprint 公开）",
+"email": "—（未公开）",
+"phone": "+49 211 5380 680",
+"source": "https://grundig-security.com/contacts/imprint/"
+},
+{
+"name": "Yalcin Demirak",
+"role": "Geschäftsführer（登记名录公开）",
+"email": "—（未公开）",
+"phone": "+49 211 5380 680",
+"source": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 登记核对）"
+},
+"company_facts": {
+"legal_name": "Abetechs GmbH（GRUNDIG Security）",
+"registry": "HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000",
+"hq": "Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680）",
+"size": "11–50（LinkedIn）",
+"other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销"
+},
+"business_lines": [
+"GRUNDIG 品牌 IP 视频安防（摄像机、热成像、NVR、监视器）全球分销",
+"C-WERK VMS 与项目设计支持",
+"SMART 线 PoE 交换机（4/8/16 口，NDAA 合规，OEM 采购）"
+],
+"products_seen": [
+{
+"brand": "GRUNDIG Security",
+"model": "SMART PoE Switch 4/8/16 口（如 VGR-GU-HW-ACSW08D：9 口，8 PoE，250 m，NDAA）",
+"spec": "智能管理、PoE 250 m、4 kV 浪涌",
+"url": "https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/",
+"date": "2026-10-21",
+"saga": "STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4 @30）/ STI-21616GP（16 口）"
+},
+{
+"brand": "GRUNDIG Security",
+"model": "SMART NVR（内置 4/8/16 口 PoE）",
+"spec": "NDAA 合规 NVR",
+"url": "https://download.grundig-security.com/gr%20brochure%20smart%20EN_v3_web.pdf",
+"date": "2022",
+"saga": "—"
+}
+],
+"channels": {
+"网站": "https://grundig-security.com/",
+"电话": "+49 211 5380 680（Imprint 公开）",
+"LinkedIn": "https://de.linkedin.com/company/grundig-security"
+},
+"signals": [
+"已有 OEM PoE 交换机线（4/8/16 口 NDAA）→ 缺 24/48 口与 10G 上联管理机、工业 DIN 系列：Saga 可补 STC-424DGGPM-280W / STC-424XGGPM-280W / STI-288DGGPM 并贴 GRUNDIG 标",
+"NDAA 口径：Saga 整机/芯片不属 889 条所列厂商，可出具 NDAA 合规声明（需 SmartByte 确认元器件清单）"
+],
+"risks": [
+"品牌方对 OEM 质量/固件定制（Web UI 品牌化、NDAA 声明、EN 55032）要求高；7 次跟进 0 回复"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 30,
+"why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源"
+},
+"email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?"
+}
 },
 {
 "name": "STS Italia S.r.l.",
@@ -69103,7 +69940,90 @@
 "c_sub": "",
 "status": "已推送 17 次·未回复",
 "code": "SB-052",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-052",
+"name_official": "Addon Technology Ltd（Co. 04256748，London N11；addon-tech.com；自有品牌 ADDON）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"ADDON（自有品牌）"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "品牌与产品线",
+"quote": "Since 2001 ADDON has been providing our loyal customers a personal service with quality products at market-leading prices … UK Manufacturer of Networking and Accessories. - Networking - ADSL & Routers - Wifi Range Extenders - Wired Networking - Wireless Adapters",
+"url": "https://www.addon-tech.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "渠道",
+"quote": "Addon Technology Ltd., founded in the year 2001, has been providing high quality networking products to customers across Europe through distributors, system builders, VARS and e-traders.",
+"url": "https://addon-tech.com/browse/information/about-us/",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人登记",
+"quote": "ADDON TECHNOLOGY LTD … Ground Floor Building 3 Oakleigh Road South, North London Business Centre, London, England, N11 1GN … Incorporated on: 23 July 2001",
+"url": "https://find-and-update.company-information.service.gov.uk/company/04256748",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "营收规模",
+"quote": "Addon Technology … Revenue <$5 Million … Industry Manufacturing, Telecommunication Equipment",
+"url": "https://www.zoominfo.com/c/addon-technology-ltd/354088490",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "17 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + Companies House 核对）"
+},
+"company_facts": {
+"legal_name": "Addon Technology Ltd（Companies House 04256748，2001-07-23；SIC 62090）",
+"hq": "Ground Floor, Building 3, North London Business Park, Oakleigh Road South, London N11 1GN（+44 844 801 1286）",
+"size": "<$5M（ZoomInfo）；小型",
+"other": "渠道：distributors / system builders / VARs / e-traders across Europe"
+},
+"business_lines": [
+"ADDON 品牌 SOHO 网络产品（路由器、WiFi 扩展器、网卡、有线网络）",
+"电脑配件与 Travelmate 移动配件"
+],
+"channels": {
+"网站": "https://www.addon-tech.com/",
+"电话": "+44 844 801 1286（官网公开）"
+},
+"signals": [
+"自有品牌 + 欧洲分销网络 → 贴 ADDON 标的 5/8 口千兆与 PoE 桌面交换机可直接进其目录"
+],
+"risks": [
+"SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复"
+],
+"saga_fit": {
+"p1": "STC-028GP",
+"tier": 30,
+"why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
+},
+"email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
+}
 },
 {
 "name": "Bonmag International",
@@ -74758,7 +75678,99 @@
 "c_sub": "",
 "status": "已推送 17 次·未回复",
 "code": "SB-074",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-074",
+"name_official": "Optiwatch Ltd（Co. 09595034，Enfield, London；optiwatchgroup.com；Optimum Group 成员）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "业务与地址",
+"quote": "Remotely monitored video surveillance or CCTV services that use intelligent alarm enabled video recording systems … Unit 5 Industrial Trading Estate 240-242 Lincoln Road, London, EN1 1SP, United Kingdom. +44 (0) 208 443 0077 marketing@optiwatchgroup.com",
+"url": "https://www.optiwatchgroup.com/videosurveillance/videosurveillance.html",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "定位与规模",
+"quote": "Optiwatch Limited was established in 2015 to provide remotely monitored Video Surveillance solutions primarily for the construction industry … Company size: 11-50 employees Headquarters: Enfield, Greater London … Founded: 2015",
+"url": "https://www.linkedin.com/company/optiwatchlimited",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人登记",
+"quote": "OPTIWATCH LTD … Registered office address: Optiwatch Ltd, Unit 5, Martinbridge Trading Estate, Lincoln Road, Enfield, Middlesex, England, EN1 1SP … Incorporated on: 18 May 2015",
+"url": "https://find-and-update.company-information.service.gov.uk/company/09595034",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "创办人与联系邮箱",
+"quote": "Optiwatch provide remotely monitored Video Surveillance solutions primarily for the construction industry … Founders Tim Chege … Contact Email marketing@optiwatchgroup.com Phone Number 44 (0) 208 443 0077",
+"url": "https://www.crunchbase.com/organization/optiwatch",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "17 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Tim Chege",
+"role": "Founder（Crunchbase 公开）",
+"email": "marketing@optiwatchgroup.com（公司公开）",
+"phone": "+44 20 8443 0077",
+"source": "https://www.crunchbase.com/organization/optiwatch"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + Companies House 核对）"
+},
+"company_facts": {
+"legal_name": "Optiwatch Ltd（Companies House 09595034，2015-05-18）",
+"hq": "Unit 5, Martinbridge Trading Estate, 240-242 Lincoln Road, Enfield EN1 1SP, UK（+44 20 8443 0077；marketing@optiwatchgroup.com）",
+"size": "11–50（LinkedIn）/ 15（RocketReach）；营业额 <£1M（Endole）",
+"other": "创办人 Tim Chege；Optimum Group 成员；24/7 自营监控中心；主攻建筑工地"
+},
+"business_lines": [
+"建筑工地远程视频监控（AI 检测 + 喊话 + 虚拟巡更）",
+"远程门禁 / 入侵检测 / 火灾预防监控（守界：火灾主系统不供）",
+"钥匙托管、报警响应、巡逻与驻守"
+],
+"channels": {
+"网站": "https://optiwatchgroup.com/",
+"电话": "+44 20 8443 0077（官网公开）",
+"邮箱（公开）": "marketing@optiwatchgroup.com",
+"LinkedIn": "https://www.linkedin.com/company/optiwatchlimited"
+},
+"signals": [
+"工地监控塔/柜户外部署、4G 回传 → 每套 1 台宽温 DIN PoE 交换机（4–8 口）；自营服务商，设备自购自用、重复采购"
+],
+"risks": [
+"多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W"
+},
+"email_hook": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?"
+}
 },
 {
 "name": "pulsar.pl",
@@ -75096,7 +76108,118 @@
 "c_sub": "",
 "status": "已推送 16 次·未回复",
 "code": "SB-075",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-075",
+"name_official": "Pulsar（pulsar.pl，Siechnice/Wrocław 一带，PL；自有品牌电源与 PoE 交换机制造商）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "波兰电源/缓冲电源制造商 Pulsar，自有品牌 PoE 交换机产品线（S108/S108-90W/S108WP 8 口、S116/S116WP/USF1816P/SF116 16 口、SFG120-BT 16 GE + 4 GE + 4 SFP 802.3bt，工业 DIN PoE 交换机）；零售净价 8 口 325–434 zł、16 口 542–999 zł、SFG120-BT 1,187 zł；特色是 48–54 V DC 输入「WP（无电源）」版本配合自家缓冲电源（SWB-120 52 VDC/2×17Ah）。典型 OEM 买家（整机外采贴牌）。用户表：16 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Pulsar（自有品牌）",
+"MEAN WELL（电源代理）"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "自有品牌 PoE 交换机线",
+"quote": "Switche PoE firmy Pulsar oferują wiele korzyści … Zgodne ze standardami IEEE 802.3af/at/bt, urządzenia te zapewniają moc wyjściową od 15,4 W do 60 W",
+"url": "https://www.pulsar.pl/PL_117_switche-poe",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "16 口系列价格与规格",
+"quote": "S116 | 16 - 10/100 Mb/s | 30W | 2 - 1 Gb/s | … 740.00 | S116WP … 48 - 54 V DC … 570.00 | … SF116 … 2 - 1 Gb/s SFP … 999.00 | SFG120-BT | 16 - 1 Gb/s | 30W 60W | 4 - 1 Gb/s | 4 - 1 Gb/s | … 1 187.00",
+"url": "https://www.pulsar.pl/PL_121_seria-sf",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "8 口系列价格",
+"quote": "S108 | 8 - 10/100 Mb/s | 30W | 2 - 10/100 Mb/s | … 52 V DC … 434.00 | S108-90W … 325.00 | S108WP …",
+"url": "https://www.pulsar.pl/PL_120_8-portowe",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "工业 DIN PoE 交换机与缓冲电源",
+"quote": "Standard DIN - Switche PoE przemysłowe - Transformatory … Zasilacze - Buforowe - Seria DING2 … Seria DRC ( MEAN WELL )",
+"url": "https://www.pulsar.pl/PL_182_switche-poe-przemyslowe",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "16 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网目录核对）"
+},
+"company_facts": {
+"legal_name": "Pulsar（pulsar.pl；法人全称待核）",
+"hq": "波兰（Siechnice/Wrocław 区域，待核）",
+"size": "制造商（规模待核）",
+"other": "产品：缓冲电源（DING2/DRC/DRS/PSB）、变压器、PoE 交换机（商用+工业 DIN）；按 IEEE 802.3af/at/bt"
+},
+"business_lines": [
+"缓冲/开关电源与变压器制造（自有品牌）",
+"PoE 交换机（商用 8/16 口；工业 DIN；bt 60W）",
+"PoE 缓冲供电系统（SWB-120）"
+],
+"products_seen": [
+{
+"brand": "Pulsar",
+"model": "S108-90W",
+"spec": "8×FE PoE + 2×FE 上联，90W，桌面，325 zł 净",
+"url": "https://www.pulsar.pl/PL_9999_S108-90W_",
+"date": "2026-10-21",
+"saga": "STC-028GP（8 GE PoE，$24.2）/ STC-28DGGPM（管理）"
+},
+{
+"brand": "Pulsar",
+"model": "S108WP",
+"spec": "8×FE PoE，48–57 V DC 输入（无电源版）",
+"url": "https://www.pulsar.pl/PL_120_S108WP_switch-poe-10-portowy-s108wp-bez-zasilacza-do-8-kamer-ip",
+"date": "2026-10-21",
+"saga": "STI-088GP（8 GE PoE，DC 44–57 V，$45.7 @30）"
+},
+{
+"brand": "Pulsar",
+"model": "SF116 / SFG120-BT",
+"spec": "16 PoE + 2 GE + 2 SFP（999 zł）/ 16 GE PoE bt 60W + 4 GE + 4 SFP（1,187 zł）",
+"url": "https://www.pulsar.pl/PL_121_seria-sf",
+"date": "2026-10-21",
+"saga": "STI-21616GP（16 GE PoE + 2 SFP，$184.6 @30）"
+}
+],
+"channels": {
+"网站": "https://www.pulsar.pl/",
+"目录": "https://www.pulsar.pl/PL_117_switche-poe"
+},
+"signals": [
+"整机外采贴牌型制造商；其 WP（48–54 V DC 无电源）版本与 Saga STI DC 输入系列天然匹配；缺千兆 8 口管理与 2.5G 型号 → 可补线"
+],
+"risks": [
+"已有稳定 OEM 来源（多为深圳厂）；对价格极敏感；16 次跟进 0 回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "OEM 30% 档：STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4）补其千兆管理空档；DC 输入版用 STI-088GP/STI-288GP；16 口 STI-21616GP；2.5G STC-424XGGPM-280W"
+},
+"email_hook": "Your WP switches run from 48–54 V DC buffered supplies; our DIN 8-port gigabit PoE units take 44–57 V DC natively and can carry the Pulsar label — would a gigabit S108WP-class model fill the gap in your series?"
+}
 },
 {
 "name": "sinerjik",
@@ -76026,7 +77149,57 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-080",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-080",
+"name_official": "JguyTech（法国；联系人 J.-Y. Guibreteau，Gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "OM4301 网络延长器 1 对成样品单（成交）",
+"quote": "OM4301网络延长器 1对 成样品单",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（已成交）"
+},
+"company_facts": {
+"legal_name": "JguyTech（表内；未能核实）",
+"hq": "法国",
+"size": "微型/个体"
+},
+"business_lines": [
+"弱电/网络延长安装（推断）"
+],
+"channels": {
+"邮箱": "（表内 Gmail）"
+},
+"signals": [
+"已成交（样品单）→ 直接复购邀约"
+],
+"risks": [
+"个体、单量小；0 次跟进记录（需补跟进）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件"
+},
+"email_hook": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
+}
 },
 {
 "name": "Schnetzler",
@@ -83704,7 +84877,59 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1015",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1015",
+"name_official": "Hersnet Ltd（匈牙利；联系邮箱 antennatechnika@gmail.com）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（网络无足迹）",
+"summary": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "需求 HDMI KVM 延长器；WhatsApp 已加；1 次回复、20 次跟进",
+"quote": "HDMI KVM 延长器 … 36-20-94 66366 已加",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（检索无果）"
+},
+"company_facts": {
+"legal_name": "Hersnet Ltd（表内；未能核实）",
+"hq": "匈牙利（+36 20 移动号）",
+"size": "微型/个体"
+},
+"business_lines": [
+"天线/弱电安装（据邮箱推断）",
+"HDMI KVM 延长需求"
+],
+"channels": {
+"邮箱": "（表内 Gmail）",
+"WhatsApp": "已加"
+},
+"signals": [
+"需求为 AV 延长器而非交换机；可顺带报 STI-110GE 光电转换与 HDMI 光端机"
+],
+"risks": [
+"无法核实身份；20 次跟进无果 → 低优先"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 25,
+"why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出"
+},
+"email_hook": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
+}
 },
 {
 "name": "Magnus Infotech Dubai",
@@ -115469,7 +116694,58 @@
 "c_sub": "",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-1135",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1135",
+"name_official": "Julien Desbrosses（法国；自建站询盘）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "法国个人 Julien Desbrosses，通过 Saga 自建站询盘「5 电口」交换机；WhatsApp 已加；无跟进记录。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "自建站询盘 5 电口；WhatsApp 已加",
+"quote": "5电口 / from: 自建站",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（需求已映射）"
+},
+"company_facts": {
+"legal_name": "个人（Julien Desbrosses）",
+"hq": "法国",
+"size": "个人"
+},
+"business_lines": [
+"未知（5 电口需求）"
+],
+"channels": {
+"WhatsApp": "已加",
+"来源": "自建站询盘"
+},
+"signals": [
+"自建站主动询盘 → 真实需求；5 电口 → STI-050GE / STC-05GE"
+],
+"risks": [
+"个人、单台"
+],
+"saga_fit": {
+"p1": "STI-050GE",
+"tier": 25,
+"why": "终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景"
+},
+"email_hook": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?"
+}
 },
 {
 "name": "KariTeo Enterprises",
@@ -138129,7 +139405,7 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
-"code": "SB-1326",
+"code": "SB-1328",
 "grade": "B"
 },
 {
@@ -138263,7 +139539,7 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
-"code": "SB-1327",
+"code": "SB-1329",
 "grade": "B"
 },
 {
@@ -146039,7 +147315,58 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-159",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-159",
+"name_official": "Arsenal TV（罗马尼亚；联系人 Moise Nicolae，Gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "WhatsApp 已加；2 次实质回复、14 次跟进",
+"quote": "40 7664 78524 已加",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "Arsenal TV（表内；未能核实）",
+"hq": "罗马尼亚",
+"size": "微型"
+},
+"business_lines": [
+"电视/视频（据名称推断）"
+],
+"channels": {
+"邮箱": "（表内 Gmail）",
+"WhatsApp": "已加"
+},
+"signals": [
+"2 次实质回复 → 曾有真实兴趣；适合 AV 传输 + 小交换机"
+],
+"risks": [
+"身份不可核；罗马尼亚非主动开拓市场"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机"
+},
+"email_hook": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+}
 },
 {
 "name": "CESS Govalik",
@@ -150094,7 +151421,58 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-176",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-176",
+"name_official": "（未具名）爱尔兰 · gluszek.tomasz@gmail.com（Tomasz Głuszek，+353 83）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "2 个工业 90W PoE 注入器样品成单；2010 年起用国际站；WhatsApp 已加；3 次回复",
+"quote": "2个工业90W PoE injector样品 2010年使用国际站",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（已成交）"
+},
+"company_facts": {
+"legal_name": "未具名（个人邮箱）",
+"hq": "爱尔兰（+353 83）",
+"size": "个人/微型"
+},
+"business_lines": [
+"弱电/安防安装（推断）"
+],
+"channels": {
+"邮箱": "（表内 Gmail）",
+"WhatsApp": "已加"
+},
+"signals": [
+"已成样品单（90W 注入器 ×2）+ 3 次回复 → 活跃小客户；复购路径 bt 90W PoE 交换机"
+],
+"risks": [
+"个体、单量小"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）"
+},
+"email_hook": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?"
+}
 },
 {
 "name": "grothe.de",
@@ -154120,7 +155498,136 @@
 "c_sub": "",
 "status": "已推送 17 次·未回复",
 "code": "SB-191",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-191",
+"name_official": "Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Kyland",
+"MEAN WELL",
+"SCL"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位与规模",
+"quote": "Switchtec Ltd operates as a UK franchisee for world-wide manufacturers of quality components … For more 40 years … carries over seven thousand product lines ex-stock",
+"url": "https://www.switchtec.com/About_Us",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "Kyland 工业交换机品类",
+"quote": "Unmanaged Ethernet Switches … EN50155 Ethernet Switches … Managed Ethernet Switches … Kyland Industrial Ethernet Switches",
+"url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "地址、电话、邮箱",
+"quote": "Switchtec Ltd, Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH Telephone: 01785 818600 … Email: sales@switchtec.com … No minimum order quantity",
+"url": "https://www.switchtec.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "行业媒体",
+"claim": "CEO 与 Kyland 引入",
+"quote": "Says CEO Jeremy Lester, \"… we have many new products coming through including solutions from leading global innovator in industrial internet technology Kyland.\"",
+"url": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人登记",
+"quote": "SWITCHTEC LIMITED … Brooms Road, Stone Business Park, Stone, Staffordshire, ST15 0SH … Incorporated on: 12 February 1982",
+"url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "17 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Jeremy Lester",
+"role": "CEO（行业媒体公开）",
+"email": "sales@switchtec.com（公司公开）",
+"phone": "+44 1785 818600",
+"source": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years"
+},
+{
+"name": "Mark Stevens",
+"role": "Southern Area Sales Manager（官网新闻公开）",
+"email": "—（未公开）",
+"phone": "+44 1785 818600",
+"source": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + Companies House 核对）"
+},
+"company_facts": {
+"legal_name": "Switchtec Limited（Companies House 01613368，1982-02-12）",
+"founded": "1982",
+"hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com）",
+"size": "11–50（LinkedIn）；7,000+ 现货品类",
+"other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道"
+},
+"business_lines": [
+"工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）",
+"工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）",
+"现场技术选型支持（销售工程师）"
+],
+"products_seen": [
+{
+"brand": "Kyland",
+"model": "Opal 系列（非管理）",
+"spec": "4×10/100 RJ45 + 1 光/电口，冗余电源，IP30 金属壳，SC/ST/SFP 可选",
+"url": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches",
+"date": "2026-10-21",
+"saga": "STI-140FE（4 FE + 1 SFP，$24.3）/ STI-140GE（$28.0）"
+},
+{
+"brand": "Kyland",
+"model": "EN50155 / 管理型系列",
+"spec": "铁路与管理型工业交换机",
+"url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
+"date": "2026-10-21",
+"saga": "STI-280DGGM（管理 8 GE + 2 SFP）；EN50155 守界不供"
+}
+],
+"channels": {
+"网站": "https://www.switchtec.com/",
+"电话": "+44 1785 818600（官网公开）",
+"邮箱（公开）": "sales@switchtec.com",
+"LinkedIn": "https://www.linkedin.com/company/switchtec-ltd"
+},
+"signals": [
+"已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI"
+],
+"risks": [
+"与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复"
+],
+"saga_fit": {
+"p1": "STI-280DGGM",
+"tier": 20,
+"why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
+},
+"email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?"
+}
 },
 {
 "name": "tvprzemyslowa.pl",
@@ -182867,7 +184374,90 @@
 "c_sub": "",
 "status": "已推送 17 次·未回复",
 "code": "SB-319",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-319",
+"name_official": "Longtek Electronics (Europe) Ltd（Co. 05227994，Enfield, London；longtek.co.uk）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "业务与联系方式",
+"quote": "At Longtek Electronics (Europe) Ltd, we have been at the forefront of security technology since 2004, serving Enfield Town … installation, maintenance, and repair of state-of-the-art CCTV systems, alarm systems (including intruder alarms and fire alarms) and access control systems … admin@longtek.co.uk … +44 20 8805 0002 … 12 Bishops Close, Enfield EN1 3QJ",
+"url": "https://longtek.co.uk/aboutUs",
+"date": "2026-10-21"
+},
+{
+"kind": "登记",
+"claim": "法人登记",
+"quote": "LONGTEK ELECTRONICS EUROPE LTD Company number 05227994 … 12 Bishops Close, Enfield, Mddx, EN1 3QJ … Incorporated on: 10 September 2004",
+"url": "https://find-and-update.company-information.service.gov.uk/company/05227994",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "规模与创办人",
+"quote": "Micro Turnover is under £1M … Under 10 employees … Security systems service activities (80200) … Thevarajah Thevalojan Founder Appointed in Sep 2004",
+"url": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "17 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Thevarajah Thevalojan",
+"role": "Founder / Director（Companies House 公开）",
+"email": "admin@longtek.co.uk（公司公开）",
+"phone": "+44 20 8805 0002",
+"source": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + Companies House 核对）"
+},
+"company_facts": {
+"legal_name": "Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200）",
+"hq": "12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611）",
+"size": "<10 人；营业额 <£1M（Endole）；3 人（GlobalDatabase）",
+"other": "SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022）"
+},
+"business_lines": [
+"CCTV / 入侵报警 / 门禁安装与维护",
+"火灾报警安装（守界：火灾主系统不供）"
+],
+"channels": {
+"网站": "https://longtek.co.uk/",
+"电话": "+44 20 8805 0002（官网公开）",
+"邮箱（公开）": "admin@longtek.co.uk"
+},
+"signals": [
+"小型安装商，每项目 1 台 4/8 口 PoE；可作样品级试单"
+],
+"risks": [
+"微型、采购量小；17 次推送 0 回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）"
+},
+"email_hook": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?"
+}
 },
 {
 "name": "luckyjoint.com.sg",
@@ -205406,7 +206996,58 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-421",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-421",
+"name_official": "Metal Union（波兰；邮箱 pro.onet.pl；电话 +48 34 Częstochowa 区号）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "购买 2 个模块 + 1 个 MC，€50（成交）；WhatsApp 加不上",
+"quote": "买了2个模块+1个MC 50Euros … 4834/3661300 加不上",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（已成交）"
+},
+"company_facts": {
+"legal_name": "Metal Union（表内；未能核实法人）",
+"hq": "波兰（+48 34 区号）",
+"size": "微型/小型"
+},
+"business_lines": [
+"金属加工（据名称推断）",
+"车间网络自建"
+],
+"channels": {
+"邮箱": "（表内 onet.pl）"
+},
+"signals": [
+"已成交 €50（模块 + MC）→ 车间扩展时需要 DIN 工业交换机"
+],
+"risks": [
+"单量小；WhatsApp 加不上；0 次跟进记录"
+],
+"saga_fit": {
+"p1": "STI-280DGGM",
+"tier": 25,
+"why": "工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）"
+},
+"email_hook": "Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?"
+}
 },
 {
 "name": "Optima Soft",
@@ -214202,7 +215843,58 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-461",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-461",
+"name_official": "（未具名）美国 · computerwayne@gmail.com（电话 +1 318 路易斯安那）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "美国路易斯安那（+1 318）个人/小型 IT 服务商 Wayne（Gmail）：需求工业 PoE 注入器（引用 Red Lion 100-PoE 产品页作参照）；WhatsApp 已加（两次）、邮件跟进，1 次回复后 20 次跟进无果。Saga 价目无独立 PoE 注入器——以工业 PoE 交换机替代。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "需求工业 PoE injector（Red Lion 参照）；WhatsApp 已加；1 次回复、20 次跟进",
+"quote": "工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po…",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（需求已映射）"
+},
+"company_facts": {
+"legal_name": "未具名（个人邮箱）",
+"hq": "美国（+1 318）",
+"size": "个人/微型"
+},
+"business_lines": [
+"IT/工业现场服务（推断）"
+],
+"channels": {
+"邮箱": "（表内 Gmail）",
+"WhatsApp": "已加"
+},
+"signals": [
+"参照 Red Lion 工业 PoE 注入器 → 工业场景；可用 STI-144GP/STI-054GP 单口替代"
+],
+"risks": [
+"Saga 无独立注入器 SKU；20 次跟进无果"
+],
+"saga_fit": {
+"p1": "STI-054GP",
+"tier": 25,
+"why": "工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）"
+},
+"email_hook": "Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?"
+}
 },
 {
 "name": "eminnovate.com",
@@ -272840,7 +274532,58 @@
 "c_sub": "",
 "status": "回复暂无需求",
 "code": "SB-750",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-750",
+"name_official": "Le Reveil（加拿大渥太华区号 613；联系人 François Burton，Gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "加拿大（电话 +1 613，渥太华地区）个人/小型需求方 François Burton（Gmail）：明确需求「8/12 个 SFP+ 甚至更高规格光口、不要网管(或不要电口)、工业级温度」；WhatsApp 已加、以邮件跟进为主，15 次跟进 0 回复。Saga 工业线最多 4×10G SFP+（STI-488DGGGM：8×1G SFP + 4×10G SFP+ + 8 GE），无 8/12 口 SFP+ 工业机型——待核型。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "需求：8/12×SFP+ 以上光口、工业级温度；WhatsApp 已加、邮件跟进为主；15 次跟进 0 回复",
+"quote": "8/12个SFP+甚至更高规格的光 不要网 工业级温度!!",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（需求已映射）"
+},
+"company_facts": {
+"legal_name": "Le Reveil（表内名称；未能核实法人）",
+"hq": "加拿大（+1 613 渥太华区号）",
+"size": "未知（个人邮箱）"
+},
+"business_lines": [
+"未知（需求为工业级多 SFP+ 光口交换机）"
+],
+"channels": {
+"邮箱": "（表内 Gmail）",
+"WhatsApp": "已加"
+},
+"signals": [
+"需求具体（8/12×SFP+、工业温度）→ 若有 10G 光口密集机型可成单"
+],
+"risks": [
+"Saga 工业线 SFP+ 最多 4 口；15 次跟进 0 回复"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号"
+},
+"email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?"
+}
 },
 {
 "name": "Leandro Roisenberg FI",
@@ -275277,7 +277020,57 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-761",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-761",
+"name_official": "（未具名）美国 · chk999@outlook.com（+1 678 亚特兰大区号）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "美国亚特兰大（+1 678）个人/小型买家（Outlook 邮箱，2022 年注册 Alibaba）：需求「1 光 8 口工业 PoE 傻瓜式（非管理）」；WhatsApp 加不上；1 次回复后 14 次跟进无果。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "需求 1 光 8 工业 PoE 非管理；2022 年注册 Alibaba；WhatsApp 加不上；1 次回复、14 次跟进",
+"quote": "1光8工业PoE傻瓜式 2022年注册Alibaba … 加不上",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（需求已映射）"
+},
+"company_facts": {
+"legal_name": "未具名（个人邮箱）",
+"hq": "美国（+1 678）",
+"size": "个人/微型"
+},
+"business_lines": [
+"未知（工业 PoE 需求）"
+],
+"channels": {
+"邮箱": "（表内 Outlook）"
+},
+"signals": [
+"需求具体：1 SFP + 8 GE PoE 非管理工业机 → Saga STI-288GP（2 SFP + 8 PoE）最接近"
+],
+"risks": [
+"WhatsApp 加不上；14 次跟进无果"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
+},
+"email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?"
+}
 },
 {
 "name": "comcores.com",
@@ -282693,7 +284486,58 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-799",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-799",
+"name_official": "JTS Telecom（加拿大；联系人 Joe，Hotmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "加拿大小型电信承包/个体 JTS Telecom（Hotmail 邮箱）：用户记录「VC（视频/光纤转换）对他是新领域，想进入」；1 次回复后 15 次跟进无果。身份不可核。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣：VC 新领域想进入；1 次回复、15 次跟进",
+"quote": "VC is new to him, wanna enter into this new field",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "JTS Telecom（表内；未能核实）",
+"hq": "加拿大",
+"size": "微型/个体"
+},
+"business_lines": [
+"电信布线/承包（推断）",
+"欲进入光纤转换/视频传输领域"
+],
+"channels": {
+"邮箱": "（表内 Hotmail）"
+},
+"signals": [
+"入门型买家 → 低门槛起步包（光电转换 + 8 口 PoE）"
+],
+"risks": [
+"身份不可核；15 次跟进无果"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 25,
+"why": "终端 25% 档：STI-110GE 千兆光电转换（$23.4）+ STC-28DGGPM（$84.1）组成入门包"
+},
+"email_hook": "Since fibre conversion is new ground for you: a pair of gigabit media converters is $46.8 EXW and an 8-port PoE+ switch with 2 SFP $84.1 — want a one-page starter kit with the SFP modules listed?"
+}
 },
 {
 "name": "Maxitulin",
@@ -300793,7 +302637,58 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-868",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-868",
+"name_official": "（未具名）保加利亚 · sstamenov91@gmail.com（S. Stamenov，+359 89）",
+"researched_at": "2026-10-21",
+"website_status": "无域名（仅表内信息）",
+"summary": "保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "WhatsApp 已加；回复「最近没啥需要」；19 次跟进",
+"quote": "说最近没啥需要 … 359-089910 5551 已加",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "未具名（个人邮箱）",
+"hq": "保加利亚",
+"size": "个人/微型"
+},
+"business_lines": [
+"未知"
+],
+"channels": {
+"邮箱": "（表内 Gmail）",
+"WhatsApp": "已加"
+},
+"signals": [
+"曾回复 → 邮箱有效；低频触达即可"
+],
+"risks": [
+"保加利亚非主动开拓市场；明确表示暂无需求"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可"
+},
+"email_hook": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
+}
 },
 {
 "name": "tccomm.com",
@@ -318329,7 +320224,93 @@
 "c_sub": "",
 "status": "已推送 18 次·未回复",
 "code": "SB-959",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-959",
+"name_official": "JM Fiber Optics, Inc.（Chino, CA, USA；jmfiberoptics.com）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "公司定位与政府资质",
+"quote": "JM Fiber Optics was established in 1992 as a full service communications company, servicing commercial, and government customers alike … We are an approved Department of Defense supplier/contractor … Headquarters 13941 Ramona Avenue, Suite A, Chino, CA 91710 USA Phone 1-909-628-3445 … Email info@jmfiberoptics.com GSA Schedule – GS-35F-0328S",
+"url": "https://jmfiberoptics.com/aboutus/",
+"date": "2024-01-05"
+},
+{
+"kind": "政府名录",
+"claim": "业务范围（含 CCTV 与交通系统）",
+"quote": "JM Fiber Optics is a value added reseller and systems integrator of fiber optic and copper voice, video and data communication networks, CCTV and surveillance systems, perimeter and tunnel intrusion detection technology, transit passenger information systems and ETA certified fiber optic installer and technician training courses.",
+"url": "https://www.navair.navy.mil/osbp/node/4566",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模",
+"quote": "JM Fiber Optics, Inc. … Company size: 11-50 employees Headquarters: Chino, CA … Founded: 1992",
+"url": "https://www.linkedin.com/company/jm-fiber-optics-inc",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "营收",
+"quote": "JM Fiber Optics Inc. … Chino, CA, 91710-8412 … Revenue: $3.02 million Modelled",
+"url": "https://www.dnb.com/business-directory/company-profiles.jm_fiber_optics_inc.535c7f6135c212ca574c96928b972d77.html",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "18 次跟进 0 回复",
+"quote": "（用户表字段）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "JM Fiber Optics, Inc.",
+"founded": "1992（Bloomberg 登记 1993-02-16）",
+"hq": "13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com）",
+"size": "11–50（LinkedIn）/ 8（Bloomberg）；营收 $3.02M（D&B 模型）",
+"other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训"
+},
+"business_lines": [
+"光纤网络设计、施工、熔接、测试与机架安装",
+"CCTV/周界/隧道入侵检测集成（守界：交通/军方项目不供）",
+"光纤技师培训（ETA 认证）",
+"政府采购（GSA / DoD）——守界"
+],
+"channels": {
+"网站": "https://jmfiberoptics.com/",
+"电话": "+1 909-628-3445 / 1-888-343-4237（官网公开）",
+"邮箱（公开）": "info@jmfiberoptics.com",
+"LinkedIn": "https://www.linkedin.com/company/jm-fiber-optics-inc"
+},
+"signals": [
+"商用光纤到楼/园区项目需要多 SFP 口汇聚交换机（STC-4168XGGCM 16 SFP + 8 Combo + 4×10G）与 PoE 接入；培训教室亦需光口交换机作教具"
+],
+"risks": [
+"政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
+],
+"saga_fit": {
+"p1": "STC-4168XGGCM",
+"tier": 25,
+"why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目"
+},
+"email_hook": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units."
+}
 },
 {
 "name": "LLT doo",
@@ -678092,6 +680073,1016 @@
 "grade": "C"
 },
 {
+"name": "conel.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"conel.ru"
+],
+"urls": [
+"https://conel.ru/"
+],
+"platform_links": [],
+"emails": [
+"info@conel.ru"
+],
+"corp_emails": [
+"info@conel.ru"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"Serial 工业FS"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(电口)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/电口  08.22.xlsx",
+"sheet": "总表",
+"row": 4,
+"no": "3",
+"tags": [
+"群发(电口)"
+],
+"company": "https://conel.ru/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "Serial 工业FS",
+"contact": "info@conel.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-494",
+"grade": "C"
+},
+{
+"name": "congnghevienthong.com",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"congnghevienthong.com",
+"hptt.vn"
+],
+"urls": [
+"https://www.congnghevienthong.com/"
+],
+"platform_links": [],
+"emails": [
+"cuongnm@hptt.vn",
+"sales@hptt.vn",
+"ngocnx@hptt.vn",
+"tranvietanh@hptt.vn"
+],
+"corp_emails": [
+"cuongnm@hptt.vn",
+"sales@hptt.vn",
+"ngocnx@hptt.vn",
+"tranvietanh@hptt.vn"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"公海"
+],
+"interests": [
+"工业FS 串口 VC MC\n三旺 Upcom等较多牌子"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1,
+"vc": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 38,
+"no": "40",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "https://www.congnghevienthong.com/",
+"country": "越南",
+"person": "",
+"from": "公海",
+"interest": "工业FS 串口 VC MC\n三旺 Upcom等较多牌子",
+"contact": "cuongnm@hptt.vn\nsales@hptt.vn\nngocnx@hptt.vn\ntranvietanh@hptt.vn",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-495",
+"grade": "C"
+},
+{
+"name": "connectec.uk",
+"name_src": "domain",
+"names": [],
+"country": "英国",
+"iso": "GB",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"connectec.uk"
+],
+"urls": [
+"https://connectec.uk/electrical/power-supplies-psu/din-rail-power-supplies"
+],
+"platform_links": [],
+"emails": [
+"sales@connectec.uk"
+],
+"corp_emails": [
+"sales@connectec.uk"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(PA)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/PA 08.25.xlsx",
+"sheet": "总表",
+"row": 34,
+"no": "33",
+"tags": [
+"群发(PA)"
+],
+"company": "https://connectec.uk/electrical/power-supplies-psu/din-rail-power-supplies",
+"country": "英国",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "sales@connectec.uk",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/英国"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-496",
+"grade": "C"
+},
+{
+"name": "consystem.it",
+"name_src": "domain",
+"names": [],
+"country": "意大利",
+"iso": "IT",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"consystem.it"
+],
+"urls": [
+"https://consystem.it/en/alimentatori-din-rail-delta-electronics-per-tutte-le-applicazioni-industriali/"
+],
+"platform_links": [],
+"emails": [
+"support@consystem.it"
+],
+"corp_emails": [
+"support@consystem.it"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(PA)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/PA 08.25.xlsx",
+"sheet": "总表",
+"row": 67,
+"no": "66",
+"tags": [
+"群发(PA)"
+],
+"company": "https://consystem.it/en/alimentatori-din-rail-delta-electronics-per-tutte-le-applicazioni-industriali/",
+"country": "意大利",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "support@consystem.it",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/意大利"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-497",
+"grade": "C"
+},
+{
+"name": "cotel.vn",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"cotel.vn"
+],
+"urls": [
+"https://cotel.vn/switch-cong-nghiep-4-port-8-port-p64.html",
+"https://cotel.vn/switch-managed-pc28.html"
+],
+"platform_links": [],
+"emails": [
+"info@cotel.vn"
+],
+"corp_emails": [
+"info@cotel.vn"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"switch",
+"工业FS"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 2
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 44,
+"no": "46",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "https://cotel.vn/switch-cong-nghiep-4-port-8-port-p64.html",
+"country": "越南",
+"person": "",
+"from": "谷歌",
+"interest": "switch",
+"contact": "info@cotel.vn",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+},
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 115,
+"no": "117",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "https://cotel.vn/switch-managed-pc28.html",
+"country": "越南",
+"person": "",
+"from": "谷歌",
+"interest": "工业FS",
+"contact": "info@cotel.vn",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [
+"d:cotel.vn",
+"e:info@cotel.vn"
+],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-498",
+"grade": "C"
+},
+{
+"name": "cpt.com.vn",
+"name_src": "domain",
+"names": [],
+"country": "越南",
+"iso": "VN",
+"region": "亚太",
+"other_countries": [],
+"domains": [
+"cpt.com.vn"
+],
+"urls": [
+"https://cpt.com.vn/product/ethernet-switches/hardened-managed/"
+],
+"platform_links": [],
+"emails": [
+"info@cpt.com.vn"
+],
+"corp_emails": [
+"info@cpt.com.vn"
+],
+"phones": [],
+"persons": [
+"国内的产品"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工业交换机"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(VN/VN)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
+"sheet": "总表",
+"row": 92,
+"no": "94",
+"tags": [
+"群发(VN/VN)"
+],
+"company": "https://cpt.com.vn/product/ethernet-switches/hardened-managed/",
+"country": "越南",
+"person": "国内的产品",
+"from": "谷歌",
+"interest": "工业交换机",
+"contact": "info@cpt.com.vn",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 亚太/越南"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-499",
+"grade": "C"
+},
+{
+"name": "crevis.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"crevis.ru"
+],
+"urls": [
+"https://www.crevis.ru/product-category/g/"
+],
+"platform_links": [],
+"emails": [
+"info@crevis.ru"
+],
+"corp_emails": [
+"info@crevis.ru"
+],
+"phones": [
+"79137947945"
+],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"网站:Planet牌子  工业FS MC 串口"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {
+"wa_added": 1
+},
+"fit": {
+"switch": 1,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 144,
+"no": "143",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://www.crevis.ru/product-category/g/",
+"country": "俄罗斯",
+"person": "",
+"from": "谷歌",
+"interest": "网站:Planet牌子  工业FS MC 串口",
+"contact": "info@crevis.ru\n7-913-794-7945 已加 说是不处理其他牌子",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "WhatsApp 已加·未回复",
+"code": "SC-500",
+"grade": "C"
+},
+{
+"name": "crystaloneit.com",
+"name_src": "domain",
+"names": [],
+"country": "美国",
+"iso": "US",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"crystaloneit.com"
+],
+"urls": [
+"http://crystaloneit.com/"
+],
+"platform_links": [],
+"emails": [
+"michael@crystaloneit.com"
+],
+"corp_emails": [
+"michael@crystaloneit.com"
+],
+"phones": [],
+"persons": [
+"Michael Hantelmann"
+],
+"positions": [],
+"froms": [
+"RFQ 22.7.29\n4光24电"
+],
+"interests": [
+"17年使用国际站 网站看不出来啥"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:US"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "US",
+"row": 14,
+"no": "13",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:US"
+],
+"company": "http://crystaloneit.com/",
+"country": "美国",
+"person": "Michael Hantelmann",
+"from": "RFQ 22.7.29\n4光24电",
+"interest": "17年使用国际站 网站看不出来啥",
+"contact": "michael@crystaloneit.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/美国"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-501",
+"grade": "C"
+},
+{
+"name": "csb.net.pl",
+"name_src": "domain",
+"names": [],
+"country": "波兰",
+"iso": "PL",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"csb.net.pl"
+],
+"urls": [
+"https://csb.net.pl/urzadzenia-sieciowe/switche/switche-poe/"
+],
+"platform_links": [],
+"emails": [
+"sklep@csb.net.pl",
+"biuro@csb.net.pl"
+],
+"corp_emails": [
+"sklep@csb.net.pl",
+"biuro@csb.net.pl"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"不同品牌的产品"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:PL"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "PL",
+"row": 62,
+"no": "61",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:PL"
+],
+"company": "https://csb.net.pl/urzadzenia-sieciowe/switche/switche-poe/",
+"country": "波兰",
+"person": "质量一般",
+"from": "谷歌",
+"interest": "不同品牌的产品",
+"contact": "sklep@csb.net.pl\nbiuro@csb.net.pl",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/波兰"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-502",
+"grade": "C"
+},
+{
+"name": "csi.pl",
+"name_src": "domain",
+"names": [],
+"country": "波兰",
+"iso": "PL",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"csi.pl"
+],
+"urls": [
+"https://csi.pl/oferta/komunikacja-przemyslowa/"
+],
+"platform_links": [],
+"emails": [
+"kontakt@csi.pl"
+],
+"corp_emails": [
+"kontakt@csi.pl"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"基本是一些有名的牌子的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:PL"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "PL",
+"row": 30,
+"no": "29",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:PL"
+],
+"company": "https://csi.pl/oferta/komunikacja-przemyslowa/",
+"country": "波兰",
+"person": "质量一般",
+"from": "谷歌",
+"interest": "基本是一些有名的牌子的",
+"contact": "kontakt@csi.pl",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/波兰"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-503",
+"grade": "C"
+},
+{
 "name": "（未具名）",
 "name_src": "none",
 "names": [],
@@ -678176,7 +681167,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4935",
+"code": "SC-5031",
 "grade": "C"
 },
 {
@@ -678266,7 +681257,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4936",
+"code": "SC-5032",
 "grade": "C"
 },
 {
@@ -678354,7 +681345,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4937",
+"code": "SC-5033",
 "grade": "C"
 },
 {
@@ -678463,7 +681454,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "WhatsApp 已加·未回复",
-"code": "SC-4938",
+"code": "SC-5034",
 "grade": "C"
 },
 {
@@ -678554,104 +681545,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4939",
-"grade": "C"
-},
-{
-"name": "conel.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"conel.ru"
-],
-"urls": [
-"https://conel.ru/"
-],
-"platform_links": [],
-"emails": [
-"info@conel.ru"
-],
-"corp_emails": [
-"info@conel.ru"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"Serial 工业FS"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(电口)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/电口  08.22.xlsx",
-"sheet": "总表",
-"row": 4,
-"no": "3",
-"tags": [
-"群发(电口)"
-],
-"company": "https://conel.ru/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "Serial 工业FS",
-"contact": "info@conel.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-494",
+"code": "SC-5035",
 "grade": "C"
 },
 {
@@ -678815,7 +681709,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 7 次·未回复",
-"code": "SC-4940",
+"code": "SC-5036",
 "grade": "C"
 },
 {
@@ -678979,7 +681873,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 7 次·未回复",
-"code": "SC-4941",
+"code": "SC-5037",
 "grade": "C"
 },
 {
@@ -679064,7 +681958,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4942",
+"code": "SC-5038",
 "grade": "C"
 },
 {
@@ -679264,7 +682158,104 @@
 ],
 "c_sub": "无联系方式",
 "status": "回复暂无需求",
-"code": "SC-4943",
+"code": "SC-5039",
+"grade": "C"
+},
+{
+"name": "dasys.fi",
+"name_src": "domain",
+"names": [],
+"country": "芬兰",
+"iso": "FI",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"dasys.fi"
+],
+"urls": [
+"http://www.dasys.fi/tuotteet/kuitutuotteet",
+"http://www.dasys.fi/esitteet/kuitu/FT010CB.pdf"
+],
+"platform_links": [],
+"emails": [
+"info@dasys.fi"
+],
+"corp_emails": [
+"info@dasys.fi"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"多功能VC（主） 以太网"
+],
+"remarks": [
+"在卖OTS（上方）的产品\nhttp://www.dasys.fi/esitteet/kuitu/FT010CB.pdf"
+],
+"categories": [],
+"tags": [
+"群发(杂)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/杂  08.13.xlsx",
+"sheet": "总表",
+"row": 76,
+"no": "",
+"tags": [
+"群发(杂)"
+],
+"company": "http://www.dasys.fi/tuotteet/kuitutuotteet",
+"country": "芬兰",
+"person": "",
+"from": "谷歌",
+"interest": "多功能VC（主） 以太网",
+"contact": "info@dasys.fi",
+"mobile": "",
+"website": "",
+"remark": "在卖OTS（上方）的产品\nhttp://www.dasys.fi/esitteet/kuitu/FT010CB.pdf",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/芬兰"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-504",
 "grade": "C"
 },
 {
@@ -679345,7 +682336,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4944",
+"code": "SC-5040",
 "grade": "C"
 },
 {
@@ -679426,7 +682417,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4945",
+"code": "SC-5041",
 "grade": "C"
 },
 {
@@ -679507,7 +682498,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4946",
+"code": "SC-5042",
 "grade": "C"
 },
 {
@@ -679588,7 +682579,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4947",
+"code": "SC-5043",
 "grade": "C"
 },
 {
@@ -679669,7 +682660,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4948",
+"code": "SC-5044",
 "grade": "C"
 },
 {
@@ -679750,113 +682741,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4949",
-"grade": "C"
-},
-{
-"name": "congnghevienthong.com",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"congnghevienthong.com",
-"hptt.vn"
-],
-"urls": [
-"https://www.congnghevienthong.com/"
-],
-"platform_links": [],
-"emails": [
-"cuongnm@hptt.vn",
-"sales@hptt.vn",
-"ngocnx@hptt.vn",
-"tranvietanh@hptt.vn"
-],
-"corp_emails": [
-"cuongnm@hptt.vn",
-"sales@hptt.vn",
-"ngocnx@hptt.vn",
-"tranvietanh@hptt.vn"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"公海"
-],
-"interests": [
-"工业FS 串口 VC MC\n三旺 Upcom等较多牌子"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1,
-"vc": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 38,
-"no": "40",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "https://www.congnghevienthong.com/",
-"country": "越南",
-"person": "",
-"from": "公海",
-"interest": "工业FS 串口 VC MC\n三旺 Upcom等较多牌子",
-"contact": "cuongnm@hptt.vn\nsales@hptt.vn\nngocnx@hptt.vn\ntranvietanh@hptt.vn",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-495",
+"code": "SC-5045",
 "grade": "C"
 },
 {
@@ -679937,7 +682822,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4950",
+"code": "SC-5046",
 "grade": "C"
 },
 {
@@ -680018,7 +682903,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4951",
+"code": "SC-5047",
 "grade": "C"
 },
 {
@@ -680099,7 +682984,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4952",
+"code": "SC-5048",
 "grade": "C"
 },
 {
@@ -680180,7 +683065,100 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4953",
+"code": "SC-5049",
+"grade": "C"
+},
+{
+"name": "datarespons.solutions",
+"name_src": "domain",
+"names": [],
+"country": "挪威",
+"iso": "NO",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"datarespons.solutions",
+"datarespons.com"
+],
+"urls": [
+"https://datarespons.solutions/product-solution/industrial-communication/router-and-switches/network-switches/managed-switches/8-port-din-rail-gigabit-managed-ethernet-switches-is-dg508-dr/"
+],
+"platform_links": [],
+"emails": [
+"sales@datarespons.com"
+],
+"corp_emails": [
+"sales@datarespons.com"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [],
+"interests": [
+"其他的牌子"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(杂)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/杂  08.13.xlsx",
+"sheet": "总表",
+"row": 20,
+"no": "",
+"tags": [
+"群发(杂)"
+],
+"company": "https://datarespons.solutions/product-solution/industrial-communication/router-and-switches/network-switches/managed-switches/8-port-din-rail-gigabit-managed-ethernet-switches-is-dg508-dr/",
+"country": "挪威",
+"person": "",
+"from": "",
+"interest": "其他的牌子",
+"contact": "sales@datarespons.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/挪威"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-505",
 "grade": "C"
 },
 {
@@ -680261,7 +683239,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4954",
+"code": "SC-5050",
 "grade": "C"
 },
 {
@@ -680342,7 +683320,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4955",
+"code": "SC-5051",
 "grade": "C"
 },
 {
@@ -680423,7 +683401,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4956",
+"code": "SC-5052",
 "grade": "C"
 },
 {
@@ -680504,7 +683482,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4957",
+"code": "SC-5053",
 "grade": "C"
 },
 {
@@ -680585,7 +683563,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4958",
+"code": "SC-5054",
 "grade": "C"
 },
 {
@@ -680666,99 +683644,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4959",
-"grade": "C"
-},
-{
-"name": "connectec.uk",
-"name_src": "domain",
-"names": [],
-"country": "英国",
-"iso": "GB",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"connectec.uk"
-],
-"urls": [
-"https://connectec.uk/electrical/power-supplies-psu/din-rail-power-supplies"
-],
-"platform_links": [],
-"emails": [
-"sales@connectec.uk"
-],
-"corp_emails": [
-"sales@connectec.uk"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(PA)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/PA 08.25.xlsx",
-"sheet": "总表",
-"row": 34,
-"no": "33",
-"tags": [
-"群发(PA)"
-],
-"company": "https://connectec.uk/electrical/power-supplies-psu/din-rail-power-supplies",
-"country": "英国",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "sales@connectec.uk",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/英国"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-496",
+"code": "SC-5055",
 "grade": "C"
 },
 {
@@ -680839,7 +683725,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4960",
+"code": "SC-5056",
 "grade": "C"
 },
 {
@@ -680920,7 +683806,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4961",
+"code": "SC-5057",
 "grade": "C"
 },
 {
@@ -681001,7 +683887,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4962",
+"code": "SC-5058",
 "grade": "C"
 },
 {
@@ -681082,7 +683968,107 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4963",
+"code": "SC-5059",
+"grade": "C"
+},
+{
+"name": "dekker-it.com",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"dekker-it.com"
+],
+"urls": [
+"http://dekker-it.com/contacts"
+],
+"platform_links": [],
+"emails": [
+"sales@dekker-it.com"
+],
+"corp_emails": [
+"sales@dekker-it.com"
+],
+"phones": [],
+"persons": [
+"产品很多 / 牌子也很多"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"工业FS SFP MC周边产品"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 125,
+"no": "124",
+"tags": [
+"群发(Russia)"
+],
+"company": "http://dekker-it.com/contacts",
+"country": "俄罗斯",
+"person": "产品很多 \n牌子也很多",
+"from": "谷歌",
+"interest": "工业FS SFP MC周边产品",
+"contact": "sales@dekker-it.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-506",
 "grade": "C"
 },
 {
@@ -681163,7 +684149,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4964",
+"code": "SC-5060",
 "grade": "C"
 },
 {
@@ -681244,7 +684230,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4965",
+"code": "SC-5061",
 "grade": "C"
 },
 {
@@ -681333,7 +684319,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4966",
+"code": "SC-5062",
 "grade": "C"
 },
 {
@@ -681414,7 +684400,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4967",
+"code": "SC-5063",
 "grade": "C"
 },
 {
@@ -681495,7 +684481,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4968",
+"code": "SC-5064",
 "grade": "C"
 },
 {
@@ -681682,99 +684668,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4969",
-"grade": "C"
-},
-{
-"name": "consystem.it",
-"name_src": "domain",
-"names": [],
-"country": "意大利",
-"iso": "IT",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"consystem.it"
-],
-"urls": [
-"https://consystem.it/en/alimentatori-din-rail-delta-electronics-per-tutte-le-applicazioni-industriali/"
-],
-"platform_links": [],
-"emails": [
-"support@consystem.it"
-],
-"corp_emails": [
-"support@consystem.it"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(PA)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/PA 08.25.xlsx",
-"sheet": "总表",
-"row": 67,
-"no": "66",
-"tags": [
-"群发(PA)"
-],
-"company": "https://consystem.it/en/alimentatori-din-rail-delta-electronics-per-tutte-le-applicazioni-industriali/",
-"country": "意大利",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "support@consystem.it",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/意大利"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-497",
+"code": "SC-5065",
 "grade": "C"
 },
 {
@@ -681961,7 +684855,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4970",
+"code": "SC-5066",
 "grade": "C"
 },
 {
@@ -682148,7 +685042,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-4971",
+"code": "SC-5067",
 "grade": "C"
 },
 {
@@ -682229,7 +685123,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4972",
+"code": "SC-5068",
 "grade": "C"
 },
 {
@@ -682310,7 +685204,106 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4973",
+"code": "SC-5069",
+"grade": "C"
+},
+{
+"name": "devicepro.info",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"devicepro.info"
+],
+"urls": [
+"https://devicepro.info/setevoe-oborudovanie"
+],
+"platform_links": [],
+"emails": [
+"info@devicepro.info"
+],
+"corp_emails": [
+"info@devicepro.info"
+],
+"phones": [],
+"persons": [
+"销售平台"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE POE配件 卖好几家的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 176,
+"no": "175",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://devicepro.info/setevoe-oborudovanie",
+"country": "俄罗斯",
+"person": "销售平台",
+"from": "谷歌",
+"interest": "商业POE POE配件 卖好几家的",
+"contact": "info@devicepro.info",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-507",
 "grade": "C"
 },
 {
@@ -682391,7 +685384,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4974",
+"code": "SC-5070",
 "grade": "C"
 },
 {
@@ -682472,7 +685465,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4975",
+"code": "SC-5071",
 "grade": "C"
 },
 {
@@ -682553,7 +685546,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4976",
+"code": "SC-5072",
 "grade": "C"
 },
 {
@@ -682634,7 +685627,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4977",
+"code": "SC-5073",
 "grade": "C"
 },
 {
@@ -682715,7 +685708,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4978",
+"code": "SC-5074",
 "grade": "C"
 },
 {
@@ -682796,133 +685789,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4979",
-"grade": "C"
-},
-{
-"name": "cotel.vn",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"cotel.vn"
-],
-"urls": [
-"https://cotel.vn/switch-cong-nghiep-4-port-8-port-p64.html",
-"https://cotel.vn/switch-managed-pc28.html"
-],
-"platform_links": [],
-"emails": [
-"info@cotel.vn"
-],
-"corp_emails": [
-"info@cotel.vn"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"switch",
-"工业FS"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 2
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 44,
-"no": "46",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "https://cotel.vn/switch-cong-nghiep-4-port-8-port-p64.html",
-"country": "越南",
-"person": "",
-"from": "谷歌",
-"interest": "switch",
-"contact": "info@cotel.vn",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-},
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 115,
-"no": "117",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "https://cotel.vn/switch-managed-pc28.html",
-"country": "越南",
-"person": "",
-"from": "谷歌",
-"interest": "工业FS",
-"contact": "info@cotel.vn",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [
-"d:cotel.vn",
-"e:info@cotel.vn"
-],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-498",
+"code": "SC-5075",
 "grade": "C"
 },
 {
@@ -683003,7 +685870,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4980",
+"code": "SC-5076",
 "grade": "C"
 },
 {
@@ -683084,7 +685951,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4981",
+"code": "SC-5077",
 "grade": "C"
 },
 {
@@ -683165,7 +686032,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4982",
+"code": "SC-5078",
 "grade": "C"
 },
 {
@@ -683246,7 +686113,139 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4983",
+"code": "SC-5079",
+"grade": "C"
+},
+{
+"name": "distrelec.it",
+"name_src": "domain",
+"names": [],
+"country": "意大利",
+"iso": "IT",
+"region": "欧洲",
+"other_countries": [
+"捷克"
+],
+"domains": [
+"distrelec.it",
+"distrelec.com",
+"distrelec.cz"
+],
+"urls": [
+"https://www.distrelec.it/it/alimentazione-su-guida-din-con-contatto-rele-dc-ok-94-24v-10a-240w-regolabile-delta-electronics-drf-24v240w1gba/p/30372045",
+"https://www.distrelec.cz/cs/automatizace/prumyslova-komunikace/prumyslova-sitova-infrastruktura/c/cat-L3D_2827865"
+],
+"platform_links": [],
+"emails": [
+"vendite.it@distrelec.com",
+"info.cz@distrelec.com"
+],
+"corp_emails": [
+"vendite.it@distrelec.com",
+"info.cz@distrelec.com"
+],
+"phones": [],
+"persons": [
+"质量一般"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"主要是planet的"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(PA)",
+"群发(筛选后质量一般的_群发)",
+"表:CZ"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/PA 08.25.xlsx",
+"sheet": "总表",
+"row": 62,
+"no": "61",
+"tags": [
+"群发(PA)"
+],
+"company": "https://www.distrelec.it/it/alimentazione-su-guida-din-con-contatto-rele-dc-ok-94-24v-10a-240w-regolabile-delta-electronics-drf-24v240w1gba/p/30372045",
+"country": "意大利",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "vendite.it@distrelec.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+},
+{
+"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
+"sheet": "CZ",
+"row": 13,
+"no": "12",
+"tags": [
+"群发(筛选后质量一般的_群发)",
+"表:CZ"
+],
+"company": "https://www.distrelec.cz/cs/automatizace/prumyslova-komunikace/prumyslova-sitova-infrastruktura/c/cat-L3D_2827865",
+"country": "捷克",
+"person": "质量一般",
+"from": "",
+"interest": "主要是planet的",
+"contact": "info.cz@distrelec.com",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [
+"d:distrelec.com"
+],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/意大利"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-508",
 "grade": "C"
 },
 {
@@ -683352,7 +686351,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 2 次·未回复",
-"code": "SC-4984",
+"code": "SC-5080",
 "grade": "C"
 },
 {
@@ -683458,7 +686457,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 2 次·未回复",
-"code": "SC-4985",
+"code": "SC-5081",
 "grade": "C"
 },
 {
@@ -683611,7 +686610,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 6 次·未回复",
-"code": "SC-4986",
+"code": "SC-5082",
 "grade": "C"
 },
 {
@@ -683692,7 +686691,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4987",
+"code": "SC-5083",
 "grade": "C"
 },
 {
@@ -683773,7 +686772,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4988",
+"code": "SC-5084",
 "grade": "C"
 },
 {
@@ -683854,106 +686853,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4989",
-"grade": "C"
-},
-{
-"name": "cpt.com.vn",
-"name_src": "domain",
-"names": [],
-"country": "越南",
-"iso": "VN",
-"region": "亚太",
-"other_countries": [],
-"domains": [
-"cpt.com.vn"
-],
-"urls": [
-"https://cpt.com.vn/product/ethernet-switches/hardened-managed/"
-],
-"platform_links": [],
-"emails": [
-"info@cpt.com.vn"
-],
-"corp_emails": [
-"info@cpt.com.vn"
-],
-"phones": [],
-"persons": [
-"国内的产品"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业交换机"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(VN/VN)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/VN 09.09 09.10/VN.xlsx",
-"sheet": "总表",
-"row": 92,
-"no": "94",
-"tags": [
-"群发(VN/VN)"
-],
-"company": "https://cpt.com.vn/product/ethernet-switches/hardened-managed/",
-"country": "越南",
-"person": "国内的产品",
-"from": "谷歌",
-"interest": "工业交换机",
-"contact": "info@cpt.com.vn",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 亚太/越南"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-499",
+"code": "SC-5085",
 "grade": "C"
 },
 {
@@ -684034,7 +686934,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4990",
+"code": "SC-5086",
 "grade": "C"
 },
 {
@@ -684115,7 +687015,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4991",
+"code": "SC-5087",
 "grade": "C"
 },
 {
@@ -684196,7 +687096,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4992",
+"code": "SC-5088",
 "grade": "C"
 },
 {
@@ -684277,7 +687177,99 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4993",
+"code": "SC-5089",
+"grade": "C"
+},
+{
+"name": "domoenergystore.it",
+"name_src": "domain",
+"names": [],
+"country": "意大利",
+"iso": "IT",
+"region": "欧洲",
+"other_countries": [],
+"domains": [
+"domoenergystore.it"
+],
+"urls": [
+"https://domoenergystore.it/en/led-driver/1063-15w-din-rail-power-supply-121524v.html"
+],
+"platform_links": [],
+"emails": [
+"info@domoenergystore.it"
+],
+"corp_emails": [
+"info@domoenergystore.it"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(PA)"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/PA 08.25.xlsx",
+"sheet": "总表",
+"row": 69,
+"no": "68",
+"tags": [
+"群发(PA)"
+],
+"company": "https://domoenergystore.it/en/led-driver/1063-15w-din-rail-power-supply-121524v.html",
+"country": "意大利",
+"person": "",
+"from": "谷歌",
+"interest": "",
+"contact": "info@domoenergystore.it",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 欧洲/意大利"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-509",
 "grade": "C"
 },
 {
@@ -684358,7 +687350,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4994",
+"code": "SC-5090",
 "grade": "C"
 },
 {
@@ -684439,7 +687431,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4995",
+"code": "SC-5091",
 "grade": "C"
 },
 {
@@ -684520,7 +687512,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4996",
+"code": "SC-5092",
 "grade": "C"
 },
 {
@@ -684601,7 +687593,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4997",
+"code": "SC-5093",
 "grade": "C"
 },
 {
@@ -684682,7 +687674,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4998",
+"code": "SC-5094",
 "grade": "C"
 },
 {
@@ -684763,109 +687755,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-4999",
-"grade": "C"
-},
-{
-"name": "crevis.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"crevis.ru"
-],
-"urls": [
-"https://www.crevis.ru/product-category/g/"
-],
-"platform_links": [],
-"emails": [
-"info@crevis.ru"
-],
-"corp_emails": [
-"info@crevis.ru"
-],
-"phones": [
-"79137947945"
-],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"网站:Planet牌子  工业FS MC 串口"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {
-"wa_added": 1
-},
-"fit": {
-"switch": 1,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 144,
-"no": "143",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://www.crevis.ru/product-category/g/",
-"country": "俄罗斯",
-"person": "",
-"from": "谷歌",
-"interest": "网站:Planet牌子  工业FS MC 串口",
-"contact": "info@crevis.ru\n7-913-794-7945 已加 说是不处理其他牌子",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "WhatsApp 已加·未回复",
-"code": "SC-500",
+"code": "SC-5095",
 "grade": "C"
 },
 {
@@ -684946,7 +687836,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "名单内·未触达",
-"code": "SC-5000",
+"code": "SC-5096",
 "grade": "C"
 },
 {
@@ -685156,7 +688046,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 11 次·未回复",
-"code": "SC-5001",
+"code": "SC-5097",
 "grade": "C"
 },
 {
@@ -685344,7 +688234,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5002",
+"code": "SC-5098",
 "grade": "C"
 },
 {
@@ -685532,7 +688422,105 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5003",
+"code": "SC-5099",
+"grade": "C"
+},
+{
+"name": "domofon.uz",
+"name_src": "domain",
+"names": [],
+"country": "乌兹别克斯坦",
+"iso": "UZ",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"domofon.uz"
+],
+"urls": [
+"http://domofon.uz/"
+],
+"platform_links": [],
+"emails": [
+"info@domofon.uz"
+],
+"corp_emails": [
+"info@domofon.uz"
+],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"富通天下"
+],
+"interests": [
+"主要是CCTV类产品\n有商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(富通天下)"
+],
+"flags": {},
+"fit": {
+"switch": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/富通天下 08.20.xlsx",
+"sheet": "总表",
+"row": 175,
+"no": "176",
+"tags": [
+"群发(富通天下)"
+],
+"company": "http://domofon.uz/",
+"country": "乌兹别克斯坦",
+"person": "",
+"from": "富通天下",
+"interest": "主要是CCTV类产品\n有商业POE",
+"contact": "info@domofon.uz",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/乌兹别克斯坦"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-510",
 "grade": "C"
 },
 {
@@ -685720,7 +688708,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5004",
+"code": "SC-5100",
 "grade": "C"
 },
 {
@@ -685908,7 +688896,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5005",
+"code": "SC-5101",
 "grade": "C"
 },
 {
@@ -686096,7 +689084,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5006",
+"code": "SC-5102",
 "grade": "C"
 },
 {
@@ -686284,7 +689272,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5007",
+"code": "SC-5103",
 "grade": "C"
 },
 {
@@ -686483,7 +689471,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5008",
+"code": "SC-5104",
 "grade": "C"
 },
 {
@@ -686682,105 +689670,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5009",
-"grade": "C"
-},
-{
-"name": "crystaloneit.com",
-"name_src": "domain",
-"names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
-"other_countries": [],
-"domains": [
-"crystaloneit.com"
-],
-"urls": [
-"http://crystaloneit.com/"
-],
-"platform_links": [],
-"emails": [
-"michael@crystaloneit.com"
-],
-"corp_emails": [
-"michael@crystaloneit.com"
-],
-"phones": [],
-"persons": [
-"Michael Hantelmann"
-],
-"positions": [],
-"froms": [
-"RFQ 22.7.29\n4光24电"
-],
-"interests": [
-"17年使用国际站 网站看不出来啥"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:US"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "US",
-"row": 14,
-"no": "13",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:US"
-],
-"company": "http://crystaloneit.com/",
-"country": "美国",
-"person": "Michael Hantelmann",
-"from": "RFQ 22.7.29\n4光24电",
-"interest": "17年使用国际站 网站看不出来啥",
-"contact": "michael@crystaloneit.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 北美/美国"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-501",
+"code": "SC-5105",
 "grade": "C"
 },
 {
@@ -686979,7 +689869,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5010",
+"code": "SC-5106",
 "grade": "C"
 },
 {
@@ -687178,7 +690068,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5011",
+"code": "SC-5107",
 "grade": "C"
 },
 {
@@ -687377,7 +690267,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5012",
+"code": "SC-5108",
 "grade": "C"
 },
 {
@@ -687576,7 +690466,106 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 10 次·未回复",
-"code": "SC-5013",
+"code": "SC-5109",
+"grade": "C"
+},
+{
+"name": "domofonn.ru",
+"name_src": "domain",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [
+"domofonn.ru"
+],
+"urls": [
+"https://domofonn.ru/videonablyudenie/setevoe-oborudovanie/kommutatory/"
+],
+"platform_links": [],
+"emails": [
+"info@domofonn.ru"
+],
+"corp_emails": [
+"info@domofonn.ru"
+],
+"phones": [],
+"persons": [
+"销售平台"
+],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE 很多家的外壳"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"群发(Russia)"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
+"sheet": "总表",
+"row": 61,
+"no": "60",
+"tags": [
+"群发(Russia)"
+],
+"company": "https://domofonn.ru/videonablyudenie/setevoe-oborudovanie/kommutatory/",
+"country": "俄罗斯",
+"person": "销售平台",
+"from": "谷歌",
+"interest": "商业POE 很多家的外壳",
+"contact": "info@domofonn.ru",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": 17,
+"reasons": [
+"-6 群发批次名单",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+0 区域 俄语区/俄罗斯"
+],
+"c_sub": "群发冷名单无回应",
+"status": "名单内·未触达",
+"code": "SC-511",
 "grade": "C"
 },
 {
@@ -687764,7 +690753,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5014",
+"code": "SC-5110",
 "grade": "C"
 },
 {
@@ -687952,7 +690941,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5015",
+"code": "SC-5111",
 "grade": "C"
 },
 {
@@ -688140,7 +691129,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5016",
+"code": "SC-5112",
 "grade": "C"
 },
 {
@@ -688328,7 +691317,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5017",
+"code": "SC-5113",
 "grade": "C"
 },
 {
@@ -688516,7 +691505,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 9 次·未回复",
-"code": "SC-5018",
+"code": "SC-5114",
 "grade": "C"
 },
 {
@@ -688692,107 +691681,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 8 次·未回复",
-"code": "SC-5019",
-"grade": "C"
-},
-{
-"name": "csb.net.pl",
-"name_src": "domain",
-"names": [],
-"country": "波兰",
-"iso": "PL",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"csb.net.pl"
-],
-"urls": [
-"https://csb.net.pl/urzadzenia-sieciowe/switche/switche-poe/"
-],
-"platform_links": [],
-"emails": [
-"sklep@csb.net.pl",
-"biuro@csb.net.pl"
-],
-"corp_emails": [
-"sklep@csb.net.pl",
-"biuro@csb.net.pl"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"不同品牌的产品"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:PL"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "PL",
-"row": 62,
-"no": "61",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:PL"
-],
-"company": "https://csb.net.pl/urzadzenia-sieciowe/switche/switche-poe/",
-"country": "波兰",
-"person": "质量一般",
-"from": "谷歌",
-"interest": "不同品牌的产品",
-"contact": "sklep@csb.net.pl\nbiuro@csb.net.pl",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/波兰"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-502",
+"code": "SC-5115",
 "grade": "C"
 },
 {
@@ -688968,7 +691857,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "已推送 8 次·未回复",
-"code": "SC-5020",
+"code": "SC-5116",
 "grade": "C"
 },
 {
@@ -689063,7 +691952,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "成交过·维护",
-"code": "SC-5021",
+"code": "SC-5117",
 "grade": "C"
 },
 {
@@ -689148,7 +692037,7 @@
 ],
 "c_sub": "中国大陆（非出口客户）",
 "status": "名单内·未触达",
-"code": "SC-5022",
+"code": "SC-5118",
 "grade": "C"
 },
 {
@@ -689240,1547 +692129,7 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-5023",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE POE配件"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 232,
-"no": "260",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "谷歌",
-"interest": "商业POE POE配件",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -95,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5024",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "印度",
-"iso": "IN",
-"region": "南亚",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
-],
-"platform_links": [
-"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"新桥商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 156,
-"no": "184",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html",
-"country": "印度",
-"person": "",
-"from": "谷歌",
-"interest": "新桥商业POE",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -98,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"-6 区域 南亚/印度"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5025",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "南非",
-"iso": "ZA",
-"region": "非洲",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 230,
-"no": "258",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
-"country": "南非",
-"person": "",
-"from": "谷歌",
-"interest": "商业POE",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -98,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"-40 无任何联系方式",
-"-6 区域 非洲/南非"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5026",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"海关数据"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 221,
-"no": "249",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "海关数据",
-"interest": "",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -103,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5027",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"海关数据"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 547,
-"no": "",
-"tags": [
-"用户判定不行"
-],
-"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
-"country": "",
-"person": "",
-"from": "海关数据",
-"interest": "",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -103,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5028",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"ETW 2011"
-],
-"interests": [
-"SFP"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [
-2011
-],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 68,
-"no": "96",
-"tags": [
-"用户判定不行"
-],
-"company": "itrade-group.ru",
-"country": "俄罗斯",
-"person": "",
-"from": "ETW 2011",
-"interest": "SFP",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -108,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"-40 无任何联系方式",
-"+0 区域 俄语区/俄罗斯",
-"-10 来源为 2010–2015 年展会且无后续记录"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5029",
-"grade": "C"
-},
-{
-"name": "csi.pl",
-"name_src": "domain",
-"names": [],
-"country": "波兰",
-"iso": "PL",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"csi.pl"
-],
-"urls": [
-"https://csi.pl/oferta/komunikacja-przemyslowa/"
-],
-"platform_links": [],
-"emails": [
-"kontakt@csi.pl"
-],
-"corp_emails": [
-"kontakt@csi.pl"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"基本是一些有名的牌子的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:PL"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "PL",
-"row": 30,
-"no": "29",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:PL"
-],
-"company": "https://csi.pl/oferta/komunikacja-przemyslowa/",
-"country": "波兰",
-"person": "质量一般",
-"from": "谷歌",
-"interest": "基本是一些有名的牌子的",
-"contact": "kontakt@csi.pl",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/波兰"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-503",
-"grade": "C"
-},
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "哈萨克斯坦",
-"iso": "KZ",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"ETW 2011"
-],
-"interests": [
-"VC, russian"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {
-"vc": 1
-},
-"ai_evals": [],
-"years": [
-2011
-],
-"sources": [
-{
-"file": "Clients/不行及不太相关的.xlsx",
-"sheet": "总表",
-"row": 84,
-"no": "112",
-"tags": [
-"用户判定不行"
-],
-"company": "",
-"country": "哈萨克斯坦",
-"person": "",
-"from": "ETW 2011",
-"interest": "VC, russian",
-"contact": "",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -125,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
-"-40 无任何联系方式",
-"+0 区域 俄语区/哈萨克斯坦",
-"-10 来源为 2010–2015 年展会且无后续记录"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-5030",
-"grade": "C"
-},
-{
-"name": "dasys.fi",
-"name_src": "domain",
-"names": [],
-"country": "芬兰",
-"iso": "FI",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"dasys.fi"
-],
-"urls": [
-"http://www.dasys.fi/tuotteet/kuitutuotteet",
-"http://www.dasys.fi/esitteet/kuitu/FT010CB.pdf"
-],
-"platform_links": [],
-"emails": [
-"info@dasys.fi"
-],
-"corp_emails": [
-"info@dasys.fi"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"多功能VC（主） 以太网"
-],
-"remarks": [
-"在卖OTS（上方）的产品\nhttp://www.dasys.fi/esitteet/kuitu/FT010CB.pdf"
-],
-"categories": [],
-"tags": [
-"群发(杂)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/杂  08.13.xlsx",
-"sheet": "总表",
-"row": 76,
-"no": "",
-"tags": [
-"群发(杂)"
-],
-"company": "http://www.dasys.fi/tuotteet/kuitutuotteet",
-"country": "芬兰",
-"person": "",
-"from": "谷歌",
-"interest": "多功能VC（主） 以太网",
-"contact": "info@dasys.fi",
-"mobile": "",
-"website": "",
-"remark": "在卖OTS（上方）的产品\nhttp://www.dasys.fi/esitteet/kuitu/FT010CB.pdf",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/芬兰"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-504",
-"grade": "C"
-},
-{
-"name": "datarespons.solutions",
-"name_src": "domain",
-"names": [],
-"country": "挪威",
-"iso": "NO",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"datarespons.solutions",
-"datarespons.com"
-],
-"urls": [
-"https://datarespons.solutions/product-solution/industrial-communication/router-and-switches/network-switches/managed-switches/8-port-din-rail-gigabit-managed-ethernet-switches-is-dg508-dr/"
-],
-"platform_links": [],
-"emails": [
-"sales@datarespons.com"
-],
-"corp_emails": [
-"sales@datarespons.com"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [],
-"interests": [
-"其他的牌子"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(杂)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/杂  08.13.xlsx",
-"sheet": "总表",
-"row": 20,
-"no": "",
-"tags": [
-"群发(杂)"
-],
-"company": "https://datarespons.solutions/product-solution/industrial-communication/router-and-switches/network-switches/managed-switches/8-port-din-rail-gigabit-managed-ethernet-switches-is-dg508-dr/",
-"country": "挪威",
-"person": "",
-"from": "",
-"interest": "其他的牌子",
-"contact": "sales@datarespons.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/挪威"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-505",
-"grade": "C"
-},
-{
-"name": "dekker-it.com",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"dekker-it.com"
-],
-"urls": [
-"http://dekker-it.com/contacts"
-],
-"platform_links": [],
-"emails": [
-"sales@dekker-it.com"
-],
-"corp_emails": [
-"sales@dekker-it.com"
-],
-"phones": [],
-"persons": [
-"产品很多 / 牌子也很多"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"工业FS SFP MC周边产品"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"mc_sfp": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 125,
-"no": "124",
-"tags": [
-"群发(Russia)"
-],
-"company": "http://dekker-it.com/contacts",
-"country": "俄罗斯",
-"person": "产品很多 \n牌子也很多",
-"from": "谷歌",
-"interest": "工业FS SFP MC周边产品",
-"contact": "sales@dekker-it.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-506",
-"grade": "C"
-},
-{
-"name": "devicepro.info",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"devicepro.info"
-],
-"urls": [
-"https://devicepro.info/setevoe-oborudovanie"
-],
-"platform_links": [],
-"emails": [
-"info@devicepro.info"
-],
-"corp_emails": [
-"info@devicepro.info"
-],
-"phones": [],
-"persons": [
-"销售平台"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE POE配件 卖好几家的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 176,
-"no": "175",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://devicepro.info/setevoe-oborudovanie",
-"country": "俄罗斯",
-"person": "销售平台",
-"from": "谷歌",
-"interest": "商业POE POE配件 卖好几家的",
-"contact": "info@devicepro.info",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-507",
-"grade": "C"
-},
-{
-"name": "distrelec.it",
-"name_src": "domain",
-"names": [],
-"country": "意大利",
-"iso": "IT",
-"region": "欧洲",
-"other_countries": [
-"捷克"
-],
-"domains": [
-"distrelec.it",
-"distrelec.com",
-"distrelec.cz"
-],
-"urls": [
-"https://www.distrelec.it/it/alimentazione-su-guida-din-con-contatto-rele-dc-ok-94-24v-10a-240w-regolabile-delta-electronics-drf-24v240w1gba/p/30372045",
-"https://www.distrelec.cz/cs/automatizace/prumyslova-komunikace/prumyslova-sitova-infrastruktura/c/cat-L3D_2827865"
-],
-"platform_links": [],
-"emails": [
-"vendite.it@distrelec.com",
-"info.cz@distrelec.com"
-],
-"corp_emails": [
-"vendite.it@distrelec.com",
-"info.cz@distrelec.com"
-],
-"phones": [],
-"persons": [
-"质量一般"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"主要是planet的"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(PA)",
-"群发(筛选后质量一般的_群发)",
-"表:CZ"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/PA 08.25.xlsx",
-"sheet": "总表",
-"row": 62,
-"no": "61",
-"tags": [
-"群发(PA)"
-],
-"company": "https://www.distrelec.it/it/alimentazione-su-guida-din-con-contatto-rele-dc-ok-94-24v-10a-240w-regolabile-delta-electronics-drf-24v240w1gba/p/30372045",
-"country": "意大利",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "vendite.it@distrelec.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-},
-{
-"file": "Clients/E/群发/筛选后质量一般的_群发.xlsx",
-"sheet": "CZ",
-"row": 13,
-"no": "12",
-"tags": [
-"群发(筛选后质量一般的_群发)",
-"表:CZ"
-],
-"company": "https://www.distrelec.cz/cs/automatizace/prumyslova-komunikace/prumyslova-sitova-infrastruktura/c/cat-L3D_2827865",
-"country": "捷克",
-"person": "质量一般",
-"from": "",
-"interest": "主要是planet的",
-"contact": "info.cz@distrelec.com",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [
-"d:distrelec.com"
-],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/意大利"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-508",
-"grade": "C"
-},
-{
-"name": "domoenergystore.it",
-"name_src": "domain",
-"names": [],
-"country": "意大利",
-"iso": "IT",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"domoenergystore.it"
-],
-"urls": [
-"https://domoenergystore.it/en/led-driver/1063-15w-din-rail-power-supply-121524v.html"
-],
-"platform_links": [],
-"emails": [
-"info@domoenergystore.it"
-],
-"corp_emails": [
-"info@domoenergystore.it"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(PA)"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/PA 08.25.xlsx",
-"sheet": "总表",
-"row": 69,
-"no": "68",
-"tags": [
-"群发(PA)"
-],
-"company": "https://domoenergystore.it/en/led-driver/1063-15w-din-rail-power-supply-121524v.html",
-"country": "意大利",
-"person": "",
-"from": "谷歌",
-"interest": "",
-"contact": "info@domoenergystore.it",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/意大利"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-509",
-"grade": "C"
-},
-{
-"name": "domofon.uz",
-"name_src": "domain",
-"names": [],
-"country": "乌兹别克斯坦",
-"iso": "UZ",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"domofon.uz"
-],
-"urls": [
-"http://domofon.uz/"
-],
-"platform_links": [],
-"emails": [
-"info@domofon.uz"
-],
-"corp_emails": [
-"info@domofon.uz"
-],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"富通天下"
-],
-"interests": [
-"主要是CCTV类产品\n有商业POE"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(富通天下)"
-],
-"flags": {},
-"fit": {
-"switch": 1,
-"off": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/富通天下 08.20.xlsx",
-"sheet": "总表",
-"row": 175,
-"no": "176",
-"tags": [
-"群发(富通天下)"
-],
-"company": "http://domofon.uz/",
-"country": "乌兹别克斯坦",
-"person": "",
-"from": "富通天下",
-"interest": "主要是CCTV类产品\n有商业POE",
-"contact": "info@domofon.uz",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/乌兹别克斯坦"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-510",
-"grade": "C"
-},
-{
-"name": "domofonn.ru",
-"name_src": "domain",
-"names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [
-"domofonn.ru"
-],
-"urls": [
-"https://domofonn.ru/videonablyudenie/setevoe-oborudovanie/kommutatory/"
-],
-"platform_links": [],
-"emails": [
-"info@domofonn.ru"
-],
-"corp_emails": [
-"info@domofonn.ru"
-],
-"phones": [],
-"persons": [
-"销售平台"
-],
-"positions": [],
-"froms": [
-"谷歌"
-],
-"interests": [
-"商业POE 很多家的外壳"
-],
-"remarks": [],
-"categories": [],
-"tags": [
-"群发(Russia)"
-],
-"flags": {},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [],
-"sources": [
-{
-"file": "Clients/E/群发/Russia 08.26 08.27.xlsx",
-"sheet": "总表",
-"row": 61,
-"no": "60",
-"tags": [
-"群发(Russia)"
-],
-"company": "https://domofonn.ru/videonablyudenie/setevoe-oborudovanie/kommutatory/",
-"country": "俄罗斯",
-"person": "销售平台",
-"from": "谷歌",
-"interest": "商业POE 很多家的外壳",
-"contact": "info@domofonn.ru",
-"mobile": "",
-"website": "",
-"remark": "",
-"extra": "",
-"category": "",
-"position": "",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": 17,
-"reasons": [
-"-6 群发批次名单",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+0 区域 俄语区/俄罗斯"
-],
-"c_sub": "群发冷名单无回应",
-"status": "名单内·未触达",
-"code": "SC-511",
+"code": "SC-5119",
 "grade": "C"
 },
 {
@@ -690879,6 +692228,638 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-512",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE POE配件"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 232,
+"no": "260",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=enableit&oq=enableit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "谷歌",
+"interest": "商业POE POE配件",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -95,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5120",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "印度",
+"iso": "IN",
+"region": "南亚",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
+],
+"platform_links": [
+"https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"新桥商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 156,
+"no": "184",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.indiamart.com/creativesecuritysystems-ludhiana/network-switch.html",
+"country": "印度",
+"person": "",
+"from": "谷歌",
+"interest": "新桥商业POE",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -98,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"-6 区域 南亚/印度"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5121",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "南非",
+"iso": "ZA",
+"region": "非洲",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"谷歌"
+],
+"interests": [
+"商业POE"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 230,
+"no": "258",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=forbatt&oq=forbatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgKGMcBGLEDGNEDGIAEMgcIAhAAGIAEMg0IAxAuGK8BGMcBGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEEUYPNIBBzQ4NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8",
+"country": "南非",
+"person": "",
+"from": "谷歌",
+"interest": "商业POE",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -98,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"-40 无任何联系方式",
+"-6 区域 非洲/南非"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5122",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"海关数据"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 221,
+"no": "249",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "海关数据",
+"interest": "",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -103,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5123",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "未填",
+"iso": "??",
+"region": "未知",
+"other_countries": [],
+"domains": [],
+"urls": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"platform_links": [
+"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
+],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"海关数据"
+],
+"interests": [],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {},
+"ai_evals": [],
+"years": [],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 547,
+"no": "",
+"tags": [
+"用户判定不行"
+],
+"company": "https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8",
+"country": "",
+"person": "",
+"from": "海关数据",
+"interest": "",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -103,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-40 无任何联系方式",
+"-3 区域 未知/未填"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5124",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "俄罗斯",
+"iso": "RU",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"ETW 2011"
+],
+"interests": [
+"SFP"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"mc_sfp": 1
+},
+"ai_evals": [],
+"years": [
+2011
+],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 68,
+"no": "96",
+"tags": [
+"用户判定不行"
+],
+"company": "itrade-group.ru",
+"country": "俄罗斯",
+"person": "",
+"from": "ETW 2011",
+"interest": "SFP",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -108,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"+2 兴趣仅 MC/SFP/配件（边缘品类）",
+"-40 无任何联系方式",
+"+0 区域 俄语区/俄罗斯",
+"-10 来源为 2010–2015 年展会且无后续记录"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5125",
+"grade": "C"
+},
+{
+"name": "（未具名）",
+"name_src": "none",
+"names": [],
+"country": "哈萨克斯坦",
+"iso": "KZ",
+"region": "俄语区",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [],
+"corp_emails": [],
+"phones": [],
+"persons": [],
+"positions": [],
+"froms": [
+"ETW 2011"
+],
+"interests": [
+"VC, russian"
+],
+"remarks": [],
+"categories": [],
+"tags": [
+"用户判定不行"
+],
+"flags": {},
+"fit": {
+"vc": 1
+},
+"ai_evals": [],
+"years": [
+2011
+],
+"sources": [
+{
+"file": "Clients/不行及不太相关的.xlsx",
+"sheet": "总表",
+"row": 84,
+"no": "112",
+"tags": [
+"用户判定不行"
+],
+"company": "",
+"country": "哈萨克斯坦",
+"person": "",
+"from": "ETW 2011",
+"interest": "VC, russian",
+"contact": "",
+"mobile": "",
+"website": "",
+"remark": "",
+"extra": "",
+"category": "",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 0,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -125,
+"reasons": [
+"-60 用户已归入「不行及不太相关的」",
+"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
+"-40 无任何联系方式",
+"+0 区域 俄语区/哈萨克斯坦",
+"-10 来源为 2010–2015 年展会且无后续记录"
+],
+"c_sub": "无联系方式",
+"status": "用户判定不行",
+"code": "SC-5126",
 "grade": "C"
 },
 {

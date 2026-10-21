@@ -1,5 +1,5 @@
 # Avesta
-**官方名称（调研核实）**：Avesta（英国）
+**官方名称（调研核实）**：Avesta (Manchester) Ltd（Co. 07964960；avestatek.co.uk，HiLook UK Authorised Distributor）
 
 > **评级 B**　|　英国　|　档案编号 `SA-137`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
@@ -10,7 +10,7 @@ code: SA-137
 rating: B
 rating_auto: A
 rating_research: B  # 英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。
-name_official: "Avesta（英国）"
+name_official: "Avesta (Manchester) Ltd（Co. 07964960；avestatek.co.uk，HiLook UK Authorised Distributor）"
 score: 61
 country: 英国
 region: 欧洲
@@ -22,7 +22,7 @@ replies: 0
 followups: 17
 first_contact: 2024-06-12
 last_contact: 2025-10-24
-p1: STC-424DGGPM-280W
+p1: STC-2024GP
 price_tier: 20%
 research: done
 sources: 3
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国网络产品贸易商，展会现场详谈：只对非管理商用 PoE 有兴趣，计划 7 月来深圳参观，问 2 光 24 电特点（混速/全千兆、extend 250 m、可 OEM），承诺发需求（MOQ/规格），另问电力线产品；之后 17 次推送 0 回复。（调研 2026-10-21；表内兴趣：拿了珊姐的联系方式，只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点，我给他介绍了3个 1，混合速率，也可以全千兆 2，extend模式，PoE距离100米 250米可选 3，可以OEM，价格好 客户说会发需求以）
+- **是谁**：曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。（调研 2026-10-21；表内兴趣：拿了珊姐的联系方式，只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点，我给他介绍了3个 1，混合速率，也可以全千兆 2，extend模式，PoE距离100米 250米可选 3，可以OEM，价格好 客户说会发需求以）
 - **为什么是 B 级**：**调研后定级 B**（英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-24）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-2024GP — 深挖对位：分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈；$93.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,17 +66,52 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：英国网络产品贸易商，展会现场详谈：只对非管理商用 PoE 有兴趣，计划 7 月来深圳参观，问 2 光 24 电特点（混速/全千兆、extend 250 m、可 OEM），承诺发需求（MOQ/规格），另问电力线产品；之后 17 次推送 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线（网店）
+- **是谁**：曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。
 - **类型**：贸易商/分销
 - **规模**：待补证
+- **在卖/在用品牌**：Hikvision, HiLook, HA（自有编码）
 - **【用户记录】只对非管理 PoE 商业有兴趣；计划来深圳；问 2 光 24 电；可 OEM；0 回复 / 17 次**
   > 只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点…3，可以OEM，价格好 客户说会发需求以及想知道的信息（MOQ/规格等）（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【网店】HiLook 授权分销与在售 PoE 交换机**
+  > HiLook 8 Port Fast Ethernet Unmanaged POE Switch NS-0109P-60 … 8 x 100 Mbps PoE ports, 1 x 1000 Mbps RJ45 port, and 1 x 1000 Mbps SFP port … 60 W PoE power budget … HiLook UK Authorised Distributor | Avesta Manchester Ltd
+  > 来源：https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/（抓取 2025-04-30）
+- **【网店】自有编码白牌 PoE 交换机**
+  > 4 x 100 Mbps PoE ports and 2 x 10/100 Mbps UPLINK RJ45 … 60-Watts PoE Budget … SKU: HA-POES806 £19.00 £24.00 Exc. VAT
+  > 来源：https://avestatek.co.uk/product-category/offers/（抓取 2026-10-21）
+- **【名录】法人与业务**
+  > Avesta (manchester) … 07964960 … Wholesale distributor of CCTV and security equipment, supplying Hikvision and HiLook cameras, DVR/NVR recorders, alarm systems, video doorbells, PoE switches, cables, brackets, and related surveillance accessories through an online store.
+  > 来源：https://firmbase.co/resources/industry-lists/it-distribution-companies-in-the-uk-manchester（抓取 2026-05-28）
+- **【Facebook】地址与联系方式**
+  > Avesta (Manchester) LTD is a wholesale supplier of security equipment based in Manchester … 64 Waterloo Road, Manchester, United Kingdom +44 333 344 0789 +44 7413 040743 sales@avestatek.co.uk
+  > 来源：https://www.facebook.com/AvestaManchesterLTD/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +44 7455 243224〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。
 - 备注：重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店目录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Avesta (Manchester) Ltd（Companies House 07964960） |
+| 总部/地址 | 64 Waterloo Road, Manchester, UK（+44 333 344 0789 / +44 7413 040743；sales@avestatek.co.uk） |
+| 其他 | HiLook UK Authorised Distributor；Facebook 7 评 66% 推荐 |
+
+- **业务线**：Hikvision/HiLook CCTV 批发与网店；PoE 交换机、线缆、支架等配件（含自有编码 HA- 白牌）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| HiLook | NS-0109P-60 | 8×FE PoE + 1 GE RJ45 + 1 SFP，60W，extend 250 m | STC-028GP（8 GE PoE 非管理，Saga 列表 $24.2） | https://avestatek.co.uk/product/hilook-8-port-fast-ethernet-unmanaged-poe-switch-ns-0109p-60/（2025-04-30） |
+| HiLook | 4 Port FE Unmanaged PoE | 4×FE PoE + 1 上联，35W，£28 ex VAT | STC-024GP（4 GE PoE + 2 上联，$18.7） | https://avestatek.co.uk/product/hilook-4-port-fast-ethernet-unmanaged-poe-switch/（2026-10-21） |
+| HA（自有编码） | HA-POES806 | 4×FE PoE + 2×FE 上联，60W，£19（原 £24）ex VAT | STC-024FP（$9.9）/ STC-024GP | https://avestatek.co.uk/product-category/offers/（2026-10-21） |
+
+- **触达通道（公开）**：网店: https://avestatek.co.uk/；电话: +44 333 344 0789（公开）；邮箱（公开）: sales@avestatek.co.uk；Facebook: https://www.facebook.com/AvestaManchesterLTD/
+- **近况信号**：
+  - 已在卖自有编码白牌 PoE（HA-POES806）→ 具备 OEM 采购习惯；明确问 2 光 24 电非管理 → Saga Realtek 线 STC-2024GP（2 SFP + 24 GE PoE 300W，列表 $93.5）正对
+- **风险/边界**：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供
+- **Saga 对位结论**：P1 STC-2024GP（20% 档）——分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈
+- **邮件切入句（英文）**：For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +175,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（贸易商/分销） |
+| **P1** | STC-2024GP | 深挖对位：分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈 | $93.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（贸易商/分销） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -149,9 +184,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-2024GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-2024GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -161,7 +196,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-2024GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -189,25 +224,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Hamid,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

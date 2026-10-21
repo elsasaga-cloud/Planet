@@ -1,0 +1,50 @@
+{
+ "code": "SB-761",
+ "name_official": "（未具名）美国 · chk999@outlook.com（+1 678 亚特兰大区号）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "美国亚特兰大（+1 678）个人/小型买家（Outlook 邮箱，2022 年注册 Alibaba）：需求「1 光 8 口工业 PoE 傻瓜式（非管理）」；WhatsApp 加不上；1 次回复后 14 次跟进无果。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "需求 1 光 8 工业 PoE 非管理；2022 年注册 Alibaba；WhatsApp 加不上；1 次回复、14 次跟进",
+   "quote": "1光8工业PoE傻瓜式 2022年注册Alibaba … 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（需求已映射）"
+ },
+ "company_facts": {
+  "legal_name": "未具名（个人邮箱）",
+  "hq": "美国（+1 678）",
+  "size": "个人/微型"
+ },
+ "business_lines": [
+  "未知（工业 PoE 需求）"
+ ],
+ "channels": {
+  "邮箱": "（表内 Outlook）"
+ },
+ "signals": [
+  "需求具体：1 SFP + 8 GE PoE 非管理工业机 → Saga STI-288GP（2 SFP + 8 PoE）最接近"
+ ],
+ "risks": [
+  "WhatsApp 加不上；14 次跟进无果"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
+ },
+ "email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?"
+}

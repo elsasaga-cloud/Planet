@@ -41,5 +41,35 @@
  "grade_override": "B",
  "override_reason": "小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。",
  "notes": "重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Tricomp Sp. z o.o.（华沙；2002-07-04 注册，注册资本 5 万 PLN）",
+  "hq": "Warszawa, Polska",
+  "size": "1–24 人（D&B）/ 51–200（LinkedIn 自报，口径不一）",
+  "other": "总裁 James Francis Ofwona；业务：IT/电信咨询、设计、监理、布线与电信方案实施、项目管理"
+ },
+ "business_lines": [
+  "IT/电信工程咨询与实施（布线、电信方案）",
+  "软硬件方案与项目管理"
+ ],
+ "channels": {
+  "网站": "tricomp.com.pl",
+  "LinkedIn/名录": "https://www.crunchbase.com/organization/tricomp"
+ },
+ "signals": [
+  "布线与电信实施项目 → 每项目机柜级接入/汇聚交换机采购；1 次回复说明邮箱有效"
+ ],
+ "risks": [
+  "规模口径不一（可能仅数人）；14 次推送无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W"
+ },
+ "email_hook": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?"
 }

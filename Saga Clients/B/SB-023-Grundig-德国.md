@@ -1,4 +1,5 @@
 # Grundig
+**官方名称（调研核实）**：Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）
 
 > **评级 B**　|　德国　|　档案编号 `SB-023`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-023
 rating: B
 rating_auto: B
+name_official: "Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）"
 score: 59
 country: 德国
 region: 欧洲
@@ -19,21 +21,21 @@ replies: 0
 followups: 7
 first_contact: 2025-04-14
 last_contact: 2025-11-04
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+p1: STC-424DGGPM-280W
+price_tier: 30%
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国的经销/集成（类型待核）；兴趣/在卖：从UTEPO买商业级交换机，也去了EWIND摊位，推荐工业级POE产品就可以了
+- **是谁**：德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：从UTEPO买商业级交换机，也去了EWIND摊位，推荐工业级POE产品就可以了）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -63,7 +65,54 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-023.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。
+- **在卖/在用品牌**：GRUNDIG Security（许可品牌）
+- **【官网】品牌许可与定位**
+  > As a licensee of the well-known GRUNDIG Security brand, Abetechs GmbH distributes state-of-the-art products and solutions for professional video security worldwide.
+  > 来源：https://grundig-security.com/company/career/（抓取 2026-10-21）
+- **【官网】Imprint：法人、总经理、登记**
+  > Abetechs GmbH (Grundig Security) Steinhof 39 40699 Erkrath Germany Managing Director: Ludwig Bergschneider Entry in the trade register of Wuppertal HRB 35197 VAT No.: DE 315 133 441 Phone: +49 211 5380 680
+  > 来源：https://grundig-security.com/contacts/imprint/（抓取 2026-10-21）
+- **【官网新闻】已有 OEM PoE 交换机线**
+  > NDAA compliant switches from Grundig Security! … we have added have expanded our SMART product line with three NDAA-compliant PoE switches (4-, 8- and 16-port models). The smart managed switches … enable PoE transmission up to 250 metres, and offer 4 KV surge protection.
+  > 来源：https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/（抓取 2026-10-21）
+- **【登记名录】登记与管理层、资本**
+  > Abetechs GmbH (Grundig Security) wird im Handelsregister beim Amtsgericht Düsseldorf unter der Nummer HRB 82264 geführt … 40699 ERKRATH, Steinhof 39 … Bergschneider Ludwig und Demirak Yalcin … Kapital … 800.000 EUR
+  > 来源：https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html（抓取 2026-10-21）
+- **【LinkedIn】规模**
+  > Grundig Security … Größe: 11–50 Beschäftigte Hauptsitz: Erkrath, Nordrhein-Westfalen … Gegründet: 2010
+  > 来源：https://de.linkedin.com/company/grundig-security（抓取 2026-10-21）
+- **【用户表】WhatsApp 已加；7 次跟进 0 回复**
+  > （用户表字段）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ludwig Bergschneider（Managing Director（Imprint 公开））—（未公开） +49 211 5380 680〔https://grundig-security.com/contacts/imprint/〕
+- **KP**：Yalcin Demirak（Geschäftsführer（登记名录公开））—（未公开） +49 211 5380 680〔https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Abetechs GmbH（GRUNDIG Security） |
+| 总部/地址 | Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680） |
+| 注册/税号 | HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000 |
+| 其他 | GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销 |
+
+- **业务线**：GRUNDIG 品牌 IP 视频安防（摄像机、热成像、NVR、监视器）全球分销；C-WERK VMS 与项目设计支持；SMART 线 PoE 交换机（4/8/16 口，NDAA 合规，OEM 采购）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| GRUNDIG Security | SMART PoE Switch 4/8/16 口（如 VGR-GU-HW-ACSW08D：9 口，8 PoE，250 m，NDAA） | 智能管理、PoE 250 m、4 kV 浪涌 | STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4 @30）/ STI-21616GP（16 口） | https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/（2026-10-21） |
+| GRUNDIG Security | SMART NVR（内置 4/8/16 口 PoE） | NDAA 合规 NVR | — | https://download.grundig-security.com/gr%20brochure%20smart%20EN_v3_web.pdf（2022） |
+
+- **触达通道（公开）**：网站: https://grundig-security.com/；电话: +49 211 5380 680（Imprint 公开）；LinkedIn: https://de.linkedin.com/company/grundig-security
+- **近况信号**：
+  - 已有 OEM PoE 交换机线（4/8/16 口 NDAA）→ 缺 24/48 口与 10G 上联管理机、工业 DIN 系列：Saga 可补 STC-424DGGPM-280W / STC-424XGGPM-280W / STI-288DGGPM 并贴 GRUNDIG 标
+  - NDAA 口径：Saga 整机/芯片不属 889 条所列厂商，可出具 NDAA 合规声明（需 SmartByte 确认元器件清单）
+- **风险/边界**：品牌方对 OEM 质量/固件定制（Web UI 品牌化、NDAA 声明、EN 55032）要求高；7 次跟进 0 回复
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源
+- **邮件切入句（英文）**：Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -96,7 +145,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ludwig Bergschneider | — | ludwig.bergschneider@abetechs.com / +4915111606394 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Ludwig Bergschneider | Managing Director（Imprint 公开） | —（未公开） / +49 211 5380 680 | 调研核实（公开页） | https://grundig-security.com/contacts/imprint/ |
+| Yalcin Demirak | Geschäftsführer（登记名录公开） | —（未公开） / +49 211 5380 680 | 调研核实（公开页） | https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -113,19 +163,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -133,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -157,19 +208,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Ludwig,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your GRUNDIG Security SMART PoE Switch 4/8/16 口（如 VGR-GU-HW-ACSW08D：9 口，8 PoE，250 m，NDAA） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

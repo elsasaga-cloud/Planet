@@ -1,17 +1,54 @@
 {
  "code": "SA-157",
- "name_official": "Liveye（德国）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "德国安防产品公司（名片显示安防产品），展会交流中对工商业 PoE 交换机介绍仅附和、未表达具体需求；WA 已加，7 次跟进 0 回复。",
+ "name_official": "LivEye GmbH（Föhren/Trier, Rheinland-Pfalz, DE；liveye.com；移动视频监控塔制造与服务商）",
+ "website_status": "在线",
+ "summary": "德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；WhatsApp 已加，7 次跟进 0 回复。",
  "type": "安防产品商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "LivEye（自有品牌）"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
    "claim": "介绍工商 PoE 交换机，对方附和无具体需求；WA 已加；0 回复 / 7 次",
    "quote": "给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品；49 173 51 67073 已加（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "公司定位与规模",
+   "quote": "LivEye GmbH is a renowned security firm specialising in the protection of temporary high-risk areas. Under the LivEye brand, we develop and manufacture state-of-the-art video surveillance systems. With more than 2,500 security systems and a state-of-the-art control centre … Europa Allee 56b, 54343 Föhren … info@liveye.com",
+   "url": "https://www.liveye.uk/company-liveye-technological-market-leader/",
+   "date": "2026-09-08"
+  },
+  {
+   "kind": "行业媒体",
+   "claim": "规模、生产基地、总经理",
+   "quote": "Mit über 1.500 modernen Videotürmen, einer hausinternen Leitstelle … Der in 2024 eröffnete Produktionsstandort in Badem … Als Geschäftsführer leitet Carsten Simons das Unternehmen mit rund 95 Mitarbeitern an fünf Standorten in der D-A-CH-Region sowie in Polen.",
+   "url": "https://git-sicherheit.de/de/business-partner/liveye-gmbh/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "里程碑与股权",
+   "quote": "2019 Gründung der LivEye GmbH > 35 Mitarbeiter 2022 > 50 Mitarbeiter > 1.000 Videosicherheitssysteme im Markt NORD HOLDING erwirbt 70% 2025 > 130 Mitarbeiter > 2.000 Videosicherheitssysteme im Markt",
+   "url": "https://www.liveye.com/wp-content/uploads/2023/09/LivEye_Broschuere_08-2022-deutsch.pdf",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "行业媒体",
+   "claim": "新任总经理",
+   "quote": "LivEye beruft Markus Diederichs in die Geschäftsführung … Mit der Erweiterung verstärkt das Sicherheitsunternehmen den Kurs auf Souveränität „made in Germany\"",
+   "url": "https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung",
+   "date": "2025-10-08"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模",
+   "quote": "LivEye … Größe: 51–200 Beschäftigte Hauptsitz: Föhren, Rheinland-Pfalz … Gegründet: 2018",
+   "url": "https://de.linkedin.com/company/liveye-gmbh",
    "date": "2026-10-21"
   }
  ],
@@ -22,10 +59,68 @@
    "email": "",
    "phone": "+49 173 516 7073（WA）/ +49 6502 403 4722",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Carsten Simons",
+   "role": "Geschäftsführer（行业媒体公开）",
+   "email": "info@liveye.com（公司公开）",
+   "phone": "—",
+   "source": "https://git-sicherheit.de/de/business-partner/liveye-gmbh/"
+  },
+  {
+   "name": "Markus Diederichs",
+   "role": "Geschäftsführer（2025-10 起；行业媒体公开）",
+   "email": "—（未公开）",
+   "phone": "—",
+   "source": "https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung"
   }
  ],
  "grade_override": "B",
  "override_reason": "无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。",
  "notes": "WA 季度触达。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 行业媒体核对）"
+ },
+ "company_facts": {
+  "legal_name": "LivEye GmbH",
+  "founded": "2018（品牌）/ 2019（GmbH）",
+  "hq": "Europa-Allee 56b（另见 27），54343 Föhren, Germany（info@liveye.com）；生产基地 Badem（2024）",
+  "size": "约 95 人（GIT）～130+（自述 2025）；51–200（LinkedIn）；营收估 €3.5M（旧口径）",
+  "other": "Nord Holding 持股 70%（2022-09）；ISO 14001；协会 BHE/BDSW/ASW/VDBUM；NSTR 订阅制长期安装"
+ },
+ "business_lines": [
+  "移动视频监控塔研发制造（PRO 2.0、PRO SOLAR、ONE+、LIGHT+、FALCON、DOCU）",
+  "24/7 自营监控中心与全服务（规划、技术、服务、监控）",
+  "长期固定安装订阅（NSTR）"
+ ],
+ "products_seen": [
+  {
+   "brand": "LivEye",
+   "model": "PRO 2.0 / PRO SOLAR",
+   "spec": "太阳能/市电移动视频塔，AI 异常检测，4G/5G 回传",
+   "url": "https://www.marktplatz-mittelstand.de/foehren/liveye-gmbh-mobile-videoueberwachung-baustellenschutz-aX3PKE.html",
+   "date": "2026-10-21",
+   "saga": "塔内 STI-144GP（4 PoE + 1 SFP，DC 44–57 V）/ STI-288DGGPM"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.liveye.com/",
+  "邮箱（公开）": "info@liveye.com",
+  "LinkedIn": "https://de.linkedin.com/company/liveye-gmbh"
+ },
+ "signals": [
+  "自产 2,000+ 视频塔、年产数百台 → 塔内 PoE 交换机为批量 BOM 件；太阳能塔需低功耗宽温 DC 输入机（STI 12–58 V DC）",
+  "『Souveränität made in Germany』路线：对供应链来源敏感 → 以中性包装 + 元器件声明应对"
+ ],
+ "risks": [
+  "已有既定 BOM 供应商；KRITIS/电厂项目守界；7 次跟进 0 回复；回复后可升 A（候选）"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 30,
+  "why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM"
+ },
+ "email_hook": "For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?"
 }

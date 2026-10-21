@@ -1,5 +1,5 @@
 # Telcam Fire&securoty Ltd
-**官方名称（调研核实）**：Telcam Fire & Security Ltd（英国）
+**官方名称（调研核实）**：Telcam Fire & Security Ltd（Co. 12383574）/ Tel-Cam Security System Ltd（Co. 04066468），Hanwell, London W7，telcam.co.uk
 
 > **评级 B**　|　英国　|　档案编号 `SA-109`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
@@ -10,7 +10,7 @@ code: SA-109
 rating: B
 rating_auto: A
 rating_research: B  # 英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。
-name_official: "Telcam Fire & Security Ltd（英国）"
+name_official: "Telcam Fire & Security Ltd（Co. 12383574）/ Tel-Cam Security System Ltd（Co. 04066468），Hanwell, London W7，telcam.co.uk"
 score: 67
 country: 英国
 region: 欧洲
@@ -22,8 +22,8 @@ replies: 0
 followups: 17
 first_contact: 2024-06-12
 last_contact: 2025-10-23
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STC-28DGGPM
+price_tier: 30%
 research: done
 sources: 2
 updated: 2026-10-21
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国消防与安防分销商（用户记录：展会现场交流，懂一点 WDM，对交换机有兴趣，希望 OEM 并问能否提供技术培训），之后 17 次推送 0 回复。（调研 2026-10-21；表内兴趣：懂一点WDM 对switch有兴趣 在UK做分销的 希望OEM 如果他们分销我们的产品能提供技术培训嘛？ 也去了旁边的展位（不是本行业的，做智能门禁的））
+- **是谁**：伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。（调研 2026-10-21；表内兴趣：懂一点WDM 对switch有兴趣 在UK做分销的 希望OEM 如果他们分销我们的产品能提供技术培训嘛？ 也去了旁边的展位（不是本行业的，做智能门禁的））
 - **为什么是 B 级**：**调研后定级 B**（英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-23）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -66,17 +66,48 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：英国消防与安防分销商（用户记录：展会现场交流，懂一点 WDM，对交换机有兴趣，希望 OEM 并问能否提供技术培训），之后 17 次推送 0 回复。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。
 - **类型**：安防/消防分销商
 - **规模**：待补证
+- **在卖/在用品牌**：Texecom（入侵报警）
 - **【用户记录】UK 分销、希望 OEM、问技术培训；0 回复 / 17 次跟进**
   > 懂一点WDM 对switch有兴趣 在UK做分销的 希望OEM 如果他们分销我们的产品能提供技术培训嘛？（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】业务范围与运营主体**
+  > Installation & Maintenance of Intruder Alarms, Access Control and CCTV Systems … Company Name: Tel-Cam Security Systems Ltd Company # 04066468 5 Broadway Buildings Boston Road Hanwell London W7 3TT … 020 8840 2111
+  > 来源：https://telcam.co.uk/（抓取 2025-04-14）
+- **【LinkedIn】规模与定位**
+  > Telcam is a Tier 1 Security & Safety Systems provider, operating Nationwide across England & Wales … Company size: 11-50 employees … Founded: 2000
+  > 来源：https://uk.linkedin.com/company/telcam（抓取 2026-10-21）
+- **【登记】法人登记**
+  > TELCAM FIRE & SECURITY LTD … Registered office address: 5 Broadway Buildings, Boston Road, London, England, W7 3TT … Incorporated on: 2 January 2020 … 80200 - Security systems service activities
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/12383574（抓取 2026-10-21）
+- **【登记】运营主体 SIC**
+  > TEL-CAM SECURITY SYSTEM LIMITED … Incorporated on: 6 September 2000 … 47429 - Retail sale of telecommunications equipment other than mobile telephones; 61900 - Other telecommunications activities
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/04066468（抓取 2026-10-21）
+- **【官网】客户规模**
+  > From September 2000 – 2019, Telcam's primary method for expansion was via "word of mouth" … producing over 2,500 clients across England & Wales, most with multiple site portfolios.
+  > 来源：https://telcam-ap.co.uk/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。
 - 备注：重启角度：直接回答其当年问题——'可提供远程技术培训 + 英文手册 + UKCA/CE 文件 + 中性包装'，附 STC-28DGGPM/STC-424DGGPM-280W OEM 价（30%）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Telcam Fire & Security Ltd（12383574，2020-01-02；曾名 Telcam Security Services Ltd）；运营主体 Tel-Cam Security System Ltd（04066468，2000-09-06） |
+| 总部/地址 | 5 Broadway Buildings, Boston Road, Hanwell, London W7 3TT（020 8840 2111；WhatsApp 07388 351670；safety@telcam.co.uk） |
+| 其他 | Texecom 入侵报警安装；门禁、CCTV、火灾报警（守界：火灾主系统不供）、保险柜、闸门；2026-02 一名董事辞任 |
+
+- **业务线**：入侵报警 / 门禁 / 专项 CCTV 安装与维护；火灾报警系统（守界）；保险柜、安防闸门、家庭自动化
+- **触达通道（公开）**：网站: https://telcam.co.uk/；电话: +44 20 8840 2111（官网公开）；邮箱（公开）: safety@telcam.co.uk；LinkedIn: https://uk.linkedin.com/company/telcam
+- **近况信号**：
+  - 多站点客户组合（2,500+ 客户、多为多址）→ 每个 CCTV 站点 1 台 8/16 口 PoE；希望 OEM + 技术培训 → 可提供英文 CLI/Web 手册与远程培训作为 OEM 配套
+- **风险/边界**：安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册
+- **邮件切入句（英文）**：You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -134,20 +165,19 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防/消防分销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防/消防分销商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -155,7 +185,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -183,14 +213,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Carlos,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

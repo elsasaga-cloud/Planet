@@ -1,0 +1,51 @@
+{
+ "code": "SB-868",
+ "name_official": "（未具名）保加利亚 · sstamenov91@gmail.com（S. Stamenov，+359 89）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；回复「最近没啥需要」；19 次跟进",
+   "quote": "说最近没啥需要 … 359-089910 5551 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "未具名（个人邮箱）",
+  "hq": "保加利亚",
+  "size": "个人/微型"
+ },
+ "business_lines": [
+  "未知"
+ ],
+ "channels": {
+  "邮箱": "（表内 Gmail）",
+  "WhatsApp": "已加"
+ },
+ "signals": [
+  "曾回复 → 邮箱有效；低频触达即可"
+ ],
+ "risks": [
+  "保加利亚非主动开拓市场；明确表示暂无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可"
+ },
+ "email_hook": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
+}
