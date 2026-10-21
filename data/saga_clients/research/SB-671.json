@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "美国经销/集成（类型待核，无官网快照）：官网快照失败（http_error）；表内「Networking」；群发 5 次、无回复。",
- "type": "经销/集成（类型待核，无官网快照）",
+ "summary": "美国 Abaco Systems（AMETEK 旗下国防/航空航天加固嵌入式计算厂商；KP Dan Fitzgerald（Engineer）、Mark Edwards；表内「Networking」）；群发 5 次无回复。",
+ "type": "国防嵌入式计算厂商（巨头/守界）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,38 +14,46 @@
    "quote": "Networking",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Networking",
+   "quote": "Networking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "国防嵌入式厂商（守界/巨头）；c_sub=守界（军工）/体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 abaco.com，语言 ?，快照状态 http_error；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "加固嵌入式计算（国防 / 航空航天）"
  ],
  "channels": {
-  "role": "经销/集成（类型待核，无官网快照）",
+  "role": "国防嵌入式计算厂商（巨头/守界）",
   "region": "美国",
   "contact": "dan.fitzgerald@abaco.com、mark.edwards@abaco.com"
  },
  "signals": [
-  "用户表兴趣/备注：Networking"
+  "表内：Networking；KP Dan Fitzgerald / Engineer；mark.edwards@abaco.com",
+  "快照：http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回"
+  "守界：国防/航空航天；体量：AMETEK 集团；5 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：经销/集成（类型待核，无官网快照）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 30,
+  "why": "国防/航空航天加固计算厂商（AMETEK 旗下）→ 改 C（巨头 + 守界）"
  },
- "email_hook": "Dan, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：守界/巨头）"
 }

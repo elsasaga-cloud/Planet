@@ -2,7 +2,7 @@
 
 > **评级 B**　|　南非　|　档案编号 `SB-720`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
-> **类型**：网络/安防经销或集成（官网未见角色词，待核）（推断）　|　**历史关系**：推送 7 次（2025-03-26 → 2025-11-05）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：自有品牌网络/电源产品商（南非）（推断）　|　**历史关系**：推送 7 次（2025-03-26 → 2025-11-05）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-720
@@ -12,15 +12,15 @@ score: 34
 country: 南非
 region: 非洲
 website: netshieldsa.com
-type: 网络/安防经销或集成（官网未见角色词，待核）
+type: 自有品牌网络/电源产品商（南非）
 tier_tags: ["A优质名单(South Africa)", "AI评估(ZA)·DONE"]
 deal: no
 replies: 0
 followups: 7
 first_contact: 2025-03-26
 last_contact: 2025-11-05
-p1: STI-288DGGPM
-price_tier: 25%
+p1: STI-280GE
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：南非网络/安防经销或集成（官网未见角色词，待核）：官网「netshieldsa.com」；表内「MC SFP 工业FS；Celia Gagiano 27 12 841 0320」；群发 7 次、无回复。（调研 2026-10-21；表内兴趣：MC SFP 工业FS）
+- **是谁**：南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：MC SFP 工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-26 → 2025-11-05）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | netshieldsa.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 南非 | 事实（用户表）|
 | 网站/域名 | netshieldsa.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 网络/安防经销或集成（官网未见角色词，待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 自有品牌网络/电源产品商（南非） | 推断（据兴趣/备注关键词） |
 | 联系人 | Inus / Inus Dreckmeyr / Electrical Engineer and Chief Executive Officer | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC SFP 工业FS | 事实（用户表） |
@@ -65,30 +65,35 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（netshieldsa.com，快照 2026-10-21）
-- **是谁**：南非网络/安防经销或集成（官网未见角色词，待核）：官网「netshieldsa.com」；表内「MC SFP 工业FS；Celia Gagiano 27 12 841 0320」；群发 7 次、无回复。
-- **类型**：网络/安防经销或集成（官网未见角色词，待核）
+- **是谁**：南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。
+- **类型**：自有品牌网络/电源产品商（南非）
 - **【官网快照】官网标题：netshieldsa.com**
   > 来源：https://netshieldsa.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC SFP 工业FS；Celia Gagiano 27 12 841 0320
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【用户表】MC SFP 工业 FS**
+  > MC SFP 工业FS
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Inus Dreckmeyr（）inus@netshieldsa.com 〔用户表〕
+- **KP**：Celia Gagiano（）celia@netshieldsa.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 南非 |
 | 其他 | 官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 网络/安防经销或集成（官网未见角色词，待核）；region: 南非；contact: inus@netshieldsa.com、celia@netshieldsa.com
+- **业务线**：网络 / 电源产品（自有品牌 Netshield，南非）
+- **触达通道（公开）**：role: 自有品牌网络/电源产品商（南非）；region: 南非；contact: inus@netshieldsa.com、celia@netshieldsa.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://netshieldsa.com/）
-  - 用户表兴趣/备注：MC SFP 工业FS；Celia Gagiano 27 12 841 0320
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Inus, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+  - 表内：MC SFP 工业 FS；KP Inus Dreckmeyr / Electrical Engineer and Chief Executive Officer；Celia Gagiano 27 12 841 0320
+  - 快照：内容为空
+- **风险/边界**：非主攻区（T5，南非）；自有品牌（可能有既定 ODM）；7 次无回复 → 改向 CEO 具名首触；官网快照空
+- **Saga 对位结论**：P1 STI-280GE（30% 档）——Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供
+- **邮件切入句（英文）**：Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -129,8 +134,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Inus Dreckmeyr | — | inus@netshieldsa.com | 调研核实（公开页） | 用户表 |
+| Celia Gagiano | — | celia@netshieldsa.com | 调研核实（公开页） | 用户表 |
 | Inus | — | inus@netshieldsa.com / celia@netshieldsa.com / +27128410320 | 用户表原值 | Clients/ 表 |
-| Inus Dreckmeyr | — | inus@netshieldsa.com / celia@netshieldsa.com / +27128410320 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -147,27 +153,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/安防经销或集成（官网未见角色词，待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-280GE | 深挖对位：Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供 | $50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（自有品牌网络/电源产品商（南非）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-280GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-280GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -195,25 +202,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Inus,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Inus, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?
+Picking up our earlier exchange about PoE / industrial switches. Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

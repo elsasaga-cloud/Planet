@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（intant.kz，快照 2026-10-21）",
- "summary": "哈萨克斯坦安防集成/经销：官网「Intant - Системы видеонаблюдения, безопасности, контроля доступа, пожаротушения」（ru）；品类词：光纤 / 媒体转换；站内品牌：Hikvision；站内型号：RS-485、D-CF-7、DS-2CD1643G0-IZ、NVR-232MH-K；表内「工业FS」；群发 18 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "哈萨克斯坦 Intant（视频监控、安防、门禁、报警与灭火系统集成/分销；Hikvision 为主（26 处）；表内「工业 FS 有 Utepo 的」）；群发 18 次无回复。",
+ "type": "安防集成/分销商（哈萨克斯坦，Utepo 在售）",
  "size": "",
  "brands_seen": [
-  "Hikvision"
+  "Hikvision",
+  "Utepo"
  ],
  "evidence": [
   {
@@ -23,6 +24,20 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Intant 定位",
+   "quote": "Intant - Системы видеонаблюдения, безопасности, контроля доступа, пожаротушения",
+   "url": "https://intant.kz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 有 Utepo",
+   "quote": "工业FS；有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,34 +46,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "哈萨克斯坦",
   "other": "官网 intant.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "光纤 / 媒体转换"
+  "视频监控 / 安防 / 门禁 / 消防系统（哈萨克斯坦）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防集成/分销商（哈萨克斯坦，Utepo 在售）",
   "region": "哈萨克斯坦",
   "contact": "intant@intant.net"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://intant.kz/）",
-  "安防品牌：Hikvision → PoE 配套切入",
-  "官网公开邮箱：intant@intant.net",
-  "用户表兴趣/备注：工业FS"
+  "官网：Intant - Системы видеонаблюдения, безопасности, контроля доступа, пожаротушения；kw hikvision 26 / sfp 12；页面 /catalog/",
+  "表内：工业 FS；有 Utepo 的"
  ],
  "risks": [
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，哈萨克斯坦；EAC 由客户侧）；守界备注：灭火/报警系统本体不碰，仅供网络侧；现供 Utepo 价格基准低；18 次无回复"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
  },
- "email_hook": "Alongside the Hikvision lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "For the Utepo-type industrial PoE positions in your Hikvision installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from small lots, CE/RoHS; EAC by your side — which configuration do your projects use most?"
 }

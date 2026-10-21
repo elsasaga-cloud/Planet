@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（netshieldsa.com，快照 2026-10-21）",
- "summary": "南非网络/安防经销或集成（官网未见角色词，待核）：官网「netshieldsa.com」；表内「MC SFP 工业FS；Celia Gagiano 27 12 841 0320」；群发 7 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。",
+ "type": "自有品牌网络/电源产品商（南非）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,61 @@
    "quote": "MC SFP 工业FS；Celia Gagiano 27 12 841 0320",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 工业 FS",
+   "quote": "MC SFP 工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Inus Dreckmeyr",
+   "title": "Electrical Engineer and Chief Executive Officer",
+   "email": "inus@netshieldsa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Celia Gagiano",
+   "title": "（职务待核）",
+   "email": "celia@netshieldsa.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "南非",
   "other": "官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络 / 电源产品（自有品牌 Netshield，南非）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "自有品牌网络/电源产品商（南非）",
   "region": "南非",
   "contact": "inus@netshieldsa.com、celia@netshieldsa.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://netshieldsa.com/）",
-  "用户表兴趣/备注：MC SFP 工业FS；Celia Gagiano 27 12 841 0320"
+  "表内：MC SFP 工业 FS；KP Inus Dreckmeyr / Electrical Engineer and Chief Executive Officer；Celia Gagiano 27 12 841 0320",
+  "快照：内容为空"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，南非）；自有品牌（可能有既定 ODM）；7 次无回复 → 改向 CEO 具名首触；官网快照空"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供"
  },
- "email_hook": "Inus, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?"
 }

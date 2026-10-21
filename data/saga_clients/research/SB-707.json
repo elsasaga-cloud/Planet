@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（hstn.co.th，快照 2026-10-21）",
- "summary": "泰国分销商/经销商：官网「บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด」（th-TH）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：ACE-WE-YZB-16-20、ACE-WR1088M、ACE-WT1550EM、ACE-WT1550DM；表内「Switches」；表内未见跟进记录。",
- "type": "分销商/经销商",
+ "summary": "泰国 Hi Solution of Technology Network Co., Ltd.（HSTN：网络基础设施、光纤 GPON/FTTx、WiFi、MATV/SMATV/CATV、IPTV、数字标牌、酒店 Head-End、CCTV、门禁；站内 Cisco 24 口智能交换机产品页；表内「Switches」）；表内未跟进。",
+ "type": "网络/酒店系统集成分销商（泰国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "Switches",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "HSTN 页面",
+   "quote": "Network Infrastructure Fiber Optic GPON FTTx ; /product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp",
+   "url": "https://www.hstn.co.th/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Switches",
+   "quote": "Switches",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,36 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "泰国",
   "other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络基础设施 / 酒店 IPTV / MATV / CCTV 集成（泰国）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "网络/酒店系统集成分销商（泰国）",
   "region": "泰国",
   "contact": "info@hstn.co.th、rungruengh@hstn.co.th"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.hstn.co.th/）",
-  "官网公开邮箱：contact@hstn.co.th",
-  "用户表兴趣/备注：Switches",
-  "表内早期 AI 描述（未核实）：泰国IT设备分销商，销售企业网络设备和IT基础设施"
+  "官网：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด ; Network Infrastructure Fiber Optic GPON FTTx ; MATV SMATV CATV Systems；页面 /product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp；kw fiber 98 / wifi 60 / cctv 37",
+  "表内：Switches"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过"
  ],
  "saga_fit": {
-  "p1": "STC-448DGGPM",
-  "tier": 20,
-  "why": "48 口 PoE 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV"
  },
- "email_hook": "We supply the Marvell-based 48-port PoE+ L2+ managed switch as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "For the access switches in your hospitality IPTV, WiFi and CCTV installations, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 8-PoE + 2 SFP L2+ models (IGMP snooping for IPTV) from single units, CE/RoHS, EXW USD — which switch position do your hotel projects use most?"
 }
