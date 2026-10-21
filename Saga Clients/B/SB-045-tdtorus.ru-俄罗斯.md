@@ -2,7 +2,7 @@
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-045`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 2 次（2025-09-23 → 2025-11-03）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防分销网店 + 自有型号商业 PoE（OEM 采购）（推断）　|　**历史关系**：推送 2 次（2025-09-23 → 2025-11-03）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-045
@@ -12,7 +12,7 @@ score: 57
 country: 俄罗斯
 region: 俄语区
 website: tdtorus.ru
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 安防分销网店 + 自有型号商业 PoE（OEM 采购）
 tier_tags: ["A优质名单(优质俄罗斯客户)", "AI评估(RU)", "群发(Russia)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Оборудование для систем видеонаблюдения и безопасности, ТОРУС」（ru）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Dahua；站内型号：DH-CS4010-8ET2GT-60、IEEE802、DH-CS4010-8ET2GT-110、DH-IPC-HDW2449TP-S-LED-0280B-PRO；表内「有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号」；群发 2 次、无回复。（调研 2026-10-21；表内兴趣：有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号）
+- **是谁**：俄罗斯 ТОРУС（Torus；视频监控与安防设备官方供应商网店：多品牌、11 个大区仓库、技术支持与服务中心；Dahua 词频 56；品类页 PoE 交换机 / PoE 分离器 / 延长器 / 注入器；表内「有 Utepo 的、丰润达的工业 FS，很多配件，商业 PoE 自己的型号」）；群发 2 次无回复。（调研 2026-10-21；表内兴趣：有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-23 → 2025-11-03）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | tdtorus.ru（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | tdtorus.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防分销网店 + 自有型号商业 PoE（OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 有Utepo的 / 有丰润达的工业FS 很多配件<br>商业POE 自己的型号 | 事实（用户表） |
@@ -65,34 +65,44 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（tdtorus.ru，快照 2026-10-21）
-- **是谁**：俄罗斯品牌商/贴牌需求（OEM/ODM）：官网「Оборудование для систем видеонаблюдения и безопасности, ТОРУС」（ru）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Dahua；站内型号：DH-CS4010-8ET2GT-60、IEEE802、DH-CS4010-8ET2GT-110、DH-IPC-HDW2449TP-S-LED-0280B-PRO；表内「有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号」；群发 2 次、无回复。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
-- **在卖/在用品牌**：Dahua
+- **是谁**：俄罗斯 ТОРУС（Torus；视频监控与安防设备官方供应商网店：多品牌、11 个大区仓库、技术支持与服务中心；Dahua 词频 56；品类页 PoE 交换机 / PoE 分离器 / 延长器 / 注入器；表内「有 Utepo 的、丰润达的工业 FS，很多配件，商业 PoE 自己的型号」）；群发 2 次无回复。
+- **类型**：安防分销网店 + 自有型号商业 PoE（OEM 采购）
+- **在卖/在用品牌**：Dahua, Utepo, 丰润达
 - **【官网快照】官网标题：Оборудование для систем видеонаблюдения и безопасности, ТОРУС；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Интернет-магазин «Торус» является официальным поставщиком оборудования видеонаблюдения и безопасности, широкий спектр брендов, гарантия на продукцию, склады в 11 крупных регионах, техническая поддержка
   > 来源：https://tdtorus.ru/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】视频监控与安防设备官方供应商，11 个大区仓库**
+  > Интернет-магазин «Торус» является официальным поставщиком оборудования видеонаблюдения и безопасности, широкий спектр брендов, гарантия на продукцию, склады в 11 крупных регионах
+  > 来源：https://tdtorus.ru/（抓取 2026-10-21）
+- **【用户表】Utepo / 丰润达工业 FS，商业 PoE 自有型号**
+  > 有Utepo的 / 有丰润达的工业FS 很多配件 商业POE 自己的型号
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 俄罗斯 |
 | 其他 | 官网 tdtorus.ru，语言 ru，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 俄罗斯；contact: sales@tdtorus.ru
+- **业务线**：视频监控与安防设备分销（多品牌，俄罗斯全国仓网）；自有型号商业 PoE 交换机
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Dahua | DH-CS4010-8ET2GT-110 | 8 口百兆 PoE + 2 GE 上联 110W | STC-28DGGPM（千兆升级位）/ STC-028GP（HRUI 列表价 $24.2） | https://tdtorus.ru/（2026-10-21） |
+
+- **触达通道（公开）**：role: 安防分销网店 + 自有型号商业 PoE（OEM 采购）；region: 俄罗斯；contact: sales@tdtorus.ru
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://tdtorus.ru/）
-  - 安防品牌：Dahua → PoE 配套切入
-  - 官网公开邮箱：sales@tdtorus.ru
-  - 用户表兴趣/备注：有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Alongside the Dahua lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 品类页 /setevoe-oborudovanie/poe-kommutatory、/poe-splitter、/poe-udlinitel、/poe-inzhektor
+  - 站内型号 DH-CS4010-8ET2GT-60/110（Dahua 8 PoE + 2 GE）
+  - 官网：склады в 11 крупных регионах（11 个大区仓库）
+- **风险/边界**：俄罗斯：结算/物流经第三国；非主攻区（T5）；现货源 Utepo / 丰润达：价格基准低；配件类（分离器/延长器/注入器）Saga 无 SKU（Q-32）；无具名 KP（sales@）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32）
+- **邮件切入句（英文）**：For the Torus-branded commercial PoE switches, we build Marvell-based 8-PoE + 2 SFP L2+ and 16/24-PoE models under your label from small lots (neutral packing) — which port count in your own-label range needs a second source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -156,7 +166,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-28DGGPM | 深挖对位：商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（安防分销网店 + 自有型号商业 PoE（OEM 采购）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -210,9 +220,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Dahua lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Torus-branded commercial PoE switches, we build Marvell-based 8-PoE + 2 SFP L2+ and 16/24-PoE models under your label from small lots (neutral packing) — which port count in your own-label range needs a second source first?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Dahua DH-CS4010-8ET2GT-110 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

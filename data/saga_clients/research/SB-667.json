@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（opl-sfp.by，快照 2026-10-21）",
- "summary": "白俄罗斯电商/网店：官网「Сетевые устройства OPL」（ru）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie；站内型号：RJ-45、IEEE802、RS485、AC100-240V；表内「Bypass模块 / from: 阿里巴巴询盘」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "白俄罗斯 OPATOV / OPL（opl-sfp.by 网店「Сетевые устройства OPL」：网络设备、跳线制作、电信网络建设服务；站内 SFP 363 / 10G 245 / 2.5G 164 / PoE 308，Ruijie；表内：阿里巴巴询盘 **Bypass 模块**；KP Igor Dashchinski（Director，dia@opatov.ru））；表内无跟进记录。",
+ "type": "网络设备网店 + 电信网络工程（白俄罗斯）",
  "size": "",
  "brands_seen": [
   "Ruijie"
@@ -23,43 +23,65 @@
    "quote": "Bypass模块 / from: 阿里巴巴询盘",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "OPL 网络设备网店：跳线制作、电信网络建设",
+   "quote": "Сетевые устройства OPL ; Изготовление патч-кордов ; Услуги по построению телекоммуникационных сетей",
+   "url": "https://opl-sfp.by/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "阿里巴巴询盘 Bypass 模块",
+   "quote": "Bypass模块；from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Igor Dashchinski",
+   "title": "Director",
+   "email": "dia@opatov.ru",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "白俄罗斯",
   "other": "官网 opl-sfp.by，语言 ru，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络设备网店（SFP / PoE / 10G / 2.5G）",
+  "跳线制作 / 电信网络建设服务"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "网络设备网店 + 电信网络工程（白俄罗斯）",
   "region": "白俄罗斯",
   "contact": "info@opatov.by、dia@opatov.ru"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://opl-sfp.by/）",
-  "在售同口型交换品牌：Ruijie → 直接对位替换",
-  "官网公开邮箱：info@opatov.by",
-  "用户表兴趣/备注：Bypass模块 / from: 阿里巴巴询盘"
+  "官网：Изготовление патч-кордов；Услуги по построению телекоммуникационных сетей",
+  "站内 kw：sfp 363 / poe 308 / 10g 245 / 2.5g 164 / industrial 53",
+  "表内：阿里巴巴询盘 Bypass 模块；KP Igor Dashchinski / Director"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "白俄罗斯：制裁/结算/物流通道受限，需经第三国；非主攻区（T5）",
+  "bypass 机型仅 SmartByte 原型号（4 SFP 版），无 2 SFP 版；MD 中已注明 SmartByte 型号",
+  "SFP 模块/10G 需求 Saga 无价目（Q-32）"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "LT-IS6312GP-4GX8GT-FBP",
   "tier": 20,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电商/网店→20%）"
+  "why": "阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）"
  },
- "email_hook": "Igor, alongside the Ruijie lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?"
 }

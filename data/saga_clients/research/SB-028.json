@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（gwsecurityusa.com，快照 2026-10-21）",
- "summary": "美国安防集成/经销：官网「Security Camera Company | CCTV Company| GW Security」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：GW42-4264NV8-2、GW5037IP、GWCAT100、GWCAT60；表内「用的洪瑞的 商业PoE CCTV产品为主；其他」；群发 38 次、有回复。",
- "type": "安防集成/经销",
+ "summary": "美国加州 GW Security（自有品牌安防摄像机系统：4/8/16/32 通道套装、GW42-4264NV8-2 等 NVR、GWCAT 线缆；表内「用的洪瑞的（HRUI）商业 PoE，CCTV 产品为主」，备注「像是国内平台」；群发 38 次、有回复记录）。",
+ "type": "安防品牌商（自有 GW 系列，PoE 为套装配套；现用 HRUI）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "用的洪瑞的 商业PoE CCTV产品为主；其他",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "自有品牌 CCTV 与安防摄像机公司",
+   "quote": "Choose GW Security, a trusted CCTV and security camera company. Explore high quality residential and commercial security surveillance camera systems",
+   "url": "https://gwsecurityusa.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用 HRUI 商业 PoE，CCTV 为主",
+   "quote": "用的洪瑞的 商业PoE CCTV产品为主",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +43,35 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 gwsecurityusa.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "自有品牌安防摄像机 / NVR 套装（住宅 + 商用）",
+  "配套 PoE 交换机 / 线缆"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防品牌商（自有 GW 系列，PoE 为套装配套；现用 HRUI）",
   "region": "美国",
   "contact": "info@gwsecurityusa.com、sales@gwsecurityusa.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://gwsecurityusa.com/）",
-  "官网公开邮箱：info@gwsecurity.com、info@gwsecurityusa.com、support@gwsecurityusa.com",
-  "用户表兴趣/备注：用的洪瑞的 商业PoE CCTV产品为主；其他"
+  "站内型号 GW42-4264NV8-2 / GW5037IP / GWCAT100 / GW4232N2（自有）",
+  "博客 /2026/06/22/poe-vs-wifi-security-cameras-…（PoE 为主推）",
+  "官网公开邮箱 info@gwsecurity.com / sales@gwsecurityusa.com"
  ],
  "risks": [
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰"
+  "Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型",
+  "表内「像是国内平台」：公司背景可能为华人创办，决策链/供应链在深圳的可能性需核",
+  "38 次群发已有回复：下一封承接上次回复、只问一个问题"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the GW-branded NVR kits, we can add a Marvell-based managed 8-PoE + 2 SFP switch (PoE watchdog, extend mode for long camera runs) under your label from small lots — would a managed PoE option make sense for your 8- and 16-channel kits?"
 }

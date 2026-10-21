@@ -2,7 +2,7 @@
 
 > **评级 B**　|　新西兰　|　档案编号 `SB-271`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **类型**：分销商/批发商（推断）　|　**历史关系**：推送 1 次（2025-09-23 → 2025-09-23）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防批发分销商（新西兰，多品牌）（推断）　|　**历史关系**：推送 1 次（2025-09-23 → 2025-09-23）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-271
@@ -12,14 +12,14 @@ score: 46
 country: 新西兰
 region: 亚太
 website: viewtech.co.nz
-type: 分销商/批发商
+type: 安防批发分销商（新西兰，多品牌）
 tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
 deal: no
 replies: 0
 followups: 1
 first_contact: 2025-09-23
 last_contact: 2025-09-23
-p1: STI-288GP
+p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：新西兰分销商/批发商：官网「Viewtech™ – Safety & Security Suppliers」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内品牌：Milesight、Dahua、Teltonika；站内型号：AX3000、D-PFT1200、PFT1200、DH-CS4006-4ET-60；表内「有Utepo的」；群发 1 次、无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
+- **是谁**：新西兰基督城 Viewtech（安全与安防技术供应商：车辆/车队安全系统设计供应 + 安防批发分销；品牌 Milesight / Dahua / Teltonika / Utepo（表内）；站内 Dahua CS4006-4ET-60、PFT1200；KP Darren Jenkinson（Managing Director）、Matthew Peacey（Commercial Manager，matthew@））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新西兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-23 → 2025-09-23）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：官网快照对位：工业/自动化词频 16、PoE 159 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | viewtech.co.nz（取自域名，公司全名待核） | 推断 |
 | 国家 | 新西兰 | 事实（用户表）|
 | 网站/域名 | viewtech.co.nz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/批发商 | 推断（据兴趣/备注关键词） |
+| 类型 | 安防批发分销商（新西兰，多品牌） | 推断（据兴趣/备注关键词） |
 | 联系人 | Darren Jenkinson / Managing Director / Matthew Peacey / Commercial Manager | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 有Utepo的 | 事实（用户表） |
@@ -65,35 +65,46 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（viewtech.co.nz，快照 2026-10-21）
-- **是谁**：新西兰分销商/批发商：官网「Viewtech™ – Safety & Security Suppliers」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE；站内品牌：Milesight、Dahua、Teltonika；站内型号：AX3000、D-PFT1200、PFT1200、DH-CS4006-4ET-60；表内「有Utepo的」；群发 1 次、无回复。
-- **类型**：分销商/批发商
-- **在卖/在用品牌**：Milesight, Dahua, Teltonika
+- **是谁**：新西兰基督城 Viewtech（安全与安防技术供应商：车辆/车队安全系统设计供应 + 安防批发分销；品牌 Milesight / Dahua / Teltonika / Utepo（表内）；站内 Dahua CS4006-4ET-60、PFT1200；KP Darren Jenkinson（Managing Director）、Matthew Peacey（Commercial Manager，matthew@））；表内 1 次跟进无回复。
+- **类型**：安防批发分销商（新西兰，多品牌）
+- **在卖/在用品牌**：Milesight, Dahua, Teltonika, Utepo
 - **【官网快照】官网标题：Viewtech™ – Safety & Security Suppliers；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE**
   > Viewtech is a safety and security technology supplier based in Christchurch, New Zealand. We specialise in system design and supply for vehicle and fleet safety, and wholesale distribution for the security trade.
   > 来源：https://viewtech.co.nz/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】基督城安全与安防技术供应商：车辆/车队安全 + 安防批发**
+  > Viewtech is a safety and security technology supplier based in Christchurch, New Zealand. We specialise in system design and supply for vehicle and fleet safety, and wholesale distribution for the sec…
+  > 来源：https://viewtech.co.nz/（抓取 2026-10-21）
+- **【用户表】有 Utepo**
+  > 有Utepo的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Matthew Peacey（）matthew@viewtech.co.nz 〔用户表〕
+- **KP**：Darren Jenkinson（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 新西兰 |
 | 其他 | 官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/批发商；region: 新西兰；contact: sales@viewtech.co.nz、matthew@viewtech.co.nz
+- **业务线**：车辆与车队安全系统（设计 / 供应）；安防产品批发分销
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Dahua | DH-CS4006-4ET-60 | 4 PoE + 2 上联 非管理 60W | STC-204GP（HRUI 列表价 $20.4，非 SmartByte） | https://viewtech.co.nz/（2026-10-21） |
+
+- **触达通道（公开）**：role: 安防批发分销商（新西兰，多品牌）；region: 新西兰；contact: sales@viewtech.co.nz、matthew@viewtech.co.nz
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://viewtech.co.nz/）
-  - 在售同口型交换品牌：Teltonika → 直接对位替换
-  - 安防品牌：Milesight、Dahua → PoE 配套切入
-  - 官网公开邮箱：sales@viewtech.co.nz
-  - 用户表兴趣/备注：有Utepo的
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-288GP（20% 档）——官网快照对位：工业/自动化词频 16、PoE 159 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Darren, alongside the Milesight / Dahua lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+  - 官网：Technology Solution Distributors；We Distribute High Quality Products
+  - 站内品牌 Milesight / Dahua / Teltonika；型号 DH-CS4006-4ET-60 / PFT1200
+  - KP：Darren Jenkinson / MD；Matthew Peacey / Commercial Manager（表内）
+- **风险/边界**：车辆/车队安全线：Saga 无 E-mark、不做车载 → 只报固定安装场景；新西兰（T5）：RCM 合规由客户申报；小市场量小
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）
+- **邮件切入句（英文）**：Matthew, next to the Utepo and Dahua PoE switches you wholesale, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and a budget 4/8-port unmanaged PoE line in neutral packing from small lots — which price band do your installers buy most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -140,7 +151,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Darren Jenkinson | — | sales@viewtech.co.nz / matthew@viewtech.co.nz | 用户表原值 | Clients/ 表 |
+| Matthew Peacey | — | matthew@viewtech.co.nz | 调研核实（公开页） | 用户表 |
+| Darren Jenkinson | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -157,18 +169,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：官网快照对位：工业/自动化词频 16、PoE 159 → DIN 8 PoE+ 2 SFP 起手（来源：官网快照；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/批发商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防批发分销商（新西兰，多品牌）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -176,9 +187,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -206,21 +217,25 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Darren,
+Hi Matthew,
 
-Picking up our earlier exchange about PoE / industrial switches. Darren, alongside the Milesight / Dahua lines you carry, we supply the Marvell-based DIN-rail 8-port gigabit PoE+ industrial switch with 2 SFP (−40~75 °C) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Matthew, next to the Utepo and Dahua PoE switches you wholesale, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and a budget 4/8-port unmanaged PoE line in neutral packing from small lots — which price band do your installers buy most?
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Dahua DH-CS4006-4ET-60 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

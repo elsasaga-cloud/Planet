@@ -2,7 +2,7 @@
 
 > **评级 B**　|　台湾　|　档案编号 `SB-418`　|　优先级 ★★　|　状态：已推送 9 次·未回复
 >
-> **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：推送 9 次（2025-10-23 → 2025-10-23）　|　**所在清单**：A已回复、A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）（推断）　|　**历史关系**：推送 9 次（2025-10-23 → 2025-10-23）　|　**所在清单**：A已回复、A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-418
@@ -12,15 +12,15 @@ score: 41
 country: 台湾
 region: 亚太
 website: ctcu.com.tw
-type: 工业自动化/IoT 方案商
+type: 台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）
 tier_tags: ["A已回复", "A台湾名单"]
 deal: no
 replies: 0
 followups: 9
 first_contact: 2025-10-23
 last_contact: 2025-10-23
-p1: none
-price_tier: 25%
+p1: STI-288GPM
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾工业自动化/IoT 方案商：官网「主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。」（zh-TW）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：EN50155、FRM220、EN45545-2、QSW-4624CM；表内「和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.」；群发 9 次、有回复。（调研 2026-10-21；表内兴趣：和公司产品线接近 有多功能VC 可以再调查一下）
+- **是谁**：台湾主向位科技 CTC Union（1993 年成立的网络通信产品制造商：L2/L3 管理交换机、TDM、MC、工业交换机、PoE 供电器；EN50155 / IEC 61850-3 / E-Mark 认证型；热门品 IGR-A804SM 资安强化 PoE、QSW-4624CM 2.5G；表内「和公司产品线接近，有多功能 VC，可再调查」，已有回复；KP Gary、總經理室 / 產品企劃處邮箱）。（调研 2026-10-21；表内兴趣：和公司产品线接近 有多功能VC 可以再调查一下）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 9 次（2025-10-23 → 2025-10-23）；最近一次客户回复：2025-10-23：CC了
-- **P1（下一步唯一主推）**：— — 深挖对位：VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；—
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：产品线与 Saga 高度重叠（含 VC）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；其 EN50155/61850 认证型 Saga 不做；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | CTCU | 事实（用户表） |
 | 国家 | 台湾 | 事实（用户表）|
 | 网站/域名 | ctcu.com.tw / ctcu.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 工业自动化/IoT 方案商 | 推断（据兴趣/备注关键词） |
+| 类型 | 台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供） | 推断（据兴趣/备注关键词） |
 | 联系人 | Gary | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 和公司产品线接近 有多功能VC<br>可以再调查一下 | 事实（用户表） |
@@ -55,32 +55,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（ctcu.com.tw，快照 2026-10-21）
-- **是谁**：台湾工业自动化/IoT 方案商：官网「主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。」（zh-TW）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：EN50155、FRM220、EN45545-2、QSW-4624CM；表内「和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.」；群发 9 次、有回复。
-- **类型**：工业自动化/IoT 方案商
+- **是谁**：台湾主向位科技 CTC Union（1993 年成立的网络通信产品制造商：L2/L3 管理交换机、TDM、MC、工业交换机、PoE 供电器；EN50155 / IEC 61850-3 / E-Mark 认证型；热门品 IGR-A804SM 资安强化 PoE、QSW-4624CM 2.5G；表内「和公司产品线接近，有多功能 VC，可再调查」，已有回复；KP Gary、總經理室 / 產品企劃處邮箱）。
+- **类型**：台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）
 - **【官网快照】官网标题：主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE**
   > 主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體開發系統遵循資安管理規範 IE
   > 来源：https://www.ctcu.com/zh-TW/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】台湾网络通信产品制造商，1993 年成立，EN50155/IEC 61850-3/E-Mark 认证型**
+  > 主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案 … 符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機 … 成立於1993
+  > 来源：https://www.ctcu.com/zh-TW/（抓取 2026-10-21）
+- **【用户表】产品线接近，有多功能 VC**
+  > 和公司产品线接近 有多功能VC 可以再调查一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Gary（）micro-chang@ctcu.com.tw 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 台湾 |
 | 其他 | 官网 ctcu.com.tw，语言 zh-TW，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：工业自动化 / OT 网络；电信 / FTTH / ISP 设备；数据中心 / 企业 IT；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 工业自动化/IoT 方案商；region: 台湾；contact: micro-chang@ctcu.com.tw、ctcgmgroup@ctcu.com.tw
+- **业务线**：L2/L3 管理交换机 / 工业交换机 / MC / TDM / PoE 供电器（自产）
+- **触达通道（公开）**：role: 台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）；region: 台湾；contact: micro-chang@ctcu.com.tw、ctcgmgroup@ctcu.com.tw
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.ctcu.com/zh-TW/）
-  - 官网公开邮箱：sales@ctcu.com
-  - 用户表兴趣/备注：和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）
-- **邮件切入句（英文）**：Gary, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+  - 官网：L3/L2 管理型交换机、PoE 方案、EN50155 / IEC 61850-3 / E-Mark 认证型；成立于 1993
+  - 热门产品 IGR-A804SM（资安强化型 PoE）、QSW-4624CM（2.5G 网管）
+  - KP：Gary；總經理室 ctcgmgroup@、產品企劃處 ctc_pm_group@（表内）
+- **风险/边界**：台湾制造商、产品线重叠：竞争关系大于采购关系；已有回复但未报需求；轨道/电力认证型（EN50155 / IEC 61850-3 / E-Mark）Saga 不做；非主攻区（T5）
+- **Saga 对位结论**：P1 STI-288GPM（30% 档）——产品线与 Saga 高度重叠（含 VC）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；其 EN50155/61850 认证型 Saga 不做
+- **邮件切入句（英文）**：Gary, for the non-certified (non-EN50155/61850) entry industrial PoE models in your catalogue, we can be a second source on a Marvell platform (8-PoE + 2 SFP managed, −40~75 °C) from small lots — is there an entry SKU you would consider dual-sourcing?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -135,7 +142,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gary | — | micro-chang@ctcu.com.tw / ctcgmgroup@ctcu.com.tw | 用户表原值 | Clients/ 表 |
+| Gary | — | micro-chang@ctcu.com.tw | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -152,28 +159,28 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%） | — | 深挖对位；档位 25%（工业自动化/IoT 方案商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：产品线与 Saga 高度重叠（含 VC）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；其 EN50155/61850 认证型 Saga 不做 | $85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 9 次无回复，邮件通道疲劳
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -206,7 +213,7 @@ updated: 2026-10-21
 ```text
 Hi Gary,
 
-Picking up our earlier exchange about PoE / industrial switches. Gary, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Gary, for the non-certified (non-EN50155/61850) entry industrial PoE models in your catalogue, we can be a second source on a Marvell platform (8-PoE + 2 SFP managed, −40~75 °C) from small lots — is there an entry SKU you would consider dual-sourcing?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

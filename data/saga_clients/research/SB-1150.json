@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（alphaelettronica.com，快照 2026-10-21）",
- "summary": "意大利安防集成/经销：官网「Alpha Elettronica - Distribuzione di prodotti e accessori elettronici」（it）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换；站内型号：IEEE802、LL9010、SU2342、CK-001；表内「商业POE为主」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。",
+ "type": "电子产品与配件分销商（意大利）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "商业POE为主",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "1975 年起的电子产品与配件分销",
+   "quote": "Distribuzione di prodotti e accessori elettronici dal 1975.",
+   "url": "https://www.alphaelettronica.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 为主",
+   "quote": "商业POE为主；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,34 +43,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电子产品与配件分销（多媒体 / 电气 / 安防 / 智能家居）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "电子产品与配件分销商（意大利）",
   "region": "意大利",
   "contact": "info@alphaelettronica.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.alphaelettronica.com/）",
-  "官网公开邮箱：johndoe@domain.com",
-  "用户表兴趣/备注：商业POE为主"
+  "品类页 /multimedia/networking/switch.html、/sicurezza/networking/switch-di-rete.html、/elettrico/adattatori/industriali.html",
+  "站内 kw：poe 439 / switch 212 / gigabit 78 / distributor 12"
  ],
- "risks": [],
+ "risks": [
+  "配件型分销（1975 年起，品类极广）：交换机为配套，单品量小",
+  "表内「质量一般」= 现货源低价白牌",
+  "无具名 KP（info@）"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 20,
+  "why": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ctcu.com.tw，快照 2026-10-21）",
- "summary": "台湾工业自动化/IoT 方案商：官网「主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。」（zh-TW）；品类词：工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 光纤 / 媒体转换；站内型号：EN50155、FRM220、EN45545-2、QSW-4624CM；表内「和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.」；群发 9 次、有回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "台湾主向位科技 CTC Union（1993 年成立的网络通信产品制造商：L2/L3 管理交换机、TDM、MC、工业交换机、PoE 供电器；EN50155 / IEC 61850-3 / E-Mark 认证型；热门品 IGR-A804SM 资安强化 PoE、QSW-4624CM 2.5G；表内「和公司产品线接近，有多功能 VC，可再调查」，已有回复；KP Gary、總經理室 / 產品企劃處邮箱）。",
+ "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,44 +21,64 @@
    "quote": "和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "台湾网络通信产品制造商，1993 年成立，EN50155/IEC 61850-3/E-Mark 认证型",
+   "quote": "主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案 … 符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機 … 成立於1993",
+   "url": "https://www.ctcu.com/zh-TW/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "产品线接近，有多功能 VC",
+   "quote": "和公司产品线接近 有多功能VC 可以再调查一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Gary",
+   "title": "（表内联系人）",
+   "email": "micro-chang@ctcu.com.tw",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "台湾",
   "other": "官网 ctcu.com.tw，语言 zh-TW，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "L2/L3 管理交换机 / 工业交换机 / MC / TDM / PoE 供电器（自产）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
   "region": "台湾",
   "contact": "micro-chang@ctcu.com.tw、ctcgmgroup@ctcu.com.tw"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ctcu.com/zh-TW/）",
-  "官网公开邮箱：sales@ctcu.com",
-  "用户表兴趣/备注：和公司产品线接近 有多功能VC 可以再调查一下；總經理室 ctcgmgroup@ctcu.com.tw 產品企劃處 ctc_pm_group@ctcu.com.tw"
+  "官网：L3/L2 管理型交换机、PoE 方案、EN50155 / IEC 61850-3 / E-Mark 认证型；成立于 1993",
+  "热门产品 IGR-A804SM（资安强化型 PoE）、QSW-4624CM（2.5G 网管）",
+  "KP：Gary；總經理室 ctcgmgroup@、產品企劃處 ctc_pm_group@（表内）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "台湾制造商、产品线重叠：竞争关系大于采购关系；已有回复但未报需求",
+  "轨道/电力认证型（EN50155 / IEC 61850-3 / E-Mark）Saga 不做",
+  "非主攻区（T5）"
  ],
  "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）"
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "产品线与 Saga 高度重叠（含 VC）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；其 EN50155/61850 认证型 Saga 不做"
  },
- "email_hook": "Gary, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Gary, for the non-certified (non-EN50155/61850) entry industrial PoE models in your catalogue, we can be a second source on a Marvell platform (8-PoE + 2 SFP managed, −40~75 °C) from small lots — is there an entry SKU you would consider dual-sourcing?"
 }

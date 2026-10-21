@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（cablematic.com，快照 2026-10-21）",
- "summary": "德国品牌商/贴牌需求（OEM/ODM）：官网「Cablematic」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Cisco；站内型号：RS232、RS422、RS485、DMX512；表内「Bematik牌子 似乎是自己的牌子 MC SFP POE FS 周边产品」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "Cablematic（电脑周边与技术产品分销商，自有品牌 BeMatik；品类：机柜 / 音视频 / 光纤（词频 363）/ 线缆（3048）/ 工业（93）/ 监控；表内「Bematik 牌子似乎是自己的，MC / SFP / PoE / FS / 周边，质量一般」；官网为西班牙公司（Cablematic S.L.，巴塞罗那）而表内记「德国」→ 国别按官网更正，待核）；表内无跟进记录。",
+ "type": "电脑周边分销 + 自有品牌 BeMatik（OEM 采购）",
  "size": "",
  "brands_seen": [
-  "Cisco"
+  "Cisco",
+  "BeMatik"
  ],
  "evidence": [
   {
@@ -23,6 +24,20 @@
    "quote": "Bematik牌子 似乎是自己的牌子 MC SFP POE FS 周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "专注电脑产品与技术的分销商",
+   "quote": "Cablematic is a distributor specialized in computer products and technology. We distribute very specific computer peripherals … rack cabinets, audio, video",
+   "url": "https://cablematic.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "BeMatik 自有品牌，MC / SFP / PoE / FS",
+   "quote": "Bematik牌子 似乎是自己的牌子 MC SFP POE FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,35 +46,34 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 cablematic.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电脑周边 / 线缆 / 光纤 / 机柜分销（自有品牌 BeMatik）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
-  "region": "德国",
+  "role": "电脑周边分销 + 自有品牌 BeMatik（OEM 采购）",
+  "region": "西班牙",
   "contact": "info@cablematic.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://cablematic.com/en/）",
-  "官网公开邮箱：info@cablematic.com",
-  "用户表兴趣/备注：Bematik牌子 似乎是自己的牌子 MC SFP POE FS 周边产品"
+  "官网：distributor specialized in computer products and technology … rack cabinets, audio, video",
+  "站内 kw：cable 3048 / fiber 363 / switch 214 / industrial 93 / camera 130"
  ],
- "risks": [],
+ "risks": [
+  "国别：表内「德国」与官网（西班牙 Cablematic S.L.）不符，已按官网改西班牙，待核",
+  "表内「质量一般」= 现货源低价白牌，需以外壳/品质切入",
+  "表内无跟进记录、无具名 KP（info@）"
+ ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有品牌 BeMatik 覆盖 MC / SFP / PoE 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BeMatik 标；工业位 STI-280GE；MC 位 STI-110GE"
  },
- "email_hook": "Alongside the Cisco lines you carry, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "For the BeMatik-branded PoE switches and media converters, we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail gigabit models under your label from small lots, CE/RoHS, neutral packing — which BeMatik SKU is due for a refresh first, the PoE switch or the media converter?",
+ "country_fix": "西班牙"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　白俄罗斯　|　档案编号 `SB-667`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络设备网店 + 电信网络工程（白俄罗斯）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：同行经销商(Dpek)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-667
@@ -12,14 +12,14 @@ score: 42
 country: 白俄罗斯
 region: 俄语区
 website: opl-sfp.by
-type: 电商/网店
+type: 网络设备网店 + 电信网络工程（白俄罗斯）
 tier_tags: ["同行经销商(Dpek)", "询盘流水"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: none
+p1: LT-IS6312GP-4GX8GT-FBP
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：白俄罗斯电商/网店：官网「Сетевые устройства OPL」（ru）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie；站内型号：RJ-45、IEEE802、RS485、AC100-240V；表内「Bypass模块 / from: 阿里巴巴询盘」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
+- **是谁**：白俄罗斯 OPATOV / OPL（opl-sfp.by 网店「Сетевые устройства OPL」：网络设备、跳线制作、电信网络建设服务；站内 SFP 363 / 10G 245 / 2.5G 164 / PoE 308，Ruijie；表内：阿里巴巴询盘 **Bypass 模块**；KP Igor Dashchinski（Director，dia@opatov.ru））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/白俄罗斯；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电商/网店→20%）；—
+- **P1（下一步唯一主推）**：LT-IS6312GP-4GX8GT-FBP — 深挖对位：阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）；$186.5 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT-FBP 1040 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | OPATOV 之前联系过的客户 | 事实（用户表） |
 | 国家 | 白俄罗斯 | 事实（用户表）|
 | 网站/域名 | opl-sfp.by / opatov.by / opatov.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 网络设备网店 + 电信网络工程（白俄罗斯） | 推断（据兴趣/备注关键词） |
 | 联系人 | Igor Dashchinski, Director | 事实（用户表） |
 | 来源（From） | 谷歌 / 2026.7.20 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（opl-sfp.by，快照 2026-10-21）
-- **是谁**：白俄罗斯电商/网店：官网「Сетевые устройства OPL」（ru）；品类词：工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE；站内品牌：Ruijie；站内型号：RJ-45、IEEE802、RS485、AC100-240V；表内「Bypass模块 / from: 阿里巴巴询盘」；表内未见跟进记录。
-- **类型**：电商/网店
+- **是谁**：白俄罗斯 OPATOV / OPL（opl-sfp.by 网店「Сетевые устройства OPL」：网络设备、跳线制作、电信网络建设服务；站内 SFP 363 / 10G 245 / 2.5G 164 / PoE 308，Ruijie；表内：阿里巴巴询盘 **Bypass 模块**；KP Igor Dashchinski（Director，dia@opatov.ru））；表内无跟进记录。
+- **类型**：网络设备网店 + 电信网络工程（白俄罗斯）
 - **在卖/在用品牌**：Ruijie
 - **【官网快照】官网标题：Сетевые устройства OPL；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Интернет-магазин
@@ -64,25 +64,31 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > Bypass模块 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】OPL 网络设备网店：跳线制作、电信网络建设**
+  > Сетевые устройства OPL ; Изготовление патч-кордов ; Услуги по построению телекоммуникационных сетей
+  > 来源：https://opl-sfp.by/（抓取 2026-10-21）
+- **【用户表】阿里巴巴询盘 Bypass 模块**
+  > Bypass模块；from: 阿里巴巴询盘
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Igor Dashchinski（）dia@opatov.ru 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 白俄罗斯 |
 | 其他 | 官网 opl-sfp.by，语言 ru，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：工业自动化 / OT 网络；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 电商/网店；region: 白俄罗斯；contact: info@opatov.by、dia@opatov.ru
+- **业务线**：网络设备网店（SFP / PoE / 10G / 2.5G）；跳线制作 / 电信网络建设服务
+- **触达通道（公开）**：role: 网络设备网店 + 电信网络工程（白俄罗斯）；region: 白俄罗斯；contact: info@opatov.by、dia@opatov.ru
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://opl-sfp.by/）
-  - 在售同口型交换品牌：Ruijie → 直接对位替换
-  - 官网公开邮箱：info@opatov.by
-  - 用户表兴趣/备注：Bypass模块 / from: 阿里巴巴询盘
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电商/网店→20%）
-- **邮件切入句（英文）**：Igor, alongside the Ruijie lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+  - 官网：Изготовление патч-кордов；Услуги по построению телекоммуникационных сетей
+  - 站内 kw：sfp 363 / poe 308 / 10g 245 / 2.5g 164 / industrial 53
+  - 表内：阿里巴巴询盘 Bypass 模块；KP Igor Dashchinski / Director
+- **风险/边界**：白俄罗斯：制裁/结算/物流通道受限，需经第三国；非主攻区（T5）；bypass 机型仅 SmartByte 原型号（4 SFP 版），无 2 SFP 版；MD 中已注明 SmartByte 型号；SFP 模块/10G 需求 Saga 无价目（Q-32）
+- **Saga 对位结论**：P1 LT-IS6312GP-4GX8GT-FBP（20% 档）——阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）
+- **邮件切入句（英文）**：Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,7 +128,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Igor Dashchinski, Director | — | info@opatov.by / dia@opatov.ru | 用户表原值 | Clients/ 表 |
+| Igor Dashchinski | — | dia@opatov.ru | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -140,7 +146,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电商/网店→20%） | — | 深挖对位；档位 20%（电商/网店） |
+| **P1** | LT-IS6312GP-4GX8GT-FBP | 深挖对位：阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2） | $186.5 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT-FBP 1040 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络设备网店 + 电信网络工程（白俄罗斯）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -149,9 +155,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（LT-IS6312GP-4GX8GT-FBP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 LT-IS6312GP-4GX8GT-FBP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -161,7 +167,7 @@ updated: 2026-10-21
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 LT-IS6312GP-4GX8GT-FBP 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -195,7 +201,7 @@ updated: 2026-10-21
 ```text
 Hi Igor,
 
-Picking up our earlier exchange about PoE / industrial switches. Igor, alongside the Ruijie lines you carry, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

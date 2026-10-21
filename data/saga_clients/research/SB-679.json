@@ -3,11 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（apolloinfoways.in，快照 2026-10-21）",
- "summary": "印度安防集成/经销：官网「WatchDog | Enterprise Networking, Data Center, Cloud & Security」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT；站内品牌：Ubiquiti；站内型号：QSFP28、WD6822-24X6H、WD6822-48X6H、WD5890；表内「买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。",
+ "type": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
  "size": "",
  "brands_seen": [
-  "Ubiquiti"
+  "Ubiquiti",
+  "丰润达",
+  "AOA"
  ],
  "evidence": [
   {
@@ -23,47 +25,64 @@
    "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "WatchDog：企业网络 / 数据中心 / 云 / 无线 / 安全 / 自动化方案",
+   "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
+   "url": "https://www.mywatchdog.in/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "买丰润达商业 PoE、AOA 工业 FS",
+   "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ravi Prakash",
+   "title": "Founder & CEO",
+   "email": "ravi@apolloinfoways.in",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "印度",
   "other": "官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "企业网络 / 数据中心 / 安全（自有品牌 WatchDog）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
   "region": "印度",
   "contact": "ravi@apolloinfoways.in、info@apolloinfoways.in"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.mywatchdog.in/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：info@mywatchdog.in",
-  "用户表兴趣/备注：买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED"
+  "站内型号 WD6822-24X6H / WD6822-48X6H / WD5890 / WD25000AI（自有）",
+  "官网：Enterprise Networking, Data Center, Cloud & Security；品类 Switch / Router / Wireless / Server / Firewall / SFP",
+  "KP：Ravi Prakash / Founder & CEO（表内）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "印度 BIS 认证：由客户以其品牌取证（Saga 提供测试报告）",
+  "现供应商丰润达 / AOA：价格基准低；非主攻区（T5）",
+  "数据中心级（WD6822 24×10G + 6×100G）Saga 不做"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "现从丰润达采购商业 PoE、AOA 工业 FS → Saga 作 Marvell 平台二供：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchDog 标；24 口 STC-424DGGPM-280W；10G 汇聚 STC-424XGGM；数据中心 WD6822（24×10G/6×100G）Saga 不做"
  },
- "email_hook": "Ravi, alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?"
 }
