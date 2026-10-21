@@ -3,15 +3,17 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ivolta.pl，快照 2026-10-21）",
- "summary": "波兰安防集成/经销：官网「Systemy alarmowe i monitoringu CCTV | Sklep iVolta.pl」（pl）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Hikvision、Uniview、Dahua、Ajax、Bosch；站内型号：DS-2CD20123G2-LIUY、DS-2CD1047G3-LIU、NEMA-4X、IP-64；表内「PoE交换机 很多摄像头 很多牌子的产品 有utepo的」；表内未见跟进记录。",
- "type": "安防集成/经销",
+ "summary": "波兰 iVolta.pl（报警与 CCTV 网店：SATEL、Hikvision、Uniview、Dahua、Ajax、Bosch；表内「PoE 交换机，很多摄像头，很多牌子的产品，有 Utepo 的」「质量一般」）；表内未跟进。",
+ "type": "安防网店（波兰，Utepo 在售）",
  "size": "",
  "brands_seen": [
   "Hikvision",
   "Uniview",
   "Dahua",
   "Ajax",
-  "Bosch"
+  "Bosch",
+  "Utepo",
+  "SATEL"
  ],
  "evidence": [
   {
@@ -27,6 +29,20 @@
    "quote": "PoE交换机 很多摄像头 很多牌子的产品 有utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "iVolta 定位",
+   "quote": "Systemy alarmowe i monitoringu CCTV | Sklep iVolta.pl ; oferujemy sprawdzone systemy alarmowe i monitoringu CCTV",
+   "url": "https://ivolta.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "PoE 交换机；有 Utepo 的",
+   "quote": "PoE交换机  很多摄像头 很多牌子的产品 有utepo的；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -35,32 +51,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 ivolta.pl，语言 pl，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "报警 / CCTV 网店"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防网店（波兰，Utepo 在售）",
   "region": "波兰",
   "contact": "kontakt@ivolta.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ivolta.pl/）",
-  "安防品牌：Hikvision、Uniview、Dahua、Ajax → PoE 配套切入",
-  "官网公开邮箱：hsrc@hikvision.com、info.pl@hikvision.com、kontakt@ivolta.pl",
-  "用户表兴趣/备注：PoE交换机 很多摄像头 很多牌子的产品 有utepo的"
+  "官网：W sklepie iVolta.pl oferujemy sprawdzone systemy alarmowe i monitoringu CCTV；kw hikvision 76 / nvr 25 / uniview 15 / dahua 12 / poe 10",
+  "表内：PoE 交换机 很多摄像头 很多牌子的产品 有 utepo 的；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "网店/多品牌（Hikvision 自带 PoE）；现售 Utepo 价格基准低；表内「质量一般」；仅 kontakt@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
  },
- "email_hook": "Alongside the Hikvision / Uniview lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alongside the Utepo PoE switches in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?"
 }

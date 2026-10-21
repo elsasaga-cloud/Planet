@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（techfors.cz，快照 2026-10-21）",
- "summary": "捷克安防集成/经销：官网「Techfors CZ s.r.o.」（cz）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：ATS8600、EV1116、TC-C34LP、BS130N；表内「IFS这个牌子 工业FS MC CCTV」；群发 8 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "捷克 Techfors CZ s.r.o.（CCTV/安防分销：IFS（Interlogix）品牌、PoE、NVR、门禁 ATS8600；表内「IFS 这个牌子，工业 FS MC CCTV」「可以尝试多跟进一下」）；群发 8 次无回复。",
+ "type": "安防分销商（捷克，IFS 工业 FS 在售）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "IFS"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "IFS这个牌子 工业FS MC CCTV",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Techfors 站点",
+   "quote": "Techfors CZ s.r.o. ; /cctv/site-data/poe/ ; ATS8600",
+   "url": "https://www.techfors.cz/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "IFS 工业 FS MC CCTV",
+   "quote": "IFS这个牌子  工业FS MC CCTV；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,32 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "捷克",
   "other": "官网 techfors.cz，语言 cz，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "CCTV / 安防分销（IFS 等）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防分销商（捷克，IFS 工业 FS 在售）",
   "region": "捷克",
   "contact": "firma@techfors.cz"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.techfors.cz/）",
-  "官网公开邮箱：firma@techfors.cz",
-  "用户表兴趣/备注：IFS这个牌子 工业FS MC CCTV",
-  "表内早期 AI 描述（未核实）：捷克工业网络设备销售商，主营工业交换机、光模块和监控网络设备"
+  "页面 /cctv/site-data/poe/；站内 ATS8600 / EV1116 / TC-C34LP；kw cctv 50 / nvr 11 / poe 7",
+  "表内：IFS 这个牌子 工业 FS MC CCTV；可以尝试多跟进一下"
  ],
- "risks": [],
+ "risks": [
+  "IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）"
  },
- "email_hook": "We supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Alongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?"
 }

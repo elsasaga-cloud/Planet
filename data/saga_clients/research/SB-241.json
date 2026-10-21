@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（teslanetworks.be，快照 2026-10-21）",
- "summary": "比利时工业自动化/IoT 方案商：官网「Tesla Networks」（nl）；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；产品页：industrial-iot、industrial-wap、industrial-serial、ethernet-switches；表内「主要是Oring的工业系列」；群发 7 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "比利时 Tesla Networks（30+ 年「Connecting people and machines」：定制天线与专业网络设备，工业 IoT / 工业 WAP / 工业串口 / 以太网交换机栏目；表内「主要是 ORing 的工业系列」；KP Bart Pen（CEO）、Ashwin Taeye（Project Manager））；表内 7 次跟进无回复。",
+ "type": "工业网络/天线分销商（比利时，ORing 为主）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "ORing"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,41 +23,68 @@
    "quote": "主要是Oring的工业系列",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Tesla Networks 定位",
+   "quote": "Home | Tesla Networks ; Tesla Networks offers fully customizable antennas and networking equipment ; Connecting people and machines for over 30 years ; /ethernet-switches",
+   "url": "https://www.teslanetworks.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要是 ORing 工业系列",
+   "quote": "主要是Oring的工业系列",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ashwin Taeye",
+   "title": "Project Manager",
+   "email": "info@teslanetworks.be",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Bart Pen",
+   "title": "CEO",
+   "email": "bart@teslanetworks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "比利时",
   "other": "官网 teslanetworks.be，语言 nl，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "天线 / 工业网络设备分销（比利时）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业网络/天线分销商（比利时，ORing 为主）",
   "region": "比利时",
   "contact": "info@teslanetworks.be、bart@teslanetworks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.teslanetworks.com）",
-  "官网公开邮箱：info@teslanetworks.com",
-  "用户表兴趣/备注：主要是Oring的工业系列"
+  "页面 /industrial-iot、/industrial-wap、/industrial-serial、/ethernet-switches；首页 Connecting people and machines for over 30 years ; All the antennas you need",
+  "表内：主要是 Oring 的工业系列；KP Bart Pen / CEO；Ashwin Taeye / Project Manager"
  ],
- "risks": [],
+ "risks": [
+  "ORing（台湾）为既定主线，白牌仅预算补位；7 次无回复 → 改向 Project Manager 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "现售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）作预算线；4 PoE STI-154GP（$37.7）"
  },
- "email_hook": "Bart, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Ashwin, alongside the ORing industrial switches you supply with your antennas and WAPs, we offer Marvell-based DIN-rail 4-PoE, 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a budget industrial position your customers ask for below ORing?"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-175`　|　优先级 ★★　|　状态：已推送 14 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 14 次（2024-05-30 → 2025-10-17）　|　**所在清单**：A优质名单(DE)、AI评估(DE)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）（推断）　|　**历史关系**：推送 14 次（2024-05-30 → 2025-10-17）　|　**所在清单**：A优质名单(DE)、AI评估(DE)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-175
@@ -12,7 +12,7 @@ score: 49
 country: 德国
 region: 欧洲
 website: frogfish.de
-type: 安防集成/经销
+type: 德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）
 tier_tags: ["A优质名单(DE)", "AI评估(DE)·DONE"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 14
 first_contact: 2024-05-30
 last_contact: 2025-10-17
 p1: STC-28DGGPM
-price_tier: 20%
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德国安防集成/经销：官网「frogfish surveillance GmbH」（en）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：id-8port-gigabit-poe-2sfp-switch.html、id-16port-gigabit-poe-1sfp-switch.html、id-24port-gigabit-poe-2sfp-switch.html、poe_injector.html；表内「主要是CCTV 洪瑞的商业PoE」；群发 14 次、无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 洪瑞的商业PoE）
+- **是谁**：德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 洪瑞的商业PoE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-05-30 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | frogfish.de（取自域名，公司全名待核） | 推断 |
 | 国家 | 德国 | 事实（用户表）|
 | 网站/域名 | frogfish.de | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以着重跟一下 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 主要是CCTV 洪瑞的商业PoE | 事实（用户表） |
@@ -65,32 +65,44 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（frogfish.de，快照 2026-10-21）
-- **是谁**：德国安防集成/经销：官网「frogfish surveillance GmbH」（en）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：id-8port-gigabit-poe-2sfp-switch.html、id-16port-gigabit-poe-1sfp-switch.html、id-24port-gigabit-poe-2sfp-switch.html、poe_injector.html；表内「主要是CCTV 洪瑞的商业PoE」；群发 14 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。
+- **类型**：德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）
+- **在卖/在用品牌**：HRUI
 - **【官网快照】官网标题：frogfish surveillance GmbH；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE**
   > personalize your security；Surveillance Robot；Highlight Products；Bullet Premium Camera 5MP；Bullet Premium Camera 8MP；Fisheye Premium Camera 12MP
   > 来源：https://frogfish.de/en/index.html（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 主要是CCTV 洪瑞的商业PoE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】frogfish 产品页**
+  > Home - frogfish surveillance GmbH ; personalize your security ; /de/index/id-8port-gigabit-poe-2sfp-switch.html ; /de/index/id-24port-gigabit-poe-2sfp-switch.html
+  > 来源：https://frogfish.de/en/index.html（抓取 2026-10-21）
+- **【用户表】CCTV；HRUI 商业 PoE；着重跟**
+  > 主要是CCTV 洪瑞的商业PoE；可以着重跟一下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 德国 |
 | 其他 | 官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 德国；contact: info@frogfish.de
+- **业务线**：CCTV 摄像机 / 安防机器人（自有品牌 frogfish）；配套 PoE 交换机（HRUI 贴标）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| frogfish（自有，HRUI 贴标） | 8port gigabit PoE 2SFP switch | 8 口千兆 PoE + 2 SFP | STC-28DGGPM（Marvell L2+ 差异化） | https://frogfish.de/en/index.html（2026-10-21） |
+| frogfish（自有） | 24port gigabit PoE 2SFP switch | 24 口千兆 PoE + 2 SFP | STC-424DGGPM-280W | https://frogfish.de/en/index.html（2026-10-21） |
+
+- **触达通道（公开）**：role: 德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）；region: 德国；contact: info@frogfish.de
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://frogfish.de/en/index.html）
-  - 官网公开邮箱：info@frogfish-usa.com、info@frogfish.de
-  - 用户表兴趣/备注：主要是CCTV 洪瑞的商业PoE
-- **风险/边界**：群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）；表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 页面 /de/index/id-8port-gigabit-poe-2sfp-switch.html、/id-16port-gigabit-poe-1sfp-switch.html、/id-24port-gigabit-poe-2sfp-switch.html、/de/zubehoer/poe_injector.html；首页 personalize your security ; Surveillance Robot
+  - 表内：主要是 CCTV 洪瑞的商业 PoE；可以着重跟一下
+- **风险/边界**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供；14 次无回复，仅 info@；用户标「着重跟」
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）
+- **邮件切入句（英文）**：For the frogfish-branded PoE switch range, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS, extend mode) in your packaging from small lots alongside your current line, CE/RoHS — would a managed option fit your Premium camera kits?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -160,9 +172,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -172,15 +184,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：欧洲主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 14 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -213,9 +225,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the frogfish-branded PoE switch range, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS, extend mode) in your packaging from small lots alongside your current line, CE/RoHS — would a managed option fit your Premium camera kits?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your frogfish（自有，HRUI 贴标） 8port gigabit PoE 2SFP switch at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

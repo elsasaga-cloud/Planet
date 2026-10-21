@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "快照失败（http_error）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网快照失败（http_error）；表内「光路的10GMC SFP 商业FS 少部分工业FS 自己的logo」；群发 18 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。",
+ "type": "光纤产品品牌商（美国，自有标 FS/MC）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -14,39 +14,69 @@
    "quote": "光路的10GMC SFP 商业FS 少部分工业FS 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "10G MC SFP 商业 FS 自己的 logo",
+   "quote": "光路的10GMC SFP 商业FS 少部分工业FS 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ken Misterka",
+   "title": "VP Purchasing",
+   "email": "sales@fiberdyne.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jeremy Nulty",
+   "title": "International Sales Director",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Peter Polus",
+   "title": "（职务待核）",
+   "email": "peter@fiberdyne.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 fiberdyne.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "光纤产品 / 交换机（自有品牌 Fiberdyne）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "光纤产品品牌商（美国，自有标 FS/MC）",
   "region": "美国",
   "contact": "sales@fiberdyne.com、peter@fiberdyne.com"
  },
  "signals": [
-  "用户表兴趣/备注：光路的10GMC SFP 商业FS 少部分工业FS 自己的logo"
+  "表内：光路的 10G MC SFP 商业 FS 少部分工业 FS 自己的 logo；KP Jeremy Nulty / International Sales Director；Ken Misterka / VP Purchasing；Peter Polus",
+  "快照：fiberdyne.com http_error"
  ],
  "risks": [
-  "官网快照失败（http_error）：域名/证书待核，邮件可能退回",
-  "群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "官网快照 HTTP 错误（站点待核）；核心需求 10G MC/SFP Saga 不供",
+  "18 次无回复 → 改向 VP Purchasing 具名首触"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "24 口 PoE + 4×10G 上联（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）"
  },
- "email_hook": "Peter, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4×10G SFP+ uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?"
 }

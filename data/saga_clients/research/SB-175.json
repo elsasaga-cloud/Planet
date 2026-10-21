@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（frogfish.de，快照 2026-10-21）",
- "summary": "德国安防集成/经销：官网「frogfish surveillance GmbH」（en）；品类词：安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：id-8port-gigabit-poe-2sfp-switch.html、id-16port-gigabit-poe-1sfp-switch.html、id-24port-gigabit-poe-2sfp-switch.html、poe_injector.html；表内「主要是CCTV 洪瑞的商业PoE」；群发 14 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。",
+ "type": "德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "HRUI"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,6 +23,20 @@
    "quote": "主要是CCTV 洪瑞的商业PoE",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "frogfish 产品页",
+   "quote": "Home - frogfish surveillance GmbH ; personalize your security ; /de/index/id-8port-gigabit-poe-2sfp-switch.html ; /de/index/id-24port-gigabit-poe-2sfp-switch.html",
+   "url": "https://frogfish.de/en/index.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "CCTV；HRUI 商业 PoE；着重跟",
+   "quote": "主要是CCTV 洪瑞的商业PoE；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,35 +45,51 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 frogfish.de，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "CCTV 摄像机 / 安防机器人（自有品牌 frogfish）",
+  "配套 PoE 交换机（HRUI 贴标）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）",
   "region": "德国",
   "contact": "info@frogfish.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://frogfish.de/en/index.html）",
-  "官网公开邮箱：info@frogfish-usa.com、info@frogfish.de",
-  "用户表兴趣/备注：主要是CCTV 洪瑞的商业PoE"
+  "页面 /de/index/id-8port-gigabit-poe-2sfp-switch.html、/id-16port-gigabit-poe-1sfp-switch.html、/id-24port-gigabit-poe-2sfp-switch.html、/de/zubehoer/poe_injector.html；首页 personalize your security ; Surveillance Robot",
+  "表内：主要是 CCTV 洪瑞的商业 PoE；可以着重跟一下"
  ],
  "risks": [
-  "群发 14 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰"
+  "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供",
+  "14 次无回复，仅 info@；用户标「着重跟」"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the frogfish-branded PoE switch range, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS, extend mode) in your packaging from small lots alongside your current line, CE/RoHS — would a managed option fit your Premium camera kits?",
+ "products_seen": [
+  {
+   "brand": "frogfish（自有，HRUI 贴标）",
+   "model": "8port gigabit PoE 2SFP switch",
+   "spec": "8 口千兆 PoE + 2 SFP",
+   "saga": "STC-28DGGPM（Marvell L2+ 差异化）",
+   "url": "https://frogfish.de/en/index.html",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "frogfish（自有）",
+   "model": "24port gigabit PoE 2SFP switch",
+   "spec": "24 口千兆 PoE + 2 SFP",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://frogfish.de/en/index.html",
+   "date": "2026-10-21"
+  }
+ ]
 }

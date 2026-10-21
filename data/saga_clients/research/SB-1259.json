@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（tramaweb.com.br，快照 2026-10-21）",
- "summary": "巴西品牌商/贴牌需求（OEM/ODM）：官网「Grupo Trama Reputale | Agência de Comunicação Corporativa em SP」（pt-BR）；品类词：电信 / FTTH / ISP 设备；产品页：workshop-comunicacao-para-a-lideranca、exposicao-marca-alem-produto、producao-conteudo-valor-marcas、mais-que-um-produto-um-personagem；表内「MC FS 自己的logo 别人在卖他们的MC」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "巴西 tramaweb.com.br（官网快照为公关传播公司 Grupo Trama Reputale（1995 年起公共关系/数字营销），与表内「MC FS 自己的 logo，别人在卖他们的 MC，很多周边产品」业务不符——站点错配/域名易主待核；KP Fabio）；表内未跟进。",
+ "type": "待核实体（巴西，MC 自有标；站点错配）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,63 @@
    "quote": "MC FS 自己的logo 别人在卖他们的MC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "tramaweb 快照（错配）",
+   "quote": "Grupo Trama Reputale | Agência de Comunicação Corporativa em SP ; formado pela Trama Comunicação, fundada em 1995",
+   "url": "https://www.tramaweb.com.br/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC FS 自己的 logo",
+   "quote": "MC FS 自己的logo 别人在卖他们的MC；很多周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Fabio",
+   "title": "（姓氏/职务待核）",
+   "email": "fabio@tramaweb.com.br",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "巴西",
   "other": "官网 tramaweb.com.br，语言 pt-BR，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备"
+  "（待核）MC / 网络配件"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "待核实体（巴西，MC 自有标；站点错配）",
   "region": "巴西",
   "contact": "fabio@tramaweb.com.br"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.tramaweb.com.br/）",
-  "官网公开邮箱：adm@tramaweb.com.br",
-  "用户表兴趣/备注：MC FS 自己的logo 别人在卖他们的MC"
+  "快照：Grupo Trama Reputale | Agência de Comunicação Corporativa em SP ; Relações Públicas, Comunicação Interna e Marketing Digital",
+  "表内：MC FS 自己的 logo 别人在卖他们的 MC；很多周边产品；KP fabio@"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）",
+  "非主攻区（T5，巴西）；未跟进过"
  ],
  "saga_fit": {
   "p1": "STI-110GE",
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Fabio, for the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?",
+ "site_mismatch": true
 }

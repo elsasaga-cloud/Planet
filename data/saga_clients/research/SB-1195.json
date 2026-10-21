@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（grinsrl.it，快照 2026-10-21）",
- "summary": "意大利工业自动化/IoT 方案商：官网「Grin Srl | Energia versatile」（it-IT）；品类词：工业自动化 / OT 网络 / 数据中心 / 企业 IT；站内品牌：Siemens；表内「switch」；表内未见跟进记录。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "意大利 Grin Srl（「Energia versatile」电气仪表安装商：4 个行业领域、Siemens 合作伙伴、工业/SCADA；表内「switch」「质量一般」）；表内未跟进。",
+ "type": "电气仪表安装商（意大利，网络为边缘品类）",
  "size": "",
  "brands_seen": [
   "Siemens"
@@ -23,6 +23,20 @@
    "quote": "switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Grin 首页",
+   "quote": "Grin Srl | Energia versatile ; Installazioni elettrostrumentali ; Competenze per 4 settori di attività",
+   "url": "https://www.grinsrl.it/?page_id=7&lang=it",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch",
+   "quote": "switch；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,32 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 grinsrl.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "数据中心 / 企业 IT"
+  "电气仪表安装（工业 / 能源）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "电气仪表安装商（意大利，网络为边缘品类）",
   "region": "意大利",
   "contact": "info@grinsrl.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.grinsrl.it/?page_id=7&lang=it）",
-  "在售工业网络品牌：Siemens → 工业线对位",
-  "官网公开邮箱：info@grinsrl.it",
-  "用户表兴趣/备注：switch"
+  "首页 Installazioni elettrostrumentali ; Competenze per 4 settori di attività ; Partners；站内品牌 Siemens；kw industrial 11",
+  "表内：switch；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "电气安装为主（交换机为边缘品类，量小）；表内「质量一般」；仅 info@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STI-280GE",
   "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）"
  },
- "email_hook": "Alongside the Siemens lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most?"
 }

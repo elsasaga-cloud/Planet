@@ -2,7 +2,7 @@
 
 > **评级 B**　|　巴西　|　档案编号 `SB-1259`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:BR　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：待核实体（巴西，MC 自有标；站点错配）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:BR　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1259
@@ -12,7 +12,7 @@ score: 25
 country: 巴西
 region: 拉美
 website: tramaweb.com.br
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 待核实体（巴西，MC 自有标；站点错配）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:BR"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴西品牌商/贴牌需求（OEM/ODM）：官网「Grupo Trama Reputale | Agência de Comunicação Corporativa em SP」（pt-BR）；品类词：电信 / FTTH / ISP 设备；产品页：workshop-comunicacao-para-a-lideranca、exposicao-marca-alem-produto、producao-conteudo-valor-marcas、mais-que-um-produto-um-personagem；表内「MC FS 自己的logo 别人在卖他们的MC」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：MC FS 自己的logo 别人在卖他们的MC）
+- **是谁**：巴西 tramaweb.com.br（官网快照为公关传播公司 Grupo Trama Reputale（1995 年起公共关系/数字营销），与表内「MC FS 自己的 logo，别人在卖他们的 MC，很多周边产品」业务不符——站点错配/域名易主待核；KP Fabio）；表内未跟进。（调研 2026-10-21；表内兴趣：MC FS 自己的logo 别人在卖他们的MC）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | tramaweb.com.br（取自域名，公司全名待核） | 推断 |
 | 国家 | 巴西 | 事实（用户表）|
 | 网站/域名 | tramaweb.com.br | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 待核实体（巴西，MC 自有标；站点错配） | 推断（据兴趣/备注关键词） |
 | 联系人 | 很多周边产品 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | MC FS<br>自己的logo 别人在卖他们的MC | 事实（用户表） |
@@ -55,32 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（tramaweb.com.br，快照 2026-10-21）
-- **是谁**：巴西品牌商/贴牌需求（OEM/ODM）：官网「Grupo Trama Reputale | Agência de Comunicação Corporativa em SP」（pt-BR）；品类词：电信 / FTTH / ISP 设备；产品页：workshop-comunicacao-para-a-lideranca、exposicao-marca-alem-produto、producao-conteudo-valor-marcas、mais-que-um-produto-um-personagem；表内「MC FS 自己的logo 别人在卖他们的MC」；表内未见跟进记录。
-- **类型**：品牌商/贴牌需求（OEM/ODM）
+- **是谁**：巴西 tramaweb.com.br（官网快照为公关传播公司 Grupo Trama Reputale（1995 年起公共关系/数字营销），与表内「MC FS 自己的 logo，别人在卖他们的 MC，很多周边产品」业务不符——站点错配/域名易主待核；KP Fabio）；表内未跟进。
+- **类型**：待核实体（巴西，MC 自有标；站点错配）
 - **【官网快照】官网标题：Grupo Trama Reputale | Agência de Comunicação Corporativa em SP；品类词 电信 / FTTH / ISP 设备**
   > Grupo Trama Reputale: formado pela Trama Comunicação, fundada em 1995, e pela Reputale Digital. Relações Públicas, Comunicação Interna e Marketing Digital.
   > 来源：https://www.tramaweb.com.br/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > MC FS 自己的logo 别人在卖他们的MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】tramaweb 快照（错配）**
+  > Grupo Trama Reputale | Agência de Comunicação Corporativa em SP ; formado pela Trama Comunicação, fundada em 1995
+  > 来源：https://www.tramaweb.com.br/（抓取 2026-10-21）
+- **【用户表】MC FS 自己的 logo**
+  > MC FS 自己的logo 别人在卖他们的MC；很多周边产品
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Fabio（）fabio@tramaweb.com.br 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 巴西 |
 | 其他 | 官网 tramaweb.com.br，语言 pt-BR，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：电信 / FTTH / ISP 设备
-- **触达通道（公开）**：role: 品牌商/贴牌需求（OEM/ODM）；region: 巴西；contact: fabio@tramaweb.com.br
+- **业务线**：（待核）MC / 网络配件
+- **触达通道（公开）**：role: 待核实体（巴西，MC 自有标；站点错配）；region: 巴西；contact: fabio@tramaweb.com.br
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.tramaweb.com.br/）
-  - 官网公开邮箱：adm@tramaweb.com.br
-  - 用户表兴趣/备注：MC FS 自己的logo 别人在卖他们的MC
-- **风险/边界**：非主攻区（T5）：低频跟进，不单独做本地化
-- **Saga 对位结论**：P1 STI-110GE（30% 档）——工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+  - 快照：Grupo Trama Reputale | Agência de Comunicação Corporativa em SP ; Relações Públicas, Comunicação Interna e Marketing Digital
+  - 表内：MC FS 自己的 logo 别人在卖他们的 MC；很多周边产品；KP fabio@
+- **风险/边界**：站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）；非主攻区（T5，巴西）；未跟进过
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体
+- **邮件切入句（英文）**：Fabio, for the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -117,7 +123,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | fabio@tramaweb.com.br | 用户表原值 | Clients/ 表 |
+| Fabio | — | fabio@tramaweb.com.br | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -133,7 +139,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 深挖对位：工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（待核实体（巴西，MC 自有标；站点错配）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -152,9 +158,9 @@ updated: 2026-10-21
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
+- **S**：名单内已有联系记录，不是零起点
 - **W**：拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -185,11 +191,11 @@ updated: 2026-10-21
 **主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Fabio,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Fabio, for the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

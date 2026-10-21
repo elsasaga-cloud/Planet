@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（omninet.com.vn，快照 2026-10-21）",
- "summary": "新加坡品牌商/贴牌需求（OEM/ODM）：官网「Web Server's Default Page」（en）；表内「从国内买模块 Switch 自己的logo」；群发 8 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "新加坡 Omnicomm（omnicomm.com.sg；omninet.com.vn 为服务器默认页；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）、Chuong）；群发 8 次无回复。",
+ "type": "网络品牌商（新加坡/越南，自有标 Switch；官网待核）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,39 +21,61 @@
    "quote": "从国内买模块 Switch 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "从国内买模块；Switch 自己的 logo",
+   "quote": "从国内买模块 Switch 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Victor Tan",
+   "title": "Operations Manager",
+   "email": "victor@omnicomm.com.sg",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Chuong",
+   "title": "（姓名/职务待核）",
+   "email": "chuong@omnicomm.com.sg",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "新加坡",
   "other": "官网 omninet.com.vn，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "网络产品（自有品牌，模块国内采购）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "网络品牌商（新加坡/越南，自有标 Switch；官网待核）",
   "region": "新加坡",
   "contact": "chuong@omnicomm.com.sg、victor@omnicomm.com.sg"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.omninet.com.vn/）",
-  "用户表兴趣/备注：从国内买模块 Switch 自己的logo"
+  "表内：从国内买模块 Switch 自己的 logo；KP Victor Tan / Operations Manager",
+  "快照：Web Server’s Default Page（Plesk）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "官网快照为服务器默认页（站点待核）；非主攻区（T5）；8 次无回复 → 改向 Operations Manager 具名首触"
  ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）"
+  "why": "自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）"
  },
- "email_hook": "Victor, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Victor, for the switches you sell under your own label alongside the optical modules you source from China, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS — which configuration do your Singapore and Vietnam customers order most?"
 }
