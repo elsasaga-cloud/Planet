@@ -1,0 +1,118 @@
+                         10/100/1000M Media Converters
+
+                       Enhanced Function with Dip switch
+
+                                  LT-MC80G Series
+
+
+Overview:
+
+LT-MC80G enhanced function series, featuring with 1*Gigabit SFP port + 1* 10/100/1000M RJ45
+port, are the 10/100/1000Mbps adaptive Gigabit Ethernet media converter which adopt
+switching technology to fulfill media conversion. They complies with IEEE802.3, IEEE802.3u,
+IEEE802.3z and IEEE802.3ab standards and provide media conversion between
+10/100/1000Base-T and 1000Base-SX/LX interface. The key function of enhanced series are
+supporting LFP, network storm suppression, forcing the electrical port and fiber port on 100M，
+which can meet with the different application requirement.
+
+
+
+
+Picture
+Features
+
+●    10/100/1000M media converter with SFP slot
+●    Complies with IEEE 802.3 10Base-T, IEEE 802.3u 100Base-TX, IEEE 802.3ab 1000Base-T, IEEE
+     802.3z 1000Base-SX
+●    Media conversion between 10/100/1000Base-T and 1000Base-SX
+●    Supporting auto-sensing full-duplex and half-duplex operation
+●    Supporting auto-sensation of MDI/MDI-X, facilitating system commissioning and installation
+●    Supporting watchdog function, which can restart the equipments automatically when it is
+     Frozen
+●    Dip switch function: supporting LFP, network storm suppression, forcing the electrical port
+     and fiber port on 100M
+●    Supporting 1M Large buffer
+●    Supporting Jumbo frame 10Kbytes
+●    Supporting Quality of Service (QoS) and ensuring the transmission of VoIP packets;
+●    Store-and-Forward mechanism
+●    Flexible transmission distance based on different SFP module.
+●    4KV surge protection, ESD: Air-15kV, Contact-8kV protection
+
+
+
+Technical specification
+
+Port interface
+Fixed port                     1*1000 Base-X SFP port + 1*10/100/1000 Base－T RJ45
+Power interface                DC jack
+
+Ethernet standard              IEEE802.3 10Base-T Ethernet, IEEE802.3u 100Base-TX Fast Ethernet,
+                               IEEE802.3ab 1000Base-T , IEEE802.3z 1000Base-SX Gigabit Ethernet
+
+LED indicators
+PWR                            Power supply indicator
+FDX                            Electrical port operation mode
+                               indicator
+Link/Act                       Link state indicator
+Copper 100M Link               Electrical port speed rate indicator
+Copper 1000M Link              Electrical port speed rate indicator
+Fiber Link/Act                 Fiber port link state indicator
+
+Dip switch function
+1. LFP                                            2. Network storm suppression
+3.Forcing fiber port on 100M                      4. Forcing electrical port on 100M
+
+Cable type & transmission distance
+Twisted-pair                                       0-100m（CAT5e,CAT6）
+Fiber port                                         Depending on the SFP module
+
+Electrical Specifications
+    Input voltage                                   DC 5 V
+    Total Power consumption                         full load≤1.6W
+
+    Layer 2 Switching
+    Switching capacity                              14G
+    Packet forwarding rate                          10.416Mpps
+    MAC address table                               8K
+    Buffer                                          1M
+    Forwarding delay                                <5us
+    MDX/MIDX                                        Support
+    Jumbo Frame                                     Support 10Kbytes
+    Watchdog                                        Support
+    LFP                                             Support
+
+    Environment
+    Operating temperature                           -20℃~70℃
+    Storage temperature                             -40℃~85℃
+    Relative humidity                               5%~95%（non-condensing）
+    Thermal methods                                 Fan-less, natural heat dissipation
+    MTBF                                            100,000 hours
+
+    Protection & Certification
+    Power surge protection                         IEC 61000-4-5 Level 4（4KV）（8/20us）
+    Ethernet port surge protection                  IEC 61000-4-5 Level 3（2KV）（10/700us）
+    ESD                                             IEC 61000-4-2 Level 4 （8K/15K）
+    Free fall                                       0.5m
+    Certification                                   CE, FCC, RoHs
+
+    Structure
+    Dimension                                       93*71*27mm
+    Installation method                             Desktop, wall-mount
+    Weight                                          Net weight 0.2KG
+
+
+
+
+    Order information
+
+Model               Description
+
+                    10/100/1000Base-T to 1000Base-F,1*Gigabit SFP port + 1*10/100/1000M RJ45 port,
+LT-MC80G
+                    without SFP module, external power adaptor, enhanced function with Dip switch
+
+
+
+
+    PRODUCT PARAMETERS
+

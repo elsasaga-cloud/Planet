@@ -1,0 +1,526 @@
+                16*10/100/1000Base-T + 4*1G/2.5GBase-X SFP
+
+    L2+ Managed Industrial PoE++ Switch with Temp-humidity Sensor
+                              LT-IS6320GP-4GX16GT-SD-4BT
+
+
+
+
+Features:
+➢ 16*10/100/1000Base-T RJ45 PoE (1-4 ports support PoE++), 4*1G/2.5GBase-X SFP
+
+➢ Redundant power 44-57V input with polarity reverse/over-current protection
+
+➢ Complies with IEEE802.3af PoE, IEEE802.3at PoE+ and IEEE802.3bt PoE++ standard
+
+➢ Support DI/DO/RS485, work with temperature-humidity sensor to collect environment data
+  and trigger alarms
+
+➢ Support USB one key configuration & upgrading
+
+➢ Layer 3 features: Support IPv4/IPv6 static routing, DHCP server, DHCP relay
+
+➢   Layer 2 features: VLAN/GVRP/QinQ/SPAN/RSPAN/STP, RSTP, MSTP/DHCP/Multicast/ACL
+
+    QoS/LLDP/802.1X/AAA/Loop Detect/Dying Gasp/SFP DDM/IPV6 management/Dual Stack/
+    PoE management/sFlow/Web/SNMP/MQTT/Telnet/TFTP/Web upgrading
+
+➢ Support G.8032 ERPS protocol, recovery time ≤20ms
+
+➢ Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢ IP40 fan-less and Din-rail hardware design
+
+➢ Operation temperature: -40 ℃ ~+75℃
+      Overview
+
+      The SmartByte LT-IS6320GP-4GX16GT-SD-4BT is the highly reliable managed industrial PoE++
+      switch with 16-port 10/100/1000-T PoE and 4-port 1G/2.5GBase-X fiber optical interfaces. It
+      supports IEEE802.3af, IEEE802.3at standard and IEEE802.3bt PoE protocol, the Max power
+      consumption can reach 30W (PoE+) per port, 1-4 ports support 90W PoE output. It also supports
+      ERPS redundant network and the self-recovery mechanism is less than 20ms on full load which
+      allows you to scheme a reliable Ethernet network by building a redundant ring topology as your
+      back-up solution. LT-IS6320GP-4GX16GT-SD-4BT supports DI/DO/RS485, it can work with
+      temperature-humidity sensor to collect environmental data and trigger alarms, which is critical
+      for the industrial application requiring the stable ambient conditions
+
+      LT-IS6320GP-4GX16GT-SD-4BT is the high cost-effective easy-to-use device, which provides
+      essential industrial Ethernet networking function, including wide range power input 44-57VDC,
+      redundant power design with polarity reverse protection, robust IP40 fan-less housing with
+      Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level
+      EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas,
+      chemical, IP Surveillance and processing automation area where environmental conditions are
+      harsh and critical.
+
+
+
+
+      Technical specification
+
+Model No.                        LT-IS6320GP-4GX16GT-SD-4BT
+
+                                 Fiber ports                             Copper RJ45 ports
+Interface
+                                 4                                       16
+                                 16*10/100/1000Base-T RJ45 PoE
+Ethernet
+                                 4*1G/2.5GBase-X SFP
+CPU                              Marvell AC5 series 1.2GHz
+
+Size of RAM                      512MB
+
+Size of Flash                    512MB
+
+Switch chip model                Marvell AC5 series
+
+Management port                  1*RJ45 Console port (115200,8,N,1)，1*USB 2.0
+
+                                 Vout: VO＋, VO－                          5V output（0.2A MAX）
+                                                                         Work with temperature-humidity
+Data & Alarm channel             1 channel RS485: A, B                   sensor to collect environmental data
+（ Removable 8-pin terminal                                               and trigger alarms
+block)                                                                   Status “1”: 12V-30V
+                                 1 channel digital input: DI+，DI-        Status”0”: -30V~3V
+                                                                         Max input current: 8 mA
+                                                                          Normally open ， Normally closed ，
+                                 1 channel digital output                 Pulse
+                                                                          2A@30V DC，0.3A@125V AC
+                                 IEEE 802.3 10Base-T Ethernet
+                                 IEEE 802.3u 100Base-TX Ethernet
+                                 IEEE 802.3ab 1000Base-T Ethernet
+                                 IEEE 802.3z 1000Base-X Ethernet
+                                 IEEE802.3x Flow Control and Back Pressure
+                                 IEEE 802.1D Spanning Tree Protocol
+                                 IEEE 802.1w Rapid Spanning Tree Protocol
+Standard                         IEEE 802.1Q VLAN
+                                 ITU-T G.8032 ERPS
+                                 IEEE 802.1X Port Authentication Network Control
+                                 IEEE 802.1ab LLDP
+                                 IEEE 802.3ad LACP
+                                 IEEE802.3af PoE
+                                 IEEE802.3at PoE+
+                                 IEEE802.3bt PoE++
+LED Indicators
+
+P1/P2 (Power indicator)          Off: the device is power off or failed   On: the device power on is normal
+
+SYS (System status indicator)    Blinking: device initialization          On: device on normal operation
+
+                                 Off: USB flash drive not insert or not detected by device
+USB (USB status indicator)
+                                 On: USB flash drive is detected by device
+Green
+                                 Blinking: the device is reading and writing the data from USB flash drive
+ALM (Fault status indicator)     Off: Device on normal working state      On: Fault alarm
+Ring (Ring network indicator)    Off: Ring network disabled               On: Ring network enabled
+
+                                 Off: ports link down
+1-16 (Copper ports
+                                 On: ports link up
+indicators) Green
+                                 Blinking: data on TX/RX
+
+                                 Off: PoE not working
+1-16 (PoE status indicators)
+Yellow                           On: PoE working
+
+                                 Off: ports link down
+17-20 (Fiber ports indicators)
+                                 On: ports link up
+Green
+                                 Blinking: data on TX/RX
+
+Power parameter
+                                 44-57VDC (802.3af)
+Input voltage
+                                 52-57VDC (802.3at/802.3bt)
+                              redundant power input
+
+Input current                 6A Max
+                              Full loading without PoE ≤19W
+                              Single power input: PoE power budget ≤360W (-40°C~+ 75°C)
+                              Dual power input: PoE power budget ≤480W (-40°C~+ 60°C, dual power
+Power consumption             input must be the same as DC voltage)
+
+                              *Regardless of single or dual input, a minimum input voltage of 54V is
+                              required for power loads exceeding 240W.
+Connector                     Removable 2*2 pin terminal block
+
+Reverse polarity protection   Support
+
+Over-current protection       Support
+
+Layer 2 switching
+
+                              Support GE port aggregation
+
+                              Support 2.5GE aggregation
+
+Port aggregation              Support static aggregation
+
+                              Support LACP dynamic aggregation
+
+                              Up to 64 aggregation groups and up to 8 ports per group
+
+                              Support IEEE802.3x flow control
+
+                              Support interface counters
+
+                              Support port isolation
+Port features
+                              Port mirroring (One-to-One, Many-to-One)
+
+                              Support loop detection (Port-based; VLAN-based)
+                              Support broadcast storm suppression (broadcast; unknown multicast;
+                              unknown unicast)
+                              IEEE802.1Q tagged VLAN
+
+                              Mac based VLAN
+
+                              IP based VLAN
+
+                              Protocol based VLAN
+VLAN
+                              Voice VLAN, specially divide VLAN for user voice data flow
+                              Private VLAN, divide a VLAN broadcast domain into multiple subdomains to
+                              form a double-layer VLAN structure
+                              VLAN range: 1-4094
+
+                              Support access mode/trunk mode/hybrid mode
+                    Support static Mac-address management
+
+                    Support dynamic Mac-address Management
+
+                    Support filtering Mac-address
+Mac-address table
+management          Support MAC limit based on port and VLAN
+
+                    Support MAC flapping based on port and VLAN
+
+                    16K Mac-address table size
+
+                    Normal mode
+
+GVRP                Fixed mode
+
+                    Forbidden mode
+
+                    Port-based QinQ
+
+                    VLAN-based QinQ
+QinQ
+                    VLAN mapping
+
+                    Flow-based QinQ
+
+                    Link Layer Discovery Protocol
+LLDP
+                    Med
+
+                    Number of Sessions: 7
+SPAN
+                    Many-to-one
+
+RSPAN               Remote Switch Port Analyzer
+
+                    802.1D STP
+
+                    802.1W RSTP
+
+MSTP                802.1S MSTP
+
+                    BPDU Guard
+
+                    Number of Single Ring Device Connections: 20
+
+                    Major ring
+
+                    Sub ring
+ERPS G.8032
+                    Recovery time ≤20ms
+
+                    Number of Single Ring Device Connections: No limit
+
+                    QoS Class, Remarking
+
+QoS                 Support SP, WRR Queue Scheduling
+
+                    Ingress Port-based Rate-limit
+                            Egress Port-based Rate-limit
+
+                            Egress port-queue shaper
+
+                            Policy-based QoS
+
+                            Port Queue Numbers: 8
+
+                            DHCP snooping trust port
+
+DHCPv4 Snooping             DHCP snooping option-82
+
+                            DHCP snooping circuit-id and remote-id customized
+
+L2 Multicast
+
+IGMP                        IGMP v1, v2, v3
+
+                            Internet Group Management Protocol Snooping
+
+IGMP Snooping               Fast Leave
+
+                            Multicast Table Size: 1K
+
+PIM-SM                      Protocol Independent Multicast-Sparse Mode
+
+Security features
+                            IP Standard ACL
+                            IP Extended ACL
+                            MAC extend ACL
+ACL                         IPv6 ACL
+                            Time Range
+                            ACL apply on VLAN
+                            ACL entries, include input and output
+                            Port access control
+802.1x                      Mac-address access control
+                            RADIUS server
+Port-security               Port-security
+
+IP source guard             IP Source Guard, Port-based IP/Mac Binding Access
+
+ARP-check                   Support ARP-check and ARP packet filtering for illegal users
+
+DAI                         Dynamic ARP Inspection
+
+Anti-gateway ARP Spoofing   Prevent Gateway ARP Spoofing
+
+Ddos                        Ddos attack protection
+
+Access control              Support Telnet/SSH/HTTP/HTTPS user access control
+
+                            RADIUS authentication access switch
+AAA
+                            TACACS authentication access switch
+                           Authorization
+
+Reliability
+
+Loop Detect                Loop detect, based on port or VLAN
+
+EFM                        The Ethernet in the first mile, 802.3ah
+
+Management & Maintenance functions
+
+Dual Stack                 IPv4 and IPv6 Dual Stack Management
+                           Syslog Level 7 to 0
+                           Corresponding Debug/Info/Notice/Warning/ Err/ Critical/ Alert
+System Log Management      Support connecting up to 3 Servers
+
+                           For IPv4 and IPv6
+
+                           Support password protection, support MD5/SHA256/SHA512 algorithm
+
+                           Local Management of User Privilege
+
+                           Remote authorization by RADIUS or TARCAS
+
+User Management            Enable privilege protection
+
+                           User password complexity requirements
+
+                           User login fail protection
+
+                           User Privilege Level 0 to 15
+
+                           Up to 8 users online simultaneously
+Login Service Management
+                           Access control based on IPv4 or IPv6 ACL
+
+                           Firmware upgraded by WEB
+
+Firmware Management        Firmware upgraded by CLI
+
+                           Dual partition
+
+                           Web Management
+
+                           Support HTTP V1.1
+Web Management
+                           Support HTTPS
+
+                           For IPv4 and IPv6
+
+CLI management             Console/Telnet command line management
+
+                           Ping/Traceroute, For IPv4 and IPv6
+
+Fault Detection            Dying gasp
+
+                           Optical transceiver DDM
+                                 One click fault information collection
+
+                                 Cable detection
+
+DNS                              Domain Name System
+
+                                 Network Time Protocol, For IPv4 and IPv6
+NTP
+                                 Support domain name configuration
+
+                                 FTP/TFTP based remote configuration import and export
+Configuration Import /Export
+                                 USB flash drives based local configuration import and export
+
+sFlow                            Sampled flow
+
+SNMP                             Version SNMPV2C/V3
+
+MQTT                             Message Queuing Telemetry Transport
+
+RMON                             Support RMON (Remote Monitoring) alarm
+
+                                 Support 802.3af/802.3at/802.3bt
+
+                                 Support PD watchdog
+
+                                 Support PoE priority management
+
+                                 Support Max PoE power configuration for each port
+PoE management
+                                 Support alarm threshold configuration
+
+                                 Support reserved power configuration
+
+                                 Support PoE schedule
+
+                                 Support POE legacy mode
+
+Dual partition management        Support dual partition switching
+
+Application Protocol Functions
+
+Telnet server                    Support telnet server for IPv4 and IPv6
+
+Telnet client                    Support telnet client for IPv4 and IPv6
+
+SCP (Secure Copy Protocol)       SCP client/server for IPv4 and IPv6
+
+SFTP                             sftp client/server for IPv4 and IPv6
+
+                                 Support login based on user password-SSH2, support IPv4, IPv6
+SSH server
+                                 Support public key-based login
+
+TACACS                           Support TACACS (the terminal access controller accesses the control system)
+
+TFTP                             Support TFTP Client
+
+Layer 3 features
+                         Support VLAN interface and route port
+
+                         IPv4 static routing table entry configuration
+
+                         ARP dynamic learning and static configuration
+Static Route
+                         IPv6 static routing table entry configuration
+
+                         Neighbor discovery and static configuration
+
+                         Routing prefix table size 4k for IPv4, for IPv6 divide by 4
+
+DHCPv4 Client            Dynamic host configuration protocol for IPv4
+
+DHCPv6 Client            Dynamic host configuration protocol for IPv6
+
+DHCPv4 Relay             DHCP Relay for IPv4
+
+DHCPv4 Server            DHCP Server for IPv4
+
+Switching features
+
+Switching capacity       52Gbps
+
+Packet forwarding rate   77.3Mpps
+
+MAC address table        16K
+
+VLAN                     4K
+
+Buffer                   12Mbit
+
+Forwarding delay         <5us
+
+Jumbo Frame              Support 10Kbytes
+
+MDI/MDIX                 Support
+
+Watchdog                 Support
+
+Mechanical structure
+
+Case protection          IP40
+
+Installation method      Din-rail
+
+Dimension(W*D*H)mm       110*115*158mm
+
+Weight                   2.10 kg
+
+Operating environment
+
+Operating temperature    -40℃~+75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+                         Operation humidity: 10%-90%RH
+Relative humidity
+                         Storage humidity: 5%-95%RH
+Industrial Standard
+
+                      Surge protection of power: IEC 61000-4-5   6KV/4KV（8/20us）
+
+
+                      Surge protection of Ethernet ports: IEC 61000-4-5   6KV/2KV（10/700us）
+
+
+                      RS：IEC 61000-4-3 80 MHz-1 GHz：10 V/m
+EMS
+                      EFT：IEC 61000-4-4 4K/2K
+
+
+                      CS：IEC 61000-4-6 10V
+
+
+                      ESD：IEC 61000-4-2      Contact: 8K；Air: 15K
+
+EMI                   FCC Part 15B Class A
+
+Shock                 IEC 60068-2-27
+
+Free fall             IEC 60068-2-32
+
+Vibration             IEC 60068-2-6
+
+Certification         CCC/CE/UKCA/RoHS/REACH/FCC
+
+MTBF                  ＞200,000 hours
+
+Warranty              5 years
+        Structure diagram
+
+
+
+
+        Order information
+
+
+
+Model                       Description
+
+                            L2+ Managed industrial PoE switch with 16*10/100/1000Base-T RJ45 ports (1-4
+                            ports support PoE++ 90W) and 4*1G/2.5GBase-X SFP slots, supports DI/DO/RS485
+LT-IS6320GP-4GX16GT-SD-4
+                            and temperature-humidity sensor on default, complies with IEEE802.3af,
+BT
+                            IEEE802.3at and IEEE802.3bt standard, DC44-57V input, redundant dual power
+                            supply, Din-rail installation; Operation temperature: -40℃～+75℃
+

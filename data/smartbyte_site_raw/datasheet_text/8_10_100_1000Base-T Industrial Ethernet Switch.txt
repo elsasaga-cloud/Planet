@@ -1,0 +1,171 @@
+                   8*10/100/1000Base-T Industrial Ethernet Switch
+                                           LT-IS3008G-8GT
+
+
+
+
+Features:
+
+
+➢   8*10/100/1000M RJ45 ports(No.8 is uplink port when port isolation enabled)
+
+➢   DC 12-58V input, redundant power supply with polarity reverse protection
+
+➢   Dip switch function:
+
+    1. Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain
+
+➢   Support 10K Bytes Jumbo frame
+
+➢   Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+
+
+
+
+Overview
+
+
+The SmartByte LT-IS3008G-8GT is a unmanaged industrial grade Ethernet switch with 8-port
+10/100/1000Base-T RJ45 ports (No.8 can be uplink port). It is featuring with port isolation, flow
+control, QoS(1-2 ports) and broadcast storm restrain, which all can be configured by the Dip
+    switch on the top panel.
+
+    LT-IS3008G-8GT is also a high cost-effective easy-to-use device, which provides essential
+    industrial Ethernet networking function, such as wide range power input 12-58VDC, redundant
+    power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail
+    installation, wide operation temperature from -40℃ ~+75℃ as well as high-level EMI/EMC
+    capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas,
+    chemical, IP Surveillance and processing automation area where environmental conditions
+    exceed commercial product specifications.
+
+
+
+
+    Technical specification
+
+(Model No.                     LT-IS3008G-8GT
+
+                               Fiber ports                                   Copper RJ45 ports
+Interface
+                               0                                             8
+
+Ethernet                       8*10/100/1000Base-T RJ45 ports
+                               IEEE 802.3 Ethernet
+                               IEEE 802.3u Fast Ethernet
+Standard                       IEEE 802.3ab Gigabit Ethernet
+                               IEEE 802.3x Full-Duplex Flow Control
+                               IEEE 802.3az Energy Efficient Ethernet
+                               1. Port Isolation (No.8 is the uplink port)
+                               2. Flow control
+Dip Switch
+                               3. QoS (1-2 ports）
+                               4. Broadcast storm restrain
+                                                              Off: the device is power off or failed
+                               P(Power indicator) Green
+                                                              On: the device power on is normal
+
+                                                              Off: the chip is normal
+                               S(System indicator) Red
+LED Indicators                                                On: the chip read/write is unnormal
+                                                              Green indicators             Yellow indicators
+                                                                                           Off: port speed is
+                                                              Off: ports link down
+                               1-8 (Copper ports)                                              10/100M
+                                                              On: ports link up            On: port speed is
+                                                              Blinking: data on TX/RX          1000M
+Power parameters
+Input voltage                  12-58 VDC, redundant power input
+Input current                  0.6A Max
+
+Total consumption              Full loading without PoE ≤5W
+
+Connector                      Removable 4-pin terminal block
+Reverse              polarity
+                                Support
+protection
+Switching features
+
+Switching capacity              16G
+
+Packet forwarding rate          23.8 Mpps
+
+MAC address table               16K
+
+VLAN                            Support the transmission of the packets with VLAN tags ranging from 1 to 4096
+
+Buffer                          2M
+
+Forwarding delay                <5us
+
+Jumbo Frame                     Support 10Kbytes
+
+MDI/MDIX                        Support
+
+Watchdog                        Support
+
+Network Topology
+
+Star topology                   Support
+
+Bus topology                    Support
+
+Tree Topology                   Support
+
+Mechanical structure
+
+Case protection                 IP40
+
+Installation method             Din-rail
+
+Dimension(W*D*H)mm              48*98*98mm
+
+Weight                          0.58 kg
+
+Operating environment
+
+Operating temperature           -40℃~+75℃
+Storage/transportation
+                                -40℃~+85℃
+temperature
+Relative humidity               5%~95% （non-condensing）
+
+                                Surge protection of power: IEC 61000-4-5   Level 3 (6KV/2KV）（8/20us)
+                                Surge protection of Ethernet ports: IEC 61000-4-5        Level 3 (6KV/2KV ）
+                                （10/700us)
+Industry standard               DIP: IEC 61000-4-11   Level 3（10V）
+
+                                ESD: IEC 61000-4-2    Level 4（8K/15K）
+
+                                Shock: IEC 60068-2-27
+                            Free fall: IEC 60068-2-32
+
+                            Vibration: IEC 60068-2-6
+
+   Certification            CCC/CE/FCC/RoHS/UKCA/Reach
+
+   MTBF                     ＞200,000 hours
+
+   Warranty                 5 years
+
+           PRODUCT PARAMETERS
+
+
+
+        Structure diagram
+
+
+
+
+        Order information
+
+
+Model                  Description
+
+                       8-port 10/100/1000Base-T unmanaged industrial Ethernet switch, DC12-58V,
+LT-IS3008G-8GT         redundant dual power supply; Din-rail installation. Operation temperature: -40 ℃ ～
+                       +75℃
+

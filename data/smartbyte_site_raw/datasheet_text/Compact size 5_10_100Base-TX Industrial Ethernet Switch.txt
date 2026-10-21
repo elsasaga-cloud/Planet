@@ -1,0 +1,129 @@
+            Compact size 5*10/100Base-TX Industrial Ethernet Switch
+                                          LT-IS3005F-5TX-M-AD
+
+
+
+
+Features:
+➢   5*10/100Base-TX RJ45 ports
+
+➢   DC9-58V, AC 15~40V input, redundant power supply with polarity reverse protection
+
+➢   Support 2Kbytes Jumbo frame
+
+➢   Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IS3005F-5TX-M-AD is the compact size unmanaged industrial grade Ethernet
+    switch with 5-port 10/100Base-TX RJ45. It is the high cost-effective easy-to-use device, which
+    provides essential industrial Ethernet networking function, such as wide range power DC/AC
+    input, redundant power design with polarity reverse protection, robust IP40 fan-less housing with
+    Din-rail installation, wide operation temperature from -40 ℃ ~+75℃ as well as high-level
+    EMI/EMC capability and so on. It is the best choice for heavy industrial field where installation
+    space are limited and restricted
+
+
+
+    Technical specification
+
+Model No.                       LT-IS3005F-5TX-M-AD
+
+                                Fiber port                                Copper RJ45 ports
+Interface
+                                0                                         5
+
+Ethernet                        5*10/100Base-TX RJ45
+                                IEEE 802.3 10Base-T Ethernet
+                                IEEE 802.3u Fast Ethernet
+Standard
+                                IEEE 802.3x Full-Duplex Flow Control
+                                IEEE 802.3az Energy Efficient Ethernet
+                                                              Off: the device is power off or failed
+                                P(Power indicator) Green
+                                                              On: the device power on is normal
+
+LED Indicators                                                Off: ports link down
+                                1-5(Copper ports) Green
+                                                              On: ports link up
+                                    Link/act indicators
+                                                              Blinking: data on TX/RX
+
+Power parameters
+                                Redundant power input
+Input voltage
+                                DC 9-58V, AC 15~40V
+Input current                   0.5A Max
+
+Total power consumption         Full loading ≤4W
+
+Connector                       Removable 4-pin terminal block
+Reverse              polarity
+                                Support
+protection
+Switching features
+
+Switching capacity              1G
+
+Packet forwarding rate          0.744 Mpps
+MAC address table        2K
+
+VLAN                     Support the transmission of the packets with VLAN tags ranging from 1 to 4096
+
+Buffer                   2K
+
+Forwarding delay         <10us
+
+Jumbo Frame              Support 2Kbytes
+
+MDI/MDIX                 Support
+
+Mechanical structure
+
+Case protection          IP40
+
+Installation method      Din-rail
+
+Dimension(W*D*H) mm      30*85*85mm
+
+Weight                   0.4 kg
+
+Operating environment
+
+Operating temperature    -40℃~+ 75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+Relative humidity        5%~95%（non-condensing）
+
+                         Surge protection of power: IEC 61000-4-5   Level 3 (4KV/2KV）（8/20us)
+                         Surge protection of Ethernet ports: IEC 61000-4-5        Level 3 (4KV/2KV ）
+                         （10/700us)
+                         ESD: IEC 61000-4-2   Level 4（8K/15K）
+Industrial Standard
+                         Shock：IEC 60068-2-27
+
+                         Free fall：IEC 60068-2-32
+
+                         Vibration：IEC 60068-2-6
+
+Certification            CCC/CE/FCC/RoHS/Reach/UKCA
+
+MTBF                     ＞200,000 hours
+
+Warranty                 5 years
+
+
+    Structure diagram
+        Order information
+
+
+Model                  Description
+
+                       Compact size 5-port 10/100Base-TX RJ45 industrial Ethernet switch, DC 9-58V, AC
+LT-IS3005F-5TX-M-AD
+                       15~40V input, redundant dual power supply. Operation temperature:   -40℃～+75℃
+

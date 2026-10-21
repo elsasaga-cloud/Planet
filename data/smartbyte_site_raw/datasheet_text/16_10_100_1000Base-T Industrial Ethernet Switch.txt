@@ -1,0 +1,176 @@
+                   16*10/100/1000Base-T Industrial Ethernet Switch
+                                        LT-IS6016G-16GT
+
+
+
+
+Features:
+➢   16*10/100/1000Base-T RJ45 ports(No.16 is the uplink port when port isolation enabled)
+
+➢   Redundant power DC 12-58V input with polarity reverse/over-current protection
+
+➢   Support one output relay alarm(terminal block Pin 5/6) for DC power failure
+
+➢   Support powerful Dip switch function:
+
+    1.Port isolation; 2. Flow control; 3. QoS (1-2 ports); 4. Broadcast storm restrain
+
+➢   Support 10K Bytes Jumbo frame
+
+➢   Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IS6016G-16GT is the highly reliable industrial Ethernet switch with 16-port
+    10/100/1000-T RJ45. It is featuring with port isolation, flow control, QoS (1-2 ports) and
+    broadcast storm restrain function, which all can be configured by the Dip switch on the top panel.
+
+    LT-IS6016G-16GT is also a high cost-effective easy-to-use device, which provides essential
+    industrial Ethernet networking function, including wide range power input 12-58VDC, redundant
+    power design with polarity reverse/over-current protection, robust IP40 fan-less housing with
+    Din-rail installation, wide operation temperature from -40°C to 75°C as well as high-level
+    EMI/EMC capability. It is the best choice for heavy industrial factory, transportation, oil & gas,
+    chemical, IP Surveillance and processing automation area where environmental conditions are
+    harsh and critical.
+
+
+    Technical specification
+
+Model No.                          LT-IS6016G-16GT
+
+                                   Fiber ports                          Copper RJ45 ports
+Interface
+                                   0                                    16
+
+Ethernet                           16*10/100/1000Base-T
+                                   One relay output for power failure. Alarm relay current carry ability:
+Alarm port
+                                   1A@24VDC
+                                   IEEE 802.3 10Base-T Ethernet
+                                   IEEE 802.3u Fast Ethernet
+Standard                           IEEE 802.3ab Gigabit Ethernet
+                                   IEEE 802.3x Full-Duplex Flow Control
+                                   IEEE 802.3az Energy Efficient Ethernet
+                                   1. Port isolation
+                                   2. Flow control
+Dip Switch
+                                   3. QoS(1-2 ports）
+                                   4. Broadcast storm restrain
+LED Indicators
+
+                                   Off: the device is power off or failed
+P(Power indicator) Green
+                                   On: the device power on is normal
+
+                                   Off: the chip is normal
+S(System indicator) Red
+                                   On: the chip read/write is unnormal
+
+                                   Green indicators                     Yellow indicators
+
+                                   Off: ports link down                 Off: port on 10/100M
+1-16 (Copper ports)
+                                   On: ports link up                    On: port on 1000M
+
+                                   Blinking: data on TX/RX
+Power parameters
+
+Input voltage                 12-58VDC, redundant power input
+
+Input current                 5.6A Max
+
+Total power consumption       Full loading≤8W
+
+Connector                     Removable 6-pin terminal block, Pin 5-6 for relay alarm output
+
+Reverse polarity protection   Support
+
+Over-current protection       Support
+
+Switching features
+
+Switching capacity            32G
+
+Packet forwarding rate        47.6Mpps
+
+MAC address table             8K
+                              Support the transmission of the packets with VLAN tags ranging
+VLAN
+                              from 1 to 4096
+Buffer                        2M
+
+Forwarding delay              <5us
+
+Jumbo Frame                   Support 10Kbytes
+
+MDI/MDIX                      Support
+
+Watchdog                      Support
+
+Network Topology
+
+Star topology                 Support
+
+Bus topology                  Support
+
+Tree Topology                 Support
+
+Mechanical structure
+
+Case protection               IP40
+
+Installation method           Din-rail
+
+Dimension(W*D*H)mm            54*115*158mm
+
+Weight                        1.37 Kg
+
+Operating environment
+
+Operating temperature         -40℃~+75℃
+Storage/transportation
+                              -40℃~+85℃
+temperature
+Relative humidity   5%~95%（non-condensing）
+
+                    EMI：FCC Part 15B Class A
+
+                    Surge protection of power: IEC 61000-4-5   6KV/4KV（8/20us）
+                    Surge protection of Ethernet ports ： IEC 61000-4-5       6KV/2KV
+                    （10/700us）
+                    RS: IEC 61000-4-3 80 MHz-1 GHz：10 V/m
+
+                    EFT: IEC 61000-4-4   power interface: 4K；Ethernet ports: 2K
+Industry standard
+                    CS: IEC 61000-4-6 10V
+
+                    ESD: IEC 61000-4-2   Level 4（8K/15K）
+
+                    Shock: IEC 60068-2-27
+
+                    Free fall: IEC 60068-2-32
+
+                    Vibration: IEC 60068-2-6
+
+Certification       CCC/CE/FCC/RoHS/UKCA/Reach
+
+MTBF                ＞200,000 hours
+
+Warranty            5 years
+        Structure diagram
+
+
+
+
+        Order information
+
+
+Model                       Description
+
+                            Industrial Ethernet switch with 16*10/100/1000Base-T RJ45 ports, DC12-58V
+LT-IS6016G-16GT             input, redundant dual power supply; Din-rail installation. Operation temperature:
+                            -40℃～+75℃
+

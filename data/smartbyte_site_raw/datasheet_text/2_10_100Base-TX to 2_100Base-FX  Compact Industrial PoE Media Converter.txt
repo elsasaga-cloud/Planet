@@ -1,0 +1,175 @@
+                      2*10/100Base-TX PoE to 2*100Base-FX
+
+                         Compact Industrial Media Converter
+                                    LT-IMC30FP-2FX2TX-E
+
+
+
+
+Features:
+➢   2*10/100Base-TX RJ45 PoE ports, 2*100Base-FX SFP fiber ports
+
+➢   DC 44~57V input, redundant power supply with polarity reverse protection
+
+➢   Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard
+
+➢   Powerful Dip switch function:
+
+    1.Fiber redundant; 2. Flow control; 3.250m long distance; 4. PoE watchdog
+
+➢   Support 10K Bytes Jumbo frame and 1M large buffer
+
+➢   Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design with compact size (30*85*85mm)
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IMC30FP-2FX2TX-E is the unmanaged industrial grade PoE media converter
+    with 2-port 10/100Base-TX PoE and 2-port 100Base-FX fiber optical interfaces. It complies with
+    IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W
+    (PoE+) per port. Moreover, it is featuring with fiber redundant, flow control, 250m long distance
+    transmission mode and PoE watchdog function, which all can be configured by the Dip switch on
+    the top panel.
+
+    LT-IMC30FP-2FX2TX-E is also a high cost-effective easy-to-use device, which provides essential
+    industrial Ethernet networking function, such as wide range power input 44-57VDC, redundant
+    power design with polarity reverse protection, robust IP40 fan-less compact housing with Din-rail
+    installation, wide operation temperature from -40℃ ~+75℃ as well as high-level EMI/EMC
+    capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas,
+    chemical, IP Surveillance and processing automation area where environmental conditions
+    exceed commercial product specifications
+
+
+
+    Technical specification
+
+Model No.                    LT-IMC30FP-2FX2TX-E
+
+                             Fiber ports                                Copper RJ45 ports
+Interface
+                             2                                          2
+                             2*10/100Base-TX PoE
+Ethernet
+                             2*100Base-FX SFP
+                             IEEE 802.3 10Base-T Ethernet
+                             IEEE 802.3u Fast Ethernet
+                             IEEE 802.3x Full-Duplex Flow Control
+Standard
+                             IEEE 802.3az Energy Efficient Ethernet
+                             IEEE 802.3af Power-Over-Ethernet
+                             IEEE 802.3at Power Over Ethernet plus PSE
+                             1. Fiber redundant
+                             2. Flow control
+Dip Switch
+                             3. 250m long distance mode
+                             4. PoE watchdog
+                                                            Off: the device is power off or failed
+                             P(Power indicator) Green
+                                                            On: the device power on is normal
+
+                                                            Off: total PoE usage ＜rated 50%
+LED Indicators
+                             S(PoE usage indicator) Red     Blinking: rated 50%＜total PoE usage＜rated 90%
+
+                                                            On: total PoE usage ≥ rated 90%
+
+                             1-2(Copper ports)              Green indicators           Yellow indicators
+                                                                Off: ports link down      Off: PoE not working
+
+                                                                On: ports link up
+                                                                                          On: PoE working
+                                                                Blinking: data on TX/RX
+
+                                                                Off: ports link down
+
+                                3-4 (Fiber ports) Green         On: ports link up
+
+                                                                Blinking: data on TX/RX
+
+Power parameters
+
+Input voltage                   44-57VDC, redundant power input
+
+Input current                   1.5A Max
+                                Full loading without PoE ≤ 3W
+Total power consumption
+                                PoE power budget ≤ 60W
+Connector                       Removable 4-pin terminal block
+Reverse              polarity
+                                Support
+protection
+Switching features
+
+Switching capacity              0.8G
+
+Packet forwarding rate          1.9 Mpps
+
+MAC address table               8K
+
+VLAN                            Support the transmission of the packets with VLAN tags ranging from 1 to 4096
+
+Buffer                          1M
+
+Forwarding delay                <10us
+
+Jumbo Frame                     Support 10Kbytes
+
+MDI/MDIX                        Support
+
+Watchdog                        Support
+
+Mechanical structure
+
+Case protection                 IP40
+
+Installation method             Din-rail
+
+Dimension(W*D*H)mm              30*85*85mm
+
+Weight                          0.22kg
+
+Operating environment
+
+Operating temperature           -40℃~+75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+Relative humidity        5%~95%（non-condensing）
+
+                         Surge protection of power: IEC 61000-4-5   Level 3 (4KV/2KV）（8/20us)
+                         Surge protection of Ethernet ports: IEC 61000-4-5      Level 3 (4KV/2KV ）
+                         （10/700us)
+                         DIP: IEC 61000-4-11   Level 3（10V）
+
+Industrial Standard      ESD: IEC 61000-4-2    Level 4（8K/15K）
+
+                         Shock：IEC 60068-2-27
+
+                         Free fall：IEC 60068-2-32
+
+                         Vibration：IEC 60068-2-6
+
+Certification            CCC/CE/FCC/RoHS/UKCA
+
+MTBF                     ＞200,000 hours
+
+Warranty                 5 years
+        Structure diagram
+
+
+
+
+        Order information
+
+
+Model                  Description
+
+
+                       10/100Base-TX to 100Base-FX unmanaged compact industrial PoE media converter
+                       with 2*10/100Base-TX PoE ports and 2*100Base-FX SFP slots, complies with
+LT-IMC30FP-2FX2TX-E
+                       IEEE802.3af, IEEE802.3at standard, DC44-57V, redundant dual power supply; Din-rail
+                       installation. Operation temperature: -40℃～+75℃
+

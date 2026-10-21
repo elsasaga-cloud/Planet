@@ -1,0 +1,183 @@
+                16*10/100/1000Base-T PoE/PoE+ Industrial PoE Switch
+                                            LT-IS6016GP-16GT
+
+
+
+
+Features:
+➢   16*10/100/1000Base-T RJ45 PoE ports (No.16 is the uplink port when port isolation enabled)
+
+➢   DC 44-57V input, redundant power supply with polarity reverse protection
+
+➢   Support one output relay alarm(terminal block Pin 5/6)
+
+➢   Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard
+
+➢ Support powerful Dip switch function:
+
+    1.Link aggregation; 2. 250m long distance (1-4 ports); 3. QoS (1-2 ports); 4. PoE watchdog
+
+➢   Support 10K Bytes Jumbo frame
+
+➢   Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IS6016GP-16GT is the highly reliable industrial PoE switch with 16-port
+    10/100/1000-T PoE/PoE+. It complies with IEEE802.3af, IEEE802.3at standard PoE protocol, the
+    Max power consumption can reach 30W (PoE+) per port. Moreover, it is also featuring with port
+    isolation, 250m long distance transmission mode (1-4 ports), QoS (1-2 ports) and PoE watchdog
+    function, which all can be configured by the Dip switch on the top panel
+
+    LT-IS6016GP-16GT is a high cost-effective easy-to-use device, which provides essential industrial
+    Ethernet networking function, including wide range power input 44-57VDC, redundant power
+    design with polarity reverse/over-current protection, robust IP40 fan-less housing with Din-rail
+    installation, wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC
+    capability. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP
+    Surveillance and processing automation area where environmental conditions are harsh and
+    crucial
+
+
+    Technical specification
+
+Model No.                            LT-IS6016GP-16GT
+
+                                     Fiber ports                           Copper RJ45 ports
+Interface
+                                     0                                     16
+
+Ethernet                             16*10/100/1000Base-T PoE/PoE+
+                                     One relay output for power failure. Alarm relay current carry ability:
+Alarm port
+                                     1A@24VDC
+                                     IEEE 802.3 10Base-T Ethernet
+                                     IEEE 802.3u Fast Ethernet
+                                     IEEE 802.3ab Gigabit Ethernet
+Standard                             IEEE 802.3x Full-Duplex Flow Control
+                                     IEEE 802.3az Energy Efficient Ethernet
+                                     IEEE 802.3af Power-Over-Ethernet
+                                     IEEE 802.3at Power Over Ethernet plus PSE
+                                     1. Port isolation
+                                     2. 250m long distance mode(1-4 ports)
+Dip Switch
+                                     3. QoS(1-2 ports）
+                                     4. PoE watchdog
+LED Indicators
+
+                                     Off: the device is power off or failed
+P(Power indicator) Green
+                                     On: the device power on is normal
+
+                                     Off: total PoE usage ＜rated 50%
+
+S(PoE usage indicator) Red           Blinking: rated 50%＜total PoE usage＜rated 90%
+
+                                     Normal on: total PoE usage ≥rated 90%
+                              Green indicators                   Yellow indicators
+
+                              Off: ports link down               Off: PoE not working
+1-16 (Copper ports)
+                              On: ports link up                  On: PoE working
+
+                              Blinking: receiving data
+
+Power parameters
+
+Input voltage                 44-57VDC, redundant power input
+
+Input current                 0.7A Max
+                              Full loading without PoE ≤8W
+Total power consumption
+                              PoE power budget ≤240W
+Connector                     Removable 6-pin terminal block, pin 5/6 for relay alarm output
+
+Reverse polarity protection   Support
+
+Over-current protection       Support
+
+Switching features
+
+Switching capacity            32G
+
+Packet forwarding rate        47.6Mpps
+
+MAC address table             8K
+                              Support the transmission of the packets with VLAN tags ranging
+VLAN
+                              from 1 to 4096
+Buffer                        2M
+
+Forwarding delay              <5us
+
+Jumbo Frame                   Support 10Kbytes
+
+MDI/MDIX                      Support
+
+Watchdog                      Support
+
+Network Topology
+
+Star topology                 Support
+
+Bus topology                  Support
+
+Tree Topology                 Support
+
+Mechanical structure
+
+Case protection               IP40
+
+Installation method           Din-rail
+
+Dimension(W*D*H) mm           54*115*158mm
+Weight                   1.39 Kg
+
+Operating environment
+
+Operating temperature    -40℃~+75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+Relative humidity        5%~95%（non-condensing）
+
+                         EMI：FCC Part 15B Class A
+
+                         Surge protection of power: IEC 61000-4-5   6KV/4KV（8/20us）
+                         Surge protection of Ethernet ports ： IEC 61000-4-5       6KV/2KV
+                         （10/700us）
+                         RS: IEC 61000-4-3 80 MHz-1 GHz：10 V/m
+
+                         EFT: IEC 61000-4-4   power interface: 4K；Ethernet ports: 2K
+Industry standard
+                         CS: IEC 61000-4-6 10V
+
+                         ESD: IEC 61000-4-2   Level 4（8K/15K）
+
+                         Shock: IEC 60068-2-27
+
+                         Free fall: IEC 60068-2-32
+
+                         Vibration: IEC 60068-2-6
+
+Certification            CCC/CE/FCC/RoHS/UKCA/Reach
+
+MTBF                     ＞200,000 hours
+
+Warranty                 5 years
+        Structure diagram
+
+
+
+
+        Order information
+
+
+Model                       Description
+
+                            Industrial PoE switch with 16*10/100/1000Base-T RJ45 PoE ports, complies with
+LT-IS6016GP-16GT            IEEE802.3af, IEEE802.3at standard, DC44-57V input, redundant dual power supply;
+                            Din-rail installation. Operation temperature: -40℃～+75℃
+

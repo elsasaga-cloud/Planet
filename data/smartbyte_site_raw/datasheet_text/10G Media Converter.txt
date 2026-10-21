@@ -1,0 +1,107 @@
+                                  10G Media Converter
+
+LT-MC80X (1*10G SFP+ port + 1*10/100M/1G/2.5G/5G/10G RJ45 port）
+
+
+Overview:
+
+SmartByte LT-MC80X media converter is a 10G N-Base-T (10/100M/1G/2.5G/5G/10G) to
+10GBase-R media converter, Which converts traditional twisted-pair RJ-45 cable into SFP+ slot for
+pluggable fiber transceiver, extending transmission distance to servers, switches and patch panels
+for Data Center 10G N-Base-T to 10GBase-R conversion application or ISP Mobile DU and
+Enterprise broadband service applications.
+
+
+
+
+Picture
+Features:
+
+
+●    10/100/1G/2.5G/5G/10G BASE-T RJ45 interface with auto MDI/MDI-X function, 10GBASE-X
+
+     SFP+ slot interface
+
+●    IEEE 802.3u/802.3ab/802.3bz/802.3ae Ethernet standard compliant
+
+●    Supports auto-negotiation and 100Mbps half/full duplex and 1/2.5/5/10Gbps full duplex
+
+     mode
+
+●    Fan-less design, support plug and play installation
+
+●    Support watchdog function, which can restart the equipments automatically when it is frozen
+
+●    Wide range input voltage: DC5-12V
+
+●    4KV surge protection; ESD: 8KV/contact, 15KV/air protection
+
+
+
+
+Technical specification
+    PRODUCT PARAMETERS
+Ports Interface
+Fixed port                      1*10G Base-X SFP+ port + 1*10/100/1G/2.5G/5G/10G Base － T
+                                RJ45 port
+Power interface                 DC Jack
+
+Standard                        IEEE 802.3u 100BASE-TX
+                                IEEE 802.3ab 1000BASE-T
+                                IEEE 802.3bz 2.5G/5GBASE-T
+                                IEEE 802.3an 10GBASE-T
+                                IEEE 802.3ae 10Gbps Ethernet
+                                IEEE 802.3x full-duplex flow control
+
+LED Indicators
+PWR                          Power supply indicator
+Fiber Link/Act               Fiber port operation indicator
+SD                           Fiber signal detection indicator
+10G                          Electrical port speed rate indicator
+Copper Link                  Electrical operation state indicator
+Copper Act                   Electrical         port         data
+                             receiving/transmission indicator
+Cable type & Transmission distance
+Twisted-pair                  1000Base-T: 0-100m Cat5
+                              2.5GBase-T: 0-100m Cat5e
+                              5GBase-T: 0-100m Cat5e
+                              10G Base-T: 0-100m Cat6a
+        Fiber                         50/125μm or 62.5/125μm multi-mode fiber optic cable, up to
+                                      300m, 9/125μm single-mode fiber optic cable, up to 60km
+
+        Electrical Specifications
+        Input voltage                                DC5-12 V
+        Total Power consumption                      ≤4.1W
+
+        Layer 2 Switching
+        Forwarding delay                             <5us
+        MDX/MIDX                                     Support
+        Watchdog                                     Support
+
+        Environment
+        Operating temperature                        -20℃~70℃
+        Storage temperature                          -40℃~85℃
+        Relative humidity                            5%~95% （non-condensing）
+        Thermal methods                              Fan-less, natural heat dissipation
+        MTBF                                         100,000 hours
+
+        Protection & Certification
+        Surge protection of Power                    IEC 61000-4-5    Level 4（4KV）（8/20us）
+        Surge protection of Ethernet port            IEC 61000-4-5    Level 3（2KV）（10/700us）
+        ESD                                          IEC 61000-4-2    Level 4 （8K/15K）
+        Free fall                                    0.5m
+        Certification                                CE, FCC, RoHs
+
+        Mechanical Structure
+        Dimension                                    95*71*27mm
+        Installation Method                          Desktop, wall-mount
+        Weight                                       Net weight 0.2KG
+
+
+
+
+        Order information
+
+Model              Description
+LT-MC80X           10G media converter with 1*10/100/1G/2.5G/5G/10G RJ45 port + 10G SFP+ slot,   DC5-12V
+

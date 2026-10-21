@@ -1,0 +1,122 @@
+                             10/100M Media Converters
+
+                        Enhanced Function With Dip Switch
+
+                                     LT-MC80F Series
+Overview:
+
+LT-MC80F enhanced function series Ethernet media converter can interconvert electrical signals
+of 10Base-T and 100Base–TX twisted pairs with optical signals of 100Base-FX. It extends the
+network transmission distance from 100m via copper cables to 120 km via fiber optical cable. The
+key function of enhanced series are supporting LFP, network storm suppression, fixing the
+electrical port on 10M and full duplex operation state. It enables the data to transmit in two
+different mediums of electrical and optical networks either by the technology of data link L2
+store-and-forward, or by the one of PHY L1 cut-through). It supports transmission in Multi-mode
+dual fiber, single mode dual fiber, single mode single fiber
+
+
+
+
+Picture
+ Features:
+
+● 10/100Mbps auto-sensed, facilitating network upgrade
+● Dip switch function: supporting LFP, network storm suppression, fixing the electrical port on
+  10M and full duplex operation state
+●   Built-in efficient switching core to implement flow control and reduce broadcast packets
+●   Full-duplex and half-duplex auto-sensed
+●   Supporting auto-sense of MDI/MDI-X, facilitating system commissioning and installation
+●   Supporting half /full-duplex of FX.
+●   Supporting 10/100Mbps store-and-forward and 100Mbps cut-through transmission.
+●   Supporting the transmission of 100Base-FX or STM-1, compatible with other devices
+●   Supporting low-time lag transmission
+●   Supporting watchdog function, which can restart the equipments automatically when it is
+    Frozen
+● Extremely low power consumption (≤0.8W), reliable and stable performance
+● Options in Multi-mode dual fiber, single mode dual fiber, single mode single fiber
+● Transmission distance 2KM～120KM optional
+● 4KV surge protection, ESD: Air-15kV, Contact-8kV protection
+
+
+
+Technical specification
+
+Port interface
+Fixed port                   1*100 Base-X SC port(FC/ST optional) + 1*10/100 Base－T RJ45 port
+Power interface              DC jack
+
+Ethernet standard            IEEE802.3 10Base-T Ethernet, IEEE802.3u,100Base-TX/FX Fast Ethernet,
+                             IEEE802.3x Flow Control
+
+LED indicators
+PWR                          Power supply indicator
+FDX                          Electrical port operation mode
+                             indicator
+Link/Act                     Link state indicator
+Copper 100M Link             Electrical port speed rate indicator
+Fiber 100M Link              Fiber port speed rate indicator
+
+Dip switch function
+1：LFP                                            2：Network storm suppression
+3：Fixing the electrical port on 10M              4：Electrical port full duplex
+
+Cable type & transmission distance
+Twisted-pair                                    0-100m（CAT5e,CAT6）
+Multimode optical fiber                         2KM
+Single mode dual fiber                          20/40/60/80/100/120KM
+Single mode single fiber                        20/40/60/80/100KM
+
+Electrical specification
+        Input voltage                                 DC 5V
+        Total Power consumption                       ≤0.8W
+
+        Layer 2 switching
+        Switching capacity                            1G
+        Packet forwarding rat）                        0.744Mpps
+        MAC address table                             2K
+        Buffer                                        2K
+        Forwarding delay                              <5us
+        MDX/MIDX                                      Support
+        Watchdog                                      Support
+        LFP                                           Support
+
+        Environment
+        Operating temperature                         -20℃~70℃
+        Storage temperature                           -40℃~85℃
+        Relative humidity                             5%~95% （non-condensing）
+        Thermal methods                               Fan-less, natural heat dissipation
+        MTBF                                          100,000 hours
+
+        Protection & Certification
+        Power surge protection                         IEC 61000-4-5 Level 4（4KV）（8/20us）
+        Ethernet port surge protection                IEC 61000-4-5 Level 3（2KV） （10/700us）
+        ESD                                           IEC 61000-4-2 Level 4 （8K/15K）
+        Free fall                                     0.5m
+        Certification                                 CE, FCC, RoHs
+
+        Structure
+        Dimension(mm)                                 93*71*27mm
+        Installation method                           Desktop, wall-mount
+        Weight                                        Net weight 0.2KG
+
+
+
+
+        Order information
+
+Model               Description
+
+                    10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port ,multi-mode, 2km,
+LT-MC80F-SC02
+                    SC, standalone, external power adaptor, enhanced function with Dip switch
+                    10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port ,single mode dual
+LT-MC80F-SC20       fiber, 20km, SC, standalone, external power adaptor. 40/60/80/100/120KM optional, ST/FC
+                    optional, enhanced function with Dip switch
+                    10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single
+LT-MC80F-SC20A      fiber, 20km, SC, TX1310nm, standalone, external power adaptor; 40/60/80/100KM
+                    optional, ST/FC optional, enhanced function with Dip switch
+                    10/100Base-TX to 100Base-FX, 1*100M SC port + 1*10/100M RJ45 port, single mode single
+LT-MC80F-SC20B
+                    fiber, 20km, SC, TX1550nm, standalone, external power adaptor; 40/60/80/100KM
+optional, ST/FC optional,   enhanced function with Dip switch
+

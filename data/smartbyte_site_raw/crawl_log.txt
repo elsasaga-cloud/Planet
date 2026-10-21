@@ -56,3 +56,76 @@
 [09:01:11] pdftotext: 0
 [09:01:11] downloads total 0.0 MB → committed to git: True
 [09:01:11] images stop: blocked (2 left) → resume later; ok 0/0 (+0 this run), 0.0 MB this run
+===== run 4 CRASH =====
+[01:14:47] run 4 start; resume=True; budget 140.0 min; max_pages 1500; delay 0.8s
+[01:14:49] probe archiver https://www.smartbyte-switch.com/ → 200
+[01:14:49] access mode = requests (archiver) base https://www.smartbyte-switch.com/
+[01:14:49] resume: pages_done=350 queue=0 (retry 0) downloads=245 images=2
+[01:14:49] BFS stop: complete (queue empty); pages=350 (+0) downloads=245 images=2
+[01:14:57] cdn images harvested from archived html: +1491 (images total 1493)
+[01:15:26] downloads 20/245 elapsed 0.7 min
+[01:15:56] downloads 40/245 elapsed 1.2 min
+[01:16:43] downloads 60/245 elapsed 1.9 min
+[01:17:14] downloads 80/245 elapsed 2.5 min
+[01:17:43] downloads 100/245 elapsed 2.9 min
+[01:18:11] downloads 120/245 elapsed 3.4 min
+[01:18:37] downloads 140/245 elapsed 3.8 min
+[01:19:06] downloads 160/245 elapsed 4.3 min
+[01:19:40] downloads 180/245 elapsed 4.9 min
+[01:20:07] downloads 200/245 elapsed 5.3 min
+[01:20:36] downloads 220/245 elapsed 5.8 min
+[01:21:08] downloads 240/245 elapsed 6.3 min
+[01:21:15] downloads stop: complete; ok 245/245 (+245 this run), 83.0 MB
+[01:21:25] pdftotext: 245
+[01:21:25] downloads total 83.0 MB → committed to git: True
+[01:23:49] images 100/1493 50 MB elapsed 9.0 min
+[01:25:49] images 200/1493 64 MB elapsed 11.0 min
+[01:27:39] images 300/1493 78 MB elapsed 12.9 min
+[01:29:25] images 400/1493 93 MB elapsed 14.6 min
+[01:31:10] images 500/1493 109 MB elapsed 16.4 min
+[01:32:52] images 600/1493 123 MB elapsed 18.1 min
+[01:34:52] images 700/1493 133 MB elapsed 20.1 min
+[01:36:32] images 800/1493 148 MB elapsed 21.7 min
+[01:38:29] images 900/1493 164 MB elapsed 23.7 min
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/response.py", line 929, in _error_catcher
+    yield
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/response.py", line 1067, in _raw_read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+urllib3.exceptions.IncompleteRead: IncompleteRead(68811 bytes read, 138665 more expected)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 937, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/response.py", line 1291, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/response.py", line 1179, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/response.py", line 1045, in _raw_read
+    with self._error_catcher():
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/response.py", line 949, in _error_catcher
+    raise ProtocolError(arg, e) from e
+urllib3.exceptions.ProtocolError: ('Connection broken: IncompleteRead(68811 bytes read, 138665 more expected)', IncompleteRead(68811 bytes read, 138665 more expected))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/Planet/Planet/scripts/smartbyte_crawl/crawl.py", line 947, in <module>
+    main()
+  File "/home/runner/work/Planet/Planet/scripts/smartbyte_crawl/crawl.py", line 857, in main
+    data = r.content
+           ^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 1042, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 939, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(68811 bytes read, 138665 more expected)', IncompleteRead(68811 bytes read, 138665 more expected))
+

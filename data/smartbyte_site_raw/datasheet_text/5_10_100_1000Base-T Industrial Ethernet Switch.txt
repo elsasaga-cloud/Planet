@@ -1,0 +1,165 @@
+            5*10/100/1000Base-T Industrial Ethernet Switch
+                                     LT-IS3005G-5GT
+
+
+
+
+Features:
+➢   4*10/100/1000Base-T RJ45 ports downlink, 1*10/100/1000Base-T RJ45 port uplink
+
+➢   DC 12-58V input, redundant power supply with polarity reverse protection
+
+➢   Dip switch function:
+
+    1.Port isolation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain
+
+➢   Support 10K Bytes Jumbo frame
+
+➢   Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IS3005G-5GT is the unmanaged industrial grade Ethernet switch with 5-port
+    10/100/1000-T RJ45 ports. It is featuring with port isolation, flow control, QoS (1-2 ports) and
+    broadcast storm restrain function, which all can be configured by the Dip switch on the top panel.
+
+    LT-IS3005G-5GT is also a high cost-effective easy-to-use device, which provide essential industrial
+    Ethernet networking function, such as wide range power input 12-58VDC, redundant power
+    design with polarity reverse protection, robust IP40 fan-less housing with Din-rail installation,
+    wide operation temperature from -40°C to 75°C as well as high-level EMI/EMC capability and
+    so on. It is the best choice for heavy industrial factory, transportation, oil & gas, chemical, IP
+    Surveillance and processing automation area where environmental conditions exceed
+    commercial product specifications.
+
+
+
+    Technical specification
+
+Model No.                    LT-IS3005G-5GT
+
+                             Fiber port                                 Copper RJ45 ports
+Interface
+                             0                                          5
+
+Ethernet                     5*10/100/1000Base-T RJ45 ports
+                             IEEE 802.3 10Base-T Ethernet
+                             IEEE 802.3u Fast Ethernet
+Standard                     IEEE 802.3ab Gigabit Ethernet
+                             IEEE 802.3x Full-Duplex Flow Control
+                             IEEE 802.3az Energy Efficient Ethernet
+                             1. Port Isolation
+                             2. Flow control
+Dip Switch
+                             3. QoS(1-2 ports）
+                             4. Broadcast storm restrain
+                                                            Off: the device is power off or failed
+                             P(Power indicator) Green
+                                                            On: the device power on is normal
+
+                                                            Off: the chip is normal
+                             S(System indicator) Red
+                                                            On: the chip read/write is unnormal
+LED Indicators
+                                                            Green indicators           Yellow indicators
+                                                                                       Off: port speed        is
+                                                            Off: ports link down
+                             1-5 (Copper ports)                                            10/100M
+                                                            On: ports link up          On:     port   speed   is
+                                                            Blinking: data on TX/RX          1000M
+
+Power parameters
+Input voltage                   12-58VDC, redundant power input
+
+Input current                   0.5A Max
+
+Total power consumption         Full loading ≤5W
+
+Connector                       Removable 4-pin terminal block
+Reverse              polarity
+                                Support
+protection
+Switching features
+
+Switching capacity              10G
+
+Packet forwarding rate          14.8 Mpps
+
+MAC address table               2K
+
+VLAN                            Support the transmission of the packets with VLAN tags ranging from 1 to 4096
+
+Buffer                          3M
+
+Forwarding delay                <5us
+
+Jumbo Frame                     Support 10Kbytes
+
+MDI/MDIX                        Support
+
+Watchdog                        Support
+
+Network Topology
+
+Star topology                   Support
+
+Bus topology                    Support
+
+Tree Topology                   Support
+
+Mechanical structure
+
+Case protection                 IP40
+
+Installation method             Din-rail
+
+Dimension(W*D*H) mm             30*98*130mm
+
+Weight                          0.5 kg
+
+Operating environment
+
+Operating temperature           -40℃~+75℃
+Storage/transportation
+                                -40℃~+85℃
+temperature
+Relative humidity               5%~95%（non-condensing）
+
+Industrial Standard             Surge protection of power: IEC 61000-4-5   Level 3 (4KV/2KV）（8/20us)
+                            Surge protection of Ethernet ports: IEC 61000-4-5      Level 3 (4KV/2KV ）
+                            （10/700us)
+                            DIP: IEC 61000-4-11   Level 3（10V）
+
+                            ESD: IEC 61000-4-2    Level 4（8K/15K）
+
+                            Shock：IEC 60068-2-27
+
+                            Free fall：IEC 60068-2-32
+
+                            Vibration：IEC 60068-2-6
+
+   Certification            CCC/CE/FCC/RoHS/UKCA/Reach
+
+   MTBF                     ＞200,000 hours
+
+   Warranty                 5 years
+
+
+
+
+        Structure diagram
+
+
+
+
+        Order information
+
+
+Model                  Description
+
+                       5-port 10/100/1000Base-T industrial Ethernet switch, DC12-58V input, redundant
+LT-IS3005G-5GT
+                       dual power supply; Din-rail installation. Operation temperature: -40℃～+75℃
+

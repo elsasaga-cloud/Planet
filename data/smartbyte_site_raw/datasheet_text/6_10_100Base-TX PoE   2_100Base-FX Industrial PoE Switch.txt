@@ -1,0 +1,190 @@
+      6*10/100Base-TX PoE + 2*100Base-FX Industrial PoE Switch
+                                       LT-IS3008FP-2FX6TX
+
+
+
+
+Features:
+➢   6*10/100Base-TX RJ45 PoE ports, 2*100Base-FX SFP ports(SC/ST optional)
+
+➢   DC 44-57V input, redundant power supply with polarity reverse protection
+
+➢   Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard
+
+➢   Powerful Dip switch function:
+
+    1.Port isolation; 2. 250m long distance; 3. QoS; 4. PoE watchdog
+
+➢   Support 9K Bytes Jumbo frame
+
+➢   Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IS3008FP-2FX6TX is the unmanaged industrial grade PoE switch with 6-port
+    10/100Base-TX PoE and 2-port 100Base-FX fiber optical interfaces. It complies with IEEE802.3af,
+    IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W (PoE+) per port.
+    Moreover, it is featuring with port isolation, 250m long distance transmission mode, QoS (1-2
+    ports) and PoE watchdog function, which all can be configured by the Dip switch on the top
+    panel.
+
+    LT-IS3008FP-2FX6TX is also a high cost-effective easy-to-use device, which provides essential
+    industrial Ethernet networking function, such as wide range power input 44-57VDC, redundant
+    power design with polarity reverse protection, robust IP40 fan-less housing with Din-rail
+    installation, wide operation temperature from -40℃ ~+75℃ as well as high-level EMI/EMC
+    capability and so on. It is the best choice for heavy industrial factory, transportation, oil & gas,
+    chemical, IP Surveillance and processing automation area where environmental conditions
+    exceed commercial product specifications.
+
+
+
+    Technical specification
+
+Model No.                    LT-IS3008FP-2FX6TX
+
+                             Fiber ports                                Copper RJ45 ports
+Interface
+                             2                                          6
+                             6*10/100Base-TX PoE
+Ethernet
+                             2*100Base-FX SFP (SC/ST optional)
+                             IEEE 802.3 10Base-T Ethernet
+                             IEEE 802.3u Fast Ethernet
+                             IEEE 802.3x Full-Duplex Flow Control
+Standard
+                             IEEE 802.3az Energy Efficient Ethernet
+                             IEEE 802.3af Power-Over-Ethernet
+                             IEEE 802.3at Power Over Ethernet plus PSE
+                             1. Port Isolation
+                             2. 250m long distance mode
+Dip Switch
+                             3. QoS(1-2 ports）
+                             4. PoE watchdog
+                                                            Off: the device is power off or failed
+                             P(Power indicator) Green
+                                                            On: the device power on is normal
+
+                                                            Off: total PoE usage ＜rated 50%
+LED Indicators
+                             S(PoE usage indicator) Red     Blinking: rated 50%＜total PoE usage＜rated 90%
+
+                                                            On: total PoE usage ≥ rated 90%
+
+                             1-6(Copper ports)              Green indicators           Yellow indicators
+                                                               Off: ports link down      Off: PoE not working
+
+                                                               On: ports link up
+                                                                                         On: PoE working
+                                                               Blinking: data on TX/RX
+
+                                                               Off: ports link down
+
+                                7-8 ( Fiber ports) Green       On: ports link up
+
+                                                               Blinking: data on TX/RX
+
+Power parameters
+
+Input voltage                   44-57VDC, redundant power input
+
+Input current                   4.5A Max
+                                Full loading without PoE ≤4W
+Total power consumption
+                                PoE power budget ≤ 180W
+Connector                       Removable 4-pin terminal block
+Reverse              polarity
+                                Support
+protection
+Switching features
+
+Switching capacity              1.6G
+
+Packet forwarding rate          2.38Mpps
+
+MAC address table               2K
+
+VLAN                            Support the transmission of the packets with VLAN tags ranging from 1 to 4096
+
+Buffer                          2Kbits
+
+Forwarding delay                <100us
+
+Jumbo Frame                     Support 9Kbytes
+
+MDI/MDIX                        Support
+
+Watchdog                        Support
+
+Network Topology
+
+Star topology                   Support
+
+Bus topology                    Support
+
+Tree Topology                   Support
+
+Mechanical structure
+
+Case protection                 IP40
+
+Installation method             Din-rail
+Dimension(W*D*H) mm      30*98*98mm
+
+Weight                   0.6 kg
+
+Operating environment
+
+Operating temperature    -40℃~+75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+Relative humidity        5%~95%（non-condensing）
+
+                         Surge protection of power: IEC 61000-4-5   Level 3 (4KV/2KV）（8/20us)
+                         Surge protection of Ethernet ports: IEC 61000-4-5      Level 3 (4KV/2KV ）
+                         （10/700us)
+                         DIP: IEC 61000-4-11   Level 3（10V）
+
+Industrial Standard      ESD: IEC 61000-4-2    Level 4（8K/15K）
+
+                         Shock：IEC 60068-2-27
+
+                         Free fall：IEC 60068-2-32
+
+                         Vibration：IEC 60068-2-6
+
+Certification            CCC/CE/FCC/RoHS/UKCA/Reach
+
+MTBF                     ＞200,000 hours
+
+Warranty                 5 years
+
+
+
+
+    Structure diagram
+
+
+       SFP model
+         SC/ST/FC model
+
+
+
+
+        Order information
+
+
+Model                     Description
+
+                          Unmanaged industrial PoE switch with 6*10/100Base-TX PoE ports and 2*100Base-FX
+LT-IS3008FP-2FX6TX        SFP slots, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V, redundant dual
+                          power supply; Din-rail installation. Operation temperature: -40℃～+75℃
+
+                          Unmanaged industrial PoE switch with 6*10/100Base-TX PoE ports and 2*100Base-FX
+LT-IS3008FP-2FX6TX-SC/    SC or ST ports, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V,
+ST                        redundant dual power supply; Din-rail installation. Operation temperature: -40 ℃ ～
+                          +75℃
+

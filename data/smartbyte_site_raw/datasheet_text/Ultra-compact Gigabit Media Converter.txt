@@ -1,0 +1,94 @@
+                      Ultra-compact Gigabit Media Converter
+
+                                       LT-MC60G-MN
+Overview:
+
+The SmartByte LT-MC60G-MN is the ultra-compact plug-and play 10/100/1000Base-T to
+1000Base-X media converter which is designed for applications where compact size, light weight
+and low power are critical requirements. It can be easily installed in tight places or conveniently
+slip into any pocket or laptop carrying case for easy portability with its ultra-compact size
+(79*23*18mm) and super light weight (60 g)
+
+
+This ultra-compact media converter can be USB powered by USB 1.0 or 2.0 port, which is ideal
+for connections to fiber in areas where a spare power outlet may not be available. When plugged
+into a computer's USB port, the media converter shuts down automatically when you turn off the
+computer, which saves energy. So this Ultra-compact media converter is an ideal solution for
+fiber-to-the-laptop where it needs Gigabit connectivity but local power isn’t available. For
+applications not utilizing USB power, this converter is also available with a 5V AC/DC power
+adapter, providing compatibility with electrical outlet types.
+
+
+Picture
+
+
+
+
+                     Front side                      Back side
+Features
+
+● Ultra-compact size (79*23*18mm) and super light weight (60 g)
+● 10/100/1000Base-T to 1000Base-X
+● SFP slot for flexible long distance transmission
+● USB powered for easy portability or used with the included power adaptor
+● Auto-negotiation
+● Auto-MDI/MDIX
+● Plug-and-Play
+● Lower jitter
+● Lower latency
+● Ultra low power dissipation＜1.2W
+● Support Jumbo frame 10Kbytes
+● Support watchdog, automatically reboot if frozen
+● Operation temperature: -20℃~70℃
+
+
+
+
+Technical specification PRODUCT PARAMETERS
+Ports interface
+Fixed port                                      1*1000 Base-X SFP, 1*10/100/1000 Base－T
+Power interface                                 DC jack
+
+LED indicators
+Green LED                                       link/act indicator
+Yellow LED                                      1000M link indicator
+
+Cable type & transmission distance
+Twisted-pair                                    0-100m（CAT5e,CAT6）
+SFP slot                                        Depending on the SFP module
+
+Electrical & Layer 2 Specifications
+Input voltage                                   DC 5 V
+Total Power consumption                         Full load≤1.2W
+MDX/MIDX                                        Support
+Jumbo Frame                                     Support 10Kbytes
+Watchdog                                        Support
+
+Environment
+Operating temperature                           -20℃~70℃
+Storage temperature                             -40℃~85℃
+Relative humidity                               5%~95% （non-condensing）
+Thermal methods                                 Fan-less，natural cooling
+MTBF                                            100,000 hours
+        Protection & Certification
+        Surge protection of Ethernet port             IEC 61000-4-5   Level 3（2KV）（10/700us）
+        ESD                                           IEC 61000-4-2   Level 4 （8K/15K）
+        Free fall                                     0.5m
+        Certification                                 CE/FCC/RoHS
+
+        Mechanical Dimensions
+        Product size                                  79*23*18mm
+        Installation Method                           desktop
+        Weight                                        57 g
+
+
+
+
+        Order information
+
+Model            Description
+
+                 Ultra-compact 10/100/1000Base-T to 1000Base-X media converter, 1*Gigabit SFP port   +
+LT-MC60G-MN
+                 1*10/100/1000M RJ45 port, without SFP module, DC 5V power supply
+

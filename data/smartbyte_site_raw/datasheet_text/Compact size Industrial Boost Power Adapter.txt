@@ -1,0 +1,113 @@
+               Compact size Industrial Boost Power Adapter
+                                   LT-IBPA52-1O2-M
+
+
+
+
+Features:
+
+➢   Allow low input voltage, such as 12/24/48VDC be boost up to 52VDC to meet
+     IEEE802.3af/IEEE802.3at/bt PoE requirement
+
+➢ 1*DC 12-48V input, 2*DC 52V output
+
+➢   DC 12-23V input support Max 60W PoE budget; DC 24-48V input support Max 120W PoE
+    budget;
+
+➢   Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design with compact size(30*85*85mm)
+
+➢   Operation temperature: -40 ℃ ~+75℃
+  Overview
+
+  The SmartByte LT-IBPA52-1O2-M is the compact size industrial booster power adapter with 1-port
+  DC 12-48V input, 2-port DC 52V output. It is the ideal PoE solution that if the power source is less
+  than 40V, the LT-IBPA52-1O2-M can booster the power source to redundant 52V output. The Max
+  PoE power budget can be 60W if input voltage is DC 12-23V and Max PoE power budget can be
+  120W if input voltage is DC 24-48V
+
+  LT-IBPA52-1O2-M is also high cost-effective easy-to-use device, which is specifically designed with
+  durable components and strong housing case to operate reliably in electrically harsh and
+  climatically demanding environments in a wide temperature range of -40 to 75 degrees. The LT-
+  IBPA52-1O2-M is packaged in a compact, IP40 rugged case that allows either DIN-rail or wall
+  mounting to have the efficient use of cabinet space. It is ideal for service providers, campuses and
+  public areas to deploy PoE wireless access points, IP cameras or IP phones in any places easily and
+  efficiently.
+
+
+
+  Technical specification
+
+Model No.                     LT-IBPA52-1O2-M
+
+                              DC Input                                   DC Output
+Interface
+                              1*12-48V                                   2*52V
+
+                              PWR(Power         indicator)   Off: the device is power off or failed
+LED Indicators
+                              Green                          On: the device power on is normal
+
+Power parameters
+
+Input voltage                 12-48VDC
+                              5.7A---12V input, 60W output
+Input current                 5.4A---24V input, 120W output
+                              2.7A---48v input, 120w output
+Output voltage                52V±10%
+                              60W ---12V input
+Output power
+                              120W---24-48V input
+Connector                     Removable 2-pin terminal block
+Reverse            polarity
+                              Support
+protection
+Over-current protection       7.5A input
+
+Mechanical structure
+
+Case protection               IP40
+Installation method      Din-rail
+
+Dimension(W*D*H)mm       30*85*85mm
+
+Weight                   0.2 kg
+
+Operating environment
+
+Operating temperature    -40℃~+75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+Relative humidity        5%~95%（non-condensing）
+
+                         Surge protection of power: IEC 61000-4-5 6KV/4KV（8/20us）
+
+                         DIP: IEC 61000-4-11 Level 3（10V）
+
+                         ESD: IEC 61000-4-2   Level 4（8K/15K）
+Industrial Standard
+                         Shock：IEC 60068-2-27
+
+                         Free fall：IEC 60068-2-32
+
+                         Vibration：IEC 60068-2-6
+
+Certification            CCC/CE/FCC/RoHS
+
+Warranty                 5 years
+
+
+
+
+  Structure diagram
+        Order information
+
+
+Model             Description
+
+                  Compact size industrial booster power adapter, one DC12-48V input, redundant DC 52V
+LT-IBPA52-1O2-M
+                  output; Support PoE power budget Max 120W; Operation temperature: -40℃～+75℃
+

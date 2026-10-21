@@ -1,0 +1,193 @@
+      4*10/100/1000Base-T PoE + 1*1000Base-X Industrial PoE Switch
+                              LT-IS3005GP-1GX4GT Series
+
+
+
+
+Features:
+➢   4*10/100/1000M RJ45 PoE ports, 1*1000Base-X SFP(SC/ST optional) fiber port
+
+➢   DC 44-57V input, redundant power supply with polarity reverse protection
+
+➢   Complies with IEEE802.3af PoE and IEEE802.3at PoE+ standard
+
+➢   Dip switch function:
+
+    1.Port isolation; 2. 250m long distance; 3. QoS (1-2 ports); 4. PoE watchdog
+
+➢   Support 10K Bytes Jumbo frame
+
+➢   Support 4KV surge protection and ESD: Air-15kV, Contact-8kV Protection
+
+➢   IP40 fan-less and Din-rail hardware design
+
+➢   Operation temperature: -40 ℃ ~+75℃
+    Overview
+
+    The SmartByte LT-IS3005GP-1GX4GT series are unmanaged industrial grade PoE switches with
+    4-port 10/100/1000-T PoE and 1-port 1000Base-X fiber optical interfaces. They comply with
+    IEEE802.3af, IEEE802.3at standard PoE protocol, the Max power consumption can reach 30W
+    (PoE+) per port. Moreover, they are featuring with port isolation, 250m long distance
+    transmission mode (1-2 ports), QoS (1-2 ports) and PoE watchdog function, which all can be
+    configured by the Dip switch on the top panel.
+
+    LT-IS3005GP-1GX4GT series are also high cost-effective easy-to-use devices, which provide
+    essential industrial Ethernet networking function, such as wide range power input 44-57VDC,
+    redundant power design with polarity reverse protection, robust IP40 fan-less housing with
+    Din-rail installation, wide operation temperature from -40 ° C to 75 ° C as well as high-level
+    EMI/EMC capability and so on. They are the best choice for heavy industrial factory,
+    transportation, oil & gas, chemical, IP Surveillance and processing automation area where
+    environmental conditions exceed commercial product specifications.
+
+
+
+    Technical specification
+
+Model No.                   LT-IS3005GP-1GX4GT
+
+                            Fiber port                               Copper RJ45 ports
+Interface
+                            1                                        4
+                            4*10/100/1000Base-T PoE
+Ethernet
+                            1*1000Base-X SFP (SC/ST optional)
+                            IEEE 802.3 10Base-T Ethernet
+                            IEEE 802.3u Fast Ethernet
+                            IEEE 802.3ab Gigabit Ethernet
+Standard                    IEEE 802.3x Full-Duplex Flow Control
+                            IEEE 802.3az Energy Efficient Ethernet
+                            IEEE 802.3af Power-Over-Ethernet
+                            IEEE 802.3at Power Over Ethernet plus PSE
+                            1. Port Isolation
+                            2. 250m long distance mode (1-2 ports)
+Dip Switch
+                            3. QoS(1-2 ports）
+                            4. PoE watchdog
+                                                         Off: the device is power off or failed
+                            P(Power indicator) Green
+                                                         On: the device power on is normal
+
+LED Indicators                                           Off: total PoE usage ＜rated 50%
+
+                            S(PoE usage indicator) Red   Blinking: rated 50%＜total PoE usage＜rated 90%
+
+                                                         On: total PoE usage ≥rated 90%
+                                                               Green indicators          Yellow indicators
+
+                                                               Off: ports link down      Off: PoE not working
+                                1-4(Copper ports)
+                                                               On: ports link up
+                                                                                         On: PoE working
+                                                               Blinking: data on TX/RX
+
+                                                               Off: ports link down
+
+                                5 ( Fiber port) Green          On: ports link up
+
+                                                               Blinking: data on TX/RX
+
+Power parameters
+
+Input voltage                   44-57VDC, redundant power input
+
+Input current                   3A Max
+                                Full loading without PoE ≤5W
+Total power consumption
+                                PoE power budget ≤120W
+Connector                       Removable 4-pin terminal block
+Reverse              polarity
+                                Support
+protection
+Switching features
+
+Switching capacity              10G
+
+Packet forwarding rate          14.8 Mpps
+
+MAC address table               2K
+
+VLAN                            Support the transmission of the packets with VLAN tags ranging from 1 to 4096
+
+Buffer                          3M
+
+Forwarding delay                <5us
+
+Jumbo Frame                     Support 10Kbytes
+
+MDI/MDIX                        Support
+
+Watchdog                        Support
+
+Network Topology
+
+Star topology                   Support
+
+Bus topology                    Support
+
+Tree Topology                   Support
+
+Mechanical structure
+
+Case protection                 IP40
+Installation method      Din-rail
+
+Dimension(W*D*H)mm       30*98*130mm
+
+Weight                   0.51 kg
+
+Operating environment
+
+Operating temperature    -40℃~+75℃
+Storage/transportation
+                         -40℃~+85℃
+temperature
+Relative humidity        5%~95%（non-condensing）
+
+                         Surge protection of power: IEC 61000-4-5   Level 3 (4KV/2KV）（8/20us)
+                         Surge protection of Ethernet ports: IEC 61000-4-5      Level 3 (4KV/2KV ）
+                         （10/700us)
+                         DIP: IEC 61000-4-11   Level 3（10V）
+
+Industrial Standard      ESD: IEC 61000-4-2    Level 4（8K/15K）
+
+                         Shock：IEC 60068-2-27
+
+                         Free fall：IEC 60068-2-32
+
+                         Vibration：IEC 60068-2-6
+
+Certification            CCC/CE/FCC/RoHS/UKCA/Reach
+
+MTBF                     ＞200,000 hours
+
+Warranty                 5 years
+
+
+
+    Structure diagram
+
+
+           SFP model
+           SC/ST model
+
+
+
+
+        Order information
+
+
+Model                    Description
+
+                         Unmanaged industrial PoE switch with 4*10/100/1000Base-T PoE ports and
+                         1*1000Base-X SFP slot, complies with IEEE802.3af, IEEE802.3at standard, DC44-57V,
+LT-IS3005GP-1GX4GT
+                         redundant dual power supply; Din-rail installation. Operation temperature: -40 ℃ ～
+                         +75℃
+                         Unmanaged industrial PoE switch with 4*10/100/1000Base-T PoE ports and
+                         1*1000Base-X SC or ST port, complies with IEEE802.3af, IEEE802.3at standard,
+LT-IS3005GP-1GX4GT-SC
+                         DC44-57V, redundant dual power supply, Din-rail installation; Multi-mode/Single
+/ST
+                         mode/ dual fiber/single fiber, 550m -100KM optional;    Operation temperature:
+                         -40℃～+75℃
+
