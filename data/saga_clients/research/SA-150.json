@@ -1,0 +1,47 @@
+{
+ "code": "SA-150",
+ "name_official": "Vicom Security Private Limited（加尔各答，印度，1995 年）",
+ "website_status": "在线",
+ "summary": "印度加尔各答 IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司（1995 年，自有 VICOM 品牌摄像机，30,000+ 项目安装，约 120 人，FY2024 营收 ₹27.1 Cr ≈ 330 万美元）；WA 在线、已开视频会，2 次回复、13 次跟进；需求 4 光 4 PoE 管理型 / 4 光 24 电。",
+ "type": "安防系统集成商 + 自有品牌",
+ "size": "中型（≈120 人，≈$3.3M）",
+ "brands_seen": [
+  "VICOM（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "1995 年起的交钥匙项目公司，30,000+ 项目安装",
+   "quote": "Founded in 1995 VICOM Security is a professionally managed turnkey project company in the field of IP Video Surveillance – Fire Safety, Plant Communication, Integrated Building Management System, OFC / IT networking… more than 30000+ project installations across India",
+   "url": "https://www.vicomsecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Tracxn",
+   "claim": "FY2024 营收 ₹27.1 Cr，120 名员工",
+   "quote": "Annual Revenue ₹27.1Cr as on Mar 31, 2024 Employee Count 120 as on Feb 29, 2024",
+   "url": "https://tracxn.com/d/companies/vicom-security/__lcw97bEn04SIngD2JLdyJrDRibsiIG6ogx_02SS5bIc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有型号 VES 系列摄像机",
+   "quote": "Model No.: VES 1016WHD/ VES 1016HD/ VES 1016SHD… High Definition Vandalproof IR Dome Camera",
+   "url": "https://vicomsecurity.com/cctv-ip-surveillance/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+91 98300 30444（WA）/ +91 33 2287 2290",
+   "source": "用户 Clients 表 + RocketReach"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。",
+ "researched_at": "2026-10-21"
+}

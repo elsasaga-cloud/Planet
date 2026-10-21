@@ -1,0 +1,33 @@
+{
+ "code": "SA-106",
+ "name_official": "Zelax（zelax.ru，俄罗斯）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "俄罗斯电信设备厂商/供应商（用户记录：曾采购迈威 Maiwe 交换机），17 次跟进 0 回复。",
+ "type": "设备厂商/分销",
+ "size": "待补证",
+ "brands_seen": [
+  "迈威 Maiwe（用户记录：在采）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "买了迈威的交换机；0 回复 / 17 次跟进",
+   "quote": "买了迈威的 Switch（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "在采同类国产工业交换机（迈威）→ 品类对位，但 17 次推送 0 回复，俄罗斯非主攻区 → 慢跟。",
+ "notes": "重启一次：'迈威工业系列对位 STI 工业 PoE 机型 + 价差'邮件。",
+ "researched_at": "2026-10-21"
+}

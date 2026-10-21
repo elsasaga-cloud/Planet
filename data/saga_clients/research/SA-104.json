@@ -1,0 +1,33 @@
+{
+ "code": "SA-104",
+ "name_official": "Pulsar（pulsar.kz，哈萨克斯坦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "哈萨克斯坦网络/安防设备经销商，已从 UniPoE 采购商业 PoE 交换机（1216POE），17 次跟进 0 回复。",
+ "type": "经销商",
+ "size": "待补证",
+ "brands_seen": [
+  "UniPoE（在用）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "从 UniPoE 买商业 PoE（1216POE）；0 回复 / 17 次跟进",
+   "quote": "从UnipoE买一些商业poE / 买了Unipoe的1216POE（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品类完全对位（商业 PoE，UniPoE 在用）但 17 次推送 0 回复，俄语区非主攻 → 慢跟。",
+ "notes": "重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。",
+ "researched_at": "2026-10-21"
+}

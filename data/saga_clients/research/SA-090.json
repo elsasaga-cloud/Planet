@@ -1,0 +1,49 @@
+{
+ "code": "SA-090",
+ "name_official": "ACT Connectivity（Intronics B.V. 品牌，Barneveld，荷兰；TKH Group 成员）",
+ "website_status": "在线",
+ "summary": "荷兰连接线缆品牌 ACT（Intronics B.V. 为品牌所有者与增值分销商，51–200 人），隶属上市公司 TKH Group（2023 年营收 18 亿欧元）；产品以铜/光布线、无源配件为主；用户记录 1 次回复，需求'主要无源、少量 switch/MC'。",
+ "type": "品牌商+分销商（集团子公司）",
+ "size": "中型子公司（51–200 人），母公司 TKH Group 18 亿欧元",
+ "brands_seen": [
+  "ACT",
+  "Eminent",
+  "Ewent"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "ACT 隶属上市公司 TKH Group（2023 年营收 18 亿），40+ 年历史，ISO 9001",
+   "quote": "We are part of the publicly listed TKH Group in the Netherlands, which reported a revenue of 1.8 billion in 2023. ACT is ISO 9001 certified",
+   "url": "https://www.act-connectivity.com/en-us/about-act",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "Intronics 为 ACT 品牌所有者与增值分销商，遍布欧洲（比利时/西班牙办公室）",
+   "quote": "As value added distributor and brand owner of ACT connectivity solutions, Intronics is specialised in advising, developing and supplying connectivity solutions… sales offices in Belgium and Spain",
+   "url": "https://www.intronics.nl/en-us/about-intronics",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "Intronics 51–200 人",
+   "quote": "Intronics… Barneveld, Netherlands… 51-200",
+   "url": "https://revenuebase.ai/companies/enterprise-cabling-solutions-providers/netherlands",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+31 342 407040（Intronics 总机）",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "体量过大/集团子公司：TKH Group 旗下品牌，采购走集团供应链与合规审核，Saga 贸易商无法满足其品牌级 QA/合规流程；且其需求以无源布线为主，交换机仅'少量'。曾 1 次回复，故在 C 中标注'可一次性报价无 logo 小批量'。",
+ "notes": "若对方主动提出 MC/小交换机 OEM 需求再评估；不主动投入。c_sub=体量过大。",
+ "researched_at": "2026-10-21"
+}

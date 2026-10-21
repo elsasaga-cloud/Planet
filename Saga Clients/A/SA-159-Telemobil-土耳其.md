@@ -1,18 +1,20 @@
 # Telemobil
+**官方名称（调研核实）**：Telemobil Bilgi ve İletişim Hizmetleri San. ve Tic. Ltd. Şti.（伊斯坦布尔，土耳其，2004 年）
 
 > **评级 A**　|　土耳其　|　档案编号 `SA-159`　|　优先级 ★★★　|　状态：WhatsApp 已加·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：ISAF2025展会、表:Simon　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IT/网络系统集成商（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：ISAF2025展会、表:Simon　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-159
 rating: A
 rating_auto: A
+name_official: "Telemobil Bilgi ve İletişim Hizmetleri San. ve Tic. Ltd. Şti.（伊斯坦布尔，土耳其，2004 年）"
 score: 60
 country: 土耳其
 region: 土耳其
 website: tbi.com.tr
-type: 系统集成/工程商
+type: IT/网络系统集成商
 tier_tags: ["ISAF2025展会", "表:Simon"]
 deal: no
 replies: 0
@@ -21,19 +23,19 @@ first_contact: unknown
 last_contact: unknown
 p1: STI-144GP
 price_tier: 25%
-research: pending
+research: done
 sources: 2
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的系统集成/工程商；兴趣/在卖：可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期；网站打不开 可重点跟进，有具体项目， 2光2电带PoE, 要求发价格， 现场给客户展示了2光4电带PoE, 把彩页上的2光2电给客户看了，客户问了交期
+- **是谁**：伊斯坦布尔 IT/网络/电信服务公司（2004 年创立，面向中小企业与大型企业：结构化布线、网络、安防/摄像、互联网与电信服务；微软/赛门铁克咨询、服务器/防火墙/路由器/NAS 及有源无源产品）；ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注'可重点跟进'；WA 已加。（调研 2026-10-21；表内兴趣：可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期；网站打不开 可重点跟进，有具体项目， 2光2电带PoE, 要求发价格， 现场给客户展示了2光4电带P）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推）**：STI-144GP — 工业 4 PoE + 1 SFP 小壳；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | Telemobil | 事实（用户表） |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | tbi.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | IT/网络系统集成商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Kaan Kisacik / Kaan Kisacik / Sales | 事实（用户表） |
 | 来源（From） | ISAF 2025 | 事实（用户表） |
 | 兴趣（Interested in） | 可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期 / 网站打不开<br>可重点跟进，有具体项目， 2光2电带PoE, 要求发价格， 现场给客户展示了2光4电带PoE, 把彩页上的2光2电给客户看了，客户问了交期 | 事实（用户表） |
@@ -53,7 +55,19 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-159.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（telemobil.com.tr；用户记录称网站打不开，本次检索可见）
+- **是谁**：伊斯坦布尔 IT/网络/电信服务公司（2004 年创立，面向中小企业与大型企业：结构化布线、网络、安防/摄像、互联网与电信服务；微软/赛门铁克咨询、服务器/防火墙/路由器/NAS 及有源无源产品）；ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注'可重点跟进'；WA 已加。
+- **类型**：IT/网络系统集成商
+- **规模**：小型（待补证）
+- **在卖/在用品牌**：Microsoft, Symantec
+- **【官网】2004 年创立，向企业客户提供网络与电信服务；布线、网络、安防、摄像方案**
+  > Bilişim sektöründe kurumsal müşterilerine Network ve Telekomünikasyon hizmetleri vermek amacıyla 2004 yılında kurulan TELEMOBİL… yapısal kablolama, network hizmetleri, güvenlik çözümleri, kamera çözümleri
+  > 来源：http://www.telemobil.com.tr/（抓取 2026-10-21）
+- **【官网】法人全称与电话**
+  > Telemobil Bilgi ve İletişim Hizmetleri Sanayi ve Ticaret Limited Şirketi Telefon: 0216 520 1224
+  > 来源：http://www.telemobil.com.tr/iletisim.html（抓取 2026-10-21）
+- **KP**：（见 Clients 表联系人）（） +90 533 086 6289（WA）/ 0216 547 6700（用户记录）〔用户 Clients 表（ISAF 2025）〕
+- 备注：土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -87,7 +101,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-144GP | 工业 4 PoE + 1 SFP 小壳 | $35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（IT/网络系统集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

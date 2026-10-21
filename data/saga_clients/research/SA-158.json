@@ -1,0 +1,31 @@
+{
+ "code": "SA-158",
+ "name_official": "Sitis Sarl（瑞士）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "瑞士公司，展会只看了 M12 交换机、取彩页、未沟通；6 次跟进 0 回复。",
+ "type": "待补证",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "看了 M12 交换机，没做其他沟通；0 回复 / 6 次",
+   "quote": "看了M12交换机，没做其他沟通，拿了彩页（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。",
+ "notes": "不主动投入。",
+ "researched_at": "2026-10-21"
+}

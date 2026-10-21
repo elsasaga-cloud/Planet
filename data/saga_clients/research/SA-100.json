@@ -1,0 +1,31 @@
+{
+ "code": "SA-100",
+ "name_official": "TJ Computer（泰国）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "泰国小型电脑/网络经销商，询 5 电口交换机，1 次回复、1 次跟进，WA 加不上。",
+ "type": "小型经销商",
+ "size": "微型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "5 电口需求，需要具体产品信息；WA 加不上",
+   "quote": "5电口 需要具体的产品信息；0622179229 加不上（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+66 62 217 9229（WA 未加上）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
+ "notes": "邮件一次性给 STI-244GP/5 口型号资料即可。",
+ "researched_at": "2026-10-21"
+}

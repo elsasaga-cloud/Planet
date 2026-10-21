@@ -1,0 +1,157 @@
+# ETRADINGKOREA Co., Ltd
+**官方名称（调研核实）**：ETRADINGKOREA Co., Ltd.（이트레이딩코리아，首尔）
+
+> **评级 B**　|　韩国　|　档案编号 `SA-094`　|　优先级 ★★　|　状态：有回复·跟进中
+>
+> **类型**：品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销（推断）　|　**历史关系**：实质回复 1 次；推送 7 次（2025-06-19 → 2025-10-29）　|　**所在清单**：A已回复、A优质名单(KR)、表:Secon 2023　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SA-094
+rating: B
+rating_auto: A
+rating_research: B  # 韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工
+name_official: "ETRADINGKOREA Co., Ltd.（이트레이딩코리아，首尔）"
+score: 69
+country: 韩国
+region: 亚太
+website: etradingkorea.com
+type: 品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销
+tier_tags: ["A已回复", "A优质名单(KR)", "表:Secon 2023"]
+deal: no
+replies: 1
+followups: 7
+first_contact: 2025-06-19
+last_contact: 2025-10-29
+p1: STI-288DGGPM
+price_tier: 30%
+research: done
+sources: 3
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：韩国网络设备商，自有 ETK 品牌工业 bypass 交换机（L2/L3，2.5G/10G，ERPS，PoE++，-40~80℃，IP40，KC/TTA 认证）及 ETK-3100R/4100R/5100R 以太网交换机，同时分销 Cisco/Aruba/Juniper 等光模块；方案覆盖智慧工厂、CCTV、高速公路 ITS、铁路、充电桩、电厂；Secon 2023 展会线索，1 次回复、7 次跟进。（调研 2026-10-21；表内兴趣：—）
+- **为什么是 B 级**：**调研后定级 B**（韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **历史互动**：实质回复 1 次；推送 7 次（2025-06-19 → 2025-10-29）；最近一次客户回复：2025-06-30：INFO
+- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **最大未知**：具体需求型号（表内兴趣列为空）
+- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | ETRADINGKOREA Co., Ltd | 事实（用户表） |
+| 其他名称写法 | ETRADINGKOREA CO,.LTD | 事实（用户表） |
+| 国家 | 韩国 | 事实（用户表）|
+| 网站/域名 | etradingkorea.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销 | 推断（据兴趣/备注关键词） |
+| 联系人 | Woosy | 事实（用户表） |
+| 来源（From） | O | 事实（用户表） |
+| 兴趣（Interested in） | — | 事实（用户表） |
+| 用户备注（Remark） | Simon客户,发gmail 给P.R Sung / attn: Park,ReeSung \| telephone: 82-2-6672-0008 \| mobile.: 82-10-6616-5491 \| fax.: 82-2-6672-0100 \| 网址: http://www.etradingkorea.com / attn: WOO,SungYoung \| telephone: 82-2-6672-0004 \| mobile.: 82-10-6215-7314 \| fax.: 82-2-6672-0100 | 事实（用户表） |
+| 所在清单 | A已回复、A优质名单(KR)、表:Secon 2023 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：韩国网络设备商，自有 ETK 品牌工业 bypass 交换机（L2/L3，2.5G/10G，ERPS，PoE++，-40~80℃，IP40，KC/TTA 认证）及 ETK-3100R/4100R/5100R 以太网交换机，同时分销 Cisco/Aruba/Juniper 等光模块；方案覆盖智慧工厂、CCTV、高速公路 ITS、铁路、充电桩、电厂；Secon 2023 展会线索，1 次回复、7 次跟进。
+- **类型**：品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销
+- **规模**：小型（待补证）
+- **在卖/在用品牌**：ETK（自有）, Cisco, Aruba, Juniper, Arista, Finisar, Intel
+- **【官网】自称工业 bypass 交换机领先企业，支持 2.5G/10G、ERPS、PoE++、-40~80℃、IP40**
+  > Leading company of Industrial Bypass Network Switch… Managed L2/L3 2.5G /10G Industrial Bypass Switch… Support to ERPS Ring & Smart Ring… PoE, PoE+, PoE++… Working Temperature : -40~80℃
+  > 来源：http://www.etradingkorea.co.kr/eng/index.asp（抓取 2026-10-21）
+- **【官网】产品线含管理型 L3 10G 工业交换机、光模块、AOC，并取得 KC/TTA 认证与安全功能确认书**
+  > 관리형 L3 10G 산업용스위치… ETK-4000B,4000R Series 보안 기능 확인서(발급일: 2024년12월)… TTA 성능 인증, KC인증
+  > 来源：https://etradingkorea.com/eng/sub/product/prd_all.asp（抓取 2026-10-21）
+- **【官网】方案含铁路/ITS/电厂（守界类）**
+  > Smart Factory Solution… Expressway ITS Solution… Railroad Solution… Power Plant Solution
+  > 来源：http://www.etradingkorea.co.kr/eng/index.asp（抓取 2026-10-21）
+- **KP**：Park Ree Sung（P.R. Sung）（（用户记录））（用户记录为 Gmail 个人邮箱） +82-2-6672-0008 / +82-10-6616-5491〔用户 Clients 表（Secon 2023）〕
+- **调研后定级**：B（原自动 A）——韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。
+- 备注：重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+合并自 2 张跟进表，共 7 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2025-06-19 | 2025.6.19 | bypass |  | A |  | KR.xlsx#21 |
+| 2025-06-30 | 2025.6.30 | Alarm | INFO | A |  | A Replied 09.04.xlsx#9 |
+| 2025-07-16 | 716 | 芯片 |  | A |  | KR.xlsx#21 |
+| 2025-08-22 | 822 | alarm |  | A |  | KR.xlsx#21 |
+| 2025-09-19 | 919 | 24poe |  | A |  | KR.xlsx#21 |
+| 2025-10-13 | 1013 | dac |  | A |  | KR.xlsx#21 |
+| 2025-10-29 | 1029 | solar |  | A |  | KR.xlsx#21 |
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`woosy777@naver.com`〔免费邮箱；来源：用户表原值〕
+- 邮箱：`reesung.park@gmail.com`〔免费邮箱；来源：用户表原值〕
+- 邮箱：`reesung.park@etradingkorea.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`woosy777@etradingkorea.com`〔企业邮箱；来源：用户表原值〕
+- 电话：`+82266720008`〔电话/WhatsApp 状态未记；原值见来源表〕
+- 电话：`+821066165491`〔电话/WhatsApp 状态未记；原值见来源表〕
+- 电话：`+82266720100`〔电话/WhatsApp 状态未记；原值见来源表〕
+- 电话：`+82266720004`〔电话/WhatsApp 状态未记；原值见来源表〕
+- 电话：`+821062157314`〔电话/WhatsApp 状态未记；原值见来源表〕
+- 联系人（原值）：Woosy
+- 职位（原值）：Director of Technical Sales
+- 职位（原值）：Chief Executive Officer
+- 网站/域名：etradingkorea.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **3 行**原始记录归并而成；归并键：`d:etradingkorea.com`, `e:woosy777@naver.com`, `n:KR|etradingkorea`, `p:266720100`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A Replied 09.04.xlsx#总表:10 | 9 | ETRADINGKOREA Co., Ltd | 韩国 | Woosy | O |  | woosy777@naver.com |  | 1 条 |
+| A/DONE/KR.xlsx#Secon 2023:24 | 21 | ETRADINGKOREA CO,.LTD |  |  |  |  | reesung.park@gmail.com  reesung.park@etradingkorea.com | Simon客户,发gmail 给P.R Sung attn: Park,ReeSung \| telephone: 82-2-6672-0008 \| mobile.: 82-10-6616-5491 \| fax.: 82-2-6672-0100 \| 网址: http://www.etradingkorea.com Director of Technical Sales | 6 条 |
+| A/DONE/KR.xlsx#Secon 2023:25 |  |  |  |  |  |  | woosy777@naver.com  woosy777@etradingkorea.com | attn: WOO,SungYoung \| telephone: 82-2-6672-0004 \| mobile.: 82-10-6215-7314 \| fax.: 82-2-6672-0100 Chief Executive Officer | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -1,0 +1,31 @@
+{
+ "code": "SA-163",
+ "name_official": "Cyber-Tec（cyber-tec.net，伊拉克）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "伊拉克 IT 公司，WA 在线，1 次回复、19 次跟进；兴趣型号 TA510-FE。",
+ "type": "IT 经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "TA510-FE；WA 已加；1 次回复 / 19 次",
+   "quote": "TA510-FE；964077361 04911 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+964 773 610 4911（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。",
+ "notes": "WA 季度触达。",
+ "researched_at": "2026-10-21"
+}

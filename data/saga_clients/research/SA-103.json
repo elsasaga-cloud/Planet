@@ -1,0 +1,50 @@
+{
+ "code": "SA-103",
+ "name_official": "Intelligent Professional Network Solution LLC（IPNS，阿布扎比，阿联酋）",
+ "website_status": "在线",
+ "summary": "阿布扎比 ISO 9001:2015 系统集成商（2010 年成立，ADMCC 认证 CCTV 集成商），业务覆盖 CCTV、光纤网络、门禁、无线、PBX、结构化布线、智能家居；ISAF 2025 参展商，现场介绍 2 光 10 电，其工业交换机采自 N-Net、商业级从深圳采购并刷自有 logo（用户记录）；邮件 0 回复 / 11 次，有 WA 号码。",
+ "type": "系统集成商（兼自有 logo 贴牌采购）",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "N-Net（用户记录：工业交换机在用）",
+  "Avaya",
+  "Cisco",
+  "Camtron"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2010 年成立的 ISO 9001:2015 集成商，电信/IT/安防/网络端到端方案；ADMCC 认证 CCTV 集成商",
+   "quote": "IPNS, ISO Certified 9001:2015 UAE based Solutions Consulting System Integration Company established in 2010… ADMCC APPROVED COMPANY – MCC CERTIFIED CCTV INTEGRATOR – ABU DHABI",
+   "url": "https://ipns-uae.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "直接供应 CCTV/IP 摄像机与配件，并有服务器/防火墙方案",
+   "quote": "IPNS is a direct supplier of security cameras (CCTV, network IP, and HD-SDI), video surveillance systems, and CCTV equipment… for home, business and government",
+   "url": "https://ipns-uae.com/products/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "黄页",
+   "claim": "代理品牌含 Avaya、Camtron、Cisco、Plantronics、Polycom",
+   "quote": "Brands: AVAYA… CAMTRON Advanced CCTV System… CISCO Cisco Networking Accessories",
+   "url": "https://www.reachuae.com/abu-dhabi/ipns-intelligent-professional-network-solutions-abu-dhabi-l4564",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（ISAF 2025 现场联系人，见 Clients 表）",
+   "role": "",
+   "email": "",
+   "phone": "+971 55 983 5897（用户记录）",
+   "source": "用户 Clients 表（ISAF 2025）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。",
+ "researched_at": "2026-10-21"
+}

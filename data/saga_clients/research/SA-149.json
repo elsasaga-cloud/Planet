@@ -1,0 +1,31 @@
+{
+ "code": "SA-149",
+ "name_official": "Trans Audio Video Group（意大利）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "意大利音视频/安防集成商，多次采购过交换机（少量工业级，主要商业级），希望合作，问工业电源，要详细报价单；之后 14 次推送 0 回复。",
+ "type": "AV/安防集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "采购过多次交换机、希望合作、要详细报价单；0 回复 / 14 次",
+   "quote": "采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+39 335 737 4068",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "意大利主攻区 + 真实采购史，但报价单发出后 14 次推送 0 回复 → B 慢跟；回复即升 A。",
+ "notes": "重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。",
+ "researched_at": "2026-10-21"
+}

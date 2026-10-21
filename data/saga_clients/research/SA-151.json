@@ -1,0 +1,31 @@
+{
+ "code": "SA-151",
+ "name_official": "ANB Rimex（比利时）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "比利时公司，展会交流：需求 IP67 网口、小体积、PoE 为主；取了很多同行彩页；6 次跟进 0 回复。",
+ "type": "集成/经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "IP67 网口、小体积 PoE；拿了很多同行彩页；0 回复 / 6 次",
+   "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页；32 496 34 18 97（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+32 496 34 18 97 / +32 4229 3797",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。",
+ "notes": "只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。",
+ "researched_at": "2026-10-21"
+}

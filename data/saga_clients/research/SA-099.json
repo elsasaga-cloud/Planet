@@ -1,0 +1,33 @@
+{
+ "code": "SA-099",
+ "name_official": "Marvel ITCS（巴林）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "巴林 IT 经销/集成商，WA 在线，2 次回复、15 次跟进；需求点为'Cisco 型号'。",
+ "type": "IT 经销/集成商",
+ "size": "待补证",
+ "brands_seen": [
+  "Cisco（需求）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "需要 Cisco 型号；WA 已加；2 次回复 / 15 次跟进",
+   "quote": "需要Cisco model；973361 70186 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+973 3617 0186（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。",
+ "notes": "WA 一次性给'Cisco CBS/SG 对位 → STC 系列'替代表（分销 20%）；无回应即停。",
+ "researched_at": "2026-10-21"
+}

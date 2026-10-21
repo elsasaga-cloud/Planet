@@ -1,0 +1,31 @@
+{
+ "code": "SA-144",
+ "name_official": "Mutex Systems Ltd（mutexsystemsltd.com，巴基斯坦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。",
+ "type": "IT 公司",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "买过 UnManaged Switch / 百兆交换机；网站信息少",
+   "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
+ "notes": "回访一封即可。",
+ "researched_at": "2026-10-21"
+}

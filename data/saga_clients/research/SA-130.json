@@ -1,0 +1,31 @@
+{
+ "code": "SA-130",
+ "name_official": "Rfcom（塞萨洛尼基，希腊）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "取目录、一般性回复；WA 已加；2 次回复 / 19 次",
+   "quote": "take catalog general reply；+30-2310-257337 +30 69725 52502 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+30 2310 257337 / +30 697 255 2502（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
+ "notes": "WA 季度触达。",
+ "researched_at": "2026-10-21"
+}

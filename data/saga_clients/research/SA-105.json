@@ -1,0 +1,45 @@
+{
+ "code": "SA-105",
+ "name_official": "Tricomp Sp. z o.o.（华沙，波兰，2002 年）",
+ "website_status": "在线（公司资料页为主）",
+ "summary": "华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。",
+ "type": "IT/电信工程与咨询公司",
+ "size": "小型（1–24 人，D&B 估算）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "Crunchbase",
+   "claim": "业务：咨询/设计/监理/实施，含布线与电信方案、软硬件",
+   "quote": "Tricomp provides services in the fields of consulting, design, management, supervision, and implementation of projects in the fields of real estate, telecommunications, and IT… installation of cabling and telecommunication solutions, hardware and software solutions",
+   "url": "https://www.crunchbase.com/organization/tricomp",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "D&B",
+   "claim": "1–24 人；负责人 Ofwona James Francis",
+   "quote": "Key Principal: Ofwona James Francis… Employees (All sites): 1-24 Modelled",
+   "url": "https://www.dnb.com/business-directory/company-profiles/tricomp-sp-z-o-o.8d31eaeef5c82b804c095fe032e3c8de",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "企业登记",
+   "claim": "2002-07-04 注册，注册资本 5 万 PLN，总裁 James Francis Ofwona",
+   "quote": "Data rejestracji: 04.07.2002… Kapitał zakładowy: 50 000 zł… James Francis Ofwona Prezes Zarządu",
+   "url": "https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "James Francis Ofwona",
+   "role": "Prezes Zarządu（总裁）",
+   "email": "contact@tricomp.com.pl（公开总机邮箱）",
+   "phone": "+48 607 498 206",
+   "source": "D&B / gowork / Crunchbase"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。",
+ "notes": "重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
+ "researched_at": "2026-10-21"
+}

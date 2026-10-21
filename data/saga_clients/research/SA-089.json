@@ -1,0 +1,33 @@
+{
+ "code": "SA-089",
+ "name_official": "Born SPb LLC（ООО «Борн СПб»，圣彼得堡）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。",
+ "type": "多品牌贸易商/分销",
+ "size": "待补证",
+ "brands_seen": [
+  "多家国内品牌（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12",
+   "quote": "有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,33 @@
+{
+ "code": "SA-097",
+ "name_official": "PIOLINK, Inc.（파이오링크，首尔；Secon 2023 参展商）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "韩国网络设备品牌厂商（ADC/安全交换机自有产品线），Secon 2023 参展商；联系人 Tae Gu Lee；需求为'Realtek 高端系列芯片'，1 次回复、24 次跟进。",
+ "type": "品牌厂商（自研交换机）",
+ "size": "中型（韩国上市公司，待补证）",
+ "brands_seen": [
+  "PIOLINK（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "参展商，想要 Realtek 高端系列芯片；联系人 Tae Gu Lee",
+   "quote": "参展商…想要realtek高端系列的芯片 / attn: Tae Gu Lee | telephone: 82-2-2025-6931（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Tae Gu Lee",
+   "role": "（用户记录）",
+   "email": "",
+   "phone": "+82-2-2025-6931 / +82-10-4301-9595",
+   "source": "用户 Clients 表（Secon 2023）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
+ "notes": "若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
+ "researched_at": "2026-10-21"
+}

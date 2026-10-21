@@ -1,0 +1,31 @@
+{
+ "code": "SA-120",
+ "name_official": "Latmedia Group, LLC（乌兹别克斯坦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。",
+ "type": "IT 集成/贸易商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "自建站询盘 L2+/L3 商业交换机；电话 998 90 9767748；0 次跟进",
+   "quote": "L2+/L3商业交换机 / from: 自建站；998 90 9767748（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+998 90 976 7748",
+   "source": "用户 Clients 表（自建站询盘）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。",
+ "researched_at": "2026-10-21"
+}

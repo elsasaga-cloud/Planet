@@ -1,0 +1,40 @@
+{
+ "code": "SA-134",
+ "name_official": "BPTEHNO（bptehno.ru，莫斯科）",
+ "website_status": "在线",
+ "summary": "莫斯科光纤传输系统分销商：向俄罗斯及独联体供应全球光纤系统与信号处理产品（含杭州华泰 Huatai 视频光端机目录），提供方案设计与到门交付；用户记录'可能是公司之前的合作商'，WA 在线，22 次跟进中 5 次回复。",
+ "type": "分销商（光纤传输/视频光端机）",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "Huatai（杭州华泰）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "向俄罗斯与独联体供应光纤系统与信号处理产品，含方案设计；电话与用户记录一致",
+   "quote": "BPTEHNO поставляет на российский рынок и стран СНГ продукцию ведущих мировых производителей оптоволоконных систем… осуществляет проектирование… +7(926)527-42-98 info@bptehno.ru",
+   "url": "https://bptehno.ru/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网 PDF",
+   "claim": "分销杭州华泰 Huatai 光纤系统目录",
+   "quote": "Каталог продукции Huatai Оптоволоконные системы и устройства обработки сигналов… Hangzhou Huatai Optic Technology Co., Ltd (Huatai) была создана в 1999 году",
+   "url": "https://bptehno.ru/wp-content/uploads/2017/07/huatai.pdf",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@bptehno.ru",
+   "phone": "+7 926 527 4298（WA）",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
+ "researched_at": "2026-10-21"
+}

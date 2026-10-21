@@ -1,0 +1,31 @@
+{
+ "code": "SA-140",
+ "name_official": "AYK（ayk.com.pk，巴基斯坦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "巴基斯坦网络产品公司，曾买过管理型 FS（用户记录），群发名单，无跟进互动。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "买过管理 FS；0 次跟进",
+   "quote": "买过管理FS（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。",
+ "notes": "老客户回访一封。",
+ "researched_at": "2026-10-21"
+}

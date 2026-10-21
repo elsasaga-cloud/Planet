@@ -641,6 +641,13 @@ def main():
             ent['research'] = rs
             if rs.get('grade_override') in ('A', 'B', 'C') and not ov:
                 ent['grade'] = rs['grade_override']
+        # 覆盖后的 C 级细分：从理由里取 c_sub=…，否则统一标「调研/人工定级 C」；覆盖为非 C 则清空细分
+        if ent['grade'] == 'C' and ent['grade_auto'] != 'C' and not ent.get('c_sub'):
+            reason = (ov or {}).get('理由', '') if ov else (rs or {}).get('override_reason', '')
+            m = re.search(r'c_sub\s*=\s*([^。；;\s]+)', reason or '')
+            ent['c_sub'] = m.group(1) if m else ('人工定级 C' if ov else '调研后定级 C')
+        elif ent['grade'] != 'C':
+            ent['c_sub'] = ''
     with open(reg_path, 'w', encoding='utf-8') as f:
         json.dump(registry, f, ensure_ascii=False, indent=0)
 

@@ -1,18 +1,20 @@
 # Pt.ras otomasi indonesia
+**官方名称（调研核实）**：PT. RAS Otomasi Indonesia（雅加达/坦格朗，印尼）
 
 > **评级 A**　|　印度尼西亚　|　档案编号 `SA-124`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：工业自动化/MEP 系统集成商（推断）　|　**历史关系**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-124
 rating: A
 rating_auto: A
+name_official: "PT. RAS Otomasi Indonesia（雅加达/坦格朗，印尼）"
 score: 63
 country: 印度尼西亚
 region: 亚太
 website: ras-otomasi.id
-type: 系统集成/工程商
+type: 工业自动化/MEP 系统集成商
 tier_tags: ["WA跟进"]
 deal: no
 replies: 6
@@ -21,19 +23,19 @@ first_contact: 2023-09-11
 last_contact: 2025-10-09
 p1: STI-288DGGPM
 price_tier: 25%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度尼西亚的系统集成/工程商；兴趣/在卖：工业品  din POE比较多 主要是做项目
+- **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。（调研 2026-10-21；表内兴趣：工业品  din POE比较多 主要是做项目）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）；最近一次客户回复：2024-10-22：price
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | Pt.ras otomasi indonesia | 事实（用户表） |
 | 国家 | 印度尼西亚 | 事实（用户表）|
 | 网站/域名 | ras-otomasi.id | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 工业自动化/MEP 系统集成商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Mr. Sudarso Naseh | 事实（用户表） |
 | 来源（From） | 自建站<br>2022.11.22 | 事实（用户表） |
 | 兴趣（Interested in） | 工业品  din POE比较多<br>主要是做项目 | 事实（用户表） |
@@ -53,7 +55,21 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-124.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。
+- **类型**：工业自动化/MEP 系统集成商
+- **规模**：小型（11–50 人，<$5M）
+- **【官网】自动化（PLC/HMI/SCADA）、MEP、安防系统、水处理、IT 基础设施的集成商**
+  > RAS Otomasi Indonesia menyediakan solusi otomasi industri, MEP, infrastruktur IT/Telco, security system, dan sistem integrasi… Perancangan, pemrograman, dan instalasi sistem kontrol berbasis PLC, HMI, dan SCADA
+  > 来源：https://ras-otomasi.id/（抓取 2026-10-21）
+- **【官网】方案含码头 DAS、环境监测、气象站、燃油管理、智慧停车、智慧城市**
+  > Docking Aid System (DAS)… Environmental Monitoring… Integrated Monitoring System (IMS)… Fuel Management System… Smart Parking System… Smart City
+  > 来源：https://www.ras-otomasi.id/solutions/（抓取 2026-10-21）
+- **【ZoomInfo】11–50 人，营收 <$5M**
+  > Pt Ras Otomasi Indonesia's revenue is <$5 Million… has 11-50 employees
+  > 来源：https://www.zoominfo.com/c/pt-ras-otomasi-indonesia/1326650254（抓取 2026-10-21）
+- **KP**：（见 Clients 表联系人）（）info@ras-otomasi.id（公开） +62 813-1042-5123（WA）/ +62 21 5081-2002〔用户 Clients 表 + 官网〕
+- 备注：6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -106,7 +122,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（工业自动化/MEP 系统集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

@@ -1,0 +1,31 @@
+{
+ "code": "SA-096",
+ "name_official": "OM Telecom S.R.L.（秘鲁）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "秘鲁电信设备经销/集成商，WA 在线、2 次回复、18 次跟进；需求为光猫（ONU）+ 工业媒体转换器。",
+ "type": "电信设备经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "需求光猫 + 工业 MC；WA 已加；2 次回复 / 18 次跟进",
+   "quote": "客户找光猫+工业MC；51 989 144163 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+51 989 144 163（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。",
+ "notes": "WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
+ "researched_at": "2026-10-21"
+}

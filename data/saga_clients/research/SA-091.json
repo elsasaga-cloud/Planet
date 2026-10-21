@@ -1,0 +1,53 @@
+{
+ "code": "SA-091",
+ "name_official": "Alpha Net Communications（San Antonio, TX，美国，1986 年起）",
+ "website_status": "在线",
+ "summary": "美国得州圣安东尼奥的结构化布线承包商/小型集成商（1986 年起，1–10 人），服务 1–500 人规模的组织，提供布线、光纤安装、电话系统、无线、摄像、门禁；在售 HPE/Extreme 交换机、Panduit/Hubbell/ICC 布线；A 已回复 1 次（群发 US 表）。",
+ "type": "布线承包商/小型系统集成商",
+ "size": "微型（1–10 人）",
+ "brands_seen": [
+  "HPE",
+  "Extreme Networks",
+  "Avaya",
+  "Cisco",
+  "Panduit",
+  "Hubbell",
+  "ICC"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "1986 年起服务南得州，布线/光纤/电话/无线/摄像/门禁",
+   "quote": "Alpha Net Communications provides structured cabling, fiber optic installation, business phone systems, wireless networking, cameras, access control… serving South Texas since 1986",
+   "url": "https://www.alphanetcom.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "在售 Extreme / HP ProCurve 千兆交换机",
+   "quote": "Extreme Networks Gigabit Switch HP ProCurve Gigabit Switch Service Design and Installation",
+   "url": "https://www.alphanetcom.com/san-antonio-structured-cabling.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "第三方",
+   "claim": "1986 年成立，1–10 人",
+   "quote": "Alpha Net Communications… Founded: 1986-01-01… Employees: 1-10",
+   "url": "https://aeroleads.com/list/top-electronics-companies-in-san-antonio",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+1 210-654-0653",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。",
+ "researched_at": "2026-10-21"
+}

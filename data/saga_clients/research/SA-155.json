@@ -1,0 +1,31 @@
+{
+ "code": "SA-155",
+ "name_official": "Gmka（希腊）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "希腊公司，偶尔用到交换机，索要目录；6 次跟进 0 回复。",
+ "type": "集成/经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "有时候会用到 switch，让发 catalog；0 回复 / 6 次",
+   "quote": "有时候会用到switch 让发catalog；30 6947205247（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+30 694 720 5247",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求偶发、无回复 → 慢跟。",
+ "notes": "季度触达一次。",
+ "researched_at": "2026-10-21"
+}

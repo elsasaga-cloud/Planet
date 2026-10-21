@@ -1,0 +1,59 @@
+{
+ "code": "SA-113",
+ "name_official": "Euro Technology（阿布扎比，阿联酋）",
+ "website_status": "在线（eurotechnology.net）",
+ "summary": "阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。",
+ "type": "安防系统集成商",
+ "size": "小型（≈9 人，≈$7M）",
+ "brands_seen": [
+  "Paradox",
+  "CAME",
+  "Deister Electronic",
+  "Virdi",
+  "CDVI",
+  "Minor（排队系统）"
+ ],
+ "evidence": [
+  {
+   "kind": "行业目录",
+   "claim": "产品：CCTV、门禁、入侵报警；客户垂直含军方、VVIP 宫殿、银行、医疗、政府",
+   "quote": "Euro Technology provides a wide range of fully integrated security technology based business solutions… spanning various verticals like military , VVIP palaces , banking and finance, healthcare, government",
+   "url": "https://www.sourcesecurity.com/companies/euro-technology.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "阿布扎比电话与伊拉克业务",
+   "quote": "For UAE and IRAQ For Abu Dhabi – UAE Tel : + 971 2 6417222… info@eurotechnology.net",
+   "url": "https://eurotechnology.net/contact/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "黄页",
+   "claim": "代理品牌 CAME/Deister/Minor/Paradox/Virdi",
+   "quote": "Brands: CAME Access Control System | DEISTER ELECTRONIC… PARADOX Alarm Systems… VIRDI Access Control System",
+   "url": "https://www.yellowpages-uae.com/abu-dhabi-euro-technology-131527.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "RocketReach",
+   "claim": "约 9 人，营收约 700 万美元",
+   "quote": "$7 million in revenue and 9 employees",
+   "url": "https://rocketreach.co/euror-technology-group-automated-surveillance-security-control-monitoring-systems-profile_b44b7834fcfbbf73",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@eurotechnology.net（公开）",
+   "phone": "+971 2 6417222 / +971 50 751 4160（WA）",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
+ "notes": "WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
+ "researched_at": "2026-10-21"
+}

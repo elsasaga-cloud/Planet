@@ -1,0 +1,31 @@
+{
+ "code": "SA-136",
+ "name_official": "Aarya ITES Pvt. Ltd.（印度）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "印度安防/IT 公司（摄像机、门禁），WA 在线，2 次回复、18 次跟进；询 2 光 4 电百兆 MC 外壳（外购款）。",
+ "type": "安防集成/经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "摄像/门禁；2 光 4 电百兆 MC 外壳；WA 已加",
+   "quote": "Cameras, access control / 2光4电百兆MC外壳(外购那款)；91-98250 95206 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+91 98250 95206（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。",
+ "notes": "WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。",
+ "researched_at": "2026-10-21"
+}

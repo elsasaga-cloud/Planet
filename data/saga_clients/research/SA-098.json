@@ -1,0 +1,31 @@
+{
+ "code": "SA-098",
+ "name_official": "RYMTECH EAS（亚松森，巴拉圭）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "巴拉圭集成/工程商（World Trade Center 亚松森办公地址），WA 在线，3 次回复、18 次跟进，明确需求 2 台 12 光 12 电交换机。",
+ "type": "系统集成/工程商",
+ "size": "小型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "需求 2 台 12 光 12 电；WA 已加；3 次回复；地址 WTC 亚松森",
+   "quote": "2个12光12电 +5959857 48567 已加；Address: Aviadores del Chaco 2050, World -Trade Center, 3rd Tower 14th Floor, Asunción（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+595 985 748 567（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

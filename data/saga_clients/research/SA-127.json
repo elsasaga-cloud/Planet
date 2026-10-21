@@ -1,0 +1,33 @@
+{
+ "code": "SA-127",
+ "name_official": "Testronix（testronix.ph，菲律宾）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。",
+ "type": "经销商",
+ "size": "待补证",
+ "brands_seen": [
+  "uponcomm（用户记录：在采）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "从 uponcomm 买了很多模块；0 回复",
+   "quote": "从uponcomm买了很多模块（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。",
+ "notes": "一封邮件带 SFP 光口交换机即可。",
+ "researched_at": "2026-10-21"
+}

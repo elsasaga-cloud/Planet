@@ -1,0 +1,45 @@
+{
+ "code": "SA-124",
+ "name_official": "PT. RAS Otomasi Indonesia（雅加达/坦格朗，印尼）",
+ "website_status": "在线",
+ "summary": "印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。",
+ "type": "工业自动化/MEP 系统集成商",
+ "size": "小型（11–50 人，<$5M）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自动化（PLC/HMI/SCADA）、MEP、安防系统、水处理、IT 基础设施的集成商",
+   "quote": "RAS Otomasi Indonesia menyediakan solusi otomasi industri, MEP, infrastruktur IT/Telco, security system, dan sistem integrasi… Perancangan, pemrograman, dan instalasi sistem kontrol berbasis PLC, HMI, dan SCADA",
+   "url": "https://ras-otomasi.id/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "方案含码头 DAS、环境监测、气象站、燃油管理、智慧停车、智慧城市",
+   "quote": "Docking Aid System (DAS)… Environmental Monitoring… Integrated Monitoring System (IMS)… Fuel Management System… Smart Parking System… Smart City",
+   "url": "https://www.ras-otomasi.id/solutions/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "ZoomInfo",
+   "claim": "11–50 人，营收 <$5M",
+   "quote": "Pt Ras Otomasi Indonesia's revenue is <$5 Million… has 11-50 employees",
+   "url": "https://www.zoominfo.com/c/pt-ras-otomasi-indonesia/1326650254",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@ras-otomasi.id（公开）",
+   "phone": "+62 813-1042-5123（WA）/ +62 21 5081-2002",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。",
+ "researched_at": "2026-10-21"
+}

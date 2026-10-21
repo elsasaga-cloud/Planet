@@ -1,0 +1,31 @@
+{
+ "code": "SA-129",
+ "name_official": "Net Work Business Solutions（爱沙尼亚）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。",
+ "type": "IT/网络服务商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "一般性信息交流；WA 已加；3 次回复 / 19 次",
+   "quote": "general information network business solutions；372 5151032 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+372 515 1032（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。",
+ "notes": "WA 维持；有具体项目再报价。",
+ "researched_at": "2026-10-21"
+}

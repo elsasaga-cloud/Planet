@@ -1,0 +1,47 @@
+{
+ "code": "SA-162",
+ "name_official": "Cansis Teknoloji（Can-Sis Güvenlik ve Bilgisayar Sistemleri，Çumra/科尼亚，土耳其）",
+ "website_status": "在线（简页）",
+ "summary": "土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。",
+ "type": "小型安防/电脑零售安装商",
+ "size": "微型",
+ "brands_seen": [
+  "Armiya Teknoloji（代理）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "地址与联系人邮箱",
+   "quote": "03324474226… İzzetbey, Hıdır Sk., 42500 Çumra/Konya… acan@cansisteknoloji.com",
+   "url": "http://www.cansisteknoloji.com",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "业务：电脑维修买卖、摄像与报警系统",
+   "quote": "Cansis Teknoloji, Çumra. Bilgisayar Bakım-Onarım ve Alım-Satım Kamera ve Alarm Sistemleri",
+   "url": "https://www.facebook.com/cansisteknoloji/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "行业目录",
+   "claim": "店主 Ahmet Can，电话 0541 541 0010（与用户记录一致）",
+   "quote": "CAN-SİS GÜVENLİK VE BİLGİSAYAR SİSTEMLERİ AHMET CAN 03324474226 05415410010",
+   "url": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-firmalari/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Ahmet Can",
+   "role": "店主",
+   "email": "acan@cansisteknoloji.com",
+   "phone": "+90 541 541 0010（WA）/ +90 332 447 4226",
+   "source": "官网 + 行业目录 + 用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
+ "notes": "WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
+ "researched_at": "2026-10-21"
+}

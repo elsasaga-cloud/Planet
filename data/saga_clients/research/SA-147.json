@@ -1,0 +1,54 @@
+{
+ "code": "SA-147",
+ "name_official": "Sur-Link Technology（圣克鲁斯，玻利维亚）",
+ "website_status": "在线",
+ "summary": "玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。",
+ "type": "批发分销商（布线/光纤/网络）",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "Corning（分销）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "圣克鲁斯公司，地址/电话与销售联系人（Ivan Ortega、Mauricio Eguez 等）",
+   "quote": "Sur - Link Technology (Bolivia) Av Guapay Nro. 2675… Telf.: +591-3-312-3371… Sr Ivan Ortega iortega@surlink-tech.com +591-74953834 · Sr Mauricio Eguez ventas05@surlink-tech.com",
+   "url": "https://www.surlink-tech.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Facebook",
+   "claim": "技术产品批发分销商：Cat6a/Cat6/Cat5e、光纤、ADSS 五金、机柜",
+   "quote": "Distribuidor mayorista de tecnologia: Cat6a cat6 cat5e Fibra óptica sm mm Ferreteria adss Racks",
+   "url": "https://www.facebook.com/p/SUR-LINK-technology-bolivia-100063766464860/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Corning",
+   "claim": "Corning 光通信玻利维亚分销商，联系人 emiranda@surlink-tech.com",
+   "quote": "Guapay # 2675… Santa Cruz de la Sierra, Bolivia… Email: emiranda@surlink-tech.com",
+   "url": "https://www.corning.com/optical-communications/cala/en/home/support/distributors/bolivia.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Eduardo Miranda",
+   "role": "（官网列为主要联系人；Corning 分销联系人）",
+   "email": "emiranda@surlink-tech.com",
+   "phone": "+591 75009995",
+   "source": "官网 + Corning 分销商页"
+  },
+  {
+   "name": "Ivan Ortega",
+   "role": "Ventas（销售）",
+   "email": "iortega@surlink-tech.com",
+   "phone": "+591 74953834",
+   "source": "官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。",
+ "researched_at": "2026-10-21"
+}

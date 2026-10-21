@@ -1,0 +1,31 @@
+{
+ "code": "SA-126",
+ "name_official": "Onnet Technologies（阿联酋）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "阿联酋 IT 贸易商，WA 在线，A 已回复 1 次；用户记录：总说价格高、熟悉中国市场价、与中国供应商长期合作。",
+ "type": "IT 贸易商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "价格导向、熟悉中国行情、有长期中国供应商",
+   "quote": "老说价格高 比较了解中国市场价 和中国供应商长期合作；971 50 559 4409 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+971 50 559 4409（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。",
+ "notes": "只在有尾货/促销时触达；不做长期投入。",
+ "researched_at": "2026-10-21"
+}

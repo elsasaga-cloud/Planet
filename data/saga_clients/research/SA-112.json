@@ -1,0 +1,55 @@
+{
+ "code": "SA-112",
+ "name_official": "SMBIT Ltd（Mazkeret Batya，以色列，2012 年）",
+ "website_status": "在线",
+ "summary": "以色列 ICT 集成商（2012 年起，约 14 人，ISO 认证）：路由交换、企业 WiFi（Ubiquiti 经销商，装机 1 万+ AP）、毫米波无线、LoRa IoT、GPON、智慧城市平台 EKRON；中标耶路撒冷全市毫米波网络；自建站询盘：IM-FS480GW 4 台、2025 年约 150 台，WA 已加，邮件 0 回复 / 5 次。",
+ "type": "ICT 系统集成商（含市政智慧城市项目）",
+ "size": "小型（≈14 人）",
+ "brands_seen": [
+  "Ubiquiti",
+  "EKRON（自有软件）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2012 年起的 ICT 服务商：路由交换、WiFi、毫米波、IoT、GPON、智慧城市",
+   "quote": "SMBIT has been operating in the field of ICT since 2012… Routing, switching and consolidation of lines… Wireless links in millimeter waves… Fiber optic GPON",
+   "url": "https://www.smbit.co.il/?lang=en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "中标耶路撒冷全市毫米波网络（连接市政/学校/路口摄像）",
+   "quote": "SMBIT has won a tender to set up a millimeter-wave communications network covering all of Jerusalem… connecting municipal offices, educational institutions, and security cameras",
+   "url": "https://www.smbit.co.il/post/holy-city-to-become-smart-city",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "RocketReach",
+   "claim": "约 14 人，2012 年创立，ICT 集成",
+   "quote": "SMBIT LTD is an ICT integration company… Employees · 14… Founded · 2012",
+   "url": "https://rocketreach.co/smbitltd-profile_b42615b5ff38c478",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Ubiquiti",
+   "claim": "Ubiquiti 以色列经销商，电话 +972 77 6001070",
+   "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya… +972 77 6001070",
+   "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（自建站询盘联系人，见 Clients 表）",
+   "role": "",
+   "email": "",
+   "phone": "+972 54 493 7099（WA）",
+   "source": "用户 Clients 表（自建站询盘）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "入站询盘 + 年量预估（≈150 台工业 PoE）= 可追溯真实需求；集成商尺寸可赢。市政/学校项目属公共部门边缘，但 Saga 卖给集成商为商业交易，可做；不参与投标主体。P1：STI-288DGGPM（IM-FS480GW 对位：8 电 + 光口工业 PoE，核对现行型号），项目价阶 25%。邮件不回 → WA。",
+ "researched_at": "2026-10-21"
+}

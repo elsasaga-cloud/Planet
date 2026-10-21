@@ -1,0 +1,31 @@
+{
+ "code": "SA-133",
+ "name_official": "Bargas（bargas.ru，俄罗斯）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "俄罗斯工商业 FS 销售平台（多家品牌），1 次回复、10 次跟进。",
+ "type": "电商/销售平台",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "工商业 FS 多品牌销售平台；1 次回复 / 10 次",
+   "quote": "工商业FS 好多家的 销售平台（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。",
+ "notes": "一封邮件给上架用 SKU 清单（分销 20%）。",
+ "researched_at": "2026-10-21"
+}

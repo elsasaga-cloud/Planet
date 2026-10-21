@@ -1,0 +1,33 @@
+{
+ "code": "SA-132",
+ "name_official": "Avanca（avanca.com.sg，新加坡）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "新加坡工业自动化/网络产品经销商，在售 Red Lion 工业 FS（用户记录），1 次回复、11 次跟进，最近 2024 年。",
+ "type": "工业产品经销商",
+ "size": "待补证",
+ "brands_seen": [
+  "Red Lion（用户记录：在售）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "Red Lion 工业 FS；1 次回复 / 11 次；2024",
+   "quote": "redlion的工业FS；邮件中有详细的联系信息（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表邮件签名）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。",
+ "notes": "重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,51 @@
+{
+ "code": "SA-092",
+ "name_official": "Data Connect Enterprise, Inc.（Maryland，美国）",
+ "website_status": "在线",
+ "summary": "美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。",
+ "type": "品牌商（自有品牌）+ 分销",
+ "size": "中小型（三地库存设施；人数待补证）",
+ "brands_seen": [
+  "DCE（自有）",
+  "Ctek",
+  "Relcomm",
+  "Synxcom",
+  "Telenetics"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "三地库存、面向数据/语音/网络/SCADA；收购多品牌 IP，自称美国商用与工业级连接产品制造商",
+   "quote": "We stock in our Maryland, New Jersey, and California facilities… Data Connect has acquired the intellectual property, manufacturing and/or licensing rights for a large number of products previously produced under Ctek, Relcomm, Synxcom, Telenetics… Today Data Connect is a premier U.S. manufacturer of commercial and industrial grade connectivity products",
+   "url": "https://www.data-connect.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "DCE 品牌 10/100M 与千兆媒体转换器",
+   "quote": "DCE BRAND DCE MC Series 10/100M Media Converters… DCE Gigabit Media Converter",
+   "url": "https://www.data-connect.com/media_fiber_converters.htm",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "GlobalSpec",
+   "claim": "DCE 工业千兆媒体转换器 EMC202GigE",
+   "quote": "Industrial Gigabit Ethernet To Fiber Media Converter -- EMC202GigE… Supplier: Data Connect Enterprise, Inc.",
+   "url": "https://www.globalspec.com/industrial-directory/video_signal_to_ethernet_converter",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+1 888-492-6526",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。",
+ "researched_at": "2026-10-21"
+}

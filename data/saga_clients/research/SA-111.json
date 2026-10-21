@@ -1,0 +1,54 @@
+{
+ "code": "SA-111",
+ "name_official": "Regal Distributors SA (Pty) Ltd（Regal Security，约翰内斯堡，南非）",
+ "website_status": "在线",
+ "summary": "南非最大的多品牌电子安防分销商之一（1981 年起，30+ 分支，201–500 人，4,000+ SKU；Hikvision/Paxton/ZKTeco/Hanwha 全国分销伙伴），用户记录其 MC/PoE/FS 主要来自 Upeto、Planet、itoonertech 三个品牌；1 次回复、19 次跟进。",
+ "type": "大型区域安防分销商",
+ "size": "大型（201–500 人，30+ 分支）",
+ "brands_seen": [
+  "Hikvision",
+  "Paxton",
+  "ZKTeco",
+  "Hanwha Vision",
+  "DMP",
+  "Upeto（用户记录）",
+  "Planet（用户记录）",
+  "itoonertech（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "1981 年成立，29 个分支，南非最成功的多品牌安防分销商",
+   "quote": "29 The number of branches conveniently located across South Africa… 1981 The year Regal Distributors SA(Pty)Ltd was established… South Africa's most successful multi-brand distributors of electronic security equipment",
+   "url": "https://regalsecurity.co.za/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "201–500 人",
+   "quote": "Company size: 201-500 employees… Headquarters: Johannesburg",
+   "url": "https://za.linkedin.com/company/r-distributors",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "公司简介 PDF",
+   "claim": "32 个分支（2023），Hikvision/Paxton/ZKTeco/Hanwha 分销伙伴",
+   "quote": "Regal Security has grown from just 2 branches to 32 – nationwide! We are distribution partners for… Hikvision, Paxton, ZKTeco, and Hanwha Vision",
+   "url": "https://schoolscape.co.za/wp-content/uploads/2025/02/Regal-Company-Profile.pdf",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表邮件签名）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表（'邮件中有详细的联系信息'）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。",
+ "notes": "重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,49 @@
+{
+ "code": "SA-161",
+ "name_official": "Born Electronics Limited（英国，公司号 12222108）",
+ "website_status": "在线（产品站）",
+ "summary": "英国注册公司（2019-09-23 成立，注册地址 Morden），官网列出 BI 系列工业 L2/L3 管理 PoE 交换机（ERPS、DIN 导轨、10G SFP+）等白牌机型；Companies House 最新账目为'休眠公司'（截至 2024-09-30）；用户记录其有 N-net/ONV 工业 FS，2024 年回复 1 次。",
+ "type": "疑似国产工业交换机品牌的英国前台/休眠壳公司",
+ "size": "微型（休眠账目）",
+ "brands_seen": [
+  "BI 系列（自有型号）",
+  "N-net（用户记录）",
+  "ONV（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "Companies House",
+   "claim": "2019-09-23 注册，地址 Morden，状态 Active",
+   "quote": "BORN ELECTRONICS LIMITED… Registered office address: 115 London Road, Morden… Incorporated on: 23 September 2019",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12222108",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "Companies House",
+   "claim": "截至 2024-09-30 的账目为休眠公司账目",
+   "quote": "21 Sep 2025 AA Accounts for a dormant company made up to 30 September 2024",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12222108/filing-history",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "自有型号 BI9208PGM4T 工业 L3 管理 PoE 8 电 + 4×10G SFP+，ERPS",
+   "quote": "8-Port Gigabit Industrial L3 Managed Switch with 4-Port 10G SFP+ Uplink BI9208PGM4T… Industrial Ring · G.8032 (ERPS)… +44 7859 571344",
+   "url": "https://bornelectronics.com/product/8-port-gigabit-industrial-l3-managed-switch-with-4-port-10g-sfp-uplink-bi9208pgm4t/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@bornelectronics.com（公开）",
+   "phone": "+44 7859 571344",
+   "source": "官网 + 用户 Clients 表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "公司账目为休眠（无实际经营），产品站为国产白牌工业交换机型号目录，更像同行品牌的英国壳/前台而非渠道买家；1 次回复（2024）后无后续。c_sub=疑似同行/休眠公司。",
+ "notes": "不投入；若对方以采购身份主动来再核实经营实体。",
+ "researched_at": "2026-10-21"
+}

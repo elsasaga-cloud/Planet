@@ -1,0 +1,31 @@
+{
+ "code": "SA-122",
+ "name_official": "PT. Anugerah（印度尼西亚）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "2011 年买过 12 台延长器",
+   "quote": "2011年买过12台延长器（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。",
+ "notes": "回访一封；待补证：完整公司名与网站。",
+ "researched_at": "2026-10-21"
+}

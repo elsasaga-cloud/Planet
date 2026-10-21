@@ -1,0 +1,31 @@
+{
+ "code": "SA-137",
+ "name_official": "Avesta（英国）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "英国网络产品贸易商，展会现场详谈：只对非管理商用 PoE 有兴趣，计划 7 月来深圳参观，问 2 光 24 电特点（混速/全千兆、extend 250 m、可 OEM），承诺发需求（MOQ/规格），另问电力线产品；之后 17 次推送 0 回复。",
+ "type": "贸易商/分销",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "只对非管理 PoE 商业有兴趣；计划来深圳；问 2 光 24 电；可 OEM；0 回复 / 17 次",
+   "quote": "只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司 问了2光24电的特点…3，可以OEM，价格好 客户说会发需求以及想知道的信息（MOQ/规格等）（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+44 7455 243224",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
+ "notes": "重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
+ "researched_at": "2026-10-21"
+}

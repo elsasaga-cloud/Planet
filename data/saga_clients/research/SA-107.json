@@ -1,0 +1,33 @@
+{
+ "code": "SA-107",
+ "name_official": "4Demand Co（阿联酋）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "阿联酋 IT 贸易商，WA 在线，2 次回复、18 次跟进；需求为 Cisco SFP-10G-LR 光模块 25 只。",
+ "type": "IT 贸易商",
+ "size": "待补证",
+ "brands_seen": [
+  "Cisco（需求）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "需求 Cisco SFP-10G-LR ×25；WA 已加",
+   "quote": "Cisco SFP-10G-LR 25个；971 55 964 5463 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+971 55 964 5463（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。",
+ "notes": "WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。",
+ "researched_at": "2026-10-21"
+}

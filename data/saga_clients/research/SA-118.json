@@ -1,0 +1,31 @@
+{
+ "code": "SA-118",
+ "name_official": "Topica（topica.mn，蒙古国）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "蒙古国网络设备贸易商，E 渠道 2025 年回复 1 次（回复含详细联系方式），兴趣 MC/SFP/交换机，关注外壳款式多样。",
+ "type": "贸易商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "MC/SFP/switch，很多外壳；E 已回复",
+   "quote": "MC SFP switch 很多外壳；回复里有详细联系方式（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表回复签名）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
+ "notes": "回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,31 @@
+{
+ "code": "SA-101",
+ "name_official": "Thimphu Techpark（卡塔尔）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "卡塔尔 IT/网络经销商，WA 在线，1 次回复、19 次跟进；需求收发器、SFP/PoE 交换机。",
+ "type": "IT/网络经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "需求收发器、SFP/PoE 交换机；WA 已加；1 次回复 / 19 次跟进",
+   "quote": "收发器、SFP/POE交换机；975-171 13202 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+974 7113 202（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "1 次回复后 18 次推送无果；中东非主攻区；需求泛（收发器/SFP 非 Saga 主线）→ 慢跟。",
+ "notes": "WA 只在有 PoE 新品/促销时触达（STC-28DGGPM，分销 20%）。",
+ "researched_at": "2026-10-21"
+}

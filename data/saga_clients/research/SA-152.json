@@ -1,0 +1,31 @@
+{
+ "code": "SA-152",
+ "name_official": "Bilge Security Systems（土耳其；ISAF 2025）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。",
+ "type": "安防安装/经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "不懂英文、拿彩页、要 PoE switch；WA 已加",
+   "quote": "不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+90 532 120 2931（WA）",
+   "source": "用户 Clients 表（ISAF 2025）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
+ "notes": "WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,31 @@
+{
+ "code": "SA-139",
+ "name_official": "Amity Technologies（amitytechnologies.co.in，印度）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "印度网络产品公司，群发名单（富通天下），兴趣工业 FS，无任何跟进互动。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "工业 FS；0 次跟进",
+   "quote": "工业FS（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "无互动、仅群发来源、印度非主攻区；A 级自动判定来自历史成交/关键词，证据不足 → B。",
+ "notes": "一封首触邮件即可。",
+ "researched_at": "2026-10-21"
+}

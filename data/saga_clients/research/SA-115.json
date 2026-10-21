@@ -1,0 +1,31 @@
+{
+ "code": "SA-115",
+ "name_official": "Advance Digital（advancedigital.co.in，印度）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "印度网络/光通信产品贸易商，WA 在线，3 次回复、15 次跟进；要求报光产品价格。",
+ "type": "贸易商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "要光产品报价；WA 已加；3 次回复",
+   "quote": "send price of optical product；94260 60606 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+91 94260 60606（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。",
+ "notes": "WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。",
+ "researched_at": "2026-10-21"
+}

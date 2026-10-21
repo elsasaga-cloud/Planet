@@ -1,0 +1,31 @@
+{
+ "code": "SA-167",
+ "name_official": "Voltech Elektronik（Silivri/伊斯坦布尔，土耳其）",
+ "website_status": "在线（'网站建设中'占位页）",
+ "summary": "土耳其 Silivri 地区小型电子/安防服务商（摄像系统、报警、电脑、电话交换机、电气电子服务），官网为建设中占位页；ISAF 2025 现场取彩页，找工业级 PoE 网管交换机；WA 已加（+90 551 375 12 25 与官网一致），无后续互动。",
+ "type": "小型安防/电气安装商",
+ "size": "微型",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务范围与 WhatsApp 号码；网站建设中",
+   "quote": "Voltech Elektronik: Kamera sistemleri, telefon santral, bilgisayar çözümleri, alarm ve güvenlik sistemleri… Silivri ve çevresinde… Web sitemiz yapım aşamasında… WhatsApp: +90 551 375 12 25",
+   "url": "http://www.voltechelektronik.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@voltechelektronik.com（公开）",
+   "phone": "+90 551 375 12 25（WA）/ +90 532 548 9162",
+   "source": "官网 + 用户 Clients 表（ISAF 2025）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "微型安装商、需求仅'找工业 PoE 网管'且无后续互动；土耳其主攻区故保留 B。",
+ "notes": "WA 一次：STI-288DGGPM 图片+价格（项目 25%）。",
+ "researched_at": "2026-10-21"
+}

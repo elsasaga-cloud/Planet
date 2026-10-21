@@ -1,0 +1,31 @@
+{
+ "code": "SA-121",
+ "name_official": "Multilink (Pvt) Ltd（津巴布韦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "津巴布韦网络/安防设备公司，2011–2013 年多次成交（8V1D、16V1D、18 路机架光端机，2013 年买过 FS），E 冷名单 1 次跟进 0 回复。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "2011–2013 年买过 8V1D/16V1D/18 机架光端机与 FS",
+   "quote": "8V1D 16V1D 18机架 11 13年 13年买了FS 很多种类的（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。",
+ "notes": "一封老客户回访邮件（FS 对位 STI 工业线）即可。",
+ "researched_at": "2026-10-21"
+}

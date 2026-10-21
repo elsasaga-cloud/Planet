@@ -1,0 +1,33 @@
+{
+ "code": "SA-117",
+ "name_official": "Domoticalia（domoticalia.es，西班牙）",
+ "website_status": "未单独检索（仅用户记录 + 用户 AI 评估）",
+ "summary": "西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。",
+ "type": "电商零售（智能家居为主）",
+ "size": "微型/小型（待补证）",
+ "brands_seen": [
+  "Witek（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "多品牌电商，工业 FS 为 Witek；0 回复 / 8 次；AI 评估 40%B / 8%C",
+   "quote": "很多牌子的 / 工业FS Witek的；早期ai: 40% B 西班牙智能家居和网络设备电商平台… max: 8% C 站点重心偏智能家居（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。",
+ "notes": "一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。",
+ "researched_at": "2026-10-21"
+}

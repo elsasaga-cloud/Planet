@@ -1,0 +1,31 @@
+{
+ "code": "SA-125",
+ "name_official": "Excellent Data Communication（马来西亚）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "马来西亚网络设备经销/集成商，WA 在线，1 次回复、14 次跟进；询 8 电口与 4 光 6 电管理型。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "8 电口、4 光 6 电管理；WA 已加",
+   "quote": "8电口 4光6电管理；6014398 5644 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+60 14-398 5644（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "规格需求存在但 1 次回复后 13 次推送无果；东南亚非主攻区 → 慢跟。",
+ "notes": "WA 一次性报 4 光 6 电管理型（核价）与 STC-28DGGPM。",
+ "researched_at": "2026-10-21"
+}

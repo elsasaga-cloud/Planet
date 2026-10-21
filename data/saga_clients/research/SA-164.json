@@ -1,0 +1,47 @@
+{
+ "code": "SA-164",
+ "name_official": "DABOS, Inc.（Rockville/North Bethesda, MD，美国）",
+ "website_status": "在线",
+ "summary": "美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。",
+ "type": "综合采购/分销平台（非网络专业渠道）",
+ "size": "小型（11–50 人；销售额 $10–25M 估）",
+ "brands_seen": [
+  "Trendnet（询盘对象）"
+ ],
+ "evidence": [
+  {
+   "kind": "Facebook",
+   "claim": "100 万+ 实验室/工业/商用/家用产品，采购与批量订购",
+   "quote": "Shop over 1 million lab, industrial, commercial, and home products. Dabos delivers top sourcing, bulk ordering options, logistics, and storage… 12266 Wilkins Avenue, Ste A, Rockville, MD",
+   "url": "https://www.facebook.com/DabosInc/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "医疗器械/实验室产品分销，11–50 人，1997 年",
+   "quote": "Industry: Medical Device… Company size: 11-50 employees… Specialties: laboratory products distribution and medical products distribution",
+   "url": "https://www.linkedin.com/company/dabosinc",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "D&B",
+   "claim": "总裁 David McNairy",
+   "quote": "Name: David McNairy Title: President Company: DABOS, INC.",
+   "url": "https://www.dnb.com/contact-directory/contact-profile.david_mcnairy.43e01d279265c3c74837d111a82337a0.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表询盘联系人）",
+   "role": "",
+   "email": "info@dabos.com（公开）",
+   "phone": "+1 240-880-2485",
+   "source": "用户 Clients 表 + 公开资料"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。",
+ "notes": "回复一次：Trendnet 8 口对位 STC-28DGGPM（FCC 文件齐），分销 20%；无回应即停。",
+ "researched_at": "2026-10-21"
+}

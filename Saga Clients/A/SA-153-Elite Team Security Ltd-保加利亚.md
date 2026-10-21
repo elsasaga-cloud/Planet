@@ -1,18 +1,20 @@
 # Elite Team Security Ltd
+**官方名称（调研核实）**：Elite Team Security OOD（Елит-Тим-Секюрити，弗拉察 Vratsa，保加利亚）
 
 > **评级 A**　|　保加利亚　|　档案编号 `SA-153`　|　优先级 ★★★　|　状态：回复暂无需求
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：回复暂无需求 1 次；WhatsApp 已加；推送 1 次（2025-12-04 → 2025-12-04）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安保服务商 + 视频监控集成（终端用户/集成商）（推断）　|　**历史关系**：回复暂无需求 1 次；WhatsApp 已加；推送 1 次（2025-12-04 → 2025-12-04）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-153
 rating: A
 rating_auto: A
+name_official: "Elite Team Security OOD（Елит-Тим-Секюрити，弗拉察 Vratsa，保加利亚）"
 score: 60
 country: 保加利亚
 region: 欧洲
 website: elitteamsecurity.com
-type: 系统集成/工程商
+type: 安保服务商 + 视频监控集成（终端用户/集成商）
 tier_tags: ["A已回复"]
 deal: no
 replies: 0
@@ -21,19 +23,19 @@ first_contact: 2025-12-04
 last_contact: 2025-12-04
 p1: STC-28DGGPM
 price_tier: 25%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：保加利亚的系统集成/工程商；兴趣/在卖：4 8口PoE，CCTV 监控较多，光少一些/发price list, full info, 想专业一些，有比较多的项目
+- **是谁**：保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。（调研 2026-10-21；表内兴趣：4 8口PoE，CCTV 监控较多，光少一些/发price list, full info, 想专业一些，有比较多的项目）
 - **为什么是 A 级**：+6 有互动但表示暂无需求/已有供应商 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 1 次（2025-12-04 → 2025-12-04）；最近一次客户回复：2025-12-04：Interested 但 嫌价格贵
 - **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | Elite Team Security Ltd | 事实（用户表） |
 | 国家 | 保加利亚 | 事实（用户表）|
 | 网站/域名 | elitteamsecurity.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 安保服务商 + 视频监控集成（终端用户/集成商） | 推断（据兴趣/备注关键词） |
 | 联系人 | Lachezar Ivanov / Technical Manager | 事实（用户表） |
 | 来源（From） | IFSEC fair 2023 | 事实（用户表） |
 | 兴趣（Interested in） | 4 8口PoE，CCTV 监控较多，光少一些/发price list, full info, 想专业一些，有比较多的项目 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-153.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（第三方资料）
+- **是谁**：保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。
+- **类型**：安保服务商 + 视频监控集成（终端用户/集成商）
+- **规模**：小型（22 人，€0–2M）
+- **在卖/在用品牌**：AxxonSoft（合作伙伴）
+- **【AxxonSoft 合作伙伴页】持牌安保公司，10 年业务，监看 3,000+ 摄像头，IP 方案**
+  > Elite Team Security is а Bulgarian company, licensed in security… has been in the security business for 10 years… We watch more than 3000 cameras in real time
+  > 来源：https://www.axxonsoft.com/partners/partner-locator/bulgaria/elite-team-security-ood（抓取 2026-10-21）
+- **【EMIS】22 名员工（2022），总部弗拉察**
+  > Elite Team Security OOD… currently employs 22 (2022) people. Headquarters Reka Leva, Bul./Ul. Ul.Ostri Vrah 1 Vratsa
+  > 来源：https://www.emis.com/php/company-profile/BG/Elite_Team_Security_OOD__%D0%95%D0%BB%D0%B8%D1%82_-_%D0%A2%D0%B8%D0%BC_-_%D0%A1%D0%B5%D0%BA%D1%8E%D1%80%D0%B8%D1%82%D0%B8_%D0%9E%D0%9E%D0%94__en_13259109.html（抓取 2026-10-21）
+- **【findbiz】销售 €0–2M，11–50 人，经理 Radka Ivanova**
+  > SALES(€) 0-2m 2022 EMPLOYEES 11-50… Manager · RADKA ANGELOVA IVANOVA
+  > 来源：https://findbiz.gr/en/company/elite-team-security/270037185652（抓取 2026-10-21）
+- **KP**：（见 Clients 表联系人）（） +359 879 377 573（WA；与公司公开号码一致）〔用户 Clients 表 + AxxonSoft 页〕
+- 备注：已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -87,7 +104,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安保服务商 + 视频监控集成（终端用户/集成商）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

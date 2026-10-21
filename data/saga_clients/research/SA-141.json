@@ -1,0 +1,31 @@
+{
+ "code": "SA-141",
+ "name_official": "Comtec（comtec.com.vn，越南）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "越南网络产品公司，群发名单，兴趣 SFP 模块，无跟进互动。",
+ "type": "经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "SFP 模块；0 次跟进",
+   "quote": "SFP模块（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品类为光模块（非主线）、无互动、越南非主攻区 → B。",
+ "notes": "首触邮件带 SFP 光口交换机。",
+ "researched_at": "2026-10-21"
+}

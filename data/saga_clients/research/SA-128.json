@@ -1,0 +1,31 @@
+{
+ "code": "SA-128",
+ "name_official": "DIOS Ultra HD Video Security（荷兰）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。",
+ "type": "安防集成/经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "业务 Ultra HD Video；WA 已加；1 次回复 / 16 次",
+   "quote": "公司业务：Ultra HD Video；31(0)6 -46 85 3228 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+31 6 4685 3228（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。",
+ "notes": "WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。",
+ "researched_at": "2026-10-21"
+}

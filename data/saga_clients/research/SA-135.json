@@ -1,0 +1,48 @@
+{
+ "code": "SA-135",
+ "name_official": "Megatel Industries（美国；自有 logo 工业以太网产品线）",
+ "website_status": "在线",
+ "summary": "美国工业以太网产品网店/品牌商：自有 logo 的 IFS/IGS/IMC/ITP/IPSW/FMC 系列（工业管理型 PoE 交换机、工业介质转换器、IP40 非管理交换机），用户记录其大多为 CTCU（CTC Union）贴牌、亦有 ONV 设备；标价高（8 口千兆管理 PoE 标 $1,800 售 $699；6 口非管理 PoE 售 $145）；S 重点名单，22 次推送 0 回复。",
+ "type": "品牌商/网店（OEM 采购）",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "CTC Union（用户记录：主要来源）",
+  "ONV（用户记录）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自有型号 IGS-803SM-8PH24 工业 8 口千兆管理 PoE + 3 SFP，标 $1,800 售 $699",
+   "quote": "IGS-803SM-8PH24, Industrial Managed Gigabit PoE Switch… Price: $1,800.00 Sale Price: $699.00… 8 ports 10/100/1000Base-T(X)… and 3 SFP",
+   "url": "https://www.megatelindustries.com/ge-managed-poe-ethernet-switch.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "IPSW-G04-1GE1SFP 6 口工业非管理 PoE 售 $145",
+   "quote": "IPSW-G04-1GE1SFP is a full Gigabit industrial PoE switch with 5x10/100/1000Base-T RJ45 ports and 1x1000Base-X uplink SFP slot… Sale Price: $145.00",
+   "url": "https://www.megatelindustries.com/ipinun6gipoe.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "IMC-1000MS-PHE12 管理型千兆 PoE 介质转换器售 $345",
+   "quote": "IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter… Sale Price: $345.00",
+   "url": "https://www.megatelindustries.com/imc1000100012.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表（S 重点）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。",
+ "researched_at": "2026-10-21"
+}

@@ -1,0 +1,41 @@
+{
+ "code": "SA-159",
+ "name_official": "Telemobil Bilgi ve İletişim Hizmetleri San. ve Tic. Ltd. Şti.（伊斯坦布尔，土耳其，2004 年）",
+ "website_status": "在线（telemobil.com.tr；用户记录称网站打不开，本次检索可见）",
+ "summary": "伊斯坦布尔 IT/网络/电信服务公司（2004 年创立，面向中小企业与大型企业：结构化布线、网络、安防/摄像、互联网与电信服务；微软/赛门铁克咨询、服务器/防火墙/路由器/NAS 及有源无源产品）；ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注'可重点跟进'；WA 已加。",
+ "type": "IT/网络系统集成商",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "Microsoft",
+  "Symantec"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "2004 年创立，向企业客户提供网络与电信服务；布线、网络、安防、摄像方案",
+   "quote": "Bilişim sektöründe kurumsal müşterilerine Network ve Telekomünikasyon hizmetleri vermek amacıyla 2004 yılında kurulan TELEMOBİL… yapısal kablolama, network hizmetleri, güvenlik çözümleri, kamera çözümleri",
+   "url": "http://www.telemobil.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "法人全称与电话",
+   "quote": "Telemobil Bilgi ve İletişim Hizmetleri Sanayi ve Ticaret Limited Şirketi Telefon: 0216 520 1224",
+   "url": "http://www.telemobil.com.tr/iletisim.html",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+90 533 086 6289（WA）/ 0216 547 6700（用户记录）",
+   "source": "用户 Clients 表（ISAF 2025）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。",
+ "researched_at": "2026-10-21"
+}

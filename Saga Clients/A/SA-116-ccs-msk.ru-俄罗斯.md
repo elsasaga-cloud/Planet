@@ -1,18 +1,20 @@
 # ccs-msk.ru
+**官方名称（调研核实）**：CCS（ccs-msk.ru，莫斯科；Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商）
 
 > **评级 A**　|　俄罗斯　|　档案编号 `SA-116`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商（企业网络 + 工业以太网）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-116
 rating: A
 rating_auto: A
+name_official: "CCS（ccs-msk.ru，莫斯科；Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商）"
 score: 65
 country: 俄罗斯
 region: 俄语区
 website: ccs-msk.ru
-type: 经销/集成（类型待核）
+type: 分销商（企业网络 + 工业以太网）
 tier_tags: ["E已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2026-01-23
 last_contact: 2026-01-23
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯的经销/集成（类型待核）；兴趣/在卖：工业FS SFP AOC MC 很多牌子的；提到的品牌：FS
+- **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。（调研 2026-10-21；表内兴趣：工业FS SFP AOC MC 很多牌子的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2026；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）；最近一次客户回复：2026-01-23：Can you provide Brocade switches?
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | ccs-msk.ru（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | ccs-msk.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销商（企业网络 + 工业以太网） | 推断（据兴趣/备注关键词） |
 | 联系人 | Pavel Karpov | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS SFP AOC MC<br>很多牌子的 | 事实（用户表） |
@@ -53,7 +55,22 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-116.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。
+- **类型**：分销商（企业网络 + 工业以太网）
+- **规模**：中小型（待补证）
+- **在卖/在用品牌**：Microsens, Lenovo, Sumitomo, Tyco, Emcore
+- **【官网】Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商；供应工业以太网、FTTO、定制产品**
+  > Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO… оборудования промышленного Ethernet, систем FTTO и Smart Office… а также продукции по индивидуальным требованиям
+  > 来源：https://www.ccs-msk.ru/about（抓取 2026-10-21）
+- **【官网】白牌 SFP BIDI 目录（SFP-WDM-SM 系列）**
+  > SFP-WDM-SM-0120A · 155M · 1550nm · 20km… SFP-WDM-SM-0240A · 1.25G · 1550nm · 40km
+  > 来源：https://www.ccs-msk.ru/catalog/optical_transcievers/sfp_bidi（抓取 2026-10-21）
+- **【官网】首页关键词含 Microsens 工业交换机、工业以太网**
+  > промышленные коммутаторы MICROSENS промышленный ethernet 10G XFP CWDM Copper SFP
+  > 来源：https://www.ccs-msk.ru/（抓取 2026-10-21）
+- **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表（'回复里有详细联系方式'）〕
+- 备注：2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -89,7 +106,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（分销商（企业网络 + 工业以太网）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

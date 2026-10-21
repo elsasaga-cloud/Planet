@@ -1,0 +1,31 @@
+{
+ "code": "SA-102",
+ "name_official": "inthouse.eu（捷克）",
+ "website_status": "未单独检索（仅用户记录 + 用户 AI 评估）",
+ "summary": "捷克小型网络设备贸易/项目商，历史 RFQ 询过 PoE 设备（5 口/8 口 PoE），6 次跟进 0 回复；用户 AI 评估：早期 35% B，后期 10% C（核心业务未确认）。",
+ "type": "小型贸易/项目商",
+ "size": "微型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "升压 5 口需求；历史 RFQ 询 PoE；AI 评估 35%B / 10%C",
+   "quote": "升压5口；早期ai: 35% B 小型网络设备贸易商/项目商，曾通过RFQ询价PoE设备… max: 10% C 核心业务未确认（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "0 回复 / 6 次推送，核心业务未确认，用户 AI 评估亦为 B→C 区间；RFQ 历史说明需求曾真实 → 不降 C，B 慢跟。",
+ "notes": "一次性邮件给 5 口/8 口 PoE（STI-244GP / STC-28DGGPM）价格即可。",
+ "researched_at": "2026-10-21"
+}

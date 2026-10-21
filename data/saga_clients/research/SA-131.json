@@ -1,0 +1,31 @@
+{
+ "code": "SA-131",
+ "name_official": "SABMARtv（波兰）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "波兰视频/电视技术公司，曾成一笔压缩 HDMI 光端机样品单（用户记录），WA 已加，无后续跟进记录。",
+ "type": "视频/广电技术经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "压缩 HDMI 光端机成样品单；WA 已加",
+   "quote": "压缩HDMI光端机 成样品单；48-5017 76652 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+48 501 776 652（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
+ "notes": "若其视频项目需 PoE 交换机再报；不主动投入。",
+ "researched_at": "2026-10-21"
+}

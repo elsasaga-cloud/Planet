@@ -1,0 +1,47 @@
+{
+ "code": "SA-153",
+ "name_official": "Elite Team Security OOD（Елит-Тим-Секюрити，弗拉察 Vratsa，保加利亚）",
+ "website_status": "在线（第三方资料）",
+ "summary": "保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。",
+ "type": "安保服务商 + 视频监控集成（终端用户/集成商）",
+ "size": "小型（22 人，€0–2M）",
+ "brands_seen": [
+  "AxxonSoft（合作伙伴）"
+ ],
+ "evidence": [
+  {
+   "kind": "AxxonSoft 合作伙伴页",
+   "claim": "持牌安保公司，10 年业务，监看 3,000+ 摄像头，IP 方案",
+   "quote": "Elite Team Security is а Bulgarian company, licensed in security… has been in the security business for 10 years… We watch more than 3000 cameras in real time",
+   "url": "https://www.axxonsoft.com/partners/partner-locator/bulgaria/elite-team-security-ood",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "EMIS",
+   "claim": "22 名员工（2022），总部弗拉察",
+   "quote": "Elite Team Security OOD… currently employs 22 (2022) people. Headquarters Reka Leva, Bul./Ul. Ul.Ostri Vrah 1 Vratsa",
+   "url": "https://www.emis.com/php/company-profile/BG/Elite_Team_Security_OOD__%D0%95%D0%BB%D0%B8%D1%82_-_%D0%A2%D0%B8%D0%BC_-_%D0%A1%D0%B5%D0%BA%D1%8E%D1%80%D0%B8%D1%82%D0%B8_%D0%9E%D0%9E%D0%94__en_13259109.html",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "findbiz",
+   "claim": "销售 €0–2M，11–50 人，经理 Radka Ivanova",
+   "quote": "SALES(€) 0-2m 2022 EMPLOYEES 11-50… Manager · RADKA ANGELOVA IVANOVA",
+   "url": "https://findbiz.gr/en/company/elite-team-security/270037185652",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+359 879 377 573（WA；与公司公开号码一致）",
+   "source": "用户 Clients 表 + AxxonSoft 页"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

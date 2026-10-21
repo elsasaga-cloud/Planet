@@ -1,0 +1,149 @@
+# dabos.com
+**官方名称（调研核实）**：DABOS, Inc.（Rockville/North Bethesda, MD，美国）
+
+> **评级 B**　|　美国　|　档案编号 `SA-164`　|　优先级 ★★　|　状态：名单内·未触达
+>
+> **类型**：综合采购/分销平台（非网络专业渠道）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(US)、AI评估(US)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SA-164
+rating: B
+rating_auto: A
+rating_research: B  # 综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。
+name_official: "DABOS, Inc.（Rockville/North Bethesda, MD，美国）"
+score: 60
+country: 美国
+region: 北美
+website: dabos.com
+type: 综合采购/分销平台（非网络专业渠道）
+tier_tags: ["A优质名单(US)", "AI评估(US)", "询盘流水"]
+deal: no
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: STC-28DGGPM
+price_tier: 20%
+research: done
+sources: 3
+updated: 2026-10-21
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。（调研 2026-10-21；表内兴趣：Trendnet 8电口）
+- **为什么是 B 级**：**调研后定级 B**（综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。）；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **历史互动**：名单内·无互动记录
+- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **最大未知**：年走量与现供应商
+- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | dabos.com（取自域名，公司全名待核） | 推断 |
+| 国家 | 美国 | 事实（用户表）|
+| 网站/域名 | dabos.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 综合采购/分销平台（非网络专业渠道） | 推断（据兴趣/备注关键词） |
+| 联系人 | M Zohaib Razzaq | 事实（用户表） |
+| 来源（From） | 阿里巴巴询盘 / 2025.10.16 | 事实（用户表） |
+| 兴趣（Interested in） | Trendnet 8电口 | 事实（用户表） |
+| 用户备注（Remark） | 2025年使用国际站 Address: 12266 Wilkins Avenue, Ste A Rockville, MD 20852 USA / Trendnet 8电口 / from: 阿里巴巴询盘 | 事实（用户表） |
+| 用户 AI 评估 | AI 25% B | 事实（用户表 AI评估结果/CALUDE评估结果列） |
+| 所在清单 | A优质名单(US)、AI评估(US)、询盘流水 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | Trendnet | 事实（用户备注）/ 推断 |
+
+### 用户 AI / Claude 评估原文
+
+- **AI**（AI客户评估_US.xlsx）：
+  > 25% B
+  > 美国小型IT设备分销商（马里兰），2025年在国际站活跃，询价TrendNet 8电口交换机，对亚洲品牌开放
+  > 推送8口系列交换机（管理/非管理），强调对标TrendNet性价比+OEM贴牌
+  > 8口管理型交换机、8口PoE交换机
+  > 通过阿里巴巴询价TrendNet产品，说明对亚洲品牌接受度高；小型分销商决策链短
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：美国马里兰的实验室/生物技术/工业/商用产品综合采购分销平台（100 万+ SKU，500+ 厂商，Amazon 卖家，11–50 人，营收估 $10–25M，总裁 David McNairy）；2025 年阿里巴巴询盘 Trendnet 8 电口交换机；无跟进。
+- **类型**：综合采购/分销平台（非网络专业渠道）
+- **规模**：小型（11–50 人；销售额 $10–25M 估）
+- **在卖/在用品牌**：Trendnet（询盘对象）
+- **【Facebook】100 万+ 实验室/工业/商用/家用产品，采购与批量订购**
+  > Shop over 1 million lab, industrial, commercial, and home products. Dabos delivers top sourcing, bulk ordering options, logistics, and storage… 12266 Wilkins Avenue, Ste A, Rockville, MD
+  > 来源：https://www.facebook.com/DabosInc/（抓取 2026-10-21）
+- **【LinkedIn】医疗器械/实验室产品分销，11–50 人，1997 年**
+  > Industry: Medical Device… Company size: 11-50 employees… Specialties: laboratory products distribution and medical products distribution
+  > 来源：https://www.linkedin.com/company/dabosinc（抓取 2026-10-21）
+- **【D&B】总裁 David McNairy**
+  > Name: David McNairy Title: President Company: DABOS, INC.
+  > 来源：https://www.dnb.com/contact-directory/contact-profile.david_mcnairy.43e01d279265c3c74837d111a82337a0.html（抓取 2026-10-21）
+- **KP**：（见 Clients 表询盘联系人）（）info@dabos.com（公开） +1 240-880-2485〔用户 Clients 表 + 公开资料〕
+- **调研后定级**：B（原自动 A）——综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。
+- 备注：回复一次：Trendnet 8 口对位 STC-28DGGPM（FCC 文件齐），分销 20%；无回应即停。
+
+## 在卖/在用品牌 → Saga 对位
+
+| 备注所见品牌 | 含义 | Saga 切入 |
+|---|---|---|
+| Trendnet | 台系/欧美/品牌工业或商用网络品牌 | 按「同口数同功能的 Marvell 方案、价低一档、中性包装」做对位（不贬低原品牌） |
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`www.@dabos.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`zohaib@dabos.com`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：M Zohaib Razzaq
+- 网站/域名：dabos.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户由 **3 行**原始记录归并而成；归并键：`d:dabos.com`, `e:www.@dabos.com`, `e:zohaib@dabos.com`。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| A/DONE/US.xlsx#总表:21 | 20 | https://www.@dabos.com/ | 美国 | M Zohaib Razzaq | 阿里巴巴询盘 | Trendnet 8电口 | zohaib@dabos.com | 2025年使用国际站 Address: 12266 Wilkins Avenue, Ste A Rockville, MD 20852 USA | — |
+| AI客户评估/AI客户评估_US.xlsx#总表:10 | 9 | https://www.@dabos.com/ | 美国 | M Zohaib Razzaq | 阿里巴巴询盘 | Trendnet 8电口 | zohaib@dabos.com | 2025年使用国际站 Address: 12266 Wilkins Avenue, Ste A Rockville, MD 20852 USA | — |
+| 询盘统计表.xlsx#Sheet1:207 |  | https://www.@dabos.com/ | 美国 | M Zohaib Razzaq | 2025.10.16 |  | zohaib@dabos.com 2025年使用国际站 Address: 12266 Wilkins Avenue, Ste A Rockville, MD 20852 USA | Trendnet 8电口 from: 阿里巴巴询盘 | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（综合采购/分销平台（非网络专业渠道）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## 变更日志
+
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+
+---
+
+*建档日期：2026-10-21　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

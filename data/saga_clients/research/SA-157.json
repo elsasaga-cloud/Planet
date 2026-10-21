@@ -1,0 +1,31 @@
+{
+ "code": "SA-157",
+ "name_official": "Liveye（德国）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "德国安防产品公司（名片显示安防产品），展会交流中对工商业 PoE 交换机介绍仅附和、未表达具体需求；WA 已加，7 次跟进 0 回复。",
+ "type": "安防产品商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "介绍工商 PoE 交换机，对方附和无具体需求；WA 已加；0 回复 / 7 次",
+   "quote": "给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品；49 173 51 67073 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+49 173 516 7073（WA）/ +49 6502 403 4722",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。",
+ "notes": "WA 季度触达。",
+ "researched_at": "2026-10-21"
+}

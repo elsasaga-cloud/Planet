@@ -1,0 +1,31 @@
+{
+ "code": "SA-119",
+ "name_official": "Almaks Security Systems（Gospodjinci，塞尔维亚）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "塞尔维亚安防公司，2012 年 3 月成交 20 对 1V1D（视频光端机），此后无任何跟进记录。",
+ "type": "安防集成/经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "2012 年 3 月买了 20 对 1V1D",
+   "quote": "2012年3月买了20对1V1D（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "历史成交但已沉寂 13 年，塞尔维亚为非主动开发小国；成交记录使其不降 C，B 待机一次性重启。",
+ "notes": "一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。",
+ "researched_at": "2026-10-21"
+}

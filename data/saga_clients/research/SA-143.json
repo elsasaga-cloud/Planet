@@ -1,0 +1,31 @@
+{
+ "code": "SA-143",
+ "name_official": "ICT Integrators（ict-integrators.com，巴基斯坦）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "巴基斯坦 ICT 集成商，群发名单；历史有成交标记（switch/PoE 等），无跟进互动。",
+ "type": "系统集成商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "switch、PoE 等；历史成交标记；0 次跟进",
+   "quote": "switch POE等（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。",
+ "notes": "老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。",
+ "researched_at": "2026-10-21"
+}

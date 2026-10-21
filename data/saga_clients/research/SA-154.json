@@ -1,0 +1,38 @@
+{
+ "code": "SA-154",
+ "name_official": "Falke Security（杜伊斯堡，德国；falke-security.de）",
+ "website_status": "在线",
+ "summary": "德国杜伊斯堡摄像系统专业经销/项目商：HDCVI 与 IP 摄像系统及配件，承接 1–256 路摄像项目、接入既有网络与搭建网络环境；手机 +49 172 90 54 200 与用户记录一致；展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价，7 次跟进 0 回复。",
+ "type": "安防经销/项目商",
+ "size": "微型/小型（待补证）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "HDCVI/IP 摄像系统专业经销商，项目 1–256 路，含网络环境搭建；联系方式",
+   "quote": "HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler… Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen… Duisburg… Mobil: + 49 172 / 90 54 200… info@falke-security.de",
+   "url": "https://falke-security.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "产品覆盖报警、智能家居、视频监控，面向住宅/商铺/办公/物流与工业企业",
+   "quote": "hochwertige Alarm-, Smarthome- und Videoüberwachungslösungen… eignet sich für den Einbau in Wohnungen… Ladengeschäften, Bürogebäuden, Logistik- und Industriebetrieben",
+   "url": "https://falke-security.de/uber-uns/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "info@falke-security.de（公开）",
+   "phone": "+49 172 90 54 200",
+   "source": "用户 Clients 表 + 官网"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
+ "researched_at": "2026-10-21"
+}

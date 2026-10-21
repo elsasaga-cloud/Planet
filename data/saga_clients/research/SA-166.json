@@ -1,0 +1,47 @@
+{
+ "code": "SA-166",
+ "name_official": "Landatel Comunicaciones SL（马德里 Las Rozas，西班牙）",
+ "website_status": "公司已停业（2026-05 宣布停止经营并清仓）",
+ "summary": "西班牙老牌通信设备批发商（2001 年起，Ubiquiti 欧洲首批分销商、MikroTik 西班牙引进者，BDCOM/Ruijie/TP-Link 等 master distributor，鼎盛期 60+ 人、营收 3,000 万欧元以上），2026 年 5 月宣布因业务不可持续而关闭并清算库存；Iberinform 显示公司状态 Inactiva。",
+ "type": "分销商（已停业）",
+ "size": "历史 60+ 人（已停业）",
+ "brands_seen": [
+  "BDCOM",
+  "Ubiquiti",
+  "MikroTik",
+  "TP-Link",
+  "Ruijie",
+  "Reyee",
+  "HPE/Aruba",
+  "Hikvision",
+  "Milesight"
+ ],
+ "evidence": [
+  {
+   "kind": "媒体",
+   "claim": "Landatel 25 年后关闭，宣布停止经营并清仓",
+   "quote": "Landatel cierra sus puertas tras 25 años de historia… El mayorista ha anunciado el cese de su actividad por no poder sostener el negocio y pide a los partners que contacten con ellos vía email para liquidar todo el stock",
+   "url": "https://www.muycanal.com/2026/05/18/landatel-cierra",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "企业登记",
+   "claim": "Iberinform 标注 Inactiva",
+   "quote": "LANDATEL COMUNICACIONES SL (Inactiva)… CNAE 4650",
+   "url": "https://www.iberinform.es/empresa/1704054/landatel-comunicaciones",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "曾为 BDCOM 等多品牌 master distributor",
+   "quote": "We are master distributors of: Ubiquiti, Mikrotik, TP-Link, Ruijie, Reyee, HPE, Aruba, Hikvision, Imou, Aqara, Milesight, M0L0, BDCOM",
+   "url": "https://www.landatel.com/en_US/shop/brands?brand=22",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "公司已于 2026 年 5 月停业清算（Inactiva），不再具备采购能力。c_sub=已停业。",
+ "notes": "归档；若其团队另起炉灶再评估。",
+ "researched_at": "2026-10-21"
+}

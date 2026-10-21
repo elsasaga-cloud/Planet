@@ -1,18 +1,20 @@
 # surlink-tech.com
+**官方名称（调研核实）**：Sur-Link Technology（圣克鲁斯，玻利维亚）
 
 > **评级 A**　|　玻利维亚　|　档案编号 `SA-147`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：批发分销商（布线/光纤/网络）（推断）　|　**历史关系**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-147
 rating: A
 rating_auto: A
+name_official: "Sur-Link Technology（圣克鲁斯，玻利维亚）"
 score: 61
 country: 玻利维亚
 region: 拉美
 website: surlink-tech.com
-type: 经销/集成（类型待核）
+type: 批发分销商（布线/光纤/网络）
 tier_tags: ["E已回复"]
 deal: no
 replies: 1
@@ -21,19 +23,19 @@ first_contact: 2025-07-02
 last_contact: 2025-10-01
 p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：玻利维亚的经销/集成（类型待核）；兴趣/在卖：550个90W 工业PoE injector 2017年使用国际站
+- **是谁**：玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。（调研 2026-10-21；表内兴趣：550个90W 工业PoE injector 2017年使用国际站）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/玻利维亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）；最近一次客户回复：2025-07-02：全系列电口信息
 - **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
 
 ## 基本事实（事实/推断/假设分层）
@@ -43,7 +45,7 @@ updated: 2026-10-21
 | 名称 | surlink-tech.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 玻利维亚 | 事实（用户表）|
 | 网站/域名 | surlink-tech.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 批发分销商（布线/光纤/网络） | 推断（据兴趣/备注关键词） |
 | 联系人 | Eduardo Miranda | 事实（用户表） |
 | 来源（From） | RFQ<br>2023.5.26 | 事实（用户表） |
 | 兴趣（Interested in） | 550个90W 工业PoE injector<br>2017年使用国际站 | 事实（用户表） |
@@ -53,7 +55,23 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SA-147.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。
+- **类型**：批发分销商（布线/光纤/网络）
+- **规模**：小型（待补证）
+- **在卖/在用品牌**：Corning（分销）
+- **【官网】圣克鲁斯公司，地址/电话与销售联系人（Ivan Ortega、Mauricio Eguez 等）**
+  > Sur - Link Technology (Bolivia) Av Guapay Nro. 2675… Telf.: +591-3-312-3371… Sr Ivan Ortega iortega@surlink-tech.com +591-74953834 · Sr Mauricio Eguez ventas05@surlink-tech.com
+  > 来源：https://www.surlink-tech.com/（抓取 2026-10-21）
+- **【Facebook】技术产品批发分销商：Cat6a/Cat6/Cat5e、光纤、ADSS 五金、机柜**
+  > Distribuidor mayorista de tecnologia: Cat6a cat6 cat5e Fibra óptica sm mm Ferreteria adss Racks
+  > 来源：https://www.facebook.com/p/SUR-LINK-technology-bolivia-100063766464860/（抓取 2026-10-21）
+- **【Corning】Corning 光通信玻利维亚分销商，联系人 emiranda@surlink-tech.com**
+  > Guapay # 2675… Santa Cruz de la Sierra, Bolivia… Email: emiranda@surlink-tech.com
+  > 来源：https://www.corning.com/optical-communications/cala/en/home/support/distributors/bolivia.html（抓取 2026-10-21）
+- **KP**：Eduardo Miranda（（官网列为主要联系人；Corning 分销联系人））emiranda@surlink-tech.com +591 75009995〔官网 + Corning 分销商页〕
+- **KP**：Ivan Ortega（Ventas（销售））iortega@surlink-tech.com +591 74953834〔官网〕
+- 备注：550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -87,7 +105,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（批发分销商（布线/光纤/网络）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

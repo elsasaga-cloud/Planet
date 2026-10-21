@@ -1,0 +1,31 @@
+{
+ "code": "SA-145",
+ "name_official": "Neowine Co., Ltd.（韩国；Secon 2023 隔壁展位）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "韩国公司（Secon 2023 相邻展位参展商），提出想做 Saga 代理但不懂交换机产品；联系人 John H. Lee（李孝乘）；1 次回复、27 次跟进。",
+ "type": "潜在代理（非本行业）",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "隔壁摊位参展商，想当代理商，不懂产品；27 次跟进 1 次回复",
+   "quote": "隔壁摊位参展商，想给我们当代理商，不懂我们产品 / attn: John H.Lee/李孝乘 | telephone: 82-31-620-1250（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "John H. Lee（李孝乘）",
+   "role": "（用户记录）",
+   "email": "",
+   "phone": "+82-31-620-1250 / +82-10-8911-3702",
+   "source": "用户 Clients 表（Secon 2023）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。",
+ "notes": "不再主动推送；对方主动来再谈。",
+ "researched_at": "2026-10-21"
+}

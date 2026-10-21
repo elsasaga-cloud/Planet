@@ -1,0 +1,52 @@
+{
+ "code": "SA-093",
+ "name_official": "FiberX LLC / FIBERX Inc.（Guaynabo & Caguas，波多黎各，美国属地）",
+ "website_status": "在线",
+ "summary": "波多黎各光纤 ISP/运营商（2016 年创立，11–50 人，营收约 560 万美元，AS6208，自有光纤与无线网络，覆盖波多黎各/哥伦比亚/美国），提供互联网、Metro Ethernet、FTTH/FTTB、机房托管；用户记录：在 bypass 2 光 10 电帖子下询价，1 次回复、20 次跟进。",
+ "type": "ISP/运营商（终端用户）",
+ "size": "小型（11–50 人，≈$5.6M）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "8+ 年经验的波多黎各宽带运营商，自有无线+光纤网络连接波多黎各/哥伦比亚/美国；提供 Metro Ethernet、FTTH/FTTB、托管",
+   "quote": "we are one of the largest and most complete broadband service providers in Puerto Rico… own wireless and fiber network that connects Puerto Rico, Colombia and the United States… Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB",
+   "url": "https://gofiberx.com/about-us/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "2016 年创立，11–50 人，总部 Bayamon PR",
+   "quote": "Company size: 11-50 employees… Headquarters: Bayamon, PR… Founded: 2016",
+   "url": "https://www.linkedin.com/company/gofiberx",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "RocketReach",
+   "claim": "营收 ≈$5.6M，34 人，CEO Ivan Rivera",
+   "quote": "Revenue · $5.6 million Employees · 34… Ivan Rivera is the CEO of FiberX",
+   "url": "https://rocketreach.co/fiberx-profile_b75b8759c53e592d",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "PeeringDB",
+   "claim": "AS6208，NSP，50–100Gbps 流量",
+   "quote": "ASN 6208… Network Types NSP… Traffic Levels 50-100Gbps",
+   "url": "https://www.peeringdb.com/asn/6208",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+1 787-705-6999",
+   "source": "用户 Clients 表 + Crunchbase/Facebook"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

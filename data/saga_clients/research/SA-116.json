@@ -1,0 +1,51 @@
+{
+ "code": "SA-116",
+ "name_official": "CCS（ccs-msk.ru，莫斯科；Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商）",
+ "website_status": "在线",
+ "summary": "莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。",
+ "type": "分销商（企业网络 + 工业以太网）",
+ "size": "中小型（待补证）",
+ "brands_seen": [
+  "Microsens",
+  "Lenovo",
+  "Sumitomo",
+  "Tyco",
+  "Emcore"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商；供应工业以太网、FTTO、定制产品",
+   "quote": "Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO… оборудования промышленного Ethernet, систем FTTO и Smart Office… а также продукции по индивидуальным требованиям",
+   "url": "https://www.ccs-msk.ru/about",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "白牌 SFP BIDI 目录（SFP-WDM-SM 系列）",
+   "quote": "SFP-WDM-SM-0120A · 155M · 1550nm · 20km… SFP-WDM-SM-0240A · 1.25G · 1550nm · 40km",
+   "url": "https://www.ccs-msk.ru/catalog/optical_transcievers/sfp_bidi",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "首页关键词含 Microsens 工业交换机、工业以太网",
+   "quote": "промышленные коммутаторы MICROSENS промышленный ethernet 10G XFP CWDM Copper SFP",
+   "url": "https://www.ccs-msk.ru/",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表回复签名）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表（'回复里有详细联系方式'）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。",
+ "researched_at": "2026-10-21"
+}

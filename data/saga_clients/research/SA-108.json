@@ -1,0 +1,31 @@
+{
+ "code": "SA-108",
+ "name_official": "Areca Embedded Systems Pvt. Ltd.（印度）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "印度嵌入式/网络系统公司，WA 在线，4 次回复、13 次跟进，规格明确：8 光 8 电管理型、非 PoE、L2 与 L3 都要、SC 与 SFP 光口都要。",
+ "type": "系统集成/设备商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "8 光 8 电带管理、不要 PoE、L2/L3、SC 和 SFP；WA 已加；4 次回复",
+   "quote": "8光8电带管理 不要POE L2 L3 SC和SFP光都要；9190000 50555 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+91 90000 50555（WA）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
+ "researched_at": "2026-10-21"
+}

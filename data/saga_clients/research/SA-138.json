@@ -1,0 +1,33 @@
+{
+ "code": "SA-138",
+ "name_official": "Top Italia（意大利）",
+ "website_status": "未单独检索（仅用户记录）",
+ "summary": "意大利网络产品公司，现从 ONV 采购（质量满意、价格偏高），展会现场问 12 光 12 电、WiFi（Saga 不供）、芯片与电源，提问专业；之后 14 次推送 0 回复。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [
+  "ONV（在采）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "从 ONV 买、价格有时觉得高；问 12 光 12 电、芯片、电源；0 回复 / 14 次",
+   "quote": "从ONV买，质量比较满意，但是价格有时觉得高 问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "+39 095 471449",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "意大利主攻区 + ONV 在采（可替换）+ 专业提问本应 A，但展后 14 次推送 0 回复 → 降 B；回复即升 A。",
+ "notes": "重启用电话（固话在册）+ 一封'ONV 对位表'：12 光 12 电机型（核价）+ Marvell 芯片/电源规格答复。",
+ "researched_at": "2026-10-21"
+}
