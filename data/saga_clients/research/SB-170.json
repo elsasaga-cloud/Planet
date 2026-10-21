@@ -1,0 +1,70 @@
+{
+ "code": "SB-170",
+ "name_official": "Bos Italy S.r.l.（意大利维琴察）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bositaly.it，快照 2026-10-21）",
+ "summary": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hasivo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Bos Italy S.r.l.；+39 0444 868678",
+   "quote": "Bos Italy S.r.l.",
+   "url": "https://bositaly.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS Hasivo 的；可以尝试多跟进一下",
+   "quote": "兴趣：工业FS Hasivo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@bositaly.it",
+   "phone": "+39 0444 868678",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Bos Italy S.r.l.",
+  "founded": "",
+  "hq": "Vicenza, Italy（+39 0444）",
+  "size": "小型分销",
+  "other": "已售 Hasivo 工业 FS"
+ },
+ "business_lines": [
+  "网络 / 安防分销"
+ ],
+ "channels": {
+  "role": "分销商（已售中国同行）",
+  "region": "意大利"
+ },
+ "signals": [
+  "已售 Hasivo 工业 FS → 同类替换"
+ ],
+ "risks": [
+  "13 次群发无回复；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+ },
+ "email_hook": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?"
+}

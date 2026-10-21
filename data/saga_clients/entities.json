@@ -74975,7 +74975,82 @@
 "c_sub": "",
 "status": "已推送 6 次·未回复",
 "code": "SB-050",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-050",
+"name_official": "IZUX（瓦伦西亚）",
+"researched_at": "2026-10-21",
+"website_status": "在线（izux.es，快照 2026-10-21，西语）",
+"summary": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"ONV",
+"Hikvision",
+"Dahua",
+"Uniview",
+"Ajax"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "安防摄像机、AJAX 报警、可视门铃、门禁、电子锁电商；品牌 Hikvision / Dahua / Uniview / Ajax；+34 963 320 337",
+"quote": "Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso… brands Hikvision, Dahua, Uniview, Ajax",
+"url": "https://izux.es/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "商业 POE CCTV 为主 很多配件 有 ONV 的；网站上有 WA 按钮",
+"quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Igor Guimerá",
+"title": "Manager",
+"email": "comercial@izux.es",
+"phone": "+34 963 320 337",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "IZUX（待核）",
+"founded": "",
+"hq": "Valencia, Spain",
+"size": "中小型安防电商",
+"other": "已售 ONV 商用 PoE"
+},
+"business_lines": [
+"安防电商"
+],
+"channels": {
+"role": "电商（已售 ONV）",
+"region": "西班牙"
+},
+"signals": [
+"已售 ONV → 同类替换",
+"Manager 具名"
+],
+"risks": [
+"6 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
+},
+"email_hook": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?"
+}
 },
 {
 "name": "orbitadigital.com",
@@ -75167,7 +75242,82 @@
 "c_sub": "",
 "status": "已推送 5 次·未回复",
 "code": "SB-051",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-051",
+"name_official": "Órbita Digital（西班牙）",
+"researched_at": "2026-10-21",
+"website_status": "在线（orbitadigital.com，快照 2026-10-21）",
+"summary": "西班牙电信 / 网络 / 光纤 / 多媒体产品分销与进口商（Triax、Televes、Ikusi、Allied Telesis、Hikvision、Dahua、Ubiquiti、ZKTeco；switch 55 / cctv 30 / oem 12；+34 644 409 003），info@；表内「安防为主，之前有 UTEPO 的交换机」；群发 5 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"UTEPO",
+"Allied Telesis",
+"Hikvision",
+"Dahua",
+"Ubiquiti",
+"ZKTeco"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "电信 / 网络 / 光纤 / 多媒体 / HDMI 分销与进口；品牌 Triax、Televes、Ikusi、Allied Telesis、Hikvision、Dahua、Ubiquiti、ZKTeco",
+"quote": "Distributors and importers of telecommunications products, networks, fiber optics, multimedia, hdmi… triax, televes, ikusi… brands Allied Telesis, Hikvision, Dahua, Ubiquiti, ZKTeco",
+"url": "https://orbitadigital.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "安防为主；之前有 Utepo 的交换机",
+"quote": "兴趣：安防为主 之前有Utepo的交换机",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@orbitadigital.com",
+"phone": "+34 644 409 003",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Órbita Digital（待核）",
+"founded": "",
+"hq": "Spain",
+"size": "中小型分销 / 进口",
+"other": "曾售 UTEPO；OEM 词频 12"
+},
+"business_lines": [
+"电信 / 网络 / 安防分销进口"
+],
+"channels": {
+"role": "分销 / 进口商",
+"region": "西班牙"
+},
+"signals": [
+"曾售 UTEPO → 同类替换；进口商身份 → 直采习惯"
+],
+"risks": [
+"无具名；5 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "替换 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。"
+},
+"email_hook": "Hola — como importadores, para sustituir la línea UTEPO: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, con marca neutra u OEM; ¿quién lleva compras de networking?"
+}
 },
 {
 "name": "Addon Technology Ltd",
@@ -108307,7 +108457,79 @@
 "c_sub": "",
 "status": "已推送 4 次·未回复",
 "code": "SB-107",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-107",
+"name_official": "EC System / Eltcrac System（波兰）",
+"researched_at": "2026-10-21",
+"website_status": "在线（sklep-ecsystem.pl，快照 2026-10-21，波兰语）",
+"summary": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Hasivo",
+"Hikvision",
+"Dahua"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "安防系统网店：报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；+48 792 580 660",
+"quote": "Sklep Eltcrac System - Systemy zabezpieczęń - SSWiN, Monitoring CCTV, Domofony, sieci WLAN/LAN. Rabaty hurtowe dla partnerów B2B.",
+"url": "https://sklep-ecsystem.pl/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "hasivo 的商业级；商业 PoE Hasivo 的",
+"quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（网店）",
+"title": "e-sklep",
+"email": "esklep@ecsystem.pl",
+"phone": "+48 792 580 660",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Eltcrac System（待核）",
+"founded": "",
+"hq": "Poland",
+"size": "中小型安防网店（B2B）",
+"other": "已售 Hasivo（中国同行）"
+},
+"business_lines": [
+"安防网店（B2B）"
+],
+"channels": {
+"role": "网店 / 分销（已售中国同行）",
+"region": "波兰"
+},
+"signals": [
+"已售 Hasivo → 同类替换（Marvell 管理型差异）"
+],
+"risks": [
+"4 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
+},
+"email_hook": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?"
+}
 },
 {
 "name": "fybera.com",
@@ -132189,7 +132411,75 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1167",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1167",
+"name_official": "BR Network Solutions GmbH（德国克莱沃）",
+"researched_at": "2026-10-21",
+"website_status": "在线（br-network-shop.de，快照 2026-10-21，德语）",
+"summary": "德国数据网络 / 电信 / 监控技术中型专业批发（在线商店；switch 206 / industrial 73；+49 2821 97016-0），info@；表内「工业 FS MC 周边产品，销售平台」；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "中型数据网络、电信与监控技术专业批发，在线商店；+49 (0) 28 21 - 9 70 16 - 0",
+"quote": "Wir sind ein mittelständischer Fachgroßhandel für die Datennetzwerktechnik, Telekommunikation und Überwa[chung]",
+"url": "https://br-network-shop.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS MC 周边产品；销售平台",
+"quote": "兴趣：工业FS MC 周边产品 销售平台",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@br-network.de",
+"phone": "+49 2821 97016 0",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "BR Network Solutions GmbH",
+"founded": "",
+"hq": "Kleve, Germany（+49 2821）",
+"size": "中型专业批发",
+"other": ""
+},
+"business_lines": [
+"网络 / 电信 / 监控技术批发"
+],
+"channels": {
+"role": "批发商",
+"region": "德国"
+},
+"signals": [
+"工业 FS / MC 品类在售"
+],
+"risks": [
+"无具名"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+},
+"email_hook": "Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?"
+}
 },
 {
 "name": "bravour.com",
@@ -136438,7 +136728,77 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1191",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1191",
+"name_official": "Garma Electronics S.L.（西班牙圣塞巴斯蒂安）",
+"researched_at": "2026-10-21",
+"website_status": "在线（garmasl.com，快照 2026-10-21）",
+"summary": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Red Lion"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "20+ 年工业方案：仪表与过程控制；+34 943 291 102",
+"quote": "With over 20 years of experience, Garma Electronics is your trusted source for industrial solutions. Offering instrumentation and control for demanding processes.",
+"url": "https://garmasl.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "redlion Switch I/O module",
+"quote": "兴趣：redlion Switch I/O module",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@garmasl.com",
+"phone": "+34 943 291 102",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Garma Electronics S.L.",
+"founded": "约 2003",
+"hq": "San Sebastián (Gipuzkoa), Spain",
+"size": "中小型工业分销",
+"other": "Red Lion 渠道"
+},
+"business_lines": [
+"工业仪表 / 控制 / 网络分销"
+],
+"channels": {
+"role": "工业分销商",
+"region": "西班牙"
+},
+"signals": [
+"Red Lion（N-Tron）之下价位带"
+],
+"risks": [
+"I/O 模块不供；无具名"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。"
+},
+"email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?"
+}
 },
 {
 "name": "gogss.com",
@@ -145320,7 +145680,80 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1248",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1248",
+"name_official": "SPHINX Computer Vertriebs GmbH（德国拉登堡）",
+"researched_at": "2026-10-21",
+"website_status": "在线（sphinxcomputer.de，快照 2026-10-21，德语）",
+"summary": "德国数据通信专家 / 工业自动化、网络、网络安全、IoT、嵌入式分销商（Moxa、Advantech、Siemens、Milesight；industrial 86 / switch 85；+49 6201 75437），Markus Brenner；表内「卖研华等很多牌子；工业 FS MC」；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Moxa",
+"Advantech",
+"Siemens",
+"Milesight"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "数据通信专家，工业自动化、网络技术、网络安全、IoT、嵌入式分销；品牌 Moxa / Advantech / Siemens / Milesight；+49 (0) 6201 75437",
+"quote": "SPHINX Computer - Ihr Spezialist für Datenkommunikation und Distributor für Industrieautomation, Netzwerktechnik, Cybersecurity, IoT und Embedded Computing",
+"url": "https://sphinxcomputer.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "卖几个有名牌子的；工业 FS MC；卖研华等很多牌子",
+"quote": "兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Markus Brenner",
+"title": "（表内联系人）",
+"email": "markus.brenner@sphinxcomputer.de",
+"phone": "+49 6201 75437",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "SPHINX Computer Vertriebs GmbH",
+"founded": "1981（待核）",
+"hq": "Laudenbach, Germany（+49 6201）",
+"size": "中型分销",
+"other": ""
+},
+"business_lines": [
+"工业自动化 / 网络 / IoT 分销"
+],
+"channels": {
+"role": "工业分销商",
+"region": "德国"
+},
+"signals": [
+"Moxa / Advantech 之下价位带；具名联系人"
+],
+"risks": [
+"品牌分销导入流程"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
+},
+"email_hook": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?"
+}
 },
 {
 "name": "sswmcctvshop.com",
@@ -166400,7 +166833,77 @@
 "c_sub": "",
 "status": "已推送 13 次·未回复",
 "code": "SB-170",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-170",
+"name_official": "Bos Italy S.r.l.（意大利维琴察）",
+"researched_at": "2026-10-21",
+"website_status": "在线（bositaly.it，快照 2026-10-21）",
+"summary": "意大利网络 / 安防分销商 Bos Italy（+39 0444 868678；poe 101 / switch 99 / industrial 22），info@（表内「可多跟进」）；表内「工业 FS，Hasivo 的」；群发 13 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Hasivo"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Bos Italy S.r.l.；+39 0444 868678",
+"quote": "Bos Italy S.r.l.",
+"url": "https://bositaly.it/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS Hasivo 的；可以尝试多跟进一下",
+"quote": "兴趣：工业FS Hasivo的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@bositaly.it",
+"phone": "+39 0444 868678",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Bos Italy S.r.l.",
+"founded": "",
+"hq": "Vicenza, Italy（+39 0444）",
+"size": "小型分销",
+"other": "已售 Hasivo 工业 FS"
+},
+"business_lines": [
+"网络 / 安防分销"
+],
+"channels": {
+"role": "分销商（已售中国同行）",
+"region": "意大利"
+},
+"signals": [
+"已售 Hasivo 工业 FS → 同类替换"
+],
+"risks": [
+"13 次群发无回复；无具名"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+},
+"email_hook": "Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?"
+}
 },
 {
 "name": "congtyminhphuoc.vn",
@@ -170198,7 +170701,90 @@
 "c_sub": "",
 "status": "已推送 9 次·未回复",
 "code": "SB-184",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-184",
+"name_official": "Nelly's Security（美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（nellyssecurity.com，快照 2026-10-21）",
+"summary": "美国商用级安防设备电商（CCTV、门禁、入侵报警；Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti；camera 280 / poe 180 / switch 75），Technical Operations Officer Ryan O'Daniel、Sales Cole Cattaneo；表内「PoE switch 摄像头安防；用的是 ONV 的设备」；群发 9 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"ONV",
+"Uniview",
+"Hanwha",
+"ZKTeco",
+"TP-Link",
+"Ubiquiti"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "商用级物理安防设备电商",
+"quote": "The web's top source for commercial-grade physical security equipment… brands Uniview, Hanwha, ZKTeco, TP-Link, Ubiquiti",
+"url": "https://nellyssecurity.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "PoE switch 摄像头，安防；用的是 ONV 的设备",
+"quote": "兴趣：PoE switch 摄像头，安防 用的是ONV的设备",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ryan O'Daniel",
+"title": "Technical Operations Officer",
+"email": "rodaniel@nellyssecurity.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Cole Cattaneo",
+"title": "Sales Representative",
+"email": "customerservice@nellyssecurity.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Nelly's Security（待核）",
+"founded": "",
+"hq": "USA（俄克拉荷马，待核）",
+"size": "中型安防电商",
+"other": "自有标 PoE 疑由 ONV 代工"
+},
+"business_lines": [
+"安防电商"
+],
+"channels": {
+"role": "电商（ONV 用户）",
+"region": "美国"
+},
+"signals": [
+"ONV 设备在售 → 同规格替换（可贴 Nelly's 标）"
+],
+"risks": [
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"9 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 30,
+"why": "自有标 24 PoE（替换 ONV）→ STC-424DGGPM-280W（$145.7 @30%）；8 PoE STC-28DGGPM。"
+},
+"email_hook": "Ryan, for the PoE switches you source from ONV today — like-for-like Marvell L2+ 24-PoE and 8-PoE units under the Nelly's label from small lots (FCC/CE); send me the ONV model numbers and I'll quote them directly."
+}
 },
 {
 "name": "netbergtw.com",
@@ -177985,7 +178571,80 @@
 "c_sub": "",
 "status": "已推送 6 次·未回复",
 "code": "SB-220",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-220",
+"name_official": "Electronik House（意大利）",
+"researched_at": "2026-10-21",
+"website_status": "在线（electronikhouse.it，快照 2026-10-21，意语）",
+"summary": "意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Digitus",
+"Hikvision",
+"Dahua",
+"Linkcreative"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "电子元件供应商，持续客户支持",
+"quote": "Fornitore di Componenti Elettronici Garantiamo un costante supporto ed attenzione verso i nostri clienti… brands Hikvision, Dahua",
+"url": "https://electronikhouse.it/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可以尝试多跟进一下",
+"quote": "兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@electronikhouse.it",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Electronik House（待核）",
+"founded": "",
+"hq": "Italy",
+"size": "小型元件网店",
+"other": "已售 Digitus 工业 FS / 中国 MC"
+},
+"business_lines": [
+"电子元件 / 网络网店"
+],
+"channels": {
+"role": "网店 / 经销",
+"region": "意大利"
+},
+"signals": [
+"已售 Digitus 工业 FS 与中国 MC → 同类上架"
+],
+"risks": [
+"无具名；6 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+},
+"email_hook": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?"
+}
 },
 {
 "name": "eretekne.com",
@@ -207610,7 +208269,80 @@
 "c_sub": "",
 "status": "已推送 15 次·未回复",
 "code": "SB-327",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-327",
+"name_official": "Welotec GmbH（德国拉尔）",
+"researched_at": "2026-10-21",
+"website_status": "在线（welotec.com，快照 2026-10-21）",
+"summary": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Westermo",
+"Welotec（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "数字变电站坚固计算与网络：IEC 61850-3 认证服务器、交换机、路由；保护 / 自动化 / SCADA / vPAC",
+"quote": "Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments… brands Westermo",
+"url": "https://welotec.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS POE 有好几个牌子，也有自己的牌子，有小壳；可以着重跟一下",
+"quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Jos Zenner",
+"title": "Managing Director / CTO",
+"email": "j.zenner@welotec.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Welotec GmbH",
+"founded": "1998（待核）",
+"hq": "Laer, Germany",
+"size": "中型方案商（自有品牌）",
+"other": "IEC 61850-3 变电站线"
+},
+"business_lines": [
+"变电站计算 / 网络方案（自有品牌 + Westermo）"
+],
+"channels": {
+"role": "方案商 + 自有品牌（OEM 采购）",
+"region": "德国"
+},
+"signals": [
+"自有品牌小壳工业 FS → 贴 Welotec 标（非 IEC 61850 场景）",
+"CTO 具名"
+],
+"risks": [
+"IEC 61850-3 / 电力守界：仅供非关键节点",
+"15 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 30,
+"why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。"
+},
+"email_hook": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?"
+}
 },
 {
 "name": "wieland-electric.com",
@@ -218853,7 +219585,85 @@
 "c_sub": "",
 "status": "已推送 15 次·未回复",
 "code": "SB-372",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-372",
+"name_official": "Surveillance-Video.com（美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（surveillance-video.com，快照 2026-10-21）",
+"summary": "美国安防摄像机 / 监控系统电商（TRENDnet、TP-Link、ComNet、Intellinet、Bosch、Cisco、Dahua；camera 355 / poe 86 / switch 75），仅 info@；表内「PoE 配件，E-link 的」；群发 15 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"TRENDnet",
+"TP-Link",
+"ComNet",
+"Intellinet",
+"Bosch",
+"Cisco",
+"Dahua",
+"E-link"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "专业级安防摄像机与监控系统电商；品牌 TRENDnet / TP-Link / ComNet / Intellinet / Bosch / Cisco / Dahua",
+"quote": "Shop professional grade security cameras and surveillance systems at the lowest prices… brands TRENDnet, TP-Link, ComNet, Intellinet, Bosch, Cisco, Dahua",
+"url": "https://surveillance-video.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "PoE 配件 Elink 的",
+"quote": "兴趣：PoE配件 Elink的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@surveillance-video.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Surveillance-Video.com（待核）",
+"founded": "",
+"hq": "USA（纽约，待核）",
+"size": "中型安防电商",
+"other": "已售 E-link PoE 配件"
+},
+"business_lines": [
+"安防电商"
+],
+"channels": {
+"role": "电商",
+"region": "美国"
+},
+"signals": [
+"已售 E-link → 同类上架"
+],
+"risks": [
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"15 次群发无回复；无具名"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "CCTV 电商走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）。"
+},
+"email_hook": "For the PoE switch category beside TRENDnet/TP-Link — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE at $81 EXW, FCC/CE (no UL); who handles new vendors for the store?"
+}
 },
 {
 "name": "teamac-arabia.com",
@@ -316255,7 +317065,79 @@
 "c_sub": "",
 "status": "已推送 19 次·未回复",
 "code": "SB-809",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-809",
+"name_official": "Arcdyn（美国北卡阿什维尔）",
+"researched_at": "2026-10-21",
+"website_status": "在线（arcdyn.com，快照 2026-10-21）",
+"summary": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Uniview"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "安防摄像机供应商与分销，NDAA 选项；阿什维尔",
+"quote": "Arcdyn Security Supplier sells affordable professional grade IP Security Cameras, NVR Surveillance Systems, & Access Control Systems Nation Wide and In Asheville, NC… NDAA Options… brands Uniview",
+"url": "https://arcdyn.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "主要是 CCTV 商业 PoE PoE extender",
+"quote": "兴趣：主要是CCTV 商业PoE PoE extender",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Justin Bowman",
+"title": "President",
+"email": "jbowman@arcdyn.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Arcdyn LLC（待核）",
+"founded": "",
+"hq": "Asheville, NC, USA",
+"size": "中小型安防分销",
+"other": "NDAA 合规选项"
+},
+"business_lines": [
+"安防摄像机 / NVR 分销"
+],
+"channels": {
+"role": "安防分销商",
+"region": "美国"
+},
+"signals": [
+"President 具名；PoE 为配套品类"
+],
+"risks": [
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"NDAA 合规（芯片来源）敏感 → Marvell 平台需说明",
+"PoE 延长器 Saga 无；19 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
+},
+"email_hook": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?"
+}
 },
 {
 "name": "britaniccablingproduction.com",
@@ -318126,7 +319008,79 @@
 "c_sub": "",
 "status": "已推送 9 次·未回复",
 "code": "SB-815",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-815",
+"name_official": "COMMANDO Networks（美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（commandonetworks.com，快照 2026-10-21）",
+"summary": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
+"type": "",
+"size": "",
+"brands_seen": [
+"COMMANDO（自有）",
+"Cisco"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "网络硬件品牌：交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆",
+"quote": "COMMANDO is a technology company focused on networking hardware… Switching Routing Wireless Network Accessories, Access Points, Media Converters, SFP Modules, PoE Injectors",
+"url": "https://commandonetworks.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Cisco switch MC SFP 工业 FS；北京 深圳有办事处；可以尝试多跟进一下",
+"quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@commandonetworks.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "COMMANDO Networks（待核）",
+"founded": "",
+"hq": "USA（北京 / 深圳办事处）",
+"size": "中小型品牌商",
+"other": "中国办事处直采"
+},
+"business_lines": [
+"网络硬件（自有品牌全线）"
+],
+"channels": {
+"role": "品牌商（OEM 直采）",
+"region": "美国"
+},
+"signals": [
+"全线贴牌 → 工业 FS / MC 补 SKU"
+],
+"risks": [
+"有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 30,
+"why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。"
+},
+"email_hook": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit."
+}
 },
 {
 "name": "communitech.ca",
@@ -320227,7 +321181,80 @@
 "c_sub": "",
 "status": "已推送 17 次·未回复",
 "code": "SB-823",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-823",
+"name_official": "Enable-IT, Inc.（美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（enableit.com，快照 2026-10-21）",
+"summary": "美国以太网 / PoE 延长器专业制造商（Made in USA，AS9100D，定制 OEM；poe 358 / switch 68 / oem 33），Director David Conners；表内「专门做 PoE 和 Ethernet extender；ONV 的商用 PoE」；群发 17 次无回复。延长器 Saga 无（Q-32）；其配套商用 PoE 交换机（ONV）可替换。",
+"type": "",
+"size": "",
+"brands_seen": [
+"ONV",
+"Enable-IT（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "以太网 / PoE 延长器，美国制造，AS9100D，定制 OEM",
+"quote": "Enable-IT Ethernet Extender and PoE Extender Solutions Made In The USA, Superior Performance, Custom OEM Design Solutions Globally AS9100D certified",
+"url": "https://enableit.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "专门做 PoE 和 Ethernet extender；ONV 的商业 PoE",
+"quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "David Conners",
+"title": "Director",
+"email": "dconners@enableit.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Enable-IT, Inc.",
+"founded": "（待核）",
+"hq": "USA",
+"size": "中小型制造商",
+"other": "AS9100D（航空级质量体系）"
+},
+"business_lines": [
+"以太网 / PoE 延长器（自产）",
+"配套 PoE 交换机（ONV 外购）"
+],
+"channels": {
+"role": "制造商（配套 OEM 采购）",
+"region": "美国"
+},
+"signals": [
+"配套商用 PoE 用 ONV → 同规格替换（Marvell 管理型差异）"
+],
+"risks": [
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"延长器主业 Saga 无；17 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "替换 ONV 配套商用 PoE → STC-28DGGPM（$87.4 @30%）贴 Enable-IT 标。"
+},
+"email_hook": "David, for the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like."
+}
 },
 {
 "name": "engeniustech.com",
@@ -322005,7 +323032,88 @@
 "c_sub": "",
 "status": "已推送 18 次·未回复",
 "code": "SB-830",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-830",
+"name_official": "Flytec Computers（迈阿密）",
+"researched_at": "2026-10-21",
+"website_status": "在线（flyteccomputers.com，快照 2026-10-21）",
+"summary": "美国迈阿密无线 / 有线 / 光纤设备分销商（Ubiquiti、MikroTik、Fanvil；面向拉美出口；switch 104 / poe 78 / camera 84），CEO Bruno Rocha、产品管理总监 Freddy Sigal；表内「PoE switch，Hisource 的」；群发 18 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Ubiquiti",
+"MikroTik",
+"Fanvil",
+"Hisource"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Ubiquiti / MikroTik / Fanvil 等品牌分销，美国快速发货",
+"quote": "Flytec Computers offers top brands like Ubiquiti, MikroTik, Fanvil & more. Buy wireless, fiber & VoIP gear with fast US shipping.",
+"url": "https://flyteccomputers.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "PoE switch；hisource 的",
+"quote": "兴趣：PoE switch hisource的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Freddy Sigal",
+"title": "Director of Product Management",
+"email": "fsigal@flyteccomputers.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Bruno Rocha",
+"title": "Chief Executive Officer",
+"email": "bruno@flyteccomputers.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Flytec Computers Inc.",
+"founded": "（待核）",
+"hq": "Miami, FL, USA",
+"size": "中型分销（美国 + 拉美）",
+"other": "已售 Hisource（中国同行）PoE"
+},
+"business_lines": [
+"无线 / 光纤 / VoIP 设备分销"
+],
+"channels": {
+"role": "分销商（已售中国同行）",
+"region": "美国 / 拉美"
+},
+"signals": [
+"已售 Hisource PoE → 同类替换；产品管理总监具名"
+],
+"risks": [
+"美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明（拉美转口可放宽）",
+"18 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "对位 Hisource 商用 8 PoE → STC-28DGGPM（$80.7 @20%，Marvell）；24 PoE STC-424DGGPM-280W。"
+},
+"email_hook": "Freddy, beside the Hisource PoE units — Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW (FCC/CE); for the LatAm re-export business, would neutral cartons with Spanish quick guides help?"
+}
 },
 {
 "name": "fossfibreoptics.com",
@@ -332161,7 +333269,89 @@
 "c_sub": "",
 "status": "已推送 8 次·未回复",
 "code": "SB-865",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-865",
+"name_official": "BCS / sklep-bcs.pl（波兰）",
+"researched_at": "2026-10-21",
+"website_status": "在线（sklep-bcs.pl，快照 2026-10-21，波兰语）",
+"summary": "波兰 BCS 品牌（CCTV / IP 监控 / HD-CVI）授权分销网店（TP-Link、Ubiquiti；poe 106 / switch 85），Project Manager Maciej Sobecki、Export Manager Michał Skalecki（表内「可着重跟」）；表内「工商业 switch、PoE switch 有 E-link 的；CVI FS 工业 FS」；群发 8 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"BCS（自有）",
+"E-link",
+"TP-Link",
+"Ubiquiti"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "BCS 品牌授权分销：CCTV、IP 监控、AHD、HD-CVI、摄像机、录像机",
+"quote": "Autoryzowany dystrybutor urządzeń marki BCS do telewizji przemysłowej, monitoringu IP, AHD, HD-CVI… brands TP-Link, Ubiquiti",
+"url": "https://sklep-bcs.pl/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工商业 switch；PoE switch 有 Elink 的；CVI FS 工业 FS；可以着重跟一下",
+"quote": "兴趣：MC Switch等;工商业switch 有Elink的;PoE switch 有Elink的 后边链接;CVI FS 工业FS",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Maciej Sobecki",
+"title": "Project Manager",
+"email": "m.sobecki@bcs.pl",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Michał Skalecki",
+"title": "Export Manager",
+"email": "m.skalecki@bcs.pl",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "BCS（NSS Sp. z o.o.，待核）",
+"founded": "",
+"hq": "Poland",
+"size": "中型安防品牌 + 分销",
+"other": "BCS 为波兰自有安防品牌（Dahua 代工）；E-link PoE 在售"
+},
+"business_lines": [
+"BCS 品牌 CCTV 分销",
+"PoE / 工业交换机（E-link）"
+],
+"channels": {
+"role": "安防品牌商 + 分销（OEM 采购）",
+"region": "波兰"
+},
+"signals": [
+"BCS 自有品牌体系 → PoE 交换机贴 BCS 标（OEM 30%）",
+"E-link 在售 → 替换"
+],
+"risks": [
+"8 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "BCS 标 8 PoE 管理 → STC-28DGGPM（$87.4 @30%，Marvell）；工业 STI-288GP。"
+},
+"email_hook": "Maciej, for a BCS-branded PoE switch line (E-link today) — Marvell L2+ 8/24-PoE and DIN industrial 8-PoE under the BCS label from small lots, CE/RoHS; which SKU should I sample first?"
+}
 },
 {
 "name": "smartsystems.jo",
@@ -338084,7 +339274,71 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-894",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-894",
+"name_official": "CCTVSpot（英国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（cctvspot.co.uk，快照 2026-10-21）",
+"summary": "英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"UTEPO",
+"Hikvision",
+"Dahua"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Hikvision / Dahua CCTV 摄像机、系统与 DVR 套件电商",
+"quote": "CCTV cameras, security systems and dvr kits from Hikvision & Dahua at top prices from cctvspot.co.uk",
+"url": "https://cctvspot.co.uk/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "主要是 CCTV 商业 PoE Utepo 的；销售平台",
+"quote": "兴趣：主要是CCTV 商业PoE Utepo的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "CCTVSpot（待核）",
+"founded": "",
+"hq": "UK",
+"size": "小型安防电商",
+"other": "无公开邮箱"
+},
+"business_lines": [
+"CCTV 电商"
+],
+"channels": {
+"role": "电商（已售 UTEPO）",
+"region": "英国"
+},
+"signals": [
+"已售 UTEPO → 同类上架"
+],
+"risks": [
+"无邮箱（需网站表单）"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。"
+},
+"email_hook": "（无邮箱；网站表单联系）"
+}
 },
 {
 "name": "cop-security.com",
@@ -353571,7 +354825,78 @@
 "c_sub": "",
 "status": "已推送 2 次·未回复",
 "code": "SB-965",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-965",
+"name_official": "Areskom İletişim Ltd（伊斯坦布尔）",
+"researched_at": "2026-10-21",
+"website_status": "在线（areskom.com.tr，快照 2026-10-21，土耳其语）",
+"summary": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Westermo",
+"Teltonika"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Areskom İletişim – 技术伙伴；品牌 Westermo / Teltonika；+90 (216) 428 78 78；2004–2026",
+"quote": "Areskom İletişim LTD – Teknoloji Ortağınız… brands Westermo, Teltonika",
+"url": "https://areskom.com.tr/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "很多有名的牌子；工业 MC FS 工业控制",
+"quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@areskom.com.tr",
+"phone": "+90 216 428 78 78",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Areskom İletişim Ltd. Şti.",
+"founded": "2004",
+"hq": "Istanbul (Anadolu), Türkiye",
+"size": "中小型工业通信分销",
+"other": "Westermo 土耳其渠道"
+},
+"business_lines": [
+"工业通信 / 控制产品分销"
+],
+"channels": {
+"role": "工业分销商",
+"region": "土耳其"
+},
+"signals": [
+"Westermo 之下价位带；PoE / switch 词频高"
+],
+"risks": [
+"仅 info@"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
+},
+"email_hook": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?"
+}
 },
 {
 "name": "baburtech.com",

@@ -1,0 +1,73 @@
+{
+ "code": "SB-1248",
+ "name_official": "SPHINX Computer Vertriebs GmbH（德国拉登堡）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sphinxcomputer.de，快照 2026-10-21，德语）",
+ "summary": "德国数据通信专家 / 工业自动化、网络、网络安全、IoT、嵌入式分销商（Moxa、Advantech、Siemens、Milesight；industrial 86 / switch 85；+49 6201 75437），Markus Brenner；表内「卖研华等很多牌子；工业 FS MC」；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "Advantech",
+  "Siemens",
+  "Milesight"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "数据通信专家，工业自动化、网络技术、网络安全、IoT、嵌入式分销；品牌 Moxa / Advantech / Siemens / Milesight；+49 (0) 6201 75437",
+   "quote": "SPHINX Computer - Ihr Spezialist für Datenkommunikation und Distributor für Industrieautomation, Netzwerktechnik, Cybersecurity, IoT und Embedded Computing",
+   "url": "https://sphinxcomputer.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "卖几个有名牌子的；工业 FS MC；卖研华等很多牌子",
+   "quote": "兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Markus Brenner",
+   "title": "（表内联系人）",
+   "email": "markus.brenner@sphinxcomputer.de",
+   "phone": "+49 6201 75437",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "SPHINX Computer Vertriebs GmbH",
+  "founded": "1981（待核）",
+  "hq": "Laudenbach, Germany（+49 6201）",
+  "size": "中型分销",
+  "other": ""
+ },
+ "business_lines": [
+  "工业自动化 / 网络 / IoT 分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "德国"
+ },
+ "signals": [
+  "Moxa / Advantech 之下价位带；具名联系人"
+ ],
+ "risks": [
+  "品牌分销导入流程"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?"
+}

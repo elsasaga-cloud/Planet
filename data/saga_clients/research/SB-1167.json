@@ -1,0 +1,68 @@
+{
+ "code": "SB-1167",
+ "name_official": "BR Network Solutions GmbH（德国克莱沃）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（br-network-shop.de，快照 2026-10-21，德语）",
+ "summary": "德国数据网络 / 电信 / 监控技术中型专业批发（在线商店；switch 206 / industrial 73；+49 2821 97016-0），info@；表内「工业 FS MC 周边产品，销售平台」；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "中型数据网络、电信与监控技术专业批发，在线商店；+49 (0) 28 21 - 9 70 16 - 0",
+   "quote": "Wir sind ein mittelständischer Fachgroßhandel für die Datennetzwerktechnik, Telekommunikation und Überwa[chung]",
+   "url": "https://br-network-shop.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC 周边产品；销售平台",
+   "quote": "兴趣：工业FS MC 周边产品 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@br-network.de",
+   "phone": "+49 2821 97016 0",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "BR Network Solutions GmbH",
+  "founded": "",
+  "hq": "Kleve, Germany（+49 2821）",
+  "size": "中型专业批发",
+  "other": ""
+ },
+ "business_lines": [
+  "网络 / 电信 / 监控技术批发"
+ ],
+ "channels": {
+  "role": "批发商",
+  "region": "德国"
+ },
+ "signals": [
+  "工业 FS / MC 品类在售"
+ ],
+ "risks": [
+  "无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?"
+}

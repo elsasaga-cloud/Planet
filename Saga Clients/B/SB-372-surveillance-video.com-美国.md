@@ -1,4 +1,5 @@
 # surveillance-video.com
+**官方名称（调研核实）**：Surveillance-Video.com（美国）
 
 > **评级 B**　|　美国　|　档案编号 `SB-372`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-372
 rating: B
 rating_auto: B
+name_official: "Surveillance-Video.com（美国）"
 score: 43
 country: 美国
 region: 北美
@@ -19,9 +21,9 @@ replies: 0
 followups: 15
 first_contact: 2024-07-23
 last_contact: 2025-10-31
-p1: none
+p1: STC-424DGGPM-280W
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：PoE配件 Elink的；提到的品牌：Elink
+- **是谁**：美国安防摄像机 / 监控系统电商（TRENDnet、TP-Link、ComNet、Intellinet、Bosch、Cisco、Dahua；camera 355 / poe 86 / switch 75），仅 info@；表内「PoE 配件，E-link 的」；群发 15 次无回复。（调研 2026-10-21；表内兴趣：PoE配件 Elink的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-07-23 → 2025-10-31）
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：CCTV 电商走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）。；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-372.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（surveillance-video.com，快照 2026-10-21）
+- **是谁**：美国安防摄像机 / 监控系统电商（TRENDnet、TP-Link、ComNet、Intellinet、Bosch、Cisco、Dahua；camera 355 / poe 86 / switch 75），仅 info@；表内「PoE 配件，E-link 的」；群发 15 次无回复。
+- **在卖/在用品牌**：TRENDnet, TP-Link, ComNet, Intellinet, Bosch, Cisco, Dahua, E-link
+- **【官网快照】专业级安防摄像机与监控系统电商；品牌 TRENDnet / TP-Link / ComNet / Intellinet / Bosch / Cisco / Dahua**
+  > Shop professional grade security cameras and surveillance systems at the lowest prices… brands TRENDnet, TP-Link, ComNet, Intellinet, Bosch, Cisco, Dahua
+  > 来源：https://surveillance-video.com/（抓取 2026-10-21）
+- **【用户表】PoE 配件 Elink 的**
+  > 兴趣：PoE配件 Elink的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（未具名）（）info@surveillance-video.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Surveillance-Video.com（待核） |
+| 总部/地址 | USA（纽约，待核） |
+| 其他 | 已售 E-link PoE 配件 |
+
+- **业务线**：安防电商
+- **触达通道（公开）**：role: 电商；region: 美国
+- **近况信号**：
+  - 已售 E-link → 同类上架
+- **风险/边界**：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明；15 次群发无回复；无具名
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——CCTV 电商走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）。
+- **邮件切入句（英文）**：For the PoE switch category beside TRENDnet/TP-Link — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE at $81 EXW, FCC/CE (no UL); who handles new vendors for the store?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -135,7 +163,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | VC/光端机：Saga 不做（可只推交换机） | — | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：CCTV 电商走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）。 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -156,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：无具名决策人，仍是公司级触达；已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 — 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Elink：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Elink：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -181,12 +209,29 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+
+```text
+Hello,
+
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switch category beside TRENDnet/TP-Link — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE at $81 EXW, FCC/CE (no UL); who handles new vendors for the store?
+
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

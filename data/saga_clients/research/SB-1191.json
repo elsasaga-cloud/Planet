@@ -1,0 +1,70 @@
+{
+ "code": "SB-1191",
+ "name_official": "Garma Electronics S.L.（西班牙圣塞巴斯蒂安）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（garmasl.com，快照 2026-10-21）",
+ "summary": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Red Lion"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "20+ 年工业方案：仪表与过程控制；+34 943 291 102",
+   "quote": "With over 20 years of experience, Garma Electronics is your trusted source for industrial solutions. Offering instrumentation and control for demanding processes.",
+   "url": "https://garmasl.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "redlion Switch I/O module",
+   "quote": "兴趣：redlion Switch I/O module",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@garmasl.com",
+   "phone": "+34 943 291 102",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Garma Electronics S.L.",
+  "founded": "约 2003",
+  "hq": "San Sebastián (Gipuzkoa), Spain",
+  "size": "中小型工业分销",
+  "other": "Red Lion 渠道"
+ },
+ "business_lines": [
+  "工业仪表 / 控制 / 网络分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "西班牙"
+ },
+ "signals": [
+  "Red Lion（N-Tron）之下价位带"
+ ],
+ "risks": [
+  "I/O 模块不供；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。"
+ },
+ "email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?"
+}

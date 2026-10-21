@@ -1,0 +1,71 @@
+{
+ "code": "SB-965",
+ "name_official": "Areskom İletişim Ltd（伊斯坦布尔）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（areskom.com.tr，快照 2026-10-21，土耳其语）",
+ "summary": "土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Westermo",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Areskom İletişim – 技术伙伴；品牌 Westermo / Teltonika；+90 (216) 428 78 78；2004–2026",
+   "quote": "Areskom İletişim LTD – Teknoloji Ortağınız… brands Westermo, Teltonika",
+   "url": "https://areskom.com.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "很多有名的牌子；工业 MC FS 工业控制",
+   "quote": "兴趣：很多有名的牌子 工业MC FS 工业控制",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@areskom.com.tr",
+   "phone": "+90 216 428 78 78",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Areskom İletişim Ltd. Şti.",
+  "founded": "2004",
+  "hq": "Istanbul (Anadolu), Türkiye",
+  "size": "中小型工业通信分销",
+  "other": "Westermo 土耳其渠道"
+ },
+ "business_lines": [
+  "工业通信 / 控制产品分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "土耳其"
+ },
+ "signals": [
+  "Westermo 之下价位带；PoE / switch 词频高"
+ ],
+ "risks": [
+  "仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?"
+}

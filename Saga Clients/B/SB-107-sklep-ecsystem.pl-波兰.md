@@ -1,4 +1,5 @@
 # sklep-ecsystem.pl
+**官方名称（调研核实）**：EC System / Eltcrac System（波兰）
 
 > **评级 B**　|　波兰　|　档案编号 `SB-107`　|　优先级 ★★　|　状态：已推送 4 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-107
 rating: B
 rating_auto: B
+name_official: "EC System / Eltcrac System（波兰）"
 score: 53
 country: 波兰
 region: 欧洲
@@ -21,7 +23,7 @@ first_contact: 2025-07-03
 last_contact: 2025-10-20
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的经销/集成（类型待核）；兴趣/在卖：hasivo的商业级；商业PoE Hasivo的
+- **是谁**：波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。（调研 2026-10-21；表内兴趣：hasivo的商业级；商业PoE Hasivo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-07-03 → 2025-10-20）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-107.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（sklep-ecsystem.pl，快照 2026-10-21，波兰语）
+- **是谁**：波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。
+- **在卖/在用品牌**：Hasivo, Hikvision, Dahua
+- **【官网快照】安防系统网店：报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；+48 792 580 660**
+  > Sklep Eltcrac System - Systemy zabezpieczęń - SSWiN, Monitoring CCTV, Domofony, sieci WLAN/LAN. Rabaty hurtowe dla partnerów B2B.
+  > 来源：https://sklep-ecsystem.pl/（抓取 2026-10-21）
+- **【用户表】hasivo 的商业级；商业 PoE Hasivo 的**
+  > 兴趣：hasivo的商业级;商业PoE Hasivo的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（网店）（）esklep@ecsystem.pl +48 792 580 660〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Eltcrac System（待核） |
+| 总部/地址 | Poland |
+| 其他 | 已售 Hasivo（中国同行） |
+
+- **业务线**：安防网店（B2B）
+- **触达通道（公开）**：role: 网店 / 分销（已售中国同行）；region: 波兰
+- **近况信号**：
+  - 已售 Hasivo → 同类替换（Marvell 管理型差异）
+- **风险/边界**：4 次群发无回复
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
+- **邮件切入句（英文）**：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -127,7 +155,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28DGGPM | 深挖对位：对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -171,7 +199,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -181,7 +208,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

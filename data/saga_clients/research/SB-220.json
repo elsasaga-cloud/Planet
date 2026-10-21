@@ -1,0 +1,73 @@
+{
+ "code": "SB-220",
+ "name_official": "Electronik House（意大利）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（electronikhouse.it，快照 2026-10-21，意语）",
+ "summary": "意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Digitus",
+  "Hikvision",
+  "Dahua",
+  "Linkcreative"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "电子元件供应商，持续客户支持",
+   "quote": "Fornitore di Componenti Elettronici Garantiamo un costante supporto ed attenzione verso i nostri clienti… brands Hikvision, Dahua",
+   "url": "https://electronikhouse.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可以尝试多跟进一下",
+   "quote": "兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@electronikhouse.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Electronik House（待核）",
+  "founded": "",
+  "hq": "Italy",
+  "size": "小型元件网店",
+  "other": "已售 Digitus 工业 FS / 中国 MC"
+ },
+ "business_lines": [
+  "电子元件 / 网络网店"
+ ],
+ "channels": {
+  "role": "网店 / 经销",
+  "region": "意大利"
+ },
+ "signals": [
+  "已售 Digitus 工业 FS 与中国 MC → 同类上架"
+ ],
+ "risks": [
+  "无具名；6 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+ },
+ "email_hook": "Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?"
+}
