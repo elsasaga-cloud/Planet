@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（isnetworks.pl，快照 2026-10-21）",
- "summary": "波兰安防集成/经销：官网「Main Page - IS NETWORKS」（en-GB）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；产品页：switches-industrial-ethernet、switche、switches、industrial-converters；表内「工业FS MC SFP 用了nnet的」；群发 8 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "波兰 IS Networks（计算机网络设计、组装与服务公司，兼售产品：工业以太网交换机、交换机、工业转换器、光纤、CCTV 43；表内「工业 FS / MC / SFP，用了 nnet 的」；KP Marek（marek@is-net.pl））；群发 8 次无回复。",
+ "type": "网络集成商兼产品销售（波兰）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,63 @@
    "quote": "工业FS MC SFP 用了nnet的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IS Networks 网络设计与组装",
+   "quote": "From the very beginning of the IS NETWORKS Sieci Komputerowe company, the main aspect of our activity is to provide professional services in the field of design, assembly",
+   "url": "https://isnetworks.pl/en/main-page/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC SFP，用了 nnet 的",
+   "quote": "工业FS MC SFP；用了nnet的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Marek",
+   "title": "（表内联系人）",
+   "email": "marek@is-net.pl",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 isnetworks.pl，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "计算机网络设计与组装服务",
+  "工业交换机 / 转换器 / 光纤产品销售"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "网络集成商兼产品销售（波兰）",
   "region": "波兰",
   "contact": "marek@is-net.pl、biuro@is-net.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://isnetworks.pl/en/main-page/）",
-  "官网公开邮箱：biuro@is-net.pl",
-  "用户表兴趣/备注：工业FS MC SFP 用了nnet的"
+  "页面 /switches-industrial-ethernet/、/industrial-converters/、/switche/",
+  "官网：professional services in the field of design, assembly … computer networks；kw sfp 44 / fiber 41 / cctv 43"
  ],
- "risks": [],
+ "risks": [
+  "集成商项目型采购：量随项目波动",
+  "8 次无回复 → 改向 Marek 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "项目用工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE；SFP Saga 不供（Q-32）"
  },
- "email_hook": "Marek, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?"
 }

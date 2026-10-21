@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-852`　|　优先级 ★★　|　状态：已推送 19 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 19 次（2024-05-14 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径）（推断）　|　**历史关系**：推送 19 次（2024-05-14 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-852
@@ -12,7 +12,7 @@ score: 32
 country: 美国
 region: 北美
 website: microseven.com
-type: 安防集成/经销
+type: 美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 19
 first_contact: 2024-05-14
 last_contact: 2025-10-31
 p1: STC-28DGGPM
-price_tier: 20%
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国安防集成/经销：官网「microseven wi-fi and wired poe security camera」；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：M7B4K-PSAA、M7B4K-WPSAA-H、M7D77-POE、M7B4K-WPUNC；表内「主要是CCTV 商业PoE；主要是CCTV 商业PoE 洪瑞的 产品数量较少」；群发 19 次、无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 商业PoE；主要是CCTV 商业PoE 洪瑞的 产品数量较少）
+- **是谁**：美国 Microseven（Wi-Fi 与有线 PoE 安防摄像机网店：M7B4K/M7D4K 4K PoE 摄像机、配件 M7POESW-8CH 8 口 PoE 交换机；表内「主要是 CCTV，商业 PoE；HRUI（洪瑞）的，产品数量较少」）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 商业PoE；主要是CCTV 商业PoE 洪瑞的 产品数量较少）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-14 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作上位；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | microseven.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | microseven.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径） | 推断（据兴趣/备注关键词） |
 | 联系人 | 洪瑞的 产品数量较少 | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | 主要是CCTV 商业PoE / 主要是CCTV 商业PoE<br>洪瑞的 产品数量较少 | 事实（用户表） |
@@ -65,31 +65,43 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（microseven.com，快照 2026-10-21）
-- **是谁**：美国安防集成/经销：官网「microseven wi-fi and wired poe security camera」；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE；站内型号：M7B4K-PSAA、M7B4K-WPSAA-H、M7D77-POE、M7B4K-WPUNC；表内「主要是CCTV 商业PoE；主要是CCTV 商业PoE 洪瑞的 产品数量较少」；群发 19 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：美国 Microseven（Wi-Fi 与有线 PoE 安防摄像机网店：M7B4K/M7D4K 4K PoE 摄像机、配件 M7POESW-8CH 8 口 PoE 交换机；表内「主要是 CCTV，商业 PoE；HRUI（洪瑞）的，产品数量较少」）；群发 19 次无回复。
+- **类型**：美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径）
+- **在卖/在用品牌**：HRUI
 - **【官网快照】官网标题：microseven wi-fi and wired poe security camera；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
   > Looking for the best price and best product that's popular to buy? Look no further! We offer a range of security cameras to suit your needs, from 1080p to 4k ultra HD, with both Wi-Fi and wired options available. Our Wi-Fi security camera a
   > 来源：http://www.microseven.com/index.html（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 主要是CCTV 商业PoE；主要是CCTV 商业PoE 洪瑞的 产品数量较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Microseven 安防摄像机网店**
+  > We offer a range of security cameras to suit your needs, from 1080p to 4k ultra HD, with both Wi-Fi and wired option…
+  > 来源：http://www.microseven.com/index.html（抓取 2026-10-21）
+- **【用户表】主要是 CCTV 商业 PoE；洪瑞的**
+  > 主要是CCTV 商业PoE；洪瑞的 产品数量较少
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 microseven.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 美国；contact: techsupport@microseven.com
+- **业务线**：PoE / Wi-Fi 安防摄像机网店；配件 PoE 交换机（HRUI 供货）
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| Microseven（自有标） | M7POESW-8CH | 8 口 PoE（HRUI 供货） | STC-28DGGPM（Q-33 口径：只推 SmartByte 线） | https://www.microseven.com/product/Accessories-M7POESW-8CH.html（2026-10-21） |
+
+- **触达通道（公开）**：role: 美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径）；region: 美国；contact: techsupport@microseven.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，http://www.microseven.com/index.html）
-  - 用户表兴趣/备注：主要是CCTV 商业PoE；主要是CCTV 商业PoE 洪瑞的 产品数量较少
-- **风险/边界**：群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）；表内提到在用/在卖 HRUI 或 SmartByte 等供应商品牌 → Q-33 口径：只推 SmartByte/Marvell 管理型与工业线，不报 HRUI 同款；若在 SmartByte 经销名单内则不碰
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 页面 /product/Accessories-M7POESW-8CH.html；站内 M7B4K-PSAA / M7D4K-POESA
+  - 表内：洪瑞的 产品数量较少
+- **风险/边界**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；19 次无回复，仅 techsupport@ 邮箱；产品少、量小
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作上位
+- **邮件切入句（英文）**：For the M7POESW-8CH PoE switch you bundle with your 4K cameras, we can add a Marvell-based 8-PoE + 2 SFP L2+ step-up model under your label from small lots, FCC/CE/RoHS — would a managed option sell to your multi-camera customers?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -165,9 +177,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作上位 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -177,7 +189,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -185,7 +197,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：已推送 19 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -218,9 +230,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the M7POESW-8CH PoE switch you bundle with your 4K cameras, we can add a Marvell-based 8-PoE + 2 SFP L2+ step-up model under your label from small lots, FCC/CE/RoHS — would a managed option sell to your multi-camera customers?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the 洪瑞 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Microseven（自有标） M7POESW-8CH at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（crystalrugged.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Crystal Group: Rugged Tech. Zero Limits.」（en）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：AS9100D、EIA-310、RJ-45、RS232；表内「工业FS 自己的logo」；群发 10 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Crystal Group（加固技术：国防/工业/边缘计算加固服务器，AS9100D，「ruggedized PoE switch military」；表内「工业 FS 自己的 logo」「细分特种行业公司」）；群发 10 次无回复。",
+ "type": "国防加固计算制造商（军工）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,41 +21,53 @@
    "quote": "工业FS 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Crystal Group 加固技术",
+   "quote": "Crystal Group: Rugged Tech. Zero Limits. ; Discover Crystal Group’s rugged tech solutions—built to thrive in the toughest environments ; Defense ; Industrial ; Edge computing",
+   "url": "https://www.crystalrugged.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的 logo；特种行业",
+   "quote": "工业FS 自己的logo；细分特种行业公司",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "守界：美国国防加固计算制造商（Crystal Group，军用 PoE 交换机）；c_sub=守界：军工",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 crystalrugged.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "加固服务器 / 军用 PoE 交换机"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "国防加固计算制造商（军工）",
   "region": "美国",
   "contact": "info@crystalrugged.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.crystalrugged.com/）",
-  "官网公开邮箱：ellie.gretter@crystalrugged.com",
-  "用户表兴趣/备注：工业FS 自己的logo"
+  "页面 /ruggedized-poe-switch-military/；首页行业 Defense / Industrial / Edge computing",
+  "官网：Crystal Group’s rugged tech solutions—built to thrive in the toughest environments"
  ],
  "risks": [
-  "群发 10 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "守界：国防加固服务器/军用 PoE 交换机（AS9100D）"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 25,
+  "why": "国防为首要行业、军用加固 PoE 交换机 = 守界 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：军工守界）"
 }

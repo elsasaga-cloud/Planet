@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（alibisecurity.com，快照 2026-10-21）",
- "summary": "以色列安防集成/经销：官网「Alibi Security - Professional Security Technology」（en）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：TP-Link、D-Link、Axis；站内型号：ALI-VCS1000-16GB-01、SG2428P、TL-SG1428PE、TL-SG1210P；表内「主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的」；群发 8 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "Alibi Security（安防品牌：摄像机、门禁、VMS，Alibi Partner Program；品牌页含 D-Link / TP-Link PoE 交换机（DGS-1210-10P/28P、TL-SG1428PE）、Vigitron 注入器；表内「主要是 CCTV，有不同品牌的 FS，PoE injector，有 Vigitron 的」；KP Billy Grumbles（billy.grumbles@）；表内国别「以色列」存疑——站点英文/美国品牌生态，待核）；群发 8 次无回复。",
+ "type": "安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）",
  "size": "",
  "brands_seen": [
   "TP-Link",
   "D-Link",
-  "Axis"
+  "Axis",
+  "Vigitron"
  ],
  "evidence": [
   {
@@ -25,45 +26,82 @@
    "quote": "主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Alibi Security 专业安防技术",
+   "quote": "Alibi Security - Professional Security Technology ; SECURITY SOLUTIONS ; VIEW ALL BRANDS ; ALIBI PARTNER PROGRAM",
+   "url": "https://www.alibisecurity.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "主要 CCTV，不同品牌 FS，Vigitron 注入器",
+   "quote": "主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Billy Grumbles",
+   "title": "（表内联系人）",
+   "email": "billy.grumbles@alibisecurity.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "以色列",
   "other": "官网 alibisecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "安防品牌（摄像机 / 门禁 / VMS）",
+  "网络产品分销（D-Link / TP-Link / Vigitron）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）",
   "region": "以色列",
   "contact": "billy.grumbles@alibisecurity.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.alibisecurity.com/）",
-  "在售同口型交换品牌：TP-Link、D-Link → 直接对位替换",
-  "安防品牌：Axis → PoE 配套切入",
-  "用户表兴趣/备注：主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的"
+  "页面 /brands/d-link/poe-switches、/switch-gigabit-poe-8-port-dgs-1210-10p、/switch-gigabit-poe-24-port-dgs-1210-28p；站内 TL-SG1428PE / TL-SG1210P / SG2428P",
+  "首页：ALIBI PARTNER PROGRAM / VIEW ALL BRANDS；kw access control 54 / camera 76",
+  "KP：Billy Grumbles（表内邮箱）"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "国别待核：表内「以色列」，站点为英文美国品牌生态（待证）",
+  "现卖 D-Link / TP-Link 品牌货：白牌需以贴标与价差切入；8 次无回复"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：安防集成/经销→20%）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE"
  },
- "email_hook": "Alongside the TP-Link / D-Link lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Billy, next to the D-Link and TP-Link PoE switches in your partner catalogue, we can supply Alibi-branded Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, FCC/CE/RoHS — which size do your partners order most, so we quote its equivalent first?",
+ "products_seen": [
+  {
+   "brand": "D-Link",
+   "model": "DGS-1210-10P",
+   "spec": "8 PoE + 2 SFP 智能管理",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.alibisecurity.com/switch-gigabit-poe-8-port-dgs-1210-10p",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "TP-Link",
+   "model": "TL-SG1428PE",
+   "spec": "24 PoE + 4 上联",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://www.alibisecurity.com/",
+   "date": "2026-10-21"
+  }
+ ]
 }

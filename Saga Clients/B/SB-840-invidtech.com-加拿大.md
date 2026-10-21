@@ -2,7 +2,7 @@
 
 > **评级 B**　|　加拿大　|　档案编号 `SB-840`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 16 次（2024-05-10 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）（推断）　|　**历史关系**：推送 16 次（2024-05-10 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-840
@@ -12,7 +12,7 @@ score: 32
 country: 加拿大
 region: 北美
 website: invidtech.com
-type: 安防集成/经销
+type: 北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 16
 first_contact: 2024-05-10
 last_contact: 2025-10-17
 p1: STC-28DGGPM
-price_tier: 25%
+price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大安防集成/经销：官网「InVid Tech | AI-Driven Security Cameras, Surveillance Systems & Cloud — Invidtech」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Milesight；站内型号：DC12V、IMHD4K-46VW、DC24V、IMHD-10N；表内「一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的」；群发 16 次、无回复。（调研 2026-10-21；表内兴趣：一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的）
+- **是谁**：加拿大 InVid Tech（Innovative Video Technologies；AI 安防摄像机、云存储、太阳能塔、储物柜方案品牌；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；KP Joe Troiano（President，joe.troiano@）、Matt Troiano（Director of Sales））；群发 16 次无回复。（调研 2026-10-21；表内兴趣：一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-10 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | invidtech.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | invidtech.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Centro的 深圳公司 Joe / Joe Troiano / President / Matt Troiano / Director of Sales | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 一部分商业POE 周边产品 / 一部分商业POE 周边产品<br>Centro的 | 事实（用户表） |
@@ -65,33 +65,40 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（invidtech.com，快照 2026-10-21）
-- **是谁**：加拿大安防集成/经销：官网「InVid Tech | AI-Driven Security Cameras, Surveillance Systems & Cloud — Invidtech」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Milesight；站内型号：DC12V、IMHD4K-46VW、DC24V、IMHD-10N；表内「一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的」；群发 16 次、无回复。
-- **类型**：安防集成/经销
-- **在卖/在用品牌**：Milesight
+- **是谁**：加拿大 InVid Tech（Innovative Video Technologies；AI 安防摄像机、云存储、太阳能塔、储物柜方案品牌；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；KP Joe Troiano（President，joe.troiano@）、Matt Troiano（Director of Sales））；群发 16 次无回复。
+- **类型**：北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）
+- **在卖/在用品牌**：Milesight, Centro
 - **【官网快照】官网标题：InVid Tech | AI-Driven Security Cameras, Surveillance Systems & Cloud — Invidtech；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
   > Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.
   > 来源：https://invidtech.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】InVid Tech 安防方案**
+  > Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.
+  > 来源：https://invidtech.com/（抓取 2026-10-21）
+- **【用户表】一部分商业 PoE 周边；Centro 的**
+  > 一部分商业POE 周边产品；Centro的 深圳公司
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Joe Troiano（）joe.troiano@invidtech.com 〔用户表〕
+- **KP**：Matt Troiano（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 加拿大 |
 | 其他 | 官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；工业自动化 / OT 网络；无线 / WiFi；布线 / 线缆；网络交换 / PoE
-- **触达通道（公开）**：role: 安防集成/经销；region: 加拿大；contact: sales@invidtech.com、joe.troiano@invidtech.com
+- **业务线**：AI 安防摄像机 / NVR / 云存储（自有品牌）；配套 PoE 交换机（贴标）
+- **触达通道（公开）**：role: 北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）；region: 加拿大；contact: sales@invidtech.com、joe.troiano@invidtech.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://invidtech.com/）
-  - 安防品牌：Milesight → PoE 配套切入
-  - 用户表兴趣/备注：一部分商业POE 周边产品；一部分商业POE 周边产品 Centro的
-- **风险/边界**：群发 16 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Joe, alongside the Milesight lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers
+  - 表内：Centro 的 深圳公司；KP Joe Troiano / President；Matt Troiano / Director of Sales
+- **风险/边界**：现代工 Centro（深圳）价格基准低；16 次无回复 → 改向 President 具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W
+- **邮件切入句（英文）**：Joe, for the InVid-branded PoE switches that ship with your camera and NVR lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, FCC/CE/RoHS — which size would you dual-source first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -151,8 +158,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Joe Troiano | — | joe.troiano@invidtech.com | 调研核实（公开页） | 用户表 |
+| Matt Troiano | — | — | 调研核实（公开页） | 用户表 |
 | Centro | — | sales@invidtech.com / joe.troiano@invidtech.com | 用户表原值 | Clients/ 表 |
-| Joe Troiano | — | sales@invidtech.com / joe.troiano@invidtech.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -169,9 +177,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：安防集成/经销→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：自有标商用 PoE（现 Centro）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 InVid 标；16/24 口位 STC-424DGGPM-280W | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -181,15 +189,15 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 16 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -222,9 +230,9 @@ updated: 2026-10-21
 ```text
 Hi Joe,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Joe, alongside the Milesight lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Joe, for the InVid-branded PoE switches that ship with your camera and NVR lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, FCC/CE/RoHS — which size would you dual-source first?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

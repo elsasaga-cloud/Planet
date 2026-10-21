@@ -3,10 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（a2s.pl，快照 2026-10-21）",
- "summary": "波兰工业自动化/IoT 方案商：官网「Automatyka Przemys³owa, Elektronika Przemys³owa, Komputery i Oprogramowanie Przemys³owe - 」；品类词：工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：RS-232、RS-485、RS485、ESP32；表内「东土；光猫 串口 工业FS」；群发 1 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "波兰 TECHBASE Group / a2s.pl（工业自动化、工业电子与工业计算产品目录：协议转换器、工业计算机、GPRS 调制解调器；表内「东土（Kyland）；光猫 / 串口 / 工业 FS」「质量一般」；KP Maciej Luczynski（ml@））；表内 1 次跟进无回复。",
+ "type": "工业自动化产品目录分销（波兰，Kyland 工业 FS）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Kyland"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,40 +23,62 @@
    "quote": "东土；光猫 串口 工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TECHBASE / a2s.pl 产品目录",
+   "quote": "Katalog Produktów Automatyki, Elektroniki oraz Informatyki przemysłowej oferowanych przez TECHBASE Group Sp. z o.o.. Największy wybór konwerterów protokołów, komputery przemysłowe, modemy GPRS",
+   "url": "https://www.a2s.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "东土；光猫 串口 工业 FS",
+   "quote": "东土 / 光猫　串口　工业FS；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Maciej Luczynski",
+   "title": "（表内联系人）",
+   "email": "ml@a2s.pl",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 a2s.pl，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "工业自动化 / 工业电子 / 工业计算产品目录"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业自动化产品目录分销（波兰，Kyland 工业 FS）",
   "region": "波兰",
   "contact": "ml@a2s.pl、info@a2s.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.a2s.pl/）",
-  "用户表兴趣/备注：东土；光猫 串口 工业FS"
+  "官网：Katalog Produktów Automatyki, Elektroniki oraz Informatyki przemysłowej oferowanych przez TECHBASE Group；kw ethernet 97 / switch 83",
+  "表内：东土 / 光猫 串口 工业 FS；KP Maciej Luczynski"
  ],
- "risks": [],
+ "risks": [
+  "现货源 Kyland（东土，北京）价格基准低",
+  "1 次跟进无回复；站点为旧版目录（编码乱码）"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "在售 Kyland 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换；光猫 Saga 不做"
  },
- "email_hook": "Maciej, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Maciej, alongside the Kyland industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which Kyland model do your customers order most, so we quote its equivalent?"
 }

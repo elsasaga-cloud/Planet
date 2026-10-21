@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（rocstor.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「rocstor.com – Store your future.」（en-US）；品类词：布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：AES-256、SP800-171；表内「一部分贴牌的商业PoE 其他周边产品」；群发 5 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Rocstor（存储与 IT 配件品牌：RAID 存储、机柜（SolidRack）、扩展坞、充电车、支架；表内「一部分贴牌的商业 PoE，其他周边产品」；KP David Ghadoushi（President，david@））；群发 5 次无回复。",
+ "type": "美国 IT 配件品牌（部分贴标 PoE，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,63 @@
    "quote": "一部分贴牌的商业PoE 其他周边产品",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Rocstor 产品栏目",
+   "quote": "rocstor.com – Store your future. ; Racks ; Docking Station ; Charging Carts ; Rocpro U33 USB Type-C® Desktop RAID Storage",
+   "url": "https://rocstor.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "一部分贴牌的商业 PoE",
+   "quote": "一部分贴牌的商业PoE 其他周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "David Ghadoushi",
+   "title": "President",
+   "email": "david@rocstor.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 rocstor.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "存储 / 机柜 / 配件（自有品牌 Rocstor）",
+  "贴标商用 PoE（副线）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "美国 IT 配件品牌（部分贴标 PoE，OEM 采购）",
   "region": "美国",
   "contact": "info@rocstor.com、david@rocstor.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://rocstor.com/）",
-  "官网公开邮箱：emran.bd.08@gmail.com、info@rocstor.com",
-  "用户表兴趣/备注：一部分贴牌的商业PoE 其他周边产品"
+  "页面 /product/solidrack-5u-low-profile-vertical-mount-switch-depth-wall-mount-rack-enclosure…；栏目 Racks / Docking Station / Charging Carts",
+  "表内：一部分贴牌的商业 PoE 其他周边产品；KP David Ghadoushi / President"
  ],
- "risks": [],
+ "risks": [
+  "存储/配件为主业：PoE 为副线，量小",
+  "5 次无回复 → 改向 President 具名首触"
+ ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
   "tier": 30,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "贴标商用 PoE 为副线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Rocstor 标；机柜配套 24 口位 STC-424DGGPM-280W"
  },
- "email_hook": "David, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "David, for the PoE switches you offer under the Rocstor label alongside SolidRack enclosures, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size moves more with your racks?"
 }

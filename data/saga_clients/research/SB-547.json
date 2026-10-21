@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（makonetworks.com，快照 2026-10-21）",
- "summary": "美国品牌商/贴牌需求（OEM/ODM）：官网「Mako Networks Home - Mako Networks」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE；产品页：industrial-and-manufacturing、managed-switches、mako-networks-releases-cms-managed-switc、holiday-shopping-safety-tips-from-mako-n；表内「管理FS(大口的) 他们自己的logo」；群发 20 次、无回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "美国 Mako Networks（网络管理公司：PCI DSS 安全、SASE SD-WAN、云管理 CMS；自有 Mako 设备线含 CMS 管理型交换机（2020 发布）、安全网关、VPN 集中器；行业含工业制造；表内「管理 FS（大口的），他们自己的 logo」；KP Todd Vojta（toddv@））；群发 20 次无回复。",
+ "type": "SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,43 +21,63 @@
    "quote": "管理FS(大口的) 他们自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Mako Networks 网络管理方案",
+   "quote": "Mako Networks is a network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management.",
+   "url": "https://makonetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "管理 FS 大口，自己的 logo",
+   "quote": "管理FS(大口的) 他们自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Todd Vojta",
+   "title": "（表内联系人）",
+   "email": "toddv@makonetworks.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 makonetworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "SD-WAN / PCI DSS 安全网关 / 云管理",
+  "自有标管理型交换机"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）",
   "region": "美国",
   "contact": "toddv@makonetworks.com、sales@makonetworks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://makonetworks.com/）",
-  "官网公开邮箱：media@makonetworks.com、sales@makonetworks.com",
-  "用户表兴趣/备注：管理FS(大口的) 他们自己的logo"
+  "页面 /mako-system/mako-devices/managed-switches/、/news/2020/04/mako-networks-releases-cms-managed-switch-line/、/markets/industrial-and-manufacturing/",
+  "官网：network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management"
  ],
  "risks": [
-  "群发 20 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+",
+  "20 次无回复 → 改向 Todd Vojta 具名首触，预期低"
  ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-424XGGPM-280W",
   "tier": 30,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配"
  },
- "email_hook": "Todd, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit?"
 }
