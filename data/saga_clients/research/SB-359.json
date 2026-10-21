@@ -1,0 +1,82 @@
+{
+ "code": "SB-359",
+ "name_official": "Inscape Data Corporation（美国加州）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（inscapedata.com，快照 2026-10-21）",
+ "summary": "美国室外 PoE 交换机 / 工业网络 / 视频安防 / Wi-Fi 方案商（2004 年成立；自有品牌 + 网店 PoEsuperstore.com；poe 533 / switch 255 / sfp 128 / oem 8），Sales & Marketing Manager Sergio F.、Juan Moncada、Patricia G.；表内「工业 FS MC PoE 配件 SFP 10G 大口」；群发 20 次无回复。自有品牌 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Inscape Data（自有）",
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "2004 年成立，服务工业网络、视频安防与 Wi-Fi 市场；室外 PoE 交换机领导者",
+   "quote": "Founded in February 2004, 2017 marks Inscape Data Corporation's 13th year of business serving the industrial network, video security, and WIFI markets worldwide… Outdoor PoE Switch, Leader in Outdoor Network Solutions",
+   "url": "https://inscapedata.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC PoE 配件 SFP 10G 大口；店铺 PoEsuperstore.com",
+   "quote": "兴趣：工业FS MC PoE配件 SFP 10G大口 他们的店铺 https://www.PoEsuperstore.com/",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Sergio F.",
+   "title": "Sales & Marketing Manager",
+   "email": "sergio.fe@inscapedata.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Juan Moncada",
+   "title": "（表内联系人）",
+   "email": "juan.moncada@inscapedata.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Inscape Data Corporation",
+  "founded": "2004",
+  "hq": "San Jose, CA, USA",
+  "size": "中小型品牌商 + 电商",
+  "other": "PoEsuperstore.com"
+ },
+ "business_lines": [
+  "室外 / 工业 PoE 交换机（自有品牌）",
+  "PoE 配件 / SFP 电商"
+ ],
+ "channels": {
+  "role": "品牌商 + 电商（OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "自有品牌室外 / 工业 PoE 全线贴牌 → 供应商替换窗口",
+  "10G 大口需求 → Saga 4×10G 工业款"
+ ],
+ "risks": [
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "室外 IP67 款 Saga 无",
+  "20 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-488XGGPM",
+  "tier": 30,
+  "why": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。"
+ },
+ "email_hook": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one?"
+}

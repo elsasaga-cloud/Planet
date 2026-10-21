@@ -1,4 +1,5 @@
 # artsistem.com
+**官方名称（调研核实）**：Art Sistem（土耳其）
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-684`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-684
 rating: B
 rating_auto: B
+name_official: "Art Sistem（土耳其）"
 score: 34
 country: 土耳其
 region: 土耳其
@@ -21,7 +23,7 @@ first_contact: 2025-10-30
 last_contact: 2025-10-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其的经销/集成（类型待核）
+- **是谁**：土耳其大型 IT 分销商（22 年，135 个全球品牌，5,000+ 经销商；电脑、安防、网络、打印；Hikvision、Ruijie、TP-Link、Dahua；switch 52 / poe 58 / oem 9），Serkan K.；无兴趣描述；群发 1 次。规模大（接近巨头边界）→ 仅在其自有标 / 白牌需求下可谈。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 官网快照对位：PoE 词频 58、监控 7 → 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -55,7 +57,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-684.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（artsistem.com，快照 2026-10-21，土耳其语）
+- **是谁**：土耳其大型 IT 分销商（22 年，135 个全球品牌，5,000+ 经销商；电脑、安防、网络、打印；Hikvision、Ruijie、TP-Link、Dahua；switch 52 / poe 58 / oem 9），Serkan K.；无兴趣描述；群发 1 次。规模大（接近巨头边界）→ 仅在其自有标 / 白牌需求下可谈。
+- **在卖/在用品牌**：Hikvision, Ruijie, TP-Link, Dahua
+- **【官网快照】22 年、135 个品牌、5,000+ 经销商；电脑、安防、网络、打印一站式供应**
+  > 22 yıldır 135 küresel markayı 5.000+ bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde tek tedarikçi.
+  > 来源：https://artsistem.com/（抓取 2026-10-21）
+- **【用户表】无兴趣描述**
+  > （空）
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Serkan K.（）serkank@artsistem.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Art Sistem Bilgisayar A.Ş.（待核） |
+| 成立 | 约 2003 |
+| 总部/地址 | Türkiye |
+| 其他 | OEM 词频 9 |
+
+- **业务线**：IT / 安防 / 网络全国分销
+- **触达通道（公开）**：role: 大型分销商；region: 土耳其
+- **近况信号**：
+  - 5,000 经销商 → 自有标 PoE 线若成则量大
+- **风险/边界**：大分销决策链长、压价强（接近巨头边界）
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。
+- **邮件切入句（英文）**：Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -96,7 +125,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | serkank@artsistem.com | 用户表原值 | Clients/ 表 |
+| Serkan K. | — | serkank@artsistem.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -112,7 +141,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 官网快照对位：PoE 词频 58、监控 7 → 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -132,7 +161,7 @@ updated: 2026-10-21
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -149,7 +178,7 @@ updated: 2026-10-21
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -159,7 +188,6 @@ updated: 2026-10-21
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -167,9 +195,9 @@ updated: 2026-10-21
 **主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Serkan,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -1,0 +1,71 @@
+{
+ "code": "SB-067",
+ "name_official": "BSD Networks（加拿大）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bsdnetworks.com，快照 2026-10-21）",
+ "summary": "加拿大光纤网络产品品牌 / 分销（switch 110 / poe 83 / sfp 82 / industrial 46），Robert；表内「SFP MC 工业 FS 光猫，自己的 logo 但产品来源比较杂；光路 10G MC（注意外壳）」；群发 16 次无回复。自有 logo → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "BSD（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "BSD Networks – Driving Fiber Innovation；关键词 switch 110 / poe 83 / sfp 82",
+   "quote": "BSD Networks – Driving Fiber Innovation",
+   "url": "https://bsdnetworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP MC 工业 FS SFP 光猫；自己的 logo 但产品来源比较杂；光路 10G MC Robert",
+   "quote": "兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Robert",
+   "title": "（表内联系人）",
+   "email": "robert@bsdnetworks.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "BSD Networks（待核）",
+  "founded": "",
+  "hq": "Canada",
+  "size": "小型品牌商",
+  "other": "多来源贴牌"
+ },
+ "business_lines": [
+  "光纤网络产品（自有 logo）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购）",
+  "region": "加拿大"
+ },
+ "signals": [
+  "已贴自有 logo、来源杂 → 可整合供应商",
+  "10G MC 需求（SmartByte 另询）"
+ ],
+ "risks": [
+  "16 次群发无回复；加拿大 CSA/UL 偏好"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "工业 FS 贴 BSD 标 → STI-288GP（$62.2 @30%）；MC STI-110GE；10G MC 另询。"
+ },
+ "email_hook": "Robert, for the BSD-branded industrial switches and media converters — one factory source for DIN 2-SFP + 8-PoE, gigabit MC and 10G SFP+/RJ45 MC, your label from small lots; which housing style do you want to standardise on?"
+}

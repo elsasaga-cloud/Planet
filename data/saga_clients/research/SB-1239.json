@@ -1,0 +1,73 @@
+{
+ "code": "SB-1239",
+ "name_official": "Securame（意大利 / 西班牙）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（securame.com，快照 2026-10-21）",
+ "summary": "安防电商 Securame（Hikvision、Dahua、ZKTeco、Paradox；switch 58 / poe 38 / industrial 20；contacto@ 为西语），表内同时出现于意大利与西班牙群发名单；「FS 也有其他牌子，CCTV 为主海康大华；商业 PoE 很多种外壳」；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "ZKTeco",
+  "Paradox"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "品牌 Hikvision / Dahua / ZKTeco / Paradox；contacto@securame.com",
+   "quote": "Securame… brands Hikvision, Dahua, ZKTeco, Paradox",
+   "url": "https://securame.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "FS 也有其他牌子，CCTV 为主海康大华；商业 POE 很多种外壳",
+   "quote": "兴趣：FS 也有其他牌子 CCTV为主 海康大华;商业POE 很多种外壳",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "contacto@securame.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Securame（待核）",
+  "founded": "",
+  "hq": "（西班牙 / 意大利，待核）",
+  "size": "小型安防电商",
+  "other": "国别待核（contacto@ 西语）"
+ },
+ "business_lines": [
+  "安防电商"
+ ],
+ "channels": {
+  "role": "电商",
+  "region": "西班牙 / 意大利"
+ },
+ "signals": [
+  "商用 PoE 多外壳需求"
+ ],
+ "risks": [
+  "国别待核；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。"
+ },
+ "email_hook": "Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?"
+}

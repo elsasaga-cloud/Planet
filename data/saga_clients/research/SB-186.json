@@ -1,0 +1,71 @@
+{
+ "code": "SB-186",
+ "name_official": "PF Electronic Sp. z o.o.（波兰卡托维兹）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（pf-electronic.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Advantech",
+  "Hirschmann"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业自动化元件官方分销：传感器、连接器、交换机、控制系统、编码器；Advantech / Hirschmann；+48 32 256 25 33",
+   "quote": "Oficjalny dystrybutor podzespołów i elementów automatyki przemysłowej. Czujniki, sensoryka, złącza, switche, systemy sterowania, enkodery, elektronika… brands Advantech, Hirschmann",
+   "url": "https://pf-electronic.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "外壳比较特别；可以着重跟一下",
+   "quote": "兴趣：外壳比较特别",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Dariusz Piwowar",
+   "title": "（表内联系人）",
+   "email": "dariusz.piwowar@pf-electronic.pl",
+   "phone": "+48 32 256 25 33",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "PF Electronic Sp. z o.o.",
+  "founded": "",
+  "hq": "Katowice, Poland（+48 32）",
+  "size": "中小型工业分销",
+  "other": ""
+ },
+ "business_lines": [
+  "工业自动化元件分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "波兰"
+ },
+ "signals": [
+  "Hirschmann / Advantech 之下价位带；具名联系人"
+ ],
+ "risks": [
+  "8 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。"
+ },
+ "email_hook": "Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?"
+}

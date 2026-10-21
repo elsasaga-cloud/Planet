@@ -1,4 +1,5 @@
 # securame.com
+**官方名称（调研核实）**：Securame（意大利 / 西班牙）
 
 > **评级 B**　|　意大利　|　档案编号 `SB-1239`　|　优先级 ★★　|　状态：名单内·未触达
 >
@@ -8,6 +9,7 @@
 code: SB-1239
 rating: B
 rating_auto: B
+name_official: "Securame（意大利 / 西班牙）"
 score: 25
 country: 意大利
 region: 欧洲
@@ -21,7 +23,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利的安防集成/经销；兴趣/在卖：FS 也有其他牌子 CCTV为主 海康大华；商业POE 很多种外壳；提到的品牌：海康, 大华, FS
+- **是谁**：安防电商 Securame（Hikvision、Dahua、ZKTeco、Paradox；switch 58 / poe 38 / industrial 20；contacto@ 为西语），表内同时出现于意大利与西班牙群发名单；「FS 也有其他牌子，CCTV 为主海康大华；商业 PoE 很多种外壳」；无跟进。（调研 2026-10-21；表内兴趣：FS 也有其他牌子 CCTV为主 海康大华；商业POE 很多种外壳）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,33 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1239.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（securame.com，快照 2026-10-21）
+- **是谁**：安防电商 Securame（Hikvision、Dahua、ZKTeco、Paradox；switch 58 / poe 38 / industrial 20；contacto@ 为西语），表内同时出现于意大利与西班牙群发名单；「FS 也有其他牌子，CCTV 为主海康大华；商业 PoE 很多种外壳」；无跟进。
+- **在卖/在用品牌**：Hikvision, Dahua, ZKTeco, Paradox
+- **【官网快照】品牌 Hikvision / Dahua / ZKTeco / Paradox；contacto@securame.com**
+  > Securame… brands Hikvision, Dahua, ZKTeco, Paradox
+  > 来源：https://securame.com/（抓取 2026-10-21）
+- **【用户表】FS 也有其他牌子，CCTV 为主海康大华；商业 POE 很多种外壳**
+  > 兴趣：FS 也有其他牌子 CCTV为主 海康大华;商业POE 很多种外壳
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（未具名）（）contacto@securame.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Securame（待核） |
+| 总部/地址 | （西班牙 / 意大利，待核） |
+| 其他 | 国别待核（contacto@ 西语） |
+
+- **业务线**：安防电商
+- **触达通道（公开）**：role: 电商；region: 西班牙 / 意大利
+- **近况信号**：
+  - 商用 PoE 多外壳需求
+- **风险/边界**：国别待核；无具名
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。
+- **邮件切入句（英文）**：Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -110,7 +138,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（安防集成/经销） |
+| **P1** | STC-28DGGPM | 深挖对位：CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防集成/经销） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -154,7 +182,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -164,7 +191,7 @@ updated: 2026-10-21
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -1,0 +1,72 @@
+{
+ "code": "SB-1199",
+ "name_official": "ICP DAS Romania（icpdas.ro）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（icpdas.ro，快照 2026-10-21，罗马尼亚语）",
+ "summary": "罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ICP DAS",
+  "Axiomtek",
+  "EtherWAN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "ICP DAS / ICP CON 数据采集、有线无线通信、Axiomtek 工控、自动化网店",
+   "quote": "Magazin Online ICP DAS - Echipamente ICP CON pentru achizitii de date, comunicatii prin fir si wireless, calculatoare industriale Axiomtek, automatizari.",
+   "url": "https://icpdas.ro/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业通信 工业 FS 周边产品；好像是 Etherwan 的",
+   "quote": "兴趣：工业通信 工业FS 周边产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（办公室）",
+   "title": "Office",
+   "email": "office@icpdas.ro",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "（待核，ICP DAS 罗马尼亚分销）",
+  "founded": "",
+  "hq": "Romania",
+  "size": "小型工业网店",
+  "other": "小国名单"
+ },
+ "business_lines": [
+  "工业自动化 / 通信网店"
+ ],
+ "channels": {
+  "role": "工业分销网店",
+  "region": "罗马尼亚（小国）"
+ },
+ "signals": [
+  "工业词频极高 → 工业交换机是核心品类"
+ ],
+ "risks": [
+  "小国；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+ },
+ "email_hook": "（低优先；小国名单）"
+}

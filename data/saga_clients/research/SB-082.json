@@ -1,0 +1,80 @@
+{
+ "code": "SB-082",
+ "name_official": "Cyberteam Sp. z o.o.（波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cyberteam.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "MikroTik",
+  "Ubiquiti",
+  "Cyberteam（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光纤设备供应商 / 制造商：线缆、护套、机柜、外壳、网络保护器、MikroTik、Ubiquiti、SFP、跳线",
+   "quote": "Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy",
+   "url": "https://cyberteam.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC Switch 等；MC 自己的 logo 其他人在卖；无源产品 Pon 等",
+   "quote": "兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Monika Patron",
+   "title": "Sales Manager",
+   "email": "m.patron@cyberteam.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Tomasz Bartłomiej Nowak",
+   "title": "（表内联系人）",
+   "email": "t.b.nowak@cyberteam.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Cyberteam Sp. z o.o.",
+  "founded": "",
+  "hq": "Poland",
+  "size": "中小型供应商 / 制造（无源）",
+  "other": "自有 logo MC 已被他人转售"
+ },
+ "business_lines": [
+  "光纤无源 / 机柜制造",
+  "MC / SFP / 网络有源（贴牌）"
+ ],
+ "channels": {
+  "role": "供应商 + 自有品牌（OEM 采购）",
+  "region": "波兰"
+ },
+ "signals": [
+  "自有 logo MC 有渠道 → 贴牌量稳定"
+ ],
+ "risks": [
+  "PON 不供；1 次群发"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。"
+ },
+ "email_hook": "Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?"
+}

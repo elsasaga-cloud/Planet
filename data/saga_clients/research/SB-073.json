@@ -1,0 +1,73 @@
+{
+ "code": "SB-073",
+ "name_official": "Nexxus（nexxus.cc，美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nexxus.cc，快照 2026-10-21）",
+ "summary": "美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ONV",
+  "Nexxus（自有）",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Nexxus 网络方案与产品",
+   "quote": "Discover why customers love Nexxus networking services. With our high-quality products and exceptional support",
+   "url": "https://nexxus.cc/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "ONV 的工业 FS 带了自己的标",
+   "quote": "兴趣：ONV的工业FS 带了自己的标",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@nexxus.cc",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Nexxus（待核）",
+  "founded": "",
+  "hq": "USA",
+  "size": "小型品牌商",
+  "other": "ONV 代工贴标"
+ },
+ "business_lines": [
+  "网络交换机（自有标）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购，现 ONV）",
+  "region": "美国"
+ },
+ "signals": [
+  "已贴标 ONV 工业 FS → 同规格替换"
+ ],
+ "risks": [
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "18 次群发无回复；无具名"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。"
+ },
+ "email_hook": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly."
+}

@@ -1,0 +1,71 @@
+{
+ "code": "SB-924",
+ "name_official": "Versitron, Inc.（美国特拉华）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（versitron.com，快照 2026-10-21）",
+ "summary": "美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Versitron（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "铜转光连接方案设计与制造；关键词 switch 646 / media converter 197",
+   "quote": "Versiton specializes in designing and manufacturing copper-to-fiber connectivity solutions tailored for data, voice, and video applications across diverse industries",
+   "url": "https://versitron.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Stacking",
+   "quote": "兴趣：Stacking",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Greg Massott",
+   "title": "（表内联系人）",
+   "email": "gmassott@versitron.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Versitron, Inc.",
+  "founded": "1958",
+  "hq": "Newark, DE, USA",
+  "size": "中型制造商（自有品牌，部分外购）",
+  "other": ""
+ },
+ "business_lines": [
+  "铜 / 光转换、MC、工业交换机（自有品牌）"
+ ],
+ "channels": {
+  "role": "美国制造商（OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "MC / 工业 PoE 为其核心品类 → 贴 Versitron 标"
+ ],
+ "risks": [
+  "堆叠交换机 Saga 无",
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "MC 为其主线 → STI-110GE（$24.3 @30%）贴 Versitron 标；工业 PoE STI-288GPM；堆叠不供。"
+ },
+ "email_hook": "Greg, we don't do stacking — but for the Versitron media-converter and industrial PoE lines we build DIN gigabit MCs and 8-PoE + 2-SFP managed units under your label from small lots (FCC/CE); which SKU family is up for re-sourcing?"
+}

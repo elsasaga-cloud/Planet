@@ -1,4 +1,5 @@
 # aceonline.co.uk
+**官方名称（调研核实）**：ACE Distributors / Oxford Aerials（英国）
 
 > **评级 B**　|　英国　|　档案编号 `SB-520`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-520
 rating: B
 rating_auto: B
+name_official: "ACE Distributors / Oxford Aerials（英国）"
 score: 38
 country: 英国
 region: 欧洲
@@ -21,7 +23,7 @@ first_contact: 2025-02-21
 last_contact: 2025-11-05
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的经销/集成（类型待核）；兴趣/在卖：商业PoE 也有tplink的
+- **是谁**：英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 也有tplink的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-520.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（aceonline.co.uk，快照 2026-10-21）
+- **是谁**：英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。
+- **在卖/在用品牌**：Dahua, Ajax, TP-Link, Ubiquiti, Ruijie
+- **【官网快照】30+ 年供应英国天线与卫星行业：监控、音频、线缆、CCTV、安装设备；品牌 Dahua / Ajax / TP-Link / Ubiquiti / Ruijie**
+  > We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment
+  > 来源：https://aceonline.co.uk/（抓取 2026-10-21）
+- **【用户表】商业 PoE 也有 tplink 的；可以尝试多跟进一下**
+  > 兴趣：商业PoE 也有tplink的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Shaun Guard（）shaun@oxfordaerials.co.uk 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ACE Distributors Ltd（待核） |
+| 成立 | 约 1990 |
+| 总部/地址 | Oxford, UK |
+| 其他 | 关联 Oxford Aerials |
+
+- **业务线**：天线 / 卫星 / CCTV 配件分销
+- **触达通道（公开）**：role: 行业分销商；region: 英国
+- **近况信号**：
+  - Director 具名；商用 PoE 在售（TP-Link）
+- **风险/边界**：10 次群发无回复；UKCA
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。
+- **邮件切入句（英文）**：Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -118,7 +147,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Shaun Guard | — | sales@aceonline.co.uk / shaun@oxfordaerials.co.uk | 用户表原值 | Clients/ 表 |
+| Shaun Guard | — | shaun@oxfordaerials.co.uk | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -135,7 +164,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28DGGPM | 深挖对位：安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -179,7 +208,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -189,7 +217,7 @@ updated: 2026-10-21
 ```text
 Hi Shaun,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -1,4 +1,5 @@
 # cyberteam.pl
+**官方名称（调研核实）**：Cyberteam Sp. z o.o.（波兰）
 
 > **评级 B**　|　波兰　|　档案编号 `SB-082`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-082
 rating: B
 rating_auto: B
+name_official: "Cyberteam Sp. z o.o.（波兰）"
 score: 54
 country: 波兰
 region: 欧洲
@@ -21,7 +23,7 @@ first_contact: 2025-10-20
 last_contact: 2025-10-20
 p1: STI-110GE
 price_tier: 30%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波兰的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：MC Switch等；MC 自己的logo 其他人在卖 无源产品 Pon等
+- **是谁**：波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。（调研 2026-10-21；表内兴趣：MC Switch等；MC 自己的logo 其他人在卖 无源产品 Pon等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-082.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（cyberteam.pl，快照 2026-10-21，波兰语）
+- **是谁**：波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。
+- **在卖/在用品牌**：MikroTik, Ubiquiti, Cyberteam（自有）
+- **【官网快照】光纤设备供应商 / 制造商：线缆、护套、机柜、外壳、网络保护器、MikroTik、Ubiquiti、SFP、跳线**
+  > Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy
+  > 来源：https://cyberteam.pl/（抓取 2026-10-21）
+- **【用户表】MC Switch 等；MC 自己的 logo 其他人在卖；无源产品 Pon 等**
+  > 兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Monika Patron（）m.patron@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Tomasz Bartłomiej Nowak（）t.b.nowak@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Cyberteam Sp. z o.o. |
+| 总部/地址 | Poland |
+| 其他 | 自有 logo MC 已被他人转售 |
+
+- **业务线**：光纤无源 / 机柜制造；MC / SFP / 网络有源（贴牌）
+- **触达通道（公开）**：role: 供应商 + 自有品牌（OEM 采购）；region: 波兰
+- **近况信号**：
+  - 自有 logo MC 有渠道 → 贴牌量稳定
+- **风险/边界**：PON 不供；1 次群发
+- **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。
+- **邮件切入句（英文）**：Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -109,8 +138,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Monika Patron | — | t.b.nowak@cyberteam.pl / cyberteam@cyberteam.pl | 用户表原值 | Clients/ 表 |
-| Tomasz Bartłomiej Nowak | — | t.b.nowak@cyberteam.pl / cyberteam@cyberteam.pl | 用户表原值 | Clients/ 表 |
+| Monika Patron | — | m.patron@cyberteam.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Tomasz Bartłomiej Nowak | — | t.b.nowak@cyberteam.pl | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -128,7 +157,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-110GE | 深挖对位：自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。 | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -173,7 +202,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -183,7 +211,7 @@ updated: 2026-10-21
 ```text
 Hi Monika,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

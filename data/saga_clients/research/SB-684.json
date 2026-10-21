@@ -1,0 +1,73 @@
+{
+ "code": "SB-684",
+ "name_official": "Art Sistem（土耳其）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（artsistem.com，快照 2026-10-21，土耳其语）",
+ "summary": "土耳其大型 IT 分销商（22 年，135 个全球品牌，5,000+ 经销商；电脑、安防、网络、打印；Hikvision、Ruijie、TP-Link、Dahua；switch 52 / poe 58 / oem 9），Serkan K.；无兴趣描述；群发 1 次。规模大（接近巨头边界）→ 仅在其自有标 / 白牌需求下可谈。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Ruijie",
+  "TP-Link",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "22 年、135 个品牌、5,000+ 经销商；电脑、安防、网络、打印一站式供应",
+   "quote": "22 yıldır 135 küresel markayı 5.000+ bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde tek tedarikçi.",
+   "url": "https://artsistem.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无兴趣描述",
+   "quote": "（空）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Serkan K.",
+   "title": "（表内联系人）",
+   "email": "serkank@artsistem.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Art Sistem Bilgisayar A.Ş.（待核）",
+  "founded": "约 2003",
+  "hq": "Türkiye",
+  "size": "大型分销（135 品牌 / 5,000 经销商）",
+  "other": "OEM 词频 9"
+ },
+ "business_lines": [
+  "IT / 安防 / 网络全国分销"
+ ],
+ "channels": {
+  "role": "大型分销商",
+  "region": "土耳其"
+ },
+ "signals": [
+  "5,000 经销商 → 自有标 PoE 线若成则量大"
+ ],
+ "risks": [
+  "大分销决策链长、压价强（接近巨头边界）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。"
+ },
+ "email_hook": "Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?"
+}
