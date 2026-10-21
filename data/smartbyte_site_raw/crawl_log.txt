@@ -129,3 +129,32 @@ Traceback (most recent call last):
     raise ChunkedEncodingError(e)
 requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(68811 bytes read, 138665 more expected)', IncompleteRead(68811 bytes read, 138665 more expected))
 
+===== run 5 =====
+[01:42:59] run 5 start; resume=True; budget 140.0 min; max_pages 1500; delay 0.8s
+[01:43:01] probe archiver https://www.smartbyte-switch.com/ → 403
+[01:43:04] probe archiver https://smartbyte-switch.com/ → 403
+[01:43:07] probe archiver http://www.smartbyte-switch.com/ → 403
+[01:43:09] probe archiver http://smartbyte-switch.com/ → 403
+[01:43:12] probe chrome-win https://www.smartbyte-switch.com/ → 403
+[01:43:15] probe chrome-win https://smartbyte-switch.com/ → 403
+[01:43:17] probe chrome-win http://www.smartbyte-switch.com/ → 403
+[01:43:19] probe chrome-win http://smartbyte-switch.com/ → 403
+[01:43:21] probe firefox-win https://www.smartbyte-switch.com/ → 403
+[01:43:23] probe firefox-win https://smartbyte-switch.com/ → 403
+[01:43:26] probe firefox-win http://www.smartbyte-switch.com/ → 403
+[01:43:28] probe firefox-win http://smartbyte-switch.com/ → 403
+[01:43:30] probe safari-mac https://www.smartbyte-switch.com/ → 403
+[01:43:32] probe safari-mac https://smartbyte-switch.com/ → 403
+[01:43:34] probe safari-mac http://www.smartbyte-switch.com/ → 403
+[01:43:36] probe safari-mac http://smartbyte-switch.com/ → 403
+[01:43:38] all requests profiles refused → trying Playwright (headless Chromium)
+[01:43:59] playwright bootstrap ok=True {"pip": 0, "install_with_deps": 0}
+[01:44:26] playwright seed → 403 ''
+[01:44:26] access mode = blocked (None) base None
+[01:44:26] BLOCKED: 站点对本运行器所有访问方式均拒绝（见 access_diag.json）→ 本轮不抓任何东西，只落盘诊断
+[01:44:26] resume: pages_done=350 queue=0 (retry 0) downloads=245 images=1493
+[01:44:26] BFS stop: blocked (seed refused under every profile; see access_diag.json); pages=350 (+0) downloads=245 images=1493
+[01:44:26] downloads stop: complete; ok 245/245 (+0 this run), 83.0 MB
+[01:44:26] pdftotext: 245
+[01:44:26] downloads total 83.0 MB → committed to git: True
+[01:44:26] images stop: blocked (593 left) → resume later; ok 900/900 (+0 this run), 0.0 MB this run
