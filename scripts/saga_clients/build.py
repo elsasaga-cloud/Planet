@@ -629,6 +629,10 @@ def main():
             ks.append('p:' + ph[-9:])
         if ent['name'] and ent['name'] != '（未具名）' and len(norm_name(ent['name'])) >= 3:
             ks.append('n:' + ent['iso'] + '|' + norm_name(ent['name']))
+        if not ks and ent.get('sources'):
+            # 无域名/邮箱/电话/名称的占位实体：用首条来源行位置作稳定键，否则每次 build 都会重新发号
+            s0 = ent['sources'][0]
+            ks.append('s:' + f"{s0.get('file', '')}#{s0.get('sheet', '')}:{s0.get('row', '')}")
         return ks
 
     entities.sort(key=lambda e: ({'A': 0, 'B': 1, 'C': 2}[e['grade_auto']], -e['score'], e['name'] or 'zzz'))
