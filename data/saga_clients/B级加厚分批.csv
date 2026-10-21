@@ -250,25 +250,24 @@ SB-326,B,T2,thuyluc.com,越南,亚太,0,1,1,0,0,0,0,0,12,thuyluc.com;vnn.vn,3,1,
 SB-333,B,T2,（未具名）,尼日利亚,非洲,0,1,1,0,0,0,0,0,11,,0,1,1,,,
 SB-042,B,T2,Pronet Connectivity (Pvt) Ltd.,巴基斯坦,南亚,0,1,1,0,0,0,0,0,10,pronet-tech.net,1,1,1,ok,"Ubiquiti,Fortinet",STC-28DGGPM
 SB-581,B,T2,Tien Phong CP,越南,亚太,0,1,1,0,0,0,0,0,10,,1,1,1,,,
-SB-1283,B,T2,mulugetawendosen@gmail.com,埃塞俄比亚,非洲,0,1,1,0,0,0,0,0,7,,1,0,0,,,
-SB-1009,B,T2,wafulamusine@gmail.com,肯尼亚,非洲,0,1,1,0,0,0,0,0,5,,1,0,0,,,
-SB-262,B,T2,compuspare.co.za,南非,非洲,0,1,1,0,0,0,0,0,4,compuspare.co.za,1,0,0,ok,"Cisco,Huawei",STC-424XGGM
-SA-126,B,T2,onnettechnologies.com,阿联酋,中东,0,1,1,0,0,0,0,0,1,onnettechnologies.com,1,1,0,parked_or_empty,,
-SB-212,B,T2,bio-cognitive.com,新加坡,亚太,0,1,1,0,0,0,0,0,1,bio-cognitive.com,2,0,0,ok,Ubiquiti,STI-280GE
-SA-145,B,T2,neowine,韩国,亚太,0,1,0,0,0,0,0,0,27,neowine.com,2,1,0,ok,,
-SA-097,B,T2,PIOLINK,韩国,亚太,0,1,0,0,0,0,1,0,24,piolink.com;piolink.con,2,1,0,ok,,STC-28DGGPM
+SB-1283,B,T2,mulugetawendosen@gmail.com,埃塞俄比亚,非洲,0,1,1,0,0,0,0,0,7,,1,1,1,,,
+SB-1009,B,T2,wafulamusine@gmail.com,肯尼亚,非洲,0,1,1,0,0,0,0,0,5,,1,1,1,,,
+SA-126,B,T2,onnettechnologies.com,阿联酋,中东,0,1,1,0,0,0,0,0,1,onnettechnologies.com,1,1,1,parked_or_empty,,
+SB-212,B,T2,bio-cognitive.com,新加坡,亚太,0,1,1,0,0,0,0,0,1,bio-cognitive.com,2,1,1,ok,Ubiquiti,STI-280GE
+SA-145,B,T2,neowine,韩国,亚太,0,1,0,0,0,0,0,0,27,neowine.com,2,1,1,ok,,
+SA-097,B,T2,PIOLINK,韩国,亚太,0,1,0,0,0,0,1,0,24,piolink.com;piolink.con,2,1,1,ok,,STC-28DGGPM
 SA-018,B,T2,germany24.com.ua,乌克兰,乌克兰,0,1,0,0,1,0,0,0,22,germany24.com.ua;planet.kiev.ua,1,1,1,ok,"PLANET,Teltonika,LevelOne",STC-28DGGPM
-SB-001,B,T2,"MERIT LILIN ENT. CO., LTD.",台湾,亚太,0,1,0,0,0,0,0,1,20,meritlilin.com.tw;meritlilin.com,2,0,0,ok,,STI-288GP
-SB-002,B,T2,"AD-NET TECHNOLOGY CO., LTD.",台湾,亚太,0,1,0,0,0,0,0,1,20,ad-net.com.tw,2,0,0,ok,,STI-288GP
-SA-111,B,T2,regalsecurity.co.za,南非,非洲,0,1,0,0,0,0,0,0,19,regalsecurity.co.za,3,1,0,http_error,,
-SB-395,B,T2,distribolutions.com,阿联酋,中东,0,1,0,0,0,0,0,0,19,distribolutions.com,1,0,0,ok,Ubiquiti,STI-280GE
-SB-739,B,T2,techsouq.com,沙特阿拉伯,中东,0,1,0,0,0,0,0,0,15,techsouq.com,2,0,0,http_error,,
-SA-132,B,T2,avanca.com.sg,新加坡,亚太,0,1,0,0,0,0,0,0,11,avanca.com.sg,2,1,0,ok,,STI-288GP
-SA-133,B,T2,bargas.ru,俄罗斯,俄语区,0,1,0,0,0,0,0,0,10,bargas.ru,2,1,0,ok,,
-SB-004,B,T2,TAILYN,台湾,亚太,0,1,0,0,0,0,0,1,10,tailyn.com.tw,6,0,0,ok,,STI-288GP
-SB-005,B,T2,ASSMANN ASIA,台湾,亚太,0,1,0,0,0,0,0,0,10,assmann.com.tw,1,0,0,ok,,
-SB-007,B,T2,"Winsonic Electronics Co., Ltd.",台湾,亚太,0,1,0,0,0,0,0,0,10,ewinsonic.com,2,0,0,ok,,STI-288GP
-SB-1277,B,T2,ara.com.bd,孟加拉国,南亚,0,1,0,0,0,0,0,1,9,ara.com.bd,2,0,0,unreachable,,
+SB-001,B,T2,"MERIT LILIN ENT. CO., LTD.",台湾,亚太,0,1,0,0,0,0,0,1,20,meritlilin.com.tw;meritlilin.com,2,1,1,ok,,STI-288GP
+SB-002,B,T2,"AD-NET TECHNOLOGY CO., LTD.",台湾,亚太,0,1,0,0,0,0,0,1,20,ad-net.com.tw,2,1,1,ok,,STI-288GP
+SA-111,B,T2,regalsecurity.co.za,南非,非洲,0,1,0,0,0,0,0,0,19,regalsecurity.co.za,3,1,1,http_error,,
+SB-395,B,T2,distribolutions.com,阿联酋,中东,0,1,0,0,0,0,0,0,19,distribolutions.com,1,1,1,ok,Ubiquiti,STI-280GE
+SB-739,B,T2,techsouq.com,沙特阿拉伯,中东,0,1,0,0,0,0,0,0,15,techsouq.com,2,1,1,http_error,,
+SA-132,B,T2,avanca.com.sg,新加坡,亚太,0,1,0,0,0,0,0,0,11,avanca.com.sg,2,1,1,ok,,STI-288GP
+SA-133,B,T2,bargas.ru,俄罗斯,俄语区,0,1,0,0,0,0,0,0,10,bargas.ru,2,1,1,ok,,
+SB-004,B,T2,TAILYN,台湾,亚太,0,1,0,0,0,0,0,1,10,tailyn.com.tw,6,1,1,ok,,STI-288GP
+SB-005,B,T2,ASSMANN ASIA,台湾,亚太,0,1,0,0,0,0,0,0,10,assmann.com.tw,1,1,1,ok,,
+SB-007,B,T2,"Winsonic Electronics Co., Ltd.",台湾,亚太,0,1,0,0,0,0,0,0,10,ewinsonic.com,2,1,1,ok,,STI-288GP
+SB-1277,B,T2,ara.com.bd,孟加拉国,南亚,0,1,0,0,0,0,0,1,9,ara.com.bd,2,1,1,unreachable,,
 SB-006,B,T2,EDIMAX,台湾,亚太,0,1,0,0,0,0,0,0,8,edimax.com.tw;edimax.com,4,0,0,timeout,,
 SB-1037,B,T2,Bahrain telecommunacation company,巴林,中东,0,1,0,0,0,0,0,0,8,,1,0,0,,,
 SB-1273,B,T2,IT Broadcast & Cyber Security Infra System,印度尼西亚,亚太,0,1,0,0,0,0,0,0,8,,1,0,0,,,

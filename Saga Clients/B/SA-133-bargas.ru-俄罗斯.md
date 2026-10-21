@@ -1,5 +1,5 @@
 # bargas.ru
-**官方名称（调研核实）**：Bargas（bargas.ru，俄罗斯）
+**官方名称（调研核实）**：Bargas（bargas.ru，俄罗斯网店）
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SA-133`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-133
 rating: B
 rating_auto: A
 rating_research: B  # 平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。
-name_official: "Bargas（bargas.ru，俄罗斯）"
+name_official: "Bargas（bargas.ru，俄罗斯网店）"
 score: 62
 country: 俄罗斯
 region: 俄语区
@@ -22,7 +22,7 @@ replies: 1
 followups: 10
 first_contact: 2025-02-28
 last_contact: 2025-10-23
-p1: STC-424DGGPM-280W
+p1: STI-050GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯工商业 FS 销售平台（多家品牌），1 次回复、10 次跟进。（调研 2026-10-21；表内兴趣：工商业FS 好多家的 销售平台）
+- **是谁**：俄罗斯工商业网络设备网店（表内「工商业 FS 好多家的，销售平台」），联系人 Александр Гречкин（Kruto），2025-12 对 mini 工业机群发回复 interested；站点反爬，内容未取到。（调研 2026-10-21；表内兴趣：工商业FS 好多家的 销售平台）
 - **为什么是 B 级**：**调研后定级 B**（平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-28 → 2025-10-23）；最近一次客户回复：1218：interested
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。；$17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -67,17 +67,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：俄罗斯工商业 FS 销售平台（多家品牌），1 次回复、10 次跟进。
+- **状态：已调研（2026-10-21）**　网站状态：在线但反爬（快照为 KillBot 验证页）
+- **是谁**：俄罗斯工商业网络设备网店（表内「工商业 FS 好多家的，销售平台」），联系人 Александр Гречкин（Kruto），2025-12 对 mini 工业机群发回复 interested；站点反爬，内容未取到。
 - **类型**：电商/销售平台
 - **规模**：待补证
 - **【用户记录】工商业 FS 多品牌销售平台；1 次回复 / 10 次**
   > 工商业FS 好多家的 销售平台（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】站点反爬（KillBot 验证），未取到内容**
+  > title: KillBot user verification
+  > 来源：https://www.bargas.ru/（抓取 2026-10-21）
+- **【用户表】工商业 FS 好多家的，销售平台；2025-12 群发 mini→interested**
+  > 兴趣：工商业FS 好多家的 销售平台；回复：interested
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Александр Гречкин (Alexander Grechkin)（）ag@bargas.ru 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。
 - 备注：一封邮件给上架用 SKU 清单（分销 20%）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照反爬 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | （待核，ООО «Баргас»？） |
+| 总部/地址 | 俄罗斯 |
+| 其他 | info@bargas.ru |
+
+- **业务线**：工业 / 商用交换机多品牌网店
+- **触达通道（公开）**：role: 网店 / 经销（多品牌）；region: 俄罗斯
+- **近况信号**：
+  - 对 mini 工业机 interested（2025-12）
+  - 多品牌平台 → 上架门槛低
+- **风险/边界**：俄罗斯：制裁 / 收款（第三国或人民币）；平台价格透明
+- **Saga 对位结论**：P1 STI-050GE（20% 档）——其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。
+- **邮件切入句（英文）**：Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -122,6 +145,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Александр Гречкин (Alexander Grechkin) | — | ag@bargas.ru | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Kruto | — | info@bargas.ru / ag@bargas.ru | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -139,7 +163,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（电商/销售平台） |
+| **P1** | STI-050GE | 深挖对位：其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。 | $17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/销售平台） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -148,9 +172,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-050GE），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-050GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -160,7 +184,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STI-050GE 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -188,25 +212,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Kruto,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,5 +1,5 @@
 # neowine
-**官方名称（调研核实）**：Neowine Co., Ltd.（韩国；Secon 2023 隔壁展位）
+**官方名称（调研核实）**：Neowine Co., Ltd.（네오와인，韩国）
 
 > **评级 B**　|　韩国　|　档案编号 `SA-145`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-145
 rating: B
 rating_auto: A
 rating_research: B  # 非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。
-name_official: "Neowine Co., Ltd.（韩国；Secon 2023 隔壁展位）"
+name_official: "Neowine Co., Ltd.（네오와인，韩国）"
 score: 61
 country: 韩国
 region: 亚太
@@ -23,7 +23,7 @@ followups: 27
 first_contact: 2025-02-14
 last_contact: 2025-11-05
 p1: STC-448DGGPM
-price_tier: 25%
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国公司（Secon 2023 相邻展位参展商），提出想做 Saga 代理但不懂交换机产品；联系人 John H. Lee（李孝乘）；1 次回复、27 次跟进。（调研 2026-10-21；表内兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品）
+- **是谁**：韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。（调研 2026-10-21；表内兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品）
 - **为什么是 B 级**：**调研后定级 B**（非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 27 次（2025-02-14 → 2025-11-05）；最近一次客户回复：1.31：sample
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-448DGGPM — 深挖对位：其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -58,17 +58,42 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：韩国公司（Secon 2023 相邻展位参展商），提出想做 Saga 代理但不懂交换机产品；联系人 John H. Lee（李孝乘）；1 次回复、27 次跟进。
+- **状态：已调研（2026-10-21）**　网站状态：在线（neowine.com，快照 2026-10-21，韩语）
+- **是谁**：韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。
 - **类型**：潜在代理（非本行业）
 - **规模**：待补证
 - **【用户记录】隔壁摊位参展商，想当代理商，不懂产品；27 次跟进 1 次回复**
   > 隔壁摊位参展商，想给我们当代理商，不懂我们产品 / attn: John H.Lee/李孝乘 | telephone: 82-31-620-1250（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】定位：fabless 防复制 / IoT 安全芯片设计，2002 年**
+  > 네오와인은 복제방지칩·IoT 보안칩·AI 반도체 IP를 설계하는 팹리스 기업입니다. 2002년 설립 이후 누적 2억 개를 2,000여 기업에 공급했습니다
+  > 来源：https://neowine.com/（抓取 2026-10-21）
+- **【用户表】隔壁摊位参展商，想当代理商，不懂我们产品；2025-01 48 口→sample**
+  > 兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品；回复：sample
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：John H. Lee（李孝乘）（（用户记录）） +82-31-620-1250 / +82-10-8911-3702〔用户 Clients 表（Secon 2023）〕
+- **KP**：John H. Lee（李孝乘）（）godinus@neowine.com +82 31 620 1250〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Dexter Kim（）dexter@neowine.com +82 10 8911 3702〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。
 - 备注：不再主动推送；对方主动来再谈。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：行业外））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Neowine Co., Ltd. |
+| 成立 | 2002 |
+| 总部/地址 | 韩国（京畿道，+82 31） |
+| 其他 | SECON 2023 相邻展位 |
+
+- **业务线**：防复制芯片 ALPU / IoT 安全芯片 / AI IP
+- **触达通道（公开）**：role: 行业外（半导体），自荐代理；region: 韩国
+- **近况信号**：
+  - CEO 直接接触、主动提代理
+  - 曾索 48 口样品
+- **风险/边界**：不懂网络产品、无渠道 → 代理不可行；行业外；韩国市场对白牌接受度低
+- **Saga 对位结论**：P1 STC-448DGGPM（20% 档）——其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。
+- **邮件切入句（英文）**：Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -142,6 +167,8 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | John H. Lee（李孝乘） | （用户记录） | +82-31-620-1250 / +82-10-8911-3702 | 调研核实（公开页） | 用户 Clients 表（Secon 2023） |
+| John H. Lee（李孝乘） | — | godinus@neowine.com / +82 31 620 1250 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Dexter Kim | — | dexter@neowine.com / +82 10 8911 3702 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -159,10 +186,10 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $321.4 USD EXW（25% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（潜在代理（非本行业）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-448DGGPM | 深挖对位：其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（潜在代理（非本行业）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -172,7 +199,7 @@ updated: 2026-10-21
 
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -180,7 +207,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-448DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
+- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -213,9 +240,9 @@ updated: 2026-10-21
 ```text
 Hi John,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage.
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $321.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

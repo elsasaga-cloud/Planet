@@ -36667,9 +36667,9 @@
 "grade": "B",
 "research": {
 "code": "SA-097",
-"name_official": "PIOLINK, Inc.（파이오링크，首尔；Secon 2023 参展商）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "韩国网络设备品牌厂商（ADC/安全交换机自有产品线），Secon 2023 参展商；联系人 Tae Gu Lee；需求为'Realtek 高端系列芯片'，1 次回复、24 次跟进。",
+"name_official": "PIOLINK, Inc.（파이오링크，韩国）",
+"website_status": "在线（piolink.com，快照 2026-10-21）",
+"summary": "韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。",
 "type": "品牌厂商（自研交换机）",
 "size": "中型（韩国上市公司，待补证）",
 "brands_seen": [
@@ -36682,6 +36682,20 @@
 "quote": "参展商…想要realtek高端系列的芯片 / attn: Tae Gu Lee | telephone: 82-2-2025-6931（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "定位：云数据中心优化；TiFRONT 骨干 / 云安全交换机、云管理网络；关键词 switch 86",
+"quote": "PIOLINK is a professional in cloud data center optimization… TiFRONT Backbone Switch… Cloud Security Switch… Cloud Managed Networking",
+"url": "https://www.piolink.com/en/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "想要 Realtek 高端系列的芯片；2025-02 24Fiber→让加微信谈；光博会上的那个",
+"quote": "兴趣：想要realtek高端系列的芯片；回复：让加微信谈",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -36691,12 +36705,52 @@
 "email": "",
 "phone": "+82-2-2025-6931 / +82-10-4301-9595",
 "source": "用户 Clients 表（Secon 2023）"
+},
+{
+"name": "Tae Gu Lee (Jayden)",
+"title": "GM",
+"email": "gooleebiz@gmail.com",
+"phone": "+82 10 4301 9595",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
 "notes": "若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：同行 ODM）"
+},
+"company_facts": {
+"legal_name": "PIOLINK, Inc.",
+"founded": "2000（上市公司，待核）",
+"hq": "Seoul, Korea（+82 2 2025 6900）",
+"size": "中型上市公司",
+"other": "表内邮箱 cdma092@piolink.con 为笔误（.com）"
+},
+"business_lines": [
+"ADC / 负载均衡",
+"TiFRONT 安全交换机 / 骨干交换机",
+"云管理网络 / 安全服务"
+],
+"channels": {
+"role": "交换机厂商（同行；潜在 ODM 买方）",
+"region": "韩国 + 日本"
+},
+"signals": [
+"对 24 光口机、Realtek 高端方案有兴趣 → 可能寻找 ODM 代工补充 SKU"
+],
+"risks": [
+"同行厂商：仅 ODM 口径，需 SmartByte/HRUI 原厂配合（Saga 为贸易商）",
+"表内邮箱域名笔误 .con，需改 .com"
+],
+"saga_fit": {
+"p1": "STC-424XGGM(L3)",
+"tier": 30,
+"why": "24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。"
+},
+"email_hook": "Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?"
 }
 },
 {
@@ -42286,9 +42340,9 @@
 "grade": "B",
 "research": {
 "code": "SA-111",
-"name_official": "Regal Distributors SA (Pty) Ltd（Regal Security，约翰内斯堡，南非）",
-"website_status": "在线",
-"summary": "南非最大的多品牌电子安防分销商之一（1981 年起，30+ 分支，201–500 人，4,000+ SKU；Hikvision/Paxton/ZKTeco/Hanwha 全国分销伙伴），用户记录其 MC/PoE/FS 主要来自 Upeto、Planet、itoonertech 三个品牌；1 次回复、19 次跟进。",
+"name_official": "Regal Distributors SA (Pty) Ltd（Regal Security Distributors）",
+"website_status": "在线（regalsecurity.co.za；快照 HTTP 错误，web 可达）",
+"summary": "南非最大多品牌电子安防分销商之一（1981 年，201–500 人，29–30 家分支，覆盖非洲 29 国），网络类在售 **PLANET（GS-4210-8P2S）、Genata、TP-Link/Omada、Hikvision 交换机、UTEPO/ITooner**，并有自有标 Securi-Prod / Sola-Prod / Powa-Prod；表内 IT 总监 Jacques Plessis，2025-10 已给 2+2+8 PoE 报价。规模偏大但有互动 + 自有标 → 保留 B，OEM 切口。",
 "type": "大型区域安防分销商",
 "size": "大型（201–500 人，30+ 分支）",
 "brands_seen": [
@@ -42299,7 +42353,14 @@
 "DMP",
 "Upeto（用户记录）",
 "Planet（用户记录）",
-"itoonertech（用户记录）"
+"itoonertech（用户记录）",
+"PLANET",
+"Genata",
+"TP-Link",
+"UTEPO",
+"ITooner",
+"Ajax",
+"Hanwha"
 ],
 "evidence": [
 {
@@ -42322,6 +42383,41 @@
 "quote": "Regal Security has grown from just 2 branches to 32 – nationwide! We are distribution partners for… Hikvision, Paxton, ZKTeco, and Hanwha Vision",
 "url": "https://schoolscape.co.za/wp-content/uploads/2025/02/Regal-Company-Profile.pdf",
 "date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "1981 年成立，29 国，45 年，南非最成功的多品牌安防分销商",
+"quote": "1981 The year Regal Distributors SA(Pty)Ltd was established. 45 years later we continue to be South Africa's most successful multi-brand distributors of electronic security equipment… 29 The number of countries across Africa",
+"url": "https://regalsecurity.co.za/",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "201–500 人；品牌 Ajax、EZVIZ、Hikvision、Paxton、ZKTeco、Genetec、Hanwha",
+"quote": "preferred distribution partner for… Ajax, EZVIZ, Hikvision, Paxton, ZKTeco, Genetec, Seagate, and Hanwha Vision… Company size: 201-500 employees… Founded: 1981",
+"url": "https://za.linkedin.com/company/r-distributors",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "网络品类品牌：Genata、TP-Link、Omada、Mercusys、Hikvision；在售 PLANET GS-4210-8P2S",
+"quote": "Networking: Genata, TP-Link, Omada, Mercusys, Hikvision… PLANET 8 Port Gigabit Managed PoE + 2 Shared SFP Uplink Switch… GS-4210-8P2S-EU",
+"url": "https://regalsecurity.co.za/network-switches/968-planet-8-port-gigabit-managed-poe-2-shared-sfp-uplink-switch.html",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "自有标 Securi-Prod / Sola-Prod / Powa-Prod；30 家分支",
+"quote": "30‑branch national network… in‑house labels like Securi‑Prod, Sola‑Prod and Powa‑Prod",
+"url": "https://johannesburglists.com/regal-distributors-sa-services-jobs-contact-details/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC PoE FS，主要是 Upeto / planet / itoonertech 三个牌子；2025-10 28poe→发了一个报价 2+2+8 的",
+"quote": "兴趣：MC PoE FS 主要是Upeto planet和itoonertech这3个牌子的；回复：发了一个报价2+2+8的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -42331,12 +42427,79 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表（'邮件中有详细的联系信息'）"
+},
+{
+"name": "Jacques Plessis",
+"title": "IT Director",
+"email": "enquiries@regalsecurity.co.za",
+"phone": "+27 87 802 3920",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Josephine",
+"title": "（表内联系人）",
+"email": "sales@regalsecurity.co.za",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。",
 "notes": "重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + LinkedIn + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Regal Distributors SA (Pty) Ltd",
+"founded": "1981",
+"hq": "Johannesburg, Gauteng, South Africa",
+"size": "201–500 人，29–30 分支",
+"other": "自有标 Securi-Prod 等；电商平台"
+},
+"business_lines": [
+"电子安防分销（监控、门禁、报警、自动化、对讲）",
+"网络（PoE 交换机、无线、PoE 配件）",
+"自有品牌电源 / 太阳能 / 配件"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "GS-4210-8P2S",
+"spec": "8 PoE + 2 SFP 管理",
+"saga": "Saga STC-28DGGPM（$80.7/84.1/87.4）",
+"url": "https://regalsecurity.co.za/network-switches/968-planet-8-port-gigabit-managed-poe-2-shared-sfp-uplink-switch.html",
+"date": "2026-10-21"
+},
+{
+"brand": "Genata",
+"model": "8 Port PoE Outdoor + 2 GE + 1 SFP",
+"spec": "室外 PoE",
+"saga": "无 IP67/室外款（缺口）",
+"url": "https://regalsecurity.co.za/new-products?id=107",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "大型区域分销商（有自有标）",
+"region": "南非 + 撒哈拉以南 29 国"
+},
+"signals": [
+"已报价 2+2+8（2025-10）",
+"自有标体系成熟 → Securi-Prod 网络线贴牌入口",
+"在售 PLANET 同口型 → 直接对价"
+],
+"risks": [
+"规模大（201–500 人）：按继承规则接近「巨头」边界，决策链长、压价强；保留 B 因有互动与自有标",
+"Genata / UTEPO 中国低价线已占位"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 30,
+"why": "已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。"
+},
+"email_hook": "Jacques, following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?"
 }
 },
 {
@@ -47017,9 +47180,9 @@
 "grade": "B",
 "research": {
 "code": "SA-126",
-"name_official": "Onnet Technologies（阿联酋）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "阿联酋 IT 贸易商，WA 在线，A 已回复 1 次；用户记录：总说价格高、熟悉中国市场价、与中国供应商长期合作。",
+"name_official": "Onnet Technologies & Innovations LLC (OTAI)",
+"website_status": "域名占位（onnettechnologies.com 快照为空；LinkedIn / 名录可达）",
+"summary": "阿联酋阿治曼 **本土电信产品制造商**（2012 年，11–50 人，TDRA 认证）：运营商级长距无线、**大功率工业 PoE 交换机 / PoE 延长器**、室外 UPS、太阳能通信系统、CCTV 杆 / 智慧灯杆、「Magic Box」一体化 PoE 箱；负责人 Piyush Shah。表内 Saurabh「老说价格高、了解中国市场价、与中国供应商长期合作」，2025-04 问 Bypass 工业机「用常见的几个型号」= 自有品牌 OEM 采购方。",
 "type": "IT 贸易商",
 "size": "待补证",
 "brands_seen": [],
@@ -47028,6 +47191,41 @@
 "kind": "用户记录",
 "claim": "价格导向、熟悉中国行情、有长期中国供应商",
 "quote": "老说价格高 比较了解中国市场价 和中国供应商长期合作；971 50 559 4409 已加（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "定位：阿治曼电信产品制造商；产品含大功率工业 PoE 交换机、PoE 延长器、室外 UPS、智慧杆；2012 年，11–50 人",
+"quote": "Onnet Technologies And Innovations LLC (OTAI) is the manufacturer of Telecom Products based in Ajman, UAE… Carrier-Grade Wireless, High Power Industrial PoE Switch, PoE Extenders, Outdoor Communication UPS, Solar Communication Systems, CCTV Poles, and Smart Poles… 11-50… 2012",
+"url": "https://ae.linkedin.com/company/otaillc",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "唯一 TDRA 认证的本土电信产品制造商（自述）",
+"quote": "the only #TDRA approved Telecom Products / Solution manufacturer based in UAE",
+"url": "https://ae.linkedin.com/company/otaillc",
+"date": "2026-10-21"
+},
+{
+"kind": "资料",
+"claim": "Magic Box 一体化室外 PoE 方案；地址 PO Box 23170 Ajman；+971 6 7480204；info@onnettechnologies.com",
+"quote": "OTAi Magic Box… An Integrated Outdoor Solution PoE… P.O. BOX # 23170, Ajman… info@onnettechnologies.com",
+"url": "https://www.technoxen.com/poe-magic-box/New-Compact-Magic-Box-Datasheet.pdf",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "负责人 Piyush S. Shah（piyush@onnettechnologies.com）",
+"quote": "Piyush S. Shah - Onnet Technologies & Innovations LLC… piyush@onnettechnologies.com",
+"url": "https://www.linkedin.com/in/piyushsshah/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "老说价格高、了解中国市场价、与中国供应商长期合作；2025-04 Bypass→用常见的几个型号",
+"quote": "兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作；回复：用常见的几个型号",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -47039,12 +47237,72 @@
 "email": "",
 "phone": "+971 50 559 4409（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Saurabh",
+"title": "（采购 / 技术，表内联系人）",
+"email": "saurabh@onnettechnologies.com",
+"phone": "+971 50 559 4409",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Piyush S. Shah",
+"title": "Founder / Managing Director（LinkedIn）",
+"email": "piyush@onnettechnologies.com",
+"phone": "+971 50 184 2443",
+"source": "https://www.linkedin.com/in/piyushsshah/"
 }
 ],
 "grade_override": "B",
 "override_reason": "纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。",
 "notes": "只在有尾货/促销时触达；不做长期投入。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（LinkedIn + 名录核对：本土制造商 OEM）"
+},
+"company_facts": {
+"legal_name": "Onnet Technologies and Innovations LLC",
+"founded": "2012",
+"hq": "Shed 1&2, Street 80-81, Ajman Industrial Area 1, Ajman, UAE（PO Box 23170）",
+"size": "11–50 人",
+"other": "TDRA 认证；Hikvision TPP 方案伙伴；FCC ID 2ADPY"
+},
+"business_lines": [
+"运营商级长距无线（自有品牌）",
+"大功率工业 PoE 交换机 / PoE 延长器 / Magic Box（OEM 采购 + 集成）",
+"室外 UPS / 太阳能供电",
+"CCTV 杆 / 智慧灯杆 / 通信机柜"
+],
+"products_seen": [
+{
+"brand": "OTAI",
+"model": "High Power Industrial PoE Switch / Magic Box",
+"spec": "室外一体化 PoE（含 UPS）",
+"saga": "Saga STI-288DGGPM-2BT / STI-488GP 贴牌 + bypass 款 LT-IS6312GP-4GX8GT-FBP（SmartByte 型号，注明）",
+"url": "https://ae.linkedin.com/company/otaillc",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"role": "本土制造商 / 品牌商（OEM 采购中国工业 PoE）",
+"region": "阿联酋 + 中东非洲项目"
+},
+"signals": [
+"自有品牌工业 PoE 线 + 长期中国供应商 = 标准 OEM 30% 客户，可替换现供应商",
+"2025-04 主动问 bypass 工业机（Saga 有 SmartByte FBP 款）",
+"TDRA 认证 + Hikvision 方案伙伴 → 项目量稳定"
+],
+"risks": [
+"价格极敏感（熟悉中国出厂价）→ 以 Marvell 芯片 / bypass / BT 大功率差异化，不拼最低价",
+"现有供应商关系稳固，切换成本"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM-2BT",
+"tier": 30,
+"why": "OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$157.8/164.4/171.0）贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。"
+},
+"email_hook": "Saurabh, for the OTAI high-power industrial PoE line — our 8-port unit gives 2×90 W (bt) + 6×30 W with 2 SFP and an optional fibre-bypass variant, neutral or OTAI-branded from small lots; which exact spec is your current supplier shipping, so I quote like-for-like EXW?"
 }
 },
 {
@@ -49055,19 +49313,34 @@
 "grade": "B",
 "research": {
 "code": "SA-132",
-"name_official": "Avanca（avanca.com.sg，新加坡）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "新加坡工业自动化/网络产品经销商，在售 Red Lion 工业 FS（用户记录），1 次回复、11 次跟进，最近 2024 年。",
+"name_official": "Avanca Technologies Pte Ltd（新加坡）",
+"website_status": "在线（avanca.com.sg，快照 2026-10-21）",
+"summary": "新加坡工业通信分销商：工业 4G/5G 路由（R5020、M1200）、工业管理 / 非管理交换机、PoE、光纤 MC（Red Lion N-Tron NT24K 等），GM Steven Fu；表内兴趣 Red Lion 工业 FS，2025-11 对 10G MC 群发回复 info。",
 "type": "工业产品经销商",
 "size": "待补证",
 "brands_seen": [
-"Red Lion（用户记录：在售）"
+"Red Lion（用户记录：在售）",
+"Red Lion"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "Red Lion 工业 FS；1 次回复 / 11 次；2024",
 "quote": "redlion的工业FS；邮件中有详细的联系信息（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "产品线：工业 4G/5G 路由、工业管理 / 非管理交换机、PoE、MC；关键词 industrial 130 / switch 56 / media converter 38；型号 NT24K（Red Lion）",
+"quote": "Industrial 4G/5G Routers Modems Singapore… Industrial Managed Ethernet Switches - PoE… Fiber Optic Media Converters… models NT24K… +65 6242 5108",
+"url": "https://avanca.com.sg/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 redlion 的工业 FS；2025-11 群发 10gmc→info",
+"quote": "兴趣：redlion的工业FS；回复：info",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -49079,12 +49352,51 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Steven Fu",
+"title": "General Manager",
+"email": "steven@avanca.com.sg",
+"phone": "+65 6242 5108",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。",
 "notes": "重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对）"
+},
+"company_facts": {
+"legal_name": "Avanca Technologies Pte Ltd",
+"founded": "（待核）",
+"hq": "Singapore",
+"size": "小型工业通信分销",
+"other": "sales@avanca.com.sg"
+},
+"business_lines": [
+"工业 4G/5G 路由 / 调制解调器",
+"工业以太网交换机 / PoE / MC（Red Lion 等）"
+],
+"channels": {
+"role": "工业通信分销商",
+"region": "新加坡 + 东南亚"
+},
+"signals": [
+"整站工业交换机 / MC 品类 → 需要低价第二品牌补 Red Lion 价位空缺"
+],
+"risks": [
+"Red Lion 高端定位客户对认证要求高",
+"新加坡小量"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "工业管理 PoE 交换机 → Saga STI-288GPM（$78.9/82.2/85.5）作 Red Lion 价位下的第二品牌；10G MC 按 SmartByte 另询。"
+},
+"email_hook": "Steven, below the N-Tron price points — would a Marvell-based DIN-rail managed PoE switch (8 PoE + 2 SFP, −40~75 ℃, CE/FCC) fill a gap in your industrial range? 1-pc sample, neutral packing."
 }
 },
 {
@@ -49348,9 +49660,9 @@
 "grade": "B",
 "research": {
 "code": "SA-133",
-"name_official": "Bargas（bargas.ru，俄罗斯）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "俄罗斯工商业 FS 销售平台（多家品牌），1 次回复、10 次跟进。",
+"name_official": "Bargas（bargas.ru，俄罗斯网店）",
+"website_status": "在线但反爬（快照为 KillBot 验证页）",
+"summary": "俄罗斯工商业网络设备网店（表内「工商业 FS 好多家的，销售平台」），联系人 Александр Гречкин（Kruto），2025-12 对 mini 工业机群发回复 interested；站点反爬，内容未取到。",
 "type": "电商/销售平台",
 "size": "待补证",
 "brands_seen": [],
@@ -49359,6 +49671,20 @@
 "kind": "用户记录",
 "claim": "工商业 FS 多品牌销售平台；1 次回复 / 10 次",
 "quote": "工商业FS 好多家的 销售平台（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "站点反爬（KillBot 验证），未取到内容",
+"quote": "title: KillBot user verification",
+"url": "https://www.bargas.ru/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工商业 FS 好多家的，销售平台；2025-12 群发 mini→interested",
+"quote": "兴趣：工商业FS 好多家的 销售平台；回复：interested",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -49370,12 +49696,51 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Александр Гречкин (Alexander Grechkin)",
+"title": "（表内联系人）",
+"email": "ag@bargas.ru",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。",
 "notes": "一封邮件给上架用 SKU 清单（分销 20%）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照反爬 + 表内）"
+},
+"company_facts": {
+"legal_name": "（待核，ООО «Баргас»？）",
+"founded": "",
+"hq": "俄罗斯",
+"size": "网店 / 经销",
+"other": "info@bargas.ru"
+},
+"business_lines": [
+"工业 / 商用交换机多品牌网店"
+],
+"channels": {
+"role": "网店 / 经销（多品牌）",
+"region": "俄罗斯"
+},
+"signals": [
+"对 mini 工业机 interested（2025-12）",
+"多品牌平台 → 上架门槛低"
+],
+"risks": [
+"俄罗斯：制裁 / 收款（第三国或人民币）",
+"平台价格透明"
+],
+"saga_fit": {
+"p1": "STI-050GE",
+"tier": 20,
+"why": "其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。"
+},
+"email_hook": "Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?"
 }
 },
 {
@@ -53504,9 +53869,9 @@
 "grade": "B",
 "research": {
 "code": "SA-145",
-"name_official": "Neowine Co., Ltd.（韩国；Secon 2023 隔壁展位）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "韩国公司（Secon 2023 相邻展位参展商），提出想做 Saga 代理但不懂交换机产品；联系人 John H. Lee（李孝乘）；1 次回复、27 次跟进。",
+"name_official": "Neowine Co., Ltd.（네오와인，韩国）",
+"website_status": "在线（neowine.com，快照 2026-10-21，韩语）",
+"summary": "韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。",
 "type": "潜在代理（非本行业）",
 "size": "待补证",
 "brands_seen": [],
@@ -53515,6 +53880,20 @@
 "kind": "用户记录",
 "claim": "隔壁摊位参展商，想当代理商，不懂产品；27 次跟进 1 次回复",
 "quote": "隔壁摊位参展商，想给我们当代理商，不懂我们产品 / attn: John H.Lee/李孝乘 | telephone: 82-31-620-1250（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网快照",
+"claim": "定位：fabless 防复制 / IoT 安全芯片设计，2002 年",
+"quote": "네오와인은 복제방지칩·IoT 보안칩·AI 반도체 IP를 설계하는 팹리스 기업입니다. 2002년 설립 이후 누적 2억 개를 2,000여 기업에 공급했습니다",
+"url": "https://neowine.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "隔壁摊位参展商，想当代理商，不懂我们产品；2025-01 48 口→sample",
+"quote": "兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品；回复：sample",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -53526,12 +53905,58 @@
 "email": "",
 "phone": "+82-31-620-1250 / +82-10-8911-3702",
 "source": "用户 Clients 表（Secon 2023）"
+},
+{
+"name": "John H. Lee（李孝乘）",
+"title": "CEO",
+"email": "godinus@neowine.com",
+"phone": "+82 31 620 1250",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Dexter Kim",
+"title": "Director",
+"email": "dexter@neowine.com",
+"phone": "+82 10 8911 3702",
+"source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
 "grade_override": "B",
 "override_reason": "非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。",
 "notes": "不再主动推送；对方主动来再谈。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：行业外）"
+},
+"company_facts": {
+"legal_name": "Neowine Co., Ltd.",
+"founded": "2002",
+"hq": "韩国（京畿道，+82 31）",
+"size": "中小型 fabless",
+"other": "SECON 2023 相邻展位"
+},
+"business_lines": [
+"防复制芯片 ALPU / IoT 安全芯片 / AI IP"
+],
+"channels": {
+"role": "行业外（半导体），自荐代理",
+"region": "韩国"
+},
+"signals": [
+"CEO 直接接触、主动提代理",
+"曾索 48 口样品"
+],
+"risks": [
+"不懂网络产品、无渠道 → 代理不可行；行业外",
+"韩国市场对白牌接受度低"
+],
+"saga_fit": {
+"p1": "STC-448DGGPM",
+"tier": 20,
+"why": "其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。"
+},
+"email_hook": "Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage."
 }
 },
 {
@@ -60185,7 +60610,77 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-001",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-001",
+"name_official": "Merit LILIN Ent. Co., Ltd.（利凌，台湾）",
+"researched_at": "2026-10-21",
+"website_status": "在线（meritlilin.com，快照 2026-10-21）",
+"summary": "台湾 IP 摄像机 / NVR / 边缘 AI 品牌（智慧交通、零售、工业），产品线含 PoE 配套；表内 Gina Hsu 要 MC / PoE / 工业 FS 等周边产品**贴自己 logo**，2025-02 对 24 光 combo 回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "定位：AI 监控摄像机、NVR、边缘计算；关键词 camera 175 / poe 9 / distributor 20",
+"quote": "LILIN AI surveillance cameras, NVR systems, and edge computing solutions for smart transportation, retail, and industrial applications",
+"url": "https://meritlilin.com/en",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 MC POE 工业 FS，比较多周边产品，自己的 logo；2025-02 商业 24 光 combo→INFO",
+"quote": "兴趣：MC POE 工业FS 比较多周边产品 自己的logo；回复：INFO",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Gina Hsu",
+"title": "（采购 / 产品，表内联系人）",
+"email": "ginahsu@meritlilin.com.tw",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
+},
+"company_facts": {
+"legal_name": "Merit LILIN Ent. Co., Ltd.",
+"founded": "1980（待核）",
+"hq": "台北",
+"size": "中型品牌商",
+"other": "sales@meritlilin.com.tw"
+},
+"business_lines": [
+"IP 摄像机 / NVR / 边缘 AI",
+"配套 PoE 交换机 / 周边（贴牌采购）"
+],
+"channels": {
+"role": "品牌商（OEM 采购周边）",
+"region": "全球（台湾总部）"
+},
+"signals": [
+"明确要贴 LILIN logo 的 PoE / MC / 工业 FS → OEM 30%"
+],
+"risks": [
+"台系品牌商：按继承规则非渠道客户，仅作 OEM 买方",
+"量取决于其项目，付款条件需 T/T"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "摄像机配套 8 PoE + 2 SFP 管理机贴 LILIN 标（OEM 30%）；工业款 STI-288GP、MC STI-110GE 同步贴牌。"
+},
+"email_hook": "Gina, for LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up."
+}
 },
 {
 "name": "AD-NET TECHNOLOGY CO., LTD.",
@@ -60551,7 +61046,79 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-002",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-002",
+"name_official": "AD-NET Technology Co., Ltd.（台湾）",
+"researched_at": "2026-10-21",
+"website_status": "在线（ad-net.com.tw，快照 2026-10-21）",
+"summary": "台湾光纤传输 / 工业通信品牌（媒体转换器、E1/SDH/PDH、GEPON、视频光端机、工业 PoE / 工业交换机、串口联网、光模块），站内工业与交换机词频极高；表内注「自己的品牌，应该是从深圳拿的产品」，2025-09 对 2 光 16 管理回复「M12 Switch??」（要 M12 接口工业机 — Saga 无）。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "产品线：MC、E1 转换、FTTx、光模块、工业通信、工业 PoE、光纤交换机；关键词 switch 197 / industrial 117 / poe 51 / fiber 366",
+"quote": "Media converter, Ethernet converter, E1 converter, Fiber modem… Industrial POE… Industrial Ethernet Switches… Fiber Optical Switches",
+"url": "https://www.ad-net.com.tw/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC FS VC 自己的品牌，应该是从深圳拿的产品；2025-09 2 16 管理→M12 Switch??",
+"quote": "兴趣：MC FS VC 自己的品牌 应该是从深圳拿的产品；回复：M12 Switch??",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Robin",
+"title": "（表内联系人）",
+"email": "robin@ad-net.com.tw",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
+},
+"company_facts": {
+"legal_name": "AD-NET Technology Co., Ltd.",
+"founded": "（待核）",
+"hq": "台湾",
+"size": "中小型品牌商",
+"other": "info@ad-net.com.tw"
+},
+"business_lines": [
+"光纤媒体转换 / E1 / SDH",
+"工业以太网 / 工业 PoE 交换机（贴牌）",
+"视频光端机 / GEPON"
+],
+"channels": {
+"role": "品牌商（深圳贴牌采购）",
+"region": "全球"
+},
+"signals": [
+"整条工业 / 交换机线靠贴牌 → OEM 30% 对象",
+"最新需求 M12 工业交换机（Saga 无，缺口记录）"
+],
+"risks": [
+"台系品牌商口径（仅 OEM）",
+"M12 / EN50155 车载类需求 Saga 不做"
+],
+"saga_fit": {
+"p1": "STI-21616GP",
+"tier": 30,
+"why": "其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。"
+},
+"email_hook": "Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?"
+}
 },
 {
 "name": "DIGI Group",
@@ -61278,7 +61845,85 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-004",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-004",
+"name_official": "Tailyn Technologies, Inc.（台林电通，台湾）",
+"researched_at": "2026-10-21",
+"website_status": "在线（tailyn.com.tw，快照 2026-10-21）",
+"summary": "台湾 40 年工业通信 / 电信 / 车载电子厂商（桃园，+886 3 322 2201），产品含工业交换机、PoE、L2+ 机架交换机、铁路方案（EN50155）、IEC 61850、SFP28/QSFP28；有 ODM 业务。表内 Gary / Jill 兴趣工业 FS，2025-07 对 Alarm 功能回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。 铁路 / 车载线守界。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "40 年工业应用 / 电信 / 车载；产品：工业通信、PoE 交换机 / 铁路方案、L2+ 机架交换机、非管理交换机；型号关键词 EN50155 / IEC61850 / QSFP28；odm 3",
+"quote": "TAILYN has accumulated 40 years of devoted focus in industrial applications, telecommunications, telematics… PoE Switch, Railway Solution… Layer 2+ Switch… Unmanaged Switch",
+"url": "https://tailyn.com.tw/en/home/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣工业 FS；2025-07 Alarm→INFO",
+"quote": "兴趣：工业FS；回复：INFO",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Gary Chen",
+"title": "（表内联系人）",
+"email": "garychen@tailyn.com.tw",
+"phone": "+886 3 322 2201",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Jill",
+"title": "（表内联系人）",
+"email": "jill@tailyn.com.tw",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：台系制造商 ODM）"
+},
+"company_facts": {
+"legal_name": "Tailyn Technologies, Inc.（台林電通）",
+"founded": "约 1985",
+"hq": "桃园，台湾",
+"size": "中型制造商（自有工厂）",
+"other": "ODM 能力；铁路 / 电力认证产品线"
+},
+"business_lines": [
+"工业以太网 / PoE 交换机（含 EN50155 铁路）",
+"电信接入设备",
+"车载 / 无线通信"
+],
+"channels": {
+"role": "台系制造商（自有工厂；潜在 ODM 买方）",
+"region": "全球"
+},
+"signals": [
+"对工业 FS 与告警功能有兴趣 → 可能找外购补充 SKU"
+],
+"risks": [
+"自有工厂 + 铁路 / 车载主业：Saga 仅能供非铁路工业入门款；守界 EN50155 不接",
+"台系厂商口径"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 30,
+"why": "工业管理 PoE（带告警继电器 DI/DO）→ Saga STI-288GPM 作其入门 ODM 补充（OEM 30%）；铁路用途不供。"
+},
+"email_hook": "Gary, you asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price."
+}
 },
 {
 "name": "ASSMANN ASIA",
@@ -61529,7 +62174,78 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-005",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-005",
+"name_official": "ASSMANN Asia（亚士曼，DIGITUS 台湾）",
+"researched_at": "2026-10-21",
+"website_status": "在线但空页（assmann.com.tw 快照无内容）",
+"summary": "德国 ASSMANN（DIGITUS 品牌）台湾分公司 / 亚洲采购办，PM Kent Wang；展会接触：串口与 HDMI-to-RJ45，兴趣 MC / HDMI / SFP / PoE / 串口系列，2025-12 对 Alarm 回复「I/O modules」。DIGITUS 产品均为亚洲贴牌采购 → OEM 30%；HDMI / 串口 / I/O 模块 Saga 无。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"DIGITUS"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "assmann.com.tw 首页无内容（空页）",
+"quote": "status ok, title/desc empty",
+"url": "https://assmann.com.tw/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 MC HDMI SFP POE serials；展会：串口和 HDMI to RJ45；2025-12 Alarm→I/O modules",
+"quote": "兴趣：MC HDMI SFP POE serials 展会：串口和HDMI to Rj45；回复：I/O modules",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Kent Wang",
+"title": "PM",
+"email": "kent.wang@assmann.com.tw",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM）"
+},
+"company_facts": {
+"legal_name": "ASSMANN Asia Co., Ltd.（待核）",
+"founded": "",
+"hq": "台湾（ASSMANN Electronic GmbH 亚洲办）",
+"size": "跨国品牌亚洲采购办",
+"other": "DIGITUS 网络 / 连接产品品牌"
+},
+"business_lines": [
+"DIGITUS 品牌网络 / 连接 / 机柜产品（亚洲贴牌采购）"
+],
+"channels": {
+"role": "品牌商采购办（OEM 30%）",
+"region": "欧洲销售（台湾采购）"
+},
+"signals": [
+"PM 直接接触，兴趣 PoE / MC / SFP 系列 → DIGITUS PoE 交换机 / MC 贴牌入口（欧洲主攻区销售）"
+],
+"risks": [
+"HDMI / 串口 / I/O 模块 Saga 无（缺口）",
+"大品牌验厂 / 认证（CE/RoHS/REACH 可，UL 无）流程长"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "DIGITUS 商用 PoE 线贴牌 → STC-28DGGPM（Marvell L2+）与 MC STI-110GE 作样；OEM 30%。"
+},
+"email_hook": "Kent, besides the I/O modules — for the DIGITUS PoE switch and media-converter range, which SKU is up for re-sourcing next (8-PoE managed, 16/24-PoE, or gigabit MC)? I'll send CE/RoHS/REACH files and a sample under your spec."
+}
 },
 {
 "name": "EDIMAX",
@@ -62013,7 +62729,80 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-007",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-007",
+"name_official": "Winsonic Electronics Co., Ltd.（台湾）",
+"researched_at": "2026-10-21",
+"website_status": "在线（ewinsonic.com，快照 2026-10-21）",
+"summary": "台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"UniPoE"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "定位：工业面板 PC / 工控机 / 显示器；站内 Industrial Switch 品类；关键词 industrial 119 / switch 60 / automation 37 / poe 18 / sfp 21",
+"quote": "Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing… Industrial Switch",
+"url": "https://ewinsonic.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "在用 UniPoE 的工业 FS；2025-11 升压→INFO",
+"quote": "兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Rex Lin",
+"title": "（采购 / 产品，表内联系人）",
+"email": "rex.lin@ewinsonic.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照：台系工控 OEM）"
+},
+"company_facts": {
+"legal_name": "Winsonic Electronics Co., Ltd.",
+"founded": "（待核）",
+"hq": "台湾",
+"size": "中型工控制造商",
+"other": "sales@ewinsonic.com"
+},
+"business_lines": [
+"工业面板 PC / 无风扇 PC / 工业显示",
+"配套工业交换机（外购贴牌，现 UniPoE）"
+],
+"channels": {
+"role": "工控制造商（配套外购）",
+"region": "全球"
+},
+"signals": [
+"现用中国同行 UniPoE 工业 FS → 可同规格替换（Marvell 差异）",
+"对升压 PoE 有兴趣（Saga 升压款待核 Q-32）"
+],
+"risks": [
+"台系厂商口径；EN50155 车载线不供",
+"UniPoE 价格基准低"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 30,
+"why": "替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。"
+},
+"email_hook": "Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first."
+}
 },
 {
 "name": "adlerss.com",
@@ -88524,7 +89313,65 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1009",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1009",
+"name_official": "Musine（肯尼亚；个人 gmail）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣千兆 PoE MC；回复 interested",
+"quote": "兴趣：千兆PoE MC；回复：interested",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Musine",
+"title": "（表内联系人）",
+"email": "wafulamusine@gmail.com",
+"phone": "+254 758 361 672",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "肯尼亚",
+"size": "",
+"other": "gmail"
+},
+"channels": {
+"role": "（未知，疑安装商）",
+"region": "肯尼亚"
+},
+"signals": [
+"明确口型：千兆 PoE MC"
+],
+"risks": [
+"身份不明；东非付款 T/T 预付"
+],
+"saga_fit": {
+"p1": "STI-111GP",
+"tier": 25,
+"why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
+},
+"email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?"
+}
 },
 {
 "name": "comtek-de.com",
@@ -143526,7 +144373,78 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1277",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1277",
+"name_official": "ARA（ara.com.bd，孟加拉国）",
+"researched_at": "2026-10-21",
+"website_status": "域名不可达（ara.com.bd）",
+"summary": "孟加拉国网络经销商（MD. Chan Miah Sarker），海关数据显示买过磊通（Leitong）设备，Switch / MC / 周边，非自有品牌；support@ 退信（发不过去），备用 gmail；2023-02 对商用 PoE 价目回复 thanks。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Leitong（磊通）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "ara.com.bd 不可达",
+"quote": "status unreachable",
+"url": "http://ara.com.bd/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "买的磊通的一些设备；Switch MC 周边产品，不是自己的牌子；support@ 发不过去；2023-02 thanks",
+"quote": "兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "MD. Chan Miah Sarker",
+"title": "（经营者）",
+"email": "smchan91@gmail.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（快照不可达 + 表内）"
+},
+"company_facts": {
+"legal_name": "ARA（待核）",
+"founded": "",
+"hq": "孟加拉国",
+"size": "小型经销",
+"other": "support@ara.com.bd 退信；域名失效"
+},
+"business_lines": [
+"网络设备经销（交换机 / MC / 配件）"
+],
+"channels": {
+"role": "经销商（从中国同行采购）",
+"region": "孟加拉国"
+},
+"signals": [
+"已从中国同行（磊通）进口同类 → 需求真实"
+],
+"risks": [
+"域名失效、官方邮箱退信，仅 gmail",
+"孟加拉付款 L/C 繁琐"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "经销同类商用 PoE → STC-28DGGPM 起手（分销 20%）。"
+},
+"email_hook": "Mr. Sarker, you've imported PoE switches and media converters before — for a first mixed carton from us (8-PoE managed + gigabit MC), what quantities would make the Chittagong freight sensible?"
+}
 },
 {
 "name": "Agility Elektrotekniks Pvt Ltd",
@@ -145492,7 +146410,54 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1283",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1283",
+"name_official": "（个人 gmail，埃塞俄比亚 +251 955）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "兴趣千兆双纤 20KM 工业模块；2022-12 一直是一个对勾没看信息",
+"quote": "兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "埃塞俄比亚",
+"size": "",
+"other": "gmail mulugetawendosen@"
+},
+"channels": {
+"role": "（未知）",
+"region": "埃塞俄比亚"
+},
+"risks": [
+"需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "SFP 模块不在价目；无主推型。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "spearheadgroup.pk",
@@ -168165,7 +169130,79 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-212",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-212",
+"name_official": "Bio-Cognitive Pte Ltd（新加坡）",
+"researched_at": "2026-10-21",
+"website_status": "在线（bio-cognitive.com，快照 2026-10-21）",
+"summary": "新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "定位：物理 + IT + OT 融合安全；关键词 industrial 121 / scada 48 / surveillance 42 / access control 20；+65 6553 2128",
+"quote": "Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring… ISA-62443",
+"url": "https://www.bio-cognitive.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 16 电 / VC 安防 / 网站 CCTV；2025-07 PoE→问了一个型号；备注可以多跟进一下",
+"quote": "兴趣：16电 VC 安防 网站：CCTV；回复：问了一个型号",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Amy Hoi",
+"title": "（表内联系人，备注可多跟进）",
+"email": "amyhoi@bio-cognitive.com",
+"phone": "+65 9656 8498",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对）"
+},
+"company_facts": {
+"legal_name": "Bio-Cognitive Pte Ltd（待核）",
+"founded": "",
+"hq": "Singapore",
+"size": "小型安防服务商",
+"other": "enquiries@bio-cognitive.com；+65 6553 2128"
+},
+"business_lines": [
+"物理安防集成（生物识别门禁、监控）",
+"OT / SCADA 安全评估与服务",
+"7×24 监控"
+],
+"channels": {
+"role": "安防 + OT 安全集成商",
+"region": "新加坡 + 工业客户"
+},
+"signals": [
+"问过具体 PoE 型号（2025-07）",
+"OT / 工业设施客户 → 工业 PoE 场景"
+],
+"risks": [
+"OT 安全顾问型公司，硬件采购量小",
+"新加坡项目对品牌 / 认证敏感"
+],
+"saga_fit": {
+"p1": "STI-21616GP",
+"tier": 25,
+"why": "16 电口 PoE + 工业设施场景 → Saga STI-21616GP（$170.4/177.5/184.6）；商用机房版 STC-2216GPM（HRUI 列表 $137.5）备选。"
+},
+"email_hook": "Amy, following your July question on the PoE model — for the 16-port requirement, is it going into a plant / OT cabinet (DIN-rail, −40~75 ℃) or a comms room rack? I'll send the matching sheet and 1-pc price."
+}
 },
 {
 "name": "botanica.org",
@@ -178503,10 +179540,58 @@
 "-6 区域 非洲/南非",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "有回复·跟进中",
 "code": "SB-262",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-262",
+"name_official": "CompuSpare（南非）",
+"researched_at": "2026-10-21",
+"website_status": "在线（compuspare.co.za，快照 2026-10-21）",
+"summary": "南非新机与二手服务器 / PC / POS 供应商（Cisco、Huawei、Dell S5148F-ON、Mellanox SX6015 等数据中心设备），Imran Ayob 的需求为 Alcatel 兼容 SFP 大批量与「100Gb 以上」交换机，嫌价格高；数据中心 100G 段与 SFP 模块均不在 Saga 范围 → 降 C（规格外）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "定位：新机 / 二手服务器、PC、POS；站内 S5148F-ON、SX6015、QSFP28",
+"quote": "SA's Supplier of choice for New and Pre-loved Servers, Laptops, Desktops, Pos… models S5148F-ON, SFP28, QSFP28, SX6015",
+"url": "https://www.compuspare.co.za/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "SFP 模块数量大、需 Alcatel 兼容；回复 Our need is in the 100Gb upward range；嫌价格高",
+"quote": "兴趣：SFP模块 数量比较大 需和Alcatel兼容；回复：Our need is in the 100Gb upward range；嫌价格高",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Imran A Ayob",
+"title": "（采购）",
+"email": "imran.ayob@compuspare.co.za",
+"phone": "+27 83 775 3602",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": "C",
+"override_reason": "规格外：需求为 100G 以上数据中心交换机与 Alcatel 兼容 SFP（Saga 接入层 ≤10G、无模块）",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照身份判断 → 规格外降 C）"
+},
+"saga_fit": {
+"p1": null,
+"tier": 20,
+"why": "规格外，不主动跟进。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "dipolnet.cz",
@@ -213999,7 +215084,72 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-395",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-395",
+"name_official": "Distributed Business Solutions（迪拜）",
+"researched_at": "2026-10-21",
+"website_status": "在线（distribolutions.com，快照 2026-10-21）",
+"summary": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "业务：路由交换 / 网络安全 / 网管 / 分析；+971 4 3886508",
+"quote": "ROUTING & SWITCHING… NETWORK SECURITY… NETWORK MANAGEMENT… Analytics On Big Fast Data",
+"url": "https://distribolutions.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "兴趣 10G 双纤 LC 10 公里模块；2021-10 发了价格问要多少个→要 100G 的",
+"quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ajith Rajan",
+"title": "（表内联系人）",
+"email": "ajithpr@distribolutions.com",
+"phone": "+971 4 388 6508",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照 + 表内）"
+},
+"company_facts": {
+"legal_name": "Distributed Business Solutions（待核）",
+"founded": "",
+"hq": "Dubai, UAE",
+"size": "小型方案商",
+"other": ""
+},
+"business_lines": [
+"企业网络 / 安全 / 网管方案"
+],
+"channels": {
+"role": "IT 方案商",
+"region": "阿联酋"
+},
+"risks": [
+"需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "光模块需求不在价目（Q-32）；无主推型。"
+},
+"email_hook": "（待 Q-32；不主动发送）"
+}
 },
 {
 "name": "efb-elektronik.com.tr",
@@ -287737,7 +288887,98 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-739",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-739",
+"name_official": "Techsouq Computers L.L.C.（Dubai）",
+"researched_at": "2026-10-21",
+"website_status": "在线（techsouq.com；快照 HTTP 错误，web 可达）",
+"summary": "迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "名录",
+"claim": "迪拜 IT 网店，1999 年，8 人，$948K；MD Ahmad Pervez",
+"quote": "Techsouq Computers is an online IT store based in Dubai, UAE… Revenue $948 K… Employees 8… Founded 1999… Ahmad Pervez Managing Director",
+"url": "https://www.datanyze.com/companies/techsouq/355182071",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "联系：+971 4 3550 600 / +966 800 850 1559 / info@techsouq.com；Bayan Business Center, DIP",
+"quote": "Contact +971 4 3550600 (+966) 800 850 1559… Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First",
+"url": "https://techsouq.com/contact-us/",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "MD 自述：中东最早的在线技术商店之一，专长难找 IT 产品，B2C + B2B",
+"quote": "Techsouq.com is one of the first & foremost on-line technology stores in the Middle East. We specialize in sourcing hard to find IT products & accessories",
+"url": "https://aeroleads.com/in/ahmadpervez",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC 机架 周边产品；2024-09 群发 power converter→interesting",
+"quote": "兴趣：MC 机架 周边产品；回复：interesting",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Ahmad Pervez",
+"title": "Managing Director",
+"email": "ahmad@techsouq.com",
+"phone": "+971 50 653 4953",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Shifan Shivani",
+"title": "Co-Founder",
+"email": "info@techsouq.com",
+"phone": "+971 4 355 0600",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（名录 + 官网核对）"
+},
+"company_facts": {
+"legal_name": "Techsouq Computers L.L.C.",
+"founded": "1999",
+"hq": "Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570）",
+"size": "约 8 人，营收约 $1M",
+"other": "WooCommerce 电商；沙特免费热线"
+},
+"business_lines": [
+"IT 产品电商（服务器、网络、外设）",
+"B2B 采购 / AMC"
+],
+"channels": {
+"role": "电商 / 经销",
+"region": "阿联酋 + 沙特"
+},
+"signals": [
+"对 MC 机架（周边）有兴趣"
+],
+"risks": [
+"电商小单、价格透明",
+"MC 机架 Saga 价目无（按 SmartByte 另询）"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。"
+},
+"email_hook": "Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set."
+}
 },
 {
 "name": "teknoktadestek.com",

@@ -1,0 +1,78 @@
+{
+ "code": "SB-004",
+ "name_official": "Tailyn Technologies, Inc.（台林电通，台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tailyn.com.tw，快照 2026-10-21）",
+ "summary": "台湾 40 年工业通信 / 电信 / 车载电子厂商（桃园，+886 3 322 2201），产品含工业交换机、PoE、L2+ 机架交换机、铁路方案（EN50155）、IEC 61850、SFP28/QSFP28；有 ODM 业务。表内 Gary / Jill 兴趣工业 FS，2025-07 对 Alarm 功能回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。 铁路 / 车载线守界。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "40 年工业应用 / 电信 / 车载；产品：工业通信、PoE 交换机 / 铁路方案、L2+ 机架交换机、非管理交换机；型号关键词 EN50155 / IEC61850 / QSFP28；odm 3",
+   "quote": "TAILYN has accumulated 40 years of devoted focus in industrial applications, telecommunications, telematics… PoE Switch, Railway Solution… Layer 2+ Switch… Unmanaged Switch",
+   "url": "https://tailyn.com.tw/en/home/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣工业 FS；2025-07 Alarm→INFO",
+   "quote": "兴趣：工业FS；回复：INFO",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Gary Chen",
+   "title": "（表内联系人）",
+   "email": "garychen@tailyn.com.tw",
+   "phone": "+886 3 322 2201",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Jill",
+   "title": "（表内联系人）",
+   "email": "jill@tailyn.com.tw",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：台系制造商 ODM）"
+ },
+ "company_facts": {
+  "legal_name": "Tailyn Technologies, Inc.（台林電通）",
+  "founded": "约 1985",
+  "hq": "桃园，台湾",
+  "size": "中型制造商（自有工厂）",
+  "other": "ODM 能力；铁路 / 电力认证产品线"
+ },
+ "business_lines": [
+  "工业以太网 / PoE 交换机（含 EN50155 铁路）",
+  "电信接入设备",
+  "车载 / 无线通信"
+ ],
+ "channels": {
+  "role": "台系制造商（自有工厂；潜在 ODM 买方）",
+  "region": "全球"
+ },
+ "signals": [
+  "对工业 FS 与告警功能有兴趣 → 可能找外购补充 SKU"
+ ],
+ "risks": [
+  "自有工厂 + 铁路 / 车载主业：Saga 仅能供非铁路工业入门款；守界 EN50155 不接",
+  "台系厂商口径"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业管理 PoE（带告警继电器 DI/DO）→ Saga STI-288GPM 作其入门 ODM 补充（OEM 30%）；铁路用途不供。"
+ },
+ "email_hook": "Gary, you asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price."
+}

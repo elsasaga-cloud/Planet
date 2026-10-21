@@ -1,4 +1,5 @@
 # Winsonic Electronics Co., Ltd.
+**官方名称（调研核实）**：Winsonic Electronics Co., Ltd.（台湾）
 
 > **评级 B**　|　台湾　|　档案编号 `SB-007`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-007
 rating: B
 rating_auto: B
+name_official: "Winsonic Electronics Co., Ltd.（台湾）"
 score: 71
 country: 台湾
 region: 亚太
@@ -19,9 +21,9 @@ replies: 1
 followups: 10
 first_contact: 2025-02-18
 last_contact: 2025-11-24
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+p1: STI-288GP
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾的经销/集成（类型待核）；兴趣/在卖：在用UniPoE的工业FS；工业FS 优力普的；提到的品牌：UniPoE, 优力普, FS
+- **是谁**：台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。（调研 2026-10-21；表内兴趣：在用UniPoE的工业FS；工业FS 优力普的）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-11-24）；最近一次客户回复：2025-11-24：INFO
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-007.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（ewinsonic.com，快照 2026-10-21）
+- **是谁**：台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。
+- **在卖/在用品牌**：UniPoE
+- **【官网快照】定位：工业面板 PC / 工控机 / 显示器；站内 Industrial Switch 品类；关键词 industrial 119 / switch 60 / automation 37 / poe 18 / sfp 21**
+  > Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing… Industrial Switch
+  > 来源：https://ewinsonic.com/（抓取 2026-10-21）
+- **【用户表】在用 UniPoE 的工业 FS；2025-11 升压→INFO**
+  > 兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Rex Lin（）rex.lin@ewinsonic.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系工控 OEM））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Winsonic Electronics Co., Ltd. |
+| 成立 | （待核） |
+| 总部/地址 | 台湾 |
+| 其他 | sales@ewinsonic.com |
+
+- **业务线**：工业面板 PC / 无风扇 PC / 工业显示；配套工业交换机（外购贴牌，现 UniPoE）
+- **触达通道（公开）**：role: 工控制造商（配套外购）；region: 全球
+- **近况信号**：
+  - 现用中国同行 UniPoE 工业 FS → 可同规格替换（Marvell 差异）
+  - 对升压 PoE 有兴趣（Saga 升压款待核 Q-32）
+- **风险/边界**：台系厂商口径；EN50155 车载线不供；UniPoE 价格基准低
+- **Saga 对位结论**：P1 STI-288GP（30% 档）——替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。
+- **邮件切入句（英文）**：Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -109,6 +139,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Rex Lin | — | rex.lin@ewinsonic.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Rex | — | rex.lin@ewinsonic.com / sales@ewinsonic.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -126,19 +157,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GP | 深挖对位：替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。 | $62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -146,7 +178,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 UniPoE, 优力普：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288GP 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 UniPoE, 优力普：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -170,30 +202,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Rex,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the UniPoE class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

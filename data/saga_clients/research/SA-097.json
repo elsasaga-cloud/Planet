@@ -1,8 +1,8 @@
 {
  "code": "SA-097",
- "name_official": "PIOLINK, Inc.（파이오링크，首尔；Secon 2023 参展商）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "韩国网络设备品牌厂商（ADC/安全交换机自有产品线），Secon 2023 参展商；联系人 Tae Gu Lee；需求为'Realtek 高端系列芯片'，1 次回复、24 次跟进。",
+ "name_official": "PIOLINK, Inc.（파이오링크，韩国）",
+ "website_status": "在线（piolink.com，快照 2026-10-21）",
+ "summary": "韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。",
  "type": "品牌厂商（自研交换机）",
  "size": "中型（韩国上市公司，待补证）",
  "brands_seen": [
@@ -15,6 +15,20 @@
    "quote": "参展商…想要realtek高端系列的芯片 / attn: Tae Gu Lee | telephone: 82-2-2025-6931（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "定位：云数据中心优化；TiFRONT 骨干 / 云安全交换机、云管理网络；关键词 switch 86",
+   "quote": "PIOLINK is a professional in cloud data center optimization… TiFRONT Backbone Switch… Cloud Security Switch… Cloud Managed Networking",
+   "url": "https://www.piolink.com/en/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "想要 Realtek 高端系列的芯片；2025-02 24Fiber→让加微信谈；光博会上的那个",
+   "quote": "兴趣：想要realtek高端系列的芯片；回复：让加微信谈",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -24,10 +38,50 @@
    "email": "",
    "phone": "+82-2-2025-6931 / +82-10-4301-9595",
    "source": "用户 Clients 表（Secon 2023）"
+  },
+  {
+   "name": "Tae Gu Lee (Jayden)",
+   "title": "GM",
+   "email": "gooleebiz@gmail.com",
+   "phone": "+82 10 4301 9595",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
  "notes": "若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：同行 ODM）"
+ },
+ "company_facts": {
+  "legal_name": "PIOLINK, Inc.",
+  "founded": "2000（上市公司，待核）",
+  "hq": "Seoul, Korea（+82 2 2025 6900）",
+  "size": "中型上市公司",
+  "other": "表内邮箱 cdma092@piolink.con 为笔误（.com）"
+ },
+ "business_lines": [
+  "ADC / 负载均衡",
+  "TiFRONT 安全交换机 / 骨干交换机",
+  "云管理网络 / 安全服务"
+ ],
+ "channels": {
+  "role": "交换机厂商（同行；潜在 ODM 买方）",
+  "region": "韩国 + 日本"
+ },
+ "signals": [
+  "对 24 光口机、Realtek 高端方案有兴趣 → 可能寻找 ODM 代工补充 SKU"
+ ],
+ "risks": [
+  "同行厂商：仅 ODM 口径，需 SmartByte/HRUI 原厂配合（Saga 为贸易商）",
+  "表内邮箱域名笔误 .con，需改 .com"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM(L3)",
+  "tier": 30,
+  "why": "24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。"
+ },
+ "email_hook": "Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?"
 }

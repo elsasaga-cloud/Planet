@@ -1,4 +1,5 @@
 # AD-NET TECHNOLOGY CO., LTD.
+**官方名称（调研核实）**：AD-NET Technology Co., Ltd.（台湾）
 
 > **评级 B**　|　台湾　|　档案编号 `SB-002`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-002
 rating: B
 rating_auto: B
+name_official: "AD-NET Technology Co., Ltd.（台湾）"
 score: 83
 country: 台湾
 region: 亚太
@@ -19,9 +21,9 @@ replies: 1
 followups: 20
 first_contact: 2024-05-02
 last_contact: 2025-10-23
-p1: STI-110GE
+p1: STI-21616GP
 price_tier: 30%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：台湾的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：MC FS VC 自己的品牌 应该是从深圳拿的产品；提到的品牌：FS
+- **是谁**：台湾光纤传输 / 工业通信品牌（媒体转换器、E1/SDH/PDH、GEPON、视频光端机、工业 PoE / 工业交换机、串口联网、光模块），站内工业与交换机词频极高；表内注「自己的品牌，应该是从深圳拿的产品」，2025-09 对 2 光 16 管理回复「M12 Switch??」（要 M12 接口工业机 — Saga 无）。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。（调研 2026-10-21；表内兴趣：MC FS VC 自己的品牌 应该是从深圳拿的产品）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 20 次（2024-05-02 → 2025-10-23）；最近一次客户回复：2025-09-17：M12 Switch??
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-21616GP — 深挖对位：其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。；$184.6 USD EXW（30% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,34 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-002.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（ad-net.com.tw，快照 2026-10-21）
+- **是谁**：台湾光纤传输 / 工业通信品牌（媒体转换器、E1/SDH/PDH、GEPON、视频光端机、工业 PoE / 工业交换机、串口联网、光模块），站内工业与交换机词频极高；表内注「自己的品牌，应该是从深圳拿的产品」，2025-09 对 2 光 16 管理回复「M12 Switch??」（要 M12 接口工业机 — Saga 无）。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。
+- **【官网快照】产品线：MC、E1 转换、FTTx、光模块、工业通信、工业 PoE、光纤交换机；关键词 switch 197 / industrial 117 / poe 51 / fiber 366**
+  > Media converter, Ethernet converter, E1 converter, Fiber modem… Industrial POE… Industrial Ethernet Switches… Fiber Optical Switches
+  > 来源：https://www.ad-net.com.tw/（抓取 2026-10-21）
+- **【用户表】MC FS VC 自己的品牌，应该是从深圳拿的产品；2025-09 2 16 管理→M12 Switch??**
+  > 兴趣：MC FS VC 自己的品牌 应该是从深圳拿的产品；回复：M12 Switch??
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Robin（）robin@ad-net.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系品牌 OEM））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | AD-NET Technology Co., Ltd. |
+| 成立 | （待核） |
+| 总部/地址 | 台湾 |
+| 其他 | info@ad-net.com.tw |
+
+- **业务线**：光纤媒体转换 / E1 / SDH；工业以太网 / 工业 PoE 交换机（贴牌）；视频光端机 / GEPON
+- **触达通道（公开）**：role: 品牌商（深圳贴牌采购）；region: 全球
+- **近况信号**：
+  - 整条工业 / 交换机线靠贴牌 → OEM 30% 对象
+  - 最新需求 M12 工业交换机（Saga 无，缺口记录）
+- **风险/边界**：台系品牌商口径（仅 OEM）；M12 / EN50155 车载类需求 Saga 不做
+- **Saga 对位结论**：P1 STI-21616GP（30% 档）——其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。
+- **邮件切入句（英文）**：Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -116,7 +145,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robin | — | robin@ad-net.com.tw / info@ad-net.com.tw | 用户表原值 | Clients/ 表 |
+| Robin | — | robin@ad-net.com.tw | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -133,7 +162,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STI-21616GP | 深挖对位：其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。 | $184.6 USD EXW（30% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -142,9 +171,9 @@ updated: 2026-10-21
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-21616GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-21616GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -154,7 +183,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-110GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-21616GP 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -178,19 +207,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Robin,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $184.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

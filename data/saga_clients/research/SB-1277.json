@@ -1,0 +1,71 @@
+{
+ "code": "SB-1277",
+ "name_official": "ARA（ara.com.bd，孟加拉国）",
+ "researched_at": "2026-10-21",
+ "website_status": "域名不可达（ara.com.bd）",
+ "summary": "孟加拉国网络经销商（MD. Chan Miah Sarker），海关数据显示买过磊通（Leitong）设备，Switch / MC / 周边，非自有品牌；support@ 退信（发不过去），备用 gmail；2023-02 对商用 PoE 价目回复 thanks。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Leitong（磊通）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "ara.com.bd 不可达",
+   "quote": "status unreachable",
+   "url": "http://ara.com.bd/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "买的磊通的一些设备；Switch MC 周边产品，不是自己的牌子；support@ 发不过去；2023-02 thanks",
+   "quote": "兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "MD. Chan Miah Sarker",
+   "title": "（经营者）",
+   "email": "smchan91@gmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照不可达 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "ARA（待核）",
+  "founded": "",
+  "hq": "孟加拉国",
+  "size": "小型经销",
+  "other": "support@ara.com.bd 退信；域名失效"
+ },
+ "business_lines": [
+  "网络设备经销（交换机 / MC / 配件）"
+ ],
+ "channels": {
+  "role": "经销商（从中国同行采购）",
+  "region": "孟加拉国"
+ },
+ "signals": [
+  "已从中国同行（磊通）进口同类 → 需求真实"
+ ],
+ "risks": [
+  "域名失效、官方邮箱退信，仅 gmail",
+  "孟加拉付款 L/C 繁琐"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "经销同类商用 PoE → STC-28DGGPM 起手（分销 20%）。"
+ },
+ "email_hook": "Mr. Sarker, you've imported PoE switches and media converters before — for a first mixed carton from us (8-PoE managed + gigabit MC), what quantities would make the Chittagong freight sensible?"
+}

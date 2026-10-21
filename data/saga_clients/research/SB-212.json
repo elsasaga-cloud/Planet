@@ -1,0 +1,72 @@
+{
+ "code": "SB-212",
+ "name_official": "Bio-Cognitive Pte Ltd（新加坡）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bio-cognitive.com，快照 2026-10-21）",
+ "summary": "新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：物理 + IT + OT 融合安全；关键词 industrial 121 / scada 48 / surveillance 42 / access control 20；+65 6553 2128",
+   "quote": "Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring… ISA-62443",
+   "url": "https://www.bio-cognitive.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "兴趣 16 电 / VC 安防 / 网站 CCTV；2025-07 PoE→问了一个型号；备注可以多跟进一下",
+   "quote": "兴趣：16电 VC 安防 网站：CCTV；回复：问了一个型号",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Amy Hoi",
+   "title": "（表内联系人，备注可多跟进）",
+   "email": "amyhoi@bio-cognitive.com",
+   "phone": "+65 9656 8498",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Bio-Cognitive Pte Ltd（待核）",
+  "founded": "",
+  "hq": "Singapore",
+  "size": "小型安防服务商",
+  "other": "enquiries@bio-cognitive.com；+65 6553 2128"
+ },
+ "business_lines": [
+  "物理安防集成（生物识别门禁、监控）",
+  "OT / SCADA 安全评估与服务",
+  "7×24 监控"
+ ],
+ "channels": {
+  "role": "安防 + OT 安全集成商",
+  "region": "新加坡 + 工业客户"
+ },
+ "signals": [
+  "问过具体 PoE 型号（2025-07）",
+  "OT / 工业设施客户 → 工业 PoE 场景"
+ ],
+ "risks": [
+  "OT 安全顾问型公司，硬件采购量小",
+  "新加坡项目对品牌 / 认证敏感"
+ ],
+ "saga_fit": {
+  "p1": "STI-21616GP",
+  "tier": 25,
+  "why": "16 电口 PoE + 工业设施场景 → Saga STI-21616GP（$170.4/177.5/184.6）；商用机房版 STC-2216GPM（HRUI 列表 $137.5）备选。"
+ },
+ "email_hook": "Amy, following your July question on the PoE model — for the 16-port requirement, is it going into a plant / OT cabinet (DIN-rail, −40~75 ℃) or a comms room rack? I'll send the matching sheet and 1-pc price."
+}

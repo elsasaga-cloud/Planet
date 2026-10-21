@@ -1,0 +1,58 @@
+{
+ "code": "SB-1009",
+ "name_official": "Musine（肯尼亚；个人 gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣千兆 PoE MC；回复 interested",
+   "quote": "兴趣：千兆PoE MC；回复：interested",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Musine",
+   "title": "（表内联系人）",
+   "email": "wafulamusine@gmail.com",
+   "phone": "+254 758 361 672",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "肯尼亚",
+  "size": "",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（未知，疑安装商）",
+  "region": "肯尼亚"
+ },
+ "signals": [
+  "明确口型：千兆 PoE MC"
+ ],
+ "risks": [
+  "身份不明；东非付款 T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STI-111GP",
+  "tier": 25,
+  "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
+ },
+ "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?"
+}

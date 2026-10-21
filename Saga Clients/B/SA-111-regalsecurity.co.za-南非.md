@@ -1,5 +1,5 @@
 # regalsecurity.co.za
-**官方名称（调研核实）**：Regal Distributors SA (Pty) Ltd（Regal Security，约翰内斯堡，南非）
+**官方名称（调研核实）**：Regal Distributors SA (Pty) Ltd（Regal Security Distributors）
 
 > **评级 B**　|　南非　|　档案编号 `SA-111`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-111
 rating: B
 rating_auto: A
 rating_research: B  # 体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertec
-name_official: "Regal Distributors SA (Pty) Ltd（Regal Security，约翰内斯堡，南非）"
+name_official: "Regal Distributors SA (Pty) Ltd（Regal Security Distributors）"
 score: 67
 country: 南非
 region: 非洲
@@ -22,8 +22,8 @@ replies: 1
 followups: 19
 first_contact: 2024-02-12
 last_contact: 2025-11-05
-p1: STI-110GE
-price_tier: 20%
+p1: STC-228GP
+price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：南非最大的多品牌电子安防分销商之一（1981 年起，30+ 分支，201–500 人，4,000+ SKU；Hikvision/Paxton/ZKTeco/Hanwha 全国分销伙伴），用户记录其 MC/PoE/FS 主要来自 Upeto、Planet、itoonertech 三个品牌；1 次回复、19 次跟进。（调研 2026-10-21；表内兴趣：MC PoE FS 主要是Upeto planet和itoonertech这3个牌子的）
+- **是谁**：南非最大多品牌电子安防分销商之一（1981 年，201–500 人，29–30 家分支，覆盖非洲 29 国），网络类在售 **PLANET（GS-4210-8P2S）、Genata、TP-Link/Omada、Hikvision 交换机、UTEPO/ITooner**，并有自有标 Securi-Prod / Sola-Prod / Powa-Prod；表内 IT 总监 Jacques Plessis，2025-10 已给 2+2+8 PoE 报价。规模偏大但有互动 + 自有标 → 保留 B，OEM 切口。（调研 2026-10-21；表内兴趣：MC PoE FS 主要是Upeto planet和itoonertech这3个牌子的）
 - **为什么是 B 级**：**调研后定级 B**（体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 19 次（2024-02-12 → 2025-11-05）；最近一次客户回复：2024-10-16：发了一个报价2+2+8的
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -67,11 +67,11 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
-- **是谁**：南非最大的多品牌电子安防分销商之一（1981 年起，30+ 分支，201–500 人，4,000+ SKU；Hikvision/Paxton/ZKTeco/Hanwha 全国分销伙伴），用户记录其 MC/PoE/FS 主要来自 Upeto、Planet、itoonertech 三个品牌；1 次回复、19 次跟进。
+- **状态：已调研（2026-10-21）**　网站状态：在线（regalsecurity.co.za；快照 HTTP 错误，web 可达）
+- **是谁**：南非最大多品牌电子安防分销商之一（1981 年，201–500 人，29–30 家分支，覆盖非洲 29 国），网络类在售 **PLANET（GS-4210-8P2S）、Genata、TP-Link/Omada、Hikvision 交换机、UTEPO/ITooner**，并有自有标 Securi-Prod / Sola-Prod / Powa-Prod；表内 IT 总监 Jacques Plessis，2025-10 已给 2+2+8 PoE 报价。规模偏大但有互动 + 自有标 → 保留 B，OEM 切口。
 - **类型**：大型区域安防分销商
 - **规模**：大型（201–500 人，30+ 分支）
-- **在卖/在用品牌**：Hikvision, Paxton, ZKTeco, Hanwha Vision, DMP, Upeto（用户记录）, Planet（用户记录）, itoonertech（用户记录）
+- **在卖/在用品牌**：Hikvision, Paxton, ZKTeco, Hanwha Vision, DMP, Upeto（用户记录）, Planet（用户记录）, itoonertech（用户记录）, PLANET, Genata, TP-Link, UTEPO, ITooner, Ajax, Hanwha
 - **【官网】1981 年成立，29 个分支，南非最成功的多品牌安防分销商**
   > 29 The number of branches conveniently located across South Africa… 1981 The year Regal Distributors SA(Pty)Ltd was established… South Africa's most successful multi-brand distributors of electronic security equipment
   > 来源：https://regalsecurity.co.za/（抓取 2026-10-21）
@@ -81,10 +81,51 @@ updated: 2026-10-21
 - **【公司简介 PDF】32 个分支（2023），Hikvision/Paxton/ZKTeco/Hanwha 分销伙伴**
   > Regal Security has grown from just 2 branches to 32 – nationwide! We are distribution partners for… Hikvision, Paxton, ZKTeco, and Hanwha Vision
   > 来源：https://schoolscape.co.za/wp-content/uploads/2025/02/Regal-Company-Profile.pdf（抓取 2026-10-21）
+- **【官网】1981 年成立，29 国，45 年，南非最成功的多品牌安防分销商**
+  > 1981 The year Regal Distributors SA(Pty)Ltd was established. 45 years later we continue to be South Africa's most successful multi-brand distributors of electronic security equipment… 29 The number of countries across Africa
+  > 来源：https://regalsecurity.co.za/（抓取 2026-10-21）
+- **【LinkedIn】201–500 人；品牌 Ajax、EZVIZ、Hikvision、Paxton、ZKTeco、Genetec、Hanwha**
+  > preferred distribution partner for… Ajax, EZVIZ, Hikvision, Paxton, ZKTeco, Genetec, Seagate, and Hanwha Vision… Company size: 201-500 employees… Founded: 1981
+  > 来源：https://za.linkedin.com/company/r-distributors（抓取 2026-10-21）
+- **【官网】网络品类品牌：Genata、TP-Link、Omada、Mercusys、Hikvision；在售 PLANET GS-4210-8P2S**
+  > Networking: Genata, TP-Link, Omada, Mercusys, Hikvision… PLANET 8 Port Gigabit Managed PoE + 2 Shared SFP Uplink Switch… GS-4210-8P2S-EU
+  > 来源：https://regalsecurity.co.za/network-switches/968-planet-8-port-gigabit-managed-poe-2-shared-sfp-uplink-switch.html（抓取 2026-10-21）
+- **【名录】自有标 Securi-Prod / Sola-Prod / Powa-Prod；30 家分支**
+  > 30‑branch national network… in‑house labels like Securi‑Prod, Sola‑Prod and Powa‑Prod
+  > 来源：https://johannesburglists.com/regal-distributors-sa-services-jobs-contact-details/（抓取 2026-10-21）
+- **【用户表】MC PoE FS，主要是 Upeto / planet / itoonertech 三个牌子；2025-10 28poe→发了一个报价 2+2+8 的**
+  > 兴趣：MC PoE FS 主要是Upeto planet和itoonertech这3个牌子的；回复：发了一个报价2+2+8的
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表（'邮件中有详细的联系信息'）〕
+- **KP**：Jacques Plessis（）enquiries@regalsecurity.co.za +27 87 802 3920〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Josephine（）sales@regalsecurity.co.za 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。
 - 备注：重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Regal Distributors SA (Pty) Ltd |
+| 成立 | 1981 |
+| 总部/地址 | Johannesburg, Gauteng, South Africa |
+| 其他 | 自有标 Securi-Prod 等；电商平台 |
+
+- **业务线**：电子安防分销（监控、门禁、报警、自动化、对讲）；网络（PoE 交换机、无线、PoE 配件）；自有品牌电源 / 太阳能 / 配件
+
+| 在卖/在用（深挖所见） | 型号 | 规格要点 | Saga 对位 | 出处 |
+|---|---|---|---|---|
+| PLANET | GS-4210-8P2S | 8 PoE + 2 SFP 管理 | Saga STC-28DGGPM（$80.7/84.1/87.4） | https://regalsecurity.co.za/network-switches/968-planet-8-port-gigabit-managed-poe-2-shared-sfp-uplink-switch.html（2026-10-21） |
+| Genata | 8 Port PoE Outdoor + 2 GE + 1 SFP | 室外 PoE | 无 IP67/室外款（缺口） | https://regalsecurity.co.za/new-products?id=107（2026-10-21） |
+
+- **触达通道（公开）**：role: 大型区域分销商（有自有标）；region: 南非 + 撒哈拉以南 29 国
+- **近况信号**：
+  - 已报价 2+2+8（2025-10）
+  - 自有标体系成熟 → Securi-Prod 网络线贴牌入口
+  - 在售 PLANET 同口型 → 直接对价
+- **风险/边界**：规模大（201–500 人）：按继承规则接近「巨头」边界，决策链长、压价强；保留 B 因有互动与自有标；Genata / UTEPO 中国低价线已占位
+- **Saga 对位结论**：P1 STC-228GP（30% 档）——已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。
+- **邮件切入句（英文）**：Jacques, following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -143,8 +184,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Josephine | — | enquiries@regalsecurity.co.za / sales@regalsecurity.co.za | 用户表原值 | Clients/ 表 |
-| Jacques Plessis | — | enquiries@regalsecurity.co.za / sales@regalsecurity.co.za | 用户表原值 | Clients/ 表 |
+| Jacques Plessis | — | enquiries@regalsecurity.co.za / +27 87 802 3920 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Josephine | — | sales@regalsecurity.co.za | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -161,20 +202,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（大型区域安防分销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-228GP | 深挖对位：已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。 | $30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 30%（大型区域安防分销商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -182,7 +223,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Upeto, planet：涨价、断货或交期拉长时切入；规模（调研）：大型（201–500 人，30+ 分支）
+- **O**：P1 STC-228GP 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Upeto, planet：涨价、断货或交期拉长时切入；规模（调研）：大型（201–500 人，30+ 分支）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -211,25 +252,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hi Josephine,
+Hi Jacques,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Jacques, following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the Upeto class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,4 +1,5 @@
 # techsouq.com
+**官方名称（调研核实）**：Techsouq Computers L.L.C.（Dubai）
 
 > **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-739`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-739
 rating: B
 rating_auto: B
+name_official: "Techsouq Computers L.L.C.（Dubai）"
 score: 34
 country: 沙特阿拉伯
 region: 中东
@@ -21,7 +23,7 @@ first_contact: 2024-09-08
 last_contact: 2025-10-22
 p1: STI-110GE
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯的经销/集成（类型待核）；兴趣/在卖：MC 机架 周边产品
+- **是谁**：迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。（调研 2026-10-21；表内兴趣：MC 机架 周边产品）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-25 邮件发不过去且无 WhatsApp 通道；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 15 次（2024-09-08 → 2025-10-22）；最近一次客户回复：2024-09-08：interesting
-- **P1（下一步唯一主推）**：STI-110GE — 工业迷你 1 光 1 电（MC 位）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,40 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-739.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（techsouq.com；快照 HTTP 错误，web 可达）
+- **是谁**：迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。
+- **【名录】迪拜 IT 网店，1999 年，8 人，$948K；MD Ahmad Pervez**
+  > Techsouq Computers is an online IT store based in Dubai, UAE… Revenue $948 K… Employees 8… Founded 1999… Ahmad Pervez Managing Director
+  > 来源：https://www.datanyze.com/companies/techsouq/355182071（抓取 2026-10-21）
+- **【官网】联系：+971 4 3550 600 / +966 800 850 1559 / info@techsouq.com；Bayan Business Center, DIP**
+  > Contact +971 4 3550600 (+966) 800 850 1559… Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First
+  > 来源：https://techsouq.com/contact-us/（抓取 2026-10-21）
+- **【LinkedIn】MD 自述：中东最早的在线技术商店之一，专长难找 IT 产品，B2C + B2B**
+  > Techsouq.com is one of the first & foremost on-line technology stores in the Middle East. We specialize in sourcing hard to find IT products & accessories
+  > 来源：https://aeroleads.com/in/ahmadpervez（抓取 2026-10-21）
+- **【用户表】MC 机架 周边产品；2024-09 群发 power converter→interesting**
+  > 兴趣：MC 机架 周边产品；回复：interesting
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ahmad Pervez（）ahmad@techsouq.com +971 50 653 4953〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Shifan Shivani（）info@techsouq.com +971 4 355 0600〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 官网核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Techsouq Computers L.L.C. |
+| 成立 | 1999 |
+| 总部/地址 | Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570） |
+| 其他 | WooCommerce 电商；沙特免费热线 |
+
+- **业务线**：IT 产品电商（服务器、网络、外设）；B2B 采购 / AMC
+- **触达通道（公开）**：role: 电商 / 经销；region: 阿联酋 + 沙特
+- **近况信号**：
+  - 对 MC 机架（周边）有兴趣
+- **风险/边界**：电商小单、价格透明；MC 机架 Saga 价目无（按 SmartByte 另询）
+- **Saga 对位结论**：P1 STI-110GE（20% 档）——MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。
+- **邮件切入句（英文）**：Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -115,7 +150,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmad Pervez | — | info@techsouq.com / ahmad@techsouq.com / +97143550600 | 用户表原值 | Clients/ 表 |
+| Ahmad Pervez | — | ahmad@techsouq.com / +971 50 653 4953 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Shifan Shivani | — | info@techsouq.com / +971 4 355 0600 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 
@@ -132,7 +168,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-110GE | 深挖对位：MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。 | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -177,7 +213,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
@@ -188,7 +223,7 @@ updated: 2026-10-21
 ```text
 Hi Ahmad,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.
 
 We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

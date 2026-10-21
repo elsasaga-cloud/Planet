@@ -1,5 +1,5 @@
 # avanca.com.sg
-**官方名称（调研核实）**：Avanca（avanca.com.sg，新加坡）
+**官方名称（调研核实）**：Avanca Technologies Pte Ltd（新加坡）
 
 > **评级 B**　|　新加坡　|　档案编号 `SA-132`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-132
 rating: B
 rating_auto: A
 rating_research: B  # 在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。
-name_official: "Avanca（avanca.com.sg，新加坡）"
+name_official: "Avanca Technologies Pte Ltd（新加坡）"
 score: 62
 country: 新加坡
 region: 亚太
@@ -22,7 +22,7 @@ replies: 1
 followups: 11
 first_contact: 2024-02-04
 last_contact: 2024-10-17
-p1: STI-288DGGPM
+p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：新加坡工业自动化/网络产品经销商，在售 Red Lion 工业 FS（用户记录），1 次回复、11 次跟进，最近 2024 年。（调研 2026-10-21；表内兴趣：redlion的工业FS）
+- **是谁**：新加坡工业通信分销商：工业 4G/5G 路由（R5020、M1200）、工业管理 / 非管理交换机、PoE、光纤 MC（Red Lion N-Tron NT24K 等），GM Steven Fu；表内兴趣 Red Lion 工业 FS，2025-11 对 10G MC 群发回复 info。（调研 2026-10-21；表内兴趣：redlion的工业FS）
 - **为什么是 B 级**：**调研后定级 B**（在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；推送 11 次（2024-02-04 → 2024-10-17）；最近一次客户回复：116：info
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：工业管理 PoE 交换机 → Saga STI-288GPM（$78.9/82.2/85.5）作 Red Lion 价位下的第二品牌；10G MC 按 SmartByte 另询。；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -67,18 +67,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：新加坡工业自动化/网络产品经销商，在售 Red Lion 工业 FS（用户记录），1 次回复、11 次跟进，最近 2024 年。
+- **状态：已调研（2026-10-21）**　网站状态：在线（avanca.com.sg，快照 2026-10-21）
+- **是谁**：新加坡工业通信分销商：工业 4G/5G 路由（R5020、M1200）、工业管理 / 非管理交换机、PoE、光纤 MC（Red Lion N-Tron NT24K 等），GM Steven Fu；表内兴趣 Red Lion 工业 FS，2025-11 对 10G MC 群发回复 info。
 - **类型**：工业产品经销商
 - **规模**：待补证
-- **在卖/在用品牌**：Red Lion（用户记录：在售）
+- **在卖/在用品牌**：Red Lion（用户记录：在售）, Red Lion
 - **【用户记录】Red Lion 工业 FS；1 次回复 / 11 次；2024**
   > redlion的工业FS；邮件中有详细的联系信息（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】产品线：工业 4G/5G 路由、工业管理 / 非管理交换机、PoE、MC；关键词 industrial 130 / switch 56 / media converter 38；型号 NT24K（Red Lion）**
+  > Industrial 4G/5G Routers Modems Singapore… Industrial Managed Ethernet Switches - PoE… Fiber Optic Media Converters… models NT24K… +65 6242 5108
+  > 来源：https://avanca.com.sg/（抓取 2026-10-21）
+- **【用户表】兴趣 redlion 的工业 FS；2025-11 群发 10gmc→info**
+  > 兴趣：redlion的工业FS；回复：info
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表〕
+- **KP**：Steven Fu（）steven@avanca.com.sg +65 6242 5108〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。
 - 备注：重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Avanca Technologies Pte Ltd |
+| 成立 | （待核） |
+| 总部/地址 | Singapore |
+| 其他 | sales@avanca.com.sg |
+
+- **业务线**：工业 4G/5G 路由 / 调制解调器；工业以太网交换机 / PoE / MC（Red Lion 等）
+- **触达通道（公开）**：role: 工业通信分销商；region: 新加坡 + 东南亚
+- **近况信号**：
+  - 整站工业交换机 / MC 品类 → 需要低价第二品牌补 Red Lion 价位空缺
+- **风险/边界**：Red Lion 高端定位客户对认证要求高；新加坡小量
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——工业管理 PoE 交换机 → Saga STI-288GPM（$78.9/82.2/85.5）作 Red Lion 价位下的第二品牌；10G MC 按 SmartByte 另询。
+- **邮件切入句（英文）**：Steven, below the N-Tron price points — would a Marvell-based DIN-rail managed PoE switch (8 PoE + 2 SFP, −40~75 ℃, CE/FCC) fill a gap in your industrial range? 1-pc sample, neutral packing.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -132,7 +155,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Steven Fu | — | sales@avanca.com.sg / steven@avanca.com.sg | 用户表原值 | Clients/ 表 |
+| Steven Fu | — | steven@avanca.com.sg / +65 6242 5108 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -149,17 +172,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（工业产品经销商） |
+| **P1** | STI-288GPM | 深挖对位：工业管理 PoE 交换机 → Saga STI-288GPM（$78.9/82.2/85.5）作 Red Lion 价位下的第二品牌；10G MC 按 SmartByte 另询。 | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业产品经销商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -169,7 +193,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 redlion：涨价、断货或交期拉长时切入；规模（调研）：待补证
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 redlion：涨价、断货或交期拉长时切入；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -197,25 +221,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Steven,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Steven, below the N-Tron price points — would a Marvell-based DIN-rail managed PoE switch (8 PoE + 2 SFP, −40~75 ℃, CE/FCC) fill a gap in your industrial range? 1-pc sample, neutral packing.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the redlion class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

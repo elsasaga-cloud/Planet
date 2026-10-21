@@ -1,0 +1,47 @@
+{
+ "code": "SB-1283",
+ "name_official": "（个人 gmail，埃塞俄比亚 +251 955）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣千兆双纤 20KM 工业模块；2022-12 一直是一个对勾没看信息",
+   "quote": "兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "埃塞俄比亚",
+  "size": "",
+  "other": "gmail mulugetawendosen@"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "埃塞俄比亚"
+ },
+ "risks": [
+  "需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "SFP 模块不在价目；无主推型。"
+ },
+ "email_hook": "（不主动发送）"
+}

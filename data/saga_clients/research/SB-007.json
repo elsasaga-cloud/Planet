@@ -1,0 +1,73 @@
+{
+ "code": "SB-007",
+ "name_official": "Winsonic Electronics Co., Ltd.（台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ewinsonic.com，快照 2026-10-21）",
+ "summary": "台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "UniPoE"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：工业面板 PC / 工控机 / 显示器；站内 Industrial Switch 品类；关键词 industrial 119 / switch 60 / automation 37 / poe 18 / sfp 21",
+   "quote": "Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing… Industrial Switch",
+   "url": "https://ewinsonic.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用 UniPoE 的工业 FS；2025-11 升压→INFO",
+   "quote": "兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Rex Lin",
+   "title": "（采购 / 产品，表内联系人）",
+   "email": "rex.lin@ewinsonic.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：台系工控 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "Winsonic Electronics Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "台湾",
+  "size": "中型工控制造商",
+  "other": "sales@ewinsonic.com"
+ },
+ "business_lines": [
+  "工业面板 PC / 无风扇 PC / 工业显示",
+  "配套工业交换机（外购贴牌，现 UniPoE）"
+ ],
+ "channels": {
+  "role": "工控制造商（配套外购）",
+  "region": "全球"
+ },
+ "signals": [
+  "现用中国同行 UniPoE 工业 FS → 可同规格替换（Marvell 差异）",
+  "对升压 PoE 有兴趣（Saga 升压款待核 Q-32）"
+ ],
+ "risks": [
+  "台系厂商口径；EN50155 车载线不供",
+  "UniPoE 价格基准低"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。"
+ },
+ "email_hook": "Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first."
+}

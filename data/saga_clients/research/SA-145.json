@@ -1,8 +1,8 @@
 {
  "code": "SA-145",
- "name_official": "Neowine Co., Ltd.（韩国；Secon 2023 隔壁展位）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "韩国公司（Secon 2023 相邻展位参展商），提出想做 Saga 代理但不懂交换机产品；联系人 John H. Lee（李孝乘）；1 次回复、27 次跟进。",
+ "name_official": "Neowine Co., Ltd.（네오와인，韩国）",
+ "website_status": "在线（neowine.com，快照 2026-10-21，韩语）",
+ "summary": "韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。",
  "type": "潜在代理（非本行业）",
  "size": "待补证",
  "brands_seen": [],
@@ -11,6 +11,20 @@
    "kind": "用户记录",
    "claim": "隔壁摊位参展商，想当代理商，不懂产品；27 次跟进 1 次回复",
    "quote": "隔壁摊位参展商，想给我们当代理商，不懂我们产品 / attn: John H.Lee/李孝乘 | telephone: 82-31-620-1250（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "定位：fabless 防复制 / IoT 安全芯片设计，2002 年",
+   "quote": "네오와인은 복제방지칩·IoT 보안칩·AI 반도체 IP를 설계하는 팹리스 기업입니다. 2002년 설립 이후 누적 2억 개를 2,000여 기업에 공급했습니다",
+   "url": "https://neowine.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "隔壁摊位参展商，想当代理商，不懂我们产品；2025-01 48 口→sample",
+   "quote": "兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品；回复：sample",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,10 +36,56 @@
    "email": "",
    "phone": "+82-31-620-1250 / +82-10-8911-3702",
    "source": "用户 Clients 表（Secon 2023）"
+  },
+  {
+   "name": "John H. Lee（李孝乘）",
+   "title": "CEO",
+   "email": "godinus@neowine.com",
+   "phone": "+82 31 620 1250",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Dexter Kim",
+   "title": "Director",
+   "email": "dexter@neowine.com",
+   "phone": "+82 10 8911 3702",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
  "grade_override": "B",
  "override_reason": "非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。",
  "notes": "不再主动推送；对方主动来再谈。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：行业外）"
+ },
+ "company_facts": {
+  "legal_name": "Neowine Co., Ltd.",
+  "founded": "2002",
+  "hq": "韩国（京畿道，+82 31）",
+  "size": "中小型 fabless",
+  "other": "SECON 2023 相邻展位"
+ },
+ "business_lines": [
+  "防复制芯片 ALPU / IoT 安全芯片 / AI IP"
+ ],
+ "channels": {
+  "role": "行业外（半导体），自荐代理",
+  "region": "韩国"
+ },
+ "signals": [
+  "CEO 直接接触、主动提代理",
+  "曾索 48 口样品"
+ ],
+ "risks": [
+  "不懂网络产品、无渠道 → 代理不可行；行业外",
+  "韩国市场对白牌接受度低"
+ ],
+ "saga_fit": {
+  "p1": "STC-448DGGPM",
+  "tier": 20,
+  "why": "其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。"
+ },
+ "email_hook": "Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage."
 }

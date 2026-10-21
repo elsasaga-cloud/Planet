@@ -1,5 +1,5 @@
 # PIOLINK
-**官方名称（调研核实）**：PIOLINK, Inc.（파이오링크，首尔；Secon 2023 参展商）
+**官方名称（调研核实）**：PIOLINK, Inc.（파이오링크，韩国）
 
 > **评级 B**　|　韩国　|　档案编号 `SA-097`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -10,7 +10,7 @@ code: SA-097
 rating: B
 rating_auto: A
 rating_research: B  # 品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realte
-name_official: "PIOLINK, Inc.（파이오링크，首尔；Secon 2023 参展商）"
+name_official: "PIOLINK, Inc.（파이오링크，韩国）"
 score: 69
 country: 韩国
 region: 亚太
@@ -22,7 +22,7 @@ replies: 1
 followups: 24
 first_contact: 2024-05-01
 last_contact: 2025-10-29
-p1: STC-28DGGPM
+p1: STC-424XGGM(L3)
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -32,10 +32,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：韩国网络设备品牌厂商（ADC/安全交换机自有产品线），Secon 2023 参展商；联系人 Tae Gu Lee；需求为'Realtek 高端系列芯片'，1 次回复、24 次跟进。（调研 2026-10-21；表内兴趣：想要realtek高端系列的芯片）
+- **是谁**：韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。（调研 2026-10-21；表内兴趣：想要realtek高端系列的芯片）
 - **为什么是 B 级**：**调研后定级 B**（品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 24 次（2024-05-01 → 2025-10-29）；最近一次客户回复：2025-02-18：让加微信谈
-- **P1（下一步唯一主推）**：STC-28DGGPM — 官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424XGGM(L3) — 深挖对位：24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。；$291.5 USD EXW（30% 档，SmartByte LT-S8528XG-4XS24GT 1500 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -57,18 +57,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：韩国网络设备品牌厂商（ADC/安全交换机自有产品线），Secon 2023 参展商；联系人 Tae Gu Lee；需求为'Realtek 高端系列芯片'，1 次回复、24 次跟进。
+- **状态：已调研（2026-10-21）**　网站状态：在线（piolink.com，快照 2026-10-21）
+- **是谁**：韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。
 - **类型**：品牌厂商（自研交换机）
 - **规模**：中型（韩国上市公司，待补证）
 - **在卖/在用品牌**：PIOLINK（自有）
 - **【用户记录】参展商，想要 Realtek 高端系列芯片；联系人 Tae Gu Lee**
   > 参展商…想要realtek高端系列的芯片 / attn: Tae Gu Lee | telephone: 82-2-2025-6931（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】定位：云数据中心优化；TiFRONT 骨干 / 云安全交换机、云管理网络；关键词 switch 86**
+  > PIOLINK is a professional in cloud data center optimization… TiFRONT Backbone Switch… Cloud Security Switch… Cloud Managed Networking
+  > 来源：https://www.piolink.com/en/（抓取 2026-10-21）
+- **【用户表】想要 Realtek 高端系列的芯片；2025-02 24Fiber→让加微信谈；光博会上的那个**
+  > 兴趣：想要realtek高端系列的芯片；回复：让加微信谈
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Tae Gu Lee（（用户记录）） +82-2-2025-6931 / +82-10-4301-9595〔用户 Clients 表（Secon 2023）〕
+- **KP**：Tae Gu Lee (Jayden)（）gooleebiz@gmail.com +82 10 4301 9595〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。
 - 备注：若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：同行 ODM））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | PIOLINK, Inc. |
+| 成立 | 2000（上市公司，待核） |
+| 总部/地址 | Seoul, Korea（+82 2 2025 6900） |
+| 其他 | 表内邮箱 cdma092@piolink.con 为笔误（.com） |
+
+- **业务线**：ADC / 负载均衡；TiFRONT 安全交换机 / 骨干交换机；云管理网络 / 安全服务
+- **触达通道（公开）**：role: 交换机厂商（同行；潜在 ODM 买方）；region: 韩国 + 日本
+- **近况信号**：
+  - 对 24 光口机、Realtek 高端方案有兴趣 → 可能寻找 ODM 代工补充 SKU
+- **风险/边界**：同行厂商：仅 ODM 口径，需 SmartByte/HRUI 原厂配合（Saga 为贸易商）；表内邮箱域名笔误 .con，需改 .com
+- **Saga 对位结论**：P1 STC-424XGGM(L3)（30% 档）——24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。
+- **邮件切入句（英文）**：Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -139,7 +162,7 @@ updated: 2026-10-21
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Tae Gu Lee | （用户记录） | +82-2-2025-6931 / +82-10-4301-9595 | 调研核实（公开页） | 用户 Clients 表（Secon 2023） |
-| Tae Gu Lee  Jayden | Team Leader/ GM | gooleebiz@gmail.com / cdma092@piolink.con / +82220256931 | 用户表原值 | Clients/ 表 |
+| Tae Gu Lee (Jayden) | — | gooleebiz@gmail.com / +82 10 4301 9595 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -156,17 +179,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌厂商（自研交换机）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGM(L3) | 深挖对位：24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。 | $291.5 USD EXW（30% 档，SmartByte LT-S8528XG-4XS24GT 1500 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌厂商（自研交换机）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM(L3)），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGM(L3) 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -176,7 +200,7 @@ updated: 2026-10-21
 
 - **S**：有 1 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（韩国上市公司，待补证）
+- **O**：P1 STC-424XGGM(L3) 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（韩国上市公司，待补证）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -204,25 +228,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Tae,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 
