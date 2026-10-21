@@ -1,0 +1,78 @@
+{
+ "code": "SB-130",
+ "name_official": "Intellisystem Technologies S.r.l.（意大利）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（intellisystem.it，快照 2026-10-21）",
+ "summary": "意大利工业网络 / 监控 / 自动化方案商（camera 240 / poe 377 / switch 225 / industrial 208 / oem 14），Engineer Walter Randieri、Sales Manager Clelia Randieri（家族企业）；表内「三旺的」（在售 3onedata）；群发 6 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "3onedata（三旺）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "Intellisystem Technologies；关键词 camera 240 / poe 377 / industrial 208 / oem 14",
+   "quote": "Welcome on the Homepage of Intellisystem Technologies",
+   "url": "https://intellisystem.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "三旺的",
+   "quote": "兴趣：三旺的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Walter Randieri",
+   "title": "Engineer",
+   "email": "randieri@intellisystem.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Clelia Randieri",
+   "title": "Sales Manager",
+   "email": "info@intellisystem.it",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Intellisystem Technologies S.r.l.",
+  "founded": "",
+  "hq": "Italy（西西里，待核）",
+  "size": "小型家族方案商",
+  "other": "已进口中国同行 3onedata；OEM 词频 14"
+ },
+ "business_lines": [
+  "工业网络 / 监控 / 自动化方案"
+ ],
+ "channels": {
+  "role": "方案商 / 经销（已售中国同行）",
+  "region": "意大利"
+ },
+ "signals": [
+  "已售 3onedata → 直采中国习惯成熟",
+  "家族企业决策快"
+ ],
+ "risks": [
+  "6 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "对位 3onedata IES 系列 → STI-288GPM（$78.9 @20%，Marvell 差异）。"
+ },
+ "email_hook": "Walter, beside the 3onedata units you carry — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms) at $79 EXW, same import flow you already use; one sample for a side-by-side?"
+}

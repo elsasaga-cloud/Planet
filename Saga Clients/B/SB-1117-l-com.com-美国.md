@@ -1,4 +1,5 @@
 # l-com.com
+**官方名称（调研核实）**：L-com（Infinite Electronics，美国）
 
 > **评级 B**　|　美国　|　档案编号 `SB-1117`　|　优先级 ★★　|　状态：已推送 9 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-1117
 rating: B
 rating_auto: B
+name_official: "L-com（Infinite Electronics，美国）"
 score: 26
 country: 美国
 region: 北美
@@ -19,9 +21,9 @@ replies: 0
 followups: 9
 first_contact: 2025-04-04
 last_contact: 2025-11-04
-p1: STI-288DGGPM
-price_tier: 20%
-research: pending
+p1: STI-288GP
+price_tier: 30%
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国的经销/集成（类型待核）；兴趣/在卖：工业switch；工业FS MC POE 周边产品；提到的品牌：FS
+- **是谁**：美国 L-com（Infinite Electronics 集团，5 万 SKU 当日发货，自有品牌线缆 / 天线 / 工业网络；switch 196 / industrial 108 / poe 56），Product Manager Steve Smith、Mary Kleinfelter；表内「工业 switch、工业 FS MC PoE 周边；有人在卖他们家的设备」；群发 9 次无回复。集团规模大但自有品牌采购 → OEM 30%。（调研 2026-10-21；表内兴趣：工业switch；工业FS MC POE 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-04-04 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 工业 L2+ 8 PoE + 2×2.5G SFP；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -54,7 +56,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-1117.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（l-com.com，快照 2026-10-21）
+- **是谁**：美国 L-com（Infinite Electronics 集团，5 万 SKU 当日发货，自有品牌线缆 / 天线 / 工业网络；switch 196 / industrial 108 / poe 56），Product Manager Steve Smith、Mary Kleinfelter；表内「工业 switch、工业 FS MC PoE 周边；有人在卖他们家的设备」；群发 9 次无回复。集团规模大但自有品牌采购 → OEM 30%。
+- **在卖/在用品牌**：L-com（自有）
+- **【官网快照】5 万 SKU 当日发货，自有品牌；+1 800 341 5266**
+  > L-com offers over 50,000 electronics products for sale which are in-stock and available for same-day shipping. We have short lead times on custom products.
+  > 来源：https://l-com.com/（抓取 2026-10-21）
+- **【用户表】工业 switch；工业 FS MC POE 周边产品；Steve Smith Product Manager**
+  > 兴趣：工业switch;工业FS MC POE 周边产品
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Steve Smith（）ssmith@l-com.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mary Kleinfelter（）mkleinfelter@l-com.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | L-com, Inc.（Infinite Electronics） |
+| 成立 | 1982 |
+| 总部/地址 | North Andover, MA, USA |
+| 其他 | 自有品牌工业以太网产品（贴牌采购） |
+
+- **业务线**：线缆 / 天线 / 工业网络目录销售（自有品牌）
+- **触达通道（公开）**：role: 目录分销商（自有品牌 OEM 采购）；region: 美国
+- **近况信号**：
+  - PM 具名 → 自有品牌工业交换机 / MC 贴牌入口
+- **风险/边界**：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明；大集团供应商准入流程长；9 次群发无回复
+- **Saga 对位结论**：P1 STI-288GP（30% 档）——L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。
+- **邮件切入句（英文）**：Steve, for the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -109,6 +139,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Steve Smith | — | ssmith@l-com.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mary Kleinfelter | — | mkleinfelter@l-com.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Steve Smith, Product Manager | — | ssmith@l-com.com / mkleinfelter@l-com.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -126,19 +158,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GP | 深挖对位：L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。 | $62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -146,7 +179,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：已推送 9 次无回复，邮件通道疲劳
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GP 按 30% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -170,30 +203,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Steve,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Steve, for the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

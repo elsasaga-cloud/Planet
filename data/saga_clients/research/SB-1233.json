@@ -1,0 +1,76 @@
+{
+ "code": "SB-1233",
+ "name_official": "RB Line（rbline.pl，波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（rbline.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰网络组件 / UPS / IP 摄像机网店（D-Link、Teltonika、Hikvision、Dahua、Uniview、TRENDnet、Pulsar；switch 381 / poe 41；+48 77 555 91 30），仅 biuro@；表内工商 switch；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "D-Link",
+  "Teltonika",
+  "Hikvision",
+  "Dahua",
+  "Uniview",
+  "TRENDnet",
+  "Pulsar"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "网络组件、UPS、IP 摄像机；品牌 D-Link / Teltonika / Hikvision / Dahua / Uniview / TRENDnet / Pulsar；+48 77 555 91 30",
+   "quote": "Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl… brands D-Link, Teltonika, Hikvision, Dahua, Uniview, TRENDnet, Pulsar",
+   "url": "https://rbline.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工商 Switch；质量一般",
+   "quote": "兴趣：工商Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（办公室）",
+   "title": "Biuro",
+   "email": "biuro@rbline.pl",
+   "phone": "+48 77 555 91 30",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "RB Line（待核）",
+  "founded": "",
+  "hq": "Opole 区, Poland（+48 77）",
+  "size": "中小型网店 / 分销",
+  "other": ""
+ },
+ "business_lines": [
+  "网络组件 / UPS / CCTV 网店"
+ ],
+ "channels": {
+  "role": "网店 / 分销商",
+  "region": "波兰"
+ },
+ "signals": [
+  "交换机为主力品类（词频 381）"
+ ],
+ "risks": [
+  "多品牌网店比价；仅 biuro@"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "网店走量 24 GE + 4×10G L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424DGGPM-280W。"
+ },
+ "email_hook": "Dzień dobry — for the switch category on rbline.pl, Marvell L2+ 24-GE + 4×10G at $127 and 24-PoE at $135 EXW with EU CE/RoHS files and photos for listings; who handles new-brand onboarding?"
+}

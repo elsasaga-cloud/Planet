@@ -1,0 +1,72 @@
+{
+ "code": "SB-332",
+ "name_official": "AMG Systems Ltd（英国 Biggleswade）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（amgsystems.com，快照 2026-10-21）",
+ "summary": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "AMG（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业 IP/以太网、光纤、PoE、无线传输方案：MC、管理 / 非管理交换机、4G；+44 (0)1767 600777",
+   "quote": "Industrial IP/Ethernet, Fibre Optic, PoE & Wireless network transmission solutions: Media Converters, Managed and Unmanaged Switches, Wireless and 4G",
+   "url": "https://amgsystems.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 工业 FS 自己的牌子；重要光路 10G MC（AMG210M 系列）；可以多跟进一下",
+   "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Steve Clarke",
+   "title": "（表内联系人）",
+   "email": "steve.clarke@amgsystems.com",
+   "phone": "+44 1767 600 777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "AMG Systems Ltd",
+  "founded": "1986（待核）",
+  "hq": "Biggleswade, Bedfordshire, UK",
+  "size": "中型品牌商（工业传输）",
+  "other": "AMG210M 10G MC 系列；美国分销"
+ },
+ "business_lines": [
+  "工业以太网 / 光纤传输设备（自有品牌，部分外购）"
+ ],
+ "channels": {
+  "role": "英国品牌商（OEM 采购）",
+  "region": "英国 + 美国"
+ },
+ "signals": [
+  "自有品牌全线 → 贴牌 OEM；10G MC 为其重点（SmartByte 另询）",
+  "具名联系人"
+ ],
+ "risks": [
+  "10G MC 不在 Saga 价目（SmartByte 型号另询）",
+  "16 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。"
+ },
+ "email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?"
+}

@@ -1,0 +1,72 @@
+{
+ "code": "SB-324",
+ "name_official": "ROBOfiber, Inc.（美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（robofiber.com，快照 2026-10-21）",
+ "summary": "美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "ROBOfiber（自有）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光模块制造（400G/100G/40G/10G/GE/FE）、MC、交换机",
+   "quote": "ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet",
+   "url": "https://robofiber.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC SFP（主要）FS 自己的牌子；别人在卖他们的产品；优质公司",
+   "quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Sales",
+   "email": "sales@robofiber.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "ROBOfiber, Inc.",
+  "founded": "（待核）",
+  "hq": "USA",
+  "size": "中小型品牌商（光模块）",
+  "other": "MC / 交换机线外购贴牌可能"
+ },
+ "business_lines": [
+  "光模块（自产 / 自有品牌）",
+  "MC / 工业交换机（贴牌）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 采购）",
+  "region": "美国"
+ },
+ "signals": [
+  "自有品牌 MC / FS → 贴 ROBOfiber 标"
+ ],
+ "risks": [
+  "美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "18 次群发无回复；无具名联系人"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 30,
+  "why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
+ },
+ "email_hook": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?"
+}

@@ -1,4 +1,5 @@
 # brainboxes.com
+**官方名称（调研核实）**：Brainboxes Ltd（利物浦）
 
 > **评级 B**　|　英国　|　档案编号 `SB-140`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
@@ -8,6 +9,7 @@
 code: SB-140
 rating: B
 rating_auto: B
+name_official: "Brainboxes Ltd（利物浦）"
 score: 50
 country: 英国
 region: 欧洲
@@ -19,9 +21,9 @@ replies: 0
 followups: 10
 first_contact: 2025-02-18
 last_contact: 2025-10-31
-p1: STC-28DGGPM
+p1: STI-080GE
 price_tier: 30%
-research: pending
+research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
 updated: 2026-10-21
@@ -29,12 +31,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：英国的品牌商/贴牌需求（OEM/ODM）；兴趣/在卖：5/8电口工业FS 自己的logo；提到的品牌：FS
+- **是谁**：英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。（调研 2026-10-21；表内兴趣：5/8电口工业FS 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-18 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-080GE — 深挖对位：5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。；$34.0 USD EXW（30% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -64,7 +66,35 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-140.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（brainboxes.com，快照 2026-10-21）
+- **是谁**：英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。
+- **在卖/在用品牌**：Brainboxes（自有）
+- **【官网快照】英国工业数据连接制造商：工业以太网交换机、IoT、串口、IO；终身保修**
+  > Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support
+  > 来源：https://brainboxes.com/（抓取 2026-10-21）
+- **【用户表】5/8 电口工业 FS 自己的 logo**
+  > 兴趣：5/8电口工业FS 自己的logo
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Luke Walsh（）luke.walsh@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Stephen Greer（）stephen.greer@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Brainboxes Ltd |
+| 成立 | 1983 |
+| 总部/地址 | Liverpool, UK |
+| 其他 | 自有工业交换机 SW 系列（部分外购） |
+
+- **业务线**：工业以太网交换机 / 串口 / IO（自有品牌）
+- **触达通道（公开）**：role: 英国制造商（OEM 采购）；region: 英国
+- **近况信号**：
+  - 明确：5/8 口工业 FS 贴自己 logo → OEM 入口
+- **风险/边界**：终身保修要求 → 品质 / 保修条款需谈；10 次群发无回复
+- **Saga 对位结论**：P1 STI-080GE（30% 档）——5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。
+- **邮件切入句（英文）**：Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -119,7 +149,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Luke Walsh | — | sales@brainboxes.com / luke.walsh@brainboxes.com | 用户表原值 | Clients/ 表 |
+| Luke Walsh | — | luke.walsh@brainboxes.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Stephen Greer | — | stephen.greer@brainboxes.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -136,17 +167,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-080GE | 深挖对位：5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。 | $34.0 USD EXW（30% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-080GE），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-080GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -156,7 +188,7 @@ updated: 2026-10-21
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 10 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
+- **O**：P1 STI-080GE 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -180,30 +212,25 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 人工网页调研未做（已有官网自动快照，见「客户调研 → 官网快照」；规模/决策人待人工补）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Luke,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Picking up our earlier exchange about PoE / industrial switches. Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

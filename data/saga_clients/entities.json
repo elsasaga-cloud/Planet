@@ -74688,7 +74688,77 @@
 "c_sub": "",
 "status": "已推送 5 次·未回复",
 "code": "SB-049",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-049",
+"name_official": "Cablewindow（西班牙）",
+"researched_at": "2026-10-21",
+"website_status": "在线（cablewindow.com，快照 2026-10-21，PrestaShop 网店）",
+"summary": "西班牙网络 / 安防线缆与设备网店（switch 150 / poe 142 / industrial 123 / cctv 43），仅 info@；表内「有 Utepo 的交换机，分销商」；群发 5 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"UTEPO"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "PrestaShop 网店；关键词 switch 150 / poe 142 / industrial 123 / cctv 43",
+"quote": "Cablewindow… Shop powered by PrestaShop",
+"url": "https://cablewindow.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "有 Utepo 的交换机；分销商",
+"quote": "兴趣：有Utepo的交换机",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@cablewindow.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Cablewindow（待核）",
+"founded": "",
+"hq": "Spain",
+"size": "小型网店 / 分销",
+"other": "已售中国同行 UTEPO"
+},
+"business_lines": [
+"网络 / 安防设备网店"
+],
+"channels": {
+"role": "网店 / 分销（已售 UTEPO）",
+"region": "西班牙"
+},
+"signals": [
+"已售 UTEPO → 同类上架"
+],
+"risks": [
+"仅 info@；5 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。"
+},
+"email_hook": "Hola — next to the UTEPO switches on cablewindow.com, a Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW, with photos and EU files for listing; interested in 2 trial units?"
+}
 },
 {
 "name": "izux.es",
@@ -122686,7 +122756,86 @@
 "c_sub": "",
 "status": "已推送 9 次·未回复",
 "code": "SB-1117",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1117",
+"name_official": "L-com（Infinite Electronics，美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（l-com.com，快照 2026-10-21）",
+"summary": "美国 L-com（Infinite Electronics 集团，5 万 SKU 当日发货，自有品牌线缆 / 天线 / 工业网络；switch 196 / industrial 108 / poe 56），Product Manager Steve Smith、Mary Kleinfelter；表内「工业 switch、工业 FS MC PoE 周边；有人在卖他们家的设备」；群发 9 次无回复。集团规模大但自有品牌采购 → OEM 30%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"L-com（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "5 万 SKU 当日发货，自有品牌；+1 800 341 5266",
+"quote": "L-com offers over 50,000 electronics products for sale which are in-stock and available for same-day shipping. We have short lead times on custom products.",
+"url": "https://l-com.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 switch；工业 FS MC POE 周边产品；Steve Smith Product Manager",
+"quote": "兴趣：工业switch;工业FS MC POE 周边产品",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Steve Smith",
+"title": "Product Manager",
+"email": "ssmith@l-com.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Mary Kleinfelter",
+"title": "（表内联系人）",
+"email": "mkleinfelter@l-com.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "L-com, Inc.（Infinite Electronics）",
+"founded": "1982",
+"hq": "North Andover, MA, USA",
+"size": "大型目录分销（集团）",
+"other": "自有品牌工业以太网产品（贴牌采购）"
+},
+"business_lines": [
+"线缆 / 天线 / 工业网络目录销售（自有品牌）"
+],
+"channels": {
+"role": "目录分销商（自有品牌 OEM 采购）",
+"region": "美国"
+},
+"signals": [
+"PM 具名 → 自有品牌工业交换机 / MC 贴牌入口"
+],
+"risks": [
+"美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"大集团供应商准入流程长",
+"9 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 30,
+"why": "L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
+},
+"email_hook": "Steve, for the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?"
+}
 },
 {
 "name": "mcss.co.kr",
@@ -124328,7 +124477,78 @@
 "c_sub": "",
 "status": "已推送 15 次·未回复",
 "code": "SB-1123",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1123",
+"name_official": "QNV S.L.（西班牙）",
+"researched_at": "2026-10-21",
+"website_status": "在线（qnv.com，快照 2026-10-21，西语）",
+"summary": "西班牙工业计算 / AI / 通信 / 机器视觉方案商（Korenix；industrial 447 / switch 210 / poe 100），Roberto Cordeiro（表内「质量高」）；需求 MC、工业 PoE FS、串口、工业电源；群发 15 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Korenix"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "工业计算、AI、通信与机器视觉；Korenix；industrial 447 / switch 210",
+"quote": "Soluciones de informática industrial, IA, comunicaciones y visión artificial… brands Korenix",
+"url": "https://qnv.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC 工业 POE FS 串口 工业电源；质量高 Roberto",
+"quote": "兴趣：MC 工业POE FS 串口 工业电源",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Roberto Cordeiro",
+"title": "（表内联系人）",
+"email": "roberto.cordeiro@qnv.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "QNV S.L.（待核）",
+"founded": "",
+"hq": "Spain",
+"size": "中小型工业方案分销",
+"other": "Korenix（台系 Beijer）工业线在售"
+},
+"business_lines": [
+"工业计算 / 通信 / 视觉方案"
+],
+"channels": {
+"role": "工业方案分销商",
+"region": "西班牙"
+},
+"signals": [
+"Korenix 之下的价位带空缺",
+"具名联系人"
+],
+"risks": [
+"15 次群发无回复；串口 / 电源不供"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "Korenix JetNet 之下 → STI-288GPM（$78.9 @20%）；MC STI-110GE。"
+},
+"email_hook": "Roberto, under the Korenix JetNet price points — Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW; one evaluation set for the QNV lab?"
+}
 },
 {
 "name": "raritan.com",
@@ -136847,7 +137067,77 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1198",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1198",
+"name_official": "ICO Innovative Computer GmbH（德国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（ico.de，快照 2026-10-21，德语）",
+"summary": "德国服务器 / 工控机 / 面板 PC / 条码 / POS 系统商（switch 220 / industrial 163 / poe 154 / sfp 62），vertrieb@；表内「工业 FS Antaira 的，很多牌子的；质量一般」；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Antaira"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "服务器、19 英寸服务器、工控机、条码扫描、POS、PC 系统",
+"quote": "Server, 19 Zoll Server, Industriecomputer, Barcodescanner, Kassensysteme und PC-Systeme",
+"url": "https://ico.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS antaria 的 很多牌子的",
+"quote": "兴趣：工业FS antaria的 很多牌子的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（销售）",
+"title": "Vertrieb",
+"email": "vertrieb@ico.de",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "ICO Innovative Computer GmbH",
+"founded": "1982（待核）",
+"hq": "Diez, Germany",
+"size": "中型系统商 / 分销",
+"other": "Antaira（美 / 台）工业交换机在售"
+},
+"business_lines": [
+"服务器 / 工控机 / 工业网络分销"
+],
+"channels": {
+"role": "系统商 / 分销",
+"region": "德国"
+},
+"signals": [
+"Antaira 之下的价位带"
+],
+"risks": [
+"无具名；无跟进"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+},
+"email_hook": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?"
+}
 },
 {
 "name": "icpdas.ro",
@@ -142541,7 +142831,83 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1233",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-1233",
+"name_official": "RB Line（rbline.pl，波兰）",
+"researched_at": "2026-10-21",
+"website_status": "在线（rbline.pl，快照 2026-10-21，波兰语）",
+"summary": "波兰网络组件 / UPS / IP 摄像机网店（D-Link、Teltonika、Hikvision、Dahua、Uniview、TRENDnet、Pulsar；switch 381 / poe 41；+48 77 555 91 30），仅 biuro@；表内工商 switch；无跟进。",
+"type": "",
+"size": "",
+"brands_seen": [
+"D-Link",
+"Teltonika",
+"Hikvision",
+"Dahua",
+"Uniview",
+"TRENDnet",
+"Pulsar"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "网络组件、UPS、IP 摄像机；品牌 D-Link / Teltonika / Hikvision / Dahua / Uniview / TRENDnet / Pulsar；+48 77 555 91 30",
+"quote": "Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl… brands D-Link, Teltonika, Hikvision, Dahua, Uniview, TRENDnet, Pulsar",
+"url": "https://rbline.pl/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工商 Switch；质量一般",
+"quote": "兴趣：工商Switch",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（办公室）",
+"title": "Biuro",
+"email": "biuro@rbline.pl",
+"phone": "+48 77 555 91 30",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "RB Line（待核）",
+"founded": "",
+"hq": "Opole 区, Poland（+48 77）",
+"size": "中小型网店 / 分销",
+"other": ""
+},
+"business_lines": [
+"网络组件 / UPS / CCTV 网店"
+],
+"channels": {
+"role": "网店 / 分销商",
+"region": "波兰"
+},
+"signals": [
+"交换机为主力品类（词频 381）"
+],
+"risks": [
+"多品牌网店比价；仅 biuro@"
+],
+"saga_fit": {
+"p1": "STC-424XGGM",
+"tier": 20,
+"why": "网店走量 24 GE + 4×10G L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424DGGPM-280W。"
+},
+"email_hook": "Dzień dobry — for the switch category on rbline.pl, Marvell L2+ 24-GE + 4×10G at $127 and 24-PoE at $135 EXW with EU CE/RoHS files and photos for listings; who handles new-brand onboarding?"
+}
 },
 {
 "name": "reweb.it",
@@ -147366,10 +147732,71 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 北美/美国"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "名单内·未触达",
 "code": "SB-1265",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-1265",
+"name_official": "Versa Technology（美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（versatek.com）",
+"summary": "美国 PoE 方案商 Versa Technology（AETEK 美国伙伴）；按 T03 用户规则：Versa Technology = C，不再回访。",
+"type": "",
+"size": "",
+"brands_seen": [
+"AETEK",
+"Hanwha"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "PoE 方案：智慧建筑、PoE 照明",
+"quote": "Versa's PoE Business Solutions are empowering Smart Buildings, PoE Lighting, and the Autonomous Industry",
+"url": "https://versatek.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC POE FS 工业品 标价很高；很多 Aetek 的产品",
+"quote": "兴趣：MC POE FS 工业品 标价很高 很多Aetek的产品",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "用户 T03 规则：Versa Technology = C，不再回访",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（用户规则 T03 → C）"
+},
+"company_facts": {
+"legal_name": "Versa Technology, Inc.",
+"founded": "",
+"hq": "California, USA",
+"size": "中型",
+"other": "用户规则 T03：C，不回访"
+},
+"business_lines": [
+"PoE 方案分销"
+],
+"channels": {
+"role": "分销（用户判 C）",
+"region": "美国"
+},
+"signals": [],
+"risks": [
+"T03 规则：不再回访"
+],
+"saga_fit": {
+"p1": null,
+"tier": 20,
+"why": "不主动跟进（T03）。"
+},
+"email_hook": "（不主动发送：T03 规则）"
+}
 },
 {
 "name": "videobits.co.uk",
@@ -152884,7 +153311,85 @@
 "c_sub": "",
 "status": "已推送 6 次·未回复",
 "code": "SB-130",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-130",
+"name_official": "Intellisystem Technologies S.r.l.（意大利）",
+"researched_at": "2026-10-21",
+"website_status": "在线（intellisystem.it，快照 2026-10-21）",
+"summary": "意大利工业网络 / 监控 / 自动化方案商（camera 240 / poe 377 / switch 225 / industrial 208 / oem 14），Engineer Walter Randieri、Sales Manager Clelia Randieri（家族企业）；表内「三旺的」（在售 3onedata）；群发 6 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"3onedata（三旺）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "Intellisystem Technologies；关键词 camera 240 / poe 377 / industrial 208 / oem 14",
+"quote": "Welcome on the Homepage of Intellisystem Technologies",
+"url": "https://intellisystem.it/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "三旺的",
+"quote": "兴趣：三旺的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Walter Randieri",
+"title": "Engineer",
+"email": "randieri@intellisystem.it",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Clelia Randieri",
+"title": "Sales Manager",
+"email": "info@intellisystem.it",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Intellisystem Technologies S.r.l.",
+"founded": "",
+"hq": "Italy（西西里，待核）",
+"size": "小型家族方案商",
+"other": "已进口中国同行 3onedata；OEM 词频 14"
+},
+"business_lines": [
+"工业网络 / 监控 / 自动化方案"
+],
+"channels": {
+"role": "方案商 / 经销（已售中国同行）",
+"region": "意大利"
+},
+"signals": [
+"已售 3onedata → 直采中国习惯成熟",
+"家族企业决策快"
+],
+"risks": [
+"6 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "对位 3onedata IES 系列 → STI-288GPM（$78.9 @20%，Marvell 差异）。"
+},
+"email_hook": "Walter, beside the 3onedata units you carry — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms) at $79 EXW, same import flow you already use; one sample for a side-by-side?"
+}
 },
 {
 "name": "katalita.lt",
@@ -153071,7 +153576,80 @@
 "c_sub": "",
 "status": "已推送 4 次·未回复",
 "code": "SB-131",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-131",
+"name_official": "Katalita UAB（立陶宛）",
+"researched_at": "2026-10-21",
+"website_status": "在线（katalita.lt，快照 2026-10-21）",
+"summary": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Ubiquiti",
+"MikroTik",
+"TP-Link",
+"Teltonika"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "品牌 Ubiquiti / MikroTik / TP-Link / Teltonika；oem 117；+370 603 03213",
+"quote": "Katalita.lt… brands Ubiquiti, MikroTik, TP-Link, Teltonika",
+"url": "https://katalita.lt/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "extralink 是他们的品牌（待核）；有点像洪瑞的",
+"quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Robertas Zubenas",
+"title": "Chief Financial Officer",
+"email": "robertas@katalita.lt",
+"phone": "+370 603 03213",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Katalita UAB",
+"founded": "",
+"hq": "Lithuania",
+"size": "中小型分销",
+"other": "OEM 词频 117 → 自有标产品"
+},
+"business_lines": [
+"网络设备分销（ISP / 无线）"
+],
+"channels": {
+"role": "分销商（自有标）",
+"region": "立陶宛（小国名单）"
+},
+"signals": [
+"OEM 词频高 → 自有标 PoE 产品（类 HRUI）→ 贴牌可能"
+],
+"risks": [
+"小国；4 次群发无回复"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。"
+},
+"email_hook": "Robertas, for the own-label PoE switches you list — Marvell L2+ 8-PoE + 2-SFP and budget unmanaged 8-PoE under your brand from small lots; which price band sells best in the Baltics?"
+}
 },
 {
 "name": "korekonect.com",
@@ -153243,7 +153821,77 @@
 "c_sub": "",
 "status": "已推送 3 次·未回复",
 "code": "SB-132",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-132",
+"name_official": "Kore Konect（波兰）",
+"researched_at": "2026-10-21",
+"website_status": "在线（korekonect.com，快照 2026-10-21）",
+"summary": "波兰网络设备经销（poe 113 / switch 104 / industrial 54 / sfp 62 / distributor 6），info@ + gmail；表内「有 E-wind 的」；群发 3 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"E-wind"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "kore konect；关键词 poe 113 / switch 104 / industrial 54",
+"quote": "kore konect",
+"url": "https://korekonect.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "有 Ewind 的",
+"quote": "兴趣：有Ewind的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@korekonect.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Kore Konect（待核）",
+"founded": "",
+"hq": "Poland",
+"size": "小型经销",
+"other": "已售 E-wind"
+},
+"business_lines": [
+"网络设备经销"
+],
+"channels": {
+"role": "经销商（已售中国同行）",
+"region": "波兰"
+},
+"signals": [
+"已售 E-wind → 同类替换"
+],
+"risks": [
+"无具名；3 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。"
+},
+"email_hook": "For the E-wind converters and industrial switches you stock — DIN gigabit MC at $22 and 2-SFP + 8-PoE at $57 EXW, CE/RoHS; want a comparison sample?"
+}
 },
 {
 "name": "sysnetcenter.com",
@@ -156305,7 +156953,85 @@
 "c_sub": "",
 "status": "已推送 10 次·未回复",
 "code": "SB-140",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-140",
+"name_official": "Brainboxes Ltd（利物浦）",
+"researched_at": "2026-10-21",
+"website_status": "在线（brainboxes.com，快照 2026-10-21）",
+"summary": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Brainboxes（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "英国工业数据连接制造商：工业以太网交换机、IoT、串口、IO；终身保修",
+"quote": "Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support",
+"url": "https://brainboxes.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "5/8 电口工业 FS 自己的 logo",
+"quote": "兴趣：5/8电口工业FS 自己的logo",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Luke Walsh",
+"title": "（表内联系人）",
+"email": "luke.walsh@brainboxes.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+},
+{
+"name": "Stephen Greer",
+"title": "（表内联系人）",
+"email": "stephen.greer@brainboxes.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Brainboxes Ltd",
+"founded": "1983",
+"hq": "Liverpool, UK",
+"size": "中型制造商",
+"other": "自有工业交换机 SW 系列（部分外购）"
+},
+"business_lines": [
+"工业以太网交换机 / 串口 / IO（自有品牌）"
+],
+"channels": {
+"role": "英国制造商（OEM 采购）",
+"region": "英国"
+},
+"signals": [
+"明确：5/8 口工业 FS 贴自己 logo → OEM 入口"
+],
+"risks": [
+"终身保修要求 → 品质 / 保修条款需谈",
+"10 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-080GE",
+"tier": 30,
+"why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。"
+},
+"email_hook": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?"
+}
 },
 {
 "name": "ccontrols.de",
@@ -178008,7 +178734,79 @@
 "c_sub": "",
 "status": "已推送 5 次·未回复",
 "code": "SB-226",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-226",
+"name_official": "Lanmus Networks（休斯顿）",
+"researched_at": "2026-10-21",
+"website_status": "在线（lanmus.com，快照 2026-10-21）",
+"summary": "美国休斯顿（+1 281 995 9001）交换机品牌 / 经销（管理、非管理、工业、企业级；switch 719 / industrial 353 / cctv 45 / integrator 21），表内「商业 FS 似乎用的长飞的；质量不错」；群发 5 次无回复。自有品牌 → OEM 30%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Lanmus（自有）",
+"长飞（YOFC）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "管理 / 非管理 / 工业 / 企业级交换机品牌；+1 (281) 995-9001",
+"quote": "Lanmus Networks offers a wide range of networking switches, including managed, unmanaged, industrial, and enterprise-level solutions.",
+"url": "https://lanmus.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "商业 FS 似乎用的长飞的；质量不错",
+"quote": "兴趣：商业FS 似乎用的长飞的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（销售）",
+"title": "Sales",
+"email": "sales@lanmus.com",
+"phone": "+1 281 995 9001",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Lanmus Networks（待核）",
+"founded": "",
+"hq": "Houston, TX, USA",
+"size": "小型品牌商（贴牌）",
+"other": "商用 FS 疑由中国同行代工"
+},
+"business_lines": [
+"交换机品牌（贴牌采购）"
+],
+"channels": {
+"role": "品牌商（OEM 采购）",
+"region": "美国"
+},
+"signals": [
+"自有品牌全线贴牌 → 可替换 / 补充供应商"
+],
+"risks": [
+"美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"5 次群发无回复；无具名"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"why": "Lanmus 商用管理 PoE 线 → STC-28DGGPM（$87.4 @30%，Marvell）贴牌；工业 STI-288GPM。"
+},
+"email_hook": "For the Lanmus managed PoE line — Marvell L2+ 8/24-PoE and DIN industrial units under your label from small lots (FCC/CE); who handles sourcing so I can send the OEM sheet and a sample?"
+}
 },
 {
 "name": "marlexconexion.com",
@@ -205190,7 +205988,79 @@
 "c_sub": "",
 "status": "已推送 18 次·未回复",
 "code": "SB-324",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-324",
+"name_official": "ROBOfiber, Inc.（美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（robofiber.com，快照 2026-10-21）",
+"summary": "美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。",
+"type": "",
+"size": "",
+"brands_seen": [
+"ROBOfiber（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "光模块制造（400G/100G/40G/10G/GE/FE）、MC、交换机",
+"quote": "ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet",
+"url": "https://robofiber.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC SFP（主要）FS 自己的牌子；别人在卖他们的产品；优质公司",
+"quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（销售）",
+"title": "Sales",
+"email": "sales@robofiber.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "ROBOfiber, Inc.",
+"founded": "（待核）",
+"hq": "USA",
+"size": "中小型品牌商（光模块）",
+"other": "MC / 交换机线外购贴牌可能"
+},
+"business_lines": [
+"光模块（自产 / 自有品牌）",
+"MC / 工业交换机（贴牌）"
+],
+"channels": {
+"role": "品牌商（OEM 采购）",
+"region": "美国"
+},
+"signals": [
+"自有品牌 MC / FS → 贴 ROBOfiber 标"
+],
+"risks": [
+"美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"18 次群发无回复；无具名联系人"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 30,
+"why": "ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
+},
+"email_hook": "For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?"
+}
 },
 {
 "name": "th-it.com",
@@ -207306,7 +208176,79 @@
 "c_sub": "",
 "status": "已推送 16 次·未回复",
 "code": "SB-332",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-332",
+"name_official": "AMG Systems Ltd（英国 Biggleswade）",
+"researched_at": "2026-10-21",
+"website_status": "在线（amgsystems.com，快照 2026-10-21）",
+"summary": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"AMG（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "工业 IP/以太网、光纤、PoE、无线传输方案：MC、管理 / 非管理交换机、4G；+44 (0)1767 600777",
+"quote": "Industrial IP/Ethernet, Fibre Optic, PoE & Wireless network transmission solutions: Media Converters, Managed and Unmanaged Switches, Wireless and 4G",
+"url": "https://amgsystems.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC SFP 工业 FS 自己的牌子；重要光路 10G MC（AMG210M 系列）；可以多跟进一下",
+"quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Steve Clarke",
+"title": "（表内联系人）",
+"email": "steve.clarke@amgsystems.com",
+"phone": "+44 1767 600 777",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "AMG Systems Ltd",
+"founded": "1986（待核）",
+"hq": "Biggleswade, Bedfordshire, UK",
+"size": "中型品牌商（工业传输）",
+"other": "AMG210M 10G MC 系列；美国分销"
+},
+"business_lines": [
+"工业以太网 / 光纤传输设备（自有品牌，部分外购）"
+],
+"channels": {
+"role": "英国品牌商（OEM 采购）",
+"region": "英国 + 美国"
+},
+"signals": [
+"自有品牌全线 → 贴牌 OEM；10G MC 为其重点（SmartByte 另询）",
+"具名联系人"
+],
+"risks": [
+"10G MC 不在 Saga 价目（SmartByte 型号另询）",
+"16 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 30,
+"why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。"
+},
+"email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?"
+}
 },
 {
 "name": "（未具名）",
@@ -223584,7 +224526,77 @@
 "c_sub": "",
 "status": "已推送 2 次·未回复",
 "code": "SB-402",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-402",
+"name_official": "Longline Network（土耳其）",
+"researched_at": "2026-10-21",
+"website_status": "在线（longlinenetwork.com，快照 2026-10-21，土耳其语）",
+"summary": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
+"type": "",
+"size": "",
+"brands_seen": [
+"E-link"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "SFP 收发器、网卡方案、线缆、MC 销售",
+"quote": "Sfp Transceiver, Nic Solutions Introduction, Cable Solutions, Media Converter Ürünleri Satış",
+"url": "https://longlinenetwork.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "SFP MC（主要）；10GMC 是 E-link 的",
+"quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@longlinenetwork.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Longline Network（待核）",
+"founded": "",
+"hq": "Türkiye",
+"size": "小型经销 / 网店",
+"other": "已售 E-link 10G MC"
+},
+"business_lines": [
+"SFP / MC / 网卡销售"
+],
+"channels": {
+"role": "经销商（已售中国同行）",
+"region": "土耳其"
+},
+"signals": [
+"已售 E-link MC → 同类替换"
+],
+"risks": [
+"SFP 主业不供；仅 info@"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。"
+},
+"email_hook": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?"
+}
 },
 {
 "name": "media-konwertery.pl",
@@ -257696,10 +258708,70 @@
 "+5 最近活动 2025",
 "-16 推送 20 次无任何回复（聋名单）"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "已推送 20 次·未回复",
 "code": "SB-539",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-539",
+"name_official": "InHand Networks（映翰通，美国办事处）",
+"researched_at": "2026-10-21",
+"website_status": "在线（inhandnetworks.com，快照 2026-10-21）",
+"summary": "InHand Networks 为北京映翰通（中国大陆）的工业路由 / IoT 网关 / 工业交换机厂商，此为其美国站（+1 703 348 2988）；表内「工业 FS 物联网 自己的 logo」；群发 20 次无回复。中国大陆厂商海外办事处 → 非客户，降 C。",
+"type": "",
+"size": "",
+"brands_seen": [
+"InHand（自有）"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "工业路由、IoT 网关、边缘计算、以太网交换机厂商（美国站）",
+"quote": "InHand provides cellular and industrial routers, IoT gateways, AI edge computers, Ethernet switches, and cloud services… +1(703)348-2988",
+"url": "https://inhandnetworks.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS 物联网 自己的 logo",
+"quote": "兴趣：工业FS 物联网 自己的logo",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "中国大陆厂商（映翰通）美国办事处，非渠道客户（INH：厂商 / 办事处不是客户；大陆主体）",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 大陆厂商办事处降 C）"
+},
+"company_facts": {
+"legal_name": "InHand Networks Inc.（映翰通美国）",
+"founded": "2001（北京）",
+"hq": "Fairfax, VA, USA（总部北京）",
+"size": "中国大陆厂商海外办事处",
+"other": ""
+},
+"business_lines": [
+"工业路由 / 网关 / 交换机制造（竞品）"
+],
+"channels": {
+"role": "中国大陆厂商海外办事处",
+"region": "美国"
+},
+"signals": [],
+"risks": [
+"中国大陆厂商（竞品）办事处，非客户"
+],
+"saga_fit": {
+"p1": null,
+"tier": 30,
+"why": "不主动跟进。"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "interlogix.com",
@@ -259069,7 +260141,78 @@
 "c_sub": "",
 "status": "已推送 8 次·未回复",
 "code": "SB-544",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-544",
+"name_official": "Lanopia GmbH（德国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（lanopia.de，快照 2026-10-21，德语）",
+"summary": "德国光纤 / 铜缆网络技术增值分销商（poe 247 / switch 233 / industrial 126 / media converter 45），仅 info@；表内「MC 工业 FS；卖 Omnitron 这个牌子？可以着重跟一下」；群发 8 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Omnitron"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "专业光纤与铜缆网络技术增值分销商",
+"quote": "Führender Value-Added-Distributor für professionelle Fiber-Optik und Kupfer-Netzwerktechnologie.",
+"url": "https://lanopia.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "MC 工业 FS；卖 Omnitron 这个牌子？；可以着重跟一下",
+"quote": "兴趣：MC 工业FS 卖Omnitron这个牌子？？",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（未具名）",
+"title": "",
+"email": "info@lanopia.de",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Lanopia GmbH（待核）",
+"founded": "",
+"hq": "Germany",
+"size": "中小型 VAD",
+"other": "Omnitron（美）MC 在售"
+},
+"business_lines": [
+"光纤 / 铜缆网络产品增值分销"
+],
+"channels": {
+"role": "增值分销商",
+"region": "德国"
+},
+"signals": [
+"MC / 工业 FS 为核心品类",
+"表内建议着重跟"
+],
+"risks": [
+"仅 info@；8 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GPM",
+"tier": 20,
+"why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE 对位 Omnitron。"
+},
+"email_hook": "Guten Tag — for the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?"
+}
 },
 {
 "name": "lantronix.com",
@@ -265666,7 +266809,75 @@
 "c_sub": "",
 "status": "已推送 8 次·未回复",
 "code": "SB-565",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-565",
+"name_official": "UBF EDV Handel und Beratung Jürgen Fischer GmbH（德国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（ubf.de，快照 2026-10-21，德语）",
+"summary": "德国网络配件 / 工业以太网 / PoE / SFP / 光纤转换 / 串口 / 现场总线 / 数字模拟 IO 经销商（+49 2305 9634 0；poe 281 / sfp 170 / switch 92 / industrial 90），vertrieb@；表内「工业 FS MC SFP POE，好几种外壳；可以着重跟一下」；群发 8 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "网络配件：以太网、工业以太网、PoE、交换机、SFP、网卡、光缆 + 串口 / 现场总线转换、数字 / 模拟 IO；+49 (0)2305 9634 0",
+"quote": "Netzwerk-Zubehör: Ethernet, Industrial Ethernet, PoE, Switch, SFP, NIC, LWL Kabel + Konverter seriell RS232/RS485/RS422 Feldbus, digital 24V, analog V/mA",
+"url": "https://ubf.de/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "工业 FS MC SFP POE 好几种外壳；可以着重跟一下",
+"quote": "兴趣：工业FS MC SFP POE 好几种外壳",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（销售）",
+"title": "Vertrieb",
+"email": "vertrieb@ubf.de",
+"phone": "+49 2305 9634 0",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "UBF EDV Handel und Beratung Jürgen Fischer GmbH",
+"founded": "",
+"hq": "Castrop-Rauxel, Germany（+49 2305）",
+"size": "中小型经销",
+"other": ""
+},
+"business_lines": [
+"网络配件 / 工业以太网 / IO 经销"
+],
+"channels": {
+"role": "经销商",
+"region": "德国"
+},
+"signals": [
+"工业 / PoE / SFP 品类齐 → 多外壳需求（表内）"
+],
+"risks": [
+"无具名；8 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 20,
+"why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；mini STI-050GE；MC STI-110GE。"
+},
+"email_hook": "Guten Tag — for the Industrial-Ethernet range: DIN 2-SFP + 8-PoE at $57, 5-port mini at $17 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); shall I send the catalogue with the housing variants you asked about?"
+}
 },
 {
 "name": "ubitron.co.kr",
@@ -283406,7 +284617,80 @@
 "c_sub": "",
 "status": "已推送 19 次·未回复",
 "code": "SB-644",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-644",
+"name_official": "LANshack（Tecra Tools Inc.，美国）",
+"researched_at": "2026-10-21",
+"website_status": "在线（lanshack.com，快照 2026-10-21）",
+"summary": "美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。",
+"type": "",
+"size": "",
+"brands_seen": [
+"E-wind"
+],
+"evidence": [
+{
+"kind": "官网快照",
+"claim": "光纤与铜缆组件制造 / 网店，ISO 9001；关键词 sfp 1028 / poe 239 / media converter 99",
+"quote": "LANshack offers premium fiber optic cable & copper wire assemblies… ISO 9001 Certified",
+"url": "https://lanshack.com/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "Ewind 产品较多",
+"quote": "兴趣：Ewind产品较多",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Andrea Damiano",
+"title": "President",
+"email": "andrea@lanshack.com",
+"phone": "",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网快照核对 + 表内）"
+},
+"company_facts": {
+"legal_name": "Tecra Tools, Inc. (LANshack)",
+"founded": "（待核）",
+"hq": "USA（宾州 / 新泽西，待核）",
+"size": "中小型制造 + 电商",
+"other": "在售 E-wind MC / 交换机"
+},
+"business_lines": [
+"光纤 / 铜缆组件制造",
+"网络有源设备电商（E-wind 等）"
+],
+"channels": {
+"role": "制造商 + 电商（已售中国同行）",
+"region": "美国"
+},
+"signals": [
+"已售 E-wind → 同类替换（MC / 工业 FS）",
+"President 具名"
+],
+"risks": [
+"美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+"19 次群发无回复"
+],
+"saga_fit": {
+"p1": "STI-110GE",
+"tier": 20,
+"why": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。"
+},
+"email_hook": "Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?"
+}
 },
 {
 "name": "market-telecom.kz",

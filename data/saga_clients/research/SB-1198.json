@@ -1,0 +1,70 @@
+{
+ "code": "SB-1198",
+ "name_official": "ICO Innovative Computer GmbH（德国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ico.de，快照 2026-10-21，德语）",
+ "summary": "德国服务器 / 工控机 / 面板 PC / 条码 / POS 系统商（switch 220 / industrial 163 / poe 154 / sfp 62），vertrieb@；表内「工业 FS Antaira 的，很多牌子的；质量一般」；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Antaira"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "服务器、19 英寸服务器、工控机、条码扫描、POS、PC 系统",
+   "quote": "Server, 19 Zoll Server, Industriecomputer, Barcodescanner, Kassensysteme und PC-Systeme",
+   "url": "https://ico.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS antaria 的 很多牌子的",
+   "quote": "兴趣：工业FS antaria的 很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（销售）",
+   "title": "Vertrieb",
+   "email": "vertrieb@ico.de",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "ICO Innovative Computer GmbH",
+  "founded": "1982（待核）",
+  "hq": "Diez, Germany",
+  "size": "中型系统商 / 分销",
+  "other": "Antaira（美 / 台）工业交换机在售"
+ },
+ "business_lines": [
+  "服务器 / 工控机 / 工业网络分销"
+ ],
+ "channels": {
+  "role": "系统商 / 分销",
+  "region": "德国"
+ },
+ "signals": [
+  "Antaira 之下的价位带"
+ ],
+ "risks": [
+  "无具名；无跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+ },
+ "email_hook": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?"
+}

@@ -1,0 +1,70 @@
+{
+ "code": "SB-132",
+ "name_official": "Kore Konect（波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（korekonect.com，快照 2026-10-21）",
+ "summary": "波兰网络设备经销（poe 113 / switch 104 / industrial 54 / sfp 62 / distributor 6），info@ + gmail；表内「有 E-wind 的」；群发 3 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "E-wind"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "kore konect；关键词 poe 113 / switch 104 / industrial 54",
+   "quote": "kore konect",
+   "url": "https://korekonect.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Ewind 的",
+   "quote": "兴趣：有Ewind的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@korekonect.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Kore Konect（待核）",
+  "founded": "",
+  "hq": "Poland",
+  "size": "小型经销",
+  "other": "已售 E-wind"
+ },
+ "business_lines": [
+  "网络设备经销"
+ ],
+ "channels": {
+  "role": "经销商（已售中国同行）",
+  "region": "波兰"
+ },
+ "signals": [
+  "已售 E-wind → 同类替换"
+ ],
+ "risks": [
+  "无具名；3 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "对位 E-wind MC / 工业 FS → STI-110GE（$22.4 @20%）+ STI-288GP。"
+ },
+ "email_hook": "For the E-wind converters and industrial switches you stock — DIN gigabit MC at $22 and 2-SFP + 8-PoE at $57 EXW, CE/RoHS; want a comparison sample?"
+}
