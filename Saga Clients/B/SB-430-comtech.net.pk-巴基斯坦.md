@@ -1,4 +1,5 @@
 # comtech.net.pk
+**官方名称（调研核实）**：Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）
 
 > **评级 B**　|　巴基斯坦　|　档案编号 `SB-430`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -8,6 +9,7 @@
 code: SB-430
 rating: B
 rating_auto: B
+name_official: "Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）"
 score: 41
 country: 巴基斯坦
 region: 南亚
@@ -19,21 +21,21 @@ replies: 4
 followups: 40
 first_contact: 2021-03-18
 last_contact: 2025-10-06
-p1: STC-448DGGPM
-price_tier: 20%
-research: pending
+p1: STC-424DGGPM-280W
+price_tier: 25%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴基斯坦的经销/集成（类型待核）；兴趣/在卖：闭路电视 安全 网站：没啥特别相关的东西
+- **是谁**：卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。（调研 2026-10-21；表内兴趣：闭路电视 安全 网站：没啥特别相关的东西）
 - **为什么是 B 级**：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 40 次（2021-03-18 → 2025-10-06）；最近一次客户回复：2022-08-11：问了其他的产品 提供不了
-- **P1（下一步唯一主推）**：STC-448DGGPM — 48 口 PoE 走量款；$308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,46 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-430.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。
+- **在卖/在用品牌**：Cisco, D-Link, Fortinet
+- **【官网】合作伙伴与业务**
+  > Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan. … +92 213 4404440 … The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.
+  > 来源：https://comtech.net.pk/（抓取 2026-09-23）
+- **【官网】D-Link 分销伙伴**
+  > As a D-Link distributor partner in Pakistan, Comtech deploys D-Link switches, the D-Link Eagle Pro AI Wi-Fi range, and D-Link surveillance solutions
+  > 来源：https://comtech.net.pk/our-technology-partners/（抓取 2025-10-17）
+- **【官网】行业客户含工业/地产 CCTV**
+  > • Industrial & Real Estate – CCTV, IoT integration, and remote asset access
+  > 来源：https://comtech.net.pk/networking-support-services/（抓取 2025-08-06）
+- **【LinkedIn】规模与成立**
+  > Comtech Associate … Company size: 11-50 employees … Headquarters: karachi, sindh … Founded: 2010
+  > 来源：https://pk.linkedin.com/company/comtech-one-solution（抓取 2026-10-21）
+- **【名录】电话 = 用户表 WA 号**
+  > Comtech's phone number is +92 3352876148
+  > 来源：https://www.zoominfo.com/c/comtech/470605669（抓取 2026-10-21）
+- **【用户表】闭路电视安全；40 次跟进；WA 已加**
+  > 闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（姓名未记录；WA 号 +92 335 287 6148）（（待核））marketing@comtech.net.pk（官网公开） +92 335 287 6148（用户表 WA = ZoomInfo 公司电话）〔https://www.zoominfo.com/c/comtech/470605669〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Comtech Associates（Pvt.）Ltd.（全称待核） |
+| 成立 | 2010（LinkedIn） |
+| 总部/地址 | Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk） |
+| 其他 | Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公 |
+
+- **业务线**：网络基础设施集成（Cisco、D-Link）；网络安全（Fortinet、托管 SOC）；数据中心/云、托管 IT、软件
+- **触达通道（公开）**：网站: https://comtech.net.pk/；电话: +92 21 3440 4440（公开）；WhatsApp +92 335 287 6148（用户表，已加）；邮箱（公开）: marketing@comtech.net.pk
+- **近况信号**：
+  - D-Link 分销伙伴 + 工业/地产 CCTV/IoT 项目 → 无品牌 PoE 作「预算层」补位；40 次推送无回复 → 改 WhatsApp 短消息 + 单一问题
+- **风险/边界**：Cisco 文化（品牌偏好）；南亚非主攻区；无回复
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）
+- **邮件切入句（英文）**：Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -132,20 +173,20 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448DGGPM | 48 口 PoE 走量款 | $308.5 USD EXW（20% 档，SmartByte LT-S8352GP-4GX48GT 1720 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424DGGPM-280W | 深挖对位：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-448DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-448DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -153,7 +194,7 @@ updated: 2026-10-21
 
 - **S**：有 4 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：无具名决策人，仍是公司级触达；南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-448DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -178,19 +219,18 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-448DGGPM - 48-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?
 
-We supply a Marvell-based 48-port Gigabit PoE+ L2+ managed switch - model STC-448DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $308.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

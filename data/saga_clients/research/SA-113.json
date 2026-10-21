@@ -41,6 +41,13 @@
    "quote": "$7 million in revenue and 9 employees",
    "url": "https://rocketreach.co/euror-technology-group-automated-surveillance-security-control-monitoring-systems-profile_b44b7834fcfbbf73",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "IFSEC 2010；41 次跟进；WA 已加；索要资料",
+   "quote": "资料 / Mohamad Asaad Maarouf Manager / 971 26417222 T 050751 4160 已加 / IFSEC 2010",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -55,5 +62,37 @@
  "grade_override": "B",
  "override_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
  "notes": "WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com）",
+  "hq": "Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA）",
+  "size": "约 9 人；营收估 $7M（首轮调研）",
+  "other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务"
+ },
+ "business_lines": [
+  "安防系统集成（阿布扎比 + 伊拉克）",
+  "消防报警（守界：主系统不供）"
+ ],
+ "channels": {
+  "网站": "https://eurotechnology.net/",
+  "邮箱": "m.maarouf@eurotechnology.ae（用户表）；info@netontechnologies.com",
+  "WhatsApp": "+971 50 751 4160（已加）"
+ },
+ "signals": [
+  "41 次跟进中 4 次回复（索要资料）→ 互动最活跃的中东 B 客户；经理 Mohamad Asaad Maarouf 直达",
+  "客户群含军方/VVIP 宫殿/政府 → 按个案守界，仅供民用安防网络层"
+ ],
+ "risks": [
+  "守界（军方/政府项目）；伊拉克业务付款与物流；小团队"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
+ },
+ "email_hook": "Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?"
 }

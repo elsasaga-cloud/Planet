@@ -1,4 +1,5 @@
 # regionprof.ru
+**官方名称（调研核实）**：ООО «РЕГИОН-ПРОФ»（St. Petersburg, Russia；regionprof.ru；ПРОСОФТ 集团旗下批发商）
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SB-033`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -8,6 +9,7 @@
 code: SB-033
 rating: B
 rating_auto: B
+name_official: "ООО «РЕГИОН-ПРОФ»（St. Petersburg, Russia；regionprof.ru；ПРОСОФТ 集团旗下批发商）"
 score: 59
 country: 俄罗斯
 region: 俄语区
@@ -19,21 +21,21 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STI-288DGGPM
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯的经销/集成（类型待核）；兴趣/在卖：买了迈威的；提到的品牌：迈威
+- **是谁**：圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,41 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-033.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。
+- **在卖/在用品牌**：Maiwe 迈威（外贸数据在采）, ProSoft（母公司）
+- **【登记名录】法人、股东、业务**
+  > ООО "Регион-Проф" зарегистрировано в Санкт-Петербурге в ноябре 2006 года и работает на рынке оптовой торговли компьютерами, периферийными устройствами и программным обеспечением. С июля 2020 года компанией руководит генеральный директор Коровина Марина Григорьевна. Единственным учредителем выступает юридическое лицо — ООО "Прософт", владеющее 100% долей
+  > 来源：https://www.rusprofile.ru/id/4358680（抓取 2026-10-21）
+- **【登记名录】营收与员工**
+  > 2025 | 1.6 млрд ₽ | 118 млн ₽ … Численность персонала: 84
+  > 来源：https://www.list-org.com/company/4497434（抓取 2026-10-21）
+- **【官网】联系方式**
+  > © 2010-2026 ООО «РЕГИОН-ПРОФ» | Тел: +7 (495) 232-29-55 E-mail: info@regionprof.ru
+  > 来源：https://www.regionprof.ru/（抓取 2026-10-21）
+- **【用户表】富通天下：买了迈威的；大型公司**
+  > 买了迈威的 / 一个大型公司 / 富通天下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Коровина Марина Григорьевна（Генеральный директор（登记公开））info@regionprof.ru（公司） +7 495 232-29-55（公司）〔https://www.rusprofile.ru/id/4358680〕
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；「成交」为富通天下外贸数据））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ООО «РЕГИОН-ПРОФ»（ИНН 7728599583；ОГРН 1067759114675） |
+| 成立 | 2006-11-02 |
+| 总部/地址 | 198095, Санкт-Петербург, ул. Ивана Черных, д. 29, лит. А（+7 495 232-29-55；info@regionprof.ru） |
+| 其他 | 股东 ООО «Прософт» 100%；批发计算机/外设/音视频设备 |
+
+- **业务线**：工业/IT 设备批发（ProSoft 集团渠道）；区域经销网络
+- **触达通道（公开）**：网站: https://www.regionprof.ru/；电话: +7 495 232-29-55（公开）；邮箱（公开）: info@regionprof.ru
+- **近况信号**：
+  - ProSoft 集团 = 俄罗斯工业自动化头部分销 → 已进口 Maiwe 工业交换机，Saga STI 线可作第二来源
+  - 营收 16 亿 ₽ → 批量能力强
+- **风险/边界**：俄罗斯结算/制裁合规；大集团供应商准入；无互动记录
+- **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）
+- **邮件切入句（英文）**：Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -76,7 +112,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@regionprof.ru | 用户表原值 | Clients/ 表 |
+| Коровина Марина Григорьевна | Генеральный директор（登记公开） | info@regionprof.ru（公司） / +7 495 232-29-55（公司） | 调研核实（公开页） | https://www.rusprofile.ru/id/4358680 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -92,18 +128,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288DGGPM | 深挖对位：分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4） | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -113,7 +148,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入
+- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -137,19 +172,18 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the 迈威 class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

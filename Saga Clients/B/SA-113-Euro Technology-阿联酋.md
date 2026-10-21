@@ -22,7 +22,7 @@ replies: 4
 followups: 41
 first_contact: 2024-01-24
 last_contact: 2025-12-30
-p1: STC-424DGGPM-280W
+p1: STC-28DGGPM
 price_tier: 25%
 research: done
 sources: 4
@@ -34,7 +34,7 @@ updated: 2026-10-21
 - **是谁**：阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。（调研 2026-10-21；表内兴趣：资料）
 - **为什么是 B 级**：**调研后定级 B**（41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。）；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 41 次（2024-01-24 → 2025-12-30）；最近一次客户回复：2024-08-14：interested
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -84,10 +84,29 @@ updated: 2026-10-21
 - **【RocketReach】约 9 人，营收约 700 万美元**
   > $7 million in revenue and 9 employees
   > 来源：https://rocketreach.co/euror-technology-group-automated-surveillance-security-control-monitoring-systems-profile_b44b7834fcfbbf73（抓取 2026-10-21）
+- **【用户表】IFSEC 2010；41 次跟进；WA 已加；索要资料**
+  > 资料 / Mohamad Asaad Maarouf Manager / 971 26417222 T 050751 4160 已加 / IFSEC 2010
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（）info@eurotechnology.net（公开） +971 2 6417222 / +971 50 751 4160（WA）〔用户 Clients 表 + 官网〕
 - **调研后定级**：B（原自动 A）——41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。
 - 备注：WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com） |
+| 总部/地址 | Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA） |
+| 其他 | 安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务 |
+
+- **业务线**：安防系统集成（阿布扎比 + 伊拉克）；消防报警（守界：主系统不供）
+- **触达通道（公开）**：网站: https://eurotechnology.net/；邮箱: m.maarouf@eurotechnology.ae（用户表）；info@netontechnologies.com；WhatsApp: +971 50 751 4160（已加）
+- **近况信号**：
+  - 41 次跟进中 4 次回复（索要资料）→ 互动最活跃的中东 B 客户；经理 Mohamad Asaad Maarouf 直达
+  - 客户群含军方/VVIP 宫殿/政府 → 按个案守界，仅供民用安防网络层
+- **风险/边界**：守界（军方/政府项目）；伊拉克业务付款与物流；小团队
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）
+- **邮件切入句（英文）**：Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,18 +196,17 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（安防系统集成商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防系统集成商） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -198,7 +216,7 @@ updated: 2026-10-21
 
 - **S**：有 4 次实质回复（对方认识我们）；WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（≈9 人，≈$7M）
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（≈9 人，≈$7M）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -226,14 +244,14 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Mohamad,
 
-Picking up our earlier exchange about PoE / industrial switches.
+Picking up our earlier exchange about PoE / industrial switches. Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

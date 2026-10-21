@@ -1,5 +1,5 @@
 # ict-integrators.com
-**官方名称（调研核实）**：ICT Integrators（ict-integrators.com，巴基斯坦）
+**官方名称（调研核实）**：ICT Integrators（Lahore, Pakistan；ict-integrators.com；电信/企业系统集成商）
 
 > **评级 B**　|　巴基斯坦　|　档案编号 `SA-143`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -10,7 +10,7 @@ code: SA-143
 rating: B
 rating_auto: A
 rating_research: B  # 仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。
-name_official: "ICT Integrators（ict-integrators.com，巴基斯坦）"
+name_official: "ICT Integrators（Lahore, Pakistan；ict-integrators.com；电信/企业系统集成商）"
 score: 61
 country: 巴基斯坦
 region: 南亚
@@ -31,10 +31,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：巴基斯坦 ICT 集成商，群发名单；历史有成交标记（switch/PoE 等），无跟进互动。（调研 2026-10-21；表内兴趣：switch POE等）
+- **是谁**：拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。（调研 2026-10-21；表内兴趣：switch POE等）
 - **为什么是 B 级**：**调研后定级 B**（仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -56,17 +56,47 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未单独检索（仅用户记录）
-- **是谁**：巴基斯坦 ICT 集成商，群发名单；历史有成交标记（switch/PoE 等），无跟进互动。
+- **状态：已调研（2026-10-21）**　网站状态：在线
+- **是谁**：拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。
 - **类型**：系统集成商
 - **规模**：待补证
 - **【用户记录】switch、PoE 等；历史成交标记；0 次跟进**
   > switch POE等（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网】团队与业务**
+  > Muhammad Waleed CEO … Ihsan Ullah Director Commercial … ICT Integrators is a system integrator bearing a portfolio of diversified products for IT/Telecom sector … 349 - H/3, Johar Town, Lahore apac@ict-integrators.com +92-42-35951406-7
+  > 来源：https://www.ict-integrators.com/integrators/（抓取 2026-10-21）
+- **【LinkedIn】规模与成立**
+  > ICT Integrators … Company size: 51-200 employees … Headquarters: Lahore, Punjab … Type: Partnership … Founded: 2007 … Sobha Ivory 1 Office 206 Dubai
+  > 来源：https://pk.linkedin.com/company/ict-integrators（抓取 2026-10-21）
+- **【名录】营收与员工数**
+  > ICT Integrators … Revenue · $15.4 million Employees · 22 … Founded · 2007
+  > 来源：https://rocketreach.co/ict-integrators-profile_b5d959fff42e5de2（抓取 2026-10-21）
+- **【用户表】富通天下：买了飞宇的；switch PoE 等**
+  > switch POE等 / 买了飞宇的 / 富通天下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Muhammad Waleed（CEO（官网公开））apac@ict-integrators.com（公司） +92 42 3595 1406（公司）〔https://www.ict-integrators.com/integrators/〕
+- **KP**：Ihsan Ullah（Director Commercial（官网公开））— —〔https://www.ict-integrators.com/integrators/〕
 - **调研后定级**：B（原自动 A）——仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。
 - 备注：老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。
 
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ICT Integrators（Partnership） |
+| 成立 | 2007（LinkedIn）/ 2005（Tracxn） |
+| 总部/地址 | 349-H/3, Johar Town, Lahore 54000（+92 42 3595 1406-7；apac@ict-integrators.com）；Dubai: Sobha Ivory 1 Office 206 |
+| 其他 | 电信运营商 VAR；物理安全/CCTV 亦在能力范围 |
+
+- **业务线**：电信/企业网络系统集成；网络与物理安全；云/虚拟化/UC
+- **触达通道（公开）**：网站: https://www.ict-integrators.com/integrators/；电话: +92 42 3595 1406-7（公开）；邮箱（公开）: apac@ict-integrators.com；LinkedIn: https://pk.linkedin.com/company/ict-integrators
+- **近况信号**：
+  - 已从中国厂（飞宇）进口交换机/PoE → 对中国品牌接受；运营商与企业项目 → 24 口 PoE 与 10G 上联
+- **风险/边界**：南亚非主攻区；巴基斯坦外汇/信用证周期；无互动
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）
+- **邮件切入句（英文）**：Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -87,7 +117,8 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | apac@ict-integrators.com | 用户表原值 | Clients/ 表 |
+| Muhammad Waleed | CEO（官网公开） | apac@ict-integrators.com（公司） / +92 42 3595 1406（公司） | 调研核实（公开页） | https://www.ict-integrators.com/integrators/ |
+| Ihsan Ullah | Director Commercial（官网公开） | — / — | 调研核实（公开页） | https://www.ict-integrators.com/integrators/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -103,7 +134,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1） | $140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -155,9 +186,9 @@ updated: 2026-10-21
 **主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Muhammad,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

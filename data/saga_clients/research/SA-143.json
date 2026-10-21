@@ -1,8 +1,8 @@
 {
  "code": "SA-143",
- "name_official": "ICT Integrators（ict-integrators.com，巴基斯坦）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "巴基斯坦 ICT 集成商，群发名单；历史有成交标记（switch/PoE 等），无跟进互动。",
+ "name_official": "ICT Integrators（Lahore, Pakistan；ict-integrators.com；电信/企业系统集成商）",
+ "website_status": "在线",
+ "summary": "拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。",
  "type": "系统集成商",
  "size": "待补证",
  "brands_seen": [],
@@ -11,6 +11,34 @@
    "kind": "用户记录",
    "claim": "switch、PoE 等；历史成交标记；0 次跟进",
    "quote": "switch POE等（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "团队与业务",
+   "quote": "Muhammad Waleed CEO … Ihsan Ullah Director Commercial … ICT Integrators is a system integrator bearing a portfolio of diversified products for IT/Telecom sector … 349 - H/3, Johar Town, Lahore apac@ict-integrators.com +92-42-35951406-7",
+   "url": "https://www.ict-integrators.com/integrators/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与成立",
+   "quote": "ICT Integrators … Company size: 51-200 employees … Headquarters: Lahore, Punjab … Type: Partnership … Founded: 2007 … Sobha Ivory 1 Office 206 Dubai",
+   "url": "https://pk.linkedin.com/company/ict-integrators",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "名录",
+   "claim": "营收与员工数",
+   "quote": "ICT Integrators … Revenue · $15.4 million Employees · 22 … Founded · 2007",
+   "url": "https://rocketreach.co/ict-integrators-profile_b5d959fff42e5de2",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "富通天下：买了飞宇的；switch PoE 等",
+   "quote": "switch POE等 / 买了飞宇的 / 富通天下",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
   }
@@ -22,10 +50,58 @@
    "email": "",
    "phone": "",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Muhammad Waleed",
+   "role": "CEO（官网公开）",
+   "email": "apac@ict-integrators.com（公司）",
+   "phone": "+92 42 3595 1406（公司）",
+   "source": "https://www.ict-integrators.com/integrators/"
+  },
+  {
+   "name": "Ihsan Ullah",
+   "role": "Director Commercial（官网公开）",
+   "email": "—",
+   "phone": "—",
+   "source": "https://www.ict-integrators.com/integrators/"
   }
  ],
  "grade_override": "B",
  "override_reason": "仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。",
  "notes": "老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "ICT Integrators（Partnership）",
+  "founded": "2007（LinkedIn）/ 2005（Tracxn）",
+  "hq": "349-H/3, Johar Town, Lahore 54000（+92 42 3595 1406-7；apac@ict-integrators.com）；Dubai: Sobha Ivory 1 Office 206",
+  "size": "51–200（LinkedIn）/ 22（RocketReach）；营收 $15.4M",
+  "other": "电信运营商 VAR；物理安全/CCTV 亦在能力范围"
+ },
+ "business_lines": [
+  "电信/企业网络系统集成",
+  "网络与物理安全",
+  "云/虚拟化/UC"
+ ],
+ "channels": {
+  "网站": "https://www.ict-integrators.com/integrators/",
+  "电话": "+92 42 3595 1406-7（公开）",
+  "邮箱（公开）": "apac@ict-integrators.com",
+  "LinkedIn": "https://pk.linkedin.com/company/ict-integrators"
+ },
+ "signals": [
+  "已从中国厂（飞宇）进口交换机/PoE → 对中国品牌接受；运营商与企业项目 → 24 口 PoE 与 10G 上联"
+ ],
+ "risks": [
+  "南亚非主攻区；巴基斯坦外汇/信用证周期；无互动"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）"
+ },
+ "email_hook": "Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?"
 }

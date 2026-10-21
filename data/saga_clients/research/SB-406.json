@@ -1,0 +1,89 @@
+{
+ "code": "SB-406",
+ "name_official": "Компания «МОДУЛЬ»（module-ltd.ru / pro-tek.pro，St. Petersburg, Russia；电信设备供应与集成）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Eltex（在售）",
+  "PLANET（在售）",
+  "TP-Link（在售）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "在售交换机品牌与型号",
+   "quote": "Ethernet-коммутатор доступа MES1124MB Артикул:Eltex MES1124 … MES2124P … MES3108F … 13\" 8-Port 100/1000Base-X SFP + 2-Port 10/100/1000Base-T L2/L4 Managed Metro Ethernet Switch (AC+2 DC, DIDO) Артикул:MGSD-10080F",
+   "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "官网",
+   "claim": "业务与项目案例",
+   "quote": "Мы — надёжный поставщик телекоммуникационного оборудования для построения сетей связи: GPON, Ethernet-коммутаторы, VoIP-шлюзы, MSAN, Softswitch & IMS … ЛВС Академии легкой атлетики Санкт-Петербурга … ГУ МВД России по городу Санкт-Петербургу … ФГБУ «НМХЦ им. Н.И. Пирогова»",
+   "url": "https://module-ltd.ru/",
+   "date": "2024-06-04"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP/MC/商用 Switch；TP-Link 为主；一邮箱退信",
+   "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "ООО «Модуль»（全称待核）",
+  "hq": "Санкт-Петербург",
+  "size": "中小型",
+  "other": "供应 Eltex、PLANET；政府/医疗项目"
+ },
+ "business_lines": [
+  "电信设备供应（GPON、交换机、VoIP、MSAN）",
+  "局域网设计与安装项目"
+ ],
+ "products_seen": [
+  {
+   "brand": "PLANET",
+   "model": "MGSD-10080F",
+   "spec": "8×100/1000 SFP + 2×GE L2/L4 管理 Metro（AC+2 DC，DIDO）",
+   "saga": "无 8 SFP 同口型；近似 STC-28GPM（2 SFP + 8 GE，$62.2）",
+   "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Eltex",
+   "model": "MES2124P / MES1124M / MES3108F",
+   "spec": "接入/汇聚交换机（PoE 24 口等）",
+   "saga": "STC-424DGGPM-280W（$140.1）/ STC-424XGGM（$132.7）",
+   "url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "网站": "https://module-ltd.ru/ · http://www.module-ltd.ru/products/ethernet_kommutatory/",
+  "邮箱": "info@module-ltd.ru / zakaz@pro-tek.pro（用户表；其一曾退信）"
+ },
+ "signals": [
+  "在售 PLANET + Eltex → 同口型低价线可补「预算项目」；CCTV networking 需求"
+ ],
+ "risks": [
+  "俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）"
+ },
+ "email_hook": "Здравствуйте, рядом с Eltex MES2124P и PLANET в вашем каталоге: 24 GbE PoE+ (280 Вт) + 4 SFP L2+ — 140,1 USD EXW, 2 SFP + 8 GbE PoE L2 — 62,2 USD, нейтральная упаковка, расчёт в CNY. Для каких объектов (ЛВС, видеонаблюдение) вам чаще нужен бюджетный вариант?"
+}

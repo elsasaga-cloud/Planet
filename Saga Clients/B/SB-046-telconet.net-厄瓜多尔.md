@@ -1,4 +1,5 @@
 # telconet.net
+**官方名称（调研核实）**：Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）
 
 > **评级 B**　|　厄瓜多尔　|　档案编号 `SB-046`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -8,6 +9,7 @@
 code: SB-046
 rating: B
 rating_auto: B
+name_official: "Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）"
 score: 57
 country: 厄瓜多尔
 region: 拉美
@@ -21,19 +23,19 @@ first_contact: unknown
 last_contact: unknown
 p1: none
 price_tier: 20%
-research: pending
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：厄瓜多尔的经销/集成（类型待核）；兴趣/在卖：从国内买了很多SFP
+- **是谁**：厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。（调研 2026-10-21；表内兴趣：从国内买了很多SFP）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/厄瓜多尔
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：— — SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI；—
+- **P1（下一步唯一主推）**：— — 深挖对位：待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,28 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-046.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：在线（未单独抓取）
+- **是谁**：厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。
+- **【用户表】富通天下：从国内买了很多 SFP**
+  > 从国内买了很多SFP / 富通天下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Telconet S.A. |
+| 总部/地址 | Guayaquil, Ecuador |
+| 其他 | 直接从中国进口 SFP（外贸数据） |
+
+- **业务线**：光纤电信运营（骨干、企业、数据中心）
+- **触达通道（公开）**：网站: https://www.telconet.ec/（未核）；邮箱: info@telconet.ec（用户表）
+- **近况信号**：
+  - 运营商直采中国 SFP → 对中国供应商开放；量大
+- **风险/边界**：大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）
+- **邮件切入句（英文）**：Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -90,7 +113,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI | — | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1） | — | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -136,12 +159,25 @@ updated: 2026-10-21
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
+
+```text
+Hello,
+
+Picking up our earlier exchange about PoE / industrial switches. Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?
+
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

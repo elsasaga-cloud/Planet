@@ -13,6 +13,13 @@
    "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西（用户 Clients 表摘录）",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "买过非管理/百兆交换机",
+   "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [
@@ -27,5 +34,34 @@
  "grade_override": "B",
  "override_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
  "notes": "回访一封即可。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；网站信息不明）"
+ },
+ "company_facts": {
+  "legal_name": "Mutex Systems Ltd（mutexsystemsltd.com）",
+  "hq": "Pakistan",
+  "size": "待核",
+  "other": "用户注：IT 居多，买过非管理/百兆交换机；网站看不出业务"
+ },
+ "business_lines": [
+  "IT 产品供应（推测）"
+ ],
+ "channels": {
+  "网站": "mutexsystemsltd.com（用户注：花哨、看不明白）",
+  "邮箱": "info@mutexsystemsltd.com / support@mutexsystemsltd.com（用户表）"
+ },
+ "signals": [
+  "曾买百兆非管理交换机 → 千兆升级价很低（STC-08GE $10.5）"
+ ],
+ "risks": [
+  "南亚非主攻区；主体与需求模糊；无互动"
+ ],
+ "saga_fit": {
+  "p1": "STC-08GE",
+  "tier": 25,
+  "why": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）"
+ },
+ "email_hook": "Hello Mutex team, you previously bought unmanaged Fast Ethernet switches; the gigabit 8-port equivalent is now $10.5 EXW and the 8-port PoE version $24.2 — what quantity do your IT projects take per month?"
 }

@@ -43025,6 +43025,13 @@
 "quote": "$7 million in revenue and 9 employees",
 "url": "https://rocketreach.co/euror-technology-group-automated-surveillance-security-control-monitoring-systems-profile_b44b7834fcfbbf73",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "IFSEC 2010；41 次跟进；WA 已加；索要资料",
+"quote": "资料 / Mohamad Asaad Maarouf Manager / 971 26417222 T 050751 4160 已加 / IFSEC 2010",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -43039,7 +43046,39 @@
 "grade_override": "B",
 "override_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
 "notes": "WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+},
+"company_facts": {
+"legal_name": "Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com）",
+"hq": "Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA）",
+"size": "约 9 人；营收估 $7M（首轮调研）",
+"other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务"
+},
+"business_lines": [
+"安防系统集成（阿布扎比 + 伊拉克）",
+"消防报警（守界：主系统不供）"
+],
+"channels": {
+"网站": "https://eurotechnology.net/",
+"邮箱": "m.maarouf@eurotechnology.ae（用户表）；info@netontechnologies.com",
+"WhatsApp": "+971 50 751 4160（已加）"
+},
+"signals": [
+"41 次跟进中 4 次回复（索要资料）→ 互动最活跃的中东 B 客户；经理 Mohamad Asaad Maarouf 直达",
+"客户群含军方/VVIP 宫殿/政府 → 按个案守界，仅供民用安防网络层"
+],
+"risks": [
+"守界（军方/政府项目）；伊拉克业务付款与物流；小团队"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
+},
+"email_hook": "Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?"
 }
 },
 {
@@ -51624,9 +51663,9 @@
 "grade": "B",
 "research": {
 "code": "SA-141",
-"name_official": "Comtec（comtec.com.vn，越南）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "越南网络产品公司，群发名单，兴趣 SFP 模块，无跟进互动。",
+"name_official": "Công ty TNHH Công Nghệ và Truyền Thông COMTEC（Hà Nội, Vietnam；comtec.com.vn；电信设备/光纤配件批发）",
+"website_status": "在线",
+"summary": "河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。",
 "type": "经销商",
 "size": "待补证",
 "brands_seen": [],
@@ -51635,6 +51674,27 @@
 "kind": "用户记录",
 "claim": "SFP 模块；0 次跟进",
 "quote": "SFP模块（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位与运营商客户",
+"quote": "Ra đời vào ngày 09 tháng 11 năm 1998, Công ty TNHH Công Nghệ và Truyền Thông COMTEC … công ty bán buôn thiết bị và linh kiện điện tử, viễn thông … mối quan hệ hợp tác lâu dài … với các đối tác lớn trong ngành viễn thông như Viettel, MobiFone và VNPT",
+"url": "https://comtec.com.vn/ve-chung-toi/",
+"date": "2026-10-21"
+},
+{
+"kind": "黄页",
+"claim": "联系人、产品线",
+"quote": "Email: info@comtec.com.vn … Tên liên hệ: Ông Cao Bá Duy Chức vụ: P. Giám Đốc Di động: 0989 339 983 Email: caobaduy@comtec.com.vn … Module quang / Phụ kiện cáp quang mạng truyền dẫn / Thiết bị hàn nối sợi quang",
+"url": "https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：从 BTON 买了很多；SFP 模块",
+"quote": "SFP模块 / 从BTON买了很多 / 富通天下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -51646,12 +51706,51 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Cao Bá Duy",
+"role": "Phó Giám Đốc（副总经理；黄页公开）",
+"email": "caobaduy@comtec.com.vn（黄页公开）",
+"phone": "+84 989 339 983（黄页公开）",
+"source": "https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html"
 }
 ],
 "grade_override": "B",
 "override_reason": "品类为光模块（非主线）、无互动、越南非主攻区 → B。",
 "notes": "首触邮件带 SFP 光口交换机。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 黄页核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Công ty TNHH Công Nghệ và Truyền Thông COMTEC（税号 0100774014）",
+"founded": "1998-11-09",
+"hq": "Tòa FS - GoldSeason, 47 Nguyễn Tuân, Thanh Xuân, Hà Nội（+84 24 3773 4926；info@comtec.com.vn）；分公司 24C Phan Đăng Lưu, TP HCM",
+"size": "中型批发商（规模待核）",
+"other": "客户 Viettel / MobiFone / VNPT；所有者 Vũ Thái Hải"
+},
+"business_lines": [
+"电信设备与元器件批发（光模块、光缆配件、电源、仪表）",
+"运营商项目供货"
+],
+"channels": {
+"网站": "https://comtec.com.vn/ve-chung-toi/",
+"电话": "+84 24 3773 4926（公开）",
+"邮箱（公开）": "info@comtec.com.vn；caobaduy@comtec.com.vn（黄页公开）"
+},
+"signals": [
+"大量进口光模块 + 运营商客户 → SFP（Q-32）与 2 SFP 接入交换机/MC 配套；副总具名可直达"
+],
+"risks": [
+"亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32"
+},
+"email_hook": "Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?"
 }
 },
 {
@@ -51964,9 +52063,9 @@
 "grade": "B",
 "research": {
 "code": "SA-143",
-"name_official": "ICT Integrators（ict-integrators.com，巴基斯坦）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "巴基斯坦 ICT 集成商，群发名单；历史有成交标记（switch/PoE 等），无跟进互动。",
+"name_official": "ICT Integrators（Lahore, Pakistan；ict-integrators.com；电信/企业系统集成商）",
+"website_status": "在线",
+"summary": "拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。",
 "type": "系统集成商",
 "size": "待补证",
 "brands_seen": [],
@@ -51975,6 +52074,34 @@
 "kind": "用户记录",
 "claim": "switch、PoE 等；历史成交标记；0 次跟进",
 "quote": "switch POE等（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "团队与业务",
+"quote": "Muhammad Waleed CEO … Ihsan Ullah Director Commercial … ICT Integrators is a system integrator bearing a portfolio of diversified products for IT/Telecom sector … 349 - H/3, Johar Town, Lahore apac@ict-integrators.com +92-42-35951406-7",
+"url": "https://www.ict-integrators.com/integrators/",
+"date": "2026-10-21"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模与成立",
+"quote": "ICT Integrators … Company size: 51-200 employees … Headquarters: Lahore, Punjab … Type: Partnership … Founded: 2007 … Sobha Ivory 1 Office 206 Dubai",
+"url": "https://pk.linkedin.com/company/ict-integrators",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "营收与员工数",
+"quote": "ICT Integrators … Revenue · $15.4 million Employees · 22 … Founded · 2007",
+"url": "https://rocketreach.co/ict-integrators-profile_b5d959fff42e5de2",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：买了飞宇的；switch PoE 等",
+"quote": "switch POE等 / 买了飞宇的 / 富通天下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -51986,12 +52113,60 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表"
+},
+{
+"name": "Muhammad Waleed",
+"role": "CEO（官网公开）",
+"email": "apac@ict-integrators.com（公司）",
+"phone": "+92 42 3595 1406（公司）",
+"source": "https://www.ict-integrators.com/integrators/"
+},
+{
+"name": "Ihsan Ullah",
+"role": "Director Commercial（官网公开）",
+"email": "—",
+"phone": "—",
+"source": "https://www.ict-integrators.com/integrators/"
 }
 ],
 "grade_override": "B",
 "override_reason": "仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。",
 "notes": "老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "ICT Integrators（Partnership）",
+"founded": "2007（LinkedIn）/ 2005（Tracxn）",
+"hq": "349-H/3, Johar Town, Lahore 54000（+92 42 3595 1406-7；apac@ict-integrators.com）；Dubai: Sobha Ivory 1 Office 206",
+"size": "51–200（LinkedIn）/ 22（RocketReach）；营收 $15.4M",
+"other": "电信运营商 VAR；物理安全/CCTV 亦在能力范围"
+},
+"business_lines": [
+"电信/企业网络系统集成",
+"网络与物理安全",
+"云/虚拟化/UC"
+],
+"channels": {
+"网站": "https://www.ict-integrators.com/integrators/",
+"电话": "+92 42 3595 1406-7（公开）",
+"邮箱（公开）": "apac@ict-integrators.com",
+"LinkedIn": "https://pk.linkedin.com/company/ict-integrators"
+},
+"signals": [
+"已从中国厂（飞宇）进口交换机/PoE → 对中国品牌接受；运营商与企业项目 → 24 口 PoE 与 10G 上联"
+],
+"risks": [
+"南亚非主攻区；巴基斯坦外汇/信用证周期；无互动"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）"
+},
+"email_hook": "Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?"
 }
 },
 {
@@ -52143,6 +52318,13 @@
 "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西（用户 Clients 表摘录）",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "买过非管理/百兆交换机",
+"quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
 }
 ],
 "kp": [
@@ -52157,7 +52339,36 @@
 "grade_override": "B",
 "override_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
 "notes": "回访一封即可。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；网站信息不明）"
+},
+"company_facts": {
+"legal_name": "Mutex Systems Ltd（mutexsystemsltd.com）",
+"hq": "Pakistan",
+"size": "待核",
+"other": "用户注：IT 居多，买过非管理/百兆交换机；网站看不出业务"
+},
+"business_lines": [
+"IT 产品供应（推测）"
+],
+"channels": {
+"网站": "mutexsystemsltd.com（用户注：花哨、看不明白）",
+"邮箱": "info@mutexsystemsltd.com / support@mutexsystemsltd.com（用户表）"
+},
+"signals": [
+"曾买百兆非管理交换机 → 千兆升级价很低（STC-08GE $10.5）"
+],
+"risks": [
+"南亚非主攻区；主体与需求模糊；无互动"
+],
+"saga_fit": {
+"p1": "STC-08GE",
+"tier": 25,
+"why": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）"
+},
+"email_hook": "Hello Mutex team, you previously bought unmanaged Fast Ethernet switches; the gigabit 8-port equivalent is now $10.5 EXW and the 8-port PoE version $24.2 — what quantity do your IT projects take per month?"
 }
 },
 {
@@ -53272,19 +53483,35 @@
 "grade": "B",
 "research": {
 "code": "SA-148",
-"name_official": "Technosys（technosys.co.in，印度）",
-"website_status": "未单独检索（仅用户记录）",
-"summary": "印度网络产品公司，群发名单（富通天下），在用 EtherWAN 工业 FS/MC，无互动。",
+"name_official": "TECHNOSYS（technosys.co.in，Kamothe, Navi Mumbai, India；IT 产品/服务小型公司）",
+"website_status": "在线（信息简略）",
+"summary": "新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。",
 "type": "经销/集成商",
 "size": "待补证",
 "brands_seen": [
-"EtherWAN（用户记录：在用）"
+"EtherWAN（用户记录：在用）",
+"EtherWAN（在用）",
+"KONTEN（进口）"
 ],
 "evidence": [
 {
 "kind": "用户记录",
 "claim": "工业 FS MC（EtherWAN 的）；0 次跟进",
 "quote": "工业FS MC（Etherwan的）（用户 Clients 表摘录）",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "公司定位与联系方式",
+"quote": "TECHNOSYS is a team of Company, Customers & Contributors … IT Solutions … IT Shop - Add: Kamothe, Navi Mumbai – 410209. Ph: +91-9320207744 Email: contact@technosys.co.in",
+"url": "https://technosys.co.in/",
+"date": "2018-07-23"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：买 KONTEN 工业 FS；在用 EtherWAN",
+"quote": "工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下",
 "url": "（本地 Clients/ 表格，无公开 URL）",
 "date": "2026-10-21"
 }
@@ -53301,7 +53528,38 @@
 "grade_override": "B",
 "override_reason": "无互动、印度非主攻区；EtherWAN 在用（台系高价）本可替代，但证据不足 → B。",
 "notes": "首触一封：EtherWAN 工业 PoE 对位 STI-288DGGPM 价差。",
-"researched_at": "2026-10-21"
+"researched_at": "2026-10-21",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "TECHNOSYS（全称待核）",
+"hq": "Kamothe, Navi Mumbai 410209（+91 93202 07744；contact@technosys.co.in）",
+"size": "小型",
+"other": "官网业务杂（IT Shop / 云 / 照相馆）；外贸数据显示进口工业 FS"
+},
+"business_lines": [
+"IT 产品零售/服务",
+"（外贸数据）工业光纤交换机进口"
+],
+"channels": {
+"网站": "https://technosys.co.in/",
+"电话": "+91 93202 07744（公开）",
+"邮箱（公开）": "contact@technosys.co.in"
+},
+"signals": [
+"在用 EtherWAN 工业 FS/MC + 进口 KONTEN 工业 FS → 工业 DIN 同口型低价替代"
+],
+"risks": [
+"主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）"
+},
+"email_hook": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?"
 }
 },
 {
@@ -67501,7 +67759,95 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-033",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-033",
+"name_official": "ООО «РЕГИОН-ПРОФ»（St. Petersburg, Russia；regionprof.ru；ПРОСОФТ 集团旗下批发商）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Maiwe 迈威（外贸数据在采）",
+"ProSoft（母公司）"
+],
+"evidence": [
+{
+"kind": "登记名录",
+"claim": "法人、股东、业务",
+"quote": "ООО \"Регион-Проф\" зарегистрировано в Санкт-Петербурге в ноябре 2006 года и работает на рынке оптовой торговли компьютерами, периферийными устройствами и программным обеспечением. С июля 2020 года компанией руководит генеральный директор Коровина Марина Григорьевна. Единственным учредителем выступает юридическое лицо — ООО \"Прософт\", владеющее 100% долей",
+"url": "https://www.rusprofile.ru/id/4358680",
+"date": "2026-10-21"
+},
+{
+"kind": "登记名录",
+"claim": "营收与员工",
+"quote": "2025 | 1.6 млрд ₽ | 118 млн ₽ … Численность персонала: 84",
+"url": "https://www.list-org.com/company/4497434",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "联系方式",
+"quote": "© 2010-2026 ООО «РЕГИОН-ПРОФ» | Тел: +7 (495) 232-29-55 E-mail: info@regionprof.ru",
+"url": "https://www.regionprof.ru/",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：买了迈威的；大型公司",
+"quote": "买了迈威的 / 一个大型公司 / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Коровина Марина Григорьевна",
+"role": "Генеральный директор（登记公开）",
+"email": "info@regionprof.ru（公司）",
+"phone": "+7 495 232-29-55（公司）",
+"source": "https://www.rusprofile.ru/id/4358680"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 登记核对；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "ООО «РЕГИОН-ПРОФ»（ИНН 7728599583；ОГРН 1067759114675）",
+"founded": "2006-11-02",
+"hq": "198095, Санкт-Петербург, ул. Ивана Черных, д. 29, лит. А（+7 495 232-29-55；info@regionprof.ru）",
+"size": "84 人；2025 营收 1.6 亿 ₽ 级（16 亿 ₽）",
+"other": "股东 ООО «Прософт» 100%；批发计算机/外设/音视频设备"
+},
+"business_lines": [
+"工业/IT 设备批发（ProSoft 集团渠道）",
+"区域经销网络"
+],
+"channels": {
+"网站": "https://www.regionprof.ru/",
+"电话": "+7 495 232-29-55（公开）",
+"邮箱（公开）": "info@regionprof.ru"
+},
+"signals": [
+"ProSoft 集团 = 俄罗斯工业自动化头部分销 → 已进口 Maiwe 工业交换机，Saga STI 线可作第二来源",
+"营收 16 亿 ₽ → 批量能力强"
+],
+"risks": [
+"俄罗斯结算/制裁合规；大集团供应商准入；无互动记录"
+],
+"saga_fit": {
+"p1": "STI-288DGGPM",
+"tier": 20,
+"why": "分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）"
+},
+"email_hook": "Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?"
+}
 },
 {
 "name": "swift.net.pk",
@@ -67866,10 +68212,77 @@
 "+5 有可核实的公司网站/域名",
 "+0 区域 俄语区/俄罗斯"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "成交过·维护",
 "code": "SB-035",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-035",
+"name_official": "АО «ДЦОА» — Данные – центр обработки и автоматизации（Moscow, Russia；dcoa.ru / дцоа.рф）",
+"researched_at": "2026-10-21",
+"website_status": "在线（中文名录域 xn--80ah4a5a.xn--p1ai = дцоа.рф）",
+"summary": "АО «ДЦОА»（Данные – центр обработки и автоматизации；2018-11-16 注册，莫斯科 Кожевнический пр-д 1）——据 RBC/CNews，专为在俄罗斯所有运营商网络部署 DPI 流量过滤设备（「主权互联网」）而设立的集成商。用户表（富通天下外贸数据）：从 GLsun 大量采购光设备。政府管制性基础设施 + 制裁敏感 → C（守界），不跟进。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "媒体",
+"claim": "公司性质",
+"quote": "Для внедрения систем фильтрации трафика (Deep Packet Inspection; DPI) на сетях операторов связи России с целью реализации закона о «суверенном Рунете» была создана компания «Данные — центр обработки и автоматизации» (ДЦОА). … Официальный сайт ДЦОА — dcoa.ru",
+"url": "https://www.rbc.ru/technology_and_media/26/09/2019/5d8b4c1c9a7947d3c58f9a48",
+"date": "2019-09-26"
+},
+{
+"kind": "媒体",
+"claim": "近况",
+"quote": "Компанию ДЦОА, участвующую в установке оборудования для исполнения закона о «суверенном Рунете», возглавил выходец из «Ростелекома» Алексей Киреев. … ДЦОА была создана в ноябре 2018 г.",
+"url": "https://www.cnews.ru/news/top/2026-01-20_tainstvennuyu_kompaniyu_po",
+"date": "2026-01-20"
+},
+{
+"kind": "用户表",
+"claim": "富通天下：从 GLsun 买了很多光设备",
+"quote": "光设备 / 从Glsun买 买了很多 / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "守界：ДЦОА（2018-11 注册）为俄罗斯「主权互联网」法案下在全国运营商网络部署 DPI/流量过滤设备（ТСПУ）的指定集成商（RBC/CNews 报道），属国家管制/政府性质基础设施，且制裁敏感；其进口 GLsun 光设备与 Saga 产品线无关",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 政府管制基础设施/守界降 C）"
+},
+"company_facts": {
+"legal_name": "АО «Данные – центр обработки и автоматизации»（ИНН 7743282541）",
+"founded": "2018-11-16",
+"hq": "Москва, Кожевнический пр-д, д. 1",
+"size": "待核",
+"other": "DPI/ТСПУ 部署集成商（RBC 2019、CNews 2026）"
+},
+"business_lines": [
+"运营商网络流量过滤（DPI）设备部署"
+],
+"channels": {
+"网站": "https://xn--80ah4a5a.xn--p1ai/контакты/",
+"邮箱": "info@dcoa.ru（用户表）"
+},
+"signals": [
+"无（守界）"
+],
+"risks": [
+"政府管制基础设施；制裁敏感 → C"
+],
+"saga_fit": {
+"p1": null,
+"tier": 25,
+"why": "不推进（守界）"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "PT. Catur Citra Wisesa",
@@ -70619,7 +71032,59 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-046",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-046",
+"name_official": "Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）",
+"researched_at": "2026-10-21",
+"website_status": "在线（未单独抓取）",
+"summary": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "富通天下：从国内买了很多 SFP",
+"quote": "从国内买了很多SFP / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Telconet S.A.",
+"hq": "Guayaquil, Ecuador",
+"size": "大型运营商（数千人）",
+"other": "直接从中国进口 SFP（外贸数据）"
+},
+"business_lines": [
+"光纤电信运营（骨干、企业、数据中心）"
+],
+"channels": {
+"网站": "https://www.telconet.ec/（未核）",
+"邮箱": "info@telconet.ec（用户表）"
+},
+"signals": [
+"运营商直采中国 SFP → 对中国供应商开放；量大"
+],
+"risks": [
+"大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）"
+],
+"saga_fit": {
+"p1": null,
+"tier": 20,
+"why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）"
+},
+"email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?"
+}
 },
 {
 "name": "Anfiris, lda",
@@ -100480,10 +100945,62 @@
 "+5 有可核实的公司网站/域名",
 "-40 区域 中国大陆/中国大陆"
 ],
-"c_sub": "",
+"c_sub": "调研后定级 C",
 "status": "成交过·维护",
 "code": "SB-1063",
-"grade": "B"
+"grade": "C",
+"research": {
+"code": "SB-1063",
+"name_official": "DCN — Digital China Networks（神州数码网络；dcnglobal.com / dcneurope.eu；中国网络设备厂商）",
+"researched_at": "2026-10-21",
+"website_status": "在线（未单独抓取）",
+"summary": "DCN（Digital China Networks，神州数码网络）——中国网络设备厂商，全球多分公司（欧洲 dcneurope.eu，sales@dcneurope.eu）。用户表：「很多分公司，成单了印尼那个；网站：工业 FS」= Saga 曾与 DCN 印尼分支成交一单（工业光纤交换机）。同行厂商 → C（不主动开发；若印尼分支再询可被动接 OEM 补充品类）。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "多分公司；成单了印尼那个；网站工业 FS",
+"quote": "很多分公司 成单了印尼那个 网站：工业FS / sales@dcneurope.eu / 谷歌",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": "C",
+"override_reason": "同行厂商：DCN（神州数码网络）为中国大陆交换机制造商（自有商用/工业交换机产品线），其欧洲公司 dcneurope.eu 为厂商分支；用户表仅记「成单了印尼那个」（DCN 印尼分支一单）——按本仓规则厂商/区域办事处不是渠道客户，不主动开发；历史成交信息保留供 Simon 参考",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（身份判断 → 同行厂商降 C）"
+},
+"company_facts": {
+"legal_name": "神州数码网络（北京）有限公司 / Digital China Networks（Europe 子公司待核）",
+"hq": "北京；欧洲分公司（dcneurope.eu）",
+"size": "大型厂商",
+"other": "自有工业交换机产品线"
+},
+"business_lines": [
+"网络设备制造（商用/工业交换机、无线）"
+],
+"channels": {
+"网站": "https://www.dcnglobal.com/ · https://dcneurope.eu/",
+"邮箱": "sales@dcneurope.eu（用户表）"
+},
+"signals": [
+"印尼分支曾成交一单（工业 FS）→ 仅被动响应"
+],
+"risks": [
+"同行厂商（渠道冲突）→ C"
+],
+"saga_fit": {
+"p1": null,
+"tier": 30,
+"why": "不主动推进；被动 OEM 补充品类时按 30% 档（如 STI-288DGGPM $151.6）"
+},
+"email_hook": "（不主动发送）"
+}
 },
 {
 "name": "deltathailand.com",
@@ -154536,7 +155053,59 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-171",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-171",
+"name_official": "Công ty Minh Phước（congtyminhphuoc.vn，Vietnam；光纤产品贸易；Gmail）",
+"researched_at": "2026-10-21",
+"website_status": "未单独核对",
+"summary": "越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "富通天下：从 BTON 买了很多；各种光产品",
+"quote": "各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "Công ty TNHH Minh Phước（全称待核）",
+"hq": "Vietnam",
+"size": "待核",
+"other": "Gmail 联系；多品牌光产品"
+},
+"business_lines": [
+"光纤/网络产品贸易"
+],
+"channels": {
+"网站": "https://congtyminhphuoc.vn/（未核）",
+"邮箱": "tmphuocvn@gmail.com（用户表）"
+},
+"signals": [
+"已从 BTON 大量进口 → 价格带熟悉；2 SFP 交换机/MC 可配套"
+],
+"risks": [
+"亚太非主攻区；Gmail；无互动"
+],
+"saga_fit": {
+"p1": "STC-228GP",
+"tier": 20,
+"why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32"
+},
+"email_hook": "Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $30.8 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?"
+}
 },
 {
 "name": "dalessandris.it",
@@ -210279,7 +210848,96 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-406",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-406",
+"name_official": "Компания «МОДУЛЬ»（module-ltd.ru / pro-tek.pro，St. Petersburg, Russia；电信设备供应与集成）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Eltex（在售）",
+"PLANET（在售）",
+"TP-Link（在售）"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "在售交换机品牌与型号",
+"quote": "Ethernet-коммутатор доступа MES1124MB Артикул:Eltex MES1124 … MES2124P … MES3108F … 13\" 8-Port 100/1000Base-X SFP + 2-Port 10/100/1000Base-T L2/L4 Managed Metro Ethernet Switch (AC+2 DC, DIDO) Артикул:MGSD-10080F",
+"url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+"date": "2026-10-21"
+},
+{
+"kind": "官网",
+"claim": "业务与项目案例",
+"quote": "Мы — надёжный поставщик телекоммуникационного оборудования для построения сетей связи: GPON, Ethernet-коммутаторы, VoIP-шлюзы, MSAN, Softswitch & IMS … ЛВС Академии легкой атлетики Санкт-Петербурга … ГУ МВД России по городу Санкт-Петербургу … ФГБУ «НМХЦ им. Н.И. Пирогова»",
+"url": "https://module-ltd.ru/",
+"date": "2024-06-04"
+},
+{
+"kind": "用户表",
+"claim": "SFP/MC/商用 Switch；TP-Link 为主；一邮箱退信",
+"quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网核对）"
+},
+"company_facts": {
+"legal_name": "ООО «Модуль»（全称待核）",
+"hq": "Санкт-Петербург",
+"size": "中小型",
+"other": "供应 Eltex、PLANET；政府/医疗项目"
+},
+"business_lines": [
+"电信设备供应（GPON、交换机、VoIP、MSAN）",
+"局域网设计与安装项目"
+],
+"products_seen": [
+{
+"brand": "PLANET",
+"model": "MGSD-10080F",
+"spec": "8×100/1000 SFP + 2×GE L2/L4 管理 Metro（AC+2 DC，DIDO）",
+"saga": "无 8 SFP 同口型；近似 STC-28GPM（2 SFP + 8 GE，$62.2）",
+"url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+"date": "2026-10-21"
+},
+{
+"brand": "Eltex",
+"model": "MES2124P / MES1124M / MES3108F",
+"spec": "接入/汇聚交换机（PoE 24 口等）",
+"saga": "STC-424DGGPM-280W（$140.1）/ STC-424XGGM（$132.7）",
+"url": "http://www.module-ltd.ru/products/ethernet_kommutatory/",
+"date": "2026-10-21"
+}
+],
+"channels": {
+"网站": "https://module-ltd.ru/ · http://www.module-ltd.ru/products/ethernet_kommutatory/",
+"邮箱": "info@module-ltd.ru / zakaz@pro-tek.pro（用户表；其一曾退信）"
+},
+"signals": [
+"在售 PLANET + Eltex → 同口型低价线可补「预算项目」；CCTV networking 需求"
+],
+"risks": [
+"俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）"
+},
+"email_hook": "Здравствуйте, рядом с Eltex MES2124P и PLANET в вашем каталоге: 24 GbE PoE+ (280 Вт) + 4 SFP L2+ — 140,1 USD EXW, 2 SFP + 8 GbE PoE L2 — 62,2 USD, нейтральная упаковка, расчёт в CNY. Для каких объектов (ЛВС, видеонаблюдение) вам чаще нужен бюджетный вариант?"
+}
 },
 {
 "name": "protekna.com",
@@ -216776,7 +217434,110 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-430",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-430",
+"name_official": "Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）",
+"researched_at": "2026-10-21",
+"website_status": "在线",
+"summary": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
+"type": "",
+"size": "",
+"brands_seen": [
+"Cisco",
+"D-Link",
+"Fortinet"
+],
+"evidence": [
+{
+"kind": "官网",
+"claim": "合作伙伴与业务",
+"quote": "Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan. … +92 213 4404440 … The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.",
+"url": "https://comtech.net.pk/",
+"date": "2026-09-23"
+},
+{
+"kind": "官网",
+"claim": "D-Link 分销伙伴",
+"quote": "As a D-Link distributor partner in Pakistan, Comtech deploys D-Link switches, the D-Link Eagle Pro AI Wi-Fi range, and D-Link surveillance solutions",
+"url": "https://comtech.net.pk/our-technology-partners/",
+"date": "2025-10-17"
+},
+{
+"kind": "官网",
+"claim": "行业客户含工业/地产 CCTV",
+"quote": "• Industrial & Real Estate – CCTV, IoT integration, and remote asset access",
+"url": "https://comtech.net.pk/networking-support-services/",
+"date": "2025-08-06"
+},
+{
+"kind": "LinkedIn",
+"claim": "规模与成立",
+"quote": "Comtech Associate … Company size: 11-50 employees … Headquarters: karachi, sindh … Founded: 2010",
+"url": "https://pk.linkedin.com/company/comtech-one-solution",
+"date": "2026-10-21"
+},
+{
+"kind": "名录",
+"claim": "电话 = 用户表 WA 号",
+"quote": "Comtech's phone number is +92 3352876148",
+"url": "https://www.zoominfo.com/c/comtech/470605669",
+"date": "2026-10-21"
+},
+{
+"kind": "用户表",
+"claim": "闭路电视安全；40 次跟进；WA 已加",
+"quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "（姓名未记录；WA 号 +92 335 287 6148）",
+"role": "（待核）",
+"email": "marketing@comtech.net.pk（官网公开）",
+"phone": "+92 335 287 6148（用户表 WA = ZoomInfo 公司电话）",
+"source": "https://www.zoominfo.com/c/comtech/470605669"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（官网 + 名录核对）"
+},
+"company_facts": {
+"legal_name": "Comtech Associates（Pvt.）Ltd.（全称待核）",
+"founded": "2010（LinkedIn）",
+"hq": "Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk）",
+"size": "11–50（LinkedIn）",
+"other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公"
+},
+"business_lines": [
+"网络基础设施集成（Cisco、D-Link）",
+"网络安全（Fortinet、托管 SOC）",
+"数据中心/云、托管 IT、软件"
+],
+"channels": {
+"网站": "https://comtech.net.pk/",
+"电话": "+92 21 3440 4440（公开）；WhatsApp +92 335 287 6148（用户表，已加）",
+"邮箱（公开）": "marketing@comtech.net.pk"
+},
+"signals": [
+"D-Link 分销伙伴 + 工业/地产 CCTV/IoT 项目 → 无品牌 PoE 作「预算层」补位；40 次推送无回复 → 改 WhatsApp 短消息 + 单一问题"
+],
+"risks": [
+"Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
+],
+"saga_fit": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）"
+},
+"email_hook": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
+}
 },
 {
 "name": "e-saudi.net",
@@ -228102,7 +228863,67 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-490",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-490",
+"name_official": "Bogdan（b.medvedev11@mail.ru；电话 +996 = 吉尔吉斯斯坦；MIPS 展会接触；用户表记为沙特）",
+"researched_at": "2026-10-21",
+"website_status": "无域名",
+"summary": "用户表（MIPS 莫斯科展）：Bogdan（b.medvedev11@mail.ru；+996 555 772 975，已加 WA）——拿了彩页；问过他处不处理工业 FS、SFP；23 次跟进无回复。电话国码 +996 为吉尔吉斯斯坦（用户表国家「沙特阿拉伯」疑为表格归档误记）→ 国家待核（KG）。无公司主体 → 仅表内信息。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "MIPS；拿彩页；问工业 FS/SFP；WA 已加；+996",
+"quote": "拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [
+{
+"name": "Bogdan（Medvedev，按邮箱推断）",
+"role": "（MIPS 名片）",
+"email": "b.medvedev11@mail.ru（用户表）",
+"phone": "+996 555 772 975（用户表）",
+"source": "（本地 Clients/ 表格，无公开 URL）"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "无域名 · 仅表内信息（国家待核 KG）"
+},
+"company_facts": {
+"legal_name": "（公司待核）",
+"hq": "Kyrgyzstan（按 +996 推断；待核）",
+"size": "待核",
+"other": "mail.ru；WA 已加；23 次推送无回复"
+},
+"business_lines": [
+"（待核）网络/安防贸易"
+],
+"channels": {
+"邮箱": "b.medvedev11@mail.ru（用户表）",
+"WhatsApp": "+996 555 772 975（用户表，已加）"
+},
+"signals": [
+"被问「处不处理工业 FS、SFP」→ 需求方向明确；用俄语短消息重启"
+],
+"risks": [
+"无公司信息；23 次无回复；中亚非主攻区"
+],
+"saga_fit": {
+"p1": "STI-288GP",
+"tier": 25,
+"why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32"
+},
+"email_hook": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?"
+}
 },
 {
 "name": "cetsingapore.com",
@@ -259682,7 +260503,59 @@
 "c_sub": "",
 "status": "成交过·维护",
 "code": "SB-616",
-"grade": "B"
+"grade": "B",
+"research": {
+"code": "SB-616",
+"name_official": "MPCL（mpcl.in，India；邮箱退信）",
+"researched_at": "2026-10-21",
+"website_status": "未单独核对",
+"summary": "印度公司 MPCL（mpcl.in；chetan@mpcl.in，群发退信「发不过去」）。用户表（富通天下外贸数据）：买了商业 PoE 交换机（从同行进口），非 Saga 成交。邮箱不可达 → 需从官网重新找联系方式；主体待核。",
+"type": "",
+"size": "",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "用户表",
+"claim": "富通天下：买了商业 PoE；退信",
+"quote": "买了商业POE / 发不过去 / chetan@mpcl.in / 富通天下",
+"url": "（本地 Clients/ 表格，无公开 URL）",
+"date": "2026-10-21"
+}
+],
+"kp": [],
+"grade_override": null,
+"override_reason": "",
+"notes": "（无首轮调研；由 deepen.py 建档）",
+"deep": {
+"done_at": "2026-10-21",
+"level": "B 级加厚 v1（基于用户表整理 + 需求映射；邮箱退信；「成交」为富通天下外贸数据）"
+},
+"company_facts": {
+"legal_name": "MPCL（全称待核）",
+"hq": "India",
+"size": "待核",
+"other": "chetan@mpcl.in 退信"
+},
+"business_lines": [
+"（待核）IT/安防产品"
+],
+"channels": {
+"网站": "https://mpcl.in/（未核，需重找联系邮箱）",
+"邮箱": "chetan@mpcl.in（用户表；退信）"
+},
+"signals": [
+"进口商用 PoE → 8/24 口 PoE 同品类"
+],
+"risks": [
+"邮箱不可达；印度 BIS 要求；南亚非主攻区"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）"
+},
+"email_hook": "（原邮箱退信；待从官网重获联系方式后发）Hello MPCL team, for the commercial PoE switches you import: 2× SFP + 8× PoE unmanaged at $30.8 EXW, L2+ managed at $84.1, 24-port 280 W at $140.1 — which configuration do you buy most?"
+}
 },
 {
 "name": "optokon.pl",

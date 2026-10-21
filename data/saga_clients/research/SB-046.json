@@ -1,0 +1,52 @@
+{
+ "code": "SB-046",
+ "name_official": "Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（未单独抓取）",
+ "summary": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "富通天下：从国内买了很多 SFP",
+   "quote": "从国内买了很多SFP / 富通天下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "Telconet S.A.",
+  "hq": "Guayaquil, Ecuador",
+  "size": "大型运营商（数千人）",
+  "other": "直接从中国进口 SFP（外贸数据）"
+ },
+ "business_lines": [
+  "光纤电信运营（骨干、企业、数据中心）"
+ ],
+ "channels": {
+  "网站": "https://www.telconet.ec/（未核）",
+  "邮箱": "info@telconet.ec（用户表）"
+ },
+ "signals": [
+  "运营商直采中国 SFP → 对中国供应商开放；量大"
+ ],
+ "risks": [
+  "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）"
+ },
+ "email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?"
+}

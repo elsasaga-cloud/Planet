@@ -1,4 +1,5 @@
 # mpcl.in
+**官方名称（调研核实）**：MPCL（mpcl.in，India；邮箱退信）
 
 > **评级 B**　|　印度　|　档案编号 `SB-616`　|　优先级 ★★　|　状态：成交过·维护
 >
@@ -8,6 +9,7 @@
 code: SB-616
 rating: B
 rating_auto: B
+name_official: "MPCL（mpcl.in，India；邮箱退信）"
 score: 36
 country: 印度
 region: 南亚
@@ -20,20 +22,20 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-28DGGPM
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 sources: 1
 updated: 2026-10-21
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的经销/集成（类型待核）；兴趣/在卖：买了商业POE
+- **是谁**：印度公司 MPCL（mpcl.in；chetan@mpcl.in，群发退信「发不过去」）。用户表（富通天下外贸数据）：买了商业 PoE 交换机（从同行进口），非 Saga 成交。邮箱不可达 → 需从官网重新找联系方式；主体待核。（调研 2026-10-21；表内兴趣：买了商业POE）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-28DGGPM — 8 口 PoE + 2 SFP L2+；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
 
 ## 基本事实（事实/推断/假设分层）
@@ -53,7 +55,28 @@ updated: 2026-10-21
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SB-616.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-21）**　网站状态：未单独核对
+- **是谁**：印度公司 MPCL（mpcl.in；chetan@mpcl.in，群发退信「发不过去」）。用户表（富通天下外贸数据）：买了商业 PoE 交换机（从同行进口），非 Saga 成交。邮箱不可达 → 需从官网重新找联系方式；主体待核。
+- **【用户表】富通天下：买了商业 PoE；退信**
+  > 买了商业POE / 发不过去 / chetan@mpcl.in / 富通天下
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；邮箱退信；「成交」为富通天下外贸数据））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | MPCL（全称待核） |
+| 总部/地址 | India |
+| 其他 | chetan@mpcl.in 退信 |
+
+- **业务线**：（待核）IT/安防产品
+- **触达通道（公开）**：网站: https://mpcl.in/（未核，需重找联系邮箱）；邮箱: chetan@mpcl.in（用户表；退信）
+- **近况信号**：
+  - 进口商用 PoE → 8/24 口 PoE 同品类
+- **风险/边界**：邮箱不可达；印度 BIS 要求；南亚非主攻区
+- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）
+- **邮件切入句（英文）**：（原邮箱退信；待从官网重获联系方式后发）Hello MPCL team, for the commercial PoE switches you import: 2× SFP + 8× PoE unmanaged at $30.8 EXW, L2+ managed at $84.1, 24-port 280 W at $140.1 — which configuration do you buy most?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -90,9 +113,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -102,7 +125,7 @@ updated: 2026-10-21
 
 - **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -110,7 +133,7 @@ updated: 2026-10-21
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -134,7 +157,6 @@ updated: 2026-10-21
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）
@@ -144,9 +166,9 @@ updated: 2026-10-21
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. （原邮箱退信；待从官网重获联系方式后发）Hello MPCL team, for the commercial PoE switches you import: 2× SFP + 8× PoE unmanaged at $30.8 EXW, L2+ managed at $84.1, 24-port 280 W at $140.1 — which configuration do you buy most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

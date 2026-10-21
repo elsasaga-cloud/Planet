@@ -1,0 +1,60 @@
+{
+ "code": "SB-490",
+ "name_official": "Bogdan（b.medvedev11@mail.ru；电话 +996 = 吉尔吉斯斯坦；MIPS 展会接触；用户表记为沙特）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表（MIPS 莫斯科展）：Bogdan（b.medvedev11@mail.ru；+996 555 772 975，已加 WA）——拿了彩页；问过他处不处理工业 FS、SFP；23 次跟进无回复。电话国码 +996 为吉尔吉斯斯坦（用户表国家「沙特阿拉伯」疑为表格归档误记）→ 国家待核（KG）。无公司主体 → 仅表内信息。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "MIPS；拿彩页；问工业 FS/SFP；WA 已加；+996",
+   "quote": "拿了彩页 问过他处不处理工业FS SFP / Bogdan / 996 555 772975 已加 / MIPS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [
+  {
+   "name": "Bogdan（Medvedev，按邮箱推断）",
+   "role": "（MIPS 名片）",
+   "email": "b.medvedev11@mail.ru（用户表）",
+   "phone": "+996 555 772 975（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（国家待核 KG）"
+ },
+ "company_facts": {
+  "legal_name": "（公司待核）",
+  "hq": "Kyrgyzstan（按 +996 推断；待核）",
+  "size": "待核",
+  "other": "mail.ru；WA 已加；23 次推送无回复"
+ },
+ "business_lines": [
+  "（待核）网络/安防贸易"
+ ],
+ "channels": {
+  "邮箱": "b.medvedev11@mail.ru（用户表）",
+  "WhatsApp": "+996 555 772 975（用户表，已加）"
+ },
+ "signals": [
+  "被问「处不处理工业 FS、SFP」→ 需求方向明确；用俄语短消息重启"
+ ],
+ "risks": [
+  "无公司信息；23 次无回复；中亚非主攻区"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32"
+ },
+ "email_hook": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?"
+}

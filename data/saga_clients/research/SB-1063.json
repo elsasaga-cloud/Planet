@@ -1,0 +1,52 @@
+{
+ "code": "SB-1063",
+ "name_official": "DCN — Digital China Networks（神州数码网络；dcnglobal.com / dcneurope.eu；中国网络设备厂商）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（未单独抓取）",
+ "summary": "DCN（Digital China Networks，神州数码网络）——中国网络设备厂商，全球多分公司（欧洲 dcneurope.eu，sales@dcneurope.eu）。用户表：「很多分公司，成单了印尼那个；网站：工业 FS」= Saga 曾与 DCN 印尼分支成交一单（工业光纤交换机）。同行厂商 → C（不主动开发；若印尼分支再询可被动接 OEM 补充品类）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "多分公司；成单了印尼那个；网站工业 FS",
+   "quote": "很多分公司 成单了印尼那个 网站：工业FS / sales@dcneurope.eu / 谷歌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
+  }
+ ],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "同行厂商：DCN（神州数码网络）为中国大陆交换机制造商（自有商用/工业交换机产品线），其欧洲公司 dcneurope.eu 为厂商分支；用户表仅记「成单了印尼那个」（DCN 印尼分支一单）——按本仓规则厂商/区域办事处不是渠道客户，不主动开发；历史成交信息保留供 Simon 参考",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（身份判断 → 同行厂商降 C）"
+ },
+ "company_facts": {
+  "legal_name": "神州数码网络（北京）有限公司 / Digital China Networks（Europe 子公司待核）",
+  "hq": "北京；欧洲分公司（dcneurope.eu）",
+  "size": "大型厂商",
+  "other": "自有工业交换机产品线"
+ },
+ "business_lines": [
+  "网络设备制造（商用/工业交换机、无线）"
+ ],
+ "channels": {
+  "网站": "https://www.dcnglobal.com/ · https://dcneurope.eu/",
+  "邮箱": "sales@dcneurope.eu（用户表）"
+ },
+ "signals": [
+  "印尼分支曾成交一单（工业 FS）→ 仅被动响应"
+ ],
+ "risks": [
+  "同行厂商（渠道冲突）→ C"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 30,
+  "why": "不主动推进；被动 OEM 补充品类时按 30% 档（如 STI-288DGGPM $151.6）"
+ },
+ "email_hook": "（不主动发送）"
+}
