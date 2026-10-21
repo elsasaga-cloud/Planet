@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（epygi.com，快照 2026-10-21）",
- "summary": "美国分销商/批发商：官网「Epygi Home - Epygi」（en-US）；品类词：安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 网络交换 / PoE；站内品牌：Axis；站内型号：QX100、QX200、QX500、QX3000；表内「工业FS」；表内未见跟进记录。",
- "type": "分销商/批发商",
+ "summary": "美国 Epygi Technologies（VoIP 厂商：设计制造并全球分销 IP PBX（QX 系列）、VoIP 网关、SIP 会议服务器；辅助生活方案 EVIA；表内「工业 FS」）；表内未跟进。",
+ "type": "IP PBX 厂商（美国，配套交换机 OEM 采购）",
  "size": "",
  "brands_seen": [
   "Axis"
@@ -23,6 +23,20 @@
    "quote": "工业FS",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Epygi 定位",
+   "quote": "Epygi Home - Epygi ; Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers",
+   "url": "https://www.epygi.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,33 +45,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 epygi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "电信 / FTTH / ISP 设备",
-  "网络交换 / PoE"
+  "IP PBX / VoIP 网关（自有品牌 Epygi）"
  ],
  "channels": {
-  "role": "分销商/批发商",
+  "role": "IP PBX 厂商（美国，配套交换机 OEM 采购）",
   "region": "美国",
   "contact": "sales@epygi.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.epygi.com/）",
-  "安防品牌：Axis → PoE 配套切入",
-  "官网公开邮箱：dealers@epygi.com、sales@epygi.com、support@epygi.com",
-  "用户表兴趣/备注：工业FS"
+  "官网：Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers；站内 QX100 / QX200 / QX3000；kw integrator 7 / distributor 4 / oem 3",
+  "表内：工业 FS"
  ],
- "risks": [],
+ "risks": [
+  "交换机非其品类（PBX 厂商），需求待核（表内仅「工业 FS」）；仅 sales@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：分销商/批发商→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "PBX 部署配套 PoE（可贴 Epygi 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM"
  },
- "email_hook": "Alongside the Axis lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the PoE switches your dealers deploy with QX PBXs and IP phones, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option) under the Epygi label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your dealer price list?"
 }

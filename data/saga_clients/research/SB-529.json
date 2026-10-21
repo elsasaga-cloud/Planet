@@ -3,13 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（dss-kuwait.com，快照 2026-10-21）",
- "summary": "科威特安防集成/经销：官网「DSS-Digital Security Systems」；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE；站内品牌：Dahua、ONV、Ajax；表内「工业FS 和ONV深度合作；dalal@dss-kuwait.com majdi@dss-kuwait.com doha@dss-kuwait.com azza」；群发 15 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "科威特 DSS – Digital Security Systems（「Digital Life A Smart Life」安防/智能方案与运维服务：方案设计、专业服务与分析、运维；合作伙伴 Dahua / ONV / Ajax / Axis；表内「工业 FS 和 ONV 深度合作」；KP Dalal Jadallah、Majdi Yosef、Doha Hassan、Azzam Abbas）；群发 15 次无回复。",
+ "type": "安防集成商（科威特，ONV 深度合作）",
  "size": "",
  "brands_seen": [
   "Dahua",
   "ONV",
-  "Ajax"
+  "Ajax",
+  "Axis"
  ],
  "evidence": [
   {
@@ -25,45 +26,83 @@
    "quote": "工业FS 和ONV深度合作；dalal@dss-kuwait.com majdi@dss-kuwait.com doha@dss-kuwait.com azzam@dss-kuwait.com",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "DSS 首页",
+   "quote": "DSS-Digital Security Systems ; Digital Life A Smart Life ; Solution & System Design ; Operations, Maintenance & Repair Service ; Our Partners",
+   "url": "http://dss-kuwait.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 和 ONV 深度合作",
+   "quote": "工业FS 和ONV深度合作",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Majdi Yosef",
+   "title": "（职务待核）",
+   "email": "majdi@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Dalal Jadallah",
+   "title": "（职务待核）",
+   "email": "dalal@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Azzam Abbas",
+   "title": "（职务待核）",
+   "email": "azzam@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Doha Hassan",
+   "title": "（职务待核）",
+   "email": "doha@dss-kuwait.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "科威特",
   "other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "无线 / WiFi",
-  "网络交换 / PoE"
+  "安防 / 智能系统集成与运维（科威特）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "安防集成商（科威特，ONV 深度合作）",
   "region": "科威特",
   "contact": "info@dss-kuwait.com、presales@dss-kuwait.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，http://dss-kuwait.com/）",
-  "在售同口型交换品牌：ONV → 直接对位替换",
-  "安防品牌：Dahua、Ajax → PoE 配套切入",
-  "官网公开邮箱：info@dss-kuwait.com、presales@dss-kuwait.com",
-  "用户表兴趣/备注：工业FS 和ONV深度合作；dalal@dss-kuwait.com majdi@dss-kuwait.com doha@dss-kuwait.com azzam@dss-kuwait.com"
+  "首页 Digital Life A Smart Life ; Solution & System Design ; Professional Services & Analytics ; Operations, Maintenance & Repair Service ; Our Partners；站内品牌 Dahua / ONV / Ajax / Axis",
+  "表内：工业 FS 和 ONV 深度合作；联系人 dalal@ / majdi@ / doha@ / azzam@"
  ],
  "risks": [
-  "群发 15 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "现与 ONV（深圳）深度合作（价格基准低、关系既定）；非主攻区（T5，科威特）",
+  "15 次无回复，4 名联系人职务待核"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：安防集成/经销→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "现 ONV 工业 FS 深度合作 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代位；商用 STC-28DGGPM（$84.1）"
  },
- "email_hook": "DaLaL, alongside the Dahua / ONV lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Majdi, for the industrial PoE switches in your camera and access-control projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from single units, EXW USD — is there a managed-switch position you would like a comparative quote for alongside your current supplier?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（atexshop.com，快照 2026-10-21）",
- "summary": "捷克工业自动化/IoT 方案商：官网「ATEXshop | Explosion Proof & Intrinsically Safe Equipment」（en）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换；站内品牌：Hikvision、Bosch；站内型号：IS945、IPP563500、IPQ6045C、ZX80-EX；表内「Switch」；群发 4 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "ATEXshop（2008 年起防爆/本安设备网店：1,800+ ATEX/IECEx 认证产品——防爆手机、平板、摄像机、照明；电话 +31（荷兰），表内国别捷克；Hikvision / Bosch Ex 摄像机；KP Christian Pleijsier（Company Owner））；表内 4 次跟进无回复。",
+ "type": "防爆设备网店（ATEX 认证品类，Saga 不做）",
  "size": "",
  "brands_seen": [
   "Hikvision",
@@ -24,44 +24,53 @@
    "quote": "Switch",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "ATEXshop 定位",
+   "quote": "ATEXshop | Explosion Proof & Intrinsically Safe Equipment ; Online since 2008: more than 1,800 ATEX and IECEx certified products ; Call Us Now: +31 85 044 1152",
+   "url": "https://www.atexshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Switch",
+   "quote": "Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符：ATEXshop 防爆认证设备专营（Saga 无 ATEX 产品）；c_sub=品类不符（防爆认证）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "捷克",
   "other": "官网 atexshop.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "防爆 / 本安设备网店"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "防爆设备网店（ATEX 认证品类，Saga 不做）",
   "region": "捷克",
   "contact": "info@atexshop.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.atexshop.com/）",
-  "安防品牌：Hikvision、Bosch → PoE 配套切入",
-  "官网公开邮箱：info@atexshop.com",
-  "用户表兴趣/备注：Switch",
-  "表内早期 AI 描述（未核实）：工业设备电商平台，销售工业交换机及工业自动化设备"
+  "官网：Online since 2008: more than 1,800 ATEX and IECEx certified products, from explosion proof phones and tablets to cameras and lighting；首页 Call Us Now: +31 85 044 1152；kw camera 105 / cctv 19",
+  "表内：Switch；KP Christian Pleijsier / Company Owner"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：防爆（ATEX/IECEx）认证设备专营，Saga 无防爆认证产品；国别待核（电话 +31 荷兰，表内捷克）"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": null,
+  "tier": 20,
+  "why": "全品类要求 ATEX/IECEx 认证（Saga 无防爆认证）→ 品类不符，改 C"
  },
- "email_hook": "Christian, alongside the Hikvision / Bosch lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "（不发送：品类不符）"
 }

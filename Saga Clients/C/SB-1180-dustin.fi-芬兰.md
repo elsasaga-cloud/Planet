@@ -1,25 +1,26 @@
 # dustin.fi
 
-> **评级 B**　|　芬兰　|　档案编号 `SB-1180`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　芬兰　|　档案编号 `SB-1180`　|　优先级 —　|　状态：名单内·未触达
 >
-> **类型**：电商/网店（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：误并实体（Dustin 上市巨头 + Dolphin 孟加拉网店）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1180
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # 误并实体：Dustin（上市巨头）+ Dolphin Computers（孟加拉区外网店），均不符 B；c_sub=巨头/区外（误并待拆）
 score: 25
 country: 芬兰
 region: 欧洲
 website: dustin.fi
-type: 电商/网店
+type: 误并实体（Dustin 上市巨头 + Dolphin 孟加拉网店）
 tier_tags: ["群发(杂)"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-28DGGPM
+p1: none
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,13 +30,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：芬兰电商/网店：官网「Dolphin Computers Limited」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：WIN-11、UX363EA、SE2219HX、EP-325；表内「planet；很多BTON的商业POE 也卖一些台湾牌子的产品」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：planet；很多BTON的商业POE 也卖一些台湾牌子的产品）
-- **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/芬兰
+- **是谁**：表内实体合并了两家：dustin.fi（芬兰，Dustin Group——北欧上市 IT 经销巨头，仅客服邮箱）与 dolphin.com.bd（孟加拉 Dolphin Computers 网店：笔记本/相机/CCTV/网络，TP-Link、Hikvision、Dahua；表内「planet / 很多 BTON 的商业 PoE 也卖一些台湾牌子的产品」）；快照为 Dolphin（孟加拉）；表内未跟进。（调研 2026-10-21；表内兴趣：planet；很多BTON的商业POE 也卖一些台湾牌子的产品）
+- **为什么是 C 级**：**调研后定级 C**（误并实体：Dustin（上市巨头）+ Dolphin Computers（孟加拉区外网店），均不符 B；c_sub=巨头/区外（误并待拆））；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/芬兰；C 级细分：巨头/区外（误并待拆）
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：Dustin = 上市巨头、Dolphin = 区外孟加拉网店 → 两者均不符 B 条件，改 C（误并待拆））
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | dustin.fi（取自域名，公司全名待核） | 推断 |
 | 国家 | 芬兰（另见：孟加拉国） | 事实（用户表）|
 | 网站/域名 | dustin.fi / dolphin.com.bd | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电商/网店 | 推断（据兴趣/备注关键词） |
+| 类型 | 误并实体（Dustin 上市巨头 + Dolphin 孟加拉网店） | 推断（据兴趣/备注关键词） |
 | 联系人 | info@dolphin.com.bd | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | planet / 很多BTON的商业POE<br>也卖一些台湾牌子的产品 | 事实（用户表） |
@@ -55,30 +55,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（dustin.fi，快照 2026-10-21）
-- **是谁**：芬兰电商/网店：官网「Dolphin Computers Limited」（en-US）；品类词：安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：WIN-11、UX363EA、SE2219HX、EP-325；表内「planet；很多BTON的商业POE 也卖一些台湾牌子的产品」；表内未见跟进记录。
-- **类型**：电商/网店
+- **是谁**：表内实体合并了两家：dustin.fi（芬兰，Dustin Group——北欧上市 IT 经销巨头，仅客服邮箱）与 dolphin.com.bd（孟加拉 Dolphin Computers 网店：笔记本/相机/CCTV/网络，TP-Link、Hikvision、Dahua；表内「planet / 很多 BTON 的商业 PoE 也卖一些台湾牌子的产品」）；快照为 Dolphin（孟加拉）；表内未跟进。
+- **类型**：误并实体（Dustin 上市巨头 + Dolphin 孟加拉网店）
+- **在卖/在用品牌**：BTON, PLANET, TP-Link, Hikvision, Dahua
 - **【官网快照】官网标题：Dolphin Computers Limited；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE**
   > Featured Categories；Top Products Categories；Best Offer；Featured Products；​Best Selling Products；Discounted Products
   > 来源：https://www.dolphin.com.bd/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > planet；很多BTON的商业POE 也卖一些台湾牌子的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Dolphin Computers 快照**
+  > Home | Dolphin Computers Limited ; Featured Categories ; Top Products Categories ; Best Selling Products
+  > 来源：https://www.dolphin.com.bd/（抓取 2026-10-21）
+- **【用户表】BTON 商业 PoE / 台湾牌子**
+  > planet / 很多BTON的商业POE 也卖一些台湾牌子的产品
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **调研后定级**：C（原自动 B）——误并实体：Dustin（上市巨头）+ Dolphin Computers（孟加拉区外网店），均不符 B；c_sub=巨头/区外（误并待拆）
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 芬兰 |
 | 其他 | 官网 dustin.fi，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：安防监控（CCTV / 门禁）；无线 / WiFi；布线 / 线缆；光纤 / 媒体转换；网络交换 / PoE
-- **触达通道（公开）**：role: 电商/网店；region: 芬兰；contact: info@dolphin.com.bd、asiakaspalvelu@dustin.fi
+- **业务线**：IT 经销（Dustin）；IT/CCTV 网店（Dolphin，孟加拉）
+- **触达通道（公开）**：role: 误并实体（Dustin 上市巨头 + Dolphin 孟加拉网店）；region: 芬兰；contact: info@dolphin.com.bd、asiakaspalvelu@dustin.fi
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.dolphin.com.bd/）
-  - 用户表兴趣/备注：planet；很多BTON的商业POE 也卖一些台湾牌子的产品
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 快照（dolphin.com.bd）：Home | Dolphin Computers Limited ; Featured Categories ; /shop/category/laptop-5655 ; /shop/category/camera-5667；kw camera 243 / tp-link 53 / hikvision 26
+  - 表内：planet / 很多 BTON 的商业 PoE 也卖一些台湾牌子的产品；邮箱 info@dolphin.com.bd；asiakaspalvelu@dustin.fi
+- **风险/边界**：误并待拆：同一实体混有 dustin.fi（Dustin Group，北欧上市 IT 经销巨头）与 dolphin.com.bd（孟加拉网店，T5 区外）；国别「芬兰」仅对应 Dustin；两家均不符 B 条件（巨头 / 区外小网店）
+- **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——Dustin = 上市巨头、Dolphin = 区外孟加拉网店 → 两者均不符 B 条件，改 C（误并待拆）
+- **邮件切入句（英文）**：（不发送：巨头/区外）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -130,32 +139,10 @@ updated: 2026-10-21
 | E/群发/杂  08.13.xlsx#总表:10 |  | https://www.dustin.fi/product/5011150646/4-port-poe-extender-60w | 芬兰 | info@dolphin.com.bd |  | planet | asiakaspalvelu@dustin.fi |  | — |
 | E/群发/杂  08.13.xlsx#总表:26 |  | https://www.dolphin.com.bd/b-ton-bt-6009gs-8-port-full-gigabit-1000mbps-poe-switch.html | 孟加拉国 |  | 谷歌 | 很多BTON的商业POE<br>也卖一些台湾牌子的产品 | info@dolphin.com.bd |  | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：电商/网店→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（电商/网店） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 planet：涨价、断货或交期拉长时切入
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：巨头/区外（误并待拆）。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-1180,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -174,7 +161,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ planet |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -182,25 +169,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the planet class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -212,11 +181,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 

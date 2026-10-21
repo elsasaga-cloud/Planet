@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ipcomm.de，快照 2026-10-21）",
- "summary": "德国工业自动化/IoT 方案商：官网「IPCOMM, Welcome at IPCOMM」（en）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内型号：IEC61850、IEC101；表内「商业POE 工业FS等 比较专业」；群发 8 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "德国 IPCOMM（变电站/能源自动化通信：IEC 61850 / IEC 60870-5-101 协议网关与 SCADA 通信产品，工作坊；表内「商业 PoE 工业 FS 等 比较专业」「可以着重跟一下」）；群发 8 次无回复。",
+ "type": "能源自动化通信方案商（德国，仅民用口径）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "商业POE 工业FS等 比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IPCOMM 站点",
+   "quote": "IPCOMM, Welcome at IPCOMM ; /products_en.html ; IEC61850 ; IEC101",
+   "url": "https://www.ipcomm.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE 工业 FS 比较专业；着重跟",
+   "quote": "商业POE 工业FS等 比较专业；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +43,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 ipcomm.de，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "能源自动化协议网关 / SCADA 通信"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "能源自动化通信方案商（德国，仅民用口径）",
   "region": "德国",
   "contact": "info@ipcomm.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ipcomm.de/）",
-  "官网公开邮箱：info@ipcomm.de、support@ipcomm.de",
-  "用户表兴趣/备注：商业POE 工业FS等 比较专业"
+  "页面 /products_en.html、/article/Workshop/en/sheet.html；站内 IEC61850 / IEC101；kw scada 8 / industrial 11 / automation 7",
+  "表内：商业 PoE 工业 FS 等 比较专业；可以着重跟一下"
  ],
- "risks": [],
+ "risks": [
+  "守界备注：电力/变电站场景——只供民用通用工业交换机；IEC 61850-3 / IEEE 1613 认证 Saga 无",
+  "8 次无回复，仅 info@；用户标「着重跟」"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STI-280GE",
   "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the industrial switches you combine with your IEC 61850 and IEC 101/104 gateways in energy-automation cabinets, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units — which configuration do your substation projects use most?"
 }

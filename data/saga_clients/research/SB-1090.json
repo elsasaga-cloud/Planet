@@ -3,11 +3,12 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（top-fa.com，快照 2026-10-21）",
- "summary": "韩国工业自动化/IoT 方案商：官网「자동화의 모든것 TOP-FA!」（ko）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE；站内品牌：D-Link；站内型号：GIE72、GH-402ATXR、PCI-7432、I-7520AR；表内「工业自动化 serial 比较专业 在用台湾的IPDAS牌子」；群发 23 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
+ "type": "工业自动化网店（韩国，ICP DAS 在售）",
  "size": "",
  "brands_seen": [
-  "D-Link"
+  "D-Link",
+  "ICP DAS"
  ],
  "evidence": [
   {
@@ -23,6 +24,20 @@
    "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "TOP-FA 首页",
+   "quote": "자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; APPLICATION ; 빠른견적요청 ; I-7520AR",
+   "url": "https://top-fa.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "在用台湾 ICP DAS",
+   "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,36 +46,32 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "韩国",
   "other": "官网 top-fa.com，语言 ko，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "网络交换 / PoE"
+  "工业自动化产品网店（串口 / 采集 / 网络 / 线缆）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "工业自动化网店（韩国，ICP DAS 在售）",
   "region": "韩国",
   "contact": "master@factos.co.kr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://top-fa.com/）",
-  "在售同口型交换品牌：D-Link → 直接对位替换",
-  "官网公开邮箱：kijo1@adcsystem.co.kr、master@factos.co.kr",
-  "用户表兴趣/备注：工业自动化 serial 比较专业 在用台湾的IPDAS牌子"
+  "首页 자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; 빠른견적요청；站内 I-7520AR / PCI-7432 / GH-402ATXR；kw poe 14 / cable 12",
+  "表内：工业自动化 serial 比较专业 在用台湾的 IPDAS 牌子；可以尝试多跟进一下"
  ],
  "risks": [
-  "群发 23 次无回复：换角度首触（不再发产品图，只问一个问题）",
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
+  "23 次无回复，仅 master@"
  ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）"
  },
- "email_hook": "Alongside the D-Link lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for your projects?"
+ "email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?"
 }

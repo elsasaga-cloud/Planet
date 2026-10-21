@@ -2,7 +2,7 @@
 
 > **评级 B**　|　美国　|　档案编号 `SB-367`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 18 次（2024-05-03 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：Uniview 加拿大分销商（PoE 现 Itoonertech）（推断）　|　**历史关系**：推送 18 次（2024-05-03 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-367
@@ -12,7 +12,7 @@ score: 43
 country: 美国
 region: 北美
 website: petawise.com
-type: 系统集成/工程商
+type: Uniview 加拿大分销商（PoE 现 Itoonertech）
 tier_tags: ["A优质名单(US)", "AI评估(US)"]
 deal: no
 replies: 0
@@ -20,7 +20,7 @@ followups: 18
 first_contact: 2024-05-03
 last_contact: 2025-10-31
 p1: STC-28DGGPM
-price_tier: 25%
+price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国系统集成/工程商：官网「Petawise | Best cameras in Ontario | Best cameras in Canada」（en-US）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Uniview、Ruijie；产品页：poe-switch、switch、ip-cameras、hybrid-nvr；表内「全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonert」；群发 18 次、无回复。（调研 2026-10-21；表内兴趣：全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE）
+- **是谁**：加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。（调研 2026-10-21；表内兴趣：全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-03 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | petawise.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | petawise.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | Uniview 加拿大分销商（PoE 现 Itoonertech） | 推断（据兴趣/备注关键词） |
 | 联系人 | John K / 在用Itoonertech商业PoE / Stephane Lavigueur / Vice President of Product and Engineering / Ebin Nazar / Sales Engineer | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 全线用itoonertech的FS<br>IPC比较多 主要是CCTV领域 / 全线用itoonertech的FS<br>IPC比较多 主要是CCTV领域<br>在用Itoonertech商业PoE | 事实（用户表） |
@@ -65,35 +65,41 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（petawise.com，快照 2026-10-21）
-- **是谁**：美国系统集成/工程商：官网「Petawise | Best cameras in Ontario | Best cameras in Canada」（en-US）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Uniview、Ruijie；产品页：poe-switch、switch、ip-cameras、hybrid-nvr；表内「全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonert」；群发 18 次、无回复。
-- **类型**：系统集成/工程商
-- **在卖/在用品牌**：Uniview, Ruijie
+- **是谁**：加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。
+- **类型**：Uniview 加拿大分销商（PoE 现 Itoonertech）
+- **在卖/在用品牌**：Uniview, Ruijie, Itoonertech
 - **【官网快照】官网标题：Petawise | Best cameras in Ontario | Best cameras in Canada；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE**
   > Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester.
   > 来源：https://petawise.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-category/PoE-solutions/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Petawise 定位**
+  > Petawise is the Canadian Arm of Uniview Technologies Co. Ltd., a pioneer and leader of IP video surveillance..Petawise is an exclusive distributor of Wanglu Technology ; /product-category/accessories/poe-switch/
+  > 来源：https://petawise.com/（抓取 2026-10-21）
+- **【用户表】全线用 Itoonertech 的 FS**
+  > 全线用itoonertech的FS IPC比较多 主要是CCTV领域；在用Itoonertech商业PoE
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Stephane Lavigueur（）sales@petawise.com 〔用户表〕
+- **KP**：John K（）johnk@petawise.com 〔用户表〕
+- **KP**：Ebin Nazar（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 美国 |
 | 其他 | 官网 petawise.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：安防监控（CCTV / 门禁）；网络交换 / PoE
-- **触达通道（公开）**：role: 系统集成/工程商；region: 美国；contact: sales@petawise.com、johnk@petawise.com
+- **业务线**：IP 视频监控分销（Uniview 加拿大）；PoE 交换机 / IPC 测试仪
+- **触达通道（公开）**：role: Uniview 加拿大分销商（PoE 现 Itoonertech）；region: 美国；contact: sales@petawise.com、johnk@petawise.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://petawise.com/）
-  - 在售同口型交换品牌：Ruijie → 直接对位替换
-  - 安防品牌：Uniview → PoE 配套切入
-  - 官网公开邮箱：sales@petawise.com
-  - 用户表兴趣/备注：全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-ca
-- **风险/边界**：群发 18 次无回复：换角度首触（不再发产品图，只问一个问题）
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：John, alongside the Uniview / Ruijie lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Petawise is the Canadian Arm of Uniview Technologies Co. Ltd. … Petawise is an exclusive distributor of Wanglu Technology, a leader of IPC tester；页面 /product-category/accessories/poe-switch/；kw distributor 15
+  - 表内：全线用 itoonertech 的 FS IPC 比较多 主要是 CCTV 领域；在用 Itoonertech 商业 PoE（https://petawise.com/product-category/PoE-solutions/）；KP Stephane Lavigueur / Vice President of Product and Engineering；Ebin Nazar / Sales Engineer；John K
+- **风险/边界**：Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低；18 次无回复 → 改向 VP Product & Engineering 具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）
+- **邮件切入句（英文）**：Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -159,8 +165,9 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| John K | — | sales@petawise.com / johnk@petawise.com | 用户表原值 | Clients/ 表 |
-| Stephane Lavigueur | — | sales@petawise.com / johnk@petawise.com | 用户表原值 | Clients/ 表 |
+| Stephane Lavigueur | — | sales@petawise.com | 调研核实（公开页） | 用户表 |
+| John K | — | johnk@petawise.com | 调研核实（公开页） | 用户表 |
+| Ebin Nazar | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -177,9 +184,9 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（Uniview 加拿大分销商（PoE 现 Itoonertech）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
@@ -189,7 +196,7 @@ updated: 2026-10-21
 
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -197,7 +204,7 @@ updated: 2026-10-21
 
 - **S**：北美主攻区，复购与口碑可外溢
 - **W**：已推送 18 次无回复，邮件通道疲劳
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -228,11 +235,11 @@ updated: 2026-10-21
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi John,
+Hi Stephane,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. John, alongside the Uniview / Ruijie lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

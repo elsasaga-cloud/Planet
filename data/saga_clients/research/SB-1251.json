@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（systemfabricworks.com，快照 2026-10-21）",
- "summary": "美国系统集成/工程商：官网「System Fabric Works」（en-US）；品类词：数据中心 / 企业 IT / 网络交换 / PoE；站内型号：TW113；表内「Marvell方案」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "美国 System Fabric Works（高性能分布式计算平台集成商：服务器、存储与网络方案；表内「Marvell 方案」）；表内未跟进。",
+ "type": "HPC 系统集成商（美国，品类边缘）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,6 +21,20 @@
    "quote": "Marvell方案",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "System Fabric Works 定位",
+   "quote": "System Fabric Works develops and integrates server, storage and network solutions that provide platforms for high-performance distributed computing.",
+   "url": "https://www.systemfabricworks.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Marvell 方案",
+   "quote": "Marvell方案",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -29,31 +43,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 systemfabricworks.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "HPC 服务器 / 存储 / 网络集成"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "HPC 系统集成商（美国，品类边缘）",
   "region": "美国",
   "contact": "sales@systemfabricworks.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.systemfabricworks.com/）",
-  "官网公开邮箱：sales@systemfabricworks.com",
-  "用户表兴趣/备注：Marvell方案"
+  "官网：System Fabric Works develops and integrates server, storage and network solutions that provide platforms for high-performance distributed computing；kw switch 13 / data center 4",
+  "表内：Marvell 方案"
  ],
- "risks": [],
+ "risks": [
+  "品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": "STC-424XGGM",
   "tier": 25,
-  "why": "官网快照对位：交换机词频 13、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?"
 }

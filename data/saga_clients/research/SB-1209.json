@@ -3,11 +3,14 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（kamsys.pl，快照 2026-10-21）",
- "summary": "波兰电商/网店：官网「Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys」（pl-pl）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内品牌：Dahua；站内型号：RS-485、RJ-11；表内「SFP MC 工业FS VC」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "波兰 Kamsys（监控/报警/安防系统网店：BCS 智能摄像机、门禁、可视对讲、Dahua / Hikvision / Uniview；表内「SFP MC 工业 FS VC」「质量一般」；邮箱 sklep@、wyceny@）；表内未跟进。",
+ "type": "安防网店（波兰）",
  "size": "",
  "brands_seen": [
-  "Dahua"
+  "Dahua",
+  "BCS",
+  "Hikvision",
+  "Uniview"
  ],
  "evidence": [
   {
@@ -23,6 +26,20 @@
    "quote": "SFP MC 工业FS VC",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Kamsys 定位",
+   "quote": "Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys ; Inteligentne Kamery BCS ; Systemy zabezpieczeń, kontrola dostępu, monitoring",
+   "url": "https://www.kamsys.pl/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP MC 工业 FS VC",
+   "quote": "SFP MC 工业FS VC；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,32 +48,31 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "监控 / 报警 / 门禁网店（波兰）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "安防网店（波兰）",
   "region": "波兰",
   "contact": "sklep@kamsys.pl、wyceny@kamsys.pl"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.kamsys.pl/）",
-  "安防品牌：Dahua → PoE 配套切入",
-  "官网公开邮箱：sklep@kamsys.pl",
-  "用户表兴趣/备注：SFP MC 工业FS VC"
+  "官网：Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys；首页 Inteligentne Kamery BCS ; Videodomofony；kw poe 10 / cctv 10 / switch 8",
+  "表内：SFP MC 工业 FS VC；质量一般"
  ],
- "risks": [],
+ "risks": [
+  "网店/品牌线既定（BCS = 波兰 NSS 品牌自带 PoE）；表内「质量一般」；未跟进过，仅通用邮箱"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "CCTV 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）；SFP Saga 不供"
  },
- "email_hook": "Alongside the Dahua lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?"
 }
