@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（weltronproducts.com，快照 2026-10-21）",
- "summary": "美国工业自动化/IoT 方案商：官网「Weltron® | Networking Infrastructure Manufacturer」（en）；品类词：工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE；站内型号：USB-3、RJ-45；表内「商业PoE；info@weltron.us」；群发 19 次、无回复。",
- "type": "工业自动化/IoT 方案商",
+ "summary": "美国 Weltron® / Winston Electronics（1968 年起网络基础设施制造商：线缆（词频 182）、光纤、MC、PoE 交换机、工业；表内「商业 PoE」；邮箱 robwinston@ / awinston@winstonele.com、info@weltron.us）；群发 19 次无回复。",
+ "type": "美国网络基础设施自有品牌商（OEM 采购）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,62 @@
    "quote": "商业PoE；info@weltron.us",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Weltron 公司历史",
+   "quote": "Weltron® | Networking Infrastructure Manufacturer ; Weltron® Company was started in 1968 as an idea and concept ahead of the times.",
+   "url": "https://weltronproducts.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业PoE；info@weltron.us",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Rob Winston",
+   "title": "（表内邮箱，职务待核）",
+   "email": "robwinston@winstonele.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "美国",
   "other": "官网 weltronproducts.com，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "网络基础设施（线缆 / 光纤 / MC / PoE 交换机，自有品牌 Weltron）"
  ],
  "channels": {
-  "role": "工业自动化/IoT 方案商",
+  "role": "美国网络基础设施自有品牌商（OEM 采购）",
   "region": "美国",
   "contact": "robwinston@winstonele.com、awinston@winstonele.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://weltronproducts.com/）",
-  "用户表兴趣/备注：商业PoE；info@weltron.us"
+  "官网：Weltron® Company was started in 1968 … Networking Infrastructure Manufacturer；kw cable 182 / fiber 68 / switch 37 / poe 26 / media converter 8",
+  "表内：商业 PoE；info@weltron.us"
  ],
  "risks": [
-  "群发 19 次无回复：换角度首触（不再发产品图，只问一个问题）"
+  "线缆为主业：交换机为副线；19 次无回复",
+  "邮箱为关联公司 Winston Electronics 个人邮箱（表内），称呼待核"
  ],
  "saga_fit": {
   "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "8 口 PoE + 2 SFP L2+（来源：用户表兴趣；档位：工业自动化/IoT 方案商→25%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "tier": 30,
+  "why": "自有 Weltron 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；24 口位 STC-424DGGPM-280W；MC 位 STI-110GE"
  },
- "email_hook": "We supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "For the Weltron-branded PoE switches and media converters in your catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your distributors reorder most?"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　塞浦路斯　|　档案编号 `SB-682`　|　优先级 ★★　|　状态：已推送 6 次·未回复
 >
-> **类型**：分销商/经销商（推断）　|　**历史关系**：推送 6 次（2025-05-02 → 2025-09-19）　|　**所在清单**：A优质名单(其他优质欧洲客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：无线产品分销商（塞浦路斯，500+ 经销商）（推断）　|　**历史关系**：推送 6 次（2025-05-02 → 2025-09-19）　|　**所在清单**：A优质名单(其他优质欧洲客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-682
@@ -12,7 +12,7 @@ score: 34
 country: 塞浦路斯
 region: 欧洲
 website: art2soft.eu
-type: 分销商/经销商
+type: 无线产品分销商（塞浦路斯，500+ 经销商）
 tier_tags: ["A优质名单(其他优质欧洲客户)"]
 deal: no
 replies: 0
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：塞浦路斯分销商/经销商：官网「A.K. ART2SOFT LTD – Your wireless partner」（en-US）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Ubiquiti、Ruijie、TP-Link、MikroTik、Cambium；表内「分销商」；群发 6 次、无回复。（调研 2026-10-21；表内兴趣：分销商）
+- **是谁**：塞浦路斯 A.K. ART2SOFT Ltd（「Your wireless partner」：服务全塞浦路斯 500+ 经销商的无线分销商，Ubiquiti / Ruijie / TP-Link / MikroTik / Cambium；表内「分销商」；KP Thomas Thoma（thomas.thoma@））；群发 6 次无回复。（调研 2026-10-21；表内兴趣：分销商）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-05-02 → 2025-09-19）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：AP 配套 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W；2.5G 口型 Saga 待核；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | art2soft.eu（取自域名，公司全名待核） | 推断 |
 | 国家 | 塞浦路斯 | 事实（用户表）|
 | 网站/域名 | art2soft.eu | 事实（用户表 URL/邮箱域名） |
-| 类型 | 分销商/经销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 无线产品分销商（塞浦路斯，500+ 经销商） | 推断（据兴趣/备注关键词） |
 | 联系人 | Thomas | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 分销商 | 事实（用户表） |
@@ -55,8 +55,8 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（art2soft.eu，快照 2026-10-21）
-- **是谁**：塞浦路斯分销商/经销商：官网「A.K. ART2SOFT LTD – Your wireless partner」（en-US）；品类词：无线 / WiFi / 网络交换 / PoE；站内品牌：Ubiquiti、Ruijie、TP-Link、MikroTik、Cambium；表内「分销商」；群发 6 次、无回复。
-- **类型**：分销商/经销商
+- **是谁**：塞浦路斯 A.K. ART2SOFT Ltd（「Your wireless partner」：服务全塞浦路斯 500+ 经销商的无线分销商，Ubiquiti / Ruijie / TP-Link / MikroTik / Cambium；表内「分销商」；KP Thomas Thoma（thomas.thoma@））；群发 6 次无回复。
+- **类型**：无线产品分销商（塞浦路斯，500+ 经销商）
 - **在卖/在用品牌**：Ubiquiti, Ruijie, TP-Link, MikroTik, Cambium
 - **【官网快照】官网标题：A.K. ART2SOFT LTD – Your wireless partner；品类词 无线 / WiFi / 网络交换 / PoE**
   > About our company；We serve over 500 resellers all over Cyprus；500+；2000+；10000+；15+
@@ -64,24 +64,27 @@ updated: 2026-10-21
 - **【用户表】表内兴趣/备注**
   > 分销商
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】ART2SOFT 经销网络**
+  > A.K. ART2SOFT LTD – Your wireless partner ; We serve over 500 resellers all over Cyprus
+  > 来源：https://art2soft.eu/（抓取 2026-10-21）
+- **KP**：Thomas Thoma（）thomas.thoma@art2soft.eu 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 塞浦路斯 |
 | 其他 | 官网 art2soft.eu，语言 en-US，快照状态 ok；角色判定来源：用户表 |
 
-- **业务线**：无线 / WiFi；网络交换 / PoE
-- **触达通道（公开）**：role: 分销商/经销商；region: 塞浦路斯；contact: thomas.thoma@art2soft.eu
+- **业务线**：无线网络产品分销
+- **触达通道（公开）**：role: 无线产品分销商（塞浦路斯，500+ 经销商）；region: 塞浦路斯；contact: thomas.thoma@art2soft.eu
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://art2soft.eu/）
-  - 在售同口型交换品牌：Ubiquiti、Ruijie、TP-Link、MikroTik、Cambium → 直接对位替换
-  - 官网公开邮箱：info@art2soft.eu
-  - 用户表兴趣/备注：分销商
-- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Thomas, alongside the Ubiquiti / Ruijie lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+  - 首页：We serve over 500 resellers all over Cyprus ; 500+ ; 2000+ ; 10000+
+  - 站内品牌 Ubiquiti / Ruijie / TP-Link / MikroTik / Cambium
+- **风险/边界**：小国市场（塞浦路斯）量有限；Ubiquiti/MikroTik 自带交换机线；6 次无回复 → 改向 Thomas 具名首触
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——AP 配套 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W；2.5G 口型 Saga 待核
+- **邮件切入句（英文）**：Thomas, for the PoE switches your 500+ resellers pair with Ubiquiti, Ruijie and Cambium access points, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which size do they order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -126,6 +129,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Thomas Thoma | — | thomas.thoma@art2soft.eu | 调研核实（公开页） | 用户表 |
 | Thomas | — | thomas.thoma@art2soft.eu | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -142,7 +146,7 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
+| **P1** | STC-28DGGPM | 深挖对位：AP 配套 PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W；2.5G 口型 Saga 待核 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（无线产品分销商（塞浦路斯，500+ 经销商）） |
 | 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
@@ -195,7 +199,7 @@ updated: 2026-10-21
 ```text
 Hi Thomas,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Thomas, alongside the Ubiquiti / Ruijie lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Thomas, for the PoE switches your 500+ resellers pair with Ubiquiti, Ruijie and Cambium access points, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which size do they order most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

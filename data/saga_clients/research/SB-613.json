@@ -3,15 +3,16 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ibdglobal.com，快照 2026-10-21）",
- "summary": "西班牙分销商/经销商：官网「Soluciones Profesionales de Seguridad | IBD Global」（en-US）；品类词：安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆；站内品牌：Dahua、TP-Link、Teltonika、Bosch、Ajax；站内型号：AX1800、SG3452XMPP、SM5110-SR、EAP660；表内「有Utepo的」；群发 2 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "西班牙 IBD Global / IPtecno（面向安装商与集成商的专业安防分销：视频监控、入侵、门禁、消防、工程与技术支持；Dahua / TP-Link（SG3452XMPP、EAP660）/ Teltonika / Bosch / Ajax；表内「有 Utepo 的」；KP Jordi Bassa（Owner，jordi@iptecno.com）、Joan Balaguer（Projects & Solutions Director））；表内 2 次跟进无回复。",
+ "type": "专业安防分销商（西班牙，Utepo / TP-Link PoE）",
  "size": "",
  "brands_seen": [
   "Dahua",
   "TP-Link",
   "Teltonika",
   "Bosch",
-  "Ajax"
+  "Ajax",
+  "Utepo"
  ],
  "evidence": [
   {
@@ -27,46 +28,80 @@
    "quote": "有Utepo的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "IBD Global 安防分销",
+   "quote": "IBD Global, distribuidor de soluciones profesionales de seguridad para instaladores e integradores: videovigilancia, intrusión, accesos, incendio, ingeniería y soporte técnico.",
+   "url": "https://www.ibdglobal.com/en",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "有 Utepo 的",
+   "quote": "有Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Jordi Bassa",
+   "title": "Owner",
+   "email": "jordi@iptecno.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Joan Balaguer",
+   "title": "Projects & Solutions Director",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "西班牙",
   "other": "官网 ibdglobal.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "工业自动化 / OT 网络",
-  "无线 / WiFi",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "专业安防分销（视频监控 / 入侵 / 门禁 / 消防）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "专业安防分销商（西班牙，Utepo / TP-Link PoE）",
   "region": "西班牙",
   "contact": "info@ibdglobal.com、jordi@iptecno.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.ibdglobal.com/en）",
-  "在售同口型交换品牌：TP-Link、Teltonika → 直接对位替换",
-  "安防品牌：Dahua、Bosch、Ajax → PoE 配套切入",
-  "官网公开邮箱：backoffice@ibdglobal.com、info@ibdglobal.com",
-  "用户表兴趣/备注：有Utepo的",
-  "表内早期 AI 描述（未核实）：西班牙安防设备大型分销商，主营CCTV、门禁及视频监控网络设备"
+  "官网：distribuidor de soluciones profesionales de seguridad para instaladores e integradores: videovigilancia, intrusión, accesos, incendio",
+  "站内 SG3452XMPP / EAP660（TP-Link）、Dahua 22；栏目 /shop/category/video-dahua-ip-125",
+  "KP：Jordi Bassa / Owner；Joan Balaguer / Projects & Solutions Director（表内）"
  ],
- "risks": [],
+ "risks": [
+  "Dahua/TP-Link 既定货源：白牌需靠价差与贴标",
+  "2 次跟进无回复 → 改向 Owner 具名首触"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：分销商/经销商→20%）；官网工业词频高 → 备选 STI-288GP / STI-280GE（DIN 导轨）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 Utepo / TP-Link PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；48 口位（对位 SG3452XMPP）STC-448XGGPM（$335.4）"
  },
- "email_hook": "Jordi, alongside the Dahua / TP-Link lines you carry, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count moves most for you — 8 or 24?"
+ "email_hook": "Jordi, alongside the Utepo and TP-Link PoE switches you distribute to installers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24/48-PoE + 4×10G units from small lots, CE/RoHS, EXW USD — which band do your Dahua projects use most?",
+ "products_seen": [
+  {
+   "brand": "TP-Link",
+   "model": "SG3452XMPP",
+   "spec": "48 口 PoE++ + 4×10G L2+",
+   "saga": "STC-448XGGPM",
+   "url": "https://www.ibdglobal.com/en",
+   "date": "2026-10-21"
+  }
+ ]
 }

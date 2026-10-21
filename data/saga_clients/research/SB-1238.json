@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（scada-hmi.it，快照 2026-10-21）",
- "summary": "意大利电商/网店：官网「Sielco Sistemi Store」（en）；品类词：工业自动化 / OT 网络 / 网络交换 / PoE；站内品牌：Teltonika；站内型号：RS-485、IT02854460132、IEEE802、UL508；表内「switch 工业电源」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "意大利 Sielco Sistemi（Modbus I/O 模块、SCADA/HMI 软件（scada-hmi.it）、MQTT 云网关制造商；在线商店兼售工业交换机、工业电源、Teltonika RUT500；表内「switch / 工业电源」「质量一般」）；表内无跟进记录。",
+ "type": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
  "size": "",
  "brands_seen": [
   "Teltonika"
@@ -23,6 +23,20 @@
    "quote": "switch 工业电源",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Sielco Sistemi Store 产品",
+   "quote": "Sielco Sistemi Store ; Compact I/O modules with Modbus RTU/ASCII ; I/O modules with Modbus TCP and Webserver ; Industrial I/O modules with Modbus RTU/ASCII",
+   "url": "https://www.scada-hmi.it/store2/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "switch 工业电源",
+   "quote": "switch 工业电源；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
@@ -31,32 +45,33 @@
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "工业自动化 / OT 网络",
-  "网络交换 / PoE"
+  "Modbus I/O 模块 / SCADA-HMI 软件制造",
+  "工业配件网店（交换机 / 电源 / 路由）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
   "region": "意大利",
   "contact": "info@sielcosistemi.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.scada-hmi.it/store2/）",
-  "在售同口型交换品牌：Teltonika → 直接对位替换",
-  "官网公开邮箱：info@sielcosistemi.com",
-  "用户表兴趣/备注：switch 工业电源"
+  "首页：Compact I/O modules with Modbus RTU/ASCII ; I/O modules with Modbus TCP and Webserver ; Send Modbus devices variables into the Cloud using MQTT protocol；kw switch 28 / industrial 27",
+  "站内 Teltonika RUT500 / UL508；表内：switch 工业电源"
  ],
- "risks": [],
+ "risks": [
+  "交换机为商店配套品类：量小；表内「质量一般」",
+  "无具名 KP（info@）；无跟进记录"
+ ],
  "saga_fit": {
-  "p1": "STI-288DGGPM",
+  "p1": "STI-080GE",
   "tier": 20,
-  "why": "工业 L2+ 8 PoE + 2×2.5G SFP（来源：用户表兴趣；档位：电商/网店→20%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做"
  },
- "email_hook": "Alongside the Teltonika lines you carry, we supply the Marvell-based DIN-rail L2+ managed 8-port PoE+ industrial switch with 2×2.5G SFP as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is DIN-rail PoE or non-PoE the bigger volume for you?"
+ "email_hook": "For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?"
 }

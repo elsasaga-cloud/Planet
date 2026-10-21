@@ -3,10 +3,13 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ezy.hr，快照 2026-10-21）",
- "summary": "克罗地亚分销商/经销商：官网「EZY Infotech d.o.o.」；品类词：无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换；站内型号：DDRAM-DDR5、LGA1851、LGA1200、LGA1700；表内「分销商」；群发 6 次、无回复。",
- "type": "分销商/经销商",
+ "summary": "克罗地亚 EZY Infotech d.o.o.（IT 设备分销：网络（Planet 词频 12、MikroTik）、光纤、无线、PC 组件；表内「分销商」；KP Petra Novosel（Managing Director，petra@）、David Dolenec（Product Manager））；群发 6 次无回复。",
+ "type": "IT 设备分销商（克罗地亚，在售 PLANET）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "PLANET",
+  "MikroTik"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -21,42 +24,62 @@
    "quote": "分销商",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "EZY Infotech 分销",
+   "quote": "EZY Infotech d.o.o. ; Distribucija informatičke opreme",
+   "url": "https://ezy.hr/",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Petra Novosel",
+   "title": "Managing Director",
+   "email": "petra@ezy.hr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "David Dolenec",
+   "title": "Product Manager",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "克罗地亚",
   "other": "官网 ezy.hr，语言 ?，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "IT 设备分销（网络 / 光纤 / 无线 / PC 组件）"
  ],
  "channels": {
-  "role": "分销商/经销商",
+  "role": "IT 设备分销商（克罗地亚，在售 PLANET）",
   "region": "克罗地亚",
   "contact": "prodaja@ezy.hr、petra@ezy.hr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://ezy.hr/）",
-  "官网公开邮箱：prodaja@ezy.hr、servis@ezy.hr",
-  "用户表兴趣/备注：分销商"
+  "官网：Distribucija informatičke opreme；kw planet 12 / mikrotik 6 / switch 42 / poe 39 / fiber 45",
+  "KP：Petra Novosel / Managing Director；David Dolenec / Product Manager（表内）"
  ],
- "risks": [],
+ "risks": [
+  "小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触",
+  "在售 PLANET / MikroTik 品牌货：白牌需靠价差"
+ ],
  "saga_fit": {
-  "p1": "STC-424XGGM",
+  "p1": "STC-28DGGPM",
   "tier": 20,
-  "why": "官网快照对位：10G/2.5G 词频 15、交换机 42 → 24 GE + 4×10G L2+ 起手（来源：官网快照；档位：分销商/经销商→20%）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W"
  },
- "email_hook": "Petra, we supply the Marvell-based 24-port gigabit L2+ switch with 4×10G SFP+ uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — is your current need more on the 24G + 4×10G aggregation side or on PoE access?"
+ "email_hook": "Petra, alongside the PLANET and MikroTik switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PLANET PoE model do your resellers order most, so we quote its equivalent first?"
 }

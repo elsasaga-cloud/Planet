@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（plvision.eu，快照 2026-10-21）",
- "summary": "波兰系统集成/工程商：官网「PLVision: Leading Open Networking Transformation」（en-US）；品类词：电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE；站内品牌：Ubiquiti；站内型号：TR-178；表内「Marvell芯片 几个牌子的」；群发 8 次、无回复。",
- "type": "系统集成/工程商",
+ "summary": "波兰 PLVision（2007 年起开放网络软件工程服务：SONiC / SONiC-Lite、switchdev、开源 NOS 适配与定制开发；表内「Marvell 芯片，几个牌子的」「可以着重跟一下」；KP Olena Kozlova（Co-Founder & CEO）、Iryna Kupetska（CFO））；群发 8 次无回复。",
+ "type": "开放网络软件工程服务商（非渠道）",
  "size": "",
  "brands_seen": [
   "Ubiquiti"
@@ -23,41 +23,61 @@
    "quote": "Marvell芯片 几个牌子的",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "PLVision 服务定位",
+   "quote": "Since 2007, PLVision has been driving global connectivity reach … Custom product development based on open-source technologies ; Open NOS enablement and customization for hardware",
+   "url": "https://plvision.eu/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Marvell 芯片 几个牌子的",
+   "quote": "Marvell芯片 几个牌子的；可以着重跟一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "kp": [
+  {
+   "name": "Olena Kozlova",
+   "title": "Co-Founder & CEO",
+   "email": "olena.kozlova@plvision.eu",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": "C",
+ "override_reason": "非渠道：开放网络软件工程服务商（PLVision，SONiC/switchdev 适配），不转售成品交换机；c_sub=非渠道（工程服务）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "波兰",
   "other": "官网 plvision.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "数据中心 / 企业 IT",
-  "网络交换 / PoE"
+  "开放网络 NOS 软件工程服务"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "开放网络软件工程服务商（非渠道）",
   "region": "波兰",
   "contact": "contact@plvision.eu、olena.kozlova@plvision.eu"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://plvision.eu/）",
-  "在售同口型交换品牌：Ubiquiti → 直接对位替换",
-  "官网公开邮箱：contact@plvision.eu",
-  "用户表兴趣/备注：Marvell芯片 几个牌子的"
+  "首页：Leading Open & Disaggregated Networking Transformation ; Custom product development based on open-source technologies ; Open NOS enablement and customization for hardware",
+  "页面 /blog/products/solution-brief-sonic-lite-management-switch、/switchdev-development-implementation；表内：Marvell 芯片 几个牌子的"
  ],
- "risks": [],
+ "risks": [
+  "非渠道：开放网络软件工程服务（SONiC/switchdev 适配），不采购成品交换机转售"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手（来源：官网快照；档位：系统集成/工程商→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "软件工程服务商（NOS 适配），不转售成品交换机，最多采购样机 → 改 C（可作 Marvell 平台样机线索保留于 JSON）"
  },
- "email_hook": "Olena, alongside the Ubiquiti lines you carry, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：工程服务商非渠道）"
 }

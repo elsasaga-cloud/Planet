@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（geovision.com.tw，快照 2026-10-21）",
- "summary": "台湾品牌商/贴牌需求（OEM/ODM）：官网「GeoVision」（en）；品类词：安防监控（CCTV / 门禁） / 网络交换 / PoE；站内型号：GV-IA1330、GV-LPR2812-DL、GV-AS1620、GV-AS4110；表内「MC SFP switch POE 自己的logo」；表内未见跟进记录。",
- "type": "品牌商/贴牌需求（OEM/ODM）",
+ "summary": "台湾 GeoVision Inc.（奇偶科技，视频监控厂商：IP 摄像机、云监控平台、门禁、GV- 系列 PoE 交换机；表内「MC / SFP / switch / PoE，自己的 logo」）；表内无跟进记录。",
+ "type": "台湾上市安防厂商（自有 GV 品牌）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,52 @@
    "quote": "MC SFP switch POE 自己的logo",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "GeoVision 公司简介",
+   "quote": "GeoVision specializes in advanced video surveillance solutions, offering state-of-the-art IP cameras, cloud-based surveillance platforms, and tailored surveillance software",
+   "url": "https://www.geovision.com.tw/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "MC SFP switch PoE 自己的 logo",
+   "quote": "MC SFP switch  POE 自己的logo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "台湾厂商（GeoVision，上市），自有 GV-POE 系列有既定 ODM，非渠道客户；c_sub=厂商/台湾（非渠道）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "台湾",
   "other": "官网 geovision.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "安防监控（CCTV / 门禁）",
-  "网络交换 / PoE"
+  "视频监控 / 门禁（自有品牌 GeoVision）"
  ],
  "channels": {
-  "role": "品牌商/贴牌需求（OEM/ODM）",
+  "role": "台湾上市安防厂商（自有 GV 品牌）",
   "region": "台湾",
   "contact": "sales@geovision.com.tw"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.geovision.com.tw/）",
-  "用户表兴趣/备注：MC SFP switch POE 自己的logo"
+  "官网：GeoVision specializes in advanced video surveillance solutions, offering state-of-the-art IP cameras, cloud-based surveillance platforms；站内 GV-AS1620 / GV-AS4110 门禁、kw poe 56"
  ],
  "risks": [
-  "非主攻区（T5）：低频跟进，不单独做本地化"
+  "台湾厂商、上市公司：自有 GV-POE 系列有既定 ODM，非渠道客户（INH：台湾厂商不作客户）"
  ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": null,
   "tier": 30,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：品牌商/贴牌需求（OEM/ODM）→30%）；官网监控词频高 → 备选 STC-424DGGPM-280W（24 口 PoE 走量）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "台湾厂商（TPEx 上市）自有 GV-POE 系列有既定 ODM，非 Saga 渠道客户 → 改 C"
  },
- "email_hook": "We supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which model would you want to see first under your own label?"
+ "email_hook": "（不发送：台湾厂商/上市，非渠道）"
 }
