@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（eless.it，快照 2026-10-21）",
- "summary": "意大利系统集成/工程商：官网「Eless - Eless Group」（it-IT）；站内型号：IT12099721008、IT15925771006；表内「Moxa收发器 / from: 阿里巴巴RFQ」；表内未见跟进记录。",
- "type": "系统集成/工程商",
+ "summary": "意大利 ELESS Air Innovations SRL（能效/空气净化技术方案；阿里巴巴 RFQ「Moxa 收发器」；KP Marcello Cioccolanti）；表内未跟进。",
+ "type": "能效技术公司（终端用户）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,53 @@
    "quote": "Moxa收发器 / from: 阿里巴巴RFQ",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Eless 定位",
+   "quote": "Eless - Eless Group ; le migliori soluzioni tecnologiche per l’efficientamento energetico",
+   "url": "https://www.eless.it/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Moxa 收发器 RFQ",
+   "quote": "Moxa收发器 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "非渠道终端用户 + 收发器 RFQ；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "意大利",
   "other": "官网 eless.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "能效 / 空气净化技术（意大利）"
  ],
  "channels": {
-  "role": "系统集成/工程商",
+  "role": "能效技术公司（终端用户）",
   "region": "意大利",
   "contact": "info@eless.it"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.eless.it/）",
-  "官网公开邮箱：info@eless.it",
-  "用户表兴趣/备注：Moxa收发器 / from: 阿里巴巴RFQ"
+  "官网：Mettiamo a servizio di aziende, pubblica amministrazione e privati le migliori soluzioni tecnologiche per l’efficientamento energetico",
+  "表内：Moxa 收发器 / from: 阿里巴巴 RFQ；KP Marcello Cioccolanti"
  ],
- "risks": [],
+ "risks": [
+  "非渠道终端用户；RFQ 为光收发器（Saga 不供）"
+ ],
  "saga_fit": {
-  "p1": "STI-110GE",
+  "p1": null,
   "tier": 25,
-  "why": "工业迷你 1 光 1 电（MC 位）（来源：用户表兴趣；档位：系统集成/工程商→25%）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "非渠道终端用户（能效/空气净化），单次收发器 RFQ → 改 C"
  },
- "email_hook": "Marcello, we supply the Marvell-based DIN-rail gigabit industrial media converter (1 SFP + 1 RJ45) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which fiber side do you need most — SFP-based or fixed single-mode SC?"
+ "email_hook": "（不发送：终端用户）"
 }

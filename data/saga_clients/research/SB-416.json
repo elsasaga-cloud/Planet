@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（vivanet.tr，快照 2026-10-21）",
- "summary": "土耳其电信/ISP/网络运营：官网「Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet」（tr）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换；站内型号：AS212193；表内「Bypass模块 / from: 领英」；表内未见跟进记录。",
- "type": "电信/ISP/网络运营",
+ "summary": "土耳其 vivanet / Uğur Eren（光纤互联网运营商（10 Gbps 套餐、AS212193）；领英线索「Bypass 模块」；KP Uğur Eren（founder））；表内未跟进。",
+ "type": "光纤 ISP（运营商，bypass 模块需求）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,40 +21,53 @@
    "quote": "Bypass模块 / from: 领英",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "vivanet 定位",
+   "quote": "Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet ; Vivanet’ten 10.000 Mbps (10Gbps) hızına kadar sınır tanımayan internet",
+   "url": "https://vivanet.tr/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "Bypass 模块 领英",
+   "quote": "Bypass模块 / from: 领英",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "运营商（ISP）+ bypass 模块需求（Saga 不供）；c_sub=运营商/品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "土耳其",
   "other": "官网 vivanet.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "光纤 / 媒体转换"
+  "光纤互联网运营（土耳其）"
  ],
  "channels": {
-  "role": "电信/ISP/网络运营",
+  "role": "光纤 ISP（运营商，bypass 模块需求）",
   "region": "土耳其",
   "contact": "iletisim@ugureren.com"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://vivanet.tr/）",
-  "官网公开邮箱：iletisim@vivanet.com.tr、ornek@email.com、vivainternet@hs02.kep.tr",
-  "用户表兴趣/备注：Bypass模块 / from: 领英"
+  "官网：vivanet ile fiber internet, altyapı sorgulama, yüksek hızlı internet tarifeleri ; Vivanet’ten 10.000 Mbps (10Gbps) hızına kadar；站内 AS212193",
+  "表内：Bypass 模块 / from: 领英；KP Uğur Eren, founder"
  ],
- "risks": [],
+ "risks": [
+  "运营商（ISP）采购体系；需求 bypass 模块 Saga 不供（整机 bypass 仅 SmartByte 型号）"
+ ],
  "saga_fit": {
   "p1": null,
   "tier": 25,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电信/ISP/网络运营→25%）"
+  "why": "运营商（ISP）且需求为 bypass 模块（Saga 不供）→ 改 C"
  },
- "email_hook": "Uğur, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "（不发送：运营商/品类不供）"
 }

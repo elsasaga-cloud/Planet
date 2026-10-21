@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（elarion.io，快照 2026-10-21）",
- "summary": "立陶宛电商/网店：官网「Elarion」（en）；表内「无人机模块 / from: Shopify」；表内未见跟进记录。",
- "type": "电商/网店",
+ "summary": "立陶宛 UAB Elarionas / Elarion（无人机模块；Shopify 订单；KP Kristina Čeponkienė；快照空）；表内未跟进。",
+ "type": "无人机模块公司（品类不符/守界）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,46 @@
    "quote": "无人机模块 / from: Shopify",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "无人机模块 Shopify",
+   "quote": "无人机模块 / from: Shopify",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "品类不符（无人机模块）+ 守界备注；c_sub=品类不符",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "立陶宛",
   "other": "官网 elarion.io，语言 en，快照状态 ok；角色判定来源：用户表"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "无人机模块（立陶宛）"
  ],
  "channels": {
-  "role": "电商/网店",
+  "role": "无人机模块公司（品类不符/守界）",
   "region": "立陶宛",
   "contact": "kristina@elarion.io"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://elarion.io/）",
-  "用户表兴趣/备注：无人机模块 / from: Shopify"
+  "表内：无人机模块 / from: Shopify；KP Kristina Ceponkiene",
+  "快照：内容为空"
  ],
- "risks": [],
+ "risks": [
+  "品类不符：无人机模块；守界备注（波罗的海无人机多涉军用）；小国"
+ ],
  "saga_fit": {
   "p1": null,
-  "tier": 20,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电商/网店→20%）"
+  "tier": 25,
+  "why": "无人机模块（品类不符，且区域无人机光纤多为军用）→ 改 C"
  },
- "email_hook": "Kristina, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "（不发送：品类不符/守界）"
 }

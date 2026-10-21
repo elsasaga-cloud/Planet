@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（steplockaccess.se，快照 2026-10-21）",
- "summary": "瑞典网络/安防经销或集成（官网未见角色词，待核）：官网「StepLock」（en）；表内「云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业」；群发 6 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "瑞典 StepLock Access（门禁/锁具系统公司；表内「云管理 PoE，能支持 PoE 状态和开/关；给客户演示了 2 光 10 电的网管界面，客户比较专业」；KP Peter）；表内 6 次跟进无回复。",
+ "type": "门禁系统公司（瑞典，网管 PoE 配套）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,54 @@
    "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "云管理 PoE 演示网管界面",
+   "quote": "云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Peter",
+   "title": "（职务待核）",
+   "email": "peter@steplockaccess.se",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "瑞典",
   "other": "官网 steplockaccess.se，语言 en，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "门禁 / 锁具系统（瑞典）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "门禁系统公司（瑞典，网管 PoE 配套）",
   "region": "瑞典",
   "contact": "peter@steplockaccess.se"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://steplock.com/SE/sv/access）",
-  "用户表兴趣/备注：云管理PoE 能支持PoE状态和开/关 给客户演示了2光10电的网管界面，客户比较专业"
+  "表内：云管理 PoE 能支持 PoE 状态和开/关 给客户演示了 2 光 10 电的网管界面，客户比较专业；KP Peter",
+  "快照：StepLock（内容空）"
  ],
- "risks": [],
+ "risks": [
+  "需求含云管理（Saga 不做，仅本地 Web/SNMP）；6 次无回复 → 跟进演示后续；官网快照空"
+ ],
  "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE L2+ 走量款（来源：用户表兴趣；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "PoE 口状态/开关控制 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Web 管理每口 PoE 开关）贴 StepLock 标；云管理 Saga 不做（注明）"
  },
- "email_hook": "Peter, we supply the Marvell-based 24-port PoE+ L2+ managed switch with 4 SFP uplinks (280 W) as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "Peter, following the web-UI demo of the 2-fibre + 10-copper switch: our Marvell-based 8-PoE + 2 SFP L2+ supports per-port PoE status and remote on/off via web/SNMP (no cloud, local management) and can carry the StepLock label from small lots, CE/RoHS — would per-port PoE scheduling and reset meet your access-control use case?"
 }

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（ustc-corp.com，快照 2026-10-21）",
- "summary": "法国电信/ISP/网络运营：官网「Netceed - Global Telecom & Data-Center Infrastructure Solutions」（en-US）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆；站内型号：RHW-2、USE-2；表内「SFP poe switch DAC；之前的mail 不行了 contact@eurotechnocom.fr」；群发 7 次、无回复。",
- "type": "电信/ISP/网络运营",
+ "summary": "法国 Netceed（原 USTC/Eurotechnocom：全球电信与数据中心基础设施方案分销集团「global leader in telecom and broadband solutions」；表内「SFP PoE switch DAC」「之前的 mail 不行了」）；表内 7 次跟进无回复。",
+ "type": "全球电信基础设施分销集团",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,42 +21,53 @@
    "quote": "SFP poe switch DAC；之前的mail 不行了 contact@eurotechnocom.fr",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Netceed 定位",
+   "quote": "Netceed - Global Telecom & Data-Center Infrastructure Solutions ; Netceed is a global leader in telecom and broadband solutions",
+   "url": "https://netceed.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "SFP PoE switch DAC",
+   "quote": "SFP poe switch DAC；之前的mail 不行了",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "体量过大：Netceed 全球分销集团；c_sub=体量过大",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "法国",
   "other": "官网 ustc-corp.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "电信 / FTTH / ISP 设备",
-  "无线 / WiFi",
-  "数据中心 / 企业 IT",
-  "布线 / 线缆",
-  "光纤 / 媒体转换",
-  "网络交换 / PoE"
+  "电信 / 数据中心基础设施分销（全球集团）"
  ],
  "channels": {
-  "role": "电信/ISP/网络运营",
+  "role": "全球电信基础设施分销集团",
   "region": "法国",
   "contact": "hello.fr@netceed.com、contact@eurotechnocom.fr"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://netceed.com/）",
-  "用户表兴趣/备注：SFP poe switch DAC；之前的mail 不行了 contact@eurotechnocom.fr"
+  "官网：Netceed is a global leader in telecom and broadband solutions, offering fiber, wireless, and network components with logistics, services, and support；kw telecom 98 / data center 103 / fiber 72",
+  "表内：SFP PoE switch DAC；之前的 mail 不行了 contact@eurotechnocom.fr"
  ],
- "risks": [],
+ "risks": [
+  "体量：Netceed 全球电信基础设施分销集团；品类需求含 SFP/DAC（Saga 不供）；原邮箱失效"
+ ],
  "saga_fit": {
   "p1": null,
-  "tier": 25,
-  "why": "SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电信/ISP/网络运营→25%）"
+  "tier": 20,
+  "why": "Netceed 为全球性电信/数据中心基础设施分销集团（体量过大，供应商准入体系）→ 改 C"
  },
- "email_hook": "We are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "（不发送：巨头）"
 }

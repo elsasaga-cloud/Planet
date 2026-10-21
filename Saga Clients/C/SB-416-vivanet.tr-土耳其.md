@@ -1,18 +1,19 @@
 # vivanet.tr
 
-> **评级 B**　|　土耳其　|　档案编号 `SB-416`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　土耳其　|　档案编号 `SB-416`　|　优先级 —　|　状态：名单内·未触达
 >
-> **类型**：电信/ISP/网络运营（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：光纤 ISP（运营商，bypass 模块需求）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-416
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # 运营商（ISP）+ bypass 模块需求（Saga 不供）；c_sub=运营商/品类不符
 score: 42
 country: 土耳其
 region: 土耳其
 website: vivanet.tr
-type: 电信/ISP/网络运营
+type: 光纤 ISP（运营商，bypass 模块需求）
 tier_tags: ["询盘流水"]
 deal: no
 replies: 0
@@ -29,13 +30,12 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：土耳其电信/ISP/网络运营：官网「Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet」（tr）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换；站内型号：AS212193；表内「Bypass模块 / from: 领英」；表内未见跟进记录。（调研 2026-10-21；表内兴趣：—）
-- **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **是谁**：土耳其 vivanet / Uğur Eren（光纤互联网运营商（10 Gbps 套餐、AS212193）；领英线索「Bypass 模块」；KP Uğur Eren（founder））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
+- **为什么是 C 级**：**调研后定级 C**（运营商（ISP）+ bypass 模块需求（Saga 不供）；c_sub=运营商/品类不符）；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；C 级细分：运营商/品类不符
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：— — 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电信/ISP/网络运营→25%）；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：运营商（ISP）且需求为 bypass 模块（Saga 不供）→ 改 C）
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不跟进；仅归档防重复开发
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | vivanet.tr（取自域名，公司全名待核） | 推断 |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | vivanet.tr / ugureren.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 电信/ISP/网络运营 | 推断（据兴趣/备注关键词） |
+| 类型 | 光纤 ISP（运营商，bypass 模块需求） | 推断（据兴趣/备注关键词） |
 | 联系人 | Uğur Eren, founder | 事实（用户表） |
 | 来源（From） | 2025.8.21 | 事实（用户表） |
 | 兴趣（Interested in） | — | 事实（用户表） |
@@ -55,31 +55,38 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（vivanet.tr，快照 2026-10-21）
-- **是谁**：土耳其电信/ISP/网络运营：官网「Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet」（tr）；品类词：电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换；站内型号：AS212193；表内「Bypass模块 / from: 领英」；表内未见跟进记录。
-- **类型**：电信/ISP/网络运营
+- **是谁**：土耳其 vivanet / Uğur Eren（光纤互联网运营商（10 Gbps 套餐、AS212193）；领英线索「Bypass 模块」；KP Uğur Eren（founder））；表内未跟进。
+- **类型**：光纤 ISP（运营商，bypass 模块需求）
 - **【官网快照】官网标题：Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换**
   > vivanet ile fiber internet, altyapı sorgulama, yüksek hızlı internet tarifeleri ve online abonelik işlemlerini tek adreste keşfedin. Hemen başvurun.
   > 来源：https://vivanet.tr/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > Bypass模块 / from: 领英
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】vivanet 定位**
+  > Fiber İnternet, Altyapı Sorgulama ve Tarifeler | vivanet ; Vivanet’ten 10.000 Mbps (10Gbps) hızına kadar sınır tanımayan internet
+  > 来源：https://vivanet.tr/（抓取 2026-10-21）
+- **【用户表】Bypass 模块 领英**
+  > Bypass模块 / from: 领英
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **调研后定级**：C（原自动 B）——运营商（ISP）+ bypass 模块需求（Saga 不供）；c_sub=运营商/品类不符
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 土耳其 |
 | 其他 | 官网 vivanet.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：电信 / FTTH / ISP 设备；无线 / WiFi；光纤 / 媒体转换
-- **触达通道（公开）**：role: 电信/ISP/网络运营；region: 土耳其；contact: iletisim@ugureren.com
+- **业务线**：光纤互联网运营（土耳其）
+- **触达通道（公开）**：role: 光纤 ISP（运营商，bypass 模块需求）；region: 土耳其；contact: iletisim@ugureren.com
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://vivanet.tr/）
-  - 官网公开邮箱：iletisim@vivanet.com.tr、ornek@email.com、vivainternet@hs02.kep.tr
-  - 用户表兴趣/备注：Bypass模块 / from: 领英
-- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电信/ISP/网络运营→25%）
-- **邮件切入句（英文）**：Uğur, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
+  - 官网：vivanet ile fiber internet, altyapı sorgulama, yüksek hızlı internet tarifeleri ; Vivanet’ten 10.000 Mbps (10Gbps) hızına kadar；站内 AS212193
+  - 表内：Bypass 模块 / from: 领英；KP Uğur Eren, founder
+- **风险/边界**：运营商（ISP）采购体系；需求 bypass 模块 Saga 不供（整机 bypass 仅 SmartByte 型号）
+- **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——运营商（ISP）且需求为 bypass 模块（Saga 不供）→ 改 C
+- **邮件切入句（英文）**：（不发送：运营商/品类不供）
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -127,33 +134,10 @@ updated: 2026-10-21
 |---|---|---|---|---|---|---|---|---|---|
 | 询盘统计表.xlsx#Sheet1:182 |  | https://vivanet.tr/ | 土耳其 | Uğur Eren, founder | 2025.8.21 |  | iletisim@ugureren.com | Bypass模块 from: 领英 | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI（来源：用户表兴趣；档位：电信/ISP/网络运营→25%） | — | 深挖对位；档位 25%（电信/ISP/网络运营） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：运营商/品类不符。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-416,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -172,7 +156,7 @@ updated: 2026-10-21
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -181,21 +165,7 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hi Uğur,
-
-Picking up our earlier exchange about PoE / industrial switches. Uğur, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -207,11 +177,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-20**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-21：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）；人工/调研定级 → C
 
 ---
 

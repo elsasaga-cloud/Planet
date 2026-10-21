@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（floeter-sdt.de，快照 2026-10-21）",
- "summary": "德国安防集成/经销：官网「Flöter SDT I Sicherheit, Detektei und Technik GmbH」（de）；表内「找HDMI延长器的，对交换机和I/O也懂；49 177 4010888」；群发 7 次、无回复。",
- "type": "安防集成/经销",
+ "summary": "德国 Flöter SDT GmbH（Sicherheit, Detektei und Technik：保安服务、侦探与安防技术（报警系统、Doorman）；表内「找 HDMI 延长器的，对交换机和 I/O 也懂」；KP Daniel Flöter）；表内 7 次跟进无回复。",
+ "type": "保安服务兼安防技术安装（德国）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,38 +21,61 @@
    "quote": "找HDMI延长器的，对交换机和I/O也懂；49 177 4010888",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Flöter 定位",
+   "quote": "Flöter SDT I Sicherheit, Detektei und Technik GmbH ; Alarmanlagen ; Doorman",
+   "url": "https://floeter-sicherheit.de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "找 HDMI 延长器",
+   "quote": "找HDMI延长器的，对交换机和I/O也懂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Daniel Flöter",
+   "title": "（负责人）",
+   "email": "d@floeter-sdt.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 floeter-sdt.de，语言 de，快照状态 ok；角色判定来源：官网文案"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "保安服务 / 侦探 / 安防技术（德国）"
  ],
  "channels": {
-  "role": "安防集成/经销",
+  "role": "保安服务兼安防技术安装（德国）",
   "region": "德国",
   "contact": "d@floeter-sdt.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://floeter-sicherheit.de/）",
-  "官网公开邮箱：buero@floeter-sdt.de",
-  "用户表兴趣/备注：找HDMI延长器的，对交换机和I/O也懂；49 177 4010888"
+  "官网：Flöter SDT I Sicherheit, Detektei und Technik bietet Ihnen mit langjähriger Expertise zuverlässige Sicherheitslösungen ; Alarmanlagen ; Doorman",
+  "表内：找 HDMI 延长器的，对交换机和 I/O 也懂；KP Daniel Floter"
  ],
- "risks": [],
+ "risks": [
+  "主业保安服务（安防技术为副线，量小）；询问品类 HDMI 延长器 Saga 不供；7 次无回复"
+ ],
  "saga_fit": {
-  "p1": null,
+  "p1": "STC-28DGGPM",
   "tier": 25,
-  "why": "VC/光端机：Saga 不做（可只推交换机）（来源：用户表兴趣；档位：安防集成/经销→25%）"
+  "why": "安防技术安装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；HDMI 延长器 Saga 不供"
  },
- "email_hook": "Daniel, we are an OEM/ODM source for Marvell-based PoE and DIN-rail industrial switches (neutral packing, CE/RoHS/FCC); for the accessory item you asked about we would quote a matching switch instead — which port count would that application need, 8 or 24?"
+ "email_hook": "Daniel, for the PoE switches in your alarm and camera installations, we supply Marvell-based 8-PoE + 2 SFP L2+ (and 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your sites typically need?"
 }

@@ -2,7 +2,7 @@
 
 > **评级 B**　|　意大利　|　档案编号 `SB-444`　|　优先级 ★★　|　状态：已推送 5 次·未回复
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：推送 5 次（2025-05-29 → 2025-10-16）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：门禁/消防系统集成商（意大利，bypass 需求）（推断）　|　**历史关系**：推送 5 次（2025-05-29 → 2025-10-16）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-444
@@ -12,14 +12,14 @@ score: 40
 country: 意大利
 region: 欧洲
 website: eter.it
-type: 安防集成/经销
+type: 门禁/消防系统集成商（意大利，bypass 需求）
 tier_tags: ["A优质名单(Italy)", "AI评估(IT)·DONE"]
 deal: no
 replies: 0
 followups: 5
 first_contact: 2025-05-29
 last_contact: 2025-10-16
-p1: STC-28DGGPM
+p1: STI-288GPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
@@ -29,10 +29,10 @@ updated: 2026-10-21
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：意大利安防集成/经销：官网「Eter Biometrics」（it-IT）；产品页：dds-prodotti、tansa-prodotti、euklis-prodotti、idenfit-prodotti；表内「介绍了bypass和接线图，大概懂，让邮件发给他信息；39 335 6671 667 T 39 059 7874 620」；群发 5 次、无回复。（调研 2026-10-21；表内兴趣：介绍了bypass和接线图，大概懂，让邮件发给他信息）
+- **是谁**：意大利 Eter Biometric Technologies Srl（门禁、考勤、火灾探测（Hochiki）、HR 系统集成（Suprema 终端）；表内「介绍了 bypass 和接线图，大概懂，让邮件发给他信息」；KP Ing. Andrea Giacobazzi（CEO and founder））；表内 5 次跟进无回复。（调研 2026-10-21；表内兴趣：介绍了bypass和接线图，大概懂，让邮件发给他信息）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-05-29 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：bypass 需求 → 整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明非 Saga 自有型号）；常规门禁配套 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2）/ 商用 STC-28DGGPM（$84.1）；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
@@ -44,7 +44,7 @@ updated: 2026-10-21
 | 名称 | Eter biometric technologies Srl | 事实（用户表） |
 | 国家 | 意大利 | 事实（用户表）|
 | 网站/域名 | eter.it | 事实（用户表 URL/邮箱域名） |
-| 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
+| 类型 | 门禁/消防系统集成商（意大利，bypass 需求） | 推断（据兴趣/备注关键词） |
 | 联系人 | Ing. Andrea Giacobazzi / CEO and founder | 事实（用户表） |
 | 来源（From） | 埃森展2024 | 事实（用户表） |
 | 兴趣（Interested in） | 介绍了bypass和接线图，大概懂，让邮件发给他信息 | 事实（用户表） |
@@ -65,31 +65,39 @@ updated: 2026-10-21
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（eter.it，快照 2026-10-21）
-- **是谁**：意大利安防集成/经销：官网「Eter Biometrics」（it-IT）；产品页：dds-prodotti、tansa-prodotti、euklis-prodotti、idenfit-prodotti；表内「介绍了bypass和接线图，大概懂，让邮件发给他信息；39 335 6671 667 T 39 059 7874 620」；群发 5 次、无回复。
-- **类型**：安防集成/经销
+- **是谁**：意大利 Eter Biometric Technologies Srl（门禁、考勤、火灾探测（Hochiki）、HR 系统集成（Suprema 终端）；表内「介绍了 bypass 和接线图，大概懂，让邮件发给他信息」；KP Ing. Andrea Giacobazzi（CEO and founder））；表内 5 次跟进无回复。
+- **类型**：门禁/消防系统集成商（意大利，bypass 需求）
+- **在卖/在用品牌**：Suprema, Hochiki
 - **【官网快照】官网标题：Eter Biometrics**
   > Controllo Accessi Sistemi di controllo accessi che assicurano un livello superiore di protezione e gestione degli ambienti. Scopri di più Antincendio Hochiki Affidabilità, innovazione e qualità: i sistemi Hochiki proteggono […]
   > 来源：https://www.eter.it/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > 介绍了bypass和接线图，大概懂，让邮件发给他信息；39 335 6671 667 T 39 059 7874 620
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】Eter 定位**
+  > Home - Eter Biometrics ; Controllo Accessi ; Antincendio Hochiki ; terminali Suprema
+  > 来源：https://www.eter.it/（抓取 2026-10-21）
+- **【用户表】bypass 接线图 让邮件发信息**
+  > 介绍了bypass和接线图，大概懂，让邮件发给他信息
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Andrea Giacobazzi（）a.giacobazzi@eter.it 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
 | 总部/地址 | 意大利 |
 | 其他 | 官网 eter.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
 
-- **业务线**：（官网无品类词 / 无快照：按表内兴趣）
-- **触达通道（公开）**：role: 安防集成/经销；region: 意大利；contact: a.giacobazzi@eter.it、info@eter.it
+- **业务线**：门禁 / 考勤 / 火灾探测 / HR 系统集成（意大利）
+- **触达通道（公开）**：role: 门禁/消防系统集成商（意大利，bypass 需求）；region: 意大利；contact: a.giacobazzi@eter.it、info@eter.it
 - **近况信号**：
-  - 官网在线（快照 2026-10-21，https://www.eter.it/）
-  - 官网公开邮箱：info@eter.it
-  - 用户表兴趣/备注：介绍了bypass和接线图，大概懂，让邮件发给他信息；39 335 6671 667 T 39 059 7874 620
-- **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **邮件切入句（英文）**：Andrea, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+  - 官网：Controllo Accessi ; Antincendio Hochiki ; Sistema di Gestione HR a 360° integrabile con i terminali Suprema；页面 /dds-prodotti/、/tansa-prodotti/
+  - 表内：介绍了 bypass 和接线图，大概懂，让邮件发给他信息；KP Ing. Andrea Giacobazzi / CEO and founder
+- **风险/边界**：bypass 整机为 SmartByte 型号（非 Saga 自有线，注明）；消防/生命安全场景仅供民用网络侧（守界备注）；5 次无回复 → 按其要求邮件发资料
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——bypass 需求 → 整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明非 Saga 自有型号）；常规门禁配套 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2）/ 商用 STC-28DGGPM（$84.1）
+- **邮件切入句（英文）**：Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -136,6 +144,7 @@ updated: 2026-10-21
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Andrea Giacobazzi | — | a.giacobazzi@eter.it | 调研核实（公开页） | 用户表 |
 | Ing. Andrea Giacobazzi | — | a.giacobazzi@eter.it / info@eter.it / +393356671667 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -153,17 +162,18 @@ updated: 2026-10-21
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：安防集成/经销→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（安防集成/经销） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：bypass 需求 → 整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明非 Saga 自有型号）；常规门禁配套 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2）/ 商用 STC-28DGGPM（$84.1） | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（门禁/消防系统集成商（意大利，bypass 需求）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -173,7 +183,7 @@ updated: 2026-10-21
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -201,25 +211,21 @@ updated: 2026-10-21
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
 Hi Andrea,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Andrea, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?
+Picking up our earlier exchange about PoE / industrial switches. Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -3,8 +3,8 @@
  "name_official": "",
  "researched_at": "2026-10-21",
  "website_status": "在线（limehome.de，快照 2026-10-21）",
- "summary": "德国网络/安防经销或集成（官网未见角色词，待核）：官网「Limehome | designed to stay」（de）；表内「需要云管理；49 151 6066 0910」；群发 7 次、无回复。",
- "type": "网络/安防经销或集成（官网未见角色词，待核）",
+ "summary": "德国 Limehome（数字化酒店/服务式公寓运营商，多国站点；表内「需要云管理」；KP Nicolas Tremmel（project manager））；表内 7 次跟进无回复。",
+ "type": "酒店运营商（终端用户，需云管理）",
  "size": "",
  "brands_seen": [],
  "evidence": [
@@ -21,37 +21,53 @@
    "quote": "需要云管理；49 151 6066 0910",
    "url": "（本地 Clients/ 表格，无公开 URL）",
    "date": "2026-10-21"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "Limehome 定位",
+   "quote": "Limehome | designed to stay ; Als Vorreiter der digitalen Revolution in der Hotelbranche",
+   "url": "https://www.limehome.com/de/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "需要云管理",
+   "quote": "需要云管理",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "终端用户 + 云管理需求（Saga 不做）；c_sub=品类不符/终端用户",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1-auto（规则生成：官网快照 + 用户表；未逐家人工调研）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
   "hq": "德国",
   "other": "官网 limehome.de，语言 de，快照状态 ok；角色判定来源：待核"
  },
  "business_lines": [
-  "（官网无品类词 / 无快照：按表内兴趣）"
+  "服务式公寓 / 酒店运营（德国）"
  ],
  "channels": {
-  "role": "网络/安防经销或集成（官网未见角色词，待核）",
+  "role": "酒店运营商（终端用户，需云管理）",
   "region": "德国",
   "contact": "nicolas.tremmel@limehome.de"
  },
  "signals": [
-  "官网在线（快照 2026-10-21，https://www.limehome.com/de/）",
-  "用户表兴趣/备注：需要云管理；49 151 6066 0910"
+  "官网：Als Vorreiter der digitalen Revolution in der Hotelbranche setzt Limehome neue Maßstäbe ; Unsere Standorte ; Athen ; Córdoba ; Porto ; Verona",
+  "表内：需要云管理；KP Nicolas Tremmel / project manager"
  ],
- "risks": [],
+ "risks": [
+  "非渠道终端用户；需求云管理（Saga 不做）；7 次无回复"
+ ],
  "saga_fit": {
-  "p1": "STC-28DGGPM",
+  "p1": null,
   "tier": 25,
-  "why": "集成/安防 → 8 口 PoE+ 2 SFP L2+ 起手（项目小口数多）（来源：角色默认；档位：网络/安防经销或集成（官网未见角色词，待核）→25%）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）"
+  "why": "终端用户（公寓运营商自用）且需求为云管理交换机（Saga 不做云管理）→ 改 C"
  },
- "email_hook": "Nicolas, we supply the Marvell-based 8-port PoE+ L2+ managed switch with 2 SFP uplinks as an OEM/ODM source with neutral packing (CE/RoHS/FCC, small lots OK) — which port count do your typical sites need most — 8 or 24?"
+ "email_hook": "（不发送：终端用户/云管理不做）"
 }
